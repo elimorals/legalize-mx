@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1928-11-24"
+last_updated: "1928-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1928.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -559,6 +559,8 @@ Se deposita el Poder Ejecutivo del Estado, en un ciudadano que se que se denomin
 
 La elección de Gobernador será directa, en los términos que disponga la ley respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1928)</small>
+
 ### CAPITULO V.
 
 COMISION PERMANENTE Y SUS ATRIBUCIONES.
@@ -567,7 +569,7 @@ COMISION PERMANENTE Y SUS ATRIBUCIONES.
 
 ###### Art. 72.
 
-El Gobernador Constitucional entrará en funciones el día lo. de enero; durará en su encargo cuatro años, y nunca podrá ser reelecto antes de que hayan transcurrido dos períodos inmediatos a aquél en que fuera electo.
+El Gobernador Constitucional entrará a ejercer su encargo el día primero de enero; durará en él cuatro años y nunca podrá ser reelecto para el período inmediato.
 
 ###### Art. 73.
 
@@ -1292,3 +1294,9 @@ UNICO:- Este Decreto surte sus efectos legales desde la fecha de su promulgació
 P.O. 24 DE NOVIEMBRE DE 1928.
 
 Artículo Unico.- Este Decreto surte sus efectos legales al verificarse las elecciones para el XXXI Congreso Local, debiendo publicarse por Bando Solemne en todo el Estado.
+
+P.O. 28 DE NOVIEMBRE DE 1928.
+
+###### Artículo UNICO.
+
+Este Decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
