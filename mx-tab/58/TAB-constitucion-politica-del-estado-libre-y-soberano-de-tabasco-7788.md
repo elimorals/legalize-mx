@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1983-01-01"
+last_updated: "1983-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1983.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -381,9 +381,9 @@ Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras 
 
 Son facultades del Congreso:
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1983)</small>
 
-I.- Expedir, reformar y derogar Leyes y Decretos para la mejor administración del Estado;
+I.- Expedir, reformar y derogar Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social;
 
 II.- Determinar los fundos de ciudades, villas y pueblos;
 
@@ -403,9 +403,9 @@ VII.- Imponer las contribuciones que deban corresponder al Estado y a los Munici
 
 VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1983)</small>
 
-IX.- Legislar sobre Administración de Justicia, Salubridad Pública Estatal y vías de comunicaciones Estatales y Municipales;
+IX.- Legislar sobre Administración de Justicia, Sanidad Pública Estatal y vías de comunicaciones estatales y municipales; expedir Leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad;
 
 X.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale, haciendo la declaración que corresponde sobre las elecciones de Gobernador del Estado, de Diputados al Congreso local y de Regidores de los Ayuntamientos y en cumplimiento de lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos, en cuanto a las elecciones de Senadores al Congreso de Unión;
 
@@ -789,6 +789,8 @@ Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerar
 
 Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Supernumerario que designe el Pleno del Tribunal, el que podrá ser un Juez o el Secretario General de Acuerdos.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 60.
 
 El Tribunal Superior de Justicia residirá en la Capital del Estado y en ningún caso ejercerá sus funciones fuera de ella, a no ser que lo autorice la Legislatura.
@@ -951,8 +953,6 @@ La responsabilidad por delitos y faltas oficiales sólo exigirse durante el per�
 
 En demanda del orden civil no hay fuero ni inmunidad para ningún Funcionario Público, pero no podrá decretarse ninguna providencia de arraigo en su contra.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 73.
 
 Todos los empleados de Hacienda que tuvieren a su cargo caudales públicos en el Estado y Municipio, garantizarán suficientemente su manejo.
@@ -985,11 +985,35 @@ Todo funcionario y empleado público del Estado o de los Municipios, sin excepci
 
 Los Diputados, el Gobernador del Estado, los Magistrados del Tribunal Superior de Justicia y todos los Funcionarios de elección popular serán retribuidos por sus servicios como lo dispongan las leyes y pagados por la dependencia que legalmente corresponda o por los Municipios, en su caso. La Ley que les aumente o disminuya la remuneración entrará en vigor hasta el siguiente ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 76.
 
-El Estado, representado por el Ejecutivo, puede participar en empresas industriales, agrícolas y mercantiles, con el fin de impulsar la productividad y el desarrollo estatal.
+Corresponde al Estado la Rectoría del Desarrollo de la Entidad, para Garantizar que éste sea integral, que fortalezca su soberanía y su Régimen Democrático y que, mediante el Crecimiento Económico que fomente el empleo, y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de las libertades y la dignidad de los individuos, grupos y clases sociales cuya seguridad protege el derecho.
+
+El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomentos de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley.
+
+Al Desarrollo Económico Estatal Concurrirán con Responsabilidad Social, el Sector Público, el Sector Social y el Sector Privado, sin menoscabo de otras formas de Actividad Económica que contribuyan al Desarrollo de la Entidad.
+
+El Sector Público tendrá a su cargo, de manera exclusiva, las áreas estratégicas definidas por esta Constitución y las Leyes que de ellas emanen. Para un mejor cumplimiento de sus fines, la Ley Precisará las formas de Participación Social en estas áreas, conservando el Estado en todo tiempo el Control sobre la Conducción y Operación. Asimismo, podrá participar por sí, o a través de los Sectores Social o Privado de acuerdo con la Ley, para impulsar y organizar las areas prioritarias del desarrollo.
+
+Bajo criterios de equidad social y productividad, se apoyara e impulsará al sector social y al sector privado de la economía, sujetándolos junto con las actividades económicas que realiza el Estado, a las modalidades que dicte el interés Público y al uso, en beneficio general, de los recursos productivos, cuidando de su conservación y del medio ambiente.
+
+La Ley, establecerá los mecanismos que faciliten la organización y expansión de la actividad económica del sector social, mediante organizaciones para trabajadores, cooperativas, comunidades, empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
+
+La Ley alentará y protegerá la actividad económica que realizan los particulares y proveerá condiciones para el desenvolvimiento de la empresa privada en los términos legales.
+
+El Estado organizará un sistema de planeación Democrática del Desarrollo Estatal que imprima solidez, dinamismo, permanencia y equidad, al crecimiento de la economía y a la democratización Política, Social y Cultural del Estado.
+
+Los fines del proyecto estatal contenidos en esta constitución determinarán los objetivos de la planeación. La Planeación será democrática buscando la participación de los diversos sectores sociales y recogiendo las aspiraciones y demandas de la sociedad para incorporarlos al plan y a los programas de desarrollo. Por tanto, habrá un plan estatal de desarrollo al que se sujetarán obligatoriamente los programas de la administración pública del Estado. La Ley facultará al ejecutivo para que pueda establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, así como los criterios de la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los Gobiernos de las entidades municipales, e induzca y concerte con los particulares las acciones a realizar para su elaboración y ejecución.
+
+El ejecutivo informará al congreso del Estado de los criterios que sirvan de base al plan estatal de desarrollo, con el fin de que los tome en consideración al ejercer sus atribuciones constitucionales.
+
+El Estado coadyuvará con la Federación, promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado. Igualmente, fomentará la actividad agropecuaria y forestal para el mejor uso de la tierra, con obras de infraestructura, insumos, creditos y servicios de capacitación y extensionismo.
+
+El Estado impulsará también, junto con la Federación, la organización para la producción, industrialización y comercialización, que requiera la economía estatal y el beneficio de los campesinos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 77.
 
@@ -1342,3 +1366,17 @@ CUARTO.- Este Decreto surte sus efectos legales a partir del día de su publicac
 P.O. 1 DE ENERO DE 1983.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE ABRIL DE 1983.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto de Reformas y Adiciones a la Constitución Política del Estado de Tabasco, entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Toda norma que se oponga a estas Reformas y Adiciones Constitucionales, quedará derogada a partir de la vigencia de este Decreto.
+
+###### ARTICULO TERCERO.
+
+Estas Reformas y Adiciones han sido aprobadas en los términos del Artículo 83 de la Constitución Política del Estado, por la totalidad de las autoridades que constituyen los Ayuntamientos de esta Entidad Federativa.
