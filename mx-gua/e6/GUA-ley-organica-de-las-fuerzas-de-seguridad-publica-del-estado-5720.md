@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-las-fuerzas-de-seguridad-publica-del-estado-572
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-12-31"
-last_updated: "1972-12-31"
+last_updated: "1995-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DE LAS FUERZAS DE SEGURIDAD PUBLICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 31 de diciembre de 1972.
 
@@ -57,15 +57,11 @@ El Ejecutivo del Estado nombrará y removerá directamente al Director del Cuerp
 
 ###### ARTICULO 5º
 
-Serán requisitos mínimos para ingresar como individuo de tropa, ser ciudadano mexicano, de preferencia originario del Estado, saber leer y escribir y haber observado siempre buena conducta.
-
-Este personal recibirá instrucción cívica y el adiestramiento que lo capacite para el adecuado desempeño de su cometido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 15 DE AGOSTO DE 1995)
 
 ###### ARTICULO 6º
 
-Para la debida identificación, los miembros de las Fuerzas de Seguridad Pública del Estado, continuarán usando el uniforme y las insignias que acuerde el Ejecutivo, de conformidad con los respectivos grados y categorías.
-
-Estas insignias y uniformes serán distintos de los que usa el Ejército Nacional, de manera que en todo momento puedan evitarse confusiones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 15 DE AGOSTO DE 1995)
 
 SERVICIOS
 
@@ -99,15 +95,15 @@ COMPLEMENTARIAS
 
 ###### ARTICULO 10
 
-El personal de las Fuerzas de Seguridad Pública gozará de vacaciones y licencias de conformidad con lo dispuesto por la Ley de Escalafón e Inamovilidad de los Servidores Públicos del Estado, en lo que resulte aplicable, y entre tanto se expida el reglamento respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 15 DE AGOSTO DE 1995)
 
 ###### ARTICULO 11
 
-Los individuos de tropa y demás personal podrán retirarse del servicio solicitando su baja ante el Director del Cuerpo, y podrán ser dados de baja por observar mala conducta, o por sentencia ejecutoria que así lo declare.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 15 DE AGOSTO DE 1995)
 
 ###### ARTICULO 12
 
-El Director podrá imponer las correcciones disciplinarias que ameriten las faltas que cometan los miembros del Cuerpo de las Fuerzas de Seguridad Pública pudiendo consistir en amonestación, y arresto hasta por una semana. Las faltas graves podrán sancionarse con la baja en los términos del Artículo anterior.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE GUANAJUATO, P.O. 15 DE AGOSTO DE 1995)
 
 ## Transitorios.
 
@@ -134,3 +130,17 @@ MANUEL M. MORENO
 El Secretario General del Gobierno,
 
 Lic. Ernesto Gallardo Sánchez.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 15 DE AGOSTO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+LA PRESENTE LEY ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DELESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGAN LOS ARTICULOS 5, 6,10, 11 Y 12 DE LA LEY ORGANICA DE LAS FUERZAS DE SEGURIDAD PUBLICA DEL ESTADO Y TODAS LAS DEMAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.
