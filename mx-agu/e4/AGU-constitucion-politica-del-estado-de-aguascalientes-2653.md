@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1927-12-25"
+last_updated: "1928-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 1927.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -73,6 +73,10 @@ El Gobierno del Estado, es republicano, popular, representativo.
 
 DE LA SOBERANIA DEL ESTADO Y DE LA FORMA DE GOBIERNO.
 
+###### Artículo 8°
+
+El Territorio del Estado es el que comprende los Municipios de Aguascalientes, Calvillo, Rincón de Romos, Asientos, Tepezalá, Cosío y Jesús María, conservando el Estado su extensión y límites conforme al artículo 45 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 8º
 
 El territorio del Estado es el que comprenden (sic) los Municipios de Aguascalientes, Calvillo, Rincón de Romos, Asientos, Tepezalá, San José de Gracia, Cosío y Jesús María, conservando el Estado su extensión y límites conforme al artículo cuarenta y cinco de la Constitución Política de los Estados Unidos Mexicanos.
@@ -80,6 +84,8 @@ El territorio del Estado es el que comprenden (sic) los Municipios de Aguascalie
 ### CAPITULO SEGUNDO.
 
 DEL TERRITORIO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1928)</small>
 
 ###### Artículo 9º
 
@@ -447,6 +453,12 @@ II.- Ser abogado con título oficial, no obteniendo a título de suficiencia, ni
 
 III.- Tener treinta años cumplidos de edad, el día de la elección, estar en pleno ejercicio de sus derechos políticos y civiles, y haber observado una buena conducta pública y notoria.
 
+###### Artículo 4°
+
+Los Magistrados serán electos por el Congreso en funciones de Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto.
+
+Durarán en su encargo el tiempo que la ley señale, pero desde el año de mil novecientos veintitrés los Magistrados y los Jueces de Primera Instancia sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo, o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo, que calificará quién hubiere hecho el nombramiento.
+
 ### CAPITULO SEGUNDO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
@@ -621,11 +633,11 @@ Por tanto, mando se imprima, publique por bando y se circule para los fines cons
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE JUNIO DE 1919.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 15 DE ENERO DE 1926.
 
@@ -648,3 +660,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 25 DE DICIEMBRE DE 1927.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 10 DE JUNIO DE 1928.
+
+UNICO.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
