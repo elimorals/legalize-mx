@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-la-campana-para-la-erradicacion-de-la-17062"
 country: "mx"
 rank: "ley"
 publication_date: "1974-07-06"
-last_updated: "1974-07-06"
+last_updated: "2003-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE ESTABLECE LA CAMPAÑA PARA LA ERRADICACION DE LA GARRAPATA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial, el 6 de julio de 1974.
 
@@ -65,9 +65,11 @@ El Comité Estatal deberá elaborar un plan de trabajo y un reglamento a la pres
 
 ### CAPITULO II. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### Artículo 6o.
 
-Los propietarios de más de 100 cabezas de ganado bovino, están obligados a construir tanques garrapaticidas para bañar su ganado, conforme al modelo aprobado por el Comité Estatal de Campaña.
+Los propietarios de más de 100 cabezas de ganado bovino, caprino, ovino y equino, están obligados a construir tanques garrapaticidas para bañar su ganado, conforme al modelo aprobado por el Comité Estatal de la Campaña.
 
 ###### Artículo 7o.
 
@@ -97,17 +99,25 @@ Queda prohibida la entrada por cualquiera de los límites del Estado, de animale
 
 ### CAPITULO IV. SANCIONES
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
+
 ###### Artículo 13.
 
-Los inspectores fiscales, los de pieles y ganados, los miembros de la Policía Rural, los del Comité que permitan el paso de animales sin la documentación respectiva , a parte de ser destituídos de su cargo, se harán acreedores de una multa de $ 50.00 a $ 5,000.00.
+Los inspectores fiscales, los de pieles y ganado, los miembros de la Policía Rural o los del Comité que permitan el paso de animales sin la documentación respectiva independientemente de ser destituídos de su cargo, les será aplicada una multa de 200 a 1000 salarios minimos.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
 
 ###### Artículo 14.
 
-Las personas físicas o morales que se dediquen a la cría, engorda o compra-venta de ganado, si no cumplen con las obligaciones establecidas por esta Ley serán sancionadas con una multa de $ 50.00 a $ 5,000.00
+Las personas físicas o morales que se dediquen a la cría, engorda o compraventa de ganado, serán sancionados con una multa de 200 a 1000 salarios minimos, en caso de no cumplir
+
+con las disposiciones establecidas en la presente ley.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
 
 ###### Artículo 15.
 
-Cuando en una zona libre se descubra la existencia de la garrapata, ya sea por denuncia pública o de parte interesada, se investigara su origen y se sancionará a la persona causante de la infestación, con una multa de $ 50.00 a $ 5,000.00
+Cuando en una zona libre se descubra la existencia de la garrapata, ya sea por denuncia pública o de parte interesada, previa investigación de su origen, se aplicará al responsable una multa de 200 a 1000 salarios minimos, independientemente de las diversas acciones legales aplicables.
 
 ###### Artículo 16.
 
@@ -115,7 +125,7 @@ Las multas que establece esta Ley, serán impuestas por el Comité Estatal de la
 
 ###### Artículo 17.
 
-Las personas físicas o morales que en lo general no cumplan con lo dispuesto por esta Ley, serán acreedores a una multa de $ 50.00 a $ 10,000.00.
+(DEROGADO, P.O. 10 DE JUNIO DE 2003).
 
 T R A N S I T O R I O
 
@@ -128,3 +138,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de junio de mil novecientos setenta y cuatro.
 
 MANUEL A. RAVIZE.- Secretario General de Gobierno, Lic. MARIO GARZA RAMOS.- Rúbricas.
+
+P.O. 10 DE JUNIO DE 2003
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
