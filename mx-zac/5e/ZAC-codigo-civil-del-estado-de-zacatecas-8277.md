@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2001-04-21"
+last_updated: "2001-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2001.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -2727,7 +2727,7 @@ VI.- Los mayores de setenta y cinco años.
 
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
 
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
 
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 
@@ -2805,7 +2805,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 
 902.- Son nulas las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario y avalúo o de rendir cuentas.
 
-903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su consta, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
+903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
 
 904.- Cuando sea heredero el Estado, alguna institución pública educativa, o los herederos fueren incapaces, ausentes o desconocidos, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
@@ -2855,7 +2855,7 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los casos previstos en lo
 
 922.- Si fueren varios y obran conjuntamente los albaceas, la retribución se repartirá entre todos ellos; si fueren sucesivos, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
 
-923.- Si el testador legó conjuntamente a los albaceas algún bien, por el desempeño de su cargo, la parte de los que no admiten éste, acrercerá a los que lo ejerzan.
+923.- Si el testador legó conjuntamente a los albaceas algún bien, por el desempeño de su cargo, la parte de los que no admiten éste, acrecerá a los que lo ejerzan.
 
 924.- Los cargos de albacea e inventor acaban:
 
@@ -3191,7 +3191,7 @@ III.- Analfabetos que no sepan leer ni escribir, cuando se justifique que estamp
 
 1039.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
 
-1040.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero, o en bienes productivos de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+1040.- Si el acto fuera bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en bienes productivos de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
 
 1041.- Mientras una de las partes en los actos plurilaterales, no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del acto está obligada a restituir, no puede ser compelida la otra parte a restituir lo que hubiere recibido.
 
@@ -3283,7 +3283,7 @@ Los derechos personalísimos no son transmisibles ni por contrato ni por sucesi�
 
 1074.- Son contratos consensuales aquéllos que se perfeccionan por el mero consentimiento de las partes y la ley no exige que se prueben por escrito ni que se entregue el bien objeto del contrato para la constitución de éste.
 
-Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental, sea pública o privada, según determine la ley.
+Se llaman formales los contratos que, perfeccionándose por el mero consentimiento de las partes, deben probarse mediante prueba documental , sea pública o privada, según determine la ley.
 
 El contrato será real cuando la ley exija, para su constitución, que al celebrarse se entregue el bien o bienes que sean objeto de las obligaciones creadas por el contrato.
 
@@ -3785,11 +3785,11 @@ El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de l
 
 También podrá pedir la resolución aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
 
-1240.- La resolución del contrato fundada en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Reglamento Público en la forma prevenida por la ley.
+1240.- La resolución del contrato fundada en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
 
 1241.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
 
-1242.- Si la rescisión del contrato dependiere de un tercero y éste fuera dolosamente inducido a rescindirlo, se tendrá por no rescindido.
+1242.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
 ### CAPITULO SEGUNDO. DE LAS OBLIGACIONES A PLAZO
 
@@ -5019,9 +5019,9 @@ III.- Que si se trata de una casa su precio no exceda de cinco mil cuatrocientos
 
 1670.- Si el valor del inmueble excede del equivalente a cien días del salario mínimo vigente en la época de la celebración del contrato, su venta se otorgará en escritura pública.
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2001)</small>
 
-Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además, la constancia a que se refiere el Artículo 2475 fracción III de este Código.
+Sin embargo cuando se trate de operaciones o contratos otorgados por la Comisión para la Regularización de la Tenencia de la Tierra o por el Consejo Promotor de la Vivienda Popular, podrán hacerse constar en documento privado celebrado ante dos testigos, que contenga además la constancia a que se refiere el artículo 2475, fracción III de este Código.
 
 1671.- La venta de bienes raíces no producirá efectos contra terceros sino después de registrado en los términos prescritos por este Código.
 
@@ -7049,7 +7049,7 @@ La venta extrajudicial de la prenda se hará por conducto de corredor o de comer
 
 2351.- Es nula toda cláusula que autoriza al acreedor a apropiarse de la prenda, aunque ésta sea de menor valor que la deuda, o a disponer de ella fuera de la manera establecida en los artículos que preceden.
 
-Es igualmente nula la cláusula que prohíbe al acreedor solicitar la venta del bien dado en prenda.
+Es igualmente nula la cláusula que prohibe al acreedor solicitar la venta del bien dado en prenda.
 
 2352.- El derecho que da la prenda al acreedor se extiende sobre los siguientes bienes:
 
@@ -8062,3 +8062,11 @@ P.O. 21 DE ABRIL DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Las diligencias de jurisdicción voluntaria que se encuentren en trámite al inicio de vigencia de este Decreto, y en que tengan aplicación los artículos que se reforman, se tramitarán conforme a lo dispuesto por tales preceptos, antes de su reforma.
+
+P.O. 4 DE JULIO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Junta Directiva del Consejo Promotor de la Vivienda Popular, procederá a expedir y publicar las adecuaciones al Estatuto Orgánico, así como el Reglamento de Escrituración, Protocolo y Registro, que resultan de este decreto, en un plazo no mayor de treinta días hábiles, contados a partir de que entre en vigor este Decreto.
