@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2002-11-09"
+last_updated: "2002-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1767,6 +1767,8 @@ VI.- Cualesquiera otros, adquiridos por procedimientos de derecho público.
 
 ### CAPITULO III. DEL DENUNCIO DE TERRENOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 107.
 
 Son bienes de dominio privado de los Municipios:
@@ -1799,9 +1801,11 @@ La enajenación de bienes inmuebles del dominio público de los Municipios requi
 
 Los Municipios al solicitar la desafectación a que se refiere el párrafo anterior, deberán acreditar en su escrito la justificación que dio origen a la enajenación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 111.
 
-Los bienes inmuebles del dominio privado del Municipio son imprescriptibles pero podrán ser enajenados.
+Los bienes inmuebles del dominio privado del municipio son imprescriptibles pero podrán ser enajenados.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -1814,6 +1818,10 @@ b) Por la afectación de derechos de los particulares, motivada por actos de la 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regularización recaiga sobre inmuebles cuyas superficies superen las señaladas en el Artículo 113 de este ordenamiento, se requerirá que haya sido aprobado por las dos terceras partes de los integrantes del ayuntamiento; el solicitante deberá acreditar que ha tenido la posesión del inmueble por cinco años anteriores a la fecha de la solicitud, además que no se hallen bienes registrados a su nombre o de su cónyuge, sin perjuicio de cumplir con las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación y aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán enajenarse superficies mayores a las que determina el artículo 113.
 
 ###### ARTICULO 112.
 
@@ -1829,7 +1837,7 @@ Queda estrictamente prohibido la enajenación de bienes muebles, durante los úl
 
 ###### ARTICULO 113.
 
-Para la enajenación de los inmuebles a que se refiere la fracción primera, del artículo 107, los Ayuntamientos establecerán, por medio de un Reglamento, las bases conforme a las cuales puedan los particulares adquirirlos; pero en todo caso, la superficie enajenable no será superior a:
+Para la enajenación de los inmuebles a que se refiere la fracción primera, del artículo 107, los Ayuntamientos establecerán, por medio de un reglamento, las bases conforme a las cuales puedan los particulares adquirirlos; pero en todo caso, la superficie enajenable no será superior a:
 
 I.- En poblaciones hasta de tres mil habitantes, mil metros cuadrados;
 
@@ -1837,9 +1845,9 @@ II.- En poblaciones de más de tres mil habitantes y hasta de quince mil, quinie
 
 III.- En poblaciones mayores de quince mil habitantes, doscientos cincuenta metros cuadrados.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-Para el caso de establecimientos de centros industriales, educativos y de interés social, previa justificación ante los Ayuntamientos podrán enajenar superficies mayores a las señaladas con anterioridad.
+Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación y aprobación de las dos terceras partes de los integrantes del Ayuntamientos (sic) podrán enajenar superficies mayores a las señaladas con anterioridad.
 
 ###### ARTICULO 114.
 
@@ -3296,3 +3304,7 @@ P.O. 9 DE NOVIEMBRE DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
