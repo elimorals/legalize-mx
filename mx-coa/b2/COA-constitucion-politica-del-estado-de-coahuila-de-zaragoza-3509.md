@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1992-11-03"
+last_updated: "1993-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -848,7 +848,9 @@ III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatu
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refieren los artículos 78 y 79 de esta Constitución.
 
-V. Recibir la protesta al Gobernador del Estado y a los Magistrados del Superior Tribunal de Justicia en su caso.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
+V. Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes. Igualmente, en su caso, recibir la protesta de Ley al Gobernador y a los Magistrados.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1506,7 +1508,7 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 122.
 
@@ -1760,7 +1762,15 @@ De las Garantías de la Función Jurisdiccional.
 
 ###### Artículo 135.
 
-El Poder Judicial se deposita, para su ejercicio en el Tribunal Superior de Justicia, en los Tribunales Unitarios de Distrito, en los Juzgados de Primera Instancia, en los Consejos Tutelares para Menores, en los Juzgados de Conciliación y demás órganos que con cualquier otra denominación se creen en las leyes.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en los Tribunales Unitarios de Distrito, en los Juzgados de Primera Instancia, en los Juzgados de Conciliación y demás órganos que con cualquier otra denominación se creen en las leyes.
+
+El período constitucional de los integrantes del Poder Judicial será:
+
+I. De seis años para los Magistrados del Tribunal Superior de Justicia, a partir del día 30 de diciembre del año en el que corresponda tomar posesión del cargo de Gobernador del Estado en los términos de los dispuesto por el artículo 77 de esta Constitución.
+
+II. De seis años para los Magistrados de los Tribunales Unitarios de Distrito y los Jueces de Primera Instancia, a partir del primero de febrero del año siguiente al que corresponde el inicio del período constitucional de los Magistrados del Tribunal Superior de Justicia; y
+
+III. De tres años para los Jueces de Conciliación. Dicho período se iniciará el día primero de febrero y concluirá el 31 de enero una vez transcurrido el término de tres años.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1770,13 +1780,13 @@ El Tribunal Superior de Justicia se integrará con los Magistrados numerarios y 
 
 La competencia, organización y atribuciones del Pleno y de las Salas, así como las facultades, deberes y responsabilidades de los Magistrados, se regirán por esta Constitución y demás leyes. Será Presidente del Tribunal, el Magistrado que designe el Pleno, en los términos establecidos por la Ley Orgánica del Poder Judicial. Durará en su encargo un año y podrá ser reelecto. Mientras ejerza su función no integrará sala.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 137.
 
-La competencia, organización y atribuciones de los Tribunales Unitarios de Distrito, de los Juzgados de Primera Instancia, de los Consejos Tutelares para Menores y de los Juzgados de Conciliación, así como las facultades, deberes y responsabilidades de los servidores públicos que los integran se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
+La competencia, organización y atribuciones de los Tribunales Unitarios de Distrito, de los Juzgados de Primera Instancia y los de Conciliación, así como las facultades, deberes y responsabilidades de los servidores públicos que los integran, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
-> <small>(F. DE E., P.O. 5 DE JULIO DE 1988)</small>
+(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
 El Pleno del Tribunal Superior de Justicia determinará el número, la circunscripción territorial, y la especialización por materia de estos órganos.
 
@@ -1796,11 +1806,11 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 V. Tener residencia en el Estado durante los últimos cinco años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación o del Estado.
 
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 139.
 
-Los requisitos para ser Juez de Primera Instancia, integrante de los Consejos Tutelares para Menores o Juez de Conciliación, serán determinados por la Ley de la Materia.
+Los requisitos para ser Juez serán determinados en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1854,15 +1864,17 @@ Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán he
 
 La lista de Candidatos podrá ser rechazada por el Ejecutivo en una sola ocasión, en cuyo caso el Consejo de la Judicatura someterá a su consideración una nueva para que formule nuevo nombramiento.
 
-Cuando el Congreso no resuelva dentro del término que se señala para el efecto, se tendrán por aprobados los nombramientos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
+Cuando el Congreso o la Diputación Permanente no resuelva dentro del término que se señala para el efecto, se tendrán por aprobados los nombramientos.
 
 En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego en sus funciones el Magistrado Provisional.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 147.
 
-Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia, los integrantes de los Consejos Tutelares para Menores y los Jueces de Conciliación, serán nombrados por el Tribunal Superior de Justicia del Estado, en los términos previstos por la Ley Orgánica del Poder Judicial.
+Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia y los Jueces de Conciliación, serán nombrados por el Tribunal Superior de Justicia del Estado, en los términos previstos por la Ley Orgánica del Poder Judicial.
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
@@ -1876,9 +1888,9 @@ De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
 Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
-> <small>(F. DE E., P.O. 5 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-Los Magistrados de Distrito y los Jueces de Primera Instancia, lo harán ante el Tribunal Superior de Justicia.
+Los Magistrados Unitarios de Distrito y los Jueces de Primera Instancia, lo harán ante el Tribunal Superior de Justicia.
 
 Los Jueces de Conciliación lo harán ante el Ayuntamiento del Municipio en que residan.
 
@@ -1890,11 +1902,11 @@ La Ley establecerá el régimen de incompatibilidad de los miembros del Poder Ju
 
 También establecerá el régimen de sustituciones de tal manera que las faltas temporales o absolutas del personal al servicio de la administración de justicia, sean cubiertas oportunamente.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 150.
 
-Los Magistrados y Jueces durarán seis años en el ejercicio de su encargo, podrán reelectos y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Sexto de esta Constitución.
+Los Magistrados al cumplir un período constitucional, en los términos del artículo 135, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Sexto de esta Constitución. Los requisitos y condiciones para la permanencia de los Jueces, se determinarán en la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2036,11 +2048,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los Diputados del Congreso Local; el Gobernador del Estado; los Secretarios del Ramo; el Procurador General de Justicia; los Subsecretarios de Gobierno; los Subprocuradores de Justicia; los Directores Generales y Directores de las Dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia; los Magistrados de los Tribunales Unitarios de Distrito; los integrantes de los Consejos Tutelares para Menores; los Jueces de Primera Instancia; los Presidentes, Regidores y Síndicos de los Ayuntamientos del Estado; los integrantes de los Concejos Municipales y los Directores Generales ó sus equivalentes de las entidades paraestatales y paramunicipales.
+Podrán ser sujetos de juicio político los Diputados del Congreso del Estado; el Gobernador del Estado; los Secretarios del Ramo; el Procurador General de Justicia; los Subsecretarios; los Subprocuradores de Justicia; los Directores Generales y Directores de las Dependencias del Poder Ejecutivo; los Magistrados del Tribunal Superior de Justicia; los Magistrados de los Tribunales Unitarios de Distrito; los Jueces de Primera Instancia; los Presidentes, Regidores y Síndicos de los Ayuntamientos del Estado; los integrantes de los Concejos Municipales y los Directores Generales o sus equivalentes de las entidades paraestatales y paramunicipales.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2650,9 +2662,11 @@ El Congreso del Estado dentro del plazo de un año a partir de la publicación d
 
 Los Artículos 33, 34, 35 y 70 surtirán efectos a partir del proceso de renovación del Congreso con la LII Legislatura.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO CUARTO.
 
-Los nombramientos y ratificaciones de Magistrados y Jueces que se hagan en lo sucesivo, así como los que tengan que efectuarse para el próximo período constitucional, se harán en los términos de la presente reforma; pero en el segundo supuesto, con el propósito de que el Consejo de la judicatura cuenta con el tiempo necesario para tramitar las designaciones y hacer las propuestas de candidatos, se prorrogan los períodos constitucionales para los que hayan sido designados los Magistrados del Tribunal Superior de Justicia del Estado y los Jueces, hasta el treinta y uno de enero de mil novecientos noventa y cuatro.
+Se establece que el período constitucional de los integrantes del Poder Judicial, concluirá el 29 de diciembre de 1993 para los Magistrados del Tribunal Superior de Justicia y el 31 de Enero de 1994 para los Magistrados de los Tribunales Unitarios de Distrito y los Jueces.
 
 ###### ARTICULO QUINTO.
 
@@ -2695,3 +2709,19 @@ SEGUNDO.- La reforma aprobada con relación al Artículo 124, entrará en vigor 
 TERCERO.- La reforma aprobada con relación al Artículo 132, será aplicable a partir de la fecha en que deban iniciar funciones los Ayuntamientos electos para el período 1993-1996.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Las anteriores reformas, adiciones y modificaciones constitucionales entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal, los expedientes en trámite, el archivo, el mobiliario y los recursos financieros que tenían asignados los Consejos Tutelares para Menores, pasarán íntegramente a la dependencia del Poder Ejecutivo que le corresponda organizar y vigilar el establecimiento de instituciones y la aplicación de normas preventivas tutelares, de menores infractores.
+
+En tanto se expidan las adecuaciones a las leyes de la materia, se entenderá que las atribuciones que correspondían al Poder Judicial en relación a la designación de los integrantes de dichos órganos, se ejercerá por la dependencia del Ejecutivo a que se refiere el párrafo anterior.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente.
