@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-del-estado-de-hidalgo-22841"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-10"
-last_updated: "2001-12-10"
+last_updated: "2004-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 10 de diciembre de 2001.
 
@@ -110,6 +110,12 @@ La contratación de todo tipo de financiamientos y contingencias que realicen lo
 ###### ARTICULO 6.
 
 Las infracciones a la presente Ley y a los ordenamientos citados en el párrafo segundo del Artículo 3, se sancionarán en los términos que legalmente correspondan.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 6 BIS.- Para efectos de esta Ley, no se considerará Deuda Pública, la Apertura de Líneas de Crédito, que contraten el Poder Ejecutivo y los Ayuntamientos, así como las Obligaciones Directas e Indirectas, cuyo plazo de vencimiento sea hasta 90 días, que contraiga para solventar las necesidades temporales de Liquidez, pudiendo afectar Recursos Propios o sus Participantes Federales o Locales como Garantía y/o Fuente de Pago, de las cuales no será necesaria, la autorización del Congreso del Estado.
+
+En ningún caso, el cumplimiento de las Obligaciones contraídas a que se refiere el presente Artículo, podrá exceder del periodo Constitucional de la Administración que los Contrate, y su Monto no será mayor al 5% del Total de los Ingresos Anuales Presupuestados en la Ley de Ingresos, para el Ejercicio Correspondiente; no pudiendo, por los conceptos aquí referidos, Contratar más de una Obligación a la Vez.
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES EN MATERIA DE DEUDA PUBLICA
 
@@ -496,3 +502,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO:
 
 LIC. MANUAL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente Decreto.
