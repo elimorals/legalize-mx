@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1931-02-07"
+last_updated: "1931-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,25 +20,27 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ LLAVE
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE, EN TERMINOS DEL ARTICULO 1 DEL CODIGO NUMERO 302 HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002, QUEDARA SIN APLICACION DICHO ORDENAMIENTO EN EL MUNICIPIO DE BOCA DEL RIO, VERACRUZ, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1931.
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2003.
+Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
-Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
+El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave. La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política Local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 103 del Legislativo y en nombre del Pueblo, expide el siguiente:
+VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 
-Código número 302
+Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
 
-HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE.
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO ÚNICO
+## TITULO PRIMERO.
 
-### CAPÍTULO ÚNICO
+### CAPITULO I.
+
+DE LAS GARANTIAS INDIVIDUALES.
 
 ###### Artículo 1.
 
@@ -352,7 +354,9 @@ Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de pro
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPÍTULO I. DE LAS LEYES Y AUTORIDADES FISCALES
+### CAPITULO II.
+
+DE LOS MEXICANOS.
 
 ###### Artículo 3.
 
@@ -410,7 +414,9 @@ Los mexicanos serán preferidos a los extranjeros, en igualdad de circunstancias
 
 Para pertenecer a la marina nacional de guerra y desempeñar cualquier cargo o comisión en ella, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en capitanes, pilotos, patrones y primeros maquinistas de los buques mercantes mexicanos, debiendo tenerla además, los que compongan las dos terceras partes de la tripulación.
 
-### CAPÍTULO II. DE LOS INGRESOS
+### CAPITULO III.
+
+DE LOS EXTRANJEROS.
 
 ###### Artículo 8.
 
@@ -430,7 +436,9 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPÍTULO I. DE LOS SUJETOS
+### CAPITULO IV.
+
+DE LOS CIUDADANOS MEXICANOS.
 
 ###### Artículo 11.
 
@@ -518,9 +526,11 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO SEGUNDO.
 
-### CAPÍTULO II. DEL NACIMIENTO Y EXTINCIÓN DE LAS OBLIGACIONES Y DE LOS CRÉDITOS FISCALES
+### CAPITULO I.
+
+DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 ###### Artículo 13.
 
@@ -556,7 +566,9 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-### CAPÍTULO III. DE LA GARANTÍA DE LOS CRÉDITOS FISCALES
+### CAPITULO II.
+
+DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
 
 ###### Artículo 15.
 
@@ -566,17 +578,37 @@ Sólo las autoridades fiscales, facultadas al efecto, podrán aplicar el procedi
 
 El territorio nacional comprende el de las partes integrantes de la federación, y además el de las islas adyacentes en ambos mares. Comprende asimismo, la isla de Guadalupe, las de Revillagigedo y la de la Pasión, situadas en el Océano Pacífico.
 
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
 ###### Art. 43.
 
-Las partes integrantes de la Federación, son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, Territorio de la Baja California y Territorio de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, y Territorios Norte y Sur de la Baja California.
 
 ###### Art. 44.
 
 El Distrito Federal se compondrá del territorio que actualmente tiene, y en el caso de que los Poderes Federales se trasladen a otro lugar, se erigirá en Estado del Valle de México, con los límites y extensión que le asigne el Congreso General.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1931)</small>
+
 ###### Art. 45.
 
-Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
+Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos; sirviendo de línea divisoria entre los Territorios Norte y Sur de la Baja California, el paralelo 28º, de latitud Norte.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Se amplía la superficie del Estado de Yucatán con una parte del Territorio de Quintana Roo, cuyos límites quedan establecidos como sigue:
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Partiendo del vértice del ángulo formado por la línea que divide los estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE hasta encontrar el paralelo del 19º 30' latitud Norte en la intersección con el meridiano de 89º (longitud Oeste de Greenwich) continuando hacia el Este el mismo paralelo hasta encontrar el meridiano de 87° 50' (longitud Oeste de Greenwich) y de este punto hacia la bahía de La Ascensión en el punto por donde pasa el paralelo de 19º 35', siguiendo después por la costa Norte de la bahía de La Ascensión y todo el litoral del Mar Caribe hasta el Cabo Catoche; continuando hacia el Occidente las costas del Golfo de México hasta la intersección con la actual línea divisoria entre el Estado de Yucatán y el Territorio de Quintana Roo; siguiendo después sobre esta línea divisoria hasta llegar al punto de partida.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Se amplía el territorio del Estado de Campeche, con una parte del Territorio de Quintana Roo, cuyos límites se establecen como sigue:
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+
+Partiendo del vértice del ángulo formado por la línea que divide los Estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE y hacia esta última dirección, hasta la intersección del meridiano de 89º (longitud Oeste de Greenwich) y al paralelo de 19º 30' latitud Norte, siguiendo por este mismo paralelo hacia el Este hasta encontrar el meridiano de 87º 50' (longitud Oeste de Greenwich) y de este punto a la bahía de La Ascensión en el punto interceptado por el paralelo de 19° 35' latitud Norte; de este punto sigue la costa Sur de la bahía de La Ascensión y el litoral Sur del Mar Caribe hasta la frontera con Belice; siguiendo la línea divisoria hasta la desembocadura del río Hondo continuando después por el mismo río y luego la línea divisoria con Belice y Guatemala, hasta encontrar la actual línea divisoria entre el Estado de Campeche y el Territorio de Quintana Roo, y de allí, siguiendo hacia el Norte la misma línea hasta llegar al punto de partida.
 
 ###### Art. 46.
 
@@ -590,9 +622,11 @@ El Estado del (sic) Nayarit tendrá la extensión territorial y límites que com
 
 Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TÍTULO SEGUNDO. DE LOS CRÉDITOS FISCALES
+## TITULO TERCERO.
 
-### CAPÍTULO I. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
+### CAPITULO I.
+
+DE LA DIVISION DE PODERES.
 
 ###### Artículo 16.
 
@@ -606,7 +640,9 @@ El Supremo Poder de la Federación se divide, para su ejercicio, en Legislativo,
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+### CAPITULO II.
+
+DEL PODER LEGISLATIVO.
 
 ###### Artículo 18.
 
@@ -636,9 +672,9 @@ II. Extraordinarios: los aprobados por el Congreso o los derivados de disposicio
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
+#### SECCION I.
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 ###### Artículo 17.
 
@@ -760,7 +796,9 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
 
-#### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
+#### SECCION II.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 132.
 
@@ -808,7 +846,9 @@ I (sic).- El Ejecutivo de la Unión no puede hacer observaciones a las resolucio
 
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
-#### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
+#### SECCION III.
+
+DE LAS FACULTADES DEL CONGRESO.
 
 ###### Artículo 133.
 
@@ -1028,7 +1068,9 @@ III.- Nombrar los empleados de su secretaría y hacer el reglamento interior de 
 
 IV.- Expedir convocatoria para elecciones extraordinarias, con el fin de cubrir las vacantes de sus respectivos miembros.
 
-#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+#### SECCION IV.
+
+DE LA COMISION PERMANENTE.
 
 ###### Artículo 134.
 
@@ -5196,7 +5238,9 @@ IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o
 
 V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte y Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, así como a las solicitudes de licencia de los Ministros de la Corte, que les someta el Presidente de la República.
 
-### CAPÍTULO I. DE LAS INFRACCIONES
+### CAPITULO III.
+
+DEL PODER EJECUTIVO.
 
 ###### Artículo 20.
 
@@ -5362,7 +5406,11 @@ Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmado
 
 Los secretarios del Despacho, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos. Cualquiera de las Cámaras podrá citar a los secretarios de Estado para que informen, cuando se discuta una ley o se estudie un negocio relativo a su secretaría.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPITULO IV.
+
+DEL PODER JUDICIAL.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 ###### Artículo 23.
 
@@ -5684,7 +5732,9 @@ También será consignado a la autoridad o agente de ella, el que, verificada un
 
 Si la detención se verificare fuera del lugar en que resida el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se verificó la detención.
 
-## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES FISCALES MUNICIPALES
+## TITULO CUARTO.
+
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
 
 ###### Art. 108.
 
@@ -5734,7 +5784,9 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES FISCALES
+## TITULO QUINTO.
+
+DE LOS ESTADOS DE LA FEDERACION.
 
 ###### Art. 115.
 
@@ -5824,7 +5876,11 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TÍTULO QUINTO. DE LOS DELITOS FISCALES
+## TITULO SEXTO.
+
+DEL TRABAJO Y DE LA PREVISION SOCIAL.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
 
 ### CAPÍTULO I. DEL IMPUESTO PREDIAL
 
@@ -6088,7 +6144,9 @@ XXIX.- Se considera de utilidad pública la expedición de la Ley del Seguro Soc
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-## TÍTULO PRIMERO. DE LOS IMPUESTOS
+## TITULO SEPTIMO.
+
+PREVENCIONES GENERALES.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
@@ -6404,7 +6462,9 @@ Esta Constitución, las leyes del Congreso de la Unión que emanen de ella, y to
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicadas en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
 
-## TÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ENTIDADES MUNICIPALES
+## TITULO OCTAVO.
+
+DE LAS REFORMAS DE LA CONSTITUCION.
 
 ### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
 
@@ -6724,7 +6784,9 @@ XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados. El Congreso de la Unión hará el cómputo de los votos de las legislaturas, y la declaración de haber sido aprobadas las adiciones o reformas.
 
-## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+## TITULO NOVENO.
+
+DE LA INVIOLABILIDAD DE LA CONSTITUCION.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -7158,47 +7220,7 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
-## TRANSITORIOS
-
-Primero. El presente Código entrará en vigor el día 1 de enero de 2003, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
-
-Segundo. Se abroga la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave, y se derogan la Ley de Hacienda Municipal del Estado de Veracruz-Llave y todas las disposiciones que se opongan al presente Código.
-
-Tercero. Los ordenamientos que aludan a las leyes que se señalan en el artículo anterior se entenderán referidos al presente Código.
-
-Cuarto. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia de la Ley de Hacienda Municipal que se deroga, se cobrarán, tramitarán y resolverán conforme a dicho ordenamiento legal hasta su conclusión.
-
-Quinto. Las Leyes de Ingresos de los Municipios para el ejercicio fiscal del año 2003 deberán contener las previsiones de ingresos por los conceptos establecidos en el Libro Tercero del presente Código.
-
-Sexto. Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el artículo Sexto Transitorio de la Ley de Catastro, entrarán en vigor a partir del 1 de enero del año 2004.
-
-Séptimo. Por esta única y exclusiva vez, y sin que siente precedente, previo acuerdo de la Comisión Permanente de Vigilancia del Congreso del Estado, se autoriza a los Ayuntamientos a cubrir, con recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios del año 2002, la deuda pública documentada, aprobada por el Cabildo, siempre que ésta no haya excedido del cuarenta por ciento de aquel Fondo.
-
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2003)</small>
-
-Octavo.- En la aplicación de lo dispuesto por el artículo 202 de este Código, los Ayuntamientos cobrarán a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
-
-Dado en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los catorce días del mes de noviembre del año dos mil dos.
-
-Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
-G.O. 14 DE FEBRERO DE 2003.
-
-Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
-
-G.O. 19 DE FEBRERO DE 2003.
-
-PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
-
-SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Boca del Río, Veracruz, a partir de la vigencia del presente Código.
-
-TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave y a la Ley de Hacienda Municipal del Estado de Veracruz-Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como a este último, se entenderán referidos al presente Código.
-
-CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entrarán en vigor a partir del 1 de enero del año 2004.
-
-QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+## ARTICULOS TRANSITORIOS.
 
 ###### Art. 1o.
 
@@ -7345,3 +7367,11 @@ Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos v
 D.O.F. 6 DE SEPTIEMBRE DE 1929.
 
 LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 7 DE FEBRERO DE 1931.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 19 DE DICIEMBRE DE 1931.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
