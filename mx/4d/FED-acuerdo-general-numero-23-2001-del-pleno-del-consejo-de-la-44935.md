@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-05-21"
+last_updated: "2004-05-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -251,9 +251,9 @@ XI.- DECIMOPRIMER CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Morelia.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 36/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MAYO DE 2004)</small>
 
-3.- Ocho juzgados de distrito en el Estado de Michoacán: cuatro con residencia en Morelia y cuatro con sede en Uruapan.
+3.- Nueve Juzgados de Distrito en el Estado de Michoacán: cinco con residencia en Morelia y cuatro con sede en Uruapan.
 
 XII.- DECIMOSEGUNDO CIRCUITO:
 
@@ -1284,5 +1284,11 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Se
 D.O.F. 21 DE MAYO DE 2004.
 
 PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE MAYO DE 2004.
+
+PRIMERO.- Este acuerdo entrará en vigor el veintiocho de junio de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
