@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2004-04-29"
+last_updated: "2004-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,17 +23,17 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
-EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
+EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D :
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-DECRETO No. 338
+D E C R E T O No. 338
 
-LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
+LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, D E C R E T A :
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
@@ -167,7 +167,9 @@ Toda persona acusada de delito se presume inocente mientras no se pruebe su culp
 
 Para todos los efectos legales se califican como delitos graves consignados en este Código; aún en grado de tentativa.
 
-I.- Los previstos en los capítulos siguientes: CASOS DE CULPA, PRETERINTENCIONALIDAD Y ERROR en su artículo 86 incisos a) y b); REBELIÓN en sus artículos 141, 142, 143, 144 y 145; TERRORISMO en su artículo 149; SABOTAJE en su artículo 150; PECULADO en el último párrafo del artículo 172; DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA en su artículo 196; TORTURA en sus artículos 197, 198 y 200; DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA en sus artículos 205 y 206; FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO en su artículo 235; ASOCIACIÓN DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA en sus artículos 244 y 245; ATAQUES A LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE en su artículo 267; CORRUPCIÓN DE MENORES E INCAPACES en sus artículos 290, 292 y 293; PORNOGRAFÍA INFANTIL en sus artículos 294 y 295; HOMICIDIO en sus artículos 327, 330, 331 y 332; LESIONES en sus artículos 337 y 339; REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES en su artículo 344; INFANTICIDIO en sus artículos 347 y 348; PRIVACIÓN DE LA LIBERTAD PERSONAL en los dos últimos párrafos de su artículo 360; SECUESTRO en su artículo 362; DESAPARICIÓN FORZADA DE PERSONAS en su artículo 364; RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES, Y CON FINES DE CORRUPCIÓN O TRAFICO DE ÓRGANOS en sus artículos 367 y 368; ASALTO en su artículo 378; VIOLACIÓN en sus artículos 392, 393,394, 395, 397 y 398; ROBO en sus artículos 409, 411 fracciones IV y V, 412 con las excepciones hechas en el artículo 413, 414 y 415; ABIGEATO en sus artículos 420 y 421; EXACCIÓN FRAUDULENTA en su artículo 428, DESPOJO previsto por el último párrafo del artículo 430.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2004)</small>
+
+I. Los previstos en los capítulos siguientes: CASOS DE CULPA, PRETERINTENCIONALIDAD Y ERROR en su artículo 86 incisos a) y b); REBELIÓN en sus artículos 141, 142, 143, 144 y 145; TERRORISMO en su artículo 149; SABOTAJE en su artículo 150; PECULADO en el último párrafo del artículo 172; DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA en su artículo 196; TORTURA en sus artículos 197, 198 y 200; DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA en sus artículos 205 y 206; FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO en su artículo 235; ASOCIACIÓN DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA en sus artículos 244 y 245; ATAQUES A LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE en su artículo 267; CORRUPCIÓN DE MENORES E INCAPACES en sus artículos 290, 292 y 293; PORNOGRAFÍA INFANTIL en sus artículos 294 y 295; HOMICIDIO en sus artículos 327, 330, 331 y 332; LESIONES en sus artículos 337 y 339; REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES en su artículo 344; INFANTICIDIO en sus artículos 347, 348 y 349; PRIVACIÓN DE LA LIBERTAD PERSONAL en los dos últimos párrafos de su artículo 360; SECUESTRO en sus artículos 362, 362 bis, 362 ter y 363; DESAPARICIÓN FORZADA DE PERSONAS en su artículo 364; RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES Y CON FINES DE CORRUPCIÓN O TRAFICO DE ÓRGANOS en sus artículos 367, 368 y 369; ASALTO en su artículo 378; VIOLACIÓN en sus artículos 392, 393, 394, 395, 396, 397 y 398; ROBO en sus artículos 409, 411 fracciones IV y V, 412 con las excepciones hechas en el artículo 413, 414 y 415; ABIGEATO en sus artículos 420 y 421; EXACCIÓN FRAUDULENTA en su artículo 428, DESPOJO previsto por el último párrafo del artículo 430.
 
 II.- Los delitos considerados como graves en leyes especiales del Estado.
 
@@ -379,13 +381,17 @@ DE LAS PENAS
 
 ### CAPÍTULO PRIMERO. PRISIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 38.
 
-La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de cincuenta años. Su ejecución se llevará a cabo en los establecimientos que al efecto designe el Ejecutivo del Estado, conforme a la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados con la Federación u otras Entidades Federativas.
+La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años. Su ejecución se llevará a cabo en los establecimientos que al efecto designe el Ejecutivo del Estado, conforme a la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados con la Federación u otras Entidades Federativas.
 
 En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención o del arraigo.
 
-Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de cincuenta años.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
+
+Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
 
 ### CAPÍTULO SEGUNDO. TRATAMIENTO EN LIBERTAD
 
@@ -883,9 +889,11 @@ En caso de delito continuado, se aumentará hasta una tercera parte de la pena c
 
 ### CAPÍTULO SÉPTIMO. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 95.
 
-A los reincidentes se aplicará la pena que corresponda al delito o delitos por el que se les juzgue, la cual podrá aumentarse hasta en un tanto más, sin que el total pueda exceder de cincuenta años de prisión.
+A los reincidentes se aplicará la pena que corresponda al delito o delitos por el que se les juzgue, la cual podrá aumentarse hasta en un tanto más, sin que el total pueda exceder de setenta años de prisión.
 
 ###### ARTÍCULO 96.
 
@@ -895,9 +903,11 @@ El apercibimiento consiste en la advertencia que hace la autoridad judicial o el
 
 Este apercibimiento deberá constar por escrito.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 97.
 
-A los habituales se les aplicará la pena que corresponda al último o últimos delitos cometidos, aumentada hasta en dos tantos más sin que el total exceda de cincuenta años de prisión.
+A los habituales se les aplicará la pena que corresponda al último o últimos delitos cometidos, aumentada hasta en dos tantos más sin que el total exceda de setenta años de prisión.
 
 ### CAPÍTULO OCTAVO. CONMUTACIÓN DE SANCIONES
 
@@ -1341,7 +1351,7 @@ Las mismas sanciones se impondrán a quien acepte la identificación.
 
 Se impondrán de tres meses a cuatro años de prisión y multa de diez a ciento cincuenta días multa, al servidor público que sin causa justificada abandone sus funciones sin haber presentado su renuncia, o sin que se le haya aceptado, o al que habiéndole sido aceptada no entregue todo aquello que haya sido objeto de su responsabilidad, a la persona autorizada para recibirlo, siempre que se cause perjuicio a la buena marcha de la función a su cargo.
 
-### CAPÍTULO TERCERO. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
+### CAPÍTULO CUARTO. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 162.
 
@@ -1361,7 +1371,7 @@ I.- De tres meses a tres años de prisión o de treinta a trescientos días mult
 
 II.- De tres a ocho años de prisión, y hasta quinientos días multa, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente.
 
-### CAPÍTULO CUARTO. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPÍTULO TERCERO. ABUSO DE AUTORIDAD Y USO ILEGAL DE LA FUERZA PÚBLICA
 
 ###### ARTÍCULO 164.
 
@@ -1975,7 +1985,7 @@ VI.- No procure por los medios lícitos que tenga a su alcance y sin riesgo para
 
 Se impondrá de uno a tres años de prisión y de tres a ciento cincuenta días multa, más suspensión del derecho de ejercicio de profesión de un mes a dos años al médico, cirujano, partero, enfermero o cualquier otro profesionista sanitario que omitiera denunciar a la autoridad correspondiente los delitos contra la vida o la integridad corporal de que hubiere tenido conocimiento con motivo del ejercicio de su profesión.
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 232.
 
@@ -2913,9 +2923,11 @@ Comete el delito de infanticidio el ascendiente consanguíneo de un niño a quie
 
 Al que cometa el delito de infanticidio, se le impondrá de seis a diez años de prisión y de cien a quinientos días multa, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 349.
 
-Se impondrá de tres a cinco años de prisión y de cien a quinientos días multa, a la madre que diere muerte a su propio hijo dentro de las veinticuatro horas de nacido, siempre que concurran las siguientes circunstancias:
+Se impondrá de tres a ochos (sic) años de prisión y de cien a quinientos días multa, a la madre que diere muerte a su propio hijo dentro de las veinticuatro horas de nacido, siempre que concurran las siguientes circunstancias:
 
 I.- Que no tenga mala fama;
 
@@ -2999,6 +3011,8 @@ Se impondrá de tres a seis meses de prisión y de tres a treinta y cinco días 
 
 ### CAPÍTULO SEGUNDO. SECUESTRO
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 357.
 
 Se impondrá de tres a seis meses de prisión y de tres a treinta y cinco días multa, a quien deje en estado de abandono, sin prestarle ni facilitarle la debida asistencia a quien por su estado físico, requiera de su auxilio o dejare de avisar inmediatamente a la autoridad.
@@ -3047,23 +3061,59 @@ Igual sanción se le dará al particular que por medio de la violencia o la coac
 
 ###### ARTÍCULO 362.
 
-Se impondrá de diez a cincuenta años de prisión y de doscientos a quinientos días multa, al que por cualquier medio prive a otro de la libertad, con el fin de obtener rescate o causar daños o perjuicios al secuestrado o a otra persona relacionada con éste.
+Comete el delito de secuestro, quien por cualquier medio prive de la libertad a otro, con alguno de los siguientes propósitos:
 
-La pena señalada en el párrafo anterior, se atenuará o agravará en los términos de las siguientes fracciones:
+I.- Obtener un beneficio económico para sí o para un tercero;
 
-I.- Se impondrá de tres meses a cinco años de prisión y de treinta a trescientos días multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando no le haya causado ningún daño o perjuicio, ni a personas relacionadas con éste;
+II.- Que la autoridad o un particular realice o deje de realizar un acto de cualquier naturaleza;
 
-II.- Se impondrá de seis meses a ocho años de prisión y de cien a cuatrocientos días multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del artículo 334 de éste Código;
+III.- Alterar la integridad física o mental del secuestrado o de cualquier otra persona relacionada con éste, o
 
-III.- Se impondrá de tres a diez años de prisión y de ciento cincuenta a quinientos días multa, al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II y III del artículo 334 de este Código o de las que pusieren en peligro la vida;
+IV.- Causar daño o perjuicio económico al secuestrado o a otra persona relacionada con éste.
 
-IV.- Se impondrá de diez a veinte años de prisión y de doscientos a quinientos días-multa al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en las fracciones IV, V y VI del artículo 334 de este Código o de las que pusieren en peligro la vida; y
+Al que cometa el delito de secuestro, se le aplicarán de quince a setenta años de prisión y de quinientos a dos mil días multa.
 
-V.- Se impondrá de veinte a cincuenta años de prisión y de trescientos a quinientos días multa cuando con motivo del secuestro falleciere el secuestrado o persona relacionada con éste.
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2004)</small>
 
-Se equipara al secuestro y se impondrán las penas señaladas en la fracción V de este artículo, al que detenga en calidad de rehén a una persona y amenace con privarla de la vida o con causarle daño, sea a aquella o a terceros, para obligar a la autoridad a realizar o dejar de realizar un acto de cualquier naturaleza.
+ARTÍCULO 362 bis.- Se impondrán de treinta a setenta años de prisión y de mil a tres mil días multa, a quien al privar de la libertad a otro, en los términos del artículo 362 incurra además en las siguientes circunstancias:
 
-Se impondrá de tres meses a tres años de prisión y de veinte a doscientos días multa a los servidores públicos que teniendo el deber de hacerlo, no intervengan en la investigación de los hechos y la persecución del inculpado, ni procedan en los términos de esta disposición, tan pronto como tenga conocimiento del ilícito y aún cuando el ofendido o sus familiares se opongan a ello.
+I. Que el secuestrado sea menor de dieciocho o mayor de sesenta años o que tenga alguna discapacidad física o mental;
+
+II.- Que el secuestrador tenga vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
+
+III.- Que el secuestrador sea o haya sido servidor público o miembro de una corporación de seguridad privada;
+
+IV.- Que el secuestro se desarrolle en dos o más Entidades Federativas;
+
+V.- Que el secuestrador cause una mutilación física o extraiga alguno de los órganos de su secuestrado;
+
+VI.- Que altere la salud del secuestrado o de sus familiares de forma permanente o grave;
+
+VII.- Que la víctima sea mujer en estado de embarazo;
+
+VIII.- Que la víctima pierda la vida después de la cesación del delito, por una causa originada durante el mismo, o
+
+IX.- Que persona relacionada con el secuestrado por un vínculo de parentesco o afectivo pierda la vida como consecuencia del delito.
+
+Cuando en la comisión de este delito intervenga un servidor público, se le impondrán además de las penas previstas, la destitución e inhabilitación por un tiempo igual al de la pena de prisión impuesta.
+
+En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, la pena de prisión será de cuarenta y cinco a setenta años y multa de mil quinientos a tres mil quinientos días multa.
+
+Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado algunos de los propósitos previstos en el artículo 362, se le impondrán de cuatro a doce años de prisión y de trescientos a mil días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2004)</small>
+
+ARTÍCULO 362 ter.- Se impondrán de tres a diez años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas sancionadas en los artículos 362 y 362 bis:
+
+I.- Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos de la víctima;
+
+II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III.- Actúe como asesor de quienes representen o gestionen a favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro, o
+
+IV.- Aconseje o induzca a no presentar la denuncia del secuestro cometido, o bien a no colaborar u obstruir la actuación de las autoridades.
+
+Igual pena se impondrá al servidor público que teniendo el deber de hacerlo, no intervenga en la investigación de los hechos y la persecución del inculpado, ni proceda en los términos de esta disposición, tan pronto como tenga conocimiento del ilícito y aún cuando el ofendido o sus familiares se opongan a ello. Además de las penas previstas, se le impondrán la destitución e inhabilitación por un tiempo igual al de la pena de prisión.
 
 ###### ARTÍCULO 363.
 
@@ -3940,3 +3990,15 @@ LIC. ANGEL SERGIO GUERRERO MIER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 22 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que s opongan al presente decreto.
