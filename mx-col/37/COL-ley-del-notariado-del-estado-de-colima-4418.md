@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "1966-08-20"
+last_updated: "1973-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1973.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -403,15 +403,17 @@ ART. 76.- En el Estado de Colima habrá un notario por cada quince mil habitante
 
 ART. 81.- La notaría será servida por el notario titulado o por quien deba substituirlo en su caso.
 
-ART. 82.- Para obtener el nombramiento de notario y ejercer se requiere:
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1973)</small>
+
+ART. 82.- Para obtener el nombramiento de Notario y ejercer se requiere:
 
 I.- Ser mexicano por nacimiento;
 
 II.- Haber cumplido veinticinco años;
 
-III.- Ser licenciado en derecho o abogado con cinco años cuando menos de ejercicio profesional debidamente comprobado;
+III.- Ser Licenciado en Derecho o Abogado con cinco años cuando menos de ejercicio profesional debidamente comprobado;
 
-IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones de notario;
+IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones de Notario;
 
 V.- Acreditar haber tenido y tener buena conducta;
 
@@ -421,11 +423,13 @@ VII.- Ser aspirante al ejercicio del notariado;
 
 VIII.- No haber sido condenado en proceso penal por delito intencional;
 
-IX.- No haber sido separado del ejercicio de notariado dentro de la República;
+IX.- No haber sido separado del ejercicio de Notario dentro de la República;
 
 X.- No ser ministro de culto;
 
-XI.- Estar vacante alguna notaría y triunfar en el examen de oposición.
+XI.- Estar vacante alguna Notaría y triunfar en el examen de oposición.
+
+Quedará exento de llenar el requisito a que se refiere la Fracción XI de este Articulo, para que se le expida preferentemente el nombramiento de Notario Titular, el aspirante que haya venido atendiendo interinamente una Notaría, por licencia que para desempeñar algún cargo público local se haya concedido al Titular, cuando éste presente su renuncia a dicha Notaría antes de que deje de desempeñar el citado cargo público. En igual forma quedarán exceptuados de ese requisito los casos a que se refiere el último párrafo del artículo 110 reformado de esta Ley.
 
 ART. 83.- Los requisitos que fijan las fracciones I y II del Art. 82 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III por el título correspondiente debidamente registrado y por constancias expedidas por jueces locales o por el Consejo de Notarios; el de las (sic) fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos testigos idóneos y de representación social, recibida con audiencia del Ministerio Público y del delegado del Consejo de Notarios quien a su vez puede rendir pruebas en contrario; el de la fracción VI con certificado expedido por la presidencia municipal correspondiente; el de la fracción VII, con la patente respectiva; los de las fracciones VIII, IX y X no requieren prueba, pero su afirmación admite prueba en contrario; el de la fracción XI con copia del acta del examen de oposición.
 
@@ -457,17 +461,21 @@ ART. 91.- Inmediatamente que el notario comience a ejercer sus funciones, dará 
 
 ### CAPITULO CUARTO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1973)</small>
+
 ART. 92.- Para obtener patente de aspirante al ejercicio del notariado se deberán satisfacer los requisitos siguientes:
 
 I.- Llenar los requisitos de las fracciones I, IV, V, VI, VIII, IX, y X del artículo 82 de esta Ley;
 
 II.- Tener veintiún años cumplidos y no más de sesenta años;
 
-III.- Ser licenciado en derecho o abogado con título debidamente registrado;
+III.- Ser Licenciado en Derecho o Abogado con título debidamente registrado;
 
 IV.- Ser aprobado en el examen que establece esta Ley.
 
 Los requisitos anteriores se comprobarán en los términos establecidos por el artículo 83.
+
+El Ejecutivo del Estado podrá dispensar discrecionalmente el requisito del examen a que se refiere la Fracción IV.
 
 ART. 93.- Las diligencias de información a que se refiere el artículo 92, se practicarán en los términos previstos por el artículo ochenta y tres y en cuanto sean conducentes.
 
@@ -509,9 +517,13 @@ ART. 109.- Si después de extendida la patente de aspirante al ejercicio del not
 
 ### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-ART. 110.- Cuando estuviere vacante una notaría o cuando fuere creada por el Ejecutivo del Estado, a solicitud del Consejo de Notarios, la Secretaría General de Gobierno publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado, convocando a los aspirantes al ejercicio del notariado que pretendan obtener por oposición el nombramiento de notario. El mismo anuncio se publicará también por tres veces consecutivas en el Periódico de más circulación del Estado.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1973)</small>
 
-En el plazo de treinta días contados desde la fecha en que se publique por primera vez el anuncio en el Periódico Oficial, los pretendientes acudirán a la Secretaría General de Gobierno solicitando ser admitidos a la oposición y la oficina respectiva anotará en cada solicitud la fecha y hora en que fue presentada y lo hará saber al Consejo de Notarios.
+ART. 110.- Cuando quedare vacante una Notaría, a solicitud del Consejo de Notarios, la Secretaría General de Gobierno publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado, convocando a los aspirantes al ejercicio del notariado que pretendan obtener por oposición el nombramiento de Notario. El mismo anuncio se publicará también por tres veces consecutivas en el Periódico Oficial del Estado, convocando a los aspirantes al ejercicio del notariado que pretendan obtener por oposición el nombramiento de Notario. El mismo anuncio se publicará también por tres veces consecutivas en el Periódico de más circulación del Estado.
+
+En el plazo de treinta días, contados desde la fecha en que se publique por primera vez el anuncio en el Periódico Oficial, los pretendientes acudirán a la Secretaría General de Gobierno solicitando ser admitidos a la oposición y la Oficina respectiva anotará en cada solicitud la fecha y hora en que fue presentada y los hará saber al Consejo de Notarios.
+
+Tratándose de Notarías creadas con posterioridad a la fecha de expedición de la presente Ley, que no hayan sido cubiertas por cualquier causa, el Ejecutivo del Estado podrá designar libremente de entre los aspirantes con patente debidamente legalizada el que deba ser titular de la misma.
 
 ART. 111.- El Consejo del Colegio de Notarios del Estado, señalará día y hora para la celebración de los exámenes de oposición. Este señalamiento lo dará a conocer el Consejo a los concursantes, cuando menos con quince días de anticipación, por medio de oficio enviado por correo certificado con acuse de recibo a la dirección que al efecto hubieren designado en su solicitud.
 
@@ -764,3 +776,13 @@ Este Decreto surtirá sus efectos a partir del día 11 de Septiembre próximo.
 P.O. 20 DE AGOSTO DE 1966.
 
 Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 1973.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 20 de Septiembre del presente año.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
