@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1982-01-27"
+last_updated: "1982-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO 1982.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -521,7 +521,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1173,11 +1173,11 @@ No podrán formar parte del Tribunal tres o más Magistrados que sean parientes 
 
 Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 1982)</small>
 
 ###### Art. 114.
 
-Son atribuciones y obligaciones del Supremo Tribunal de Justicia:
+Son facultades y obligaciones del Supremo Tribunal de Justicia.
 
 I.- Conocer en única Instancia, de las controversias de orden civil que se susciten entre los particulares y el Estado o los Ayuntamientos o entre éstos y aquéllos.
 
@@ -1211,9 +1211,9 @@ XII.- Formular su Reglamento Interior.
 
 XIII.- Conocer de las quejas formuladas contra los funcionarios y empleados del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+> <small>(REFORMADA, P.O.6 DE FEBRERO DE 1982)</small>
 
-XIV.- Rendir por conducto de su Presidente un informe anual del estado que guarda la administración de justicia, en sesión pública y solemne del Congreso que se celebrará durante la primera decena del mes de enero de cada año; y
+XIV.- Rendir, por conducto de su Presidente, un Informe Anual del estado que guarda la Administración de Justicia, en Sesión Pública y Solemne del Congreso que se verificará durante la segunda quincena del mes de febrero en los primeros cinco años del sexenio judicial. En el sexto año se realizará en los primeros quince días del mes de enero; y
 
 XV.- Las demás facultades y obligaciones que señalan las Leyes.
 
@@ -2006,3 +2006,7 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 P.O. 27 DE ENERO DE 1982.
 
 UNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE FEBRERO DE 1982.
+
+UNICO.- El presente decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial de Estado.
