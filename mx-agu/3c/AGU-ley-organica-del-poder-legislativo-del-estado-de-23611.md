@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-23611"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-26"
-last_updated: "2001-03-26"
+last_updated: "2003-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de marzo de 2001.
 
@@ -789,7 +789,7 @@ XIX.- De Equidad entre Hombres y Mujeres;
 
 XXI (sic).- De Información; y
 
-XXII.- De Redacción y Estilo.
+XXII (sic).- De Redacción y Estilo.
 
 ###### ARTICULO 76.
 
@@ -835,7 +835,7 @@ IX.- Otros análogos, que a juicio del Presidente del Congreso o de la Diputaci�
 
 Corresponde a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, el conocimiento y dictamen de los siguientes asuntos:
 
-I.- Las Leyes Hacendarías del Estado y de los Municipios, así como adiciones, modificaciones o enmiendas a las leyes, que sobre esa materia se encuentran vigentes;
+I.- Las Leyes Hacendarias del Estado y de los Municipios, así como adiciones, modificaciones o enmiendas a las leyes, que sobre esa materia se encuentran vigentes;
 
 II.- Las Leyes de Ingresos del Estado y de los Municipios;
 
@@ -1201,7 +1201,7 @@ Corresponde al Comité de Administración:
 
 I.- Supervisar la administración de los recursos económicos del Congreso del Estado, de conformidad con el presupuesto de egresos aprobado;
 
-II.- Rendir cuentas al Pleno en las segunda y penúltima sesiones de cada periodo ordinario, sobre la administración general de los recursos económicos, para efectos de su aprobación. El Pleno podrá solicitar información adicional sobre la rendición de cuentas, y el Comité deberá dar respuesta en la misma o en la siguiente sesión respectiva;
+II.- Rendir cuentas al Pleno en las (sic) segunda y penúltima sesiones de cada periodo ordinario, sobre la administración general de los recursos económicos, para efectos de su aprobación. El Pleno podrá solicitar información adicional sobre la rendición de cuentas, y el Comité deberá dar respuesta en la misma o en la siguiente sesión respectiva;
 
 III.- Proponer la plantilla del personal y sus movimientos, el tabulador de sueldos y los programas de desarrollo del personal. De lo anterior deberá rendir cuentas al Pleno del Congreso;
 
@@ -1397,13 +1397,19 @@ g) Incisos; y
 
 X.- En caso de puntos de acuerdo, los documentos que sean necesarios para apoyar la materia de que se trate, así como para acreditar los hechos en que se funde.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 133.
 
-La iniciativa será leída íntegramente en el Pleno por el Diputado que la presente. Cuando ésta provenga de otro Poder será leída por el Presidente o los Secretarios.
+La iniciativa será leída íntegramente en el Pleno por el diputado que la presente o por los secretarios de la Diputación Permanente. Cuando ésta provenga de otro Poder será leída por el Presidente o los Secretarios.
 
 Las iniciativas que por su extensión requieran varias horas para su lectura, serán leídas parcialmente durante el número de sesiones que fueren necesarias.
 
 Podrá dispensarse la lectura integral de una iniciativa, cuando así lo decida el Pleno por mayoría relativa, siempre y cuando obre un ejemplar de la misma en poder de cada uno de los Diputados, asimismo, podrá acordarse que se lea una síntesis de la misma.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2003)</small>
+
+Cuando la iniciativa sea presentada en el período de receso del Congreso del Estado, será leída por los secretarios de la Mesa Directiva de la Diputación Permanente. La iniciativa será comunicada a todos los diputados, en términos del Artículo 137 de esta Ley. Por acuerdo de la Mesa Directiva, se podrá dispensar la lectura de la iniciativa. En todo caso, se dará lectura a una síntesis de la misma.
 
 ###### ARTICULO 134.
 
@@ -1425,7 +1431,7 @@ De toda iniciativa recibida, se deberá dar informe inmediato a todos los Diputa
 
 Cuando a criterio de la Diputación Permanente una iniciativa presentada durante el receso, se trate de materia o asuntos urgentes, se convocará a período extraordinario de sesiones, para la tramitación respectiva.
 
-En los demás casos, el trámite de las iniciativas se empezará en el período ordinario siguiente a su presentación.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 139.
 
@@ -2642,3 +2648,9 @@ Guillermo Zorrilla López de Lara.
 DIPUTADO PROSECRETARIO,
 
 Salvador Delgado Esquivel.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE FEBRERO DE 2003.
+
+UNICO.- El presente Decreto de reformas a los artículos 133 y 138 de la Ley Orgánica del Poder Legislativo iniciarán su vigencia a partir de su publicacion en el Periódico Oficial del Estado.
