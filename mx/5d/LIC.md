@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1990-07-18"
+last_updated: "1992-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -81,6 +81,10 @@ I. La legislación mercantil;
 II. Los usos y prácticas bancarios y mercantiles, y
 
 III. El Código Civil para el Distrito Federal;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+IV. El Código Fiscal de la Federación, para efectos de las notificaciones y los recursos a que se refieren los artículos 25 y 110 de esta Ley.
 
 Las instituciones de banca de desarrollo, se regirán por su respectiva ley orgánica y, en su defecto, por lo dispuesto en este artículo.
 
@@ -152,27 +156,39 @@ En los supuestos de que se niegue la autorización, se desista el interesado o s
 
 Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público, con sujeción a lo dispuesto en el Plan Nacional de Desarrollo, promoverá una adecuada descentralización del Sistema Bancario Mexicano, evitando una excesiva concentración de instituciones de crédito en una misma región, así como preservando el control de la banca mexicana en manos de mexicanos.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 11.
 
-El capital social de las instituciones de banca múltiple se integrará por las siguientes series de acciones:
+El capital pagado de las instituciones de banca múltiple se integrará por acciones de la serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la institución.
 
-I. La serie "A", que en todo momento representará el cincuenta y uno por ciento del capital de la institución;
+Asimismo, el cuarenta y nueve por ciento restante de la parte ordinaria del capital, podrá integrarse indistinta o conjuntamente por acciones series "A", "B" y "C"; la serie "C" sólo podrá emitirse hasta por el treinta por ciento de dicho capital.
 
-II. La serie "B", que podrá representar hasta el cuarenta y nueve por ciento del capital de la institución, y
-
-III. La serie "C", que en su caso podrá representar hasta el treinta por ciento del capital de la institución. Para la emisión de las acciones de esta serie se requerirá autorización de la Secretaría de Hacienda y Crédito Público.
+El capital pagado también podrá integrarse con una parte adicional, representada por acciones serie "L", que se emitirán hasta por un monto equivalente al treinta por ciento del capital ordinario de la institución, previa autorización de la Comisión Nacional de Valores.
 
 ###### ARTICULO 12.
 
 Las acciones serán de igual valor; dentro de cada serie, conferirán a sus tenedores los mismos derechos, y deberán pagarse íntegramente en efectivo en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
 
-Las instituciones podrán emitir acciones no suscritas, que conservarán en tesorería y que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que, en su caso fije la institución.
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación, así como cancelación de su inscripción en cualesquiera bolsas de valores.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como a un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos sociales de la institución emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+Las instituciones podrán emitir acciones no suscritas, que conservarán en tesorería. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la institución.
 
 ###### ARTICULO 13.
 
 Las acciones representativas de la serie "A" únicamente podrán ser adquiridas por:
 
-I. Personas físicas mexicanas;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+I. Personas físicas mexicanas y sociedades de inversión comunes exclusivas para esas personas;
 
 II. El Gobierno Federal, las instituciones de banca de desarrollo y el Fondo Bancario de Protección al Ahorro, y
 
@@ -188,15 +204,19 @@ II. Otras personas morales mexicanas, en cuyos estatutos figure cláusula de exc
 
 III. Instituciones de seguros y de fianzas, como inversión de sus reservas técnicas y para fluctuaciones de valores; sociedades de inversión; fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto Sobre la Renta, así como los demás inversionistas institucionales que autorice expresamente la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 15.
 
-Las acciones representativas de la serie "C" sólo podrán ser adquiridas por:
+Las acciones representativas de las series "C" y "L", sólo podrán ser adquiridas por:
 
 I. Las personas a que se refiere el artículo anterior;
 
 II. Las demás personas morales mexicanas, y
 
-III. Personas físicas o morales extranjeras que no tengan el carácter de gobiernos o dependencias oficiales.
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+III. Personas físicas extranjeras, o morales extranjeras que no ejerzan funciones de autoridad.
 
 ###### ARTICULO 16.
 
@@ -212,15 +232,19 @@ La institución deberá tener a disposición de los representantes de los accion
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 17.
 
-Ninguna persona física o moral podrá adquirir directamente o a través de interpósita persona, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones por más de cinco por ciento del capital pagado de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
+Ninguna persona física o moral podrá adquirir directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones por más del cinco por ciento del capital pagado de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
 
 Se exceptúa de lo dispuesto en el párrafo anterior a:
 
 I. El Gobierno Federal;
 
-II. Los inversionistas institucionales, señalados en la fracción III del artículo 14 de esta Ley, siempre y cuando su inversión no exceda en lo individual del quince por ciento del capital de la institución emisora;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+II. Los inversionistas institucionales, señalados en las fracciones I del artículo 13 y III del 14 de esta Ley, siempre y cuando su inversión no exceda en lo individual o en conjunto del quince por ciento del capital pagado de la institución emisora. Las instituciones de crédito deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción;
 
 III. El Fondo Bancario de Protección al Ahorro;
 
@@ -274,19 +298,19 @@ A los consejeros de estas instituciones les será aplicable lo dispuesto en el p
 
 La administración de las instituciones de banca múltiple estará encomendada a un consejo de administración y a un director general, en sus respectivas esferas de competencia.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 22.
 
-El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once o veintidós consejeros, o por múltiplos de once.
+El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos.
 
-En el primer caso, los accionistas de la serie "A" designarán a seis consejeros. Los de la serie "B" hasta cinco y, los de la serie "C", por cada diez por ciento del capital pagado correspondiente a esta serie, podrán nombrar a un consejero.
+En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más, y en su caso los de la serie "B" hasta cinco y los de la serie "C", por cada diez por ciento del capital pagado ordinario correspondiente a esta serie, podrán nombrar a un consejero. Los consejeros de la serie "B" deberán disminuirse según corresponda, en caso de que las aciones (sic) serie "C" den derecho a nombrar consejeros o que por las acciones de la serie "A" se designen más de seis consejeros.
 
-En el segundo caso, los accionistas de la serie "A" designarán a doce miembros. Los de la serie "B" hasta diez y, los de la serie "C", por cada cinco por ciento del capital pagado correspondiente a esta serie, podrán nombrar a un consejero.
+Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado ordinario de la institución, tendrán derecho a designar un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
-Los accionistas de cada una de las series, que representen cuando menos un diez o un cinco por ciento del capital pagado de la institución, tendrán derecho a designar un consejero de la serie que corresponda, según se trate de consejos de administración integrados por once o por veintidós miembros, respectivamente. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+En los supuestos de los consejos que se integren por múltiplos de once o cuenten con más de seis consejeros de la serie "A", así como en los casos previstos en el párrafo anterior y en los artículos 23 fracción II, 73 y 75 de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
 
-En el supuesto de los consejos que se integren por múltiplos de once, así como en los casos previstos en el párrafo anterior y en los artículos 23 fracción II, 73 y 75 de esta ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
-
-El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A", y tendrá voto de calidad en caso de empate. Por cada propietario se nombrará un suplente.
+El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
 ###### ARTICULO 23.
 
@@ -294,9 +318,13 @@ Los nombramientos de consejeros de las instituciones de banca múltiple deberán
 
 En ningún caso podrán ser consejeros:
 
-I. Los funcionarios y empleados de la sociedad, con excepción del director general de la misma;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
 
-II. El cónyuge. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con más de uno o dos consejeros, según se trate de consejos de administración integrados por once o por veintidós miembros, respectivamente;
+I. Los funcionarios y empleados de la institución, con excepción del director general y de los funcionarios de la sociedad que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, sin que éstos constituyan más de la tercera parte del consejo de administración;
+
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+II. El cónyuge. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con más de dos consejeros;
 
 III. Las personas que tengan litigio pendiente con la institución de que se trate;
 
@@ -308,7 +336,7 @@ VI. Quienes realicen funciones de inspección y vigilancia de las instituciones 
 
 VII. Quienes realicen funciones de regulación de las instituciones de crédito, salvo que exista participación del Gobierno Federal en el capital de las mismas.
 
-Los consejeros que representen a las series "A" y "B" deberán ser mexicanos o extranjeros que tengan el carácter de inmigrados residentes en el país.
+Los consejeros que representen a las series "A" y “B” deberán ser mexicanos o extranjeros que tengan el carácter de inmigrados residentes en el país.
 
 ###### ARTICULO 24.
 
@@ -344,9 +372,11 @@ V. El monto del beneficio, daño o perjuicio económicos derivados de la infracc
 
 Las resoluciones a que se refiere el primer párrafo, podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días siguientes a la fecha en que se hubieren notificado. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia de las partes.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 26.
 
-El órgano de vigilancia de la instituciones de banca múltiple, estará integrado por lo menos con un comisario de la serie "A", uno de la serie "B", uno por la serie "C" en su caso, así como sus respectivos suplentes.
+El órgano de vigilancia de las instituciones de banca múltiple, estará integrado por lo menos con un comisario de la serie "A", y, en su caso, un comisario por la serie "B", uno por la "C" y uno por la "L", así como sus respectivos suplentes.
 
 ###### ARTICULO 27.
 
@@ -902,9 +932,11 @@ Salvo pacto en contrario y en los términos de los usos internacionales a este r
 
 Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, o el que en su caso corresponda, conservando la garantía real y su preferencia aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 73.
 
-Las instituciones de banca múltiple requerirán del acuerdo de por lo menos cuatro u ocho consejeros de la serie "A" y tres o seis de las series "B" y "C" de su consejo de administración, según se trate de consejos integrados por once o por veintidós miembros, respectivamente, para celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
+Las instituciones de banca múltiple requerirán del acuerdo de por lo menos cuatro consejeros de la serie "A" y tres de las series "B" y "C" o de la propia serie "A", en su caso, de su consejo de administración, para celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
 
 I. Las personas físicas y morales que detenten directa o indirectamente el control del uno por ciento o más de los títulos representativos del capital de la institución o de la sociedad controladora del grupo financiero al que en su caso pertenezca la propia institución;
 
@@ -944,9 +976,13 @@ Las instituciones de banca múltiple podrán realizar inversiones en títulos re
 
 I. Hasta el cinco por ciento del capital pagado de la emisora;
 
-II. Más del cinco y hasta el quince por ciento del capital pagado de la emisora, durante un plazo que no exceda de tres años, previo acuerdo de por lo menos cuatro u ocho consejeros de la serie "A" y tres o seis de las series "B" y "C" de su consejo de administración, según se trate de consejos integrados por once o por veintidós miembros, respectivamente. La Secretaría de Hacienda y Crédito Público podrá ampliar el plazo a que se refiere esta fracción, considerando la naturaleza y situación de la empresa de que se trate, y
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
 
-III. Por porcentajes y plazos mayores, cuando se trate de empresas que desarrollen proyectos nuevos de larga maduración o realicen actividades susceptibles de fomento, previa autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o negará discrecionalmente, oyendo la opinión del Banco de México. Dicha Secretaría fijará las condiciones y plazos de tenencia de las acciones, de acuerdo con la naturaleza y finalidades de las propias empresas.
+II. Más del cinco y hasta el quince por ciento del capital pagado de la emisora, durante un plazo que no exceda de tres años, previo acuerdo de por lo menos cuatro consejeros de la serie "A" y tres de las series "B" y "C" o de la propia serie "A", en su caso, de su consejo de administración. La Secretaría de Hacienda y Crédito Público podrá ampliar el plazo a que se refiere esta fracción, considerando la naturaleza y situación de la empresa de que se trate, y
+
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+III. Por porcentajes y plazos mayores, cuando se trate de empresas que desarrollen proyectos nuevos de larga maduración o realicen actividades susceptibles de fomento, previa autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o negará discrecionalmente, oyendo la opinión del Banco de México. Dicha Secretaría fijará las condiciones y plazos de tenencia de las acciones, de acuerdo con la naturaleza y finalidades de las propias empresas. Cuando la institución mantenga el control de las empresas citadas y a su vez éstas realicen inversiones en otras, dichas empresas deberán sujetarse a lo dispuesto en esta fracción y computarán como si fueran realizadas por la institución, para efectos del límite a que se refiere el penúltimo párrafo de este artículo.
 
 Las instituciones de banca múltiple sujetarán estas inversiones a las medidas que dicte la Secretaría de Hacienda y Crédito Público, y las diversificarán de conformidad con las bases previstas en los artículos 49 y 51 de esta Ley, debiendo en todo caso observar los límites que propicien la dispersión de riesgos, así como una sana revolvencia para apoyar a un mayor número de proyectos.
 
@@ -1014,6 +1050,8 @@ Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal
 
 ### CAPITULO I. De las Prohibiciones
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 86.
 
 Mientras los integrantes del Sistema Bancario Mexicano, no se encuentren en liquidación o en procedimiento de quiebra, se considerarán de acreditada solvencia y no estarán obligados a constituir depósitos o fianzas legales, ni aún tratándose de obtener la suspensión de los actos reclamados en los juicios de amparo o de garantizar el interés fiscal en los procedimientos respectivos.
@@ -1040,7 +1078,9 @@ Las sociedades a que se refiere el párrafo anterior, se sujetarán a las reglas
 
 Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para que las instituciones de crédito inviertan en títulos representativos del capital social de entidades financieras del exterior.
 
-Las instituciones de banca múltiple que no formen parte de grupos financieros, podrán invertir en el capital social de organizaciones auxiliares del crédito e intermediarios financieros no bancarios, que no sean casas de bolsa, instituciones y sociedades mutualistas de seguros e instituciones de fianzas, previa autorización de la propia Secretaría y de acuerdo con las reglas generales que en su caso emita la citada Dependencia.
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+Las instituciones de banca múltiple podrán invertir en el capital social de sociedades de inversión y sociedades operadoras de éstas; además, cuando no formen parte de grupos financieros, en el de organizaciones auxiliares del crédito e intermediarios financieros no bancarios, que no sean casas de bolsa, instituciones y sociedades mutualistas de seguros e instituciones de fianzas, previa autorización de la Secretaría de Hacienda y Crédito Público y de acuerdo con las reglas generales que en su caso emita la citada Dependencia.
 
 Las solicitudes de autorización de las inversiones a que se refiere el párrafo anterior, deberán acompañarse del documento que precise las políticas para resolver el probable conflicto de interés que en la realización de sus operaciones con el público pudieren presentarse.
 
@@ -1158,9 +1198,11 @@ Sin perjuicio de las normas establecidas en este artículo, la Comisión Naciona
 
 ### CAPITULO III. De los Delitos
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 103.
 
-Ninguna persona, física o moral, podrá captar recursos del público en el mercado nacional, mediante actos causantes de pasivo directo o contingente, obligándose ésta a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
+Ninguna persona física o moral, podrá captar directa o indirectamente recursos del público en el territorio nacional, mediante actos causantes de pasivo directo o contingente, obligándose a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
 
 Se exceptúa de lo dispuesto en el párrafo anterior a:
 
@@ -1168,15 +1210,29 @@ I. Las instituciones de crédito reguladas en la presente Ley, así como a los d
 
 II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios, respecto de los recursos provenientes de la colocación de dichos instrumentos, siempre y cuando estos recursos no se utilicen en el otorgamiento de créditos de cualquier naturaleza, y
 
-III. Las personas autorizadas por la Secretaría de Hacienda y Crédito Público, siempre que se sujeten a las reglas que al efecto expida la propia Secretaría y a las disposiciones que, respecto de sus operaciones, emita el Banco de México
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, resolverá sobre las consultas que al respecto se le formulen y podrá establecer criterios de aplicación general conforme a los cuales se precisen, para efectos de este artículo, si hay o no captación de recursos del público, o bien los créditos que puedan otorgarse con recursos provenientes de la colocación de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios.
+III. Las personas morales autorizadas por la Secretaría de Hacienda y Crédito Público, para llevar a cabo sistemas de financiamiento consistentes en la integración de grupos de personas que aportan periódicamente sumas de dinero para constituir un fondo común administrado por las propias personas morales, destinado al otorgamiento de créditos a los integrantes de dichos grupos, para la adquisición, construcción, ampliación remodelación y liberación de hipotecas de bienes inmuebles, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+IV. Las personas morales autorizadas por la Secretaría de Hacienda y Crédito Público que capten recursos provenientes de la colocación de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios y otorguen créditos para determinada actividad o sector.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+Las personas morales a que se refieren las fracciones III y IV de este artículo, deberán sujetarse en cada caso a las reglas que al efecto expida la propia Secretaría y a las disposiciones que respecto de sus operaciones emita el Banco de México, así como a la inspección y vigilancia de la Comisión Nacional Bancaria.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México, podrá establecer criterios de aplicación general conforme a los cuales se precise, para efectos de este artículo, si hay o no captación de recursos del público.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 104.
 
-Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones en contravención de lo dispuesto por los artículos 2o. y 103 de esta Ley, o está infringiendo lo previsto por el primer párrafo del artículo 350 de la Ley General de Títulos y Operaciones de Crédito, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está realizando las operaciones mencionadas. En este caso y cumpliéndose con las formalidades esenciales del procedimiento, la Comisión Nacional Bancaria ordenará la suspensión inmediata de las operaciones irregulares e intervendrá administrativamente la negociación, empresa o establecimiento de la persona física o moral de que se trate, hasta que dichas operaciones queden liquidadas.
+Cuando la Comisión Nacional Bancaria presuma que una persona física o moral está realizando operaciones en contravención a lo dispuesto por los artículos 2o. ó 103 de esta Ley, o está infringiendo lo previsto por el primer párrafo del artículo 350 de la Ley General de Títulos y Operaciones de Crédito, podrá nombrar un inspector y los auxiliares necesarios para que revisen la contabilidad y demás documentación de la negociación, empresa o establecimiento de la persona física o moral, a fin de verificar si efectivamente está realizando las operaciones mencionadas.
 
-La suspensión y los procedimientos de inspección e intervención a que se refiere el párrafo anterior son de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo II del Título Séptimo de esta Ley. Los afectados podrán ocurrir en defensa de sus intereses ante la Comisión Nacional Bancaria, sin que ello afecte la suspensión y tales procedimientos.
+El procedimiento de inspección a que se refiere el párrafo anterior es de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo II del Título Séptimo de esta Ley.
 
 ###### ARTICULO 105.
 
@@ -1282,7 +1338,7 @@ Las sanciones que haya impuesto la Comisión Nacional Bancaria a las institucion
 
 ###### ARTICULO 111.
 
-Serán sancionados con prisión de dos a diez años y con multa de quinientas a cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, a quienes practiquen operaciones en contravención a lo dispuesto por los artículos 2o. y 103 de esta Ley.
+Serán sancionados con prisión de dos a diez años y con multa de quinientas a cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, quienes practiquen operaciones en contravención a lo dispuesto por los artículos 2o. ó 103 de esta Ley.
 
 ###### ARTICULO 112.
 
@@ -1482,9 +1538,11 @@ V. Delegaciones Regionales, y
 
 VI. Demás servidores públicos necesarios.
 
+(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)(F. DE E., D.O.F. 3 DE JULIO DE 1992)
+
 ###### ARTICULO 127.
 
-La Junta de Gobierno estará integrada por once vocales, más el Presidente y los Vicepresidentes de la Comisión. Cuatro de ellos serán designados por la Secretaría de Hacienda y Crédito Público, uno por la Secretaría de la Contraloría General de la Federación, tres por el Banco de México, y uno por la Comisión Nacional de Valores. La propia Secretaría de Hacienda y Crédito Público designará los otros dos vocales, quienes no deberán ser servidores públicos de esa Dependencia. Por cada propietario se nombrará un suplente.
+La junta de Gobierno estará integrada por diez vocales, más el Presidente y los Vicepresidentes de la Comisión. Cinco de ellos serán designados por la Secretaría de Hacienda y Crédito Público, tres por el Banco de México, uno por la Comisión Nacional de Valores y uno por la Comisión Nacional de Seguros y Fianzas. Por cada propietario se nombrará un suplente.
 
 La Secretaría de Hacienda y Crédito Público nombrará al Presidente de la Comisión Nacional Bancaria, que lo será a su vez de la Junta de Gobierno y deberá reunir los requisitos que para ocupar el cargo de director general, señala el artículo 24 de esta Ley.
 
@@ -1731,3 +1789,23 @@ El Sector Social organizado, de conformidad con lo dispuesto por el artículo 25
 México, D.F., 14 de julio de 1990.- Dip. Humberto Roque Villanueva, Presidente.- Sen. Enrique Burgos García, Presidente.- Dip. Hilda Anderson Nevárez de Rojas, Secretario.- Sen. José Joaquín González Castro, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de julio de mil novecientos noventa.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE JUNIO DE 1992.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los inversionistas institucionales que a la entrada en vigor de este Decreto, excedan conjuntamente el porcentaje a que se refiere el artículo 17 fracción II de la Ley de Instituciones de Crédito, podrán conservar su participación accionaria en exceso, no debiendo adquirir en caso alguno nuevas acciones del capital ordinario de la institución emisora, ni aún tratándose de posteriores aumentos de capital, en tanto rebasen el límite permitido.
+
+...
