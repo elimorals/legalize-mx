@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-01-15"
+last_updated: "1988-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -163,9 +163,13 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 2.- Juzgados Primero y Segundo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán;
 
-3.- Juzgado Tercero de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 20 DE ABRIL DE 1988)</small>
 
-4.- Juzgado Cuarto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán;
+3.- Juzgados Tercero y Cuarto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis;
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 20 DE ABRIL DE 1988)</small>
+
+4.- Juzgado Quinto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Mazatlán;
 
 5.- Juzgado de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz;
 
@@ -317,7 +321,9 @@ XVIII.- Los Juzgados Primero y Segundo de Distrito en el Estado de Durango, con 
 
 XIX.- Los Juzgados Primero y Segundo de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Culiacán, ejercerán jurisdicción en el municipio del mismo nombre y en el de Navolato;
 
-XX.- El Juzgado Tercero de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerá jurisdicción en el territorio que comprende los municipios de Ahome, El Fuerte, Choix, Sinaloa de Leyva, Guasave, Angostura, Salvador Alvarado, Mocorito y Badiguarato;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO NUMERO 4/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 20 DE ABRIL DE 1988)</small>
+
+XX.- Los Juzgados Tercero y Cuarto de Distrito en el estado de Sinaloa, con residencia en la ciudad de Los Mochis, ejercerán jurisdicción en el territorio que comprende los municipios de Ahome, El Fuerte, Choix, Sinaloa de Leyva, Guasave, Angostura, Salvador, Alvarado, Mocorito y Badiraguato;
 
 XXI.- El Juzgado Cuarto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerá jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, Rosario y Escuinapa;
 
@@ -378,3 +384,9 @@ CERTIFICA:
 Que el presente acuerdo 1/88, relativo a la determinación del número, división en Circuitos y jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el Tribunal en Pleno en Sesión Pública celebrada el viernes quince de enero de mil novecientos ochenta y ocho, por unanimidad de veintiún votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Felipe López Contreras, Raúl Cuevas Mantecón, Samuel Alba Leyva, Mariano Azuela Güitrón, Noé Castañón León, Ernesto Díaz Infante, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Manuel Gutiérrez de Velasco, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Angel Suárez Torres, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a quince de enero de mil novecientos ochenta y ocho.- José Javier Aguilar Domínguez.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de veintiséis fojas útiles con cuerda fiel y exactamente con su original que obran en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto tercero transitorio del acuerdo correspondiente. México, Distrito Federal, a quince de enero de mil novecientos ochenta y ocho.- José Javier Aguilar Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE ABRIL DE 1988.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
