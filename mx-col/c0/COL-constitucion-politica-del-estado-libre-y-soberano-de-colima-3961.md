@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1953-10-24"
+last_updated: "1954-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1954.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -547,7 +547,9 @@ Son facultades y obligaciones del Ejecutivo:
 
 I.- En el orden Federal, las que determinen la Constitución y leyes federales.
 
-II.- Promulgar, ejecutar y hacer que se ejecuten leyes, decretos y acuerdos del Congreso.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+
+II.- Promulgar, ejecutar y hacer que se ejecuten las Leyes y Decretos haciendo uso en su caso, de todas las facultades que le concede esta Constitución.
 
 III.- Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes.
 
@@ -561,27 +563,37 @@ V.- Nombrar y remover libremente al Procurador General de Justicia, a los Agente
 
 VI.- Suspender cuando falten a sus deberes, a los empleados nombrados por él y consignarlos al Procurador o Agentes del Ministerio Público si se tratare de la comisión de un delito.
 
-VII.- Concederles licencia con goce de sueldo o sin él, conforme a las leyes y resolver acerca de las renuncias de los demás empleados de su resorte.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
 
-VIII.- Iniciar ante la Diputación Permanente la convocatoria del Congreso a período extraordinario de sesiones o a sesión extraordinaria.
+VII.- Conceder licencias con goce de sueldo o sin él, y aceptar las renuncias de los funcionarios y empleados a que se refieren las fracciones IV y V de este artículo.
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+
+VIII.- Pedir a la Comisión Permanente, convoque al Congreso a Sesiones Extraordinarias.
 
 IX.- Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no hubiere Diputación Permanente.
 
-X.- Pedir prórroga de periodos ordinarios de sesiones.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
 
-XI.- Mandar en Jefe la guardia nacional y las fuerzas de seguridad pública, conforme a la Constitución General.
+X.- Expedir los nombramientos de los Magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+
+XI.- Aceptar las renuncias y licencias de los funcionarios a que se refiere la fracción anterior, dando cuenta con ellas al Congreso o a la Comisión Permanente.
 
 XII.- Dar a las Autoridades Judiciales los auxilios y fuerza armada que necesiten para el expedito ejercicio de sus funciones.
 
-XIII.- Conservar el orden, la tranquilidad y seguridad en el Estado.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+
+XIII.- Conservar el orden, tranquilidad y seguridad en el Estado, disponiendo al efecto de la Fuerza Armada del mismo.
 
 XIV.- Conceder indultos y reducir y conmutar penas conforme a la ley.
 
 XV.- Hacer que se cumplan las ejecutorias de los Tribunales.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
 
-XVI.- Formar y remitir cada año a la Legislatura en la primera quincena del mes de noviembre, el proyecto del Presupuesto de Ingresos del Estado y los que los Ayuntamientos envíen por su conducto.
+XVI.- Formar y remitir cada año a la Legislatura en la primera quincena del mes de diciembre, los proyectos de Presupuestos de Ingresos y Egresos del Estado y los que los Ayuntamientos envíen por su conducto.
 
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -611,15 +623,15 @@ XXVI.- Ejercitar los derechos a que se refieren los artículos 40 y 44 de esta C
 
 XXVII.- Remitir al Congreso y en sus recesos a la Diputación Permanente, los negocios de la competencia del Poder Legislativo que por cualquier causa le hubieren sido consignados.
 
-XXVIII.- Rendir ante la Cámara el informe a que se refiere el artículo 31 de esta Constitución.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+XXVIII.- Asistir a la apertura de Sesiones Ordinarias del Congreso a fin de rendir el Informe a que se refiere el artículo 31 de esta Constitución.
 
-XXIX.- Castigar a los que fueren irrespetuosos o infringieren sus órdenes con multa hasta por doscientos pesos o arresto hasta por treinta y seis horas; pero sí a quien se le impusiere no pagare la multa, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Tratándose de jornaleros y obreros, les impondrá a lo sumo la multa equivalente al importe de su jornal o sueldo en una semana.
+XXIX.- (DEROGADA, P.O. 23 DE ENERO DE 1954)
 
 XXX.- Suspender a los Ayuntamiento (sic), a las Juntas Municipales, o a los miembros de ambos y a los Comisarios, en el ejercicio de sus funciones, en los casos que determinen las leyes; dando inmediatamente parte justificada al Congreso y en sus recesos a la Diputación Permanente, para que se apruebe o no la suspensión.
 
-XXXI.- Expedir las bases generales a que deberán sujetarse los Presidentes Municipales en la formación de los reglamentos de policía y nombrar los Jefes Superiores de la misma.
+XXXI.- (DEROGADA, P.O. 23 DE ENERO DE 1954)
 
 XXXII.- Presidir todas las reuniones oficiales a que concurra a excepción de las del Congreso y Tribunales.
 
@@ -643,7 +655,9 @@ XXXVII.- Siempre que esté en goce de facultades extraordinarias en el Ramo de H
 
 El Gobernador no puede:
 
-I.- Negarse a publicar las leyes del Congreso o a cumplir los acuerdos del mismo. Sólo en caso de que le parecieren contrarios a la Constitución del Estado o de la federación, lo hará así presente a la Legislatura en los términos del artículo 40. Si la Constitución Federal fuere contrariada, dará aviso además al Ejecutivo Federal de la manera más prudente para salvar su responsabilidad; pero reproducida por la Cámara, indispensablemente la publicará en el acto.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1954)</small>
+
+I.- Negarse a publicar las Leyes y Decretos del Congreso. Sólo en el caso de que le parezcan contrariados a la Constitución del Estado, a la Federal, o restrinjan las facultades del Ejecutivo, lo hará así presente ante la Legislatura en los términos del artículo 40 de esta Constitución.
 
 II.- Distraer los caudales públicos, de los objetos a que están destinados por la ley.
 
@@ -1602,3 +1616,7 @@ Por esta única vez el C. Gobernador no rendirá su informe el día que se insta
 P.O. 24 DE OCTUBRE DE 1953.
 
 UNICO:- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ENERO DE 1954.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
