@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2001-06-29"
+last_updated: "2003-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -79,7 +79,7 @@ I. Las controversias constitucionales y las acciones de inconstitucionalidad a q
 
 II. Los amparos en revisión en los que subsistiendo la materia de constitucionalidad de leyes federales o tratados internacionales, no exista precedente y, a su juicio, se requiera fijar un criterio de importancia y trascendencia para el orden jurídico nacional y, además, revistan interés excepcional, o por alguna otra causa; o bien, cuando encontrándose radicados en alguna de las Salas, lo solicite motivadamente un Ministro;
 
-III. Los recursos de reclamación interpuestos en contra de las providencias o acuerdos de trámite dictados por el presidente de la Suprema Corte de Justicia de la Nación, cuando se estime que procede revocarlos;
+III. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 8/2003 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 9 DE ABRIL DE 2003)
 
 IV. Las excusas o impedimentos de los Ministros en asuntos competencia del Pleno;
 
@@ -266,3 +266,11 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo General Número 5/2001, relativo a la determinación de los asuntos que conservará el Tribunal Pleno para su resolución y el envío de los de su competencia originaria a las Salas y a los Tribunales Colegiados de Circuito, fue emitido por el Tribunal Pleno en sesión privada de hoy veintiuno de junio de dos mil uno, por unanimidad de once votos de los señores Ministros presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza, excepto por lo que se refiere al considerando décimo tercero y puntos quinto, fracciones I, incisos A), B) y C) y IV, décimo, fracción I y décimo primero, fracción III, respecto de los cuales, los señores Ministros José Vicente Aguinaco Alemán y José de Jesús Gudiño Pelayo, votaron en contra.- México, Distrito Federal, a veintiuno de junio de dos mil uno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 9 DE ABRIL DE 2003.
+
+PRIMERO. Este Acuerdo entrará en vigor el primero de abril de dos mil tres.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
