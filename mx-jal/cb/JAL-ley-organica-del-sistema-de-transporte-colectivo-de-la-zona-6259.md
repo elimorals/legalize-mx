@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-de-transporte-colectivo-de-la-zona-625
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-03-16"
-last_updated: "1978-03-16"
+last_updated: "1981-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1981.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de marzo de 1978.
 
@@ -41,9 +41,11 @@ LEY ORGANICA DEL SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA
 
 ### CAPITULO PRIMERO. DE LA ORGANIZACION Y DEL PATRIMONIO
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 1o.
 
-Se crea un organismo público descentralizado con patrimonio y personalidad jurídica propios, que se denomina "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA", cuyos fines son administrar y operar sistemas de transportación urbana en las modalidades que convengan al interés colectivo.
+Se crea un Organismo Público Descentralizado con patrimonio y personalidad jurídica propios que se denomina "Sistema de Transporte Colectivo de la Zona Metropolitana", cuyos fines son administrar y operar sistemas de transportación urbana, suburbana e interurbana concordantemente con los planes Estatal y Regionales de Desarrollo Urbano, en las modalidades que convengan al interés colectivo.
 
 ###### ARTICULO 2o.
 
@@ -71,11 +73,13 @@ b).- Un Director General.
 
 El Consejo de Administración de "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA" estará integrado por los Consejeros Propietarios a que se refiere el Artículo siguiente, debiendo haber por cada uno, un Consejero Suplente.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 6o.
 
 Los miembros Consejeros serán:
 
-El Representante del Gobernador del Estado, que fungirá como Presidente del Consejo.
+El Representante del Gobernador del Estado, que será el Presidente del Consejo.
 
 El Presidente Municipal de Guadalajara.
 
@@ -85,7 +89,7 @@ El Presidente Municipal de Tlaquepaque.
 
 El Presidente de la Cámara Nacional de Comercio de Guadalajara.
 
-El Tesorero General del Estado.
+El Tesorero General del Estado quien tendrá el carácter de Tesorero del Consejo.
 
 El Jefe del Departamento de Tránsito del Estado.
 
@@ -97,17 +101,21 @@ El Secretario General de la Federación de Trabajadores de Jalisco.
 
 El Secretario General de la Confederación Revolucionaria de Obreros y Campesinos de Jalisco.
 
-El Secretario General del Sindicato de Trabajadores de "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA".
+El Secretario General del Sindicato de Trabajadores de "Sistema de Transporte Colectivo de la Zona Metropolitana".
 
 ###### ARTICULO 7o.
 
 Los Consejeros, podrán ser removidos libremente por quien tiene la facultad de nombrarlos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 1981)</small>
+
 ###### ARTICULO 8o.
 
-Son facultades del Consejo de Administración.
+El Consejo de Administración tendrá las siguientes atribuciones:
 
-I.- Aprobar o modificar los Presupuestos de Ingresos y de egresos para el año siguiente, que le someta el Director General;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1981)</small>
+
+I.- Administrar los bienes y negocios del "Sistema" con plenas facultades de gestión, representación, administración y dominio, salvo que el patrimonio inmobiliario no podrá ser enajenado sino con autorización previa del Congreso del Estado; concertar las bases para la contratación de créditos financieros y suscribir, por conducto de su Presidente, los contratos, títulos de crédito y demás documentos que se requieran, con firma mancomunada del Director General y del Tesorero. Aprobar o modificar los Presupuestos de Ingresos y de Egresos para el año siguiente, que le someta el Director General;
 
 II.- Discutir y aprobar o modificar en su caso el plan de adiciones y mejoras que formule la Dirección General así como vigilar su ejecución;
 
@@ -167,7 +175,9 @@ El Director General será designado por el C. Gobernador del Estado.
 
 Son facultades y obligaciones del Director General:
 
-I.- Representar a "SISTEMA DE TRANSPORTE COLECTIVO DE LA ZONA METROPOLITANA" con las facultades que en cada caso le otorgue el Consejo de Administración y con las limitaciones establecidas en el artículo 20 de esta Ley, pudiendo incluso delegar la representación a la persona o personas que estime conveniente;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 1981)</small>
+
+I.- Representar al "Sistema" ante las Autoridades Administrativas, Judiciales y del Trabajo, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley. Estará investido de poder general para pleitos y cobranzas y para actos de administración; podrá otorgar y suscribir títulos de crédito a nombre del "Sistema" con firma mancomunada del Presidente del Consejo, salvo en el caso de los créditos a que se refiere el Art. 8o., Fracción I, y celebrar y firmar los contratos que apruebe el Consejo, ejerciendo aquellas facultades de dominio que expresa y específicamente autorice el Consejo. Podrá otorgar poderes generales o especiales para pleitos y cobranzas y revocarlos;
 
 II.- Designar al personal de confianza, de acuerdo a las disposiciones relativas;
 
@@ -260,3 +270,11 @@ LIC. FLAVIO ROMERO DE VELASCO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFONSO DE ALBA MARTIN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE ENERO DE 1981.
+
+Primero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Segundo. Este Decreto comenzará a surtir sus efecto el día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
