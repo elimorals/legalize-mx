@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1998-06-26"
+last_updated: "1998-08-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-> <small>N. DE E. EL ACUERDO GENERAL NUMERO 23/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 25 DE JUNIO DE 1998, MODIFICA EL PRESENTE ORDENAMIENTO; MOTIVO POR EL CUAL SE APLICA LA CORRESPONDIENTE REFORMA.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 1998.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -113,7 +111,9 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Tres tribunales unitarios: dos con sede en la ciudad de Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
-3.- Diez juzgados de distrito: tres especializados en materia de procesos penales federales y uno especializado en materias de amparo y de juicios civiles federales, todos con residencia en la ciudad de Toluca; tres juzgados de distrito con sede en Naucalpan de Juárez, uno con residencia en Tlalnepantla y dos con sede en Ciudad Nezahualcóyotl.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 29/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+3.- Once juzgados de distrito: tres especializados en materia de procesos penales federales y dos especializados en materias de amparo y de juicios civiles federales, todos con residencia en la ciudad de Toluca; tres juzgados de distrito con sede en Naucalpan de Juárez, uno con residencia en Tlalnepantla y dos con sede en Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -153,7 +153,7 @@ VII.- SEPTIMO CIRCUITO:
 
 VIII.- OCTAVO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 23/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 23/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, COAHUILA, D.O.F. 25 DE JUNIO DE 1998)</small>
 
 1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Torreón
 
@@ -339,7 +339,9 @@ Los treinta y cuatro juzgados de distrito con residencia en el Distrito Federal 
 
 II.- SEGUNDO CIRCUITO:
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en Materia de Procesos Penales Federales y el Juzgado de Distrito en Materias de Amparo y de Juicios Civiles Federales, con residencia en la ciudad de Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL NUMERO 29/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+Los Juzgados Primero, Segundo y Tercero de Distrito en Materia de Procesos Penales Federales y los Juzgados Primero y Segundo de Distrito en Materias de Amparo y de Juicios Civiles Federales, con residencia en la ciudad de Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
 
 Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez y el Juzgado Cuarto de Distrito en el Estado de México, con residencia en Tlalnepantla de Baz, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes Municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
 
@@ -522,5 +524,13 @@ D.O.F. 25 DE JUNIO DE 1998.
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de agosto de mil novecientos noventa y ocho.
 
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 14 DE AGOSTO DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998 del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
