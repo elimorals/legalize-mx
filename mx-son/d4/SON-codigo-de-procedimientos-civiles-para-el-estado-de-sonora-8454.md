@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1990-08-09"
+last_updated: "1992-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE AGOSTO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -6117,15 +6117,21 @@ El juicio contradictorio se ventilará en la vía ordinaria.
 
 El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad, o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción contradictoria a que se refiere el artículo anterior, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva, que se recibirá de acuerdo con las reglas de la jurisdicción voluntaria.
 
-A su solicitud acompañará precisamente certificado del Registro Público de la Propiedad que demuestre que los bienes no están inscritos.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+A la solicitud se acompañará certificado del Registro Público de la Propiedad, que demuestre que los bienes no están inscritos y certificados relativos a la titularidad del inmueble en el Catastro y en el Padrón de Contribuyentes del Impuesto Predial.
 
 La petición se tramitará en vía de jurisdicción voluntaria, y, además, de acuerdo con las siguientes reglas:
 
-I.- Se recibirá la información con citación del Ministerio Público, del Registrador de la Propiedad y de los colindantes;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+I.- Se recibirá la información con citación del Ministerio Público, del Registrador de la Oficina del Registro Público de la Propiedad, de los colindantes, de la persona que, en su caso, aparezca como titular del inmueble en el Catastro, y, de aquélla a cuyo nombre se expidan las boletas del impuesto predial;
 
 II.- Los testigos deben ser, por lo menos, tres y de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere;
 
-III.- No se recibirá la información sin que previamente se hay dado una amplia publicidad a la solicitud del promovente por medio de la prensa y de avisos fijados en los lugares públicos;
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+III.- No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días, en uno de los periódicos de mayor circulación, en el Boletín Oficial del Gobierno del Estado, y mediante avisos fijados en las Oficinas Fiscales y Municipales, del lugar donde estén ubicados los inmuebles;
 
 IV.- Comprobada debidamente la posesión, el juez declarará que el opositor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita, una vez protocolizadas las diligencias respectivas, en el Registro Público, y
 
@@ -7717,15 +7723,27 @@ III.- Cuando se trate de comprobar la posesión de un derecho real.
 
 En todos los casos la información se recibirá con citación del Ministerio Público, quien podrá repreguntar a los testigos y tacharlos por circunstancias que afecten su credibilidad.
 
-En los casos previstos por las fracciones II y III, la información se recibirá cumpliendo con lo dispuesto en el Código Civil y lo establecido en este Código y se citarán, además, a los propietarios y colindantes que correspondan.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+En los supuestos a que se refieren las fracciones II y III de este artículo se deberá, además acompañar a la solicitud el certificado del Registrado Público de la Propiedad que demuestre que los bienes no están inscritos, y los relativos a la titularidad del inmueble en el Catastro y en el Padrón de Contribuyentes del Impuesto Predial.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Igualmente, en los casos señalados en el párrafo anterior, se deberá citar a los colindantes y, en su caso, a las personas que tengan inscrito el inmueble a su favor en el Catastro y a aquélla a cuyo nombre se expidan las boletas del impuesto predial. Los testigos deberán ser por lo menos tres, de notorio arraigo en el lugar de la ubicación de los inmuebles a que la información se refiera. Las declaraciones de dichos testigos versarán sobre el hecho de la posesión, sobre los orígenes de la misma, y sobre los requisitos que debe cumplir para servir de base a la prescripción adquisitiva.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+La información no se recibirá, en las hipótesis a que se refieren las fracciones II y III de este precepto, sin que previamente se publique la solicitud del promovente por tres veces, de tres en tres días, en uno de los periódicos de mayor circulación, en el Boletín Oficial del Gobierno del Estado y, mediante avisos fijados en las oficinas fiscales y municipales del lugar donde estén ubicados los inmuebles.
 
 ###### Art. 849.
 
 El juez procurará ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho. Igual obligación tendrá el Ministerio Público.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### Art. 850.
 
-Si los testigos no fueren conocidos del juez o del Secretario deberán identificarse, y sino lo hicieren, deberán presentar los interesados dos testigos que abonen a cada uno de los anteriores.
+La declaración de los testigos se recibirá conforme a las reglas de la prueba testimonial, establecidas en este Código.
 
 ###### Art. 851.
 
@@ -7733,9 +7751,25 @@ Las informaciones se protocolizarán ante el Notario que designe el promovente. 
 
 Cuando no se trate de derechos reales, se expedirá al interesado copia certificada de las diligencias.
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El efecto de la inscripción será el de temer a la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la misma inscripción. La declaratoria de propiedad a favor del poseedor, se hará por la autoridad judicial competente.
+
 ###### Art. 852.
 
 En ningún caso se admitirán informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Art. 852 BIS.- Cualquiera que se crea con derecho a los bienes a que se refiere la información, podrá oponerse.
+
+La interposición de la oposición suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el Juez ponerlo en conocimiento del Registrador de la Oficina del Registro Público de la Propiedad, para que suspenda la inscripción y si ya estuviere hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue caución para responder de los daños y perjuicios que se originaren, si su oposición se declarase infundada.
+
+Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará ésta sin efecto, haciéndose, en su caso, la cancelación que proceda.
 
 ### CAPITULO UNICO.
 
@@ -8346,3 +8380,17 @@ Los asuntos que se encuentren en trámite al entrar en vigor la presente Ley, se
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a lo establecido en la presente Ley.
+
+B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la aplicación de la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que se encuentren en trámite ante los tribunales antes de la entrada en vigor de esta Ley, se seguirán tramitando conforme a las disposiciones que se reforman, hasta su total terminación.
