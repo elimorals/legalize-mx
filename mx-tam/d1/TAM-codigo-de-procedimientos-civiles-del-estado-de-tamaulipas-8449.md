@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1988-06-22"
+last_updated: "1998-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3643,7 +3643,7 @@ La ejecución sólo se suspenderá cuando el demandado presente certificado lega
 
 ###### ARTICULO 509.
 
-El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará al orden establecido en el artículo 678.
+El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará el orden establecido en el artículo 678.
 
 ###### ARTICULO 510.
 
@@ -5773,6 +5773,22 @@ En cualquier momento, antes de concluída, a solicitud de cualquiera de los inte
 
 La tramitación ante notario se hará del conocimiento del fisco y se verificará de acuerdo con lo que se dispone en el Capítulo respectivo.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 769 Bis.
+
+Para la titulación notarial de adquisición por los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
+
+I.- Los legatarios o sus representantes, exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado;
+
+II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación de la localidad, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y los legatarios, y en su caso, su parentesco y se convocará a los que se consideren con derecho a la herencia y a los acreedores para que dentro del término de diez días se presente a deducir su derecho;
+
+III.- El notario recabará del Archivo General de Notarías y del Registro Público de la Propiedad del Estado, las constancias relativas a la existencia o inexistencia del testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
+
+IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documentos que se inscribirán en el Registro Público de la Propiedad. En su caso, se podrá hacer constar la repudiación expresa; y,
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del Artículo 2607 Bis del Código Civil.
+
 ###### ARTICULO 770.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir la testamentaría, remitiendo el expediente a quien debe conocer de ésta a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del albacea testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumulen antes de su formación.
@@ -7240,3 +7256,9 @@ El presente Decreto entrará en vigor treinta días después al de su publicaci�
 ###### ARTICULO SEGUNDO.
 
 Todos los asuntos que se encuentren en trámite continuarán rigiéndose conforme al ordenamiento bajo cuya vigencia se hubieren iniciado.
+
+P.O. 29 DE AGOSTO DE 1998
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
