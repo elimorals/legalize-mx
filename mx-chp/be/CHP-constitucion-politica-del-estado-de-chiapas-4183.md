@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1925-11-11"
+last_updated: "1926-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1926.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -189,17 +189,21 @@ Si no hubiere quórum para instalar la Cámara o para que ejerza sus funciones u
 
 Los diputados que no concurran a una sesión, sin causa justificada y sin permiso de la Cámara, no tendrán derecho a la dieta correspondiente al día en que falten.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+
 ###### ARTICULO 20.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero comenzará el 1° de noviembre y terminará el 31 de enero; el segundo, improrrogable, comenzará el 1° de mayo y terminará el último de junio.
+El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el primero de noviembre y terminará el último de febrero del año siguiente.
 
 ###### ARTICULO 21.
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado para este objeto; pero en tal caso no podrá ocuparse más que del asunto o asuntos que se sometieren a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+
 ###### ARTICULO 22.
 
-A la apertura del primer período anual de sesiones ordinarias del Congreso y a la de las extraordinarias convocadas por el Ejecutivo, asistirá el Gobernador del Estado y presentará un informe por escrito: en el primer caso, sobre el estado general que guarde la administración pública; en el segundo, para exponer al Congreso las razones o causas que hicieron necesaria su convocación y el asunto que amerite una resolución perentoria.
+A la apertura del período de sesiones ordinarias del Congreso y a la de las extraordinarias convocadas por el Ejecutivo, asistirá el Gobernador del Estado y presentará su informe por escrito: en el primer caso sobre el estado general que guarde la Administración Pública; en el segundo para exponer al Congreso las razones o causas que hicieron necesaria su convocación y el asunto que amerite una resolución perentoria.
 
 ###### ARTICULO 23.
 
@@ -228,6 +232,8 @@ Las iniciativas presentadas por el Ejecutivo o por tres o más diputados pasará
 Discutido y declarado con lugar a votar todo proyecto, se pasará en copia al Ejecutivo, para que en el término de siete días útiles manifieste su opinión o exprese que no usa de esa facultad.
 
 ## TITULO QUINTO. De los Municipios
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
 
 ###### ARTICULO 27.
 
@@ -393,13 +399,15 @@ La Diputación Permanente dará cuenta en la segunda sesión del Congreso, de lo
 
 Se deposita el ejercicio del Poder Ejecutivo en un ciudadano que se denominará "Gobernador del Estado de Chiapas".
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+
 ###### ARTICULO 42.
 
 Para ser Gobernador se requiere:
 
-I. Ser ciudadano chiapaneco, hijo de padres mexicanos por nacimiento y en pleno goce de sus derechos;
+I. Ser ciudadano chiapaneco, hijo de padres mexicanos y en pleno goce de sus derechos;
 
-II. Ser nativo del Estado y haber residido en su territorio cuando menos cinco años inmediatamente antes de la elección; y
+II. Ser nativo del Estado o ser ciudadano mexicano por nacimiento con residencia en el Estado no menos de cinco años inmediatamente anteriores al día de la elección;
 
 III. Tener treinta años cumplidos.
 
@@ -519,9 +527,11 @@ El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia,
 
 La Ley Orgánica establecerá el número de Jueces de Primera Instancia, Jurados, Jueces Menores y Alcaldes que deban existir en el Estado, fijando su jurisdicción y el lugar de su residencia.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+
 ###### ARTICULO 55.
 
-El Tribunal Superior de Justicia se compondrá de seis Magistrados de número y cinco supernumerarios que serán electos por el Congreso del Estado constituido en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, que decidirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto.
+El Tribunal Superior de Justicia, se compondrá de tres Magistrados numerarios y tres supernumerarios que serán electos por el Congreso del Estado constituído en Colegio Electoral y con asistencia cuando menos de las dos terceras partes del número total de sus miembros, que discernirán de la elección por mayoría absoluta de votos emitidos en escrutinio secreto.
 
 ###### ARTICULO 56.
 
@@ -539,9 +549,11 @@ IV.- Gozar de buena reputacion y no haber sido condenado por delito que amerite 
 
 Los Magistrados y Jueces de Primera Instancia durarán en su encargo cuatro años; pero a partir del año de 1928 sólo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo, a menos que los Jueces sean promovidos a grado superior o que, siendo legos, sean substituidos por letrados.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+
 ###### ARTICULO 58.
 
-El Tribunal Superior de Justicia funcionará en Tribunal Pleno o en Salas, según lo determine la Ley Orgánica del Poder Judicial y su Reglamento Interior.
+El Tribunal Superior de Justicia, funcionará siempre en Tribunal Pleno, según lo determine la Ley Orgánica del Poder Judicial y su Reglamento interior.
 
 ###### ARTICULO 59.
 
@@ -567,9 +579,11 @@ VIII. Formar su Reglamento Interior y de su Secretaría.
 
 Ningún funcionario o empleado de la Administración de Justicia podrá aceptar y desempeñar empleo o encargo de la Federación, de los Estados o particulares, salvo los cargos honoríficos en las asociaciones científicas, literarias, de beneficencia o de Instrucción Pública. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
+
 ###### ARTICULO 61.
 
-Los Alcaldes serán electos popularmente al hacerse la elección de Ayuntamientos; comenzarán a funcionar el día primero de enero y durarán en su ejercicio un año.
+Los Alcaldes serán electos popularmente al hacerse la elección de Ayuntamientos exceptos (sic) los de la Capital, que serán nombrados por el Ejecutivo del Estado; comenzarán a funcionar el día primero de enero y durarán en su ejercicio dos años. Los de las Agencias Municipales serán nombrados por el Ejecutivo por terna que enviarán los Agentes dentro de los primeros quince días del mes de enero, por conducto del Presidente Municipal de que dependan, comenzarán a funcionar el primero de febrero y durarán en su ejercicio un año.
 
 ###### ARTICULO 62.
 
@@ -585,11 +599,13 @@ El Procurador General de Justicia integrará el Tribunal con voz pero sin voto.
 
 ###### ARTICULO 65.
 
-Para la administración interior del Estado, habrá Ayuntamientos y Delegados Municipales, cuyas atribuciones señalará la Ley.
+Para la Administración interior del Estado habrá Ayuntamientos y Agencias Municipales, cuyas atribuciones señalará la Ley.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
 
 ###### ARTICULO 66.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular y no habrá autoridad intermedia entre éste y el Gobierno del Estado. También los Delegados serán electos popularmente.
+Cada Municipio será administrado por un Ayuntamiento de Elección Popular y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Los Agentes serán nombrados por el respectivo Ayuntamiento en sesión plena.
 
 ###### ARTICULO 67.
 
@@ -601,11 +617,11 @@ Los Municipios administrarán libremente su hacienda, la cual se formará, apart
 
 Cuando por cualquier circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultad el Congreso del Estado, o en su defecto la diputación permanente, de nombrar substitutos.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1925)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1926)</small>
 
 ###### ARTICULO 69.
 
-Los miembros de los Ayuntamientos durarán en su encargo dos años y no podrán ser electos para el periodo inmediato.
+Los miembros de los Ayuntamientos durarán en su encargo dos años y no podrán ser reelectos. Los Agentes Municipales serán removidos libremente por el Ayuntamiento de que dependan, sin que el período de su ejercicio sea mayor de dos años.
 
 ###### ARTICULO 70.
 
@@ -844,3 +860,13 @@ Esta Ley empezara a surtir sus efectos desde el 1° primero de enero del año de
 ###### Artículo 2°.
 
 Quedan derogadas todas las leyes y disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE NOVIEMBRE DE 1926.
+
+###### Artículo 1o.
+
+La presente Ley empezará a surtir sus efectos desde su publicación en el Periódico Oficial.
+
+###### Artículo 2o.
+
+Quedan derogadas todas las leyes y disposiciones que se opongan a la presente.
