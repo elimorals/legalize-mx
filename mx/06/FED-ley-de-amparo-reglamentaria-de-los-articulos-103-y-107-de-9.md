@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1976-06-29"
+last_updated: "1976-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -40,8 +40,6 @@ DECRETO:
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE ABRIL DE 1968)</small>
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
-
-> <small>N. DE E. SE REFORMA LA ESTRUCTURA DE LA PRESENTE LEY, PARA DIVIDIR SU CONTENIDO EN DOS LIBROS: EL PRIMERO QUE COMPRENDE LOS ARTICULOS 1 AL 211; Y LA SEGUNDA QUE INICIA A PARTIR DEL ARTICULO 212 AL 234.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -173,9 +171,9 @@ Transcurrido un año sin que nadie se apersone en el juicio en representación l
 
 Las autoridades responsables no pueden ser representadas en el juicio de amparo, pero sí podrán por medio de simple oficio, acreditar delegados en las audiencias para el sólo efecto de que rindan pruebas, aleguen y hagan promociones en las mismas audiencias.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1968)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
-No obstante lo dispuesto en el párrafo anterior, el Presidente de la República podrá ser representado en todos los trámites de esta ley por los Secretarios y Jefes de Departamentos de Estado a quienes en cada caso corresponda el asunto, según la distribución de competencias establecidas en la Ley de Secretarías y Departamentos de Estado, o por los Subsecretarios, Secretarios Generales y Oficiales Mayores de las Secretarías y Departamentos de Estado, durante las ausencias de los titulares de sus respectivas dependencias, de acuerdo con la organización de éstas y por el Procurador General de la República, cuando el titular del Poder Ejecutivo le otorgue su representación en los casos relativos a la dependencia de su cargo.
+No obstante lo dispuesto en el párrafo anterior, el Presidente de la República podrá ser representado en todos los trámites de esta Ley, en los términos que determine el propio Ejecutivo Federal a través del Procurador General de la República, por los Secretarios de Estado y Jefes de Departamento Administrativo a quienes en cada caso corresponda el asunto, según la distribución de competencias establecida en la Ley Orgánica de la Administración Pública, o por los Subsecretarios, Secretarios Generales y Oficiales Mayores de las Secretarías y Departamentos, durante las ausencias de los titulares de sus respectivas dependencias, de acuerdo con la organización de éstas y por el citado Procurador, cuando el titular del Poder Ejecutivo le otorgue su representación en los casos relativos a la dependencia de su cargo.
 
 ###### ARTICULO 20.
 
@@ -1965,8 +1963,6 @@ II.- Al quejoso o tercero perjudicado en un juicio de amparo, que presente testi
 
 III.- Al quejoso en un juicio de amparo que para darle competencia a un juez de Distrito, designe como autoridad ejectuora (sic) a una que no lo sea, siempre que no se reclamen algunos de los actos a que se refiere el artículo 17.
 
-> <small>N. DE E. SE REFORMA LA ESTRUCTURA DE LA LEY, DIVIDIENDO SU CONTENIDO EN DOS LIBROS, QUE COMPRENDE A PARTIR DEL ARTICULO 212, D.O.F. 29 DE JUNIO DE 1976.</small>
-
 > <small>(ADICIONADO CON EL TITULO, CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE JUNIO DE 1976)</small>
 
 # LIBRO SEGUNDO. DEL AMPARO EN MATERIA AGRARIA
@@ -2370,3 +2366,7 @@ Se derogan los Artículos 8o. bis, fracción IV del 97, 116 bis y fracción III 
 ###### ARTICULO TERCERO.
 
 Los amparos agrarios que estén en trámites al entrar en vigor este Decreto, se sujetarán para su resolución, a las normas previstas en el mismo.
+
+D.O.F. 31 DE DICIEMBRE DE 1976.
+
+UNICO.- Este decreto entrará en vigor a partir del primer día del mes de enero de mil novecientos setenta y siete.
