@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-tramite-de-solicitudes-de-reembolso-por-1074
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-04-28"
-last_updated: "1997-04-28"
+last_updated: "2000-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10743&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-03-25"
 
 REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 28 de abril de 1997.
 
@@ -79,7 +79,9 @@ XII. Unidad: a la Unidad de Atención al Derechohabiente;
 
 XIII. Unidad Médica: al Centro Médico Nacional "20 de Noviembre", Hospitales Regionales y Generales, Clínicas-Hospital, Clínicas de Medicina Familiar, Unidad de Medicina Familiar y Puesto Periférico del Instituto, involucrados en la solicitud de reembolso;
 
-XIV. Contraloría: a la Controloría General del Instituto, y
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+XIV. Contraloría: al Organo Interno de Control en el Instituto, y
 
 XV. Coordinación: a la Coordinación General de Atención al Derechohabiente.
 
@@ -92,6 +94,10 @@ Las notificaciones que se realicen al derechohabiente o, en su caso, al solicita
 ###### Artículo 5o.
 
 El trámite para el reembolso de gastos médicos, principiará con la presentación de la solicitud respectiva, la que deberá ser formulada por escrito, empleando los formatos que para tal efecto establezca el Instituto y será firmada por el derechohabiente, o por el solicitante, y sin este requisito se tendrá por no presentada, a menos que no sepa o no pueda firmar, caso en el que se imprimirá su huella digital y firmará otra persona a su ruego.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
+En caso de fallecimiento del trabajador, podrán solicitar el reembolso, los beneficiarios debidamente acreditados ante el Instituto, los representantes legalmente designados por el interesado, los familiares que ejerzan la patria potestad de los menores involucrados en los hechos y los legítimos herederos.
 
 ###### Artículo 6o.
 
@@ -113,35 +119,47 @@ VII. Importe total de la cantidad solicitada en reembolso, y
 
 VIII. Relación sucinta de los hechos y circunstancias motivo de la solicitud.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 7o.
 
-Cuando en la solicitud de reembolso faltase o fuera omitido alguno o varios de los datos a que se refiere el artículo anterior, la Comisión o el Comité requerirá al solicitante, a fin de que en un término de 10 días naturales, contados a partir del día en que se le notifique, cumpla con los requisitos omitidos. En caso de no cumplimentarse el requerimiento dentro del término establecido, la solicitud se tendrá por no presentada.
+Cuando en la solicitud de reembolso faltase o fuera omitido alguno o varios de los datos a que se refiere el artículo anterior, la Comisión o el Comité requerirá al solicitante, a fin de que en un término de 10 días hábiles, contados a partir del día en que se le notifique, cumpla con los requisitos omitidos. En caso de no cumplimentarse el requerimiento dentro del término establecido, la solicitud se tendrá por no presentada.
 
 ###### Artículo 8o.
 
 A la solicitud de reembolso se acompañarán los siguientes documentos:
 
-I. Credencial del derechohabiente expedida por el área de afiliación y vigencia de derechos del Instituto;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+I. Documento que acredite afiliación o credencial vigente expedida por el área de afiliación y vigencia del Instituto, en caso de que el paciente sea familiar del derechohabiente, deberá presentar aviso de inscripción de beneficiarios, anterior a la fecha de los hechos; en el supuesto de ser estudiante mayor de 18 años, deberá acreditarlo acompañando el aviso de prórroga de servicios médicos por estudios;
 
 II. Credencial vigente del derechohabiente, expedida por la dependencia o entidad en que preste sus servicios, que lo acredite como servidor público;
 
-III. Original del talón de cheque o comprobante del sueldo del derechohabiente, expedido por la dependencia o entidad respectiva, correspondiente a la fecha en que ocurrieron los hechos motivo de la solicitud;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+III. Documento que acredite vigencia de derechos del solicitante, expedido por la dependencia o entidad respectiva, correspondiente a la fecha en que ocurrieron los hechos motivo de la solicitud, en caso de que la atención médica sea de Gineco-Obstetricia, deberá acompañar el documento con el que acredite la vigencia de derechos correspondiente a los 6 meses anteriores a la fecha del parto;
 
 IV. Resumen médico, suscrito por el facultativo particular que haya atendido al paciente;
 
-V. Documentos originales que comprueben la cantidad cuyo reembolso se solicita, mismos que deben reunir los requisitos fiscales;
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+V. Documentos originales que comprueben la cantidad cuyo reembolso se solicita, mismos que deben reunir los requisitos fiscales, además de estar expedidas a nombre del promovente y/o paciente, incluyendo el desglose y descripción de los medicamentos, material de curación y quirúrgico que se utilizó durante la atención del paciente;
 
 VI. Documento que contenga la autorización del derechohabiente, para que en su nombre o representación, un familiar o persona distinta presente la solicitud de reembolso, y
 
 VII. Cualquier otro documento que sustente los hechos y circunstancias que motiven la solicitud.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 9o.
 
-Cuando a la solicitud de reembolso no se acompañen los documentos a que se refiere el artículo anterior, la Comisión o el Comité requerirá a la persona que haya presentado la solicitud, en los términos del presente Reglamento, a fin de que en un término de 10 días naturales, contados a partir del día en que se le notifique, exhiba los documentos omitidos. En caso de no cumplimentarse el requerimiento dentro del término establecido, se desechará la solicitud presentada.
+Cuando a la solicitud de reembolso no se acompañen los documentos a que se refiere el artículo anterior, la Comisión o el Comité requerirá a la persona que haya presentado la solicitud, en los términos del presente Reglamento, a fin de que en un término de 10 días hábiles, contados a partir del día en que se le notifique, exhiba los documentos omitidos. En caso de no cumplimentarse el requerimiento dentro del término establecido, se desechará la solicitud presentada.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MAYO DE 2000)</small>
 
 ###### Artículo 10.
 
-La presentación de las solicitudes de reembolso deberá hacerse en un término máximo de 180 días naturales, contados a partir de la fecha en que ocurran los hechos motivo de la erogación. Cualquier solicitud que se promueva una vez transcurrido el término concedido para tal efecto, se tendrá por no presentada.
+La presentación de las solicitudes de reembolso deberá hacerse en un término máximo de 130 días hábiles, contados a partir de la fecha en que ocurran los hechos motivo de la erogación. Cualquier solicitud que se promueva una vez transcurrido el término concedido para tal efecto, se tendrá por no presentada.
 
 En tratándose de la prestación de servicios médicos extrainstitucionales de urgencia, el término correrá a partir del momento en que cese el estado de urgencia.
 
@@ -149,13 +167,15 @@ En tratándose de la prestación de servicios médicos extrainstitucionales de u
 
 Las solicitudes de reembolso deberán presentarse ante la Unidad que corresponda, de acuerdo con el último domicilio que el derechohabiente haya registrado ante el Instituto.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 12.
 
-En casos de urgencia médica, la solicitud de reembolso podrá presentarse en la Unidad que corresponda al lugar de ubicación de la Unidad Médica en donde se haya presentado dicha urgencia, la que deberá remitir la solicitud en un plazo que no excederá de 15 días naturaleshábiles a la Unidad que corresponda al último domicilio que el derechohabiente haya registrado ante el Instituto.
+En casos de urgencia médica, la solicitud de reembolso podrá presentarse en la Unidad que corresponda al lugar de ubicación de la Unidad Médica en donde se haya presentado dicha urgencia, la que deberá remitir la solicitud en un plazo que no excederá de 15 días hábiles a la Unidad que corresponda al último domicilio que el derechohabiente haya registrado ante el Instituto.
 
 ###### Artículo 13.
 
-Las solicitudes que sean presentadas por conducto, o ante la Comisión Nacional de Derechos Humanos o la Comisión Nacional de Arbitraje Médico, se sujetarán al procedimiento, plazos y substanciación que establezcan las leyes respectivas y demás disposiciones aplicables. Cuando el instituto acepte la conciliación o recomendación de la Comisión Nacional de Derechos Humanos, o bien la conciliación o el laudo del procedimiento conciliatorio ante la Comisión Nacional de Arbitraje Médico, el Instituto se limitará a determinar en cantidad líquida el monto correspondiente y procederá a ordenar su pago.
+(DEROGADO, D.O.F. 16 DE MAYO DE 2000)
 
 ###### Artículo 14.
 
@@ -169,37 +189,47 @@ El expediente de reembolso se integrará con los documentos siguientes:
 
 I. Solicitud de reembolso y los documentos anexos a la misma;
 
-II. Informe médico, objetivo e imparcial, firmado por el Director de la Unidad Médica, respecto de cada uno de los hechos y circunstancias motivo de la solicitud,
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+II. Informe médico, objetivo e imparcial, elaborado y firmado por el médico tratante y el Director de la Unidad Médica, respecto de cada uno de los hechos y circunstancias motivo de la solicitud, así como la constancia de asistencia del paciente a solicitar los servicios del Instituto;
 
 III. Copia fotostática legible del expediente clínico del paciente; y
 
 IV. Cualquier otro documento que se relacione con los hechos motivo de la solicitud.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 16.
 
-La Unidad requerirá a la Unidad Médica, los documentos a que se refieren las fracciones II, III y IV del artículo anterior, los que deberán ser proporcionados dentro de un plazo que no excederá de 15 días naturales, contados a partir de que se le notifique el requerimiento.
+La Unidad requerirá a la Unidad Médica, los documentos a que se refieren las fracciones II, III y IV del artículo anterior, los que deberán ser proporcionados dentro de un plazo que no excederá de 15 días hábiles, contados a partir de que se le notifique el requerimiento.
 
 En caso de que la Unidad Médica no los remita dentro del término concedido, se enviará la solicitud y los documentos que hubiese acompañado el solicitante a la Comisión o Comité, según corresponda, para su dictaminación, comunicándose este hecho a la Contraloría.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 17.
 
-La Unidad remitirá el expediente de reembolso o, en su caso, los documentos con que cuente para dictaminar, a la Comisión o Comité según sea el caso, dentro del término de 20 días naturales, contados a partir de la fecha de recepción de la solicitud.
+La Unidad remitirá el expediente de reembolso o, en su caso, los documentos con que cuente para dictaminar, a la Comisión o Comité según sea el caso, dentro del término de 20 días hábiles, contados a partir de la fecha de recepción de la solicitud.
 
 ### CAPITULO IV. De la substanciación de la solicitud
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 18.
 
-La dictaminación de la solicitud corresponderá a la Comisión, cuando el monto de la solicitud no rebase el importe de 100 veces el Salario Mínimo General diario, vigente en el Distrito Federal; cuando la solicitud exceda de dicho importe, corresponderá al Comité su dictaminación, de acuerdo con las pruebas e informes aportados por los derechohabientes, por las Unidades Médicas involucradas y los terceros relacionados.
+La dictaminación de la solicitud corresponderá a la Comisión, cuando el monto de la solicitud no rebase el importe de 250 veces el Salario Mínimo General diario, vigente en el Distrito Federal; cuando la solicitud exceda de dicho importe, corresponderá al Comité su dictaminación, de acuerdo con las pruebas e informes aportados por los derechohabientes, por las Unidades Médicas involucradas y los terceros relacionados.
 
 Independientemente de lo anterior, el Comité podrá dictaminar la solicitud de reembolso, cuando a su juicio resulte conveniente, sin importar su monto.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 19.
 
-La Comisión o el Comité, dictaminará y notificará con los elementos que le haya proporcionado la Unidad, en un término no mayor a 90 días hábiles, contados a partir de la fecha de presentación de la solicitud de reembolso respectiva ante la mencionada Unidad.
+La Comisión o el Comité, dictaminará y notificará con los elementos que le haya proporcionado la Unidad, en un término no mayor a 70 días hábiles, contados a partir de la fecha de presentación de la solicitud de reembolso respectiva ante la mencionada Unidad.
 
-En caso de que por la complejidad del asunto presentado, se requiera de información adicional o bien, la opinión de especialistas en la materia, el plazo para la dictaminación y notificación correspondientes, será de 180 días naturales.
+En caso de que por la complejidad del asunto presentado, se requiera de información adicional o bien, la opinión de especialistas en la materia, el plazo para la dictaminación y notificación correspondientes, será de 140 días hábiles.
 
-En el supuesto de que no se dictamine y notifique en los términos señalados en los párrafos anteriores, se considerará que la solicitud de reembolso ha sido improcedente. En este caso, el Instituto se limitará a determinar en cantidad líquída el monto del reembolso, y ordenará su pago.
+En el supuesto de que no se dictamine y notifique en los términos señalados en los párrafos anteriores, debe entenderse que la solicitud de reembolso ha sido improcedente.
 
 ###### Artículo 20.
 
@@ -233,9 +263,11 @@ El Instituto podrá repetir contra sus servidores públicos que resultaren respo
 
 ### CAPITULO V. De la reconsideración
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 23.
 
-El derechohabiente que no esté conforme con el dictamen recaído a su solicitud de reembolso, podrá solicitar, por una sola vez, la reconsideración del mismo en un término de 10 días naturales, contados a partir de la fecha de notificación del dictamen respectivo.
+El promovente que esté inconforme con el dictamen de desechamiento, improcedencia o procedencia parcial recaído a su solicitud de reembolso, podrá interponer, por una sola vez, la reconsideración del mismo en un término de 10 días hábiles, contados a partir de la fecha de notificación del dictamen respectivo. La reconsideración que se interponga fuera del término señalado, se tendrá por no presentada.
 
 ###### Artículo 24.
 
@@ -249,9 +281,13 @@ III. Número de oficio del dictamen objeto de la reconsideración, así como la 
 
 IV. Descripción de los hechos, argumentos en contra del dictamen y, de ser posible, los fundamentos médico-jurídicos; y
 
-V. Las pruebas adicionales en que se sustente la reconsideración solicitada.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
 
-Cuando en la solicitud de reconsideración, faltase o fuera omitido alguno o varios de los datos a que se refiere este artículo, el Comité requerirá al solicitante, a fin de que en un término de 10 días naturales, contados a partir del día en que se le notifique, cumpla con los requisitos omitidos. En caso de no hacerlo dentro del término establecido, la reconsideración se tendrá por no presentada.
+V. Las pruebas supervenientes en que se sustente la reconsideración solicitada.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
+Cuando en la solicitud de reconsideración, faltase o fuera omitido alguno o varios de los datos a que se refiere este artículo, el Comité requerirá al solicitante, a fin de que en un término de 10 días hábiles, contados a partir del día en que se le notifique, cumpla con los requisitos omitidos. En caso de no hacerlo dentro del término establecido, la reconsideración se tendrá por no presentada.
 
 ###### Artículo 25.
 
@@ -265,13 +301,17 @@ III. No se presente dentro del término señalado en el artículo 23 de este Reg
 
 IV. Se promueva en contra de dictámenes emitidos en cumplimiento de sentencia.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
 ###### Artículo 26.
 
-La Unidad deberá remitir el escrito de reconsideración, dentro de los siguientes 10 días naturales a la fecha de recepción del mismo al Comité, quien será el facultado para dictaminar la reconsideración.
+La Unidad deberá remitir el escrito de reconsideración, dentro de los siguientes 10 días hábiles a la fecha de recepción del mismo al Comité, quien será el facultado para dictaminar la reconsideración.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
 
 ###### Artículo 27.
 
-El Comité dictaminará y notificará la reconsideración a que se refiere el artículo anterior, dentro de los 60 días naturales siguientes a la fecha de recepción de la misma.
+El Comité dictaminará y notificará la reconsideración a que se refiere el artículo anterior, dentro de los 50 días hábiles siguientes a la fecha de recepción de la misma.
 
 ###### Artículo 28.
 
@@ -283,17 +323,31 @@ El dictamen que recaiga a la reconsideración, será para los mismos efectos a q
 
 El Comité estará integrado de la siguiente manera:
 
-I. Presidente: Coordinador General de Atención al Derechohabiente.
+I. Presidente: Coordinador General de Atención al Derechohabiente;
 
-II. Secretario Ejecutivo: El Jefe de Servicios que al efecto designe el titular de la Coordinación.
+II. Secretario Ejecutivo: El Jefe de Servicios que al efecto designe el titular de la Coordinación;
 
-III. Vocales: Un representante de la Secretaría de Salud; un representante de la Secretaría del Trabajo y Previsión Social; un representante de la Secretaría de la Junta Directiva del Instituto; tres representantes de la Federación de Sindicatos de Trabajadores al Servicio del Estado; y un representante de la Subdirección General Médica
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
 
-IV. Asesor: El representante de la Subdirección General Jurídica.
+III. Vocales: Un representante de la Secretaría de Salud; un representante de la Secretaría del Trabajo y Previsión Social; tres representantes de la Federación de Sindicatos de Trabajadores al Servicio del Estado; un representante de la Subdirección General Médica y un representante de la Coordinación General de Delegaciones del Instituto;
+
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+IV. Asesores: Un representante de la Subdirección General Jurídica, y un representante de la Secretaría de la Junta Directiva del Instituto;
 
 V. Invitado: El representante de la Contraloría Interna.
 
-El Comité sesionará de manera ordinaria por lo menos dos veces al mes, y de manera extraordinaria las que sean necesarias. El Presidente, el Secretario Ejecutivo y los Vocales tendrán derecho a voz y voto; el Asesor y el Invitado tendrán derecho a voz pero no a voto.
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
+El Comité sesionará de manera ordinaria por lo menos dos veces al mes, y de manera extraordinaria las veces que sean necesarias. El Presidente, el Secretario Ejecutivo y los Vocales tendrán derecho a voz y voto; los Asesores y el Invitado tendrán derecho a voz pero no a voto.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
+En caso de ausencia del Presidente, el Secretario Ejecutivo fungirá como Presidente Sustituto;
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2000)</small>
+
+Por cada vocal, se nombrará un suplente, el cual lo sustituirá en sus faltas temporales.
 
 ###### Artículo 30.
 
@@ -323,11 +377,15 @@ X. Las demás que le encomiende la Junta Directiva del Instituto.
 
 El Subcomité Técnico de Dictaminación de Solicitudes de Reembolso, estará integrado de la siguiente forma:
 
-I. Coordinador: Jefe del Departamento de Evaluación Médica de la Coordinación.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
 
-II. Secretario Técnico.- Jefe de Departamento de Operación y Apoyo Técnico de la Coordinación.
+I. Coordinador: Jefe del Departamento de Dictaminación Médica;
 
-III. Vocales: Dos representantes de la Federación de Sindicatos de Trabajadores al Servicio del Estado; y un representante de la Subdirección General Médica.
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+II. Secretario Técnico.- Subjefe del Departamento de Dictaminación Médica;
+
+III. Vocales: Dos representantes de la Federación de Sindicatos de Trabajadores al Servicio del Estado; y un representante de la Subdirección General Médica;
 
 IV. Asesor: El representante de la Subdirección General Jurídica.
 
@@ -375,7 +433,9 @@ V. Informar mensualmente al Comité los resultados de su actuación;
 
 VI. Proponer al Comité, las medidas preventivas y correctivas, para abatir las causas que originan las solicitudes de reembolso;
 
-VII. informar al Comité cuando se presuma responsabilidad de los servidores públicos del Instituto; y
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2000)</small>
+
+VII. Dar vista a la Unidad de Auditoría Interna Delegacional, y
 
 VIII. Las demás que le otorgue el presente Reglamento, así como aquellas que expresamente le encomiende la Junta Directiva.
 
@@ -396,3 +456,15 @@ Lo que me permito hacer de su conocimiento para los efectos a que haya lugar.
 Atentamente
 
 México, D.F., a 25 de marzo de 1997.- El Secretario de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Jaime Báez Rodríguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE MAYO DE 2000.
+
+PRIMERO.- Publíquense las presentes Reformas, Adiciones y Derogación, en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes Reformas, Adiciones y Derogación, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Las solicitudes que se encuentren pendientes de dictaminación, resolución, notificación y reembolso a la fecha de entrada en vigor de las presentes modificaciones, serán substanciadas por el Comité Técnico, en los términos del Reglamento antes de las reformas.
+
+CUARTO.- Modifíquese en lo conducente, los Manuales de Integración y Funcionamiento del Comité y Subcomité Técnico de Dictaminación, y de las Comisiones Dictaminadoras Delegacionales de Solicitudes de Reembolso, así como el Manual de Procedimientos para el Trámite de Solicitudes de Reembolso por Prestaciones de Servicios Médicos Extrainstitucionales.
