@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2000-09-19"
+last_updated: "2000-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -453,9 +453,11 @@ El Consejo Estatal será el órgano que planee, convoque y coordine las acciones
 
 En lo sucesivo cuando en esta Ley se haga mención al Consejo Estatal, se entenderá que se refiere al Consejo Estatal de Protección Civil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 24.
 
-El Consejo Estatal como órgano de planeación coordinación y concertación del Sistema Estatal de Protección Civil, tendrá las siguientes atribuciones:
+El Consejo Estatal como órgano de planeación, coordinación y concertación del Sistema Estatal de Protección Civil, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
@@ -495,7 +497,11 @@ XVI. Designar a los vocales del Comité Estatal de Emergencia;
 
 XVII. Con base en la terna que presente el Gobernador del Estado, designar al Titular de la Unidad Estatal de Protección Civil y en su caso, admitir su renuncia o removerlo de su cargo; y
 
-XVIII. Las demás que sean congruentes con las disposiciones anteriores y que le atribuyan otras leyes, decretos, reglamentos y convenios.
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XVIII. Autorizar las cuotas o tarifas de los servicios que presta la Unidad Estatal de Protección Civil, en los términos de la Ley de Ingresos en vigor;
+
+XIX. Las demás que sean congruentes con las disposiciones anteriores y que le atribuyan otras leyes, decretos, reglamentos y convenios.
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1993)</small>
 
@@ -759,13 +765,21 @@ VIII. Las demás funciones que le confieran el Reglamento Interno, los acuerdos 
 
 Se crea la Unidad Estatal de Protección Civil, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, constituido por:
 
-I. Un órgano central de administración;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el titular del Poder Ejecutivo del Estado, el Secretario General de Gobierno, el Secretario de Finanzas, el Secretario de Salud, el Secretario de Desarrollo Urbano y el Secretario de Desarrollo Rural, quienes podrán designar un suplente que los sustituya en sus ausencias, contando con los mismos derechos y obligaciones;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 II. El Centro Estatal de Operaciones; y
 
-III. Bases regionales que se establezcan, conforme el Programa Estatal de Protección.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-El Reglamento de la Unidad Estatal de Protección Civil determinará su estructura orgánica, atribuciones específicas y procedimientos de operación.
+III. Las Bases regionales necesarias que se establezcan, conforme el Programa Estatal de Protección Civil.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+El Reglamento Interno de la Unidad Estatal de Protección Civil determinará su estructura orgánica, atribuciones específicas y procedimientos de operación.
 
 ###### Artículo 37.
 
@@ -1454,5 +1468,9 @@ P.O. 3 DE FEBRERO DE 1998.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 19 DE SEPTIEMBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
