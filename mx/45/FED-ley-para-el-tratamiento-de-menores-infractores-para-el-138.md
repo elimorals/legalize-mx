@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-tratamiento-de-menores-infractores-para-el-138"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-24"
-last_updated: "1991-12-24"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-12-19"
 
 LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 24 de diciembre de 1991.
 
@@ -139,7 +139,9 @@ X.- Las unidades técnicas y administrativas que se determine.
 
 El Presidente del Consejo, los consejeros, el Secretario General de Acuerdos de la Sala Superior, los miembros del Comité Técnico Interdisciplinario, los secretarios de acuerdos y los defensores de menores, deberán reunir y acreditar los siguientes requisitos:
 
-I.- Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser mexicanos por nacimiento que no adquieran otra nacionalidad y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 II.- No haber sido condenados por delito intencional;
 
@@ -1226,3 +1228,9 @@ SEPTIMO.- En tanto el Consejo de Menores no haya integrado sus servicios pericia
 México, D.F., a 17 de diciembre de 1991.- Sen. Artemio Iglesias Miramontes, Presidente.- Dip. Felipe de Jesús Calderón Hinojosa, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Domingo Alapizco Jiménez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y uno..- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
