@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "1996-09-13"
+last_updated: "1999-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -119,9 +119,13 @@ V. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despa
 
 VI. Proporcionar a las autoridades competentes los datos e informes que soliciten, cuando proceda conforme a la ley;
 
-VII. Oír a los interesados en los asuntos de que conozcan cuando les sea solicitado; y
+VII. Oír a los interesados en los asuntos de que conozcan cuando les sea solicitado;
 
-VIII. Las demás que los ordenamientos legales les impongan.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales.
+
+IX. Las demás que los ordenamientos legales les impongan.
 
 ###### Artículo 9.
 
@@ -131,9 +135,11 @@ Ningún negocio judicial podrá tener más de dos instancias.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 10.
 
-El territorio del Estado de México, para los efectos de esta ley, se divide en los distritos judiciales de: Chalco, Cuatitlán, El Oro, Ixtlahuaca, Jilotepec, Lerma, Otumba, Sultepec, Temascaltepec, Tenango del Valle, Tenancingo, Texcoco, Tlalnepantla, Toluca, Valle de Bravo y Zumpango. Los distritos judiciales tendrán como asiento de su cabecera los municipios del mismo nombre.
+El territorio del Estado de México, para los efectos de esta ley, se divide en los distritos judiciales de: Chalco, Cuautitlán, Ecatepec de Morelos, El Oro, Ixtlahuaca, Jilotepec, Lerma, Nezahualcóyotl, Otumba, Sultepec, Temascaltepec, Tenango del Valle, Tenancingo, Texcoco, Tlalnepantla, Toluca, Valle de Bravo y Zumpango. Los distritos judiciales tendrán como asiento de su cabecera los municipios del mismo nombre.
 
 ###### Artículo 11.
 
@@ -143,33 +149,69 @@ I. Distrito de Chalco: Chalco, Amecameca, Atlautla, Ayapango, Cocotitlán, Ecatz
 
 II. Distrito de Cuautitlán: Cuautitlán, Coyotepec, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec y Tultitlán;
 
-III. Distrito de El Oro: El Oro, Acambay, Atlacomulco y Temascalcingo;
+(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
 
-IV. Distrito de Ixtlahuaca: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos y San Felipe del Progreso;
+III. Distrito de Ecatepec de Morelos: Ecatepec de Morelos y Coacalco de Berriozabal.
 
-V. Distrito de Jilotepec: Jilotepec, Aculco, Chapa de Mota, Polotitlán, Soyaniquilpan de Juárez, Timilpan y Villa del Carbón;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-VI. Distrito de Lerma: Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco y Xonacatlán;
+IV. Distrito de El Oro: El Oro, Acambay, Atlacomulco y Temascalcingo;
 
-VII. Distrito de Otumba: Otumba, Axapusco, Nopaltepec, San Martín de las Pirámides, Tecámac y Temascalapa;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-VIII. Distrito de Sultepec: Sultepec, Almoloya de Alquisiras, Amatepec, Texcaltitlán, Tlatlaya y Zacualpan;
+V. Distrito de Ixtlahuaca: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos y San Felipe del Progreso;
 
-IX. Distrito de Temascaltepec: Temascaltepec, San Simón de Guerrero y Tejupilco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-X. Distrito de Tenango del Valle: Tenango del Valle, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Joquicingo, Mexicaltzingo, Rayón, San Antonio la Isla, Texcalyacac, Tianguistenco y Xalatlaco;
+VI. Distrito de Jilotepec: Jilotepec, Aculco, Chapa de Mota, Polotitlán, Soyaniquilpan de Juárez, Timilpan y Villa del Carbón;
 
-XI. Distrito de Tenancingo: Tenancingo, Coatepec Harinas, Ixtapan de la Sal, Malinalco, Ocuilan, Tonatico, Villa Guerrero y Zumpahuacán;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-XII. Distrito de Texcoco: Texcoco, Acolman, Atenco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, La Paz, Nezahualcóyotl, Papalotla, Teotihuacán, Tepetlaoxtoc y Tezoyuca;
+VII. Distrito de Lerma: Lerma, Ocoyoacac, Otzolotepec, San Mateo Atenco y Xonacatlán;
 
-XIII. Distrito de Tlalnepantla: Tlalnepantla de Baz, Atizapán de Zaragoza, Coacalco de Berriozabal, Ecatepec, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan y Nicolás Romero;
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-XIV. Distrito de Toluca: Toluca, Almoloya de Juárez, Metepec, Temoaya, Villa Victoria y Zinacantepec;
+VIII. Distrito de Nezahualcóyotl: Nezahualcóyotl, Chimalhuacán y La Paz;
 
-XV. Distrito de Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Villa de Allende y Zacazonapan; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-XVI. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan y Tequixquiac.
+IX. Distrito de Otumba: Otumba, Axapusco, Nopaltepec, San Martín de las Pirámides, Tecámac y Temascalapa;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+X. Distrito de Sultepec: Sultepec, Almoloya de Alquisiras, Amatepec, Texcaltitlán, Tlatlaya y Zacualpan;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XI. Distrito de Temascaltepec: Temascaltepec, San Simón de Guerrero y Tejupilco;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XII. Distrito de Tenango del Valle: Tenango del Valle, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Joquicingo, Mexicaltzingo, Rayón, San Antonio la Isla, Texcalyacac, Tianguistenco y Xalatlaco;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XIII. Distrito de Tenancingo: Tenancingo, Coatepec Harinas, Ixtapan de la Sal, Malinalco, Ocuilan, Tonatico, Villa Guerrero y Zumpahuacán;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XIV. Distrito de Texcoco: Texcoco, Acolman, Atenco, Chiautla, Chicoloapan, Chiconcuac, Papalotla, Teotihuacán, Tepetlaoxtoc y Tezoyuca;
+
+(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
+
+XV. Distrito de Tlalnepantla: Tlalnepantla de Baz, Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan y Nicolás Romero;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XVI. Distrito de Toluca: Toluca, Almoloya de Juárez, Metepec, Temoaya, Villa Victoria y Zinacantepec;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XVII. Distrito de Valle de Bravo: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Villa de Allende y Zacazonapan; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+XVIII. Distrito de Zumpango: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan y Tequixquiac.
 
 ###### Artículo 12.
 
@@ -224,6 +266,10 @@ Si la persona nombrada no se presentare a rendir la protesta, sin causa justific
 Los magistrados, jueces, secretarios del pleno, de la presidencia, de acuerdos, auxiliares y oficiales mayores de las salas, ejecutores, proyectistas de sentencias y notificadores, están impedidos para desempeñar otro empleo, cargo o comisión de la federación, del estado, del municipio o de particulares. Los demás servidores públicos tendrán los mismos impedimentos, pero tratándose de empleos con particulares podrán desempeñarlos siempre que no sean incompatibles con su función. El incumplimiento de esta disposición será causa de responsabilidad.
 
 Quedan exceptuados de esta disposición los cargos honoríficos en asociaciones científicas, literarias o de beneficencia; asimismo, los cargos docentes siempre que su desempeño no perjudique las funciones y labores propias de los servidores de la justicia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+Los magistrados no podrán ocupar otro cargo en la administración pública estatal, durante el tiempo señalado para el ejercicio de su función, salvo que renuncien al cargo que desempeñan.
 
 ###### Artículo 23.
 
@@ -339,9 +385,11 @@ Para ser secretario general de acuerdos, se necesitan los mismos requisitos que 
 
 Del Presidente del Tribunal Superior de Justicia.
 
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
+
 ###### Artículo 40.
 
-El presidente del Tribunal Superior de Justicia será electo por mayoría de votos de los magistrados que integren el pleno del tribunal, en la primera sesión que se celebre durante el mes de enero del año que corresponda y durará su encargo tres años, pudiendo ser electo por otro período igual.
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma abierta o secreta, por los magistrados que integren el Poder Judicial, según lo determine el pleno del propio Tribunal, en la primera sesión que celebre durante el mes de enero del año que corresponda y durará en su encargo cinco años, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
 
 ###### Artículo 41.
 
@@ -399,9 +447,11 @@ III. De las recusaciones o excusas de sus miembros y de los jueces, así como de
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del tribunal y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 45.
 
-Cada sala elegirá anualmente, en el mes de enero, de entre sus miembros y por mayoría de votos, un presidente que podrá ser reelecto para el período siguiente.
+Cada sala elegirá anualmente en el mes de enero y en forma alterna de entre sus miembros por mayoría de votos, un Presidente.
 
 ###### Artículo 46.
 
@@ -467,13 +517,19 @@ II. Dos magistrados nombrados mediante insaculación; y
 
 III. Dos jueces de primera instancia, nombrados en los términos de la fracción anterior.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 54.
 
-Salvo el presidente del Consejo de la Judicatura, los demás consejeros durarán en su encargo cinco años, serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo período, por lo que al concluir éste, deberán reintegrarse a la función jurisdiccional que les corresponda.
+Los integrantes del Consejo de la Judicatura durarán en su encargo cinco años, y serán sustituidos de manera escalonada, quienes al concluir su encargo, deberán reintegrarse a la función jurisdiccional que les corresponda.
 
 ###### Artículo 55.
 
 El Consejo de la Judicatura funcionará en pleno o en comisiones.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+El Consejo de la Judicatura integrará una Comisión Especial, cuando así lo estime conveniente a solicitud del titular del Ejecutivo o del Pleno de la Legislatura, para realizar la averiguación de hechos que pudieran constituir un ilícito o responsabilidad administrativa, de algún magistrado o juez del Poder Judicial; cuando la petición se derive del Pleno de la Legislatura, por conducto de su Comisión de Administración de Justicia, podrá hacer llegar a la comisión especial, los elementos de prueba y demás información a su alcance, a efecto de que se determine lo procedente por el Consejo.
 
 ###### Artículo 56.
 
@@ -1415,9 +1471,13 @@ El presidente del Consejo de la Judicatura podrá solicitar a los integrantes de
 
 El Instituto de Capacitación y Especialización Judicial del Estado, tiene como objetivo la formación y actualización de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste. El funcionamiento y atribuciones del Instituto se regirán por las normas que determine el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 154.
 
-El Instituto contará con un comité académico, que presidirá el director designado por el Consejo de la Judicatura, de entre los magistrados del Tribunal Superior de Justicia y con cuatro personas de reconocida experiencia profesional y académica designadas por el mismo consejo.
+El Instituto contará con un Director que designará el Consejo de la Judicatura dentro de los Magistrados del Tribunal Superior de Justicia, o nombrará a alguna persona que reúna el perfil académico, técnico y profesional para desempeñar el cargo y con cuatro personas de reconocida experiencia profesional y académica, designadas por el propio consejo.
+
+El Director del Instituto, durará en su cargo cinco años, a cuyo término se deberá reintegrar a su función; los demás integrantes durarán en el cargo tres años.
 
 ###### Artículo 155.
 
@@ -1433,9 +1493,11 @@ IV. Mejorar las técnicas administrativas en la función jurisdiccional; y
 
 V. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 156.
 
-El Instituto llevará a cabo cursos continuos de preparación para los exámenes correspondientes a las distintas categorías que componen la carrera judicial.
+El Instituto llevará a cabo cursos continuos de preparación para los exámenes correspondientes a las distintas categorías que componen la carrera judicial, debiendo emitir la convocatoria por lo menos con treinta días naturales de anticipación, mismo que deberá ser publicada en la Gaceta del Gobierno y en dos de los principales diarios de circulación en la entidad.
 
 ## TITULO NOVENO
 
@@ -1481,7 +1543,9 @@ Para el otorgamiento de los estímulos se tomará en cuenta el desempeño en el 
 
 Los concursos de oposición para el ingreso y promoción dentro de las categorías señaladas, se sujetarán al siguiente procedimiento:
 
-I. El Consejo de la Judicatura emitirá una convocatoria que deberá ser publicada por una vez en la Gaceta del Gobierno y en tres de los principales diarios dos de circulación estatal y uno nacional. En la convocatoria deberá especificarse que se trata de un concurso de oposición, señalarse la categoría y el número de vacantes sujetas a concurso; el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar y requisitos para la inscripción y, en general, todos los demás elementos que se estimen necesarios;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
+
+I. El Consejo de la Judicatura emitirá una convocatoria por lo menos con treinta días naturales de anticipación, misma que deberá ser publicada en la Gaceta del Gobierno y en dos de los principales diarios de circulación estatal. En la convocatoria deberá especificarse que se trata de un concurso de oposición, la categoría y el número de vacantes sujetas a concurso; el lugar, el día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar y requisitos para la inscripción y, en general, todos los demás elementos que se estimen necesarios.
 
 II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre materias que se relacionen con la función de la plaza para la que concursan. De entre el número total de aspirantes, sólo tendrán derecho a pasar a las siguientes etapas las personas que hayan obtenido calificación aprobatoria;
 
@@ -1521,9 +1585,7 @@ En el caso de que existiere impedimento en alguno de los integrantes del jurado 
 
 El presidente del jurado tiene facultades para decidir lo conducente, de presentarse cualquier situación no prevista en esta ley o en el reglamento, que pudiere afectar el buen desarrollo de los exámenes.
 
-## TITULO DECIMO. De los Departamentos de Computación e Informática
-
-y de Oficialía de Partes y Estadística
+## TITULO DECIMO. De los Departamentos de Computación e Informática y de Oficialía de Partes y Estadística
 
 ### CAPITULO UNICO
 
@@ -1680,3 +1742,15 @@ P.O. 13 DE SEPTIEMBRE DE 1996
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 24 DE DICIEMBRE DE 1999
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- El Magistrado que se desempeña actualmente como Presidente del Tribunal Superior de Justicia, actuará como tal hasta la celebración de la primera sesión a que se refiere el artículo 40 de esta ley.
+
+> <small>(F. DE E., P.O. 5 DE ENERO DE 2000)</small>
+
+CUARTO.- El Ejecutivo del Estado, el Tribunal Superior de Justicia y/o el Consejo de la Judicatura, tomarán las medidas correspondientes y proveerán lo necesario en la esfera administrativa y jurisdiccional, para que a la brevedad posible queden debidamente organizados los nuevos Distritos Judiciales.
