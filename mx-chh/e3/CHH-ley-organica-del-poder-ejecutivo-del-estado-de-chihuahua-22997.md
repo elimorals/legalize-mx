@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1986-10-01"
+last_updated: "1987-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1987.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -397,9 +397,11 @@ X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relació
 
 XI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)</small>
+
 ###### ARTICULO 31.
 
-A la Dirección General de Desarrollo Urbano y Vivienda corresponde el despacho de los siguientes asuntos:
+A la Dirección General de Desarrollo Urbano, corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar y mantener actualizado el Plan Estatal para el Desarrollo Urbano;
 
@@ -417,13 +419,15 @@ VII.- Regularizar los asentamientos humanos y urbanizar los que sean susceptible
 
 VIII.- Estudiar y aprobar en su caso, los expedientes relativos al denuncio y enajenación de terrenos municipales y proyectar la dotación de fundos legales a las poblaciones del Estado;
 
-IX.- Diseñar, establecer, conducir y vigilar el Programa Estatal de Vivienda Popular;
+IX.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
-X.- Promover la vivienda progresiva, la participación de la comunidad en la autoconstrucción de viviendas y la integración de aquélla al desarrollo urbano;
+X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
-XI.- Promover la creación de parques de materiales de construcción para la vivienda popular y supervisar el destino y uso de los mismos;
+XI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
 
-XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de desarrollo urbano y vivienda, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+> <small>(REFORMADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)</small>
+
+XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Desarrollo Urbano, así como vigilar la organización y funcionamiento de los Departamentos que ejerzan las atribuciones anteriores; y
 
 XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
@@ -600,3 +604,27 @@ LIC. SAUL GONZALEZ HERRERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO VILLALOBOS OLVERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las fracciones IX, X y XI del Artículo 31 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua y se modifica el rubro de su Fracción XII y del numeral anterior por lo que se refiere a vivienda, para quedar redactado de la siguiente manera: A la Dirección General de Desarrollo Urbano, corresponde el despacho de los siguientes asuntos:
+
+###### ARTICULO TERCERO.
+
+El personal que en aplicación de esta Ley pase al Instituto, no resultará afectado en los derechos que haya adquirido en virtud de su relación laboral en la Administración Pública Estatal.
+
+###### ARTICULO CUARTO.
+
+El cambio de la Dependencia a que se refiere el Artículo Segundo transitorio al Instituto de la Vivienda, se hará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, todo cuanto corresponda.
+
+###### ARTICULO QUINTO.
+
+Los documentos del sector vivienda sujetos a trámite por parte de la "Dirección General de Desarrollo Urbano y Vivienda", seguirán su curso respectivo por conducto del Instituto creado en esta Ley.
