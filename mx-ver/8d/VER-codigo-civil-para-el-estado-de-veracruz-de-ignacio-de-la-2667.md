@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1956-11-22"
+last_updated: "1956-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE NOVIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 1956.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -955,7 +955,7 @@ ARTICULO 172
 
 La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
 
-ARTICULO 173
+ARTICUL0O 173
 
 Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
@@ -3527,9 +3527,11 @@ ARTICULO 680
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Encargado del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 1956)</small>
+
 ARTICULO 681
 
-Tienen la obligación de declarar el nacimiento: el padre y la madre, dentro de los cuarenta días de ocurrido aquél.
+Tienen la obligación de declarar el nacimiento el padre y la madre, dentro de los sesenta días de ocurrido aquél.
 
 Los médicos; cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Encargado del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
@@ -8451,7 +8453,7 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 ARTICULO 1700
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
+Aprobados el inventario y la cuenta de administración, el albacea debe hacer enseguida la partición de la herencia.
 
 ARTICULO 1701
 
@@ -12797,11 +12799,11 @@ TITULO DECIMOPRIMERO
 
 DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
 
-> <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., G.O 15 DE SEPTIEMBRE DE 1932)</small>
 
 SUBTITULO PRIMERO
 
-> <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., G.O 15 DE SEPTIEMBRE DE 1932)</small>
 
 ## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
@@ -14980,3 +14982,9 @@ G.O. 22 DE NOVIEMBRE DE 1956.
 PRIMERO.- Queda derogado el artículo 991 del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley.
 
 SEGUNDO.- Esta Ley entrará en vigor el día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 20 DE DICIEMBRE DE 1956.
+
+###### ARTICULO UNICO.
+
+Esta Ley comenzará a surtir sus efectos, a partir del día siguiente al en que se publique en la "Gaceta Oficial" del Estado.
