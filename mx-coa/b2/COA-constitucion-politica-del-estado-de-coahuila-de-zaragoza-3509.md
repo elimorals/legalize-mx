@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1942-02-11"
+last_updated: "1942-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 1942.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 1942.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1122,9 +1122,11 @@ Cuando hecha la elección de un Ayuntamiento, no se presentaren a tomar posesió
 
 Cuando por cualquier circunstancia no se haya verificado la elección de Concejales antes del día señalado por la ley para la renovación de funcionarios municipales o cuando esta fuere declarada nula, se procederá de acuerdo con la primera parte del artículo anterior, y constituido el Ayuntamiento como se previene, dará inmediata cuenta al Ejecutivo, para que se convoque desde luego a nuevas elecciones.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1942)</small>
+
 ###### Artículo 134.
 
-En caso de que por grave trastorno público desapareciese el Ayuntamiento de algún municipio, el Ejecutivo designará a los ciudadanos que deban formarlo, y durarán en su encargo por todo el tiempo que falte para terminar el período legal.
+Corresponde soberana y discrecionalmente al Ejecutivo declarar, cuando haya desaparecido el Ayuntamiento de algún Municipio, que es llegado el caso de nombrar Ayuntamiento Provisional, el que durará en su encargo todo el tiempo que falta para terminar el período legal, en el concepto de que el nombramiento se hará por el propio Ejecutivo, quien dará cuenta al H. Congreso, o a la Comisión Permanente en su caso, para el efecto de que sea ratificado el nombramiento.
 
 ## TITULO QUINTO.
 
@@ -1685,5 +1687,9 @@ P.O. 17 DE SEPTIEMBRE DE 1941.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 11 DE FEBRERO DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 4 DE MARZO DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
