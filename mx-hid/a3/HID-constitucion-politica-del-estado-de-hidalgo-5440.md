@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1954-05-24"
+last_updated: "1957-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1957.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -154,6 +154,10 @@ Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 24 DE MAYO DE 1954.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 1957.
+
+Único.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -657,9 +661,9 @@ XXIV. Nombrar Jueces del Registro Civil donde lo crea oportuno, de acuerdo con l
 
 XXV. Cuidar de los distintos ramos de la Administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1952)</small>
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1957)</small>
 
-XXVI. Asistir al Congreso el día 1o. de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública.
+XXVI. Asistir al Congreso el día 1o. de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública, a excepción del último informe de cada Administración Gubernamental, que tendrá lugar el 31 de marzo.
 
 XXVII. Solicitar del Congreso autorización para el arreglo de límites con los estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigirse al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General.
 
