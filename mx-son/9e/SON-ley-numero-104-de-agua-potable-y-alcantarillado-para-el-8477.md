@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-104-de-agua-potable-y-alcantarillado-para-el-8477"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-07"
-last_updated: "1992-12-31"
+last_updated: "2002-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 23 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Boletín Oficial Organo Oficial del Gobierno del Estado de Sonora, el jueves 7 de mayo de 1992.
 
@@ -959,9 +959,13 @@ Cuando la escasez de agua sea originada por negligencia o falta de previsión de
 
 ### CAPITULO III. CUOTAS Y TARIFAS
 
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 81.
 
-La Junta de Gobierno del Organismo Operador Municipal o Intermunicipal respectivo o, en su defecto, la Comisión de Agua Potable y Alcantarillado del Estado de Sonora, aprobarán las cuotas y tarifas de cada uno de los sistemas de agua potable y alcantarillado a su cargo.
+El Congreso del Estado aprobará las cuotas y tarifas por la prestación de los servicios públicos regulados por esta Ley.
+
+El Organismo Operador Municipal o Intermunicipal respectivo o, en su defecto, la Comisión de Agua Potable y Alcantarillado del Estado de Sonora, elaborarán los estudios que sustenten y propondrán al Ayuntamiento el anteproyecto de las cuotas y tarifas de cada uno de los sistemas de agua potable y alcantarillado a su cargo, para que éste a su vez apruebe la iniciativa que enviará al Congreso del Estado en materia de los servicios que regula esta Ley.
 
 ###### ARTICULO 82.
 
@@ -971,11 +975,13 @@ La recuperación del valor actualizado de las inversiones de infraestructura hid
 
 Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de la inversión se esté efectuando a través de leyes de contribuciones de mejoras por obras públicas hidráulicas en el Estado o Municipio, o una legislación fiscal similar.
 
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 83.
 
-Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos de los organismos descentralizados a que se refiere la presente ley. Una vez aprobadas, se ordenará su publicación en el Boletín Oficial del Gobierno del Estado y en el diario de mayor circulación de la localidad.
+Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomará en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos de los organismos descentralizados a que se refiere esta ley. Una vez realizados los estudios, si de los mismos se deriva la necesidad de modificar las cuotas y tarifas, el Ayuntamiento aprobará la iniciativa correspondiente que será sometida a la aprobación del Congreso del Estado para su inclusión o reforma en la Ley de Ingresos del Ayuntamiento respectivo.
 
-Los Organismos Operadores, cuando lo consideren conveniente, podrán solicitar a la Comisión de Agua Potable y Alcantarillado del Estado de Sonora, la elaboración de los estudios técnicos y financieros de apoyo para las adecuaciones de cuotas o tarifas. Igualmente, dicha Comisión podrá enviar a los organismos Operadores los estudios que haya elaborado, que justifiquen o apoyen las adecuaciones de las cuotas o tarifas respectivas dentro del Sistema de Agua Potable y Alcantarillado del Estado.
+Una vez aprobadas por el Congreso del Estado, se ordenará su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO 84.
 
@@ -1412,3 +1418,9 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín O
 ###### ARTICULO SEGUNDO.
 
 Todas aquellas atribuciones que no pueden ser asumidas por los organismos operadores municipales, en los términos de la Ley de Agua Potable y Alcantarillado para el Estado de Sonora, serán ejecutadas por la Comisión de Agua Potable y Alcantarillado del Estado de Sonora.
+
+B.O. 23 DE DICIEMBRE DE 2002.
+
+###### ARTICULO UNICO.
+
+Las disposiciones de la presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
