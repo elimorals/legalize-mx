@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-publico-de-la-propiedad-2809"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-06-15"
-last_updated: "1980-06-15"
+last_updated: "1980-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1980.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 15 de junio de 1980.
 
@@ -801,69 +801,175 @@ Las cesiones de créditos inscritos con anterioridad, se inscribirán al margen 
 
 ### CAPITULO X. De la Sección Quinta
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
 ###### ARTICULO 107.
 
-Estarán a cargo de la Sección Quinta las inscripciones del Plan Estatal de Desarrollo Urbano y los Planes Municipales de Desarrollo Urbano, así como de las resoluciones Administrativas que se dicten con apoyo al propio plan; de las declaratorias de Provisiones, Reservas, Usos, Destinos y de todas aquellas previstas en la Ley.
+Estarán a cargo de la Sección Quinta las inscripciones de los planes de desarrollo urbano que se mencionan en el Artículo 17 de la Ley de Desarrollo Urbano del Estado; así como las inscripciones de las resoluciones administrativas que se dicten con apoyo a los propios planes; las declaratorias de provisiones, reservas, usos y destinos, y, todas aquellas previstas en la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 108.
 
-El Plan Estatal de Desarrollo Urbano, deberá estar aprobado por el Jefe del Ejecutivo y será publicado en los términos enunciados en la Ley de Desarrollo Urbano del Estado, así como de sus modificaciones, ampliaciones y cancelaciones.
+Previamente a la inscripción de planes de desarrollo urbano deberán estar aprobados por el Jefe del Ejecutivo y publicados en los términos enunciados en la Ley de Desarrollo Urbano del Estado; así como sus modificaciones y cancelaciones.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 109.
 
-La Sección Quinta se llevará mediante cuatro Libros en los Volúmenes que fueren necesarios, los cuales serán:
+La Sección Quinta se llevará mediante cuatro libros en los volúmenes que fueren necesarios, los cuales serán:
 
-I.- Registro del Plan Estatal y de los Planes Parciales de Desarrollo Urbano;
+I.- Registro de los planes de desarrollo urbano en el Estado;
 
 II.- Registro de Declaratorias;
 
-III.- Registro de Programas;
+III.- Registro de Programas; y
 
-IV.- Registro de Modificaciones y Ampliaciones.
+IV.- Registro De Modificaciones y Cancelaciones.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 110.
 
-Una vez aprobado el Plan Estatal de Desarrollo Urbano por el Jefe del Ejecutivo, y habiéndose procedido a su publicación en los términos de la Ley de la Materia, deberán inmediatamente procederse a su inscripción en la Sección Quinta del Plan de Desarrollo Urbano.
+El Gobernador del Estado o la Dirección de Planeación y Construcciones del Estado, en cumplimiento, a lo dispuesto en los Artículos 8o., 9o. Fracción VII y 12 fracciones I y III de la Ley de Desarrollo Urbano del Estado, remitirán a la Dirección del Registro Público de la Propiedad para su inscripción, los Planes de Desarrollo Urbano, declaratorias, así como modificaciones y cancelaciones con anotaciones de haber sido aprobados expresamente por el citado Jefe del Ejecutiva Estatal y publicados en los términos del Artículo 26 de la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 111.
 
-Será requisito indispensable para la inscripción del Plan Estatal de Desarrollo Urbano y de todos los Planes previstos en la Ley, que reúnan todas las características legales y técnicas que para el efecto establece la Ley de Desarrollo Urbano de la Entidad.
+Con el original del plan que se pretende inscribir, se acompañarán los planos, croquis, memorias, diagramas, fotografías, etc., que expliquen o fundamenten el plan, así como dos ejemplares de la publicación abreviada que se haya hecho de dicho plan en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 112.
 
-Para los efectos del artículo anterior, dentro de un plazo no mayor de cinco días, contados a partir de que se reciba el Plan Estatal para su registro, el Registrador lo examinará para cerciorarse de que cumple con los requisitos que indica este Reglamento.
+El plan original, la publicación abreviada del mismo y los anexos que se acompañen deberán estar debidamente suscritos y autentificados con la firma y sello de las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 113.
 
-Si dentro del plazo señalado, el Registrador encontrase que no se han cumplido con los requisitos de inscripción, se abstendrá de llevarla a cabo, comunicando tal decisión al Ejecutivo del Estado quien remitirá el documento o documentos a la Oficialía de Partes, ordenándole proceda a la devolución del mismo.
+Si los documentos a registrar satisfacen los requisitos del artículo anterior y los que al respecto determina la Ley de Desarrollo Urbano del Estado, deberá inmediatamente procederse a su inscripción en el libro correspondiente de la Sección Quinta del Registro público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 114.
 
-Todo documento que se presente para su inscripción después de registrado el Plan Estatal de Desarrollo Urbano, o de las partes que se inscriben de él, deberá expresar los antecedentes que correspondan al primer asiento que obre en el registro.
+Para los efectos del artículo anterior ,dentro de un plazo no mayor de cinco días, contados a partir de que se reciban los documentos para su registro, el registrador los examinará para. Cerciorarse de que cumple con los requisitos que indica este Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 115.
 
-Toda resolución .judicial que ordena la inscripción y registro de modificaciones, ampliaciones o cancelaciones a cualquiera de los documentos registrados, deberá ser inscrita en sus términos en el Libro correspondiente.
+Si dentro del. plazo señalado, el registrador encontrase que no se han cumplido con los requisitos de inscripción, se abstendrá de llevarla a cabo, comunicando tal decisión al Ejecutivo del Estado quien remitirá el documento o documentos a la Oficialía de Partes, ordenándole proceda a la devolución del mismo.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 116.
 
-Todas las inscripciones del Plan o de alguna de sus partes, modificaciones, ampliaciones o cancelaciones irán numeradas progresivamente y en ellas se expresará la fecha y hora de presentación en riguroso orden cronológico.
+Todo, documento que se presente para su inscripción después de registrado el Plan, de Desarrollo Urbano, o de las partes que se inscriben de él, deberá expresar los antecedentes que correspondan al primer asiento que obre en el Registro.
+
+Para tal efecto se requiere la previa inscripción del Plan Estatal como requisito indispensable para que proceda la inscripción de algún otro plan o resolución administrativa.
+
+No podrán inscribirse resoluciones administrativas que modifiquen planes sin que previamente éstos hayan sido inscritos.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 117.
 
-En el caso de que a juicio del Registrador concurran algunas características por las que no deba inscribirse el Plan Estatal de Desarrollo Urbano, alguna de sus partes, modificaciones, ampliaciones o cancelaciones administrativas, lo hará saber a la autoridad respectiva.
+Cuando algún afectado que tenga interés interponga dentro del plazo que señala la Ley del Desarrollo Urbano el recurso de reconsideración previsto en el Artículo 85 del mencionado ordenamiento jurídico, la autoridad ante la cual se haya interpuesto el recurso, la comunicará por oficio a la Dirección del Registro Público de la Propiedad, para que al margen de la inscripción respectiva haga la anotación preventiva correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 118.
 
-Cuando sea el caso del artículo anterior y la autoridad o autoridades insisten en la inscripción, la misma se hará insertándose el Oficio que la ordena, pero tratándose de autoridad administrativa y no judicial sólo se podrá llevar a cabo mediante orden escrita del Gobernador del Estado.
+Si se declarase improcedente el recurso la autoridad ante quien se interpuso el mismo, lo comunicará a la Dirección del Registro Público de la Propiedad a efecto de que se cancele la anotación a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 119.
 
-No podrá inscribirse en la Sección Quinta ningún documento del Plan Estatal de Desarrollo Urbano relativo a Provisiones, Usos, Reservas y Destinos, que afecten la propiedad, sin que antes se inscriban en la sección correspondiente del Registro Público de la Propiedad del Estado, como lo ordena la Ley.
+Si la impugnación se declarase fundada, el dictamen y el nuevo proyecto se inscribirán en el libro correspondiente de la Sección Quinta.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 120.
 
-Se inscribirán en el Libro Primero:
+Cuando se demande en la vía judicial la nulidad o rectificación de alguna inscripción, se anotarán al margen de ésta los datos esenciales de la demanda correspondiente, y en su oportunidad los de la resolución, definitiva que llegare a dictarse, a efecto de que, en su caso, se inscriba y registre la modificación o cancelación del documento registrado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 121.
+
+Las inscripciones se harán .en los libros respectivos con orden riguroso de mes, día y hora en que se reciban los documentos correspondientes de la Dirección del Registro Público de la Propiedad.
+
+Las inscripciones se harán en el libro que corresponda en forma de actas numeradas progresivamente, y estarán escritas con claridad, sin abreviaturas, guarismos ni correcciones. Las palabras que hubieren de testarse se encerrarán en un paréntesis poniéndoles una raya transversal que permita su lectura.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 122.
+
+Cada acta contendrá:
+
+I.- Fecha y hora en que el documento haya sido presentado en las oficinas del Registro para su inscripción;
+
+II.- Mención del documento de que se trate;
+
+III.- Relación de las memorias, testimonios, planos, diagramas, fotografías, etc., que se acompañen, al documento cuya inscripción se solicite. Dichos anexos se compilarán y archivarán debidamente como apéndices del documento registrado;
+
+IV.- Cuando se trate de inscripción de planes de desarrollo urbano se incluirán los datos a que se refiere el Artículo 19 de la Ley de Desarrollo Urbano del Estado así como los señalados en este Reglamento.
+
+V.- Cuando se trate de declaratorias, los datos a que se refiere el Artículo 56 de la Ley de Desarrollo Urbano así como los señalados en este Reglamento.
+
+VI.- Cuando se trate de modificaciones a los planes a que se refieren los Artículos 23 y 24 de la Ley de Desarrollo Urbano, los datos contenidos en el Artículo 111 de este Reglamento; debiéndose además, poner al margen de la inscripción al plan correspondiente la anotación respectiva;
+
+VII.- Cuando se trate de convenios derivados de lo establecido en los Artículos 30 y 31 de la Ley los datos a que se refiere el Artículo 111 de este Reglamento;
+
+VIII.- La mención de la parte del apéndice, cuaderno y páginas en donde se haya archivado las copias de los documentos registrados y sus anexos; y
+
+IX.- Fecha en que se autoriza el acta, firma del registrador y sello de la oficina del registro.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 123.
+
+En el caso de que no sean satisfechos los requisitos y características que establece este Reglamento y la Ley de desarrollo Urbano para proceder a la inscripción, ésta no se llevará a cabo, y el registrador lo hará saber a la autoridad respectiva.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 124.
+
+Cuando sea, el caso del artículo anterior y la autoridad o autoridades insistan en la inscripción la misma se hará insertándose el oficio que la ordena, pero tratándose de autoridad administrativa y no judicial sólo se podrá llevar a cabo mediante orden escrita del Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 125.
+
+Si los documentos satisfacen los requisitos de este Reglamento y los que al respecto determina la Ley de Desarrollo Urbano, se procederá a su inscripción levantando en el libro correspondiente el acta a que se refieren los Artículos 121 y 122 de este Reglamento, en la que además de los datos que ahí se señalan, se consignarán los siguientes que deberán constar en el documento cuya inscripción, se pida:
+
+a) Objetivo u objetivos consignados en el plan de que se trate;
+
+b) Período previsto para la ejecución del plan de que se trate; y
+
+c) El sistema a seguir para evaluar los resultados del plan de que se trate.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 126.
+
+Los documentos relativos a declaratorias de provisiones, usos, reservas y destinos, además de inscribirse en el libro correspondiente de la Sección Quinta deberán inscribirse previamente en la Sección del Registro Público de la Propiedad en la que se contengan la inscripción de los derechos reales afectados por dichas declaratorias.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 127.
+
+Se inscribirán en el libro primero los planes de desarrollo urbano mencionados en el Artículo 19 de la Ley de Desarrollo Urbano del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 128.
+
+Se inscribirán en el libro segundo:
 
 I.- Las declaratorias de provisiones;
 
@@ -873,97 +979,129 @@ III.- Las declaratorias de reservas;
 
 IV.- Las declaratorias de destinos;
 
-V.- Las declaratorias de Zonas Conurbadas e intermunicipales; y
+V.- Las declaratorias de zonas conurbadas interestatales e intermunicipales; y
 
-VI.- Las declaratorias de Conservación y Mejoramiento.
+VI.- Las declaratorias de conservación y mejoramiento.
 
-###### ARTICULO 121.
-
-En el caso de las fracciones I, II, III y IV, del artículo anterior, las declaratorias serán expedidas por el Gobernador del Estado, y una vez cubiertos los trámites legales y habiéndose procedido a su publicación, deberán ser inscritas en la Sección correspondiente y posteriormente en la Sección Quinta, en cumplimiento a las disposiciones relativas de la Ley de Desarrollo Urbano del Estado. Tratándose de declaratorias de Zonas Conurbadas se observará lo dispuesto en la Ley de la Materia del propio Estado.
-
-###### ARTICULO 122.
-
-Cuando de las declaratorias de Zonas Conurbadas se derive la expedición de aquellas que comprendan Provisiones, Usos, Reservas y Destinos; éstas se inscribirán además, como lo ordena la Ley, en la sección correspondiente y en esta sección como lo establece el presente Reglamento.
-
-###### ARTICULO 123.
-
-En el Libro Primero habrá cinco series de volúmenes con numeración romana del I al V. Cada serie estará a cargo de un Oficial, quien hará las inscripciones que serán revisadas, aprobadas y firmadas por el Registrador correspondiente en los términos establecidos en este Reglamento.
-
-###### ARTICULO 124.
-
-Cada serie de Volúmenes se comprenderá de los tomos necesarios según sea el movimiento de las inscripciones correspondientes.
-
-###### ARTICULO 125.
-
-Se inscribirán en el Libro Segundo los programas comprendidos en el Plan, así como aquellos que sean necesarios, conforme al proceso de planeación de desarrollo urbano.
-
-###### ARTICULO 126.
-
-Todas las acciones coordinadas que tengan por objeto el establecimiento de convenios en materias de inversiones entre las Dependencias de Gobierno Federal y las de Gobierno Estatal, así como con los particulares, se inscribirán en este Libro.
-
-###### ARTICULO 127.
-
-El Libro Segundo comprenderá tantos Volúmenes como sean necesarios de acuerdo con lo señalado en los Artículos 125 y 126.
-
-###### ARTICULO 128.
-
-Se inscribirán en el Libro Tercero:
-
-I.- Las ampliaciones que opere el Plan Estatal de Desarrollo Urbano; y
-
-II.- Las modificaciones que sufran el Plan Estatal de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 129.
 
-Para los efectos del artículo anterior, se entenderá por ampliación del Plan Estatal de Desarrollo Urbano toda extensión que el mismo opere, mediante las diversas proposiciones que hagan los órganos encargados del proceso de Desarrollo Urbano en el Estado, al Plan previamente aprobado, publicado y registrado en esta Sección.
+Cuando de las declaratorias de zonas conurbadas se derive la expedición de aquellas que comprendan provisiones, usos, reservas y destinos; éstas se inscribirán como lo ordena la Ley, en la Sección correspondiente a los derechos reales afectados y en esta sección como lo establece el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 130.
 
-Se considerará también, para los efectos de este Reglamento, por modificación del Plan Estatal de Desarrollo Urbano el proceso por el cual éste sufrirá por causas de fuerza mayor no imputables a los organismos que intervengan en el Desarrollo Urbano una reducción en las Políticas y Acciones que forman parte del Plan Estatal que ya fue debidamente aprobado, publicado y registrado.
+En el libro segundo habrá seis series de volúmenes con numeración romana del uno al seis. Cada serie estará a cargo de un oficial, quien hará las inscripciones que serán revisadas, aprobadas y firmadas por el registrador correspondiente en los términos establecidos en este Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 131.
 
-Para que una ampliación del Plan Estatal se pueda registrar, es requisito indispensable que se cumplan las disposiciones que establece el Artículo 111 y siguientes.
+Cada serie de volúmenes se comprenderá de los tomos necesarios según sea el movimiento de las inscripciones correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 132.
 
-En iguales términos, la inscripción de las modificaciones al Plan de Desarrollo Urbano, obligarán al Registrador a cumplir con los preceptos legales establecidos en los mismos artículos.
+Se inscribirán en el libro tercero los programas comprendidos en los planes, así como aquellos que sean necesarios, conforme al proceso de planeación del desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 133.
 
-De toda inscripción que se asiente en el Libro Tercero de esta Sección, se pondrá una nota marginal que remita al Libro o los Libros que corresponda, según se trata de una modificación o una ampliación del Plan Estatal de Desarrollo Urbano.
+Todas las acciones coordinadas que tengan por objeto el establecimiento de convenios en materia de inversiones entre las dependencias del Gobierno Federal y las del Gobierno Estatal, así como con los particulares, se inscribirán en este libro.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 134.
 
-En este Libro se llevarán dos volúmenes en el orden que establece el Artículo 128, cuya numeración será progresiva componiéndose cada Volumen por los tomos que sean necesarios.
+El libro tercero comprenderá tantos volúmenes, como sean necesarios.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 135.
 
-Se pondrá una nota marginal de toda cancelación al contenido del Plan Estatal de Desarrollo Urbano que se haga por acuerdo de los órganos encargados del Desarrollo Urbano, con la aprobación del Gobernador del Estado.
+Se inscribirán en el libro cuarto:
+
+I.- Las modificaciones que operen los planes de desarrollo urbano a que se refiere la ley; y
+
+II.- Las cancelaciones a los propios planes; además se inscribirán marginalmente al acta del plan cancelado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 136.
 
-Toda inscripción de cancelación que se efectúe contendrá la naturaleza de la misma, con la indicación de la parte o partes que deban cancelarse.
+Se considerará para los efectos de este Reglamento, por modificación de planes el proceso de reducción o ampliación de los mismos con motivo de alguna o algunas de las circunstancias que señala el Artículo 23 de la Ley de Desarrollo Urbano del Estado.
+
+Se considerará asimismo por cancelación la supresión de alguno de los planes con motivo de cualesquier circunstancia de las que señala el Artículo 23 del citado ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 137.
 
-Para efectuar la cancelación respectiva será requisito indispensable que el Registrador y Oficiales cumplan con lo establecido en el Artículo 111 y siguientes de este Reglamento.
+Para que una modificación del Plan Estatal se pueda registrar, es requisito indispensable que se cumplan las disposiciones que para tal efecto establece el Artículo 110 de este Reglamento, y a lo establecido en la Ley de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 138.
 
-Toda solicitud de certificados deberá presentarse por escrito y por duplicado, dirigida al Director, precisando con toda claridad la especie de certificado que se solicita y su finalidad.
+Lo establecido en el artículo anterior será aplicable para las modificaciones a cualesquiera de los planes de desarrollo urbano, que se mencionan en el Artículo 17 de la Ley de Desarrollo Urbano del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 139.
 
-Cuando las solicitudes no contengan los datos relativos a: 1).- Nombre y firma del interesado, 2).- Domicilio para oír y recibir notificaciones, 3).- Sección o Secciones, 4).- Volumen, 5).- Libro, 6).- Fojas, o no se haya realizado el pago de los derechos ante la autoridad que corresponda, los registradores devolverán dicho documento a la Oficialía de Partes, sin la certificación respectiva, a disposición de los interesados.
+De toda inscripción que se asiente en el libro cuarto de esta Sección, se, pondrá una nota marginal que remita el libro o los libros que correspondan a los planes o cancelados.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 140.
 
-Estas solicitudes se pasarán al Registrador por conducto de la Oficialía de Partes para la búsqueda que corresponda, y aquél dentro de los cinco días hábiles siguientes, informará al Director sobre los datos registrados que se pidieron.
+En este libro se llevarán dos volúmenes; uno de ellos destinado a modificaciones a los planes, y otro para cancelación de planes.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1980)</small>
 
 ###### ARTICULO 141.
 
-Con el Informe a que se refiere el artículo anterior, se extenderá el certificado, autorizándolo el Director con su firma y con el sello de Registro.
+Se pondrá una nota marginal de toda cancelación al contenido del plan de desarrollo urbano que se haga por acuerdo de los órganos encargados del desarrollo urbano, con la aprobación del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 141-A.
+
+Toda inscripción de cancelación que se efectúe contendrá la naturaleza de la misma, con la indicación de la parte o partes que deban cancelarse.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 141-B.
+
+Para efectuar la cancelación respectiva será requisito indispensable que se cumplan con las disposiciones que para tal efecto establece este Reglamento y la Ley del Desarrollo Urbano del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 141-C.
+
+Toda solicitud de certificación deberá presentarse por escrito y por duplicado, dirigida al Director, precisando con toda claridad la especie de certificación que se solicita y su finalidad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 141-D.
+
+Cuando las solicitudes no contengan los datos relativos a: 1).- Nombre y firma del interesado, 2).- Domicilio para oír y recibir notificaciones, 3).- Sección o Secciones, 4).- Volumen, 5).- Libro, 6).- Fojas, o no se haya realizado el pago de los derechos ante la autoridad que corresponda los registradores devolverán dicho documento a la Oficialía de Partes, sin la certificación respectiva, a disposición de los interesados.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 141-E.
+
+Estas solicitudes se pasarán al Registrador por conducto de la Oficialía de Partes para la búsqueda que corresponda, y aquél dentro de los cinco días hábiles siguientes, informará al Director sobre los datos registrados que se pidieron.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 1980)</small>
+
+###### ARTICULO 141-F.
+
+Con el informe a que se refiere el artículo anterior, se extenderá el certificado, autorizándolo el Director con su firma y con el sello de Registro.
 
 ### CAPITULO XI. Del Archivo
 
@@ -1152,3 +1290,9 @@ J. Refugio Esparza Reyes
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 1980.
+
+UNICO.- Las presentes Modificaciones al. Reglamento del Registro Público de la Propiedad del Estado de Aguascalientes entrarán en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
