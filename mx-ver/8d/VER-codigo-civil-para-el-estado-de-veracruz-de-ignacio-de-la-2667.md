@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1969-11-27"
+last_updated: "1969-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 1969.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3561,11 +3561,11 @@ ARTICULO 680
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Encargado del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 1956)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE DICIEMBRE DE 1969)</small>
 
 ARTICULO 681
 
-Tienen la obligación de declarar el nacimiento el padre y la madre, dentro de los sesenta días de ocurrido aquél.
+Tienen la obligación de declarar el nacimiento: el padre y la madre, dentro de los 180 días de ocurrido aquél.
 
 Los médicos; cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Encargado del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
@@ -15074,3 +15074,7 @@ Esta Ley principiará a surtir efectos, tres días después de su publicación e
 G.O. 27 DE NOVIEMBRE DE 1969.
 
 UNICO.- Esta Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 18 DE DICIEMBRE DE 1969.
+
+UNICO.- La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
