@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-7691"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-12"
-last_updated: "1985-12-12"
+last_updated: "1991-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1991.
 
 Ley Publicada en el Periódico Oficial "La Sombra de Arteaga" el 12 de Diciembre de 1985
 
 LIC. MARIANO PALACIOS ALCOCER Gobernador Constitucional del Estado Libre y Soberano de Querétaro de Arteaga, a los habitantes del mismo sabed que:
 
-LA CUADRAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL, ha tenido a bien expedir la siguiente:
+LA CUADRAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL, ... ha tenido a bien expedir la siguiente:
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
@@ -91,7 +91,9 @@ XI.- Promoción de vigilancia en materia de nutrición;
 
 XII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XIII.- La salud ocupacional en los términos del articulo 123 de la Constitución Política de los Estados Unidos Mexicanos
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 1991)</small>
+
+XIII.- La salud ocupacional y el saneamiento básico en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 XIV.- La prevención y el control de enfermedades transmisibles y accidentes;
 
@@ -103,7 +105,9 @@ XVII.- La asistencia social;
 
 XVIII.- Participar con la autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, y
 
-XIX.- Las demás que establezca esta Ley, la Ley general de salud y disposiciones aplicables
+> <small>(REFORMADA, P.O 18 DE ABRIL DE 1991)</small>
+
+XIX.- El control sanitario de la disposición de órganos, tejidos y sus componentes y cadáveres de seres humanos.
 
 B.- EN MATERIA DE SALUBRIDAD LOCAL, EL CONTROL SANITARIO DE:
 
@@ -497,6 +501,10 @@ Para los efectos de esta Ley, se considera usuario de servicios de salud a toda 
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 1991)</small>
+
+Los Grupos de Urgencia y Rescate privados que en casos de accidentes y desastres vienen prestando auxilio dentro del territorio del Estado, deberán sujetar su labor altruista conforme lo establezca el reglamento que para tal efecto se emita.
+
 ###### ARTICULO 51.
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
@@ -711,7 +719,7 @@ Para los efectos de la eficaz prestación del servicio social de pasantes de las
 
 ###### ARTICULO 84.
 
-La prestación del servicio social de los pasantes de las profesiones para la salud se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en área urbanas y rurales de menor desarrollo económico y social del Estado.
+La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en área urbanas y rurales de menor desarrollo económico y social del Estado.
 
 Para los efectos del párrafo anterior el Gobierno del Estado, en coordinación con las instituciones educativas y de salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que alude el Artículo 59 de esta Ley.
 
@@ -723,7 +731,7 @@ Las autoridades sanitarias del Estado, con la participación de las institucione
 
 ###### ARTICULO 86.
 
-Las autoridades educativas en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendará normas y criterios para la formación de recursos humanos para la salud.
+Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, recomendará normas y criterios para la formación de recursos humanos para la salud.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerá las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
@@ -749,7 +757,7 @@ II.- El perfil de los profesionales para la salud en sus etapas de formación.
 
 ###### ARTICULO 89.
 
-La Dirección de Salud, y en coordinación con las autoridades Federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+La Dirección de Salud y, en coordinación con las autoridades Federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### ARTICULO 90.
 
@@ -811,7 +819,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ###### ARTICULO 96.
 
-La Dirección de Salud, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacionales y Estatal de Salud así como el estado y evolución de la salud pública de la Entidad
+La Dirección de Salud, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacionales y Estatal de Salud, así como el estado y evolución de la salud pública de la Entidad
 
 La información se referirá, fundamentalmente a los siguientes aspectos:
 
@@ -941,7 +949,7 @@ II.- Influencia epidémica, otras infecciones agudas del aparato respiratorio, i
 
 III.- Tuberculosis;
 
-IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
+IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola, parotiditis infecciosa;
 
 V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salud coordinará sus actividades con la Secretaría de Agricultura y Recursos Hidráulicos;
 
@@ -959,7 +967,9 @@ XI.- Helmintiais intestinales y extraintestinales;
 
 XII.- Toxoplasmosis, y
 
-XIII.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos mexicanos sean parte.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 1991)</small>
+
+XIII.- Síndrome de Inmunodeficiencia Adquirida (SIDA), y (sic)
 
 ###### ARTICULO 114.
 
@@ -1151,7 +1161,7 @@ La autoridad sanitaria del Estado podrá autorizar la constitución de instituci
 
 ###### ARTICULO 141.
 
-Serán consideradas instituciones de Asistencia Privada las que se constituyan conforme con ésta Ley, al reglamento corrspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
+Serán consideradas instituciones de Asistencia Privada las que se constituyan conforme con ésta Ley, al reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
 
 ###### ARTICULO 142.
 
@@ -1195,7 +1205,7 @@ El patrimonio de la beneficencia pública, será administrado por el organismo a
 
 ###### ARTICULO 152.
 
-Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para su desempleo físico mental, social ocupacional y económico como consecuencia de una deficiencia sómatica, psicológica o social.
+Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para su desempleo físico mental, social, ocupacional y económico como consecuencia de una deficiencia sómatica psicológica o social.
 
 ###### ARTICULO 153.
 
@@ -1259,7 +1269,7 @@ IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 ###### ARTICULO 159.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del Programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del Programa contra el tabaquismo, que comprenderá, entre otras las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
 
@@ -1275,11 +1285,13 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 ### CAPÍTULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-ARTICULO 161 El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución en el territorio del estado de Querétaro, del Programa Nacional contra la farmacodependencia.
+###### ARTICULO 161.
+
+El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución en el territorio del estado de Querétaro, del Programa Nacional contra la farmacodependencia.
 
 ###### ARTICULO 162.
 
-El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustará a lo siguiente:
+El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópico en las personas, se ajustará a lo siguiente:
 
 I.- Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
@@ -1465,7 +1477,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 ###### ARTICULO 201.
 
-Queda prohibido que los desechos o líquidos que contengan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
+Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
 ### CAPITULO VIII. ESTABLOS
 
@@ -1601,7 +1613,7 @@ Las gasolineras deberán contar con las instalaciones de sanidad y seguridad que
 
 La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria del Estado permite a una persona pública o privada la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias, y permisos o tarjetas de control sanitario, en su caso.
+Las autorizaciones sanitarias tendrán el carácter de licencias, y permisos o tarjetas de control sanitario en su caso.
 
 ###### ARTICULO 228.
 
@@ -2190,3 +2202,9 @@ LIC. MARIANO PALACIOS ALCOCER.
 EL C. SECRETARIO DE GOBIERNO,
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 18 DE ABRIL DE 1991
+
+UNICO.- esta Ley entrará en vigor el día de su publicación en el Periódico Oficial "La sombra de Arteaga".
