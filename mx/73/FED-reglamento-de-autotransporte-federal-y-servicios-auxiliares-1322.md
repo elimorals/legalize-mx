@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-autotransporte-federal-y-servicios-auxiliares-132
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-22"
-last_updated: "1994-11-22"
+last_updated: "1998-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1322&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE AUTOTRANSPORTE FEDERAL Y SERVICIOS AUXILIARES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE AGOSTO DE 1998.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el día martes 22 de noviembre de 1994.
 
@@ -142,6 +142,26 @@ Para la prestación del servicio de autotransporte de carga especializada de mat
 ###### ARTICULO 10.
 
 Tratándose de la obtención de permisos para operar el transporte privado de personas y de carga, además de los requisitos establecidos en las fracciones I a VIII, X, XIV y penúltimo párrafo del artículo 7o., deberán presentar tarjeta de circulación y placas metálicas de identificación del vehículo expedidas por la autoridad local que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 10A.- Para la obtención del permiso para la construcción, operación y explotación de terminales de autotransporte federal de pasajeros, los interesados, además de la documentación señalada en las fracciones I a VI y, en su caso, penúltimo párrafo del artículo 7o., deberán presentar los documentos siguientes:
+
+I. El croquis que indique la ubicación y superficie del terreno en donde se pretende construir y operar la terminal;
+
+II. La copia certificada del documento que acredite la legal posesión del inmueble en el que se pretenda construir, operar y explotar terminales;
+
+III. El permiso o autorización sobre uso de suelo del predio en donde se pretenda construir la terminal, expedido por autoridad competente;
+
+IV. El proyecto arquitectónico de la terminal que se pretenda construir;
+
+V. El listado de las áreas que conformarán las instalaciones, descripción del equipo, señalización y servicios para la operación de la terminal, y
+
+VI. El reglamento interno de operación de la terminal, elaborado por el solicitante.
+
+Para obtener los permisos a que se refiere este artículo, los interesados deberán presentar su solicitud en el Centro SCT en que se ubique su domicilio y serán otorgados por la Secretaría a través de la unidad central competente.
+
+En los casos en que se solicite el establecimiento de una terminal en poblaciones donde existan en operación terminales centrales, la Secretaría, al resolver el otorgamiento del permiso, tomará en cuenta los programas de desarrollo urbano de la localidad; los antecedentes de reubicaciones de terminales que se hubieren realizado como consecuencia de dichos programas; la distancia entre la terminal propuesta y la existente, así como con los núcleos de población; los segmentos de mercado a atender y las facilidades de acceso y medios de transporte para los usuarios.
 
 ###### ARTICULO 11.
 
@@ -365,21 +385,103 @@ El servicio de carga especializada comprende el transporte de materiales, residu
 
 #### SECCION PRIMERA. TERMINALES DE PASAJE
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 42.
 
 Las terminales de autotransporte federal de pasajeros podrán ser construidas, operadas y explotadas por:
 
-I. Los permisionarios del autotransporte de pasajeros para su propio servicio y en su caso, con opción de renta a terceros;
+I. Los permisionarios del autotransporte federal de pasajeros;
 
-II. Particulares para renta a autotransportistas, y
+II. Los particulares, y
 
 III. Los gobiernos estatales y municipales.
 
-La ubicación y superficie del terreno, proyecto arquitectónico e inicio de construcción y de operación será autorizado por la Secretaría.
+Las terminales podrán ser individuales o centrales según sean utilizadas por uno o varios permisionarios del servicio de autotransporte federal de pasajeros que operen en ellas.
 
-###### ARTÍCULO 43.
+Los permisionarios del servicio de autotransporte federal de pasajeros podrán contratar o convenir libremente con cualquiera de los permisionarios de terminales a que se refiere este artículo, el uso de los espacios necesarios para prestar sus servicios.
 
-En las terminales deberán existir servicios sanitarios con instalaciones adecuadas y sin costo alguno para los pasajeros. Complementariamente se podrán proporcionar estos servicios al público en general y sujeto a un precio, en otras instalaciones dentro de las mismas terminales.
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 42A.- El permiso para la construcción, operación y explotación de terminales, además de lo dispuesto por las fracciones I a III, V y VIII a X del artículo 17, deberá contener lo siguiente:
+
+I. La identificación exacta del lugar en que se construirá, operará o explotará la terminal;
+
+II. La delimitación de la superficie, y
+
+III. Las instalaciones, equipo, señalización y servicios mínimos con los que deberá operar la terminal.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 42B.- Las terminales deberán contar como mínimo con las instalaciones y equipo siguientes:
+
+I. Taquillas para la venta de boletos;
+
+II. Servicios sanitarios con instalaciones adecuadas para que los usuarios de la terminal hagan uso de ellas sin costo alguno. Complementariamente, se podrán proporcionar estos servicios sujetos a un precio, en otras instalaciones dentro de la terminal;
+
+III. Equipos y sistemas contra incendios instalados en lugares de fácil acceso;
+
+IV. Equipo de comunicación necesario para el anuncio de llegada y salida de autobuses y localización de personas;
+
+V. Señales necesarias para la fácil localización de los servicios por parte de los usuarios;
+
+VI. Instalaciones y alumbrado adecuados para el trabajo nocturno;
+
+VII. Andenes para llevar a cabo las maniobras de ascenso, descenso y circulación de peatones o pasajeros;
+
+VIII. Cajones de estacionamiento para la salida y llegada de los vehículos de autotransporte federal de pasajeros;
+
+IX. Patio de maniobras destinado, exclusivamente, al manejo de vehículos;
+
+X. Salas de espera acordes con la capacidad y uso de la terminal;
+
+XI. Instalaciones para personas con discapacidad, tales como:
+
+a) Rampas de acceso a los diferentes servicios que preste la terminal;
+
+b) Asientos reservados;
+
+c) Sanitarios especialmente acondicionados, y
+
+d) Casetas telefónicas a la altura adecuada;
+
+XII. Áreas destinadas para salidas y llegadas de pasajeros;
+
+XIII. Área exclusiva para la entrega y recepción de equipaje, y
+
+XIV. Tratándose de terminales centrales, espacios adecuados para que a los conductores se les practiquen exámenes médicos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 42C.- La Secretaría autorizará el inicio de operaciones de la terminal, una vez que el permisionario acredite que la misma cuenta con las instalaciones y equipo descritos en el permiso correspondiente y, en el caso de terminales centrales, haya asignado las áreas para la operación de las empresas de autotransporte federal de pasajeros.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 42D.- Los permisionarios deberán prohibir el acceso a cualquier instalación de la terminal, así como el abordaje a los vehículos de autotransporte federal de pasajeros, a personas que:
+
+I. Se encuentren en estado de ebriedad o bajo la influencia de drogas o enervantes salvo que cuenten, en este último caso, con prescripción medica, y
+
+II. Porten armas sin el permiso respectivo, explosivos, sustancias peligrosas o, en general, cualquier otro elemento que constituya un riesgo para los usuarios.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 42E.- El reglamento interno de operación de la terminal deberá regular como mínimo lo siguiente:
+
+I. Entrega y recepción de equipaje;
+
+II. Uso de andenes y cajones, y
+
+III. Uso del patio de maniobras.
+
+> <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+ARTICULO 42F.- Los permisionarios podrán arrendar las áreas necesarias para la operación y explotación del servicio de autotransporte federal de pasajeros, así como para instalar servicios comerciales en las áreas destinadas para tal efecto en el permiso respectivo.
+
+> <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 1998)</small>
+
+###### ARTICULO 43.
+
+Los permisionarios del autotransporte federal de pasajeros, previo aviso a la Secretaría, podrán establecer estaciones de paso en los lugares que se requieran de acuerdo con las necesidades de los usuarios. Se entenderá por estación de paso, a la ubicada en puntos intermedios de una ruta y que no sea de origen ni de destino de la propia ruta.
 
 #### SECCION SEGUNDA. ARRASTRE, ARRASTRE Y SALVAMENTO Y DEPOSITO DE VEHICULOS
 
@@ -746,3 +848,11 @@ Se abrogan los siguientes reglamentos:
 Las personas físicas o morales que al entrar en vigor este reglamento tengan solicitudes de permisos en trámite se ajustarán a los términos previstos en el presente ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Emilio Gamboa Patrón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE AGOSTO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las solicitudes de permisos que se encuentren en trámite a la entrada en vigor del presente Decreto se ajustarán, en lo que beneficie a los solicitantes, a lo dispuesto en el mismo.
