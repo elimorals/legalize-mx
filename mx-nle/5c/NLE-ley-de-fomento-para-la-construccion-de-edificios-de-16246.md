@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-para-la-construccion-de-edificios-de-16246"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1980-12-31"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO, PARA LA CONSTRUCCION DE EDIFICIOS DE ESTACIONAMIENTO DE VEHICULOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de diciembre de 1980.
 
@@ -57,25 +57,27 @@ Los edificios de estacionamiento considerados por esta Ley como de interés soci
 
 A.- Durante siete años y por una sola vez:
 
-1.- 100% de exención del Impuesto Predial en relación con el terreno y construcción destinados directamente a la prestación del servicio de estacionamiento.
+1.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 2.- 100% de exención del Impuesto sobre Nóminas que corresponda directamente por la explotación del estacionamiento.
 
-3.- 100% de exención de todo tipo de refrendos Municipales, en su caso.
+3.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 B.- Por una sola vez:
 
-1.- 100% de exención de derechos Estatales o Municipales por todas las autorizaciones, permisos o licencias que se requieran para construir y operar el estacionamiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-2.- 100% de exención de Cédulas de Empadronamiento y Patentes Mercantiles Municipales, en su caso.
+1.- 100% de exención de derechos Estatales para todas las autorizaciones, permisos o licencias que requieran para construir y operar el estacionamiento.
 
-3.- 100% de exención del Impuesto Municipal de Traslación de Dominio que cause la adquisición de un inmueble que vaya a destinarse a la construcción de un estacionamiento que reúna los requisitos previstos en esta Ley.
+2.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-Para que opere el supuesto de la presente exención, a más tardar en el término de un año contado a partir de la adquisición del inmueble se debe iniciar la construcción del edificio de estacionamiento, previos los permisos correspondientes; debiendo garantizarse el interés fiscal mediante cualesquiera de las formas que autorice el Código Fiscal del Estado de Nuevo León.
+3.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
 4.- a) 100% de exención en los derechos del Registro Público de la Propiedad y del Comercio sobre la inscripción del título que ampare el inmueble que vaya a destinarse a la construcción de un edificio de estacionamiento.
 
-Para que opere esta exención se observarán en lo conducente las reglas mencionadas en el último párrafo del Punto 3.- que antecede.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Para que opere esta exención, a más tardar en el término de un año contado a partir de la inscripción del título correspondiente en el Registro Público de la Propiedad y del Comercio, se deberá iniciar la construcción del edificio de estacionamiento; debiendo garantizarse el interés fiscal mediante cualesquiera de las formas que autorice el Código Fiscal del Estado.
 
 b) Sobre la inscripción de escrituras constitutivas de empresas, así como sus reformas, cuando el objeto de las mismas sea exclusivamente la explotación de edificios de estacionamiento.
 
@@ -91,13 +93,19 @@ El. plazo de diez años de exención a que se refiere el Artículo 3o. de esta L
 
 Para beneficiar de las exenciones previstas en el Artículo 3o. de esta Ley, deberá mediar gestión escrita del interesado y acreditarse y cumplirse con todos y cada uno de los requisitos exigidos por la presente Ley.
 
-La gestión deberá hacerse ante la Secretaría de Finanzas y Tesorería General del Estado cuando se trate de estímulos estatales, y cuando se trate de estímulos municipales deberá hacerse ante la tesorería Municipal que corresponda. Las mencionadas Autoridades dictarán la resolución que legalmente proceda.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-En el caso de las franquicias previstas en el Artículo 3o. Apartado A, Incisos 1, 2 y 3, la gestión deberá hacerse a más tardar dentro de los treinta días hábiles siguientes a la terminación del edificio de estacionamiento.
+La gestión deberá hacerse ante la Secretaría de Finanzas y Tesorería General del Estado, la que dictará la resolución que legalmente proceda.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+En el caso de la franquicia prevista en el artículo 3o. apartado A, punto 2, la gestión deberá hacerse a más tardar dentro de los 30 días hábiles siguientes a la terminación del edificio de estacionamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 7o.
 
-Las exenciones que esta Ley prevé no son transferibles sin previa autorización de la Secretaría de Finanzas y Tesorería General del Estado o de la Tesorería Municipal correspondiente, según sea el caso.
+Las exenciones que esta Ley prevee no son transferibles sin previa autorización de la Secretaría de Finanzas y Tesorería General del Estado.
 
 ###### ARTICULO 8o.
 
@@ -126,3 +134,11 @@ ALFONSO MARTINEZ DOMINGUEZ.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 GRACIANO BORTONI URTEAGA.
+
+N. DE. E A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+PRIMERO:- El presente Decreto entrará en vigor el 1o. de enero de 1984.
+
+SEGUNDO:- Las franquicias municipales que se hubieren otorgado conforme a la presente Ley, continuarán vigentes hasta agotar su término.
