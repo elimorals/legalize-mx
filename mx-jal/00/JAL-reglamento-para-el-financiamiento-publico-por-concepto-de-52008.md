@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-financiamiento-publico-por-concepto-de-52008
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-21"
-last_updated: "1997-10-21"
+last_updated: "1998-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PÚBLICO POR CONCEPTO DE ACTIVIDADES ESPECÍFICAS QUE REALICEN LOS PARTIDOS POLÍTICOS REGISTRADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO, COMO ENTIDADES DE INTERÉS PÚBLICO Y FORMAS DE ORGANIZACIÓN POLÍTICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 1998.
 
 Reglamento publicado en la Secc. III al No. 13 del Periódico Oficial del Estado de Jalisco, el martes 21 de octubre de 1997.
 
@@ -122,9 +122,15 @@ Si persisten deficiencias en la comprobación de los gastos erogados o en las mu
 
 MINISTRACIÓN DEL FINANCIAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 1998)</small>
+
 ###### Artículo 16.
 
-Las ministraciones mensuales se entregarán dentro de los últimos diez días hábiles de cada mes del mes inmediato posterior al en que se comprueben los gastos erogados.
+En los casos que proceda el reintegro de las cantidades por erogaciones que realicen los Partidos Políticos registrados por concepto de actividades que se señalan en el artículo 2 de este reglamento, la Comisión Revisora del Financiamiento Público formulará dictamen aprobatorio con el voto de la mayoría de sus integrantes, debiendo notificar su contenido al Consejero Representante del Partido Político correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1998)</small>
+
+Una vez hecho lo anterior, se turnará el dictamen al Consejero Presidente para que éste ordene la entrega de las ministraciones mensuales a más tardar el último día hábil del mes inmediato posterior al en que se comprueben los gastos erogados.
 
 ###### Artículo 17.
 
@@ -149,3 +155,9 @@ Los remanentes de financiamiento público por actividades específicas no minist
 ## TRANSITORIOS
 
 Único.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MARZO DE 1998.
+
+> <small>[N. DE E. EL ACUERDO PUBLICADO EN EL PERÍODICO OFICIAL DE FECHA 14 DE MARZO DE 1998, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
