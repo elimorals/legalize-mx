@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1996-12-15"
+last_updated: "1997-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1997.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -603,7 +603,7 @@ ART. 127.- El Oficial del Registro levantará el acta correspondiente, en la que
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
-ART. 128.- Cuando se recobre la capacidad legal para administrar bienes, se revoque la adopción o la Tutela, se presente la persona declarada ausente ó cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda por conducto del mismo interesado para que cancele la Inscripción a que se refiere el Artículo 126.
+ART. 128.- Cuando se recobre la capacidad legal para administrar bienes, se revoque la adopción ó la Tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda por conducto del mismo interesado para que cancele la Inscripción a que se refiere el Artículo 126.
 
 Las Actas a que se refiere el Artículo 127 contendrán el nombre, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la Sentencia, fecha de ésta y Tribunal que la dictó.
 
@@ -733,39 +733,55 @@ ART. 156.- Los efectos jurídicos de los matrimonios celebrados en el extranjero
 
 que nacen del matrimonio.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
 ART. 157.- Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio y a socorrerse mutuamente.
 
-ART. 158.- La mujer debe vivir al lado de su marido. Los tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establece en un lugar insalubre o indecoroso.
+Los cónyuges pueden, después de celebrado el matrimonio y de común acuerdo, planificar el número de hijos que procrearán y la diferencia de edades entre éstos.
 
-ART. 159.- El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del lugar; pero si la mujer tuviere bienes propios o desempeñe algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán por cuenta de la mujer y se cubrirán con bienes de ella.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
-ART. 160.- La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrán derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+ART. 158.- Los cónyuges vivirán juntos en el domicilio conyugal.
 
-ART. 161.- El marido tendrá el derecho que a la mujer le concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
+Se considera domicilio conyugal el lugar establecido de común acuerdo por los cónyuges, en el cual ambos disfrutan de autoridad propia y consideraciones iguales.
 
-ART. 162.- El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales, por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a estos pertenezcan.
+Los tribunales, con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social; o se establezca en lugar insalubre o indecoroso.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
-ART. 163.- Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+ART. 159.- Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior, no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
-ART. 164.- La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
-ART. 165.- El marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar y funde la oposición en causas graves y justificadas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
-ART. 166.- En caso de que la mujer insista en usar de los derechos que le concede el artículo 164, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+ART. 160.- Los cónyuges y los hijos en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
-ART. 167.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto el esposo necesite del consentimiento de la esposa, ni ésta de la autorización de aquel, salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+ART. 161.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 162.- El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales, por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a estos pertenezcan. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente.
+
+ART. 163.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 164.- Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral y las buenas costumbres de la familia.
+
+ART. 165.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
+
+ART. 166.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 167.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél salvo lo relativo a los actos de administración y de dominio de los bienes comunes.
 
 ART. 168.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-ART. 169.- La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+ART. 169.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
 
-ART. 170.- También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
-
-La autorización en los casos a que se refieren los dos artículos anteriores, no se concederá cuanto notoriamente resulten perjudicados los intereses de la mujer.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+ART. 170.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
 
 ART. 171.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
@@ -885,7 +901,7 @@ ART. 207.- En el régimen de separación de bienes los cónyuges conservarán la
 
 ART. 208.- Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
-ART. 209.- Cada uno de los cónyuges debe contribuir a le (sic) educación y alimentación de los hijos y a las demás cargas del matrimonio, de acuerdo con lo dispuesto en el artículo 159.
+ART. 209.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 1997)
 
 ART. 210.- Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administra será considerado como mandatario.
 
@@ -1083,27 +1099,31 @@ XVI.- El mutuo consentimiento.
 
 ART. 263.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez derecho para pedir el divorcio, pero no puede hacerlo sino pasados tres meses de la notificación de la sentencia que haya causado ejecutoria. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
 
-ART. 264.- El adulterio de la mujer es siempre causa de divorcio; el del marido es solamente cuando con él concurre alguna de las circunstancias siguientes:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
-I.- Que el adulterio haya sido cometido en la casa conyugal;
-
-II.- Que haya habido concubinato entre los dos adúlteros, dentro o fuera de la casa conyugal;
-
-III.- Que haya causado escándalo o habido insulto público hecho por el marido a la mujer legítima;
-
-IV.- Que la mujer con quien se cometió el adulterio haya maltratado de palabra o de obra, o que por su cause (sic) se haya maltratado de alguno de esos modos a la mujer legítima.
+ART. 264.- Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción precluye en seis meses, contados desde que se tuvo conocimiento del adulterio.
 
 ART. 265.- Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos y no en simples omisiones.
 
 ART. 266.- Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
 
-ART. 267.- Cuando ambos consortes convengan en divorciarse no podrán verificarlo sino ocurriendo por escrito al juez competente y en los términos que expresan los artículos siguientes: en caso contrario, aunque vivan separados, se tendrán como unidos para todos los efectos legales del matrimonio.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 267.- Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados y mayores de edad y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+
+El Juez del Registro Civil, previa identificación de los consortes, levantará un acta, en que hará constar fehacientemente la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Juez del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal, y entonces aquellos sufrirán las penas que establezca el Código de la materia.
+
+Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles vigente en el Estado.
 
 ART. 268.- El divorcio por mutuo consentimiento no puede pedirse sino pasados dos años de celebración del matrimonio.
 
 ART. 269.- Mientras se decreta el divorcio el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
 
-ART. 270.- Los cónyuges que se encuentran en el caso del artículo 267, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 270.- Los cónyuges que se encuentran en el caso del último párrafo del Artículo 267, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
 I.- Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
@@ -1127,19 +1147,29 @@ ART. 275.- La reconciliación de los cónyuges pone término al juicio de divorc
 
 ART. 276.- El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él, más en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
 
-ART. 277.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y solo mientras dure el juicio, las disposiciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
-I.- Separar a los cónyuges en todo caso;
+ART. 277.- Al admitirse la demanda del divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y solo mientras dure el juicio, las disposiciones siguientes:
 
-II.- Depositar en casa de persona de buenas costumbres a la mujer, si se dice que ésta ha dado causa al divorcio y el marido pidiere el depósito. La casa que para esto se destine será designada por el juez. Si la causa por la que se pide el divorcio no supone culpa en la mujer, ésta no se depositará sino a solicitud suya;
+I.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1997)
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+II.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor, y a los hijos;
 
-IV.- Dictar las medidas convenientes para que el marido no cause perjuicios en sus bienes a la mujer.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+IV. Dictar las medidas que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
 
 V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+Salvo peligro para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
 
 ART. 278.- La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
@@ -1241,7 +1271,9 @@ V.- El Ministerio Público.
 
 ART. 311.- Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
-ART. 312.- El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 312.- El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos o cualesquiera otra forma de garantía suficiente a juicio del Juez.
 
 ART. 312 (SIC).- El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
 
@@ -1277,7 +1309,7 @@ ART. 319.- Se presumen hijos de los cónyuges:
 
 I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrario, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrario (sic), de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
 ART. 320.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
 
@@ -1573,6 +1605,10 @@ II.- Por el abuelo y la abuela paternos;
 
 III.- Por el abuelo y la abuela maternos.
 
+> <small>(ADICIONADO , P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+Los abuelos desempeñarán la patria potestad sin atender a su condición, sino a la forma mas favorable y conveniente para los hijos.
+
 ART. 410.- Cuando los dos progenitores han reconocido al hijo nacido fuera del matrimonio y viven juntos, ejercerán ambos la patria potestad.
 
 Si viven separados, se observará en el caso lo dispuesto en los artículos 375 y 376.
@@ -1603,7 +1639,9 @@ respecto de los bienes del hijo.
 
 ART. 420.- Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
-ART. 421.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+ART. 421.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 ART. 422.- La persona que ejerza la patria potestad representará también a los hijos en juicio, pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte y con la autorización judicial cuando la ley lo requiera expresamente.
 
@@ -1969,7 +2007,9 @@ VI.- Los que tengan sesenta años cumplidos;
 
 VII.- Los que tengan a su cargo otra tutela o curaduría;
 
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inesperiencia (sic) en los negocios, por su timidez o por otra causa igualmente grave a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
+VIII.- Los que por su inexperiencia en los negocios o por causa grave, a juicio de juez, no estén en aptitud de desempeñar convenientemente la tutela.
 
 ART. 507.- Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
 
@@ -4835,7 +4875,7 @@ ART. 1486.- Tienen derecho a heredar por sucesión legítima:
 
 I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
 
-II.- A falta de los anteriores, la Beneficencia (sic) Pública.
+II.- A falta de los anteriores, la Beneficiencia (sic) Pública.
 
 ART. 1487.- El parentesco de afinidad no da derecho de heredar.
 
@@ -5671,7 +5711,7 @@ ART. 1777.- La acción para repetir lo pagado indebidamente prescribe en un año
 
 ART. 1778.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
 
-ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena scostumbres (sic), no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena (sic) costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
 ### CAPITULO IV.
 
@@ -5931,7 +5971,7 @@ ART. 1857.- En el caso del artículo anterior, si la eleccioón (sic) es del deu
 
 ART. 1858.- En los casos de los artículos que preceden, el acreedor está obligado al pago de los daños y perjuicios.
 
-ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acredeor (sic) ésta podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
+ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acredeor ésta (sic) podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
 
 ART. 1860.- Si la cosa se pierde por culpa del deudor y la elección es del acreedor, éste podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
 
@@ -7477,7 +7517,7 @@ II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2361.
 
-ART. 2371.- En los casos del artículo 2326 el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total y aun cuando fuese parcial si la reparación durare más de dos meses.
+ART. 2371.- En los casos del artículo 2326 el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total y aUn cuando fuese parcial si la reparación durare más de dos meses.
 
 ART. 2372.- Si el arrendatario no hiciere uso del derecho que para rescindir el contrato le concede el artículo anterior, hecha la reparación continuará en el uso de la cosa, pagando la misma renta hasta que termine el plazo del arrendamiento.
 
@@ -9420,3 +9460,7 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 15 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
