@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-los-cuerpos-de-seguridad-publica-para-el-7634"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-01-19"
-last_updated: "1996-05-24"
+last_updated: "1997-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LOS CUERPOS DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1997.
 
 Ley publicada en el Periódico Oficial, el miércoles 19 de enero de 1983.
 
@@ -104,6 +104,14 @@ d). Vigilar los sitios públicos en general, con el propósito de impedir que se
 e). Evitar que se celebren manifestaciones o actos semejantes, sea cual fuere su finalidad, si quienes pretenden llevarlos a cabo carecen de la licencia respectiva;
 
 f). Prevenir y evitar la comisión de toda clase de delitos y la violación a las disposiciones vigentes de Policía y Buen Gobierno.
+
+> <small>(ADICIONADO, P.O. 21 ABRIL DE 1997)</small>
+
+###### ARTICULO 7o.
+
+BIS.- Las autoridades de Seguridad Pública del Estado dictará las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Secretario de Contraloría General, Procurador General de Justicia y Director de la Policía Judicial.
+
+Los servidores públicos señalados en el párrafo anterior tendrán derecho a que los Cuerpos de Seguridad Pública del Estado otorguen protección a su integridad física y a la de su familia, durante el ejercicio de su encargo y hasta los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
 
 ###### ARTICULO 8o.
 
@@ -1092,3 +1100,7 @@ P.O. 24 DE MAYO DE 1996.
 ###### ARTICULO TERCERO
 
 - Se deroga el Artículo 69 de la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nuevo León.
+
+P.O. 21 DE ABRIL DE 1997.
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
