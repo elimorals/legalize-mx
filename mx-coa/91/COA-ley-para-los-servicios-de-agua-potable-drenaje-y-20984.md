@@ -4,7 +4,7 @@ identifier: "COA-ley-para-los-servicios-de-agua-potable-drenaje-y-20984"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-09"
-last_updated: "1993-02-09"
+last_updated: "2001-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 9 de febrero de 1993.
 
@@ -41,9 +41,11 @@ LEY PARA LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO EN LOS MUNICIPI
 
 La presente Ley es de interés público y tiene por objeto establecer las bases y regular todos los actos y contratos relacionados con la prestación de los servicios de agua potable, drenaje y alcantarillado en los municipios del Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 2.
 
-La prestación de los servicios de agua potable, drenaje y alcantarillado en el Estado de Coahuila, estará a cargo de los municipios de la entidad, quienes podrán prestarlo en forma individual, coordinada o asociada entre varios de ellos cuando así fuere necesario en los términos de la presente ley.
+La prestación de los servicios de agua potable, drenaje y alcantarillado, tratamiento y disposición de aguas residuales, estarán a cargo de los municipios de la entidad, quienes podrán prestarlo en forma individual, coordinada o asociada entre ellos conforme lo disponga esta ley y demás disposiciones aplicables. Estos servicios públicos municipales también se podrán prestar por medio de organismos descentralizados o entidades paramunicipales constituidos conforme lo dispone el Código Municipal para el Estado de Coahuila de Zaragoza.
 
 La prestación de los servicios mencionados podrá concesionarse por los Ayuntamientos a personas físicas o morales, en los términos previstos por el Código Municipal para el Estado de Coahuila.
 
@@ -55,9 +57,17 @@ En todo caso la prestación de los servicios mencionados se sujetará a lo dispu
 
 Las obras destinadas al abastecimiento de agua a los centros de población, comercios e industrias, incluyendo la captación, potabilización, conducción y distribución, así como las de drenaje, alcantarillado y las necesarias para el tratamiento de aguas residuales en los municipios del Estado, se harán conforme a lo dispuesto por la presente Ley y a lo que, en su caso, señale la Ley de Aguas Nacionales.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 4.
 
-Las atribuciones que en materia de prestación de los servicios de agua potable, drenaje y alcantarillado que se establecen en esta Ley, serán ejercidas por los organismos descentralizados de la Administración Pública Municipal, que se denominarán Sistemas Municipales de Aguas y Saneamiento, en su caso, por los órganos constituidos en virtud de la coordinación de los municipios, o por los particulares que obtengan la concesión del servicio en los términos a que se refiere el Artículo 2° de esta Ley.
+Las atribuciones que en materia de prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, serán ejercidas por:
+
+I.- Los órganos descentralizados de la administración pública municipal, que se denominarán Sistemas de Aguas y Saneamiento;
+
+II.- Las entidades paramunicipales constituidas conforme al Código Municipal para el Estado de Coahuila de Zaragoza; o
+
+III.- Los particulares que obtengan la concesión del servicio en los términos de las disposiciones aplicables.
 
 ###### ARTICULO 5.
 
@@ -932,3 +942,11 @@ LIC. ELISEO FRANCISCO MENDOZA BERRUETO
 EL SECRETARIO DE GOBIERNO
 
 LIC. FELIPE A. GONZALEZ RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE FEBRERO DE 2001.
+
+PRIMERO. El presente decreto ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
