@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1986-03-15"
+last_updated: "1987-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 1987.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -417,7 +417,9 @@ En la concesión de estos préstamos se aplicarán, en lo conducente, las dispos
 
 Los trabajadores al servicio del Estado e Instituciones afiliadas tendrán derecho a jubilarse con el 100% del último sueldo devengado, cuando reúnan los siguientes requisitos:
 
-a).- Haber prestado sus servicios al Estado o Instituciones afiliadas durante 30 años o más;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1987)</small>
+
+a).- Los varones haber prestado sus servicios al Estado o Instituciones afiliadas durante treinta años y mujeres durante veintiocho años o más;
 
 b).- Haber aportado a la Institución durante todos los años de servicio;
 
@@ -636,3 +638,7 @@ LIC. ARMANDO ALMEIDA MARTINEZ.
 P.O. 15 DE MARZO DE 1986.
 
 TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE AGOSTO DE 1987.
+
+TRANSITORIO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
