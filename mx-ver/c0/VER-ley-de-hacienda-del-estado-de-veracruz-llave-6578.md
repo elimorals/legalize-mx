@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1991-12-24"
+last_updated: "1992-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 01 DE FEBRERO DE 1992
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -245,13 +245,29 @@ Son sujetos de este impuesto, quienes efectúen las erogaciones a que se refiere
 
 La base del impuesto, será el importe total del boletaje adquirido o de la cuota pagada o que deba pagarse.
 
-> <small>(REFORMADO PRIMERO PARRAFO, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 21.
 
-Este Impuesto se causará, liquidará y pagará a razón del 3% sobre el monto de la base señalada en el artículo anterior.
+Este impuesto se causará, liquidará y pagará sobre la base que en cada caso se determine, conforme a la siguiente:
 
-En tratándose de peleas de gallos el impuesto se causará, liquidará y pagará a razón del 20% sobre la base señalada en el artículo 20.
+T A R I F A
+
+I.-Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, etc., sobre la entrada bruta, el 3%;
+
+II.-Cinematógrafos sobre la entrada bruta, el 3%;
+
+III.-Circos, sobre la entrada bruta, el 3%
+
+IV.-Espectáculos deportivos, sobre la entrada bruta, el 10%;
+
+V.-Corridas de toros, becerradas novilladas, jaripeos, y otros espectáculos similares, sobre la entrada bruta, el 10%, con excepción de las peleas de gallos, en que la tasa sobre la entrada bruta, será del 20%;
+
+VI.-Representaciones teatrales de comedias, drama, opera, opereta, zarzuela, revista vodevil, variedades, ballet o revista sobre hielo o acuáticas, conciertos y conferencias sobre el precio de cada boleto, ficha o pase de cualquier clase que dé derecho a entrar al espectáculo el 3%;
+
+VII.-Exhibiciones y concursos, sobre el precio de cada boleto, ficha o pase de cualquier clase, que dé derecho a entrar al espectáculo, el 10%; y..
+
+VIII.-Los no comprendidos en las fracciones anteriores sobre el precio del boleto, el 10%.
 
 ###### ARTICULO 22.
 
@@ -2433,7 +2449,7 @@ Residencial 1º y 2°, orden 30
 
 Residencial 3er. Orden (medio) 25
 
-Interés Social 20
+Interés Social 25
 
 Popular 15
 
@@ -2725,7 +2741,7 @@ Industrial 58
 
 Comercial 58
 
-Campestre, Habitacional o Agropecuario 25
+Habitacional o Agropecuario 25
 
 Servicios 52
 
@@ -2809,9 +2825,11 @@ I.- Por copias certificadas de escrituras de protocolo por cada hoja o fracción
 
 0.25 salario mínimo
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
 
-II.- Por los certificados y copias certificadas distintas a las señaladas en los capítulos anteriores a este Título, por cada hoja o fracción. 0.25 salario mínimo
+III.-Por la expedición de certificados de sanidad animal otorgados por la Secretaría de Desarrollo Agropecuario y Pesquero.
+
+Por cada animal 7 salarios mínimos
 
 ###### ARTICULO 55.
 
@@ -3144,6 +3162,16 @@ G.O. 24 DE DICIEMBRE DE 1991.
 ###### ARTICULO PRIMERO.
 
 El presente ordenamiento entrará en vigor el día primero de enero de mil novecientos noventa y dos, previa su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 1° DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
 
 ###### ARTICULO SEGUNDO.
 
