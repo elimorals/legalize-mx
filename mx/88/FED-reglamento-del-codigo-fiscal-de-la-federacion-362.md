@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1993-10-04"
+last_updated: "1997-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 1997.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -129,17 +129,33 @@ Para los efectos del artículo 17-A del Código, el factor de actualización a q
 
 (DEROGADO, D.O.F. 31 DE MARZO DE 1992)
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 8o.
 
-Para los efectos del artículo 20 del Código, el pago de impuestos, así como de otras contribuciones en que el pago se efectúe mediante declaración periódica, incluyendo sus accesorios, sólo podrá hacerse con cheques personales del contribuyente sin certificar, cuando sean expedidos por el mismo. Los notarios públicos que conforme a las disposiciones fiscales se encuentran obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques sin certificar de las cuentas personales de los contribuyentes, siempre que cumplan con los demás requisitos a que se refiere este artículo.
+Para los efectos del artículo 20 del Código, el pago de impuestos, así como de otras contribuciones en que el pago se efectúe mediante declaración periódica, incluyendo sus accesorios, sólo podrá hacerse con cheques personales del contribuyente sin certificar, cuando sean expedidos por el mismo. Los notarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques sin certificar de las cuentas personales de los contribuyentes, siempre que cumplan con los demás requisitos a que se refiere este artículo.
 
-El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Tesorería de la Federación; tratándose de contribuciones que administren las entidades federativas a favor de su Tesorería u órgano equivalente y, en el caso de aportaciones de seguridad social recaudadas por un organismo descentralizado, a favor del propio organismo, anotando en el cheque el registro del contribuyentes en dicho organismo. El cheque deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la autoridad recaudadora de que se trate. La Secretaría mediante disposiciones de carácter general, podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquélla en donde esté establecida la autoridad recaudadora.
+El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Tesorería de la Federación; tratándose de contribuciones que administren las entidades federativas, a favor de su Tesorería u órgano equivalente y, en el caso de aportaciones de seguridad social recaudadas por un organismo descentralizado, a favor del propio organismo. El cheque deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la autoridad recaudadora de que se trate. La Secretaría mediante disposiciones de carácter general, podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquella en donde esté establecida la autoridad recaudadora.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+Cuando las contribuciones se paguen con cheque, éste deberá contener las inscripciones siguientes:
 
-Cuando las contribuciones se paguen con cheque, éste deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable y su importe deberá abonarse exclusivamente en la cuenta bancaria de la Tesorería de la Federación o, en su caso, de la Tesorería local o del organismo descentralizado correspondiente.|
+I.- En el anverso, según sea el caso:
 
-> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+a).- "Para abono en cuenta bancaria de la Tesorería de la Federación";
+
+b).- Tratándose de contribuciones que administren las entidades federativas: "Para abono en cuenta bancaria de (nombre de la tesorería u órgano equivalente)", y
+
+c).- Tratándose de aportaciones de seguridad social recaudadas por un organismo descentralizado: "Para abono en cuenta bancaria del (nombre del organismo)". En este caso se deberá anotar, además, el número del registro del contribuyente en el organismo de que se trate.
+
+II.- En el reverso, según sea el caso:
+
+a).- "Cheque librado para el pago de contribuciones federales a cargo del contribuyente (nombre del contribuyente) con Registro Federal de Contribuyentes (clave del registro federal de contribuyentes). Para abono en cuenta bancaria de la Tesorería de la Federación";
+
+b).- Tratándose de contribuciones que administren las entidades federativas: "Cheque librado para el pago de contribuciones federales a cargo del contribuyente (nombre del contribuyente) con Registro Federal de Contribuyentes (clave del registro federal de contribuyentes). Para abono en cuenta bancaria de (nombre de la tesorería u órgano equivalente)", y
+
+c).- Tratándose de aportaciones de seguridad social recaudadas por un organismo descentralizado: "Cheque librado para el pago de contribuciones federales a cargo del contribuyente (nombre del contribuyente) con Registro Federal de Contribuyentes (clave del registro federal de contribuyentes). Para abono en cuenta bancaria del (nombre del organismo)".
+
+Los cheques a que se refiere este artículo no serán negociables y su importe deberá abonarse exclusivamente en la cuenta bancaria de la Tesorería de la Federación, de la tesorería local u órgano equivalente o del organismo descentralizado correspondiente, según sea el caso.
 
 Podrá hacerse el pago de créditos fiscales con cheques personales del contribuyente que cumplan con los requisitos que este artículo señala, por conducto de los notificadores ejecutores en el momento de realizarse cualquier diligencia del procedimiento administrativo de ejecución. En el acta respectiva se harán constar los datos de identificación y valor del cheque y el número del recibo oficial que se expida.
 
@@ -1744,3 +1760,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La opción establecida en el ARTICULO PRIMERO de este Decreto se podrá ejercer a más tardar el 31 de diciembre de 1994, salvo en los casos a que se refiere el artículo siguiente.
 
 TERCERO.- Los contribuyentes que hayan venido cubriendo sus adeudos fiscales en parcialidades conforme a lo dispuesto por el artículo 66 del Código Fiscal de la Federación con anterioridad a la entrada en vigor del presente Decreto, inclusive cuando hayan incumplido con el pago de tres o más parcialidades, podrán por una sola vez, efectuar el pago del saldo insoluto de su adeudo fiscal hasta en treinta y seis nuevas parcialidades mensuales y sucesivas, de acuerdo con lo dispuesto en el ARTICULO PRIMERO de este Decreto, siempre que presenten aviso ante la Administración de Recaudación que corresponda a más tardar el 30 de noviembre de 1993 y cumplan con los demás requisitos que establece el artículo citado.
+
+D.O.F. 2 DE JUNIO DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
