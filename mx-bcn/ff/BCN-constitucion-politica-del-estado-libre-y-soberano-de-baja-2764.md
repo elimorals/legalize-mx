@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1979-11-20"
+last_updated: "1979-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 1979 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 1979.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE DICIEMBRE DE 1979.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
 
@@ -197,13 +197,11 @@ VII.- Los ministros de cualquier culto.
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE DICIEMBRE DE 1979 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1979) (F. DE E., P.O. 10 DE DICIEMBRE DE 1979)
 
 ###### ARTICULO 20.
 
-El Congreso calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con los cuatro presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Local Electoral, hubiesen obtenido mayor número de votos, y, en su caso, por un presunto diputado de minoría que hubiese obtenido mayor número de votos, de acuerdo con la constancia que expida la Comisión Estatal Electoral.
+El Congreso calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con los cuatro presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral, hubiesen obtenido mayor número de votos, y, en su caso, por un presunto diputado de minoría que hubiese obtenido mayor número de votos, de acuerdo con la constancia que expida la Comisión Estatal Electoral.
 
 ###### ARTICULO 21.
 
