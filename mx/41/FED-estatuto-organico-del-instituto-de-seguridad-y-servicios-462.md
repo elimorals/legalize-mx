@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1993-03-12"
+last_updated: "1993-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 1993.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -676,7 +676,9 @@ VIII.- Las demás que señalen otras disposiciones aplicables.
 
 La Subdirección General de Prestaciones Económicas tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar, controlar y evaluar el sistema integral de retiro; las actividades en materia de seguridad, higiene y medicina del trabajo; el otorgamiento y recuperación de créditos a corto y mediano plazo; la afiliación y vigencia de derechos, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil.
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 1993)</small>
+
+I.- Planear, organizar, normar, coordinar, controlar y evaluar el sistema integral de retiro; las actividades en materia de seguridad, higiene y medicina del trabajo; el otorgamiento y recuperación de créditos a corto y mediano plazo; y, la afiliación y vigencia de derechos;
 
 II.- Conceder, negar, suspender, modificar o revocar las jubilaciones y pensiones en los términos de la Ley y resolver las inconformidades que se presenten en relación con las mismas;
 
@@ -714,7 +716,7 @@ XVIII.- Establecer y operar un mecanismo de afiliación de las dependencias, ent
 
 XIX.- Establecer y operar el mecanismo de vigencia de derechos para los asegurados y sus familiares beneficiarios, demandantes de los seguros, servicios y prestaciones;
 
-XX.- Organizar, normar, operar y supervisar los servicios de seguridad y vigilancia de la Institución;
+XX.- (DEROGADA, D.O.F. 31 DE MAYO DE 1993)
 
 XXI.- Las demás que señalen otras disposiciones aplicables.
 
@@ -810,7 +812,9 @@ XX.- Las demás que señalen otras disposiciones aplicables.
 
 La Subdirección General de Administración tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar las funciones de administración de recursos humanos, informática, capacitación, servicios generales, sistemas y organización, y vigilar la observancia de las normas técnicas aplicables en cada caso;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 1993)</small>
+
+I.- Planear, organizar, normar, coordinar y controlar las funciones de administración de recursos humanos, informática, capacitación, servicios generales, sistemas y organización, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil, y vigilar la observancia de las normas técnicas aplicables en cada caso;
 
 II.- Promover, coordinar y vigilar las acciones de mejoramiento, modernización y simplificación administrativa;
 
@@ -1101,3 +1105,9 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 12 DE MARZO DE 1993.
 
 UNICO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 31 DE MAYO DE 1993.
+
+PRIMERO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
