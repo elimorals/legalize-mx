@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1932-10-05"
+last_updated: "1934-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE OCTUBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE ABRIL DE 1934.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -491,7 +491,9 @@ IX. Para determinar el número máximo de ministros de cultos religiosos que pue
 
 X. Para reglamentar el funcionamiento, del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
 
-XI. Para arreglar definitivamente los límites de los Municipios, a no ser que las circunstancias pendientes tengan un carácter contencioso.
+> <small>(REFORMADA, B.O. 28 DE ABRIL DE 1934)</small>
+
+XI. Para arreglar definitivamente los límites de los Municipios y señalar la jurisdicción de las Comisarías.
 
 XII. Para erigir nuevos Municipios dentro de los límites de los existentes, siendo necesario, al efecto:
 
@@ -1501,7 +1503,7 @@ Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los 
 
 B.O. 11 DE DICIEMBRE DE 1926.
 
-Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 del 11 de diciembre de 1923.
+Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 de 11 de diciembre de 1923.
 
 Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
@@ -1528,6 +1530,10 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 5 DE OCTUBRE DE 1932.
 
 UNICO.- Las reformas a los artículos 132, 134 y 134 Bis de la expresada Constitución entrará en vigor al verificarse las elecciones de Ayuntamiento para el próximo período constitucional.
+
+B.O. 28 DE ABRIL DE 1934.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
