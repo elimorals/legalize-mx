@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1932-09-28"
+last_updated: "1932-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE SEPTIEMBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE OCTUBRE DE 1932.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -273,9 +273,11 @@ El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de 
 
 Elección de Diputados.
 
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 30.
 
-Los Diputados del Congreso del Estado serán electos en su totalidad cada dos años.
+Los Diputados al Congreso del Estado serán electos en su totalidad cada dos años, y los Ciudadanos que lo hubieren sido no podrán en el resto de su vida volver a desempeñar este cargo.
 
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -297,7 +299,9 @@ II. Tener veinticinco años cumplidos al día de la elección.
 
 III. Haber residido en el Estado de Sonora el año anterior al día de la elección para los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección a los no nacidos en él.
 
-IV. No haber sido Diputado en el período inmediato anterior.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 1932)</small>
+
+IV. No haber sido Diputado Propietario, o Suplente en ejercicio, por más de seis meses, anteriormente.
 
 V. No haber desempeñado alguno de los cargos de Gobernador, Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, dentro del año anterior al día de la elección.
 
@@ -661,17 +665,21 @@ VI. No haber figurado directa o indirectamente en alguna asonada, motín o cuart
 
 VII. No haber sido condenado en juicio legal por algún delito infamante.
 
-VIII. No haber desempeñado alguno de los cargos de Gobernador, Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado dentro del año anterior al día de la elección.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 1932)</small>
+
+VIII. No haber desempeñado alguno de los cargos de Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, dentro del año anterior al día de la elección.
 
 ###### Artículo 71.
 
 Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 72.
 
-El Gobernador entrará a ejercer su encargo el día primero de Septiembre, durando en él cuatro años y no podrá ser reelecto para el período inmediato.
+El ciudadano designado en elección popular para ocupar el puesto de Gobernador del Estado entrará a ejercer su encargo el primero de septiembre, durando en él cuatro años, y no podrá en el resto de su vida volver a ser electo para el mismo puesto ni desempeñarlo provisional o interinamente.
 
-Si el voto popular lo llevare a desempeñar el cargo durante dos períodos, no podrá ser nombrado ya para un tercero.
+Tampoco podrá en el resto de su vida ser electo ni desempeñar provisional o interinamente el puesto del Gobernador del Estado el ciudadano que resulte designado en elección extraordinaria a que convoque el Congreso para suplir la falta absoluta de Gobernador que ocurra conforme a lo prevenido en el artículo 73 o párrafo primero del Artículo 74 de esta Constitución.
 
 ###### Artículo 73.
 
@@ -933,7 +941,9 @@ El Procurador General de Justicia será electo por el Congreso a propuesta en te
 
 Para ser Procurador General de Justicia se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 1932)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y Abogado con título legalmente expedido.
 
 II. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
 
@@ -961,9 +971,11 @@ Al Ejecutivo del Estado corresponderá vigilar al Procurador e imponerle las cor
 
 Los Agentes del Ministerio Público serán nombrados por el Ejecutivo, a propuesta en terna del Procurador de Justicia.
 
-###### Artículo 105.
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
-Para ser Agente del Ministerio Público se requieren los mismos requisitos que para ser Procurador General de Justicia.
+###### Articulo 105.
+
+Para ser Agente del Ministerio Público se requieren los mismos requisitos que para ser Procurador General de Justicia, con excepción del título profesional de Abogado.
 
 ###### Artículo 106.
 
@@ -1011,11 +1023,23 @@ El Poder Judicial se deposita, para su ejercicio, en un Supremo Tribunal de Just
 
 El Supremo Tribunal de Justicia del Estado, se compondrá de tres Magistrados Propietarios y seis Suplentes, electos cada cuatro años por el Congreso del Estado, pudiendo ser reelectos. Habrá también Magistrados insaculados, cuyo nombramiento se hará en la forma que indique la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 114.
 
-Para ser Magistrado se requiere: Ser ciudadano mexicano en pleno ejercicio de sus derechos, tener cuando menos veinticinco años cumplidos al tiempo de la elección, no haber sido condenado en proceso legal por ningún delito y ser de reconocida moralidad.
+Para ser Magistrado se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+
+II. Tener cuando menos 25 años cumplidos al tiempo de la elección.
+
+III. No haber sido condenado en proceso legal por ningún delito.
+
+IV. Ser de reconocida moralidad.
+
+V. Tener, oficialmente expedido título de Abogado.
+
+El requisito señalado en esta última fracción no será exigible para los magistrados suplentes o insaculados.
 
 ###### Artículo 115.
 
@@ -1147,11 +1171,13 @@ Los Municipios tendrán personalidad jurídica para todos los efectos legales.
 
 Los miembros de los Ayuntamientos durarán, en su cargo dos años y comenzarán a funcionar el 16 de septiembre.
 
-###### Artículo 132.
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
-Para ser miembro de un Ayuntamiento ser requiere:
+###### Articulo 132.
 
-I. Ser Ciudadano Sonorense en pleno ejercicio de sus derechos políticos.
+Para ser Concejal de un Ayuntamiento, se requiere:
+
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
 
 II. Ser vecino del Municipio que lo nombre.
 
@@ -1159,19 +1185,29 @@ II. Ser vecino del Municipio que lo nombre.
 
 El cargo de Concejal de un Ayuntamiento será obligatorio pero no gratuito. Sólo será renunciable por causa justificada que calificará el mismo Ayuntamiento, quien deberá admitir o no dicha renuncia. Los Concejales no podrán ser reelectos en el período siguiente.
 
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
-###### Artículo 134.
+###### Articulo 134.
 
-De entre los Concejales de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal". Será designado por elección popular directa, durará en su encargo un año y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
+De entre los miembros de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal." Será designado por elección popular directa, durará en su encargo dos años y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
 
-> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, B.O. 5 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 134 Bis.
 
-Para los efectos del artículo anterior, será Presidente Municipal, por el primer año de actuación del Ayuntamiento, el ciudadano nombrado Primer Regidor, y durante el segundo año, la persona designada con el carácter de Segundo Regidor Propietario. En caso de falta temporal o absoluta del primero o segundo concejales entrará a fungir el Regidor Propietario que les siga en número por su designación.
+En caso de falta temporal o absoluta del Presidente Municipal, entrará a fungir el Primer Regidor Propietario, y en defecto de éste, el Concejal que lo siga en número por su designación.
 
-La Ley Orgánica Electoral del Estado reglamentará todo lo concerniente a ésta designación.
+La Ley Orgánica Electoral del Estado reglamentará todo lo concerniente a esta disposición.
+
+> <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+
+Artículo 134 A. Para ser Presidente Municipal, se requiere:
+
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+
+II. Ser vecino del Municipio que lo nombre.
+
+III. No haber sido Presidente Municipal electo por el pueblo anteriormente, o haber desempeñado las funciones interinamente por un período de un año o más.
 
 ###### Artículo 135.
 
@@ -1371,6 +1407,12 @@ Ningún funcionario o empleado del Estado o del Municipio podrá ser apoderado e
 
 Los funcionarios y empleados del Estado y Municipales de las poblaciones fronterizas tienen la obligación de residir en territorio nacional. La no observancia de esta disposición significa para el contraventor la pérdida de su cargo o empleo.
 
+> <small>(ADICIONADO, B.O. 5 DE OCTUBRE DE 1932)</small>
+
+###### Artículo 162 Bis.
+
+La inhabilitación a que se refiere los artículos 30, fracción IV del 33, 72 y 134 A, de esta Constitución, es para las personas que hayan desempeñado los cargos de Gobernador, Diputado y Presidente Municipal en administraciones anteriores, para las que desempeñen los mismos cargos actualmente y para los que desempeñaren en lo sucesivo.
+
 ## TITULO OCTAVO.
 
 Reforma e inviolabilidad de esta Constitución.
@@ -1459,7 +1501,7 @@ Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los 
 
 B.O. 11 DE DICIEMBRE DE 1926.
 
-Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 de 11 de diciembre de 1923.
+Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 del 11 de diciembre de 1923.
 
 Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
@@ -1482,6 +1524,10 @@ Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 28 DE SEPTIEMBRE DE 1932.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE OCTUBRE DE 1932.
+
+UNICO.- Las reformas a los artículos 132, 134 y 134 Bis de la expresada Constitución entrará en vigor al verificarse las elecciones de Ayuntamiento para el próximo período constitucional.
 
 ###### ARTÍCULO ÚNICO.
 
