@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-hospital-civil-de-203
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "1997-04-10"
+last_updated: "2001-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -41,7 +41,9 @@ LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "HOSPITAL CIVIL DE GUADALAJARA"
 
 El Hospital Civil de Guadalajara es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propios, el cual tendrá por objeto prestar servicios de salud a la población en los términos que se establecen en el presente ordenamiento, en las Leyes General y Estatal de Salud, y se sujetará a lo establecido en el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud, entre los Ejecutivos Federal y el de esta Entidad Federativa. Así también, fungirá como hospital-escuela de la Universidad de Guadalajara para las funciones de docencia, investigación y extensión en el área de salud, cuyos programas académicos se desarrollarán de conformidad con la normatividad de esta Casa de Estudios.
 
-El organismo se conformará con dos unidades hospitalarias: el Antiguo Hospital Civil de Guadalajara y el Nuevo Hospital Civil de Guadalajara.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2001)</small>
+
+El organismo se conformará con dos unidades hospitalarias; el Antiguo Hospital Civil de Guadalajara "Fray Antonio Alcalde" y el Nuevo Hospital Civil de Guadalajara.
 
 ###### Artículo 2.
 
@@ -328,3 +330,11 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 2001.
+
+PRIMERO.- El artículo cuarto del presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Publíquese el presente Decreto incorporando la exposición de motivos de la iniciativa de origen.
