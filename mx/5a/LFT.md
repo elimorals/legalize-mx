@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1974-12-31"
+last_updated: "1975-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1975.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1248,9 +1248,9 @@ Cuando las empresas proporcionen a sus trabajadores casa en comodato o arrendami
 
 Cuando las habitaciones se den en arrendamiento a los trabajadores, la renta no podrá exceder del medio por ciento mensual del valor catastral de la finca y se observarán las normas siguientes:
 
-I.- Las empresas están obligadas a mantenerlas en condiciones de habitabilidad y a hacer oportunamente las reparaciones necesarias y convenientes:
+I. Las empresas están obligadas a mantenerlas en condiciones de habitabilidad y a hacer oportunamente las reparaciones necesarias y convenientes:
 
-II.- Los trabajadores tienen las obligaciones siguientes:
+II. Los trabajadores tienen las obligaciones siguientes:
 
 a). Pagar las rentas.
 
@@ -1260,7 +1260,7 @@ c). Poner en conocimiento de la empresa los defectos o deterioros que observen.
 
 d). Desocupar las habitaciones a la terminación de las relaciones de trabajo dentro de un término de cuarenta y cinco días y
 
-III.- Está prohibido a los trabajadores:
+III. Está prohibido a los trabajadores:
 
 a). Usar la habitación para fines distintos de los señalados en este capítulo.
 
@@ -1348,7 +1348,7 @@ V. En caso de muerte del trabajador, cualquiera que sea su antigüedad, la prima
 
 VI. La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.
 
-### CAPITULO I
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 163.
 
@@ -1367,8 +1367,6 @@ III. En cualquier otro caso, la propiedad de la invención corresponderá a la p
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ## TITULO QUINTO. Trabajo de las Mujeres
-
-> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 164.
 
@@ -1428,7 +1426,7 @@ Los servicios de guardería infantil se prestarán por el Instituto Mexicano del
 
 En los establecimientos en que trabajen mujeres, el patrón debe mantener un número suficiente de asientos o sillas a disposición de las madres trabajadoras.
 
-> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ## TITULO QUINTO BIS. Trabajo de los Menores
 
@@ -1498,15 +1496,13 @@ IV. Proporcionar a la Inspección del Trabajo los informes que les solicite.
 
 ## TITULO SEXTO. Trabajos especiales
 
-### CAPITULO II
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+### CAPITULO II. Trabajadores de confianza
 
 ###### Artículo 181.
 
 Los trabajos especiales se rigen por las normas de este Título y por las generales de esta Ley en cuanto no las contraríen.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO III. Trabajadores de los buques
 
 ###### Artículo 182.
 
@@ -1530,7 +1526,7 @@ El trabajador de confianza podrá ejercitar las acciones a que se refiere el cap
 
 En el caso a que se refiere el artículo anterior, si el trabajador de confianza hubiese sido promovido en un puesto de planta, volverá a él, salvo que exista causa justificada para su separación.
 
-### CAPITULO II. Trabajadores de confianza
+### CAPITULO IV. Trabajo de las Tripulaciones Aeronáuticas
 
 ###### Artículo 187.
 
@@ -1740,7 +1736,7 @@ IV. El descanso semanal será forzosamente en tierra.
 
 El Ejecutivo Federal determinará la forma de sostener y mejorar los servicios de la "Casa del Marino" y fijará las aportaciones de los patrones.
 
-### CAPITULO III. Trabajadores de los buques
+### CAPITULO V. Trabajo Ferrocarrilero
 
 ###### Artículo 215.
 
@@ -1952,7 +1948,7 @@ VIII. El incumplimiento de las obligaciones señaladas en el artículo 237 y la 
 
 La Junta Federal de Conciliación y Arbitraje, previamente a la aprobación del reglamento interior de trabajo, recabará la opinión de la Secretaría de Comunicaciones y Transportes a fin de que en el mismo se observen las disposiciones de la Ley de Vías Generales de Comunicaciones y sus reglamentos.
 
-### CAPITULO IV. Trabajo de las Tripulaciones Aeronáuticas
+### CAPITULO VI. Trabajo de Autotransportes
 
 ###### Artículo 246.
 
@@ -2006,7 +2002,7 @@ I. La recepción de carga o pasaje fuera de los lugares señalados por la empres
 
 II. La negativa a efectuar el viaje contratado o su interrupción, sin causa justificada.
 
-### CAPITULO V. Trabajo Ferrocarrilero
+### CAPITULO VII. Trabajo de maniobras de Servicio Público en zonas bajo Jurisdicción Federal
 
 ###### Artículo 256.
 
@@ -2082,7 +2078,7 @@ I. La negativa a efectuar el viaje contratado o su interrupción sin causa justi
 
 II. La disminución importante y reiterada del volumen de ingresos, salvo que concurran circunstancias justificadas.
 
-### CAPITULO VI. Trabajo de Autotransportes
+### CAPITULO VIII. Trabajadores del Campo
 
 ###### Artículo 265.
 
@@ -2164,7 +2160,7 @@ En los contratos colectivos podrá estipularse la constitución de un fondo afec
 
 Alcanzado el monto del fondo, no se harán nuevas aportaciones, salvo para reponer las cantidades que se paguen.
 
-### CAPITULO VII. Trabajo de maniobras de Servicio Público en zonas bajo Jurisdicción Federal
+### CAPITULO IX. Agentes de Comercio y otros Semejantes
 
 ###### Artículo 279.
 
@@ -2226,7 +2222,7 @@ II. Impedir la entrada a los vendedores de mercancías o cobrarles alguna cuota;
 
 III. Impedir a los trabajadores que críen animales de corral dentro del predio contiguo a la habitación que se hubiese señalado a cada uno.
 
-### CAPITULO VIII. Trabajadores del Campo
+### CAPITULO X. Deportistas profesionales
 
 ###### Artículo 285.
 
@@ -2260,9 +2256,9 @@ Los trabajadores no podrán ser removidos de la zona o ruta que se les haya asig
 
 Es causa especial de rescisión de las relaciones de trabajo la disminución importante y reiterada del volumen de las operaciones, salvo que concurran circunstancias justificativas.
 
-### CAPITULO IX. Agentes de Comercio y otros Semejantes
+### CAPITULO XI. Trabajadores Actores y Músicos
 
-### CAPITULO X. Deportistas profesionales
+### CAPITULO XII. Trabajo a domicilio
 
 ###### Artículo 292.
 
@@ -2338,7 +2334,7 @@ I. La indisciplina grave o las faltas repetidas de indisciplina; y
 
 II. La pérdida de facultades.
 
-### CAPITULO XI. Trabajadores Actores y Músicos
+### CAPITULO XIII. Trabajadores Domésticos
 
 ###### Artículo 304.
 
@@ -2374,7 +2370,7 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XII. Trabajo a domicilio
+### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
 
 ###### Artículo 311.
 
@@ -2526,9 +2522,9 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 
 VII. Informar a las Comisiones del Salario Mínimo las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
-### CAPITULO XIII. Trabajadores Domésticos
+### CAPITULO XV. Industria Familiar
 
-### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
+### CAPITULO I. Coaliciones
 
 ###### Artículo 331.
 
@@ -2604,9 +2600,9 @@ El trabajador doméstico podrá dar por terminada en cualquier tiempo la relaci�
 
 El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
 
-### CAPITULO XV. Industria Familiar
+### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
-### CAPITULO I. Coaliciones
+### CAPITULO III. Contrato Colectivo de Trabajo
 
 ###### Artículo 344.
 
@@ -2644,7 +2640,7 @@ II. Verificar que las propinas correspondan en su totalidad a los trabajadores; 
 
 III. Vigilar que se respeten las normas sobre jornada de trabajo.
 
-### CAPITULO II. Sindicatos, Federaciones y Confederaciones
+### CAPITULO IV. Contrato-Ley
 
 ###### Artículo 351.
 
@@ -2658,13 +2654,13 @@ No se aplican a los talleres familiares las disposiciones de esta Ley, con excep
 
 La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refiere el artículo anterior.
 
-### CAPITULO III. Contrato Colectivo de Trabajo
+### CAPITULO V. Reglamento Interior de Trabajo
 
-### CAPITULO IV. Contrato-Ley
+### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
 
 ## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
-### CAPITULO V. Reglamento Interior de Trabajo
+### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 354.
 
@@ -2674,7 +2670,7 @@ La Ley reconoce la libertad de coalición de trabajadores y patrones.
 
 Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para la defensa de sus intereses comunes.
 
-### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 356.
 
@@ -2932,7 +2928,9 @@ IV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva
 
 La documentación se autorizará de conformidad con lo dispuesto en el párrafo final del artículo 365.
 
-### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
+### CAPITULO I
+
+Disposiciones Generales.
 
 ###### Artículo 386.
 
@@ -3058,7 +3056,7 @@ Si firmado un contrato colectivo, un patrón se separa del sindicato que lo cele
 
 En los casos de disolución del sindicato de trabajadores titular del contrato colectivo o de terminación de éste, las condiciones de trabajo continuarán vigentes en la empresa o establecimiento.
 
-### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
+### CAPITULO II. Objetivos y Procedimientos de Huelga
 
 ###### Artículo 404.
 
@@ -3180,9 +3178,7 @@ I. Por mutuo consentimiento de las partes que representen la mayoría a que se r
 
 II. Si al concluir el procedimiento de revisión, los sindicatos de trabajadores y los patrones no llegan a un convenio, salvo que aquéllos ejerciten el derecho de huelga.
 
-### CAPITULO I
-
-Disposiciones Generales.
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 422.
 
@@ -3234,7 +3230,7 @@ IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la 
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
 
-### CAPITULO II. Objetivos y Procedimientos de Huelga
+### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
 
 ###### Artículo 426.
 
@@ -3246,7 +3242,7 @@ II. Cuando el aumento del costo de la vida origine un desequilibrio entre el cap
 
 La solicitud se ajustará a lo dispuesto en los artículos 398 y 419, fracción I, y se tramitará de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
 ###### Artículo 427.
 
@@ -3292,7 +3288,7 @@ El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los
 
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
 
-### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+### CAPITULO IV. Servicio Público del Empleo
 
 ###### Artículo 433.
 
@@ -3342,7 +3338,7 @@ Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo
 
 ## TITULO OCTAVO. Huelgas
 
-### CAPITULO III. Procuraduría de la Defensa del Trabajo
+### CAPITULO V. Inspección del Trabajo
 
 ###### Artículo 440.
 
@@ -3390,7 +3386,7 @@ No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por 
 
 La Junta de Conciliación y Arbitraje y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
-### CAPITULO IV. Servicio Público del Empleo
+### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
 ###### Artículo 450.
 
@@ -3984,7 +3980,7 @@ TITULO ONCE
 
 Autoridades del Trabajo y Servicios Sociales
 
-### CAPITULO V. Inspección del Trabajo
+### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
 
 ###### Artículo 523.
 
@@ -4026,7 +4022,9 @@ La Secretaría del Trabajo y Previsión Social organizará un Instituto del Trab
 
 Compete a la Secretaría de Hacienda y Crédito Público la intervención que le señala el Título Tercero, capítulo VIII, y a la Secretaría de Educación Pública vigilar el cumplimiento de las obligaciones que impone a los patrones esta Ley en materia educativa.
 
-### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
+### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 527.
 
@@ -4050,17 +4048,53 @@ VIII. La industria azucarera;
 
 IX. La industria del cemento;
 
-X. La industria ferrocarrilera;
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
 
-XI. Empresas que sean administradas en forma directa o descentralizada por el Gobierno federal;
+X.- La Industria de Fabricación y Ensamble de Vehículos Automotrices;
 
-XII. Empresas que actúen en virtud de un contrato o concesión federal y las que les sean conexas;
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
 
-XIII. Empresas que ejecuten trabajos en zonas federales y aguas territoriales;
+XI.- La Industria de productos Químicos-Farmacéuticos y Medicamentos;
 
-XIV. Conflictos que afecten a dos o más Entidades Federativas; y
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
 
-XV. Contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa.
+XII.- La Industria de Celulosa y Papel;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XIII.- La Industria de Aceites y Grasas Vegetales;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XIV.- La Industria Empacadora y Enlatadora de Alimentos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XV.- La Industria Embotelladora de Refrescos: Aguas Naturales y Aguas Gaseosas;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XVI.- La Industria Ferrocarrilera;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XVII.- Empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XVIII.- Empresas que actúen en virtud de un contrato o concesión federal y las que les sean conexas;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XIX.- Empresas que ejecuten trabajos en Zonas Federales y Aguas Territoriales;
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XX.- Conflictos que afecten a dos o más Entidades Federativas; y
+
+> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1975)</small>
+
+XXI.- Contratos Colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa;
 
 ###### Artículo 528.
 
@@ -4070,7 +4104,7 @@ Son empresas conexas las relacionadas permanente y directamente para la elaborac
 
 La aplicación de las normas de trabajo corresponde a las Autoridades de las Entidades Federativas en los casos no previstos en los dos artículos anteriores.
 
-### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
+### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 530.
 
@@ -4118,9 +4152,7 @@ Las Autoridades están obligadas a proporcionar a la Procuraduría de la Defensa
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Procuraduría de la Defensa del Trabajo.
 
-### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
-
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+### CAPITULO X. Juntas Federales de Conciliación
 
 ###### Artículo 537.
 
@@ -4148,7 +4180,9 @@ Para el cumplimiento de sus funciones, el Servicio Público del Empleo se establ
 
 El Servicio Público del Empleo y los sistemas privados se regirán por los reglamentos que se expidan. En los mismos reglamentos se determinarán las excepciones a que se refiere el párrafo segundo del artículo 537.
 
-### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO XI. Juntas Locales de Conciliación
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 540.
 
@@ -4276,7 +4310,7 @@ III. Cuando a juicio del Director General la sanción aplicable sea la destituci
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO X. Juntas Federales de Conciliación
+### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
 
 ###### Artículo 551.
 
@@ -4450,9 +4484,7 @@ III. Actuar como Secretario del Consejo de Representantes; y
 
 IV. Los demás que le confieran las leyes.
 
-### CAPITULO XI. Juntas Locales de Conciliación
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
 
 ###### Artículo 564.
 
@@ -4496,7 +4528,7 @@ V. Informar a la Comisión Nacional, cada quince días, del desarrollo de sus tr
 
 VI. Los demás que les confieran las leyes.
 
-### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
+### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
 
 ###### Artículo 570.
 
@@ -4560,7 +4592,7 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
 
 ###### Artículo 575.
 
@@ -4716,11 +4748,11 @@ Los sindicatos, federaciones y confederaciones de trabajadores o los patrones, n
 
 En los procedimientos a que se refiere este capítulo se observarán las normas contenidas en el artículo 574.
 
-### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
-
-### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
-
 ### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+
+### CAPITULO I. Disposiciones Generales
+
+### CAPITULO II. Normas de Competencia
 
 ###### Artículo 591.
 
@@ -4814,7 +4846,7 @@ VI.- Denunciar ante el Ministerio Público al patrón de una negociación indust
 
 VII. Las demás que les confieren las leyes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. Recusaciones y Excusas
 
 ###### Artículo 601.
 
@@ -4828,7 +4860,7 @@ No funcionarán las Juntas de Conciliación en los Municipios o zonas económica
 
 Son aplicables a las Juntas Locales de Conciliación las disposiciones contenidas en el capítulo anterior. Las atribuciones asignadas a la Secretaría del Trabajo y Previsión Social se ejercerán por los Gobiernos de los Estados y Territorios.
 
-### CAPITULO II. Normas de Competencia
+### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
 
 ###### Artículo 604.
 
@@ -5026,7 +5058,7 @@ d) En los casos de empate, el voto del o de los representantes ausentes se sumar
 
 III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o Presidente Especial y del cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos del cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial, dará cuenta al Secretario del Trabajo y Previsión Social, para que designe las personas que los substituyan. En caso de empate, los votos de los ausentes se sumarán al del Presidente.
 
-### CAPITULO III. Recusaciones y Excusas
+### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
 
 ###### Artículo 621.
 
@@ -5270,7 +5302,9 @@ TITULO TRECE
 
 Representantes de los Trabajadores y de los Patrones
 
-### CAPITULO IV. Procedimiento ante las Juntas de Conciliación
+### CAPITULO VI. Procedimientos Especiales
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 ###### Artículo 648.
 
@@ -5548,7 +5582,7 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
-### CAPITULO V. Procedimiento para la Tramitación y Resolución de los Conflictos Individuales y de los Colectivos de Naturaleza Jurídica
+### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
 
 ###### Artículo 676.
 
@@ -5588,9 +5622,7 @@ Tienen derecho a participar en la elección los sindicatos de trabajadores y de 
 
 El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades de las Entidades Federativas, total o parcialmente, las atribuciones que le corresponden en la certificación de padrones y credenciales y en el funcionamiento de las convenciones.
 
-### CAPITULO VI. Procedimientos Especiales
-
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+### CAPITULO VIII. Recursos
 
 ###### Artículo 683.
 
@@ -5610,13 +5642,13 @@ TITULO CATORCE
 
 Derecho Procesal del Trabajo
 
-### CAPITULO VII. Procedimiento para la Tramitación y Resolución de los Conflictos Colectivos de Naturaleza Económica
-
-### CAPITULO VIII. Recursos
-
 ### CAPITULO IX. Providencias Cautelares
 
 ### CAPITULO X. Tercerías
+
+### CAPITULO I. Disposiciones Generales
+
+### CAPITULO II. Procedimiento de Embargo
 
 ###### Artículo 685.
 
@@ -5652,7 +5684,7 @@ VII. El laudo; y
 
 VIII. En casos urgentes o cuando concurran circunstancias especiales a juicio de la Junta.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO III. Remates
 
 ###### Artículo 689.
 
@@ -7170,4 +7202,10 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
-UNICO.-El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 7 DE FEBRERO DE 1975.
+
+###### ARTICULO UNICO.
+
+Esta reforma entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación.
