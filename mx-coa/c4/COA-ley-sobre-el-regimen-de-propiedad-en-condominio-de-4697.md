@@ -4,7 +4,7 @@ identifier: "COA-ley-sobre-el-regimen-de-propiedad-en-condominio-de-4697"
 country: "mx"
 rank: "ley"
 publication_date: "1973-12-10"
-last_updated: "1973-12-10"
+last_updated: "1982-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 10 de diciembre de 1973.
 
@@ -96,6 +96,10 @@ IX.- Los casos y condiciones en que pueda ser modificada la propia escritura.
 Al apéndice de la escritura se agregarán, debidamente certificados por el Notario, el plano general y los planos correspondientes a cada uno de los departamentos, viviendas, casas o locales y a los elementos comunes; así como el Reglamento del propio condominio.
 
 De la documentación anterior y de la demás que se juzgue necesaria, se entregarán al Administrador copias notarialmente certificadas, para el debido desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1982)</small>
+
+Sólo en tratándose de conjuntos habitacionales que realicen el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y los Organismos Públicos Descentralizados del Estado, la constitución del régimen de propiedad en condominio, podrá hacerse constar en documentos privados que contengan los requisitos a que se refieren las fracciones que anteceden y que firmarán el vendedor y el comprador ante dos testigos, debiendo ratificar el contenido del contrato y reconocer sus firmas, ante el Jefe de la Oficina del Registro Público de la Propiedad que corresponda al lugar de ubicación del inmueble adquirido, a fin de que se proceda a su inscripción.
 
 ###### ARTICULO 5o.
 
@@ -494,3 +498,9 @@ ING. EULALIO GUTIERREZ TREVIÑO.- Rúbrica).
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. OSCAR VILLEGAS RICO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE AGOSTO DE 1982.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
