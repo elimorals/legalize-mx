@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "1999-06-15"
+last_updated: "1999-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY FUE REFORMADA POR DECRETO NUMERO 21 ADICIONANDO Y REFORMANDO DIVERSAS DISPOSICIONES DE ESTA, CON LA INCLUSION DE ARTICULOS, CORRIENDO EN SU ORDEN LOS SUBSECUENTES, Y HACIENDO UNA CORRECCION NUMERICA EN AQUELLOS ARTICULOS CUYA NUMERACION SE ENCONTRABA REPETIDA, A EFECTO DE QUE SE MANTENGA CONGRUENCIA EN LA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -41,79 +43,107 @@ LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 1.
 
-El Poder Legislativo del Estado Libre y Soberano de Quintana Roo se deposita en una Cámara de Diputados que se denomina Congreso del Estado de Quintana Roo, integrada en la forma y términos que establece la Constitución Política del Estado y la presente Ley.
+La presente ley tiene por objeto regular la organización, funcionamiento y atribuciones del Poder Legislativo del Estado de Quintana Roo.
+
+El Poder Legislativo del Estado de Quintana Roo se deposita en una Cámara de Diputados que se denomina Congreso del Estado de Quintana Roo, integrada en la forma y términos que previene la Constitución Política del Estado y esta ley.
 
 ###### ARTICULO 2.
 
 El ejercicio de las funciones de los Diputados durante su gestión constitucional constituye una Legislatura, que se identificará con el número ordinal que corresponda.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 3.
 
-El Congreso del Estado tendrá su residencia en la Capital del Estado y celebrará sus sesiones en el Recinto Oficial de la sede del Poder Legislativo, pero la Legislatura podrá designar Recinto Oficial distinto para celebrar sesiones que por su calidad requieran realizarse transitoriamente en otro lugar.
+El Congreso del Estado tendrá su residencia en la ciudad de Chetumal, capital del Estado y celebrará sus sesiones en el Recinto Oficial de la sede del Palacio Legislativo, pero la Legislatura podrá designar Recinto Oficial distinto para celebrar sesiones que por su carácter y en forma excepcional, requieran realizarse transitoriamente en otro lugar.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 4.
 
-El Recinto del Poder Legislativo es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo con permiso del Presidente de la Legislatura o de la Diputación Permanente, según corresponda, bajo cuyo mando quedará en este caso.
-
-El Presidente de la Legislatura o de la Diputación Permanente, en su caso, podrán solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto. Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente podrá suspender la sesión hasta que dicha fuerza hubiere abandonado el Recinto.
+El Recinto del Palacio Legislativo es inviolable. El Presidente de la Legislatura o de la Diputación Permanente, en su caso, podrán solicitar el auxilio de la fuerza pública para salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto, bajo cuyo mando quedará ésta. Cuando sin mediar previa solicitud se hiciere presente la fuerza pública, el Presidente podrá suspender la sesión hasta que dicha fuerza pública hubiere abandonado el Recinto.
 
 ###### ARTICULO 5.
 
 Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Poder Legislativo, ni sobre las personas o bienes de los Diputados en el interior del Recinto del Poder Legislativo.
 
-###### ARTICULO 6.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-Las atribuciones que la Constitución Política del Estado otorga a la Legislatura del Estado y a la Diputación Permanente, así como las que otorguen otras leyes, se ejercerán conforme a lo dispuesto por esta Ley y sus Reglamentos.
+###### Artículo 6.
 
-Esta Ley y sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado no podrán ser objeto de veto.
+Las atribuciones que la Constitución Política del Estado otorga a la Legislatura del Estado y a la Diputación Permanente, así como las que otorguen otras leyes, se ejercerán conforme a lo dispuesto por esta Ley y su Reglamento.
+
+Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado ni podrán ser objeto de veto. El Presidente de la Mesa Directiva de la Legislatura ordenará directamente su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## TITULO SEGUNDO
 
-### CAPITULO UNICO. DE LA INSTALACION DE LA LEGISLATURA
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO UNICO. DE LA INSTALACION DE LA LEGISLATURA Y DE LA ELECCION DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Para la instalación de la Legislatura, los Diputados electos con el carácter de Propietarios, sin necesidad de citación previa, se reunirán en el Recinto Oficial del Poder Legislativo del Estado el día 24 de marzo del año que corresponda, a partir de las 11:00 horas, Esta Junta Preparatoria, que iniciará presidiendo la Diputación Permanente de la Legislatura saliente, se desarrollará, conforme al siguiente procedimiento:
+Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuentan con la constancia expedida por el órgano electoral competente, a asistir a la sede del Poder Legislativo del Estado el día diecinueve de marzo del año que corresponda a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento.
 
-a) EI Secretario de la Diputación Permanente dará lectura a la lista de los Diputados que hayan resultado electos y comprobando que se tiene la concurrencia de más de la mitad del total de sus miembros, dará cuenta al Presidente de la Diputación Permanente.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-b) EI Presidente pedirá a los Diputados asistentes que en escrutinio secreto y mayoría de votos procedan a elegir a la Comisión Instaladora de la Legislatura.
+a) El Secretario de la Diputación Permanente dará lectura a la lista de los Diputados que hayan resultado electos y comprobando que se tiene la asistencia de más de la mitad del total de sus miembros, dará cuenta al Presidente de la Diputación Permanente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+b) El Presidente pedirá a los Diputados electos que se encuentren presentes que en escrutinio secreto y por mayoría de votos procedan a elegir a la Comisión Instaladora de la Legislatura.
 
 La Comisión Instaladora de la Legislatura se integrará con un Presidente, un Vicepresidente y un Secretario.
 
 c) Integrada la Comisión Instaladora, la Diputación Permanente se retirará del Recinto Oficial y la Comisión electa pasará a ocupar su lugar, a fin de que se proceda a la instalación de la Legislatura.
 
-d) El Presidente de la Comisión Instaladora pedirá a los, Diputados Electos se pongan de pie, y dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Quintana Roo y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo quintanarroense me ha conferido, mirando en todo por el bien y la prosperidad de la Nación y del Estado de Quintana Roo y, si así no lo hiciere, que el pueblo me lo demande".
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+d) Una vez que los integrantes de la Comisión Instaladora hayan ocupado sus respectivos lugares, el Presidente de la misma pedirá a los Diputados Electos se pongan de pie, y dirá: "Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Quintana Roo y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo quintanarroense me ha conferido, mirando en todo por el bien y la prosperidad de la Nación y del Estado de Quintana Roo y, si así no lo hiciere, que el pueblo me lo demande".
 
 e) Acto seguido, el Presidente tomará asiento y bajo la misma fórmula tomará la protesta a los demás miembros de la Legislatura, quienes deberán contestar: "Sí protesto", a lo cual el Presidente responderá: "Si así no lo hiciereis, el pueblo os lo demande".
 
-f) Inmediatamente, el Presidente de la Comisión declarará constituida la Legislatura, bajo la siguiente fórmula: "La (aquí el número ordinal de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, se declara legalmente constituida".
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+f) Inmediatamente después de la protesta de los Diputados, el Presidente de la Comisión declarará constituida la Legislatura, bajo la siguiente fórmula: "La (aquí el número ordinal de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, se declara legalmente constituida"; acto seguido nombrará una Comisión de Cortesía para que lo comunique a los titulares de los Poderes Ejecutivo y Judicial del Estado.
 
 ###### ARTICULO 8.
 
 Instalada la Legislatura, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de la Mesa Directiva, eligiendo al Presidente y Vicepresidente del Primer Mes del Primer Período Ordinario de Sesiones del Primer Año de Ejercicio Constitucional, y al Secretario y Pro-Secretario para el Primer Ejercicio anual, con lo que concluirá la sesión de instalación.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 9.
 
-El Presidente de la Mesa Directiva electa, citará a los Diputados electos que no hubieren asistido a la sesión de instalación para que se presenten en la fecha y hora que se les señale, apercibidos de que de no asistir nuevamente sin causa justificada se llamará en definitiva a sus respectivos suplentes.
+El Presidente de la Mesa Directiva electa, citará a los Diputados electos que no hubieren asistido a la sesión de instalación, en el domicilio que tengan acreditado ante el órgano electoral que les hubiere expedido la constancia que los acredita como tales, para que se presenten en la fecha y hora que se les señale, apercibidos de que de no asistir nuevamente sin causa justificada se llamará en definitiva a sus respectivos suplentes.
 
-En todo caso. cada uno de los Diputados que se presentaren con posterioridad, estará obligado a rendir protesta en la forma establecida en el inciso e) del artículo de esta Ley.
+En todo caso, cada uno de los Diputados a que se refiere el párrafo anterior, estará obligado a rendir protesta en la forma establecida en el Artículo 7 de esta Ley.
 
 ## TITULO TERCERO
 
-### CAPITULO UNICO. DE LOS PERIODOS DE SESIONES Y DE RECESOS
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO I. DE LOS PERIODOS DE SESIONES Y DE RECESOS
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 10.
 
-La Legislatura se reunirá a partir del 26 de marzo de cada año, para celebrar un primer período de sesiones ordinarias y a partir del 8 de octubre de cada año para celebrar un segundo período de sesiones ordinarias
+La Legislatura se reunirá a partir del 26 de marzo de cada año, para celebrar un primer período de sesiones ordinarias, y a partir del 20 de septiembre de cada año para celebrar un segundo período de sesiones ordinarias.
 
-En ambos periodos de sesiones el Congreso se ocupará del estudio, discusión y votación de las iniciativas de ley o de decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
+En estos períodos la Legislatura se ocupará del estudio, discusión y votación de las iniciativas de ley o de decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 11.
 
-Cada período de sesiones ordinarias turnará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. E primer período no podrá prolongarse sino hasta el 26 de mayo del mismo año. El segundo período no podrá prolongarse más allá del 15 de diciembre del mismo año.
+Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 26 de junio del mismo año. El segundo período no podrá prolongarse más allá del 15 de diciembre del mismo año.
 
 ###### ARTICULO 12.
 
@@ -127,65 +157,197 @@ Durante los recesos fungirá la Diputación Permanente que al efecto elija la Le
 
 En los períodos de sesiones extraordinarias, el Congreso solamente tratará los asuntos para los que fue convocado, debiendo reunirse la Diputación Permanente para Tratar los asuntos relativos, a su competencia.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 15.
 
-La Legislatura sesionará con la concurrencia de más de la mitad de sus integrantes, excepto cuando en los términos del artículo 75 fracciones V, VII. VIII y IX y 83 de la Constitución Política del Estado, se constituya en Colegio Electoral, o en Gran Jurado de acuerdo a los artículos 75 fracciones XVIII y XXXVIII y 173 del propio ordenamiento constitucional, casos en los cuales deberán concurrir por lo menos las dos terceras partes del total de sus miembros.
+La Legislatura sesionará con la concurrencia de más de la mitad de sus integrantes.
 
-### CAPITULO I. DE SU ELECCION E INTEGRACION
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO II. DE LAS FACULTADES DE LA LEGISLATURA
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 16.
 
-La Mesa Directiva conducirá las sesiones del Pleno de la Legislatura conforme a las atribuciones que le otorgue la presente Ley y sus Reglamentos a cada uno de sus miembros. Se integrará con un Presidente, un Vicepresidente, un Secretario y un Pro-Secretario, electos en escrutinio secreto y por mayoría de votos.
+Son facultades de la Legislatura del Estado:
+
+I.- Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a los funcionarios federales.
+
+II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas por la Constitución General de la República principalmente en materia educativa de conformidad a la Ley Federal de Educación.
+
+III.- Iniciar leyes y decretos ante el Congreso de la Unión.
+
+IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento.
+
+V.- Expedir el Bando Solemne para dar a conocer en toda la entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Poder Judicial del Estado.
+
+VI.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.
+
+VII.- Convocar a elecciones para Gobernador, en caso de falta absoluta de éste ocurrida dentro de los dos primeros años del período constitucional, conforme al Artículo 83 de la Constitución Política del Estado.
+
+VIII.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros.
+
+IX.- Erigirse en Colegio Electoral para elegir Gobernador sustituto para que concluya el período constitucional, en caso de falta absoluta de éste ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al Artículo 83 de la Constitución local.
+
+X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia, licencia temporal para separarse de sus cargos.
+
+XI.- Decidir sobre las solicitudes de renuncia que formulen los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
+
+XII.- Cambiar la sede de los poderes del Estado.
+
+XIII.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional.
+
+XIV.- Determinar las características y el uso del escudo estatal.
+
+XV.- Solicitar la comparecencia de servidores públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.
+
+XVI.- Erigirse en Gran Jurado para calificar las causas de responsabilidad de sus miembros por delitos cometidos en el desempeño de sus funciones.
+
+XVII.- Declarar si ha lugar o no a formación de causa de que habla el Artículo 173 de la Constitución Política del Estado.
+
+XVIII.- Elegir la Diputación Permanente.
+
+XIX.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y aprobar o rechazar, en su caso, las renuncias o destituciones de éstos, en los términos de la Constitución Política del Estado.
+
+XX.- Legislar en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios necesarios en el Estado.
+
+XXI.- Autorizar la participación del Ejecutivo en comisiones interestatales de desarrollo regional.
+
+XXII.- Ratificar o rechazar los convenios que celebren el Ejecutivo con el Gobierno Federal.
+
+XXIII.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad.
+
+XXIV.- Autorizar al Ejecutivo y a los Ayuntamientos para contratar empréstitos a nombre del Estado y de los Municipios, Organismos Descentralizados y Empresas de Participación Estatal y Municipal, siempre que se destinen a Inversiones Públicas productivas, conforme a las bases que establezca la Ley de Deuda Pública del Estado y por los conceptos y montos que la Legislatura señale anualmente en los respectivos Presupuestos. El Ejecutivo y los Ayuntamientos en su caso, informarán de su ejercicio al rendir la Cuenta Pública.
+
+XXV.- Legislar acerca de la administración, conservación y enajenación de los bienes del Estado.
+
+XXVI.- Aprobar o rechazar las concesiones otorgadas por el Ejecutivo.
+
+XXVII.- Nombrar y remover libremente a sus empleados y a los de la Contaduría Mayor de Hacienda.
+
+XXVIII.- Examinar y aprobar, en su caso, la cuenta pública del año anterior que será presentada dentro de los primeros 10 días de la apertura de sesiones.
+
+XXIX.- Aprobar las Leyes de Ingresos Municipal y Estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas.
+
+XXX.- Crear y suprimir empleos públicos y fijar sus emolumentos.
+
+XXXI.- Facultar al Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre.
+
+XXXII.- Decretar las leyes de hacienda y de ingresos municipales.
+
+XXXIII.- Decretar la Ley Orgánica Municipal.
+
+XXXIV.- Crear o suprimir municipios y reformar la división política del Estado, mediante el voto de las dos terceras partes de la totalidad de los diputados y la mayoría de los ayuntamientos en los términos del Artículo 132 de la Constitución Política del Estado.
+
+XXXV.- Resolver los conflictos que surjan entre los ayuntamientos entre sí y entre éstos y el Ejecutivo Estatal, salvo cuando tengan carácter contencioso.
+
+XXXVI.- Definir los límites de los municipios en caso de duda surgida entre ellos, salvo cuando tengan carácter contencioso.
+
+XXXVII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los diputados siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+XXXVIII.- Designar a los integrantes de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos por la Constitución local.
+
+XXXIX.- Expedir la Ley de Expropiación por causa de utilidad pública.
+
+XL.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en los términos del Artículo 2 fracción XVII de la Constitución General de la República.
+
+XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable e ingravable.
+
+XLII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente.
+
+XLIII.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado; y
+
+XLIV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
+
+XLV.- Expedir leyes encaminadas a combatir el alcoholismo.
+
+XLVI.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ## TITULO CUARTO. DE LA MESA DIRECTIVA
 
-### CAPITULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO I. DE SU ELECCION E INTEGRACION
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 17.
 
-El Presidente y el Vicepresidente estarán en funciones durante un mes y no podrán ser reelectos para el mes siguiente. El Secretario y el Pro Secretario fungirán durante los períodos ordinarios del ejercicio anual, pudiendo reelegirse para los dos subsecuentes años y en los períodos extraordinarios que celebre la Legislatura.
+La Mesa Directiva conducirá las sesiones del Pleno de la Legislatura conforme a las atribuciones que le otorgue la presente Ley y su Reglamento a cada uno de sus miembros. Se integrará con un Presidente, un Vicepresidente, un Secretario y un Pro-Secretario, electos en escrutinio secreto y por mayoría de votos.
 
-El Secretario y el Pro-Secretario se elegirán para el ejercicio anual, en la misma sesión en que se elija a la Mesa Directiva del Primer Mes del Primer Período Ordinario de cada ejercicio anual.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 18.
 
-Diez días antes de la apertura de cada período de sesiones ordinarias, con excepción de lo previsto en el artículo 8 de la presente Ley, los Diputados elegirán en sesión previa, para el primer mes del primer período, al Presidente, al Vicepresidente, al Secretario y al Pro-secretario, y para el segundo período, únicamente al Presidente y al Vicepresidente.
+El Presidente y el Vicepresidente estarán en funciones durante un mes y no podrán ser reelectos para el mes siguiente. El Secretario y el Pro-Secretario fungirán durante los períodos ordinarios del ejercicio anual, pudiendo reelegirse para los dos subsecuentes años y en los períodos extraordinarios que celebre la Legislatura.
 
-En la última sesión de cada primer mes, la Legislatura elegirá, para el siguiente mes, al Presidente y al Vicepresidente, quienes asumirán sus cargos en la sesión siguiente a aquella en que hubieren sido electos.
+El Secretario y el Pro-Secretario se elegirán para el ejercicio anual, en la misma sesión en que sea electa la Mesa Directiva del Primer Mes del Primer Período Ordinario de cada ejercicio anual.
 
-ARTICULO 18 (sic).- Cuando el segundo período de sesiones ordinarias se prolongue por más de dos meses, la Mesa Directiva electa para el segundo mes continuará en funciones hasta la clausura del periodo.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19.
 
-La Mesa Directiva de los períodos extraordinarios de sesiones se elegirá en los cinco días anteriores a la fecha de la sesión de apertura del período respectivo, en sesión previa que señale la Diputación Permanente en la convocatoria correspondiente.
+Diez días antes de la apertura de cada período de sesiones ordinarias, con excepción de lo previsto en el Artículo 8 de la presente Ley, los Diputados elegirán en sesión previa, para el primer mes del primer período, al Presidente, al Vicepresidente, al Secretario y al Pro-secretario, y para el primer mes del segundo período, únicamente al Presidente y Vicepresidente.
+
+En la última sesión de cada primer o segundo mes, la Legislatura elegirá para el siguiente mes, al Presidente y al Vicepresidente, quienes asumirán sus cargos en la sesión siguiente a aquélla en que hubieren sido electos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 20.
 
-De toda elección de integrantes de la Mesa Directiva se Comunicará al Ejecutivo Estatal, al Tribunal Superior de Justicia del Estado, a los Ayuntamientos de los Municipios del Estado, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal y a la Suprema Corte de Justicia de la Nación.
+Cuando el segundo período de sesiones ordinarias se prolongue por más de dos meses, la Mesa Directiva electa para el segundo mes continuará en funciones hasta la clausura del periodo.
 
 ###### ARTICULO 21.
 
-Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por las causas y en la forma prevista en las disposiciones reglamentarias.
+La Mesa Directiva de los períodos extraordinarios de sesiones se elegirá en los cinco días anteriores a la fecha de la sesión de apertura del período respectivo, en sesión previa que señale la Diputación Permanente en la convocatoria correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 22.
 
-Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar la libertad de las deliberaciones, cuidar de la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta Ley, de los Reglamentos y los acuerdos que apruebe el Congreso.
+Toda elección de integrantes de la Mesa Directiva, será comunicada al Ejecutivo Estatal, al Tribunal Superior de Justicia del Estado, a los Ayuntamientos de los Municipios del Estado, a ambas cámaras del Congreso de la Unión, al Ejecutivo Federal y a la Suprema Corte de Justicia de la Nación, y se ordenará por conducto de su Presidente, su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 23.
 
-El Presidente de la Mesa Directiva lleva la representación del Poder Legislativo durante su encargo.
+Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por las causas y en la forma prevista en el Reglamento de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 24.
 
-El Presidente hará respetar el fuero constitucional de los Diputados y velará por la inviolabilidad del Recinto Legislativo.
+Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar la libertad de las deliberaciones, cuidar de la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta Ley, de su Reglamento y de los acuerdos que apruebe el Congreso.
 
-### CAPITULO III. DEL SECRETARIO Y DEL PRO-SECRETARIO
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO II. DE LA PRESIDENCIA Y VICEPRESIDENCIA DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 25.
 
-El Presidente ejecutará los acuerdos de la Legislatura, cuando la presente Ley o el Reglamento no señale a otro órgano o Comisión para ese efecto. Asimismo, vigilará el cumplimiento de las determinaciones de la Legislatura encomendadas a otro de sus órganos o Dependencias.
+El Presidente de la Mesa Directiva tendrá la representación del Poder Legislativo durante su encargo.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 26.
+
+El Presidente hará respetar el fuero constitucional de los Diputados y velará por la inviolabilidad del Recinto Legislativo.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 27.
+
+El Presidente ejecutará los acuerdos de la Legislatura, cuando la presente Ley o el Reglamento no señale a otro órgano o Comisión para ese efecto. Asimismo, vigilará el cumplimiento de las determinaciones de la Legislatura encomendadas a otro de los órganos o Dependencias del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 28.
 
 Son atribuciones del Presidente de la Mesa Directiva:
 
@@ -193,13 +355,13 @@ I.- Declarar abiertos y clausurados los períodos de sesiones ordinarias y extra
 
 II.- Abrir, prorrogar, suspender y clausurar las sesiones del Pleno.
 
-III.- Dar curso reglamentario a los negocios y determinar los trámites a que deban sujetarse los asuntos con que se dé cuenta a la Legislatura.
+III.- Dar curso conforme a lo establecido en la Constitución Política del Estado, en esta Ley y su Reglamento, a los asuntos concernientes a la Legislatura.
 
 IV.- Conducir los debates y las deliberaciones del Pleno.
 
 V.- Determinar el orden de los asuntos que deban tratarse en cada sesión, tomando en consideración las proposiciones de la Gran Comisión.
 
-VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido sometida a votación.
+VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido sometida (sic) a votación.
 
 VII.- Requerir a los Diputados faltistas a concurrir a las sesiones y, en su caso, aplicar las medidas o sanciones que correspondan con base en los artículos 60 y 64 de la Constitución Política del Estado.
 
@@ -207,17 +369,19 @@ VIII.- Exigir orden al público asistente a las sesiones y dictar las disposicio
 
 IX.- Solicitar el auxilio de la fuerza pública en los casos que establece esta Ley.
 
-X.- Suspender las sesiones cuando se altere gravemente el orden o cuando sin su autorización, se hiciere presente la fuerza pública compeliendo la libertad para deliberar de los miembros de la Legislatura, reanudándolas cuando se haya restablecido el orden o abandonado la fuerza pública el Recinto.
+X.- Suspender las sesiones cuando se altere gravemente el orden o cuando sin su autorización, se hiciere presente la fuerza pública compeliendo la libertad para deliberar de los miembros de la Legislatura, reanudándolas cuando se haya restablecido el orden o la fuerza pública haya abandonado el Recinto.
 
 XI.- Firmar con el Secretario las Leyes, Decretos, Reglamentos, Acuerdos y demás disposiciones que expida la Legislatura.
 
 XII.- Firmar con el Secretario las actas de las sesiones, la correspondencia y demás comunicaciones de la Legislatura.
 
-XIII.- Expresar consideraciones generales al Informe que rinda anualmente el Gobernador del Estado y encargar a las Comisiones que correspondan el análisis del mismo, para ser discutido en las subsecuentes sesiones.
+XIII.- Expresar consideraciones generales al informe que rinda anualmente el Gobernador del Estado y encargar a las Comisiones que correspondan el análisis del mismo, para ser discutido en las subsecuentes sesiones.
 
-XIV.- Solicitar por acuerdo de la Legislatura, la comparecencia de los servidores públicos del Ejecutivo del Estado, del Poder Judicial o de los Municipios y de los organismos y fideicomisos públicos y empresas de participación estatales o municipales cuando se estudie, discuta o se investigue un negocio relativo a sus funciones.
+En la sesión en que el titular del Ejecutivo rinda el informe anual, se le concederá el uso de la palabra a un miembro de cada una de las fracciones parlamentarias antes de la presentación del informe.
 
-Estas comparecencias se llevarán a cabo, por regla general, ante las Comisiones Ordinarias, y sólo en casos excepcionales, cuando la importancia o trascendencia del asunto lo amerite, se efectuarán ante el Pleno de la Legislatura.
+XIV.- Solicitar, por acuerdo de la Legislatura, la comparecencia de los servidores públicos del Ejecutivo del Estado, del Poder Judicial o de los Municipios y de los organismos y fideicomisos públicos y empresas de participación estatales o municipales, cuando se estudie, discuta o se investigue un negocio relativo a sus funciones.
+
+Estas comparecencias se llevarán a cabo, por regla general, ante las Comisiones Ordinarias, en privado, y sólo en casos excepcionales, cuando la importancia o trascendencia del asunto lo amerite, se efectuarán ante el Pleno de la Legislatura.
 
 XV.- Nombrar las Comisiones Protocolarias.
 
@@ -225,29 +389,43 @@ XVI.- Delegar su representación en actos cívicos o culturales en favor de otro
 
 XVII.- Firmar con el Secretario los nombramientos y remociones de los titulares de las Dependencias del Poder Legislativo.
 
-XVIII.- Las demás que se deriven de esta Ley, de sus Reglamentos y de las disposiciones o acuerdos que emita la Legislatura.
+XVIII.- Al término de cada período de sesiones previo a su clausura, rendir un informe general sobre los trabajos desarrollados durante éstos.
 
-###### ARTICULO 27.
+XIX.- Las demás que se deriven de esta ley, de su Reglamento Interior y de las disposiciones o acuerdos que emita la Legislatura.
 
-Las ausencias en las sesiones del Presidente serán suplidas por el Vicepresidente, quien tendrá en este caso las mismas atribuciones de aquél.
-
-###### ARTICULO 28.
-
-En ausencia del Presidente y cuando éste no hubiere delegado su representación para asistir a los actos en que deba estar presente, asistirá el Vicepresidente. Lo mismo se observará cuando se celebren actos simultáneos.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 29.
 
-El Vicepresidente auxiliará al Presidente, a solicitud de éste, en el desempeño de sus funciones.
+Las ausencias en las sesiones del Presidente serán suplidas por el Vicepresidente, quien tendrá en este caso las mismas atribuciones de aquél. En caso de que el Vicepresidente no pueda cumplir la encomienda o no se presentare a la sesión que corresponda, se procederá a la elección en votación económica de los Diputados presentes de quien para esa única sesión actuará como Vicepresidente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 30.
 
-Son obligaciones del Secretario y del Pro-secretario cuando supla a aquél:
+En ausencia del Presidente y cuando éste no hubiere delegado su representación para asistir a los actos en que deba estar presente, asistirá el Vicepresidente. Lo mismo se observará cuando se celebren actos simultáneos.
 
-I.- Pasar lista de asistencia al inicio de la sesión y dar cuenta al Presidente de la existencia del quórum requerido.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 31.
+
+El Vicepresidente auxiliará al Presidente, a solicitud de éste, en el desempeño de sus funciones.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO III. DEL SECRETARIO Y DEL PRO-SECRETARIO DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 32.
+
+Son obligaciones del Secretario y del Pro-secretario cuando éste supla a aquel:
+
+I.- Pasar lista de asistencia al inicio de la sesión y dar cuenta al Presidente de la existencia o no del quórum requerido.
 
 II.- Extender las actas de las sesiones, firmarlas conjuntamente con el Presidente después de haber sido aprobadas por la Legislatura y asentarlas bajo su firma en el libro respectivo. Las actas cumplirán las formalidades que precise el Reglamento
 
-III.- Rubricar las Leyes, Decretos y demás disposiciones o documentos que expida la Legislatura. Sin su firma no tendrán validez.
+III.- Rubricar las Leyes, Decretos y demás disposiciones o documentos que expida la Legislatura, así como extender certificaciones de los mismos, previo su cotejo correspondiente. Sin su firma no tendrán validez.
 
 IV.- Verificar la autenticidad de las Leyes, Decretos, Reglamentos y demás documentos expedidos por la Legislatura, cuidando que no sean alterados.
 
@@ -257,7 +435,7 @@ VI.- Llevar el libro de actas de las sesiones, cuidando que quede debidamente co
 
 VII.- Llevar un libro en el que se asienten por orden cronológico y textualmente, las leyes y decretos que expida la Legislatura.
 
-VIII.- Dar cuenta al Presidente de los asuntos en cartera, para que se den a conocer en el orden del día. conforme a las disposiciones reglamentarias.
+VIII.- Dar cuenta al Presidente de los asuntos en cartera, para que se den a conocer en el orden del día conforme a las disposiciones reglamentarias.
 
 IX.- Vigilar que todos los documentos que pasarán a Consideración del Pleno, estén debidamente firmados y requisitados.
 
@@ -267,27 +445,37 @@ XI.- Recoger y tomar las votaciones, informando al Presidente del resultado de l
 
 XII.- Llevar a efecto los acuerdos y resoluciones de la Legislatura, cuya ejecución no corresponda expresamente a otro órgano o dependencia del Congreso.
 
-XIII.- Las demás que les confiara esta Ley, el Reglamento Interior o demás disposiciones emanadas del Pleno.
+XIII.- Verificar la publicación en el Periódico Oficial del Gobierno del Estado, de las resoluciones que emita la Legislatura, en los casos previstos en la presente ley.
 
-###### ARTICULO 31.
+XIV.- Las demás que le confiera esta Ley, el Reglamento Interior o demás disposiciones emanadas del Pleno.
 
-El Congreso del Estado contará con el número de Comisiones ordinarias y transitorias que requiera para el cumplimiento de sus funciones.
-
-Las Comisiones ordinarias se elegirán en la primera sesión que se verifique después de la apertura del Primer Período de Sesiones Ordinarias y ejercerán sus funciones durante todo el tiempo que dure la Legislatura.
-
-Las Comisiones transitorias se elegirán por acuerdo de la Legislatura y sus integrantes durarán el tiempo que requiera el asunto o asuntos para el cual fue integrada.
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-###### ARTICULO 32.
-
-Las Comisiones ordinarias tendrán a su cargo les cuestiones relacionadas con la materia propia de su denominación y las que de manera específica les señale la presente Ley o su Reglamento y, conjuntamente con la Comisión de Puntos Legislativos, el análisis y dictamen de las iniciativas de Leyes y Decretos de su competencia.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ## TITULO QUINTO. DE LAS COMISIONES
 
-### CAPITULO II. DE LA GRAN COMISION
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 33.
+
+El Congreso del Estado contará con el número de Comisiones ordinarias y transitorias que requiera para el cumplimiento de sus funciones.
+
+Las Comisiones ordinarias, se elegirán en la primera sesión que se verifique después de la apertura del Primer Período de Sesiones Ordinarias del Primer Año de Ejercicio Constitucional y ejercerán sus funciones durante todo el tiempo que dure la Legislatura.
+
+Las Comisiones transitorias se integrarán conforme a lo dispuesto por los artículos 40 y 41 de la presente ley, y sus miembros durarán el tiempo que requiera el asunto o asuntos para las que fueron constituidas.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 34.
+
+Las Comisiones ordinarias tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación y las que de manera específica les señale el Reglamento de esta Ley y, conjuntamente con la Comisión de Puntos Legislativos, el análisis y dictamen de las iniciativas de Leyes y Decretos de su competencia.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 35.
 
 Las Comisiones ordinarias serán:
 
@@ -297,7 +485,7 @@ Las Comisiones ordinarias serán:
 
 3.- Comisión de Justicia.
 
-4.- Comisión de Presupuesto y Cuenta.
+4.- Comisión de Hacienda, Presupuesto y Cuenta.
 
 5.- Comisión de Asuntos Municipales.
 
@@ -305,115 +493,145 @@ Las Comisiones ordinarias serán:
 
 7.- Comisión de Estudios de la Administración Pública.
 
-8.- Comisión de Industria y Comercio.
+8.- Comisión de Industria, Comercio y Desarrollo Social.
 
 9.- Comisión de Asuntos Indígenas.
 
-10.- Comisión de Infraestructura, Asentamientos Humanos y Ecología.
+10.- Comisión de Infraestructura y Asentamientos Humanos.
 
-11.- Comisión de Desarrollo Económico y Social.
+11.- Comisión de Salud, Educación, Cultura y Deportes.
 
-12.- Comisión de Salud, Educación y Cultura.
+12.- Comisión de Ecología y de Asuntos Agropecuarios, Forestales y Pesqueros.
 
-13.- Comisión de Asuntos Agropecuarios y Forestales.
+13.- Comisión de Derechos Humanos.
 
-14.- Comisión de Derechos Humanos.
+14.- Comisión de Turismo, Monumentos y Zonas Arqueológicas.
 
-15.- Comisión de Turismo.
+15.- Comisión de Equidad y Género.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
+16.- Comisión de Asuntos Migratorios y Fronterizos.
 
-16.- Comisión de Equidad y Género.
+17.- Comisión de Asuntos de la Juventud.
 
-17.- Comisión de Corrección y Estilo.
+18.- Comisión de Concertación y Prácticas Parlamentarias.
 
-###### ARTICULO 34.
+19.- Comisión de Corrección y Estilo.
 
-Las Comisiones ordinarias se integrarán por regla general con 3 Diputados designados por acuerdo del Pleno de la Legislatura.
-
-###### ARTICULO 35.
-
-Las Comisiones ordinarias ejercerán sus funciones y participarán en las deliberaciones y discusiones del Pleno de acuerdo con las disposiciones de esta Ley y del Reglamento Interior y de Debates.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 36.
 
-La Comisión de Presupuesto y Cuenta actuará de acuerdo con lo dispuesto por las leyes de Presupuesto, Contabilidad y Gasto Público, Orgánica del Poder Legislativo, Orgánica de la Contaduría Mayor de Hacienda y por el Reglamento Interior y de Debates.
+Las Comisiones ordinarias se integrarán por regla general con cinco Diputados designados por acuerdo del Pleno de la Legislatura, con excepción de la Comisión de Concertación y Prácticas Parlamentarias que se integrará por el Representante o Coordinador de cada uno de los Grupos Parlamentarios con presencia en la Cámara, y sus funciones serán exclusivamente las que le confiera el Reglamento de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 37.
 
-Las reuniones de las Comisiones ordinarias no serán públicas; sin embargo, cuando así lo acuerden, podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, representantes de grupos organizados, peritos u otras personas que puedan informar sobre determinado asunto.
+Las Comisiones ordinarias ejercerán sus funciones y participarán en las deliberaciones y discusiones del Pleno de acuerdo con las disposiciones de esta Ley y de su Reglamento.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 38.
+
+La Comisión de Hacienda, Presupuesto y Cuenta actuará de acuerdo con lo dispuesto por las leyes de Presupuesto, Contabilidad y Gasto Público, Orgánica del Poder Legislativo, Orgánica de la Contaduría Mayor de Hacienda y por el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 39.
+
+Las reuniones de las Comisiones ordinarias no serán públicas; sin embargo, cuando así lo acuerden, podrán celebrar reuniones de información y audiencia a las que podrán asistir, a invitación expresa, representantes de grupos organizados, peritos u otras personas que puedan informar sobre determinado asunto.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 40.
 
 Las Comisiones transitorias serán las de investigación, las de protocolo y las de proceso jurisdiccional.
 
 Son Comisiones de investigación las que se integran, a propuesta de la mitad de los Diputados, con el objeto de investigar el funcionamiento de los organismos descentralizados, empresas de participación estatal o fideicomisos de la Administración Pública del Estado.
 
-Son Comisiones de protocolo las de cortesía y las que se integran para tratar los asuntos relativos a comunicaciones y reelecciones con los demás Poderes del Estado.
+Son Comisiones de protocolo las de cortesía y las que se integran para tratar los asuntos relativos a comunicaciones y relaciones con los demás Poderes del Estado.
 
-Son Comisiones de proceso jurisdiccional las que se integran en términos de esta Ley para los afectos de las responsabilidades de los servidores públicos.
+Son Comisiones de proceso jurisdiccional las que se integran en términos de esta Ley para los efectos de las responsabilidades de los servidores públicos.
 
-###### ARTICULO 39.
-
-Los miembros de las Comisiones transitorias de investigación y de procesos jurisdiccionales serán designados por el Pleno a propuesta de la Gran Comisión, y de las de protocolo por el Presidente de la Legislatura.
-
-###### ARTICULO 40.
-
-La actividad y funcionamiento de las Comisiones transitorias de Investigación y de protocolo se sujetarán a las disposiciones reglamentarlas relativas y las de proceso jurisdiccional se atendrán a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41.
 
-Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros. Sus presidentes tendrán voto de calidad en caso de empate.
+Los miembros de las Comisiones transitorias de investigación y de procesos jurisdiccionales serán elegidos por el Pleno de la Legislatura a propuesta de la Gran Comisión, y los miembros de las Comisiones de protocolo serán designados por el Presidente de la Mesa Directiva.
 
-Cuando alguno de los miembros de una Comisión disienta de la resolución adoptada, podrán expresar su opinión por escrito firmado como voto particular y dirigirlo al Presidente de la Mesa Directiva de la Legislatura a fin de que se someta a consideración del Pleno.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 42.
 
-La Gran Comisión se integrará por los Presidentes de las Comisiones ordinarias de Puntos Constitucionales, Puntos Legislativos, Justicia, Presupuesto y Cuenta y Asuntos Municipales.
+Para la integración de la Comisión de Concertación y Prácticas Parlamentarias no se requerirá acuerdo del Pleno Legislativo, sino que bastará acreditar el carácter de representante o coordinador en términos de lo previsto en el Reglamento de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 43.
 
-Inmediatamente después de que se hayan integrado las Comisiones a que se refiere el artículo anterior, se reunirán sus Presidentes para nombrar de entre ellos en escrutinio secreto y por mayoría de votos, al Presidente, al Secretario y a los tres Vocales de la Gran Comisión.
+Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros. En caso de empate el asunto será sometido de nueva cuenta al análisis de la Comisión y si se obtuviera el mismo resultado, será desechado de plano para ese período, pudiendo sujetarse al trámite legislativo en el período de sesiones inmediato.
 
-EI Presidente de la Gran Comisión tendrá el carácter de Coordinador.
+Cuando alguno de los miembros de una Comisión disienta de la resolución adoptada, podrá expresar su opinión por escrito firmado como voto particular y dirigirlo al Presidente de la Mesa Directiva de la Legislatura a fin de que se someta a consideración del Pleno.
 
-### CAPITULO I. CONCEPTO E INTEGRACION
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO II. DE LA GRAN COMISION
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 44.
 
-Los miembros de la Gran Comisión durarán en su encargo por todo el ejercicio constitucional de la Legislatura.
+La Gran Comisión será integrada por los Presidentes de las Comisiones ordinarias de Puntos Constitucionales, Puntos Legislativos, Justicia, Hacienda, Presupuesto y Cuenta y Asuntos Municipales.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 45.
 
-La integración de la Gran Comisión y la elección de su Presidente se comunicara al Ejecutivo del Estado, al Tribunal Superior de Justicia, a los Ayuntamientos de los Municipios del Estado, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación y a todas las Legislaturas de los Estados.
+Inmediatamente después de que se hayan integrado las Comisiones a las que se refiere el artículo anterior, se reunirán sus Presidentes para nombrar de entre ellos, en escrutinio secreto y por mayoría de votos, al Presidente, al Secretario y a los tres Vocales de la Gran Comisión.
+
+El Presidente de la Gran Comisión tendrá el carácter de Coordinador del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 46.
 
+Los miembros de la Gran Comisión durarán en su encargo por todo el ejercicio constitucional de la Legislatura.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 47.
+
+La integración de la Gran Comisión y la elección de su Presidente se comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia, a los Ayuntamientos de los Municipios del Estado, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación y a todas las Legislaturas de los Estados de la República.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 48.
+
 Son atribuciones de la Gran Comisión:
 
-A) En materia de Gobierno:
+a) En materia de Gobierno:
 
 I.- Proponer la Convocatoria a elecciones extraordinarias para Gobernador y para cubrir las vacantes de los miembros de la Legislatura, en los términos de las fracciones VII y VIII del artículo 75 de la Constitución Política del Estado.
 
 II.- Proponer la terna para la designación del Gobernador Interino o Sustituto, en los términos del artículo 83 de la Constitución Política del Estado.
 
-III.- Proponer al ciudadano que deba sustituir al Presidente Municipal, en caso de falta absoluta de este, en términos del artículo 154 de la Constitución Política del Estado.
+III.- Proponer al ciudadano que deba sustituir al Presidente Municipal, en caso de falta absoluta de éste, en términos del artículo 154 de la Constitución Política del Estado.
 
 IV.- Proponer a los ciudadanos para integrar el Concejo Municipal y la Convocatoria a elecciones extraordinarias, a que se refiere el artículo 156 de la Constitución Política del Estado.
 
 V.- Dictaminar sobre las elecciones a que se refiere el artículo 156 de la Constitución local e investigar las irregularidades, si las hubiere, en el desarrollo de las mismas.
 
-VI.- Investigar los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado o de competencias entre las autoridades municipales, cuya resolución corresponda a la Legislatura, para proponer resoluciones de carácter amistoso.
+VI.- Investigar los conflictos de límites que se susciten entre las diversas circunscripciones municipales del Estado o de competencias entre las autoridades municipales, cuya intervención corresponda a la Legislatura, para proponer soluciones mediante la conciliación.
 
 VII.- Llevar a cabo estudios sobre la creación, suspensión y asociación de Municipios, en los términos del Capítulo III, Título Séptimo de la Constitución Política del Estado y de la Ley Orgánica Municipal.
 
 VIII.- Estudiar y dictaminar sobre la declaración de desaparición de gobiernos municipales.
 
-IX.- Proponer a los s ciudadanos para integrar los Concejos Municipales en el caso de que se declare procedente la desaparición de gobiernos municipales.
+IX.- Proponer a los ciudadanos para integrar los Concejos Municipales en el caso de que se declare procedente la desaparición de gobiernos municipales.
 
 X.- Dictaminar sobre las elecciones de Gobernador Constitucional del Estado.
 
-XI.- Conducir las relaciones políticas con los demás Poderes del Estado, los Municipios, los Poderes de la Unión y las Legislaturas de los Estados.
+XI.- Conducir las relaciones políticas con los demás Poderes de la entidad, los Municipios, los Poderes de la Unión y las Legislaturas de los Estados.
 
 B) En materia legislativa:
 
@@ -421,7 +639,7 @@ I.- Proponer la celebración de consultas populares o audiencias públicas sobre
 
 II.- Coadyuvar en el cumplimiento de sus funciones a las Comisiones.
 
-III.- Proponer al Pleno el programa legislativo de los períodos de sesiones ordinarias o extraordinarias, jerarquizando las iniciativas de leyes, decretos, acuerdos y demás asuntos de la competencia de aquél, tomando las providencias necesarias para asegurar el estudio, análisis y debate de les mismas.
+III.- Proponer al Pleno el programa legislativo de los períodos de sesiones ordinarias o extraordinarias, jerarquizando las iniciativas de leyes, decretos, acuerdos y demás asuntos de la competencia de aquél, tomando las providencias necesarias para asegurar el estudio, análisis y debate de las mismas.
 
 IV.- Dirigir, vigilar y coordinar los trabajos y acciones que coadyuven al mejoramiento legislativo del Congreso.
 
@@ -433,7 +651,9 @@ VII.- Desahogar las consultas respecto de la aplicación e interpretación de es
 
 C) En materia administrativa:
 
-I.- Someter los nombramientos y remociones de los titulares de las dependencias del Poder Legislativo a la consideración del Pleno.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+I.- Someter los nombramientos, renuncias, licencias y remociones de los titulares de las dependencias del Poder Legislativo a la consideración del Pleno.
 
 II.- Nombrar y remover, por conducto de la Oficialía Mayor, a los demás, empleados de las dependencias del Poder Legislativo.
 
@@ -449,71 +669,107 @@ VII.- Dirigir, vigilar y coordinar los servicios internos necesarios para el efi
 
 VIII.- Las demás que le confieran otros ordenamientos legales.
 
-###### ARTICULO 47.
-
-Las atribuciones conferidas a la Gran Comisión por esta Ley y las disposiciones reglamentarias, se ejercerán por conducto de su Presidente.
-
-###### ARTICULO 48.
-
-La Gran Comisión, en ejercicio de sus atribuciones, podrá celebrar convenios con entidades públicas, sociales o privadas, que tengan por objeto contribuir al mejoramiento de los procesos, actividades y prácticas legislativas.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 49.
 
-La Diputación Permanente es el órgano del Congreso del Estado que, durante los recesos de éste, mantiene la actividad del Poder Legislativo en aquellos asuntos que expresamente le señala la Constitución Política del Estado, la presente Ley y demás disposiciones legales y reglamentarias.
+La Gran Comisión tomará sus decisiones en los asuntos de su competencia, por mayoría de votos de sus miembros y se harán cumplir por conducto de su Presidente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 50.
 
-La Diputación Permanente se compondrá de siete miembros que durarán en su encargo el período de receso para el que fueron designados.
+La Gran Comisión, en ejercicio de sus atribuciones, podrá celebrar convenios con entidades públicas, sociales o privadas, que tengan por objeto contribuir al mejoramiento de los procesos, actividades y prácticas legislativas.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ## TITULO SEXTO. DE LA DIPUTACION PERMANENTE
 
-### CAPITULO II. DE LAS SESIONES DE LA DIPUTACION PERMANENTE
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO I. CONCEPTO E INTEGRACION
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 51.
 
-La Diputación Permanente será presidida por una Mesa Directiva que se integrará con un Presidente y dos Secretarios.
+La Diputación Permanente es el órgano del Congreso del Estado que, durante los recesos de éste, mantiene la actividad del Poder Legislativo en aquellos asuntos que expresamente le señala la Constitución Política del Estado, la presente Ley y demás disposiciones legales y reglamentarias.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 52.
 
-En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso, el Pleno de la Legislatura en escrutinio secreto y por mayoría de votos, a los integrantes de la Diputación Permanente. El primero de los nombrados será el Presidente y los otros dos Secretarios de la Mesa Directiva de la Diputación Permanente.
+La Diputación Permanente se compondrá de siete miembros que durarán en su encargo el período de receso para el que fueron designados.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 53.
 
-La forma como quedó integrada la Diputación Permanente así como su Mesa Directiva se comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia a los Ayuntamientos, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación y se publicará en el Periódico Oficial del Gobierno del Estado.
+La Diputación Permanente será presidida por una Mesa Directiva que se integrará con un Presidente y dos Secretarios.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 54.
 
-Las sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiera necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevaran a cabo previa convocatoria por parte del Presidente.
+En la misma sesión de clausura del Período de Sesiones Ordinarias del Congreso, el Pleno de la Legislatura en escrutinio secreto y por mayoría de votos, elegirá a los integrantes de la Diputación Permanente. El primero de los nombrados será el Presidente y los otros dos Secretarios de la Mesa Directiva de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 55.
 
-Las sesiones de la Diputación Permanente se Llevarán a cabo con la asistencia de cuando menos cinco de sus miembros, debiendo estar presente el Presidente.
+La integración de la Diputación Permanente, así como su Mesa Directiva, se comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia, a los Ayuntamientos, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal, a la Suprema Corte de Justicia de la Nación y se publicará en el Periódico Oficial del Gobierno del Estado.
 
-### CAPITULO III. DE LAS ATRIBUCIONES DE LA DIPUTACION PERMANENTE
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO II. DE LAS SESIONES DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 56.
 
-Las sesiones que celebre la Diputación Permanente serán públicas, excepto cuando los asuntos a tratar tengan el carácter de reservados o así lo considere el Presidente. Se realizarán en el lugar que designe éste dentro del Palacio Legislativo, procurando que acomode a los presentes, salvo cuando la Diputación Permanente presida las Sesiones Solemnes, en cuyo caso se celebrarán en el Salón de Sesiones del Recinto Oficial.
+Las sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del Presidente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 57.
 
-La Diputación Permanente no suspenderá sus trabajos durante los periodos extraordinarios de sesiones que se convoquen, salvo en aquello que se refiera al asunto para el que se haya convocado el periodo extraordinario respectivo.
+Las sesiones de la Diputación Permanente se llevarán a cabo con la asistencia de cuando menos cinco de sus miembros, debiendo estar presente el Presidente. Cuando en casos excepcionales, por el ejercicio de su investidura, no pueda asistir el Presidente, la sesión se llevará a cabo bajo la Presidencia del Diputado miembro de la Diputación Permanente que sea designado por acuerdo previo de sus propios integrantes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 58.
 
-La Diputación Permanente adoptará sus resoluciones por mayoría de votos de sus miembros presentes. Serán consignadas en las actas. respectivas las que firmarán el Presidente y el Secretario.
+Las sesiones que celebre la Diputación Permanente serán públicas, excepto cuando los asuntos a tratar tengan el carácter de reservados o así lo considere la mayoría de sus miembros. Se realizarán en el lugar que designe el Presidente dentro del Palacio Legislativo, procurando que acomode a los presentes, salvo cuando la Diputación Permanente presida las Sesiones Solemnes, en cuyo caso se celebrarán en el Salón de Sesiones del Recinto Oficial.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 59.
 
-Son atribuciones de la Diputación Permanente.
+La Diputación Permanente no suspenderá sus trabajos durante los períodos extraordinarios de sesiones que se convoquen, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario respectivo.
 
-I.- Acordar por si o a solicitud del Ejecutivo del Estado la convocatoria a sesiones extraordinarias.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 60.
+
+La Diputación Permanente adoptará sus resoluciones por mayoría de votos de sus miembros presentes. Serán consignadas en las actas respectivas las que firmarán el Presidente y el Secretario.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO III. DE LAS ATRIBUCIONES DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 61.
+
+Son atribuciones de la Diputación Permanente:
+
+I.- Acordar por sí o a solicitud del Ejecutivo del Estado la convocatoria a sesiones extraordinarias.
 
 II.- Iniciar la sesión de instalación de la nueva Legislatura en los términos previstos en el artículo 7 de la presente Ley.
 
 III.- Nombrar interinamente a los titulares de las Dependencias del Poder Legislativo.
 
-IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en período inmediato de sesiones.
+IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan, turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones.
 
 V.- Conceder licencias temporales a los Diputados y Magistrados del Tribunal Superior de Justicia para separarse de sus cargos.
 
@@ -525,131 +781,195 @@ VIII.- Recibir la protesta de ley y aprobar o desechar nombramientos, renuncias 
 
 IX.- Recibir la protesta de ley al Gobernador interino, provisional, sustituto o quien haga sus veces.
 
-X.- Las demás que le confieran expresamente la Constitución Política del Estado, la presente Ley y las demás disposiciones legales y reglamentarlas.
+X.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-###### ARTICULO 60.
+XI.- Las demás que le confieran expresamente la Constitución Política del Estado, la presente ley y las demás disposiciones legales y reglamentarias.
 
-Los asuntos cuya resolución corresponda al Congreso que durante los recesos de este se presenten a la Diputación Permanente se turnarán a las Comisiones relativas. Cuando se trate de iniciativas de ley o decreto se seguirá el procedimiento reglamentario hasta la formulación del dictamen respectivo que será presentado en las sesiones ordinarias extraordinarias del período próximo.
-
-### CAPITULO I. DE LAS ATRIBUCIONES DE LOS DIPUTADOS
-
-###### ARTICULO 61.
-
-Las resoluciones de la Diputación Permanente que recaigan con motivo del ejercicio de sus facultades de aprobación y las de Colegio Electoral que señala la Constitución Política del Estado, tendrán el carácter de Declaratorias y se expedirán con la fórmula prevista en el artículo 128 de esta ley.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 62.
 
-Todos los Diputados en ejercicio son representantes del pueblo quintanarroense y tienen la misma calidad de derechos y obligaciones, sea su origen la elección por el principio de mayoría relativa o de representación proporcional.
+Los asuntos cuya resolución corresponda a la Legislatura del Estado que durante los recesos de ésta se presenten a la Diputación Permanente, se turnarán a las Comisiones relativas. Cuando se trate de iniciativas de ley o decreto, se seguirá el procedimiento reglamentario hasta la formulación del dictamen respectivo, que será presentado en las sesiones ordinarias del período próximo o en las sesiones extraordinarias que se convoquen.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 63.
 
-Los Diputados en ejercicio gozan del fuero que les reconoce la Constitución Política del Estado. Los Diputados suplentes gozarán de fuero desde que sean llamados al seno de la Legislatura y otorguen ante esta la protesta de ley.
+Las resoluciones de la Diputación Permanente que recaigan con motivo del ejercicio de sus facultades de aprobación tendrán el carácter de Declaratorias y se expedirán con la fórmula prevista en el artículo 134 de esta ley.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos o enjuiciados por ellas.
-
-Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo, pero no podrán sor detenidos ni ejercitarse en su contra la acción penal hasta que seguido al procedimiento constitucional, se decida la separación del cargo y la sujeción a la jurisdicción de los tribunales comunes.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ## TITULO SEPTIMO. DE LOS DIPUTADOS
 
-### CAPITULO II. DE LAS OBLIGACIONES DE LOS DIPUTADOS
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO I. DE LAS ATRIBUCIONES DE LOS DIPUTADOS
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 64.
 
-Es prerrogativa de los Diputados ejercer cabalmente las atribuciones de su representación ante la Legislatura, avocándose al estudio análisis, debate y votación de iniciativas de leyes y decretos que beneficien a la población que representan y promover aquellas que lleven el mismo fin.
+Todos los Diputados en ejercicio son representantes del pueblo quintanarroense y tienen la misma calidad de derechos y obligaciones, sea su origen la elección por el principio de mayoría relativa o de representación proporcional.
+
+Por el desempeño de su función recibirán una remuneración adecuada e irrenunciable, que será determinada anual y equitativamente en el presupuesto de egresos del Estado, en términos de lo dispuesto por el Artículo 175 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 65.
+
+Los Diputados en ejercicio gozan del fuero que les reconoce la Constitución Política del Estado. Los Diputados suplentes gozarán de fuero desde que sean llamados al seno de la Legislatura y otorguen ante esta la protesta de ley.
+
+Los Diputados no podrán ser reconvenidos o enjuiciados por las opiniones que manifiesten en el desempeño de sus cargos.
+
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal hasta que seguido al procedimiento constitucional, se decida la separación del cargo y la sujeción a la jurisdicción de los tribunales comunes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 66.
+
+Es prerrogativa de los Diputados ejercer cabalmente las atribuciones de su representación ante la Legislatura, avocándose al estudio análisis, debate y votación de iniciativas de leyes y decretos que beneficien a la población que representan y promover aquellas que lleven el mismo fin.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 67.
 
 Los Diputados tienen la facultad de gestoría en apoyo a las demandas de los habitantes del Estado y especialmente de los de su respectivo Distrito.
 
 En ejercicio de esta facultad, los Diputados procurarán la atención de los asuntos de carácter social prioritario de las (sic) sectores desprotegidos, observando los principios de equidad, justicia y correcta aplicación de las leyes.
 
-###### ARTICULO 66.
-
-Las Dependencias del Ejecutivo del Estado y Municipios, así como sus organismos descentralizados y empresas de participación y fideicomisos públicos, observando las disposiciones legales respectivas, están obligadas a proporcionar a los Diputados la orientación e información necesarias para la realización de sus gestiones.
-
-Una negativa u omisión en relación con lo dispuesto en el párrafo anterior, se considerara como actitud negligente del servidor público requerido, lo que se comunicara a su superior jerárquico por conducto del Presidente de la Legislatura o de la Diputación Permanente, según el caso, para exigir la prestación reclamada y la aplicación de la sanción que corresponda, debiendo acompañar las constancias respectivas.
-
-###### ARTICULO 67.
-
-Los Diputados podrán vigilar la actividad Oficial de los servidores públicos de las Dependencias del Ejecutivo del Estado o de los Municipios y de sus organismos descentralizados, empresas de participación y fideicomisos públicos; así como reconvenirlos si no se observa el espíritu de servicio o de diligencia necesaria en el cumplimiento de sus responsabilidades.
-
-Si la acción u omisión constituye falta a las leyes aplicables, dará parte a la autoridad competente del Estado o Municipios, en su caso.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 68.
 
-Los Diputados, individualmente, en Comisiones o en Pleno, celebrarán audiencias de consulta popular sobre temas relacionados con su función legislativa o de gestoría, y sus resultados los comunicarán a la Dependencia del Ejecutivo del Estado o de los Municipios que corresponda para su atención. Si de ellas resultare la necesidad de gestión, ésta se realizará por el Diputado o por la Comisión que designe el Presidente de la Legislatura o de la Diputación Permanente, en su caso.
+Las Dependencias del Ejecutivo del Estado y Municipios, así como sus organismos descentralizados y empresas de participación y fideicomisos públicos, observando las disposiciones legales respectivas, están obligadas a proporcionar a los Diputados la orientación e información necesarias para la realización de sus gestiones.
+
+Una negativa u omisión en relación con lo dispuesto en el párrafo anterior, se considerará como actitud negligente del servidor público requerido, lo que se comunicará a su superior jerárquico por conducto del Presidente de la Legislatura o de la Diputación Permanente, según el caso, para exigir la prestación reclamada y la aplicación de la sanción que corresponda, debiendo acompañar las constancias respectivas.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 69.
 
-Son obligaciones de los Diputados
+Los Diputados podrán vigilar la actividad oficial de los servidores públicos de las Dependencias del Poder Judicial, salvo en asuntos litigiosos, del Ejecutivo del Estado, de los Municipios y de sus organismos descentralizados, empresas de participación y fideicomisos públicos; así como reconvenirlos si no se observa el espíritu de servicio o de diligencia necesaria en el cumplimiento de sus responsabilidades.
+
+Si la acción u omisión del servidor público constituye falta a las leyes aplicables, dará parte a la autoridad que corresponda para los efectos conducentes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 70.
+
+Los Diputados, individualmente, en Comisiones o en Pleno, celebrarán audiencias de consulta popular sobre temas relacionados con su función legislativa o de gestoría, y sus resultados los comunicarán a la Dependencia del Ejecutivo del Estado o de los Municipios que corresponda para su atención. Si de ellas resultare la necesidad de gestión, ésta se realizará por el Diputado o por la Comisión que designe el Presidente de la Legislatura o de la Diputación Permanente, en su caso.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO II. DE LAS OBLIGACIONES DE LOS DIPUTADOS
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 71.
+
+Son obligaciones de los Diputados:
 
 I.- Asistir regularmente y con puntualidad a las sesiones de los Períodos Ordinarios o Extraordinarios, a las sesiones de la Diputación Permanente a que sean convocados y a las sesiones solemnes.
 
 II.- Asistir con puntualidad a las reuniones de las Comisiones a que pertenezcan.
 
-III.- Cumplir con las comisiones que la Presidencia de la Legislatura les encomiende y con los trabajos que les signen las Comisiones a las que, pertenezcan.
+III.- Cumplir con las comisiones que la Presidencia de la Legislatura les encomiende y con los trabajos que les asignen las Comisiones a las que pertenezcan.
 
-IV.- Visitar periódicamente los Distritos en los que fueron electos, e informar a sus habitantes de sus labores legislativas y de gestión del año anterior, en el primer receso de cada año, en actos públicos o por los medios de comunicación más idóneos.
+IV.- Visitar periódicamente el Distrito en el que hayan sido electos, e informar a sus habitantes de sus labores legislativas y de gestión del año anterior, en el primer receso de cada año, en actos públicos o por los medios de comunicación más idóneos.
 
 Los Diputados de representación proporcional cumplirán con esta misma obligación en la circunscripción en que fueron electos, sin perjuicio de hacerlo en forma conjunta y atendiendo a su filiación partidista.
 
-V.- Presentar un informe anual a la Legislatura de los trabajos realizados dentro y fuera de sus Distritos durante los recesos respectivos. dentro de las tres primeras sesiones siguientes a la apertura del segundo período ordinario de sesiones de cada año.
+V.- Presentar un informe anual a la Legislatura de los trabajos realizados dentro y fuera de sus Distritos durante los recesos respectivos dentro de las tres primeras sesiones siguientes a la apertura del segundo período ordinario de sesiones de cada año.
 
-###### ARTICULO 70.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 72.
 
 Se considerará como falta de informe, el no realizar un mínimo de cinco acciones que contengan cuando menos tres gestiones de carácter colectivo y dos de carácter individual.
 
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
 ### CAPITULO III. DE LOS DIPUTADOS SUPLENTES
 
-###### ARTICULO 71.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-La Legislatura, por conducto de su Presidente, llamará al suplente del Diputado Propietario, además de los previstos en al Capitulo IV de este Titulo, en los siguientes casos:
+###### ARTICULO 73.
 
-I.- Cuando el Diputado Propietario solicitare licencia para separarse de su cargo.
+La Legislatura, por conducto de su Presidente, llamará al suplente del Diputado Propietario, además de los previstos en el Capítulo IV de este Título, en los siguientes casos:
+
+I.- Cuando el Diputado propietario solicitare ante la Presidencia de la Mesa Directiva de la Legislatura o de la Diputación Permanente, en su caso, licencia por escrito para separarse de su cargo y ésta sea aprobada en los términos de la presente Ley.
 
 II.- Cuando fuere separado de su encargo y se le retire el fuero constitucional.
 
 III.- Cuando falleciere estando en ejercicio.
 
-###### ARTICULO 72.
+En el caso de Diputados electos por el principio de representación proporcional, la designación del suplente se hará conforme al procedimiento previsto en la ley en materia electoral del Estado.
 
-El Presidente do la Legislatura comunicará al Diputado suplente el acuerdo de la Legislatura y le señalará día y hora para que en sesión ordinaria o extraordinaria se presente a rendir la protesta de ley y desde luego entre al desempeño de su encargo.
-
-### CAPITULO IV. DE LAS SANCIONES
-
-###### ARTICULO 73.
-
-El Diputado suplente, al entrar en ejercicio, se integrará a las Comisiones a que pertenecía el Diputado suplido y continuará las funciones legales de éste.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 74.
 
-Se sancionará con la suspensión de pago de las dietas correspondientes al período de receso siguiente, al Diputado que no informe a la población en la forma y términos previstos por la fracción IV del artículo 69 de esta Ley.
+El Presidente de la Legislatura comunicará al Diputado suplente el acuerdo de la Legislatura y le señalará día y hora para que en sesión ordinaria o extraordinaria se presente a rendir la protesta de ley y desde luego entre al desempeño de su encargo.
+
+Comprobada por el Presidente de la Mesa Directiva de la Legislatura la citación hecha al suplente y no obstante, éste no se presentase a rendir la protesta de ley, la Legislatura hará la Declaratoria correspondiente y procederá conforme a lo previsto en la legislación respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 75.
 
-Se sancionará con la suspensión de pago de las dietas correspondientes al receso siguiente, al Diputado que no rinda a la Legislatura el informe a que se refiere la fracción V del artículo 69 de esta Ley.
+El Diputado suplente, al entrar en ejercicio, se integrará a las Comisiones a que pertenecía el Diputado al que suple y tendrá las atribuciones y obligaciones de este último.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO IV. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 76.
 
-Los Diputados que sin causa justificada o sin permiso de la Legislatura no concurran a las sesiones de los Períodos Ordinarios o Extraordinarios no se les cubrirá la dieta correspondiente a las sesiones que dejaren de asistir.
+Se sancionará con la suspensión de pago de las dietas correspondientes al período de receso siguiente, al Diputado que no informe a la población en la forma y términos previstos por la fracción IV del artículo 71 de esta ley.
 
-Para determinar el importe de la dieta que dejarán de percibir, se dividirá el total de la dieta de un mes entre el número de sesiones, aplicándose el resultado por cada sesión que faltaren.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 77.
 
-La inasistencia con o sin justificación, a diez sesiones consecutivas en un Período Ordinario o Extraordinario de Sesiones, establece la presunción de que el Diputado faltista renuncia a concurrir a todo el Período respectivo. En este caso, se llamará al suplente para que lo reemplace en el (sic) todo el Periodo, el que deberá rendir la protesta de rigor para ejercer el cargo solamente en el Período que reemplaza.
+Se sancionará con la suspensión de pago de las dietas correspondientes al receso siguiente, al Diputado que no rinda a la Legislatura el informe a que se refiere la fracción V del artículo 71 de esta ley.
 
-Al Diputado faltista que se encuentre en el caso previsto en el párrafo anterior, no se le cubrirán las dietas del Período en el que fue reemplazado, cubriéndose al suplente en funciones las dietas correspondientes a las sesiones que asista y las del receso siguiente al Período respectivo, pero si sus inasistencias fueran por causa justificada calificada por la Legislatura o se le elija integrante de la Diputación Permanente, se le cubrirán al propietario, las dietas del periodo de receso siguiente.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 78.
 
-Al presentarse el Diputado al siguiente periodo de sesiones o si fuere electo integrante de la Diputación Permanente, para entrar en funciones deberá volverá rendir la protesta de ley. Si volviera a incurrir en el caso previsto en el primer párrafo del artículo anterior, se llamará en definitiva al suplente.
+A los Diputados que sin causa justificada a juicio del Presidente de la Mesa Directiva de la Legislatura, no concurran a las sesiones de los períodos ordinarios o extraordinarios, no se les cubrirá la dieta correspondiente a las sesiones que dejaren de asistir.
+
+Para determinar el importe de la dieta que dejarán de percibir, se dividirá el total de la dieta de un mes entre el número de sesiones, aplicándose el resultado por cada sesión que faltaren.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 79.
 
-Para el logro de sus objetivos y la realización de sus funciones, el Poder Legislativo contara con las siguientes Dependencias:
+La inasistencia sin justificación a diez sesiones consecutivas en un Período Ordinario o Extraordinario de Sesiones, establece la presunción de que el Diputado faltista renuncia a concurrir a todo el Período respectivo. En este caso, se llamará al suplente para que lo reemplace en todo el Período, el que deberá rendir la protesta de rigor para ejercer el cargo solamente en el Período que remplaza (sic).
+
+Al Diputado faltista que se encuentre en el caso previsto en el párrafo anterior, no se le cubrirán las dietas del Período en el que fue remplazado, cubriéndose al suplente en funciones las dietas correspondientes a las sesiones que asista y las del receso siguiente al Período respectivo, pero si sus inasistencias fueran por causa justificada calificada por la Mesa Directiva de la Legislatura, se le cubrirán al propietario, las dietas del período de (sic) receso siguiente.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 80.
+
+Al presentarse el Diputado al siguiente período de sesiones, para entrar en funciones deberá volver a rendir la protesta de ley. Si volviera a incurrir en el caso previsto en el primer párrafo del artículo anterior, se llamará en definitiva al suplente.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+## TITULO OCTAVO. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 81.
+
+Para el logro de sus objetivos y la realización de sus funciones, el Poder Legislativo contará con las siguientes Dependencias:
 
 I.- Oficialía Mayor.
 
@@ -665,67 +985,99 @@ VI.- Dirección de Comunicación Social y Crónica Legislativa.
 
 VII.- Dirección de Informática Legislativa.
 
-VIII.- Las demás que coadyuven a las funciones de las anteriores.
+VIII.- Dirección de Archivo General y Biblioteca.
 
-###### ARTICULO 80.
+IX.- Las demás que coadyuven a las funciones de las anteriores.
 
-Las Dependencias del Poder Legislativo estarán a cargo de un titular nombrado por el Pleno de la Legislatura a propuesta de la Gran Comisión y por el personal necesario para la ejecución de sus funciones previsto en el Presupuesto de Egresos.
-
-## TITULO OCTAVO. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
-
-### CAPITULO II. DE LA OFICIALIA MAYOR
-
-###### ARTICULO 81.
-
-Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el artículo 95 de la, Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 82.
 
-Para relevar a los titulares de las Dependencias del Poder Legislativo, se requerirá plena justificación calificada por el voto de las dos terceras partes de los miembros de la Legislatura.
+Las Dependencias del Poder Legislativo estarán a cargo de un titular nombrado por el Pleno de la Legislatura a propuesta de la Gran Comisión y por el personal necesario para la ejecución de sus funciones previsto en el Presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 83.
 
-El nombramiento y remoción del personal del Poder Legislativo será hecho por la Gran Comisión, por conducto de la Oficialía Mayor, observado las disposiciones legales y administrativas aplicables.
+Para ser titular de las- Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o licenciado en derecho, con título expedido por institución educativa con reconocimiento oficial, y del titular de la Contaduría Mayor de Hacienda, quien se sujetará a lo dispuesto por el Artículo 92 de esta ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 84.
 
-Los empleados y obreros que presten sus servicios en el Poder Legislativo, no serán removidos durante los recesos de los puestos que ocupen y gozaran del sueldo íntegro asignado en la partida correspondiente del Presupuesto de Egresos. El ordenamiento correspondiente preverá los casos de suspensión o cambio de una Dependencia a otra, de conformidad a los (sic) dispuesto en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial y Organismos Descentralizados del Estado de Quintana Roo y en las Condiciones Generales de Trabajo.
+Para relevar a los titulares de las Dependencias del Poder Legislativo, se requerirá plena justificación calificada por el voto de las dos terceras partes de los miembros de la Legislatura.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 85.
 
-Corresponde a la Oficialía Mayor la administración de los recursos financieros, humanos y materiales del Poder Legislativo, de conformidad con los lineamientos de la Gran Comisión y las disposiciones legales y administrativas aplicables.
+El nombramiento y remoción del personal del Poder Legislativo será hecho por la Gran Comisión, por conducto de la Oficialía Mayor, observado, las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 86.
 
-El Oficial Mayor gestionará ante la Secretaría del ramo correspondiente de la Administración Pública del Estado, con la oportunidad que se requiera, la obtención de los recursos asignados al Poder Legislativo, preferentemente en períodos trimestrales. Bajo su vigilancia y responsabilidad se harán los pagos de dietas de los Diputados, gastos y sueldos de los titularas y personal de las Dependencias, así como de los demás compromisos contraídos.
+Los empleados y obreros que presten sus servicios en el Poder Legislativo, no serán removidos durante los recesos de los puestos que ocupen y gozarán del sueldo íntegro asignado en la partida correspondiente del Presupuesto de Egresos. El ordenamiento correspondiente preverá los casos de suspensión o cambio de una Dependencia a otra, de conformidad a los (sic) dispuesto en la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial y Organismos Descentralizados del Estado de Quintana Roo y en las Condiciones Generales de Trabajo.
 
-### CAPITULO III. DE LA CONTADURIA MAYOR DE HACIENDA
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO II. DE LA OFICIALIA MAYOR
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 87.
 
-El Oficial Mayor rendirá mensualmente a la Gran Comisión, un informe sobre el origen y aplicación da los recursos que correspondan al Poder (sic).
+Corresponde a la Oficialía Mayor la administración de los recursos financieros, humanos y materiales del Poder Legislativo, de conformidad con los lineamientos de la Gran Comisión y las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 88.
 
-El Oficial Mayor proveerá de lo necesario a los Diputados, Comisiones y Dependencias del Poder Legislativo, para al debido ejercicio da sus atribuciones, facultades y funciones. Dispondrá la ubicación adecuada del personal y promoverá su capacitación y la aplicación eficiente de los bienes, materiales y equipo, en los servicios que se requieran.
+El Oficial Mayor gestionará ante la Secretaría del ramo correspondiente de la Administración Pública del Estado, con la oportunidad que se requiera, la obtención de los recursos asignados al Poder Legislativo, preferentemente en períodos trimestrales. Bajo su vigilancia y responsabilidad se harán los pagos de dietas de los Diputados, gastos y sueldos de los titulares y personal de las Dependencias, así como de los demás compromisos contraídos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 89.
 
-Estará a cargo del Oficial Mayor expedir los nombramientos y ejecutar las bajas de personal de las Dependencias del Poder Legislativo acordadas por la Gran Comisión; así como autorizar las altas y bajas de los bienes muebles y ejercer actos de dominio sobre el patrimonio del Poder Legislativo que aquella acuerde.
+El Oficial Mayor rendirá mensualmente a la Gran Comisión, un informe sobre el origen y aplicación de los recursos que correspondan al Poder (sic)
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 90.
 
-La Contaduría Mayor de Hacienda es el órgano técnico encargado de la revisión, fiscalización y evaluación superior en materia de presupuesto, deuda y cuenta pública, dependiente del Poder Legislativo, mediante el cual éste ejerce sus atribuciones constitucionales y legales.
+El Oficial Mayor proveerá de lo necesario a los Diputados, Comisiones y Dependencias del Poder Legislativo, para el debido ejercicio de sus atribuciones, facultades y funciones. Dispondrá la ubicación adecuada del personal y promoverá su capacitación y la aplicación eficiente de los bienes, materiales y equipo, en los servicios que se requieran.
 
-La Ley Orgánica de la Contaduría Mayor de Hacienda establecerá los requisitos que deberá satisfacer su titular y señalará las funciones y atribuciones de aquélla, sin perjuicio de lo dispuesto por la presente Ley y su reglamento.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 91.
 
-Para la realización de estudios jurídicos e investigaciones legislativas en las que se apoyen los dictámenes y demás resoluciones de la Legislatura o de sus Comisiones, habrá una Dirección de Apoyo Jurídico.
+Estará a cargo del Oficial Mayor expedir los nombramientos y ejecutar las bajas del personal de las Dependencias del Poder Legislativo acordadas por la Gran Comisión; así como autorizar las altas y bajas de los bienes muebles y ejercer actos de dominio sobre el patrimonio del Poder Legislativo que aquélla acuerde.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO III. DE LA CONTADURIA MAYOR DE HACIENDA
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 92.
+
+La Contaduría Mayor de Hacienda es el órgano técnico encargado de la revisión, fiscalización y evaluación superior en materia de presupuesto, deuda y cuenta pública, dependiente del Poder Legislativo, mediante el cual éste ejerce sus atribuciones constitucionales y legales.
+
+La Ley Orgánica de la Contaduría Mayor de Hacienda establecerá los requisitos que deberá satisfacer su titular y señalará las funciones y atribuciones de aquélla, sin perjuicio de lo dispuesto por la presente Ley y su reglamento, así como los Acuerdos que expida la Legislatura o la Gran Comisión relacionados con la actuación del órgano técnico.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO IV. DE LA DIRECCION DE APOYO JURIDICO
 
-###### ARTICULO 92.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 93.
+
+Para la realización de estudios jurídicos e investigaciones legislativas en las que se apoyen los dictámenes y demás resoluciones de la Legislatura o de sus Comisiones, habrá una Dirección de Apoyo Jurídico.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 94.
 
 La Dirección de Apoyo Jurídico tendrá las siguientes funciones:
 
@@ -747,13 +1099,19 @@ VIII.- A través del personal profesional adscrito, dar orientación y apoyar la
 
 IX.- Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
 
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
 ### CAPITULO V. DE LA DIRECCION DE CONTROL DEL PROCESO LEGISLATIVO
 
-###### ARTICULO 93.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-Para el control y sustanciación del proceso legislativo, habrá una Dirección de Control del Proceso Legislativo, que apoyará las funciones del Secretario de la Legislatura o de la Diputación Permanente en esta materia.
+###### ARTICULO 95.
 
-###### ARTICULO 94.
+Para el control y sustanciación del proceso legislativo, habrá una Dirección de Control del Proceso Legislativo, que apoyará las funciones del Secretario de la Mesa Directiva de la Legislatura o de la Diputación Permanente en esta materia.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 96.
 
 La Dirección de Control del Proceso Legislativo tendrá las siguientes funciones:
 
@@ -763,21 +1121,29 @@ II.- Llevar los expedientes de Leyes y Decretos que se hayan sometido a la consi
 
 III.- Cuidar que las Iniciativas, Dictámenes y votos particulares que vayan a ser objeto de debate se impriman y circulen con oportunidad entre los Diputados.
 
-IV.- Apoyar al Secretario en la elaboración de los libros de registro, el levantamiento de las actas de las sesiones, formulación de las minutas y en la expedición de leyes, decretos o resoluciones que apruebe la Legislatura o la Diputación Permanente.
+IV.- Apoyar al Secretario de la Mesa Directiva en la elaboración de los libros de registro, el levantamiento de las actas de las sesiones, formulación de las minutas y en la expedición de leyes, decretos o resoluciones que apruebe la Legislatura o la Diputación Permanente.
 
 V.- Preparar y organizar las sesiones de la Legislatura y de la Diputación Permanente o de las Comisiones, conforme a las instrucciones del Presidente respectivo.
 
-VI.- Llevar a cabo la trascripción de los debates y la recopilación de los documentos examinados en las sesiones, para su publicación en el "Diario de los Debates".
+VI.- Llevar a cabo la transcripción de los debates y la recopilación de los documentos examinados en las sesiones, para su publicación en el "Diario de los Debates".
 
 VII.- Resguardar el archivo documental de la Secretaría, así como de las leyes y decretos que expida la Legislatura.
 
-VII.- Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la Legislatura o el Secretario de la misma.
+VIII.- Las demás inherentes al cumplimiento de las anteriores y las que expresamente le designe la Legislatura o el Secretario de la misma.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO VI. DE LA DIRECCION DE GESTORIA Y APOYO A LA COMUNIDAD
 
-ARTICULO 94 (sic).- Para la organización de la gestoría y apoyo a la comunidad que los Diputados promuevan, habrá una Dirección de Gestoría y Apoyo a la Comunidad.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 95.
+###### ARTICULO 97.
+
+Para la organización de la gestoría y apoyo a la comunidad que los Diputados promuevan, habrá una Dirección de Gestoría y Apoyo a la Comunidad.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 98.
 
 La Dirección de Gestoría y Apoyo a la Comunidad tendrá las siguientes funciones:
 
@@ -793,7 +1159,19 @@ V.- Rendir los informes que le solicite la Gran Comisión respecto de su activid
 
 VI.- Las demás que le encomiende la Gran Comisión o le señale la Legislatura.
 
-###### ARTICULO 96.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO VII. DE LA DIRECCION DE COMUNICACION SOCIAL Y CRONICA LEGISLATIVA
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 99.
+
+A través de la Dirección de Comunicación Social, el Poder Legislativo informará a la sociedad en general a través de los medios de comunicación social más idóneos, de las actividades de la Legislatura, de la Diputación Permanente, de las Comisiones, de las Dependencias y de los demás Organos del Poder Legislativo, así como de las que realicen los Diputados dentro o fuera del Distrito en que fueron electos, por encomienda de la Legislatura.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 100.
 
 La Dirección de Comunicación Social tendrá las siguientes funciones:
 
@@ -809,15 +1187,19 @@ V.- Llevar la crónica de las actividades legislativas y de las que se realicen 
 
 VI.- Las demás inherentes al cumplimiento de las anteriores y las que expresamente le asigne la Legislatura.
 
-### CAPITULO VII. DE LA DIRECCION DE COMUNICACION SOCIAL Y CRONICA LEGISLATIVA
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-ARTICULO 95 (sic).- A través de la Dirección de Comunicación Social, el Poder Legislativo informará a la sociedad en general a través de los medios de comunicación social más idóneos, de las actividades de la Legislatura, de la Diputación Permanente, de las Comisiones, de las Dependencias y de los demás Organos del Poder Legislativo, así como de las que realicen los Diputados dentro o fuera del Distrito en que fueron electos, por encomienda de la Legislatura.
+### CAPITULO VIII. DE LA DIRECCION DE INFORMATICA LEGISLATIVA
 
-###### ARTICULO 97.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-Para el desarrollo de sistemas computacionales que tengan por objeto la compilación, manejo y control da todos los documentos relacionados con las leyes, decretos y otras disposiciones del Estado, habrá una Dirección de Informática Legislativa.
+###### ARTICULO 101.
 
-###### ARTICULO 98.
+Para el desarrollo de sistemas computacionales que tengan por objeto la compilación, manejo y control de todos los documentos relacionados con las leyes, decretos y otras disposiciones del Estado, habrá una Dirección de Informática Legislativa.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 102.
 
 La Dirección de Informática Legislativa tendrá las siguientes funciones:
 
@@ -829,101 +1211,179 @@ III.- Auxiliar a las Comisiones y demás Dependencias del Poder Legislativo en e
 
 IV.- Las demás inherentes a las anteriores y las que le encomiende la Legislatura.
 
-### CAPITULO VIII. DE LA DIRECCION DE INFORMATICA LEGISLATIVA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 99.
+### CAPITULO IX. DE LA DIRECCION DE ARCHIVO GENERAL Y BIBLIOTECA
 
-Las responsabilidades administrativas en que incurran los titulares y personal de confianza de las Dependencias del Poder Legislativo, serán calificadas y sancionadas por la Gran Comisión de la Legislatura, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y del Reglamento Interior o del que al efecto se expida.
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 100.
+###### ARTICULO 103.
 
-Toda iniciativa, para convertirse en Ley o Decreto, se sujetará al procedimiento establecido en el presente Título, salvo los casos que expresamente acuerde la Legislatura con arreglo a esta Ley.
+Para el resguardo y ordenación de la documentación que conforma la historia legislativa y la que sea emitida por la Legislatura en ejercicio, que permita su adecuada consulta, habrá una Dirección de Archivo General y Biblioteca.
 
-### CAPITULO IX. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 101.
+###### ARTICULO 104.
 
-De toda iniciativa promovida por quienes tienen derecho a ello, de conformidad con el artículo 68 de la Constitución Política del Estado, se dará cuenta a la Legislatura, con lo que se iniciará el proceso legislativo.
+La Dirección de Archivo General y Biblioteca tendrá las siguientes funciones:
 
-###### ARTICULO 102.
+I.- Promover la formación de un acervo bibliográfico del Poder Legislativo.
 
-Las iniciativas deberán presentarse por escrito y contener en forma clara y precisa el nombre de la Ley o motivo del Decreto, una exposición de motivos, las disposiciones legales en las que se funde y el contenido expuesto en forma sistemática en enunciados breves y precisos que constituirán sus artículos debidamente numerados. Podrán presentarse con subdivisiones en Títulos, Capítulos o Libros que permitan su mejor estudio y comprensión. Deberán estar fechadas y señalar el lugar de emisión, con el nombre y firma autógrafa de su autor. Sin estos requisitos no pasarán a conocimiento del Pleno.
+II.- Diseñar, aplicar y vigilar las políticas de los procesos técnicos de selección, clasificación, catalogación, resguardo y conservación bibliográfica, así como de la documentación que constituye la historia legislativa, a efecto de facilitar la consulta institucional y pública del acervo bibliográfico del Poder Legislativo.
+
+III.- Dirigir y publicar el órgano informativo del Poder Legislativo, así como cuidar de su circulación.
+
+IV.- Promover la edición de publicaciones de leyes y decretos que se consideren de interés para la consulta de los propios Diputados, así como del público en general.
+
+V.- Llevar un control de los Periódicos Oficiales del Gobierno del Estado, así como de los Diarios Oficiales de la Federación, por orden cronológico, para uso exclusivo de consulta interna.
+
+VI.- Promover la traducción y difusión de leyes y decretos a las lenguas de los pueblos indígenas de la entidad, particularmente de aquéllos que se relacionan con los derechos de dichos pueblos.
+
+VII.- Crear y llevar el control de la hemeroteca del Poder Legislativo, preservando el acervo hemerográfico.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO I. DE LA INICIACION Y FORMACION DE LEYES
 
-###### ARTICULO 103.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+## TITULO NOVENO
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+### CAPITULO II. DEL DICTAMEN
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 105.
+
+Las responsabilidades administrativas en que incurran los titulares y personal de confianza de las Dependencias del Poder Legislativo, serán calificadas y sancionadas por la Gran Comisión de la Legislatura, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y del Reglamento Interior o del que al efecto se expida.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+## TITULO DECIMO. DEL PROCESO LEGISLATIVO
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO III. DEL DEBATE
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 106.
+
+Toda iniciativa, para convertirse en Ley o Decreto, se sujetará al procedimiento establecido en el presente Título, salvo los casos que expresamente acuerde la Legislatura con arreglo a esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 107.
+
+De toda iniciativa promovida por quienes tienen derecho a ello, de conformidad con el artículo 68 de la Constitución Política del Estado, se dará cuenta a la Legislatura, con lo que se iniciará el proceso legislativo.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 108.
+
+Las iniciativas deberán presentarse por escrito y contener en forma clara y precisa el nombre de la Ley o motivo del Decreto, una exposición de motivos, las disposiciones legales en las que se funde y el contenido expuesto en forma sistemática en enunciados breves y precisos que constituirán sus artículos debidamente numerados. Podrán presentarse con subdivisiones en Títulos, Capítulos o Libros que permitan su mejor estudio y comprensión. Deberán estar fechadas y señalar el lugar de emisión, con el nombre y firma autógrafa de su autor. Sin estos requisitos no pasarán a conocimiento del Pleno.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 109.
 
 Si en la primera lectura, la Legislatura estima que los motivos de la iniciativa no son suficientes o se requiere una ampliación de los conceptos y alcances, se citará a comparecer al autor por conducto de la Secretaría de la Legislatura, fijando fecha y hora, para que los exponga con mayores datos y elementos de juicio.
 
 Estas comparecencias se llevarán a cabo, por regla general, ante las Comisiones Ordinarias correspondientes y, únicamente en caso excepcional, cuando así lo acuerde la Legislatura, se efectuarán ante el Pleno. En este último caso, en la sesión en que comparezca el autor de la iniciativa, se le concederá el uso de la palabra desde la tribuna y dará respuesta a los cuestionamientos que le hicieren los Diputados.
 
-###### ARTICULO 104.
-
-Si el autor de la iniciativa fuere el Titular del Ejecutivo, la Legislatura podrá invitar a los Secretarios del Despacho, a los titulares de organismos descentralizados. entidades paraestatales o fideicomisos públicos, cuyas funciones u objetivos se relacionen con el asunto de la iniciativa, para que ilustren, amplíen o informen acerca de los conceptos y alcances de la iniciativa en cuestión.
-
-### CAPITULO II. DEL DICTAMEN
-
-### CAPITULO III. DEL DEBATE
-
-## TITULO NOVENO. DEL PROCESO LEGISLATIVO
-
-### CAPITULO IV. DE LA VOTACION
-
-###### ARTICULO 105.
-
-Dada la primera lectura, si no hay observaciones conforme a los artículos anteriores, pasará desde luego a la Comisión o Comisiones que señale el Presidente, para su estudio, análisis y dictamen.
-
-## TITULO DECIMO. DE LAS FACULTADES JURISDICCIONALES
-
-### CAPITULO V. DE LA EXPEDICION
-
-###### ARTICULO 106.
-
-En los casos de urgencia u obvia resolución calificados por el voto de las dos terceras partes de los Diputados presentes, se podrá dar curso a las iniciativas dispensando de su lectura y dictamen, procediendo a discutirse en ese mismo momento, observándose las formalidades reglamentarias del debate.
-
-###### ARTICULO 107.
-
-Las proposiciones o proyectos de los Diputados o ciudadanos que no sean iniciativas de Ley o Decreto, sufrirán el trámite que señalen las disposiciones reglamentarias.
-
-###### ARTICULO 108.
-
-Toda iniciativa de Ley o Decreto, turnada a la Comisión o Comisiones respectivas, será estudiada y discutida por ellas para ser dictaminada en forma clara, con una parte expositiva y otra propositiva, en apartados directos y puntos que puedan ser votados. Si una sola iniciativa fuere turnada a dos o más Comisiones, éstas trabajarán unidas y emitirán conjuntamente un solo dictamen.
-
-###### ARTICULO 109.
-
-Los dictámenes, luego de ser discutidos y aprobados, se firmarán por todos los miembros de la Comisión o Comisiones presentes y serán válidos con la firma de la mayoría de sus miembros.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 110.
 
-Si alguno o varios de los Diputados integrantes de una Comisión desistieren del parecer de la mayoría, sobre todo o algún punto del dictamen, podrán presentar a la hora de votación de tal dictamen, voto particular por escrito fundamentado (sic) y argumentando sus puntos de vista.
+Si el autor de la iniciativa fuere el Titular del Ejecutivo, la Legislatura podrá invitar a los Secretarios del Despacho, a los titulares de organismos descentralizados, entidades paraestatales o fideicomisos públicos, cuyas funciones u objetivos se relacionen con el asunto de la iniciativa, para que ilustren, amplíen o informen acerca de los conceptos y alcances de la iniciativa en cuestión.
 
-Los votos particulares deberán llenar los mismos requisitos del dictamen y deberán entregarse al Secretario de la Legislatura y hacerse circular entre los demás Diputados, previamente a la sesión en que se habrá de discutir el citado dictamen.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 111.
+
+Dada la primera lectura, si no hay observaciones conforme a los artículos anteriores, pasará desde luego a la Comisión o Comisiones que señale el Presidente, para su estudio, análisis y dictamen.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 112.
+
+En los casos de urgencia u obvia resolución calificados por el voto de las dos terceras partes de los Diputados presentes, se podrá dar curso a las iniciativas dispensando de su lectura y dictamen, procediendo a discutirse en ese mismo momento, observándose las formalidades reglamentarias del debate.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 113.
+
+Las proposiciones o proyectos de los Diputados o ciudadanos que no sean Iniciativas de Ley o Decreto, se sujetarán al trámite que señalen las disposiciones reglamentarias.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO IV. DE LA VOTACION
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 114.
+
+Toda Iniciativa de Ley o Decreto, turnada a la Comisión o Comisiones respectivas, será debidamente estudiada y discutida por ellas para ser dictaminada en forma clara, con una parte expositiva y otra propositiva, en apartados directos y puntos que puedan ser votados. Si una sola Iniciativa fuere turnada a dos o más Comisiones, éstas trabajarán unidas y emitirán conjuntamente un solo dictamen.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 115.
+
+Los dictámenes, luego de ser discutidos y aprobados, se firmarán por todos los miembros de la Comisión o Comisiones presentes y serán válidos con la firma de la mayoría de sus miembros.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 116.
+
+Si alguno o varios de los Diputados integrantes de una Comisión disintieren del parecer de la mayoría, sobre todo o algún punto del dictamen, podrán presentar voto particular por escrito fundamentado y argumentando sus puntos de vista.
+
+Los votos particulares deberán llenar los mismos requisitos del dictamen y deberán entregarse al Secretario de la Mesa Directiva de la Legislatura y hacerse circular entre los demás Diputados, previamente a la sesión en que se habrá de discutir el citado dictamen.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 117.
 
 Cuando para emitir un dictamen sea necesario la opinión, informes técnicos, copias de documentos o constancias que obren en poder de las Dependencias del Ejecutivo del Estado o de los Municipios, de sus organismos descentralizados, empresas de participación estatal o fideicomisos públicos, los Presidentes de las Comisiones dictaminadoras los solicitarán a los titulares de las entidades mencionadas, quienes deberán rendir o proporcionar lo solicitado a la brevedad posible.
 
 La negativa, omisión, negligencia o actitud dilatoria en cumplir lo solicitado, será motivo de responsabilidad administrativa, lo que se comunicará a la Secretaría Coordinadora del Sector a que corresponda la Entidad del Ejecutivo, al superior jerárquico o al Titular del Ejecutivo, según el caso, para que ordene se proporcione lo requerido y se aplique la sanción que corresponda, de conformidad con lo que establece la Ley Reglamentaria del Título Octavo de la Constitución Política del Estado.
 
-###### ARTICULO 112.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-Toda iniciativa de Ley o Decreto se someterá a debate, de conformidad con lo dispuesto en el presente Capítulo y en el Reglamento Interior y de Debates del Poder Legislativo.
+### CAPITULO V. DE LA EXPEDICION
 
-###### ARTICULO 113.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-Los Diputados harán uso de palabra alternativamente, en contra o en pro, en el orden en que se inscribieron, comenzando por la lista de los que se inscribieron en contra.
+###### ARTICULO 118.
 
-### CAPITULO I. DEL JUICIO POLITICO
+Toda Iniciativa de Ley o Decreto se someterá a debate, de conformidad con lo dispuesto en el presente Capítulo y en el Reglamento de esta Ley.
 
-###### ARTICULO 114.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 119.
+
+Los Diputados harán uso de la palabra en contra o a favor en el orden en que se inscribieron, conforme a las disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 120.
 
 Ningún Diputado podrá ser interrumpido mientras tenga la palabra, a menos de que se trate de moción de orden solicitada por un Diputado al Presidente en los casos previstos en el Reglamento.
 
-###### ARTICULO 115.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 121.
 
 No podrá llamarse al orden al orador que critique o censure a servidores públicos por faltas o errores cometidos en el desempeño de sus atribuciones oficiales, pero en caso de injurias o calumnias, el interesado podrá reclamar en la misma sesión cuando el orador haya terminado o en otra que se celebre en día inmediato. El Presidente instará al ofensor a retirarlas o satisfaga al ofendido. Si aquél no lo hiciere así, el Presidente mandará que no se inserte en el Diario de los Debates lo expresado por el ofensor y se levante en acta especial, para proceder a lo que hubiere lugar.
 
-###### ARTICULO 116.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 122.
 
 Ninguna discusión se podrá suspender sino solamente por las causas siguientes:
 
@@ -935,89 +1395,137 @@ III.- Por graves desórdenes en el Recinto Oficial de la Legislatura.
 
 IV.- Por falta de quórum, con la simple declaración del Presidente.
 
-V.- Por proposición suspensiva, presentada por algún Diputado y sé apruebe por la mayoría.
+V.- Por proposición suspensiva, presentada por algún Diputado y se apruebe por la mayoría.
 
 VI.- En el caso previsto en el artículo 4 de esta Ley.
 
-###### ARTICULO 117.
+VII.- Cuando el orador se aparte del tema que motiva la discusión.
 
-Cuando a propuesta de algún Diputado y por acuerdo de la Legislatura se pidiere la comparecencia de algún servidor público, se concederá la palabra a quien hizo la propuesta y enseguida al servidor público, para que conteste o informe sobre el asunto en debate y posteriormente a los que la solicitaren en el orden de lista, para hacer las preguntas pertinentes.
-
-### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
-
-###### ARTICULO 118.
-
-Antes de comenzar el debate, podrán los servidores públicos informar a la Legislatura lo que estimen conveniente exponer en apoyo a la opinión que pretendan sostener.
-
-###### ARTICULO 119.
-
-Los servidores públicos no podrán hacer proposiciones ni adición alguna en las sesiones en que comparezcan. Todas las iniciativas o propuestas del Ejecutivo del Estado o de los Ayuntamientos, aún cuando se refieran al asunto que motivo la comparecencia del servidor público, deberán sufrir el trámite previsto en el presente Título.
-
-###### ARTICULO 120.
-
-Toda iniciativa se discutirá primero en lo general, o sea en su conjunto, y después en lo particular cada uno de sus artículos, si hubieren observaciones al contenido de alguno de éstos. Cuando conste de un solo artículo, se discutirá una sola vez.
-
-###### ARTICULO 121.
-
-Toda iniciativa que conste de más de cien artículos, podrá ser discutida por los Libros, Títulos, Capítulos o en las partes en las que la dividiesen sus autores o las Comisiones dictaminadoras.
-
-###### ARTICULO 122.
-
-En la discusión en lo particular, se podrán apartar los artículos, fracciones, incisos o párrafos que los Diputados quieran impugnar. Los demás artículos que no ameriten discusión se reservarán para su votación.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 123.
 
-Suficientemente discutido un proyecto, se votará en lo general y en lo particular, luego de ser discutido en tales sentidos. Si no fuera aprobado en lo general, se preguntará al Pleno si vuelve o no a la Comisión o Comisiones que dictaminaron. Si la resolución fuera negativa se tendrá por desechada.
+Cuando a propuesta de algún Diputado y por acuerdo de la Legislatura se pidiere la comparecencia de algún servidor público, se concederá la palabra a quien hizo la propuesta y enseguida al servidor público, para que conteste o informe sobre el asunto en debate y posteriormente a los que la solicitaren en el orden de lista, para hacer las preguntas pertinentes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 124.
 
-Cerrado el debate de cada uno de los artículos en particular, se procederá a la votación. Si fuere aprobado el artículo se reservará para que junto con los demás que tampoco fueron aprobados, regresen a la Comisión o Comisiones respectivas para formular dictamen de esos artículos de acuerdo a lo discutido por el Pleno.
+Antes de comenzar el debate, podrán los servidores públicos informar a la Legislatura lo que estimen conveniente exponer en apoyo a la opinión que pretendan sostener.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 125.
 
-No se votarán separadamente las iniciativas que hayan sido discutidas en términos del artículo 123 de esta Ley, salvo que lo pidiere algún Diputado y lo acordare el Pleno.
+Los servidores públicos no podrán hacer proposiciones ni adición alguna en las sesiones en que comparezcan. Todas las Iniciativas o propuestas del Ejecutivo del Estado o de los Ayuntamientos, aún cuando se refieran al asunto que motivó la comparecencia del servidor público, se sujetarán al trámite previsto en el presente Título.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 126.
 
-Podrá votarse en un sólo acto un proyecto de ley o decreto en lo general y en la totalidad o parte de sus artículos que no hayan sido impugnados. Lo mismo se observará si durante el debate ningún Diputado hiciere uso de la palabra o solamente lo hiciere en pro del Dictamen.
+Toda iniciativa se discutirá primero en lo general, o sea en su conjunto, y después en lo particular cada uno de sus artículos, si hubieren observaciones al contenido de alguno de éstos. Cuando conste de un solo artículo, se discutirá una sola vez.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 127.
 
-Después de ser declarados aprobados todos los artículos de un proyecto, pasará el expediente a la Comisión de Corrección y Estilo para que formule la Minuta de lo aprobado presentándola a la brevedad posible. La Minuta contendrá exactamente lo aprobado por la Legislatura, sin más variaciones que las correcciones que demande el buen uso del lenguaje y claridad de los Artículos.
+Toda iniciativa que conste de más de cien artículos, podrá ser discutida por los Libros, Títulos, Capítulos o en las partes en las que la dividiesen sus autores o las Comisiones dictaminadoras.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 128.
 
-Aprobada la Minuta de Ley o Decreto, se expedirá la Ley o Decreto correspondiente, debidamente autorizados por las firmas del Presidente y Secretario y con el sello de la Legislatura, bajo la siguiente fórmula: " La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo. Decreta: (Nombre y a continuación el texto aprobado de la Ley o Decreto). Cuando se trate de una Declaratoria se usará la misma fórmula con las modificaciones de mencionar el artículo de la Constitución en que se funda y la palabra Declara en lugar de "Decreta".
+En la discusión en lo particular, se podrán apartar los artículos, fracciones, incisos o párrafos que los Diputados quieran impugnar. Los demás artículos que no ameriten discusión se reservarán para su votación.
 
-Cuando el Decreto que expida la Legislatura carezca de los atributos de una Ley, se encuentre dirigido a un particular o se refiera a una situación jurídica concreta, la fórmula deberá contener los fundamentos y motivos legales que justifiquen la emisión de tal Decreto.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO I. DEL DIARIO DE LOS DEBATES
+### CAPITULO I. DEL JUICIO POLITICO
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 129.
 
-Las Leyes y Decretos de la Legislatura se enviarán al Ejecutivo para que se hagan las observaciones pertinentes o proceda a su publicación. Las Declaratorias se enviarán al Ejecutivo para su publicación, sin que éste pueda hacer observaciones excepto en las reformas a la Constitución del Estado. Lo anterior se observará en la expedición de la presente Ley o sus Reglamentos, o resoluciones que únicamente afecten el fuero interno del Congreso del Estado.
+Suficientemente discutido un proyecto de ley o decreto, se votará en lo general y en lo particular, luego de ser discutido en tales sentidos. Si no fuera aprobado en lo general, se someterá a votación del Pleno si vuelve o no a la Comisión o Comisiones que dictaminaron. Si la votación fuere en sentido negativo se tendrá por desechado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 130.
 
-Las observaciones hechas por el Ejecutivo a un Proyecto de Ley, en términos del artículo 70 de la Constitución Política del Estado, al volver a la Legislatura pasarán a la Comisión que dictaminó, la que emitirá nuevo dictamen que presentará a la Legislatura, pero solamente se discutirán y votarán en lo particular los artículos con observaciones del Ejecutivo y los artículos con modificaciones o adiciones que hiciere la Legislatura, observándose en todo caso, lo dispuesto por el artículo 71 de la Constitución Política del Estado.
+Cerrado el debate de cada uno de los artículos en particular, se procederá a la votación. Si no fuere aprobado el artículo se reservará para que junto con los demás que tampoco fueron aprobados, regresen a la Comisión o Comisiones respectivas para formular dictamen de esos artículos de acuerdo a lo discutido por el Pleno.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 131.
 
-En la interpretación, reforma, derogación o abrogación de las Leyes o Decretos, se observará el mismo procedimiento previsto en el presente Título.
+No se votarán separadamente las Iniciativas que hayan sido discutidas en términos del artículo 129 de esta Ley, salvo que lo pidiere algún Diputado y lo acordare el Pleno.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 132.
 
-La Legislatura del Estado conocerá de los casos de responsabilidad política en que incurran los servidores públicos a que se refiere la fracción I del artículo 170 de la Constitución Política del Estado, conforme a lo dispuesto en el Título Octavo de la propia Constitución, en la Ley de Responsabilidades de los Servidores Públicos del Estado y en el presente Capítulo.
+Podrá votarse en forma simultánea un proyecto de ley o decreto en lo general y en la totalidad o parte de sus artículos que no hayan sido impugnados. Lo mismo se observará si durante el debate ningún Diputado hiciere uso de la palabra o solamente lo hiciere en favor del Dictamen.
 
-También conocerá por medio de este procedimiento, de las declaratorias que le remitan las Cámaras del H. Congreso de la Unión, en términos del artículo 110 de la Constitución Política de los Estado Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 133.
 
-Hecha una denuncia, se turnará la misma a la Comisión de Justicia, la cual se avocará al examen previo de la denuncia para el efecto da determinar si satisface los requisitos de procedibilidad exigidos por la Ley de la materia.
+Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobadas, se turnarán de inmediato a la Comisión de Corrección y Estilo para la elaboración de la Minuta, corregida conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo. La Minuta podrá ser dispensada de su lectura si así lo aprueba el Pleno a propuesta de algún Diputado.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 134.
+
+Habiéndose dado lectura a la Minuta de Ley o Decreto, o dispensado en su caso de tal trámite, se expedirá la Ley o Decreto correspondiente, debidamente autorizados por las firmas del Presidente y Secretario de la Mesa Directiva y con el selló de la Legislatura, bajo la siguiente fórmula: "La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, Decreta: (Nombre y a continuación el texto aprobado de la Ley o Decreto). Cuando se trate de una Declaratoria se usará la misma fórmula con las modificaciones de mencionar el artículo de la Constitución en que se funda y la palabra Declara en lugar de "Decreta".
+
+Cuando el Decreto que expida la Legislatura carezca de los atributos de una Ley, se encuentre dirigido a un particular o se refiera a una situación jurídica concreta, la fórmula deberá contener los fundamentos y motivos legales que justifiquen la emisión de tal Decreto.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 135.
+
+Las Leyes y Decretos de la Legislatura se enviarán al Ejecutivo para que se hagan las observaciones pertinentes o proceda a su publicación. Las Declaratorias se enviarán al Ejecutivo para el único efecto de su publicación. Lo anterior se observará en la expedición de Decretos o resoluciones que únicamente afecten la organización interna del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 136.
+
+Las observaciones hechas por el Ejecutivo a un Proyecto de Ley, en términos del artículo 70 de la Constitución Política del Estado, al volver a la Legislatura pasarán a la Comisión que dictaminó, la que emitirá nuevo dictamen que presentará a la Legislatura, pero solamente se discutirán y votarán en lo particular los artículos con observaciones del Ejecutivo y los artículos con modificaciones o adiciones que hiciere la Legislatura, observándose en todo caso, lo dispuesto por el artículo 71 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 137.
+
+En la interpretación, reforma, derogación o abrogación de las Leyes o Decretos, se observará el mismo procedimiento previsto en el presente Título.
+
+## TITULO DECIMO PRIMERO. DE LAS FACULTADES JURISDICCIONALES
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO III. DE LA DESAPARICION DE LOS PODERES MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 138.
+
+La Legislatura del Estado conocerá de los casos de responsabilidad política en que incurran los servidores públicos a que se refiere la fracción I del artículo 170 de la Constitución Política del Estado, conforme a lo dispuesto en el Título Octavo de la propia Constitución, en la Ley de Responsabilidades de los Servidores Públicos del Estado y en el presente Capítulo.
+
+También conocerá por medio de este procedimiento, de las declaratorias que le remitan las Cámaras del Honorable Congreso de la Unión, en términos del Artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 139.
+
+Hecha una denuncia, se turnará la misma a la Comisión de Justicia, la cual se avocará al examen previo de la denuncia para el efecto de determinar si satisface los requisitos de procedibilidad exigidos por la Ley de la materia.
 
 Constituyen requisitos de procedibilidad, los siguientes:
 
-a).- Si la denuncia correspondiente es ratificada en tiempo y forma legal.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+a).- Si la denuncia correspondiente es ratificada personalmente por su autor dentro de los tres días hábiles siguientes a su presentación, ante el Presidente de la Comisión de Justicia.
 
 b).- Si el servidor público imputado es de los comprendidos en la fracción I del artículo 170 de la Constitución Política del Estado.
 
@@ -1025,35 +1533,39 @@ c).- Si las acciones u omisiones que se imputan al servidor público, son de los
 
 d).- Si el denunciante aportó juntamente con su escrito de denuncia los elementos de prueba que permitan determinar la presunta responsabilidad del servidor público o que orienten las investigaciones lo suficientemente como para poder establecerla.
 
-### CAPITULO II. DEL PROTOCOLO
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 134.
+###### ARTICULO 140.
 
 Si la Comisión de Justicia determina que la denuncia presentada reúne los requisitos de procedibilidad, remitirá la misma a la Legislatura para el efecto de que ésta dé inicio al procedimiento de juicio político. En caso contrario, la Comisión de Justicia desechará de plano la denuncia presentada por notoriamente improcedente.
 
-###### ARTICULO 135.
+###### ARTICULO 141.
 
 Al dar inicio al procedimiento de juicio político, la Legislatura elegirá una Comisión Instructora que se encargará de estudiar, analizar y determinar la procedencia de la denuncia en cuanto al fondo del asunto planteado y actuará, en su caso, como órgano de acusación.
 
-La Comisión Instructora se compondrá de tres miembros electos por el voto secreto de la mayoría de los Diputados presentes en la sesión respectiva y tendrá el carácter de transitoria.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-###### ARTICULO 136.
+La Comisión Instructora se compondrá de tres miembros elegidos conforme a lo previsto por el Artículo 41 de esta ley, y tendrá el carácter de transitoria.
 
-La Comisión Instructora podrá realizar el número y tipo de sesiones que acuerde su Presidente, en el lugar que al efecto señale, así corno las diligencias que en Derecho procedan, teniendo facultad para hacer inspecciones a oficinas o a cualquier otro lugar para revisar archivos, documentos y pedir copias o los originales de éstos. Podrá llamar a comparecer y formular interrogatorios a cualquier servidor público, empleado o persona que se vincule directa o indirectamente con el asunto en investigación, para lo cual tendrá todas las facultades que le permitan cumplir con su cometido, de acuerdo a las leyes.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 142.
+
+La Comisión Instructora podrá realizar el número y tipo de sesiones que acuerde su Presidente, en el lugar que al efecto señale, así como las diligencias que en Derecho procedan, teniendo facultad para hacer inspecciones a oficinas o a cualquier otro lugar para revisar archivos, documentos y pedir copias o los originales de éstos. Podrá llamar a comparecer y formular interrogatorios a cualquier servidor público, empleado o persona que se vincule directa o indirectamente con el asunto en investigación, para lo cual tendrá todas las facultades que le permitan cumplir con su cometido, de acuerdo a las leyes.
 
 La negativa u omisión de autoridades o particulares para facilitar la labor de la Comisión u obstaculizar su función, producirá la responsabilidad que corresponda y la modalidad del delito de encubrimiento.
 
-###### ARTICULO 137.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 143.
 
 La Comisión Instructora tendrá un término de 5 días naturales, prorrogables por otros 3 a solicitud de su Presidente ante la Legislatura, contados a partir de la fecha en que se hubiera desahogado la última diligencia procesal, para presentar sus conclusiones. Para este efecto analizará clara y metódicamente la conducta o los hechos imputados y hará las consideraciones jurídicas que procedan para justificar, en su caso, la conclusión o la continuación del procedimiento.
 
-## TITULO DECIMO PRIMERO. PREVENCIONES GENERALES
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO III. DEL PUBLICO
+###### ARTICULO 144.
 
-###### ARTICULO 138.
-
-Si de las constancias del procedimiento se desprende la inocencia del encausado, las conclusiones de la Comisión Instructora terminarán proponiendo que no ha lugar a proceder en su contra, por la conducta o el hecho materia de la denuncia que dio origen al procedimiento.
+Si de las constancias del procedimiento se desprende la inocencia del servidor público denunciado, las conclusiones de la Comisión Instructora terminarán proponiendo que no ha lugar a proceder en su contra, por la conducta o el hecho materia de la denuncia que dio origen al procedimiento.
 
 Si de las constancias aparece la probable responsabilidad del servidor público, las conclusiones de la Comisión terminarán proponiendo lo siguiente:
 
@@ -1063,131 +1575,197 @@ II.- Que existe probable responsabilidad del servidor público encausado.
 
 III.- Que la sanción debe imponerse de acuerdo con la ley.
 
-En este caso la Comisión Instructora enviará sus conclusiones al Secretario de la Legislatura, en concepto de acusación, solicitando se continúe con el procedimiento relativo.
+En este caso, la Comisión Instructora enviará sus conclusiones al Secretario de la Mesa Directiva, con el carácter de acusación, solicitando se continúe con el procedimiento correspondiente.
 
-###### ARTICULO 139.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-Recibidas las conclusiones de la Comisión Instructora por el Secretario, éste dará cuenta al Presidente de la Legislatura, quien anunciará a la propia Legislatura sobre la imputación dentro de los tres días naturales siguientes.
+###### ARTICULO 145.
+
+Recibidas las conclusiones de la Comisión Instructora por el Secretario de la Mesa Directiva, éste dará cuenta al Presidente de la Legislatura, quien anunciará a la propia Legislatura sobre la imputación dentro de los tres días naturales siguientes.
 
 La Legislatura, reunida en pleno, celebrará una sesión para el efecto de discutir el dictamen de la Comisión Instructora y votar su aprobación o rechazo. Si la Legislatura rechaza el dictamen presentado, el Presidente de la misma declarará que no ha lugar a iniciar Juicio Político en contra del servidor público denunciado por los actos o hechos imputados. En caso contrario, la Legislatura iniciará el Juicio Político actuando como Jurado de Sentencia, con exclusión de los miembros de la Comisión Instructora, mediante Declaratoria que se hará bajo la siguiente fórmula: "La Legislatura del Estado Libre y Soberano de Quintana Roo, inicia hoy Juicio Político en contra del ciudadano ".
 
-###### ARTICULO 140.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 146.
 
 Una vez iniciado el Juicio Político, el Presidente de la Legislatura lo hará saber al denunciante y al servidor público denunciado, para que aquél se presente por si y éste lo haga personalmente asistido de su defensor, a fin de que aleguen lo que a su derecho convenga en la sesión de audiencia respectiva.
 
-###### ARTICULO 141.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 147.
 
 El Secretario de la Legislatura dará fe e instruirá las resoluciones de trámite y de fondo que se pronuncien en el procedimiento de Juicio Político. Bajo su responsabilidad dará cuenta al Presidente de la Legislatura de documentos, actuaciones y cómputo de los términos, asentando razón de ello en el expediente que al efecto se abra.
 
-###### ARTICULO 142.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-En la sesión de audiencia de conclusiones, alegatos y resolución definitiva, el Presidente de la Legislatura, luego de declarar abierta la sesión, procederá a informar al Pleno del estado en que se encuentra el expediente y acto seguido concederá el uso de la palabra al Presidente de la Comisión Instructora o a alguno de sus miembros que lo solicite y al servidor público al que se le instruye el Juicio Político, en forma alternada. Podrán hacer uso de la palabra una sola vez hasta tres miembros de la Comisión y hasta dos veces su Presidente, concediendo la palabra por cada vez al servidor público encausado.
+###### ARTICULO 148.
 
-###### ARTICULO 143.
+En la sesión de audiencia de conclusiones, alegatos y resolución definitiva, el Presidente de la Mesa Directiva de la Legislatura, luego de declarar abierta la sesión, procederá a informar al Pleno del estado en que se encuentra el expediente y acto seguido concederá el uso de la palabra al Presidente de la Comisión Instructora o a alguno de sus miembros que lo solicite y al servidor público al que se le instruye el Juicio Político, en forma alternada. Podrán hacer uso de la palabra una sola vez hasta tres miembros de la Comisión y hasta dos veces su Presidente, concediendo la palabra por cada vez al servidor público sujeto a juicio.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 149.
 
 Concluida la etapa de conclusiones y alegatos, el Presidente de la Legislatura pedirá a los miembros del Jurado resolver en justicia, equidad y apegado a Derecho; y declarará un receso para que los Diputados miembros del Jurado de Sentencia procedan a deliberar a conciencia.
 
-###### ARTICULO 144.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 150.
 
 Reanudada la sesión, se concederá el uso de la palabra a un miembro del Jurado y a otro que lo solicitare. No podrán hacer uso de la palabra más de dos oradores.
 
 Al concluir el último orador, se tomará votación nominal. Cada miembro del Jurado dirá si el servidor público es o no responsable, o con la palabra "SI" o "NO". Esta votación podrá ser sustituida por cédula, si así lo pidiere algún Diputado y lo acordare el Pleno.
 
-###### ARTICULO 145.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-Si la votación fuere en el sentido de que ES RESPONSABLE el servidor público, se emitirá resolución en esa misma sesión, de conformidad a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado. Si además, los hechos fueren constitutivos de delito de acuerdo a lo dispuesto en la Legislación Penal vigente en el Estado, se mandará copia certificada del expediente al Procurador General de Justicia del Estado para que, Llenados los requisitos legales, se ejercite acción penal en contra del servidor público responsable.
+###### ARTICULO 151.
 
-###### ARTICULO 146.
+Si la votación fuere en el sentido de que ES RESPONSABLE el servidor público, se emitirá resolución en esa misma sesión, de conformidad a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado. Si además, los hechos fueren constitutivos de delito de acuerdo a lo dispuesto en la Legislación Penal vigente en el Estado, se mandará copia certificada del expediente al Procurador General de Justicia del Estado para que, llenados los requisitos legales, se ejercite acción penal en contra del servidor público responsable.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 152.
 
 Si la votación fuere en el sentido de que NO ES RESPONSABLE el servidor público, se declarará concluido el procedimiento y se mandará a archivar el expediente relativo.
 
-###### ARTICULO 147.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 153.
 
 En la sustanciación del Juicio Político, son aplicables en lo que sea conducente y que no se oponga al presente Capítulo, ni a la Constitución Política del Estado, ni a la Ley Reglamentaria de su Título Octavo, las disposiciones del Código de Procedimientos Penales. También son aplicables las disposiciones que regulan las sesiones y los debates, previstas en la presente Ley y su Reglamento.
 
-###### ARTICULO 148.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 154.
 
 Cuando a algún Diputado se le instruya Juicio Político, no ejercerá sus funciones de Diputado ni tomará parte en trabajo o Comisión alguna.
 
-###### ARTICULO 149.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-La Legislatura conocerá mediante el procedimiento de Declaratoria de procedencia, previo cumplimiento de los requisitos legales para el ejercicio de la acción penal, de las denuncias o querellas de los particulares o requerimientos del Ministerio Público, a fin de que pueda procederse por la vía penal en contra de los servidores públicos a que se refiere el artículo 170 fracción II de la Constitución Política del Estado.
+### CAPITULO I. DEL DIARIO DE LOS DEBATES
 
-También conocerá por medio de este procedimiento, de las declaratorias de procedencia que le remitan las Cámaras del H. Congreso de la Unión, en términos del artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 150.
+###### ARTICULO 155.
 
-En la sustanciación del procedimiento de Declaratoria de Procedencia, se observarán las disposiciones conducentes del Capítulo anterior y las relativas que establezcan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos, hecha excepción de lo siguiente:
+La Legislatura conocerá mediante el procedimiento de Declaratoria de Procedencia, previo cumplimiento de los requisitos legales para el ejercicio de la acción penal, de las denuncias o querellas de los particulares o requerimientos del Ministerio Público, a fin de que pueda procederse por la vía penal en contra de los servidores públicos a que se refiere el artículo 170 fracción II de la Constitución Política del Estado.
 
-a).- E dictamen que presente la Comisión Instructora será en el sentido de que ha o no ha lugar a proceder penalmente en contra del servidor público inculpado.
+También conocerá por medio de este procedimiento, de las declaratorias de procedencia que le remitan las Cámaras del H. Congreso de la Unión, en términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 156.
+
+En la substanciación del procedimiento de Declaratoria de Procedencia, se observarán las disposiciones conducentes del capítulo anterior, incluido el procedimiento de examen previo por parte de la Comisión de Justicia y las relativas que establezcan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos, hecha excepción de lo siguiente:
+
+a).- El dictamen que presente la Comisión Instructora será en el sentido de que ha o no ha lugar a proceder penalmente en contra del servidor público inculpado.
 
 b).- Si el dictamen de la Comisión Instructora fuere en el sentido de que no ha lugar a proceder penalmente en contra del servidor público incoado, y fuere aprobado por el Pleno, el Presidente de la Legislatura declarará concluido el procedimiento de Declaratoria de Procedencia.
 
-En caso contrario, la Legislatura se erigirá en Gran Jurado dentro de los tres días siguientes, notificando al denunciante, al querellante y al Ministerio Público, quien tendrá intervención.
+En caso contrario, la Legislatura se erigirá en Gran Jurado dentro de los tres días siguientes, notificando al denunciante o querellante, al servidor público denunciado y al Ministerio Público, quien tendrá intervención.
 
 c).- La Declaratoria mencionará: "La Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo", erigida en Gran Jurado, Declara: (aquí el sentido de la resolución)".
 
-###### ARTICULO 151.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+
+###### ARTICULO 157.
 
 Emitida la Declaratoria de Procedencia de la acusación, por este sólo hecho, quedará separado de su cargo el servidor público, quedando a disposición de la autoridad competente para el ejercicio de la acción penal.
 
 La Legislatura remitirá al Procurador General de Justicia del Estado, copia certificada del expediente, comunicándole la resolución respectiva. También se le comunicará la declaratoria en el sentido de la NO procedencia de la acusación.
 
-###### ARTICULO 152.
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-La Legislatura mandará publicar, con la periodicidad que fije el Reglamento respectivo, un "DIARIO DE LOS DEBATES", que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
+### CAPITULO II. DEL PROTOCOLO
 
-Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del "DIARIO DE LOS DEBATES", a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 153.
+###### ARTICULO 158.
 
-Las sesiones solemnes en las que asistan el Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, éstos tomarán asiento junto con él Presidente de la Legislatura, el primero a la izquierda del Presidente y el segundo a la derecha.
+La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos; y suspensión y revocación del mandato de los miembros de éstos, conforme al procedimiento previsto en la Ley Orgánica Municipal.
 
-En las sesiones que asista el Presidente de la República o su representante, se sentará a la derecha del Presidente de la Legislatura, el Gobernador del Estado a su izquierda y el Presidente del Tribunal Superior de Justicia a la izquierda del Ejecutivo estatal.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-###### ARTICULO 154.
+## TITULO DECIMO SEGUNDO. PREVENCIONES GENERALES
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO III. DEL PUBLICO
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 159.
+
+La Legislatura, por conducto de la Dirección de Archivo General y Biblioteca mandará publicar, con la periodicidad que fije el Reglamento respectivo, un “DIARIO DE LOS DEBATES”, que será el órgano oficial del Poder Legislativo del Estado, en el que se publicarán los debates que en las sesiones se produjeren. En él se consignarán la fecha, el sumario, el nombre del Diputado que presida la sesión y el período al que corresponda, así como la transcripción fiel de la sesión y versión exacta de las discusiones en el orden en que se desarrollen. También se insertarán todos los documentos a los que se les dé lectura en las sesiones.
+
+Las discusiones y documentos relacionados con las sesiones de carácter secreto, se editarán en números especiales del “DIARIO DE LOS DEBATES”, a los cuales no se les dará publicidad ni se permitirá su circulación, debiendo resguardarse en el secreto del archivo de la Legislatura, para consulta exclusiva de los Diputados.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO IV. DISPOSICIONES ESPECIALES
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 160.
 
 Al entrar al Recinto Oficial, el Gobernador del Estado, el público y los miembros de la Legislatura se pondrán de pie, y el Presidente de ésta lo hará cuando llegue al lugar de la Mesa Directiva, procediendo a saludarlo e inmediatamente saludará al Presidente del Tribunal Superior de Justicia, invitándolos a tomar asiento.
 
 Al salir del Recinto Oficial los titulares de los Poderes Ejecutivo y Judicial, los miembros de la Legislatura se podrán (sic) de pie, excepto su Presidente.
 
-### CAPITULO IV. DISPOSICIONES ESPECIALES
-
-###### ARTICULO 155.
-
-Si asistiere el Presidente de la República, el Presidente de la Legislatura lo recibirá de pie desde el momento que entre al Recinto Oficial y lo despedirá también de pie desde que inicie su salida hasta que abandone el Recinto, y durante la sesión únicamente estará de pie en los honores presidenciales, a los Símbolos Patrios y del Estado.
-
-###### ARTICULO 156.
-
-Durante el desarrollo de las sesiones, el Presidente de la Legislatura permanecerá sentado, excepto en los casos previstos en los dos artículos anteriores.
-
-###### ARTICULO 157.
-
-El Presidente de la Legislatura nombrará una Comisión de Cortesía compuesta hasta por cinco Diputados, para el efecto de que acompañen al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia y al Presidente de la República, en su caso, a su entrada y salida del Recinto Oficial.
-
-###### ARTICULO 158.
-
-Si asistieren invitados especiales a las sesiones, el Presidente de la Legislatura los distinguirá mandando que ocupen el Palco de Honor del Recinto Oficial.
-
-###### ARTICULO 159.
-
-En el salón de sesiones del Recinto Oficial habrá lugar para el público, que se mantendrá abierto durante el desarrollo de las sesiones. Los asistentes se presentarán sin armas y guardarán respeto, silencio y compostura; no tomarán parte en las deliberaciones con ninguna clase de demostración.
-
-###### ARTICULO 160.
-
-Cuando uno o varios de los asistentes crearen desorden o impidan el buen desarrollo de la sesión, se suspenderá ésta y se mandará a desalojar a los responsables, reanudándose cuando se restablezca el orden, pero permanecerá cerrado el Recinto.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 161.
 
-Toda persona que perturbe de cualquier modo el orden dentro del Recinto Oficial, será despedida inmediatamente ordenándole salir de él; pero si la falta fuese grave se mandará detener mediante la fuerza pública que auxilie al Presidente de la Legislatura y si el hecho entrañare delito, se pondrá en ese momento a disposición de la autoridad competente.
+Si asistiere el Presidente de la República, el Presidente de la Legislatura lo recibirá de pie desde el momento que entre al Recinto Oficial y lo despedirá también de pie desde que inicie su salida hasta que abandone el Recinto, y durante la sesión únicamente estará de pie en los honores presidenciales, a los Símbolos Patrios y del Estado.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 162.
+
+Durante el desarrollo de las sesiones, el Presidente de la Legislatura permanecerá sentado, excepto en los casos previstos en los dos artículos anteriores.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 163.
+
+El Presidente de la Legislatura nombrará una Comisión de Cortesía compuesta hasta por cinco Diputados, para el efecto de que acompañen al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia y al Presidente de la República, en su caso, a su entrada y salida del Recinto Oficial.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 164.
+
+Si asistieren invitados especiales a las sesiones, el Presidente de la Legislatura los distinguirá mandando que ocupen el Palco de Honor del Recinto Oficial.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 165.
+
+En el salón de sesiones del Recinto Oficial habrá lugar para el público, que se mantendrá abierto durante el desarrollo de las sesiones. Los asistentes se presentarán sin armas y guardarán respeto, silencio y compostura; no tomarán parte en las deliberaciones con ninguna clase de demostración.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 166.
+
+Cuando uno o varios de los asistentes crearen desorden o impidan el buen desarrollo de la sesión, se suspenderá ésta y se mandará a desalojar a los responsables, reanudándose cuando se restablezca el orden, pero permanecerá cerrado el Recinto.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 167.
+
+Toda persona que perturbe de cualquier modo el orden dentro del Recinto Oficial, será despedida inmediatamente ordenándole salir de él; pero si la falta fuese grave se mandará detener mediante la fuerza pública que auxilie al Presidente de la Legislatura y si el hecho entrañare delito, se pondrá en ese momento a disposición de la autoridad competente.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 168.
 
 Si falleciere un Diputado en ejercicio, el Oficial Mayor le ministrará inmediatamente al cónyuge o pariente más cercano que acredite su parentesco y dependencia económica con el extinto, el importe de dos meses de dietas.
 
 Si la persona fallecida fuere un empleado del Poder Legislativo, el importe que se ministrará a su cónyuge o pariente a que se refiere el párrafo anterior, será de dos meses de salario del empleado.
 
-###### ARTICULO 163.
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+###### ARTICULO 169.
 
 Las relaciones de trabajo entre el Poder Legislativo y sus empleados, se regirán por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, Municipios y Organismos Descentralizados del Estado de Quintana Roo y del Reglamento de las Condiciones Generales de Trabajo que se emita conforme a la Ley citada.
 
@@ -1230,3 +1808,21 @@ P.O. 15 DE JUNIO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con excepción de lo dispuesto en el Artículo Cuarto Transitorio de este Decreto.
+
+SEGUNDO.- Los Diputados que actualmente conforman la Comisión de Desarrollo Económico y Social, a partir de la entrada en vigor del Presente Decreto integrarán la Comisión de Asuntos Migratorios y Fronterizos.
+
+TERCERO.- Los integrantes de la Comisión de Asuntos de la Juventud serán elegidos en la sesión ordinaria inmediata siguiente a la fecha de publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.- Los períodos ordinarios de sesiones que prevé este Decreto, tendrán efecto y vigencia a partir del inicio del Segundo Año de Ejercicio Constitucional de la Honorable IX Legislatura.
+
+QUINTO.- Los actuales Diputados integrantes de las Comisiones de Presupuesto y Cuenta; de Industria y Comercio; de Infraestructura, Asentamientos Humanos y Ecología; de Salud, Educación y Cultura; de Asuntos Agropecuarios y Forestales; y de Turismo, a partir de la vigencia del presente Decreto conformarán, respectivamente, con el carácter que ostentan las Comisiones de Hacienda, Presupuesto y Cuenta; de Industria, Comercio y Desarrollo Social; de Infraestructura y Asentamientos Humanos; de Salud, Educación, Cultura y Deportes; de Ecología y de Asuntos Agropecuarios, Forestales y Pesqueros; y de Turismo, Monumentos y Zonas Arqueológicas.
+
+SEXTO.- En tanto se efectúan las adecuaciones correspondientes al Reglamento Interior del Poder Legislativo, continuarán vigentes las disposiciones del mismo, en todo lo que no se opongan a la Ley Orgánica del Poder Legislativo y al presente Decreto.
+
+SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+OCTAVO.- La designación del titular de la Dirección de Archivo General y Biblioteca, se efectuará una vez que se tenga establecida la infraestructura básica que permita el adecuado cumplimiento de sus responsabilidades, previa manifestación en tal sentido comunicada por el Presidente de la Gran Comisión.
