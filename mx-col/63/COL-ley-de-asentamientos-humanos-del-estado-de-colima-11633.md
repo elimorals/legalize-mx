@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "1997-10-04"
+last_updated: "2004-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -311,11 +311,23 @@ III. El Comité de Planeación para el Desarrollo del Estado;
 
 IV. Los Comités Municipales para la Planeación del Desarrollo de los Municipios;
 
-V. Las Comisiones de Conurbación que se establezcan en el Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 24 DE ENERO DE 2004)</small>
 
-VI. El Instituto, y
+V.- Los Institutos Municipales de Planeación;
 
-VII. Las asociaciones o patronatos que se integren para promover la conservación y mejoramiento del patrimonio urbano y arquitectónico.
+VI. Las Comisiones de Conurbación que se establezcan en el Estado;
+
+> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+
+VII. El Instituto;
+
+> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+
+VIII. Las Asociaciones o Patronatos que se integren para promover la conservación y mejoramiento del patrimonio urbano y arquitectónico; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P. O. 24 DE ENERO DE 2004)</small>
+
+IX.- Las Comisiones Municipales relacionadas con el cuidado y protección del medio ambiente.
 
 ###### ARTICULO 16.
 
@@ -641,7 +653,9 @@ II. Un secretario técnico, que será el Titular de la Secretaría;
 
 III. Los presidentes de los Municipios relacionados con los asuntos que analizará la Comisión;
 
-IV. Un representante por cada una de las dependencias y entidades de la Administración Pública Estatal, que señale el Gobernador del Estado;
+> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+
+IV.- Un representante por cada una de las dependencias y entidades de la Administración Pública Estatal, relacionadas directamente con los asuntos que analizará la comisión, las cuales serán señaladas por el Gobernador del Estado;
 
 V. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial;
 
@@ -703,15 +717,19 @@ III. Un representante de la Secretaría;
 
 IV. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial;
 
-V. Un representante de las cámaras, colegios de profesionistas, asociaciones u organizaciones del sector privado y social, que por acuerdo de Cabildo se integren a la misma.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+V.- Un representante de las cámaras, colegios de profesionistas, asociaciones u organizaciones del sector privado, social e Institutos Municipales de Planeación que por acuerdo de Cabildo se integren a la misma.
 
 ###### ARTICULO 31.
 
 Las decisiones de las Comisiones Municipales, se tomarán por mayoría de votos y cada uno de sus integrantes tendrá voz y voto. El Presidente Municipal tendrá voto de calidad, en caso de empate.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 32.
 
-El reglamento interior que para el efecto autorice el Cabildo a propuesta de las Comisiones Municipales, señalará la organización y funcionamiento interno de las mismas.
+El reglamento interior que para el efecto autorice el Cabildo a propuesta de las Comisiones Municipales, señalará la organización y funcionamiento interno de las mismas. Así como el período de duración de cada uno de los representantes.
 
 ###### ARTICULO 33.
 
@@ -729,7 +747,11 @@ V. Representar los intereses de la comunidad del Municipio, cuya colaboración e
 
 VI. Proponer a las autoridades municipales, la creación de nuevos servicios o conservación y mejoramiento de los ya existentes, sobre bases de colaboración particular, de acuerdo con las necesidades o solicitudes de los diversos sectores de la población, y
 
-VII. Las demás que le señalen ésta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+VII.- Establecer dentro de las mismas una subcomisión técnica integrada por cinco miembros, entre los cuales estarán representados los tres niveles de gobierno, mas otros dos, elegidos por el pleno de cada comisión municipal. Esta subcomisión tendrá la función de analizar y revisar técnicamente los anteproyectos de programas parciales, si así lo solicita el promovente o la Dependencia Municipal, previa a la presentación definitiva de los mismos para optimizar la calidad de la función consultiva de las comisiones Municipales; y
+
+VIII.- Las demás que le señalen ésta Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 34.
 
@@ -808,6 +830,8 @@ Los programas derivados de desarrollo urbano, son emanados de los Planes Estatal
 Los Programas de Desarrollo Urbano previstos en esta Ley, contendrán los elementos básicos que hagan posible su congruencia y uniformidad metodológica para su debida ejecución técnica, jurídica y administrativa; dichos elementos deberán comprender:
 
 I. Introducción: La denominación, antecedentes y ámbito espacial de aplicación;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
 II. Diagnóstico: en el que se analizarán la situación actual y las tendencias del área o sector del desarrollo urbano que comprenda el programa, en sus aspectos socioeconómicos, físicos, poblacionales, de infraestructura, equipamiento, servicios, vivienda y demás componentes urbanos;
 
@@ -1015,7 +1039,9 @@ VII. Los resultados previsibles que se obtendrán con la ejecución del proyecto
 
 VIII. Los estudios socioeconómicos, financieros y fiscales preliminares, cuando por las características del proyecto se requieran;
 
-IX. La demarcación de las áreas o predios comprendidos y las características, condiciones y zonas circundantes del espacio urbano;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+IX.- La demarcación de las áreas o predios comprendidos en el programa, así como en las unidades territoriales contiguas para evaluar las características, condiciones y zonas circundantes del espacio urbano y determinar la dosificación del equipamiento y servicios para el adecuado funcionamiento de la zona urbana;
 
 X. Los usos y destinos específicos de los predios comprendidos en el programa, y
 
@@ -1105,7 +1131,7 @@ I. La Secretaría o la Dependencia Municipal dará aviso del inicio del proceso 
 
 II. Una vez formulado el proyecto de programa de desarrollo urbano, éste se difundirá de la misma manera;
 
-III. Se establecerá un plazo y un calendario de audiencias publicas, para que los ciudadanos presenten por escrito los planteamientos que consideren respecto del proyecto;
+III. Se establecerá un plazo y un calendario de audiencias públicas, para que los ciudadanos presenten por escrito los planteamientos que consideren respecto del proyecto;
 
 IV. Las respuestas a los planteamientos improcedentes o las modificaciones a que den lugar, deberán fundamentarse y notificarse a los interesados en el domicilio señalado en su escrito, y estarán a consulta de ellos en las oficinas estatales o municipales correspondientes por lo menos quince días previos a la solicitud de aprobación; y
 
@@ -1641,7 +1667,9 @@ III. La modificación, demolición o ampliación de inmuebles del patrimonio urb
 
 IV. Para obras de vialidades primarias, secundarias y regionales;
 
-V. De equipamiento e infraestructura primaria de los centros de población;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+V.- De equipamiento Urbano e infraestructura primaria de los centros de población. En el caso de los equipamientos especiales, la verificación de congruencia será indispensable aún si su localización se encuentra fuera del centro de población;
 
 VI. Hospitales y centros médicos;
 
@@ -1649,15 +1677,27 @@ VII. Centrales camioneras, de carga y de abastos;
 
 VIII. Industrias medianas y grandes;
 
-IX. Edificios multifamiliares cuando superen las 20 unidades, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-X. Proyectos de hotelería cuando superen las 30 habitaciones.
+IX. Edificios multifamiliares cuando superen las 20 unidades;
+
+> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+
+X. Proyectos de hotelería cuando superen las 30 habitaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+XI. Gasolinerías, gaserías, y estaciones de servicios especiales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P O. 24 DE ENERO DE 2004)</small>
+
+La verificación a que se refiere la sección I de este artículo deberá ser emitida por la Secretaría, en un plazo no mayor de 7 días hábiles, contados a partir del día siguiente al de la presentación de la solicitud respectiva.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 133.
 
-El dictamen de vocación del suelo será solicitado al Ayuntamiento. La Dependencia Municipal elaborará el dictamen y procederá a gestionar ante la Secretaría la verificación de congruencia en los casos previstos por el artículo que antecede.
-
-Serán nulos de pleno derecho los dictámenes de vocación del suelo que expidan los Ayuntamientos, que no cuenten con la verificación de congruencia expedida por la Secretaría, en los términos y casos que establece esta Ley.
+El dictamen de vocación del suelo será solicitado al Ayuntamiento. La Dependencia Municipal elaborará el dictamen y procederá a gestionar ante la Secretaría la verificación de congruencia en los casos previstos por el artículo que antecede. Serán nulos de pleno derecho los dictámenes de vocación del suelo que expidan los Ayuntamientos, que no cuenten con la verificación de congruencia expedida por la Secretaría, en los términos y casos que establece esta Ley. Cuando el vocacionamiento sea improcedente la dependencia municipal lo hará constar por escrito.
 
 ###### ARTICULO 134.
 
@@ -1673,9 +1713,13 @@ IV. El alcance del dictamen que se solicita;
 
 V. El aprovechamiento que se pretenda realizar en el área o predio;
 
-VI. El documento que acredite el pago del derecho por este trámite que determinen las leyes fiscales aplicables, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-VII. El documento que acredite el pago del derecho por el trámite de verificación de congruencia que determinen las leyes fiscales aplicables, en los casos previstos en el artículo 134 de esta Ley.
+VI.- El documento que acredite el pago del derecho por este trámite que determinen las leyes fiscales aplicables; y
+
+> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+
+VII.- El documento que acredite el pago del derecho por el trámite de verificación de congruencia que determinen las leyes fiscales aplicables, en los casos previstos en el artículo 132 de esta Ley.
 
 ###### ARTICULO 135.
 
@@ -2679,7 +2723,15 @@ II. Los objetivos generales y específicos que se persiguen;
 
 III. La localización y delimitación precisa de la zona que comprenda, con base en las coordenadas georeferenciadas determinadas por la autoridad catastral;
 
-IV. Levantamiento topográfico que incluya arbolados importantes, así como cuerpos de agua, escurrimientos y otros elementos naturales significativos;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+IV. Plano topográfico que contenga:
+
+a) El polígono con el cuadro de construcción respectivo y la superficie total del terreno;
+
+b) Graficación de las curvas de nivel, máximo a cada metro; y
+
+Levantamiento de la vegetación significativa y existente, indicando especies y su tamaño, áreas de restricción a infraestructura e instalaciones especiales, en su caso; cuerpos de agua, escurrimientos y otros elementos naturales significativos, así como su ubicación referida a las urbanizadas, en su caso;
 
 V. Plano de conjunto que contenga el proyecto especificando los usos y destinos de cada predio, indicando la propuesta de las áreas de cesión para destinos, así como la integración con las áreas urbanizadas;
 
@@ -2717,19 +2769,59 @@ X. En su caso, el proyecto de reglamento al que se sujetarán los adquirientes d
 
 Para promover ante el Ayuntamiento la autorización del proyecto de Programa Parcial de Urbanización, se requerirá presentar la documentación siguiente:
 
-I. Copias el (sic) dictamen referido en el artículo 127 de esta Ley;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+I.- Copia del dictamen de vocacionamiento de uso de suelo referido en el artículo 127 de esta Ley; con su correspondiente verificación de congruencia, en los casos previstos en el articulo 132 de este ordenamiento;
 
 II. Copias de los títulos donde se acredite la propiedad de los predios y, en su caso, de los convenios celebrados con los propietarios para realizar las obras de urbanización;
 
 III. Certificado que acredite la solvencia fiscal y la libertad de gravamen de los predios, excepto los inmuebles que provengan del patrimonio federal, estatal o municipal;
 
-IV. Los documentos donde se acredite la posesión legal de los terrenos;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-V. El proyecto de Programa Parcial de Urbanización integrado conforme las disposiciones del artículo anterior;
+IV. Acta constitutiva de la empresa que promueve;
 
-VI. La versión abreviada del proyecto de Programa Parcial de Urbanización para los efectos de su publicación, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-VII. El documento que acredite el pago del derecho por este trámite que determinen las leyes fiscales aplicables, los derechos de registro catastral y el costo de las publicaciones previstas en el artículo 71 de esta Ley.
+V. Los documentos donde se acredite la posesión legal de los terrenos;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+VI. Constancias de factibilidad de servicio emitidas por la dependencia u organismo que opere los diferentes servicios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+VII. En su caso, el dictamen técnico expedido por la Comisión Nacional del Agua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+VIII.- La versión abreviada del proyecto de Programa Parcial de Urbanización para los efectos de su publicación, misma que contendrá:
+
+a) La localización;
+
+b) Los objetivos generales y específicos;
+
+c) La referencia al marco legal;
+
+d) Memoria descriptiva del proyecto en la que se indiquen el resumen de áreas, numero de lotes y manzanas, el equipamiento propuesto y los usos y destinos asignados a los lotes del desarrollo, así como las tablas de compatibilidad y las normas de control de intensidad de la edificación; y
+
+e) Los planos de lotificación y de usos y destinos en la escala mínima legible;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+IX. El documento que acredite el pago del derecho por este trámite que determinen las leyes fiscales aplicables, los derechos de registro catastral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+X. Para promociones de lotes con servicios, el promotor deberá acreditar la solvencia económica para desarrollar el proyecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+XI. Tratándose de promociones de vivienda y en caso que así lo requieran, carta en papelería membreteada del promovente solicitando la urbanización y edificación simultánea comprobando mediante la entrega de copias de documentos oficiales, que se encuentra registrado como promotor o constructor ante dependencias que apoyen la generación de vivienda. En ambos casos, deberán comprobar que cuentan con el apoyo de instituciones financieras o demostrar fehacientemente la fuente de los recursos que se requieran para llevar a cabo el proyecto planteado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+XII. Responsiva de perito urbano con registro vigente ante la Dependencia Municipal.
 
 ###### ARTICULO 278.
 
@@ -2747,21 +2839,19 @@ V. Los estudios de la infraestructura urbana y servicios disponibles en la zona,
 
 VI. En su caso, los criterios de conservación patrimonial.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 279.
 
-Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto de Programa Parcial no reúna los requisitos generales, la Dependencia Municipal, dentro de los diez días hábiles siguientes a la recepción de la solicitud, notificará al interesado las deficiencias por escrito, para que en término similar se subsanen las omisiones, de no hacerlo dentro de ese plazo, el proyecto se regresará al promovente con las anotaciones pertinentes a su solicitud.
+Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto de Programa Parcial no reúna los requisitos generales, la Dependencia Municipal, dentro de los diez días hábiles siguientes a la recepción de la solicitud, notificará al interesado las deficiencias por escrito, para que en término similar se subsanen las omisiones, de no hacerlo dentro de ese plazo, el proyecto se regresará al promovente con las anotaciones pertinentes a su solicitud. Si a juicio de la Dependencia Municipal el Programa Parcial es de aprobarse, en un término de cinco días hábiles lo turnará a la Comisión Municipal, para que ésta emita su opinión.
 
-Si a juicio de la Dependencia Municipal el Programa Parcial es de aprobarse, en un término de cinco días hábiles lo turnará a la Comisión Municipal, para que ésta emita su opinión.
+Cuando el Ayuntamiento no cuente con la Comisión Municipal y se requiera la opinión correspondiente, deberá disponer su integración inmediata o si la complejidad del asunto lo amerita, el mismo ayuntamiento podrá solicitar a la Secretaría que sea la Comisión Estatal la que emita la opinión correspondiente, la que resolverá lo conducente en un plazo no mayor a 15 días hábiles.
+
+> <small>(REFORMADO, P. O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 280.
 
-Con base en el expediente y considerando las observaciones que se presenten conforme el artículo anterior, la Comisión Municipal de Desarrollo Urbano opinará en un plazo de tres semanas de la fecha en que esta reciba la solicitud.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
-
-Si la Comisión Municipal o la Dependencia Municipal incumplen en realizar los trámites a que se refiere el presente y el anterior artículo en los términos señalados, el promovente podrá optar por presentar su solicitud a la Comisión Estatal, a fin de que ésta resuelva al respecto.
+Tan pronto la Comisión Municipal reciba el expediente respectivo, se convocara a reunión para emitir la resolución, la que se celebrara dentro de las siguientes tres semanas, debiendo su presidente proporcionar a cada uno de los integrantes, cuando menos una semana de anticipación, copia de los proyectos para su revisión. De no llevarse a cabo la reunión en el término previsto, se convocara a otra reunión extraordinaria a celebrarse dentro de la siguiente semana, en la cual la Comisión Municipal deberá emitir su opinión.
 
 ###### ARTICULO 281.
 
@@ -2773,15 +2863,19 @@ La opinión de la Comisión Municipal de Desarrollo Urbano relativa a autorizar 
 
 Una vez formulado y presentado el proyecto de Programa Parcial de Urbanización así como su expediente debidamente integrado, el Ayuntamiento dispondrá de un plazo de seis semanas para emitir la resolución correspondiente al respecto, así como confirmar o modificar su nomenclatura.
 
-El acuerdo del Ayuntamiento será notificado al urbanizador.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
-Transcurrido el plazo que establece este artículo, sin que el Ayuntamiento resuelva sobre la autorización de un proyecto de Programa Parcial de Urbanización, el urbanizador podrá insistir ante el Ayuntamiento, para que resuelva, disponiendo la autoridad Municipal de un plazo perentorio de dos semanas. Si transcurrido ese plazo el Ayuntamiento no acuerda la solicitud, el urbanizador podrá recurrir a la Comisión Estatal para que esta emita opinión técnica al respecto, y si el contenido de ésta fuera favorable a los intereses del urbanizador podrá ser utilizada para plantear la controversia ante las instancias jurisdiccionales competentes.
+El acuerdo del Ayuntamiento mediante el cual se apruebe el Programa parcial de urbanización y su nomenclatura deberá ser notificado al urbanizador.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 283.
 
 Una vez aprobado por el Ayuntamiento el Programa Parcial de Urbanización, deberá ser remitido por este a la Secretaría, para que a través de la Secretaría General de Gobierno sea presentado al Titular del Poder Ejecutivo del Estado, para efecto de su publicación en el Periódico Oficial "El Estado de Colima" y su inscripción en los términos de lo previsto en el artículo 71 de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE ENERO DE 2004)</small>
+
+La Secretaría dispondrá de 8 días hábiles para determinar lo procedente. En caso positivo, enviará la documentación al Titular del Poder Ejecutivo, quien dispondrá también de 8 días hábiles para proceder de conformidad con lo dispuesto por este artículo.
 
 ###### ARTICULO 284.
 
@@ -2799,7 +2893,9 @@ El Proyecto Ejecutivo de Urbanización, se integrará con los siguientes documen
 
 I. Plano topográfico del terreno que contenga:
 
-a) El polígono, con el cuadro de construcción respectivo;
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
+
+a) El polígono, con el cuadro de construcción respectivo, con coordenadas georeferenciadas por la autoridad catastral;
 
 b) Graficación de las curvas de nivel a cada metro;
 
@@ -2821,7 +2917,9 @@ e) Proyecto de arbolado para vías y espacios públicos;
 
 f) Proyecto de ubicación de contenedores para depósito de desechos sólidos y demás mobiliario urbano, y
 
-g) (DEROGADO, P.O. 4 DE OCTUBRE DE 1997)
+> <small>(REFORMADO, P. O. 24 DE ENERO DE 2004)</small>
+
+g) Rasantes de los ejes de trazo.
 
 III. Plano de lotificación que contenga:
 
@@ -2831,7 +2929,9 @@ b) Las áreas de cesión para destinos;
 
 c) Medidas de los linderos de los lotes y superficies de cada uno de ellos incluyendo los de cesión, y
 
-IV. Memoria de cálculo y plano de la red de agua potable, en el que se indique:
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+IV.- Memoria de cálculo y plano de la red de agua potable, autorizado por la dependencia correspondiente, en el que se indique:
 
 a) Localización, altura y capacidad de la fuente de abastecimiento;
 
@@ -2839,7 +2939,9 @@ b) Tipo de material, diámetro y longitud de tuberías, y
 
 c) Cota de plantilla, cota piezométrica y carga disponible en los cruceros;
 
-V. Memoria de cálculo y plano de la red de drenaje de aguas residuales y pluvial, en el que se indique:
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+V.- Memoria de cálculo y plano de la red de drenaje de aguas residuales y pluviales, autorizado por la dependencia correspondiente en el que se indique:
 
 a) Tipo de material, diámetro, longitudes y pendientes de tuberías;
 
@@ -2849,7 +2951,9 @@ c) Cota de plantilla y cota de terreno en los cruceros y cambios de direcciones,
 
 d) En su caso, localización y diseño de la planta de tratamiento y cárcamos de bombeo;
 
-VI. Memoria de cálculo y plano de electrificación y alumbrado público, en el que se indique:
+> <small>(REFORMADA, P. O. 24 DE ENERO DE 2004)</small>
+
+VI.- Memoria de cálculo y plano de electrificación y alumbrado público, autorizado por la dependencia correspondiente, en el que se indique:
 
 a) Estructuras que componen la red;
 
@@ -2857,23 +2961,37 @@ b) Tipo de instalación y especificaciones, y
 
 c) Proyecto y especificaciones del alumbrado público;
 
-VII. Estudio de mecánica de suelos;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-VIII. Propuesta en su caso del plano de las etapas de urbanización y secuencia de las mismas;
+VII.- Estudio de mecánica de suelos y de pavimentos;
 
-IX. Calendario de obras que deberá observar el urbanizador o promovente, y plazo en que deberán quedar concluidas, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+VIII. En su caso, del plano de las etapas de urbanización y secuencia de las mismas;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+IX.- Calendario de obras que deberá observar el urbanizador o promovente, y plazo en que deben quedar concluidas;
 
 X. En su caso, la documentación complementaria consistente en:
 
-a) La autorización de las dependencias y organismos federales, o sus concesionarios, que operen los diferentes servicios públicos, y
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
-b) Las autorizaciones o concesiones para el aprovechamiento de zonas federales y bienes del dominio público.
+a) La autorización de las dependencias y organismos federales, o sus concesionarios, que operen los diferentes servicios públicos,
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
+
+b) Las autorizaciones o concesiones para el aprovechamiento de zonas federales y bienes del dominio público; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+XI.- Memoria descriptiva de los procesos de construcción.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 287.
 
-La propuesta del Proyecto Ejecutivo de Urbanización se presentará ante la Dependencia Municipal, adjuntando los siguientes elementos:
+La propuesta del Proyecto Ejecutivo de Urbanización se presentará ante la Dependencia Municipal, debidamente firmado por el perito de obra de urbanización correspondiente, en original y copia, adjuntando los siguientes elementos:
 
 I. Copia de la autorización del Programa Parcial donde se pretenda realizar la obra;
 
@@ -2885,11 +3003,17 @@ III. La carta de aceptación de los peritos responsables de su elaboración y ej
 
 IV. La aceptación expresa del urbanizador de cumplir con la terminación de las obras en los plazos consignados en el calendario de obras del Proyecto;
 
-V. La aceptación por parte del urbanizador del monto de las garantías que deberá otorgar para responder del correcto desempeño de las obras en el tiempo previsto;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-VI. La aceptación por otra parte del urbanizador del plazo a partir de la recepción de las obras de cada etapa o la totalidad de la urbanización, durante el cual estará obligado a responder por los vicios ocultos, mediante fianza expedida por una compañía autorizada, por un plazo no menor de dos años, y
+V. La aceptación por parte del urbanizador del monto de las garantías que debe otorgar para responder del correcto desempeño de las obras en el tiempo previsto;
 
-VII. El documento que acredite el pago del derecho correspondiente a este trámite, previsto en la Ley de Ingresos Municipal.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+VI. La aceptación por otra parte del urbanizador del plazo no menor de dos años a partir de la recepción de las obras de cada etapa o la totalidad de la urbanización, durante el cual estará obligado a responder por los vicios ocultos, mediante fianza expedida por una compañía autorizada; y
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+VII. El documento que acredite el pago del derecho correspondiente a este trámite, previsto en la Ley de Hacienda Municipal.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
@@ -2931,11 +3055,11 @@ De no verificarse el trámite en ese término, el urbanizador deberá de volver 
 
 El urbanizador estará obligado a costear por su cuenta todas las obras de urbanización definidas conforme al propio Proyecto Ejecutivo de Urbanización, incluyendo las obras de infraestructura y equipamiento que correspondan a las áreas de cesión para destinos, determinadas en los reglamentos de zonificación aplicables, de acuerdo a lo señalado en el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 294.
 
-Los urbanizadores ejecutarán o aportarán mediante convenio el equipamiento, las instalaciones y el mobiliario en los destinos, dentro de las áreas o predios a urbanizar, que se precisen en el Proyecto Ejecutivo de Urbanización, conforme a las normas del Reglamento Estatal de Zonificación.
+Los urbanizadores ejecutarán o aportarán mediante convenio el equipamiento, las instalaciones y el mobiliario en los espacios verdes (EV) dentro de las áreas o predios a urbanizar, que se precisen en el Proyecto Ejecutivo de Urbanización, conforme a lo dispuesto en el artículo 146 del Reglamento estatal de Zonificación.
 
 ###### ARTICULO 295.
 
@@ -2961,11 +3085,13 @@ Para obtener la autorización correspondiente, los propietarios deberán enterar
 
 En los casos previstos en el artículo anterior, si conforme al Programa Parcial de Urbanización de la zona, se establece que las áreas de cesión para destinos, no representan una mejora efectiva a los fines públicos, ya sea por su extensión limitada o en consideración de los destinos y servicios ya disponibles, se podrá substituir la entrega de determinadas áreas de cesión para destinos, en forma total o parcial, por el pago del valor comercial que correspondería al terreno ya urbanizado, mediante avalúo realizado por perito reconocido y aceptado por el Ayuntamiento, previa opinión de la Comisión Estatal. Estos recursos se aplicarán a la adquisición de predios para equipamiento urbano o su mejoramiento, en la misma colonia, barrio o zona donde se localice el predio.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 299.
 
 El urbanizador podrá omitir en el proyecto de Programa Parcial de Urbanización la lotificación, conforme los objetivos de su proyecto. En tal caso, el proyecto de Programa Parcial no incluirá los elementos que se indican en la fracción VIII del artículo 276.
 
-Cuando el aprovechamiento de un predio requiera su lotificación, con base en las especificaciones del Programa Parcial, el urbanizador procederá a solicitar al Ayuntamiento la subdivisión del predio, conforme los artículos 297 y 298 que anteceden y el procedimiento previsto en los artículos 350 al 355 de esta Ley.
+Cuando el aprovechamiento de un predio requiera su lotificación, con base en las especificaciones del Programa Parcial, el urbanizador procederá a solicitar al Ayuntamiento la subdivisión del predio, conforme los artículos 297 y 298 que anteceden y el procedimiento previsto en los artículos 355 al 360 de esta Ley.
 
 ### Capítulo III. De la ejecución de obras de urbanización
 
@@ -2973,15 +3099,29 @@ Cuando el aprovechamiento de un predio requiera su lotificación, con base en la
 
 La ejecución de las obras de urbanización podrá autorizarse en la (sic) siguientes modalidades:
 
-I. Urbanización inmediata: es aquella en la que el urbanizador o promovente deberá ejecutar la totalidad de las obras de urbanización, dentro del plazo señalado en el calendario de obra autorizado por el Ayuntamiento en la resolución respectiva, y que en ningún caso podrá ser mayor de veinticuatro meses, a partir de la fecha de iniciación de las obras;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-II. Urbanización por etapas: es aquella que debido a la extensión, características y costo de la urbanización, el Ayuntamiento podrá autorizar por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la resolución respectiva. En ningún caso, la urbanización total, podrá quedar concluida en un plazo mayor de cinco años, y
+I. Urbanización inmediata: es aquella en la que el urbanizador o promovente deberá ejecutar la totalidad de las obras de urbanización, dentro del plazo señalado en el calendario de obra autorizado por el Ayuntamiento en la resolución respectiva, y que en ningún caso podrá ser mayor de veinticuatro meses, contados a partir de la fecha de expedición de la licencia correspondiente;
 
-III. Urbanización progresiva: es aquella en la que el urbanizador o promovente ejecutará las obras mínimas de urbanización, en el plazo y con las especificaciones que haya determinado el Ayuntamiento; dichas obras podrán ejecutarse con la cooperación de los beneficiados del aprovechamiento.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+II. Urbanización por etapas: es aquella que debido a la extensión, características y costo de la urbanización, el Ayuntamiento podrá autorizar por etapas, de acuerdo a los plazos, requisitos y zonas que se determinen en la resolución respectiva. En ningún caso, la urbanización total, podrá quedar concluida en un plazo mayor de cinco años, contados a partir de la fecha de expedición de la licencia correspondiente;
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
+
+III. Urbanización progresiva: es aquella en la que el urbanizador o promovente ejecutará las obras mínimas de urbanización, en el plazo y con las especificaciones que haya determinado el Ayuntamiento; dichas obras podrán ejecutarse con la cooperación de los beneficiados del aprovechamiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2004)</small>
+
+IV. En el caso de que no se hayan iniciado los trabajos de urbanización a la fecha de modificación de los instrumentos de planeación, y estos modifiquen el aprovechamiento del suelo de esa zona, la licencia de urbanización quedará sin efecto, en cuyo caso se deberá obtener nuevamente el dictamen de vocación de uso del suelo.
+
+> <small>(REFORMADO, P. O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 301.
 
-El Ayuntamiento únicamente autorizará la urbanización progresiva cuando sean (sic) promovida por dependencias o entidades de la Administración Pública Federal, Estatal o Municipal.
+El Ayuntamiento únicamente autorizara la urbanización progresiva cuando se trate de aprovechamientos habitacionales promovidos por dependencias y entidades de la Administración Publica Federal, Estatal y Municipal.
+
+Estas dependencias coordinaran la ejecución de las obras de urbanización restantes hasta complementarlas sujetándose al sistema de acciones por colaboración previsto en el capítulo II del Título Séptimo de esta Ley, por lo que el Ayuntamiento observará el cumplimiento de los compromisos adquiridos desde el Programa Parcial de Urbanización.
 
 ###### ARTICULO 302.
 
@@ -2990,6 +3130,8 @@ El urbanizador para tramitar la licencia o permiso de urbanización, presentará
 I. La propuesta y aceptación del perito que tendrá a su cargo la supervisión municipal de las obras;
 
 II. La designación del perito o director responsable para la ejecución de las obras, y
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
 III. El documento que acredite el pago del derecho correspondiente de conformidad a la Ley de Ingresos Municipal.
 
@@ -3051,15 +3193,13 @@ III. Garantía por el cincuenta por ciento del valor de los lotes o fincas que p
 
 Si la Dependencia Municipal se niega a expedir la autorización a que se alude en el presente artículo, el promovente podrá recurrir ante la Comisión Estatal, quien previo análisis del caso hará saber su opinión al Presidente Municipal para que en base a ella, éste resuelva en definitiva.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 309.
 
-Una vez autorizado por el Cabildo el Programa Parcial de Urbanización, previa autorización expresa de la Dependencia Municipal, el urbanizador podrá ejecutar trabajos de preparación del terreno, limpieza, despalme y habilitación de accesos.
+Una vez autorizado por el Cabildo el Programa Parcial de Urbanización y previa autorización expresa de la Dependencia Municipal, el urbanizador podrá ejecutar trabajos de preparación del terreno, limpieza, despalme y habilitación de accesos.
 
-La Dependencia Municipal sólo permitirá el inicio formal de las obras de urbanización, cuando el urbanizador o promovente haya cumplido con las obligaciones que le señalan los artículos 306 al 308 de esta Ley, y las demás que le hubieren establecido los términos de autorización del Programa Parcial y Proyecto Ejecutivo de Urbanización correspondientes.
-
-La falta de cumplimiento de lo anterior, motivará la cancelación inmediata de la licencia o permiso correspondiente.
+La Dependencia Municipal sólo permitirá el inicio formal de las obras de urbanización, cuando el urbanizador o promovente haya cumplido con las obligaciones que le señalan los artículos 306 al 307 de esta Ley, y las demás que le hubieren establecido los términos de autorización del Programa Parcial y Proyecto Ejecutivo de Urbanización correspondientes.
 
 ###### ARTICULO 310.
 
@@ -3181,13 +3321,27 @@ Cuando para conectar una urbanización en proyecto, con otras zonas urbanizadas,
 
 ### Capítulo IV. De la recepción de obras de urbanización para su integración municipal
 
+> <small>(REFORMADO, P. O. 24 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 328.
 
-Una vez concluida la totalidad de las obras de urbanización, el urbanizador o promovente solicitará por escrito al Ayuntamiento, el dictamen técnico de la ejecución de dichas obras para su incorporación municipal.
+Una vez concluida la totalidad de las obras de urbanización y lo relativo en materia de impacto ambiental el urbanizador o promovente solicitará por escrito al Ayuntamiento, el dictamen técnico de la ejecución de dichas obras para su incorporación municipal.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+Para el caso de las promociones de vivienda que cuenten con autorización municipal para urbanización y edificación simultaneas, se deberá solicitar el dictamen técnico de las obras de urbanización necesarias para la incorporación municipal de cada una de las etapas, cumpliendo con los siguientes requisitos:
 
-Este dictamen técnico tendrá por objeto verificar que el urbanizador o promovente, haya cumplido con todas las obligaciones que le señala esta Ley y ejecutado las obras de urbanización, conforme al Programa Parcial de Urbanización y el Proyecto Ejecutivo autorizado.
+a) Copia de la autorización del Programa Parcial respectivo;
+
+b) Copia del plano de las etapas de urbanización autorizadas. La aprobación, en su caso, de las modificaciones a las etapas de urbanización propuestas por el promovente, deberá emitirla la Dependencia Municipal en un plazo no mayor a dos semanas a partir de la presentación de la solicitud. En este último caso, se acompañara a la solicitud de incorporación municipal, la copia del plano de etapas de urbanización aprobado finalmente por la Dependencia Municipal;
+
+c) Relación de lotes o fincas que se pretenden incorporar;
+
+d) En el caso de urbanización y edificación simultáneas, comprobar debidamente ante la Dependencia municipal que a la fecha de la solicitud se encuentran terminados (sic) las redes de agua potable y drenaje sanitario, así como las calles niveladas en terracerías de la etapa que se pretende incorporar, y que esté debidamente establecido el calendario de obra de edificación y urbanización con su fecha de terminación;
+
+e) Garantía del cien por ciento del valor de los trabajos de urbanización faltantes por ejecutar en el área que pretenda incorporar, mediante fianza expedida por una compañía autorizada, por el tiempo necesario para ejecutar las obras faltantes. Una vez terminados los trabajos de urbanización, el Ayuntamiento emitirá el dictamen donde se acredite la conclusión de los trabajos, notificando la procedencia de la cancelación de la garantía antes mencionada; y
+
+f) No se autorizara la incorporación de etapas posteriores si los trabajos de urbanización de la etapa inmediata solicitada no están ejecutados de acuerdo a programa, o bien si el promotor solicitante hubiere incumplido con algún compromiso anterior de terminación de obra en calidad o en tiempo.
+
+Este dictamen técnico tendrá por objeto verificar que el urbanizador o promovente, haya cumplido con todas las obligaciones que le señala esta Ley y ejecutado las obras de urbanización correspondientes, en los términos del Programa Parcial de Urbanización y el Proyecto Ejecutivo autorizado.
 
 ###### ARTICULO 329.
 
@@ -3195,15 +3349,17 @@ El dictamen técnico correspondiente será expedido por el Ayuntamiento, debién
 
 En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el urbanizador o promovente deberá corregir a su costa, las anomalías que se desprendan de dicho dictamen, para que posteriormente solicite ante el Ayuntamiento el dictamen definitivo.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 330.
 
-Con base en el dictamen técnico el Cabildo acordará la incorporación municipal de la urbanización.
+Para el caso de las promociones de vivienda, la incorporación municipal de la urbanización o etapas solicitadas, surtirá efecto solamente mediante la autorización, por parte de la Dependencia Municipal, del dictamen correspondiente, la cual se dará con base en la aprobación otorgada previamente por el Cabildo al Programa Parcial de Urbanización, de acuerdo con el artículo 282 de esta Ley.
 
-Acordada la incorporación municipal el Ayuntamiento tramitará su publicación en el Periódico Oficial "El Estado de Colima".
+Autorizada la incorporación, la Dependencia Municipal, dentro de las 48 horas siguientes, entrará mediante oficio al Registro Público de la Propiedad y del Comercio con el fin de que procedan los traslados de dominio, así como a la autoridad catastral correspondiente para que proceda el reavalúo de la zona, en los términos de la legislación catastral.
 
-Tan pronto quede publicado el acuerdo de incorporación municipal, dentro de los siguientes diez días hábiles, la Dependencia Municipal enterará al Registro Público de la Propiedad y del Comercio, a fin de que procedan los traslados de dominio, así como a la autoridad correspondiente, para que proceda al reavalúo de la zona, en los términos de la legislación catastral. Si pasado el plazo las autoridades de Registro y Catastro no han sido enteradas por la Dependencia Municipal, el promovente podrá acudir ante ellas a fin de que conozcan de la incorporación municipal con los mismos efectos, en dicho caso el Registro Público de la Propiedad y del Comercio y la autoridad catastral harán saber al Ayuntamiento la negligencia de la Dependencia Municipal.
+Dentro de las 48 horas posteriores a la autorización del dictamen, el Ayuntamiento tramitará su publicación en el Periódico Oficial “El Estado de Colima”, cuyo costo deberá ser cubierto por el promotor. El plazo para este trámite no excederá de 15 días hábiles.
+
+Si pasado el plazo a que se refiere el párrafo segundo de este artículo, la Dependencia Municipal no entera al Registro Público de la Propiedad y del Comercio y al Catastro de la incorporación municipal, el promovente podrá acudir directamente y con los mismos efectos a dichas dependencias, a fin de enterarlas y para que procedan a realizar los traslados de dominio y reavalúos de la zona. En dicho caso, ambas dependencias harán saber al Ayuntamiento la negligencia de la Dependencia Municipal, así como que han procedido a dar cumplimiento a al solicitud del promovente.
 
 ###### ARTICULO 331.
 
@@ -3213,9 +3369,11 @@ I. Para escriturar los predios a sus adquirentes y permitirles su ocupación, y
 
 II. Expedir licencias de construcción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 332.
 
-No se requerirá como requisito el acuerdo de incorporación municipal para:
+No será requisito el acuerdo de incorporación municipal para:
 
 I. Escriturar, ocupar y edificar predios donde se hayan autorizado obras de urbanización progresiva;
 
@@ -3265,17 +3423,15 @@ I. Que se haya cumplido con el procedimiento de incorporación municipal, previs
 
 II. Que se haya hecho publicación textual del acuerdo de Cabildo que formalice la incorporación, conforme lo previsto en el artículo 330;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-III. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años; y (sic)
+III. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años, esta garantía debe ser por el diez por ciento del valor de la urbanización y expedida por una compañía autorizada; y
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 IV. Que se hayan pagado o garantizado las obligaciones que establezcan a su cargo las leyes hacendarias.
 
-V. Que el Ayuntamiento otorgue autorización expresa para realizar tales enajenaciones.
-
-Para obtener la autorización para enajenar terrenos, o predios y fincas en los casos de urbanización y edificación simultáneas, se presentará solicitud acompañando la documentación que acredite el cumplimiento de los requisitos antes previstos. Recibida la solicitud se resolverá otorgando o negando la autorización, en un plazo de seis días.
+V.- (DEROGADA, P.O. 24 DE ENERO DE 2004)
 
 ###### ARTICULO 335.
 
@@ -3299,7 +3455,7 @@ Los Notarios Públicos verificarán se incluyan estos rubros en los testimonios 
 
 ###### ARTICULO 336.
 
-En todo tipo de publicidad comercial donde se oferten predios o fincas, en primera venta, preventa, apartado u otros actos de enajenación se deberá hacer referencia, al acuerdo del Ayuntamiento donde se autoricen las obras de urbanización y edificación en su caso, citando el numero y la fecha de la licencia o permiso, y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, previsto en la fracción X del artículo 333 de esta Ley.
+En todo tipo de publicidad comercial donde se oferten predios o fincas, en primera venta, preventa, apartado u otros actos de enajenación se deberá hacer referencia, al acuerdo del Ayuntamiento donde se autoricen las obras de urbanización y edificación en su caso, citando el número y la fecha de la licencia o permiso, y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, previsto en la fracción X del artículo 333 de esta Ley.
 
 ###### ARTICULO 337.
 
@@ -3367,13 +3523,25 @@ Para los efectos de esta Ley, se entiende por municipalización, el acto formal 
 
 De acuerdo a lo dispuesto en el artículo anterior, sólo el Ayuntamiento será la autoridad competente para recibir los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización por lo que cualquier acto, contrato o convenio que se celebre por parte del urbanizador, con la asociación de vecinos u otra persona física o moral que contravenga esta disposición, será nulo de pleno derecho.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2004)</small>
+
 ###### ARTICULO 348.
 
 El urbanizador o promovente podrá solicitar al Ayuntamiento la municipalización de una urbanización, cuando:
 
-I. Esté acordada la incorporación municipal, y
+I.- Esté acordada la incorporación municipal;
 
-II. Exista un aprovechamiento mínimo del cincuenta por ciento del suelo urbanizado, para los usos previstos en su Programa Parcial.
+II.- Se esté pagando el impuesto predial en forma individual por lote o fincas; y
+
+III.- Esté edificada cuando menos el cincuenta por ciento más uno de la etapa correspondiente, en los casos de fraccionamientos en los que se construya o comercialice lotes urbanizados.
+
+Cumplidos los requisitos a que se refieren las fracciones anteriores, el Ayuntamiento autorizará la municipalización respectiva.
+
+En los casos de urbanización y edificación simultáneas, la municipalización se dará de manera automática cuando:
+
+a).- Las obras de urbanización se encuentren terminadas al 100 por ciento; y
+
+b).- Las obras de edificación se encuentren terminadas en más del 50 por ciento.
 
 ###### ARTICULO 349.
 
@@ -3447,9 +3615,9 @@ II. Cuentan con todos los servicios urbanos;
 
 III. No requieren el trazo de vías públicas, y
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2004)</small>
 
-IV. Tratándose de subdivisiones, la superficie del predio no exceda los diez mil metros, o no se formen más de cinco lotes, o los que determine el correspondiente Programa Parcial de Urbanización para los casos previstos en el artículo 299 de esta Ley.
+IV.- Tratándose de subdivisiones, la superficie del predio original no exceda los diez mil metros, o no se formen más de cinco lotes, en cuyo caso se atenderá a lo dispuesto en el Titulo Octavo de esta Ley.
 
 ###### ARTICULO 358.
 
@@ -4140,3 +4308,7 @@ Palacio de Gobierno, Colima, Colima, a 26 de abril de 1994.- EL GOBERNADOR CONST
 P.O. 4 DE OCTUBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
