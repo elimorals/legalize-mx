@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2004-09-03"
+last_updated: "2004-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -59,7 +59,9 @@ a) La Administración Pública Central;
 
 b) Los organismos descentralizados del Estado;
 
-c) Los fideicomisos públicos en los que el Gobierno del Estado o sus organismos descentralizados y fideicomisos públicos participen como fideicomitentes; y
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+c) Los fideicomisos públicos; y
 
 IV.- Las personas físicas o morales públicas o privadas, que reciban o manejen, en administración, recursos públicos de las entidades mencionadas en las fracciones I a III de este artículo.
 
@@ -657,9 +659,9 @@ IX.- Recabar la información y documentos correspondientes, elaborar el expedien
 
 X.- Proporcionar la asesoría que soliciten, a las entidades y dependencias del Estado y sus municipios, en materia inmobiliaria;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
-XI.- Celebrar contratos y otorgar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes del dominio público o privado del Estado;
+XI.- Celebrar contratos y otorgar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes del dominio público o privado del Estado, así como los convenios a que se refiere el tercer párrafo del Artículo 129 de esta Ley.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 1995)</small>
 
@@ -1077,6 +1079,10 @@ II.- Los organismos descentralizados del Estado; y
 
 III.- Los Fideicomisos Públicos constituidos en los términos del Artículo 159.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+Para los efectos de esta Ley y de las demás leyes aplicables, las obligaciones, directas o contingentes de los fideicomisos que no sean fideicomisos públicos en términos del Artículo 159 de esta Ley, no constituyen el crédito público.
+
 ###### ARTICULO 125.
 
 Para los efectos de esta ley se entiende por financiamiento a través del crédito público la contratación de empréstitos y en general cualquier obligación de pago derivada de operaciones celebradas con las instituciones de crédito o de la emisión y colocación de valores bursátiles.
@@ -1120,6 +1126,10 @@ IX.- Llevar el registro de la deuda del sector público estatal.
 El Gobierno del Estado y sus dependencias sólo podrán contratar créditos a través de la Secretaría de Finanzas y Tesorería General del Estado.
 
 Las entidades mencionadas en las fracciones II y III del artículo 124 de esta Ley, sólo podrán contratar créditos con la autorización previa de la Secretaría de Finanzas y Tesorería General del Estado. Esta autorización podrá establecerse mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
+El Estado y las entidades paraestatales podrán celebrar convenios a través de los cuales asuman obligaciones de hacer y no hacer, los cuales no constituirán crédito público del Estado. En los convenios que celebre el Estado podrá obligarse a indemnizar de la pérdida o menoscabo patrimonial o la privación de cualquier ganancia lícita que se ocasione por el incumplimiento de las obligaciones de hacer y no hacer de las entidades paraestatales, sin que ello constituya deuda pública. En los convenios a que se refiere este párrafo, el Estado y sus organismos no podrán pactar penas convencionales o precuantificar responsabilidades por pérdidas o menoscabo patrimonial.
 
 #### SECCION TERCERA. DE LOS PROCEDIMIENTOS PARA LA AUTORIZACION Y CONTRATACION DE CREDITOS
 
@@ -1331,9 +1341,11 @@ El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas compe
 
 En el supuesto de la constitución de fideicomisos, el Ejecutivo del Estado estará facultado para instruir irrevocablemente a la Tesorería de la Federación, para que a partir de la fecha de formalización del fideicomiso respectivo, entregue a la Fiduciaria los recursos que derivan de las participaciones federales comprometidas, cuyos derechos conformarán el patrimonio fideicomitido. La instrucción Irrevocable mencionada, sólo podrá ser modificada previa autorización del H. Congreso del Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 162.
 
-En los casos en que se dicte sentencia emitida por autoridad jurisdiccional competente, en la que se determine una obligación de pago a cargo del Estado, deberá hacerse con cargo a las partidas de gastos generales, extraordinarios o sus equivalentes. De no haber fondos disponibles de inmediato, las erogaciones se efectuarán en el transcurso del año, en la medida en que sea factible. Si se estima que al finalizar el ejercicio las cantidades por estos conceptos a cargo del Estado no han sido cubiertas en su totalidad, en la Ley de Egresos del año siguiente se incluirá su pago en la partida correspondiente, en la medida de las posibilidades financieras del Estado, conservando en todo caso la estructura y el equilibrio presupuestal.
+En los casos en que se dicte sentencia emitida por autoridad jurisdiccional competente o laudo arbitral, en la que se determine una obligación de pago a cargo del Estado, deberá hacerse con cargo a las partidas de gastos generales, extraordinarios o sus equivalentes. De no haber fondos disponibles de inmediato, las erogaciones se efectuarán en el transcurso del año, en la medida en que sea factible. Si se estima que al finalizar el ejercicio las cantidades por estos conceptos a cargo del Estado no han sido cubiertas en su totalidad, en la Ley de Egresos del año siguiente se incluirá su pago en la partida correspondiente, en la medida de las posibilidades financieras del Estado, conservando en todo caso la estructura y el equilibrio presupuestal.
 
 ###### ARTICULO 163.
 
@@ -1462,3 +1474,11 @@ Artículo Segundo.- A la entrada en vigor de la presente reforma se ratifica el 
 Artículo Tercero.- Los derechos de reversión y los derechos fideicomisarios que correspondan al Estado de Nuevo León conforme al Fideicomiso 1339 de fecha 27 de mayo de 1992 redundarán en beneficio del Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León.
 
 Artículo Cuarto.- En caso de que se modifique posteriormente la Ley que crea el Organismo Público Descentralizado Red Estatal de Autopistas de Nuevo León, se deberán respetar los derechos de los terceros que hayan contratado con el organismo, en los términos y condiciones pactados.
+
+P.O. 12 DE NOVIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Toda referencia a fideicomisos en la Ley de Administración Financiera para el Estado de Nuevo León, se entenderá hecha a fideicomisos públicos, a menos que se especifique lo contrario.
+
+Artículo Tercero.- Las disposiciones del presente Decreto no le serán aplicables a los fideicomisos constituidos antes de la entrada en vigor del mismo.
