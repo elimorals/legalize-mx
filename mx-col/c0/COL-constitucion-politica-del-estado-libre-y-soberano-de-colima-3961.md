@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1997-02-15"
+last_updated: "1999-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1999.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -69,7 +69,9 @@ De los habitantes del Estado.
 
 ### CAPITULO V.
 
-De los Ciudadanos.
+De los colimenses y de los ciudadanos del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
 ### CAPITULO VI.
 
@@ -133,23 +135,31 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 22.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso integrado de doce Diputados electos según el principio de mayoritaria relativa y por ocho Diputados electos según el principio de representación proporcional, el cual se sujetará al procedimiento que disponga la Ley Electoral del Estado. Al efecto, el Estado se dividirá en doce distritos electorales uninominales y una circunscripción plurinominal.
+Se deposita el ejercicio del Poder Legislativo en un Congreso integrado por dieciséis Diputados electos según el principio de mayoría relativa y por nueve Diputados electos según el principio de representación proporcional, el cual se sujetará al procedimiento que disponga el Código Electoral del Estado. Al efecto, el Estado se dividirá en dieciséis distritos electorales uninominales y una circunscripción plurinominal.
 
-La demarcación electoral de los doce distritos electorales uninominales, será la que señale la Ley Electoral correspondiente.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
+
+La demarcación electoral de los dieciséis distritos electorales uninominales, será la que señale el Código Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 La circunscripción electoral plurinominal comprenderá la extensión territorial total del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 Por cada Diputado propietario se elegirá un suplente.
 
-Para la elección por representación proporcional y lista regional se deberá observar la ley respectiva. En todo caso el partido político que solicite el registro de su lista regional, deberá acreditar que tiene su registro y que participa con sus candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+Para la elección por representación proporcional y lista regional se deberá observar el Código Electoral. En todo caso el partido político que solicite el registro de su lista regional, deberá acreditar que tiene su registro y que participa con sus candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
 
-Todo partido político que alcance por lo menos el 1.5% del total de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional, de conformidad con las reglas de asignación que determine la Ley Electoral.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
+
+Todo partido político que alcance por lo menos el 1.5% del total de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a que le sean atribuidos Diputados según el principio de representación proporcional, de conformidad con las reglas de asignación que determine el Código Electoral.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
@@ -161,13 +171,13 @@ Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario no podrá
 
 Para ser Diputado se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y tener una residencia en el Estado no menor de cinco años antes del día de la elección.
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, no poseer otra nacionalidad y tener una residencia en el Estado no menor de 5 años, antes del día de la elección.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1978)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
 
-II.- Tener 21 años cumplidos al día de la elección.
+II.- Estar inscrito en la lista nominal de electores.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -181,9 +191,7 @@ IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Admini
 
 V.- No ser Presidente Municipal en el lugar donde se realicen las elecciones, salvo si se separa de su cargo noventa días antes de la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
-
-VI.- Tener un modo lícito de vivir y una preparación suficiente para desempeñar este cargo; y
+VI.- (DEROGADA, P.O. 26 DE JULIO DE 1999)
 
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -497,17 +505,19 @@ El ejercicio del Poder Ejecutivo se deposita en una persona que se denomina "Gob
 
 Para ser Gobernador se requiere:
 
-I.- Ser ciudadano colimense por nacimiento y estar en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+I.- Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de 5 años ininterrumpidos en el Estado; o hijo de padre o madre mexicano y haber residido en el Estado al menos durante 12 años anteriores al día de la elección.
 
-II.- Tener por lo menos 30 años cumplidos el día de elección y una residencia inmediata anterior de cinco años ininterrumpidos en el Estado.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
 
-III.- Tener una ilustración suficiente para desempeñar el cargo.
+II.- Tener por lo menos 30 años cumplidos al día de elección, estar en pleno goce de sus derechos y no poseer otra nacionalidad.
 
-(REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+III.- (DEROGADA, P.O. 26 DE JULIO DE 1999)
 
-IV.- Vivir del producto de un trabajo honesto, sea éste manual, industrial o profesional.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
+
+IV.- Vivir del producto de un trabajo honesto.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1039,6 +1049,10 @@ I.- Los partidos políticos son formas de organización política y constituyen 
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. En el Estado gozarán de las mismas prerrogativas que les confiere la Constitución General de la República. Los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1999)</small>
+
+Los partidos políticos con el fin de estimular la participación equitativa, podrán registrar hasta el 70% de candidaturas de un mismo género, a cargos de elección popular, por ambos principios.
+
 II.- Los partidos políticos tendrán derecho al uso en forma permanente e igualitaria de los medios de comunicación social propiedad del Gobierno del Estado, de acuerdo con las formas y procedimientos que establezca la ley. En los procesos electorales estatal, distritales y municipales, los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
 
 III.- La ley señalará las reglas a que se sujetarán el financiamiento ordinario de los partidos políticos y de sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
@@ -1055,11 +1069,27 @@ IV.- La organización de las elecciones locales es una función estatal que se r
 
 El Instituto Electoral del Estado será autoridad en la materia, profesional en su desempeño, autónomo e independiente en sus decisiones y funcionamiento. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
-a).- El Consejo General será su órgano superior de dirección y se integrará por siete consejeros electorales propietarios y tres suplentes, designados por el Congreso del Estado, por mayoría calificada de sus miembros presentes, a propuesta de los grupos parlamentarios; durarán en su cargo siete años, sus requisitos y mecanismo de elección serán determinados en la ley de la materia. Uno de los Consejeros será Presidente, electo por un mínimo de cuatro votos de los demás Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por las dos terceras partes del mismo Consejo, a propuesta en terna de su presidente. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
+
+a). El Consejo General será su órgano superior de dirección y se integrará por siete Consejeros Electorales propietarios y tres suplentes, designados por el Congreso del Estado, por mayoría calificada de los integrantes del Congreso, a propuesta de los grupos parlamentarios; durarán en su cargo siete años, sus requisitos y mecanismos de elección serán determinados en la ley de la materia. Uno de los Consejeros será presidente, electo por un mínimo de cuatro votos de los demás Consejeros. Tendrá un Secretario Ejecutivo, que deberá ser también Consejero y será electo por las dos terceras partes del mismo Consejo, a propuesta en terna de su Presidente. Los Consejeros Electorales estarán sujetos al régimen de responsabilidades establecido en el Título XI de esta Constitución.
 
 En caso de que no se reúna en la segunda vuelta la mayoría calificada a que se refiere el párrafo anterior, los funcionarios electorales serán electos por el sistema de insaculación.
 
-Los Consejeros Electorales no podrán tener ningún otro empleo público durante el desempeño de su función, no podrán ser candidatos a cargos de elección popular ni ocupar cargo alguno en la administración estatal o en las municipales, durante el año posterior a la conclusión de su cargo.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
+
+Los Consejeros Electorales no podrán:
+
+> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1999)</small>
+
+1).- Tener ningún otro empleo público durante el desempeño de su función;
+
+> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1999)</small>
+
+2).- Ser candidatos a cargos de elección popular durante los tres años posteriores a la conclusión o separación de su cargo; y
+
+> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1999)</small>
+
+3).- Ocupar cargo en las administraciones estatales o municipales, hasta pasado un año de la conclusión o separación de su cargo.
 
 En el Consejo General y los Consejos Municipales participarán un representante acreditado por cada partido político, quienes sólo tendrán derecho a voz.
 
@@ -1209,11 +1239,21 @@ El Estado estará facultado para celebrar esos convenios con sus municipios, a e
 
 Las Juntas y los Comisarios Municipales durarán en su cargo tres años.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 89.
 
-Para ser miembro de un Ayuntamiento se necesita ser ciudadano mexicano por nacimiento, tener veintiún años cumplidos y contar con una residencia en el municipio no menor de tres años antes del día de la elección, tener un modo honesto de vivir y una preparación suficiente para desempeñar el cargo, así como llenar los demás requisitos que establezca la ley relativa. El cargo de miembro de un Ayuntamiento no puede recaer en los servidores públicos en ejercicio de la Federación y el Estado, así como de organismos descentralizados y empresas de participación estatal de cualquiera de los dos órdenes de gobierno, ni estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separen con noventa días antes de la fecha de la elección.
+Para ser integrante de un Ayuntamiento se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y no poseer otra nacionalidad;
+
+II.- Estar inscrito en la lista nominal de electores y en pleno goce de sus derechos;
+
+III.- Contar con una residencia en el municipio correspondiente no menor de 3 años antes del día de la elección; y
+
+IV.- No estar en servicio activo de las fuerzas armadas ni de los cuerpos de seguridad pública, a menos de que se separen 90 días antes del día de la elección.
+
+El cargo de miembro de un Ayuntamiento no puede recaer en las categorías de servidores públicos en ejercicio de la Federación, Estado y municipios, así como de organismos descentralizados y empresas de participación estatal o municipal a que se refiera la Ley, a menos que se separen del cargo, por lo menos 90 días antes del día de la elección.
 
 ###### Artículo 90.
 
@@ -1779,73 +1819,67 @@ a) Acatar puntualmente lo establecido en la Constitución General de la Repúbli
 
 b) Contribuir para los gastos públicos que dispongan las leyes, obedecer y respetar las instituciones, leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los tribunales, sin intentar otros recursos que los que se conceden a los mexicanos.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE JULIO DE 1999)</small>
+
 ###### Artículo 10.
 
-Son ciudadanos colimenses:
+Son colimenses:
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 1989)</small>
+I.- Por nacimiento:
 
-I.- Por Nacimiento, los varones y las mujeres nacidos dentro del territorio del Estado, de padres mexicanos o de padres extranjeros, o de padres o madres extranjeros, o fuera de él, de padres colimeneses (sic) por nacimiento, desde la edad de 18 años.
+a).- Los varones y las mujeres nacidos dentro del territorio del Estado, sea cual fuere la nacionalidad de los padres; y
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1970)</small>
+b).- Los varones y las mujeres nacidos fuera del territorio del Estado, de padre o madre colimense por nacimiento;
 
-II.- Por vecindad: los varones y las mujeres nacidos fuera del territorio del Estado, que sean mexicanos y que tengan el requisito de edad a que se refiere la fracción anterior y una residencia en el Estado no interrumpida de cinco años o más.
+II.- Por adopción:
+
+Los varones y las mujeres nacidos fuera del territorio del Estado, que sean mexicanos y con residencia en él, no interrumpida de cuando menos 3 años.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 11.
 
-Son prerrogativas del ciudadano colimense:
+Ningún colimense por nacimiento podrá ser privado de dicha calidad.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
-
-I.- Además de las establecidas en el artículo 35 de la Constitución Federal, inscribirse en el padrón electoral y votar en las elecciones populares, siempre que en él concurran las circunstancias siguientes: no haberse comprometido ante autoridad o persona alguna a la inobservancia de la presente Constitución, la Federal y las leyes que de ellas emanen, y los ministros de culto en los términos del artículo 130 de la Constitución Federal; y
-
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
-
-II.- Ser votado en toda elección popular y desempeñar cualquier empleo del Estado, siempre que además de los requisitos que fija la fracción anterior, concurran en el individuo los que la Ley determine para cada caso.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 12.
 
-Son obligaciones del ciudadano colimense:
+Son ciudadanos del Estado de Colima, los varones y las mujeres que, teniendo la calidad de mexicanos, reúnan los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+I.- Haber cumplido 18 años de edad;
 
-I.- Las que determina el artículo 36 de la Constitución General de la República; y
+II.- Tener un modo honesto de vivir, y
 
-II.- Tomar las armas en defensa del Estado.
+III.- Establezcan su domicilio dentro del territorio del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 13.
 
-La calidad de ciudadano colimense se pierde:
+Las prerrogativas y obligaciones de los ciudadanos del Estado de Colima son las que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
-
-I.- Por ausencia voluntaria del Estado por más de diez años a no ser en los casos previstos en el artículo 16 de esta Constitución; y
-
-(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
-
-II.- Por pérdida de los derechos del Ciudadano mexicano.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 14.
 
-Se suspenden los derechos o prerrogativas:
+Los derechos o prerrogativas de los ciudadanos del Estado de Colima se suspenden:
 
-I.- En los casos determinados en el artículo 38 de la Constitución Federal.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 1999)</small>
+
+I.- En los casos determinados en el artículo 38 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 II.- En caso de interdicción o incapacidad declarada conforme a la ley.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
-
 ###### Artículo 15.
 
-Los colimenses por nacimiento que hubieren perdido la calidad de ciudadanos conforme a la fracción I del artículo 13, podrán recobrarla por el sólo hecho de regresar al territorio del Estado y radicarse en él.
+(DEROGADO, P.O. 26 DE JULIO DE 1999)
 
-(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1999)</small>
 
 ###### Artículo 16.
 
-Los derechos de ciudadano colimense no se pierden por causa de ausencia motivada por razones de educación, servicio público relativo al Estado o desempeñar un cargo público de elección popular de la Federación.
+Los derechos de los ciudadanos del Estado de Colima no se pierden por causas de ausencia motivada por razones de educación, de servicio público relativo a la federación, al estado o al municipio ó por desempeñar un cargo de elección popular.
 
 ###### ARTICULO 3º.
 
@@ -2214,3 +2248,19 @@ En tanto se expiden o reforman las leyes correspondientes, el Tribunal Electoral
 P.O. 15 DE FEBRERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JULIO DE 1999.
+
+DECRETO No. 168, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DE LA CONSTITUCION DEL ESTADO.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE JULIO DE 1999.
+
+DECRETO No. 169, QUE REFORMA EL ARTICULO 22 DE LA CONSTITUCION DEL ESTADO.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
