@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2002-06-15"
+last_updated: "2002-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -105,11 +105,13 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 10.
 
-Se califica como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes previstos por este Código: REBELION tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASION DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; SECUESTRO previsto por el artículo 199; VIOLACION en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210; ROBO respecto de los supuestos del inciso B) del artículo 227; y DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y Tentativa de Violación previsto por los artículos 207, 208, 209 y 210.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN DE MENORES, en su modalidad de EXPLOTACIÓN PORNOGRÁFICA, prevista por el artículo 157 Bis, segundo párrafo, tratándose de la realización de acto de exhibicionismo corporal lascivo o sexual, con el objeto de videograbarlo, fotografiarlo o exhibirlo mediante anuncio impreso o electrónico; LENOCINIO del numeral 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme a los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACION en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 y 210, ROBO respecto de los supuestos del inciso B) del artículo 227; y DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 207, 208, 209 y 210.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Entratándose del delito de Lesiones, se exceptúan de lo dispuesto por el párrafo anterior los casos previstos en los artículos 175, 176, 177 y 178, cuando las lesiones sean de las señaladas en las fracciones I y II del artículo 174.
 
@@ -1157,6 +1159,8 @@ EJERCICIO INDEBIDO DE SERVICIO PUBLICO.
 
 PECULADO.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 #### SECCION SEGUNDA.
 
 DELITOS CONTRA LA SOCIEDAD.
@@ -1227,7 +1231,7 @@ DE LOS DELITOS ELECTORALES.
 
 ###### ARTICULO 131.
 
-A los servidores públicos que en provecho propio o ajeno, dispongan de dinero, valores o cualquier otro bien que hubiesen recibido en razón de su función, se les impondrán de dos a quince años de prisión e inhabilitación de cinco a quince años o definitiva para ejercer funciones públicas.
+Al servidor público que en provecho propio o ajeno, disponga ilícitamente de dinero, valores, fincas o cualquier otro bien que hubiese recibido por razón de su función en administración, depósito o cualquier otra causa, se le impondrán de dos a quince años de prisión e inhabilitación de cinco a quince años para ejercer funciones públicas o definitiva cuando los daños causados sean de difícil o imposible reparación o cuando al individualizar la sanción el juzgador tenga elementos suficientes para condenar a ella.
 
 ### CAPITULO I.
 
@@ -1497,6 +1501,8 @@ Si este delito se comente por conductores de vehículos de servicio público est
 
 CORRUPCION DE MENORES.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 144.
 
 Al que obstaculice una vía terrestre de comunicación estatal, se le sancionará con prisión de seis meses a dos años y multa hasta por 25 unidades.
@@ -1603,29 +1609,37 @@ II.- Al que sin la debida autorización ejecute o haga ejecutar en público exhi
 
 III.- Al que públicamente invite a otro a realizar un acto sexual; y
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-IV.- Al que exhiba sus genitales y se haga tocamientos obscenos en público, delante de menores de edad, mujeres o de personas de más de 60 años.
+IV.- Al que haga exhibición obscena de sus genitales o se haga tocamientos obscenos en público o en privado, delante de menores de edad, o de quien no tenga capacidad para comprender el significado del hecho, o de mujeres o de personas de más de 60 años.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Cuando el pasivo sea menor de dieciocho años de edad, o no tenga capacidad para comprender el significado del hecho, se aumentará un tercio más la sanción privativa de libertad y la multa aplicable podrá aumentar hasta 200 unidades.
 
 ###### ARTICULO 155.
 
-Al que procure o facilite la corrupción de cualquier naturaleza, de un menor de 16 años de edad, se le impondrán de seis meses a cinco años de prisión y multa hasta por 55 unidades.
+Al que procure o facilite la corrupción de cualquier naturaleza, mediante la acción o la omisión, de un menor, o de quien no tenga capacidad para comprender el significado del hecho, se le impondrán de uno a seis años de prisión y multa hasta de 150 unidades.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 156.
 
-Cuando la conducta del activo tenga por resultado la corrupción del menor, la penalidad aplicable será de tres a siete años de prisión y multa hasta por cien unidades.
+Cuando la conducta del activo tenga por resultado la corrupción del menor, la penalidad aplicable será de cinco a ocho años de prisión y multa hasta por 250 unidades.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 157.
 
-La misma sanción del Artículo anterior se impondrá cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o civil, o tenga por cualquier razón ascendencia moral sobre el menor.
+Cuando el sujeto activo sea ascendiente consanguíneo, por afinidad o civil, o tenga por cualquier razón ascendencia moral sobre el menor, o sobre quien no tenga capacidad para comprender el significado del hecho, la sanción será de siete a nueve años de prisión y multa hasta de 450 unidades si procuró o facilitó la corrupción; y de diez a quince años y multa hasta de 900 unidades, si el resultado fue la corrupción del menor.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 157 Bis.
 
-Al que explote a un menor con fines de lucro, se le impondrá de uno a seis años de prisión y trabajos en favor de la comunidad por 100 jornadas.
+Al que explote a un menor o a quien no tenga capacidad para comprender el significado del hecho, con fines de lucro o para conseguir una satisfacción de cualquier naturaleza, se le impondrá de dos años seis meses a ocho años de prisión y multa hasta por quinientas unidades.
 
-Para los efectos de este artículo se tipifican como explotación de menores, el permitir, inducir u obligar a éstos a la practica de la mendicidad, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con el objeto de videograbarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos.
+Para los efectos de este artículo, se tipifica como explotación de menor o de quien no tenga capacidad para comprender el significado del hecho, el permitir, inducir, u obligar al sujeto pasivo, a la práctica de la mendicidad, o a realizar acto de exhibicionismo corporal libidinoso o de naturaleza sexual, con el objeto de videograbarlo, o fotografiarlo, o exhibirlo mediante cualquier tipo de impreso o medio electrónico.
 
 ### CAPITULO IV.
 
@@ -1651,13 +1665,15 @@ Al que induzca, medie o solicite a una persona para que con otra, comercie sexua
 
 La misma sanción señalada en el Artículo anterior se impondrá al propietario o encargado de cualquier lugar destinado exclusivamente al comercio carnal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO III.
 
 DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES.
 
 ###### ARTICULO 161.
 
-Cuando las conductas descritas por los Artículos anteriores, recaiga sobre un menor de edad o el sujeto activo se encuentre en los supuestos del Artículo 157, la penalidad aplicable será de tres a ocho años de prisión.
+Cuando las conductas descritas por los artículos anteriores, recaigan sobre un menor de edad o sobre quien no tenga capacidad para comprender el significado del hecho y el sujeto activo sea ascendiente consanguíneo, por afinidad o civil, o tenga por cualquier razón ascendencia moral sobre el menor o sobre quien no tenga capacidad para comprender el significado del hecho, la penalidad aplicable será de diez años seis meses a quince años seis meses de prisión y multa hasta de 1,500 unidades.
 
 ### CAPITULO IV.
 
@@ -1731,6 +1747,8 @@ Al que contrajere nuevo matrimonio, sin hallarse legalmente disuelto el anterior
 
 PRIVACION DE LA LIBERTAD.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 167.
 
 A los ascendientes consanguíneos, afines en primer grado o civiles que tengan cópula con sus descendientes, con el consentimiento de éstos, se les impondrá sanción de uno a seis años de prisión y multa hasta por 70 unidades.
@@ -1741,7 +1759,7 @@ La pena aplicable a los descendientes o cuando la cópula se realice entre herma
 
 SECUESTRO.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION CUARTA.
 
@@ -1759,31 +1777,41 @@ RAPTO.
 
 Comete el delito de Homicidio el que priva de la vida a otro.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 169.
 
-Al responsable de Homicidio, que no tenga señalada una sanción especial en este Código, se le impondrán de diez a veinte años de prisión.
+Al responsable de Homicidio, que no tenga señalada una sanción especial en este Código, se le impondrán de quince a veinticinco años de prisión.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 170.
 
-Al responsable de Homicidio Calificado, se le impondrán de veinte a cuarenta años de prisión.
+Al responsable de Homicidio Calificado, se le impondrán de treinta y cinco a cincuenta años de prisión.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 171.
 
-Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, cónyuge, concubina o concubinario, adoptante o adoptado, sabiendo el autor esa relación se le impondrán de veinte a cuarenta años de prisión.
+Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, adoptante o adoptado, sabiendo el autor esa relación, o a quien es o fue antes del hecho cónyuge, concubina o concubinario, o pareja en una relación adúltera con el homicida, se le impondrán de treinta y cinco a cincuenta años de prisión.
+
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)(F. DE E., P.O. 18 DE ENERO DE 2003)
 
 ###### ARTICULO 172.
 
-Cuando el Homicidio sea cometido en riña, se aplicará de dos a catorce años de prisión, tratándose del provocador, y de tres días a ocho años de prisión y multa hasta por 80 unidades, si es el provocado.
+Cuando el Homicidio sea cometido en riña, se aplicará de siete a dieciséis años de prisión, tratándose del provocador; y de cinco a 10 años de prisión y multa hasta de 200 unidades, si es el provocado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 173.
 
-Cuando en la comisión de un Homicidio intervengan dos o más sujetos y no constare quién o quiénes son los homicidas, se les impondrán:
+Cuando en la comisión de un Homicidio intervinieren dos o más sujetos y no constare quién o quiénes son los homicidas, a todos se les impondrán:
 
-I.- De tres días a seis años de prisión y multa hasta por 60 unidades, si se cometiere en riña;
+I.- De tres a ocho años de prisión y multa hasta por 300 unidades, si se cometiere en riña;
 
-II.- De cuatro a diez años de prisión si se trata de Homicidio simple; y
+II.- De ocho a doce años de prisión si se trata de Homicidio Simple; y
 
-III.- De diez a treinta años de prisión si es calificado.
+III.- De veinte a cuarenta años de prisión si es calificado.
 
 ### CAPITULO I.
 
@@ -1811,21 +1839,29 @@ VII.- De tres a diez años de prisión, si causan incapacidad total permanente p
 
 En los casos de las fracciones I y II es necesaria la querella.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 175.
 
-Cuando las lesiones sean calificadas, las penas a que se refiere el Artículo anterior se aumentarán de seis meses a cuatro años de prisión.
+Cuando las lesiones sean calificadas, a las penas a que se refiere el Artículo anterior se aumentarán de seis meses a cinco años de prisión.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 176.
 
-Cuando las lesiones sean inferidas a un incapaz, por quien tenga por cualquier razón el deber de cuidarlo, salvo los casos previstos en el Artículo 179, se le impondrán las mismas sanciones que para las lesiones calificadas.
+Cuando las lesiones, sean inferidas a un menor o a quien no tenga capacidad para comprender el significado del hecho, o a un anciano mayor de 60 años, por quien tenga por cualquier razón el deber de cuidarlo, salvo los casos previstos en el Artículo 179, se le impondrán las mismas sanciones que para las lesiones calificadas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 177.
 
-Cuando el lesionado sea ascendiente consanguíneo en línea recta o adoptante del autor y éste haya obrado con conocimiento del parentezco (sic), las sanciones se aumentarán en los términos del Artículo 175.
+Cuando el lesionado sea ascendiente consanguíneo en línea recta o adoptante del autor y éste haya obrado con conocimiento del parentesco, las sanciones se aumentarán en los términos del Artículo 175.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 178.
 
-Igual agravación se aplicará cuando el ofendido sea descendiente consanguíneo en línea recta o adoptado mayores de edad, hermano, cónyuge, concubina o concubinario del autor de las lesiones y este tenga conocimiento de esa relación; pero será necesaria la querella.
+Igual agravación se aplicará cuando el ofendido sea ascendiente consanguíneo en línea recta o adoptado mayor de edad, o hermano y el autor tenga conocimiento de esa relación, o quien fue o es su cónyuge, concubina o concubinario, o su pareja en una relación adúltera, del autor de las lesiones. Requiriéndose la querella de parte ofendida.
 
 ###### ARTICULO 179.
 
@@ -1835,15 +1871,17 @@ Cuando el lesionado sea un descendiente consanguíneo o adoptado, incapaces, del
 
 Cuando las lesiones sean causadas en riña, se aplicarán de tres días hasta el término medio aritmético de la pena que correspondería conforme lo señala el Artículo 174 y multa hasta por sesenta y cinco unidades, si se trata del provocador, y de tres días al mínimo señalado en el precepto mencionado y multa hasta por treinta unidades, si se trata del provocado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 181.
 
 Cuando en la comisión de las lesiones intervengan dos o más sujetos y no constare quién o quiénes fueron los autores, a todos se les impondrán:
 
-I.- De tres días a tres años de prisión y multa hasta por treinta unidades, si se cometieren en riña;
+I.- De tres meses a cuatro años de prisión y multa hasta de 50 unidades, si se cometiera en riña;
 
-II.- De un mes a cinco años de prisión y multa hasta por cincuenta unidades, si se trata de lesiones simples; y
+II.- De uno o a seis años de prisión y multa hasta de 150 unidades, si se trata de lesiones simples; y
 
-III.- De cuatro meses a siete años de prisión y multa hasta por setenta unidades, si son calificadas.
+III.- De dos años seis meses a ocho años seis meses de prisión y multa hasta por 500 unidades, si son calificadas.
 
 ### CAPITULO II.
 
@@ -1871,11 +1909,11 @@ Se impondrán las sanciones del Homicidio o lesiones calificadas, cuando el deli
 
 La riña es la agresión física de una parte y la disposición material para contender de la otra, cualquiera que sea el número de contendientes, cuando actúen con el propósito de dañarse recíprocamente.
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 185.
 
-Además de las sanciones que señalen los Artículos anteriores, los jueces podrán imponer al sentenciado, si lo creyeren conveniente, la prohibición de ir a una circunscripción territorial determinada o de residir en ella.
+Además de las sanciones que señalen los Artículos anteriores, una vez decretada la formal prisión o sentenciado que sea el agente activo, para preservar a la víctima del delito cuando sea necesario, los jueces impondrán al procesado como medida preventiva, o sentenciado en su caso, la prohibición de ir a una circunscripción territorial determinada o de residir en ella.
 
 ### CAPITULO III.
 
@@ -1925,9 +1963,11 @@ Si el aborto punible lo causa un médico, enfermero o partero, además de las sa
 
 ESTUPRO.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO III.
 
-ABUSOS DESHONESTOS.
+ABUSO SEXUAL.
 
 ## TITULO TERCERO.
 
@@ -1954,6 +1994,10 @@ Se aplicará sanción de dos a ocho años de prisión y multa hasta por cien uni
 I.- Al que dispare sobre alguna persona, un arma de fuego;
 
 II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado la muerte.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Se aumentará hasta un tercio más de esta sanción cuando el ofendido sea o haya sido cónyuge, concubina o concubinario, o su pareja en relación adúltera, del agente activo.
 
 ### CAPITULO II.
 
@@ -1999,7 +2043,7 @@ FRAUDE.
 
 ## TITULO QUINTO.
 
-DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL.
+DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL.
 
 ### CAPITULO IV.
 
@@ -2007,23 +2051,37 @@ DESPOJO.
 
 ###### ARTICULO 196.
 
-Al particular que ilegalmente prive a otro de su libertad, se le aplicará prisión de seis meses a cuatro años y multa hasta por 45 unidades.
+Al particular que ilegalmente prive a otro de su libertad, se le aplicará prisión de dos a seis años de prisión y multa de 40 a 100 unidades.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 198], P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 197.
 
-Si el agente espontáneamente pone en libertad a la víctima dentro de los tres días siguientes a la comisión del delito podrá disminuirse la pena hasta la mitad.
-
-###### ARTICULO 198.
-
-La pena aplicable será de uno a ocho años de prisión y multa hasta por 90 unidades, cuando concurra alguna de las circunstancias siguientes:
+La pena aplicable será de cinco a diez años de prisión y multa de 100 a 300 unidades, cuando concurra alguna de las circunstancias siguientes:
 
 I.- Que se utilicen medios violentos o humillantes para la víctima;
 
-II.- Que la víctima sea menor de dieciséis años de edad o que por cualquier circunstancia esté en situación de inferioridad física respecto del agente;
+II.- Que la víctima sea menor de edad, mujer embarazada o que tenga menos de seis meses de parto, o tenga más de sesenta años, o carezca de capacidad para comprender el significado del hecho, o posea alguna discapacidad física, o que por cualquier circunstancia esté en situación de inferioridad física o mental respecto del agente;
 
-III.- Que la privación de la libertad se prolongue por más de ocho días;
+III.- Que la privación de la libertad se prolongue por más de cuatro días;
 
-IV.- Que el activo pretenda mediante la privación de la libertad el reconocimiento de un derecho o el cumplimiento de una obligación de parte del pasivo.
+IV.- Que la víctima sea o haya sido cónyuge, concubina o concubinario o pareja en una relación de adulterio, del agente activo;
+
+V.- Que la privación de la libertad cause daños corporales al pasivo;
+
+VI.- Que el activo pretenda mediante la privación de la libertad el reconocimiento de un derecho o el cumplimiento de una obligación de parte del pasivo;
+
+VII.- Que cause daños o perjuicios a las personas relacionadas con el pasivo;
+
+VIII.- Que en la privación de la libertad intervengan dos o más personas; o
+
+IX.- Que la autoridad realice o deje de hacer un acto de cualquier índole.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 197], P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 198.
+
+Si el agente espontáneamente pone en libertad a la víctima dentro de los dos días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
 
 ### CAPITULO V.
 
@@ -2031,29 +2089,77 @@ DAÑOS.
 
 ###### ARTICULO 199.
 
-Al que prive de la libertad a otro se le aplicará prisión de diez a veinticinco años, si el hecho se realiza con el propósito de:
+Al que prive de la libertad a otro se le aplicará prisión de dieciocho a veintiocho años, si el hecho se realiza con el propósito de:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 I.- Obtener rescate o cualquier otra prestación indebida;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 II.- Que la autoridad realice o deje de hacer un acto de cualquier índole;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 III.- Causar daños corporales al secuestrado, o
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 IV.- Causar daños o perjuicios al secuestrado o a persona relacionada con él.
 
-La pena será de quince a cuarenta años de prisión, si concurre alguna de las circunstancias siguientes:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+La pena será de treinta a cuarenta y cinco años de prisión, si concurre alguna de las circunstancias siguientes:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 I.- Que el agente obtenga cualquiera de los propósitos enumerados anteriormente;
 
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
 II.- Que el secuestro se realice en lugar desprotegido;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
 III.- Que el Agente se ostente como autoridad sin serlo;
 
-IV.- Que en el secuestro intervengan dos o más personas;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-V.- Que se utilicen medios violentos o humillantes para la víctima, o
+IV.- Se cometa por servidores públicos que desempeñen funciones de prevención, investigación o persecución de delitos o por elementos de seguridad, activos en corporaciones privadas;
 
-VI.- Que la víctima sea menor de dieciséis años de edad o que por cualquier circunstancia esté en situación de inferioridad física respecto del agente.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+V.- Se cometa por personas que con anterioridad a la comisión del secuestro, hayan desempeñado funciones de prevención investigación o persecución de delitos o hubieren fungido como elementos de seguridad en corporaciones públicas o privadas;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+VI.- Que en el secuestro intervengan dos o más personas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+VII.- Que la víctima sea menor de edad, mujer embarazada, o que esté dentro de los seis meses posteriores al parto, o persona mayor de sesenta años, o no tenga capacidad para comprender el significado del hecho, o quien tenga alguna discapacidad física, o que por cualquier circunstancia esté en situación de inferioridad física o mental respecto del agente;
+
+(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)(F. DE E., P.O. 18 DE ENERO DE 2003)
+
+VIII.- Entre el activo y el pasivo exista vínculo de parentesco en cualquier línea hasta el cuarto grado, amistad, gratitud, trabajo o cualquier otro vínculo que produzca confianza en el pasivo;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+IX.- Que la privación de la libertad se prolongue por más de cinco días;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+X.- El activo acepte, persuada u obligue a la víctima a que realice directa o indirectamente operaciones o transacciones bancarias, mercantiles, civiles o cualquiera otra que produzca liberación o transmisión de obligaciones o derechos, obtenga o no el beneficio el activo directamente o persona con él relacionada o alguno de sus allegados;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XI.- Que se utilicen medios violentos, vejatorios o humillantes para la víctima;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+XII.- Se torture o mutile cualquier parte del cuerpo de la víctima.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Si espontáneamente se pone en libertad a la persona antes de veinticuatro horas y sin causar daños o perjuicios graves, sólo se aplicará hasta las dos terceras partes de la pena prevista para cualquiera de los casos señalados en este artículo.
 
@@ -2069,13 +2175,17 @@ Al que sustraiga o retenga a una persona menor de 18 años, por medio de la viol
 
 Si el sujeto pasivo tuviere 18 años o más, el rapto sólo se sancionará cuando se cometa por medio de la violencia.
 
-Igual sanción se aplicará al que con idénticos fines sustraiga o retenga a una persona de 12 a menos de 14 años de edad o que por cualquier causa no pudiere resistir.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-Por el sólo hecho de no haber cumplido 16 años la persona que voluntariamente siga a su raptor, se presumirá que éste empleó la seducción.
+Igual sanción se aplicará al que con idénticos fines sustraiga o retenga a una persona que por cualquier causa no pudiere resistir.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que voluntariamente siga a su raptor, se presumirá que éste empleó la seducción.
 
 ###### ARTICULO 201.
 
-No se sancionará al responsable y demás que intervengan en el rapto, si aquél contrae matrimonio con el sujeto pasivo, después de ser restituido a lugar seguro.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 202.
 
@@ -2111,6 +2221,8 @@ Al que teniendo conocimiento de un secreto, lo revelare, si de ello pudiera resu
 
 Las sanciones serán de uno a cinco años de prisión y multa hasta por 60 unidades, cuando la revelación sea hecha por persona que lo hubiere conocido por razón de su empleo, profesión, arte u oficio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ## TITULO SEPTIMO.
 
 DELITOS CONTRA EL PATRIMONIO.
@@ -2121,11 +2233,19 @@ DELITOS CONTRA EL PATRIMONIO.
 
 Comete el delito de violación el que por medio de la violencia física o moral tenga cópula con una persona, sea cual fuere su sexo.
 
-Al responsable del delito de violación se le impondrán de dos a diez años de prisión y multa hasta por 100 unidades, si el sujeto pasivo es mayor de 18 años de edad, o de cuatro a doce años de prisión, cuando el pasivo tenga entre 12 y 18 años de edad.
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Para los efectos de este artículo se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo o género.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Al responsable del delito de violación se le impondrán de dos a diez años de prisión y multa hasta por 100 unidades, si el sujeto pasivo es mayor de dieciocho años de edad, o de seis a catorce años de prisión, y multa de 200 unidades cuando el pasivo tenga entre catorce y dieciocho años de edad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 207.
 
-Cuando entre el activo y pasivo de la violación exista parentezco (sic) por consanguinidad en línea recta o colateral hasta el cuarto grado, por afinidad en primer grado o civil, la pena aplicable será de seis a catorce años de prisión.
+Cuando entre el activo y pasivo de la violación exista parentesco por consanguinidad en línea recta o colateral hasta el cuarto grado, por afinidad en primer grado o civil, la pena aplicable será de ocho a dieciséis años de prisión y multa de 100 unidades.
 
 Igual pena se impondrá cuando el delito se cometa por el tutor contra su pupilo o por éste contra aquél; por el padrastro contra el hijastro o viceversa.
 
@@ -2135,9 +2255,11 @@ La misma pena se impondrá cuando la violación se cometa utilizando los medios 
 
 Cuando en la violación intervengan dos o más personas se les aplicará la pena prevista en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 209.
 
-Al que tenga cópula con persona menor de 12 años de edad o que no tenga capacidad de comprender o que por cualquier causa no pueda resistir, se le impondrán de seis a catorce años de prisión.
+Al que tenga cópula con persona menor de catorce años de edad, o con quien que (sic) no tenga capacidad para comprender el significado del hecho, o con quien por cualquier causa no pueda resistir, se le impondrán de ocho a dieciséis años de prisión y multa de 200 unidades.
 
 ###### ARTICULO 210.
 
@@ -2147,9 +2269,7 @@ Según el caso, se impondrán las penas señaladas en los Artículos anteriores,
 
 ###### ARTICULO 211.
 
-Al que realice cópula con una mujer menor de 18 años de edad que viva honestamente, obteniendo su consentimiento por medio de seducción o engaño, se le impondrán de uno a seis años de prisión y multa hasta por 70 unidades.
-
-Se presumirá que existió seducción cuando el sujeto pasivo sea menor de 16 años de edad.
+Quien realice cópula con quien sea menor de dieciocho años de edad, que viva sexualmente con honestidad, obteniendo su consentimiento por medio de seducción o engaño, se le impondrán de uno a seis años de prisión y multa hasta por 70 unidades.
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
 
@@ -2161,7 +2281,9 @@ Si la mujer de 12 a menos de 14 años otorga su consentimiento para la cópula, 
 
 No se procederá contra el activo sino por querella de la mujer ofendida o de sus representantes legítimos.
 
-El matrimonio del inculpado con la ofendida extingue la acción penal o las sanciones impuestas.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VI. Autoría y Participación............................... 326
 
@@ -2179,13 +2301,21 @@ Solo se procederá contra el responsable a petición de la parte ofendida o de s
 
 Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de tres meses a tres años y multa hasta por 30 unidades.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 215.
 
-Al que sin el propósito de llegar a la cópula ejecute un acto erótico sexual en persona menor de 14 años, o que no tenga capacidad de comprender, o que por cualquier causa no pueda resistir dichos actos, o la obligue a ejecutarlos, se le impondrá prisión de uno a cuatro años y multa hasta por 50 unidades.
+Comete el delito de Abuso Sexual quien sin el propósito de llegar a la cópula ejecute un acto erótico sexual en persona menor de dieciocho años de edad, o en quien no tenga capacidad de comprender el significado del hecho, o en quien por cualquier causa no pueda resistir. Al responsable del Abuso Sexual se le impondrán de dos a seis años de prisión y multa hasta de 150 unidades. Cuando el sujeto pasivo tenga catorce a dieciocho años de edad, se le impondrá prisión de uno a cuatro años y multa hasta por 50 unidades.
+
+Si el sujeto pasivo es obligado a ejecutar el acto erótico sexual, la pena de prisión podrá aumentar seis meses más. Si se obliga a un menor de edad, la pena de prisión aumentará hasta una mitad más.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 216.
 
-El delito de abusos deshonestos sólo se perseguirá por querella de parte ofendida o de sus representantes legítimos.
+El delito de abuso sexual se perseguirá por querella de parte ofendida.
+
+Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
 
@@ -2682,3 +2812,9 @@ UNICO.- El presente decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 15 DE JUNIO DE 2002.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE DICIEMBRE DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
