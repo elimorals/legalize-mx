@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-14-2001-de-la-comision-de-creacion-de-nuevos-62773
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-11-08"
-last_updated: "2001-11-08"
+last_updated: "2001-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62773&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-23"
 
 ACUERDO CCNO/14/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA EXTENSION DEL LAPSO EN EL QUE SE MODIFICA DE MANERA TEMPORAL LA COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO Y LAS REGLAS DE RECEPCION Y TURNO DE NUEVOS ASUNTOS DE LOS TRIBUNALES COLEGIADOS EN MATERIAS PENAL Y DE TRABAJO DEL MISMO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de noviembre de 2001.
 
@@ -49,6 +49,8 @@ En consecuencia, con fundamento en los preceptos constitucionales y legales invo
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO QUINTO DEL ACUERDO GENERAL 88/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2001, A PARTIR DEL 14 DE DICIEMBRE DE 2001, SE MODIFICA LA EXTENSION DE COMPETENCIA DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO, Y LAS REGLAS DE RECEPCION Y TURNO DE NUEVOS ASUNTOS DE LOS TRIBUNALES COLEGIADOS EN MATERIAS PENAL Y DE TRABAJO DEL MISMO CIRCUITO, CON RESIDENCIA EN MONTERREY, NUEVO LEON.</small>
+
 PRIMERO.- Se extiende el lapso en el que se modifica temporalmente la competencia de los Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito y las reglas de recepción y turno de nuevos asuntos de los Tribunales Colegiados en Materias Penal y de Trabajo del mismo Circuito, con residencia en Monterrey, Nuevo León, establecido en el punto SEGUNDO del Acuerdo General 31/2001 del Pleno del Consejo de la Judicatura Federal.
 
 El término de la extensión señalada comprenderá del dieciséis de noviembre de dos mil uno al veintiocho de febrero de dos mil dos; subsistiendo en sus términos los demás puntos del referido Acuerdo General 31/2001.
@@ -62,3 +64,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/14/2001, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Extensión del Lapso en el que se Modifica de Manera Temporal la Competencia de los Tribunales Colegiados en Materia de Trabajo del Cuarto Circuito y las Reglas de Recepción y Turno de Nuevos Asuntos de los Tribunales Colegiados en Materias Penal y de Trabajo del mismo Circuito, con Residencia en Monterrey, Nuevo León, fue aprobado por la propia Comisión en sesión privada extraordinaria celebrada el veintitrés de octubre de dos mil uno, por los señores Consejeros: Presidente Interino José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a veintitrés de octubre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
