@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-la-junta-central-de-conciliacion-y-9653"
 country: "mx"
 rank: "ley"
 publication_date: "1918-10-10"
-last_updated: "1918-10-10"
+last_updated: "1925-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE LA JUNTA CENTRAL DE CONCILIACION Y ARBITRAJE Y LAS JUNTAS MUNICIPALES DE CONCILIACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE NOVIEMBRE DE 1925.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 10 de octubre de 1918.
 
@@ -71,9 +71,11 @@ Los miembros de las Juntas Municipales de Conciliación, cada vez que estos Cuer
 
 La Junta Central de Conciliación y Arbitraje del Estado, se instalará y funcionará permanentemente en la Capital del mismo.
 
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 1925)</small>
+
 ###### Art. 7.
 
-La Junta Central de Conciliación y Arbitraje se integrará por tres representantes de los patronos, tres de los trabajadores y uno del Gobierno del Estado.
+La Junta Central de Conciliación y Arbitraje del Estado, se integrará por dos Representantes de los patronos, dos de los trabajadores y uno del Gobierno del Estado.
 
 ###### Art. 8.
 
@@ -83,9 +85,11 @@ El representante del Gobierno del Estado tendrá el carácter de Presidente de l
 
 Los patronos y obreros de todo el Estado, que existiesen constituidos o no en Sindicato o Sindicatos, nombrarán sus representantes respectivamente, de modo que unos y otros queden designados el día 1° de enero de cada año.
 
+> <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 1925)</small>
+
 ###### Art. 10.
 
-Los representes de trabajadores y patronos durarán en su encargo el año para el que fueron designados y podrán ser reelectos.
+Los Representantes de trabajadores y patronos durarán en su encargo dos años y no podrán ser reelectos.
 
 ###### Art. 11.
 
@@ -358,3 +362,11 @@ El Oficial 1°. E. De. D..
 General
 
 M. Piña h.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+B.O. 18 DE NOVIEMBRE DE 1925.
+
+Primero.- El Ejecutivo del Estado, modificará el Reglamento para la renovación de la Junta Central de Conciliación y Arbitraje expedido en 1o. de enero de 1924, de acuerdo con la presente Ley.
+
+Segundo.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
