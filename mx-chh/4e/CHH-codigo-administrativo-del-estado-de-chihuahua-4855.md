@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1992-01-08"
+last_updated: "1992-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1992.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1704,6 +1704,18 @@ Por cada libro se llevarán dos apéndices, con el número que corresponde al li
 Las hojas que forman los apéndices se sellarán y numerarán progresivamente y se hará constar el número de hojas que contiene cada apéndice al quedar terminado.
 
 En el caso de que se haya agotado el espacio para anotaciones marginales, así como las hojas destinadas al efecto, el Registrador podrá continuar en las páginas de los libros que se lleven en uso en la Oficina y que se destinen a estos efectos, haciendo las anotaciones correspondientes que enlacen unos libros con otros; o autorizar cuaderno-apéndice para que se anoten las segregaciones de determinada inscripción, haciéndose la referencia al autorizarlo y anotándose al margen de la inscripción relativa.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1992)</small>
+
+###### ARTICULO 285
+
+BIS.- Podrán utilizarse procedimientos electro magnéticos, (sic) inscribiéndose en el lado anverso de la hoja un extracto del documento a registrar; el reverso será destinado para las anotaciones que posteriormente afecten, graven, limiten o modifiquen la inscripción.
+
+La primera hoja de cada libro sin numerar, será destinada a su respectiva autorización y las siguientes a inscripciones.
+
+Para cada sección podrán llevarse varios libros, ya sea en forma individual o en forma simultánea. Si es en forma individual, la numeración de la (sic) inscripciones se seguirá en orden progresivo hasta terminar el libro; si se utilizan varios libros en forma simultánea, se seguirá un orden riguroso yendo de un libro a otro, en cada acto hasta llegar al último y volviendo de este al primero.
+
+Para el caso de que se agote el reverso de la hoja destinada para anotaciones derivadas de la inscripción, se podrán continuar haciendo las anotaciones correspondientes que las enlacen con el cuaderno o cuadernos apéndices que sean necesarios, previa autorización del Jefe del Departamento.
 
 ###### ARTICULO 286.
 
@@ -10113,15 +10125,15 @@ DECIMA SEGUNDA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA, P.O. 17 DE MAYO DE 1989)
 
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA TERCERA PARTE
+
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
-
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11236,3 +11248,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- ESTA LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO DEL GOBIERNO DEL ESTADO.
 
 SEGUNDO.- SE DEROGAN LOS ARTÍCULOS DEL 339 AL 470, INCLUSIVE DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA.
+
+P.O. 15 DE ENERO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
