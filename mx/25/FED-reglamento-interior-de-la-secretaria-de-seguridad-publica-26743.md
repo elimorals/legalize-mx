@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-publica-26743
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-09"
-last_updated: "2002-12-09"
+last_updated: "2005-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26743&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-12-05"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 9 de diciembre de 2002.
 
@@ -1078,3 +1080,13 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Públi
 TERCERO.- La Oficialía Mayor de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la Subsecretaría de Servicios a la Ciudadanía y a la Dirección General de Vinculación con Instituciones Policiales, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Seguridad Pública, Alejandro Gertz Manero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
+
+D.O.F. 6 DE ENERO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Oficialía Mayor de la Secretaría realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que desaparecen por virtud de este Reglamento, sean transferidos a las unidades administrativas que correspondan.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2002.
