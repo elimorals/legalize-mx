@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1999-12-31"
+last_updated: "2000-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -509,6 +509,14 @@ En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del 
 
 A los predios que al primero de enero del año 2000, hubieren sido objeto de revalorización por la Junta Municipal Catastral o la Junta Central Catastral en su caso en un periodo de doce meses anteriores, no les será aplicable lo dispuesto en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 23o.
+
+En los términos previstos en los artículos 20 y 21 de la Ley del Catastro del Estado, durante el año 2001 se aplicará un incremento en las Bases Generales de Valores por Unidad Tipo y en los valores catastrales de los predios ubicados en el Estado, de un 10% respecto de los terrenos y construcciones. En ningún caso los valores catastrales podrán rebasar el valor actual real de los inmuebles.
+
+A los predios que durante el año 2000 se les hubiere ajustado el valor con motivo de una revalorización por parte de la Junta Municipal Catastral o la Junta Central Catastral, no les será aplicable lo dispuesto en el párrafo anterior.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de enero de mil novecientos sesenta y cuatro.- PRESIDENTE: DIP. MARIO GARZA VALDEZ.- DIP. SECRETARIO HILARIO CONTRERAS GARCIA.- DIP. SECRETARIO: ARTURO DE LA GARZA GONZALEZ". Rúbricas.
@@ -544,16 +552,6 @@ TERCERO.- Se dejan sin efecto todas las disposiciones que se contrapongan con el
 CUARTO.- Por nuevos fraccionamientos, en los términos del Artículo 23 de este Decreto, se entienden aquellos cuya autorización para fraccionar se otorgue con posterioridad a la iniciación de vigencia de este Decreto.
 
 P.O. 25 DE DICIEMBRE DE 1978.
-
-###### ARTICULO 23o.
-
-BIS.- Los Municipios presentarán a la Dirección de Catastro, los estudios comerciales correspondientes a su circunscripción territorial y vigilarán el comportamiento del mercado para mantener actualizados estos valores, ya que servirán de base para determinar el valor actual real que expida la Secretaría de Finanzas y Tesorería General del Estado, mismo que se utilizará para el cálculo del Impuesto Sobre Adquisición de Inmuebles.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-En caso de revisión y/o modificación del valor actual real que realice la Secretaría de Finanzas y Tesorería General del Estado, con motivo de inconformidades, deberá estar presente un representante del Municipio que corresponda para que emita la opinión respectiva.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO PRIMERO
 
@@ -698,3 +696,7 @@ El presente Decreto entrará en vigor el 1º. de Enero de 1999.
 P.O. 31 DE DICIEMBRE DE 1999.
 
 Artículo Único.- El presente Decreto entrará en vigor el 1o. de Enero del año 2000.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1o. de enero del año 2001.
