@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2000-10-11"
+last_updated: "2003-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -151,11 +151,21 @@ V.- Los Secretarios del Supremo Tribunal y de los Juzgados;
 
 VI.- El Contralor General;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2003)</small>
 
-VII.- Los notificadores; y
+VII.- El Director del Centro Estatal de Mediación;
 
-VIII.- Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el artículo 42 de esta Ley.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+VIII.- Los Subdirectores Regionales del Centro Estatal de Mediación;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+IX.- Los notificadores; y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+X.- Los que tengan a su cargo la dirección o coordinación de las dependencias a que alude el Artículo 42 de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -177,7 +187,11 @@ IV.- El personal subalterno de los Departamentos del Fondo Auxiliar para la Admi
 
 V.- Aquéllos que al expedirse su nombramiento se especifique que son designados con ese carácter; y
 
-VI.- Los que, sin tener el carácter de funcionarios, presten servicios al Poder Judicial de manera provisional o eventual.
+VI.- Los que, sin tener el carácter de funcionarios, presten servicios al Poder Judicial de manera provisional o eventual;
+
+> <small>(REFORMADA P.O. 7 DE JUNIO DE 2003)</small>
+
+VII.- Los Mediadores adscritos al Centro Estatal de Mediación.
 
 ###### ARTICULO 19.
 
@@ -283,11 +297,11 @@ Para la designación de funcionarios y empleados del Poder Judicial se tomarán 
 
 Los Magistrados no podrán proponer y los Jueces nombrar, como funcionarios o empleados de las oficinas de su adscripción, a personas con las que tengan parentesco por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 34.
 
-Las vacantes de jueces de primera instancia se cubrirán mediante concurso de méritos.
+Las vacantes de Jueces de Primera Instancia, así como la del Director General del Centro Estatal de Mediación, se cubrirán mediante concurso de méritos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -301,23 +315,35 @@ I.- Será convocado, previo acuerdo del Pleno, por el Secretario General y lo ll
 
 II.- Se escuchará la opinión de las asociaciones de abogados del Distrito Judicial donde se genere la vacante, para lo cual oportunamente se les comunicará la lista de aspirantes y la fecha del examen.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2003)</small>
 
-III.- Al examen que deba realizarse para elegir magistrados o jueces, se aplicarán las siguientes bases:
+III.- Al examen que deba realizarse para elegir Magistrados, Jueces o al Director General del Centro Estatal de Mediación, se aplicarán las siguientes bases:
+
+> <small>(REFORMADO P.O. 5 DE ENERO DE 2000)</small>
 
 a).- El Jurado formulará y entregará a los sustentantes una guía respecto de las materias o aspectos sobre los que versará el examen que deban presentar;
 
-b).- En el caso de la elección de magistrados, los miembros del Jurado Calificador que designe el Poder Judicial, serán magistrados de la materia afín a la que deba conocer la Sala que se concursa. Tratándose de la designación de jueces, el Jurado se integrará por magistrados de la materia que deba conocer el Juzgado que se concursa; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+b).- En al caso de la elección de magistrados, los miembros del Jurado Calificador que designe el Poder Judicial, serán magistrados de la materia afín a la que deba conocer la Sala que se concursa; tratándose de la designación de Jueces, el Jurado se integrará por Magistrados de la materia que deba conocer el Juzgado que se concursa; tratándose de la designación del Director General del Centro Estatal de Mediación, el Jurado se integrará por magistrados tanto civiles como penales, así como por especialistas en la materia de mediación, avalados por una institución educativa legalmente reconocida; y,
+
+> <small>(REFORMADO P.O. 5 DE ENERO DE 2000)</small>
 
 c).- Si alguno de los miembros del Jurado tiene relación laboral o de parentesco con cualquiera de los sustentantes se excusará de formar parte del Jurado que lo examine, nombrándose en su lugar al magistrado sustituto que para tal efecto se designará en su oportunidad;
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2003)</small>
 
-IV.- El Pleno, previo dictamen de la Comisión, decidirá quien deberá ser designado como titular del juzgado, para lo que deberá tomar en cuenta:
+IV.- El Pleno, previo dictamen de la Comisión, decidirá quién deberá ser designado como Titular del Juzgado o Director General del Centro Estatal de Mediación, para lo que deberá tomar en cuenta:
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
 a).- La honradez, la responsabilidad y la experiencia profesional de los concursantes, especialmente la que hubieran obtenido en cargos judiciales y en administración pública;
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
+
 b).- Los cursos aprobados en el Centro de Información y Capacitación Judicial, así como sus demás antecedentes académicos, y
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
 c).- La capacidad y aptitud demostrada en los exámenes que se les hubieran aplicado.
 
@@ -501,9 +527,9 @@ III.- Convocar a concurso de méritos, en los términos del artículo 103 de la 
 
 IV.- Elegir la terna para los efectos del artículo 68 de esta ley;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
 
-V.- Convocar a concurso de oposición para la designación de jueces de primera instancia y hacer el nombramiento correspondiente. Declarar, a solicitud del interesado, cuando alguno de esos jueces ha devenido inamovible;
+V.- Convocar a conducto de oposición para la designación de Jueces de Primera Instancia y del Director General del Centro Estatal de Mediación y hacer el nombramiento correspondiente de los mismos. Declarar, a solicitud del interesado, cuando alguno de los Jueces ha devenido inamovible, con excepción del Director General del Centro Estatal de Mediación, quien no gozará de tal derecho;
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -515,9 +541,9 @@ VII.- De oficio o a petición del magistrado, atraer cualquier asunto que pro (s
 
 VIII.- Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aún cuando no fueren del mismo ramo;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
 
-IX.- Crear y suprimir juzgados. Establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia;
+IX.- Crear y suprimir Juzgados y establecer el ramo en que deban actuar, señalar las poblaciones de su residencia y realizar los cambios necesarios para la eficiencia del servicio de impartición de justicia. Lo mismo procederá en los casos de las Subdirecciones Regionales de Mediación, en los términos de su Ley;
 
 X.- Nombrar, cesar o cambiar de adscripción a jueces, secretarios y notificadores, así como a funcionarios y empleados del tribunal;
 
@@ -527,7 +553,9 @@ XII.- Crear y suprimir secretarías auxiliares del Supremo Tribunal y las demás
 
 XIII.- Aumentar temporalmente el número de funcionarios o empleados del Poder Judicial, cuando así lo requiera las necesidades de trabajo;
 
-XIV.- Aprobar los nombramientos que hicieran los jueces de los secretarios del juzgado;
+> <small>(REFORMADA P.O. 7 DE JUNIO DE 2003)</small>
+
+XIV.- Aprobar los nombramientos que hicieran los Jueces de los Secretarios del Juzgado, así como los nombramientos de los Subdirectores Regionales y de los mediadores adscritos al mismo, que hiciera el Director General del Centro Estatal de Mediación.
 
 XV.- Conceder licencias a funcionarios y empleados para separarse de sus cargos, salvo que esta atribución corresponda a otras instancias del Poder Judicial o de la administración pública;
 
@@ -2425,11 +2453,11 @@ Si la sanción la decretó el Pleno, el medio de impugnación será la reconside
 
 Los Encargados de las Dependencias Administrativas del Supremo Tribunal, podrán imponer correcciones disciplinarias a sus subalternos cuando cometan faltas que no sean graves; si lo son, darán cuenta al Presidente del Tribunal para que intervenga con arreglo a sus facultades a fin de imponer las medidas disciplinarias procedentes.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 202.
 
-Siempre que el Pleno, los magistrados, jueces o encargados de la dependencias administrativas del Supremo Tribunal, impongan correcciones disciplinarias, enviarán la constancia relativa a la Secretaría General del Tribunal para que se agregue al expediente del funcionario o empleado y, en su caso, se haga efectiva la sanción impuesta.
+Siempre que el Pleno, los Magistrados, Jueces, el Director General del Centro Estatal de Mediación o encargados de las dependencias administrativas del Supremo Tribunal impongan correcciones disciplinarias, enviarán la constancia relativa a la Secretaría General del Tribunal, para que se agregue al expediente del funcionario o empleado y, en su caso, se haga efectiva la sanción impuesta.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
@@ -2457,29 +2485,49 @@ La autoridad que deba conocer y resolver las quejas, las desechará de plano cua
 
 El escrito de queja deberá presentarse dentro de diez días hábiles contados a partir de la consumación de los hechos que la fundamenten o en caso de hechos continuos, a partir del día siguiente en que cese su ejecución, salvo que la ley señale plazo distinto. Transcurrido el plazo, caducará el derecho del interesado.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 205.
 
 Las quejas por faltas de los funcionarios o empleados que a continuación se mencionan, se tramitarán y corregirán como sigue:
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2000)</small>
+
 I.- Las cometidas por los magistrados, por el Pleno, presentándose ante el Presidente quien las tramitará hasta dejar el asunto en estado de resolución, salvo el caso previsto en el artículo 181 de la Constitución Política del Estado;
 
-II.- Las de los jueces de primera instancia, por el Presidente del Tribunal;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+II.- Las de los jueces de primera instancia, así como del Director General del Centro Estatal de Mediación, por el Presidente del Tribunal;
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 III.- Los de los jueces menores y de paz, por el juez de primera instancia del distrito judicial correspondiente.
 
 En los distritos en que haya más de uno, el procedimiento se seguirá ante el juez de la materia con menor número de asignación;
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+
 IV.- Las del Secretario General, Secretarios del Tribunal adscritos a la Presidencia y empleados de esta dependencia o de la Secretaría General, así como de Notificadores y Ministros Ejecutores, por el Presidente del Supremo Tribunal;
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 V.- Los de los Secretarios y empleados adscritos a las Salas, por el magistrado de la adscripción;
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+
 VI.- Las de los Secretarios de Acuerdos, Proyectistas y empleados adscritos a los Juzgados del Estado, por el juez de la adscripción;
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
 
 VII.- En los casos de las fracciones II a VI de este artículo, si a juicio del funcionario que conozca de la queja, se amerita el cese definitivo del infractor, dará cuenta al Pleno para que resuelva lo procedente; y
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2000)</small>
+
 VIII.- En los demás casos no previstos en las fracciones anteriores, por el Presidente del Tribunal.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2003)</small>
+
+IX.- Las de los Subdirectores Regionales del Centro Estatal de Mediación, así como de los mediadores adscritos al mismo, por el Director General de dicho Centro.
 
 Cuando simultáneamente se hagan valer reclamaciones en contra de dos o más personas, sean funcionarios o empleados y el conocimiento de las mismas corresponda a dos o más autoridades, la de mayor jerarquía conocerá de todas ellas, aplicando las sanciones que procedan en cada caso.
 
@@ -2784,3 +2832,9 @@ P.O. 11 DE OCTUBRE DE 2000.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos que se encuentren en trámite a la entrada en vigor de las reformas que el Decreto contiene, desde luego se ajustarán a la nueva tramitación, en cuanto su estado lo permita.
+
+P.O. 7 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrarán (sic) en vigor el día primero de julio del año 2003.
