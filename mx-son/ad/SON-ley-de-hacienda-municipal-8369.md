@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1996-12-26"
+last_updated: "1996-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -621,11 +621,11 @@ El impuesto se causará:
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57.
 
-Tratándose de predios no edificados, las tasas que resulten, después de aplicar a cada una de las categorías, la tarifa a que se refiere la fracción II del artículo anterior, se incrementarán en un 2 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de diez años, conforme a las normas siguientes:
+Tratándose de predios no edificados, las tasas que resulten, después de aplicar a cada una de las categorías, la tarifa a que se refiere la fracción II del artículo anterior, se incrementarán en un 1 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de diez años, conforme a las normas siguientes:
 
 I.- (DEROGADA, B.O. 16 DE NOVIEMBRE DE 1987)
 
@@ -725,7 +725,7 @@ Es objeto de este impuesto, la adquisición de bienes inmuebles que consistan en
 
 ###### ARTICULO 72.
 
-Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
+Para los efectos de este impuesto, se entiende por adquisición, la que derive de:
 
 > <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 1985)</small>
 
@@ -1073,6 +1073,8 @@ Las cuotas de los derechos que se causen por la prestación de los servicios pú
 
 ### CAPITULO CUARTO. Limpia
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 107.
 
 Las tarifas y derechos de conexión de derechos que se causen por la prestación por parte de los organismos operadores municipales, del servicio de agua potable y alcantarillado, así como lo relativo a la forma y época de pago de los mismos y a las demás circunstancias concernientes a la prestación de este servicio, se regularán por los ordenamientos jurídicos correspondientes.
@@ -1127,7 +1129,21 @@ ARTICULO 111 BIS.- Las cuotas de los derechos del servicio de alumbrado público
 
 ###### ARTICULO 112.
 
-(DEROGADO, B.O. 29 DE DICIEMBRE DE 1989)
+Por la prestación del servicio público normal de limpia los propietarios o poseedores de predios urbanos, pagarán un derecho equivalente al 10% sobre el importe del impuesto predial, indicado en la boleta de pago que se expida, que deberá ser cubierto simultáneamente a éste.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 112 BIS.- Los comercios, industrias, prestadores de servicios, particulares o dependencias y entidades públicas que generen volúmenes extraordinarios de basura, desperdicios o residuos sólidos, que requieran atención especial o fuera de las horas o periodicidad normal de trabajo, deberán contratar los servicios especiales de limpia, debiendo pagar las siguientes cuotas:
+
+I.- Por el servicio de recolección, por cada 10 kilogramos o fracción: $6.00
+
+II.- Por el servicio de recepción en estaciones de transferencia, por cada 10 kilogramos o fracción: $2.00
+
+III.- Por el servicio de recepción en sitios de disposición final, por cada 10 kilogramos o fracción: $2.00
+
+El pago de los derechos se hará previamente a la prestación de los servicios y conforme a las estimaciones que al efecto convengan los contribuyentes y la autoridad municipal, debiendo enterarse por períodos mensuales dentro de los cinco días anteriores al inicio del mes por el que deba efectuarse el pago ante las oficinas de la autoridad fiscal.
+
+Los propietarios de predios baldíos o construidos pero no ocupados, deberán mantener limpios los mismos.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1251,7 +1267,7 @@ Cuando la policía preventiva preste el servicio de alarma, las personas que le 
 
 ### CAPITULO DECIMO SEGUNDO. Desarrollo Urbano
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 127.
 
@@ -1287,9 +1303,25 @@ Cuando los Ayuntamientos tengan contratado seguro por la pérdida o los daños c
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO DECIMO CUARTO. Otros Servicios
+### CAPITULO DECIMO TERCERO BIS. Uso o Tenencia de Anuncios o Publicidad
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 137 BIS.- Para toda clase de anuncios y carteles o cualquier tipo de publicidad, excepto la que se realice por medio de televisión, radio, periódicos y revistas se necesita licencia, permiso o autorización por lo que se pagarán los derechos conforme a la siguiente tarifa:
+
+(VEASE TABLA ANEXA)
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 137 BIS A.- Los pagos a que se refiere el artículo anterior, así como sus refrendos, serán cubiertos por las personas físicas o morales que fijen o coloquen los anuncios o carteles o realicen cualquier tipo de publicidad en los términos señalados en este Capítulo.
+
+Serán responsables solidarios los propietarios de los predios, fincas o vehículos en donde se fijen o coloquen los anuncios o carteles o se lleve a cabo la publicidad, así como las personas físicas o morales cuyos productos, servicios o actividades sean objeto de los anuncios, carteles o publicidad.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 137 BIS B.- Estarán exentos del pago de estos derechos, los anuncios, carteles o cualquier tipo de publicidad que realicen las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública, las iglesias y los de carácter cultural.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 131.
 
@@ -1329,29 +1361,29 @@ e) Hasta por 540 días, para obras cuyo volumen exceda de 400 metros cuadrados, 
 
 En caso de que la obra autorizada conforme a este artículo, no se concluya en el tiempo previsto en la licencia respectiva, se otorgará una prórroga de la misma, para la cual se pagará el 50% del importe inicial, hasta la conclusión de la obra de que se trate.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 133.
 
 En materia de fraccionamientos, se causarán los siguientes derechos:
 
-I.- Por la revisión de la documentación relativa, el 0.5 al millar sobre el costo del proyecto total del fraccionamiento;
+I.- Por la expedición de un dictamen de uso de suelo para cualquier tipo de fraccionamiento, se cobrará por derechos: quince veces el salario mínimo general vigente en el municipio de que se trate más 0.002 por metro cuadrado de la superficie total.
 
-II.- Por la autorización, el 0.5 al millar sobre el costo del proyecto total del fraccionamiento;
+II.- Por la expedición de licencias de uso de suelo para cualquier tipo de fraccionamiento, se cobrará por derechos: treinta veces el salario mínimo general vigente en el municipio de que se trate más 0.005 por metro cuadrado de la superficie total.
 
-III.- Por la supervisión de las obras de urbanización, el 2.5 al millar sobre el costo del proyecto de dichas obras;
+Tratándose de fraccionamientos bajo el régimen de condominio, se cobrará por derechos: cuarenta veces el salario mínimo general vigente en el municipio de que se trate más 0.008 por metro cuadrado de la superficie total, y
 
-IV.- Por la modificación de fraccionamientos ya autorizados, en los términos del artículo 107 de la Ley de Desarrollo Urbano para el Estado de Sonora, el 2 al millar sobre el presupuesto de las obras pendientes a realizar;
+III.- Para cualquier tipo de fraccionamiento, por la revisión del proyecto de aprovechamiento del suelo se cobrará por derechos: cuarenta veces el salario mínimo general vigente en el municipio de que se trate más 0.008 por metro cuadrado de la superficie total.
 
-V.- Por la expedición de licencias de uso de suelo, el 0.001 del salario mínimo general vigente en el Municipio de que se trate, por metro cuadrado. Tratándose de fraccionamientos habitacionales o comerciales bajo el régimen de condominio, el 0.01 del salario mínimo general vigente en el Municipio de que se trate, por metro cuadrado, durante los primeros 250 metros cuadrados del área vendible y el 0.005 de dicho salario, por cada metro cuadrado adicional; y
-
-VI.- Por la autorización para el cambio de uso del suelo o para el cambio en la clasificación de un fraccionamiento que se efectúe de conformidad con el artículo 98, segundo párrafo de la Ley de Desarrollo Urbano para el Estado de Sonora, treinta veces el salario mínimo general vigente en el Municipio de que se trate.
-
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 134.
 
-Por la autorización provisional a que se refiere el artículo 130 de la Ley de Desarrollo Urbano para el Estado de Sonora, se causará un derecho equivalente a la tarifa señalada en la fracción I del artículo que antecede.
+Por la revisión y autorización del proyecto ejecutivo de urbanización, así como la supervisión de las obras de urbanización, se cobrará de acuerdo a lo siguiente:
+
+I.- En materia de fraccionamientos habitacionales y comerciales se cobrará por derechos 3.5 al millar sobre el costo total del fraccionamiento; y
+
+II.- En materia de fraccionamientos industriales, turísticos y campestres se cobrará 5.5 al millar sobre el costo total del fraccionamiento.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1359,17 +1391,17 @@ Por la autorización provisional a que se refiere el artículo 130 de la Ley de 
 
 Por la expedición del documento que contenga la enajenación de inmuebles que realicen los Ayuntamientos, en los términos del Capítulo Quinto del Título Cuarto de la Ley Orgánica de la Administración Municipal, se causará un derecho del 5% sobre el precio de la operación.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 136.
 
-Los dueños o poseedores de los fraccionamientos ilegales pagarán, en el procedimiento de regularización de los mismos, por los servicios señalados en este Capítulo, las tarifas precisadas en el mismo, con un incremento del 20%.
+Por la modificación de fraccionamientos ya autorizados, en los términos de la Ley de Desarrollo Urbano para el Estado de Sonora, se cobrará por derechos 2.0 al millar sobre el presupuesto de las obras pendientes a realizar.
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO PRIMERO. Disposiciones Genéricas
+### CAPITULO DECIMO CUARTO. Otros Servicios
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 137.
 
@@ -1377,13 +1409,13 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO PRIMERO. Disposiciones Genéricas
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1395,19 +1427,19 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Procedimiento
+### CAPITULO CUARTO. Recursos
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO UNICO. Productos
+### CAPITULO SEGUNDO. Procedimiento
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ## TITULO CUARTO. Contribuciones Especiales por Mejoras
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Aprovechamientos
+### CAPITULO UNICO. Productos
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1415,11 +1447,13 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 Las contribuciones especiales por mejoras se sujetarán a lo establecido en la presente Ley y en las Leyes de Ingresos y Presupuesto de Ingresos en los Ayuntamientos de los Municipios del Estado.
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 140.
 
-Cuando las obras públicas a que se refiere el presente Capítulo, se realicen con fondos federales o estatales, previa la celebración de los acuerdos de coordinación respectivos, los Ayuntamientos podrán percibir en los términos del presente título, las contribuciones especiales por mejoras, y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinará a pagar el financiamiento de las mismas y, en su caso, en la ejecución de otras obras públicas.
+Cuando las obras públicas a que se refiere el presente Capítulo, sean realizadas por dependencias o entidades de la administración pública federal o estatal previa la celebración de los acuerdos de coordinación respectivos, los ayuntamientos podrán percibir en los términos del presente Título, las contribuciones especiales por mejoras; y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinarán a la ejecución de otras obras.
+
+Y cuando las obras sean realizadas por los Ayuntamientos, utilizando recursos de crédito, los ingresos que perciban por las citadas contribuciones se destinarán a pagar el financiamiento de las mismas y, en su caso, a la ejecución de otras obras públicas.
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1471,7 +1505,7 @@ Los notarios públicos, corredores y funcionarios autorizados para dar fe públi
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Participaciones
+### CAPITULO UNICO. Aprovechamientos
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1529,15 +1563,21 @@ Para los efectos del párrafo anterior, la autoridad encargada de la realizació
 
 Los presupuestos de las obras a que este Título se refiere, estarán sujetos a las fluctuaciones en el costo de materiales de construcción, mano de obra y operación de la maquinaria y equipo utilizados.
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 152.
 
-Las autoridades determinarán el monto de las contribuciones especiales por mejoras, atendiendo la ubicación de los inmuebles en la zona de beneficio y el porcentaje del costo de la obra que como contribución señalan los artículos 142 Bis y 142 Bis-A en proporción al valor catastral del inmueble.
+Las autoridades determinarán el monto de las contribuciones especiales por mejoras, atendiendo a la ubicación de los inmuebles en la zona de beneficio y al porcentaje del costo de la obra que como contribución señalan los artículos 142 bis y 142 bis-a en proporción al valor catastral del inmueble o aplicando lo siguiente para procurar la equidad tributaria:
+
+I.- Por las obras de agua potable, drenaje y alcantarillado, y por las de equipamiento, el monto que corresponde por inmueble se determinarán multiplicando su número de metros cuadrados de superficie por la cuota que por metro cuadrado mencione el respectivo Acuerdo del Ayuntamiento, especificada por cada zona de beneficio.
+
+II.- Por las obras de pavimentación, alumbrado público y ornato, el monto que corresponde por inmueble se determinará multiplicando su número de metros lineales de frente por la cuota que por metro lineal mencione el respectivo Acuerdo del Ayuntamiento, especificada por cada zona de beneficio.
+
+III.- Por las obras de electrificación, el monto que corresponda por inmueble se determinará dividiendo el importe total del valor recuperable entre el número de inmuebles ubicados en la respectiva zona de beneficio.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO PRIMERO. Infracciones
+### CAPITULO UNICO. Participaciones
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1571,7 +1611,7 @@ No se pagarán las contribuciones especiales por mejoras por los predios a que s
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Sanciones
+### CAPITULO PRIMERO. Infracciones
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1597,7 +1637,7 @@ Dentro de los quince días siguientes a la notificación del crédito fiscal cor
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
+### CAPITULO SEGUNDO. Sanciones
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1664,6 +1704,10 @@ Los saldos insolutos derivados del contrato, causarán la tasa de interés que a
 ## TITULO SEXTO. Aprovechamientos
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
+### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
+
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 166.
 
@@ -2102,3 +2146,17 @@ Con efectos hasta la conclusión del actual período constitucional, la autorida
 ###### ARTICULO OCTAVO.
 
 Las acciones del Concejo Municipal se apegarán, en lo que les corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Guaymas y los programas de él derivados.
+
+B.O. 30 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de lo establecido en materia de desarrollo urbano que entrará en vigor una vez entre en vigor la nueva Ley de Desarrollo Urbano para el Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan en la parte correspondiente a derechos de las Leyes de Ingresos y Presupuesto de Ingresos de los ayuntamientos de los municipios del Estado, para el ejercicio fiscal de 1997, los gravámenes relativos a limpia, desarrollo urbano y anuncios y publicidad a que se refiere esta Ley, para los efectos de su aplicación y cobro correspondiente. De los ingresos que se recauden por estos conceptos, los ayuntamientos informarán al Congreso del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan los puntos del 1 al 7 de la fracción II, del artículo 326 de la Ley de Hacienda del Estado de Sonora.
