@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-circulacion-de-coches-automoviles-2951"
 country: "mx"
 rank: "reglamento"
 publication_date: "1927-06-26"
-last_updated: "1927-06-26"
+last_updated: "1928-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO PARA LA CIRCULACIÓN DE COCHES AUTOMÓVILES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 1928.
 
 Reglamento publicado en el Núm. 26 del Periódico Oficial del Estado de Aguascalientes, el domingo 26 de junio de 1927.
 
@@ -337,9 +337,11 @@ Queda prohibido estrictamente transitar con bestias y carros movidos por tracci�
 
 Los automóviles que vengan de otro Estado, Territorio o Distrito, así como del extranjero, podrán permanecer en esta Entidad hasta quince días usando la placa que traigan de su origen, pero si permanecieran más tiempo deberán de ser cambiadas por las del Estado y llenar previamente los demás requisitos respectivos, el operador.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1928)</small>
+
 ###### Art. 62.
 
-Los vehículos que transiten por caminos carreteros del Estado, habiertos en todo o en parte, pagarán una cuota de $ 0.02 dos centavos por kilómetro de recorrido. Las bestias que tengan que pasar por puentes de la jurisdicción del Estado, pagarán $ 0.05 cinco centavos por cada una de ellas. En estas cuotas se incluye el federal y se harán efectivos estos impuestos por la Tesorería General del Estado, por conducto de sus Agentes de Tráfico. Este impuesto se destinara únicamente para la conservación de los propios caminos y puentes.
+Los vehículos que transiten por caminos carreteros del Estado, abiertos en todo o en parte, pagarán una cuota de $ 0.02 dos centavos por kilómetro de recorrido. Este impuesto se destinará únicamente para la conservación de los propios caminos y puentes.
 
 ###### Art. 63.
 
@@ -512,3 +514,13 @@ Aguascalientes, junio 14 de 1927.- I. Delgado, D. P.- E. Ramírez, D. P. S.- Jos
 Al C. Gobernador Constitucional Interino del Estado.- Presente”
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio del Gobierno del Estado. Aguascalientes, 16 de junio de 1927.- I. Díaz de León.- El Srio. de Gobierno, J. Medina.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 1928.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO 2 DEL DECRETO NÚMERO 117 POR EL QUE "SE REFORMA EL ARTÍCULO 62 DEL REGLAMENTO PARA LA CIRCULACIÓN DE COCHES AUTOMÓVILES".]</small>
+
+###### Art. 2°
+
+Este decreto surtirá sus efectos des de la fecha de su expedición.
