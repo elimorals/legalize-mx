@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1922-09-27"
+last_updated: "1923-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE SEPTIEMBRE DE 1922.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 1923.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -357,7 +357,9 @@ XLI.- conceder primas y auxilios a los que introduzcan y establezcan en el Estad
 
 XLII.- nombrar, en caso de renuncia colectiva de un Ayuntamiento, tres personas que se hagan cargo provisionalmente del municipio, mientras se hacen nuevas elecciones y toman posesión de sus cargos los electos;
 
-XLIII.- suspender de sus funciones a los Alcaldes, a petición de los Ayuntamientos;
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1923)</small>
+
+XLIII.- confirmar la revocación del mandato público confiado al Gobernador, Diputados y Presidentes Municipales, y revocar el confiado a los Magistrados del Tribunal Superior de Justicia.
 
 XLIV.- las demás que le confiere esta Constitución.
 
@@ -988,3 +990,9 @@ Este Decreto surtirá sus efectos el mismo día de su promulgación.
 D.O. 27 DE SEPTIEMBRE DE 1922.
 
 Artículo Segundo.- Este Decreto comenzará a regir el mismo día de su publicación en el "Diario Oficial" del Estado.
+
+D.O. 3 DE DICIEMBRE DE 1923.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto comenzará a surtir sus efectos legales desde la fecha de su publicación en el "Diario Oficial" del Estado.
