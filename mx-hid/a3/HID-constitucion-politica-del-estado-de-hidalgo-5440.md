@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1987-10-01"
+last_updated: "1987-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -555,7 +555,9 @@ Cuando algún Diputado falte a más de cinco sesiones consecutivas, sin tener li
 
 Durante el primer período ordinario de sesiones, el Congreso se ocupará preferentemente de examinar y calificar las cuentas de recaudación y aplicación de los fondos del Estado y de los Municipios, correspondientes al año inmediato anterior.
 
-En el segundo, y para que rijan en el año siguiente, se ocupará preferentemente de examinar y aprobar, en su caso, las leyes de Ingresos del Estado y de los Municipios, así como el presupuesto de la Entidad, que el Gobernador y los Presidentes Municipales deberán enviarle durante el mes de noviembre.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1987)</small>
+
+En el segundo y para que rijan el año siguiente, se ocupará preferentemente de examinar y aprobar, en su caso, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador y los Presidentes Municipales deberán enviarle a más tardar el 15 de Diciembre.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1007,7 +1009,9 @@ XXXVI. Contratar empréstitos con aprobación del Congreso del Estado, para la e
 
 XXXVII. Ejercer el presupuesto de egresos;
 
-XXXVIII. Presentar al Congreso del Estado durante el mes de noviembre de cada año, la iniciativa de Ley de Ingresos y Presupuesto de Egresos Generales del Estado que deberán regir en el año inmediato;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1987)</small>
+
+XXXVIII. Presentar al Congreso del Estado, a más tardar el 15 de Diciembre de cada año, la iniciativa de Ley de Ingresos y el Presupuesto de Egresos del Estado, que deberán regir en el año inmediato;
 
 XXXIX. Presentar al Congreso, al término del período constitucional del Gobernador, una memoria sobre el estado que guardan los asuntos públicos;
 
@@ -2486,3 +2490,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por este Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente ordenamiento.
