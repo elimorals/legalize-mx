@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2001-05-11"
+last_updated: "2002-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -75,11 +75,9 @@ II.- Los mexicanos por nacimiento o naturalización avecindados en el Estado que
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
-Art 32.- La vecindad se adquiere por la residencia habitual y constante en territorio del Estado durante dos años. La vecindad no se pierde por ausencia en el desempeño de cargos públicos en servicio del Estado o de la Nación.
-
 ###### Art. 32.
 
-La vecindad se adquiere por la residencia habitual y constante en territorio del Estado durante dos años, o durante uno si se adquieren bienes raíces, o se ejerce alguna profesión, arte o industria. La vecindad no se pierde por ausencia en el desempeño de cargos públicos en servicio del Estado o de la Nación.
+La vecindad se adquiere por la residencia habitual y constante en territorio del Estado durante dos años. La vecindad no se pierde por ausencia en el desempeño de cargos públicos en servicio del Estado o de la Nación.
 
 ###### Art. 33.
 
@@ -393,13 +391,17 @@ En los períodos extraordinarios a que se convoque a la Legislatura, ésta sólo
 
 Si el período extraordinario de sesiones se prolonga hasta el tiempo en que deba comenzar el ordinario, cesará aquél y durante éste se despacharán preferentemente los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
 
 ###### Art. 62.
 
-Los Secretarios del Despacho del Ejecutivo podrán ocurrir al Congreso, previa autorización del Gobernador del Estado,, (sic) para informar sobre los asuntos de su ramo.
+Los Secretarios del Despacho del Ejecutivo, así como el Procurador General de Justicia del Estado, podrán ocurrir al Congreso, previa autorización del Gobernador del Estado, para informar sobre los asuntos de su ramo.
+
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 Siguiendo el mismo procedimiento, el Congreso podrá citar a cualquiera de dichos Funcionarios para que exponga sus puntos de vista sobre asuntos de importancia substancial y de la materia de su competencia, cuando se discuta una iniciativa de ley o decreto que les concierna.
+
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 Los Magistrados del Tribunal Superior de Justicia del Estado únicamente ocurrirán para los casos a que se refieren las fracciones XVI y XXVIII del artículo 63 de esta Constitución.
 
@@ -1911,7 +1913,7 @@ El Gobierno del Estado mantendrá establecimientos especiales para el tratamient
 
 ###### Art. 18.
 
-.- Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la Ley Penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
+Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la Ley Penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
@@ -1925,7 +1927,7 @@ En todo proceso de orden penal, tendrá el indiciado las siguientes garantías:
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohíba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 El monto y la forma de caución que se fije, deberán ser asequibles para el indiciado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del indiciado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al indiciado.
 
@@ -2626,3 +2628,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Serán respetados los derechos adquiridos con anterioridad a la entrada en vigor del presente Decreto, por los particulares o los servidores públicos del Estado o de los Municipios.
 
 Tercero.- En tanto se expidan o modifiquen las leyes en materia municipal correspondientes, se continuarán aplicando las disposiciones constitucionales y los demás ordenamientos vigentes.
+
+P.O. 11 DE ENERO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
