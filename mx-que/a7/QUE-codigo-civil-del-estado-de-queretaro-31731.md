@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1999-05-07"
+last_updated: "1999-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -308,6 +308,8 @@ El hijo adoptivo, tomará los apellidos de los adoptantes con las mismas reglas 
 ###### ARTÍCULO 38.
 
 El matrimonio no modifica los apellidos de los contrayentes.
+
+> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 12 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTÍCULO 39.
 
@@ -847,7 +849,7 @@ La nulidad de las actas del Registro Civil, sólo podrá ser decretada por la au
 
 ARTÍCULO 129 Declarada la nulidad, el juez remitirá copia de la resolución al Director del Registro Civil a efecto de que proceda a ordenar la anotación en el acta correspondiente, cuidando que la misma anotación se haga en los tantos que obran en los archivos de las dependencias a quienes originalmente se les envió.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
+> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 12 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTÍCULO 130.
 
@@ -858,6 +860,8 @@ La modificación de las actas del Registro Civil, procede cuando se pretenda var
 La rectificación y la modificación a que se refieren los párrafos que anteceden solamente podrán ser ordenadas por la autoridad judicial en los términos que prescribe el Código de Procedimientos Civiles.
 
 Una vez ejecutoriada la sentencia que ordene la rectificación o modificación del acta, el juez de primera instancia remitirá copia certificada de la misma al Director del Registro Civil, quien ordenará se lleven a cabo las anotaciones correspondientes.
+
+> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 12 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTÍCULO 131.
 
@@ -15418,3 +15422,15 @@ Artículo segundo.- Las demás disposiciones que se opongan a la presente Ley y 
 Artículo tercero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Queretaro "La Sombra de Arteaga".
 
 Artículo Cuarto.- Una vez concluidos los plazos durante los cuales estará vigente la presente Ley, recobrarán su vigencia los artículos dejados en suspenso.
+
+P.O. 12 DE NOVIEMBRE DE 1999
+
+Artículo primero.- Las personas, que por si o a través de sus representantes, al entrar en vigor esta Ley, estén tramitando juicio para la rectificación de su acta de nacimiento, en cuanto a su nombre o apellidos, podrán optar por concluir ese procedimiento o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en esta Ley.
+
+Artículo segundo.- Las demás disposiciones que se opongan a la presente y que impidan su aplicación, quedarán en suspenso en cuanto a su observancia durante la vigencia de esta Ley.
+
+Artículo tercero.- La presente Ley tendrá una vigencia de seis meses contados a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Queretaro "La Sombra de Arteaga".
+
+Artículo cuarto.- Una vez concluida la vigencia de esta Ley, los artículos suspendidos, nuevamente entrarán en vigor.
+
+Artículo quinto.- La Dirección General del Registro Civil, instrumentará una campaña de información amplia, a fin de que las personas que puedan beneficiarse con esta Ley, la instrumenten.
