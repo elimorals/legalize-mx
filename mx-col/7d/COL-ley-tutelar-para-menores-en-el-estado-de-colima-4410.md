@@ -4,7 +4,7 @@ identifier: "COL-ley-tutelar-para-menores-en-el-estado-de-colima-4410"
 country: "mx"
 rank: "ley"
 publication_date: "1980-03-15"
-last_updated: "1983-03-05"
+last_updated: "1983-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY TUTELAR PARA MENORES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 15 de marzo de 1980.
 
@@ -459,13 +459,17 @@ Del Centro de Observación y Orientación
 
 El Ejecutivo del Estado dispondrá la creación del Centro de Observación y Orientación para Menores, que residirá en la Ciudad de Colima y tendrá por objeto la atención, en primer término, de los menores que hayan incurrido en conductas antisociales.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1983)</small>
+
 ###### ARTICULO 50o.
 
-El Centro de Observación y Orientación estará integrado por un Director y por el personal técnico y administrativo que determine el Presupuesto. Funcionará por Departamentos Técnicos que tendrán como propósito el conocimiento integral de la personalidad del menor, la investigación de las causas y motivos de su conducta así como de los estados peligrosos o situaciones irregulares.
+El Centro de Observación, Orientación y Tratamiento para Menores estará integrado por un Supervisor (a) General Honorario (a) y un Director, ambos designados por el o la Titular del Poder Ejecutivo del Estado, siendo el segundo de ellos a propuesta del Consejo Tutelar, contando además con el personal técnico y administrativo que determine el presupuesto. Funcionará por Departamentos Técnicos que tendrán como propósito el conocimiento integral de la personalidad del menor, la investigación de las causas y motivos de su conducta así como de los estados peligrosos o situaciones irregulares.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1983)</small>
 
 ###### ARTICULO 51o.
 
-El Director del Centro tendrá a su cargo la Dirección del mismo; será nombrado por el o la Titular del Ejecutivo del Estado, a propuesta del Consejo Tutelar y deberá reunir los requisitos que señala el artículo 17.
+El (la) Supervisor (a) General Honorario (a), tendrá como atribuciones vigilar en forma permanente las actividades que desarrolle el personal del Centro Estatal de Observación, Orientación y Tratamiento para Menores, con facultades expresas para hacer los señalamientos que estime pertinentes al Director General del mismo y en su caso, contando para ello con el acuerdo de el (la) titular del Poder Ejecutivo, tomar las medidas que sean necesarias.
 
 ###### ARTICULO 52o.
 
@@ -568,3 +572,7 @@ Palacio de Gobierno, Colima, Col., 14 de marzo de 1980.- LICDA. GRISELDA ALVAREZ
 P.O. 5 DE MARZO DE 1983.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE AGOSTO DE 1983.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
