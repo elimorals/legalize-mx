@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2003-03-13"
+last_updated: "2003-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1667,9 +1667,13 @@ Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO V. De la Responsabilidad Patrimonial del Estado y los Municipios
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+
+Art. 107 bis.- La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ###### Art. 99.
 
@@ -1739,9 +1743,9 @@ Contra las declaraciones de procedencia penal no procede juicio o recurso alguno
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO I. Prevenciones generales
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1759,15 +1763,15 @@ La autoridad encargada de recibir las declaraciones de situación patrimonial, d
 
 La ley señalará los términos de prescripción para exigir la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia el artículo anterior. Cuando dichos actos u omisiones fuesen graves, los términos de prescripción no serán inferiores a tres años y tres meses.
 
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO III. De la inviolabilidad de esta Constitución
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -2318,3 +2322,11 @@ P.O. 13 DE MARZO DE 2003.
 PRIMERO. Envíese el presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, junto con los debates que hubiere provocado a los ayuntamientos del Estado, para los efectos del artículo 117 de la Constitución Política del Estado de Jalisco.
 
 SEGUNDO. El presente decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JUNIO DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero del año 2004, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Previo a la entrada en vigor del presente decreto, el Estado y los municipios deberán realizar las modificaciones legales y reglamentarias, según sea el caso, para el fin de promover el debido cumplimiento del presente decreto, así como incluir en sus respectivos presupuestos a partir del año 2004, una partida para hacer frente a su responsabilidad patrimonial.
+
+TERCERO.- De conformidad con el artículo 118 de la Constitución Política del Estado de Jalisco, remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación.
