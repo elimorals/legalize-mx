@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-defensoria-publica-del-estado-3817"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1944-06-01"
-last_updated: "1986-12-23"
+last_updated: "2003-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO PUBLICO DE ASISTENCIA JURIDICA GRATUITA PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 3 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley Publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 1 de junio de 1944.
 
@@ -246,3 +248,15 @@ P.O. 23 DE DICIEMBRE DE 1986.
 Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
+
+P.O. 30 DE JUNIO DE 2003.
+
+Primero.- La presente ley entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abrogan la Ley Orgánica de la Defensoría Pública del Estado de Campeche y el Reglamento de la misma ley, expedidos bajo decretos números 202 y 203 por la XXXVII Legislatura del Congreso del Estado, el 23 y 27 de mayo de 1944, publicados en la segunda sección de los números 8233 y 8235 del Periódico Oficial del Estado, los días 1 y 6 de junio de ese mismo año, respectivamente; y se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de la presente ley.
+
+Tercero.- Los bienes muebles e inmuebles que en la actualidad se encuentran asignados al servicio de la Defensoría Pública del Estado de Campeche, quedan asignados a la Dirección de Asistencia Jurídica Gratuita, y los expedientes, documentos y demás material que integran el acervo documental y archivo de aquélla se entregarán a la mencionada Dirección, bajo cuya custodia quedarán.
+
+Cuarto.- El personal que conforma la plantilla actual de servidores públicos de la Defensoría Pública del Estado se incorporarán a la Dirección de Asistencia Jurídica Gratuita con las mismas funciones, rangos y jerarquías, no ameritando el llenar los requisitos ni presentar el examen de ingreso a que esta ley se refiere.
+
+Quinto.- Para los efectos de este decreto, deberán tomarse las previsiones presupuestales necesarias en la Ley de Presupuesto de Egresos del Estado ejercicio 2004.
