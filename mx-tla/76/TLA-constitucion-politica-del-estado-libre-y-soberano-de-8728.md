@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1984-02-01"
+last_updated: "1987-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -393,21 +393,27 @@ El Congreso estará integrado por 9 Diputados electos según el principio de vot
 
 Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 33.
 
-La elección de Diputados por mayoría relativa será directa y la correspondiente a los Diputados según el principio de representación proporcional en una circunscripción plurinominal, de conformidad con la votación que reciban las listas presentadas por los Partidos Políticos en el proceso electoral y, de acuerdo con lo que establezca la Ley de Organizaciones Políticas y Procesos Electorales del Estado.
-
-El Partido que obtenga más del cincuenta por ciento de la votación emitida, tendrá derecho a 2 Diputados de representación proporcional y los cuatro restantes se adjudicarán a aquellos partidos que habiendo alcanzado el uno y medio por ciento de la votación total del Estado, obtengan una mayor proporción de votos.
+La elección de Diputados por mayoría relativa será directa y la correspondiente a los Diputados según el sistema de representación proporcional en una circuncripción plurinominal, de conformidad con la votación que reciban las listas presentadas por los Partidos Políticos en el proceso electoral y de acuerdo con lo que establezca el Código Electoral del Estado de Tlaxcala.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
+El Partido que obtenga más del cincuenta por ciento de la votación emitida, tendrá derecho a 2 Diputados de representación proporcional y los cuatro restantes se adjudicarán a aquellos partidos que habiendo alcanzado el uno y medio por ciento de la votación total del Estado, obtengan una mayor proporción de votos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 34.
 
-La demarcación de los nueve Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, según el último censo, entre tales Distritos. La Ley Reglamentaria señalará la demarcación territorial de estos Distritos.
+La demarcación de los nueve Distritos Electorales Uninominales, será la que resulte de dividir la población total del Estado, según el último censo, entre tales distritos. El Código Electoral del Estado de Tlaxcala, señalará la demarcación territorial de estos distritos.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 Por cada Distrito Electoral uninominal se elegirán un Diputado Propietario y un Suplente.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 Para la elección de los Diputados, según el principio de representación proporcional se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
 
@@ -421,15 +427,15 @@ I.- Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de su
 
 II.- Tener veintiún años de edad cumplidos el día de la elección.
 
-III.- Saber leer y escribir.
+III.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1984)</small>
-
-VI.- No ser servidor público de la Federación en el Estado.
+IV.- No ser ministro de culto alguno.
 
 V.- No estar en servicio activo en las Fuerzas Armadas, ni tener mando en las corporaciones de Seguridad en el Distrito en el que pretenda su elección.
 
-VI.- No ser funcionario de la Federación en el Estado.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1987)</small>
+
+V.- No estar en servicio activo en las fuerzas armadas ni tener mando en las corporaciones de seguridad en el Estado.
 
 VII.- No ocupar el cargo de Gobernador, Secretario de Gobierno, Secretario del Ejecutivo, Magistrado del Tribunal Superior de Justicia o Procurador de Justicia en el Estado.
 
@@ -443,11 +449,11 @@ Los Diputados suplentes que no hayan estado en ejercicio podrán ser electos con
 
 Los Diputados propietarios no podrán ser electos con el carácter de suplentes para el período inmediato.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 36.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+Los Diputados gozarán de Fuero Constitucional, durante su ejercicio legal y por las opiniones que expresen, jamás podrán ser reconvenidos. El Coordinador del Congreso velará por el respeto a la inviolabilidad del Recinto Parlamentario.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
 
@@ -507,13 +513,17 @@ Los Diputados deberán cumplir puntualmente sus deberes legislativos, de gestor�
 
 Las oficinas públicas deberán facilitar el cumplimiento de estas obligaciones.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 44.
 
-El segundo sábado del mes de diciembre de cada año, el Congreso celebrará una sesión pública y solemne en la que el Gobernador rendirá un informe sobre la situación general que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará el informe en términos generales.
+El Congreso del Estado, o la Comisión Permanente en su caso, determinará la fecha en que dentro de los quince primeros días del mes de Diciembre, se celebrará la Sesión Extraordinaria, Pública y Solemne en la que el Titular del Poder Ejecutivo deberá rendir informe sobre la situación general que guarden los diversos Ramos de la Administración Pública Estatal. El Presidente del Congreso contestará el informe en términos generales.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 En el curso del mes de enero de cada año el Presidente del Tribunal Superior de Justicia enviará al Congreso, por escrito, un informe anual sobre la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 El quince de enero, correspondiente al año de la transmisión del Poder Ejecutivo, el Gobernador Electo acudirá ante el Congreso a otorgar la protesta prevista en esta Constitución.
 
@@ -663,9 +673,13 @@ XXVI.- Calificar las elecciones de sus miembros y hacer la declaratoria correspo
 
 XXVII.- Erigirse en Colegio Electoral para hacer la calificación y declaratoria respecto a las elecciones de Gobernador, Senadores al Congreso de la Unión y Munícipes.
 
-XXVIII.- Nombrar a los Magistrados del Tribunal Superior de Justicia a propuesta del Ejecutivo.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1987)</small>
 
-XXIX.- Recibir la protesta de Ley a los Diputados, al Gobernador, a los Magistrados, a los substitutos y a los empleados que el mismo Congreso nombre.
+XXVIII.- Nombrar a los Magistrados, Propietarios y Suplentes del Tribunal Superior de Justicia a propuesta del Ejecutivo y del Tribunal del lo contencioso Electoral como lo señale la legislación respectiva.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1987)</small>
+
+XXIX.- Recibir la protesta de Ley a los Diputados, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal de lo Contencioso Electoral así como los Servidores Públicos que el Congreso designe en pleno en los términos de la Ley Orgánica del Poder Legislativo del Estado.
 
 XXX.- Conceder licencia a sus miembros, al Gobernador, en los términos que dispone esta Constitución y a los Magistrados cuando su separación sea por más de seis meses.
 
@@ -755,11 +769,11 @@ VII.- Las demás que le confieran esta Constitución y la Ley.
 
 El ejercicio del Poder Ejecutivo del Estado se deposita en un solo ciudadano que se denominará "Gobernador del Estado de Tlaxcala" y que residirá en la Capital del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 58.
 
-La elección de Gobernador será popular, directa y se realizará en los términos que disponga Ley Electoral del Estado.
+La elección de Gobernador, será popular, directa y se realizará en los términos que disponga el Código Electoral del Estado de Tlaxcala.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -1662,3 +1676,15 @@ Las presentes Reformas y Adiciones a la Constitución Política del Estado, entr
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las Reformas y Adiciones decretadas.
+
+P.O. 1 DE DICIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas, Adiciones y Derogación de Artículos de la Constitución Política del Estado, entrarán en vigor al día siguiente hábil a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+En tanto se expida el Código Electoral del Estado, todos los asuntos del orden electoral, local continuarán regidos por la Ley de Organizaciones Políticas y Procesos Electorales publicada el 21 de Mayo de 1986 y actualmente en vigor.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones, Leyes y Reglamentos que se opongan al contenido de las Reformas, Adiciones y Derogación de Artículos, objeto del presente Decreto.
