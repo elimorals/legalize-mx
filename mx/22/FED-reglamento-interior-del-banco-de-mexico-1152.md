@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1997-05-07"
+last_updated: "1997-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -225,9 +225,17 @@ V. Comercializar monedas, o piezas que hubieren tenido ese carácter, con empaqu
 
 VI. Administrar los programas de capacitación del personal que realiza labores técnicas vinculadas a la fabricación de billete;
 
-VII. Operar las sucursales del Banco, y
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
 
-VIII. Colaborar con bancos centrales, acuñadores y proveedores, en aspectos relacionados con la fabricación de billetes y moneda metálica.
+VII. Operar las sucursales del Banco;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+
+VIII. Colaborar con bancos centrales, acuñadores y proveedores, en aspectos relacionados con la fabricación de billetes y moneda metálica, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE JUNIO DE 1997)</small>
+
+IX. Tener a su cuidado la colección numismática del Banco.
 
 ###### ARTICULO 17.
 
@@ -339,11 +347,15 @@ VI. Efectuar a nombre y por cuenta del Gobierno Federal, el registro y servicio 
 
 VII. Realizar los cargos en cuenta a que se refiere el artículo 67 de la Ley;
 
-VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a inversiones, cambios, metales y monedas, o aquéllas que se deriven de los convenios en los que el Banco sea parte o en los que actúe por cuenta del Gobierno Federal;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
 
-IX. Administrar los servicios de depósito y custodia de valores, así como los relativos a las cajas de seguridad que lleve el Banco, y
+VIII. Tramitar, registrar y conciliar las operaciones que realice el Banco, respecto a inversiones, cambios, metales y monedas, o aquellas que se deriven de los convenios en los que el Banco sea parte o en los que actúe por cuenta del Gobierno Federal, y
 
-X. Desempeñar las funciones encomendadas al Banco en el Fideicomiso relativo al Centro de Cómputo Bancario.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+
+IX. Administrar los servicios de depósito y custodia de valores, así como los relativos a las cajas de seguridad que lleve el Banco.
+
+X. (DEROGADA, D.O.F. 13 DE JUNIO DE 1997)
 
 ###### ARTICULO 21.
 
@@ -413,13 +425,21 @@ IX. Conducir las relaciones con el Sindicato Unico de Trabajadores del Banco de 
 
 X. Comercializar, con propósitos numismáticos, billetes y monedas, distintas a las mencionadas en la fracción VIII del artículo 19 y medallas;
 
-XI. Coordinar las actividades de carácter cultural;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
 
-> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 1995)</small>
+XI. Desempeñar las actividades de promoción sociocultural y deportiva;
 
-XII. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley, y
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
 
-XIII. Administrar la oficina de correspondencia.
+XII. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+
+XIII. Administrar la Oficina de Correspondencia, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 13 DE JUNIO DE 1997)</small>
+
+XIV. Llevar el registro de la organización del Banco.
 
 ###### ARTICULO 27.
 
@@ -491,33 +511,37 @@ I. Establecer, operar y mantener sistemas de informática y telecomunicaciones d
 
 II. Implementar un sistema de comunicaciones que permita a los intermediarios financieros intercambiar información con el Banco, dando a conocer aquellas características que deberán tener los aparatos utilizados en los procedimientos establecidos en las disposiciones emitidas por el Banco;
 
-> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
 
-III. Llevar el registro de la organización del Banco;
+III. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco, y
 
-> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
 
-IV. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco; y
+IV. Atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
 
-> <small>(ADICIONADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+V. (DEROGADA, D.O.F. 13 DE JUNIO DE 1997)
 
-V. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 30.
 
-La Gerencia de Comunicación Social tendrá a su cargo la relación con los medios de comunicación al público, auxiliando al Gobernador en las funciones establecidas en la fracción VI del artículo 47 de la Ley.
+La Gerencia de Comunicación Social tendrá a su cargo la relación con los medios de comunicación al público, auxiliando al Gobernador en las funciones establecidas en la fracción VI del artículo 47 de la Ley. Asimismo le corresponderá tener a su cuidado el archivo histórico del Banco.
 
 El titular de esta Gerencia y el de la oficina a que se refiere el artículo 31 podrán suscribir individualmente los documentos vinculados con sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 31.
 
-La Oficina de Relaciones Públicas, atenderá las actividades protocolarias y sociales que sean necesarias para el correcto desenvolvimiento de las funciones institucionales.
+La Oficina de Relaciones Públicas, atenderá las actividades protocolarias y sociales, que sean necesarias para el correcto desenvolvimiento de las funciones institucionales, correspondiéndole a su vez tener a su cuidado el acervo cultural del Banco.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 32.
 
-La Comisión prevista en el artículo 61 de la Ley será presidida por el miembro de la Junta de Gobierno que participe en ella y contará con un Secretario y un Secretario Suplente, cargos que ocuparán el titular de la Gerencia Jurídica y el de la Subgerencia Jurídica de lo Contencioso y Asuntos Laborales, respectivamente.
+La Comisión prevista en el artículo 61 de la Ley será presidida por el miembro de la Junta de Gobierno que participe en ella y contará con un Secretario y un Secretario Suplente, cargos que ocuparán el titular de la Gerencia Jurídica de lo Contencioso y Asuntos Laborales y el de la Subgerencia Jurídica de lo Contencioso y Asuntos Laborales, respectivamente.
 
 ###### ARTICULO 33.
 
@@ -653,9 +677,11 @@ El Banco publicará semanalmente en el Diario Oficial de la Federación, con cif
 
 El plazo de interposición del recurso de reconsideración a que se refiere el artículo 64 de la Ley se contará a partir del día siguiente a aquél en que surta efectos la notificación del acto que se reclame.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO 43.
 
-Corresponderá a la Gerencia Jurídica del Banco recibir el recurso de reconsideración, siendo competente su titular para resolverlo, y en sus ausencias el Subgerente Jurídico de lo Contencioso y Asuntos Laborales.
+Corresponderá a la Gerencia Jurídica de lo Contencioso y Asuntos Laborales del Banco recibir el recurso de reconsideración, siendo competente su titular para resolverlo, y en sus ausencias el Subgerente Jurídico de lo Contencioso y Asuntos Laborales.
 
 > <small>(ADICIONADO, D.O.F. 2 DE OCTUBRE DE 1995)</small>
 
@@ -665,7 +691,9 @@ Dicho recurso deberá presentarse dentro de un horario comprendido entre las nue
 
 El trámite del recurso estará a cargo de la Subgerencia Jurídica de lo Contencioso y Asuntos Laborales del Banco. El titular de ésta, y en sus ausencias el Jefe de la Oficina de lo Contencioso del propio Banco, autorizarán los acuerdos correspondientes hasta poner el expediente en estado de resolución.
 
-Los acuerdos de desechamiento o de no interposición del recurso deberán ir firmados por el Gerente Jurídico y, en su ausencia, por el Subgerente mencionado en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 1997)</small>
+
+Los acuerdos de desechamiento o de no interposición del recurso deberán ir firmados por el Gerente Jurídico de lo Contencioso y Asuntos Laborales y, en su ausencia, por el Subgerente mencionado en el párrafo anterior.
 
 ###### ARTICULO 45.
 
@@ -770,3 +798,9 @@ UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fech
 D.O.F. 7 DE MAYO DE 1997.
 
 UNICO. Las presentes reformas entrarán en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 1997.
+
+PRIMERO. Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Cuando en cualquier instrumento jurídico se haga referencia a la Gerencia Jurídica del Banco, se entenderá hecha a la Gerencia Jurídica de lo Contencioso y Asuntos Laborales del Banco en el ámbito de las atribuciones que le confiere el Reglamento Interior del Banco de México.
