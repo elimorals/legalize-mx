@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-y-reduccion-de-penas-para-el-estado-de-4918"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-16"
-last_updated: "2003-10-19"
+last_updated: "2004-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO Y REDUCCION DE PENAS PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 16 de noviembre de 1995.
 
@@ -93,15 +93,17 @@ B).- El Indulto por Alfabetización a aquellos internos que hayan enseñado a le
 
 A manera de excepción, el beneficio al que se refiere el inciso A), podrá aplicarse a internos no comprendidos dentro de los supuestos del Artículo Primero de esta Ley cuando a juicio del Ejecutivo el caso que se proponga por la Comisión de Indulto, así lo requiera.
 
-> <small>N. DE E. CONFORME A LO DISPUESTO POR ARTICULO SEGUNDO DEL DECRETO NO. 275, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2003, SE DEJA EN SUSPENSO LA VIGENCIA DEL PRESENTE ARTICULO, EN LO QUE SE REFIERE AL DELITO DE ROBO CALIFICADO, A FAVOR DE LOS INTERNOS QUE HAYAN SIDO SENTENCIADOS CON FECHA ANTERIOR AL 14 DE SEPTIEMBRE DE 2004.</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO CUARTO.
 
-Se exceptúan de los beneficios de la presente Ley, a los condenados mediante sentencia irrevocable por la comisión de alguno o algunos de los siguientes delitos: ASOCIACION DELICTUOSA; VIOLACION; LENOCINIO; CORRUPCION DE MENORES; INCESTO; ASALTO; HOMICIDIO CALIFICADO; ROBO CALIFICADO; ROBO EN LUGAR CERRADO; ROBO QUE SE EFECTUE APROVECHANDO LAS CIRCUNSTANCIAS DE INCENDIO; CONFUSION; DESASTRE; EXPLOSION O INUNDACION; ROBO DE INFANTE; ABIGEATO; DAÑOS CAUSADOS POR INCENDIO; INUNDACION O EXPLOSION; TERRORISMO; SABOTAJE; CONSPIRACION; SECUESTRO y a quienes tengan decretada REINCIDENCIA, SE HAYA DETECTADO TENDENCIA HABITUAL O CUENTEN CON ALGUN ANTECEDENTE PENAL POR DELITOS DEL FUERO COMUN O DEL FUERO FEDERAL, así como QUIENES HAYAN PARTICIPADO EN INTENTOS DE FUGA O SE HAYAN FUGADO EN CUALQUIER MOMENTO DESDE SU SUJECION A PROCESO; QUIENES HAYAN PARTICIPADO EN RIÑAS COLECTIVAS O INTENTOS DE MOTIN DURANTE SU FASE DE INTERNAMIENTO.
+Se exceptúan de los beneficios de la presente Ley, a los condenados mediante sentencia irrevocable por la comisión de alguno o algunos de los siguientes: delitos en el ámbito de la procuración de justicia, tortura, delitos cometidos en el ámbito de la administración de justicia, falsificación de títulos al portador y documentos de crédito público, asociación delictuosa; delincuencia organizada, corrupción de menores e incapaces, pornografía infantil; desaparición forzada de personas; retención y sustracción de menores o incapaces, y con fines de corrupción o tráfico de órganos; violación; lenocinio; incesto; asalto; homicidio calificado; parricidio; robo en lugar cerrado; robo que se efectúe aprovechando las circunstancias de incendio; confusión, desastre; explosión o inundación; abigeato; daños causados por incendio; inundación o explosión; terrorismo; sabotaje; conspiración; secuestro y a quienes tengan decretada reincidencia, se haya detectado tendencia habitual o cuenten con algún antecedente penal por delitos del fuero común o del fuero federal, así como quienes hayan participado en intentos de fuga o se hayan fugado en cualquier momento desde su sujeción a proceso; quienes hayan participado en riñas colectivas o intentos de motín durante su fase de internamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO QUINTO.
 
-Para lograr el beneficio que concede esta Ley de Indulto, el sentenciado dirigirá su solicitud al C. Gobernador Constitucional del Estado, quien a su vez la turnará a la Comisión de Indulto, la cual estará integrada por el C. Secretario General de Gobierno, como Presidente; por el procurador General de Justicia; por el Director General de Gobernación y por el Jefe del Departamento de Prevención Social del Estado, como Secretario Ejecutivo.
+Para lograr el beneficio que concede esta Ley de Indulto, el sentenciado dirigirá su solicitud al C. Gobernador Constitucional del Estado, quien a su vez la turnará a la Comisión de Indulto, la cual estará integrada por el C. Secretario General de Gobierno, como Presidente; por el Procurador General de Justicia; por el Director General de Gobernación y por el Director General de Prevención y Readaptación Social del Estado, como Secretario Ejecutivo.
 
 Esta Comisión estudiará la solicitud que se le haya turnado, así como la documentación anexa, que deberá consistir en copia certificada de la sentencia y del auto que la declara ejecutoriada, así como el oficio en virtud del cual el Poder Judicial pone a disposición del Poder Ejecutivo el sentenciado solicitante, también el certificado de antecedentes penales que justifique que se trata de un delincuente primario y el Certificado del Centro de Readaptación Social o Cárcel Distrital que corresponda, sobre la conducta del interno, incluyendo su tiempo recluído y su tiempo trabajado en favor de la comunidad. En un término no mayor de 10 días hábiles, la Comisión dictará la resolución que corresponda, sin ulterior recurso.
 
@@ -212,3 +214,11 @@ DECRETO NO. 275.
 Se deja en suspenso la vigencia del Artículo 4 de la Ley de Indulto y Reducción de Penas para el Estado de Durango, contenida en el Decreto No. 307 de fecha 25 de octubre de 2000, publicado en el periódico Oficial del Estado correspondiente al número 35 de fecha 29 de octubre de 2000, única y exclusivamente en lo que respecta al delito de robo calificado, a favor de internos que hayan sido condenados con fecha anterior al día 14 de septiembre del 2004.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JUNIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor, a partir del día 28 de junio del año 2004, previa su publicación en el Periódico Oficial del Estado de Durango.
+
+SEGUNDO.- Se deja en suspenso la vigencia del Artículo Cuarto, única y exclusivamente en lo relativo al delito de robo calificado.
+
+TERCERO.- Los sentenciados a disposición del Ejecutivo Estatal, o quienes se encuentren bajo procedimiento de conformidad con el Código Penal para el Estado de Durango, aprobado bajo Decreto No. 263 de fecha 3 de julio de 1991 y publicado en el Periódico Oficial del Gobierno del Estado No. 15 de fecha 22 de agosto de 1991, se sujetarán para los efectos de las sanciones privativas y restrictivas de libertad y pecuniarias que se apliquen, a lo que establecían las disposiciones correspondientes antes de la presente reforma.
