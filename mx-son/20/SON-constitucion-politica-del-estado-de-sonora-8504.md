@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1994-12-29"
+last_updated: "1995-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE ENERO DE 1995.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -2017,9 +2017,9 @@ Los cargos o empleos públicos no son, ni pueden ser en el Estado, propiedad o p
 
 Toda persona adquiere la vecindad si reside de manera efectiva, durante dos años en algún lugar del territorio del Estado y ejerce alguna profesión, arte, industria, empleo o actividad productiva y honorable.
 
-> <small>(REFORMADO, B.O. 10 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, B.O. 19 DE ENERO DE 1995)</small>
 
-Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residencia para desempeñar cargos de elección popular, siempre y cuando ejerzan precisamente el mandato conferido por el pueblo, o para prestar o desempeñar cargos conferidos por el Gobierno Federal o Estatal, según el caso, o cargos de representación gremial o sindical, no perderán los beneficios de la mencionada vecindad y residencia efectiva para los efectos de los Artículos 9o. Fracción II, 33 Fracción III, 114 Fracción I y 132 Fracción II de esta Constitución.
+Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residencia para desempeñar cargos de elección popular, siempre y cuando ejerzan precisamente el mandato conferido por el pueblo, o para prestar o desempeñar cargos conferidos por el Gobierno Federal o Estatal, según el caso, o cargos de Representación gremial o sindical, no perderán los beneficios de la mencionada vecindad y residencia efectiva para los efectos de los artículos 9o. fracción II, 33 fracción III y 132 fracción II de esta Constitución. En tratándose de los Magistrados se estará a lo dispuesto por el artículo 114 de este mismo Ordenamiento.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2618,6 +2618,12 @@ B.O. 29 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE ENERO DE 1995.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor en todo el Estado al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
