@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-1776"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-15"
-last_updated: "1995-12-15"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1776&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-12-13"
 
 LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -173,7 +173,9 @@ III. Resolver los conflictos de competencia que se susciten entre las Salas Regi
 
 IV. Fijar o suspender la jurisprudencia del Tribunal, conforme al Código Fiscal de la Federación, así como ordenar su publicación.
 
-V. Resolver por atracción los juicios en que sea necesario establecer la interpretación directa de un precepto de ley o reglamento o fijar el alcance de los elementos constitutivos de una contribución, hasta fijar jurisprudencia, así como los que el Presidente del Tribunal considere de importancia y trascendencia.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+V. Resolver por atracción los juicios con características especiales, en los casos establecidos por el artículo 239-A, fracción I, inciso b), del Código Fiscal de la Federación.
 
 VI. Resolver los incidentes y recursos que procedan en contra de los actos y resoluciones del Pleno, así como la queja y determinar las medidas de apremio.
 
@@ -217,9 +219,11 @@ a) Los que traten las materias señaladas en el artículo 94 de la Ley de Comerc
 
 b) En los que la resolución impugnada se encuentre fundada en un tratado o acuerdo internacional para evitar la doble tributación o en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se hubiera aplicado en su favor alguno de los referidos tratados o acuerdos.
 
-c) Los que el Presidente del Tribunal considere de importancia y trascendencia, y acuerde sean resueltos por la Sección.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Resolver el recurso de apelación.
+c). Resolver por atracción los juicios con características especiales, en los casos establecidos por el artículo 239-A, fracción I, inciso a), del Código Fiscal de la Federación.
+
+II. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 III. Resolver los incidentes y recursos que procedan en contra de los actos y resoluciones de la Sección, así como la queja y determinar las medidas de apremio.
 
@@ -453,7 +457,7 @@ III. Engrosar las resoluciones de Pleno o de Sección del Tribunal, salvo que en
 
 IV. Tramitar y firmar la correspondencia administrativa del Tribunal que no corresponda al Presidente o a las Secciones de la Sala Superior o a las Salas Regionales.
 
-V. Admitir a trámite y correr traslado a la parte contraria con el recurso de apelación e integrar el expediente respectivo.
+V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 VI. Llevar el turno de los magistrados que deban formular ponencias para resolución de las Secciones y del Pleno de la Sala Superior.
 
@@ -576,3 +580,15 @@ Primero.- El presente Decreto entra en vigor el 1o. de enero de 1996.
 México, D.F., a 7 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+Disposiciones Transitorias de la Ley Orgánica del Tribunal Fiscal de la Federación
+
+Artículo Décimo Séptimo.- En relación con las modificaciones a que se refiere el Artículo Décimo Sexto que antecede, los juicios y recursos que se hubiesen interpuesto conforme a las disposiciones que por esta Ley se derogan, serán resueltos por la Sala Superior, conforme a su competencia asignada hasta el 31 de diciembre de 1996.
+
+TRANSITORIO DE LA LEY QUE ESTABLECE Y MODIFICA DIVERSAS LEYES FISCALES
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
