@@ -4,7 +4,7 @@ identifier: "FED-ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-723"
 country: "mx"
 rank: "ley"
 publication_date: "1926-03-15"
-last_updated: "1995-12-11"
+last_updated: "2004-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=723&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1926-03-11"
 
 LEY DE DISCIPLINA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 15 de marzo de 1926.
 
@@ -37,13 +37,21 @@ Que en uso de la autorización concedida al Ejecutivo de la Unión por decreto d
 
 LEY DE DISCIPLINA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-### CAPITULO I. Deberes Generales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 1o.
 
-El servicio de las armas exige que el militar lleve el cumplimiento del deber hasta el sacrificio y que anteponga al interés personal, el respeto a la Constitución Política de los Estados Unidos Mexicanos, la soberanía de la Nación, la lealtad a las Instituciones y el honor del Ejército y Fuerza Aérea Mexicanos.
+La presente Ley tiene por objeto preservar la disciplina militar como principio de orden y obediencia que regula la conducta de los individuos que integran el Ejército y Fuerza Aérea Mexicanos. Sus disposiciones son de observancia obligatoria para todos los militares que integran el Ejército y Fuerza Aérea Mexicanos de conformidad con su Ley Orgánica.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 1o Bis.
+
+El servicio de las armas exige que el militar lleve el cumplimiento del deber hasta el sacrificio y que anteponga al interés personal, el respeto a la Constitución Política de los Estados Unidos Mexicanos, la soberanía de la Nación, la lealtad a las instituciones y el honor del Ejército y Fuerza Aérea Mexicanos.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -57,23 +65,33 @@ El militar debe observar buen comportamiento, para que el pueblo deposite su con
 
 La disciplina en el Ejército y Fuerza Aérea es la norma a que los militares deben ajustar su conducta; tiene como bases la obediencia, y un alto concepto del honor, de la justicia y de la moral, y por objeto, el fiel y exacto cumplimiento de los deberes que prescriben las leyes y reglamentos militares.
 
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 3o Bis.
+
+La disciplina es la base fundamental del Ejército y Fuerza Aérea Mexicanos, los cuales existen primordialmente para defender los intereses de la Patria y preservar su vida institucional.
+
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 4o.
 
 La disciplina exige respeto y consideraciones mutuas entre el superior y el subalterno, la infracción de esta norma de conducta se castigará de conformidad con las leyes y reglamentos militares.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. Correctivos Disciplinarios
+### CAPITULO II. Principios Generales de Disciplina Militar
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 5o.
 
 El militar debe proceder de un modo legal, justo y enérgico en el cumplimiento de sus obligaciones, a fin de obtener la estimación y obediencia de sus subalternos. Es deber del superior educar y dirigir a los individuos que la Nación pone bajo su mando.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 6o.
 
-El superior sólo podrá servirse de sus armas o de la fuerza a su mando para mantener la disciplina, haciendo que se obedezcan sus órdenes en actos del servicio.
+En caso de extrema necesidad en actos del servicio, el superior podrá servirse de sus armas o de la fuerza a su mando para obtener obediencia a sus órdenes o mantener la disciplina.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -95,19 +113,23 @@ El militar que manifieste al superior el mal estado en que se encuentran sus tro
 
 Para que el militar obtenga la confianza y estimación de sus superiores y en su caso las recompensas, deberá demostrar aptitud, buena conducta, amor a la carrera, celo en el cumplimiento de su deber y respeto para su persona y para la de los demás.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 11o.
 
-El militar se abstendrá de murmurar con motivo de las disposiciones superiores o de las obligaciones que le impone el servicio; pero cuando tuviere queja, podrá representar en demanda de justicia, ante el superior inmediato de quien le infirió el agravio, y si no fuere debidamente atendido, podrá llegar por rigurosa escala hasta el Presidente de la República.
+El militar se abstendrá de murmurar con motivo de las disposiciones superiores o de las obligaciones que le impone el servicio.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 12o.
 
-Cuando el militar eleve quejas infundadas, haga públicas falsas imputaciones o cometa indiscreciones en asuntos del servicio, será castigado con arreglo a lo prescrito por el Código de Justicia Militar.
+El militar no deberá elevar quejas infundadas, hacer públicas falsas imputaciones o cometer indiscreciones respecto de los actos del servicio.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 13o.
 
-El militar que sea designado para un acto del servicio, lo ejecutará sin oponer dificultades, pero cuando menoscabe su jerarquía militar, tendrá derecho de representar ante la superioridad.
+El militar aceptará dignamente y con satisfacción las obligaciones que le imponga su servicio, sin oponer dificultades, pero cuando menoscabe su jerarquía militar, tendrá derecho de representar ante la superioridad.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -119,9 +141,11 @@ Queda estrictamente prohibido al militar dar órdenes cuya ejecución constituya
 
 Debe entenderse por actos del servicio, los prescritos por las leyes, reglamentos y disposiciones de observancia general que dicte la Superioridad.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 16o.
 
-En asuntos del servicio, el militar no podrá hacerse representar por apoderado. Tampoco de a (sic) contrariar o retardar órdenes del servicio.
+En actos del servicio, el militar no podrá hacerse representar por apoderado. Tampoco deberá elevar peticiones en grupo, ni solicitud tendiente a contrariar o retardar órdenes del servicio.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -141,53 +165,87 @@ En un acto oficial, donde estuviere un militar y se presentare otro de mayor jer
 
 El comandante de las tropas que arribe a una ciudad o lugar en que no hubiere autoridad militar superior, hará una visita de cortesía a las autoridades civiles.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 21o.
 
-Todo militar debe comportarse con el más alto grado de caballerosidad y educación, en todos los actos sociales.
+El militar debe comportarse con el más alto grado de cortesía y educación, guardando la compostura que corresponde a su dignidad y la marcialidad que debe ostentar como miembro del Ejército y Fuerza Aérea.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 22o.
 
-El militar guardará la compostura que corresponde a su dignidad y la marcialidad que debe ostentar como miembro del Ejército y Fuerza Aérea.
+El militar prestará, siempre que le sea posible, su ayuda moral y material a sus subalternos y compañeros que la necesiten, pues no debe olvidar nunca que la solidaridad y ayuda mutua facilitan la vida en común y el cumplimiento de los deberes militares, constituyendo el espíritu de cuerpo, sentimiento de las colectividades que todos los militares tienen el deber de fomentar.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 23o.
 
-El militar que porte uniforme se abstendrá de entrar a centros de vicio y de prostitución.
+El militar que porte uniforme se abstendrá de entrar a centros de vicio y de prostitución, salvo que estén realizando actos del servicio.
 
 ###### ARTICULO 24o.
 
 Los militares rehusarán todo compromiso que implique deshonor o falta de disciplina, y no darán su palabra de honor si no pueden cumplir lo que ofrecen.
 
-### CAPITULO III. Consejo de Honor
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+###### ARTICULO 24o Bis.
+
+El militar, atendiendo a su honor y principios, debe obrar con equidad y justicia, ser ejemplo de puntualidad y preocuparse por cumplir con lo ordenado, anteponiendo su iniciativa e inteligencia.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO III. Correctivos Disciplinarios
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 24o Ter.
+
+Correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército y Fuerza Aérea Mexicanos, por haber infringido las leyes o reglamentos militares, siempre y cuando no constituyan un delito.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 24o Quáter.
+
+Los correctivos disciplinarios se clasifican en:
+
+I.- Amonestación;
+
+II.- Arresto, y
+
+III.- Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 24o Quinquies.
+
+La amonestación es el acto por el cual el superior advierte al subalterno, de palabra o por escrito, la omisión o defecto en el cumplimiento de sus deberes; invitándolo a corregirse.
+
+En ambos casos, quien amoneste lo hará de manera que ningún individuo de menor categoría a la del aludido se aperciba de ella, procurando observar en estos casos la discreción que les exige la disciplina.
+
+Queda prohibida la reprensión que, por ser afrentosa y degradante, es contraria a la dignidad militar.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 25o.
 
-Los arrestos que por vía de correctivo se impongan a los militares por faltas u omisiones que no ameriten proceso o consignación al Consejo de Honor, serán aplicados en la forma siguiente:
+El arresto es la reclusión que sufre un militar en el interior de las unidades, dependencias o instalaciones militares y puede ser impuesto con o sin perjuicio del servicio.
 
-I.- El General de División, en las tropas de su mando, podrá arrestar en sus alojamientos: a los Generales de Brigada y Brigadieres, hasta por veinticuatro horas, y a los Jefes, hasta por cuarenta y ocho horas; a los Oficiales podrá arrestarlos en sus cuarteles, hasta por ocho días, y a los individuos de tropa hasta por quince días, en las Guardias de Prevención.
-
-II.- Los Generales de Brigada, Brigadieres y Coroneles, tendrán facultad de imponer arrestos a sus subalternos, en las condiciones y por el mismo tiempo que los generales de División.
-
-III.- Los Jefes de menor categoría a la de Coronel y los Oficiales, tendrán facultad de imponer arrestos al personal de las tropas de su mando; pero será el Jefe de la Corporación quien fije el tiempo que deba durar el correctivo.
-
-IV.- Las clases podrán arrestar a sus subalternos, en las mismas condiciones que los oficiales.
+En el primer caso, sólo podrán desempeñarse aquellos servicios que no requieran salir del alojamiento, por estar el militar a disposición de su Comandante o Jefe de la Unidad, Dependencia o Instalación..
 
 ###### ARTICULO 26o.
 
 Si el que impone el correctivo no tiene bajo su mando directo la tropa a que pertenece el que comete la falta, ordenará el arresto y dará cuenta a la autoridad militar correspondiente, siendo ésta quien fijará la duración del castigo, teniendo en consideración la jerarquía de quien lo impuso, la falta cometida y los antecedentes del subalterno.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 27o.
 
-Cuando un militar cometa una falta, el superior debe imponerle el correctivo que merezca, de conformidad con esta ley y si aquél incurriere en un delito, se procederá de acuerdo con el Código de Justicia Militar. Queda estrictamente prohibida la reprensión, por ser contraria a la dignidad militar.
+(DEROGADO, D.O.F. 10 DE DICIEMBRE DE 2004)
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 28.
 
-Toda orden de arresto deberá darse por escrito; en caso de que un militar se vea precisado a imponerlo, por orden verbal, la ratificará por escrito a la mayor brevedad, anotando el motivo y la hora de la orden dada.
+Toda orden de arresto deberá darse por escrito. En caso de que un militar se vea precisado a imponerlo por orden verbal, surtirá efectos de inmediato, pero dicha orden deberá ser ratificada por escrito dentro de las 24 horas siguientes, anotando el motivo y fundamento de la misma, así como la hora; en caso de que no se ratifique, la orden quedará sin efecto.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -197,11 +255,13 @@ El que impida el cumplimiento de un arresto, el que permita que se quebrante, as
 
 ###### ARTICULO 30o.
 
-El arresto por vía de correctivo no se impondrá a un militar durante el estado de ebriedad. El superior se limitará a evitar que cometa algún desorden y a ese efecto lo hará detener, a fin de que se le imponga el castigo que merezca.
+(DEROGADO, D.O.F. 10 DE DICIEMBRE DE 2004)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 31o.
 
-Para el efecto de la imposición de correctivos, se establece que la superioridad es de dos clases: jerárquica y de cargo.
+El militar que ejerce Superioridad jerárquica o de cargo, podrá imponer correctivos disciplinarios.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -209,17 +269,77 @@ Para el efecto de la imposición de correctivos, se establece que la superiorida
 
 Superioridad de cargo es la inherente a la comisión que desempeña un militar, por razón de sus funciones, y de la autoridad de que está investido.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 32o.
 
-Cuando un militar encuentre a un subalterno escandalizando en sitio público, lo hará detener por la autoridad civil o militar más próxima. Si el infractor fuere de igual o superior graduación, dará parte inmediatemente a la autoridad militar que corresponda.
+Tienen facultad para imponer arrestos a sus subalternos en jerarquía o cargo, los Generales, Jefes, Oficiales y clases.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 33o.
 
-Los arrestos que se impongan a los Generales, Jefes y Oficiales, se anotarán en sus Hojas de Servicios, y los impuestos a las clases y soldados, en su Memorial de Servicios.
+Los arrestos se impondrán a:
+
+I.- Los Generales y Jefes, hasta por 24 y 48 horas, respectivamente;
+
+II.- Los Oficiales, hasta por ocho días, y
+
+III.- La Tropa, hasta por quince días.
+
+Los Generales, Jefes, Oficiales y Tropa que no tengan destino fijo y se encuentren en disponibilidad, cumplirán los arrestos que se les impongan en cualquiera de los recintos militares señalados en el artículo 25 de esta Ley.
+
+Los militares en situación de retiro cumplirán el arresto en la instalación militar más cercana a su domicilio.
+
+El Secretario de la Defensa Nacional tendrá facultad para amonestar, así como para imponer y graduar arrestos a los Generales, Jefes, Oficiales y Tropa, hasta por quince días.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 33o Bis.
+
+Tienen facultad para graduar arrestos:
+
+I.- El Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, y
+
+II.- En las tropas a su mando:
+
+a) Los Comandantes del Ejército y la Fuerza Aérea, los Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales;
+
+b) Los Directores Generales de las Armas y Servicios, y
+
+c) Los Directores y Jefes de Dependencias e Instalaciones.
+
+En ausencia de los anteriores, la facultad recaerá en quien los suceda en el mando o cargo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 33o Ter.
+
+Todo militar facultado para graduar arrestos tendrá en cuenta, al hacerlo, que sea proporcional a la falta cometida, a la jerarquía, al cargo, a los antecedentes del infractor, a las circunstancias, al grado que ostente y al cargo de quien lo impuso.
+
+Cuando a juicio del que deba graduar el correctivo, la gravedad de la falta merezca la imposición de un arresto superior al máximo que le sea permitido aplicar, dará cuenta a la autoridad facultada para que sea ella quien lo gradúe. El militar facultado para graduar arrestos, podrá dejarlos sin efecto o sustituirlos por amonestación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 33o Quáter.
+
+El que haya recibido orden de arresto, deberá comunicar al superior de quien dependa así como al que se la impuso, el inicio y término de su cumplimiento. Los Generales, Jefes y Oficiales lo harán por escrito y la Tropa de forma verbal.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 33o Quinquies.
+
+El militar que esté cumpliendo un arresto y se haga acreedor a otro, empezará a cumplir este último desde el momento en que se le comunique.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO IV. Consejo de Honor
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 34o.
 
-El Consejo de Honor se establecerá en las Unidades, Dependencias e Instalaciones del Ejército y Fuerza Aérea, y se constituirá y funcionará conforme al reglamento respectivo.
+El Consejo de Honor se establecerá en las unidades y dependencias del Ejército y Fuerza Aérea; se constituirá con un presidente y cuatro vocales en las unidades y con un presidente y dos vocales en las dependencias, conforme al Reglamento respectivo.
 
 ###### ARTICULO 35o.
 
@@ -229,13 +349,15 @@ Corresponde conocer al Consejo de Honor:
 
 I.- De todo lo relativo a la reputación de la Unidad, Dependencia o Instalación;
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-II.- De los vicios de la embriaguez, uso de narcóticos y juegos prohibidos por la Ley;
+II.- De la embriaguez, uso de narcóticos y juegos prohibidos por la ley;
 
 III.- De la disolución escandalosa;
 
-IV.- De la falta de escrúpulo en el manejo de caudales que no constituya un delito;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+IV.- De la falta de honradez en el manejo de caudales que no constituya un delito;
 
 V.- De la negligencia en el servicio, que no constituya un delito;
 
@@ -249,23 +371,29 @@ I.- Acordar las notas que hayan de ponerse en las Hojas de Servicios de los Ofic
 
 II.- Dictaminar sobre los castigos correccionales que deban imponerse desde Capitán 1o. hasta el Soldado, por faltas, cuyo conocimiento sea de la competencia de este Consejo.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
-III.- Acordar se solicite la baja del Ejército y Fuerza Aérea, por determinación de mala conducta en audiencia pública, para el personal de tropa y de los militares de la clase de auxiliares.
+III.- Acordar se solicite la baja del Ejército y Fuerza Aérea por determinación de mala conducta, para el personal de Tropa y de los militares de la clase de auxiliar, y
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
 IV.- Turnar al Ministerio Público, las constancias respectivas en los casos en que determine que es competencia de los tribunales correspondientes.
 
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+En caso de la fracción III se otorgará al militar un plazo de quince días naturales para que manifieste lo que su interés convenga.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO V. Prevenciones Generales
+
 ###### ARTICULO 37o.
 
 Los castigos correccionales a que se refiere la fracción II del artículo anterior son:
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+I.- Para las clases y soldados, el cambio de unidad, dependencia e instalación o el arresto hasta por quince días en prisión militar, y
 
-a).- Para las clases y soldados, el cambio de Cuerpo o el arresto hasta por quince días en las prisiones militares;
-
-b).- Para los oficiales, el cambio de Cuerpo o de comisión, y el arresto hasta por quince días en las Prisiones Militares.
+II.- Para los Oficiales, el cambio de unidad, dependencia, instalación, comisión o el arresto hasta por quince días en prisión militar.
 
 ###### ARTICULO 38o.
 
@@ -286,6 +414,18 @@ El Consejo de Honor, emplazará al militar de cuya conducta va a conocer para ha
 ###### ARTICULO 41o.
 
 Los miembros de un Consejo de Honor, serán responsables, conforme al Código de Justicia Militar, de las arbitrariedades o abusos que cometieren en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 42o.
+
+El militar que tenga alguna queja en relación con las disposiciones superiores o las obligaciones que le impone el servicio, podrá acudir ante el superior inmediato para la solución de sus demandas y, en caso de no ser debidamente atendido, podrá llegar por rigurosa escala, hasta el Presidente de la República, si es necesario.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 43o.
+
+Todo militar que infrinja la presente Ley, así como algún precepto reglamentario, se hará acreedor a un correctivo disciplinario, de acuerdo con su jerarquía en el Ejército y Fuerza Aérea y, si la magnitud de su falta constituye un delito, quedará sujeto a lo dispuesto por el Código de Justicia Militar.
 
 ## TRANSITORIO
 
@@ -324,3 +464,9 @@ D.O.F. 11 DE DICIEMBRE DE 1995.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 10 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
