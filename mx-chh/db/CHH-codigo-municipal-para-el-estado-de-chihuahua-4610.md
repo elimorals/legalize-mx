@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2004-12-29"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -911,7 +911,7 @@ XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidad
 
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
 
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
@@ -923,7 +923,7 @@ XV.- Solicitar datos, informes y documentación en general a fin de hacer las co
 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
 
-XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente.
 
 XVII.- Las demás que establezcan las leyes y reglamentos.
 
@@ -2633,7 +2633,9 @@ Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bi
 
 La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
 
-Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
 
 En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
 
@@ -3497,13 +3499,13 @@ P.O. 14 DE JUNIO DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JULIO DE 2003.
+P.O. 21 DE JUNIO DE 2003.
 
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 19 DE JULIO DE 2003.
+P.O. 16 DE JULIO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3513,7 +3515,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municipales de "Bermúdez" y de "El Pilar", se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
-P.O. 21 DE JUNIO DE 2003.
+P.O. 19 DE JULIO DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3628,5 +3630,29 @@ Las actualizaciones que resulten de la aplicación del artículo transitorio ant
 Todos los municipios deberán realizar una investigación con la participación de peritos valuadores autorizados, a fin de obtener el Estudio Integral de Valores de Mercado y con base en ello elaborarán las tablas de valores, que someterán a la consideración del Congreso del Estado, en los términos de este decreto, para entrar en vigor en el año 2006. Así mismo, realizarán un programa intensivo de actualización catastral para captar predios omisos y nuevas construcciones.
 
 La inobservancia de lo anterior será sancionado en los términos del artículo 23, fracciones XVII y XVIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
 
 ## TRANSITORIOS
