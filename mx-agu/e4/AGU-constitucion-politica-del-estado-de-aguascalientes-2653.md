@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1917-09-09"
+last_updated: "1919-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -51,7 +51,7 @@ También reconoce el Estado que estos derechos son la base de las instituciones 
 
 Los Funcionarios y empleados públicos tendrán como inviolables esos derechos, lo mismo que el de petición de palabra o por escrito; más en materias políticas, sólo podrán hacer uso de ese derecho los ciudadanos del Estado o de la República. A toda petición debe recaer un acuerdo escrito de la Autoridad a quien se haya dirigido y ésta tiene obligación de hacerlo saber en breve término al peticionario.
 
-###### Artículo 4º.
+###### Artículo 4º
 
 Ningún poder público puede suspender los efectos de las leyes. Sólo la Legislatura del Estado tiene facultad de reformarlas o derogarlas.
 
@@ -163,9 +163,11 @@ Los diputados son inviolables por la manifestación de sus ideas en el ejercicio
 
 El Congreso se instalará cada dos años el dieciséis de Septiembre posterior a la elección.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1919)</small>
+
 ###### Artículo 20°
 
-El Congreso tendrá cada año dos períodos de sesiones, comenzando el primero el dieciseis de septiembre y concluyendo el dieciseis de diciembre, y el segundo, de dieciseis de marzo al dieciseis de junio del año siguiente, ocupándose de preferencia en este último período de la discusión y aprobación de los presupuestos de ingresos y egresos del Estado y Municipios, para el siguiente año fiscal. Este empezará el primero de julio y concluirá el treinta de junio del año siguiente.
+El Congreso tendrá cada año dos períodos de sesiones, comenzando, el primero, el 16 de septiembre y concluyendo el 16 de diciembre, y el segundo del 16 de marzo al 16 de junio del año siguiente, ocupándose de preferencia, en el primer período, de la discusión y aprobación de los Presupuestos de Ingresos y Egresos del Estado y Municipios, para el ejercicio fiscal inmediato, que comprenderá del 1° de enero al 31 de diciembre del siguiente año.
 
 ###### Artículo 21°
 
@@ -355,7 +357,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar, publicar, ejecutar y hacer que se ejecuten las leyes, haciendo uso en su caso de la facultad que le concede el artículo 26.
 
-II.- Presentar al Congreso cada año los Proyectos de Presupuestos de Ingresos y Egresos del Estado, formados para que rijan en el ejercicio fiscal venidero, y al día siguiente de la apertura del primer período de sesiones ordinarias, una Memoria del estado de la Administración Pública.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1919)</small>
+
+II.- Presentar al Congreso cada año, al día siguiente de la apertura del primer período de sesiones ordinarias, un informe, por escrito, sobre el estado que guarden los diversos ramos de la Administración Pública, y dentro de los primeros diez días del mismo periodo, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, para el siguiente ejercicio fiscal.
 
 III.- Asistir a la apertura del primer período de sesiones del Congreso y presentar por escrito cuando se abra un período de sesiones extraordinarias promovido por él, las razones o causas que hicieron necesaria la convocatoria.
 
@@ -600,3 +604,9 @@ Expedida en el Salón de sesiones del Congreso del Estado a los tres días del m
 Por tanto, mando se imprima, publique por bando y se circule para los fines consiguientes.
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 1919.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
