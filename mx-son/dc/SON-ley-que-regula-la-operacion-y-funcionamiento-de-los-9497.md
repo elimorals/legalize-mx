@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-9497"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-25"
-last_updated: "1992-06-25"
+last_updated: "1996-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, GUARDA, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE JULIO DE 1996.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 25 de junio de 1992.
 
@@ -57,6 +57,10 @@ Para los efectos de esta Ley, se consideran bebidas con contenido alcohólico to
 
 Para efectos de esta Ley, se considera como bebidas de alto contenido alcohólico aquellas cuyo contenido alcohólico sea superior a los 6.0 grados G.L. hasta los 55 grados G.L., a las que indistintamente podrá designarse con la denominación de vinos y licores.
 
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Los productos cuyo contenido alcohólico sea mayor de 55 grados G.L., se considerarán como no potables y no se autorizarán para su venta o suministro al público para su ingestión directa.
+
 ###### ARTICULO 5.
 
 Para los efectos de esta Ley, se consideran como bebidas de bajo contenido alcohólico aquellas cuyo contenido alcohólico sea hasta 6.0 grados G.L. En este rango se considera la cerveza, bebida fermentada elaborada con granos de cebada germinados y fermentados, malta, fécula, lúpulo, levadura y agua, siempre que su contenido alcohólico sea hasta 6.0 grados G.L.
@@ -69,9 +73,11 @@ En todo lo relacionado con la fabricación, elaboración, envasamiento, distribu
 
 Los establecimientos o giros que se dediquen a la fabricación, elaboración, envasamiento, distribución, guarda, transportación, venta y consumo de bebidas con contenido alcohólico sólo se autorizarán en los lugares que señale la Ley y que reúnan los requisitos previstos en las leyes o reglamentos respectivos, previo el pago de los derechos y otros conceptos que fijen las leyes hacendarias que le sean aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 8.
 
-Para la operación y funcionamiento de los establecimientos o giros que se dediquen a la fabricación, elaboración, envasamiento, distribución, guarda, venta y consumo de bebidas con contenido alcohólico, en envase cerrado o abierto, deberá contarse previamente con la licencia expedida por el Ejecutivo del Estado, que podrá delegar en la Tesorería General del Estado, la que las otorgará en los términos y bajo las condiciones que establece la presente Ley.
+Para la operación y funcionamiento de los establecimientos o giros que se dediquen a la fabricación, elaboración, envasamiento, distribución, guarda, venta y consumo de bebidas con contenido alcohólico, en envase cerrado o abierto, deberá contarse previamente con la licencia expedida por el Ejecutivo del Estado, que podrá delegar en la Secretaría de Finanzas, la que las otorgará en los términos y bajo las condiciones que establece la presente Ley.
 
 > <small>(F. DE E., B.O. 23 DE JULIO DE 1992)</small>
 
@@ -81,197 +87,65 @@ Tratándose de bebidas alcohólicas regionales, cuyo nombre característico se e
 
 Es facultad del Ejecutivo del Estado, vigilar todo lo concerniente al cumplimiento y aplicación de la presente Ley, sin perjuicio de las facultades que el presente ordenamiento otorga al Ministerio Público del Estado y a las autoridades municipales.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 10.
 
-El Gobernador del Estado expedirá el Reglamento que estime pertinente para el mejor cumplimiento y observancia de las disposiciones de esta ley. Asimismo, el Tesorero General del Estado estará facultado para expedir circulares y disposiciones administrativas de carácter general, que establezcan los criterios de interpretación para la aplicación de las disposiciones que establece esta ley y su Reglamento, debiendo difundirlas por los medios de comunicación que juzgue necesarios, para que su conocimiento pleno llegue a la población en general.
+El Gobernador del Estado expedirá el Reglamento que estime pertinente para el mejor cumplimiento y observancia de las disposiciones de esta Ley. Asimismo, el Secretario de Finanzas estará facultado para expedir circulares y disposiciones administrativas de carácter general, que establezcan los criterios de interpretación para la aplicación de las disposiciones que establece esta Ley y su Reglamento, debiendo difundirlas por los medios de comunicación que juzgue necesarios, para que su conocimiento pleno llegue a la población en general.
 
 ###### ARTICULO 11.
 
 A falta de disposición expresa en esta Ley, siempre que no se contravenga la misma, será aplicable supletoriamente el Código Fiscal del Estado y las normas de derecho común.
 
-### CAPITULO II. DE LA CLASIFICACION Y DEFINICION DE GIROS
+> <small>(REFORMADA SU DENOMINACION, B.O. 15 DE JULIO DE 1996)</small>
+
+### CAPITULO II. DE LA CLASIFICACION, DEFINICION, CARACTERISTICAS Y REQUISITOS DE LOS GIROS
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 12.
 
-Para los efectos de esta Ley, la operación y funcionamiento de los establecimientos que se dedican a la fabricación, distribución, envasamiento, guarda, transportación, venta y consumo de bebidas con contenido alcohólico se clasifican en:
+Para los efectos de esta Ley, la operación y funcionamiento de los establecimientos que se dedican a la fabricación, distribución, envasamiento, guarda, transportación, venta y consumo de bebidas con contenido alcohólico se clasifican en los giros cuyas características y requisitos se describen a continuación:
 
-I.- Fábrica.
+I.- FABRICA: Lugar de elaboración de bebidas con contenido alcohólico cuyo conjunto de operaciones para la elaboración de bebidas con contenido alcohólico, son objeto de aprobación, vigilancia y control sanitario en los términos de la Legislación Sanitaria Federal. Su infraestructura e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas o pequeñas y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
 
-II.- Envasadora.
+La enajenación de sus productos solo podrá destinarse en el Estado a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizada por el Ejecutivo cuya autorización podrá delegar a la Secretaría de Finanzas.
 
-III.- Distribuidora.
+II.- ENVASADORA: Establecimiento cuyo proceso industrial es el propio de envasar en recipientes bebidas con contenido alcohólico y que es objeto de aprobación, vigilancia y control sanitario en los términos de la Legislación Sanitaria Federal. La infraestructura e instalaciones coinciden en su totalidad con los fines específicos de envasar un producto fijo determinado por su tamaño. Estos establecimientos podrán ser grandes, medianos o pequeños, más siempre de primera calidad.
 
-IV.- Bodega.
+La enajenación de sus productos solo podrá hacerse en los mismos términos que se especifican en la fracción I de este mismo artículo.
 
-V.- Almacén.
+III.- DISTRIBUIDORA: Negocio de distribución específica y venta al mayoreo de productos de alcohol o bebidas con contenido alcohólico a negocios subsecuentes que tengan licencia autorizada para la venta o consumo de sus productos. Tratándose de venta de bebidas con contenido alcohólico al público en general, ésta deberá hacerse al menudeo. Sus instalaciones e infraestructura son las necesarias y suficientes para dedicarse a la comercialización mayorista. En su caso, la licencia que se otorgue para la venta de cerveza al mayoreo será especifica.
 
-VI.- Porteadoras.
+La enajenación al mayoreo de los productos de este tipo de establecimiento solo podrá destinarse dentro del Estado a negociaciones autorizadas y personas que cuenten con licencia de funcionamiento para la comercialización o consumo del producto en eventos sociales, para lo cual solicitarán copia fiel e inalterable de la licencia correspondiente, la cual conservará para fines de inspecciones por la Secretaría de Finanzas. Esta disposición no será aplicable tratándose de venta de bebidas con contenido alcohólico para eventos sociales en domicilios particulares, ni para aquellos casos en que dichos eventos se realicen por terceras personas en lugares o establecimientos que ya cuenten con licencia de funcionamiento en los términos de esta Ley. Los casos excepcionales serán resueltos discrecionalmente por la Secretaría de Finanzas.
 
-VII.- Agencia y Subagencia.
-
-VIII.- Depósito.
-
-IX.- Expendio.
-
-X.- Ultramarino.
-
-XI.- Cantina.
-
-XII.- Cervecería.
-
-XIII.- Cabaret o centro nocturno.
-
-XIV.- Discoteca.
-
-XV.- Restaurante.
-
-XVI.- Fondas, Loncherías, Taquerías y similares.
-
-XVII.- Supermercados.
-
-XVIII.- Tienda de abarrotes.
-
-XIX.- Casino.
-
-XX.- Club Social.
-
-XXI.- Salón de baile.
-
-XXII.- Salón de billar o Boliche.
-
-XXIII.- Cafés cantantes.
-
-XXIV.- Hotel y Motel.
-
-XXV.- Centros recreativos y deportivos.
-
-XXVI.- Otros.
-
-###### ARTICULO 13.
-
-Se entiende por:
-
-I.- FABRICA: Lugar de elaboración de bebidas con contenido alcohólico.
-
-II.- ENVASADORA: Lugar donde se envasa alcohol o bebidas con contenido alcohólico.
-
-III.- DISTRIBUIDORA: Negocio de distribución específica y venta al mayoreo de productos de alcohol o bebidas con contenido alcohólico a negocios subsecuentes que tengan licencia autorizada para la venta o consumo de sus productos.
-
-Tratándose de venta de bebidas con contenido alcohólico al público en general, ésta deberá hacerse al menudeo.
-
-IV.- BODEGA: Lugar donde se guarda bebidas con contenido alcohólico.
+IV.- BODEGA: Lugar para la guarda de bebidas con contenido alcohólico propio del establecimiento que cuenta con alguna de las actividades de elaboración, envasamiento o comercialización de productos con contenido alcohólico y que cuente con licencia autorizada previamente para su actividad específica. Las características propias de bodega son la superficie construida de una edificación necesaria para sus propios fines, siguiéndose las especificaciones que marcan las disposiciones sanitarias de la Legislación Federal y Estatal. Se prohibe la venta o consumo en estos establecimientos.
 
 V.- ALMACEN: Lugar anexo y comunicado donde se guardan o custodian bebidas con contenido alcohólico en los negocios con licencia para venta directa o consumo de estos productos.
 
-VI.- PORTEADORAS: Persona física o moral dedicada a la transportación de bebidas con contenido alcohólico propias o ajenas, dentro o fuera del Estado.
+VI.- PORTEADORA: Persona física o moral dedicada a la transportación de bebidas con contenido alcohólico propias o ajenas, dentro o fuera del Estado.
+
+Las licencias para esta actividad preferentemente se otorgarán a aquellas negociaciones que se dedican a la elaboración, distribución o comercialización de bebidas con contenido alcohólico y que cuenten con licencia autorizada previamente para su actividad específica.
 
 En los casos de vehículos con licencias y placas federales que transporten dichos productos con origen y destino dentro del Estado, deberán contar con permiso de porteador autorizado por el Estado.
 
-Tratándose de la transportación de bebidas con contenido alcohólico en forma eventual, con origen y destino dentro del Estado, deberá ampararse el traslado del producto con guías expedidas por la Tesorería General del Estado.
+Las porteadoras con licencia debidamente autorizada, deberán solicitar cuando así se requiera en los términos de esta Ley, previamente y en forma específica, a la Secretaría de Finanzas la guía correspondiente a cada transportación, informando fecha y hora de operación, así como otros requisitos que dicha dependencia señale.
 
-La Tesorería General del Estado en forma discrecional resolverá todos aquellos casos especiales de transportistas que se presenten.
+Tratándose de la transportación de bebidas con contenido alcohólico en forma eventual, con origen y destino dentro del Estado, deberá ampararse el traslado del producto con guías expedidas por la Secretaría de Finanzas.
 
-VII.- AGENCIAS Y SUBAGENCIAS: Negocio de distribución y venta de cerveza al mayoreo o menudeo.
+La Secretaría de Finanzas en forma discrecional resolverá todos aquellos casos especiales de transportistas que se presenten.
 
-VIII.- DEPOSITO: Establecimiento con venta de cerveza al menudeo.
+VII.- AGENCIA Y SUBAGENCIA: Agencia: lugar suficientemente amplio para expender y distribuir cerveza al mayoreo o menudeo. Sus instalaciones e infraestructura coinciden con sus fines y podrá contar con mostrador para despacho al público con venta al menudeo; Subagencia: lugar subsidiario de Agencia que cuenta con las mismas características que ésta.
 
-IX.- EXPENDIO: Negociación de venta de bebidas con contenido alcohólico por envase cerrado. Tratándose de cerveza la venta será al menudeo.
+VIII.- DEPOSITO: Lugar suficientemente amplio para la venta de cerveza al menudeo. Sus instalaciones e infraestructura coinciden para sus fines. Contará con anaqueles y mostrador que podrá prolongarse hasta las paredes laterales. La venta de sus productos podrá hacerse por ventanillas que agilicen la acción y ofrezcan seguridad. Se prohibe que se haga el consumo en el área del local.
 
-X.- ULTRAMARINO: Establecimiento para la venta de productos alimenticios finos complementados con la venta al menudeo de bebidas con contenido alcohólico.
+IX.- EXPENDIO: Lugar suficientemente amplio para la venta de bebidas con contenido alcohólico por envase cerrado, tratándose de cerveza la venta será al menudeo. Sus instalaciones e infraestructura coinciden para sus fines. Contarán con anaqueles, mostrador y grandes ventanales. La venta de sus productos podrá hacerse por ventanillas que agilicen la acción y ofrezcan seguridad. Se prohibe se haga consumo en el área del local.
 
-XI.- CANTINA: Establecimiento donde se venden bebidas con contenido alcohólico, en envase abierto y para el consumo inmediato en el interior del propio establecimiento.
+X.- ULTRAMARINO: Establecimiento para la venta de productos alimenticios finos complementados con la venta al menudeo de bebidas con contenido alcohólico. Sus instalaciones e infraestructura coinciden para sus fines. Deberá contar con anaqueles, vitrina, mostrador y grandes ventanales. Se prohibe el consumo en el interior del local. Contará con servicio necesario de venta de productos alimenticios, tales como embutidos, productos lácteos y marinos enlatados, que corresponderán al 25% del monto del inventario total de mercancías exhibidas.
 
-XII.- CERVECERIA: Establecimiento donde se vende cerveza en envase abierto y para su consumo en el interior del propio establecimiento.
+XI.- CANTINA O BAR: Establecimiento donde se venden bebidas con contenido alcohólico, en envase abierto y para el consumo inmediato en el interior del propio establecimiento, el cual deberá ser suficientemente amplio, con mucha ventilación, con la altura interior del local necesaria para evitar la contaminación del aire, con características típicas y de atracción turística. Contará con barra y contra-barra de buen aspecto, funcionalidad y salubre, separada del paño interior de la pared de fachada cuando menos uno y medio metros. Podrá contar con mesas y sillas, y
 
-XIII.- CABARET O CENTRO NOCTURNO: Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento, en el que se baila y además tiene la característica de presentar espectáculos para la diversión de los asistentes.
-
-XIV.- DISCOTECA: Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo, para consumo inmediato en su interior y que tiene la característica de contar con pista de baile con efectos de luces y sonidos especiales para la diversión de los asistentes dentro del propio establecimiento.
-
-XV.- RESTAURANTE: Establecimiento donde se expenden alimentos acompañados de bebidas con contenido alcohólico para su consumo inmediato.
-
-Las bebidas con contenido alcohólico podrán servirse, antes de los alimentos, con los alimentos y después de los alimentos.
-
-Los restaurantes, podrán contar en su interior con pistas de baile, lo cual se hará constar en la licencia respectiva.
-
-XVI.- FONDAS, LONCHERIAS, TAQUERIAS Y SIMILARES: Establecimientos donde se expenden alimentos típicos o específicos y que podrán ser acompañados complementariamente con consumo de cerveza, en forma moderada, en envase abierto, por botella y de barril al vaseo, dentro del establecimiento, salvo casos especiales que se harán constar en la licencia respectiva.
-
-XVII.- SUPERMERCADO: Establecimiento dedicado a dar servicio de venta de comestibles, alimentos perecederos e imperecederos y toda clase de mercancía, tales como enseres, carnes, productos lácteos, productos para el hogar, ferretería y otros y que podrán contar con licencia para la venta de bebida con contenido alcohólico al menudeo por envase cerrado.
-
-> <small>(F. DE E., B.O. 23 DE JULIO DE 1992)</small>
-
-XVIII.- ABARROTES: Establecimientos para venta de abarrotes y similares que expenden complementariamente cerveza en envase cerrado al menudeo, pudiendo contar en sus inventarios con un máximo de 10 cartones de 24 unidades de 340 mililitros cada una o su equivalente si se tratara de otra presentación.
-
-XIX.- SALON SOCIAL: Establecimiento dedicado a dar servicio al público para la celebración de eventos especiales, tales como bodas, bautizos, quinceañeras, bailes, presentaciones artísticas y que pueden contar con servicio de cocina y cantina, que sólo funcionarán en el transcurso de los eventos y exclusivamente para el consumo, sin venta, de bebidas con contenido alcohólico.
-
-XX.- CASINO O CLUB SOCIAL: Lugar dedicado a dar servicio en forma exclusiva para socios e invitados, asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquier otra naturaleza, que podrán contar con salón de baile, servicio de cantina y cocina, que sólo funcionarán en el transcurso de los eventos con consumo y en su caso, venta de bebidas con contenido alcohólico cuando cuenten con licencia debidamente autorizada para tales efectos.
-
-XXI.- SALON DE BAILE: Lugar dedicado a dar servicio al público para la celebración de bailes y eventos, tales como presentaciones artísticas y variedades en donde se expenden bebidas con contenido alcohólico, durante los eventos, pudiendo funcionar como restaurante y cantina el resto de los días.
-
-XXII.- BILLARES O BOLICHES: Establecimientos donde se practican los deportes del billar y/o boliches y se expende como servicio cerveza para su consumo inmediato dentro del establecimiento en forma moderada.
-
-XXIII.- CAFE CANTANTE: Lugar donde se expenden bebidas con contenido alcohólico para su consumo inmediato en el interior del propio establecimiento, dando servicio de presentaciones artísticas y culturales.
-
-XXIV.- HOTEL Y MOTEL: Establecimiento público donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas con contenido alcohólico, siempre y cuando tengan dentro de su infraestructura general, por lo menos establecimiento de restaurante y cantina y cuenten con licencia autorizada específica, pudiendo ofrecer el servicio de bar en las habitaciones de acuerdo a su calidad turística que en todo caso dictamine la Secretaría de Turismo. La explotación de la licencia deberá ser directa por el operador del establecimiento principal, en observancia del artículo 54 de esta Ley.
-
-XXV.- CENTRO RECREATIVO Y DEPORTIVO: Lugar donde se ofrece al público servicios específicos e instalaciones deportivas y que podrá contar con venta y consumo de bebidas con contenido alcohólico mediante la licencia autorizada específica.
-
-XXVI.- OTROS: En los demás lugares o establecimientos que a solicitud escrita y fundada autorice el Ejecutivo por conducto de la Tesorería General del Estado, en la que podrán opinar, en su caso, las autoridades municipales.
-
-###### ARTICULO 14.
-
-Para los efectos de esta Ley, se entiende por menudeo la venta de cerveza por unidades de envase cerrado de hasta mil mililitros o paquetes de 6 unidades de envase cerradas, sin llegar a excederse de 7 cajas de 12 unidades en los de contenido de mil mililitros ni de 10 cartones o cajas en el caso de los paquetes de 6 unidades o su equivalente, o bien dos barriles de hasta 60 litros cada uno.
-
-Tratándose de vinos y licores se entenderá menudeo la venta de hasta 5 litros.
-
-En los abarrotes se entiende por menudeo la venta de cerveza por unidades en envase cerrado de hasta 1000 mililitros o paquetes de 6 unidades en envase cerradas, sin llegar a excederse de 12 unidades en los de contenido de 1000 mililitros, ni de un cartón o caja en el caso de los paquetes de 6 unidades o su equivalente.
-
-Los establecimientos que cuenten con licencia de funcionamiento para venta únicamente al menudeo de bebidas con contenido alcohólico, podrán enajenar estos productos en mayor cantidad a la señalada en este artículo cuando el adquiriente acredite tener licencia autorizada en los términos de la presente Ley, para lo cual solicitarán copia de la misma, conservándola para fines de inspecciones por la Tesorería General del Estado.
-
-La disposición a que se refiere el párrafo anterior no será aplicable tratándose de giros de abarrotes.
-
-### CAPITULO III. DE LAS CARACTERISTICAS Y REQUISITOS DE LOS GIROS
-
-###### ARTICULO 15.
-
-Para efectos de esta Ley las características de los establecimientos son:
-
-I.- FABRICAS.- Industria cuyo conjunto de operaciones para la elaboración de bebidas con contenido alcohólico, son objeto de aprobación, vigilancia y control sanitario en los términos de la Legislación Sanitaria Federal. Sus infraestructuras e instalaciones especiales coinciden en su totalidad con los fines específicos de elaboración. Por su tamaño estas empresas podrán ser grandes, medianas o pequeñas y su localización podrá estar en las inmediaciones o lugares permitidos por las leyes aplicables.
-
-La enajenación de sus productos, sólo podrá destinarse en el Estado a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico, debidamente autorizada por el Ejecutivo, cuya autorización podrá delegar a la Tesorería General del Estado. Para la transportación dentro del Estado, las porteadoras requerirán, en todo caso, guías en los términos de ésta Ley.
-
-II.- ENVASADORA.- Establecimiento cuyo proceso industrial es el propio de envasar en recipientes bebidas con contenido alcohólico y que es objeto de aprobación, vigilancia y control sanitario en los términos de la Legislación Sanitaria. La infraestructura e instalaciones coinciden en su totalidad con los fines específicos de envasar un producto fijo determinado por su tamaño. Estos establecimientos podrán ser grandes, medianos o pequeños, más siempre de primera calidad.
-
-La enajenación de sus productos sólo podrá hacerse en los mismos términos que se especifican en la fracción I de este mismo artículo.
-
-III.- DISTRIBUIDORA.- Establecimiento cuyo objetivo principal es el de expender bebidas con contenido alcohólico en barril, cartón o caja completa al mayoreo o al menudeo. Sus instalaciones e infraestructura son las necesarias y suficientes para dedicarse a la comercialización mayorista. En su caso, la licencia que se otorgue para le venta de cerveza será específica.
-
-La enajenación al mayoreo de los productos de este tipo de establecimiento sólo podrá destinarse dentro del Estado a negociaciones autorizadas y personas que cuenten con licencia de funcionamiento para la comercialización o consumo del producto en eventos sociales, para lo cual solicitarán copia fiel e inalterable de la licencia correspondiente, la cual conservará para fines de inspecciones por la Tesorería General del Estado. Esta disposición no será aplicable tratándose de venta de bebidas con contenido alcohólico para eventos sociales en domicilios particulares, ni para aquellos casos en que dichos eventos se realicen por terceras personas en lugares o establecimientos que ya cuenten con licencia de funcionamiento en los términos de esta Ley.
-
-Para la transportación de sus productos requerirán de guías específicas emitidas por la Tesorería General del Estado, cuando así se requiera en los términos de esta Ley.
-
-IV.- PORTEADORAS.- Empresas que se dedican a la transportación de bebidas con contenido alcohólico propias o ajenas dentro o fuera del Estado.
-
-Las licencias para esta actividad preferentemente se otorgarán a aquellas negociaciones que se dediquen a la elaboración, distribución o comercialización de bebidas con contenido alcohólico y que cuenten con licencia autorizadas previamente para su actividad específica.
-
-Las porteadoras con licencia debidamente autorizada, deberán solicitar cuando así se requiera en los términos de esta Ley, previamente y en forma específica, a la Tesorería General del Estado la guía correspondiente a cada transportación informando fecha y hora de operación, así como otros requisitos que dicha dependencia señale.
-
-V.- BODEGA.- Lugar para la guarda de bebidas con contenido alcohólico propio del establecimiento que cuenta con alguna de las actividades de elaboración, envasamiento o comercialización de productos con contenido alcohólico y que cuente con licencia autorizada previamente para su actividad específica. Las características propias de bodega son la superficie construída de una edificación necesaria para sus propios fines, siguiéndose las especificaciones que marcan las disposiciones sanitarias de la Legislación Federal y Estatal. Se prohibe la venta o consumo en estos establecimientos.
-
-VI.- AGENCIA.- Lugar suficientemente amplio para expender y distribuir cerveza al mayoreo o menudeo. Sus instalaciones e infraestructura coinciden con sus fines. Contará con mostrador para despacho al público.
-
-VII.- SUBAGENCIA.- Lugar subsidiario de Agencia suficientemente amplio para expender y distribuir cerveza al mayoreo o menudeo. Sus instalaciones e infraestructura coinciden con sus fines y contará con mostrador para despacho al público.
-
-VIII.- DEPOSITO.- Lugar suficientemente amplio para la venta de cerveza al menudeo. Sus instalaciones e infraestructuras coinciden para sus fines. Contará con anaqueles y mostrador que podrán prolongarse hasta las paredes laterales. La venta de sus productos podrá hacerse por ventanillas que agilicen la acción y ofrezcan seguridad. Se prohibe que se haga el consumo en el interior del local.
-
-IX.- EXPENDIO.- Lugar suficientemente amplio para la venta de bebidas con contenido alcohólico por envase cerrado, tratándose de cerveza la venta será al menudeo. Sus instalaciones e infraestructura coinciden para sus fines. Contarán con anaqueles, mostrador y grandes ventanales. La venta de sus productos podrá hacerse por ventanillas que agilicen la acción y ofrezcan seguridad. Se prohibe se haga consumo en el interior de local.
-
-> <small>(F. DE E., B.O. 23 DE JULIO DE 1992)</small>
-
-X.- ULTRAMARINO.- Lugar suficientemente amplio para la venta de bebidas con contenido alcohólico al menudeo, incluyendo cerveza. Sus instalaciones e infraestructura coinciden para sus fines. Deberán contar con anaqueles, vitrina, mostrador y grandes ventanales. Se prohibe el consumo en el interior del local. Contarán con servicio necesario de venta de productos alimenticios, tales como embutidos, productos lácteos y marinos enlatados, que corresponderán al 25% del monto del inventario total de mercancías exhibidas.
-
-XI.- CANTINA.- Lugar suficientemente amplio con mucha ventilación, con altura interior del local suficiente para evitar la contaminación del aire, con características típicas y de atracción turística. Contará con barra y contra-barra de buen aspecto, funcionalidad y salubre, separada del paño interior de la pared de fachada cuando menos uno y medio metros. Podrá contarse con mesas y sillas y:
-
-a).- Deberá tener servicios sanitarios separados para hombres y para mujeres. Mingitorios de porcelana, con llave de agua y comunicados con albañal.
+a).- Deberá tener servicios sanitarios separados para hombres y mujeres. Mingitorios de porcelana con llave de agua y comunicados con albañal.
 
 b).- Tendrá adaptación de agua para el aseo y lavado de vasos, copas y equipo, disponiendo para el efecto de un grifo sobre el vertedor con sifón y tubería que conecte al desagüe.
 
@@ -287,49 +161,85 @@ f).- Los compartimientos o reservados que se instalen estarán comunicados al in
 
 g).- El aseo de las cantinas debe ser irreprochable tanto en el local que ocupa como en su cristalería y utensilios de uso general.
 
-h).- Podrá haber música viva o ambiental con aparatos de sonido.
+h) Deberá contar con clima artificial, ya sea refrigeración, abanicos, enfriadores por agua o calefacción según sea la temporada estacional.
 
-i).- Podrá contar con servicio adicional de cocineta para obsequiar o enajenar productos alimenticios preparados a los clientes en pequeñas porciones. Deberá reunir las condiciones higiénicas previstas por las Leyes Sanitarias Federal y Estatal.
+i) En caso de contar con servicio adicional de cocineta para obsequiar o enajenar productos alimenticios preparados a los clientes en pequeñas porciones, deberá reunir las condiciones higiénicas previstas por las Leyes Sanitarias Federal y Estatal.
 
-j).- Se podrá contar con servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento tales como cubilete.
+Podrá contar con mesas de billar y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental con aparatos fonoeléctricos, radio, televisión, y videocaseteras, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables; asimismo estará permitido jugar damas, dominó, ajedrez y cubilete.
 
-Podrá contar con mesas de billar, lo cual se hará constar en la licencia de funcionamiento respectiva.
+XII.- CERVECERIA: Lugar con las características de cantina en donde sólo se expende cerveza para su consumo inmediato en el interior del establecimiento, debiéndose considerar como establecimientos con servicios de primera calidad.
 
-Deberá contar con clima artificial, ya sea refrigeración, abanicos, enfriadores por agua o calefacción según sea la temporada estacional.
+Podrá contar con servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental con aparatos fonoeléctricos, radio, televisión y video-caseteras, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables; asimismo estará permitido jugar, damas, dominó, ajedrez y cubilete.
 
-XII.- CERVECERIA.- Lugar con las características de cantina en donde sólo se expende cerveza para su consumo en el interior del establecimiento, debiéndose considerar como establecimientos con servicios de primera calidad.
-
-XIII.- CABARET O CENTRO NOCTURNO.- Lugar suficientemente amplio con todas las características específicas para cantina además de:
+XIII.- CABARET O CENTRO NOCTURNO: Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento, en el que se baila y además tienen la característica de presentar espectáculos para la diversión de los asistentes. Deberá reunir, además de las específicas para cantina, las siguientes características:
 
 a).- Arquitectura de primera calidad, suficiente para la seguridad física de los clientes.
 
-b).- Podrá contarse con bambalinas, foro de espectáculos y de orquestas, camerinos para uso eventual y profesional de artistas, iluminación especial y además con pista de baile.
+b).- Deberá contar con vigilancia policiaca constante.
 
-c).- Deberá contar con vigilancia policiaca constante.
+Podrá contar con bambalinas, foro de espectáculos y de orquestas, camerinos para uso eventual y profesional de artistas, iluminación especial y además con pista de baile.
 
-XIV.- DISCOTECA.- Lugar suficientemente amplio con todas las características específicas para centro nocturno o cabaret. Podrá contar con efectos sonoros y de iluminación modernista, así como música grabada.
+XIV.- DISCOTECA: Establecimiento donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo, para consumo inmediato en su interior y que tiene la característica de contar con pista de baile con efectos de luces y sonidos especiales para la diversión de los asistentes dentro del propio establecimiento. El lugar deberá ser suficientemente amplio con todas las características específicas para Centro Nocturno o Cabaret. Podrá contar con efectos sonoros y de iluminación modernista, así como música grabada.
 
-XV.- RESTAURANTE.- Establecimiento donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico, deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y solo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren signos de ebriedad.
+XV.- RESTAURANTE: Establecimiento donde se expenden alimentos preparados para su consumo inmediato. La licencia que se autorice para la venta de bebidas con contenido alcohólico deberá ser para consumirse exclusivamente acompañadas con los alimentos y podrán servirse a manera de aperitivo antes de los alimentos en forma moderada y solo en el caso de que el cliente vaya a consumir estos últimos. También las bebidas con contenido alcohólico podrán servirse con los alimentos y en forma más moderada después de ellos. En ningún caso, ni en ningún tiempo podrán servirse bebidas con contenido alcohólico a personas que muestren evidentes signos de ebriedad.
 
-Podrán contar con barra y taburete de buen aspecto, funcionalidad e higiénico. Contar con suficientes mesas y sillas para comensales.
+Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina industrial independiente para preparar alimentos, reuniendo las condiciones higiénicas previstas en las Leyes de Salud Federal y Estatal; y deberán tener servicios sanitarios separados para hombres y mujeres, mingitorios de porcelana con grifo de agua y comunicado con albañal. Podrá contar con barra y taburete de buen aspecto, funcionales e higiénicos; música ambiental a un volumen agradable y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
-Podrá contar con pista de baile si esta específicamente consta en la licencia.
+También podrán contar con pista de baile, pero en este caso, la operación del establecimiento se ceñirá estrictamente a lo dispuesto por el artículo 34 de la presente Ley.
 
-a).- Contará con cocina industrial independiente para preparar alimentos, reuniendo las condiciones higiénicas previstas en las Leyes de Salud Federal y Estatal.
+XVI.- FONDAS, LONCHERIAS, TAQUERIAS Y SIMILARES: Establecimientos donde se expenden alimentos típicos o específicos, en donde únicamente se autorizará la venta de cerveza en forma moderada, en envase abierto por botella o al vaseo y de barril al vaseo, dentro del establecimiento y de manera simultánea al consumo de dichos alimentos, salvo casos especiales que se harán constar en la licencia respectiva; estos establecimientos deberán reunir las características de restaurante, pero no podrán contar con pista de baile.
 
-b).- Deberá tener servicios sanitarios separados para hombres y mujeres, mingitorios de porcelana con grifo de agua y comunicado con albañal.
+XVII.- SUPERMERCADO: Lugar dedicado a dar servicio de venta de comestibles, alimentos perecederos e imperecederos y toda clase de mercancía, tales como enseres, carnes, productos lácteos, productos para el hogar, ferretería y otros y que podrán contar con licencia para la venta de bebidas con contenido alcohólico al menudeo por envase cerrado; el establecimiento deberá ser amplio, estar suficientemente iluminado y ventilado o con refrigeración o calefacción según sea el caso, que contará con góndolas, anaqueles o separaciones departamentales para expender sus productos, donde contará con lugar específico para la venta de bebidas con contenido alcohólico.
 
-c).- La música ambiental será agradable. Podrá contar con grupos de cantantes y/o musicales para el sano esparcimiento de los clientes.
+XVIII.- ABARROTES: Establecimientos para venta de abarrotes y similares que expenden complementariamente cerveza en envase cerrado al menudeo, pudiendo contar en sus inventarios con un máximo de 10 cartones o cajas de 24 unidades de 340 mililitros cada una o 7 cartones o cajas de 12 unidades de 1000 mililitros o su equivalente si se tratara de otra presentación. Se prohibe que se haga el consumo en el área del local.
 
-XVI.- FONDAS, LONCHERIAS, TAQUERIAS Y SIMILARES.- Lugar con características de Restaurante, excepto pista de baile, en donde solo se autorizará la venta y consumo de cerveza con los alimentos.
+XIX.- CASINO O CLUB SOCIAL.- Lugar dedicado a dar servicio en forma exclusiva para socios e invitados, asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquiera otra naturaleza, que podrán contar con salón de baile, servicio de cantina y cocina, que sólo funcionarán en el transcurso de los eventos con consumo y en su caso, venta de bebidas con contenido alcohólico cuando cuenten con licencia debidamente autorizada para tales efectos.
 
-XVII.- SUPERMERCADOS.- Lugar amplio, suficientemente iluminado y ventilado o con refrigeración o calefacción según sea el caso, que contará con góndolas, anaqueles o separaciones departamentales, para expender artículos alimenticios y para el hogar, así como ferreterías y otros, donde contará con lugar específico para la venta de bebidas con contenido alcohólico.
+XX.- SALON SOCIAL: Establecimiento dedicado a dar servicio al público para la celebración de eventos especiales, tales como bodas, bautizos, quinceañeras, bailes, presentaciones artísticas y que pueden contar con servicio de cocina y cantina, que sólo funcionarán en el transcurso de los eventos y exclusivamente para el consumo, sin venta, de bebidas con contenido alcohólico.
 
-De contar con la licencia para la venta de bebidas con contenido alcohólico, su venta será al menudeo y en envase cerrado.
+XXI.- SALON DE BAILE: Lugar dedicado a dar servicio al público para la celebración de bailes y eventos, tales como presentaciones artísticas y variedades en donde se expenden bebidas con contenido alcohólico, durante los eventos, pudiendo funcionar como restaurante y cantina el resto de los días.
+
+XXII.- BILLARES O BOLICHES: Establecimientos donde se practican los deportes del billar y/o boliches y se expende como servicio cerveza para su consumo inmediato dentro del establecimiento en forma moderada.
+
+XXIII.- CAFE CANTANTE: Lugar donde se expenden bebidas con contenido alcohólico para su consumo inmediato en el interior del propio establecimiento, dando servicio de presentaciones artísticas y culturales.
+
+XXIV.- HOTEL Y MOTEL: Establecimiento público donde se proporciona hospedaje, además de diversos servicios integrados para la comodidad de los huéspedes, que podrán contar con venta de bebidas con contenido alcohólico en los espacios físicos del mismo que tenga destinados a la alimentación, diversión, esparcimiento y entretenimiento de sus clientes o huéspedes, o para la celebración de eventos especiales, posibilitándolo para simultáneamente presentar en éstos música ambiental o para bailar, viva o programada, para el sano esparcimiento de sus clientes o huéspedes; siempre y cuando tengan dentro de su infraestructura general de operación, por lo menos establecimiento de restaurante y/o cantina y cuenten con licencia autorizada específica, pudiendo ofrecer el servicio de bar en las habitaciones de acuerdo a su calidad turística que en todo caso dictamine la Secretaría de Fomento al Turismo.
+
+XXV.- CENTRO RECREATIVO Y DEPORTIVO: Lugar donde se ofrece al público servicios específicos e instalaciones deportivas y que podrá contar con venta y consumo de bebidas con contenido alcohólico mediante la licencia autorizada específica.
+
+XXVI.- OTROS: En los demás lugares o establecimientos que a solicitud escrita y fundada autorice el Ejecutivo por conducto de la Secretaría de Finanzas.
+
+###### ARTICULO 13.
+
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
+###### ARTICULO 14.
+
+Para los efectos de esta Ley, se entiende por menudeo la venta de bebidas de bajo contenido alcohólico por unidades de envase cerrado de hasta mil mililitros o paquetes de 6 unidades de envase cerradas, sin llegar a excederse de 7 cajas de 12 unidades en los de contenido de mil mililitros ni de 10 cartones o cajas en el caso de los paquetes de 6 unidades o su equivalente, o bien dos barriles de hasta 60 litros cada uno.
+
+Tratándose de vinos y licores se entenderá menudeo la venta de hasta 5 litros.
+
+En los abarrotes se entiende por menudeo la venta de cerveza por unidades en envase cerrado de hasta 1000 mililitros o paquetes de 6 unidades en envase cerradas, sin llegar a excederse de 12 unidades en los de contenido de 1000 mililitros, ni de un cartón o caja en el caso de los paquetes de 6 unidades o su equivalente.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Los establecimientos que cuenten con licencia de funcionamiento para venta únicamente al menudeo de bebidas con contenido alcohólico, podrán enajenar estos productos en mayor cantidad a la señalada en este artículo cuando el adquirente acredite tener licencia autorizada en los términos de la presente Ley, para lo cual solicitarán copia de la misma, conservándola para fines de inspecciones por la Secretaría de Finanzas.
+
+La disposición a que se refiere el párrafo anterior no será aplicable tratándose de giros de abarrotes.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 15 DE JULIO DE 1996)</small>
+
+### CAPITULO III. DE LAS CARACTERISTICAS Y REQUISITOS DE LOS GIROS
+
+###### ARTICULO 15.
+
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 16.
 
-En las cervecerías y en las cantinas estará permitido jugar damas, dominó, ajedrez y cubilete, música viva y música programada, utilizando aparatos de radio, televisión, fonoeléctricos y video-caseteras, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ### CAPITULO IV. DE LAS OBLIGACIONES Y PROHIBICIONES
 
@@ -339,31 +249,39 @@ Son obligaciones de los dueños o encargados de los negocios en que se expenden 
 
 I.- No vender bebidas alcohólicas que estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos.
 
-II.- Permitir la inspección de sus negocios, local completo, licencia y demás documentos que esta Ley señala, a los inspectores de la Tesorería General del Estado.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
 
-III.- Poner en lugar visible el original de la licencia, revalidaciones de los dos últimos años y la cédula de empadronamiento fiscal que muestre el número de registro. Puede tenerse copia certificada en exhibición de dichos documentos, pero los originales deberán estar en el mismo establecimiento en caja fuerte o en custodia, pero a solicitud del Inspector del ramo, deberán serle presentados.
+II.- Permitir la inspección de sus negocios, local completo, licencia y demás documentos que esta Ley señala, a los inspectores de la Secretaría de Finanzas.
+
+(REFORMADA, B.O. 15 DE JULIO DE 1996
+
+III.- Poner en lugar visible el original o copia certificada por la Secretaría de Finanzas, de la licencia, las revalidaciones de los dos últimos años y la cédula de empadronamiento fiscal que muestre el número de registro; pero en todo caso, los originales deberán serle presentados a los inspectores del ramo, cuando éstos les requieran dichos documentos en días y horas normales de oficina.
 
 IV.- Retirar ebrios del establecimiento, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública.
 
 V.- Impedir y denunciar escándalos en los establecimientos, ocurriendo, para evitarlos, a la fuerza pública. Lo mismo hará cuando tenga conocimiento o encuentre alguna persona que use o posea dentro del local estupefacientes o cualquier otra droga enervante.
 
-VI.- Pagar las contribuciones correspondientes dentro de los plazos que fijen las leyes, bajo pena de clausura del giro. Los comprobantes de pago deberán conservarse en el local en el que se opere para que los inspectores fiscales puedan verificarlas.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VI.- Pagar las contribuciones correspondientes dentro de los plazos que fijen las leyes, y presentar los comprobantes cuando así les sea requerido por los inspectores del ramo, en días y horas normales de oficina.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 18.
 
-En los establecimientos denominados como Agencia, Sub-agencia, Depósito, Expendio, Ultramarino, Supermercado y Tienda de Abarrotes, podrá expenderse la cerveza ya sea por cartón o caja, paquete de seis unidades, botella, bote o en cualesquiera otras presentaciones, enfriada previamente en refrigerador o en hielo, quedando prohibido entregar gratuitamente hielo al comprador.
+En los establecimientos denominados como Agencia, Sub-Agencia, Depósito, Expendio, Ultramarino, Supermercado y Abarrotes, podrá expenderse la cerveza; ya sea por cartón o caja, paquete de seis unidades, botella, bote o en cualesquiera otras presentaciones, enfriada previamente en refrigerador o en hielo.
 
-En los establecimientos señalados en el párrafo anterior, la venta de cerveza los días Domingos deberá hacerse a la temperatura ambiente del lugar o negociación, sin haberla enfriado previamente, excepto tratándose de venta de cerveza en barril.
-
-En los establecimientos mencionados en este artículo, queda estrictamente prohibida la venta de bebidas con contenido alcohólico a personas menores de 18 años cumplidos.
+(REFORMADO, B.O. 15 DE JULIO DE 1996
 
 ###### ARTICULO 19.
 
-En los centros de espectáculos públicos podrán venderse bebidas con contenido alcohólico para su consumo inmediato, previo permiso correspondiente y, en estos casos, se deberán utilizar siempre envases desechables higiénicos, que no sean de cristal o metal y que una parte de las posibles ganancias económicas, en porcentaje que se determinará en cada caso de común acuerdo por las partes, se deriven a la ejecución de obras prioritarias en los municipios o comunidades donde se genere este ingreso, a través de los organismos públicos estatales creados por Ley o Decreto del Ejecutivo del Estado, que señale la Tesorería General del Estado.
+En los centros de espectáculos públicos podrán venderse bebidas con contenido alcohólico para su consumo inmediato previo permiso correspondiente y, en estos casos, se deberán utilizar siempre envases desechables higiénicos, que no sean de cristal o metal y que una parte de las posibles ganancias económicas, en porcentaje que se determinará en cada caso de común acuerdo por las partes, se deriven a la ejecución de obras prioritarias en los municipios o comunidades donde se genere este ingreso, a través de los organismos públicos estatales creados por Ley o Decreto del Ejecutivo del Estado, que señale la Secretaría de Finanzas.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 20.
 
-Los conductores de automóviles de alquiler, autobuses, camiones de pasajeros o carga o cualquier otro vehículo, deberán exigir al interesado la exhibición de la documentación oficial que ampare el tránsito de bebidas con contenido alcohólico, cuando exceda de las cantidades consideradas como menudeo en los términos de esta Ley.
+Los conductores de automóviles de alquiler, autobuses, camiones de pasajeros o carga o cualquier otro vehículo de servicio público, deberán exigir al interesado la exhibición de la documentación oficial que ampare el tránsito de bebidas con contenido alcohólico, cuando exceda de las cantidades consideradas como menudeo en los términos de esta Ley.
 
 ###### ARTICULO 21.
 
@@ -399,7 +317,9 @@ VII.- Utilizar los establecimientos para fines distintos a la actividad autoriza
 
 VIII.- Utilizar los establecimientos en que se expendan y consuman bebidas con contenido alcohólico como habitación o que estén comunicados con ellas. Dicho establecimiento no podrá ser la vía de entrada para la habitación o domicilio en donde residan una o más personas.
 
-Tratándose del giro de abarrotes se hará la excepción únicamente para que puedan estar comunicados con el resto de las habitaciones, pero con la obligación de tener todo su inventario de bebidas con contenido alcohólico que puedan vender, en el local propio del abarrrote (sic) y de ninguna manera en alguna otra habitación del domicilio.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Tratándose del giro de abarrotes, éstos tendrán la obligación de tener todo su inventario de bebidas con contenido alcohólico que puedan vender, en el local propio del abarrote y de ninguna manera en alguna otra habitación del domicilio.
 
 IX.- Instalar compartimientos o reservados que se encuentren cerrados o que impidan la libre comunicación interior del local.
 
@@ -451,19 +371,25 @@ III.- A quienes hayan sufrido condena por delitos sexuales, contra la vida o la 
 
 Las cervecerías y cantinas permanecerán abiertas al público de lunes a sábado de las 8:00 hasta las 24:00 horas y los domingos de las 8:00 a las 14:00 horas.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 33.
 
-Las Distribuidoras, las Agencias, Subagencias, Depósitos, Bodegas, Almacenes, Expendios, y Ultramarinos, podrán permanecer abiertos de lunes a sábado de las 8:00 hasta las 24:00 horas y los domingos de las 8:00 a las 14:00 horas.
+Las Distribuidoras, Agencias, Subagencias, Depósitos, Bodegas, Almacenes, Expendios, Ultramarinos y Supermercados, podrán permanecer abiertos de lunes a sábado de las 8:00 hasta las 24:00 horas y los domingos de las 8:00 a las 14:00 horas.
 
 ###### ARTICULO 34.
 
 Los Restaurantes, Fondas y Loncherías, Taquerías, Salones de Billar y demás establecimientos similares se regirán por el horario establecido para las cervecerías y cantinas en lo que se refiere a venta de bebidas con contenido alcohólico.
 
-Los establecimientos a que se refiere este artículo serán clasificados por su categoría por la Secretaría de Turismo, y cuando se trate de establecimientos de primera categoría o de los que tengan importancia turística, el horario que regirá en ellos podrá ser distinto, a juicio del Ejecutivo por conducto de la Tesorería General del Estado, la que fijará tales horarios en el texto del propio permiso.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Los establecimientos a que se refiere este artículo serán clasificados por su categoría por la Secretaría de Fomento al Turismo, y cuando se trate de establecimientos de primera categoría o de los que tengan importancia turística, el horario que regirá en ellos podrá ser distinto, a juicio del Ejecutivo por conducto de la Secretaría de Finanzas, la que fijará tales horarios en el texto del propio permiso.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 35.
 
-Los Supermercados y Abarrotes, se regirán por el siguiente horario: de lunes a sábado de las 8:00 a 21:00 horas y domingos de 8:00 a 14:00 horas.
+Los Abarrotes, se regirán por el siguiente horario: de lunes a sábado de las 8:00 a 21:00 horas y domingos de 8:00 a 14:00 horas.
 
 ###### ARTICULO 36.
 
@@ -473,25 +399,35 @@ En los Cabarets, Centros Nocturnos, Clubes Sociales, Casinos, Discotecas, Salone
 
 El horario estipulado en los artículos anteriores es para la venta y para el consumo, sin que por motivo alguno pueda excederse de lo señalado, salvo el permiso expreso de la autoridad correspondiente.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 38.
 
-Es facultad del Ejecutivo por conducto de la Tesorería General del Estado, señalar discrecionalmente, los días en que, en los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas con contenido alcohólico. En este caso, el Ejecutivo a través de la Tesorería General del Estado los dará a conocer por los medios de comunicación social que considere convenientes.
+Es facultad del Ejecutivo por conducto de la Secretaría de Finanzas señalar, discrecionalmente, los días en que, en los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas con contenido alcohólico. En este caso, el Ejecutivo a través de la Secretaría de Finanzas los dará a conocer por los medios de comunicación social que considere convenientes.
+
+Independientemente de lo anterior, se prohibe la venta y consumo de bebidas con contenido alcohólico, desde las 8:00 hasta las 13:00 horas de los días 1o de mayo, 16 de septiembre y 20 de noviembre de cada año, y durante los períodos que en cada caso se señale de los días que se determinen con arreglo a las disposiciones de las Legislaciones Electorales Federal y Estatal.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 39.
 
-El Gobernador por conducto de la Tesorería General del Estado, podrá modificar los horarios establecidos y los días de funcionamiento a través de disposiciones generales que se publicarán con la debida anticipación en la prensa, o bien, lo podrá hacer mediante disposiciones generales de tipo administrativo, cuando por razones de orden público o interés general estime necesarios o convenientes los cambios indicados.
+El Gobernador por conducto de la Secretaría de Finanzas, podrá modificar los horarios establecidos y los días de funcionamiento a través de disposiciones generales que se publicarán con la debida anticipación en la prensa, o bien, lo podrá hacer mediante disposiciones generales de tipo administrativo, cuando por razones de orden público o interés general estime necesarios o convenientes los cambios indicados.
 
-Asimismo, el Ejecutivo por conducto de la Tesorería General del Estado, podrá establecer en forma discrecional, un horario distinto que se hará constar en las propias licencias que se expidan para aquellos establecimientos en los que medien circunstancias especiales.
+Asimismo, el Ejecutivo por conducto de la Secretaría de Finanzas, podrá establecer en forma discrecional, un horario distinto que se hará constar en las propias licencias que se expidan para aquellos establecimientos en los que medien circunstancias especiales.
 
-Los Presidentes Municipales, de acuerdo con las circunstancias de cada Municipio, podrán proponer a las autoridades correspondientes, la modificación de horarios y de días de funcionamiento, los cuales, para que entren en vigor, deberán contar con el acuerdo del Ejecutivo por conducto de la Tesorería General del Estado.
+Los Presidentes Municipales, de acuerdo con las circunstancias de cada Municipio, podrán proponer a las autoridades correspondientes, la modificación de horarios y de días de funcionamiento, los cuales, para que entren en vigor, deberán contar con el acuerdo del Ejecutivo por conducto de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 40.
 
-El horario que regirá en las ciudades o poblados fronterizos, y los que el Ejecutivo por conducto de la Tesorería General del Estado considere de prioridad turística, para la distribución, venta y consumo de bebidas con contenido alcohólico, serán fijados en cada caso por el Tesorero General del Estado y deberán constar en los propios permisos.
+El horario que regirá en las ciudades o poblados fronterizos, y los que el Ejecutivo por conducto de la Secretaría de Finanzas considere de prioridad turística, para la distribución, venta y consumo de bebidas con contenido alcohólico, serán fijados en cada caso por el Secretario de Finanzas y deberán constar en los propios permisos.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 41.
 
-Las asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, recreativas o de cualquiera otra que sea lícita y de naturaleza no económica, se sujetarán a los horarios y días de funcionamiento que establece la Ley, salvo en los casos especiales que el Ejecutivo, por conducto de la Tesorería General del Estado considere conveniente.
+Las asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, recreativas o de cualquiera otra que sea lícita y de naturaleza no lucrativa, se sujetarán a los horarios y días de funcionamiento que establece la Ley, salvo en los casos especiales que el Ejecutivo, por conducto de la Secretaría de Finanzas considere conveniente.
 
 ###### ARTICULO 42.
 
@@ -501,21 +437,27 @@ Los establecimientos dedicados a dar servicio al público para celebración de e
 
 Todos los establecimientos a que se refiere esta Ley, se regirán para la venta o consumo de bebidas con contenido alcohólico, por los horarios que se señalen en la presente Ley o los que se hagan constar en las propias licencias.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 44.
 
-Sólo el Ejecutivo a través de la Tesorería General del Estado, podrá conceder horas extras a estos giros, para que funcionen fuera de las horas a que se refiere esta Ley.
+Sólo el Ejecutivo a través de la Secretaría de Finanzas, podrá conceder horas extras a estos giros, para que funcionen fuera de las horas a que se refiere esta Ley.
 
 ### CAPITULO VI. DE LA EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 45.
 
-Para la apertura y funcionamiento de los establecimientos a que se refiere esta Ley, se requerirá de licencia que expedirá el Gobernador del Estado, por conducto de la Tesorería General del Estado, pudiendo emitir la opinión, en su caso, la autoridad municipal correspondiente, en los términos y con los requisitos que señala esta Ley.
+Para la apertura y funcionamiento de los establecimientos a que se refiere esta Ley, se requerirá de licencia que expedirá el Gobernador del Estado, por conducto de la Secretaría de Finanzas, en los términos y con los requisitos que señala esta Ley.
 
 Ningún establecimiento podrá iniciar su funcionamiento sin contar con la licencia respectiva.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 46.
 
-Para los efectos de esta Ley, se entiende por licencia la autorización que otorgue el Ejecutivo, por conducto de la Tesorería General del Estado, para la operación y funcionamiento de los establecimientos que se dediquen a la fabricación, envasamientos, distribución, transportación, guarda, venta, o consumo de bebidas con contenido alcohólico en los locales que establece la Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a su juicio lo requiere el orden público, la moral o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
+Para los efectos de esta Ley, se entiende por licencia la autorización específica por cuanto al tipo de bebidas alcohólicas que otorgue el Ejecutivo, por conducto de la Secretaría de Finanzas, para la operación y funcionamiento de los establecimientos que se dediquen a la fabricación, envasamientos, distribución, transportación, guarda, venta, o consumo de bebidas con contenido alcohólico en los locales que establece la Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a su juicio lo requiere el orden público, la moral o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
 
 ###### ARTICULO 47.
 
@@ -523,31 +465,41 @@ Para obtener la licencia a que alude este capítulo, se requiere:
 
 I.- Presentar al Ejecutivo solicitud escrita en la que se proporcione, con protesta de decir verdad, los datos que establece esta Ley.
 
-II.- Ser mexicano, mayor de edad y estar en pleno goce y ejercicio de sus derechos.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+II.- Ser persona mayor de edad y estar en pleno goce y ejercicio de sus derechos, o una sociedad legalmente constituida.
 
 III.- No ser servidor público.
 
-IV.- En el caso de personas físicas, no poseer por sí, o por parientes hasta el segundo grado de consanguinidad o sociedad matrimonial, más de tres licencias para cualesquier giro, o no ser socio mayoritario o minoritario en más de cinco sociedades con licencias en los términos de esta Ley.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
 
-Tratándose de establecimientos que constituyan cadenas comerciales o de prestación de servicios que fomenten la inversión, a juicio del Tesorero General del Estado, podrá contarse con un número mayor de licencias a las señaladas en esta fracción. Esta disposición no será aplicable tratándose de cantinas, cabarets o cervecerías.
+IV.- En el caso de personas físicas, no poseer por sí, o por parientes hasta el segundo grado de consanguinidad o afinidad más de tres licencias para cualesquier giros, o no ser socio mayoritario o minoritario en más de cinco sociedades con licencias en los términos de esta Ley.
+
+Tratándose de establecimientos que constituyan cadenas comerciales o de prestación de servicios que fomenten la inversión, a juicio del Secretario de Finanzas, podrá contarse con un número mayor de licencias a las señaladas en esta fracción. Esta disposición no será aplicable tratándose de cantinas, cabarets o cervecerías.
 
 V.- No estar inhabilitado por la Ley o por sentencia de autoridad competente.
 
-VI.- Que el establecimiento donde se pretenda establecer un giro reúna los requisitos que exige esta Ley, las leyes sanitarias y las demás que regulen esta materia; en la inteligencia que deberá tener entrada y salida exclusivamente por y a la vía pública, no tener comunicaciones interiores con habitaciones, comercios o cualquier otro local ajeno al establecimiento, salvo en el caso, en relación con los dos últimos extremos, de Hoteles, Moteles y otros similares, en los que el edificio en donde se pretenda establecer el giro se destine a diversas negociaciones, así como cuando se trata de fabricantes y envasadores. El Ejecutivo, por conducto de la Tesorería General del Estado, en todo caso, decidirá lo procedente.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VI.- Que el establecimiento donde se pretenda establecer un giro reúna los requisitos que exige esta Ley, las leyes sanitarias y las demás que regulen esta materia; en la inteligencia que deberá tener entrada y salida exclusivamente por y a la vía pública, no tener comunicaciones interiores con habitaciones, comercios o cualquier otro local ajeno al establecimiento, salvo en el caso, en relación con los dos últimos extremos, de hoteles, moteles y otros similares, en los que el edificio en donde se pretenda establecer el giro se destine a diversas negociaciones, así como cuando se trata de fabricantes y envasadores. El Ejecutivo, por conducto de la Secretaría de Finanzas, en todo caso, decidirá lo procedente.
 
 ###### ARTICULO 48.
 
 A la solicitud a que se refiere el artículo anterior se acompañará:
 
-I.- Opinión por escrito de la autoridad municipal que corresponda, en su caso;
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+I.- Anuencia por escrito de la autoridad municipal que corresponda;
 
 II.- Copia autorizada de la escritura constitutiva, si se trata de personas morales;
 
 III.- Croquis donde se indique en forma clara y precisa, la ubicación del local en que se pretenda establecer el giro señalado, y la distancia a la esquina más cercana;
 
-IV.- Constancia expedida por la autoridad sanitaria del Estado de que el lugar reúne los requisitos exigidos por las leyes sanitarias y las leyes reglamentarias;
+IV.- (DEROGADA, B.O. 15 DE JULIO DE 1996)
 
-V.- Constancia que acredite que el solicitante no tiene adeudos pendientes con la Tesorería General del Estado ni con la Tesorería Municipal que corresponda;
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+V.- Constancia que acredite que el solicitante no tiene adeudos pendientes con la Secretaría de Finanzas ni con la Tesorería Municipal que corresponda;
 
 VI.- Dos cartas de recomendación que acredite su solvencia moral y económica;
 
@@ -555,29 +507,39 @@ VII.- Constancia de la inversión realizada o proyecto de inversión a realizar;
 
 VIII.- Fotografías recientes de las instalaciones.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 49.
 
-Recibida la solicitud y los anexos a que se refieren los artículos anteriores, el Ejecutivo del Estado, por conducto de la Tesorería General del Estado, si considera que no se lesiona el orden público o el interés social, dentro de los quince días naturales siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de lo que establezcan las Leyes Sanitarias.
+Recibida la solicitud y los anexos a que se refieren los artículos anteriores, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, si considera que no se lesiona el orden público o el interés social, dentro de los quince días naturales siguientes a la recepción de la solicitud, ordenará una visita de inspección al local, a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de lo que establezcan las Leyes Sanitarias.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 50.
 
-Una vez practicada la inspección, y consecuentemente comprobado que el local reúne los requisitos de Ley, el Ejecutivo del Estado, por conducto de la Tesorería General del Estado, dentro de los 90 días siguientes, resolverá discrecionalmente si es de otorgarse o no la licencia correspondiente. Si después de concluído este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado.
+Una vez practicada la inspección, y consecuentemente comprobado que el local reúne los requisitos de Ley, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, dentro de los 45 días siguientes, resolverá discrecionalmente si es de otorgarse o no la licencia correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 51.
 
-En los casos en que el solicitante no pueda cumplir con lo establecido en las fracciones VI y X del artículo 48 de esta Ley, en virtud de que en el proyecto de inversión a realizar se contempla la construcción del local correspondiente, el Ejecutivo por conducto de la Tesorería General del Estado, podrá expedir constancia, en virtud de la cual, se establecerá que la licencia correspondiente se expedirá una vez realizada la inversión programada en el plazo señalado por el propio Ejecutivo y con la condición de que el local construído reúna los requisitos exigidos por las Leyes Sanitarias y Leyes Reglamentarias, para lo cual deberá exhibir la constancia correspondiente.
+En los casos en que el solicitante no pueda cumplir con lo establecido en las fracciones VII y VIII del artículo 48 de esta Ley, en virtud de que en el proyecto de inversión a realizar se contempla la construcción del local correspondiente, el Ejecutivo por conducto de la Secretaría de Finanzas, podrá expedir constancia, en virtud de la cual, se establecerá que la licencia correspondiente se expedirá una vez realizada la inversión programada en el plazo señalado por el propio Ejecutivo y con la condición de que el local construido reúna los requisitos exigidos por las Leyes Sanitarias y Leyes Reglamentarias, para lo cual deberá exhibir la constancia correspondiente.
 
 Recibida ésta, se procederá en los términos del artículo 50 de esta Ley.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 52.
 
-En los casos de solicitud de licencia para los establecimientos a que se alude en el artículo 12 de esta Ley, el Ejecutivo, por conducto de la Tesorería General del Estado, en forma discrecional, podrá dispensar algún o algunos de los requisitos a que se refieren los artículos anteriores.
+En los casos de solicitud de licencia para los establecimientos a que se alude en el artículo 12 de esta ley, el Ejecutivo, por conducto de la Secretaría de Finanzas, en forma discrecional, podrá dispensar algún o algunos de los requisitos a que se refieren los artículos anteriores, exceptuando la anuencia del Municipio.
 
 ###### ARTICULO 53.
 
 Los porteadores de bebidas con contenido alcohólico, al ejercitar dicha actividad, para lo cual requerirán la autorización oficial respectiva, quedan obligados a:
 
-I.- A presentar por triplicado una solicitud de permiso a la Tesorería General del Estado, previamente a la iniciación de actividades.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+I.- A presentar por triplicado una solicitud de permiso a la Secretaría de Finanzas, previamente a la iniciación de actividades.
 
 II.- La solicitud deberá contener los siguientes datos:
 
@@ -597,7 +559,9 @@ Las guías podrán ser tramitadas dentro de las 72 horas que antecedan a su util
 
 Tratándose de la transportación de bebidas con contenido alcohólico a zonas de venta o consumo restringido o prohibido, deberá consignarse además en la guía correspondiente, el nombre y domicilio del destinatario, fecha y hora en que se efectuará el traslado y los porteadores con licencia autorizada, solo podrán contar con guía si el remitente y en su caso el destinatario cuentan con licencia de giro respectivo.
 
-En los casos señalados en el párrafo anterior, a solicitud del interesado tratándose de porteadores de cerveza podrán extenderse además guías por ruta con los requisitos siguientes:
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+En los casos señalados en el párrafo anterior, a solicitud del interesado tratándose de porteadores de bebidas con contenido alcohólico podrán extenderse además guías por ruta con los requisitos siguientes:
 
 a).- En documento por triplicado la porteadora señalará los nombres y domicilios de los posibles destinatarios.
 
@@ -615,33 +579,47 @@ c).- Recabar de cada uno de los destinatarios a quienes les entregará producto,
 
 5.- Toda esta información deberá entregarse a la oficina exactora que expidió la guía, dentro de las 72 horas siguientes a su utilización.
 
-d).- Las guías por ruta se podrán conceder para su empleo por un tiempo que no exceda de 72 horas, a partir de la hora señalada para su salida.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
-IV.- Tratándose del traslado de cerveza de una población a otra, en vehículos propiedad de las empresas fabricantes de la misma, que cuenten con licencia autorizada para su venta en los términos de esta Ley, y que cuenten además con permiso de porteador, el tránsito del producto se amparará con las notas de remisión de la empresa si se trata de mercancía para depósito o consignación, o bien con la factura cuando su venta sea en firme.
+d).- Las guías por ruta se concederán para su empleo por 72 horas, a partir de la hora señalada para su salida.
 
-En estos casos, las empresas fabricantes de cerveza deberán conservar a disposición de la Tesorería General del Estado, copias de las notas de remisión o facturas a que se refieren los párrafos anteriores para su verificación.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+IV.- Tratándose del traslado de bebidas con contenido alcohólico de una población a otra, en vehículos propiedad de la empresa fabricantes de la misma, que cuenten con licencia autorizada para su venta en los términos de esta Ley, y que cuenten además con permiso de porteador, el tránsito del producto se amparará con las notas de remisión de la empresa si se trata de mercancía para depósito o consignación, o bien con la factura cuando su venta sea en firme.
+
+En estos casos, las empresas fabricantes de bebidas con contenido alcohólico deberán conservar a disposición de la Secretaría de Finanzas, copias de las notas de remisión o facturas a que se refieren los párrafos anteriores para su verificación.
 
 V.- Tratándose de vehículos propiedad de las empresas fabricantes de bebidas con contenido alcohólico, que transporten sus productos con origen o destino dentro o fuera del Estado, ampararán el tránsito del producto con las guías registradas, las notas de remisión, notas de porte o flete que expidan las mencionadas empresas.
 
-VI.- Toda persona mayor de edad tendrá derecho a transportar sin guía y con fines particulares dentro o fuera del área urbana, poblado o comunidad, hasta diez cartones de 24 unidades de cerveza cada uno, o siete de 12 unidades de hasta mil mililitros cada uno, o dos barriles con capacidad de sesenta litros, o su equivalente.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
+VI.- Toda persona mayor de edad tendrá derecho a transportar por vehículo, sin guía y con fines particulares dentro o fuera del área urbana, poblado o comunidad, hasta diez cartones de 24 unidades de bebidas de bajo contenido alcohólico cada uno, o siete de 12 unidades de hasta mil mililitros cada uno, o dos barriles con capacidad de sesenta litros, o su equivalente.
 
 También podrá transportar hasta cinco litros de vinos y licores.
 
 VII.- Dentro del área urbana, poblado o comunidad, solo podrán transportar bebidas con contenido alcohólico en mayor cantidad a lo indicado en la fracción VI de este mismo Artículo, los porteadores que tengan el permiso autorizado correspondiente, pero no requerirán de guía.
 
+> <small>(ADICIONADA, B.O. 15 DE JULIO DE 1996)</small>
+
+VIII.- Los establecimientos en cuyas licencias se encuentren autorizados para la venta y consumo de bebidas con contenido alcohólico, dentro del propio establecimiento, podrán solicitar a la Secretaría de Finanzas, autorización específica para transportar exclusivamente a sus negocios las bebidas alcohólicas que adquieran para su venta.
+
 ###### ARTICULO 54.
 
 Las licencias de funcionamiento, conforme a esta Ley, serán personales e intransferibles, no podrán ser objeto de comercio, ni arrendarse, darse en comodato, venderse o gravarse por cualquier concepto. La transgresión a lo anterior, tendrá como consecuencia la nulidad de la operación y dará lugar por oficio a la cancelación de la licencia y la clausura del establecimiento que esté operando al amparo de la misma.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 55.
 
-Se exceptúan de lo dispuesto en el artículo anterior, los casos de fallecimiento del titular de la licencia, en los cuales se expedirá a favor del o de los herederos que reúnan los requisitos previstos en esta Ley, debiéndose elaborar la solicitud correspondiente para que el Ejecutivo del Estado, por conducto de la Tesorería General del Estado, autorice el cambio de titular, y en tanto, el establecimiento continuará funcionando.
+Se exceptúan de lo dispuesto en el artículo anterior, los casos de fallecimiento del titular de la licencia, en los cuales se expedirá a favor del o de los herederos que reúnan los requisitos previstos en esta Ley, debiéndose elaborar la solicitud correspondiente para que el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, autorice el cambio de titular, y en tanto, el establecimiento continuará funcionando.
 
 En el caso de que hubiere oposición entre los herederos legítimos o testamentarios, deberá tomarse en cuenta lo que decida la autoridad judicial conforme al derecho civil; en la inteligencia de que, deberá preferirse al heredero que reúna los requisitos que establece esta Ley, para la expedición de la licencia al nuevo titular.
 
+> <small>(REFORMADA PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 56.
 
-La Tesorería General del Estado y la Tesorería Municipal que corresponda al lugar del establecimiento del giro, llevarán para efectos de control, un registro de los establecimientos que vendan cerveza, vinos y licores, en el que se anotará:
+La Secretaría de Finanzas y la Tesorería Municipal que corresponda al lugar del establecimiento del giro, llevarán para efectos de control, un registro de los establecimientos que vendan bebidas con contenido alcohólico, en el que se anotará:
 
 I.- El nombre y domicilio del permisionario;
 
@@ -655,19 +633,15 @@ V.- Las sanciones que se le hubieren impuesto indicando fecha, concepto y monto.
 
 ###### ARTICULO 57.
 
-Dentro del plazo de 10 días de iniciación de operaciones, los establecimientos dedicados a la venta y consumo de bebidas con contenido alcohólico, así como los porteadores, deberán otorgar una garantía a favor de la Tesorería General del Estado mediante un certificado de depósito expedido por las oficinas recaudadoras del Estado, para responder de los créditos fiscales y sanciones que puedan resultar a su cargo.
-
-Los montos de las garantías que deberán otorgar los establecimientos según su clasificación, serán los siguientes:
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 58.
 
-El monto de la garantía se actualizará en el mes de enero de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
-
-El factor aplicable será el que resulte de dividir el índice nacional de precios al consumidor del mes de noviembre del año inmediato anterior, entre el del mes de diciembre del segundo año anterior al de la actualización.
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 59.
 
-La Tesorería General del Estado aplicará el importe de las garantías para el pago de los créditos fiscales que garanticen, cuando no sea liquidada dentro de los 30 días siguientes a su notificación, o no demuestre haber interpuesto los medios de defensa correspondientes. En el supuesto de que se haga efectiva la garantía, el permisionario deberá otorgar una nueva por el total o la diferencia que resulte de su aplicación, según sea el caso.
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 60.
 
@@ -677,25 +651,25 @@ Durante el mes de enero de cada año, los permisionarios o representantes legale
 
 Para obtener la revalidación a que se refiere el artículo anterior se requiere:
 
-I.- Presentar por escrito la solicitud.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
 
-II.- Que el local del establecimiento continúe reuniendo los requisitos exigidos por esta Ley.
+I.- Presentar por escrito la solicitud, manifestando bajo protesta de decir verdad que el local del establecimiento continúa reuniendo los requisitos exigidos por esta Ley y que está al corriente de sus obligaciones fiscales con el Estado.
 
-III.- Que el titular del permiso se encuentre al corriente en el pago de sus obligaciones fiscales, estatales o municipales.
+II.- (DEROGADA, B.O. 15 DE JULIO DE 1996)
 
-IV.- Presentar constancia expedida por la oficina recaudadora correspondiente de que depositó el importe correspondiente de la fianza o la diferencia resultante de su actualización, según sea el caso.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+III.- Exhibir el comprobante de pago del derecho respectivo.
+
+IV.- (DEROGADA, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 62.
 
-Se considerará vigente la anuencia sanitaria estatal en tanto la autoridad correspondiente no la haya fundadamente revocado.
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 63.
 
-La expedición, vigencia o revalidación de las licencias estará condicionada a que el titular de las mismas no promocione en el interior o exterior del establecimiento mediante anuncios, letreros, mantas, cartulinas o cualquier otra forma publicitaria, la venta de bebidas con contenido alcohólico que inciten a su consumo.
-
-En los casos de publicidad de dichos productos en los lugares antes señalados, distinta a la mencionada en el párrafo anterior, se deberá incluir invariablemente la leyenda que para estos casos señalen las leyes y reglamentos en materia de salud.
-
-Se exceptúan los casos de establecimientos que cuenten con licencia para la venta de bebidas con contenido alcohólico, al copeo o en envase abierto y para el consumo inmediato en el interior del propio establecimiento, quedando prohibido utilizar medios de promoción que se reflejen hacia el exterior de los mismos.
+(DEROGADO, B.O. 15 DE JULIO DE 1996)
 
 ###### ARTICULO 64.
 
@@ -707,41 +681,57 @@ En tanto se autorice la revalidación de la licencia el establecimiento podrá s
 
 Tratándose de cambio de giro o de reposición de la documentación que ampare la licencia en caso de extravío, el reglamento establecerá el procedimiento y requisitos correspondientes.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 66.
 
-El Ejecutivo del Estado por conducto del Tesorero General del Estado y con la opinión de la Presidencia Municipal correspondiente, en su caso, con el único propósito de que una parte de los posibles beneficios económicos que se obtuvieren, lo destine a un organismo de servicio social previamente especificado, podrá autorizar la venta y consumo de bebidas con contenido alcohólico en ferias, exposiciones, fiestas regionales, eventos deportivos u otros, en los lugares que tradicionalmente y de acuerdo con su idiosincrasia, lleven a cabo los habitantes de los municipios del Estado, tomando en cuenta el día o los días de los festejos acostumbrados.
+El Ejecutivo del Estado por conducto del Secretario de Finanzas, con el único propósito de que una parte de los posibles beneficios económicos que se obtuvieren, lo destine a un organismo de servicio social previamente especificado, podrá autorizar la venta y consumo de bebidas con contenido alcohólico en ferias, exposiciones, fiestas regionales, eventos deportivos u otros, en los lugares que tradicionalmente y de acuerdo con su idiosincrasia, lleven a cabo los habitantes de los municipios del Estado, tomando en cuenta el día o los días de los festejos acostumbrados.
 
 ###### ARTICULO 67.
 
 Los productores o comerciantes de bebidas con contenido alcohólico para guardar sus productos en lugar distinto al del domicilio señalado en su licencia, deberán obtener el permiso para bodega, en los términos de esta Ley, en el entendido de que por ningún motivo deberán efectuarse ventas o consumo directamente en dichos establecimientos.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 68.
 
-El Ejecutivo por conducto de la Tesorería General del Estado, previa opinión de las autoridades municipales, en su caso, o a solicitud de las mismas, podrá autorizar la venta o consumo de bebidas con contenido alcohólico en los demás lugares o establecimientos que se considere conveniente, quedando esta autorización sujeta a condiciones específicas que en cada caso en particular se determinen y en la cual parte o la totalidad del producto de las ventas que se obtengan, se destinarán a la ejecución de obras prioritarias en los municipios o comunidades donde se genere este ingreso, a través de los organismos públicos de beneficio social creados por Ley o acuerdo del propio Ejecutivo y que en cada caso se señale por la Tesorería General del Estado.
+El Ejecutivo por conducto de la Secretaría de Finanzas, previa anuencia de las autoridades municipales, o a solicitud de las mismas, podrá autorizar la venta y/o consumo de bebidas con contenido alcohólico en los demás lugares o establecimientos que se considere conveniente, quedando esta autorización sujeta a condiciones específicas que en cada caso en particular se determinen en la cual parte o la totalidad del producto de las ventas que se obtengan, se destinarán a la ejecución de obras prioritarias en los municipios o comunidades donde se genere este ingreso, a través de los organismos públicos que determine la Secretaría de Finanzas.
 
 ### CAPITULO VII. DEL CAMBIO DE DOMICILIO DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 69.
 
-El Ejecutivo por conducto de la Tesorería General del Estado discrecionalmente, podrá autorizar el cambio de domicilio a los titulares de licencias a que se refiere esta Ley, cuando se reúnan los siguientes requisitos:
+El Ejecutivo por conducto de la Secretaría de Finanzas discrecionalmente, podrá autorizar el cambio de domicilio a los titulares de licencias a que se refiere esta Ley, cuando se reúnan los siguientes requisitos:
 
-I.- Que el interesado presente solicitud por escrito a la Tesorería General del Estado, cuando menos con 30 días de anticipación a la fecha en que se pretenda realizar el cambio de domicilio.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+I.- Que el interesado presente solicitud por escrito a la Secretaría de Finanzas, cuando menos con 30 días de anticipación a la fecha en que se pretenda realizar el cambio de domicilio.
 
 II.- Que el nuevo local donde se pretenda establecer el giro, reúna los requisitos establecidos en el artículo 47 fracción VI.
 
 III.- Que no exista ningún inconveniente en la zona de la ciudad donde se pretenda realizar el cambio.
 
+> <small>(ADICIONADA, B.O. 15 DE JULIO DE 1996)</small>
+
+IV.- Anuencia por escrito de la autoridad municipal.
+
 ###### ARTICULO 70.
 
 A la solicitud mencionada en el artículo anterior, se acompañarán los documentos mencionados en el artículo 48 fracciones I, V, VI, VII, IX y X de esta Ley.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 71.
 
-El Ejecutivo por conducto de la Tesorería General del Estado, autorizará el cambio si se le comprueba que el solicitante ha cumplido con lo establecido por esta Ley.
+El Ejecutivo por conducto de la Secretaría de Finanzas, autorizará el cambio si se le comprueba que el solicitante ha cumplido con lo establecido por esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 72.
 
-El Ejecutivo por conducto de la Tesorería General del Estado, podrá disponer el cambio de domicilio a los titulares de licencia cuando así lo requiera el orden público y el interés general. Para este efecto se procederá como sigue:
+El Ejecutivo por conducto de la Secretaría de Finanzas, podrá disponer el cambio de domicilio a los titulares de licencia cuando así lo requiera el orden público y el interés general. Para este efecto se procederá como sigue:
 
 I.- Se le notificará al interesado con 30 días de anticipación.
 
@@ -755,19 +745,25 @@ IV.- Durante los 75 días sumados a que se refieren las fracciones I y III de es
 
 ### CAPITULO VIII. DE LAS VISITAS DE INSPECCION Y VIGILANCIA
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 73.
 
-La Tesorería General del Estado podrá ordenar y practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la presente Ley, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los Presidentes Municipales coadyuvarán en el cumplimiento de dicha función, por conducto de los funcionarios que los mismos designen.
+La Secretaría de Finanzas podrá ordenar y practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la presente Ley, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los Presidentes Municipales coadyuvarán en el cumplimiento de dicha función, por conducto de los funcionarios que los mismos designen.
 
-La policía judicial del Estado y las policías municipales estarán obligadas a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta por escrito, la cual remitirán a la Tesorería General del Estado.
+La Policía Judicial del Estado y las policías municipales estarán obligadas a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta por escrito, la cual remitirán a la Secretaría de Finanzas.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 74.
 
-La vigilancia para el cumplimiento de las disposiciones a que esta Ley se refiere estará a cargo de los inspectores que designe la Tesorería General del Estado, quienes para verificar las infracciones se auxiliarán de la Policía Judicial del Estado o Policía Municipal en su caso.
+La vigilancia para el cumplimiento de las disposiciones a que esta Ley se refiere estará a cargo de los inspectores que designe la Secretaría de Finanzas, quienes para verificar las infracciones se auxiliarán de la Policía Judicial del Estado o Policía Municipal en su caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 75.
 
-Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos a que esta Ley se refiere, debiendo previamente identificarse ante la persona con quien se entienda la diligencia, con credencial, expedida por la Tesorería General del Estado.
+Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos a que esta Ley se refiere, debiendo previamente identificarse ante la persona con quien se entienda la diligencia, con credencial, expedida por la Secretaría de Finanzas.
 
 Los permisionarios o encargados de los establecimientos objeto de la inspección, estarán obligados a permitir el acceso a los mismos, a dar facilidades e informes a los inspectores, para el desarrollo de su labor.
 
@@ -775,13 +771,17 @@ Los permisionarios o encargados de los establecimientos objeto de la inspección
 
 La visita de inspección a que se refiere el artículo anterior, se practicará con el titular de la licencia o su representante legal, o en su caso, con quien se encuentre al frente del establecimiento, exigiéndose la presentación de la documentación que a continuación se señala:
 
-I.- Original de la licencia.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+I.- Original de la licencia o copia certificada por la Secretaría de Finanzas.
 
 II.- Identificación de la persona con quien se entiende la visita.
 
 III.- Tratándose de representantes legales, documento notarial con el que se acredite la personalidad.
 
-IV.- Comprobante de revalidación anual de las licencias. En general todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones a que esta Ley se refiere, así como los que se señalan en la licencia respectiva.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+IV.- Comprobante original o copia certificada por la Secretaría de Finanzas, de la revalidación anual de las licencias. En general todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones a que esta Ley se refiere, así como los que se señalan en la licencia respectiva.
 
 ###### ARTICULO 77.
 
@@ -805,15 +805,19 @@ La negativa a firmar el acta por parte del visitado o recibir copia de la misma 
 
 Del acta que se levante se dejará una copia al visitado.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 78.
 
-Los inspectores para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por la Tesorería General del Estado, por conducto de la Dirección de Alcoholes en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los inspectores para practicar visitas, deberán estar provistos de órdenes escritas, expedidas por la Secretaría de Finanzas, por conducto de la Dirección General de Alcoholes en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
 Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de giros, o señalar al inspector la zona en la que vigilará el cumplimiento por todos los obligados, de las disposiciones de la presente Ley.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 79.
 
-La Tesorería General del Estado podrá ordenar y practicar en los términos de los artículos anteriores, inspecciones a los vehículos que transporten bebidas con contenido alcohólico dentro del territorio del Estado, para verificar el cumplimiento de las disposiciones que señala esta Ley.
+La Secretaría de Finanzas podrá ordenar y practicar en los términos de los artículos anteriores, inspecciones a los vehículos que transporten bebidas con contenido alcohólico dentro del territorio del Estado, para verificar el cumplimiento de las disposiciones que señala esta Ley.
 
 ### CAPITULO IX. DE LAS CAUSALES DE CANCELACION DE LAS LICENCIAS
 
@@ -821,7 +825,9 @@ La Tesorería General del Estado podrá ordenar y practicar en los términos de 
 
 Procederá la cancelación de las licencias correspondientes mediante procedimiento administrativo, además de las causas señaladas en forma especial en esta Ley, las siguientes:
 
-I.- Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto de la Tesorería General del Estado.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+I.- Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del permisionario o encargado o bien cuando medien motivos de interés general, a juicio discrecional del Ejecutivo por conducto de la Secretaría de Finanzas.
 
 II.- Cuando se compruebe la inactividad del establecimiento o bien no exista o se desconozca el domicilio del permisionario, en estos casos procederá la cancelación de oficio de la licencia correspondiente mediante resolución administrativa que al efecto se emita.
 
@@ -837,25 +843,33 @@ VII.- En los casos de reincidencia a las infracciones a que se refiere el Capít
 
 VIII.- En los casos de que el permisionario haya cambiado de domicilio sin antes haber recabado de las autoridades correspondientes, el permiso respectivo, o de que esté operando con giro distinto al que indica su licencia.
 
-IX.- Por operar fuera de los horarios establecidos en la licencia de funcionamiento correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la Tesorería General del Estado.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+IX.- Por operar fuera de los horarios establecidos en la licencia de funcionamiento correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el permisionario regularice su situación, a reserva de que su licencia le pueda ser cancelada si existe reincidencia o motivos graves a juicio del Ejecutivo por conducto de la Secretaría de Finanzas.
 
 ### CAPITULO X. DEL PROCEDIMIENTO ADMINISTRATIVO DE CANCELACION DE LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 81.
 
-El Ejecutivo por conducto de la Tesorería General del Estado puede iniciar de oficio o a petición de la autoridad que intervenga en la vigilancia de esta Ley, el procedimiento de cancelación de la licencia y una vez tomado el acuerdo en tal sentido, notificará por escrito al permisionario la anterior decisión y las causas que la fundan y motivan, concediéndole un plazo de diez días para que exponga lo que a sus intereses convenga y ofrezca las pruebas que estime pertinentes, las que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de treinta días.
+El Ejecutivo por conducto de la Secretaría de Finanzas puede iniciar de oficio o a petición de la autoridad que intervenga en la vigilancia de esta Ley, el procedimiento de cancelación de la licencia y una vez tomado el acuerdo en tal sentido, notificará por escrito al permisionario la anterior decisión y las causas que la fundan y motivan, concediéndole un plazo de diez días para que exponga lo que a sus intereses convenga y ofrezca las pruebas que estime pertinentes, las que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de treinta días.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 82.
 
-Transcurridos los términos a que se refiere el artículo anterior, el Ejecutivo por conducto de la Tesorería General del Estado, dentro del término de 15 días, dictará la resolución que corresponda, la que notificará de inmediato al permisionario, con la consecuencia de que, si se declara la cancelación de la licencia, de inmediato se procederá a la clausura del establecimiento, o a la suspensión de la venta o consumo de bebidas con contenido alcohólico, según sea el caso.
+Transcurridos los términos a que se refiere el artículo anterior, el Ejecutivo por conducto de la Secretaría de Finanzas, dentro del término de 15 días, dictará la resolución que corresponda, la que notificará de inmediato al permisionario, con la consecuencia de que, si se declara la cancelación de la licencia, de inmediato se procederá a la clausura del establecimiento, o a la suspensión de la venta o consumo de bebidas con contenido alcohólico, según sea el caso.
 
 ###### ARTICULO 83.
 
 Contra la resolución que cancele una licencia, no procederá recurso administrativo alguno.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 84.
 
-El Ejecutivo por conducto de la Tesorería General del Estado al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos fácticos y legales que apoyen su decisión.
+El Ejecutivo por conducto de la Secretaría de Finanzas al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos fácticos y legales que apoyen su decisión.
 
 ### CAPITULO XI. DE LA CLAUSURA
 
@@ -881,7 +895,9 @@ Lo anterior, independientemente de la aplicación de las sanciones que correspon
 
 La clausura deberá sujetarse a lo siguiente:
 
-I.- Solamente podrá realizarse por orden escrita debidamente fundada y motivada expedida por la Tesorería General del Estado, salvo lo previsto por el siguiente artículo.
+> <small>(REFORMADA, B.O. 15 DE JULIO DE 1996)</small>
+
+I.- Solamente podrá realizarse por orden escrita debidamente fundada y motivada expedida por la Secretaría de Finanzas, salvo lo previsto por el siguiente artículo.
 
 II.- Si la clausura afecta a un local, que además se dedique a otros fines comerciales o industriales, se ejecutará en tal forma que se suspenda únicamente el funcionamiento de venta o consumo de bebidas con contenido alcohólico.
 
@@ -893,17 +909,23 @@ La clausura podrá derivarse de la visita de inspección que practique la autori
 
 El inspector o persona autorizada, que descubran un establecimiento que funciona en forma diversa a lo autorizado en la licencia que se le haya otorgado en los términos de esta Ley, levantará acta para consignar el hecho y procederá a secuestrar provisionalmente las bebidas alcohólicas que se encuentren en ese establecimiento, así como a la clausura del mismo. La clausura sólo se levantará una vez que se hubiere otorgado la licencia respectiva, así como, cuando se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales en su caso.
 
-Igualmente, la Tesorería General del Estado podrá practicar clausuras de tipo preventivo en los casos a que se refieren las fracciones I y III del artículo 80 de la presente Ley, conforme a las reglas señaladas en el párrafo anterior. La clausura se levantará una vez que se compruebe que el establecimiento no se encuentra en los supuestos de infracción señaladas, así como se compruebe que se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales del giro, en su caso, sin perjuicio de la procedencia de cancelación de la licencia.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Igualmente, la Secretaría de Finanzas podrá practicar clausuras de tipo preventivo en los casos a que se refieren las fracciones I y III del artículo 80 de la presente Ley, conforme a las reglas señaladas en el párrafo anterior. La clausura se levantará una vez que se compruebe que el establecimiento no se encuentra en los supuestos de infracción señaladas, así como se compruebe que se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales del giro, en su caso, sin perjuicio de la procedencia de cancelación de la licencia.
 
 ###### ARTICULO 90.
 
 Las bebidas alcohólicas que sean recogidas y secuestradas en los términos de esta Ley, deberán ser recuperadas por su propietario en un término de treinta días hábiles, a partir de la fecha en que se hayan cubierto los requisitos que establece el presente ordenamiento.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 91.
 
-Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, la Tesorería General del Estado procederá, levantando un acta, a destruir los envases abiertos y cerrados que contengan bebidas alcohólicas adulteradas. Los envases cerrados que contengan bebidas legalmente registrados, serán rematados en los términos del Código Fiscal del Estado.
+Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, la Secretaría de Finanzas procederá, levantando un acta, a destruir los envases abiertos y cerrados que contengan bebidas alcohólicas adulteradas. Los envases cerrados que contengan bebidas legalmente registrados, serán rematados en los términos del Código Fiscal del Estado.
 
-### CAPITULO XII. DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACION, B.O. 15 DE JULIO DE 1996)</small>
+
+### CAPITULO XII. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 92.
 
@@ -923,7 +945,9 @@ Tratándose de las infracciones señaladas en los incisos a), b) y c) anteriores
 
 d).- Cuando se impida o dificulte a las autoridades correspondientes, la inspección de los establecimientos completos o vehículos a que se refiere esta Ley.
 
-e).- A los que no cumplan, no den el aviso o no hagan la solicitud de auxilio a que se refieren las fracciones IV y V del artículo 17 de esta Ley, siendo causa de cancelación de la licencia de funcionamiento, la reincidencia o repetición de escándalos graves, quedando la calificación a juicio de la Tesorería General del Estado.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+e).- A los que no cumplan, no den el aviso o no hagan la solicitud de auxilio a que se refieren las fracciones IV y V del artículo 17 de esta Ley, siendo causa de cancelación de la licencia de funcionamiento, la reincidencia o repetición de escándalos graves, quedando la calificación a juicio de la Secretaría de Finanzas.
 
 f).- A quienes vendan o consuman bebidas alcohólicas en los sitios mencionados en el artículo 26 de la presente Ley, así como los que transporten o consuman dichas bebidas en vehículos en circulación o estacionados en las vías públicas, en contravención a lo dispuesto en el precepto mencionado. En este último supuesto, además de la aplicación de las sanciones a que se refiere esta fracción y de las que se señalan en el citado artículo 26, se impedirá por conducto de las autoridades de tránsito municipales que el vehículo continúe circulando, remitiéndolo al Departamento de Tránsito correspondiente.
 
@@ -933,7 +957,9 @@ h).- Por la venta de bebidas alcohólicas en envase abierto y para su consumo en
 
 i).- Por la venta de bebidas alcohólicas en envase abierto y para su consumo inmediato en almacenes, licorerías, depósitos, supermercados, ultramarinos, abarrotes o en cualquier otro cuya venta deba hacerse en envase cerrado, así como permitir su consumo en el interior del local.
 
-j).- Por poseer los abarrotes un inventario superior, en contravención a lo dispuesto en la fracción XVIII del artículo 13 de esta Ley.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+j).- Por poseer los abarrotes un inventario superior, en contravención a lo dispuesto en la fracción XVIII del Artículo 12 de esta Ley.
 
 k).- Por permitir en el interior de dichos establecimientos juegos de azar que no sean de las autorizadas en la presente Ley y apuestas en los juegos permitidos.
 
@@ -941,13 +967,17 @@ l).- Por no tener en lugar visible al público la licencia y demás documentaci�
 
 Tratándose de infracciones en los de casos de transportación a que se refiere este inciso, se aplicará el doble de la sanción establecida en la fracción I de este artículo.
 
-Independientemente de la sanción anterior, a los porteadores se les secuestrará el producto que será depositado inmediatamente en la oficina recaudadora correspondiente, en garantía de los impuestos, derechos, multas o recargos que procedan conforme a la presente Ley y leyes aplicables. Los vehículos que se utilicen para movilización del producto serán secuestrados precautoriamente y devuelto al interesado, una vez que se hayan cubierto los créditos fiscales resultantes, previa orden de la Tesorería General del Estado.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+Independientemente de la sanción anterior, a los porteadores se les secuestrará el producto que será depositado inmediatamente en la oficina recaudadora correspondiente, en garantía de los impuestos, derechos, multas o recargos que procedan conforme a la presente Ley y Leyes aplicables. Los vehículos que se utilicen para movilización del producto serán secuestrados precautoriamente y devuelto al interesado, una vez que se hayan cubierto los créditos fiscales resultantes, previa orden de la Secretaría de Finanzas.
 
 m).- A los conductores de vehículos de pasaje o alquiler que no cumplan con lo dispuesto en el artículo 20 de esta Ley.
 
 n).- A los propietarios de los establecimientos a que se refiere el artículo 12 fracciones XI, XII, XIII, XIV, XXI, XXII, y XXIII de esta Ley que no fijen avisos o letreros visibles en el exterior o interior de sus establecimientos dando a conocer la prohibición de entrada a menores de edad, sin perjuicio de lo dispuesto en la fracción II del artículo 24 del presente ordenamiento.
 
-ñ).- A los que no cumplan con los requisitos señalados en el artículo 15 de la presente Ley, sin perjuicio de lo establecido en la fracción III del artículo 80 de esta Ley.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+ñ).- A los que no cumplan con los requisitos señalados en el Artículo 12 de la presente Ley, sin perjuicio de lo establecido en la fracción III del artículo 80 de esta Ley.
 
 o).- A quienes vendan o permitan el consumo de bebidas alcohólicas sin alimentos en los establecimientos a que se refieren las fracciones XV y XVI del artículo 12 de esta Ley.
 
@@ -973,7 +1003,9 @@ d).- A los que contravengan lo dispuesto por la fracción I del Artículo 24 de 
 
 e).- Por permitir la entrada a menores de edad a los establecimientos señalados en la fracción II del artículo 24 de esta Ley.
 
-f).- A los que estando autorizados exclusivamente para la venta de cerveza, vendan o permitan el consumo de bebidas que sobrepasen los 6 grados G.L. de alcohol por volumen.
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
+f).- A los que estando autorizados exclusivamente para la venta de cierto tipo de bebidas, vendan o permitan el consumo de bebidas con contenido alcohólico distintas a las específicamente autorizadas en su licencia de funcionamiento.
 
 g).- Cuando se opere en contravención a lo dispuesto por el Artículo 18 de esta Ley.
 
@@ -987,13 +1019,23 @@ La imposición de las sanciones establecidas en el artículo anterior, son sin p
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia, se estará a lo dispuesto por el Capítulo X de esta Ley.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 95.
 
-Las sanciones que establece la presente Ley se aplicarán y harán efectivas por conducto de la Tesorería General del Estado, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
+Las sanciones que establece la presente Ley se aplicarán y harán efectivas por conducto de la Secretaría de Finanzas, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
+
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 96.
 
-La Tesorería General del Estado, dictará las medidas que estime pertinentes para el mejor cumplimiento de las disposiciones de esta Ley.
+La Secretaría de Finanzas dictará las medidas que estime pertinentes para el mejor cumplimiento de las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, B.O. 15 DE JULIO DE 1996)</small>
+
+###### ARTICULO 97.
+
+Procederán como recursos administrativos, tendientes a impugnar los actos de las autoridades mencionadas en el presente ordenamiento, todos aquellos que contemple el Código Fiscal del Estado de Sonora, salvo cuando esta Ley disponga otra cosa.
 
 ## TRANSITORIOS
 
@@ -1066,3 +1108,15 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 15 DE JULIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al días siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
