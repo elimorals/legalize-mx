@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1985-12-31"
+last_updated: "1986-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1986.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -270,9 +270,9 @@ Para acreditar el impuesto al valor agregado en la importación de bienes tangib
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)(F. DE E., D.O.F. 22 DE MAYO DE 1986)
 
-Los contribuyentes efectuarán pagos provisionales a más tardar el día 20 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento.
+Los organismos descentralizados que realicen preponderantemente actividades empresariales, las instituciones de crédito y las sociedades mercantiles efectuarán pagos provisionales a más tardar el día 10 de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas. Tratándose de los demás contribuyentes efectuarán dichos pagos a más tardar el día 15 de cada uno de los meses del ejercicio. El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes de calendario anterior a excepción de las importaciones de bienes tangibles, y a las cantidades por las que proceda el acreditamiento.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -1111,3 +1111,13 @@ D.O.F. 31 DE DICIEMBRE DE 1985.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
+
+D.O.F. 30 DE ABRIL DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de mayo de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción ll del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
