@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1999-12-07"
+last_updated: "2000-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -45,29 +45,29 @@ Ley de Hacienda Municipal del estado de Jalisco
 
 ### CAPITULO I. Disposiciones Generales
 
-###### Art. 1.
+###### Art. 1°.
 
-°. La Hacienda Pública de los Municipios del Estado de Jalisco, para cubrir los gastos de su administración, percibirá en cada Ejercicio Fiscal los ingresos derivados de los Impuestos, Contribuciones Especiales, Derechos, Productos, Aprovechamientos y Participaciones que se establezcan en las Leyes Fiscales y Convenios de Coordinación subscritos, o que se subscriban, para tales efectos.
+La Hacienda Pública de los Municipios del Estado de Jalisco, para cubrir los gastos de su administración, percibirá en cada Ejercicio Fiscal los ingresos derivados de los Impuestos, Contribuciones Especiales, Derechos, Productos, Aprovechamientos y Participaciones que se establezcan en las Leyes Fiscales y Convenios de Coordinación subscritos, o que se subscriban, para tales efectos.
 
-###### Art. 2.
+###### Art. 2°.
 
-° Para los efectos de esta Ley se denominan Contribuyentes, de Impuestos, Contribuciones Especiales, Derechos, Productos y Aprovechamientos, a las personas físicas, morales y unidades económicas, cuyas actividades coincidan con alguna de las situaciones jurídicas previstas en la misma.
+Para los efectos de esta Ley se denominan Contribuyentes, de Impuestos, Contribuciones Especiales, Derechos, Productos y Aprovechamientos, a las personas físicas, morales y unidades económicas, cuyas actividades coincidan con alguna de las situaciones jurídicas previstas en la misma.
 
-###### Art. 3.
+###### Art. 3°.
 
-° Son Impuestos, las prestaciones en dinero o en especie que fije la Ley, con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos y demás obligaciones a cargo de los Ayuntamientos.
+Son Impuestos, las prestaciones en dinero o en especie que fije la Ley, con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos y demás obligaciones a cargo de los Ayuntamientos.
 
-###### Art. 4.
+###### Art. 4°.
 
-° Son Contribuciones Especiales, las prestaciones que fije la Ley a quienes, independientemente de la utilidad general, obtienen beneficios diferenciales particulares, derivados de la ejecución de una obra o de un Servicio Público.
+Son Contribuciones Especiales, las prestaciones que fije la Ley a quienes, independientemente de la utilidad general, obtienen beneficios diferenciales particulares, derivados de la ejecución de una obra o de un Servicio Público.
 
 ###### Art. 5°.
 
 Son Derechos, las contraprestaciones establecidas en la Ley, por los servicios que presten los Municipios en sus funciones de derecho público.
 
-###### Art. 6.
+###### Art. 6°.
 
-° Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
+Son productos, los ingresos que perciben los Municipios por actividades que no correspondan a sus funciones propias de derecho público; así como por la explotación o venta de sus bienes patrimoniales, de dominio privado.
 
 ###### Art. 7°.
 
@@ -77,11 +77,19 @@ Son Aprovechamientos, los recargos, las multas y los demás ingresos de derecho 
 
 Son Participaciones, las cantidades que los Municipios del Estado de Jalisco tienen derecho a percibir, de los ingresos federales y estatales, conforme a las Leyes respectivas y a los Convenios de Coordinación que se hayan subscrito, o se subscriban, para tales efectos.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
-Art. 8° bis. Además de los ingresos que forman parte de la Hacienda Municipal, los municipios percibirán las aportaciones federales para fines específicos que a través de los diferentes fondos establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos;
+Art. 8 bis. Además de los ingresos que forman parte de la Hacienda Municipal, los municipios percibirán:
 
-Las aportaciones federales para fines específicos y sus accesorios no podrán aplicarse para cubrir erogaciones con fines distintos a los que señalan sus objetivos y no serán embargables, ni los ayuntamientos podrán, bajo ninguna circunstancia, gravarlos o afectarlos en garantía.
+I. Las aportaciones y donaciones federales para fines específicos que a través de los diferentes fondos establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos;
+
+II. Las aportaciones estatales y de organismos públicos para fines específicos que establezcan sus respectivos presupuestos de egresos y los convenios respectivos;
+
+III. Las aportaciones y donaciones que perciba el municipio de particulares destinados para fines específicos.
+
+Las aportaciones para fines específicos y sus accesorios no podrán aplicarse para cubrir erogaciones con fines distintos a los que señalan sus objetivos y no serán embargables, ni los ayuntamientos podrán, bajo ninguna circunstancia, gravarlos o afectarlos en garantía.
+
+Los recursos que se perciban por estos conceptos no forman parte de la hacienda municipal y podrán asignarse en cuentas en administración, las cuales podrán ser fiscalizadas en las cuentas públicas correspondientes.
 
 ###### Art. 9°.
 
@@ -169,11 +177,21 @@ II. El Presidente Municipal;
 
 III. El Tesorero Municipal;
 
-IV. Los Delegados y Agentes Municipales; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-V. Las demás Autoridades Municipales a quienes las Leyes confieran atribuciones en Materia Fiscal.
+IV. Los delegados y agentes municipales;
 
-Las Autoridades Fiscales del Estado podrán coordinarse con las del Municipio, para el mejor cumplimiento de esta Ley de las de Ingresos Municipales, en cuyo caso se le considerará Autoridades Fiscales Municipales y ejercerá las atribuciones de las Tesorerías Municipales que se les señalen en los Convenios o Acuerdos respectivos; por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley o en la del Tribunal de lo Contencioso Administrativo.
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+V. Los organismos descentralizados municipales o intermunicipales que operan y administran los servicios de agua potable y alcantarillado, en cuanto a las atribuciones que por delegación les confieren en esta materia los decretos que crean estos organismos, exceptuándose la facultad económica-coactiva, la cuál solo ser ejercida por los funcionarios encargados de las tesorerías municipales o por los servidores públicos que determine cada municipio;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+VI.- Las demás autoridades municipales a quienes las leyes confieran atribuciones en materia fiscal.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+Las autoridades fiscales del Estado podrán coordinarse con las del Municipio, para el mejor cumplimiento de esta ley y de las de ingresos municipales, en cuyo caso se les considerará autoridades fiscales municipales y ejercerán las atribuciones de los funcionarios encargados de las tesorerías municipales que se les señalen en los convenios o Acuerdos respectivos; por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta ley o en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
 
 ###### Art. 21.
 
@@ -383,9 +401,17 @@ g) Cuando se construya al amparo de una licencia municipal a nombre de determina
 
 X. Los representantes legales de los sujetos de gravámenes, en forma subsidiaria excepto los apoderados para pleitos y cobranzas.
 
-XI. Los comisionistas, respecto de los créditos, fiscales a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-XII. Las demás personas que señalen las Leyes.
+XI. Los comisionistas, respecto de los créditos fiscales a cargo de sus comitentes, derivados de operaciones que sean motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato;
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XII. Los peritos valuadores acreditados que al practicar avalúos omitan datos o proporcionen características falsas de los inmuebles y que den como resultado la omisión parcial o total de impuestos o derechos; y
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XIII. Las demás personas que señalen las leyes.
 
 En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales y, por lo tanto el fisco pueda exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales.
 
@@ -949,9 +975,13 @@ IX. Cuando el causante no acepte los valores o alguno de los datos proporcionado
 
 X. Si la resolución emitida por la autoridad catastral con motivo de la rectificación solicitada por el causante tampoco fuere aceptada, el contribuyente podrá presentar ante la Tesorería Municipal, un avalúo por su cuenta y costo, que comprenda las características particulares del inmueble a valor real, y que sea realizado por perito valuador acreditado en los términos de la Ley de Catastro Municipal;
 
-XI. Si el contribuyente incumple con lo establecido en las fracciones I, II, III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los reales, la Tesorería Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores aprobadas y publicadas por el Ayuntamiento en los términos de la Ley de Catastro Municipal; y
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-XII. La aprobación y publicación de las tablas de valores a que se refiere la fracción anterior, deberán ser anteriores a la fecha de publicación de la Ley de Ingresos Municipal para el ejercicio fiscal en que las mismas vayan a tener vigencia. En caso de que el cabildo no apruebe y publique las tablas de valores para ese ejercicio fiscal, regirán los valores que hubiesen sido aplicados en el ejercicio fiscal inmediato anterior.
+XI. Si el contribuyente incumple con lo establecido en las fracciones I, II, III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los valores de mercado, la Tesorería Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores unitarios aprobados por el Congreso del Estado, y publicados en los términos de la Ley de Catastro Municipal; y
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+XII. La aprobación y publicación de las tablas de valores unitarios a que se refiere la fracción anterior, deberán ser anteriores a la fecha de publicación de la Ley de Ingresos Municipal para el ejercicio fiscal en que las mismas vayan a tener vigencia. En caso de que no se publiquen tablas de valores para ese ejercicio fiscal, regirán los valores que hubieran sido aplicados en el ejercicio fiscal inmediato anterior.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -971,9 +1001,17 @@ La nueva base surtirá efectos:
 
 I. A partir del primer bimestre del ejercicio fiscal en que el valor se declaró o debió haber sido declarado por el contribuyente, conforme a las disposiciones del artículo 94 de esta Ley;
 
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
 II. A partir del siguiente bimestre a aquél en que se le notifique el nuevo avalúo, cuando éste sea efectuado de conformidad con lo dispuesto en el artículo 95 de esta Ley;
 
-III. A partir del bimestre siguiente a aquél en que se produzca el hecho, acto o contrato que le dé origen.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+III. A partir del bimestre siguiente a aquél en que se produzca el hecho, acto o contrato que le dé origen; y
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+IV. A partir del siguiente bimestre a aquel en que se encuentre cubierto el impuesto predial, en los casos de valuación masiva o motivada por permisos de construcción y manifestaciones espontáneas de los contribuyentes, si resultara incremento en el impuesto a cargo del contribuyente y estuviere al corriente de dicho pago.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1021,11 +1059,11 @@ Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectu
 
 En las leyes de ingresos de cada municipio, se establecerán estímulos fiscales, tarifas y descuentos en materia de impuesto predial, así como los sujetos, condiciones y términos para su aplicación, de conformidad con las disposiciones de la ley en materia de promoción económica y de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 ###### Art. 104.
 
-Quedan exentos del pago de este impuesto los bienes del dominio público de la Federación, del Estado y de sus municipios.
+Quedan exentos del pago de este impuesto los bienes del dominio público de la Federación, del Estado y de sus municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos de los de su objeto público.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1169,15 +1207,13 @@ Es sujeto de este impuesto la persona física o jurídica que, como resultado de
 
 En la determinación de la base del impuesto sobre transmisiones patrimoniales, se aplicarán las siguientes disposiciones:
 
-I. Para efectos del cálculo del Impuesto, se deberán considerar los valores siguientes:
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-a) El avalúo o bien el dictamen de valor, según sea el caso; y
+I. Será base del impuesto, el valor catastral actualizado con los valores unitarios vigentes en la fecha de causación, incluyendo en su caso, el valor de los accesorios y las instalaciones especiales que pertenezcan al inmueble;
 
-b) El valor de operación.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
-
-II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, podrá presentarse avalúo practicado por perito valuador acreditado ante la autoridad catastral municipal, o bien, dictamen de valor elaborado por la misma autoridad, el cual no podrá ser inferior al consignado en las tablas de valores aplicables. Tanto el avalúo como el dictamen se harán con base en valores reales;
+II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro Municipal;
 
 III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
 
@@ -1189,7 +1225,9 @@ VI. Cuando el contribuyente considere que el dictamen de valor asignado al inmue
 
 VII. Cuando la autoridad catastral considere que el avalúo presentado para su revisión es coincidente con los valores reales, y éstos sean inferiores a los valores de tablas, estará facultada para emitir un dictamen, fundado y motivado, mediante el cual apruebe el avalúo correspondiente;
 
-VIII. Tanto el avalúo practicado por perito valuadores acreditado, como el dictamen de valor, tendrán validez en tanto los valores consignados correspondan a los valores reales en las fecha de causación. Si por alguna circunstancia el avalúo o el dictamen de valor no se practicaron en el momento de causación, se estará a lo que disponga la Ley de Catastro Municipal;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+VIII. Para la actualización del valor catastral, se podrán tomar en consideración los datos y características del inmueble, que se consignen en el avalúo practicado por el perito valuador acreditado;
 
 IX. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% cincuenta por ciento del valor de la propiedad;
 
@@ -1223,9 +1261,9 @@ Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o c
 
 Quedan exentos del pago de este impuesto y en su caso de la responsabilidad solidaria:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-I. La Federación, el Estado y sus Municipios, respecto de la trasmisión o adquisición de bienes afectos al pago de este impuesto;
+I. La Federación, el Estado y sus Municipios, respecto de la adquisición de bienes que se vayan a destinar al dominio público, que sean afectos al pago de este impuesto; salvo que tales bienes se destinen para ser usados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público; y
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1247,13 +1285,17 @@ I. Avalúo o dictamen de valor en los términos del artículo 114 de esta Ley, l
 
 II. Comprobante donde se acredite que no existe adeudo por concepto de impuesto predial en la fecha en que se autoricen las escrituras, actos o contratos;
 
-III.- Si se trata de predios bajo el régimen de propiedad en condominio, deberá presentar:
+III. Si se trata de predios bajo el régimen de propiedad en condominio, deberá presentar:
 
 a) Copia de la escritura pública donde se haga constar el acto constitutivo del régimen de propiedad en condominio; con los elementos que establece el Código Civil del Estado;
 
 b) Copia del plano del condominio, conforme a las normas técnicas;
 
 c) Descripción de las unidades en condominio, donde se precisen los lotes, departamentos o locales de áreas privativas; así como las áreas e instalaciones de uso común.
+
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
+
+IV. Dictamen de opinión de uso del suelo expedido por la dependencia encargada de la planeación urbana de la municipalidad, donde existan planes de desarrollo urbano.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1359,25 +1401,35 @@ El objeto, el sujeto, los responsables solidarios, la base, el pago y demás ele
 
 Art. 131 bis. Es objeto de este impuesto:
 
-I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción, ampliación, remodelación o demolición de inmuebles.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
+
+I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción o ampliación de inmuebles.
 
 En todos los casos en que se efectúen actos comprendidos en el párrafo anterior, se considera que se ha celebrado el contrato respectivo.
 
 No se considerarán como objeto de este impuesto los casos de autoconstrucción. Se entiende que existe autoconstrucción cuando se agoten los siguientes requisitos:
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
 1. Que el propietario del terreno donde se efectúe la obra, sea quien la realice, ya sea personalmente o con el auxilio de no más de tres personas ajenas a su familia;
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
 2. Que la propiedad del terreno y de la construcción recaiga en una sola persona y que ésta acredite no poseer más propiedades, mediante certificación que al efecto expida la Dirección de Catastro; y
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
 3. Que el permiso de construcción esté expedido por las autoridades competentes, a nombre del propietario del inmueble, y que éste o su asesor acrediten su carácter de responsable de la obra.
 
 Para los efectos de la excepción anterior, la Tesorería Municipal podrá efectuar la declaratoria de no causación correspondiente, siempre que lo solicite el interesado, dentro de los treinta días siguientes de la iniciación de la obra, y compruebe encontrarse en el caso de autoconstrucción.
 
-II. Son sujetos de este impuesto el o los propietarios del inmueble, en los actos o contratos de obra.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
-III. Será base para el pago de este impuesto el costo total de las obras que tengan por objeto la construcción, reconstrucción, reparación o demolición de obras materiales, contenidos en los contratos o convenios respectivos, ya sea que se celebren a precio alzado, precio unitario, por administración o adoptándose cualquiera otra modalidad.
+II. Son sujetos de este impuesto las personas físicas o jurídicas que asuman el costo de la obra en los actos o contratos. Será responsable solidario el propietario del bien;
 
-En caso de que el presupuesto de la obra no sea exhibido por los contratantes o se aparte notoriamente de los valores corrientes, en la época en que se haya efectuado la construcción, se tomará como base el costo mayor estimado que resulte entre el contenido en el convenio o el estimado mediante avalúo, por las autoridades fiscales al terminarse la construcción.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+
+III. Será base para el pago de este impuesto, el costo total de las obras que tengan por objeto la construcción, reconstrucción y ampliación de obras materiales, calculado conforme a las tablas de valores unitarios aprobadas por el Congreso del Estado;
 
 IV. Este impuesto se liquidará y pagará de conformidad con la tarifa que al efecto señale la Ley de ingresos del Municipio.
 
@@ -1399,7 +1451,9 @@ b) Los contratos de construcción que celebren las empresas paraestatales y orga
 
 c) Los contratos de construcción o financiamiento relativos a la edificación o adquisición de viviendas de interés social, clasificadas como tipo Cajón A.
 
-d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción, ampliación, remodelación o demolición de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+
+d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
 
 Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
 
@@ -1887,17 +1941,17 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
 
 Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
 # LIBRO TERCERO. De los Ilícitos Fiscales
 
@@ -3160,3 +3214,7 @@ P.O. 7 DE AGOSTO DE 1999.
 P.O. 7 DE DICIEMBRE DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor el día primero de Enero del año 2000, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE JULIO DE 2000.
+
+Único.- Este Decreto entrará en vigor el 1 de febrero del 2001, previa publicación en el Periódico Oficial "El Estado de Jalisco".
