@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "1990-11-16"
+last_updated: "1993-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1993.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -329,9 +329,13 @@ c) Las Haciendas de San Antonio Teop, San Miguel y San Nicolás.
 
 d) Los ranchos de Kesté, Esperanza, Erika, San José, Arellano y San Miguel;
 
-III.- A la Sección Municipal de Seyba Playa, corresponde:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1993)</small>
 
-a) La Villa de Seyba Playa, Cabecera de la Sección.
+III.- A la Sección Municipal de Seybaplaya, corresponde:
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1993)</small>
+
+a) La Ciudad de Seybaplaya, Cabecera de la Sección.
 
 b) El pueblo de Xkeulil.
 
@@ -1952,3 +1956,7 @@ P.O. 16 DE NOVIEMBRE DE 1990.
 Primero.- Este decreto entrará en vigor el día uno de enero de mil novecientos noventa y uno.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 7 DE ABRIL DE 1993.
+
+El presente Decreto entrará en vigor el día veinticinco de abril de mil novecientos noventa y tres.
