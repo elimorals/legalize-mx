@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-e-informacion-publica-del-estado-de-24613"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-22"
-last_updated: "2002-01-22"
+last_updated: "2005-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO OCTAVO TRANSITORIO DE LA LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO, PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 22 de enero de 2002.
 
@@ -286,3 +288,23 @@ LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HÉCTOR PÉREZ PLAZOLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 6 DE ENERO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor a los 180 días siguientes, en que entre en vigor el Decreto de adición al artículo 4 y de reforma diversos artículos de la Constitución Política del Estado de Jalisco, relativas al derecho a la información pública, previa publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en los artículos siguientes.
+
+SEGUNDO.- Las disposiciones del presente decreto relativas a la creación y funcionamiento del Instituto de Transparencia e Información Pública de Jalisco, serán obligatorias a partir del día siguiente de publicación de la reforma constitucional a que se refiere el artículo anterior.
+
+TERCERO.- El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2005 deberá establecer la partida presupuestal asignada al Instituto de Transparencia e Información Pública de Jalisco.
+
+CUARTO.- El Congreso del Estado deberá nombrar al Presidente y a los primeros consejeros ciudadanos del Instituto de Transparencia e Información Pública a más tardar tres meses después de la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio. En el primer periodo de su encargo, por única vez, dos consejeros serán nombrados por dos años; dos consejeros por tres años y el consejero Presidente por cuatro años.
+
+QUINTO.- El Presidente y los consejeros ciudadanos, una vez nombrados por el Congreso del Estado, podrán aplicar el presupuesto asignado al Instituto y llevar a cabo todas aquellas atribuciones que permitan su integración y funcionamiento.
+
+SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán integrar las unidades de transparencia e información que ésta establece, así como emitir las disposiciones reglamentarias de la misma, para que estén integradas el día de inicio de su vigencia.
+
+SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
+
+OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
