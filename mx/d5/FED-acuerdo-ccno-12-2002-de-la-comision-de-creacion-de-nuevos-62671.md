@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-12-2002-de-la-comision-de-creacion-de-nuevos-62671
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-03-04"
-last_updated: "2002-03-04"
+last_updated: "2002-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62671&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-26"
 
 ACUERDO CCNO/12/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL DECIMOPRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 2002.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 4 de marzo de 2002.
 
@@ -49,6 +49,8 @@ En consecuencia, con fundamento en los preceptos constitucionales y legales invo
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/16/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE ABRIL DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL DECIMOPRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO, CON RESIDENCIA EN EL DISTRITO FEDERAL, POR EL LAPSO DE DOS MESES, DEL 1 AL 30 DE ABRIL 2002.</small>
+
 PRIMERO.- Se prorroga el plazo de exclusión de turno de nuevos asuntos al Decimoprimer Tribunal Colegiado en Materia de Trabajo del Primer Circuito, con residencia en el Distrito Federal, por el lapso de un mes, al establecido en el punto QUINTO del Acuerdo General 86/2001.
 
 El período de exclusión señalado comprenderá del uno al treinta y uno de marzo de dos mil dos; por ende, los nuevos asuntos que se reciban en ese lapso en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, serán del conocimiento exclusivo del Primer, Segundo, Tercer, Cuarto, Quinto, Sexto, Séptimo, Noveno, Décimo, Decimosegundo, Decimotercer, Decimocuarto y Decimoquinto Tribunales Colegiados de la materia y Circuito mencionados; con excepción de aquellos que estén relacionados con los que se encuentren en trámite en el Octavo y Decimoprimer Tribunales Colegiados de la materia y sede aludidos, en cuyo supuesto se turnarán a estos últimos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal.
@@ -64,3 +66,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/12/2002, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, Relativo a la Prórroga del Plazo de Exclusión del Turno de Nuevos Asuntos al Decimoprimer Tribunal Colegiado en Materia de Trabajo del Primer Circuito, con residencia en el Distrito Federal, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el veintiséis de febrero de dos mil dos, por los señores Consejeros: Presidente José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a veintiséis de febrero de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE ABRIL DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
