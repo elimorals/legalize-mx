@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-los-trabajadores-al-servicio-de-los-poderes-del-3362"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-20"
-last_updated: "1991-06-20"
+last_updated: "2004-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1991.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 23 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 20 de diciembre de 1976.
 
@@ -1140,3 +1142,21 @@ B.O. 20 DE JUNIO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 23 DE FEBRERO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+En lo referente a los trabajadores de las instituciones descentralizadas de índole estatal y municipal, su relación contractual será regulada por las Condiciones Generales de Trabajo establecidas entre el Sindicato, los Poderes Legislativo, Ejecutivo, Judicial y Municipios del Estado de Baja California Sur, y sus controversias laborales se ventilarán en la Junta Local de Conciliación y Arbitraje como lo establece el apartado A del artículo 123 constitucional, la Ley Federal del Trabajo, la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, el uso y la costumbre y demás preceptos constitucionales que en la materia apruebe el Honorable Congreso de la Unión. Debiendo ser representados y tutelados invariablemente por el Sindicato Único de Trabajadores al Servicio de los Poderes del Estado y Municipios del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios que se hayan iniciado con anterioridad a la vigencia de esta Ley, continuarán su trámite conforme a las disposiciones anteriores.
+
+###### ARTICULO TERCERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO CUARTO.
+
+Se abroga la Ley de los Trabajadores al Servicio del Estado y Municipios de Baja California Sur, de fecha 18 de Noviembre de 1976.
