@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2002-12-24"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -40,7 +40,7 @@ LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO Y DE REFORMAS Y ADICIONES A LAS LEY
 
 ###### ARTICULO PRIMERO.
 
-De la Ley de los Sistemas de Ahorro para el Retiro.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
 
 ### CAPITULO I. Disposiciones Preliminares
 
@@ -1718,7 +1718,13 @@ XXV. Multa de cien a dos mil días de salario a la administradora que no verifiq
 
 XXVI. Multa de cien a cinco mil días de salario a la sociedad de inversión que no registre sus operaciones en la Bolsa Mexicana de Valores, en la forma y plazos establecidos al efecto en la legislación aplicable;
 
-XXVII. Las infracciones a cualesquiera de las normas de esta ley, de las leyes de seguridad social, así como las disposiciones que de ellas emanen en relación con los sistemas de ahorro para el retiro y que no tengan sanción especialmente señalada en este artículo serán sancionadas con multa de un mil a veinte mil días de salario.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+XXVII. Multa de dos mil a veinte mil días de salario a la administradora que incumpla con las disposiciones de carácter general a que se refiere el artículo 108 Bis de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2004)</small>
+
+XXVIII. Las infracciones a cualesquiera de las normas de esta Ley, de las leyes de seguridad social, así como las disposiciones que de ellas emanen en relación con los sistemas de ahorro para el retiro y que no tengan sanción especialmente señalada en este artículo serán sancionadas con multa de un mil a veinte mil días de salario.
 
 Si las multas a que se refiere esta ley son impuestas a alguno de los participantes en los sistemas de ahorro para el retiro, la Comisión también podrá imponer una multa de cien a cinco mil días de salario a cada uno de los consejeros, directores, administradores, funcionarios, apoderados, agentes, empleados y demás personas que en razón de sus actos hayan ocasionado o intervenido para que la sociedad incurriera en la irregularidad motivo de la sanción impuesta.
 
@@ -1848,9 +1854,43 @@ Los delitos previstos en esta ley se perseguirán a petición de la Secretaría 
 
 Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, así como la reparación del daño que se hubiere causado.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-ARTICULO 108 bis.- La acción penal en los delitos previstos en esta ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, por las instituciones ofendidas reguladas por esta ley, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que la Secretaría o las instituciones, tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+ARTICULO 108 bis.- Las administradoras, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre:
+
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
+
+b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en la que intervengan algún miembro del consejo de administración, administrador, directivo, funcionario, empleado o apoderado.
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las administradoras deberán observar respecto de:
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas administradoras deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas administradoras deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las administradoras sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+Las administradoras deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Las administradoras estarán obligadas a proporcionar dicha información y documentación. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal.
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las administradoras, así como por los miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión, conforme al procedimiento previsto en el artículo 99 de la presente Ley, con la multa establecida por el artículo 100, fracción XXVII, de esta Ley.
+
+Las mencionadas multas podrán ser impuestas, tanto a las administradoras, como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados respectivos, así como a las personas físicas y morales que, en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 52 de esta Ley.
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión, las administradoras, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ### CAPITULO VIlI. Del Procedimiento de Conciliación y Arbitraje
 
@@ -2076,7 +2116,7 @@ A partir de la entrada en vigor de este Decreto, la Secretaría de Hacienda y Cr
 
 Para tal efecto, en el plazo de transición, las instituciones de seguros de vida así autorizadas, deberán realizar los seguros de pensiones, derivados de las leyes de seguridad social en un departamento especializado, debiendo cumplir con los requerimientos de solvencia correspondientes y afectar, así como registrar separadamente en libros las reservas técnicas que queden afectas a estos seguros, conforme a las disposiciones de carácter general que establezca la Comisión Nacional de Seguros y Fianzas, sin que dichas reservas puedan servir para garantizar obligaciones contraídas por pólizas emitidas en otras operaciones y en su caso, en otros ramos.
 
-Para el supuesto de que al 1o. de enero del año 2002 la institución de seguros de que se trate no hubiere procedido a su escisión como lo ordena el primer párrafo de este articulo, la Secretaría de Hacienda y Crédito Público, podrá revocar la autorización otorgada para practicar los seguros de pensiones, derivados de las leyes de seguridad social, y la propia Secretaría procederá, con la participación de la Comisión Nacional de Seguros y Fianzas, al traspaso de la cartera correspondiente a una institución de seguros, debiendo observar lo dispuesto en el procedimiento establecido en el artículo 66 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, con independencia de las sanciones que correspondan.
+Para el supuesto de que al 1o. de enero del año 2002 la institución de seguros de que se trate no hubiere procedido a su escisión como lo ordena el primer párrafo de este artículo, la Secretaría de Hacienda y Crédito Público, podrá revocar la autorización otorgada para practicar los seguros de pensiones, derivados de las leyes de seguridad social, y la propia Secretaría procederá, con la participación de la Comisión Nacional de Seguros y Fianzas, al traspaso de la cartera correspondiente a una institución de seguros, debiendo observar lo dispuesto en el procedimiento establecido en el artículo 66 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, con independencia de las sanciones que correspondan.
 
 México, D.F., a 25 de abril de 1996.- Dip. María Claudia Esqueda Llanes, Presidente.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Florencio Catalán Valdez, Secretario.- Sen. Luis Alvarez Septién, Secretario.- Rúbricas".
 
@@ -2191,3 +2231,7 @@ De dichos recursos se formará el fondo de reserva a que se refiere la fracción
 QUINTO.- Sin perjuicio de que los recursos de la cuenta concentradora se cancelen antes del día 31 de diciembre de 2002, a dichos recursos se les aplicará, en la fecha de cancelación, la tasa de interés determinada por la Secretaría de Hacienda y Crédito Público y las instituciones de crédito podrán cobrar las comisiones correspondientes como si estos recursos hubieran permanecido depositados hasta el mismo día 31 de diciembre de 2002. Asimismo, las instituciones de crédito deberán concluir los procesos pendientes que hubiesen sido solicitados por los trabajadores o los institutos de seguridad social previamente a la fecha de entrada en vigor del presente Decreto.
 
 A partir del día primero de enero de 2003 las instituciones de crédito deberán cumplir las obligaciones previstas en las fracciones II y IV del artículo Tercero Transitorio reformado en términos del artículo Segundo de este Decreto, por lo que se refiere a las cuentas individuales del Sistema de Ahorro para el Retiro previsto en la Ley del Seguro Social de 1973 sin cobro alguno.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
