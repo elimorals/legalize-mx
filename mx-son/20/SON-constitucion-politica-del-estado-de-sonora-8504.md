@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1928-04-25"
+last_updated: "1928-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE ABRIL DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE AGOSTO DE 1928.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -337,7 +337,7 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 ###### Artículo 40.
 
-Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
+Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
 ###### Artículo 41.
 
@@ -411,15 +411,23 @@ El Supremo Tribunal sólo podrá iniciar leyes en el Ramo de Justicia.
 
 Las iniciativas presentadas por el Ejecutivo o por el Supremo Tribunal pasarán desde luego a Comisión. Todas las demás deberán sujetarse a los trámites que establezca el Reglamento de Debates, trámites que sólo podran ser dispensados por el voto de las dos terceras partes de los Diputados presentes.
 
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+
 ###### Artículo 56.
 
-Aprobado por el Congreso un Proyecto de Ley o de Acuerdo, lo pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones que hacer.
+Aprobado por el Congreso un Proyecto de Ley o de Acuerdo que constituya resolución que otorgue derechos o imponga obligaciones a determinadas personas individuales o morales, con expresión de sus nombres, lo pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones que hacer.
+
+Los demás Acuerdos de la Cámara se pasarán al mismo poder para su sanción y a efecto de que se comuniquen a los interesados si no ameritan observaciones del Ejecutivo.
+
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
 
 ###### Artículo 57.
 
-Todo Proyecto de Ley o de Acuerdo no devuelto por el Ejecutivo, con observaciones, dentro de los términos de ocho o tres días, respectivamente, se tendrá por sancionado y surtirá sus efectos desde el día de su publicación, ya se haga ésta por orden del Ejecutivo o por acuerdo del Congreso o de la Diputación Permanente en su caso.
+Todo Proyecto de Ley o de Acuerdo no devuelto por el Ejecutivo, con observaciones, dentro de los términos de ocho y tres días, respectivamente, se tendrá por sancionado y surtirá sus efectos desde el día de su publicación, ya se haga ésta por orden del Ejecutivo o por acuerdo del Congreso o de la Diputación Permanente en su caso.
 
-El Congreso o la Diputación Permanente podrán ordenar la publicación de sus leyes o acuerdos si el Ejecutivo no lo hace en los ocho días siguientes al vencimiento del término para hacer observaciones, o el día en que reciba la Ley o Acuerdo confirmados por aquélla asamblea. En este caso se hará constar en el Acuerdo las circunstancias que lo motivan.
+También se tendrán por sancionados los Acuerdos que no debiendo publicarse en le Periódico Oficial, no sean devueltos por el Ejecutivo dentro del término de tres días.
+
+El Congreso o la Diputación Permanente podrán ordenar la publicación de sus Leyes o Acuerdos si el Ejecutivo no lo hace en los ocho días siguientes al vencimiento del término para hacer observaciones, o el día en que reciba la Ley o Acuerdo confirmados por aquella Asamblea. En este caso se harán constar en el Acuerdo las circunstancias que lo motiven.
 
 ###### Artículo 58.
 
@@ -495,9 +503,13 @@ XV. Para computar los votos emitidos en las elecciones de Gobernador y declarar 
 
 XVI. Para conceder licencias y aceptar la renuncia al Gobernador del Estado.
 
-XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador, en sus faltas temporales o absolutas.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
 
-XVIII. Para constituirse en Colegio Electoral y elegir a los Magistrados del Supremo Tribunal y al Procurador General de Justicia, así como a sus Suplentes, de entre los candidatos propuestos por los Ayuntamientos.
+XVII. Para constituirse en Colegio Electoral y elegir al C. que deba substituir al Gobernador en sus faltas absolutas, y en sus faltas temporales cuando éstas excedan de un mes.
+
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+
+XVIII. Para constituitse (sic) en Colegio Electoral y nombrar a los Magistrados del Supremo Tribunal de Justicia. Para nombrar al Procurador General de Justicia, de entre los Candidatos propuestos por el Ejecutivo del Estado.
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo, en caso de enfermedad plenamente justificada, y por más de dos meses sin goce de sueldo.
 
@@ -563,11 +575,15 @@ III. Vigilar por la exacta observancia de la Constitución General, la particula
 
 IV. Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo, éste no lo hubiese verificado.
 
-V. Constituirse en Colegio Electoral y nombrar en los términos de Ley, a los ciudadanos que deban sustituir a los funcionarios indicados en las fracciones I y II que anteceden, en sus faltas temporales o absolutas, mientras se reúne el Congreso.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+
+V. Constituirse en Colegio Elecioral (sic) y nombrar en los términos de Ley, a los Ciudadanos que deban sustituir a los funcionarios indicados en la fracción II que antecede, en sus faltas temporales o absolutas, mientras se reúne el Congreso.
 
 VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso.
 
-VII. Convocar al Congreso a sesiones extraordinarias para que provea en la forma correspondiente, cuando se trate de cubrir las faltas de los funcionarios a que se contraen las fracciones I y II de este Artículo; cuando igualmente se trate de delitos cometidos por los altos funcionarios del Estado, y en todos aquellos casos que a su juicio sean de gravedad y urgencia.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+
+VII. Convocar al Congreso a sesiones extraordinarias para que provea en la forma correspondiente, cuando se trate de cubrir las faltas de los funcionarios a que se contrae la fracción II de este artículo; cuando igualmente se trate de delitos cometidos por los altos funcionarios del Estado, y en todos aquellos casos que a su juicio sean de gravedad y urgencia.
 
 VIII. Dictaminar sobre todos los asuntos que queden sin resolución en los expedientes, y de los nuevos que se presenten, a fin de que sean resueltos al reunirse el Congreso.
 
@@ -651,13 +667,15 @@ El ciudadano que hubiere sido nombrado en definitiva Gobernador Provisional para
 
 El nombrado Gobernador Provisional durante la primera mitad del período, podrá ser electo por el Congreso como Interino para terminar el período, si dentro de la segunda mitad de éste, vuelve a ocurrir nueva falta absoluta.
 
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+
 ###### Artículo 74.
 
-Cuando la falta de Gobernador fuere temporal por cualquiera causa, el Congreso, si estuviere reunido, o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione mientras dure la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone el Artículo anterior.
+Cuando la falta de Gobernador fuere por más de un mes, por cualquier causa, el Congreso designará un Gobernador Interino para que funcione mientras dura la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone el artículo anterior.
 
 El nombrado Gobernador Interino en el caso de falta temporal no quedará inhabilitado para ser electo en el período inmediato, siempre que no hubiere funcionado dentro del año anterior al de la elección.
 
-El Gobernador Interino, nombrado en definitiva para terminar el período constitucional, no podrá ser electo para el período siguiente.
+El Gobernador Interino, nombrado en definitiva para terminar el período constitucional no podrá ser electo para el período siguiente.
 
 ###### Artículo 75.
 
@@ -673,11 +691,19 @@ El cargo de Gobernador no es renunciable sino por causa grave que calificará el
 
 El Gobernador, al tomar posesión de su encargo, rendirá ante el Congreso o ante la Diputación Permanente en los recesos de aquél, la protesta que previene el Artículo 157 de esta Constitución.
 
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+
 ### CAPÍTULO XVIII. DE LAS DONACIONES PARA AUXILIAR A LA POBLACIÓN
 
 ###### Artículo 78.
 
-El Gobernador no podrá ausentarse de la Capital por más de diez días, ni salir del territorio del Estado sin previo permiso del Congreso o de la Diputación Permanente, cuando aquél no esté reunido.
+El Gobernador no podrá ausentarse de la Capital del Estado por más de diez días, sin permiso del Congreso o de la Diputación Permanente, cuando aquel no estuviere reunido.
+
+El mismo funcionario podrá ausentarse del territorio del Estado hasta por diez días, dando aviso al Congreso del Estado o a la Diputación Permanente, quedando en funciones de Gobernador Interino el Secretario de Gobierno.
+
+Si la ausencia del Gobernador excede de diez días hasta un mes, necesitará permiso del Congreso del Estado o de la Diputación Permanente, de acuerdo con la fracción I del artículo 66, debiendo una vez concedido éste, asumir las funciones de Gobernador Interino el propio Secretario de Gobierno.
+
+Si la ausencia del Gobernador excede de un mes, el Congreso designará quien lo substituya.
 
 ###### Artículo 79.
 
@@ -703,7 +729,9 @@ IX. Concurrir a la apertura de las sesiones extraordinarias del Congreso cuando 
 
 X. Mandar informar ante el Congreso al Secretario de Gobierno o al Tesorero General, sobre los asuntos que se discutan para la mejor ilustración de la Cámara, cuando lo juzgue conveniente o cuando aquélla lo solicitare.
 
-XI. Nombrar y remover a los funcionarios y empleados públicos cuyo nombramiento no esté determinado por esta Constitución y demás leyes.
+> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+
+XI. Nombrar y remover a los funcionarios y empleados públicos cuyo nombramiento no esté determinado por esta Constitución y demás leyes. Remitir al Congreso terna para el nombramiento de Procurador General de Justicia, cuando vacare este puesto o cuando deba hacerse nueva designación.
 
 XII. Cuando vacare algún empleo y no estuviere previsto el modo de cubrir dicha vacante, el Gobernador tendrá la facultad de nombrar un empleado interino para que la llene sólo mientras se provee legalmente la substitución.
 
@@ -1081,9 +1109,11 @@ MUNICIPIO LIBRE.
 
 El Estado quedará dividido para su Gobierno en Municipios y Comisarías.
 
+> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+
 ###### Artículo 129.
 
-Cada Municipio será administrado por un Ayuntamiento nombrado en elección popular directa. No habrá autoridad alguna intermediaria entre el Ayuntamiento y el Ejecutivo del Estado. El número de Concejales que integren los Ayuntamientos será determinado por la Ley Orgánica relativa, debiendo en todo caso no ser menor de cinco.
+Cada Municipio será administrado por un Ayuntamiento nombrado en elección popular directa. No habrá autoridad ninguna intermediaria entre el Ayuntamiento y el Ejecutivo del Estado. El número de Concejales que integre los Ayuntamientos será determinado por la Ley Orgánica relativa, debiendo en todo caso no ser menor de tres.
 
 ###### Artículo 130.
 
@@ -1414,6 +1444,10 @@ Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Bol
 B.O. 25 DE ABRIL DE 1928.
 
 UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 4 DE AGOSTO DE 1928.
+
+UNICO. Esta Ley principiará a surtir sus efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
