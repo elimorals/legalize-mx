@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1965-05-01"
+last_updated: "1965-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 01 DE MAYO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1965.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -533,7 +533,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -593,7 +593,9 @@ XLVI. Dirimir los conflictos que se susciten entre el Ejecutivo del Estado y el 
 
 XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo.
 
-XLVIII. Dictar leyes para organizar en el territorio del Estado, el sistema penal por colonias penitenciarias sobre la base del trabajo como medio de regeneración.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1965)</small>
+
+XLVIII. Dictar leyes para organizar dentro o fuera del Estado pero dentro del territorio de la República, el sistema penal por colonias, penitenciarías sobre la base del trabajo, como medio de regeneración.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1870,3 +1872,9 @@ Artículo Segundo. Este Decreto entrará en vigor a partir de la fecha de su pub
 P.O. 1 DE MAYO DE 1965.
 
 UNICO.- El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 1965.
+
+PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su expedición.
+
+SEGUNDO.- Envíese al Ejecutivo para su sanción, publicación y debido cumplimiento.
