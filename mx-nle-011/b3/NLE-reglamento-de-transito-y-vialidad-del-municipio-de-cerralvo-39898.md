@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-cerralvo-398
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-08"
-last_updated: "1998-07-08"
+last_updated: "2004-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CERRALVO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de julio de 1998.
 
@@ -33,7 +33,7 @@ EL C. CESAR RENE QUINTANILLA OSUNA, PRESIDENTE MUNICIPAL DE CIUDAD CERRALVO, NUE
 
 El R. Ayuntamiento de Ciudad Cerralvo, Nuevo León en sesión celebrada el día 16 del mes de Junio de mil novecientos noventa y ocho y con fundamento con lo dispuesto por los artículos 115 fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; 131 fracción I de la Constitución Política del Estado de Nuevo León y 29 Fracción IV, 160, 161 y 162 de la de la Ley Orgánica de la Administración Pública Municipal aprobó el presente Reglamento de Tránsito y Vialidad de este municipio en los siguientes términos.
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CERRALVO NUEVO LEON.
+REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CERRALVO, NUEVO LEON.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1335,7 +1335,9 @@ XI.- Los gastos de grúa y pensión serán pagados por el responsable del accide
 
 ART. 110.- Cuando las partes involucradas en un accidente sin lesionados ni muertos no estén de acuerdo con la determinación de causas del accidente o por las disposiciones antes descritas o hechas por personal de la Dependencia correspondiente, podrán denunciar los hechos o presentar querella ante el Agente del Ministerio Público que corresponda dentro del plazo establecido por los códigos de la materia.
 
-La Autoridad Municipal a su criterio podrá otorgar la liberación de vehículos detenidos a su disposición por accidente, para lo cual deberá notificar por escrito a quien se considere afectado, indicándole plazo para que presente su denuncia o querella.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2004)</small>
+
+Para la entrega de un vehículo detenido será indispensable la presentación ante la Autoridad Municipal de la siguiente documentación: factura o documento con el que se acredite la propiedad del mismo; tarjeta de circulación; póliza de seguro vigente; comprobante de domicilio e identificación personal, preferentemente la credencial de elector; así como el comprobante de no adeudos por infracciones de tránsito y, en su caso, el documento expedido por el Agente del Ministerio Público y/o Autoridad Judicial en el que se autorice la liberación del vehículo.
 
 ART. 111.- El arrastre de vehículos participantes en accidente se hará por grúas cuyos propietarios tengan concesionado este servicio por el Municipio, a menos que el interesado cuente con grúa que dé el servicio inmediato, siempre y cuando tenga aviso a la Autoridad Municipal. En todos los casos los vehículos que se detengan serán depositados en los lotes oficiales.
 
@@ -1497,7 +1499,9 @@ L).- Cuando el conductor se encuentre en estado de ebriedad o bajo el influjo de
 
 V.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las fracciones II y III en éste artículo.
 
-VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general de la región, multiplicando por el número que aparece al final de cada infracción señalada en el tabulador.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2004)</small>
+
+VI.- El monto de una infracción se aplicará la cantidad de pesos que corresponda a un día de salario mínimo general en la región, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
 T A B U L A D O R
 
@@ -1505,261 +1509,275 @@ INFRACCION ARTICULO FRACCION INCISO SANCIÓN
 
 Abandonar vehículo
 
-en vía pública 120 IV I 5
+en vía pública 120 IV I 5 a 9
 
 Abastecer de gas butano
 
 en vía pública a
 
-vehículos 7 XIII 25
+vehículos 7 XIII 15 a 21
 
 Abrir zanjas o realizar trabajos
 
-sin autorización 7 VI 8
+sin autorización 7 VI 15 a 21
 
 Acelerar al ser
 
-rebasado 77 II B 25
+rebasado 77 II B 10 a 15
 
-Alterar, derribar, cubrir o cambiar
+alterar, derribar, cubrir o cambiar
 
 de posición las señales
 
 o dispositivos para el
 
-control del tránsito 7 I 6
+control del tránsito 7 I 10 a 15
 
 Anunciar con equipo de sonido
 
-sin autorización 7 XII 6
+sin autorización 7 XII 15 a 24
 
 Arrancar o frenar repentinamente
 
-sin necesidad 37 XIII 6
+sin necesidad 37 XIII 8 a12
 
 Bajar o subir pasaje en lugar
 
-prohibido 51 4
+prohibido 51 5 a 9
 
-Bajar o subir pasaje dentro
+Bajar y subir pasaje dentro del Municipio
 
-del Municipio los vehículos
+los vehículos de servicio
 
-de servicio público federal de
+público federal de
 
-pasajeros 94 6
+pasajeros 94 8 a 12
 
 Cambiar de carril en
 
-lugar prohibido 80 III 8
-
-Cambiar de carril sin
-
-precaución 80 I 4
+lugar prohibido 80 III 5 a 9
 
 Circular a baja velocidad
 
 obstaculizando
 
-circulación 38 XVII 3
+circulación 38 XVII 8 a 12
 
-Circular atrás o a los
+Circular atrás o a los lados de
 
-lados de vehículo con
+vehículo con sirena 38 XII 20 a 28
 
-sirena 38 XII 6
+Circular con calcomanía colocada
 
-Circular con calcomanía
-
-colocada en lugar
-
-indebido 15 2
+en lugar indebido 15 2 a 5
 
 Circular con dispositivos
 
-de tablero en mal estado 23 IX 2
+de tablero
 
-Circular con exceso en
+en mal estado 23 IX 3 a 5
 
-dimensiones, por cada
+Circular con exceso de
 
-cincuenta centímetros
+velocidad en dimensiones,
 
-o fracción 24 8
+por cada cincuenta centímetros
 
-Circular con exceso
+o fracción 24 5 a 9
 
-de peso por cada
+Circular con exceso de
 
-quinientos kilos. 24 20
+peso por cada quinientos
 
-Circular con limpiavidrios en mal estado
+kilos. 24 5 a 9
 
-o carecer de ellos c/u 23 X 3
+Circular con limpiavidrios
 
-Circular con luces altas en
+en mal estado
 
-zona urbana cuando haya
+o carecer de ellos c/u 23 X 3 a 5
 
-iluminación 100 4
+Circular con luces altas
+
+en zona urbana cuando haya
+
+iluminación 100 6 a 10
 
 Circular con luces prohibidas
 
-en la parte posterior 25 II 4
+en la parte posterior 25 II 10 a 15
 
-Circular con luces prohibidas en
+Circular con luces
 
-la parte delantera 25 I 6
+prohibidas en
+
+la parte delantera 25 I 5 a 9
 
 Circular con una luz indicadora
 
-de frenado 23 III 3
+de frenado 23 III 6 a 10
 
 Circular con luz interior
 
-encendida 23 2
+encendida 23 6 a 10
 
 Circular con llantas metálicas o
 
-cadenas 25 III 3
+cadenas 25 III 20 a 28
 
 Circular con mofle o
 
 sistema de escape
 
-ruidoso o defectuoso 23 XII 6
+ruidoso o defectuoso 23 XII 5 a 9
 
 Circular con objetos
 
-que impiden visibilidad
+que impiden visibilidad del
 
-del conductor 25 VII 2
+conductor 25 VII 3 a 5
 
-Circular con parabrisas astillado o
+Circular con parabrisas
 
-sombreado 23 VIII 4
+astillado o
+
+sombreado 23 VIII 5 a 9
 
 Circular con permiso
 
-vencido 10 IV 2
+vencido 10 IV 5 a 9
 
-Circular con piezas que puedan
+Circular con piezas
 
-desprenderse 25 V 2
+que puedan
+
+desprenderse 25 V 5 a 9
 
 Circular con placas
 
-alteradas 13 8
+alteradas 13 15 a 24
 
-Circular con placa (s) en el interior del
+Circular con placa (s)
 
-vehículo 13 4
+en el interior del
 
-Circular con placa(s)
-
-sobrepuesta(s) 17 8
+vehículo 13 15 a 24
 
 Circular con placa(s)
 
-vencida(s) 10 I 4
+sobrepuesta(s) 17 20 a 28
+
+Circular con placa(s)
+
+vencida(s) 10 I 5 a 9
 
 Circular con puertas
 
-abiertas 37 II 3
+abiertas 37 II 10 a 15
 
-Circular con sirena los vehículos no
+Circular con sirena
 
-autorizados 25 VI 8
+los vehículos no
 
-Circular con una luz delantera y/o
+autorizados 25 VI 20 a 28
 
-trasera 23 III A y B 3
+Circular con una luz
 
-Circular con vehículo en malas
+delantera y/o
 
-condiciones 23 4
+trasera 23 III A y B 3 a 5
+
+Circular con vehículo
+
+en malas condiciones 23 20 a 28
 
 Circular en caravana
 
 sin dejar espacio
 
-reglamentario 38 XVIII 4
+reglamentario 38 XVIII 10 a 15
 
 Circular en zona
 
-prohibida 91 20
+prohibida 91 10 a 15
 
-Circular en reversa más
+Circular en reversa
 
-de lo autorizado o
+más de lo autorizado o
 
-en lugar prohibido 87 3
+en lugar prohibido 87 3 a 5
 
 Circular en sentido
 
-contrario 37 X 6
+contrario 37 X 10 a 15
 
 Circular ocupando dos
 
-carriles 37 IX 6
+carriles 37 IX 8 a 12
 
-Circular con calcomanías
+Circular sin calcomanía
 
-de revisado vigente 26 2
+de revisado vigente 26 5 a 9
 
 Circular sin calcomanía
 
 de verificación
 
-vigente 23 XII 2
+vigente 23 XII 5 a 9
 
 Circular sin
 
-defensas 23 XIII 3
+defensas 23 XIII 3 a 5
 
 Circular sin espejo
 
-retrovisor 23 XV 4
+retrovisor 23 XV 3 a 5
 
-Circular sin luces delanteras y/o
+Circular sin luces
 
-traseras 98 4
+delanteras y/o
 
-Circular sin luces indicadoras de
+traseras 98 5 a 9
 
-frenado 23 III B 4
+Circular sin luces
 
-Circular sin luces y/o
+indicadoras de
 
-reflejantes especiales
+frenado 23 III B 5 a 9
 
-cada uno 23 III 6
+Circular sin luces
+
+y/o reflejantes
+
+especiales cada uno 23 III 5 a 9
 
 Circular sin luz(es)
 
-direccional(es) c/u 23 III C 2
+direccional(es)
+
+c/u 23 III C 3 a 5
 
 Circular sin luz iluminadora
 
-de placa 23 III F 4
+de placa 23 III F 3 a 5
 
 Circular sin malla
 
 protectora, transporte
 
-escolar 23 XVIII A 10
+escolar 23 XVIII A 10 a 15
 
 Circular sin
 
-pantaloneras 23 XIV 6
+pantaloneras 23 XIV 5 a 9
 
-Circular sin placas 10 I 5
+Circular sin placas 10 I 10 a 15
 
-Circular sin tapón en
+Circular sin tapón
 
-tanque de
+en tanque de
 
-combustible 23 VI 4
+combustible 23 VI 5 a 9
 
 Circular sobra (sic)
 
@@ -1767,29 +1785,29 @@ mangueras de bomberos,
 
 banquetas, isletas,
 
-camellones, etc. 38 XIII 3
+camellones, etc. 38 XIII 10 a 15
 
 Circular
 
-zigzagueando 38 XIV 4
+zigzagueando 38 XIV 10 a 15
 
-Colocar anuncios
+Colocar anuncios que
 
-que se confundan
+se confundan
 
-con señales 7 III 6
+con señales 7 III 15 a 24
 
 Colocar artículos o
 
 dispositivos semejantes
 
-a placas 11 2
+a placas 11 10 a 15
 
 Colocar luces o anuncios
 
 que deslumbren
 
-o distraigan 7 IV 2
+o distraigan 7 IV 5 a 9
 
 Colocar señales, boyas,
 
@@ -1797,131 +1815,133 @@ bordos o dispositivos
 
 de tránsito
 
-sin autorización 7 II 6
+sin autorización 7 II 15 a 24
 
 Conducir sin equipo
 
 necesario, en caso de
 
-minusválidos 23 XX 2
+minusválidos 23 XX 5 a 9
 
 Dar vuelta con exceso de
 
-velocidad 81 I C 8
+velocidad 81 I C 10 a 15
 
 Dar vuelta en carril
 
-indebido 81 I E 4
+indebido 81 I E 10 a 15
 
 Dar vuelta en “U” a media
 
-cuadra 86 I 2
+cuadra 86 I 5 a 9
 
 Dar vuelta en “U”
 
 efectuando reversa en el
 
-proceso 86 IV 4
+proceso 86 IV 5 a 9
 
 Dar vuelta en “U” en lugar
 
-prohibido 86 II 6
+prohibido 86 II 5 a 9
 
 Dar vuelta en “U” en
 
 sentido contrario o calle
 
-transversal 86 V 8
+transversal 86 V 5 a 9
 
 Dar vuelta en “U” sin
 
 ceder paso a circulación
 
-de calle transversal 85 6
+de calle transversal 85 5 a 9
 
 Depositar materiales en vía
 
-publica 7 V 12
+publica 7 V 10 a 15
 
 Efectuar competencias
 
 de vehículos, sin
 
-autorización 38 VI 30
+autorización 38 VI 20 a 28
 
 Efectuar compraventa
 
 de vehículos en vía
 
-pública 7 XI 6
+pública 7 XI 8 a 12
 
-Efectuar piruetas los motociclistas
+Efectuar piruetas los
 
-y ciclistas 40 II 8
+motociclistas y ciclistas 40 II 10 a 15
 
 Efectuar ruidos molestos
 
 o insultativos con escape o
 
-claxon 38 VII 10
+claxon 38 VII 5 a 9
 
 Empalmarse con otro
 
 vehículo en un mismo
 
-carril 38 XIX 8
+carril 38 XIX 10 a 15
 
 Entorpecer marcha de
 
 desfiles, cortejos o
 
-eventos 38 V 8
+eventos 38 V 10 a 15
 
 Estacionarse en carril de
 
-circulación 56 3
+circulación 56 5 a 9
 
 Estacionarse en forma
 
-indebida 66 3
+indebida 66 5 a 9
 
 Estacionarse en lugar
 
-exclusivo 66 XIV 3
+exclusivo 66 XIV 5 a 9
 
 Estacionarse en lugar
 
-prohibido 66 3
+prohibido 66 5 a 9
 
 Estacionarse más de dos
 
 vehículos autobuses,
 
-ómnibuses en paradas
+omnibuses en paradas
 
-o terminales 64 6
+o terminales 64 5 a 9
 
-Estacionar vehículo sin
+Estacionar vehículos sin
 
-cambio 55 V A 3
+cambio 55 V A 10 a 15
 
 Exceso de
 
-pasajeros 38 XXIV 6
+pasajeros 38 XXIV 3 a 5
+
+Exceso de velocidad
+
+en zona escolar
+
+hasta treinta
+
+kilómetros 39 15* a 20
 
 Exceso de velocidad en
 
-zona escolar hasta treinta
+zona escolar de treinta a
 
-kilómetros 39 15
+sesenta y cinco
 
-Exceso de velocidad en
-
-zona escolar de treinta
-
-a setenta y cinco
-
-kilómetros por hora 39 25
+kilómetros por hora 39 15* a 20
 
 Exceso de velocidad en
 
@@ -1929,87 +1949,91 @@ zona escolar a más de
 
 setenta y cinco
 
-kilómetros por hora 39 30
+kilómetros por hora 39 15* a 20
 
 Exceso de velocidad en
 
-zona urbana a más de sesenta
+zona urbana a más
 
-porciento 39 30
+de sesenta
+
+porciento 39 10 a 15
 
 Exceso de velocidad en
 
 zona urbana de treinta
 
-porciento a
+por ciento a
 
-sesenta porciento 39 25
+sesenta por ciento 39 10 a 15
 
 Exceso de velocidad en
 
 zona urbana hasta treinta
 
-porciento 39 20
+por ciento 39 10 a 15
 
 Expedir humo o ruido
 
-excesivo 38 XV 5
+excesivo 38 XV 5 a 9
 
 Falta de calcomanías
 
 de placas y/o
 
-refrendo 10 III 3
+refrendo 10 III 2 a 4
 
 Falta de casco para
 
 motociclista o
 
-acompañante 40 I 4
+acompañante 40 I 5 a 9
 
 Falta de cinturón de
 
 seguridad o
 
-no usarlo 23 V 2
+usarlo 23 V 5 a 9
 
 Falta de luz de
 
-reversa 23 III G 3
+reversa 23 III G 2 a 4
 
 Falta de luz(es)
 
 especiales en transporte
 
-escolar 23 III K 5
+escolar 23 III K 2 a 4
 
 Falta de luz iluminadora de
 
-tablero 23 III J 3
+tablero 23 III J 3 a 5
 
 Falta de protección en
 
 zanjas o trabajos en vía
 
-pública 7 VI 5
+pública VI 15 a 20
 
 Falta de visibilidad en
 
-placas 13 6
+placas 13 5 a 9
 
 Hacer eventos en vía
 
 pública sin dar
 
-aviso 8 10
+aviso 8 15 a 20
 
 Hacer servicio público
 
-con placas particulares 38 XX 12
+con placas
+
+particulares 38 XX 15 a 20
 
 Hacer uso indebido del
 
-claxon 7 XIV 3
+claxón 7 XIV 5 a 9
 
 Ingerir bebidas
 
@@ -2017,13 +2041,13 @@ alcohólicas, pasajeros
 
 y ocupantes de
 
-vehículos privados
+vehículos privados o
 
-o de servicio público 46 I 4 P/P
+de servicio público 46 I 30 a 35
 
 Iniciar marcha sin
 
-precaución 37 XIV 4
+precaución 37 XIV 10 a 15
 
 Instalar objetos que
 
@@ -2033,63 +2057,65 @@ altura menor de cuatro
 
 metros con sesenta
 
-centímetros. 7 X 6
+centímetros. 7 X 15 a 20
 
-Insultar o no respetar
+Instalar o no respetar
 
 a personal de
 
-tránsito 37 I 8
+tránsito 37 I 10 a 15
 
 Intervenir en asuntos
 
 de tránsito, peatones y
 
-pasajeros 46 IX 4
+pasajeros 46 IX 5 a 9
 
 Interrumpir
 
-circulación 56 6
+circulación 56 25 a 32
 
 Invadir carril
 
-contrario 75 I 8
+contrario 75 I 10 a 15
 
 Llevar bulto sobre
 
 la cabeza, los
 
-ciclistas 40 IX 3
+ciclistas 40 IX 3 a 7
 
 Llevar pasajeros, los
 
-ciclistas 42 IX 2
+ciclistas 42 IX 2 a 4
 
 Llevar personas u
 
-objetos entre su
+objetos entre su cuerpo
 
-cuerpo y dispositivos de
+y dispositivos de
 
-manejo 38 II 4
+manejo 38 II 10 a 15
 
-Manejar bajo efectos
+Manejar bajo efectos de
 
-de medicina que altere
+medicina que altere
 
-facultades 38 I 8
+facultades 38 I 20 a 28
 
 Manejar bajo el influjo
 
 de drogas o sustancias
 
-tóxicas 38 I 30
+tóxicas 38 I 20* a 28
 
 Manejar con aliento
 
 alcohólico y/o conducir
 
-con bebidas alcohólicas 38 I 6
+con bebidas
+
+alcohólicas 38 I 15* a 20
 
 Manejar con licencia
 
@@ -2097,95 +2123,99 @@ autorizada en otro
 
 Municipio o Estado
 
-sin cumplir requisitos 30 6
+sin cumplir
+
+requisitos 30 5 a 9
 
 Manejar con licencia
 
 de automovilista siendo
 
-chofer 27 No.
+chofer 27 5 a 9
 
 Manejar con licencia
 
 expedida fuera del
 
-Municipio 29 No.
+Municipio 29 5 a 9
 
 Manejar con licencia
 
-vencida 27 6
+vencida 27 7 a 12
 
 Manejar ebrio
 
-completo 38 I 30
+completo 38 I 30* a 35
 
 Manejar ebrio
 
-incompleto 38 I 20
+incompleto 38 I 20* a 28
 
 Manejar sin
 
-licencia 27 6
+licencia 27 10 a 15
 
 Mover vehículo
 
-accidentado 109 I 15
+accidentado 109 I 10 a15
 
-Negarse a dar datos 37 I 10
+Negarse a dar datos 37 I 10 a15
 
 Negarse a entregar
 
 la licencia de
 
-conducir 120 V 10
+conducir 120 V 6 a10
 
-Negarse a llenar reporte de
+Negarse a llenar
 
-accidente 109 VII 10
+reporte de
 
-No ceder el paso
+accidente 109 VII 10 a 15
 
-a invidentes o
+No ceder el paso a
 
-minusválidos 37 VI 10
+invidentes o
+
+minusválidos 37 VI 5 a 9
 
 No ceder el paso a
 
 vehículos al salir de
 
-cochera 96 6
+cochera 96 5 a 9
 
 No ceder el paso a
 
-vehículos en
+vehículos en movimiento
 
-movimiento al iniciar la
+al iniciar la
 
-marcha 74 10
+marcha 74 10 a 15
 
-No ceder paso a
+No ceder paso a peatón
 
-peatón al atravesar
+al atravesar
 
-banqueta 95 6
+banqueta 95 10 a 15
 
 No ceder el paso al
 
 circular de
 
-reversa 88 8
+reversa 88 8 a 9
 
-No ceder el paso a
+No ceder el paso
 
-peatón al
+a peatón al
 
-dar vuelta 81 I D 6
+dar vuelta 81 I D 5 a 9
 
-No ceder el paso a
+No ceder el paso
 
-peatón en
+a peatón en
 
-zona de peatones 37 VII 10
+zona de peatones 37 VII 5 a 9
 
 No ceder el paso a
 
@@ -2193,23 +2223,21 @@ vehículo que entre
 
 de reversa a
 
-estacionamiento 88 5
+estacionamiento 88 10 a 15
 
-No cumplir con
+No cumplir con convenio de
 
-convenio de
-
-accidente 109 VIII 30
+accidente 109 VIII 10 a 15
 
 No dar aviso de
 
-accidente 109 IV 15
+accidente 109 IV 10 a 15
 
 No dar aviso de
 
 recepción de persona
 
-lesionada 113 15
+lesionada 113 20 a 28
 
 No detenerse atrás de
 
@@ -2217,21 +2245,23 @@ transporte escolar con
 
 luces especiales
 
-encendidas 53 20
+encendidas 53 10 a 15
 
 No esperar intervención
 
 de oficial de tránsito
 
-en caso de accidente 109 VI 20
+en caso de
+
+accidente 109 VI 20 a 28
 
 No guardar
 
-distancia 90 10
+distancia 90 10 a 15
 
 No hacer cambio de
 
-luces 99 5
+luces 99 5 a 9
 
 No hacer señales
 
@@ -2239,33 +2269,33 @@ manuales al voltear o
 
 detenerse, cuando no
 
-haya luces
-
-direccionales 103 I B 6
+haya luces direccionales 103 I B 5 a 9
 
 No pagar cuota de reloj
 
-estacionómetro 57 No.
+estacionómetro 57 1.5
 
 No portar
 
-licencia 27 6
+licencia 27 2 a 4
 
 No portar tarjeta de
 
-circulación 10 II 6
+circulación 10 II 2 a 4
 
 No portar llanta de
 
-refacción o herramienta
+refacción o
 
-para cambio 23 I 5
+herramienta para
+
+cambio 23 I 5 a 9
 
 No prestar y/o solicitar
 
 ayuda para
 
-lesionados 109 II 6
+lesionados 109 II 20 a 28
 
 No proteger y/o
 
@@ -2273,21 +2303,23 @@ abandonar vehículo
 
 estacionado por
 
-emergencia 56 I y II 10
+emergencia 56 I y II 10 a 15
 
 No proteger vehículo
 
-accidentado 109 V 10
+accidentado 109 V 10 a15
 
-No rebasar en un mismo carril,
+No rebasar en un
 
-los motociclistas 40 V 2
+mismo carril,
+
+los motociclistas 40 V
 
 No reducir la velocidad
 
 ante concentraciones de
 
-peatones 37 XVI 3
+peatones 37 XVI 10 a 15
 
 No reportar cambios de
 
@@ -2295,63 +2327,65 @@ propietario, domicilio, tipo
 
 de vehículo o servicio,
 
-robo o incendio 21 2
+robo o incendio 21 10 a 15
 
 No respetar derecho de
 
-paso 71 2
+paso 71 10 a15
 
 No respetar indicaciones de
 
-oficial 37 I 6
+oficial 37 I 8 a 12
 
 No respetar señal de
 
-“ALTO” 71 I 6
+“ALTO” 71 I 10 a 15
 
 No respetar señales
 
 y/o dispositivos de
 
-tránsito 102 6
+tránsito 102 5 a 9
 
-No respetar sirena 73 6
+No respetar sirena 73 15 a 20
 
 No usar anteojos
 
 o dispositivos
 
-requeridos 37 XI 2
+requeridos 37 XI 10 a 15
 
 No usar freno de
 
-estacionamiento 55 V B 2
+mano 55 V B 7 a 12
 
-No usar freno de motor
+No usar freno de
 
-en pendiente
+motor en pendiente
 
-descendente 89 3
+descendiente 89 10 a 15
 
-No tener trato amable
+No tener trato amable y
 
-y cortés los pasajeros
+cortés los pasajeros y
 
-y ocupantes de
+ocupantes de
 
-vehículos 41 2
+vehículos 41 4 a 7
 
-Peatones, irrespetuosos con
+Peatones irrespetuosos con
 
-oficiales 41 6
+oficiales 41 4 a 7
 
-Peatones con fallas
+Peatones, con faltas
 
-diversas 41, 42, 43 y 44 1
+diversas 41, 42, 43 y 44 3 a 7
 
-Pasajeros mover controles de
+Pasajeros mover
 
-vehículo 46 VIII 2
+controles de
+
+vehículo 46 VIII 4 a 7
 
 Permitir a terceros el
 
@@ -2359,7 +2393,7 @@ uso de dispositivos
 
 de control de
 
-vehículo 38 XVI 3
+vehículo 38 XVI 10 a 15
 
 Porta radios con
 
@@ -2367,103 +2401,109 @@ frecuencia de la
 
 Dependencia de
 
-Tránsito 25 IV 30
+Tránsito 25 IV 20 a 28
 
-Prestar placas 17 25
+Prestar placas 17 20 a 28
 
 Prestar un vehículo
 
 a quien carezca de
 
-licencia 27 6
+licencia 27 20 a 28
 
 Prestar vehículo
 
 a menor de
 
-edad 27 30
+edad 27 20 a 28
 
 Proporcionar datos
 
 falsos en expedición de
 
-licencia 27 30
+licencia 27 20 a 28
 
 Rebasar a vehículo
 
 detenido cediendo
 
-el paso a peatones 78 V 20
+el paso a
+
+peatones 78 V 8 a 12
 
 Rebasar con carril contrario
 
-ocupado 77 I C 20
+ocupado 77 I C 10 a 15
 
 Rebasar cuando se es
 
-rebasado 77 I B 20
+rebasado 77 I B 10 a 15
 
 Rebasar en lugar
 
-prohibido 78 20
+prohibido 78 10 a 15
 
 Rebasar por
 
-acotamiento 78 II 30
+acotamiento 78 II 10 a 15
 
 Rebasar por la
 
-derecha 78 III 30
+derecha 78 III 10 a 15
 
 Rebasar sin
 
-señalar 77 I D 12
+señalar 77 I D 5 a 9
 
 Recibir y/o reparar
 
 vehículo accidentado sin
 
-reporte 114 30
+reporte 114 20 a 28
 
-Registrar vehículo fuera del
+Registrar vehículo
 
-Municipio 10 20
+fuera del
+
+Municipio 10 10 a 15
 
 Remolcar o empujar
 
-motociclista 40 III 10
+motociclista 40 III 10 a 15
 
-Remolcar vehículo sin equipo
+Remolcar vehículo
 
-especial 38 XXIII 12
+sin equipo
+
+especial 38 XXIII 10 a 15
 
 Reparar vehículos en vía
 
-pública 7 VII 5
+pública 7 VII 15 a 20
 
 Separar lugar en
 
 estacionamiento no
 
-exclusivo 59 12
+exclusivo 59 10 a 15
 
 Sujetarse a vehículo
 
 en movimiento, los
 
-motociclistas 40 IV 10
+motociclistas 40 IV 10 a 15
 
-Tirar basura o líquidos 7 V 6
+Tirar basura o líquidos 7 V 5 a 9
 
 Trabajar de chofer
 
 con licencia
 
-extranjera 28 25
+extranjera 28 10 a 15
 
 Traer semovientes
 
-sueltos 7 IX 30
+sueltos 7 IX 10 a 15
 
 Transportar animales
 
@@ -2471,7 +2511,7 @@ sueltos dentro del
 
 compartimiento
 
-de pasajeros 38 XXII 3
+de pasajeros 38 XXII 5 a 9
 
 Transportar cadáveres
 
@@ -2479,103 +2519,109 @@ de animales en
 
 compartimiento de
 
-pasajeros 49 III 6
+pasajeros 49 III 5 a 9
 
-Transportar carga que
+Transportar carga
 
-obstruya visión de
+que obstruya visión de
 
-conductor 48 I 6
+conductor 48 I 10 a 15
 
 Transportar carga que
 
 se esparza sin mojarla o
 
-cubrirla 48 II 30
+cubrirla 48 II 10 a 15
 
 Transportar carga que
 
 arrastre o pueda
 
-caerse 49 IV 25
+caerse 49 IV 10 a 15
 
 Transportar carga
 
-maloliente 49 II 12
+maloliente 49 II 10 a 15
 
 Transportar carga
 
 sin sujetarla
 
-adecuadamente 48 IV 25
+adecuadamente 48 IV 10 a 15
 
 Transportar carga
 
 sobresaliente hacia
 
-atrás más de lo permitido,
+atrás más de lo
 
-por cada metro
+permitido, por cada metro
 
-o fracción 48 V 20
+o fracción 48 V 5 a 9
 
 Transportar carga
 
 sobresaliente sin
 
-protección 48 V 20
+protección 48 V 5 a 9
 
 Transportar explosivos
 
 o material peligroso sin
 
-autorización 48 III 30
+autorización 48 III 20 a 28
 
-Transportar pasajeros en
+Transportar pasajeros
 
-estado de ebriedad los
+en estado de ebriedad
 
-vehículos de servicio
+los vehículos de servicio
 
-público de transporte 38 XXI 25
+público de transporte 38 XXI 8 a 12
 
-Transportar personas en lugar
+Transportar personas
 
-prohibido 38 IV 10
+en lugar
+
+prohibido 38 IV 5 a 9
 
 Usar audífonos al
 
-conducir 38 X 10
+conducir 38 X 5 a 9
 
 Usar equipo de radio
 
 con frecuencia de
 
-tránsito 38 VIII 30
+tránsito 38 VIII 20 a 28
 
 Usar equipos de sonido
 
 cuyo nivel de volumen sea
 
-molesto 38 IX 10
+molesto 38 IX 5 a 9
 
 Uso innecesario de
 
-luz (es) direccional(es)
+luz (es) direccional(es) o de
 
-o de emergencia 100 6
+emergencia 100 5 a 9
 
 Utilizar personas para
 
 proteger o sujetar
 
-carga 49 I 3
+carga 49 I 10 a 15
 
 Zigzaguear o hacer
 
 piruetas, los
 
-ciclistas 40 II 3
+ciclistas 40 II 2 a 4
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2004)</small>
+
+VII.- A todos los que cometan alguna de las infracciones previstas en la fracción anterior, encontrándose en estado de ebriedad completa o incompleta se les incrementará la sanción en un tercio.
 
 ART. 121.- Las infracciones cometidas por los ciclistas y conductores de vehículos de tracción animal serán sancionados con el veinticinco por ciento los primeros y con cincuenta por ciento los segundos, de lo establecido en el tabulador.
 
@@ -2686,3 +2732,11 @@ C. TEODORO SIERRA CRUZ
 EL C. SECRETARIO DEL H. AYUNTAMIENTO
 
 JESUS NORBERTO GONZALEZ GUTIERREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE MAYO DE 2004.
+
+PRIMERO.- LAS PRESENTE (SIC) REFORMAS AL REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD CERRALVO, NUEVO LEON, ENTRARAN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- QUEDAN DEROGADAS TODAS LAS DISPOSICIONES REGLAMENTARIAS MUNICIPALES QUE SE OPONGAN A LAS PRESENTE (SIC) REFORMAS.
