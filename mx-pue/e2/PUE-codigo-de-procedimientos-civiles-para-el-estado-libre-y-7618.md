@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1994-07-01"
+last_updated: "1995-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1995.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -509,7 +509,9 @@ I.- Multa hasta por el importe de diez días del salario mínimo vigente en el l
 
 II.- Cateo por orden escrita.
 
-III.- Arresto hasta por diez días.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1995)</small>
+
+III.- Arresto hasta por treinta y seis horas.
 
 IV.- El auxilio de la fuerza pública.
 
@@ -8586,5 +8588,11 @@ P.O. 4 DE AGOSTO DE 1992.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE JULIO DE 1994.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 1995.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
