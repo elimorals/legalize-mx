@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-comision-de-derechos-humanos-del-estado-libre-y-6918"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-28"
-last_updated: "1993-01-28"
+last_updated: "1993-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 28 de enero de 1993.
 
@@ -49,9 +49,11 @@ Esta Ley es de orden público y de aplicación en todo el territorio Estatal en 
 
 La Comisión Estatal de Derechos Humanos es un organismo descentralizado, con personalidad jurídica y patrimonio propio, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los Derechos Humanos previstos por el orden jurídico mexicano.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
 ###### ARTICULO 3o.
 
-La Comisión Estatal de Derechos Humanos tendrá competencia en todo el territorio Estatal, para conocer de las quejas relacionadas con presuntas violaciones a los Derechos Humanos, cuando éstas fueren imputadas a autoridades y servidores públicos de carácter estatal o municipal, con excepción de los del Poder Judicial del Estado.
+La COmisión (sic) Estatal de Derechos Humanos tendrá competencia en todo el territorio Estatal, para conocer de las quejas relacionadas con presuntas violaciones a los Derechos Humanos, cuando éstas fueren imputadas a autoridades y servidores públicos de carácter estatal o municipal.
 
 Cuando en un mismo hecho estuvieren involucrados tanto autoridades o servidores públicos de la Federación como del Estado o municipios, la competencia se surtirá en favor de la Comisión Nacional de Derechos Humanos.
 
@@ -588,3 +590,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. AGUSTIN MARQUEZ URIBE.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE OCTUBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
