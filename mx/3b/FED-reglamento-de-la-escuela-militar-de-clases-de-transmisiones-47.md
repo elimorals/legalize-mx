@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-clases-de-transmisiones-47"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "2001-06-22"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE CLASES DE TRANSMISIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -665,7 +665,7 @@ IX. Controlar el depósito de vestuario y equipo del plantel;
 
 X. Elaborar el proyecto de presupuesto anual del plantel;
 
-Xl. Formular los estados de fuerza y papeletas de raciones;
+XI. Formular los estados de fuerza y papeletas de raciones;
 
 XII. Elaborar y tramitar las Hojas de Actuación, Actas de Consejo de Honor, Certificados de Conducta y Memorial de Servicios del personal del plantel;
 
@@ -1041,15 +1041,15 @@ V. Acumular el 30% o más de faltas justificadas en una sola asignatura o en el 
 
 VI. Acumular 500 (Quinientos) puntos de demérito durante el ciclo lectivo, previa determinación de mala conducta por el consejo de honor;
 
-Vll. Quedar comprendido en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+VII. Quedar comprendido en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
 
-Vlll. Estar comprendido en alguna de las categorías de inutilidad, de acuerdo con las tablas anexas a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+VIII. Estar comprendido en alguna de las categorías de inutilidad, de acuerdo con las tablas anexas a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 IX. Violar las cláusulas establecidas en el Contrato Filiación;
 
 X. Existir irregularidades en la documentación presentada al ingresar al plantel; y
 
-Xl. Para el personal Becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
+XI. Para el personal Becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
 
 > <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1083,13 +1083,19 @@ Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del
 
 ### CAPITULO I. De los Certificados y Nombramientos
 
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 69.
 
 El personal en instrucción de la Escuela Militar de Clases de Transmisiones que termine satisfactoriamente sus estudios recibirá:
 
-I. Certificado de Estudios; y
+I. Certificado de Estudios;
 
-II. Nombramiento.
+II. Grado de Sargento Primero o Segundo de Transmisiones, según corresponda;
+
+III. Nombramiento, y
+
+IV. Gafete distintivo de la escuela.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1121,7 +1127,7 @@ IV. Otros que determine la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 72.
 
-El personal en instrucción que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá Gafete Distintivo del plantel.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
@@ -1214,3 +1220,9 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
