@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "2000-12-30"
+last_updated: "2004-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -115,9 +115,11 @@ Los propietarios de predios que resulten afectados por resoluciones agrarias, de
 
 #### SECCION CUARTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 8.
 
-El pago del impuesto deberá efectuarse en la Tesorería Municipal correspondiente, dentro de los primeros veinte días del primer mes de cada bimestre, con excepción de la cuota mínima, cuyo pago se hará por anualidades durante los meses de enero y febrero.
+El pago del impuesto deberá efectuarse en la Tesorería Municipal correspondiente, dentro de los primeros veinte días del primer mes de cada bimestre, con excepción de aquellos cuyo pago no exceda del equivalente a cuatro cuotas de salario mínimo vigente en el Estado, cuyo pago se hará por anualidades durante los meses de enero y febrero.
 
 ###### ARTICULO 9.
 
@@ -497,13 +499,9 @@ Están exentos de pago de este impuesto de rifas, loterías y sorteos que se aut
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-CAPITULO
-
-IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
+### CAPITULO QUINTO. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 30 DE DICIEMBRE DE 2000)
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -635,7 +633,7 @@ Y los partidos políticos en los términos de la legislación electoral federal 
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 69.
 
@@ -673,7 +671,7 @@ Las certificaciones que soliciten las Autoridades para surtir efectos probatorio
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 75.
 
@@ -697,7 +695,7 @@ Los ingresos por productos se determinarán en los actos, convenios, contratos o
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 77.
 
@@ -732,6 +730,8 @@ XIII. Aportaciones para obras y servicios públicos,
 XIV. Otros no especificados.
 
 ## TITULO QUINTO. DE LAS PARTICIPACIONES
+
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 78.
 
@@ -804,3 +804,7 @@ El presente decreto entrará en vigor el día 1º. de enero de 1994.
 P.O. 30 DE DICIEMBRE DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
