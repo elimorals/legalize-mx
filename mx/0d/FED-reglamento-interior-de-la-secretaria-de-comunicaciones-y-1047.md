@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-1047"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-21"
-last_updated: "1997-10-13"
+last_updated: "1999-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 1999.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de junio de 1995.
 
@@ -1496,3 +1496,15 @@ QUINTO. Los manuales a que se refiere el presente Reglamento deberán expedirse 
 SEXTO. Los derechos de los servidores públicos de la Dirección General de la Policía Federal de Caminos, que pasen a prestar sus servicios al Órgano Desconcentrado Policía Federal de Caminos, serán respetados en sus términos.
 
 SÉPTIMO. Los asuntos en trámite ante la Dirección General de la Policía Federal de Caminos, serán resueltos por el Órgano Desconcentrado Policía Federal de Caminos, de conformidad con las disposiciones vigentes al momento en que se iniciaron.
+
+D.O.F. 8 DE SEPTIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La transferencia de la Policía Federal de Caminos a la Secretaría de Gobernación incluye todos sus recursos humanos, materiales y financieros que tiene asignados como órgano desconcentrado.
+
+TERCERO.- A partir de la fecha en que se concluya la transferencia de recursos a que se refiere el artículo anterior, cesarán los vínculos de la Secretaría de Comunicaciones y Transportes con el personal que forma parte de la Policía Federal de Caminos, el cual dependerá exclusivamente de la Secretaría de Gobernación en los términos de su Reglamento Interior y demás disposiciones legales y reglamentarias aplicables.
+
+CUARTO.- Para dar cumplimiento a lo dispuesto en los capítulos III y IV de la Ley de la Policía Federal Preventiva y Tercero Transitorio del Decreto por el que se expidió, el Comisionado de ésta tomará las medidas necesarias para seleccionar, con base en dichas normas legales, a los recursos humanos procedentes de la Policía Federal de Caminos que reúnan los requisitos para ingresar como personal activo a la Policía Federal Preventiva. Respecto de los demás, se estará a lo previsto en las disposiciones legales y administrativas aplicables.
+
+QUINTO.- Se derogan todas las disposiciones previstas en reglamentos, acuerdos y circulares que se opongan al presente Decreto.
