@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2002-02-12"
+last_updated: "2002-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE FEBRERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -151,37 +151,59 @@ III. Secretaría de Finanzas y Planeación
 
 IV. Secretaría de Educación y Cultura
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V. Secretaría de Desarrollo Económico
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+V. Secretaría de Trabajo y Previsión Social
 
-VI. Secretaría de Comunicaciones
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
 
-VII. Secretaría de Desarrollo Regional
+VI. Secretaría de Desarrollo Económico
 
-> <small>(REFORMADA, G.O. 12 DE FEBRERO DE 2002)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VIII. Secretaría de Desarrollo Agropecuario, Rural, Forestal Pesca y Alimentación;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+VII. Secretaría de Comunicaciones
 
-IX. Secretaría de Salud y Asistencia
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
 
-X. Contraloría General
+VIII. Secretaría de Desarrollo Regional
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XI. Procuraduría General de Justicia
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE ENERO DE 2001)</small>
+IX. Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación
 
-XII. Coordinación General de Comunicación Social.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+
+X. Secretaría de Salud y Asistencia
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XI. Contraloría General
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XII. Procuraduría General de Justicia
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XIII. Coordinación General de Comunicación Social
 
 Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
 
@@ -409,9 +431,9 @@ XXXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XXXVII. Vigilar, en el ámbito estatal, la exacta aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los reglamentos estatales vigentes en materia laboral, así como las relaciones del Gobierno del Estado con sus trabajadores.
+XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -688,6 +710,70 @@ XXXIII. Ajustar el calendario escolar respecto al establecido por la autoridad e
 XXXIV. Promover la participación social para el fortalecimiento y desarrollo del Sistema Educativo Estatal; y
 
 XXXV. Promover los servicios de formación, actualización, capacitación y superación profesional para los maestros del Sistema Educativo Estatal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL SUBTÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE MAYO DE 2002)</small>
+
+De la Secretaría de Trabajo y Previsión Social
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2002)</small>
+
+###### Artículo 22 Bis.
+
+La Secretaría de Trabajo y Previsión Social es la dependencia responsable de conducir y coordinar la política laboral en el estado, y tendrá la competencia que en la materia le otorguen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2002)</small>
+
+###### Artículo 22 Ter.
+
+Son atribuciones del secretario de Trabajo y Previsión Social, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+I. Vigilar, en el ámbito estatal, la exacta aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los reglamentos estatales vigentes en materia laboral, así como las relaciones del Gobierno del Estado con sus trabajadores;
+
+II. Formular y ejecutar el Programa Estatal de Empleo;
+
+III. Promover y procurar el equilibrio de los factores de la producción, de conformidad con las disposiciones legales aplicables;
+
+IV. Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y la demanda de trabajo en la Entidad;
+
+V. Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con la autoridad federal del trabajo y con la participación de los sectores patronal, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
+
+VI. Vigilar, mediante visitas e inspecciones, que los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
+
+VII. Presidir la Junta Local de Conciliación y Arbitraje y las Juntas Especiales de la misma, cuando se trate de conflictos colectivos;
+
+VIII. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje;
+
+IX. Ejecutar los convenios y acuerdos que en materia de Trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la dependencia federal correspondiente en la solución de los conflictos suscitados con motivo de Contratos-Ley de empresas asentadas en la Entidad;
+
+X. Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
+
+XI. Promover programas en materia de Previsión Social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias;
+
+XII. Estudiar y proponer al Ejecutivo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del Estado y la mejoría de quienes laboran en ella;
+
+XIII. Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+
+XIV. Aportar a las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
+
+XV. Participar en la integración y funcionamiento de los organismos estatales encargados de la Capacitación y Adiestramiento y de la Seguridad e Higiene en el Trabajo;
+
+XVI. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+XVII. Mediar y conciliar, a petición de parte o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a la Ley Federal del Trabajo o a los contratos colectivos de trabajo;
+
+XVIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales;
+
+XIX. Promover y apoyar el incremento de la calidad y la productividad.
+
+XX. Fomentar y apoyar la organización social para el trabajo y el autoempleo; y
+
+XXI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
 
 De la Secretaría de Desarrollo Económico
 
@@ -1428,3 +1514,17 @@ Tercero. En un plazo no mayor de 60 días hábiles, contados a partir de la vige
 Cuarto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad vigente.
 
 Quinto. En todos aquellos ordenamientos en que aparezca el nombre de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, se deberá entender como Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación.
+
+G.O. 20 DE MAYO DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 QUE REFORMA, DEROGA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+
+Primero. Este Decreto entrará en vigor el día 1° de julio de 2002, previa publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. El personal, así como los recursos materiales y financieros destinados a las funciones de trabajo y previsión social con que actualmente cuenta la Secretaría de Gobierno, pasarán a la Secretaría de Trabajo y Previsión Social, debiendo ésta sujetarse al presupuesto autorizado para tal fin en el ejercicio fiscal de 2002.
+
+Cuarto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, adecuarán su organización y normatividad interiores, en un plazo no mayor de 60 días hábiles, contados a partir de la entrada en vigor del mismo.
+
+Quinto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable la normatividad vigente en lo que no se oponga al presente Decreto.
