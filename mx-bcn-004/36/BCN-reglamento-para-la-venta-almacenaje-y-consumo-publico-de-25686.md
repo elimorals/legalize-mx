@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2003-12-19"
+last_updated: "2004-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -797,9 +797,17 @@ XVII.- Realizar cualquier tipo de promoción, así como brindar servicios de los
 
 Por Ladie's Night se entiende como los lugares en donde exista cuota de admisión general o se cobre el pago por derecho de admisión o entrada, donde no se podrá exentar del mismo ni hacer distinción en el precio, en atención al género, para la venta y/o consumo de bebidas con graduación alcohólica.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2004)</small>
 
-XVIII.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
+XVIII.- Se prohíbe la venta, almacenaje para su venta o la venta para consumo de bebidas con graduación alcohólica en sitios no aptos de conformidad con la Ley.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2004)</small>
+
+XIX.- Se prohíbe el otorgamiento de permisos permanentes o eventuales, para la venta, almacenaje para su venta y la venta para consumo de bebidas con graduación alcohólica en edificios públicos y zonas adyacentes. Para efecto de este Reglamento se considera como edificio publico, Palacio Municipal y Centro de Gobierno.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2004)</small>
+
+XX.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
 
 ### CAPITULO NOVENO. DEL CONSEJO CONSULTIVO
 
@@ -1244,5 +1252,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente r
 P.O. 19 DE DICIEMBRE DE 2003.
 
 PRIMERO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma y adición.
+
+P.O. 9 DE ENERO DE 2004.
+
+PRIMERO.- La presente reforma y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma y adición.
