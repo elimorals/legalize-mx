@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1984-03-05"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -131,7 +131,7 @@ VIII Zona catastral: la división territorial de índole administrativa que dete
 
 IX. Zona urbana: las superficies constituidas por las áreas que componen los centros de población que cuentan con servicios públicos;
 
-X. Zonas rústicas; las superficies constituidas por las áreas localizadas fuera de los límites de los centros de población, que cuentan con servicios públicos;
+X. Zonas rusticas; las superficies constituidas por las áreas localizadas fuera de los límites de los centros de población, que cuentan con servicios públicos;
 
 XI. Construcciones: las obras de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridos a ellas, clasificadas en:
 
@@ -155,7 +155,7 @@ XVII. Valuación: la determinación del valor catastral de los predios conforme 
 
 XVIII. Valor catastral: el que determine la autoridad catastral para un predio, con base en los valores unitarios de terreno y construcción;
 
-XIX. Revaluación: la revisión de los valores catastrales para determinar si éstos deben permanecer iguales, aumentarse o disminuirse, por alguna de las causas que establezca esta Ley y su reglamento;
+XIX. Reevaluación: la revisión de los valores catastrales para determinar si éstos deben permanecer iguales, aumentarse o disminuirse, por alguna de las causas que establezca esta Ley y su reglamento;
 
 XX. Padrón catastral: conjunto de datos contenidos en planos y documentos que forman los registros cartográfico, alfabético y numérico.
 
@@ -187,7 +187,7 @@ VI. Medición y deslinde catastral;
 
 VII. Certificación de documentos relativos a los predios, y
 
-VIII. Auxilio en el deslinde y descripción de los perímetros divisorios entre el Estado y las Entidades limítrofes, así como los límites de los Municipios que lo integran.
+VIII. Auxilio en el deslinde y descripción de los perímetros divisorios entre el Estado y las Entidades limítrofes, así como los limites de los Municipios que lo integran.
 
 ###### ARTICULO 8o.
 
@@ -201,13 +201,17 @@ El Congreso del Estado aprobará los valores unitarios de terreno y construcció
 
 Los valores unitarios de terreno y construcción que sirvan de base para la determinación de los valores catastrales, serán actualizados cada dos años teniendo como referencia los valores reales al momento de elaborarse el estudio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 11.
 
-Al término del período a que se refiere el artículo anterior, entrarán en vigor los nuevos valores unitarios de terreno y construcción, siguiendo para su formulación, las normas que para el efecto establece esta Ley; en caso de no estar aprobados los nuevos valores, seguirán aplicándose los anteriores.
+En el supuesto de que al término del período a que se refiere el artículo anterior, no sean aprobados los nuevos valores, los anteriores se incrementarán aplicando los factores que en su caso fije el Congreso del Estado, para el año de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 12.
 
-Los predios deberán revaluarse cuando:
+Los predios podrán revaluarse cuando:
 
 I. El avalúo del predio tenga más de dos años;
 
@@ -239,7 +243,7 @@ La Tesorería General del Estado, practicará las actuaciones de medición y des
 
 La medición y deslinde catastral serán realizados previa notificación a los propietarios o poseedores del predio de que se trate y a los colindantes del mismo, pudiendo éstos hacer las observaciones que estimen convenientes. En los casos en que las actuaciones anteriores se refieran a predios federales, estatales, municipales o a vías públicas, deberá notificarse al Agente del Ministerio Público Federal, Estatal o a la autoridad municipal correspondiente, para que intervengan en este procedimiento.
 
-La ausencia de los interesados citados legalmente, no será motivo para suspender la ejecución de las actuaciones, salvo cuando debe intervenir el Ministerio Público.
+La ausencia de los interesados citados legalmente, no será motivo para suspender la elección de las actuaciones, salvo cuando debe intervenir el Ministerio Público.
 
 El resultado de estas actuaciones catastrales y en su caso las observaciones de los propietarios o poseedores o de quienes los representen legalmente, se hará constar en acta circunstanciada, que firmará el personal autorizado de la Tesorería General que hubiere intervenido en los trabajos; pudiendo firmar, si lo consideran conveniente, los propietarios o poseedores del predio deslindado y los colindantes, o sus representantes.
 
@@ -317,7 +321,7 @@ La Tesorería General del Estado, podrá autorizar peritos valuadores de bienes 
 
 ###### ARTICULO 31.
 
-La Secretaría de Urbanismo y Obras Públicas y los Ayuntamientos, comunicarán por escrito a la autoridad catastral, de las solicitudes de concesión o autorización de fraccionamientos o condominios. Esta autoridad a su vez, con base en los datos contenidos en las solicitudes, verificará la situación catastral de los predios e informará del resultado, para la continuación de los trámites respectivos.
+La Secretaría de Urbanismo y Obras Públicas y los Ayuntamientos, comunicarán por escrito a la autoridad catastral, de las solicitudes de concesión o autorización de fraccionamientos o condominios. Esta autoridad a su vez, con base en las datos contenidos en las solicitudes, verificará la situación catastral de los predios e informará del resultado, para la continuación de los trámites respectivos.
 
 ###### ARTICULO 32.
 
@@ -405,7 +409,7 @@ Los infractores de la presente Ley y su reglamento, serán sancionados por la Te
 
 I. Los infractores a las fracciones I, III, IV y VIII del artículo anterior, se harán acreedores a una multa de $1,000.00 a $ 6,000.00; sin perjuicio de las sanciones penales, fiscales o de otro carácter en que incurran.
 
-II. A los que cometan violación a lo establecido en las fracciones II y VII del artículo anterior, se les aplicará multa de $ 2,000.00 a $ 10,000.00, sin perjuicio de las sanciones penales, fiscales o de otra índole a que se hagan acreedores.
+II. A los que cometan violación a lo establecido en las fracciones II y VII del artículo anterior, se les aplicará multa de $ 2,000.00 a.... $ 10,000.00, sin perjuicio de las sanciones penales, fiscales o de otra índole a que se hagan acreedores.
 
 III. A quienes violen lo previsto en las fracciones V y VI del artículo anterior, se les aplicará multa de $ 10,000.00 a $ 40,000.00 sin perjuicio de las sanciones que les impongan otros ordenamientos.
 
@@ -499,4 +503,12 @@ PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 23 de febrero de
 
 En cumplimiento por lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo a los 28 veintiocho días del mes de febrero de 1984 mil novecientos ochenta y cuatro.
 
-Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados).
+Sufragio Efectivo. No reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial Del Estado.
