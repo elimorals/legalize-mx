@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2004-02-07"
+last_updated: "2004-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2439,7 +2439,9 @@ Archivo y Editorial.
 
 CUARTO.- Los asuntos pendientes de resolver deben concluirse observando las disposiciones de esta ley.
 
-QUINTO.- El Congreso del Estado tiene un plazo de noventa días naturales, a partir de la entrada en vigor de la presente ley, para emitir el reglamento de esta ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2004)</small>
+
+QUINTO.- El Congreso del Estado tiene un plazo de noventa días hábiles, a partir de la entrada en vigor de la presente ley, para emitir el reglamento de esta ley.
 
 En tanto se expide dicho reglamento seguirán aplicándose, en su caso, las disposiciones reglamentarias vigentes antes de la entrada de vigor de esta ley.
 
@@ -2468,3 +2470,9 @@ Diputado Secretario
 RICARDO RÍOS BOJÓRQUEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE MAYO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
