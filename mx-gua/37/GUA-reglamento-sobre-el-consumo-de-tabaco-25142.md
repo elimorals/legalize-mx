@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-sobre-el-consumo-de-tabaco-25142"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-28"
-last_updated: "2002-05-28"
+last_updated: "2004-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO SOBRE EL CONSUMO DE TABACO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2004.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de mayo de 2002.
 
@@ -43,9 +43,11 @@ REGLAMENTO SOBRE EL CONSUMO DE TABACO
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2004)</small>
+
 ###### Artículo 1o.
 
-El presente ordenamiento es reglamentario del Artículo 230 de la Ley de Salud del Estado de Guanajuato y tiene por objeto proteger la salud de las personas de los efectos nocivos causados por la exposición al humo de tabaco, mediante la reducción del consumo de éste, principalmente en lugares públicos cerrados.
+El presente ordenamiento es reglamentario del artículo 160 Bis de la Ley de Salud del Estado de Guanajuato y tiene por objeto proteger la salud de las personas de los efectos nocivos causados por la exposición al humo de tabaco, mediante la reducción del consumo de éste, principalmente en lugares públicos cerrados.
 
 ###### Artículo 2o.
 
@@ -300,3 +302,11 @@ Juan Manuel Oliva Ramírez.
 El Secretario de Salud
 
 Éctor Jaime Ramírez Barba.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE MAYO DE 2004.
+
+Artículo Primero.- El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto Gubernativo.
