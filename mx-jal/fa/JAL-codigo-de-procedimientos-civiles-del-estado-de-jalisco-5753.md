@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1998-01-27"
+last_updated: "1998-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -6564,31 +6564,21 @@ III.- Los Legatarios.
 
 Con excepción de los casos señalados en el artículo que sigue, el inventario y avalúo se practicarán por memorias simples y extrajudicialmente.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+
 ###### ARTICULO 857.
 
 El inventario será solemne:
 
-I.- Si la mayoría de herederos y legatarios así lo solicitan;
+I. Si la mayoría de herederos y legatarios así lo solicitan;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+II. Cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios;
 
-II. Siempre que haya bienes inmuebles dentro de la masa hereditaria;
+III. Cuando habiendo menores interesados, el Ministerio Público lo solicite; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+IV. En los demás casos que expresamente lo prevenga este Código.
 
-III. Cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-IV. Cuando habiendo menores interesados, el Ministerio Público lo solicite; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-V. En los demás casos que expresamente lo prevenga este Código.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-El albacea de la sucesión está obligado a proporcionar al Notario Público ante quien se formule un inventario solemne, todos los documentos y demás elementos necesarios para ello y el Notario tendrá facultad de hacer investigaciones y gestiones que se requieren para el mismo fin.
+El albacea de la sicesión (sic) está obligado a proporcionar al notario público ante quien se formule un inventario solemne, todos los documentos y demás elementos necesarios para ello y el notario tendrá facultad de hacer investigaciones y gestiones que se requieren para el mismo fin.
 
 ###### ARTICULO 858.
 
@@ -8325,3 +8315,7 @@ P.O. 4 DE ENERO DE 1997.
 P.O. 27 DE ENERO DE 1998.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE MARZO DE 1998.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
