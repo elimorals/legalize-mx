@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1992-08-06"
+last_updated: "1993-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -159,7 +159,7 @@ De igual forma responderá el que ofrezca auxiliar o auxilie al delincuente por 
 
 Cuando sin acuerdo previo ni adherencia, varias personas intervengan en la comisión de un delito y se precise el daño que cada uno causó, se les sancionará por el que cada quien produjo.
 
-Si no se precisa la causación específica,, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
+Si no se precisa la causación específica, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
 
 ###### ARTICULO 18.
 
@@ -825,7 +825,7 @@ VII.- Desempeñar en el plazo que prudentemente se le fije, trabajo lícito;
 
 VIII.- No abusar del consumo de bebidas embriagantes y abstenerse del empleo de estupefacientes; psicotrópicos, substancias volátiles inhalables y cualquier otra que produzca efectos similares, salvo por prescripción médica, y
 
-IX.- Pagar lo garantizar a reparación de los daños y perjuicios causados.
+IX.- Pagar o garantizar la reparación de los daños y perjuicios causados.
 
 ###### ARTICULO 91.
 
@@ -2423,6 +2423,10 @@ Al servidor público que con ese carácter y a título de impuesto o contribuci�
 
 Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces el salario, se aplicarán de 3 a 6 años de prisión y de 180 a 300 días multa.
 
+### CAPITULO X. DE LA TORTURA
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 270.
 
 Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
@@ -2449,7 +2453,7 @@ Se impondrán de 6 meses a 6 años de prisión y hasta 30 días multa, al servid
 
 I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, o
 
-II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para si o para cualquiera de las personas a que se hace referencia en la fracción III del Artículo anterior.
+II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción III del Artículo anterior.
 
 ###### ARTICULO 273.
 
@@ -2693,6 +2697,72 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 309.
+
+Comete delito de tortura, el servidor público que, con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos con el fin de obtener del torturado o de un tercero, información o una confesión, o castigarlo por un acto que haya cometido o se sospeche que cometió, coaccionarlo para que realice o deje de realizar una conducta determinada, o como medio intimidatorio para el torturado o para un tercero.
+
+No se considerarán como tortura, las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 310.
+
+A quien cometa el delito de Tortura, se le aplicará prisión de tres a doce años, de doscientos a quinientos días multa e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por dos tantos más del lapso de privación de libertad impuesto.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 311.
+
+Las penas previstas en el artículo anterior, se aplicarán al servidor público que, con motivo del ejercicio de su cargo, con cualquiera de las finalidades señaladas en el artículo 309, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves sean físicos o psíquicos, o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+
+Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves, sean físicos o psíquicos a un detenido.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 312.
+
+No será causa de inexistencia del delito de tortura, circunstancias tales como: Estado de emergencia, conmoción, conflicto interior, inestabilidad política, suspensión de garantías, la peligrosidad del imputado, la inseguridad del establecimiento de reclusión u otras eventualidades públicas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 313.
+
+En el momento en que lo solicite, cualquier detenido, cualquiera que sea su situación jurídica, deberá ser reconocido por un perito médico legista y a falta de éste o si lo requiere, además, por un facultativo de su elección. El que haga el reconocimiento, queda obligado a expedir de inmediato el certificado correspondiente y en caso de apreciar que se ha infligido dolores o sufrimientos de los comprendidos en el primer párrafo del artículo 309, deberá comunicarlo de inmediato al Ministerio Público.
+
+La solicitud de reconocimiento médico, puede formularla el defensor del imputado o detenido, un tercero o la Comisión Estatal de Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 314.
+
+El responsable del delito previsto en el presente capítulo, estará obligado a cubrir los gastos médicos, de asesoría legal, funerarios, de rehabilitación o de cualquier otra índole, que hayan erogado la víctima o sus familiares, como consecuencia del delito. Asimismo, deberá de reparar el daño e indemnizar por los perjuicios causados a la víctima o a sus dependientes económicos, en los siguientes casos:
+
+I.- Pérdida de la vida;
+
+II.- Alteración de la salud;
+
+III.- Pérdida o restricción de la libertad;
+
+IV.- Pérdida de ingresos económicos;
+
+V.- Incapacidad Laboral;
+
+VI.- Pérdida o daño a la propiedad, y
+
+VII.- Menoscabo de la reputación.
+
+Para fijar los montos correspondientes, el juez tomará en cuenta la magnitud del daño causado.
+
+En los términos de la fracción IV del artículo 47 de este Código, el Estado o los Municipios en su caso, estarán obligados al pago de la reparación de daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 315.
+
+El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato al Ministerio Público, si no lo hiciere, se le impondrá de tres meses a tres años de prisión y de quince a sesenta días multa, sin perjuicio de lo que establezcan otras leyes.
+
 ## ARTÍCULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -2796,3 +2866,15 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 16 DE DICIEMBRE DE 1993
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+> <small>(F. DE E., P.O. 20 DE ENERO DE 1994)</small>
+
+###### ARTICULO SEGUNDO.
+
+Lo previsto en los artículos 29, fracción I, 119 y 121, en lo que se refiere al beneficio de libertad provisional bajo caución, iniciará su vigencia a partir del 3 de Septiembre de 1994.
