@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1993-07-16"
+last_updated: "1993-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1993.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -107,9 +107,7 @@ Los habitantes del Estado de Baja California tienen obligación de ejercer sus a
 
 ###### ARTICULO 17.
 
-Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la nulidad del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
-
-El derecho concedido en este artículo dura un año.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 1993)
 
 ###### ARTICULO 18.
 
@@ -10735,6 +10733,10 @@ La acción y la excepción de nulidad por falta de forma compete a todos los int
 
 La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)</small>
+
+ARTICULO 2104 BIS.- Cuando alguno, explotando la ignorancia, notoria inexperiencia, extrema miseria o apremiante necesidad de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que el por su parte se obliga, el perjudicado tiene derecho a pedir la nulidad del contrato y, de ser ello imposible, a la reducción equitativa de su obligación, mas el pago de los correspondientes daños y perjuicios. El término para ejercitar la acción dura un año a partir de la celebración del acto.
+
 ###### ARTICULO 2105.
 
 La nulidad de un acto jurídico por falta de forma establecida por la Ley, se extingue por la confirmación de ese acto hecho en la forma omitida.
@@ -15036,3 +15038,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE JULIO DE 1993.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
