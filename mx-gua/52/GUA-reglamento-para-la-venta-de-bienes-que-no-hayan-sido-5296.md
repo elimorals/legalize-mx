@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-venta-de-bienes-que-no-hayan-sido-5296"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-02-28"
-last_updated: "1995-02-28"
+last_updated: "1996-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA VENTA DE BIENES QUE NO HAYAN SIDO RECOGIDOS Y QUE ESTEN A DISPOSICION DE LOS JUZGADOS DE PRIMERA INSTANCIA MIXTOS Y PENALES, Y MENORES MIXTOS Y PENALES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1996.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 1995.
 
@@ -45,13 +45,17 @@ DEL PROCEDIMIENTO.
 
 3o.- Una vez que el Director Administrativo del Supremo Tribunal de Justicia, o quien haga sus veces, reciba comunicación en las condiciones señaladas en el numeral precedente de este reglamento, dispondrá que se determine el valor de venta de los bienes.
 
-4o.- Valuadas las cosas, se fijarán avisos durante un mes, de diez en diez días, en los tableros del juzgado, anunciándose que, al vencimiento de aquel plazo, se venderán los bienes si no se presentare el reclamante del mismo.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1996)</small>
+
+4o.- Valuados los objetos, se fijará un aviso en los tableros del juzgado anunciándose que, diez días naturales después, se venderán los bienes si no se presentare reclamante de los mismos.
 
 5o.- Si durante el plazo señalado en el artículo anterior, se presentare alguno reclamando la cosa y probare su derecho ante el Juez del conocimiento, éste ordenará que le sea entregada la cosa.
 
 6o.- Si el reclamante no acreditare su derecho o si nadie reclama la propiedad de la cosa, ésta se venderá.
 
-7o.- El producto de la venta de los bienes a que se refiere este reglamento, será depositado en la Oficina de Rentas correspondiente para darle el destino que proceda, de acuerdo con el convenio que al respecto existiere entre el Poder Ejecutivo y el Poder Judicial del Estado, de conformidad con el artículo segundo transitorio del Decreto número 318 publicado en el Periódico Oficial del Gobierno del Estado número 69 del treinta de agosto de mil novecientos noventa y cuatro.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1996)</small>
+
+7o.- Con el producto de la venta de los bienes a que se refiere este reglamento se constituirá el FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA, el cual será depositado en una cuenta bancaria productiva especial a nombre del Poder Judicial del Estado de Guanajuato.
 
 8o.- Las reglas anteriores serán aplicables, en lo pertinente, para la venta de los objetos a que se refiere el segundo párrafo del artículo 79 del Código Penal.
 
@@ -118,3 +122,11 @@ MAGISTRADO PROP. DE LA QUINTA SALA CIVIL.
 LIC. MARIO GUTIERREZ COVARRUBIAS
 
 MAGISTRADO PROP. DE LA SEXTA SALA CIVIL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DEL ACUERDO DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE AGOSTO DE 1996
+
+PRIMERO.- Estos reformas entrarán en vigor el cuarto día siguiente al de su publicación, de acuerdo con el artículo 61 de la Constitución Política del Estado de Guanajuato.
+
+SEGUNDO.- Remítase para su publicación en el Periódico Oficial del Gobierno del Estado, de acuerdo con lo dispuesto por el artículo 20 fracción X de la Ley Organica del Poder Judicial del Estado.
