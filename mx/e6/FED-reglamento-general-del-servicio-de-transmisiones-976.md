@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-del-servicio-de-transmisiones-976"
 country: "mx"
 rank: "reglamento"
 publication_date: "1961-07-28"
-last_updated: "1963-12-20"
+last_updated: "1993-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=976&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1961-07-17"
 
 REGLAMENTO GENERAL DEL SERVICIO DE TRANSMISIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 1993.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 28 de julio de 1961.
 
@@ -1167,161 +1167,93 @@ III.- Llevar un registro de las reparaciones del material de transmisiones efect
 
 ## TITULO QUINTO. DE LOS ORGANOS DE EDUCACION
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE ABRIL DE 1993)</small>
+
 ### CAPITULO I. De la Escuela Militar de Transmisiones
 
 ###### ARTICULO 102.
 
-La Escuela Militar de Transmisiones tiene por finalidad la formación de oficiales del Servicio de Transmisiones y la preparación técnica de los jefes y oficiales del propio Servicio.
-
-> <small>(F. DE E., D.O.F. 2 DE SEPTIEMBRE DE 1961)</small>
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 103.
 
-La Escuela Militar de Transmisiones dependerá de la Dirección General de Transmisiones en los aspectos administrativo y técnico y en los aspectos pedagógicos que no se atribuyan a la Dirección General de Educación Militar.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 104.
 
-La Escuela Militar de Transmisiones tendrá las siguientes Dependencias:
-
-I.- Dirección;
-
-II.- Jefatura de Estudios;
-
-III.- Ayudantía;
-
-IV.- Consejo Consultivo;
-
-V.- Personal en instrucción;
-
-VI.- Sección primera (control administrativo);
-
-VII.- Sección segunda (información y relaciones);
-
-VIII.- Sección tercera (control pedagógico); y
-
-IX.- Sección cuarta (control de material).
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 105.
 
-En la Escuela Militar de Transmisiones se impartirán los siguientes cursos:
-
-I.- De formación de oficiales;
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1963)</small>
-
-II.- De Mantenimiento de Transmisiones;
-
-III.- De capacitación; y
-
-IV.- De información.
-
-El Secretario de la Defensa Nacional está facultado para crear nuevos cursos o para suspender temporalmente alguno o algunos de los cursos que se imparten, cuando lo requieran las necesidades del Ejército y Fuerza Aérea.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1963)</small>
-
-El propio Secretario de la Defensa Nacional expedirá a los egresados el diploma o constancia correspondiente.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 106.
 
-Al curso de formación de oficiales podrán ingresar los sargentos primeros que habiendo terminado satisfactoriamente el curso respectivo en la Escuela Militar de Clases de Transmisiones, reúnan los requisitos establecidos en la convocatoria.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1963)</small>
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 107.
 
-Al Curso de Mantenimiento de Transmisiones podrán ingresar los Oficiales del Servicio que hayan terminado el curso de Formación de Oficiales en la propia escuela y reúnan, además, los requisitos establecidos en la convocatoria.
-
-> <small>(F. DE E., D.O.F. 2 DE SEPTIEMBRE DE 1961)</small>
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 108.
 
-Al curso de capacitación deberán ingresar los mayores y oficiales del Servicio de Transmisiones, que deban capacitarse para el empleo inmediato superior, de conformidad con lo dispuesto en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales en vigor.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 109.
 
-Al curso de información deberán ingresar los Generales, Jefes y Oficiales del servicio que determine la Dirección General de Transmisiones, para informarles de los adelantos logrados en la especialidad y de las modificaciones que al respecto se hayan efectuado.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 110.
 
-La duración de los cursos citados en el artículo 105 se fijará en los planes de estudio que autorice el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 111.
 
-El funcionamiento de la Escuela Militar de Transmisiones se regirá por las disposiciones de su Reglamento interior, aprobado por el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE ABRIL DE 1993)</small>
 
 ### CAPITULO II. De la Escuela Militar de Clases de Transmisiones
 
 ###### ARTICULO 112.
 
-La Escuela Militar de Clases de Transmisiones tiene por finalidad la formación de clases: operadores y especialistas del servicio.
-
-> <small>(F. DE E., D.O.F. 2 DE SEPTIEMBRE DE 1961)</small>
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 113.
 
-La Escuela Militar de Clases de Transmisiones dependerá de la Dirección General de Transmisiones en los aspectos administrativo y técnico, y en los aspectos pedagógicos que no se hayan atribuido a la Dirección General de Educación Militar.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 114.
 
-La Escuela Militar de Clases de Transmisiones tendrá las siguientes Dependencias:
-
-I.- Dirección;
-
-II.- Jefatura de Estudios;
-
-III.- Ayudantía;
-
-IV.- Consejo consultivo;
-
-V.- Personal en instrucción;
-
-VI.- Sección primera (control administrativo);
-
-VII.- Sección segunda (información y relaciones);
-
-VIII. Sección tercera (control pedagógico); y
-
-IX. Sección cuarta (control de material).
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 115.
 
-En la Escuela Militar de Clases de Transmisiones se impartirán los siguientes cursos:
-
-I.- De formación de cabos;
-
-II.- De formación de Sargentos Segundos;
-
-III.- De formación de Sargentos Primeros; y
-
-IV.- De especialización.
-
-El Secretario de la Defensa Nacional está facultado para crear nuevos cursos o para suspender temporalmente alguno o algunos de los cursos que se impartan, cuando lo requieran las necesidades del Ejército y Fuerza Aérea.
-
-El Director General del Servicio de Transmisiones expedirá a los egresados el diploma correspondiente.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 116.
 
-Al curso de formación de cabos podrán ingresar los soldados y los civiles que reúnan los requisitos establecidos en la convocatoria correspondiente.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 117.
 
-Al curso de formación de Sargentos Segundos podrán ingresar los Cabos que hayan terminado el curso citado en el artículo anterior y reúnan los requisitos establecidos en la convocatoria corespondiente (sic).
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 118.
 
-Al curso de formación de Sargentos Primeros podrán ingresar los Sargentos Segundos que hayan terminado el curso citado en el artículo anterior y reúnan los requisitos establecidos en la convocatoria correspondiente.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 119.
 
-A los cursos de especialización podrán ingresar los elementos de tropa del servicio y los civiles que reúnan los requisitos establecidos en la convocatoria correspondiente.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 120.
 
-La duración de los cursos citados en el artículo 115 se fijará en los planes de estudio que autorice el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ###### ARTICULO 121.
 
-El funcionamiento de la Escuela Militar de Clases de Transmisiones, se regirá por las disposiciones de su Reglamento Interior, aprobado por el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 13 DE ABRIL DE 1993)
 
 ### CAPITULO III. Del Centro de Adiestramiento de Perros de Transmisiones
 
@@ -1534,3 +1466,19 @@ D.O.F. 20 DE DICIEMBRE DE 1963.
 I.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
 II.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 13 DE ABRIL DE 1993.
+
+REGLAMENTO DE LA ESCUELA MILITAR DE CLASES DE TRANSMISIONES POR EL QUE, SE DEROGAN EL CAPITULO II DEL TITULO QUINTO QUE COMPRENDE LOS ARTICULOS 112 AL 121 DEL REGLAMENTO GENERAL DEL SERVICIO DE TRANSMISIONES.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario oficial de la Federación.
+
+SEGUNDO.- Se derogan el Capítulo I del Título Quinto que comprende los artículos 112 al 121 inclusive del Reglamento General del Servicio de Transmisiones, publicado en el Diario Oficial de la Federación de 28 de julio de 1968 y todas las demás disposiciones que se opongan al presente ordenamiento.
+
+D.O.F. 13 DE ABRIL DE 1993.
+
+REGLAMENTO DE LA ESCUELA MILITAR DE TRANSMISIONES POR EL QUE, SE DEROGAN EL CAPITULO I DEL TITULO QUINTO QUE COMPRENDE LOS ARTICULOS 102 AL 111 DEL REGLAMENTO GENERAL DEL SERVICIO DE TRANSMISIONES.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan el Capítulo II del Título Quinto que comprende los artículos 102 al 121 inclusive del Reglamento General del Servicio de Transmisiones, publicado en el Diario Oficial de la Federación de 28 de julio de 1961 y todas las demás disposiciones que se opongan al presente ordenamiento.
