@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "2001-04-19"
+last_updated: "2003-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2003.
 
 Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
@@ -505,23 +505,25 @@ Si el reconocimiento se hiciere en oficina distinta a aquella en la que se levan
 
 Dictada la resolución judicial definitiva que autorice la adopción, el Juez, dentro del término de ocho días, remitirá copia certificada de las diligencias al Juez del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2003)</small>
+
+La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 81.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 84.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+En los casos de adopción, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 85.
 
-(sic) El acta de adopción contendrán los nombres, apellidos, edad, nacionalidad y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
-
-###### Artículo 85.
-
-El acta de nacimiento del adoptado se anotará al margen haciendo relación al acta de adopción, y se archivará la copia de las diligencias relativas, marcándola con el mismo número del acta de adopción.
+En caso de adopción, a partir del levantamiento del acta, se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio.
 
 ###### Artículo 86.
 
-Cuando se declare que una adopción ha quedado sin efecto, el juez o tribunal que así lo resuelva, remitirá copia certificada de su resolución, dentro de los quince días siguientes, al Juez del Estado Civil, para que este funcionario cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO, P.O. 7 DE ABRIL DE 2003)
 
 ### CAPITULO V. De las actas de tutela
 
@@ -921,6 +923,10 @@ X. El idiotismo y la imbecilidad;
 
 XI. El matrimonio subsistente con persona distinta de aquélla con quien se pretende contraer.
 
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2003)</small>
+
+XII. El parentesco civil extendido hasta los descendientes del adoptado, en los términos señalados por el artículo 359.
+
 De estos impedimentos sólo se pueden dispensar la falta de edad y el parentesco de consanguinidad en la línea colateral desigual.
 
 ###### Artículo 139.
@@ -1188,6 +1194,8 @@ Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo 
 Estas donaciones no se anularán por la supervivencia de hijos, pero se deducirán (sic) cuando sean inoficiosas, en los mismos términos que las comunes.
 
 ### CAPITULO I. Del parentesco
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 194.
 
@@ -1557,19 +1565,27 @@ El juez de Primera Instancia que haya conocido del divorcio, remitirá copia de 
 
 ###### Artículo 250.
 
-La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civil o de adopción.
+La Ley no reconoce más parentesco que los de consanguinidad, afinidad y el civil.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 251.
 
-Parentesco de consanguinidad es el que existe entre personas que descienden de una misma raíz o tronco.
+El parentesco de consanguinidad es el vínculo entre personas que descienden de un tronco común.
+
+También se da parentesco por consanguinidad, en el hijo producto de reproducción asistida y de quienes la consientan.
+
+En el caso de la adopción, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
 ###### Artículo 252.
 
 Afinidad es el parentesco que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+
 ###### Artículo 253.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción, en los términos del artículo 359.
 
 ###### Artículo 254.
 
@@ -1711,7 +1727,7 @@ La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, po
 
 ### CAPITULO V. De la adopción
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 282.
 
@@ -2055,29 +2071,47 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO I. Disposiciones generales
 
-#### SECCION PRIMERA. De las asociaciones
+#### SECCION PRIMERA. Disposiciones Generales
+
+(REFORMADO, P.O. 22 DE MARZO DE 1971) (REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
 ###### Artículo 345.
 
 El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
 
-I. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
+
+I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
 
 II. Que la adopción es benéfica para la persona que trata de adoptarse; y
 
-III. Que el adoptante es persona de buenas costumbres.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2003)</small>
 
-Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
+III. Que el adoptante acredite su aptitud física y psicológica;
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2003)</small>
+
+Los anteriores requisitos serán acreditados por constancias periciales emitidas por instituciones públicas, privadas o por el Consejo Técnico de Adopción.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 346.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
+Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de ellos cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años de edad cuando menos. Se deberá acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
+
+En igualdad de condiciones, se preferirá al que haya acogido al menor que se pretenda adoptar.
+
+(REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
 ###### Artículo 347.
 
 Salvo el caso del artículo anterior nadie puede ser adoptado por más de una persona.
+
+(REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
 ###### Artículo 348.
 
@@ -2085,9 +2119,9 @@ El tutor sólo puede adoptar a su pupilo, después que hayan sido debidamente ap
 
 ###### Artículo 349.
 
-El menor o incapacitado que hayan sido adoptados tendrán derecho de impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+(REFORMADO, P.O. 22 DE MARZO DE 1971) (REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
 ###### Artículo 350.
 
@@ -2095,95 +2129,121 @@ El adoptante tendrá los mismos derechos y obligaciones que tienen los padres re
 
 A su vez el adoptado tendrá con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
-El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+
+El adoptante dará nombre y sus apellidos al adoptado, salvo que, por circunstancias específicas, no se estime conveniente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 351.
 
-Para que la adopción pueda verificarse deberán consentir en ella, en sus respectivos casos:
+Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
 
-I. El que tiene la patria potestad sobre el menor que va a ser adoptado;
+I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
 
-II. El tutor del adoptado;
+II. El tutor del que se va a adoptar;
 
-III. Las personas que hayan acogido al que se pretende adoptar y lo traten como hijo, cuando no hubiere quien ejerza la patria potestad sobre él, ni tenga tutor;
+III. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor;
 
-IV. El Ministerio Público del lugar del domicilio del adoptado, cuando no exista ninguna de las personas a que se refieren las tres fracciones anteriores.
+IV. El menor si tiene más de doce años; y,
 
-Si el adoptado es mayor de catorce años también se necesitará su consentimiento.
+V. El Consejo Técnico de Adopción, del Sistema para el Desarrollo Integral de la Familia, y en su caso, las instituciones de asistencia social públicas o privadas que hubieren acogido al menor o incapacitado que se pretenda adoptar.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+En todos los asuntos de adopción serán escuchados los menores atendiendo a su edad y grado de madurez.
+
+En el caso de las personas incapacitadas, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+
+La persona que haya acogido al menor dentro de los seis meses anteriores a la solicitud de su adopción y lo trate como a un hijo, podrá oponerse a la adopción, debiendo exponer los motivos en que se funde su oposición.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 352.
 
-Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta los intereses del menor o incapacitado.
+Si el tutor, el Ministerio Público o el Consejo Técnico de Adopción no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta el interés superior del menor o incapacitado.
+
+(REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
 ###### Artículo 353.
 
 El procedimiento de la adopción será fijado en el Código de Procedimientos Civiles.
 
+(REUBICADO, P.O. 7 DE ABRIL DE 2003)
+
 ###### Artículo 354.
 
 Una vez que cause ejecutoria la resolución judicial que autorice una adopción, ésta quedará consumada.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
+
 ###### Artículo 355.
 
-El Juez que autorice una adopción enviará al Juez del Estado Civil copia certificada de las diligencias respectivas, para que levante el acta que corresponda.
+El Juez que autorice una adopción enviará al Juez del Registro Civil del lugar, copia certificada de las diligencias respectivas, para que levante el acta.
 
-#### SECCION SEGUNDA. De las sociedades
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2003)</small>
+
+#### SECCION SEGUNDA. De los efectos de la adopción
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 356.
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, en lo que se estará a lo dispuesto en el artículo 139.
+La adopción es irrevocable.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1971)</small>
+El adoptado se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimientos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 357.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+La adopción extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de estos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 358.
 
-Aunque el adoptante tenga hijos después de la adopción, ésta producirá sus efectos.
+El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
+
+I. Para efectos de impedimento para contraer matrimonio; y,
+
+II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 359.
 
-La adopción puede revocarse:
+Para el caso de las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz que se adopte, los derehcos y obligaciones que nazcan de la misma, se limitarán al adoptante y adoptado.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2003)</small>
 
-I. Cuando las dos partes convengan en ello siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 351, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público;
+#### SECCION TERCERA. De la adopción internacional
 
-II. Por ingratitud del adoptado.
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 360.
 
-El adoptado es ingrato para los efectos del artículo anterior:
+La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional, y tiene como objeto incorporar, en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales celebrados y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
+Las adopciones internacionales siempre serán plenas.
 
-I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante de su cónyuge, de sus ascendientes o descendientes;
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1971)</small>
-
-II. Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III. Si el adoptante ha caído en pobreza y el adoptado rehusara darle alimentos.
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)</small>
 
 ###### Artículo 361.
 
-En el primer caso del artículo 359 si el juez se convence de la espontaneidad con que se solicitó la revocación y cree que ésta es conveniente para los intereses morales y materiales del adoptado, decretará la revocación de la adopción.
+En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
 
 ###### Artículo 362.
 
-El efecto de revocar una adopción es restituir las cosas al estado que guardaban antes de efectuarse ésta, quedando ella sin efecto.
+(DEROGADO Y REUBICADO, P.O 7 DE ABRIL DE 2003)
 
 ###### Artículo 363.
 
-Cuando la adopción se revoca por ingratitud del adoptado deja de producir sus efectos desde el día en que se produjo el acto de ingratitud, aunque la resolución judicial que revoque la adopción sea posterior.
+(DEROGADO Y REUBICADO, P.O. 7 DE ABRIL DE 2003)
 
 ###### Artículo 364.
 
-Las resoluciones judiciales que decreten la revocación se comunicarán al Juez del Estado Civil del lugar en que se hizo la adopción, para que cancele ésta.
+(DEROGADO Y REUBICADO, P.O 7 DE ABRIL DE 2003)
 
 ## TITULO NOVENO. De la tutela
 
@@ -2265,9 +2325,11 @@ El que está sujeto a la patria potestad no tiene capacidad para comparecer en j
 
 Los que ejerzan la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2003)</small>
+
 ###### Artículo 378.
 
-Si la patria potestad se ejerce a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su cónyuge y obtendrá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo, pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 ###### Artículo 379.
 
@@ -12705,6 +12767,8 @@ TITULO DECIMOPRIMERO
 
 De las asociaciones y de las sociedades
 
+#### SECCION PRIMERA. De las asociaciones
+
 ###### Artículo 2524.
 
 Cuando varios individuos convinieren en reunirse de manera que no sea enteramente transitoria, para realizar un fin común que no esté prohibido por la ley, constituyen una asociación.
@@ -12796,6 +12860,8 @@ En caso de disolución, los bienes de la asociación se aplicarán conforme a lo
 ###### Artículo 2541.
 
 Las asociaciones de beneficencia se regirán por las leyes especiales correspondientes.
+
+#### SECCION SEGUNDA. De las sociedades
 
 ### CAPITULO V. De la liquidación de la sociedad
 
@@ -14830,3 +14896,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposciones que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 2003.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- En las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, seguirán aplicándose las disposiciones vigentes hasta antes de la publicación del presente decreto.
+
+Artículo Tercero.- Los procedimientos que sobre adopción se encuentren en trámite a la fecha de entrada en vigor del presente decreto, se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente decreto.
+
+Artículo Cuarto.- Las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, podrán convertirse en plenas, siguiendo el procedimiento establecido por este decreto.
+
+Artículo Quinto.- El Sistema para el Desarrollo Integral de la Familia Michoacana, expedirá el Reglamento Interno del Consejo Técnico de Adopción, en un término que no excederá de treinta días contados a partir de la entrada en vigor del presente decreto.
