@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1996-04-30"
+last_updated: "1996-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -768,6 +768,10 @@ IX.- Invertir en títulos representativos del capital social de entidades financ
 
 X.- Emitir obligaciones subordinadas de conversión obligatoria a títulos representativos de su capital social, computables dentro de su capital global, quedando sujeta la emisión de dichas obligaciones a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito.
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 1996)</small>
+
+X Bis.- Invertir en el capital de administradoras de fondos para el retiro y sociedades de inversión especializadas de fondos para el retiro, en los términos de la legislación aplicable, y
+
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
 XI.- Las análogas o complementarias de las anteriores, que les sean autorizadas por la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional de Valores, mediante disposiciones de carácter general que podrán referirse a determinados tipos de operaciones.
@@ -831,6 +835,10 @@ III.- Denegar sus servicios respecto de los valores que manejen con tal carácte
 Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para que las casas de bolsa y especialistas bursátiles inviertan, directa o indirectamente, en títulos representativos del capital social de entidades financieras del exterior. Para otorgar esta autorización, la citada Secretaría oirá la opinión de la Comisión Nacional de Valores y del Banco de México.
 
 Cuando alguna casa de bolsa o especialista bursátil sea propietario, directa o indirectamente, de acciones con derecho a voto de entidades financieras del exterior, que representen por lo menos el 51% del capital pagado, tenga el control de las asambleas generales de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o sus equivalentes, o por cualquier otro medio controle a las mencionadas entidades, la casa de bolsa o especialista bursátil correspondiente deberá proveer lo necesario para que la entidad financiera de que se trate realice sus operaciones sujetándose a la legislación extranjera que le sea aplicable y, en su caso, a las disposiciones que al efecto determinen las autoridades financieras mexicanas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
+Las casas de bolsa podrán invertir en el capital de las administradoras de fondos para el retiro y en el de las sociedades de inversión especializadas de fondos para el retiro, en los términos de la legislación aplicable, previa autorización de la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -1810,7 +1818,7 @@ En el ejercicio de sus facultades de inspección y vigilancia, la citada Comisi�
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
-I.- Autorizar el catálogo de cuentas, así como dictar normas de agrupación de cuentas y de registro de operaciones, siendo aplicables a tales instituciones para el depósito de valores, las disposiciones establecidas por los artículos 26 Bis a 26 Bis 6, así como las fracciones I, II y V del artículo 26 Bis 7 de esta Ley.
+I.- Autorizar el catálogo de cuentas, así como dictar normas de agrupación de cuentas y de registro de operaciones, siendo aplicables a tales instituciones para el depósito de valores, las disposiciones establecidas por los artículos 26 Bis a 26 Bis 6, así como las fracciones I, II y V del artículo 26 Bis 7 de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -2432,7 +2440,7 @@ Los reportos sobre valores que celebren las casas de bolsa se sujetarán a las d
 
 I.- Se formalizarán, al igual que sus prórrogas, de la manera que, mediante reglas de carácter general, determine el Banco de México.
 
-II.- Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente;
+II.- Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente.
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -3047,3 +3055,15 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, . . .
+
+###### ARTICULO NOVENO.
+
+Los trabajadores que optaren por pensionarse conforme al régimen establecido en la Ley del Seguro Social vigente hasta el 31 de diciembre de 1996, tendrán el derecho a retirar en una sola exhibición los recursos que se hayan acumulado hasta esa fecha en las subcuentas del seguro de retiro y del Fondo Nacional de la Vivienda, incluyendo los rendimientos que se hayan generado.
