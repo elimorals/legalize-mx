@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-comision-estatal-de-derechos-6482"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-08"
-last_updated: "1993-10-08"
+last_updated: "1996-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1996.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de octubre de 1993.
 
@@ -599,21 +599,25 @@ La falta de colaboración de las autoridades a las labores de la Comisión podr�
 
 Cuando a juicio del Presidente de la Comisión o del Consejo, el acto u omisión en que haya incurrido la autoridad responsable pueda ser considerado como delito, según la ley penal aplicable, se presentará la denuncia correspondiente ante el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 77.
 
-Se requerirá por una sola ocasión a la autoridad a la que se le corrió traslado de la queja para que rinda el informe y/o envíe la documentación solicitada. El lapso que deberá correr entre los dos requerimientos será de cinco día (sic) contados a éstos a partir del vencimiento del plazo para proporcionar la información documentación prevista en el primer requerimiento.
+Se requerirá por una sola ocasión a la autoridad a la que se le corrió traslado de la queja para que rinda el informe y/o envíe la documentación solicitada.
+
+El lapso que mediará entre la solicitud primigenia y el único requerimiento será de dos días contados a partir del vencimiento del plazo para proporcionar la información y/o remitir la documentación.
 
 Si del resultado de la investigación se acredita la violación de derechos humanos, la consecuencia será una recomendación en la que se precise la falta de rendición del informe y/o envío de la documentación respectiva a cargo de la autoridad. En estos casos no habrá posibilidad de una conciliación. El envío de la recomendación no impedirá que la Comisión pueda solicitar la aplicación de las responsabilidades administrativas o penales correspondientes en contra del servidor público.
 
-De no recibir respuesta, el Visitador General acudirá a la oficina de la autoridad para hacer la investigación respectiva, en los términos del artículo anterior.
+Si al concluir la investigación no se acredita la violación de derechos humanos, se hará del conocimiento del quejoso y, en su caso, se le dará la orientación que se considere necesaria.
 
-Si del resultado de la Investigación se acredita la violación de derechos humanos, consecuencia será una recomendación en la que se precise la falta de rendición d informe a cargo de la autoridad. En estos casos no habrá posibilidad de amigab (sic) composición. El envío de la recomendación no impedirá que la Comisión pueda solicitar, la aplicación de las responsabilidades administrativas o penales correspondientes contra del servidor público.
+En esta específica situación no habrá lugar a elaborar acuerdo de no responsabilidad a la autoridad.
 
-Si al concluir la investigación no se acredita la violación de derechos humanos, se hará del conocimiento del quejoso y, en su caso, se le dará la orientación que se considere necesaria. En esta específica situación no habrá lugar a elaborar acuerdo de responsabilidad a la autoridad.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1996)</small>
 
 ###### ARTICULO 78.
 
-Cuando una autoridad o servidor público estatal dejen de dar respuesta a los requerimientos de información de la Comisión en más de dos ocasiones diferentes, la Comisión recomendará al superior jerárquico del funcionario moroso que le imponga una sanción proporcional a la gravedad de su omisión, que propondrá la propia Comisión.
+Cuando una autoridad o servidor público estatal no dé respuesta a la solicitud y al único requerimiento de información y/o envío de documentación que esta Comisión le haga relacionados con la investigación respectiva, la misma recomendará el superior jerárquico del servidor público contumaz le imponga una sanción proporcional a la gravedad de la omisión, de conformidad con lo prevenido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
 
 ###### ARTICULO 79.
 
@@ -639,9 +643,11 @@ En el desempeño de sus funciones, los integrantes de la Comisión estarán obli
 
 En caso de que algún integrante de la Comisión hiciere uso indebido de la credencial o de sus funciones, quedará sujeto a responsabilidad administrativa y, en su caso, penal. Para tal efecto, el Presidente de la Comisión, luego de escuchar al implicado, podrá imponer la sanción que corresponda o presentar la denuncia ante el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1996)</small>
+
 ###### ARTICULO 84.
 
-El plazo máximo para que la Comisión concluya con la investigación y emita la resolución de recomendación o de acuerdo de no responsabilidad en los casos que se le presenten, será de seis meses contados a partir del día en que la queja o denuncia hayan sido presentadas.
+El plazo máximo para que la Comisión concluya con la investigación y emita la resolución de recomendación o de acuerdo de no responsabilidad en los casos que se le presenten, será de 6 meses contados a partir del día de que la queja o denuncia hayan sido presentados; transcurrido dicho plazo sin que se haya resuelto la indagatoria correspondiente, el quejoso o agraviado por sí o legítimo representante podrá interponer el recurso que corresponda ante la Comisión Nacional de Derechos Humanos.
 
 ### CAPITULO IV. DE LA CONCILIACION
 
@@ -888,3 +894,11 @@ CONSEJERO
 Jesus Zazueta Sanchez
 
 CONSEJERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE ABRIL DE 1996.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas surtirán sus efectos, a partir del día siguiente de la fecha de su publicación en el Periódico Oficial El Estado de Sinaloa.
