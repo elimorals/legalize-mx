@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2000-12-15"
+last_updated: "2003-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -77,7 +77,19 @@ El Gobernador del Estado para auxiliarse en el desempeño de sus funciones, tend
 
 En los acuerdos relativos, se señalarán las obligaciones y atribuciones de las unidades auxiliares que se creen.
 
-El Gobernador del Estado podrá suprimir o fusionar las unidades auxiliares a que se refiere este Artículo, respetando los derechos laborales de los servidores públicos.
+El Gobernador del Estado podrá suprimir o fusionar las unidades auxiliares a que se refiere este artículo, respetando los derechos laborales de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+El Gobernador del Estado contará con una Unidad de Planeación e Inversión Estratégica, a la que corresponderá ejercer las atribuciones en materia de planeación y evaluación del desarrollo, así como de inversión estratégica, y generar las políticas de población en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+La representación del Titular del Poder Ejecutivo del Estado en todos los juicios en que éste intervenga con cualquier carácter estará a cargo de quienes integren la Coordinación General Jurídica, la cual será además la encargada de someter a consideración del Gobernador del Estado los diversos instrumentos de carácter jurídico que sean de la competencia del mismo, así como coordinar a las dependencias y entidades del Poder Ejecutivo en materia jurídica.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+En los decretos relativos se señalará la organización y funcionamiento de las unidades administrativas a que se refieren los dos párrafos anteriores.
 
 ###### Artículo 6o.
 
@@ -139,13 +151,15 @@ VIII.- La Secretaría de Obra Pública;
 
 IX.- La Secretaría de Seguridad Pública;
 
-X.- La Secretaría de la Contraloría; y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+X.- La Secretaría de Gestión Pública; y
 
 XI.- La Procuraduría General de Justicia.
 
 ###### Artículo 14.
 
-Las Secretarías a que se refiere el Artículo anterior dependerán directamente del Gobernador del Estado y tendrán entre ellas igual jerarquía.
+Las Secretarías a que se refiere el artículo anterior dependerán directamente del Gobernador del Estado y tendrán entre ellas igual jerarquía.
 
 La Procuraduría General de Justicia estará sujeta a su propio régimen jurídico.
 
@@ -203,9 +217,11 @@ III.- Elaborar y difundir los manuales de organización, de procedimientos y de 
 
 ### CAPÍTULO SEGUNDO. ATRIBUCIONES DE LAS DEPENDENCIAS DEL PODER EJECUTIVO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 23.
 
-La Secretaría de Gobierno es la dependencia encargada de colaborar con el Gobernador en la conducción de la política interna del Estado; asimismo, tendrá el carácter de Consejería Legal del Poder Ejecutivo, y le competen las siguientes atribuciones:
+La Secretaría de Gobierno es la dependencia encargada de colaborar con el Gobernador en la conducción de la política interna del Estado y le competen las siguientes atribuciones:
 
 I.- En materia de gobierno y régimen interior:
 
@@ -235,11 +251,13 @@ l) Organizar y controlar lo concerniente al Registro Civil, así como al Registr
 
 m) Solicitar a la Secretaría de Seguridad Pública el apoyo de las fuerzas de seguridad pública, cuando lo considere necesario para el cumplimiento de sus atribuciones;
 
-II.- En materia de asesoría jurídica:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-a) Asesorar en los asuntos de carácter jurídico que atañen al Poder Ejecutivo del Estado, así como revisar y sugerir modificaciones a los proyectos de leyes o reglamentos respectivos;
+II.- En materia jurídica:
 
-b) Representar jurídicamente al Gobernador del Estado en los litigios en que sea parte el Poder Ejecutivo;
+a) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
+
+b) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 c) Coadyuvar con el Poder Legislativo en la compilación de la legislación vigente;
 
@@ -247,15 +265,15 @@ d) Tramitar los expedientes, y en su caso, resolver el recurso de revocación, r
 
 e) Ejecutar los acuerdos y declaratorias que emita el Gobernador del Estado, en los casos a que se refiere el inciso anterior;
 
-f) Tramitar los recursos administrativos que competa resolver al Gobernador del Estado;
+f) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 g) Tramitar las solicitudes de indulto que le sean presentadas al Gobernador del Estado;
 
 h) Diseñar e instrumentar una política de apoyo jurídico y de respeto a los derechos humanos de los trabajadores migrantes guanajuatenses y sus familias;
 
-i) Revisar los proyectos de reglamentos interiores de las demás Secretarías y presentarlos al Gobernador del Estado para su aprobación y publicación;
+i) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
-j) Coordinar los programas de normatividad jurídica de la Administración Pública Estatal y procurar la congruencia de criterios jurídicos entre las dependencias y entidades;
+j) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 k) Participar con las demás dependencias del Poder Ejecutivo competentes en la simplificación del ordenamiento jurídico y administrativo;
 
@@ -285,15 +303,15 @@ h) Publicar en el Periódico Oficial del Gobierno del Estado los actos y resoluc
 
 i) Administrar el Archivo General del Estado;
 
-j) Realizar en coordinación con la Secretaría de Desarrollo Social y Humano y con los municipios, los estudios para la planeación del servicio público de transporte de pasajeros y de carga en el Estado, y elaborar las políticas y estrategias en la materia, de acuerdo a las leyes aplicables;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-k) Examinar las solicitudes de las concesiones para la prestación del servicio público de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal y otorgarlas, previo acuerdo del Gobernador del Estado;
+j) Realizar en coordinación con los municipios, los estudios para la planeación del servicio público de transporte de pasajeros y de carga en el Estado, y elaborar las políticas y estrategias en la materia, de acuerdo a las leyes aplicables;
 
-l) Vigilar la prestación del servicio público de transporte;
+k) Vigilar la prestación del servicio público de transporte;
 
-m) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de las radiodifusoras y televisoras pertenecientes al Poder Ejecutivo del Estado;
+l) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de las radiodifusoras y televisoras pertenecientes al Poder Ejecutivo del Estado;
 
-n) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
+m) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
 
 V.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -307,7 +325,9 @@ a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado
 
 b) Formular y presentar al Gobernador del Estado los proyectos de iniciativas de la Ley Anual de Ingresos, del Presupuesto General de Egresos y el Programa General del Gasto Público, haciéndolos previamente compatibles con la disponibilidad de recursos;
 
-c) Establecer el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades en la integración de sus programas específicos de conformidad con la Ley de la materia;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+c) Establecer conjuntamente con la Unidad de Planeación e Inversión Estratégica, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades en la integración de sus programas específicos de conformidad con la Ley de la materia;
 
 d) Establecer los sistemas que permitan una mayor racionalidad en el aprovechamiento de los recursos financieros;
 
@@ -315,9 +335,13 @@ e) Establecer y normar los sistemas de contabilidad gubernamental;
 
 f) Organizar y llevar la contabilidad de la hacienda pública estatal;
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 g) Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Secretaría de la Contraloría las observaciones de glosa que finque el Congreso del Estado a través de su órgano técnico de fiscalización;
 
-h) Proponer al Gobernador del Estado la cancelación de créditos incobrables a favor del Estado, informando a la Secretaría de la Contraloría y al Congreso del Estado;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+h) Proponer al Gobernador del Estado la cancelación de créditos incobrables a favor del Estado, informando a la Secretaría de la Gestión Pública y al Congreso del Estado;
 
 i) Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
 
@@ -395,7 +419,9 @@ VI.- En materia de información:
 
 a) Fijar los lineamientos e integrar la documentación que sirvan de base para la elaboración del informe anual que debe rendir el Gobernador ante el Congreso del Estado, en coordinación con las demás dependencias y entidades del Poder Ejecutivo y, en particular, con el despacho del Gobernador del Estado;
 
-b) Normar y coordinar con la Secretaría de la Contraloría los servicios de informática de la Administración Pública;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+b) Normar y coordinar con la Secretaría de la Gestión Pública los servicios de informática de la Administración Pública;
 
 c) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura de informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
 
@@ -469,11 +495,11 @@ e) Promover y convenir proyectos productivos y otras acciones para el desarrollo
 
 f) Convenir con los municipios la elaboración, ejecución, registro y evaluación de los programas de inversión en materia de desarrollo social y humano, así como los de combate a la pobreza;
 
-g) Proponer al Gobernador del Estado las fórmulas que no estén establecidas en otras leyes, de distribución de los recursos estatales y federales de los fondos de transferencia a los municipios, así como los recursos de los programas especiales de desarrollo social previstos en el Presupuesto General de Egresos del Estado;
+g) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
-h) Evaluar y en su caso, realizar las transferencias de fondos a favor del Estado y de los municipios, y de los sectores social y privado que se deriven de las acciones e inversiones en los términos del inciso anterior y de conformidad a lo señalado por las leyes de la materia;
+h) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
-i) Fomentar mecanismos de financiamiento para el desarrollo social, con la participación de las demás dependencias y entidades del Poder Ejecutivo del Estado, de las autoridades municipales, de las instituciones de crédito y de financiamiento del desarrollo y de los diversos sectores de la sociedad;
+i) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 j) Promover y coordinar con las universidades e instituciones de educación media y superior o con los organismos que las agrupen legalmente, así como con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general;
 
@@ -481,39 +507,19 @@ k) Coordinar y vincular los programas de gobierno y sociedad civil para la inclu
 
 l) Crear los mecanismos que capten fuentes alternas para la inversión social;
 
-II.- En materia de planeación:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-a) Coordinar la elaboración, ejecución y evaluación del Plan de Gobierno;
+II.- En materia de atención a migrantes:
 
-b) Representar al Poder Ejecutivo del Estado ante la Comisión de Planeación del Desarrollo para el Estado de Guanajuato y participar en éste según los términos que establezca el Decreto correspondiente;
+a) Establecer estrategias integrales que permitan enfrentar los retos que presenta la migración de los guanajuatenses;
 
-c) Conducir con las autoridades federales, estatales y municipales, la formulación, ejecución y evaluación de los planes y programas estatales, regionales y sectoriales del desarrollo integral, así como los proyectos específicos que fije el Gobernador del Estado, promoviendo la participación de los sectores social y privado;
+b) Fortalecer la vinculación intergubernamental y potenciar las acciones a favor de los migrantes; y
 
-d) Fortalecer la capacidad institucional de los municipios en materia de planeación e inversión del desarrollo;
+c) Promover y difundir, a través de las autoridades competentes, programas de atención a familias migrantes en las comunidades guanajuatenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes.
 
-e) Someter a aprobación del Gobernador del Estado los programas de inversión de las dependencias y entidades del Poder Ejecutivo;
+III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
-f) Coordinar la elaboración de la propuesta de inversión contenida en los programas operativos anuales del Poder Ejecutivo del Estado;
-
-III.- En materia de población:
-
-a) Formular y conducir los programas de población en coordinación con las autoridades federales, estatales y municipales que correspondan;
-
-IV.- En materia de ordenamiento territorial:
-
-a) Formular, conducir y evaluar la política estatal de asentamientos humanos, desarrollo urbano y vivienda, por ser factores clave del desarrollo social;
-
-b) Coordinar, en los términos de la Ley de la materia, la distribución y ordenamiento territorial de los asentamientos humanos y de los centros de población del Estado, conjuntamente con las dependencias y entidades estatales y municipales que correspondan y con la participación de los sectores social y privado;
-
-c) Prever las necesidades de suelo apto para el desarrollo urbano y vivienda en el Estado, y regular los mecanismos para satisfacer dichas necesidades;
-
-d) Elaborar, apoyar y ejecutar programas que satisfagan las necesidades de suelo para el desarrollo urbano y la vivienda, así como el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades estatales que el Poder Ejecutivo convenga, con las autoridades municipales y con la participación de los sectores social y privado;
-
-e) Coordinar la elaboración, revisión y ejecución del Plan de Ordenamiento Territorial;
-
-f) Vigilar el cumplimiento y aplicación de las disposiciones legales que correspondan en materia de desarrollo urbano y asentamientos humanos;
-
-g) Proporcionar asesoría a los ayuntamientos cuando lo soliciten, en materia de desarrollo urbano, zonificación y uso del suelo;
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
 V.- En materia de equipamiento urbano y vivienda:
 
@@ -523,9 +529,19 @@ b) Impulsar en corresponsabilidad con los ayuntamientos, el desarrollo integral 
 
 c) Coordinar con los organismos auxiliares, dependencias estatales, autoridades federales y municipales que correspondan, la formulación y operación de los planes y programas específicos para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado;
 
-VI.- En materia de información estadística y geográfica:
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-a) Coordinar y actualizar los servicios estatales de estadística y de información geográfica; y
+d) Formular, conducir y evaluar la política estatal de desarrollo urbano y vivienda, por ser factores clave del desarrollo social;
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+e) Elaborar y apoyar programas que satisfagan las necesidades de suelo para el desarrollo urbano y la vivienda, así como el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades estatales que el Poder Ejecutivo convenga, con las autoridades municipales y con la participación de los sectores social y privado;
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+f) Procurar el cumplimiento y aplicación de las disposiciones legales que correspondan en materia de desarrollo urbano y asentamientos humanos.
+
+VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
 VII.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -537,7 +553,7 @@ I.- En materia de salud:
 
 a) Ejecutar, conducir y evaluar las políticas y programas en materia de salud y asistencia social de conformidad con las disposiciones jurídicas aplicables;
 
-b) Garantizar en el ámbito de su competencia, el derecho a la protección de la salud en los términos que consagra el Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias;
+b) Garantizar en el ámbito de su competencia, el derecho a la protección de la salud en los términos que consagra el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias;
 
 c) Prestar servicios de atención integral a la salud individual, familiar y comunitaria, en sus aspectos preventivos, de asistencia médica y de rehabilitación;
 
@@ -575,7 +591,9 @@ b) Ejercer la vigilancia sanitaria en los organismos operadores o dependencias o
 
 V.- En materia de infraestructura:
 
-a) Coordinar conjuntamente con las Secretarías de Obra Pública y de Desarrollo Social y Humano, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud, y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de construcción, conservación y mantenimiento de obras de las unidades de salud.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+a) Coordinar conjuntamente con la Unidad de Planeación e Inversión Estratégica, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud, y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de construcción, conservación y mantenimiento de obras de las unidades de salud.
 
 VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -619,7 +637,9 @@ o) Fomentar el mantenimiento y mejora de las fuentes de empleo, mediante capacit
 
 p) Promover la creación de organismos que se encarguen de difundir la cultura de calidad y competitividad de las empresas;
 
-q) Convenir con las Secretarías de Salud, Desarrollo Agropecuario, Obra Pública y Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva; y
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+q) Convenir con las Secretarías de Salud, Desarrollo Agropecuario, Obra Pública y de Educación, y la Unidad de Planeación e Inversión Estratégica, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva; y
 
 r) Promover la vinculación del sector productivo con las instituciones educativas del nivel superior, en coordinación con la Secretaría de Educación;
 
@@ -675,13 +695,15 @@ XIV.- Promover la educación y la capacitación campesina a fin de implementar t
 
 XV.- Organizar y promover congresos, seminarios y otros eventos en materia agropecuaria, agua para uso agrícola, acuacultura, pesca y desarrollo rural, así como la celebración de exposiciones y ferias relacionadas con dichos sectores; y
 
-XVI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+XV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 30.
 
 La Secretaría de Obra Pública es la dependencia encargada de la planeación, programación, presupuestación, contratación, adjudicación y ejecución de la obra pública estatal, y le competen las siguientes atribuciones:
 
-I.- Coordinar la elaboración del Programa de Obra Pública del Gobierno del Estado formulando sus estudios, proyectos y presupuestos;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+I.- Coordinar conjuntamente con la Unidad de Planeación e Inversión Estratégica, la elaboración del Programa de Obra Pública del Gobierno del Estado formulando sus estudios, proyectos y presupuestos;
 
 II.- Establecer y expedir las bases y normas a las que deben sujetarse los concursos para la ejecución de las obras que realice el Poder Ejecutivo del Estado, señalando las adjudicaciones que procedan y vigilando el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
 
@@ -755,9 +777,11 @@ c) Organizar y operar mecanismos de capacitación para los organismos de protecc
 
 IV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 32.
 
-La Secretaría de la Contraloría es la dependencia encargada del control, vigilancia y evaluación interna de la Administración Pública Estatal, y de aplicar el derecho disciplinario a los servidores públicos del Estado, y le competen las siguientes atribuciones:
+La Secretaría de la Gestión Pública es la dependencia encargada del impulso al mejoramiento integral de la administración pública estatal, la prevención de conductas constitutivas de responsabilidad administrativa de los servidores públicos, y en su caso, la aplicación del derecho disciplinario; así como de llevar a cabo el control, vigilancia, seguimiento y evaluación interna de las dependencias y entidades, y le competen las siguientes atribuciones:
 
 I.- En materia de control interno:
 
@@ -773,9 +797,13 @@ e) Vigilar y controlar la eficiencia de la aplicación del gasto público, así 
 
 f) Vigilar la aplicación de las normas, políticas y procedimientos expedidos por la Secretaría de Finanzas y Administración;
 
-g) Vigilar que las obras que en forma directa o en participación con otros organismos realice el Gobierno de la Entidad, se ajusten a las disposiciones de la Ley de Obra Pública para el Estado y los Municipios de Guanajuato y a las especificaciones previamente fijadas;
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-h) Coordinarse con las dependencias del Poder Ejecutivo y con el órgano técnico de fiscalización del Congreso del Estado, así como con las dependencias de la Federación que correspondan, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
+g) Vigilar que las obras que en forma directa o en participación con otros organismos realice el Gobierno del Estado, se ajusten a las disposiciones de la Ley de la materia y a las especificaciones previamente fijadas;
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+h) Coordinarse con las dependencias del Poder Ejecutivo y con el órgano técnico de fiscalización del Congreso del Estado, así como con las dependencias de la Federación que correspondan y los Municipios del Estado, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
 
 i) Atender las quejas que presenten los particulares con motivo de los acuerdos, convenios o contratos que celebren con las dependencias y entidades del Poder Ejecutivo del Estado;
 
@@ -787,19 +815,77 @@ l) Vigilar que las dependencias y entidades del Poder Ejecutivo del Estado obser
 
 m) Vigilar la correcta aplicación de los programas, estudios, proyectos y presupuestos de la obra pública estatal;
 
-II.- En materia disciplinaria:
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
-a) Conocer e investigar los actos y omisiones que puedan constituir responsabilidades de los servidores públicos, para lo cual se debe substanciar el procedimiento administrativo disciplinario y emitir la resolución respectiva con plena independencia para la determinación y aplicación de las sanciones, así como el resarcimiento de los daños patrimoniales ocasionados al Estado, o bien presentando la denuncia correspondiente;
+n) Vigilar que los procesos de contratación, de concesión y de licitación pública, se ajusten a la Ley de la materia; y
 
-b) Recibir y registrar las declaraciones patrimoniales de los servidores públicos que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y, en su caso, requerir información adicional así como realizar las investigaciones y denuncias correspondientes;
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+o) Coadyuvar con la Secretaría de Finanzas y Administración en la vigilancia del ejercicio presupuestal y su impacto en la consecución de los objetivos establecidos.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+II.- En materia de impulso al mejoramiento de la administración pública:
+
+a) Diseñar políticas y lineamientos para el desarrollo de la administración pública, mediante procesos de modernización y adecuación del orden organizacional relativo a su funcionamiento;
+
+b) Determinar lineamientos a las dependencias y entidades de la administración pública estatal para el logro de metas y resultados establecidos en el Plan de Gobierno y programas correspondientes;
+
+c) Organizar y coordinar el sistema de control y medición gubernamental;
+
+d) Instrumentar estrategias de mejora en la coordinación entre dependencias y entidades de la administración pública estatal;
+
+e) Emitir lineamientos sobre la definición de las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública estatal;
+
+f) Promover en coordinación con la Secretaría de Finanzas y Administración, la profesionalización de los servidores públicos de la administración pública estatal;
+
+g) Propiciar las actividades de impulso y mejoramiento del desarrollo gubernamental;
+
+h) Apoyar en el diagnóstico y propuestas de solución de problemas organizacionales de las dependencias y entidades de la administración pública; y
+
+i) Promover las estrategias necesarias para establecer políticas de tecnología en información.
 
 III.- En materia de fiscalización:
 
 a) Verificar y evaluar en coordinación con los municipios, la aplicación de los fondos federales y estatales, de conformidad con la legislación respectiva y los convenios y acuerdos que al respecto se celebren;
 
-b) Fungir como órgano de asesoría y capacitación hacia las demás áreas de la Administración Pública Estatal y a los municipios que así lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa; y
+b) Fungir como órgano de asesoría y capacitación hacia las demás áreas de la Administración Pública Estatal y a los municipios que así lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa; y (sic)
 
-IV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+IV.- En materia de vinculación ciudadana:
+
+a) Promover la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la administración pública estatal;
+
+b) Difundir los valores que deben distinguir a los servidores públicos en su función;
+
+c) Fomentar la cultura de la denuncia respecto de los actos indebidos de los servidores públicos; y
+
+d) Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la población, con respecto a la actuación de los servidores públicos.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+V.- En materia de prevención:
+
+a) Prevenir actos de corrupción y fomentar la transparencia en el ejercicio de la función pública;
+
+b) Establecer políticas y estrategias de prevención de conductas ilícitas en materia de administración pública;
+
+c) Fomentar la conducta ética del servidor público; y
+
+d) Recibir y registrar las declaraciones patrimoniales de los servidores públicos conforme a la Ley de la materia en su caso, requerir información adicional, así como realizar las investigaciones y denuncias correspondientes.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+VI.- En materia de derecho disciplinario:
+
+a) Conocer e investigar los actos y omisiones que puedan constituir responsabilidades de los servidores públicos, así como substanciar el procedimiento administrativo disciplinario que establezca la Ley de la materia; y
+
+b) Procurar el resarcimiento de los daños patrimoniales ocasionados a la administración pública estatal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+VII. Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 33.
 
@@ -843,7 +929,7 @@ La Secretaría de Finanzas y Administración deberá llevar el registro de las e
 
 El Gobernador del Estado podrá agrupar a las entidades paraestatales en sectores definidos, que serán coordinados por la Secretaría que en cada caso y para cada grupo designe para tal efecto.
 
-El agrupamiento de entidades paraestatales a que se refiere este Artículo se realizará considerando el objeto o fin de cada entidad, en relación con la competencia que ésta u otras leyes atribuyan a las dependencias del Poder Ejecutivo.
+El agrupamiento de entidades paraestatales a que se refiere este artículo se realizará considerando el objeto o fin de cada entidad, en relación con la competencia que ésta u otras leyes atribuyan a las dependencias del Poder Ejecutivo.
 
 ###### Artículo 41.
 
@@ -859,9 +945,11 @@ Las entidades paraestatales deberán proporcionar a las demás entidades del sec
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, así como de las metas y objetivos señalados en sus programas. Asimismo, podrán participar en los sectores a los que sean convocadas, independientemente del que pertenezcan.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 44.
 
-Las Secretarías de Finanzas y Administración, de la Contraloría y de Desarrollo Social y Humano deberán vigilar que haya congruencia entre los programas de las dependencias y entidades del Poder Ejecutivo con el Plan de Gobierno y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las coordinadoras de sector.
+Las Secretarías de Finanzas y Administración, de la Gestión Pública y la Unidad de Planeación e Inversión Estratégica deberán coordinar que haya congruencia entre los programas de las dependencias y entidades del Poder Ejecutivo con el Plan de Gobierno y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las coordinadoras de sector.
 
 ### CAPÍTULO TERCERO. ORGANISMOS DESCENTRALIZADOS
 
@@ -981,9 +1069,11 @@ VIII.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo nor
 
 En los órganos consultivos se deberá contar con la participación de representantes de organizaciones sociales de la materia que corresponda al objeto del organismo descentralizado, designados en los términos del ordenamiento jurídico que lo norme.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 56.
 
-Los organismos descentralizados deberán contar con un órgano de vigilancia en el que participará un representante de la Secretaría de la Contraloría. El órgano de vigilancia tendrá las siguientes atribuciones:
+Los organismos descentralizados deberán contar con un órgano de vigilancia en el que participará un representante de la Secretaría de la Gestión Pública. El órgano de vigilancia tendrá las siguientes atribuciones:
 
 I.- Vigilar la correcta aplicación del presupuesto de egresos del organismo;
 
@@ -993,7 +1083,9 @@ III.- Participar en la entrega-recepeción (sic) de la administración del organ
 
 IV.- Verificar los estados financieros del organismo;
 
-V.- Observar los lineamientos que emita la Secretaría de la Contraloría; y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+V.- Observar los lineamientos que emita la Secretaría de la Gestión Pública; y
 
 VI.- Las demás que le señalen esta Ley o su decreto de creación.
 
@@ -1045,9 +1137,11 @@ El órgano de gobierno se reunirá con la periodicidad que señalen los estatuto
 
 El órgano de gobierno será presidido por el Gobernador del Estado o por el titular de la Secretaría coordinadora de sector o por quien éste designe. Para sesionar válidamente se requiere la asistencia de la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el presidente voto de calidad para el caso de empate.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 64.
 
-Cuando menos uno de los comisarios será designado por la Secretaría de la Contraloría.
+Cuando menos uno de los comisarios será designado por la Secretaría de la Gestión Pública.
 
 ###### Artículo 65.
 
@@ -1123,7 +1217,9 @@ I.- Un representante de la dependencia coordinadora de sector;
 
 II.- Un representante de la Secretaría de Finanzas y Administración;
 
-III.- Un representante de la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+III.- Un representante de la Secretaría de la Gestión Pública;
 
 IV.- Un representante del fiduciario; y
 
@@ -1131,7 +1227,9 @@ V.- Un representante de las dependencias del Ejecutivo del Estado que de acuerdo
 
 Por cada miembro propietario del comité técnico habrá un suplente que lo cubrirá en sus ausencias.
 
-El representante de la Secretaría de la Contraloría participará con voz y sin voto.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+El representante de la Secretaría de la Gestión Pública participará con voz y sin voto.
 
 ###### Artículo 81.
 
@@ -1143,7 +1241,7 @@ Los miembros del comité técnico de los fideicomisos públicos serán nombrados
 
 ###### Artículo 83.
 
-El comité técnico de los fideicomisos públicos tendrá las atribuciones establecidas en el Artículo 49 de esta Ley, sin perjuicio de las facultades que se le otorguen en el instrumento jurídico que lo norme.
+El comité técnico de los fideicomisos públicos tendrá las atribuciones establecidas en el artículo 49 de esta Ley, sin perjuicio de las facultades que se le otorguen en el instrumento jurídico que lo norme.
 
 ###### Artículo 84.
 
@@ -1151,25 +1249,31 @@ El comité técnico de los fideicomisos públicos necesariamente deberá someter
 
 ###### Artículo 85.
 
-Los directores generales de los fideicomisos públicos tendrán las atribuciones establecidas en el Artículo 54 de esta Ley, sin perjuicio de las facultades que se les otorguen en el instrumento jurídico que lo norme.
+Los directores generales de los fideicomisos públicos tendrán las atribuciones establecidas en el artículo 54 de esta Ley, sin perjuicio de las facultades que se les otorguen en el instrumento jurídico que lo norme.
 
 ###### Artículo 86.
 
-Los comités técnicos de los fideicomisos públicos deberán contar con un órgano de vigilancia, el cual tendrá las atribuciones previstas en el Artículo 56 de esta Ley.
+Los comités técnicos de los fideicomisos públicos deberán contar con un órgano de vigilancia, el cual tendrá las atribuciones previstas en el artículo 56 de esta Ley.
 
-El órgano de vigilancia estará integrado por un comisario propietario y un suplente designados por la Secretaría de la Contraloría, cuyos cargos serán honoríficos.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
+El órgano de vigilancia estará integrado por un comisario propietario y un suplente designados por la Secretaría de la Gestión Pública, cuyos cargos serán honoríficos.
 
 ### CAPÍTULO SEXTO. DESARROLLO, CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 87.
 
-Las entidades paraestatales para su desarrollo y operación deberán sujetarse al Plan de Gobierno, a los programas sectoriales que deriven del mismo, a sus programas institucionales, a las directrices que en materia de programación y evaluación emita la Secretaría de Desarrollo Social y Humano, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas y Administración, así como a las políticas que defina la Secretaría coordinadora de sector.
+Las entidades paraestatales para su desarrollo y operación deberán sujetarse al Plan de Gobierno, a los programas sectoriales que deriven del mismo, a sus programas institucionales, a las directrices que en materia de programación y evaluación emita el área encargada de la planeación, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas y Administración, así como a las políticas que defina la Secretaría coordinadora de sector.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
 ###### Artículo 88.
 
-La Secretaría de la Contraloría podrá realizar visitas y auditorías a fin de supervisar el adecuado funcionamiento de las entidades parestatales, y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieren incurrido.
+La Secretaría de la Gestión Pública podrá realizar visitas y auditorías a fin de supervisar el adecuado funcionamiento de las entidades paraestatales de la administración pública; y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieren incurrido.
 
-Tratándose de fideicomisos públicos para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la Secretaría de la Contraloría, de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de auditores externos que determine el Gobernador del Estado, sin perjuicio de las facultades de fiscalización del Poder Legislativo. Asimismo, en la cuenta pública se deberá informar y anexar el resultado de las auditorías practicadas.
+Tratándose de fideicomisos públicos para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la Secretaría de la Gestión Pública, de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de auditores externos que determine el Gobernador del Estado, sin perjuicio de las facultades de fiscalización del Congreso del Estado. Asimismo, en la cuenta pública se deberá informar y anexar el resultado de las auditorías practicadas.
 
 ###### Artículo 89.
 
@@ -1282,3 +1386,17 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 21 DE NOVIEMBRE DE 2003.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las dependencias del Poder Ejecutivo que conforme a este Decreto transfieran atribuciones a otra unidad administrativa, lo harán considerando al personal, sin perjuicio de sus derechos laborales adquiridos, el mobiliario, el equipo, los vehículos, instrumentos, aparatos, maquinaria y archivos que hayan venido usando para la realización de sus funciones. Este proceso deberá estar concluido el día 31 de diciembre de 2003.
+
+Artículo Tercero.- Los procesos que con motivo de este Decreto deban pasar de una dependencia a otra unidad administrativa, permanecerán en el último trámite que hubieren alcanzado hasta que se realice la transferencia a que se refiere el artículo anterior, a excepción de los que sean urgentes o estén sujetos a plazos improrrogables, casos en los cuales se deberá seguir el trámite por la unidad administrativa que inició con el mismo debiendo concluirlo en un plazo no mayor a noventa días.
+
+Artículo Cuarto.- Cuando en otros ordenamientos legales se otorguen a la Secretaría de la Contraloría atribuciones, así como los compromisos derivados de convenios celebrados con autoridades federales o municipales, se entenderán que corresponden a la Secretaría de la Gestión Pública.
+
+Artículo Quinto.- Cuando en otros ordenamientos legales se otorguen a la Secretaría de Desarrollo Social y Humano atribuciones en materia de planeación e inversión dicha competencia se entenderá concedida la Unidad de Planeación de Inversión Estratégica.
