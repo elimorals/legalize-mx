@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1997-03-20"
+last_updated: "1999-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 02 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -535,7 +535,7 @@ ARTICULO 100 (Correcciones disciplinarias).- Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de uno a quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite la corrección. Tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de su salario, y, si se trata de campesinos, de un día de ingreso;
+II.- Multa de uno a quince días de salario mínimo, vigente en el momento y lugar en que se cometa la falta que amerite la corrección. Tratándose de jornaleros, obreros o trabajadores, la multa no deberá exceder de un día de su salario, y, si se trata de campesinos, de un día de ingresos;
 
 III.- Arresto hasta de treinta y seis horas, y
 
@@ -561,11 +561,15 @@ En vista de lo que exprese el interesado, el funcionario que hubiese impuesto la
 
 ARTICULO 104 (Derecho a no ser privado de la libertad).- Nadie podrá ser privado de su libertad, sino en los casos señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+
+ARTICULO 105 (Detención en caso de flagrante delito). En los casos de flagrante delito, cualquier persona puede detener al indiciado, poniéndolo sin demora a disposición del Ministerio Público o de la autoridad inmediata, y ésta con la misma prontitud al Ministerio Público. Se considerará que hay flagrante delito cuando el indiciado es detenido en el momento de estarlo cometiendo, o si, inmediatamente después de ejecutado el hecho delictuoso: a) aquél es perseguido materialmente; o, b) en breve tiempo y sin mayor investigación, alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido, o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+En esos casos el Ministerio Público iniciará desde luego las diligencias de preparación del ejercicio de la acción penal y bajo su responsabilidad; según procediere, decretará la retención del indiciado si el delito amerita, cuando menos, pena privativa de libertad; en caso de requerir formulación de querella para su persecución, la retención solo podrá decretarse por un plazo de seis horas, al término del cual, se ratificará ésta, si es cubierto dicho requisito, en caso contrario, se dejará en inmediata libertad al detenido.
+
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
-
-ARTICULO 105 (Detención en caso de flagrante delito).- En los casos de delito flagrante, cualquier persona puede detener al indiciado, poniéndolo sin demora a disposición del Ministerio Público o de la autoridad inmediata, y ésta con la misma prontitud al Ministerio Público. Se considerará que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, o si, inmediatamente después de ejecutado el hecho delictuoso: a) aquél es perseguido materialmente; o, b) alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido, o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
-
-En esos casos el Ministerio Público iniciará desde luego las diligencias de preparación del ejercicio de la acción penal y bajo su responsabilidad, según procediere, decretará la retención del indiciado si el delito es perseguible de oficio.
 
 La violación de esta disposición hará penalmente responsable al Agente del Ministerio Público o servidor público que decrete indebidamente la retención y la persona así detenida será puesta en inmediata libertad.
 
@@ -603,7 +607,7 @@ ARTICULO 112 (Aprehensión en lugar donde no se tiene acceso público).- En el c
 
 ARTICULO 113 (Aprehensión en servicios públicos).- Cuando deba aprehenderse a un empleado público o a un particular que en ese momento esté prestando un servicio público, se tomarán las providencias necesarias para que no se interrumpa el servicio y para que aquél no se sustraiga de la acción de la justicia.
 
-ARTICULO 114 (Orden de presentación o comparecencia).- Cuando el delito esté sancionado con pena no privativa de libertad o con pena alternativa y estuvieren reunidos los demás requisitos a que se refiere el artículo 16 Constitucional para dictar mandamiento de aprehensión, se librará orden de comparecencia en contra del imputado para que rinda su declaración preparatoria, en el día y hora señalados para tal efecto.
+ARTICULO 114 ( ¿Orden de presentación o comparecencia).- Cuando el delito esté sancionado con pena no privativa de libertad o con pena alternativa y estuvieren reunidos los demás requisitos a que se refiere el artículo 16 Constitucional para dictar mandamiento de aprehensión, se librará orden de comparecencia en contra del imputado para que rinda su declaración preparatoria, en el día y hora señalados para tal efecto.
 
 Si el imputado no comparece en la oportunidad indicada, se fijará nuevo día y hora, ordenando a la policía judicial su presentación forzosa.
 
@@ -637,43 +641,89 @@ La garantía se cancelará y en su caso se devolverá cuando se resuelva el no e
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
-ARTICULO 121 (Delitos graves, en tratándose de la Libertad provisional bajo caución).- Para los efectos de los artículos 16 y 20 de la Constitución Política de los Estados Unidos Mexicanos, se consideran delitos graves los previstos en la ley sustantiva penal, en los siguientes casos:
+ARTICULO 121 (Derecho a la libertad provisional bajo caución).- Todo imputado tendrá derecho a ser puesto en libertad bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de los delitos que por su gravedad se prohiba expresamente conceder ese beneficio.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+Para los efectos de los artículos 16 y 20 de la Constitución Política de los Estados Unidos Mexicanos, se consideran delitos graves los previstos en la ley sustantiva penal, en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 I.- El homicidio culposo, en los supuestos del artículo 76;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 II.- El homicidio, en los supuestos de los artículo (sic) 125 y 126;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 III.- Las lesiones previstas en la fracción IX del artículo 127, cuando concurrran las circunstancias señaladas en el artículo 131;
 
-IV.- El secuestro en los supuestos del artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicio;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+IV.- El secuestro en los supuestos del artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicios,
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 V.- El asalto en el supuesto señalado en el artículo 157;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
 
-VII.- El robo, en los supuestos establecidos en el artículo 183 y 183 bis;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183 y 183 bis Del Código Penal;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 VIII.- El tráfico de menores en la circunstancia señalada en el párrafo quinto del artículo 213;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 IX.- El despojo previsto en el artículo 199, en tratándose de autores intelectuales o quienes dirijan el despojo en términos del artículo 200,
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 X.- La asociación delictuosa prevista en los párrafos tercero y cuarto del artículo 220, así como todos los delitos que se cometan en las condiciones del párrafo segundo de dicho precepto;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 XI.- El lenocinio previsto en el artículo 238, si la persona sujeto de la explotación fuere menor de dieciséis años;
 
-XII.- La trata de personas previstas en el artículo 239, si el ofendido fuere menor de diesiséis años,
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XII.- La trata de personas prevista en el artículo 239, si el ofendido fuere menor de dieciséis años;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 XIII.- La sedición en el supuesto segundo del párrafo del artículo 247,
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
 XIV.- La rebelión en los supuestos de los artículos 249, 250, 251 y 252;
 
-XV.- El terrorismo en el supuesto del primer párrafo del artículo 254;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y
+XV.- El terrorismo en el supuestp del primer párrafo del artículo 254;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+XVI.- El saboyaje en los supuestos de las fracciones I y II del artículo 255, y
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 XVII.- La tortura en los supuestos de los artículos 309 y 311.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+XVIII.- El fraude previsto por los artículos 193 y 194, cuando se cometan en las circunstancias previstas en el artículo 195.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+En caso de delitos no graves, de oficio o a solicitud del Ministerio Público, el Juez razonando su determinación podrá negar la libertad provisional cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley o, cuando el Ministerio Público aporte elementos o el Juez los tenga para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido un riesgo para el ofendido o para la sociedad.
 
 ARTICULO 122 (Otorgamiento de la libertad caucional).- Cuando se solicite la libertad caucional, inmediatamente el Juzgador deberá resolver de plano lo conducente.
 
@@ -939,7 +989,7 @@ ARTICULO 170 (Plazo para rendir el dictamen).- El funcionario que practique las 
 
 Si a pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se denunciará su conducta ante el Ministerio Público.
 
-ARTICULO 171 (Médicos en los hospitales públicos).- Cuando se trate de una lesión, proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
+ARTICULO 171 (Médicos en los hospitales públicos).- Cuando se trate de una lesión, proveniente de delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
 
 ARTICULO 172 (Necropsia en los hospitales públicos).- La necropsia de cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos de éste, sin perjuicio de la facultad que concede la parte final del artículo anterior.
 
@@ -1351,6 +1401,10 @@ a) Librar orden de aprehensión en contra del inculpado si el delito que se impu
 
 b) Librar orden de comparecencia en todos los demás casos.
 
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+Cuando se niegue la orden de aprehensión o comparecencia y ésta cause ejecutoria el juez, de oficio devolverá al Ministerio Público la averiguación previa, desglosada del expediente, para que éste proceda en consecuencia.
+
 # LIBRO TERCERO. PREPARACION DEL PROCESO
 
 ## TITULO UNICO. PREPARACION DEL PROCESO
@@ -1401,7 +1455,9 @@ ARTICULO 271 (No revocación de la libertad).- El auto de formal prisión no rev
 
 PARA PROCESAR
 
-ARTICULO 272 (Auto de libertad por falta de elementos).- Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal procesamiento, el juez dictará auto de libertad por falta de elementos para procesar, o de no sujeción a proceso, en su caso, sin perjuicio de que, por datos posteriores de prueba, se proceda nuevamente en contra del inculpado.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+ARTICULO 272 (Auto de libertad por falta de elementos).- Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal procesamiento, el juez dictará auto de libertad por falta de elementos para procesar o de no sujeción a proceso, cuando esta resolución cause ejecutoria desglosará copia del expediente al Ministerio Público para que, en su caso, por datos posteriores de prueba se proceda nuevamente en contra del inculpado.
 
 ### CAPITULO UNICO. OFRECIMIENTO DE MEDIOS DE PRUEBA
 
@@ -1883,9 +1939,7 @@ El Juzgador requerido dará un plazo común de tres días a las partes para que 
 
 ARTICULO 350 (Resolución del Tribunal Superior de Justicia).- Cuando conforme al artículo 16 de este Código el conflicto de competencia deba ser resuelto por el Tribunal Superior de Justicia, éste emitirá su resolución dentro del plazo de diez días contados a partir de la fecha en que reciba el o los incidentes; en el caso de que se determine procedente la incompetencia planteada, el Tribunal Superior de Justicia ordenará lo conducente a fin de que el procedimiento sea continuado por el Juez declarado competente.
 
-ARTICULO 351 (
-
-Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
+ARTICULO 351 (Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
 
 ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se tramitarán siempre por separado.
 
@@ -1893,7 +1947,7 @@ ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se t
 
 RECUSACIONES
 
-ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días, rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
+ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
 
 ARTICULO 354 (Plazo para interponer la recusación).- La recusación puede interponerse en cualquier tiempo pero no después de que se haya citado para sentencia, y no suspende la instrucción ni la tramitación del recurso pendiente. Después de la citación para sentencia solo será admisible la recusación, en caso de que hubiere cambio de personal en el juzgado o del tribunal de conocimiento, y deberá proponerse dentro de los tres días siguientes a aquél en que se notifique el auto en que se haga saber tal circunstancia.
 
@@ -2009,7 +2063,7 @@ ARTICULO 369 (Acumulación durante la preparación del proceso).- Las disposicio
 
 ### CAPITULO IV. SEPARACION DE EXPEDIENTES
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
+F. DE E., P.O. 24 DE AGOSTO DE 1989)
 
 ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
 
@@ -2027,7 +2081,7 @@ ARTICULO 374 (Sentencia única).- Si la tramitación del incidente queda termina
 
 ARTICULO 375 (Providencias precautorias).- El actor civil podrá solicitar providencias precautorias en los términos del Código de Procedimientos Civiles para el Estado.
 
-ARTICULO 376 (Liquidación).- Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar en la sentencia a su reparación y ordenar que su liquidación se formule en la vía correspondiente conforme el Código de Procedimiento Civiles para el Estado, ante el juez que se encargue de su ejecución.
+ARTICULO 376 (Liquidación).- Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar en la sentencia a su reparación y ordenar que su liquidación se formule en la vía correspondiente conforme el Código de Procedimientos Civiles para el Estado, ante el juez que se encargue de su ejecución.
 
 ARTICULO 377 (Competencia para la ejecución).- Los jueces civiles serán competentes para conocer de la ejecución de la sentencia dictada por la jurisdicción penal en el incidente de reparación de daños y perjuicios exigibles a terceros.
 
@@ -2041,7 +2095,9 @@ II.- Cuando, por haberse dictado sentencia absolutoria penal, el Juzgador se abs
 
 ### CAPITULO VI. NULIDAD DEL PROCEDIMIENTO
 
-ARTICULO 380 (Causas).- Habrá lugar a la nulidad del procedimiento por alguna de las causas siguientes:
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 2 DE ABRIL DE 1999)</small>
+
+ARTICULO 380 (Causas).- Habrá lugar a la nulidad y en su caso, la reposición del procedimiento, por alguna de las causas siguientes:
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
@@ -2154,3 +2210,13 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 2 DE ABRIL DE 1999.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan aquellas disposiciones que se opongan a la presente Ley.
