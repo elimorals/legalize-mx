@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-video-juegos-y-futbolitos-en-el-municipio-de-2582
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-14"
-last_updated: "1996-11-08"
+last_updated: "1997-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO PARA VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE VIDEO JUEGOS, FUTBOLITOS Y BILLARES EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de septiembre de 1992.
 
@@ -33,21 +33,35 @@ El Ciudadano Sr. Atanasio González Puente, Presidente Municipal de Santa Catari
 
 Que el R. Ayuntamiento de Santa Catarina, Nuevo León, en Sesión Ordinaria de Cabildo celebrada el día 5 de Junio de 1992, con fundamento en los Artículos 26 inciso A Fracción VII, inciso C Fracción VI, 27, Fracción IV, y del 160 al 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal en el Estado en vigor, acordó la expedición del Reglamento que regula: Los Video Juegos y Futbolitos.
 
-REGLAMENTO PARA VIDEO JUEGOS Y FUTBOLITOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
+
+REGLAMENTO DE VIDEO JUEGOS, FUTBOLITOS Y BILLARES
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 1o.
 
-El propietario deberá contar con el permiso correspondiente al giro del negocio debidamente solicitado por escrito y aprobado por la Autoridad Municipal.
+El propietario deberá contar con el permiso correspondiente, el cual exhibirá en el negocio en lugar visible y en original.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 2o.
 
-Los Titulares de los establecimientos deberán respetar el horario de apertura y cierre de sus negocios que será de Lunes a Domingo de 09:00 a 21:00 Horas. En casos extraordinarios y previa solicitud del interesado, el Presidente Municipal a través del Secretario del Ayuntamiento, podrá incrementar el funcionamiento señalado, de igual manera lo restringirá cuando así se amerite.
+El propietario deberá de respetar el horario de apertura y cierre que le fije la autoridad municipal, que será el siguiente:
+
+VIDEO JUEGOS Y FUTBOLITOS: De Lunes a Domingo de 09:00 a 21:00 horas.
+
+BILLARES: De Lunes a Jueves de 10:00 a 23:00 horas.
+
+De Viernes a Domingo de 10:00 a 24:00 horas.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Artículo 3o.
 
-Queda estrictamente prohibido en el interior y fuera de el negocio, la venta y/o consumo de cualquier bebida alcoholica, cigarrillos ó cualquier producto con efectos psicotrópicos, principalmente a menores de edad, teniendo la obligacion de reportar a la Autoridad Municipal cualquier hecho relacionado con lo anterior.
+Queda estrictamente prohibido en el interior y exterior inmediato del negocio, la venta y/o consumo de cualquier bebida alcohólica, cigarrillos o cualquier producto con efectos psicotrópicos, principalmente a menores de edad, teniendo la obligación el propietario de reportar a la Autoridad Municipal cualquier hecho relacionado con lo anterior.
+
+En los casos de billares que cuenten con permisos para la venta y consumo de bebidas alcohólicas, se regirán por el REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS Y CERVEZA.
 
 ###### Artículo 4o.
 
@@ -83,33 +97,53 @@ Los permisos o autorizaciónes concedidos no son transferibles sin la autorizaci
 
 AUTORIDADES
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1997)</small>
+
 ###### Artículo 10o.
 
-Las autoridades competentes para aplicación en lo referente a éste ordenamiento serán las siguientes:
+Las autoridades competentes para aplicación en lo referente a este reglamento, serán las siguientes:
 
-El R. Ayuntamiento.
+EL R. AYUNTAMIENTO
 
-El C. Presidente Municipal.
+EL PRESIDENTE MUNICIPAL
 
-El C. Secretario del Ayuntamiento.
+EL SECRETARIO DEL AYUNTAMIENTO
 
-El C. Secretario de Finanzas y Tesorero Municipal.
+EL SECRETARIO DE FINANZAS Y TESORERO
 
-El C. Secretario de Protección y Vialidad.
+EL DIRECTOR DE COMERCIO
+
+LOS INSPECTORES DE COMERCIO
+
+EL DIRECTOR GENERAL DE PROTECCION Y VIALIDAD
+
+LOS OFICIALES DE PROTECCION
 
 SANCIONES
 
+> <small>(REFORMADO, P.O. 22 SEPTIEMBRE DE 1997)</small>
+
 ###### Artículo 11o.
 
-Las sanciones que se aplicarán a las faltas en que incurren los permisionarios, consistirán en:
+Las sanciones que se aplicarán a las faltas en que incurran los permisionarios, consistirán en multas que serán de acuerdo al tabulador siguiente:
 
-Multa, que se aplicará conforme al tabulador de la Ley de Hacienda de los Municipios.
+I.- Iniciar operaciones sin el permiso correspondiente: 10 cuotas.
 
-Clausura provisional, que se aplicará según la gravedad de la infracción cometida, a juicio del C. Secretario de Finanzas y Tesorero Municipal.
+II.- Cambio de propietario y/o domicilio sin la autorización del R. Ayuntamiento: 10 cuotas.
 
-Clausura definitiva, que se aplicará según la gravedad de la infracción cometida, a juicio del C. Secretario de Finanzas y Tesorero Municipal.
+III.- No respetar el horario de apertura y cierre del negocio: 10 cuotas.
 
-En caso de reincidir un permisionario en dos o más ocasiones en una misma infracción, aparte de la sanción pecuniaria que origine, según la gravedad de la infracción, podrá imponérsele además, arresto administrativo hasta por 36 horas.
+IV.- Permitir en el interior o en el exterior del negocio la venta y/o consumo de cualquier bebida alcohólica, cigarrillos o cualquier producto o sustancia psicótropica: 10 cuotas.
+
+V.- Hacer uso inmoderado de aparatos de sonido, radios, televisiones y similares que perturben a la comunidad: 5 cuotas.
+
+Para efectos de este Reglamento se entenderá por cuota, el salario mínimo general diario, vigente en el municipio.
+
+La clausura provisional, se aplicará según la gravedad de la infracción cometida, a juicio del C. Secretario de Finanzas y Tesorero.
+
+La clausura definitiva, se aplicará según la gravedad de la infracción cometida, previo análisis y dictamen que presentará la Comisión ante el Pleno del Cabildo, para ser acordada por el R. Ayuntamiento.
+
+En caso de reincidir el propietario o encargado de un establecimiento, en dos o más ocasiones en cualquier tipo de infracción aparte de la sanción pecunaria (sic) que le resulte, se hará acreedor a la clausura definitiva.
 
 RECURSOS
 
@@ -174,3 +208,13 @@ PRIMERO: La presente reforma al Artículo Segundo del Reglamento de Video Juegos
 SEGUNDO: Publicado lo anterior en la forma en que se indica en el Artículo que antecede, dejará sin efectos y abrogará toda disposición que con anterioridad se oponga al mismo.
 
 TERCERO: Envíese para su promulgación y publicación en la forma señalada en la Ley, por conducto del Poder Ejecutivo.
+
+P.O. 22 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Las presentes modificaciones e inclusión al Reglamento para Video Juegos, Futbolitos y Billares entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, dejando sin efecto cualquier disposición que contravenga a las mismas.
+
+###### ARTICULO SEGUNDO.
+
+Envíese para su publicación en el Periódico Oficial del Estado.
