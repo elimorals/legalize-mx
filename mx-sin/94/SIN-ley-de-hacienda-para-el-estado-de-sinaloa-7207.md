@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1982-01-01"
+last_updated: "1983-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1983.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1693,225 +1693,197 @@ ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediado
 
 ART. 138 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-### CAPITULO VIII
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE ENERO DE 1983)</small>
 
-Impuesto sobre Traslación de Dominio, Promesa de Compra-Venta y Sobre el Contrato de Mandato.
+### CAPITULO VIII. Impuesto sobre Adquisición de Inmuebles
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-ART. 139.- Son objeto de este impuesto:
+ART. 139.- Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, en construcciones adheridas a él, o en ambos conceptos, ubicados en el Estado de Sinaloa, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se causará a la tasa del 10% sobre la base gravable que señala el Artículo 142 de esta Ley, de la cual se reducirá la cantidad equivalente a 5 veces el salario mínimo general, elevado al año, de la zona económica a que corresponda el Estado de Sinaloa.
 
-I.- Las operaciones de traslación o adquisición de dominio que se realicen el Estado, o en relación con bienes muebles o inmuebles ubicados en él, por cualquier título, inclusive por cesión de derechos dación en pago y donación, con las salvedades que establece el Artículo 141 de esta Ley.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
+ART. 140.- No se pagará este impuesto en los siguientes casos:
 
-Para los efectos de este Impuesto, la adjudicación de bienes en pago o la que se haga en remate a postor, la cesión onerosa de derechos reales o personales y la dación en pago, así como la protocolización de diligencias de información ad-perpetuam promovidas para acreditar la posesión de bienes inmuebles, en los términos del Artículo 2904 del Código Civil para el Estado de Sinaloa, se equiparán a la compraventa. También se equiparan a la compraventa el acto constitutivo de fideicomiso, cuando se afecte un bien inmueble y la cesión de derechos de fideicomitente o fideicomisario derivados de ese tipo de fideicomiso;
+I.- En las adquisiciones por las instituciones de asistencia o de beneficencias, autorizadas por las leyes de la materia, instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, por los bienes destinados exclusivamente a sus fines educativos;
 
-II.- La promesa de compraventa de bienes muebles o inmuebles ubicados en el Estado.
+II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+No queda incluida en esta Fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal;
 
-ART. 140.- Causan el Impuesto sobre Traslación de Dominio previsto por la Fracción I del Artículo anterior:
+III.- En las adquisiciones por la Federación, las Entidades Federativas y los Municipios, así como por los Estados Extranjeros, en caso de reciprocidad;
 
-I.- (DEROGADA, P.O. 22 DE AGOSTO DE 1980)
+IV.- En las adquisiciones por los Partidos y Asociaciones Políticas para su propio uso;
 
-II.- Las aportaciones de bienes inmuebles que hagan los socios o accionistas en favor de sociedades inmobiliarias, de empresas fraccionadoras de terrenos o de cualquier otro tipo de empresas que se dediquen a la compraventa o administración de bienes inmuebles;
+V.- En las adquisiciones realizadas por organismos descentralizados de la Federación, de las Entidades Federativas y de los Municipios, que promuevan la vivienda de interés social;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+VI.- En la adquisición de casa-habitación que se realice en cumplimiento de los programas habitacionales del Instituto del Fondo Nacional para la Vivienda de los Trabajadores, ya sea mediante fondos suministrados por dicho Instituto o por medios distintos a los del Instituto, siempre que en este último caso la casa habitación sea para uso del trabajador derechohabiente de este Instituto y que el monto de la operación así realizada no sea superior al valor de las casas habitación que el mismo proporciona a sus afiliados. Por el excedente se pagará el impuesto en los términos previstos por esta Ley;
 
-III.- La adquisición de bienes inmuebles efectuada por instituciones u organizaciones auxiliares de crédito e instituciones de seguros;
+VII.- En la disolución de la copropiedad, excepto por la parte que se aplique en demasía del porcentaje que representaban los copropietarios.
 
-IV.- El acto constitutivo de fideicomiso cuando se afecte un bien inmueble y la cesión de derechos de fideicomitente o de fideicomisario derivados de este tipo de fideicomiso.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+ART. 141.- Para los efectos de este capítulo, se entiende por adquisición la que derive de:
 
-V.- La adquisición de la propiedad de bienes inmuebles por virtud de prescripción positiva, remate judicial o administrativo;
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+II.- La compraventa en la que el vendedor se reverse (sic) la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
 
-VI.- La adquisición de la posesión de bienes inmuebles por la promoción, en vía de jurisdicción voluntaria y ante autoridad judicial competente de diligencias de información ad-perpetuam. En estos casos, al adquirirse la propiedad por virtud de prescripción positiva, no se causará el impuesto cuando éste previamente haya sido pagado por el causante con motivo de la información ad-perpetuam.
+III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
 
-ART. 141.- No causan el impuesto:
+IV.- La cesión de derechos del comprador, o del futuro comprador, en los casos de las fracciones II y III que anteceden, respectivamente;
 
-I.- Las transmisiones de dominio por herencia o legado;
+V.- Fusión de sociedades;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-II.- Las trasmisiones de dominio por constitución, modificación, disolución o liquidación de la sociedad conyugal, siempre que la adquisición no la haga un tercero;
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-III.- Las aportaciones de bienes que hagan los socios al constituir las sociedades o aumentar el capital de éstas, y la restitución de los mismos bienes a los aportantes al reducirse el capital social o disolverse la sociedad; si al liquidarse una sociedad corresponden a un socio bienes distintos de los que aportó, o los mismos bienes aportados pero con un aumento de su valor motivado por mejoras hechas por la sociedad o por terceros, se causará el impuesto sobre el excedente del valor aportado.
+VIII.- Resolución o reconocimiento de autoridad judicial o administrativa, en los casos de prescripción positiva, información ad-perpetuam o adquisición por remate;
 
-No quedan comprendidas en la no causación señalada en esta fracción, las aportaciones de bienes inmuebles que hagan los socios o accionistas en favor de sociedades inmobiliarias, de empresas fraccionadoras de terrenos o de cualquier otro tipo de empresas que se dediquen a la compraventa o administración de bienes inmuebles.
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos;
 
-IV.- Las enajenaciones de primera mano de artículos cuya producción cause impuestos del Estado;
+X.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomiso, en los términos del Código Fiscal de la Federación.
 
-V.- La división de cosa común entre los copropietarios siempre que las partes adjudicadas a los partícipes no excedan de sus respectivas porciones;
+En las permutas se considerará que se efectúen dos adquisiciones.
 
-VI.- La transmisión de títulos de crédito;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-VII.- Las operaciones que se realicen en el Estado para transmitir el dominio sobre bienes que no se encuentren dentro del mismo y que hayan cubierto el impuesto a otra Entidad Federativa;
+ART. 142.- La base gravable de este impuesto será el valor que resulte mayor entre el catastral que tenga asignado el inmueble de que se trate, el precio pactado en la operación y el de avalúo comercial practicado por institución de crédito o por persona autorizada al efecto.
 
-VIII.- La concesión o transmisión de servidumbre, derechos de uso o habitación, de prenda o hipoteca;
+Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-IX.- Los actos constitutivos de fideicomiso de administración, de garantía o testamentario;
+Cuando no se pacte el precio, la base del impuesto será el valor catastral o el que resulte mayor de comparar éste con el avalúo comercial.
 
-X.- Las demás transmisiones que deban quedar exceptuadas de acuerdo con el Artículo 38 de esta Ley.
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes de remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo comercial a que se refiere el primer párrafo de este artículo. Para los fines de este capítulo, se considerará que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-XI.- La transmisión de bienes muebles usados enajenados por empresas.
+ART. 143.- La reducción a que se refiere el Artículo 139 de esta Ley, se realizará conforme a lo siguiente:
 
-ART. 142.- El impuesto sobre traslación de Dominio se causará conforme a la siguiente:
+I.- Para efectuar la reducción, se aplicará el salario mínimo general correspondiente al año de calendario en que se esté en presencia de los supuestos de pago del impuesto, en los términos del Artículo 145 de esta Ley.
 
-T A R I F A
+II.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona o sus dependientes económicos, en un periodo de 24 meses.
 
-I.- Las operaciones sobre bienes muebles causarán una cuota de 5%, que se aplicará sobre el valor que resulte mayor entre el fijado por peritos y el precio de la operación al momento de celebrarse ésta.
+De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiese adquirido con anterioridad, para que se ajuste el monto de la reducción, y pagará en su caso, las diferencias de impuesto que resulten. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 
-II.- En operaciones con bienes inmuebles, sean rústicos o urbanos, la base del impuesto será el valor que resulte mayor entre el catastral asignado al inmueble de que se trate, al declarado por las partes en la operación y el avalúo comercial, aplicándose los siguientes porcentajes:
+III.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el artículo 141 de esta ley, la reducción, se hará en la proporción que corresponda a dicha parte.
 
-Tasa
+IV.- Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
 
-Hasta $ 150,000.0 2.50%
+V.- Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en esta fracción no es aplicable a hoteles.
 
-De $ 150,000.01
+No se considerarán departamentos habitaciones los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
 
-a $ 250,000.00 2.75%
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-De $ 250,000.01
+ART. 144.- El avalúo comercial a que se refiere el primer párrafo del artículo 142, deberá ser practicado considerando los valores reales actuales y las condiciones físicas del inmueble, referidas a la fecha de adquisición. Dichos avalúos servirán para efectos fiscales durante seis meses contados a partir de la fecha en que se practiquen. En aquellos casos en que después de practicado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, deberá practicarse nuevo avalúo aún cuando no haya transcurrido el plazo a que se refiere este párrafo.
 
-a $ 350,000.00 3.00%
+Las autoridades fiscales, a través de la Dirección de Catastro estarán facultadas para revisar los avalúos comerciales practicados por las instituciones de crédito, los que podrán ser rechazados en caso de que no se apeguen a los precios reales del valor comercial del terreno y a los valores unitarios comerciales de construcción, que se encuentren vigentes en la fecha de adquisición. Dicha revisión se efectuará como un requisito previo al pago del impuesto.
 
-De $ 350,000.01
+Las autoridades fiscales también estarán facultadas para practicar u ordenar el avalúo comercial del inmueble, referido a la fecha de adquisición, y cuando el valor que resulte de dicho avalúo exceda a los valores señalados en el primer párrafo del Artículo 142 de esta Ley, dicho valor servirá de base para el pago definitivo del impuesto.
 
-a $ 450,000.00 3.25%
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-De $ 450,000.01
+ART. 145.- El pago del impuesto deberá hacerse dentro de los 30 días naturales siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
 
-a $ 600,000.00 3.50%
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
-De $ 600,000.01
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como el cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
 
-a $ 750,000.00 3.75%
+III.- Tratándose de adquisiciones efectuadas a través del fideicomiso, cuando se realicen los supuestos de enajenación o de cesión de derechos, en los términos del Código Fiscal de la Federación.
 
-De $ 750,000.01
+IV.- Al protocolizarse o inscribirse la resolución o el reconocimiento de la autoridad judicial o administrativa, en los casos de prescripción positiva, información ad-perpetuam o adquisición por remate.
 
-a $ 900,000.00 4.00%
+V.- Tratándose de contratos de compraventa con reserva de dominio o de promesa de venta, así como en los casos de cesión de derechos relacionados con dichos contratos, cuando se celebre el contrato respectivo.
 
-De $ 900,000.01
+VI.- En los casos no previstos en las fracciones anteriores el plazo correrá a partir de la fecha de celebración del acto que cause el impuesto.
 
-a $ 1100,000.00 4.25%
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-De $ 1,100,000.01
+ART. 146.- En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaraciones ante la oficina recaudadora que corresponda. Esta declaración deberá presentarse aún en el caso de que no haya impuesto a enterar, ya sea porque la base resulte inferior a la reducción que autoriza la Ley, o porque el acto o contrato se encuentre exento de pago. Dicha declaración será firmada por el Notario y se presentará acompañada tanto de tres copias de la escritura como del avalúo comercial respectivo, conteniendo los siguientes datos:
 
-a $ 1300,000.00 4.50%
+I.- Número y fecha de la escritura.
 
-De $ 1,300,000.01
+II.- Naturaleza del acto o concepto de operación.
 
-a $ 1500,000.00 4,75%
+III.- Nombre y carácter de los otorgantes.
 
-De $ 1,500,000.01
+IV.- Características y ubicación de los bienes objeto de la operación.
 
-en adelante 5.00%
+V.- Valor gravable.
 
-En operaciones hasta de $ 25,000.00 es opcional para la Secretaría de Finanzas exigir el avalúo comercial.
+VI.- La liquidación del impuesto.
 
-Se aplicará solamente la tasa del 2.5% cuando los bienes inmuebles objeto de la operación, tengan congeladas más del 50% de sus rentas en virtud de disposición legal o de autoridad competente.
+Previamente al pago de este impuesto, el adquirente y-o al fedatario ante quien se haga constar el acto jurídico deberán comprobar que el inmueble materia de la operación se encuentra al corriente en el pago del impuesto predial, mediante la presentación del respectivo recibo oficial expedido por la oficina recaudadora correspondiente. El Notario dará fe de haber tenido a la vista dicho recibo y cuyo texto deberá transcribir en la escritura correspondiente.
 
-Se tomará como base el valor fijado por peritos cuando resulte difícil establecerlo de otra manera.
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquélla con la que se efectúo dicho pago.
 
-La transmisión de dominio de un inmueble en ejecución de un fideicomiso, causará el impuesto conforme a esta fracción, salvo cuando esta se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso o de los adquirentes de los derechos de fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
+Cuando se trate de adquisiciones que se hagan constar en documento privado, para los efectos del pago de ese impuesto el adquirente deberá presentar el original del documento en que se consigne la adquisición, acompañado de tres copias tanto de dicho documento como del avalúo comercial respectivo. Cuando en estos casos la transmisión de la propiedad haya operado teniendo como fundamento los contratos o antecedentes a que se refieren las fracciones II y III del Artículo 141 de esta Ley, los adquirientes deberán presentar nuevas declaraciones o documentos, relacionándolos con los anteriores, a fin de evitar el doble pago de este impuesto.
 
-III.- Salvo prueba en contrario, se presume para los efectos del pago de este impuesto que el valor de los bienes inmuebles no puede ser menor de $ 2,000.00 (DOS MIL PESOS);
+Tratándose de contratos de compraventa con reserva de dominio o promesa de compraventa, a que se refieren las fracciones II y III del Artículo 141 de esta Ley, que se consignen en documento privado y que sean celebrados en su carácter de vendedores o de promitentes vendedores por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compraventa y administración de bienes inmuebles, el impuesto a que se refiere este capítulo deberá ser retenido por dichas empresas, debiendo enterarlo ante la oficina recaudadora correspondiente, a más tardar el día 15 del mes siguiente de aquel en que se hubieren celebrado dichos contratos, mediante la presentación de una declaración en la que se indique la fecha de celebración de cada contrato, las características y ubicación del inmueble, el nombre del promitente comprador, el importe de la operación y el monto del avalúo comercial respectivo.
 
-IV.- Cuando los bienes se adquieran con gravámenes, el importe de dichos gravámenes se considerará como parte del precio y deberá tomarse en cuenta al calcularse el impuesto que causa la operación.
+El traspado (sic) o la cesión de derechos derivados de contratos de los señalados en el párrafo que antecede, causará nuevamente el impuesto en los términos de este artículo.
 
-ART. 143.- El avalúo comercial a que se refiere la Fracción II del Artículo anterior, deberá someterse previamente a la aprobación de la Dirección General de Catastro, o de su Delegación correspondiente, observándose las siguientes reglas:
+El enajenante y los demás contratantes responderán solidariamente del impuesto que deba pagar el adquirente.
 
-I.- El valor que se fije al inmueble deberá referirse a la fecha en que se lleve a cabo la operación, se celebre el acto, o se otorgue el contrato o escritura traslativos de dominio;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+ART. 147.- Los Notarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos traslativos de dominio de bienes inmuebles, mientras no se hubiere pagado el impuesto que establece este capítulo cuando éste deba cubrirse; o la declaración sin pago cuando la base sea inferior a la reducción autorizada por la Ley; o en su caso, la resolución de la autoridad fiscal que conceda la exención de ese pago en los casos establecidos por el Artículo 140 de esta Ley.
 
-II.- Dicho avalúo comercial tendrá vigencia por seis meses a partir de su fecha. Por lo tanto, cuando el inmueble sea objeto de otra transmisión dentro de los seis meses siguiente a la fecha en que se hubiere practicado el avalúo, no habrá necesidad de nuevo avalúo, a menos de que el inmueble haya sido objeto de ampliación, reconstrucción o fusión;
+La Secretaría de Hacienda Pública y Tesorería, por conducto de la Subsecretaría de Ingresos, queda facultada para inspeccionar o revisar los libros y protocolos y contabilidad de los contribuyentes, retenedores y fedatarios, a efecto de comprobar el pago del impuesto que establece este capítulo.
 
-III.- El avalúo comercial deberá comprender tanto el valor del terreno como el de las construcciones y demás accesorios, aún cuando se traslade el dominio únicamente del terreno o bien solamente de las construcciones o accesorios, salvo que se pruebe que el adquirente contruyó (sic) con fondos propios las construcciones o que las adquirió con anterioridad, habiendo cubierto el impuesto respectivo.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-IV.- El avalúo deberá ser practicado considerando los valores reales actuales y condiciones físicas del inmueble.
+ART. 148.- El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles, mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo, o no se acredite que se presentó la declaración en que conste que no se causó el impuesto porque la base gravable es inferior a la reducción prevista en el Artículo 139 de esta Ley o en su caso, no le exhiban la resolución que hubiere concedido la exención del impuesto en los términos del Artículo 140.
 
-Si la Dirección General de Catastro o su Delegación correspondiente, dictaminan que el avalúo comercial presentado, para los efectos de las (sic) Fracción II del Artículo anterior, no se ajusta a las disposiciones de este Artículo, por que se estime que su valor es simulado o notoriamente inferior al valor comercial del inmueble, dicho avalúo será objetado para que se proceda a su modificación o corrección por parte del perito valuador que lo formuló. En caso contrario, dentro de los tres días hábiles siguientes a la fecha de la objeción de dicho avalúo, se practicará el avalúo comercial respectivo por parte del personal que asigne dicha Dirección, debiendo el causante proporcionar todos los datos que se les solicite y dar toda clase de facilidades para la elaboración del avalúo, y en caso de renuencia, se obtendrán los datos a costa del interesado.
+En los casos de nuda propiedad, la oficina del Registro Público de la Propiedad no podrá cancelar la inscripción del desmembramiento de la propiedad ni inscribir el derecho consolidado, si no se le comprueba previamente que se pagó la diferencia de impuesto que resulte entre lo cubierto por la transmisión de la nuda propiedad en los términos del Artículo 141, fracción VII de esta Ley y el impuesto calculado sobre la traslación íntegra del dominio.
 
-V.- La Dirección General de Catastro dispondrá hasta de seis días hábiles para resolver sobre la aceptación o rechazo del avalúo comercial presentado. Si transcurrido dicho término, la Dirección General de Catastro no rechaza el Avalúo comercial presentado, éste se considerará como definitivo.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
-ART. 144.- El perito que formule el avalúo comercial deberá estar inscrito en el Registro de Peritos de la Dirección General de Catastro. La inscripción del perito estará sujeta a los requisitos que para tal efecto establezca dicha Dirección, conforme al reglamento respectivo.
+ART. 149.- El total del ingreso que se recaude por concepto del impuesto establecido por este capítulo, tendrá la siguiente distribución: el 77% corresponderá al Fisco del Estado, el 8% se destinará a la educación superior y el 15% restante se entregará al Municipio en cuya jurisdicción se encuentre ubicado el inmueble.
 
-ART. 145.- En los casos de permuta se tomará como base para la determinación del impuesto el valor de la cosa permutada que sea mayor, aplicándose en lo conducente las reglas contenidas en los tres Artículos precedentes. En estos casos es sujeto del impuesto el permutante que reciba la cosa cuyo valor resulte mayor, respondiendo solidariamente de su pago el otro permutante.
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
 
-ART. 146.- Las transmisiones de dominio sujetas a condición suspensiva o resolutoria, se reputarán como puras para los efectos de pago del impuesto y las ventas a plazo o en abonos como ventas al contado.
+### CAPITULO VIII BIS. Impuesto Sobre Adquisición de Vehículos de Motor Usados
 
-Cuando se adquieran por una sola persona, en operaciones separadas, en el mismo año, porciones de un mismo bien inmueble que constituya una unidad, para los efectos de la aplicación de la tarifa, se acumularán dichas operaciones aplicándose la tasa correspondiente a la suma del valor de las operaciones, como si fuera una sola, siguiéndose las demás reglas relativas a la naturaleza de los bienes objeto de las operaciones.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-ART. 147.- Es sujeto de este impuesto el adquirente pero responderán solidariamente de su pago el enajenante y los demás contratantes, y los Notarios, Corredores y Jueces que actúen por receptoría cuando autoricen el contrato o acto de transmisión, sin que se les compruebe el pago del impuesto, así como los encargados del Registro Público de la Propiedad y del Comercio, cuando autoricen una inscripción sin esa comprobación.
+ART. 150.- Están obligados al pago de este impuesto, quienes por cualquier título adquieran dentro del territorio del Estado, la propiedad o la posesión de vehículos de motor usados, siempre que la enajenación no sea objeto del Impuesto al Valor Agregado.
 
-En la constitución de fideicomiso, el sujeto del impuesto será el fideicomisario, pero responderá solidariamente de su pago el fideicomitente. En caso del (sic) que al constituirse el fideicomiso no se designe fideicomisario, el impuesto será cargo del fideicomitente.
+Para los efectos de este Capítulo, se entiende por vehículos de motor usado aquel cuya propiedad sea transferida por segunda o ulteriores manos.
 
-ART. 148.- Cuando los bienes muebles se remitan de una población a otra del Estado, la remisión deberá ampararse con los documentos que comprueben la operación o el transporte, mismos que deberán ser mostrados a los inspectores y empleados fiscales que los soliciten.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-En el caso de operaciones con vehículos automotores, salvo prueba en contrario a satisfacción de la Secretaría de Finanzas del Estado, se considerará efectuada la operación dentro del Estado, por el sólo hecho de dar de alta un vehículo en territorio del mismo.
+ART. 151.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
 
-ART. 149.- El pago de ese impuesto se hará en la Oficina Recaudadora del lugar de ubicación de los bienes, en los siguientes términos:
+Para vehículos cuyo modelo corresponda al año en curso, se tomará como base del impuesto el 90% del importe de la primera facturación.
 
-I.- El que se cause sobre bienes muebles o inmuebles cuya transmisión no se consigne en escritura pública, se pagará dentro de los quince días siguientes a la fecha de la operación. En todo caso, el impuesto se pagará antes de que se hagan las inscripciones correspondientes en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-II.- El que se cause sobre bienes muebles e inmuebles, si la transmisión se hace constar en escritura pública, el pago del impuesto se hará dentro de los 30 días siguientes a la fecha de la escritura. En todo caso, el impuesto se cubrirá antes de que se autorice el documento traslativo de dominio y de que se hagan las inscripciones correspondientes en el Registro Público de la propiedad y del Comercio;
+ART. 152.- Para los efectos de este impuesto, salvo prueba en contrario a satisfacción de las autoridades fiscales, se considerará efectuada la operación dentro del Estado, por el solo hecho de dar de alta un vehículo en territorio del mismo.
 
-III.- En los casos de adquisición de dominio por prescripción positiva, información ad-perpetuam o de sentencia judicial que implique reconocimiento de la posesión, el pago del impuesto se efectuará en los términos especificados en las fracciones anteriores, según se trate de bienes muebles e inmuebles, cuyos plazos se contarán a partir de la fecha en que se justifique la adquisición.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-ART. 150.- Los causantes de estos impuestos están obligados:
+ART. 153.- Este impuesto se causará y pagará con una tasa del 5% aplicable sobre la base gravable a que se refiere el Artículo 151 de esta Ley.
 
-I.- Presentar, dentro de los plazos mencionados en el artículo anterior y en el momento de efectuar el pago del impuesto, el documento en que se consigne el acto traslativo de dominio, acompañado de tres copias del mismo si se presenta ante una Recaudación de Rentas, o de cuatro copias si se presentan ante una Colecturía de Rentas;
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-II.- Si la operación se celebra verbalmente, o cuando el documento en que se consigne el acto traslativo de dominio no contenga todos o algunos de los datos que en seguida se indican, el causante presentará una declaración complementaria, con las copias especificadas en la fracción anterior, en la que se manifiesten los siguientes datos o los que aparezcan omitidos;
+ART. 154.- El pago de este impuesto deberá efectuarse en la oficina recaudadora correspondiente, dentro de los quince días naturales siguientes a la fecha de celebración de la operación.
 
-a).- Fecha y lugar de la operación;
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-b).- Nombre y domicilio del enajenante;
+ART. 155.- Para los efectos del pago del impuesto, los adquirentes deberán presentar ante la oficina recaudadora correspondiente el original del documento que ampare la propiedad del vehículo materia de la operación, acompañado de tres copias del mismo y en el que se señale expresamente el precio y la fecha de la operación.
 
-c).- Nombre y domicilio del adquirente;
+La oficina recaudadora efectuará el cobro del impuesto expidiendo el recibo oficial respectivo, y sellará la factura o comprobante que ampare la propiedad del vehículo, para hacer constar que el impuesto ha sido cubierto.
 
-d).- Especificación y valor de los bienes cuyo dominio se adquirió.
+> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
 
-III.- En los casos comprendidos en el Artículo 148 se observarán las siguientes reglas:
+ART. 156.- Las autoridades correspondientes del Estado, no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos si no se les comprueba previamente el pago del impuesto a que se refiere este capítulo.
 
-Cuando la remisión se haga de una plaza a otra dentro del Estado, el remitente, en la misma fecha en que documente el embarque o al día siguiente hábil si aquél se efectuó en día y hora inhábil, presentará una declaración que contenga los datos señalados en la fracción precedente y además:
+Las empresas dedicadas a la compraventa de vehículos de motor usados, deberán llevar un libro autorizado por la oficina recaudadora correspondiente, en el que anotarán en el acto de recibir cada vehículo las características del mismo, el nombre y domicilio del propietario anterior, o el del comitente o consignante.
 
-a).- Lugar de embarque;
-
-b).- Lugar de destino;
-
-c).- Nombre y domicilio del consignatario;
-
-d).- Nombre y domicilio del remitente;
-
-e).- Medio de transporte utilizado y especificación de la unidad en que se hayan embarcado los bienes remitidos.
-
-ART. 151.- Si se omite la presentación de los documentos a que se refiere el artículo 150, las autoridades fiscales los suplirán de oficio y procederán a determinar y notificar el crédito fiscal. En el caso de que éste no fuere pagado en el término de ocho días, se hará efectivo mediante el procedimiento administrativo de ejecución.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 152.- La promesa de compraventa causará el impuesto a razón del 1% aplicable sobre el precio de la cosa objeto de la operación, siguiéndose las demás reglas relativas a la naturaleza de los bienes de que se trate. En los casos en que no se fije precio a la operación, el impuesto se cubrirá sobre el valor determinado por peritos, si se trata de bienes muebles, o sobre el valor catastral, si se trata de bienes inmuebles.
-
-El traspaso o cesión de los derechos que sean el objeto de un contrato de promesa, causará el impuesto correspondiente en los términos de este artículo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 153.- Es sujeto del Impuesto sobre Promesa de Compraventa el promitente comprador, respondiendo solidariamente de su pago el promitente vendedor.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 154.- Tratándose de contratos de promesa de compraventa celebrados por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compraventa y administración de bienes inmuebles, el impuesto a que se refiere el Artículo 152 de esta Ley deberá ser retenido por dichas empresas debiendo enterarlo ante la Oficina Recaudadora correspondiente a su domicilio a más tardar dentro de los primeros quince días del mes siguiente de aquél en que se hubieren celebrado los contratos, mediante la presentación de una declaración mensual en la que se indique la fecha de celebración de cada contrato, el nombre del promitente comprador y el importe de la operación.
-
-ART. 155.- Los Notarios y Jueces que actúen por receptoría em (sic) territorio del Estado fijarán bajo su responsabilidad la cuota de las escrituras que otorguen ante su fé, y en una nota consignarán la liquidación del impuesto respectivo. Dichos funcionarios no autorizarán las escrituras en que consignen actos gravados con los impuestos de este Capítulo sin que previamente se les compruebe su pago.
-
-ART. 156.- Los encargados del Registro Público de la propiedad no podrán hacer inscripción alguna de los actos gravados en este Capítulo si no se les comprueba el pago de los impuestos correspondientes.
+Son solidariamente responsables del pago de este impuesto los enajenantes y las demás personas que intervengan en las operaciones.
 
 ### CAPITULO IX. Impuesto sobre Remuneración del Trabajo Personal
 
@@ -2603,39 +2575,181 @@ b).- De cambio o baja;
 
 ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
-
-ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
-
-Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
-
-ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
-
-ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
-
-ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
-
-ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
-
-ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
-
-I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
-
-II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
-
-III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
-
-IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
-
-V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
-
-ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
 ## TITULO TERCERO. DE LOS DERECHOS
+
+### CAPITULO II. Copias de Planos, Avalúos y Trabajos Catastrales
+
+ART. 295.- El cobro por concepto de copias de planos, certificados catastrales y otros trabajos que se ejecuten en la Dirección General de Catastro y en Delegaciones correspondientes, se regirá por la siguiente:
+
+T A R I F A
+
+I.- Por la certificación:
+
+a).- Del nombre del propietario o poseedor de un predio $ 50.00
+
+b).- Del valor fiscal o catastral de un predio 50.00
+
+c).- De un predio en que señalen colindancias y medidas 100.00
+
+d).- En la que se señale la superficie catastral de un predio 50.00
+
+e).- En que se indiquen antecedentes de propiedad 200.00
+
+f).- De un predio en el que se señalen nombre del propietario o
+
+poseedor, ubicación, valor fiscal, medidas, colindancias y
+
+superficie 200.00
+
+g).- De un predio en el que se señalen nombre del propietario o poseedor, ubicación, valor fiscal, medidas y colindancias, superficie y antecedentes de propiedad 200.00
+
+h).- De predios cancelados 80.00
+
+i).- De "No Propiedad" 80.00
+
+j).- De documentos catastrales, por hoja 50.00
+
+k).- Del valor fiscal o catastral proporcional de una fracción de predio 80.00
+
+l).- De ubicación del predio 50.00
+
+ll).- De planos catastrales 100.00
+
+II.- Por la expedición:
+
+a).- De copias fotostáticas de documentos catastrales, por hoja hasta de tamaño oficio 35.00
+
+b).- De copias mecanografiadas de documentos catastrales, por hoja hasta tamaño oficio 60.00
+
+c).- De copias heliográficas o fotostáticas de planos del Estado, de los municipios o de poblaciones:
+
+1.- Tamaño oficio 50.00
+
+2.- Por cada decímetro cuadrado que exceda al tamaño anterior 1.50
+
+d).- De copias heliográficas de planos de manzanas:
+
+1.- Tamaño 54 X 35 Cms. 50.00
+
+2.- Tamaño 45 X 68 Cms. 80.00
+
+3.- Tamaño 103 X 35 Cms. 100.00
+
+4.- Tamaño 103 X 68 Cms. 185.00
+
+e).- De copias heliográficas de planos de zonas catastrales, por cada decímetro cuadrado o fracción 2.50
+
+f).- De calcas de planos a tinta con señalamiento de linderos, medidas y superficies:
+
+1.- Por cada decímetro cuadrado o fracción 20.00
+
+2.- El mismo trabajo a lápiz, por cada decímetro cuadrado o fracción 10.00
+
+III.- Por el señalamiento de linderos, levantamiento, cálculo y dibujo que se soliciten de predios urbanos en poblaciones del Estado, así como de predios en zonas rústicas, se cobrarán los derechos en cada caso, de acuerdo con lo siguiente:
+
+a).- Por predios urbanos:
+
+1.- Por levantamiento y cálculo:
+
+Por Terreno:
+
+Hasta 500 M2 150.00
+
+De 501 M2 en adelante, además de la cuota anterior 0.20 por M2
+
+Por Construcción:
+
+Hasta 500 M2 150.00
+
+De 501 M2 en adelante, además de la cuota anterior 0.20 por M2
+
+En el caso de predios localizados en poblaciones fuera del área de asiento de la Delegación de Catastro, se cobrará además de la tarifa anterior, una cuota de $ 150.00.
+
+2.- Por dibujo:
+
+En planos hasta tamaño carta, $ 150.00 y por decímetro cuadrado o fracción excedente, $ 20.00
+
+b).- Por predios rústicos:
+
+1.- Por levantamiento y cálculo:
+
+Hasta 10 Has. $ 500.00
+
+De 11 Has. en adelante, además de la cuota anterior 50.00 Por Ha.
+
+2.- Por dibujo:
+
+En planos hasta tamaño carta $ 150.00 y por cada decímetro cuadrado o fracción excedente $ 20.00.
+
+Para efectuar los trabajos (sic) que se refiere esta fracción, se requiere que el terreno esté limpio y despejado para la medición.
+
+En los casos a que se refiere esta fracción, el levantamiento y cálculo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
+
+IV.- Por la práctica de avalúo comercial para los efectos del impuesto sobre Traslación de Dominio, se cobrarán los derechos en cada caso con lo siguiente:
+
+a).- Por predios urbanos:
+
+1.- Por terreno;
+
+Zonas comerciales $ 2.20 M2
+
+Zonas residenciales (1º - 2º y 3º orden) 1.00 M2
+
+Zonas populares y proletarias 0.40 M2
+
+Zonas semi-industriales e industriales 0.20 M2
+
+2.- Por construcciones:
+
+De uso comercial 2.50 M2
+
+De uso habitacional (1° - 2° y 3° orden ) 2.25 M2
+
+De uso habitacional (proletario y popular) 2.00 M2.
+
+De uso industrial y semi-industrial 0.75 M2
+
+En el caso de predios localizados en poblaciones fuera del área de asiento de la Delegación de Catastro, se cobrará además de la tarifa anterior, una cuota de $ 150.00.
+
+B).- Por predios rústicos:
+
+Hasta 20 Has. 500.00
+
+De 21 Has. en adelante el excedente se cobrará, además de la cuota anterior, como sigue:
+
+TIPO DE TERRENO: CUOTA POR
+
+HECTAREA
+
+Riego de Gravedad $ 10.00
+
+Riego de bombeo 5.00
+
+Riego de Avenida
+
+o Humedad 3.00
+
+Temporal
+
+topografía plana 2.00
+
+Temporal
+
+topografía accidentada 1.75
+
+Agostadero 1.50
+
+Cerriles
+
+y forestales 1.00
+
+Estériles,
+
+salitrosos y playas 0.75
+
+En los casos a que se refiere esta fracción, el avalúo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
+
+ART. 296.- Los casos no previstos en esta tarifa, serán resueltos por la Dirección General de Catastro, asimilándoles con alguno de los señalados en ella.
 
 ### CAPITULO III. Actos del Registro Civil
 
@@ -3107,6 +3221,12 @@ ART. 320.- No se causarán derechos de registro por la certificación que se pon
 
 ART. 321.- No se causarán derechos de registro en el caso previsto por el Artículo 618 de la Ley Federal de Trabajo.
 
+###### Art. 322.
+
+Los Oficiales Registradores, al serles solicitado un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas que al afecto (sic) les proporcione la Oficina Recaudadora correspondiente, cuyo original y duplicado entregarán al causante para que efectúe el pago en la Oficina Recaudadora de la jurisdicción de la Oficina del Registro Público. Hecho el pago, el interesado exhibirá al Oficial Registrador el recibo oficial de pago para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
+
+ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Finanzas del Estado. El Oficial Registrador deberá cubrir absolutamente todos los gastos de la Oficina a su cargo, asegurando un servicio rápido y eficaz. Los Oficiales Registradores cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación, haciéndoles los descuentos respectivos.
+
 ### CAPITULO XI
 
 De los Permisos para Transportar Alcohol, Vinos y Licores y de los Permisos y Registros para el funcionamiento de Fábricas y Expendios de Bebidas Alcohólicas y de otras Bebidas
@@ -3158,12 +3278,6 @@ La asignación de la cuota aplicable entre la mínima y la máxima, de la tarifa
 ART. 325.- La revalidación anual de los permisos, licencias y registros a que se refiere el artículo anterior, deberá efectuarse durante los meses de enero a marzo de cada año, en caso contrario, se pagará, además de los derechos correspondientes, una multa de un tanto del principal.
 
 ART. 326.- Para la aplicación de las multas por violaciones a la Ley sobre Control de Bebidas Alcohólicas y su Reglamento, se atenderá a las disposiciones contenidas en dicha Ley.
-
-###### Art. 322.
-
-Los Oficiales Registradores, al serles solicitado un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas que al afecto (sic) les proporcione la Oficina Recaudadora correspondiente, cuyo original y duplicado entregarán al causante para que efectúe el pago en la Oficina Recaudadora de la jurisdicción de la Oficina del Registro Público. Hecho el pago, el interesado exhibirá al Oficial Registrador el recibo oficial de pago para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
-
-ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Finanzas del Estado. El Oficial Registrador deberá cubrir absolutamente todos los gastos de la Oficina a su cargo, asegurando un servicio rápido y eficaz. Los Oficiales Registradores cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación, haciéndoles los descuentos respectivos.
 
 ### CAPITULO XII. Servicio Sanitario
 
@@ -3867,9 +3981,9 @@ e).- Sobre Producción de Mieles Incristalizables;
 
 f).- Sobre Producción Agrícola;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P. O. 31 DE ENERO DE 1983)</small>
 
-g).- Sobre Traslación de Dominio y Promesa de Compraventa;
+g).- Sobre adquisición de vehículos de motor usados;
 
 h).- Sobre Profesiones y Oficios;
 
@@ -3927,6 +4041,40 @@ ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
 
+### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
+
+ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
+
+Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
+
+ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
+
+ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
+
+ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
+
+ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
+
+ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
+
+I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
+
+II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
+
+III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
+
+IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Finanzas del Estado, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora.
+
+V.- Cuando un causante no presente oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Finanzas del Estado para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del impuesto omitido por conducto de la respectiva Oficina Recaudadora.
+
+ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
 ### CAPITULO II. Adicional Municipal
 
 ART. 371.- Sobre el monto de los impuestos que a continuación se indican, se causará una tasa adicional del 20%, destinada a la Hacienda Pública Municipal:
@@ -3941,9 +4089,9 @@ IV.- Impuesto sobre Miles Incristalizables;
 
 V.- Impuesto sobre Producción Agrícola;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P. O. 31 DE ENERO DE 1983)</small>
 
-VI.- Impuesto sobre Traslación de Dominio y Promesa de Compraventa;
+VI.- Impuesto sobre adquisición de vehículos de motor usados.
 
 VII.- Impuesto sobre Profesiones y Oficios;
 
@@ -4025,7 +4173,7 @@ III.- A llevar registro de entradas, salidas y existencias de productos a proces
 
 ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO CUARTO. DE LOS PRODUCTOS
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO III. 21 y 22% Adicionales
 
@@ -4073,7 +4221,7 @@ ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la 
 
 ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+## TITULO SEXTO. DE LAS PARTICIPACIONES
 
 ### CAPITULO UNICO
 
@@ -4085,47 +4233,7 @@ II.- Aportaciones de los entes públicos;
 
 III.- No especificados.
 
-### CAPITULO XX. Impuesto a la Industria Algodonera
-
-ART. 259.- Es objeto de este impuesto la producción industrial de algodón en pluma.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 260.- Son causantes del impuesto las personas físicas o jurídicas que realicen él o los procesos industriales mediante los cuales se produce el algodón en pluma, cuando el producto elaborado sea propiedad de quienes efectúen dicho proceso o procesos de elaboración.
-
-ART. 261.- El impuesto se causará con una cuota de $82.00 por tonelada de algodón en pluma producido.
-
-El peso del algodón en pluma producido será el que resulte mayor entre el determinado por básculas que use el causante para cuantificar su producción o bien el que sirva de base en sus operaciones de venta o maquila.
-
-Para efectos fiscales no se admitirá que el rendimiento en el algodón en pluma sea inferior al 34% del peso total del algodón en hueso o rama recibido para su despepite, ni cualquier otra deducción.
-
-ART. 262.- El impuesto se determinará por períodos que abarquen del día primero al día quince y del día dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los cinco días hábiles siguientes a la terminación de cada período y mediante las formas de declaración que para el efecto autorice la Secretaría de Finanzas del Estado.
-
-Cuando un mismo causante opere más de una planta industrial, las declaraciones y pago correspondiente a cada período se hará en forma separada por cada una de las plantas.
-
-ART. 263.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
-
-I.- A presentar aviso de iniciación de producción dentro de los cinco días hábiles siguientes a la iniciación de cada ciclo productivo;
-
-II.- A presentar aviso de terminación de producción dentro de los cinco días hábiles siguientes a la terminación de cada ciclo productivo;
-
-III.- A presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo. Esta declaración deberá presentarse dentro de los quince días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
-
-IV.- A llevar registros de entradas, salidas, existencias de algodón en hueso o en rama, así como de producción, entradas, salidas, ventas y existencias de algodón en pluma;
-
-V.- A proporcionar a las autoridades fiscales todos los datos, libros y documentos que les soliciten;
-
-VI.- A recibir las visitas de inspección e investigación, así como a proporcionar a los inspectores y auditores, los datos informes y documentos que les soliciten.
-
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice para el efecto la Secretaría de Finanzas del Estado.
-
-ART. 264.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la primera venta de semilla industrial, borra y demás subproductos que se obtengan al industrializar el algodón en rama, siempre y cuando se haya cubierto el impuesto contenido en cada Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 264 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO SEXTO. DE LAS PARTICIPACIONES
+## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO UNICO
 
@@ -4156,8 +4264,6 @@ I.- Ordenará visitas de inspección y auditorías, solicitará datos e informes
 II.- Ordenará diligencias de inspección permanente en los establecimientos en que esta medida sea necesaria para el control y vigilancia fiscales;
 
 III.- Previo el procedimiento legal, aplicará y ejecutará las sanciones procedentes por las infracciones cometidas y determinará y recaudará los impuestos omitidos y, en caso de la comisión de delitos relacionados con la legislación fiscal, hará las consignaciones respectivas al Ministerio Público.
-
-## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO UNICO
 
@@ -4499,6 +4605,8 @@ ART. 405.- Los honorarios de los ejecutores notificadores y demás gastos a que 
 
 Los ejecutores notificadores percibirán a título de honorarios el doce por ciento sobre el impuesto principal sin que en ningún caso pueda exceder de $1,000.00 lo que por este concepto les corresponda.
 
+## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+
 ### CAPITULO II. De la Suspensión del Procedimiento de Ejecución Fiscal
 
 ART. 406.- Las obligaciones y los créditos fiscales a que esta Ley se refiere podrán garantizarse en cualquiera de las formas siguientes:
@@ -4521,7 +4629,7 @@ ART. 408.- La Secretaría de Finanzas dictará los requisitos que deban reunir l
 
 ART. 409.- La Secretaría de Finanzas podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorios la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
-## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
 
 ### CAPITULO III. Del Requerimiento de Pago
 
@@ -4543,7 +4651,7 @@ VII.- En caso de negativa a firmar se hará constar el hecho, en acta que levant
 
 VIII.- Lo asentado por el Ejecutor notificador hará prueba plena mientras no se demuestre lo contrario.
 
-## TITULO NOVENO. DE LAS OBLIGACIONES EN MATERIA FISCAL DE TERCEROS, FUNCIONARIOS ENCARGADOS DE LLEVAR LA FE PUBLICA Y DE AUTORIDADES AUXILIARES
+## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
 ### CAPITULO IV. De los Embargos
 
@@ -4646,8 +4754,6 @@ II.- La Secretaría de Finanzas del Estado hará la revisión del expediente pud
 III.- Hecha la revisión, se comunicará el resultado a la oficina ejecutora devolviéndole el expediente;
 
 IV.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
-
-## TITULO DECIMO. DE LAS INFRACCIONES FISCALES Y DE LAS SANCIONES CORRESPONDIENTES
 
 ### CAPITULO V. De los Remates
 
@@ -4831,6 +4937,46 @@ En tanto se resuelve este recurso, quedará en suspenso el término legal para i
 
 Cuando se haya iniciado juicio ante el Tribunal Fiscal, será improcedente la solicitud sobre nulidad de notificaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
 
+### CAPITULO XX. Impuesto a la Industria Algodonera
+
+ART. 259.- Es objeto de este impuesto la producción industrial de algodón en pluma.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 260.- Son causantes del impuesto las personas físicas o jurídicas que realicen él o los procesos industriales mediante los cuales se produce el algodón en pluma, cuando el producto elaborado sea propiedad de quienes efectúen dicho proceso o procesos de elaboración.
+
+ART. 261.- El impuesto se causará con una cuota de $82.00 por tonelada de algodón en pluma producido.
+
+El peso del algodón en pluma producido será el que resulte mayor entre el determinado por básculas que use el causante para cuantificar su producción o bien el que sirva de base en sus operaciones de venta o maquila.
+
+Para efectos fiscales no se admitirá que el rendimiento en el algodón en pluma sea inferior al 34% del peso total del algodón en hueso o rama recibido para su despepite, ni cualquier otra deducción.
+
+ART. 262.- El impuesto se determinará por períodos que abarquen del día primero al día quince y del día dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los cinco días hábiles siguientes a la terminación de cada período y mediante las formas de declaración que para el efecto autorice la Secretaría de Finanzas del Estado.
+
+Cuando un mismo causante opere más de una planta industrial, las declaraciones y pago correspondiente a cada período se hará en forma separada por cada una de las plantas.
+
+ART. 263.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
+
+I.- A presentar aviso de iniciación de producción dentro de los cinco días hábiles siguientes a la iniciación de cada ciclo productivo;
+
+II.- A presentar aviso de terminación de producción dentro de los cinco días hábiles siguientes a la terminación de cada ciclo productivo;
+
+III.- A presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo. Esta declaración deberá presentarse dentro de los quince días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
+
+IV.- A llevar registros de entradas, salidas, existencias de algodón en hueso o en rama, así como de producción, entradas, salidas, ventas y existencias de algodón en pluma;
+
+V.- A proporcionar a las autoridades fiscales todos los datos, libros y documentos que les soliciten;
+
+VI.- A recibir las visitas de inspección e investigación, así como a proporcionar a los inspectores y auditores, los datos informes y documentos que les soliciten.
+
+Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice para el efecto la Secretaría de Finanzas del Estado.
+
+ART. 264.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la primera venta de semilla industrial, borra y demás subproductos que se obtengan al industrializar el algodón en rama, siempre y cuando se haya cubierto el impuesto contenido en cada Capítulo.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 264 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
 ### CAPITULO XXI. Impuesto a la Industria Arrocera
 
 ART. 265.- Es objeto de este impuesto el arroz palay que entre a proceso industrial para producir arroces morenos, blancos o cualquier otro producto derivado.
@@ -5007,180 +5153,6 @@ ART. 292 Bis.- El impuesto contenido en este Capítulo, no se causará mientras 
 
 ### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
 
-### CAPITULO II. Copias de Planos, Avalúos y Trabajos Catastrales
-
-ART. 295.- El cobro por concepto de copias de planos, certificados catastrales y otros trabajos que se ejecuten en la Dirección General de Catastro y en Delegaciones correspondientes, se regirá por la siguiente:
-
-T A R I F A
-
-I.- Por la certificación:
-
-a).- Del nombre del propietario o poseedor de un predio $ 50.00
-
-b).- Del valor fiscal o catastral de un predio 50.00
-
-c).- De un predio en que señalen colindancias y medidas 100.00
-
-d).- En la que se señale la superficie catastral de un predio 50.00
-
-e).- En que se indiquen antecedentes de propiedad 200.00
-
-f).- De un predio en el que se señalen nombre del propietario o
-
-poseedor, ubicación, valor fiscal, medidas, colindancias y
-
-superficie 200.00
-
-g).- De un predio en el que se señalen nombre del propietario o poseedor, ubicación, valor fiscal, medidas y colindancias, superficie y antecedentes de propiedad 200.00
-
-h).- De predios cancelados 80.00
-
-i).- De "No Propiedad" 80.00
-
-j).- De documentos catastrales, por hoja 50.00
-
-k).- Del valor fiscal o catastral proporcional de una fracción de predio 80.00
-
-l).- De ubicación del predio 50.00
-
-ll).- De planos catastrales 100.00
-
-II.- Por la expedición:
-
-a).- De copias fotostáticas de documentos catastrales, por hoja hasta de tamaño oficio 35.00
-
-b).- De copias mecanografiadas de documentos catastrales, por hoja hasta tamaño oficio 60.00
-
-c).- De copias heliográficas o fotostáticas de planos del Estado, de los municipios o de poblaciones:
-
-1.- Tamaño oficio 50.00
-
-2.- Por cada decímetro cuadrado que exceda al tamaño anterior 1.50
-
-d).- De copias heliográficas de planos de manzanas:
-
-1.- Tamaño 54 X 35 Cms. 50.00
-
-2.- Tamaño 45 X 68 Cms. 80.00
-
-3.- Tamaño 103 X 35 Cms. 100.00
-
-4.- Tamaño 103 X 68 Cms. 185.00
-
-e).- De copias heliográficas de planos de zonas catastrales, por cada decímetro cuadrado o fracción 2.50
-
-f).- De calcas de planos a tinta con señalamiento de linderos, medidas y superficies:
-
-1.- Por cada decímetro cuadrado o fracción 20.00
-
-2.- El mismo trabajo a lápiz, por cada decímetro cuadrado o fracción 10.00
-
-III.- Por el señalamiento de linderos, levantamiento, cálculo y dibujo que se soliciten de predios urbanos en poblaciones del Estado, así como de predios en zonas rústicas, se cobrarán los derechos en cada caso, de acuerdo con lo siguiente:
-
-a).- Por predios urbanos:
-
-1.- Por levantamiento y cálculo:
-
-Por Terreno:
-
-Hasta 500 M2 150.00
-
-De 501 M2 en adelante, además de la cuota anterior 0.20 por M2
-
-Por Construcción:
-
-Hasta 500 M2 150.00
-
-De 501 M2 en adelante, además de la cuota anterior 0.20 por M2
-
-En el caso de predios localizados en poblaciones fuera del área de asiento de la Delegación de Catastro, se cobrará además de la tarifa anterior, una cuota de $ 150.00.
-
-2.- Por dibujo:
-
-En planos hasta tamaño carta, $ 150.00 y por decímetro cuadrado o fracción excedente, $ 20.00
-
-b).- Por predios rústicos:
-
-1.- Por levantamiento y cálculo:
-
-Hasta 10 Has. $ 500.00
-
-De 11 Has. en adelante, además de la cuota anterior 50.00 Por Ha.
-
-2.- Por dibujo:
-
-En planos hasta tamaño carta $ 150.00 y por cada decímetro cuadrado o fracción excedente $ 20.00.
-
-Para efectuar los trabajos (sic) que se refiere esta fracción, se requiere que el terreno esté limpio y despejado para la medición.
-
-En los casos a que se refiere esta fracción, el levantamiento y cálculo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
-
-IV.- Por la práctica de avalúo comercial para los efectos del impuesto sobre Traslación de Dominio, se cobrarán los derechos en cada caso con lo siguiente:
-
-a).- Por predios urbanos:
-
-1.- Por terreno;
-
-Zonas comerciales $ 2.20 M2
-
-Zonas residenciales (1º - 2º y 3º orden) 1.00 M2
-
-Zonas populares y proletarias 0.40 M2
-
-Zonas semi-industriales e industriales 0.20 M2
-
-2.- Por construcciones:
-
-De uso comercial 2.50 M2
-
-De uso habitacional (1° - 2° y 3° orden ) 2.25 M2
-
-De uso habitacional (proletario y popular) 2.00 M2.
-
-De uso industrial y semi-industrial 0.75 M2
-
-En el caso de predios localizados en poblaciones fuera del área de asiento de la Delegación de Catastro, se cobrará además de la tarifa anterior, una cuota de $ 150.00.
-
-B).- Por predios rústicos:
-
-Hasta 20 Has. 500.00
-
-De 21 Has. en adelante el excedente se cobrará, además de la cuota anterior, como sigue:
-
-TIPO DE TERRENO: CUOTA POR
-
-HECTAREA
-
-Riego de Gravedad $ 10.00
-
-Riego de bombeo 5.00
-
-Riego de Avenida
-
-o Humedad 3.00
-
-Temporal
-
-topografía plana 2.00
-
-Temporal
-
-topografía accidentada 1.75
-
-Agostadero 1.50
-
-Cerriles
-
-y forestales 1.00
-
-Estériles,
-
-salitrosos y playas 0.75
-
-En los casos a que se refiere esta fracción, el avalúo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
-
-ART. 296.- Los casos no previstos en esta tarifa, serán resueltos por la Dirección General de Catastro, asimilándoles con alguno de los señalados en ella.
-
 ###### Art. 293.
 
 Los derechos por conceptos de legalización de firmas, certificaciones y expedición de copias de documentos por los funcionarios competente (sic) del Estado, se causarán conforme a la siguiente:
@@ -5342,3 +5314,9 @@ P.O. 1 DE ENERO DE 1982.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE ENERO DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
