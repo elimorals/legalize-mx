@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2005-03-02"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MARZO DE 2005.
 
 Ley publicada de la Segunda a la Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -4098,9 +4098,7 @@ Notas.
 
 1. Este Capítulo no comprende:
 
-a) los artículos para usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16), cuero
-
-natural o cuero regenerado (partida 42.04) o materia textil (partida 59.11);
+a) los artículos para usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16), cuero natural o cuero regenerado (partida 42.04) o materia textil (partida 59.11);
 
 b) los cinturones, fajas y demás artículos de materia textil cuyo efecto sea sostener o mantener un órgano como única consecuencia de su elasticidad (por ejemplo: fajas de maternidad, torácicas o abdominales, vendajes para articulaciones o músculos) (Sección XI);
 
@@ -4705,3 +4703,13 @@ SEGUNDO.- El artículo segundo de este Decreto entrará en vigor el día que ent
 D.O.F. 2 DE MARZO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MARZO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto lo señalado en los artículos transitorios siguientes.
+
+SEGUNDO.- Las fracciones arancelarias 1604.14.01, 1604.14.02, 1604.14.03, 1604.14.04, 1605.10.01, 1605.10.02, 1605.40.01, señaladas en los artículos de este ordenamiento, entrarán en vigor el día que entre en vigor el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación, exportación, internación o salida está sujeta a regulación por parte de la Secretaría de Salud.
+
+TERCERO.- Las fracciones arancelarias 2710.19.04 y 2710.19.08 señaladas en los artículos de este ordenamiento, entrarán en vigor el día que entre en vigor el Acuerdo que reforma al diverso por el que se establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Economía.
+
+CUARTO.- La fracción arancelaria 2933.69.16 señalada en los artículos de este ordenamiento, entrará en vigor el día que entre en vigor el Acuerdo que modifica el similar que establece la clasificación y codificación de mercancías cuya importación, exportación, internación o salida está sujeta a regulación por parte de la Secretaría de Salud.
