@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aviacion-civil-12627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-07"
-last_updated: "2000-08-08"
+last_updated: "2000-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-04"
 
 REGLAMENTO DE LA LEY DE AVIACION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2000.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 7 de diciembre de 1998.
 
@@ -209,7 +209,9 @@ I. Por lo que respecta a la capacidad técnica, un estudio técnico operativo, q
 
 a) La descripción de las características principales del servicio o servicios que pretende proporcionar;
 
-b) La relación del personal técnico aeronáutico disponible a emplear directamente o a través de terceros, de conformidad con las normas oficiales mexicanas correspondientes;
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+b) Un programa de inversión congruente con las características del servicio que pretende prestar y su proyección a un plazo no menor a tres años;
 
 c) El documento, convenio o similar que acredite que tiene o tendrá la propiedad o legal posesión y el derecho de explotación de las aeronaves y equipos aéreos, que permita su exacta identificación, y
 
@@ -229,7 +231,9 @@ b) La copia certificada del poder del representante legal otorgado ante fedatari
 
 c) En el caso de participación de inversión extranjera, la constancia de inscripción en el registro correspondiente, y
 
-IV. En cuanto a la capacidad administrativa:
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+IV. En cuanto a la capacidad administrativa, la relación del personal administrativo disponible a emplear directamente o a través de terceros para el ejercicio de la concesión solicitada.
 
 a) Un organigrama en el que se precisen los principales puestos administrativos y técnicos con facultades de decisión, y
 
@@ -237,7 +241,13 @@ b) La descripción de las funciones inherentes a cada uno de ellos.
 
 La Secretaría puede requerir que se aclare el contenido de la solicitud o la documentación que la acompañe dentro de un término de treinta días hábiles, contado a partir del momento en que se presenten todos los requisitos.
 
-En el caso de que la Secretaría otorgue la concesión, su titular debe de actualizar la documentación prevista en este artículo, así como en el artículo anterior, mediante aviso por escrito a la Secretaría, dentro de un término de treinta días hábiles posteriores al acto que dé origen al cambio o modificación de la información.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+En el caso de que la Secretaría otorgue la concesión, su titular debe de actualizar la documentación prevista en este artículo, así como en el artículo anterior, mediante aviso por escrito a la Secretaría, dentro de un término de treinta días hábiles posteriores al acto que dé origen al cambio o modificación de la información. Salvo lo establecido en el presente párrafo y las autorizaciones previstas en esta Sección, no se requerirá trámite adicional alguno para realizar la actualización de que se trata.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+Salvo lo establecido en este artículo no se requerirán trámites adicionales a los previstos en esta Sección.
 
 ###### ARTÍCULO 20.
 
@@ -247,7 +257,9 @@ I. Los documentos que acrediten la legal internación en territorio nacional de 
 
 II. Los certificados de matrícula y de aeronavegabilidad tratándose de aeronaves que operen con matrícula extranjera;
 
-III. Los documentos que acrediten el cumplimiento de los requisitos tanto técnicos como en materia de protección al ambiente que señalen las normas oficiales mexicanas correspondientes;
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+III. Los documentos que acrediten el cumplimiento de los requisitos tanto técnicos como en materia de protección al ambiente que señalen las normas oficiales mexicanas correspondientes. La Secretaría publicará en el Diario Oficial de la Federación la relación de dichos requisitos;
 
 IV. Un programa de seguridad aérea conforme a lo dispuesto por el artículo 109 fracción VIII de este Reglamento;
 
@@ -257,17 +269,27 @@ VI. Las pólizas de seguros vigentes, y
 
 VII. Los contratos de servicios de navegación aérea con los que debe contar durante la vigencia de la concesión.
 
-El concesionario debe solicitar autorización a la Secretaría de todo cambio o incremento de aeronaves que pretenda realizar. En este último caso debe presentar la información y documentación a que se refieren los incisos b) y c) de la fracción I del artículo anterior, así como el proyecto de contrato de arrendamiento cuando las aeronaves ostenten matrícula extranjera.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+El concesionario debe solicitar autorización a la Secretaría de todo cambio o incremento de aeronaves que pretenda realizar, incluso una vez que haya iniciado operaciones, para lo cual debe presentar la información y documentación a que se refieren los incisos b) y c) de la fracción I del artículo anterior, así como el proyecto de contrato de arrendamiento cuando las aeronaves ostenten matrícula extranjera. La Secretaría resolverá en un plazo de quince días hábiles, a partir de que la solicitud se encuentre debidamente integrada. En su caso, la Secretaría informará al concesionario si su solicitud se encuentra incompleta, en un plazo de cinco días hábiles.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 21.
 
-El concesionario requiere autorización de la Secretaría para operar en los horarios que determine por escrito el administrador aeroportuario, tomando en cuenta la recomendación que emita el comité de operación y horarios, conforme a lo dispuesto por el artículo 63 de la Ley de Aeropuertos.
+El concesionario requiere autorización de la Secretaría para operar en los horarios que determinen por escrito los administradores aeroportuarios correspondientes, para lo cual deberá presentar las recomendaciones de cada Comité de Operación y Horarios, conforme a lo dispuesto por el artículo 63 de la Ley de Aeropuertos.
 
-La Secretaría debe resolver la solicitud a que se refiere este artículo en un plazo que no exceda de diez días hábiles, contados a partir de aquél en que se hubiere presentado la solicitud. Transcurrido dicho plazo sin que la Secretaría emita resolución alguna, se considerará otorgada la autorización.
+La Secretaría deberá resolver la solicitud a que se refiere este artículo en un plazo que no exceda de cinco días hábiles contados a partir de aquél en que se hubiere presentado la solicitud. Transcurrido dicho plazo sin que la Secretaría emita resolución alguna, se considerará otorgada la autorización. En caso en que la solicitud se encontrara incompleta, la Secretaría lo deberá notificar dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 22.
 
-El concesionario que solicite la autorización de rutas adicionales, debe presentar las modificaciones al estudio técnico-operativo del servicio o servicios de transporte aéreo nacional regular que pretenda operar y, en su caso, el programa de inversión, a que se refieren las fracciones I incisos a) y d), y II inciso b) del artículo 19 de este Reglamento.
+El concesionario que solicite la autorización de rutas adicionales, debe presentar las modificaciones al estudio técnico-operativo del servicio o servicios de transporte aéreo nacional regular que pretenda operar y, en su caso, el programa de inversión, a que se refieren las fracciones I incisos a) y d), y II inciso b) del artículo 19 de este Reglamento. El concesionario deberá presentar la solicitud a la Secretaría con la información que se menciona en este artículo con quince días hábiles de anticipación al inicio de operaciones de las rutas correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+La Secretaría debe resolver la solicitud a que se refiere este artículo en un plazo que no exceda de cinco días hábiles, contados a partir de aquél en que se hubiere presentado la solicitud. Transcurrido dicho plazo sin que la Secretaría emita resolución alguna, se considerará otorgada la autorización. En caso de que la solicitud se encontrara incompleta, la Secretaría lo deberá notificar al interesado dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
 
 Para la reducción de frecuencias sólo se debe dar aviso a la Secretaría con quince días hábiles de anticipación.
 
@@ -287,13 +309,23 @@ Para solicitar la prórroga de una concesión se debe presentar una solicitud po
 
 I. Un informe sobre los servicios prestados con apoyo en las constancias oficiales de las verificaciones practicadas de conformidad con la norma oficial mexicana correspondiente y, en su caso, con la descripción de las mejoras realizadas;
 
-II. El programa de inversión para el nuevo período, de conformidad con lo dispuesto en el inciso b) de la fracción II del artículo 19 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+II. El programa de inversión para el nuevo periodo, congruente con lo dispuesto en el inciso b) de la fracción II del artículo 19 de este Reglamento, y
 
 III. La declaración expresa de haber cumplido con las obligaciones previstas en la concesión respectiva.
 
 En caso de que se conceda la prórroga, ésta debe entrar en vigor al término de la concesión sobre la cual se solicita dicha prórroga.
 
-La Secretaría debe otorgar la prórroga cuando el concesionario cumpla con lo dispuesto por el artículo 10 de la Ley y el programa de inversión a que se refiere la fracción II del presente artículo que permita acreditar la capacidad financiera del solicitante.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+La Secretaría debe otorgar la prórroga cuando el concesionario cumpla con lo dispuesto por el artículo 10 de la Ley y el programa de inversión a que se refiere la fracción II del presente artículo que permita acreditar la capacidad financiera del solicitante. La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de noventa días naturales.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+###### ARTÍCULO 24-A.
+
+La Secretaría no podrá negar las solicitudes a que se refiere esta Sección por considerar que el mercado está suficientemente servido.
 
 #### Sección segunda. De los servicios sujetos a permiso
 
@@ -307,9 +339,9 @@ II. En su caso, el nombre del representante legal, así como de las personas aut
 
 III. El domicilio en territorio nacional del solicitante y, en su caso, el del representante legal;
 
-> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-IV. La descripción de las características del servicio que se pretenda prestar;
+IV. La descripción de las características del servicio, así como la fecha estimada del inicio de operaciones;
 
 V. El lugar en donde pretende establecer la base de operaciones, a excepción de cuando el solicitante sea una sociedad extranjera y se trate de servicio internacional regular e internacional no regular;
 
@@ -345,9 +377,9 @@ La solicitud para obtener el permiso para la prestación de los servicios de tra
 
 I. En el caso de que el solicitante sea una persona moral mexicana que esté prestando el servicio de transporte aéreo nacional regular, únicamente debe actualizar la documentación que hubiere presentado para obtener la concesión conforme a lo dispuesto por el artículo 19 de este Reglamento y contar con la designación de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-II. En caso de que el solicitante sea una sociedad extranjera deberá presentar lo dispuesto en las fracciones II, III, IV, V y VI del artículo 20 de este Reglamento, no teniendo que presentar el aviso de inicio de operaciones. Adicionalmente, en caso de que el interesado desee prestar el servicio de transporte aéreo internacional regular deberá proporcionar lo señalado en los incisos a) y b) de la fracción III del artículo 19 y el documento en el que conste la designación de su gobierno, quedando exenta de presentar la constancia del Registro Nacional de Inversiones Extranjeras;
+II. En caso de que el solicitante sea una sociedad extranjera que desee prestar el servicio de transporte aéreo internacional regular, además de lo dispuesto en los incisos a) y b) de la fracción III del artículo 19 de este Reglamento, debe contar con el documento en el que conste la designación de su gobierno y quedará exenta de presentar la constancia del Registro Nacional de Inversiones Extranjeras;
 
 III. En el caso de que el solicitante sea una persona física o moral que desee prestar el servicio privado comercial, únicamente debe de acompañar a su solicitud:
 
@@ -361,17 +393,23 @@ d) Los documentos o contratos que acrediten que el solicitante tiene o tendrá l
 
 e) En su caso, la documentación que acredite la legal internación de las aeronaves y equipo a territorio nacional, y
 
-f) Cuando la aeronave se sujete a una modificación estructural para la instalación de equipo especial, el solicitante debe contar con la previa autorización de la Secretaría, conforme lo dispuesto por el artículo 145 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+f) Acreditar, en caso de que la aeronave se sujete a una modificación estructural para la instalación de equipo especial, que contó con la previa autorización de la Secretaría, conforme lo dispuesto por el artículo 145 de este Reglamento;
 
-IV. En caso de que el interesado sea mexicano y no se encuentre en los supuestos de las fracciones I y III anteriores, deberá presentar lo dispuesto por el artículo 19 de este Reglamento, salvo lo señalado en la fracción II, inciso b), toda vez que la proyección del programa de inversión será a un año.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+IV. En caso de que el interesado sea persona moral mexicana y pretenda prestar el servicio de transporte aéreo nacional e internacional no regular, deberá presentar lo dispuesto por el artículo 19 de este Reglamento, salvo lo señalado en la fracción II, inciso b), toda vez que la proyección del programa de inversión será a un año.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+En caso de que la Secretaría otorgue el permiso, su titular debe actualizar, en su caso, la información a que se refiere el artículo 25, así como la documentación relativa a la capacidad financiera y jurídica del solicitante, mediante aviso por escrito a la Secretaría, dentro de un término de treinta días hábiles posteriores al acto que dé origen a la modificación correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 27.
 
-Para el inicio de operaciones de los servicios a que se refiere esta Sección, el permisionario debe acreditar mediante aviso ante la Secretaría que reúne los requisitos del artículo 20, salvo lo dispuesto en las fracciones I y VII, de este Reglamento y, además, observar lo siguiente:
+Para el inicio de operaciones de los servicios a que se refiere esta Sección, el permisionario debe acreditar mediante aviso ante la Secretaría que reúne los requisitos del artículo 20 de este Reglamento, salvo lo dispuesto en la fracción I tratándose de permisionarios extranjeros y, además, observar lo siguiente:
 
 I. En el caso del servicio de transporte aéreo nacional no regular que se preste a comunidades o regiones específicas de baja densidad de tráfico de pasajeros debe contar con las tarifas registradas ante la Secretaría;
 
@@ -379,9 +417,9 @@ I. En el caso del servicio de transporte aéreo nacional no regular que se prest
 
 II. En el caso de los servicios de transporte aéreo internacional regular se debe presentar:
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-a) La autorización de los horarios, frecuencias, itinerarios, así como del equipo que utilizará para realizar los servicios;
+a) La autorización de los horarios, frecuencias, itinerarios, así como del equipo que utilizará para realizar los servicios y de las tarifas aprobadas;
 
 b) La autorización del gobierno del país o los países hacia los que pretenda operar, si es concesionario, y
 
@@ -389,7 +427,9 @@ b) La autorización del gobierno del país o los países hacia los que pretenda 
 
 c) La solicitud del vuelo de verificación de ruta, cuando se trate de una ruta nueva.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+En el caso de que el solicitante sea una sociedad extranjera, debe presentar lo dispuesto en el artículo 20, fracciones II, III en lo conducente, IV, VI y VII de este Reglamento, y
 
 III. En el caso de los servicios de transporte aéreo privado comercial se debe presentar ante la Secretaría, dependiendo del tipo de servicio:
 
@@ -399,51 +439,29 @@ b) La relación del personal técnico aeronáutico a emplear en forma directa o 
 
 c) La autorización de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, en el caso de los servicios de fumigación aérea y de transporte de troncos, y
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-d) La autorización de la Secretaría de la Defensa Nacional y del Instituto Nacional de Estadística, Geografía e Informática, para los servicios de aerofotografía, aerotopografía y levantamiento orográfico.
+d) La autorización de la Secretaría de la Defensa Nacional, para los servicios de aerofotografía, aerotopografía y levantamiento orográfico.
 
-> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-No se requiere realizar aviso de inicio de operaciones por aumento o incremento de equipo. En su caso, debe tramitarse exclusivamente la modificación del permiso correspondiente de conformidad con lo dispuesto en el artículo 28 del presente reglamento.
-
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 28.
 
-Los permisionarios mexicanos y extranjeros de los servicios a que se refiere este Capítulo deben solicitar la modificación del permiso a la Secretaría de todos los cambios al mismo, ya sea tratándose de incremento o disminución de equipo, aumentos o disminución de ruta, cambio de razón o denominación social del permisionario, y cambio de base o sub-base.
+Los permisionarios mexicanos y extranjeros de los servicios a que se refiere este Capítulo deben solicitar autorización a la Secretaría de todos los cambios e incrementos de aeronaves que realicen.
 
-La solicitud a que se refiere el párrafo anterior debe señalar los datos de identificación del permiso que se modifica y acompañarse de los documentos que se señalan a continuación:
+La Secretaría debe resolver la solicitud en un plazo máximo de diez días hábiles, a partir de que la solicitud se encuentre debidamente integrada. En su caso, la Secretaría informará al permisionario si su solicitud se encuentra incompleta en un plazo de cinco días hábiles.
 
-I. En caso de modificación por aumento o incremento de equipo:
-
-a) Certificados de matrícula y aeronavegabilidad, tratándose de aeronaves que operen con matrícula extranjera;
-
-b) Original de las pólizas de seguros vigentes aprobadas por la Secretaría;
-
-c) Original de los documentos que acrediten el cumplimiento de los requisitos tanto técnicos como en materia de protección al ambiente que señalen las normas oficiales mexicanas, en caso de que el solicitante sea mexicano, y
-
-d) En su caso, original del documento en que conste la designación por parte del país de origen para empresas extranjeras de la ruta o rutas a operar;
-
-II. Tratándose de aumento de ruta, el estudio sobre la factibilidad económica del servicio que se desea proporcionar;
-
-III. En caso de disminución de ruta, los motivos que originaron la cancelación de la misma, y
-
-IV. En caso de cambio de razón o denominación social del permisionario, la escritura en que conste el cambio respectivo.
-
-La Secretaría deberá realizar la modificación al permiso correspondiente dentro de un plazo máximo de diez días hábiles, salvo tratándose del cambio de base o sub-base, o disminución de equipo, en que bastará con la simple presentación del escrito correspondiente.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 29.
 
-Los permisionarios mexicanos del servicio de transporte aéreo internacional regular al solicitar la modificación del permiso por aumento de rutas, deberán proporcionar los datos de identificación del permiso y presentar el estudio sobre la factibilidad económica del servicio que se desea proporcionar.
+Los permisionarios mexicanos del servicio de transporte aéreo internacional regular que soliciten la autorización de rutas adicionales, deben presentar las modificaciones al estudio técnico-operativo del servicio o servicios de transporte aéreo internacional regular que pretendan operar y, en su caso, el programa de inversión a que se refieren las fracciones I, incisos a) y d), y II, inciso b), del artículo 19 de este Reglamento, sin perjuicio de lo dispuesto en los tratados internacionales.
 
 Todo permisionario que preste servicios de transporte aéreo internacional regular debe solicitar autorización a la Secretaría para realizar secciones extras de vuelos, en términos de lo dispuesto por el artículo 23 del presente Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-La Secretaría debe resolver la solicitud de secciones extras de vuelo en un plazo que no exceda de tres días hábiles. Transcurrido dicho plazo sin que la Secretaría emita resolución alguna, se entenderá otorgada la autorización.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
@@ -451,7 +469,9 @@ La Secretaría debe resolver la solicitud de secciones extras de vuelo en un pla
 
 Los permisionarios del servicio de transporte aéreo internacional regular deben solicitar autorización para la modificación de sus horarios, para lo cual deben presentar solicitud por escrito, en el formato que autorice la Secretaría, señalando las modificaciones hechas a los últimos horarios-itinerarios autorizados y acompañarse de los documentos que a continuación se señalan:
 
-I. Recomendación sobre los horarios-itinerarios emitida por el Comité de Horario-Itinerarios de los aeropuertos involucrados, y
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+I. Recomendación sobre los horarios-itinerarios emitida por el Comité de Operación y Horarios de los aeropuertos involucrados, y
 
 II. Original y dos copias de la relación de horarios.
 
@@ -490,6 +510,12 @@ Los permisionarios extranjeros no pueden realizar prácticas de cabotaje en terr
 ###### ARTÍCULO 33.
 
 Cuando la Secretaría autorice a un permisionario extranjero la explotación de una ruta, debe otorgar el derecho de explotación de la misma, en igualdad de condiciones, al concesionario o permisionario mexicano que la solicite, siempre que cumplan con los requisitos que establece la Ley y este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+###### ARTÍCULO 33-A.
+
+La Secretaría no podrá negar las solicitudes a que se refiere esta Sección por considerar que el mercado está suficientemente servido, salvo lo dispuesto en los tratados internacionales.
 
 ### Capítulo III. Disposiciones comunes a los servicios de transporte aéreo
 
@@ -669,23 +695,17 @@ Cuando las tarifas presentadas no se ajusten a los formatos, la Secretaría podr
 
 El concesionario o permisionario contará con un plazo de cinco días hábiles para subsanar las deficiencias y, de no hacerlo o de no responder al requerimiento, le serán devueltas sin registro o aprobación dentro de los tres días hábiles siguientes al plazo que se le dio para subsanarlas.
 
-> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 51-A.
 
-Para obtener el registro y, en su caso, la aprobación de las tarifas, los concesionarios o permisionarios deberán proporcionar, además de lo señalado en el primer párrafo del artículo 51, los datos y documentos que se señalan a continuación:
+Para obtener el registro y, en su caso, la aprobación de las tarifas del transporte aéreo nacional e internacional no regular de fletamento de pasaje y carga, los permisionarios deberán proporcionar, además de lo señalado en el primer párrafo del artículo 51 de este Reglamento, lo siguiente:
 
-I. Tratándose de tarifas de transporte aéreo internacional regular de pasaje y carga, justificación de los niveles tarifarios propuestos, de conformidad con los convenios o tratados correspondientes, y
+I. Precio total del paquete, en su caso, y
 
-II. En caso de tarifas de transporte aéreo nacional e internacional no regular de fletamento de pasaje y carga:
+II. Contrato celebrado entre el fletador y el fletante, que contenga las características del equipo a utilizar y los días en que se pretende operar el vuelo.
 
-a) Precio total del vuelo;
-
-b) En su caso, oficio de autorización para operar el vuelo o vuelos, y
-
-c) Contrato celebrado entre el fletador y el fletante, que contenga las características del equipo a utilizar y los días en que se pretende operar el vuelo.
-
-La Secretaría deberá aprobar las tarifas del transporte aéreo dentro de un plazo que no excederá de treinta días hábiles, y registrar las tarifas de transporte aéreo nacional en un plazo que no excederá de diez días hábiles.
+La Secretaría deberá aprobar las tarifas del transporte aéreo internacional no regular dentro de un plazo que no excederá de treinta días hábiles, y registrar las tarifas de transporte aéreo nacional no regular en un plazo que no excederá de diez días hábiles.
 
 > <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
@@ -729,11 +749,37 @@ Si la Secretaría no emite acuerdo en los plazos señalados, la solicitud se ten
 
 II. Admitida la solicitud, la Secretaría, en un plazo de tres días hábiles, solicitará la opinión de la Comisión Federal de Competencia, la cual se desahogará de conformidad con el procedimiento señalado en el artículo 50 del Reglamento de la Ley Federal de Competencia Económica, para cuyo efecto debe turnarle copia del expediente respectivo;
 
-III. Recibida la opinión de la Comisión Federal de Competencia, la Secretaría, dentro de los treinta días hábiles siguientes emitirá, en su caso, un proyecto de resolución sobre las bases de regulación tarifaria y dará vista a los interesados por un plazo de quince días hábiles para que manifiesten lo que a su derecho convenga, y
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-IV. Desahogada la vista o transcurrido el plazo concedido a los interesados a que se refiere la fracción anterior, la Secretaría emitirá resolución y la notificará en un plazo de cinco días hábiles.
+III. Recibida la opinión de la Comisión Federal de Competencia, la Secretaría, dentro de los veinte días hábiles siguientes emitirá, en su caso, un proyecto de resolución sobre las bases de regulación tarifaria y dará vista a los interesados por un plazo de diez días hábiles para que manifiesten lo que a su derecho convenga, y
+
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+IV. Desahogada la vista anterior o transcurrido el plazo concedido a los interesados a que se refiere la fracción anterior, la secretaría emitirá resolución y la notificará en un plazo de cinco días hábiles.
 
 La Secretaría, hasta antes de dictar resolución, podrá realizar visitas de verificación y allegarse de todos los elementos que considere necesarios para emitirla.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+###### ARTÍCULO 53-A.
+
+La Comisión Federal de Competencia, durante el desahogo del procedimiento a que se refiere el artículo 50 del Reglamento de la Ley Federal de Competencia Económica y cuando considere que la inexistencia de condiciones de competencia efectiva pudiera afectar el interés público, podrá solicitar a la Secretaría que, como medida precautoria para proteger el proceso de competencia y libre concurrencia en el mercado aéreo nacional, imponga bases de regulación tarifaria, a los concesionarios que impidan la existencia de dichas condiciones.
+
+Recibida la solicitud de la Comisión Federal de Competencia, la Secretaría procederá a aplicar la medida precautoria correspondiente en un plazo que no excederá de quince días hábiles.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+###### ARTÍCULO 53-B.
+
+Se podrá considerar como indicios de que no existe competencia efectiva en una ruta del mercado nacional de transporte aéreo, cuando:
+
+I. Un concesionario que durante noventa días naturales posea por lo menos un promedio de cincuenta por ciento de participación de mercado medida por pasajeros en una ruta nacional determinada, incremente al menos en un promedio de diez puntos porcentuales su participación durante un período de por lo menos sesenta días naturales continuos como consecuencia de una reducción en sus ingresos por asiento disponible, y
+
+II. Un concesionario posea una participación de mercado del cien por ciento en una ruta determinada, y un nuevo concesionario del servicio de transporte aéreo entre a competir en dicha ruta y el concesionario previamente establecido, introduzca una estrategia de desplazar al nuevo competidor a través de una reducción sustancial de sus ingresos promedio por asiento disponible, por un lapso de al menos treinta días naturales continuos.
+
+Las disposiciones contenidas en las fracciones anteriores deberán ser revisadas por la Secretaría de Comunicaciones y Transportes cada tres años a partir de la fecha de su entrada en vigor, debiendo notificarse a la Comisión Federal de Competencia los resultados de la revisión.
+
+Para efectos del último párrafo del artículo 43 de la Ley, la Comisión Federal de Competencia, de oficio o a petición de parte, podrá solicitar a la Secretaría que deje sin efectos la regulación tarifaria correspondiente, cuando, tratándose de los supuestos a que se refiere la fracción I del presente artículo, el promedio de participación de mercado durante sesenta días naturales continuos del concesionario sujeto a regulación sea menor a setenta y cinco por ciento en esa ruta; y en el caso de la fracción II, entre un nuevo concesionario a competir en la ruta correspondiente.
 
 ###### ARTÍCULO 54.
 
@@ -743,15 +789,31 @@ Cuando la Secretaría considere que no existe competencia efectiva procederá, e
 
 Sin perjuicio de l ejercicio de sus atribuciones, la Comisión Federal de Competencia podrá emitir opinión a la Secretaría para que, en su caso, la Secretaría establezca bases de regulación tarifaria de conformidad con lo dispuesto en las fracciones III y IV del artículo 53 del presente Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
 ###### ARTÍCULO 56.
 
-Para la fijación de bases de regulación tarifaria la Secretaría deberá considerar lo siguiente:
+Para la fijación de bases de regulación tarifaria la Secretaría considerará, entre otros factores, los siguientes:
 
 I. La tarifa competitiva que un concesionario o permisionario eficiente cobraría por el mismo servicio;
 
 II. Las tarifas equiparables a las de otras empresas aéreas que estén vigentes en el mercado interno nacional, en el de otro país o, en su caso, en el mercado internacional, en condiciones similares, y
 
-III. Las tarifas establecidas con base a las referencias internacionales de costos de operación y capital.
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+III. Las tarifas establecidas con base a las referencias internacionales de costos de operación y capital, y,
+
+> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+IV. En el caso de los supuestos a que se refiere el artículo 53-B de este Reglamento:
+
+a) Tratándose de la fracción I, los ingresos promedio por asiento disponible del concesionario cuyo incremento de participación de mercado origine la inexistencia de condiciones de competencia efectiva. Los ingresos a considerar serán los de los últimos trescientos sesenta días naturales anteriores a que dejaron de existir las condiciones de competencia efectiva, y
+
+b) En el caso de la fracción II, los ingresos por asiento disponible que el concesionario que permanezca en la ruta haya obtenido durante el período en el que hubo competencia.
+
+> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+Las disposiciones contenidas en esta fracción deberán ser revisadas por la Secretaría de Comunicaciones y Transportes cada tres años a partir de la fecha de su entrada en vigor, debiendo notificarse a la Comisión Federal de Competencia los resultados de la revisión.
 
 La Secretaría al fijar los mecanismo (sic) de ajuste incluidos en la (sic) bases de regulación tarifaria, podrá establecer condiciones en materia de rutas, frecuencias, horarios, equipo, calidad del servicio, información contable, comercialización, tarifas, así como períodos de vigencia.
 
@@ -937,11 +999,13 @@ En caso de robo, pérdida o extravío de la licencia y del certificado de capaci
 
 La vigencia de las licencias y de los certificados de capacidad del personal técnico aeronáutico de vuelo y de los controladores de tránsito aéreo es de dos años hasta los cuarenta años de edad, a partir de la cual será de un año. La vigencia de las licencias y de los certificados de capacidad del demás personal de tierra es de dos años.
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 75.
 
-El personal técnico aeronáutico debe portar su licencia, certificados de capacidad y de aptitud psicofísica, durante el desempeño de sus labores; la tripulación de vuelo, además, deberá llevar consigo su bitácora de vuelo con las horas actualizadas.
+El personal técnico aeronáutico debe portar su licencia, con certificación de capacidad y el certificado de aptitud psicofísica, durante el desempeño de sus labores; la tripulación de vuelo deberá mantener su bitácora de vuelo con las horas actualizadas.
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
 Los concesionarios, permisionarios y operadores aéreos vigilarán que el personal técnico aeronáutico cumpla con esta disposición.
 
@@ -949,9 +1013,9 @@ Los concesionarios, permisionarios y operadores aéreos vigilarán que el person
 
 El interesado en obtener una licencia o el permiso a que se refiere este Capítulo, que le permita desarrollar las actividades de personal técnico aeronáutico, debe cumplir, como mínimo, con los requisitos y condiciones que en materia de edad, conocimientos, experiencia, instrucción, pericia, certificado de aptitud psicofísica y escolaridad, establezca la Secretaría en las disposiciones administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-La Secretaría debe aplicar los exámenes teóricos y prácticos correspondientes en un plazo que no exceda de quince días hábiles. En caso de ser aprobatorios, se expedirá la licencia o certificado de capacidad dentro de los tres días hábiles siguientes.
+La Secretaría, por sí o a través de terceros autorizados por ésta, debe aplicar los exámenes teóricos y prácticos correspondientes en un plazo que no exceda de quince días hábiles. En caso de ser aprobatorios y previa presentación de la constancia o certificado de los exámenes médicos aplicables, se expedirá la licencia o certificado de capacidad dentro de los tres días hábiles siguientes.
 
 ### Capítulo I. Del personal técnico aeronáutico
 
@@ -969,9 +1033,9 @@ b) agrícola;
 
 c) comercial, y
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-d) de transporte de línea aérea;
+d) de transporte público ilimitado;
 
 II. Piloto de helicóptero:
 
@@ -981,9 +1045,9 @@ b) agrícola;
 
 c) comercial, y
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-d) de transporte público de helicóptero;
+d) de transporte público ilimitado;
 
 III. Piloto de aeróstato:
 
@@ -1069,17 +1133,17 @@ Sólo para vuelos de largo alcance y como medida excepcional, los miembros de la
 
 La Secretaría podrá autorizar variaciones a los límites de horas a que se refiere este artículo conforme a las normas oficiales mexicanas correspondientes, sin afectar las cuestiones de seguridad, tomando en consideración las características del servicio, tipo de aeronave o cuando el desarrollo tecnológico lo requiera.
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 83.
 
-Los miembros de la tripulación de vuelo de aeronaves que presten servicios al público en los términos de la Ley, deben ser titulares de una licencia de piloto comercial o de transporte de línea aérea, y del certificado de capacidad que corresponda para operar el equipo de que se trate, expedida por la Secretaría conforme a este Reglamento y a las disposiciones administrativas correspondientes.
+Los miembros de la tripulación de vuelo de aeronaves que presten servicios al público en los términos de la Ley, deben ser titulares de una licencia de piloto comercial o de transporte público ilimitado, y del certificado de capacidad que corresponda para operar el equipo de que se trate, expedida por la Secretaría conforme a este Reglamento y a las disposiciones administrativas correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 84.
 
-Todo concesionario o permisionario debe establecer y mantener un programa autorizado por la Secretaría, en el cual se capacite y adiestre semestralmente al personal de vuelo, como mínimo, en lo siguiente:
+Todo concesionario o permisionario debe establecer y mantener un programa autorizado por la Secretaría, en el cual se capacite y adiestre anualmente a la tripulación de vuelo, como mínimo en lo siguiente:
 
 I. Ejecutar aquellas obligaciones y funciones que se requieran en caso de una emergencia o evacuación de la aeronave;
 
@@ -1283,7 +1347,7 @@ El instructor de vuelo y el de materias directamente relacionadas con las funcio
 
 I. En todos los casos:
 
-a) Nacionalidad;
+a) (DEROGADO, D.O.F. 5 DE OCTUBRE DE 2000)
 
 b) Nombre del centro de formación, capacitación y/o adiestramiento, en su caso;
 
@@ -1291,11 +1355,15 @@ c) Tipo de curso y áreas;
 
 d) Tipo y número de licencia del interesado;
 
-e) Horas de vuelo real;
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+e) Horas de vuelo real, en su caso;
 
 f) Tipos de cursos a impartir;
 
-g) Materias y equipo de vuelo;
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+g) Materias y equipo de vuelo, en su caso;
 
 h) Original de una identificación oficial que acredite mayoría de edad y nacionalidad;
 
@@ -1313,7 +1381,9 @@ III. En caso de instructor de vuelo, además de lo señalado en la fracción I:
 
 a) Original y copia de la bitácora de piloto aviador, y
 
-b) Original y copia de la licencia de piloto comercial vigente, y
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
+
+b) Original y copia de la licencia de piloto comercial vigente, como mínimo, y
 
 IV. En caso de instructor de tierra, además de lo señalado en la fracción I:
 
@@ -1535,9 +1605,9 @@ VII. Se cuente con la tripulación de vuelo adiestrada y calificada para ello;
 
 VIII. Se tenga aprobado el plan de vuelo y formulado el plan operacional de vuelo, conforme a las normas oficiales mexicanas correspondientes;
 
-> <small>(REFORMADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
-IX. Se especifiquen los aeródromos de alternativa en el plan operacional de vuelo y en el plan de vuelo cuando haya de efectuarse un vuelo por instrumentos, de acuerdo con las reglas previstas en las normas oficiales mexicanas correspondientes;
+IX. Se especifique un aeródromo civil alterno en el plan operacional de vuelo y en el plan de vuelo cuando haya de efectuarse un vuelo por instrumentos, de acuerdo con las reglas previstas en las normas oficiales mexicanas;
 
 X. Se recabe y examine cuidadosamente toda la información meteorológica requerida y disponible según el tipo de vuelo, de acuerdo a las reglas de vuelo visual o vuelo por instrumentos, siendo responsable de cumplir estrictamente con los mínimos meteorológicos en la ruta, aeródromo de origen, destino o alterno señalados en las reglas de tránsito aéreo y en la publicación de información aeronáutica correspondiente del país o países que opere, y
 
@@ -1635,9 +1705,7 @@ El certificado de aeronavegabilidad tendrá una vigencia de un año. El otorgami
 
 Para resolver sobre el otorgamiento o revalidación del certificado de aeronavegabilidad, la Secretaría tiene un plazo de dos días hábiles, cuando la aeronave se ponga a disposición de la autoridad en territorio mexicano para su inspección, y de tres días hábiles, cuando la aeronave se ponga a disposición de la autoridad aeronáutica en el extranjero.
 
-> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
-
-Para la revalidación del certificado el propietario, permisionario, concesionario u operador aéreo deberá comprobar el mantenimiento de la aeronavegabilidad de conformidad a lo que se establezca en las normas oficiales mexicanas correspondientes.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 5 DE OCTUBRE DE 2000)</small>
 
 ###### ARTÍCULO 128.
 
@@ -2300,3 +2368,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en el Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
 
 TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den cumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
+
+D.O.F. 5 DE OCTUBRE DE 2000.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
