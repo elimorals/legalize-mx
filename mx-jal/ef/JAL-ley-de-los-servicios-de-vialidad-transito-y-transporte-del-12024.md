@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2004-02-10"
+last_updated: "2004-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -940,6 +940,12 @@ X. La anuencia del titular en caso de que así sea su voluntad, para que se le c
 > <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
 
 Para los efectos de la fracción anterior, el Ejecutivo del Estado, celebrará los convenios de coordinación y colaboración con las dependencias competentes en la materia, a efecto de llevar dicho trámite.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### Artículo 58 Bis.
+
+Los conductores de servicio de transporte público de pasajeros deberán contar invariablemente con licencia expedida en el Estado de Jalisco, conforme a lo dispuesto en el artículo 55 fracción I de esta Ley.
 
 ###### Artículo 59.
 
@@ -2421,9 +2427,9 @@ I. No coincidir la rotulación con el número de placas;
 
 II. Abastecer combustible con pasaje a bordo o con motor encendido; y
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
 
-III. Al conductor del servicio de transporte público colectivo de pasajeros por no contar con licencia de conductor de servicios de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
+III. Al conductor del servicio de transporte público de pasajeros por no contar con licencia de conductor de servicio de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2824,3 +2830,9 @@ SEGUNDO.- Los concesionarios y permisionarios del transporte público, que no ha
 P.O. 10 DE FEBRERO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE JUNIO DE 2004.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+SEGUNDO.- El Titular del Poder Ejecutivo contará con un plazo de 90 días para realizar las adecuaciones necesarias al Reglamento de la Ley para los Servicios de Vialidad, Tránsito y Transporte, derivadas de las disposiciones del presente decreto.
