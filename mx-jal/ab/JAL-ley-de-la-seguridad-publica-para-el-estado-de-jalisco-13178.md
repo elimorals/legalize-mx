@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "1997-09-13"
+last_updated: "1998-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -81,7 +81,13 @@ Combatir las causas que generen la comisión de delitos y conductas antisociales
 
 Para los efectos de esta Ley, se debe, entender por:
 
-I. Secretaría: La Secretaría General de Gobierno del Estado de Jalisco y por Secretario, al titular de la misma;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+I. Secretaría: La Secretaría de Seguridad Pública, Prevención y Readaptación Social del Estado de Jalisco y por Secretario, al titular de la misma;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+II. La Dirección General de Seguridad Pública;
 
 II. Subsecretaría: La Subsecretaría de Seguridad Pública, Protección Civil y Prevención y Readaptación Social, y por Subsecretario, al titular de esa dependencia;
 
@@ -107,17 +113,17 @@ Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
 VII. Registro: El Registro Estatal de Seguridad Pública.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 4°.
 
-Las facultades que este Ordenamiento otorga a la Secretaría serán ejercidas por conducto de la Subsecretaría, excepto cuando la Ley o el Secretario dispongan lo contrario.
+Las facultades que este ordenamiento otorga a la Secretaría serán ejercidas por conducto de la Dirección General de Seguridad Pública, excepto cuando la ley o El secretario disponga lo contrario.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 5°.
 
-La Procuraduría General de Justicia del Estado, además de las funciones que ya le corresponden, podrá coadyuvar en el ámbito de su competencia en las actividades de Seguridad Pública a través de la Policía Judicial.
+El Procurador General de Justicia del Estado, en el ejercicio de las atribuciones que le corresponden, podrá solicitar el auxilio de las corporaciones de Seguridad Pública así como coadyuvar en el ámbito de su competencia con las actividades de Seguridad Pública, en los términos de las disposiciones aplicables.
 
 ###### Artículo 6°.
 
@@ -133,9 +139,13 @@ Para el cumplimiento de los objetivos de esta Ley, el mando de los cuerpos estat
 
 I. El Gobernador del Estado;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
 
-III. El Subsecretario de Seguridad Pública, Protección Civil y Prevención y Readaptación Social; y
+II. El Secretario de Seguridad Pública, Prevención y Readaptación Social;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+III. El Director General de Seguridad Pública;
 
 IV. Los Directores de los cuerpos de seguridad pública del Estado.
 
@@ -195,9 +205,9 @@ El Ejecutivo del Estado a través del reglamento respectivo establecerá los lin
 
 Las identificaciones oficiales, uniformes, vehículos, insignias, divisas y equipo reglamentario, serán proporcionados a los elementos de seguridad pública por sus respectivas corporaciones, previa aprobación de éstos, sin costo para el servidor público.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
-Queda estrictamente prohibido a los cuerpos de Seguridad Pública y Privados la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio similar; asimismo el uso de vehículos sin placas, robados o recuperados y cuya estancia sea ilegal en el país. Así como la utilización de insignias, divisas o uniformes reservados al Ejército, Armada y Fuerza Aérea Nacionales. Lo previsto en este párrafo es aplicable a la Policía Judicial del Estado, y al cuerpo operativo de la Secretaría de Vialidad y Transporte.
+Queda estrictamente prohibido a los cuerpos de Seguridad Pública y privados la utilización de credenciales metálicas, conchas de identificación o cualquier otro medio similar; así mismo el uso de vehículos sin placas, robados o recuperados o cuya estancia sea ilegal en el país, así como la utilización de insignias, divisas o uniformes reservados al Ejercito, Armada y Fuerza Aérea Nacionales. Lo previsto en este párrafo es también aplicable a la policía Investigadora dependiente de la Procuraduría General de Justicia del Estado y al cuerpo operativo de la Secretaría de Vialidad y Transporte.
 
 Asimismo, se prohibe el uso y portación del uniforme oficial y del arma a cargo, fuera de los horarios del servicio, tanto de los elementos de los cuerpos de seguridad pública como privados.
 
@@ -337,13 +347,17 @@ VIII. Los demás que les otorguen otras leyes.
 
 ### CAPITULO SEGUNDO. Del Régimen Disciplinario
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 14.
 
-Para que a un elemento operativo de alguna corporación de seguridad pública, Policía Judicial o de la Secretaría de Vialidad y Transporte se le confiera un grado superior, deberá ser propuesto por el titular de la dependencia para que participe en un curso de actualización y apruebe el examen correspondiente en la Academia de Policía y Vialidad.
+Para que a un elemento operativo de alguna corporación de Seguridad Pública, Policía Investigadora o de la Secretaría de Vialidad y Transporte se le confiera un grado superior, deberá ser propuesto por el titular de la dependencia para que participe en un curso de actualización y apruebe el examen correspondiente en la Academia de Policía y Vialidad.
 
 El procedimiento y requisitos que se deberán cumplir para la aplicación del presente artículo, se establecerán en el reglamento correspondiente.
 
-En el caso de los integrantes de la Policía Judicial se estará a lo que sobre el particular señalan la Ley Orgánica, Reglamentos y programas de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
+En el caso de los integrantes de la Policía Investigadora se estará a lo que sobre el particular señalen la Ley Orgánica, reglamentos y programas de la Procuraduría General de Justicia del Estado.
 
 ###### Artículo 15.
 
@@ -413,13 +427,17 @@ Para los efectos del artículo anterior, se contará con un Reglamento de Formac
 
 El Reglamento de Formación Policial, dispondrá la formación y desarrollo profesional de los elementos de los diferentes cuerpos de seguridad pública y otras ramas afines en sus diferentes especialidades. Establecerá los criterios de evaluación, depuración, así como los procedimientos y requisitos para el ingreso, reingreso, permanencia, promoción de los mismos, y la obligatoriedad de practicar en forma permanente exámenes antidrogas a todos los elementos de los cuerpos de seguridad pública, cuando menos dos veces por año.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 24.
 
-La Subsecretaría, a través de la Academia de Policía y Vialidad, tramitará y actualizará ante la autoridad educativa competente, el registro de los estudios policiales para obtener reconocimiento y validez oficiales correspondientes.
+La Secretaría de Seguridad Pública, Prevención y Readaptación Social, a través de la Academia de Policía y Vialidad, tramitará y actualizará ante la autoridad educativa competente, el registro de los estudios policiales para su reconocimiento y validez oficiales.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 25.
 
-Es obligación de los elementos de los cuerpos de seguridad pública, asistir a la Academia de Policía y Vialidad, a fin de adquirir los conocimientos teóricos y prácticos que permitan su constante actualización, con excepción de los integrantes de la Policía Judicial quienes se regirán en materia de capacitación y selección por la Ley Orgánica, Reglamentos y Programas de la Procuraduría General de Justicia del Estado.
+Es obligación de los elementos de los cuerpos de Seguridad Pública, asistir a la Academia de Policía y Vialidad, a fin de adquirir los conocimientos técnicos y prácticos que permitan su constante actualización, con excepción de los elementos de la Policía Investigadora, quienes se regirán en materia de capacitación y elección por la Ley Orgánica reglamentos y programas de la Procuraduría General de Justicia del Estado.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -443,7 +461,9 @@ La única vía de ingreso a los cuerpos de seguridad pública será a través de
 
 I. No tener antecedentes penales por delito doloso;
 
-II. Reunir los perfiles psicosomático y educativo necesarios; y
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+II. Reunir los perfiles biopsicosociales y educativos necesarios; y
 
 III. No ser alcohólico o farmacodependiente.
 
@@ -459,7 +479,9 @@ En el caso de los aspirantes a ingresar a la Policía Judicial, deberán estarse
 
 Son órganos consultivos del Gobierno del Estado en materia de Seguridad Pública, los siguientes:
 
-I. El Consejo Consultivo Estatal de Protección Ciudadana;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+I. El Consejo Ciudadano de Seguridad Pública, Prevención y Readaptación Social;
 
 II. Los Consejos Consultivos Regionales de Protección Ciudadana; y
 
@@ -479,9 +501,11 @@ D. Proponer normas y procedimientos que permitan mejorar la atención y segurida
 
 E. Proponer acciones a emprender para la prevención de delitos e infracciones a las leyes y reglamentos del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 30.
 
-El Consejo Estatal de Protección Ciudadana se integra por:
+El Consejo Ciudadano de Seguridad Pública, Prevención y Readaptación Social estará integrado por:
 
 I. Un Presidente que será el Gobernador del Estado, o la persona que él designe;
 
@@ -499,6 +523,10 @@ VII. Un Representante de la Cámara Nacional de Comercio de Guadalajara; y
 
 VIII. Un Representante de cada Universidad Pública o Privada de la Entidad.
 
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+IX. El Secretario de Seguridad Pública, Prevención y Readaptación Social que tendrá a su cargo la Secretaría ejecutiva.
+
 ###### Artículo 31.
 
 Los Consejos Regionales de Protección Ciudadana, se integran por:
@@ -515,9 +543,11 @@ V. Un Representante de las Cámaras industriales de la Cabecera Municipal donde 
 
 VI. Un Representante de cada Universidad Pública o Privada que tenga establecimientos en la Región.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+
 ###### Artículo 32.
 
-El Consejo Consultivo Estatal y los Consejos Regionales de Protección Ciudadana, tendrán las atribuciones siguientes:
+El Consejo Ciudadano de Seguridad Pública, Prevención y Readaptación Social y los Consejos Regionales de protección Ciudadana tendrán las atribuciones siguientes:
 
 I. Aprobar la elaboración de planes y programas Estatales, Regionales y Municipales en materia de seguridad pública;
 
@@ -541,7 +571,37 @@ IX. Fomentar en los cuerpos de seguridad pública, el respeto a las leyes y a la
 
 X. Diseñar, fomentar y coordinar proyectos, mediante los cuales, la sociedad civil se involucre de diversas maneras en los programas de protección ciudadana; y
 
-XI. Las demás que les otorguen éste y otros Ordenamientos.
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XI. Establecer en el Estado, los lineamientos y directrices en materia de política criminal.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XII. Diseñar los mecanismos de prevención general y especial de los delitos;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XIII. Establecer las medidas adecuadas para la atención a las víctimas de delitos.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XIV. Promover la participación de la sociedad en las tareas de Seguridad Pública, a través del establecimiento de la figura de un visitador comunitario;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XV. Aprobar los nombramientos de los Directores Generales de la Secretaría, que al efecto proponga el Titular del ejecutivo.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XVI. Solicitar al titular del ejecutivo el cese, destitución o separación del cargo, del servidor público de la Secretaría que hubiere incurrido en responsabilidades administrativas o legales en los términos que fijen las leyes;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XVII. Visitar las instalaciones de las áreas de Procuración de Justicia y Seguridad Pública en el Estado, a efecto de verificar el adecuado desarrollo de sus funciones para evitar posibles abusos o irregularidades, debiendo en su caso poner estos, en el inmediato conocimiento de los titulares de las dependencias respectivas; y
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+XVIII. Las demás que les otorguen este y otros ordenamientos.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -687,7 +747,13 @@ IV. Establecer, supervisar, utilizar y mantener actualizados todos los instrumen
 
 V. Formular propuestas para el Programa Estatal de Seguridad Pública, así como para llevarlo a cabo y evaluar su desarrollo; y
 
-VI. Tomar medidas y realizar acciones y operativos conjuntos.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+VI. Tomar medidas y realizar acciones y operativos conjuntos;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1998)</small>
+
+VII. En las regiones conurbadas que impliquen a uno o varios municipios del Estado, se podrán formalizar los convenios de colaboración respectivos para brindar los servicios de Seguridad Pública que se estimen pertinentes, bajo la coordinación del titular del Poder Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
@@ -705,7 +771,9 @@ IV. Las propuestas de aplicación de recursos para la seguridad pública, inclui
 
 V. Suministro, intercambio y sistematización de todo tipo de información sobre seguridad pública;
 
-VI. Acciones policiales conjuntas, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+VI. Integrar programas, estructuras o acciones policiales conjuntas en los términos de esta ley;
 
 VII. Regulación y control de los servicios de seguridad que presten particulares y otros auxiliares;
 
@@ -713,11 +781,11 @@ VIII. Relación con la comunidad y fomento de la cultura de prevención de infra
 
 IX. Las relacionadas con las anteriores, que sean necesarias para incrementar eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 47.
 
-Las políticas, lineamientos y acciones de coordinación se llevarán a cabo mediante la suscripción de los convenios respectivos o con base en los acuerdos y resoluciones que se tomen en el Consejo Estatal y en las demás instancias de coordinación en materia de seguridad pública.
+Las políticas, lineamientos estructuras, programas y acciones de coordinación se llevarán a cabo mediante la suscripción de los convenios respectivos o con base en los acuerdos y las resoluciones que se tomen en el Consejo Estatal y en las demás instancias de coordinación en materia de Seguridad Pública.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
@@ -733,17 +801,21 @@ I. Un Presidente, que será el Gobernador del Estado.
 
 II. Los Titulares de las siguientes dependencias del Poder Ejecutivo del Estado:
 
-A. Secretaría General de Gobierno.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+
+A. Secretaría de Seguridad Pública, Prevención y Readaptación Social.
 
 B. Procuraduría General de Justicia.
 
 C. Secretaría de Vialidad y Transporte.
 
-D. Subsecretaría de Seguridad Pública, Protección Civil y Prevención y Readaptación Social.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
-E. Dirección General de la Policía Judicial.
+D. Dirección General de Seguridad Pública.
 
-F. Dirección General de Seguridad Pública del Estado.
+E. (DEROGADO, P.O. 15 DE ENERO DE 1998)
+
+F. (DEROGADO, P.O. 15 DE ENERO DE 1998)
 
 III. De los Poderes Legislativo y Judicial del Estado:
 
@@ -807,7 +879,9 @@ III. La formulación de propuestas para el Programa Estatal de Seguridad Públic
 
 IV. El establecimiento de medidas para vincular el Sistema Estatal con el Sistema Nacional y otros sistemas estatales o locales;
 
-V. La emisión de bases y reglas para la realización de operativos conjuntos entre corporaciones de seguridad pública, locales y municipales;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+V. La emisión de bases y reglas para la integración y realización de programas, estructuras acciones y operativos conjuntos entre corporaciones de Seguridad Pública, locales y municipales;
 
 VI. La realización de programas de cooperación nacional sobre seguridad pública, en coordinación con las entidades y dependencias competentes;
 
@@ -905,23 +979,29 @@ Para este efecto, dispondrá los mecanismos que permitan la evaluación y reorde
 
 Las normas generales para la recepción de la información serán establecidas de conformidad con los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 57.
 
-La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores, y los factores asociados a la problemática de seguridad pública.
+La estadística de Seguridad Pública se integrará al sistema estatal de estadística criminal que, conforme a las disposiciones aplicables sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores, y los factores asociados a la problemática de Seguridad Pública.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO SEXTO. DE LA INFORMACION DE APOYO A LA PROCURACION DE JUSTICIA
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
 
 ###### Artículo 58.
 
-El Consejo Estatal integrará una base estatal de datos sobre personas probables responsables de delitos, indiciadas, procesadas o sentenciadas, de consulta obligatoria en las actividades de seguridad pública, donde se incluyan sus características criminales, medios de identificación, recursos y modos de operación. Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación social, y en general, todas las instituciones que deban contribuir a la seguridad pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
+El Consejo Estatal ordenará y vigilará la integración de una base estatal de datos sobre personas probables responsables de delitos, indiciadas, procesadas o sentenciadas, de consulta obligatoria en las actividades de Seguridad Pública, donde se incluyan sus características criminales, medios de identificación, recursos y modos de operación. Esta base estatal de datos se actualizará permanentemente y se integrará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación social y en general todas las instituciones que deben contribuir a la Seguridad Pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
 Dicha información se debe dar de baja de esta base de datos a la brevedad posible, por resoluciones de libertad por desvanecimiento de datos o falta de elementos para procesar, así como por sentencias absolutorias.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1998)</small>
+
+Esta base de datos se operará por la Secretaría con base en las atribuciones que le otorga la Ley Orgánica del Poder Ejecutivo del estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
 
@@ -949,7 +1029,9 @@ Para el acceso a la información sobre seguridad pública, podrán establecerse 
 
 I. La policía preventiva;
 
-II. La policía judicial;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
+
+II. La Policía Investigadora;
 
 III. El Ministerio Público;
 
@@ -1030,3 +1112,11 @@ CUARTO.- Inmediatamente a la entrada en vigor de este Decreto, el Consejo Estata
 QUINTO.- Se derogan todas las disposiciones que se opongan o sean incongruentes con el presente Decreto.
 
 SEXTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE ENERO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor a los ciento veinte días de su Publicación en El Periódico Oficial del Estado de Jalisco.
+
+SEGUNDO.- Los reglamentos en materia de Seguridad Pública referidos en la presente ley deberán de ser actualizados en un término no mayor de 30 días a partir de que entre en vigor este Decreto.
+
+TERCERO.- Los ayuntamientos del Estado deberán adecuar sus reglamentos de Seguridad a las prescripciones contenidas en esta ley general, sin perjuicio de sus facultades constitucionales, en un plazo que no excederá de 90 días a partir de la entrada en vigor de esta ley.
