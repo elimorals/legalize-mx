@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "1991-05-01"
+last_updated: "1994-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1994.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -115,7 +115,7 @@ Actualmente son escasas las relaciones entre particulares que no tienen trascend
 
 Los capítulos relativos a obligaciones, constituyen la esencia misma de la técnica jurídica aplicada en el ámbito de los derechos patrimoniales, de la protección de los bienes, por lo que en la revisión, más que introducir reformas de fondo, se tratan de subsanar omisiones, evitar falsas interpretaciones mediante la aclaración de conceptos para hacer la ley entendible, aún a los profanos del derecho; se introducen algunas definiciones teóricas de que carece el Código y para ello se hace un estudio de derecho comparado con algunas legislaciones avanzadas estatales y la vigente en el Distrito Federal; se recibieron orientaciones de las legislaciones más modernas, por ejemplo la de Tlaxcala, que introduce en la definición de hecho y acto jurídico, respecto de las consecuencias jurídicas, un nuevo concepto (conservar) de tal manera que se definen como las fuentes de las obligaciones que por disposición de la ley crean, trasmiten, modifican, conservan o extinguen facultades o derechos jurídicos.
 
-Se reubican los capítulos relativos a los hechos y actos jurídicos, contenidos actualmente en nuestro Código en las disposiciones preliminares, para adicionar el libro correspondiente a obligaciones, ya que aquéllos incuestionablemente constituyen las principales, fuentes de las obligaciones.
+Se reubican los capítulos relativos a los hechos y actos jurídicos, contenidos actualmente en nuestro Código en las disposiciones preliminares, para adicionar el libro correspondiente a obligaciones, ya que aquéllos incuestionablemente constituyen las principales fuentes de las obligaciones.
 
 Se señala que los derechos civiles aún cuando sean de contenido puramente patrimonial también son de interés social.
 
@@ -175,7 +175,7 @@ Igualmente se establece en este capítulo que quedan exceptuadas de la obligaci�
 
 Respecto de la forma del último contrato mencionado, se estipula que podrá otorgarse el documento privado cuando su valor no exceda de diez cuotas correspondientes al salario mínimo.
 
-En el contrato de mandato, a efecto de adecuar su otorgamiento a la situación financiera del Estado y del país, se señala que podrá otorgarse en carta poder firmada ante dos testigos, que deberán ratificar cuando el interés del negocio para el que se confiere el poder no exceda de treinta cuotas del salario mínimo vigente; en caso contrario, deberá otorgarse en escritura pública, asimismo los poderes generales y los demás casos que señala la ley.
+En el contrato de mandato, a efecto de adecuar su otorgamiento a la situación financiera del Estado y del país, se señala que podrá otorgarse en carta poder firmada ante dos testigos, que deberán ratificar cuando el interés del negocio para el que se confiere el poder no exceda de treinta cuotas del salario mínimo vigente; en caso contrario, deberá otorgarse en escritura pública, asimismo los poderes generales y los demás casos que señala la Ley.
 
 En el capítulo respectivo igualmente se enfatiza que el mandatario que se exceda de sus facultades es responsable de los daños y perjuicios que causa al mandante y a tercero con quien contrató, si éste ignoraba que aquél traspasaba los límites del mandato; igualmente se reitera que los intereses legales se calcularán al tipo de 24% anual.
 
@@ -1583,7 +1583,7 @@ II.- En cinco años cuando la posesión sea de mala fe.
 
 462.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose siempre dicha posesión como de mala fe.
 
-463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no astá en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
+463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
 
 464.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de Título de propiedad al poseedor.
 
@@ -2717,7 +2717,7 @@ I.- Los empleados y funcionarios públicos;
 
 II.- Los militares en servicio activo;
 
-III.- Los que fueren tan pobres que no puedan atender al albaceazgo sin menoscabo de su subsistencia.
+III.- Los que fueren tan pobres que no puedan atender al albacerazgo sin menoscabo de su subsistencia.
 
 IV.- Los que por el mal estado habitual de salud o por no saber leer y escribir, no pudieran atender debidamente el albaceazgo;
 
@@ -2727,7 +2727,7 @@ VI.- Los mayores de setenta y cinco años.
 
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
 
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
 
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 
@@ -2813,7 +2813,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 
 En el caso que fueren varios los herederos inconformes, los convenios se harán por mayoría de votos.
 
-906.- El heredero o herederos que no hubiesen estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un interventor que vigile la administración del albacea. Tal nombramiento se hará en su caso, por mayoría de votos.
+906.- El heredero o herederos que no hubiesen estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un inventor que vigile la administración del albacea. Tal nombramiento se hará en su caso, por mayoría de votos.
 
 907.- Los interventores podrán realizar exámenes de las operaciones, documentación, registro y demás evidencias comprobatorias en el grado y extensión que sean necesarios para efectuar la vigilancia del exacto cumplimiento del cargo de albacea.
 
@@ -2823,9 +2823,9 @@ En el caso que fueren varios los herederos inconformes, los convenios se harán 
 
 I.- Siempre que el heredero esté ausente o no sea conocido;
 
-II.- Cuando la cuantía de los legados iguale o exceda la porción del heredero o albacea;
+II.- Cuando la cuantía de los legados iguale o exceda la porción del heredero albacea;
 
-III.- Cuando se hagan legados para objetos o personas colectivas de beneficencia pública privada.
+III.- Cuando se hagan legados para objetos o personas colectivas de beneficencia pública o privada.
 
 910.- Los interventores deben tener la capacidad general para contratar y obligarse.
 
@@ -7239,6 +7239,10 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 2398.- El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en escritura pública, se dé conocimiento al deudor y sea inscrita en el Registro Público.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 1994)</small>
+
+Las entidades financieras podrán ceder créditos con garantía hipotecaria sin necesidad de notificación al deudor, ni de inscripción en el Registro Público de la Propiedad, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlo al deudor.
+
 2399.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca continuará vigente hasta en tanto no prescriba la obligación principal o se extinga por alguna otra causa.
 
 Los contratantes pueden señalar a la hipoteca una duración menor que la de la obligación.
@@ -8032,3 +8036,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 1 DE MAYO DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
