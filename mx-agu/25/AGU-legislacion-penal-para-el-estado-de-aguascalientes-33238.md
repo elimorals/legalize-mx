@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2003-10-06"
+last_updated: "2004-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2004.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -4681,9 +4681,9 @@ La extinción de la potestad para ejecutar penas y medidas de seguridad, podrá 
 
 T R A N S I T O R I O S:
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2004)</small>
 
-PRIMERO.- El presente Decreto entrará en vigor el día 15 de enero de 2004.
+PRIMERO.- El presente Decreto entrará en vigor el día 16 de febrero del año 2004.
 
 SEGUNDO.- Se abroga el Código Penal para el Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 7 de agosto de 1994.
 
@@ -4752,5 +4752,9 @@ SEGUNDO SECRETARIO.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEGISLACION.</small>
 
 P.O. 6 DE OCTUBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
