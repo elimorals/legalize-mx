@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "1999-02-03"
+last_updated: "2000-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -459,6 +459,12 @@ CAPACIDAD DE GOCE Y SU PROTECCION. La capacidad de goce de las personas jurídic
 
 Para los efectos legales, sólo se reputa nacido el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias nunca podrá entablarse demanda sobre la paternidad o maternidad.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTICULO 61 Bis.
+
+"DE LA MINORIA DE EDAD". La minoría de edad comprende desde el nacimiento de la persona jurídica física, hasta que ésta cumpla dieciocho años de edad.
+
 ###### ARTICULO 62.
 
 LIMITACIONES A LA PERSONALIDAD. La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la Ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
@@ -483,7 +489,17 @@ MAYORIA DE EDAD. La mayoría de edad comienza a los dieciocho años cumplidos. E
 
 DERECHOS FUNDAMENTALES DEL SER HUMANO. Todo individuo gozará de los derechos públicos subjetivos consagrados en la Constitución Política de la República, así como del respeto de su vida, de su seguridad, de su privacía y dignidad personal.
 
-Es derecho fundamental del ser humano disponer, en vida ó para después de su muerte, de partes u órganos de su cuerpo, siempre que su voluntad conste fehacientemente y no se contravengan normas sanitarias ó penales.
+> <small>(REFORMADO P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+Los menores de edad gozarán de los derechos fundamentales del ser humano, así como los que en el orden civil especifica este Código.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+Por lo que hace a los derechos, obligaciones y responsabilidades civiles de los menores de edad, se estará además a la reglamentación de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+Es derecho fundamental del ser humano disponer, en vida o para después de su muerte, de partes u órganos de su cuerpo, siempre que su voluntad conste fehacientemente y no se contravengan normas sanitarias o penales.
 
 ### CAPITULO IV. DEL DOMICILIO
 
@@ -601,19 +617,31 @@ PLURALIDAD DE PATRIMONIOS. Cuando se afecte un conjunto de bienes, derechos y ob
 
 ESTADO CIVIL DE LA PERSONA JURIDICA FISICA. Sólo la persona jurídica natural tiene estado civil, entendido como la situación jurídica concreta, de un hombre o de una mujer en relación con la familia en su calidad de soltero, casado, o divorciado.
 
-## TITULO SEGUNDO. DEL DERECHO DE LO FAMILIAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I. DE LA MINORIA DE EDAD
+## TITULO SEGUNDO. DEL DERECHO DE FAMILIA
+
+> <small>(REFORMADA, SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO I. DE LA FAMILIA
 
 ###### ARTICULO 84.
 
-DE LA MINORIA DE EDAD. La minoría de edad comprende desde el nacimiento de la persona jurídica física, hasta que ésta cumpla los dieciocho años de edad.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+ARTICULO 84 BIS.- BASES DE LA FAMILIA MORELENSE. La familia Morelense es una agrupación natural que tiene su fundamento en una relación natural que tiene su fundamento en una relación, establece (sic) entre hombre y mujer y su plena realización en la filiación libre, consiente (sic), responsable e informada, aceptada y dirigida por la pareja.
+
+Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
 
 ###### ARTICULO 85.
 
-DERECHOS Y OBLIGACIONES DE LOS MENORES. Los menores de edad gozarán de los derechos consagrados en el artículo 65, así como los que en el orden civil especifica este Código.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000)
 
-Por lo que hace a sus obligaciones y responsabilidades civiles se estará a la reglamentación de este Ordenamiento.
+ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)
+
+ARTICULO 85 BIS.- "DE LA VIOLENCIA EN LA FAMILIA". Por la Violencia Familiar se considera el uso de la fuerza física o moral así como las omisiones graves que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones, siempre y cuando el agresor y agredido guarden un vínculo directo en cualquiera de las hipótesis contenidas en este Código para el parentesco, matrimonio y concubinato habiten en el mismo domicilio.
 
 ### CAPITULO II. DEL PARENTESCO
 
@@ -807,7 +835,7 @@ GENERALIDADES
 
 ###### ARTICULO 120.
 
-BASES DE LA FAMILIA MORELENSE.- La familia Morelense es una agrupación natural que tiene su fundamento en una relación estable entre hombre y mujer y su plena realización en la filiación libre, consciente, responsable e informada, aceptada y dirigida por la pareja.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 121.
 
@@ -1325,7 +1353,9 @@ III.- La propuesta de un cónyuge para prostituir al otro, no sólo cuando lo ha
 
 IV.- La incitación a la violencia o este mismo hecho por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
 
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+V.- Los actos inmorales ejecutados por el marido o por la mujer con el objeto de corromper a los hijos así como la tolerancia en su corrupción y el ejercicio reiterado de la violencia física o moral cometida contra los menores de edad por cualquiera de los cónyuges.
 
 VI.- Padecer cualquier enfermedad de tipo crónico e incurable que sea además o contagiosa o hereditaria o mortal; la impotencia incurable para la cópula; así como, las alteraciones conductuales en la práctica sexual que sobrevengan después de celebrado el matrimonio;
 
@@ -1795,6 +1825,10 @@ FACULTAD DE CORRECCION MESURADA Y OBLIGACION DE BUENA CONDUCTA EJEMPLAR. Los que
 
 Las autoridades competentes, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+La facultad de corregir no implica inflijir (sic) al menor actos de fuerza que atente contra su integridad física o psíquica en los términos de lo dispuesto en el artículo 84 Bis de este Código, por lo tanto los llamados de atención y exhortos que hagan los padres o tutores para el buen comportamiento y adecuada convivencia de todos los integrantes del núcleo familiar, de ninguna manera justifican el ejercicio reiterado de la violencia física o moral contra los menores.
+
 ###### ARTICULO 266.
 
 INCAPACIDAD DEL SUJETO A PATRIA POTESTAD PARA OBLIGARSE Y COMPARECER EN JUICIO. El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de disenso, resolverá el Juez.
@@ -1923,9 +1957,17 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por la ausencia declarada en forma;
 
-III.- Por la sentencia condenatoria que imponga como pena esta suspensión; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
 
-IV.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 822, fracción II del Código Procesal Civil.
+III.- Por la sentencia condenatoria que imponga como pena esta suspensión;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+IV.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 822, fracción II del Código Procesal Civil; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+V.- Cuando el que la ejerce incurra en conductas de violencia familiar prevista en el artículo 85 Bis de este Código, en contra de las personas contra las cuales la ejerza.
 
 ###### ARTICULO 285.
 
@@ -3553,9 +3595,17 @@ IV.- Por razón de orden público;
 
 V.- Por falta de reciprocidad internacional;
 
-VI.- Por utilidad pública; y
+> <small>(REFORMADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
 
-VII.- Por renuncia injustificada o remoción del algún cargo conferido en el testamento.
+VI.- Por utilidad pública;
+
+> <small>(REFORMADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+VII.- Por renuncia injustificada o remoción del algún cargo conferido en el testamento; y
+
+> <small>(ADICIONADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+VIII.- Los parientes que teniendo obligación de cubrir alimentos abandonaren a los acreedores alimentarios y toda aquella persona que con parentesco o sin él protistuyere (sic) o corrompiere a menores.
 
 ###### ARTICULO 543.
 
@@ -4761,7 +4811,9 @@ Si el intestado no fuera absoluto, se deducirá del total de la herencia la part
 
 PERSONAS CON DERECHO A HEREDAR. Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado; y
+> <small>(REFORMADA P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+I.- Los descendientes cónyuges, ascendientes, parientes colaterales dentro del cuarto grado, salvo aquéllos cuya conducta quede comprendida conforme a la disposición de la fracción VIII del artículo 542 de este Código; y
 
 II.- A falta de los anteriores, el Estado de Morelos.
 
@@ -15206,3 +15258,9 @@ El patrimonio familiar constituido formalmente con anterioridad a la entrada en 
 ###### ARTICULO TERCERO.
 
 Aprobado que sea el presente decreto, túrnese al Titular del Poder Ejecutivo para los efectos de los artículos 44 y 70 fracción XVII de la Constitución Política del Estado de Morelos.
+
+P.O. 6 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos contenidos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
