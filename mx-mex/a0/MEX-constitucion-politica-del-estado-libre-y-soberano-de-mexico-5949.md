@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1921-10-26"
+last_updated: "1923-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 1921.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 1923.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -38,6 +38,14 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 ## TITULO UNICO. DEL ESTADO DE MEXICO COMO ENTIDAD LIBRE Y
 
 SOBERANA
+
+###### Artículo 1°.
+
+Los Magistrados Propietarios y Supernumerarios actualmente en ejercicio, cesarán en sus funciones el 31 de diciembre del año en curso.
+
+###### Artículo 2°.
+
+El nuevo período de cuatro años, comenzará a contarse desde el día 1° de enero de 1924.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -865,9 +873,11 @@ IV. Conocer del recurso de suspensión a que se refiere el artículo 113 de esta
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 1923)</small>
+
 ###### Art. 111.
 
-Para el mejor despacho de los asuntos de la competencia del Tribunal Superior de Justicia, la primera Sala conocerá de todos los asuntos civiles y la segunda y tercera de todos los penales.
+Para el mejor despacho de todos aquellos asuntos de la competencia del Tribunal Superior de Justicia, la Primera Sala conocerá de los asuntos civiles; y además, de la revisión de las causas criminales; y la Segunda, conocerá de estas últimas, exceptuando su revisión.
 
 ###### Art. 112.
 
@@ -875,7 +885,7 @@ Todo negocio judicial, sea criminal o del orden civil, no podrá tener más que 
 
 ###### Art. 113.
 
-A fin de hacer más expedita la administración de Justicia en el Estado, se establece el recurso de suspensión, que tendrá por objeto lograr por los más rápidos procedimientos, se mantengan las cosas en el estado que guarden, en tanto se dicta la resolución decisiva inmediata y sin perjuicio de la continuación de la secuela del juicio o proceso respectivos. La ley determinará los casos en que tal recurso podrá intentarse y el procedimiento que deba seguirse.
+A fin de hacer más expedita la administración de Justicia en el Estado, se establece el recurso de suspensión, que tendrá por objeto lograr por los más rápidos procedimientos, se mantengan las cosas en el estado que guarden, en tanto se dicta la resolución decisiva inmediata y sin perjuicio de la continuación de la secuela del juicio o proceso respectivos. La ley determinará los casos en que tal recursos podrá intentarse y el procedimiento que deba seguirse.
 
 ###### Art. 114.
 
@@ -925,9 +935,11 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 1923)</small>
+
 ###### Art. 101.
 
-El Tribunal Superior de Justicia se compondrá de nueve Magistrados propietarios y tres supernumerarios, que serán electos libremente por la Legislatura y durarán en su encargo seis años.
+El Tribunal Superior de Justicia se integrará de seis magistrados Propietarios y dos Supernumerarios, que serán electos libremente por la Legislatura y durarán en su encargo cuatro años.
 
 ###### Art. 100.
 
@@ -1560,6 +1572,8 @@ G.G. 26 DE OCTUBRE DE 1921.
 DECRETO NUMERO 6, POR EL QUE SE REFORMA EL ARTICULO 181 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 10 DE NOVIEMBRE DE 1923.
 
 ### CAPITULO TERCERO. BASES DE ORGANIZACIÓN DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
