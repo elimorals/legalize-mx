@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1999-12-22"
+last_updated: "2000-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2000.
+
+(REPUBLICADO, P.O. 19 DE ABRIL DE 2000)
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -3199,7 +3201,7 @@ Para la determinación y cobro de los derechos que establece el artículo anteri
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -3687,27 +3689,25 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ### CAPITULO IX. SERVICIOS DIVERSOS
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+(REFORMADO, P.O. 5 DE ABRIL DE 2000) (REPUBLICADO, P.O. 19 DE ABRIL DE 2000)
 
 ###### ARTICULO 287o.
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, cafés cantantes, clubes deportivos y recreativos, casinos y círculos sociales con servicio exclusivo para sus socios, con el importe de 300 días de salario mínimo. Los centros nocturnos y discoteques, con el importe de 600 días de salario mínimo.
+I.- Restaurantes, bares de hoteles y moteles, restaurantes bar, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de 300 días de salario mínimo. Los cabarets, centros nocturnos y discotecas, con el importe de 600 días de salario mínimo.
 
-II.- Loncherías, fondas, coctelerías, taquerías, cenadurías y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior con el importe de 100 días de salario mínimo.
+II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de 100 días de salario mínimo.
 
 III.- Supermercados, con el importe de 300 días de salario mínimo.
 
-IV.- Minisupers, tiendas de abarrotes, licorerías depósitos, agencias, subagencias, almacenes y distribuidoras con el importe de 150 días de salario mínimo.
+IV.- Minisupers, abarrotes, licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras con el importe de 150 días de salario mínimo.
 
-V.- Bares, cantinas, tabernas y otros establecimientos similares no comprendidos en la fracción I de este artículo con el importe de 200 días de salario mínimo.
+V.- Bares, cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe de 200 días de salario mínimo.
 
-VI.- Eventuales, como los que se instalan en ferias, bailes, kermeses, salones de baile y eventos deportivos, con el importe de 10 días de salario mínimo por evento.
+VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de 10 días de salario mínimo, por fecha.
 
-VII.- Por la revalidación anual de las licencias expedidas a los establecimientos señalados en las fracciones de la I a la V, se causarán a razón del 50% de los derechos previstos en cada una de dichas fracciones, según corresponda y deberán pagarse cada año a más tardar el último día del mes de febrero.
-
-VIII.- Por la expedición de autorizaciones anuales de funcionamiento en horario extraordinario con el importe del 50% de los derechos señalados en las fracciones de la I a la V, por cada hora.
+VII.- Por la expedición de autorización, de hasta por treinta días en un año de calendario, para el funcionamiento en horario extraordinario, con el importe del 50% de los derechos señalados en las fracciones de la I a la V, por cada hora.
 
 ###### ARTICULO 288o.
 
@@ -4010,3 +4010,13 @@ El presente decreto entrará en vigor a partir del 1 de enero del año 2000.
 ###### ARTICULO SEGUNDO.
 
 Para los efectos de lo estipulado en el artículo 228 de la Ley de Hacienda del Estado, los contribuyentes de este impuesto que ya estén inscritos en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, deberán de presentar aviso de aumento de obligaciones a más tardar el 15 de febrero del año 2000.
+
+P.O. 5 DE ABRIL DE 2000
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de (sic) día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de lo dispuesto en el Artículo Transitorio siguiente.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones contenidas en las fracciones VII y VIII del artículo 287 de la Ley de Hacienda del Estado que mediante el presente Decreto se modifican, estarán vigentes hasta el día 30 de abril del presente año.
