@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1989-12-29"
+last_updated: "1991-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1991.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -2051,587 +2051,301 @@ Cuando existan excedentes después de haberse cubierto el crédito, se entregar�
 
 En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
 
-## TITULO VI. Del Procedimiento Contencioso Administrativo
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-### CAPITULO I. Disposiciones Generales
+## TITULO VI
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+
+### CAPITULO I
 
 ###### ARTICULO 191.
 
-El Juzgado Fiscal del Estado dictará sus fallos en representación del Ejecutivo, pero será independiente de cualquier autoridad administrativa y tendrá las atribuciones que este Código establece.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 192.
 
-El Juzgado Fiscal será unitario y estará integrado por el Juez, los Secretarios y el personal auxiliar que requieran las necesidades derivadas de sus atribuciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 193.
 
-El Juez Fiscal será nombrado por el C. Gobernador del Estado con ratificación del Congreso Local.
-
-En los recesos del Congreso el nombramiento se hará por el Ejecutivo provisionalmente.
-
-Durará en su encargo seis años y no podrá ser removido sino en los casos en que legalmente puedan serlo los funcionarios del Poder Judicial del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 194.
 
-Para ser Juez Fiscal se requiere: ser ciudadano mexicano, mayor de veinticinco años, abogado con título expedido por autoridad competente y registrado en la Dirección General de Profesiones, con práctica profesional de cinco años como mínimo, en materia fiscal, de buena conducta y no haber sido condenado por delito intencional.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 195.
 
-El Juez Fiscal estará impedido para desempeñar cualquier empleo dependiente de la Federación, Estado, Municipio o particulares; excepto los de carácter docente. Asimismo, queda impedido para ejercer la profesión de abogado en asuntos fiscales, salvo en causa propia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 196.
 
-Los secretarios y demás personal del Juzgado Fiscal, cuyas plazas aparezcan establecidas en la Ley de Egresos, serán nombrados por el Juez. Para ser Secretario se requiere mayoría de edad, estar en pleno ejercicio de los derechos civiles y tener título profesional de abogado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 197.
 
-Cuando por cualquier causa el Juez no pueda conocer algún asunto, será suplido por el Primer Secretario del juzgado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 198.
 
-El Juzgado Fiscal será competente y conocerá de los juicios que se inicien:
-
-I.- Contra las resoluciones y liquidaciones de la Secretaría de Finanzas y Tesorería General del Estado o de sus dependencias, que sin ulterior recurso administrativo, determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
-
-II.- Contra los acuerdos que impongan definitivamente y sin ulterior recurso administrativo, sanciones por infracciones a las Leyes fiscales.
-
-III.- Contra cualesquier resolución o acto diverso de los anteriores, dictado en materia fiscal y que causen agravio no reparable por algún recurso administrativo.
-
-IV.- Contra la negativa de la Secretaría de Finanzas y Tesorería General del Estado para ordenar la devolución de lo indebidamente pagado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 199.
 
-Los juicios que se promuevan ante el Juzgado Fiscal del Estado se substanciarán y resolverán con arreglo al procedimiento que determine este Código, pudiendo aplicarse el Código de Procedimientos Civiles vigente en el Estado a falta de disposición expresa, y siempre que la disposición expresa, y siempre que la disposición que se pretenda aplicar supletoriamente se avenga al procedimiento contencioso que establece este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 200.
 
-Son partes en el juicio contencioso administrativo:
-
-I.- El demandante.
-
-II.- Los demandados. Tendrán ese carácter:
-
-A).- La autoridad que dictó la resolución impugnada.
-
-B).- El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
-
-III.- El titular de la Secretaría de Estado u organismo descentralizado del que dependa la autoridad mencionada en la fracción anterior. En todo caso la Secretaría de Finanzas y Tesorería General del Estado será parte en los juicios en que se controvierta el interés fiscal del Estado.
-
-IV.- El tercero que tenga un derecho incompatible con la pretensión del demandante.
-
-Podrá apersonarse en el juicio como coadyuvante de las autoridades administrativas, quien tenga interés directo en la modificación o anulación de un acto favorable a un particular o en la confirmación de uno que le es desfavorable.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 201.
 
-Toda promoción deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital y firmará otra persona a su ruego.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 202.
 
-Ante el Juzgado Fiscal no procederá la gestión de negocios. Quien promueva a nombre de otra deberá acreditar que la representación le fue otorgada a más tardar, en la fecha de la presentación de la demanda o de la contestación, en su caso.
-
-La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Juzgado Fiscal, sin perjuicio de lo que disponga la legislación de profesiones.
-
-La representación de las autoridades corresponderá a la unidad administrativa encargada de su Defensa Jurídica.
-
-Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 203.
 
-En los juicios que se tramiten ante el juzgado Fiscal no habrá lugar a condenación de costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-### CAPITULO II. De la Improcedencia y del Sobreseimiento
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+
+### CAPITULO II
 
 ###### ARTICULO 204.
 
-Es improcedente el juicio ante el Juzgado Fiscal, contra actos:
-
-I.- Que no afecten los intereses jurídicos del demandante.
-
-II.- Cuya impugnación no corresponda conocer a dicho juzgado.
-
-III.- Que hayan sido materia de sentencia pronunciada por el Juzgado Fiscal, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
-
-IV.- Respecto de los cuales hubiese consentimiento, entendiéndose éste cuando no se promovió algún medio de defensa en los términos de las leyes respectivas o juicio ante el Juzgado Fiscal en los plazos que señala este Código.
-
-V.- Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante otra autoridad o ante el propio Juzgado.
-
-VI.- Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de aquéllos cuya interposición sea optativa.
-
-VII.- Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
-
-Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas de acumulación prevista en el artículo 219 de este Código.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-VIII.- Que hayan sido impugnados en un procedimiento judicial.
-
-IX.- Contra ordenamientos que den normas o instrucciones de carácter general y abstracto, sin haber sido aplicados concretamente al promovente.
-
-X.- Cuando no se haga valer agravio alguno.
-
-XI.- Cuando de las constancias de autos apareciere claramente que no existe el acto reclamado.
-
-XII.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 205.
 
-Procede el sobreseimiento del juicio:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-I.- Por desistimiento del demandante.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-II.- Cuando durante el juicio aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior.
-
-III.- En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia el proceso.
-
-IV.- Si la autoridad demandada deja sin efecto el acto impugnado.
-
-V.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
-
-### CAPITULO III. De los Impedimentos y Excusas
+### CAPITULO III
 
 ###### ARTICULO 206.
 
-El Juez Fiscal del Estado estará impedido para conocer, en los siguientes casos:
-
-I.- Si tiene interés personal en el negocio.
-
-II.- Si es pariente consanguíneo, afín o civil de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad y en el segundo de la colateral por afinidad.
-
-III.- Si ha sido patrono o apoderado en el mismo negocio.
-
-IV.- Si tiene amistad estrecha o enemistad con alguna de las partes o con sus patronos o representantes.
-
-V.- Si ha dictado el acto impugnado o ha intervenido con cualquier carácter en la emisión del mismo o en su ejecución.
-
-VI.- Si figura como parte en un juicio similar, pendiente de resolución.
-
-VII.- Si está en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 207.
 
-El Juez tiene el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-En caso de excusa conocerá del asunto el Secretario Primero, quien en su caso actuará con testigos de asistencia.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-### CAPITULO IV. De la Demanda
+### CAPITULO IV
 
 ###### ARTICULO 208.
 
-La demanda deberá ser por escrito y presentarse directamente ante el Juzgado Fiscal, dentro de los veinte días siguientes a aquél en que haya surtido efectos la notificación del acto impugnado o en que el afectado haya tenido conocimiento de él o de su ejecución, o se haya ostentado sabedor del mismo cuando no exista notificación legalmente hecha.
-
-Las autoridades podrán presentar la demanda dentro de los cinco años siguientes a la fecha en que sea emitida la resolución, cuando se pida la modificación o nulidad de un acto favorable a un particular, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
-
-Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta por noventa días si antes no se ha aceptado el cargo de representante de la sucesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 209.
 
-La demanda deberá indicar:
-
-I.- El nombre y domicilio del demandante.
-
-II.- La resolución que se impugna.
-
-III.- La autoridad o autoridades demandadas, o el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa.
-
-IV.- Los hechos que den motivo a la demanda.
-
-V.- Las pruebas que ofrezca.
-
-VI.- La expresión de los agravios que le cause el acto impugnado.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-VII.- El nombre y domicilio del tercero interesado, cuando lo haya.
-
-Cuando no se haga alguno de los señalamientos anteriores, el Juez instructor requerirá mediante notificación personal al demandado para que en un plazo de cinco días proporcione los datos omitidos, apercibiéndole que de no hacerlo en tiempo se tendrá por presentada la demanda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 210.
 
-El demandante deberá adjuntara a su instancia:
-
-I.- Una copia de la misma para cada una de las partes y una copia de los documentos anexos para el titular a que se refiere la fracción III del artículo 200 y para la autoridad que dictó el acto impugnado, o en su caso, para el particular demandado.
-
-II.- El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio.
-
-III.- El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad.
-
-IV.- Constancia de la notificación del acto impugnado, excepto cuando el demandante declare bajo protesta de decir verdad que no recibió constancia o cuando hubiera sido por correo.
-
-Si la notificación fue por edictos deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-V.- El cuestionario que deben desahogar los peritos, el cual deberá ir firmado por el demandante y el dictamen del perito del actor, si se ofrece prueba pericial.
-
-VI.- Los interrogatorios para los testigos, los cuales deberán ir firmados por el demandante, si se ofrece prueba testimonial.
-
-VII.- Las pruebas documentales que ofrezca.
-
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar que se encuentren para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente.
-
-Cuando no se adjunten a la demanda los documentos a que se refieren las fracciones V a VII de este artículo, se tendrán por no ofrecidas las pruebas respectivas. En los demás casos, el Juez requerirá mediante notificación personal al demandante para que presente las copias o documentos de que se trate en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo de tendrá por no presentada la demanda.
-
-Cuando los objetos o documentos sobre los cuales deba versar la prueba pericial estén en poder del demandado, se le requerirá para que los ponga a la vista del perito del actor a fin de que pueda rendir su peritaje, concediéndole al propio perito un término de diez días para que presente su dictamen.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 211.
 
-El demandante tendrá derecho de ampliar la demanda dentro de los diez días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la demanda, cuando se impugne una resolución negativa ficta.
-
-También podrá ampliar la demanda cuando en la contestación se sostenga que el juicio es improcedente por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó ilegalmente. En este caso, si al dictarse sentencia se decide que la notificación fue correcta, se sobreseerá el juicio; en caso contrario, se decidirá sobre el fondo del negocio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 212.
 
-El tercero o el coadyuvante dentro de los diez días siguientes a aquél en que se corra traslado de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de contestación o de la demanda, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-Deberá adjuntar a su escrito, el documento en que se acredite su personalidad cuando no gestione en nombre propio y las pruebas documentales que ofrezca, el interrogatorio para los testigos, el cuestionario para los peritos y el dictamen pericial, en su caso. Siendo aplicables en lo conducente los dos últimos párrafos del artículo 210 de este Código.
-
-### CAPITULO V. De la Contestación
+### CAPITULO V
 
 ###### ARTICULO 213.
 
-Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los veinte días siguientes a aquél en que se le hubiera notificado el emplazamiento. El plazo para contestar la ampliación de la demanda será de diez días, siguientes al en que surta efectos la notificación del acuerdo que la admita. Si no se produce la contestación en tiempo o ésta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que las pruebas rendidas o por hechos notorios, resulten desvirtuados.
-
-Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior.
-
-Cuando los demandados fueren varios el término para contestar les correrá individualmente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 214.
 
-El demandado, en su contestación expresará:
-
-I.- Los incidentes de previo y especial pronunciamiento a que haya lugar.
-
-II.- Las consideraciones que a su juicio impidan se emita decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en que el actor apoya su demanda.
-
-III.- Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron, según sea el caso.
-
-IV.- Los argumentos por medio de los cuales se demuestre la ineficacia de los agravios.
-
-V.- Las pruebas que ofrezca.
-
-VI.- Nombre y domicilio del coadyuvante, cuando lo haya.
-
-Para los efectos de este artículo, será aplicable lo dispuesto en el último párrafo del Artículo 209 de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 215.
 
-El demandado deberá adjuntar a su contestación:
-
-I.- Copias de la misma y de los documentos que acompañe para el demandante, para el tercero señalado en la demanda y para el coadyuvante, en su caso.
-
-II.- El documento que acredite su personalidad cuando el demandado sea un particular y no gestione en nombre propio.
-
-III.- El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandado y el dictamen del perito del demandado, si se ofrece prueba pericial.
-
-IV.- La ampliación del cuestionario para el desahogo de la pericial ofrecida por la parte demandante y la ampliación del dictamen del perito del demandado, en su caso.
-
-V.- Los interrogatorios para los testigos, los cuales deberán ir firmados por el demandado, si se ofrece prueba testimonial.
-
-VI.- Las pruebas documentales que ofrezca.
-
-Para los efectos de este artículo, serán aplicables en lo conducente los tres últimos párrafos del Artículo 210 de este Código.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 216.
 
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
-
-En caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
-
-En la contestación de la demanda o hasta antes del cierre de la instrucción, la autoridad demandada podrá allanares a las pretensiones del demandante o revocar la resolución impugnada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 217.
 
-Cuando haya contradicciones entre los fundamentos de hecho y derecho dados en la contestación por la autoridad que dictó la resolución impugnada y la formulada por el Secretario de Finanzas y Tesorero General del Estado o por el titular del organismo descentralizado del que dependa aquélla, el Juez tomará en cuenta la que proceda conforme la naturaleza del acto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-### CAPITULO VI. De los Incidentes
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+### CAPITULO VI
 
 ###### ARTICULO 218.
 
-En el procedimiento contencioso administrativo sólo serán incidentes de previo y especial pronunciamiento:
-
-I.- El de acumulación de autos.
-
-II.- El de nulidad de notificaciones.
-
-III.- El de interrupción por causa de muerte o disolución.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Mientras estén pendientes de resolución los demás incidentes a que se refiere este Capítulo, el juicio continuará hasta que se cierre la instrucción. Si el incidente hecho valer es notoriamente frívolo e improcedente se impondrá a quien lo promueva una multa hasta el equivalente al salario mínimo general de la zona económica correspondiente, elevado a un trimestre.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 219.
 
-Procede la acumulación de dos o más juicios pendientes de resolución en los casos en que:
-
-I.- Las partes sean las mismas y se invoquen idénticos agravios.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-II.- Siendo diferentes las partes e invocándose distintos agravios, el acto impugnado sea uno mismo o se impugnen varias partes del mismo acto.
-
-III.- Independientemente de que las partes y los agravios sean o no diversos, se impugnen actos que sean unos antecedentes o consecuencia de los otros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 220.
 
-Las partes podrán hacer valer el incidente a que se refiere el artículo anterior, hasta antes de que se cierre la instrucción.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 221.
 
-El Juez en el plazo de diez días dictará la resolución que proceda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 222.
 
-Las solicitudes de acumulación notoriamente infundadas, se desecharán de plano.
-
-Cuando no pueda decretarse la acumulación por que en alguno de los juicios se hubiese cerrado la instrucción, a petición de parte o de oficio, se decretará la suspención del procedimiento en el juicio en trámite. La suspención subsistirá hasta que los negocios queden en estado de sentencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 223.
 
-Las notificaciones que no fueren hechas conforme a lo dispuesto por este Código serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
-
-Las promociones de nulidad notoriamente infundadas se desecharan de plano.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, el Juez dictará resolución.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Si se declara la nulidad el Juzgado ordenará reponer el procedimiento desde la fecha de la notificación anulada. Asimismo, se impondrá una multa al actuario, equivalente hasta dos veces el salario mínimo general de la zona económica correspondiente, elevado al mes, sin que exceda del 30% de su sueldo mensual. En caso de reincidencia el actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 224.
 
-La interrupción por causa de muerte o disolución se tramitará ante el juez fiscal y procederá cuando (sic) antes de que en el juicio se cierre la instrucción, ocurra cualquiera de los siguientes supuestos:
-
-I.- Muera una persona que sea parte en el juicio.
-
-II.- Se presente cualquiera de las causales legales de disolución de una persona moral, siempre que sea particular y parte demandada.
-
-El incidente se tramitará aún de oficio.
-
-El procedimiento se reanudará cuando se apersone a juicio el causahabiente de la parte desaparecida o su representante o si habiendo transcurrido un año a partir de la fecha en que se decretó la suspención no se personan a juicio, caso en el cual las notificaciones se harán por lista.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 225.
 
-Las partes podrán recusar al Juez o a los peritos del juzgado, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo 206 de este Código.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 226.
 
-La recusación del juez se hará valer hasta antes de que se cierre la instrucción en el juicio, mediante escrito en el cual se acompañen las pruebas que se ofrezcan con dicho objeto. Inmediatamente que sea interpuesta la recusación, se suspenderá el procedimiento hasta que sea resuelto y se prosiga el negocio ante quien deba conocer de él.
-
-El Juez Fiscal del Estado turnará el expediente al Primer Secretario del Juzgado, para que en función de Juez conozca la recusación.
-
-El Primer Secretario del Juzgado, citará a una audiencia que se celebrará dentro de los tres días siguientes a la fecha en que se presentó la promoción, en donde recibirá las pruebas que se ofrezcan y el informe que debe rendir el Juez Fiscal recusado. La falta de dicho informe establece la presunción de ser cierta la causa de recusación.
-
-Si se declara fundada la recusación, el Juez será sustituido.
-
-La recusación a un perito del Juzgado Fiscal se tramitará y resolverá en los términos de este artículo, dentro de los seis días siguientes a aquél en que cada parte tenga conocimiento de que ha rendido su dictamen pericial.
-
-Las menciones en este artículo al Juez recusado, serán aplicables al perito.
-
-El secretario que en los términos de este artículo conozca de una recusación, es irrecusable para ese solo efecto.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 227.
 
-los particulares podrán promover en cualquier tiempo el incidente de suspención de la ejecución, cuando la autoridad ejecutora niegue la suspención, rechace la garantía ofrecida o reinicie la ejecución, acompañando copia del documento en que se haga constar la garantía.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 228.
 
-Promovido el incidente a que se refiere el artículo anterior, se ordenará a la autoridad que haya negado la suspención, rechazado la garantía o reiniciado la ejecución, suspenda ésta y rinda un informe en un plazo de tres días. Asimismo, la apercibirá de que si no suspende desde luego la ejecución o si no rinde el informe o si no se refiere específicamente a los hechos, se tendrán éstos por ciertos y se declarará fundado el incidente respectivo.
-
-En un plazo de cinco días, el Juzgado dictará la resolución que corresponda. Si la autoridad no da cumplimiento a lo ordenado, se impondrá al funcionario responsable del incumplimiento una multa de uno a tres tantos del equivalente al salario mínimo general de la zona económica correspondiente, elevado al mes, independientemente de la responsabilidad oficial en que pueda incurrir.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 229.
 
-Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las promociones y actuaciones en juicio, el incidente se podrá hacer valer ante el Juez hasta antes de que se cierre la instrucción del juicio. El juzgado resolverá sobre la autenticidad del documento exclusivamente para efectos de dicho juicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-### CAPITULO VII. De las Pruebas
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+
+### CAPITULO VII
 
 ###### ARTICULO 230.
 
-En los juicios que se tramitan en el Juzgado Fiscal del Estado, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones. No se requerirá segunda citación para tener confeso al absolvente que no concurra sin causa justificada.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, el Juez ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 231.
 
-El Juez podrá ordenar la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento. El Juzgado Fiscal tendrá facultad para calificar la idoneidad de las pruebas ofrecidas por las partes respecto de los puntos controvertidos y desechará aquéllas que sean inconducentes o no tengan relación inmediata y directa con la litis.
-
-Si en la contestación de la demanda se ofrece prueba pericial, el Juez concederá al actor un término de diez días para que presente el dictamen de su perito, la ampliación del cuestionario y la ampliación del dictamen, en su caso.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-El perito tercero será designado por el Juzgado de entre los que tenga adscritos. En el caso de que no hubiere perito adscrito en la ciencia o arte sobre el cual verse el peritaje, el mismo juzgado designará bajo su responsabilidad a la persona que debe rendir dicho dictamen y las partes cubrirán sus honorarios. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución fiduciaria, debiendo cubrirse sus honorarios por las partes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 232.
 
-Para desahogar la prueba testimonial, el Juez requerirá a la parte que la hubiere ofrecido, para que presente a los testigos y cuando la parte que ofrezca esta prueba manifieste no poder hacer que se presenten, se citará a los testigos por conducto del Juzgado, para que comparezcan en día y hora que al efecto se señale; de sus declaraciones se levantará acta pormenorizada y podrán serles formuladas por el Juez o por las partes aquéllas preguntas que, no incluidas en los interrogatorios, tengan relación directa con los hechos controvertidos o persigan la aclaración de cualquier respuesta. Cuando las autoridades funjan como testigos, el desahogo de esta prueba se hará por oficio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 233.
 
-A fin de que las partes puedan rendir sus pruebas, los funcionarios o autoridades tienen obligación de expedir con toda oportunidad las copias de los documentos que les soliciten; si no se cumpliera con esa obligación, la parte interesada solicitará al Juez que requiera a los omisos.
-
-Cuando sin causa justificada la autoridad demandada no expida las copias de los documentos ofrecidos por el demandante para probar los hechos imputados a aquélla y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que pretenda probar con esos documentos.
-
-En los casos en que la autoridad no sea parte, el Juez podrá hacer valer como medida de apremio la imposición de multas de hasta el monto del equivalente al salario mínimo general de la zona económica correspondiente, elevado al trimestre, a los funcionarios omisos.
-
-Cuando se soliciten copias de documentos que no puedan proporcionarse en la práctica administrativa normal, las autoridades podrán solicitar un plazo adicional para hacer las diligencias extraordinarias que el caso amerite y si al cabo de éstas no se localizan, el Juez podrá considerar que se está en presencia de omisión por causa justificada.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 234.
 
-La valoración de las pruebas se hará de acuerdo con las siguientes disposiciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-I.- Harán prueba plena la confesión expresa de las partes, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero, si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-Tratándose de actos de comprobación de las autoridades administrativas, se entenderán como legalmente afirmados los hechos que constan en las actas respectivas.
-
-II.- El valor de las pruebas pericial y testimonial, así como el de las demás pruebas quedará a la prudente apreciación del Juzgado. Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, el juzgado adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
-
-### CAPITULO VIII. Del Cierre de la Instrucción
+### CAPITULO VIII
 
 ###### ARTICULO 235.
 
-El Juez, diez días después de que se haya contestado la demanda o la ampliación de la misma cuando proceda, se hayan en su caso desahogado las pruebas y diligencias ordenadas, y resuelto los incidentes de previo y especial pronunciamiento o el de recusación, notificará a las partes que tienen un término de cinco días para que formulen alegatos por escrito, vencido el cual declarará cerrada la instrucción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-### CAPITULO IX. De la Sentencia
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+
+### CAPITULO IX
 
 ###### ARTICULO 236.
 
-Instruido el proceso y declarados vistos los autos, el juzgado fiscal del Estado deberá dictar sentencia dentro de los veinte días siguientes a aquél en que se cierre la instrucción del juicio. Para dictar resolución en los casos de sobreseimiento por alguna de las causas previstas en el Artículo 205 de este Código, no será necesario que se hubiese cerrado la instrucción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 237.
 
-Las sentencias del juzgado fiscal tendrán fuerza de cosa juzgada, se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 238.
 
-Se declarará que una resolución administrativa es ilegal cuando se demuestre alguna de las siguientes causales:
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-I.- Incompetencia del funcionario que la haya dictado, u ordenando o tramitado el procedimiento del que deriva dicha resolución.
-
-II.- Omisión de los requisitos formales exigidos en las leyes, inclusive por la ausencia de fundamentación o motivación, en su caso.
-
-III.- Vicios del procedimiento que afecten las defensas del particular.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-IV.- Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicables o si se dejó de aplicar las debidas.
-
-V.- Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la Ley confiera dichas facultades.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 239.
 
-La sentencia definitiva podrá:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-I.- Reconocer la validez de la resolución impugnada.
+> <small>(DEROGADO CON EL SUBTITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-II.- Declarar la nulidad de la resolución impugnada.
+### CAPITULO X
 
-III.- Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad deba cumplirla, salvo que se trate de facultades discrecionales.
-
-Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, deberá cumplirse en un plazo de treinta días aún cuando haya transcurrido el plazo que señala el Artículo 67 de este Código.
-
-En caso de que se interponga algún medio de defensa, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
-
-El Juzgado Fiscal del Estado declarará la nulidad para el efecto de que se emita nueva resolución cuando se esté en alguno de los supuestos previstos en las fracciones II y III, y en su caso, V, del artículo 238 de este Código.
-
-### CAPITULO X. De los Recursos
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
 De la Reclamación
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
 ###### ARTICULO 240.
 
-El recurso de reclamación procederá ante el mismo Juez, contra resoluciones en las que admita o deseche la demanda, la contestación o las pruebas, las que decreten o nieguen el sobreseimiento del juicio o aquéllas que admitan o rechacen la intervención del coadyuvante o del tercero. La reclamación se interpondrá dentro de los tres días siguientes a aquél en que surta efectos la notificación respectiva y tendrá por objeto subsanar, en su caso, las violaciones cometidas y dictar la resolución que en derecho corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 241.
 
-Interpuesto al recurso a que se refiere el artículo anterior, el Juez ordenará correr traslado a la contraparte por el término de tres días para que exprese lo que a su derecho convenga y sin más trámite resolverá lo conducente en el término de tres días.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 242.
 
-Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiere cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-### CAPITULO XI. De las Notificaciones y del Cómputo de los Términos
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
+
+### CAPITULO XI
 
 ###### ARTICULO 243.
 
-Toda resolución debe notificarse, a más tardar el día siguiente a aquél en que el expediente haya sido turnado al notificador para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Al notificador que sin causa justificada no cumpla con esta obligación se le impondrá una multa hasta de dos veces el equivalente al salario mínimo general de la zona económica correspondiente, elevado al mes, sin que exceda del 30% de su salario y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 244.
 
-En las notificaciones se deberá asentar razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 245.
 
-Las notificaciones que deban hacerse a los particulares, se harán en el local del juzgado si las personas a quienes deba notificarse se presentan dentro de las veinticuatro horas siguientes a aquélla en que se haya dictado la resolución. Cuando el particular no se presente se harán por lista autorizada que se fijará en sitio visible del local del juzgado.
-
-Cuando el particular no se presente se harán personalmente o por correo certificado con acuse de recibo, siempre que se conozca su domicilio y que éste o el de su representante se encuentre en la entidad, tratándose de los siguientes casos:
-
-I.- La que corra traslado de la demanda, de la contestación, y, en su caso, de la ampliación.
-
-II.- La que mande citar a los testigos o a un tercero.
-
-III.- El requerimiento a la parte que debe cumplirlo.
-
-IV.- El auto que declare cerrada la instrucción.
-
-V.- La resolución de sobreseimiento.
-
-VI.- Las sentencias definitivas e interlocutorias.
-
-VII.- En todos aquéllos casos en que el Juez así lo ordene.
-
-La lista a que se refiere este artículo contendrá nombre de la persona, expediente y tipo de acuerdo. En los autos se hará constar la fecha de la lista.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 246.
 
-Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 247.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 248.
 
-Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 ###### ARTICULO 249.
 
-El cómputo de los plazos se sujetará a las reglas siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
-I.- Empezarán a correr a partir del día siguiente a aquél en que surta efectos la notificación.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)</small>
 
-II.- Si están fijados en días, se computarán sólo los hábiles entendiéndose por éstos aquéllos en que se encuentren abiertas al público las oficinas del Juzgado Fiscal durante el horario normal de labores. La existencia de personal de guardia no habilita los días en que se suspendan las labores.
-
-### CAPITULO XII. De la Jurisprudencia
+### CAPITULO XII
 
 ###### ARTICULO 250.
 
-Establecerá jurisprudencia el juzgado fiscal cuando pronuncie tres sentencias consecutivas que fijen la misma interpretación. El Juzgado Fiscal hará la declaratoria del sentido de la Jurisprudencia, la cual se publicará en el Periódico Oficial del Estado; la misma, será obligatoria para el juzgado y no podrá variarse sino por resolución expresa en sentido contrario debidamente razonada.
-
-La resolución del juzgado que modifique la jurisprudencia se publicará igualmente en el Periódico Oficial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
 
 T R A N S I T O R I O S :
 
@@ -2728,3 +2442,21 @@ P.O. 30 DE DICIEMBRE DE 1987.
 P.O. 29 DE DICIEMBRE DE 1989.
 
 UNICO.- La presente Ley entrará en vigor el día 1º de Enero de 1990.
+
+P.O. 5 DE JULIO DE 1991.
+
+###### ARTICULO PRIMERO
+
+- El presente Código entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se deroga el Título Sexto del Código Fiscal del Estado, así como las demás disposiciones legales que se opongan al presente Código.
+
+###### ARTICULO TERCERO
+
+- Se dejan a salvo los derechos laborales del personal que trabaja en el Tribunal Fiscal del Estado. En lo que hace al mobiliario y demás activo del Tribunal de referencia, pasará a disposición del Tribunal de lo Contencioso Administrativo que se está creando.
+
+###### ARTICULO CUARTO
+
+- Todos los juicios en trámite en el Tribunal Fiscal del Estado se resolverán de acuerdo con el Código Fiscal del Estado o de este Código si las partes interesadas se someten al mismo.
