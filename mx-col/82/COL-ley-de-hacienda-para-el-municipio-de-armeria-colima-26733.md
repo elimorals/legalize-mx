@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2003-03-29"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -533,9 +533,15 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7.- Espectáculos deportivos 5
 
-8.- Cualquier otro espectáculo público por
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
 
-el que se cobren derechos de admisión 5 a 8
+8.- Palenques de gallos 8
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
+
+9.- Cualquier otro espectáculo público por el
+
+que se cobren derechos de admisión 5 a 8
 
 II. Cuando no sea posible controlar los ingresos, el impuesto se gravará en unidades de salario:
 
@@ -597,9 +603,11 @@ Garantizarán preferentemente el pago de este impuesto, con los bienes inmuebles
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 51.
 
-No se pagará el impuesto por los espectáculos públicos de funciones de cine y palenques de gallos.
+No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 
 ### CAPITULO UNICO
 
@@ -975,7 +983,7 @@ especiales 0.08
 
 h) Manufacturas y usos industriales 0.04
 
-i) Otros de 0.05 a 0.15
+i)Otros de 0.05 a 0.15
 
 IV. Dictamen de vocación del suelo, por evento:
 
@@ -1091,7 +1099,7 @@ Unidad de salario
 
 a) Empedrado o terracería 1.00
 
-b) Asfalto 1.60
+b) Asfalto 0.60
 
 c) Concreto 3.00
 
@@ -1793,7 +1801,7 @@ término de ley (180 días) 0.00
 
 b).- Por registro extemporáneo de
 
-nacimiento 1 a 5
+nacimiento 1a 5
 
 c).- Registro de reconocimiento de hijos 3.00
 
@@ -2909,13 +2917,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.04 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.12 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.08 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
 Lo previsto en este artículo, no será aplicable respecto de los predios cuyo valor se hubiera modificado en el último bimestre del año que se trate, por motivos distintos a la publicación de las tablas de valores unitarios de terreno y de construcción.
+
+Los predios que con motivo del sismo ocurrido el día 21 de enero del año 2003, resultaron dañados, se clasifiquen actualmente, por haberse demolido, como lotes baldíos, el impuesto predial a cobrar, por el ejercicio fiscal 2004, no deberá de ser en ningún caso superior al que se cobró en el 2003.
 
 ###### ARTICULO SEXTO.
 
@@ -2942,3 +2954,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. E
 P.O. 29 DE MARZO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
