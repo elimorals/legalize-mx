@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1955-12-17"
+last_updated: "1957-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1957.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3823,15 +3823,11 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1957)</small>
+
 ###### Art. 727.
 
-El valor máximo de los bienes afectos al Patrimonio de Familia, será de:
-
-I.- $6,000.00 para el Municipio de Monterrey;
-
-II.- $3,000.00 para los Municipios de Linares, Cadereyta, Montemorelos, Cerralvo, Sabinas Hidalgo, Lampazos, Villaldama, Dr. Arroyo y Gral. Terán;
-
-III.- $1,500.00 para los demás Municipios del Estado.
+El valor máximo de los bienes afectados al Patrimonio de Familia, será de: - I.- $50,000.00 para los Municipios de Monterrey, San Nicolás de los Garza, Villa de Guadalupe y San Pedro Garza García.- II.- $25,000.00 para los Municipios de Linares, Cadereyta, Montemorelos, Cerralvo, Sabinas Hidalgo, Lampazos, Villaldama, Dr. Arroyo y Gral. Terán. III.- $15,000.00 para los demás Municipios del Estado.
 
 ###### Art. 728.
 
@@ -9721,7 +9717,7 @@ Pago o cumplimiento es la entrega de la cosa o cantidad debida, o la prestación
 
 ###### Art. 1957.
 
-El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, solo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
+El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, sólo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
 
 ###### Art. 1958.
 
@@ -14674,3 +14670,7 @@ P.O. 17 DE DICIEMBRE DE 1955.
 PRIMERO:- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 SEGUNDO:- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1957.
+
+Este Decreto surtirá sus efectos desde el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
