@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "1999-06-30"
+last_updated: "2002-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 1°.
 
-Servicios de Salud de Morelos, es un Organismo Público Descentralizado de la Administración Pública Estatal, con Personalidad Jurídica y Patrimonio propio que tiene como objetivo prestar Servicios de Salud a población abierta en la Entidad, en cumplimiento a lo dispuesto por las leyes General y Estatal de Salud y por el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud.
+Servicios de Salud de Morelos, es un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio que tiene como objetivo prestar Servicios de Salud a población abierta, así como instrumentar los programas asistenciales, otorgamiento de subsidios a instituciones de asistencia no lucrativas y administrativas y administrar la Beneficencia Pública Estatal, en cumplimiento a lo dispuesto por las leyes General y Estatal de Salud y por el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud.
 
 ###### Artículo 2°.
 
@@ -69,9 +71,13 @@ XI.- Administrar los recursos que le sean asignados, las cuotas de recuperación
 
 XII.- Operar el Sistema de Información en Salud para la Población Abierta y el Sistema Único de Información para la Vigilancia Epidemiológica;
 
-XIII.- Promover la actualización, difusión y observancia en el Estado, del Plan Maestro de Infraestructura Física en Salud para Población Abierta; y
+XIII.- Promover la actualización, difusión y observancia en el Estado, del Plan Maestro de Infraestructura Física en Salud para Población Abierta; y (sic)
 
-XIV.- Las demás que se le confieran para el cumplimiento de su objeto.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2002)</small>
+
+XIV.- Administrar el Patrimonio de la Beneficencia Pública Estatal a través de la Unidad Administrativa creada para tal fin, y
+
+XV.- Las demás que se le confieran para el cumplimiento de su objeto.
 
 ###### Artículo 4°.
 
@@ -97,6 +103,10 @@ Dirección de Administración.
 
 Departamento de asuntos jurídicos.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+Unidad de Beneficencia Pública Estatal.
+
 Unidad de Control de Gestión.
 
 Unidad de Progresa.
@@ -121,7 +131,9 @@ I.- Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que l
 
 II.- Las aportaciones que los Gobiernos Federal, Estatal y Municipales le otorguen;
 
-III.- Las aportaciones, donaciones, legados y demás análogos que reciba de los sectores social y privado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2002)</small>
+
+III.- Las aportaciones, donaciones, herencias, legados y demás análogos que reciba de los sectores social y privado;
 
 IV.- Las cuotas de recuperación que reciba por los servicios que preste;
 
@@ -161,7 +173,9 @@ La Junta de Gobierno tendrá las atribuciones que señala el artículo 7 del Dec
 
 I.- Definir, en congruencia con los planes y programas nacionales y estatales, las políticas a seguir por el Organismo en materia de Salud;
 
-II.- Aprobar los proyectos de programas del organismo y presentarlos a consideración del Secretario de Bienestar Social para su trámite ante los Gobiernos Estatal y Federal;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2002)</small>
+
+II.- Aprobar los proyectos de programas en materia de Salud Pública y presentarlos a consideración de los Servicios de Salud de Morelos para su trámite ante los Gobiernos Estatal y Federal;
 
 III.- Evaluar el debido cumplimiento de los programas técnicos aprobados;
 
@@ -307,7 +321,9 @@ la Dirección General, las Direcciones de Área, Unidades Hospitalarias y Jurisd
 
 DIRECCIÓN GENERAL
 
-- Unidad de Control de Gestión
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+- Unidad de la Beneficencia Pública Estatal
 
 - Unidad de Progresa.
 
@@ -450,6 +466,50 @@ VII.- Promover la coordinación de las áreas sustantivas, de apoyo y logística
 VIII.- Operar y mantener actualizado el Sistema de Información Estratégica en Salud (SIESA) de la Dirección General, en coordinación con la Dirección de Planeación;
 
 IX.- Las demás que le sean encomendadas por la Dirección General.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2002)</small>
+
+###### Artículo 23 Bis.
+
+La Unidad de la Beneficencia Pública Estatal tendrá a su cargo las atribuciones y obligaciones específicas siguientes:
+
+I. Formular y operar el programa de apoyos y subsidios específicos a personas físicas e instituciones no lucrativas que tengan por objeto asistencia a la población en general o a grupos determinados de ella en coordinación con los programas de Servicios de Salud de Morelos;
+
+II. Representar los intereses de la Beneficencia Pública y Administrar el Patrimonio que le corresponda y conferir poderes generales o especiales para tal fin por conducto del Director General de los Servicios de Salud de Morelos;
+
+III. Regular y vigilar el Sistema Estatal de Cuotas de Recuperación de los Servicios de Salud en coordinación con las autoridades de los Hospitales y Centros de Salud;
+
+IV. Elaborar y presentar al Director General para ser sometidos a la aprobación de la Junta de Gobierno, el programa de trabajo, el presupuesto, el informe de actividades y los estados financieros anuales de la Administración del Patrimonio de la Beneficencia Pública Estatal;
+
+V. Administrar el Patrimonio que corresponde a la Beneficencia Pública;
+
+VI. Formular y someter a la aprobación de la Junta de Gobierno por conducto del Director General los proyectos de inversión de la Administración del Patrimonio de la Beneficencia Pública Estatal;
+
+VII. Promover y gestionar la enajenación de bienes pertenecientes a la Beneficencia Pública Estatal, que no sean necesarios para el cumplimiento de sus fines;
+
+VIII. El patrimonio que corresponda a la Beneficencia Pública Estatal, será administrado de forma independiente al del Organismo y se integrará por:
+
+a). El 10% de las cuotas de recuperación captadas por el Organismo;
+
+b) Los donativos que reciba;
+
+c) Los bienes provenientes de herencias, legados y adjudicaciones;
+
+d) Los rendimientos financieros que le correspondan;
+
+e) Los que reciba por cualquier otro título;
+
+IX. La Unidad de la Beneficencia Pública Estatal contará con un Patronato, cuyo objetivo será obtener recursos para incrementar su patrimonio y contribuir a sus gastos de operación y al sostenimiento de los programas asistenciales;
+
+X. El Patronato de la Beneficencia Pública Estatal estará integrado por un Comité conformado por un Presidente, un Secretario, un Tesorero y dos Vocales con carácter honorífico, designados por invitación del Secretario de Salud;
+
+XI. De los recursos obtenidos por el Patronato este retendrá únicamente el 5% para pagar sus gastos administrativos y el 95% restante será entregado como donativo a la Beneficencia Pública Estatal;
+
+XII. El Patronato informará mensualmente a la Beneficencia Pública Estatal y anualmente a la Junta de Gobierno sobre los eventos y recursos obtenidos, y
+
+XIII. Las demás que le otorguen las disposiciones legales aplicables.
+
+El Comisario Público de la Secretaría de la Contraloría Estatal adscrito a los Servicios de Salud, podrá auditar por sí misma o por profesionales en la materia al Patronato en cualquier tiempo.
 
 ###### Artículo 24.
 
@@ -1082,5 +1142,11 @@ DR. SALVADOR CASARES QUERALT
 DIRECTOR GENERAL DE LOS SERVICIOS DE SALUD DE MORELOS
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2002.
+
+ÚNICO.- Las presentes Modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado.
 
 ### CAPÍTULO X. DE LAS MODIFICACIONES AL REGLAMENTO
