@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-21491"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2002-12-28"
+last_updated: "2005-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2005.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de mayo del 2001.
 
@@ -2077,9 +2077,17 @@ Las áreas de apoyo técnico son las dependencias administrativas de la Comisió
 
 Son áreas de apoyo técnico- administrativo las siguientes:
 
-I.- Coordinación de Comunicación Social, y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2005)</small>
 
-II.- Unidad de Gestoría Social.
+I.- Coordinación de Comunicación Social;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2005)</small>
+
+II.- Unidad de Gestoría Social; y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2005)</small>
+
+III.- Contraloría Interna
 
 ### Capítulo II. De la Coordinación de Comunicación Social
 
@@ -2141,6 +2149,112 @@ d) No haber sido condenado por delito intencional que haya ameritado pena privat
 
 El titular de la Unidad de Gestoría Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno Legislativo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INEGRAN, P.O. 19 DE MARZO DE 2005)</small>
+
+### Capítulo IV. De la Contraloría Interna
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2005)</small>
+
+###### ARTÍCULO 191.
+
+La Contraloría Interna es el órgano técnico encargado de recibir quejas, realizar investigaciones, llevar a cabo auditorias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos de la Cámara, con excepción de los diputados. La Comisión de Gobierno Legislativo emitirá los acuerdos correspondientes para regular el funcionamiento administrativo de la Contraloría Interna.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2005)</small>
+
+###### ARTÍCULO 192.
+
+El titular de la Contraloría Interna será designado de conformidad a lo que establece la ley Orgánica del Poder legislativo y este reglamento, y para su designación deberá reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Mayor de 30 años;
+
+III.- Contar con titulo profesional dentro de las áreas económico-administrativas;
+
+IV.- Cumplir al menos un año de haberse separado de cualquier cargo de dirección en algún partido político o de haber concluido alguno de elección popular;
+
+V.- Acreditar el perfil exigido y presentar documentalmente los conocimientos y experiencias necesarias de al menos 3 años en el control y fiscalización de recursos.
+
+El Contralor Interno podrá ser sustituido en sus ausencias menores a noventa días por el servidor público que designen las comisiones unidas de Hacienda, Cuenta Pública y Presupuesto y la de Gobierno Legislativo, en los casos en que se exceda ese lapso la designación se hará conforme a la ley y este reglamento.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2005)</small>
+
+###### ARTÍCULO 193.
+
+Corresponde al Contralor Interno:
+
+A). Formular el programa anual de control y de auditoría de la Cámara, someterlo a la aprobación de la Comisión de Hacienda, Cuenta Pública y Presupuesto y proceder a su ejecución;
+
+B). Diseñar, implantar y supervisar la operación del sistema de control y evaluación de las unidades administrativas de la Cámara;
+
+C). Verificar que las unidades administrativas de la Cámara cumplan con los acuerdos, normas, políticas y procedimientos aprobados por la Comisión de Gobierno Legislativo;
+
+D). Coadyuvar con la Comisión de Hacienda, Cuenta Pública y Presupuesto en los procedimientos que se establezcan para la revisión de la Cuenta Pública;
+
+E). Recibir y atender las quejas y denuncias que conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, se presenten por la probable responsabilidad administrativa de los servidores públicos del Congreso;
+
+F). Instruir y resolver los recursos que hagan valer los servidores públicos de la Cámara respecto a las resoluciones por las que se impongan sanciones administrativas en su contra;
+
+G). Atender las inconformidades que presenten los proveedores o contratistas en los procedimientos de adjudicación de adquisiciones, arrendamientos, servicios, enajenaciones y obra pública que realice el Congreso;
+
+H). Participar, opinar, y asesorar en su caso, sobre los procedimientos de adquisiciones, prestación de servicios y obra pública, así como en los de enajenación de bienes del Congreso;
+
+I). En apoyo de la Comisión de Hacienda, Cuenta Pública y Presupuesto, vigilar y dar seguimiento a la situación patrimonial de los servidores públicos del Poder Legislativo, con excepción de los reservados para cumplir con la obligación ante el Órgano Superior de Fiscalización, en los términos de la ley de la materia;
+
+J). Intervenir en los actos y procedimientos de la entrega-recepción de las dependencias y unidades técnicas, administrativas y del proceso legislativo del Congreso;
+
+K). Auxiliar a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en la integración e interpretación de la información financiera, presupuestal y administrativa del Congreso y sus dependencias administrativas y técnicas, así como en las demás actividades de su competencia que considere necesario;
+
+L). Proponer a la Comisión de Gobierno Legislativo al personal que ha de ser contratado para auxiliarlo en el desempeño de sus funciones, y
+
+M). Las que le encomiende en la esfera administrativa la Comisión de Gobierno Legislativo, así como las demás que las disposiciones legales y normativas le faculten.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2005)</small>
+
+###### ARTÍCULO 194.
+
+El Contralor Interno, para el despacho de los asuntos de su competencia, contará con la estructura siguiente:
+
+I. Departamento de Auditoria Financiera; y
+
+II. Departamento de Auditoria Operacional y Administrativa.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2005)</small>
+
+###### ARTÍCULO 195.
+
+Corresponde al Departamento de Auditoria Financiera:
+
+a) Evaluar el control interno existente en los sistemas aplicables para el registro contable de las operaciones financieras de la Cámara;
+
+b) Realizar revisiones periódicas, a la información financiera;
+
+c) Vigilar la correcta aplicación de los recursos financieros aprobados al Congreso, conforme al objeto del gasto programado, y las disposiciones legales y normativas aplicables en materia;
+
+d) Revisar la cuenta pública de la Cámara y analizar la evolución del gasto; conforme al presupuesto aprobado para el ejercicio vigente.
+
+e) Proceder con el análisis de las operaciones financieras, realizar evaluaciones, proporcionar asesoría y emitir recomendaciones de mejora; y
+
+f) Las demás que con tal carácter le confiera a el Contralor Interno, la Comisión de Hacienda, Cuenta Pública y Presupuesto y las disposiciones legales vigentes
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2005)</small>
+
+###### ARTÍCULO 196.
+
+Corresponde al Departamento de Auditoria Operacional y Administrativa:
+
+a) Efectuar las revisiones programadas a las unidades administrativas, verificando que el cumplimiento de sus funciones se realicen con apego a las normas y disposiciones aplicables en materia;
+
+b) Revisar que los métodos, sistemas y procedimientos que siguen las unidades administrativas de la Cámara en todas las fases del proceso administrativo, cumplan con las políticas, planes programas y leyes aplicables;
+
+e) Revisar que los procesos operados por las unidades administrativas para las adquisiciones de materiales, suministros y bienes, así como contratación de servicios diversos, cumplan con las disposiciones legales y normatividad vigente;
+
+d) Proponer normas y procedimientos de control, tendientes a la optimización de los recursos humanos, materiales y financieros de que dispone la cámara, y requerir a las unidades administrativas la instrumentación de normas complementarias en el ejercicio de sus funciones;
+
+e) Diseñar y aplicar el sistema de evaluación del desempeño de los servidores públicos ubicados en las áreas administrativas y técnicas de la Cámara; y
+
+f) Las que le encomiende el Contralor Interno, y las demás que las disposiciones legales le faculten.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -2198,3 +2312,7 @@ Margarita Basto Paredes.- Rúbrica.
 P.O. 28 DE DICIEMBRE DE 2002
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 19 DE MARZO DE 2005.
+
+Articulo Único- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit; y publíquese de conformidad con lo establecido en el artículo 58 de la Constitución Política del Estado de Nayarit.
