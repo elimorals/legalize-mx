@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2000-02-26"
+last_updated: "2000-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3413,17 +3413,35 @@ II.- Al que ejecute o haga ejecutar por otros, exhibiciones obscenas; y
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
 ## TITULO SEXTO.
 
 Delitos contra la moral pública.
 
 ### CAPITULO II.
 
-Corrupción de menores y de incapacitados.
+Corrupción de menores, de incapaces y pornografía infantil.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 2 DE DICIEMBRE DE 2000)
 
-195.- Se aplicará prisión de tres a ocho años y multa de cincuenta a ciento cincuenta veces el salario, al que procure y facilite la corrupción de un menor de dieciocho años o de cualquier otro incapacitado, o lo induzca a la mendicidad.
+195.- Comete el delito de corrupción de menores, el que induzca, procure, facilite u obligue a un menor de dieciocho años de edad o a quien no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, de prostitución, ebriedad, consumo de narcóticos, prácticas sexuales o a cometer hechos delictuosos. Al autor de este delito se le aplicarán de cinco a diez años de prisión y multa de quinientos a setecientos treinta días de salario mínimo.
+
+Al que obligue o induzca a la práctica de la mendicidad, se le impondrá de tres a ocho años de prisión y multa de cincuenta a doscientos días de salario mínimo.
+
+No se entenderá por corrupción de menores los programas preventivos, educativos o de cualquier índole que diseñen e impartan o avalen las Instituciones Públicas, Privadas o Sociales legalmente constituidas, que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo en adolescentes.
+
+Cuando de la práctica reiterada de los actos de corrupción el menor o incapaz adquiera los hábitos de alcoholismo, farmacodependencia, se dedique a la prostitución o a formar parte de una asociación delictuosa, la pena será de siete a doce años de prisión y multa de trescientos a seiscientos días de salario mínimo.
+
+Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas de acumulación.
+
+Las penas previstas en este artículo se aumentarán hasta en una cuarta parte en su mínimo y máximo cuando el delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
+
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 2 DE DICIEMBRE DE 2000)
+
+195 Bis.- Comete el delito de pornografía infantil, el que procure, facilite, obligue o induzca por cualquier medio a uno o a más menores de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con la finalidad de video grabarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrá de cinco a diez años de prisión y multa de seiscientos a setecientos treinta días de salario mínimo.
+
+La misma pena se impondrá a quienes con fines de lucro o sin él, fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, o elabore, reproduzca, venda, arriende, exponga, publicite, distribuya, difunda el material a que se refiere las acciones anteriores.
 
 196.- Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de doscientos a dos mil pesos y, además, con cierre definitivo del establecimiento en caso de reincidencia.
 
@@ -3450,6 +3468,10 @@ II.- El que induzca o solicite a una persona para que con otra, comercie sexualm
 III.- El que regentee, administre o sostenga, directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
 Por el solo hecho de que el dueño, administrador o encargado de un hotel o casa de huéspedes o establecimiento similar, reciba habitualmente en su establecimiento mujeres dedicadas a la prostitución, se conceptúa responsable del delito de lenocinio.
+
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 2 DE DICIEMBRE DE 2000)
+
+200 Bis.- Cuando el sujeto pasivo del delito sea menor de edad, la pena será de seis a doce años de prisión y multa de setecientos a setecientos treinta días de salario mínimo. El Ministerio Público deberá procurar la mayor protección de los menores para evitar que sufran abusos o corran el riesgo de ser explotados nuevamente.
 
 201.- Si el infractor fuere ascendiente, descendiente, cónyuge, hermano, tutor, curador o encargado de la mujer explotada, la prisión será de uno a nueve años y el sentenciado será privado de todo derecho sobre la persona y bienes de la mujer ofendida e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela.
 
@@ -5250,6 +5272,10 @@ TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto
 P.O. 26 DE FEBRERO DE 2000.
 
 UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
