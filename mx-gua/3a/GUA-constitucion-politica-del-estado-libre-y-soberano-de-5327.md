@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1966-01-16"
+last_updated: "1967-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1967.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -339,17 +339,17 @@ X. Convocar a la Legislatura a sesiones extraordinarias, señalando los asuntos 
 
 XI. Concurrir a la apertura de los períodos ordinarios de sesiones de la Legislatura.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-XII. Acordar que concurran los Secretarios del Despacho a las sesiones de la Legislatura, para que rindan los informes que ésta pida.
+XII. Acordar que el Secretario General del Gobierno, el Oficial Mayor o el Tesorero General del Estado, asistan a las sesiones de la Legislatura para que rindan el informe que ésta les pida.
 
 XIII. Nombrar un orador para que sostenga ante el Congreso Legislativo, las iniciativas que hubiere presentado, o defienda las observaciones hechas a los proyectos de ley o decretos.
 
 XIV. Impedir los abusos de la fuerza armada contra los Ciudadanos y exigir las responsabilidades a que hubiere lugar por ellos.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-XV. Nombrar y remover libremente a los Secretarios del Despacho, al Procurador de Justicia y a todos los funcionarios y empleados públicos de su Dependencia, y concederles licencias con goce de sueldo, o sin él. Nombrar, en los términos del artículo 32 de esta Constitución a los Magistrados que integren el Supremo Tribunal de Justicia, conocer de sus renuncias y concederles licencias con goce de sueldo o sin él, por más de dos meses.
+XV. Nombrar y remover libremente al Secretario General del Gobierno, al Oficial Mayor, al Tesorero General del Estado, al Procurador General de Justicia y a todos los funcionarios y empleados del Poder Ejecutivo, conforme a las leyes que con base en esta disposición se expidan. Conceder licencias con goce de sueldo o sin él. Nombrar en los términos del artículo 32 de esta Constitución a los Magistrados que integran el Supremo Tribunal de Justicia, conocer de sus renuncias y concederles licencias con goce de sueldo o sin él, por más de dos meses. En ningún caso las licencias con goce de sueldo podrán exceder de tres meses.
 
 XVI. Suspender a los miembros de los Ayuntamientos que abusaren de sus facultades, dando inmediatamente parte a la Legislatura o a la Comisión permanente, para los efectos a que hubiere lugar, consignándolos en caso de delito, a la autoridad competente.
 
@@ -373,9 +373,9 @@ XXIV. Suspender en casos graves a los Magistrados y a los Jueces, consignando el
 
 XXV. Conceder indultos, conmutaciones y reducciones de las penas impuestas por delitos del privativo conocimiento de los Tribunales del Estado, cuando se llenen los requisitos que exigen las leyes.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-XXVI. Mandar llevar en la Secretaría de Gobierno, un libro reservado en donde conste la hoja de servicios de todos los funcionarios y empleados del mismo Gobierno.
+XXVI. Ordenar que en la Oficialía Mayor del Gobierno se lleve expediente de cada uno de los funcionarios y empleados públicos del Estado, en donde consten sus hojas de servicios.
 
 XXVII. Mandar formar causa a los mismos funcionarios y empleados, cuando a su juicio lo merecieren.
 
@@ -409,17 +409,17 @@ No podrá ausentarse por más de 15 días del territorio del Estado ni separarse
 
 Para salir del Estado o separarse del despacho hasta por 15 días, bastará que dé aviso a la Legislatura o a la Diputación Permanente.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 58.
 
-Para el despacho de los negocios del orden administrativo del Estado, habrá el número de Secretarios que establezca la Legislatura por una Ley, la que distribuirá los negocios que han de estar a cargo de cada Secretaría. Para ser Secretario de Despacho se requerirá ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sufrido ninguna condena judicial por delito contra la propiedad.
+Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado se auxiliará de un Secretario General del Gobierno, un Oficial Mayor, un Tesorero General del Estado, un Procurador General de Justicia y de los demás altos funcionarios que la Ley Orgánica del Poder Ejecutivo del Estado señale. En dicha Ley se fijará el número, denominación y atribuciones, así como los requisitos que deban llenar para ser nombrados. Los empleados de las dependencias del Poder Ejecutivo serán los que determine y autorice el presupuesto de egresos.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 59.
 
-Todas las leyes, decretos y reglamentos, serán invariablemente firmados por el Gobernador del Estado y por el Secretario del Despacho encargado del ramo a que el asunto corresponde.
+Todas las leyes, decretos y reglamentos, para su cumplimiento, serán firmados por el Gobernador del Estado y el Secretario General del Gobierno y a falta de éste por el Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
@@ -609,9 +609,9 @@ No pueden ser Diputados a la Legislatura local:
 
 I. El Gobernador del Estado, cualquiera que sea su denominación, el origen y la forma de su designación.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-II. Los Secretarios del Despacho, los Magistrados del Supremo Tribunal y el Procurador de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
+II. El Secretario General del Gobierno, el Oficial Mayor, el Procurador General de Justicia y los Magistrados del Supremo Tribunal de Justicia, a no ser que se separen definitivamente de sus cargos, cuando menos noventa días antes de la fecha en que deban efectuarse las elecciones.
 
 III. Los Militares en servicio activo en el Estado y los ciudadanos que tengan mando de fuerzas, regulares o irregulares, en el Distrito Electoral respectivo, dentro de los ciento ochenta días anteriores a la elección o cuando ésta se efectúe.
 
@@ -645,9 +645,9 @@ La Legislatura del Estado, tendrá cada año dos períodos ordinarios de sesione
 
 Durante el primer período de sesiones, se ocupará de los asuntos siguientes:
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-I. Examinar y calificar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por la Secretaría de Finanzas Públicas en los primeros cinco días del período de sesiones. La revisión no se limitará a revisar si las cantidades gastadas están o no de acuerdo con las partidas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y la determinación de las responsabilidades a que hubiere lugar.
+I. Examinar y calificar la cuenta pública del año inmediato anterior, que le será presentada por la Tesorería General del Estado en los primeros cinco días del período de sesiones. El examen no se limitará a revisar si los gastos se hicieron conforme a las partidas del Presupuesto de Egresos, sino a verificar también la exactitud y justificación de tales gastos y, en su caso, a la determinación de las responsabilidades a que hubiere lugar.
 
 II.- Examinar y aprobar el Presupuesto que, con relación a los gastos del año siguiente, le será presentado por el Gobernador, y decretar los impuestos necesarios para cubrirlo.
 
@@ -707,19 +707,23 @@ VI. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y 
 
 Cada presunta Legislatura calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e irrevocable.
 
-VII. Aprobar o reprobar los nombramientos de Magistrados hechos por el Gobernador del Estado, en los términos del artículo 32 de esta Constitución erigirse en Colegio Electoral para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este Funcionario ocurrida dentro de los tres últimos años de dicho período. Entretanto la Legislatura hace la elección de Gobernador, para lo cual será convocada desde luego por su Diputación Permanente, en caso de no estar en funciones, se encargará del Poder Ejecutivo el Secretario de Gobierno, y este Funcionario se encontrare comprendido en alguna de las prohibiciones del artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador el ciudadano que designe la Legislatura, si estuviere en sesiones, o su Diputación Permanente en los recesos de aquella. El ciudadano electo por la Legislatura para el cargo de Gobernador Substituto del Estado, de conformidad con lo dispuesto en la primera parte de esta fracción, deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución.
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
+
+VII. Aprobar o reprobar los nombramientos de Magistrados hechos por el Gobernador del Estado, conforme al artículo 32 de esta Constitución.
+
+Erigirse en Colegio Electoral para elegir Gobernador del Estado que termine el período constitucional, en caso de falta absoluta de este Funcionario ocurrida dentro de los tres últimos años de dicho período. Entretanto se encargará del Poder Ejecutivo el Secretario General del Gobierno, y a falta del mismo o si se hallare comprendido en alguna de las prohibiciones del artículo 60 de esta Constitución, asumirá provisionalmente el cargo de Gobernador el Oficial Mayor. Si la Legislatura no se encontrare en período de sesiones, será convocada desde luego por la Diputación Permanente. El ciudadano electo por la Legislatura como Gobernador substituto deberá llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo señala esta Constitución.
 
 VIII. Hacer la división del Estado en Distritos Electorales.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-IX. Decidir sobre las renuncias que hagan los Diputados y Gobernador del Estado y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos, así como al Gobernador para salir del Estado por más de quince días.
+IX. Decidir sobre los permisos que formulen los Diputados y Gobernador del Estado, y conceder a dichos funcionarios licencias para separarse de sus respectivos cargos, así como al Gobernador para salir del Estado por más de quince días.
 
 X. Reformar la división política del Estado, a fin de que resulte adecuada a las necesidades del buen Gobierno.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo, ocurrida en los tres primeros años del período constitucional, a fin de que concluya dicho período. En este caso, entre tanto se efectúan las elecciones y toma posesión el nuevo Gobernador, así como en toda falta temporal del Ciudadano Encargado del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo, el electo llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, señala esta Constitución. Entre tanto se hace la elección por la Legislatura, a la que si no estuviere reunida convocará desde luego a sesiones extraordinarias, la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario de Gobierno, quien también suplirá al Gobernador en sus faltas temporales que no excedan de treinta días, procediéndose, en caso de que el Secretario de Gobierno se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, en la forma que determina la fracción VIII de este artículo.
+XI. Convocar a elecciones de Gobernador en caso de falta absoluta del que está ejerciendo el cargo ocurrida dentro de los tres primeros años del período constitucional, a fin de que concluya dicho período. En este caso, mientras se efectúan las elecciones y toma de posesión del nuevo Gobernador, así como en toda falta temporal del encargo del Poder Ejecutivo por más de treinta días, la Legislatura elegirá por mayoría de votos en escrutinio secreto, un Gobernador Interino, debiendo, el electo llenar los requisitos y no estar comprendido en alguna de las prohibiciones que, para desempeñar el cargo, establece esta Constitución. Entre tanto se hace la elección por la Legislatura y a la que, si no estuviere en período de sesiones se convocará desde luego por la Diputación Permanente, se encargará del Poder Ejecutivo el Secretario General del Gobierno, y a falta de éste, o en el caso de que se encuentre comprendido en alguna de las prohibiciones que establece el Artículo 60 de esta Constitución, el Oficial Mayor. Estos mismos funcionarios también suplirán, en ese orden, al Gobernador del Estado en sus faltas temporales que no excedan de treinta días.
 
 XII. Dirimir los conflictos entre el Ejecutivo y el Supremo Tribunal de Justicia y entre éstos y los Municipios.
 
@@ -829,23 +833,23 @@ VI. Expeditar los trabajos pendientes al tiempo del receso, y ejecutar, en los n
 
 VII. Conceder licencia, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-VIII. Nombrar Gobernador Provisional, en los casos de las fracciones VII y XI del artículo 48 de esta Constitución, cuando el Secretario de Gobierno esté comprendido en alguna de las prohibiciones que señala el artículo 60 de la misma; y
+VIII. Nombrar Gobernador provisional, en los casos de las fracciones VII y XI del artículo 48 de esta Constitución, cuando el Secretario General del Gobierno y el Oficial Mayor estén comprendidos en alguna de las prohibiciones que establece el artículo 60 de la misma; y
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADA, P. O. 8 DE OCTUBRE DE 1967)</small>
 
-IX. Aprobar o reprobar los nombramientos de Magistrados Suplentes hechos por el Gobernador del Estado en el caso a que se refiere la última parte del artículo 64 de esta Constitución, cuando la Legislatura no estuviere en período de sesiones.
+IX. Aprobar o reprobar los nombramientos de Magistrados interinos en el caso a que se refiere la última parte del artículo 64 de esta Constitución.
 
 #### SECCION PRIMERA.
 
 Poder Judicial. Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P. O. 7 DE JULIO DE 1963)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 61.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia, Jueces de Partido, Jueces Municipales y Jurado Popular. El Supremo Tribunal de Justicia se compondrá de diez Magistrados Propietarios y tres Supernumerarios, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos del artículo 32 de esta Constitución. El funcionamiento de las Salas del Pleno, las atribuciones de los Magistrados y el número y competencia de los Jueces de Partido y de los Jueces Municipales, se regirán por lo que disponga esta Constitución y las Leyes. Las audiencias del Tribunal Pleno y de las Salas, serán públicas, hecha excepción de los casos en que la moral o el interés público exijan que sean secretas; los Magistrados sólo podrán ser privados de sus puestos cuando, por sentencia ejecutoria en los términos del Título Noveno de esta Constitución, sean condenados por la condición de delitos del orden común, y en los casos en que así lo prevenga la Ley de Responsabilidades de los Funcionarios Públicos. La remuneración que reciban por sus servicios los Magistrados y los Jueces de Partido y Municipales, no podrá ser disminuida durante su encargo.
+Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia, Jueces de Partido, Jueces Municipales y Jurado Popular. El Supremo Tribunal se compondrá de siete Magistrados propietarios y dos supernumerarios, nombrados por el Gobernador del Estado con la aprobación de la Legislatura en los términos del artículo 32 de esta Constitución. El funcionamiento de las Salas y del Pleno, las atribuciones del Presidente y de los Magistrados, así como el número y competencia de los Jueces de Partido, Jueces Municipales y Jurado Popular, se regirán por lo que dispongan esta Constitución y la Ley Orgánica del Poder Judicial del Estado, y las demás leyes aplicables. Los Magistrados durarán en su encargo seis años, contados a partir del primero de enero del año siguiente al de toma de posesión de los gobernadores constitucionales. Los Magistrados no quedan impedidos para desempeñar el mismo cargo en períodos subsecuentes. Sólo podrán ser privados de su cargo, dentro de ese período, por la comisión de delitos del orden común o en los términos de la Ley de Responsabilidades para funcionarios y empleados públicos, mediante sentencia ejecutoria dictada conforme a lo dispuesto en el Título Noveno de esta Constitución. Las audiencias del Pleno y de las Salas serán públicas, excepto en los casos en que la moral o intereses públicos exijan que sean secretas. La remuneración que reciban por sus servicios los Magistrados y los Jueces de Partido y Municipales no podrá ser disminuida durante su encargo.
 
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
 
@@ -891,39 +895,27 @@ VII. Aprobar los nombramientos que hagan los Jueces de Partido, de sus Secretari
 
 VIII. Cumplir con las demás atribuciones que le señalen la Ley Orgánica de Tribunales y los Códigos de Procedimientos.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 64.
 
-Los Magistrados, que estén desempeñando sus funciones, no pueden ejercer la profesión de abogado, sino en los negocios propios, de su esposa, y de sus hijos, ni ser asesores, árbitros, o desempeñar alguna comisión del Gobierno, ni otro empleo, sino con licencia del Congreso o de la Diputación Permanente, con excepción de los de carácter docente. No comprenden las anteriores prohibiciones a los Magistrados Supernumerarios, cuando sean llamados a suplir en determinado negocio o cuando sustituyan a los Magistrados Propietarios en sus faltas temporales, siempre que éstas no excedan de dos meses. Cuando la falta excediere de ese término, el Gobernador del Estado someterá el nombramiento de un Magistrado Suplente a la aprobación de la Legislatura o, sino estuviere en período de sesiones, a la de su Diputación Permanente, observándose lo dispuesto en la primera parte del artículo 32 de esta Constitución.
+Los Magistrados propietarios en ejercicio de sus funciones, no podrán ejercer la profesión de abogados sino en negocios propios, o en los de su esposa e hijos, ni ser asesores, árbitros o desempeñar algún otro empleo o comisión, excepción de los docentes. Los magistrados supernumerarios suplirán las faltas temporales de los Magistrados propietarios, siempre que no excedan de dos meses. Cuando la falta excediere de ese tiempo se nombrará Magistrado propietario interino, conforme a lo dispuesto en el artículo 32 de esta Constitución.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 65.
 
-El Presidente del Supremo Tribunal será uno de los Magistrados Propietarios, designado por mayoría de votos de los Magistrados en funciones, y fungirá con ese carácter durante un año, pudiendo ser reelecto.
-
-Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su encargo, protestarán ante la Legislatura, y si ésta no estuviere en período de sesiones, ante su Diputación Permanente, en la siguiente forma:
-
-Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado?"
-
-Magistrado: "Sí protesto".
-
-Presidente: "Si no lo hiciereis así la Nación y el Estado os lo demanden".
-
-El Presidente del Tribunal rendirá la protesta ante el Pleno del mismo, en la siguiente forma:
-
-"Protesto desempeñar leal y patrióticamente el cargo de Presidente del Supremo Tribunal de Justicia del Estado que se me ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Nación y del Estado; y si así no lo hiciere, la Nación y el Estado me lo demanden".
+El Presidente del Supremo Tribunal será uno de los Magistrados propietarios en funciones, designado por mayoría de votos de los Magistrados propietarios y supernumerarios que estén en funciones; durará en su encargo un año y podrá ser reelecto.
 
 #### SECCION SEGUNDA.
 
 Jueces de Partido y Municipales.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 66.
 
-Los Jueces de Partido durarán en su encargo dos años, al término de los cuales, si fueren reelectos, sólo podrán ser privados de sus puestos cuando, por sentencia ejecutoria, en los términos del Título Noveno de esta Constitución, sean condenados por la Comisión de Delitos del orden común y en los casos en que así lo prevenga la Ley de Responsabilidades de Funcionarios Públicos, y los nombrados por el término mencionado sólo pueden ser destituidos por causa justificada, a juicio del Tribunal Pleno.
+Los Jueces de Partido durarán en su encargo cuatro años y podrán ser reelectos, si lo fueren sólo podrán ser privados de sus puestos por sentencia ejecutoria en los términos del Título Noveno de esta Constitución cuando sean condenados por la comisión de delitos del orden común y en los casos en que así lo prevenga la Ley de Responsabilidades de funcionarios públicos. Durante los primeros cuatro años de su encargo los Jueces de Partido sólo podrán ser destituidos por el Tribunal en Pleno, por la comisión de graves faltas o delitos, sin perjuicio de la acción penal que corresponda.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1945)</small>
 
@@ -965,17 +957,17 @@ Los ingresos necesarios para cubrir los gastos de la Administración Pública de
 
 Ninguna contribución se decretará sino después de que la Legislatura haya aprobado los gastos del Estado, teniendo en cuenta los presupuestos que remita el Ejecutivo.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 92.
 
-Para la administración de los caudales públicos habrá una Secretaría de Finanzas Públicas y las Oficinas Recaudadoras que fije el Presupuesto de Egresos del Estado. Dichas Oficinas tendrán al personal que fije el referido Presupuesto y, sus empleados, las atribuciones que la Ley les señale.
+Para el cobro y administración de los caudales públicos habrá una Tesorería General del Estado y las Oficinas de Rentas que autorice el presupuesto anual de egresos. El personal de dichas oficinas tendrá las atribuciones que las leyes especiales, que expida la Legislatura, les señale.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 93.
 
-El Secretario de Finanzas Públicas del Estado hará la aplicación de los caudales públicos conforme al presupuesto de gastos, y será responsable de los que hiciere si no están comprendidos en él o autorizados por alguna ley.
+El Tesorero General del Estado será responsable de la aplicación de los caudales públicos conforme al Presupuesto Anual de Egresos o de las leyes especiales correspondientes.
 
 ###### Art. 94.
 
@@ -1013,11 +1005,11 @@ No se concederá dispensa de ninguna de las asignaturas que forman los planes de
 
 De las Responsabilidades Oficiales.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 100.
 
-El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, los Secretarios de Despacho y el Procurador de Justicia, son responsables por los delitos comunes o por las faltas que comentan durante el desempeño de sus cargos o con motivo de éstos.
+El Gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Supremo Tribunal de Justicia, el Secretario General del Gobierno, el Oficial Mayor, el Tesorero General del Estado, el Procurador General de Justicia y los demás altos funcionarios que señale la Ley Orgánica del Poder Ejecutivo del Estado, serán responsables por los delitos comunes o por las faltas que comentan durante el desempeño de sus cargos o con motivo de éstos.
 
 ###### Art. 101.
 
@@ -1041,15 +1033,17 @@ Siempre que se trate de alguno de los funcionarios de primer orden a que se refi
 
 De los delitos oficiales cometidos por los mismos funcionarios de primer orden, a que se refiere el artículo anterior, conocerán también la Legislatura y el Supremo Tribunal de Justicia, con sujeción a lo que prevenga la ley de la materia.
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1961)</small>
+> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 106.
 
-Los funcionarios y agentes de la autoridad o de la policía comprendidos en el artículo 101, serán juzgados por los Jueces de Partido.
+Los funcionarios a que se refiere el artículo 100, serán juzgados en todas las instancias, por el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
 ###### Art. 107.
 
-(DEROGADO, P. O. 28 DE DICIEMBRE DE 1961)
+Los demás agentes de la autoridad o de la policía, a que se refiere el artículo 101, serán juzgados por los jueces de partido o municipales, según competa.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 1919)</small>
 
@@ -1278,3 +1272,17 @@ Artículo Tercero.- Los asuntos que actualmente se tramitan en la Sala Penal Col
 P.O. 16 DE ENERO DE 1966.
 
 UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE OCTUBRE DE 1967.
+
+###### ARTICULO 1o.
+
+Estas reformas a la Constitución entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2o.
+
+Los Magistrados del Supremo Tribunal, los Jueces de Partido y los Municipales actualmente en funciones, concluirán su encargo el 31 de diciembre de 1967.
+
+###### ARTICULO 3o.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
