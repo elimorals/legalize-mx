@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-normas-minimas-para-la-readaptacion-social-de-21997"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-31"
-last_updated: "1976-10-31"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE NORMAS MINIMAS PARA LA READAPTACION SOCIAL DE SENTENCIADOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 31 de octubre de 1976.
 
@@ -203,9 +203,11 @@ Cualquier liberado que provenga de otra Entidad Federativa, podrá participar y 
 
 Remisión Parcial de la Pena.
 
-###### ARTICULO 32.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2001)</small>
 
-Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y revele por otros datos efectiva readaptación social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena, que no podrá fundarse exclusivamente en los días de trabajo, en la participación en actividades educativas y en el buen comportamiento del sentenciado.
+###### ARTÍCULO 32.
+
+Para el caso de los sentenciados por delitos no considerados por la ley como graves, se otorgará el beneficio de la remisión parcial de la pena cuando el recluso haya prestado trabajo por un tiempo equiparable a la mitad de la pena impuesta, además de haber observado buena conducta, participar regularmente en las actividades educativas que se organicen en el establecimiento y revelar por otros datos que sean determinantes efectiva readaptación social. En el caso de los sentenciados por delitos graves, será aplicable lo anterior con la única variación de que para el otorgamiento del citado beneficio será necesario haber compurgado con prestación de trabajo, como mínimo las tres cuartas partes de la pena impuesta.
 
 ###### ARTICULO 33.
 
@@ -256,3 +258,11 @@ LICENCIADO JESÚS MARTÍNEZ ROSS. Rúbrica
 EL SECRETARIO DE GOBIERNO.
 
 LIC. PEDRO JOAQUÍN COLDWELL. Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE JUNIO DE 2001.
+
+###### ARTICULO UNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
