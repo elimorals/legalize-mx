@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-comision-de-derechos-humanos-del-estado-4891
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-05-23"
-last_updated: "1993-05-23"
+last_updated: "2001-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2001 (ABROGADA).
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 23 de mayo de 1993.
 
@@ -588,3 +590,31 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 Dado en el Palacio del Poder Ejecutivo, en Victoria de Durango, Dgo., a los cuatro días del mes de Mayo de mil novecientos noventa y tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. ALFREDO BRACHO BARBOSA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2001.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 51.- QUE CONTIENE "LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abrogan los decretos No. 262 de la LVIII Legislatura y
+
+No. 93 de la LIX Legislatura del H. Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento Interior de la Comisión Estatal de Derechos
+
+Humanos, será elaborado dentro de los seis meses siguientes a la entrada en vigor de este decreto, y deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos, materiales y patrimoniales con que actualmente cuenta la Comisión de Derechos Humanos, pasarán a formar parte del patrimonio de la Comisión Estatal de Derechos Humanos.
+
+Los servidores públicos y demás personal de la Comisión de Derechos Humanos, pasarán a formar parte de la Comisión de Derechos Humanos, y se respetarán sus nombramientos y derechos laborales en los términos de Ley.
