@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1963-06-19"
+last_updated: "1970-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1970.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -821,15 +821,15 @@ En los casos de emancipación por efecto del matrimonio no se formará acta sepa
 
 ###### Art. 94.
 
-Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+(DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
 ###### Art. 95.
 
-Si en la Oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+(DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
 ###### Art. 96.
 
-La omisión del registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 81.
+(DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
 ###### Art. 97.
 
@@ -1137,9 +1137,11 @@ Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mu
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+
 ###### Art. 149.
 
-El hijo o la hija que no haya cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El hijo o la hija que no haya cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
 ###### Art. 150.
 
@@ -1573,7 +1575,9 @@ La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará 
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ###### Art. 238.
 
@@ -2195,9 +2199,13 @@ La acción que compete al hijo para reclamar su estado, es imprescriptible para 
 
 Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+I.- Si el hijo ha muerto antes de cumplir veintidós años;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
 
 ###### Art. 349.
 
@@ -2807,7 +2815,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación o la mayor edad de los hijos;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+I.- Por la emancipación derivada del matrimonio o por la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -2839,7 +2849,9 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+II.- Con la emancipación derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
@@ -2903,9 +2915,11 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+
 ###### Art. 451.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este Libro.
+Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I del título décimo de este libro.
 
 ###### Art. 452.
 
@@ -3231,6 +3245,8 @@ Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pe
 
 ### CAPITULO I. DE LA EMANCIPACION
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+
 ###### Art. 511.
 
 Pueden excusarse de ser tutores:
@@ -3280,6 +3296,8 @@ El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tu
 Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
 ### CAPITULO II. DE LA MAYOR EDAD
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
 
 ###### Art. 519.
 
@@ -3765,7 +3783,9 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 643.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 643.
 
 ###### Art. 625.
 
@@ -3861,37 +3881,35 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ###### Art. 641.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
 ###### Art. 642.
 
-Los mayores de dieciocho años que estén sujetos a patria potestad, o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+(DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que estos consientan en su emancipación.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
 
 ###### Art. 643.
 
 El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-III.- De un tutor para los negocios judiciales.
+II.- De un tutor para negocios judiciales.
 
 ###### Art. 644.
 
-Hecha la emancipación, no puede ser revocada.
+(DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
 ###### Art. 645.
 
-Fuera del caso a que se refiere el artículo 641, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al oficial del Registro Civil para que levante el acta respectiva.
+(DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
 ### CAPITULO I. DE LOS BIENES INMUEBLES
 
 ###### Art. 646.
 
-La mayor edad comienza a los veintiún años cumplidos.
+La mayor edad comienza a los dieciocho años cumplidos.
 
 ###### Art. 647.
 
@@ -6879,9 +6897,13 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I.- A los descendientes varones menores de veintiún años;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
 
-II.- A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+I.- A los descendientes varones menores de dieciocho años;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+II.- A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aún cuando fueren mayores de dieciocho años;
 
 III.- Al cónyuge supérstite, siempre que siendo varón esté impedido de trabajar, o que siendo mujer, permanezca viuda y viva honestamente;
 
@@ -15174,6 +15196,10 @@ Queda derogado el Decreto No. 35 del H. Congreso del Estado de fecha 5 de julio 
 P.O. 19 DE JUNIO DE 1963.
 
 UNICO: Este decreto surtirá sus efectos desde el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 1970.
+
+UNICO:- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
