@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1936-01-08"
+last_updated: "1940-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO DEL DECRETO NUM. 120, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 1936, SE DEROGA EL DECRETO NO. 78, PUBLICADO EN EL P.O. EL 15 DE AGOSTO DE 1935; QUEDANDO, EN CONSECUENCIA, EL TEXTO DEL PRESENTE ORDENAMIENTO VIGENTE AL 13 DE AGOSTO DEL AÑO EN CURSO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DEL DECRETO NO. 245, PUBLICADO EN EL P.O. EL 12 DE OCTUBRE DE 1940, POR EL QUE SE EXPIDE EL CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, SE DEROGA EL PRESENTE ORDENAMIENTO; SIN EMBARGO, DE ACUERDO CON EL ARTICULO QUINTO TRANSITORIO DEL MISMO DECRETO, Y HASTA QUE SE ORGANICE EL SISTEMA DEL REGISTRO PUBLICO DE LA PROPIEDAD, LAS INSCRIPCIONES SEGUIRAN REALIZANDOSE CONFORME A LA PRESENTE LEY.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1940.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -1182,3 +1182,19 @@ Transitorio:- Este Decreto comenzará a surtir sus efectos a partir de la fecha 
 P.O. DE 8 DE ENERO DE 1936.
 
 TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. EL 12 DE OCTUBRE DE 1940.
+
+1º.- Los actos anteriores a la vigencia del presente Código se regirán por sus disposiciones, si con la aplicación de éstas no se violan derechos adquiridos.
+
+2º.- La capacidad jurídica de las personas se regirá por este Código aun cuando modifique o quite la que antes gozaba; pero los actos consumados por personas capaces quedarán firmes, aun cuando se vuelvan incapaces conforme a esta ley.
+
+3º.- Los plazos que estén corriendo para prescribir o para cualquier otro efecto se computarán conforme al presente Código, sin perjuicio de lo dispuesto por el artículo 1º transitorio.
+
+4º.- En tanto que no se expidan nuevos aranceles, quedan vigentes los señalados para los Notarios por los artículos 108 a 148 de la Ley del Notariado de fecha 30 de junio de 1921.
+
+5º.- En tanto se organiza el sistema establecido por este Código respecto al Registro Público de la Propiedad, las inscripciones relativas seguirán haciéndose como lo disponía la ley de fecha 25 de enero de 1927.
+
+6º.- A partir de la fecha de la vigencia de esta Ley, quedarán derogados: el Decreto número 145 de 14 de noviembre de 1895, que adoptó para el Estado de Tamaulipas el Código civil del Distrito Federal promulgado el 31 de marzo de 1884; la Ley del Registro Civil de fecha 15 de diciembre de 1903; la Ley del Registro Público de la Propiedad de 25 de enero de 1927; la Ley del Notariado de fecha 30 de junio de 1921, a excepción de los artículos del 108 al 148 inclusive, de que habla el artículo 4º Transitorio de este Decreto, así como de cualquier otra que se oponga al presente Código.
+
+7º.- El presente Código entrará en vigor el primero de noviembre de 1940.
