@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-documentacion-para-el-estado-de-morelos-6600"
 country: "mx"
 rank: "ley_general"
 publication_date: "1995-12-06"
-last_updated: "1995-12-06"
+last_updated: "2002-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE DOCUMENTACION PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de diciembre de 1995.
 
@@ -259,9 +259,11 @@ XIV.- Unidad de Correspondencia: es toda aquella que tiene a su cargo el control
 
 ### CAPITULO CUARTO. DEL INSTITUTO ESTATAL DE DOCUMENTACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 22.
 
-El Instituto Estatal de Documentación de Morelos, es un órgano desconcentrado de la Secretaría de Bienestar Social, a la cual está jerárquicamente subordinado y tiene por objeto normar, regular y preservar acervos, expedientes, registros y en general todos aquellos documentos administrativos e históricos de las dependencias y entidades del Poder Ejecutivo.
+El Instituto Estatal de Documentación de Morelos, es un órgano desconcentrado de la Secretaría de Educación, a la cual está jerárquicamente subordinado y tiene por objeto nombrar, regular y preservar acervos, expedientes, registros y en general todos aquellos documentos administrativos e históricos de las Dependencias y Entidades del Poder Ejecutivo.
 
 Regulará, supervisará y evaluará técnicamente las actividades de las unidades documentales que administren acervos del Poder Ejecutivo integrantes del Sistema Morelense de Documentación y, previo convenio que para tal efecto se suscriba, podrá administrar el Archivo Histórico de los Poderes Legislativo y Judicial Estatales, así como los de los Municipios, Dependencias y Entidades Federales con representación en el Estado, que lo soliciten.
 
@@ -301,9 +303,13 @@ IV.- Patronato.
 
 El Comité Técnico de Documentación estará integrado por:
 
-I.- El Secretario de Bienestar Social, quien lo presidirá por sí o por un representante que él designe.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2002)</small>
 
-II.- Cinco vocales que serán nombrados y removidos libremente por el Secretario de Bienestar Social.
+I.- El Secretario de Educación, quien lo presidirá por sí o por un representante que él designe.
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2002)</small>
+
+II.- Cinco vocales que serán nombrados y removidos libremente por el Secretario de Educación.
 
 III.- El Director del Instituto Estatal de Documentación.
 
@@ -375,9 +381,11 @@ IV.- Las demás que les confiera esta Ley, sus reglamentos y otras disposiciones
 
 El Comité Técnico nombrará una Comisión de Depuración y Supresión de Documentos, la cual se integrará con un mínimo de cinco y un máximo de diez personas especializadas en la materia. El nombramiento de esta Comisión se llevará a cabo de acuerdo con lo dispuesto por el artículo 26, fracción VII de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 31.
 
-La Dirección del Instituto Estatal de Documentación de Morelos, estará a cargo de un Director que será designado por el Gobernador del Estado a propuesta del Secretario de Bienestar Social.
+La Dirección del Instituto Estatal de Documentación de Morelos, estará a cargo de un Director que será designado por el Gobernador del Estado a propuesta del Secretario de Educación.
 
 ###### ARTICULO 32.
 
@@ -391,7 +399,9 @@ III.- Proponer al Comité Técnico la celebración de los convenios y toda clase
 
 IV.- Nombrar y remover al personal del Instituto con apego a las normas aplicables;
 
-V.- Rendir mensualmente al Comité Técnico informe sobre las actividades del Instituto;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2002)</small>
+
+V.- Rendir trimestralmente al Comité Técnico informe sobre las actividades del Instituto.
 
 VI.- Dar cumplimiento a los acuerdos que emita el Comité Técnico;
 
@@ -540,3 +550,11 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
