@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1993-12-28"
+last_updated: "1994-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -507,11 +507,11 @@ Las declaraciones del nacimiento, se harán presentando al infante ante el Ofici
 
 Tienen obligación de declarar el nacimiento, los padres del menor o cualquiera de ellos, dentro de los ciento ochenta días siguientes a la fecha en que hubiese ocurrido. A su vez, el Oficial del Registro Civil deberá hacer la inscripción correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE OCTUBRE DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 Transcurrido el lapso a que se refiere el párrafo anterior y tratándose de menores hasta de siete años, que acrediten mediante constancia expedida por la autoridad municipal y otros documentos conducentes, ser vecinos del territorio de la jurisdicción Oficial, haber nacido en territorio nacional y no estar registrado, se procederá a su inscripción.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE OCTUBRE DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 Fuera de los supuestos consignados en el párrafo anterior, el registro de nacimiento, se tramitará y ordenará, en la forma en que disponga el Código de Procedimientos Civiles.
 
@@ -833,7 +833,7 @@ La nulidad de las actas del Registro Civil, sólo podrá ser decretada por la au
 
 ARTÍCULO 129 Declarada la nulidad, el juez remitirá copia de la resolución al Director del Registro Civil a efecto de que proceda a ordenar la anotación en el acta correspondiente, cuidando que la misma anotación se haga en los tantos que obran en los archivos de las dependencias a quienes originalmente se les envió.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 ###### ARTÍCULO 130.
 
@@ -865,7 +865,7 @@ VI. El Ministerio Público.
 
 La aclaración de las actas del estado civil de las personas, procede cuando en ellas existan errores macanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas. Se tramitarán administrativamente ante la Dirección del Registro Civil, quien resolverá de plano, ordenando en su caso la aclaración respectiva que se comunicará lo mismo a la Oficialía correspondiente, como a la Dirección General del Registro Nacional de Población, para que se anoten en sus archivos.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE OCTUBRE DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 ###### ARTÍCULO 133.
 
@@ -15044,3 +15044,27 @@ P.O. 28 DE DICIEMBRE DE 1993
 PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 9 DE JUNIO DE 1994
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las personas que al entrar en vigor la presente Ley estén tramitando juicio de registro de nacimiento extemporáneo, podrán optar por concluir aquél o acudir ante la Dirección del Registro Civil, en términos de los dispuesto en este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presene quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 9 DE JUNIO DE 1994
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las personas que al entrar en vigor la presente Ley estén tramitando juicio de rectificación o modificación de actas, podrán optar por concluir aquel o acudir ante la Dirección del Registro Civil, en los términos de lo dispuesto en este ordenamiento, para que se lleve a cabo la rectificación o modificación correspondiente.
