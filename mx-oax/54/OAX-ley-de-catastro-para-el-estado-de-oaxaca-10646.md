@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "1996-12-16"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -61,9 +61,17 @@ V. Establecer las formalidades para el ejercicio de las funciones catastrales y 
 
 VI. Promover la integración y el desarrollo del Sistema de Información Geográfica Catastral del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 3.
 
-Para efectos de esta Ley, el Catastro es el inventario de los bienes inmuebles ubicados en el territorio del Estado, constituido por los registros relativos a la identificación, delimitación, descripción, mensura y valuación de la propiedad inmobiliaria.
+El catastro es el inventario de los bienes inmuebles ubicados en el territorio del estado, y esta constituido por los registros:
+
+I. Gráfico, y
+
+II. Alfanumérico
+
+Los registros enumerados en las fracciones I y II del presente artículo serán relativos a la identificación, delimitación, descripción, mensura y valuación de la propiedad inmobiliaria, y se constituirán de acorde a lo establecido por los artículos 5 y 6 del Reglamento de la Ley.
 
 ###### ARTÍCULO 4.
 
@@ -83,9 +91,11 @@ VI. La aportación de información técnica con relación a los límites del ter
 
 VII. Las demás que se deriven de esta Ley, su Reglamento y disposiciones relativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 5.
 
-Los actos y resoluciones en materia de Catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley y su Reglamento.
+Los actos y resoluciones en materia de catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley, su Reglamento y en los Instructivos Técnicos Catastrales.
 
 A falta de disposición expresa, se consideran como normas supletorias las disposiciones contenidas en el Código Fiscal del Estado, las del Código Civil y las de sus procedimientos.
 
@@ -97,11 +107,15 @@ Todos los propietarios o poseedores de bienes inmuebles ubicados en el territori
 
 Todos los bienes inmuebles ubicados en el territorio del Estado, sin excepción, deberán estar inscritos en el padrón catastral a cargo del Instituto Catastral del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 8.
 
-Para efectos de esta Ley, la propiedad inmueble se clasifica en predios urbanos y predios rústicos.
+Para efectos de esta Ley y su Reglamento, la propiedad inmueble se clasifica en predios urbanos y predios rústicos.
 
-Se consideran predios urbanos los que se ubiquen dentro del fundo legal, las ciudades pueblos y villas que conforme a la legislación aplicable se consideren urbanos, así como aquellos que se destinen a usos industriales, comerciales y de prestación de servicios. Se consideran predios rústicos todos aquellos que se encuentren fuera de esta clasificación.
+Predios Urbanos: Son los que se encuentran dentro del área de influencia de un centro de población cuando se localicen sobre vialidad trazada y cuenten cuando menos con dos de los tres servicios públicos, que son: agua, drenaje y electricidad, ya sea directamente o en alguna de sus colindancias. En las localidades que carezcan de estos servicios, bastará que se localicen sobre calles trazadas.
+
+Predios Rústicos: Se consideran predios rústicos a todos aquellos que se encuentren fuera de la clasificación de los predios urbanos.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -177,21 +191,31 @@ I. Integrar y administrar el Catastro del Estado.
 
 II. Ejecutar las normas, políticas y lineamientos que en materia de Catastro dicte el Gobernador del Estado.
 
-III. Formular las normas administrativas y técnicas para su organización y funcionamiento internos, así como para la realización de las actividades y operaciones catastrales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-IV. Elaborar los proyectos de zonificación catastral y de las tablas de valores unitarios de suelo y de construcción y remitirlos al Gobernador del Estado para su aprobación, previa opinión del Consejo Consultivo catastral.
+III. Formular las normas administrativas y técnicas para su organización y funcionamiento internos, así como para la realización de las actividades y operaciones catastrales como lo dispone el artículo 7 de su reglamento.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+IV. Elaborar los proyectos de zonificación catastral y de las tablas de valores unitarios de suelo y de construcción y remitirlos al Gobernador del Estado para su aprobación, previa opinión del Consejo Consultivo Catastral como lo dispone la presente Ley y su Reglamento.
 
 V. Formular las tablas de coeficientes de demérito e incremento aplicables en la valuación catastral.
 
-VI. Realizar la valuación de los bienes inmuebles en particular, conforme a las disposiciones contenidas en esta Ley, en su Reglamento y, en su caso, conforme a las formalidades previstas por el Código Fiscal del Estado para las visitas domiciliarias.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+VI. Realizar la valuación de los bienes inmuebles en particular, conforme a las disposiciones contenidas en esta Ley, en su reglamento y criterios contemplados en los Instructivos Técnicos Catastrales y, en su caso, conforme a las formalidades previstas por el Código Fiscal del Estado para las visitas domiciliarias.
 
 VII. Determinar en forma precisa la localización de cada bien inmueble.
 
 VIII. Asignar clave catastral a cada bien inmueble.
 
-IX. Determinar los valores catastrales correspondientes a cada bien inmueble.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
-X. Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actualizado.
+IX. Determinar los valores catastrales correspondientes a cada bien inmueble, conforme a las disposiciones contenidas en esta Ley y su reglamento.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+X. Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actualizado, como lo disponen los artículos referentes en esta Ley y su Reglamento.
 
 XI. Registrar oportunamente los cambios que se operen en la propiedad inmueble y que por cualquier concepto alteren los datos contenidos en los registros catastrales.
 
@@ -203,17 +227,23 @@ XIV. Asesorar a los Ayuntamientos y a las autoridades fiscales del Estado, cuand
 
 XV. Constituirse en órgano asesor de los Ayuntamientos del Estado en materia del uso del Catastro cuando lo soliciten y celebrar con estos los convenios de colaboración que consideren necesarios para el cumplimiento de los fines de esta Ley.
 
-XVI. Auxiliar a las dependencias y organismos de la Administración Pública del Estado, cuyas funciones en materia de obras públicas, planeación y, en general, otras vinculadas al desarrollo urbano y rural, requieran información contenida en el Catastro.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+XVI. Auxiliar a las dependencias y organismos de la Administración Pública del Estado, cuyas funciones en materia de obras públicas, planeación y, en general, otras vinculadas al desarrollo urbano y rural, requieran información contenida en la Ley de Catastro, conforme a lo dispuesto en el Reglamento de la presente Ley.
 
 XVII. Integrar los registros catastrales previstos en la presente Ley y su Reglamento.
 
 XVIII. Vigilar y autorizar, en su caso, los trabajos catastrales.
 
-XIX. Efectuar por sí mismo o a través de terceros, el levantamiento de los diferentes planos catastrales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+XIX. Efectuar por si mismo o a través de terceros, el levantamiento de los diferentes planos catastrales, conforme a lo estipulado en la presente Ley, su Reglamento y Manuales Técnicos Catastrales.
 
 XX. Atender y resolver las consultas técnicas y procedimentales que, sobre situaciones reales y concretas y en relación a las disposiciones de esta Ley, planteen los particulares, así como elaborar los avalúos comerciales que le sean solicitados.
 
-XXI. Resolver los recursos previstos en esta Ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+XXI. Resolver los recursos previstos en esta Ley y su reglamento.
 
 XXII. Emitir las órdenes y practicar las visitas domiciliarias para la valuación y revaluación de los bienes inmuebles, así como para verificar la información correspondiente aportada por los propietarios o poseedores de los mismos.
 
@@ -221,11 +251,15 @@ XXIII. Solicitar a las dependencias y organismos auxiliares estatales y municipa
 
 XXIV. Integrar la información estadística, geográfica y jurídica relativa a la propiedad inmobiliaria.
 
-XXV. Expedir las licencias de perito valuador con autorización para rendir dictamen sobre el valor catastral de los bienes inmuebles, determinando en cada caso los actos jurídicos respecto de los cuales dichos avalúos serán reconocidos legalmente y el ámbito espacial de validez para el ejercicio de las licencias expedidas, así como revocar éstas y aplicar las sanciones correspondientes en los casos de infracción a las disposiciones de esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+XXV. Expedir las licencias de valuador catastral con autorización para realizar valuaciones sobre el valor catastral de los bienes inmuebles, determinando en cada caso los actos jurídicos respecto de los cuales dichos avalúos serán reconocidos legalmente y el ámbito espacial de validez para el ejercicio de las licencias expedidas, así como revocar éstas y aplicar las sanciones correspondientes en los casos de infracción a las disposiciones de esta Ley y su Reglamento.
 
 XXVI. Sancionar las infracciones a la presente Ley.
 
-XXVII. Las demás que expresamente determine esta Ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+XXVII. Las demás que expresamente determine esta Ley y su Reglamento.
 
 ### CAPÍTULO QUINTO. DE LA ORGANIZACIÓN DEL INSTITUTO
 
@@ -259,7 +293,7 @@ El Instituto contará con un Consejo Consultivo Catastral, como órgano técnico
 
 I. Un Presidente, que será el titular de la Secretaría de Finanzas.
 
-II. Cuatro Consejeros, que serán los titulares de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, de la Secretaría de Desarrollo Agropecuario y Forestal, de la Secretaría de Desarrollo Industrial y Comercial y de la Coordinación del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
+II. Cuatro Consejeros, que serán los titulares de la Secretaría de Desarrollo urbano, Comunicaciones y Obras Públicas, de la Secretaría de Desarrollo Agropecuario y Forestal, de la Secretaría de Desarrollo Industrial y Comercial y de la Coordinación del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
 El Consejo Consultivo contará con un Secretario Técnico que será el Director General del Instituto, con derecho a voz, pero sin derecho a voto.
 
@@ -295,9 +329,11 @@ El Instituto contará con las áreas, departamentos y oficinas administrativas q
 
 Las operaciones catastrales tienen por finalidad efectuar la identificación, descripción, delimitación, localización, mensura de los bienes inmuebles, así como su inscripción en los registros catastrales, su valuación y la integración de la información relativa a sus características y elementos físicos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 24.
 
-Con base en los elementos físicos que integren los bienes inmuebles, se elaborarán los planos catastrales que se requieran, por medio de los procedimientos técnicos más eficaces para lograr un conocimiento objetivo de la áreas y características del terreno y la construcción.
+Con base en los elementos físicos que integren los bienes inmuebles, se elaborarán los planos catastrales que se requieran, por medio de los procedimientos técnicos más eficaces para lograr un conocimiento objetivo de las áreas y características del terreno y la construcción, como lo estipula la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 25.
 
@@ -341,9 +377,11 @@ IV. Cuando por la ejecución de obras públicas o privadas se altere el valor de
 
 V. A solicitud del propietario o poseedor del inmueble, cumpliendo con los lineamientos establecidos en esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 30.
 
-La valuación catastral, ya sea provisional o definitiva, se hará separadamente para el terreno y las construcciones. La suma de los valores resultantes será el valor catastral del predio.
+La evaluación catastral, ya sea provisional o definitiva, se hará separadamente para el terreno y las construcciones. La suma de los valores resultantes será el valor catastral del predio, conforme a lo dispuesto en ésta Ley y su Reglamento.
 
 ###### ARTÍCULO 31.
 
@@ -365,13 +403,17 @@ Mientras se practica la valuación correspondiente a cada porción de un bien in
 
 En caso de fusión de dos o más bienes inmuebles, en tanto se practica la valuación, el valor catastral provisional será la suma de los valores catastrales de los bienes fusionados.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 36.
 
-El valor catastral será definitivo cuando se efectúe el avalúo de los bienes inmuebles por el Instituto o perito autorizado en los términos de esta Ley y su Reglamento.
+El valor catastral será definitivo cuando se efectúe el avalúo de los bienes inmuebles por el Instituto o valuador catastral autorizado en los términos de esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 37.
 
-El Instituto hará la valuación catastral de la totalidad del inmueble en los casos de traslación de dominio o de terminación de construcciones nuevas. Tratándose de ampliación de la construcción, únicamente se valuará ésta, sumándole este valor al de las construcciones ya existentes. En ambos casos se aplicarán los valores aprobados vigentes en la fecha de la traslación de dominio, de la terminación de las obras o de su ocupación sin estar terminadas.
+El Instituto hará la valuación catastral de la totalidad del inmueble en los casos de traslación de dominio o de terminación de construcciones nuevas. Tratándose de ampliación de la construcción, únicamente se valuará ésta, sumándole este valor al de las construcciones ya existentes. En ambos casos se aplicarán los valores aprobados vigentes en la fecha de la traslación de dominio, de la terminación de las obras o de su ocupación sin estar terminadas como lo contempla la presente Ley y su Reglamento.
 
 ###### ARTÍCULO 38.
 
@@ -429,9 +471,11 @@ Contra los actos en los que se fije el valor catastral de los bienes inmuebles, 
 
 ### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO PARA ESTABLECER LOS VALORES UNITARIOS DEL SUELO Y DE LAS CONSTRUCCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 48.
 
-Para el establecimiento de los valores unitarios del suelo y de las construcciones, se seguirá el siguiente procedimiento:
+Para el establecimiento de los valores unitarios del suelo y de las construcciones, además de lo dispuesto por el Reglamento de la presente Ley, se seguirá el siguiente procedimiento:
 
 I. El Instituto realizará los estudios técnicos para formular la propuesta de valores unitarios del suelo rústico por su clase y categoría y del suelo urbano por zona, manzana y corredor.
 
@@ -443,9 +487,11 @@ IV. Cumplido lo anterior, el Instituto Catastral remitirá las propuestas y la o
 
 ### CAPÍTULO OCTAVO. DE LOS PROCEDIMIENTOS DE VALUAClÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 49.
 
-Para la determinación del valor catastral de los predios urbanos, el Instituto aplicará los siguientes procedimientos:
+Para la determinación del valor catastral de los predios urbanos, el Instituto además de sujetarse a lo contemplado en el Reglamento de la presente Ley, aplicará los siguientes procedimientos:
 
 I.- Con base en la información que sobre las características del predio manifieste el propietario o poseedor; tomando en consideración, entre otros factores, su uso, tipo y ubicación, así como las tablas vigentes de valores unitarios.
 
@@ -455,9 +501,11 @@ III.- Mediante el avalúo en particular del predio de que se trate, realizado po
 
 IV.- Mediante la actualización anual de las tablas de valores unitarios de suelo y construcción, aplicables a todos los predios urbanos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 50.
 
-Para la determinación del valor catastral de los predios rústicos, el Instituto tomará en consideración, entre otros factores, su clase y categoría, así como las tablas vigentes de valores unitarios por hectárea y, en su caso, las tablas vigentes de valor unitarios de construcción.
+Para la determinación del valor catastral de los predios rústicos, el Instituto tomará en consideración, entre otros factores, su clase y categoría, así como las tablas vigentes de valores unitarios por hectárea y, en su caso, las tablas vigentes de valores unitarios de construcción, como lo dispone la presente Ley y su Reglamento respectivo.
 
 ### CAPÍTULO NOVENO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PARTICULARES Y LOS FEDATARIOS
 
@@ -477,9 +525,11 @@ V. Interponer los recursos previstos en esta Ley.
 
 VI. Los demás que establezcan esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 52.
 
-Todo propietario o poseedor de bienes inmuebles ubicados en el territorio del Estado o sus representantes legales, tienen la obligación de manifestarlos en los plazos establecidos en esta Ley y en el Reglamento respectivo, en las formas oficiales que para el caso apruebe y expida el Instituto.
+Todo propietario o poseedor de bienes inmuebles ubicados en el territorio del Estado o sus representantes legales, tienen la obligación de manifestarlos en los plazos establecidos en esta Ley y en el Reglamento respectivo, en los formatos oficiales que para el caso apruebe y expida el Instituto y que se encuentran regulados en el Capítulo Quinto del Reglamento de la presente Ley.
 
 ###### ARTÍCULO 53.
 
@@ -499,9 +549,11 @@ Tratándose de actos jurídicos que consten en documentos privados, los avisos a
 
 Todas las autoridades, dependencias o instituciones que intervengan o den autorización para la celebración de actos jurídicos que por cualquier motivo modifiquen las características de la propiedad inmueble en general o de un bien en particular, están obligadas a manifestarlas al Instituto, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que intervinieron o autorizaron la modificación de elementos que caractericen al predio o construcción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 57.
 
-Las manifestaciones y avisos que deban ser presentados en los términos de esta Ley y su Reglamento, deberán hacerse en las formas que apruebe y expida el Instituto y acompañar los documentos o planos que se exigen en las mismas.
+Las manifestaciones y avisos que deban ser presentados en los términos de esta Ley y su Reglamento, deberán hacerse en los formatos que apruebe y expida el Instituto y acompañar los documentos o planos que se exigen en las mismas.
 
 No se eximen de la obligación anterior, a los propietarios o poseedores de predios que por disposición de la Ley respectiva, estén exentos del pago de contribuciones a la propiedad inmobiliaria.
 
@@ -509,17 +561,21 @@ Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañ
 
 Si transcurrido dicho plazo no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, el Instituto tendrá por no presentadas las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 58.
 
-El Instituto expedirá copias certificadas de los planos y demás documentos que se le soliciten, relacionados con los predios, previo el pago de los derechos correspondientes, a quienes acrediten interés jurídico.
+El Instituto proporcionará la información existente en los archivos catastrales, previo el pago de derechos correspondientes en los términos del Capítulo Noveno del Reglamento de la Ley de Catastro.
 
 ###### ARTÍCULO 59.
 
 La inscripción de un inmueble en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo en favor de la persona a cuyo nombre aparezca inscrito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 60.
 
-Los notarios y registradores deben de requerir a los particulares la certificación del registro en el padrón catastral y, en su caso, el valor catastral del bien inmueble de que se trate, antes de proceder a la protocolización del acto jurídico o a la inscripción correspondiente.
+Los Notarios y Registradores deben de requerir a los particulares la certificación del registro catastral, así como avalúo catastral del bien inmueble de que se trate, antes de proceder a la autorización del acto jurídico o a la inscripción correspondiente.
 
 Las autoridades registrales no harán inscripción alguna de contratos que tengan por objeto transmitir o modificar el dominio de un bien inmueble, mientras no les sea acreditado el registro de Catastro correspondiente.
 
@@ -575,7 +631,7 @@ Se impondrá una multa de 100 a 500 días de salario mínimo vigente, cuando los
 
 Se impondrá multa de entre 100 a 500 días de salario mínimo vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
 
-I. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
+l. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
 
 II. Cuando presenten al Instituto Catastral del Estado de Oaxaca información no fidedigna respecto a los bienes inmuebles a los que se refiere la fracción anterior.
 
@@ -619,7 +675,7 @@ Los propietarios o poseedores de bienes inmuebles ubicados en el Estado, podrán
 
 Procede la aclaración ante el instituto en los siguientes casos:
 
-l. Cuando el nombre del propietario o poseedor del inmueble sea distinto de aquel que aparece en los padrones catastrales.
+I. Cuando el nombre del propietario o poseedor del inmueble sea distinto de aquel que aparece en los padrones catastrales.
 
 II. Cuando la clave catastral sea distinta de la que le corresponde al bien inmueble.
 
@@ -655,7 +711,7 @@ Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del 
 
 Procede el recurso de revocación cuando el valor asignado por las autoridades catastrales, no se haya determinado conforme a los procedimientos y términos establecidos por la presente Ley y su Reglamento.
 
-El Instituto resolverá acerca de los recursos de revocación que presenten los propietarios o poseedores de bienes inmuebles, en relación con la fijación del valor catastral definitivo, siempre y cuando se argumente, con relación al avalúo, alguna de las razones siguientes:
+El Instituto resolverá acerca de los recursos de revocación que presenten los propietarios o poseedores de bienes inmuebles, en relación con la fijación de valor catastral definitivo siempre y cuando se argumente, con relación al avalúo, alguna de las razones siguientes:
 
 I. Error o diferencia entre los datos asentados y las características reales del inmueble.
 
@@ -720,3 +776,29 @@ Herminio Manuel Cuevas Chávez.- Diputado Presidente.- DELFINO SANTIAGO PEREZ. D
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.- Oaxaca de Juárez, a 13 de diciembre de 1996.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Lic. Diodoro Carrasco Altamirano.- Rúbrica.- El Secretario General de Gobierno.- Lic. Héctor Anuar Mafud Mafud.- Rúbrica.-
 
 Y lo comunico a usted para su conocimiento y fines consiguientes. SUFRAGIO EFECTIVO. NO REELECCIÓN.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 13 de diciembre de 1996. EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Héctor Anuar Mafud Mafud. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día 1o de enero del año 2000, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos de lo dispuesto en el Artículo 3 de la Ley de Coordinación Fiscal para el Estado Libre y Soberano de Oaxaca, comprendida en el Artículo Tercero del presente Decreto, se estará a lo siguiente:
+
+Durante los años 2000, 2001, 2002 y 2003 los factores a que se refiere el Artículo 3 de este Decreto, se calcularán conforme a las proporciones que se señalan a continuación:
+
+AÑO FACTORES FACTORES
+
+1999 ARTICULO 3
+
+2000 85% 15%
+
+2001 70% 30%
+
+2002 50% 50%
+
+2003 25% 75%
+
+El factor de distribución que corresponda a cada Municipio será el que resulte de sumar el factor de distribución de participaciones aplicado en 1999 multiplicado por el porcentaje arriba señalado para cada año, más el factor resultante del procedimiento del Artículo 3 de este Decreto multiplicado por el porcentaje arriba señalado.
+
+Para el ejercicio fiscal 2000 el cálculo de los factores del Fondo de Fomento Municipal se hará tomando como base los factores derivados de la recaudación del impuesto predial aplicable para la distribución del Fondo Municipal de Participaciones del ejercicio fiscal 1999.
