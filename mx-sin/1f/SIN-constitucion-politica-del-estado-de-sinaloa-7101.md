@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2000-08-23"
+last_updated: "2001-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1135,7 +1135,7 @@ Habrá además cinco Magistrados Suplentes quienes sólo integrarán el Pleno o 
 
 Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2001)</small>
 
 ###### Art. 95.
 
@@ -1143,11 +1143,15 @@ Los Magistrados del Supremo Tribunal de Justicia, sólo podrán ser privados de 
 
 Los Magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
 
-Son causas de retiro forzoso:
+Son causa de retiro forzoso:
 
-I. Haber cumplido 70 años de edad, y
+I. Haber cumplido setenta años de edad;
 
-II. Padecer incapacidad física o mental incurables, incluso cuando ésta fuere parcial o transitoria.
+II. Tener treinta años de servicios en el Poder Judicial del Estado, y dentro de éstos, haber ejercido el cargo de Magistrado cuando menos durante diez años;
+
+III. Haber cumplido quince años de servicios como Magistrado del Supremo Tribunal de Justicia; y
+
+IV. Padecer incapacidad física o mental incurables, incluso cuando ésta fuere parcial o transitoria.
 
 La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario, los beneficios que tendrá el Magistrado que se retire forzosa o voluntariamente y el procedimiento que deberá seguirse para la formulación del dictamen, el cual se pondrá en conocimiento del Congreso del Estado o de la Diputación Permanente, para los efectos de su aprobación.
 
@@ -2702,6 +2706,16 @@ P.O. 23 DE AGOSTO DEL 2000.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Las bases del presente Decreto, tendrán su primera aplicación a partir de los Ayuntamientos que iniciarán funciones el 1° de enero del año 2002.
+
+P.O. 15 DE ENERO DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La fracción III del artículo 95 adicionada por este decreto, entrará en vigor a partir del primero de enero del año 2002.
+
+Los Magistrados que se encuentren en la hipótesis señalada en el primer párrafo de este artículo, serán sustituidos cada doce meses a partir de esa fecha, iniciando con el de mayor tiempo efectivo en el desempeño del cargo de Magistrado y así sucesivamente hasta concluir su aplicación.
+
+Artículo Tercero.- Los magistrados actualmente en funciones que ya hubieren cumplido más de 30 años de servicios en el Poder Judicial del Estado, a los que se refiere la fracción II del artículo que es objeto de la reforma, y los que a partir del 01 de enero del 2002 se encuentren en la hipótesis de la fracción III del artículo que es objeto de la reforma, tendrán derecho a la pensión por retiro a que se refiere el último párrafo del propio artículo 95 de la Constitución Política del Estado de Sinaloa y los artículos 90 y 91 de la Ley Orgánica del Poder Judicial del Estado de Sinaloa.
 
 ###### ARTÍCULO PRIMERO.
 
