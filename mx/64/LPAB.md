@@ -4,7 +4,7 @@ identifier: "LPAB"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-19"
-last_updated: "1999-01-19"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPAB"
 
 LEY DE PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 19 de enero de 1999.
 
@@ -200,9 +200,11 @@ Sin perjuicio de lo anterior, el Instituto, con cargo a dicha cuenta, podrá man
 
 El Instituto publicará trimestralmente el monto de los pagos efectuados por cada Institución por concepto de las cuotas a que se refiere este Capítulo y remitirá al Congreso de la Unión, así como al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, el informe financiero del Instituto y un ejemplar de la publicación referida.
 
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 27.
 
-Las cuotas a favor del Instituto no tendrán carácter fiscal, por lo que contra su cobro o cualquier otra resolución emitida conforme a la presente Ley, no procederá medio de defensa alguno ante el Tribunal Fiscal de la Federación.
+Las cuotas a favor del Instituto no tendrán carácter fiscal, por lo que contra su cobro o cualquier otra resolución emitida conforme a la presente Ley, no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ### CAPÍTULO IV. De los Apoyos y Programas para el Saneamiento Financiero de las Instituciones
 
@@ -885,3 +887,11 @@ VIGÉSIMO PRIMERO.- Se derogan las demás disposiciones que se opongan a esta Le
 México, D.F., a 13 de diciembre de 1998.- Dip. Luis Patiño Pozas, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Horacio Veloz Muñoz, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
