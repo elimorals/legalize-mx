@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2003-05-15"
+last_updated: "2004-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -588,7 +588,9 @@ ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos,
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Indebido de Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Daño al Ambiente, a que se refieren los artículos 343, 345, 347 y 350; y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Indebido de Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente, a que se refieren los artículos 345 y 346; y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
 ARTÍCULO 77 (Clasificación de la gravedad de la culpa e individualización de la sanción para el delito culposo). La calificación de la gravedad de la culpa queda al prudente arbitrio del Juez, quien deberá considerar las circunstancias generales señaladas en el artículo 72 de este Código y las especiales siguientes:
 
@@ -1996,11 +1998,11 @@ Cuando el delito se cometa en contra de persona mayor de sesenta años de edad o
 
 A quienes cometan en forma reiterada despojo de inmuebles urbanos en el Distrito Federal, se les impondrán de dos a nueve años de prisión y de cien a mil días multa.
 
-Si el despojo se lleva a cabo por invasión a las áreas naturales protegidas, zonas sujetas a conservación ecológica, parques locales y urbanos establecidos en el Distrito Federal para la preservación, restauración y mejoramiento ambiental, las sanciones se incrementarán en un tercio.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
-Al que propicie, dirija, incite o realice la ocupación o invasión de predios con usos diferentes a los señalados en los programas de desarrollo urbano, en áreas protegidas, suelos de conservación ecológica, zonas forestales, bosques, parques, áreas verdes o barrancas, se le impondrán de tres a diez años de prisión y de mil a diez mil días multa.
+> <small>(DEROGADO QUINTO PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
-La pena prevista en el párrafo anterior, se aumentará en una mitad a los instigadores y dirigentes, cuando la ocupación o invasión se realice con violencia.
+> <small>(DEROGADO SEXTO PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPÍTULO IV. QUEBRANTAMIENTO DE SELLOS
 
@@ -2488,7 +2490,9 @@ III. Retarde o entorpezca indebidamente la administración de justicia; o
 
 IV. Bajo cualquier pretexto, se niegue injustificadamente a despachar, dentro del plazo legal, un asunto pendiente ante él.
 
-### CAPÍTULO ÚNICO. ALTERACIÓN Y DAÑOS AL AMBIENTE
+### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 293.
 
@@ -2510,7 +2514,9 @@ VII. Practique cateos o visitas domiciliarias fuera de los casos autorizados por
 
 VIII. Fabrique, altere o simule elementos de prueba para incriminar a otro.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 294.
 
@@ -2540,7 +2546,9 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 No se considerarán como causas excluyentes de responsabilidad del delito de tortura, el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO III. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN EL PRESENTE TÍTULO
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 299.
 
@@ -2566,7 +2574,7 @@ VIII. Inicie un proceso penal contra un servidor público con fuero.
 
 Se impondrán de dos a ocho años de prisión y de cincuenta a trescientos días multa, al servidor público que durante el desarrollo de un proceso utilice la violencia contra una persona, para evitar que ésta o un tercero aporte pruebas relativas a la comisión de un delito.
 
-### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 301.
 
@@ -2596,7 +2604,7 @@ d) El certificado definitivo con la indicación del tiempo que tardó la curaci�
 
 e) El certificado de defunción, en su caso.
 
-### CAPÍTULO III. SABOTAJE
+### CAPÍTULO I. REBELIÓN
 
 ###### ARTÍCULO 303.
 
@@ -2608,7 +2616,7 @@ II. Otorgue indebidamente privilegios a los internos; o
 
 III. Permita ilegalmente la salida de personas privadas de su libertad como procesadas o sentenciadas.
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
 
 ###### ARTÍCULO 304.
 
@@ -2642,13 +2650,15 @@ Cuando un particular cometa o participe en alguno de los delitos previsto en est
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA COMETIDOS POR PARTICULARES
 
-### CAPÍTULO V. SEDICIÓN
+### CAPÍTULO III. SABOTAJE
 
 ###### ARTÍCULO 310.
 
 Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro acto tendiente a inducir a error a la autoridad judicial o administrativa, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley, se le impondrán de seis meses a seis años de prisión y de cincuenta a doscientos cincuenta días multa. Si el beneficio es de carácter económico, se impondrán las penas previstas para el delito de fraude.
 
 Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces el salario mínimo general vigente en el Distrito Federal, al momento de realizarse el hecho.
+
+### CAPÍTULO IV. MOTÍN
 
 ###### ARTÍCULO 311.
 
@@ -2677,6 +2687,8 @@ Al que aporte testigos falsos conociendo esta circunstancia, o logre que un test
 ###### ARTÍCULO 316.
 
 Además de las penas a que se refieren los artículos anteriores, se suspenderá hasta por tres años en el ejercicio de profesión, ciencia, arte u oficio al perito, intérprete o traductor, que se conduzca falsamente u oculte la verdad, al desempeñar sus funciones.
+
+### CAPÍTULO V. SEDICIÓN
 
 ###### ARTÍCULO 317.
 
@@ -2886,73 +2898,193 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 Se impondrán de uno a tres años de prisión y de cincuenta a mil días multa al que, para obtener un beneficio o causar un daño, indebidamente produzca o edite, por cualquier medio técnico, imágenes, textos o voces, total o parcialmente falsos o verdaderas.
 
-## TÍTULO VIGÉSIMO QUINTO. DELITOS AMBIENTALES
+> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
+
+## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
+
+> <small>(REFORMADA SU NUMERACION Y DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 343.
 
-Se le impondrán de dos a seis años de prisión y de cien a quinientos días multa, al que deteriore áreas naturales protegidas o el ecosistema del suelo de conservación.
+Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice la ocupación o invasión de:
 
-Las penas anteriores se duplicarán, si el deterioro es ocasionado por personas cuya actividad es la exploración, explotación o manejo de minerales o de cualquier depósito del subsuelo.
+I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+III. Una barranca; o
+
+IV. Un área verde en suelo urbano.
+
+Las penas previstas en este artículo se aumentarán en una mitad cuando la ocupación o invasión se realice con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice el cambio del uso del suelo en:
+
+I.- Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+II.- El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+III.- Una barranca; o
+
+IV.- Un área verde en suelo urbano.
+
+Las penas previstas en este artículo se disminuirán en una mitad cuando, el cambio de uso de suelo se realice de uno a otro de los usos de suelos previstos en el programa o programas de ordenamiento ecológico del Distrito Federal, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 344.
 
-Se le impondrán de tres a nueve años de prisión y de doscientos a mil días multa, a quien trafique con una o más especies o subespecies silvestres de flora o fauna terrestre o acuática en peligro de extinción, amenazadas o sujetas a protección especial.
+Se le impondrán de 1 a 5 años de prisión y de 300 a 1,500 días multa, a quien ilícitamente descargue o deposite hasta tres metros cúbicos en cualquier estado físico, excepto líquido que se establece en artículo 346 de este mismo capítulo, residuos de la industria de la construcción en:
+
+I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+III. Una barranca;
+
+IV. Una zona de recarga de mantos acuíferos; o
+
+V. Un área verde en suelo urbano.
+
+Se le impondrán de 3 a 9 años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas o áreas descritas en las fracciones anteriores.
+
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 344 BIS. Se le impondrán de seis meses a cinco años de prisión y de 500 a 2,000 días multa, a quien ilícitamente extraiga suelo o cubierta vegetal por un volumen igual o mayor a dos metros cúbicos, de:
+
+I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+III. Una barranca; o
+
+IV. Un área verde en suelo urbano.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 345.
 
-Se impondrán de dos a seis años de prisión y de quinientos a dos mil días multa, al que:
+Se le impondrán de dos a cinco años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente ocasione uno o más incendios que dañen:
 
-I. Genere o descargue materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su composición o condición natural;
+I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
-II. Contamine o destruya la calidad del suelo, áreas verdes en suelo urbano, humedales, áreas naturales protegidas, suelos de conservación o aguas en cualquier cuerpo de agua;
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
 
-III. Emita gases, humos, vapores o polvos de origen antropogénico que dañen a la salud humana, fauna, flora, recursos naturales, ecosistemas o la atmósfera;
+III. Una barranca; o
 
-IV. Descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos;
+IV. Un área verde en suelo urbano.
 
-V. Descargue o deposite desechos u otras sustancias o materiales contaminantes, residuos sólidos o industriales en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano, o en cualquier cuerpo de agua, que dañen la salud humana, flora, fauna, recursos naturales o los ecosistemas; o
+Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
 
-VI. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones que dañen la salud pública, flora, fauna o los ecosistemas.
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 345 BIS. Se le impondrán de tres meses a cinco años de prisión y de 500 a 2,000 días multa, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles.
+
+Las penas previstas en este artículo se duplicarán cuando uno a (sic) más de las conductas descritas en el párrafo anterior se desarrollen en un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables.
+
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 346.
 
-Se le impondrán de tres a nueve años de prisión y de mil a cinco mil días multa, al que:
+Se le impondrán de 2 a 6 años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente:
 
-I. Desmonte o destruya la vegetación natural; corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o haga cambios de uso de suelo en suelos de conservación, áreas naturales protegidas o áreas verdes en suelo urbano;
+I. Emita gases o partículas sólidas o líquidas a la atmósfera, provenientes de fuentes fijas ubicadas en el Distrito Federal o de fuentes móviles que circulan en el Distrito Federal;
 
-II. Ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano;
+II. Descargue, deposite o infiltre aguas residuales, residuos sólidos o industriales no peligrosos, líquidos químicos o bioquímicos;
 
-III. Realice el cambio provisional de aditamentos o equipos de vehículos automotores, especialmente de convertidores catalíticos, motores o cristales, con el solo objeto de obtener los certificados de verificación aprobatoria de emisiones; o
+III. Descargue, deposite o infiltre residuos sólidos, líquidos o industriales de manejo especial, conforme a lo previsto en las disposiciones jurídicas aplicables en el Distrito Federal;
 
-IV. Opere o altere en forma indebida equipos o programas de cómputo utilizados para la verificación vehicular.
+IV. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en el Distrito Federal o de fuentes móviles que circulan en el Distrito Federal;
+
+V. Realice actividades riesgosas de las previstas en las disposiciones jurídicas aplicables en el Distrito Federal; o
+
+VI. Genere, maneje o disponga residuos sólidos o industriales no peligrosos conforme a lo previsto en las disposiciones jurídicas aplicables en el Distrito Federal.
+
+Las penas previstas en este artículo se impondrán siempre que se ocasionen daños a la salud de las personas o uno o más ecosistemas o sus elementos y se aumentarán en una mitad cuando las conductas descritas en las fracciones anteriores se realicen dentro de:
+
+a. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+
+b. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+c. Una barranca;
+
+d. Una zona de recarga de mantos acuíferos; o
+
+e. Un área verde en suelo urbano.
+
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 347.
 
-Se impondrán de tres a ocho años de prisión y de mil a diez mil días multa a los empresarios o industriales y sus administradores, que a sabiendas:
+Se le impondrán de seis meses a cinco años de prisión y de 500 a 2,000 días multa, al que realice el cambio provisional de aditamentos o equipos de cualquier vehículo automotor, con el objeto de obtener uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal.
 
-I. Omitan el empleo de los equipos anticontaminantes en empresas, industrias o fuentes móviles, que generen contaminantes;
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
-II. No instalen o no utilicen adecuadamente las plantas de tratamiento de aguas residuales y no reutilicen las aguas tratadas; o
+ARTÍCULO 347 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, al que:
 
-III. No manejen adecuadamente los residuos producidos o residuos industriales no peligrosos.
+I. Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal; o
 
-Estas sanciones se impondrán con independencia de las que resulten aplicables a las personas morales.
+II. Ilícitamente venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 347 TER. Se le impondrán de seis meses a tres años de prisión y de 20 a 500 días multa:
+
+I. Al propietario, responsable o técnico de los centros de verificación vehicular que por sí o por interpósita persona, solicite o reciban indebidamente dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
+
+II. En calidad de usuario del servicio de verificación vehicular, ilícitamente ofrezca, prometa o entregue dinero o cualquier dádiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 347 QUATER. Se le impondrán de seis meses a cinco años de prisión y de 1,000 a 3,000 días multa, al que obtenga una autorización proveniente de cualquier autoridad ambiental del Distrito Federal, a partir de información falsa o de uno o más documentos falsos o alterados.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 347 QUINTUS. Se les impondrán de seis meses a tres años de prisión y de 20 a 500 días multa a los prestadores y laboratorios de servicios ambientales, que proporcionen documentos o información falsa u omitan datos con el objeto de que las autoridades ambientales otorguen o avalen cualquier tipo de permiso, autorización o licencia.
+
+Las penas previstas en este artículo se impondrán siempre que la autoridad ambiental haya otorgado el permiso, autorización o licencia de que se trate.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 348.
 
-Para los efectos del presente Título, la reparación del daño incluirá además:
+El Juez, de oficio o a petición de parte, podrá reducir las penas correspondientes para los delitos previstos en este título, hasta en tres cuartas partes, cuando el agente haya reestablecido (sic) las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta, y cuando ello no sea posible, ejecutando las acciones u obras que compensen los daños ambientales que se hubiesen generado.
 
-I. La realización de las acciones necesarias para reestablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados al estado en que se encontraban antes de realizarse el delito; y
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo dictamen técnico favorable emitido por la autoridad ambiental competente en el Distrito Federal.
 
-II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 349.
 
-Tratándose de estos delitos, el trabajo en favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+Para los efectos del presente Título, la reparación del daño se ordenará a petición del Ministerio Público u oficiosamente por el Juez, e incluirá además:
+
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito, cuando ello no sea posible, la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado, y si ninguna de ellas fuera posible, el pago de una indemnización que se integrará a los recursos del fondo ambiental público previsto en la Ley Ambiental del Distrito Federal.
+
+A fin de determinar el monto de la indemnización a que se refiere esta fracción, el Juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente, la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta.
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito respectivo.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 349 BIS. Tratándose de los delitos previstos en este título, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+ARTÍCULO 349 TER. En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental, con excepción de la reparación de los daños a la salud, integridad de las personas o a la vida.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 350.
 
-Cuando en la comisión de un delito previsto en este Titulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, en los términos del artículo 258 de este Código
+Cuando en la comisión de un delito previsto en este título, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, en los términos del artículo 258 de este Código.
 
 ## TÍTULO VIGÉSIMO SEXTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
@@ -3173,3 +3305,7 @@ G.O. 15 DE MAYO DE 2003.
 Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 Segundo: Túrnese al C. Jefe de Gobierno para los efectos constitucionales procedentes.
+
+G.O. 13 DE ENERO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
