@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2004-04-13"
+last_updated: "2004-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal el jueves 28 de diciembre de 2000.
 
@@ -144,7 +144,9 @@ IV. A la Secretaría del Medio Ambiente:
 
 1. Dirección General de Gestión Ambiental del Aire;
 
-2. Dirección General de Regulación y Gestión Ambiental de Agua, Suelo y Residuos; y
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2004)</small>
+
+2. Dirección General de Regulación y Vigilancia Ambiental;
 
 3. Dirección Ejecutiva de Coordinación Institucional e Integración de Políticas;
 
@@ -152,9 +154,9 @@ IV. A la Secretaría del Medio Ambiente:
 
 4. Dirección General de Zoológicos de la Ciudad de México;
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2004)</small>
 
-5. Dirección General de Recursos Naturales y Desarrollo Rural, y
+5. Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural;
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2000,11 +2002,15 @@ XV. Evaluar y, en su caso, otorgar autorizaciones en materia de impacto y riesgo
 
 XVI. Evaluar, y en su caso, otorgar las licencias de funcionamiento de fuentes fijas competencia del Distrito Federal;
 
-XVII. Vigilar en coordinación con la Comisión de Recursos Naturales, órganos político administrativos y demás autoridades competentes, la observancia de las declaraciones que se expidan en materia ambiental;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+XVII. Vigilar en coordinación con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, órganos político administrativos y demás autoridades competentes, la observancia de las declaraciones que se expidan en materia ambiental;
 
 XVIII. Elaborar y participar en la formulación y ejecución de programas para la protección, restauración y mejoramiento del ambiente, así como para la prevención y control de riesgos ambientales en el Distrito Federal;
 
-XIX. Aplicar las medidas urgentes que se requieran en caso de accidentes, fugas o derrames de sustancias que pongan en peligro o afecten al ambiente en coordinación con la Comisión de Recursos Naturales y Desarrollo Rural, los órganos político administrativos y las demás autoridades competentes, cuando se trate de áreas naturales protegidas o zonas rurales o boscosas;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+XIX. Aplicar las medidas urgentes que se requieran en caso de accidentes, fugas o derrames de sustancias que pongan en peligro o afecten al ambiente en coordinación con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, los órganos político administrativos y las demás autoridades competentes, cuando se trate de áreas naturales protegidas o zonas rurales o boscosas;
 
 XX. Participar con las autoridades competentes en el análisis, aprobación y aplicación de los programas de prevención y control de accidentes, derivados de la realización de actividades riesgosas para el ambiente y la salud pública;
 
@@ -2096,191 +2102,151 @@ XI. Celebrar convenios para el desarrollo de los zoológicos a su cargo y de col
 
 XII. Vigilar el cumplimiento de la normatividad sobre el funcionamiento interno de los zoológicos y unidades de manejo de vida silvestre a su cargo y aplicar las sanciones y medidas de seguridad que procedan en casos de incumplimiento.
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Artículo 56 TER.- Corresponde a la Dirección General de Recursos Naturales y Desarrollo Rural:
-
-I. Promover, fomentar, coordinar y ejecutar estudios y acciones en materia de protección, desarrollo, restauración y conservación de la flora y fauna silvestre, la vegetación natural o inducida, restauración y conservación del suelo, agua y otros recursos naturales en el suelo de conservación y áreas naturales protegidas;
-
-II. Realizar los estudios para que la Secretaría del Medio Ambiente proponga al Jefe de Gobierno la creación y modificación de áreas naturales protegidas del Distrito Federal, no reservadas a la federación, así como llevar a cabo su administración, manejo y vigilancia;
-
-III. Promover el establecimiento y administrar el sistema de áreas naturales protegidas y el sistema de información geográfica del suelo de conservación y áreas naturales protegidas del Distrito Federal; así como la realización y ejecución de los Programas coordinados con la Federación;
-
-IV. Promover la participación de las instituciones científicas y académicas, así como de los sectores social y privado, en la realización de estudios y programas para la restauración ecológica, la protección, el fomento y manejo de los recursos naturales del Distrito Federal;
-
-V. Promover y llevar a cabo en coordinación con los órganos Político-Administrativo competentes, la reforestación del suelo de conservación del Distrito Federal y participará en la reforestación de su área de influencia ecológica, así como administrar y manejar los viveros forestales que correspondan al Distrito Federal;
-
-VI. Promover y otorgar, en coordinación con las dependencias competentes, asistencia técnica y cursos de capacitación, orientados a la protección, conservación, restauración y mejoramiento de los recursos naturales del Distrito Federal;
-
-VII. Proponer a la Secretaría del Medio Ambiente y ejecutar el programa para la conservación y manejo de la vida silvestre del Distrito Federal;
-
-VIII. Intervenir en la formulación, ejecución, modificación o cancelación de los planes y programas de desarrollo urbano, así como normar el uso, destino y construcciones del suelo de conservación del Distrito Federal;
-
-IX. Proponer a la Secretaría del Medio Ambiente el establecimiento y operará el sistema de inspección y vigilancia de los recursos naturales en suelo de conservación y áreas naturales protegidas del Distrito Federal, así como ordenar y expedir la documentación para ejecutar las visitas y medidas de seguridad que corresponda, conforme a las disposiciones legales aplicables y sustanciar el procedimiento administrativo hasta su resolución;
-
-X. Proponer a la Secretaría del Medio Ambiente la elaboración, en coordinación con las autoridades competentes, del programa de ordenamiento ecológico del Distrito Federal y promover su incorporación a los programas de desarrollo urbano correspondientes;
-
-XI. Vigilar el cumplimiento, en términos de las disposiciones jurídicas y administrativas aplicables, de la normatividad en materia de desarrollo y aprovechamiento de las áreas verdes y recursos naturales en suelo de conservación del Distrito Federal;
-
-XII. Promover, orientar y fomentar los programas económicos y apoyos financieros que estimulen la inversión y la creación de empleos en la zona rural del Distrito Federal, con apego a las normas ambientales y demás que resulten aplicables;
-
-XIII. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo y mejoramiento de las actividades agropecuarias en las zonas rurales del Distrito Federal;
-
-XIV. Promover programas de apoyo financiero que contribuyan a fomentar procesos de producción, distribución, transformación y comercialización, en coordinación con el sector agropecuario del Distrito Federal;
-
-XV. Proponer a la Secretaría del Medio Ambiente el establecimiento y conducir y coordinar los mecanismos de apoyo para actividad productiva del sector rural, incluyendo asesorías, asistencia técnica y capacitación;
-
-XVI. Promover y fomentar la creación de centros de acopio de producción agrícola y centrales de abasto;
-
-XVII. Promover y fomentar actividades agropecuarias a través de acciones y apoyos entre asociaciones, coinversiones, alianzas estratégicas y otros sectores productivos, con apego a las disposiciones ambientales y demás que resulten aplicables;
-
-XVIII. Promover acciones conjuntas entre la Administración Pública, productores agropecuarios y centros de investigación, a fin de establecer proyectos competitivos;
-
-XIX. Realizar análisis de viabilidad, sobre los proyectos productivos y de conservación que se generen en las zonas rurales;
-
-XX. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
-
-XXI. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
-
-XXII. Promover y fomentar la creación de empresas agroindustriales, ecoturísticas, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
-
-XXIII. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos en las actividades agrícolas, pecuarias, apícolas y piscícolas, en coordinación con las autoridades competentes, de los recursos forestales e hidráulicos de la zona rural del Distrito Federal;
-
-XXIV. Promover la organización campesina e inducir la participación de los habitantes en programas agropecuarios, piscícolas y forestales, que fortalezcan la producción y su desarrollo, contribuyendo a evitar la expansión urbana en la zona rural del Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
-
-XXV. Promover y coordinar con instituciones vinculadas a actividades agropecuarias, las piscícolas y forestales, el desarrollo de cursos de capacitación a los productores rurales orientados a un mejoramiento de las actividades productivas rurales;
-
-XXVI. Promover y coordinar con las autoridades competentes, la formulación, diseño y ejecución de programas de desarrollo rural equitativo y sustentable en el Distrito Federal;
-
-XXVII. Proponer y promover el establecimiento de políticas vinculadas a la actividad agropecuaria, piscícola y forestal en el Distrito Federal;
-
-XXVIII. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución, y
-
-XXIX. Recaudar, recibir y administrar de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que por concepto de productos y servicios se relacionen con las anteriores atribuciones.
-
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Artículo 56 Cuater (sic).- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
-
-I. Establecer los criterios y lineamientos para conservar, administrar y regular el uso, aprovechamiento, explotación y restauración de los recursos naturales e infraestructura de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal;
-
-II. Formular y aplicar el programa de manejo de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal, bajo criterios de sustentabilidad y expedir los permisos, autorizaciones o cualquier instrumento jurídico que resulte aplicable para la realización de actividades de uso o aprovechamiento de los espacios, inmuebles y recursos de dichas áreas, sin perjuicio de las licencias, autorizaciones o permisos que se requieran de otras autoridades.
-
-Asimismo, negar, revocar o cancelar los permisos, autorizaciones o instrumentos jurídicos que contravengan las disposiciones establecidas para tales efectos;
-
-III. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que bajo los conceptos de uso, aprovechamiento, servicios de infraestructura y venta de planta, se perciban en las áreas de valor ambiental, áreas verdes urbanas, Museo de Historia Natural, Centros de Educación Ambiental y viveros;
-
-IV. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento y conservación de las áreas de valor ambiental, áreas verdes urbanas y el Museo de Historia Natural;
-
-V. Establecer los lineamientos para realizar las acciones de reforestación urbana en el Distrito Federal;
-
-VI. Emitir los lineamientos, así como autorizar las acciones de plantación, poda, derribo y transplante de especies vegetales de las áreas de valor ambiental y de áreas verdes urbanas del Distrito Federal;
-
-VII. Resguardar e incrementar el acervo del Museo de Historia Natural;
-
-VIII. Formular y aplicar las políticas de administración del Museo de Historia Natural;
-
-IX. Proyectar los trabajos de imagen urbana, mantenimiento, supervisión y vigilancia de las áreas de valor ambiental y de áreas verdes urbanas y recursos naturales localizados en la red vial primaria del Distrito Federal, así como en las alamedas y parques que por su belleza, valor cultural, histórico y ambiental requieren de cuidado y protección especial, en coordinación con las dependencias que resulten competentes en la materia;
-
-X. Elaborar proyectos para la creación, fomento y desarrollo de las áreas de valor ambiental y de las áreas verdes urbanas públicas del Distrito Federal, y coordinar la intervención de las autoridades competentes que se encuentren involucradas en su desarrollo;
-
-XI. Establecer los criterios para el desarrollo de la educación ambiental del Distrito Federal, incidiendo en el fomento de la cultura de conservación y cuidado de los recursos naturales, sobre todo en aquellos sectores sociodemográficos clave como son la población infantil y femenil;
-
-XII. Ampliar la cobertura de tramos de la población del Distrito Federal, con temas de educación y capacitación ambiental;
-
-XIII. Generar, sistematizar y difundir la información en materia de educación ambiental;
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, acuerdos y demás actos jurídicos necesarios para el ejercicio de sus funciones;
-
-XV. Salvaguardar el patrimonio cultural, histórico, social, ambiental y educativo asignado a la Unidad;
-
-XVI. Elaborar, coordinar y ejecutar los trabajos de desarrollo de las áreas de valor ambiental y de las áreas verdes urbanas; y producir, suministrar, cultivar y vender especies arbóreas, arbustivas y ornamentales para suelo urbano, así como operar los programas de fomento, protección, conservación, aprovechamiento, poda, administración y cultivo de las áreas verdes urbanas del Distrito Federal y venta de plantas a instancias públicas, privadas y al público en general;
-
-XVII. Determinar y aplicar en conjunto con las demás autoridades competentes los programas y medidas para prevenir y controlar contingencias y emergencias ambientales, así como las de seguridad, en las áreas de valor ambiental;
-
-XVIII. Vigilar el cumplimiento estricto de las disposiciones jurídicas y administrativas de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal y así como aplicar las sanciones administrativas y medidas correctivas o de seguridad que de ellas emanen;
-
-XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que se generan de las actividades de producción y transformación pública o privada del Distrito Federal;
-
-XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal; y
-
-XXI. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2004)</small>
 
 ###### Artículo 56 Ter.
 
-Corresponde a la Dirección General de Recursos Naturales y Desarrollo Rural:
+Corresponde a la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural:
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 I. Promover, fomentar, coordinar y ejecutar estudios y acciones en materia de protección, desarrollo, restauración y conservación de la flora y fauna silvestre, la vegetación natural o inducida, restauración y conservación del suelo, agua y otros recursos naturales en el suelo de conservación y áreas naturales protegidas;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 II. Realizar los estudios para que la Secretaría del Medio Ambiente proponga al Jefe de Gobierno la creación y modificación de áreas naturales protegidas del Distrito Federal, no reservadas a la federación, así como llevar a cabo su administración, manejo y vigilancia;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 III. Promover el establecimiento y administrar el sistema de áreas naturales protegidas y el sistema de información geográfica del suelo de conservación y áreas naturales protegidas del Distrito Federal; así como la realización y ejecución de los Programas coordinados con la Federación;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 IV. Promover la participación de las instituciones científicas y académicas, así como de los sectores social y privado, en la realización de estudios y programas para la restauración ecológica, la protección, el fomento y manejo de los recursos naturales del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 V. Promover y llevar a cabo en coordinación con los órganos Político-Administrativo competentes, la reforestación del suelo de conservación del Distrito Federal y participará en la reforestación de su área de influencia ecológica, así como administrar y manejar los viveros forestales que correspondan al Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 VI. Promover y otorgar, en coordinación con las dependencias competentes, asistencia técnica y cursos de capacitación, orientados a la protección, conservación, restauración y mejoramiento de los recursos naturales del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 VII. Proponer a la Secretaría del Medio Ambiente y ejecutar el programa para la conservación y manejo de la vida silvestre del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 VIII. Intervenir en la formulación, ejecución, modificación o cancelación de los planes y programas de desarrollo urbano, así como normar el uso, destino y construcciones del suelo de conservación del Distrito Federal;
 
-IX. Proponer a la Secretaría del Medio Ambiente el establecimiento y operará el sistema de inspección y vigilancia de los recursos naturales en suelo de conservación y áreas naturales protegidas del Distrito Federal, así como ordenar y expedir la documentación para ejecutar las visitas y medidas de seguridad que corresponda, conforme a las disposiciones legales aplicables y sustanciar el procedimiento administrativo hasta su resolución;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+IX. Proponer a la Secretaría del Medio Ambiente el establecimiento y operar el sistema de inspección y vigilancia de los recursos naturales y ciclovías en suelo de conservación y áreas naturales protegidas del Distrito Federal, así como ordenar y expedir la documentación para ejecutar las visitas y medidas de seguridad que corresponda, conforme a las disposiciones legales aplicables y sustanciar el procedimiento administrativo hasta su resolución;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 X. Proponer a la Secretaría del Medio Ambiente la elaboración, en coordinación con las autoridades competentes, del programa de ordenamiento ecológico del Distrito Federal y promover su incorporación a los programas de desarrollo urbano correspondientes;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XI. Vigilar el cumplimiento, en términos de las disposiciones jurídicas y administrativas aplicables, de la normatividad en materia de desarrollo y aprovechamiento de las áreas verdes y recursos naturales en suelo de conservación del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XII. Promover, orientar y fomentar los programas económicos y apoyos financieros que estimulen la inversión y la creación de empleos en la zona rural del Distrito Federal, con apego a las normas ambientales y demás que resulten aplicables;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XIII. Promover, estimular y realizar los estudios tendientes a lograr el desarrollo y mejoramiento de las actividades agropecuarias en las zonas rurales del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XIV. Promover programas de apoyo financiero que contribuyan a fomentar procesos de producción, distribución, transformación y comercialización, en coordinación con el sector agropecuario del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XV. Proponer a la Secretaría del Medio Ambiente el establecimiento y conducir y coordinar los mecanismos de apoyo para actividad productiva del sector rural, incluyendo asesorías, asistencia técnica y capacitación;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XVI. Promover y fomentar la creación de centros de acopio de producción agrícola y centrales de abasto;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XVII. Promover y fomentar actividades agropecuarias a través de acciones y apoyos entre asociaciones, coinversiones, alianzas estratégicas y otros sectores productivos, con apego a las disposiciones ambientales y demás que resulten aplicables;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XVIII. Promover acciones conjuntas entre la Administración Pública, productores agropecuarios y centros de investigación, a fin de establecer proyectos competitivos;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XIX. Realizar análisis de viabilidad, sobre los proyectos productivos y de conservación que se generen en las zonas rurales;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XX. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XXI. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XXII. Promover y fomentar la creación de empresas agroindustriales, ecoturísticas, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XXIII. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos en las actividades agrícolas, pecuarias, apícolas y piscícolas, en coordinación con las autoridades competentes, de los recursos forestales e hidráulicos de la zona rural del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XXIV. Promover la organización campesina e inducir la participación de los habitantes en programas agropecuarios, piscícolas y forestales, que fortalezcan la producción y su desarrollo, contribuyendo a evitar la expansión urbana en la zona rural del Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XXV. Promover y coordinar con instituciones vinculadas a actividades agropecuarias, las piscícolas y forestales, el desarrollo de cursos de capacitación a los productores rurales orientados a un mejoramiento de las actividades productivas rurales;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 XXVI. Promover y coordinar con las autoridades competentes, la formulación, diseño y ejecución de programas de desarrollo rural equitativo y sustentable en el Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+
 XXVII. Proponer y promover el establecimiento de políticas vinculadas a la actividad agropecuaria, piscícola y forestal en el Distrito Federal;
 
-XXVIII. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución, y
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
 
-XXIX. Recaudar, recibir y administrar de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que por concepto de productos y servicios se relacionen con las anteriores atribuciones.
+XXVIII. Mantener las ciclovías en suelo de conservación;
+
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+XXIX. Expedir permisos, autorizaciones o cualquier instrumento jurídico para el uso o aprovechamiento de dichos espacios e infraestructura en los términos y mediante los procedimientos que establece la Ley del Régimen Patrimonial y del Servicio Público y demás ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2004)</small>
+
+XXX. Promover y realizar las obras de infraestructura requeridas, así como celebrar los contratos y convenios necesarios para su ejecución.
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2003)</small>
 
 Artículo 56 Cuater (sic).- Corresponde a la Dirección General de Bosques Urbanos y Educación Ambiental:
 
-I. Establecer los criterios y lineamientos para conservar, administrar y regular el uso, aprovechamiento, explotación y restauración de los recursos naturales e infraestructura de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
 
-II. Formular y aplicar el programa de manejo de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal, bajo criterios de sustentabilidad y expedir los permisos, autorizaciones o cualquier instrumento jurídico que resulte aplicable para la realización de actividades de uso o aprovechamiento de los espacios, inmuebles y recursos de dichas áreas, sin perjuicio de las licencias, autorizaciones o permisos que se requieran de otras autoridades.
+I. Establecer en los términos y mediante los procedimientos que establecen las disposiciones jurídicas aplicables, los criterios y lineamientos para conservar, administrar y regular el uso, aprovechamiento, explotación y restauración de los recursos naturales e infraestructura de las áreas de valor ambiental, áreas verdes urbanas del Distrito Federal y ciclovías en suelo urbano;
 
-Asimismo, negar, revocar o cancelar los permisos, autorizaciones o instrumentos jurídicos que contravengan las disposiciones establecidas para tales efectos;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
 
-III. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que bajo los conceptos de uso, aprovechamiento, servicios de infraestructura y venta de planta, se perciban en las áreas de valor ambiental, áreas verdes urbanas, Museo de Historia Natural, Centros de Educación Ambiental y viveros;
+II. Formular y aplicar el programa de manejo de las áreas de valor ambiental y áreas verdes urbanas del Distrito Federal, bajo criterios de sustentabilidad y expedir los permisos, autorizaciones o cualquier instrumento jurídico que resulte aplicable para la realización de actividades de uso o aprovechamiento de los espacios, inmuebles y recursos de dichas áreas y de las ciclovías en suelo urbano, sin perjuicio de las licencias, autorizaciones o permisos que se requieran de otras autoridades. Asimismo, negar, revocar o cancelar los permisos, autorizaciones o instrumentos jurídicos que contravengan las disposiciones establecidas para tales efectos;
 
-IV. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento y conservación de las áreas de valor ambiental, áreas verdes urbanas y el Museo de Historia Natural;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+III. Recaudar, recibir y administrar, de conformidad con los ordenamientos jurídicos que resulten aplicables, los ingresos que bajo los conceptos de uso, aprovechamiento, servicios de infraestructura y venta de planta, se perciban en las áreas de valor ambiental, áreas verdes urbanas, Museo de Historia Natural, Centros de Educación Ambiental, viveros y ciclovías en suelo urbano;
+
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+IV. Fomentar y organizar la participación de los sectores público, social y privado, para el mantenimiento y conservación de las áreas de valor ambiental, áreas verdes urbanas, ciclovías en suelo urbano y el Museo de Historia Natural;
 
 V. Establecer los lineamientos para realizar las acciones de reforestación urbana en el Distrito Federal;
 
@@ -2312,9 +2278,15 @@ XVIII. Vigilar el cumplimiento estricto de las disposiciones jurídicas y admini
 
 XIX. Establecer los medios para reciclar y aprovechar los residuos vegetales que se generan de las actividades de producción y transformación pública o privada del Distrito Federal;
 
-XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal; y
+XX. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas de valor ambiental y de las áreas verdes urbanas del Distrito Federal; y (sic)
 
-XXI. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+XXI. Promover y realizar las obras de infraestructura requeridas, para la conservación, preservación, mejoramiento, rehabilitación, desarrollo y funcionamiento de las áreas de valor ambiental y ciclovías en suelo urbano en coordinación con la autoridad competente y en el ámbito de sus respectivas competencias; y
+
+> <small>(ADICIONADA, G.O. 19 DE MAYO DE 2004)</small>
+
+XXII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
 #### SECCION VI
 
@@ -5722,7 +5694,7 @@ XV. Planear y coordinar la prestación de servicios de apoyo que requieran las d
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
-a.(sic) Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+a. (sic) Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -7780,7 +7752,9 @@ V. Emitir opinión, sobre la ubicación de predios, que sirvan para determinar s
 
 VI. Coadyuvar con la Dirección General de Regularización Territorial, así como con la Coordinación para la Regularización Territorial de la Tenencia de la Tierra, para que inicien el procedimiento correspondiente para la regularización de la propiedad rural;
 
-VII. Coordinarse con la Dirección General de Desarrollo Rural y la Comisión de Recursos Naturales, en el seguimiento de los programas y acciones de fomento agropecuario para el Distrito Federal;
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2004)</small>
+
+VII. Coordinarse con la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural, en el seguimiento de los programas y acciones del fomento agropecuario para el Distrito Federal;
 
 VIII. Promover la celebración de convenios entre las Dependencias de la Administración Pública y las organizaciones de propietarios rurales del Distrito Federal para el apoyo y fomento en materia agraria;
 
@@ -8077,3 +8051,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los recursos humanos, materiales, técnicos y financieros de la Unidad Administrativa y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo en Benito Juárez, que por virtud de este Decreto dejan de tener algunas atribuciones, se transferirán a las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que adquieren nuevas atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor, de conformidad con sus atribuciones.
 
 TERCERO. Los asuntos en trámite a cargo de la Unidad Administrativa y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo en Benito Juárez, que por virtud de este Decreto dejan de tener algunas atribuciones se continuaran atendiendo, por la Unidad Administrativa de Apoyo Técnico Operativo que adquiere nuevas atribuciones, hasta su conclusión.
+
+G.O. 19 DE MAYO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
