@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1999-04-09"
+last_updated: "2000-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -119,9 +119,9 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 
 Los Diputados asistirán a las sesiones con puntualidad y permanecerán en ellas hasta que terminen, y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Cuando un Diputado no asista a las sesiones del Pleno, le será descontada de su dieta el equivalente a su percepción diaria por cada sesión a la que deje de asistir, con excepción de los casos establecidos en el artículo 14 del presente Reglamento. El Presidente de la Directiva del Congreso proveerá lo necesario para el cumplimiento de esta disposición.
+Cuando un Diputado no asista a las sesiones del Pleno del Congreso, le será descontada de su dieta el equivalente a su percepción diaria bruta por cada sesión a la que deje de asistir, con excepción de los casos establecidos en el artículo 14 del presente Reglamento. El Presidente del Congreso deberá proveer lo necesario para el cumplimiento de esta disposición.
 
 ###### Artículo 14.
 
@@ -161,11 +161,11 @@ En caso de desafuero se acordará la separación del cargo y se llamará al Supl
 
 ### CAPITULO I. DE LA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 20.
 
-La Directiva del Congreso se integrará, renovará y tendrá las atribuciones señaladas en los Artículos 52 al 58 de la Ley Orgánica del Poder Legislativo.
+La Directiva del Congreso se integrará, renovará y tendrá las atribuciones señaladas en la Ley Orgánica del Poder Legislativo y en este Reglamento.
 
 ### CAPITULO II. DE LA PRESIDENCIA
 
@@ -177,9 +177,11 @@ Las ausencias del Presidente serán cubiertas por el Primero o Segundo Vice-Pres
 
 Al presentarse un titular preferente en el orden cesará en sus funciones el sustituto.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 22.
 
-Los acuerdos dictados por el Presidente conforme a las funciones que le asigna el artículo 24 del presente Reglamento, podrán ser reclamados por cualesquiera de los Diputados si al ser puestos aquéllos en consideración de la Asamblea es secundado el reclamante por un número no menor de otros dos de los Diputados presentes en la sesión respectiva.
+Los acuerdos dictados por el Presidente conforme a las funciones que le asignan los artículos 60 de la Ley Orgánica del Poder Legislativo y 24 del presente Reglamento, podrán ser reclamados por cualesquiera de los Diputados si al ser puestos aquéllos en consideración de la Asamblea es secundado el reclamante por al menos otros dos Diputados presentes en la sesión respectiva.
 
 En el debate de las reclamaciones participarán solo dos Diputados en pro y dos en contra, dándose a ella el curso que determine la Asamblea.
 
@@ -187,27 +189,37 @@ En el debate de las reclamaciones participarán solo dos Diputados en pro y dos 
 
 Cuando el Presidente haga uso de la palabra durante las sesiones en el desempeño de la funciones que este Reglamento le señala, permanecerá sentado; pero si desea intervenir directamente en la discusión de un asunto, lo hará de pié como cualquier otro Diputado, separándose entre tanto de la Presidencia y siendo sustituído por el Diputado que lo deba hacer en sus faltas, según el Artículo 21 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 24.
 
-Son atribuciones y obligaciones del Presidente:
+Además de las atribuciones establecidas en la Ley Orgánica del Poder Legislativo, al Presidente del Congreso le corresponde:
 
 I.- Abrir y cerrar la sesión;
 
 II.- Cuidar que tanto los Diputados como las personas asistentes a las sesiones, guarden compostura en ellas;
 
-III.- Dar curso legal y dictar los acuerdos que deban recaer sobre los asuntos con que se de cuenta a la Asamblea;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+III.- Dar curso legal y dictar los acuerdos que deban recaer sobre los asuntos que son competencia del Congreso, turnando a Comisiones los que estuvieren debidamente integrados y si no lo estuvieren, apercibir al promovente a fin de que la omisión sea subsanada;
 
 IV.- Determinar el orden de discusión de los asuntos que deban tratarse en cada sesión, dando preferencia a los que considere de interés general, a no ser que la Asamblea, a moción de alguno de los Diputados, determine un orden distinto;
 
-V.- Dirigir y encauzar los debates, concediendo el uso de la palabra alternadamente en pro y en contra, a los Diputados, en el orden en que lo soliciten;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+V.- dirigir y encausar los debates, concediendo el uso de la palabra a los Diputados, alternadamente en contra y a favor, en el orden en que lo soliciten;
 
 VI.- Declarar, después de tomada una votación, si se aprueba o desecha la moción, proposición, proyecto o dictamen que haya sido objeto de aquélla;
 
 VII.- Llamar al orden por sí o por excitativa de algún miembro de la Asamblea, al que faltare a él;
 
-VIII.- Nombrar las comisiones cuya designación no corresponda a la Asamblea;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-IX.- Firmar en unión de los Secretarios, el acta de cada sesión inmediatamente después de que haya sido aprobada, así como los Decretos que se envíen al Ejecutivo para su publicación y las Iniciativas que se envíen al Congreso de la Unión;
+VIII.- Nombrar las comisiones cuya designación no corresponda a la Asamblea o a la Directiva;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+IX.- Firmar conjuntamente con los Secretarios, el acta de cada sesión inmediatamente después de que haya sido aprobada, así como el Diario de Debates;
 
 X.- Cuando sea oportuno, dará aviso a los Poderes Ejecutivo y Judicial, directamente o por conducto de la Secretaría, de la fecha de discusión de algún proyecto de Ley, y serán oídos en su caso los servidores públicos a que se refiere el Artículo 62 de la Constitución Política Local, con arreglo al mismo;
 
@@ -217,15 +229,25 @@ XII.- Declarar que no hay quórum para celebrar sesión, ordenando a la Secretar
 
 XIII.- Requerir a las comisiones que presenten dictamen sobre los asuntos que se les hubiere encomendado. De ser necesario emplazará a la comisión de que se trate, para que presente dicho dictamen en día determinado, y si aún no se lograra el desahogo de ese asunto, ordenará que lo pase a otra comisión que designe la Asamblea, con prevención de dictaminar en término preciso;
 
-XIV.- Tomar las providencias conducentes para hacer ocurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes, en los términos del Artículo 63 fracción XXXIV de la Constitución Política Local;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-XV.- Fuera de los casos extraordinarios en que se haga por la Asamblea designación expresa de una comisión para representar al Congreso, el Presidente tiene esa investidura en todos los actos oficiales a que deba concurrir, pudiendo ser suplido en dicha representación por los Vice-Presidentes en su orden; y
+XIV.- Tomar las providencias conducentes para hacer concurrir a los Diputados ausentes y corregir las faltas u omisiones de los presentes, en los términos del Artículo 63 fracción XXXIV de la Constitución Política del Estado; y
 
-XVI.- Contestar el informe que rinde el C. Gobernador del Estado con arreglo al Artículo 57 de la Constitución.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+XV.- Tener la representación legal del Congreso:
+
+a) En los actos oficiales a que deba concurrir, pudiendo ser suplido en dicha representación en este orden: por los Vicepresidentes o por otro Diputado que sea nombrado para tal efecto por el Presidente de este órgano de dirección. En casos extraordinarios, el Pleno del Congreso podrá designar expresamente a una comisión para representar al Congreso; y
+
+b) Para celebrar convenios, otorgar poderes o mandatos y designar delegados para que representen al Congreso, pudiendo éstos ejercer las facultades de administración, pleitos y cobranzas, aún aquéllas que requieran de cláusula especial.
+
+XVI.- (DEROGADA, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 25.
 
-Cuando el Presidente no observare las disposiciones de este Reglamento y en particular las del artículo anterior, a moción de cualquier Diputado deberá ser sustituído por acuerdo de la Asamblea conforme a lo establecido en el Artículo 22 del presente Reglamento.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 26.
 
@@ -249,87 +271,81 @@ Las faltas del Primer Secretario serán cubiertas por el Segundo, y a falta de e
 
 Al presentarse un titular preferente en el orden cesará en sus funciones el sustituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 30.
 
-Son obligaciones de los secretarios por su orden:
+Además de las atribuciones establecidas en la Ley Orgánica del Poder Legislativo, a los Secretarios de la Directiva les corresponde:
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+I.- Por su orden:
 
-I.- Formular el registro de asistencia y pasar lista de los integrantes del Congreso, en cada sesión. El listado correspondiente se ordenará alfabéticamente de acuerdo con los apellidos de las y los integrantes del Poder Legislativo;
+a) Formular el registro de asistencia y pasar lista de los integrantes del Congreso, en cada sesión. El listado correspondiente se ordenará alfabéticamente de acuerdo con los apellidos de las y los integrantes del Poder Legislativo; y
 
-II.- Formular las actas de cada sesión y firmarlas con el Presidente una vez que hayan sido aprobadas, pasándolas a la Oficialía Mayor para su archivo;
+b) Elaborar la lista de oradores que participen en la discusión de un asunto durante las sesiones.
 
-III.- Cuidar escrupulosamente de que todos estos documentos estén debidamente firmados, en el acto mismo de su aprobación, asentando en las actas de las sesiones lo siguiente:
+II.- En forma conjunta e independientemente de su orden:
 
-a) Nombre de quien la haya presidido;
+a) Cuidar escrupulosamente que todos los documentos de los que se de cuenta a la Asamblea estén debidamente firmados, en el acto mismo de su aprobación;
 
-b) Nombre de los Diputados que asistieron, el de los ausentes expresando la causa, y de los que no hayan solicitado permiso;
+b) Formar expedientes de cada uno de los diferentes asuntos que se ventilen en el Congreso, asentando los trámites que se den a las resoluciones que sobre los mismos se tomen, con expresión de la fecha de cada uno, y cuidar que no se alteren en forma alguna las proposiciones o proyectos de ley, una vez que haya comenzado el conocimiento de los mismos por la Asamblea. En caso de que el ponente desee hacer alguna modificación, debe cuidarse por la Secretaría que la misma sea conocida oportunamente por la Comisión dictaminadora y en su caso, por todos los demás Diputados;
 
-c) Horas de apertura y clausura de la sesión;
+c) Además de los expedientes a que se refiere el inciso anterior, la Secretaría llevará un libro en que se asiente, por orden cronológico razón de las leyes, decretos y acuerdos que expida el Congreso, auxiliándose a tal efecto de la Oficialía Mayor;
 
-d) Observaciones, correcciones y cualquiera otra modificación que se formule para el acta de la sesión anterior;
+d) Vigilar el trabajo que lleve a cabo el Oficial Mayor del Congreso y previo acuerdo con el Presidente, ordenar lo que proceda; y
 
-e) Exposición clara y ordenada de todo lo que se haya tratado y resuelto en la sesión, evitando cualquiera calificación sobre lo expuesto, ya sea por los Diputados, o los servidores públicos que con arreglo al Artículo 62 de la Constitución, pueden ser oídos en las sesiones;
+e) Asentar en las actas de las sesiones lo siguiente:
 
-IV.- Firmar con el Presidente los acuerdos, resoluciones, decretos o leyes que dicte el Congreso. La correspondencia oficial será firmada exclusivamente por los dos Secretarios;
+1. Nombre de quien la haya presidido;
 
-V.- Cuidar de que circulen con toda oportunidad entre los Diputados, los dictámenes de las comisiones y las iniciativas que los motiven, debiendo remitir ejemplares de los dictámenes a los Poderes Ejecutivo y Judicial, cuando así se considere pertinente;
+2. Nombre de los Diputados que asistieron, el de los ausentes expresando la causa, y de los que no hayan solicitado permiso; así como las horas de apertura y clausura de la sesión;
 
-VI.- Elaborar la lista de oradores que participen en la discusión de un asunto durante las sesiones;
+3. Observaciones, correcciones y cualquiera otra modificación que se formule para el acta de la sesión anterior; y
 
-VII.- Recoger todas las votaciones que se lleven a cabo en las sesiones;
+4. Exposición clara y ordenada de todo lo que se haya tratado y resuelto en la sesión, asentando la votación obtenida en cada determinación con expresión de los votos a favor, en contra y en abstención, evitando cualquiera calificación sobre lo expuesto, ya sea por los Diputados, o los servidores públicos que con arreglo al Artículo 62 de la Constitución, pueden ser oídos en las sesiones.
 
-VIII.- Previo acuerdo con el Presidente, dar cuenta a la Asamblea de los asuntos en cartera, conforme al Artículo 24 fracción III de este Reglamento;
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
 
-IX.- Formar expedientes de cada uno de los diferentes asuntos que se ventilen en el Congreso, asentando los trámites que se den a las resoluciones que sobre los mismos se tomen, con expresión de la fecha de cada uno, y cuidar que no se alteren en forma alguna las proposiciones o proyectos de ley, una vez que haya comenzado el conocimiento de los mismos por la Asamblea. En caso de que el ponente desee hacer alguna modificación, debe cuidarse por la Secretaría que la misma sea conocida oportunamente por la Comisión dictaminadora y en su caso, por todos los demás Diputados;
+### CAPITULO IV. DE LA COMISION DE COORDINACION Y REGIMEN INTERNO
 
-X.- Además de los expedientes a que se refiere la fracción anterior, la Secretaría llevará un libro en que se asiente, por orden cronológico razón de las leyes, decretos, acuerdos y resoluciones que expida el Congreso; y
-
-XI.- Vigilar el trabajo que lleve a cabo el Oficial Mayor del Congreso y previo acuerdo con el Presidente, ordenar lo que proceda.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO IV. DE LA GRAN COMISION
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 31.
 
-La Gran Comisión celebrará una Sesión Ordinaria mensual dentro de la primera semana de cada mes, a la que deberán asistir la mayoría de los integrantes. Invariablemente el Presidente dirigirá los trabajos y a falta de éste lo sustituirá el Vice-Presidente.
+La Comisión de Coordinación y Régimen Interno celebrará una sesión ordinaria mensual y las sesiones extraordinarias que sean necesarias. El Presidente de la Comisión de Coordinación y Régimen Interno dirigirá los trabajos, a falta de éste lo hará el Vicepresidente o el Secretario, en este orden.
 
-Podrán llevarse a cabo Sesiones Extraordinarias de la Gran Comisión por acuerdo de la mayoría de los miembros de la Comisión cuando a su juicio, un asunto lo requiera.
+Las sesiones extraordinarias se realizarán cuando sean convocadas por el Presidente de este órgano de dirección o cuando así lo soliciten los integrantes de esta Comisión que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 32.
 
-A las sesiones de la Gran Comisión se citará con por lo menos cuarenta y ocho horas de anticipación y se realizarán bajo un orden del día que elaborará la Secretaría y estará sujeta a la aprobación de la mayoría de los asistentes.
+A las sesiones ordinarias de la Comisión de Coordinación y Régimen Interno se citará con por lo menos cuarenta y ocho horas de anticipación y se realizarán bajo un orden del día elaborado por la Secretaría, a instrucción del Presidente, el cual estará sujeto a la aprobación de la Comisión.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 33.
 
-Los Acuerdos de la Gran Comisión deberán estar suscritos por el Presidente y el Secretario de la misma y serán aplicados en el ámbito de las funciones que le señala la Ley Orgánica del Poder Legislativo.
+Los Acuerdos de la Comisión de Coordinación y Régimen Interno deben estar suscritos por el Presidente, o por quien haya presidido la sesión, y por el Secretario de la misma y serán aplicados en el ámbito de las funciones que la Ley Orgánica del Poder Legislativo atribuye a este órgano de dirección.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 34.
 
-De cada sesión se levantará un acta, la cual una vez aprobada será firmada por quien haya presidido la sesión y por el Secretario de la Comisión.
+De cada sesión se levantará un acta en la cual se asentará una síntesis de las discusiones y los acuerdos de la Comisión de Coordinación y Régimen Interno. Las actas serán firmadas por quien haya presidido la sesión y por el Secretario, así como por los demás integrantes de la Comisión de Coordinación y Régimen Interno que habiendo estado presentes en la sesión respectiva así lo decidan.
 
-Se llevará un libro de registro en el que se anotarán los acuerdos y las disposiciones de la Comisión, así mismo las actas y resoluciones se integrarán al Archivo del Congreso del Estado.
+Se llevará un libro de registro en el que se anotarán los acuerdos y las disposiciones de la Comisión de Coordinación y Régimen Interno que, junto con las actas de las sesiones, se integrarán al Archivo del Congreso.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 35.
 
-Las Iniciativas o Propuestas que la Gran Comisión presente al Pleno deberán estar suscritas por la mayoría de sus miembros.
+Si un Grupo Legislativo tiene mayoría absoluta en la Legislatura, las iniciativas o propuestas que la Comisión de Coordinación y Régimen Interno presente al Pleno del Congreso deben estar suscritas por, al menos, la mitad más uno de sus integrantes. Si no existe un Grupo Legislativo de mayoría absoluta, en los términos de la Ley Orgánica del Poder Legislativo, las iniciativas o propuestas de esta Comisión deberán ser firmadas por, al menos, los integrantes de esta Comisión que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 36.
 
-La Gran Comisión dispondrá para sus funciones de un lugar adecuado dentro de las instalaciones del Congreso y contará además con el personal necesario.
+La Comisión de Coordinación y Régimen Interno dispondrá para sus funciones de un lugar adecuado dentro de las instalaciones del Congreso y contará además con el personal necesario.
 
 ## TITULO TERCERO. DE LOS ORGANOS DE TRABAJO
 
@@ -561,11 +577,11 @@ b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 La Comisión de Vigilancia tiene el carácter de Permanente, se integrará en los términos del Artículo 68 de la Ley Orgánica del Poder Legislativo y tendrá las atribuciones de supervisión y vigilancia que le confieren los Artículos 11 y 12 de la Ley de la Contaduría Mayor de Hacienda del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 41.
 
-Las Comisiones Jurisdiccionales serán temporales, se integran también por nueve diputados que serán designados por el Pleno en el momento en que un asunto de su competencia lo amerite.
+Las Comisiones Jurisdiccionales serán temporales, se integrarán por once Diputados que serán designados por el Pleno en el momento en que un asunto de su competencia lo amerite.
 
 ###### Artículo 42.
 
@@ -583,9 +599,11 @@ Las Comisiones Especiales serán designadas por la Asamblea conforme lo establec
 
 Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asunto que les haya sido turnado para su estudio, se excusará y la Asamblea designará a la persona que deba sustituirlo para ese asunto, excepción hecha en aquellos casos en que la comisión conozca de un proyecto o iniciativa suscrito mediante Acuerdo Legislativo por unanimidad.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 46.
 
-El Presidente de cada comisión será responsable de los expedientes turnados a ella para su estudio, cesando esa responsabilidad cuando los mismos sean devueltos a la Oficialía Mayor.
+El Presidente de cada Comisión es responsable de los expedientes turnados a ella para su estudio y a este efecto, deberá firmar el recibo de ellos en el libro de turno que llevará la Oficialía Mayor, cesando aquélla responsabilidad cuando los mismos sean devueltos a este órgano de soporte técnico.
 
 ###### Artículo 47.
 
@@ -603,13 +621,17 @@ Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asa
 
 Las Comisiones, por medio de su Presidente, podrán pedir a cualquier oficina del Estado o Municipal, todas las instrucciones y exhibición de documentos que estimen convenientes para el despacho de los negocios que se les hayan turnado, y esas constancias deben serle proporcionadas, siempre que el asunto de que se trate no sea de los que deben conservarse en secreto. Cuando la solicitud respectiva no sea atendida, podrá el Presidente dirigirse al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia o al Ayuntamiento correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 51.
 
-Para el despacho de los asuntos que les hayan sido turnados, las Comisiones se reunirán mediante convocatoria del Presidente, acatando lo dispuesto por los Artículos 75 y 76 de la Ley Orgánica del Poder Legislativo.
+Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso, las Comisiones sesionarán a convocatoria de su Presidente, quien informará de ello a la Oficialía Mayor para la programación y apoyo de las sesiones. Los Presidentes de las Comisiones deberán convocar a sesión cuando así lo soliciten al menos, la mitad más uno de sus integrantes.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+La convocatoria deberá incluir el orden del día a tratar, lugar, fecha y hora de la sesión; en su entrega se levantará acuse de recepción.
 
-De cada Sesión de las Comisiones se levantará un acta, conteniendo los datos fundamentales de la reunión y consignando los acuerdos a los cuales se llegue.
+Las sesiones de las Comisiones iniciarán sus trabajos en la hora señalada en la convocatoria respectiva, si se encuentran presentes al menos, la mitad más uno de sus integrantes; si no se cumple con este quórum en un plazo máximo de treinta minutos, contados a partir de la hora señalada en la convocatoria, la sesión no se llevará a cabo, debiéndose citar a una sesión subsecuente.
+
+De cada sesión de las Comisiones, se levantará un acta que contendrá los datos fundamentales de la reunión y consignará los acuerdos a los cuales se llegue.
 
 ###### Artículo 52.
 
@@ -653,259 +675,331 @@ En todo tiempo el Pleno podrá crear o suprimir Comisiones, mediante Iniciativa 
 
 Para el apoyo de las tareas del Congreso y de sus Comisiones se contará con los Comités que la Ley Orgánica señala en su Artículo 77.
 
-Los Comités se integrarán en la quinta sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional y serán revisados cada año, pudiendo sus miembros ser reelectos, bien sea en lo personal o en su conjunto.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Los Comités se integrarán en la quinta sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional y serán revisados cada año, pudiendo sus miembros ser reelectos, bien sea en lo personal o en su conjunto. Sesionarán (sic) convocatoria de su Presidente, quien informará de ello a la Oficialía Mayor para la programación y apoyo de las sesiones. Los Presidentes de los Comités deberán convocar a sesión cuando así lo soliciten al menos, la mitad más uno de sus integrantes.
 
 ###### Artículo 61.
 
-El Comité de Administración tendrá las siguientes atribuciones:
-
-I.- Elaborar y someter a la aprobación del Pleno los criterios para el trabajo administrativo del Congreso del Estado;
-
-II.- Formular las condiciones generales de trabajo de los servidores públicos del Congreso;
-
-III.- Emitir criterios para la elaboración del Ante-proyecto de Presupuesto General de Egresos que elabore la Tesorería del Congreso, cuidando que sea el suficiente para cubrir las necesidades del Poder Legislativo;
-
-IV.- Conocer y analizar el Informe Trimestral que por escrito rinda el Tesorero sobre el ejercicio presupuestal;
-
-V.- Elaborar los criterios para otorgar el apoyo a los Grupos Legislativos, a las Comisiones y Comités;
-
-VI.- Rendir un informe anual al Pleno de las actividades desarrolladas;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Gran Comisión; y
-
-VIII.- Recibir el Proyecto de Informe Anual que el Comité presentará al Pleno, el que será elaborado por el Tesorero del Congreso.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 62.
 
-El Comité de Biblioteca tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1997)</small>
-
-I.- Elaborar los criterios para integrar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas.
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1997)</small>
-
-II.- Establecer las bases para organizar, codificar y modernizar el archivo del Congreso, y
-
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 1997)</small>
-
-III.- Encargarse de dar difusión de todos los acontecimientos propios del H. Congreso del Estado, así como los que estime convenientes en materia histórica, socio-política, cultural y de interés general de la vida de Nuevo León, del país y del mundo.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 63.
 
-El Pleno podrá crear o suprimir a los Comités mediante Iniciativa de reforma a la Ley Orgánica del Poder Legislativo y al presente Reglamento.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
-## TITULO CUARTO. DE LOS ORGANOS TECNICO-ADMINISTRATIVOS Y DE APOYO
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
 
-### CAPITULO I. DE SU NATURALEZA
+## TITULO CUARTO. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO DEL CONGRESO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO I. DE SU FINALIDAD Y FUNCIONES COMUNES
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 64.
 
-Los Organos Técnico-Administrativo y de Apoyo, serán un aparato profesional del Congreso del Estado que auxiliarán a los diputados en el desarrollo del trabajo legislativo cuando éstos se lo soliciten mediante escrito.
+Los Órganos de Soporte Técnico y de Apoyo del Congreso se integran por los recursos humanos, físicos, técnicos y materiales que, en los términos de la normatividad vigente, auxilian a los Órganos Legislativos. De acuerdo a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado, a los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno les corresponde:
+
+I.- Desempeñar sus funciones a partir de las disposiciones establecidas en la legislación;
+
+II.- Coordinar las actividades del personal y de las áreas a su cargo, de manera que su desempeño se oriente a apoyar las actividades de los integrantes de la Legislatura y a los Órganos Legislativos;
+
+III.- Proponer a la Comisión de Coordinación y Régimen Interno la organización y procedimientos internos de sus respectivas áreas;
+
+IV.- Colaborar con el personal de los otros Órganos de Soporte Técnico y de Apoyo en las actividades del Congreso que así lo requieran;
+
+V.- Elaborar los programas anuales de actividades de sus respectivas áreas de competencia. Estos programas se someterán a la aprobación de la Comisión de Coordinación y Régimen Interno en su sesión ordinaria del mes de noviembre de cada año;
+
+VI.- Elaborar y presentar los informes a que hace referencia el Artículo 80 de la Ley Orgánica del Poder Legislativo del Estado. La finalidad de estos informes será evaluar el cumplimiento de los programas de actividades autorizados así como verificar que el desempeño de los Órganos de Soporte Técnico y de Apoyo se ajuste a la legislación aplicable;
+
+VII.- Proporcionar la información que les solicite la Tesorería para la elaboración del Anteproyecto del Presupuesto de Egresos del Congreso;
+
+VIII.- Conservar en buen estado los bienes, instalaciones, mobiliario, equipo y materiales, que se le asignen para el desempeño de sus funciones;
+
+IX.- Cumplir y hacer del conocimiento del personal a su cargo, las disposiciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y demás relativas a la función pública; y
+
+X.- Las demás que le encomienden los titulares de los Órganos Legislativos para el mejor desarrollo de la función legislativa.
 
 ### CAPITULO II. DE LA OFICIALIA MAYOR
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 65.
 
-En los términos del Artículo 79 de la Ley Orgánica del Poder Legislativo, el Oficial Mayor será nombrado por el Pleno y podrá ser removido del cargo, cuando por faltar a sus funciones la Asamblea así lo acuerde.
+La Oficialía Mayor es el órgano de soporte técnico legislativo y jurídico del Congreso. A la Oficialía Mayor le corresponde:
 
-### CAPITULO III. DE LA TESORERIA DEL CONGRESO
+I.- Asistir, a través de su titular, a las sesiones del Pleno del Congreso, así como a las reuniones de la Directiva;
+
+II.- Atender los encargos que le solicite el Presidente de la Directiva para el ejercicio de las atribuciones de ésta y de su Presidente;
+
+III.- Ser conducto para la entrega de dictámenes, proyectos de dictámenes y convocatorias a los Diputados para las sesiones de las Comisiones y de los Comités, así como para otros casos que le indiquen el Presidente de los otros Órganos Legislativos. Para cumplir con este cometido, previa autorización de los Diputados a quienes se dirigirá la información, la Oficialía Mayor podrá utilizar los medios electrónicos de transmisión de datos de que disponga el Congreso, debiendo recabar la constancia de recepción correspondiente.
+
+IV.- Formular y preparar la documentación que requiera el Congreso para el desarrollo del trabajo legislativo, incluyendo la correspondencia oficial de la que se deba dar cuenta en las sesiones, de acuerdo a las instrucciones que le gire la Secretaría de la Directiva;
+
+V.- Asesorar para que los proyectos de resoluciones de la Legislatura estén apegados a las formalidades legales;
+
+VI.- Encargarse de que las leyes, decretos y acuerdos del Congreso en los casos aplicables se envíen al Ejecutivo para su publicación en el Periódico Oficial del Estado, dentro de los cinco días hábiles posteriores a su aprobación;
+
+VII.- Dar seguimiento a las resoluciones del Pleno del Congreso y atender las instrucciones que reciba de la Directiva;
+
+VIII.- Elaborar y custodiar las actas de las sesiones y el Diario de Debates del Pleno del Congreso;
+
+IX.- Informar a la Directiva, mensualmente y por escrito, sobre la asistencia de los Diputados a las sesiones del Pleno del Congreso, así como a las de las Comisiones y Comités de que formen parte;
+
+X.- Organizar y supervisar la realización de reuniones de información y audiencia, foros y consultas populares por instrucciones de la Directiva o de las Comisiones;
+
+XI.- Llevar la custodia, registro y control de expedientes e iniciativas, así como de las leyes, decretos y acuerdos que expida el Congreso;
+
+XII.- Partiendo de las disposiciones constitucionales, legales y reglamentarias en las que se establecen normas de procedimiento para atender los asuntos que son competencia de los Órganos de Decisión del Congreso, someter a la consideración de la Comisión de Coordinación y Régimen Interno propuestas relativas al proceso legislativo, para ser incluidas en el Manual de Organización y Procedimientos del Congreso;
+
+XIII.- Certificar, a través de su titular, copias de los documentos que obren en los archivos del Congreso, dando fe de su autenticidad;
+
+XIV.- Elaborar anualmente y mantener actualizado, el Calendario de Actividades del Congreso;
+
+XV.- Realizar, a través de su titular y por instrucciones del Presidente de la Directiva o de las Comisiones, las notificaciones que deban llevarse a cabo, pudiendo delegar dicha facultad en personal de su adscripción mediante oficio. Siempre que se lleve a cabo una notificación personal, quien notifique deberá levantar acta circunstanciada de dicha diligencia;
+
+XVI.- Estar a cargo del Tablero de Avisos del Congreso;
+
+XVII.- Coordinar la elaboración de proyectos de dictámenes que le soliciten las Comisiones, en el sentido que éstas hayan acordado previamente;
+
+XVIII.- Proveer el apoyo que se requiera para la organización y realización de las sesiones de trabajo de las Comisiones de Dictamen Legislativo;
+
+XIX.- Llevar control de la debida representación del Congreso en juicios de amparo, controversias constitucionales, acciones de inconstitucionalidad y demás asuntos civiles, penales, mercantiles, laborales y jurídicos en que el Poder Legislativo del Estado sea parte;
+
+XX.- Organizar el archivo del Congreso;
+
+XXI.- Coordinar la prestación de los servicios del Archivo y de la Biblioteca del Congreso;
+
+XXII.- Prestar los servicios de apoyo que se requieran para el desarrollo de las actividades legislativas;
+
+XXIII.- Mantener actualizada en formato electrónico, la legislación estatal vigente;
+
+XXIV.- Coordinar el Curso de Inducción a la Función Legislativa que se ofrezca como optativo a los Diputados electos y sus suplentes, el cual se realizará en el transcurso del mes anterior al inicio del ejercicio constitucional de cada Legislatura. En la implementación de este curso, podrán participar Diputados en funciones, personal del Congreso, académicos de instituciones de educación superior, así como profesionistas y servidores públicos destacados en la temática de interés para la función legislativa;
+
+XXV.- Organizar y dar el trámite respectivo a la correspondencia del Congreso; y
+
+XXVI.- Vigilar la conservación física del Recinto Oficial del Congreso.
+
+El Calendario de Actividades del Congreso señalará las fechas en que la legislación establece la obligación para que los Órganos del Congreso realicen alguna actividad específica importante de carácter legislativo, solemne, administrativo o laboral. Dicho Calendario se presentará para su aprobación a la Comisión de Coordinación y Régimen Interno en la sesión ordinaria del mes de enero de cada año.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO III. DE LA TESORERIA
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 66.
 
-Corresponde a la Oficialía Mayor:
+La Tesorería es el órgano de soporte técnico financiero y contable del Congreso. A la Tesorería le corresponde:
 
-I.- Coordinar y vigilar el cumplimiento entre los departamentos y oficinas a su cargo y de las resoluciones y acuerdos de la Asamblea, de la Presidencia y de la Secretaría en el desempeño de sus funciones legislativas;
+I.- Elaborar el Anteproyecto de Presupuesto de Egresos del Congreso, atendiendo los criterios que defina el Comité de Administración. Este Anteproyecto será presentado a la Comisión de Coordinación y Régimen Interno en la primera quincena del mes de octubre;
 
-II.- Registrar y tramitar los expedientes que sean sometidos a la consideración de la Asamblea, preparando la Cartera de las sesiones, de acuerdo a las instrucciones que le gire la Secretaría de la Directiva;
+II.- Tramitar, ante las autoridades correspondientes, los recursos financieros del Poder Legislativo aprobados en la Ley de Egresos del Estado, así como los recursos extraordinarios y los que apruebe el Pleno del Congreso en las ampliaciones de partidas presupuestales;
 
-III.- Levar el registro y control de Expedientes, Iniciativas, Leyes, Decretos y Acuerdos que expida el Congreso;
+III.- Realizar los pagos que correspondan para cubrir las necesidades del Congreso y brindar asesoría en la celebración de contratos que así se requiera;
 
-IV.- Recibir toda clase de documentación para información, archivo o trámite legislativo;
+IV.- Aplicar los recursos presupuestales de acuerdo con los programas y partidas autorizadas;
 
-V.- A petición de las Comisiones de Dictamen Legislativo, revisar en coordinación con las Direcciones Jurídica y de Asesoría los dictámenes que se elaboren;
+V.- Autorizar las adquisiciones de bienes y contratación de servicios, cuyo monto sea superior a 30 y no exceda de 630 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto. Cada trimestre informará a la Comisión de Coordinación y Régimen Interno sobre el ejercicio de esta función. En el caso de adquisiciones superiores a lo señalado en la presente fracción, se requerirá la autorización de la Comisión de Coordinación y Régimen Interno;
 
-VI.- Tomar las medidas conducentes y dar seguimiento para que los Acuerdos, Resoluciones, Leyes y Decretos del Congreso sean publicados en el Periódico Oficial;
+VI.- Elaborar la nómina del Congreso y efectuar los pagos al personal del mismo;
 
-VII.- Coordinar los servicios de apoyo necesario para la celebración de las sesiones del Pleno, de las Comisiones y de los Comités, tales como servicios de taquimecanografía, grabación, sonido y demás que se requieran;
+VII.- Controlar el ejercicio presupuestario mediante el registro contable de egresos e ingresos;
 
-VIII.- Supervisar todos los documentos legislativos a los que deba darse publicación en el Periódico Oficial, así mismo supervisar la elaboración de las actas en cada sesión;
+VIII.- Efectuar auditorías a los demás Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno;
 
-IX.- Llevar un control en coordinación con la Dirección Jurídica para que el Congreso esté representado en asuntos civiles, penales, mercantiles, laborales y los demás en que sea parte;
+IX.- Colaborar en la elaboración del Calendario de Actividades del Congreso en la parte relativa a las actividades de carácter administrativo y laboral;
 
-X.- Promover las publicaciones que pudieran tener interés para todos los Diputados o para la información de la ciudadanía;
+X.- Coordinar la administración de los recursos humanos y materiales, así como los servicios generales del Congreso;
 
-XI.- Disponer lo necesario para tener un archivo oportuno y completo que permita clasificar, formar catálogos y conservar en buen estado todos los expedientes del Congreso;
+XI.- Salvaguardar y llevar un registro de los bienes asignados al Poder Legislativo, identificando administrativamente los correspondientes a los Grupos Legislativos y a los Órganos del Congreso; y
 
-XII.- Dar curso a la correspondencia legislativa;
+XII.- Organizar y coordinar la realización de cursos de capacitación para el personal del Congreso, los cuales se llevarán a cabo sin afectar las actividades de los Órganos Legislativos.
 
-XIII.- Vigilar la conservación física del Recinto Oficial del Congreso;
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-XIV.- Ser conducto de la entrega de los citatorios a los Diputados, así como para cualquier otro encargo formulado por el Presidente de la Directiva para el ejercicio de sus atribuciones; y
+### CAPITULO IV. DEL CENTRO DE ESTUDIOS LEGISLATIVOS
 
-XV.- Las demás que la Ley Orgánica, el presente Reglamento y los acuerdos del Congreso le señalen.
-
-La Oficialía Mayor contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
-
-### CAPITULO IV. DE LA DIRECCION DE ADMINISTRACION
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 67.
 
-En los términos del Artículo 80 de la Ley Orgánica del Poder Legislativo, la Tesorería del Congreso tendrá a su cargo el ejercicio del Presupuesto aprobado por la Ley de Egresos, así como las demás funciones que expresamente le señale la Ley Orgánica del Poder Legislativo, el presente Reglamento y demás resoluciones que emita el Comité de Administración y el Pleno del Congreso.
+El Centro de Estudios Legislativos es el órgano de soporte técnico para la investigación y el análisis de los asuntos que son competencia del Congreso. Al Centro de Estudios Legislativos corresponde:
 
-### CAPITULO V. DE LA DIRECCION JURIDICA
+I.- Realizar los estudios, análisis y proyectos de iniciativas contenidos en sus programas de investigación legislativa, los cuales desarrollarán las líneas de acción necesarias para la ejecución de la Agenda Legislativa;
+
+II.- Participar en la elaboración de la Agenda Legislativa, de acuerdo a las instrucciones que reciba de la Comisión de Coordinación y Régimen Interno;
+
+III.- Diseñar, organizar y mantener actualizado el Sistema de Información de Estadística Social, Política, Económica y de la Función Pública, a partir de la información generada por instituciones públicas y privadas. La información relativa al Estado y a los Municipios de Nuevo León será prioridad en este sistema de información;
+
+IV.- La elaboración mensual de reportes analíticos, estadísticos y de recomendaciones técnicas derivados de los programas de investigación;
+
+V.- Previa solicitud, asesorar a las Comisiones de Dictamen Legislativo proporcionándoles el apoyo necesario en el análisis y estudio técnico de asuntos de la función legislativa que les hayan sido turnados;
+
+VI.- Apoyar a la Oficialía Mayor en la planeación de consultas a ciudadanos y a especialistas que ésta organice por instrucciones de la Directiva, así como sistematizar y turnar a las Comisiones correspondientes las conclusiones y recomendaciones técnicas que resulten de dichas consultas;
+
+VII.- Proponer a la Comisión de Coordinación y Régimen Interno, a través de su titular, para el mejor cumplimiento de las tareas que le han sido encomendadas, la celebración de convenios de colaboración con instituciones de educación superior, otros Congresos tanto nacionales como extranjeros y demás instituciones públicas o privadas cuya intervención coadyuve en la función legislativa;
+
+VIII.- Proponer, cuando las necesidades así lo determinen, la contratación de servicios externos de consultoría, considerando entre otros, a las instituciones de educación superior e investigación locales, nacionales e internacionales; y
+
+IX.- Colaborar con la Oficialía Mayor en el diseño, organización e implementación del Curso de Inducción a la Función Legislativa.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO V. DE LA DIRECCION DE COMUNICACION SOCIAL
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 68.
 
-El Tesorero del Congreso tendrá las siguientes funciones:
+La Dirección de Comunicación Social es el órgano de apoyo del Congreso responsable de proyectar y fortalecer la imagen institucional del Poder Legislativo del Estado a través de los medios de comunicación. A la Dirección de Comunicación Social le corresponde:
 
-I.- Elaborar el Proyecto de Presupuesto de Egresos del Congreso, bajo los lineamientos que determine el Comité de Administración;
+I.- Ser instancia de apoyo de los Órganos Legislativos en lo que se refiere a la difusión de sus acuerdos, labores y propuestas;
 
-II.- Tramitar ante las autoridades correspondientes los recursos económicos necesarios para cubrir el Presupuesto de Egresos del Congreso, así como los recursos extraordinarios y los que se aprueben por el Pleno en la Ampliación de Partidas;
+II.- Propiciar el flujo ágil de información entre los integrantes de la Legislatura y los medios de comunicación;
 
-III.- Vigilar que los fondos sean aplicados correctamente;
+III.- Planear y ejecutar campañas de difusión y sondeos de opinión de las actividades legislativas, particularmente de la Agenda Legislativa;
 
-IV.- Cubrir las necesidades del Congreso, efectuando los pagos de acuerdo con los programas y presupuestos aprobados;
+IV.- Diseñar, y mantener actualizada la página de internet del Congreso. En este medio electrónico se deberá incluir, entre otra información, la siguiente:
 
-V.- Controlar el ejercicio presupuestario mediante el registro contable, de todos los egresos y elaborar los informes correspondientes;
+a) Información general e histórica del Congreso;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+b) Datos biográficos, académicos y profesionales de los integrantes de la Legislatura;
 
-VI.- Informar trimestralmente sobre el estado de origen y aplicación de los recursos a la Gran Comisión, al Comité de Administración y a la Comisión de Vigilancia del Congreso;
+c) Acuerdos y Decretos dictados por la Legislatura, o una síntesis de los mismos, después de que hayan sido publicados en el Periódico Oficial del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+d) Crónica informativa sintética de las sesiones del Congreso llevadas a cabo por la Legislatura; y
 
-VII.- Efectuar las auditorías que sean necesarias en los Organos Técnicos, Administrativos y de Apoyo, cuando la Gran Comisión o el Comité de Administración lo estimen conveniente;
+e) Legislación estatal conforme a su publicación en el Periódico Oficial del Estado.
 
-VIII.- Intervenir en todos los contratos que afecten el Presupuesto de Egresos; y
+V.- Promover las publicaciones que sean de interés para los integrantes de la Legislatura, de los Grupos Legislativos o para la información de la población;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+VI.- Apoyar el desarrollo de las sesiones del Pleno del Congreso con la grabación de audio y video de las mismas; y
 
-IX.- Las demás que le confieren las disposiciones legales y reglamentarias del Congreso, la Gran Comisión y el Comité de Administración.
+VII.- Apoyar a los Órganos Legislativos en lo relativo a las relaciones públicas del Poder Legislativo.
 
-La Tesorería del Congreso contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-### CAPITULO VI. DE LA DIRECCION DE ASESORIA
+### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 69.
 
-La elaboración del Proyecto de Presupuesto se deberá rendir al Comité de Administración en la primera quincena del mes de noviembre, bajo los criterios que establezca el mismo.
+La Dirección de Informática es el órgano de apoyo del Congreso responsable de implementar el uso y optimización de los recursos tecnológicos de computación e informática en la realización de las actividades legislativas, técnicas y administrativas del Poder Legislativo del Estado. A la Dirección de Informática le corresponde:
 
-### CAPITULO VII. DE LA DIRECCION DE COMUNICACION SOCIAL
+I.- Coordinar el uso de los recursos de informática y computación en las actividades del Congreso, implementando un sistema computacional de archivo;
+
+II.- Utilizar los recursos informáticos del Congreso para el desarrollo de los trabajos legislativos, técnicos y administrativos, mediante la consulta de bases de datos y el acceso a sistemas de información interna y externa;
+
+III.- Desarrollar un sistema eficaz de comunicación y transmisión de información de formato electrónico, mediante la integración de recursos telefónicos, internet, correo electrónico y de otros medios disponibles;
+
+IV.- Asesorar y dar opiniones técnicas en relación a la adquisición y contratación de equipo y programas de cómputo, así como sugerir las políticas y los estándares apropiados para el desarrollo de un sistema de computación e informática integral del Poder Legislativo del Estado;
+
+V.- Proporcionar el apoyo técnico para el diseño y la actualización de la página de internet del Congreso;
+
+VI.- Implementar las medidas necesarias para que los integrantes de la Legislatura así como el personal técnico y administrativo del Congreso utilicen los recursos tecnológicos básicos de computación e informática disponibles;
+
+VII.- Asegurar que el uso de equipo y programas de cómputo que se administran en el Congreso se realice adecuadamente y se ajuste a la legislación correspondiente, particularmente a la relativa a derechos de autor;
+
+VIII.- Evaluar semestralmente las necesidades de asignación, mantenimiento y actualización de equipo y programas computacionales, comunicando sus conclusiones a la Comisión de Coordinación y Régimen Interno;
+
+IX.- Coordinar la prestación del servicio de mantenimiento y la atención de los problemas técnicos de computación que se presenten en el Congreso. En los casos necesarios esta función se realizará mediante servicios externos;
+
+X.- Mantener actualizada, en formato electrónico, en coordinación con la Oficialía Mayor, la legislación estatal;
+
+XI.- Asesorar a las autoridades competentes del Congreso del Estado en lo relativo a la celebración de convenios institucionales de intercambio de información legislativa en formato electrónico; y
+
+XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación del personal del Congreso.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO VII. DE LA COORDINACION DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 70.
 
-El Tesorero del Congreso rendirá además un Informe Anual, que deberá presentarlo al Comité de Administración quien lo someterá al Pleno durante los primeros quince días del mes de febrero.
+La Coordinación de Seguridad es el órgano de apoyo responsable de la seguridad en las instalaciones del Poder Legislativo. A la Coordinación de Seguridad le corresponde:
 
-### CAPITULO VIII. DE LA DIRECCION DE INFORMATICA
+I.- Coordinar la seguridad en las instalaciones del Poder Legislativo de los integrantes de la Legislatura, de los empleados del Congreso y de las personas que se encuentren en este lugar;
+
+II.- Custodiar las instalaciones del Congreso y el patrimonio público que en ellas se contiene;
+
+III.- Colaborar con las áreas administrativas correspondientes en el control de ingreso y egreso de materiales, equipo y mobiliario de la sede del Poder Legislativo; y
+
+IV.- Atender las indicaciones relativas a la seguridad en las instalaciones del Congreso que reciba de los Presidentes de los Órganos Legislativos siguientes:
+
+a) Del Presidente del Congreso, en el Recinto de Sesiones;
+
+b) De la Comisión de Coordinación y Régimen Interno, en las instalaciones del Congreso, a excepción de su Recinto; y
+
+c) De las Comisiones y Comités, durante las sesiones de estos órganos, dentro del área comprendida en las instalaciones del Congreso en la que se encuentren sesionando.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO VIII. DE LA UNIDAD DE ADQUISICIONES
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 71.
 
-En los términos del Artículo 50 de la Ley Orgánica del Poder Legislativo a la Dirección de Administración le corresponde:
+La Unidad de Adquisiciones es el órgano de apoyo responsable de coordinar la adquisición de bienes y la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso. A la Unidad de Adquisiciones le corresponde:
 
-I.- Organizar las labores del Personal del Congreso del Estado, de acuerdo con las disposiciones legales y reglamentarias y aplicando los criterios del Comité de Administración;
+I.- Dar trámite a los requerimientos de adquisiciones y contratación de servicios para la función legislativa, de acuerdo a la legislación vigente y aplicable al Poder Legislativo;
 
-II.- El mantenimiento que garantice el funcionamiento adecuado de los bienes muebles e inmuebles asignados al Congreso;
+II.- Elaborar y mantener actualizado el Padrón de Proveedores;
 
-III.- Proporcionar los servicios de apoyo administrativo que requiera el Congreso;
+III.- Autorizar y realizar las adquisiciones de bienes y contratación de servicios, cuyo monto no exceda de 30 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto. Sobre el ejercicio de esta función informará mensualmente al Tesorero y trimestralmente a la Comisión de Coordinación y Régimen Interno;
 
-IV.- Salvaguardar los bienes asignados al Congreso;
+IV.- Realizar, previa la autorización correspondiente, las adquisiciones de bienes y contratación de servicios, cuyo monto exceda al equivalente a 30 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, de acuerdo al presupuesto autorizado y a los Lineamientos Generales para el Ejercicio del Gasto;
 
-V.- Programar las adquisiciones de los bienes y servicios que requiere el Congreso;
+V.- Coordinarse con el área responsable del almacén del Congreso para que en éste se disponga de una existencia mínima de los materiales y productos de mayor consumo por las diferentes áreas del Congreso;
 
-VI.- Suministrar los recursos materiales que soliciten las unidades administrativas y proporcionar los servicios generales;
+VI.- Hacer recomendaciones para el óptimo uso de materiales, equipo y servicios externos por parte del personal de los Órganos de Soporte Técnico y de Apoyo;
 
-VII.- Llevar un registro de los bienes muebles e inmuebles asignados al Congreso;
+VII.- Llevar el control del vencimiento de obligaciones por parte del Congreso del Estado para su debido cumplimiento;
 
-VIII.- Elaborar los programas de capacitación y adiestramiento al personal administrativo; y
+VIII.- Obtener las mejores cotizaciones posibles, considerando precio y calidad, para las adquisiciones de bienes y contratación de servicios que se realicen en el Congreso. En los casos en que los precios de las adquisiciones de bienes y servicios excedan, al equivalente a 50 veces el salario mínimo vigente en el Área Metropolitana de Monterrey, el titular de la Unidad de Adquisiciones deberá obtener al menos tres cotizaciones;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+IX.- Aplicar las herramientas del control estadístico de calidad en los procesos de la Unidad, particularmente en lo relativo a servicios, precios, prestigio de proveedores en el mercado y control de garantías;
 
-IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Gran Comisión.
+X.- Mantener informados a los titulares de los Órganos del Congreso sobre los criterios y requisitos para la realización de adquisiciones y contratación de servicios; y
 
-La Dirección de Administración contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
+XI.- Coordinar sus actividades con los demás órganos del Congreso para proveer los requerimientos de adquisiciones y servicios con agilidad y oportunidad.
 
 ### CAPITULO I. DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 72.
 
-En los términos del Artículo 50 de la Ley Orgánica del Poder Legislativo, a la Dirección Jurídica le corresponde:
-
-I.- Asesorar en materia jurídica para el ejercicio de sus atribuciones al Congreso del Estado;
-
-II.- Asesorar en los proyectos de Ley, Decretos y Acuerdos que sean materia de trámite legislativo;
-
-III.- A petición de las Comisiones de Dictamen Legislativo y en coordinación con la Oficialía Mayor y la Dirección de Asesoría revisar los dictámenes que se elaboren;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-IV.- Cuando así lo determine la Gran Comisión, representar al Congreso en asuntos civiles, penales, mercantiles, laborales y los demás en que sea parte; y
-
-V.- Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Reglamento y los Titulares de los Organos de Dirección y de Trabajo.
-
-La Dirección Jurídica contará con las unidades administrativas necesarias para el cumplimiento de sus funciones.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 73.
 
-En los términos del Artículo 50 de la Ley Orgánica del Poder Legislativo, a la Dirección de Asesoría le corresponde:
-
-I.- Dar asesoría y apoyo a los Organos de Dirección y de Trabajo del Congreso en cada una de sus funciones;
-
-II.- Elaborar y mantener actualizados los sistemas que permitan programar cada unidad administrativa;
-
-III.- Elaborar y supervisar los programas para la modernización legislativa del Congreso;
-
-IV.- Apoyar a las distintas unidades administrativas en la preparación y actualización de los Manuales de Organización y de Procedimientos para elevar la calidad del trabajo legislativo y administrativo del Congreso;
-
-V.- Coadyuvar en la tarea de los Comités; y
-
-VI.- Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Reglamento y los Titulares de los Organos de Dirección y de Trabajo del Congreso.
-
-La Dirección de Asesoría contará con las áreas que sean necesarias para el cumplimiento de sus funciones.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 74.
 
-En los términos del Artículo 50 de la Ley Orgánica del Poder Legislativo a la Dirección de Comunicación Social le corresponde:
-
-I.- Informar a los medios de comunicación sobre las actividades del Congreso;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Ser instancia de apoyo al Pleno, la Directiva, la Gran Comisión, las Comisiones y a los Comités en lo que se refiere a la difusión de sus acuerdos, labores y propuestas; y
-
-III. Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Reglamento y los Titulares de los Organos de Dirección y de Trabajo del Congreso.
-
-La Dirección de Comunicación Social contará con las áreas que sean necesarias para el cumplimiento de sus funciones.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 75.
 
-En los términos del Artículo 50 de la Ley Orgánica del Poder Legislativo a la Dirección de Informática le corresponde:
-
-I.- Integrar los documentos de consulta, base de datos, procedimientos y sistemas necesarios para el mejor cumplimiento de las atribuciones del Congreso;
-
-II.- Proporcionar a todos los Organismos del Congreso la información y documentación que le soliciten para el apoyo en la realización de sus tareas;
-
-III.- Implementar los sistemas computacionales en las unidades administrativas que el Congreso requiera y entrenar al personal en la operación de los programas y el manejo de equipo;
-
-IV.- Vigilar que se utilicen adecuadamente los equipos de cómputo y procurar el mantenimiento que requieren ya sea de manera directa o mediante contratación de servicio externo; y
-
-V.- Las demás que le asignen la Ley Orgánica del Poder Legislativo, este Reglamento y los Titulares de los Organos de Dirección y de Trabajo del Congreso.
-
-La Dirección de Informática contará con las áreas que sean necesarias para el cumplimiento de sus funciones.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 76.
 
-Los Titulares de los Organos Técnico-Administrativos y de Apoyo, rendirán trimestralmente un informe a la Gran Comisión.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 77.
 
-La estructura y funcionamiento de los Organos Técnico-Administrativos y de Apoyo será definida y regulada por el Manual de Organización que expida la Gran Comisión conforme al Presupuesto de Egresos del Congreso del Estado.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ## TITULO QUINTO. DEL PROCESO LEGISLATIVO
 
@@ -913,7 +1007,7 @@ La estructura y funcionamiento de los Organos Técnico-Administrativos y de Apoy
 
 ###### Artículo 78.
 
-Las sesiones del Congreso por su carácter serán Ordinarias y Extraordinarias y podrán tener las modalidades de Públicas, Secretas, Solemnes y de Colegio Electoral y por acuerdo del Pleno cualquiera de ellas podrá constituirse en Permanente.
+Las sesiones del Congreso por su carácter serán Ordinarias y Extraordinarias y podrán tener las modalidades de Públicas, Secretas y Solemnes, y por acuerdo del Pleno cualquiera de ellas podrá constituirse en Permanente.
 
 ###### Artículo 79.
 
@@ -921,11 +1015,13 @@ Serán Sesiones Ordinarias las que se celebren durante los períodos a que se re
 
 Serán Sesiones Extraordinarias las que se celebren en día distinto a los señalados en el párrafo anterior y deberán ser convocadas por el Presidente de la Directiva y a falta de este por quien deba sustituirlo de acuerdo al Artículo 21 del presente Reglamento.
 
-Las sesiones de la Legislatura serán públicas, excepción hecha de lo dispuesto por los Artículos 80, 81 y 82 de este Reglamento.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Las sesiones del Pleno del Congreso serán públicas, excepción hecha de lo dispuesto por los artículos 81 y 82 del presente Reglamento.
 
 ###### Artículo 80.
 
-Habrá Sesión Secreta cada vez que sea necesario para tratar asuntos que exijan reserva y también cuando lo pida algún Diputado y así lo acuerde el Pleno del Congreso.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 81.
 
@@ -933,7 +1029,7 @@ En Sesión Secreta se tratarán los asuntos previstos en el Artículo 63 Fracci�
 
 I.- Las acusaciones que se hagan contra los miembros de la Legislatura, del Gobernador del Estado, de los Magistrados del Tribunal Superior de Justicia y en general contra los servidores públicos del Estado que gocen fuero constitucional; y
 
-II.- Los asuntos puramente económicos de la Legislatura.
+II.- (DEROGADA, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 82.
 
@@ -957,11 +1053,9 @@ En estas Sesiones se harán los honores a nuestra Enseña Patria y se entonará 
 
 Cuando así lo acuerde el Pleno, dentro de una Sesión Ordinaria o Extraordinaria podrá señalarse un espacio solemne con el propósito de homenajear o rendir reconocimientos a ciudadanos distinguidos. También lo podrán hacer en los asuntos que la Asamblea considere con merecimiento especial.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
-
 ###### Artículo 85.
 
-Cuando el Congreso se reúna para ejercer las facultades que le otorga el Artículo 63 Fracción XV, de la Constitución Política del Estado de Nuevo León, las sesiones respectivas serán de Colegio Electoral.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 86.
 
@@ -971,11 +1065,13 @@ Durante la Sesión Permanente no podrá darse cuenta a ningún otro asunto que n
 
 Resuelto el asunto de la Sesión Permanente se dará por terminada la sesión cuando así lo acordase la Legislatura.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 87.
 
-Las Sesiones de la Diputación Permanente serán también Ordinarias y Extraordinarias. Las primeras, se efectuarán los viernes de cada semana; las segundas cuando el asunto lo requiera y serán convocadas por el Presidente de la Diputación Permanente en los términos del Artículo 85 de la Ley Orgánica del Poder Legislativo.
+Las sesiones de la Diputación Permanente serán también Ordinarias y Extraordinarias, las primeras se efectuarán los viernes de cada semana, salvo lo dispuesto en el artículo 85 de la Ley Orgánica del Poder Legislativo; las segundas, cuando el asunto lo requiera y serán convocadas por el Presidente de la Diputación Permanente.
 
-Todas las sesiones serán públicas, pero cuando así lo acuerde el Pleno de la Diputación Permanente podrán celebrarse sesiones secretas o permanentes, por así requerirlo el asunto en cuestión.
+Todas las sesiones serán públicas. Cuando así lo acuerde el Pleno de la Diputación Permanente, ésta podrá declararse en sesión Permanente, por así requerirlo el asunto en cuestión.
 
 ###### Artículo 88.
 
@@ -991,9 +1087,19 @@ Las sesiones tendrán una duración hasta de tres horas. La Asamblea puede acord
 
 Durante las sesiones podrá haber espacios de receso cuando el Pleno así lo considere oportuno y conveniente para: concertar un Acuerdo Legislativo, integrar debidamente un expediente, modificar un dictamen o cuando algún asunto así lo requiera a juicio de la Asamblea. El tiempo del receso será determinado por el Presidente de la Directiva.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 91.
 
-Toda sesión se sujetará a un orden del día que se aprobará previamente por la Asamblea. Invariablemente se incluirá en ella un punto que conceda el uso de la palabra a los integrantes del Congreso; excepción hecha de la Sesión Solemne en que rinda su Informe Anual el Gobernador Constitucional del Estado.
+Toda sesión se sujetará a un orden del día, que se aprobará previamente por la Asamblea y el cual, con excepción hecha de la sesión solemne en la que el Gobernador rinda su informe anual, invariablemente como mínimo incluirá:
+
+I.- Aprobación del acta de la sesión anterior;
+
+II.- Iniciativas de ley o decreto a presentarse por los Diputados;
+
+III.- Informe de las Comisiones y de los Comités; y
+
+IV.- Asuntos Generales, punto en el que se concederá el uso de la palabra a los Diputados, en el orden en que lo soliciten.
 
 ###### Artículo 92.
 
@@ -1023,7 +1129,7 @@ Al iniciar cada sesión el Primer Secretario pasará lista de asistencia y sólo
 
 ###### Artículo 96.
 
-Si no obstante lo dispuesto en el Artículo 24 fracción XII de este Reglamento, no se logra la asistencia de los faltantes, el presidente dispondrá que de sus dietas se deduzca lo correspondiente a las sesiones a que hayan dejado de concurrir sin causa justificada.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 97.
 
@@ -1039,6 +1145,12 @@ Las sesiones siempre se llevarán a cabo en el Recinto Oficial del Congreso. Sin
 
 En todas las sesiones públicas los asistentes deberán guardar el orden y en todo caso el Presidente de la Directiva podrá hacer uso de sus facultades para asegurar el correcto desahogo de la Sesión.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 99 Bis.
+
+En cualquier estado de una sesión, un diputado podrá pedir la observancia de la Ley Orgánica del Poder Legislativo o de este Reglamento, formulando una moción de orden. Al efecto deberá citar el precepto o preceptos reglamentarios cuya aplicación reclama. Escuchada la moción, el Presidente del Congreso resolverá lo conducente.
+
 ###### Artículo 100.
 
 El Presidente del Congreso abrirá y cerrará las sesiones respectivamente con esta fórmula: "SE ABRE LA SESION" o "SE LEVANTA LA SESION Y SE CITA PARA LA PROXIMA EL DIA___".
@@ -1048,6 +1160,8 @@ El Presidente del Congreso abrirá y cerrará las sesiones respectivamente con e
 Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará los trabajos de la Legislatura con la siguiente declaratoria: "La (Número) Legislatura al Congreso del Estado de Nuevo León "Abre" o "Clausura" hoy (fecha y año) su (1o. o 2o.) Período Ordinario de Sesiones, correspondiente al (primero, segundo o tercer) Año de Ejercicio Constitucional".
 
 ### CAPITULO III. DE LAS DELIBERACIONES
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 102.
 
@@ -1093,13 +1207,17 @@ El dictamen será leído por uno o varios miembros de la comisión que lo presen
 
 La Asamblea podrá acordar aplazar su discusión y aprobación fijando una fecha posterior para ello.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 112.
 
-En la primera de las sesiones para discusión, el Dictamen de la Iniciativa de Ley se conocerá y estudiará en lo general, por capítulos o secciones, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. En la segunda de las sesiones, se discutirá la Iniciativa de Ley en lo particular con los artículos que contenga.
+Todo dictamen relativo a una iniciativa de Ley, se conocerá y discutirá en lo general, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. De aprobarse en lo general, en esa misma sesión, se discutirá la iniciativa de Ley en lo particular, separando los artículos que lo ameriten y solamente éstos se someterán a votación de la Asamblea.
 
-La discusión y aprobación en un Dictamen que no sea de Iniciativa de Ley, se hará en la misma sesión en que este se presente.
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 112 Bis.
+
+El Pleno del Congreso podrá acordar, por mayoría calificada de los Diputados presentes, que en la lectura de un dictamen que contenga un decreto con más de treinta artículos, se lea un extracto de la parte expositiva, sólo cuando el dictamen haya sido entregado a los integrantes de la Legislatura con al menos, cuarenta y ocho horas de anticipación. Los proyectos de Ley, Decreto o Acuerdo contenidos en el dictamen serán leídos invariablemente de manera íntegra.
 
 ###### Artículo 113.
 
@@ -1121,7 +1239,7 @@ Después de la exposición, no habiendo oposición, la Asamblea podrá resolver 
 
 ###### Artículo 117.
 
-El estudio de los dictámenes puede hacerse en la misma sesión con dispensa del trámite señalado en el Artículo 112 de este Reglamento, cuando la urgencia del caso así lo reclame y haya sido pedido por algún Diputado y aprobado por la Asamblea.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 118.
 
@@ -1131,13 +1249,15 @@ Cuando el Ejecutivo del Estado haga uso de la facultad que le concede el Artícu
 
 Formulado el dictamen en el caso del artículo anterior y conocido y resuelto por la Asamblea de conformidad con las disposiciones de este Capítulo, se comunicará al Ejecutivo la resolución que se dicte, para que se proceda en el sentido de la misma.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 120.
 
-Cuando una iniciativa conste de más de treinta artículos, al discutirse en lo general se aprobará por los capítulos o secciones en que la misma esté dividida.
+Cuando un dictámen contenga un proyecto de decreto o ley que conste de más de treinta artículos, se seguirá el procedimiento establecido en el artículo 112 de este Reglamento, sin perjuicio de lo dispuesto por el artículo 112 Bis del propio ordenamiento.
 
 ###### Artículo 121.
 
-La discusión en lo particular se hará separando los artículos que lo ameriten, y solamente éstos serán sometidos a ella, considerándose el resto como aprobados. Para este efecto, los participantes en la discusión señalarán previamente los artículos que formarán parte de ella. En la discusión, y a solicitud de los participantes en la misma, podrán traerse a la vista los documentos que sean necesarios, bastando para hacerlo que lo declare pertinente la Asamblea.
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 122.
 
@@ -1147,9 +1267,9 @@ Bajo la forma de Decreto, el Congreso expedirá las resoluciones que tengan car�
 
 Bajo la denominación de Acuerdo, el Congreso dictará resolución sobre cualquier asunto concreto y específico que sea sometido a su consideración y que no sea Decreto o Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Los Acuerdos Administrativos son las resoluciones del Pleno o de la Gran Comisión sobre asuntos concretos o específicos que solo se comunicarán a los interesados.
+Los Acuerdos Administrativos son las resoluciones del Pleno o de la Comisión de Coordinación y Régimen Interno sobre asuntos concretos específicos que solo se comunicarán a los interesados.
 
 ###### Artículo 124.
 
@@ -1163,25 +1283,43 @@ Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Pe
 
 ### CAPITULO IV. DE LAS VOTACIONES
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 126.
 
-Terminada la lectura del dictamen que presente la Comisión, el Presidente lo someterá al Pleno para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados a favor del dictamen y una lista de los que deseen participar en contra.
+Terminada la lectura del dictamen que presente la Comisión, el Presiente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
 
-Solamente podrán hablar en la misma sesión tres Diputados en pro y tres en contra del sentido de la proposición que se discuta.
+Solamente podrán hablar en la misma sesión tres Diputados en contra y tres a favor del sentido de la proposición que se discuta, con la excepción de que el Pleno del Congreso considere que un asunto requiera más participantes en la Tribuna.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 127.
 
-El Presidente tratará de que las exposiciones de los Diputados que sostienen puntos de vista distintos, sean hechas en forma alternada; y únicamente él podrá interrumpir al Diputado que está en uso de la palabra, exclusivamente para llamarlo al orden si ha faltado a él o violado las disposiciones del presente Reglamento.
+En los debates, el Presidente del Congreso concederá el uso de la palabra en forma alternada a los Diputados que sostengan distintos puntos de vista. Los Diputados sólo podrán ser interrumpidos en sus intervenciones en la Tribuna, por el Presidente del Congreso en los siguientes casos:
+
+I.- Cuando el orador falte al orden o viole las disposiciones del presente Reglamento;
+
+II.- Cuando lo exhorte a que se atenga al tema de discusión;
+
+III.- Cuando le pregunte si acepta contestar alguna interpelación que formule otro diputado;
+
+IV.- Cuando pida a cualquiera de los presentes en las instalaciones del Recinto de sesiones que guarde el orden necesario para el desarrollo de la sesión; y
+
+V.- Cuando no haya quórum para continuar la sesión.
+
+En el supuesto de la fracción III de este artículo, las interpelaciones que se formulen a los Diputados que estén en uso de la palabra, se realizarán con el propósito de establecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento y deberán ser solicitadas al Presidente del Congreso. Quien solicite la interpelación lo hará desde su lugar y en forma que todos los asistentes puedan escucharle. Quedan absolutamente prohibidas las discusiones en forma de diálogo.
 
 ###### Artículo 128.
 
 No se considerará que el expositor falta al orden, cuando critique la actuación de alguna Autoridad en el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 129.
 
-Cuando hayan hablado en dos ocasiones los Diputados que sostengan los puntos de vista diversos, el Presidente preguntará a la Asamblea si considera suficientemente discutido el asunto. Si se resuelve negativamente continuará la discusión, pero bastará que hablen un Diputado en pro y otro en contra, para que el Presidente vuelva a inquirir a la Asamblea sobre si considera suficientemente discutido el asunto, en cuyo caso, pasará de inmediato a la votación respectiva.
+Concluidas las intervenciones a que se refiere el artículo 126 de este Reglamento, el Presidente preguntará a la Asamblea si considera suficientemente discutido el asunto. Si se resuelve negativamente, continuará la discusión, pero bastará que hablen un Diputado en pro y otro en contra, para que el Presidente vuelva a inquirir a la Asamblea sobre si se considera suficientemente discutido el asunto, en cuyo caso, pasará de inmediato a la votación respectiva.
 
-En todo caso la Directiva de la Comisión Dictaminadora podrá inscribir como Oradores a miembros de la Comisión para defender su dictamen, a menos de que el Pleno acuerde que está suficientemente discutido.
+En todo caso, la comisión dictaminadora podrá inscribir como Oradores a miembros de la Comisión para defender su dictamen, a menos de que el Pleno del Congreso acuerde que está suficientemente discutido.
 
 ###### Artículo 130.
 
@@ -1217,41 +1355,49 @@ Todas las Iniciativas o indicaciones del Ejecutivo deberán dirigirse a la Legis
 
 ###### Artículo 135.
 
-Todos los asuntos sobre los que el Congreso deba resolver, se someterán a votación de la Asamblea. Sin embargo, por lo que hace a las determinaciones de mero trámite, al darse cuenta en la sesión con los documentos que los motivan, se formularán los acuerdos en los términos de los Artículos 24 fracción III y 30 fracción VII de este reglamento, y si no se hace valer oposición en la misma sesión, se tendrán por aprobados. En caso contrario se someterán a votación.
+Todos los asuntos sobre los que el Congreso deba resolver, se someterán a votación de la Asamblea. Los Grupos Legislativos podrán designar escrutadores para verificar las votaciones.
 
-Los Grupos Legislativos podrán designar escrutadores para verificar las votaciones.
+Las determinaciones de mero trámite se darán a conocer en sesión con los documentos que los motiven, formulándose los acuerdos respectivos en los términos del artículo 24 fracción III de este Reglamento y, si no se hace valer oposición en la misma sesión, se tendrán por aprobados. En caso contrario se someterán a votación.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 136.
 
-Habrá tres clases de votación: Por cédula, económica y nominal.
+Habrá tres clases de votación:
 
-Por la de Cédula se votarán todos los Decretos o Acuerdos que se refieran a la designación de una persona, para los cargos o funciones cuya elección corresponda al Congreso.
+I.- Por cédula: Para todos los decretos o acuerdos que se refieran a la designación de una persona, para los cargos o funciones cuya elección corresponda al Congreso;
+
+II.- Nominal: Cuando exista un empate en la votación económica o cuando el Pleno decida que el asunto lo amerita; y
+
+III.- Económica: Para las demás proposiciones sobre las que tenga que dictar resolución el Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 137.
 
-Mediante la Económica, se votarán todas las demás proposiciones sobre las que tenga que dictar acuerdo o resolución el Congreso.
-
-La votación Nominal se utilizará cuando exista un empate en la votación económica o cuando el Pleno decida que el asunto lo amerita.
-
-###### Artículo 138.
-
-La votación por Cédula, se llevará a cabo mediante boletas individuales que la Secretaría entregará a los Diputados asistentes, en ella éstos anotarán el sentido en que voten. El Secretario pasará lista de los Diputados asistentes quienes depositarán su boleta en una ánfora transparente colocada para el efecto. El Secretario recogerá del ánfora las boletas sin verlas, posteriormente los Secretarios harán el conteo dando a conocer en voz alta el sentido del voto, haciendo constar el resultado.
-
-###### Artículo 139.
-
-La votación Económica se practicará de pié y levantando la mano los Diputados que estén a favor del asunto; después de la misma manera los que estén en contra y finalmente quienes se abstengan.
-
-###### Artículo 140.
-
-La votación Nominal se recogerá del modo siguiente:
+La Votación Nominal se recogerá del modo siguiente:
 
 I.- Cada miembro de la Legislatura, comenzando por el lado derecho del Presidente y por la fila de abajo, se pondrá de pié y dirá en voz alta su apellido y también su nombre si fuere necesario para distinguirlo de otro, añadiendo la expresión si o no;
 
 II.- Un Secretario anotará los de la afirmativa y otro los de la negativa;
 
-III.- Los miembros de la Directiva votarán al final, primero lo harán por su orden los Secretarios, los Vice-Presidentes y por último el Presidente; y
+III.- Los miembros de la Directiva votarán al final, primero lo harán por su orden los Secretarios, los Vicepresidentes y por último el Presidente; y
 
 IV.- A continuación los Secretarios computarán los votos y comunicarán el resultado conforme a cada lista al Presidente, para que éste haga la declaratoria respectiva.
+
+###### Artículo 138.
+
+La votación por Cédula, se llevará a cabo mediante boletas individuales que la Secretaría entregará a los Diputados asistentes, en ella éstos anotarán el sentido en que voten. El Secretario pasará lista de los Diputados asistentes quienes depositarán su boleta en una ánfora transparente colocada para el efecto. El Secretario recogerá del ánfora las boletas sin verlas, posteriormente los Secretarios harán el conteo dando a conocer en voz alta el sentido del voto, haciendo constar el resultado.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 139.
+
+La votación económica se practicará levantando la mano los Diputados que estén a favor del asunto; después, de la misma manera, los que estén en contra y finalmente quienes se abstengan. Si la Legislatura dispone de equipo electrónico para las votaciones, el Presidente de la Directiva determinará si la votación económica se hace levantando la mano o utilizando el equipo correspondiente.
+
+###### Artículo 140.
+
+(DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
 ###### Artículo 141.
 
@@ -1274,6 +1420,8 @@ El Presidente de la Asamblea tendrá siempre voto de calidad en caso de empate.
 Llegado el momento de la votación el Presidente lo anunciará a la Asamblea y ordenará a los Diputados que se hallen fuera del Salón de Sesiones y dentro del Recinto concurran a votar. Durante ese acto, ninguno de los Diputados podrá salir del Recinto, ni excusarse de participar en la votación a menos que con anterioridad alguno de ellos hubiese manifestado tener interés personal en el asunto.
 
 ### CAPITULO VI. DEL CEREMONIAL
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 143.
 
@@ -1301,19 +1449,21 @@ Cuando se concerte un Acuerdo Legislativo unánimemente para presentar un Proyec
 
 ###### Artículo 146.
 
-En las sesiones, tanto del Pleno como de la Diputación Permanente, el Presidente del Congreso ocupará el lugar central del estrado, a su derecha tomará asiento el Primer Secretario y a su izquierda, dejando un asiento vacío, el Segundo Secretario. El Primer Vice-Presidente tomará asiento a la derecha del Primer Secretario, el Segundo Vice-Presidente a la izquierda del Segundo Secretario. Los Diputados tomarán asiento en sus respectivas curules.
+En las sesiones, tanto del Pleno como de la Diputación Permanente, el Presidente del Congreso ocupará el lugar central del estrado, a su derecha tomará asiento el Primer Secretario, y a su izquierda, el Segundo Secretario. El Primer Vicepresidente tomará asiento a la derecha del Primer Secretario, el Segundo Vicepresidente lo hará a la izquierda del Segundo Secretario. Los demás Diputados integrantes de la Legislatura tomarán asiento en sus respectivas curules.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 147.
 
-Cuando deba asistir el Gobernador del Estado a una Sesión del Congreso, el Presidente nombrará previamente Comisiones integradas por tres Diputados para que lo acompañen de su Despacho al Recinto de Sesiones.
+La Directiva nombrará a dos Comisiones integradas por tres diputados cada una para que reciban y despidan respectivamente al Gobernador del Estado, al Gobernador Electo y Gobernador Saliente así como a los otros invitados de honor cuando asistan a una sesión del Pleno del Congreso.
 
-Cuando se trate de la Protesta, la Comisión acompañará al Gobernador Electo desde su domicilio o lugar donde se encuentre. Al retirarse el Gobernador otra Comisión de igual número de Diputados lo acompañará del Congreso a su Despacho.
-
-Una distinta Comisión acompañará al Gobernador saliente a su domicilio.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 148.
 
-En el Recinto del Congreso el Gobernador tomará asiento a la izquierda del Presidente del Congreso. Si asistiere el Presidente de la República o su Representante, tomará asiento a la izquierda del Gobernador. El Gobernador saliente tomará asiento en su caso, a la izquierda del Presidente de la República o de su Representante, una vez que haya entregado el Poder.
+En las sesiones solemnes, el Presidente del Congreso ocupará el asiento central del nivel superior del estrado, a su derecha se ubicará el Primer Secretario. A la izquierda del Presidente del Congreso se ubicará el Gobernador; a la izquierda de éste el Presidente del Tribunal Superior de Justicia. Los demás miembros de la Directiva se ubicarán también en el nivel superior del estrado, de manera que el Presidente del Congreso quede en el lugar central. Los demás invitados de honor ocuparán los lugares que previamente a la sesión determine la Directiva,
+
+En la ceremonia de Protesta del Gobernador Electo, si asistiere el Presidente de la República o su representante, tomará asiento a la izquierda del Gobernador y luego el Gobernador Electo. A la izquierda de éste se ubicará el Presidente del Tribunal Superior de Justicia. Una vez que se haya rendido la protesta, el Gobernador saliente tomará asiento a la derecha del Presidente del Tribunal Superior de Justicia.
 
 ###### Artículo 149.
 
@@ -1506,3 +1656,17 @@ Cuarto.- La Ciudadana Diputada que al entrar en vigencia el presente decreto pre
 Quinto.- Los expedientes de los asuntos que obren en las actuales Comisiones de Dictamen Legislativo y cuya resolución por parte del Pleno del Congreso no se dé antes del día en que inicie la vigencia del presente Decreto, serán recibidos por la Oficialía Mayor que los entregará a la brevedad posible al Presidente de la Comisión que corresponda, de acuerdo a las competencias de las Comisiones que se establecen en el presente Decreto. El Oficial Mayor notificará por escrito a los Diputados integrantes de la LXVIII Legislatura sobre la asignación realizada en los términos de este artículo.
 
 Sexto.- Se deroga cualquier disposición contraria a lo establecido en el presente decreto.
+
+P.O. 16 DE AGOSTO DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Diputados que a la presente fecha integran la Gran Comisión pasarán a formar parte de la Comisión de Coordinación y Régimen Interno a partir del inicio de la vigencia del presente Decreto. Así mismo, cuando en una Ley, Reglamento o cualquier otra disposición se haga referencia a la "Gran Comisión" se entenderá que se refieren a la "Comisión de Coordinación y Régimen Interno".
+
+Artículo Tercero.- Se abroga el Decreto N° 347 por el que se Crea el Centro de Estudios Legislativos, publicado en el Periódico Oficial del Estado el 24 de octubre de 1994.
+
+Artículo Cuarto.- La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de este Decreto, se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos que conoció.
+
+Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia, a otra, se respetarán en términos de la legislación correspondiente.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
