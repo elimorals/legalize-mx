@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-9-2002-de-la-comision-de-creacion-de-nuevos-62667"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-02-28"
-last_updated: "2002-03-26"
+last_updated: "2002-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-19"
 
 ACUERDO CCNO/9/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA; ASI COMO A LA EXCLUSION TEMPORAL DEL TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL MENCIONADO CIRCUITO, CON SEDE EN LA INDICADA CIUDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de febrero de 2002.
 
@@ -49,7 +49,7 @@ En consecuencia, con fundamento en los preceptos constitucionales y legales invo
 
 ACUERDO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/15/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE MARZO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS PARA EL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, POR EL LAPSO DE DOS MESES, DEL 1 DE ABRIL AL 31 DE MAYO DE 2002.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/20/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2002, SE PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE ASUNTOS NUEVOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA; ASI COMO A LA EXCLUSION TEMPORAL DEL TURNO DE ASUNTOS NUEVOS AL PRIMER TRIBUNAL COLEGIADO DEL MENCIONADO CIRCUITO Y SEDE, POR UN LAPSO DE QUINCE DIAS, DEL 1 AL 15 DE JUNIO DE 2002.</small>
 
 PRIMERO.- Se prorroga el plazo de exclusión del turno de nuevos asuntos establecido en el punto Quinto del Acuerdo General 90/2001 para el Segundo y Tercer Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, por un lapso de treinta días; asimismo se excluye temporalmente del turno de nuevos asuntos al Primer Tribunal Colegiado del Circuito y sede señalados, por un término de quince días.
 
@@ -74,3 +74,9 @@ D.O.F. 26 DE MARZO DE 2002.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
