@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-de-agua-y-drenaje-para-el-distrito-184"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-29"
-last_updated: "1990-01-29"
+last_updated: "1991-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1990-01-05"
 
 REGLAMENTO DEL SERVICIO DE AGUA Y DRENAJE PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE JUNIO DE 1991. REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 5 DE JUNIO DE 1991.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 25 de enero de 1990.
 
@@ -276,9 +276,13 @@ Se considera para los efectos de este Reglamento como disposición indebida de a
 
 El incumplimiento de la orden de entrega o la distracción del contenido del carro tanque, se sancionará conforme a las leyes aplicables.
 
+(REFORMADO, G.O. 3 DE JUNIO DE 1991) (REPUBLICADO, D.O.F. 5 DE JUNIO DE 1991)
+
 ###### ARTICULO 10.
 
-El agua potable que distribuya el Departamento a través de la red o por medio de carros-tanque para consumo doméstico, no podrá ser enajenada, comercializada ni distribuida a nombre o por cuenta de institución alguna que no sea el propio Departamento, o dependencia del mismo.
+El agua potable que distribuya el Departamento a través de la red o por medio de carros tanque para consumo doméstico, no podrá ser enajenada, comercializada ni distribuida a nombre o por cuenta de institución alguna que no sea el propio Departamento, o dependencia del mismo.
+
+Para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se requerirá autorización del Departamento por conducto de la Tesorería y la unidad que tiene a su cargo la operación hidráulica.
 
 ###### ARTICULO 11.
 
@@ -1199,3 +1203,13 @@ SALVADOR ABASCAL CARRANZA
 Representante, Secretario
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 3 DE JUNIO DE 1991.
+
+REPUBLICADO, D.O.F. 5 DE JUNIO DE 1991.
+
+PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación por ser de interés general.
