@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1997-02-22"
+last_updated: "1997-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -1357,7 +1357,7 @@ Para dictarse una orden de aprehensión no será obstáculo la circunstancia de 
 
 Si por datos posteriores el Ministerio Público estimare que ya no es procedente una orden de aprehensión, no ejecutada aún, previa autorización del Procurador General de Justicia, pedirá su revocación, la que se acordará de plano, sin perjuicio de que se continúe la averiguación y de que posteriormente vuelva a solicitarse, si procede.
 
-###### ARTICULO 194
+###### ARTICULO 194.
 
 Cuando se ejecute una orden de aprehensión dictada contra persona que maneje fondos públicos, se tomarán las providencias necesarias para que no se interrumpa el servicio y se haga entrega de los fondos, valores y documentos que tenga en su poder el inculpado, dictándose, entre tanto, las medidas preventivas que se juzguen oportunas para evitar que se sustraiga a la acción de la justicia.
 
@@ -1397,11 +1397,11 @@ Se admitirá como prueba en los términos del artículo 20 fracción V de la Con
 
 ### CAPITULO II. Confesión
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 200.
 
-La confesión es la declaración voluntaria hecha por persona no menor de dieciséis años en su contra, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el Juez o Tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se admitirá en cualquier estado del procedimiento, hasta antes de dictar sentencia irrevocable.
+La confesión es la declaración voluntaria hecha por persona no menor de dieciocho años en su contra, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el juez o tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; se admitirá en cualquier estado del procedimiento, hasta antes de dictar sentencia irrevocable.
 
 ### CAPITULO III. Inspección y Reconstrucción De Hechos
 
@@ -1613,7 +1613,9 @@ En el caso de la fracción I el funcionario que practique las diligencias design
 
 Antes de que los testigos comiencen a declarar se les instruirá de las penas que el Código Penal establece para los que se producen con falsedad o se niegan a protestar o declarar. Esto se podrá hacer hallándose reunidos todos los testigos.
 
-A los menores de dieciséis años, en vez de hacerles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
+A los menores de dieciocho años, en vez de hacerles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
 
 ###### ARTICULO 241.
 
@@ -1813,9 +1815,9 @@ Los tribunales, según la naturaleza de los hechos y el enlace lógico y natural
 
 La confesión deberá reunir los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 1991)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
 
-I. Que sea hecha por persona mayor de dieciséis años, en su contra, con pleno conocimiento, y sin coacción, ni violencia física o moral;
+I. Que sea hecha por persona mayor de dieciochos años, en su contra, con pleno conocimiento, y sin coacción, ni violencia física o moral;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1991)</small>
 
@@ -3035,11 +3037,11 @@ En el caso a que se refiere la fracción III del artículo 418, se remitirá al 
 
 ### CAPITULO II. Menores
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1986)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 467.
 
-La represión de las infracciones a la Ley Penal cometidas por menores de dieciséis años se hará de acuerdo con el Código Tutelar para Menores en el Estado de Zacatecas.
+Las medidas correctivas de las infracciones a la Ley penal cometidas por menores de dieciocho años se hará de acuerdo con el Código Tutelar para Menores en el Estado de Zacatecas.
 
 TITULO DECIMOTERCERO
 
@@ -3289,7 +3291,7 @@ PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vi
 
 P.O. 1 DE MAYO DE 1991
 
-UNICO.- El presente Decreto entrará en vigor a los quince día después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE JULIO DE 1993
 
@@ -3323,4 +3325,14 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 1997
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 1998.
+
+SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
+
+CUARTO.- El censo de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
