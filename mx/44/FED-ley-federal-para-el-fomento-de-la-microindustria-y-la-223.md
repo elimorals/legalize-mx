@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-el-fomento-de-la-microindustria-y-la-223"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1988-01-26"
-last_updated: "1988-01-26"
+last_updated: "1991-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=223&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1987-12-23"
 ---
 # LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL - ANTES, LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA-
 
-LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA
+LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 26 de enero de 1988.
 
@@ -35,13 +35,17 @@ DECRETO
 
 "El Congreso de los Estados Unidos Mexicanos, Decreta:
 
-LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1991)</small>
+
+LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 1o.
 
-La presente Ley es de orden público y de interés social; sus disposiciones se aplican en toda la República y tienen por objeto fomentar el desarrollo de la microindustria, mediante el otorgamiento de apoyos fiscales, financieros, de mercado y de asistencia técnica, así como a través de facilitar la constitución y funcionamiento de las personas morales correspondientes, simplificar trámites administrativos ante autoridades federales y promover la coordinación con autoridades locales o municipales para este último objeto.
+La presente Ley es de orden público y de interés social, sus disposiciones se aplican en toda la República y tienen por objeto fomentar el desarrollo de la microindustria y de la actividad artesanal, mediante el otorgamiento de apoyos fiscales, financieros, de mercado y de asistencia técnica, así como a través de facilitar la constitución y funcionamiento de las personas morales correspondientes, simplificar trámites administrativos ante autoridades federales y promover la coordinación con autoridades locales o municipales para este último objeto.
 
 ###### ARTICULO 2o.
 
@@ -49,13 +53,23 @@ La aplicación de esta Ley en la esfera administrativa corresponde a la Secretar
 
 Cuando en el presente ordenamiento se mencione a "La Secretaría", se entenderá que se trata de la citada Secretaría de Comercio y Fomento Industrial.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se consideran empresas microindustriales las unidades económicas que, a través de la organización del trabajo y bienes materiales o incorpóreos de que se sirvan, se dediquen a la transformación de bienes, ocupen directamente hasta quince trabajadores y cuyas ventas anuales estimadas o reales no excedan de los montos que determine la Secretaría, los cuales se publicarán en el Diario Oficial de la Federación;
+Para los efectos de esta Ley, se entenderá por:
+
+I.- Empresas microindustriales, a las unidades económicas que, a través de la organización del trabajo y bienes materiales o incorpóreos de que se sirvan, se dediquen a la transformación de bienes, ocupen directamente hasta quince trabajadores y cuyas ventas anuales estimadas o reales no excedan de los montos que determine la Secretaría, los cuales se publicarán en el Diario Oficial de la Federación;
+
+II.- Artesanía, a la actividad realizada manualmente en forma individual, familiar o comunitaria, que tiene por objeto transformar productos o substancias orgánicas e inorgánicas en artículos nuevos, donde la creatividad personal y la mano de obra constituyen factores predominantes que les imprimen características culturales, folklóricas o utilitarias, originarias de una región determinada, mediante la aplicación de técnicas, herramientas o procedimientos transmitidos generacionalmente, y
+
+III.- Artesanos, a aquellas personas cuyas habilidades naturales o dominio técnico de un oficio, con capacidades innatas o conocimientos prácticos o teóricos, elaboran bienes u objetos de artesanía.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 4o.
 
-Los empresarios de las microindustrias pueden ser personas físicas o personas morales que se constituyan con apego a las disposiciones de esta Ley, así como de otras leyes en cuanto les sean aplicables sin contravenir a la primera.
+Los empresarios de las microindustrias y los que se dediquen a la actividad artesanal, pueden ser personas físicas o morales que se constituyan con apego a las disposiciones de esta Ley, así como de otras leyes en cuanto les sean aplicables sin contravenir a la primera.
 
 ###### ARTICULO 5o.
 
@@ -73,7 +87,11 @@ I.- Determinar las actividades que sea más conveniente desarrollen las microind
 
 II.- Fomentar la agrupación de empresas de microindustrias para obtener financiamientos, establecer sistemas de ventas y compras en común de materias primas y productos y, en su caso, prestación de servicios de subcontratación y maquila; y
 
-III.- Elaborar programas de difusión, gestión, formación y capacitación empresarial, así como de servicios de extensionismo, para identificar y resolver problemas relacionados con la organización, producción y mercado de las microindustrias.
+III.- Elaborar programas de difusión, gestión, formación y capacitación empresarial, así como de servicios de extensionismo, para identificar y resolver problemas relacionados con la organización, producción y mercado de las microindustrias;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal.
 
 ### CAPITULO II. De los Empresarios Personas Físicas
 
@@ -81,13 +99,17 @@ III.- Elaborar programas de difusión, gestión, formación y capacitación empr
 
 Sólo las personas físicas de nacionalidad mexicana, si satisfacen los requisitos que se establecen en esta Ley, pueden obtener la cédula de microindustria que les permita tener reconocido para sus unidades económicas de producción el carácter de empresas de microindustria y gozar de los beneficios que éste u otros ordenamientos les otorguen.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 9o.
 
-Los empresarios deberán indicar su nombre o, en su caso, la denominación comercial de la empresa, seguidos de las palabras "empresa microindustrial" o las siglas "MI", para su fácil identificación y distinguirlos en el otorgamiento de los beneficios a que se refiere esta ley.
+Los empresarios deberán indicar su nombre o, en su caso, la denominación comercial de la empresa, seguidos de las palabras "empresa microindustrial" o las siglas "MI" y "ART" tratándose de personas físicas se dediquen (sic) a la producción de artesanías, para su fácil identificación y distinguirlos en el otorgamiento de los beneficios a que se refiere esta Ley.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 10.
 
-Cuando un empresario desee transmitir la empresa a otra persona, se deberá solicitar previamente de la Secretaría la inscripción del nuevo empresario en el Padrón y el consecuente otorgamiento de la nueva cédula, para que el adquirente pueda disfrutar de los beneficios establecidos para las microindustrias.
+Al cancelarse la inscripción y la cédula, el empresario no podrá seguir utilizando el término "empresa microindustrial" o su sigla "MI", y "ART", en su caso, ni solicitar y obtener los beneficios que se conceden a las empresas microindustriales, quedando obligado a devolver la cédula a la Secretaría dentro de un plazo de 15 días hábiles.
 
 ###### ARTICULO 11.
 
@@ -101,9 +123,11 @@ La propia Secretaría comunicará a las autoridades correspondientes la cancelac
 
 Los individuos de nacionalidad mexicana que deseen asociarse para constituir una persona moral que, como se prevé en el artículo 4o., pueda ser considerada como empresa microindustrial, podrán hacerlo adoptando la forma de sociedad de responsabilidad limitada que regula la Ley General de Sociedades Mercantiles, con las modalidades que prevé el presente Capítulo, sin perjuicio de que puedan adoptar otra forma legal.
 
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 13.
 
-Las sociedades de que trata el artículo anterior existirán bajo una denominación o una razón social que se formará con el nombre de uno o más socios. La denominación o la razón social irán inmediatamente seguidas de las palabras "Sociedad de Responsabilidad Limitada Microindustrial" o de su abreviatura "S. de R. L. MI". La omisión de este requisito sujetará a los socios a la responsabilidad que establece el artículo 25 de la Ley General de Sociedades Mercantiles.
+Las sociedades de que trata el artículo anterior existirán bajo una denominación o una razón social que se formará con el nombre de uno o más socios. La denominación o razón social irán inmediatamente seguidas de las palabras "Sociedad de Responsabilidad Limitada Microindustrial" o de su abreviatura "S. de R. L. MI.", y de las siglas "ART" tratándose de personas morales que se dediquen a la producción de artesanías. La omisión de este requisito sujetará a los socios a la responsabilidad que establece el artículo 25 de la Ley General de Sociedades Mercantiles.
 
 ###### ARTICULO 14.
 
@@ -143,6 +167,10 @@ Una vez obtenido el visto bueno, las modificaciones deberán ser inscritas en el
 
 La Secretaría de Comercio y Fomento Industrial integrará el Padrón Nacional de la Microindustria con los datos de estas empresas. En la elaboración y manejo del Padrón podrán participar las autoridades estatales y municipales, en los términos de los acuerdos de coordinación que se celebren conforme al capítulo VII de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1991)</small>
+
+El Padrón contará con una sección para las personas físicas y morales que se dediquen a la producción de artesanías.
+
 ###### ARTICULO 21.
 
 Las empresas Microindustriales que figuren en el Padrón, recibirán los apoyos y estímulos que corresponda otorgárseles conforme a esta Ley, a la Ley de Ingresos de la Federación y a las demás disposiciones legales y administrativas que los establezcan.
@@ -152,6 +180,10 @@ Las empresas Microindustriales que figuren en el Padrón, recibirán los apoyos 
 La cédula de microindustria que expida la Secretaría o las autoridades en las que tal atribución se delegue, acreditará que la empresa persona física o moral microindustrial figura en el Padrón, y que se encuentran satisfechos los requisitos relativos a registros, licencias o autorizaciones, que en la propia cédula o en sus anexos se indiquen.
 
 A las personas que soliciten la inscripción en el Padrón Nacional de la Microindustria, se les otorgará, una vez satisfechos los requisitos, la cédula correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1991)</small>
+
+El número de la cédula de microindustria, así como las siglas "ART", podrán ir impresas en los productos artesanales.
 
 ###### ARTICULO 23.
 
@@ -255,6 +287,18 @@ VIII.- En general, proponer las medidas que se estimen apropiadas para el foment
 
 La Comisión podrá crear grupos de trabajo a nivel nacional o regional, para el estudio y análisis de temas relacionados con el fomento de la microindustria.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 1991)</small>
+
+IX.- Fomentar la producción de artesanías, para lo cual podrá:
+
+A). Formular las recomendaciones pertinentes a las dependencias y entidades de la Administración Pública Federal involucradas, con el propósito de consolidar y ampliar los niveles de productividad de la actividad artesanal; facilitar el abastecimiento de los insumos necesarios para el desarrollo de ésta; gestionar los financiamientos que correspondan y promover la comercialización directa de los productos artesanales;
+
+B). Proponer los criterios para otorgar los certificados de origen, así como las normas mínimas de calidad que deben cumplir las artesanías para su exportación;
+
+C). Promover la celebración de acuerdos de coordinación con las entidades federativas, para fomentar la producción de artesanías, involucrando la participación de organismos especializados en la materia, y
+
+D). Propiciar la concentración regional de la producción artesanal con el fin de facilitar su promoción, a través de la celebración de ferias y exposiciones artesanales, a nivel nacional e internacional, conforme a las disposiciones aplicables.
+
 ###### ARTICULO 38.
 
 La Comisión se reunirá mediante convocatoria de su presidente, sus decisiones se tomarán por mayoría de votos de los miembros asistentes, teniendo el presidente voto de calidad en caso de empate.
@@ -338,3 +382,9 @@ TERCERO.- El Ejecutivo Federal dispondrá lo necesario para que se proceda a con
 México, D. F., a 23 de diciembre de 1987.- Dip. David Jiménez González, Presidente.- Sen. Armando Trasviña Taylor, Presidente.- Dip. Antonio Sandoval González, Secretario.- Sen. Alberto E. Villanueva Sansores, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 22 DE JULIO DE 1991.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
