@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2001-02-03"
+last_updated: "2001-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. LA PRESENTE REFORMA NO ES APLICABLE A ESTE CODIGO, TODA VEZ QUE EL CONTENIDO DEL ARTICULO SEXTO TRANSITORIO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO HACE REFERENCIA A UN DECRETO 16410 MISMO QUE NO COINCIDE CON EL CONTEXTO A QUE ALUDE.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -9361,6 +9359,10 @@ Si fueren varias las deudas sujetas a compensación, se seguirá, a falta de dec
 
 El derecho de compensación puede renunciarse, ya expresamente, ya por hechos que manifiesten de un modo claro la voluntad de hacer la renuncia.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Este derecho será irrenunciable cuando se trate de créditos con garantía hipotecaria.
+
 ###### Art. 1704.
 
 El fiador, antes de ser demandado por el acreedor, no puede oponer a éste la compensación del crédito que contra él tenga, o con la deuda del deudor principal.
@@ -11199,7 +11201,9 @@ I. En cuanto al importe de las rentas:
 
 a) No podrá exceder del doce por ciento anual sobre el valor fiscal que reporte el inmueble;
 
-b) Cuando no exista valor fiscal o éste no se hubiese actualizado durante los últimos tres años, el importe de la renta no podrá exceder del diez por ciento del valor comercial del inmueble; y
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
+b) Cuando no exista valor fiscal o éste no se hubiese actualizado durante los últimos tres años, el importe de la renta no podrá exceder del diez por ciento anual del valor comercial del inmueble; y
 
 c) Cuando para la edificación o reconstrucción del inmueble materia del arrendamiento se hubiese obtenido financiamiento preferencial para su empleo en esos fines, el importe de la renta será fijado de acuerdo a los programas y criterios del mismo;
 
@@ -13913,11 +13917,23 @@ La hipoteca constituida por testamento, puede tener por objeto mejorar un crédi
 
 Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efectos contra tercero si no se hace constar en el Registro Público de la Propiedad, por medio de una inscripción nueva, de una cancelación total o parcial o de una anotación, según los casos.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 2557.
 
-El crédito hipotecario en favor de acreedor cierto, puede cederse en todo o en parte, siempre que la cesión se haga constar en el primer testimonio de la escritura en que se constituyó, notificando al deudor y anotándose en el Registro Público de la Propiedad. Cuando el cedente administre el crédito no será necesaria la notificación ni la anotación.
+La cesión total o parcial de los créditos con garantía hipotecaria se sujetará a las siguientes reglas:
 
-Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+I. El acreedor podrá ceder el crédito con garantía hipotecaria, sin necesidad de satisfacer requisito alguno cuando conserve la administración del mismo;
+
+II. Si el cedente deja de llevar la administración de los créditos el cesionario debe notificar la cesión al deudor por escrito, señalando quien será el nuevo acreedor y, en su caso, el domicilio para recibir el pago dentro del lugar donde se estuviere realizando antes de la cesión;
+
+III. Derivado de la cesión no podrán variarse las condiciones para el cumplimiento de las obligaciones del deudor, sin su consentimiento, salvo lo dispuesto en la fracción anterior;
+
+IV. Será competente para conocer de los juicios que se originen con motivo del crédito con garantía hipotecaria, el juez del lugar donde se encuentre el inmueble;
+
+V. Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro; y
+
+VI. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
 ###### Art. 2558.
 
@@ -14070,6 +14086,12 @@ VII. Cuando por consolidación, el propietario del bien hipotecado adquiera la h
 VIII. Cuando por confusión, el acreedor adquiera el bien hipotecado; y
 
 IX. Cuando se extinga el derecho del constituyente de la hipoteca sobre el bien gravado.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Art. 2581 bis.- El pago anticipado, total o parcial, de los préstamos con garantía hipotecaria para la adquisición de vivienda, obliga al acreedor a recibirlo, sin que sea exigible al deudor el cumplimiento de prestaciones de carácter económico por concepto de prepago, sea cual fuere su denominación.
+
+El pago anticipado de préstamos con intereses se imputará a capital en cuanto no hubiere intereses vencidos y no pagados.
 
 ###### Art. 2582.
 
@@ -17014,3 +17036,17 @@ CUARTO: Respecto a lo señalado en el artículo 113 de la presente Ley, el Ejecu
 QUINTO: El Reglamento del Registro Público de la Propiedad del Estado de Jalisco seguirá vigente en todo lo que no se oponga a la presente Ley en tanto se expide el nuevo reglamento.
 
 SEXTO: Se deroga del Transitorio Cuarto del Código Civil del Estado de Jalisco, aprobado mediante decreto número 16410 así como las disposiciones en él mencionadas.
+
+P.O. 13 DE MARZO DE 2001.
+
+DECRETO 13954
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Jalisco.
+
+SEGUNDO. Las reformas que mediante el presente decreto se aprueban sólo serán aplicables respecto a los créditos que se contraten con posterioridad a su entrada en vigor.
+
+P.O. 13 DE MARZO DE 2001.
+
+DECRETO 18914
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
