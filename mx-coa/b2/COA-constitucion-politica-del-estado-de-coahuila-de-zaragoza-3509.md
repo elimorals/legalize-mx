@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1989-01-13"
+last_updated: "1990-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -258,17 +258,29 @@ Del Origen y División del Poder.
 
 El Poder Público emana del pueblo y se instituye para su beneficio. El pueblo, en quien reside la soberanía del Estado, tendrá siempre el derecho de nombrar, conforme a las leyes, a sus representantes o depositarios de los Poderes Públicos, los cuales ejercerán sus funciones con arreglo a la ley.
 
-(REFORMADO, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 27.
 
-El sufragio popular es un derecho inherente a la calidad de ciudadano que se ejercitará con arreglo a las prescripciones de esta Constitución y de la Ley.
+El sufragio popular es una prerrogativa y una obligación inherente a la calidad de ciudadano, que se ejerce con arreglo a las prescripciones de esta Constitución y de la Ley, para participar en la integración de los órganos representativos de elección popular del Estado y los municipios.
 
-Corresponde al Gobierno del Estado, la preparación, desarrollo y vigilancia de los procesos electorales en los que el sufragio se hace valer.
+El sufragio es universal, libre, secreto, directo, personal e intransferible.
 
-La Ley determinará los organismos que tendrán a su cargo estas funciones y la debida corresponsabilidad de los partidos políticos y de los ciudadanos.
+Es derecho de los ciudadanos constituir partidos políticos y pertenecer a ellos.
 
-Asimismo, establecerá los medios de impugnación para garantizar que los actos de los organismo electorales se realicen conforme a derecho y creará un tribunal que tendrá la competencia que la propia Ley determine. Sus resoluciones serán obligatorias e inatacables, pero podrán ser modificadas por el Colegio Electoral, que será la instancia definitiva en la calificación de las elecciones.
+Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son organizaciones de interés público, fundamentales para la participación política. Su creación y el ejercicio de sus actividades son libres dentro del respeto a la Constitución y a la Ley. Su estructura interna y su funcionamiento deberán ser democráticos. La Ley determinará las formas específicas de su intervención en los procesos electorales.
+
+La elección es la más pura expresión de la forma de gobierno democrático. Su preparación, desarrollo y vigilancia, son funciones del Estado que se ejercen por los Poderes Legislativo y Ejecutivo, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la Ley. Estas funciones se realizarán a través de un organismo público dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, imparcialidad, objetividad y profesionalismo, serán principios rectores en el ejercicio de este organismo.
+
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones. Contará en su estructura con los demás órganos que la Ley determine para prestar la función electoral. Los ciudadanos formarán las meses directivas de las casillas.
+
+Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un tribunal autónomo, que será de naturaleza jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+El Tribunal Estatal Electoral tendrá la competencia y organización que determine la Ley, funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración, contra sus resoluciones no procederá juicio ni recurso alguno, pero aquellas que se dicten con posterioridad a la jornada electoral sólo podrán ser modificadas o revocadas por el Colegio Electoral, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo cuando este sea contrario a derecho.
+
+Los magistrados del Tribunal deberán satisfacer los requisitos que señale la Ley, que no podrán ser menores a los que esta Constitución exige para ser magistrado del Tribunal Superior de Justicia del Estado. Serán nombrados por el Congreso del Estado de entre los propuestos por el Ejecutivo.
 
 ###### Artículo 28.
 
@@ -434,11 +446,11 @@ Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Esta
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 46.
 
-La Legislatura tendrá dos períodos ordinarios de Sesiones. El primero se abrirá el 15 de noviembre y terminará el 15 de marzo del siguiente año. El segundo comenzará el 1o. de junio y terminará el 15 de julio. Estos períodos serán improrrogables.
+La Legislatura tendrá dos períodos ordinarios de sesiones cada año. El primero se abrirá el 15 de octubre y terminará el 31 de diciembre. El segundo comenzará el 15 de abril y concluirá el 30 de junio. Estos períodos serán improrrogables.
 
 ###### Artículo 47.
 
@@ -1096,7 +1108,7 @@ VII. Presentar al Congreso del Estado, dentro de los primeros 30 días del prime
 
 VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
-IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad públicas en todo el Estado, haciendo respetar las garantías individuales.
+IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad pública en todo el Estado, haciendo respetar las garantías individuales.
 
 X. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
 
@@ -1492,21 +1504,17 @@ El territorio del Estado se divide en distritos judiciales, para expeditar la ad
 
 Las Municipalidades conservarán el territorio que actualmente tienen; pero el Congreso podrá modificar su extensión, cuando lo juzgue conveniente, y aumentar o disminuir el número de ellas.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 124.
 
 Los Municipios, constituyen entidades autónomas, con personalidad jurídica y patrimonio propio, y, por consiguiente, son sujetos de derechos y obligaciones.
 
-Cada Municipio estará administrado por un Ayuntamiento, que será nombrado por elección popular directa y que se renovará en su totalidad cada tres años. Los Ayuntamientos iniciarán sus funciones el primero de enero del año siguiente al de su elección y entre ellos el Gobierno del Estado, no habrá ninguna autoridad intermedia.
+Cada municipio estará administrado por un ayuntamiento que será renovado en su totalidad cada tres años por elección popular directa y no habrá ninguna autoridad intermedia entre este y el Gobierno del Estado. Iniciará sus funciones el día miércoles de la segunda semana de diciembre del año de la renovación y las terminará el día martes de la segunda semana del mes de diciembre del año en que concluya el período constitucional.
 
-Los Ayuntamientos se integrarán con un Presidente, dos Síndicos y el número de Regidores que determine la Ley.
+Los ayuntamientos se integrarán por un presidente, un síndico y el número de regidores que determine la Ley, que en ningún caso podrá ser menor de siete, ni mayor de dieciséis. Asimismo, contarán con un número de suplentes igual al número de munícipes.
 
-En el caso de los Regidores, la elección será de dos formas: conforme al principio de votación mayoritaria relativa y según el principio de representación proporcional, en el número que establezca la Ley.
-
-En ningún caso, el número de munícipes podrá ser menor de seis ni mayor de quince; y para determinar los que deben corresponder a cada Ayuntamiento, se tomará como base el número de habitantes del Municipio respectivo, según el último censo de población.
-
-La ley establecerá las bases generales, la fórmula electoral y el procedimiento de asignación de los Regidores electos por el principio de representación proporcional.
+La Ley introducirá el principio de representación proporcional en la elección de ayuntamientos de todos los municipios del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1520,11 +1528,11 @@ Será Presidente del Ayuntamiento, aquel de sus miembros que haya sido electo co
 
 Las faltas temporales del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 127.
 
-Los Síndicos se denominarán primero y segundo, según el orden de su elección, y tendrán iguales derechos y obligaciones.
+El secretario del ayuntamiento desempeñará aparte de las funciones que le encomienda la Ley Reglamentaria, las funciones inherentes a las del síndico cuando este se encuentre ausente o impedido para desarrollar sus funciones, siempre que no sea declarado vacante el cargo.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1680,19 +1688,23 @@ XXI. Impulsar, conforme a sus facultades y posibilidades, la agricultura, ganade
 
 XXII. Los demás que les señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 132.
 
-Cuando hecha la elección de un Ayuntamiento no se presentaren a tomar posesión de sus cargos los electos, el Congreso del Estado designará de entre los vecinos del Municipio de que se trate, un concejo Municipal para que interinamente se haga cargo de la autoridad, y expedirá la Convocatoria para nueva elección.
+Cuando hecha la elección de un ayuntamiento, no se presentaren a rendir protesta los propietarios electos por el principio de mayoría relativa, el Congreso del Estado mandará llamar a los suplentes que con ese carácter figuren en la lista presentada por el partido político que obtuvo mayoría, y de entre ellos designará a quienes ocuparán los cargos de presidente, regidores y síndico, respectivamente.
 
-Si sólo hubieren dejado de presentarse algunos de sus miembros a otorgar la protesta, el Congreso nombrará substitutos.
+En igual forma se cubrirán las vacantes de que se trate, si solo hubieren dejado de presentarse algunos de los miembros del ayuntamiento.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+Sin un regidor de representación proporcional no se presenta a tomar posesión de su cargo, el Congreso del Estado mandará llamar al que siga en el orden dentro de la lista de regidores que figuraron en la planilla que fue propuesta por el partido político de que se trate.
+
+En caso de que la vacante se presentare con posterioridad a la toma de protesta, renunciaren o faltaren alguno o algunos de los miembros del ayuntamiento, se estará a lo dispuesto en los párrafos anteriores, excepción hecha de lo que dispone el Artículo 126.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
 
 ###### Artículo 133.
 
-Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la ley para la renovación de servidores públicos municipales o cuando fuere declarada nula, se procederá de acuerdo con la primera parte del artículo anterior, y constituido el Ayuntamiento como se previene, dará inmediata cuenta al Ejecutivo para que se convoque desde luego a nuevas elecciones.
+Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la Ley para la renovación de servidores públicos municipales, o cuando fuere declarada nula, el Congreso del Estado designará de entre los vecinos del municipio de que se trate, un concejo municipal, para que interinamente se haga cargo de la autoridad, y constituido el ayuntamiento como se previene, dará inmediata cuenta al Ejecutivo, para que convoque desde luego a elecciones.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1700,7 +1712,9 @@ Cuando por cualquier circunstancia no se haya verificado la elección de muníci
 
 El Congreso del Estado, por acuerdo de las dos terceras partes del total de sus integrantes y por una causa considerada como grave en los ordenamientos legales aplicables, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato de alguno de los munícipes, los cuales, en todo caso, tendrán derecho a que se les dé oportunidad para rendir pruebas y alegar, en la forma que establezcan los ordenamientos legales aplicables.
 
-En caso de declararse desaparecido un Ayuntamiento, o de falta absoluta de la mayoría de sus miembros, si conforme a lo establecido en esta Constitución y demás ordenamientos legales aplicables, no procediere la celebración de nuevas elecciones, el Congreso del Estado designará entre los vecinos del municipio de que se trate, un Concejo Municipal, que concluirá el período correspondiente.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1990)</small>
+
+En caso de declararse desaparecido un ayuntamiento, si conforme a lo establecido en esta Constitución y demás ordenamientos legales aplicables, no procediere la celebración de nuevas elecciones, el Congreso del Estado, designará entre los vecinos del municipio de que se trate, un concejo municipal, que concluirá el período correspondiente.
 
 Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, se procederá con arreglo a la Ley.
 
@@ -1824,9 +1838,7 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO III
-
-De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
+### CAPITULO III. DE LAS GARANTIAS DE ACCESO Y EJERCICIO DE LA FUNCION JURISDICCIONAL
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2607,3 +2619,17 @@ Los Artículos 138 y 151 serán aplicables a partir de las nuevas designaciones 
 P.O. 13 DE ENERO DE 1989.
 
 UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE JUNIO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+Estas Reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, excepción hecha del Artículo 124 en cuanto a la fecha de renovación de Ayuntamientos, que iniciará su vigencia hasta el mes de diciembre de mil novecientos noventa y tres.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos electos para el próximo período Constitucional, durarán en sus funciones hasta el día martes de la segunda semana del mes de diciembre de mil novecientos noventa y tres.
+
+###### ARTICULO TERCERO.
+
+La LII Legislatura iniciará sus funciones el día 15 de noviembre de 1991 y las concluirá el 14 de octubre de 1994.
