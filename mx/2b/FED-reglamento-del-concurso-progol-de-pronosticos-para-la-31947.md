@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2003-06-18"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -145,9 +145,15 @@ El boleto deberá contener los siguientes datos:
 
 6.- El término de caducidad del derecho para cobrar el premio correspondiente es de 60 (sesenta) días naturales, contados a partir del día siguiente de la celebración del concurso.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 17o.
 
 Pronósticos a través de su sistema electrónico de venta de apuestas en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas participantes.
+
+El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, el mismo día que se efectúe el cierre de ventas del concurso y previo a la celebración del primero de los partidos de fútbol programados.
+
+A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del primero de los partidos de fútbol programados, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del concurso, la auditoría de la selección de ganadores.
 
 ### Capítulo IV. Selección de ganadores
 
@@ -157,13 +163,15 @@ Todos los concursos se verificarán en un lugar al cual tenga libre acceso el p�
 
 Pronósticos publicará en diarios de circulación importante, al siguiente día al que se hubiere verificado el concurso y obtenido la selección de ganadores, las combinaciones ganadoras de la quiniela y el importe de la premiación por quiniela sencilla para cada una de las categorías establecidas.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 19o.
 
-Conocidos los resultados de los partidos de fútbol base de un concurso o determinados por sorteo en la forma en que se indica en el capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo, tercero y cuarto premios. Estos se determinarán de acuerdo con la información contenida en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias. A este acto se le denomina Selección de Ganadores definido en los términos del punto 13 del artículo 3o. de este Reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y dos funcionarios que designe el Director General de la Institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
+Conocidos los resultados de los partidos de fútbol base de un concurso o determinados por sorteo en la forma en que se indica en el capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores del primero, segundo, tercero y cuarto premios. Estos se determinarán de acuerdo con la información contenida en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias. A este acto se le denomina Selección de Ganadores definido en los términos del punto 13 del artículo 3o. de este reglamento. Concluida la celebración del concurso e identificadas las quinielas ganadoras, se levantará acta en la que se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento para todos los efectos legales.
 
-El Director General hará la designación de los funcionarios a que se hace referencia en el párrafo anterior atendiendo al siguiente criterio: el primero de ellos será designado de entre los servidores públicos que ocupan cargos de los dos niveles jerárquicos inmediatamente inferiores al Director General y el segundo de entre los servidores públicos que ocupen los niveles tercero y cuarto inferiores al del Director General.
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el desarrollo y la celebración del concurso, un representante de la Dirección Técnica, uno del órgano interno de control y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo anterior.
+Estarán presentes también en el desarrollo y la celebración del concurso, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
 
 Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
 
@@ -253,9 +261,11 @@ El importe de los premios caducos, se llevará a la cuenta de reserva y posterio
 
 Sólo por caso fortuito o fuerza mayor, Pronósticos suspenderá o cancelará un concurso ya iniciado. En este supuesto, la Institución reembolsará a los interesados el importe de sus boletos, sin incurrir en ulterior responsabilidad, contra la entrega del boleto correspondiente.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 33o.
 
-En los términos establecidos por el artículo 29o. del presente Reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el sorteo respectivo prescribirá en un plazo de 1 (un) año contado a partir del siguiente día de la fecha de celebración del sorteo a que se refiere el artículo 18o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
+En los términos establecidos por el artículo 29o. del presente Reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el concurso respectivo prescribirá en un plazo de 1 (un) año contado a partir del siguiente día de la fecha de celebración del concurso a que se refiere el artículo 18o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
 
 ## Transitorios
 
@@ -268,3 +278,11 @@ El presente Reglamento fue revisado y aprobado en su contenido por la Secretarí
 México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2004.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
