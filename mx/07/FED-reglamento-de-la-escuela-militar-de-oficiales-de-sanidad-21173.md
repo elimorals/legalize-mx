@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-oficiales-de-sanidad-21173"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2001-05-16"
+last_updated: "2004-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE OFICIALES DE SANIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -899,17 +899,25 @@ El personal en instrucción que cause baja por situarse en lo establecido en el 
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos, Premios y Recompensas
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU DENOMINACION [N. DE ADICIONADA], D.O.F. 16 DE AGOSTO DE 2004)</small>
+
+### CAPÍTULO ÚNICO. De los Títulos, Certificados y Patentes
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 74.
 
-El personal en instrucción al terminar satisfactoriamente sus estudios y al aprobar el examen profesional en el plantel obtendrá:
+El personal en instrucción que termine satisfactoriamente los estudios y apruebe el examen profesional en el plantel, obtendrá:
 
-I. Título de Técnico Superior en Enfermería Militar;
+I. Certificado de Estudios;
 
-II. Certificado de estudios, y
+II. Título de Técnico Superior en Enfermería Militar;
 
-III. Patente de Subteniente de Sanidad.
+III. Grado de Subteniente de Sanidad;
+
+IV. Patente, y
+
+V. Gafete distintivo del curso.
 
 ###### ARTÍCULO 75.
 
@@ -937,7 +945,7 @@ IV. Exento de presentar examen final ordinario al personal en instrucción que o
 
 ###### ARTÍCULO 79.
 
-El personal en instrucción que termine satisfactoriamente sus estudios, además de lo establecido en este Reglamento recibirá gafete distintivo de la carrera o curso correspondiente.
+(DEROGADO, D.O.F. 16 DE AGOSTO DE 2004)
 
 ## TÍTULO OCTAVO. Disposiciones Complementarias
 
@@ -1008,3 +1016,11 @@ SEGUNDO.- Se abrogan los Reglamentos siguientes: del Colegio de Defensa Nacional
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE AGOSTO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
