@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "1995-04-10"
+last_updated: "2000-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -457,7 +457,7 @@ El Oficial Mayor del Supremo Tribunal de Justicia, tiene las siguientes atribuci
 
 I.- Auxiliar al Secretario de Acuerdos en todos los asuntos que se le encomienden;
 
-II.- Llevar, en unión del Administrador, un control sobre el ejercicio del Presupuesto y tramitar el pago de los libramientos que deban efectuarse conforme a la partidas de egresos correspondientes;
+II.- Llevar, en unión del Administrador, un control sobre el ejercicio del Presupuesto y tramitar el pago de los libramientos que deban efectuarse conforme a las partidas de egresos correspondientes;
 
 III.- Tener bajo su cuidado y responsabilidad el archivo relativo al personal del Poder Judicial;
 
@@ -989,7 +989,7 @@ Los servidores públicos del Poder Judicial del Estado tendrán derecho a dos pe
 
 Los períodos de vacaciones de los Magistrados y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas de Circuito serán fijados en forma tal que no sufra perjuicio el despacho de los negocios de su competencia.
 
-No podrán disfrutar de vacaciones simultáneamente más de cinco Magistrados del Supremo Tribunal.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
 
 ###### ARTICULO 108.
 
@@ -1062,3 +1062,11 @@ Renato Vega Alvarado
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Francisco C. Frías Castro
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE JUNIO DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
