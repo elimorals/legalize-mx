@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-economico-del-estado-de-baja-california-sur-2928
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "1995-12-20"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de diciembre de 1995.
 
@@ -142,6 +142,56 @@ V.- Condonación del pago de derechos por inscripción en el Registro Público d
 VI.- Reducción en el pago de derechos por expedición de licencias de construcción y por conexión a las redes de agua potable y alcantarillado; y
 
 VII.- El acreditamiento del monto total de adquisición de los predios donde el sujeto beneficiario vaya a realizar sus actividades económicas, contra el pago de los derechos de cooperación que le correspondería cubrir por la ejecución de obras públicas que realice el Estado o Municipio en dichos predios.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+C.- En todas las declaraciones que el contribuyente presente para el pago del impuesto sobre nóminas en la Secretaría de Finanzas, deberá precisar, en relación a los discapacitados, la cantidad de trabajadores por los cuales aplica la condonación, el monto mensual de sus remuneraciones, el importe condonado y el monto del impuesto resultante a pagar, utilizando para el efecto, los espacios preestablecidos en la forma oficial autorizada.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+E.- Las empresas beneficiadas con este estímulo fiscal, deberán llevar un registro especial y por separado en el que se consigne el monto de erogaciones respecto de las cuales no se pagará el impuesto sobre nóminas y los conceptos por los que se efectuaron tales erogaciones.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+D.- Este estímulo fiscal se otorgará directamente por la Secretaría de Finanzas sin mayores requisitos que cumplir con lo señalado en el artículo 8B de la presente Ley.
+
+La Secretaría de Finanzas tendrá la facultad de verificar en cualquier momento la información que le suministren las empresas que se acojan a este estímulo. Las empresas que se encuentren en este supuesto deberán otorgar las facilidades necesarias para la práctica de visitas de inspección.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+A.- Además de los casos previstos para la condonación del impuesto sobre nóminas en el artículo 9 fracciones I. a) II. a) y III. a). de esta Ley, se condonará este impuesto a favor de las empresas nacionales y extranjeras que tengan o establezcan relación laboral con personas discapacitadas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+B.- Para la obtención de la condonación del impuesto sobre nóminas aludido, las empresas deberán acompañar en la primera declaración para pagar este impuesto que se causará en el momento que se realicen las erogaciones por el trabajo personal subordinado del discapacitado, lo siguiente:
+
+I.- Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas discapacitadas, expresando el nombre en cada una de ellas y las condiciones de dicha relación, y
+
+II.- Certificado que acredite la incapacidad parcial permanente, expedido por el Instituto Mexicano del Seguro Social, o del Sistema para el Desarrollo Integral de la Familia (DIF) tratándose de incapacidades congénitas o de nacimiento.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+F.- Las empresas deberán dar aviso a la Secretaría de Finanzas de la terminación de la relación laboral con las personas discapacitadas.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 8.
+
+G.- Son causas de cancelación de este estímulo fiscal las previstas en el Artículo 24 fracciones I, II de esta Ley, y la terminación de la relación laboral con personas discapacitadas.
+
+La empresa que hubiere recibido el estímulo fiscal incurriendo en el supuesto de la fracción II del artículo 24 de esta ley, deberá cubrir ante la Secretaría de Finanzas que corresponda, el impuesto sobre nóminas que dejó de pagar en base al estímulo otorgado, adicionado con sus recargos y demás accesorios en los términos del Código Fiscal para el Estado y Municipios de Baja California Sur, tomando en cuenta para calcularlo la fecha en que debió haberse pagado.
 
 ###### ARTICULO 9.
 
@@ -548,3 +598,11 @@ PRESIDENTE
 DIP. PROFR. HECTOR JIMENEZ MARQUEZ
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes adiciones entrarán en vigor y surtirán sus efectos a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
