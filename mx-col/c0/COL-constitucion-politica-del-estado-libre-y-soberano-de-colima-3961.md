@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1999-12-11"
+last_updated: "2000-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1749,7 +1749,17 @@ El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus
 
 Con respecto a la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
 
-I.- La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, los niños serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se le inscriba en el Registro Civil y tener un nombre. El niño hasta la edad de doce años y los ancianos mayores de sesenta y cinco años tendrán derecho a recibir servicios médicos adecuados de manera gratuita en las Instituciones de Salud del Gobierno del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2000)</small>
+
+I.- La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, los niños serán objeto de especial protección por parte de las autoridades. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se le inscriba en el Registro Civil y a tener un nombre.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
+
+El niño hasta la edad de 18 años y los adultos mayores de 65 años, tendrán derecho a recibir servicios médicos adecuados de manera gratuita en las instituciones de salud del Gobierno del Estado. La exención anterior se otorgará a los usuarios que pertenezcan a población abierta, con base en el estudio socioeconómico correspondiente y de acuerdo con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
+
+Las personas con discapacidad que pertenezcan a población abierta, también gozarán del beneficio establecido en el párrafo anterior y, en el caso de que en su estudio socioeconómico resulte que tienen capacidad económica suficiente para pagar la contraprestación, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades. Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil; fomentarán la participación de la juventud en las actividades sociales y culturales; establecerán un sistema permanente de apoyo e integración social de los ancianos para permitirles una vida digna y decorosa; promoverán el tratamiento, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
 
@@ -1761,7 +1771,9 @@ IV.- La población tiene derecho a estar informada de manera continua y eficient
 
 V.- Toda persona tiene derecho al trabajo, a la salud y a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
 
-Los pensionados y jubilados al servicio del Estado y del Municipio, así como los ancianos mayores de 65 años, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2000)</small>
+
+Los pensionados y jubilados, así como los adultos mayores de 65 años, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
 
 VI.- Las autoridades del Estado velarán por la defensa de los derechos humanos e instituirán los medios adecuados para su salvaguarda.
 
@@ -1774,6 +1786,10 @@ IX.- Corresponde al Estado planear, participar, conducir, coordinar y orientar e
 X.- Todas las autoridades, dentro de la esfera de sus atribuciones, estarán obligadas en su ejercicio a vigilar por la conservación, protección y fomento del medio ambiente y de los recursos naturales de la entidad.
 
 XI.- El Estado, con la participación de los sectores público, social y privado, organizará el sistema de protección civil, el cual estará bajo la dirección del titular del Poder Ejecutivo.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XII.- Toda persona que sufra una lesión en sus bienes y derechos, con motivo de la actividad administrativa del Estado y de los Municipios, tendrá derecho a ser indemnizada en forma equitativa, conforme a las bases y procedimientos que establezca la ley. La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa.
 
 ###### Artículo 2°.
 
@@ -2332,3 +2348,13 @@ P.O. 11 DE DICIEMBRE DE 1999.
 DECRETO No. 208, POR EL QUE SE REFORMA EL ARTICULO 144 Y SE DEROGA EL ARTICULO 6° TRANSITORIO DE LA CONSTITUCION DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE MAYO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado y los Ayuntamientos incluirán en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial, a partir del ejercicio fiscal 2001.
