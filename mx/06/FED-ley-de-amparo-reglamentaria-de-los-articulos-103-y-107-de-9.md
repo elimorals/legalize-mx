@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "1951-02-19"
+last_updated: "1957-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY ORGANICA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE FEBRERO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1957.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -361,7 +361,7 @@ Cuando se trate de actos de autoridad que actúe en auxilio de la Justicia Feder
 
 ###### ARTICULO 44.
 
-El amparo contra sentencias definitivas o laudos se interpondrá directamente ante Tribunal Colegiado de Circuito bajo cuya jurisdicción esté el domicilio de la autoridad que pronuncie la sentencia o laudo, cuando la demanda se funde en violaciones substanciales cometidas durante la secuela del procedimiento o se trate de sentencias en materia civil o penal, contra las que no proceda recurso de apelación, cualquiera que sean las violaciones alegadas.
+El amparo contra sentencias definitivas o laudos se interpondrá directamente ante el Tribunal Colegiado de Circuito bajo cuya jurisdicción esté el domicilio de la autoridad que pronuncie la sentencia o laudo, cuando la demanda se funde en violaciones substanciales cometidas durante la secuela del procedimiento o se trate de sentencias en materia civil o penal, contra las que no proceda recurso de apelación, cualquiera que sean las violaciones alegadas.
 
 Siempre que al interponerse amparo contra sentencias definitivas en materia civil o penal o laudos en materia del trabajo, se aleguen violaciones substanciales cometidas durante la secuela del procedimiento y violaciones cometidas en la sentencia o laudo respectivos, se reclamarán conjuntamente, presentándose la demanda ante el Tribunal Colegiado de Circuito que corresponda, el cual sólo decidirá sobre las violaciones substanciales durante el procedimiento, y si la sentencia fuere desfavorable al agraviado, remitirá el expediente a la Suprema Corte de Justicia, para que resuelva sobre las violaciones cometidas en sentencia o laudos.
 
@@ -851,19 +851,29 @@ Admitida la revisión por el Presidente de la Suprema Corte de Justicia, se señ
 
 Admitida la revisión por el Tribunal Colegiado de Circuito, se mandará correr traslado al Ministerio Público, por el término de cinco días, y con lo que exponga y aleguen las partes por escrito, el Tribunal resolverá lo que fuere procedente, dentro del término de quince días. Si el Ministerio Público no devolviere los autos al expirar el término antes señalado, el Tribunal Colegiado de Circuito, mandará recogerlos de oficio.
 
-Siempre que el Presidente de la Suprema Corte de Justicia, o, en su caso, la Sala correspondiente, desechen el recurso de revisión interpuesto contra sentencia pronunciada en amparo directo por Tribunal Colegiado de Circuito, por no contener dicha sentencia decisión sobre la Constitucionalidad de una ley o no establecer la interpretación directa de un precepto de la Constitución Federal, impondrán, sin perjuicio de las sanciones penales que procedan, al recurrente o a su apoderado, o a su abogado, o a ambos, una multa de quinientos a mil pesos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1957)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+Siempre que el Presidente de la Suprema Corte de Justicia o, en sus respectivos casos, el Pleno o la Sala correspondiente, desechen el recurso de revisión interpuesto contra la sentencia pronunciada en amparo directo por el Tribunal Colegiado de Circuito, por no contener dicha sentencia decisión sobre la constitucionalidad de una ley o no establecer la interpretación directa de un precepto de la Constitución Federal, impondrán, sin perjuicio de las sanciones penales que procedan, al recurrente o a su apoderado o a su abogado, o a ambos, una multa de quinientos a mil pesos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1957)</small>
 
 ###### ARTICULO 91.
 
-Las Salas de la Suprema Corte de Justicia o los Tribunales Colegiados de Circuito, al conocer de los asuntos en revisión, observarán las siguientes reglas:
+El Tribunal en Pleno, las Salas de la Suprema Corte de Justicia o los Tribunales Colegiados de Circuito, al conocer de los asuntos en revisión observarán las siguientes reglas:
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 I.- Examinarán únicamente los agravios alegados contra la resolución recurrida; pero deberán considerar los conceptos de violación de garantías omitidos por el inferior, cuando estimen que son fundados los agravios expuestos contra la resolución recurrida;
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 II.- Sólo tomarán en consideración las pruebas que se hubiesen rendido ante el juez de Distrito o la autoridad que conozca o haya conocido del juicio de amparo; y si se trata de amparo directo contra sentencia pronunciada por Tribunal Colegiado de Circuito, la respectiva copia certificada de constancias;
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 III.- Si consideran infundada la causa de improcedencia expuesta por el juez de Distrito o la autoridad que haya conocido del juicio de amparo en los casos del artículo 37, para sobreseer en él en la audiencia constitucional después de que las partes hayan rendido pruebas y presentado sus alegatos, podrán confirmar el sobreseimiento si apareciere probado otro motivo legal, o bien revocar la resolución recurrida y entrar al fondo del asunto, para pronunciar la sentencia que corresponda, concediendo o negando el amparo, y
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracción IV del artículo 83, encontraren al estudiar los agravios que se violaron las reglas fundamentales que norman el procedimiento en el juicio de amparo, o que el juez de Distrito o la autoridad que haya conocido del juicio en primera instancia, incurrió en alguna omisión que hubiere dejado sin defensa al quejoso o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley.
 
@@ -873,13 +883,15 @@ IV.- Si en la revisión de una sentencia definitiva, en los casos de la fracció
 
 Si en amparo ante juez de Distrito se impugnó una ley por su inconstitucionalidad y, al mismo tiempo, se invocaron violaciones a leyes ordinarias, alegándose como agravios en la revisión tanto la inconstitucionalidad de la ley como aquellas violaciones, se remitirá el expediente a la Suprema Corte de Justicia, para el sólo efecto del inciso a) de la fracción VIII del artículo 107 de la Constitución Federal.
 
-Al resolver la Corte acerca de la constitucionalidad de la ley, dejará a salvo, en lo que corresponda, la jurisdicción del Tribunal Colegiado de Circuito para conocer de la revisión, por cuanto concierne a violación de leyes ordinarias.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1957)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+Al resolver la Suprema Corte en Pleno acerca de la constitucionalidad de la ley, dejará a salvo, en lo que corresponda, la jurisdicción de la Sala de la Corte o del Tribunal Colegiado de Circuito para conocer de la revisión, por cuanto concierne a violación de leyes ordinarias.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1957)</small>
 
 ###### ARTICULO 93.
 
-Cuando se trate de revisión de sentencias pronunciadas en materia de amparo directo por Tribunales Colegiados de Circuito, las Salas de la Suprema Corte de Justicia únicamente resolverán sobre la constitucionalidad de la ley impugnada o sobre la interpretación directa de un precepto de la Constitución Federal, en los términos del artículo 83, fracción V, de esta Ley, otorgando o negando el amparo solicitado.
+Cuando se trate de revisión de sentencias pronunciadas en materia de amparo directo por Tribunales Colegiados de Circuito, el Pleno o las Salas de la Suprema Corte de Justicia, en sus respectivos casos, únicamente resolverán sobre la constitucionalidad de la ley impugnada o sobre la interpretación directa de un precepto de la Constitución Federal, en los términos del artículo 83 fracción V de esta ley, otorgando o negando el amparo solicitado.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -1950,3 +1962,9 @@ La jurisprudencia establecida por la Suprema Corte de Justicia hasta la fecha en
 ###### ARTICULO SEPTIMO.
 
 Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las reformas a la presente Ley.
+
+D.O.F. 31 DE DICIEMBRE DE 1957.
+
+###### ARTICULO UNICO.
+
+Esta ley entrará en vigor el día primero de enero de mil novecientos cincuenta y ocho.
