@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2002-01-12"
+last_updated: "2002-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2002.
+
+REPUBLICADO, P.O. 22 DE MAYO DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -449,13 +451,15 @@ El presidente de la Diputación Permanente convocará a todos los diputados a la
 
 ### CAPITULO V. DE LA JUNTA DE COORDINACION PARLAMENTARIA
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+(REFORMADO, P.O. 11 DE MAYO DE 2002) (REPUBLICADO, P.O. 22 DE MAYO DE 2002)
 
 ###### Art. 39.
 
-La Junta de Coordinación Parlamentaria es un órgano plural dotado de atribuciones para propiciar el oportuno, eficaz y correcto ejercicio de las facultades del Congreso.
+La Junta de Coordinación parlamentaria es un órgano plural dotado de atribuciones para propiciar el oportuno, eficaz y correcto ejercicio de las facultades del Congreso. Se integra con el Presidente de la Mesa Directiva y con los coordinadores de cada uno de los grupos parlamentarios, todos con derecho a voz y voto, así como con los diputados que no formen parte de un grupo parlamentario y con un Secretario Técnico, quienes sólo participarán con derecho a voz. Las ausencias del Presidente serán suplidas por los vicepresidentes; las de los coordinadores de grupo parlamentario, por sus respectivos subcoordinadores; y, las del Secretario Técnico, por el servidor público que para cada caso se designe.
 
-La Junta de Coordinación Parlamentaria se integrará con el Presidente de la Mesa Directiva, quien en sus ausencias será sustituido por los Vicepresidentes en los términos de la presente Ley, así como por los coordinadores de cada uno de los Grupos Parlamentarios, y por los diputados que no formen parte de un Grupo Parlamentario, quienes sólo participarán con derecho a voz.
+Fungirá como Secretario Técnico el Titular de la Unidad Técnica y de Investigación Legislativa, quien auxiliará al Presidente de la Junta en el Ejercicio de sus atribuciones, dará fe de lo acontecido en las sesiones, levantará y certificará las actas correspondientes, llevará el seguimiento de los acuerdos, informará sobre su cumplimiento y dará cuenta con los proyectos de dictamen de las comisiones.
+
+A las reuniones de la Junta también deberán asistir los titulares de la Oficialía Mayor y de la Contaduría General, quienes participarán con derecho a voz.
 
 La Junta tomará sus decisiones por consenso, pero en el caso de que éste no se obtenga, las adoptará mediante votación. Para ello, los coordinadores de los grupos parlamentarios dispondrán de voto ponderado, sobre la base de un total de diez votos, en función del número de miembros que integran sus respectivos grupos.
 
@@ -471,7 +475,9 @@ Durante los períodos ordinarios el Presidente de la Mesa Directiva lo será tam
 
 La Junta de Coordinación Parlamentaria deberá reunirse cuando menos dos veces por mes durante los períodos ordinarios y, fuera de éstos, cuando menos una. Las reuniones serán convocadas por su Presidente por iniciativa propia o a solicitud de un Coordinador de Grupo Parlamentario.
 
-Para el desarrollo de sus trabajos se estará, en lo conducente, a lo previsto por esta Ley para las comisiones y comités, excepto que a sus reuniones sólo podrán asistir y participar sus integrantes en los términos del artículo 39.
+(REFORMADO, P.O. 11 DE MAYO DE 2002) (REPUBLICADO, P.O. 22 DE MAYO DE 2002)
+
+Para el desarrollo de sus trabajos se estará, en lo conducente, a lo previsto por esta Ley para las comisiones y comités, excepto que a sus reuniones sólo podrán asistir y participar sus integrantes, así como los funcionarios que se mencionan en el artículo 39, en los términos de dicho precepto.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
 
@@ -1704,3 +1710,9 @@ DECRETO No. 156
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Junta de Coordinación Parlamentaria, a efecto de cumplir lo dispuesto por el presente Decreto, someterá a la consideración del Pleno los cambios en los integrantes de las comisiones donde sea necesario, con fundamento en el artículo 45 de la Ley Orgánica del Poder Legislativo.
+
+P.O. 11 DE MAYO DE 2002.
+
+REPUBLICADO, P.O. 22 DE MAYO DE 2002.
+
+ÚNICO.- El presente decreto entrará en vigor de inmediato y se publicará en el Periódico Oficial del Estado en los términos de los artículos 64, fracción XLIII y 75, ambos de la Constitución Política del Estado.
