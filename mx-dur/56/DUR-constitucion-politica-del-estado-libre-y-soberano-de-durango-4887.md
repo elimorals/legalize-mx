@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1927-10-06"
+last_updated: "1931-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1931.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -387,7 +387,9 @@ El Poder Legislativo se deposita en una Asamblea que se denomina LEGISLATURA DEL
 
 Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente, en la forma y términos que señale la Ley Electoral respectiva.
 
-Cada Distrito Electoral quedará formado por veinte mil habitantes y si hubiere una fracción mayor de diez mil, ésta formará un Distrito Electoral.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
+
+Cada Distrito Electoral quedará formado por treinta y cinco mil habitantes y si hubiere una fracción mayor de veinte mil habitantes, ésta formará un Distrito Electoral.
 
 Los Distritos Electorales, se formarán tomando como base el último Censo efectuado, y serán numerados progresivamente.
 
@@ -411,9 +413,9 @@ V.- No haber sido condenado por cualquier delito a más de un año de prisión, 
 
 VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1927)
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1927)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
 
-VII.- No ser empleado público del Estado, del Municipio o de la Federación, dentro de los noventa días inmediatamente anteriores al día de la elección.
+VII.- No ser empleado público del Estado, de la Federación o del Municipio dentro de los cuarenta y cinco días anteriores al día de la elección.
 
 ###### Artículo 56.
 
@@ -427,9 +429,11 @@ Los Diputados son inviolables por las opiniones manifestadas en el desempeño de
 
 Los Diputados que sin Iicencia dejaren de concurrir por un mes seguido a cualquier período de sesiones, quedarán distituidos (sic) de sus cargos y suspensos por el tiempo de éste, de los derechos de ciudadano. Igual pena sufrirán los suplentes en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita declaración empresa de la Cámara. Las faltas sin licencia de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento Interior del Congreso.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
+
 ###### Artículo 59.
 
-El Congreso del Estado no podrá instalarse ni ejercer sus funciones, sin la concurrencia de la mayoría de los Diputados; y tendrá dos períodos de sesiones ordinarias en cada año, comenzando el primero el 16 de septiembre, que concluirá el 16 de diciembre, y el segundo el 16 de febrero que terminará el 16 de mayo.
+El Congreso del Estado no podrá instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los Diputados. Tendrá dos períodos de sesiones ordinarias en cada año comenzando el primero del día 1o. de septiembre al 30 de noviembre y el segundo del 1o. de marzo al 31 de mayo.
 
 ## TITULO V.
 
@@ -1090,3 +1094,17 @@ Los actuales Defensores de Oficio, continuarán en funciones hasta que termine s
 P.O. 6 DE OCTUBRE DE 1927.
 
 Artículo único.- Estas reformas entrarán en vigor desde el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1931.
+
+###### Artículo 1o.
+
+En las elecciones que se efectúen en el año de 1932 para la integración de la XXXIV Legislatura del Estado, se formarán únicamente tres Distritos con los que hay actualmente de número impar, y los ciudadanos que resulten electos para Diputados durarán únicamente en su encargo dos años.
+
+###### Artículo 2o.
+
+En las elecciones que se efectúen en el año de 1934, para la integración de la XXXV Legislatura del Estado, los Diputados que resulten electos por los Distritos Electorales señalados con el número par, sólo durarán en el desempeño de su cargo dos años, a fin de que se pueda establecer para lo sucesivo, la renovación parcial cada dos años.
+
+###### Artículo 3o.
+
+La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sóla vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
