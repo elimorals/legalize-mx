@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2002-01-15"
+last_updated: "2002-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2663,7 +2663,11 @@ Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la
 
 ### CAPITULO IV. De la adopción
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 Disposiciones generales
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 472.
 
@@ -2915,153 +2919,139 @@ II. Ser alimentado por éste; y
 
 III. Percibir la porción hereditaria y los alimentos que fije la ley.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ### CAPITULO UNICO
 
 ###### Art. 520.
 
-La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo del o de los adoptantes y a estos, los deberes inherentes a la relación paterno-filial.
+La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo del o de los adoptantes y a éstos, los deberes y derechos inherentes a la relación paterno-filial.
+
+Podrán ser adoptados:
+
+I. Los menores:
+
+a) Huérfanos de padre y madre;
+
+b) Hijos de filiación desconocidos;
+
+c) Los declarados judicialmente abandonados;
+
+d) Aquellos a cuyos padres se les haya sentenciado a la pérdida de la patria potestad;
+
+e) Aquellos cuyos padres o tutor o quienes ejerzan la patria potestad otorguen su consentimiento;
+
+II. Los mayores de edad cuando sean incapaces.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 521.
 
 En toda adopción se deberá asegurar:
 
-I. Que las personas e instituciones, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas de las consecuencias legales que la adopción implica y del consentimiento otorgado y en particular con la ruptura de los vínculos jurídicos entre el infante y su familia de origen;
+I. Que las personas y organismos, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas por el Consejo de Familia de las consecuencias legales que la adopción implica y del consentimiento otorgado en particular de la ruptura de los vínculos jurídicos entre el infante y su familia de origen en su caso;
 
-II. Que el consentimiento ha sido otorgado libremente y por escrito ratificado indistintamente ante el Oficial del Registro Civil del domicilio de los progenitores; ante notario que ejerza su función en el mismo domicilio, ante el agente del ministerio público, o ante el Sistema de Desarrollo Integral de la Familia;
+II. Que el consentimiento ha sido otorgado libremente, ante cualquier persona previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Ministerio Público, el cual deberá entregar al juez que conozca del trámite el documento que ampare el consentimiento donde consten los motivos de dicha urgencia;
 
 III. Que para otorgarse el consentimiento no ha mediado pago o compensación alguna;
 
-IV. Que el consentimiento de la madre, sea otorgado cuando menos diez días después del alumbramiento; y
+IV. Cuando sea el caso, que el consentimiento de la madre, sea otorgado cuando menos veinte días después del alumbramiento;
 
-V. Que el adoptante o los adoptantes, según el caso, han recibido por parte del Consejo de Familia, la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica.
+V. Que el adoptante o los adoptantes, según el caso, han recibido por parte del Consejo de Familia, la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica;
 
-Así como que poseen al momento del inicio de los trámites de adopción, la salud física y psíquica necesarios para cumplir con el desempeño que la paternidad legal trae consigo con la adopción.
+VI. Que en el caso de las madres menores de edad no emancipadas, el consentimiento otorgado se haga conforme a lo establecido en este Código para el caso de incapaces; y
+
+VII. Que las autoridades procuren que el menor sujeto a adopción tenga la posibilidad de desarrollarse en un ambiente sano familiar.
+
+En todos los casos los adoptantes deben tener al momento del inicio de los trámites de adopción, la salud física y psíquica necesarios para cumplir con el desempeño que la paternidad legal trae consigo con la adopción.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 522.
 
 En todos los casos de adopción, se tendrán como preferentes los intereses del adoptado sobre los de los adoptantes.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 523.
 
-El consentimiento, tratándose de niños cuyos padres han fallecido, lo deben dar las personas a quienes por ley corresponda el ejercicio de la patria potestad; y tratándose de niños expósitos o abandonados, el consentimiento lo dará el Consejo de Familia.
+El consentimiento, tratándose de niños cuyos padres han fallecido, lo deben dar las personas a quienes por ley les corresponda el ejercicio de la patria potestad; y tratándose de niños expósitos o abandonados, el consentimiento lo dará el Consejo de Familia.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 524.
 
-El trámite para la adopción deberá efectuarse ante el Juez de Primera Instancia del lugar en que vivan los adoptantes en los términos del Código de Procedimientos Civiles.
+El trámite para la adopción deberá efectuarse ante el Juez de Primera Instancia del lugar en que resida la persona que se pretende adoptar en los términos del Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 525.
 
 En los casos de adopciones internacionales se estará en lo que señalan los tratados correspondientes en el procedimiento respectivo.
 
+En toda adopción tendrán preferencia en igualdad de circunstancias los adoptantes nacionales sobre los extranjeros.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 526.
 
 La adopción se consumará en el momento que cause ejecutoria la resolución que se dicte en el procedimiento respectivo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 527.
 
-El juez que apruebe la adopción, remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar, para que levante al acta correspondiente.
+El juez que apruebe la adopción, remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar, para que levante las actas correspondientes.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 528.
 
 El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de las personas y bienes de los hijos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 529.
 
-El adoptante dará sus apellidos al adoptado y podrá cambiarle el nombre de pila, haciéndose las anotaciones correspondientes en el acta de adopción.
+El adoptante dará sus apellidos al adoptado y podrá cambiarle el nombre propio, haciéndose las anotaciones en las actas correspondientes.
+
+La adopción tiene el carácter de confidencial. Se deberá garantizar la discreción de quien consiente en la adopción y de quien o quienes adoptan. No obstante, cuando fuere necesario, se comunicará a quien legalmente corresponda todo tipo de antecedentes del menor y sus progenitores si se conocieren, sin mencionar sus nombres ni otros datos que permitan su identificación.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 530.
 
 El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 531.
 
-El Consejo de Familia, en todos los casos de adopción, deberá darles seguimiento a los mismos para procurar se cumplan los fines para los que fueron instituidos, dictando en caso necesario las providencias para ello.
+El Consejo de Familia, en todos los casos de adopción, deberá darle seguimiento, mínimo durante dos años a partir de que fue otorgada para procurar se cumplan los fines para los que fueron instituidos, dictando en caso necesario las providencias para ello.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 532.
 
-Cuando el Consejo de Familia lo estime conveniente, podrá autorizar se les otorgue a los promoventes, en forma precaria, la custodia del presunto adoptado, al inicio del procedimiento de adopción; siempre y cuando estos ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521, sin que por ninguna causa ni razón puedan retenerlo cuando sean requeridos para ello, por el propio Consejo o por el juez que conoce del procedimiento de adopción o el ministerio público.
+Cuando el Consejo de Familia lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del presunto adoptado, el cual deberá resolver de plano, siempre y cuando los presuntos adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521.
+
+La custodia otorgada en términos del párrafo anterior, podrá ser revocada por el juez que la otorgó a petición fundada del Ministerio Público o del Consejo de Familia.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 533.
 
-La adopción plena requiere que:
+El juez puede autorizar a favor de un solo adoptante, la adopción de dos o más personas simultáneamente cuando por las circunstancias especiales sea lo más conveniente.
 
-I. Los adoptantes sean un hombre y una mujer casados entre sí y que vivan juntos;
-
-II. Por lo menos uno de los adoptantes tenga quince años más que el menor o menores que se pretende adoptar;
-
-III. Los adoptantes tengan cinco o más años de casados, sin haber procreado hijos en su matrimonio;
-
-IV. El menor o menores que se pretendan adoptar no tengan más de cinco años de edad, salvo que se les haya separado de sus progenitores por maltrato o abuso, concluido que sea el trámite del juicio de pérdida de patria potestad;
-
-V. El menor o menores sea abandonado por sus padres, sea (sic) padres desconocidos, pupilo en casa de cuna o instituciones similares;
-
-VI. Los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y educación del menor o menores;
-
-VII. La adopción se funde sobre justos motivos y ventajas para el menor o menores; y
-
-VIII. Los adoptantes sean personas de buenas costumbres.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 534.
 
-En cuanto a los menores confiados a los esposos o recogidos por ellos, que no reúnan los requisitos de la edad, el límite de los cinco años retrocederá tanto tiempo como haya transcurrido entre el momento en que el niño haya sido confiado a esos esposos o recogido por ellos y aquél en que hayan sido reunidos los requisitos.
-
-###### Art. 535.
-
-La adopción plena es irrevocable cuando cause ejecutoria la sentencia que la pronuncie, y es constitutiva de un nuevo estado civil para el adoptado.
-
-###### Art. 536.
-
-La adopción plena confiere al adoptado los apellidos de los adoptantes y los mismos derechos, obligaciones y parentesco que la filiación consanguínea.
-
-###### Art. 537.
-
-La adopción confiere al adoptante y a los parientes del adoptado, los mismos derechos y obligaciones que el parentesco por consanguinidad y afinidad.
-
-###### Art. 538.
-
-La adopción plena entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
-
-#### Sección Primera. Adopción plena
-
-###### Art. 539.
-
-La adopción simple podrán realizarla las personas mayores de veinticinco años de edad, que acrediten:
-
-I. Que tienen por lo menos quince años más de edad que el menor que se pretende adoptar;
-
-II. Que tienen medios bastantes para proveer debidamente a la subsistencia y educación del menor;
-
-III. Que la adopción es benéfica a éste; y
-
-IV. Que el adoptante es persona de buenas costumbres.
-
-###### Art. 540.
-
-La adopción es permitida aunque el o los adoptantes tengan hijos o les sobrevengan.
-
-###### Art. 541.
-
-El juez, cuando las circunstancias especiales lo aconsejen, puede autorizar a favor de un solo adoptante, la adopción de dos o más personas simultáneamente.
-
-###### Art. 542.
-
-Salvo que la adopción se haga por pareja (sic) unidas por vínculo matrimonial, no puede una persona ser adoptada simultáneamente por varios adoptantes; pero sí, sucesivamente cuando el adoptante o adoptantes anteriores hayan muerto.
-
-#### Sección Segunda. De la adopción simple
-
-###### Art. 543.
-
-Puede adoptarse también a un mayor de edad, cuando sea incapaz y en este caso no será necesario tener quince años más que el adoptado.
-
-###### Art. 544.
-
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-###### Art. 545.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
-El menor o incapacitado que haya sido adoptado podrá impugnar la adopción, dentro del año siguiente a su mayoría de edad o a la fecha que ha desaparecido la incapacidad.
-
-###### Art. 546.
+###### Art. 535.
 
 Para que la adopción pueda tener lugar, deberán consentir en ella en sus respectivos casos:
 
@@ -3069,39 +3059,135 @@ I. El o los que ejercen la patria potestad sobre el menor que se trate de adopta
 
 II. El tutor del que se va a adoptar;
 
-III. El Consejo de Familia; y
+III. El Consejo de Familia; o
 
 IV. El ministerio público.
 
-###### Art. 547.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+###### Art. 536.
 
-###### Art. 548.
+Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 537.
 
 Cuando el tutor o el Consejo de Familia no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 538.
+
+Salvo que la adopción se haga por pareja (sic) unidas por vínculo matrimonial, no puede una persona ser adoptada simultáneamente por varios adoptantes; pero sí, sucesivamente cuando el adoptante o adoptantes anteriores hayan muerto o hubiera sido revocada la adopción.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+#### Sección Primera. Adopción plena
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 539.
+
+La adopción plena confiere al adoptado todos los efectos jurídicos, derechos y obligaciones que corresponden a la relación paterno filial consanguínea.
+
+La adopción plena requiere:
+
+I. Los adoptantes sean un hombre y una mujer casados entre sí y que vivan juntos;
+
+II. Que por lo menos el cónyuge menor adoptante tenga 15 años más que el menor o menores que se pretende adoptar; excepto cuando se trate de la adopción de mayores de edad incapaces;
+
+III. Los adoptantes tengan cinco o más años de casados al momento del inicio del trámite;
+
+IV. Los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y educación del menor o menores;
+
+V. La adopción se funde sobre justos motivos y en beneficio para el menor o menores; y
+
+VI. Los adoptantes sean personas de buenas costumbres.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 540.
+
+La adopción plena confiere al adoptado, al adoptante y a los parientes de éste, los mismos derechos y obligaciones que el parentesco por consanguinidad y afinidad.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 541.
+
+La adopción plena entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 542.
+
+La adopción plena es irrevocable, cuando cause ejecutoria la sentencia que la pronuncie, salvo en los efectos de la patria potestad, la cual se podrá perder por las causas que para tal efecto se establecen en éste Código.
+
+Cuando el adoptado alcance la mayoría de edad podrá conocer sus antecedentes familiares; las autoridades le garantizarán el acceso a dicha información.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+#### Sección Segunda. De la adopción simple
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 543.
+
+En la adopción simple se transfiere la patria potestad así como la custodia personal, y sólo origina vínculos jurídicos entre el adoptante y el adoptado.
+
+La adopción simple podrán realizarla las personas mayores de veinticinco años de edad, que acrediten:
+
+I. Que tienen por lo menos quince años más de edad que la persona que se pretende adoptar; excepto cuando se trate de personas mayores incapaces;
+
+II. Que tienen medios bastantes para proveer debidamente a la subsistencia y educación del menor;
+
+III. Que la adopción es benéfica a éste; y
+
+IV. Que el adoptante es persona de buenas costumbres.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 544.
+
+El adoptado podrá solicitar la revocación de la adopción simple, dentro del año siguiente a su mayoría de edad o a la fecha que ha desaparecido la incapacidad.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 545.
+
+Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 546.
+
+El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando hayan transcurrido dos años como mínimo de que el juez dictó su resolución, y cumpla con los requisitos que para la adopción plena contempla este mismo Código.
+
+Para este caso, el juez deberá escuchar el consentimiento, cuando sea posible, de quien lo otorgó inicialmente para la adopción; deberá oír al Consejo de Familia, así como al agente del Ministerio Público, a fin de valorar la conveniencia de esta conversión, atendiendo al interés superior del adoptado.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 547.
+
+La adopción simple puede revocarse:
+
+I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que otorgaron su consentimiento, cuando su domicilio sea conocido. A falta de éstas, se oirá al Consejo de Familia;
+
+II. Por ingratitud del adoptado; y
+
+III. Por alguna de las causas que para la pérdida de la patria potestad establece este Código.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 548.
+
+En el caso de la fracción I del artículo anterior, el juez decretará la revocación de la adopción si estima que es conveniente para los intereses morales y materiales del adoptado.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 549.
 
-Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción ordinaria, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
-
-###### Art. 550.
-
-La adopción puede revocarse:
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento, cuando su domicilio sea conocido. A falta de éstas, se oirá al Consejo de Familia; y
-
-II. Por ingratitud del adoptado.
-
-#### Sección Tercera. De las adopciones internacionales
-
-###### Art. 551.
-
-En el caso de la fracción I del artículo anterior, el juez decretará la revocación de la adopción si, convencido de la espontaneidad con que se solicitó aquélla, estima que es conveniente para los intereses morales y materiales del adoptado.
-
-###### Art. 552.
-
-Para los efectos de la fracción II del artículo 550, se considera ingrato al adoptado:
+Para los efectos de la fracción II del artículo 547, se considera ingrato al adoptado:
 
 I. Si comete algún delito doloso contra la persona, la honra, bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
 
@@ -3109,21 +3195,43 @@ II. Si el adoptado formula denuncia o querella contra el adoptante o los adoptan
 
 III. Si el adoptado rehusa dar alimentos al adoptante, cuando los necesite.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 550.
+
+La resolución judicial que apruebe la revocación, deja sin efecto la adopción simple, restituyendo las cosas al estado que tenían antes de que ésta se efectuara, en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil que autorizó el acta de adopción para que la cancele.
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+#### Sección Tercera. De las adopciones internacionales
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 551.
+
+La adopción internacional es la promovida por ciudadanos de otro país con residencia habitual fuera del territorio nacional, y tiene por objeto, incorporar en una familia a un menor que no pueda encontrar una, en su propio país de origen.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+###### Art. 552.
+
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional, y se regirá por lo dispuesto en esta sección.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### Art. 553.
 
-La resolución judicial que apruebe la revocación, deja sin efecto la adopción, restituyendo las cosas al estado que tenían antes de que ésta se efectuara, en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil que autorizó el acta de adopción para que la cancele.
+Las adopciones internacionales tendrán los efectos de plena.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### Art. 554.
 
-Cuando las adopciones se realicen de conformidad a los tratados internacionales que sobre la materia se celebren por el Poder Ejecutivo Federal, con la aprobación de la Cámara de Senadores, se procederá en la forma siguiente:
+Cuando las adopciones se realicen de conformidad a los tratados internacionales que sobre la materia se celebren por el Poder Ejecutivo Federal, se procederá en la forma siguiente:
 
-I. Corresponde al Consejo Estatal de Familia desempeñar la función de Entidad Central del Estado, tanto para consentir la adopción por personas residentes en el extranjero; como vigilar la adecuada relación familiar cuando los adoptantes sean residentes en el Estado y el adoptado sea extranjero;
+I. Corresponde al Sistema de Desarrollo Integral de la Familia Jalisco, a través de su órgano desconcentrado Consejo Estatal de Familia, desempeñar la función de Entidad Central del Estado, tanto para consentir la adopción por personas residentes en el extranjero; como vigilar la adecuada relación familiar cuando los adoptantes sean residentes en el Estado y el adoptado sea extranjero; y
 
-II. Al consentirse la adopción deberá señalarse la forma y términos como se le dará seguimiento en el extranjero;
-
-III. Cuando los adoptantes residan en el extranjero, se deberán de observar las prevenciones señaladas en las fracciones de la I a la IV del artículo 533; y
-
-IV. Cuando el adoptado prevenga (sic) del extranjero se deberán observar la prevención contenida en la fracción V del artículo 533.
+II. Al consentirse la adopción deberá señalarse la forma y términos como se le dará seguimiento en el extranjero.
 
 ## TITULO SEPTIMO. De la niñez
 
@@ -17104,3 +17212,9 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE ENERO DE 2002.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE JUNIO DE 2002.
+
+Primero. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Los procedimientos de adopción que se hayan iniciado antes de la entrada en vigor del presente decreto se seguirán de conformidad con las disposiciones legales vigentes al momento de su iniciación.
