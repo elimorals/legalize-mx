@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1989-12-29"
+last_updated: "1991-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 1991.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -497,7 +497,9 @@ XII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XIII.- Promover, vigilar y supervisar a las instituciones de beneficencia privada, en los términos de las leyes y reglamentos aplicables.
 
-XIV.- Participar con la Secretaría de Infraestructura y Desarrollo Urbano y con las autoridades federales, en la formulación, conducción y evaluación de las políticas de saneamiento ambiental.
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+
+XIV.- Ejercer las atribuciones que le confiera la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
 
 XV.- Asumir el control sanitario en materia de salubridad general de competencia federal, cuando éste le sea conferido al Gobierno del Estado, en los términos de los acuerdos respectivos.
 
@@ -537,13 +539,21 @@ VII.- Formular los programas estatales sectoriales de desarrollo urbano y vivien
 
 VIII.- Promover y ejecutar, en su caso, las acciones de vivienda y de equipamiento urbano.
 
-IX.- Coadyuvar, con las dependencias y entidades del sector público, en la formulación y conducción de la política de saneamiento ambiental.
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
 
-X.- Auxiliar a las autoridades competentes, en la vigilancia de la aplicación de las normas y programas que se establezcan, para la protección o restitución de los sistemas ecológicos del Estado.
+IX.- Ejercer las atribuciones que le confiera la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
 
-XI.- Promover programas y actividades para orientar, informar y lograr la participación comunitaria, para la preservación y mejoramiento del medio ecológico de la Entidad.
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
 
-XII.- Realizar estudios de impacto ambiental de obras o proyectos a realizar por el Gobierno del Estado, que por su magnitud puedan alterar el medio ambiente.
+X.- Promover la participación y responsabilidad de la sociedad en la formulación de la política ecológica, la aplicación de sus instrumentos, en acciones de información y vigilancia y, en general en las acciones ecológicas que emprende el Estado.
+
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+
+XI.- Fungir como secretariado técnico de la Comisión Estatal de Ecología.
+
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 1991)</small>
+
+XII.- Realizar, en los términos de los acuerdos de coordinación que se celebren, actos de inspección y vigilancia, para la verificación del cumplimiento de la Ley General del equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora.
 
 XIII.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables.
 
@@ -1132,3 +1142,9 @@ La presente Ley entrará en vigor el 1o. de enero de 1990, previa su publicació
 ###### ARTICULO SEGUNDO.
 
 Se derogan los Artículos 13, del Decreto que crea un organismo público descentralizado denominado el Hospital Infantil del Estado de Sonora; 16 del Decreto que crea el Centro Ecológico de Sonora; 15 del Decreto que crea el Instituto de Acuacultura del Estado de Sonora y 13 del Decreto que instituye a Radio Sonora como un organismo descentralizado, publicados en el Boletín Oficial del Gobierno del Estado, con fechas 18 de junio de 1984, 24 de diciembre de 1984, 27 de diciembre de 1984 y 26 de agosto de 1985, respectivamente.
+
+B.O. 7 DE ENERO DE 1991.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
