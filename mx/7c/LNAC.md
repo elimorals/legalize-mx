@@ -4,7 +4,7 @@ identifier: "LNAC"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2004-12-02"
+last_updated: "2005-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11167&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNAC"
 
 LEY DE NACIONALIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2005.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de enero de 1998.
 
@@ -70,7 +70,17 @@ IV. El pasaporte;
 
 V. La cédula de identidad ciudadana; y
 
-VI. A falta de los documentos probatorios mencionados en las fracciones anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la ley, lleve a la autoridad a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2005)</small>
+
+VI. La matrícula consular que cuente con los siguientes elementos de seguridad:
+
+a) Fotografía digitalizada;
+
+b) Banda magnética, e
+
+c) Identificación holográfica.
+
+VII. A falta de los documentos probatorios mencionados en las fracciones anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la ley, lleve a la autoridad a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
 
 ###### Artículo 4o.
 
@@ -327,3 +337,7 @@ D.O.F. 2 DE DICIEMBRE DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 2005.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
