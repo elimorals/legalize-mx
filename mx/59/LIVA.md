@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1999-12-31"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -292,13 +292,19 @@ El monto del impuesto identificado conforme al párrafo anterior en el periodo p
 
 Para que el impuesto al valor agregado sea acreditable en los términos de este artículo, adicionalmente deberán reunirse los siguientes requisitos:
 
-a).- Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-b).- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos a los regímenes establecidos en el Título II-A o en las Secciones II y III del Capítulo VI del Título IV de la citada Ley.
+a) Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley. Tratándose de los contribuyentes que ejerzan la opción a que se refiere el artículo 29-C del Código Fiscal de la Federación, el impuesto al valor agregado trasladado deberá constar en forma expresa y por separado en el reverso del cheque de que se trate o deberá constar en el estado de cuenta, según sea el caso.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+b) Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos a los regímenes establecidos en el Título II-A o en la Sección II del Capítulo VI del Título IV de la citada Ley.
 
 c).- Que, tratándose del impuesto trasladado que se hubiese retenido conforme al artículo 1o.-A, dicha retención se entere en los términos y plazos establecidos en esta Ley.
 
-El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el penúltimo párrafo del artículo 14-A del Código Fiscal de la Federación.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el segundo párrafo del artículo 14-A del Código Fiscal de la Federación.
 
 Para que sea acreditable en los términos de este artículo el impuesto al valor agregado en la importación de bienes tangibles, cuando se hubiera pagado la tasa del 10%, el contribuyente deberá comprobar que los bienes fueron utilizados o enajenados en la región fronteriza.
 
@@ -316,13 +322,11 @@ Los contribuyentes que en los términos de los artículos 67-G y 119-J de la Ley
 
 Para efectos de este artículo se considerará impuesto acreditable el que corresponda en términos del artículo 4o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-###### ARTICULO 4o-B.
+###### ARTICULO 4o.-B.
 
-Los contribuyentes sujetos al régimen establecido en la Sección III del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, deberán expedir la documentación comprobatoria de sus actividades en la fecha en la que efectivamente se cobren los bienes enajenados o los servicios prestados.
-
-Los contribuyentes que dejen de tributar conforme al régimen señalado, para hacerlo de conformidad con el Título IV, Capítulo VI, Sección I, de la citada Ley, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en dicho régimen, que no hayan considerado como ingreso, en la fecha en que efectivamente se efectúe su cobro.
+Los contribuyentes que dejen de tributar conforme al régimen establecido en la Sección III del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, para hacerlo de conformidad con el Título IV, Capítulo VI, Sección I, de la citada Ley, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en dicho régimen, que no hayan considerado como ingreso, en la fecha en que efectivamente se efectúe su cobro.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -330,13 +334,13 @@ Los contribuyentes que dejen de tributar conforme al régimen señalado, para ha
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación. Los contribuyentes a que se refiere el Título IV, Capítulo VI, Sección III de la Ley del Impuesto sobre la Renta, efectuarán pagos provisionales trimestrales.
+Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Las sociedades escindidas efectuarán los pagos provisionales a su cargo, a partir del mes en que ocurra la escisión, en los mismos plazos en que la sociedad escindente los realizaba en el ejercicio en que se escindió. En el caso de la sociedad que surja con motivo de una fusión, ésta efectuará los pagos provisionales a su cargo, a partir del mes en que ocurra la fusión, en los mismos plazos en que los efectuaba la sociedad que le hubiera aportado activos en mayor cuantía.
+Las sociedades escindidas efectuarán los pagos provisionales a su cargo, a partir del mes en que ocurra la escisión, en los mismos plazos en que la sociedad escindente los realizaba en el ejercicio en que se escindió. En el caso de la sociedad que surja con motivo de una fusión, ésta efectuará los pagos provisionales a su cargo, a partir del mes en que ocurra la fusión, en los mismos plazos en que los efectuaba la sociedad que le hubiera aportado activos en mayor cuantía. En los ejercicios siguientes a la escisión o fusión, según se trate, las sociedades escindidas o la que surja con motivo de la fusión, deberán efectuar sus pagos provisionales en los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -356,6 +360,10 @@ En ningún caso podrá solicitarse la devolución del saldo a favor que se hubie
 
 III. El contribuyente comparará los montos determinados en las fracciones I y II que anteceden. En caso de que el monto obtenido en términos de la fracción I de este artículo resulte mayor que el determinado en términos de la fracción II del mismo, la diferencia será el impuesto a cargo por el ajuste que deberá enterarse con el pago provisional correspondiente al mes en que el mismo se efectúe. En el caso de que el monto de la fracción II de este artículo resulte mayor que el determinado en los términos de la fracción I del mismo, la diferencia será el saldo a favor por el ajuste.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Las sociedades que inicien operaciones con motivo de una escisión, así como la sociedad que surja con motivo de una fusión, y que en los términos del tercer párrafo de este artículo estén obligadas a efectuar pagos provisionales mensuales, efectuarán en el primer mes de la segunda mitad del ejercicio irregular que se origine por la escisión o fusión, según se trate, el ajuste del impuesto correspondiente a los pagos provisionales, de conformidad con el procedimiento previsto en las fracciones I a III que anteceden. Cuando sea impar el número de meses del citado ejercicio irregular, el ajuste se efectuará en el mes inmediato anterior al que corresponda la mitad del citado ejercicio. En ejercicios irregulares menores a siete meses, no se efectuará el ajuste a los pagos provisionales.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Para determinar el impuesto del ejercicio se aplicará el siguiente procedimiento:
@@ -370,9 +378,9 @@ En ningún caso podrá solicitarse la devolución del saldo a favor que se hubie
 
 d) La cantidad que resulte en los términos del inciso a) de este artículo, se adicionará con el monto que se determine de conformidad con el inciso b) que antecede y se disminuirá con el monto que se determine conforme al inciso anterior. El resultado que se obtenga de esta operación será el impuesto del ejercicio.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-El impuesto del ejercicio se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Las sociedades que tengan el carácter de controladoras en los términos del párrafo noveno del artículo 57-A de la Ley del Impuesto sobre la Renta, presentarán la declaración anual dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
+Las personas morales pagarán el impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, salvo que se trate de sociedades que tengan el carácter de controladoras en los términos del párrafo noveno del artículo 57-A de la Ley del Impuesto sobre la Renta, en cuyo caso pagarán el impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Las personas físicas pagarán el impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas dentro del periodo comprendido entre los meses de febrero y abril del año siguiente al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
@@ -938,9 +946,9 @@ Las empresas residentes en el país calcularán el impuesto aplicando la tasa de
 
 Para los efectos de esta Ley, se considera exportación de bienes o servicios:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-I.- La que tenga el carácter de definitiva, en los términos de la Ley Aduanera, salvo las que se consideren como tales en los términos de los artículos 85, último párrafo y 108, penúltimo párrafo y 112 de la Ley citada.
+I. La que tenga el carácter de definitiva, en los términos de la Ley Aduanera, salvo las que se consideren como tales en los términos de los artículos 108, penúltimo párrafo y 112 de la Ley citada.
 
 II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
 
@@ -986,15 +994,23 @@ VI. La transportación aérea de personas, prestada por residentes en el país, 
 
 VII.- La enajenación de bienes importados temporalmente que hagan las empresas catalogadas como maquiladoras de exportación a otras empresas también catalogadas como maquiladoras de exportación, siempre que dichos bienes no cambien de régimen aduanero.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-VIII.- La enajenación de bienes que realicen empresas con programa de importación temporal para producir artículos de exportación autorizado por la Secretaría de Comercio y Fomento Industrial, que haya estado vigente cuando menos un año, y aquéllas catalogadas como maquiladoras de exportación, a una empresa que opere con alguno de los programas señalados, cuando dicha enajenación se considere exportación definitiva en los términos del penúltimo párrafo del artículo 108 de la Ley Aduanera o retorno de importaciones temporales en los términos del artículo 112, fracción I de la citada Ley.
+VIII. La enajenación de bienes que realicen empresas con programa de importación temporal para producir artículos de exportación autorizado por la Secretaría de Comercio y Fomento Industrial, que haya estado vigente cuando menos un año, y aquéllas catalogadas como maquiladoras de exportación, a una empresa que opere con alguno de los programas señalados, siempre que tramiten simultáneamente en la misma aduana y por conducto del mismo agente o apoderado aduanal, los pedimentos correspondientes que amparen el retorno a nombre del enajenante y la importación temporal a nombre del adquirente, en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Para los efectos de esta fracción, se considera que el enajenante exporta los bienes hasta por el monto que resulte de aplicar al valor de los mismos la proporción que representó el valor total de enajenación de las exportaciones definitivas realizadas en el trimestre inmediato anterior por la empresa adquirente en el valor total de las ventas de dicha empresa en el mismo periodo. Esta empresa deberá informar por escrito la proporción referida a quien le enajena los bienes en el momento en que se efectúe la enajenación.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 Cuando se pueda identificar la proporción que se destinará a la exportación definitiva de los bienes que se adquieran, se considerará que el enajenante exporta dichos bienes hasta por la mencionada proporción, siempre que esta última sea menor a la que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 Las empresas que adquieran bienes así como las que los enajenen, deberán informar trimestralmente a las autoridades fiscales los días 15 de los meses de abril, julio y octubre del mismo año y enero del siguiente, sobre las adquisiciones o enajenaciones, según corresponda, que hayan efectuado durante el trimestre anterior y, en su caso, la proporción que hubieran aplicado a dichos bienes en el mismo periodo de conformidad con los párrafos precedentes. Igualmente, los primeros informarán el valor de sus exportaciones definitivas realizadas en el trimestre inmediato anterior al que se reporta y el valor total de sus ventas en el mismo periodo. La información a que se refiere este párrafo se proporcionará a través de las formas oficiales que para tal efecto publique la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Las empresas que efectúen las enajenaciones a que se refiere esta fracción, por la proporción que no se considere exportada, deberán pagar el impuesto al valor agregado actualizado en los términos del artículo 17-A del Código Fiscal de la Federación, así como una cantidad equivalente al importe de los recargos que corresponderían en los términos del artículo 21 del citado Código, a partir del mes en que las mercancías se importaron temporalmente y hasta que se efectúe la enajenación.
 
@@ -1074,9 +1090,7 @@ En el caso de que los ingresos deriven de actos o actividades que realice una su
 
 Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
 
-(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997) (ACTUALIZADO EN SU MONTO POR MISCELANEA FISCAL, D.O.F. 15 DE FEBRERO DE 1999)
-
-Las personas físicas a que se refiere la Sección III, Capítulo VI, Título IV de la Ley del Impuesto sobre la Renta, que únicamente enajenen bienes o presten servicios al público en general, que en el año de calendario anterior hayan obtenido ingresos mayores de $1,174,000.00, en lugar de la contabilidad a que se refiere la fracción II de este artículo, deberán llevar el registro de sus ingresos diarios efectuando la separación de los actos o actividades por los que deba pagarse el impuesto por las distintas tasas, de aquellos por los cuales esta Ley libera de su pago. Asimismo, por lo que se refiere a sus compras deberán contar con comprobantes que reúnan requisitos fiscales.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1779,6 +1793,22 @@ III. Durante el ejercicio fiscal de 2000 el Impuesto al Valor Agregado sobre el 
 ## TRANSITORIO
 
 Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
+
+Artículo Sexto. En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
+I. La reforma al artículo 4o., séptimo párrafo, inciso a) de la Ley del Impuesto al Valor Agregado, entrará en vigor a partir del 1o. de marzo de 2001.
+
+II. Durante el ejercicio fiscal de 2001 el Impuesto al Valor Agregado sobre el servicio o suministro de agua para uso doméstico que se efectúe en dicho ejercicio, se causará a la tasa del cero por ciento.
+
+## Transitorios
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
