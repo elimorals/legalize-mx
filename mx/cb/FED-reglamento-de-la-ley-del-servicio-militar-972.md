@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-militar-972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1942-11-10"
-last_updated: "1944-10-17"
+last_updated: "1947-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1942-09-08"
 
 REGLAMENTO DE LA LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 1947.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 10 de noviembre de 1942.
 
@@ -113,7 +113,7 @@ Una vez hecha la inscripción ante las juntas municipales de reclutamiento o con
 
 I.- Cartilla de identificación que se entregará al interesado.
 
-II.- Dos cédulas dactiloscópicas; una se enviará al Departamento de Identificación y la otra la conservará la Junta Municipal de Reclutamiento, después de que se haga la clasificación de las huellas. La cédula tendrá la forma número 2.
+II.- (DEROGADA, D.O.F. 6 DE JUNIO DE 1947)
 
 III.- Dos tarjetas índices que se distribuirán como menciona la fracción anterior y tendrán la forma modelo número 3.
 
@@ -1297,7 +1297,7 @@ I.- Matrícula;
 
 II.- Nombre y apellidos;
 
-III.- Ocupación;.
+III.- Ocupación;
 
 IV.- Domicilio.
 
@@ -1610,3 +1610,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO 2°
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 6 DE JUNIO DE 1947.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se le opongan.
