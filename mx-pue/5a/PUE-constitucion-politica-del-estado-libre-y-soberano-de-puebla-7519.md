@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1987-08-28"
+last_updated: "1990-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -499,17 +499,17 @@ Si no hubiese quórum para la instalación o apertura del Congreso, se observar�
 
 Los Diputados que no asistan a una sesión sin causa justificada no tendrán derecho a la dieta correspondiente, y si faltaren cuatro sesiones consecutivas injustificadamente o sin licencia previa se presumirá que renuncian a concurrir hasta el período inmediato de sesiones, llamándose desde luego a los suplentes.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1990)</small>
 
 ###### Artículo 50.
 
-El Congreso tendrá cada año tres periodos de sesiones, en la forma siguiente:
+El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
-I.- El primero comenzará el día quince de enero, terminará el quince de abril y se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
+I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-II.- El segundo comenzará el día quince de junio, terminará el quince de septiembre y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior que le será presentada por el Ejecutivo antes del inicio de este período, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir algunas responsabilidades.
+II.- El segundo comenzará el día primero de Junio, terminará el treinta y uno de Julio y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal correspondiente al año inmediato anterior que le será presentada por el Ejecutivo, antes del inicio de este período declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir algunas responsabilidades.
 
-III.- El tercer período comenzará el día quince de octubre y terminará el día treinta y uno de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de ingresos y egresos del Estado y los presupuestos de ingresos de los Municipios, que deberán entrar en vigor al año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
+III.- El tercer período comenzará el día quince de octubre y terminará el quince de diciembre y preferentemente se ocupará de estudiar, discutir y decretar los presupuestos de Ingresos y Egresos del Estado y los presupuestos de ingresos de los Municipios que deberán entrar en vigor al año siguiente y que le serán presentados a más tardar el día quince de noviembre de cada año, los primeros por el Ejecutivo y los segundos por los Ayuntamientos respectivos, por conducto del mismo Ejecutivo, quien presentará a la vez las observaciones que tuvieren que hacer a los presupuestos formulados por los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1325,7 +1325,9 @@ Los empleados que manejen fondos públicos deberán caucionar su manejo en la fo
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO III. DE LA SEGURIDAD PUBLICA
+### CAPITULO III
+
+DE LA SEGURIDAD PUBLICA.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1397,13 +1399,11 @@ El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido 
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO.. DISPOSICIONES GENERALES
+## TITULO NOVENO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO I
-
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS.
+### CAPITULO I. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1589,9 +1589,7 @@ Si transcurre un mes, a partir de la fecha en que se hubiere enviado el Proyecto
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO DECIMO.
-
-DE LA INVIOLABILIDAD DE LA CONSTITUCION.
+## TITULO DECIMO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1647,15 +1645,15 @@ CONSTITUCION Y REFORMAS.
 
 Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.- El Gobernador del Estado.- Alfonso Cabrera,- El Srio. Gral. de Gob,- Lic. Miguel Moto.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1734,3 +1732,7 @@ Se derogan todas las disposiciones que se opongan a las presentes reformas y adi
 P.O. 28 DE AGOSTO DE 1987.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se haya cumplido con lo previsto en los artículos 140 y 141 de la Constitución Política Local.
+
+P.O. 13 DE ABRIL DE 1990.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
