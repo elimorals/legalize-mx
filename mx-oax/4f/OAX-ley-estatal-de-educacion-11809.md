@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-educacion-11809"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-09"
-last_updated: "1995-11-09"
+last_updated: "1998-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 9 de noviembre de 1995.
 
@@ -77,17 +77,21 @@ La educación pública en el Estado de Oaxaca será gratuita para garantizarla e
 
 La educación pública será laica por lo que se mantendrá ajena a cualquier doctrina religiosa y respetará la libertad de credo conforme a lo establecido en el artículo 24 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 6.
 
-Los principios que orientarán la educación que imparta el Estado, Municipios, Organismos Descentralizados, Desconcentrados, particulares con autorización o reconocimiento de validez oficial de estudios y las sostenidas por las empresas, en todos los tipos, niveles y modalidades, serán los establecidos por el artículo 3° de la Constitución Federal, además la educación será.
+Los principios que orientarán la educación que imparta el Estado, Municipios, Organismos Descentralizados, Desconcentrados, particulares con autorización o reconocimiento de validez oficial de estudios y las sostenidas por las empresas, en todos los tipos, niveles y modalidades, serán los establecidos por el artículo 3o. de la Constitución Federal; demás la educación será:
 
-I.- Democrática, considerada la democracia como un sistema de vida que permita la participación de los ciudadanos en las decisiones políticas del Estado, así como la igualdad de oportunidades para recibir los beneficios que proporcionan los adelantos científicos y tecnológicos, favoreciendo con ello el mejoramiento de las condiciones económicas y sociales.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
+
+I.- Democrática, considerada la democracia como un sistema de vida fundado en el respeto de las diferencias individuales y los derechos humanos, y en el constante mejoramiento económico, social y cultural del pueblo, que permita la participación de la ciudadanía en las decisiones políticas del Estado, así como la igualdad de oportunidades de hombres y mujeres para recibir los beneficios que proporcionan los adelantos científicos y tecnológicos, reconociendo y preservando éste a los pueblos indios y sus lenguas;
 
 II.- Nacionalista, en cuanto a que los educandos comprendan los problemas económicos, políticos y sociales de la Nación Mexicana y los particulares de la Entidad. Aprendan a defender la soberanía económica y política del país; a conocer y respetar las diferencias étnicas y culturales de la Entidad, del país y de la humanidad; a preservar y usar racionalmente los recursos naturales.
 
-III.- Humanista, considerando a la persona humana como el principio y fin de todas las instituciones basada en los ideales de justicia social, libertad e igualdad, propiciará la convivencia social y étnica, el respeto a los derechos humanos, evitando todo tipo de discriminación.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
-Los fines de productividad, eficiencia y competitividad económicas deberán armonizarse con los principios humanistas de la educación; y
+III.- Humanista, considerando a la persona humana como el principio y fin de todas las instituciones; basada en los ideales de justicia social, libertad e igualdad; propiciará la autoestima, la responsabilidad familiar, el respeto y la tolerancia de las diferencias individuales, la convivencia social y étnica, el respeto a los derechos humanos, evitando todo tipo de discriminación por razones de origen, sexo, edad, religión, ideología, idioma, lengua, identidad étnica o cualquiera otra razón;
 
 IV.- Respetará los principios de la comunalidad, como forma de vida y razón de ser de los Pueblos Indígenas.
 
@@ -467,9 +471,11 @@ V.- Campañas permanentes de alfabetización.
 
 VI.- Todos aquellos que para tal fin se formulen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 45.
 
-Para lograr la equidad que permita la igualdad de acceso, permanencia y resultados satisfactorios en educación, se desarrollarán los siguientes programas, proyectos y acciones:
+Para lograr la equidad que permita la igualdad de acceso, permanencia y resultados satisfactorios en educación, se desarrollarán los siguientes programas:
 
 I.- Proporcionar materiales educativos individuales y colectivos para los alumnos de educación básica.
 
@@ -482,6 +488,10 @@ IV.- Establecimiento de centros de desarrollo social y ocupacional, acorde a las
 V.- Establecimiento de centros culturales y recreativos en las comunidades que así lo requieran.
 
 VI.- Proporcionar a cada plantel educativo, servicios públicos indispensables.
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+
+VII.- Acciones que procuren que los padres y madres de familia apoyen en igualdad de circunstancias los estudios de sus hijos y los de sus hijas, y otorgar estímulos e incentivos que permitan que tanto unos como otras tengan de igual manera las oportunidades educativas.
 
 ###### ARTICULO 46.
 
@@ -553,9 +563,11 @@ Las donaciones y legados en dinero o especie a favor de la educación pública, 
 
 ### CAPITULO QUINTO.. DEL PROCESO EDUCATIVO ESTATAL
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 54.
 
-El proceso educativo se fundamentará en los principios de libertad, justicia, democracia, respeto a los derechos humanos y del niño, responsabilidad, diálogo y participación entre educandos, educadores, autoridades, padres de familia e instituciones sociales.
+El proceso educativo se fundamentará en los principios de libertad, justicia, democracia, respeto a los derechos humanos en especial de niños y niñas, responsabilidad, diálogo y participación entre educandos y docentes, autoridades, padres y madres de familia e instituciones sociales.
 
 ###### ARTICULO 55.
 
@@ -599,6 +611,10 @@ V.- Los recursos didácticos para lograr los propósitos educativos;
 
 VI.- Las formas y procedimientos de evaluación.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+En todo caso, los programas y planes de estudio tenderán especialmente a promover el respeto a los derechos humanos así como al fomento en los educandos de una concepción igualitaria de las personas, sin distinción de sexo. En especial, deberá promoverse la autoestima de las niñas.
+
 ###### ARTICULO 60.
 
 La evaluación de los educandos, tendrá por objeto conocer en forma individual y/o grupal, la formación integral de éstos, así como el logro de los propósitos de los planes y programas de estudio, por lo que docentes y educandos, aplicarán procedimientos e instrumentos para una valoración objetiva, continua y sistemática que permita la retroalimentación del proceso educativo.
@@ -631,9 +647,9 @@ I.- La creación de espacios de difusión de las culturas de la Entidad, así co
 
 II.- La creación de programas de reforzamiento de contenidos para la educación básica, media superior y superior.
 
-III.- El acceso a los educandos, educadores y padres de familia en la realización de programas educativos, a través de la radio y la televisión.
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
-Para conseguir tales fines, se promoverá que los medios de comunicación masiva, destinen diariamente tiempo suficiente, en horarios adecuados.
+III.- El acceso a los educandos, docentes, padres y madres de familia en la realización de programas educativos, a través de la radio y la televisión.
 
 ### CAPITULO SEXTO:. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
@@ -903,6 +919,10 @@ IX.- Oponerse a las actividades de supervisión, vigilancia y evaluación, o ren
 
 X.- Incumplir cualquiera de las obligaciones establecidas por la presente Ley y otras disposiciones aplicables derivadas de la misma.
 
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+
+Atentar contra la integridad física, mental o moral de los educandos; imponer la disciplina en abuso y en violación de los derechos de las niñas y de los niños, y desatender el deber de garantizar la protección y los cuidados necesarios a éstos para el cabal desarrollo de sus potencialidades.
+
 ###### ARTICULO 90.
 
 Además de las infracciones señaladas en el artículo anterior, serán consideradas para los particulares que impartan educación, las siguientes:
@@ -1044,3 +1064,11 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 Al C....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 7 DE FEBRERO DE 1998.
+
+PRIMERO.- El Presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados a partir de la fecha de la iniciación de la vigencia del presente Decreto, procederá a implementar los programas necesarios para su aplicación.
