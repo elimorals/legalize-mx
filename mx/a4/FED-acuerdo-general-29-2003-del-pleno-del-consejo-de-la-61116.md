@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-29-2003-del-pleno-del-consejo-de-la-61116"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2003-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-06-04"
 
 ACUERDO GENERAL 29/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE LOS JUZGADOS CUARTO DE DISTRITO "A" Y CUARTO DE DISTRITO "B", DE AMPARO EN MATERIA PENAL EN EL DISTRITO FEDERAL; A LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE DICHOS ORGANOS JURISDICCIONALES; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA MATERIA Y RESIDENCIA INDICADAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -73,7 +73,11 @@ Por cuanto hace a los valores que se manejan en el órgano jurisdiccional federa
 
 SEXTO.- Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Unidad de Estadística y Planeación Judicial del Consejo de la Judicatura Federal. Los titulares de los mencionados juzgados de Distrito "A" y "B", deberán enviar por separado su reporte estadístico mensual.
 
-SEPTIMO.- Para la recepción de los nuevos asuntos en horas y días inhábiles, los juzgados Cuarto de Distrito "A" y Cuarto de Distrito "B", ambos de Amparo en Materia Penal en el Distrito Federal, tendrán turno independiente y sucesivo; por lo que del dieciséis al veintidós de junio estarán de turno los Juzgados Segundo de Distrito “A” y Segundo de Distrito “B”; del veintitrés al veintinueve de junio, los Juzgados Tercero de Distrito “A” y Tercero de Distrito “B”; del treinta de junio al seis de julio, el Juzgado Cuarto de Distrito “A”; del siete al trece de julio, el Juzgado Cuarto de Distrito “B”; del catorce al veinte de julio, los Juzgados Quinto de Distrito “A” y Quinto de Distrito “B”; del veintiuno al veintisiete de julio, los Juzgados Sexto de Distrito “A” y Sexto de Distrito “B”; del veintiocho de julio al tres de agosto, los Juzgados Primero de Distrito “A” y Primero de Distrito “B” y, así sucesivamente.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 36/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE JUNIO DE 2003)</small>
+
+SEPTIMO.- Para la recepción de nuevos asuntos en horas y días hábiles, la Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en el Distrito Federal, los turnará de forma independiente a los órganos jurisdiccionales de la materia y residencia señaladas.
+
+Asimismo, para la recepción de nuevos asuntos en horas y días inhábiles, los juzgados de Distrito anteriormente referidos, tendrán turno independiente y sucesivo, por lo que del catorce al veinte de julio estará de turno el Juzgado Quinto de Distrito “A”; del veintiuno al veintisiete de julio, el Juzgado Quinto de Distrito “B”; del veintiocho de julio al tres de agosto, el Juzgado Sexto de Distrito “A”; del cuatro al diez de agosto, el Juzgado Sexto de Distrito “B”; del once al diecisiete de agosto, el Juzgado Primero de Distrito “A”; del dieciocho al veinticuatro de agosto, el Juzgado Primero de Distrito “B”; del veinticinco al treinta y uno de agosto, el Juzgado Segundo de Distrito “A”; del uno al siete de septiembre, el Juzgado Segundo de Distrito “B”; del ocho al catorce de septiembre, el Juzgado Tercero de Distrito “A”; del quince al veintiuno de septiembre, el Juzgado Tercero de Distrito “B”; del veintidós al veintiocho de septiembre, el Juzgado Cuarto de Distrito “A”; del veintinueve de septiembre al cinco de octubre, el Juzgado Cuarto de Distrito “B”; y, así sucesivamente.
 
 OCTAVO.- En virtud de que se trata de una medida temporal, la creación de los juzgados de Distrito a que se refiere el presente acuerdo no modifica el diverso Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
@@ -86,3 +90,11 @@ PRIMERO.- Este acuerdo entrará en vigor el dieciséis de junio de dos mil tres.
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL CERTIFICA: Que este Acuerdo General 29/2003, del Pleno del Consejo de la Judicatura Federal, que Determina la Creación Temporal de los Juzgados Cuarto de Distrito "A" y Cuarto de Distrito "B", de Amparo en Materia Penal en el Distrito Federal; a la Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento de Dichos Organos Jurisdiccionales; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Juzgados de Distrito de la Materia y Residencia Indicadas, fue aprobado por el Pleno del Consejo, en sesión de cuatro de junio de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a cuatro de junio de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 26 DE JUNIO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor a partir del catorce de julio de dos mil tres.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
