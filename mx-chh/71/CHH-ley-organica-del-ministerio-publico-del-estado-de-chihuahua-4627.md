@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "1996-08-21"
+last_updated: "2000-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -121,7 +121,15 @@ XI.- Remitir las órdenes de aprehensión emitidas por los Juzgados a fin de que
 
 XII.- Concurrir diariamente a los Tribunales para oír y recibir las notificaciones que deban hacerse y acudir a las audiencias y diligencias que requieran su presencia.
 
-C) En materia civil, familiar y administrativa, deberá intervenir con todas las facultades y obligaciones de un procurador en juicio, cuando en el mismo pueda afectarse la integridad de la familia, los intereses de menores, incapaces o ausentes y en todos aquellos casos en los cuales deba ser oído el ministerio público.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2000)</small>
+
+C) En materia civil, familiar y administrativa deberá intervenir con todas las facultades y obligaciones de un procurador en juicio, cuando en el mismo pueda afectarse la integridad de la familia los intereses de los menores, adultos mayores, incapaces o ausentes y en todos aquellos casos en los cuales deba ser oído el Ministerio Público.
+
+En los casos de negativa injustificada a proporcionar alimentos a los adultos mayores, en los términos del Código Civil del Estado, se citará a los ascendientes y descendientes de que se trate y actuará como amigable componedor, a efecto de que las partes en conflicto arriben a un acuerdo equitativo y legítimo.
+
+De no lograrse un avenimiento, y formada la convicción del Ministerio Público en el sentido de que la exigencia alimentaria legalmente procede, éste asumirá la representación del afectado y demandará ante el juez civil competente, el cumplimiento forzoso de la obligación.
+
+En el caso de que el adulto mayor sea objeto de omisión de cuidados y malos tratos, el Ministerio Público, procederá al depósito de aquél en un establecimiento de asistencia social, público o privado, a efecto de proteger su integridad física, mental y social mientras se supera la situación conflictiva conforme a derecho. En tal hipótesis el Ministerio Público asumirá la tutela o el cuidado del adulto mayor, según proceda, para los efectos legales a que haya lugar.
 
 D) En materia de informática, se profesionalizará y modernizará de tal manera que se logre un mayor control de los procesos que sigue cada dependencia de la Procuraduría y puedan elaborarse estrategias tendientes a prevenir y combatir la delincuencia.
 
@@ -520,3 +528,13 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 21 DE AGOSTO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados a partir del siguiente día en que se publique en el Periódico Oficial del Estado.
