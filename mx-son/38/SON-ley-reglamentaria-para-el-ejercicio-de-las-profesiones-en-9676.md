@@ -4,7 +4,7 @@ identifier: "SON-ley-reglamentaria-para-el-ejercicio-de-las-profesiones-en-9676"
 country: "mx"
 rank: "ley"
 publication_date: "1952-12-03"
-last_updated: "1974-07-27"
+last_updated: "2002-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE JULIO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 3 de diciembre de 1952.
 
@@ -115,7 +115,9 @@ Estos cargos serán honoríficos.
 
 La dependencia a que se refiere el artículo anterior, tendrá las siguientes facultades y obligaciones:
 
-a).- Registrar los títulos de profesionistas en los términos de esta Ley, y los Colegios legalmente constituidos.
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2002)</small>
+
+a).- Registrar los títulos de profesionistas en los términos de esta Ley.
 
 b).- Formar expediente a cada profesionista cuyo titulo fuere registrado a fin de anotar en él las sanciones que le fueren impuestos por las autoridades que señala esta Ley en relación con su ejercicio profesional.
 
@@ -221,6 +223,10 @@ b).- Un directorio de sus miembros, y
 
 c).- Nomina de socios que integren el Consejo Directivo.
 
+> <small>(ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2002)</small>
+
+IV.- El registro de los Colegios de los profesionistas asentados en el Estado, lo realizará la Secretaria de Educación y Cultura, por conducto de la unidad administrativa que designe para tal efecto.
+
 ###### ARTICULO 24.
 
 Los colegios de profesionistas tienen prohibido tratar asuntos políticos o religiosos.
@@ -257,7 +263,13 @@ m).- Sancionar a sus miembros por los actos u omisiones que impliquen violación
 
 n).- Gestionar el registro de los títulos de sus miembros.
 
-ñ).- Los demás que les asignen las leyes.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 25 DE NOVIEMBRE DE 2002)</small>
+
+ñ).- Promover, conjuntamente con las instituciones de educación media superior y superior establecidos en el Estado, la mejora continua de los niveles de titulación y certificación profesional de sus agremiados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 25 DE NOVIEMBRE DE 2002)</small>
+
+o).- Los demás que les asignen las Leyes.
 
 ### CAPITULO V.. SERVICIO SOCIAL DE PROFESIONISTAS Y ESTUDIANTES
 
@@ -490,3 +502,13 @@ B.O. 27 DE JULIO DE 1974
 PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Estado.
 
 SEGUNDO.- Mientras no se dé por terminado el convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, quedan derogadas las disposiciones de la Ley de Profesiones del Estado que se opongan al cumplimiento del presente Decreto.
+
+B.O. 25 DE NOVIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo deberá adecuar, dentro del término de noventa días siguientes a la entrada en vigor del presente Decreto los Reglamentos respectivos.
