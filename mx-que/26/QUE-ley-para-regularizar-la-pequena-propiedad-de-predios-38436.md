@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-la-pequena-propiedad-de-predios-38436"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-19"
-last_updated: "2004-03-19"
+last_updated: "2004-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA REGULARIZAR LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 19 de marzo de 2004.
 
@@ -59,13 +59,17 @@ LEY PARA REGULARIZAR LA PEQUEÑA PROPIEDAD DE PREDIOS RÚSTICOS EN EL ESTADO DE 
 
 Esta ley es de orden público e interés social, y tiene por objeto establecer los supuestos y procedimientos a que debe ajustarse la regularización de la pequeña propiedad de predios rústicos en el Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta ley, se consideran predios rústicos aquellos que con este carácter estén considerados por la Dirección de Catastro del Estado.
+Para los efectos de esta Ley, se consideran predios rústicos, aquellos que con este carácter estén considerados por la Dirección de Catastro del Estado o de los municipios en su caso.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 3.
 
-Son objeto de la presente ley los predios rústicos cuyo valor catastral no exceda de ochenta veces el salario mínimo diario vigente en el Estado elevado al año, y cuya extensión no exceda a lo dispuesto por el artículo 27 fracción XV de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.
+Son objeto de la presente Ley, los predios rústicos cuyo valor catastral no exceda de treinta y cinco veces el salario mínimo diario vigente en el Estado elevado al año, y cuya extensión no exceda a lo dispuesto por el artículo 27 fracción XV de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.
 
 ###### Artículo 4.
 
@@ -89,19 +93,25 @@ A su escrito inicial, el promovente acompañará los siguientes documentos:
 
 a) Certificado expedido por el Registro Público de la Propiedad que acredite la no inscripción del bien que pretende inscribir o de haber inscripción, acompañará certificado en tal sentido y documentos que acrediten la posesión, aún cuando el bien inmueble esté inscrito a favor de otra persona.
 
-b) Certificado de no propiedad del promovente, expedido por el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+b) Certificado de No Propiedad o de Propiedad Única, según sea el caso, expedido por el Registro Público de la Propiedad a favor del promovente.
 
 c) Documento expedido por la autoridad municipal a que corresponda la ubicación del predio, donde conste el avecindamiento del titular y que el promovente tiene la posesión en los términos señalados en los artículos 1127 y 1128 del Código Civil para el Estado de Querétaro.
 
-d) Constancia expedida por la Dirección de Catastro del Estado que contenga medidas y colindancias, y que certifique que el predio a prescribir se ajusta a lo previsto por los artículos 2 y 3 de esta ley, y la certificación de no existir oposición de los colindantes sobre la posesión del inmueble.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+d) Constancia expedida por la Dirección de Catastro del Estado o de los municipios en su caso, que contenga medidas y colindancias, y que certifique que el predio a prescribir se ajuste a lo previsto por los artículos 2 y 3 de esta Ley.
 
 e) Plano del inmueble autorizado por la Dirección de Catastro del Estado.
 
 f) Declaración bajo protesta de decir verdad, en la que el promovente manifieste encontrarse en posesión pacifica del predio materia del procedimiento.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 9.
 
-De considerarse necesario, se citará al presidente municipal del lugar, al ministerio público competente y al encargado correspondiente del registro Público de la Propiedad, para que manifiesten lo que a los intereses que representan conviniere.
+El juez que conozca del procedimiento, ordenará la publicación de un edicto en un periódico de mayor circulación en el Estado, a efecto de que tengan conocimiento posibles interesados y hagan valer lo que a su derecho convenga. En caso de considerarlo necesario, citará al presidente municipal del lugar, al ministerio público competente y al encargado correspondiente del Registro Público de la Propiedad, para que manifiesten lo que a los intereses que representan conviniere.
 
 ###### Artículo 10.
 
@@ -109,9 +119,11 @@ En todas las promociones iniciales, el solicitante expresará las medidas y coli
 
 La autoridad que conozca de la promoción, informará de inmediato a la Secretaría de Gobierno a través de la Dirección Jurídica, de los datos de los promoventes y de los predios a tramitar.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 11.
 
-Recibidas las promociones en los términos señalados, el juez las estudiará y dictará la resolución procedente, la cual deberá contener, los datos de identificación del procedimiento, el mandamiento al actuario para que notifique a su discreción a dos o tres vecinos cercanos al inmueble, el mandamiento para que se publique en los estrados del juzgado y en el edificio de la presidencia municipal que corresponda, con el objeto de que tenga conocimiento algún posible interesado y que haga valer lo que a su derecho convenga.
+Satisfechas las formalidades y los requisitos en los términos señalados, el juez estudiará las solicitudes y dictará la resolución correspondiente, misma que deberá contener los datos de identificación del predio a regularizar y la referencia de las constancias procesales por las que se dio publicidad al procedimiento, para que los interesados conocieran el mismo.
 
 ###### Artículo 12.
 
@@ -131,9 +143,11 @@ El juez que conozca de las promociones hechas en los términos de la presente le
 
 Los encargados del Registro Público de la Propiedad, procederán a la inscripción de las resoluciones que le envíe el juez para ese efecto.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 16.
 
-Este procedimiento especial parra predios rústicos, no causará impuesto o derecho alguno de carácter estatal o municipal por motivo de la traslación de dominio, salvo los establecidos por la Dirección de Catastro; por lo que todo funcionario que en ejercicio de sus funciones solicite o reciba una gratificación por el cumplimiento de su servicio, será sancionado conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos; tampoco será necesaria la previa protocolización de la declaratoria judicial dictada en los términos de la presente ley.
+Este procedimiento especial para predios rústicos, no causará impuesto o derecho alguno de carácter estatal o municipal por motivo de la traslación de dominio, salvo los establecidos por la Dirección de Catastro del Estado o de los municipios en su caso, por lo que todo funcionario que en ejercicio de sus funciones solicite o reciba una gratificación por el cumplimiento de su servicio, será sancionado conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos; tampoco será necesaria la previa protocolización de la declaratoria judicial dictada en los términos de la presente Ley.
 
 T R A N S I T O R I O S
 
@@ -190,3 +204,11 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE AGOSTO DE 2004.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
