@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "1997-07-31"
+last_updated: "1998-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -43,11 +43,15 @@ Ley Orgánica del Poder Judicial del Estado de Baja California Sur
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 1o.
 
-El ejercicio del Poder Judicial del Estado de Baja California Sur, se deposita en el Tribunal Superior de Justicia y Jueces del Fuero Común en los términos de la Constitución Política del Estado de Baja California Sur.
+El ejercicio del Poder Judicial del Estado de Baja California Sur, se deposita en el Tribunal Superior de Justicia, Tribunal Estatal Electoral y Jueces del Fuero Común en los términos de la Constitución Política del Estado de Baja California Sur.
 
-Corresponde al Tribunal Superior de Justicia y Jueces del Estado, la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente se la concedan las Leyes.
+Corresponde al Tribunal Superior de Justicia, Tribunal Estatal Electoral y Jueces del Estado, la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente se la concedan las Leyes.
+
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 2o.
 
@@ -55,17 +59,19 @@ El desempeño de la función jurisdiccional corresponde a:
 
 I. El Tribunal Superior de Justicia;
 
-II. Los Jueces de Primera Instancia;
+II. El Tribunal Estatal Electoral;
 
-III. Los Jueces Menores;
+III. Los Jueces de Primera Instancia;
 
-IV. Los Jueces de Paz;
+IV. Los Jueces Menores;
 
-V. Los Árbitros;
+V. Los Jueces de Paz;
 
-VI. El Jurado Popular; y
+VI. Los Árbitros;
 
-VII. Los demás Servidores Públicos y Auxiliares de la Administración de Justicia en los términos que establezca esta Ley, los Códigos de Procedimientos y Leyes relativas.
+VII. El Jurado Popular, y
+
+VIII. Los demás Servidores Públicos y Auxiliares de la Administración de Justicia en los términos que establezca esta Ley, los Códigos de Procedimientos y las leyes relativas.
 
 ## TITULO SEGUNDO. DIVISION TERRITORIAL
 
@@ -137,7 +143,9 @@ Son facultades del Tribunal Superior de Justicia en Pleno:
 
 I. Iniciar ante el Congreso del Estado los proyectos de Ley y promover las reformas que estime conveniente para la buena Administración de Justicia;
 
-II. Resolver sin ulterior recurso, como órgano de sentencia, las causas de responsabilidad por delitos oficiales que deban instruirse en contra de los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, los Secretarios y Subsecretarios del despacho, el Oficial Mayor, el Procurador General y el Subprocurador General de Justicia, el Contralor, los Coordinadores y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas y los Presidentes de Juntas y del Tribunal de Conciliación y Arbitraje, los Magistrados del Tribunal de lo Contencioso Electoral, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, conforme a la Constitución Política del Estado;
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1998)</small>
+
+II. Resolver sin ulterior recurso, como órgano de sentencia, las causas de responsabilidad por delitos oficiales que deban instruirse en contra de los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General y Subprocuradores de la Procuraduría General de Justicia, el Contralor General del Estado, los Coordinadores y Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones Asimiladas, los Presidentes de las Juntas de Conciliación y Arbitraje y el Presidente del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, conforme a la Constitución Política del Estado;
 
 III. Conocer y resolver de las controversias en que el Estado fuere parte como sujeto de derecho privado, salvo lo dispuesto por la Constitución General de la República;
 
@@ -195,7 +203,9 @@ XXIX. Administrar el Fondo Auxiliar para la Administración de Justicia;
 
 XXX. Cambiar a los Magistrados de una Sala a otra cuando las necesidades del servicio lo requieran;
 
-XXXI. Proponer ante el Honorable Congreso del Estado para su elección, a cuatro Licenciados en Derecho que integrarán en su caso el Tribunal de lo Contencioso Electoral;
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 1998)</small>
+
+XXXI. Proponer ante el Honorable Congreso del Estado para su elección, a ocho Licenciados en Derecho que integrarán, en su caso, el Tribunal Estatal Electoral;
 
 XXXII. Determinar los casos de retiro de los Magistrados del Tribunal Superior de Justicia; y
 
@@ -1661,6 +1671,10 @@ V. Agotado el procedimiento, el Tribunal en Pleno, emitirá dictamen fundado y m
 
 ### CAPITULO PRIMERO. DEL PROCEDIMIENTO PARA SUPLIR LAS AUSENCIAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
+## TITULO DECIMO PRIMERO. DEL TRIBUNAL ESTATAL ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
 ### CAPITULO SEGUNDO. DE LAS AUSENCIAS ACCIDENTALES Y TEMPORALES
 
 ###### ARTICULO 167.
@@ -1717,6 +1731,10 @@ Las ausencias absolutas de los Jueces serán suplidas en la forma prevista por e
 
 Las ausencias absolutas de los Secretarios del Tribunal y de los Juzgados, así como de los demás Servidores Públicos del Poder Judicial, serán cubiertas por nuevos nombramientos, y entre tanto se proceda a ello, se suplirán en la forma prevista para las ausencias temporales.
 
+### CAPITULO SEGUNDO. DE SU INTEGRACION
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 178.
 
 En el Poder Judicial del Estado se gozará de los períodos de vacaciones que fije el Pleno del Tribunal Superior de Justicia.
@@ -1724,6 +1742,270 @@ En el Poder Judicial del Estado se gozará de los períodos de vacaciones que fi
 ###### ARTICULO 179.
 
 Los Magistrados podrán obtener licencia con o sin goce de sueldo hasta por tres meses, solicitándola al Congreso del Estado o a la Diputación permanente, de acuerdo con la fracción VI del artículo 66, de la Constitución Política del Estado.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 180.
+
+El Tribunal Estatal Electoral es un organismo jurisdiccional, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica propia, que dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+Contra las resoluciones definitivas dictadas por el Tribunal Estatal Electoral sólo procederán las impugnaciones a que refiere el artículo 99 fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 181.
+
+El Tribunal Estatal Electoral tendrá las siguientes atribuciones:
+
+I. Conocer y resolver de los recursos de su competencia interpuestos de conformidad a la Ley Electoral del Estado;
+
+II. Emitir los acuerdos que resulten necesarios para garantizar el debido funcionamiento del Pleno, en todo aquello que no esté previsto expresamente en la Ley Electoral del Estado;
+
+III. Elaborar su Reglamento Interno;
+
+IV. Fijar los criterios de observancia obligatoria, cuando haya sentado jurisprudencia después de haberse dictado tres resoluciones en el mismo sentido, no interrumpidas por ninguna en contrario;
+
+V. Conocer de las excusas de los Magistrados Numerarios, llamando en su caso a los Supernumerarios a integrar el Pleno para la tramitación del asunto de que se trate, si no se alcanzara la integración a que se refiere el artículo siguiente de la presente Ley;
+
+VI. Nombrar y remover en su caso, al Secretario General de Acuerdos y al Actuario del Tribunal;
+
+VII. Autorizar la celebración de convenios de colaboración con otros tribunales, instituciones y autoridades para el mejor desempeño del Tribunal;
+
+VIII. Discutir y aprobar el proyecto del presupuesto anual de egresos del Tribunal, para que posteriormente se proponga al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado;
+
+IX. A través del Presidente ejercer el presupuesto de egresos del Tribunal, y
+
+X. Las demás que le señale esta Ley, la Ley Electoral del Estado de Baja California Sur y otras disposiciones legales que le sean aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+### CAPITULO TERCERO. DE SU FUNCIONAMIENTO
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 182.
+
+El Tribunal Estatal Electoral residirá en la Capital del Estado y estará integrado con tres Magistrados Numerarios y dos Supernumerarios, que serán designados en los términos dispuestos por los artículos 99 de la Constitución Política del Estado y 185 de la presente Ley y se instalará e iniciará sus funciones en la segunda quincena del mes de agosto del año anterior al de la elección.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 183.
+
+En la fecha de instalación del Tribunal Estatal Electoral en la sede de éste, se reunirán los Magistrados, debiendo estar presididos por el Magistrado de mayor edad.
+
+Inmediatamente se procederá a la elección del Presidente del Tribunal, en votación secreta y escrutinio público y por mayoría de votos, quien desempeñará el cargo durante todo el proceso electoral ordinario, o en su caso, el extraordinario.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 184.
+
+Para ser Magistrado del Tribunal Estatal Electoral, se deberán cumplir los siguientes requisitos:
+
+I. Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, y con residencia en el Estado por tres años;
+
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco en la fecha de su elección;
+
+III. Poseer el día de su elección, con una antigüedad mínima de diez años, título profesional de Licenciado en Derecho y Cédula Profesional, expedidos por la autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite más de un año de prisión en sentencia ejecutoria; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V. No haber sido ministro de algún culto religioso; a menos que se haya separado formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de su elección;
+
+VI. No tener ni haber tenido cargo alguno de elección popular cinco años anteriores al de su elección;
+
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cinco años anteriores al de su elección;
+
+VIII. No ocupar cargo alguno en la administración pública estatal o municipal por lo menos dos años antes del día de la celebración de las elecciones, excepto los relativos en materia electoral o la docencia, y
+
+IX. Estar inscrito en el padrón electoral y poseer credencial con fotografía para votar.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 185.
+
+Para nombrar a los Magistrados del Tribunal Estatal Electoral, deberá observarse el siguiente procedimiento:
+
+I. El Tribunal Superior de Justicia del Estado, hará llegar al Congreso del Estado, una lista de ocho ciudadanos propuestos para que desempeñen los cargos de Magistrados del Tribunal Estatal Electoral;
+
+II. El Congreso del Estado designará de entre los propuestos, por el voto de las dos terceras partes de sus miembros presentes, a los ciudadanos que desempeñarán el cargo de Magistrados Numerarios y Supernumerarios. Las propuestas de ciudadanos para ocupar el cargo de Magistrados del Tribunal Estatal Electoral serán votadas de manera individual y sucesiva, a propuesta de una Comisión Especial integrada de manera plural que al efecto designe el Pleno del Congreso del Estado, y
+
+III. Si realizada la ronda de votación no se cubriera la totalidad de magistraturas a designar, se procederá a la designación mediante insaculación de los candidatos propuestos, el número que corresponda de Magistrados.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 186.
+
+Los Magistrados serán electos para ejercer sus funciones por el término de seis años.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 187.
+
+Durante el tiempo que ejerzan las funciones de su encargo, los Magistrados no podrán, en ningún caso, aceptar designación alguna o desempeñar funciones encomendadas por la Federación, el Estado, Municipios, entidades paraestatales o particulares; ni ejercer su profesión, salvo en causa propia.
+
+Sólo podrán desempeñar actividades de carácter docentes u honoríficas, cuando no sean incompatibles con el ejercicio de la magistratura.
+
+Los Magistrados del Tribunal Estatal Electoral deberán excusarse de conocer algún asunto en que tengan interés personal por las relaciones de parentesco, por consanguinidad en línea recta o colaterales y por afinidad hasta el cuarto grado, en negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. En este caso, el Pleno del Tribunal calificará y resolverá de inmediato la excusa.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 188.
+
+El Magistrado Presidente del Tribunal Estatal Electoral, además de las funciones que esta Ley le encomienda a los Magistrados Numerarios, tendrá las siguientes atribuciones:
+
+I. Convocar a los demás miembros del Tribunal, para la instalación e inicio de sus funciones, en los términos de esta Ley;
+
+II. Presidir las sesiones del Pleno del Tribunal, dirigir los debates y conservar el orden durante las mismas;
+
+III. Representar al Tribunal ante toda clase de autoridades;
+
+IV. Proponer al Pleno los nombramientos de Secretario General de Acuerdos y Actuario del Tribunal;
+
+V. Nombrar al personal administrativo necesario para el buen funcionamiento del Tribunal;
+
+VI. Elaborar el proyecto de presupuesto anual de egresos del Tribunal y someterlo a la aprobación del Pleno en los términos de la Fracción VIII del Artículo 181 de esta Ley;
+
+VII. Despachar la correspondencia del Tribunal;
+
+VIII. Ordenar y vigilar que se notifique a los organismos electorales en el Estado, partidos políticos y a quien corresponda, las resoluciones que se dicten sobre los recursos de que conozca el Tribunal;
+
+IX. Resolver las solicitudes de licencia al personal administrativo, en los términos de las disposiciones legales aplicables;
+
+X. Solicitar el auxilio de la fuerza pública y de las autoridades administrativas estatales y municipales a fin de dar cumplimiento a las resoluciones del Tribunal;
+
+XI. Rendir ante el Pleno un informe al término de cada proceso electoral, dando cuenta del estado que guarda el Tribunal;
+
+XII. Ejercer el Presupuesto de Egresos; y
+
+XIII. Las demás que le confiere esta Ley y la Ley Electoral del Estado.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 189.
+
+Son atribuciones de los Magistrados Numerarios del Tribunal Estatal Electoral:
+
+I. Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones privadas a las que sean convocados por el Presidente del Tribunal;
+
+II. Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
+
+III. Formular los proyectos de resolución de expedientes que le sean turnados para tal efecto;
+
+IV. Exponer en sesión pública sus proyectos de resolución, señalando las consideraciones jurídicas y los preceptos en que se funden;
+
+V. Discutir y votar los proyectos de resolución que sean sometidos a su consideración en las sesiones públicas;
+
+VI. Formular voto particular razonado en caso de disentir en un proyecto de resolución aprobado por la mayoría y solicitar que se agregue al expediente;
+
+VII. Solicitar que sus proyectos de resolución se agreguen a los expedientes como votos particulares, cuando no sean aprobados por la mayoría;
+
+VIII. Realizar tareas de docencia e investigación en el Tribunal, y
+
+IX. Las demás que sean necesarias para el correcto funcionamiento del Tribunal y las que les confieran la presente Ley y la Ley Electoral del Estado.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 190.
+
+Los Magistrados Supernumerarios tendrán las siguientes funciones:
+
+I. Integrar el Pleno del Tribunal cuando sean convocados para ello;
+
+II. Auxiliar a los Magistrados Numerarios en el estudio, análisis y valoración de los asuntos a resolver, y
+
+III. Las demás que les encomiende el Magistrado Presidente del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 191.
+
+El Tribunal Estatal Electoral, funcionará en Pleno, el que lo constituirán los tres Magistrados Numerarios, integrándose con la presencia de cuando menos dos de ellos, entre los cuales deberá estar el Magistrado Presidente y las resoluciones se acordarán por mayoría simple de votos de los Magistrados presentes; en caso de empate el Magistrado Presidente tendrá voto de calidad.
+
+Las sesiones del Tribunal serán públicas, pero podrán ser secretas cuando lo determine el propio Tribunal Estatal Electoral.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 192.
+
+Las ausencias de los Magistrados Numerarios serán cubiertas por los Supernumerarios en el orden que determine el Congreso del Estado al elegirlos.
+
+La remoción de los Magistrados del Tribunal, procederá únicamente cuando dejen de reunir los requisitos que establece el artículo 184 de esta Ley y será facultad exclusiva del Congreso del Estado, oyendo previamente al interesado.
+
+La resolución que dicte el Congreso del Estado será definitiva e inatacable.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 193.
+
+Para la tramitación, integración y sustanciación de los expedientes relativos a los medios de impugnación que deba resolver, el Tribunal Estatal Electoral contará con un Secretario General de Acuerdos, Actuario y demás personal que sea necesario.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 194.
+
+Para ser Secretario General de Acuerdos y Actuario se deberán satisfacer los siguientes requisitos:
+
+I. Ser mexicano por nacimiento y estar en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Ser mayor de veinticinco años de edad y menor de sesenta y cinco el día de su designación;
+
+III. Tener Título y cédula debidamente registrados de Licenciado en Derecho, con una antigüedad mínima de un año, excepto para los Actuarios que podrán ser pasantes de dicha profesión;
+
+IV. Ser de reconocida buena conducta;
+
+V. No haber sido dirigente nacional, estatal o municipal de algún partido político, en los últimos cinco años, ni haber desempeñado cargo de elección popular en igual lapso, y
+
+VI. Tener credencial con fotografía para votar.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 195.
+
+El Secretario General de Acuerdos, tendrá las siguientes atribuciones:
+
+I. Dar cuenta en las sesiones del Pleno, de los asuntos en cartera, tomar las votaciones de los Magistrados y formular el acta respectiva;
+
+II. Autorizar con su firma las actuaciones del Tribunal;
+
+III. Supervisar que se hagan en tiempo y forma las notificaciones que ordena la Ley Electoral del Estado;
+
+IV. Engrosar los fallos del Pleno, bajo la supervisión del Presidente del Tribunal;
+
+V. Llevar el turno de los Magistrados que deben formular los proyectos de ponencias para la resolución del Pleno del Tribunal;
+
+VI. Expedir certificaciones, y
+
+VII. Las demás que le encomiende el Pleno y el Presidente del Tribunal.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 196.
+
+El Actuario del Tribunal Estatal Electoral tendrá las siguientes funciones:
+
+I. Autorizar con su firma las diligencias y notificaciones teniendo fe pública en el desempeño de las funciones que se le encomienden;
+
+II. Realizar las notificaciones que le sean ordenadas con las formalidades prescritas por el procedimiento respectivo;
+
+III. Auxiliar al Secretario General de Acuerdos en sus labores, y
+
+IV. Las demás que le fije esta Ley y las que sus superiores le encomienden.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 197.
+
+Los Magistrados del Tribunal Estatal Electoral percibirán una remuneración adecuada e irrenunciable la cual no podrá ser disminuida durante su encargo.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 198.
+
+En los períodos en los cuales no se celebren elecciones, el Tribunal Estatal Electoral realizará tareas de capacitación, investigación, documentación y difusión en materia electoral.
 
 T R A N S I T O R I O S:
 
@@ -1780,3 +2062,19 @@ LIC. RAUL ANTONIO ORTEGA SALGADO.
 B.O. 31 DE JULIO DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 19 DE JUNIO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los bienes muebles e inmuebles destinados al Tribunal Estatal de lo Contencioso Electoral, quedarán destinados al Tribunal Estatal Electoral del Poder Judicial del Estado, a fin de garantizar su adecuado funcionamiento.
+
+TERCERO.- Para ajustar el presupuesto correspondiente al ejercicio fiscal del año de 1998 del Instituto Estatal Electoral a los nuevos montos de financiamiento público a los partidos políticos, el Presidente del Consejo General turnará la solicitud de ampliación correspondiente al Titular del Poder Ejecutivo, para que éste la presente ante el Congreso del Estado.
+
+CUARTO.- Dentro del articulado de la Ley Electoral del Estado de Baja California Sur, por Comisión Estatal Electoral y Tribunal de lo Contencioso Electoral se entenderá Instituto Estatal Electoral y Tribunal Estatal Electoral, respectivamente.
+
+QUINTO.- Para el proceso electoral ordinario 1998-1999, los Consejeros Electorales que actualmente integran la Comisión Estatal Electoral así como los Magistrados que actualmente integran el Tribunal Estatal Electoral, podrán ser propuestos y electos para ocupar esos cargos en el Consejo General del Instituto Estatal Electoral y en el mencionado Tribunal, respectivamente, de conformidad a lo dispuesto por el presente Decreto.
+
+SEXTO.- El Convenio que se haya celebrado con el organismo electoral federal, con anterioridad a la entrada en vigor del presente Decreto, para la utilización del catálogo general de electores, padrón electoral, listado nominal y credencial con fotografía para votar, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo de los procesos electorales del Estado, tendrá plena validez, hasta en tanto no se otorgue otro convenio con el mismo objeto.
+
+SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
