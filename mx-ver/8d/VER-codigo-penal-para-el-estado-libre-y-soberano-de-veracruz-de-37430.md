@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2004-11-03"
+last_updated: "2005-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE FEBRERO DE 2005.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -705,7 +705,7 @@ Los delitos culposos serán sancionados, salvo disposición en contrario, con pr
 
 ###### Artículo 86.
 
-El responsable de tentativa será sancionado, salvo disposición en contrario, con prisión de quince días a diez años y multa hasta de doscientos días de salario; para imponer la pensa el juez tomará en cuenta, además de lo previsto por este código, el mayor o menor grado de aproximación al momento de consumación del delito.
+El responsable de tentativa será sancionado, salvo disposición en contrario, con prisión de quince días a diez años y multa hasta de doscientos días de salario; para imponer la pena el juez tomará en cuenta, además de lo previsto por este código, el mayor o menor grado de aproximación al momento de consumación del delito.
 
 ### CAPÍTULO IV. REINCIDENCIA
 
@@ -1105,7 +1105,9 @@ V. Por asfixia, envenenamiento o empleo de cualquier sustancia nociva para la sa
 
 VI. Por contagio intencional de una enfermedad incurable.
 
-Para efectos de la fracción I, hay premeditación cuando el agente causa la muerte o la lesión después de haber reflexionado sobre el delito que pretende cometer; alevosía, cuando se sorprende intencionalmente a alguien empleando acechanza o engaño; ventaja, cuando el delincuente no corre el riesgo de ser muerto o herido por el ofendido; y traición, cuando se viola la seguridad que expresamente se había prometido a la víctima, o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquiera otra circunstancia que inspire confianza.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2005)</small>
+
+Para efectos de la fracción I, hay premeditación cuando el agente causa la muerte o lesión después de haber reflexionado sobre el delito que pretende cometer; alevosía, cuando se sorprende intencionalmente a alguien empleando la acechanza o engaño, ventaja, cuando el delincuente tenga superioridad física sobre la víctima y ésta sea mujer, niño, adultos mayores o personas con capacidades diferentes, o cuando el delincuente no corra el riesgo de ser muerto o herido por el ofendido; y traición, cuando se viola la seguridad que expresamente se había prometido a la víctima, o a la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquiera otra circunstancia que inspire confianza.
 
 ###### Artículo 145.
 
@@ -3030,3 +3032,9 @@ G.O. 3 DE NOVIEMBRE DE 2004.
 PRIMERO. El presente Decreto entrará en vigor los quince días siguientes al de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE FEBRERO DE 2005.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan al presente Decreto.
