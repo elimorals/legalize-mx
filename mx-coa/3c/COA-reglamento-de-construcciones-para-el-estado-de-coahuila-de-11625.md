@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-construcciones-para-el-estado-de-coahuila-de-1162
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-23"
-last_updated: "1996-08-23"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 23 de agosto de 1996.
 
@@ -3005,6 +3005,14 @@ El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que
 
 Los materiales usados en las edificaciones, que estén sujetos a la acción de agentes físicos, químicos o biológicos, los cuales pueden hacer disminuir su resistencia deberán recubrirse con sustancias protectoras que aseguren su funcionamiento y resistencia.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2003)</small>
+
+Para el efecto de racionalizar el uso de la energía en las sustancias de enfriamiento en todos los edificios y sus ampliaciones, se deberá tomar en cuenta como norma obligatoria dentro del régimen interno del estado, la Norma Oficial Mexicana NOM-008-ENER2001 denominada "Eficiencia energética en edificaciones, envolvente de edificios no residenciales", publicada en el Diario Oficial de la Federación el 25 de abril de 2001, así como las demás Normas Oficiales Mexicanas que al efecto se emitan en ese rubro.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2003)</small>
+
+Corresponderá a la Secretaría de Urbanismo y Obras Públicas del Estado vigilar la debida aplicación de lo dispuesto en este artículo.
+
 ###### ARTICULO 175.
 
 Los materiales podrán disponerse en la vía pública sólo por el momento que se tome su maniobra para la introducción o extracción del predio, no ocupando un ancho mayor de 50% de la banqueta. Y un tiempo no mayor de 24 horas, sin ocupar la superficie del rodamiento. El no hacerlo es motivo de sanción.
@@ -4136,3 +4144,9 @@ LIC. CARLOS JUARISTI SEPTIEN
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 LIC. ROGELIO RAMOS ORANDAY
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+P.O. 13 DE JUNIO DE 2003.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
