@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1959-07-11"
+last_updated: "1965-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1965.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -2643,11 +2643,17 @@ Todas las contiendas entre partes cuya tramitación no esté prevista en este t�
 
 En los casos de las fracciones V, VII y XV no se requieren más solemnidades que oír a las partes, primero al denunciante o al actor, en seguida a los demandados, recibir en ese orden sus pruebas en el acto mismo y dictar allí la resolución concisa o dentro de los tres días siguientes a juicio del juez. Si no estuviere el secretario, procederá el juez, con dos testigos de asistencia. Todo el juicio se hará constar en una sola acta cuando termine en un solo día.
 
+> <small>(REFORMADO P.O. 22 DE MAYO DE 1965)</small>
+
 ###### Artículo 425.
 
 El juicio sumario se inicia, por lo general, con el escrito de demanda en que se deben llenar los requisitos a que se refieren los artículos 258 y 259.
 
-Del escrito de demanda se corre traslado al demandado por un término no mayor de cinco días para que produzca la contestación.
+Del Escrito de demanda se corre traslado al demandado por un término no mayor de cinco días para que produzca la contestación.
+
+Tratándose de juicio que versen sobre cuestiones relativas a contratos de arrendamiento de fincas urbanas destinadas a habitación cuya renta no exceda de $200.00 Doscientos Pesos mensuales, y siempre que el demandado sea el arrendatario, los jueces de primera instancia y los jueces menores ordenarán que se notifique personalmente la admisión de la demanda correspondiente a la defensoría oficial de su adscripción.
+
+El término de cinco días a que se refiere este artículo, empezará a contarse al día siguiente del de la notificación a la defensoría oficial, cuando, el emplazamiento al demandado haya sido anterior. Los jueces menores ordenarán que la notificación a la defensoría se haga el mismo día en que se emplace al demandado.
 
 ###### Artículo 426.
 
@@ -6446,3 +6452,7 @@ UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondien
 P.O. 11 DE JULIO DE 1959.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE MAYO DE 1965.
+
+UNICO.- La presente reforma niciará (sic) su vigencia a los quince días de su publicación en el Periódico Oficial del Estado.
