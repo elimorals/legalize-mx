@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1990-12-22"
+last_updated: "1990-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1990.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -403,9 +403,9 @@ Cuando se omita la presentación de declaraciones para el pago de impuestos prop
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal, salvo que proceda dispensar la garantía.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-Durante los términos concedidos se causarán intereses hasta el 8.5% mensual, a juicio del Director General de Finanzas.
+El Congreso del Estado fijará anualmente la tasa de interés que causarán los créditos fiscales en los que se haya concedido prórroga para su pago o para que sean cubiertos en parcialidades.
 
 47.- Vencerán anticipadamente los términos y la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
 
@@ -429,9 +429,9 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-50.- Los contribuyentes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 12.75% por cada mes o fracción que transcurra a partir de la fecha de exigibilidad, hasta que se efectúe el pago. Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracciones a disposiciones fiscales.
+50.- Los contribuyentes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora, de acuerdo a la tasa que fije anualmente el Congreso del Estado, la cual se aplicará por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos se causarán hasta por 5 (cinco) años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracciones a disposiciones fiscales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -459,13 +459,17 @@ La devolución deberá hacerse a petición del interesado y dentro del término 
 
 53.- La condonación o reducción de impuestos solamente podrá concederse por decreto del Congreso del Estado expedido con aplicación general, y únicamente en los casos en que por fuerza mayor o por accidentes naturales ocurridos en el Estado, los causantes hayan sufrido perjuicios considerables que afecten tanto su situación económica como los diversos elementos que haya tenido en cuenta la ley para establecer los impuestos de que se trate.
 
-Sin embargo de lo anterior, tratándose de derechos y de rezagos, o sea de ingresos que se perciben en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Director General de Finanzas podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del Artículo 93 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+
+Sin embargo, tratándose de rezagos, o sea de ingresos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Director General de Finanzas podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del Artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 54.- Las multas por infracciones fiscales deberán ser revocadas totalmente si por pruebas diversas de las presentadas ante las autoridades fiscales, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
-Los recargos y las multas por infracción a las disposiciones fiscales podrán ser condonadas por el Tesorero General del Estado, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso. Contra esta resolución no cabrá ningún recurso.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+
+Los derechos y las multas por infracciones a las disposiciones fiscales podrán ser condonados por la Dirección General de Finanzas, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso. Contra esta resolución no cabrá recurso alguno.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
@@ -645,7 +649,7 @@ II.- Que el dictamen que emita el Contador Público se formule conforme a las no
 
 III.- Que los contribuyentes comuniquen por escrito a la Tesoería (sic) General del Estado que sus estados financieros serán dictaminados por Contador Público para los fines de este artículo, proporcionando los datos de identificación del profesionista, así como constancia expresa de la aceptación del mismo, y entreguen a la Tesorería General del Estado una copia del dictamen, dentro de los 180 días siguientes a la fecha de la comunicación aludida.
 
-IV.- Que el dictamen presentado a la Tesorería General del Estado se acompañe de una declaración del contador público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate ha cumplido con los obligaciones tributarias que le impone este Código, o en su defecto deberá establecer las salvedades correspondientes precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
+IV.- Que el dictamen presentado a la Tesorería General del Estado se acompañe de una declaración del contador público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate ha cumplido con las obligaciones tributarias que le impone este Código, o en su defecto deberá establecer las salvedades correspondientes precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
 
 Los contribuyentes que utilicen los servicios de Contador Público para dictaminar sus estados financieros con fines fiscales federales, están obligados a entregar invariablemente, a la Tesorería General, una copia del dictamen correspondiente. No están sujetos a esta obligación, las sucursales, agencias o cualquiera otra dependencia de negociaciones radicadas fuera del Territorio del Estado.
 
@@ -1611,7 +1615,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -1681,73 +1685,33 @@ Cuando dichas personas operen organizadas en agrupaciones profesionales, asociac
 
 #### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-177.- El impuesto se causará mensualmente conforme a la siguiente:
+177.- El impuesto se causará mensualmente, conforme a la siguiente
 
-TARIFA:
+TARIFA
 
-Límite Límite Cuota Porcentaje para
+INGRESOS NETOS TASA
 
-Inferior Superior Fija aplicarse s/el
+HASTA 400,000 5.5%
 
-M$N M$N excedente del límite
+MAS DE 400,000 HASTA 750,000 6.5%
 
-inferior.
+MAS DE 750,000 HASTA 1´500.000 7.0%
 
-De 0.01 a 1,200.00 Exento 0.0
+MAS DE 1´500,000 HASTA 2´750.000 7.5%
 
-" 1,200.01 " 1,500.00 7.00 más 1.2
+MAS DE 2´750.000 HASTA 4´500.000 8.0%
 
-" 1,500.01 " 2,000.00 12.00 " 1.4
+MAS DE 4´500.000 8.5%
 
-" 2,000.01 " 2,500.00 19.00 " 1.6
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-" 2,500.01 " 3,000.00 27.00 " 1.9
+178.- Los sujetos de este impuesto podrán deducir los gastos necesarios con motivo del ejercicio de la actividad profesional independiente.
 
-" 3,000.01 " 4,000.00 36.50 " 2.3
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-" 4,000.01 " 5,000.00 59.50 " 2.7
-
-" 5,000.01 " 6,000.00 86.50 " 3.1
-
-" 6,000.01 " 7,000.00 117.50 " 3.4
-
-" 7,000.01 " 8,000.00 151.50 " 3.6
-
-" 8,000.01 " 9,000.00 187.50 " 3.9
-
-" 9,000.01 " 10,000.00 226.50 " 4.2
-
-" 10,000.01 " 12,000.00 268.50 " 4.6
-
-" 12,000.01 " 15,000.00 360.50 " 5.5
-
-" 15,000.01 " 18,000.00 525.50 " 6.5
-
-" 18,000.01 " 21,000.00 720.50 " 7.5
-
-" 21,000.01 " 25,000.00 945.50 " 8.2
-
-" 25,000.01 " 30,000.00 1,273.50 " 8.5
-
-" 30,000.01 en adelante 1,698.50 " 8.7
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-178.- Los sujetos de este impuesto podrán deducir de los ingresos que perciban, exclusivamente los siguientes conceptos:
-
-I.- Las cantidades pagadas por: sueldos, salarios y honorarios, propios del ejercicio de la actividad de que se trate, siempre y cuando las personas que perciban el sueldo o salario estén inscritas en el Instituto Mexicano del Seguro Social, y las que perciban honorarios tengan cédula profesional y estén registrados en el Padrón Estatal de Causantes.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-II.- El precio del arrendamiento del local que se destine exclusivamente a su actividad, siempre que se acredite que los recibos reúnen los requisitos legales.
-
-Los sujetos del Impuesto deberán llevar por lo menos, un libro de ingresos y egresos.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-179.- Los artistas cinematográficos, los de variedades, los que efectúen representaciones teatrales, así como los sujetos que actúen en espectáculos taurinos o deportivos tendrán derecho a deducir únicamente el 20% de los ingresos brutos, no pudiendo hacer las deducciones a que se refieren las dos primeras fracciones del artículo anterior.
+179.- Los artistas cinematográficos, los de variedades, los que efectúan representaciones teatrales, así como los sujetos que actúen en espectáculos taurinos o deportivos, tendrán derecho a deducir únicamente el 20% de los ingresos brutos, no pudiendo hacer las deducciones a que se refiere el artículo anterior.
 
 180.- La Tesorería General del Estado podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
 
@@ -1765,9 +1729,9 @@ Sobre los ingresos brutos estimados, se reconocerá como deducción única, el i
 
 181.- Los causantes de este impuesto están obligados:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-I.- A efectuar el pago del Impuesto dentro de los días 1o. al 20 de cada mes mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. Los causantes que enteren el gravamen a base de cuota fija en los términos del artículo 184 de este Código, deberán pagar el impuesto bimestralmente, dentro de la última quincena del bimestre correspondiente.
+I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior.
 
 II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
 
@@ -1803,25 +1767,9 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 #### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+184.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1990)
 
-184.- Los causantes que obtengan ingresos provenientes de actividades gravadas por este capítulo, podrán cubrir el impuesto a base de cuota fija bimestral siempre que sus ingresos brutos no sean superiores a $900,000.00 (Novecientos mil pesos 00/100 M.N.) anuales, en las condiciones y con las formalidades siguientes:
-
-I.- Los causantes que opten por el pago del impuesto a base de cuota fija bimestral, lo manifestarán por escrito, a la Recaudación de Rentas de su jurisdicción, para que ésta de acuerdo con ellos determine provisionalmente la cuota que les corresponda, la que en ningún caso podrá ser inferior a $300.00 (Trescientos pesos 00/100 M.N.) bimestrales si se trata de sujetos cuya actividad exija título para su ejercicio y de $100.00 (Cien pesos 00/100 M.N.) en los demás casos. Al fijarse la cuota se aplicará la tarifa establecida en el artículo 177.
-
-II.- Las Recaudaciones de Rentas someterán las determinaciones provisionales que se mencionan en la fracción anterior, a aprobación definitiva de la Tesorería General del Estado, anotando los ingresos mensuales que los causantes interesados hayan venido manifestando y la cuota bimestral que se les haya asignado.
-
-III.- Los causantes que opten por esta forma de pago, no estarán obligados a presentar las declaraciones mensuales que previene este Código, ni a llevar los libros de contabilidad, pero estarán sujetos a las demás disposiciones contenidas en este Ordenamiento.
-
-IV.- Es obligación de los causantes que estén pagando a base de cuota bimestral, dar inmediato aviso a la Recaudación de Rentas de su jurisdicción cuando estimen que sus ingresos serán mayores de $900,000.00 (Novecientos mil pesos 00/100 M.N.) anuales a fin de que la oficina receptora pueda tomar las medidas fiscales que procedan. Darán también aviso cuando sus ingresos excedan en un 20% a aquéllos por los que se fijó la cuota.
-
-V.- Las determinaciones de ingresos a que se refiere este precepto, tendrán una vigencia hasta el 31 de diciembre del año correspondiente, independientemente de la fecha en que se efectúen. La vigencia se prolongará por un año más, si la Tesorería estima que no han variado los supuestos que las motivaron o los causantes no dan aviso de esa circunstancia.
-
-VI.- La Tesorería General del Estado podrá comprobar en cualquier momento, por los medios que estime conveniente, la situación fiscal de los causantes.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-185.- Los causantes organizados en agrupaciones profesionales, asociaciones o sociedades de carácter civil, no podrán optar por la forma de pago a que alude el artículo anterior.
+185.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1990)
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -4338,3 +4286,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE DICIEMBRE DE 1990.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y uno.
+
+P.O. 29 DE DICIEMBRE DE 1990.
+
+DECRETO No. 365-90-II-P.O.
+
+###### ARTICULO UNICO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado, el cual entrará en vigor a partir del día primero de enero de mil novecientos noventa y uno.
+
+P.O. 29 DE DICIEMBRE DE 1990.
+
+DECRETO No. 366-90-II-P.O.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día primero de mil novecientos noventa y uno.
