@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2004-03-10"
+last_updated: "2004-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2004.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -363,6 +363,10 @@ VIII. Evaluar y dar seguimiento del rendimiento financiero de las inversiones pr
 
 IX. Establecer, en el ámbito de la Comisión, los sistemas de información financiera.
 
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2004)</small>
+
+X. Formular pliegos preventivos de responsabilidades, de conformidad con el artículo 45 fracción II inciso a) de la Ley de Presupuesto, Contabilidad y Gasto Público Federal. Dicha formulación se hará en la forma y términos que establezca la Secretaría de la Función Pública.
+
 ###### Artículo 12.
 
 A la Dirección de Administración le corresponden, además de las facultades genéricas señaladas en el artículo 9 de este Estatuto, las siguientes:
@@ -584,6 +588,10 @@ IV. Normar la aplicación de la legislación en materia fiscal en el ámbito de 
 V. Elaborar y presentar los estudios de análisis y evaluación financiera de la Comisión, y
 
 VI. Coordinar la atención, por parte de las áreas que competan, de los asuntos que se deriven de las observaciones hechas por los órganos fiscalizadores de la Comisión.
+
+> <small>(ADICIONADA, D.O.F. 17 DE JUNIO DE 2004)</small>
+
+VII. Elaborar los pliegos preventivos de responsabilidades de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -1208,3 +1216,9 @@ Cuarto. Los asuntos que se encuentren en trámite en las unidades administrativa
 El presente Estatuto fue expedido por la Junta de Gobierno de la Comisión Federal de Electricidad, con fundamento en los artículos 12 fracción IV y 15 de la Ley del Servicio Público de Energía Eléctrica, y 15 y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, en sesión ordinaria celebrada el 25 de noviembre de 2003, mediante el Acuerdo Número Ciento Setenta/2003.
 
 Ciudad de México, Distrito Federal, a ocho de enero de dos mil cuatro.- El Director General de la Comisión Federal de Electricidad, Alfredo Elías Ayub.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 17 DE JUNIO DE 2004.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
