@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2002-07-05"
+last_updated: "2002-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2002.
 
@@ -92,15 +92,77 @@ c) Reciban servicios de autotransporte terrestre de bienes, prestados por person
 
 d) Reciban servicios prestados por comisionistas, cuando éstos sean personas físicas.
 
-III. Sean personas físicas o morales que adquieran bienes tangibles, o los usen o gocen temporalmente, que enajenen u otorguen residentes en el extranjero sin establecimiento permanente o base fija en el país.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+III. Sean personas físicas o morales que adquieran bienes tangibles, o los usen o gocen temporalmente, que enajenen u otorguen residentes en el extranjero sin establecimiento permanente en el país.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+IV. Sean personas morales que cuenten con un programa autorizado conforme al Decreto que Establece Programas de Importación Temporal para Producir Artículos de Exportación o al Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación, o tengan un régimen similar en los términos de la legislación aduanera, o sean empresas de la industria automotriz terminal o manufacturera de vehículos de autotransporte o de autopartes para su introducción a depósito fiscal, cuando adquieran bienes autorizados en sus programas de proveedores nacionales.
+
+Las personas morales que hayan efectuado la retención del impuesto, y que a su vez se les retenga dicho impuesto conforme a esta fracción o realicen la exportación de bienes tangibles en los términos previstos en la fracción I del artículo 29 de esta Ley, podrán considerar como impuesto acreditable, el impuesto que les trasladaron y retuvieron, aun cuando no hayan enterado el impuesto retenido de conformidad con lo dispuesto en el inciso c) del antepenúltimo párrafo del artículo 4o. de esta Ley.
+
+Cuando en el cálculo del impuesto mensual previsto en el artículo 5o. de este ordenamiento resulte saldo a favor, los contribuyentes a que se refiere esta fracción podrán obtener la devolución inmediata de dicho saldo disminuyéndolo del monto del impuesto que hayan retenido por las operaciones mencionadas en el mismo periodo y hasta por dicho monto.
+
+Las cantidades por las cuales los contribuyentes hayan obtenido la devolución en los términos de esta fracción, no podrán acreditarse en declaraciones posteriores.
 
 No efectuarán la retención a que se refiere este artículo las personas físicas o morales que estén obligadas al pago del impuesto exclusivamente por la importación de bienes.
 
 Quienes efectúen la retención a que se refiere este artículo sustituirán al enajenante, prestador de servicio u otorgante del uso o goce temporal de bienes en la obligación de pago y entero del impuesto.
 
-El retenedor efectuará la retención del impuesto en el momento en que se efectúe la enajenación de conformidad con el artículo 11, o se esté obligado al pago del mismo en los términos de los artículos 17 y 22 de esta Ley, y lo enterará mediante declaración en las oficinas autorizadas conjuntamente con los pagos provisionales que correspondan al periodo en que se efectúe la retención o, en su defecto, a más tardar el día 17 del mes siguiente al que hubiere efectuado la retención, sin que contra el entero de la retención pueda realizarse acreditamiento, compensación o disminución alguna.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+El retenedor efectuará la retención del impuesto en el momento en el que pague el precio o la contraprestación y sobre el monto de lo efectivamente pagado y lo enterará mediante declaración en las oficinas autorizadas, conjuntamente con el pago del impuesto correspondiente al mes en el cual se efectúe la retención o, en su defecto, a más tardar el día 17 del mes siguiente a aquél en el que hubiese efectuado la retención, sin que contra el entero de la retención pueda realizarse acreditamiento, compensación o disminución alguna, salvo lo dispuesto en la fracción IV de este artículo.
 
 El Ejecutivo Federal, en el reglamento de esta ley, podrá autorizar una retención menor al total del impuesto causado, tomando en consideración las características del sector o de la cadena productiva de que se trate, el control del cumplimiento de obligaciones fiscales, así como la necesidad demostrada de recuperar con mayor oportunidad el impuesto acreditable.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 1o.-B.
+
+Para los efectos de esta Ley se consideran efectivamente cobradas las contraprestaciones cuando se reciban en efectivo, en bienes o en servicios, aun cuando aquéllas correspondan a anticipos, depósitos o a cualquier otro concepto sin importar el nombre con el que se les designe, o bien, cuando el interés del acreedor queda satisfecho mediante cualquier forma de extinción de las obligaciones que den lugar a las contraprestaciones.
+
+Cuando el precio o contraprestación pactados por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes se pague mediante cheque, se considera que el valor de la operación, así como el impuesto al valor agregado trasladado correspondiente, fueron efectivamente pagados en la fecha de cobro del mismo o cuando los contribuyentes transmitan los cheques a un tercero, excepto cuando dicha transmisión sea en procuración.
+
+Se presume que los títulos de crédito distintos al cheque suscritos a favor de los contribuyentes, por quien adquiere el bien, recibe el servicio o usa o goza temporalmente el bien, constituye una garantía del pago del precio o la contraprestación pactados, así como del impuesto al valor agregado correspondiente a la operación de que se trate. En estos casos se entenderán recibidos ambos conceptos por los contribuyentes cuando efectivamente los cobren, o cuando los contribuyentes transmitan a un tercero los documentos pendientes de cobro, excepto cuando dicha transmisión sea en procuración.
+
+Cuando con motivo de la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes, los contribuyentes reciban documentos o vales, respecto de los cuales un tercero asuma la obligación de pago o reciban el pago mediante tarjetas electrónicas o cualquier otro medio que permita al usuario obtener bienes o servicios, se considerará que el valor de las actividades respectivas, así como el impuesto al valor agregado correspondiente, fueron efectivamente pagados en la fecha en la que dichos documentos, vales, tarjetas electrónicas o cualquier otro medio sean recibidos o aceptadas por los contribuyentes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 1o.-C.
+
+Los contribuyentes que transmitan documentos pendientes de cobro mediante una operación de factoraje financiero, considerarán que reciben la contraprestación pactada, así como el impuesto al valor agregado correspondiente a la actividad que dio lugar a la emisión de dichos documentos, en el momento en el que transmitan los documentos pendientes de cobro.
+
+Los contribuyentes a que se refiere el párrafo anterior, podrán optar por considerar que la contraprestación correspondiente a las actividades que dieron lugar a la emisión de los documentos mencionados, se percibe hasta que se cobren dichos documentos, siempre que se cumpla con lo siguiente:
+
+I. En los contratos que amparen la transmisión de los documentos pendientes de cobro, se deberá consignar si los cedentes de los documentos ejercen la opción prevista en el segundo párrafo de este artículo, o bien, si se sujetarán a lo dispuesto en el primer párrafo. En el primer caso, se deberá especificar si la cobranza quedará a cargo del cedente, del adquirente o un tercero.
+
+II. Quienes transmitan los documentos pendientes de cobro serán los responsables de pagar el impuesto al valor agregado correspondiente al total del importe consignado en dichos documentos, sin descontar de su importe total, el monto correspondiente al cargo financiero cobrado por el adquirente.
+
+III. Los adquirentes de los documentos pendientes de cobro deberán entregar a los contribuyentes dentro de los primeros diez días naturales de cada mes, estados de cuenta mensuales en los que se asentarán las cantidades que se hayan cobrado en el mes inmediato anterior por los documentos pendientes de cobro que les hayan sido transmitidos, las fechas en las que se efectuaron los cobros, así como los descuentos, rebajas o bonificaciones que los adquirentes hayan otorgado a los deudores de los documentos pendientes de cobro. Los estados de cuenta deberán cumplir con los requisitos establecidos en el artículo 29-A del Código Fiscal de la Federación. Adicionalmente, los contribuyentes deberán cumplir con las obligaciones generales que en materia de expedición de comprobantes establece esta Ley, respecto de los cobros que por los documentos cedidos les reporten los adquirentes, debiendo coincidir las fechas y montos contenidos en los citados comprobantes con los datos proporcionados por los adquirentes en los estados de cuenta mencionados.
+
+En todo caso, la persona que entregue al deudor los comprobantes de las operaciones que dieron lugar a la emisión de los documentos pendientes de cobro, deberá consignar en dichos comprobantes, la cantidad efectivamente pagada por el deudor, cuando los adquirentes les hayan otorgado descuentos, rebajas o bonificaciones.
+
+IV. Cuando los adquirentes cobren los documentos pendientes de cobro, ya sea en forma total o parcial, deberán manifestar el monto cobrado respecto del documento correspondiente en el estado de cuenta que emitan, con el cual los cedentes de los documentos deberán determinar el impuesto al valor agregado a su cargo, sin descontar de dicho valor, el monto correspondiente al cargo financiero cobrado por el adquirente. Para tales efectos, el impuesto al valor agregado se calculará dividiendo la cantidad manifestada en el estado de cuenta como cobrada por el adquirente entre 1.15 o 1.10, según se trate de documentos que deriven de operaciones afectas a la tasa del 15% o 10%, respectivamente. El resultado obtenido se restará a la cantidad manifestada en el estado de cuenta como cobrada y la diferencia será el impuesto al valor agregado causado a cargo del contribuyente que cedió los documentos pendientes de cobro.
+
+V. Cuando hayan transcurrido seis meses a partir de la fecha de exigibilidad del pago de los documentos pendientes de cobro, sin que las cantidades reflejadas en dichos documentos se hayan cobrado por los adquirentes o un tercero directamente al deudor original y no sean exigibles al cedente de los documentos pendientes de cobro, este último considerará causado el impuesto al valor agregado a su cargo, en el primer día del mes siguiente posterior al periodo a que se refiere este párrafo, el cual se calculará dividiendo el monto pagado por el adquirente en la adquisición del documento, sin descontar de dicho valor el monto correspondiente al cargo financiero cobrado por el adquirente, entre 1.15 o 1.10, según se trate de documentos que deriven de operaciones afectas a la tasa del 15% o 10%, respectivamente. El resultado obtenido se restará del monto pagado por el adquirente en la adquisición de los citados documentos, sin descontar de dicho valor el monto correspondiente al cargo financiero, y la diferencia será el impuesto al valor agregado a cargo del contribuyente que cedió los documentos pendientes de cobro.
+
+Cuando el adquirente haya efectuado algún cobro parcial a cuenta de la contraprestación total consignada en los documentos pendientes de cobro, el cedente de los documentos mencionados podrá disminuir del impuesto al valor agregado determinado a su cargo conforme al párrafo anterior, el impuesto al valor agregado que haya sido previamente determinado por dicho cobro parcial, conforme a lo señalado en la fracción IV anterior.
+
+VI. Tratándose de recuperaciones posteriores al sexto mes de la fecha de exigibilidad del pago de los documentos pendientes de cobro a que se refiere la fracción V anterior, de cantidades cuyo monto adicionado de las que se hubieran cobrado con anterioridad correspondientes al mismo documento sea mayor a la suma de las cantidades recibidas por el cedente como pago por la enajenación de los documentos pendientes de cobro, sin descontar el cargo financiero, e incluyendo los anticipos que, en su caso, haya recibido, el adquirente deberá reportar dichas recuperaciones en el estado de cuenta del mes en el que las cobre. El contribuyente calculará el impuesto al valor agregado a su cargo por el total de la cantidad cobrada por el adquirente, dividiendo el valor del cobro efectuado entre 1.15 o 1.10, según se trate de documentos que deriven de operaciones afectas a la tasa del 15% o 10%, respectivamente. El resultado obtenido se restará del monto total cobrado y la diferencia será el impuesto al valor agregado a cargo del cedente.
+
+El impuesto a cargo del contribuyente determinado de conformidad con el párrafo anterior, se disminuirá con el impuesto a cargo que previamente se haya determinado de conformidad con lo establecido en la fracción V de este artículo.
+
+Cuando los adquirentes omitan proporcionar al cedente los estados de cuenta correspondientes a los cobros a que se refiere esta fracción, serán responsables sustitutos respecto del pago del impuesto correspondiente a la recuperación adicional, cuando dicha omisión sea descubierta por las autoridades fiscales.
+
+VII. Cuando los adquirentes enajenen a un tercero los documentos pendientes de cobro, serán responsables de obtener por parte del tercero la información relativa a las cantidades que se cobren por los documentos que hubieran sido enajenados, así como las fechas en las que se efectúen los referidos cobros, con el objeto de incluir dicha información en los estados de cuenta a que se hace referencia en la fracción III que antecede.
+
+Cuando la cobranza de los documentos pendientes de cobro quede a cargo del cedente, el adquirente no estará obligado a proporcionar los estados de cuenta a que se refiere este artículo, debiendo el cedente de los documentos mencionados determinar el impuesto al valor agregado a su cargo en los términos establecidos en la fracción IV de este artículo.
+
+No será aplicable lo dispuesto en el presente artículo cuando los documentos pendientes de cobro cedidos, tengan su origen en una actividad que se encuentre exenta de pago del impuesto al valor agregado o afecta a la tasa del 0%.
+
+Cuando los contribuyentes ejerzan la opción a que se refiere el segundo párrafo de este artículo, deberán mantenerla durante el año de calendario en que sea ejercida, respecto de todos los documentos pendientes de cobro que transmitan.
 
 > <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 1995)</small>
 
@@ -112,11 +174,13 @@ Tratándose de importación, se aplicará la tasa del 10% siempre que los bienes
 
 Tratándose de la enajenación de inmuebles en la región fronteriza, el impuesto al valor agregado se calculará aplicando al valor que señala esta Ley la tasa del 15%:
 
-Para efectos de esta Ley, se considera como región fronteriza, además de la franja fronteriza de 20 kilómetros paralela a las líneas divisorias internacionales del norte y sur del país, todo el territorio de los estados de Baja California, Baja California Sur y Quintana Roo, el Municipio de Cananea, Sonora, así como la región parcial del Estado de Sonora comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste del municipio Plutarco Elías Calles; de ese punto, una línea recta hasta llegar a la costa, a un punto situado a 10 kilómetros, al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Para los efectos de esta Ley, se considera como región fronteriza, además de la franja fronteriza de 20 kilómetros paralela a las líneas divisorias internacionales del norte y sur del país, todo el territorio de los estados de Baja California, Baja California Sur y Quintana Roo, los municipios de Caborca y de Cananea, Sonora, así como la región parcial del estado de Sonora comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste del Municipio Plutarco Elías Calles; de ese punto, una línea recta hasta llegar a la costa, a un punto situado a 10 kilómetros, al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese río, hacia el norte hasta encontrar la línea divisoria internacional.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-###### ARTICULO 2o.-A.
+###### ARTICULO 2o-A.
 
 El impuesto se calculará aplicando la tasa del 0% a los valores a que se refiere esta Ley, cuando se realicen los actos o actividades siguientes:
 
@@ -125,6 +189,10 @@ I.- La enajenación de:
 > <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
 a).- Animales y Vegetales que no estén industrializados, salvo el hule.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Para estos efectos, se considera que la madera en trozo o descortezada no está industrializada.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -162,9 +230,13 @@ g).- Invernaderos hidropónicos y equipos integrados a ellos para producir tempe
 
 h).- Oro, joyería, orfebrería, piezas artísticas u ornamentales y lingotes, cuyo contenido mínimo de dicho material sea del 80%, siempre que su enajenación no se efectúe en ventas al menudeo con el público en general.
 
-> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos.
+i).- Libros y periódicos que editen los propios contribuyentes. Para los efectos de esta Ley, se considera libro toda publicación, unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra. Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Se aplicará la tasa que establece el artículo 1o. a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos, cuando sean para llevar o para entrega a domicilio.
 
 II.- La prestación de los siguientes servicios independientes:
 
@@ -191,6 +263,10 @@ f).- Los de sacrificio de ganado y aves de corral.
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 g).- Los de reaseguro.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+h).- Los de suministro de agua para uso doméstico.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -222,13 +298,13 @@ Las personas a que se refiere este artículo estarán obligadas a recabar y cons
 
 La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados, las instituciones y asociaciones de beneficencia privada, las sociedades cooperativas o cualquiera otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación a que se refiere el artículo primero y, en su caso, pagar el impuesto al valor agregado y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos, salvo que se trate de derechos estatales o municipales por el servicio o suministro de agua potable.
+La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos o aprovechamientos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-La Federación y sus organismos descentralizados efectuarán igualmente la retención en los términos del artículo 1o.-A de esta Ley cuando adquieran bienes, los usen o gocen temporalmente o reciban servicios, de personas físicas, o de residentes en el extranjero sin establecimiento permanente o base fija en el país en el supuesto previsto en la fracción III del mismo artículo. También se efectuará la retención en los términos del artículo 1o.-A de esta Ley, en los casos en que la Federación y sus organismos descentralizados reciban servicios de autotransporte terrestre de bienes prestados por personas morales. Los Estados, el Distrito Federal y los Municipios, así como sus organismos descentralizados no efectuarán la retención a que se refiere este párrafo.
+La Federación y sus organismos descentralizados efectuarán igualmente la retención en los términos del artículo 1o.-A de esta Ley cuando adquieran bienes, los usen o gocen temporalmente o reciban servicios, de personas físicas, o de residentes en el extranjero sin establecimiento permanente en el país en el supuesto previsto en la fracción III del mismo artículo. También se efectuará la retención en los términos del artículo 1o.-A de esta Ley, en los casos en los que la Federación y sus organismos descentralizados reciban servicios de autotransporte terrestre de bienes prestados por personas morales. Los Estados, el Distrito Federal y los Municipios, así como sus organismos descentralizados no efectuarán la retención a que se refiere este párrafo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -240,27 +316,49 @@ Para los efectos de este impuesto, se consideran residentes en territorio nacion
 
 El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, la tasa que corresponda según sea el caso. Se entiende por impuesto acreditable el monto que resulte conforme al siguiente procedimiento:
 
-I.- El contribuyente determinará las adquisiciones que hubiera efectuado en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, de materias primas y productos terminados o semiterminados, a que se refieren los artículos 22, fracción II, primer párrafo y 108, fracción II, primer párrafo, de la Ley del Impuesto sobre la Renta, según corresponda, que identifique exclusivamente con la enajenación de bienes o con la prestación de servicios, en territorio nacional, cuando por estos actos o actividades esté obligado al pago del impuesto establecido en esta Ley o les sea aplicable la tasa del 0%, incluso cuando dichas adquisiciones las importe.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Asimismo, el contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por las adquisiciones señaladas en el párrafo anterior, efectuadas en el periodo de que se trate, que sean deducibles para efectos del impuesto sobre la renta.
+I. El contribuyente determinará las adquisiciones que hubiera efectuado en el mes de calendario de que se trate, de materias primas y productos terminados o semiterminados, a que se refieren los artículos 29, fracción II, primer párrafo y 123, fracción II, primer párrafo, de la Ley del Impuesto sobre la Renta, según corresponda, que identifique exclusivamente con la enajenación de bienes o con la prestación de servicios, en territorio nacional, cuando por estos actos o actividades esté obligado al pago del impuesto establecido en esta Ley o les sea aplicable la tasa del 0%, incluso cuando dichas adquisiciones las importe.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Asimismo, el contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por las adquisiciones señaladas en el párrafo anterior, efectuadas en el mes de calendario de que se trate, que sean deducibles para efectos del impuesto sobre la renta.
 
 Los dispuesto en el párrafo anterior no será aplicable tratándose del monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente ni del propio impuesto que él hubiese pagado en la importación, con motivo de sus gastos, inversiones, adquisiciones de títulos valor, certificados o cualquier otro título, que representen o amparen la propiedad de bienes diferentes de los señalados en el primer párrafo de esta fracción.
 
 No será aplicable lo dispuesto en el primer y segundo párrafo de esta fracción, tratándose de la enajenación de bienes tangibles cuando éstos se exporten y de la prestación de servicios que se considere exportada en los términos del artículo 29, fracción IV, inciso b) de esta Ley. En estos casos se aplicará lo dispuesto en el cuarto párrafo de este artículo.
 
-II.- El contribuyente determinará las adquisiciones que hubiera efectuado en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, de materias primas y productos terminados o semiterminados, a que se refieren los artículos 22, fracción II, primer párrafo y 108, fracción II, primer párrafo, de la Ley del Impuesto sobre la Renta, según corresponda, que identifique exclusivamente con la enajenación de bienes o con la prestación de servicios, en territorio nacional, cuando por estos actos o actividades no esté obligado al pago del impuesto establecido en esta Ley, incluso cuando dichas adquisiciones las importe.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Asimismo, el contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por las adquisiciones señaladas en el párrafo anterior efectuadas, en el periodo de que se trate, que sean deducibles para efectos del impuesto sobre la renta.
+II. El contribuyente determinará las adquisiciones que hubiera efectuado en el mes de calendario de que se trate, de materias primas y productos terminados o semiterminados, a que se refieren los artículos 29, fracción II, primer párrafo y 123, fracción II, primer párrafo, de la Ley del Impuesto sobre la Renta, según corresponda, que identifique exclusivamente con la enajenación de bienes o con la prestación de servicios, en territorio nacional, cuando por estos actos o actividades no esté obligado al pago del impuesto establecido en esta Ley, incluso cuando dichas adquisiciones las importe.
 
-III.- Del monto equivalente al total del impuesto al valor agregado que hubiera sido trasladado al contribuyente y del propio impuesto que él hubiese pagado con motivo de la importación, en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según se trate, correspondiente a erogaciones deducibles para efectos del impuesto sobre la renta, adicionado con el monto a que se refiere el sexto párrafo de este artículo, se disminuirán los montos del impuesto identificados en los términos de las fracciones I y II que anteceden y, en su caso, el que se hubiera identificado con la exportación de conformidad con el cuarto párrafo de este artículo y el que se hubiera identificado de conformidad con el quinto párrafo del mismo.
+Asimismo, el contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por las adquisiciones señaladas en el párrafo anterior efectuadas, en el mes de calendario de que se trate, que sean deducibles para efectos del impuesto sobre la renta.
 
-La cantidad que resulte en los términos del párrafo anterior se multiplicará por el factor que resulte en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, determinado de conformidad con el procedimiento previsto en el siguiente párrafo.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-El factor a que se refiere el párrafo anterior se determinará dividiendo el valor de los actos o actividades por los que se deba pagar el impuesto establecido en esta Ley y el de aquéllos a los que se les aplique la tasa del 0%, correspondientes al periodo por el que se determina el pago provisional, al periodo por el que se realice el ajuste a los pagos provisionales o al ejercicio, según corresponda, entre el valor total de los actos o actividades realizados por el contribuyente en dichos periodos o ejercicio, según corresponda. Para efectos de este párrafo, el contribuyente no incluirá en los valores antes señalados:
+III. Del monto equivalente al total del impuesto al valor agregado que hubiera sido trasladado al contribuyente y del propio impuesto que él hubiese pagado con motivo de la importación, en el mes de calendario de que se trate, correspondiente a erogaciones deducibles para efectos del impuesto sobre la renta, adicionado con el monto a que se refiere el sexto párrafo de este artículo, se disminuirán los montos del impuesto identificados en los términos de las fracciones I y II que anteceden y, en su caso, el que se hubiera identificado con la exportación de conformidad con el cuarto párrafo de este artículo y el que se hubiera identificado de conformidad con el quinto párrafo del mismo.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+La cantidad que resulte en los términos del párrafo anterior se multiplicará por el factor que resulte en el mes de calendario de que se trate, determinado de conformidad con el procedimiento previsto en los siguientes párrafos.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+El factor a que se refiere el párrafo anterior se determinará dividiendo el valor de los actos o actividades por los que se deba pagar el impuesto establecido en esta Ley y el de aquéllos a los que se les aplique la tasa del 0%, correspondientes al año de calendario inmediato anterior al mes por el que se calcula el impuesto acreditable, entre el valor total de los actos o actividades realizados por el contribuyente en dicho año de calendario.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Durante el año de calendario en el que los contribuyentes inicien las actividades por las que deban pagar el impuesto que establece esta Ley y en el siguiente, el factor aplicable en cada uno de los meses de dichos años se calculará considerando los valores mencionados en el párrafo anterior, correspondientes al periodo comprendido desde el mes en el que se iniciaron las actividades hasta el mes por el que se calcula el impuesto acreditable.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Para los efectos de los dos párrafos anteriores, el contribuyente no incluirá en los valores antes señalados:
 
 a).- Las importaciones de bienes o servicios.
 
-b).- Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo 42 de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+b).- Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo 38 de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria.
 
 c).- Los dividendos percibidos en moneda, en acciones, en partes sociales o en títulos de crédito, siempre que en este último caso su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo, salvo que se trate de personas morales que perciban ingresos preponderantemente por este concepto.
 
@@ -280,17 +378,23 @@ j).- Los que se deriven de operaciones financieras derivadas a que se refiere el
 
 Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casa de cambio, sociedades financieras de objeto limitado y las sociedades para el depósito de valores, para calcular el factor a que se refiere esta fracción no deberán excluir los conceptos señalados en los incisos d), e), f) y j) que anteceden.
 
-IV.- El monto identificado en términos de la fracción I de este artículo y, en su caso, del cuarto párrafo del mismo, adicionado con el monto que resulte en los términos de la fracción III que antecede, será el impuesto acreditable del periodo por el que se determina el pago provisional, del periodo por el que se realiza el ajuste a los pagos provisionales o del ejercicio, según corresponda.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+IV. El monto identificado en los términos de la fracción I de este artículo y, en su caso, del cuarto párrafo del mismo, adicionado con el monto que resulte en los términos de la fracción III que antecede, será el impuesto acreditable del mes de calendario de que se trate.
 
 Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente se considerará para los efectos de la determinación del impuesto acreditable, el monto equivalente al del impuesto que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación, en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta.
 
 Respecto de inversiones o gastos en periodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto. Si de dicha estimación resulta diferencia de impuesto que no exceda del 10% del impuesto pagado, no se cobrarán recargos, siempre que el pago se efectúe espontáneamente.
 
-El contribuyente determinará las adquisiciones que hubiera efectuado en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, de materias primas, productos terminados o semiterminados, así como los gastos e inversiones, incluso de importaciones, que identifique exclusivamente con la exportación de bienes tangibles y con los servicios que preste que se consideren exportados en los términos del artículo 29, fracción IV, inciso b) de esta Ley. El contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por dichas adquisiciones, gastos e inversiones, siempre que sean deducibles para efectos del impuesto sobre la renta.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+El contribuyente determinará las adquisiciones que hubiera efectuado en el mes de calendario de que se trate, de materias primas, productos terminados o semiterminados, así como los gastos e inversiones, incluso de importaciones, que identifique exclusivamente con la exportación de bienes tangibles y con los servicios que preste que se consideren exportados en los términos del artículo 29, fracción IV, inciso b) de esta Ley. El contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por dichas adquisiciones, gastos e inversiones, siempre que sean deducibles para efectos del impuesto sobre la renta.
 
 El contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiese sido trasladado en la enajenación de bienes cuyo destino sea el otorgarlos, directa o indirectamente, para el uso o goce temporal de personas que realicen preponderantemente actos o actividades por las que no se esté obligado al pago del impuesto establecido en esta Ley.
 
-El monto del impuesto identificado conforme al párrafo anterior en el periodo por el que se determina el pago provisional, en el periodo por el que se realiza el ajuste a los pagos provisionales o en el ejercicio, según corresponda, se multiplicará por el factor que resulte de dividir cada contraprestación que se reciba en el periodo que corresponda por el otorgamiento del uso o goce de esos bienes, entre el valor de los bienes otorgados en uso o goce, a que se refiere el artículo 12 de esta Ley. El resultado que se obtenga será el monto que se podrá adicionar en los términos de la fracción III, primer párrafo de este artículo, hasta agotar el monto del impuesto al valor agregado que en las mencionadas enajenaciones le hubiera sido trasladado al contribuyente.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+El monto del impuesto identificado conforme al párrafo anterior en el mes de calendario de que se trate, se multiplicará por el factor que resulte de dividir cada contraprestación que se reciba en el mes que corresponda por el otorgamiento del uso o goce de esos bienes, entre el valor de los bienes otorgados en uso o goce, a que se refiere el artículo 12 de esta Ley. El resultado que se obtenga será el monto que se podrá adicionar en los términos de la fracción III, primer párrafo de este artículo, hasta agotar el monto del impuesto al valor agregado que en las mencionadas enajenaciones le hubiera sido trasladado al contribuyente.
 
 Para que el impuesto al valor agregado sea acreditable en los términos de este artículo, adicionalmente deberán reunirse los siguientes requisitos:
 
@@ -298,11 +402,13 @@ Para que el impuesto al valor agregado sea acreditable en los términos de este 
 
 a) Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley. Tratándose de los contribuyentes que ejerzan la opción a que se refiere el artículo 29-C del Código Fiscal de la Federación, el impuesto al valor agregado trasladado deberá constar en forma expresa y por separado en el reverso del cheque de que se trate o deberá constar en el estado de cuenta, según sea el caso.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-b) Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos a los regímenes establecidos en el Título II-A o en la Sección II del Capítulo VI del Título IV de la citada Ley.
+b) Que el impuesto al valor agregado trasladado a los contribuyentes haya sido efectivamente pagado.
 
-c).- Que, tratándose del impuesto trasladado que se hubiese retenido conforme al artículo 1o.-A, dicha retención se entere en los términos y plazos establecidos en esta Ley.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+c) Que, tratándose del impuesto trasladado que se hubiese retenido conforme al artículo 1o.-A, dicha retención se entere en los términos y plazos establecidos en esta Ley, con excepción de lo previsto en la fracción IV de dicho artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -310,105 +416,65 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 Para que sea acreditable en los términos de este artículo el impuesto al valor agregado en la importación de bienes tangibles, cuando se hubiera pagado la tasa del 10%, el contribuyente deberá comprobar que los bienes fueron utilizados o enajenados en la región fronteriza.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 4o.- A.
 
-Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, determinarán el impuesto al valor agregado a su cargo considerando como impuesto trasladado y acreditable, el que corresponda a los actos o actividades que hayan considerado como entradas o salidas en la citada Ley. Dichos contribuyentes deberán expedir la documentación comprobatoria de sus actividades en la fecha en que efectivamente se cobren los bienes enajenados o los servicios prestados.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-Los contribuyentes que en los términos de los artículos 67-G y 119-J de la Ley del Impuesto sobre la Renta, dejen de tributar conforme al régimen simplificado o al régimen simplificado a las actividades empresariales, para hacerlo de conformidad con el Título II o Título IV, Capítulo VI, Sección I de la citada Ley, acreditarán o, en su caso, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en los citados regímenes, que no se hayan considerado como entradas o salidas en los mismos, en la fecha en que efectivamente se efectúe su pago o cobro, según corresponda.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Para efectos de este artículo se considerará impuesto acreditable el que corresponda en términos del artículo 4o. de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 4o.-B.
 
-Los contribuyentes que dejen de tributar conforme al régimen establecido en la Sección III del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta, para hacerlo de conformidad con el Título IV, Capítulo VI, Sección I, de la citada Ley, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en dicho régimen, que no hayan considerado como ingreso, en la fecha en que efectivamente se efectúe su cobro.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 5o.
 
-El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
+El impuesto se calculará por cada mes de calendario, salvo los casos señalados en el artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación.
+Los contribuyentes efectuarán el pago del impuesto mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Las sociedades escindidas efectuarán los pagos provisionales a su cargo, a partir del mes en que ocurra la escisión, en los mismos plazos en que la sociedad escindente los realizaba en el ejercicio en que se escindió. En el caso de la sociedad que surja con motivo de una fusión, ésta efectuará los pagos provisionales a su cargo, a partir del mes en que ocurra la fusión, en los mismos plazos en que los efectuaba la sociedad que le hubiera aportado activos en mayor cuantía. En los ejercicios siguientes a la escisión o fusión, según se trate, las sociedades escindidas o la que surja con motivo de la fusión, deberán efectuar sus pagos provisionales en los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+El pago mensual será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el mes por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento determinadas en los términos del artículo 4o. de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en dicho mes.
 
-El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el periodo por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento determinadas en los términos del artículo 4o. de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en dicho periodo.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Los contribuyentes que de conformidad con esta Ley estén obligados a efectuar pagos provisionales mensuales, efectuarán en el primer mes de la segunda mitad del ejercicio el ajuste del impuesto correspondiente a los pagos provisionales, conforme a lo siguiente:
+> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-I. Al impuesto que corresponda al total de los actos o actividades realizados por el contribuyente desde el inicio del ejercicio y hasta el último día de la primera mitad del mismo, a excepción de las importaciones de bienes tangibles, se le adicionará el monto de cada uno de los saldos a favor del impuesto al valor agregado que resulten en las declaraciones de pago provisional del ejercicio, cuya devolución se hubiera solicitado en el mismo.
-
-II. Al monto del impuesto al valor agregado acreditable correspondiente al periodo comprendido desde el inicio del ejercicio y hasta el último día de la primera mitad del mismo, se le adicionará el monto de los pagos provisionales del impuesto al valor agregado del ejercicio efectuados con anterioridad, el impuesto que se le hubiere retenido en los términos de esta Ley durante el periodo antes citado y, en su caso, el saldo a favor del impuesto al valor agregado que resulte en la declaración del ejercicio inmediato anterior, por el que no se hubiera solicitado la devolución.
-
-Para determinar el impuesto al valor agregado acreditable a que se refiere el párrafo anterior, se aplicará el procedimiento previsto en el artículo 4o. de esta Ley, considerando para tal efecto el monto equivalente al del impuesto que le hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación, en el periodo comprendido desde el inicio del ejercicio y hasta el último día de la primera mitad del mismo. Asimismo, el contribuyente determinará el factor a que se refiere la fracción III del citado artículo, considerando el valor de los actos o actividades realizados durante el periodo a que se refiere este párrafo.
-
-En ningún caso podrá solicitarse la devolución del saldo a favor que se hubiera adicionado en los términos del primer párrafo de esta fracción.
-
-III. El contribuyente comparará los montos determinados en las fracciones I y II que anteceden. En caso de que el monto obtenido en términos de la fracción I de este artículo resulte mayor que el determinado en términos de la fracción II del mismo, la diferencia será el impuesto a cargo por el ajuste que deberá enterarse con el pago provisional correspondiente al mes en que el mismo se efectúe. En el caso de que el monto de la fracción II de este artículo resulte mayor que el determinado en los términos de la fracción I del mismo, la diferencia será el saldo a favor por el ajuste.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Las sociedades que inicien operaciones con motivo de una escisión, así como la sociedad que surja con motivo de una fusión, y que en los términos del tercer párrafo de este artículo estén obligadas a efectuar pagos provisionales mensuales, efectuarán en el primer mes de la segunda mitad del ejercicio irregular que se origine por la escisión o fusión, según se trate, el ajuste del impuesto correspondiente a los pagos provisionales, de conformidad con el procedimiento previsto en las fracciones I a III que anteceden. Cuando sea impar el número de meses del citado ejercicio irregular, el ajuste se efectuará en el mes inmediato anterior al que corresponda la mitad del citado ejercicio. En ejercicios irregulares menores a siete meses, no se efectuará el ajuste a los pagos provisionales.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Para determinar el impuesto del ejercicio se aplicará el siguiente procedimiento:
-
-a) A los valores de los actos o actividades realizados en el ejercicio, se les aplicará la tasa que corresponda de conformidad con esta Ley.
-
-b) Se sumarán los montos de los saldos a favor del impuesto al valor agregado que resulten en las declaraciones de pago provisional del ejercicio y en el ajuste a los pagos provisionales, cuya devolución se hubiera solicitado.
-
-c) Al monto del impuesto al valor agregado acreditable del ejercicio que resulte en los términos del artículo 4o. de esta Ley, se le adicionará el monto de los pagos provisionales del citado impuesto que correspondan al mismo ejercicio, el impuesto pagado correspondiente al ajuste a que se refiere la fracción III de este artículo, el impuesto que se hubiera retenido al contribuyente en términos de esta Ley durante dicho ejercicio y, en su caso, el saldo a favor del impuesto al valor agregado que resulte en la declaración del ejercicio inmediato anterior, por el que no se hubiera solicitado su devolución.
-
-En ningún caso podrá solicitarse la devolución del saldo a favor que se hubiera adicionado en los términos de este inciso.
-
-d) La cantidad que resulte en los términos del inciso a) de este artículo, se adicionará con el monto que se determine de conformidad con el inciso b) que antecede y se disminuirá con el monto que se determine conforme al inciso anterior. El resultado que se obtenga de esta operación será el impuesto del ejercicio.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Las personas morales pagarán el impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, salvo que se trate de sociedades que tengan el carácter de controladoras en los términos del párrafo noveno del artículo 57-A de la Ley del Impuesto sobre la Renta, en cuyo caso pagarán el impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Las personas físicas pagarán el impuesto del ejercicio mediante declaración que presentarán ante las oficinas autorizadas dentro del periodo comprendido entre los meses de febrero y abril del año siguiente al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
+> <small>(DEROGADO OCTAVO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 6o.
 
-Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Cuando en las declaraciones de los pagos provisionales correspondientes al periodo del ajuste a los pagos provisionales, resulte un saldo a favor, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total del saldo a favor y se efectúe la solicitud de devolución a más tardar en el mes siguiente de la primera mitad del ejercicio, o en su caso acreditarlo, siempre que el acreditamiento se efectúe a más tardar en la declaración de pago provisional del último mes del periodo por el que se realiza el ajuste. Cuando resulte saldo a favor por el ajuste a los pagos provisionales en los términos de la fracción III del artículo 5o. de esta Ley o en las declaraciones de los pagos provisionales correspondientes a la segunda mitad del ejercicio, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total del saldo a favor y la solicitud de devolución se efectúe a más tardar en el mes siguiente al del cierre del ejercicio, o en su caso, acreditarlo, siempre que el acreditamiento se efectúe a más tardar en la declaración correspondiente al último mes del ejercicio. Asimismo, cuando en las declaraciones de pagos provisionales trimestrales resulte saldo a favor, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total del saldo a favor y la solicitud de devolución se efectúe a más tardar en el mes siguiente al del cierre del ejercicio, o en su caso acreditarlo, siempre que el acreditamiento se efectúe a más tardar en la declaración correspondiente al último pago provisional del ejercicio.
+Cuando en la declaración de pago resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá acreditarlas en declaraciones de pago provisional posteriores o solicitar su devolución total.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de los contribuyentes que proporcionen los servicios a que se refiere el inciso h) de la fracción II del artículo 2o.-A de esta Ley, cuando en su declaración mensual resulte saldo a favor, dicho saldo se pagará al contribuyente, el cual deberá destinarlo para invertirse en infraestructura hidráulica o al pago de los derechos establecidos en los artículos 222 y 276 de la Ley Federal de Derechos. El contribuyente, mediante aviso, demostrará ante el Servicio de Administración Tributaria la inversión realizada, o en su caso, el pago de los derechos realizado.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 7o.
 
-El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos gravados por esta Ley, deducirá en la siguiente o siguientes declaraciones de pagos provisionales el monto de dichos conceptos del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado se cancela o se restituye, según sea el caso.
+El contribuyente que reciba la devolución de bienes enajenados, otorgue descuentos o bonificaciones o devuelva los anticipos o los depósitos recibidos, con motivo de la realización de actividades gravadas por esta Ley, deducirá en la siguiente o siguientes declaraciones de pago del mes de calendario que corresponda, el monto de dichos conceptos del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado se restituyó.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-El contribuyente que reciba el descuento, la bonificación o devuelva los bienes que le hubieran sido enajenados, respecto de los cuales hubiera identificado el impuesto al valor agregado en los términos del artículo 4o., fracción I, segundo párrafo de esta Ley o del cuarto párrafo del citado artículo, disminuirá el impuesto cancelado o restituido del monto del impuesto acreditable; cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se cancele o restituya, el contribuyente pagará la diferencia entre dichos montos al presentar la declaración de pago provisional que corresponda al periodo en que reciba el descuento, la bonificación o efectúe la devolución. Cuando el monto equivalente al del impuesto al valor agregado que le hubiese sido trasladado al contribuyente respecto de los actos o actividades que sean objeto de la devolución, descuento o bonificación, se hubiera considerado dentro del monto al que se le aplique el factor a que se refiere la fracción III del artículo 4o. de esta Ley, el monto del impuesto cancelado o restituido se disminuirá de dicho monto correspondiente al periodo en el que se reciba el descuento, la bonificación o se efectúe la devolución; cuando el monto a que se refiere la fracción III del artículo 4o. de esta Ley, correspondiente al periodo en el que se recibe la bonificación, descuento o se realiza la devolución, sea menor que el monto que se deba cancelar o restituir, al excedente se le aplicará el factor a que se refiere la citada fracción III del artículo 4o. de esta Ley, correspondiente al periodo en que se recibe la bonificación, descuento o se efectúa la devolución, y el resultado deberá pagarse en la declaración de pago provisional que corresponda al periodo en que se reciba el descuento, la bonificación o se efectúe la devolución.
+El contribuyente que devuelva los bienes que le hubieran sido enajenados, reciba descuentos o bonificaciones, así como los anticipos o depósitos que hubiera entregado, respecto de los cuales hubiera identificado el impuesto al valor agregado en los términos del artículo 4o., fracción I, segundo párrafo de esta Ley o del cuarto párrafo del citado artículo, disminuirá el impuesto restituido del monto del impuesto acreditable en el mes en que se dé cualquiera de los supuestos mencionados; cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se restituya, el contribuyente pagará la diferencia entre dichos montos al presentar la declaración de pago que corresponda al mes en que reciba el descuento o la bonificación, efectúe la devolución de bienes o reciba los anticipos o depósitos que hubiera entregado. Cuando el monto equivalente al del impuesto al valor agregado que le hubiese sido trasladado al contribuyente respecto de los actos o actividades que sean objeto de la devolución, descuento o bonificación, se hubiera considerado dentro del monto al que se le aplique el factor a que se refiere la fracción III del artículo 4o. de esta Ley, el monto del impuesto restituido se disminuirá de dicho monto correspondiente al mes en el que se reciba el descuento o la bonificación, se efectúe la devolución de bienes o se reciban los anticipos o depósitos; cuando el monto a que se refiere la fracción III del artículo 4o. de esta Ley, correspondiente al mes en el que se recibe la bonificación, descuento, anticipo o depósito o se realiza la devolución, sea menor que el monto que se deba restituir, al excedente se le aplicará el factor a que se refiere la citada fracción III del artículo 4o. de esta Ley, correspondiente al mes de calendario en el que se recibe la bonificación, descuento, anticipo o depósito o se efectúan las devoluciones, y el resultado deberá pagarse en la declaración de pago que corresponda al mes en el que se reciba el descuento, la bonificación, el anticipo o depósito o se efectúan las devoluciones.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -444,7 +510,7 @@ III.- Libros, periódicos y revistas, así como el derecho para usar o explotar 
 
 IV.- Bienes muebles usados, a excepción de los enajenados por empresas.
 
-V .- Billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos o juegos con apuestas y concursos de toda clase, así como los premios respectivos, a que se refiere la Ley del Impuesto sobre la Renta.
+V.- Billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos o juegos con apuestas y concursos de toda clase, así como los premios respectivos, a que se refiere la Ley del Impuesto sobre la Renta.
 
 VI.- Moneda nacional y moneda extranjera, así como las piezas de oro o de plata que hubieran tenido tal carácter y las piezas denominadas "onza troy”.
 
@@ -456,6 +522,14 @@ VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, co
 
 VIII.- Lingotes de oro con un contenido mínimo de 99% de dicho material, siempre que su enajenación se efectúe en ventas al menudeo con el público en general.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+IX.- La de bienes efectuada entre residentes en el extranjero o por un residente en el extranjero a una persona moral que cuente con un programa autorizado conforme al Decreto que Establece Programas de Importación Temporal para Producir Artículos de Exportación o al Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación o un régimen similar en los términos de la Ley Aduanera, o sean empresas de la industria automotriz terminal o manufacturera de vehículos de autotransporte o de autopartes para su introducción a depósito fiscal, siempre que los bienes se hayan exportado o introducido al territorio nacional al amparo de un programa autorizado conforme a los decretos mencionados o de un régimen similar en los términos de la legislación aduanera o se trate de las empresas mencionadas, y los bienes se mantengan en el régimen de importación temporal, en un régimen similar de conformidad con la Ley Aduanera o en depósito fiscal.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Tampoco se pagará el impuesto en la enajenación de cualquier tipo de bienes que se encuentren sujetos al régimen aduanero de recinto fiscalizado estratégico.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 10.
@@ -464,61 +538,19 @@ Para los efectos de esta Ley, se entiende que la enajenación se efectúa en ter
 
 Tratándose de bienes intangibles, se considera que la enajenación se realiza en territorio nacional cuando el adquirente y el enajenante residan en el mismo.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 11.
 
-Se considera que se efectúa la enajenación de los bienes en el momento en que se realice cualquiera de los supuestos siguientes:
+Se considera que se efectúa la enajenación de los bienes en el momento en el que efectivamente se cobren las contraprestaciones y sobre el monto de cada una de ellas.
 
-I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialmente el bien. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el bien, no tenga obligación de recibirlo o de adquirirlo.
+Tratándose de la enajenación de títulos que incorporen derechos reales a la entrega y disposición de bienes, se considerará que los bienes que amparan dichos títulos se enajenan en el momento en que se pague el precio por la transferencia del título; en el caso de no haber transferencia, cuando se entreguen materialmente los bienes que estos títulos amparen a una persona distinta de quien constituyó dichos títulos. Tratándose de certificados de participación inmobiliaria se considera que la enajenación de los bienes que ampare el certificado se realiza cuando éste se transfiera.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley señale.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-III.- Se expida el comprobante que ampare la enajenación.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Tratándose de certificados de participación, se considera que éstos se enajenan en el momento en que se entreguen materialmente al adquirente los bienes que estos certificados amparen. No quedan comprendidos en este párrafo los certificados de participación inmobiliaria.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 12.
 
-Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Cuando el precio pactado sea cierto y determinable con posterioridad, el impuesto se pagará hasta que pueda ser determinado; si únicamente parte del precio es determinable con posterioridad, sólo el impuesto correspondiente a dicha parte se diferirá. Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto en el mes en que se paguen.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-En las enajenaciones a plazo en los términos del Código Fiscal de la Federación, el impuesto correspondiente al valor de la enajenación excluyendo intereses, se podrá diferir conforme sean efectivamente recibidos los pagos; el impuesto que corresponda a los intereses se podrá diferir al mes en que éstos sean exigibles. Tratándose de arrendamiento financiero, el impuesto que podrá diferirse, será el que corresponda al monto de los pagos por concepto de intereses conforme éstos sean exigibles.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Para los efectos del párrafo anterior, cuando la exigibilidad de los intereses sea mensual y no se reciba el pago de los mismos durante un periodo de tres meses consecutivos, el contribuyente podrá, a partir del cuarto mes, diferir el impuesto de los intereses exigibles no cobrados, a partir de dicho mes y hasta el mes en que efectivamente se reciba el pago de los mismos. A partir del mes en que se reciba el pago total de los intereses exigibles no cobrados a que se refiere este párrafo, el impuesto correspondiente a los intereses que posteriormente se generen, se causará en el mes en que éstos sean exigibles.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Cuando los intereses a que se refieren los dos párrafos anteriores, sean exigibles por periodos mayores a un mes y no se reciba el pago de los mismos durante un periodo consecutivo de tres meses, el contribuyente podrá diferir el impuesto de los intereses exigibles no cobrados a partir del cuarto mes, hasta el mes en que efectivamente se reciba el pago de los mismos. A partir del mes en que se reciba el pago total de los intereses exigibles no cobrados a que se refiere este párrafo, el impuesto correspondiente a los intereses que posteriormente se generen, se causará conforme éstos sean exigibles.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Tratándose de arrendamiento financiero sólo será aplicable lo dispuesto en los dos párrafos anteriores en el caso de operaciones efectuadas con el público en general.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Lo dispuesto en los párrafos tercero a sexto de este artículo, será aplicable siempre que el contribuyente no haya optado por considerar como ingreso obtenido en el ejercicio el total del precio pactado, conforme a lo dispuesto por el artículo 16, fracción III de la Ley del Impuesto sobre la Renta.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Tratándose de pagos anticipados que reciba el enajenante, antes de enviar o entregar materialmente el bien y siempre que el envío o la entrega se realice cuando hayan transcurrido más de tres meses desde el primer anticipo, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Las cantidades entregadas al enajenante, incluyendo los depósitos, se entenderán pagos anticipados.
+Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio o la contraprestación pactados, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
 
 ###### ARTICULO 13.
 
@@ -626,9 +658,9 @@ f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General 
 
 g).- Reciban o paguen las instituciones públicas que emitan bonos y administren planes de ahorro con la garantía incondicional de pago del Gobierno Federal, conforme a la Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-h).- Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Nacional de Valores e Intermediarios, siempre que se cumplan los requisitos que para tal efecto señala la fracción XXI del artículo 77 de la Ley del Impuesto sobre la Renta.
+h).- Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Nacional de Valores e Intermediarios.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -670,9 +702,19 @@ XIV.- Los servicios profesionales de medicina, cuando su prestación requiera t�
 
 XV.- Los servicios profesionales de medicina, hospitalarios, de radiología, de laboratorios y estudios clínicos, que presten los organismos descentralizados de la Administración Pública Federal o del Distrito Federal, o de los gobiernos estatales o municipales.
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-XVI.- Por los que deriven ingresos de los comprendidos en los artículos 77, fracción XXX, y 141-C de la Ley del Impuesto sobre la Renta.
+XVI. Por los que obtengan contraprestaciones los autores en los casos siguientes:
+
+a) Por autorizar a terceros la publicación de obras escritas de su creación en periódicos y revistas, siempre que los periódicos y revistas se destinen para su enajenación al público por la persona que efectúa los pagos por estos conceptos.
+
+b) Por transmitir temporalmente los derechos patrimoniales u otorgar temporalmente licencias de uso a terceros, correspondientes a obras de su autoría a que se refieren las fracciones I a VII, IX, X, XII, XIII y XIV del artículo 13 y el artículo 78 de la Ley Federal del Derecho de Autor, que estén inscritas en el Registro Público del Derecho de Autor de la Secretaría de Educación Pública.
+
+c) Lo dispuesto en los incisos anteriores no aplicará:
+
+1. Cuando se trate de ideas o frases publicitarias, logotipos, emblemas, sellos distintivos, diseños o modelos industriales, manuales operativos u obras de arte aplicado.
+
+2. Cuando las contraprestaciones deriven de la explotación de las obras escritas o musicales en actividades empresariales distintas a la enajenación al público de sus obras o en la prestación de servicios.
 
 ###### ARTICULO 16.
 
@@ -688,27 +730,11 @@ Tratándose de transportación aérea internacional, se considera que únicament
 
 En el caso de intereses y demás contraprestaciones que paguen residentes en México a los residentes en el extranjero que otorguen crédito a través de tarjetas, se entiende que se presta el servicio en territorio nacional cuando en el mismo se utilice la tarjeta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 17.
 
-En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en que se cobren o sean exigibles las contraprestaciones a favor de quien los preste o se expida el comprobante que ampare el precio o contraprestación pactada, lo que suceda primero, y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el prestador de servicios. Tratándose de seguros y fianzas, las primas correspondientes darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones correspondientes al avance de la obra y cuando se hagan los anticipos.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Las cantidades entregadas a quien proporcione el servicio incluyendo los depósitos, se entenderán pagos anticipados.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-En el caso de servicios personales independientes, así como en el caso de los servicios de suministro de agua y de recolección de basura proporcionados por el Distrito Federal, Estados, municipios, organismos descentralizados, así como por concesionarios, permisionarios y autorizados para proporcionar dichos servicios, se tendrá obligación de pagar el impuesto en el momento que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Tratándose de los intereses moratorios derivados del incumplimiento de obligaciones, excepto cuando provengan de operaciones contratadas con personas físicas que no realicen actividades empresariales, con residentes en el extranjero o con personas morales comprendidas en el Título III de la Ley del Impuesto Sobre la Renta, se tendrá obligación de pagar el impuesto en el momento en que se expida el comprobante por los mismos en el que se traslade el impuesto en forma expresa y por separado o cuando se perciban en efectivo, en bienes o en servicios, lo que ocurra primero.
+En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en el que se cobren efectivamente las contraprestaciones y sobre el monto de cada una de ellas, salvo tratándose de los intereses a que se refiere el artículo 18-A de esta Ley, en cuyo caso se deberá pagar el impuesto conforme éstos se devenguen.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -726,11 +752,11 @@ En el caso de mutuo y otras operaciones de financiamiento, se considerará como 
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-###### ARTICULO 18-A.
+###### ARTICULO 18.-A.
 
-Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos otorgados por las instituciones del sistema financiero a que se refiere el artículo 7o.-B, fracción III, último párrafo de la Ley del Impuesto sobre la Renta; en créditos otorgados a través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; de enajenaciones a plazo en los términos del Código Fiscal de la Federación por las que se generen intereses y de operaciones de arrendamiento financiero, cuando se opte por diferir el impuesto que corresponda a los intereses hasta el mes en que sean exigibles.
+Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos otorgados por las instituciones del sistema financiero a que se refiere el artículo 8o. de la Ley del Impuesto sobre la Renta; en créditos otorgados a través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; y de operaciones de arrendamiento financiero.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -739,8 +765,6 @@ En el caso de las operaciones a que se refiere este artículo, las comisiones qu
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 El valor real de los intereses devengados, se determinará conforme a lo siguiente:
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I. Cuando la operación de que se trate esté denominada en moneda nacional o extranjera, el valor real de los intereses se calculará aplicando a la base sobre la cual se calcularon los intereses devengados, la tasa real de interés, de conformidad con lo siguiente:
 
@@ -754,17 +778,13 @@ Cuando en el periodo de causación de los intereses, el resultado de sumar la ta
 
 En el caso de que la tasa de interés que corresponda al periodo esté expresada en por ciento, se deberá dividir entre cien antes de efectuar las sumas y resta, mencionadas en los párrafos anteriores.
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 II. Cuando las operaciones de que se trate se encuentren denominadas en unidades de inversión, el valor real de los intereses, serán los intereses devengados en el periodo, sin considerar el ajuste que corresponda al principal por el hecho de estar denominados en las citadas unidades.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de las operaciones a que se refiere este artículo, en las que los periodos de causación de los intereses sean mensuales o menores a un mes, y en dichos periodos no se encuentre fijado por el Banco de México el valor de la unidad de inversión para el último día del periodo de causación de los intereses, los contribuyentes considerarán el valor de la unidad de inversión determinado por el Banco de México para los días correspondientes al periodo inmediato anterior e igual en duración al de causación de los intereses.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-En las enajenaciones de bienes a plazo en los términos del Código Fiscal de la Federación, cuando se opte por diferir el impuesto que corresponda a los intereses hasta el mes en que sean exigibles, se estará a lo dispuesto en este artículo, únicamente cuando se pague el impuesto sobre el total del precio pactado en el momento en que se efectúa la enajenación.
+> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -810,11 +830,11 @@ V.- Libros, periódicos y revistas.
 
 Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se encuentre el bien en el momento de su entrega material a quien va a realizar su uso o goce.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 22.
 
-Cuando se otorgue el uso o goce temporal de un bien tangible, se tendrá obligación de pagar el impuesto en el momento en que se cobren, sean exigibles las contraprestaciones a favor de quien efectúa dicho otorgamiento o se expida el comprobante que ampare el precio o contraprestación pactada, lo que suceda primero, y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el contribuyente.
+Cuando se otorgue el uso o goce temporal de un bien tangible, se tendrá obligación de pagar el impuesto en el momento en el que quien efectúa dicho otorgamiento cobre las contraprestaciones derivadas del mismo y sobre el monto de cada una de ellas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -854,6 +874,10 @@ No se pagará el impuesto al valor agregado en las importaciones siguientes:
 
 I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Tampoco se pagará este impuesto por los bienes que se introduzcan al país mediante el régimen aduanero de recinto fiscalizado estratégico.
+
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
@@ -892,15 +916,11 @@ I.- En el momento en que el importador presente el pedimento para su trámite en
 
 II.- En caso de importación temporal al convertirse en definitiva.
 
-III.- Tratándose de bienes intangibles adquiridos de personas residentes en el extranjero o de toda clase de bienes sobre los cuales dichas personas concedan el uso o goce, en el momento en que se realice alguno de los supuestos siguientes:
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-a).- Se aprovechen en territorio nacional.
+III.- Tratándose de los casos previstos en las fracciones II a IV del artículo 24 de esta Ley, en el momento en el que se pague efectivamente la contraprestación.
 
-b).- Se pague parcial o totalmente la contraprestación.
-
-c).- Se expida el documento que ampare la operación.
-
-Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que sea exigible la contraprestación de que se trate.
+Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que se pague cada contraprestación.
 
 IV.- En el caso de aprovechamiento en territorio nacional de servicios prestados en el extranjero se estará a los términos del artículo 17 de esta Ley.
 
@@ -948,9 +968,9 @@ Las empresas residentes en el país calcularán el impuesto aplicando la tasa de
 
 Para los efectos de esta Ley, se considera exportación de bienes o servicios:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-I. La que tenga el carácter de definitiva, en los términos de la Ley Aduanera, salvo las que se consideren como tales en los términos de los artículos 108, penúltimo párrafo y 112 de la Ley citada.
+I. La que tenga el carácter de definitiva en los términos de la Ley Aduanera.
 
 II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
 
@@ -964,9 +984,9 @@ IV.- El aprovechamiento en el extranjero de servicios prestados por residentes e
 
 a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-b).- Operaciones de maquila para exportación en los términos de la legislación aduanera.
+b) Operaciones de maquila y submaquila para exportación en los términos de la legislación aduanera y del Decreto para el Fomento y Operación de la Industria Maquiladora de Exportación. Para los efectos anteriores, se entenderá que los servicios se aprovechan en el extranjero cuando los bienes objeto de la maquila o submaquila sean exportados por la empresa maquiladora.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -984,6 +1004,10 @@ e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
 
 f).- Operaciones de financiamiento.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+g) Filmación o grabación, siempre que cumplan con los requisitos que al efecto se señalen en el reglamento de esta Ley.
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
 V.- La transportación internacional de bienes prestada por residentes en el país y los servicios portuarios de carga, descarga, alijo, almacenaje, custodia, estiba y acarreo dentro de los puertos e instalaciones portuarias, siempre que se presten en maniobras para la exportación de mercancías.
@@ -992,33 +1016,19 @@ V.- La transportación internacional de bienes prestada por residentes en el pa�
 
 VI. La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del penúltimo párrafo del artículo 16 no se considera prestada en territorio nacional.
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-VII.- La enajenación de bienes importados temporalmente que hagan las empresas catalogadas como maquiladoras de exportación a otras empresas también catalogadas como maquiladoras de exportación, siempre que dichos bienes no cambien de régimen aduanero.
+VII. La prestación de servicios de hotelería y conexos realizados por empresas hoteleras a turistas extranjeros que ingresen al país para participar exclusivamente en congresos, convenciones, exposiciones o ferias a celebrarse en México, siempre que dichos extranjeros les exhiban el documento migratorio que acredite dicha calidad en los términos de la Ley General de Población, paguen los servicios de referencia mediante tarjeta de crédito expedida en el extranjero y la contratación de los servicios de hotelería y conexos se hubiera realizado por los organizadores del evento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Para los efectos del párrafo anterior, se entiende por servicios de hotelería y conexos, los de alojamiento, la transportación de ida y vuelta del hotel a la terminal de autobuses, puertos y aeropuertos, así como los servicios complementarios que se les proporcionen dentro de los hoteles. Los servicios de alimentos y bebidas quedan comprendidos en los servicios de hotelería, cuando se proporcionen en paquetes turísticos que los integren.
 
-VIII. La enajenación de bienes que realicen empresas con programa de importación temporal para producir artículos de exportación autorizado por la Secretaría de Comercio y Fomento Industrial, que haya estado vigente cuando menos un año, y aquéllas catalogadas como maquiladoras de exportación, a una empresa que opere con alguno de los programas señalados, siempre que tramiten simultáneamente en la misma aduana y por conducto del mismo agente o apoderado aduanal, los pedimentos correspondientes que amparen el retorno a nombre del enajenante y la importación temporal a nombre del adquirente, en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+Los contribuyentes a que se refiere esta fracción deberán registrarse ante el Servicio de Administración Tributaria y cumplir los requisitos de control que establezca el reglamento de esta Ley, en el cual se podrá autorizar que el pago de los servicios se lleve a cabo desde el extranjero por otros medios. En dicho reglamento también se podrá autorizar el pago por otros medios, cuando los servicios a que se refiere esta fracción, se contraten con la intermediación de agencias de viajes.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+VIII. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-Para los efectos de esta fracción, se considera que el enajenante exporta los bienes hasta por el monto que resulte de aplicar al valor de los mismos la proporción que representó el valor total de enajenación de las exportaciones definitivas realizadas en el trimestre inmediato anterior por la empresa adquirente en el valor total de las ventas de dicha empresa en el mismo periodo. Esta empresa deberá informar por escrito la proporción referida a quien le enajena los bienes en el momento en que se efectúe la enajenación.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Cuando se pueda identificar la proporción que se destinará a la exportación definitiva de los bienes que se adquieran, se considerará que el enajenante exporta dichos bienes hasta por la mencionada proporción, siempre que esta última sea menor a la que se refiere el párrafo anterior.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Las empresas que adquieran bienes así como las que los enajenen, deberán informar trimestralmente a las autoridades fiscales los días 15 de los meses de abril, julio y octubre del mismo año y enero del siguiente, sobre las adquisiciones o enajenaciones, según corresponda, que hayan efectuado durante el trimestre anterior y, en su caso, la proporción que hubieran aplicado a dichos bienes en el mismo periodo de conformidad con los párrafos precedentes. Igualmente, los primeros informarán el valor de sus exportaciones definitivas realizadas en el trimestre inmediato anterior al que se reporta y el valor total de sus ventas en el mismo periodo. La información a que se refiere este párrafo se proporcionará a través de las formas oficiales que para tal efecto publique la Secretaría de Hacienda y Crédito Público.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-Las empresas que efectúen las enajenaciones a que se refiere esta fracción, por la proporción que no se considere exportada, deberán pagar el impuesto al valor agregado actualizado en los términos del artículo 17-A del Código Fiscal de la Federación, así como una cantidad equivalente al importe de los recargos que corresponderían en los términos del artículo 21 del citado Código, a partir del mes en que las mercancías se importaron temporalmente y hasta que se efectúe la enajenación.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
-
-Lo previsto en el primer párrafo de este artículo se aplicará a los residentes en el país que presten servicios personales independientes que sean aprovechados en su totalidad en el extranjero por residentes en el extranjero sin establecimiento o base fija en el país.
+Lo previsto en el primer párrafo de este artículo se aplicará a los residentes en el país que presten servicios personales independientes que sean aprovechados en su totalidad en el extranjero por residentes en el extranjero sin establecimiento en el país.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1026,9 +1036,9 @@ Lo previsto en el primer párrafo de este artículo se aplicará a los residente
 
 Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, el exportador de bienes o servicios calculará el impuesto aplicando la tasa del 0% al valor de la enajenación o prestación de servicios. También procederá el acreditamiento cuando las empresas residentes en el país exporten bienes tangibles para enajenarlos o para conceder su uso o goce en el extranjero.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que sea exigible la contraprestación y en proporción a la misma.
+La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que se cobre la contraprestación y en proporción a la misma.
 
 ###### ARTICULO 31.
 
@@ -1050,29 +1060,53 @@ II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y
 
 III.- Expedir comprobantes señalando en los mismos, además de los requisitos que establezcan el Código Fiscal de la Federación y su Reglamento, el impuesto al valor agregado que se traslada expresamente y por separado a quien adquiera los bienes, los use o goce temporalmente o reciba los servicios. Dichos comprobantes deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días siguientes a aquél en que se debió pagar el impuesto en los términos de los artículos 11, 17 y 22 de esta Ley.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)(F. DE E., D.O.F. 4 DE MARZO DE 1985)
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Cuando se trate de actos o actividades que se realicen con el público en general, el impuesto se incluirá en el precio en que los bienes y servicios se ofrezcan, así como en la documentación que se expida, salvo que en este último caso, el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien solicite comprobante que reúna los requisitos señalados en el párrafo anterior.
+Cuando el comprobante ampare actos o actividades por los que se deba pagar el impuesto al valor agregado, en el mismo se deberá señalar en forma expresa si el pago de la contraprestación se hace en una sola exhibición o en parcialidades. Cuando la contraprestación se pague en una sola exhibición, en el comprobante se deberá indicar el importe total de la operación y el monto equivalente al impuesto que se traslada. Si la contraprestación se paga en parcialidades, en el comprobante que se expida por el acto o actividad de que se trate, se deberá indicar además el importe total de la parcialidad que se cubre en ese momento, y el monto equivalente al impuesto que se traslada sobre dicha parcialidad.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Cuando el pago de la contraprestación se haga en parcialidades, por el pago que de las mismas se haga con posterioridad a la fecha en la que se hubiera expedido el comprobante a que se refiere el párrafo anterior, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá ser impreso en los establecimientos autorizados para tal efecto por el Servicio de Administración Tributaria y contener los requisitos previstos en las fracciones I, II, III y IV del artículo 29-A del Código Fiscal de la Federación, así como anotar el importe de la parcialidad que ampare, la forma como se realizó el pago de la parcialidad, el monto del impuesto trasladado, el monto del impuesto retenido, en su caso, y el número y fecha del documento que se hubiera expedido en los términos del párrafo anterior amparando la enajenación de bienes, el otorgamiento de su uso o goce temporal o la prestación del servicio de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Los contribuyentes que ejerzan la opción de anotar el importe de las parcialidades que se paguen, en el reverso del comprobante en los términos del artículo 134, fracción II de la Ley del Impuesto sobre la Renta, deberán anotar la fecha de pago, el monto del impuesto trasladado y, en su caso, el monto del impuesto retenido. En este supuesto, los contribuyentes no estarán obligados a expedir los comprobantes por cada una de las parcialidades.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Cuando se trate de actos o actividades que se realicen con el público en general, el impuesto se incluirá en el precio en el que los bienes y servicios se ofrezcan, así como en la documentación que se expida. Cuando el pago de estas operaciones se realice en parcialidades, los contribuyentes deberán señalar en los comprobantes que expidan, el importe de la parcialidad y la fecha de pago. En el caso de que los contribuyentes ejerzan la opción prevista en el artículo 134, fracción II de la Ley del Impuesto sobre la Renta, también deberán anotar en el reverso del comprobante la fecha de pago de la parcialidad, en cuyo caso no estarán obligados a expedir los comprobantes por cada una de las parcialidades.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de los contribuyentes que presten servicios personales, cada pago que perciban por la prestación de servicios se considerará como una sola exhibición y no como una parcialidad.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite. Lo dispuesto en este párrafo no se aplicará tratándose de los contribuyentes a que se refiere el artículo 2o.-A de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Los contribuyentes a los que se retenga el impuesto deberán expedir comprobantes con la leyenda Impuesto retenido de conformidad con la Ley del Impuesto al Valor Agregado.
+Los contribuyentes a los que se les retenga el impuesto deberán expedir comprobantes con la leyenda "Impuesto retenido de conformidad con la Ley del Impuesto al Valor Agregado" y consignar por separado el monto del impuesto retenido.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago provisional o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+Para los efectos del artículo 7o. de esta Ley, la restitución del impuesto correspondiente deberá hacerse constar en un documento que contenga en forma expresa y separada la contraprestación y el impuesto al valor agregado trasladado que se hubiesen restituido, así como los datos de identificación del comprobante de la operación original.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
+La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá establecer facilidades para cumplir con las obligaciones a que se refiere esta fracción.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta Ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+
+Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así se lo requieran.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+V.- Expedir constancias por las retenciones del impuesto que se efectúen en los casos previstos en el artículo 1o.-A, al momento de recibir el comprobante a que se refiere la fracción III de este artículo, y presentar ante las oficinas autorizadas en el mes de febrero del año de calendario siguiente, declaración en la que proporcionen la información sobre las personas a las que les hubieren retenido el impuesto establecido en esta Ley durante el año de calendario inmediato anterior al mes en el que se debe presentar la declaración, en los formatos que para tal efecto autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-V.- Expedir constancias por las retenciones del impuesto que se efectúen en los casos previstos en el artículo 1o.-A, al momento de recibir el comprobante a que se refiere la fracción III de este artículo, y presentar ante las oficinas autorizadas en el mes de febrero del ejercicio siguiente, declaración en que proporcionen la información sobre las personas a las que hubieren retenido el impuesto establecido en esta Ley, en los formatos que para tal efecto autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 La Federación y sus organismos descentralizados, en su caso, también estarán obligados a cumplir con lo establecido en esta fracción.
 
@@ -1080,33 +1114,37 @@ La Federación y sus organismos descentralizados, en su caso, también estarán 
 
 VI.- Las personas que efectúen de manera regular las retenciones a que se refieren los artículos 1o.-A y 3o., tercer párrafo de esta Ley, presentarán aviso de ello ante las autoridades fiscales dentro de los 30 días siguientes a la primera retención efectuada.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+VII.- Proporcionar la información que del impuesto al valor agregado se les solicite en las declaraciones del impuesto sobre la renta.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Los contribuyentes que tengan en copropiedad una negociación y los integrantes de una sociedad conyugal, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios o de los consortes, según se trate, cumpla con las obligaciones establecidas en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones de pago provisional y del ejercicio, por cuenta de los herederos o legatarios.
+En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones de pago del mes de calendario que corresponda, por cuenta de los herederos o legatarios.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 33.
 
-Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni de pago provisional ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
+Cuando se enajene un bien o se preste un servicio en forma accidental, por los que se deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración mensual ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina autorizada que corresponda a su domicilio. Lo dispuesto en este párrafo no es aplicable en el caso a que se refiere el artículo 1o.-A, fracción I de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 34.
 
-Cuando la contraprestación que reciba el contribuyente no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en esta Ley.
+Cuando la contraprestación que cobre el contribuyente por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes, no sea en efectivo ni en cheques, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta tratándose de actividades por las que se deba pagar el impuesto establecido en esta Ley, cuando no exista contraprestación.
 
 En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
 
@@ -1213,6 +1251,20 @@ V.- Dividendos, intereses o utilidades que representan o perciban las empresas q
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras así como los derechos por servicios de alumbrado público que cobren los municipios, aun cuando para su determinación se utilice como base el consumo de energía eléctrica.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 43.
+
+Las Entidades Federativas podrán establecer un impuesto sobre los ingresos que obtengan las personas físicas que tributen en los términos de las Secciones II y III del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, sin que se considere como un incumplimiento de los convenios celebrados con la Secretaría de Hacienda y Crédito Público ni del artículo 41 de esta Ley, cuando dicho impuesto reúna las siguientes características:
+
+I. Tratándose de las personas físicas que tributen en los términos de la Sección II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, la tasa del impuesto no exceda del 5% y se aplique sobre la utilidad fiscal efectivamente percibida.
+
+II. Tratándose de las personas físicas que tributen en los términos de la Sección III del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, la tasa del impuesto no exceda del 2% y se aplique sobre los ingresos brutos efectivamente obtenidos. En este caso, las Entidades Federativas podrán estimar el ingreso y determinar el impuesto mediante el establecimiento de cuotas fijas.
+
+Para los efectos de este artículo, cuando las personas físicas tengan establecimientos, sucursales o agencias, en dos o más Entidades Federativas, únicamente se considerará el ingreso o la utilidad fiscal, según sea el caso, obtenido en los establecimientos, sucursales o agencias que se encuentren en la Entidad Federativa de que se trate.
+
+Asimismo, se deberá considerar que, tratándose de la enajenación de bienes y del otorgamiento de su uso o goce temporal, el ingreso se percibe por el establecimiento, sucursal o agencia, que realice la entrega material del bien; a falta de entrega material, por el establecimiento, sucursal o agencia, que levantó el pedido; tratándose de la prestación de servicios, por el establecimiento, sucursal o agencia, en que se preste el servicio o desde el que se preste el mismo.
 
 ## TRANSITORIOS
 
@@ -1332,9 +1384,9 @@ Esta Ley entrará en vigor en toda la República, el día 1o. de enero de 1981.
 
 Al entrar en vigor la presente Ley, quedarán derogadas las disposiciones siguientes:
 
-l.- Los artículos 16 y 17 de la Ley que Reforma y Adiciona Diversas Leyes que Rigen Impuestos Federales y Establece Vigencia Propia para Disposiciones Consignadas en Anteriores Leyes de Ingresos de la Federación de fecha 28 de diciembre de 1966, publicada en el "Diario Oficial" de la Federación el día 31 del mismo mes y año, que establecieron los impuestos sobre las Erogaciones por Remuneración al Trabajo Personal Prestado bajo la Dirección y Dependencia de un Patrón y sobre Compraventa de Primera Mano de Cacao que se produzca en territorio nacional, respectivamente.
+I.- Los artículos 16 y 17 de la Ley que Reforma y Adiciona Diversas Leyes que Rigen Impuestos Federales y Establece Vigencia Propia para Disposiciones Consignadas en Anteriores Leyes de Ingresos de la Federación de fecha 28 de diciembre de 1966, publicada en el "Diario Oficial" de la Federación el día 31 del mismo mes y año, que establecieron los impuestos sobre las Erogaciones por Remuneración al Trabajo Personal Prestado bajo la Dirección y Dependencia de un Patrón y sobre Compraventa de Primera Mano de Cacao que se produzca en territorio nacional, respectivamente.
 
-ll.- Decreto de 20 de junio de 1945 que establece un impuesto sobre compraventa de primera mano de ixtle de lechuguilla y palma que se produzca en territorio nacional, publicado en el "Diario Oficial" de la Federación de 29 del mismo mes y año.
+II.- Decreto de 20 de junio de 1945 que establece un impuesto sobre compraventa de primera mano de ixtle de lechuguilla y palma que se produzca en territorio nacional, publicado en el "Diario Oficial" de la Federación de 29 del mismo mes y año.
 
 ###### ARTICULO CUARTO.
 
@@ -1809,3 +1861,35 @@ Unico.- La presente Resolución entrara en vigor el día siguiente al de su publ
 D.O.F. 5 DE JULIO DE 2002.
 
 Primero. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2003.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se deroga el artículo Séptimo Transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2002 publicada en el Diario Oficial de la Federación el 1 de enero de 2002.
+
+Tercero. Los contribuyentes obligados a presentar la declaración del ejercicio fiscal de 2002 por las actividades realizadas durante el mismo, deberán calcular el impuesto del ejercicio y presentar la declaración correspondiente en los términos y en los plazos previstos en el artículo 5o. de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2002.
+
+Cuando en la declaración correspondiente al ejercicio fiscal de 2002 resulte saldo a favor, los contribuyentes podrán acreditarlo contra el impuesto a su cargo que les corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor.
+
+Cuarto. Los contribuyentes deberán efectuar el último pago provisional correspondiente al ejercicio fiscal de 2002, en los términos y en los plazos previstos en el artículo 5o. de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de dicho año.
+
+Los contribuyentes no podrán acreditar los saldos a favor que determinen en las declaraciones de los pagos provisionales del impuesto al valor agregado correspondientes al ejercicio fiscal de 2002, contra el propio impuesto que resulte a su cargo en las declaraciones de pago mensual, determinado conforme a las disposiciones de la Ley del Impuesto al Valor Agregado vigentes a partir del 1 de enero de 2003.
+
+Quinto. Los contribuyentes que reciban el precio o las contraprestaciones correspondientes a actos o actividades por los que se haya causado el impuesto al valor agregado conforme a los artículos 11, 17 y 22 vigentes hasta el 31 de diciembre de 2001, no darán lugar a la causación del impuesto de conformidad con las disposiciones vigentes a partir del 1 de enero del 2003.
+
+Los contribuyentes que hayan trasladado el total del impuesto al valor agregado correspondiente a las actividades mencionadas en el párrafo anterior, no deberán efectuar traslado alguno en los comprobantes que expidan por las contraprestaciones que reciban con posterioridad al 1 de enero de 2003.
+
+Sexto. Tratándose de enajenación de bienes por la que de conformidad con lo dispuesto en el artículo 12 de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2001, se hubiera diferido el pago del impuesto al valor agregado sobre la parte de las contraprestaciones que se cobren con posterioridad, por las mismas se pagará el impuesto en la fecha en que sean efectivamente percibidas.
+
+Los intereses que hubieran sido exigibles antes del 1 de enero de 2002, que correspondan a enajenaciones a plazo o a contratos de arrendamiento financiero en que se hubiere diferido el pago del impuesto en los términos del artículo 12 vigente hasta el 31 de diciembre de 2001, el impuesto se pagará en la fecha en que los intereses sean efectivamente cobrados. Los intereses que sean exigibles a partir del 1 de enero de 2003 estarán afectos al pago del impuesto en el momento en que efectivamente se cobren.
+
+Séptimo. Tomando en cuenta que el artículo 17 de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 2001, establecía que tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, el impuesto se causaba hasta el momento en que se pagaran las contraprestaciones correspondientes al avance de obra y cuando se hicieran los anticipos, para los efectos de las disposiciones vigentes a partir del 1 de enero del 2003, cuando se hubieren prestado dichos servicios con anterioridad al 1 de enero de 2002, el impuesto se pagará cuando efectivamente se cobren las contraprestaciones correspondientes a dichos servicios. Se podrá disminuir del monto de la contraprestación, los anticipos que, en su caso, hubieren recibido los contribuyentes, siempre que por el anticipo se hubiere pagado el impuesto al valor agregado.
+
+Octavo. La reforma a la fracción VII del artículo 29 de la Ley del Impuesto al Valor Agregado, entrará en vigor a partir del 1 de enero de 2004. Hasta en tanto entre en vigor dicha disposición queda sin efectos lo dispuesto en la fracción VII del artículo 29 actualmente en vigor.
+
+Noveno. Los contribuyentes que hayan realizado operaciones de factoraje financiero durante el ejercicio fiscal de 2002, podrán optar por aplicar durante el ejercicio mencionado el tratamiento previsto en el artículo 1o.-C de la Ley del Impuesto al Valor Agregado, siempre que cumplan con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+D.O.F. 30 DE DICIEMBRE DE 2002.
+
+Único. La presente Ley entrará en vigor a partir del 1 de enero de 2003.
