@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "1999-06-16"
+last_updated: "1999-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -223,7 +223,9 @@ XI. Procuraduría General de Justicia; y
 
 XII. Contraloría General del Estado.
 
-En el caso de la Consejería Jurídica, ésta quedará adscritas al despacho del Ejecutivo.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1999)</small>
+
+En el caso de la Consejería Jurídica y de la Defensoría Social, éstas quedarán adscritas al Despacho del Ejecutivo.
 
 ###### ARTICULO 32.
 
@@ -275,7 +277,7 @@ XXII. Ejercer, por delegación del Ejecutivo, las atribuciones que le correspond
 
 XXIII. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo;
 
-XXIV. Dirigir, administrar, vigilar y fijar los lineamientos para el funcionamiento de la Defensoría Social, que estará integrada por la Defensoría de Oficio, la Defensoría Indígena y la Procuraduría de la Defensa del Trabajo, las cuales tendrán las atribuciones que establezcan los ordenamientos legales aplicables;
+XXIV. (DEROGADA, P.O. 6 DE AGOSTO DE 1999)
 
 XXV. Tramitar los nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales y ordenar periódicamente las visitas de inspección a las notarías del Estado;
 
@@ -367,7 +369,7 @@ XXVII. Presentar las denuncias y querellas correspondientes cuando la Hacienda P
 
 XXVIII. Fungir como fideicomitente de la administración pública estatal en los fideicomisos constituidos por el Ejecutivo, excepto en fideicomisos traslativos de dominio de bienes inmuebles; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1999)</small>
 
 XXIX. Presentar ante el Congreso del Estado, la información a que se refiere la fracción VI del artículo 80 de la Constitución Política del Estado, a más tardar dentro de los treinta días siguientes a la culminación del período que se informa, con excepción del último período de cada año cuyo plazo será de noventa días. El incumplimiento de esta disposición será objeto de responsabilidad administrativa, y
 
@@ -988,3 +990,9 @@ LIC. MARTIN CELSO ZAVALA MARTINEZ.
 P.O. 16 DE JUNIO DE 1999.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE AGOSTO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
