@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1998-06-17"
+last_updated: "1998-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1998.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -3239,247 +3239,209 @@ El Jefe de la Oficina del Registro Público de la Propiedad está facultado para
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
+> <small>(DEROGADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
+
 # LIBRO QUINTO
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
+
 ## TITULO UNICO. DE LA POLICIA DEL ESTADO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
 
 ###### ARTICULO 584.
 
-La Policía del Estado es una institución destinada a mantener la tranquilidad y el orden públicos dentro del territorio del Estado de Chihuahua, protegiendo los intereses de la sociedad. En consecuencia sus funciones primordiales son las de prevenir la comisión de los delitos por medio de medidas adecuadas y concretas que protejan eficazmente la vida y la propiedad del individuo; guardar el orden dentro del grupo social y defender la seguridad del Estado, reprimiendo todo acto que perturbe o ponga en peligro esos bienes jurídicos y tales condiciones de existencia.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 585.
 
-La Policía del Estado será auxiliar del Ministerio Público, de la Dirección de Gobernación y del Poder Judicial, obedeciendo y ejecutando sus mandamientos, para la aprehensión de delincuentes y la investigación de infracciones antisociales, de conformidad con lo dispuesto por el artículo 21 de la Constitución Federal y las leyes procesales en vigor.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 586.
 
-La Policía del Estado será también auxiliar de la Dirección de Gobernación en las determinaciones que ésta tome en el cumplimiento de sus atribuciones y que le solicite expresamente, y de las autoridades municipales, pero cualquier auxilio que éstas requieran deberán pedirlo por conducto de la propia Dirección de Gobernación o de la Inspección General de Policía, sin que puedan librar órdenes directas a la misma Policía, a no ser en casos urgentes y bajo su exclusiva responsabilidad.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 587.
 
-La Policía del Estado dependerá en forma inmediata del Gobernador del Estado.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 588.
 
-Como complemento de su instrucción profesional, la Policía del Estado recibirá instrucción militar que la eduque en la disciplina y obediencia y su organización será la que fija el presente Código.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
 
 ###### ARTICULO 589.
 
-La Policía del Estado con facultades propias y como auxiliar de las otras autoridades, tendrá la injerencia que le corresponda con las siguientes materias: seguridad, moralidad y tranquilidad públicas, cultos, educación, salubridad pública y policía judicial, teniendo en cuenta lo que disponga el Reglamento de la Policía del Estado que expida el Ejecutivo.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 590.
 
-En materia de seguridad y tranquilidad públicas corresponde a la Policía del Estado:
-
-I.- Reprimir la ejecución de hechos contrarios a la tranquilidad del vecindario y para tal efecto cuidará de evitar toda clase de ruidos, disputas, tumultos, riñas y tropelías, con los que se turbe el reposo de los habitantes de lugar de su residencia;
-
-II.- Conservar el orden en los mercados, ferias, diversiones, ceremonias públicas, espectáculos públicos, templos, juegos y en general todos aquellos lugares que temporal o transitoriamente sean centros de concurrencia;
-
-III.- Prevenir y hacer cesar eficazmente los accidentes, tales como incendios, inundaciones, explosiones, derrumbes y otros que por su naturaleza pongan en peligro inminente la vida o la seguridad de los habitantes;
-
-IV.- Evitar que causen daños a las personas o propiedades los animales feroces o perjudiciales a los domésticos que por descuido o negligencia de sus propietarios anden sueltos en los caminos y carreteras del Estado;
-
-V.- Vigilar durante el día, y particularmente por la noche, los caminos y demás sitios públicos, para impedir que se cometan robos, asaltos y otros atentados en contra de las personas y de sus propiedades, procediendo a detener en el acto a todo individuo a quien se sorprenda en vías de ejecutar o ejecutando alguno de los que quedan expresados;
-
-VI.- Vigilar porque las manifestaciones, reuniones en la vía pública y otros actos semejantes, sea cual fuere su finalidad, se lleven a efecto ordenadamente;
-
-VII.- Vigilar a los vagos de profesión y a los malvivientes habituales, con el fin de prevenir la ejecución de delitos por parte de ellos. Para este propio fin la Policía podrá cuantas veces lo juzgue necesario, ordenar la comparecencia de tales elementos ante los funcionarios de la misma institución, para someterlos a los interrogatorios e investigaciones que fueren convenientes, encaminados al esclarecimiento de sus actividades, cuando éstas se juzguen sospechosas o para cerciorarse de que observan buen comportamiento;
-
-VIII.- Vigilar las fábricas y centros de bebidas embriagantes, mientras permanezcan abiertos, así como los lugares frecuentados por sospechosos y delincuentes conocidos, con el objeto de impedir la preparación de actos delictuosos o la ejecución de los mismos;
-
-IX.- Atender a los visitantes extranjeros o nacionales, proporcionándoles todos los informes que soliciten relacionados con los medios de transporte que deben utilizar para trasladarse de un lugar a otro; la ubicación de los sitios que deseen visitar, y en general, proporcionarles todos los datos que fueren necesarios para su seguridad y comodidad;
-
-X.- Evitar que los menores de edad de uno y otro sexo frecuenten cervecerías, cantinas, academias de baile y en general, todos aquellos centros en los que pueda peligrar su integridad moral, exigiendo de los dueños o encargados de tales establecimientos el exacto cumplimiento de esta disposición:
-
-XI.- Recoger en todo caso las armas consideradas como de uso prohibido, así como aquéllas permitidas por la ley, cuando su portador no exhiba la correspondiente licencia para usarla dentro de las poblaciones;
-
-XII.- Llevar un registro de delincuentes conocidos en el que consten sus antecedentes de criminalidad, los diferentes ingresos a la inspección General de Policía y cárceles, procediendo, en caso de ser posible, a la formación de su ficha signalética, con retratos, huellas digitales, filiación y, en general, con todos aquellos datos que permitan su fácil identificación;
-
-XIII.- Impedir la celebración de toda clase de juegos de azar; de aquellos en que la finalidad principal sea obtener la ganancia proveniente de las apuestas que se crucen y, en general, de todo lo que las leyes y reglamentos consideren como juegos prohibidos, y dar aviso oportuno a la autoridad administrativa competente de los lugares donde se celebren habitualmente dichos juegos;
-
-XIV.- Auxiliar a los funcionarios y agentes de la autoridad debidamente identificados en el ejercicio de sus funciones, cuando sean requeridos para ello;
-
-XV.- Cuidar de que en los caminos y carreteras en que se estén ejecutando obras que pudieran dar lugar a accidentes en perjuicio de los transeúntes, se coloquen señales fácilmente visibles que adviertan tal posibilidad de riesgo;
-
-XVI.- Prevenir y evitar la comisión de toda clase de delitos y la violación a las disposiciones vigentes en materia de policía y buen gobierno.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 591.
 
-En materia de cultos, la Policía del Estado deberá velar porque no se efectúen fuera de los templos en servicio, actos externos de carácter religioso; que con motivo de la celebración de algún santo patrono o con cualquier otro pretexto semejante se disparen cohetes, petardos, explosivos de cualquier índole o se queme pólvora en los sitios públicos sin la licencia respectiva de las autoridades competentes; que con igual motivo se efectúen audiciones musicales, kermesses, tómbolas, bailes y danzas y se vendan mercaderías en los atrios de los templos sin la previa licencia otorgada por la autoridad administrativa competente.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 592.
 
-En el ramo de educación, la Policía del Estado tendrá las siguientes facultades:
-
-I.- Vigilará que los niños en edad escolar que vaguen por los caminos y rancherías concurran a la escuela, exigiendo el cumplimiento de tal obligación a sus padres o personas encargadas de su cuidado y vigilancia.
-
-Tratándose de niños desamparados que carezcan de personas que ejerzan sobre ellos la patria potestad, la Policía deberá procurar que sean internados en los correspondientes establecimientos de asistencia pública, para que en ellos se atienda a la manutención y educación de los menores que se encuentren en tales circunstancias. En caso de no existir éstos deberán depositar a los menores, previo acuerdo del Director de Gobernación en el seno de una familia honorable y caritativa;
-
-II.- Cuidará de que el tránsito de vehículos en las zonas próximas a centros escolares se haga a la velocidad moderada que fijen los reglamentos respectivos.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 593.
 
-En materia de aseo y ornato la Policía del Estado cuidará:
-
-I.- Porque las disposiciones relativas a la limpia y aseo en el Municipio respectivo tengan su puntual cumplimiento, tomando para tal efecto la injerencia que el reglamento del ramo le señale;
-
-II.- Que las arboledas públicas no sean maltratadas, procediendo a la detención de quienes causen algún daño o deterioro en las plantas o arboledas de los bosques, jardines, paseos, calzadas y otros sitios públicos semejantes;
-
-III.- De dar aviso a las autoridades administrativas competentes del establecimiento en la vía pública de carpas, loterías, ruedas de la fortuna y otras diversiones similares, cuyos empresarios, propietarios o encargados carezcan de la licencia que las autorice para funcionar. También compete a la Policía hacer del conocimiento de las autoridades administrativas los casos en que tales diversiones, aun cuando cuenten con la licencia a que se refiere el párrafo anterior, constituyan, sin embargo, un estorbo para el tránsito o que sean motivo de ruidos o escándalos que perturben al vecindario, con el objeto de que se tomen las prevenciones necesarias para hacer cesar dichas alteraciones.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 594.
 
-En lo relativo a la salubridad, la Policía del Estado deberá auxiliar a las autoridades sanitarias en el cumplimiento de las leyes y demás disposiciones vigentes sobre el particular, acudiendo en su ayuda cuando fueren solicitados sus servicios por funcionarios en ejercicio de su cometido, debidamente acreditados; además, en cooperación con dichas autoridades, deberá poner en su conocimiento todos los casos de enfermedades epidémicas de cuya existencia tuviere noticia; evitar que se tiren desperdicios en las vías públicas; impedir inhumaciones de cadáveres fuera de los cementerios legalmente autorizados para funcionar, así como la permanencia de tales cadáveres en lugares públicos donde queden expuestos a la curiosidad de los transeúntes, salvo lo que al respecto determinen las leyes en materia de investigación de infracciones antisociales y práctica de diligencias de la Policía Judicial.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 595.
 
-Como auxiliar de la Policía Judicial, la Policía del Estado cumplirá oportunamente con las órdenes que reciba del Ministerio Público y prestará a éste su efectivo concurso en la investigación y persecución de las infracciones antisociales.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 596.
 
-Cuando la Policía tenga conocimiento de que se ha cometido una infracción antisocial, deberá proceder inmediatamente a comunicarlo al Ministerio Público, para que los representantes de esa institución tomen, desde luego, la intervención que les corresponda, de acuerdo con sus facultades, en el esclarecimiento de los hechos y en la persecución de los responsables.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 597.
 
-Tratándose de casos flagrantes, cuando el delincuente sea sorprendido infraganti, o sea en el momento mismo de estar cometiendo la infracción antisocial, la Policía del Estado deberá intervenir, procediendo a la detención del responsable, para ponerlo inmediatamente a disposición del Agente o Subagente del Ministerio Público que corresponda, haciéndose acompañar de los testigos que hayan intervenido en los mismos.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 598.
 
-Además procederá a recoger desde luego, las armas, instrumentos u objetos de cualquier clase que pudieran tener relación con la infracción antisocial y se hallaren en el lugar en que ésta se haya cometido, en sus inmediaciones o en poder del responsable, procediendo a hacer entrega de los mismos al personal del Ministerio Público que intervenga en el conocimiento de los hechos.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 599.
 
-Tratándose del delito de lesiones, la Policía del Estado, además de dar al Ministerio Público el conocimiento inmediato del caso, deberá proceder a llamar por el medio más rápido al personal del servicio médico oficial, para que se presente en el lugar de los hechos a levantar a los heridos y a prestarles los servicios médicos indispensables.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 600.
 
-En casos de daños por incendio, derrumbes o explosiones, la Policía deberá comunicarse por la vía más rápida con el personal de bomberos, para que acuda al lugar del siniestro a combatir la propagación del mismo, y entretanto, tomará las medidas de emergencia para impedir que se estacionen o transiten por las proximidades del lugar donde estén ocurriendo los sucesos, personas cuyas vidas pudieren peligrar con tal motivo.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 601.
 
-Cuando, por disposición de la autoridad competente, una persona deba quedar sujeta a la vigilancia de la Policía, bien sea que se trate de indiciados libres por falta de méritos, de procesados que gocen de libertad bajo fianza o de reos que disfruten del beneficio de la condena condicional o de la libertad preparatoria, deberán tomarse las medidas necesarias por parte de la Policía para hacer efectivo el mandamiento de dicha autoridad.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 602.
 
-Queda prohibido a la Policía del Estado detener inmotivadamente a cualquier individuo, careciendo para ello de fundamento legal, o maltratar a los detenidos sin que exista causa justificada, en el acto de la aprehensión o en las prisiones, sea cual fuere la falta o infracción antisocial que se les impute.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 603.
 
-Igualmente queda prohibido a la Policía del Estado practicar cateos sin la orden judicial respectiva y penetrar al domicilio de los particulares, a no ser que en este último caso medie el consentimiento de los ocupantes del lugar.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 604.
 
-Por ningún concepto podrá la Policía retener a su disposición, detenida, a una persona mayor tiempo del necesario para hacer la consignación correspondiente a las autoridades respectivas. El término de la detención nunca podrá exceder de setenta y dos horas, a no ser que la misma detención se verificare fuera del lugar donde resida el juez, en cuyo caso, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y en el que se efectúe la detención.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 605.
 
-Es causa de responsabilidad para la Policía no consignar inmediatamente a la disposición del Ministerio Público o de las autoridades competentes, a las personas que se encuentren detenidas por ella como presuntos responsables de la comisión de infracciones antisociales, faltas o infracciones a los reglamentos gubernativos, así como avocarse por sí misma el conocimiento de los hechos y decidir, con invasión de facultades que correspondan a las citadas autoridades, acerca de la situación legal de las personas detenidas.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
 
 ###### ARTICULO 606.
 
-El reclutamiento para formar el Cuerpo de Policía se hará entre los alumnos de la Escuela de Policía del Estado.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 607.
 
-Para ser miembro de la Policía se requiere:
-
-I.- Ser mexicano;
-
-II.- Tener dieciocho años cumplidos el día que cause alta, sin llegar a los cuarenta y cinco, y estar en pleno ejercicio de sus derechos civiles y políticos;
-
-III.- Haber hecho sus estudios en la Escuela de Policía del Estado o en alguna municipal y conocer perfectamente el manejo de caballos y armas;
-
-IV.- Haber celebrado el contrato de enganche correspondiente;
-
-V.- Ser de notoria buena conducta;
-
-VI.- No haber sido condenado ejecutoriamente por alguna de las infracciones antisociales que se mencionan en el artículo siguiente, ni estar sujeto a proceso;
-
-VII.- No padecer enfermedad contagiosa, ni tener defecto físico que lo imposibilite para el desempeño del servicio.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 608.
 
-No podrá reingresar a la Policía cualquier miembro de ella que haya sido condenado ejecutoriamente por alguna de las siguientes infracciones antisociales: asesinato, robo, abuso de confianza, fraude, peculado, concusión y cohecho, traición a la Patria, plagio, vagancia y malvivencia, corrupción de menores, lenocinio y otros cometidos en circunstancias tales que revistan el acto de caracteres infamantes.
-
-En consecuencia, el que se encuentre colocado en las circunstancias a que se refiere el párrafo anterior, perderá todos sus derechos como miembro de la Policía.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 609.
 
-El reclutamiento se hará con entera sujeción a las disposiciones de este Código y a las del Reglamento Interior de la Escuela de Policía.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO V. GRADOS Y JERARQUIAS
 
 ###### ARTICULO 610.
 
-Los policías particulares, oficinas o gabinetes de investigación, cualquiera que sea su origen, necesitarán, para funcionar en el Estado, acuerdo especial del Gobernador del Estado y quedarán sujetos al control del Director de Gobernación e Inspector General de Policía de acuerdo con el reglamento que sobre el particular se expida, considerándose sus miembros con el carácter de asimilados.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
 
 ###### ARTICULO 611.
 
-Para los efectos de la disciplina de la Policía, los miembros de ésta tendrán las jerarquías que establezca el reglamento respectivo y que se procurará asimilar a los equivalentes en el Ejército Nacional.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO VII. OBLIGACIONES DE LA POLICIA
 
 ###### ARTICULO 612.
 
-Se llama patente a la constancia autorizada por el Gobernador del Estado para acreditar el carácter de Jefe, Subjefe o Comandante de Grupo.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 613.
 
-Se entiende por nombramiento la constancia escrita expedida por el Gobernador del Estado a todo el personal de ella no comprendido en el precepto anterior.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO VIII. MANDO Y COMANDO
 
 ###### ARTICULO 614.
 
-Los elementos que integran la Policía del Estado están sujetos al cumplimiento de las obligaciones establecidas en este Código, reglamentos y demás disposiciones similares.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO IX. DISPOSICIONES FINALES
 
 ###### ARTICULO 615.
 
-El Inspector General de Policía o quien lo substituya legalmente en el ejercicio del mando directo, de acuerdo con las instrucciones que reciba del Gobernador del Estado, las disposiciones de este Código y demás aplicables, organizará y administrará las fuerzas de policía.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 616.
 
-El Inspector General de Policía tiene el deber de conservar la paz pública, evitar las infracciones, cooperar en la investigación de las que se cometan, proteger los derechos de las personas físicas y morales y velar por la libertad y el respeto de las garantías individuales que la Constitución otorga, haciendo para ello uso de su autoridad y de todos los elementos que estén bajo sus órdenes.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 617.
 
-En la prevención de las infracciones antisociales y en la detención de los responsables se sujetarán a las prevenciones contenidas en las disposiciones relativas del presente Código.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 618.
 
-El Inspector General de Policía conservará una completa ecuanimidad en todos los asuntos de su incumbencia, empleando la persuación u otros medios adecuados que no causen daño a las personas o a sus bienes, pero usará de su autoridad siempre que lo considere necesario.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 619.
 
-El Subjefe de la Inspección General de Policía substituirá legalmente al Inspector General de la misma en sus faltas temporales.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 620.
 
-La Inspección General de Policía funcionará normalmente como organismo de comando y de inspección; en el primer caso dictará, previo acuerdo del Gobernador, todas las medidas oportunas para la buena administración y organización de las fuerzas de la Policía; en el segundo, tendrá las más amplias facultades para la inspección de los cuerpos y servicios, haciendo cumplir las disposiciones de este Código, así como los instructivos correspondientes.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 621.
 
-El Inspector General de Policía establecerá, de acuerdo con el reglamento respectivo la organización y funcionamiento del Cuerpo, sobre la base de que la Policía montada o motorizada se agrupará en corporaciones con el número de elementos que se estimen suficientes y de acuerdo con las necesidades propias del servicio a que se les destina.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 ###### ARTICULO 622.
 
-El Inspector General de Policía convocará periódicamente a los Comandantes de Grupo para escuchar sus opiniones respecto de los diversos problemas del servicio, así como para coordinar el funcionamiento del Cuerpo, pero en definitiva las resoluciones que se tomen las dictará en la forma acordada por el Gobernador del Estado.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 623.
 
-La organización de los distintos servicios de la Policía, así como todo lo relativo al escalafón, licencias, antigüedades, postergas, recompensas, escuelas de Policía, uniformes y divisas, retiros, pensiones y seguros de los miembros de la Policía se sujetarán a reglamentos especiales que formulará el Ejecutivo del Estado.
+(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, P.O. 27 DE JUNIO DE 1998)
 
 > <small>(DEROGADO CON EL TITULO, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA LA PROTECCION Y DEFENSA DEL MENOR, P.O. 2 DE FEBRERO DE 1994)</small>
 
@@ -8173,7 +8135,7 @@ ASENTAMIENTOS HUMANOS
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION PRIMERA. PLAN ESTATAL
 
@@ -8241,11 +8203,11 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1489.
 
@@ -8301,7 +8263,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1502.
 
@@ -8311,9 +8273,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1504.
 
@@ -8387,13 +8349,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 ###### ARTICULO 1521.
 
@@ -8413,7 +8371,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1525.
 
@@ -8453,7 +8411,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1533.
 
@@ -8465,7 +8423,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1535.
 
@@ -8495,7 +8453,11 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -10548,3 +10510,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 17 DE JUNIO DE 1998.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+Primero.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Séptimo.- Se deroga el Libro Quinto de la Tercera Parte del Código Administrativo del Estado.
