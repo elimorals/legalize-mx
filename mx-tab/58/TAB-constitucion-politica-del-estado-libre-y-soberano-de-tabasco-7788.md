@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1983-12-28"
+last_updated: "1987-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1987.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -151,7 +151,7 @@ V.- En los demás casos que las leyes señalen.
 
 ### CAPITULO I. FORMACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 9°.
 
@@ -185,23 +185,49 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 ###### ARTICULO 12.
 
-El Poder Legislativo se deposita en un Congreso integrado por la Cámara de Diputados.
+El Poder Legislativo se deposita en un Congreso integrado por una Cámara de Diputados.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+El Congreso se integrará por representantes populares electos cada tres años, que constituirán en cada caso la Legislatura correspondiente; las elecciones serán directas y se apegarán a lo que dispone el Código Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 13.
 
-El Congreso se integrará por representantes populares electos cada tres años, que constituirán en cada caso la Legislatura correspondiente. Las Elecciones serán directas y se apegarán a lo que dispone la Ley Local Electoral.
+Se elegirá un Diputado propietario y un suplente por cada doscientos mil habitantes, o fracción que pase de cien mil, según el principio de votación mayoría relativa, tomando en cuenta el Censo General del Estado, pero en ningún caso la representación de un Municipio será menor de un Diputado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+Y ocho diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 14.
 
-Se elegirá un Diputado propietario y un suplente por cada doscientos mil habitantes o fracción que pase de cien mil, tornando en cuenta el censo general del Estado, pero en ningún caso la representación de un Municipio será menor de un diputado.
+Para la elección de los ocho diputados, según el principio de representación proporcional y el sistema de listas regionales, se constituirán dos circunscripciones electorales plurinominales, en el Estado.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 1978)</small>
+El Código Electoral del Estado determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-Y hasta 4 Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
+La elección de estos diputados se sujetará a las bases generales siguientes y a lo que en particular disponga el Código citado:
+
+I.- Para obtener el registro de sus listas regionales, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en, por lo menos, la tercera parte de los Distritos Electorales Uninominales;
+
+II.- Tendrá derecho a que le sean atribuídos diputados electos, según el principio de representación proporcional, todo aquel partido político que alcance por lo menos el 1.5% del total de la votación emitida para las listas regionales de las circunscripciones y no se encuentre comprendido en los siguientes supuestos:
+
+a) Haber obtenido el 51% de la votación estatal efectiva, y que su número de constancias de mayoría relativa represente un porcentaje del total de la Cámara, superior o igual a su porcentaje de votos; o
+
+b) Haber obtenido menos del 51% de la votación estatal efectiva, y que su número de constancias de mayoría relativa sea igual o mayor a la mitad más uno de los miembros de la Cámara;
+
+III.- Al partido que cumpla con los (sic) dispuesto por las Fracciones I y II de este Artículo, le serán asignados, por el principio de representación proporcional, el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en cada circunscripción plurinominal.
+
+El Código determinará las normas para la aplicación de la fórmula que se observará en la asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+
+IV.- En los términos de la Fracción Anterior, las normas para la asignación de curules son las siguientes:
+
+a) Si algún partidos obtiene el 51% o más de votación total efectiva y el número de constancias de mayoría relativa representan un porcentaje del total de la Cámara, inferior a su referido porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos, según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos;
+
+b) Ningún partido tendrá derecho a que le sean reconocidos más de 20 diputados que representen el 80% de la integración total de la Cámara, aún cuando hubiere obtenido un porcentaje de votos superior.
+
+c) Si ningún partido obtiene el 51% de la votación estatal efectiva y ninguno alcanza, con sus constancias de mayoría relativa, la mitad mas uno de los miembros de la Cámara al partido con más constancias de mayoría le serán asignados diputados de representación proporcional hasta alcanzar la mayoría absoluta de la Cámara; y
+
+d) En el supuesto anterior, y en caso de empate en el número de constancias, la mayoría absoluta de la Cámara será decidida a favor de aquel de los partidos empatados que haya alcanzado la mayor votación a nivel estatal en la elección de diputados por mayoría relativa.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -261,11 +287,15 @@ La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando 
 
 La Cámara entrante, erigida en Colegio Electoral, calificará las elecciones de sus miembros resolviendo las dudas o controversias que se presenten con motivo de aquellas y sus resoluciones serán definitivas e inacatables.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 21.
 
-Los presuntos miembros de la Cámara declarados electos por la Junta Computadora de su Distrito Electoral, se reunirán en el Salón de Sesiones del Poder Legislativo diez días antes de la instalación del Congreso para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniere la mayoría absoluta de los presuntos Diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran, advertidos de que si no lo hacen en el término de diez días se entenderá que no aceptan el cargo, llamándose luego a los suplentes. Estos deberán presentarse dentro del plazo de veinte días y de no conseguirse su asistencia, se declarará vacante el cargo, convocándose a nuevas elecciones para los Distritos respectivos.
+Los presuntos miembros de la Cámara declarados electos, tanto por el principio de votación mayoritaria relativa como por el de representación proporcional, se reunirán en el Salón de Sesiones del Poder Legislativo, diez días antes de la instalación del Congreso para constituirse, presente la mayoría, en junta preparatoria. Si no se reuniere la mayoría absoluta de los presuntos diputados, los presentes se constituirán en junta previa para compeler a los ausentes a que concurran, advertidos de que si no lo hacen en término de diez días, se entenderá que no aceptan su cargo, llamándose a los suplentes. Estos deberán presentarse dentro del plazo de veinte días y de no conseguirse su asistencia, se declarará vacante el cargo, convocándose a nuevas elecciones para los distritos respectivos.
+
+En el caso de vacantes de los presuntos miembros de la Cámara electos por el principio de representación proporcional, éstas deberán ser cubiertas con aquellos candidatos del mismo partido que sigan en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+
+Corresponde al Gobierno del Estado, la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen e instituirá un Tribunal que tendrá la competencia que determine la Ley; las resoluciones del Tribunal serán obligatorias y solo podrán ser modificadas por el Colegio Electoral, que será la última instancia en la calificación de las elecciones.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -593,7 +623,9 @@ II.- Tener treinta años cumplidos el día de la elección;
 
 III.- No ser ministro de culto religioso alguno;
 
-IV.- No ser Secretario de alguno de los ramos de la Administración Pública del Estado, Procurador General de Justicia, Oficial Mayor o titular de alguna de las Direcciones de la Administración Pública del Estado, Presidente Municipal, Magistrado del Tribunal Superior de Justicia, ni Funcionario Federal, ni haber tenido mano de Fuerza Pública alguna durante noventa días inmediatamente antes de la elección; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1987)</small>
+
+IV.- No ser Secretario de alguno de los ramos de la Administración Pública del Estado; Procurador General de Justicia; Oficial Mayor o Titular de alguna de las Direcciones de la Administración Pública del Estado; Presidente Municipal; Magistrado del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Electoral ni Funcionario Federal ni haber tenido mando de fuerza pública alguna durante noventa días inmediatamente antes de la elección;
 
 V.- No estar comprendido dentro de algunas de las incapacidades del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1133,6 +1165,8 @@ El manejo de Recursos Económicos del Estado, de los Municipios y de sus respect
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ###### ARTICULO 77.
 
 Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones.
@@ -1566,3 +1600,11 @@ DECRETO NUMERO 0186.
 PRIMERO.- Las Reformas a que se refiere este Decreto fueron aprobados (sic) en los términos del artículo 83 de la propia Constitución.
 
 SEGUNDO.- Este Decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE AGOSTO DE 1987.
+
+PRIMERO: Estas reformas fueron aprobadas conforme a los (sic) dispuesto por el Artículo 83 de la Constitución Política del Estado.
+
+SEGUNDO: El presente Decretro (sic) entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO: Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
