@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1994-12-30"
+last_updated: "1996-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 1996.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -177,15 +177,19 @@ XIV.- Las demás que determinen esta Ley, sus Reglamentos, Bando de Policía y B
 
 El Gobierno Municipal estará a cargo de los Ayuntamientos electos popularmente en los términos de la Constitución Política Local y de la Ley Electoral para el Estado de Sonora.
 
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 19.
 
-El total de Munícipes de cada Ayuntamiento se determinará en base al número de habitantes que arroje el último censo de población y conforme a las siguientes bases:
+El total de miembros de cada Ayuntamiento se determinará con base en el número de habitantes que arroje el último censo de población y conforme a las siguientes bases:
 
-I.- En los municipios cuya población no exceda de treinta mil habitantes, habrá un Presidente Municipal, el Sindico, cinco Regidores de Mayoría Relativa y hasta dos Regidores según el principio de Representación Proporcional.
+I.- En los municipios cuya población no exceda de treinta mil habitantes, habrá un presidente municipal, un síndico, tres regidores de mayoría relativa y hasta dos regidores según el principio de representación proporcional;
 
-II.- En los Municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente Municipal, el Síndico y siete Regidores de Mayoría Relativa y hasta tres Regidores según el principio de Representación Proporcional.
+II.- En los Municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente Municipal, un Síndico y seis regidores de mayoría relativa y hasta cuatro regidores según el principio de representación proporcional; y
 
-III.- En los Municipios cuya población exceda de cien mil habitantes, habrá un Presidente Municipal, el Síndico y trece Regidores de Mayoría Relativa y hasta cinco Regidores según el principio de Representación Proporcional.
+III.- En los Municipios cuya población exceda de cien mil habitantes, habrá un presidente municipal, un síndico y doce regidores de mayoría relativa y hasta ocho regidores según el principio de representación proporcional.
+
+La asignación de regidores por el principio de representación proporcional, se hará de acuerdo con la fórmula electoral que se establezca en la ley de la materia; además, se podrá integrar un regidor designado en los términos del artículo 19 del Código Electoral para el Estado de Sonora.
 
 ###### ARTICULO 20.
 
@@ -1598,3 +1602,9 @@ B.O. 30 DE DICIEMBRE DE 1994.
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 SEGUNDO.- Las personas físicas o morales que con anterioridad a ala entrada en vigor a la presente Ley, estén prestando servicios privados de seguridad, o que actualmente realicen actividades conceptualizadas como tales en este ordenamiento, deberán dentro de un plazo de tres meses contados a partir de la vigencia de esta Ley, comparecer ante la Coordinación Estatal de Seguridad Pública y Transito a efecto de que se les otorgue la autorización y el registro correspondiente, previa comprobación del cumplimiento de los requisitos que se establecen, en el entendido de que de no comparecer dentro del plazo señalado, la Secretaría de Gobierno podrá imponer la sanción de multa, cuyo monto será de hasta cinco mil veces el salario mínimo general vigente en la cabecera del Municipio de que se trate.
+
+B.O. 8 DE JULIO DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
