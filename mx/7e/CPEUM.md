@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1940-09-11"
+last_updated: "1940-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE SEPTIEMBRE DE 1940.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 1940.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -244,7 +244,9 @@ Corresponde a la Nación el dominio directo de todos los minerales o substancias
 
 Son también propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fija el Derecho Internacional; las de las lagunas y esteros de las playas; las de los lagos interiores de formación natural, que estén ligados directamente a corrientes constantes, las de los ríos principales o arroyos afluentes desde el punto en que brota la primera agua permanente hasta su desembocadura, ya sea que corran al mar o que crucen dos o más Estados, las de las corrientes intermitentes que atraviesen dos o más Estados, en su rama principal; las aguas de los ríos, arroyos o barrancos, cuando sirvan de límite al territorio nacional o al de los Estados; las aguas que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fije la ley. Cualquiera otra corriente de agua no incluída en la enumeración anterior, se considerará como parte integrante de la propiedad privada que atraviese; pero el aprovechamiento de las aguas, cuando su curso pase de una finca a otra se considerará como de utilidad pública y quedará sujeta a las disposiciones que dicten los Estados.
 
-En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible, y sólo podrán hacerse concesiones por el Gobierno Federal a los particulares o sociedades civiles o comerciales constituídas conforme a las leyes mexicanas, con la condición de que se establezcan trabajos regulares para la explotación de los elementos de que se trata, y se cumpla con los requisitos que prevegan (sic) las leyes.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 9 DE NOVIEMBRE DE 1940)</small>
+
+En los casos a que se refieren los dos párrafos anteriores, el dominio de la Nación es inalienable e imprescriptible, y sólo podrán hacerse concesiones por el Gobierno Federal a los particulares o sociedades civiles o comerciales constituidas conforme a las leyes mexicanas, con la condición de que se establezcan trabajos regulares para la explotación de los elementos de que se trata y se cumpla con los requisitos que prevengan las leyes. Tratándose del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos, no se expedirán concesiones y la Ley Reglamentaria respectiva determinará la forma en que la Nación llevará a cabo las explotaciones de esos productos.
 
 La capacidad para adquirir el dominio de las tierras y aguas de la Nación, se regirá por las siguientes prescripciones:
 
@@ -1943,3 +1945,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 11 DE SEPTIEMBRE DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 9 DE NOVIEMBRE DE 1940.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
