@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-ganadero-del-estado-de-sinaloa-9974"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-01"
-last_updated: "1986-09-03"
+last_updated: "2003-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE FOMENTO GANADERO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1986.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO GANADERO DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 30 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 1o. de diciembre de 1970.
 
@@ -51,7 +53,7 @@ Se considera de interés público la cría, producción, mejoramiento, protecci�
 
 ###### ARTICULO 3.
 
-Quedan sujetos a las disposiciones de esta Ley, los propietarios de explotaciones pecuarias, los comerciantes de ganado, estableros y quienes en forma habitual o accidental efectuén actos relacionados con el objeto de este ordenamiento.
+Quedan sujetos a las disposiciones de esta Ley, los propietarios de explotaciones pecuarias, los comerciantes de ganado, estableros y quienes en forma habitual o accidental efectúen actos relacionados con el objeto de este ordenamiento.
 
 ###### ARTICULO 4.
 
@@ -761,7 +763,7 @@ Tanto el Centro de Investigaciones Pecuarias, como las postas zootécnicas, prot
 
 ###### ARTICULO 119.
 
-Los dueños de ganado corriente tienen el deber de ejercer estrecha vigilancia a fin de evitar que animales machos fecunden y perjudiquen a los empadres de hembras ajenas. Para los efectos de esta Ley se considera ganado corriente aquel que a juicio de la Comisión Estatal de Fomento Ganadero no reuna los requisitos indispensables que aseguren la productividad de las empresas ganaderas.
+Los dueños de ganado corriente tienen el deber de ejercer estrecha vigilancia a fin de evitar que animales machos fecunden y perjudiquen a los empadres de hembras ajenas. Para los efectos de esta Ley se considera ganado corriente aquel que a juicio de la Comisión Estatal de Fomento Ganadero no reúna los requisitos indispensables que aseguren la productividad de las empresas ganaderas.
 
 ###### ARTICULO 120.
 
@@ -890,3 +892,9 @@ P.O. 3 DE SEPTIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE JULIO DE 2003.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Se abrogan la Ley de Fomento Ganadero del Estado de Sinaloa publicada en el Periódico Oficial "El Estado de Sinaloa" No. 144, de fecha 1o. de Diciembre de 1970, así como sus reformas y adiciones publicadas en el mismo órgano de difusión.
