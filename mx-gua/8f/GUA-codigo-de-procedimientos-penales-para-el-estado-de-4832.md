@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1959-04-02"
+last_updated: "1978-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1978.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -101,6 +101,22 @@ Reglas generales para el procedimiento penal.
 
 Competencia.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 7.
+
+Es Tribunal competente para conocer de un delito, el del lugar en que se cometa.
+
+Si conforme a lo dispuesto por el Artículo 2 del Código Penal resultaran competentes dos o más Tribunales del Estado, conocerá del proceso el que haya prevenido.
+
+En los casos del Artículo 3 del Código Penal, es competente el Tribunal del lugar en que se cause o esté destinado a causar efectos el delito, o, en su defecto, cualquiera del Estado ante quien ejercite acción penal el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 8.
+
+Es competente para conocer de los delitos continuados o permanentes cualesquiera de los Tribunales en cuya jurisdicción se haya ejecutado.
+
 ###### Art. 7o.
 
 Es tribunal competente para conocer de un delito, el del lugar en que se comete.
@@ -117,19 +133,17 @@ En material penal, no cabe prórroga ni renuncia de jurisdicción.
 
 Ningún tribunal puede promover competencia a su superior jerárquico.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 11.
 
-Los Jueces Municipales en el Ramo Penal conocerán de los delitos que tengan como sanción, apercibimiento, caución de no defender, multa cuyo máximo sea de $50.00 cincuenta pesos y prisión cuyo máximo sea de un año. De todos los demás delitos conocerán los Jueces de Partido. Esta regla se entiende salvo los casos de la competencia del Supremo Tribunal de Justicia y del jurado popular.
+Los Jueces Municipales conocerán de los delitos que sólo puedan perseguirse por querella de parte, excepto los patrimoniales, y además de los de amenazas, allanamiento de morada y lesiones previstas en la primera parte del Artículo 207 del Código Penal. De todos los demás delitos conocerán los Jueces de Partido. Esta regla se entiende salvo los casos de la competencia del Supremo Tribunal de Justicia y del Jurado Popular.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 12.
 
-Para fijar la competencia cuando deba de tener por base la sanción que la ley señala, se atenderá:
-
-I.- A la sanción correspondiente al delito mayor, en caso de acumulación;
-
-II.- A la suma de los máximos de las sanciones corporales, cuando la ley disponga que a la correspondiente a determinado delito, se agreguen otra u otras de la misma naturaleza; y
-
-III.- A la sanción corporal cuando la ley imponga varias de distinta naturaleza.
+Cuando concurra delito que debieran conocer los Jueces Municipales con otro de la competencia de los Jueces de Partido, éstos conocerán del proceso.
 
 ### CAPITULO II.
 
@@ -627,11 +641,13 @@ Notificaciones.
 
 Las notificaciones se harán a más tardar el día siguiente al en que se dicten las resoluciones que las motiven.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 96.
 
-Las resoluciones contra las cuales proceda el recurso de apelación, se notificarán personalmente a las partes.
+Las resoluciones contra las cuales proceda el recurso de apelación y las pronunciadas en Segunda Instancia, se notificarán personalmente a las partes.
 
-Las damás (sic) resoluciones -con excepción de los autos que ordenen aprehensiones, cateos, providencias precautorias, aseguramiento y otras diligencias análogas respecto de las cuales el tribunal estime que deba guardarse sigilo para el éxito de la investigación- se notificarán al detenido o al procesado personalmente, y a los otros interesados en la forma señalada en el artículo 99 de este Código.
+Las demás resoluciones, con excepción de los autos que ordenan aprehensión, cateos, providencias precautorias, aseguramiento y otras diligencias análogas, respecto de las cuales el Tribunal estime que deba guardarse sigilo para el éxito de la investigación- se notificarán al detenido o al procesado personalmente, y a los otros interesados en la forma señalada en el Artículo 99 de este Código.
 
 ###### Art. 97.
 
@@ -721,9 +737,11 @@ Cuando se presente la querella o la denuncia por escrito, deberá ser citado el 
 
 Las personas a que se refiere el artículo 109 no están obligadas a hacer esa ratificación; pero el funcionario que reciba la denuncia deberá asegurarse de la personalidad de aquéllas y de la autenticidad del documento en que se haga la denuncia, si tuviere duda sobre ellas.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 112.
 
-No se admitirá la intervención de apoderado jurídico para la presentación de denuncias. Para la de querellas, sólo se admitirá cuando el apoderado tenga poder con cláusula especial o instrucciones concretas de sus mandatos para el caso.
+La querella podrá formularse por representante con poder general con cláusula especial para querellarse o poder especial para el caso.
 
 ###### Art. 113.
 
@@ -734,6 +752,22 @@ Cuando en un negocio judicial se arguya de falso un documento o el tribunal teng
 En los casos del artículo anterior, se requerirá a quien haya presentado el documento para que diga si insiste en que se tome en consideración o no; si contestare afirmativamente y siempre que la falsedad sea de tal naturaleza, a juicio del tribunal, que si llegare a dictarse sentencia influirá substancialmente en ella, éste ordenará, a petición del Ministerio Público, que se suspenda el procedimiento civil a partir de la citación para sentencia, hasta en tanto se declare que no ha lugar a intentar la acción penal, o si se intenta, hasta que se pronuncie resolución definitiva. Si no se insistiere en que se tome en consideración el documento, no se suspenderá el procedimiento civil.
 
 Este artículo se aplicará también en lo conducente, cuando se tache de falso a un testigo.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 114
+
+Bis.- Durante la averiguación previa el acusado podrá obtener su inmediata libertad, conforme a las siguientes reglas:
+
+a).- Que se trate de delito culposo derivado del tránsito de vehículos;
+
+b).- Que el acusado no haya abandonado a la víctima;
+
+c).- Que otorgue ante el Ministerio Público garantía de no sustraerse a la acción de la justicia.
+
+El Juez del conocimiento calificará la garantía otorgada, a fin de aceptarla, revocarla o modificarla. Citará al acusado, en su caso; y si no compareciere, revocará la libertad y ordenará su aprehensión.
+
+Si no se ejercita acción penal la garantía será cancelada.
 
 ### CAPITULO III.
 
@@ -937,9 +971,11 @@ En los casos en que el delito, por sancionarse con pena alternativa o no corpora
 
 Si contra una orden de aprehensión no ejecutada o de comparecencia para preparatoria, se concede la suspensión definitiva por haber pedido amparo el inculpado, el tribunal que libró dicha orden procederá desde luego a solicitar del que concedió la suspensión que lo haga comparecer a su presencia dentro de tres días, para que rinda su declaración preparatoria y para los demás efectos del procedimiento.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 150.
 
-No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el capítulo II, título octavo del libro II del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no puedan acudir ante el tribunal dentro de las veinticuatro horas en que debe hacerse saber su nombramiento a todo defensor.
+No pueden ser defensores los que se hallen presos ni los que estén procesados. Tampoco podrán serlo los que hayan sido condenados por alguno de los delitos señalados en el Capítulo I, Título Tercero del Libro II del Código Penal, ni los ausentes que, por el lugar en que se encuentren, no pueden acudir ante el Tribunal dentro de las 24 horas en que debe hacerse saber su nombramiento a todo defensor.
 
 ### CAPITULO I.
 
@@ -1041,7 +1077,7 @@ Si de la comprobación de todas estas circunstancias, así como de los anteceden
 
 ###### Art. 166.
 
-Se dará por comprobado el cuerpo del delito a que se refiere la fracción II del artículo 307 del Código Penal, cuando sin previo contrato con una empresa de energía eléctrica, de gas o de cualquier fluido, se encuentre conectada una instalación particular a las tuberías o líneas de la empresa respectiva, o a cualquiera tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
 
 ###### Art. 167.
 
@@ -1307,11 +1343,13 @@ Los peritos que acepten el cargo, con excepción de los oficiales titulados, tie
 
 En casos urgentes, la protesta la rendirán al producir o ratificar su dictamen.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 216.
 
 El funcionario que practique las diligencias fijará a los peritos el tiempo en que deban cumplir su cometido. Si transcurrido ese tiempo no rinden su dictamen, o si legalmente citados y aceptado el cargo, no concurren a desempeñarlo, se hará uso de alguno de los medios de apremio.
 
-Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público, para que proceda por el delito a que se refiere el artículo 141 del Código Penal.
+Si a pesar de haber sido apremiado el perito no cumple con las obligaciones impuestas en el párrafo anterior, se hará su consignación al Ministerio Público, para que proceda por el delito a que se refiere el Artículo 151 del Código Penal.
 
 ###### Art. 217.
 
@@ -1739,6 +1777,8 @@ Juicio.
 
 Procedimiento ante los Jueces Municipales.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 293.
 
 El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en el momento en que se haga la declaración a que se refiere el artículo 285, se citará a una audiencia que deberá efectuarse dentro de los cinco días siguientes. La citación para esa audiencia produce los efectos de citación para sentencia.
@@ -1755,7 +1795,7 @@ Procedimiento relativo al Jurado Popular.
 
 ###### Art. 295.
 
-Cuando se trate de delitos de la competencia de los jueces municipales, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los artículos 282 y 283. Cuando la pena impuesta excediere de dos meses de prisión, procederá el recurso de apelación, y conocerá del mismo el juez de partido que corresponda.
+Cuando se trate de delitos de la competencia de los Jueces Municipales, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose sentencia en la misma audiencia. Si las conclusiones fueren no acusatorias, se suspenderá la audiencia, procediéndose conforme a lo dispuesto en los Artículos 282 y 283. Del recurso de apelación que en contra de la sentencia se interpusiere, conocerá el Juez de Partido que corresponda.
 
 ### CAPITULO IV.
 
@@ -1809,11 +1849,11 @@ Practicando el sorteo, el presidente de debates ordenará se dé lectura a las d
 
 No se aceptará en este caso, como motivo de impedimento, el de simple excusa que señale el mismo código.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 304.
 
-Cuando un jurado no manifestare el impedimento que crea tener al hacérsele la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado por el delito a que se refiere la fracción I del artículo 193 del Código Penal.
-
-La misma consignación se hará si se alegare algún impedimento y después apareciere no ser cierto.
+Cuando un jurado no manifestare el impedimento que crea tener al hacérsele la pregunta a que se refiere el artículo anterior, y apareciere en el acto o posteriormente que lo tiene, será consignado por el delito a que se refiere el Artículo 160 del Código Penal.
 
 ###### Art. 305.
 
@@ -2081,9 +2121,11 @@ Solamente los autos contra los cuales no se conceda por este Código el recurso 
 
 También lo serán las resoluciones que se dicten en segunda instancia antes de la sentencia.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 350.
 
-Interpuesto el recurso, en el acto de la notificación o dentro de las veinticuatro horas siguientes, el tribunal lo resolverá de plano si estimare que no es necesario oír a las partes. En caso contrario, las citará a una audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
+Interpuesto el recurso, en el acto de la notificación o dentro de las cuarenta y ocho horas siguientes, el Tribunal lo resolverá de plano si estimare que no es necesario oír a las partes. En caso contrario las citará a una audiencia verbal, que se efectuará dentro de las cuarenta y ocho horas siguientes y en ella dictará su resolución, contra la que no procede recurso alguno.
 
 ### CAPITULO III.
 
@@ -2109,7 +2151,9 @@ Son apelables en ambos efectos solamente las sentencias definitivas en que se im
 
 Son apelables en el efecto devolutivo:
 
-I.- Las sentencias definitivas que absuelven al acusado, excepto las que se pronuncien en la audiencia a que se refiere el artículo 295;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1978)</small>
+
+I.- Las sentencias definitivas que absuelven al acusado;
 
 II.- Los autos en que se decrete el sobreseimiento en los casos de las fracciones III a VI del artículo 286 y aquellos en que se niegue el sobreseimiento;
 
@@ -2273,6 +2317,8 @@ Cuando el tribunal de apelación notare que el defensor faltó a sus deberes: po
 
 Libertad provisional bajo caución.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 380.
 
 El recurso de denegada apelación procede cuando ésta se haya negado, aun cuando el motivo de la denegación sea que no se considera como parte al que intente el recurso.
@@ -2315,7 +2361,7 @@ Libertad provisional bajo protesta.
 
 ###### Art. 387.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la pena corporal que corresponda al delito imputado no exceda de cinco años de prisión. Tratándose del delito de peculado podrá concederse la libertad caucional teniéndose en cuenta las circunstancias del caso, cuando el valor de lo dispuesto no exceda de mil pesos.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la pena corporal que corresponda al delito imputado no exceda de cinco años de prisión.
 
 ###### Art. 388.
 
@@ -2351,17 +2397,23 @@ La caución consistente en depósito en efectivo, se hará por el inculpado o po
 
 Cuando la garantía consista en hipoteca, el inmueble no deberá tener gravamen alguno y su valor fiscal será, cuando menos, de tres veces el monto de la suma fijada como caución.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 394.
 
-Cuando se ofrezca como garantía, fianza personal por la cantidad que no exceda de trescientos pesos, quedará bajo la responsabilidad del tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
+Cuando se ofrezca como garantía, fianza personal por cantidad que no exceda de dos mil pesos, quedará bajo la responsabilidad del Tribunal la apreciación que haga de la solvencia e idoneidad del fiador, para que la garantía no resulte ilusoria.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 395.
 
-Cuando la fianza personal exceda de trescientos pesos, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscriptos (sic) en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, tres veces el monto de la cantidad señalada como garantía; salvo cuando se trate de empresas afianzadoras legalmente constituídas y autorizadas.
+Cuando la fianza personal exceda de dos mil pesos, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, tres veces el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituídas y autorizadas.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 396.
 
-Cuando se ofrezca como garantía, fianza personal por cantidad mayor de trescientos pesos o hipoteca, se deberá presentar certificado de libertad de gravámenes, expedido por el encargado del Registro Público de la Propiedad, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas, para que el juez califique la solvencia.
+Cuando se ofrezca como garantía fianza personal por cantidad mayor de dos mil pesos o hipoteca, a fin de que el Juez califique la solvencia, se deberá presentar certificado de libertad de gravámenes, que comprenda un término de veinte años, y constancia de estar al corriente en el pago de las contribuciones respectivas.
 
 ###### Art. 397.
 
@@ -2435,7 +2487,7 @@ Cuando un tercero haya constituido depósito, fianza o hipoteca, para garantizar
 
 ###### Art. 405.
 
-En los casos del primer párrafo del artículo 402 y de la última parte del artículo 404, la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva, entretanto no se resuelva sobre la reparación del daño, para los efectos del último párrafo del artículo 31 del Código Penal.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
 
 ### CAPITULO III.
 
@@ -2775,7 +2827,9 @@ I.- Cuando el responsable se hubiere substraído a la acción de la justicia;
 
 II.- Cuando se advirtiere que se está en alguno de los casos señalados en las fracciones I y II del artículo 105;
 
-III.- Cuando enloquezca el procesado, cualquiera que sea el estado del proceso;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1978)</small>
+
+III.- Cuando el inculpado sufra una enfermedad mental que perturbe gravemente su conciencia, cualquiera que sea el estado del proceso;
 
 IV.- Cuando no exista auto de formal prisión o de sujeción a proceso y se llenen, además, los requisitos siguientes:
 
@@ -2813,13 +2867,17 @@ Separación de autos.
 
 La acumulación tendrá lugar:
 
-I.- En los procesos que se sigan contra una misma persona, en los términos del artículo 14 del Código Penal;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1978)</small>
+
+I.- En los procesos que se sigan contra una misma persona, en los términos del Artículo 28 del Código Penal;
 
 II.- En los que se sigan en investigación de delitos conexos;
 
 III.- En los que se sigan contra los copartícipes de un mismo delito;
 
-IV.- En los que se sigan en investigación de un mismo delito contra diversas personas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1978)</small>
+
+IV.- En los que se sigan en investigación de un mismo delito contra diversas personas.
 
 ###### Art. 461.
 
@@ -2869,6 +2927,8 @@ Serán aplicables las disposiciones de este capítulo a las averiguaciones que s
 
 Reparación del daño exigible a persona distinta del inculpado.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 470.
 
 Podrá ordenarse la separación de los autos acumulados cuando concurran las siguientes circunstancias:
@@ -2905,9 +2965,9 @@ Incidentes no especificados.
 
 ###### Art. 476.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el artículo 28 del Código Penal, debe ejercitarse por quien tenga derecho a ello ante el tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los tribunales del orden civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción. Esto último se observará también cuando, concluída la instrucción, no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil, y cuando se trate de infracciones de la competencia del Tribunal de Menores.
+La acción para exigir la reparación del daño a personas distintas del inculpado, de acuerdo con el Artículo 56 del Código Penal, debe ejercitarse por quien tenga derecho a ello, ante el Tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los Tribunales del orden civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción. Esto último se observará también cuando, concluída la instrucción, no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil, y cuando se trate de infracciones de la competencia del Tribunal de Menores.
 
-Cuando promovidas las dos acciones hubiere concluído el proceso, sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
+Cuando promovidas las dos acciones, hubiere concluído el proceso sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
 
 ###### Art. 477.
 
@@ -2925,57 +2985,77 @@ En el caso de hallarse prófugo el inculpado, se continuará la tramitación del
 
 Las providencias precautorias que pudiere intentar quien tenga derecho a la reparación, se regirán por lo que dispone el Código de Procedimientos Civiles, sin perjuicio de las facultades que las leyes concedan al Fisco para asegurar su interés.
 
-### CAPITULO UNICO.
+### CAPITULO PRIMERO. De las personas jurídicas
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 481.
 
 Los incidentes cuya tramitación no se detalle en este Código y que, a juicio del tribunal, no puedan resolverse de plano y sean de aquellos que no deban suspender el curso del procedimiento, se substanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación o a más tardar al día siguiente: Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el tribunal fallará desde luego el incidente.
 
-TITULO DECIMOSEGUNDO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
 
-Procedimiento relativo a los enfermos mentales.
+TITULO DECIMOSEGUNDO
+
+Procedimientos relativos a las personas jurídicas colectivas y a los inimputables.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+### CAPITULO SEGUNDO. De los inimputables
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 482.
+
+El procedimiento relativo a las personas jurídicas colectivas, a que se refiere el Artículo 15 del Código Penal, se tramitará como incidente no especificado, pero la extinción sólo podrá decretarse en la sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ### CAPITULO I.
 
 Disposiciones generales.
 
-###### Art. 482.
-
-Tan pronto como se sospeche que el inculpado esté loco, idiota, imbécil o sufra cualquiera otra debilidad, enfermedad o anomalía mentales, el tribunal lo mandará examinar por peritos médicos, sin perjuicio de continuar el procedimiento en la forma ordinaria. Si existe motivo fundando, ordenará provisionalmente la reclusión del inculpado en manicomio o en departamento especial.
-
-### CAPITULO II.
-
-Condena condicional.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 483.
 
-Inmediatamente que se compruebe que el inculpado está en alguno de los casos a que se refiere el artículo anterior, cesará el procedimiento ordinario, y se abrirá el especial, en el que la ley deja al recto criterio y a la prudencia del tribunal la forma de investigar la infracción penal imputada, la participación que en ella hubiere tenido el inculpado, y la de estimar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al judicial.
+Para resolver sobre la inimputabilidad de un inculpado el Tribunal, si lo creyere conveniente, o a petición de parte, antes de que dicte sentencia irrevocable, designará peritos que lo examinen.
 
-###### Art. 484.
+Las partes tendrán también derecho a nombrar peritos.
 
-Si se comprueba la infracción a la ley penal y que en ella tuvo participación el inculpado, previa solicitud del Ministerio Público y con audiencia de éste, del defensor y del representante legal, si los tuviere, el tribunal resolverá el caso, ordenando la reclusión en los términos de los artículos 20 inciso 3; 64 y 65 del Código Penal.
+El Tribunal, con base en los dictámenes y con audiencia de las partes, decidirá la imputabilidad o inimputabilidad del inculpado y, en su caso, procederá en los términos del Artículo 35 del Código Penal, a decretar la medida de seguridad curativa que corresponda.
 
 La resolución que se dicte será apelable en el efecto devolutivo.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 484.
+
+Si existe motivo fundado, el Tribunal ordenará provisionalmente la reclusión del inculpado en el establecimiento adecuado, en tanto decide sobre su inimputabilidad.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 485.
 
-Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 455, fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
+Cuando en el curso del proceso el inculpado sufra una enfermedad mental que perturbe gravemente su conciencia, se suspenderá el procedimiento en los términos del Artículo 455 fracción III, del Código de Procedimientos Penales, remitiéndosele al establecimiento adecuado en los casos que se juzgue necesario.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 486.
 
-La vigilancia del recluído estará a cargo de la autoridad administrativa correspondiente.
+La cesación de la medida de seguridad curativa se resolverá por el tribunal que la haya decretado, tramitándole como incidente no especificado.
 
 TITULO DECIMOTERCERO.
 
 Ejecución.
 
-### CAPITULO III.
+### CAPITULO II.
 
-Libertad preparatoria.
+Condena condicional.
 
 ###### Art. 487.
 
-En toda sentencia condenatoria, el tribunal que la dicte, prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el artículo 38 del Código Penal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia y de habitualidad que fueren procedentes.
+En toda sentencia condenatoria, el Tribunal que la dicte prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el Artículo 86 del Código Penal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia y de habitualidad que fueren procedentes.
 
 ###### Art. 488.
 
@@ -2991,9 +3071,11 @@ El Ministrio (sic) Público cumplirá con el deber que le impone el artículo an
 
 Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella, con los datos de identificación del reo, al Ejecutivo del Estado, quien enviará a la autoridad encargada de la ejecución uno de los testimonios.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 491.
 
-El Ministerio Público solicitará de los tribunales que, para los efectos del artículo 33 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se condena a la sanción pecuniaria, para que se haga efectivo tal importe.
+El Ministerio Público solicitará de los Tribunales que, para los efectos del Artículo 72 del Código Penal, se envíe a la autoridad fiscal que corresponda, copia autorizada de la sentencia en que se condena a la sanción pecuniaria, para que se haga efectivo tal importe.
 
 ###### Art. 492.
 
@@ -3001,89 +3083,117 @@ Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fi
 
 El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime necesario para que dé cumplimiento a la obligación que le impone este artículo.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
 ###### Art. 493.
 
-Cuando un reo enloquezca después de dictarse en su contra sentencia irrevocable que lo condene a pena corporal, se suspenderán los efectos de ésta mientras no recobre la razón, internándosele en un hospital público para su tratamiento.
+Cuando un reo sufra una enfermedad mental que perturbe gravemente su conciencia, después de dictarse en su contra sentencia irrevocable que lo condene a pena privativa de libertad, se suspenderán los efectos de ésta mientras sane, internándosele en un hospital público para su tratamiento.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 494.
 
-Cuando los tribunales decreten el comiso de instrumentos u objetos de delito, los remitirán al Ejecutivo del Estado, para los efectos del artículo 37 del Código Penal.
+Cuando los Tribunales decreten el decomiso de instrumentos u objetos de delito, los remitirán al Ejecutivo del Estado, para los efectos de los Artículo 77 y 78 del Código Penal.
 
 ###### Art. 495.
 
 Los tribunales pondrán al reo, de oficio, a disposición del Ejecutivo del Estado.
 
+### CAPITULO III.
+
+Libertad anticipada.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 496.
+
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
+
+###### Art. 497.
+
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
+
+###### Art. 498.
+
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+
+###### Art. 499.
+
+Cuando por algunas de las causas señaladas en los Artículos 103 y 105 del Código Penal deba revocarse la libertad condicional y hacerse efectiva la sanción en suspenso, el Tribunal que la concedió procederá, con audiencia de las partes si esto fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará la revocación de la libertad y la ejecución de la sanción.
+
+Si la causa fuere la comisión de un nuevo delito durante el término a que se refiere el Artículo 103 del Código Penal, deberá acreditarse siempre con testimonio de la de la sentencia irrevocable pronunciada en el segundo proceso.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
+
 ### CAPITULO IV.
 
 Retención.
 
-###### Art. 496.
-
-Las pruebas que se promuevan para acreditar los requisitos que exigen el artículo 85 del Código Penal para la concesión de la condena condicional, se rendirá durante la instrucción, sin que el ofrecimiento de esas pruebas, por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
-
-###### Art. 497.
-
-Al formular conclusiones el agente del Ministerio Público o el defensor, si estiman procedente la condena condicional, lo indicarán así para el caso en que el tribunal imponga una pena privativa de libertad que no exceda de dos años.
-
-###### Art. 498.
-
-Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la condena condicional y si no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
-
-Después de dictada sentencia irrevocable no procederá la condena condicional.
-
-###### Art. 499.
-
-Cuando por algunas de las causas que señala el artículo 85 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la condena condicional, el tribunal que concedió éste procederá, con audiencia del Ministerio Público, y del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
-
-### CAPITULO V.
-
-Conmutación y reducción de sanciones y cesación de sus efectos.
-
 ###### Art. 500.
 
-Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad preparatoria, la solicitará del Poder Ejecutivo, a cuyo efecto acompañará los certificados y las demás pruebas que tuviere.
+Cuando algún reo que esté compurgando una pena privativa de libertad crea tener derecho a la libertad anticipada, la solicitará al Ejecutivo, a cuyo efecto acompañará los certificados y las demás pruebas que tuviere.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 501.
 
-Recibida la solicitud, se recabarán los datos necesarios acerca de la temibilidad del reo, de la conducta que haya observado durante su prisión, de las manifestaciones exteriores de arrepentimiento o de enmienda y sobre las inclinaciones que demuestre. Estos datos se pedirán a las comisiones unitarias integradas, respectivamente, por el Ministerio Público, por el juez o magistrado y por el jefe de la prisión que hubiere intervenido en el caso del solicitante.
+Recibida la solicitud, se recabarán los datos necesarios acerca de la temibilidad del reo, de la conducta que haya observado durante su prisión, de las manifestaciones exteriores de arrepentimiento o de enmienda y sobre las inclinaciones que demuestre. Estos datos se pedirán a las comisiones unitarias integradas, respectivamente, por el Ministerio Público, por el Juez o Magistrado, y por el Jefe de la prisión que hubiere intervenido en el caso del solicitante.
 
-Los informes que rindan estas comisiones no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio; en vista de esos informes y datos se resolverá sobre la procedencia de la libertad solicitada.
+Los informes que rindan estas comisiones no serán obstáculo para que se obtengan los datos necesarios por cualquier otro medio; en vista de esos informes y datos, se resolverá sobre la procedencia de la libertad solicitada.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 502.
 
-Cuando se conceda la libertad preparatoria, se recibirá una información sobre la solvencia e idoneidad del fiador propuesto y en vista de ella se resolverá si es de admitirse al fiador.
+Cuando se conceda la libertad anticipada, se recibirá una información sobre la solvencia e idoneidad del fiador propuesto y, en vista de él, se resolverá si es de admitirse al fiador.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 503.
 
-Admitido el fiador, se otorgará la fianza en los términos que este Código establece para la libertad bajo caución, y se extenderá al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad preparatoria. Esta concesión se comunicará al jefe de la prisión respectiva, a la autoridad municipal del lugar que se señale para la residencia del mismo reo y al tribunal que haya conocido del proceso.
+Admitida la garantía, se otorga la fianza en los términos que este Código establece para la libertad bajo caución, y se extenderá al reo un salvoconducto para que pueda comenzar a disfrutar de la libertad anticipada. Esta concesión se comunicará al Jefe de la prisión respectiva, a la Autoridad Municipal del lugar que se señale para la residencia del mismo reo y al Tribunal que haya conocido del proceso.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 504.
 
-El salvoconducto a que se refiere el artículo anterior será firmado por el Secretario General del Gobierno y se remitirá al jefe de la prisión para que lo entregue al reo al ponerlo en libertad, haciéndole suscribir un acta en que conste que recibió dicho salvoconducto y que se obliga a no separarse del lugar que se le haya señalado para su residencia, sin permiso de la autoridad que le concedió la libertad preparatoria. En caso de que al que se le haya concedido la libertad preparatoria obtenga permiso para cambiar de residencia, se presentará a la autoridad municipal del lugar a donde vaya a radicarse y exhibirá ante ella el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
+El salvoconducto a que se refiere el artículo anterior será firmado por el Secretario del Gobierno y se remitirá al Jefe de la prisión para que lo entregue al reo al ponerlo en libertad, haciéndole suscribir un acta en que conste que recibió dicho salvoconducto y que se obliga a no separarse del lugar que se le haya señalado para su residencia, sin permiso de la autoridad que le concedió la libertad anticipada. En caso de que al que se le haya concedido la libertad anticipada obtenga permiso para cambiar de residencia, se presentará a la autoridad municipal del lugar a donde vaya a radicarse y exhibirá ante ella el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
 
 ###### Art. 505.
 
-El reo deberá presentar el salvoconducto, siempre que sea requerido para ello por un magistrado, juez o agente de la Policía Judicial o del Ministerio Público, y si se rehusare, se comunicará a la autoridad que le concedió la libertad preparatoria, la que podrá imponerle hasta quince días de arresto, pero sin revocarle dicha libertad.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 506.
 
-Cuando el que goce de libertad preparatoria se encuentre en alguno de los casos que menciona el artículo 81 del Código Penal, la autoridad municipal o cualquiera otra que tenga conocimiento de ello dará cuenta a la que le concedió la libertad, para los efectos del mismo artículo.
+Cuando el que goce de libertad anticipada se encuentre en alguno de los casos que menciona elA rtículo (sic) 107 del Código Penal, la autoridad municipal, o cualquiera otra que tenga conocimiento de ello, dará cuenta a la que le concedió la libertad para los efectos del mismo artículo.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 507.
 
-Cuando el reo cometiere un nuevo delito, el tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad con el artículo 81 del Código Penal.
+Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, si procede, de conformidad con el Artículo 107 del Código Penal.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 508.
 
-Cuando se revoque la libertad preparatoria, conforme a los dos artículos anteriores, se recogerá e inutilizará el salvoconducto.
+Cuando se revoque la libertad anticipada, conforme a los dos artículos anteriores, se recogerá e inutilizará el salvoconducto.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 509.
 
-Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad preparatoria, el agraciado ocurrirá al Supremo Tribunal de Justicia, para que la Sala Penal correspondiere, en vista de la sentencia y del informe del Gobierno del Estado, haga de plano la declaración de quedar el reo en absoluta libertad. De esta declaración se expedirán testimonios para el Ejecutivo del Estado, el tribunal que haya conocido del proceso y el interesado.
+Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad anticipada, el agraciado ocurrirá al Supremo Tribunal de Justicia, para que la Sala Penal correspondiere, en vista de la sentencia y del informe del Gobierno del Estado, haga de plano la declaración de quedar el reo en absoluta libertad y ordene la cancelación de la garantía correspondiente. De esta declaración se expedirán testimonios para el Ejecutivo del Estado, el Tribunal que haya conocido del proceso, y al interesado.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Indulto.
+Reducción y sustitución de sanciones.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 510.
 
@@ -3103,13 +3213,17 @@ Cuando el fallo considere inaplicable la retención, no impedirá que ésta se d
 
 Las resoluciones sobre la procedencia o improcedencia de la retención se comunicarán al reo, al jefe de la prisión donde cumpla su condena y al tribunal que dictó la sentencia.
 
-### CAPITULO VII.
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
 
-Rehabilitación.
+### CAPITULO VI.
+
+Indulto y reconocimiento de la inocencia del sentenciado.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 514.
 
-El que hubiere sido condenado por sentencia irrevocable y se encontrare en los casos de los artículos 52 y 68 del Código Penal, podrá solicitar del Poder Ejecutivo la reducción o la conmutación de la pena que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuvieren para pedir la conmutación.
+El que hubiere sido condenado por sentencia irrevocable y se encontrare en los casos del Artículo 6 del Código Penal, podrá solicitar del Poder Ejecutivo la reducción o la sustitución de la pena que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia.
 
 ###### Art. 515.
 
@@ -3119,115 +3233,145 @@ Dictada la resolución se comunicará al tribunal que haya conocido del proceso 
 
 ###### Art. 516.
 
-En los casos a que se refiere el artículo 70 del Código Penal se seguirá el procedimiento señalado por los artículos anteriores, sin que pueda modificarse los que se relacione con la reparación del daño.
+(DEROGADO, P.O. 14 DE MAYO 1978)
+
+> <small>(REFORMADO, P.O. 14 DE MAYO 1978)</small>
 
 ###### Art. 517.
 
-En el caso del artículo 53 del Código Penal, cuando el interesado se encuentre disfrutando del beneficio de la condena condicional, el tribunal que lo concedió resolverá de oficio o a petición de parte, y sin más trámite, que cese cualquier efecto que la sentencia produzca.
+En los casos del Artículo 7 del Código Penal, el Tribunal que conozca del proceso decretará de plano la libertad del inculpado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
+
+### CAPITULO VII.
+
+Rehabilitación.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 518.
 
-El indulto puede ser por gracia o necesario.
+El condenado por delito político para solicitar el indulto, ocurrirá al Ejecutivo con su instancia y con los justificantes que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 519.
 
-El indulto por gracia se concederá cuando el solicitante hubiere prestado importantes servicios a la nación o al Estado. En este caso, el condenado ocurrirá al Ejecutivo con su instancia y con los justificantes de los servicios prestados.
+El Ejecutivo con vista de la solicitud, resolverá sobre la concesión del indulto.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 520.
 
-El Ejecutivo, en vista de los comprobantes, o si así conviniere a la tranquilidad y seguridad pública tratándose de delitos políticos, concederá el indulto sin condición alguna, o con las que estime convenientes.
+El reconocimiento de la inocencia del sentenciado procede en los casos siguientes:
+
+I.- Cuando la sentencia se funde exclusivamente en pruebas que se demuestren falsas;
+
+II.- Cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se haya fundado aquélla o las presentadas al Jurado y que sirvieron de base a la acusación y al veredicto;
+
+III.- Cuando exista condena por homicidio de una persona, demostrándose indubitablemente que vive;
+
+IV.- Cuando el reo hubiere sido condenado por el mismo hecho punible en dos procesos distintos. En este caso el reconocimiento procederá respecto a la segunda condena.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 521.
 
-El indulto es necesario cuando se base en alguno de los motivos siguientes:
+El sentenciado que se crea con derecho a obtener el reconocimiento de la inocencia, ocurrirá por escrito al Supremo Tribunal de Justicia, exponiendo la causa en que se funda su petición, acompañando u ofreciendo pruebas.
 
-I.- Cuando la sentencia se funde exclusivamente en pruebas que posteriormente se declaren falsas;
-
-II.- Cuando después de la sentencia aparecieren documentos públicos que invaliden la prueba en que se haya fundado aquélla o las presentadas al jurado y que sirvieron de base a la acusación y al veredicto;
-
-III.- Cuando condenada alguna persona por homicidio de otra que hubiere desaparecido, se presentare ésta o alguna prueba irrefutable de que vive;
-
-IV.- Cuando dos reos hayan sido condenados por el mismo delito y se demuestre la imposibilidad de que los dos lo hubieren cometido;
-
-V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios distintos. En este caso el indulto procederá respecto de la segunda sentencia;
-
-VI.- En el segundo caso de los considerados en el artículo 53 del Código Penal.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 522.
 
-El sentenciado que se crea con derecho a obtener el indulto necesario, ocurrirá al Supremo Tribunal de Justicia por escrito, en el que expondrá la causa en que funda su petición, acompañando las pruebas que correspondan o protestando exhibirlas oportunamente. Sólo será admitida la prueba documental, salvo que se trate del caso a que se refiere la fracción III del mismo artículo anterior.
+Al hacer su solicitud, el sentenciado podrá nombrar defensor, conforme a las disposiciones conducentes de este Código, para que lo patrocine durante la sustanciación del reconocimiento de la inocencia, hasta su resolución definitiva. El Ministerio Público será siempre parte en este procedimiento.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 523.
 
-Al hacer su solicitud, el sentenciado podrá nombrar defensor, conforme a las disposiciones conducentes de este Código, para que lo patrocine durante la substanciación del indulto, hasta su resolución definitiva.
+Recibida la solicitud, la Sala Penal respectiva pedirá inmediatamente el proceso o procesos a la oficina en que se encontraren y, en su caso, se señalará un término prudente para recibir las pruebas.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 524.
 
-Recibida la solicitud, la Sala Penal respectiva pedirá inmediatamente el proceso o procesos a la oficina en que se encontraren; y cuando conforme al artículo 522 se haya protestado exhibir las pruebas, se señalará un término prudente para recibirlas.
+Recibido el proceso o procesos y, en su caso, las pruebas del promovente, se pasará el asunto al Ministerio Público, por el término de cinco días para que pida lo que a su representación convenga.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 525.
 
-Recibido el proceso o procesos y, en su caso, las pruebas del promovente, se pasará el asunto al Ministerio Público, por el término de cinco días, para que pida lo que a su representación convenga.
+Devuelto el expediente por el Ministerio Público, se pondrá a la vista del reo y de su defensor, por el término de tres días, para que se impongan de él y formulen sus alegatos por escrito.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 526.
 
-Devuelto el expediente por el Ministerio Público, se pondrá a la vista del reo y de su defensor, por el término de tres días, para que se impongan de él y formulen sus alegatos por escrito.
+Transcurrido el término a que se refiere el artículo anterior, se fallará el asunto declarando fundada o no la solicitud, dentro de los diez días siguientes.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 527.
 
-Transcurrido el término a que se refiere el artículo anterior, se fallará el asunto declarando fundada o no la solicitud, dentro de los diez días siguientes.
+Todas las resoluciones en que se reconozca la inocencia del sentenciado, se comunicarán al Ejecutivo y al Tribunal que hubiere dictado la sentencia.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 528.
 
-Si se declara fundada, se remitirá original el (sic) expediente al Ejecutivo del Estado, para que, sin más trámite, otorgue el indulto.
+El condenado que se encuentre dentro de lo dispuesto por el Artículo 7 del Código Penal, acudirá por escrito al Ejecutivo del Estado, solicitando declare sin efectos la sentencia correspondiente.
 
-En caso contrario, se mandará archivar el expediente, haciéndolo saber a las partes.
+El Ejecutivo, luego de recabar los documentos necesarios, resolverá sin más trámites.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 529.
 
-Todas las resoluciones en que se conceda un indulto se publicarán en el Periódico Oficial del Estado y se comunicarán al tribunal que hubiere dictado la sentencia, para que se haga la anotación correspondiente en el proceso.
+Cuando proceda la prescripción de la acción penal en los términos del Artículo 123 del Código Penal, el Tribunal la declarará al dictar sentencia.
 
 ###### Art. 530.
 
-La rehabilitación de los derechos políticos se otorgará en la forma y términos que disponga la Ley Orgánica del artículo relativo de la Constitución Política del País, si se trata de derechos o prerrogativas de los ciudadanos mexicanos.
+La rehabilitación procederá una vez que el reo haya compurgado la sanción corporal y transcurrido cuando menos un tercio de la condena de suspensión impuesta, si ha observado buena conducta.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 531.
 
-La rehabilitación de los derechos civiles o políticos de los ciudadanos guanajuatenses, no procederá mientras el reo esté extinguiendo una sanción privativa de libertad.
+El interesado ocurrirá a la Legislatura del Estado, solicitando la rehabilitación, acompañando las constancias que acrediten su procedencia.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 532.
 
-Si el reo hubiera extinguido ya la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el artículo siguiente, podrá ocurrir al tribunal que haya dictado la sentencia irrevocable, solicitando se le rehabilite en los derechos de que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañará a su escrito relativo los documentos siguientes:
+La Legislatura, con vista de la solicitud y las constancias exhibidas, si no estima necesario recabar mayores informes, resolverá de plano.
 
-I.- Un certificado expedido por la autoridad que corresponda que acredite haber extinguido la pena privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación, o el indulto, en su caso; y
-
-II.- Un certificado de la libertad municipal del lugar donde hubiere residido desde que comenzó a sufrir la inhabilitación, o la suspensión, y una información recibida por la misma autoridad, con audiencia del Ministerio Público, que demuestre que el promovente ha observado buena conducta continua desde que comenzó a sufrir su pena, y que ha dado pruebas de haber contraído hábitos de orden, trabajo y moralidad.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 533.
 
-Si la pena impuesta al reo hubiere sido la de inhabilitación o suspensión por seis o más años, no podrá ser rehabilitado antes de que transcurran tres años, contados desde que hubiere comenzado a extinguirla.
+La resolución que conceda la rehabilitación se hará saber al interesado y al tribunal que haya conocido del proceso.
 
-Si la inhabilitación o suspensión fuere por menos de seis años, el reo podrá solicitar su rehabilitación cuando haya extinguido la mitad de la pena.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
 
 ###### Art. 534.
 
-Recibida la solicitud el tribunal, a instancia del Ministerio Público o de oficio, si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
+Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
 ###### Art. 535.
 
-Recibidas las informaciones, o desde luego si no se estimaren necesarias, el tribunal decidirá dentro de tres días, oyendo al Ministerio Público y al peticionario, si es o no fundada la solicitud. En el primer caso remitirá las actuaciones originales, con su informe, a la Legislatura del Estado, a efecto de que resuelva en definitiva lo que fuere procedente. Si se concediere la rehabilitación se publicará en el Periódico Oficial del Estado; si se negare, se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo después de un año.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
 
 ###### Art. 536.
 
-Concedida la rehabilitación por la Legislatura, se comunicará la resolución al tribunal correspondiente, para que haga la anotación respectiva en el proceso.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
 
 ###### Art. 537.
 
-Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
 
 ###### Art. 538.
 
-La rehabilitación de los derechos civiles o políticos de los ciudadanos guanajuatenses, no se concederá si el que la pida está inhabilitado o suspendido en sus derechos de ciudadano mexicano.
+(DEROGADO, P.O. 14 DE MAYO DE 1978)
 
 TRANSITORIOS:
 
@@ -3262,3 +3406,11 @@ JOSE AGUILAR Y MAYA
 El Secretario General del Gobierno.
 
 Lic. RAMON ACEVEDO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 14 DE MAYO DE 1978.
+
+1º.- Estas reformas entrarán en vigor el día 3 de junio de 1978.
+
+2º.- En los casos previstos por el Artículo 4º Transitorio del Código Penal, la prescripción se declarará de plano por el Tribunal que dicte la sentencia ejecutoria.
