@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1938-11-01"
+last_updated: "1938-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 1938.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 1938.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -86,6 +86,10 @@ G.O. 1 DE NOVIEMBRE DE 1938.
 SE REFORMA EL ARTICULO 91 DE LA CONSTITUCION POLITICA LOCAL.
 
 Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
+
+G.O. 1 DE DICIEMBRE DE 1938.
+
+Las presentes reformas surtirán sus efectos a partir de la fecha de su publicación por BANDO SOLEMNE en todas las poblaciones del Estado.
 
 ### CAPITULO II.
 
@@ -365,15 +369,17 @@ La Legislatura calificará las elecciones de sus miembros, resolviendo las dudas
 
 La Legislatura se renovará, en su totalidad, cada dos años y comenzará a funcionar, en cada bienio, el 16 de septiembre posterior a las elecciones.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 1938)</small>
+
 ###### Artículo 52.
 
-Tendrá, en cada año, dos períodos de sesiones ordinarias: el primero, prorrogable por treinta días, principiará en la fecha expresada en el artículo precedente y concluirá el 16 de diciembre, y el segundo, improrrogable, comenzará el 5 de mayo y terminará en igual fecha de julio.
+Tendrá, en cada año, un período de sesiones ordinarias, prorrogable por treinta días; principiará en la fecha expresada en el artículo precedente y concluirá el 16 de diciembre.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 1938)</small>
 
 ###### Artículo 53.
 
-En el primer período, la Legislatura se ocupará de preferencia, en examinar, discutir y aprobar los Presupuestos que, con relación a los ingresos y egresos del año siguiente, les serán presentados por el Gobernador; así como en examinar y aprobar los Planes de Arbitrios de los Municipios. En el segundo, se ocupará, con la misma preferencia, en examinar y calificar las cuentas de recaudación y distribución de caudales, del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos, en las fechas que indiquen las leyes orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las Partidas respectivas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el Presupuesto del Gobierno del Estado; las que empleará el Secretario por acuerdo escrito del Gobernador.
+En el período de sesiones ordinarias, la Legislatura se ocupará de preferencia en examinar, discutir y aprobar los presupuestos que con relación a los ingresos y egresos del año siguiente, le serán presentados por el C. Gobernador; en examinar y aprobar los planes de arbitrios de los Municipios; en examinar y aprobar las cuentas de recaudación y distribución de caudales del año próximo anterior, que serán presentadas por el Gobernador y los Ayuntamientos en las fechas que indiquen las leyes orgánicas respectivas. La revisión no se limitará a examinar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y de las responsabilidades a que hubiere lugar. No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el presupuesto del Gobierno del Estado, las que empleará el Secretario por acuerdo escrito del Gobernador.
 
 ###### Artículo 54.
 
