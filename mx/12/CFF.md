@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1994-12-28"
+last_updated: "1995-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
-CÓDIGO FISCAL DE LA FEDERACIÓN
+CODIGO FISCAL DE LA FEDERACION
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1o. DE ABRIL DE 1995.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 1994.
 
@@ -349,6 +349,12 @@ Se entiende por operaciones financieras derivadas aquéllas que se realizan en m
 Asimismo, se consideran operaciones financieras derivadas, aquéllas en las que se enajenen en el mercado secundario los títulos de crédito en los que se contengan las operaciones antes mencionadas.
 
 Las operaciones financieras derivadas a que se refiere este artículo serán las que se efectúen con los instrumentos, en los mercados y con las condiciones que al efecto establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 1o. DE ABRIL DE 1995)</small>
+
+###### Artículo 16-B.
+
+Se considera como parte del interés el ajuste que a través de la denominación en unidades de inversión, mediante la aplicación de índices o factores, o de cualquier otra forma, se haga de los créditos, deudas, operaciones así como del importe de los pagos de los contratos de arrendamiento financiero.
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -1516,87 +1522,9 @@ Los hechos que se conozcan con motivo del ejercicio de las facultades de comprob
 
 Las copias o reproducciones que deriven del microfilm o disco óptico de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
-> <small>(DEROGADO A PARTIR DEL 1o. DE ENERO DE 1995, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 ###### Artículo 64.
 
-Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990, 1991, 1992 y 1993, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan la (sic) citadas facultades.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Si se tratare de contribuyentes cuyos estados financieros hubieran sido dictaminados por contador público autorizado, se considerará como último ejercicio, aquel de doce meses por el que se haya presentado el último dictamen, salvo que hubieran transcurrido cuando menos doce meses desde que presentó dicho dictamen sin haber presentado otro. En estos casos la determinación también podrá abarcar los meses posteriores a la presentación del último dictamen. Lo dipuesto (sic) en este párrafo se aplicará también a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté dictaminado.
-
-II. Al comprobarse que durante el período a que se refiere la fracción anterior se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas correspondientes a ejercicios anteriores, sin más limitación que lo dispuesto en el artículo 67 de este Código, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de este artículo.
-
-Las irregularidades a que se refiere esta fracción, son las siguientes:
-
-a). Omisión en el pago de participación de utilidades a los trabajadores de acuerdo con la utilidad fiscal declarada.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-b). Efectuar compensación o acreditamiento improcedente contra contribuciones a su cargo, u obtener en forma también improcedente la devolución de contribuciones, por más de 3% sobre el total de las declaradas.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-c). Omisión en el pago de contribuciones por más del 3% sobre el total de las declaradas por adeudo propio.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-d). Omisión en el entero de la contribución de que se trate por más del 3% sobre el total retenido o que debió retenerse.
-
-e). Cuando se dé alguno de los supuestos a que se refiere el artículo 55 de este Código.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-f). No solicitar la inscripción en el registro federal de contribuyentes cuando se esté obligado a ello o no presentar el aviso de cambio de domicilio fiscal o hacerlo extemporáneamente, salvo cuando se presenten en forma espontánea. Se considerará que se incurrió en la irregularidad señalada en este inciso, aun cuando los supuestos mencionados en el mismo hubiesen ocurrido en ejercicios o períodos distintos a los que se refiere la fracción I de este artículo.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-g). Proporcionar en forma equivocada u omitir la información correspondiente al valor de los actos o actividades realizadas en cada entidad federativa cuando tengan establecimientos en dos o más entidades, siempre que la omisión o alteración exceda en más del 3% de las cantidades que debieron proporcionarse de acuerdo con las actividades realizadas.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-h). Consignar información o datos falsos en los estados de resultados reales del ejercicio que se presenten para solicitar reducción de los pagos provisionales, o en los informes acerca del movimiento de efectivo en caja y bancos, cuando se solicite el pago a plazos ya sea diferido o en parcialidades.
-
-Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
-
-Si se incurre en alguna de las irregularidades señaladas en esta fracción, se podrá incluso, determinar contribuciones omitidas distintas a aquellas en que se cometió la irregularidad, aún cuando correspondan a ejercicios anteriores.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Cuando las autoridades fiscales que ejerzan sus facultades de comprobación sean competentes para revisar a los contribuyentes exclusivamente respecto de determinadas contribuciones, se considerarán cometidas las irregularidades a que se refieren los incisos b), c) y d) de esta fracción, aun cuando los porcientos señalados en dichas fracciones se refieran solamente a las contribuciones en relación a las cuales tenga competencia la autoridad fiscal de que se trate.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-También se consideran irregularidades para los efectos de esta fracción, las omisiones de ingresos o las deducciones en exceso, en que incurran los socios o accionistas en operaciones con la persona moral de que se trate.
-
-III. Aún cuando se presenten declaraciones complementarias después de que se inicie el ejercicio de las facultades de comprobación por las autoridades fiscales o las formas de corrección de la situación fiscal a que se refieren los artículo (sic) 58 y 76, se podrán determinar contribuciones omitidas por los ejercicios anteriores.
-
-IV. Las declaraciones complementarias o las formas de corrección de la situación fiscal a que se refieren los artículos 58 y 76, correspondientes a períodos anteriores a los señalados en la fracción I, podrán ser motivo de determinación de contribuciones en cualquier tiempo por lo que hace a los conceptos que hubieren modificado.
-
-V. Las contribuciones retenidas o que debieron retenerse podrán ser determinadas en cualquier tiempo, aún cuando en el último ejercicio sujeto a fiscalización no se determinen contribuciones o no se encuentren irregularidades a que se hace referencia en la fracción II de este artículo.
-
-VI. Si en el período a que se refiere la fracción I, el contribuyente hubiera incurrido en las irregularidades a que se hace referencia en la fracción II, se podrán hacer las modificaciones a que haya lugar por los ejercicios anteriores, aún cuando las mismas no den lugar al pago de contribuciones.
-
-VII. No obstante lo dispuesto en la fracción I de este artículo, las autoridades fiscales siempre podrán determinar contribuciones por un período menor del que se señala en dicha fracción.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-Lo dispuesto en este artículo no es aplicable a la determinación de contribuciones realizadas por las autoridades fiscales, que derive de la revisión de la cuenta pública federal efectuada por la Contaduría Mayor de Hacienda, a aportaciones de seguridad social, contribuciones sobre ingresos provenientes y deducciones efectuadas en el extranjero o que se causen por la importación de bienes, al impuesto sobre tenencia o uso de vehículos; ni respecto de las deducciones por creación o incremento de reservas de pasivo cuando los pagos correspondientes se efectúen en ejercicios posteriores a aquél en que se hizo la deducción, así como de los ejercicios en que se incurrió en pérdidas para efectos del impuesto sobre la renta, cuando dichas pérdidas se disminuyen total o parcialmente, en el ejercicio respecto del cual se ejercen las facultades de comprobación; no siendo aplicable, incluso en el ejercicio inmediato anterior a aquél en que se incurrió en pérdida, cuando ésta se disminuya en dicho ejercicio. Tampoco es aplicable lo previsto en este artículo a las instituciones que se encuentren sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de la Comisión Nacional de Seguros y Fianzas, ni a la determinación de contribuciones que efectúen las autoridades fiscales a cargo de los socios o accionistas por las irregularidades a que se refiere el último párrafo de la fracción II de este artículo, así como por los dividendos señalados en las fracciones IV, V, VI y VII del artículo 120 de la Ley del Impuesto sobre la Renta.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Lo dispuesto en este artículo tampoco será aplicable en el ejercicio de liquidación de las sociedades, cuando se haya presentado el aviso de suspensión de actividades o cuando en los ejercicios de doce meses a que se refiere la fracción I de este artículo, el contribuyente no hubiera realizado sus actividades en forma ordinaria.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-No se formulará querella ni se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse en virtud de lo dispuesto por este artículo.
-
-Lo establecido en este artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
+(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1930,7 +1858,7 @@ c). De N$82.00 en los demás documentos.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 IV. De N$1,379.00 para la establecida en la fracción V.
 
@@ -3712,7 +3640,7 @@ Ante el Tribunal Fiscal de la Federación no procederá la gestión de negocios.
 
 La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Fiscal de la Federación, sin perjuicio de lo que disponga la legislación de profesiones.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE VENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo Federal en el reglamento o decreto respectivo; o conforme lo establezcan las disposiciones locales, tratándose de las autoridades de las entidades federativas coordinadas.
 
@@ -5141,3 +5069,9 @@ PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1995.
 ...
 
 QUINTO.- A partir del 1o. de enero de 1995, las cantidades, tarifas y tablas que aparecen en los artículos que se indican de las leyes fiscales que se mencionan, serán las que a continuación se establecen. Las cantidades, tarifas y tablas que se mencionan en este artículo se entenderán actualizadas hasta el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establezcan las leyes que las contengan a partir de la actualización prevista para el mes de julio de 1995, excepto tratándose de las cantidades relativas a las Leyes de los Impuestos sobre Automóviles Nuevos y Tenencia o Uso de Vehículos, las cuales se actualizarán en el mes de enero de 1996, de conformidad con los preceptos aplicables de dichas Leyes.
+
+D.O.F. 1 DE ABRIL DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
