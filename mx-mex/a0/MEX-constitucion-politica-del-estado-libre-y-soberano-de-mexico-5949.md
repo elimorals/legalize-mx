@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1985-12-31"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1986.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -273,11 +273,11 @@ Para los efectos de las responsabilidades a que alude este título, se reputa co
 
 La Ley de Responsabilidades que expida la Legislatura regulará sujetos, procedimientos y sanciones en la materia.
 
-(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 4 DE MAYO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 127.
 
-Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Dependencias del Poder Ejecutivo y el Procurador General de Justicia, son responsables de los delitos graves del orden común que comentan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común y por delitos contra la Soberanía del Estado.
+Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los titulares de las Dependencias del Poder Ejecutivo y el Procurador General de Justicia, son responsables de los delitos graves del orden común que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común y por delitos contra la soberanía del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
 
@@ -287,11 +287,11 @@ Tratándose de los delitos a que se refiere al Artículo anterior, la Legislatur
 
 Contra las declaraciones y resoluciones de la Legislatura erigida en gran jurado, no procede juicio o recurso alguno.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 129.
 
-El Gobernador del Estado, cuando el caso lo amerite, podrá pedir ante la Legislatura, o en su caso ante la Diputación Permanente, la destitución por mala conducta de los Magistrados del Tribunal Superior de Justicia. Si por mayoría absoluta del número total de sus integrantes, en sesión de una u otra se declara justificada la petición, el Magistrado acusado quedará privado de su puesto a partir de la fecha en que se le haga saber la resolución, independiente de la responsabilidad en que en su caso hubiere incurrido, y se procederá a nueva designación.
+El Gobernador del Estado, cuando el caso lo amerite, podrá pedir ante la Legislatura, o en su caso, ante la Diputación Permanente, la destitución por mala conducta de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado. Si por mayoría absoluta del número total de sus integrantes, en sesión de una u otra, se declara justificada la petición, el Magistrado acusado quedará privado de su puesto a partir de la fecha en que se le haga saber la resolución, independientemente de la responsabilidad en que en su caso, hubiere incurrido y se procederá a nueva designación.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 1984)</small>
 
@@ -701,9 +701,9 @@ XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los cas
 
 Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y ceses de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días para los primeros, y de dos días hábiles para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados los nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento cesará desde luego en sus funciones el Magistrado o Juez provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados. En los casos de faltas temporales por más de tres meses, de los Magistrados o Jueces, o en las definitivas por defunción; renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones, a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XI.- Bis.- Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado y del Tribunal Fiscal del Estado, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que otorgará o negará dentro del término improrrogable de diez días hábiles. Si la Cámara no resolviese dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión lo Magistrados designados por el Gobernador.
+XI BIS. Los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días hábiles. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador.
 
 Los casos especiales de nombramientos se resolverán de acuerdo con lo previsto en los incisos siguientes:
 
@@ -713,9 +713,9 @@ b) En los casos de faltas temporales por más de tres meses de los Magistrados o
 
 c) En el período de receso de la Legislatura los nombramientos a que se refiere este precepto serán aprobados provisionalmente por la Diputación Permanente, mientras no reanude aquella sus funciones y los apruebe en definitiva.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XII.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Contador de Glosa, con arreglo a las siguientes formas:
+XII. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado y del Contador de GLOSA, con arreglo a las siguientes formas:
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1941)</small>
 
@@ -731,13 +731,13 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los Magistrados del Tribunal Superior de Justicia y Tribunal Fiscal del Estado.
+XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XV. – Conceder licencia a sus propios miembros, al Gobernador y a los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal, cuando las de los funcionarios judiciales excedieren de tres meses y les sean sometidas por el Ejecutivo.
+XV. Conceder licencias a sus propios miembros, al Gobernador y a los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado, cuando las de los Magistrados excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
 > <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 1984)</small>
 
@@ -993,9 +993,9 @@ IX.- Conceder el indulto necesario y con arreglo a las leyes, conmutar la pena c
 
 X. Mandar personalmente las fuerzas del Estado y movilizarlas según las necesidades públicas;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XI.- Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permanente, la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 128.
+XI. Solicitar de la Legislatura Local, o en su caso, de la Diputación Permanente, la destitución por mala conducta, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1095,13 +1095,13 @@ XXV. Prestar al Poder Judicial los auxilios que necesite para el ejercicio exped
 
 XXVI. Hacer que las sentencias ejecutoriadas dictadas por los Tribunales en materia penal, sean debidamente ejecutadas, sin perjuicio de la facultad a que se refiere la fracción IX del artículo anterior.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XXVII.- Nombrar a los Magistrados del Tribunal Superior de Justicia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente en su caso,
+XXVII. Nombrar a los magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo del Estado, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-XXVIII. Aceptar la renuncia de los Magistrados del Tribunal Superior de Justicia, sometiéndola a la aprobación de la Legislatura o de la Diputación Permanente en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
+XXVIII. Aceptar las renuncias de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, sometiéndolas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar las licencias de esos funcionarios cuanto éstas excedan de tres meses, sometiendo su aprobación al mismo Cuerpo Legislativo.
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2618,3 +2618,9 @@ P.O. 31 DE DICIEMBRE DE 1985
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1986
+
+###### ARTICULO UNICO.
+
+Publíquese el presente Decreto en la "Gaceta del Gobierno" del Estado, el cual entrará en vigor el día 1°. de Enero de 1987.
