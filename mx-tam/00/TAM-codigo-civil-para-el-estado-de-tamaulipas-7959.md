@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2001-10-24"
+last_updated: "2001-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2001.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -193,13 +193,21 @@ ART. 41.- Correlativamente a las actas del Registro Civil, se integrará un Apé
 
 ART. 42.- Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del Apéndice. El Director y los Oficiales del Registro Civil están obligados a expedirlas o mostrarlas, en su caso.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2001)</small>
 
-ART. 43.- Si se perdiere o destruyere alguna acta o algún libro del Registro Civil, se obtendrá inmediatamente copia de los otros ejemplares bajo la responsabilidad del Director u Oficial del Registro Civil, en su caso. Para ese efecto, el funcionario titular de la dependencia donde falte un documento, solicitará el ejemplar correspondiente para proceder a la reposición.
+ART. 43.- Si se perdiere o destruyere, total o parcialmente, alguna acta o libro del Registro Civil, estuvieren ilegibles, o faltaren actas en las que se puedan suponer se encontraba una inscripción, el Director o el Oficial del Registro Civil a cargo del acervo al que correspondan, procederá de inmediato a su reposición obteniendo copia del duplicado.
 
-Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto, la que consistirá en los elementos que prevé la Legislación Procesal y previo el trámite judicial correspondiente, se hará la inscripción del hecho o acto.
+En el caso de que no existan duplicados, el Oficial del Registro Civil, a petición de los interesados, lo hará del conocimiento de la Dirección para que ésta dé inicio al procedimiento administrativo para la reposición del acta.
 
-Tratándose de nacimientos no registrados, el Oficial del Registro Civil hará la inscripción si el menor no excede de siete años, debiendo al efecto exhibirse el certificado médico legal. Si excede de esta edad deberá observarse el requisito señalado en el párrafo anterior con la salvedad de que por motivos graves o causa de fuerza mayor o en campañas de beneficio social el Titular del Ejecutivo del Estado por medio de la Dirección Estatal del Registro Civil podrá autorizar la inscripción de nacimientos hasta la edad de catorce años. Además de lo anteriormente señalado, así como tratándose de personas mayores de esa edad se regirán de conformidad con las disposiciones contenidas en la Ley Reglamentaria del Registro Civil del Estado.
+Cuando no hayan existido registros, los interesados en la inscripción del acto de que se trate deberán ocurrir ante la autoridad judicial competente para la obtención de la resolución que así lo ordene.
+
+Tratándose de nacimientos no registrados, el Oficial del Registro Civil realizará la inscripción si el menor no excede de siete años, para lo cual deberá exhibírsele el certificado médico legal.
+
+En el caso de personas mayores de siete años no registradas, la Dirección del Registro Civil estará facultada para conocer de las solicitudes de registros de dichos nacimientos. Para ello, el interesado presentará su solicitud ante la mencionada Dirección, que será atendida en procedimiento administrativo, en el que se hará constar los hechos que motiven su petición; recibida dicha solicitud, se fijará día y hora para la celebración de una audiencia en la que el promovente ofrecerá cualesquier medios de prueba reconocidos por la ley, para que después de alegar lo que a su derecho convenga se resuelva lo conducente. Si se declarare procedente la inscripción, se ordenará el asentamiento, únicamente de los hechos que se hayan acreditado. En caso contrario, quedarán a salvo los derechos del interesado, para que ocurra, en vía de jurisdicción voluntaria, a acreditar el hecho objeto del registro, para su posterior inscripción.
+
+Para la inscripción de un hecho o un acto ordenada por autoridad judicial se deberá exhibir ante la fe del Oficial del Registro Civil la copia certificada de la resolución correspondiente.
+
+La nulidad del hecho o de un acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán ser declaradas por la autoridad judicial.
 
 ART. 44.- Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena sin perjuicio de que el acta pueda ser redargüida judicialmente de falsa.
 
@@ -249,7 +257,11 @@ ART. 55.- El Oficial del Registro Civil, una vez que se le comunique la resoluci
 
 ART. 56.- Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél.
 
-ART. 57.- Los padres, conjunta o separadamente, tienen obligación de declarar el nacimiento, dentro de los sesenta días de ocurrido. A falta de ellos, están obligados a hacerlo los abuelos. Los médicos o quien hubiere asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes, mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna. Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 313, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2001)</small>
+
+ART. 57.- Los padres, conjunta o separadamente, tienen la obligación de declarar el nacimiento, dentro del año siguiente de ocurrido. A falta de ellos, están obligados a hacerlo los abuelos. Los médicos o quien hubiere asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes, mediante la entrega de certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si este ocurrió fuera de la casa paterna.
+
+Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 313, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
 
 ART. 58.- Toda persona que encuentre a un recién nacido, o en cuya casa o propiedad sea expuesto alguno, deberá presentarlo al Oficial del Registro Civil dentro de los tres días siguientes, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, declarando el día y el lugar donde lo hubiese hallado, así como las demás circunstancias que en el caso hayan ocurrido.
 
@@ -7419,7 +7431,7 @@ ART. 2086.- Si el propietario no exige su parte dentro de los sesenta días desp
 
 ART. 2087.- En el caso de venta de los animales, antes de que termine el contrato de aparcería, disfrutarán los contratantes del derecho del tanto.
 
-ART. 2088.- Las disposiciones de los artículos precedentes se aplicarán sin perjuicio de lo que dispongan las leyes sobre cultivo y aprovechamiento de tierras propias para la ganadería y la agricultura, que se hayan expedido o se expidieren en el Estado.
+ART. 2088.- Las disposiciones de los artículo s precedentes se aplicarán sin perjuicio de lo que dispongan las leyes sobre cultivo y aprovechamiento de tierras propias para la ganadería y la agricultura, que se hayan expedido o se expidieren en el Estado.
 
 ## TITULO DECIMO SEPTIMO. DEL JUEGO Y DE LA APUESTA
 
@@ -8333,7 +8345,7 @@ Si la Ley Procesal Civil establece requisitos más gravosos que los señalados e
 
 ART. 2392.- El que esté poseyendo bienes inmuebles, sin que haya transcurrido el tiempo de la usucapión, podrá registrar dicha posesión previa resolución judicial. Para ese efecto, el poseedor promoverá información en los términos del artículo 2391 que antecede en cuyo caso el certificado que exige el inciso d) del propio artículo , deberá sólo acreditar el tiempo en que el interesado lo ha tenido manifestado y pagando el impuesto predial. El efecto del registro ser tener la posesión inscrita como apta para producir la usucapión al transcurrir el plazo de cinco años contados desde la misma inscripción.
 
-ART. 2393.- Transcurrido el término fijado en el párrafo primero del Artículo que antecede,sin que en el Registro Público de la Propiedad aparezca algún asiento que contradiga la posesión ya inscrita, el poseedor comprobará este hecho mediante la exhibición del certificado en propietario en virtud de la usucapión y ordenará que se haga en el Registro la inscripción de dominio correspondiente.
+ART. 2393.- Transcurrido el término fijado en el párrafo primero del Artículo que antecede, sin que en el Registro Público de la Propiedad aparezca algún asiento que contradiga la posesión ya inscrita, el poseedor comprobará este hecho mediante la exhibición del certificado en propietario en virtud de la usucapión y ordenará que se haga en el Registro la inscripción de dominio correspondiente.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -9683,7 +9695,7 @@ ART. 2828.- El heredero cuyos bienes hereditarios fueren embargados, o contra qu
 
 ART. 2829.- Las particiones pueden rescindirse o anularse por las mismas causas que los contratos.
 
-ART. 2830.- El heredero preferido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que reciba la parte que le corresponda.
+ART. 2830.- El heredero preterido tiene derecho de pedir la nulidad de la partición. Decretada ésta, se hará una nueva partición para que reciba la parte que le corresponda.
 
 ART. 2831.- La partición hecha con un heredero falso es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
 
@@ -9914,3 +9926,9 @@ El Ejecutivo del Estado deberá expedir y publicar el Reglamento del Registro P�
 ###### ARTICULO TERCERO.
 
 Se abroga la Ley del Registro Público de la Propiedad de Tamaulipas, expedida mediante Decreto de fecha 25 de enero de 1927, publicado en el periódico Oficial número 10, de fecha 2 de febrero de 1927, y sus reformas, con efectos a partir de la fecha de publicación del Reglamento a que se refiere el Artículo Transitorio anterior.
+
+P.O. 6 DE DICIEMBRE DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
