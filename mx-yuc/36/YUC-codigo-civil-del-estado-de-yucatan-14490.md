@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "1993-12-31"
+last_updated: "1999-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1999.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -1249,9 +1249,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 219.
 
-El parentesco civil es el que nace de la adopción y solo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción. En la adopción simple el parentesco sólo existe entre el adoptante y el adoptado. En el caso de la adopción plena, el parentesco existe entre el adoptante, el adoptado y los familiares consanguíneos de éste.
 
 ###### Artículo 220.
 
@@ -1303,9 +1305,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Los hermanos a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben dar alimentos a sus hermanos incapaces.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 231.
 
-El adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos.
+Tratándose de adopción simple, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen el padre y los hijos. En la adopción plena, se aplicará lo dispuesto por los artículos 227, 228, 229 y 230 de este Código.
 
 ###### Artículo 232.
 
@@ -1469,7 +1473,7 @@ No puede haber sobre la filiación, ni transacción ni compromiso en árbitros. 
 
 ### CAPITULO IV. DE LA ADOPCIÓN
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 259.
 
@@ -1723,11 +1727,25 @@ Las acciones a que se refiere el artículo inmediato anterior, pueden entenderse
 
 SOBRE LOS BIENES DE LOS DESCENDIENTES
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 309.
 
-Las personas mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a menores o a incapacitados, mayores de edad, siempre que la persona adoptante tenga veinte años más que la persona adoptada y que la adopción sea benéfica a ésta.
+La adopción es un acto jurídico que por medio de una resolución judicial produce entre el adoptante y el adoptado un vínculo de filiación, al mismo tiempo que desaparecen, salvo excepciones, los vínculos jurídicos entre el adoptado y sus parientes consanguíneos.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 309 A.- La adopción podrá ser simple o plena. La adopción simple podrá convertirse en plena cuando llene los requisitos de Ley.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 309 B.- Las personas mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a menores o a discapacitados aún cuando éstos últimos sean mayores de edad, siempre que la persona adoptante cumpla con lo establecido en el artículo 316 A de este Código.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 309 C.- Un cónyuge puede adoptar a los hijos del otro, con autorización de éste, ejerciendo ambos la patria potestad.
 
 ###### Artículo 310.
 
@@ -1741,81 +1759,195 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 313.
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres al respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 314.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+El adoptado tendrá para con la persona que lo adopte los mismos derechos y obligaciones que tiene un hijo.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 315.
 
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+
+I.- La persona o personas que ejercen la patria potestad sobre el menor que se trata de adoptar;
+
+II.- El tutor del que se va a adoptar;
+
+III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a un hijo, cuando no hubiera quien ejerza la patria potestad sobre él ni tenga tutor, y
+
+IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como a un hijo.
+
+Si el menor que va a ser adoptado tiene más de catorce años, también se necesitará de su consentimiento para la adopción.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 316.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos;
+La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
-I.- La persona o personas que ejercen la patria potestad sobre el menor que se trata de adoptar.
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
-II.- El tutor del que se va a adoptar.
+Artículo 316 A.- Para la adopción simple se requiere cumplir con los siguientes requisitos:
 
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor.
+I.- Tener veinte años más de edad que el menor o discapacitado que se pretenda adoptar;
 
-IV.- El ministerio público del lugar del domicilio del adoptado, cuando este no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+II.- Tener medios bastantes para proveer debidamente la subsistencia y educación del menor o discapacitado;
 
-Si el menor que va a ser adoptado tiene más de catorce años también se necesitará su consentimiento para la adopción.
+III.- Que la adopción sea benéfica para el menor o discapacitado, y
 
-#### SECCION SEGUNDA. DE LA CAPACIDAD DE LOS CONTRATANTES
+IV.- Que el adoptante acredite ser persona de buenas costumbres.
+
+En el caso de la adopción plena, los adoptantes deberán cumplir con los siguientes requisitos:
+
+I.- Que los adoptantes sean un hombre y una mujer casados entre sí, que vivan juntos y bien avenidos;
+
+II.- Los adoptantes deberán tener veinte años más que el menor o discapacitado que pretendan adoptar;
+
+III.- Los adoptantes deberán tener cinco o más años de casados;
+
+IV.- Que los adoptantes tengan medios suficientes para proveer debidamente a la subsistencia y a la educación del menor o discapacitado;
+
+V.- La adopción deberá fundarse en motivos que sean benéficos para el menor o discapacitado, y
+
+VI.- Que los adoptantes acrediten ser personas de buenas costumbres.
+
+El Ministerio Público y la Procuraduría de la Defensa del Menor y la Familia, serán los encargados de dictaminar que se cumplan los requisitos establecidos en este artículo, por lo que el Juez, antes de emitir la resolución respecto de la procedencia o no de la adopción, deberá tener conocimiento de los mismos.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 316 B.- La promoción de la adopción será conforme a lo establecido en el Código de Procedimientos Civiles vigente en el Estado.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 316 C.- Declarada ejecutoriada la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada y no podrá revocarse sino en los casos previstos en este Código.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 316 D.- El Juez que apruebe la adopción, remitirá copia de las diligencias respectivas al Oficial del Registro Civil del domicilio del menor que va a ser adoptado para que se levante el acta correspondiente.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+#### SECCIÓN SEGUNDA. DE LA ADOPCIÓN SIMPLE
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 317.
 
-La adopción se realizará por acta levantada ante oficial del registro civil del domicilio del menor que va a ser adoptado.
+En la adopción simple no se extinguen los derechos y obligaciones que resulten del parentesco biológico, los cuales permanecen suspendidos respecto de los progenitores transfiriéndose el ejercicio de la patria potestad a los adoptantes.
+
+Los derechos suspendidos conforme a lo anterior, se recobran una vez decretada la revocación de la adopción.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 317 A .- El menor o discapacitado que hayan sido adoptados, podrán impugnar la adopción simple dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la discapacidad.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 318.
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos para contraer matrimonio, respecto de los cuales se observará lo que dispone el artículo 70 de este código.
+Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, respecto de los cuales se observará lo que dispone el artículo 70 de este Código.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 319.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, por lo que en ese caso se ejercerá por ambos cónyuges.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 320.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+La adopción simple puede revocarse:
+
+I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Sino lo fuere es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 315 de este Código;
+
+II.- Por ingratitud del adoptado, y
+
+III.- Cuando la Procuraduría de la Defensa del Menor y la Familia justifique que existe causa grave que ponga en peligro al menor.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 321.
 
-La adopción puede revocarse:
+En el primer caso del artículo anterior, el Juez decretará que la adopción simple queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 316 de este código.
-
-II. Por Ingratitud del adoptado.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 322.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
+Para los efectos de la fracción II del artículo 320, se considera ingrato al adoptado:
 
-I.- Si comete algún delito intencional que merezca una sanción mayor de un año de prisión contra la persona, la reputación o los bienes del adoptante de un cónyuge, de sus ascendientes o descendientes;
+I.- Si comete algún delito intencional que merezca una sanción mayor de un año de prisión contra la persona, la reputación o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
 
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiese sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiese sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes, y
 
 III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
 
-#### SECCION TERCERA. DEL MUTUO CONSENTIMIENTO
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 322 A.- Las resoluciones que dicten los jueces aprobando la revocación, dejarán sin efecto la adopción, restituyendo las cosas al estado que tenían antes de que ésta se efectuara en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil del lugar en que aquélla se hizo, para que cancele el acta de adopción.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+#### SECCIÓN TERCERA. DE LA ADOPCIÓN PLENA
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 323.
 
-En el primer caso del artículo 321 de este código, el juez decretará que la adopción quede revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+La adopción plena es el medio por el cual un menor de edad o un interdictado adquiere un vínculo de filiación entre él, los adoptantes y la familia de éstos; rompiendo la relación del parentesco que existía entre la familia biológica del adoptado y éste.
 
-#### SECCION CUARTA. DEL OBJETO DE LOS CONTRATOS
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 323 A.- La resolución judicial en que se apruebe la adopción plena, constituye un nuevo estado civil, su autoridad es absoluta y no puede ser contradicha por persona alguna.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 323 B.- La resolución judicial que apruebe la adopción plena, contendrá la orden al Oficial del Registro Civil, para que levante el acta de nacimiento en la que figuren como padres, él o los adoptantes; como hijo, el adoptado y como abuelos los padres de aquél o aquellos, y demás datos que se requieran conforme a la Ley, sin hacer mención sobre la adopción.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 323 C.- La adopción plena es irrevocable cuando cause ejecutoria la sentencia que la pronuncie.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 323 D.- Podrán ser adoptados en forma plena:
+
+I.- Los menores cuando sus padres declaren ante la Procuraduría de la Defensa del Menor y la Familia su voluntad de otorgar este tipo de adopción, después de ser informados de sus consecuencias;
+
+II.- Los menores huérfanos, expósitos o abandonados por más de seis meses, cualquiera que sea su edad;
+
+III.- El entregado por el padre y la madre a una institución de asistencia social, pública o privada, y
+
+IV.- Los menores cuyos padres hubiesen perdido la patria potestad por maltrato o abuso sexual, siempre que no existan ascendientes que la ejerzan o cuando hubiesen confiado al menor a un establecimiento de beneficencia pública o privada, desentendiéndose injustificadamente de su atención por un año.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+Artículo 323 E.- La adopción plena entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, por lo que no serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio cuya responsabilidad moral corresponde a los adoptantes.
+
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
+#### SECCIÓN CUARTA. DE LA ADOPCIÓN INTERNACIONAL Y POR EXTRANJEROS
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 324.
 
-Las resoluciones que dicten los jueces, aprobando la revocación se comunicarán al oficial del registro civil del lugar en que aquélla se hizo, para que cancele el acta de adopción.
+La adopción internacional es la que promueven ciudadanos extranjeros o nacionales mexicanos con residencia habitual fuera de la República Mexicana.
+
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional.
+
+Las adopciones internacionales o por extranjeros pueden ser simples o plenas.
+
+En igualdad de circunstancias, se dará preferencia en la adopción a mexicanos sobre los extranjeros.
 
 ## TITULO QUINTO. DE LA PATRIA POTESTAD
 
@@ -1845,9 +1977,13 @@ Sólo por muerte o interdicción, sentencia judicial o ausencia del llamado pref
 
 Mientras estuviere el descendiente sujeto a la patria potestad, no podrá dejar la casa del que la ejerce sin permiso de éste o decreto de la autoridad pública competente.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 330.
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente la persona o personas que lo adopten.
+En la adopción simple, la patria potestad sobre el hijo adoptivo, la ejercerán únicamente la persona o personas que lo adopten.
+
+En la adopción plena, la patria potestad se ejercerá en los términos del artículo 327 de éste Código.
 
 ###### Artículo 331.
 
@@ -1931,6 +2067,8 @@ II.- Por la ausencia declarada en forma.
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 346.
 
 La patria potestad se pierde:
@@ -1939,9 +2077,15 @@ I.- Cuando el que la ejerce es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de terminación de matrimonio, por nulidad o por divorcio, cuando así lo disponga la sentencia.
 
-III.- Cuando por las costumbres depravadas de los ascendientes, malos tratos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los descendientes, aún cuando esos hechos no cayeren bajo la sanción de la ley penal.
+III.- Cuando por las costumbres depravadas de los ascendientes, malos tratos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los descendientes, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal.
+
+Asimismo, cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores.
 
 IV.- Por la exposición que el que ejerce la patria potestad hiciere del menor, o por dejarlo abandonado por más de seis meses.
+
+En los casos de adopción, tomando en consideración el interés superior del menor, acreditada por cualquier medio de prueba su situación de abandono, el Juez de lo Familiar resolverá previamente la pérdida de patria potestad, y
+
+V.- Por la entrega que el padre o la madre, o quien ejerce la patria potestad hiciera del menor a una institución de asistencia social, pública o privada con la finalidad de que sea dado en adopción.
 
 ###### Artículo 347.
 
@@ -2167,9 +2311,15 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 390.
 
-La ley coloca a los hijos menores de padres desconocidos bajo la tutela de la persona que los haya recogido, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+La ley coloca a los hijos menores de padres desconocidos o abandonados bajo la tutela de la persona que los haya recogido, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+
+Se considera expósito al recién nacido cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlo.
+
+Se reputará abandonado, al menor que se conoce su origen y los que ejercen la patria potestad o tutela dejaron de cumplir con sus deberes de manera irresponsable, aceptando la posibilidad de que alguna persona o institución se haga cargo del mismo. En el caso de abandono deberá transcurrir seis meses por lo menos.
 
 ###### Artículo 391.
 
@@ -5151,7 +5301,7 @@ Cuando el último día sea inhábil, no se tendrá por completa la prescripción
 
 ### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
 
-#### SECCION QUINTA. DE LA FORMA DE LOS CONTRATOS
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 990.
 
@@ -5185,9 +5335,7 @@ Si el obligado en un contrato dejare de cumplir su obligación, podrá el otro i
 
 Los derechos y obligaciones que resultan de los contratos, pueden ser transmitidos entre vivos y por sucesión, si no son puramente personales por su naturaleza, por efecto del mismo contrato o por disposición de la ley.
 
-#### SECCION SEXTA. DE LAS RENUNCIAS Y CLAUSULAS
-
-QUE PUEDEN PONERSE EN LOS CONTRATOS
+#### SECCION SEGUNDA. DE LA CAPACIDAD DE LOS CONTRATANTES
 
 ###### Artículo 996.
 
@@ -5209,7 +5357,7 @@ Los contratos celebrados a nombre de otro por quien no sea su legítimo represen
 
 Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 
-#### SECCION SEPTIMA. DE LA INTERPRETACION DE LOS CONTRATOS
+#### SECCION TERCERA. DEL MUTUO CONSENTIMIENTO
 
 ###### Artículo 1000.
 
@@ -5287,7 +5435,7 @@ No es lícito renunciar para lo futuro la nulidad que resulte del dolo, de la vi
 
 Si habiendo cesado la violencia, o siendo conocido el dolo o el error, el que sufrió la violencia o padeció el engaño o error, ratifica el contrato, no puede en lo futuro reclamar por semejantes vicios.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION CUARTA. DEL OBJETO DE LOS CONTRATOS
 
 ###### Artículo 1019.
 
@@ -5329,7 +5477,7 @@ Es ilícito el hecho que es contrario a las leyes de orden público o a las buen
 
 Es nulo el contrato cuyo objeto es física o legalmente imposible.
 
-#### SECCION SEGUNDA. DE LOS QUE PUEDEN VENDER Y COMPRAR
+#### SECCION QUINTA. DE LA FORMA DE LOS CONTRATOS
 
 ###### Artículo 1027.
 
@@ -5359,7 +5507,9 @@ Es contrato oneroso aquel en que se estipulan provechos y gravámenes recíproco
 
 El contrato oneroso es conmutativo, cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellos pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la evaluación de la ganancia o pérdida sino hasta que ese acontecimiento se realice.
 
-#### SECCION TERCERA. DE LA ENTREGA DE LA COSA VENDIDA
+#### SECCION SEXTA. DE LAS RENUNCIAS Y CLAUSULAS
+
+QUE PUEDEN PONERSE EN LOS CONTRATOS
 
 ###### Artículo 1034.
 
@@ -5417,7 +5567,7 @@ En el caso del artículo anterior, cada uno de los herederos responderá de la p
 
 Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1185 de este código.
 
-#### SECCION CUARTA. DE LAS OBLIGACIONES DEL VENDEDOR
+#### SECCION SEPTIMA. DE LA INTERPRETACION DE LOS CONTRATOS
 
 ###### Artículo 1047.
 
@@ -7143,7 +7293,7 @@ Si el promitente rehusa otorgar el contrato prometido, en su rebeldía lo otorga
 
 ### CAPITULO IV. DE LAS DONACIONES
 
-#### SECCION QUINTA. DE LAS OBLIGACIONES DEL COMPRADOR
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1397.
 
@@ -7207,7 +7357,7 @@ Los contratantes pagarán por mitad los gastos de escritura, testimonio y regist
 
 En cuanto al riesgo de la cosa vendida, se observará lo dispuesto en el capítulo VI del título segundo de este libro.
 
-#### SECCION SEXTA. DE LAS VENTAS JUDICIALES
+#### SECCION SEGUNDA. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
 ###### Artículo 1412.
 
@@ -7247,7 +7397,7 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 
 Las compras hechas en contravención a lo dispuesto en este capítulo, no producirán efecto alguno, ya se hayan hecho directamente o por interpósita persona, entendiéndose por tal, el consorte o cualquiera otra de quien el comprador sea heredero presunto o socio en sociedad universal. Si la cosa hubiese sido adquirida con dolo el comprador será además responsable de los daños y perjuicios.
 
-#### SECCION SEPTIMA. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
+#### SECCION TERCERA. DE LA ENTREGA DE LA COSA VENDIDA
 
 ###### Artículo 1418.
 
@@ -7327,7 +7477,7 @@ II.- Si la cosa vendida fuere raíz, prevalecerá la venta que primero se haya r
 
 En cualesquiera de los casos previstos en este artículo, el vendedor responde del precio que haya recibido indebidamente.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION CUARTA. DE LAS OBLIGACIONES DEL VENDEDOR
 
 ###### Artículo 1434.
 
@@ -7411,7 +7561,7 @@ El derecho que otorga este artículo es irrenunciable. Prescribe en tres días s
 
 Sólo hay lesión cuando la parte que adquiere da dos tantos más o la que enajena recibe dos tercios menos del justo precio o estimación de la cosa.
 
-#### SECCION SEGUNDA. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
+#### SECCION QUINTA. DE LAS OBLIGACIONES DEL COMPRADOR
 
 ###### Artículo 1454.
 
@@ -7451,7 +7601,7 @@ Cuando el comprador a plazo o con espera del precio fuere perturbado en su poses
 
 La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1139 y 1140 de este código.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION SEXTA. DE LAS VENTAS JUDICIALES
 
 ###### Artículo 1462.
 
@@ -7483,7 +7633,7 @@ Los derechos del rematador, del deudor y del acreedor mientras no se otorguen y 
 
 Tratándose de bienes muebles servirá de título de propiedad la copia certificada expedida por la secretaría del juzgado correspondiente.
 
-#### SECCION SEGUNDA. DEL COMODATO
+#### SECCION SEPTIMA. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
 
 ###### Artículo 1468.
 
@@ -7543,7 +7693,7 @@ En lo conducente y en cuanto no se opongan a los artículos anteriores, son apli
 
 ### CAPITULO VI. DEL ARRENDAMIENTO
 
-#### SECCION TERCERA. DEL MUTUO SIMPLE
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1479.
 
@@ -7617,7 +7767,7 @@ Lo dispuesto en los tres artículos que preceden, se observará cuando sobre eso
 
 Salvo que el donador dispusiera otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-#### SECCION CUARTA. DEL MUTUO CON INTERES
+#### SECCION SEGUNDA. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
 
 ###### Artículo 1497.
 
@@ -7771,9 +7921,7 @@ Si el préstamo se declara nulo o se rescinde, se observará por lo que toca a l
 
 Si el contrato de préstamo se rescinde o anula por ser incapaz uno de los contratantes, la excepción de nulidad no aprovecha al fiador que haya intervenido en el contrato, si no prueba que al otorgar la fianza ignoraba la incapacidad en que se fundó la rescisión.
 
-#### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES
-
-DEL ARRENDADOR Y DEL ARRENDATARIO
+#### SECCION SEGUNDA. DEL COMODATO
 
 ###### Artículo 1529.
 
@@ -7843,7 +7991,7 @@ Cuando la cosa prestada tiene defectos tales que puedan causar perjuicios al que
 
 El comodato termina por la muerte del comodatario.
 
-#### SECCION TERCERA. DEL ARRENDAMIENTO DE PREDIOS URBANOS
+#### SECCION TERCERA. DEL MUTUO SIMPLE
 
 ###### Artículo 1546.
 
@@ -7891,7 +8039,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para propocionarse (sic) los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-#### SECCION CUARTA. DEL ARRENDAMIENTO DE PREDIOS RUSTICOS
+#### SECCION CUARTA. DEL MUTUO CON INTERES
 
 ###### Artículo 1556.
 
@@ -7927,7 +8075,7 @@ El recibo del capital dado sin reserva de intereses, establece a favor del deudo
 
 ### CAPITULO VIII. DEL MANDATO
 
-#### SECCION QUINTA. DE LA TERMINACION DEL ARRENDAMIENTO
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1564.
 
@@ -7969,7 +8117,9 @@ La renta o precio del arrendamiento puede consistir en una suma de dinero o en c
 
 Todo contrato de arrendamiento debe constar por escrito, sea cual fuere la cuantía de la renta anual; en documento ante notario o escribano público cuando el plazo no exceda de tres años y, en escritura pública ante notario cuando exceda de ese plazo.
 
-#### SECCION SEXTA. DEL SUBARRIENDO
+#### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES
+
+DEL ARRENDADOR Y DEL ARRENDATARIO
 
 ###### Artículo 1574.
 
@@ -8131,7 +8281,7 @@ Si una misma cosa se arrendare separadamente a dos o más personas, se observar�
 
 En los arrendamientos que han durado más de cinco años, el arrendatario tiene derecho, si está al corriente en el pago de la renta a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho de preferencia por el tanto si el propietario quiere vender la finca arrendada, debiendo ejercer ese derecho dentro del término de quince días de haberse notificado de una manera fehaciente, y si ésta se vendiere sin dar ese aviso, la venta es válida, pero el vendedor responderá de los daños y perjuicios causados.
 
-#### SECCION SEPTIMA. DEL ARRENDAMIENTO DE LAS COSAS MUEBLES
+#### SECCION TERCERA. DEL ARRENDAMIENTO DE PREDIOS URBANOS
 
 ###### Artículo 1610.
 
@@ -8179,7 +8329,7 @@ Cuando para garantía del cumplimiento de un contrato de arrendamiento de predio
 
 En los contratos de arrendamiento de predios para habitación, el plazo se entenderá siempre establecido en beneficio del inquilino.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION CUARTA. DEL ARRENDAMIENTO DE PREDIOS RUSTICOS
 
 ###### Artículo 1621.
 
@@ -8211,7 +8361,7 @@ El permiso a que se refiere el artículo que precede, no será obligatorio sino 
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
 
-#### SECCION SEGUNDA. DEL SECUESTRO
+#### SECCION QUINTA. DE LA TERMINACION DEL ARRENDAMIENTO
 
 ###### Artículo 1628.
 
@@ -8291,7 +8441,7 @@ En el caso del artículo anterior, el arrendatario tendrá obligación de pagar 
 
 En los casos de expropiación y de ejecución judicial se observará lo dispuesto en los artículos 1625, 1626 y 1627 de este código.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION SEXTA. DEL SUBARRIENDO
 
 ###### Artículo 1645.
 
@@ -8319,7 +8469,7 @@ El arrendatario, en los casos de subarriendo, tendrá los mismos derechos y obli
 
 El subarrendamiento debe otorgarse con las mismas formalidades requeridas por la ley para el arrendamiento.
 
-#### SECCION SEGUNDA. DE LAS OBLIGACIONES DEL MANDATARIO PARA CON EL MANDANTE
+#### SECCION SEPTIMA. DEL ARRENDAMIENTO DE LAS COSAS MUEBLES
 
 ###### Artículo 1651.
 
@@ -8417,7 +8567,7 @@ Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza 
 
 ### CAPITULO IX. DE LA PRESTACION DE SERVICIOS
 
-#### SECCION TERCERA. DE LAS OBLIGACIONES DEL MANDANTE PARA CON EL MANDATARIO
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1674.
 
@@ -8537,9 +8687,7 @@ El deponente está obligado a indemnizar al depositario de todos los gastos que 
 
 El depositario no puede retener la cosa, aun cuando al pedírsele no haya recibido el importe de las expensas a que se refiere el artículo anterior; pero sí podrá en este caso, si el pago no se le asegura, pedir judicialmente la retención del depósito. Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga contra el deponente.
 
-#### SECCION CUARTA. DE LAS OBLIGACIONES DEL MANDANTE Y DEL MANDATARIO
-
-CON RELACION A TERCERO
+#### SECCION SEGUNDA. DEL SECUESTRO
 
 ###### Artículo 1702.
 
@@ -8563,7 +8711,7 @@ El encargado del secuestro, ya sea convencional o judicial, tiene la posesión d
 
 ### CAPITULO X. DE LAS SOCIEDADES Y ASOCIACIONES
 
-#### SECCION QUINTA. DEL MANDATO JUDICIAL
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1707.
 
@@ -8645,7 +8793,7 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
-#### SECCION SEXTA. DE LA TERMINACION DEL MANDATO
+#### SECCION SEGUNDA. DE LAS OBLIGACIONES DEL MANDATARIO PARA CON EL MANDANTE
 
 ###### Artículo 1722.
 
@@ -8697,7 +8845,7 @@ El sustituto tiene para con el mandante los mismos derechos y obligaciones que e
 
 Aun cuando haya muerto o se hallare en estado de interdicción el mandatario que haya sustituido, no perderá el sustituto su cargo para representar al mandante.
 
-#### SECCION PRIMERA. DE LOS SERVICIOS PROFESIONALES
+#### SECCION TERCERA. DE LAS OBLIGACIONES DEL MANDANTE PARA CON EL MANDATARIO
 
 ###### Artículo 1734.
 
@@ -8721,7 +8869,9 @@ Si muchas personas hubiesen nombrado un solo mandatario para algún negocio com�
 
 Es obligación del mandante satisfacer al mandatario los réditos de las sumas que éste haya anticipado o suplido, para la ejecución del mandato, siempre que no se haya excedido en sus facultades.
 
-#### SECCION SEGUNDA. DE LAS OBRAS A PRECIO ALZADO
+#### SECCION CUARTA. DE LAS OBLIGACIONES DEL MANDANTE Y DEL MANDATARIO
+
+CON RELACION A TERCERO
 
 ###### Artículo 1739.
 
@@ -8735,7 +8885,7 @@ Los actos que el mandatario practique en nombre del mandante, pero traspasando l
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades no tendrá acción contra éste, si le hubiere dado a conocer cuáles eran aquéllas y no se hubiere obligado personalmente por el mandante.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION QUINTA. DEL MANDATO JUDICIAL
 
 ###### Artículo 1742.
 
@@ -8815,7 +8965,7 @@ El procurador que ha sustituido un poder, puede revocar la sustitución si tiene
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-#### SECCION SEGUNDA. DE LA SOCIEDAD UNIVERSAL
+#### SECCION SEXTA. DE LA TERMINACION DEL MANDATO
 
 ###### Artículo 1752.
 
@@ -8879,7 +9029,7 @@ Lo que el mandatario, sabiendo que ha cesado el mandato hiciere con un tercero q
 
 ### CAPITULO XI. DE LAS ASOCIACIONES Y SOCIEDADES EXTRANJERAS
 
-#### SECCION TERCERA. DE LA SOCIEDAD PARTICULAR
+#### SECCION PRIMERA. DE LOS SERVICIOS PROFESIONALES
 
 ###### Artículo 1764.
 
@@ -8919,9 +9069,7 @@ Siempre que un profesionista no pueda continuar prestando sus servicios, deberá
 
 El que presta servicios profesionales sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
 
-#### SECCION CUARTA. DE LAS OBLIGACIONES Y DERECHOS RECIPROCOS DE LOS SOCIOS
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+#### SECCION SEGUNDA. DE LAS OBRAS A PRECIO ALZADO
 
 ###### Artículo 1773.
 
@@ -9075,7 +9223,7 @@ El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no 
 
 ### CAPITULO XII. DE LOS CONTRATOS ALEATORIOS
 
-#### SECCION QUINTA. DE LAS OBLIGACIONES DE LOS SOCIOS CON RELACION A TERCERO
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1808.
 
@@ -9141,7 +9289,7 @@ Las sociedades son universales o particulares.
 
 El contrato de sociedad debe inscribirse en el registro de sociedades civiles para que produzca efectos contra tercero.
 
-#### SECCION SEXTA. DE LA DISOLUCION DE LA SOCIEDAD
+#### SECCION SEGUNDA. DE LA SOCIEDAD UNIVERSAL
 
 ###### Artículo 1820.
 
@@ -9207,7 +9355,7 @@ En toda sociedad universal, de cualquiera especie que sea, se sacarán de los fo
 
 Disuelta la sociedad universal, se dividirán con equidad entre los socios los bienes respectivos siempre que no haya estipulación en contrario.
 
-#### SECCION SEPTIMA. DE LAS ASOCIACIONES
+#### SECCION TERCERA. DE LA SOCIEDAD PARTICULAR
 
 ###### Artículo 1834.
 
@@ -9241,7 +9389,9 @@ Si los bienes llevados a la sociedad particular no lo han sido en cuanto a la pr
 
 En la sociedad particular no se sacarán del fondo común los alimentos de los socios, sino cuando así se haya pactado expresamente.
 
-#### SECCION PRIMERA. DE LA RENTA VITALICIA
+#### SECCION CUARTA. DE LAS OBLIGACIONES Y DERECHOS RECIPROCOS DE LOS SOCIOS
+
+> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
 
 ###### Artículo 1842.
 
@@ -9369,7 +9519,7 @@ Cuando la administración no se hubiere limitado a alguno de los socios, todos t
 
 Las mayorías de votos a que esta sección se refiere, serán computadas, en la forma prevista en el artículo 693 de este código. Si no se lograre mayoría, las divergencias de los socios serán resueltas por un árbitro.
 
-#### SECCION SEGUNDA. DE LA COMPRA DE ESPERANZA
+#### SECCION QUINTA. DE LAS OBLIGACIONES DE LOS SOCIOS CON RELACION A TERCERO
 
 ###### Artículo 1870.
 
@@ -9407,7 +9557,7 @@ Ningún socio puede ser excluido de la sociedad sino por el acuerdo unánime de 
 
 El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte de capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION SEXTA. DE LA DISOLUCION DE LA SOCIEDAD
 
 ###### Artículo 1879.
 
@@ -9471,9 +9621,7 @@ Es causa legítima la que resulta de incapacidad de alguno de los socios para lo
 
 Son aplicables a la partición entre los socios, en lo conducente, las mismas reglas establecidas para la partición entre herederos.
 
-#### SECCION SEGUNDA. DE LOS EFECTOS DE LA FIANZA CON RELACION
-
-AL ACREEDOR Y AL FIADOR
+#### SECCION SEPTIMA. DE LAS ASOCIACIONES
 
 ###### Artículo 1889.
 
@@ -9571,9 +9719,7 @@ Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscr
 
 ### CAPITULO XIV. DE LA PRENDA
 
-#### SECCION TERCERA. DE LOS EFECTOS DE LA FIANZA
-
-CON RELACION AL DEUDOR Y AL FIADOR
+#### SECCION PRIMERA. DE LA RENTA VITALICIA
 
 ###### Artículo 1907.
 
@@ -9657,9 +9803,7 @@ El pensionista sólo puede demandar las pensiones justificando su supervivencia 
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquél sobre cuya vida había sido constituida, debe devolver el capital al que lo constituya.
 
-#### SECCION CUARTA. DE LOS EFECTOS DE LA FIANZA
-
-CON RELACION A LOS FIADORES ENTRE SI
+#### SECCION SEGUNDA. DE LA COMPRA DE ESPERANZA
 
 ###### Artículo 1927.
 
@@ -9679,7 +9823,7 @@ Los demás derechos y obligaciones de las partes en la compra de esperanza, ser�
 
 ### CAPITULO XV. DE LA HIPOTECA
 
-#### SECCION QUINTA. DE LA EXTINCION DE LA FIANZA
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 1931.
 
@@ -9779,7 +9923,9 @@ Si la fianza importa garantía de cantidad que el deudor deba recibir, la cantid
 
 Quedan sujetas a las disposiciones de este título las fianzas otorgadas por individuos y compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza, que no las anuncien públicamente por la prensa o por cualquier otro medio y que no empleen agentes que las ofrezcan.
 
-#### SECCION SEXTA. DE LA FIANZA LEGAL O JUDICIAL
+#### SECCION SEGUNDA. DE LOS EFECTOS DE LA FIANZA CON RELACION
+
+AL ACREEDOR Y AL FIADOR
 
 ###### Artículo 1954.
 
@@ -9887,7 +10033,9 @@ V.- Cuando alguno o algunos de los fiadores se encuentren en alguno de los casos
 
 El fiador que pide el beneficio de división, sólo responde por la parte del fiador o fiadores insolventes, si la insolvencia es anterior a la petición; y ni aún por esa misma insolvencia, si el acreedor voluntariamente hace el cobro a prorrata sin que el fiador lo reclame.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION TERCERA. DE LOS EFECTOS DE LA FIANZA
+
+CON RELACION AL DEUDOR Y AL FIADOR
 
 ###### Artículo 1973.
 
@@ -9959,7 +10107,9 @@ También quedará libre de su obligación el fiador, cuando el acreedor, sin cau
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelve exigible, de pedir al acreedor que promueva judicialmente dentro del plazo de un mes el cumplimiento de la obligación. Si el acreedor no ejercita su derecho dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-#### SECCION SEGUNDA. DE LA HIPOTECA VOLUNTARIA
+#### SECCION CUARTA. DE LOS EFECTOS DE LA FIANZA
+
+CON RELACION A LOS FIADORES ENTRE SI
 
 ###### Artículo 1985.
 
@@ -9981,7 +10131,7 @@ Los fiadores demandados por el que pagó, podrán oponer a éste las excepciones
 
 El que fía al fiador, en caso de insolvencia de éste, es responsable para con los otros fiadores, en los mismos términos en que lo sería el fiador fiado.
 
-#### SECCION TERCERA. DE LA HIPOTECA NECESARIA
+#### SECCION QUINTA. DE LA EXTINCION DE LA FIANZA
 
 ###### Artículo 1990.
 
@@ -10011,7 +10161,7 @@ La prórroga o espera concedida al deudor por el acreedor, sin consentimiento de
 
 La quita reduce la fianza en la misma proporción que la deuda principal y la extingue en el caso de que, en virtud de ella, quede sujeta la obligación principal a nuevos gravámenes o condiciones.
 
-#### SECCION CUARTA. DEL REGISTRO DE LAS HIPOTECAS
+#### SECCION SEXTA. DE LA FIANZA LEGAL O JUDICIAL
 
 ###### Artículo 1997.
 
@@ -10225,7 +10375,7 @@ Respecto a los montes de piedad, públicos o privados, que con la autorización 
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-#### SECCION QUINTA. DE LA EXTINCION DE LAS HIPOTECAS
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 2045.
 
@@ -10371,6 +10521,8 @@ Deberá constar en la escritura pública la hora en que se firmó, bajo pena de 
 
 La hipoteca nunca es tácita ni general; para subsistir necesita siempre de registro, y se contrae por la voluntad en los convenios y por necesidad en los casos en que la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados; en el primer caso se llama voluntaria, y en el segundo necesaria.
 
+#### SECCION SEGUNDA. DE LA HIPOTECA VOLUNTARIA
+
 ###### Artículo 2076.
 
 Son hipotecas voluntarias las convenidas entre las partes, o impuestas por disposición del dueño de los bienes sobre que se constituyen. Pueden constituirse puramente o bajo condición.
@@ -10410,6 +10562,8 @@ Durante la prórroga y el término señalados para la prescripción, la hipoteca
 ###### Artículo 2085.
 
 La hipoteca prorrogada segunda o más veces, sea con plazo fijo, sea por tiempo indeterminado, sólo tendrá la preferencia que le corresponda por la fecha del último registro, salvo pacto en contrario.
+
+#### SECCION TERCERA. DE LA HIPOTECA NECESARIA
 
 ###### Artículo 2086.
 
@@ -10465,6 +10619,8 @@ Los que conforme al artículo 2091 de este código tienen derecho de exigir la c
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2091 de este código no tuviere inmuebles, no gozará el acreedor más que el privilegio mencionado en la fracción I del artículo 2164 del mismo, salvo lo dispuesto en el capítulo VII del título sexto del libro primero.
 
+#### SECCION CUARTA. DEL REGISTRO DE LAS HIPOTECAS
+
 ###### Artículo 2095.
 
 La hipoteca no producirá efecto alguno legal sino desde la fecha y hora en que fuere debidamente registrada.
@@ -10497,6 +10653,8 @@ Los notarios y los escribanos públicos, cuando omitan los requisitos establecid
 
 Siempre que en el caso del artículo 2096 de este código se advierta que por negligencia de los jueces, o por cualquiera otra causa, no se ha hecho el registro en el término legal, podrá hacerse, y la hipoteca surtirá efecto desde la fecha del registro. Los que resulten responsables quedan obligados al pago de daños y a la indemnización de perjuicios o a la aplicación de la ley de responsabilidades de los servidores públicos del Estado.
 
+#### SECCION QUINTA. DE LA EXTINCION DE LAS HIPOTECAS
+
 ###### Artículo 2103.
 
 Las hipotecas se extinguen:
@@ -10519,7 +10677,7 @@ VII.- Por remate judicial de la finca conforme al artículo 1465 de este código
 
 ###### Artículo 2104.
 
-La hipoteca produce todos sus efectos jurídicos contra terceros mientras no sea cancelada su inscripción.
+La hipoteca produce todos sus efectos jurídicos contra terceros mientras no sea cancelada su inscripcción.
 
 ###### Artículo 2105.
 
@@ -11351,7 +11509,7 @@ La incapacidad para heredar no produce el efecto de privar al incapaz de lo que 
 
 ###### Artículo 2248.
 
-Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el juicio en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjuicios.
+Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el jucio en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjucios.
 
 ### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
@@ -12479,13 +12637,17 @@ Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso podrán exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 2485.
 
-El adoptado hereda como hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado en forma plena, hereda como un hijo; pero en la adopción simple, no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 2486.
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
+Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
 
 ###### Artículo 2487.
 
@@ -12525,13 +12687,17 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí, por partes iguales, la porción que les corresponda.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 2496.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 2497.
 
-Si concurren el cónyuge del adoptado, con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+Si concurren el cónyuge del adoptado en forma simple con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
 
 ###### Artículo 2498.
 
@@ -13276,3 +13442,11 @@ ABOG. RICARDO AVILA HEREDIA.
 C.P. ENYD MARIA MARTINEZ MENENDEZ
 
 OFICIAL MAYOR DE GOBIERNO EN FUNCIONES DE SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO</small>
+
+D.O. 13 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
