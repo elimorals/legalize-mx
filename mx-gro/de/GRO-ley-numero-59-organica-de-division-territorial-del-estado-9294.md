@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-59-organica-de-division-territorial-del-estado-9294"
 country: "mx"
 rank: "ley"
 publication_date: "1944-12-20"
-last_updated: "1947-01-15"
+last_updated: "1947-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1947.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 20 de diciembre de 1944.
 
@@ -239,11 +239,15 @@ Las Cuadrillas de Yupitepec, San Miguel Ahuelicán, Tecaxitla, El Rincón de las
 
 IV.- La Municipalidad de Zitlala comprende su Cabecera el pueblo de Zitlala y además las Cuadrillas de Topiltepec, Pochahuixco, Viramontes, Ayotzinapa, La Esperanza, Tlapehualapa, Coacoyul, Ocotitlán, Ixcatla y Yetlancingo.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1945)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1947)</small>
 
-V. La Municipalidad de Atenango del Río comprende su Cabecera el pueblo de Atenango del Río y además los pueblos de Temalac, Comala, Zacango, Teocalcingo, Copalillo, Mezquititlán, Oxtutla, Zicapa y Papalutla.
+V. La Municipalidad de Copalillo comprende su Cabecera el pueblo del mismo nombre y ademés (sic) los de Zicapa, Oztutla, Chimalacacingo, Mexquitlán, Papalutla y Tlalcozotitlán.
 
-Las Cuadrillas de Apanguito, Tuzantlán, Santa Cruz, San Miguel Mezquitepec, El Cascalote, Cuahuilotla, Tepetlapa, Tequicuilco y Coacán.
+Las Cuadrillas de San Miguel Mezquitepec y El Cascalote.
+
+El Municipio Atenango del Río, queda comprendido en el artículo 13 de la propia Ley, y de él se segregan los pueblos de Copalillo, Mexquitlán, Oztutla y Zicapa y las cuadrillas de San Miguel Mezquitepec y El Cascalote.
+
+Del Municipio de Chilapa se segrega el pueblo de Tlalcozotitlán, el que pasa a incorporarse al nuevo Municipio de Copalillo.
 
 ###### Art. 9°.
 
@@ -485,11 +489,13 @@ El Distrito de Morelos se forma de las Municipalidades de Tlapa, Copanatoyac, At
 
 I.- La Municipalidad de Tlapa, comprende su cabecera la Ciudad de Tlapa de Comonfort, Cabecera del Distrito Judicial y del Muuicipio (sic).
 
-Los Pueblos de Atlamajac, Axoxuca, Aquilpa, Ayotzinapa, Atlamajalcingo del Río, Alpoyecancingo, Chiepetepec, Coachimalco, La Soledad, Las Pilas, Petlacala, Tlaquiltzinapa, Tlaquiltzingo, Tlatzala, Tonaya, Tototepec, Ahuatepec, Chiepetlán, Zacualpa, Zalatzala, Tenango Tepexi y Cochoapa.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1947)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+Los Pueblos de Atlamajac, Axoxuca, Aquilpa, Ayotzinapa, Atlamajalcingo del Río, Alpoyecancingo, Chiepetepec, Coachimalco, La Soledad, Las Pilas, Petlacala, Tlaquiltzinapa, Tlaquiltzingo, Tlatzala, Tonaya, Tototepec, Ahuatepec, Chiepetlán, Zacualpa, Zalatzala y Tenango Tepexi .
 
-Las Cuadrillas de Tlacuiloya, Colotiopan, Los Zapotales, Manila, Metlaichán, San Miguel Amaltepec, San Lucas, Tierra Blanca, San Rafael, Cahuañaña, Zitlaltepec, Vistahermosa, Joya Real, Dos Ríos, Calpanapa y Arroyo Prieto.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1947)</small>
+
+Las Cuadrillas de Tlacuiloya, Colotiopan, Los Zapotales, Manila, Metlaichán y Zitlaltepec.
 
 Las Haciendas de Santana Acatzingo, La Providencia y Peoresnada.
 
@@ -501,11 +507,11 @@ Las cuadrillas de San Vicente Amole, La Concepción, Temexcalcingo, Santa Cruz y
 
 La Ranchería de Pantla.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1945)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1947)</small>
 
-III.- La Municipalidad de Atlamajalcingo del Monte comprende su Cabecera el pueblo del mismo nombre y además los de Cahuatache, Huehuetepec, Zelacoyotitlán, Juanacatlán, Zapotitlán, Cuautipán y Yuconduta.
+III.- La Municipalidad de Atlamajalcingo del Monte comprende su Cabecera el pueblo del mismo nombre y además los de Cahuatache, Huehuetepec, Zelacoyotitlán, Juanacatlán, Zapotitlán y Cuautipán.
 
-Las Cuadrillas de Alvaro Obregón, Chinameca, Plan de Guadalupe, Francisco I. Madero, San Juan Puerto Montaña, El Rosario, Benito Juárez, San Isidro Labrador y Tepecocatlán.
+Las Cuadrillas de Alvaro Obregón, Chinameca, Plan de Guadalupe, Francisco I. Madero, El Rosario, Benito Juárez, San Isidro Labrador y Tepecocatlán.
 
 IV.- La Municipalidad de Tlalixtaquilla, comprende el pueblo de Tlalixtaquilla y además los de Zonacatlán, Santa Cruz Guerrero, La Ribera, Mexquititlán, Totomochapa y la Luz de Juárez.
 
@@ -521,9 +527,9 @@ Las Cuadrillas de San Miguel del Progreso y Arroyo de San Pedro.
 
 VI.- La Municipalidad de Alcozauca de Guerrero, se compone de su Cabecera el pueblo del mismo nombre y además los de Ixcuinatoyac, Tlahuapa, Cuyuxtlahuac, Amapilca, Zoyatlán de Juárez, San Miguel El Grande, Lomazoya, Petlacalancingo, Metlatonoc, Yuvinani, Atzompa, Huexuapa, Cocuilotlatzala, Chilixtlahuac y El Coyul.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1947)</small>
 
-Las Cuadrillas de Melchor Ocampo, San José Lagunas, Cerro Azul, Almolonga de Ocampo, Acametla de Bravo, Ojo de Pescado y Xochapa.
+Las Cuadrillas de Melchor Ocampo, San José Lagunas, Cerro Azul, Almolonga de Ocampo, Acametla de Bravo y Xochapa.
 
 VII.- La Municipalidad de Zapotitlán Tablas comprende su cabecera que lleva el mismo nombre y además los pueblos de Huitzapula, Acatepec, Cuixapa y Mexcaltepec.
 
@@ -546,6 +552,12 @@ Los pueblos de Tlacotla, Zacatipa, Igualita, Quia Huitlazala y Tlaxco.
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
 
 Las Cuadrillas de Yerbasanta, Platanar, Cuba Libre y Xilotepec.
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1947)</small>
+
+X. La Municipalidad de Cochoapa, comprende su Cabecera el pueblo del mismo nombre y el de Yucunduta.
+
+Las Cuadrillas de San Miguel Amoltepec, San Lucas, Tierra Blanca, San Rafael, Santa María Cahuañaña, Vistahermosa, Joya Real, Dos Ríos, Calpanapa, Arroyo Prieto, San Juan Puerto Montaña y Ojo de Pescado.
 
 ###### Art. 17.
 
@@ -692,3 +704,13 @@ P.O. 15 DE ENERO DE 1947.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 1947.
+
+###### Art. 1º.
+
+Se derogan las disposiciones legales que se opongan al cumplimiento del presente Decreto.
+
+###### Art. 2º.
+
+Este Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
