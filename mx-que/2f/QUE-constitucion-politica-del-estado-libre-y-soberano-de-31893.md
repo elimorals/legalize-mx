@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1928-12-27"
+last_updated: "1929-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 1929. (LEY NUMERO 42)
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -60,6 +60,22 @@ P.O. 27 DE DICIEMBRE DE 1928
 ART. 1°.- Lo dispuesto en los artículos 31 y 32, comenzará a regir al verificarse las elecciones para integrar la XXIX Legislatura.
 
 ART. 2°.- Esta Ley comenzará a regir el día 1° de Enero de 1929.
+
+P.O. 24 DE ENERO DE 1929 (LEY NUMERO 37)
+
+UNICO.- Esta ley comenzará a surtir sus efectos al renovarse los actuales Ayuntamientos.
+
+P.O. 24 DE ENERO DE 1929 (LEY NUMERO 38)
+
+UNICO.- Esta ley entrará en vigor el día primero de octubre del año de mil novecientos veintinueve.
+
+P.O. 24 DE ENERO DE 1929 (LEY NUMERO 39)
+
+UNICO.- Esta ley comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 24 DE ENERO DE 1929 (LEY NUMERO 42)
+
+UNICO.- Esta ley comenzará a surtir sus efectos desde la fecha de su publicación.
 
 ## TITULO SEGUNDO
 
@@ -901,9 +917,15 @@ Los Ayuntamientos resolverán sobre la legalidad de la elección de sus miembros
 
 Al hacerse las elecciones respectivas, se designará un suplente para cada uno de los Regidores propietarios, a fin de cubrir las faltas temporales o absolutas de éstos.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1929)</small>
+
 ###### Art. 137.
 
-La faltas temporales del Presidente serán suplidas por el Regidor propietario, que nombrará el mismo Ayuntamiento. Las faltas absolutas ocurridas en el primer año, serán suplidas interinamente por el Regidor propietario que designe el Ayuntamiento; debiendo la Legislatura o la Diputación Permanente, en su caso, convocar desde luego a elecciones, para cubrir la vacante. Si la falta absoluta ocurriere en el segundo año, el Ayuntamiento elegirá de entre los Regidores propietarios, el que deba desempeñar la Presidencia hasta terminar el período municipal.
+Las faltas temporales del Presidente serán suplidas por el Regidor propietario que nombrará el mismo Ayuntamiento. Las faltas absolutas ocurridas en los dos primeros años, serán suplidas interinamente por el Regidor que designe el Ayuntamiento, debiendo la Legislatura o
+
+Diputación Permanente, en su caso, convocar a elecciones, para cubrir la vacante.
+
+Si la falta absoluta ocurriere del tercer año en adelante, el Ayuntamiento elegirá de entre los Regidores propietarios, el que deba desempeñar la Presidencia hasta terminar el período municipal.
 
 ###### Art. 138.
 
@@ -925,11 +947,15 @@ Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
 Sólo la Legislatura del Estado, con la aprobación de la mayoría de los Municipios del mismo, podrá crear otros nuevos sobre los ya existentes, siempre que la población de la Municipalidad que trate de erigirse sea mayor de diez mil habitantes, y tenga los elementos necesarios para poder subsistir.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 1929)</small>
+
 ###### Art. 143.
 
-Para ser miembro del Ayuntamiento, se requiere:
+Para ser miembro del Ayuntamiento se requiere:
 
-I.- No desempeñar ningún cargo público en el Municipio donde se hace la elección, ya dependa de éste, del Estado o de la Federación; no pertenecer, al Ejército permanente, ni tener mando de fuerzas en el Municipio; a menos que, en todos estos casos, se separen definitivamente de su empleo o encargo, noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1929)</small>
+
+I.- No desempeñar ningún cargo público en el que se ejerzan funciones de Autoridad, en el Municipio en que se hace la elección, ni pertenecer al ejercito permanente, ni tener mando de fuerzas en el mismo Municipio, a menos que en todos estos casos se separe definitivamente de su empleo o cargo, noventa días antes de la elección.
 
 II.- Ser ciudadano de la República;
 
@@ -957,9 +983,11 @@ Los Ayuntamientos residirán en las cabeceras de las Municipalidades.
 
 En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos, nombrarán Delegados o Subdelegados, con las facultades y obligaciones que se señalarán en la ley Orgánica Municipal, y los cuales serán sus representantes directos.
 
+> <small>(REFORMADO, P.O 24 DE ENERO DE 1929)</small>
+
 ###### Art. 147.
 
-Los Ayuntamientos se renovarán en su totalidad cada dos años, y los Regidores deberán entrar en funciones el día 1º de octubre, previa protesta que otorgarán ante el Ayuntamiento saliente.
+Los Ayuntamientos se renovarán en su totalidad cada cuatro años, y los Regidores deberán entrar en funciones el día primero de octubre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
 ###### Art. 148.
 
@@ -1158,6 +1186,12 @@ El Gobernador provisional a que se refieren los dos artículos anteriores, ejerc
 ###### Art. 177.
 
 Si no pudieren cumplirse las prevenciones de los artículos 174 y 175, se estará a lo dispuesto a la fracción V del artículo 76 de la Constitución federal.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 1929)</small>
+
+###### Art. 178.
+
+Ni la H. Legislatura ni el Ejecutivo del Estado, podrán conceder exámenes parciales o profesionales de aquellas materias o carreras que no se cursen en los planteles educativos del Estado.
 
 ### CAPITULO I
 
@@ -1425,7 +1459,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
