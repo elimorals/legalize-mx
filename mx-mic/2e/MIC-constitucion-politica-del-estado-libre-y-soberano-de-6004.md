@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1983-07-07"
+last_updated: "1983-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -529,15 +529,25 @@ XVII.- Conceder honores, premios y recompensas a las personas que presten servic
 
 XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+
+a) Cuando alguno de los integrantes del Ayuntamiento cometa un delito oficial o del orden común;
+
+b).- Cuando el cuerpo edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
+
+c).- Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio;
+
+En el caso del inciso b) se requiere que la resolución del Congreso sea aprobada por una mayoría de las dos terceras partes de sus miembros presentes;
+
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 1983)</small>
 
 XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas siguientes:
 
-a).- Cuando alguno de los miembros del Ayuntamiento cometa un delito;
+a) Cuando alguno de los miembros del Ayuntamiento cometa un delito;
 
-b).- Cuando el Cuerpo Edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
+b) Cuando el Cuerpo Edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
 
-c).- Cuando se juzgue indispensable ble (sic) para la tranquilidad y beneficio del municipio.
+c) Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio.
 
 Los miembros de los ayuntamientos tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
@@ -871,7 +881,7 @@ El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de 
 
 ###### Artículo 65.
 
-La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
+La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no será obligatorios.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -1329,9 +1339,9 @@ En los casos de juicio político, no cabe la gracia del indulto.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-## TITULO SEXTO. De la Hacienda Pública
+## TITULO SEXTO. De la Economía Pública y la Planeación Económica y Social
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 111.
 
@@ -1517,7 +1527,7 @@ Contra los actos de los presidentes municipales procede del recurso de queja ant
 
 Los presidentes Municipales tomarán empeño para que en sus respectivas circunscripciones asistan a las escuelas públicas o privadas todos los niños en edad escolar.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ## TITULO SEPTIMO. De la Educación Pública
 
@@ -1525,19 +1535,27 @@ Los presidentes Municipales tomarán empeño para que en sus respectivas circuns
 
 ###### Artículo 129.
 
-Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que debe percibir, todos los bienes que no correspondan a la Federación o a los municipios, ni sean individual o colectivamente, de propiedad particular o ejidal.
+Es obligación del poder público garantizar el desarrollo integral estatal, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos que impidan la distribución adecuada de bienes y servicios a la población y en el Estado.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+En el desarrollo económico estatal, concurrirán los sectores público, social y privado, correspondiendo al Gobierno del Estado procurar la armonía entre ellos para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 130.
 
-El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fijación de los impuestos, derechos, productos, aprovechamientos y participaciones, y la manera de hacerlos efectivos.
+El Ejecutivo del Estado y los Ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 131.
 
-El presupuesto formará siempre un solo cuerpo distribuido en partidas, según los conceptos de erogación, y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
+En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen.
+
+Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Tesorería General del Estado conforme lo determine la Ley.
+
+El Congreso expedirá las leyes fiscales en los ámbitos estatal y municipales, que establecerán las bases, tanto para la fijación de los impuestos, derechos, productos y aprovechamientos, como para la manera de hacerlos efectivos y los medios que permitan la defensa de los contribuyentes.
+
+El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos, según los planes y programas establecidos.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2034,3 +2052,9 @@ P.O. 7 DE JULIO DE 1983.
 PRIMERO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Reserve la Secretaría del H. Congreso del Estado el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
+
+P.O. 11 DE AGOSTO DE 1983.
+
+PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Costitución Política del Estado de Michoacán.
