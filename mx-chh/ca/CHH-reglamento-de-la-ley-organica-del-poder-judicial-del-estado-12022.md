@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-120
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-31"
-last_updated: "2004-08-11"
+last_updated: "2004-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2004.
 
 Reglamento publicado en el Folleto Anexo al No. 26 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 1990.
 
@@ -255,7 +255,7 @@ En la formación de los expedientes, cuidará que los documentos y asuntos pueda
 
 VII.- Abrir y dar curso a la correspondencia que venga dirigida a él y la oficial para el Presidente y la del Pleno;
 
-VIII.- En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas, en forma equitativa, proporcional y oportuna, vigilando se respeten las prevenciones respectivas. Las formas en que se consigne el turno contendrán los siguientes datos: el nombre del tribunal de procedencia; el nombre de las partes; la clase de procedimiento; una relación sucinta de la resolución que deba ser revisada; en su caso, la fecha de interposición del recurso y el efecto en que se admitió; la designación de la Sala a que se turne, así como la fecha; y las firmas del Presidente y del Secretario General en el acuerdo del turno. El contenido de las formas podrá modificarse atendiendo a las necesidades del servicio;
+VIII.- En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas, en forma equitativa, proporcional y oportuna, vigilando se respeten las prevenciones respectivas. Las formas en que se consigne el turno contendrán los siguientes datos: el nombre del tribunal de procedencia; el nombre de las partes, la clase de procedimiento; una relación sucinta de la resolución que deba ser revisada; en su caso, la fecha de interposición del recurso y el efecto en que se admitió; la designación de la Sala a que se turne, así como la fecha; y las firmas del Presidente y del Secretario General en el acuerdo del turno. El contenido de las formas podrá modificarse atendiendo a las necesidades del servicio;
 
 IX.- Distribuir los trabajos de la Secretaría General entre los empleados de la misma, del modo que estime más conveniente;
 
@@ -383,7 +383,9 @@ ARTICULO 40 BIS.- Cada año, o cuando así lo determine el Pleno, se procederá 
 
 I.- Todos los expedientes sujetos a archivo se conservarán inalterables por diez años y constituirán la sección de archivo vigente;
 
-II.- Transcurridos los diez años que antes se mencionan, el archivo será depurado para seleccionar aquellos expedientes que se caractericen por algún significado histórico, jurídico, político, social, económico o de otra naturaleza, mismos que integrarán la sección de archivo muerto y se conservarán indefinidamente, mientras que aquellos otros expedientes o documentos que sean descalificados, previa rigurosa selección y consecuente registro, serán incinerados o destruidos por los medios idóneos. Los expedientes y documentos referentes a juicios sucesorios, del estado civil de las personas y a la propiedad inmobiliaria, deberán conservarse siempre;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2004)</small>
+
+II.- Transcurridos los diez años que antes se mencionan, el archivo será depurado para seleccionar aquellos expedientes que se caractericen por algún significado histórico, jurídico, político, social, económico o de otra naturaleza, mismos que integrarán la sección de archivo muerto y se conservarán indefinidamente mientras que aquellos otros expedientes o documentos que sean descalificados, previa rigurosa selección y consecuente registro, serán incinerados o destruidos por los medios idóneos.
 
 III.- En cuanto a los documentos de las oficinas administrativas, el titular de las mismas, previa aprobación del Presidente, realizará la depuración cada vez que se estime necesario, sin atender a la antigüedad mencionada en las fracciones anteriores, exceptuando de tal depuración los expedientes relativos al Personal del Poder Judicial;
 
@@ -1454,3 +1456,9 @@ P.O. 11 DE AGOSTO DE 2004.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO NO. 41 TOMADO POR EL H. PLENO, MEDIANTE EL CUAL SE REFORMÓ EL ARTÍCULO 134 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, PARA AGREGARLE UN TÍTULO UNDÉCIMO PRIMERO Y MODIFICAR EL CONTENIDO DEL TÍTULO UNDÉCIMO".]
 
 TRANSITORIO ÚNICO: Las presente (sic) modificaciones al Reglamento de la Ley Orgánica entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, y los Contratos celebrados para la prestación de la consulta remota hasta esa fecha, se ajustarán a sus términos.
+
+P.O. 21 DE AGOSTO DE 2004.
+
+> <small>[N. DE E. SE TRANSCRIBE PARTE FINAL DEL "ACUERDO NO. 44 TOMADO POR EL H. PLENO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 40-BIS FRACCIÓN II DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO: Se autoriza la supresión a que se ha hecho referencia. Publíquese este acuerdo por una sola vez en el Periódico Oficial del Estado, en el entendido que la señalada reforma entrará en vigor al día siguiente de su publicación.
