@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-atencion-e-integracion-social-de-las-personas-12381
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-21"
-last_updated: "1998-08-21"
+last_updated: "1998-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA ATENCION E INTEGRACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 21 de agosto de 1998.
 
@@ -63,9 +63,15 @@ En el marco jurídico de los derechos que consagran la Constitución Política d
 
 CON DISCAPACIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 6.
 
-El Instituto Queretano pro Personas con Discapacidad es una Institución de Asistencia Privada, con personalidad jurídica y patrimonio propios y plena autonomía para emitir sus acuerdos, resoluciones y opiniones, creado de conformidad con las normas establecidas en la Ley de Instituciones de Asistencia Privada para el Estado de Querétaro.
+El Instituto Queretano Pro-Personas con Discapacidad es una Institución de Asistencia Privada, con personalidad jurídica, patrimonio propio y plena autonomía administrativa; creado de conformidad con las normas establecidas en la Ley para el Fomento y Regularización de las Instituciones de Asistencia Privada en el Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1998)</small>
+
+El Patrimonio del Instituto se integrará con los bienes y recursos que le sean transferidos por el Gobierno del Estado en el decreto de su creación, con los recursos que se le asignen en los Presupuestos de Egresos del Gobierno del Estado, con las donaciones que le hagan otras autoridades o los particulares y con los rendimientos que se generen de la administración de su patrimonio. En caso de disolución del Instituto, su patrimonio pasará a formar parte del Gobierno del Estado.
 
 El personal que conforme el Consejo Directivo del Instituto, deberá estar integrado preferentemente por personas con discapacidad, las cuales deberán contar con la preparación necesaria para el desempeño de sus funciones.
 
@@ -518,3 +524,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. MARÍA GUADALUPE MURGUIA GUTIÉRREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE LAS REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 1998.
+
+PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+SEGUNDO.- El Decreto de creación del Instituto Queretano Pro-Personas con Discapacidad que se ordena en el artículo Quinto Transitorio de la Ley para la Atención e Integración Social de las Personas con Discapacidad, será emitido por el Gobernador del Estado en un plazo de 90 días hábiles contados a partir de la fecha de su publicación de la presente.
+
+TERCERO.- Se derogan aquellas disposiciones que se opongan a la presente.
