@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1972-05-17"
+last_updated: "1973-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -262,6 +262,10 @@ Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los 
 ###### Art. 55.
 
 La Legislatura tendrá cada año dos períodos de sesiones ordinarias. El primero se abrirá el 16 de septiembre y terminará el 15 de diciembre y será prorrogable por un mes. El segundo comenzará el día 1o. de marzo y terminará el día último de abril siendo también prorrogable por un mes.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 1973)</small>
+
+En el año de la elección para la renovación del Titular del Poder Ejecutivo, el Congreso abrirá un periodo ordinario de sesiones del 1o. de julio al 10 de agosto, para atender primordialmente la calificación de la elección de Gobernador del Estado y tomarle: el 1o. de agosto, en sesión solemne la protesta de ley a quien resulte electo, este periodo será prorrogable hasta por quince días.
 
 ###### Art. 56.
 
@@ -1462,3 +1466,7 @@ UNICO:- Este Decreto entrará en vigor el día de su publicación en el Periódi
 P.O. 17 DE MAYO DE 1972.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 11 DE ABRIL DE 1973.
+
+UNICO:- El presente Decreto entrará en vigor, al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
