@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-07-28"
+last_updated: "1988-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -199,9 +199,13 @@ XIII.- DECIMO TERCER CIRCUITO:
 
 1.- Un Tribunal Colegiado y un Tribunal Unitario, con residencia en la ciudad de Oaxaca, Oaxaca;
 
-2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Oaxaca;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 11/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 2 DE NOVIEMBRE DE 1988)</small>
 
-3.- Juzgado Cuarto de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
+2.- Juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca;
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 11/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 2 DE NOVIEMBRE DE 1988)</small>
+
+3.- Juzgado Quinto de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Salina Cruz.
 
 XIV.- DECIMO CUARTO CIRCUITO:
 
@@ -357,7 +361,9 @@ XX.- Los Juzgados Tercero y Cuarto de Distrito en el estado de Sinaloa, con resi
 
 XXI.- El Juzgado Cuarto de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerá jurisdicción en el territorio que comprende los municipios de Mazatlán, Cosalá, Elota, San Ignacio, Concordia, Rosario y Escuinapa;
 
-XXII.- Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Oaxaca, ejercerán jurisdicción en el territorio del Estado, excepto en los municipios del Distrito de Tehuantepec: 1.- Guevea de Humbotl, 2.- Magdalena Tequisistlán, 3.- Magdalena Tlacotepec, 4.- Salina Cruz, 5.- San Blas Atempa, 6.- San Mateo del Mar, 7.- San Miguel Tenango, 8.- San Pedro Comitancillo, 9.- San Pedro Huamelula, 10.- San Pedro Huilotepec, 11.- Santa María Guienagati, 12.- Santa María Jalapa del Marquez, 13.- Santa María Mixtequilla, 14.- Santa María Totolapilla, 15.- Santiago Astata, 16.- Santiago Lachiguiri, 17.- Santiago Laollaga, 18.- Santo Domingo Chihuitán, 19.- Santo Domingo Tehuantepec; del Distrito de Juchitán: 20.- Asunción Ixtaltepec, 21.- Ciudad Ixtepec, 22.- Chahuites, 23.- El Barrio de la Soledad, 24.- El Espinal, 25.- Juchitán de Zaragoza, 26.- Matías Romero, 27.- Reforma de Pineda, 28.- San Dionisio del Mar, 29.- San Francisco del Mar, 30.- San Francisco Ixhuatán, 31.- San Juan Guichicovi, 32.- San Miguel Chimalapa, 33.- San Pedro Tapanatepec, 34.- Santa María Chimalapa, 35.- Santa María Petapa, 36.- Santa María Xadani, 37.- Santiago Niltepec, 38.- Santo Domingo Ingenio, 39.- Santo Domingo Petapa, 40.- Santo Domingo Zanatepec, 41.- Unión Hidalgo; y del Distrito de Tuxtepec: 42.- Acatlán de Pérez Figueroa, 43.- Ayotzintepec, 44.- Cosolapa, 45.- Loma Bonita, 46.- Nuevo Soyaltepec, 47.- San Felipe Jalapa de Díaz, 48.- San Felipe Usila, 49.- San José Chiltepec, 50.- San José Independencia, 51.- San Juan Bautista Tuxtepec, 52.- San Juan Bautista Valle Nacional, 53.- San Lucas Ojitlán, 54.- San Pedro Ixcatlán, 55.- Santa María Jacatepec;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO NUMERO 11/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 2 DE NOVIEMBRE DE 1988)</small>
+
+XXII.- Los juzgados Primero, Segundo, Tercero y Cuarto de Distrito en el estado de Oaxaca, con residencia en la ciudad de Oaxaca, ejercerán jurisdicción en el territorio del estado, excepto en los municipios del Distrito de Tehuantepec: 1.- Guevea de Humboldt, 2.- Magdalena Tequisitlán, 3.- Magdalena Tlacotepec, 4.- Salina Cruz, 5.- San Blas Atempa, 6.- San Mateo del Mar, 7.- San Miguel Tenango, 8.- San Pedro Comitancillo, 9.- San Pedro Huamelula, 10.- San Pedro Huilotepec, 11.- Santa María Guienagati, 12.- Santa María Jalapa del Marqués, 13.- Santa María Mixtequilla, 14.- Santa María Totolapilla, 15.- Santiago Astata, 16.- Santiago Lachiguiri, 17.- Santiago Laollaga, 18.- Santo Domingo Chihuitán, 19.- Santo Domingo Tehuantepec; del Distrito de Juchitán: 20.- Asunción Ixaltepec, 21.- Ciudad Ixtepec, 22.- Chihuites, 23.- El Barrio de la Soledad, 24.- El Espinal, 25.- Juchitán de Zaragoza, 26.- Matías Romero, 27.- Reforma de Pineda, 28.- San Dionisio del Mar, 29.- San Francisco del Mar, 30.- San Francisco Ixhuatán, 31.- San Juan Guichicovi, 32.- San Miguel Chimalapa, 33.- San Pedro Tapanatepec, 34. - Santa María Chimalapa, 35.- Santa María Petapa, 36.- Santa María Xadani, 37.- Santiago Niltepec, 38.- Santo Domingo Ingenio, 39.- Santo Domingo Petapa, 40.- Santo Domingo Zanatepec, 41.- Unión Hidalgo; y del Distrito de Tuxtepec: 42.- Acatlán de Pérez Figueroa, 43.- Ayotzintepec, 44.- Cosolapa, 45.- Loma Bonita, 46.- Nuevo Soyaltepec, 47.- San Felipe Jalapa de Díaz, 48.- San Felipe Usila, 49.- San José Chiltepec, 50.- San José Independencia, 51.- San Juan Bautista Tuxtepec, 52.- San Juan Bautista Valle Nacional, 53.- San Lucas Ojitlán, 54.- San Pedro Ixcatlán, 55.- Santa María Jacatec;
 
 XXIII.- El Juzgado Cuarto de Distrito en el Estado de Oaxaca, con residencia en la ciudad de Salina Cruz, ejercerá jurisdicción en los municipios mencionados en la fracción XXII;
 
@@ -452,3 +458,7 @@ SEGUNDO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación
 D.O.F. 28 DE JULIO DE 1988.
 
 UNICO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE NOVIEMBRE DE 1988.
+
+UNICO.- El presente acuerdo entrará en vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
