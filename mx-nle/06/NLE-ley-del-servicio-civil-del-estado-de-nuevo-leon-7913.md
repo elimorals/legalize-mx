@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1948-06-26"
+last_updated: "1964-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1964.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -59,7 +59,9 @@ II.- Trabajadores de confianza.
 
 A).- Serán trabajadores de confianza en el Poder Legislativo: El C. Oficial Mayor; en el Poder Ejecutivo: los Ayudantes del C. Gobernador; el C. Secretario Particular; el C. Secretario General de Gobierno, el C. Oficial Mayor; los CC. Abogados Consultores; el Auditor General; el C. Intendente del Palacio; el C. Ing. Jefe de la Oficina de Fomento y Obras Públicas; los integrantes del Comité Administrador del Departamento de Maquinaria Agrícola; el C. Director de los Talleres Linotipográficos del Gobierno; el C. Proveedor General de Gobierno, el C. Director de la Banda de Música del Estado; el C. Procurador General de Justicia y Sub-Procurador; el C. Jefe de la Policía Judicial del Estado; el C. Procurador General de la Defensa del Trabajo; el C. Presidente de la Junta Central de Conciliación y Arbitraje; así como los CC. Presidentes de las Juntas Municipales Permanentes que funcionen en el Estado; el C. Srio. de la Comisión Agraria Mixta; el C. Inspector Gral. de Policía; el C. Srio de la Inspección Gral. de Policía y Comandantes; el C. Director del Penal del Estado; el C. Tesorero Gral. del Estado; el C. Oficial Mayor; el C. Contador; los CC. Recaudadores de Rentas de los Municipios; los CC. Visitadores de Hacienda; Registradores de la Propiedad; Oficiales del Registro Civil; el C. Presidente de la Junta Central Catastral; el C. Director Gral. de Educación Primaria y Secundaria y el C. Secretario de la Dirección; el C. Rector de la Universidad de Nuevo León; el C. Secretario General; el C. Oficial Mayor; el C. Tesorero; los CC. Directores de las Facultades y Escuelas dependientes de la Universidad; el C. Jefe del Departamento de Acción Social Universitaria; los CC. Miembros del Consejo Directivo de la Junta de Beneficencia Pública; los CC. Directores de Hospitales y Clínicas, así como el C. Jefe de Interventores de Espectáculos Públicos; los CC. Representantes del Ejecutivo en las Comisiones o Juntas que realicen trabajos con cooperación de la Federación; en el Poder Judicial; el C. Secretario del Tribunal Pleno.
 
-B).- Serán Trabajadores de confianza en los Municipios, los siguientes: en la Presidencia Municipal: el C. Srio. Particular; el Chofer del C. Presidente Municipal; Jefe de Agentes Confidenciales; Sub-Jefe de Agentes Confidenciales y Representante en México, en la Secretaría: el C. Srio. del R. Ayuntamiento; el C. Oficial Mayor; el C. Oficial Primero; en la Tesorería: el C. Tesorero; Jefe y Sub-Jefe de Colectores de Pisos; Jefe de Inspectores de Comercio, Sub-Jefe de Inspectores de Comercio; Jefe de Máquinas Electro-Fonéticas y Jefe de Inspectores de Espectáculos; en el Departamento Legal: el C. Jefe del Departamento y Secretario en la Proveeduría: el C. Proveedor Municipal; así como el Supervisor General; en el Alumbrado Público: el C. Jefe y Sub-Jefe del Depto; en la Oficina de Mejoras: el C. Jefe de la Junta de Mejoras Materiales y Sub-Jefe de la misma; en Obras Públicas: el C. Director, el Sub-Director; el Secretario y Jefe del Departamento de Bienes Municipales; Panteones: el C. Administrador; en Limpia y Transportes: el C. Jefe del Departamento; Sub-Jefe y Supervisor de Equipos; en Jardines: el C. Jefe y Sub-Jefe; Puesto de Socorros: el C. Director Sub-Director; Administrador del Puesto de Socorros: el C. Jefe de Agentes de Sanidad y Sub-Jefe de Agentes; Rastro: el C. Administrador del Rastro; Sub-Jefe Médico Veterinario; Romanero; Jefe de Maquinaria; Jefe de Inspectores de Carnes y Sub-Jefe de Inspectores de Carnes; Tránsito: Jefe del Departamento; Sub-Jefe Médico de Tránsito; el C. Srio. y Perito en Choques; Juzgados Menores: el C. Defensor de Oficio en asuntos Civiles; Comisarías: Comisarios y Sub-Comisarios; Alcaide de la Cárcel Correccional; Sub-Alcaide e Inspector de Comisarías; Departamento de Recreación: Jefe del Departamento y Sub-Jefe; Acción Cívica Municipal: C. Jefe del Departamento y Sub-Jefe; Biblioteca Municipal: el C. Director de la Biblioteca; Junta Municipal de Reclutamiento: el Jefe del Departamento.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1964)</small>
+
+B).- Serán trabajadores de confianza en los municipios, los siguientes: en la Presidencia Municipal: el C. Srio. Particular; el Chofer del C. Presidente Municipal; Jefe de Agentes Confidenciales; Sub-Jefe de Agentes Confidenciales y Representante en México, en la Secretaría: el C. Srio. del R. Ayuntamiento; el C. Oficial Mayor; el C. Oficial Primero; en la Tesorería: El C. Tesorero, el Contador General, el Sub-Contador, los cajeros y los recaudadores; Jefe y Sub-Jefe de Colectores de Pisos; Jefe de Inspectores de Comercio, Sub-Jefe de Inspectores de Comercio; Jefe de Máquinas Electro-Fonéticas y Jefe de Inspectores de Espectáculos; en el Departamento Legal: el C. Jefe del Departamento y Secretario en la Proveeduría: el C. Proveedor Municipal; así como el Supervisor General; en el Alumbrado Público: el C. Jefe y Sub-Jefe del Depto; en la Oficina de Mejoras: el C. Jefe de la Junta de Mejoras Materiales y Sub-Jefe de la misma; en Obras Públicas: el C. Director, el Sub-Director; el Secretario y Jefe del Departamento de Bienes Municipales; Panteones: el C. Administrador; en Limpia y Transportes: el C. Jefe del Departamento; Sub-Jefe y Supervisor de Equipos; en Jardines: el C. Jefe y Sub-Jefe; Puesto de Socorros: el C. Director Sub-Director; Administrador del Puesto de Socorros: el C. Jefe de Agentes de Sanidad y Sub-Jefe de Agentes; Rastro: el C. Administrador del Rastro; Sub-Jefe Médico Veterinario; Romanero; Jefe de Maquinaria; Jefe de Inspectores de Carnes y Sub-Jefe de Inspectores de Carnes; Tránsito: Jefe del Departamento; Sub-Jefe Médico de Tránsito; el C. Srio. y Perito en Choques; Juzgados Menores: el C. Defensor de Oficio en asuntos Civiles; Comisarías: Comisarios y Sub-Comisarios; Alcaide de la Cárcel Correccional; Sub-Alcaide e Inspector de Comisarías; Departamento de Recreación: Jefe del Departamento y Sub-Jefe; Acción Cívica Municipal: C. Jefe del Departamento y Sub-Jefe; Biblioteca Municipal: el C. Director de la Biblioteca; Junta Municipal de Reclutamiento: el Jefe del Departamento.
 
 C).- Los trabajadores no incluidos en los incisos anteriores serán de base y por ello inamovibles. Los de Nuevo ingreso serán de base, después de seis meses de servicio. Cuando se trate de plazas de nueva creación, la clasificación que corresponda a un trabajador será determinada por la disposición legal que las establezca.
 
@@ -806,3 +808,9 @@ Dado en el Despacho del Poder Ejecutivo en Monterrey, Nuevo León, a los cinco d
 El Gobernador Constitucional del Estado.- LIC. ARTURO B. DE LA GARZA Y GARZA.
 
 El Secretario General de Gobierno.- LIC. JESUS C. TREVIÑO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE ENERO DE 1964.
+
+UNICO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
