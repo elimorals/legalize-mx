@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1992-12-31"
+last_updated: "1993-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -41,11 +41,11 @@ LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ### CAPITULO UNICO. PRINCIPIOS GENERALES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1o.
 
-La Hacienda Pública del Estado de Michoacán para cubrir los gastos del gobierno y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos y aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las participaciones en ingresos Federales.
+La Hacienda Pública del Estado de Michoacán de Ocampo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos, aprovechamientos, participaciones en ingresos federales y otros que anualmente se establezcan en la Ley de Ingresos del Estado de Michoacán.
 
 ###### ARTICULO 2o.
 
@@ -61,25 +61,29 @@ Cuando en esta ley se tomen como base para el pago de los créditos fiscales a c
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-### CAPITULO I. DEL IMPUESTO SOBRE COMPRAVENTA DE VEHICULOS DE MOTOR ENTRE PARTICULARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-#### Sección Primera. Del Objeto
+### CAPITULO I. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR USADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+#### Sección Primera. Del Objeto y del Sujeto
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 5o.
 
-Es objeto del impuesto sobre compra venta de vehículos de motor entre particulares, la enajenación de vehículos de motor, cuyos modelos correspondan a los últimos diez años.
+Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados que realicen las personas físicas, cuyo año modelo corresponda al de aplicación de la Ley de Ingresos y a los diez años anteriores al de la aplicación de dicha Ley, excepto quienes realicen actividades empresariales afectas al pago del Impuesto al Valor Agregado.
 
 I. Para los efectos de este Impuesto, se considera enajenación de vehículos:
 
 a) Toda transmisión de la propiedad sobre vehículos de motor, aún en la que el enajenante se reserve el dominio;
 
-b) Las adquisiciones por herencia;
+b) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 c) La donación;
 
-d) Las adjudicaciones, aún cuando se realicen en favor de acreedor;
+d) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 e) La aportación a una sociedad o asociación;
 
@@ -89,7 +93,9 @@ g) La permuta.
 
 Cuando se trate de permuta, se considera que existe doble enajenación.
 
-II. Se considera, salvo prueba en contrario, que la enajenación se efectuó en el Estado de Michoacán, cuando al realizar trámites vehiculares de circulación, se dé al menos alguno de los siguientes supuestos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+II. Se considera, salvo prueba en contrario, que la enajenación se efectuó en el Estado de Michoacán, cuando al realizar los trámites de registro y control de vehículos a que se refiere el articulo 190 de esta Ley, se compruebe al menos alguno de los siguientes supuestos:
 
 a) Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión
 
@@ -99,57 +105,55 @@ b) Que el endoso a que se refiere el inciso anterior, no contenga lugar de opera
 
 c) Que el vehículo en cuestión circule con placas del Estado de Michoacán, aún cuando el endoso haya sido fechado en otra Entidad.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-d) Que la documentación de pagos de otros impuestos y/o derechos a que esté afecto el vehículo de que se trate, haya sido tramitada ante autoridades domiciliadas en el Estado, y
+d) Que la documentación de pago de otros impuestos o derechos a que esté afecto el vehículo de que se trate, haya sido expedida por autoridades estatales; y
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+e) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-e) Que no se compruebe el pago de este impuesto, tratándose de vehículos usados, refacturados por empresas distribuidoras y por aquellas que enajenen vehículos usados.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-#### Sección Segunda. De los Sujetos
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+#### Sección Segunda. De los Responsables Solidarios
 
 ###### ARTICULO 6o.
 
-Son sujetos del Impuesto sobre compra venta de vehículos de motor entre particulares, las personas que reciban un ingreso como resultado de la enajenación de vehículos de motor en los términos del artículo anterior, siempre que no sean comerciantes en esta clase de negocios, o que se trate de personas físicas afectas al pago del Impuesto al Valor Agregado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 7o.
 
-Responden solidariamente del pago de este impuesto:
+Son responsables solidarios del pago del Impuesto Sobre Enajenación de Vehículos de Motor Usados:
 
-I. Los funcionarios y empleados públicos que autoricen cualquier trámite relacionado con vehículos de motor gravados por este Impuesto, sin haberse cerciorado de su pago.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-II. El adquirente de vehículos de motor por los endosos anteriores.
+I. El adquirente de vehículos de motor tanto por el endoso a su favor, como por los anteriores, si no comprueba el pago de este impuesto, mediante la exhibición de los recibos oficiales correspondientes.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-III. Los retenedores a que se refiere el artículo 9o. de esta Ley.
+II. Los funcionarios y empleados públicos que autoricen cualquier trámite de registro y control de vehículos a que se refiere el artículo 190 de esta Ley, sin haberse cerciorado del pago de este impuesto.
 
-#### Sección Tercera. De la Base
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+#### Sección Tercera. De la Tasa y de la Base
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 8o.
 
-La base de este impuesto será el importe establecido en la Ley de Ingresos del Estado vigente en la fecha de la enajenación, según la marca, tipo y modelo del vehículo de que se trate.
+La base para el pago del impuesto que regula este Capítulo, será el importe que establezca la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate, según la marca, línea, tipo y modelo del vehículo enajenado. El impuesto se calculará y pagará aplicando la tasa que dicha Ley señale.
 
 #### Sección Cuarta. De las Obligaciones y del Pago
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 9o.
 
-Los sujetos de este impuesto, están obligados a exhibir ante la oficina recaudadora de su domicilio, el documento original con una copia simple del mismo, que ampare la propiedad del vehículo de motor objeto de la enajenación, dentro de los 5 días siguientes a la celebración de su operación.
+Los sujetos del impuesto que regula este Capítulo y, en su caso, los responsables solidarios a que se refiere la fracción I del artículo 7º de esta Ley, exhibirán el original del documento que ampare la propiedad del vehículo objeto de la enajenación, proporcionando dos copias simples del mismo por ambos lados, dentro de los quince días siguientes a la fecha del endoso.
 
-Las empresas distribuidoras de vehículos, así como aquellas cuya actividad sea la compra-venta de vehículos usados, están obligados a retener el impuesto a que se refiere este capítulo, el que se determinará conforme a las bases y tasas establecidas por la Ley de Ingresos del Estado, y lo enterarán en la oficina recaudadora correspondiente dentro de los 5 días siguientes a la fecha de la adquisición.
-
-Las oficinas recaudadoras al determinar y recaudar este impuesto, expedirán el recibo oficial correspondiente y sellarán el documento original que ampare la propiedad del vehículo, al margen del endoso anotarán el número, fecha e importe del recibo expedido.
-
-Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante las autoridades responsables de la prestación de los servicios de control vehicular, tanto público como particular.
+Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado ante la Tesorería General del Estado, al realizar los trámites de registro y control de vehículos conforme a los artículos 190 y 192 de esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -157,9 +161,11 @@ Para los efectos de este impuesto, se considera domicilio fiscal, el manifestado
 
 El propietario del vehículo está obligado a conservar por cinco años contados a partir de la fecha de pago, el recibo correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 11.
 
-Los vehículos transmitidos o adquiridos, quedan afectos preferentemente al pago del impuesto a que se refiere este capítulo.
+Los vehículos enajenados quedan afectos preferentemente al pago del impuesto que regula este Capítulo.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
 
@@ -179,143 +185,77 @@ Quedan exentos de este impuesto, la compra-venta, cesión o transmisión de dere
 
 Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO II. DEL IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Primera. del Objeto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 15.
 
-Es objeto del impuesto sobre espectáculos públicos el ingreso que se origine con motivo de la celebración de espectáculos públicos en: salas de teatro o cinematografía, circos, luchas, corridas de toros, bailes públicos, espectáculos deportivos, audiciones musicales, exhibiciones de cualesquiera naturaleza y eventos con cuota de admisión, de mesa, consumo mínimo u otra denominación que se le dé y que condicionan el acceso al espectáculo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Segunda. De los Sujetos
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 16.
 
-Son sujetos del impuesto sobre espectáculos públicos las personas físicas, morales o grupos organizados que perciban los ingresos referidos en el artículo anterior.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 17.
 
-Responden solidariamente del pago de este impuesto:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-I. Los propietarios o poseedores de establecimientos en los que permanente u ocasionalmente por cualquier acto o contrato se autorice a personas sujetas de este impuesto para que exploten las actividades señaladas en el artículo 15 de esta Ley, a menos que den aviso de la celebración del contrato;
-
-II. Los funcionarios que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de espectáculos, cuando no efectúen el aviso establecido en el artículo 25 de esta ley.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO III. IMPUESTO ADICIONAL PARA CARRETERAS Y CONSTRUCCION DE EDIFICIOS ESCOLARES
 
 #### Sección Tercera. De la Base
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 18.
 
-Es base para el pago del impuesto sobre espectáculos públicos el ingreso bruto que se obtenga, con motivo de la celebración de las actividades a que se refiere el artículo 15 de esta Ley.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-En caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto que tenga señalada la mayor tasa en la Ley de Ingresos.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Cuarta. Del Pago
 
-> <small>(REFORMADO Y REUBICADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
 ###### ARTICULO 19.
 
-La Tesorería General del Estado nombrará, interventores de espectáculos públicos, quienes determinarán el impuesto utilizando al efecto la cédula de intervención y lo recaudarán al término del acceso del evento, entregando el original de la cédula como comprobante provisional de pago.
-
-El día hábil siguiente a la celebración del espectáculo, el sujeto del impuesto acudirá a la oficina recaudadora para canjear el comprobante a que se refiere el párrafo anterior por el recibo oficial correspondiente, en caso de no acudir, el comprobante provisional de pago adquirirá el carácter de comprobante oficial.
-
-(REUBICADO, P.O. 28 DE DICIEMBRE DE 1989)
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 #### Sección Quinta. De las Obligaciones
 
 ###### ARTICULO 20.
 
-Este impuesto se liquidará de conformidad con las tasas que al efecto señale la Ley de Ingresos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 21.
 
-El entero de este impuesto deberá efectuarse en la oficina recaudadora correspondiente al lugar donde se realice el espectáculo a más tardar el día hábil siguiente de su realización.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
-
-Cuando por cualquier circunstancia, el interventor designado no ocurra formular la liquidación y en su caso a recaudar el impuesto, el contribuyente estará obligado a efectuar el pago del mismo, el siguiente día hábil de aquel en que ocurran las actividades gravadas por este Impuesto.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-La Tesorería General del Estado podrá establecer cuotas mensuales a los sujetos de este impuesto, cuando la explotación de espectáculos públicos se realice permanentemente en establecimientos fijos o cuando tratándose de espectáculos ocasionales el sujeto realice periódicamente actividades gravadas por este impuesto.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-Para la determinación de la cuota mensual a que se refiere el párrafo anterior, la autoridad fiscal tomará en consideración lo siguiente:
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-I. El promedio de ingresos brutos obtenidos por el sujeto en un lapso determinado según las circunstancias de cada caso.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
-
-II. Aplicará a los ingresos determinados en los términos de la fracción anterior, la tasa que fije la Ley de Ingresos del Estado para el espectáculo de que se trate.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-III. La cuota referida deberá ser incrementada cada vez que se aumenten los precios de acceso al espectáculo de que se trate o cuando sin que exista aumento de los precios de acceso, la Tesorería General compruebe que el ingreso promedio que obtenga el contribuyente en un periodo determinado, es superior al considerado como base para la determinación de la cuota anterior.
-
-Cuando se incremente la cuota con motivo de aumento a los precios de acceso, se considerará el ingreso promedio a que se refiere la fracción I de este artículo, o se aplicará la proporción que represente el incremento del nuevo precio respecto del anterior.
-
-Los contribuyentes a los que se les establezca cuota mensual, deberán efectuar su pago dentro de los primeros 5 días del mes a que esta corresponda.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 22.
 
-Los contribuyentes de este impuesto tienen además las siguientes obligaciones:
-
-I. Si explotan habitualmente el espectáculo público en establecimiento fijo:
-
-a) Registrarse en la oficina de rentas correspondiente, haciendo uso de las formas aprobadas y proporcionando los datos y los documentos que las mismas exijan, a más tardar el día anterior al en que vayan a dar principio las actividades gravadas;
-
-b) Presentar los avisos de cambio de domicilio, suspensión de actividades, traspaso o clausura, ante la misma oficina, previamente a la fecha en que ocurran tales hechos o circunstancias.
-
-II. Si la explotación se realiza en forma ocasional o si realizándose permanentemente no se cuenta con establecimiento fijo:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
-
-a) Presentar ante la oficina recaudadora correspondiente, el permiso o licencia expedida por la autoridad competente, indicando la fecha o periodo de celebración del evento y el lugar en que se realice, a más tardar el día anterior al de su inicio.
-
-b) Otorgar garantía a satisfacción de la misma oficina en alguna de las formas previstas en el Código Fiscal del Estado, que no será inferior al impuesto correspondiente a un día de actividades, ni superior al que pudiera corresponder a tres días;
-
-c) Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la oficina de rentas de su jurisdicción, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar;
-
-III. Presentar ante la oficina de rentas respectiva, para resello, el boletaje y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos;
-
-IV. No vender boletos en tanto no estén resellados por las autoridades fiscales;
-
-V. Destruir los boletos recibidos de los espectadores a la entrada del espectáculo;
-
-VI. Entregar a la oficina de rentas el boletaje sobrante resellado para que sea inutilizado;
-
-VII. Permitir a los interventores que designe la oficina de rentas, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento, y
-
-VIII. En general, adoptar las medidas de control que para la correcta determinación de este impuesto, establezca la Tesorería General del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 23.
 
-Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la fracción II inciso b) del artículo anterior, no hubieran cumplido con tal obligación, las autoridades fiscales, podrán suspender el espectáculo hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor que se designe solicitará el auxilio de la fuerza pública.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 24.
 
-Este impuesto en ningún caso, deberá ser repercutido al espectador.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 25.
 
-Los funcionarios competentes, al otorgar permisos para la explotación de espectáculos, deberán dar aviso a la Tesorería General del Estado, o a sus oficinas de rentas, de las autorizaciones que otorguen, a más tardar el día anterior al en que vaya a realizarse o a principiar la explotación del espectáculo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 #### Sección Sexta. De las Disposiciones Generales
 
@@ -323,21 +263,13 @@ Los funcionarios competentes, al otorgar permisos para la explotación de espect
 
 ###### ARTICULO 26.
 
-Quedan preferentemente afectos al pago de este impuesto:
-
-I. Los bienes inmuebles en que se exploten espectáculos o diversiones públicas, cuando sean propiedad del contribuyentes sujeto al gravamen, y
-
-II. El equipo y las instalaciones que se utilicen en la diversión o espectáculos.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 26
 
-Bis. Para los efectos de este impuesto se considera domicilio fiscal:
+Bis. (DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
-I. El lugar donde se realice el evento, tratándose de contribuyentes que habitualmente efectúen espectáculos en establecimiento fijo, y
-
-II. El manifestado ante la autoridad competente que expida la licencia o permiso, tratándose de contribuyentes que realice espectáculos públicos en distintos lugares.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Primera. Del Objeto
 
@@ -345,7 +277,7 @@ II. El manifestado ante la autoridad competente que expida la licencia o permiso
 
 ###### ARTICULO 27.
 
-Las infracciones cometidas por los contribuyentes de este impuesto, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1993)
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE PRODUCTOS Y RENDIMIENTOS DE CAPITAL
 
@@ -357,7 +289,7 @@ Es objeto del Impuesto adicional para carreteras y construcción de edificios es
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 29.
 
@@ -369,7 +301,7 @@ De las Exenciones.
 
 ###### ARTICULO 30.
 
-La base de este Impuesto es el importe de los pagos por concepto de Impuestos y Derechos, excepto de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por inscripción de nacimiento, defunciones y autorización de matrimonios celebrados en las oficinas del Registro Civil en horas hábiles.
+La base del Impuesto Adicional para Carreteras y Construcción de Edificios Escolares, es el impuesto de los pagas por concepto de impuestos y derechos, excepto de las contribuciones especiales sobre aumento de valor y mejoría específica de la propiedad, derechos por inscripción de nacimientos, defunciones, y autorización de matrimonios celebrados en las oficinas de registro civil en horas hábiles, así como, aquellos conceptos cuyas cuotas se establezcan en días de salario mínimo, en la Ley de Ingresos del Estado de Michoacán.
 
 ###### ARTICULO 31.
 
@@ -1237,7 +1169,7 @@ V. Las demás que señalen las autoridades fiscales.
 
 ###### ARTICULO 109.
 
-Los fabricantes o vendedores de azúcar, piloncillo, mieles cristalizables e incristalizables, deberán retener el impuesto a los sujetos directos del mismo y enterarlo en la oficina de rentas que corresponda a su jurisdicción, dentro de los días del primero al veinte del mes siguiente en que se hubiere efectuado la retención mediante la presentación de una declaración en las formas oficiales aprobadas.
+Los fabricantes o vendederos de azúcar, piloncillo, mieles cristalizables e incristalizables, deberán retener el impuesto a los sujetos directos del mismo y enterarlo en la oficina de rentas que corresponda a su jurisdicción, dentro de los días del primero al veinte del mes siguiente en que se hubiere efectuado la retención mediante la presentación de una declaración en las formas oficiales aprobadas.
 
 #### Sección Quinta. De las Declaraciones y Obligaciones
 
@@ -1789,7 +1721,9 @@ II.- Derechos por servicios que se prestan eventualmente.
 
 Para los efectos del artículo anterior, se consideran servicios periódicos por los que se deben pagar derechos, los servicios de control vehicular para vehículos de servicio particular y público siguientes:
 
-I.- Por expedición de placas de circulación, incluyendo tarjeta de circulación y calcomanía.
+REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)
+
+I. Por expedición de placas de circulación, incluyendo tarjeta de circulación y calcomanía. Tratándose de motocicletas, la expedición de placas será anual.
 
 II.- Por refrendo anual de calcomanía de circulación.
 
@@ -1807,7 +1741,9 @@ Los servicios a que se refieren las fracciones I y II del artículo anterior, se
 
 I.- La expedición original de placas de circulación para vehículos de servicio particular a que se refiere la fracción I, dentro de los quince días siguientes a la fecha de adquisición del vehículo.
 
-II.- El refrendo anual de calcomanía de circulación:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+II.- El refrendo anual de calcomanía de circulación y expedición de placas para motocicletas:
 
 A).- Para vehículos cuyo modelo corresponda a los diez últimos años, incluido el de aplicación de la Ley de Ingresos del Estado, dentro de los primeros tres meses del año de calendario de que se trate.
 
@@ -1851,6 +1787,14 @@ Los derechos por los servicios periódicos que preste el gobierno del Estado, qu
 
 Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Michoacán de Ocampo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+La Tesorería General del Estado, exigirá el cumplimiento de las obligaciones periódicas a que se refiere este Título, mediante la aplicación del procedimiento administrativo de ejecución conforme al Código Fiscal del Estado, cuando éstas no se cumplan dentro de los plazos establecidos. La autoridad de Tránsito del Estado podrá retirar de la circulación a los vehículos que hayan sido embargados a sus propietarios, previa designación de aquella como depositaria de los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+La Tesorería General del Estado, solicitará el apoyo de la autoridad de Tránsito del Estado, para realizar los actos de verificación y comprobación a que se refiere la fracción II del artículo 190 de esta Ley, y retirar de la circulación a aquellos vehículos cuyos propietarios o poseedores no comprueben el pago de los derechos por servicios de control vehicular a que se refiere este Título, previo levantamiento del acta de embargo correspondiente, en la que se designe a dicha autoridad con el carácter de depositaria.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ### CAPITULO VII. DE LAS EXENCIONES
@@ -1870,6 +1814,18 @@ III. Recibir y en su caso requerir los avisos, manifestaciones y demás document
 IV. Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría.
 
 V. Informar a la Secretaría de los movimientos efectuados en el "Registro Estatal Vehicular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca la Secretaría.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+VI. Independientemente de que no se establezca dentro de las reglas generales que expida la Secretaría de Hacienda y Crédito Público, a que se refiere la fracción I de este artículo, los propietarios de vehículos solicitarán la baja de las placas anteriores y dotación de nuevas, dentro de los quince días siguientes en que se den los siguientes supuestos:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+A) Cambio de propietario respecto del registrado, cuando el nuevo propietario tenga su domicilio fuera de la circunscripción territorial correspondiente a la oficina recaudadora que haya expedido las placas a nombre del propietario anterior. Cuando el nuevo propietario tenga su domicilio en la misma circunscripción, territorial referida, únicamente solicitará la reposición de la tarjeta de circulación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+B) Cambio de domicilio a una, población ubicada en circunscripción territorial distinta, a aquella que corresponda a la oficina recaudadora que haya expedido las placas que porte el vehículo de que se trate. Cuando el cambio de domicilio corresponda a la misma circunscripción territorial referida, únicamente solicitará la reposición de la tarjeta de circulación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2055,9 +2011,9 @@ Las contribuciones especiales que se establezcan a cargo de las personas que se 
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO. DE LAS APORTACIONES DE PARTICULARES PARA OBRAS PUBLICAS
+### CAPITULO UNICO. DE LAS APORTACIONES DE PARTICULARES Y APOYOS FEDERALES
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 218.
 
@@ -2099,7 +2055,7 @@ Las participaciones concedidas al Estado en ingresos federales o municipales por
 
 ## TITULO OCTAVO. DE OTROS INGRESOS
 
-> <small>(ADICIONADO CON ARTICULO QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 222.
 
@@ -2141,7 +2097,7 @@ Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo
 
 ###### ARTICULO 224.
 
-El Estado percibirá por concepto de aportaciones de particulares, para la ejecución de obras públicas, los importes que se convengan por la Tesorería General del Estado, la Unidad Ejecutora correspondiente y los particulares.
+El Estado percibirá por concepto de aportaciones de particulares para la ejecución de obras públicas, los importes que se convengan por la Tesorería General del Estado, la unidad ejecutora correspondiente y los particulares, así como, las aportaciones y apoyos federales que se obtengan.
 
 T R A N S I T O R I O S
 
@@ -2196,3 +2152,9 @@ P.O. 31 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir del 1o. de Enero de 1993, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1993
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
