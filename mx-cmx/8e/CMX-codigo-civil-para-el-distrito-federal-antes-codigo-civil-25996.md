@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1938-03-31"
+last_updated: "1940-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1940.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -7641,7 +7641,19 @@ ARTICULO 1,913.- Cuando una persona hace uso de mecanismos, instrumentos, aparat
 
 ARTICULO 1,914.- Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-ARTICULO 1,915.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios.
+(REFORMADO, D.O.F. 20 DE ENERO DE 1940)(F. DE E., D.O.F. 30 DE ABRIL DE 1940)
+
+ARTICULO 1,915.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios:
+
+I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba.
+
+II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización.
+
+III.- Si la víctima no percibe utilidad o salario, o no pudiere determinarse éste, el pago se acordará tomando como base el salario mínimo.
+
+IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos.
+
+V.- Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
 ARTICULO 1,916.- Independientemente de los daños y perjuicios, el juez puede acordar en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará al responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1928.
 
@@ -11140,6 +11152,10 @@ D.O.F. 1 DE SEPTIEMBRE DE 1932.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE MARZO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 20 DE ENERO DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
