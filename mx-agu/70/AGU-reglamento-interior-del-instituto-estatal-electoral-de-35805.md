@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-estatal-electoral-de-35805"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-12"
-last_updated: "2004-01-12"
+last_updated: "2004-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2004.
 
@@ -293,6 +293,36 @@ IX. Apoyar en la integración de la información y documentación que soliciten 
 X. Vigilar que los Partidos Políticos cumplan con sus obligaciones, y en su caso, sentar las bases para que la Dirección Jurídica, formule los proyectos de resolución sobre las sanciones respectivas; y
 
 XI. Todas aquellas que le sean encomendadas por el Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 18 BIS. La Jefatura de Prerrogativas a Partidos Políticos y Asociaciones Políticas, contará con un área de monitoreo, misma que tendrá las siguientes funciones:
+
+A) EN AÑO ELECTORAL:
+
+I. Realizar monitoreos muestrales en los medios electrónicos de comunicación privados, de los spots y promocional contratados por los Partidos Políticos y sus candidatos durante las precampañas y las campañas electorales.
+
+II. Realizar monitoreos muestrales en los medios electrónicos de comunicación del Estado, producto de los convenios que el Instituto Estatal Electoral realice con los medios de comunicación del Estado.
+
+III. Solicitar a los medios de comunicación privados y del Estado informen las pautas de transmisión de los spots y promocionales contratados por cada Partido Político durante las precampañas y las campañas electorales.
+
+IV. Rendir al término de las campañas electorales un informe detallado del monitoreo muestral de los tiempos de transmisión contratados por los Partidos Políticos y coaliciones durante las campañas y precampañas electorales y remitirlo al Secretario Técnico para que lo informe al Consejo General.
+
+V. Instrumentar y presentar ante el Secretario Técnico del Consejo General del Instituto Estatal Electoral, el Proyecto Anual de Monitoreo, el cual deberá contener los objetivos de cada programa, subprograma, el presupuesto y requerimientos de recursos humanos y técnicos.
+
+VI. Rendir informe de manera semanal al Secretario Técnico del Consejo General del Instituto Estatal Electoral de los resultados de las actividades señaladas en las fracciones I, II y III.
+
+B) EN AÑO NO ELECTORAL:
+
+I. Realizar monitoreos muestrales en los medios electrónicos de comunicación privados, de los spots y promocionales contratados por los Partidos Políticos para difundir sus programas de trabajo, principios ideológicos, debates, análisis de las medidas de Gobierno o de problemas sociales.
+
+II. Realizar monitoreos muestrales en los medios electrónicos de comunicación del Estado, producto de los convenios que el Presidente del Consejo General del Instituto Estatal Electoral realice con los medios de comunicación del Estado, tiempos que utilizaran para difundir sus programas de trabajo y sus principios ideológicos.
+
+III. Solicitar a los medios de comunicación privados y del Estado las pautas de transmisión del material de cada Partido Político, sobre sus programas de trabajo, principios ideológicos, debates, análisis de las medidas de Gobierno o de problemas sociales, e informarlo al Secretario Técnico.
+
+IV. Instrumentar y presentar ante el Secretario Técnico del Consejo General del Instituto Estatal Electoral, el Proyecto Anual de Monitoreo, el cual deberá contener los objetivos de cada programa, subprograma, el presupuesto y requerimientos de recursos humanos y técnicos.
+
+V. Rendir informe de manera semanal al Secretario Técnico del Consejo General del Instituto Estatal Electoral de los resultados de las actividades señaladas en las fracciones I, II y III.
 
 ###### ARTICULO 19.
 
@@ -734,9 +764,13 @@ La Comisión de Capacitación y Organización Electoral, tiene por objeto el de 
 
 La Comisión del Servicio Profesional Estatal Electoral, tiene por objeto la integración del Servicio Profesional Estatal Electoral, así como supervisar la observancia del Título Quinto, Libro Segundo del Código Electoral en vigor.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 49.
 
-Las Comisiones, se integrarán por tres Consejeros Ciudadanos con derecho a voz y voto; así como por los Consejeros Representantes de los Partidos Políticos, quienes tendrán únicamente derecho a voz.
+La Comisión de Capacitación y Organización Electoral y la Comisión del Servicio Profesional Electoral, se integrarán por tres Consejeros Ciudadanos con derecho a voz y voto, así como por los Consejeros Representantes de los Partidos Políticos, quienes tendrán únicamente derecho a voz.
+
+La Comisión de Fiscalización de los Recursos de los Partidos Políticos, se integrará únicamente por tres Consejeros Ciudadanos y atendiendo a las disposiciones relativas contenidas dentro de su propio Reglamento.
 
 ###### ARTICULO 50.
 
@@ -817,3 +851,15 @@ Las mesas directivas de casilla son los organismos electorales que tienen a su c
 PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO. Se abroga el Reglamento Interior del Instituto Estatal Electoral, publicado en fecha 5 de mayo de 2003 en el Periódico Oficial del Estado de Aguascalientes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2004.
+
+PRIMERO. Se aprueban la adición del artículo 18 Bis, así como la reforma al numeral 49 del Reglamento Interior del Instituto Estatal Electoral, en términos de lo señalado en los considerandos quinto, sexto y séptimo del presente Acuerdo.
+
+SEGUNDO. El presente Acuerdo entrará en vigor a partir del día siguiente de su aprobación.
+
+TERCERO. Notifíquese el presente Acuerdo en términos de lo establecido por los artículos 268 Fracción III, 271 y 273 del Código Electoral vigente en el Estado.
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Aguascalientes.
