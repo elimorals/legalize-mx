@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1991-11-11"
+last_updated: "1991-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
-CÓDIGO FISCAL DE LA FEDERACIÓN
+CODIGO FISCAL DE LA FEDERACION
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 11 DE NOVIEMBRE DE 1991.
+ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 11 DE NOVIEMBRE DE 1991.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -70,9 +70,9 @@ II. Aportaciones de seguridad social son las contribuciones establecidas en ley 
 
 III. Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes de dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley Federal de Derechos. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -120,9 +120,9 @@ Corresponde a los contribuyentes la determinación de las contribuciones a su ca
 
 Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas, dentro del plazo que a continuación se indica:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I. Si la contribución se calcula por períodos establecidos en Ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 11 del mes de calendario inmediato posterior al de terminación del período de la retención o de la recaudación, respectivamente.
+I. Si la contribución se calcula por periodos establecidos en Ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 17 del mes de calendario inmediato posterior al de terminación del periodo de la retención o de la recaudación, respectivamente.
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1986)</small>
 
@@ -238,7 +238,9 @@ Las autoridades fiscales para la práctica de visitas domiciliarias, del procedi
 
 Se entiende por enajenación de bienes:
 
-I. Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+I. Toda transmisión de propiedad, aun en la que el enajenante se reserva el dominio del bien enajenado, con excepción de los actos de fusión o escisión a que se refiere el artículo 14-A.
 
 II. Las adjudicaciones, aun cuando se realicen a favor del acreedor.
 
@@ -262,11 +264,13 @@ b). En el acto en el que el fideicomitente ceda sus derechos si entre éstos se 
 
 VII. La Transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses. No se consideran enajenaciones al público en general, cuando en la documentación comprobatoria se traslade en forma expresa y por separado el impuesto al valor agregado.
+VIII. La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada así como en el caso de transmisión de derechos de crédito a cargo de personas físicas, en los que se considerará que existe enajenación hasta el momento en que se cobre los créditos correspondientes.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses. No se consideran operaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A de este Código.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -275,6 +279,24 @@ Se considera que la enajenación se efectúa en territorio nacional, entre otros
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 14-A.
+
+Se entiende que no hay enajenación en los siguientes casos:
+
+I. En escisión, siempre que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un periodo de cuatro años contado a partir del primer año anterior a aquél en que se efectúe la escisión.
+
+No se incumple lo dispuesto en el párrafo anterior cuando se enajenen acciones a alguien que era propietario de alguna de las acciones con derecho a voto al inicio del periodo.
+
+II. En fusión, siempre que los accionistas propietarios de las acciones con derecho a voto de la sociedad que surge con motivo de la misma, no las enajenen durante un periodo de tres años contado a partir del momento en que se efectúe la fusión.
+
+Cuando se realicen varias fusiones o escisiones sucesivas, los periodos señalados para cada fracción concluyen tres años después de efectuado el último acto.
+
+Para efectos de este artículo no se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la legislación mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
+
+Lo dispuesto en este artículo no es aplicable a los establecimientos en México de sociedades extranjeras.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -298,6 +320,16 @@ III. Que se establezca una tasa de interés aplicable para determinar los pagos 
 
 IV. Consignar expresamente en el contrato el valor del bien objeto de la operación y el monto que corresponda al pago de intereses.
 
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 15-A.
+
+Se entiende por escisión de sociedades, la transmisión de la totalidad o parte de los activos, pasivos y capital de una sociedad residente en el país, a la cual se le denominará escindente, a otra u otras sociedades residentes en el país que se crean expresamente para ello, denominadas escindidas. La escisión a que se refiere este artículo podrá realizarse en los siguientes términos:
+
+a). Cuando la escindente transmite una parte de su activo, pasivo y capital a una o varias escindidas, sin que se extinga; o
+
+b). Cuando la escindente transmite la totalidad de su activo, pasivo y capital a dos o más escindidas, extinguiéndose la primera.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 16.
@@ -312,9 +344,9 @@ III. Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha 
 
 IV. Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-V. Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, así como la captura y extracción de las mismas y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial.
+V. Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, incluida la acuacultura, así como la captura y extracción de las mismas y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial.
 
 VI. Las silvícolas que son las de cultivo de los bosques o montes, así como la cría, conservación, restrauración (sic), fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
 
@@ -347,6 +379,8 @@ Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes 
 ## TITULO II. De los Derechos y Obligaciones de los Contribuyentes
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 18.
 
@@ -386,15 +420,19 @@ Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional. 
 
 En los casos en que las leyes fiscales así lo establezcan a fin de determinar las contribuciones y sus accesorios, se aplicará el índice nacional de precios al consumidor, el cual será calculado por el Banco de México y se publicará en el Diario Oficial de la Federación dentro de los primeros diez días del mes siguiente al que corresponda.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Para determinar las contribuciones y sus accesorios se considerará el tipo de cambio a que se haya adquirido la moneda extranjera de que se trate, y no habiendo adquisición, se estará al tipo de cambio promedio para enajenación con el cual inicien operaciones en el mercado las instituciones de crédito en la ciudad de México o, en su caso, al tipo de cambio establecido por el Banco de México cuando se trate de actos o actividades que deban realizarse con las instituciones de crédito sujetos a un tipo de cambio diferente al anterior, correspondientes al día en que se causen las contribuciones. El tipo de cambio promedio para enajenación a que se refiere este párrafo será el que mensualmente publique la Secretaría de Hacienda y Crédito Público durante la primera semana del mes inmediato siguiente a aquél al que corresponda, para cada uno de los días de dicho mes de calendario. Para los días en que las instituciones de crédito no hubieran realizado operaciones, se tomará en cuenta el tipo de cambio correspondiente al día inmediato anterior en que sí las hubieran realizado.
+Para determinar las contribuciones y sus accesorios se considerará el tipo de cambio a que se haya adquirido la moneda extranjera de que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día anterior a aquél en que se causen las contribuciones. Los días en que el Banco de México no publique dicho tipo de cambio se aplicará el último tipo de cambio publicado con anterioridad al día en que se causen las contribuciones.
 
 Cuando las disposiciones fiscales permitan el acreditamiento de impuestos o de cantidades equivalentes a éstos, pagados en moneda extranjera, se considerará el tipo de cambio que corresponda conforme a lo señalado en el párrafo anterior, referido a la fecha en que se causó el impuesto que se traslada o en su defecto cuando se pague.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Para determinar las contribuciones al comercio exterior, así como para pagar aquéllas que deban efectuarse en el extranjero, se considerará el tipo de cambio que fije la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+Para determinar las contribuciones al comercio exterior, así como para pagar aquéllas que deban efectuarse en el extranjero, se considerará el tipo de cambio que publique el Banco de México en términos del tercer párrafo del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+La equivalencia del peso mexicano con monedas extranjeras distintas al dólar de los Estados Unidos de América que regirá para efectos fiscales, se calculará multiplicando el tipo de cambio a que se refiere el párrafo tercero del presente artículo, por el equivalente en dólares de la moneda de que se trate, de acuerdo con la tabla que mensualmente publique el Banco de México durante la primera semana del mes inmediato siguiente a aquél al que corresponda.
 
 Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados únicamente se aceptarán en los casos y con las condiciones que establezca el Reglamento de este Código.
 
@@ -412,9 +450,9 @@ IV. La indemnización a que se refiere el antepenúltimo párrafo del artículo 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior para efectuar el pago se estará a lo dispuesto por la Ley Monetaria.
+Para determinar las contribuciones se considerarán inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 0.1 hasta 499.99 pesos se ajusten a la unidad de millar inmediata anterior y los que contengan cantidades de 500 a 999.99 pesos, se ajusten a la unidad de millar inmediata superior.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -456,9 +494,9 @@ IV. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 V. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+Los recargos se causarán hasta por diez años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
 (ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -480,9 +518,11 @@ Cuando los recargos determinados por el contribuyebnte (sic) sean inferiores a l
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO FRACCION I, DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando el contribuyente pague en una sola exhibición el total de las contribuciones omitidas, en forma espontánea en los términos del artículo 73 de este Código, el importe de los recargos no excederá de los causados durante un año. Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece el artículo 66 de este Código, por la parte diferida.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece el artículo 66 de este Código, por la parte diferida.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -510,9 +550,9 @@ Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de 
 
 El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco federal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 21 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-En ningún caso los intereses a cargo del fisco federal excederán de los que se causen en cinco años.
+En ningún caso los intereses a cargo del fisco federal excederán de los que se causen en diez años.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -614,9 +654,27 @@ X. Los socios o accionistas, respecto de las contribuciones que se hubieran caus
 
 XI. Las sociedades que, debiendo inscribir en el registro o libro de acciones o partes sociales a sus socios o accionistas, inscriban a personas físicas que no comprueben haber retenido y enterado, en caso de que así proceda, el impuesto sobre la renta causado por el enajenante de tales acciones o partes sociales o, en su caso, haber recibido copia del dictamen respectivo.
 
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+XII. Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capital transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+XIII. Las empresas residentes en México o los residentes en el extranjero que tengan un establecimiento permanente en el país, por el impuesto que se cause por el otorgamiento del uso o goce temporal de bienes y por mantener inventarios en territorio nacional para ser transformados o que ya hubieran sido transformados en los términos del artículo 1o. de la Ley del Impuesto al Activo, hasta por el monto de dicha contribución.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+XIV. Las personas a quienes residentes en el extranjero les presten servicios personales subordinados o independientes, cuando éstos sean pagados por residentes en el extranjero hasta el monto del impuesto causado.
+
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 26-A.
+
+Los contribuyentes obligados al pago del impuesto sobre la renta en los términos del Título IV, Capítulo VI, Sección I de la Ley del Impuesto sobre la Renta, serán responsables por las contribuciones que se hubieran causado en relación con sus actividades empresariales hasta por un monto que no exceda del valor de los activos afectos a dicha actividad, y siempre que cumplan con todas las obligaciones a que se refieren los artículos 112, 112-A y 112-B del ordenamiento antes citado.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -662,19 +720,25 @@ Quedan incluidos en la contabilidad los registros y cuentas especiales a que obl
 
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por las máquinas registradoras de comprobación fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 29.
 
-Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por las actividades que se realicen, dichos comprobantes deberán reunir los requisitos que señale el Reglamento de este Código. Las personas que adquieran bienes o usen servicios deberán solicitar el comprobante respectivo.
+Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por las actividades que se realicen, dichos comprobantes deberán reunir los requisitos que señala el artículo 29-A de este Código. Las personas que adquieran bienes o usen servicios deberán solicitar el comprobante respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO REMITIRSE A LA FRACCION II DEL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Los comprobantes a que se refiere el párrafo anterior deberán ser impresos en los establecimientos que autorice la Secretaría de Hacienda y Crédito Público que cumplan con los requisitos que al efecto se establezcan mediante reglas de carácter general. Las personas que tengan establecimientos a que se refiere este párrafo deberán proporcionar a la Secretaría de Hacienda y Crédito Público la información relativa a sus clientes, a través de medios magnéticos, en los términos que fije dicha dependencia mediante disposiciones de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Para poder deducir o acreditar fiscalmente con base en los comprobantes a que se refiere el párrafo anterior, quien los utilice deberá cerciorarse de que el nombre, denominación o razón social y clave del registro federal de contribuyentes de quien aparece en los mismos son los correctos.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Asimismo, quienes expidan los comprobantes referidos deberán asegurarse de que el nombre, denominación o razón social y domicilio asentados en los mismos correspondan a la persona a favor de quien se expidan. La Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, podrá establecer facilidades para la identificación del adquirente.
+Asimismo, quienes expidan los comprobantes referidos deberán asegurarse de que el nombre, denominación o razón social de la persona a favor de quien se expidan los comprobantes correspondan con el documento con el que acrediten la clave del registro federal de contribuyentes que se asienta en dichos comprobantes. La Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, podrá establecer facilidades para la identificación del adquirente.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -688,15 +752,39 @@ Los contribuyentes con local fijo tendrán obligación de registrar el valor de 
 
 La Secretaría de Hacienda y Crédito Público llevará el registro de los contribuyentes a quienes proporcione máquinas registradoras de comprobación fiscal y éstos deberán presentar los avisos y conservar la información que señale el reglamento de este Código.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 29-A.
 
-En el transporte de mercancías de importación por el territorio nacional, sus propietarios o poseedores deberán acompañarlas con la documentación necesaria para amparar sus efectos fiscales de conformidad con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+Los comprobantes a que se refiere el artículo 29 de este Código, deberán reunir los siguientes requisitos:
 
-No se tendrá tal obligación en los casos de mercancías o bienes de uso personal, o menaje de casa, así como de productos agrícolas, ganaderos, silvícolas o pesqueros.
+I. Contener impreso el nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien los expida. Tratándose de contribuyentes que tengan más de un local o establecimiento, deberán señalar en los mismos el domicilio del local o establecimiento en el que se expidan los comprobantes.
 
-La verificación del cumplimiento de la obligación a que se refiere este artículo, sólo podrá efectuarse por la autoridad competente de la Secretaría de Hacienda y Crédito Público.
+II. Contener impreso el número de folio.
+
+III. Lugar y fecha de expedición.
+
+IV. Clave del registro federal de contribuyentes de la persona a favor de quien se expida.
+
+V. Cantidad y clase de mercancías o descripción del servicio que amparen.
+
+VI. Valor unitario consignado en número e importe total consignado en número y letra, así como el monto de los impuestos que en los términos de las disposiciones fiscales deban trasladarse, en su caso.
+
+VII. Número y fecha del documento aduanero, así como la aduana por la cual se realizó la importación, tratándose de ventas de primera mano de mercancías de importación.
+
+Los contribuyentes que realicen operaciones con el público en general deberán expedir comprobantes simplificados en los términos que señale el Reglamento de este Código.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 29-B.
+
+En el transporte de mercancías por el territorio nacional, sus propietarios o poseedores, deberán acompañarlas, según sea el caso, con el pedimento de importación; la nota de remisión; de envío; de embarque o despacho, además de la carta de porte. Dicha documentación deberá contener los requisitos a que se refiere el artículo 29-A.
+
+Los propietarios de las mercancías deberán proporcionar, a quienes las transporten, la documentación con que deberán acompañarlas conforme a lo dispuesto en el párrafo anterior.
+
+No se tendrá tal obligación en los casos de mercancías o bienes para uso personal, o menaje de casa.
+
+La verificación del cumplimiento de la obligación a que se refiere este artículo, sólo podrá efectuarse por las autoridades competentes, de conformidad con las Leyes Fiscales Federales.
 
 ###### Artículo 30.
 
@@ -704,11 +792,13 @@ Las personas obligadas a llevar contabilidad deberán conservarla en el lugar a 
 
 Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante el plazo en el que de conformidad con el artículo 67 de este Código se extingan las facultades de las autoridades fiscales, contado a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en que se presente la declaración del último ejercicio en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en que quede firme la resolución que les ponga fin.
+La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante un plazo de diez años, contado a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas. Tratándose de contabilidad y documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de referencia comenzará a computarse a partir del día en que se presente la declaración fiscal del último ejercicio en que se hayan producido dichos efectos. Cuando se trate de la documentación correspondiente a aquéllos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se computará a partir de la fecha en que quede firme la resolución que les ponga fin.
 
-Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 52 de este Código, podrán microfilmar la parte de su contabilidad que señale el reglamento y los microfilms tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezca el propio reglamento; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, será directamente responsable del cumplimiento.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Las personas que dictaminen sus estados financieros por contador público autorizado en los términos del artículo 52 de este Código, podrán microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, la parte de su contabilidad que señale el reglamento, en cuyo caso, los microfilms, discos ópticos y cualquier otro medio que autorice dicha Secretaría, mediante reglas de carácter general tendrán el mismo valor que los originales, siempre que cumplan con los requisitos que al respecto establezca el propio reglamento; tratándose de personas morales, el presidente del consejo de administración o en su defecto la persona física que la dirija, será directamente responsable del cumplimiento. Asimismo, la propia Secretaría podrá autorizar mediante disposiciones de carácter general procedimientos que faciliten a los contribuyentes el cumplimiento de las obligaciones a que se refiere este artículo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -724,15 +814,17 @@ Los contribuyentes que únicamente realicen operaciones con el público en gener
 
 Cuando el contribuyente lleve su contabilidad mediante los sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar dispositivos en los términos señalados por la Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO REMITIRSE AL ARTICULO TERCERO FRACCION I DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO EN CITA.</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Las personas que presten los servicios públicos que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, estarán obligadas a proporcionar a la citada dependencia la información a que se refiere este artículo, relacionándola con la clave que la propia Secretaría determine en dichas reglas. Los prestadores de servicios solicitarán de sus usuarios los datos que requieran para formar la clave; los usuarios deberán informar a los prestadores del servicio, los datos que se requieran para estos efectos.
+Las personas que presten los servicios que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, estarán obligadas a proporcionar a la citada dependencia la información a que se refiere este artículo, relacionándola con la clave que la propia Secretaría determine en dichas reglas. Los prestadores de servicios solicitarán de sus usuarios los datos que requieran para formar la clave antes citada o la misma cuando ya cuente con ella.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Los organismos descentralizados que presten servicios de seguridad social deberán proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus contribuyentes, identificándolos con la clave del registro federal de contribuyentes que les corresponda.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Los usuarios de los servicios mencionados, así como los cuentahabientes de las instituciones de crédito deberán proporcionar a los prestadores de servicios o a las instituciones mencionadas los datos que les requieran para cumplir con la obligación a que se refiere este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -740,11 +832,13 @@ Los organismos descentralizados que presten servicios de seguridad social deber�
 
 Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro federal de contribuyentes, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Hacienda y Crédito Público, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran. Los datos de identificación personal del contribuyente se proporcionarán mediante el "código de barras" en los casos que señale la citada Secretaría en las reglas de carácter general que al efecto expida.
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Hacienda y Crédito Público, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro federal de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Hacienda y Crédito Público, los obligados a presentarlas las formularán en escrito por triplicado que contenga su nombre, denominación o razón social, domicilio y clave de registro federal de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efectos del registro federal de contribuyentes, excepto las declaraciones de pago provisional cuando no tengan impuesto a cargo ni saldo a favor. Cuando se presente una declaración de pago provisional sin impuesto a cargo, se presumirá que no existe impuesto a cargo en las declaraciones de pago provisional posteriores que no sean presentadas.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efectos del registro federal de contribuyentes. Tratándose de las declaraciones de pago provisional, los contribuyentes deberán presentar dichas declaraciones siempre que haya cantidad a pagar o saldo a favor, así como la primera declaración sin pago. Cuando se presente una declaración de pago provisional sin impuesto a cargo, se presumirá que no existe impuesto a pagar en las declaraciones de pago provisional posteriores que no sean presentadas.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
 
@@ -752,9 +846,9 @@ Los representantes, sea cual fuere el nombre con que se les designe, de personas
 
 Las declaraciones, avisos, solicitudes de inscripción en el registro federal de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público. También podrán enviarse por medio del servicio postal en pieza certificada en los casos en que la propia Secretaría lo autorice, conforme a las reglas generales que al efecto expida; en este último caso se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas de correos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de registro federal de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su clave de registro federal de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -794,21 +888,35 @@ Se presentará declaración complementaria conforme a lo previsto por el tercer 
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 21 de este Código, a partir de la fecha en que se debió hacer el pago.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 32-A.
 
-Las personas que se encuentren en alguno de los supuestos de las siguiente fracciones están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado:
+Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a cinco mil millones de pesos, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a diez mil millones de pesos o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Para efectos de lo dispuesto por esta fracción se considera como una sola persona, el conjunto de aquéllas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de éstas deberán cumplir con la obligación establecida por este artículo:
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a cinco mil ochocientos cincuenta millones de pesos, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a once mil setecientos millones de pesos o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
 
-a). Cuando una persona posea más del 50% de las acciones o partes sociales con derecho a voto de una o más personas morales.
+Para efectos de determinar si se está en lo dispuesto por esta fracción se considera como una sola persona moral el conjunto de aquéllas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá cumplir con la obligación establecida por este artículo:
 
-b). Cuando una persona ejerza control efectivo de una o más personas morales, en los términos de lo dispuesto por el artículo 57-C de la Ley del Impuesto sobre la Renta, aún cuando entre ellas no determinen su resultado fiscal consolidado.
+a). Que sean poseídas por una misma persona física o moral en más del 50% de las acciones o partes sociales con derecho a voto de las mismas.
+
+b). Cuando una misma persona física o moral ejerza control efectivo de ellas en los términos de lo dispuesto en el artículo 57-C de la Ley del Impuesto sobre la Renta, aun cuando no determinen resultado fiscal consolidado.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II. Las que estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta. En este caso, el dictamen se realizará en forma simplificada de acuerdo con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+III. Las que se fusionen o se escindan, en el ejercicio en que ocurran dichos actos y en los tres posteriores.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+IV. Los organismos descentralizados, las empresas de participación estatal y los fideicomisos a que se refiere la Ley de Entidades Paraestatales.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Lo dispuesto por este artículo no es aplicable a las instituciones de asistencia o beneficencia autorizadas por las leyes de la materia ni a los contribuyentes a que se refiere el artículo 67-I de la Ley del Impuesto sobre la Renta.
 
@@ -822,11 +930,25 @@ I. Anotar en los esqueletos para expedición de cheques el nombre, denominación
 
 II. Abonar el importe de los cheques que contengan la expresión "para abono en cuenta" a la cuenta que se lleve o abra en favor del beneficiario.
 
-III. Procesar las declaraciones de pago de contribuciones que reciban, en los términos que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+III. Recibir y procesar pagos y declaraciones por cuenta de las autoridades fiscales, en los términos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público. Dicha dependencia y las instituciones de crédito celebrarán convenios en los que se pacten las características que deban reunir los servicios que presten dichas instituciones, así como las remuneraciones que por los mismos les correspondan.
+
+Para tal efecto, la Secretaría de Hacienda y Crédito Público y las instituciones de crédito determinarán de común acuerdo la retribución, considerando el costo promedio variable de operación del conjunto de dichas instituciones, y el rendimiento financiero que les genere la recaudación a partir de su recepción y hasta su concentración y abono en la cuenta que se establezca a favor de la Tesorería de la Federación.
 
 IV. Proporcionar en los términos de la Ley de Instituciones de Crédito y por conducto de la Comisión Nacional Bancaria, la información de los depósitos, servicios o cualquier tipo de operaciones que soliciten las autoridades fiscales a través del mismo conducto.
 
 V. Verificar el nombre, denominación o razón social, domicilio y clave del registro federal de contribuyentes o la que la sustituya de sus cuentahabientes.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 32-C.
+
+Las empresas de factoraje financiero estarán obligadas, en todos los casos, a notificar al deudor la cesión de derechos de crédito operado en virtud de un contrato de factoraje financiero, excepto en el caso de factoraje con mandato de cobranza o factoraje con cobranza delegada.
+
+Estarán obligados a recibir la notificación a que se refiere el párrafo anterior, los deudores de los derechos cedidos a empresas de factoraje financiero.
+
+La notificación a que se refiere este artículo se realizará por cualquiera de los medios previstos por el artículo 45-K de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, dentro de un plazo que no excederá de diez días a partir de la fecha en que operó la cesión correspondiente.
 
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
@@ -836,21 +958,33 @@ V. Verificar el nombre, denominación o razón social, domicilio y clave del reg
 
 ###### Artículo 33.
 
-Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
+Las autoridades fiscales para el mejor cumplimiento de sus facultades, estarán a lo siguiente:
 
-I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
+I. Proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
 
-II. Mantener oficinas en diversos lugares del territorio nacional que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
+a). Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
 
-III. Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia.
+b). Mantener oficinas en diversos lugares del territorio nacional que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
 
-IV. Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige.
+c). Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia.
 
-V. Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
+d). Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cual es el documento cuya presentación se exige.
 
-VI. Efectuar en distintas partes del país reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales períodos de presentación de declaraciones.
+e). Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
 
-VII. Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año.
+f). Efectuar en distintas partes del país reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales periodos de presentación de declaraciones.
+
+g). Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año.
+
+II. Establecerán Programas de Prevención y Resolución de Problemas del Contribuyente, a fin de que los contribuyentes designen síndicos que los representen ante las autoridades fiscales.
+
+III. Promoverán el espíritu de servicio y la superación técnica y profesional del personal hacendario, para lo cual se crea el organismo descentralizado denominado Instituto Nacional de Capacitación Fiscal, con personalidad jurídica y patrimonio propio.
+
+Dicho Instituto tendrá como órganos la Junta de Gobierno y la Dirección General que tendrá la representación del mismo.
+
+EL (sic) patrimonio del Instituto se integrará por las asignaciones que señale el Presupuesto de Egresos de la Federación, las disposiciones legales y administrativas; el 20% de los ingresos que se recauden por conceptos de gastos de ejecución a que se refiere el artículo 150 de este Código; el 2% de los ingresos que se destinen a la formación de los fondos a que se refiere el artículo 70-BIS del propio ordenamiento; así como por los ingresos obtenidos en la enajenación de bienes o prestación de sus servicios.
+
+El régimen laboral al que estarán sujetos los empleados del Instituto Nacional de Capacitación Fiscal será el previsto en el Apartado B del Artículo 123 Constitucional.
 
 ###### Artículo 34.
 
@@ -970,9 +1104,7 @@ VII. Allegarse las pruebas necesarias para formular la denuncia, querella o decl
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-La Secretaría de Hacienda y Crédito Público tendrá las facultades anteriores para comprobar el cumplimiento de las disposiciones sobre control de cambios.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 43.
 
@@ -1168,9 +1300,11 @@ II. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 19
 
 Para determinar contribuciones omitidas, la Secretaría de Hacienda y Crédito Público tendrá por ciertos los hechos u omisiones conocidos por las autoridades fiscales extranjeras, salvo prueba en contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 55.
 
-Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, así como el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
+Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, el valor de los actos, actividades o activos, por los que deban pagar contribuciones, cuando:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1200,9 +1334,11 @@ VI. Se adviertan otras irregularidades en su contabilidad que imposibiliten el c
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 56.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes, el valor de los actos, actividades o activos sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
 
 I. Utilizando los datos de la contabilidad del contribuyente.
 
@@ -1246,9 +1382,11 @@ Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona
 
 Lo dispuesto en este artículo no es aplicable cuando se esté en los supuestos de agravante señalados en el artículo 75 fracción II de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 59.
 
-Para la comprobación de los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
+Para la comprobación de los ingresos, o del valor de los actos, actividades o activos por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
 
 I. Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente.
 
@@ -1267,6 +1405,10 @@ VI. Que los cheques librados contra las cuentas del contribuyente a proveedores 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 VII. Que cuando los contribuyentes obtengan salidas superiores a sus entradas, la diferencia resultante es un ingreso omitido.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VIII. Que los inventarios de materias primas, productos semiterminados y terminados, los activos fijos, gastos y cargos diferidos que obren en poder del contribuyente, así como los terrenos donde desarrolle su actividad son de su propiedad. Los bienes a que se refiere este párrafo se valuarán a sus precios de mercado y en su defecto al de avalúo.
 
 ###### Artículo 60.
 
@@ -1312,7 +1454,9 @@ IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta
 
 Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Hacienda y Crédito Público y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales.
 
-Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Las copias o reproducciones que deriven del microfilm o disco óptico de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
 > <small>(DEROGADO A PARTIR DEL 1o. DE ENERO DE 1995, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1432,7 +1576,9 @@ I. Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que 
 
 II. El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
 
-III. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+III. El contribuyente no pague tres parcialidades sucesivas, con sus recargos.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1446,9 +1592,11 @@ No procederá la autorización a que se refiere este artículo, tratándose de c
 
 No obstante lo previsto en el párrafo anterior, la autorización a que se refiere este artículo no procederá tratándose de contribuciones pagaderas en los plazos a que se refiere dicho párrafo, cuando las mismas se adeuden con motivo de importación o exportación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 67.
 
-Las facultades de las autoridades fiscales, para comprobar el cumplimiento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contado a partir del día siguiente a aquél en que:
+Las facultades de las autoridades fiscales para determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contados a partir del día siguiente a aquél en que:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -1458,17 +1606,25 @@ II. Se presentó o debió haberse presentado declaración o aviso que correspond
 
 III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el registro federal de contribuyentes o no lleve contabilidad, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso el plazo de diez años se computará a partir del día siguiente a aquel en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el registro federal de contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso el plazo de diez años se computará a partir del día siguiente a aquél en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 En los casos de responsabilidad solidaria a que se refiere el artículo 26 fracción III de este Código, el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se interponga algún recurso administrativo o juicio.
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones III y IV del artículo 42 o cuando se interponga algún recurso administrativo o juicio.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación antes mencionadas inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que cada seis meses se levante cuando menos un acta parcial o final, o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+En todo caso, el plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación, adicionado con el plazo por el que no se suspende dicha caducidad, no podrá exceder de diez años.
 
 Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
@@ -1564,6 +1720,10 @@ I. La omisión sea descubierta por las autoridades fiscales.
 
 II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
 
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por contador público ante la Secretaría de Hacienda y Crédito Público, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
+
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
 ###### Artículo 74.
@@ -1600,7 +1760,9 @@ d). Se lleven dos o más libros sociales similares con distinto contenido.
 
 e). Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
 
-f). Que se microfilmen documentos para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados en contravención de las disposiciones fiscales carezcan de valor probatorio.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+f). Que se microfilmen o graben en discos ópticos o en cualquier otro medio que autorice la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
 
 III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
 
@@ -1690,9 +1852,9 @@ II. No presentar solicitud de inscripción a nombre de un tercero cuando legalme
 
 III. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-IV. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la Ley.
+IV. No citar la clave del registro o no utilizar el código de barras que la contenga cuando éste sea obligatorio, o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la Ley.
 
 V. Autorizar actas constitutivas, de fusión o liquidación, de personas morales, sin cumplir lo dispuesto por el artículo 27 de este Código.
 
@@ -1742,11 +1904,11 @@ c). De $60,000.00 en los demás documentos.
 
 IV. De $1'006,000.00 para la establecida en la fracción V.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 81.
 
-Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes o avisos o expedir constancias incompletas o con errores:
+Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, avisos, informaciones, o expedir constancias incompletas o con errores.
 
 I. No presentar las declaraciones, solicitudes, avisos o constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos.
 
@@ -1763,6 +1925,20 @@ IV. No efectuar en los términos de las disposiciones fiscales los pagos provisi
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 V. Presentar declaraciones o solicitudes que sin derecho den lugar a una devolución o compensación.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el Reglamento de este Código, salvo cuando la presentación se efectúe en forma espontánea.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITIRSE A LA FRACCION IV, DEL ARTICULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VII. Presentar declaración de pago provisional sin cantidad a pagar o sin saldo a favor, siempre que la declaración de pago provisional inmediata anterior haya sido presentada sin cantidad a pagar o sin saldo a favor.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VIII. No presentar los dados e informes en los términos del artículo 13 de la Ley del Impuesto sobre Automóviles Nuevos o en los del artículo 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
 
 ###### Artículo 82.
 
@@ -1824,6 +2000,18 @@ IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectua
 
 V. Para la señalada en la fracción V, la multa será del 30% de la devolución o compensación indebida.
 
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VI. Para la señalada en la fracción VI la multa será de $250,000.00.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VII. Para la señalada en la fracción VII la multa será de $50,000.00.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VIII. Para la señalada en la fracción VIII, la multa será de $90,000,000.00.
+
 ###### Artículo 83.
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
@@ -1844,7 +2032,9 @@ VI. No conservar la contabilidad a disposición de las autoridades por el plazo 
 
 VII. No expedir comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan o expedirlos sin requisitos fiscales.
 
-VIII. Microfilmar documentación para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+VIII. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1862,7 +2052,7 @@ XI. No cumplir con los requisitos señalados por los artículos 24, fracción I 
 
 XII. No expedir o acompañar la documentación que ampare mercancías en transporte en territorio nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 84.
 
@@ -1932,8 +2122,6 @@ XI. Por el 20% del valor de la mercancía a la comprendida en la fracción XII.
 
 Son infracciones en las que pueden incurrir las instituciones de crédito en relación a las obligaciones a que se refiere el artículo 32-B de este Código, las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITIRSE A LA FRACCION III DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL CITADO DECRETO.</small>
-
 I. No anotar en los esqueletos para expedición de cheques el nombre, denominación o razón social y la clave que corresponda al primer titular de la cuenta.
 
 II. Pagar en efectivo o abonar en cuenta distinta a la del beneficiario un cheque que tenga inserta la expresión “para abono en cuenta”.
@@ -1958,15 +2146,39 @@ I. De $36,000.00 a $1'677,000.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-III. De $60,000.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De $5,000.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA DÉCIMA QUINTA RESOLUCIÓN QUE REFORMA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1991, D.O.F. DEL 11 DE NOVIEMBRE DE 1991.</small>
 
 IV. De $599,000.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
 
 V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción V.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 84-C.
+
+Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 84-D.
+
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $50,000.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $150,000.00 por cada una de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 84-E.
+
+Se considera infracción en la que pueden incurrir las empresas en relación a las obligaciones a que se refieren el primero y segundo párrafos del artículo 32-C de este Código, el no efectuar la notificación de la cesión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 84-F.
+
+A quien cometa la infracción a que se refiere el artículo 84-E, se impondrá una multa equivalente al 2% del valor del crédito cedido.
 
 ###### Artículo 85.
 
@@ -2001,6 +2213,26 @@ II. De $168,000.00 a $6'948,000.00 a la establecida en la fracción II.
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 III. De 4 al millar, sobre el monto de los ingresos provenientes de la actividad preponderante que tenga el contribuyente, en el ejercicio inmediato anterior por el que se hubiera o debió presentarse declaración a la establecida en la fracción III.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 86-A.
+
+Son infracciones relacionadas con la obligación de adherir marbetes a los envases que contengan bebidas alcohólicas en los términos de la Ley del Impuesto Especial sobre Producción y Servicios, las siguientes:
+
+I. No adherir marbetes a los envases.
+
+II. Hacer cualquier uso diferente de los marbetes al de adherirlos a los envases que contengan bebidas alcohólicas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 86-B.
+
+A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
+
+I. De $30,000.00 a la comprendida en la fracción I, por cada marbete no adherido.
+
+II. De $50,000.00 a la comprendida en la fracción II, por cada marbete.
 
 ###### Artículo 87.
 
@@ -2146,9 +2378,11 @@ Para los efectos de este Código, el delito es continuado cuando se ejecuta con 
 
 La acción penal en los delitos fiscales perseguibles por querella de la Secretaría de Hacienda y Crédito Público, prescribirá en tres años contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se cmputarán (sic) a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal aplicable en materia federal.
 
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 101.
 
-Para que proceda la condena condicional cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal aplicable en materia federal, será necesario comprobar que el interés fiscal está satisfecho o garantizado.
+Para que proceda la condena condicional, la sustitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, además de los requisitos señalados en el Código Penal aplicable en Materia Federal, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 102.
 
@@ -2162,9 +2396,9 @@ III. De importación o exportación prohibida.
 
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregadas legalmente por las autoridades o por las personas autorizadas para ello.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de cincuenta veces el salario o del diez por ciento de los impuestos causados. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cuarenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de cincuenta veces el salario o del diez por ciento de los impuestos causados. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco porciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
 ###### Artículo 103.
 
@@ -2192,13 +2426,13 @@ IX. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado par
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I. De tres meses a seis años, si el monto de los impuestos omitidos no excede de 500 veces el salario.
+I. De tres meses a seis años, si el monto de los impuestos omitidos, incluyendo actualización y recargos, no excede de $30,000,000.00.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-II. De tres a nueve años, si el monto de los impuestos omitidos excede de 500 veces el salario.
+II. De tres a nueve años, si el monto de los impuestos omitidos, incluyendo actualización y recargos, excede de $30,000,000.00.
 
 III. De tres meses a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2212,9 +2446,13 @@ Para determinar el valor de las mercancías y el monto de los impuestos omitidos
 
 Será sancionado con las mismas penas del contrabando, quien:
 
-I. Adquiera mercancía extranjera que no sea para su uso personal, la enajene o comercie con ella, sin la documentación que compruebe su legal estancia en el país.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-II. Tenga en su poder por cualquier título, mercancías extranjeras que no sean para su uso personal, sin la documentación a que se refiere la fracción anterior.
+I. Adquiera mercancía extranjera que no sea para su uso personal, la enajene o comercie con ella, sin la documentación que compruebe su legal estancia en el país, o sin el permiso previo de la autoridad federal competente, o sin marbetes tratándose de envases que contengan bebidas alcohólicas.
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+II. Tenga en su poder por cualquier título, mercancías extranjeras que no sean para su uso personal, sin la documentación o sin el permiso previo de la autoridad federal competente a que se refiere la fracción anterior, o sin marbetes tratándose de envases que contengan bebidas alcohólicas.
 
 III. Ampare con documentación o factura auténtica, mercancía extranjera distinta de la que cubre la documentación expedida.
 
@@ -2229,6 +2467,10 @@ VI. Tenga en su poder algún vehículo de procedencia extranjera sin comprobar s
 VII. Enajene o adquiera por cualquier título sin autorización legal, vehículos importados temporalmente.
 
 VIII. Enajene o adquiera por cualquier título, vehículos importados definitivamente para transitar en zonas libres o franjas fronterizas, o provisionalmente para circular en las citadas franjas fronterizas, si el adquirente no reside en dichas zonas o franjas.
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+IX. Retire de la aduana, envases que contengan bebidas alcohólicas que no tengan adheridos los marbetes a que obligan las disposiciones legales.
 
 ###### Artículo 106.
 
@@ -2274,9 +2516,9 @@ Cuando los delitos a que se refiere este artículo sean calificados, la sanción
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco federal.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de 500 veces el salario; cuando exceda, la pena será de tres a nueve años de prisión.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado, incluyendo actualización y recargos no excede de $30,000,000.00; cuando exceda, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -2290,7 +2532,9 @@ Para los fines de este artículo y del siguiente, se tomará en cuenta el monto 
 
 Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
 
-I. Consigne en las declaraciones que presente para efectos fiscales, ingresos menores a los realmente obtenidos o deducciones falsas.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+I. Consigne en las declaraciones que presente para efectos fiscales, deducciones falsas o ingresos menores a los realmente obtenidos o determinados conforme a las leyes. En la misma forma será sancionada aquella persona física que perciba dividendos, honorarios o en general preste un servicio personal independiente o esté dedicada a actividades empresariales, cuando realice en un ejercicio fiscal erogaciones superiores a los ingresos declarados en el propio ejercicio y no compruebe a la autoridad fiscal el origen de la discrepancia en los plazos y conforme al procedimiento señalado en el artículo 75 de la Ley del Impuesto sobre la Renta.
 
 II. Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
 
@@ -2340,11 +2584,11 @@ III. Oculte, altere o destruya total o parcialmente los sistemas y registros con
 
 IV. Determine pérdidas con falsedad.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 112.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del Fisco Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 500 veces el salario; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $20,000,000.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2354,7 +2598,9 @@ Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositari
 
 Se impondrá sanción de tres meses a seis años de prisión, al que dolosamente altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
 
-Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -2362,11 +2608,11 @@ Igual sanción se aplicará al que dolosamente altere o destruya las máquinas r
 
 Se impondrá sanción de tres meses a seis años de prisión, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente. Las mismas penas se impondrán a los servidores públicos que realicen la revisión física de mercancías en transporte en lugar distinto a los recintos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 115.
 
-Se impondrá de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de 200 veces el salario; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $8,000,000.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -2428,9 +2674,7 @@ II. Nieguen la devolución de cantidades que procedan conforme a la Ley.
 
 III. Siendo diversas de las anteriores, dicten las autoridades aduaneras.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-No procederá el recurso de revocación contra las resoluciones que decidan el procedimiento administrativo de investigación y audiencia.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 118.
 
@@ -2896,17 +3140,25 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a una vez el salario mínimo general diario de la zona económica correspondiente al Distrito Federal, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al año.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $50,000.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41 fracción II y 141 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $9,000,000.00. Las cantidades a que se refiere este párrafo y el anterior, se actualizarán en los términos del artículo 17-A de este Código.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41 fracción II y 141 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
 
 Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales federales para el establecimiento de fondos de productividad y para financiar los programas de formación de funcionarios fiscales, salvo que por ley estén destinados a otros fines.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
 
 #### Sección Primera. Disposiciones generales
 
@@ -3724,7 +3976,7 @@ IV. El de interrupción por causa de muerte o disolución.
 
 V. La recusación por causa de impedimento.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
 
@@ -4130,7 +4382,7 @@ II. La que mande citar a los testigos o a un tercero.
 
 III. El requerimiento a la parte que debe cumplirlo.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADa, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
 
@@ -4651,3 +4903,29 @@ La reforma al Anexo 17 de la presente Resolución, en lo relativo al numeral 3 d
 ###### ARTICULO TERCERO.
 
 La modificación al instructivo de llenado de la forma oficial de "Pedimento de Importación", a que se refiere el ARTICULO CUARTO de la presente Resolución, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 1991.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de lo dispuesto en el Código Fiscal de la Federación, se aplicarán las siguientes disposiciones transitorias:
+
+I.- La reforma a lo dispuesto por el octavo párrafo del artículo 21 del Código Fiscal de la Federación, entrará en vigor a partir del 1o. de enero de 1993.
+
+II.- La obligación de expedir comprobantes impresos en los establecimientos que autorice la Secretaría de Hacienda y Crédito Público, a que se refiere el segundo párrafo del artículo 29 del Código Fiscal de la Federación, entrará en vigor a partir del 1o. de julio de 1992.
+
+III.- Quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+IV.- Lo dispuesto en el artículo 81 fracción VII, entrará en vigor el 1o. de febrero de 1992.
+
+V.- Lo dispuesto en el artículo 14-A del Código Fiscal de la Federación, será aplicable a las operaciones efectuadas a partir del 22 de noviembre de 1991.
+
+Los contribuyentes podrán sujetarse a lo dispuesto por dicho artículo en el caso de que éstos hubieran llevado a cabo una escisión o fusión de sociedades entre la citada fecha y el 31 de diciembre de 1991.
+
+VI.- Para los efectos del tercer párrafo del artículo 30 y del segundo párrafo del artículo 67 del Código Fiscal de la Federación, la obligación de mantener la contabilidad por 10 años y el plazo por el cual se extinguirán las facultades de determinación en relación al término por el cual se encuentran obligados a mantener su contabilidad, respectivamente, será en ambos casos de seis años en 1992; de siete años en 1993; de ocho años en 1994 y de nueve años en 1995.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
