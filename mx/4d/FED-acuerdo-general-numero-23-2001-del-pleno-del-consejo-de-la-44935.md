@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-05-29"
+last_updated: "2003-06-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,25 +19,741 @@ issue_date: "2001-04-16"
 ---
 # ACUERDO GENERAL NUMERO 23/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO
+ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2003.
 
-Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
-LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente;
+ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
 
-DECRETO
+CONSIDERANDO
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+PRIMERO.- Que por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, el veintidós de agosto de mil novecientos noventa y seis y el once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando la estructura y competencia del Poder Judicial de la Federación;
 
-NÚMERO 129
+SEGUNDO.- Que en los artículos 94, párrafo segundo, 99 y 100, párrafo octavo, de la Carta Magna, 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, se establece que la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, estarán a cargo del Consejo de la Judicatura Federal, y que éste es el órgano facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley;
 
-LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO
+TERCERO.- Que el artículo 17 constitucional establece, entre otras cosas, que los tribunales estarán expeditos para impartir justicia en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita;
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+CUARTO.- Que en términos de los artículos 81, fracciones IV, V y VI, 144 y 145 de la Ley Orgánica del Poder Judicial de la Federación, corresponde al Consejo de la Judicatura Federal determinar, mediante Acuerdos Generales, el número y los límites territoriales de los circuitos en que se divida el territorio de la República, así como el número, delimitación territorial y, en su caso, especialización por materia, de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito en cada uno de los mencionados circuitos. Asimismo, que cada uno de los circuitos comprenderá los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal, y que en cada distrito deberá establecerse cuando menos un juzgado;
+
+QUINTO.- Que para regular los temas antes señalados se encuentra vigente el Acuerdo General 16/1998, de veinte de mayo de mil novecientos noventa y ocho, del Pleno del Consejo de la Judicatura Federal, el cual sustituyó al Acuerdo 1/1993, de trece de enero de mil novecientos noventa y tres, el cual fue actualizado mediante el diverso Acuerdo número 1/1994, del primero de febrero de mil novecientos noventa y cuatro, ambos expedidos por el Pleno de la Suprema Corte de Justicia de la Nación;
+
+SEXTO.- Que con motivo de la creación de órganos jurisdiccionales y su especialización, así como la creación de nuevos circuitos y su delimitación territorial por parte del Pleno del Consejo de la Judicatura Federal, el referido Acuerdo General 16/1998 ha sido modificado durante un lapso de más de dos años y por tal razón, se hace evidente la necesidad de emitir uno nuevo que lo sustituya y actualice.
+
+En consecuencia, con fundamento en las citadas disposiciones constitucionales y legales, este Pleno del Consejo de la Judicatura Federal expide el siguiente
+
+ACUERDO
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+PRIMERO.-El territorio de la República se divide en veintinueve circuitos, cuya circunscripción territorial es la siguiente:
+
+I.- PRIMER CIRCUITO: Distrito Federal.
+
+II.- SEGUNDO CIRCUITO: Estado de México.
+
+III.- TERCER CIRCUITO: Estados de Colima y Jalisco.
+
+IV.- CUARTO CIRCUITO: Estado de Nuevo León.
+
+V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+
+> <small>(REFORMADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+VI.- SEXTO CIRCUITO: Estado de Puebla.
+
+VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+
+VIII.- OCTAVO CIRCUITO: Estado de Coahuila y los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+
+IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
+
+X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+
+XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+
+XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
+
+XV.- DECIMOQUINTO CIRCUITO: Estado de Baja California y municipio de San Luis Río Colorado del Estado de Sonora.
+
+XVI.- DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
+
+XVII.- DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
+
+XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
+
+XIX.- DECIMONOVENO CIRCUITO: Estado de Tamaulipas.
+
+XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
+
+XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
+
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
+
+XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Aguascalientes y Zacatecas.
+
+XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+
+XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
+XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+
+SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
+
+I.- PRIMER CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 29/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2003)</small>
+
+1.- Cincuenta y tres tribunales colegiados especializados: diez en materia penal, catorce en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+
+2.- Seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 62/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+3.- Cincuenta juzgados de distrito en el Distrito Federal especializados: dieciocho en materia de procesos penales federales, seis de amparo en materia penal, once en materia administrativa, doce en materia civil y tres en materia de trabajo, todos con sede en el Distrito Federal.
+
+II.- SEGUNDO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+1.- Diez tribunales colegiados especializados: dos en materia penal, uno en materia administrativa, cuatro en materia civil y uno en materia de trabajo, con residencia en Toluca y dos tribunales colegiados en materia administrativa, con residencia en Naucalpan de Juárez.
+
+2.- Tres tribunales unitarios: dos con sede en Toluca y uno con residencia en Ciudad Nezahualcóyotl.
+
+3.- Trece juzgados de distrito en el Estado de México: tres especializados en materia de procesos penales federales y dos especializados en materias de amparo y de juicios civiles federales, todos con residencia en Toluca; seis juzgados de distrito mixtos con sede en Naucalpan de Juárez y dos con sede en Ciudad Nezahualcóyotl.
+
+III.- TERCER CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
+
+1.- Doce tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2001)</small>
+
+2.- Cuatro tribunales unitarios con residencia en Guadalajara.
+
+3.- Dieciséis juzgados de distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; tres en materia administrativa y cuatro en materia civil, todos con residencia en Guadalajara.
+
+4.- Dos juzgados de distrito en el Estado de Colima, con sede en la ciudad del mismo nombre.
+
+IV.- CUARTO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 89/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+
+1.- Diez tribunales colegiados especializados: dos en materia penal, dos en materia administrativa, tres en materia civil y tres en materia de trabajo, todos con residencia en Monterrey.
+
+2.- Dos tribunales unitarios con residencia en Monterrey.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 44/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2002)</small>
+
+3.- Diez juzgados de Distrito especializados en el Estado de Nuevo León: cuatro en materia penal, tres en materia administrativa, y tres en materias civil y de trabajo, todos con residencia en Monterrey.
+
+V.- QUINTO CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Hermosillo.
+
+2.- Cuatro tribunales unitarios con sede en Hermosillo.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+3.- Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
+
+VI.- SEXTO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+1.- Nueve tribunales colegiados especializados: dos en materia penal, tres en materia administrativa, tres en materia civil y uno en materia de trabajo, todos con residencia en Puebla.
+
+2.- Un tribunal unitario con sede en Puebla.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 58/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+3.- Siete juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+
+4.- (DEROGADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)
+
+VII.- SEPTIMO CIRCUITO:
+
+1.- Siete tribunales colegiados especializados: dos en materia penal y dos en materias administrativa y de trabajo, con residencia en Boca del Río; y tres en materia civil con sede en Xalapa.
+
+2.- Un tribunal unitario con residencia en Boca del Río.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+3.- Nueve juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan y uno con residencia en Poza Rica.
+
+VIII.- OCTAVO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+1.- Cuatro tribunales colegiados: tres con residencia en Torreón y uno con sede en Saltillo.
+
+2.- Dos tribunales unitarios con sede en Torreón.
+
+3.- Seis juzgados de distrito en el Estado de Coahuila: dos con residencia en Saltillo, uno con sede en Piedras Negras, uno con residencia en Monclova y dos en La Laguna con sede en Torreón.
+
+IX.- NOVENO CIRCUITO:
+
+1.- Dos tribunales colegiados con residencia en San Luis Potosí.
+
+2.- Un tribunal unitario con sede en San Luis Potosí.
+
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
+3.- Cinco juzgados de distrito en el Estado de San Luis Potosí: cuatro con residencia en la ciudad del mismo nombre y uno con sede en Ciudad Valles.
+
+X.- DECIMO CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Villahermosa.
+
+2.- Dos tribunales unitarios con sede en Villahermosa.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 48/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2001)</small>
+
+3.- Cuatro juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa.
+
+4.- Dos juzgados de distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
+
+XI.- DECIMOPRIMER CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Morelia.
+
+2.- Dos tribunales unitarios con sede en Morelia.
+
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+3.- Ocho juzgados de distrito en el Estado de Michoacán: cuatro con residencia en Morelia y cuatro con sede en Uruapan.
+
+XII.- DECIMOSEGUNDO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+1.- Cuatro tribunales colegiados con residencia en Mazatlán.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+2.- Dos tribunales unitarios con sede en Mazatlán.
+
+3.- Diez juzgados de distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+
+XIII.- DECIMOTERCER CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Oaxaca.
+
+2.- Dos tribunales unitarios con sede en Oaxaca.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 2001)</small>
+
+3.- Ocho juzgados de distrito en el Estado de Oaxaca: seis con residencia en Oaxaca y dos con sede en Salina Cruz.
+
+XIV.- DECIMOCUARTO CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Mérida.
+
+2.- Un tribunal unitario con sede en Mérida.
+
+3.- Cuatro juzgados de distrito en el Estado de Yucatán, con residencia en Mérida.
+
+4.- Dos juzgados de distrito en el Estado de Campeche, con sede en la ciudad del mismo nombre.
+
+XV.- DECIMOQUINTO CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Mexicali.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 41/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2001)</small>
+
+2.- Seis tribunales unitarios: dos con sede en Mexicali y cuatro con residencia en Tijuana.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 42/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2001)</small>
+
+3.- Trece juzgados de distrito en el Estado de Baja California: cuatro con sede en Mexicali, siete con residencia en Tijuana y dos con sede en Ensenada.
+
+XVI.- DECIMOSEXTO CIRCUITO:
+
+1.- Cinco tribunales colegiados, cuatro con residencia en Guanajuato y uno con sede en León.
+
+2.- Dos tribunales unitarios con sede en Guanajuato.
+
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 33/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+3.- Siete juzgados de distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y dos con residencia en Celaya.
+
+XVII.- DECIMOSEPTIMO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+
+1.- Cinco tribunales colegiados: cuatro con residencia en Chihuahua y uno con sede en Juárez.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 40/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2002)</small>
+
+2.- Cuatro tribunales unitarios: dos con residencia en Chihuahua y dos con sede en Juárez.
+
+3.- Siete juzgados de distrito en el Estado de Chihuahua: tres con residencia en la ciudad del mismo nombre y cuatro con sede en Juárez.
+
+XVIII.- DECIMOCTAVO CIRCUITO:
+
+1.- Dos tribunales colegiados con residencia en Cuernavaca.
+
+2.- Un tribunal unitario con sede en Cuernavaca.
+
+3.- Cuatro juzgados de distrito en el Estado de Morelos, con residencia en Cuernavaca.
+
+XIX.- DECIMONOVENO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+1.- Cinco tribunales colegiados: cuatro con residencia en Ciudad Victoria y uno con sede en Reynosa.
+
+2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+3.- Once juzgados de Distrito en el Estado de Tamaulipas: dos con sede en Ciudad Victoria, dos con residencia en Nuevo Laredo, dos con sede en Matamoros, tres con residencia en Reynosa y dos con sede en Tampico.
+
+XX.- VIGESIMO CIRCUITO:
+
+1.- Tres tribunales colegiados con residencia en Tuxtla Gutiérrez.
+
+2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
+
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 39/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2003)</small>
+
+3.- Seis juzgados de Distrito en el Estado de Chiapas: cuatro con residencia en Tuxtla Gutiérrez y dos con sede en Tapachula.
+
+XXI.- VIGESIMO PRIMER CIRCUITO:
+
+1.- Cuatro tribunales colegiados: dos con residencia en Chilpancingo y dos con sede en Acapulco.
+
+2.- Dos tribunales unitarios: uno con sede en Chilpancingo y el otro con residencia en Acapulco.
+
+3.- Seis juzgados de distrito en el Estado de Guerrero: uno con residencia en Chilpancingo, cuatro con sede en Acapulco y uno con residencia en Iguala.
+
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO:
+
+1.- Dos Tribunales Colegiados con residencia en Querétaro.
+
+2.- Un Tribunal Unitario con sede en Querétaro.
+
+3.- Tres Juzgados de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre.
+
+XXIII.- VIGESIMO TERCER CIRCUITO:
+
+1.- Tres tribunales colegiados: uno con residencia en Zacatecas y dos con sede en Aguascalientes.
+
+2.- Un tribunal unitario con sede en Zacatecas.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 48/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2002)</small>
+
+3.- Dos juzgados de distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y uno con sede en Guadalupe.
+
+4.- Tres juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+
+XXIV.- VIGESIMO CUARTO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 35/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+1.- Dos tribunales colegiados con residencia en Tepic.
+
+2.- Un tribunal unitario con sede en Tepic.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 61/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
+3.- Tres juzgados de distrito en el Estado de Nayarit, con residencia en Tepic.
+
+XXV.- VIGESIMO QUINTO CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en Durango.
+
+2.- Un tribunal unitario con sede en Durango.
+
+3.- Tres juzgados de distrito en el Estado de Durango, con sede en la ciudad del mismo nombre.
+
+XXVI.- VIGESIMO SEXTO CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en La Paz.
+
+2.- Un tribunal unitario con sede en La Paz.
+
+3.- Dos juzgados de distrito en el Estado de Baja California Sur, con residencia en La Paz.
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en Cancún.
+
+2.- Un tribunal unitario con sede en Cancún.
+
+3.- Tres juzgados de distrito en el Estado de Quintana Roo, uno con residencia en Chetumal y dos con sede en Cancún.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO:
+
+1.- Un tribunal colegiado con residencia en Tlaxcala.
+
+2.- Un tribunal unitario con sede en Tlaxcala.
+
+3.- Dos juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO:
+
+1.- Dos Tribunales Colegiados con residencia en Pachuca.
+
+2.- Un Tribunal Unitario con sede en Pachuca.
+
+3.- Dos Juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca.
+
+TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que enseguida se indica:
+
+I.- PRIMER CIRCUITO: Distrito Federal.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+II.- SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en materia penal, en materia civil y en materia de trabajo, es el Estado de México.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+La del Primer Tribunal Colegiado en Materia Administrativa con residencia en Toluca, será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en dicha ciudad.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+
+Por lo que hace al Segundo y Tercer Tribunales Colegiados en Materia Administrativa con residencia en Naucalpan de Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de México, con residencia en la citada ciudad y en Ciudad Nezahualcóyotl.
+
+Por lo que toca a los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
+
+En cuanto al tribunal unitario con residencia en Ciudad Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de México, con sede en la referida ciudad.
+
+III.- TERCER CIRCUITO: Estados de Colima y Jalisco.
+
+IV.- CUARTO CIRCUITO: Estado de Nuevo León.
+
+V.- QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
+
+> <small>(REFORMADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+VI.- SEXTO CIRCUITO: Estado de Puebla.
+
+VII.- SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+
+> <small>(REFORMADA POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE DICIEMBRE DE 2002)</small>
+
+VIII.- OCTAVO CIRCUITO: Respecto de los tribunales colegiados con residencia en Torreón, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en La Laguna, con sede en Torreón, Coahuila.
+
+En cuanto al tribunal colegiado con residencia en Saltillo, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Coahuila, con sedes en Saltillo, Piedras Negras y Monclova.
+
+IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
+
+X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+
+XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
+
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
+
+XIII.- DECIMOTERCER CIRCUITO: Estado de Oaxaca.
+
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
+
+XV.- DECIMOQUINTO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora.
+
+En relación con los tribunales unitarios con residencia en Mexicali será igual a la establecida para los juzgados de distrito en el Estado de Baja California, con sede en dicha ciudad.
+
+En cuanto a los tribunales unitarios con residencia en Tijuana será la misma que la establecida para los juzgados de distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
+
+XVI.- DECIMOSEXTO CIRCUITO: Respecto de los tribunales colegiados con residencia en Guanajuato, su jurisdicción territorial será el Estado de Guanajuato y tendrán conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo que se originen en los juzgados de distrito en el Estado de Guanajuato, con sede en la ciudad del mismo nombre y en los juzgados de distrito con residencia en Celaya.
+
+En cuanto al tribunal colegiado con residencia en León, su jurisdicción territorial será el Estado de Guanajuato y tendrá conocimiento exclusivo para conocer de las quejas a que alude la fracción XI del artículo 95 de la Ley de Amparo, que se originen en los juzgados de distrito en el Estado de Guanajuato, con residencia en León.
+
+> <small>(REFORMADA POR EL PUNTO SEPTIMO ACUERDO GENERAL 77/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2001)</small>
+
+XVII.- DECIMOSEPTIMO CIRCUITO: En relación con los tribunales unitarios con residencia en Chihuahua, será igual a la establecida para los juzgados de distrito en el Estado de Chihuahua, con residencia en dicha ciudad.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 40/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE AGOSTO DE 2002)</small>
+
+Por lo que hace a los tribunales unitarios con residencia en Juárez, será la misma que la establecida para los juzgados de Distrito en el Estado de Chihuahua, con sede en la citada ciudad.
+
+XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+XIX.- DECIMONOVENO CIRCUITO:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+La jurisdicción territorial de los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+En cuanto al tribunal colegiado con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
+
+La jurisdicción territorial del tribunal unitario con sede en Ciudad Victoria será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
+
+En lo referente al tribunal unitario con residencia en Nuevo Laredo, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en dicha ciudad.
+
+Por cuanto hace al tribunal unitario con sede en Matamoros, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la citada ciudad.
+
+En relación con el tribunal unitario con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en la ciudad aludida.
+
+XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
+
+XXI.- VIGESIMO PRIMER CIRCUITO: Respecto de los tribunales colegiados y del tribunal unitario con residencia en Chilpancingo, su jurisdicción territorial será igual a la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en la citada ciudad y en la de Iguala.
+
+En cuanto a los tribunales colegiados y al tribunal unitario con residencia en Acapulco, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Guerrero, con sede en dicha ciudad.
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO: Respecto de los tribunales colegiados con residencia en Querétaro, su jurisdicción territorial será la entidad del mismo nombre.
+
+Por cuanto hace a los tribunales colegiados con sede en Pachuca, su jurisdicción territorial será el Estado de Hidalgo.
+
+La jurisdicción territorial del tribunal unitario comprenderá los Estados de Hidalgo y Querétaro.
+
+XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia en Zacatecas, su jurisdicción territorial será la Entidad del mismo nombre.
+
+En cuanto a los tribunales colegiados con sede en Aguascalientes, su jurisdicción territorial será el Estado del mismo nombre.
+
+La jurisdicción territorial del tribunal unitario comprenderá los Estados de Aguascalientes y Zacatecas.
+
+XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
+
+XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
+XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
+
+CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
+
+I.- PRIMER CIRCUITO:
+
+Los juzgados de distrito con residencia en el Distrito Federal ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de aquél.
+
+II.- SEGUNDO CIRCUITO:
+
+Los juzgados de distrito en Materia de Procesos Penales Federales en el Estado de México y los juzgados de distrito en Materias de Amparo y de Juicios Civiles Federales en el Estado de México, con residencia en Toluca, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jalatlaco, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+
+Los juzgados de distrito en el Estado de México, con residencia en Naucalpan de Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Aculco, Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chapa de Mota, Ecatepec, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Jaltenco, Jilotepec, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Polotitlán, Soyaniquilpan de Juárez, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Villa del Carbón y Zumpango.
+
+Los juzgados de distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl, ejercerán jurisdicción territorial en el distrito judicial conformado por los siguientes municipios: Acolman, Amecameca, Atenco, Atlautla, Axapusco, Ayapango, Cocotitlán, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Nopaltepec, Otumba, Ozumba, Papalotla, San Martín de las Pirámides, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco y Valle de Chalco Solidaridad.
+
+III.- TERCER CIRCUITO:
+
+Los juzgados de distrito en el Estado de Jalisco, con residencia en Guadalajara, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+Los juzgados de distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+IV.- CUARTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Nuevo León, con residencia en Monterrey, ejercerán jurisdicción territorial en el distrito judicial que conforma el territorio de la propia Entidad Federativa.
+
+V.- QUINTO CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Hermosillo, ejercerán jurisdicción territorial en el Distrito Judicial conformado por los municipios de Aconchi, Arivechi, Bacadehuachi, Bacanora, Banámichi, Baviácora, Carbó, Divisaderos, Empalme, Granados, Guaymas, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Pesqueira y Yécora.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+Los juzgados de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el Distrito Judicial conformado por los municipios de Altar, Atil, Benjamín Hill, Caborca, Cucurpe, General Plutarco Elías Calles, Imuris, Magdalena, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
+
+Los juzgados de distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Alamos, Bácum, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa, Quiriego, Rosario y San Ignacio Río Muerto.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
+
+El juzgado de Distrito en el Estado de Sonora, con residencia en Agua Prieta, ejercerá jurisdicción territorial en el Distrito Judicial conformado por los municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Cananea, Cumpas, Fronteras, Huachinera, Naco, Nacozari de García y Villa Hidalgo.
+
+VI.- SEXTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+VII.- SEPTIMO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
+
+Los juzgados de distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacán, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, La Perla, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, Playa Vicente, Puente Nacional, Rafael Delgado, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacán, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Zongolica.
+
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+Los juzgados de distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Huayacocotla, Llamatlán, Ixcatepec, Ixhuatlán de Madero, Naranjos Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Temapache, Tempoal, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+El Juzgado de Distrito en el Estado de Veracruz, con sede en Poza Rica, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
+
+VIII.- OCTAVO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Coahuila, con residencia en Saltillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Arteaga, General Cepeda, Parras, Ramos Arizpe y Saltillo.
+
+El juzgado de distrito en el Estado de Coahuila, con residencia en Piedras Negras, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuña, Allende, Guerrero, Hidalgo, Jiménez, Juárez, Morelos, Múzquiz, Nava, Piedras Negras, Progreso, Sabinas, San Juan de Sabinas, Villa Unión y Zaragoza.
+
+El juzgado de distrito en el Estado de Coahuila, con residencia en Monclova, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento, San Buenaventura y Sierra Mojada.
+
+Los juzgados de distrito en La Laguna, con residencia en Torreón, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Francisco I. Madero, Matamoros, San Pedro, Torreón y Viesca del Estado de Coahuila; y, General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo del Estado de Durango.
+
+> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE OCTUBRE DE 2001)</small>
+
+IX.- NOVENO CIRCUITO:
+
+Los juzgados de distrito en el Estado de San Luis Potosí, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahualulco, Armadillo de los Infante, Catorce, Cedral, Cerritos, Cerro de San Pedro, Charcas, Guadalcázar, Matehuala, Mexquitic de Carmona, Moctezuma, Salinas, San Luis Potosí, San Nicolás Tolentino, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tierranueva, Vanegas, Venado, Villa de Arista, Villa de Arriaga, Villa de Guadalupe, Villa de la Paz, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Villa Juárez y Zaragoza.
+
+El juzgado de distrito en el Estado de San Luis Potosí, con sede en Ciudad Valles, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Alaquines, Aquismón, Axtla de Terrazas, Cárdenas, Ciudad del Maíz, Ciudad Valles, Ciudad Fernández, Coxcatlán, Ebano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Rayón, Rioverde, San Antonio, San Ciro de Acosta, San Martín Chalchicuautla, San Vicente Tancuayalab, Santa Catarina, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz de Santos, Tanlajás, Tanquián de Escobedo, y Xilitla.
+
+X.- DECIMO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Tabasco, con residencia en Villahermosa, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+Los juzgados de distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
+
+XI.- DECIMOPRIMER CIRCUITO:
+
+Los juzgados de distrito en el Estado de Michoacán, con residencia en Morelia, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acuitzio, Alvaro Obregón, Angamacutiro, Angangueo, Aporo, Ario, Carácuaro, Coeneo, Contepec, Copándaro, Cuitzeo, Charo, Chucándiro, Churintzio, Churumuco, Epitacio Huerta, Erongarícuaro, Hidalgo, Huandacareo, Huaniqueo, Huetamo, Huiramba, Indaparapeo, Irimbo, Jiménez, José Sixto Verduzco, Juárez, Jungapeo, Lagunillas, La Huacana, La Piedad, Madero, Maravatío, Morelia, Morelos, Nocupétaro, Nuevo Urecho, Numarán, Ocampo, Panindícuaro, Pátzcuaro, Penjamillo, Puruándiro, Queréndaro, Quiroga, San Lucas, Santa Ana Maya, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tarímbaro, Tiquicheo de Nicolás Romero, Tlalpujahua, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Zacapu, Zináparo, Zinapécuaro y Zitácuaro.
+
+Los juzgados de distrito en el Estado de Michoacán, con residencia en Uruapan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aguililla, Apatzingán, Aquila, Arteaga, Briseñas, Buenavista, Coahuayana, Coalcomán de Vázquez Pallares, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Cherán, Chilchota, Chinicuila, Ecuandureo, Gabriel Zamora, Ixtlán, Jacona, Jiquilpan, Lázaro Cárdenas, Los Reyes, Marcos Castellanos, Múgica, Nahuatzen, Nuevo Parangaricutiro, Pajacuarán, Paracho, Parácuaro, Peribán, Purépero, Sahuayo, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tepalcatepec, Tingambato, Tinguindín, Tocumbo, Tumbiscatío, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zamora y Ziracuaretiro.
+
+XII.- DECIMOSEGUNDO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Sinaloa, con residencia en Culiacán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Culiacán y Navolato.
+
+Los juzgados de distrito en el Estado de Sinaloa, con residencia en Los Mochis, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahome, Angostura, Badiraguato, Choix, El Fuerte, Guasave, Mocorito, Salvador Alvarado y Sinaloa.
+
+Los juzgados de distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
+
+XIII.- DECIMOTERCER CIRCUITO:
+
+Los juzgados de distrito en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de distrito con residencia en Salina Cruz.
+
+Los juzgados de distrito en el Estado de Oaxaca, con residencia en Salina Cruz, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Asunción Ixtaltepec, Ciudad Ixtepec, Chauites, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero, Reforma de Pineda, Salina Cruz, San Blás Atempa, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Mateo del Mar, San Miguel Chimalapa, San Miguel del Puerto, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mixtepec, San Pedro Pochutla, San Pedro Tapanatepec, Santa María Colotepec, Santa María Chimalapa, Santa María Guienagati, Santa María Huatulco, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec y Unión Hidalgo.
+
+XIV.- DECIMOCUARTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Yucatán, con residencia en Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+Los juzgados de distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+XV.- DECIMOQUINTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Baja California, con residencia en Mexicali, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Mexicali del Estado de Baja California y por el municipio de San Luis Río Colorado del Estado de Sonora.
+
+Los juzgados de distrito en el Estado de Baja California, con residencia en Tijuana, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Playas de Rosarito, Tecate y Tijuana.
+
+Los juzgados de distrito en el Estado de Baja California, con residencia en Ensenada, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio del mismo nombre.
+
+XVI.- DECIMOSEXTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Allende, Atarjea, Cuerámaro, Doctor Mora, Dolores Hidalgo, Guanajuato, Huanímaro, Irapuato, Pénjamo, Pueblo Nuevo, Romita, Salamanca, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Santa Catarina, Silao, Tierra Blanca, Victoria y Xichú.
+
+Los juzgados de distrito en el Estado de Guanajuato, con sede en León, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Manuel Doblado, León, Ocampo, Purísima del Rincón, San Felipe y San Francisco del Rincón.
+
+Los juzgados de distrito en el Estado de Guanajuato, con residencia en Celaya, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Coroneo, Cortázar, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Valle de Santiago, Villagrán y Yuriria.
+
+XVII.- DECIMOSEPTIMO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Allende, Aquiles Serdán, Bachiniva, Balleza, Batopilas, Bocoyna, Camargo, Carichi, Coronado, Coyame, Cuauhtémoc, Cusihuiriáchi, Chihuahua, Chínipas, Delicias, Doctor Belisario Domínguez, El Tule, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Hidalgo del Parral, Huejotitán, Jiménez, Julimes, La Cruz, López, Madera, Maguarichi, Manuel Benavides, Matachi, Matamoros, Meoqui, Morelos, Moris, Namiquipa, Nonoava, Ocampo, Ojinaga, Riva Palacio, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara, Santa Isabel, Satevó, Saucillo, Temósachi, Urique, Uruachi y Valle de Zaragoza.
+
+Los juzgados de distrito en el Estado de Chihuahua, con sede en Juárez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Ahumada, Ascensión, Buenaventura, Casas Grandes, Galeana, Guadalupe, Ignacio Zaragoza, Janos, Juárez, Nuevo Casas Grandes y Práxedis G. Guerrero.
+
+XVIII.- DECIMOCTAVO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Morelos, con residencia en Cuernavaca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+XIX.- DECIMONOVENO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Abasolo, Antiguo Morelos, Bustamante, Casas, El Mante, Gómez Farías, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tula, Victoria, Villagrán y Xicoténcatl.
+
+Los juzgados de distrito en el Estado de Tamaulipas, con sede en Nuevo Laredo, ejercerán jurisdicción territorial en el distrito judicial conformado por el municipio de Nuevo Laredo.
+
+Los juzgados de distrito en el Estado de Tamaulipas, con residencia en Matamoros, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Burgos, Cruillas, Matamoros, Méndez, San Fernando y Valle Hermoso.
+
+Los juzgados de distrito en el Estado de Tamaulipas, con sede en Reynosa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier, Miguel Alemán, Reynosa y Río Bravo.
+
+Los juzgados de distrito en el Estado de Tamaulipas, con residencia en Tampico, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Aldama, Altamira, Ciudad Madero, González y Tampico.
+
+XX.- VIGESIMO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Berriozábal, Bochil, Catazajá, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Mitontic, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+
+Los juzgados de distrito en el Estado de Chiapas, con residencia en Tapachula, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acacoyahua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez y Villa Comaltitlán.
+
+XXI.- VIGESIMO PRIMER CIRCUITO:
+
+El juzgado de distrito en el Estado de Guerrero, con residencia en Chilpancingo, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Acatepec, Ahuacotzingo, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Cualac, Chilapa de Alvarez, Chilpancingo, Eduardo Neri, General Heliodoro Castillo, Huamuxtitlán, Leonardo Bravo, Malinaltepec, Metlatónoc, Mochitlán, Olinalá, Quechultenango, Tixtla de Guerrero, Tlacoapa, Tlalixtaquilla de Maldonado, Tlapa de Comonfort, Xalpatláhuac, Xochihuehuetlán, Zapotitlán Tablas y Zitlala.
+
+Los juzgados de distrito en el Estado de Guerrero, con sede en Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
+
+El juzgado de distrito en el Estado de Guerrero, con residencia en Iguala, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
+
+XXII.- VIGESIMO SEGUNDO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+XXIII.- VIGESIMO TERCER CIRCUITO:
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 48/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2002)</small>
+
+Los juzgados de distrito en el Estado de Zacatecas, uno con residencia en la ciudad del mismo nombre y otro con sede en Guadalupe, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+Los juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+XXIV.- VIGESIMO CUARTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Nayarit, con residencia en Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+XXV.- VIGESIMO QUINTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Durango, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Mezquital, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan del Río, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Topia y Vicente Guerrero.
+
+XXVI.- VIGESIMO SEXTO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+
+El juzgado de distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
+
+Los juzgados de distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMOTERCERO DEL ACUERDO GENERAL 49/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE OCTUBRE DE 2002)</small>
+
+XXVIII.- VIGESIMO OCTAVO CIRCUITO:
+
+Los juzgados de distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
+
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+
+XXIX.- VIGESIMO NOVENO CIRCUITO:
+
+Los Juzgados de Distrito en el Estado de Hidalgo, con residencia en Pachuca, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+SEXTO.- Los asuntos que como consecuencia de la entrada en vigor de este Acuerdo queden comprendidos por su procedencia dentro de la jurisdicción territorial de un tribunal o juzgado de distrito diferente del que se encuentre conociendo de los mismos, continuarán en estos últimos hasta su conclusión.
 
 ### CAPÍTULO I. DEL OBJETO Y SUJETOS DE LA LEY
 
@@ -181,19 +897,7 @@ XXXI. Unión Ganadera Regional General: Organización constituida, autorizada y 
 
 XXXII. Unión Ganadera Regional Especializada: Organización constituida, autorizada y funcionando con fundamento en la Ley federal de Organizaciones Ganaderas, su Reglamento y esta ley, que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un Estado.
 
-## TÍTULO SEGUNDO. DE LA GESTIÓN DEL DESARROLLO DE LA GANADERÍA EN MICHOACÁN
-
 ### CAPÍTULO I. DE LAS AUTORIDADES COMPETENTES
-
-###### ARTÍCULO 6.
-
-Son autoridades competentes, para aplicar esta Ley:
-
-I. El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Rural;
-
-II. El Consejo Estatal para el Desarrollo Rural Integral Sustentable; y,
-
-III. Los ayuntamientos.
 
 ###### ARTÍCULO 7.
 
@@ -493,8 +1197,6 @@ La Secretaría establecerá los mecanismos adecuados para evaluar el desempeño 
 
 Las uniones y asociaciones ganaderas deberán registrarse en la Secretaría, de acuerdo a la normatividad existente, sin cuyo requisito no podrán obtener los beneficios de esta Ley.
 
-## TÍTULO TERCERO. DE LA PROPIEDAD GANADERA
-
 ###### ARTÍCULO 25.
 
 Es obligatorio para los propietarios de ganado el marcar e identificar sus animales para acreditar su propiedad en los términos que señale la presente Ley, con los medios siguientes:
@@ -695,8 +1397,6 @@ IV. Asesorar jurídicamente a los productores del sector pecuario, en las activi
 
 V. Promover la creación de unidades de arbitraje para ser acreditadas conforme a la Ley Federal sobre Metrología y Normalización; y/o autoridades judiciales competentes.
 
-## TÍTULO CUARTO. SACRIFICIO DEL GANADO
-
 ###### ARTÍCULO 51.
 
 Sólo podrá hacerse el sacrificio de ganado en los lugares debidamente acondicionados y legalmente autorizados, siendo indispensable la comprobación de la propiedad y el buen estado de salud de los animales que vayan a ser sacrificados y el cumplimiento de la normatividad aplicable, incluyendo disposiciones de sacrificio humanitario, disposición y tratamiento de residuos y otras aplicables.
@@ -750,8 +1450,6 @@ Cuando exista la necesidad de sacrificar ganado mayor para la subsistencia de lo
 ###### ARTÍCULO 60.
 
 Cuando los animales sean broncos o por cualquier otra circunstancia haya necesidad de sacrificarlos en el campo, por emergencia, fracturas irreductibles, siempre y cuando no padezcan una enfermedad infectocontagiosa de peligro para la especie humana o para la ganadería, deberá previamente recabarse permiso por escrito de la autoridad municipal y consumado el sacrificio se presentarán a la propia autoridad las orejas y las pieles de los animales sacrificados.
-
-## TÍTULO QUINTO. DEL FOMENTO PRODUCTIVO
 
 ###### ARTÍCULO 61.
 
@@ -983,8 +1681,6 @@ La Secretaría promoverá en el Estado, el uso de detergentes y desinfectantes o
 
 La Secretaría, en coordinación con el Comité Estatal de Fomento y Protección Pecuaria Michoacán A.C. y las organizaciones de los ganaderos, establecerá concertadamente los programas obligatorios de manejo de excretas en localidades que la propia Secretaría identificará en función de la concentración de animales y supervisará su cumplimiento.
 
-## TÍTULO SEXTO. DEL CUMPLIMIENTO DE LA LEY
-
 ###### ARTÍCULO 107.
 
 La inspección del ganado y sus productos es obligatoria y tiene como principal objeto la certificación de la propiedad, la observación de las disposiciones sobre carga animal, así como la verificación del cumplimiento de las normas oficiales mexicanas de las campañas zoosanitarias en vigor.
@@ -1121,8 +1817,6 @@ Queda prohibida la movilización de animales enfermos o muertos, si alguno se en
 
 Para el transporte de animales, sus productos y subproductos, productos químicos, farmacéuticos, biológicos y alimenticios, para uso en animales o consumo por estos, deberá observarse estrictamente los lineamientos de la Ley de Salud del Estado, y la norma oficial mexicana: NOM-024-ZOO-1995, especificaciones y características zoosanitarias para el transporte de animales sus productos y subproductos, productos químicos y farmacéuticos, biológicos y alimenticios para uso en animales o consumo por estos.
 
-### CAPÍTULO III. DE LA DENUNCIA POPULAR
-
 ###### ARTÍCULO 126.
 
 Toda persona podrá denunciar ante la Secretaría, autoridades municipales o ante quien corresponda, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
@@ -1134,8 +1828,6 @@ Las denuncias a que se refiere este artículo, que puedan ser hechos constitutiv
 ###### ARTÍCULO 127.
 
 La Secretaría, con la participación del Consejo, el Comité Estatal de Fomento y Protección Pecuaria Michoacán A.C. y los Sistemas Producto, promoverán actividades de divulgación, tendientes a la socialización del conocimiento de las infracciones que señala la Ley.
-
-### CAPÍTULO IV. DE LAS INFRACCIONES
 
 ###### ARTÍCULO 128.
 
@@ -1170,8 +1862,6 @@ III. Realizar compra venta y movilización de animales, con diagnóstico de las 
 IV. Utilizar en la cría o engorda de ganado, sustancias expresamente prohibidas por las autoridades federales o estatales competentes y comercializar los productos de dicho ganado para consumo humano; y,
 
 V. Las demás infracciones señaladas en la presente Ley.
-
-### CAPÍTULO V. DE LAS SANCIONES
 
 ###### ARTÍCULO 129.
 
@@ -1219,8 +1909,6 @@ En su caso, además de las sanciones económicas, el infractor deberá realizar 
 
 La Secretaría, con el conocimiento del Consejo y fundamentando y motivando plenamente su determinación, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de las tierras de pastoreo, siempre y cuando se garanticen las obligaciones del infractor.
 
-### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
-
 ###### ARTÍCULO 132.
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 2007)
@@ -1239,78 +1927,336 @@ La Secretaría, con el conocimiento del Consejo y fundamentando y motivando plen
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+SEGUNDO.- Queda sin efecto el Acuerdo General 16/1998 de veinte de mayo de mil novecientos noventa y ocho, del Pleno del Consejo de la Judicatura Federal. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
-###### ARTÍCULO SEGUNDO.
+TERCERO.- Los Acuerdos Generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente Acuerdo y que se refieran a la determinación del número y límites territoriales de los circuitos, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de circuito y de los juzgados de distrito, se integrarán a este Acuerdo General para efectos de su actualización.
 
-Se abroga le (sic) Ley de Ganadería del Estado publicada en el Periódico Oficial del Estado, con fecha 30 de diciembre de 1954 y sus reformas posteriores.
+CUARTO.- Las modificaciones a la circunscripción territorial de los Municipios que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente Acuerdo General, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en Acuerdos Generales que se integren al propio Acuerdo.
 
-###### ARTÍCULO TERCERO.
+QUINTO.- El Pleno del Consejo de la Judicatura Federal, fijará las fechas de inicio de labores del Juzgado Cuarto de Distrito en el Estado de Yucatán, con residencia en Mérida, así como de los órganos jurisdiccionales federales pertenecientes al Vigésimo Séptimo Circuito, con excepción de los Juzgados de Distrito con residencia en Cancún y el diverso con sede en Chetumal.
 
-En los municipios donde no se haya organizado la asociación ganadera local, las funciones de ésta serán desempeñadas en tanto se constituya la asociación, por las oficinas correspondientes del Munipio (sic) con el apoyo de la Secretaría.
+SEXTO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-###### ARTÍCULO CUARTO.
+EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el propio Pleno, en sesión extraordinaria de dieciséis de abril de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dieciséis de abril de dos mil uno.- Conste.- Rúbrica.
 
-En tanto no se reforme la Ley Orgánica de la Administración Pública del Estado de Michoacán, se entenderá por Secretaría de Desarrollo Rural, a la actual Secretaría de Desarrollo Agropecuario.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO QUINTO.
+D.O.F. 22 DE JUNIO DE 2001.
 
-El Titular del Poder Ejecutivo del Estado dispone de ciento veinte días naturales a partir de la publicación de la presente Ley, para emitir el Reglamento correspondiente.
+ACUERDO 33/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XVI.
 
-###### ARTÍCULO SEXTO.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-Los derechos por los servicios que preste la Secretaría, serán fijados en la Ley de Hacienda del Estado y en la Ley de Ingresos del Estado.
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-El Titular del Poder Ejecutivo del Estado dispondrá se publique y observe.
+D.O.F. 22 DE JUNIO DE 2001.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 8 ocho días del mes de febrero de 2007 dos mil siete.
+ACUERDO 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, NÚMERO 3, APARTADO XI.
 
-PRESIDENTE.- DIP. DAVID GARIBAY TENA.- PRIMER SECRETARIO.- DIP. JUAN ANTONIO IXTLÁHUAC ORIHUELA.- SEGUNDO SECRETARIO.- DIP. ALEJANDRO MÉNDEZ LÓPEZ.- TERCER SECRETARIO.- DIP. SALVADOR ORTÍZ GARCÍA. (Firmados).
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 8 ocho días del mes de febrero del año 2007 dos mil siete.
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+D.O.F. 22 DE JUNIO DE 2001.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+ACUERDO 35/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, NÚMERO 1, APARTADO XXIV.
 
-P.O. 23 DE AGOSTO DE 2007.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+D.O.F. 9 DE AGOSTO DE 2001.
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2010)</small>
+ACUERDO 41/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 2 APARTADO XV.
 
-###### ARTÍCULO ÚNICO.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-P.O. 29 DE DICIEMBRE DE 2016.
+D.O.F. 9 DE AGOSTO DE 2001.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMA EL ARTÍCULO 129 PÁRRAFO PRIMERO FRACCIÓN I INCISOS A) Y B) DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN".]
+ACUERDO 42/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XV.
 
-###### ARTÍCULO PRIMERO.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### ARTÍCULO SEGUNDO.
+D.O.F. 21 DE AGOSTO DE 2001.
 
-Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+ACUERDO 48/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO X.
 
-###### ARTÍCULO TERCERO.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### ARTÍCULO CUARTO.
+D.O.F. 21 DE AGOSTO DE 2001.
 
-Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+ACUERDO 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XIII.
 
-P.O. 17 DE OCTUBRE DE 2018.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 645 POR EL QUE “SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 2, SE MODIFICAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 5, SE MODIFICA EL ARTÍCULO 8, SE MODIFICAN LAS FRACCIONES XII Y XIII Y SE ADICIONAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 9, SE MODIFICAN LAS FRACCIONES III, IV, VIII, XXVII Y XXVIII Y SE ADICIONAN LAS FRACCIONES XXIX, XXX Y XXXI DEL ARTÍCULO 10, SE ADICIONA EL ARTÍCULO 10 BIS, SE MODIFICA EL ARTÍCULO 25, SE ADICIONAN LOS ARTÍCULOS 25 BIS, 25 TER, 25 QUÁTER, 25 QUINQUIES Y 25 SEXIES, SE MODIFICAN LOS ARTÍCULOS 28 Y 53; Y, SE ADICIONAN LOS ARTÍCULOS 116 BIS, 116 TER, 116 QUÁTER, 116 QUINQUIES Y 116 SEXIES DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+D.O.F. 3 DE SEPTIEMBRE DE 2001.
 
-SEGUNDO. El Ejecutivo del Estado contará con un término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para adecuar el reglamento correspondiente.
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2001.
+
+ACUERDO 58/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO VI.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2001.
+
+ACUERDO 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, INCISO 1, APARTADO XIX Y PUNTO TERCERO APARTADO XIX.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 1 DE OCTUBRE DE 2001.
+
+ACUERDO 60/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO IX Y PUNTO CUARTO APARTADO IX.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 1 DE OCTUBRE DE 2001.
+
+ACUERDO 61/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XXIV.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 1 DE OCTUBRE DE 2001.
+
+ACUERDO 62/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XXII.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 26 DE OCTUBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2001.
+
+ACUERDO 68/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO III.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2001.
+
+ACUERDO 69/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO III.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 31 DE OCTUBRE DE 2001.
+
+ACUERDO 70/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 2 APARTADO III.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 82/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 83/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 84/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 85/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 86/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 87/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO IV.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 88/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1 APARTADO IV.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 89/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO IV.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+ACUERDO 90/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 1 APARTADO XVII.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 12 DE JUNIO DE 2002.
+
+ACUERDO 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 3, APARTADOS IV Y XIX.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos atenderán la situación laboral del personal adscrito al Juzgado Decimoprimero de Distrito en el Estado de Tamaulipas, con residencia en Nuevo Laredo, en los términos establecidos en el Dictamen por el que se autorizó su traslado a Monterrey, Nuevo León.
+
+D.O.F. 12 DE JUNIO DE 2002.
+
+ACUERDO 27/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1, APARTADOS II Y PUNTO TERCERO APARTADO II.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE AGOSTO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el quince de agosto de dos mil dos.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos, ambas del Consejo de la Judicatura Federal para que atiendan la situación laboral del personal adscrito al Tercer Tribunal Unitario del Decimoséptimo Circuito, en los términos establecidos por el Pleno del propio Consejo.
+
+D.O.F. 10 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El Pleno del Consejo de la Judicatura Federal, determinará en su oportunidad lo relativo a las readscripciones de quienes se desempeñarán como titulares de los juzgados de Distrito especializados en el Estado de Nuevo León, con residencia en Monterrey.
+
+D.O.F. 15 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Segundo Tribunal Colegiado en Materia de Trabajo del Sexto Circuito, al Tercer Tribunal Unitario del Décimo Segundo Circuito, así como a la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia de Trabajo del Sexto Circuito.
+
+D.O.F. 30 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Noveno de Distrito en el Estado de Sonora, con residencia en Nogales, que cambia de residencia a la ciudad de Agua Prieta.
+
+D.O.F. 12 DE DICIEMBRE DE 2002.
+
+ACUERDO 61/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 1, APARTADOS VIII Y XII Y TERCERO APARTADO VIII.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Quinto Tribunal Colegiado del Decimosegundo Circuito.
+
+D.O.F. 12 DE DICIEMBRE DE 2002.
+
+ACUERDO 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NUMERO 3, APARTADO I.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE DICIEMBRE DE 2002.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Tribunal Unitario del Vigésimo Segundo Circuito que integrará el Tribunal Unitario del Vigésimo Noveno Circuito.
+
+D.O.F. 30 DE ABRIL DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE MAYO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el dos de junio de dos mil tres.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 27 DE JUNIO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el dos de julio de dos mil tres.
+
+SEGUNDO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Quinto de Distrito en el Estado de Chiapas, con residencia en Tapachula, que cambia de residencia a la ciudad de Tuxtla Gutiérrez.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
