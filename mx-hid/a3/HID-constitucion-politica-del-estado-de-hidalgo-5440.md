@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1987-11-12"
+last_updated: "1988-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1988.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -731,11 +731,15 @@ XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y su
 
 (ADICIONADA, P.O. 1 DE OCTUBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
-XXIII. Expedir leyes sobre planeación del desarrollo estatal, y
+XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1988)</small>
+
+XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
-XXIV. Las demás que le sean concedidas por esta Constitución.
+XXV. Las demás que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2500,3 +2504,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan al presente ordenamiento.
+
+P.O. 16 DE JUNIO DE 1988.
+
+UNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
