@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "2001-02-22"
+last_updated: "2001-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE DICIEMBRE DE 2001.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -994,7 +994,11 @@ XV.- Diseñar los sistemas para captar, analizar, procesar y difundir la informa
 
 XVI.- Promover, coordinar y vigilar las acciones de mejoramiento, modernización y simplificación administrativa, y
 
-XVII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
+
+XVII.- Formular, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio del Instituto, detectado por el Organo Interno de Control competente, a través de las auditorías, visitas o investigaciones que practique.
+
+XVIII.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
@@ -1350,7 +1354,13 @@ IV. Informar periódicamente al Director del Sistema sobre el cumplimiento de lo
 
 V. Coadyuvar en la realización de estudios de mercado, comportamiento de precios, proveedores y productos a nivel regional, y proponer al Director del Sistema, las soluciones a los problemas y desviaciones que se presenten en la operación de los programas; y
 
-VI. Las demás que señalen otras disposiciones aplicables, y las que le asigne el Director del Sistema.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
+
+VI.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio a los centros comerciales, tiendas y farmacias situadas en su ámbito territorial, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que el Organo Interno de Control en dicho Sistema detecte a través de las auditorías, visitas o investigaciones que practique.
+
+Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el artículo 51 A del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+VII. Las demás que señalen otras disposiciones aplicables, y las que le asigne el Director del Sistema.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE ABRIL DE 1997)</small>
 
@@ -1424,7 +1434,13 @@ XI.- Promover la compilación e intercambio de información bibliográfica, docu
 
 XII.- Proponer al Consejo Directivo el nombramiento de los Subdirectores de la Escuela de Dietética y Nutrición, así como la plantilla de personal docente y administrativo, y
 
-XIII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
+
+XIII.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio de la Escuela de Dietética y Nutrición, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que la Contraloría General en el ISSSTE detecte a través de las auditorías, visitas o investigaciones que practique.
+
+Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el artículo 51 A del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+XIV.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE ABRIL DE 1997)</small>
 
@@ -1500,7 +1516,13 @@ X.- Coordinar la operación, control y desarrollo de las agencias turísticas, c
 
 XI.- Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema de Agencias Turísticas TURISSSTE, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales, y
 
-XII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2001)</small>
+
+XII.- Formular los pliegos preventivos de responsabilidades a los servidores públicos y a los particulares que hubieren perpetrado un daño económico al patrimonio del Sistema de Agencias Turísticas TURISSSTE, en términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, que la Contraloría General en el ISSSTE detecte a través de las auditorías, visitas o investigaciones que practique.
+
+Dicha facultad podrá ser ejercida por el Subdirector General de Finanzas de conformidad con lo dispuesto por el artículo 51 A del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+XIII.- Las demás que señalen otras disposiciones aplicables.
 
 ### CAPITULO OCTAVO. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
 
@@ -1741,3 +1763,13 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO TERCERO.
 
 En su oportunidad, inscríbase la presente reforma en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 5 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Inscríbanse en su oportunidad las presentes adiciones en el Registro Público de Organismos Descentralizados.
