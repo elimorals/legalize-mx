@@ -4,7 +4,7 @@ identifier: "GRO-codigo-electoral-del-estado-de-guerrero-numero-264-5115"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-05-01"
-last_updated: "1996-05-24"
+last_updated: "1998-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO ELECTORAL DEL ESTADO DE GUERRERO NUMERO 264
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1 de mayo de 1992.
 
@@ -1101,11 +1101,11 @@ Los Consejeros Electorales, recibirán la dieta de asistencia que para cada Proc
 
 Los Consejeros Electorales estarán obligados a no utilizar en beneficio propio o de terceros, la información confidencial de que dispongan, ni a divulgarla sin autorización del Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 72.
 
-Para la preparación del Proceso Electoral, el Consejo Estatal, se reunirá en el mes de abril del año del proceso electoral, entratándose de la elección de Diputados y Ayuntamientos y en el mes de mayo del año anterior, tratándose de la elección de Gobernador. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes. Posteriormente se reunirá cuando sea convocado.
+Para la preparación del proceso electoral, el Consejo Estatal se reunirá en el mes de abril del año del proceso electoral, entratándose de la elección de Diputados y Ayuntamientos y el día 15 del mes de mayo del año anterior, tratándose de la elección de Gobernador. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes. Posteriormente se reunirá cuando sea convocado.
 
 Cuando deban celebrarse elecciones extraordinarias, el Presidente del Consejo Estatal convocará a los demás integrantes a las sesiones previas que estime necesarias.
 
@@ -2309,7 +2309,9 @@ El Proceso Electoral, es el conjunto de actos ordenados, por la Constitución y 
 
 El Proceso Electoral ordinario, se inicia en el mes de abril del año en que deban realizarse elecciones locales y concluye en el mes de diciembre del mismo año, cuando se trate de elección de Ayuntamientos y de Diputados.
 
-Tratándose de la elección para Gobernador, el proceso electoral se inicia en el mes de mayo del año anterior y concluye en el mes de marzo del año de la elección.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1998)</small>
+
+Tratándose de la elección para Gobernador, el proceso electoral se inicia el día 15 del mes de mayo del año anterior y concluye en el mes de marzo del año de la elección.
 
 Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -2319,7 +2321,9 @@ b) Jornada Electoral; y
 
 c) Resultados y calificación de las elecciones.
 
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo Estatal Electoral celebre durante el mes de abril o mayo, según corresponda, y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1998)</small>
+
+La etapa de preparación de la elección se inicia con la primera sesión que el Consejo Estatal Electoral celebre durante el mes de abril o el día 15 de mayo, según corresponda, y concluye al iniciarse la jornada electoral.
 
 La etapa de la jornada electoral, se inicia a las 8:00 horas del primer domingo de octubre, cuando se trate de elección de Ayuntamientos y Diputados, y el tercer domingo de febrero, cuando sea elección de Gobernador, y concluye con la publicación de los resultados electorales en el exterior del local de la casilla y la remisión de la documentación y los expedientes electorales a los respectivos Consejos Municipales y Distritales.
 
@@ -4824,3 +4828,7 @@ El Consejo Estatal Electoral, para las elecciones de 1996, estará facultado par
 ###### ARTICULO SEXTO.
 
 Tomada la protesta de ley a los consejeros electorales, procederán de inmediato a designar al Presidente y al Secretario Técnico del Consejo Estatal Electoral.
+
+P.O. 29 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
