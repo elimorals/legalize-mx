@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-deuda-publica-del-estado-libre-y-soberano-de-puebla-1201
 country: "mx"
 rank: "ley"
 publication_date: "1977-11-15"
-last_updated: "1977-11-15"
+last_updated: "2002-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1977.
 
@@ -113,7 +113,13 @@ b).- Que sean autoliquidables y
 
 c).- Que genere ingresos de acuerdo con lo establecido por la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
-IV.- Contratar y manejar la Deuda Pública del Gobierno del Estado y otorgar la garantía del mismo para operaciones crediticias destinada a actividades productivas acordes con la política de desarrollo económico y social aprobada por el Ejecutivo.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2002)</small>
+
+IV.- Gestionar, autorizar, contratar y manejar la Deuda Pública del Gobierno del Estado, previo acuerdo del Títular del Ejecutivo; así como otorgar la garantía del mismo para operaciones crediticias destinadas a actividades e inversiones públicas productivas acordes con la política de desarrollo económico y social aprobada por éste.
+
+Las entidades a que se refieren las fracciones II, III y IV del Artículo Primero de esta Ley, previa aprobación del Ejecutivo del Estado, de sus respectivos órganos de gobierno, de la Secretaría de Finanzas y Desarrollo Social y de conformidad con los requisitos que determine la misma para cada eventualidad, podrán gestionar, contratar, manejar financiamientos para inversiones públicas productivas y garantizar los mismos con cargo a su patrimonio, con sujeción a lo dispuesto en las disposiciones Federales y Estatales aplicables.
+
+Las entidades a que se refieren las fracciones II y III del Artículo Primero del presente ordenamiento, podrán establecer los mecanismos financieros para que se administren y constituyan como fuente de garantía y pago de aquellas obligaciones contraídas conforme al párrafo anterior.
 
 V.- Elaborar los proyectos financieros a efecto de que por medio de inversiones productivas se pueda financiar, al menos en parte, el déficit presupuestal del gasto público.
 
@@ -123,7 +129,9 @@ VII.- Llevar el registro de la Deuda Pública y el de avales otorgados por el Go
 
 VIII.- Vigilar el manejo de los recursos provenientes de financiamientos y supervisar en forma permanente el desarrollo de los programas, así como la adecuada estructura financiera de las entidades acreditadas.
 
-IX.- La Secretaría de Finanzas será la única dependencia facultada para gestionar y contratar empréstitos a nombre del Gobierno del Estado, organismos descentralizados, fideicomisos y empresas de participación estatal mayoritaria.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2002)</small>
+
+IX.- Ser la dependencia facultada para gestionar y contratar financiamiento mediante la suscripción, emisión y colocación de títulos de crédito, instrumentos financieros o cualquier documento análogo, con sujeción a las disposiciones legales aplicables, con excepción de lo previsto en el segundo párrafo de la fracción IV de este Artículo.
 
 ### CAPITULO TERCERO
 
@@ -148,6 +156,12 @@ Las partidas destinadas anualmente para satisfacer los compromisos derivados de 
 ###### ARTICULO NOVENO.
 
 Anualmente la Secretaría de Finanzas presentará para su aprobación por el Ejecutivo y la autorización del Congreso, el programa de inversiones a que se refiere la fracción V del Artículo cuarto de la presente ley.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2002)</small>
+
+ARTICULO NOVENO BIS.- El Gobierno del Estado podrá celebrar los actos jurídicos y establecer los mecanismos financieros para que se administren y constituyan como fuente de garantía y pago de las obligaciones contraídas por el mismo y por sus entidades para inversiones públicas productivas, cuando se haya garantizado con la afectación de las participaciones que en ingresos federales le correspondan, de conformidad con las disposiciones federales y estatales aplicables en la materia.
+
+Para efectos del párrafo anterior, los Municipios, así como sus entidades, suscribirán convenios de adhesión y celebrarán los actos jurídicos que se requieran.
 
 ###### ARTICULO DECIMO.
 
@@ -194,3 +208,13 @@ TRANSITORIO.- Esta Ley entrará en vigor a partir de su publicación en el Peri�
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Puebla de Zaragoza a los 3 días del mes de noviembre de 1977.-Venustiano Andrade del Castillo. D.P.- José Fernández González, D.S.- Abel Juárez Palacios, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los tres días del mes de noviembre de mil novecientos setenta y siete.- El Gobernador Constitucional del Estado, Dr. Alfredo Toxqui Fernández de Lara.- El Secretario General de Gobierno, Lic. Carlos Trujillo Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Cuando en el presente ordenamiento se haga mención de la Secretaría de Finanzas, se entenderá que se refiere a la Secretaría de Finanzas y Desarrollo Social.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
