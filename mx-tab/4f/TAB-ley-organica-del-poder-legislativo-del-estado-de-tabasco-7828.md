@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1995-04-05"
+last_updated: "1995-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1995.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -517,7 +517,11 @@ XXIII. Ecología, Protección y Mejoramiento Ambiental;
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
-XXIV. Fortalecimiento Municipal.
+XXIV. Fortalecimiento Municipal;
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 1995)</small>
+
+XXV. Participación Ciudadana.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -946,5 +950,9 @@ P.O. 25 DE MARZO DE 1995.
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 5 DE ABRIL DE 1995.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
+
+P.O. 22 DE ABRIL DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
