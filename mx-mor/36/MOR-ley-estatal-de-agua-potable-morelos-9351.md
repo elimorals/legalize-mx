@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "1995-07-26"
+last_updated: "1999-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -245,23 +245,25 @@ Las autoridades estatales y municipales se deberán coordinar con las autoridade
 
 Igualmente se podrá convenir entre las autoridades estatales y municipales la asistencia técnica que aquéllas presten a éstas o a sus organismos operadores.
 
-###### ARTÍCULO 7.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
 
-Los usos específicos correspondientes a la prestación del servicio de agua potable son:
+###### ARTICULO 7.
 
-I.- Domésticos;
+Los usos específicos correspondientes a la prestación del servicio de agua potable, son:
 
-II.- Servicios Públicos;
+I.- Doméstico:
 
-III.- Agropecuarios;
+A) Rural.- Se considera de uso rural las casas-habitación en zonas no urbanas, de acuerdo al programa municipal de desarrollo urbano o en poblaciones con menos de 2,500 habitantes y cuyos materiales de construcción sean el 70% no industrializados, y la actividad principal de la población sean labores del campo.
 
-IV.- Industriales;
+B) Popular.- Se considera de uso popular las viviendas unifamiliares ubicadas regularmente en zonas marginadas o en la periferia de las ciudades, en predios cuya superficie máxima de construcción sea de 150 m2 y cuyos acabados sean rústicos y pisos de firme de cemento pulido simple y herrería tubular o estructural y cuyo ingreso familiar no rebase el equivalente a dos salarios mínimos mensuales.
 
-V.- Comerciales; y
+C) Habitacional.- Se considera de uso habitacional las viviendas de interés social construidas por instituciones oficiales o particulares que se desarrollen en un terreno específico, desde seis viviendas en régimen de fraccionamiento o condominio, así mismo quedarán incluidas viviendas construidas por particulares, cuya superficie máxima de construcción sea de 175 m2, y el ingreso familiar sea entre dos y cinco salarios mínimos mensuales.
 
-VI.- Otros.
+D) Residencial.- Se considera de uso residencial las viviendas cuyos predios excedan de 350 m2 de terreno, con más del 50% de la superficie construida con acabados de lujo, cuenten con áreas verdes y en algunos casos alberca y cuyos ingresos familiares rebasen el equivalente a cinco salarios mínimos mensuales.
 
-Será atribución de los Ayuntamientos, previa opinión del Ejecutivo del Estado a través de la Secretaría de Desarrollo Ambiental, o de la Dependencia a que se refiere la fracción IV del artículo 2, fijar el orden de prelación de los usos especificados. El uso doméstico siempre será preferente.
+II. Comercial.- Se considera de uso comercial los establecimientos con giro comercial.
+
+III. Industrial.- Se considera de uso industrial el establecimiento o factoría, donde exista un proceso de transformación de las materias primas.
 
 ###### ARTICULO 8.
 
@@ -871,6 +873,8 @@ Una vez acreditados los requisitos que señalan las fracciones que preceden, el 
 
 En el caso de negar la procedencia de la solicitud de concesión, la autoridad deberá razonar y fundamentar los motivos que tuvo para ello.
 
+DE LA REPRESENTACION DE LOS GRUPOS ORGANIZADOS DEL SECTOR SOCIAL, EN SU CARACTER DE CONCESIONARIOS
+
 ###### ARTICULO 50.
 
 La representación de tales organizaciones y la ejecución directa de las materias objeto de la concesión corresponderá a un comité vecinal, integrado por un Presidente, un Secretario y un Tesorero y sus respectivos suplentes, así como del personal técnico y administrativo que sea necesario en cada una de ellas, cuya designación y número será determinado por la dependencia o entidad que tenga el carácter de concedente a propuesta del comité vecinal.
@@ -919,8 +923,6 @@ IV.- Durante el mes de octubre del año respectivo y para los efectos que señal
 
 V.- Propondrá y acreditará a la autoridad concedente, sobre las necesidades de realizar mayores inversiones para mantener o incrementar la eficiencia de los servicios públicos u objeto concesionado; las posibilidades o vías de financiamiento y las garantías que en tal caso se requieran; que quedarán sujetas a la autorización de la propia autoridad concedente.
 
-DE LA REPRESENTACION DE LOS GRUPOS ORGANIZADOS DEL SECTOR SOCIAL, EN SU CARACTER DE CONCESIONARIOS
-
 ### CAPITULO CUARTO. DE LAS CONCESIONES DEL SECTOR PRIVADO
 
 ###### ARTICULO 52.
@@ -945,7 +947,7 @@ V.- Las demás que les señale este ordenamiento y la autoridad concedente.
 
 ###### ARTICULO 53.
 
-Los concesionarios, sean de grupos organizados de usuarios del sector social o bien de la iniciativa privada en los términos de esta ley, tendrán las siguientes atribuciones:
+Los concesionarios, sean de grupos organizados de usuarios del sector social o bien de la iniciativa privada en los términos de ésta ley, tendrán las siguientes atribuciones:
 
 I.- Prestar el servicio u objeto público concesionado con sujeción a lo establecido en esta Ley, a los demás ordenamientos que resulten aplicables y a las disposiciones reglamentarias; apegándose a las políticas y prioridades que establezca la autoridad concedente;
 
@@ -1962,3 +1964,19 @@ SECRETARIO DE DESARROLLO AMBIENTAL
 DRA. URSULA OSWALD SPRING
 
 RUBRICAS
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 20 DE ENERO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º. de febrero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan la Ley Tarifara del Sistema de Agua potable de Cuernavaca, publicada en el Periódico oficial del 12 de agosto de 1981, así como las demás disposiciones relativas que contravengan a lo dispuesto en esta reforma.
+
+###### ARTICULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos que señala la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
