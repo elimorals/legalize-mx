@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-22013
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-13"
-last_updated: "2001-09-13"
+last_updated: "2004-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-09-12"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, PUBLICADO EN EL D.O.F. DE 19 DE JULIO DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de septiembre de 2001.
 
@@ -1516,3 +1518,19 @@ NOVENO.- Se abroga el Acuerdo por el que se Adscriben Orgánicamente las Unidade
 DÉCIMO.- Se abroga el Acuerdo por el que se Delega en los Coordinadores de las Unidades de Coordinación General de Delegaciones, de Coordinación Sectorial, y de Análisis Económico y Social, así como en los Delegados de la Secretaría de Desarrollo Social en las Entidades Federativas, la Facultad de Expedir Certificaciones de los Documentos que Obren en los Expedientes de los Asuntos de su Competencia, publicado en el Diario Oficial de la Federación el 12 de mayo de 2000.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de septiembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- La Secretaria de Desarrollo Social, Josefina Eugenia Vázquez Mota.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 19 DE JULIO DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Diario Oficial de la Federación del 13 de septiembre de 2001.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que contravengan lo establecido en el presente Reglamento.
+
+CUARTO.- Los servidores públicos que por virtud de lo dispuesto en este Reglamento pasen de una unidad administrativa a otra, conservarán sus derechos laborales.
+
+QUINTO.- Las menciones que en otras disposiciones jurídicas se hagan al Instituto Nacional de Solidaridad, se entenderán hechas al Instituto Nacional de Desarrollo Social. Asimismo, las referencias a su Presidente, se entenderán hechas a su Director General.
+
+SEXTO.- Se abrogan los Acuerdos por los que se delegan en los titulares de las delegaciones de la Secretaría de Desarrollo Social en las entidades federativas, las atribuciones y facultades que se indican, así como por el que se Adscriben Orgánicamente las Unidades Administrativas de la Secretaría de Desarrollo Social, publicados en el Diario Oficial de la Federación el 31 de octubre de 2001, el 22 de agosto de 2002 y el 25 de septiembre de 2001, respectivamente.
