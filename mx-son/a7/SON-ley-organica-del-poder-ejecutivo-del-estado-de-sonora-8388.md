@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1998-12-14"
+last_updated: "2002-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE MARZO DE 2002.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -231,7 +231,7 @@ I.- Ser el conducto del Ejecutivo para atender los asuntos de política interna 
 
 II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos del Estado; con los Poderes de la Unión y con los Gobiernos de las Entidades Federativas.
 
-III.- Vigilar el cumplimiento y aplicación de la legislación estatal en materia de transporte e imponer las sanciones correspondientes.
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, B.O. 8 DE MARZO DE 2002)
 
 IV.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado.
 
@@ -1316,3 +1316,15 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opongan a la presente Ley.
+
+B.O. 8 DE MARZO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley 120 de Transporte para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado, número 6, Sección I, de fecha 20 de julio de 1992; asimismo se deroga la fracción III del artículo 23 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, así como todas aquellas disposiciones que se opongan a la presente Ley.
