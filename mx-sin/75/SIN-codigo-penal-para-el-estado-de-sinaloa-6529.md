@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "1998-04-08"
+last_updated: "1998-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1998.
 
 Código publicado en la Sección Primera del Periódico Oficial "El Estado de Sinaloa", el miércoles 28 de octubre de 1992.
 
@@ -319,7 +319,7 @@ La duración de la semilibertad no podrá exceder del tiempo correspondiente a l
 
 La reclusión a que se refiere el presente artículo tendrá lugar en centros distintos a los establecidos para la prisión preventiva y de los señalados para la extinción de la pena.
 
-### CAPITULO IV. SANCION PECUNIARIA
+### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
 ###### ARTICULO 32.
 
@@ -443,7 +443,7 @@ Los objetos de uso lícito con que se cometa el delito, propiedad del acusado, s
 
 Si las personas que tienen derecho a la reparación del daño renuncian a ella o se abstienen de recibir su importe, éste se aplicará en favor del Fondo Auxiliar para la Administración de Justicia del Estado, conforme a la ley respectiva.
 
-### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
+### CAPITULO IV. SANCION PECUNIARIA
 
 ###### ARTICULO 51.
 
@@ -453,15 +453,23 @@ El decomiso consiste en la pérdida de la propiedad o posesión de los instrumen
 
 Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán preventivamente si son de uso prohibido; si son de uso lícito lo mismo se hará, pero será hasta sentencia cuando se dicten dichas sanciones, por delito doloso. Si pertenecen a un tercero, sólo se decomisarán cuando hayan sido empleados con fines delictivos y con conocimiento de su dueño.
 
-Las autoridades competentes procederán al inmediato aseguramiento de bienes para efecto de la comprobación del delito, mismos que podrán ser materia de decomiso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o producto del delito.
+> <small>(REFORMADO P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Las autoridades competentes procederán al aseguramiento de bienes para efecto de la comprobación de los elementos del tipo penal y la probable responsabilidad, los que podrán ser materia de decomiso. Se actuará en los términos previstos en este párrafo, cualquiera que sea la naturaleza de los instrumentos o productos del delito.
+
+> <small>(REFORMADO P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 53.
 
-Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, se enajenarán en subasta pública en los términos establecidos por la Ley Orgánica del Fondo Auxiliar para la Administración de Justicia del Estado de Sinaloa. Para este objeto las autoridades investigadoras pondrán dichos objetos o valores a disposición de la autoridad judicial.
+Los objetos o valores que se encuentren a disposición del Ministerio Público del Fuero Común, que no hayan sido decomisados ni recogidos por quien tenga derecho a ello en un lapso de seis meses, contados a partir de la notificación al interesado, se enajenarán en subasta pública en los términos establecidos por este Código y la Ley del Fondo de Apoyo a la Procuración de Justicia en el Estado y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado éste, no se presenta a recoger dicho producto dentro de los noventa días naturales siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración de justicia local, previas las deducciones de los gastos ocasionados.
+
+Lo mismo se observará tratándose de objetos o valores que se encuentren a disposición de las autoridades judiciales, con la circunstancia de que el producto de la venta se destinará al mejoramiento de la administración de justicia local.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 54.
 
-En el caso de bienes perecederos o de costosa conservación, que se encuentren a disposición de la autoridad competente, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, depositado en el Fondo Auxiliar para la Administración de Justicia del Estado, aplicando en lo conducente las disposiciones del artículo anterior.
+En el caso de bienes perecederos o de costosa conservación, que se encuentren a disposición del Ministerio Público del Fuero Común o de las autoridades judiciales, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, depositado en el Fondo de Apoyo a la Procuración de Justicia del Estado o del Fondo Auxiliar para la Administración de Justicia del Estado según corresponda.
 
 Si se tratare de substancias nocivas o peligrosas dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción si fuere indispensable.
 
@@ -1045,7 +1053,9 @@ VII.- De cuatro a seis años de prisión y ciento ochenta a doscientos veinte d�
 
 VIII.- De seis a diez años de prisión y de doscientos veinte a trescientos días multa, si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causen una enfermedad cierta o probablemente incurable o deformidad incorregible; y
 
-IX.- De seis a diez años de prisión y de doscientos cincuenta a trescientos cincuenta días multa, si las lesiones se infieren mediante crueldad o tormento en cualquier órgano receptivo de la cópula normal o anormal, utilizando un instrumento o un órgano humano distinto al miembro genital masculino.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+IX.- De seis a quince años de prisión y de doscientos cincuenta a cuatrocientos días multa, si las lesiones se infieren mediante crueldad o tormento en vía vaginal o anal, utilizando cualquier objeto, instrumento u órgano humano distinto al miembro genital masculino.
 
 ###### ARTICULO 137.
 
@@ -1099,9 +1109,11 @@ Si el homicidio se comete en riña, se aplicará a su autor de tres a trece año
 
 Cuando los delitos de homicidio y lesiones se cometan en lugar concurrido por personas ajenas a los hechos y con riesgo de su integridad corporal, las penas previstas para esos delitos se aumentarán hasta en una tercera parte.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 144.
 
-Cuando se produzca homicidio o lesiones de las señaladas en las fracciones V, VII y VIII del artículo 136, con motivo del tránsito de vehículos y los cause culposamente el conductor de un transporte de servicios público o escolar, se sancionará a éste con prisión de uno a nueve años y se le inhabilitará para el manejo de los mismos conforme a lo previsto en el artículo 263.
+Cuando se produzca homicidio o lesiones de las señaladas en las fracciones V, VII y VIII del artículo 136 de este Código, con motivo del tránsito de vehículos y los cause culposamente el conductor de un transporte de servicios público o escolar, se sancionará a éste con prisión de cinco a quince años y se le inhabilitará para el manejo de los mismos conforme a lo previsto en el artículo 263.
 
 Las mismas penas se aplicarán al conductor que cause culposamente la muerte de dos o más personas.
 
@@ -1158,6 +1170,8 @@ Al que dolosamente prive de la vida a cualquier ascendiente o descendiente consa
 Al que dolosamente prive de la vida a su cónyuge, concubinario o concubina, adoptante o adoptado, con conocimiento de ese parentesco o relación familiar se le impondrá prisión de quince a treinta y cinco años.
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD PERSONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 154.
 
@@ -1227,7 +1241,7 @@ No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobrez
 
 ###### ARTICULO 164.
 
-Al particular que ilegítimamente prive a otro de su libertad personal, se le aplicará prisión de uno a tres años y de treinta a noventa días multa.
+Al particular que ilegítimamente prive a otro de su libertad personal, se le aplicará prisión de dos a seis años y de ochenta a doscientos cincuenta días multa.
 
 La pena prevista en el párrafo anterior, se aumentará hasta en una mitad más, cuando en la privación de libertad concurriere alguna de las circunstancias siguientes:
 
@@ -1245,7 +1259,9 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de los tres 
 
 Comete el delito de privación de la libertad laboral el que obligue a otro a prestarle un trabajo o servicios personales con o sin la retribución debida, ya sea por medio de la violencia física o moral, o por medio de engaños.
 
-En este caso se impondrá una pena de prisión de dos a cuatro años o de ciento ochenta a trescientos sesenta días multa.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+En este caso se impondrá prisión de dos a seis años y de doscientos a trescientos días multa.
 
 ### CAPITULO II. VIOLACION DE LA INTIMIDAD PERSONAL Y FAMILIAR
 
@@ -1281,9 +1297,11 @@ Si espontáneamente se pusiere en libertad al ofendido dentro de los tres días 
 
 Al que sustraiga o retenga a una persona, para realizar algún acto sexual, satisfacer un acto erótico o para casarse con ella, se le impondrá prisión de uno a seis años, si fuere por medio de engaño y de seis a diez años si se realiza mediando violencia.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 170.
 
-Al que sustraiga con los fines a que se refiere el artículo precedente, o retenga a una persona menor de catorce años de edad, o que no tenga capacidad de comprender o que por cualquier causa no pudiere resistir, se le impondrá prisión de dos a siete años. Si el medio empleado fuese la violencia, la pena prevista en el artículo anterior para el rapto violento se aumentará hasta una mitad más.
+Al que sustraiga con los mismos fines e iguales circunstancias a que se refiere el artículo precedente, o retenga a una persona menor de catorce años de edad, o que no tenga capacidad de comprender o que por cualquier causa no pudiere resistir, se le aumentará hasta en una mitad las penas previstas en dicho artículo.
 
 ###### ARTICULO 171.
 
@@ -1295,6 +1313,8 @@ El delito de rapto se perseguirá por querella.
 
 ### CAPITULO I. VIOLACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ## TITULO QUINTO. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO II. INSEMINACION ARTIFICIAL INDEBIDA
@@ -1303,11 +1323,31 @@ El delito de rapto se perseguirá por querella.
 
 Al que amenace a otro con causarle daño en alguno de sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor, amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de tres meses a dos años o de ciento ochenta a trescientos sesenta días multa.
 
-Este delito sólo se perseguirá por querella.
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Se agravará la penalidad de este delito con dos a seis años de prisión en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+I.- Cuando la amenaza se profiera por el acusado de un delito o un tercero para favorecer a éste, y el sujeto pasivo sea el acusador, víctima, ofendido o testigo; o
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+II.- Cuando el responsable de la amenaza sea un servidor público y ésta sea proferida con motivo de sus funciones; además se destituirá del cargo, oficio o comisión e inhabilitará para cualquier otro oficio, cargo o puesto público hasta por cinco años.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+No constituyen amenazas las actuaciones de las autoridades realizadas conforme a sus atribuciones y con estricto apego a la ley.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Este delito se perseguirá por querella.
 
 ### CAPITULO III. ATENTADOS AL PUDOR
 
 ### CAPITULO IV. ESTUPRO
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 174.
 
@@ -1322,6 +1362,8 @@ Cuando el asalto se cometa utilizando armas de fuego contra un poblado o parte d
 ## TITULO SEXTO. DELITOS CONTRA LA INVIOLABILIDAD DEL DOMICILIO Y DE LA INTIMIDAD
 
 ### CAPITULO VI. DISPOSICIONES COMUNES DE ESTE TITULO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 176.
 
@@ -1357,7 +1399,7 @@ Este delito se perseguirá por querella.
 
 ###### ARTICULO 179.
 
-A quien por medio de la violencia física o moral, realice cópula con una persona de cualquier sexo y sin la voluntad de ésta, se le impondrá prisión de seis a once años.
+A quien por medio de la violencia física o moral, realice cópula con persona de cualquier sexo sin la voluntad de ésta, se le impondrá prisión de seis a quince años.
 
 Para los efectos de este código, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
@@ -1383,7 +1425,9 @@ La pena se aumentará hasta en una mitad más, si la inseminación se hace en un
 
 Comete el delito de atentados al pudor, el que ejecuta en una persona púber, sin el consentimiento de ésta, o en quien por cualquier causa no pudiera resistir, o en impúber, un acto erótico sexual sin el propósito directo e inmediato de llegar a la cópula.
 
-Al responsable de este delito se le impondrá de tres meses a seis meses de prisión y de uno a diez días multa si la persona ofendida fuere púber. Si el acto erótico sexual se ejecuta o se obliga a ejecutarlo con persona menor a doce años de edad, o mayor de esa edad pero que no tenga capacidad de comprender o que por cualquier causa no pueda resistirlos, la penalidad aplicable será de dos a seis años de prisión.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+Al responsable de este delito se le impondrá de tres meses a un año de prisión si la persona ofendida fuere púber. Si el acto erótico sexual se ejecuta o se obliga a ejecutarlo con persona menor de doce años de edad, o mayor de esa edad pero que no tenga capacidad de comprender o que por cualquier causa no pueda resistirlos, la penalidad aplicable será de dos a seis años de prisión.
 
 Cuando se empleare la violencia, la pena será de doss (sic) a ocho años de prisión.
 
@@ -1391,7 +1435,7 @@ Cuando se empleare la violencia, la pena será de doss (sic) a ocho años de pri
 
 ###### ARTICULO 184.
 
-Al que tenga cópula con una mujer menor de dieciocho años pero mayor de dieciséis, casta y honesta, obteniendo su consentimiento por medio de engaño, se le aplicará prisión de seis meses a tres años. Si la mujer es mayor de doce pero no de dieciséis años, la prisión será de uno a cuatro años. Se presume que existe engaño cuando la mujer sea menor de dieciséis años.
+Al que tenga cópula con una mujer menor de dieciocho años pero mayor de dieciséis, casta y honesta, obteniendo su consentimiento por medio de engaño, se le aplicará prisión de uno a cuatro años. Si la mujer es mayor de doce pero menor de dieciséis años, se aumentará en una mitad la pena anterior. Se presume que existe engaño cuando la mujer sea menor de dieciséis años.
 
 ### CAPITULO V. DELITO INFORMATICO
 
@@ -1409,7 +1453,7 @@ Igual pena se aplicará al que imponga la misma condición a que se refiere el p
 
 ###### ARTICULO 186.
 
-Sólo se perseguirá por querella de parte ofendida o de sus legítimos representantes, los delitos de atentados al pudor, estupro y el de aprovechamiento sexual.
+Sólo se perseguirá por querella de parte ofendida o de sus legítimos representantes, los delitos de atentados al pudor, estupro y el de acoso sexual.
 
 Para el delito de estupro, tanto el perdón otorgado por quien legalmente pueda hacerlo como el matrimonio del agente con la ofendida, extinguen la pretensión punitiva, cesando la acción penal, salvo que se declare nulo el matrimonio dentro del término de un año.
 
@@ -1417,11 +1461,23 @@ Para el delito de estupro, tanto el perdón otorgado por quien legalmente pueda 
 
 Cuando se trate de los delitos de violación, inseminación artificial ilegal o atentados al pudor, las sanciones se aumentarán hasta una tercera parte en cualquiera de los siguientes casos:
 
-I.- Tener el agente responsable del delito, parentesco consanguíneo, por afinidad o civil con el ofendido;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
-II.- Cuando se realice aprovechando el agente la autoridad que ejerza sobre el ofendido, o fuere su tutor, maestro, o cometiere el delito aprovechándose de su cargo de servidor público; o
+I.- Tener el agente parentesco consanguíneo, por afinidad o civil con el ofendido;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+II.- Cuando se realice aprovechando el agente su cargo de servidor público o la autoridad que ejerza sobre el ofendido, o fuere su maestro; o
 
 III.- Cuando se cometa el delito aprovechándose de las circunstancias de que el agente es profesional de la medicina o de sus disciplinas auxiliares, además de la pena de prisión la autoridad judicial podrá determinar la suspensión del ejercicio profesional por el término de hasta cinco años.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+En el caso de la fracción I de este artículo, además de la pena prevista, se le privará al sujeto activo del ejercicio de la patria potestad, tutela o custodia que pudiere tener en relación con el sujeto pasivo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+En el caso de la fracción II de este artículo, además de la pena prevista, se le privará del empleo, cargo o profesión e inhabilitará para ejercer otro empleo o cargo de la misma naturaleza hasta por cinco años.
 
 ###### ARTICULO 188.
 
@@ -1431,11 +1487,15 @@ La reparación del daño, con excepción del delito de atentados al pudor, compr
 
 ### CAPITULO IX. EXTORSION
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 189.
 
 Al que mediante comunicación dolosa, impute a una persona física o moral un hecho que cause a ésta descrédito, deshonra o afecte su reputación, se le impondrá prisión de tres meses a dos años o de noventa a ciento ochenta días multa.
 
 ### CAPITULO X. USURA
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 190.
 
@@ -1511,17 +1571,21 @@ Comete el delito de robo, el que se apodera de una cosa ajena mueble, sin derech
 
 Para la aplicación de la sanción se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 203.
 
-Cuando el valor de lo robado no exceda de doscientas veces el salario mínimo, se impondrán de tres meses a dos años de prisión y de diez a cien días de multa.
+Cuando el valor de lo robado sea:
 
-Si fuere la primera vez que delinque el inculpado, la autoridad judicial podrá discrecionalmente imponerle cualquiera de esas sanciones o ambas.
+I.- Menor a cincuenta veces el salario mínimo o no sea posible determinar su valor, se impondrá prisión de tres meses a dos años y de cuarenta a cien días multa;
 
-Cuando exceda de doscientas veces, pero no de mil se impondrán de seis meses a cuatro años de prisión y de treinta a doscientos días de multa.
+II.- De cincuenta a doscientas cincuenta veces el salario mínimo, se impondrá prisión de seis meses a tres años y de cuarenta a doscientos días multa;
 
-Cuando exceda de mil veces, pero no de tres mil, se impondrán de uno a seis años de prisión y cincuenta a trescientos días de multa.
+III.- De doscientos cincuenta a setecientas cincuenta veces el salario mínimo, se impondrá prisión de uno a seis años y de ochenta a trescientos días multa; y
 
-Cuando exceda de tres mil veces, se impondrá de dos a diez años de prisión y de cien a cuatrocientos días de multa.
+IV.- Mayor de setecientas cincuenta veces el salario mínimo, se impondrá prisión de dos a ocho años y de ciento ochenta a cuatrocientos días multa.
+
+En los casos de las fracciones I y II, si fuere la primera vez que delinque el inculpado, la autoridad judicial podrá discrecionalmente imponerle cualquiera de esas sanciones o ambas.
 
 ###### ARTICULO 204.
 
@@ -1535,9 +1599,17 @@ III.- Valiéndose de identificaciones falsas o supuestas órdenes provenientes d
 
 IV.- En contra de una oficina recaudatoria u otra en que se conserven caudales, o en contra de las personas que los custodien, manejen o transporten, o en local comercial abierto al público;
 
-V.- Recayendo en expedientes o documentos, con la afectación de alguna función o servicios públicos; o
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
-VI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
+V.- Recayendo en expedientes o documentos, con la afectación de alguna función o servicios públicos;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+VI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad; o
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
 
 ###### ARTICULO 205.
 
@@ -1549,19 +1621,51 @@ II.- En lugar cerrado, habitado o destinado para habitación o sus dependencias,
 
 III.- Mediante la portación o el uso de armas o cualquier otro objeto que puedan intimidar a la víctima.
 
-IV.- Por dos o más personas; o
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+IV.- Por dos o más personas;
 
 V.- De noche o en despoblado o en cualquier otro lugar solitario en que la víctima no pueda encontrar a quien pedir auxilio.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+VI.- Sobre embarcaciones, artes de pesca o cosas que se encuentren en aquéllas; o
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+VII.- En caminos o carreteras de jurisdicción estatal.
 
 ###### ARTICULO 206.
 
 El agravamiento de las penas contenido en los dos artículos anteriores, también se aplicará tratándose de robo indeterminado y robo en grado de tentativa.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 207.
 
-Se impondrá de dos a diez años de prisión y de ciento ochenta a trescientos sesenta días multa, al que se apodere de cualquier vehículo automotor estacionado en la vía pública o en lugar destinado a su guarda o reparación.
+Se impondrá de dos a diez años de prisión y de ciento ochenta a trescientos sesenta días multa, al que se apodere de cualquier vehículo automotor.
 
-Cuando en el interior del vehículo, estacionado o en circulación, se encuentre el conductor o algún pasajero, la pena se aumentará hasta en una mitad.
+Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las circunstancias previstas en el artículo 205 de este Código, la pena se aumentará de dos a diez años de prisión.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+###### ARTICULO 207 Bis.
+
+Se impondrán las mismas penas del artículo anterior al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
+
+I.- Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes;
+
+II.- Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
+III.- Detente, posea o custodie sin derecho, la documentación que acrediten la propiedad o identificación de un vehículo robado o bien, la altere o modifique de cualquier manera;
+
+IV.- Traslade el o los vehículos robados a otra entidad federativa; o
+
+V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+A quien aporte recursos económicos o de cualquier índole, para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará copartícipe en los términos del artículo 18 de este Código.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos hasta por el doble del tiempo de la pena de prisión impuesta.
 
 ###### ARTICULO 208.
 
@@ -1665,13 +1769,17 @@ Se equiparará al abigeato y se sancionará con las mismas penas la adquisición
 
 Se presumirá robado, salvo prueba en contrario, el ganado herrado con un fierro no registrado ante la autoridad competente o con uno falsificado o alterado mediante el uso de alambre, planchas, argollas o por cualquier otro medio.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 220.
 
-Al responsable del delito de abigeato consumado en ganado vacuno, caballar o mular, se le sancionará con prisión de cuatro a diez años y de treinta a ciento ochenta días multa.
+Al responsable del delito de abigeato consumado en ganado vacuno, caballar o mular, se le sancionará con prisión de cinco a doce años y de ciento ochenta a trescientos días multa.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 221.
 
-Al responsable del delito de abigeato consumado en ganado de cualquier otra de las especies no previstas en el artículo anterior, se le sancionará con prisión de seis meses a seis años y de quince a noventa días multa.
+Al responsable del delito de abigeato consumado en ganado de cualquier otra de las especies no previstas en el artículo anterior, se le sancionará con prisión de dos a siete años y de ochenta a doscientos cincuenta días multa.
 
 ###### ARTICULO 222.
 
@@ -1681,9 +1789,11 @@ Cuando se trate de ganado que sea pie de cría o sementales en producción para 
 
 Al que transporte ganado sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá prisión de seis meses a tres años y de diez a sesenta días multa.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 224.
 
-Al que se apodere de cinco o más cabezas de ganado, cualquiera que sea su especie, se le impondrán de cuatro a doce años de prisión y de doscientos a cuatrocientos días multa.
+Al que se apodere de cinco o más cabezas de ganado, cualquiera que sea su especie, calidad o destino, se le impondrá prisión de seis a catorce años y de doscientos cincuenta a cuatrocientos días multa.
 
 ### CAPITULO I. DISPARO DE ARMA DE FUEGO Y ATAQUES PELIGROSOS
 
@@ -1729,13 +1839,17 @@ Es punible el daño en propiedad causado culposamente.
 
 ###### ARTICULO 231.
 
-Al que para obtener un lucro obligue a otro a realizar u omitir un acto en perjuicio de su patrimonio o al de un tercero, se le impondrán las sancione (sic) previstas para el robo con violencia.
+Al que procurándose para sí o para otro un lucro indebido, obligue a una persona a realizar u omitir un acto en perjuicio de su patrimonio o al de un tercero, se le impondrá prisión de cuatro a doce años y de doscientos a cuatrocientos cincuenta días multa.
+
+Si la extorsión es realizada por una asociación delictuosa, o por servidor público, de cualquier ámbito de la administración pública o corporación policíaca, la pena se aumentará en una mitad; además, de la destitución del empleo, cargo o comisión y la inhabilitación para desempeñar ese u otro empleo, cargo o puesto público hasta por cinco años. Las mismas sanciones previstas en este párrafo, se aplicarán a quien habiendo sido servidor público realice la extorsión dentro de los tres años siguientes contados a partir de que concluyó la prestación de su servicio.
 
 ### CAPITULO IV. ASOCIACION DELICTUOSA
 
 ###### ARTICULO 232.
 
-Al que aprovechándose de la necesidad apremiante, ignorancia o inexperiencia de una persona, obtenga para sí o para otro un interés excesivo o cualquier otro lucro evidentemente desproporcionado con la naturaleza de la operación o los usos comerciales, se le impondrá prisión de tres meses a tres años y de veinte a doscientos días multa.
+Comete el delito de usura, el que abusando de la necesidad o ignorancia de una persona obtenga un lucro excesivo mediante préstamo con un interés superior al bancario u otras ventajas económicas desproporcionadas, de acuerdo con la naturaleza de la operación o con los usos comerciales.
+
+Al responsable del delito de usura se le impondrá prisión de seis meses a seis años y de cuarenta a trescientos días multa.
 
 ### CAPITULO V. PROVOCACION PARA COMETER UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
@@ -1791,9 +1905,11 @@ Si antes de dictarse sentencia en primera instancia y con los mismos requisitos 
 
 Lo dispuesto en este artículo, no será aplicable tratándose de delitos en que el agente sea un servidor público, si se aprovecha del cargo para cometerlo.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 237.
 
-Los delitos de robo, abigeato, y encubrimiento por receptación se perseguirán de oficio, excepto cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos, que sólo se perseguirán por querella de parte, al igual que los demás delitos previstos en este Título, incluyendo el robo de uso.
+Los delitos de robo, robo bancario, abigeato, encubrimiento por receptación y extorsión se perseguirán de oficio, excepto cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos, casos en que sólo se perseguirán por querella de parte, al igual que los demás delitos previstos en este Título, incluyendo el robo de uso.
 
 ###### ARTICULO 238.
 
@@ -2469,6 +2585,10 @@ El testigo, perito o intérprete que retracte espontáneamente sus falsas declar
 
 Al que sin causa legítima rehusare prestar un servicio de interés público al que la ley obligue, o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de tres meses a un año o de treinta a ciento ochenta días multa.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+
+ARTICULO 316 BIS.- Al que sin causa legal desobedeciere el mandato de arraigo domiciliario o la prohibición de abandonar una demarcación geográfica, dictado en su contra por la autoridad judicial, se le aplicarán de uno a tres años de prisión y de diez a doscientos días multa.
+
 ###### ARTICULO 317.
 
 Al que debiendo declarar ante la autoridad y sin que le beneficien las excepciones legales se niegue a otorgar la protesta de ley o a declarar, pagará de diez a treinta días multa. En caso de reincidencia se impondrá prisión de tres a seis meses o de treinta a noventa días multa.
@@ -2940,3 +3060,7 @@ P.O. 8 DE ABRIL DE 1998.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE OCTUBRE DE 1998.
+
+ÚNICO.- El presente decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial El Estado de Sinaloa.
