@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interno-de-la-comision-estatal-de-derechos-14776"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-26"
-last_updated: "1993-08-26"
+last_updated: "1994-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 26 de agosto de 1993.
 
@@ -101,9 +101,11 @@ Los Servidores Públicos de la Comisión no estarán obligados a rendir testimon
 
 El personal de la Comisión prestará sus servicios, inspirado primordialmente, en los altos principios que conforman su existencia y los propósitos de la misma, en consecuencia, deberá procurar en toda circunstancia la protección de los Derechos Humanos de los quejosos, participar en las acciones de promoción de los Derechos Humanos y elevar al conocimiento y resolución de sus superiores jerárquicos toda iniciativa que contribuya a la mejor realización de las finalidades de la Institución.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 12°.
 
-La Comisión contará con un órgano de difusión que se denominará "Crónica de la Comisión Estatal de Derechos Humanos". Su periodicidad será trimestral y en ella se publicarán las Recomendaciones o sus síntesis, los Documentos de No Responsabilidad, los informes especiales y los materiales varios que, por su importancia, merezcan darse a conocer mediante tal publicación.
+La Comisión contará con un órgano de difusión que se denominará "Crónica de la Comisión Estatal de Derechos Humanos". Su periodicidad será cuatrimestral y en ella se publicarán las Recomendaciones o sus síntesis, los Documentos de No Responsabilidad, los informes especiales y los materiales varios que, por su importancia, merezcan darse a conocer mediante tal publicación.
 
 ## TITULO II. FUNCIONES DE LA COMISION ESTATAL
 
@@ -750,3 +752,9 @@ UNICO.- El presente Reglamento cobrará vigencia al día siguiente de su publica
 Dado en la Ciudad de Querétaro a los veintiséis días del mes de abril de mil novecientos noventa y tres.
 
 Por el Consejo: Lic. Adolfo Ortega Zarazúa, Presidente, Rúbrica.- Lic. Manuel Suárez, Rúbrica.- Lic. José Arana, Rúbrica.- Lic. Pbro. Domingo Díaz, Rúbrica.- Profra. Dorotea Soriano, Rúbrica.- Dr. Carlos Dorantes, Rúbrica.- Lic. Araceli Ardón, Rúbrica.- Lic. José Carlos Rojano Esquivel, Secretario, Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE MAYO DE 1994.
+
+UNICO. La presente reforma inicia su vigencia a partir de la publicación en el Periódico Oficial del Gobierno del Estado "La sombra de Arteaga".
