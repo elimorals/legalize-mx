@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2002-10-09"
+last_updated: "2002-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -154,6 +154,14 @@ En el supuesto de que la Junta de Gobierno acuerde la creación de un comité, p
 > <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2001)</small>
 
 En el caso de que el Gobernador acuerde la creación de un comité, podrá invitar a sus sesiones a un miembro de la Junta de Gobierno, quien participará únicamente con voz.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+El Banco contará con un Comité de Información para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente reglamento y estará integrado por el Director de Relaciones Exteriores, el Director de Coordinación de la Información y el Director de Disposiciones de Banca Central. No habrá miembros suplentes y podrá sesionar con la asistencia de dos de sus integrantes, debiendo reunirse cuando menos dos veces al año.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de Empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y la Secretaría se llevará conforme a la fracción II del artículo 30 del presente Reglamento.
 
 ###### ARTICULO 5o.
 
@@ -327,7 +335,7 @@ III. Emitir la opinión que corresponda dar al Banco cuando la ley lo determine;
 
 > <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1997)</small>
 
-IV.- Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
+IV. Expedir las disposiciones relativas a los fideicomisos constituidos en el Banco por encomienda legal, o bien, aquéllos cuyos fines coadyuven al desempeño de sus funciones;
 
 > <small>(ADICIONADA, D.O.F. 4 DE AGOSTO DE 2000)</small>
 
@@ -382,6 +390,10 @@ VII. Coordinar y organizar, en el ámbito de su competencia, los Consejos Region
 VIII. Atender las actividades protocolarias y sociales pertinentes para el correcto desenvolvimiento de las funciones institucionales, y
 
 IX. Tener a su cargo el acervo cultural.
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+X. Tener a su cargo la Unidad de Enlace a que se refiere la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. La citada Unidad de Enlace tendrá las atribuciones que señala el artículo 31 Bis de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -829,11 +841,69 @@ XIX. Desahogar las solicitudes planteadas al Banco de México en materia de conf
 
 XX. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición.
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+XXI. Conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración interpuestos en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+XXII. Notificar a los interesados, las resoluciones de los recursos a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+XXIII. Supervisar la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+XXIV. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 31.
 
-(DEROGADO, D.O.F. 16 DE MARZO DE 2001)
+El Comité de Información tendrá las atribuciones siguientes:
 
-ARTICULO 31 BIS.- (DEROGADO, D.O.F. 16 DE MARZO DE 2001)
+I. Coordinar las acciones del Banco tendientes a proporcionar un correcto acceso a la información de que trata la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+
+II. Establecer los criterios en materia de clasificación y desclasificación de la información;
+
+III. Emitir las medidas, lineamientos o procedimientos internos que procuren la mayor eficiencia y eficacia en la gestión de las solicitudes de acceso a la información;
+
+IV. Establecer los criterios en materia de organización de archivos, según lo establecido en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+
+V. Confirmar, modificar o revocar la clasificación de la información hecha por las Unidades Administrativas del Banco;
+
+VI. Aprobar los formatos de solicitudes de acceso a la información que elabore la Unidad de Enlace;
+
+VII. Elaborar una guía para el fácil acceso a la información pública que genere el Banco;
+
+VIII. Establecer los costos a que se refiere el artículo 27 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+IX. Promover y, en su caso, instrumentar la capacitación de los trabajadores del Banco en materia de acceso a la información y protección de datos personales;
+
+X. Elaborar las reglas necesarias para su operación, y
+
+XI. Invitar a sus sesiones a aquellos funcionarios del Banco que pudieran auxiliarle en el desahogo de los asuntos que en las mismas se traten.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 31 BIS.- La Unidad de Enlace tendrá las atribuciones siguientes:
+
+I. Recibir y dar trámite a las solicitudes de acceso a la información que presente el público interesado, relativas a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+
+II. Poner a disposición del público, de manera gratuita, los formatos para solicitar información, así como equipo de cómputo en las instalaciones que indique el propio Banco, con objeto de que los interesados puedan obtener la información pública que se requiera;
+
+III. Promover ante la Dirección de Coordinación de la Información del Banco, la actualización permanente y periódica de la información pública que posea el propio Banco, así como de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público;
+
+IV. Elaborar un registro de las solicitudes de acceso a la información, sus resultados y costos;
+
+V. Proponer al Comité de Información, las medidas, lineamientos o procedimientos internos que procuren la mayor eficiencia y eficacia en la gestión de las solicitudes de acceso a la información;
+
+VI. Proponer al Comité de Información, la aprobación de los formatos de solicitudes de acceso a la información que al efecto elabore;
+
+VII. Certificar los extractos o copias que contengan la información solicitada por el interesado, cuando este último así lo solicite, y
+
+VIII. Las demás que sean necesarias para garantizar y agilizar el acceso de la información al público en general.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
@@ -1196,3 +1266,7 @@ UNICO. Las presentes reformas, adiciones y derogaciones, entrarán en vigor a pa
 D.O.F. 9 DE OCTUBRE DE 2002.
 
 UNICO. Las presentes reformas y derogaciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 2002.
+
+UNICO.- Las adiciones de referencia entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
