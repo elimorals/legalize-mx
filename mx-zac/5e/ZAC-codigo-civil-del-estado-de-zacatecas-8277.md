@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "1994-11-23"
+last_updated: "1995-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -149,7 +149,7 @@ De la repetición de la prestación hecha a título de pago.
 
 En el capítulo de evicción y saneamiento se estipula: que la sola mención que se haga en el contrato de compraventa de la renuncia al derecho a la evicción se tendrá por no puesta, en atención a que es ordinario que se ponga esta cláusula en los contratos transcribiendo "Machotes", sin que las partes se enteren de su contenido, en consecuencia tal renuncia será válida sólo cuando se haga constar en el contrato, que las partes se enteraron de su trascendencia y así lo aceptaron, contrato que deberá ser redactado ante el notario y testigos, o solamente ante testigos según el caso.
 
-En el capítulo relativo a los actos celebrados en fraude de acreedores, se adiciona un artículo señalando las consecuencias de la revocación del acto oneroso o gratuito, y el retorno al patrimonio del deudor de los bienes, derechos o valores que hubieren transferido a terceros.
+En el capítulo relativo a los actos celebrados en fraude de acreedores, se adiciona un artículo señalando las consecuencias de la revocación del acto oneroso o gratuito, y el retorno al patrimonio del deudor de los bienes, derechos o valores que hubiere transferido a terceros.
 
 En el título de la simulación de los actos jurídicos, se aclara cuál es la simulación relativa y cuál la absoluta y sus consecuencias jurídicas, señalándose cuáles son las consecuencias del acto simulado.
 
@@ -627,9 +627,9 @@ Tiene también la obligación impuesta por la fracción II del artículo 115.
 
 127.- Posesión continua es la que no ha sido interrumpida por algunos de los medios enumerados en el Capítulo Quinto, Título Séptimo de este Libro.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
-128.- La posesión pública es la que se disfruta de manera que pueda ser conocida por todos aquéllos que tengan interés en interrumpirla y que, además, se encuentre inscrita en el Registro Público de la Propiedad.
+128.- La posesión pública es la que se disfruta de manera que pueda ser conocida por todos aquéllos que tengan interés en interrumpirla. También la que está legalmente inscrita en el Registro Público de la Propiedad.
 
 129.- Posesión cierta es la que se tiene por una causa que no da lugar a dudas respecto al concepto originario o derivado de la misma posesión. Posesión equívoca es la que se tiene por un hecho o acto jurídico que dé lugar a duda respecto del concepto originario o derivado de la misma posesión.
 
@@ -1583,7 +1583,7 @@ II.- En cinco años cuando la posesión sea de mala fe.
 
 462.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose siempre dicha posesión como de mala fe.
 
-463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
+463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
 
 464.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de Título de propiedad al poseedor.
 
@@ -2717,7 +2717,7 @@ I.- Los empleados y funcionarios públicos;
 
 II.- Los militares en servicio activo;
 
-III.- Los que fueren tan pobres que no puedan atender al albacerazgo sin menoscabo de su subsistencia.
+III.- Los que fueren tan pobres que no puedan atender al albaceazgo sin menoscabo de su subsistencia.
 
 IV.- Los que por el mal estado habitual de salud o por no saber leer y escribir, no pudieran atender debidamente el albaceazgo;
 
@@ -2727,7 +2727,7 @@ VI.- Los mayores de setenta y cinco años.
 
 874.- El albacea que estuviere ejerciendo el cargo mientras se decide sobre su excusa, debe desempeñarlo, bajo la pena establecida en el artículo 871.
 
-875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos
+875.- El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente, ya que puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
 
 876.- El albacea universal está obligado a entregar al especial las cantidades o bienes necesarios para que cumpla la parte del testamento que estuviere a su cargo.
 
@@ -2813,7 +2813,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 
 En el caso que fueren varios los herederos inconformes, los convenios se harán por mayoría de votos.
 
-906.- El heredero o herederos que no hubiesen estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un inventor que vigile la administración del albacea. Tal nombramiento se hará en su caso, por mayoría de votos.
+906.- El heredero o herederos que no hubiesen estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un interventor que vigile la administración del albacea. Tal nombramiento se hará en su caso, por mayoría de votos.
 
 907.- Los interventores podrán realizar exámenes de las operaciones, documentación, registro y demás evidencias comprobatorias en el grado y extensión que sean necesarios para efectuar la vigilancia del exacto cumplimiento del cargo de albacea.
 
@@ -6839,7 +6839,7 @@ IV.- De los daños y perjuicios que haya sufrido por causa del deudor.
 
 2288.- Si el deudor, ignorando el pago por falta de aviso del fiador, paga de nuevo, no podrá éste repetir contra aquél, sino sólo contra el acreedor.
 
-2289.- Si el fiador ha pagado en virtud de fallo judicial, y por motivo fundado no pudo hacer saber el pago al deudor, éste quedará obligado a indemnizar a aquél y no podrá oponerle más excepciones que las que sean inherentes a la obligación y que no hubieren sido opuestas por el fiador, teniendo conocimiento de ellas.
+2289.- Si el fiador ha pagado en virtud de fallo judicial, y por motivo fundado no puedo hacer saber el pago al deudor, éste quedará obligado a indemnizar a aquél y no podrá oponerle más excepciones que las que sean inherentes a la obligación y que no hubieren sido opuestas por el fiador, teniendo conocimiento de ellas.
 
 2290.- Si la deuda fuere a plazo o bajo condición, y el fiador la pagare antes de que aquél o ésta se cumplan, no podrá cobrarla del deudor sino cuando fuere legalmente exigible.
 
@@ -7799,29 +7799,29 @@ IV.- Mediante la inscripción del decreto publicado en el Periódico Oficial del
 
 V.- Mediante la inscripción del contrato privado de compraventa autenticado en los términos del artículo 2474, fracción III, acompañado de la certificación de no inscripción de la finca y de un plano de la misma.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 1995)</small>
 
-2516.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga titulo de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción positiva por no estar inscrita en el Registro Público de la Propiedad de los bienes a favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles, comprobando la causa generadora de la posesión.
+2516.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga documento de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción de prescripción positiva a que se refiere el artículo 463, podrá demostrar ante el Juez competente que ha tenido esa posesión, aportando la información testimonial respectiva en los términos que establezca el Código de Procedimientos Civiles y revelando la causa generadora de la posesión.
+
+La información se recibirá con citación del Ministerio Público, al cual se le notificará el auto inicial del procedimiento; de la autoridad municipal; del respectivo registrador de la propiedad; de los colindantes y de las personas a cuyo nombre se expidan las boletas del impuesto predial. Los testigos deberán ser cuando menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere. Cualquiera de las personas indicadas podrá oponerse, con pruebas idóneas, al trámite del procedimiento.
 
 A su solicitud acompañará:
 
 I.- Certificado de Registro Público que demuestre que los bienes no están inscritos;
 
-II.- Certificados del estado actual del inmueble en los registros fiscales de las oficinas rentísticas del Estado;
+II.- Certificado actual del inmueble en los registros fiscales de las oficinas rentisticas del Estado;
 
-III.- Dictamen de la Dirección General de Desarrollo Urbano y Ecología declarando procedente la solicitud en lo que a ella corresponda
+III.- Un plano de la ubicación y localización del bien expedido y aprobado por las autoridades catastrales y municipales;
 
-IV. Un plano de la ubicación y localización del bien expedido y aprobado por las autoridades catastrales estatales y municipales;
+IV.- Opinión del Ayuntamiento Municipal del lugar de ubicación del inmueble;
 
-V.- Opinión del H. Ayuntamiento Municipal de la ubicación del inmueble; y
+V.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos del Gobierno del Estado, para acreditar que el o los inmuebles no se encuentran sujetos a las leyes correspondientes:
 
-VI.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y Dirección de Fraccionamientos de Gobierno del Estado, en los que se acredite que el o los inmuebles no se encuentran sujetos a las leyes correspondientes.
+El juez que conozca del asunto solicitará directamente los certificados a que se refiere la fracción V, y las autoridades competentes los expedirán en un término no mayor de treinta días naturales contados a partir del día siguiente en que conste fue recibido el oficio de solicitud. Transcurrido el término sin que se hayan expedido, se tendrá por contestado en sentido negativo.
 
-El dictamen y certificados a que se refieren las fracciones III y VI, los solicitará directamente el Juez que conozca del asunto, y las autoridades involucradas lo expedirán en un término no mayor de 30 días naturales contados a partir del día siguiente en que conste fue recibido el oficio de solicitud.
+De igual forma, el juez referido o secretario de acuerdos correspondiente, deberán practicar antes de recibir la información testimonial, inspección de los inmuebles de que se trate citando posteriormente a los colindantes.
 
-Transcurrido el término sin que se haya expedido, se tendrá por contestado en sentido negativo. En el caso del Registro Agrario Nacional, se solicitará a la Delegación de la Secretaría de la Reforma Agraria en el Estado.
-
-La información se recibirá en los términos que establece el Codigo Procedimietnos Civiles.
+Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
 
 2517.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
 
@@ -8042,3 +8042,7 @@ P.O. 23 DE NOVIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
