@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1986-01-20"
+last_updated: "1988-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1988.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -61,13 +61,21 @@ Para el despacho de los asuntos que competen al Gobernador del Estado, este func
 
 Para el trámite de los asuntos que merezcan la atención directa del Gobernador del Estado, contará con la Secretaría Particular y las unidades de asesoría, de apoyo técnico y de coordinación que él mismo determine, de conformidad con el Presupuesto de Egresos que se le asigne.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+
 ###### ARTICULO 4o.
 
-Los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás Comisiones, Comités, Patronatos, y Juntas que funcionen en el Estado, integran la Administración Pública Paraestatal y serán coordinados por las Dependencias del Ejecutivo que éste señale.
+Cuando la prestación de servicios públicos o sociales, la explotación de bienes o recursos propiedad del Estado, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia o seguridad social, que por su naturaleza y fines requieran ser atendidos de manera especial, el Gobernador del Estado podrá descentralizar sus funciones depositándolas en entidades de la Administración Pública Paraestatal.
+
+Los Organismos Descentralizados, Empresas de Participación Estatal y Fideicomisos que funcionen en el Estado, integran la Administración Pública Paraestatal y serán coordinados por las Dependencias del Ejecutivo, que por acuerdo especial convenga al Gobernador del Estado.
+
+Las Leyes, Decretos o Acuerdos especiales que establecen la creación de las entidades, determinarán claramente sus atribuciones, el grado de autonomía, normas de funcionamiento y las relaciones que deban darse entre éstas y el Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 5o.
 
-El Gobernador del Estado podrá crear y suprimir por Decreto, Organismos Descentralizados, Comités, Patronatos, Juntas, Comisiones y demás Departamentos y Oficinas especializadas, así como ordenar la constitución y disolución de Empresas de Participación Estatal, asignándoles las funciones que estimen convenientes.
+Las Dependencias de la Administración Pública Centralizada y las entidades de la Administración Pública Paraestatal, conducirán sus actividades en forma programada, basándose en las políticas que para el logro de objetivos y prioridades del desarrollo del Estado, establezca el Gobernador en cumplimiento de la Ley Estatal de Planeación.
 
 ###### ARTICULO 6o.
 
@@ -169,11 +177,13 @@ XIX.- Comisión Agraria Mixta.
 
 ### CAPITULO I
 
-DE LA SECRETARIA GENERAL DE GOBIERNO, OFICIALIA MAYOR DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA, SECRETARIA DE FINANZAS, SECRETARIA DE LA CONTRALORIA GENERAL Y DIRECCIONES.
+DE LA SECRETARIA GENERAL DE GOBIERNO, OFICIALIA MAYOR DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA, SECRETARIAS Y DIRECCIONES DEL RAMO.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 18.
 
-Sin detrimento de las atribuciones que correspondan a las diferentes Dependencias de la Administración Pública Centralizada, el Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia, el Secretario de Finanzas, el Secretario de la Contraloría General y los Directores tendrán las siguientes facultades y obligaciones:
+Sin detrimento de las atribuciones que correspondan a las diferentes Dependencias de la Administración Pública Centralizada, el Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Procurador General de Justicia, los Secretarios y Directores del ramo, tendrán las siguientes facultades y obligaciones:
 
 I.- Fijar, dirigir y controlar las políticas de la Dependencia a su cargo, así como programar, coordinar y evaluar en los términos de la legislación aplicable las actividades de las Entidades Paraestatales del Sector que le corresponda coordinar;
 
@@ -292,6 +302,8 @@ XV.- Orientar a las Entidades Paraestatales acerca de las normas y políticas de
 XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
 ### CAPITULO IV
 
@@ -960,5 +972,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE NOVIEMBRE DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
 ## TITULO IV. DE LA SECTORIZACION
