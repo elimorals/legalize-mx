@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1986-01-18"
+last_updated: "1993-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -929,7 +929,11 @@ X. Para los negocios relativos a suplir el consentimiento de quien ejerce la pat
 
 XI. Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es del domicilio conyugal;
 
-XII. Para los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+XII. Para los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+XIII. Para los casos de revocación de la adopción el del domicilio del Tribunal que la decretó.
 
 Las reglas de la I a la IV, sobre competencia, se atenderán por su orden.
 
@@ -2239,7 +2243,7 @@ El que tiene a su favor una presunción legal sólo está obligado a probar el h
 
 ###### Artículo 376.
 
-No se admite prueba contra la presunción legal cuando la ley lo prohibe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
+No se admite prueba contra la presunción legal cuando la ley lo prohíbe expresamente y cuando el efecto de la presunción es anular un acto o negar una acción, salvo el caso en que la ley haya reservado el derecho de probar.
 
 Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
@@ -3609,7 +3613,7 @@ III. Las acciones de nulidad de matrimonio;
 
 IV. Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 352 del Código Civil;
 
-V. Los demás en que lo prohiba expresamente la ley.
+V. Los demás en que lo prohíba expresamente la ley.
 
 ###### Artículo 598.
 
@@ -3849,7 +3853,7 @@ II. El acreedor que sin tener derecho real no haya embargado el bien objeto de l
 
 III. El acreedor a quien el deudor señale bienes bastantes a solventar el crédito;
 
-IV. El acreedor a quien la ley lo prohiba en otros casos.
+IV. El acreedor a quien la ley lo prohíba en otros casos.
 
 ###### Artículo 644.
 
@@ -5159,6 +5163,8 @@ De la jurisdicción voluntaria
 
 ### CAPITULO IV. Adopción
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
 ###### Artículo 883.
 
 La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
@@ -5379,23 +5385,21 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ###### Artículo 914.
 
-El que pretenda adoptar a alguna persona deberá acreditar:
+La persona que pretenda adoptar, deberá manifestar en su promoción inicial, el nombre y edad del sujeto o sujetos a adoptar, y el nombre y domicilio de quienes ejerzan sobre él o ellos la Patria Potestad o la tutela, o de las personas o institución de beneficencia que lo hayan acogido si se trata de persona abandonada. Además de cumplir con los requisitos que establecen los artículos 411 y 411 Bis del Código Civil, el solicitante deberá acreditar documentalmente su situación económica, así como su salud física y mental, mediante estudios socioeconómicos, psicológicos y médicos realizados por la Institución de Protección a la Familia.
 
-I. Que es mayor de treinta años y que tiene, por lo menos, diez años más de edad que la persona que trata de adoptar;
-
-II. Que no tiene desentiendes;
-
-III. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptarse;
-
-IV. Que la adopción es benéfica para la persona que trata de adoptarse,
-
-V. Que es el adoptante persona de buenas costumbres.
-
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o institución de beneficencia que lo hayan acogido, o si se trata de persona abandonada.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 915.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 411 y 412 del Código Civil, el tribunal resolverá dentro de tercero día.
+Satisfechos los requisitos que se exigen en el artículo anterior, así como los establecidos en los artículos 411 y 412 del Código Civil, el juez resolverá dentro del siguiente día hábil lo que proceda sobre la adopción.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+###### Artículo 915 Bis.
+
+Una vez dictada la sentencia definitiva que autorice la adopción, el Juez ordenará al Oficial del Registro Civil que cancele mediante una notación marginal correspondiente, el Acta de Nacimiento del adoptado y levante una nueva en la que figuren como padres los adoptantes, los nombres de los abuelos y como hijo, el adoptado. En ningún caso se hará mención de ser adoptado en las copias certificadas de actas de nacimiento que se expidan, ni aún a mérito de aclaración o anotación, la transgresión de esta disposición producirá la remoción del Oficial del Registro Civil, sin perjuicio de las penas en que pudiere incurrir.
+
+El adoptante deberá informar cada seis meses al Juez que la concedió, acerca de los cuidados y formación de los adoptados, hasta el término de tres años. El Juez tendrá la facultad en todo tiempo hasta que el adoptado cumpla la mayoría de edad, de solicitar oficiosamente todos los informes que estime pertinentes afín de cerciorarse del cumplimiento de los deberes del adoptante a favor del adoptado, para tal efecto deberá de llevar un libro sobre el exacto control de las adopciones que autorice. En caso de existir irregularidades, lo pondrá en conocimiento de las personas que conforme al artículo 411 dieron su consentimiento o en su caso al Ministerio Público, para que promuevan la revocación. Si se trataré de un hecho delictuoso solicitará al Representante Social la integración de la correspondiente averiguación previa.
 
 ###### Artículo 916.
 
@@ -5405,9 +5409,11 @@ Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar 
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
 ###### Artículo 917.
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 408 y 419, fracción II, del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+La impugnación de la adopción o su revocación, en los casos de los artículos 408 y 419 fracciones II, y III del Código Civil, se tramitarán en la vía de controversias del Orden Familiar.
 
 ### CAPITULO UNICO. De las controversias de orden familiar
 
@@ -5938,3 +5944,7 @@ DECRETO No. 139, QUE REFORMA LOS ARTICULOS 931 Y 933 DEL PRESENTE CODIGO.
 PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Todos los asuntos civiles y mercantiles actualmente en trámite ante los Juzgados de Primera Instancia del Estado, que por la nueva cuantía correspondieran a los Alcaldes, continuarán tramitándose ante los Juzgados de Primera Instancia hasta su conclusión.
+
+P.O. 2 DE OCTUBRE DE 1993.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor quince días después de su publicación en el Periódico Oficial del Estado.
