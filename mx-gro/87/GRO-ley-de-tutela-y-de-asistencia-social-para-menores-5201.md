@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-tutela-y-de-asistencia-social-para-menores-5201"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-13"
-last_updated: "1988-12-13"
+last_updated: "1989-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GRO"
 
 LEY DE TUTELA Y DE ASISTENCIA SOCIAL PARA MENORES INFRACTORES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO QUINTO DEL DECRETO DE REFORMAS Y ADICIONES A LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA, SE REFORMAN TODAS AQUELLAS LEYES, A EFECTO DE QUE CUANDO SE REFIERAN A LA "SECRETARIA DE GOBIERNO" EN LO SUCESIVO LO HAGAN A LA "SECRETARIA GENERAL DE GOBIERNO, P.O. 28 DE NOVIEMBRE DE 1989.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de diciembre de 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1989.
+
+Ley publicada en el Periódico Oficial, el martes 13 de diciembre de 1988.
 
 JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 
@@ -57,7 +59,9 @@ La competencia de las dependencias y unidades administrativas quedará como sigu
 
 I.- El Albergue Asistencial para Menores Infractores de la Secretaría de Desarrollo Social atenderá a los infractores menores de catorce años, contándose con la asesoría técnica del Sistema para el Desarrollo Integral de la Familia del Estado, conforme a su Ley Orgánica, y con sujeción a las normas federales y locales que rijan a la asistencia social;
 
-II.- El Albergue Tutelar dependiente de la Secretaría de Gobierno atenderá a los infractores de más de catorce años y hasta dieciocho. La Dirección General de Readaptación Social, proporcionará auxilio técnico a ese Albergue.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
+II.- El Albergue Tutelar dependiente de la Secretaría General de Gobierno atenderá a los infractores de más de catorce años y hasta dieciocho. La Dirección General de Readaptación Social, proporcionará auxilio técnico a ese Albergue.
 
 Cuando sea técnicamente necesario, en los Albergues a los que se refieren las fracciones anteriores, operarán secciones para infractores de alta peligrosidad.
 
@@ -161,9 +165,11 @@ El Consejo Tutelar para Menores Infractores, tendrá su sede en la Capital del E
 
 El Consejo Tutelar para Menores Infractores tendrá por objeto promover la rehabilitación social de los menores de dieciocho años de edad, en los casos a que se refiere esta ley, mediante el estudio y atención de su personalidad, la aplicación de medidas educativas y de protección, así como la vigilancia del tratamiento.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 18.
 
-El Consejo Tutelar para Menores Infractores, gozará de plena autonomía en el ejercicio de sus funciones de carácter eminentemente técnico, y dependerá, en el orden administrativo y operativo de la Secretaría de Gobierno.
+El Consejo Tutelar para Menores Infractores, gozará de plena autonomía en el ejercicio de sus funciones de carácter eminentemente técnico, y dependerá, en el orden administrativo y operativo de la Secretaría General de Gobierno.
 
 ### CAPITULO II. DE LA ORGANIZACION DEL CONSEJO TUTELAR
 
@@ -621,9 +627,11 @@ En el Albergue Tutelar, se alojarán los menores de 14 a 18 años de edad que se
 
 Esta Institución será centro de observación y tratamiento en donde se atenderá a los menores de edad bajo el sistema de clasificación atendiendo a su edad, condiciones de personalidad, estado de salud y demás circunstancias pertinentes. Se procurará ajustar el régimen del Albergue al de los internados escolares, en cuanto al trato que depare a los internos y a los sistemas y facilidades de educación, recreo, higiene y disciplina.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 76.
 
-El Albergue Tutelar dependerá de la Secretaría de Gobierno, contará con el personal técnico y administrativo y de custodia que sus necesidades exijan y su finalidad fundamental será la de servir como institución auxiliar del Consejo Tutelar.
+El Albergue Tutelar dependerá de la Secretaría General de Gobierno, contará con el personal técnico y administrativo y de custodia que sus necesidades exijan y su finalidad fundamental será la de servir como institución auxiliar del Consejo Tutelar.
 
 ###### ARTICULO 77.
 
@@ -635,7 +643,9 @@ Son atribuciones del Director del Albergue Tutelar:
 
 I.- Representar al Albergue Tutelar en los actos oficiales y ante toda clase de autoridades;
 
-II.- Informar a la Secretaría de Gobierno acerca de la marcha del Albergue y proponer a la misma, las medidas que considere conducentes para el mejor funcionamiento de la Institución;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
+II.- Informar a la Secretaría General de Gobierno acerca de la marcha del Albergue y proponer a la misma, las medidas que considere conducentes para el mejor funcionamiento de la Institución;
 
 III.- Acordar con el Secretario de Gobierno los asuntos referentes al Consejo Tutelar;
 
@@ -661,13 +671,17 @@ El Albergue Tutelar, se regirá por un reglamento que establecerá las bases mí
 
 En la selección del personal en instituciones tutelares, se tomará en cuenta: edad, vocación, aptitudes, preparación académica y antecedentes personales.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 82.
 
-La Secretaría de Gobierno implementará los mecanismos para planear, implantar y desarrollar programas de formación y capacitación para el personal de las instituciones tutelares.
+La Secretaría General de Gobierno implementará los mecanismos para planear, implantar y desarrollar programas de formación y capacitación para el personal de las instituciones tutelares.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1989)</small>
 
 ###### ARTICULO 83.
 
-El personal tendrá la obligación de capacitarse y actualizarse en forma permanente, para el mejor desempeño de sus funciones, conforme a los programas que deberá establecer la Secretaría de Gobierno.
+El personal tendrá la obligación de capacitarse y actualizarse en forma permanente, para el mejor desempeño de sus funciones, conforme a los programas que deberá establecer la Secretaría General de Gobierno.
 
 ###### ARTICULO 84.
 
@@ -878,3 +892,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE NOVIEMBRE DE 1989.
+
+UNICO.- El presente Decreto de reformas y adiciones a la Ley Orgánica de la Administración Pública entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
