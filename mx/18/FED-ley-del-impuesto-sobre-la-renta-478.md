@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2001-11-29"
+last_updated: "2001-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -6396,8 +6396,6 @@ Para efectos de lo dispuesto en esta fracción se considera pago de interés las
 
 IX.- Los viáticos o gastos de viaje, en el país o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al domicilio del contribuyente. Las personas a favor de las cuales se realice la erogación, cuando no sea el propio contribuyente, deben tener relación de trabajo con éste, en los términos del Capítulo I de este Título, o deben estar prestando servicios profesionales.
 
-> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
-
 Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $ 780.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $ 1,560.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
@@ -7642,9 +7640,15 @@ Lo dispuesto en las fracciones II, III y V también es aplicable para las person
 
 ## TITULO VI. De los estímulos fiscales
 
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 163.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta por los proyectos en investigación y desarrollo tecnológico que realicen en el ejercicio, consistente en aplicar un crédito fiscal del 30%, en relación con los gastos e inversiones en investigación o desarrollo de tecnología, siempre y cuando dichos gastos e inversiones no se financien con recursos provenientes del fondo a que se refieren los artículos 27 y 108, fracción VII, de esta Ley.
+
+Para los efectos de este artículo, se considera como investigación y desarrollo de tecnología, los gastos e inversiones realizados en territorio nacional, destinados directa y exclusivamente a la ejecución de proyectos propios del contribuyente que se encuentren dirigidos al desarrollo de productos, materiales o procesos de producción, que representen un avance científico o tecnológico, de conformidad con las reglas generales que publique el Comité Interinstitucional a que se refiere la Ley de Ingresos de la Federación.
+
+El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio, así como los requisitos que se deberán cumplir, serán los que contemple la Ley de Ingresos de la Federación en esta materia.
 
 ###### ARTICULO 164.
 
@@ -12054,70 +12058,6 @@ Los contribuyentes que ejerzan la opción prevista en el ARTICULO SEGUNDO de est
 
 UNICO.- La presente Ley entrará en vigor el día 1o. de abril de 1995.
 
-D.O.F. 27 DE MARZO DE 1995.
-
-DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
-
-###### ARTICULO PRIMERO.
-
-La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-###### ARTICULO SEGUNDO.
-
-Los contribuyentes del impuesto sobre la renta podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo que realicen durante el periodo comprendido entre el 1o. de enero y el 31 de diciembre de 1995, a que tengan derecho en los términos de lo dispuesto por el artículo 51 de la Ley del Impuesto sobre la Renta, utilizando en lugar de los porcientos previstos en el referido artículo 51, los que a continuación se señalan:
-
-I.- Los porcientos por tipo de bien serán:
-
-a) Tratándose de construcciones:
-
-1.- 85% en el caso de inmuebles declarados o catalogados como monumentos arqueológicos, artísticos, históricos o patrimoniales por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes, que cuenten con el certificado de restauración expedido por la autoridad competente y siempre que dichos bienes se encuentren dentro de las zonas que la Secretaría de Hacienda y Crédito Público determine para tal efecto, mediante reglas de carácter general.
-
-2.- 74% en los demás casos.
-
-b) 78% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
-
-c) 93% tratándose de aviones dedicados a la aerofumigación agrícola.
-
-d) 94.4% tratándose de dados, troqueles, moldes, matrices y herramental, así como equipo destinado directamente a la investigación de nuevos productos de desarrollo de tecnología en el país.
-
-e) 97% para semovientes, vegetales y máquinas registradoras de comprobación fiscal, así como equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas, y equipo destinado para la conversión a consumo de gas natural.
-
-f) 94% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como, unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
-
-II.- Los porcientos aplicables para maquinaria y equipo distintos de los señalados en la fracción anterior son los siguientes:
-
-a) 85% para producción de energía eléctrica y su distribución, y para transportes eléctricos.
-
-b) 74% para molienda de grano; producción de azúcar y derivados; de aceites comestibles; transportación marítima; fluvial y lacustre.
-
-c) 78% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
-
-d) 80% para fabricación de pulpa, papel y productos similares; petróleo y gas natural.
-
-e) 82% para fabricación de vehículos de motor y sus partes; construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas; excepto granos, azúcar, aceites comestibles y derivados.
-
-f) 84% para curtido de piel y fabricación de artículos de piel; de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos; impresión y publicación.
-
-g) 86% para la fabricación de ropa, fabricación de productos textiles, acabado, teñido y estampado.
-
-h) 87% para la construcción de aeronaves.
-
-i) 90% para compañías de transmisión por radio y televisión.
-
-j) 93% para la industria de la construcción.
-
-k) 93% para actividades de agricultura, ganadería, de pesca o silvicultura.
-
-l) 85% para otras actividades no especificadas en esta fracción.
-
-m) 92% para el destinado a restaurantes.
-
-DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
-
-###### ARTICULO TERCERO.
-
-Los contribuyentes que ejerzan la opción prevista en el ARTICULO SEGUNDO de esta Ley, cuando enajenen los bienes a los que la aplicaron, los pierdan o dejen de ser útiles, podrán calcular la deducción que por los mismos les corresponde en los términos de la fracción III del artículo 51-A de la Ley del Impuesto sobre la Renta, aplicando, en lugar de los porcientos contenidos en la tabla establecida en la fracción III del artículo 51-A de referencia, los contenidos en la siguiente tabla:
-
 (VEASE TABLA ANEXA)
 
 D.O.F. 1 DE ABRIL DE 1995.
@@ -12159,6 +12099,10 @@ Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en nuevos pesos y su abreviatura N, a partir del 1o. de enero de 1996 deberán entenderse como pesos y su símbolo $.
 
 D.O.F. 15 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO SEGUNDO.
 
@@ -13485,3 +13429,13 @@ a) Los pagos que se tengan que efectuar en los términos del párrafo anterior, 
 b) El impuesto sobre la renta correspondiente a las retenciones no efectuadas a que se refiere el inciso anterior, se pague a más tardar el último día del mes de noviembre de 2001, con actualización y recargos, y
 
 c) Los patrones quedarán liberados de la responsabilidad solidaria a que se refiere el artículo 26, fracción I, del Código Fiscal de la Federación y se entenderá por satisfecho el requisito establecido en el artículo 24, fracción V, de la Ley del Impuesto sobre la Renta, por las diferencias de impuesto a que se refiere este artículo, siempre que se cumpla con los requisitos señalados en los incisos a) y b) anteriores.
+
+D.O.F. 13 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Comité Interinstitucional a que se refiere el artículo 15, fracción IX, numeral 1, de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2001, deberá publicar en el Diario Oficial de la Federación dentro de los 10 días siguientes a la publicación de este Decreto, las Reglas Generales con que operará dicho Comité, así como los sectores prioritarios susceptibles de obtener el estímulo fiscal, las características que deberán reunir las empresas y los requisitos adicionales que se tendrán que cumplir para hacerse acreedores al beneficio que se establece en el artículo 163 de esta Ley.
+
+Dentro del Comité mencionado, el Consejo Nacional de Ciencia y Tecnología tendrá voto de calidad en la determinación de los proyectos susceptibles de ser beneficiados con el estímulo fiscal.
+
+TERCERO.- Por el periodo comprendido entre la fecha en que entre en vigor el presente Decreto y el 31 de diciembre de 2001, el monto total de los estímulos fiscales a que hace referencia el artículo 163 de la Ley del Impuesto sobre la Renta, ascenderá a la cantidad prevista en la fracción IX, del artículo 15 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2001.
