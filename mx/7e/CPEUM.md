@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1993-03-09"
+last_updated: "1993-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE AGOSTO DE 1993 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 1993.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 9 DE MARZO DE 1993.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1993.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -498,6 +498,8 @@ La ley establecerá un órgano para la procuración de justicia agraria, y
 
 XX.- El Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, considerándolas de interés público.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE AGOSTO DE 1993 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
 ###### Art. 28.
@@ -508,11 +510,19 @@ En consecuencia, la ley castigará severamente, y las autoridades perseguirán c
 
 Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
-No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas a las que se refiere este precepto: Acuñación de moneda; correos, telégrafos, radiotelegrafía y la comunicación vía satélite; emisión de billetes por medio de un solo banco, organismo descentralizado del Gobierno Federal; petróleo y los demás hidrocarburos; petroquímica básica; minerales radiactivos y generación de energía nuclear; electricidad; ferrocarriles y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 27 DE JUNIO DE 1990)</small>
+No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas a las que se refiere este precepto: correos; telégrafos; radiotelegrafía y la comunicación vía satélite; petróleo y los demás hidrocarburos; petroquímica básica; minerales radioactivos y generación de energía nuclear; electricidad; ferrocarriles; y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
 
 El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1993)</small>
+
+El Estado tendrá un banco central que será autónomo en el ejercicio de sus funciones y en su administración. Su objetivo prioritario será procurar la estabilidad del poder adquisitivo de la moneda nacional, fortaleciendo con ello la rectoría del desarrollo nacional que corresponde al Estado. Ninguna autoridad podrá ordenar al banco conceder financiamiento.
+
+> <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 1993)</small>
+
+No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva, a través del banco central en las áreas estratégicas de acuñación de moneda y emisión de billetes. El banco central, en los términos que establezcan las leyes y con la intervención que corresponda a las autoridades competentes, regulará los cambios, así como la intermediación y los servicios financieros, contando con las atribuciones de autoridad necesarias para llevar a cabo dicha regulación y proveer a su observancia. La conducción del banco estará a cargo de personas cuya designación será hecha por el Presidente de la República con la aprobación de la Cámara de Senadores o de la Comisión Permanente, en su caso; desempeñarán su encargo por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones; sólo podrán ser removidas por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en la representación del banco y de los no renumerados (sic) en asociaciones docentes, científicas, culturales o de beneficiencia (sic). Las personas encargadas de la conducción del banco central, podrán ser sujetos de juicio político conforme a lo dispuesto por el artículo 110 de esta Constitución.
 
 No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
@@ -1220,9 +1230,9 @@ VIII.- Para dar bases sobre las cuales el Ejecutivo pueda celebrar empréstitos 
 
 IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
 
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
-X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, servicios de banca y crédito, energía eléctrica y nuclear, para establecer el Banco de Emisión Unico en los términos del Artículo 28 y para expedir las leyes del trabajo reglamentario del Artículo 123.
+X.- Para legislar en toda la República sobre hidrocarburos, minería, industria cinematográfica, comercio, juegos con apuestas y sorteos, intermediación y servicios financieros, energía eléctrica y nuclear, y para expedir las leyes del trabajo reglamentarias del artículo 123.
 
 XI.- Para crear y suprimir empleos públicos de la Federación y señalar, aumentar o disminuir sus dotaciones.
 
@@ -1518,7 +1528,9 @@ I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, e hijo
 
 II.- Tener 35 años cumplidos al tiempo de la elección;
 
-III.- Haber residido en el país durante todo el año anterior al día de la elección;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE AGOSTO DE 1993)</small>
+
+III.- Haber residido en el país durante todo el año anterior al día de la elección. La ausencia del país hasta por treinta días, no interrumpe la residencia;
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
@@ -2006,7 +2018,7 @@ XVII.- La autoridad responsable será consignada a la autoridad correspondiente,
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
-XVIII.- Los alcaides y carceleros que no reciban copia autorizada del auto de formal prisión de un detenido, dentro de las setenta y dos horas que señala el artículo 19, contadas desde que aquél esté a disposición de su juez, deberán llamar la atención de éste sobre dicho particular, en el acto mismo de concluir el término y si no reciben la constancia mencionada, dentro de las tres horas siguientes lo pondrán en libertad.
+XVIII.- Los alcaides y carceleros que no reciban copia autorizada del auto de formal prisión de un detenido, dentro de las setenta y dos horas que señala el artículo 19, contadas desde que aquél esté a disposición de su juez, deberán llamar la atención de éste sobre dicho particular, en el caso mismo de concluir el término y si no reciben la constancia mencionada, dentro de las tres horas siguientes lo pondrán en libertad.
 
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
@@ -2356,7 +2368,7 @@ DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
 Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la Ley.
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán:
 
@@ -2650,9 +2662,9 @@ XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, a
 
 El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
 
-> <small>(REFORMADA, D.O.F. 27 DE JUNIO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1993)</small>
 
-XIII bis.- Las entidades de la Administración Pública Federal que formen parte del sistema bancario mexicano regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente apartado;
+XIII bis.- El banco central y las entidades de la Administración Pública Federal que formen parte del sistema bancario mexicano regirán sus relaciones laborales con sus trabajadores por lo dispuesto en el presente Apartado;
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -2687,6 +2699,34 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 ###### Art. 129.
 
 En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+
+###### Art. 130.
+
+El principio histórico de la separación del Estado y las iglesias orienta las normas contenidas en el presente artículo. Las iglesias y demás agrupaciones religiosas se sujetarán a la ley.
+
+Corresponde exclusivamente al Congreso de la Unión legislar en materia de culto público y de iglesias y agrupaciones religiosas. La ley reglamentaria respectiva, que será de orden público, desarrollará y concretará las disposiciones siguientes:
+
+a) Las iglesias y las agrupaciones religiosas tendrán personalidad jurídica como asociaciones religiosas una vez que obtengan su correspondiente registro. La ley regulará dichas asociaciones y determinará las condiciones y requisitos para el registro constitutivo de las mismas;
+
+b) Las autoridades no intervendrán en la vida interna de las asociaciones religiosas;
+
+c) Los mexicanos podrán ejercer el ministerio de cualquier culto. Los mexicanos así como los extranjeros deberán, para ello, satisfacer los requisitos que señale la ley;
+
+d) En los términos de la ley reglamentaria, los ministros de cultos no podrán desempeñar cargos públicos. Como ciudadanos tendrán derecho a votar, pero no a ser votados. Quienes hubieren dejado de ser ministros de cultos con la anticipación y en la forma que establezca la ley, podrán ser votados;
+
+e) Los ministros no podrán asociarse con fines políticos ni realizar proselitismo a favor o en contra de candidato, partido o asociación política alguna. Tampoco podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios.
+
+Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse en los templos reuniones de carácter político.
+
+La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
+
+Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
+
+Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+
+Las autoridades federales, de los estados y de los municipios tendrán en esta materia las facultades y responsabilidades que determine la ley.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
@@ -3889,3 +3929,17 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 5 DE MARZO DE 1993.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 1993.
+
+DECRETO QUE ADICIONA LA FRACCION III DEL ARTICULO 82.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 1993.
+
+DECRETO QUE REFORMA EL PARRAFO CUARTO Y ADICIONA LOS PARRAFOS SEXTO Y SEPTIMO DEL ARTICULO 28, REFORMA LA FRACCION X DEL ARTICULO 73 Y LA FRACCION XIII BIS DEL APARTADO B DEL ARTICULO 123.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto se expide la ley del banco central, reglamentaria del artículo 28 de esta Constitución, continuará en vigor la Ley Orgánica del Banco de México.
