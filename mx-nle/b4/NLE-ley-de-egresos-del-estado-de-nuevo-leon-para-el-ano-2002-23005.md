@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-egresos-del-estado-de-nuevo-leon-para-el-ano-2002-23005"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-26"
-last_updated: "2001-12-26"
+last_updated: "2002-08-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EGRESOS DEL ESTADO DE NUEVO LEÓN PARA EL AÑO 2002
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial, el 26 de diciembre de 2001.
 
@@ -303,9 +303,11 @@ Los montos establecidos deberán considerarse sin incluir el importe del impuest
 
 Para llevar a cabo el procedimiento señalado en este Artículo, cada obra deberá considerarse individualmente en base a su importe total, el cual no podrá ser fraccionado en su cuantía.
 
-###### Articulo 8.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2002)</small>
 
-Para las adquisiciones de bienes muebles y la prestación de servicios relacionados con éstos, en que intervengan las dependencias y entidades del Estado, se observarán los requisitos siguientes:
+###### Artículo 8.
+
+Para las adquisiciones y arrendamientos de bienes muebles y la prestación de servicios relacionados con éstos, en que intervengan las dependencias y entidades del Estado, se observarán los requisitos siguientes:
 
 a. Se contratará directamente cuando su monto no exceda de 2,388 cuotas.
 
@@ -382,3 +384,7 @@ DIP. PEDRO MORALES SOMOHANO
 DIP. SECRETARIO: DIP. SECRETARIO:
 
 JUAN CARLOS RUIZ GARCÍA MARCEL A GUERRA CASTILLO
+
+P.O. 2 DE AGOSTO DE 2002
+
+Articulo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
