@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-6-88-del-tribunal-en-pleno-de-la-suprema-corte-de-63623
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-07-28"
-last_updated: "1988-07-28"
+last_updated: "1988-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63623&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-03-22"
 
 ACUERDO 6/88 DEL TRIBUNAL EN PLENO DEL DIA VEINTIDOS DE MARZO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 28 de julio de 1988.
 
@@ -59,7 +59,9 @@ I.-...
 
 TERCERO.- El nuevo Tercer Tribunal Unitario iniciará sus labores en la fecha que la Comisión de Gobierno y Administración determine.
 
-CUARTO.-A partir de la fecha en que inicie sus labores el referido Tercer Tribunal Unitario y durante cuatro meses y medio, la Oficina de Correspondencia Común turnará a dicho tribunal los asuntos de nuevo ingreso.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO XXXV/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE DICIEMBRE DE 1988)</small>
+
+CUARTO.- A partir de la fecha en que inicie sus labores el referido Tercer Tribunal Unitario, y durante cien días, la Oficina de Correspondencia Común turnará a dicho tribunal los asuntos de nuevo ingreso.
 
 QUINTO.- Los asuntos que posteriormente se reciban serán turnados por la propia Oficina de Correspondencia Común, los terminados en uno, cuatro y siete al Primer Tribunal Unitario del Primer Circuito; los terminados en dos, cinco y ocho al Segundo, y los terminados en tres, seis y nueve al Tercero.
 
@@ -78,3 +80,9 @@ CERTIFICA:
 Que este acuerdo número 6/88, relativo a creación del Tercer Tribunal Unitario del Primer Circuito en el Distrito Federal, con residencia en la ciudad de México, y con igual jurisdicción a la de los Tribunales Unitarios Primero y Segundo, con residencia a la mencionada ciudad, que funcionan actualmente, fue aprobado por el Tribunal en Pleno en Sesión Privada celebrada el martes veintidós de marzo en curso, por unanimidad de veinte votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Felipe López Contreras, Raúl Cuevas Mantecón, Samuel Alba Leyva, Mariano Azuela Güitrón, Noé Castañón León, Ernesto Díaz Infante, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Manuel Gutiérrez de Velasco, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Angel Suárez Torres, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a veintitrés de marzo de mil novecientos ochenta y ocho.- Rúbrica.
 
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que esta fotocopia constante de tres fojas útiles concuerda fiel y exactamente con su original que obra en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal y certifica a fin de dar cumplimiento a lo ordenado en el punto séptimo del acuerdo correspondiente. México, Distrito Federal a veinticinco de marzo de mil novecientos ochenta y ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE DICIEMBRE DE 1988.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
