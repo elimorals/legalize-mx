@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1990-06-29"
+last_updated: "1992-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1108,7 +1108,7 @@ VII. Presentar al Congreso del Estado, dentro de los primeros 30 días del prime
 
 VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
-IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad pública en todo el Estado, haciendo respetar las garantías individuales.
+IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad públicas en todo el Estado, haciendo respetar las garantías individuales.
 
 X. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
 
@@ -1838,7 +1838,9 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO III. DE LAS GARANTIAS DE ACCESO Y EJERCICIO DE LA FUNCION JURISDICCIONAL
+### CAPITULO III
+
+De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2308,6 +2310,18 @@ El Estado no reconoce más ley fundamental para su Gobierno interior, que la pre
 
 Todos los ciudadanos tienen derecho de reclamar ante el Congreso sobre la inobservancia o infracción de la Constitución, a fin de que se haga efectiva la responsabilidad de los infractores.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1992)</small>
+
+El Congreso del Estado establecerá un organismo encargado de promover, divulgar y proteger los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1992)</small>
+
+Este organismo será autónomo y conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público; sin embargo, no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 1992)</small>
+
+Sus procedimientos serán gratuitos, breves y sencillos, y en ocasión de su investigación, podrá formular recomendaciones públicas, no obligatorias, a las autoridades respectivas.
+
 ###### Artículo 196.
 
 La presente Constitución puede ser adicionada o reformada por el Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte de esta Constitución, deben observarse los requisitos siguientes:
@@ -2633,3 +2647,13 @@ Los Ayuntamientos electos para el próximo período Constitucional, durarán en 
 ###### ARTICULO TERCERO.
 
 La LII Legislatura iniciará sus funciones el día 15 de noviembre de 1991 y las concluirá el 14 de octubre de 1994.
+
+P.O. 19 DE MAYO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto de reformas y adiciones, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El organismo a que se refiere este Decreto, deberá integrarse e iniciar sus funciones dentro de los treinta días siguientes a la fecha en que entre en vigor su Ley Orgánica.
