@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2000-09-23"
+last_updated: "2000-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -583,6 +583,24 @@ Del objeto
 
 Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita obtener dicho ingreso haya sido pagado en el territorio del estado de Jalisco.
 
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR FUE OMISO AL REFORMAR EL PRESENTE ARTICULO, TODA VEZ QUE LA REFORMA PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2000, NO COINCIDE CON EL TEXTO QUE INTEGRA EL MISMO; SITUACION QUE SE HACE DEL CONOCIMIENTO DEL USUARIO, TRANCRIBIENDOSE INTEGRAMENTE DICHA PUBLICACION.</small>
+
+###### Artículo 53.
+
+Están exentas del pago de este impuesto:
+
+I. ...
+
+De la a) a la g) ...
+
+h) Los gastos debidamente comprobados realizados por el patrón para promover y difundir la cultura y las artes, así como para fomentar la lectura.
+
+II. ...
+
+De la a) a la c) ...
+
+d) Las personas físicas o jurídicas que realicen o promuevan actividades de fomento artístico y cultural no lucrativas.
+
 De los sujetos
 
 ###### Artículo 54.
@@ -880,3 +898,13 @@ LIC. FELIPE DE JESÚS PRECIADO CORONADO
 El Subsecretario General de Gobierno de Asuntos Jurídicos
 
 DR. MAURICIO LIMÓN AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.
