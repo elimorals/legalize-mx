@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-de-guadalajara-14371"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-01-15"
-last_updated: "1994-01-15"
+last_updated: "1994-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE GUADALAJARA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de enero de 1994.
 
@@ -299,9 +299,11 @@ El Consejo General Universitario fijará las aportaciones respectivas, a que se 
 
 ### CAPÍTULO ÚNICO. De la Red Universitaria
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 ###### Art. 22.
 
-La Universidad adoptará el modelo de red para organizar sus actividades académicas y administrativas. Esta estructura se sustentará en unidades académicas denominadas escuelas, para el nivel medio superior y Departamentos agrupados en Divisiones, para el nivel superior.
+La Universidad adoptará el modelo de red para organizar sus actividades académicas y administrativas. Esta estructura se sustentará en unidades académicas denominadas escuelas, para el sistema de educación media superior y departamentos agrupados en divisiones, para los centros universitarios.
 
 La organización en red tenderá a lograr una distribución racional y equilibrada de la matrícula y de los servicios educativos en territorio del Estado de Jalisco, a fin de contribuir a la previsión y satisfacción de los requerimientos educativos, culturales, científicos y profesionales de la sociedad.
 
@@ -317,9 +319,9 @@ III. La Administración General de la Universidad.
 
 Para los efectos de esta Ley, se establecen las siguientes definiciones:
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
-I´) Centros universitarios, las instituciones de educación superior que integrarán las funciones de docencia, investigación, difusión y las correspondientes administrativas, de conformidad con los planes y programas respectivos. Los Centros Universitarios podrán ser temáticos o regionales. Serán:
+I') Centro universitario, es la entidad responsable de la administración y desarrollo de los programas académicos de nivel superior, así como de los programas educativos con carácter profesional medio terminal elativos (sic) al área del conocimiento de su competencia. Los centros universitarios podrán ser temáticos o regionales:
 
 a) Centros temáticos, los que organicen y administren sus programas académicos, con base en áreas afines del conocimiento o en campos del ejercicio profesional, y
 
@@ -333,9 +335,9 @@ a) Las Divisiones serán las entidades académico-administrativas que agruparán
 
 b) Los departamentos, serán las unidades académicas básicas, en donde se organicen y administren las funciones universitarias de docencia, investigación y difusión;
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
-III'). Sistema de Educación Media Superior, la entidad responsable de la integración de las funciones de docencia, investigación y difusión, así como la administración de este nivel educativo, a través de la Dirección General de Educación Media Superior, a la que se adscribirán las escuelas preparatorias, técnicas, politécnicas y planteles que imparten programas académicos del nivel, y
+III'). Sistema de educación media superior, la entidad responsable de la integración de las funciones de docencia, investigación y difusión, así como de la administración de este nivel educativo, a través de la dirección general de educación media superior, a la que se adscribirán las escuelas preparatorias, técnicas, politécnicas y planteles que imparten programas académicos del nivel; sin perjuicio de las atribuciones que tengan los centros universitarios para ofrecer programas educativos con carácter profesional medio terminal relativos al área del conocimiento de su competencia, y
 
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1994)</small>
 
@@ -1650,3 +1652,9 @@ Lic. Carlos Rivera Aceves
 El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
