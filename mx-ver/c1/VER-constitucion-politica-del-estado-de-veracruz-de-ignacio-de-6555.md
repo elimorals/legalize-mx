@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1980-06-24"
+last_updated: "1980-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 1980.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -157,6 +157,8 @@ Queda abolida en el Estado, para toda clase de delitos, la pena capital. La Legi
 
 DE LOS VERACRUZANOS, DE LOS VECINOS, DE LOS CIUDADANOS DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES.
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
 ###### Artículo 11.
 
 Cuando conforme a la ley, deba ponerse a un acusado o a un reo en libertad bajo fianza, ésta no será carcelera, sino pecuniaria, por cantidad determinada y en los términos fijados por la fracción I del artículo 20 de la Constitución Federal.
@@ -167,7 +169,13 @@ Nadie está obligado al pago de una contribución que no haya sido decretada pre
 
 ###### Artículo 13.
 
-Son veracruzanos los nacidos en el territorio del Estado o accidentalmente fuera de él, de padres avecindados en alguna de sus localidades.
+Son veracruzanos por nacimiento:
+
+I. Los nacidos en el territorio del Estado;
+
+II. Los hijos de padres o madre veracruzanos, nativos del Estado que nazcan dentro del territorio nacional; y
+
+III. Los nacidos accidentalmente fuera del Estado, de padres avecindados en alguna de sus localidades, dentro del territorio nacional.
 
 ###### Artículo 14.
 
@@ -1291,7 +1299,9 @@ XII. Conocer de los asuntos relacionados con la Hacienda de los Municipios y rev
 
 Para ser Gobernador del Estado, se requieren las cualidades siguientes:
 
-I. Ser nativo del Estado y ciudadano del mismo, en ejercicio de sus derechos, con cinco años de vecindad anterior al día de la elección;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
+
+I. Ser nativo del Estado y ciudadano del mismo, en ejercicio de sus derechos, con cinco años de residencia efectiva anterior al día de la elección;
 
 II. Saber leer y escribir;
 
@@ -1576,3 +1586,9 @@ G.O. 24 DE JUNIO DE 1980.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor, al día siguiente de su publicación en la "Gaceta Oficial" órgano del Gobierno del Estado.
+
+G.O. 30 DE SEPTIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+La presente reforma Constitucional entrará en vigor el día siguiente de su publicación en la 'Gaceta Oficial' del Gobierno del Estado.
