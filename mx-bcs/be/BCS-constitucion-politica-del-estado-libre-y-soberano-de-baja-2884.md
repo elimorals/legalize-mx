@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1999-06-14"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -831,11 +831,11 @@ XLVI.- Las demás que señalen esta Constitución y sus Leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 22 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1999)</small>
 
-80.- La administración pública de Baja California Sur, será centralizada y paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos del orden administrativo que estarán a cargo de un Secretario General de Gobierno, un Secretario de Finanzas y Administración, un Secretario de Desarrollo y Fomento Económico, un Secretario de Planeación Urbana e Infraestructura, un Secretario de Salud, un Secretario de Educación Pública, un Procurador General de Justicia, las Unidades Administrativas de Turismo y de la Contraloría General y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
+80.- La Administración Pública Estatal será Centralizada y Paraestatal conforme a la Ley Orgánica que expida el Congreso de Baja California Sur, que distribuirá los negocios del orden administrativo de la entidad que estará a cargo de la Secretaría General de Gobierno, la Procuraduría General de Justicia, la Oficialía Mayor, la Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico, la Secretaría de Planeación Urbana, Infraestructura y Ecología, la Secretaría de Salud, la Secretaría de Educación Pública, la Coordinación de Programas de Bienestar Social, la Coordinación Estatal de Promoción al Turismo y la Unidad de Desarrollo Administrativo y Control Gubernamental, y definirá las bases para la creación de las entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación.
 
-Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
+Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo.
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
@@ -2116,3 +2116,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 B.O. 14 DE JUNIO DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
