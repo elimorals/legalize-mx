@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-junta-local-de-conciliacion-y-arbitraje-5839"
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-02-25"
-last_updated: "1989-02-25"
+last_updated: "1998-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1989.
 
@@ -79,9 +79,49 @@ El Pleno de la Junta Local de Conciliación y Arbitraje, se integra con el Presi
 
 El Secretario General de la Junta de Conciliación y Arbitraje, actuará como Secretario del Pleno, quien puede ser sustituído en sus faltas, por cualquiera de los Secretarios adscritos a las Juntas Especiales, procurándose a los de mayor antigüedad.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### Art. 8º.
 
-El Pleno de la Junta Local de Conciliación y Arbitraje tiene las facultades, atribuciones y obligaciones consignadas en el Art. 614 de la Ley Federal del Trabajo, este Reglamento y Leyes respectivas.
+El Pleno de la Junta Local de Conciliación y Arbitraje del Estado de Jalisco, además de las facultades, atribuciones y obligaciones contenidas en la Ley Federal del Trabajo, específicamente en su artículo 614, tendrá las siguientes:
+
+I. Conocer y resolver sobre el Registro de los Sindicatos en los casos de competencia Local, conforme lo establecido en el artículo 365 de la Ley Federal del Trabajo.
+
+II. Para el efecto anterior el Pleno deberá comprobar que el Sindicato solicitante cumpla con la documentación y autorización que dispone el numeral 365 indicado; para el efecto del Registro del Sindicato, podrá además:
+
+A). Nombrar entre sus miembros una comisión con el número que determine para verificar que los datos y hechos asentados en los documentos que presente el Sindicato solicitante sean verdaderos.
+
+B). Igualmente podrá acordar las diligencias que considere necesarias para que quede debidamente acreditado con el Sindicato solicitantes (sic) se ha constituido con un número mínimo de 20 trabajadores en servicio activo, como lo ordena el artículo 364 de la Ley Federal del Trabajo.
+
+C). Si el Pleno de la Junta de Conciliación y Arbitraje del Estado de Jalisco verifica que alguno de los trabajadores listados como miembros constituyentes en el Padrón del Sindicato solicitante, no se encuentra en servicio activo en las empresas señaladas en la estadística del mismo o que algunos de dichos trabajadores no tienen la voluntad de formar parte el (sic) Sindicato solicitante, el Pleno deberá concluir que los mismos no integran la lista de miembros constitutivos del solicitante.
+
+D). No se aceptará el Registro de un Sindicato de Empresa si en la misma ya se tiene uno Industrial o gremial vigente ya que se transgredería lo dispuesto por el artículo 388 de la Ley Federal del Trabajo.
+
+E). Cuando el Pleno de la Junta Local de Conciliación y Arbitraje del Estado de Jalisco considere necesario formar una comisión revisora de la documentación presentada por el Sindicato, la misma estará integrada por el número de miembros que el mismo Pleno determina, incluyendo en ellos invariablemente a los representantes del Capital y del Trabajo que integren la Junta Especial competente para conocer y resolver los conflictos de la rama de la industria o actividad similar a la del promovente conforme lo establezca la convocatoria del Ejecutivo del Estado vigente.
+
+III. En el caso de solicitud de Registro de un Sindicato formado por patrones; el Pleno podrá igualmente acordar los medios de convicción señalados en la fracción anterior, para tener por acreditada la veracidad de lo expuesto en los documentos presentados y determinar sobre el Registro solicitado.
+
+IV. En los casos de que se presente documentación, solicitud de Registro o promoción alguna para cualquier trámite ante la Junta Local de Conciliación y Arbitraje del Estado de Jalisco; de parte de una coalición de trabajadores o patrones; se deberá turnar en primer lugar al Pleno de la Junta, el cual teniendo las facultades mencionadas en las fracciones anteriores de este artículo; examine y se acredite los extremos señalados por los artículos 17 y 355 de la Ley Federal del Trabajo, para la existencia jurídica de la coalición y se resuelva con base a la documentación presentada y diligencias que ordene se practiquen, determine sobre el reconocimiento de la coalición de que se trate y se registre en el libro de Registro de coaliciones. Con el reconocimiento del Pleno, el Presidente del mismo turnará a la Junta Especial que corresponda la promoción o solicitud de la coalición, para dar trámite al procedimiento para el cual se formó.
+
+V. El Pleno de la Junta deberá intervenir, cuando se presente ante la Oficialía de Partes de la Junta, documentación para que se registre y se reconozca personalidad de un Sindicato Nacional, que se registró ante la H. Secretaría del Trabajo y Previsión Social, y que pretende se le registre y se le den tómas de Nota o Certificaciones por parte de la Junta y efectuar trámites en el Estado, para este caso, se determina la siguiente normatividad:
+
+A). La Oficialía de Partes de la Junta, deberá de remitir la documentación presentada, por el Sindicato Nacional, al Secretario General de la Junta, para que previo acuerdo con el Presidente, se turne la documentación al Pleno de la Junta.
+
+B). El Pleno de la Junta en la Sesión que corresponda, deberá examinar que la documentación que presente el Sindicato Nacional, consta de copias debidamente certificadas por la H. Secretaría del Trabajo y Previsión Social, de la totalidad de los documentos que dispone el numeral 365 de la Ley Federal del Trabajo.
+
+C). Se deberá acreditar con copias certificadas de la Toma de Nota, expedidas por la misma Secretaría, donde conste el Registro otorgado al Sindicato nacional, el Comité Directivo completo que lo representa y la vigencia del mismo, así como los estatutos que rigen su vida interna.
+
+D). El Pleno tendrá la facultad de solicitar la información necesaria a la H. Secretaría del Trabajo y Previsión Social en relación a la documentación presentada, por conducto del Presidente del Pleno.
+
+E). En el caso de que el Pleno de la Junta, al examinar la documentación presentada por el Sindicato Nacional, detecte alguna anomalía, tendrá la obligación de denunciarla a la H. Secretaría del Trabajo y Previsión Social para que proceda conforme a derecho, según sea el caso.
+
+F). Constatada por el Pleno de la Junta, la documentación presentada por el Sindicato Nacional en la respectiva acta; se pasará al Presidente de la Junta, para que se tome debida Nota en el Libro de Registro de Sindicatos correspondientes y se expidan las Certificaciones del caso para ejercitar acciones dentro de la jurisdicción de la junta, para los efectos del artículo 694 de la Ley Federal del Trabajo.
+
+G). Queda al criterio del Pleno solicitar de la H. Secretaría del Trabajo y Previsión Social la ratificación por el Secretario General del Sindicato Nacional de la solicitud presentada.
+
+VI. El Pleno de la Junta tendrá la facultad de analizar, estudiar y aprobar en su caso las modificaciones a los estatutos y cambios de comités directivos si están conforme a lo establecido en el artículo 123 Constitucional, su Ley Reglamentaria y los propios estatutos de la organización solicitante y en el caso de controversia se remitirá a la Junta Especial competente para que ésta determine lo conducente.
+
+VII. Tratándose de Juicios de Titularidad de Contratos Colectivos de Trabajo, es facultad del Pleno de la Junta, previo a la iniciación del procedimiento respectivo, verificar la naturaleza del conflicto así como analizar los estatutos, personalidad y registro del sindicato que demanda la Titularidad.
 
 ###### Art. 9º.
 
@@ -726,3 +766,9 @@ Sr. Juan Gallardo Contreras
 El Secretario General de la Junta Local de Conciliación y Arbitraje
 
 Lic. Jesús González Valdivia
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE FEBRERO DE 1998.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
