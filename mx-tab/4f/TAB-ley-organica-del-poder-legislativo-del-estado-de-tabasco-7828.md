@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "2001-07-25"
+last_updated: "2002-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2002.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -111,15 +111,11 @@ El Congreso comunicará al Instituto Electoral de Tabasco y al Tribunal Electora
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 15.
 
-La Legislatura en Ejercicio, expedirá el Bando solemne para dar a conocer la declaración de Gobernador electo.
-
-1.- Calificar las Elecciones de Gobernador del Estado; haciendo la declaratoria correspondiente;
-
-2.- Designar Gobernador en los términos de la Constitución Política del Estado.
+La legislatura en ejercicio expedirá, oportunamente, el bando solemne para dar a conocer en todo el Estado la declaración de gobernador electo.
 
 ### CAPITULO III. INSTALACION DE LA LEGISLATURA
 
@@ -299,6 +295,10 @@ Quiénes habiendo sido electos Diputados no se presenten, sin causa justificada 
 
 El Congreso del Estado, tendrá dos períodos ordinarios de sesiones al año, el primero del quince de enero al treinta de abril, y el segundo, del uno de octubre al quince de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45, primer párrafo de la Constitución Política del Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2002)</small>
+
+Los plazos que se precisan en esta ley se contarán por días naturales, a no ser que expresamente se precise lo contrario.
+
 ###### ARTICULO 36.
 
 El Congreso sesionará con la asistencia de la mitad más uno del total de sus componentes, excepto en los casos que la Constitución Política del Estado y esta Ley requiera de un quórum mayor.
@@ -371,9 +371,11 @@ La Comisión Permanente conocerá, aún cuando la Legislatura estuviere en sesio
 
 Las resoluciones de la Comisión Permanente se tomarán por mayoría de votos de sus miembros presentes; en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 46.
 
-La representación del Poder Legislativo radicará en la Comisión Permanente durante los recesos del Congreso, aún cuando éste funcione en períodos extraordinarios.
+La representación del Poder Legislativo radicará en la Comisión Permanente durante los recesos del Congreso, aún cuando éste funcione en períodos extraordinarios. El Presidente de esta Comisión, sin perjuicio de las tareas de su competencia, habrá de cumplimentar los acuerdos emanados de las diversas comisiones permanentes, para el mejor desempeño de sus funciones, en los términos del párrafo segundo del artículo 61 de esta Ley.
 
 ###### ARTICULO 47.
 
@@ -415,9 +417,17 @@ III. Nombrar y remover libremente a los Directores, Funcionarios y demás emplea
 
 IV. Proponer al Congreso a los integrantes de las Comisiones y en su caso, a quiénes deban sustituirlos cuando proceda la remoción;
 
-V. Elaborar el proyecto del Presupuesto Anual del Congreso y turnarlo al Titular del Ejecutivo para que se incluya en el presupuesto anual de egresos del Gobierno del Estado; y
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
 
-VI. Las demás contenidas en esta Ley, en su Reglamento y las que le asigne la propia Legislatura.
+V. Elaborar el proyecto del Presupuesto Anual del Congreso y turnarlo al titular del Ejecutivo para que se incluya en el presupuesto anual de egresos del gobierno del Estado;
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
+VI. Autorizar los convenios de cooperación con otras instituciones y organismos; y
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
+VII. Las demás contenidas en esta ley, en su Reglamento y las que le asigne la propia Legislatura.
 
 ###### ARTICULO 53.
 
@@ -485,17 +495,23 @@ Las Comisiones son formas internas de organización que asume la Cámara de Dipu
 
 En la tercera sesión del período correspondiente a la Legislatura, la asamblea elegirá a propuesta de la Gran Comisión, las Comisiones Permanentes; éstas se integrarán por tres o más Diputados, los que fungirán como Presidente, Secretario y Vocales, en el orden de la propuesta; contando con facultades para estudiar y dictaminar los asuntos de su (sic).
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 59.
 
-Las Comisiones tendrán las facultades que le señale el Reglamento Interior del Congreso; su funcionamiento será colegiado y sus resoluciones se tomarán por mayoría de votos, teniendo el Presidente además del ordinario, voto de calidad. En caso de abstención, el voto se computará a favor del Dictamen correspondiente.
+Las comisiones tendrán las facultades que le señale el reglamento interior del Congreso; su funcionamiento será colegiado y todas las determinaciones o acuerdos que se emitan en el seno de las mismas, con relación a sus atribuciones, incluyendo la solicitud de documentos o de información propias de sus funciones, serán cumplimentadas por conducto de su Presidente; con la salvedad a que se contrae el artículo 61, párrafo segundo, de esta Ley. Sus decisiones serán tomadas por consenso o por mayoría de votos, teniendo su Presidente, además del ordinario, voto de calidad. En caso de abstención, el voto se computará a favor del dictamen correspondiente.
 
 ###### ARTICULO 60.
 
 También a propuesta de la Gran Comisión, el Congreso elegirá Comisiones Especiales de carácter temporal, que auxilien a las Permanentes cuando la naturaleza del asunto lo requiera, fijándoles atribuciones, composición y duración.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 61.
 
-Las Comisiones para el desempeño de sus funciones, contarán con el apoyo técnico de los órganos administrativos del Congreso del Estado, podrán solicitar a los Titulares de las Secretarías del Gobierno del Estado, Presidentes Municipales, Concejos Municipales, Jefes de los Departamentos Administrativos, Directores y Administradores de los Organos Descentralizados y Desconcentrados Estatales o de las Empresas de Participación Estatal Mayoritaria, las informaciones y documentos que estimen necesarios, así como su comparecencia personal para que informen cuando se discuta una Ley o se estudie algún asunto relativo a su competencia.
+Las comisiones para el desempeño de sus funciones, contarán con el apoyo técnico de los órganos administrativos del Congreso del Estado, podrán solicitar a los titulares de las Secretarías del Gobierno del Estado, Presidentes Municipales, Concejos Municipales, Directores y Administradores de los organismos Descentralizados y órganos Desconcentrados estatales o de las empresas de participación estatal mayoritaria, las informaciones y documentos que estimen necesarios, así como su comparecencia personal para que informen cuando se discuta una ley o se estudie algún asunto relativo a su competencia.
+
+En el ejercicio de dichas funciones, tratándose de las comparecencias, solicitudes o requerimientos de las informaciones y documentos, se atenderá a los acuerdos emanados de dichas comisiones, cumplimentándose, por el Presidente del Congreso o de la Comisión Permanente, si se tratare de las comparecencias; y de los presidentes de la comisión correspondiente en los demás casos, con la excepción de aquéllas prevenciones expresas que en esta propia Ley y en el Reglamento aplicable, fueren común para todos los diputados. El incumplimiento, omisión o retardo, injustificado, a las solicitudes a que se refiere este artículo, serán sancionados en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### ARTICULO 62.
 
@@ -509,11 +525,13 @@ La Legislatura podrá remover temporal o definitivamente a los integrantes de la
 
 Los Diputados además de formar parte de las Comisiones para las que fueren designados, podrán participar en las demás, salvo que exista causa justificada para no admitirlos a juicio de la Asamblea.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 65.
 
-La Gran Comisión propondrá, por lo menos las siguientes Comisiones Permanentes:
+La Gran Comisión propondrá, por lo menos las siguientes comisiones permanentes:
 
-I. Petición, Gestoría y Quejas;
+I. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
 II. Gobernación y Puntos Constitucionales;
 
@@ -525,45 +543,59 @@ IV. Justicia y Gran Jurado;
 
 V. Hacienda y Presupuesto;
 
-VI. Inspectora de Hacienda;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-VII. Comunicaciones y Transportes;
+VI. Inspectoras de Hacienda: 1). Primera Inspectora de Hacienda; 2). Segunda Inspectora de Hacienda y 3). Tercera Inspectora de Hacienda;
 
-VIII. Educación, Cultura, Recreación y Deporte;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
+
+VII. Comunicaciones, Transporte, Vialidad y Tránsito;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
+
+VIII. Educación, Cultura y Servicios Educativos;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 1995)</small>
 
 IX. Salud Pública;
 
-X. Asuntos Agrarios;
+X. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
-XI. Fomento Industrial, Desarrollo Económico, Social y Turístico;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-XII. Asentamientos Humanos y Obras Públicas;
+XI. Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
+
+XII. Desarrollo Urbano, Vivienda y Obras Públicas;
 
 XIII. Trabajo y Previsión Social;
 
-XIV. Energéticos y Minas;
+XIV. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
 XV. Asuntos Agropecuarios, Recursos Hidráulicos, Forestales y Pesqueros;
 
 XVI. Derechos Humanos;
 
-XVII. Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-XVIII. Comercio;
+XVII. Seguridad Pública, Protección Civil y Procuración de Justicia;
 
-XIX. Biblioteca, Archivo e Informática;
+XVIII. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
-XX. Editorial, Corrección de Estilo y Redacción;
+XIX. (DEROGADA, P.O. 26 DE ENERO DE 2002)
+
+XX. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
 XXI. Instructora de la Cámara; y
 
-XXII. Asuntos Indigenistas;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE MARZO DE 1995)</small>
+XXII. Asuntos Indígenas y Agrarios;
 
-XXIII. Ecología, Protección y Mejoramiento Ambiental;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
+
+XXIII. Ecología, Recursos Naturales y Desarrollo Sustentable;
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -573,43 +605,23 @@ XXIV. Fortalecimiento Municipal;
 
 XXV. Participación Ciudadana;
 
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 1998)</small>
+XXVI. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
-XXVI. Protección Civil;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-ATRIBUCIONES
+XXVII. Atención a Grupos Vulnerables, Personas con Características Especiales y Adultos en Plenitud;
 
-a) Conocer y dar seguimiento a los planes y programas que el Consejo y la Unidad de Protección Civil del Estado de Tabasco, en el marco del Sistema Nacional de Protección Civil, han elaborado para responder a las contingencias y desastres naturales en Tabasco.
+XXVIII. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
-b) Coordinar, junto con las Comisiones Permanentes de Petición, Gestoría y Quejas y de Participación Ciudadana del H. Congreso del Estado, la atención inmediata de todas las peticiones y propuestas que los ciudadanos formulen en torno a las medidas, planes y programas de Protección Civil en Tabasco.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-c) Coordinar, junto con la Comisión Permanente de Fortalecimiento Municipal del H. Congreso del Estado, la difusión entre los Ayuntamientos de Tabasco, la conveniencia de integrar el Sistema Municipal de Protección Civil.
+XXIX. Infancia, Jóvenes, Recreación y Deporte;
 
-d) Fomentar, en coordinación con el Consejo y la Unidad de Protección Civil del Estado de Tabasco, la difusión de programas preventivos entre la población civil para actuar en caso de desastres.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
 
-e) Coordinar, junto con el Consejo y la Unidad de Protección Civil y los Organismos pertinentes, la realización de campañas escolares de educación para situaciones de emergencia, que informen y preparen a la juventud sobre los desastres naturales más probables de ocurrir en el Estado y como actuar frente a ellos.
+XXX. Equidad y Genero; y
 
-f) Investigar, en coordinación con las Comisiones Permanentes del H. Congreso del Estado, cuyo ámbito de competencia se vea involucrado, medidas y acciones que enriquezcan el marco normativo y los respectivos programas y planes de acción de Protección Civil en Tabasco;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
-
-XXVII. Atención a la Población con Discapacidad;
-
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
-
-XXVIII. Del Instituto de Investigaciones Legislativas;
-
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 1998)</small>
-
-XXIX. Atención a los Jóvenes;
-
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 1998)</small>
-
-XXX. Atención a la Mujer y Personas de la Tercera Edad;
-
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 1998)</small>
-
-XXXI. De lo Contencioso Administrativo.
+XXXI. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -677,7 +689,9 @@ IV. A los Ayuntamientos o Concejos Municipales, en su caso, en asuntos de su com
 
 Las iniciativas presentadas por el Ejecutivo del Estado, Tribunal Superior de Justicia, Ayuntamientos, Concejos Municipales, o Diputados, pasarán desde luego a Comisión para su estudio y dictamen.
 
-Las peticiones de particulares o de autoridad que no tenga derecho de iniciativa, se turnarán por el Presidente del Congreso a la Comisión de Petición, Gestoría y Quejas, quien de considerarlo procedente, las remitirá a la Comisión que corresponda según la naturaleza del asunto, la que resolverá sobre dicha petición.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
+Las peticiones de particulares o de autoridad que no tenga derecho de iniciativa, se turnarán por el presidente del Congreso a la Comisión Permanente que estime competente, misma que podrá hacer suya la iniciativa, emitir un dictamen u ordenar su archivo.
 
 ###### ARTICULO 74.
 
@@ -695,9 +709,11 @@ Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras 
 
 Si el proyecto fuese desechado en parte o modificado o adicionado por la Cámara, la nueva discusión versará únicamente sobre lo desechado o sobre las modificaciones o adiciones, sin poder alterarse de manera alguna los artículos aprobados. Si las adiciones o reformas fuesen aprobadas por la mayoría de los Diputados presentes, se pasará la Ley o Decreto al Ejecutivo para su promulgación. Si las adiciones o reformas fueran reprobadas, la Ley o el Decreto en lo que haya sido aprobado, se pasará al Ejecutivo para su promulgación y publicación.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 78.
 
-El Ejecutivo no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o de Jurado, lo mismo cuando se declare la procedencia de juicio político o que ha lugar a proceder penalmente en contra de los servidores públicos o haber sido aprobadas las adiciones o reformas a la Constitución General de la República y a la del Estado, tampoco podrá hacerlas al Decreto de Convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
+El Ejecutivo no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de colegio electoral o de jurado, lo mismo cuando se declare la procedencia de juicio político o que ha lugar a proceder penalmente en contra de los servidores públicos o haber sido aprobadas las adiciones o reformas a la Constitución General de la República y a la del Estado, a la Ley Orgánica del Poder Legislativo del Estado de Tabasco y a su Reglamento Interno, tampoco podrá hacerlas al decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 
 ###### ARTICULO 79.
 
@@ -709,9 +725,11 @@ En la reforma, adición o derogación de las Leyes o Decretos, se observarán lo
 
 ### CAPITULO XIII. DE LOS DICTAMENES
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 81.
 
-Las Comisiones a las que se turnen las iniciativas rendirán por escrito al Congreso, su dictamen dentro de los veinte días siguientes al de la recepción.
+Las comisiones a las que se turnen las iniciativas rendirán por escrito al Congreso su dictamen, dentro de los veinte días hábiles siguientes al de la recepción.
 
 ###### ARTICULO 82.
 
@@ -719,9 +737,11 @@ Los dictámenes deberán contener la exposición clara y precisa del asunto a qu
 
 Los dictámenes de las Comisiones deberán presentarse firmados por los miembros de las mismas. Si alguno de los integrantes de la Comisión o Comisiones disiente del dictamen, podrá formular por escrito el voto particular correspondiente, que será anexado al dictamen por la Comisión que lo elaboró.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 83.
 
-Si debe ser reformado un dictamen, la Comisión encargada de hacerlo lo presentará con las reformas dentro de los cinco días siguientes a la fecha en que reciba el expediente. Este término podrá ser ampliado por la asamblea a solicitud de la Comisión.
+Si debe ser reformado un dictamen, la comisión o comisiones encargadas de hacerlo, lo presentará o presentarán con las reformas dentro de los diez días siguientes a la fecha en que reciba o reciban el expediente. Este término podrá ser ampliado por la asamblea a solicitud de la comisión o comisiones.
 
 ###### ARTICULO 84.
 
@@ -1138,3 +1158,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Durante el ejercicio Constitucional de los miembros de la Cámara de Diputados en su LVII Legislatura, y una vez que entre en vigor el presente Decreto, quedarán ratificados los integrantes de la "Gran Comisión", que administrativamente, y conforme a las designaciones que en forma económica, por virtud del acuerdo parlamentario, oportunamente se efectuaron.
 
 TERCERO.- Quedan subsistentes los acuerdos emanados del Organo de Gobierno del Congreso del Estado, tanto los emitidos en su composición legal en los términos de las disposiciones de la Ley Orgánica vigente, como aquellos que en virtud del acuerdo parlamentario a que se contraen los considerandos de este Dictamen, se hubieren acordado por los Diputados integrantes de la "Gran Comisión".
+
+P.O. 26 DE ENERO DE 2002.
+
+PRIMERO. La presente reforma a la Ley Orgánica entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y sus disposiciones por ser de carácter procedimental, se aplicarán en las Iniciativas turnadas con anterioridad a las comisiones.
+
+SEGUNDO. Por esta única vez, la Gran Comisión dispone de un término de treinta días naturales contados a partir de la entrada en vigor de esta resolución, para formular la propuesta de nueva integración de las Comisiones Permanentes de trámite interno y presentarla a la consideración del Pleno.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
