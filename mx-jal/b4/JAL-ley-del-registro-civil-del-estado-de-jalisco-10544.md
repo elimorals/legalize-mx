@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "1996-09-07"
+last_updated: "1999-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 17895, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 1999, SE ADICIONA EL CAPÍTULO XV DENOMINADO “DE LAS CERTIFICACIONES”, EL QUE COMPRENDE LOS ARTÍCULOS 120 Y 121, RECORRIÉNDOSE LOS DEMÁS CAPÍTULOS Y ARTÍCULOS EN SU NÚMERO Y ORDEN.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -113,6 +115,10 @@ El director general del Registro Civil tendrá en todo tiempo la facultad de obj
 
 La dependencia municipal responsable del Registro Civil, en coordinación con la Dirección General del Registro Civil, proporcionará y verificará la capacitación de los oficiales del Registro Civil, antes y durante el ejercicio de sus funciones, siendo esta capacitación obligatoria y con la finalidad de lograr la optimación (sic) de los recursos humanos y materiales de la institución.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
+
+Quien sea designado, se aplicará de inmediato a recibir capacitación en los términos del párrafo anterior, la que deberá concluir dentro de los tres meses siguientes. La inobservancia de lo anterior por causa imputable al designado, tendrá por efecto la pérdida del cargo.
+
 ###### Artículo 12.
 
 La Dirección General del Registro Civil organizará en forma permanente y periódica, reuniones de capacitación y evaluación con los oficiales del Registro Civil y asimismo todo tipo de actos y eventos, cuya finalidad sea la superación de la institución y actualización de sus servidores públicos.
@@ -151,41 +157,37 @@ Son requisitos para ser oficial del Registro Civil:
 
 I. Tener la nacionalidad mexicana;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
 
-II. Ser mayor de 30 años de edad el día de su designación;
+II. Ser mayor de veintisiete años de edad el día de su designación;
 
 III. Estar avecindado por lo menos un año en el lugar de su adscripción, previamente a su designación;
 
 IV. Estar en el pleno ejercicio de sus derechos ciudadanos;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
 
-V. Haber concluido cuando menos la educación secundaria en los municipios con menos de diez mil habitantes y preparatoria en los demás casos, y
+V. Poseer título de abogado o de licenciado en derecho; y
 
 VI. No tener antecedentes penales por delito doloso.
 
+> <small>(REFORMADO, P. O. 15 DE JUNIO DE 1999)</small>
+
 ###### Artículo 20.
 
-Para la designación de los oficiales en las oficinas vacantes, se tomarán en cuenta además de lo previsto en el artículo anterior, los siguientes requisitos:
+Los requisitos del artículo precedente podrán disminuir de conformidad con lo previsto en los párrafos siguientes, en los municipios con menos de treinta mil habitantes sólo respecto de la edad mínima y grado académico.
 
-I. Su antigüedad y conocimiento de la institución del Registro civil;
+Cuando el cargo de Oficial del Registro Civil esté vacante y no se encuentre quien cumpla con los requisitos señalados, el Presidente Municipal convocará, dentro de los treinta días siguientes a quienes cumplan con lo previsto por el artículo 19, excepto en lo relativo a la edad mínima y el grado académico, que serán de veinticinco años e instrucción preparatoria concluida, respectivamente.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
-
-II. Su grado académico o experiencia en la materia, prefiriéndose a quienes posean título de Abogado o de Licenciado en Derecho;
-
-III. Su lugar de residencia; y
-
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
-
-IV. La certificación de su evaluación en el curso de capacitación impartido por la dependencia municipal correspondiente, en coordinación con la Dirección General del Registro Civil.
+Cuando ninguno de los comparecientes reúna los requisitos mencionado (sic), deberá expedirse una segunda convocatoria en la que se exigirá que la edad mínima sea de veintiún años, debiéndose observar en lo conducente, lo ordenado en el párrafo anterior.
 
 ###### Artículo 21.
 
 Son facultades y obligaciones de los oficiales del Registro Civil, además de las ya establecidas, las siguientes:
 
-I. Solicitar y tener en existencia, oportunamente, las formas necesarias para la inscripción de las actas del Registro Civil, así como para la expedición de las copias certificadas de las mismas y de los documentos del apéndice;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
+
+I. Tener en existencia los formatos necesarios para el levantamiento de las actas del Registro Civil, así como para la expedición de las copias certificadas, de los extractos de las mismas y documentos del apéndice;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -869,27 +871,73 @@ Las actas a que se refiere el artículo anterior contendrán: el nombre, apellid
 
 Cuando se presente la persona declarada ausente o cuya muerte se presumía o se recobre la capacidad para administrar bienes, se dará aviso al oficial del Registro Civil y al Archivo General por la autoridad que corresponda, para que se cancele la inscripción a que se refiere el artículo 117 de esta ley.
 
-### CAPITULO XV. De la nulificación, rectificación, aclaración y testadura de las actas del Registro Civil
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+### CAPITULO XV. De las Certificaciones
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
 
 ###### Artículo 120.
 
-Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; la aclaración y testaduras que se deban efectuar en las mismas, se llevaran a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
+Las certificaciones de las copias y extractos de las actas y documentos que obren en los archivos de la Dirección General del Registro Civil y las oficialías, tendrán el mismo valor probatorio tratándose de trámites relativos al estado civil de las personas.
+
+Los formatos para la expedición de las copias y extractos referidos, serán autorizados por la misma Dirección, con las especificaciones técnicas y diseños que ésta determine.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
 
 ###### Artículo 121.
 
-Hay lugar a pedir la nulificación en todo o en parte de una acta del Registro Civil, cuando el suceso registrado no haya ocurrido o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+Los extractos certificados de las actas del estado civil de las personas, contendrán cuando menos un resumen con los requisitos esenciales mínimos, siendo de manera general los siguientes:
 
-### CAPITULO XVI. De las visitas de orientación e inspección
+I. El tipo de hecho o acto jurídico que certifica el extracto;
 
-### CAPITULO XVII. De las sanciones
+II. La Clave Unica del Registro Nacional de Población, identificada por sus siglas "CURP";
+
+III. Datos de ubicación y fecha del acta;
+
+IV. Las anotaciones marginales que obren en el documento;
+
+V. Nombre y firma del funcionario que certifica el extracto y sello de la Dirección General del Registro Civil o de la Oficialía, en su caso;
+
+VI. Lugar y fecha de certificación; y
+
+VII. Los demás datos que deberán contener cada extracto en lo particular, siendo los siguientes:
+
+a) De las actas de nacimiento: Nombre, apellido y sexo del registrado; lugar y fecha de nacimiento; la expresión de si es presentado vivo o muerto; nombre, apellidos y nacionalidad de los padres;
+
+b) De las actas de matrimonio: Nombres, apellidos, nacionalidad, estado civil, fecha de nacimiento de los contrayentes; nombre de quien o quienes otorgaron su consentimiento en caso de minoría de edad de los consortes, cuando corresponda; y estipulación del régimen económico patrimonial elegido;
+
+c) De las actas de adopción: Nombre, apellidos, sexo, edad, fecha de nacimiento del adoptado; nombre apellidos, edad, nacionalidad y estado civil del adoptante o adoptantes; fecha en que causo estado la sentencia, tribunal que la dictó y número de expediente;
+
+d) De las actas de reconocimiento: Nombre, apellidos, sexo, edad, lugar y fecha de nacimiento del reconocido; nombre, apellidos, edad y nacionalidad del reconocedor; nombre del representante legal que otorgó el consentimiento para el reconocimiento, si lo hubiere; y fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente, en su caso;
+
+e) De las actas de divorcio: Nombre, apellidos, edad y nacionalidad de los divorciados; fecha en que causó estado la sentencia, tribunal que la dictó y número de expediente, datos de ubicación del acta de matrimonio y lugar en que lo contrajeron;
+
+f) De las actas de defunción: Nombre, apellidos, fecha de nacimiento, sexo, edad, estado civil y nacionalidad del finado; lugar, fecha y hora de la defunción; nombre apellidos y cédula profesional del médico que la certificó; causas de la muerte; nombre y apellidos del declarante; y
+
+g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para administrar bienes: Nombre, apellidos, estado civil, nacionalidad y edad de la persona de que se trata; fecha en que causó estado la sentencia, tribunal que las dictó, número de expediente y resumen de las proposiciones; nombre, apellidos y nacionalidad de quienes aparecieren en el acta respectiva con interés jurídico en el registro y carácter con el que comparecieron.
+
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XV], P.O. 15 DE JUNIO DE 1999)
+
+### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del Registro Civil
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+
+### CAPITULO XVII. De las Visitas de Orientación e Inspección
 
 ###### Artículo 122.
 
-Cuando el acto haya ocurrido, pero se declare nulo con posterioridad, el acta sólo será anotada al margen.
+Sólo se harán mediante sentencia ejecutoria, la nulificación y rectificación de las actas del estado civil; la aclaración y testaduras que se deban efectuar en las mismas, se llevaran a cabo ante el Oficial del Registro Civil donde se haya asentado el acta, o en el Registro Civil del Estado, a través del procedimiento administrativo que se señale en el Reglamento correspondiente.
 
 ###### Artículo 123.
+
+Hay lugar a pedir la nulificación en todo o en parte de una acta del Registro Civil, cuando el suceso registrado no haya ocurrido o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+
+###### Artículo 124.
+
+Cuando el acto haya ocurrido, pero se declare nulo con posterioridad, el acta sólo será anotada al margen.
+
+###### Artículo 125.
 
 Podrá pedirse la rectificación:
 
@@ -897,11 +945,11 @@ I. Cuando habiendo ocurrido realmente el acto y hayan intervenido personas legal
 
 II. Cuando se solicite variar algún nombre puesto erróneamente u otra circunstancia esencial.
 
-###### Artículo 124.
+###### Artículo 126.
 
 No será permitido a persona alguna cambiar su nombre o modificarlo, pero si alguien hubiere sido conocida con nombre diferente al que aparece en su acta, declarado este hecho por sentencia ejecutoria se anotará la referida acta en tal sentido, subsistiendo el nombre de la persona que primeramente se haya asentado en los libros del registro.
 
-###### Artículo 125.
+###### Artículo 127.
 
 Se exceptúa de lo dispuesto en el artículo que antecede:
 
@@ -911,23 +959,23 @@ II. En los casos de desconocimiento, reconocimiento de la paternidad o maternida
 
 III. En el caso de homonimia que le cause un perjuicio podrá pedirse al juez competente del lugar donde esté asentada el acta de nacimiento, autorice transformar el primero de los apellidos de simple a compuesto o de compuesto a simple.
 
-###### Artículo 126.
+###### Artículo 128.
 
 Procede la aclaración cuando se trate de errores ortográficos, de impresión que sea manual, mecánica, eléctrica o electrónica, numéricos y otros meramente accidentales que no afecten los datos esenciales.
 
-###### Artículo 127.
+###### Artículo 129.
 
 Cuando se observe que en una actuación no autorizada, se hiciere mención de cualesquiera de las expresiones prohibidas en esta ley, así como en las de reconocimiento de hijos se expresare el nombre de otro progenitor, se deberán testar éstas de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
-###### Artículo 128.
+###### Artículo 130.
 
 En los casos de los dos artículos que preceden, la parte interesada deberá, ante el Oficial del Registro Civil que corresponda, o ante el Registro Civil del Estado, presentar solicitud con apego a lo dispuesto en el reglamento aplicable.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
-###### Artículo 129.
+###### Artículo 131.
 
 Pueden pedir, ante las autoridades correspondientes, la nulificación, rectificación, aclaración y testadura de las actas del estado civil:
 
@@ -941,43 +989,49 @@ III. Los herederos de las personas comprendidas en las dos fracciones anteriores
 
 IV. Los que según el Código Civil del Estado puedan continuar o intentar la acción respectiva, así como el Oficial del Registro Civil, en los casos de nulificación y rectificación.
 
-###### Artículo 130.
+###### Artículo 132.
 
 En los casos de nulificación y rectificación de las actas del estado civil siempre serán partes el ministerio público y el oficial del Registro Civil donde se asentó el acta.
 
-###### Artículo 131.
+###### Artículo 133.
 
 Los negocios que versen sobre la nulificación y rectificación de las actas del estado civil, se tramitarán en la forma que se establezca en el Código de Procedimientos Civiles del Estado para los juicios ordinarios y será competente para conocer de ellos el juzgado de Primera Instancia que ejerza su jurisdicción en el domicilio de la oficialía del Registro Civil.
 
-###### Artículo 132.
+###### Artículo 134.
 
 Una vez que exista sentencia ejecutoria deberá remitirse copia de la misma al oficial del Registro Civil y al Titular del Archivo General del Registro Civil para que hagan las anotaciones que procedan.
 
-###### Artículo 133.
+###### Artículo 135.
 
 La sentencia ejecutoria hará fe plena contra todos, aunque no hayan comparecido; pero si alguno probare que estuvo absolutamente impedido para salir al juicio o que el procedimiento intentado es fraudulento, se le admitirá probar contra ella; más se tendrá como buena la sentencia anterior y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria.
 
-###### Artículo 134.
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XVI], P.O. 15 DE JUNIO DE 1999)
 
-La Dirección General del Registro Civil podrá realizar las visitas de orientación y control administrativo que señala la presente ley a las oficinas del Registro Civil de la entidad, así como solicitar en todo tiempo a sus titulares, la información que requiera para el control del Archivo General y la coordinación del sistema.
-
-###### Artículo 135.
-
-Las visitas de orientación tendrán por objeto informar a los titulares de las oficialías del Registro Civil y los servidores públicos que dependan de las mismas, respecto a la aplicación de las normas reglamentarias que regulen sus actividades, así como promover su capacitación y actualización.
+### CAPITULO XVIII. De las sanciones
 
 ###### Artículo 136.
 
-Las visitas de control administrativo tendrán por objeto asegurar la coordinación de las actividades de las oficialías, conforme a las normas reglamentarias y los convenios que se celebren con el Gobierno Federal.
+La Dirección General del Registro Civil podrá realizar las visitas de orientación y control administrativo que señala la presente ley a las oficinas del Registro Civil de la entidad, así como solicitar en todo tiempo a sus titulares, la información que requiera para el control del Archivo General y la coordinación del sistema.
 
 ###### Artículo 137.
 
-Las visitas e inspecciones que corresponde realizar a la Procuraduría General de Justicia, se desarrollarán conforme las disposiciones que regulan las actividades de verificación y control a cargo del Ministerio Público.
+Las visitas de orientación tendrán por objeto informar a los titulares de las oficialías del Registro Civil y los servidores públicos que dependan de las mismas, respecto a la aplicación de las normas reglamentarias que regulen sus actividades, así como promover su capacitación y actualización.
 
 ###### Artículo 138.
 
-Las faltas y omisiones de carácter administrativo que cometan o en que incurran los servidores públicos de la Dirección General del Registro Civil y los oficiales del Registro Civil, serán sancionados en los términos establecidos por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y este ordenamiento, sin perjuicio de la responsabilidad civil o penal en que incurran.
+Las visitas de control administrativo tendrán por objeto asegurar la coordinación de las actividades de las oficialías, conforme a las normas reglamentarias y los convenios que se celebren con el Gobierno Federal.
 
 ###### Artículo 139.
+
+Las visitas e inspecciones que corresponde realizar a la Procuraduría General de Justicia, se desarrollarán conforme las disposiciones que regulan las actividades de verificación y control a cargo del Ministerio Público.
+
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO XVII], P.O. 15 DE JUNIO DE 1999)
+
+###### Artículo 140.
+
+Las faltas y omisiones de carácter administrativo que cometan o en que incurran los servidores públicos de la Dirección General del Registro Civil y los oficiales del Registro Civil, serán sancionados en los términos establecidos por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y este ordenamiento, sin perjuicio de la responsabilidad civil o penal en que incurran.
+
+###### Artículo 141.
 
 Las sanciones serán:
 
@@ -989,7 +1043,7 @@ III. Suspensión hasta por un año; y
 
 IV. Destitución del cargo.
 
-###### Artículo 140.
+###### Artículo 142.
 
 Se sancionará con amonestación:
 
@@ -1001,17 +1055,17 @@ III. No comunicar a la Dirección General del Registro Civil las anotaciones o c
 
 IV. Asentar en las formas errores mecanográficos, ortográficos y otros que no afecten la esencia del acta
 
-###### Artículo 141.
+###### Artículo 143.
 
 Las personas, que estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas con una multa de hasta el equivalente a un día de salario mínimo general vigente en la zona, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
 
-###### Artículo 142.
+###### Artículo 144.
 
 El Oficial del Registro Civil que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado por el presidente municipal, por la primera vez, con una multa de cien días de salario mínimo vigente en la zona en donde preste sus servicios, y en caso de reincidencia, con la destitución.
 
-###### Artículo 143.
+###### Artículo 145.
 
-Se sancionara con suspensión:
+Se sancionará con suspensión:
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1023,7 +1077,7 @@ II. No reponer de inmediato las formas que se destruyan, inutilicen o queden ile
 
 III. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1996)
 
-###### Artículo 144.
+###### Artículo 146.
 
 Se sancionará con destitución:
 
@@ -1037,7 +1091,7 @@ IV. No integrar los documentos respectivos en el apéndice;
 
 V. Retardar si causa justificada, la celebración de cualquier acto del Registro Civil;
 
-VI. Faltar por mas de tres días consecutivos a sus labores, sin causa justificada;
+VI. Faltar por más de tres días consecutivos a sus labores, sin causa justificada;
 
 VII. No asentar las actas en las formas correspondientes;
 
@@ -1102,3 +1156,11 @@ P.O. 7 DE SEPTIEMBRE DE 1996.
 PRIMERO.- La denominación de "Dirección del Registro Civil", establecida en la plantilla de personal anexa al Presupuesto de Egresos del Gobierno del Estado, deberá ser modificada para ser congruente con las disposiciones establecidas en la presente ley.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE JUNIO DE 1999.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- La Dirección General del Registro Civil promoverá la suscripción de los convenios a que hace referencia el artículo 13 de esta Ley, para la promoción del uso oficial y aceptación de las certificaciones en extracto de las actas del Registro Civil.
+
+TERCERO.- Los extractos certificados de las actas de divorcio administrativo contendrán, además de los señalados en el inciso e) de la fracción VII del artículo 121, la expresión de que se hubiere tratado, de divorcio administrativo.
