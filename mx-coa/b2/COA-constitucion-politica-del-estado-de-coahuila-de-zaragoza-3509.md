@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1948-03-27"
+last_updated: "1950-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 1948.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 1950.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -352,9 +352,11 @@ Si los miembros de la Diputación Permanente no concurrieren, los Diputados que 
 
 De las Sesiones del Congreso.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1950)</small>
+
 ###### Artículo 46.
 
-La Legislatura tendrá cada año un período ordinario de sesiones, que comenzará el 15 de Noviembre y terminará el 31 de Marzo del siguiente año. Podrá cerrar sus sesiones antes de ese día o prolongarlas hasta por tres meses, si lo estima conveniente, siendo necesario en estos casos, la aprobación de las dos terceras partes de los Diputados presentes.
+La Legislatura tendrá cada año un período ordinario de Sesiones que comenzará el 20 de noviembre y terminará el 31 de marzo del siguiente año. Podrá cerrar sus sesiones antes de ese día o prolongarlas hasta por tres meses, si lo estima conveniente, siendo necesario en estos casos la aprobación de las dos terceras partes de los Diputados presentes.
 
 ###### Artículo 47.
 
@@ -514,7 +516,7 @@ XI. Examinar, aprobar o reformar los reglamentos o bandos de Policía que formul
 
 XII. Fijar el territorio que corresponde a los Distritos y Municipios y, por el voto de las dos terceras partes de los Diputados presentes, modificar la extensión de los mismos, suprimirlos y crear otros cuando así lo exija el buen servicio público.
 
-XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
+XIII. Cambiar prosicionalmente la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
 
 XIV. Fijar las bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado con las limitaciones que concede la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos y reconocer y mandar pagar las deudas que contraiga el Estado.
 
@@ -1510,9 +1512,11 @@ Los funcionarios públicos que entren a ejercer su encargo después del día se�
 
 No podrán formar parte de un mismo Ayuntamiento dos munícipes que sean parientes por consanguinidad, dentro del segundo grado.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1950)</small>
+
 ###### Artículo 193.
 
-Si se interrumpe el orden Constitucional en el Estado y durante la interrupción fenecieren o se declararen fenecidos, conforme a la ley, los períodos constitucionales del Gobernador, Magistrados, Diputados, el que ejerza provicionalmente (sic) el Gobierno, convocará a elecciones inmediatamente que pasen las circunstancias que hayan determinado la interrupción, y los individuos que resultaren electos, solo funcionarán el tiempo que falte para concluir el período respectivo; pero si las elecciones debieran verificarse después de los dos primeros años del ejercicio Constitucional interrumpido, éstas se harán por un período completo, computándose para el Gobernador y Magistrados, desde el primero de Diciembre del año en que deban tomar posesión de su cargo y para los Diputados, desde el 15 de Noviembre anterior.
+Si se interrumpe el orden Constitucional en el Estado y durante la interrupción fenecieren o se declararen fenecidos, conforme a la Ley, los Períodos Constituciones del Gobernador, Magistrados y Diputados, el que ejerza provisionalmente el Gobierno, convocará a elecciones inmediatamente que pasen las circunstancias que hayan determinado la interrupción, y los individuos que resultaren electos, sólo funcionarán el tiempo que falte para concluir el período respectivo; pero si las elecciones debieran verificarse después de los primeros años del ejercicio Constitucional interrumpido, éstas se harán por un período completo, computándose para el Gobernador y Magistrados, desde el primero de diciembre del año en que deban tomar posesión de su cargo y para los Diputados desde el veinte de noviembre anterior.
 
 ###### Artículo 194.
 
@@ -1707,3 +1711,21 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 27 DE MARZO DE 1948.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 14 DE OCTUBRE DE 1950.
+
+###### Artículo 1o.
+
+La actual Comisión Permanente, continuará en funciones hasta el 19 de noviembre del corriente año, fecha en que se reunirá el Congreso, para designar su Mesa Directiva, e iniciar sus Sesiones Ordinarias el día 20.
+
+###### Artículo 2o.
+
+La Legislatura que se elija para substituir a la actual durará en funciones del 15 de noviembre de 1952 al 19 de noviembre de 1955.
+
+###### Artículo 3o.
+
+La XXXIX Legislatura se instalará, de acuerdo con lo que previene la Ley el día 14 de noviembre; pero designará sus Directivas el día 19 de cada mes, y celebrará su primer sesión el 20 de noviembre.
+
+###### Artículo 4o.
+
+Con excepción de la Mesa Directiva correspondiente al mes de noviembre de 1950 y 1951, el actual Congreso continuará nombrando sus Directivas el día 14 de cada mes. A partir de la próxima Legislatura la designación será hecha el día 19 de cada mes.
