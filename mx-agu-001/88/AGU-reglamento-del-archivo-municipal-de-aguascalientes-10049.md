@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-archivo-municipal-de-aguascalientes-10049"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-08-09"
-last_updated: "1981-08-09"
+last_updated: "1991-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO UNICO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL MUNICIPIO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 15 DE SEPTIEMBRE DE 1991, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado, el domingo 9 de agosto de 1981.
 
@@ -144,3 +146,9 @@ Pedro Rivas Cuéllar.
 EL SECRETARIO DEL AYUNTAMIENTO Y DIRECTOR DE GOBERNACIÓN POR MINISTERIO DE LEY,
 
 Lic. Armando López Campa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 1991.
+
+ÚNICO.- El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado y deroga al Reglamento del Archivo Municipal de Aguascalientes, publicado el 9 de agosto de 1981.
