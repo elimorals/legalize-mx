@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1954-11-20"
+last_updated: "1959-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1959.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -305,15 +305,21 @@ Los patronatos de las instituciones de beneficencia privada estarán obligados a
 
 Queda estrictamente prohibido efectuar para fines de beneficencia privada, colectas, rifas, loterías, festivales, venta de cupones o cualquiera otra clase de actos similares, sin autorización.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
+
 ###### Artículo 32.
 
-El Estado no podrá en ningún caso, ni bajo ningún pretexto ocupar los bienes que pertenezcan a las Instituciones de beneficencia privada, ni celebrar, respecto de esos bienes, contrato alguno substituyendo a los patronatos de las mismas instituciones.
+Salvo los casos de Utilidad Pública, el Ejecutivo no podrá ocupar los bienes que pertenezcan a las instituciones de Beneficencia Privada aportados por los fundadores de las mismas o por particulares, ni celebrar, respecto de esos bienes, contrato alguno en substitución de los Patronatos de ellas.
 
-La contravención de lo dispuesto en el párrafo anterior, hará pecuniariamente responsable a la autoridad que decretó la ocupación de dichos bienes. Los actos o contratos que se realicen al amparo del acuerdo respectivo serán nulos de pleno derecho.
+La contravención a lo dispuesto en el párrafo anterior, hará pecuniariamente responsable a la autoridad que decretó la ocupación de dichos bienes.
+
+Los actos y los contratos que realicen contraviniendo las disposiciones de este artículo, serán nulos de pleno derecho.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
 
 ###### Artículo 33.
 
-En el caso de que el Ministerio Público no ejercite la acción de nulidad consiguiente dentro del término de seis meses a partir de la fecha en que tenga conocimiento de la ocupación de los bienes a que se refiere al artículo anterior, los fundadores quedarán facultados para disponer, en vida de los bienes destinados por ellos a las instituciones.
+En el caso de que el Ministerio Público no ejercite la acción correspondiente para restituir a la Institución de Beneficencia Privada los bienes ocupados o la de nulidad del contrato celebrado dentro del término de seis meses, computados a partir de la fecha en que tenga conocimiento de la ocupación de los bienes o de la celebración del contrato, los fundadores quedarán facultados para ejercitar las acciones correspondientes y disponer en vida de los bienes destinados por ellos a las instituciones.
 
 ###### Artículo 34.
 
@@ -323,9 +329,11 @@ Los fundadores podrán establecer en su testamento la condición de que si el Es
 
 No se considerará que el Estado ocupa los bienes de las instituciones de beneficencia privada, cuando la Junta de este ramo designe a la persona o personas que deban desempeñar un patronato, en uso de la facultad que le concede el artículo 93 Fracc. II.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
+
 ###### Artículo 36.
 
-El derecho que los Artículos 33 y 34 conceeden (sic) a los fundadores y sus herederos, podrá reclamarse en juicio sumario, que se entablará en contra de la Junta de Beneficencia Privada. La autoridad judicial que conozca en primera instancia del asunto está facultada para poner en posesión de los bienes al reclamante, cuando se dicte la sentencia que declare probada su acción
+El derecho que los Artículos 33 y 34 conceden a los fundadores y sus herederos, se reclamará en Juicio Sumario. Si se declaráse probada la acción, la autoridad judicial que conozca en primera instancia podrá ejecutar su sentencia, sin fianza o requisito alguno.
 
 ###### Artículo 37.
 
@@ -347,9 +355,11 @@ La Junta de Beneficencia Privada vigilará e impedirá en su caso que las instit
 
 Una vez que las instituciones queden definitivamente constituídas conforme a las prevenciones de esta Ley, la revocación que haga el fundador o fundadores de la afectación de bienes que haya hecho para constituir el patrimonio de aquella, será nula de pleno derecho, excepto en el caso de los Artículos 32 a 36.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
+
 ###### Artículo 42.
 
-También se tendrá por no hecha la revocación o reducción que haga una persona del donativo que haya hecho en favor de una institución de beneficencia privada.
+También se tendrá por no hecha la revocación o reducción que haga un particular del donativo que haya hecho en favor de una institución de Beneficencia Privada, salvo los casos a que se refieren los Artículos 2348, 2359, 2360, 2362, 2367, 2375, 2376, 2377 y 2383 del Código Civil en vigor.
 
 ###### Artículo 43.
 
@@ -1015,9 +1025,11 @@ VI.- Que se cumplan las disposiciones de esta Ley;
 
 VII.- En los demás casos que esta Ley lo establece.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
+
 ###### Artículo 141.
 
-La Junta se integrará por un Presidente y cinco vocales, con sus respectivos suplentes, que se designarán en la forma que establecen los artículos siguientes y durarán en su encargo seis años.
+La Junta se integrará por un Presidente y dos Vocales, quienes serán designados y removidos libremente por el Gobernador del Estado.
 
 ###### Artículo 142.
 
@@ -1029,11 +1041,11 @@ Además de los requisitos que exige el artículo 141 deberá ser abogado recibid
 
 La Junta celebrará cuando menos, dos sesiones ordinarias semanariamente, y los miembros que la integran gozarán de los emolumentos que les asigne el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
+
 ###### Artículo 144.
 
-La Junta sesionará cuando concurran, por lo menos, cuatro vocales; pero las determinaciones se tomarán en todo caso por mayoría de votos de los miembros de la Junta.
-
-En caso de ausencia del Presidente, presidirá la sesión del Vocal de mayor edad.
+La Junta sesionará cuando concurran, por lo menos. el Presidente y un Vocal o los dos Vocales. Las determinaciones se tomarán en todo caso, por mayoría de votos de los asistentes a la sesión; pero en caso de empate, tendrá voto de calidad quien la presida. En caso de ausencia del Presidente, presidirá la sesión el Vocal de mayor edad.
 
 ###### Artículo 145.
 
@@ -1047,7 +1059,9 @@ La Junta está facultada para revocar las determinaciones dictadas por el Presid
 
 III.- Proponer al Gobernador del Estado el personal que deba prestar sus servicios en las oficinas de la Junta de Beneficencia Privada;
 
-IV.- Proponer al Gobernador del Estado la aplicación de las correcciones disciplinarias a los Vocales de la Junta; y por lo que respecta al personal sujetarse a la Ley del Servicio Civil.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1959)</small>
+
+IV.- Proponer al Gobernador del Estado la aplicación de las correcciones disciplinarias a los Vocales de la Junta y demás personal de la misma que, en todo caso, será de confianza.
 
 V.- Autorizar con el Secretario General, las actas de las sesiones que celebren.
 
@@ -1632,3 +1646,9 @@ Quedan derogadas las disposiciones que se opongan a la presente Ley y su Reglame
 ###### ARTICULO 3o.
 
 Esta Ley entrará en vigor el día siguiente de su publicación ed (sic) el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 1959.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo delGobierno (sic) del Estado.
