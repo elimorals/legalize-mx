@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2001-03-13"
+last_updated: "2001-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2001.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1087,11 +1087,11 @@ Las fundaciones pueden constituirse por acto entre vivos, o por disposición tes
 
 Las fundaciones que se constituyan por acto entre vivos, pueden hacerse por voluntad de una o de varias personas, formalizándose la misma mediante escritura pública.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
 ###### Art. 193.
 
-Cuando se haga por disposición testamentaria, se tendrá como tal el contenido del propio testamento, copia del acta de defunción de quien sea su fundador y de la resolución que haya declarado la validez de la disposición testamentaria. Dicha disposición deberá protocolizarse ante notario público.
-
-La demanda de nulidad a un testamento no tendrá efectos en contra de la disposición del mismo, en la cual se ordene la constitución de una fundación.
+Cuando se haga por disposición testamentaria, se tendrá como tal el contenido del propio testamento, copia del acta de defunción de quien sea su fundador y de la resolución que haya declarado la validez de la disposición testamentaria. Dicha disposición debe protocolizarse ante notario público.
 
 ###### Art. 194.
 
@@ -14683,6 +14683,8 @@ En todo testamento, el testador deberá expresar cuando los hubiere, los siguien
 
 ### CAPITULO VII. De las sustituciones
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
 ###### Art. 2676.
 
 Pueden testar todos aquellos a quienes la ley no prohíbe expresamente el ejercicio de ese derecho.
@@ -14981,9 +14983,11 @@ El importe de las contribuciones correspondientes al legado, se deducirá del va
 
 Si toda la herencia se distribuye en legados, se prorratearán las deudas y gravámenes de ella entre todos los partícipes, en proporción de sus cuotas, a no ser que el testador hubiere dispuesto otra cosa.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
 ###### Art. 2743.
 
-El legado queda sin efecto si la cosa legada perece viviendo el testador; y se entenderá perdida la cosa para el legatario en caso de evicción, siempre que haya sido individualmente determinada, o si perece después de muerto el testador, sin culpa del heredero.
+El legado queda sin efecto si la cosa legada perece viviendo el testador; y se entenderá perdida la cosa para el legatario en caso de evicción, siempre que haya sido individualmente determinada, o si perece después de muerto el testador, sin culpa del heredero, albacea o depositario.
 
 ###### Art. 2744.
 
@@ -15033,7 +15037,7 @@ En los legados alternativos la elección corresponde al deudor, si el testador n
 
 ###### Art. 2753.
 
-Si el deudor tiene la elección, puede entregar la cosa de menor valor; si la elección corresponde al beneficiario, puede exigir la cosa de mayor valor.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2001)
 
 ###### Art. 2754.
 
@@ -15235,7 +15239,7 @@ Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario 
 
 ###### Art. 2802.
 
-Puede el testador sustituir una o más personas al heredero o herederos; al legatario o legatarios instituidos para el caso de que mueran antes que él o de que no puedan o no quieran aceptar la herencia.
+Puede el testador designar una o más personas en calidad de sustitutos de los herederos o legatarios instituidos, para el caso de que mueran antes que él o de que no puedan o no quieran aceptar la herencia.
 
 ###### Art. 2803.
 
@@ -15739,9 +15743,11 @@ Lo dispuesto en el artículo anterior se observará, en su caso, respecto de los
 
 También se reconocen como testamentos en el Estado de Jalisco las disposiciones mortuorias o pliegos de última voluntad que formulen los miembros del Ejército Mexicano, de la Fuerza Aérea o de la Armada Nacional, ante dos testigos y depositadas en las Secretarías del ramo correspondiente o en los institutos de seguridad social para ello instruidos y no exista testamento general expreso.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
 ###### Art. 2903.
 
-Los testamentos otorgados por escrito, conforme a este capítulo, deberán ser entregados luego que pueda el testador, por aquél en cuyo poder hubieren quedado, al jefe de la corporación, quien lo remitirá al Ministro de la Secretaría que corresponda y éste a la autoridad judicial competente.
+Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser entregados luego que muera el testador, por aquél en cuyo poder hubieren quedado, al jefe de la corporación, quien lo remitirá a el Superior Jerárquico que corresponda y éste a la Autoridad judicial competente.
 
 ###### Art. 2904.
 
@@ -16009,15 +16015,21 @@ Será, no obstante, válida la disposición hecha en favor de los hijos que naci
 
 Por razón de delito son incapaces de adquirir por testamento o por intestado:
 
-I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate o a los ascendientes, descendientes, cónyuge o hermanos de ella;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
 
-II. El que haya hecho contra el autor de la sucesión sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus descendientes, ascendientes, hermanos o cónyuge;
+I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate o a los ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
+II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado, acusación de delito que merezca pena capital o de prisión, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus ascendientes, descendientes, cónyuge, concubina o concubinario o hermanos;
 
 III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
 IV. El coautor del adulterio, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 
-V. El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus descendientes, de su cónyuge, de sus ascendientes o de sus hermanos;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+
+V. El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado;
 
 VI. El padre y la madre respecto del hijo expuesto por ellos;
 
@@ -17050,3 +17062,7 @@ P.O. 13 DE MARZO DE 2001.
 DECRETO 18914
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE NOVIEMBRE DE 2001.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
