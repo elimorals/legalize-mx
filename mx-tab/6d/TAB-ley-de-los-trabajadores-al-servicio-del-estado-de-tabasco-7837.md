@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "1990-03-31"
+last_updated: "2000-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -909,6 +909,96 @@ El Tribunal de Conciliación y Arbitraje nombrará, suspenderá o cesará a sus 
 
 Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado, consignándoseles en el Presupuesto de Egresos correspondiente.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 104 BIS-A.- Se crea la Procuraduría de la Defensa de los Trabajadores al Servicio el (sic) Estado, dependiente del Titular del Poder Ejecutivo, como órgano de buena fe, de interés público y de carácter permanente, que tiene por objeto la defensa de los derechos de los trabajadores al servicio del Estado y los Municipios, con facultades de representación ante conflictos individuales y colectivos suscitados con motivo de la relación laboral de los trabajadores con el ente público, actuando éste como patrón; misma que orgánicamente estará adscrita a la Secretaría de Gobierno.
+
+A).- La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado, estará integrada, cuando menos de la siguiente forma:
+
+I.- Procurador;
+
+II.- Procuradores Auxiliares; y
+
+III.- Personal administrativo de apoyo.
+
+B).- Requisitos para ser Procurador y Procurador Auxiliar:
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II.- Ser licenciado en derecho;
+
+III.- Que se haya destacado en estudios e investigaciones en derecho del trabajo y de la seguridad social;
+
+IV:- Tener como experiencia mínima comprobable tres años en materia laboral.
+
+V.- No haber sido condenado por delito doloso sancionado con pena corporal;
+
+VI.- Ser mayor de 25 años de edad al día de su designación; y
+
+VII.- No pertenecer al estado eclesiástico.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 104 BIS-B.- El Procurador de la Defensa de los Trabajadores al Servicio del Estado, será nombrado por el Gobernador del Estado, a propuesta mediante terna, del Secretario de Gobierno. Los Procuradores Auxiliares serán designados por el Secretario de Gobierno.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 104 BIS-C.- El Procurador de la Defensa de los Trabajadores al Servicio del Estado, tendrá las facultades y obligaciones siguientes:
+
+I.- Representar a los trabajadores mediante comparecencia o simple carta poder, sus sindicatos o beneficiarios cuando éstos así lo soliciten ante los órganos jurisdiccionales, administrativos y cualquier otra institución pública, a efecto de ejercitar las acciones y recursos que correspondan en la vía ordinaria, especial, inclusive el juicio de amparo, hasta su total terminación;
+
+II.- Ejercer las funciones de su competencia de conformidad con lo dispuesto en las disposiciones legales y reglamentarias aplicables, así como de acuerdo a las directrices, lineamientos y órdenes que emita el Secretario;
+
+III.- Orientar y asesorar a los trabajadores, sus sindicatos o beneficiarios sobre los derechos y obligaciones derivados de las normas de trabajo y de previsión y seguridad sociales, así como de los trámites, procedimientos y órganos competentes ante los cuales podrán acudir para hacerlos valer.
+
+IV.- Intervenir en la defensa del trabajador burócrata, en aquellos casos en que legalmente no estuviese representado en las comparecencias ante el Tribunal de Conciliación y Arbitraje. Para este efecto el órgano jurisdiccional dará conocimiento inmediato a esta Institución;
+
+V.- Recibir de los trabajadores, sus sindicatos o beneficiarios, las quejas por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales y, en su caso, citar a las entidades públicas o sindicatos, para que comparezcan a manifestar lo que a su derecho convenga, apercibiéndolos que de no comparecer se les aplicará, como medida de apremio, una multa de hasta cien veces el salario mínimo general diario vigente en la zona;
+
+VI.- Formular las denuncias que correspondan ante las autoridades competentes por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales, y ante el Ministerio Público los hechos que presuntamente constituyan ilícitos penales;
+
+VII.- Proponer a las partes interesadas soluciones amistosas, para el arreglo de sus conflictos mediante la celebración de convenios fuera de juicio y hacerlos constar en actas autorizadas;
+
+VIII.- Acordar con el Secretario de Gobierno o con el Subsecretario del ramo, el despacho de los asuntos que estén bajo su responsabilidad; así como recibir en acuerdo a los servidores públicos subalternos y atender en audiencia al público;
+
+IX.- Proponer al Secretario de Gobierno, en coordinación con la Subsecretaría del Trabajo y Previsión Social y la Dirección de Asuntos Jurídicos de la Secretaría de Gobierno, los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas sobre los asuntos de su competencia;
+
+X.- Aprobar las políticas generales en materia de conciliación, asesoría, apoyo técnico y de lo contencioso, así como las políticas, normas, sistemas y procedimientos para la administración de los recursos materiales y de cualquier otra índole administrativa para el funcionamiento de la Procuraduría, en los términos del presente ordenamiento y en coordinación con la Secretaría de Gobierno;
+
+XI.- Proponer al Secretario de Gobierno o al Subsecretario del ramo, la celebración de convenios de coordinación, de colaboración administrativa y demás instrumentos jurídicos que sea conveniente suscribir en las materias competencia de la Procuraduría;
+
+XII.- Denunciar ante la Suprema Corte de Justicia de la Nación, las contradicciones de tesis que sustenten los Tribunales Colegiados de Circuito, de la jurisdicción territorial correspondiente, cuando la Procuraduría haya representado a los trabajadores, sus sindicatos o beneficiarios en los juicios laborales en que tales tesis hubieran sido sostenidas;
+
+XIII.- Hacer del conocimiento al Tribunal de Conciliación y Arbitraje del Estado, la contradicción de criterios sustentados en los laudos dictados por dicho Tribunal, informándole al Magistrado Presidente los casos concretos que así se hayan resuelto, para que por su conducto se sometan al Pleno de dicho Tribunal, a efecto de que se resuelva conforme a derecho;
+
+XIV.- Aplicar las medidas de apremio que establezca el reglamento respectivo.
+
+XV.- Denunciar ante las instancias competentes el incumplimiento de los deberes de los servidores públicos encargados de impartir justicia laboral en los juicios en que intervengan;
+
+XVI.- Remitir a la Contraloría Interna de la Secretaría de Gobierno para su sustanciación y resolución la documentación correspondiente a las denuncias de carácter administrativo, presentadas en contra de los servidores públicos de la Procuraduría;
+
+XVII.- Delegar sus facultades en los Procuradores Auxiliares, así como dictar las medidas que se requieran para garantizar la eficiencia, modernización y simplificación de los procedimientos operativos;
+
+XVIII.- Proponer al Secretario de Gobierno, para su aprobación, los anteproyectos de programas y presupuesto, los manuales de organización, de procedimientos y de servicios;
+
+XIX.- Autorizar la documentación necesaria para las erogaciones con cargo al presupuesto de conformidad con las disposiciones que se establezcan;
+
+XX.- Dirigir, resolver y autorizar conforme a los lineamientos que establezca el Secretario de Gobierno, y de conformidad con las disposiciones legales aplicables, los asuntos relacionados con el personal del órgano a su cargo;
+
+XXI.- Expedir certificaciones sobre los asuntos de su competencia;
+
+XXII.- Desempeñar las comisiones que le confiera el Secretario de Gobierno;
+
+XXIII.- Vigilar que los Procuradores Auxiliares, personal administrativo y de apoyo a la Procuraduría, cumplan lo dispuesto por el Reglamento;
+
+XXIV.- Coordinar con la unidad administrativa, todo lo relativo a licencias o permisos del personal de la Procuraduría;
+
+XXV.- Integrar, custodiar y controlar los libros de registro de negocios, índices y demás necesario para el mejor funcionamiento de la Procuraduría;
+
+XXVI.- Las demás que se deriven de la Ley de los Trabajadores al Servicio del Estado, y el Reglamento que al efecto se expida, así como de otras disposiciones legales aplicables y las que le encomiende el Secretario de Gobierno dentro de la esfera de sus facultades.
+
+Los Procuradores Auxiliares tendrán las facultades y obligaciones que les señale el Reglamento Interior de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y los Municipios, y las que por delegación les encomiende el Titular de la Institución, contando con las facultades de representación de éste.
+
 ### CAPITULO III. DE LOS MEDIOS DE APREMIO
 
 ###### ARTICULO 105.
@@ -1078,3 +1168,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 LIC. FERNANDO SANCHEZ DE LA CRUZ
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un término no mayor de noventa días, contados a partir de la entrada en vigor del presente Decreto, deberá expedirse el Reglamento Interior, que regule la estructura de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y los Municipios, y las funciones de los Servidores Públicos adscritos a la misma.
