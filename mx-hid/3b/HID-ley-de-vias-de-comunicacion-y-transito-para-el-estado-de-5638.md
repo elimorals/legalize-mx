@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vias-de-comunicacion-y-transito-para-el-estado-de-5638"
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-08"
-last_updated: "1983-07-16"
+last_updated: "2001-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIAS DE COMUNICACION Y TRANSITO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: EL 16 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: EL 6 DE AGOSTO DE 2001.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1970.
 
@@ -49,19 +49,11 @@ II.- La construcción y conservación de las vías públicas del Estado;
 
 III.- El tránsito de peatones, vehículos y semovientes en las vías públicas; y
 
-IV.- El uso y explotación de dichas vías públicas.
+IV.- (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 2o.
 
-Para los fines de esta Ley son vías públicas:
-
-I.- Las carreteras pavimentadas o revestidas y las brechas construidas por el Estado;
-
-II.- Los caminos denominados vecinales que unan dos o más lugares poblados, aunque en su totalidad hayan sido construidos por el municipio;
-
-III.- Los caminos construidos por particulares con sus propios recursos; y
-
-IV.- Las avenidas, calles, calzadas, paseos, plazas, y demás lugares de tránsito público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 3o.
 
@@ -81,7 +73,7 @@ La pavimentación, conservación y reparación de las vías públicas, estará a
 
 ###### Artículo 6o.
 
-La explotación, vigilancia y todo lo relativo a las vías públicas, quedarán sujetas a las determinaciones del Ejecutivo, a través de la Dirección de Tránsito en los términos del la presente Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 7o.
 
@@ -97,11 +89,11 @@ Los peatones, vehículos y semovientes que transitan por las vías públicas del
 
 ###### Artículo 10.
 
-Los servicios auxiliares, obras, construcciones y demás elementos accesorios de las vías públicas, serán autorizados `por el Ejecutivo del Estado, por conducto de la Dirección de Tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 11.
 
-Asimismo, el Ejecutivo del Estado, por medio de la Dirección de Tránsito, autorizará el uso y explotación de los terrenos correspondientes al derecho de vía. La instalación de anuncios en los caminos del Estado, necesitará de concesión o permiso en términos de esta Ley del reglamento respectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ## TITULO SEGUNDO
 
@@ -125,89 +117,65 @@ Se entiende por semoviente, el animal irracional y domesticado, que de acuerdo c
 
 ###### Artículo 15.
 
-Los vehículos se dividen según su destino, en particulares y de servicio público.
-
-Son vehículos particulares los que están destinados al servicio de sus propietarios; son vehículos de servicio público aquellas unidades que para su tránsito por las vías públicas requieren como requisito indispensable concesión o permiso del Ejecutivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ### CAPITULO III. DE LA INSCRIPCION DE LOS VEHICULOS Y DE SU CANCELACION
 
 ###### Artículo 16.
 
-Para que un vehículo pueda circular por las vías públicas de la Entidad, deberá ser inscrito en el Registro de la Dirección General de Tránsito.
-
-Para inscribir un vehículo será necesario:
-
-I.- Presentar la solicitud correspondiente, acompañada de los siguientes documentos:
-
-a).- Factura, carta factura o contrato de compraventa debidamente legalizada que acredite la propiedad o legítima posesión del solicitante. Cuando se trate de vehículos usados, deberá adjuntarse la baja del registro anterior u otorgar fianza;
-
-b).- Tarjetón o solicitud del Registro Nacional de automóviles y comprobante del pago del impuesto de uso y tenencia del vehículo;
-
-c).- Comprobante del pago de los derechos que señala la Ley de Ingresos vigente en el Estado, expedido por la Oficina Recaudadora dependiente de la Administración de Rentas, en las Delegaciones y en la Dirección General de Tránsito:
-
-II.- Presentar el vehículo al Departamento de peritos para que examinen su estado y condiciones y emitan su dictamen.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 17.
 
-Durante la tramitación de la inscripción, el Director de Tránsito podrá expedir un permiso provisional de quince días, mientras se obtiene aquella.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 18.
 
-Es obligación de la Dirección de Tránsito o de las Delegaciones donde vaya a efectuarse el registro del vehículo, obtener una calca del número de motor y serie con la que se comprobará su autenticidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 19.
 
-Cuando se transfiera la propiedad de un vehículo, el último tenedor debe de comunicarlo en un término de quince días a la Dirección de Tránsito utilizando las formas autorizadas para el caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 20.
 
-No podrán modificarse los números de motor o de la carrocería de los vehículos, o cambio de motor o carrocería de estos, sin la autorización de la Dirección de Tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 21.
 
-Los vehículos registrados fuera del Estado podrán circular libremente dentro del mismo por un plazo máximo de 6 meses, debiendo previamente comunicar a la Dirección o Delegaciones de Tránsito, la fecha en que se internaron en el Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 22.
 
-Los vehículos registrados en el extranjero podrán circular dentro del Estado con las placas y documentos expedidos por las autoridades competentes del lugar de origen por 180 días improrrogables, exhibiendo los documentos que a juicio de la Dirección de Tránsito los acredite legalmente en el país.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 23.
 
-Para dar de baja un vehículo será necesario:
-
-I.- Presentar la solicitud respectiva y constancias de estar al corriente en sus pagos fiscales:
-
-II.- Entregar la tarjeta de circulación y juego de placas que haya venido portando.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 24.
 
-La Dirección de Tránsito entregará al interesado una constancia de haber cancelado la inscripción del vehículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 25.
 
-Las placas para vehículos que expida la Dirección de Tránsito se clasificarán: en particulares, de servicio público y de demostración.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 26.
 
-Las placas para demostración se expedirán a las agencias vendedoras, de vehículos que estén legalmente constituidas y tendrán un ámbito de validez de cincuenta kilómetros a partir del domicilio legal de la agencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 27.
 
-Las placas para los vehículos deberán ser colocadas en lugar visible de sus partes delantera y posterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 28.
 
-Todos los propietarios de vehículos deberán efectuar el canje de placas en el término que señala la Ley de Ingresos del Estado y dentro del período que marque el Ejecutivo, a través de la Dirección de Tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 29.
 
-Para efectuar el canje es necesario cubrir los requisitos siguientes:
-
-I.- Automóviles: Placas anteriores Tarjeta de Circulación, Registro Federal de Automóviles y Tenencia:
-
-II.- Camiones: Placas anteriores, Tarjeta de Circulación, Registro Federal de Automóviles y Cédula de establecimiento;
-
-III.- Los demás vehículos deberán cubrir los requisitos que señala la fracción I en lo conducente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ### CAPITULO IV. CONDICIONES QUE DEBEN SATISFACER LOS VEHICULOS PARA SU CIRCULACION
 
@@ -239,23 +207,19 @@ Sólo se permitirá el tránsito de vehículos que no causen daño a las vías p
 
 ###### Artículo 32.
 
-Los vehículos de servicio público para pasajeros deberán cubrir además los siguientes requisitos:
-
-I.- Llevar la tarifa autorizada por la Dirección General de Tránsito: y
-
-II.- Estar dotados de espejos laterales, derecho e izquierdo, de manera que el conductor pueda observar perfectamente la imagen posterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 33.
 
-Los camiones de carga destinados a los servicios particulares, deberán llevar convenientemente inscrita en los costados de la cabina la razón social de la empresa o negociación a que pertenezcan, la clase de actividad correspondiente a dicha empresa, indicando el nombre, dirección y actividad comercial de su propietario si se trata de una persona física.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 34.
 
-Los camiones dedicados a los servicios públicos, deberán llevar anotados el número económico que les corresponda y además ostentar en los lugares indicados anteriormente para la razón social, la inscripción de transporte público estatal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 35.
 
-Los camiones de servicio particular o de servicio público no podrán excederse de un límite de largo de 13.00 metros, de ancho 2.50 metros y de altura 4 metros; si se llegara a exceder de estas características será indispensable autorización especial de la Dirección General de Tránsito. Deberán tener el equipo de protección compuesto de Botiquín que contendrá los medicamentos necesarios para los primeros auxilios, en caso de accidentes; extinguidor, banderas rojas, letreros rojos y equipo de herramientas para casos de emergencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 36.
 
@@ -275,7 +239,7 @@ Los carros de mano deberán tener llantas de hule; así como reunir las condicio
 
 ###### Artículo 39.
 
-Los autobuses de las distintas rutas de jurisdicción estatal deberán satisfacer las especificaciones que fije la Dirección General de Tránsito, para garantizar las condiciones de seguridad, comodidad y eficacia que deben llenar los vehículos destinados a los transportes públicos, además de los requisitos estipulados en los artículos 30, 32, 34 y 35.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 40.
 
@@ -287,7 +251,7 @@ Con objeto de hacer efectiva la aplicación del artículo anterior, la Direcció
 
 I.- Automóviles particulares: cada 6 meses;
 
-II.- Camiones, automóviles de servicio público y autobuses: cada 3 meses.
+II.- (DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ## TITULO TERCERO
 
@@ -813,7 +777,7 @@ Los vehículos podrán estacionarse solamente por tiempo limitado en los lugares
 
 ###### Artículo 147.
 
-Los vehículos destinados al servicio público, no podrán estacionarse más que en sus sitios o terminales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 148.
 
@@ -831,69 +795,43 @@ Queda estrictamente prohibido dejar en la vía pública, animales de tiro, de ca
 
 ###### Artículo 151.
 
-Para los efectos de esta Ley se entiende por "sitio" el lugar en la vía pública, para automóviles de alquiler para pasajeros y los sitios de camiones o camionetas de alquiler para carga.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 152.
 
-Los sitios de automóviles podrán establecerse en los lugares en donde sean necesarios para el servicio del público y no estorben la circulación. Los permisos para establecerlos, serán expedidos por la Dirección señalándoles un numero de orden a cada sitio. La Dirección de Tránsito está facultada previo acuerdo del Ejecutivo, para emitir y expedir las disposiciones pertinentes a fin de que el servicio sea permanente continuo y eficaz.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 153.
 
-Para obtener el permiso de sitio, además de la solicitud correspondiente que se llevará a la Dirección, deberán llenarse los siguientes requisitos:
-
-I.- Lugar en que se desee establecer;
-
-II.- Número de vehículos de que contará;
-
-III.- Comprobante de propiedad y demás documentos necesarios para la inscripción de los vehículos en el Registro respectivo o las constancias de estar ya inscritos;
-
-IV.- Las tarifas respectivas para su aprobación o modificación en su caso;
-
-V.- Dos fotografías de los solicitantes tamaño pasaporte;
-
-VI.- Las solicitudes se harán en la forma y términos indicados por el formulario que proporcionará la Dirección. Cuando se pretenda ingresar a un Sitio ya Establecido, debe cumplirse con los requisitos señalados en este artículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 154.
 
-Las solicitudes para permisos de sitio serán atendidas por riguroso orden de presentación, para lo que se llevará el registro respectivo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 155.
 
-Los permisos para sitio tendrán validez durante dos años, y sus concesionarios deberán, si desean continuar explotándolo, solicitar su renovación dentro del término fijado. Podrán hacerlo hasta dentro de los treinta dirías siguientes al vencimiento del plazo del permiso relativo, previo el pago de la multa correspondiente. Cuando no se solicita la revalidación, vencidos los plazos antes indicados, dichos permisos quedarán cancelados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 156.
 
-Los concesionarios deberán notificar a la Dirección, cuando ya no deseen continuar haciendo uso del permiso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 157.
 
-La Dirección previo acuerdo del C. Gobernador Constitucional del Estado, podrá cancelar los permisos otorgados, cuando las necesidades del tránsito así lo requieran, o cuando las unidades de que se componga el sitio no den servicio eficiente al público durante un plazo de treinta días.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 158.
 
-Para aumentar o disminuir el número de unidades en un sitio, previa presentación de la concesión correspondiente, deberá obtener la autorización respectiva de la Dirección.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 159.
 
-Los concesionarios de los sitios estarán obligados:
-
-I.- A impedir que en los lugares señalados para los sitios se hagan reparaciones a los vehículos que los integran, o utilicen el lugar estando fuera del servicio;
-
-II.- A vigilar que los vehículos se estacionen dentro de las áreas marcadas para el efecto;
-
-III.- A conservarlo en buen estado de limpieza y que el personal de servicio, guarde orden y compostura y sirva al público con el debido respeto y atención;
-
-IV.- Al fijar una señal indicando el número de sitio, conforme al modelo que apruebe la Dirección. En esa señal harán constar las horas durante las cuales estarán al servicio del público y la tarifa autorizada;
-
-V.- A marcar en la parte delantera y en la parte posterior de los vehículos, en forma visible, el número de sitio a que pertenezcan;
-
-VI.- A vigilar que los vehículos de sitio no los utilicen para servicio particular;
-
-VII.- A vigilar que los vehículos estén pintados con los colores autorizados por la Dirección.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 160.
 
-Con respecto a los sitios de camiones de carga, se observarán todas las disposiciones de este capítulo, pero la Dirección podrá conceder autorización para que se establezcan dentro del "sector de intenso tránsito".
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ### CAPITULO IV. DE LA CARGA, DESCARGA Y TRANSPORTE DE BULTOS Y MATERIALES
 
@@ -927,11 +865,11 @@ En los casos en que haya de transportarse mercancía que por su naturaleza produ
 
 ###### Artículo 167.
 
-Para el transporte de materiales inflamables o explosivos, deberá recabarse previamente permiso de la Secretaría de la Defensa Nacional y de la Dirección de Tránsito, que indicará la ruta y horario para efectuar la carga y descarga.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 168.
 
-En ningún caso se permitirá el transporte de objetos que sobresalgan de la anchura del vehículo. Cuando los objetos sobresalgan de la longitud del vehículo, en los extremos salientes deberá colocarse una bandera o luz roja en su caso, que haga distinguir fácilmente esta carga.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 169.
 
@@ -943,477 +881,249 @@ CONCESIONES Y PERMISOS
 
 ###### Artículo 170.
 
-Las concesiones para la explotación de servicios públicos se otorgarán únicamente a mexicanos por nacimientos o a personas morales constituidas conforma (sic) a las leyes del país, y que tengan totalmente sus acciones nominativas; éstas deben solicitarlas al Ejecutivo del Estado, a través de la Dirección General de Tránsito, o directamente al Ejecutivo cuando se trate de una concesión especial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 171.
 
-Es necesario obtener concesión para la explotación de los servicios públicos siguientes:
-
-I.- Transporte de personas:
-
-a).- Servicio de lujo;
-
-b).- Servicio de primera;
-
-c).- Servicio de segunda;
-
-d).- Automóviles de sitio.
-
-II.- Transporte de carga:
-
-a).- Servicio de carga;
-
-b).- Servicio de express;
-
-c).- Servicio de carros frigoríferos;
-
-III.- Transporte de personas y de carga; servicio mixto.
-
-El Reglamento determinará las características que habrán de satisfacer los vehículos destinados a cada clase de servicios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 172.
 
-No se requerirá concesión sino permiso para:
-
-I.- El uso de vehículos, cuando se trate de establecimientos educacionales o instituciones deportivas, siempre que tales vehículos se contraten por ellas, o sean propiedad de las entidades respectivas y se dediquen a sus propios fines;
-
-II.- Los vehículos de grúas para el arrastre de transporte de vehículos;
-
-III.- Los transportes para la distribución del petróleo y sus derivados;
-
-IV.- Los transportes que en vehículos de su propiedad hagan los agricultores, mineros empresas de construcción y los comerciantes e industriales, sean personas físicas o morales, respecto de productos o artículos que también sean propiedad de los dueños de tales vehículos; y
-
-V.- Los transportes en razón de su reducida importancia o de sus modalidades particulares no constituyan servicio público o de los que ameriten concesión en los términos de esta Ley serán en todo caso, a juicio del Gobernador del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 173.
 
-Compete exclusivamente al Gobernador del Estado, por conducto de la Dirección General de Tránsito, el estudio y aprobación, revisión o modificación, en su caso, de itinerarios, horarios, reglamentos de servicio, tarifas y sus elementos de aplicación para el aprovechamiento de las vías públicas. Sin contar previamente con la tarifa respectiva, ningún particular podrá explotar las vías públicas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 174.
 
-El Gobernador del Estado, determinará, de acuerdo con las necesidades de las regiones de la Entidad el número y la extensión de las rutas en que estarán divididos los caminos de jurisdicción estatal, así como la clase o clases de servicio y el número de unidades que en cada ruta deberán operar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)operar.
 
 ###### Artículo 175.
 
-Para el otorgamiento de las concesiones, se preferirá a los solicitantes que ofrezcan y que garanticen el mejor servicio al público usuario, tomando en cuenta al efecto, la calidad del equipo, las instalaciones de servicios, accesorios, tales como terminales, bodegas, estaciones intermedias. etc.
-
-En igualdad de condiciones, se preferirá a las personas físicas o morales, vinculadas y con domicilios en las regiones o zonas que habrán de abarcar los servicios y, en su defecto, las concesiones se otorgarán atendiendo al orden en que hubieren sido solicitadas. Sin perjuicio de la anterior, las sociedades cooperativas gozarán de la preferencia que les otorguen las leyes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 176.
 
-Ninguna persona física podrá explotar más de cinco vehículos, bien sea que se trate del mismo servicio y de la misma ruta, o de distintos servicios y rutas, sin perjuicio de las sumas que fuere necesario aportar para el establecimiento de instalaciones y demás servicios accesorios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 177.
 
-Todos los concesionarios que presten idénticos servicios en una ruta, deberán constituir una sociedad de las permitidas por la Ley, para la explotación conjunta de tal servicio y para los demás fines de toda sociedad, salvo el caso de que una ruta pueda ser servida por un concesionario físico con tal número de vehículos que conforme a esta Ley pueda operar.
-
-El Gobernador del Estado, podrá autorizar la constitución de una sola sociedad para la explotación de dos o más clases de los servicios de transportes, de personas o de cosas, que se presten en una ruta, cuando todos los concesionarios de la prestación de estos servicios estén de acuerdo.
-
-Para los efectos de esta disposición, el servicio mixto se considera dentro de la categoría de transportes de personas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 178.
 
-Las Sociedades a que se refiere el Artículo 177 de esta Ley, se organizarán conforme a las siguientes bases:
-
-I.- Se constituirán conforme a las leyes del país;
-
-II.- Sin perjuicio de los párrafos segundo y tercero del artículo 177, agruparán a los concesionarios que efectúen la misma clase de servicio en una ruta;
-
-III.- Tendrán por objeto, entre otros que estipulen los interesados y que determine el Gobernador del Estado, la explotación del servicio o servicios de que se trate, de acuerdo con los itinerarios, tarifas, horarios, capacidad, forma y demás circunstancias que establezcan para la mayor eficacia, seguridad, regularidad, permanencia, economía y coordinación del servicio o servicios aludidos;
-
-IV.- Estarán administradas en los términos que establece la Ley general de Sociedades Mercantiles y la Ley General de Cooperativas, según su naturaleza, pero en todo caso la minoría que represente cuando menos el 25% de los concesionarios que constituyen la sociedad, tendrán derecho a designar un consejero;
-
-V.- Los socios tendrán derecho, en relación a sus respectivas aportaciones, a acordar los aumentos de capital que fueren necesarios;
-
-VI.- El proyecto de escritura constitutiva deberá ser previamente autorizado por el Gobernador del Estado, y una vez protocolizada la escritura, será inscrita en el Registro Especial que al efecto llevará la Dirección General de Tránsito y en las demás dependencias que prevengan las Leyes. Esta autorización, no será necesaria cuando se trate de Sociedades autorizadas por la Secretaría de Comunicaciones y Transportes, en cuyo caso sólo se hará el registro de la sociedad en la Dirección General de Tránsito del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 179.
 
-La concesión o permiso se otorgará por un plazo no mayor de diez años, transcurridos los cuales, el Estado determinará su cancelación o renovación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 180.
 
-Para obtener la concesión de la explotación del servicio público o el permiso, los interesados deberán presentar una solicitud por cuadruplicado que contendrá los siguientes datos y documentos:
-
-I.- Nombre completo, edad, nacionalidad y domicilio;
-
-II.- Comprobación de su calidad de mexicano por nacimiento mediante los documentos que autoricen las leyes respectivas;
-
-III.- Declaración bajo protesta sobre si tienen algún servicio establecido, cuantos permisos tienen y qué autoridad se los concedió o si carecen de ellos;
-
-IV.- Los nombres de los puntos extremos del tramo de ruta que se desea explotar, con expresión de los municipios a que pertenezcan dichos puntos;
-
-V.- La clase de servicio;
-
-VI.- La población donde registrará el vehículo para efectuar el pago de las contribuciones locales;
-
-VII.- Lugar, fecha y firma del interesado; y
-
-VIII.- Croquis de los puntos que va a tomar la ruta solicitada.
-
-Será requisito necesario para la tramitación de esta solicitud, hacer un depósito de $100.00 ante el Ejecutivo o autoridad que éste designe. Este depósito se devolverá al expedirse el permiso o concesión y se perderá en caso de abandono de la tramitación o de no presentar el vehículo dentro del plazo de 30 días.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 181.
 
-Tanto en el original como en las copias de la solicitud se anotará la fecha y hora de su presentación, y se registrará en un libro especial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 182.
 
-Serán declaradas como improcedentes las solicitudes de concesiones o de permisos en los siguientes casos:
-
-I.- Cuando el solicitante tenga los cinco permisos o concesiones, autorizados por la Ley;
-
-II.- Cuando el peticionario sea extranjero;
-
-III.- Cuando la ruta esté cerrada;
-
-IV.- Cuando la solicitud no reúna los demás requisitos solicitados.
-
-En el reverso del original y de las copias, hará constar el Ejecutivo del Estado, la improcedencia de la solicitud, devolviéndose una copia al interesado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 183.
 
-Al recibirse una solicitud que no contenga los datos y documentos a que se refiere el artículo 180, se enviarán las formas respectivas para que se llenen por el interesado, en un término no mayor de 15 días, descontando los de ida y vuelta, sin que pierda los derechos de prioridad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 184.
 
-Presentada la solicitud en la forma y términos, el titular del Poder Ejecutivo designará la Dependencia que verificará los datos y documentos que aquello contenga. Enseguida, previo estudio técnico realizado por el Departamento de Ingeniería de la Dirección de Tránsito, presentará un dictamen expresado en que artículos de la Ley está comprendido el caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 185.
 
-En caso de que la resolución sea en el sentido de que debe concederse la concesión o permiso, se dará al interesado un plazo de 10 días para que presente los itinerarios, horarios y tarifas, para su aprobación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 186.
 
-Para la presentación del vehículo se concederá un plazo de 30 días, si no se tendrá por renunciada la concesión o permiso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 187.
 
-Una vez aprobados los horarios, itinerarios y tarifas y aceptado el vehículo, y si se llenan los requisitos del artículo 180, se extenderá el documento de la concesión, o en su caso el del permiso y se dará de alta al vehículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 188.
 
-La concesión o permiso que otorgue el Ejecutivo contendrá los siguientes datos:
-
-I.- Nombre y apellidos completos del concesionario del vehículo;
-
-II.- Retrato de perfil, de tres cuartos, tamaño credencial;
-
-III.- Domicilio;
-
-IV.- Número de placas;
-
-V.- Tipo de vehículo;
-
-VI.- Marca del mismo:
-
-VII.- Número de fábrica y motor;
-
-VIII.- Peso neto del vehículo;
-
-IX.- Servicio a que se destina;
-
-X.- Nombre de la ruta;
-
-XI.- Capacidad del vehículo. En pasajeros, si es para este servicio, y en toneladas si es para carga;
-
-XII.- Número de ejes;
-
-XIII.- Especificaciones de si es nuevo o usado;
-
-XIV.- Cuota de inspección;
-
-XV.- Causas de revocación;
-
-XVI.- Lugar y fecha en que se expida la concesión o el permiso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 189.
 
-El Gobernador del Estado, está facultado en todo tiempo, para modificar la clase de servicio y el número de vehículos que operen en cada ruta, así como su capacidad y demás especificaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 190.
 
-Cuando, a juicio del Ejecutivo el número de concesiones sea suficiente para cubrir las necesidades de una ruta o ciudad, hará la moción de quedar cerrada, con la aclaración del servicio de que se trate.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 191.
 
-Cuando exista un servicio sobre un ramal que entronque en un punto no poblado de un camino con rutas establecidas, se podrá autorizar que aquel se prolongue hasta el próximo núcleo de población, siempre que entre ésta y el punto de entronque no haya una distancia mayor de 5 kilómetros. Para otorgar esta autorización es necesaria la presentación de la solicitud previa como comprobación de que el servicio existe.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 192.
 
-Cuando el poblado próximo diste más de 5 kilómetros del punto de entronque, es necesario solicitar la respectiva concesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 193.
 
-Los concesionarios tendrán las siguientes obligaciones:
-
-I.- Aceptar el transporte de las personas y efectos que estén obligados a conducir, sin otras preferencias, por razón de tiempo y lugar que las autorizadas por esta Ley y su Reglamento;
-
-II.- A no cobrar por el transporte un precio distinto al establecido en las tarifas aprobadas por la Dirección General de Tránsito;
-
-III.- A realizar el transporte en toda la ruta especificada en la concesión, efectuando ese recorrido conforme a los horarios aprobados y tratándose de servicios de carga no sujeto a horarios, a las velocidades y dentro de los plazos que señale el Reglamento;
-
-IV.- A emplear vehículos que satisfagan las condiciones de seguridad, higiene, capacidad, peso y demás especificaciones que con relación a cada clase de servicio, determine el Gobernador del Estado, a través de la Dirección de Tránsito;
-
-V.- A combinar y coordinar sus servicios con los de otras empresas que exploten vías públicas del Estado, de conformidad con las disposiciones que sobre el particular dicte el Gobernador del Estado, o de acuerdo con los convenios que previa la aprobación del mismo celebren los interesados;
-
-VI.- A sustituir los vehículos que temporal o permanentemente retiren del servicio por otros de la misma capacidad, características y de mejor calidad;
-
-VII.- A dar cumplimiento a las demás disposiciones que dicte el C. Gobernador del Estado, en acatamiento a lo dispuesto en el Artículo 190 de esta Ley;
-
-VIII.- A construir o instalar terminales, bodegas y estaciones intermedias, cuando la importancia del Servicio lo requiera, a juicio del C. Gobernador del Estado;
-
-IX.- A suministrar a la Dirección General de Tránsito, los datos estadísticos que ésta requiera, así como los informes sobre los resultados económicos y financieros de la operación del servicio, con las comprobaciones necesarias; y
-
-X.- A cumplir las demás prestaciones y abstenerse de las que les imponga la Ley, su Reglamento y las que se establezcan en el texto de las concesiones respectivas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 194.
 
-Las sociedades que se constituyan conforme al Artículo 180 de esta Ley, serán solidariamente responsables con los concesionarios, por el cumplimiento de sus obligaciones y en ningún caso podrán eludir o limitar esa responsabilidad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 195.
 
-Se podrán conceder permisos provisionales en los casos siguientes:
-
-I.- Cuando temporalmente se presente una demanda extraordinaria de transportes;
-
-II.- Cuando los caminos no estén terminados y no pueda hacerse servicio permanente y regular;
-
-III.- Cuando exista un servicio irregular, en parte de la carretera, y en tanto se revisan las tarifas y se oye a los concesionarios de las líneas que pudieran resultar afectadas;
-
-IV.- Cuando exista mayor demanda de transporte, motivada por ferias, exposiciones y excursiones. En este caso tendrán preferencia los permisionarios de las líneas establecidas, aun cuando tuvieren el número de vehículos que marca la Ley;
-
-V.- Cuando se trate de vehículos que de manera eventual hagan uso de los caminos para días de campo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 196.
 
-Cuando se trate de servicio de express y carga, el Ejecutivo en casos excepcionales previo estudio podrá otorgar concesiones limitadas, tomando como base lo prescrito en los artículos anteriores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 197.
 
-Los derechos derivados de las cancesiones (sic) serán transmisibles, previa autorización del C. Gobernador del Estado, en los términos que enseguida se expresan:
-
-I.- El interesado en adquirirlos satisfará los requisitos establecidos para tener una concesión;
-
-II.- Si, transcurridos tres años desde que se inició la explotación del servicio, el concesionario hubiese cumplido sus obligaciones;
-
-III.- En cualquier tiempo, en caso de fallecimiento o de incapacidad física o mental del concesionario; y
-
-IV.- En todo tiempo, si para dar cumplimiento a lo previsto en el Artículo 178 de esta Ley, los concesionarios convinieren en transmitir el goce o la titularidad de estos derechos a la sociedad que para el efecto hayan constituido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 198.
 
-En casos de traspasos, tendrán derecho los concesionarios de la misma ruta que aun no tengan el número autorizado por la Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 199.
 
-Queda sin efecto el traspaso que a juicio del Ejecutivo, se haya hecho para evitar un justo pago.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 200.
 
-Cuando haya falsedad en los informes o documentos, la transferencia se anulará sin perjuicio de aplicar al responsable las penas que establezca el Código Penal.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 201.
 
-Las concesiones y permisos se revocarán por las siguientes causas:
-
-I.- Porque se haga un servicio distinto al expresado en la concesión o permiso;
-
-II.- Por hacer servicios fuera de la ruta autorizada;
-
-III.- Por la venta del vehículo sin autorización previa de la Dirección;
-
-IV.- Por el cambio de vehículo sin la autorización expresa de la Dirección;
-
-V.- Por la suspensión del servicio sin causa justificada;
-
-VI.- Por reincidencia en la falta de cumplimiento de sus horarios y tarifas;
-
-VII.- Por la comisión de algún hecho delictuoso relacionado con su carácter de concesionario;
-
-VIII.- Por otras causas que, a juicio del Ejecutivo, ameriten la revocación de la concesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 202.
 
-Las concesiones de que hablan los artículos anteriores caducarán o serán rescindidas, siempre oyendo al interesado, por cualquiera de las siguientes causas:
-
-I.- Porque no se presenten los planos de estaciones, talleres y demás obras o instalaciones, dentro del término señalado en la concesión;
-
-II.- Por no construir y establecer, dentro de los plazos señalados en las concesiones, la parte o totalidad de las obras convenidas;
-
-III.- Por no presentar el equipo de transporte o toma de características dentro del plazo que se haya fijado al efecto;
-
-IV.- Porque se interrumpa el servicio público de que se trate, en todo o en parte importante, sin causa justificada a juicio del Gobernador del Estado, o sin la previa autorización de la Dirección General de Tránsito;
-
-V.- Porque se enajene la concesión, algunos de los derechos en ella contenidos, o los bienes inherentes al servicio de que se trate, sin la previa aprobación del Gobernador del Estado;
-
-VI.- Porque se ceda, hipoteque, enajene, o de cualquier manera, se grave la concesión o algunos de los derechos en ella establecidos o a algún Gobierno o Estado extranjeros, o porque se les admita como socios en la empresa concesionaria;
-
-VII.- Porque se proporcione al enemigo, en caso de guerra internacional, cualquiera de los elementos de que disponga el concesionario con motivo de la concesión;
-
-VIII.- Porque el concesionario cambie su nacionalidad mexicana;
-
-IX.- Porque modifique o altere sustancialmente la naturaleza y condiciones de operación del servicio, el itinerario, los horarios y la ubicación de las instalaciones fijas, sin la previa aprobación del Gobernador del Estado, o sin causa justificada a juicio del propio Gobernador;
-
-X.- Porque el concesionario se rehuse a cumplir las obligaciones que le impone la Ley de Comunicaciones y Tránsito para el Estado de Hidalgo;
-
-XI.- Por los motivos de caducidad estipulados en las concesiones respectivas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 203.
 
-Para aprobar los horarios a itinerarios que con ese objeto le sean sometidos a la Dirección de Tránsito, se tomará en consideración lo siguiente:
-
-I.- El estado del camino;
-
-II.- Las velocidades máximas permitidas, en el concepto de que, en los tramos en que no exista regularización expresa, la velocidad para el servicio de pasajeros no deba exceder de 80 kilómetros por hora; y para los de servicio de cargo, 60 kilómetros por hora;
-
-III.- La importancia de las poblaciones que toque el servicio de que se trate; y
-
-IV.- La naturaleza del servicio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 204.
 
-Los itinerarios y horarios deberán contener el número de orden de la ruta de que se trate, el tiempo total en que se hace el recorrido, y la tabulación de los nombres de los puntos en que se haga parada, con indicación del horario, las distancias y costos del transporte. En los puntos importantes se indicará la ubicación de las estaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 205.
 
-Los itinerarios y horarios aprobados por el Ejecutivo no podrán modificarse sin autorización de la oficina que se designe.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 206.
 
-El Ejecutivo designará las estaciones de partida y llegada de los vehículos de servicio público, oyendo a los interesados.
-
-En los centros de importancia y donde las necesidades del servicio lo requieran se establecerán estaciones centrales y terminales del paso. Mediante concesión del Ejecutivo, se podrán construir y explotar dichas estaciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 207.
 
-Todo viajero a cambio del importe del pasaje, recibirá un boleto en el que consten: la clase, el importe, los puntos de salida, destino y la fecha.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 208.
 
-El pasajero deberá conservar su boleto durante el viaje, para comprobar el pago del servicio y hacer las reclamaciones a que tenga derecho, sin perjuicio de comprobar esta circunstancia en alguna otra forma.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 209.
 
-Si el viajero se niega a pagar su pasaje, el concesionario tiene derecho a hacer que le retengan el equipaje hasta que efectúe el pago. Si careciere de equipaje o el valor de éste fuera insuficiente se le obligará a abandonar el vehículo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 210.
 
-Los pasajeros tienen derecho:
-
-I.- A ocupar hasta el término de su viaje los asientos que a su entrada al vehículo encontraren vacíos o se le señalen previamente, aun cuando los abandonen momentáneamente en las estaciones;
-
-II.- A exigir a los empleados que cumplan con lo prevenido en la fracción anterior;
-
-III.- A conservar en su poder los bultos que por su volumen o naturaleza no ocasionen molestia o daño a los demás pasajeros;
-
-IV.- A que se les admita, en el mismo vehículo, por concepto de equipaje y libre de porte, por cada boleto un máximo de 30 kilogramos; y
-
-V.- A que se les dé un recibo amparando su equipaje.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 211.
 
-El pasajero que no pueda presentar el recibo que le hubiere sido expedido al entregar su equipaje, sólo podrá retirarlo si justifica plenamente que dicho equipaje es de su propiedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 212.
 
-En caso de extravío de bultos considerados como equipaje, se dará al concesionario un plazo de 48 horas para su entrega. Si no fueren devueltos en el plazo indicado, el concesionario estará obligado a pagar el pasajero, salvo prueba en contrario, por un baúl (mundo o ropero) $1,000.00; por una petaca, según su tamaño de $100.00 a $500.00 y por bulto o maleta de $50.00 a $300.00.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 213.
 
-El pasajero que lleve en su equipaje joyas, billetes de banco, dinero en efectivo o documentos de valor, deberá exhibirlos al conductor, ante dos testigos, para que en caso de pérdida pueda exigir la responsabilidad consiguiente al permisionario. A falta de éste requisito se aplicará en caso de substracción o extravío, la clasificación del artículo anterior.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 214.
 
-El personal de los vehículos destinado a transporte de pasajeros, durante el servicio deberá andar uniformado y aseado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 215.
 
-El personal de los vehículos destinados a servicios públicos, en el desempeño de su cargo deben portarse con corrección.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 216.
 
-Queda prohibido a los pasajeros distraer la atención o dirigir la palabra al conductor de un vehículo de servicio público cuando éste se encuentre en movimiento. En iguales condiciones queda prohibido al conductor conversar con los pasajeros.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 217.
 
-Queda prohibido el uso de vehículos del servicio público de pasajeros en los siguientes casos:
-
-I.- Cuando se trate de personas en estado de embriaguez;
-
-II.- Cuando se trate de personas que padezcan enfermedades contagiosas o repugnantes;
-
-III.- Cuando se trate de personas notoriamente desaseadas;
-
-IV.- Cuando se trate de llevar animales; y
-
-V.- Cuando el cupo del vehículo exceda del permitido por la Dirección de Tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 218.
 
-El servicio de carga regular, deberá sujetarse a los itinerarios y horarios aprobados por la Dirección.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Atículo (sic) 219.- El servicio de carga eventual e irregular no estará sujeto a itinerarios y horarios fijos.
+Atículo (sic) 219.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 220.
 
-En los vehículos destinados a express o carga, solamente se permitirá viajar, además del conductor, a su ayudante, a tres cargadores con autorización expedida por la Dirección.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 221.
 
-Los departamentos de los vehículos de servicio mixto se usarán exclusivamente para el objeto a que están destinados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 222.
 
-Queda prohibido en los vehículos de servicio mixto, transportar carga que por su peso y volumen pongan en peligro la estabilidad del vehículo, o que, por su naturaleza ocasionen molestias al pasaje.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 223.
 
-Queda prohibido a los vehículos de express, carga y servicio mixto:
-
-I.- Transportar artículos sujetos a cuarentena;
-
-II.- Transportar artículos que no estén amparados por la factura respectiva, cuando así lo requieran las leyes fiscales;
-
-III.- Transportar artículos de contrabando y explosivos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 224.
 
-Los concesionarios podrán negarse a conducir envases vacíos, mercancías susceptibles de averiarse y efectos que necesiten una segunda cubierta o empaque especial para preservarse; igualmente podrán negarse a transportar mercancías o efectos cuyo valor no garantice el importe del flete, a menos de que éste se pague previamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 225.
 
-Las guías u hojas de expedición entregadas por los concesionarios a los conductores de los vehículos de mercancías, servirán como prueba en favor de los dueños que hubieren perdido su talón o recibo, siempre que se identifiquen.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 226.
 
-El Gobierno del Estado, tendrá derecho a una reducción del 50% en los precios de toda clase de servicios, que cobren al público las personas físicas o morales, concesionarios en los términos de esta Ley, siempre que reúnan los requisitos siguientes:
-
-I.- Que el servicio sea oficial del Gobierno del Estado;
-
-II.- Que el mismo servicio se ordene por escrito en cada caso, por el C. Gobernador del Estado o por el Jefe o el Director de la Oficina o Departamento respectivo; y
-
-III.- Que el pago se haga por la Dirección General de Rentas y Tesorería del Estado, o por las Administraciones o Recaudaciones de Rentas de ella dependientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 227.
 
-Con el objeto de obtener un servicio eficaz permanente y continuo en beneficio de los usuarios, el Ejecutivo publicará en el Periódico Oficial, las solicitudes para otorgamiento de concesión para la explotación del servicio público, a costa de los interesados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 228.
 
-Las personas que consideren afectados sus derechos podrán oponerse a las solicitudes dentro de un período de 15 días, contados a partir a de fecha de la publicación de esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 229.
 
-La Dependencia correspondiente recibirá la oposición y concederá a las partes un término de 10 días para que presenten sus pruebas y alegatos. Vencido éste la autoridad resolverá lo conducente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 230.
 
-Queda prohibido a los particulares prestar algún servicio público, de los que señalen los artículos 171 y 172, sin tener previamente la concesión o el permiso correspondiente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 231.
 
-Las personas físicas o morales que hayan obtenido o en el futuro obtengan concesiones para la explotación de un servicio público, podrán concertar convenio de enrolamiento con otros concesionarios que posean concesiones de la misma clase, con la previa autorización del Ejecutivo del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ## TITULO SEPTIMO
 
@@ -1421,105 +1131,63 @@ Las personas físicas o morales que hayan obtenido o en el futuro obtengan conce
 
 ###### Artículo 232.
 
-Son objeto del presente capítulo:
-
-La instalación de anuncios u obras con fines de publicidad en las siguientes circunscripciones:
-
-a).- En el derecho de vía de las carreteras del Estado;
-
-b).- En los terrenos adyacentes al mismo derecho de vía;
-
-c).- En aquellas regiones que por su especial situación afecten la visibilidad o las perspectivas panorámicas de los caminos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 233.
 
-La instalación y ejecución de las obras citadas dentro de los perímetros establecidos, se autorizarán mediante concesión que se otorgará por un plazo máximo de 5 años. Queda prohibida la instalación de anuncios y obras destinadas a la publicidad, materia de este capítulo, sin autorización del Gobierno del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 234.
 
-El Gobierno del Estado podrá negar el otorgamiento de la concesión cuando juzgue que la instalación de los anuncios o de las obras sea inconveniente para la seguridad del tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 235.
 
-Para gestionar el otorgamiento de la concesión a que se refiere el artículo anterior, deberá elevarse una solicitud al Gobierno del Estado, la cual contendrá los requisitos siguientes:
-
-I.- Nombre y domicilio del solicitante;
-
-II.- Clase de obra que intenta construir o descripción del anuncio que pretende instalar;
-
-III.- Ubicación de la obra o anuncio;
-
-IV.- El plano o croquis de la obra o de la estructura proyectada en su caso, con especificación de los materiales que vayan a emplearse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 236.
 
-El Gobierno del Estado tomando como base la importancia de la obra o anuncio proyectado, señalará al peticionario $50.00 a $200.00 de depósito que deba constituir en la Tesorería General del Estado, para garantizar que continuará los trámites de la solicitud.
-
-Constituido el depósito, se formularán los estudios técnicos y jurídicos que correspondan y si el Gobierno del Estado lo estima pertinente, otorgará la concesión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 237.
 
-El depósito a que alude el artículo anterior será devuelto al cubrirse los derechos correspondientes para obtener la concesión o al negarse ésta y se perderá si el interesado no suministra todos los datos o documentos indispensables para su otorgamiento dentro de un plazo máximo de 30 días contados desde la fecha en que fuere requerido para ello.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 238.
 
-Serán causas de revocación de las concesiones las siguientes:
-
-I.- Cualquier infracción al presente capítulo;
-
-II.- El cambio de las condiciones originales de los sitios en que estuvieren instalados los anuncios;
-
-III.- La necesidad, por parte del Estado, de aprovechar el terreno en que estuvieren instalados los anuncios y obras publicitarias.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 239.
 
-El procedimiento para declarar la caducidad o la revocación de las concesiones, respectivamente, será el siguiente:
-
-I.- El Gobierno del Estado comunicará la decisión de declarar caduca la concesión o de revocarla, a los interesados, los cuales tendrán un término de 15 días para alegar lo que a su derecho conviniere, aportando durante ese mismo período las pruebas que juzgaran necesarias;
-
-II.- Cumplidos los 15 días, el Gobierno del Estado dentro de un término de 10 días, pronunciará su fallo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 240.
 
-Los anuncios deberán llenar las siguientes características:
-
-I.- Presentar un aspecto estético;
-
-II.- Estar redactados en correcto idioma español;
-
-III.- Estar exentos de expresiones obscenas, inmorales o contrarias al orden público;
-
-IV.- Tener como máximo 75 metros cuadrados de superficie destinada a anuncios y no más de 100 metros cuadrados de superficie total, salvo que las condiciones del terreno permitan mayor superficie; y
-
-V.- Ostentar en el ángulo inferior izquierdo el número de la licencia que para su instalación otorgó el Gobierno del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 241.
 
-Queda prohibido erigir o pintar cualquier anuncio, sin el bastidor, poste marcado, aparato mecánico o en general cualquier obra con fines de publicidad en forma que pueda confundirse con los postes marcadores, avisos, placas de prevención y otras señales de tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 242.
 
-Queda prohibido el uso, en los textos de los anuncios, de las palabras alto, peligro, precaución, pare, crucero u otras análogas que pudieran provocar confusión o sobresalto en los conductores de vehículos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 243.
 
-Queda prohibido el uso de anuncios luminosos, de luces en la superficie de los anuncios, así como el empleo de cualquier procedimiento que tenga por objeto reflejar luz sobre dichos anuncios, cuando ésta sea peligrosa para la seguridad del tránsito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 244.
 
-No podrán instalarse anuncios estructurales, paneles, bastidores, postes marcadores, ni pintarse anuncios sobre rocas, árboles o cerros, o en general afectar éstos con obras de publicidad:
-
-I.- Cuando a juicio del Gobierno del Estado, afecten la perspectiva panorámica del camino, rompan la armonía del paisaje, resultando antiestéticos con el conjunto;
-
-II.- Cuando por su situación llamen evidentemente la atención de los conductores de vehículos, distrayéndolos con peligro de su vida.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 245.
 
-Queda prohibido hacer uso de los parapetos y pasamanos de las alcantarillas o puentes y en general de las obras auxiliares construidas en los caminos, para fijar o pintar anuncios o cualquiera clase de propaganda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 246.
 
-Cuando el Gobierno del Estado ordene sean retirados los anuncios instalados o demolidas las obras construidas y el concesionario no cumpla con la orden respectiva, el Gobierno podrá mandar derribar, desarmar o retirar el anuncio u obra, sin perjuicio de imponer al infractor la multa que corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 Artículo 246 (sic).- Queda prohibida la instalación de anuncios y obras destinadas a la publicidad, materia de este capítulo, sin autorización del Gobierno del Estado.
 
@@ -1632,3 +1300,11 @@ DADO en el Palacio del Poder Ejecutivo, en la ciudad de Pachuca de Soto, Hgo., a
 P.O. 16 DE JULIO DE 1983.
 
 UNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado.
+
+P.O. 6 DE AGOSTO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan los Artículos: 1 fracción IV, 2, 6, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 32, 33, 34, 35, 39, 41 fracción II, 147, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 167, 168, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 243, 244, 245 y 246 de la Ley de Vías de Comunicación y Tránsito publicada en el Periódico Oficial del Estado el 8 de enero de 1970.
