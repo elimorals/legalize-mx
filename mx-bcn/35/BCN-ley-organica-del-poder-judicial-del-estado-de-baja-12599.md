@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "1998-12-04"
+last_updated: "1999-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -3137,8 +3137,20 @@ En un plazo de treinta días siguientes a la entrada en vigor, el Poder Judicial
 
 El Poder Judicial del Estado de Baja California, dictará las medidas correspondientes para la organización permanente e ininterrumpida de los juzgados, en un plazo que no exceda de ciento ochenta días contados a partir de la entrada en vigor de la presente adición.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+###### ARTICULO CUARTO.
+
+El Poder Judicial del Estado de Baja California, dictará las medidas correspondientes para la organización permanente e ininterrumpida de los juzgados, en un plazo que no exceda de ciento veinte días, contados a partir del vencimiento del plazo establecido en el Artículo Transitorio Tercero del Decreto No. 13 de fecha 4 de diciembre de 1998.
+
 P.O. 4 DE DICIEMBRE DE 1998.
 
 ###### ARTICULO UNICO.
 
 La presente adición entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
