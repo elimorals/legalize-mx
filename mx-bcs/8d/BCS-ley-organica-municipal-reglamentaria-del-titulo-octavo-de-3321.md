@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1983-12-26"
+last_updated: "1985-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1985.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -75,7 +75,9 @@ La creación, la supresión y la fusión de Municipios, o la modificación de su
 
 En razón de su importancia demográfica, las poblaciones municipales en el Estado, tendrán las siguientes denominaciones:
 
-I. CIUDAD: La que tenga más de 15,000 habitantes o sea Cabecera Municipal.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
+
+Fracción (sic) I. CIUDAD: La que tenga más de 12,000 habitantes o sea cabecera municipal.
 
 II. VILLA: La que tenga más de 5,000 habitantes.
 
@@ -1250,3 +1252,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE JULIO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
