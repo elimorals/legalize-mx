@@ -4,7 +4,7 @@ identifier: "COL-ley-de-condominios-reglamentaria-del-articulo-947-del-3956"
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-31"
-last_updated: "1981-10-31"
+last_updated: "2004-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE CONDOMINIOS, REGLAMENTARIA DEL ARTICULO 947 DEL CODIGO CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de octubre de 1981.
 
@@ -55,13 +55,17 @@ II.- Cuando los diferentes pisos, departamentos, viviendas, casas o locales que 
 
 III.- Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, casas o locales, para enajenarlos a distintas personas, siempre que exista un elemento común, de propiedad privada, que sea indivisible.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 2.
 
-Antes de la constitución del régimen de propiedad en condominio, los propietarios interesados deberán obtener la autorización que, en su caso, expedirá el o la Titular del Poder Ejecutivo, por conducto de la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado, quienes para otorgarla, consultarán previamente con el Ayuntamiento que corresponda, en el sentido de ser realizable el proyecto general, por hallarse dentro de las previsiones o sistemas establecidos, así como de las previsiones legales del Plan Municipal de Desarrollo Urbano de planificación urbana y de prestación de servicios públicos, entendiendo que dicha autorización no dá por cumplidas las obligaciones a que se contrae la fracción II del artículo 4 de esta Ley, entre las cuales se prevendrán el otorgamiento de licencias de construcción hasta un máximo de 120 departamentos, viviendas, casas o locales por condominio, aún cuando éste y otros formen parte de un conjunto o unidad urbana habitacional. Además deberá pagarse previamente a la entrega de la autorización, el importe de los derechos que establezca la Ley de Ingresos del Estado.
+Antes de la Constitución del régimen de propiedad en condominio, los propietarios interesados deberán obtener la autorización que en su caso expedirá el ayuntamiento del lugar, por conducto de la dependencia municipal competente, previo el pago de los derechos señalados por la ley de hacienda de cada municipio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 3.
 
-La persona que solicita autorización para edificar un condominio presentará a la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado el proyecto firmado por el propietario y por el profesionista responsable del mismo, que contendrá los siguientes requisitos:
+La persona que solicita autorización para edificar un condominio presentará a la dependencia municipal competente el proyecto firmado por el propietario y por el Director responsable de obra del mismo, que contendrá los siguientes requisitos:
 
 I.- Señalar domicilio para recibir notificaciones dentro del municipio de ubicación del condominio.
 
@@ -101,11 +105,17 @@ VI.- El destino general del condominio y el especial de cada piso, departamento,
 
 VII.- Los bienes de propiedad común, su destino, con la especificación y detalles necesarios y, en su caso, su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación.
 
-VIII.- Características de la póliza de fianza que deben exhibir los obligados para responder de la ejecución de la construcción del condominio en general y de los vicios de ésta. El monto de la fianza será determinado por la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado al otorgarse, en su caso, la autorización a que se refiere el artículo 2 de esta Ley.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
-IX.- El reglamento del condominio que corresponda.
+VIII.- Características y monto de la póliza de fianza que deben exhibir los obligados para responder de la ejecución de la construcción del condominio en general y de los vicios de éste que será determinado por la dependencia municipal al otorgarse, en su caso, la autorización a que se refiere el artículo 2º de esta Ley.
 
-X.- Los casos y condiciones en que pueda ser modificada la propia escritura.
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IX.- La constitución de la asociación de Condóminos que contendrá los Estatutos de la misma.
+
+X.- El Reglamento del Condominio que corresponda.
+
+XI.- Los casos y condiciones en que pueda ser modificada la propia escritura.
 
 Al Apéndice de la escritura se agregarán, debidamente certificados por el Notario, el plano general y los planos correspondientes a cada un de los departamentos, viviendas, casas, pisos o locales y a los elementos comunes, así como el Reglamento del propio condominio.
 
@@ -213,13 +223,19 @@ IV.- Los condóminos no podrán emprender ni realizar obra alguna en los bienes 
 
 V.- Se prohiben las obras que puedan poner en peligro la seguridad, estabilidad y conservación o afecten la comodidad del condominio; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño y las que demeriten cualquier piso, departamento, vivienda, casa o local.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JULIO DE 2004)</small>
+
 ### CAPITULO III
 
-DEL ADMINISTRADOR Y DE LAS ASAMBLEAS.
+DE LA ASOCIACION DE CONDOMINIOS Y DE LA ADMINISTRACION DEL CONDOMINIO.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 20.
 
-La asamblea de condóminos es el órgano supremo del condominio. Serán asambleas de grupo de condóminos las convocadas para resolver casos como los previstos en el artículo 33 de esta Ley. Las demás serán generales. Para unas y otras rigen las siguientes prevenciones:
+Al constituirse el régimen de propiedad en condominio conforme al artículo 4º de esta Ley, se constituirá además la Asociación de Condóminos que estará integrada por los propietarios de los inmuebles que integran el régimen y la cual ejercerá la representación legal del condominio de conformidad con lo dispuesto en esta Ley, en los Estatutos de la Asociación y en el Reglamento del condominio.
+
+La Asamblea General será el órgano supremo de la Asociación de Condóminos, pero ésta podrá tener Asambleas de Grupo convocadas para resolver los casos previstos en el artículo 31 de esta Ley. Para unas y otras rigen las siguientes prevenciones.
 
 I.- Las generales se celebrarán por lo menos una vez por año y tanto ellas como las de grupo, cuantas veces sean convocadas conforme a lo dispuesto por esta Ley y el Reglamento del Condominio.
 
@@ -229,7 +245,7 @@ III.- La votación será personal, nominal y directa, pero el reglamento del con
 
 IV.- Las resoluciones de la asamblea se tomarán por mayoría simple de votos, excepto en los casos en que la presente Ley y el Reglamento del Condominio prescriban una mayoría especial.
 
-V.- Cuando un sólo condómino represente cuando menos el 50% de los votos, se requerirá, además, el 50% de los votos restantes para que sean válidos los acuerdos. Cuando no se llegue a acuerdo válido, el condómino mayoritario o el grupo minoritario podrá someter la discrepancia en los términos del artículo 38 de esta Ley, facultándose a los minoritarios para hacerse representar por personas distinta al administrador
+V.- Cuando un sólo condómino represente cuando menos el 50% de los votos, se requerirá, además, el 50% de los votos restantes para que sean válidos los acuerdos. Cuando no se llegue a acuerdo válido, el condómino mayoritario o el grupo minoritario podrá someter la discrepancia en los términos del artículo 38 de esta Ley, facultándose a los minoritarios para hacerse representar por personas distinta al administrador.
 
 VI.- Las Asambleas serán presididas en la forma que prevea el Reglamento del Condominio, según lo dispuesto en el Artículo 27, fracción VI de esta Ley. Fungirá como Secretario de ellas el Administrador, si es persona física y si lo es moral, la persona que ésta designe.
 
@@ -237,17 +253,21 @@ VII.- El Secretario llevará un libro de actas, que deberá estar autorizado por
 
 VIII.- El Secretario tendrá siempre a la vista de los condóminos y de los acreedores registrados, el libro de actas y les informará por escrito a cada uno las resoluciones que adopte la asamblea.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 21.
 
-Las convocatorias para la celebración de Asambleas se harán en los términos de la fracción XI del artículo 26 de esta Ley.
+Las Convocatorias para la celebración de Asambleas se harán en los términos de la fracción XI del artículo 24 de esta Ley.
 
 Cuando la Asamblea se celebre a virtud de primera convocatoria, se requerirá un quórum del 90% de votantes; cuando se realice por segunda convocatoria el quórum será cuando menos del 51% de votantes. Si la asamblea se efectuare en razón de tercera convocatoria, las resoluciones se adoptarán por la mayoría de los presentes.
 
 Las determinaciones adoptadas por las asambleas en los términos de esta Ley, del Reglamento del Condominio y de las demás disposiciones legales aplicables, obligan a todos los condóminos, incluyendo a los ausentes y disidentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 22.
 
-La asamblea tendrá las facultades siguientes:
+La Asamblea General tendrá las facultades siguientes:
 
 I.- Nombrar y remover libremente al Administrador en los términos del Reglamento del Condominio, excepto a los que funjan por el primer año que serán designados por quienes otorguen la escritura constitutiva del condominio. El Administrador podrá ser o no alguno de los condóminos y la asamblea de éstos fijará la remuneración relativa, que podrá renunciarse por el condómino que acepte servir gratuitamente el cargo.
 
@@ -265,13 +285,21 @@ VII.- Establecer las cuotas a cargo de los condóminos para constituir un fondo 
 
 VIII.- Promover lo que proceda ante las autoridades competentes cuando el administrador infrinja esta Ley, el Reglamento del Condominio, la escritura constitutiva y cualesquiera disposición aplicable.
 
-IX.- Instruir al administrador para el cumplimiento de lo previsto en la fracción I del artículo 26 de esta Ley.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IX.- Instruir al administrador para el cumplimiento de lo previsto en la fracción I del artículo 24 de esta Ley.
 
 X.- Adoptar las medidas conducentes sobre los asuntos de interés común que no se encuentren comprendidos dentro de las funciones conferidas al Administrador.
 
-XI.- Modificar la escritura constitutiva del Condómino y el Reglamento del mismo, en los casos y condiciones que prevean la una y el otro, dentro de las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
 
-XII.- Las demás que le confieran la presente Ley, el Reglamento del Condominio, la escritura constitutiva y demás disposiciones legales aplicables.
+XI.- Modificar la escritura constitutiva del Condómino y de la Asociación de Condóminos, así como el Reglamento del Condominio, en los casos y condiciones que prevean la una y el otro, dentro de las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2004)</small>
+
+XII. Otorgar al administrador Poder General para pleitos, cobranzas y actos de la administración con facultades especiales en los términos del artículo 2444 del Código Civil vigente en el estado, para la defensa y la representación legal del condominio.
+
+XIII.- Las demás que le confiera la presente Ley, el Reglamento del Condominio, la escritura constitutiva del Condominio y de la Asociación y demás disposiciones legales aplicables.
 
 ###### ARTICULO 23.
 
@@ -287,7 +315,9 @@ II.- Recabar y conservar los libros y documentos relacionados con el condominio,
 
 III.- Atender la operación de las instalaciones y servicios generales.
 
-IV.- Realizar todos los actos de administración y conservación.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV.- Ser el ejecutor de los acuerdos de la Asamblea General y, previa autorización de la misma, representar a la Asociación de Condóminos con las facultades que la Asamblea General decida, y realizar todos los actos de administración y conservación del Condominio.
 
 V.- Realizar las obras necesarias en los términos de la fracción I del artículo 21 de esta Ley.
 
@@ -351,11 +381,7 @@ X.- Las demás que se deriven de esta Ley, de otras que impongan deberes a su ca
 
 ###### ARTICULO 26.
 
-En relación a los bienes comunes el Administrador tendrá las facultades de representación de un apoderado general de los condóminos, para administrar bienes y para pleitos y cobranzas, con facultad de absolver posiciones y de interponer el juicio de amparo, pero otras facultades especiales y las que requieran cláusula especial necesitarán acuerdo de la asamblea, por mayoría del 51% de los condóminos, por lo menos.
-
-Las medidas que adopte y las disposiciones que dicte el administrador dentro de sus funciones y con base en la Ley y el Reglamento del Condominio, serán obligatorias para todos los condóminos. La asamblea, por mayoría que fije el Reglamento del condominio, podrá modificar o revocar dichas funciones.
-
-Salvo que el Reglamento del Condominio disponga otra cosa, el administrador podrá ser removido libremente por el voto de la mayoría de los condóminos, reunidos en asamblea.
+(DEROGADO, P.O. 24 DE JULIO DE 2004)
 
 ### CAPITULO IV
 
@@ -459,17 +485,23 @@ La inscripción de este gravamen en el Registro Público de la Propiedad da dere
 
 DESTRUCCION, RUINA Y RECONSTRUCCION DEL CONDOMINIO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 42.
 
-Si el condominio se destruye en su totalidad o en una proporción que represente por lo menos las tres cuartas partes de su valor, según peritaje que se practique por la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado, una mayoría de condóminos de por lo menos el 51% podrá acordar la reconstrucción o la división del terreno y de los bienes comunes que queden, o en su caso la venta, con arreglo a las disposiciones legales sobre copropiedad.
+Si el Condominio se destruye en su totalidad o en una proporción que represente por lo menos tres cuartas partes de su valor, según peritaje que se practique por la dependencia municipal competente, una mayoría de condóminos de por lo menos el 51% podrá acordar la reconstrucción o la división del terreno y de los bienes que queden o, en su caso, la venta con arreglo a las disposiciones legales sobre copropiedad.
 
 Si la destrucción no alcanza la gravedad que se indica, los acuerdos a que se refiere el párrafo anterior serán tomados por una mayoría mínima del 75% de los condóminos.
 
-En los casos a que se refieren los párrafos anteriores, si el acuerdo es por la reconstrucción, los condóminos en minoría estarán obligados a contribuir a ella en la proporción que les corresponda o a enajenar sus derechos, según avalúo pericial efectuado por la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado. La enajenación podrá tener lugar desde luego a favor de la mayoría, si en ella convienen los minoritarios, pero será forzosa a los seis meses, al precio del avalúo practicado, si dentro de dicho término no la han logrado los minoritarios.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+
+En los casos a los que se refiere en los párrafos anteriores, si el acuerdo es por la reconstrucción, los condóminos en minoría estarán obligados a contribuir a ella en la proporción que les corresponda o enajenar sus derechos, según avalúo que se practique por la dependencia municipal competente o por perito valuador designado para el efecto. La enajenación podrá tener lugar a favor de la mayoría, si en ello convienen los minoritarios, y será forzosa a los seis meses, al precio e (sic) avalúo, si dentro de dicho término los minoritarios no han logrado enajenar sus derechos a favor de terceros.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 43.
 
-En caso de ruina o vetustez del condominio, una mayoría mínima del 51% de los condóminos podrá resolver, previo dictamen de la Dirección General de Planificación, Urbanismo y Obras Públicas del Estado, la reconstrucción o la demolición y división de los bienes comunes o, en su caso, la venta, siguiéndose en adelante las prevenciones del artículo anterior.
+En caso de ruina o deterioro grave del condominio, una mayoría mínima del 51% de los condóminos podrá resolver, previo dictamen de la dependencia municipal competente, la reconstrucción o la demolición y división de los bienes comunes o, en su caso, la venta, aplicando las prevenciones del artículo anterior.
 
 ###### ARTICULO 44.
 
@@ -496,3 +528,11 @@ Dado en el Recinto del Poder Legislativo a los veintiocho días del mes de Septi
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Colima, a 5 de octubre de 1981.- La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario Gral. de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 24 DE JULIO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+Segundo.- Los condóminos que previo a esta reforma hayan constituido una forma diferente de representación a la prevista en el presente Decreto, continuarán operando con esa forma de representación, salvo que los interesados decidan otra cosa.
