@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-notariado-para-el-estado-de-tabasco-8098"
 country: "mx"
 rank: "ley"
 publication_date: "1976-11-10"
-last_updated: "1976-11-10"
+last_updated: "2003-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2003.</small>
 
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 10 de noviembre de 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el 10 de noviembre de 1976.
 
 LIC. MARIO TRUJILLO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TABASCO, A SUS HABITANTES, SABED:
 
@@ -838,3 +840,41 @@ EL SECRETARIO DE ASUNTOS JURIDICOS Y SOCIALES
 LIC. ARISTIDES PRATS SALAZAR
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley del Notariado para el Estado de Tabasco, publicada en el Suplemento al Periódico Oficial número 3563 de fecha 10 de Noviembre de 1976 y sus subsecuentes reformas.
+
+###### ARTÍCULO SEGUNDO.
+
+Esta Ley entrará en vigor, treinta días después de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO TERCERO.
+
+Los notarios de número, adscritos y sustitutos actualmente en ejercicio, seguirán conservando su Fíat o nombramiento expedido conforme a la ley anterior. Asimismo, utilizarán los protocolos que tengan en uso hasta concluirlos; al término se clausurarán y comenzarán a utilizar los señalados en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los Notarios sustitutos tendrán el término de noventa días hábiles para acudir ante la instancia competente para ajustarse a las disposiciones contenidas en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, elaborará el listado de profesionistas que conforme a la ley anterior, hayan presentado el examen de suficiencia sobre ejercicio notarial, a efectos de tener por satisfecho los requisitos señalados en el artículo 17, fracción X, de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+El titular del Poder Ejecutivo en un término no mayor a un año contado a partir de la entrada en vigor de la presente Ley, habrá de emitir las disposiciones reglamentarias y ejecutar las acciones que sean necesarias, para el debido cumplimiento de lo señalado en esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, deberá emitir las disposiciones reglamentarias para regular el funcionamiento del Archivo General de Notarías, o en su caso, adecuar a la presente Ley las contenidas en el Reglamento del Registro Público de la Propiedad y el Comercio, publicado en el Periódico Oficial, Suplemento B 6264 del 18 de septiembre de 2002 y del Reglamento Interior de la Secretaría de Gobierno, publicado en el Suplemento 6279 B del Periódico Oficial de fecha 09 de noviembre del mismo año.
+
+ARTÍCULO OCTAVO El Colegio de Notarios, en la conformación que actualmente se encuentra desempeñando sus funciones, se transforma en Órgano Técnico Desconcentrado denominado "Colegio de Notarios de Tabasco", adquiriendo todos los derechos y obligaciones señalados en esta Ley y continuará en ejercicio de sus funciones hasta el día 31 de diciembre del año 2004, en que concluyen las mismas; los Estatutos que rijan las funciones del citado Colegio, deberán ser expedidos por el titular del Poder Ejecutivo, en un término no mayor a ciento veinte días hábiles a partir de la entrada en vigor de la presente Ley. En consecuencia, los bienes, derechos y obligaciones de la Asociación Civil, pasarán a formar parte del patrimonio del Órgano Técnico Desconcentrado que se crea en esta Ley.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
