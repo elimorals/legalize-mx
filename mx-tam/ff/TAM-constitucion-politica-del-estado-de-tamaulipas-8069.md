@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1984-12-19"
+last_updated: "1984-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1984.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -425,9 +425,11 @@ I.- De preferencia, en discutir y decretar las Leyes de Ingresos del Estado y de
 
 II.- En su caso, de lo enunciado en la fracción II del artículo anterior.
 
+> <small>(REFORMADO. P.O. 22 DE DICIEMBRE DE 1984)</small>
+
 ###### Art. 47.
 
-El Congreso tendrá sesiones todos los días hábiles, estas serán públicas, salvo las que según el Reglamento interior deban tener carácter de secretas.
+El Congreso tendrá sesiones en las fechas y horas que señala la Ley Orgánica del Poder Legislativo. Las sesiones serán públicas, salvo las que por su carácter y de acuerdo con la Ley mencionada deban ser secretas.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
 
@@ -617,9 +619,9 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+LI.- Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
 
-LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
+LII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
@@ -2162,3 +2164,7 @@ P.O. 19 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1984.
+
+UNICO.- El presente Decreto inicia su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
