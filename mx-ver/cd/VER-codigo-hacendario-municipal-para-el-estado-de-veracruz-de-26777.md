@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2003-08-26"
+last_updated: "2004-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLAN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN TERMINOS DEL ARTICULO 1 DEL CODIGO NUMERO 302 HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002, QUEDARA SIN APLICACION DICHO ORDENAMIENTO EN EL MUNICIPIO DE MINATITLAN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -5693,11 +5691,15 @@ El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracc
 
 El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 446.
 
-#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
+#### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERÉS SOCIAL
 
 ###### Artículo 472.
 
 La enajenación de los bienes de dominio privado a los particulares, será para fines habitacionales; excepcionalmente y previa autorización del Congreso o de la Diputación Permanente, en su caso, para otros fines, de preferencia los de beneficio colectivo, debiendo satisfacer los requisitos, limitaciones, modalidades y procedimiento que imponen los siguientes artículos de este Código, la Ley de Desarrollo Regional y Urbano para el Estado de Veracruz, así como los Planes de Desarrollo Estatal, Regional o Municipal.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+No podrán enajenarse los bienes de dominio privado a título gratuito u oneroso a las personas a que se refiere el artículo 452 de este Código.
 
 ###### Artículo 473.
 
@@ -5723,9 +5725,11 @@ Satisfechos los requisitos señalados en el artículo anterior, el Ayuntamiento,
 
 Si la solicitud de enajenación fuere acordada favorablemente, el Ayuntamiento remitirá el expediente relativo al Congreso, a efecto de que éste o la Diputación Permanente en su caso, previa inspección cuando así se requiera, emita el acuerdo respectivo, que deberá publicarse en la Gaceta Oficial y comunicarse al Ayuntamiento y al interesado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 476.
 
-Autorizada por el Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se estipularán las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
+Autorizada por el Congreso o la Diputación Permanente la enajenación respectiva, se procederá a la elaboración del instrumento notarial, en el cual se insertarán el acuerdo emitido y las restricciones a que, de conformidad con lo dispuesto en esta Sección, estará sujeto el inmueble.
 
 La escrituración se efectuará ante el Notario Público que elija el adquirente, dentro de la demarcación notarial que corresponda, según la ubicación del inmueble.
 
@@ -5754,6 +5758,36 @@ III. Si en el término de dos años, el adquirente no concluye el proceso de esc
 ###### Artículo 479.
 
 Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan las enajenaciones de inmuebles, estipularán en las mismas las condiciones a que se refiere el artículo anterior. La infracción será sancionada conforme al procedimiento establecido en la Ley del Notariado y demás disposiciones legales aplicables, sin perjuicio de otras responsabilidades que pudieren resultarles. Para su ejercicio se otorga acción pública.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+#### SECCIÓN TERCERA. DE LOS INMUEBLES BALDÍOS
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 479 Bis.
+
+Son terrenos baldíos, aquellos que ubicados en las zonas urbanas y suburbanas de los municipios, carecen de propietario, edificación y posesión particular.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 479 Ter.
+
+El Ayuntamiento, para preservar el interés general, podrá adjudicarse los terrenos baldíos mediante el procedimiento de ocupación, con el fin de destinarlos a un servicio público y requerimientos habitacionales de interés social. La autoridad catastral municipal elaborará un padrón actualizado de terrenos baldíos ubicados dentro de las zonas urbanas y suburbanas del municipio.
+
+> <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 479 Cuarter.- El Ayuntamiento, para efectuar la adjudicación de los terrenos baldíos, se sujetará al procedimiento siguiente:
+
+I. Informes de la oficina de catastro municipal de la existencia de un terreno baldío, y del Registro Público de la Propiedad y de Comercio, de la demarcación registral correspondiente, que hagan constar que el bien o bienes baldíos no se encuentran inscritos a favor de persona alguna;
+
+II. Recibidos los informes a que se refiere la fracción anterior, en sesión del Cabildo, se tomará el acuerdo para proceder a la adjudicación y se ordenará publicar dicho acuerdo, por una sola vez, en la tabla de avisos del palacio municipal, que contendrá la ubicación, superficie, medidas y colindancias; concediéndose el término de treinta días naturales, contados a partir del día siguiente a su publicación, para que comparezcan los interesados a deducir sus derechos en caso de que se consideren afectados;
+
+III. Dicho acuerdo será notificado de manera personal a los colindantes;
+
+IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de terceros, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del Municipio; y
+
+V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del Palacio Municipal y en la Gaceta Oficial del Estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad y del Comercio que corresponda, para que se inscriba por primera vez como título de propiedad a favor del Municipio.
 
 ## TÍTULO TERCERO
 
@@ -5904,3 +5938,9 @@ SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Munici
 TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave y a la Ley de Hacienda Municipal del Estado de Veracruz de Ignacio de la Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el estado de Veracruz de Ignacio de la Llave, así como a este último, se entenderán referidos al presente Código.
 
 CUARTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+
+G.O. 4 DE NOVIEMBRE DE 2004.
+
+Artículo primero.- El presente Decreto entrará en vigor a partir del siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
