@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "1932-10-13"
+last_updated: "1940-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 1940.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -4465,9 +4465,11 @@ El precio de la venta se entregará al tutor si las fianzas o garantías prestad
 
 El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
 
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 1940)</small>
+
 ARTICULO 717
 
-Para la venta de los bienes inmuebles o de los muebles preciosos del hijo, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el artículo 713. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez. La base de la primera almoneda, si es bien raíz, será el precio fijado por los peritos y la postura legal no será menor de las tres cuartas partes de ese precio.
+Para la venta de los bienes inmuebles o de los muebles preciosos del hijo, requerirá el ascendiente la autorización judicial. Se sustanciará la solicitud en un incidente con el Ministerio Público y con un tutor especial que para el efecto nombre el Juez. En el incidente se recibirá al ascendiente la justificación que ofrezca para probar la necesidad o utilidad de la venta, y encontrándola el Juez comprobada, nombrará dos peritos para que practiquen el avalúo y dará autorización para que se verifique fuera de remate, pero nunca en menos de cuatro quintas partes del avalúo.
 
 Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
 
@@ -4942,3 +4944,9 @@ Jalapa-Enríquez, a veinte de septiembre de mil novecientos treinta y dos.
 El Secretario de Gobierno
 
 Lic. Miguel Aguillón Guzmán
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 14 DE NOVIEMBRE DE 1940.
+
+Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
