@@ -4,7 +4,7 @@ identifier: "CHH-ley-sobre-el-sistema-estatal-de-asistencia-social-14561"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-21"
-last_updated: "1987-03-21"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 1987.
 
@@ -95,9 +95,11 @@ XII.- Personas afectadas por desastres.
 
 La prestación de los servicios de asistencia social que sean de carácter local, se realizará por las dependencias y entidades de la administración pública Estatal y municipal, en su caso, cada una según la esfera de sus atribuciones, así como por las instituciones de los sectores social y privado que tengan entre sus objetivos la prestación de esos servicios, de conformidad con lo que dispongan las leyes respectivas.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 6.
 
-De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Ejecutivo del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, en los términos de los convenios de coordinación que se celebren con la Federación.
+De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Ejecutivo del Estado, como autoridad local en materia de salud general, organizar, operar supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, en los términos de los convenios de coordinación que se celebren con la federación.
 
 ###### ARTICULO 7.
 
@@ -121,9 +123,11 @@ Los servicios de salud en materia de asistencia social que se presten como servi
 
 La coordinación del Sistema Estatal de Asistencia Social, estará a cargo del organismo a que se refiere el Artículo 13 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 11.
 
-El Ejecutivo del Estado, a través del organismo a que se refiere el Artículo 13 de esta Ley, en su carácter de autoridad sanitaria estatal, tendrá respecto de la asistencia social, como materia de salubridad general, las siguientes atribuciones:
+El Ejecutivo del Estado, a través del organismo a que se refiere el artículo 13 de Esta ley, en su carácter de autoridad sanitaria estatal, tendrá respecto de la asistencia social, como materia de salud general, las siguientes atribuciones:
 
 I.- Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de salud en materia de asistencia social, así como la difusión y adecuación de las mismas entre los integrantes del Sistema Estatal de Salud;
 
@@ -133,7 +137,9 @@ III.- Evaluar los resultados de los servicios asistenciales que se presten confo
 
 IV.- Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
 
-V.- Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+V.- Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salud general;
 
 VI.- Coordinar un Sistema Estatal de Información en Materia de Asistencia Social;
 
@@ -590,3 +596,11 @@ LIC. FERNANDO BAEZA MELENDEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA LARA ALATORRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
