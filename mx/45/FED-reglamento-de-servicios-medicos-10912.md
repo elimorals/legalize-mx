@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-10912"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "2000-09-13"
+last_updated: "2002-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-06-27"
 
 REGLAMENTO DE SERVICIOS MEDICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2002.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
 
@@ -285,9 +285,7 @@ c) Cirugía para corrección de astigmatismo, presbicia, miopía e hipermetropí
 
 d) Examen médico preventivo solicitado por el trabajador o sus beneficiarios.
 
-e) Tratamientos: Dentales, excepto extracciones, obturaciones y limpieza; Ortodoncia, salvo en
-
-el caso de secuelas de labio y paladar hendido; Endodoncia, excepto en recubrimientos pulpares, corte de la pulpa cameral, extirpación de la pulpa radicular y apicectomías; Paradoncia, salvo en padecimientos de origen irritativo.
+e) Tratamientos: Dentales, excepto extracciones, obturaciones y limpieza; Ortodoncia, salvo en el caso de secuelas de labio y paladar hendido; Endodoncia, excepto en recubrimientos pulpares, corte de la pulpa cameral, extirpación de la pulpa radicular y apicectomías; Paradoncia, salvo en padecimientos de origen irritativo.
 
 > <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
 
@@ -611,19 +609,11 @@ Artículo 85 bis. El Instituto promoverá la difusión de las investigaciones re
 
 ### CAPÍTULO IV. DE LA ATENCIÓN MÉDICA EN EL RAMO DE INVALIDEZ
 
-###### Artículo 86.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-Para los efectos del presente Reglamento se entenderá que existe invalidez cuando el asegurado se halle imposibilitado para procurarse, mediante un trabajo igual, una remuneración superior al cincuenta por ciento de su remuneración habitual percibida durante el último año de trabajo y que esa imposibilidad derive de una enfermedad o accidente no profesionales.
+###### ARTICULO 86.
 
-> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
-
-La dictaminación del estado de invalidez deberá ser realizada por los servicios médicos institucionales, a través del dictamen médico correspondiente, en el que se considerarán la determinación del estado físico funcional del trabajador y la información médica, técnica y social que se requiera.
-
-Asimismo, este dictamen deberá emitirse, independientemente del número de semanas cotizadas que tuviera el trabajador, para los efectos que señala el párrafo segundo del artículo 122 de la Ley.
-
-> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2000)</small>
-
-Para efectos de revisar la procedencia o improcedencia y, en su caso, resolver lo conducente respecto del dictamen de invalidez. Las divisiones de Salud en el Trabajo serán las facultadas para validar que el dictamen esté elaborado con base a la normatividad establecida, así como los casos de controversia que el Consejo Técnico y los consejos consultivos delegacionales le requieran.
+Para los efectos del presente Reglamento se entenderá que existe invalidez cuando el asegurado se halle imposibilitado para procurarse, mediante un trabajo igual, una remuneración superior al cincuenta por ciento de su remuneración habitual percibida durante el último año de trabajo y que esa imposibilidad derive de una enfermedad o accidente no profesionales. La dictaminación del estado de invalidez deberá ser realizada por los servicios médicos institucionales, a través del dictamen médico correspondiente, en el que se consideran la determinación del estado físico funcional del trabajador y la información médica, técnica y social que se requiera. Para efectos de revisar la procedencia o improcedencia y, en su caso, resolver lo conducente respecto del dictamen de invalidez, los equipos médicos interdisciplinarios de salud en el trabajo serán los facultados para validar que el dictamen esté elaborado con base a la normatividad establecida, así como los casos de controversia que el Consejo Técnico le requiera. Previo a la emisión del dictamen, los servicios médicos correspondientes identificarán al asegurado mediante documento oficial con fotografía. Asimismo, este dictamen deberá emitirse, independientemente del número de semanas cotizadas que tuviera el trabajador. En el dictamen a que se hace referencia los servicios médicos asentarán los datos del documento oficial con fotografía con que el interesado se identificó previamente.
 
 ###### Artículo 87.
 
@@ -639,9 +629,11 @@ II. Al declararse el estado de invalidez, el asegurado tenga acreditado el pago 
 
 Para los efectos de la parte final del párrafo que antecede, se deberá tomar en cuenta que el estado físico y mental del asegurado, derivado de una enfermedad o accidente no profesionales, requiera, a juicio de los servicios médicos institucionales, que ineludiblemente lo asista otra persona de manera permanente o continua.
 
-###### Artículo 88.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-El dictamen de invalidez podrá emitirse con carácter definitivo o provisional. De ser este último se valorará periódicamente al pensionado durante el primer año, al cabo del cual se establecerá si se reintegra al trabajo o si el dictamen adquiere el carácter definitivo.
+###### ARTICULO 88.
+
+El dictamen de invalidez podrá emitirse con carácter definitivo o temporal. De emitirse con carácter temporal, se realizará la revaloración médica del pensionado dentro de los dos años siguientes al de la fecha de expedición del dictamen, para definir si existe recuperación para el trabajo o continúa el dictamen con carácter temporal por periodos renovables de dos años o si éste es definitivo.
 
 ###### Artículo 89.
 
@@ -775,15 +767,21 @@ El certificado de incapacidad temporal para el trabajo es el documento médico l
 
 El médico tratante del Instituto, al expedir el certificado de incapacidad temporal para el trabajo, actuará bajo su absoluta responsabilidad y con estricto apego a la Ley, sus reglamentos, las normas institucionales y ética profesional.
 
-La expedición de estos certificados únicamente la podrá efectuar el médico tratante de acuerdo y en ejercicio de sus funciones y durante su jornada de trabajo.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-###### Artículo 113.
+La expedición de estos certificados únicamente los podrá efectuar el médico tratante de acuerdo y en ejercicio de sus funciones y durante su jornada de trabajo, salvo las excepciones previstas en este Reglamento. Previo al otorgamiento de servicios médicos de cualquier naturaleza, el interesado deberá identificarse mediante documento oficial con fotografía o el que en su caso le expida el Instituto. La identificación del asegurado, tendrá por objeto comprobar el ingreso de éste a los servicios médicos que presta el IMSS, el (sic) que le fueron otorgados y que sea a él a quien ampara la identificación. En las incapacidades el médico tratante asentará en el recuadro correspondiente los datos de la identificación presentada por el asegurado.
 
-El Certificado de Incapacidad Temporal para el Trabajo podrá expedirse con carácter inicial o subsecuente, entendiéndose por cada uno de éstos lo siguiente:
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-I. Inicial. Es el documento que expide el médico tratante al asegurado en la fecha en que se determina por primera vez que su enfermedad lo incapacita temporalmente para el trabajo;
+###### ARTICULO 113.
 
-II. Subsecuente. Es el documento que posterior al certificado inicial, el médico tratante expide al asegurado que continúa incapacitado por el mismo padecimiento o en su caso que presente además algún otro padecimiento intercurrente.
+El Certificado de Incapacidad Temporal para el Trabajo podrá expedirse con carácter inicial, subsecuente o recaída, entendiéndose por cada uno de éstos lo siguiente:
+
+I. Inicial. Es el documento que expide el médico al asegurado en la fecha en que se determina por primera vez que su enfermedad lo incapacita temporalmente para el trabajo;
+
+II. Subsecuente. Es el documento que posterior al certificado inicial que el médico expide al asegurado que continúa incapacitado por el mismo padecimiento, y
+
+III. Recaída. Es el certificado de incapacidad que se expide a un asegurado posterior a ser dado de alta por riesgo de trabajo que requiere de atención médica, quirúrgica, rehabilitación o bien un incremento en su incapacidad parcial permanente otorgada por secuelas del riesgo de trabajo sufrido. El médico tratante del Instituto, al expedir el certificado de incapacidad inicial determinará el tiempo probable de días para la recuperación, considerando como límite máximo el número de días definido en el catálogo de tiempos de recuperación por padecimiento, elaborado para tal fin con carácter de general y obligatorio para los servicios médicos, de acuerdo con la historia natural de la enfermedad, asentando dicho dato enseguida del diagnóstico en el mismo recuadro. En los casos en que el periodo de incapacidad rebase el lapso probable para la recuperación y se requiera de la expedición de una incapacidad subsecuente o de recaída, el médico tratante deberá comunicarlo a su jefe inmediato o a quien en su ausencia funja como tal, para que conjuntamente se realice la evaluación clínica del caso, se definan los días adicionales y las acciones necesarias para lograr la atención y recuperación del paciente. Los certificados subsecuentes o de recaída se autorizarán por ambos médicos, invariablemente.
 
 ###### Artículo 114.
 
@@ -795,17 +793,21 @@ II. El médico familiar o estomatólogo podrán expedir certificados únicamente
 
 III. El médico no familiar podrá expedir certificados hasta por el término de uno a veintiocho días.
 
-###### Artículo 115.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-En los casos de incapacidad por maternidad, el lapso que se acredite se determinará en días naturales y tratándose de certificado de incapacidad prenatal comprenderá los 42 días anteriores a la fecha que se señale como probable del parto y el certificado de incapacidad postnatal por 42 días a partir del día del parto.
+###### ARTICULO 115.
 
-Cuando la fecha probable del parto fijada por el médico, no concuerde con la fecha real de aquél, los certificados de incapacidad que se expidan antes del parto y después del mismo deberán ajustarse a lo siguiente:
+En los casos de incapacidad por maternidad, el lapso que se acredite se determinará en días naturales y tratándose de certificado de incapacidad prenatal comprenderá los 42 días anteriores a la fecha que se señale como probable del parto y el certificado de incapacidad postnatal, excepto óbito fetal, invariablemente por 42 días a partir del día del parto. Invariablemente se anotará en el certificado si existió o no control médico institucional, el cual considera el otorgamiento de al menos cinco consultas prenatales.
 
-I. Si el periodo prepartum se excede a los 42 días, para amparar los días excedentes se expedirán certificados de incapacidad de enlace por enfermedad general, por lapsos renovables no mayores de siete días.
+Cuando la fecha probable del parto determinada por el médico no concuerde con la real de aquél, los certificados de incapacidad que se expidan antes del parto y después del mismo, deberán ajustarse a lo siguiente:
 
-II. En los casos en que el parto ocurra durante el periodo de la incapacidad prenatal, el subsidio corresponderá únicamente a los días transcurridos, los días posteriores amparados por este certificado pagados y no disfrutados serán ajustados respecto del certificado de incapacidad postpartum, cuando la asegurada no haya estado bajo control y tratamiento médico institucional o cuando se trate de producto prematuro.
+I. Si el periodo prepartum se excede a los 42 días, para amparar los días excedentes se expedirán, certificados de incapacidad de enlace por enfermedad general por lapsos renovables, desde uno y hasta un máximo de siete días, requiriendo de autorización de su jefe inmediato a partir del segundo periodo de siete días;
+
+II. En los casos en que el parto ocurra durante el periodo de la incapacidad prenatal, el subsidio corresponderá únicamente a los días transcurridos; los días posteriores amparados por este certificado pagados y no disfrutados serán ajustados respecto del certificado de incapacidad postpartum, cuando la asegurada no haya estado bajo control y tratamiento médico institucional o cuando se trate de producto prematuro.
 
 El certificado de incapacidad postpartum se expedirá invariablemente por 42 días a partir de la fecha del parto.
+
+III. Para el caso de óbito fetal el certificado de incapacidad se expedirá por enfermedad no profesional y el periodo amparado se definirá por el médico tratante de acuerdo a los días necesarios para la recuperación. Estas consideraciones se aplican exclusivamente para aseguradas.
 
 ###### Artículo 116.
 
@@ -847,31 +849,49 @@ Cuando la enfermedad no profesional incapacite para el trabajo al asegurado, se 
 
 Hasta por veintiséis semanas posteriores a las cincuenta y dos antes señaladas se podrán expedir certificados de incapacidad que serán considerados como prórroga, previa revisión del paciente y del expediente clínico por parte del médico tratante y de los Comités que correspondan.
 
-###### Artículo 123.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-En todos los casos, se registrarán en el expediente clínico del asegurado, los siguientes conceptos de los certificados de incapacidad expedidos:
+###### ARTICULO 123.
 
-I. Folio
+En todos los casos, se registrarán en el expediente clínico o nota de referencia y contrarreferencia del asegurado, los siguientes conceptos de los certificados de incapacidad iniciales, subsecuentes y recaídas:
 
-II. Ramo
+I. Diagnóstico;
 
-III. Días autorizados
+II. Folio;
 
-IV. Fecha de inicio
+III. Ramo;
 
-Cuando el certificado de incapacidad se haya expedido en otra Unidad Médica distinta a la de la adscripción del asegurado, se incorporará a su expediente médico la nota clínica que haga constar la expedición de la incapacidad.
+IV. Fecha de inicio;
 
-###### Artículo 124.
+V. Fecha de expedición;
 
-Los servicios médicos harán llegar a los servicios de prestaciones económicas correspondientes, con la oportunidad establecida en el instructivo, los certificados de incapacidad expedidos.
+VI. Días probables para su recuperación;
+
+VII. Días de incapacidad acumulados;
+
+VIII. Nombre del puesto específico de trabajo y centro de trabajo, y
+
+IX. Nombre, firma y matrícula del médico que prescribe y, en su caso, de su jefe inmediato superior y en su ausencia a quien funja como tal.
+
+Cuando el certificado de incapacidad se haya expedido en otra unidad médica distinta a la de la adscripción del asegurado, se incorporará a su expediente médico la nota respectiva, que haga constar la expedición de la incapacidad.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 2002)</small>
+
+###### ARTICULO 124.
+
+Los servicios médicos harán llegar dentro de las 24 horas posteriores a su expedición los certificados de incapacidad expedidos en Unidades Médicas de 1er. Nivel y hasta en un máximo de 48 horas los emitidos en las Unidades Médicas de 2o. y 3er. Nivel, a los servicios de prestaciones económicas correspondientes, a través de relación autorizada por el director de la unidad médica expedidora, cuando se trate de la misma entidad.
 
 #### SECCIÓN SEGUNDA. DE LOS CASOS DE RIESGOS DE TRABAJO
 
-###### Artículo 125.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 2002)</small>
 
-La expedición de certificados de incapacidad temporal para el trabajo en los casos de riesgos de trabajo, ya sea por accidente o enfermedad, deberá ajustarse a las disposiciones siguientes:
+###### ARTICULO 125.
 
-I. En cuanto a los riesgos reclamados como de trabajo, el certificado de incapacidad temporal inicial se expedirá a título de probable riesgo hasta por tres días para la calificación del riesgo sufrido.
+La expedición de certificados de incapacidad temporal para el trabajo en los casos de riesgos de trabajo, ya sea por accidente o enfermedad de trabajo, deberá ajustarse a las disposiciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2002)</small>
+
+I. En cuanto a los riesgos reclamados como de trabajo, el certificado de incapacidad temporal inicial se expedirá a título de probable riesgo de uno y hasta por tres días, para la calificación del riesgo sufrido, y
 
 II. Al calificarse el riesgo reclamado como sí de trabajo, la incapacidad inicial o recaída que proceda se certificará como accidente o enfermedad de trabajo según corresponda.
 
@@ -950,3 +970,9 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DE
 D.O.F. 13 DE SEPTIEMBRE DE 2000.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE AGOSTO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+TERCERO.- El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación, y...
