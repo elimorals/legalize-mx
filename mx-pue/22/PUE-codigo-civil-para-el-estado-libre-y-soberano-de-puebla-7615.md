@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2004-01-21"
+last_updated: "2004-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -1889,7 +1889,17 @@ VI.- El cónyuge que deba separarse del domicilio familiar informará al Juez, e
 
 VII.- Si los cónyuges no ejercen patria potestad sobre ningún descendiente, o los descendientes sobre quienes la ejerzan son mayores de catorce años, la autorización para separarse del domicilio conyugal al consorte que intente demandar al otro, o denunciar en su contra la comisión de un delito, se tramitará como disponga el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 322.
+
+El que intente demandar, denunciar o querellarse contra su cónyuge, concubino o pariente, podrá acudir al Centro Estatal de Mediación o ante el Juez para llamar a las partes, y tratar de dirimir la controversia.
+
+El mediador exhortará a las partes a buscar alternativas de solución que mejor convenga al interés de los menores, a fin de que por convenio entre los progenitores, se resuelve lo relativo a su guarda y custodia, y al derecho de convivencia que corresponda al ascendiente que no conserve la custodia.
+
+El cumplimiento del convenio podrá solicitarse ante el Juez de lo familiar en la vía de apremio.
+
+Para el caso de las personas que se encuentren en los supuestos del párrafo primero de este artículo, podrán por separado a la mediación, solicitar al Juez de lo familiar su separación del domicilio en el que residan habitualmente o la separación del cónyuge, concubino o pariente.
 
 Cuando uno de los cónyuges pretenda ejercitar o haya ejercitado una acción civil en contra del otro, que no sea de nulidad de matrimonio o de divorcio, el Juez, oyendo a ambos cónyuges y según la importancia del objeto del juicio, y la mayor o menor influencia de las consecuencias de éste, sobre la vida común de los cónyuges, decidirá si deben separarse éstos y en la afirmativa aplicará lo dispuesto en los artículos anteriores.
 
@@ -2807,11 +2817,17 @@ Cuando las causales enumeradas en las fracciones IV, V, XI y XII del artículo 4
 
 Las medidas establecidas en el artículo anterior se dictarán también a petición del cónyuge sano, cuando se manifiesten las causas de la incapacidad a que se refiere la fracción V del artículo 454.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 463.
 
-El Juez tendrá amplias facultades para determinar al momento de dictar la sentencia de divorcio, en uso de su prudente arbitrio, tomando en cuenta las circunstancias especiales de cada caso y oyendo a los cónyuges, a los menores y al Ministerio Público, lo relativo a la custodia, guardia y al ejercicio de la patria potestad, y, en su caso, lo dispuesto en el segundo párrafo del artículo 446 de este Código.
+El Juez tendrá amplias facultades para determinar al momento de dictar la sentencia de divorcio, en su prudente arbitrio, tomando en cuenta las circunstancias especiales de cada caso oyendo a los cónyuges, a los menores y al Ministerio Público, la situación de los hijos; para lo cual, deberá resolver todo lo relativo a la custodia, guarda, derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso, para lo cual observará las siguientes:
+
+I.- Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los menores permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendiente tuviese la custodia, el otro que no la posee después de los siete años, podrá demandar en lo posible, custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquéllos, así como que no exista, con alguno de los progenitores, peligro alguno para su normal desarrollo;
+
+II.- La recuperación de la patria potestad procederá únicamente en aquellos casos que por cuestiones alimentarias se haya perdido, siempre y cuando se acredite que se ha cumplido con dicha obligación, y
+
+III.- Lo mismo se observará respecto de la recuperación de la custodia.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2898,6 +2914,12 @@ El parentesco es por consanguinidad afinidad o civil.
 ###### Artículo 477.
 
 Consanguinidad es el parentesco entre personas que descienden de un mismo progenitor.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 477 Bis.
+
+También existirá parentesco por consanguinidad entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hayan procurado el nacimiento, para atribuirse el carácter de progenitor o progenitores.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -3637,13 +3659,19 @@ IV.- Si el abuelo o abuela por una de las líneas es viudo o casado en segundas 
 
 V.- Si la patria potestad se defiere por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 608.
 
-Las personas que tienen al menor bajo su patria potestad o su custodia deben educarlo convenientemente y tienen la facultad de corregirlo de una manera prudente y moderada, así como la obligación de observar una conducta que le sirva de buen ejemplo.
+Las personas que tienen al menor bajo su patria potestad o su custodia, deberán proporcionar a éste educación con la facultad de corregirlo de una manera prudente y moderada, así como la obligación de observar una conducta que le sirva de buen ejemplo.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
 La facultad de corregir no implica infligir al menor actos de fuerza u omisiones graves, que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 291 de este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerce la patria potestad, en consecuencia, cada uno de los ascendientes debe evitar cualquier acto encaminado a producir en los menores, rencor o rechazo hacia el otro progenitor.
 
 ###### Artículo 609.
 
@@ -3755,17 +3783,19 @@ II.- Por emancipación del menor;
 
 III.- Por llegar a la mayoría el que estuvo sujeto a ella.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 628.
 
-Los derechos que la patria potestad confiere a quien o a quienes la ejercen, se pierden:
+Los derechos de la patria potestad que se confieren a quien o a quienes la ejercen, se pierden:
 
 I.- Cuando el que la ejerza cometa algún delito grave o intencional contra el menor;
 
 II.- Cuando el titular de ella sea condenado por delito intencional, a una pena de prisión inconmutable;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-III.- Cuando quienes la ejerzan tengan costumbres depravadas o hábitos nocivos, ejerzan públicamente la prostitución, inflijan malos tratamientos o realicen cualquier otro acto que implique el abandono de sus deberes frente a sus hijos o nietos, en su caso, de manera tal que se pueda comprometer la salud, la seguridad, o el desarrollo moral del menor, o incluso su integridad física o psíquica en términos de lo dispuesto por el artículo 291 de este Código, aunque esos hechos no sean penalmente punibles;
+III.- Cuando quienes la ejerzan tengan costumbres depravadas o hábitos nocivos, ejerzan públicamente la prostitución, inflijan malos tratos o realicen cualquier otro acto que implique el abandono de sus deberes frente a sus hijos o nietos, en su caso, de manera tal que se pueda comprometer la vida, la salud, la seguridad, el desarrollo moral del menor e incluso su integridad física o psíquica en términos de lo dispuesto por el artículo 291 de este Código aunque estos hechos no sean penalmente punibles;
 
 IV.- Cuando el padre, madre, abuelo o abuela, en su caso:
 
@@ -3774,6 +3804,10 @@ a) Expongan a su hijo o nieto;
 b) Abandonen a su hijo o nieto por más de tres meses, si éste quedo a cargo de alguna persona;
 
 c) Abandonen por más de un día a su hijo o nieto si el menor no hubiere quedado al cuidado de alguna persona y el abandono sea intencional.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+d) No Permitan de manera reiterada que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
 
 V.- En los casos de divorcio, cuando la ley lo establece.
 
@@ -3815,27 +3849,35 @@ III.- Por sentencia condenatoria que imponga como pena esta suspensión, y
 
 IV.- Por incurrir en conductas de violencia familiar previstas en el artículo 291 de este Código, que no impliquen la comisión de algún delito en contra de las personas sobre las cuales la ejerza.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 634.
 
-Puede el Juez, en beneficio de los menores modificar el ejercicio de la patria potestad, cuando considere que los hechos invocados y probados no son suficientes para privar o suspender al titular de ella, de los derechos que la misma patria potestad le confiere.
+El Juez puede en beneficio de los menores modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, cuando quien la ejerce realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 635.
 
-Cuando conforme a este Código deba hacerse cargo provisional o definitivamente de la guarda de un menor solamente uno de sus padres, se aplicarán las siguientes disposiciones:
+La ley reconoce el derecho de convivencia que tienen los menores con sus padres y con las familias de ambos. La convivencia permite el conocimiento directo de los menores con sus ascendientes y demás parientes, a fin de lograr su integración al núcleo familiar y obtener la identidad plena de los menores en el grupo social a que pertenece.
 
-I.- El padre y la madre convendrán quién de ellos se hará cargo de la guarda del menor y con éste habitará el hijo;
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-II.- Si los padres no llegaren a ningún acuerdo:
+La custodia puede establecerse de manera compartida y mediante ella se determinan derechos iguales de convivencia en favor de los menores con sus padres y demás familiares.
 
-a) Los menores de siete años quedarán al cuidado de la madre;
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+Cuando conforme a este Código deba hacerse cargo provisional o definitivamente de la guarda de un menor, uno solo de los padres, se aplicarán las siguientes disposiciones:
 
-b) El Juez decidirá quién deba hacerse cargo de la custodia de los mayores de siete años, pero menores de doce, para lo cual gozará de las más amplias facultades para resolver lo relativo a la guarda y cuidado de los mismos, teniendo en cuenta el interés particular de los menores de edad, su salud, educación y conservación de su patrimonio. Para tal efecto, deberá el Tribunal oír a los padres, a los menores, y si es menester a los abuelos, tíos, hermanos mayores o demás parientes interesados, así como al sistema Estatal para el Desarrollo Integral de la Familia, debiendo además acordar de oficio cualquiera providencia que considere de interés o benéfica para los menores;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+I.- El padre y la madre convendrán quién de ellos ejercerá la guarda, poniendo a los hijos a cuidado de la persona que de común acuerdo hubieren designado los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, en los tiempos libres de los menores, al otro que no tenga dicha custodia. Las obligaciones de formación cultural y educativa, corresponde a ambos padres, quienes podrán acordar formas de colaboración para alcanzar dicho objetivo;
 
-c) Los mayores de doce años elegirán cuál de ambos padres deberá hacerse cargo de ellos, y si éstos no eligen; el Juez decidirá quien deba hacerse cargo de ellos, atendiendo a lo señalado en el inciso anterior.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+II.- Si los padres no llegaran a ningún acuerdo, el Juez de lo familiar resolverá lo conducente, previo el procedimiento que fije el Código Procesal, tomando en cuenta la opinión del menor.
+
+Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos, y
 
 III.- En caso de divorcio necesario se estará a lo que disponga la sentencia que lo decrete.
 
@@ -3853,7 +3895,11 @@ Los parientes a los que por cualquier circunstancia se otorgue la custodia o gua
 
 No podrán impedirse, sin justa causa, las relaciones personales ni la convivencia entre el menor y sus parientes, ni siquiera cuando la patria potestad o la guarda corresponda a uno de ellos, por lo que en caso de oposición a la solicitud de cualquiera de ellos o incumplimiento del convenio en que las partes hubieren fijado el tiempo, modo y lugar para que los ascendientes que no tengan la guarda del menor lo visiten y convivan con él, el Juez de lo Familiar resolverá lo conducente, en atención al interés superior del menor.
 
-Sólo por mandato judicial expreso y fundado en causa justa podrá impedirse, suspenderse o perderse el derecho de convivencia al que se refiere este artículo.
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+El Tribunal contará con los medios eficaces que considere necesarios para decretar la convivencia en el modo y forma que beneficie a los menores y en caso de incumplimiento parcial o total podrá decretar las medidas de apremio que concede la ley o dar vista al Ministerio Público si del comportamiento de quien deba permitir la convivencia se desprende algún delito.
+
+Sólo por mandato judicial expreso y fundado en causa justa podrá impedirse, suspenderse o perderse el derecho de convivencia a que se refiere este artículo.
 
 ###### Artículo 638.
 
@@ -4201,7 +4247,7 @@ XI.- Los empleados del Fisco, que por razón de su destino tengan responsabilida
 
 XII.- Los que padezcan enfermedad crónica contagiosa;
 
-XIII.- Los demás a quienes lo prohíba la ley.
+XIII.- Los demás a quienes lo prohiba la ley.
 
 ###### Artículo 693.
 
@@ -12265,7 +12311,7 @@ II.- El vendedor que hubiere entregado el bien vendido puede exigir del comprado
 
 III.- El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó;
 
-IV.- El comprador que no haya pagado el precio, no puede enajenar el bien objeto de compraventa con reserva de dominio, pero si puede transmitir a otra u otras personas los derechos que le confiera esa compraventa. Por su parte el vendedor no puede enajenar el bien vendido con reserva de propiedad, mientras no se venza el plazo o plazos pactados para pagar el precio;
+IV.- El comprador que no haya pagado el precio, no puede enajenar el bien objeto de compraventa con reserva de dominio, pero sí puede transmitir a otra u otras personas los derechos que le confiera esa compraventa. Por su parte el vendedor no puede enajenar el bien vendido con reserva de propiedad, mientras no se venza el plazo o plazos pactados para pagar el precio;
 
 V.- Los artículos 2172 fracción III y 2173;
 
@@ -19778,3 +19824,13 @@ P.O. 21 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
