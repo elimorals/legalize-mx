@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1982-08-02"
+last_updated: "1985-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -47,7 +47,7 @@ ORGANOS. AUXILIARES
 
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto regular la organización y funcionamiento de la administración de justicia dentro del Estado de Michoacán. Por tanto, los órganos de dicha administración juzgarán de los asuntos civiles, familiares y penales del Fuero Común, aplicando las leyes del mismo Fuero y haciendo que se ejecute lo juzgado en la parte que les corresponda. De los asuntos del orden federal conocerán cuando la Ley de la materia los faculte expresamente para ello.
+La presente Ley tiene por objeto regular la organización y funcionamiento de la administración de justicia dentro del Estado de Michoacán. Por tanto, los órganos de dicha administración juzgarán de los asuntos civiles, familiares y penales del Fuero Común, aplicando las leyes del mismo Fuero y haciendo que se ejecute lo Juzgado en la parte que les corresponda. De los asuntos del orden federal conocerán cuando la Ley de la materia los faculte expresamente para ello.
 
 ### CAPITULO II. ORGANOS
 
@@ -87,9 +87,9 @@ IV. Los Intérpretes y Peritos;
 
 V. Los Depositarios y Síndicos de Concursos;
 
-VI. Los Notarios, en las funciones que les encomienda el Código de Procedimientos Civiles;
+VI. Los Notarios, en las funciones que les encomienda el Código de Procedimientos Civiles:
 
-VII. Los Cuerpos Policíacos tanto del Estado como de los Municipios; y
+VII. Los Cuerpos Policíacos tanto del Estado como de los Municipios: y
 
 VIII. Los demás a quienes las leyes confieran ese carácter.
 
@@ -99,23 +99,31 @@ Los auxiliares a que se refiere este artículo estarán obligados a desempeñar 
 
 ### CAPITULO I. INTEGRACION
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 5o.
 
-El Supremo Tribunal de Justicia estará integrado por once magistrados propietarios y diez supernumerarios. De los propietarios, uno será Presidente y los demás formarán salas unitarias, designadas por número ordinal.
+El Supremo Tribunal de Justicia estará integrado por dieciséis magistrados propietarios y dieciséis supernumerarios. De los propietarios, uno será Presidente y los demás formarán Salas Colegiadas
 
 ### CAPITULO II. TRIBUNAL PLENO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 6o.
 
-El Pleno se compondrá de los magistrados propietarios que integran el Supremo Tribunal, pero bastará la presencia de ocho para que pueda funcionar.
+El Supremo Tribunal funcionará en pleno con los dieciséis magistrados propietarios que lo integran, pero bastará la presencia de once para que pueda funcionar.
 
 Los magistrados supernumerarios serán llamados para que integren el Pleno, en los casos y en la forma señalados por la Constitución Política del Estado y por esta Ley.
 
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 7o.
 
-Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal, y, las extraordinarias, cuando lo juzgue necesario el Presidente o lo pidan por lo menos cinco de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen concurrido a ella, y el secretario.
+Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo pidan por lo menos siete de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen ocurrido a ella, y el secretario.
 
 Podrán celebrarse sesiones privadas cuando se dé alguno de los presupuestos de las extraordinarias.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 8o.
 
@@ -131,11 +139,13 @@ IV. De las excusas extraordinarias que planteen los jueces de primera instancia,
 
 V. De las excusas del Presidente del Supremo Tribunal, propuestas durante la tramitación de los asuntos de la competencia del Pleno;
 
-VI. De las controversias que se susciten entre las salas del Supremo Tribunal sobre jurisdicción, competencia, acumulación, excusas y recusaciones;
+VI. De las controversias que se susciten entre Ias salas del Supremo Tribunal sobre jurisdicción, competencia, acumulación, excusas y recusaciones;
 
 VII. Del recurso de reclamación contra las providencias o acuerdos del Presidente del Supremo Tribunal, dictados durante la tramitación de los asuntos de la competencia del Pleno;
 
-VIII. De las excitativas de justicia que se promuevan contra los magistrados; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VIII. De las excitativas de justicia que se promuevan contra los magistrados; y jueces de primera instancia; y
 
 IX. De cualquier otro asunto de la competencia del Supremo Tribunal, cuyo conocimiento no corresponda a las salas del mismo por disposición expresa de la Ley.
 
@@ -147,7 +157,7 @@ I. Elegir al Presidente del Supremo Tribunal;
 
 II. Determinar, en la primera sesión de cada período constitucional, las adscripciones permanentes de los magistrados propietarios, teniendo en cuenta su especialización o experiencia profesional;
 
-III. Cambiar de adscripción a los magistrados propietarios con arreglo a lo dispuesto en la fracción anterior, cuando se elija nuevo Presidente o cuando por falta absoluta de alguno de ellos se haga nueva designación por el Congreso; tratándose de magistrados inamovibles conforme a la Constitución Política del Estado, se requerirá su consentimiento para que puedan ser cambiados de adscripción;
+III. Cambiar de adscripción a los magistrados propietarios con arreglo a lo dispuesto en la fracción. anterior, cuando se elija nuevo Presidente o cuando por falta absoluta de alguno de ellos se haga nueva designación por el Congreso; tratándose de magistrados inamovibles conforme a la Constitución Política del Estado, se requerirá su consentimiento para que puedan ser cambiados de adscripción;
 
 IV. Nombrar a los jueces de primera instancia, municipales y de tenencia, adscribiéndolos a los juzgados en que deban ejercer sus funciones;
 
@@ -175,7 +185,7 @@ XV. Conceder licencias, con o sin goce de sueldo, a los funcionarios y empleados
 
 XVI. Sancionar en los términos del artículo 101, a las personas en él mencionadas, por las faltas de respeto que ante el Pleno o el Presidente cometan al Supremo Tribunal, a alguno de sus miembros, o a cualquier otro funcionario o empleado del Poder Judicial del Estado;
 
-XVII. Cambiar de adscripción, para los efectos de la fracción XIII de este artículo, a los jueces de primera instancia y municipales, así como a los secretarios y actuarios de los juzgados cuyo nombramiento dependa del Pleno. Por tanto, en estos nombramientos no se expresará el juzgado en que se ejercerán las funciones;
+XVII. Cambiar de adscripción, para los efectos de la fracción XIII de este articulo, a los jueces de primera instancia y municipales, así como a los secretarios y actuarios de los juzgados cuyo nombramiento dependa del Pleno. Por tanto, en estos nombramientos no se expresará el juzgado en que se ejercerán las funciones;
 
 XVIII. Imponer a los magistrados, así como a los jueces, funcionarios y empleados cuyo nombramiento dependa del Pleno, las sanciones señaladas en esta Ley;
 
@@ -185,7 +195,13 @@ XX. Facultar a los secretarios de los juzgados, cuando tengan título de licenci
 
 XXI. Autorizar a los jueces para que nombren empleados interinos, cuando las faltas de los titulares excedan de un mes; y
 
-XXII. Las demás que ésta u otras leyes o sus reglamentos no reserven al Presidente o a los titulares de las salas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XXII. Cambiar la residencia de los juzgados de primera instancia supernumerarios, según lo estime conveniente para el mejor servicio público; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XXIII. Las demás que ésta u otras leyes o sus reglamentos no reserven al Presidente del Tribunal o a los Presidentes de las Salas.
 
 ###### ARTICULO 10.
 
@@ -199,19 +215,23 @@ III. Hecha la distribución del proyecto, la Secretaría General de Acuerdos del
 
 IV. El día de la sesión, la Secretaría dará cuenta con el proyecto en el orden de la lista y la Presidencia lo pondrá a discusión, salvo que el Pleno acuerde que se aplace la vista del mismo para mejor estudio;
 
-V. Si a juicio de los magistrados presentes estuviese suficientemente discutido el asunto, la Secretaría tomará la votación y la Presidencia, acto contínuo, declarará el sentido de la resolución; pudiendo formular su voto particular el magistrado que no estuviere conforme con la misma;
+V. Si a juicio de los magistrados presentes estuviese suficientemente discutido el asunto, la Secretaría tomará la votación y la Presidencia, acto continuo, declarará el sentido de la resolución; pudiendo formular su voto particular el magistrado que no estuviere conforme con la misma;
 
 VI. Si el proyecto no fuere aprobado, pero el magistrado relator aceptare las adiciones o reformas propuestas por la mayoría, él mismo redactará la resolución en los términos de la discusión; si no las acepta, se designará a un magistrado de la mayoría para que la redacte;
 
-VII. Concluída la sesión, la Secretaría elaborará y firmará una lista de los asuntos que se hubiesen tratado, expresando el sentido de la resolución dictada en cada uno de ellos; debiendo fijar tal lista en la forma señalada por la fracción VIII del articulo 51; y
+VII. Concluida la sesión, la Secretaría elaborará y firmará una lista de los asuntos que se hubiesen tratado, expresando el sentido de la resolución dictada en cada uno de ellos; debiendo fijar tal lista en la forma señalada por la fracción VIII del articulo 51; y
 
 VIII. Las resoluciones serán firmadas dentro del término de quince días por el Presidente, los demás magistrados que hubiesen concurrido a la sesión, y el secretario.
 
-El recurso de reclamación a que se refiere la fracción I del articulo 8o., se substanciará y resolverá conforme a la Ley Electoral del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+El recurso de reclamación a que se refiere la fracción I del artículo 8o., se substanciará y resolverá conforme a la Ley Electoral del Estado. Las excitativas de justicia a que alude la fracción VIII del propio artículo 8º., se tramitarán y resolverán conforme al Título Octavo, Capítulo I, de la presente ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 11.
 
-Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluído el Presidente. Si el Pleno funciona con menos de once magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los subsituyan (sic).
+Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluido el Presidente. Si el Pleno funciona con menos de dieciséis magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los substituyan.
 
 Ningún magistrado podrá abstenerse de votar, sino cuando tenga impedimento legal o no haya estado presente durante la discusión del asunto.
 
@@ -247,11 +267,13 @@ VI. Ejecutar los acuerdos del Supremo Tribunal y llevar la correspondencia ofici
 
 VII. Dictar las medidas que estime pertinentes para que en las oficinas del Poder Judicial se cumpla con el horario de trabajo, y en general todas aquellas que exijan el buen servicio y la disciplina, inclusive las urgentes en los asuntos administrativos de la competencia del Pleno. En este último caso, las medidas tendrán el carácter de provisionales hasta que el Pleno resuelva en definitiva lo que proceda;
 
-VIII. Distribuir entre las salas los asuntos que fueren de su competencia, con sujeción a lo establecido en esta Ley; y entre los magistrados, para que formulen proyecto de resolución, los de la competencia del Pleno. Para este último efecto, llevará un turno acorde con lo dispuesto por la fracción I del artículo 10;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VIII. Distribuir entre los magistrados, para que formulen proyecto de resolución, los asuntos de la competencia del Pleno. Para este efecto, llevará un turno acorde con lo dispuesto por la fracción I del artículo 10;
 
 IX. Recibir quejas administrativas sobre las faltas que los funcionarios o empleados del Poder Judicial cometan en el despacho de los asuntos; dictando, si las faltas fueren leves, las providencias oportunas para su corrección o remedio inmediato; si fueren graves, informará al Pleno para que éste dicte el acuerdo correspondiente;
 
-X. Resolver las excitativas de justicia que se promuevan contra los jueces de primera instancia;
+X. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
 
 XI. Elaborar el proyecto de Presupuesto de Egresos del Poder Judicial y someterlo a la consideración del Pleno, para su envío al Congreso del Estado;
 
@@ -293,13 +315,17 @@ En su informe anual de labores, el Presidente del Supremo Tribunal dará a conoc
 
 ### CAPITULO IV. SALAS DEL SUPREMO TRIBUNAL
 
+REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)
+
 ###### ARTICULO 18.
 
-Las cinco primeras salas del Supremo Tribunal de Justicia serán civiles y las otras cinco penales.
+El Supremo Tribunal de Justicia funcionará, además en tres Salas designadas por número ordinal, de cinco magistrados cada una; pero bastará la presencia de cuatro para que pueda funcionar.
+
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 19.
 
-De las salas civiles, la primera, segunda y tercera conocerán por turno, según el orden en que se reciba cada expediente:
+La Primera Sala conocerá:
 
 I. De los recursos de apelación y de queja contra las resoluciones que dicten los jueces de lo civil del distrito de Morelia, así como contra las que pronuncien los jueces de primera instancia de los demás distritos en asuntos de Derecho civil;
 
@@ -315,11 +341,13 @@ VI. De las recusaciones con causa, en asuntos de Derecho Civil, de los jueces de
 
 VII. De los conflictos que con motivo de excusas y recusaciones sin causa se susciten, en asuntos de Derecho Civil, entre los jueces de primera instancia.
 
-Estas salas conocerán, en orden numérico ascendente, de las excusas y recusaciones con causa de sus titulares, excepto de las mencionadas en el artículo 8o., fracción III, de esta Ley; pero si se trata del magistrado de la tercera sala, conocerá el de la primera.
+> <small>(DEROGADO, ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 20.
 
-Las salas cuarta y quinta conocerán por turno, en el orden que señala el artículo anterior:
+La Segunda Sala conocerá:
 
 I. De los recursos de apelación y de queja contra las resoluciones que dicten los jueces de lo familiar del Distrito de Morelia, así como contra las que pronuncien los jueces de primera instancia de los demás distritos en asuntos de Derecho Familiar:
 
@@ -333,13 +361,15 @@ V. De las cuestiones de competencia y acumulación que se susciten, en asuntos d
 
 VI. De las recusaciones con causa, en asuntos de Derecho Familiar, de los jueces de primera instancia; y
 
-VII. De los conflictos que con motivo de excusas y recusaciones sin causa se susciten, en asuntos de Derecho Familia, entre los jueces de primera instancia.
+VII. De los conflictos que con motivo de excusas y recusaciones sin causa se susciten, en asuntos de Derecho Familiar, entre los jueces de primera instancia.
 
-Las mismas salas conocerán, recíprocamente, de las excusas y recusaciones con causa de sus titulares, excepto de las mencionadas en el artículo 8o., fracción III, de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 21.
 
-Las salas penales conocerán por turno, conforme al orden en que se reciba cada expediente:
+La Tercera Sala conocerá:
 
 I. De los recursos de apelación y de queja contra las resoluciones que en asuntos penales dicten los jueces de primera instancia;
 
@@ -349,51 +379,171 @@ III. De las cuestiones de competencia, acumulación, excusas y recusaciones con 
 
 IV. De las quejas que por incumplimiento de exhortos en materia penal se formulen contra los jueces de primera instancia.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 22.
 
-Los tres primeros magistrados supernumerarios conocerán de los asuntos de Derecho Civil, en el orden de su designación, cuando todos los propietarios de las salas a que se refiere el artículo 19 sean recusados o se encuentren impedidos. Si los dos magistrados propietarios de las salas a que alude el artículo 20 son recusados o se encuentran impedidos, los supernumerarios que hayan sido designados en cuarto y quinto lugar conocerán, por su orden, de los asuntos de derecho Familiar.
+Para la resolución de los asuntos a que se refieren los artículos 19, 20, 21, se observarán las reglas siguientes:
 
-Si todos los magistrados propietarios de las salas penales son recusados o se hallan impedidos, los demás supernumerarios conocerán, en el orden de su designación, de los asuntos penales.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+I. Agotado el trámite legal, la Presidencia de la Sala turnará el expediente dentro del término de cinco días al magistrado relator;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+II. El relator deberá formular dentro de los quince días siguientes, en forma de sentencia, proyecto de resolución, del cual distribuirá copia entre los demás magistrados de la Sala en funciones. Sólo cuando por la importancia del asunto o por lo voluminoso del expediente estime que el mencionado lapso no es suficiente para formular proyecto, la Sala se lo ampliará por el término que sea necesario;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III. Hecha la distribución del proyecto, la Secretaría de Acuerdos de la Sala listará el asunto cuando menos un día antes al de la sesión ordinaria en que será visto;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+IV. El día de la sesión, la Secretaría Auxiliar dará cuenta con el proyecto en el orden de la lista y el Presidente lo pondrá a discusión, salvo que la Sala acuerde que se aplace la vista del mismo para mejor estudio;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+V. Si a juicio de los magistrados presentes estuviese suficientemente discutido el asunto, la Secretaría auxiliar tomará la votación y el Presidente, acto continuo, declarará el sentido se la resolución; pudiendo formular su voto particular el magistrado que no estuviere conforme con la misma;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VI. Si. el proyecto no fuere aprobado, pero el magistrado relator aceptare las adiciones o reformas propuestas por la mayoría, él mismo redactará la resolución en los términos de la discusión; si no las acepta, se designará a un magistrado de la mayoría para que la redacte;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VII. Concluida la sesión, la Secretaría de Acuerdos de la Sala elaborará y firmará una lista de los asuntos que se hubiesen tratado, expresando el sentido de la resolución dictada en cada uno de ellos; debiendo fijar tal lista en la forma señalada por la fracción VIII de artículo 51; Y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VIII. Las resoluciones serán firmadas dentro del término de quince días por el Presidente de la Sala, los demás magistrados que hubiesen concurrido a la sesión, y el Secretaría de Acuerdos de la misma.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO IV BIS. PRESIDENCIA DE LAS SALAS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 1o.
+
+bis. Cada Sala elegirá, de entre los magistrado que la componen, un Presidente que durará en su encargo un uño y podrá ser reelecto. La elección se hará en la primera sesión de cada período constitucional.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 2o.
+
+bis. Son atribuciones de los Presidentes de las Salas:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+I. Dirigir los debates y conservar el orden durante las audiencias;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+II. Regular el turno de los asuntos entre los magistrados que integren la Sala y autorizar las listas de los que deban resolverse en las sesiones;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III. Dictar los trámites que procedan en los asuntos de la competencia de la Sala respectiva.
+
+Las providencias y acuerdos de los Presidentes de las Salas pueden ser reclamados ante la Sala respectiva, dentro del término de tres días, siempre que la reclamación sea presentada por parte legítima y con motivo fundado.
+
+En caso de que el presidente de la Sala estime dudoso o trascendental algún trámite, dispondrá que el secretario respectivo de cuenta a la misma, para que ésta decida lo que estime procedente;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+IV. Llevar la correspondencia oficial de la Sala;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+V. Vigilar la regularidad de las labores de la Sala y las de los secretarios y empleados correspondientes, dictando al efecto los acuerdos oportunos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VI. Corregir las faltas en que incurran los empleados de la sea cuando, a su juicio, no sean de aquellas cuyo conocimiento competa el Presidente del Supremo Tribunal o al Pleno, pues, en estos casos, las pondrá en conocimiento de dicho Presidente;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VII. Dar aviso al Presidente del Supremo Tribunal de Justicia de los casos en que haya necesidad de completar la integración de la Sala conforme a esta Ley; y
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VIII. Ejercer las demás facultades que determine el Reglamento Interior del Supremo Tribunal o que provengan de cualquier otra disposición.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 3o.
+
+bis. Las audiencias de las Salas se celebrarán por lo menos una vez a la semana y serán públicas, salvo los casos en que la moral o el interés público exijan que sean privadas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 4o.
+
+bis. Las resoluciones de las Salas se tomaran por unanimidad o mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan estado presentes durante la discusión del asunto de que se trate. Para la firma de las actas y de las resoluciones, en su caso, se estará a lo que disponen los artículos 12 y 13 de esta Ley.
+
+Si no estuvieren presentes los cinco magistrados, por ausencia accidental de alguno de ellos, solamente se pedirá a la Presidencia del Supremo Tribunal que designe al Magistrado Supernumerario a quien corresponda el turno para que integre la Sala cuando ésta, por virtud de la ausencia, no pueda funcionar legalmente dentro de un plazo de diez días.
+
+Si estando presentes los cinco magistrados que integran la Sala, no hubiere mayoría en la votación de algún asunto, continuará la discusión en la sesión siguiente; y si al repetirse la votación tampoco se obtuviese, se entenderá desechado el proyecto y el Presidente de la Sala pasará el asunto a otro magistrado para que en el plazo que le fije la misma, presente un nuevo proyecto de resolución de acuerdo con las exposiciones hechas durante las discusiones.
+
+Si a pesar de lo previsto en el párrafo anterior, no hubiere mayoría en la votación del asunto, el Presidente del Supremo Tribunal nombrará a un magistrado supernumerario para que concurra a la sesión siguiente a emitir su voto en el asunto que se está discutiendo. Si con motivo de la intervención de dicho magistrado, tampoco hubiere mayoría, pasará el asunto al Supremo Tribunal de Justicia, funcionando en Pleno, para que resuelva lo procedente. Será magistrado ponente ante el Pleno, el que lo hubiere sido por última vez en el asunto ante la Sala.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 5o.
+
+bis. Las Salas conocerán de las excusas, impedimentos o recusaciones de los magistrados que las integran, siempre que no se refieran a más de uno de ellos, pues en tal caso, la calificación se hará por el Pleno.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 6o.
+
+bis. Si la excusa, el impedimento o la recusación procedieren, solamente se pedirá al Pleno que designe otro u otros magistrados, cuando, por virtud de la excusa, impedimento o recusación en determinado asunto de que conozca alguna Sala, ésta no pueda funcionar legalmente dentro de un plazo de diez días.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 7o.
+
+bis. Las Salas del Supremo Tribunal de Justicia tendrán la facultad que al Pleno confiere el artículo 9o. fracción XVI de esta Ley, en los asuntos de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 8o.
+
+bis. La jurisprudencia que establezca el Supremo Tribunal de Justicia, funcionando en Pleno, es obligatoria para el mismo, para las salas y para los jueces de primera instancia, municipales y de tenencia. La que establezcan las Salas, solo será obligatoria para la que la sustente y para los jueces de primera instancia, municipales y de tenencia.
+
+Las ejecutorias constituirán jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco sentencias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por nueve magistrados, si se trata de jurisprudencia del Pleno, o por cuatro magistrados en los casos de jurisprudencia de las Salas.
+
+También constituyen jurisprudencia las tesis que diluciden las contradicciones de sentencias de Salas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+###### Artículo 9o.
+
+bis. La jurisprudencia se interrumpe, dejando de tener carácter obligatorio, siempre que se pronuncie ejecutoria en contrario por nueve magistrados, si se trata de la sustentada por el Pleno; por cuatro, si es de una Sala.
+
+En todo caso, en la ejecutoria respectiva deberán expresarse las razones en que se apoye la interrupción las cuales se referirán a las que tuvieron en consideración para establecer la jurisprudencia relativa.
+
+Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas por esta Ley para su formación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+Artículo 10 bis. La jurisprudencia del Pleno y de las Salas no será obligatoria cuando se oponga a la de la Suprema Corte de Justicia o a la del Tribunal Colegiado de Circuito que tenga jurisdicción en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+Artículo 11 bis. En el caso previsto por el artículo 8o. bis, el Pleno o la Sala aprobarán la tesis jurisprudencial y ordenarán su publicación en el boletín judicial correspondiente. Lo mismo deberá hacerse con las tesis que interrumpan o modifiquen la jurisprudencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+Artículo 12 bis. Cuando las Salas del Supremo Tribunal de Justicia sustenten tesis contradictorias en los asuntos de su competencia, cualquiera de esas Salas, el Procurador General de Justicia del Estado o las partes que intervinieron en los asuntos en que tales tesis hubieren sido sustentadas, podrán denunciar la contradicción ante el mismo Supremo Tribunal de Justicia, el que decidirá, funcionando en Pleno, qué tesis debe observarse. El Procurador General de Justicia del Estado, por sí o por conducto del agente que al efecto designe, podrá, si lo estima pertinente, exponer su parecer dentro del plazo de diez días.
+
+La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en los asuntos en que fueron pronunciadas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+Artículo 13 bis. Cuando las partes invoquen en un asunto la jurisprudencia del Pleno o de las Salas del Supremo Tribunal, lo harán por escrito, expresando el sentido de aquella y señalando con precisión las ejecutorias que la sustenten.
 
 ### CAPITULO V. COMISIONES
-
-###### ARTICULO 1o.
-
-Esta Ley entrará en vigor el día 30 de agosto de 1982, previa su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO 2o.
-
-Desde esa misma fecha, quedará derogada la Ley Orgánica del Poder Judicial expedida el 8 de agosto de 1980, con las salvedades del artículo siguiente. No se comprenden en esta derogación: el artículo cuarto transitorio de la ley que se deroga, ni los artículos segundo, tercero, cuarto y quinto transitorios del Decreto de Reformas número 42, publicado en el Periódico Oficial el 15 de junio de 1981.
-
-###### ARTICULO 3o.
-
-En tanto se expiden los Reglamentos del Archivo del Poder Judicial, de Visitas y de la Biblioteca, continuarán vigentes los artículos 12 fracción XXI, 17 fracción IX, 41 fracciones IV y VI, y 56 fracción III de la Ley que se deroga, así como los capítulos XI, XV, XVI y XVII de la misma.
-
-###### ARTICULO 4o.
-
-El Supremo Tribunal de Justicia fijará oportunamente la fecha de la instalación de la quinta sala civil; asimismo fijará la fecha en que empezarán a funcionar tres juzgados de primera instancia de lo civil y dos de lo familiar en el distrito de Morelia, y otro juzgado de primera instancia en el distrito de Lázaro Cárdenas. El acuerdo respectivo será publicado con la debida oportunidad en el Periódico Oficial.
-
-###### ARTICULO 5o.
-
-Una vez instalada la quinta sala civil, el Supremo Tribunal dictará las reglas conforme a las cuales se distribuirán, entre las cinco salas civiles, los asuntos que obren en las cuatro ya existentes; mientras tanto, los asuntos seguirán tramitándose y resolviéndose en las salas donde radican.
-
-###### ARTICULO 6o.
-
-Al empezar a funcionar, en el distrito de Morelia, tres juzgados de primera instancia de lo civil y dos de lo familiar, el Supremo Tribunal determinará cuál o cuáles de los juzgados civiles ya existentes cambiarán de denominación y dictará, conforme a lo dispuesto en el artículo anterior, las reglas que se observarán para la distribución de los asuntos entre ellos.
-
-###### ARTICULO 7o.
-
-Se faculta al Supremo Tribunal de Justicia para que dicte las reglas conforme a las cuales se remitirán, de los juzgados de primera instancia a los municipales, y de éstos a los de tenencia, los asuntos que por razón de cuantía o materia no son ya de su competencia; entre tanto, se observará la regla señalada en el 5o. de estos artículos transitorios. El acuerdo que sobre el particular dicte el Supremo Tribunal, será igualmente publicado con la debida oportunidad en el Periódico Oficial.
-
-###### ARTICULO 8o.
-
-Para la efectividad y cumplimiento de la presente Ley, el Supremo Tribunal expedirá a la brevedad posible su Reglamento Interior, así como los del Archivo del Poder Judicial, de Visitas, de la Biblioteca y de Escalafón, igualmente expedirá, al instalar el Instituto de Especialización Judicial, el reglamento de éste.
-
-###### ARTICULO 9o.
-
-El Supremo Tribunal establecerá las bases que regirán el turno de los juzgados y el funcionamiento, cuando la tengan, de su oficina común de correspondencia.
-
-### CAPITULO I. DIVISION TERRITORIAL
 
 ###### ARTICULO 23.
 
@@ -409,7 +559,7 @@ Las comisiones permanentes tendrán las funciones que señalen los reglamentos, 
 
 ## TITULO TERCERO. JUZGADOS DE PRIMERA INSTANCIA
 
-### CAPITULO II. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE PRIMERA INSTANCIA
+### CAPITULO I. DIVISION TERRITORIAL
 
 ###### ARTICULO 26.
 
@@ -461,7 +611,7 @@ XXII. DISTRITO DE ZINAPECUARO, con jurisdicción en los municipios de Alvaro Obr
 
 XXIII. DISTRITO DE ZITACUARO, con Jurisdicción en los municipios de Angangueo, Juárez, Jungapeo, Ocampo, Susupuato, Tuxpan, Tuzantla y Zitácuaro.
 
-### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS MUNICIPALES
+### CAPITULO II. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
 ###### ARTICULO 27.
 
@@ -472,6 +622,10 @@ Los juzgados de lo penal de los distritos de Morelia, Apatzingán, Uruapan y Zam
 En los distritos de La Piedad, Lázaro Cárdenas y Zitácuaro, habrá dos juzgados de primera instancia, y, en los demás distritos judiciales, habrá por lo menos uno. Estos juzgados conocerán, indistintamente, de asuntos de lo civil, de lo familiar y de lo penal.
 
 Cuando en un mismo distrito judicial existan dos o más juzgados de primera instancia, éstos serán designados por número ordinal, empezando por el "Primero"; pero en donde los haya para conocer por materias, llevarán numeración independiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+El Supremo Tribunal de Justicia podrá nombrar jueces de primera instancia supernumerarios, que auxilien las labores de los juzgados donde hubiere recargo de negocios, a fin de obtener que la administración de justicia sea pronta y expedita. En tal caso, creerá los juzgados correspondientes y determinará su residencia, competencia, atribuciones y forma de distribución de los asuntos.
 
 ###### ARTICULO 28.
 
@@ -539,7 +693,7 @@ En igual forma se hará la designación de la persona que deba substituir al jue
 
 ## TITULO CUARTO. JUZGADOS MUNICIPALES
 
-### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE TENENCIA
+### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS MUNICIPALES
 
 ###### ARTICULO 33.
 
@@ -579,7 +733,7 @@ Los jueces municipales actuarán con el secretario respectivo; sólo por falta d
 
 ## TITULO QUINTO. JUZGADOS DE TENENCIA
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE TENENCIA
 
 ###### ARTICULO 40.
 
@@ -605,7 +759,7 @@ Ningún juez de tenencia podrá ser separado de su cargo sino por causa justific
 
 ## TITULO SEXTO. ARBITROS Y JURADOS
 
-### CAPITULO I. EN EL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 45.
 
@@ -623,15 +777,17 @@ La remuneración a los jurados no será inferior al salario mínimo que rija en 
 
 ## TITULO SEPTIMO. DEPENDENCIAS DEL PODER JUDICIAL
 
-### CAPITULO II. EN LOS JUZGADOS DE PRIMERA INSTANCIA
+### CAPITULO I. EN EL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### ARTICULO 48.
 
 El Supremo Tribunal de Justicia se auxiliará de las siguientes dependencias: Secretaría General de Acuerdos, Subsecretaría de Acuerdos, Oficialía Mayor e Instituto de Especialización Judicial; pudiendo el Supremo Tribunal, para el mejor desempeño de sus funciones, crear cualquier otra dependencia mediante acuerdo administrativo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 49.
 
-La Presidencia y las salas del Supremo Tribunal, así como las dependencias a que se refiere el artículo anterior, tendrán el número de empleos que autorice el Presupuesto de Egresos; pero en las salas habrá, necesariamente, una Secretaría de Acuerdos, una Secretaría Auxiliar y una Oficialía.
+La Presidencia del Supremo Tribunal, las Salas y dependencias a que se refiere el artículo anterior, tendrán el número de empleos que autorice el Presupuesto de Egresos; pero en las salas habrá, cuando menos, una Secretaría de Acuerdos, cinco Secretarías Auxiliares, una Oficialía y el personal subalterno que sea necesario. El personal de las Salas será designado por cada una de ellas.
 
 ###### ARTICULO 50.
 
@@ -725,11 +881,17 @@ Las Secretarías de Acuerdos de cada sala tendrán las facultades y obligaciones
 
 I. Cuidar que los demás empleados asistan con puntualidad al despacho y cumplan con sus deberes, poniendo en conocimiento de su superior las faltas que notaren;
 
-II. Recibir los escritos que se dirijan a la sala y dar cuenta con ellos al magistrado en la forma y términos que señalan el Código Procesal Penal y el Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-III. Intervenir, conforme a la ley, en todas las diligencias que practique el magistrado;
+II. Recibir los escritos que se dirijan a la Sala y dar cuenta con ellos al magistrado Presidente, en la forma y términos que señalen el Código Procesal Penal y el Código de Procedimientos Civiles;
 
-IV. Redactar las resoluciones que determine el magistrado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III. Intervenir, conforme a la ley, en todas las diligencias que practique el magistrado Presidente;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+IV. Redactar las resoluciones que determine el magistrado Presidente;
 
 V. Formar y autorizar la lista de las resoluciones que se dicten, de la cual conservarán una copia en el archivo y enviarán otra a la Secretaría General de Acuerdos del Supremo Tribunal;
 
@@ -741,7 +903,7 @@ VIII. Controlar el sello de la sala y hacer uso de él de acuerdo con sus atribu
 
 IX. Redactar la correspondencia oficial conforme a los acuerdos que reciban de su superior y dirigir las labores de la oficina;
 
-X. Expedir las copias simples que soliciten las partes en los negocios y autorizar las certificadas que se expidan por mandato judicial;
+X. Expedir las copias simples que soliciten las partes en los negocios y autorizar las certificadas que se expidan por mandanto judicial;
 
 XI. Tener a su cargo y bajo su responsabilidad el archivo de la sala;
 
@@ -749,35 +911,45 @@ XII. Cuidar que el oficial asiente, en los libros de registro, los datos que pro
 
 XIII. Reunir los datos estadísticos necesarios para los informes que deban proporcionarse;
 
-XIV. Encargarse del despacho en los términos de esta Ley;
+XIV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
 
-XV. Autorizar con su firma las resoluciones y actuaciones del magistrado; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XVI. Las demás que determinen las leyes, los reglamentos o el magistrado.
+XV. Autorizar con su firma las resoluciones y actuaciones del magistrado Presidente; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XVI. Las demás que determinen las leyes, reglamentos, el Magistrado Presidente o la Sala.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 56.
 
-Las Secretarías Auxiliares de las salas elaborarán los proyectos de resolución que les encomiende el magistrado.
+Las Secretarías Auxiliares de las Salas elaborarán los proyectos de resolución que les encomienden los Magistrados correspondientes.
 
 ###### ARTICULO 57.
 
-La Oficialía de cada sala tendrá las facultades y obligaciones siguientes:
+La Oficialía de cada Sala tendrá las facultades y obligaciones siguientes:
 
-I. Cumplimentar las resoluciones del magistrado, cuando ello deba tener lugar fuera del local de la sala y no esté encomendado especialmente a otro empleado;
+I. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
 
 II. Llevar los libros de registro, anotando en ellos los datos que sean necesarios; y
 
-III. Realizar las demás actividades que le encomienden el magistrado o el secretario de acuerdos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III. Realizar las demás actividades que le encomienden el magistrado Presidente o el Secretario de Acuerdos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 58.
 
-A los notificadores del Supremo Tribunal corresponde hacer los emplazamientos, notificaciones personales y citaciones en los asuntos de que conozcan el Pleno, la Presidencia o las salas.
+A los notificadores del Supremo Tribunal corresponde hacer los emplazamientos, notificaciones personales y citaciones en los asuntos de que conozcan el Pleno, la Presidencia del Tribunal, las Salas o la Presidencia de éstas.
 
 ###### ARTICULO 59.
 
 Las demás dependencias, funcionarios y empleados del Supremo Tribunal, de la Presidencia y de las salas, desempeñarán las labores y comisiones que fijen los reglamentos o les encomienden sus superiores.
 
-### CAPITULO III. EN LOS JUZGADOS MUNICIPALES
+### CAPITULO II. EN LOS JUZGADOS DE PRIMERA INSTANCIA
 
 ###### ARTICULO 60.
 
@@ -827,7 +999,7 @@ III. Desempeñar las demás actividades que les encomienden los jueces o los sec
 
 Los demás empleados auxiliarán a los jueces, secretarios y actuarios, en las labores que los mismos les encomienden.
 
-### CAPITULO I. EXCITATIVAS DE JUSTICIA
+### CAPITULO III. EN LOS JUZGADOS MUNICIPALES
 
 ###### ARTICULO 65.
 
@@ -851,17 +1023,19 @@ Los demás empleados de los juzgados municipales auxiliarán a los jueces, secre
 
 EXCITATIVAS DE JUSTICIA. AUSENCIAS Y SUBSTITUCIONES. LICENCIAS Y VACACIONES. FALTAS Y SANCIONES. DISPOSICIONES COMPLEMENTARIAS.
 
-### CAPITULO II. AUSENCIAS Y SUBSTITUCIONES
+### CAPITULO I. EXCITATIVAS DE JUSTICIA
 
 ###### ARTICULO 69.
 
 Las excitativas de justicia tienen por objeto competer a los magistrados y a los jueces para que administren pronta y cumplida justicia, cuando aparezca que han dejado transcurrir los términos legales sin dictar las resoluciones que correspondan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 70.
 
 Las excitativas de justicia contra los magistrados y los jueces de primera instancia se promoverán por escrito ante el Presidente del Supremo Tribunal, quien pedirá informe con justificación a dichos funcionarios y les señalará un término que no excederá de cinco días para que lo rindan. La falta de informe establece la presunción de ser cierta la omisión motivo de la excitativa, y se sancionará con multa de cien a quinientos pesos.
 
-El Presidente, concluido el término, dictará resolución o dará cuenta al Pleno para que éste resuelva lo que proceda, según que la excitativa se promueva contra los jueces o contra los magistrados. La resolución. en este último caso, será engrosada por el Presidente.
+El Presidente, concluido el término, dictará resolución o dará cuenta al Pleno para que éste resuelva lo que proceda. La resolución, será engrosada por el Presidente.
 
 ###### ARTICULO 71.
 
@@ -869,9 +1043,11 @@ Las excitativas de Justicia contra los jueces municipales y de tenencia se promo
 
 En estos casos se seguirá, en lo conducente, el procedimiento señalado por el artículo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 72.
 
-El Pleno del Supremo Tribunal, el Presidente de éste y los jueces de primera instancia, resolverán las excitativas con informe o sin él dentro de los tres días siguientes al vencimiento del plazo señalado para rendirlo. Cuando a juicio de estas autoridades haya mediado motivo racional e insuperable para el no pronunciamiento de la resolución, la excitativa será declarada improcedente.
+El Pleno del Supremo Tribunal y los jueces de primera instancia, resolverán las excitativas con informe o sin él dentro de los tres días siguientes al vencimiento del plazo señalado para rendirlo. Cuando a juicio de estas autoridades haya mediado motivo racional e insuperable para el no pronunciamiento de la resolución, la excitativa será declarada improcedente.
 
 ###### ARTICULO 73.
 
@@ -879,7 +1055,7 @@ Cuando la excitativa de justicia sea procedente, se impondrá al responsable amo
 
 Si la excitativa se denegare por carecer de fundamento, la autoridad que la resuelva aplicará al peticionario multa de cien a mil pesos.
 
-### CAPITULO III. LICENCIAS Y VACACIONES
+### CAPITULO II. AUSENCIAS Y SUBSTITUCIONES
 
 ###### ARTICULO 74.
 
@@ -889,15 +1065,19 @@ Son ausencias temporales, las motivadas por licencia, suspensión de empleo, vac
 
 Son ausencias definitivas, las originadas por renuncia, abandono de empleo, destitución o muerte.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 75.
 
-Las ausencias temporales y definitivas de los magistrados se suplirán con arreglo a lo dispuesto en el artículo 74 de la Constitución Política del Estado, y, las accidentales, por los secretarios de acuerdos de las salas, quienes estarán facultados para continuar la tramitación de los asuntos, no así para resolver cuestiones incidentales o definitivas salvo los incidentes de libertad provisional bajo caución. La misma facultad tendrán los secretarios tratándose de ausencias temporales y definitivas de los magistrados, en tanto no se presenten las personas que deban substituir a éstos.
+Las ausencias temporales y definitivas de los magistrados se suplirán con arreglo a lo dispuesto en el artículo 74 de la Constitución Política del Estado, y, las accidentales, con sujeción a la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 76.
 
-El Presidente del Supremo Tribunal será substituido en las ausencias accidentales, en las temporales y en los casos de impedimento, por el magistrado que oportunamente designe el Pleno; si también este último faltare, el de la sala que le siga en orden numérico ascendente asumirá la Presidencia y así sucesivamente, salvo que eI de la última sala en el citado orden, correspondiéndole la substitución, esté ausente, pues en tal caso será substituto el de la primera. El Presidente substituto continuará adscrito a su sala.
+El Presidente del Supremo Tribunal será substituido en las ausencias accidentales, en las temporales y en los casos de impedimento, por el magistrado que oportunamente designe el Pleno. El mismo magistrado lo suplirá en las ausencias definitivas hasta que el Congreso nombre al nuevo magistrado. Una vez que éste tome posesión, se elegirá al Presidente que completará el período para el que substituido fue electo. El Presidente Substituto continuará adscrito a su Sala.
 
-En las ausencias definitivas del Presidente, el Pleno designará uno interino que durará en el cargo hasta que el Congreso nombre al nuevo magistrado. Una vez que éste tome posesión, se elegirá al Presidente que completará el período para el que el substituido fue electo.
+Los Presidentes de las Salas serán suplidos en sus ausencias accidentales o en las temporales por los demás magistrados de la misma Sala, en el orden de su designación.
 
 ###### ARTICULO 77.
 
@@ -905,9 +1085,13 @@ En las ausencias accidentales, en las temporales y en las definitivas en tanto n
 
 I. La del Secretario General de Acuerdos del Supremo Tribunal, por el Subsecretario de Acuerdos;
 
-II. La de los secretarios de acuerdos de las salas y de los notificadores adscritos a éstas, por los oficiales de las mismas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-III. La de los oficiales de las salas, por los escribientes que determinen los magistrados;
+II. La de los Secretarios de Acuerdos de las Salas por otro de ellos, y la de los notificadores adscritos a las Salas, por los oficiales de las mismas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III. La de los oficiales de las Salas, por los escribientes que determine el Magistrado Presidente;
 
 IV. La de los jueces de primera instancia, por los secretarios de los juzgados; y en los que hubiere dos o más, por el de mayor antigüedad en el servicio;
 
@@ -933,29 +1117,45 @@ En los casos no previstos por esta Ley, será substituto el empleado de mayor je
 
 Las percepciones de los substitutos no serán incrementadas, excepto cuando los secretarios de los juzgados sean autorizados para fallar en definitiva y los jueces substituidos obtuvieren licencia sin goce de sueldo, pues en este caso, los secretarios percibirán el sueldo del juez.
 
-### CAPITULO IV. FALTAS Y SANCIONES
+### CAPITULO III. LICENCIAS Y VACACIONES
 
 ###### ARTICULO 81.
 
 Las licencias de los magistrados se regirán por lo que dispone el artículo 44, fracción XXI, de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 82.
 
-Los magistrados y jueces de primera instancia, el Presidente del Supremo Tribunal y el Pleno de éste, podrán conceder licencias con goce de sueldo en los siguientes casos:
+Los jueces de primera instancia, el Presidente del Supremo Tribunal y el Pleno de éste, podrán conceder licencias con goce de sueldo en los siguientes casos:
 
-I. Los magistrados y los jueces de primera instancia, a sus subalternos, hasta por cinco días;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-II. El Presidente del Supremo Tribunal, a los jueces del Estado y a los funcionarios y empleados cuyo nombramiento dependa de la Presidencia o del Pleno, hasta por diez días; y a los demás empleados del Poder Judicial, por más de cinco y hasta por diez días; y
+I. Los jueces de primera instancia, a sus subalternos, hasta por cinco días;
 
-III. El Pleno del Supremo Tribunal, a los jueces y demás funcionarios y empleados del Poder Judicial, por más de diez y hasta por quince días.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+II. Los Presidentes de la Salas, al personal de las mismas, hasta por quince días.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III. El Presidente del Supremo Tribuna, a los jueces del Estado y a los funcionarios y empleados cuyo nombramiento dependa de la Presidencia o del Pleno, hasta por diez días; y a los demás empleados del Poder Judicial, excepto a los de las Salas, por más de cinco y hasta diez días; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+IV. El Pleno del Supremo Tribunal, a los jueces y demás funcionarios y empleados del Poder Judicial, excepto a los de las Salas, por más de diez y hasta por quince días.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 83.
 
-Las licencias sin goce de sueldo podrán concederse en los términos del artículo anterior, ampliándose la facultad del Presidente para conceder aquellas que no excedan de un mes, y, la facultad del Pleno, para conceder las que excedan de ese lapso pero no del de seis meses.
+Las licencias sin goce de sueldo podrán concederse en los términos del artículo anterior, ampliándose la facultad del Presidente del Tribunal para conceder aquellas que no excedan de un mes, y, la facultad del Pleno, para concederlas hasta por seis mese, incluso al personal de las Salas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 84.
 
-Las licencias, con o sin goce de sueldo, sólo podrán concederse una vez al año, quedando abolida la práctica de concederlas sucesivamente. Las que otorguen el Presidente o el Pleno del Supremo Tribunal a los funcionarios y empleados cuyo nombramiento no dependa de aquellos, deberán estar precedidas de la anuencia del titular de la oficina respectiva, quien si no estuviere de acuerdo en que se concedan, expresará los motivos de su inconformidad.
+Las licencias, con o sin goce de sueldo, sólo podrán concederse una vez al año, quedando abolida la práctica de concederlas sucesivamente. Las que otorguen el Presidente o el Pleno del Supremo Tribunal a los funcionarios o empleados cuyo nombramiento no dependa de aquellos, así como las que los Presidentes de las salas otorguen a los funcionarios o empleados adscritos a los magistrados, deberán estar precedidas de la anuencia del titular de la oficina respectiva, quien si no estuviere de acuerdo en que se concedan, expresará los motivos de su inconformidad.
 
 ###### ARTICULO 85.
 
@@ -965,7 +1165,9 @@ Para que una licencia pueda concederse deberá existir motivo justificado a juic
 
 Los magistrados del Supremo Tribunal podrán dejar de asistir al despacho hasta por quince días, Sin mengua de su sueldo; pero para ello será necesario que obtengan autorización del Pleno o del Presidente; si se trata de este últitmo (sic), bastará con que lo comunique al magistrado que deba substituirlo.
 
-La autorización a que se refiere este artículo no será concedida al mismo tiempo a más de dos magistrados, salvo cuando el Supremo Tribunal acuerde trasladarse en Pleno fuera de la ciudad de Morelia o cuando los magistrados tengan que ausentarse para desempeñar alguna comisión relacionada con el servicio.
+> <small>(ADICIONADO, ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+La autorización a que se refiere este artículo no será concedida al mismo tiempo a más de dos magistrados por Sala, salvo cuando el Supremo Tribunal acuerde trasladarse en Pleno fuera de la ciudad de Morelia o cuando los magistrados tengan que ausentarse para desempeñar alguna comisión relacionada con el servicio.
 
 ###### ARTICULO 87.
 
@@ -975,7 +1177,7 @@ Los funcionarios y empleados del Poder Judicial disfrutarán de dos períodos de
 
 Al fijar los períodos de vacaciones, se tomarán las medidas necesarias para que en los juzgados que tramiten asuntos penales no se suspendan totalmente las labores y en ninguno se deje de atender los negocios urgentes.
 
-### CAPITULO VI (sic). DISPOSICIONES COMPLEMENTARIAS
+### CAPITULO IV. FALTAS Y SANCIONES
 
 ###### ARTICULO 89.
 
@@ -1023,7 +1225,9 @@ IX. Ausentarse del lugar de su residencia, sin la autorización respectiva, en d
 
 Se consideran faltas de los magistrados, además:
 
-I. No asistir a las sesiones del Pleno del Supremo Tribunal o desintegrar el quórum, sin causa justificada; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+I. No asistir a las sesiones del Pleno o de las Salas, o desintegrar el quórum, sin causa justificada; y
 
 II. Intervenir en el nombramiento del personal subalterno de los juzgados de primera instancia, o hacer presión ante los jueces para que el nombramiento recaiga en persona determinada.
 
@@ -1087,9 +1291,11 @@ Las sanciones serán impuestas por quien haya expedido el nombramiento respectiv
 
 El Presidente o el Pleno impondrán a los funcionarios y empleados del Supremo Tribunal, cualquiera que sea la oficina a la que estén adscritos y sea cual fuere la autoridad que les haya expedido el nombramiento, las sanciones que procedan por las faltas señaladas en la fracción I del artículo 89. A juicio del Presidente, las sanciones que imponga serán sometidas a la consideración del Pleno para que éste las confirme, revoque o modifique.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 99.
 
-Siempre que los magistrados o los jueces impongan sanciones, informarán por escrito a la Presidencia del Supremo Tribunal para que la comunicación se agregue al expediente del empleado y se haga la anotación respectiva en su hoja de servicio.
+Siempre que se impongan sanciones, se informará por escrito a la Oficialía Mayor del Supremo Tribunal para que la comunicación se agrega al expediente del empleado y se haga la anotación respectiva en su hoja de servicio.
 
 ###### ARTICULO 100.
 
@@ -1110,6 +1316,8 @@ Las sanciones a que se refiere este capítulo, que se entenderán impuestas sin 
 ###### ARTICULO 104.
 
 Contra las determinaciones que se tomen con fundamento en los artículos de este capítulo, no cabe recurso alguno.
+
+### CAPITULO VI (SIC). DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTICULO 105.
 
@@ -1215,6 +1423,42 @@ Cuando a algún juez, funcionario o empleado del Poder Judicial, se le designe o
 
 ## TRANSITORIOS
 
+###### ARTICULO 1o.
+
+Esta Ley entrará en vigor el día 30 de agosto de 1982, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2o.
+
+Desde esa misma fecha, quedará derogada la Ley Orgánica del Poder Judicial expedida el 8 de agosto de 1980, con las salvedades del artículo siguiente. No se comprenden en esta derogación: el artículo cuarto transitorio de la ley que se deroga, ni los artículos segundo, tercero, cuarto y quinto transitorios del Decreto de Reformas número 42, publicado en el Periódico Oficial el 15 de junio de 1981.
+
+###### ARTICULO 3o.
+
+En tanto se expiden los Reglamentos del Archivo del Poder Judicial, de Visitas y de la Biblioteca, continuarán vigentes los artículos 12 fracción XXI, 17 fracción IX, 41 fracciones IV y VI, y 56 fracción III de la Ley que se deroga, así como los capítulos XI, XV, XVI y XVII de la misma.
+
+###### ARTICULO 4o.
+
+El Supremo Tribunal de Justicia fijará oportunamente la fecha de la instalación de la quinta sala civil; asimismo fijará la fecha en que empezarán a funcionar tres juzgados de primera instancia de lo civil y dos de lo familiar en el distrito de Morelia, y otro juzgado de primera instancia en el distrito de Lázaro Cárdenas. El acuerdo respectivo será publicado con la debida oportunidad en el Periódico Oficial.
+
+###### ARTICULO 5o.
+
+Una vez instalada la quinta sala civil, el Supremo Tribunal dictará las reglas conforme a las cuales se distribuirán, entre las cinco salas civiles, los asuntos que obren en las cuatro ya existentes; mientras tanto, los asuntos seguirán tramitándose y resolviéndose en las salas donde radican.
+
+###### ARTICULO 6o.
+
+Al empezar a funcionar, en el distrito de Morelia, tres juzgados de primera instancia de lo civil y dos de lo familiar, el Supremo Tribunal determinará cuál o cuáles de los juzgados civiles ya existentes cambiarán de denominación y dictará, conforme a lo dispuesto en el artículo anterior, las reglas que se observarán para la distribución de los asuntos entre ellos.
+
+###### ARTICULO 7o.
+
+Se faculta al Supremo Tribunal de Justicia para que dicte las reglas conforme a las cuales se remitirán, de los juzgados de primera instancia a los municipales, y de éstos a los de tenencia, los asuntos que por razón de cuantía o materia no son ya de su competencia; entre tanto, se observará la regla señalada en el 5o. de estos artículos transitorios. El acuerdo que sobre el particular dicte el Supremo Tribunal, será igualmente publicado con la debida oportunidad en el Periódico Oficial.
+
+###### ARTICULO 8o.
+
+Para la efectividad y cumplimiento de la presente Ley, el Supremo Tribunal expedirá a la brevedad posible su Reglamento Interior, así como los del Archivo del Poder Judicial, de Visitas, de la Biblioteca y de Escalafón, igualmente expedirá, al instalar el Instituto de Especialización Judicial, el reglamento de éste.
+
+###### ARTICULO 9o.
+
+El Supremo Tribunal establecerá las bases que regirán el turno de los juzgados y el funcionamiento, cuando la tengan, de su oficina común de correspondencia.
+
 ###### ARTICULO 10.
 
 El propio Supremo Tribunal fijará las normas conforme a las cuales se aplicarán las sanciones señaladas en el articulo 94 de esta Ley, por impuntualidad de los funcionarios y empleados del Poder Judicial a sus labores, por no asistir a ellas, o por ausentarse de las mismas durante el horario de trabajo.
@@ -1228,3 +1472,57 @@ DIPUTADO PRESIDENTE.- DR. EDUARDO PLIEGO MARGAIN.- DIPUTADO SECRETARIO. LIC. JER
 Por tanto mando, se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich, a 12 de julio de 1982.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO.- DR. ROBERTO ROBLES GARNICA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1985.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Supremo Tribunal de Justicia fijará oportunamente la fecha de instalación y funcionamiento de las Salas Colegiadas; determinará la adscripción de los magistrados que las integrarán observando al efecto lo dispuesto en el artículo 9o. fracción II, de esta Ley, y ordenará que los nombres de los componentes de cada Sala sean publicados en el Periódico Oficial del Estado.
+
+Por esta única vez, cada Sala elegirá a su Presidente tan luego como se haga la adscripción de los magistrados y, concluido el presente período constitucional, se estará a lo que establece el artículo 1o. bis. de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez instaladas las Salas Colegiadas, los asuntos existentes en las actuales Salas Unitarias serán remitidos por ésta a aquéllas, conforme a las siguientes bases:
+
+a) Los asuntos que al entrar en vigor este Decreto, están citados para sentencia en las Salas Unitarias Primera, Segunda, Tercera y Cuarta, pasarán a la Segunda Sala Colegiada para su resolución;
+
+b) Los asuntos existentes en las Salas Unitarias Quinta, Sexta, Séptima, Octava y Novena, cuya audiencia final se haya celebrado con anterioridad a la fecha en que entre en vigor este Decreto, pasarán a la Segunda Sala Colegiadas para su resolución;
+
+c) Los asuntos no comprendidos en el inciso a) de este artículo, pasarán, de las Salas Unitarias Primera, Segunda, Tercera y Cuarta, a la Primera Sala Colegiada para su conocimiento y resolución; y
+
+d) Los asuntos no comprendidos en el inciso b) de este artículo, pasarán, de las Salas Unitarias Quinta, Sexta, Séptima, Octava y Novena, a la Tercera Sala Colegiada. para su conocimiento y resolución.
+
+###### ARTÍCULO CUARTO.
+
+La remisión de los asuntos a que se refiere el artículo anterior, se hará mediante lista por separado que firmarán el Magistrado y Secretario de Acuerdos de la respectiva Sala Unitaria, como constancia de entrega, y el Presidente y Secretario de Acuerdos de la Sala Colegiada correspondiente, como constancia de recibo. Las listas se publicarán en los estrados de las Salas.
+
+###### ARTÍCULO QUINTO.
+
+La Segunda Sala Colegiada no ejercerá las funciones específicas que le señala el artículo 20 de esta Ley, sino hasta que termine con el rezago de los asuntos a que se refieren los incisos a) y b) del Artículo Tercero Transitorio del presente Decreto; mientras tanto, los asuntos mencionados en el artículo 20 serán tramitados y resueltos por la Primera Sala Colegiada.
+
+###### ARTÍCULO SEXTO.
+
+Con las publicaciones a que se refieren los Artículos Transitorios Segundo y Cuarto de este Decreto, se tendrá por hecha, pala todos los efectos legales, la notificación personal de que los asuntos de que se trate han quedado radicados en la Sala Colegiada respectiva.
+
+###### ARTÍCULO SEPTIMO.
+
+El Código Procesal Penal, el Código de Procedimientos Civiles y demás disposiciones legales, no serán aplicables en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se instalan las Salas Colegiadas, los asuntos seguirán tramitándose y resolviéndose en las Salas Unitarias donde radican.
+
+###### ARTÍCULO NOVENO.
+
+Se faculta al Pleno del Supremo Tribunal para que en cualquier tiempo distribuya a otra u otras Salas Colegiadas el trabajo de alguna que estuviere retrasada en sus funciones, y, en general, para dictar todas las medidas necesarias a fin de obtener la efectividad en el cumplimiento de las presentes reformas y adiciones.
+
+###### ARTÍCULO DECIMO.
+
+Las facultades y obligaciones señaladas por las leyes a los Magistrados de las Salas Unitarias, en cuanto al trámite y resolución de los asuntos, se entenderán reservadas a los presidentes de las Salas Colegiadas o a éstas, según el caso.
