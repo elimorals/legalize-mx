@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "1997-12-21"
+last_updated: "1999-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -163,7 +163,7 @@ II.- Que la vigilancia y exigibilidad por cantidad líquida del Derecho del Cré
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 1990)</small>
 
-ARTICULO 16o BIS.- En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de Enero, el 5 de Febrero, el 21 de Marzo, el 1o. de Mayo, el 5 de Mayo el 16 de Septiembre, el 12 de Octubre, el 1o. y 20 de Noviembre, el 1o. de Diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de Diciembre, así como los días en que rindan su informe Anual de Actividades los Ejecutivos del Estado y de los Municipios.
+ARTICULO 16 BIS.- En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de Enero, el 5 de Febrero, el 21 de Marzo, el 1o. de Mayo, el 5 de Mayo el 16 de Septiembre, el 12 de Octubre, el 1o. y 20 de Noviembre, el 1o. de Diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de Diciembre, así como los días en que rindan su informe Anual de Actividades los Ejecutivos del Estado y de los Municipios.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones las autoridades fiscales municipales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos, esos días se considerarán hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -179,7 +179,7 @@ Las autoridades fiscales podrán habilitar los días inhábiles, esta circunstan
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 1990)</small>
 
-ARTICULO 16o BIS-1.- La práctica de diligencias por las Autoridades Fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
+ARTICULO 16 BIS-1.- La práctica de diligencias por las Autoridades Fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
 
 Las Autoridades Fiscales para la práctica de visitas domiciliarias del procedimiento administrativo de ejecución y de notificaciones podrán habilitar los días y horas inhábiles cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. Tratándose de contribuyentes sujetos al reglamento sobre venta y consumo de bebidas embriagantes, se considerarán hábiles todos los días del año y las 24 horas del día.
 
@@ -261,9 +261,9 @@ I.- Ordenar la baja de establecimientos comerciales, industriales o de prestaci�
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
 
-II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular;
+II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular.
 
-III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes;
+III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes.
 
 IV.- Declarar, mediante acuerdo escrito, la improcedencia en el cobro de recargos, en los casos señalados en esta Ley;
 
@@ -273,11 +273,11 @@ VI.- Autorizar la matanza de ganado, aves y otras especies, fuera de los rastros
 
 VII.- Otorgar las licencias de funcionamiento de giros;
 
-VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y (sic)
+VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
 
-IX.- Autorizar hasta un 30% de reducción en los créditos fiscales, tomando en consideración las circunstancias específicas de cada caso;
+IX.- Autorizar hasta un 30% de reducción en los créditos fiscales, tomando en consideración las circunstancias específicas de cada caso.
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
 
@@ -679,11 +679,11 @@ IV.- Cuando se pida la devolución ésta deberá efectuarse dentro del plazo de 
 
 La condonación o reducción de los créditos fiscales municipales, excepción hecha de lo previsto por el Art. 62 de este Ordenamiento, solamente procederán por causa de fuerza mayor o calamidades públicas que afecten la situación económica de los sujetos. Para establecer este supuesto, será necesaria la declaración de carácter general expedida por el Ayuntamiento con aprobación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 62o.
 
-Tratándose de personas pensionadas o jubiladas legalmente acreditadas, o mayores de 60 años en precaria situación económica, el Presidente Municipal concederá un 50% de descuento en el monto de los créditos fiscales relativos al Impuesto Predial, al Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, y a los Derechos por Servicio de Agua Potable y Alcantarillado. En el caso de las personas físicas mayores de 60 años, se deberá comprobar su situación económica mediante un estudio socioeconómico que realizará el Municipio correspondiente.
+Tratándose de personas pensionadas o jubiladas legalmente acreditadas, o mayores de 60 años en precaria situación económica, el Presidente Municipal concederá un 50% de descuento en el monto de los créditos fiscales relativos al impuesto predial, al impuesto sobre traslación de dominio de bienes inmuebles y a los derechos por servicio de agua potable y alcantarillado. En el caso de las personas físicas mayores de 60 años, cuando ellos sean propietarios del inmueble y que ellos mismos lo habiten y además comprobar su situación económica mediante un estudio socioeconómico que realizará el municipio correspondiente. Para el municipio de Durango, el descuento al impuesto predial y al impuesto sobre traslación de dominio de bienes inmuebles, será de un 80%.
 
 ###### ARTICULO 63o.
 
@@ -2138,3 +2138,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación, en e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 4 DE MARZO DE 1999.
+
+PRIMERO.- El presente Decreto se aplicará retroactivamente a partir del día 1º (primero) de enero de 1999.
+
+SEGUNDO.- Será la autoridad municipal, por conducto de su dependencia recaudadora, la que establezca los requisitos necesarios para acreditar ser sujeto de los beneficios que contempla el presente decreto.
