@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1988-08-14"
+last_updated: "1990-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1990.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -221,8 +221,6 @@ El Regidor Comisionado de Hacienda goza de las siguientes atribuciones:
 
 I.- Vigilar la marcha administrativa de la recaudación y proporcionar al Ayuntamiento las medidas que estime convenientes para mejorarla;
 
-> <small>N. DE E. CON LA PRESENTE REFORMA SE ELIMINA LA ANTERIOR FRACCION II, RECORRIENDOSE LAS SIGUIENTES.</small>
-
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 II.- Analizar los cortes de caja formulados por la Secretaría de Finanzas, dictaminando lo conducente; y
@@ -231,11 +229,11 @@ II.- Analizar los cortes de caja formulados por la Secretaría de Finanzas, dict
 
 III.- Las demás que le confieren las leyes y reglamentos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1988)</small>
+IV.- Las demás que le otorgue la Ley.
 
 ###### ARTICULO 21.
 
-Son facultades del Secretario de Finanzas:
+La Dirección de Finanzas es el único órgano de recaudación de los ingresos municipales y su titular goza de las siguientes facultades y obligaciones:
 
 I.- Designar a los empleados necesarios para ejecutar el cobro de los créditos fiscales municipales;
 
@@ -319,7 +317,7 @@ b).- La práctica de auditorías a los contribuyentes, así como la obtención d
 
 c).- Se exija en el domicilio de los contribuyentes la exhibición de los elementos comprobatorios de sus operaciones; y
 
-d).- Se efectúen toda clase de investigaciones con los datos, informes o documentos solicitados a los contribuyentes o a los terceros;
+d).- Se efectúen toda clase de investigaciones con los datos, informes o documentos solicitados a los contribuyentes o a los terceros.
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
@@ -464,6 +462,10 @@ III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública,
 IV.- Los créditos originados por Derechos a Prestación de servicio público dado por la autoridad, deberán pagarse por anticipado salvo aquellos en que su monto sólo pueda determinarse después de recibida la prestación; y
 
 V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe el Director de Finanzas, en el momento en que concluya cada función o período de espectáculo o diversión.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1990)</small>
+
+ARTICULO 31 BIS.- La prestación de servicios a que se refiere la expedición de permisos para uso de nichos observándose en su caso las demás disposiciones legales aplicables.
 
 ###### ARTICULO 32.
 
@@ -1616,5 +1618,9 @@ Lic. Joaquín Cruz Ramírez.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE AGOSTO DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 21 DE OCTUBRE DE 1990.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
