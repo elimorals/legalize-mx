@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-clasificacion-de-empresas-y-12529"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-11"
-last_updated: "1998-11-11"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12529&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1998-11-04"
 
 REGLAMENTO PARA LA CLASIFICACION DE EMPRESAS Y DETERMINACION DE LA PRIMA EN EL SEGURO DE RIESGOS DE TRABAJO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACION, CLASIFICACION DE EMPRESAS, RECAUDACION Y FISCALIZACION, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 1 DE NOVIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 11 de noviembre de 1998.
 
@@ -490,3 +492,15 @@ QUINTO. Los patrones que se inscriban o cambien de actividad con posterioridad a
 SEXTO. La fórmula contenida en el artículo 72 de la Ley deberá ser revisada por el Instituto en el segundo semestre del año 2000, conforme al tiempo previsto en el artículo 76 de la propia Ley para el efecto de determinar el factor de prima que permita, en su caso, mantener el equilibrio financiero del Seguro de Riesgos de Trabajo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Salud, Juan Ramón de la Fuente Ramírez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE NOVIEMBRE DE 2002.
+
+Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A la entrada en vigor del presente Reglamento, se abrogan los Reglamentos de Afiliación; de la Seguridad Social para el Campo; del Seguro de Salud para la Familia; para el Pago de Cuotas del Seguro Social y para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos, publicados en el Diario Oficial de la Federación el día 30 de junio de 1997, así como el Reglamento para la Clasificación de Empresas y Determinación de la Prima en el Seguro de Riesgos de Trabajo, publicado en el Diario Oficial de la Federación el día 11 de noviembre de 1998.
+
+Los procedimientos o instancias iniciados bajo la vigencia de los reglamentos que se abrogan, seguirán tramitándose hasta su conclusión en los términos previstos del reglamento que corresponda.
+
+Se derogan todas aquellas disposiciones de carácter administrativo y técnico que se opongan al presente Reglamento.
