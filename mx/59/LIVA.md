@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1995-12-15"
+last_updated: "1996-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -196,9 +196,9 @@ El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que
 
 Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0 %. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente será acreditable el impuesto trasladado en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta.
+I.- Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente será acreditable el impuesto trasladado en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta, excepto cuando se trate de la adquisición de bienes por los que se efectúe la deducción inmediata a que se refiere el artículo 51 de la Ley del Impuesto sobre la Renta, supuesto en el que será acreditable la totalidad del impuesto trasladado en la adquisición de dichos bienes.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -248,9 +248,9 @@ El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en
 
 Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Las sociedades escindidas efectuarán los pagos provisionales en el primer ejercicio siguiente a la escisión, en los mismos plazos en que la sociedad escindente los realizaba en el ejercicio en que se escindió. En el caso de la sociedad que surja con motivo de una fusión, ésta efectuará los pagos provisionales en el primer ejercicio siguiente a la fusión, en los mismos plazos en que los realizaba la sociedad que desaparezca, cuando sean varias las sociedades que desaparezcan, los pagos los efectuará en los plazos en que los efectuaba la sociedad que le hubiera aportado activos en mayor cuantía.
+Las sociedades escindidas efectuarán los pagos provisionales a su cargo, a partir del mes en que ocurra la escisión, en los mismos plazos en que la sociedad escindente los realizaba en el ejercicio en que se escindió. En el caso de la sociedad que surja con motivo de una fusión, ésta efectuará los pagos provisionales a su cargo, a partir del mes en que ocurra la fusión, en los mismos plazos en que los efectuaba la sociedad que le hubiera aportado activos en mayor cuantía.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -370,9 +370,17 @@ Tratándose de pagos anticipados que reciba el enajenante, antes de enviar o ent
 
 Las cantidades entregadas al enajenante, incluyendo los depósitos, se entenderán pagos anticipados.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 13.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1980)
+En la enajenación de bienes que se efectúe a instituciones de crédito mediante dación en pago o adjudicación judicial o fiduciaria, las citadas instituciones están obligadas a calcular el impuesto que corresponda a dicha operación y a efectuar su entero, quedando relevado de esta última obligación el enajenante de los bienes por dicha operación.
+
+El citado impuesto deberá enterarse a nombre del enajenante dentro de los diez días siguientes a dicha operación, a través de la forma oficial que para tal efecto apruebe la Secretaría de Hacienda y Crédito Público, la cual podrá utilizarse como comprobante fiscal de la enajenación.
+
+Dentro de los cinco días siguientes al que se haya efectuado el entero del impuesto, las instituciones de crédito deberán proporcionar al enajenante copia de la citada forma oficial, sellada por la oficina autorizada receptora del pago.
+
+Para efectos del cálculo de los pagos provisionales establecidos en el artículo 5o. de esta Ley, el enajenante de los bienes a que se refiere el primer párrafo, disminuirá del impuesto que corresponda al total de sus actividades realizadas en el periodo por el que se efectúa el pago provisional, incluyendo el de la enajenación efectuada mediante dación en pago o adjudicación judicial o fiduciaria, el impuesto que hubiere sido calculado y enterado a nombre del enajenante por la institución de crédito.
 
 ### CAPITULO III. DE LA PRESTACION DE SERVICIOS
 
@@ -526,7 +534,9 @@ Para los efectos de esta Ley, se entiende que se presta el servicio en territori
 
 En el caso de transporte internacional, se considera que el servicio se presta en territorio nacional independientemente de la residencia del porteador, cuando en el mismo se inicie el viaje, incluso si éste es de ida y vuelta.
 
-Tratándose de transportación aérea internacional, se considera que únicamente se presta el 25% del servicio en territorio nacional. La transportación aérea a las poblaciones mexicanas en las fronteras del país gozará del mismo tratamiento.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de transportación aérea internacional, se considera que únicamente se presta el 25% del servicio en territorio nacional. La transportación aérea a las poblaciones mexicanas ubicadas en la franja fronteriza de 20 kilómetros paralela a las líneas divisorias internacionales del norte y sur del país, gozará del mismo tratamiento.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -818,11 +828,19 @@ Tratándose de los supuestos previstos en los artículos 9o. y 15 de esta Ley, e
 
 La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que sea exigible la contraprestación y en proporción a la misma.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 31.
 
-En los casos en que la Ley Aduanera establece como importación temporal a la enajenación de bienes realizada por personas residentes en el país a empresas de comercio exterior, a empresas que cuenten con programa de importación temporal para producir artículos de exportación aprobado por la Secretaría de Comercio y Fomento Industrial o aquéllas catalogadas como maquiladoras de exportación, se considera que el enajenante exporta dichos bienes para los efectos de esta Ley. Se consideran empresas de comercio exterior, únicamente a aquéllas cuyos bienes terminados que enajenen en México sean en su totalidad importados y los que adquieran en el país se destinen en su totalidad a la exportación.
+En los casos en que la Ley Aduanera establece como importación temporal a la enajenación de bienes realizada por personas residentes en el país a empresas que cuenten con programa de importación temporal para producir artículos de exportación aprobado por la Secretaría de Comercio y Fomento Industrial o a aquéllas catalogadas como maquiladoras de exportación, se considera que el enajenante exporta dichos bienes para los efectos de esta Ley, hasta por el monto que resulte de aplicar al valor de los mencionados bienes enajenados por dichos residentes, la proporción que resulte de dividir el valor de las exportaciones definitivas realizadas en el trimestre inmediato anterior por las empresas adquirentes de los bienes, entre el valor total de las ventas de estas empresas en el mismo periodo. Dichas empresas deberán informar por escrito al enajenante, la proporción a que se refiere este párrafo, en el momento en que se efectúe la enajenación.
+
+Cuando las citadas empresas puedan identificar la proporción que destinarán a la exportación definitiva de los bienes que adquieran de los residentes en el país, se considerará que el enajenante exporta dichos bienes en los términos de este artículo, hasta por dicha proporción. Cuando la proporción a que se refiere este párrafo, exceda a la del párrafo anterior, se considerará que el enajenante exporta dichos bienes en la proporción a que se refiere el párrafo anterior.
+
+Cuando la enajenación de bienes a que se refiere el primer párrafo de este artículo, se efectúe por personas residentes en el país a empresas de comercio exterior, se considerará que el enajenante exporta la totalidad de los citados bienes para los efectos de esta Ley. Se consideran empresas de comercio exterior, únicamente a aquéllas cuyos bienes terminados que enajenen en México sean en su totalidad importados y los que adquieran en el país se destinen en su totalidad a la exportación.
+
+Las empresas de comercio exterior, las que cuenten con programa de importación temporal para producir artículos de exportación aprobado por la Secretaría de Comercio y Fomento Industrial y aquéllas catalogadas como maquiladoras de exportación a que se refiere este artículo, deberán informar trimestralmente a las autoridades fiscales los días 15 de los meses de abril, julio y octubre del mismo año y enero del siguiente, sobre las adquisiciones que hayan efectuado a personas residentes en el país durante el trimestre anterior y, en su caso, la proporción que hubieran aplicado a dichos bienes en el mismo periodo de conformidad con los párrafos precedentes. Igualmente, informarán el valor de sus exportaciones definitivas realizadas en el trimestre inmediato anterior al que se reporta y el valor total de sus ventas en el mismo periodo, a través de la forma oficial que para tal efecto publique la Secretaría de Hacienda y Crédito Público.
+
+Las personas residentes en territorio nacional que enajenen bienes a las empresas a que se refiere el párrafo anterior, deberán informar trimestralmente a las autoridades fiscales los días 15 de los meses de abril, julio y octubre del mismo año y enero del siguiente, sobre las enajenaciones de bienes que hayan efectuado a dichas empresas durante el trimestre que corresponda y, en su caso, la proporción que se le hubiera aplicado a la enajenación de dichos bienes en términos de este artículo, mediante la forma oficial que para tal efecto publique la Secretaría de Hacienda y Crédito Público.
 
 ### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
 
@@ -874,9 +892,9 @@ Tratándose de servicios personales independientes prestados a través de una as
 
 Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni de pago provisional ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina que corresponda a su domicilio.
+Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina que corresponda a su domicilio. Lo dispuesto en este párrafo no es aplicable a los bienes a que se refiere el artículo 13 de esta Ley.
 
 ###### ARTICULO 34.
 
@@ -976,19 +994,19 @@ Obligaciones
 
 La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre:
 
-> <small>(REFORMADA POR EL ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA POR ARTICULO SEPTIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE ESTABLECE Y MODIFICA DIVERSAS LEYES FISCALES, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto, excepto la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido.
 
 Para los efectos de esta fracción, en los servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 
-Los impuestos locales o municipales que establezcan las entidades federativas en la prestación de los servicios mencionados en esta fracción, no se considerarán como valor para calcular el impuesto a que se refiere esta Ley.
+Los impuestos locales o municipales que establezcan las entidades federativas en la enajenación de bienes o prestación de servicios mencionados en esta fracción, no se considerarán como valor para calcular el impuesto a que se refiere esta Ley.
 
-> <small>(REFORMADA POR EL ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA POR ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- La enajenación de bienes o prestación de servicios cuando una u otras se exporten o sean de los señalados en los artículos 2o.-A y 2o.-C de esta Ley.
 
-> <small>(REFORMADA POR EL ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA POR ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas, excepto por la tenencia o uso de automóviles, ómnibuses, camiones y tractores no agrícolas tipo quinta rueda, aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
 
@@ -1005,6 +1023,10 @@ V.- El uso o goce temporal de casa habitación.
 VI.- Espectáculos públicos consistentes en obras de teatro y funciones de circo o cine, que en su conjunto superen un gravamen a nivel local del 8 % calculado sobre el ingreso total que derive de dichas actividades.
 
 Queda comprendido dentro de esta limitante cualquier gravamen adicional que se les establezca con motivo de las citadas actividades.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
 Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
 
@@ -1527,6 +1549,32 @@ Para los efectos de este artículo, se entiende por automóvil nuevo el que se e
 Primero.- El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo.- De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N" a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
+
+Artículo Séptimo.- En relación con las modificaciones a que se refiere el Artículo Sexto que antecede, se estará a lo siguiente:
+
+I.- Se deja sin efecto la reforma a la fracción I y la adición al último párrafo del artículo 41 de la Ley del Impuesto al Valor Agregado, que de conformidad con el Artículo Noveno, fracción I del Decreto por el que se expiden nuevas leyes fiscales y se modifican otras, publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995, entrarían en vigor el 1o. de enero de 1997, por lo que se da a conocer a continuación el texto de la fracción I del artículo 41 de la citada Ley, que estará vigente a partir del 1o. de enero de 1997:
+
+"ARTICULO 41.- ............
+
+I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto, excepto la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido.
+
+Para los efectos de esta fracción, en los servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
+
+Los impuestos locales o municipales que establezcan las entidades federativas en la enajenación de bienes o prestación de servicios mencionados en esta fracción, no se considerarán como valor para calcular el impuesto a que se refiere esta Ley.
+
+II a VII.- .............
+
+..................."
+
+II.- Durante el ejercicio de 1997 el impuesto al valor agregado sobre el servicio o suministro de agua para uso doméstico que se efectúe en dicho ejercicio, se causará a la tasa del cero por ciento.
+
+## Transitorio
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
