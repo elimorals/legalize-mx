@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1992-09-28"
+last_updated: "1993-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 28 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA": 4 DE AGOSTO DE 1993.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -109,19 +109,35 @@ La Planeación y Desarrollo de Centros Poblados en el Estado de Sinaloa, estará
 
 I.- El Gobernador del Estado;
 
-II.- La Comisión Estatal de Desarrollo de Centros Poblados;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
 
-III.- Los Ayuntamientos de la Entidad, dentro de su jurisdicción;
+II.- La Secretaría de Desarrollo Social.
 
-IV.- Las Comisiones Municipales de desarrollo de Centros poblados;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
 
-V.- Los Comités de Desarrollo; y
+III.- El Consejo Estatal de Desarrollo Urbano y Preservación del Patrimonio Cultural; que en lo sucesivo en el texto de la presente Ley se le denominará el Consejo Estatal.
 
-VI.- Los Comités de Obras.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+IV.- Los H. Ayuntamientos de la Entidad.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+V.- Las Comisiones Municipales de Desarrollo de Centros Poblados, que contarán con:
+
+A).- Los Comités de Desarrollo.
+
+B).- Los Comités de Obras.
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+VI. Los Consejos Municipales de Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 5.
 
-La Comisión Estatal, las Comisiones Municipales y los Comités de Desarrollo de Centros Poblados, son Instituciones Públicas con personalidad jurídica propia y atribuciones la primera de ellas en todo el Territorio del Estado, las segundas en el Municipio y las últimas en la sindicatura o centros poblados a que pertenezcan.
+La Secretaría de Desarrollo Social y las Comisiones Municipales de Desarrollo de Centros Poblados, son Instituciones Públicas con personalidad jurídica propia y atribuciones; la primera de ellas en todo el territorio del Estado y las segundas en el ámbito Municipal. Los Comités de Desarrollo y de Obras, se integrarán:
 
 Los Comités de Obras se integrarán:
 
@@ -145,49 +161,99 @@ Las primeras, son aquellas que realizan la Federación, el Estado o los Municipi
 
 Las segundas son aquellas que se llevan a cabo derramando su costo entre los particulares beneficiados por la realización de la obra, por medio del establecimiento de Derechos de Cooperación o de Impuestos de Plusvalía. En su planeación y realización intervienen la Comisión Estatal y las Comisiones Municipales de Desarrollo de Centros Poblados y cuando así lo soliciten los interesados, se crearán los Comités de Obras respectivos para intervenir y vigilar la administración y ejecución de las obras y realizar éstas cuando no haya postores.
 
-Las últimas, son aquellas para cuya ejecución participan los particulares y la Federación, el Estado o Municipio, debiendo regirse la participación de los primeros por las disposiciones relativas a derechos de cooperación e impuestos de plusvalía.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+En su planeación y realización intervienen la Secretaría de Desarrollo Social y las Comisiones Municipales de Desarrollo de Centros Poblados y cuando así lo soliciten los interesados, se crearán los Comités de Obras respectivos para intervenir y vigilar la administración y ejecución de las obras y realizar éstas cuando no haya postores.
 
 ###### ARTICULO 7.
 
 Las obras serán proyectadas de acuerdo con los planos reguladores. Los estudios preliminares y anteproyectos de dichas obras, constituirán la base para su ejecución.
 
-## TITULO SEGUNDO. DE LA INTEGRACION Y ATRIBUCIONES DE LOS ORGANOSDE PLANEACION Y DESARROLLO URBANO
+## TITULO SEGUNDO. DE LA INTEGRACION Y ATRIBUCIONES DE LOS ORGANOS DE PLANEACION Y DESARROLLO URBANO
 
-### CAPITULO I. DE LA COMISION ESTATAL DE DESARROLLO DE CENTROS POBLADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE AGOSTO DE 1993)</small>
+
+### CAPITULO I. DE LA SECRETARIA DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 8.
 
-La Comisión Estatal de Desarrollo de Centros Poblados es el Organismo que a nivel estatal fija las normas y directrices del desarrollo de los centros poblados, proporciona continuidad a los programas y ayuda a la formación de conciencia en los habitantes para que colaboren a su realización.
+La Secretaría de Desarrollo Social apoyada por el Consejo Estatal, es el Organismo que en el Estado fija las normas y directrices del Desarrollo de los Centros Poblados, proporciona continuidad a los programas y ayuda a la formación de conciencia en los habitantes para que colaboren a su realización.
 
-La Comisión Estatal del Desarrollo de Centros Poblados tendrá por domicilio la ciudad de Culiacán Rosales.
+Para el efecto de asignar presupuesto para la ejecución de Obras cuya recuperación sea por aportaciones, derechos de cooperación o impuestos de plusvalía, la Secretaría de Desarrollo Social solicitará previamente una relación jerarquizada de las obras a ejecutar al Ayuntamiento y a la Comisión Municipal de Desarrollo de Centros Poblados de que se trate.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
-
-Para el efecto de asignar presupuesto para la creación de obras cuya recuperación sea por cooperación o por el impuesto de pluslavía, la Secretaría de Planeación y Desarrollo, solicitará previamente una relación jerarquizada de las obras a ejecutar al Ayuntamiento, a la Comisión Municipal de Desarrollo de Centros Poblados de que se trate o en su caso, a la Comisión Estatal.
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 9.
 
-Esta Comisión estará integrada por un Presidente que será el C. Gobernador Constitucional del Estado, o su representante y hasta nueve vocales que serán designados por el mismo Ejecutivo, para integrar un cuerpo Técnico que reúna las diversas especialidades indispensables para opinar fundadamente en lo relativo a su cometido.
+El Consejo Estatal, es un órgano colegiado de consulta, de opinión y de Participación Ciudadana, promovido por el Ejecutivo, el cual estará integrado de la manera siguiente:
+
+Un presidente, que será el Gobernador Constitucional del Estado, y su representante en el Consejo que será el Secretario de Desarrollo Social en el Estado;
+
+Un Secretario Técnico que será el Sub'Secretario de Desarrollo Urbano;
+
+Los Presidentes Municipales de los Ayuntamientos del Estado, representados por los Directores de las Comisiones Municipales de Desarrollo de Centros Poblados;
+
+La Delegación de la Secretaría de Desarrollo Social en el Estado (SEDESOL);
+
+La Delegación del Banco Nacional de Obras y Servicios (BANOBRAS);
+
+La Delegación de Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT);
+
+La Delegación del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (FOVISSSTE);
+
+El Instituto de Vivienda del Estado de Sinaloa (INVIES); y,
+
+El número de Vocales que se consideren necesarios para integrar un cuerpo técnico que reúna las diversas especialidades indispensables para opinar fundadamente en lo relativo a sus facultades, mismos que serán representantes de las organizaciones sociales, productivas, Instituciones de Educación Superior y demás agrupaciones legalmente constituídas y Ciudadanos que por su afinidad en la materia deseen participar.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+###### ARTICULO 9 Bis.
+
+El Consejo Estatal de Desarrollo Urbano y Preservación del Patrimonio Cultural, tendrá las siguientes facultades:
+
+I.- Opinar sobre los diversos programas y Planes de Desarrollo Urbano, Vivienda y de Patrimonio Histórico.
+
+II.- Opinar sobre las declaratorias de provisiones, reservas, usos y destinos de áreas, predios y edificios catalogados.
+
+III.- Emitir opinión, cuando a juicio de la Secretaría y de los Ayuntamientos se considere necesario, para la autorización de fraccionamientos y relotificaciones, fusiones y subdivisiones de áreas y predios, así como en materia de condominio.
+
+IV.- Analizar las observaciones o proposiciones que formule la comunidad respecto al desarrollo urbano, la vivienda y el patrimonio cultural.
+
+V.- Opinar sobre el establecimiento de reservas territoriales para el desarrollo urbano e industrial y la vivienda, que coadyuven a normar el crecimiento de los centros de población, aprovechando al máximo la aptitud del Suelo.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 10.
 
-La Comisión Estatal funcionará válidamente con la concurrencia por lo menos de las dos terceras partes de sus miembros y si se convoca a sesión por segunda vez para un mismo asunto, con cualquiera que sea el número de los miembros que asistan. Las decisiones se tomarán por mayoría de votos de los presentes. El Presidente tendrá voto de calidad.
+El Consejo Estatal, funcionará válidamente con la concurrencia por lo menos de las dos terceras partes de sus miembros y si se convoca a sesión por segunda vez para un mismo asunto, con cualquiera que sea el número de los miembros que asistan. Las decisiones se tomarán por mayoría de votos de los presentes. El Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 11.
 
-Los miembros de la Comisión Estatal durarán en su encargo mientras sus nombramientos no sean revocados.
+Los miembros del Consejo Estatal, durarán en su cargo mientras sus nombramientos no sean revocados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 12.
 
-Son funciones específicas de esta Comisión:
+La Secretaría de Desarrollo Social, en materia de Desarrollo Urbano, tendrá las siguientes atribuciones:
 
 I.- Promover y estimular el interés y la colaboración de la colectividad hacia los programas de obras;
 
-II.- Procurar el establecimiento de las Comisiones Municipales de Desarrollo de Centros Poblados y vigilar su funcionamiento con arreglo a esta Ley.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+II.- Procurar el establecimiento de las Comisiones Municipales de Desarrollo de Centros Poblados y promover la integración de los Consejos Municipales de Desarrollo Urbano, así como vigilar su funcionamiento con arreglo a esta Ley.
 
 III.- Realizar la planeación y coordinar el desarrollo de los Centros Poblados;
 
-IV.- A solicitud de las Comisiones Municipales respectivas y cuando la dificultad técnica o el costo de los estudios lo hagan impracticables por las mismas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+IV.- A solicitud de las Comisiones Municipales respectivas y cuando la dificultad técnica o el costo de los estudios lo hagan impracticables por las mismas.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 a).- Formular los proyectos y estudios de planificación.
 
@@ -221,49 +287,89 @@ XV.- Elaborar su reglamento interno; y
 
 XVI.- Las demás que le señalen las Leyes y Reglamentos que se expidan.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 12-A.
 
-A la Comisión le corresponderá en coordinación con la Federación y Municipio identificar las acciones para restaurar el equilibrio ecológico, la protección al ambiente en la entidad, proponer prioridades y programas para su atención, así como impulsar en estas tareas la participación de los sectores: público, privado, sociales y de la comunidad en general.
+A la Secretaría de Desarrollo Social le corresponderá en coordinación con la Federación y Municipio identificar las acciones para restaurar el equilibrio ecológico, la protección al ambiente en la Entidad, proponer prioridades y programas para su atención, así como impulsar en estas tareas la participación de los sectores público, privado, social y de la comunidad en general.
 
-Son funciones ecológicas de esta Comisión:
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
+Son funciones ecológicas de la Secretaría de Desarrollo Social:
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 I.- Interpretar la Política Estatal de Ecología;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 II.- Vigilar la aplicación de la Ley del Equilibrio Ecológico y Protección al Medio Ambiente del Estado, atendiendo en lo aplicable lo formulado por la Federación;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 III.- Aplicar en esta esfera de competencia estatal conjuntamente con los Municipios, esta Ley, y sus normas técnicas y los criterios ecológicos que expida la Federación y vigilar su observancia;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 IV.- Apoyar acciones de los Municipios para atender los asuntos que afecten el equilibrio ecológico;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 V.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en el territorio de la entidad;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 VI.- Adoptar en coordinación con el Municipio que corresponda, las medidas necesarias para prevenir y controlar emergencias ecológicas y contingencias ambientales, en forma aislada o participar con la Federación, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente no rebasen el territorio del Estado o no hagan necesaria la acción exclusiva de la Federación o del Municipio;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 VII.- Coadyuvar a regular las actividades que sean consideradas riesgosas a la ecología en coordinación con los Municipios y Federación;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 VIII.- Coadyuvar a regular y crear las zonas sujetas a conservación ecológica a Municipios y Federación, así como administrar las que estén bajo custodia del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 IX.- Prevenir y controlar la contaminación de la atmósfera, generadas en zonas o por fuentes emisoras de jurisdicción estatal;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 X.- Establecer las medidas para hacer efectiva la prohibición de emisiones contaminantes que rebasen los niveles máximos permisibles, por ruido, vibraciones, energía térmica, lumínica y olores perjudiciales al equilibrio ecológico o al ambiente, en zonas o por fuentes emisoras de jurisdicción estatal;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 XI.- Programar el Ordenamiento Ecológico Estatal, en coordinación con los Municipios en los ámbitos de sus respectivas competencias;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 XII.- Evaluar el impacto ambiental, previamente a la realización de las obras o actividades económicas que se efectúen en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 XIII.- Regular en coordinación con los Municipios que correspondan, el aprovechamiento racional de los recursos naturales en coordinación con la Federación;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 XIV.- Proteger las áreas de valor escénico o de paisaje en la entidad;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 XV.- Coordinar con los Comités Municipales de Ecología los programas y actividades que desarrollen dentro del Estado;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 XVI.- El dictamen en el que se opine sobre el uso de suelo que estará supeditado a los lineamientos que enmarque el Plan Director de Desarrollo Urbano y el Plan de Ordenamiento Ecológico;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 XVII.- Elaborar planos y reglamentos que tengan ingerencia directa con el marco ecológico estatal;
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+
 XVIII.- Elaborar su Reglamento Interno; y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 XIX.- Los demás relativos que le señalen las leyes y reglamentos que se expidan.
 
@@ -313,7 +419,9 @@ I.- Proponer a las Autoridades Municipales la creación de nuevos servicios y el
 
 II.- Elaborar su programa de actividades e incluir la jerarquización de las obras cuando su número lo amerite y proponer su funcionamiento;
 
-III.- Indicar a la oficina Técnica de Planeación correspondiente, los estudios y proyectos de obras a desarrollar y promover ante la Comisión Estatal de Desarrollo de Centros Poblados los programas e iniciativas que fueren necesarios;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
+
+III.- Indicar a la Oficina Técnica de Planeación correspondiente, los estudios y proyectos de obra a desarrollar y promover ante la Secretaría de Desarrollo Social los programas e iniciativas que fueren necesarios.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -325,9 +433,9 @@ VI.- Determinar el monto de los derechos de cooperación correspondiente a cada 
 
 VII.- Proponer a las Autoridades correspondientes el monto de las compensaciones para el caso de afectación de bienes;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1993)</small>
 
-VIII.- Si lo estima conveniente, previo estudio proponer a la Comisión Estatal de Desarrollo de Centros Poblados cuáles serán las obras cuyo costo debe distribuirse en una zona específica beneficiada o en los predios comprendidos en una área urbana o en las de toda la población cuando aquéllas reporten un beneficio colectivo general mayor;
+VIII.- Si lo estima conveniente, previo estudio proponer a la Secretaría de Desarrollo Social, cuáles serán las obras cuyo costo debe distribuirse en zona específica beneficiada o en los predios comprendidos en una área urbana o en las de toda la población cuando aquéllas reporten un beneficio colectivo general mayor.
 
 IX.- Gestionar la ayuda de las Autoridades y personas físicas o morales para la realización de obras y servicios públicos;
 
@@ -427,9 +535,7 @@ El Secretario llevará los libros de actas de sesiones, las que deberá autoriza
 
 El Tesorero tendrá el manejo y custodia de fondos. Su firma será mancomunada con la de algún o algunos otros miembros que el Comité señale; tendrá a su cargo los registros contables y estadísticos y los informes financieros que pondrá a consideración del propio Comité.
 
-## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION E IMPUESTO DE
-
-PLUSVALIA
+## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION E IMPUESTO DE PLUSVALIA
 
 ### CAPITULO I
 
@@ -831,15 +937,17 @@ La iniciativa y trámite de la planeación y ejecución de las obras a que se re
 
 Podrán también las Comisiones realizar la iniciación y trámite aludidos en forma simultánea y concurrente.
 
-> <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 44.
 
-Los estudios técnicos y dictámenes sobre la conveniencia de llevar a cabo las obras intermunicipales con la cooperación de las Comisiones interesadas y previa aprobación de otra u otras Comisiones, deberán sujetarse a la consideración de la Comisión Estatal de Desarrollo de Centros Poblados y del Ayuntamiento o Ayuntamientos respectivos.
+Los estudios técnicos y dictámenes sobre la conveniencia de llevar a cabo las obras intermunicipales con la cooperación de las Comisiones interesadas y previa aprobación de otra y otras Comisiones, deberán sujetarse a la consideración de la Secretaría de Desarrollo Social o Ayuntamientos respectivos, previa consulta y opinión del Consejo Estatal y Municipal de que se trate.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 45.
 
--Una vez aprobados los estudios y proyectos por la Comisión Estatal de Desarrollo de Centros Poblados y por el Ayuntamiento o Ayuntamientos respectivos, la intervención posterior de cada una de las Comisiones concurrentes en las obras intermunicipales frente a los cooperadores se normará substancialmente por las bases que se precisan en esta ley, respecto a los beneficiados residentes en su jurisdicción territorial.
+Una vez aprobados los estudios y proyectos por la Secretaría de Desarrollo Social y por el Ayuntamiento o Ayuntamientos respectivos, la intervención posterior de cada una de las comisiones concurrentes en las obras intermunicipales frente a los cooperadores se normará substancialmente por las bases que se precisan en esta ley, respecto a los beneficiados residentes en su jurisdicción territorial.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -955,9 +1063,11 @@ Las obras de desarrollo urbano a que se refiere la presente Ley se adjudicarán 
 
 La solicitud de postores contendrá los datos y especificaciones de la obra, zona de ejecución y todos los elementos necesarios para que los interesados puedan formular posturas; se fijará fecha límite y lugar para recibir éstas, la forma en que deben presentarse las ofertas incluyendo estimaciones y proyectos y quién debe recibirlas.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 65.
 
-El Secretario de la Comisión Estatal de Desarrollo o el Secretario de la Comisión Municipal, al recibir las ofertas otorgará el recibo correspondiente, asimismo en los casos en que se haya exigido el depósito que gaantice (sic) la seriedad de las ofertas lo recibirá y al postor que no obtenga contrato le será devuelto el que hubiere hecho.
+La Secretaría de Desarrollo Social o el Director de la Comisión Municipal de Desarrollo de Centros Poblados, al recibir las ofertas otorgará el recibo correspondiente; asimismo, en los casos en que se haya exigido depósito que garantice la seriedad de las ofertas, lo recibirá y el postor que no obtenga contrato le será devuelto el que hubiere hecho.
 
 ###### Artículo 66.
 
@@ -1021,11 +1131,11 @@ III.- Cuando las proposiciones no contengan los datos a que se refiere el artíc
 
 ### CAPITULO UNICO. DE LAS EXPROPIACIONES PARA EL DESARROLLO URBANO
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 75.
 
-Aprobada por la Comisión Estatal de Desarrollo de Centros Poblados una obra cuya ejecución requiera la expropiación de bienes de propiedad privada, se considerará como causa de utilidad pública tal expropiación y la ocupación de dichos bienes y el Organismo que promovió dicha obra solicitará del Ejecutivo del Estado o Presidente Municipal respectivo, la integración del expediente y la solicitud al H. Congreso del Estado o al H. Ayuntamiento que corresponda para que decreten la autorización de expropiar de conformidad con lo prescrito por la Ley de la materia.
+Aprobada por la Secretaría de Desarrollo Social y previa opinión del Consejo Estatal, una obra cuya ejecución requiere la expropiación de bienes de propiedad privada, se considerará como causa de utilidad pública tal expropiación y la ocupación de dichos bienes y el organismo que promovió dicha obra solicitará del Ejecutivo del Estado o Presidente Municipal respectivo, la integración del expediente y la solicitud al H. Congreso del Estado o al H. Ayuntamiento que corresponda para que decreten la autorización de expropiar de conformidad con lo prescrito por la Ley de la materia.
 
 ###### Artículo 76.
 
@@ -1301,9 +1411,9 @@ V.- Proyectos, presupuestos y especificaciones para las obras de urbanización; 
 
 VI.- Plano de conjunto de la zona del centro poblado en que esté ubicado el fraccionamiento.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-Dicha memoria descriptiva deberá de acompañarse de un dictamen de la Comisión Estatal de Desarrollo de Centros Poblados sobre la factibilidad del proyecto, en relación a lo previsto por los planes de Desarrollo Urbano respectivo y, en su caso, por las declaratorias de reservas, usos y destinos.
+Dicha memoria descriptiva deberá de acompañarse de un dictamen de la Secretaría de Desarrollo Social sobre la factibilidad del proyecto, en relación a lo previsto por los planes de desarrollo urbano respectivo y, en su caso, por la declaratoria de reservas, usos y destinos.
 
 ###### Artículo 97.
 
@@ -1373,9 +1483,11 @@ Dentro de los noventa días siguientes al otorgamiento del permiso, el solicitan
 
 La garantía podrá constituirse por cualquiera de los medios instituídos en la Ley de Hacienda Municipal.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 108.
 
-El Ayuntamiento enviará a la Tesorería Municipal, a la Oficina de Catastro dependiente del Gobierno del Estado, a la respectiva Oficina Técnica de Planeación a la Comisión Estatal de Centros Poblados y al Registro Público de la Propiedad, copia de la resolución que pronuncie, adjuntando todos los anexos, a fin de que se hagan las anotaciones o inscripciones correspondientes. Una vez aprobado el proyecto será inmodificable salvo por decisión expresa del Ayuntamiento, la que deberá darse a conocer a las dependencias mencionadas en este mismo artículo.
+El Ayuntamiento enviará a la Tesorería Municipal, a la Oficina de Catastro dependiente del Gobierno del Estado, a la Subsecretaría de Desarrollo Urbano, a la Comisión Municipal de Desarrollo de Centros Poblados y al Registro Público de la Propiedad, copia de la resolución que pronuncie, adjuntando todos los anexos, a fin de que se hagan las anotaciones o inscripciones correspondientes. Una vez aprobado el proyecto será inmodificable salvo por decisión expresa del Ayuntamiento, la que deberá darse a conocer a las dependencias mencionadas en este mismo artículo.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -1485,11 +1597,13 @@ Los usuarios tendrán obligación de contribuir proporcionalmente al sostenimien
 
 El Ayuntamiento supervisará la administración de los servicios para cerciorarse de que sean impartidos con regularidad.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 127.
 
-El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio. Se procederá al efecto a la construcción del equipamiento urbano (escuelas, parques deportivos, guarderías y demás) a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el H. Congreso del Estado autorice su enajenación o cambio de destino a solicitud del Ayuntamiento respectivo y en beneficio del Municipio que representa previa aprobación de las Comisiones tanto Municipal como Estatal de Desarrollo de Centros Poblados. Los funcionarios o autoridades, que sin esa autorización enajenen, dispongan o permitan ésto, para fines diversos de aquellos para los que los terrenos fueron originariamente destinados serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya incluída, serán causa de separación del empleo o cargo, a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
+El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio, se procederá al efecto a la construcción del equipamiento urbano (escuelas, parques deportivos, guarderías y demás) a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el H. Congreso del Estado autorice su enajenación o cambio de destino a solicitud del Ayuntamiento respectivo y en beneficio del Municipio que representa previa aprobación de las Comisiones Municipales de Desarrollo de Centros Poblados y de la Secretaría de Desarrollo Social, mismas que deberán contar previamente con la opinión de sus respectivos Consejos de Desarrollo Urbano. Los funcionarios o autoridades, que sin esa autorización enajenen, dispongan o permitan esto, para fines diversos de aquellos para los que los terrenos fueron originalmente destinados, serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya incluída, serán causa de separación del empleo o cargo, a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
 Los actos mencionados que se realicen sin la autorización ya indicada estarán afectados de nulidad absoluta y los funcionarios que hayan intervenido en su realización serán separados del empleo o cargo a juicio del Ayuntamiento respectivo o del Congreso del Estado en su caso.
 
@@ -1593,13 +1707,17 @@ Tan pronto como por las obras realizadas en un fraccionamiento se advierta un in
 
 Cuando dentro de las poblaciones existan superficies sin fraccionar mayores de 50,000 metros cuadrados, que constituyan un solo predio perteneciente a uno o más propietarios y que esté obstruccionando el crecimiento y desarrollo urbano de la zona donde se encuentre enclavada, su dueño o dueños serán exhortados a fraccionar y urbanizar esa superficie, apercibiéndoseles que de no hacerlo dentro de un término no mayor de un año contado desde la notificación, el Ayuntamiento lo utilizará previa expropiación decretada por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 144.
 
-Las situaciones no previstas en este Capítulo, se resolverán de acuerdo con el dictamen técnico que en cada caso rinda la Comisión Estatal de Desarrollo de Centros Poblados, previo estudio que haga la Comisión Municipal correspondiente, debiendo resolverse el caso por analogía y con fundamento en precedentes acaecidos en el Estado.
+Las situaciones no previstas en este Capítulo se resolverán de acuerdo con el dictamen técnico que en cada caso rinda la Secretaría de Desarrollo Social, quien podrá consultar al Consejo Estatal para que emita su opinión, previo estudio que haga la Comisión Municipal correspondiente, debiendo resolverse el caso por analogía y con fundamento en precedentes acaecidos en el Estado.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 145.
 
-Las dudas que surjan en la interpretación de este Capítulo serán resueltas administrativamente, dentro de la órbita de sus atribuciones por Organismos de Planeación correspondiente.
+Las dudas que surjan en la interpretación de este capítulo serán resueltas administrativamente, dentro de la órbita de sus atribuciones por la Secretaría de Desarrollo Social, por conducto de la Sub'Secretaría de Desarrollo Urbano.
 
 ###### Artículo 146.
 
@@ -1635,21 +1753,21 @@ Los Notarios, Corredores y Funcionarios autorizados para dar fé pública y los 
 
 Los empleados públicos que formulen certificados de no adeudo de estos impuestos o derechos, serán solidariamente responsables de su pago.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### Artículo 153.
 
-Respecto de todo acto, acuerdo o procedimiento que se derive de la aplicación de la presente Ley siempre y cuando no se trate de los realizados por el Congreso del Estado y no tenga recurso específico previsto en la misma, podrá controvertirse su validez ante la Comisión Estatal de Desarrollo de Centros Poblados, dentro de un término de cinco días hábiles siguientes a la notificación del acto reclamado.
+Respecto de todo acto, acuerdo o procedimiento que se derive de la aplicación de la presente Ley siempre y cuando no se trate de los realizados por el Congreso del Estado y no tenga recurso específico previsto en la misma, podrá controvertirse su validez ante la Secretaría de Desarrollo Social, dentro de un término de cinco días hábiles siguientes a la notificación del acto reclamado.
 
-Dentro de los cinco días siguientes a la presentación del escrito de inconformidad la Comisión Estatal correrá traslado a la autoridad señalada como responsable para que en un término de cinco días a partir de la notificación respectiva, rinda un informe justificado a la propia Comisión Estatal del o los actos que se recurren, acompañe en el mismo informe, las pruebas que considere pertinentes y alegue lo que a su derecho convenga en contra del recurso impuesto.
+Dentro de los cinco días siguientes a la presentación del escrito de inconformidad la Secretaría de Desarrollo Social correrá traslado a la autoridad señalada como responsable para que en un término de cinco días a partir de la notificación respectiva, rinda un informe justificado a la propia Secretaría de Desarrollo Social del o los actos que se recurren, acompañe en el mismo informe las pruebas que considere pertinentes y alegue lo que a su derecho convenga en contra del recurso impuesto.
 
-Una vez rendido el informe justificado por las autoridades responsables o transcurrido el tiempo señalado para su presentación, la Comisión Estatal abrirá un período de 15 días para el desahogo de las pruebas y alegatos presentados con el escrito inicial por el recurrente y con el informe justificado por la autoridad responsable. Dicho término podrá prorrogarse el tiempo estrictamente necesario a juicio de la Comisión Estatal de Desarrollo de Centros Poblados.
+Una vez rendido el informe justificado por las autoridades responsables o transcurrido el tiempo señalado para su presentación, la Secretaría de Desarrollo Social abrirá un período de 15 días para el desahogo de las pruebas y alegatos presentados con el escrito inicial por el recurrente y con el informe justificado por la autoridad responsable. Dicho término podrá prorrogarse el tiempo estrictamente necesario a juicio de la Secretaría de Desarrollo Social.
 
-Dentro de los 10 diez días siguientes al desahogo de las pruebas y alegatos presentados, la Comisión Estatal dictará resolución contra la cual no cabrá ulterior recurso.
+Dentro de los 10 diez días siguientes al desahogo de las pruebas y alegatos presentados, la Secretaría de Desarrollo Social dictará resolución contra la cual no cabrá ulterior recurso.
 
-La resolución se notificará personalmente al causante en el domicilio y a la persona que haya señalado para oír y recibir notificaciones en la ciudad de Culiacán Rosales, Sinaloa, o por estrados en su defecto, publicándose dicha resolución por 3 días consecutivos en lugar visible al público en las Oficinas de la Comisión Estatal de Desarrollo de Centros Poblados y personalmente o por correo certificado a juicio de la propia Comisión Estatal, a las Autoridades responsables. Y si el causante pretende la suspensión del procedimiento de ejecución, deberá otorgar depósito de la cantidad que se le cobre en Banco de México o ante la Comisión correspondiente.
+La resolución se notificará personalmente al causante en el domicilio y a la persona que haya señalado para oír y recibir notificaciones en la ciudad de Culiacán Rosales, Sinaloa, o por estrados en su defecto, publicándose dicha resolución por 3 días consecutivos en lugar visible al público en las oficinas de la Secretaría de Desarrollo Social y en la Sub'Secretaría de Desarrollo Urbano y personalmente o por correo certificado a juicio de la propia Secretaría, a las autoridades responsables. Y si el causante pretende la suspensión del procedimiento de ejecución, deberá otorgar depósito de la cantidad que se le cobre en Banco de México o ante la Comisión correspondiente.
 
-El depósito no se exigirá cuando se trate de sumas que pierdan la posibilidad del causante a juicio de la propia Comisión y en este caso podrá asegurarse el interés fiscal en cualquiera de las formas aceptables por la Ley.
+El depósito no se exigirá cuando se trate de sumas que pierdan la posibilidad del causante a juicio de la propia Secretaría de Desarrollo Social y en este caso podrá asegurarse el interés fiscal en cualquiera de las formas aceptables por la Ley.
 
 ###### Artículo 154.
 
@@ -1699,9 +1817,11 @@ IV.- La pintura que se utilice en la zona comercial de los Centros Poblados para
 
 V.- Los Ayuntamientos quedan facultados para exigir que se construyan las banquetas, bardas o se pinten o despinten las fachadas de las construcciones y para indicar las modificaciones que consideren prudentes de acuerdo con las disposiciones anteriores.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
+
 ###### Artículo 161.
 
-La Presidencia Municipal impondrá multa de $ 100.00 a $ 1,000.00 o arresto de uno a 15 días, según la gravedad del caso, a los infractores de lo dispuesto en los artículos precedentes.
+La presidencia Municipal impondrá multa de N$ 100.00 a N$ 1,000.00 o arresto de uno a 15 días, según la gravedad del caso, a los infractores de lo dispuesto en los artículos precedentes.
 
 ## TRANSITORIOS
 
@@ -1794,3 +1914,7 @@ P.O. 28 DE SEPTIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE AGOSTO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
