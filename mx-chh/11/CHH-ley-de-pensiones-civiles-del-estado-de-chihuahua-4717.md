@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "1994-11-30"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -81,13 +81,15 @@ b).- Presidente de la Junta Directiva;
 
 c).- Director.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 5.
 
-La Junta Directiva es el órgano máximo de la Institución y estará integrado por:
+La Junta Directiva es el órgano máximo de la Institución y estará integrada por:
 
-I.- El Director General de Finanzas y Administración, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+I. El Secretario de Finanzas, quien fungirá como Presidente;
 
 II.- El Director de Pensiones Civiles del Estado, que será designado por el Gobernador;
 
@@ -100,6 +102,10 @@ V.- El Secretario del Sindicato Nacional de Trabajadores de la Educación, Secci
 VI.- El Secretario del Sindicato de Trabajadores al Servicio del Gobierno del Estado; y,
 
 VII.- El Rector de la Universidad Autónoma de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+
+VIII. El Secretario de Administración.
 
 ###### ARTICULO 6.
 
@@ -131,9 +137,9 @@ VII.- Aprobar los presupuestos de Ingresos y Egresos de la Institución;
 
 VIII.- Proponer al Gobernador del Estado la presentación de iniciativas para reformar la ley;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-IX.- Solicitar a la Dirección General de Finanzas la orden de auditoría a las instituciones afiliadas, exclusivamente para verificar el cumplimiento de las aportaciones que corresponden a las mismas y a sus trabajadores en los términos de esta Ley;
+IX. Solicitar a la Secretaría de la Contraloría la orden de auditoría a las instituciones afiliadas, exclusivamente para verificar el cumplimiento de las aportaciones que corresponden a las mismas y a sus trabajadores en los términos de esta Ley;
 
 X.- Convenir con las Instituciones afiliadas, organismos descentralizados o sindicatos, la incorporación o desincorporación de sus trabajadores al régimen de seguridad social que regula esta ley;
 
@@ -285,9 +291,9 @@ III.- Comunicar a Pensiones Civiles del Estado los movimientos de alta y baja de
 
 IV.- Expedir certificaciones y proporcionar los informes necesarios que sean solicitados por la Institución.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
-El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Dirección General de Finanzas para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta Ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
+El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Secretaría de Finanzas para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
 
 ### CAPITULO QUINTO. APLICACION DEL FONDO DE LA INSTITUCION
 
@@ -724,3 +730,27 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
