@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1922-01-08"
+last_updated: "1923-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1923.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -273,9 +273,11 @@ La potestad de hacer las leyes reside en la Legislatura; la de hacerlas ejecutar
 
 No podrá depositarse el Poder Legislativo en una sola persona, ni unirse dos o más de estos poderes en un individuo o corporación, salvo el caso de facultades extraordinarias al Ejecutivo, conforme a lo dispuesto por esta Constitución.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
+
 ###### Artículo 39.
 
-El territorio del Estado tiene la extensión y límites que se demarcan en la Ley Territorial respectiva. Para la mejor administración política e interior del mismo se divide en quince distritos electorales, cuyo número se podrá aumentar en lo sucesivo según lo haga necesario el número de habitantes del Estado; y en el número de municipalidades actualmente existentes, a reserva de aumentarlo o disminuirlo, atendiendo siempre a que la extensión territorial y número de habitantes que a cada una de ellas se le designe, sean suficientes para poder substituir con sus propios recursos y contribuir a los gastos comunes.
+El Territorio del Estado tiene la extensión y límites que demarque la Ley de División Territorial respectiva. Se establece como base para la organización política y administrativa del interior del Estado, el Municipio Libre.
 
 ## TITULO III.
 
@@ -329,6 +331,8 @@ En caso de falta absoluta del Ayuntamiento de una Municipalidad, el Ejecutivo no
 
 DEL PODER LEGISLATIVO.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
+
 ###### Artículo 50.
 
 El Presidente Municipal será electo por los regidores, de entre ellos mismos, y será el ejecutor de las resoluciones que le sean encomendadas en comisión especial.
@@ -365,15 +369,37 @@ El Congreso, por una ley especial, determinará lo conducente a este ramo, y a l
 
 ###### Artículo 54.
 
-El Poder Legislativo se depositará en una Asamblea que se denominará "Legislatura del Estado de Durango," y se compondrá de representantes que se renovarán en su totalidad cada dos años por elección popular directa, siendo un propietario y un suplente por cada Distrito electoral.
+El Poder Legislativo se deposita en una Asamblea que se denomina Legislatura del Estado de Durango, compuesta de Diputados electos directamente por el pueblo.
+
+Cada Diputado durará en su encargo cuatro años y no podrá ser reelecto para el período inmediato.
+
+Por cada Distrito Electoral se elegirá un Diputado Propietario y un Suplente en la forma y términos que señale la Ley Electoral respectiva.
+
+Cada Distrito Electoral, quedará formado por veinte mil habitantes y si hubiere una fracción mayor de diez mil, ésta formará un Distrito Electoral.
+
+Los Distritos Electorales se formarán tomando como base el último censo efectuado y serán numerados progresivamente.
+
+La Legislatura se renovará parcialmente cada dos años y para tal fin se efectuarán elecciones en los Distritos pares e impares alternativamente.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
 
 ###### Artículo 55.
 
-Para ser Diputado se requiere:
+Para ser Diputado se requieren los siguientes requisitos:
 
-I. Ser ciudadano durangueño por nacimiento, hijo de padres mexicanos; en ejercicio de sus derechos civiles y políticos; tener 25 años cumplidos, y un modo honesto de vivir; no ser ministro de ningún culto; no ser Secretario del Despacho de Gobierno desde noventa días antes de la elección; no estar desempeñando en el Distrito Electoral correspondiente durante el mismo tiempo, servicio activo en los Cuerpos Rurales del Estado o Ejército Federal. Saber Leer y Escribir.
+I.- Ser ciudadano durangueño en ejercicio de sus derechos.
 
-II. No haber sido condenado por delito que amerite pena corporal por más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+II.- Saber leer y escribir.
+
+III.- Tener para el día de la elección, veinticinco años cumplidos y residencia efectiva dentro del Territorio del Estado, inmediata al mismo día de la elección, cuando menos de seis meses si es nativo de él y de cinco años, si solo es ciudadano durangueño por vecidad (sic). La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular.
+
+IV.- No ser Ministro de CULTO ALGUNO.
+
+V.- No haber sido condenado por cualquier delito a más de un año de prisión, excepto el delito de culpa (sic), cualquiera que haya sido la pena; pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+
+VI.- No ser Diputado Suplente en funciones dentro de los seis meses anteriores al día de la elección.
+
+VII.- No ser funcionario o empleado público del Estado, del Municipio o de la Federación, dentro de los noventa días inmediatamente anteriores al día de la elección.
 
 ###### Artículo 56.
 
@@ -952,3 +978,7 @@ Victoria de Durango, octubre 6 de 1917.- Domingo Arrieta- El Srio. Int. de Gob.,
 P.O. 8 DE ENERO DE 1922.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 20 DE MAYO DE 1923.
+
+Artículo único.- Los Diputados que resulten electos en las elecciones que se verifiquen en el año de 1924, para la integración de la XXX Legislatura del Estado, por los Distritos señalados con el número par, solo durarán en el desempeño de su cargo dos años, a fin de que se pueda establecer para lo sucesivo, la renovación parcial cada dos años.
