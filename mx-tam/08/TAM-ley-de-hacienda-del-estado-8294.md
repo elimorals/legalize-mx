@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1980-07-23"
+last_updated: "1980-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -1443,6 +1443,8 @@ IX.- La participación de los trabajadores con las utilidades de las empresas.
 
 DEL OBJETO
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 140o.
 
 Son objeto de este impuesto la realización de rifas, sorteos, loterías de especulación o con fines comerciales, salvo que se cause y se pague el Impuesto al Valor Agregado, asimismo, son objeto de este impuesto la explotación de aparatos mecánicos, electromecánicos o fonoelectromecánicos efectuada dentro del territorio del Estado.
@@ -1501,9 +1503,13 @@ Tratándose de causantes que eventualmente exploten los aparatos a que se refier
 
 Igualmente deben garantizar a satisfacción de la Tesorería General del Estado por conducto de la Oficina Fiscal correspondiente, el pago de este impuesto.
 
+(SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ### CAPITULO VII. IMPUESTO SOBRE FRUTOS Y PRODUCTOS AGRICOLAS
 
 DEL OBJETO
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 146o.
 
@@ -1517,11 +1523,15 @@ II.- La explotación dentro del Estado de ganado lechero, aves y colmenas.
 
 III.- La entrega de ganado y aves a las empacadoras o a los rastros, y la matanza hecha por los propios ganaderos y avicultores. En esta fracción no se comprende el cobro por prestación de servicios.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980) (REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)
+
 ###### ARTICULO 147o.
 
 Para los efectos de este impuesto la venta o explotación de ganado, aves o colmenas, se considera realizada en el Estado, cuando se encuentren dentro del territorio del mismo sin importar domicilio del vendedor, comprador o explotador. La salida de ganado, aves y colmenas del predio de origen o del que se realice la explotación implica que su venta ha sido realizada.
 
 DE LOS SUJETOS
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 148o.
 
@@ -1529,11 +1539,15 @@ Son sujetos, las personas físicas o morales que habitual o accidentalmente obte
 
 DE LA BASE
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 149o.
 
 Es base de este impuesto, el ingreso total que se obtenga con motivo de la realización de las operaciones, objeto de este capítulo.
 
 En los casos que no se obtengan ingresos se tomará como base el valor de mercado.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 150o.
 
@@ -1544,6 +1558,8 @@ En todo caso el impuesto a pagar no podrá ser inferior a lo que señala la sigu
 VEASE TABLA ANEXA
 
 DEL PAGO
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 151o.
 
@@ -1569,6 +1585,8 @@ g).- El precio de la operación.
 
 h).- Los demás datos que exija la forma oficial del recibo.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 152o.
 
 En el caso de explotación de ganado lechero, aves para postura o reproducción y colmenas, el impuesto se causará por unidad promedio por semestre, considerando para este efecto el promedio mensual de cabezas de ganado, aves o colmenas, que se hayan tenido en explotación durante el mismo. Este promedio se determinará sumado las cabezas de ganado, aves o colmenas que durante cada uno de los seis meses se hayan explotado, dividiéndolas entre los meses considerados.
@@ -1577,11 +1595,15 @@ En estos casos la liquidación del impuesto se efectuará semestralmente en los 
 
 DE LAS OBLIGACIONES DE LOS CAUSANTES
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 153o.
 
 Los propietarios de ganado están obligados a registrar sus fierros, marcas y señales en la Oficina Fiscal de la jurisdicción que está ubicado el predio donde se encuentre el ganado, sin perjuicio de lo que prevengan las disposiciones relativas para su registro en el orden administrativo.
 
 La obligación que este artículo impone, deberá cumplirse por los propietarios, dentro de los 30 días siguientes a la fecha en que tengan la posesión del ganado.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 154o.
 
@@ -1589,27 +1611,39 @@ Las personas que realicen operaciones de venta de ganado que ostente fierro, mar
 
 En el caso de traslación de ganado que no tenga el fierro, marca o señal del vendedor o propietario a quien se extendió el recibo oficial correspondiente, se presumirá como actos de doble operación y deberán cubrir el impuesto más la sanción correspondiente.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 155o.
 
 El propietario de ganado que lo conduzca para cambio de pastos, deberá comprobar la propiedad de los predios de origen y destino, a satisfacción de la Tesorería General del Estado, y amparar el traslado con permiso expreso de la dirección de fomento Agropecuario.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 156o.
 
 Cualquier traslado de ganado que motive la salida del Estado, de ganado hembra, deberá contar con el permiso de la Dirección de Fomento Agropecuario.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 157o.
 
 Las personas que trasladen ganado, deberán cumplir con las disposiciones de inspección sanitaria, inspección de ganado, requisitos necesarios para obtener la guía de tránsito, pagos de impuestos federales, estatales y municipales, permisos de la Dirección de Fomento Agropecuario y demás disposiciones que marquen las leyes y reglamentos sobre la materia, y contar con toda la documentación correspondiente antes de iniciar el traslado. Los vendedores de aves y colmenas tendrán las mismas obligaciones señaladas, en lo que les corresponda.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 158o.
 
 las personas o empresas que se dediquen a la explotación de ganado lechero, aves para postura o reproducción y colmenas, deberán empadronarse en la Oficina Fiscal del Estado de cada uno de sus centros de explotación, dentro de los quince días siguientes a la iniciación de operaciones, haciendo uso de las formas oficiales aprobadas y proporcionando todos los datos y documentos que las mismas exijan; darán aviso a la Tesorería General del Estado, dentro de los diez días siguientes, en los casos de traspaso, cambio de domicilio, de nombre o de razón social, suspensión, reanudación o terminación de actividades.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 159o.
 
 Las personas físicas o morales que sean causantes de este impuesto, deberán adoptar medidas y formas oficiales de control que para el correcto pago del impuesto establezca la Tesorería General del Estado y permitir las visitas e inspecciones que ordene la misma.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 160o.
 
@@ -1627,23 +1661,31 @@ Tienen responsabilidad solidaria para el pago de este impuesto:
 
 6.- Las empacadoras, administradores de rastros y las uniones o Asociaciones Ganaderas.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 161o.
 
 Los propietarios, encargados o administradores de empacadoras o rastros, no permitirán el sacrificio de ningún animal, cuando no esté debidamente acreditado el pago de este impuesto o no se haya cumplido con alguno de los requisitos que señala este impuesto.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 162o.
 
 Los Presidentes Municipales y los Fedatarios Públicos, así como las autoridades judiciales o administrativas, al autorizar un acto o contrato de venta de ganado o aves, deberá exigir la comprobación oficial de haber quedado cubierto el impuesto correspondiente. Asimismo harán constar en los certificados de los límites del municipio donde estuviera ubicado el predio de originen respectivo, el número de recibo oficial que acredita el pago del impuesto, la cantidad pagada, la especie y número de cabezas por las que se pagó el impuesto.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 163o.
 
 Los Presidentes Municipales al expedir la guía de transporte para el traslado de ganado o aves, deberá exigir la comprobación del pago de este impuesto y la presentación de la documentación requisitada que señala este impuesto.
+
+(SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ### CAPITULO VIII
 
 IMPUESTOS SOBRE PRODUCCION DE AZUCAR, PILONCILLO Y MIELES CRISTALIZABLES E INCRISTALIZABLES.
 
-DEL OBJETO
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 164o.
 
@@ -1651,11 +1693,15 @@ Es objeto de este impuesto, lo frutos y la producción agrícola de cultivos en 
 
 DE LOS SUJETOS
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 165o.
 
 Son sujetos de este impuesto las personas físicas o morales que habitual o accidentalmente obtengan frutos y productos agrícolas de cualquier cultivo que efectúen dentro del Estado.
 
 DE LA BASE
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 166o.
 
@@ -1667,11 +1713,15 @@ La Tesorería General del Estado podrá publicar periódicamente los aforos de p
 
 DE LA TASA
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980) (REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)
+
 ###### ARTICULO 167o.
 
 La tasa general del impuesto será del 2% sobre su base, con excepción del henequén que será al 1.5%, en la inteligencia de que el impuesto que se causará, liquidará y pagará, no podrá ser inferior al que se señala como cuota mínima por tonelada en la siguiente:
 
 VEASE TABLA ANEXA
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 168o.
 
@@ -1689,6 +1739,8 @@ Las cantidades que obtenga la Unión Agrícola Regional de Citricultores de Tama
 
 DEL PAGO
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 169o.
 
 El impuesto se causará al cosechar los frutos o productos agrícolas y deberá pagarse en la Oficina Fiscal en cuya jurisdicción se encuentre ubicado el predio productor, antes de que se extraigan del mismo o de sus bodegas, pudiendo efectuarse en las casetas fiscales en caso de su traslado inmediato, o enterar el importe del mismo a la persona física o moral a quien entregue su producto en calidad de venta, para su guarda o maquila, exigiendo el comprobante de retención en las formas oficiales que fije la Tesorería General del Estado.
@@ -1699,11 +1751,15 @@ Los retenedores del impuesto sobre frutos o productos agrícolas deberán entera
 
 La Tesorería General del Estado, podrá autorizar a empresas establecidas si su solvencia lo justifica y a petición de estas, a liquidar el impuesto retenido dentro de los quince días siguientes al movimiento de recepción de la quincena inmediata anterior.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 170o.
 
 Los frutos o productos agrícolas son garantía del pago de este impuesto.
 
 DE LAS OBLIGACIONES DE LOS CAUSANTES
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 171o.
 
@@ -1720,6 +1776,8 @@ IV.- Adoptar las medidas y formas oficiales de control que para el correcto pago
 V.- Permitir las visitas e inspecciones que ordene la Tesorería General del Estado.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 172o.
 
@@ -1739,6 +1797,8 @@ VI.- Presentar dentro de los cinco días siguientes a la recepción de los fruto
 
 Si la Tesorería General del Estado autoriza, ésta podrá efectuar la manifestación y pago del impuesto retenido por frutos o productos agrícolas recibidos por cualquier concepto dentro de los quince días siguientes al movimiento total de recepción de la quincena inmediata anterior, utilizando las formas oficiales aprobadas, ante la Oficina Fiscal del Estado de la jurisdicción de cada uno de sus almacenes o bodegas.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 173o.
 
 Tienen responsabilidad solidaria para el pago del impuesto sobre frutos y productos agrícolas:
@@ -1755,6 +1815,8 @@ V.- Las maquiladoras y las plantas que industrialicen los productos.
 
 DE LAS EXENCIONES
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 174o.
 
 Están exentos del pago de este impuesto los ejidatarios, siempre y cuando los productos provengan de su predio y sean cultivados por ellos mismos y acrediten esa calidad mediante la documentación respectiva.
@@ -1765,6 +1827,8 @@ Para efectos de control y estadística de la producción agrícola estatal, los 
 
 Los sujetos mencionados anteriormente deberán cumplir con las obligaciones que señale este capítulo.
 
+(SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ### CAPITULO IX. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
 DEL OBJETO
@@ -1772,6 +1836,8 @@ DEL OBJETO
 ###### ARTICULO 175o.
 
 Es objeto de este impuesto, la producción de azúcar, piloncillo y mieles cristalizables e incristalizables que se realice dentro del territorio del Estado.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 176o.
 
@@ -1783,17 +1849,21 @@ II.- Mieles incristalizables, las melazas o mieles finales obtenidas como residu
 
 DE LOS SUJETOS
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 177o.
 
 Son sujetos de este impuesto, las personas físicas o morales, que habitual o accidentalmente realicen, por cuenta propia o ajena, las actividades gravadas por éste capítulo.
 
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 29 DE ENERO DE 1977)
 
 ###### ARTICULO 178o.
 
 Es la base de este impuesto, cada kilogramo que se produzca.
 
 DE LA TARIFA
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 179o.
 
@@ -1819,9 +1889,13 @@ Cuando se empleen las mieles como materia prima para la elaboración de producto
 
 DEL PAGO
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 180o.
 
 El impuesto se causará, en el monto en que efectué la venta de primera mano de los productos cuya fabricación se grava con el impuesto a que se refiere esta ley, debiéndose pagar dentro de los diez primeros días del mes siguiente al que se causó el mismo.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 181o.
 
@@ -1832,6 +1906,8 @@ I.- La venta se considerará consumada, por el solo hecho de que los productos s
 II.- Se considera venta, toda enajenación de los productos cuya elaboración se grava, cualesquiera que sea la forma en que se haga la naturaleza jurídica de los actos o contratos por los que se trasmita la propiedad.
 
 DE LAS OBLIGACIONES DE LOS CAUSANTES
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 182o.
 
@@ -1895,6 +1971,8 @@ La Oficina Fiscal del Estado correspondiente, ordenará que se cierren y sellen 
 
 OBLIGACIONES DE LOS TERCEROS
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 183o.
 
 Los porteadores, sean personas físicas o morales que se dediquen habitual o accidentalmente al transporte de los productos gravados en este capítulo, tienen las siguientes obligaciones.
@@ -1912,6 +1990,8 @@ IV.- Poner en lugar visible de los vehículos que utilicen para el transporte, m
 ENAJENACION DE PESCADOS Y MARISCOS
 
 DEL OBJETO
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 184o.
 
@@ -2065,6 +2145,8 @@ En los casos de infracciones a lo dispuesto por este capítulo, los Jefes de las
 
 Se exime del pago de este impuesto los espectáculos prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, por causar los mismos el Impuesto al Valor Agregado.
 
+(SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ### CAPITULO XI. IMPUESTO SOBRE HONORARIOS
 
 DEL OBJETO
@@ -2077,11 +2159,15 @@ Es objeto de este impuesto la enajenación de segunda y posteriores manos de pes
 
 DE LOS SUJETOS
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 203o.
 
 Son sujetos del impuesto las personas físicas o morales que obtengan el ingreso en efectivo, en especie o en crédito con motivo de las operaciones a que se refiere el artículo anterior.
 
 DE LA BASE
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 204o.
 
@@ -2089,13 +2175,19 @@ La base de este impuesto será el monto total de los ingresos obtenidos por la e
 
 DE LA TASA
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 205o.
 
 Será el 1 por ciento sobre su base.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 206o.
 
 Los sujetos del impuesto podrán repercutirlo al adquirente, siempre que en las facturas o notas que expidan consignen por separado el importe de la operación y el monto del impuesto.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 207o.
 
@@ -2103,11 +2195,15 @@ El pago del impuesto deberá hacerse dentro de los primeros veinte días de cada
 
 Esta obligación subsistirá aún cuando no haya tenido ingresos gravables, debiendo explicar la causa de ello.
 
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+
 ###### ARTICULO 208o.
 
 El impuesto se causará al efectuarse la operación de que provengan los ingresos gravados o al salir los productos de los lugares en que se encuentre el establecimiento, depósito o almacén del causante, excepto cuando se trasladen a depósitos o almacenes del propio causante, autorizados por la Tesorería General del estado, en cuyo caso se causará el impuesto al salir los productos de cualesquiera de dichos lugares.
 
 DE LAS OBLIGACIONES
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 209o.
 
@@ -2124,6 +2220,8 @@ IV.- Llevar separación de libros cuando perciban otros ingresos distintos a los
 V.- Permitir la práctica de las visitas de inspección, así como los actos de vigilancia que estime pertinentes la autoridad; facilitar y proporcionar los datos o informes y documentos que la misma solicite.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 210o.
 
@@ -2605,7 +2703,7 @@ Son obligaciones de los sujetos de este impuesto:
 
 I.- Liquidar el impuesto en el momento en que se haga el entero de los conceptos básicos sobre los cuales recae, en las declaraciones que se presenten con motivo del pago de estos, salvo en aquellos casos en que se prevea una forma distinta.
 
-II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días 1o. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
+II.- Pagar el impuesto en la Oficina Fiscal de su domicilio dentro de los días lo. a 20 de cada mes, mediante una declaración que contenga nombre, domicilio, actividad, número de cuenta, base del impuesto y monto del mismo, en aquellos casos en que se cause dentro del Estado el impuesto federal sobre Ingresos Mercantiles y que por disposiciones de la Ley hagan el entero fuera de este.
 
 III.- Las demás que este capítulo establece.
 
@@ -2709,7 +2807,7 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .........................................15%
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .......................................15%
 
 VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
@@ -2723,7 +2821,7 @@ IX.- En los casos en que los servicios que preste el Registro Público de la Pro
 
 No se causarán los derechos a que se refiere el Artículo 262o. en los siguientes casos:
 
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios, cuando dichas Entidades las soliciten.
+I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios cuando dichas Entidades las soliciten.
 
 II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
 
@@ -2833,9 +2931,9 @@ VEASE TABLA ANEXA
 
 Los derechos por examen e inspección sanitaria se causarán inicial y anualmente conforme a la siguiente
 
-VEASE TABLA ANEXA
-
 T A R I F A:
+
+VEASE TABLA ANEXA
 
 ###### ARTICULO 277o.
 
@@ -2853,7 +2951,7 @@ Los derechos por las licencias que se otorguen a las personas a que se refiere l
 
 ###### ARTICULO 280o.
 
-Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de .......................................................................................................................................$ 200. 00.
+Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de ..................................................................................................................................$ 200. 00.
 
 ### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
 
@@ -2895,7 +2993,7 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 ###### ARTICULO 287o.
 
-La expedición de pasaporte provisional causará derechos con la cuota de .................................................................................................................................... $ 200.00.
+La expedición de pasaporte provisional causará derechos con la cuota de ................................................................................................................................ $ 200.00.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 1980)</small>
 
@@ -2907,7 +3005,7 @@ VEASE TABLA ANEXA
 
 ###### ARTICULO 289o.
 
-Los derechos de cotejo de documento causarán la cuota de.................$ 25.00
+Los derechos de cotejo de documento causarán la cuota de ..........$ 25.00
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
@@ -3056,3 +3154,13 @@ Continúa en vigor el Decreto número 220 publicado en el Periódico Oficial del
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1980
+
+###### ARTICULO PRIMERO.
+
+El Ejecutivo mandará publicar en el Periódico Oficial del Estado el anexo 4 al Convenio de adhesión al Sistema Nacional de Coordinación Fiscal, suscrito entre el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto inicia su vigencia el primero de noviembre de 1980.
