@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-12596"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-07"
-last_updated: "1998-08-07"
+last_updated: "2001-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ENTREGA Y RECEPCION DE LOS ASUNTOS Y RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 7 de agosto de 1998.
 
@@ -63,9 +63,11 @@ V.- Organismos Descentralizados de la Administración Pública Estatal y Municip
 
 VI.- Los Tribunales Administrativos y Procuradurías con autonomía jurisdiccional que funcionen en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-El proceso de entrega y recepción de los asuntos y recursos públicos del Estado de Baja California, deberán realizarse:
+El proceso de entrega y recepción de los asuntos y recursos públicos, deberá realizarse:
 
 I.- Al término e inicio de un ejercicio constitucional;
 
@@ -73,9 +75,11 @@ II.- Cuando por causas distintas al cambio de administración, se separen de su 
 
 En caso de cese, despido, destitución o licencia por tiempo indefinido en los términos de las leyes respectivas, el servidor público saliente, no quedará relevado de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 4o.
 
-La entrega y recepción de los asuntos y recursos públicos del Estado, es un proceso de interés público, de cumplimiento obligatorio y formal, que deberá efectuarse por escrito, mediante acta administrativa en la que se describa el estado que guarda la administración, dependencia o entidad de que se trate y que deberá contener los requisitos establecidos por la presente Ley, Reglamentos, y manuales de normatividad que fijen la Contraloría Interna del Congreso del Estado, en el ámbito del Poder Legislativo; la Dirección de Control y Evaluación Gubernamental del Estado en la esfera del Poder Ejecutivo y entidades paraestatales; la Contraloría del Poder Judicial en el área de aplicación de su actividad jurisdiccional; y las Sindicaturas en el ámbito del Gobierno Municipal y entidades paramunicipales correspondientes; así como de los Organos de Control correspondientes en las Entidades dotadas de autonomía.
+La entrega y recepción de los asuntos y recursos públicos, es un proceso de interés público, de cumplimiento obligatorio y formal, que deberá efectuarse por escrito, mediante acta administrativa en la que se describa el estado que guarda la administración, dependencia o entidad de que se trate y que deberá contener los requisitos establecidos por la presente ley, reglamentos y manuales de normatividad que fijen: la Contraloría Interna del Congreso del Estado en el ámbito del Poder Legislativo, la Dirección de Control y Evaluación Gubernamental del Estado en la esfera del Poder Ejecutivo y entidades paraestatales, la Contraloría del Poder Judicial en el área de aplicación de su actividad jurisdiccional, y las sindicaturas en el ámbito del gobierno municipal y entidades paramunicipales correspondientes, así como de los órganos de control correspondientes en las entidades dotadas de autonomía.
 
 Los requisitos que se mencionan deberán elaborarse mediante reglamentos que concuerden con las características particulares de los Poderes del Estado, Municipios, y de las Entidades Paraestatales y Paramunicipales, donde se especifiquen la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera podrá dejar de abarcar los aspectos mínimos que se indican en la presente Ley.
 
@@ -238,3 +242,11 @@ HECTOR TERAN TERAN.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Baja California.
