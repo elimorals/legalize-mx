@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1993-12-10"
+last_updated: "1994-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1994.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -555,9 +555,17 @@ XLII.- Legislar sobre seguridad social, teniendo como objetivo permanente la sup
 
 XLIII.- Autorizar a los Ayuntamientos del Estado a celebrar convenios entre sí y con el Gobierno del Estado, para la ejecución de obras y prestación de servicios públicos.
 
-> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1994)</small>
 
-XLIV.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
+XLIV.- Expedir la ley que instituya el Tribunal Unitario de lo Contencioso Administrativo del Estado, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal o Municipal y los particulares y establezca las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
+
+XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
+
+XLVI.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -757,9 +765,13 @@ XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tec
 
 XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
 
-> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 1991)</small>
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1994)</small>
 
-XLIV.- Las demás que señalen esta Constitución y sus leyes.
+XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Magistrado del Tribunal Unitario de lo Contencioso Administrativo dentro de los diez días siguientes a que por renuncia, muerte o remoción se desocupe el cargo, y una vez elegido éste expedir el nombramiento respectivo; y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1994)</small>
+
+XLV.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -1948,3 +1960,9 @@ EN TANTO NO SE EXPIDAN EN EL ESTADO LAS LEYES Y REGLAMENTOS QUE CORRESPONDAN, LA
 B.O. 10 DE DICIEMBRE DE 1993.
 
 UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 20 DE MAYO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
