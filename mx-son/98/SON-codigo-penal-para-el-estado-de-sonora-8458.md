@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "1994-03-24"
+last_updated: "2001-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MAYO DEL 2001.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -361,7 +361,11 @@ I.- La restitución de la cosa obtenida por el delito, con sus accesorios y dere
 
 Tratándose de bienes fungibles, el juez o tribunal podrá condenar a la entrega de una cosa igual a la obtenida por el delito;
 
-II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima; y
+> <small>(REFORMADA, B.O. 17 DE MAYO DEL 2001)</small>
+
+II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos sexuales y de violencia intrafamiliar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima.
+
+En este supuesto, en caso de que el responsable al pago de daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Prevención y Atención de la Violencia Intrafamiliar y Ley de Atención y Protección a Víctimas del Delito, para el Estado de Sonora; y
 
 III.- El resarcimiento de los perjuicios ocasionados.
 
@@ -1399,9 +1403,13 @@ Al que emplee menores de dieciséis años en cantinas, tabernas y centros de vic
 
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio, al menor de dieciséis años que, por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+
 ###### ARTICULO 170.
 
-Cuando el delincuente sea ascendiente, padrastro o madrastra del menor, además de las sanciones señaladas en los dos artículos anteriores, se le privará de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
+Las sanciones que señalan los dos artículos anteriores se duplicarán cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil o cohabite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno, así como por el tutor o curador; privando al reo de todo derecho a los bienes de la víctima y de la patria potestad sobre todos sus descendientes.
+
+La pérdida de la patria potestad por parte del reo no implica la falta de cumplimiento de sus obligaciones a favor de la víctima y demás descendientes.
 
 ###### ARTICULO 171.
 
@@ -1707,6 +1715,8 @@ A quien cometa los delitos previstos en las fracciones IX, X, XI, XII, XIII, XIV
 
 ### CAPITULO I. ABUSOS DESHONESTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
+
 ###### ARTICULO 194.
 
 Los médicos, cirujanos y sus auxiliares, y quienes practiquen especialidades similares, serán responsables por los daños que causen en la práctica de su profesión, en los términos siguientes:
@@ -1758,6 +1768,8 @@ IV.- A los defensores que sin fundamento no promuevan las pruebas conducentes en
 ## TITULO DECIMO. FALSEDAD
 
 ### CAPITULO III. VIOLACION
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 200.
 
@@ -1885,11 +1897,13 @@ II.- Al que se atribuya el carácter de profesionista y realice actos propios de
 
 ###### ARTICULO 210.
 
-Se impondrán de dos meses a dos años de prisión y de diez a cien días multa, a quien usare uniforme, emblema, símbolo, credencial, placa o gafete oficiales, a que no tenga derecho.
+Se impondrán de dos meses a dos años de prisión y de diez a cien días multa, a quien usare uniforme, emblema, símbolo, credencial, placa o gáfete oficiales, a que no tenga derecho.
 
 Cuando los objetos o identificaciones a que se refiere el párrafo anterior, correspondan o sean representativos de una corporación policial, la sanción se duplicará.
 
-### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO IV. Violencia Intrafamiliar
+
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 211.
 
@@ -1899,7 +1913,7 @@ TITULO DECIMOPRIMERO
 
 DELITOS DE PELIGROSIDAD SOCIAL
 
-### CAPITULO I. AMENAZAS
+### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 212.
 
@@ -1917,13 +1931,15 @@ TITULO DECIMOSEGUNDO
 
 DELITOS SEXUALES
 
-### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
+### CAPITULO I. AMENAZAS
 
 ###### ARTICULO 213.
 
-Al que sin consentimiento de una persona púber o impúber, o con el consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, sin el propósito de llegar a la cópula, se le aplicará de tres meses a tres años de prisión.
+Al que sin consentimiento de una persona púber o impúber o con el consentimiento de esa última, ejecute en ella o la haga ejecutar un acto erótico sin el propósito de llegar a la cópula, se le impondrá pena de seis meses a cinco años de prisión.
 
-Si el ofendido es menor de doce años, o no tiene la capacidad de comprender el significado del hecho, aunque hubiere dado su consentimiento, o se trate de persona que no pueda oponer resistencia por enfermedad, pérdida del sentido o invalidez, la pena de prisión será de seis meses a cinco años.
+> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+Si el ofendido es menor de doce años, o no tiene la capacidad de comprender el significado del hecho, aunque hubiere dado su consentimiento, o se trate de persona que no pueda oponer resistencia por enfermedad, pérdida del sentido o discapacidad, la pena de prisión será de dos a cinco años.
 
 Si se hiciere uso de la violencia física o moral en alguno de los supuestos señalados en este artículo, se aumentará la sanción correspondiente en dos terceras partes.
 
@@ -1945,9 +1961,13 @@ V.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o 
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
+> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+La pérdida de la patria potestad por parte del reo, no implica la falta de cumplimiento de sus obligaciones a favor de la víctima y demás descendientes.
+
 En el supuesto señalado en la fracción V del presente artículo, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión hasta por cinco años.
 
-### CAPITULO I. LESIONES
+### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
 
 ###### ARTICULO 215.
 
@@ -1961,27 +1981,33 @@ No se procederá contra el estuprador, sino por queja de la mujer ofendida o de 
 
 La reparación del daño, en los casos de estupro, comprenderá el pago de los alimentos a la mujer y a los hijos, si los hubiere, además de la que corresponda por los demás daños materiales y morales que el delincuente cause a la víctima. Dicho pago se hará en la forma y términos que la ley fija en los casos de divorcio.
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 218.
 
-Al que por medio de la violencia física o moral, tenga cópula con una persona, sea cual fuere su sexo, se le aplicarán de dos a doce años de prisión.
+Al que por medio de la violencia física o moral tenga cópula con una persona, sea cual fuere su sexo, se le aplicará de cinco a quince años de prisión.
 
 Para los efectos de este Capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima, por vía vaginal, anal u oral, independientemente de su sexo.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
+
 ###### ARTICULO 219.
 
-Se equipara a la violación y se sancionará con prisión de dos a doce años:
+Se equipara a la violación y se sancionará con la misma pena:
 
 I.- La introducción anal o vaginal de cualquier elemento distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido; y
 
 II.- La cópula o la introducción anal o vaginal de cualquier elemento distinto al miembro viril, sin que medie violencia física o moral, con una persona retrasada mental, o menor de doce años o con quién no tenga la capacidad de comprender el significado del hecho, aunque hubieren dado su consentimiento, o bien, con persona que no pueda oponer resistencia por enfermedad, pérdida de sentido, invalidez o cualquiera otra causa.
 
-La sanción será de cuatro a quince años de prisión, cuando en los supuestos señalados en la fracción II de este artículo, se utilizare violencia.
+> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+La sanción que imponga el Juez, se aumentará en una mitad cuando en los supuestos señalados en la fracción II de este artículo, se utilizare violencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DEL 2001)</small>
 
 ###### ARTICULO 220.
 
-La pena será de seis a veinte años de prisión, cuando en el delito de violación o su equiparable concurran uno o más de los siguientes supuestos:
+la pena será de ocho a veinte años de prisión, cuando en el delito de violación o su equiparable concurran uno o más de los siguientes supuestos:
 
 I.- La víctima sea impúber;
 
@@ -1997,9 +2023,13 @@ VI.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o
 
 En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar del ofendido.
 
+> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+La pérdida de la patria potestad por parte del reo, no implica la falta de cumplimiento de sus obligaciones a favor de la víctima.
+
 En el supuesto señalado en la fracción VI del presente artículo, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión hasta por cinco años.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 221.
 
@@ -2023,7 +2053,7 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida o de su m
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por este último.
 
-### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTICULO 226.
 
@@ -2033,7 +2063,7 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA FAMILIA
 
-### CAPITULO V. ABORTO
+### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 227.
 
@@ -2067,13 +2097,13 @@ III.- A la mujer que contraiga matrimonio antes del vencimiento de los términos
 
 IV.- Al que contraiga matrimonio o a quienes autoricen su celebración con un incapaz por insania mental.
 
-### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
+### CAPITULO V. ABORTO
 
 ###### ARTICULO 231.
 
 Se impondrán de seis meses a cinco años de prisión y de diez a doscientos días multa al que, estando unido con una persona en matrimonio no disuelto, ni declarado nulo, contraiga otro matrimonio con las formalidades legales. Estas mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al momento de celebrarse el matrimonio.
 
-### CAPITULO VII. ABANDONO DE PERSONAS
+### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 232.
 
@@ -2087,6 +2117,44 @@ El abandono o violación de las obligaciones de asistencia familiar a que se ref
 
 Para que el perdón concedido por el ofendido, o representante de los menores, pueda producir sus efectos, se requerirá que el responsable pague todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y otorgue fianza suficiente a juicio del juzgador, para garantizar que en lo sucesivo cumplirá con sus obligaciones.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 17 DE MAYO DEL 2001)</small>
+
+### CAPITULO VII. ABANDONO DE PERSONAS
+
+###### ARTICULO 234-A.
+
+Por violencia intrafamiliar se entiende todo acto de poder u omisión reiterado e intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico o sexual, en los términos de la Ley de Prevención y Atención a la Violencia Intrafamiliar.
+
+Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubino; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
+
+Al que cometa el delito de violencia intrafamiliar se le impondrán de seis meses a seis años de prisión y la suspensión del derecho de alimentos.
+
+Asimismo, cuando la víctima se trate de un menor, será condenado a la perdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
+
+En todo caso, el victimario deberá sujetarse a un tratamiento psicológico especializado como una medida para buscar su rehabilitación.
+
+Si se rehabilita, podrá recuperar el derecho de alimentos por resolución judicial.
+
+Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en este caso se perseguirá de oficio.
+
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+
+###### ARTICULO 234-B.
+
+Se equipara a la violencia intrafamiliar y se sancionará con seis meses a seis años de prisión, al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera de matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
+
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+
+###### ARTICULO 234-C.
+
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia intrafamiliar y, bajo su estricta responsabilidad, impondrá al probable responsable como medidas precautorias y de seguridad, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra de la víctima, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso, y en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial de la víctima.
+
+En tal sentido, el Ministerio Público podrá emitir órdenes de protección mediante las cuales se decreten providencias o medidas cautelares a favor de la familia y de los receptores de violencia intrafamiliar, quien a través de la Policía Judicial del Estado y las corporaciones de Policía y Tránsito Municipal, dará cumplimiento a las acciones y medidas preventivas dictadas para garantizar a los receptores y sus familiares la más completa protección a su integridad y seguridad personales.
+
+El juez de la causa, con el fin señalado, podrá ratificar o modificar dichas medidas.
+
+Cuando exista reincidencia se aumentará en una tercera parte la penalidad en el artículo 234-A además de la pérdida del derecho a alimentos.
+
 TITULO DECIMOCUARTO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
@@ -2094,8 +2162,6 @@ DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 ### CAPITULO I. INJURIAS Y DIFAMACION
 
 ### CAPITULO II. CALUMNIA
-
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 235.
 
@@ -2123,7 +2189,7 @@ TITULO DECIMOQUINTO
 
 DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO I. CHANTAJE
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 238.
 
@@ -2133,13 +2199,17 @@ I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, e
 
 II.- Al que por medio de amenazas de cualquier género, trate de impedir que otro ejecute lo que tiene derecho a hacer.
 
+> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+
+Si el ofendido fuera alguno de los parientes o personas a que se refieren los artículos 234-A y 234-B, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo.
+
 ###### ARTICULO 239.
 
 Si el amenazador cumple su amenaza, y como consecuencia resultare cometido otro delito, se aplicarán las reglas que para el concurso de delitos señala este Código.
 
 Si el amenazador exigía que el amenazado ejecutara un delito y consigue su propósito, se aplicarán las reglas relativas al concurso de delitos, respecto de la sanción aplicable a la amenaza y la que corresponda por su participación en el delito que resulte.
 
-### CAPITULO II. EXTORSION
+### CAPITULO I. CHANTAJE
 
 ###### ARTICULO 240.
 
@@ -2159,13 +2229,13 @@ TITULO DECIMOSEXTO
 
 DELITOS CONTRA LA VIDA Y LA SALUD
 
+### CAPITULO II. EXTORSION
+
 ### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
 
 ### CAPITULO II. SECUESTRO
 
 ### CAPITULO I. ROBO
-
-### CAPITULO II. ABIGEATO
 
 ###### ARTICULO 242.
 
@@ -2197,9 +2267,11 @@ Cuando en la ejecución del delito de lesiones intervengan dos o más personas, 
 
 Cuando concurra alguna de las circunstancias calificativas señaladas en este título, se aumentarán las sanciones que correspondan en dos terceras partes.
 
+> <small>(REFORMADO, B.O. 17 DE MAYO DEL 2001)</small>
+
 ###### ARTICULO 247.
 
-Si el ofendido fuere ascendiente o adoptante del autor de la lesión, sabiéndolo éste, o cónyuge, concubina o concubinario del mismo, se aumentarán en dos años de prisión y en cincuenta días multa, las sanciones que correspondan a este delito, conforme a los artículos precedentes.
+Si la víctima fuere alguno de los parientes o personas a que se refieren los artículos 234-A y 234-B, se aumentará la pena que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden.
 
 ###### ARTICULO 248.
 
@@ -2221,7 +2293,7 @@ Los padres o tutores que a sabiendas que sus hijos o pupilos padecen alguna enfe
 
 Cuando el contagio llegare a consumarse, el responsable será sancionado en los términos que para el delito de lesiones u homicidio fija este Código.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### ARTICULO 252.
 
@@ -2267,9 +2339,9 @@ Al autor de homicidio calificado con premeditación, alevosía o traición, o al
 
 Al responsable de cualquier otro homicidio calificado se le impondrá de quince a cincuenta años de prisión.
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
-### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
+### CAPITULO IV. FRAUDE
 
 ###### ARTICULO 259.
 
@@ -2297,11 +2369,11 @@ I.- Declarar a los reos sujetos a la vigilancia del órgano que designe el Ejecu
 
 II.- Prohibirles ir a determinado lugar, o residir en él.
 
+### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
+
 ### CAPITULO VI. DESPOJO
 
 ### CAPITULO VII. DAÑOS
-
-### CAPITULO UNICO. ENCUBRIMIENTO
 
 ###### ARTICULO 264.
 
@@ -2309,7 +2381,7 @@ El que prestare auxilio o indujere a otro para que se suicide, será sancionado 
 
 Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad o no tuviere capacidad para comprender el significado del hecho, se sancionará al auxiliador o instigador con prisión de uno a quince años; si el suicidio se consumare, la sanción será de ocho a veinte años de prisión.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO UNICO. ENCUBRIMIENTO
 
 ###### ARTICULO 265.
 
@@ -2335,7 +2407,7 @@ No es punible el aborto causado por culpa de la mujer embarazada, o cuando el em
 
 No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### ARTICULO 271.
 
@@ -2350,6 +2422,8 @@ III.- Al propietario, administrador o encargado de un establecimiento, que venda
 IV.- Al que venda bebidas alcohólicas a menores de edad, o a sabiendas de que su compra será para consumo de éstos.
 
 Además de las sanciones señaladas, se decretará el decomiso en beneficio del Estado de los productos a que se refiere este artículo.
+
+### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 272.
 
@@ -2390,6 +2464,10 @@ Cuando las injurias fueren recíprocas, el juez podrá, según las circunstancia
 ###### ARTICULO 278.
 
 La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física, o persona moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien.
+
+> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 234-A y 234-B, la pena se aumentará en un tercio.
 
 ###### ARTICULO 279.
 
@@ -2989,4 +3067,10 @@ Se abroga el Código Penal para el Estado de Sonora, publicado en el Boletín Of
 
 Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 23 de marzo de 1994.- DIPUTADO PRESIDENTE.- PROFR. RICARDO IBARRA GARCIA.- RUBRICA.- DIPUTADO SECRETARIO.- ING. VIRGILIO RIOS AGUILERA.- RUBRICA.- DIPUTADO SECRETARIO.- ADRIANA ACEVES PACHECO.- RUBRICA.-
 
-POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO, Hermosillo, Sonora, veintitrés de marzo de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO.- NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
+POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO, Hermosillo, Sonora, veintitrés de marzo de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO.- NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.-RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 17 DE MAYO DEL 2001.
+
+UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
