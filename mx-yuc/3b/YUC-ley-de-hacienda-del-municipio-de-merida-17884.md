@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "1999-12-30"
+last_updated: "2000-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O. DE 15 DE DICIEMBRE DE 2000, SU ENTRADA EN VIGOR SERA CINCO DIAS DESPUES DE SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -641,9 +643,11 @@ VI.- La donación entre consortes, ascendientes o descendientes en línea direct
 
 DE LA BASE
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 15 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 53.
 
-La base del Impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en las fracciones III y IV del artículo 52 de esta ley, el avalúo expedido por las autoridades fiscales, las instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales o por corredor público.
+La base del impuesto sobre adquisición de inmuebles será el valor que resulte mayor entre el precio de adquisición, el valor contenido en la cédula catastral vigente, el valor contenido en el avalúo pericial tratándose de las operaciones consignadas en las fracciones IX, XI y XII del artículo 51 de esta ley, el avalúo expedido por las autoridades fiscales, las instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales o por corredor público.
 
 Cuando el adquirente asuma la obligación de pagar alguna deuda del enajenante o de perdonarla, el importe de dicha deuda, se considerará parte del precio pactado.
 
@@ -1233,7 +1237,7 @@ Definitiva de rectificación 0.6 salario mínimo
 
 ###### ARTICULO 91.
 
-Están sujetos al pago de los derechos por el uso y aprovechamiento de los locales o piso en los mercados públicos, del dominio público del Patrimonio Municipal, los concesionarios y las personas que los tengan en posesión o hayan obtenido la posesión por cualquier otro medio.
+Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público del patrimonio municipal, así como por el uso y aprovechamiento de locales o piso en los mercados públicos propiedad del municipio, los concesionarios, permisionarios y las demás personas que tengan la posesión o hayan obtenido la posesión por cualquier otro medio.
 
 DE LA BASE
 
@@ -1241,11 +1245,13 @@ DE LA BASE
 
 La base para determinar el monto de estos derechos, será el número de metros cuadrados concesionados o los que tenga en posesión por cualquier otro medio, la persona obligada al pago.
 
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2000)</small>
+
 DE LA TASA Y DEL PAGO
 
 ###### ARTICULO 93.
 
-Los derechos establecidos en el artículo 91, serán pagados mensualmente a razón de 0.5 veces el salario mínimo por metro cuadrado concesionado u ocupado.
+Los derechos establecidos en el artículo 91, serán pagados mensualmente a razón de 0.27 veces el salario mínimo por metro cuadrado concesionado u ocupado.
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1645,6 +1651,10 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 15 DE DICIEMBRE DE 2000.
+
 ### CAPITULO III. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
 ### CAPITULO IV. DERECHOS POR MATANZA DE GANADO
@@ -1659,4 +1669,10 @@ DE LOS SUJETOS
 
 ### CAPITULO VII. DE LOS DERECHOS POR EL USO Y APROVECHAMIENTO DE LOS BIENES DE DOMINIO PUBLICO DEL PATRIMONIO MUNICIPAL
 
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2000)</small>
+
 DEL USO DE AREAS EN LOS MERCADOS PUBLICOS
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor cinco días después de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
