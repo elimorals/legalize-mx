@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-del-secretariado-tecnico-del-instituto-estatal-16384
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-02"
-last_updated: "2000-04-02"
+last_updated: "2000-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO DEL SECRETARIADO TECNICO DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 2 de abril de 2000.
 
@@ -91,7 +91,9 @@ d) Presidente del Secretariado: Presidente del Secretariado Técnico del Institu
 
 e) Secretario: Secretario Ejecutivo del Instituto Estatal Electoral, y,
 
-f) Direcciones: Dirección del Registro Estatal de Electores, Dirección de Organización, Dirección de Administración, Dirección de Capacitación Electoral y Educación Cívica y Dirección Jurídica.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+
+(sic) Direcciones: Dirección del Registro Estatal de Electores, Dirección de Organización, Dirección de Administración, Dirección de Capacitación Electoral y Educación Cívica y Dirección Jurídica.
 
 Artículo 5
 
@@ -105,17 +107,19 @@ Artículo 6
 
 El Secretariado Técnico, además de las que señala el Código Estatal Electoral, tendrá las siguientes atribuciones:
 
-a) Vigilar y dar cumplimiento estricto a las atribuciones que le señala el artículo
-
-120 del Código;
+a) Vigilar y dar cumplimiento estricto a las atribuciones que le señala el artículo 120 del Código;
 
 b) Formar de entre sus integrantes, las comisiones que sean necesarias para vigilar y organizar el adecuado desempeño de sus atribuciones;
 
 c) Nombrar de entre sus integrantes, un órgano de fiscalización de recursos humanos, financieros y materiales del Instituto;
 
-d) Resolver colegiadamente los asuntos de su competencia; y
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
-e) Vigilar la observancia de este Reglamento y las disposiciones relativas.
+d) Elaborar el Proyecto de Estatuto del Servicio Profesional Electoral, que será sometido al Consejo Estatal Electoral por el Secretario Ejecutivo;
+
+e) Resolver colegiadamente los asuntos de su competencia; y
+
+f) Vigilar la observancia de este Reglamento y las disposiciones relativas;
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS INTEGRANTES DEL SECRETARIADO TÉCNICO
 
@@ -542,3 +546,17 @@ El presente Reglamento entrará en vigor a partir del día siguiente al de su ap
 TERCERO:
 
 Publíquese en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2000.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE DURANGO.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+1.- Se reforma el artículo 4 y se adiciona un inciso al artículo 6 del Reglamento del Secretariado Técnico del Instituto Estatal Electoral, para quedar tal como se establece en el dictamen anexo.
+
+2.- Gírense instrucciones al Secretario Ejecutivo para que, en su carácter de Coordinador del Secretariado Técnico, haga del conocimiento de los integrantes de dicho órgano colegiado el presente Acuerdo.
+
+3.- Publíquese el presente acuerdo y sus anexos en el Periódico Oficial del Estado.
