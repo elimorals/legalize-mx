@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1997-09-06"
+last_updated: "1998-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -99,9 +99,11 @@ Las dependencias mencionadas en el Artículo anterior se auxiliarán, para los a
 
 Cada dependencia centralizada formulará respecto de los asuntos de su competencia los proyectos de leyes, reglamentos y decretos del Titular del Poder Ejecutivo. A fin de que tengan validez las leyes, reglamentos y decretos deberán ser firmados por el Gobernador, por el Secretario General de Gobierno y por el Titular de la dependencia a que corresponda su aplicación; cuando estas disposiciones se refieran a asuntos de la competencia de dos o más dependencias, deberán ser refrendados por los titulares de las mismas.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 13o.
 
-Corresponde a los titulares de las dependencias centralizadas el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los servidores públicos subordinados, cualesquiera de las facultades que no estén expresamente señaladas como exclusivas de los propios titulares.
+El ejercicio de las facultades que la Constitución Política del Estado, la presente Ley y las demás leyes y reglamentos confieren a las dependencias centralizadas del Poder Ejecutivo, corresponde originalmente a sus titulares. Para la mejor organización del trabajo podrán ser delegadas en los servidores públicos subordinados cualesquiera de las facultades que no estén expresamente señaladas como exclusivas de los propios titulares. El Reglamento Interior de cada dependencia definirá cuáles facultades serán ejercidas por los titulares y cuáles por sus unidades administrativas.
 
 ###### ARTICULO 14o.
 
@@ -225,9 +227,15 @@ IV.- Proyectar y calcular los egresos de las dependencias y entidades de la Admi
 
 V.- Presentar anualmente al Ejecutivo el proyecto de Ley de Ingresos y el Presupuesto de Egresos del Estado.
 
-VI.- Recaudar y administrar los impuestos, derechos, productos, aprovechamientos y en general todo ingreso que corresponda al Estado en los términos de las Leyes respectivas.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1998)</small>
 
-VII.- Ejercer las atribuciones derivadas de la aplicación de los convenios fiscales que celebre el Gobierno del Estado con la Federación y los Municipios de la Entidad.
+VI.- Ejercer las facultades en materia de registro, recaudación, comprobación, determinación y cobranza de los impuestos, derechos, derechos de cooperación y contribuciones de mejoras, productos y aprovechamientos, que correspondan al Estado; así como de las contribuciones, sus accesorios y demás ingresos federales y municipales, en los términos de los convenios de coordinación y colaboración celebrados.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1998)</small>
+
+VII.- Ejercer las atribuciones que en materia fiscal confieren al Estado los Convenios de Coordinación y de Colaboración Administrativa celebrados con los Gobiernos Federal y de los Municipios.
+
+Las atribuciones previstas en ésta y la fracción anterior, serán ejercidas por el Titular de la Secretaría de Finanzas o por las unidades administrativas dependientes de ésta, en los términos del Reglamento Interior de la propia Secretaría.
 
 VIII.- Realizar una labor permanente de difusión, orientación y asesoría en materia fiscal; administrar el Catastro de la Entidad y custodiar los fondos y valores del Estado.
 
@@ -868,3 +876,7 @@ TERCERO.- Se derogan todas las disposiciones legales o reglamentarias que se opo
 CUARTO.- Se Abroga la Ley del Instituto Colimense de Cultura, aprobada mediante Decreto No. 86 de fecha 11 de septiembre de 1992, publicado en el periódico Oficial El Estado de Colima, el 21 de noviembre de 1992.
 
 QUINTO.- Los bienes muebles o inmuebles que sean propiedad o tengan en administración el Instituto Colimense de Cultura, pasarán a forman parte del patrimonio y continuarán siendo administrados, según el caso, por la Secretaría de Cultura.
+
+P.O. 24 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
