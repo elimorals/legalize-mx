@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-elaboracion-y-venta-del-cafe-en-el-10217"
 country: "mx"
 rank: "reglamento"
 publication_date: "1931-09-19"
-last_updated: "1931-09-19"
+last_updated: "1943-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 REGLAMENTO PARA LA ELABORACION Y VENTA DEL CAFE, EN EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE FEBRERO DE 1943.
 
-Reglamento publicado en la Gaceta del Gobierno del Estado de México, el sábado 19 de septiembre de 1931.
+Reglamento publicado en la Gaceta del Gobierno del Estado de México el sábado 19 de septiembre de 1931.
 
 FILIBERTO GÓMEZ, Gobernador Constitucional del Estado, en uso de las facultades que me confiere la fracción décima del artículo 89 de la Constitución Particular del mismo, he tenido a bien expedir el siguiente
 
@@ -35,13 +35,17 @@ REGLAMENTO PARA LA ELABORACION Y VENTA DEL CAFE, EN EL ESTADO DE MEXICO
 
 Solo se admitirá bajo la denominación genérica de Café; el grano decorticado del Cafeto (Coffea arábiga L.)
 
+> <small>(REFORMADO, G.G. 24 DE FEBRERO DE 1943)</small>
+
 ###### Artículo 2o.
 
-El Café destinado al consumo público sólo se podrá vender en las siguientes formas:
+El café destinado al público, sólo podrá venderse en las siguientes formas :
 
-Fracción I.- PURO, ya sea crudo, tostado o tostado y molido.
+Fracción I.- Puro, ya sea crudo, tostado o tostado y molido.
 
-Fracción II.- Adicionado con azúcar quemada (en grano o molido) siempre que la azúcar con relación al café no se encuentre en una proporción mayor de un 30%. En todos los casos el café deberá ser de buena calidad.
+Fracción II.-- Adicionado con azúcar quemada (en grano o molido) siempre que la azúcar con relación al café no se encuentre en una proporción mayor de un 30%. En todos los casos el café deberá ser de buena calidad.
+
+Fracción III.- Mezclado con cereales de buena calidad sólo o con azúcar, pero en cualquiera de los dos casos, la proporción de los granos de café empleada será por 10 menos de 50% y se anunciará como "café de segunda con cereales" o "café de segunda con cereales y azúcar". Además estos subproductos sólo podrán ser elaborados en lugares dedicados expresamente al efecto en donde no se elabore café puro; serán emparados por razones sociales o patentes de nombres francamente diferentes a los que amparen la elaboración de café puro o café con azúcar y en todos los casos se sujetarán a las demás disposiciones de este Reglamento y a las del Registro de Comestibles y Bebidas.
 
 ###### Artículo 3o.
 
@@ -184,3 +188,9 @@ Dado en el Palacio del Poder Ejecutivo del Estado de México, en la ciudad de To
 FILIBERTO GOMEZ
 
 Lic. FRANCISCO CARBAJAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 24 DE FEBRERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
