@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-762
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-21"
-last_updated: "1992-10-21"
+last_updated: "1997-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de octubre de 1992.
 
@@ -105,7 +105,47 @@ VIII.- Coadyuvar con las Autoridades Educativas para que los menores ocurran a s
 
 IX.- Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Ejecutivo, de los trabajos realizados en su Dependencia; y
 
-X.- Organizar campañas tendientes a la prevención y erradicación del consumo de tóxicos entre menores.
+X.- Organizar campañas tendientes a la prevención y erradicación del consumo de tóxicos entre menores;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XI.- Girar citatorios, publicar pesquisas, edictos y realizar las gestiones necesarias para constatar el abandono de menores o localizar a los familiares de los menores abandonados;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XII.- Levantar el acta correspondiente para dar fe del abandono de menores, firmándola con la asistencia de dos testigos;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XIII.- Determinará en los casos urgentes y de manera provisional el ingreso de menores sujetos de asistencia social a las comunidades infantiles de custodia o a las instituciones públicas o privadas más convenientes, como medida de protección y asistencia, dando aviso inmediato al Juez competente;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XIV.- Determinar el egreso de menores internados en instituciones públicas o privadas o el traslado a una institución como albergue permanente, conforme a las disposiciones aplicables del Código Civil vigente en el Estado y tomando en cuenta la investigación multidisciplinaria practicada por personal adscrito al sistema DIF Nuevo León, como medida de protección y asistencia, iniciando el trámite que menciona el artículo 902 del Código de Procedimientos Civiles de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XV.- Determinar provisionalmente la custodia de los menores sujetos a asistencia social, entendiéndose por éstos los que se encuentran en estado de abandono, desamparo, desnutrición o sujetos a maltrato; dejándose a salvo los derechos de los interesados e iniciando el procedimiento o trámite ante la autoridad que corresponda;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XVI.- Solicitar al Ministerio Público el ejercicio de las acciones legales necesarias para la protección del menor;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XVII.- Procurar la conciliación de los interesados en los asuntos de su competencia, exhortándolos a resolver sus diferencias mediante convenio, el cual será vinculatorio y exigible para las partes. Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XVIII.- Realizar las acciones necesarias para brindar atención y protección integral a los menores que realizan actividades paraeconómicas en la calle o en lugares públicos cuidando que no sean objeto de explotación;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XIX.- Determinar la presentación de los involucrados en los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+
+XX.- Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio que establece esta ley.
 
 ###### ARTICULO 6.
 
@@ -195,6 +235,28 @@ Toda persona está en el deber de evitar maltrato a los menores y a denunciarlo 
 
 En los casos de los artículos 16, 17 y 18 de esta Ley, además de las medidas de proteccción (sic) y asistencia que se realicen para el menor por la Procuraduría de la Defensa del Menor y la Familia del Estado, se dará vista a la institución del Ministerio Público para que, en su caso, se proceda en contra de los responsables conforme a las leyes del Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+###### ARTICULO 20.
+
+Los medios de apremio que se establecen por esta ley son los siguientes:
+
+a).- Apercibimiento;
+
+b).- Multa de una a diez cuotas, entendiéndose por ésta el salario mínimo general diario más bajo de los diversos que puedan regir en la entidad en el momento de su imposición;
+
+c).- Auxilio de la fuerza pública;
+
+d).- Arresto hasta por treinta y seis horas; y
+
+e).- El cateo.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
+
+###### ARTICULO 21.
+
+Cuando sea necesario el cateo previa autorización de la fuerza pública para el auxilio del ejecutor se acudirá en solicitud del mismo, acompañándose las constancias certificadas necesarias, al Juez de lo Familiar en turno del Primer Distrito Judicial en el Estado o al Juez Mixto que corresponda por razón de competencia territorial, expresándose los motivos y fundamentos correspondientes, el lugar en que ha de practicarse la diligencia y se encuentren documentos u objetos que sea necesario recabar o los menores a los que se va a dar protección o asistencia social o las personas contra las que se decretó orden de presentación o arresto. El cateo se practicará por el Secretario del Juzgado que lo autorice, diligencia a la que deberá asistir el solicitante; al concluirse el mismo, se levanta un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, y en su ausencia o negativa, por quien practica la actuación, el original del acta se agregará al expediente formado en la Procuraduría de la Defensa del Menor y la Familia y copia certificada de la misma se anexará al expediente del Juez que decretó el cateo.
+
 T R A N S I T O R I O S :
 
 PRIMERO:- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -216,3 +278,15 @@ LIC. SOCRATES C. RIZZO GARCIA.
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ENERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
