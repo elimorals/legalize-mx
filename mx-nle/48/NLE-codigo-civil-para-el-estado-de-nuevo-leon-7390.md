@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1944-07-08"
+last_updated: "1948-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1948.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -12955,6 +12955,8 @@ Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscr
 
 ### CAPITULO VI. DE LA FIANZA LEGAL O JUDICIAL
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE AGOSTO DE 1948)</small>
+
 ###### Art. 2631.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
@@ -13477,11 +13479,7 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, c
 
 ###### Art. 2742.
 
-El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
-
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de trescientos pesos no se exigirá que el fiador tenga bienes raíces.
-
-La fianza puede substituírse con prenda o hipoteca.
+Cuando la fianza consiste en póliza, solo se aceptarán cuando se expida por Compañía Afianzadora legalmente autorizada y con domicilio en el Estado, y que haya constituído, a satisfacción del Ejecutivo del Estado, un depósito en efectivo en alguna Institución de Crédito de las que operan en esta Entidad, para garantizar el cumplimiento de sus obligaciones como fiadora. Las Compañías Afianzadoras estarán sujetas a las Leyes Económico-Coactiva en vigor.
 
 ###### Art. 2743.
 
@@ -14652,3 +14650,7 @@ P.O. 8 DE JULIO DE 1944.
 ###### ARTICULO TERCERO
 
 - Los términos que estuvieren corriendo de conformidad con el Artículo 2372 del Código Civil, para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efecto los avisos dados por arrendadores a los inquilinos, notificándoles su voluntad de dar por terminado el arrendamiento.
+
+P.O. 21 DE AGOSTO DE 1948.
+
+Este Decreto empezará a surtir sus efectos treinta días después de su publicación en el Periódico Oficial del Estado.
