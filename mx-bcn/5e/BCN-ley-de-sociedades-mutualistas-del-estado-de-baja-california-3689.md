@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-sociedades-mutualistas-del-estado-de-baja-california-368
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-10"
-last_updated: "1954-12-10"
+last_updated: "1957-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1957.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de diciembre de 1954.
 
@@ -51,9 +51,11 @@ Las Sociedades Mutualistas son personas jurídicas, distintas de la personalidad
 
 ARTICULO TECERO (SIC).- Las sociedades Mutualistas ejercitarán su acción ajenas (sic) a toda idea de lucro mercantil, sin aportaciones de capital, limitándose a la constitución y administración de sus Fondos Sociales, así como de sus inversiones y reservas, pudiendo constituir con sus excedentes o aportaciones especiales, su Patrimonio Social Mutualista que sirva de base para realizar distintas funciones societarias como complemento de sus fines específicos sobre AUXILIO MUTUO.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1957)</small>
+
 ###### ARTICULO CUARTO.
 
-Los Fondos Sociales de las Instituciones Mutualistas y su Patrimonio Social, se constituirán por el pago de cuotas de entrada, administrativas y de auxilio social en forma permanente, periódicas o fluctuantes, de acuerdo con sus Estatutos, así como por los excedentes de ejercicios liquidados, los productos de bienes patrimoniales e inversiones y reservas unidas a los donativos en general y de los ingresos obtenidos por la celebración de actos o espectáculos recreativos, benéficos, literarios, culturales, deportivos, autorizados o permitidos por las leyes y las buenas costumbres.
+Los fondos sociales de las Sociedades Mutualistas y su patrimonio social, se constituirán por el pago de cuotas de ingreso, mensuales, administrativas, extraordinarias y de auxilio social en forma permanente, periódicas o fluctuantes, de acuerdo con sus Estatutos y Reglamentos, así como por los excedentes de ejercicios liquidados, los productos de bienes patrimoniales e inversiones y reservas unidas a los donativos en general y de los ingresos obtenidos por la celebración de actos o espectáculos recreativos, benéficos, literarios, culturales, deportivos, bailes, kermesses y toda clase de festivales autotrizados (sic) o permitidos por las leyes y las buenas costumbres así como por los beneficios que les reporte sus Casinos Sociales.
 
 ### Capítulo II.
 
@@ -95,9 +97,11 @@ Las Sociedades Mutualistas por ningún motivo podrán intervenir en asuntos pol�
 
 ### Capítulo IV (sic). DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1957)</small>
+
 ###### ARTICULO NOVENO.
 
-Las Sociedades Mutualistas quedan exceptuadas de toda clase de impuestos al Estado y Municipio por las operaciones que llevan a cabo, por las fiestas que celebran, así como por los impuestos prediales correspondientes a los inmuebles que tuvieren en propiedad y en los que hagan su labor social, prácticas deportivas o de cualquier otra índole que se establezcan, para los fines que se expresan en sus Estatutos y Reglamentos.
+Las Sociedades Mutualistas quedan exceptuadas de toda clase de impuestos, derechos y servicios o cualquiera otra clase de tributación al Estado, Municipio o cualquiera otro organismo descentralizado que funcione en la Entidad, en lo que respecta a las actividades que lleven a cabo por la celebración de actos o espectáculos recreativos, benéficos, literarios, culturales, deportivos, bailes, kermesses y toda clase de festivales, por el funcionamiento de sus Casinos, así como de los impuestos prediales correspondientes a los inmuebles que tuvieren en propiedad y en los que hagan su labor social para los fines que se expresan en su (sic) Estatutos y Reglamentos y a los que se hace mención en el Artículo 4o. de esta propia Ley.
 
 T R A N S I T O R I O S .
 
@@ -134,3 +138,9 @@ EL SRIO. GRAL. DE GOBIERNO.
 Lic. Rafael Moreno Henríquez.
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE NOVIEMBRE DE 1957.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
