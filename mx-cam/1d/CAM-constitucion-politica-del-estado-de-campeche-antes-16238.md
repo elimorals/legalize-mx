@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1979-09-25"
+last_updated: "1980-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -791,7 +791,7 @@ Si al comenzar un período constitucional no se presentase el gobernador electo 
 
 ###### ARTICULO 67.
 
-Cuando la falta de Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviese reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
+Cuando la falta de Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviere reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
 Para suplir las ausencias temporales del Gobernador hasta por sesenta días, éste designará de entre los Secretarios de alguno de los Ramos de la Administración Pública, al funcionario que deba encargarse del Despacho del Poder Ejecutivo, comunicándolo al Congreso del Estado, o en defecto a la Diputación Permanente.
 
@@ -981,13 +981,17 @@ El Procurador General, será el consejero jurídico del Gobierno e intervendrá 
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Paz, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 1980)</small>
 
 ###### ARTICULO 78.
 
-El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados propietarios y cinco suplentes por lo menos, y funcionará en Pleno o en Salas de la manera que establezca la Ley Orgánica del Poder Judicial de la Entidad.
+El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados numerarios y un supernumerario y funcionará en Pleno o en Salas de la manera que establezca la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 Los nombramientos de los Magistrados serán hechos por el Gobernador y sometidos a la aprobación del Congreso o en su caso de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 Los Magistrados durarán en sus cargos seis años, a cuyo término si fueren confirmados sus nombramientos, serán inamovibles y sólo podrán ser removidos cuando faltaren al cumplimiento de sus deberes oficiales o violaren notoriamente las buenas costumbres, de acuerdo con lo dispuesto por el artículo 86 o previo el juicio de responsabilidad correspondiente.
 
@@ -1133,11 +1137,11 @@ El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acus
 
 Si el delito fuere común, el Congreso erigido en Gran Jurado declarará, a mayoría absoluta de votos y previa audiencia del acusado, si ha o no lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior contra el acusado; en el afirmativo, quedará éste, por el mismo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1980)</small>
 
 ###### ARTICULO 92.
 
-De los delitos oficiales conocerá el Congreso como Jurado de Declaración y el Tribunal en Pleno, con inclusión de los Magistrados Suplentes en ejercicio, como Jurado de Sentencia, cuando el acusado no sea Magistrado o Procurador General de Justicia, y en este caso conocerá el Congreso como Jurado de Sentencia.
+De los delitos oficiales conocerá el Congreso como jurado de declaración y el Tribunal en Pleno con inclusión del Magistrado supernumerario, como jurado de sentencia, cuando el acusado no sea Magistrado o Procurador General de Justicia, y en este caso conocerá el Congreso como jurado de sentencia.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1207,7 +1211,7 @@ Los municipios que integran el Estado serán libres, se regirán por la Ley Org�
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa. En la elección de los Ayuntamientos del Municipio de la Capital del Estado y de los Municipios cuya población sea de 300,000 o más habitantes, se aplicará, además, el principio de representación proporcional. No habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado;
+I.- Cada Municipio será administrado por un ayuntamiento de elección popular directa. En la elección de los Ayuntamientos del Municipio de la Capital del Estado y de los Municipios cuya población sea de 300,000 o más habitantes, se aplicará, además, el principio de representación proporcional. No habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
@@ -1215,9 +1219,9 @@ II.- Los Ayuntamientos del Municipio de la Capital del Estado y de aquellos muni
 
 De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
 
-a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
+a).- Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
-b) Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
+b).- Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
 
 La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
 
@@ -1716,3 +1720,7 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 25 DE SEPTIEMBRE DE 1979.
 
 UNICO.- Estas reformas a la Constitución Política del Estado de Campeche, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Las reformas que se refieren al Poder Judicial, entrarán en vigor en cuanto se modifique la Ley Orgánica del Poder Judicial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 1980.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
