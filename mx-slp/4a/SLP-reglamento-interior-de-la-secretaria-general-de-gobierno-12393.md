@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2003-02-04"
+last_updated: "2003-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -77,7 +77,7 @@ La Dirección General de Asuntos Jurídicos, de la que a su vez dependen:
 
 a).- La Dirección Jurídica,
 
-b).- La Dirección del Periódico Oficial del Estado,
+b).- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, P.O. 28 DE DICIEMBRE DE 2003)
 
 c).- La Dirección del Notariado,
 
@@ -85,9 +85,7 @@ d).- La Dirección del Registro Público de la Propiedad y de Comercio,
 
 e).- La Dirección del Registro Civil y
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
-
-f).- La Procuraduría de la Defensa del Trabajo.
+f).- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, P.O. 28 DE DICIEMBRE DE 2003)
 
 IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
 
@@ -305,9 +303,9 @@ ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DE AREA.
 
 ###### ARTICULO 13.
 
-Competen a la Dirección General de Gobernación las siguientes atribuciones:
+Compete a la Dirección General de Gobernación las siguientes atribuciones:
 
-I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto público, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
+I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto pública, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
 
 II.- Instrumentar, coordinar, vigilar y evaluar el Sistema Estatal de Protección Civil, así como los relativos a la prevención y restablecimiento de zonas afectadas en caso de desastre, incorporando en ellos a la comunidad;
 
@@ -641,21 +639,7 @@ XI.- Integrar la base de datos, con la información que arrojen los estudios jur
 
 XII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le sugiera la Superioridad.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
-
-ARTICULO 21 BIS.- La Procuraduría de la Defensa del Trabajo se regirá por los artículos 530 al 536 de la Ley Federal del Trabajo, su Reglamento Interior y tendrá las siguientes atribuciones:
-
-I.- Representar y asesorar a los trabajadores y a los sindicatos formados por los mismos, ante cualquier autoridad; resolver sus consultas jurídicas y representarlos en todos los conflictos que se relacionen con la aplicación de normas de trabajo o se deriven de las mismas relaciones laborales;
-
-II.- Prevenir y denunciar ante la autoridad competente la violación de las normas laborales. Para este efecto hará valer las instancias, recursos o trámites que sean necesarios a fin de hacer respetar los derechos de los trabajadores;
-
-III.- Denunciar en la vía administrativa o jurisdiccional la falta o retención de pago de los salarios o del reparto de utilidades, interponiendo las acciones, recursos o gestiones encaminadas a subsanar dicha omisión;
-
-IV.- Proponer a las partes interesadas, soluciones amistosas para el arreglo de sus conflictos y hacerlas constar en actas autorizadas que tendrán valor probatorio pleno, y
-
-V.- La Procuraduría de la Defensa del Trabajo, contará con inspectores en todo el territorio del Estado, a fin de garantizar el cumplimiento de las normas laborales que establezcan derechos y garantías a favor de los trabajadores y jornaleros.
-
-La Procuraduría de la Defensa del Trabajo funcionará de acuerdo a los lineamientos que ésta establezca, con observancia a la Ley de la materia, así como los ordenamientos legales aplicables
+ARTICULO 21 BIS.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, P.O. 28 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 22.
 
@@ -1018,3 +1002,17 @@ Por lo que hace a la Dirección Zona Huasteca dependiente de la Dirección Gener
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se contrapongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+Por lo que corresponde a la Dirección del Trabajo y Previsión Social a partir de la entrada en vigor del presente decreto, su denominación será la de Dirección de Inspección.
+
+###### ARTICULO TERCERO
+
+Se derogan las fracciones b) y f) del artículo 3° y 21 Bis del Reglamento Interior de la Secretaría General de Gobierno.
