@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1976-12-29"
+last_updated: "1978-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -408,7 +408,7 @@ V.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la 
 
 VI.- Proyectar y calcular los ingresos tanto de la Federación, como del Departamento del Distrito Federal;
 
-VII.- Mantener al corriente el avalúo de los bienes muebles nacionales, y reunir, revisar y determinar las normas y procedimientos para realizarlo; así como compilar, revisar y determinar las normas y procedimientos para los inventarios de bienes muebles que deban llevar otras dependencias;
+VII.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 1978)
 
 VIII.- Practicar inspecciones y reconocimientos de existencias en almacenes, con objeto de asegurar el cumplimiento de las disposiciones fiscales;
 
@@ -458,7 +458,7 @@ XIII.- Disponer la práctica de auditorías externas a las entidades de la admin
 
 XIV.- Dirigir y organizar estudios y exploraciones geográficas, y realizar estudios cartográficos de la República;
 
-XV.- Intervenir en las adquisiciones de toda clase;
+XV.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 1978)
 
 XVI.- Intervenir en los actos o contratos relacionados con las obras de construcción, instalación y reparación que se realicen por cuenta de la Administración Pública Federal y vigilar la ejecución de los mismos;
 
@@ -556,7 +556,13 @@ XVII.- Impulsar, en coordinación con las dependencias centrales o entidades del
 
 XVIII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter comercial, y
 
-XIX.- Los demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+
+XIX.- Intervenir en las adquisiciones de toda clase que realicen las dependencias y entidades de la Administración Pública Federal, centralizada y paraestatal, así como determinar normas y procedimientos para el manejo de almacenes, control de inventarios, avalúos y baja de los bienes muebles.
+
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+
+XX.- Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
 ###### ARTICULO 35.
 
@@ -694,7 +700,7 @@ XXI.- Inspeccionar los servicios de la marina mercante;
 
 XXII.- Construir, reconstruir y conservar las obras portuarias e intervenir en todo lo relacionado con faros y señales marítimas;
 
-XXIII.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación, para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
+XXIII.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios; los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación, para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
 
 XXIV.- Los demás que expresamente le fijen las leyes y reglamentos.
 
@@ -760,9 +766,9 @@ c) La enseñanza técnica, industrial, comercial y de artes y oficios, incluida 
 
 d) La enseñanza agrícola, con la cooperación de la Secretaría de Agricultura y Recursos Hidráulicos.
 
-e) La enseñanza superior y profesional.
+e) La enseñanza superior y profesional;
 
-f) La enseñanza deportiva y militar, y la cultura física en general;
+f) La enseñanza deportiva y militar, y la cultura física en general.
 
 II.- Organizar y desarrollar la educación artística que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
 
@@ -1091,3 +1097,17 @@ SEXTO.- La presente Ley entrará en vigor el 1o. de enero de 1977.
 México, D. F., a 22 de diciembre de 1976.- Hilda Anderson Nevarez de Rojas, S. P.- Enrique Ramírez y Ramírez, D. P.- Arnulfo Villaseñor Saavedra, S. S.- Crescencio Herrera Herrera, D. S.- Rúbricas".
 
 En Cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 8 DE DICIEMBRE DE 1978.
+
+PRIMERO.- Se derogan las Fracciones VII del Artículo 31 y XV del Artículo 32 de la Ley Orgánica de la Administración Pública Federal.
+
+SEGUNDO.- El personal de la Dirección General de Bienes Muebles de la Secretaría de Hacienda y Crédito Público y de la Dirección General de Normas sobre Adquisiciones, Almacenes y Obras Públicas de la Secretaría de Programación y Presupuesto, encargado de la función relativa a normas sobre adquisiciones y almacenes, pasará a la Secretaría de Comercio, cumpliéndose al efecto con lo dispuesto en el acuerdo de reasignación del personal al servicio de la Administración Pública Centralizada. Si por cualquier circunstancia algún trabajador resultare afectado, se dará la intervención que corresponda a la Comisión de Recursos Humanos del Gobierno Federal.
+
+TERCERO.- Los recursos materiales y financieros de las direcciones a que se refiere el artículo precedente, pasarán a la Secretaría de Comercio, así como los archivos, y en general, el equipo que dichas unidades administrativas hayan utilizado para la atención de los asuntos a su cargo. La Secretaría de Programación y Presupuesto tramitará las transferencias presupuestales procedentes.
+
+CUARTO.- Los asuntos en trámite al entrar en vigor este decreto serán despachados por la Secretaría de Comercio.
+
+QUINTO.- Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
