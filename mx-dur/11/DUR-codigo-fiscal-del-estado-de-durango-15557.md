@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "1999-12-30"
+last_updated: "2003-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -729,7 +729,11 @@ En las situaciones a que se refieren los párrafos anteriores, el contribuyente 
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES FISCALES
 
-### CAPÍTULO ÚNICO. DE LAS FACULTADES Y ATRIBUCIONES
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2003)</small>
+
+### CAPÍTULO I. DE LAS FACULTADES Y ATRIBUCIONES
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 65.
 
@@ -739,17 +743,19 @@ I. El Gobernador del Estado.
 
 II. El Secretario de Finanzas y de Administración.
 
-III. El Subsecretario de Finanzas.
+III. El Subsecretario de Ingresos.
 
-IV. El Director de Ingresos.
+IV. El Procurador Fiscal.
 
-V. El Director de Auditoría Fiscal.
+V. El Director de Recaudación.
 
-VI. Los Recaudadores de Rentas.
+VI. El Director de Auditoría Fiscal.
 
-VII. El Director Jurídico Fiscal.
+VII. Los Recaudadores de Rentas.
 
 VIII. Las demás legalmente autorizadas, en los términos que establezca el Reglamento Interior de la Secretaría de Finanzas y de Administración.
+
+La competencia y estructura de los distintos órganos de la Secretaría de Finanzas y de Administración, además de lo que establezca este Código, se regularán en el correspondiente Reglamento Interior que expida el Ejecutivo del Estado.
 
 ###### ARTICULO 66.
 
@@ -799,7 +805,9 @@ XVIII. Las demás que le otorgan como autoridad fiscal, la Constitución Políti
 
 Son facultades del Secretario de Finanzas y de Administración del Estado las comprendidas en la Constitución del Estado, las señaladas en fracción XVIII del artículo 67 de este Código, así como las que le confiere el Reglamento Interior de la Secretaría de Finanzas y de Administración del Estado.
 
-En ausencia temporal del Secretario de Finanzas y de Administración del Estado, desempeñará sus funciones el Subsecretario de Finanzas del Estado, de acuerdo con las atribuciones que le confiere el Reglamento Interior de la Secretaría de Finanzas y de Administración.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2003)</small>
+
+En ausencia temporal del Secretario de Finanzas y de Administración del Estado, desempeñará sus funciones el Subsecretario de Egresos del Estado, de acuerdo con las atribuciones que le confiere el Reglamento Interior de la propia Secretaría de Finanzas y de Administración.
 
 ###### ARTICULO 69.
 
@@ -1121,11 +1129,49 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MAYO DE 2003)</small>
+
+### CAPÍTULO II. DE LA PROCURADURÍA FISCAL
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2003)</small>
+
+ARTICULO 94 BIS.- Es competencia de la Procuraduría Fiscal de la Secretaría de Finanzas y de Administración, el despacho de los siguientes asuntos:
+
+I.- Procurar, de acuerdo a la normatividad vigente en la materia, así como a las políticas y lineamientos que determinen el Titular del Poder Ejecutivo del Estado y el Secretario, una adecuada administración de justicia estatal en materia fiscal;
+
+II.- Definir e implementar en la esfera administrativa, criterios sobre interpretación de las disposiciones jurídicas en materia fiscal;
+
+III.- Brindar asesoría jurídica en materia fiscal estatal, tanto a los contribuyentes, como a las unidades administrativas de la Secretaría que así lo requieran;
+
+IV.- Comparecer y representar a la Secretaría en todos los conflictos jurisdiccionales y contenciosos administrativos en los que ésta sea parte;
+
+V.- Atender las solicitudes de apoyo jurídico de carácter oficial, cuando se vean afectados los intereses de la Secretaría;
+
+VI.- Presentar denuncias o formular querellas ante el Ministerio Público acerca de los hechos que puedan ser constitutivos de delitos, proponiendo al Secretario, una vez satisfecho el interés patrimonial de la Hacienda Pública del Estado, la concesión del perdón por ilícitos fiscales;
+
+VII.- Resolver los recursos administrativos que, en materia de impuestos estatales, e ingresos municipales administrados por el Estado, interpongan los contribuyentes, con estricta observancia de las disposiciones legales aplicables;
+
+VIII.- Ejercitar por instrucciones del Secretario, la acción de nulidad en contra de los actos y resoluciones de autoridad administrativa fiscal, que se hubiesen dictado en perjuicio del fisco estatal;
+
+IX.- Revisar en forma permanente las leyes, reglamentos y disposiciones de observancia general en materia fiscal estatal, cuidando que mantengan su eficacia y aplicabilidad de acuerdo a las circunstancias que se presenten;
+
+X.- Elaborar los proyectos de acuerdos y resoluciones que expida el Secretario en el ámbito de su competencia, así como los proyectos de iniciativas de leyes, decretos y demás disposiciones de observancia general que éste proponga al Titular del Poder Ejecutivo del Estado;
+
+XI.- Formalizar jurídicamente los proyectos anuales de Ley de Ingresos y de Ley de Egresos del Estado;
+
+XII.- Revisar y aprobar los proyectos de convenios de colaboración administrativa y de coordinación fiscal, que propongan los otros órdenes de gobierno así como los demás instrumentos jurídicos en los que sea parte la Secretaría;
+
+XIII.- Compilar y mantener actualizado el acervo de leyes, reglamentos, acuerdos, circulares y demás disposiciones de observancia general, así como la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación, el Tribunal Fiscal de la Federación y el Tribunal de lo Contencioso-Administrativo del Estado que se requieran para el correcto desempeño de sus atribuciones; y
+
+XIV.- En general, lo que las leyes, reglamentos, convenios, acuerdos y otras disposiciones de observancia general le otorguen, o que el Secretario le delegue mediante acuerdo expreso.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2003)</small>
+
+ARTICULO 94 TER.- Para el ejercicio de sus facultades y atribuciones, la Procuraduría Fiscal contará con una Sub-Procuraduría Fiscal y la estructura orgánica que establezca el Reglamento Interior de la Secretaría de Finanzas y de Administración.
 
 ## TÍTULO QUINTO. DE LAS INFRACCIONES, SANCIONES Y DELITOS
 
-### CAPÍTULO II. DE LOS DELITOS FISCALES
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 95.
 
@@ -1351,7 +1397,7 @@ A quienes cometan las infracciones señaladas en el artículo anterior, se sanci
 
 La infracción en cualquier forma a las disposiciones fiscales diversas a las previstas en este capítulo, se sancionará con multa de cinco a cincuenta salarios.
 
-### CAPÍTULO I. DEL TRÁMITE ADMINISTRATIVO
+### CAPÍTULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 116.
 
@@ -1541,7 +1587,7 @@ En todo lo no previsto en el presente capítulo, será (sic) aplicables las regl
 
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+### CAPÍTULO I. DEL TRÁMITE ADMINISTRATIVO
 
 #### SECCIÓN PRIMERA. DE LAS NOTIFICACIONES
 
@@ -1729,7 +1775,7 @@ La cancelación de las garantías en las que con motivo de su otorgamiento se hu
 
 Los gastos que se generen con motivo del otorgamiento, sustitución, ampliación y cancelación de garantías, serán por cuenta del interesado.
 
-### CAPÍTULO l. DEL RECURSO DE REVOCACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2327,7 +2373,7 @@ En contra de la resolución que emita la Secretaría de Finanzas y de Administra
 
 ## TITULO SÉPTIMO. DE LOS MEDIOS DE DEFENSA
 
-### CAPITULO II. DE LA IMPUGNACIÓN DE LAS NOTIFICACIONES
+### CAPÍTULO l. DEL RECURSO DE REVOCACIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2451,7 +2497,7 @@ III. Cuando de las constancias que obran en el expediente administrativo quede d
 
 IV. Cuando hayan cesado los efectos del acto o resolución impugnada
 
-### CAPITULO III. DEL TRÁMITE Y RESOLUCIÓN DE LOS RECURSOS
+### CAPITULO II. DE LA IMPUGNACIÓN DE LAS NOTIFICACIONES
 
 ###### ARTICULO 241.
 
@@ -2470,6 +2516,8 @@ III. La autoridad competente para resolver el recurso de revocación estudiará 
 IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquella, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
 
 Si se resuelve que la notificación fue legalmente practicada y como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se desechará dicho recurso.
+
+### CAPITULO III. DEL TRÁMITE Y RESOLUCIÓN DE LOS RECURSOS
 
 ###### ARTICULO 242.
 
@@ -2558,3 +2606,15 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS NUEVE DIAS DEL MES DE DICIEMBRE DEL AÑO DE MIL NOVECIENTOS NOVENTA Y NUEVE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER; EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 25 DE MAYO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que contravengan al presente decreto.
