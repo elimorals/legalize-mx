@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1992-07-15"
+last_updated: "1993-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1173,7 +1173,9 @@ DE LAS EXENCIONES
 
 No se causará este impuesto respecto de las adquisiciones de inmuebles que hagan la Federación, el Estado y los Municipios, para formar parte de sus bienes de dominio público, así como los que adquieran los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
-Tampoco se pagará el impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+> <small>(ADICIONADO [REFORMADO], P.O. 11 DE DICIEMBRE DE 1993)</small>
+
+Tampoco se pagará el impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 ###### ARTICULO 126.
 
@@ -1191,7 +1193,9 @@ IV.- La cesión de derechos del comprador o del futuro comprador en los casos de
 
 V.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanente, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-VI.- Fusión de Sociedades.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE DICIEMBRE DE 1993)</small>
+
+VI.- Fusión y escisión de sociedades.
 
 VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
 
@@ -2674,3 +2678,7 @@ P.O. 15 DE JULIO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
