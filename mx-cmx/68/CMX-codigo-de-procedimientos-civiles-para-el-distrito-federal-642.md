@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1988-01-12"
+last_updated: "1990-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1990.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1138,7 +1138,7 @@ Cuando sean varios los demandados y tuvieren diversos domicilios, será competen
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-V.- En los juicios hereditarios, el juez en cuya jurisdicción haya tenido su último domicilio el autor de la herencia; a falta de este domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Los mismo se observará en casos de ausencia;
+V.- En los juicios hereditarios, el juez en cuya jurisdicción haya tenido su último domicilio el autor de la herencia; a falta de este domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia; y a falta de domicilio y bienes raíces, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
 
 VI.- Aquel en cuyo territorio radica un juicio sucesorio para conocer:
 
@@ -1159,6 +1159,10 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 
 XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado.
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIII.- En los juicios de alimentos, el del domicilio del actor o el del demandado a elección del Primero.
 
 ARTICULO 157
 
@@ -2428,7 +2432,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -2806,7 +2810,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -7065,3 +7069,9 @@ D.O.F. 12 DE ENERO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ENERO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días de la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los juicios de alimentos a que se refiere el presente Decreto, que se encuentren en trámite al momento de su entrada en vigor, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
