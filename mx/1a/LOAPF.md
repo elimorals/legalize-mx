@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1994-12-28"
+last_updated: "1995-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -351,6 +351,14 @@ I.- Promover, propiciar y asegurar la coordinación de acciones en el exterior d
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
 
 II.- Dirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes del mismo servicio, velar en el extranjero por el buen nombre de México; impartir protección a los mexicanos; cobrar derechos consulares y otros impuestos; ejercer funciones notariales, de Registro Civil, de auxilio judicial y las demás funciones federales que señalan las Leyes, y adquirir, administrar y conservar las propiedades de la Nación en el extranjero;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
+
+II A.- Coadyuvar a la promoción comercial y turística del país a través de sus embajadas y consulados;
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
+
+II B.- Capacitar a los miembros del Servicio Exterior Mexicano en las áreas comercial y turística, para que puedan cumplir con las responsabilidades derivadas de lo dispuesto en la fracción anterior;
 
 III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposiciones internacionales, y participar en los organismos e institutos internacionales de que el Gobierno mexicano forme parte;
 
@@ -742,7 +750,9 @@ II.- Regular, promover y vigilar la comercialización, distribución y consumo d
 
 III.- Establecer la Política de industrialización, distribución y consumo de los productos agrícolas, ganaderos, forestales, minerales y pesqueros, en coordinación con las dependencias competentes;
 
-IV.- Fomentar el comercio exterior del país.
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 1995)</small>
+
+IV.- Fomentar, en coordinación con la Secretaría de Relaciones Exteriores, el comercio exterior del país.
 
 V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales, escuchando la opinión de la Secretaría de Hacienda y Crédito Público; estudiar y determinar las restricciones para los artículos de importación y exportación, y participar con la mencionada Secretaría en la fijación de los criterios generales para el establecimiento de los estímulos al comercio exterior;
 
@@ -1593,3 +1603,9 @@ SEXTO.- Los recursos humanos, financieros y materiales con que cuenten las unida
 SEPTIMO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
 
 OCTAVO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, absorben tales funciones.
+
+D.O.F. 19 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
