@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1951-07-21"
+last_updated: "1953-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1953.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -1005,9 +1005,9 @@ IV.- Si excede de $25,000.00 se cobrará por esa cantidad, de conformidad con la
 
 V.- Si excede de $100,000.00 se cobrarán por los primeros $100,000.00 de conformidad con las fracciones anteriores y por lo que exceda de dicha cantidad por cada millar o fracción… “ 1.00
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1951)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1953)</small>
 
-VI.- Los Derechos previstos en esta Tarifa serán aumentados en un 100% (cien por ciento) cuando los interesados desearen obtener la inscripción del Título el mismo día de su presentación.
+VI.- Los Derechos previstos en esta Tarifa serán aumentados en un 100% (cien por ciento) cuando los interesados desearen obtener la inscripción del Título el mismo día de su presentación. Cuando el valor que corresponda a la operación o acto consignado en el documento sea mayor de $ 50,000.00 (Cincuenta Mil Pesos) o, en su caso, cuando el valor catastral relativo sea superior a esta cantidad, se aumentarán los derechos en un 10% (diez por ciento) sobre lo excedente.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 1951)</small>
 
@@ -1264,3 +1264,7 @@ TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la 
 P.O. 21 DE JULIO DE 1951.
 
 TRANSITORIO UNICO:- Este Decreto surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 1953.
+
+TRANSITORIO UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
