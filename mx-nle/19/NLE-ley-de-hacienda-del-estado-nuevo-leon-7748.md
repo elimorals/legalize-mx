@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1995-12-29"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -897,27 +897,51 @@ II.- Los comisionistas o cualquiera otra persona que intervenga en las operacion
 
 III.- Los empleados o funcionarios públicos que autoricen cualquier trámite de los referidos en este Capítulo, sin haberse cerciorado del pago de este impuesto.
 
-### CAPITULO CUARTO. Del Impuesto sobre Herencias Legados y Donaciones
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO CUARTO. Del Impuesto por Obtención de Premios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 113.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
+Es objeto de este impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, autorizados legalmente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 114.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que obtengan los ingresos referidos en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 115.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
+El impuesto por los premios derivados de loterías, rifas, sorteos, concursos y juegos con apuestas se calculará sobre el valor del premio correspondiente a cada boleto o billete, sin deducción alguna, aplicando tasa del 6%.
+
+Cuando la persona que otorgue el premio pague por cuenta del contribuyente el impuesto que esta ley establece, el importe de dicho impuesto se considerará como ingreso de los comprendidos en este capítulo.
+
+No se pagará el impuesto establecido en este capítulo por la obtención de reintegros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 116.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al en que realicen la retención.
+
+Los organismos públicos descentralizados de la Administración Pública Federal aunque conforme a otras Leyes o Decretos no causen impuestos locales o estén exentos de ellos, deberán efectuar las retenciones de este impuesto y enterarlo de acuerdo al párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 117.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Quienes entreguen los premios a que se refiere este capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguiente (sic) obligaciones:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado, en su carácter de retenedores, utilizando para tales efectos las formas aprobadas. Las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo.
+
+II.- Proporcionar, cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio.
+
+III.- Conservar la documentación relacionada con las constancias y las retenciones de este impuesto, por plazo de cinco años, a disposición de la Secretaría de Finanzas y Tesorería General del Estado.
 
 ### CAPITULO QUINTO. Del Impuesto sobre Capitales Invertidos con Garantía de Inmuebles
 
@@ -1277,53 +1301,87 @@ c) Las actividades realizadas por el causante, y otros datos que puedan utilizar
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ### CAPITULO DECIMO. Del Impuesto sobre Honorarios
 
 ###### ARTICULO 171.
 
-Son objeto de este impuesto las erogaciones por concepto de servicios turísticos de hospedaje realizadas en establecimientos ubicados en el Estado, que operen o deban operar con tarifas autorizadas por las Autoridades de Turismo.
+Son objeto del Impuesto Sobre Hospedaje las erogaciones realizadas por concepto de pago de servicios de hospedaje recibidos en hoteles, moteles, albergues y demás establecimientos de hospedaje y en campamentos y paraderos de casas rodantes, ubicados en el Estado de Nuevo León.
+
+Dentro del objeto del impuesto se incluyen las erogaciones realizadas por el huésped bajo el sistema de tiempo compartido, por los servicios de hospedaje y por el otorgamiento de derechos de uso, goce o usufructo por períodos específicos, sobre un bien inmueble o porción del mismo, destinado al servicio de hospedaje.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 172.
 
-Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que hagan las erogaciones objeto de este gravamen.
+Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que hagan las erogaciones objeto de este gravamen, incluso cuando el servicio se preste a terceras personas.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 173.
 
-Es base de este impuesto el monto total de las erogaciones a que se refiere el Artículo 171.
+Es base de este impuesto el monto total de las erogaciones gravadas. Se consideran erogaciones gravadas los pagos totales a que se refiere el artículo 171, incluyendo los intereses, penas convencionales y cualesquier otros conceptos que se adicionen, vinculados a los servicios prestados y que se realicen en efectivo o en especie, deduciendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá en el cálculo del impuesto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 174.
 
-El impuesto se causa con tasa del 1.5% sobre las erogaciones gravadas.
+El impuesto se determinará aplicando una tasa del 2% sobre la base determinada en el artículo precedente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 175.
 
-Este impuesto se causa en el momento en que se efectúen las erogaciones objeto de gravamen, quedando obligados a retenerlo quienes presten los servicios de hospedaje que den origen a las erogaciones gravadas.
+Se causará el impuesto en el momento en que ocurra el primero de cualquiera de los siguientes supuestos:
+
+I.- Se efectúen las erogaciones gravadas;
+
+II.- Se hagan exigibles las erogaciones gravadas; o
+
+III.- Se expida el comprobante de pago correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 176.
 
-Los retenedores del impuesto deberán enterarlo en la Oficina Recaudadora de su jurisdicción dentro de los días 1o. al 20 del mes siguiente al en que se causó, presentando al efecto una declaración de las erogaciones gravadas que hayan percibido, haciendo uso de las formas oficialmente aprobadas.
+El impuesto se calculará por meses de calendario y se cubrirá ante la oficina recaudadora correspondiente a más tardar el día 15 del mes siguiente al período que corresponda.
+
+Las devoluciones, descuentos, reducciones y bonificaciones se deducirán en el mes que efectivamente se realicen.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 177.
 
-Responden solidariamente del pago del impuesto los retenedores del mismo.
+Las personas físicas y morales que presten los servicios objeto de este Impuesto, serán responsables solidarios del pago del mismo y de sus accesorios que se causen y tendrán además las siguientes obligaciones:
+
+I.- Retener el impuesto a cargo de las personas obligadas a su pago y enterarlo en los términos previstos en el artículo 176, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado;
+
+II.- Cubrir el impuesto y los accesorios a su cargo, en su carácter de responsables solidarios;
+
+III.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que perciban o se hagan exigibles y de los comprobantes de pago que expidan, mencionados en este Capítulo;
+
+IV.- Presentar ante la Secretaría de Finanzas y Tesorería General del Estado su aviso de inscripción, dentro del mes siguiente al día que inicien actividades por las cuales deban efectuar las retenciones a que se refiere este artículo. Este aviso se presentará por cada uno de los establecimientos en donde se preste el servicio de hospedaje;
+
+V.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre, denominación o razón social, cambio de domicilio, traslado, traspaso o suspensión de actividades;
+
+VI.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VII.- Presentar declaración mensual de las retenciones que les corresponda efectuar. Esta obligación subsistirá aun cuando no se hayan percibido erogaciones gravadas o no hubiese cantidad alguna a enterar o cubrir, excepto cuando el retenedor presente el aviso de suspensión respectivo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 178.
 
-Son obligaciones de los retenedores del impuesto:
+La retención del impuesto podrá hacerse constar en forma expresa y por separado, en los comprobantes de pago que expidan los retenedores.
 
-I.- Empadronarse como tales en la Tesorería General, por conducto de la Oficina Recaudadora correspondiente, dentro de los diez días siguientes al de iniciación de actividades, en las formas que al efecto apruebe la mencionada Tesorería;
+La obligación a cargo de los retenedores de enterar el impuesto por las erogaciones correspondientes al objeto de este impuesto, subsistirá aun cuando no hubiesen efectuado la retención.
 
-II.- Adoptar las medidas que en forma general señale la Tesorería General del Estado, para el control de este impuesto;
-
-III.- Proporcionar a las Autoridades Fiscales, funcionarios o empleados comisionados al efecto, los datos y documentos que en relación con este impuesto les sean solicitados, y;
-
-IV.- Presentar los avisos correspondientes ante las mencionadas autoridades y dentro de los plazos señalados en la fracción I de este artículo, en los casos de cambio de nombre, denominación o razón social, así como en los de traspaso, cambio de domicilio o de suspensión temporal o definitiva, de sus actividades.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 179.
 
-Los retenedores de este impuesto que no cumplan con la obligación de enterarlo en el plazo señalado, serán sancionados con multa de tres tantos del impuesto respectivo.
-
-En caso de reincidencia en el incumplimiento de la obligación mencionada en este artículo, la Tesorería podrá clausurar el establecimiento.
+No se pagará el impuesto tratándose de erogaciones que se realicen por la prestación de servicios de hospedaje y asistencia a estudiantes, realizadas por instituciones Educativas, Asociaciones Religiosas o en domicilios familiares.
 
 ###### ARTICULO 180.
 
@@ -1425,7 +1483,9 @@ En caso de reincidencia en el incumplimiento de la obligación mencionada en est
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-### CAPITULO DECIMO PRIMERO. Del Impuesto sobre Erogaciones Turísticas
+### CAPITULO DECIMO PRIMERO. Del Impuesto Sobre Hospedaje
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 205.
 
@@ -1843,13 +1903,13 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- Por el examen para el otorgamiento de la patente de Notario Público, ya sea titular o suplente $5,000.00
+I.- Por el examen para el otorgamiento de la patente de Notario Público, ya sea titular o suplente 204.5 cuotas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos en funciones, anualmente $2,000.00
+II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos, en funciones, anualmente 82 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1869,47 +1929,45 @@ T A R I F A
 
 Concepto:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción $12.00
+I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción .5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- Inscripción de actas de matrimonio $60.00
+II.- Inscripción de actas de matrimonio 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- Inscripción de sentencias de divorcio $125.00
+III.- Inscripción de sentencias de divorcio 5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una $12.00
+IV.- Expedición de copias certificadas de las actas del estado civil, cada .5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en lugar distinto a la sede de la Oficialía, se causará una cuota de dos tantos más de la suma fijada en las fracciones anteriores. En los casos de que el servicio se preste en horas o días inhábiles o en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos, una cantidad de hasta $125.00
+V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas o días inhábiles, o en lugar distinto a la sede de la Oficialía, se causarán dos tantos más de la suma fijada en las fracciones anteriores. En casos de que el servicio se preste en horas o días inhábiles o en lugar distinto al de la Oficialía, se cobrará en favor del Oficial del Registro Civil, por concepto de reposición de gastos, una cantidad de hasta 5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VI.- Las anotaciones marginales $36.00
+VI.- Las anotaciones marginales 1.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por la inscripción de actos o hechos realizados en el extranjero $125.00
+VII.- Por la inscripción de actos o hechos realizados en el extranjero 5.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por la tramitación del procedimiento de aclaración o rectificación de actas $36.00
+VIII.- Por la tramitación del procedimiento de aclaración o rectificación de actas 1.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IX.- Por servicio de información de inscripciones de Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta $60.00
+IX.- Por servicio de información de inscripciones de Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta 2.5 cuotas
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 X.- Por otros servicios no especificados $30.00
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -1941,9 +1999,9 @@ b) Por el excedente de N$ 50,000.00, por cada millar o fracción ….. N$ 5.00
 
 c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ….. $14.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-d) En ningún caso la cantidad a pagar será menor a ….. $72.00
+d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -1971,19 +2029,19 @@ II.- Por la expedición de copias, por cada hoja, sin perjuicio del derecho esta
 
 III.- Por certificación de copias, por cada documento ….. $65.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción pero en ningún caso la cantidad a pagar será menor de ….. $72.00
+IV.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción pero en ningún caso la cantidad a pagar será menor de ….. 3 cuotas
 
-Ni mayor de ….. $585.00
+Ni mayor de ….. 24 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V.- Por cualquier rectificación de inscripciones ….. $78.00
+V.- Por cualquier rectificación de inscripciones ….. 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad ….. $78.00
+VI.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad ….. 3.5 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2003,15 +2061,17 @@ a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados ….. $1
 
 b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados ….. $8.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-B.- Fraccionamientos comerciales, industriales y campestres ….. $22.00
+B.- Fraccionamientos comerciales, industriales y campestres ….. 1 cuota
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 C.- Cementerios …… $6.50
 
-En ningún caso la cantidad a pagar será inferior a ….. $98.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+En ningún caso la cantidad a pagar será inferior a ….. 4 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2025,29 +2085,29 @@ X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueb
 
 XI.- Por acreditación o rectificación de medidas, según el valor de la superficie adicional, determinado por la Dirección de Catastro, por cada millar o Fracción ….. N$5.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-En ningún caso la cantidad a pagar será menor a ….. $143.00
+En ningún caso la cantidad a pagar será menor a ….. 6 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XII.- Por inscripción de avisos preventivos, por cada lote o inmueble ….. $74.00
+XII.- Por inscripción de avisos preventivos, por cada lote o inmueble ….. 3 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XIII.- Por la búsqueda de antecedentes registrales ….. $26.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XIV.- Por expedición de constancias registrales de delegaciones ubicadas fuera del Area Metropolitana de la Ciudad de Monterrey, por hoja ….. $65.00
+XIV.- Por expedición de constancias registrales de delegaciones ubicadas fuera del Area Metropolitana de la Ciudad de Monterrey, por hoja ….. 3 cuotas
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XV.- Por la utilización de sistemas digitalizados:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización ….. $195.00
+a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización …… 8 cuotas
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2057,17 +2117,17 @@ b) Expedición de copias de registro de antecedentes, por cada una ….. $19.50
 
 c) Información de datos de antecedentes registrales ….. $19.50
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. $65.00
+XVI.- Por expedición de constancias no incluidas en las fracciones anteriores ….. 3 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XVII.- Por la presentación de aviso testamentario ….. $72.00
+XVII.- Por la presentación de aviso testamentario ….. 3 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XVIII.- Por la expedición de informes sobre la existencia o inexistencia de testamentos ….. $65.00
+XVIII.- Por la expedición de informes sobre la existencia o inexistencia de Testamentos ….. 3 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2077,27 +2137,27 @@ Por autorización de apertura de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $420.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado 17.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado $135.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado 5.5 cuotas
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $420.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado 17.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado $135.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado 5.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos $660.00
+III.- Por cada libro de Registro de Corredores Públicos 27 cuotas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2107,27 +2167,27 @@ Por autorización de cierre de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $200.00
+a) Para notarías públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado ….. 8.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado $80.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado ….. 3.5 cuotas
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Para Notarías Públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado $200.00
+a) Para Notarías Públicas ubicadas en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, por cada libro autorizado ….. 8.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado $80.00
+b) Para notarías públicas ubicadas en los demás municipios, por cada libro autorizado ….. 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos $420.00
+III.- Por cada Libro de Registro de Corredores Públicos ….. 17.5 cuotas
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2137,55 +2197,55 @@ Por legalización de firmas:
 
 I.- Documentos escolares:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Certificados de estudios de educación media superior $44.00
+a) Certificados de estudios de educación media superior 2 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Actas de examen profesional $250.00
+b) Actas de examen profesional 10.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c) Constancias de titulación $250.00
+c) Constancias de titulación 10.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-d) Cartas de pasante $250.00
+d) Cartas de pasante 10.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-e) Certificados de estudios superiores $250.00
+e) Certificados de estudios superiores 10.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-f) Títulos profesionales $375.00
+f) Títulos profesionales 15.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-g) Títulos de técnicos medios $125.00
+g) Títulos de técnicos medios 5 cuotas
 
 II.- Documentos judiciales:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Exhortos $90.00
+a) Exhortos 4 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Cartas de no antecedentes penales $50.00
+b) Cartas de no antecedentes penales 2 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- Actas del Registro Civil $46.00
+III.- Actas del Registro Civil 2 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IV.- Notariales $125.00
+IV.- Notariales 5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V.- Otros $23.00
+V.- Otros 1 cuota
 
 En caso de que se hayan cubierto los derechos previstos en el artículo 275 bis, fracción I, de esta Ley, no se pagarán los derechos establecidos en la fracción I de este artículo, correspondientes al mismo trámite.
 
@@ -2219,21 +2279,21 @@ Estos derechos deberán ser cubiertos dentro del primer mes del período corresp
 
 Por los siguientes servicios prestados por la Dirección de Archivo General de Notarías:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- Por certificación de constancia $60.00
+I.- Por certificación de constancia 2.5 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II.- Por expedición de Segundos Testimonios, por hoja $13.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- Por presentación de aviso testamentario $70.00
+III.- Por presentación de aviso testamentario 3 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por la expedición de informes sobre la existencia o inexistencia de testamento $60.00
+IV.- Por la expedición de informes sobre la existencia o inexistencia de testamento 2.5 cuotas
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2249,37 +2309,37 @@ I.- Constancias de Estudios:
 
 a) Por la legalización de certificados de escuelas técnicas y comerciales $28.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Por la legalización de certificados o expedición de duplicados de nivel medio superior $46.00
+b) Por la legalización de certificados o expedición de duplicados de nivel medio superior 2 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c) Por la revalidación y equivalencia de estudios de nivel medio superior y profesional, por materia $12.00
+c) Por la revalidación y equivalencia de estudios de nivel medio superior y profesional, por materia .5 cuotas
 
-En ningún caso, la cantidad a pagar será inferior a $60.00
+En ningún caso, la cantidad a pagar será inferior a 2.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 d) Por la legalización e inscripción de certificados de estudios de nivel medio
 
-superior $50.00
+superior 2 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-e) Por la legalización e inscripción de certificados de estudios profesionales $250.00
+e) Por la legalización e inscripción de certificados de estudios profesionales 10.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-f) Por la inscripción y legalización de títulos profesionales $330.00
+f) Por la inscripción y legalización de títulos profesionales 13.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-g) Por la inscripción y legalización de títulos técnicos medios $125.00
+g) Por la inscripción y legalización de títulos técnicos medios 5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-h) Por el trámite para cédula profesional $125.00
+h) Por el trámite para cédula profesional 5 cuotas
 
 > <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
@@ -2407,129 +2467,129 @@ II.- Por la inscripción de contratos de arrendamiento de bienes inmuebles, a so
 
 a) Si el importe de la renta calculado al mes no excede de $500.00 ….. $18.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Si el importe de la renta calculado al mes excede de $500.00 ….. $36.00
+b) Si el importe de la renta calculado al mes excede de 20 cuotas ….. 1.5 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 III.- Por expedición de certificado de valor actual real, según el valor determinado en el avalúo, se pagarán por cada millar o fracción N$2.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-En ningún caso la cantidad a pagar será inferior a $60.00
+En ningún caso la cantidad a pagar será inferior a ….. 2.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de consulta de valor actual real $60.00
+Tratándose de consulta de valor actual real ….. 2.5 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por expedición de certificado de no inscripción catastral $40.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V.- Por expedición de constancias catastrales sin certificar, cada una $22.00
+V.- Por expedición de constancias catastrales sin certificar, cada una 1 cuota
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por expedición de constancias catastrales certificadas, cada una $50.00
+VI.- Por expedición de constancias catastrales certificadas, cada una 2 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por la inscripción de subdivisión, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote resultante $22.00
+VII.- Por la inscripción de subdivisiónes, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote resultante 1 cuota
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por información y ubicación de predios $22.00
+VIII.- Por información y ubicación de predios 1 cuota
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 IX.- Por duplicados de certificado de valor actual real, por cada millar o fracción N$2.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-En ningún caso la cantidad a pagar será inferior a $60.00
+En ningún caso la cantidad a pagar será inferior a 2.5 cuotas
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Ni mayor de $420.00
+Ni mayor de 17.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-X.- Por duplicado de tarjetones de Impuesto Predial $22.00
+X.- Por duplicado de tarjetones de Impuesto Predial 1 cuota
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XI.- Por expedición de planos:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Manzaneros o de región $50.00
+a) Manzaneros o de región 2 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Manzaneros o de región, certificados $75.00
+b) Manzaneros o de región, certificados 3 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c) Lote $25.00
+c) Lote 1 cuota
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-d) Lote certificado $50.00
+d) Lote certificado 2 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XII.- Por asignación de número de expediente catastral a planos de fraccionamientos $60.00
+XII.- Por asignación de número de expediente catastral a planos de fraccionamientos 2.5 cuotas
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XIII.- Por servicios de control vehicular:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Para vehículos de motor, excepto motocicletas, anualmente $430.00
+a) Para vehículos de motor, excepto motocicletas, anualmente 18 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Para remolques, anualmente $170.00
+b) Para remolques, anualmente 7 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo el alta en el padrón, anualmente $65.00
+c) Para motocicletas con motor mayor de 75 centímetros cúbicos, incluyendo el alta en el padrón, anualmente 3 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-d) Por placas de demostración, semestralmente $260.00
+d) Por placas de demostración, semestralmente 10.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XIV.- Por reposición de tarjeta de circulación $46.00
+XIV.- Por reposición de tarjeta de circulación 2 cuotas
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 XV.- Por expedición de licencia de manejar o su reposición:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Con vigencia de dos años $78.00
+a) Con vigencia de dos años 3.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) Con vigencia de tres años $117.00
+b) Con vigencia de tres años 5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XVI.- Por alta en el padrón vehicular, a los vehículos mencionados en la fracción XIII en los incisos a) y b) $65.00
+XVI.- Por alta en el padrón vehicular, a los vehículos mencionados en la fracción XIII en los incisos a) y b) 3 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-XVII.- Por baja de vehículos del padrón vehícular $60.00
+XVII.- Por baja de vehículos del padrón vehicular 2.5 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto.
+Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violación al Reglamento de Tránsito en vigor.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2569,17 +2629,17 @@ Concepto: Tasa:
 
 I.- Por inscripción de títulos profesionales:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) De maestros $25.00
+a) De maestros 1 cuota
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-b) De Corredor Público o de las Patentes de Notario Público $1,375.00
+b) De Corredor Público o de las Patentes de Notario Público 56.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c) De los demás profesionistas $55.00
+c) De los demás profesionistas 2.5 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -2611,9 +2671,9 @@ b) Proveedores N$220.00
 
 V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por la expedición de constancias y certificados, que expidan las dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título $22.00
+VI.- Por la expedición de constancias y certificados, que expidan las dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título 1 cuota
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2673,9 +2733,9 @@ a) Carnicerías N$200.00
 
 b) Tiendas de autoservicio N$400.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-X.- Por expedición de certificaciones relativas a los derechos patrimoniales del Estado sobre un inmueble N$125.00
+X.- Por expedición de certificaciones relativas a los derechos patrimoniales del Estado sobre un inmueble 5 cuotas
 
 ###### ARTICULO 277 Bis.
 
@@ -2695,19 +2755,59 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ARTICULO 276 bis.- Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, se causarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante $625.00
+I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante 30 cuotas
 
-Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de $156,250.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de $312,500.00, se pagarán por cada lote o fracción resultante $60.00
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de 6,378 cuotas, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de 12,755 cuotas, se pagarán por cada lote o fracción resultante. ….. 3 cuotas
 
-II.- Por el inicio de trámite de licencia de uso de suelo o de edificación $625.00
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
 
-III.- Por la licencia de uso de suelo o de edificanes (sic), $625.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por metro cuadrado de construcción, conforme a la siguiente tarifa:
+
+a) Hasta 100 m2. ….. 6 cuotas
+
+b) Mayor de 100 m2 y hasta 250 m2. ….. 12 cuotas
+
+c) Mayor de 250 m2 y hasta 500 m2. ….. 18 cuotas
+
+d) Mayor de 500 m2 y hasta 1,000 m2 ….. 24 cuotas
+
+e) Mayor de 1,000 m2. ….. 30 cuotas
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+III.- Por la licencia de uso de suelo o de edificaciones, por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+a) Hasta 100 m2. ….. 6 cuotas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b) Mayor de 100 m2 y hasta 250 m2. ….. 12 cuotas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+c) Mayor de 250 m2 y hasta 500 m2. ….. 18 cuotas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+d) Mayor de 500 m2 y hasta 1,000 m2. ….. 24 cuotas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+e) Mayor de 1,000 m2. ….. 30 cuotas
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+Adicionalmente se cubrirá una cantidad adicional, por metro cuadrado de construcción, conforme a la siguiente tarifa:
 
 a) Hasta 100 m2 ….. $2.50
 
@@ -2737,9 +2837,9 @@ c) Mixto, le serán aplicables los derechos previstos en los incisos a) y b).
 
 V.- Por autorización de fraccionamientos:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-a) Por factibilidad y lineamientos $2,500.00
+a) Por factibilidad y lineamientos 117.5 cuotas
 
 b) Por proyecto urbanístico, por metro cuadrado de área vendible:
 
@@ -2777,41 +2877,45 @@ C. Lotes con superficie mayor de 300 metros cuadrados $6.00
 
 6.- Otros $3.75
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-c) Proyecto Ejecutivo $2,500.00
+c) Proyecto Ejecutivo 117.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-d) Certificación del cumplimiento de requisitos para ventas $2,500.00
+d) Certificación del cumplimiento de requisitos para ventas 117.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-e) Prórroga $1,250.00
+e) Prórroga 58.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-f) Actualización de garantías $1,250.00
+f) Actualización de garantías 58.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-g) Modificaciones $1,250.00
+g) Modificaciones 58.5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-h) Recepción de obra $12,500.00
+h) Recepción de obra 586.5 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, se cubrirán las cuotas previstas en este artículo en las fracciones III y V, con un incremento del 75%.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por expedición de copias certificadas de planos $75.00
+VII.- Por expedición de copias certificadas de planos 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Por la expedición de diversas constancias y certificaciones $50.00
+VIII.- Por la expedición de diversas constancias y certificaciones 2.5 cuotas
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+IX.- Por información de alineamiento de la vialidad 1.5 cuotas
 
 ###### ARTICULO 278.
 
@@ -3214,3 +3318,17 @@ El presente Decreto entrará en vigor el día 1º de Enero de 1996.
 ###### ARTICULO SEGUNDO.
 
 Durante 1996 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1 de Enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Durante 1997 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1997, los derechos por servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 41 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
