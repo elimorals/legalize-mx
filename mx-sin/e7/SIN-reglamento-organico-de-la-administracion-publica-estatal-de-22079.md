@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2002-11-06"
+last_updated: "2002-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -1065,17 +1065,27 @@ Al titular de esta entidad administrativa se le denominará Coordinador de Desar
 
 A la Coordinación General de Acceso a la Información Pública le corresponde el despacho de los siguientes asuntos:
 
-I. Dar respuesta a las solicitudes de acceso a la información pública formuladas por las personas a las dependencias o entidades del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2002)</small>
 
-II. Analizar y sistematizar los requerimientos de información pública solicitados por las personas y turnarlos ante la dependencia o entidad del Poder Ejecutivo que corresponda;
+I. Contribuir a que las dependencias o entidades del Poder Ejecutivo garanticen el ejercicio del derecho de acceso a la información pública, en los términos previstos por el artículo 26 de la Ley de Acceso a la Información Pública del Estado de Sinaloa;
 
-III. Solicitar a las dependencias o entidades del Poder Ejecutivo correspondiente, los requerimientos de información pública que formulen las personas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2002)</small>
 
-IV. Integrar la información proporcionada por las dependencias o entidades del Poder Ejecutivo para dar oportuna y adecuada respuesta a las solicitudes de información pública;
+II. Asesorar a las dependencias o entidades del Poder Ejecutivo para resolver, bajo el principio de máxima apertura, el recurso de inconformidad, establecido en el capítulo octavo de la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+III. Desarrollar mecanismos de innovación administrativa que permitan a las dependencias o entidades del Poder Ejecutivo sistematizar de la mejor manera la información pública;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+IV. Elaborar mecanismos que contribuyan a que las dependencias y entidades del Poder Ejecutivo garanticen el cumplimiento del derecho de Hábeas Data;
 
 V. Llevar el seguimiento permanente de las respuestas a las peticiones de información pública turnadas a las dependencias y entidades del Poder Ejecutivo;
 
-VI. Conocer las recomendaciones que la Comisión Estatal de Acceso a la Información Pública efectúe sobre el contenido de la información solicitada a las dependencias o entidades públicas, así como la proporcionada por las mismas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2002)</small>
+
+VI. Llevar el seguimiento de las recomendaciones y resoluciones definitivas que la Comisión Estatal de Acceso a la Información Pública efectúe a las dependencias y entidades del Poder Ejecutivo, con motivo del cumplimiento del derecho de acceso a la información pública y del derecho de Hábeas Data;
 
 VII. Proporcionar asesoría y apoyo en la instrumentación y operación de la Ley de la materia a los municipios y a los poderes legislativo y judicial, en los términos de los convenios que se celebren al efecto;
 
@@ -1322,3 +1332,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 6 DE NOVIEMBRE DE 2002.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE DICIEMBRE DE 2002.
+
+Artículo Único. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
