@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1998-07-18"
+last_updated: "1999-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1999.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -5235,7 +5235,7 @@ En lo demás se observará lo dispuesto en el capítulo que antecede.
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. SE UNE EL PRIMER Y SEGUNDO PARRAFOS PARA QUEDAR COMO PRIMERO], P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 881.
 
@@ -5295,7 +5295,11 @@ Las providencias de jurisdicción voluntaria serán apelables en ambos efectos, 
 
 ###### Artículo 890.
 
-Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella. La declaración de estado de minoridad puede pedirse:
+Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE DICIEMBRE DE 1999)</small>
+
+La declaración de estado de minoridad, o de incapacidad por las causas a que se refiere la Fracción II del artículo 465 del Código Civil, pueden pedirse:
 
 > <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
@@ -5309,9 +5313,11 @@ IV. Por el albacea;
 
 V. Por el Ministerio Público.
 
-La declaración de estado de incapacidad puede solicitarse por las mismas personas señaladas en el párrafo anterior, con excepción del incapaz.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
-Pueden pedir la declaración de minoridad los funcionarios encargados de ello por el Código Civil.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+
+Pueden pedir la declaración de minoridad los funcionarios encargados para ello por el Código Civil.
 
 ###### Artículo 891.
 
@@ -6072,3 +6078,9 @@ SEGUNDO.- El Ejecutivo Estatal, dentro de un término de noventa días, contados
 P.O. 18 DE JULIO DE 1998.
 
 UNICO.- Las reformas de que se ocupa este decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentren en trámite ante los Tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
