@@ -1,0 +1,634 @@
+---
+title: "LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA"
+identifier: "SIN-ley-de-obras-publicas-del-estado-de-sinaloa-6629"
+country: "mx"
+rank: "ley"
+publication_date: "1985-04-01"
+last_updated: "1985-04-01"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6629&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-sin"
+scjn_id: "6629"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "39 SEGUNDA SECCION"
+reform_count: "4"
+scjn_last_update: "2016-06-20"
+issue_date: "1985-03-29"
+state: "SIN"
+---
+# LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
+
+LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 1º de abril de 1985.
+
+El Ciudadano Antonio Toledo Corro, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+
+Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+
+El Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Primera Legislatura, ha tenido a bien expedir el siguiente:
+
+DECRETO NUMERO 178.
+
+LEY DE OBRAS PUBLICAS DEL ESTADO DE SINALOA
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### Artículo 1o.
+
+La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la obra pública que realicen:
+
+I.- El Gobierno del Estado, a través de la Secretaría de Obras Públicas y de las demás dependencias facultadas por la Ley, para ello;
+
+II.- Los Ayuntamientos por conducto de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y de las demás dependencias facultadas por la Ley, para ello;
+
+III.- Los organismos desconcentrados y descentralizados del Gobierno del Estado o de los Municipios;
+
+IV.- Las empresas de participación estatal o municipal en que el Gobierno del Estado o los Municipios sean socios mayoritarios;
+
+V.- Los fideicomisos en los que el fideicomitente sea el Gobierno del Estado o los Municipios o cualesquiera de los organismos o empresas a que se refieren las fracciones III y IV de este Artículo; y,
+
+VI.- Las demás dependencias, organismos, entidades e instituciones similares.
+
+###### Artículo 2o.
+
+Se considera obra pública todo trabajo que tenga por objeto crear, construir, conservar, demoler o modificar bienes inmuebles que lo sean por su naturaleza o por disposición de la Ley, siempre que tiendan al desarrollo o mejoramiento de un servicio público o de uso común, a la explotación de los recursos naturales o a la consecución de fines análogos.
+
+La incorporación de bienes muebles que sean necesarios para la realización de las obras públicas, se regirá por esta Ley, sin perjuicio de que su adquisición se regule por las disposiciones de las leyes respectivas.
+
+###### Artículo 3o.
+
+El gasto que se realice en toda obra pública, se sujetará a lo previsto en los respectivos presupuestos de egresos.
+
+###### Artículo 4o.
+
+Quedan sujetos a las disposiciones de esta Ley, en los términos que la misma establece, los contratos de servicios y de adquisiciones relacionados con la obra pública, que requieran celebrar las dependencias y organismos mencionados en el Artículo 1o.
+
+###### Artículo 5o.
+
+La aplicación de la presente Ley corresponderá al Ejecutivo del Estado, a través de la Secretaría de Obras Públicas y a los Ayuntamientos por conducto de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según se trate de obras públicas estatales o municipales.
+
+La Secretaría y las Direcciones Municipales, según corresponda, dictarán las normas administrativas que en aplicación de la presente Ley deban observarse en la contratación, ejecución y control de las obras públicas.
+
+###### Artículo 6o.
+
+La ejecución de las obras públicas, con cargo total o parcial a fondos aportados por el Gobierno del Estado, conforme a los convenios que celebren el Ejecutivo Estatal y los Ayuntamientos, se regulará por las disposiciones de la presente Ley, así como por lo pactado en los mencionados convenios, con la participación que, en su caso, corresponda a los beneficiarios de dichas obras.
+
+A su vez, las obras públicas que se realicen con cargo total o parcial a fondos aportados por la Federación, conforme a los convenios que celebren el Gobierno Federal y el Ejecutivo del Estado, se regirán por la Ley de Obras Públicas de la Federación y, en lo conducente, por la presente Ley, así como por lo estipulado en los propios convenios, con la participación que pueda corresponder a los Ayuntamientos, así como a las Unidades de Control y Evaluación del Comité Estatal de Planeación para el Desarrollo del Estado de Sinaloa y de los Comités de Planeación Municipal.
+
+###### Artículo 7o.
+
+Para efectos de planeación y control de la obra pública, el Gobierno del Estado, los Ayuntamientos y los organismos a que se refiere la presente Ley, deberán llevar inventarios actualizados:
+
+I.- De las obras públicas existentes, así como del Estado que guarden cada una de ellas;
+
+II.- De la maquinaria, instalaciones, insumos y equipos de construcción de su propiedad o a su cuidado, precisando el estado físico en que se encuentren; y,
+
+III.- De los estudios y proyectos que realicen sobre las obras públicas, los que deberán conservarse indefinidamente en los archivos correspondientes.
+
+### CAPITULO II. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
+
+### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
+
+###### Artículo 8o.
+
+La planeación de la obra pública que realicen el Gobierno del Estado, los Ayuntamientos y los organismos a que se refiere el artículo 1o. deberá:
+
+I.- Sujetarse a los objetivos, políticas y prioridades señalados en los planes y programas que se elaboren a nivel sectorial y regional de desarrollo urbano, social y económico a corto, mediano y largo plazo, de acuerdo con los recursos identificados en los mismos planes, y en observancia de las normas y lineamientos que de ellos se deriven.
+
+II.- Prever los requerimientos de áreas y predios para la obra pública, previa consulta con la Secretaría de Obras Públicas o de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, para que estas, dentro de sus respectivas competencias, determinen la conveniencia y viabilidad de los mismos y observar, así mismo, las declaratorias de provisiones, usos, reservas y destinos de áreas y predios;
+
+III.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
+
+IV.- Establecer las acciones necesarias para que las obras públicas iniciadas se concluyan y operen convenientemente;
+
+V.- Tomar en cuenta los avances tecnológicos aplicables, en función de la naturaleza de las obras; y,
+
+VI.- Preferir en igualdad de condiciones el empleo de trabajadores y de materiales de la región donde se ubiquen las obras, así como de equipos y procedimientos de manufacturas o tecnología nacional que satisfagan los requerimientos técnicos y económicos del proyecto respectivo.
+
+###### Artículo 9o.
+
+Los programas y presupuestos de obra pública se elaborarán con base en las políticas, prioridades y recursos identificados en la planeación del desarrollo del Estado y de los Municipios, debiendo considerarse en los mismos:
+
+I.- Los objetivos y metas a corto, mediano y largo plazo;
+
+II.- Las acciones que se han de realizar y los resultados que se han de obtener;
+
+III.- Los recursos necesarios para su ejecución, así como la calendarización física y financiera de los mismos y los gastos de operación; y
+
+IV.- Las dependencias u organismos responsables de su ejecución.
+
+Los organismos a que se refiere la presente Ley deberán remitir sus programas de obra pública a la Secretaría de Obras Públicas o a las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según corresponda, a efecto de que sean integrados a la planeación del desarrollo del Estado o de los Municipios.
+
+###### Artículo 10.
+
+Los programas de las obras públicas indicarán las fechas de iniciación y terminación de todas sus fases. Al efecto se considerarán las acciones previas para el inicio de las mismas, así como las características ambientales, climatológicas y geográficas de la región donde deban realizarse y el abastecimiento oportuno de los suministros e insumos necesarios para su ejecución.
+
+###### Artículo 11.
+
+Dentro de sus programas las dependencias y organismos elaborarán los presupuestos de cada una de las obras públicas que pretendan realizar, distinguiendo las que se han de ejecutar por administración directa de las que se podrán adjudicar por contrato. Los presupuestos incluirán, según el caso, los costos correspondientes a:
+
+I.- Las investigaciones, asesorías, consultorías y estudios, así como los proyectos arquitectónicos y de ingeniería que se requieran;
+
+II.- La regularización y adquisición de los terrenos necesarios;
+
+II.- La ejecución, que deberá incluir el costo estimado de la obra que se realice por contrato, y en caso de efectuarse por administración directa, el monto de los recursos y financiamientos necesarios, las condiciones del suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra, los cargos adicionales para prueba y funcionamiento así como los costos indirectos de la obra;
+
+IV.- Las obras de infraestructura complementaria que se requieran;
+
+V.- Las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales; y
+
+VI.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
+
+###### Artículo 12.
+
+En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total de la obra, como el relativo a los ejercicios de que se trate, según las etapas de ejecución que se establezcan en la planeación y programación de las mismas.
+
+### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
+
+###### Artículo 13.
+
+La Secretaría de Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano llevarán, cada una de ellas, un padrón de contratistas de obra pública en el que se clasificarán a las persona (sic) inscritas en los mismos, de acuerdo con su especialidad, capacidad técnica y económica. Dicha clasificación deberá considerarse en la convocatoria y contratación de la obra pública.
+
+La relación de personas inscritas en el padrón, se hará del conocimiento de los organismos y público en general.
+
+Las dependencias y organismos sólo podrán celebrar contratos de obra pública con las personas inscritas en el padrón cuyo registro esté vigente, con excepción de los casos en que el costo de la obra no rebase el importe de quinientas veces el salario mínimo general diario vigentes en la zona económica de ubicación de la obra.
+
+En caso de estar incompleto el padrón estatal, la Secretaría de Obras Públicas podrá recurrir al padrón de contratistas del Gobierno Federal. Tratándose del padrón municipal, si estuviere incompleto, los Ayuntamientos podrán recurrir, a su vez, a los padrones de registro de contratistas de los demás municipios, al del Gobierno del Estado o bien al del Gobierno Federal.
+
+###### Artículo 14.
+
+Las personas interesadas en inscribirse en el padrón de contratistas de obra pública, deberán solicitarlo por escrito ante la Secretaría de Obras Públicas, o ante la Dirección Municipal de Obras Públicas y Desarrollo Urbano que corresponda, debiendo proporcionar, según se trate de personas físicas o morales, la siguiente información y documentos:
+
+I.- Datos generales de la interesada;
+
+II.- Señalamiento de domicilio para recibir notificaciones en la capital del Estado o en la cabecera municipal respectiva;
+
+III.- Escritura constitutiva y modificaciones, en su caso;
+
+IV.- Experiencia y especialidad;
+
+V.- Capacidad, recursos técnicos, económicos y financieros;
+
+VI.- Maquinaria y equipo disponibles;
+
+VII.- Constancia del Registro Federal de Contribuyentes;
+
+VIII.- Constancia de registro ante la Cámara de la Industria de la Construcción que corresponda;
+
+IX.- Constancia de registro patronal ante el Instituto Mexicano del Seguro Social;
+
+X.- Constancia de registro ante el Instituto de Fondo Nacional de la Vivienda para los Trabajadores; y
+
+XI.- Los demás documentos e información que las dependencias mencionadas consideren necesarios.
+
+Los recursos económicos y financieros se deberán comprobar con la última declaración anual formulada ante la Secretaría de Hacienda y Crédito Público y con el balance correspondiente, que comprenda hasta el mes anterior a la fecha de solicitud de concurso.
+
+###### Artículo 15.
+
+El Registro en el Padrón de Contratistas de Obra Pública tendrá una vigencia indefinida. Las Dependencias encargadas de llevar el Padrón de Contratistas podrán verificar, en cualquier tiempo, la información que los contratistas hubieren aportado para la obtención de su registro.
+
+La inscripción causará los derechos que se establezcan en las disposiciones fiscales correspondientes.
+
+###### Artículo 16.
+
+Las dependencias encargadas de llevar el Padrón de Contratistas, dentro del término de veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverán sobre la inscripción del Registro. Transcurrido este plazo sin que haya respuestas, se tendrá por registrado al solicitante, sin perjuicio de que este Registro se pueda cancelar si por verificación posterior apareciere que la solicitud no reune los requisitos señalados en el Artículo 14.
+
+###### Artículo 17.
+
+Las Dependencias que lleven el padrón de contratistas, estarán facultadas para suspender el registro de los contratistas cuando:
+
+I.- Se les declare en estado de quiebra o sujetos a concurso de acreedores; o,
+
+II.- Se les declare incapacitados legalmente para contratar.
+
+La suspensión se levantará cuando cesen las causas que la motivaron, a solicitud del interesado.
+
+###### Artículo 18.
+
+La Secretaría de Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, según corresponda, estarán facutadas (sic) para cancelar el registro de los contratistas cuando:
+
+I.- Incurran en actos u omisiones que les sean imputables y que perjudiquen gravemente los intereses de la contratante;
+
+II.- Celebren contratos en contravención a lo dispuesto por esta Ley;
+
+III.- Proporcionen información falsa para obtener su inscripción en el padrón de contratistas o actúen con dolo o mala fe en una licitación o en la ejecución de una obra;
+
+IV.- No cumplan en sus términos algún contrato por causas imputables a ellos y perjudiquen los intereses de la contratante;
+
+V.- Se les declare en quiebra fraudulenta; y,
+
+VI.- Las demás causas graves que afecten el interés general, a juicio de las citadas dependencias.
+
+###### Artículo 19.
+
+Las resoluciones que nieguen las solicitudes de inscripción y las que decreten la cancelación o suspensión del Registro en el Padrón de Contratistas de Obra Pública, se notificará personalmente o por correo certificado con acuse de recibo en el domicilio que el interesado haya señalado. Contra las resoluciones mencionadas, podrá interponerse recurso de revocación, en los términos de esta Ley.
+
+### CAPITULO V. DE LAS MODALIDADES PARA LA REALIZACION DE LAS OBRAS PUBLICAS
+
+###### Artículo 20.
+
+Tanto en las obras públicas que se realicen por administración directa, como en las que se adjudiquen por concurso, las Dependencias u organismos podrán contratar servicios profesionales relacionados con cualquiera de sus fases, siempre que se trate de realizar trabajos de investigación, consultoría y asesoría especializada, así como de estudios y proyectos, o de dirección o supervisión.
+
+###### Artículo 21.
+
+No procederá la contratación de servicios profesionales para la realización de estudios y proyectos, cuando éstos ya existieren en los archivos de la contratante, siempre que reúnan los requisitos técnicos exigibles, lo cual deberá verificarse previamente a dicha contratación.
+
+###### Artículo 22.
+
+Los contratos a que se refiere el artículo 20 podrán adjudicarse directamente bajo la responsabilidad de la contratante, quedando en los demás, sujetos a las disposiciones de esta Ley y a las que de ella se deriven.
+
+### CAPITULO VI. DE LA INFORMACION Y VERIFICACION DE LA OBRA PUBLICA
+
+###### Artículo 23.
+
+Las obras públicas podrán realizarse por administración directa o por contratación.
+
+###### Artículo 24.
+
+Para la realización de obras públicas se requiere:
+
+I.- Que la obra esté incluida en el programa de inversión autorizado;
+
+II.- Que cuente con los estudios y proyectos, las normas y especificaciones de construcción, el presupuesto, el programa de ejecución y, en su caso, el programa de suministro; y,
+
+III.- Que se cumplan los trámites o gestiones complementarios que se relacionen con la obra, de conformidad con las disposiciones legales aplicables.
+
+###### Artículo 25.
+
+El Gobierno del Estado, así como los Ayuntamientos y organismos a que se refiere esta Ley, podrán realizar obras por administración directa, siempre que cuenten con la capacidad técnica y los elementos necesarios.
+
+Previamente a la ejecución de estas obras, los titulares de la Secretaría de Obras Públicas y de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, así como de los organismos a que se refiere la presente Ley, según corresponda, dictarán el respectivo acuerdo de iniciación de la obra, fundando y motivando la decisión de llevarla a cabo por administración directa, y lo harán del conocimiento de la Contraloría General del Poder Ejecutivo o del órgano de control municipal, según el caso, debiendo además informar periódicamente el avance físico de la obra y los gastos efectuados. Igualmente deberán comunicarles la suspensión y terminación de la misma.
+
+Formarán parte integrante del acuerdo a que se refiere este artículo, la descripción pormenorizada de la obra que se pretende ejecutar, así como los proyectos, planos, especificaciones, programas de ejecución y de suministro y el presupuesto correspondiente.
+
+En la ejecución de estas obras serán aplicables, en lo conducente, las disposiciones contenidas en los Artículos 33, 37, 38, 39, 43, 49 y 50.
+
+###### Artículo 26.
+
+Los contratos de obra pública que pretendan celebrarse, se adjudicarán o llevarán a cabo a través de licitación pública, mediante convocatoria pública.
+
+Las dependencias u organismos enviarán copia de la convocatoria a la Contraloría General del Poder Ejecutivo o al órgano de control municipal, según el caso.
+
+###### Artículo 27.
+
+Las convocatorias podrán referirse a una o más obras, se publicarán en el Órgano Oficial del Gobierno del Estado o en alguno de los periódicos de mayor circulación en la Entidad, o en el lugar de realización de la obra y contendrán, cuando menos, los siguientes elementos:
+
+I.- El nombre o la denominación de la dependencia u organismo convocante;
+
+II.- El lugar en que se pretenda realizar la obra;
+
+III.- La descripción general de la obra de que se trate;
+
+IV.- Los requisitos que deberán satisfacer los interesados;
+
+V.- La información sobre los anticipos;
+
+VI.- El período para la inscripción en el proceso de licitación, en el cual no podrá ser menor de diez días naturales, contados a partir de la fecha de publicación de la convocatoria;
+
+VII.- El lugar fecha y hora en que se celebrará la junta pública de presentación y apertura de proposiciones, la que deberá llevarse a cabo en un plazo no menor de quince días naturales a partir de la fecha de publicación de la convocatoria;
+
+VIII.- Los criterios conforme a los cuales se decidirá la adjudicación; y,
+
+IX.- La especialidad que se requiera para participar en el concurso, de acuerdo al padrón de contratistas de obra pública.
+
+###### Artículo 28.
+
+Toda persona que satisfaga los términos de la convocatoria, tendrá derecho a presentar proposiciones solventes en sobre cerrado, que será abierto en junta pública, a fin de asegurar al Gobierno del Estado, a los Municipios y organismos a que se refiere la presente Ley, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a las disposiciones legales aplicables.
+
+###### Artículo 29.
+
+En los supuestos contemplados en los Artículos 49 y 50, la Secretaría de Obras Públicas del Estado, así como las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y los organismos a que se refiere la presente Ley, podrán optar por contratar las obras públicas señaladas en dichos artículos sin llevar a cabo las licitaciones a que se refiere el Artículo 26.
+
+La contratación de obras en los términos del párrafo anterior deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, los Municipios u organismos, según corresponda.
+
+El acuerdo que se dicte para realizar obra pública en los términos del presente artículo, deberá precisar las razones por las que se considere que la misma encuadra en lo dispuesto por los artículos 49 y 50.
+
+###### Artículo 30.
+
+Cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que refiere el artículo 26 por el costo que éste represente, las dependencias u organismos mencionados en el artículo anterior, podrán contratar directamente la realización de la obra sin ajustarse a dicho procedimiento, siempre que el monto objeto del contrato no exceda de diez mil veces el salario mínimo general de la zona económica donde se vaya a ejecutar.
+
+Si el importe de la obra supera el monto máximo a que se refiere el párrafo anterior pero no excede de treinta mil veces el salario mínimo general, el contrato correspondiente podrá adjudicarse a la persona que reúna las mejores condiciones, previa convocatoria por invitación que se extenderá a cuando menos tres personas que cuenten con la capacidad de respuesta y los recursos técnicos, económicos, financieros y demás que sean necesarios y estén inscritos en el padrón y con registro vigente.
+
+Para los efectos de la aplicación de este Artículo, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos señalados, en la inteligencia de que en ningún caso el importe total de una obra podrá ser fraccionada para que quede comprendida en los supuestos a que se refieren los párrafos precedentes.
+
+###### Artículo 31.
+
+Las personas interesadas en participar en los concursos, deberán otorgar garantía para asegurar al contratante la solvencia de sus proposiciones en los procedimientos de adjudicación.
+
+Las personas a quienes se les adjudiquen los contratos deberán otorgar garantía suficiente para el cumplimiento de los mismos, así como para la correcta inversión en la obra de los anticipos que en su caso reciba.
+
+Dichas garantías se deberán constituir a favor de la Secretaría de Hacienda Pública y Tesorería del Estado, de la Tesorería Municipal o directamente a favor de los organismos a que se refiere la presente Ley, según corresponda.
+
+###### Artículo 32.
+
+La convocante, en base a su propio presupuesto de la obra y en el análisis comparativo de las proposiciones admitidas, emitirá un dictamen que servirá como fundamento para dictar el fallo.
+
+En junta pública, la convocante dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que de entre los proponentes, reúna las condiciones exigidas.
+
+Si resultare que dos o más proposiciones satisfacen los requisitos señalados por la convocante, el contrato se adjudicará a quien presente la postura más baja.
+
+La convocante no adjudicará el contrato cuando las posturas presentadas no fueren aceptables y procederá a expedir una nueva convocatoria.
+
+En igualdad de circunstancias, los contratistas de la localidad tendrán preferencia para que se les adjudique el contrato.
+
+Contra el fallo no procederá recurso alguno.
+
+###### Artículo 33.
+
+Queda prohibida la participación en concursos y la adjudicación de contratos de obra pública, a las siguientes personas:
+
+I.- Las empresas en las que sean propietarios o participen como accionistas, administradores, gerentes, apoderados o comisarios, el servidor público o su representante que deban decidir directamente sobre la adjudicación del contrato, o su cónyuge o sus parientes por afinidad o consaguinidad hasta el cuarto grado;
+
+II.- Los contratistas que, sin causa justificada, se encuentren en situación de mora o hubieren incumplido la realización de otra obra pública contratada con el Gobierno del Estado, los Ayuntamientos, los organismos a que se refiere la presente Ley o con las dependencias u organismos del Gobierno Federal; y,
+
+III.- Las demás que se encuentren legalmente impedidas.
+
+Lo establecido en este artículo se aplicará también a los contratos de arrendamiento y de servicios relacionados con la obra pública.
+
+###### Artículo 34.
+
+La adjudicación del contrato obligará a la convocantes (sic) y al adjudicatario a formalizar el documento respectivo, dentro de los veinte días hábiles siguientes a la fecha del fallo.
+
+Si el adjudicatario, no firmare el contrato dentro del término señalado, perderá en favor de la Hacienda Pública o del organismo respectivo, la garantía que hubiere otorgado y se adjudicará el contrato al participante siguiente, en los términos del Artículo 32, o en su defecto, en el mismo orden, a los subsecuentes participantes.
+
+###### Artículo 35.
+
+Los contratos de obra a que se refiere la presente Ley, se celebrarán a precio alzado o sobre la base de precios unitarios, pudiendo el contratante establecer las modalidades que tiendan a garantizar las mejores condiciones de ejecución de la obra.
+
+Formarán parte del contrato, la descripción pormenorizada de la obra que se deba ejecutar, así como los proyectos, planos, especificaciones, programas de ejecución, de suministro y los presupuestos correspondientes.
+
+###### Artículo 36.
+
+La ejecución de las obras públicas contratadas deberán iniciarse en la fecha estipulada y para ese efecto la contratante pondrá a disposición del contratista el inmueble en que deba realizarse.
+
+Dentro de los diez días hábiles siguientes a la fecha de iniciación de la obra pública contratada, las dependencias y organismos a que se refiere la presente Ley lo comunicarán a la Contraloría General del Poder Ejecutivo o al órgano de control de los Ayuntamientos, según corresponda. Asimismo deberán informar periódicamente los avances, suspensión y terminación de la obra.
+
+###### Artículo 37.
+
+La persona a quien se adjudique el contrato, no podrá encomendar a otro la ejecución de la obra sin autorización previa y por escrito de la contratante, la cual sólo podrá concederse respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. En estos casos, el contratista seguirá siendo responsable de la ejecución de la obra y el subcontratista no quedará subrogado en ninguno de los derechos del primero.
+
+Tratándose de obras públicas por administración directa, las dependencias u organismos a que se refiere la presente Ley, requerirán acuerdo expreso de sus respectivos titulares.
+
+###### Artículo 38.
+
+La contratante, dentro del programa de inversión aprobado, bajo su responsabilidad y por causas supervinientes que así lo justifiquen, podrá celebrar convenios para modificar el monto o plazo fijados en el contrato de obra pública o de servicios relacionados con la misma, siempre y cuando, no se rebase el 25% del monto o del plazo pactados, ni impliquen variaciones substanciales en el proyecto original.
+
+Si las modificaciones exceden del porcentaje indicado o varían substancialmente el proyecto, se deberá celebrar, por una sola vez, convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del Artículo 24, las que no podrán en modo alguno afectar la naturaleza y características esenciales de la obra objeto del contrato original, ni estipularse para eludir en cualquier forma el cumplimiento de la Ley. Este convenio adicional deberá ser autorizado por el titular de la dependencia u organismo de que se trate.
+
+Las circunstancias a que se refiere el párrafo anterior se informarán a la Contraloría General del Poder Ejecutivo o al órgano de control de los Ayuntamientos, según se trate, en un plazo que no exceda de quince días hábiles, contados a partir de la fecha en que se hubiere formalizado la modificación.
+
+###### Artículo 39.
+
+La contratante podrá suspender temporalmente en todo o en parte la obra contratada, por causa grave que así lo amerite.
+
+###### Artículo 40.
+
+La contratante podrá rescindir administrativamente los contratos de obra pública por razones de interés general o por contravención grave a los términos del contrato a las disposiciones de esta Ley.
+
+###### Artículo 41.
+
+En el contrato de obra pública se estipularán en forma enunciativa y no limitativa, las causas de rescisión del mismo y las de suspensión de la obra la contratante comunicará la suspensión de la obra o la rescisión del contrato al contratista, así como a la Contraloría General del Poder Ejecutivo o al órgano de control municipal, según el caso, dentro de los diez días hábiles siguientes a la fecha en que se dicte la respectiva resolución.
+
+###### Artículo 42.
+
+Las estimaciones de trabajos ejecutados, correspondientes a contratos en ejercicio, se formularán bajo la responsabilidad de la contratante.
+
+###### Artículo 43.
+
+El contratista comunicará de inmediato a la contratante la terminación de la obra y ésta, dentro de los treinta días hábiles siguientes, verificará tal circunstancia, salvo que se pacte expresamente otro plazo.
+
+La recepción de la obra se hará dentro de los treinta días hábiles siguientes a la fecha en que se haya verificado su terminación.
+
+La contratante comunicará con la debida anticipación a la Contraloría General del Poder Ejecutivo o al órgano de control municipal, según procede, la fecha y, en su caso, el lugar para la recepción de la obra a fin de que, si lo estima conveniente, nombre representante que asista al acto.
+
+En la fecha y lugar señalados, la contratante bajo su responsabilidad recibirá la obra y levantará el acta correspondiente, con o sin la comparecencia del representante a que se refiere el párrafo anterior.
+
+###### Artículo 44.
+
+Concluida la obra, no obstante su recepción formal, el contratista quedará obligado al saneamiento por evicción, así como por defectos o vicios ocultos que resultaren en la misma, independientemente de cualquiera otra responsabilidad en que hubiere incurrido de conformidad con lo estipulado en el contrato respectivo o en las disposiciones legales aplicables.
+
+###### Artículo 45.
+
+Los contratos que con base en la presente Ley celebren el Gobierno del Estado, los Ayuntamientos y los organismos, se considerarán de derecho público.
+
+Las controversias relativas a las resoluciones y contratos, así como a la interpretación y aplicación de esta Ley, se regirán por lo dispuesto en el Capítulo octavo.
+
+###### Artículo 46.
+
+La Secretaría de Obras Públicas y las Direcciones Municipales de Obras Públicas y Desarrollo Urbano, así como los organismos a que se refiere la presente Ley, deberán proporcionar a la Secretaría de Hacienda Pública y Tesorería o a la Tesorería Municipal, según sea el caso, copia de los títulos de propiedad, si los hubiere, de los inmuebles objeto de la obra pública realizada o en proceso de realización y los datos de localización y construcción de ésta, a efecto de que se proceda a inscribirlos en el Registro Público de la Propiedad, en el Municipio de ubicación de los mismos y para que se incluyan en los catálogos e inventarios de los bienes y recursos respectivos.
+
+###### Artículo 47.
+
+Una vez recibida la obra o parte utilizable de la misma, las dependencias u organismos la entregarán oportunamente a la unidad que deba operarla, debiendo proporcionarle los planos actualizados, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes.
+
+###### Artículo 48.
+
+Las dependencias y organismos bajo cuya responsabilidad quede una obra pública después de terminada, estarán obligadas a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realicen conforme a los objetivos y acciones de los programas respectivos.
+
+La Secretaría de Hacienda Pública y Tesorería del Estado, las Tesorerías Municipales y los organismos llevarán registros de los gastos de conservación, mantenimiento y demolición en su caso, de la obra pública, vigilando el eficiente aprovechamiento de la misma.
+
+###### Artículo 49.
+
+El Gobernador del Estado o los Presidentes Municipales, acordarán la ejecución de obras, los gastos correspondientes y los medios de control que estimen necesarios, cuando éstas se realicen con fines de seguridad interior.
+
+###### Artículo 50.
+
+Las dependencias u organismos, bajo su responsabilidad, podrán realizar por administración directa, o contratar en los términos del artículo 29, las obras que se requieran en los supuestos que a continuación se señalan:
+
+I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
+
+II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad o la seguridad general, o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por causas fortuitas o de fuerza mayor. En estos casos, las dependencias u organismos se coordinarán, según procede, con los órganos competentes;
+
+III.- Cuando la dependencia u organismo hubieren rescindido el contrato respectivo. En este supuesto, se verificará previamente, conforme al criterio de adjudicación que establece el segundo párrafo del Artículo 34, si existe una proposición que resulte aceptable, en cuyo caso el contrato se celebrará con el contratista respectivo;
+
+IV.- Cuando se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada;
+
+V.- Cuando se trate de obras públicas en las que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes a elaborar el programa de ejecución;
+
+VI.- Cuando se trate de trabajos que requieran, fundamentalmente, de mano de obra campesina o urbana marginada y que la dependencia u organismo contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde debe ejecutarse la obra o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes;
+
+VII.- Cuando el contrato sólo pueda celebrarse con el titular de la patente necesaria para realizar la obra; y,
+
+VIII.- Cuando se trate de sub-contratar parte de una obra de administración directa o se requieran materiales o equipos que incluyan su instalación en la obra.
+
+En los casos previstos en las fracciones anteriores, si se decidiere contratar directamente la obra, éste se adjudicará, sin necesidad de licitaciones públicas, a las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
+
+El titular de la dependencia u organismo, en un plazo que no excederá de diez días hábiles contados a partir de la fecha de iniciación de los trabajos, deberá informar de estos hechos a la Contraloría General del Poder Ejecutivo o al Órgano de Control Municipal, según corresponda.
+
+### CAPITULO VII. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 51.
+
+Son facultades y obligaciones de la Secretaría de Obras Públicas, así como de las Direcciones Municipales de Obras Públicas y Desarrollo Urbano y organismos a que se refiere la presente Ley, en materia de información y verificación de la obra pública:
+
+I.- Llevar el control de la obra pública en todas sus fases;
+
+II.- Establecer las normas y procedimientos de supervisión y control de la obra pública;
+
+III.- Controlar y conservar en forma ordenada y sistemática, la documentación comprobatoria del gasto efectuado en las obras públicas a su cargo, cuando menos durante seis años contados a partir de su recepción o suspensión;
+
+IV.- Proporcionar a la Contraloría General del Poder Ejecutivo o al órgano de control municipal según sea el caso; la información, contratos y documentos que le soliciten en cualquier tiempo;
+
+V.- Dar las facilidades necesarias a la Contraloría General del Poder Ejecutivo o al órgano municipal de control según sea el caso; a efecto de que éstos puedan realizar el control de la obra pública; y,
+
+VI.- Las demás que señalen las disposiciones legales aplicables.
+
+###### Artículo 52.
+
+Son facultades y obligaciones de la Contraloría General del Poder Ejecutivo y de los órganos de control municipal, en sus respectivos casos en materia de información y verificación de la obra pública;
+
+I.- Solicitar en cualquier tiempo a las dependencias y organismos a que se refiere la presente Ley, la información, datos y documentos relacionados con la obra pública;
+
+II.- Establecer los procedimientos de información que se requieran para el seguimiento y control del gasto que realicen las dependencias y organismos, por concepto de adquisiciones de materiales, equipo y maquinaria o de cualquier otro accesorio relacionado con la obra pública;
+
+III.- Determinar por acuerdo del Ejecutivo del Estado o de los Ayuntamientos, los lineamientos generales a que se sujetarán las dependencias y organismos para establecer las normas y procedimientos de supervisión y control de la obra pública;
+
+IV.- Verificar en cualquier tiempo que las obras y servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley a los programas y presupuestos autorizados;
+
+V.- Solicitar a las dependencias y organismos las aclaraciones pertinentes o comunicarle las contravenciones legales que adviertan e indicarles las medidas que deben adoptar para corregirlas, señalándoles el plazo para el efecto, debiendo éstos informarles del cumplimiento que hubieren dado a tales indicaciones;
+
+VI.- Realizar las visitas, inspecciones y verificaciones que estimen pertinentes a las dependencias u organismos responsables de la realización de la obra pública y solicitar de éstos, así como de los contratistas, todos los datos e informes relacionados con las mismas; y,
+
+VII.- Las demás que señalen las disposiciones legales aplicables.
+
+### CAPITULO VIII. DE LOS RECURSOS
+
+###### Artículo 53.
+
+Los contratistas que infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, según la gravedad del acto u omisión, podrán ser sancionadas:
+
+I.- Con multa de diez a mil veces el salario mínimo general vigente en la zona económica de que se trate. En caso de reincidencia se aplicará otra multa mayor, dentro de los límites señalados o se duplicará la multa que se hubiere impuesto inicialmente;
+
+II.- Con la cancelación de su registro en el padrón de contratistas de obra pública en los términos del artículo 18;
+
+III.- Con la rescisión administrativa del contrato de obra pública; y,
+
+IV.- Con la reparación del daño causado.
+
+La subcontratación de obra pública que realice el contratista en violación del Artículo 37, será causa de cancelación de su registro en el padrón de contratistas del Estado o de los Municipios, según corresponda y será motivo, además, para rescindir administrativamente los contratos de obra que le hubieren adjudicado.
+
+Las sanciones mencionadas, se aplicarán por la Secretaría de Gobierno a través de la Dirección de Asuntos Jurídicos, o por la Secretarías de los Ayuntamientos, según corresponda, una vez remitida la información conducente por la Secretaría de Obras Públicas o por las Direcciones Municipales de Obras Públicas y Desarrollo Urbano. En cada caso, las multas impuestas se harán efectivas por las autoridades fiscales competentes.
+
+Las infracciones cometidas por los servidores públicos serán sancionadas conforme a la Ley de Responsabilidades.
+
+###### Artículo 54.
+
+Las multas se impondrán conforme a los siguientes criterios:
+
+I.- Se tomará en cuenta la gravedad de la infracción y las condiciones del infractor; y,
+
+II.- Cuando sean varios los responsables cada uno será sancionado con el total de la multa que se imponga.
+
+###### Artículo 55.
+
+No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se cumpla en forma espontánea del precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
+
+###### Artículo 56.
+
+Para la aplicación de las sanciones a que se refiere este Capítulo, se observará el siguiente procedimiento:
+
+I.- Se comunicará por escrito al presunto infrator (sic) los hechos constitutivos de la infracción para que dentro del término de veinte días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
+
+II.- Dentro de los treinta días hábiles siguientes al vencimiento del término a que se refiere la fracción anterior, se dictará la resolución correspondiente, en la que se considerarán los argumentos y pruebas que se hubieren hecho valer;
+
+III.- Si el presunto infractor no comparece a deducir sus derechos y aportar las pruebas necesarias, la resolución se dictará en el término que señala la fracción anterior teniendo por cierto los hechos imputados; y,
+
+IV.- La resolución que se dicte se notificará entregándole copia de la misma en su domicilio al interesado o a su representante legal, dentro de un plazo de diez días hábiles.
+
+###### Artículo 57.
+
+Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley, o de las normas que de ella se deriven, deberán comunicarlo a la dependencia correspondiente.
+
+La omisión a lo dispuesto en el párrafo anterior será sancionada conforme a la Ley de Responsabilidades.
+
+###### Artículo 58.
+
+Las sanciones a que se refiere la presente Ley son independientes de las responsabilidades de orden civil, penal o administrativo que puedan derivarse de la comisión de tales hechos.
+
+###### Artículo 59.
+
+Los actos, convenios, contratos y negocios jurídicos que se realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho. Dicha nulidad será constatada de oficio por la Secretaría de Gobierno o las Secretarías de los Ayuntamientos, según corresponda, observándose el procedimiento previsto por el Artículo 56.
+
+###### Artículo 60.
+
+Las controversias que se deriven de la interpretación o aplicación de la presente Ley o de los contratos celebrados conforme a ésta, serán resueltas por el Tribunal Fiscal del Estado.
+
+###### Artículo 61.
+
+Contra las resoluciones que se dicten en aplicación de esta Ley, excepto el caso previsto por el Artículo 32, procederá el recurso de revocación ante la autoridad u organismo que las hubiere emitido o el juicio de nulidad ante el Tribunal Fiscal del Estado, a elección del interesado.
+
+###### Artículo 62.
+
+El recurso de revocación se sujetará al siguiente procedimiento:
+
+I.- Se interpondrá por escrito, dentro del término de quince días hábiles contados a partir del día hábil siguiente al de la notificación de la resolución respectiva, en el que el recurrente expresará agravios y ofrecerá las pruebas que se proponga rendir, debiendo acompañar copia de la resolución impugnada y de la constancia de su notificación, excepto cuando ésta se hubiere efectuado por correo;
+
+II.- En el recurso no será admisible la prueba de confesión ni la testimonial de las autoridades.
+
+Si dentro del trámite que haya dado origen a la resolución recurrida el interesado tuvo oportunidad razonable de rendir pruebas sólo se le admitirán en el recurso las que hubiere allegado en tal oportunidad, salvo que se trate de pruebas relativas a hechos supervinientes;
+
+III.- Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos y sin el cumplimiento de este requisito serán desechadas;
+
+IV.- Se tendrán por no ofrecidas las pruebas documentales si éstas no se acompañan al escrito en que se interponga el recurso, salvo que obren en el expediente en que se haya originado la resolución recurrida;
+
+V.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente; de no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
+
+VI.- La autoridad u organismo, podrá pedir que se le rindan los informes que estime pertinentes por parte de quienes hayan intervenido en el acto impugnado;
+
+VII.- La autoridad u organismo acordará lo que se proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas y ordenará el desahogo de las mismas dentro del plazo de quince días hábiles, el que será improrrogable; y,
+
+VIII.- Vencido el plazo para la rendición de las pruebas se dictará resolución en un término que no excederá de treinta días hábiles.
+
+###### Artículo 64.
+
+(sic) El juicio de nulidad se tramitará conforme al procedimiento establecido en la Ley que rige el funcionamiento del Tribunal Fiscal del Estado.
+
+## TRANSITORIOS
+
+Artículo Primero.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Segundo.- Los contratistas que tengan interés en continuar inscritos en el Padrón de Obra Pública del Estado que lleva la Secretaría de Obras Públicas, deberán cumplir con los requisitos que señala el presente decreto para obtener su registro, lo cual harán dentro de los noventa días siguientes contados a partir de la fecha en que entre en vigor este Ordenamiento. Si dentro del término señalado se celebrare algún concurso de obra pública estatal, podrán paritcipar (sic) en el mismo los contratistas que cuenten con registro de dicho padrón, que se hubiere otorgado con anterioridad a la vigencia del presente Decreto.
+
+Dentro del término señalado, las direcciones municipales de obras públicas y desarrollo urbano abrirán el registro del Padrón de Obra Pública Municipal, pudiendo los contratistas solicitar su registro en cualquier tiempo una vez transcurrido dicho término. Mientras no se abra el registro, podrán participar en los concursos para obra pública municipal los contratistas inscritos en el Padrón de Obra Pública del Estado, en los términos del párrafo anterior.
+
+Artículo Tercero.- El Reglamento de la presente Ley deberá expedirlo el C. Gobernador Constitucional del Estado, previa consulta a los Ayuntamientos, en un plazo de ciento ochenta días contados a partir de la fecha de iniciación de vigencia de ésta.
+
+Artículo Cuarto.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Organo Oficial "El Estado de Sinaloa".
+
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintiséis días del mes de marzo de mil novecientos ochenta y cinco.
+
+DR. JESUS MANUEL ESCOBOSA BASTIDAS
+
+Diputado Presidente
+
+C. TOLENTINO RODRIGUEZ FELIX
+
+Diputado Secretario
+
+PROFR. RUBEN ROCHA MOYA
+
+Diputado Secretario
+
+P.M.D.L
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Culiacán Rosales, Sinaloa, a los veintinueve días del mes de marzo de mil novecientos ochenta y cinco.
+
+El Gobernador Constitucional del Estado
+
+ANTONIO TOLEDO CORRO
+
+El Secretario de Gobierno
+
+LIC. ELEUTERIO RIOS ESPINOZA
+
+El Secretario de Obras Públicas
+
+ARQ. JAIME SEVILLA POYASTRO
