@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "1997-12-24"
+last_updated: "1999-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -807,6 +807,12 @@ XIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 La organización, estructura y funcionamiento de la Procuraduría General de Justicia se determinará conforme a lo establecido en su propia Ley Orgánica.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1999)</small>
+
+###### Artículo 29 Bis.
+
+Los titulares de las dependencias señaladas en el artículo 9º de la Ley Orgánica de la Administración Pública del Estado, incluido el Procurador General de Justicia, quedan facultados para que, en representación del Gobierno del Estado, suscriban convenios, contratos y demás actos jurídicos, dentro de la órbita de sus atribuciones, con la Federación, con los otros Estados de la República, con los HH. Ayuntamientos de los Municipios de la entidad y con personas físicas y morales.
+
 ### CAPITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ###### Artículo 30.
@@ -952,3 +958,9 @@ Lo anterior se observará también, con relación a los derechos y obligaciones 
 Sexto.- Los programas y asuntos a cargo de los organismos que posteriormente se supriman como consecuencia del presente Decreto de reformas, de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de la resolución en el momento de iniciar su vigencia el presente decreto continuarán o serán despachados por las dependencias a las que les corresponda el conocimiento de las materias sobre las cuales aquéllos versen.
 
 Séptimo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 18 DE JUNIO DE 1999
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
