@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1980-12-30"
+last_updated: "1981-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1981.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -406,13 +406,17 @@ El cobro de la reparación del daño se hará efectivo en la misma forma que la 
 
 Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el reo liberado seguirá sujeto a la obligación de pagar la parte que falte.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 39.
 
-La autoridad a quien corresponda el cobro de la sanción pecuniaria, podrá fijar plazos para el pago, en los términos siguientes:
+La autoridad a quien corresponda el cobro de la sanción pecuniaria podrá fijar plazos para el pago en los términos siguientes:
 
-I.- Si no se excediere de cien pesos, se podrá conceder un plazo hasta de ciento veinte días para pagarla por tercias partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo y dé garantía suficiente, a juicio de la autoridad ejecutora.
+> <small>(F. DE E., D.O.F. 13 DE ENERO DE 1982)</small>
 
-II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de seis meses y que se haga por tercias partes, en el caso y con las condiciones expresadas en la fracción anterior.
+I.- Si no excediere de treinta veces el salario mínimo, se podrá conceder un plazo de ciento veinte días para pagarla por tercias partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo y dé garantías suficientes, a juicio de la Autoridad Ejecutora, y
+
+II.- Para el pago que exceda de treinta veces el salario, se podrá conceder en un plazo hasta de seis meses y que se haga por tercias partes, en el caso y con las condiciones expresadas en la fracción anterior.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -2612,7 +2616,7 @@ Delitos en materia de inhumaciones y exhumaciones
 
 ### CAPITULO II. Abuso de confianza
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 280.
 
@@ -2640,7 +2644,7 @@ Delitos contra la paz y seguridad de las personas
 
 ### CAPITULO III. Fraude
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
@@ -3244,19 +3248,31 @@ I.- La disposición o destrucción de una cosa mueble, ejecutadas intencionalmen
 
 II.- El aprovechamiento de energía eléctrica o de cualquier otro flúido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de él.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 369.
 
-Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aun cuando la abandone o lo desapoderen de ella.
+Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o lo desapoderen de ella. En cuanto a la fijación del valor de lo robado, así como la multa impuesta, se tomará en consideración el salario en el momento de la ejecución del delito.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
+###### ARTICULO 369 Bis.
+
+Tanto para la aplicación de las sanciones, como para establecer el monto o la cuantía que correspondan a los delitos en este Título se tomará en consideración para su fijación el salario mínimo general diario vigente en el Distrito Federal en el momento de la ejecución. En los artículos correspondientes, cuando se hable de salarios, se entenderá que se refiere al mínimo general vigente en el Distrito Federal.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 370.
 
-Cuando el valor de lo robado no exceda de dos mil pesos, se impondrán hasta dos años de prisión y multa hasta de dos mil pesos.
+Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá hasta dos años de prisión y multa hasta de cien veces el salario.
 
-Cuando exceda de dos mil, pero no de ocho mil pesos, la sanción será de dos a cuatro años de prisión y de dos mil a ocho mil pesos la multa.
+> <small>(F. DE E., D.O.F. 13 DE ENERO DE 1982)</small>
 
-Cuando exceda de ocho mil pesos, la sanción será de cuatro a diez años de prisión y de ocho mil a cuarenta mil pesos de multa.
+Cuando exceda de cien veces el salario, pero no de quinientas, la sanción será de dos a cuatro años de prisión y multa de cien hasta ciento ochenta veces el salario.
+
+> <small>(F. DE E., D.O.F. 13 DE ENERO DE 1982)</small>
+
+Cuando exceda de quinientas veces el salario, la sanción será de cuantro (sic) a diez años de prisión y multa de ciento ochenta hasta quinientas veces el salario.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -3286,11 +3302,11 @@ I.- Cuando ésta se haga a una persona distinta de la robada, que se halle en co
 
 II.- Cuando el ladrón la ejercite después de consumado el robo, para proporcionarse la fuga o defender lo robado.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 375.
 
-Cuando el valor de lo robado no pase de cien pesos, sea restituido por el infractor espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+Cuando el valor de lo robado no pase de diez veces el salario, sea restituido por el infractor espontáneamente y pague éste todos los daños y perjuicios, antes de que la Autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
 
 ###### ARTICULO 376.
 
@@ -3342,11 +3358,13 @@ ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artícu
 
 ###### ARTICULO 382.
 
-Al que con perjuicio de alguien disponga para sí o para otro de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de un año y multa hasta de dos mil pesos, cuando el monto del abuso no exceda de dos mil pesos.
+Al que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de 1 año y multa hasta de 100 veces el salario, cuando el monto del abuso no exceda de 200 veces el salario.
 
-Si excede de esa cantidad, pero no de ochenta mil pesos, la prisión será de uno a seis años y la multa de dos mil a veinte mil pesos.
+> <small>(F. DE E., D.O.F. 13 DE ENERO DE 1982)</small>
 
-Si el monto es mayor de ochenta mil pesos la prisión será de seis a doce años y la multa de veinte mil a cuarenta mil pesos.
+Si excede de esta cantidad, pero no de 2000, la prisión será de 1 a 6 años y la multa de 100 hasta de 180 veces el salario.
+
+Si el monto es mayor de 2,000 veces el salario la prisión será de 6 a 12 años y la multa de 120 veces el salario.
 
 ###### ARTICULO 383.
 
@@ -3376,25 +3394,17 @@ El delito previsto en este capítulo solamente se perseguirá a petición de par
 
 ###### ARTICULO 386.
 
-Comete el delito de fraude el que engañando a uno o aprovechándose del error en que éste se halla, se hace ilícitamente de alguna cosa o alcanza un lucro indebido.
+Comete el delito de fraude el que engañando a uno o aprovechándose del error en que éste se halla se hace ilícitamente de alguna cosa o alcanza un lucro indebido.
 
 El delito de fraude se castigará con las penas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+I.- Con prisión de tres días a seis meses y multa de tres a diez veces el salario, cuando el valor de lo defraudado no exceda de esta última cantidad.
 
-I. Con prisión de tres días a seis meses y multa de veinte a doscientos pesos, cuando el valor de lo defraudado no exceda de esta última cantidad;
+(F. DE E., D.O.F. 13 DE ENERO DE 1982) (F. DE E., D.O.F. 15 DE ENERO DE 1982)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+II.- Con prisión de 6 meses a 3 años y multa de 10 a 100 veces el salario, cuando el valor de lo defraudado excediera de 10, pero no de 500 veces el salario.
 
-II. Con prisión de seis meses a tres años y multa de doscientos a dos mil pesos, cuando el valor de lo defraudado excediere de doscientos pesos, pero no de doce mil; y
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
-
-III. Con prisión de tres a doce años y multa hasta de cuarenta mil pesos, si el valor de lo defraudado fuere mayor de doce mil pesos.
-
-> <small>(F. DE E., D.O.F. 16 DE JULIO DE 1946)</small>
-
-Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo de engaño, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en los incisos anteriores, se aumentará con prisión de tres días a dos años.
+III.- Con prisión de tres a doce años y multas hasta de ciento veinte veces el salario, si el valor de lo defraudado fuere mayor de quinientas veces el salario.
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -3887,6 +3897,16 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 30 DE DICIEMBRE DE 1980.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1981.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO 2o.
+
+Respecto a las personas que se encuentren procesadas o sentenciadas el día que entre en vigor el presente Decreto se estará a lo dispuesto en el Artículo 56 del propio Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
 
 ###### ARTICULO 2o.
 
