@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1984-01-27"
+last_updated: "1985-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1985.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -95,9 +95,9 @@ I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan
 
 II. Votar en las elecciones populares en el Distrito Electoral a que corresponda.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
-III. Desempeñar las funciones electorales los cargos de elección popular y los de jurado en los Juicios de Responsabilidades contra funcionarios y empleados del Estado, Municipios y Organismos Descentralizados, en los términos que fijen las leyes respectivas.
+III. Desempeñar las funciones electorales y los cargos de elección popular y los de jurado, en los términos que fijen las leyes respectivas.
 
 ###### Art. 10.
 
@@ -325,9 +325,11 @@ La Ley determinará las formas y procedimientos para la agrupación de los Diput
 
 Esta Ley no podrá ser vetada, ni necesitará promulgación del Ejecutivo del Estado para tener vigencia.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
 ###### Art. 34.
 
-Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que proceda la declaración del Congreso, de haber lugar a formación de causa. En demandas del orden civil no gozarán de fuero alguno. La Ley sobre Responsabilidades de los Funcionarios y Empleados del Estado, reglamentará la materia.
+Los delitos, actos u omisiones en que incurran los Diputados serán sancionados conforme a las disposiciones del Título VI.
 
 ###### Art. 35.
 
@@ -417,7 +419,7 @@ A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuent
 
 (B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
-C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
+(C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
 (D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
@@ -431,7 +433,9 @@ IX. Decretar la fundación de poblaciones y fijar las categorías de pueblo, vil
 
 X. Decretar la traslación provisional de los Poderes del Estado, fuera de la ciudad de Culiacán Rosales.
 
-XI. Convocar a toda clase de elecciones para funcionarios del Estado y Municipios, cuando fuere conducente.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+XI. Convocar a toda clase de elecciones para servidores públicos del Estado y Municipios, cuando fuere conducente.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 1979)</small>
 
@@ -447,9 +451,13 @@ XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Pod
 
 XVII. (DEROGADA, P.O. 29 DE JUNIO DE 1937)
 
-XVIII. Recibir la protesta constitucional a los Diputados, al Gobernador y Magistrados del Supremo Tribunal de Justicia del Estado, y a los empleados de su nombramiento que conforme con las leyes, no deban otorgar la protesta de otro modo.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
-XIX. Conceder licencias y admitir las renuncias a los Diputados y empleados de su propia dependencia; al Gobernador y a los Magistrados del Supremo Tribunal de Justicia.
+XVIII. Recibir protesta constitucional a los Diputados al Gobernador y Magistrados del Supremo Tribunal de Justicia del Estado, y a los servidores públicos de su nombramiento que conforme a las leyes no deban otorgar la protesta de otro modo.
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+XIX. Conceder licencia y admitir las renuncias a los Diputados y demás servidores públicos de su propia dependencia, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -475,9 +483,9 @@ XXVI. Discutir y aprobar anualmente, las leyes de ingresos de los Municipios del
 
 XXVII. Facultar al Ejecutivo del Estado para que con las limitaciones que sean necesarias, represente a éste por sí o apoderado especial, en los casos en que corresponda.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
-XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado, a los que hayan prestado servicios eminentes al mismo, y jubilaciones que también sean previamente propuestas por el Ejecutivo, a los funcionarios y empleados de la manera que determinan las leyes.
+XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado a los que hayan prestado servicios eminentes al mismo y jubilaciones que también sean previamente propuestas por el Ejecutivo a los servidores públicos de la manera que determinan las leyes.
 
 XXIX. Conceder amnistía por delitos políticos e indultos y conmutación de penas, en los del orden común.
 
@@ -553,7 +561,9 @@ IX. El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del
 
 (A.) Cuando éste ejerza funciones de Colegio Electoral o de Jurado.
 
-(B.) En los decretos de convocatoria a elecciones para funcionarios del Estado y Municipios.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
+(B.) En los decretos de convocatoria a elecciones para servidores públicos del Estado y Municipios.
 
 (C.) En los decretos de apertura y clausura de los período (sic) extraordinarios de sesiones.
 
@@ -591,7 +601,9 @@ VI. Nombrar Gobernador Provisional en los casos que esta Constitución determine
 
 VII. Recibir la protesta del Gobernador del Estado y la de los Magistrados del Supremo Tribunal de Justicia.
 
-VIII. Conceder licencias a sus propios miembros, a los Diputados y empleados del Congreso, al Gobernador y Magistrados del Supremo Tribunal de Justicia del Estado.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+VIII. Conceder licencias a sus propios miembros, a los Diputados y demás servidores públicos del Congreso, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado.
 
 IX. Actuar en substitución de la Comisión de Glosa, para facilitar las revisiones de la Contaduría Mayor, hasta producir dictamen que someterá a la consideración de la Cámara.
 
@@ -659,11 +671,11 @@ VII. Comprobar de conformidad con el Código Civil y demás Leyes sobre la mater
 
 El Gobernador del Estado entrará a ejercer su cargo el día primero de enero del año siguiente al de su elección, durará seis años en su ejercicio y no será reelecto.
 
-(REFORMADO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 58.
 
-Las faltas temporales del Gobernador del Estado, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de Encargado del Despacho, y las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si éste estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional.
+Las faltas temporales del Gobernador del Estado hasta por treinta días serán suplidas por el Secretario de Gobierno con el carácter de encargado del Despacho; las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno provisional.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1953)</small>
 
@@ -703,7 +715,9 @@ Son facultades y obligaciones del Gobernador del Estado, las siguientes:
 
 I. Sancionar, promulgar, reglamentar y ejecutar las leyes y decretos que expida el Congreso del Estado proveyendo en la esfera administrativa a su exacta observancia, así como expedir los reglamentos autónomos que la Constitución General de la República y esta Constitución le autoricen o faculten.
 
-II. Nombrar y remover a los empleados de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como conceder licencias y admitirles sus renuncias.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como concederles licencias y admitirles sus renuncias.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1941)</small>
 
@@ -729,13 +743,15 @@ IX. Formar la estadística del Estado.
 
 X. Pedir y dar informes al Congreso sobre cualquier ramo de la administración y al Supremo Tribunal de Justicia sobre los de su competencia.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 1948)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
-XI. Expedir los títulos profesionales concedidos por las Instituciones Docentes Oficiales del Estado, de Acuerdo con las Leyes que las rijan, y autorizar los expedidos por los establecimientos docentes descentralizados, de conformidad también con las Leyes respectivas.
+XI. Expedir los títulos profesionales concedidos por las instituciones docentes oficiales del Estado de acuerdo con las leyes que las rijan y autorizar los expedidos por los establecimientos docentes descentralizados de conformidad también con los ordenamientos respectivos.
 
 XII. Extender los Fiats de Notarios con arreglo a la ley respectiva.
 
-XIII. Certificar las firmas de todos los funcionarios y empleados públicos del Estado, que obren en documentos que hayan de surtir su efecto fuera de éste.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+XIII. Certificar las firmas de todos los servidores públicos del Estado que obren en documentos que hayan de surtir efectos fuera de éste.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -807,11 +823,11 @@ Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán 
 
 El Congreso del Estado podrá citar a cualesquiera de los Secretarios de los diversos ramos de la Administración del Poder Ejecutivo, así como a los titulares de las Unidades Administrativas, Organismos Descentralizados y Desconcentrados de carácter estatal, para que informen cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 71.
 
-Las faltas temporales de los Secretarios, serán suplidas dentro de sus Ramos respectivos por los funcionarios inmediatos inferiores con las mismas responsabilidades y atribuciones de aquéllos.
+Las faltas temporales de los Secretarios serán suplidas dentro de sus Ramos respectivos por los servidores públicos inmediatos inferiores con las mismas responsabilidades y atribuciones de aquéllos.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -831,11 +847,11 @@ Habrá en el Estado la institución del Ministerio Público, cuya misión será 
 
 Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
 
-> <small>(REFORMADO P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 75.
 
-Para ser Procurador General de Justicia, se exigen los siguientes requisitos: Ser ciudadano sinaloense, mayor de 30 años, abogado titulado y haber observado buena conducta. Para ser Agentes del Ministerio Público, se requerirá: ser ciudadano mexicano por nacimiento, mayor de 25 años, abogado titulado y haber observado buena conducta.
+Para ser Procurador General de Justicia, se requiere ser ciudadano sinaloense, mayor de 30 años, Licenciado en Derecho y haber observado buena conducta. Para ser Agente del Ministerio Público, se requiere ser ciudadano mexicano por nacimiento, mayor de 25 años, licenciado en derecho y haber observado buena conducta.
 
 ###### Art. 76.
 
@@ -865,11 +881,13 @@ Art. 89 C. (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
 Habrá en el Estado un Cuerpo de Defensores de Oficio, cuya misión será procurar por los reos en asuntos penales, bajo las prescripciones de las leyes, y defender a los que lo soliciten en materia civil y administrativa, en los casos establecidos por la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 79.
 
-El personal de la Defensoría de Oficio dependerá directamente del Ejecutivo del Estado; será nombrado y removido por él y estará formado por un abogado que será el jefe y por el cuerpo de defensores que lo integren, los que salvo en los casos de dispensa otorgada expresamente por el Gobernador del Estado, deberán ser igualmente abogados titulados. La Defensoría de Oficio se sujetará a las normas y lineamientos que se señalen en el Reglamento respectivo que se expida por el Titular del Poder Ejecutivo.
+El personal de la Defensoría de Oficio dependerá directamente del Gobernador del Estado; será nombrado y removido por él y estará formado por un Licenciado en Derecho que será el jefe y el cuerpo de defensores que lo integren, los que salvo en los casos de dispensa otorgada expresamente por el propio Gobernador del Estado, deberán ser igualmente Licenciados en Derecho.
+
+La Defensoría de Oficio se sujetará a las normas y lineamientos que señale el Reglamento respectivo.
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
@@ -889,11 +907,11 @@ La dirección de la política fiscal del Estado en la esfera administrativa y la
 
 (DEROGADO, P.O. 12 DE DICIEMBRE DE 1972)
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 83.
 
-Ningún funcionario o empleado del Estado o de los Municipios que tenga a su cargo el manejo de caudales públicos, entrará a ejercer sus funciones sin haberlo caucionado suficientemente. La omisión de esta formalidad hace responsables a las autoridades a quienes la ley encomienda hacer efectivo este requisito.
+Ningún servidor público del Estado o de los Municipios que tengan a su cargo el manejo de caudales públicos entrará a ejercer sus funciones sin haberlo caucionado suficientemente. La omisión de esta formalidad hace responsable a las autoridades a quienes la Ley encomienda hacer efectivo este requisito.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1963)</small>
 
@@ -927,7 +945,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1968)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -965,7 +983,7 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un cuerpo denominado 
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de 7 siete Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por 3 tres Magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 3 tres Magistrados Suplentes, quienes solo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario, en los casos previstos por la Ley.
+El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por tres Magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además tres Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario, los cuales serán electos de entre los Jueces de Primera Instancia de los Distritos Judiciales del Estado, que cubriendo los requisitos previstos en el Artículos (sic) 96, cuenten, además, con una antigüedad ininterrumpida de tres años en el ejercicio del cargo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -991,7 +1009,9 @@ I. Ser ciudadano mexicano por nacimiento y ciudadano sinaloense, en pleno ejerci
 
 II. No tener más de 65 años de edad, ni menos de 30 el día de la elección.
 
-III. Poseer el día la elección, con antigüedad mínima de cinco años título profesional de Abogado, expedido por autoridad o corporación legalmente facultada para ello; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+III. Contar el día de la elección con título profesional de Licenciado en Derecho con cinco años con (sic) anticipación cuando menos.
 
 IV. Ser de notoria buena conducta y haberla observado intachable públicamente.
 
@@ -1001,17 +1021,21 @@ IV. Ser de notoria buena conducta y haberla observado intachable públicamente.
 
 Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado erigido en Colegio Electoral. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos las dos terceras partes del número total de Diputados.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
 ###### Art. 98.
 
-(DEROGADO, P.O. 27 DE ENERO DE 1984)
+Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia sin goce de sueldo para desempeñar un diferente cargo público, la cual se otorgará hasta por el término de dos años. De igual derecho gozarán los jueces de Primera Instancia que sean llamados para substituirlos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 99.
 
-Las faltas absolutas de los Magistrados Propietarios se cubrirán provisionalmente por los Suplentes, según su orden numérico, mientras el Congreso del Estado hace nueva elección y toma posesión el electo. Si el Congreso no estuviere reunido, la Diputación Permanente hará en cada caso un nombramiento provisional, en tanto se reúne aquel y hace la elección correspondiente.
+Las faltas absolutas de los Magistrados propietarios se cubrirán provisionalmente por los suplentes, según lo determine el Supremo Tribunal de Justicia, mientras el Congreso del Estado hace una nueva elección y toma posesión el electo. Si el Congreso no estuviere reunido, la Diputación Permanente hará en cada caso un nombramiento provisional, en tanto se reúne aquél y hace la elección correspondiente.
 
-Los Magistrados Propietarios serán substituidos en sus faltas temporales que excedan de quince días, por los Magistrados Suplentes, según su orden numérico. Si las faltas no exceden de ese término, o en los casos de recusación o excusa, serán cubiertas en una Sala, por los Magistrados de la otra, según el turno que corresponda; y en el Pleno, sólo serán substituidos por los Magistrados Suplentes, según su orden numérico, cuando por motivo de la falta o del impedimento, no se obtenga mayoría de tres votos por lo menos, en la resolución de un determinado negocio.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
+Los Magistrados Propietarios serán substituídos en sus faltas temporales que excedan de quince días por los Magistrados Suplentes en los términos del párrafo anterior. Si las faltas no exceden de este término, o en los casos de recuperación o excusa, serán cubiertas en una Sala por los Magistrados de la otra, según el turno que corresponda y en el Pleno, sólo serán substituídos por los Magistrados Suplentes, cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos por lo menos, en la resolución de un determinado negocio.
 
 Si no fuere posible integrar el pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados llamados conforme a los párrafos anteriores de este artículo el Congreso del Estado, o la Diputación Permanente en su caso, nombrará los Magistrados Interinos que sean necesarios.
 
@@ -1035,9 +1059,11 @@ La prohibición que antecede no comprende:
 
 I. Los cargos docentes o en instituciones de beneficencia.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
-II. A los Magistrados Suplentes e Interinos, cuando solamente integren el Pleno o las Salas del Supremo Tribunal de Justicia en los casos de recusación o escusa (sic). Sin embargo, los Magistrados Suplentes podrán continuar ejerciendo las funciones notoriales (sic) cuando substituyan a los propietarios en sus faltas que no excedan de seis meses, y la abogacía cuando el período de suplencia no sea mayor de tres meses; y
+II. A los Magistrados Interinos, cuando solamente integren el Pleno o las Salas del Supremo Tribunal de Justicia en los casos de recusación o excusa.
+
+Las funciones notariales no podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde haya Notarios, excepto cuando el Notario esté impedido para ejercerlas. La Ley del Notariado reglamentará esta prevención.
 
 III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
 
@@ -1061,7 +1087,9 @@ IV. Conocer de las competencias que se susciten entre los Jueces de Primera Inst
 
 V. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sean absolutas, temporales o relativas a determinado negocio, conforme al Artículo 94;
 
-VI. Nombrar a los jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal de las Salas y de los Juzgados;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+VI. Nombrar a los Jueces, Secretarios, Actuarios y demás servidores públicos subalternos del Supremo Tribunal, de las Salas y de los Juzgados;
 
 VII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
 
@@ -1079,11 +1107,11 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en Pleno y durarán tres años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados sólo podrán ser privados de sus puestos conforme a las prevenciones del Título VI de esta Constitución. Las disposiciones de este Artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 107.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de veinticinco años, abogado con título Profesional expedido por autoridad facultada para otorgarlo, y de reconocida buena conducta.
+Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de veinticinco años, Licenciado en Derecho y de reconocida buena conducta.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1968)</small>
 
@@ -1493,25 +1521,27 @@ I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
 
 (B).- Para rendir la protesta sin interpelación, el que va a protestar dirá: "Protesto cumplir y hacer cumplir la Constitución Política de la República, la del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de ...... que el pueblo me ha conferido mirando en todo por el honor y prosperidad de la República y del Estado". "Si así no lo hiciere, que la República y el Estado me lo demanden".
 
-(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1953) (F. DE E., P.O. 14 DE ABRIL DE 1953)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 1985)</small>
 
-II. La protesta se pide y se dá por interpelación entre los siguientes funcionarios o empleados:
+II. La protesta se pide y se dá por interpelación entre los siguientes servidores públicos:
 
 (1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente de la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara les tomará la protesta en la sesión pública que corresponda.
 
 (2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara, o en su caso, el de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
-(3).- A los titulares de las Entidades de la Administración Pública Estatal y Paraestatal, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el ciudadano Gobernador y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
+(3).- A los titulares de las Entidades de la Administración Pública Estatal y Paraestatal, al Procurador General de Justicia y al Recaudador de Rentas con residencia en la Capital del Estado, les tomará la protesta el Ciudadano Gobernador y ellos a su vez, a los demás servidores públicos de sus dependencias que residen en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
-(4).- A los Secretarios y demás empleados del Supremo Tribunal de Justicia y de las Salas, y a los Jueces de Primera Instancia y de los Tribunales para Menores les tomará la protesta el Presidente de aquel alto Cuerpo. A los Secretarios y Jueces, ante el Tribunal en Pleno, y para los demás, ante el Secretario de Acuerdos. A los Jueces de Primera Instancia que no puedan presentarse ante el Tribunal les tomará la protesta el Presidente Municipal de la cabecera en que residan. A los Jueces Menores les tomará la protesta el de Primera Instancia de su jurisdicción, o en caso de impedimento, el Síndico convecino.
+(4).- A los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas, así como a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto cuerpo, ante el Tribunal en Pleno. A los Jueces Menores les tomará la protesta el de Primera Instancia de su Jurisdicción.
 
 (5).- A los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
 
-(6).- Al Secretario, Tesorero y demás empleados Municipales, les tomará la protesta el Presidente del Ayuntamiento, en sesión de éste a los dos primeros y ante el Secretario Municipal a los demás.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
+(6).- Al Secretario, Tesorero y demás servidores públicos municipales, les tomará la protesta el Presidente del Ayuntamiento en sesión de éste a los dos primeros y ante el Secretario Municipal a los demás.
 
 (7).- A los Síndicos y Comisarios les tomará la protesta el Presidente Municipal en sesión pública del Ayuntamiento, o los colegas salientes en cualquier caso de impedimento.
 
@@ -1519,7 +1549,9 @@ III. La protesta se rinde sin previa interpelación:
 
 (1).- Ante la Cámara en sesión pública, por los Presidentes que se nombre el Congreso.
 
-(2).- Ante el Supremo Tribunal de Justicia, en pleno acuerdo por el Presidente del mismo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
+(2).- Ante el Supremo Tribunal de Justicia en Pleno, por el Presidente del mismo.
 
 (3).- Ante el Ayuntamiento en sesión pública, por los Presidentes Municipales electos por él mismo.
 
@@ -1547,9 +1579,13 @@ Al expedir y reformar el Congreso la Ley de Ingresos y Presupuesto de Egresos, p
 
 Se prohiben expresamente los sobresueldos, los llamados "gastos de representación" y demás obvenciones.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
 ###### Art. 148.
 
-Ninguna licencia con goce de sueldo podrá concederse por más de quince días. Sólo en los casos de enfermedad debidamente comprobada, podrá extenderse hasta tres meses. Ninguna licencia por motivo alguno, podrá concederse por más de seis meses. Quedan prohibidas por lo tanto, las licencias por tiempo indefinido.
+Ninguna licencia con goce de sueldo podrá concederse por más de quince días, excepto en casos de enfermedad debidamente comprobada, en los que podrá otorgarse hasta por noventa días.
+
+Ninguna licencia podrá concederse por más de seis meses, salvo lo dispuesto en el Artículo 98.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1563,7 +1599,9 @@ La mayoría absoluta de los ciudadanos en ejercicio pleno de sus derechos, habit
 
 I. La petición será presentada por escrito a la Superioridad de quien haya emanado el nombramiento para su reconsideración.
 
-II. Si los peticionarios no fueren satisfechos por la superioridad que hizo el nombramiento, podrán ocurrir al Congreso del Estado, quien oyendo a las partes resolverá en justicia. Si la resolución favoreciere a los peticionarios, el Congreso la comunicará a quien corresponda, para su cumplimiento. La Ley de Responsabilidades de los Funcionarios y Empleados del Estado, reglamentará el procedimiento.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+II. Si los peticionarios no fueren satisfechos por la Superioridad que hizo el nombramiento, podrán ocurrir al Congreso del Estado, quien oyendo a las partes resolverá en justicia. Si la resolución favorece a los peticionarios, el Congreso la comunicará a quien corresponda para su cumplimiento. La Ley de Responsabilidades de los Servidores Públicos del Estado, reglamentará el procedimiento.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
@@ -1571,11 +1609,23 @@ II. Si los peticionarios no fueren satisfechos por la superioridad que hizo el n
 
 Se reconoce capacidad y personalidad jurídica a las Comunidades agrarias o núcleos de población campesina que guarden de hecho o por derecho el estado comunal dentro del territorio de Sinaloa, también el Estado reconoce personalidad jurídica a las Asociaciones, de beneficencias, a las Uniones Profesionales y Agrupaciones Obreras o de Patrones, que se funden para fines lícitos, siempre que cumplan con los requisitos que las Leyes establecen.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 ###### Art. 152.
 
-Constituyen el patrimonio de la familia: la casa propiedad de un matrimonio legítimo, los muebles, útiles y enseres que correspondan y las herramientas del taller y oficina, así como el terreno y los animales de que depende exclusivamente la subsistencia de la familia. Dichos bienes sólo podrán ser enajenados previa autorización judicial, serán transmisibles por herencia bajo sencillas fórmulas y no podrán sujetarse a gravámenes ni embargos. La Ley reglamentaria respectiva regulará todo lo concerniente a la materia.
+Constituyen el patrimonio de la familia:
+
+I. La casa habitada por la familia y el terreno sobre el cual esté construida, aún cuando dichos inmuebles no estén registrados como patrimonio familiar.
+
+II. En el medio rural constituyen el patrimonio familiar, además de los bienes previstos en la fracción anterior, el terreno y los animales de que dependa exclusivamente la subsistencia de la familia.
+
+III. Los bienes muebles indispensables para el normal funcionamiento del hogar, o por las condiciones climatológicas de la región, así como los estrictamente necesarios para la información y el esparcimiento familiar.
+
+IV. Los libros, útiles, enseres y herramientas del taller y oficina, de los que dependa la subsistencia familiar.
+
+V. Los demás bienes que señale la Ley.
+
+Los bienes inmuebles que constituyan el patrimonio familiar, sólo podrán ser enajenados previa autorización judicial. Los bienes muebles e inmuebles a que se refiere este artículo, serán transmisibles por herencia bajo sencillas fórmulas y no podrán sujetarse a gravámenes ni embargos. La Ley regulará lo concerniente a la materia.
 
 ###### Art. 153.
 
@@ -1607,9 +1657,11 @@ IX. Para la conservación y replantación de los bosques.
 
 X. Para la instalación de fuerza hidroeléctrica por cuenta del Estado o por empresas particulares.
 
-XI. Para fomentp (sic) y creación de industrias nuevas en el Estado.
+XI. Para fomento y creación de industrias nuevas en el Estado.
 
-XII. Para la fundación, ensanche, rectificación, saneamiento y urbanización de las poblaciones.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+XII. Para la fundación, ensanche, verificación, saneamiento y urbanización de las poblaciones, así como para la creación de reservas territoriales destinadas a alguno de los fines señalados por este Artículo.
 
 XIII. Para la apertura de calles y jardines y para la construcción de escuelas, mercados, hospitales, cárceles, rastros y demás establecimientos del servicio público urbano.
 
@@ -1630,6 +1682,10 @@ XX. En las medidas necesarias para evitar la destrucción de los elementos natur
 XXI. En la creación o mejoramiento de centros de población de sus fuentes propias de vida.
 
 XXII. En los demás casos previstos por Leyes especiales.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1985)</small>
+
+La Ley regulará lo concerniente a la materia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2182,3 +2238,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 En tanto se expidan las Leyes que reglamenten el contenido y alcances del presente Decreto, continuarán aplicándose las leyes de la materia vigentes.
+
+P.O. 27 DE FEBRERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Quedan sin efecto las elecciones de Magistrados Suplentes que se encuentren vigentes a la fecha, debiendo continuar en el desempeño de dichos cargos quienes se encuentren en ejercicio de los mismos, mientras el Congreso proceda a la elección de quienes lo substituirán, lo que se hará en un término no mayor de quince días.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
