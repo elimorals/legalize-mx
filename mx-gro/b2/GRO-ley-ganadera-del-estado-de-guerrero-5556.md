@@ -4,7 +4,7 @@ identifier: "GRO-ley-ganadera-del-estado-de-guerrero-5556"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-24"
-last_updated: "1988-06-24"
+last_updated: "1990-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY GANADERA DEL ESTADO DE GUERRERO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 24 de junio de 1988.
 
@@ -359,9 +359,11 @@ IV.- Promover el establecimiento de farmacias veterinarias y centros de abasto d
 
 V.- Las demás que le fije esta Ley, sus Reglamentos y demás ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1990)</small>
+
 ###### ARTICULO 18o.
 
-En cada una de las tres regiones en que se divide el Estado para fines de ganadería, funcionara una Unión Ganadera Regional que agrupara a las Asociaciones Ganaderas Locales y las especializadas que existan.
+Las Asociaciones Ganaderas Locales y las especializadas existentes o que se establezcan conforme a la presente Ley, constituirán la Unión Ganadera Regional del Estado.
 
 La Unión Ganadera Regional se integrará de la forma siguiente:
 
@@ -1586,3 +1588,15 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE MAYO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma una vez aprobada entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Conforme a la reforma del presente Decreto, cuando en el texto de los diversos artículos de la Ley Ganadera del Estado de Guerrero, se señalen a Uniones Ganaderas Regionales, deberá entenderse que se trata de la Unión Ganadera Regional del Estado.
