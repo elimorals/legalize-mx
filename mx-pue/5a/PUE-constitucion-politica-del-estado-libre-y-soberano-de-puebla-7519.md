@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1990-04-13"
+last_updated: "1990-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -573,9 +573,13 @@ VII.- Autorizar la enajenación de bienes inmuebles propios del Estado o de los 
 
 VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones o empréstitos destinados a inversiones públicas productivas y fijar anualmente, en los presupuestos, los conceptos y los montos máximos de dichas obligaciones o empréstitos.
 
-IX.- Supervisar la Contaduría General de Glosa.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1990)</small>
 
-X.- Nombrar y remover a los empleados de su Secretaría y de la Contaduría General de Glosa.
+IX.- Supervisar la Contaduría Mayor de Hacienda.
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1990)</small>
+
+X.- Nombrar y remover a los empleados de su Secretaría y de la Contaduría Mayor de Hacienda.
 
 XI.- Crear y suprimir empleos públicos y señalar, aumentar o disminuir sus dotaciones.
 
@@ -673,9 +677,9 @@ I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la
 
 II.- Recibir la protesta del Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia.
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstas no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría General de Glosa, y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior y empleados de la Secretaría de la Legislatura y Contaduría General de
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1990)</small>
 
-Glosa.
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran y a los empleados de la Legislatura y Contaduría Mayor de Hacienda; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia y empleados de la Secretaría de la Legislatura y Contaduría Mayor de Hacienda.
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -1295,27 +1299,27 @@ La Ley de Ingresos fijará anualmente las cuotas correspondientes a las contribu
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1990)</small>
 
 ###### Artículo 113.
 
-En el lugar donde residan los Poderes del Estado, habrá una Contaduría General de Glosa que dependerá directamente del Congreso, en la que se glosarán, sin excepción, las cuentas de los caudales públicos.
+En el lugar donde residan los Poderes del Estado, habrá una Contaduría Mayor de Hacienda, que dependerá directamente del Congreso del Estado, en la que se revisarán, sin excepción, las cuentas de los caudales públicos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1990)</small>
 
 ###### Artículo 114.
 
-Toda cuenta de fondos públicos quedará glosada a más tardar un año después de su presentación.
+Toda cuenta de fondo públicos quedará revisada a más tardar un año después de su presentación.
 
-La falta de cumplimiento de este precepto será causa de responsabilidad, así de los empleados de la Contaduría como de la Comisión Inspectora.
+La falta de cumplimiento de este precepto será la causa de responsabilidad de los empleados de la Contaduría Mayor de Hacienda y de la Comisión Inspectora de la propia Contaduría.
 
-La Comisión Inspectora tiene la obligación de presentar al Congreso, en el primer período de sesiones de cada año de ejercicio legal, una noticia detallada de las cuentas que se han glosado y de las pendientes, explicando por qué la Contaduría no ha terminado sus operaciones.
+La Comisión Inspectora tiene la obligación de presentar al Congreso, en el Primer Período Ordinario de Sesiones de cada año de ejercicio legal, un informe detallado de las cuentas que se han revisado y de las que se encuentren pendientes o en proceso de revisión, explicando la razón por la que no se han concluido.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1990)</small>
 
 ###### Artículo 115.
 
-La Contaduría General expedirá, en la forma que la ley prevenga, el finiquito de las cuentas que glose, y rendirá cada tres meses al Congreso, por conducto de la Comisión respectiva, un informe de las operaciones que haya practicado.
+La Contaduría Mayor de Hacienda expedirá, en la forma que la Ley Orgánica de la propia Contaduría señale, el finiquito de las cuentas que revise, y rendirá al Congreso cada tres meses, por conducto de la Comisión respectiva, un informe de las revisiones que haya practicado.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1325,9 +1329,7 @@ Los empleados que manejen fondos públicos deberán caucionar su manejo en la fo
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO III
-
-DE LA SEGURIDAD PUBLICA.
+### CAPITULO III. DE LA SEGURIDAD PUBLICA
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1649,11 +1651,11 @@ Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1736,3 +1738,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE ABRIL DE 1990.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 1990.
+
+El presente Decreto entrará en vigor al día sguiente (sic) de su publicación en el Periódico Oficial del Estado.
