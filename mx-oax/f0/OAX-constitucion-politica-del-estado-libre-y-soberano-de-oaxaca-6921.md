@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1933-02-11"
+last_updated: "1934-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1934.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -673,7 +673,11 @@ VIII. Conceder el indulto necesario, y con arreglo a las leyes, conmutar la pena
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la fracción XXXVII del artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-X. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas por esta Constitución a los otros Poderes o a las autoridades municipales.
+> <small>(ADICIONADA, P.O. 3 DE NOVIEMBRE DE 1934)</small>
+
+X. Pedir a la Legislatura la destitución de Magistrados y Jueces que observen mala conducta;
+
+XI. Todas las demás que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas por esta Constitución a los otros Poderes o a las autoridades municipales.
 
 ###### ARTICULO 80.
 
@@ -834,6 +838,8 @@ La administración interior de los Municipios se hará por los Ayuntamientos, po
 Los Ayuntamientos serán asambleas formadas por elección popular directa; se compondrán de un número variable de ciudadanos en razón del censo del Municipio; pero en ningún caso será menor de cinco y siempre en número impar. En la primera sesión que celebren los Ayuntamientos, la cual será presidida por el concejal de mayor edad, se elegirá a mayoría absoluta de votos un Presidente Municipal y uno o dos Síndicos Procuradores que deberán fungir durante el año de su elección. Los concejales restantes se denominarán Regidores.
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
+
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1934)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1059,7 +1065,9 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados propietarios y dos supernumerarios, que serán electos libremente por la Legislatura y los cuales serán inamovibles.
+El Tribunal Superior de Justicia del Estado se compondrá de tres Magistrados Propietarios y dos Supernumerarios que serán electos libremente por la Legislatura.
+
+Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia podrán ser privados de sus puestos cuando observen mala conducta, a petición del Ejecutivo que resolverá la Legislatura a mayoría absoluta de votos del número total de los miembros.
 
 ###### ARTICULO 122.
 
@@ -1119,9 +1127,11 @@ XII. Ejercer las demás atribuciones que le señalen las leyes.
 
 Habrá jueces de primera instancia y jurados en todas las cabeceras de distrito judicial.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 129.
 
-Los jueces de primera instancia serán nombrados por la Legislatura, a propuesta en terna del Tribunal Superior de Justicia; tendrán los mismos requisitos que los magistrados, menos el de la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años y tener dos de práctica forense; serán inamovibles y no podrán ser depuestos sino por sentencia del Tribunal Superior de Justicia, ni suspensos, sino por acusación legal, y previa la declaración de haber lugar a formación de causa en su contra.
+Los Jueces de Primera Instancia serán nombrados por la Legislatura a propuesta en terna del Tribunal Superior de Justicia; tendrán los mismos requisitos que los Magistrados menos el de la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años de edad y tener dos de práctica forense.
 
 ###### ARTICULO 130.
 
@@ -1298,3 +1308,7 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 P.O. 11 DE FEBRERO DE 1933.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 3 DE NOVIEMBRE DE 1934.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos el día 1o. de diciembre del año en curso.
