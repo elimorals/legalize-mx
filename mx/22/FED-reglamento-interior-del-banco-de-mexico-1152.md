@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2002-12-23"
+last_updated: "2002-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,7 +65,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 4o.
 
@@ -83,7 +83,7 @@ Dirección General de Intermediarios Financieros de Fomento.
 
 Dirección General de Administración Interna.
 
-Dirección de Emisión.
+Dirección General de Emisión.
 
 Dirección de Relaciones Externas.
 
@@ -127,9 +127,9 @@ Dirección de Seguridad.
 
 Dirección de Sistemas.
 
-> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Relaciones Externas, Coordinación de la Información y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor que dependerá de la Junta de Gobierno.
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Relaciones Externas, Coordinación de la Información y Sistemas, dependerán del Gobernador. El Banco contará con un Contralor que dependerá de la Junta de Gobierno.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -167,11 +167,11 @@ El Comité a que se refiere el párrafo anterior, será coordinado por el Direct
 
 El Gobernador designará de entre los miembros de la Junta o de los funcionarios del Banco, a las personas que fungirán como representantes del Banco ante dependencias federales, organismos, órganos colegiados y demás entidades en las que éste participe.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 6o.
 
-Para los efectos previstos en las fracciones I y IV del artículo 47 de la Ley, el Gobernador contará con las más amplias facultades de dominio, administración y pleitos y cobranzas, así como todas aquellas que requieran cláusula especial, en los términos previstos por los artículos 2554 y 2587 del Código Civil para el Distrito Federal y los correlativos de los Estados que integran la Federación, excepto las de absolver posiciones por sí mismo. Además, tendrá las facultades necesarias para suscribir y endosar títulos de crédito y en general celebrar operaciones de crédito. Sin perjuicio de lo dispuesto en el artículo 7o., segundo párrafo, de este Reglamento, tratándose de la facultad para absolver posiciones, corresponderá a la Dirección Jurídica su ejercicio, en los términos de los artículos 8o. y 28 del presente Reglamento.
+Para los efectos previstos en las fracciones I y IV del artículo 47 de la Ley, el Gobernador contará con las más amplias facultades de dominio, administración y pleitos y cobranzas, así como todas aquellas que requieran cláusula especial, en los términos previstos por los artículos 2554 y 2587 del Código Civil Federal, y los correlativos del Código Civil para el Distrito Federal y los de los Estados que integran la Federación, excepto las de absolver posiciones por sí mismo. Además, tendrá las facultades necesarias para suscribir y endosar títulos de crédito y en general celebrar operaciones de crédito. Sin perjuicio de lo dispuesto en el artículo 7o., segundo párrafo, de este Reglamento, tratándose de la facultad para absolver posiciones, corresponderá a la Dirección Jurídica su ejercicio, en los términos de los artículos 8o. y 28 del presente Reglamento.
 
 El Gobernador podrá ejercer las facultades enunciadas en el párrafo anterior ante particulares y toda clase de autoridades, excepto tratándose de autoridades y tribunales, electorales y del trabajo.
 
@@ -195,9 +195,9 @@ Las atribuciones encomendadas por este Reglamento a los titulares de las Direcci
 
 La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos que se encuentren vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Directores y Contralor, quedando comprendidas también facultades suficientes para realizar actos que impliquen ejercicio presupuestal para la adquisición, enajenación y arrendamiento de bienes muebles, así como para la prestación de servicios relacionados con sus funciones.
 
-> <small>(REFORMADO, D.O.F. 4 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
 
-Tratándose de disposiciones, autorizaciones, opiniones, sanciones y seguimiento de las operaciones realizadas por los intermediarios financieros, que conforme a la Ley correspondan al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de banca central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección de Emisión y uno de la Dirección Jurídica. En caso de que dichos asuntos se refieran a las monedas y medallas previstas en la fracción VIII del artículo 19 del presente Reglamento, la firma estará a cargo de un funcionario de la Dirección de Operaciones y otro de la Dirección Jurídica.
+Tratándose de disposiciones, autorizaciones, opiniones, sanciones y seguimiento de las operaciones realizadas por los intermediarios financieros, que conforme a la Ley correspondan al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de Banca Central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, así como los relativos a corresponsalía de caja, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección General de Emisión y uno de la Dirección Jurídica. En caso de que dichos asuntos se refieran a las monedas y medallas previstas en la fracción VIII del artículo 19 del presente Reglamento, la firma estará a cargo de un funcionario de la Dirección de Operaciones y otro de la Dirección Jurídica.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
@@ -293,9 +293,11 @@ La Dirección General de Administración Interna tendrá las atribuciones señal
 
 A esta Dirección General estarán adscritas las Direcciones de Administración, Contabilidad y de Seguridad, así como las Gerencias de Inmuebles e Informática. La Gerencia de Inmuebles contará con las atribuciones relativas a la formalización de los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración, enajenación, construcción, adaptación y demolición de bienes inmuebles, sus instalaciones y equipos, así como los bienes muebles que integran el mobiliario y equipo de oficina, ya sean propiedad del Banco o que ocupe bajo cualquier título, y administrar el almacén. La Gerencia de Informática operará y desarrollará los sistemas de informática de esta Dirección General y de las unidades administrativas adscritas a ésta, pudiendo realizar todos los actos necesarios para ese fin.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 16.
 
-La Dirección de Emisión tendrá las atribuciones siguientes:
+La Dirección General de Emisión tendrá las atribuciones siguientes:
 
 I. Formalizar los actos necesarios para la fabricación de billetes y la acuñación de moneda metálica, bien en sus propias instalaciones, o a través de terceros, así como los relacionados con el mantenimiento de los equipos e instalaciones relativos a dicho proceso;
 
@@ -389,7 +391,7 @@ VII. Coordinar y organizar, en el ámbito de su competencia, los Consejos Region
 
 VIII. Atender las actividades protocolarias y sociales pertinentes para el correcto desenvolvimiento de las funciones institucionales, y
 
-IX. Tener a su cargo el acervo cultural.
+IX. Tener a su cargo el acervo cultural;
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -589,7 +591,7 @@ I. Establecer sistemas de procesamiento, manejo y diseminación de información 
 
 II. Comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las funciones de la Dirección General de Investigación Económica, y
 
-III. Tener a su cuidado el archivo histórico del Banco.
+III. Tener a su cuidado el archivo histórico del Banco;
 
 > <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
 
@@ -743,7 +745,7 @@ XI. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se
 
 > <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-XII. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley.
+XII. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley;
 
 XIII. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 1999)
 
@@ -839,7 +841,7 @@ XIX. Desahogar las solicitudes planteadas al Banco de México en materia de conf
 
 > <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2002)</small>
 
-XX. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición.
+XX. Expedir constancias de los registros que sean de su competencia conforme al presente Reglamento o cualquiera otra disposición;
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -1201,7 +1203,7 @@ UNICO. Las presentes reformas y adición entrarán en vigor a partir del día si
 
 D.O.F. 13 DE FEBRERO DE 1998.
 
-PRIMERO.- Las presentes reformas, adiciones y derogaciones, entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación
+PRIMERO.- Las presentes reformas, adiciones y derogaciones, entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se modifican las disposiciones que se opongan a las presentes reformas, adiciones y derogaciones al Reglamento Interior del Banco de México.
 
@@ -1270,3 +1272,7 @@ UNICO. Las presentes reformas y derogaciones entrarán en vigor al día siguient
 D.O.F. 23 DE DICIEMBRE DE 2002.
 
 UNICO.- Las adiciones de referencia entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2002.
+
+UNICO.- Las presentes reformas, entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
