@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1997-relativo-a-la-determinacion-de-la-41038"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1997-06-11"
-last_updated: "1997-06-11"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41038&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-05-27"
 
 ACUERDO 1/1997, RELATIVO A LA DETERMINACION DE LA COMPETENCIA POR MATERIA DE LAS SALAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y AL ENVIO DE ASUNTOS COMPETENCIA DEL PLENO A DICHAS SALAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 5/2001, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 29 DE JUNIO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 11 de junio de 1997.
 
@@ -100,3 +102,15 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su emisión y deberá public
 SEGUNDO.- Se abroga el acuerdo 7/1995, emitido por el Tribunal Pleno el día diecinueve de junio de mil novecientos noventa y cinco.
 
 LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que este Acuerdo 1/1997, relativo a la determinación de la competencia por materia de las Salas de la Suprema Corte de Justicia de la Nación y al envío de asuntos competencia del Pleno a dichas Salas, fue aprobado por el Tribunal Pleno en sesión privada de veintisiete de mayo de mil novecientos noventa y siete, por unanimidad de once votos de los Ministros, presidente José Vicente Aguinaco Alemán, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.- México, Distrito Federal, a veintisiete de mayo de mil novecientos noventa y siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 29 DE JUNIO DE 2001.
+
+PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo 1/1997, emitido por el Tribunal Pleno el veintisiete de mayo de mil novecientos noventa y siete.
+
+TERCERO.- Se abrogan los Acuerdos Generales Números 6/1999, 1/2000, 4/2000, 9/2000, 10/2000, 2/2001 y 4/2001 emitidos por el Tribunal Pleno el veintidós de junio de mil novecientos noventa y nueve, el diecisiete de enero de dos mil, el nueve de marzo de dos mil, el siete de septiembre de dos mil, el diecinueve de febrero de dos mil uno y el diecisiete de mayo de dos mil uno, respectivamente; sin embargo, los asuntos en los que se hubiese solicitado la intervención de la Suprema Corte de Justicia de la Nación durante la vigencia de dichos acuerdos, se continuarán tramitando conforme a ellos hasta su resolución.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
