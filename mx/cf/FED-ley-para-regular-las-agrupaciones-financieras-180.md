@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1995-02-15"
+last_updated: "1996-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -149,6 +149,10 @@ VI. Durante los noventa días naturales siguientes a partir de la fecha de publi
 La separación de alguno o algunos de los integrantes de un grupo, así como la disolución de este último, deberán ser autorizadas por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y, según corresponda, de las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas.
 
 La separación o disolución mencionadas, surtirán efectos a partir de la fecha en que la autorización a que se refiere este artículo, así como los respectivos acuerdos de las asambleas de accionistas, se inscriban en el Registro Público de Comercio. Tratándose de la separación, además será aplicable lo dispuesto en las fracciones V y VI del artículo anterior. Al surtir efectos la separación, las entidades financieras deberán dejar de ostentarse como integrantes del grupo respectivo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Cuando el Fondo Bancario de Protección al Ahorro o el Fondo de Apoyo al Mercado de Valores suscriba o adquiera el cincuenta por ciento o más del capital social de cualquier entidad financiera integrante de un grupo, no se observará lo dispuesto en el primero y segundo párrafos del presente artículo, así como en las fracciones V y VI del artículo 10 de esta Ley. La separación del grupo tendrá efectos a partir de dicha suscripción o adquisición, por lo que se tendrá por modificado el convenio único de responsabilidades en este sentido.
 
 La separación de las entidades financieras se llevará a cabo sin perjuicio de que las responsabilidades de la controladora a que se refiere el artículo 28 de esta Ley, subsistan en tanto no queden totalmente cumplidas todas las obligaciones contraídas por dichas entidades con anterioridad a su separación del grupo.
 
@@ -652,6 +656,10 @@ No obstante lo dispuesto en el párrafo anterior, las instituciones de seguros y
 
 Los integrantes de un grupo tampoco deberán participar en el capital de las personas morales que, a su vez, sean accionistas de la controladora o de las demás participantes del grupo.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+Las entidades financieras integrantes de un grupo no podrán otorgar financiamientos para la adquisición de acciones representativas de su capital, de la sociedad controladora o de cualquier otra entidad financiera integrante del grupo al que pertenezcan. Tampoco podrán recibir en garantía acciones de las entidades financieras a las que se refiere el artículo 7o. de la presente Ley, de sociedades controladoras o de uniones de crédito, salvo que cuenten con la autorización de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la comisión nacional supervisora de la entidad que pretenda recibirlas en garantía.
+
 ###### ARTICULO 32.
 
 Las controladoras de grupos financieros, proporcionarán la información que en el ámbito de sus respectivas competencias, les solicite la Secretaría de Hacienda y Crédito Público, el Banco de México y las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas.
@@ -665,6 +673,10 @@ Las entidades financieras, aun cuando no formen parte de un grupo financiero, po
 La prestación de servicios consistentes en proporcionar información sobre las operaciones crediticias y otras de naturaleza análoga realizadas por entidades financieras, solamente podrá llevarse a cabo por sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, previa opinión del Banco de México.
 
 La autorización mencionada en el párrafo anterior sólo se otorgará a las sociedades mexicanas que reúnan, a satisfacción de la propia Secretaría, los requisitos que se establezcan en las reglas de carácter general que al efecto expida la misma. En tales reglas podrán establecerse limitaciones a la participación extranjera en el capital de este tipo de sociedades. Estas autorizaciones serán intransmisibles y se revocarán por la Secretaría cuando la sociedad de que se trate infrinja la presente Ley o las reglas que le son aplicables, sin perjuicio de otras sanciones a que haya lugar.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 1996)</small>
+
+La escritura constitutiva de las sociedades a que se refiere este artículo y cualquier modificación a la misma, deberá ser sometida a la aprobación previa de la Secretaría de Hacienda y Crédito Público. Una vez aprobada la escritura o sus reformas deberán inscribirse en el Registro Público de Comercio.
 
 Sólo podrán ser usuarios de la información que proporcionen las sociedades a que se refiere este artículo, las entidades financieras y las personas que autorice la Secretaría de Hacienda y Crédito Público en las reglas citadas en el párrafo anterior. Las sociedades señaladas en este artículo podrán negar la prestación de sus servicios a aquellas personas que no les proporcionen información para la realización de su objeto.
 
@@ -685,12 +697,6 @@ No se considerará que existe violación al secreto bancario cuando una entidad 
 Las personas que realicen alguna gestión financiera ante usuarios de información crediticia podrán solicitar, a través del propio usuario de que se trate, los datos que éste hubiere obtenido de la sociedad. Las aclaraciones respecto de tales datos se realizarán por los interesados ante los acreedores respectivos, quienes, en su caso, llevarán a cabo las gestiones conducentes ante la sociedad de información crediticia de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-ARTICULO 33 B.- Las sociedades de información crediticia, al proporcionar información sobre operaciones activas, deberán guardar secreto respecto de la denominación de las entidades acreedoras, salvo en el supuesto a que se refiere el último párrafo del artículo anterior, en cuyo caso únicamente informarán directamente a las personas interesadas el nombre de las entidades acreedoras que correspondan.
-
-Dichas sociedades responderán por los daños y perjuicios que causen al proporcionar información cuando exista culpa grave, dolo o mala fe en el manejo de la base de datos.
-
-Por su parte, las personas que proporcionen información a las sociedades de información crediticia igualmente responderán por los daños y perjuicios que causen al proporcionar dicha información, cuando exista culpa grave, dolo o mala fe.
 
 ###### ARTICULO 33-B.
 
@@ -831,3 +837,9 @@ III.- Para los efectos de la fracción anterior el costo promedio de las accione
 QUINTO.- Los consejeros y comisarios de la serie "C", de las instituciones de crédito y sociedades controladoras, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan a la nueva estructura de capital y los designados tomen posesión de sus cargos.
 
 SEXTO.- Durante el período establecido en el tratado o acuerdo internacional aplicable, las casas de bolsa Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la casa de bolsa Filial emisora.
+
+D.O.F. 30 DE ABRIL DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el párrafo segundo de la fracción I del artículo 15 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirá observándose el texto anteriormente aplicable.
