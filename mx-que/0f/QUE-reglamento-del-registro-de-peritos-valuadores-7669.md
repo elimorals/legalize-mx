@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-registro-de-peritos-valuadores-7669"
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-09-10"
-last_updated: "1987-09-10"
+last_updated: "1997-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DEL REGISTRO DE PERITOS VALUADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE PERITACION VALUATORIA, PUBLICADO EN EL P.O. DE 29 DE MAYO DE 1997, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 10 de septiembre de 1987.
 
@@ -234,3 +236,15 @@ LIC. MARIANO PALACIOS ALCOCER.
 El Secretario de Gobierno.
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MAYO DE 1997.
+
+Artículo Primero.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+Artículo Segundo.- La Secretaría de Gobierno es la dependencia encargada de resolver sobre los aspectos de carácter administrativo que surjan por motivo de la aplicación del presente Reglamento.
+
+Artículo Tercero.- A partir de la iniciación de vigencia de este Reglamento, los peritos valuadores residentes en el Estado, deberán solicitar su autorización y expedición de la constancia que los acredita para el desempeño de su actividad, ante la Secretaría de Gobierno, en un plazo no mayor de 3 meses.
+
+Artículo Cuarto.- Se abroga el Reglamento del Registro de Peritos Valuadores de fecha 4 de septiembre de 1987, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", número 37 de fecha 10 de septiembre de 1987; así como todas aquellas disposiciones que se opongan al presente Reglamento.
