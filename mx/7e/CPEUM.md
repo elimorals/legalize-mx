@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1942-11-18"
+last_updated: "1942-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1942.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -586,11 +586,11 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 52.
 
-Se elegirá un diputado propietario por cada cien mil habitantes o por una fracción que pase de cincuenta mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados, y la de un Territorio, cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
+Se elegirá un diputado propietario por cada ciento cincuenta mil habitantes, o por una fracción que pase de setenta y cinco mil, teniendo en cuenta el censo general del Distrito y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados, y la de un Territorio cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
 
 ###### Art. 53.
 
@@ -2025,3 +2025,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 18 DE NOVIEMBRE DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 30 DE DICIEMBRE DE 1942.
+
+###### ARTICULO UNICO.
+
+La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
