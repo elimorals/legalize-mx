@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "2000-12-29"
+last_updated: "2004-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -265,7 +265,11 @@ En los casos de responsabilidad solidaria, los responsables quedan obligados a c
 
 Estarán exentos de pago de impuestos y derechos:
 
-I.- Los Municipios, la Federación, y las Entidades Federativas, cuando su actividad corresponda a sus funciones propias como entes de Derecho Público; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
+
+I.- En el pago de Impuestos, la Federación, el Estado y Municipio, cuando su actividad corresponda a sus funciones propias como entes de derecho público.
+
+En el pago de Derechos, el Municipio, cuando su actividad corresponda a sus funciones propias como ente de derecho público.
 
 II.- Las demás personas que de modo general señalen las Leyes.
 
@@ -2122,3 +2126,9 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero del año 2001.
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del año dos mil cinco.
+
+Segundo.- Publíquese el presente en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
