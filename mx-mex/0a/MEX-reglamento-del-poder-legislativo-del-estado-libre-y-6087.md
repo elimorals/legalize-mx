@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "1999-01-15"
+last_updated: "1999-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 1999.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1131,6 +1131,52 @@ XXI.- Las demás que le señalen los ordenamientos legales aplicables y las que 
 
 La Dirección General de Administración, contará con las unidades administrativas que determine la Gran Comisión y que serán las necesarias para cumplir con sus funciones y se establecerán en el respectivo manual de organización.
 
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+
+###### Artículo 162.
+
+La Dirección General de Comunicación Social, es la Dependencia del Poder Legislativo encargada de la Comunicación Social de la Legislatura.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+
+###### Artículo 163.
+
+La Dirección General de Comunicación Social, tendrá como titular un Director General, nombrado por la Legislatura a propuesta de las diferentes Fracciones que integran la Legislatura.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+
+###### Artículo 164.
+
+Para ser Director General de Comunicación Social se requiere:
+
+I. Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
+
+ll. No haber sido condenado mediante sentencia ejecutoria, por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
+
+III. Poseer conocimiento profesional en cualquier ramo de comunicación o afin a sus funciones.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+
+###### Artículo 165.
+
+La Dirección General de Comunicación Social, tendrá las siguientes funciones:
+
+I. Organizar, coordinar y controlar el desarrollo del Proceso de Comunicación entre la Legislatura, los medios y la ciudadanía;
+
+II. Proponer las subdirecciones, jefaturas, departamentos y personal requerido para el cumplimiento de sus actividades;
+
+III. Definir y establecer objetivos, políticas y procedimientos en materia de comunicación;
+
+IV. Administrar a través de la Dirección General de Administración, el presupuesto anual asignado por el Comité de Comunicación Social, para cada Fracción;
+
+V. Brindar apoyo a las Dependencias del Poder Legislativo para la difusión de actividades legislativas;
+
+VI. Apoyar a la Gran Comisión en el acopio y difusión de información legislativa;
+
+VII. Elaborar el proyecto de presupuesto anual de egresos de la Dirección General de Comunicación Social;
+
+VIII. Elaborar el proyecto de presupuesto anual para cada Fracción, que no excederá del cincuenta por ciento del presupuesto total de la Dirección General de Comunicación Social.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente reglamento, entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
@@ -1156,3 +1202,11 @@ G.G. 15 DE ENERO DE 1999.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día quince de enero de mil novecientos noventa y nueve.
+
+G.G. 9 DE MARZO DE 1999.
+
+PRIMERO.- Procédase a la declaratoria de aprobación de las reformas.
+
+SEGUNDO.- Publíquese en la Gaceta del Gobierno.
+
+TERCERO.- Este decreto entrará en vigor al día siguiente de su publicación.
