@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1930-11-16"
+last_updated: "1932-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1932.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -114,9 +114,11 @@ Lo dispuesto en este artículo y en la fracción segunda del Artículo anterior,
 
 Los morelenses en igualdad de circunstancias serán preferidos a quienes no lo sean para toda clase de concesiones, empleos o comisiones públicas del Estado y de los Municipios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 13.
 
-Son Ciudadanos Morelenses, los que además de tener la calidad de ciudadanos mexicanos, reúnan los siguientes requisitos:
+Son ciudadanos Morelenses los que además de tener la calidad de ciudadanos mexicanos, residan habitualmente en el territorio del Estado.
 
 I.- Haber cumplido 18 años siendo casados y 21 si no lo son.
 
@@ -156,7 +158,7 @@ II.- El que por sentencia ejecutoria haya sido condenado a inhabilitación para 
 
 III.- El que solicitare y obtuviere carta de ciudadanía en otro Estado.
 
-IV.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, de estudios o de alguna comisión o empleo conferido por la Federación, el Estado o algunos de los Municipios del mismo.
+IV.- (DEROGADA, P.O. 16 DE OCTUBRE DE 1932)
 
 ###### Artículo 17.
 
@@ -172,13 +174,19 @@ IV.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión
 
 V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la forma que prevengan las leyes.
 
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
+
 ###### Artículo 18.
 
 Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de (sic) ciudadano a quien los hubiere perdido; pero es requisito indispensable para conceder esta gracia, que la persona objeto de ella, goce de los derechos de ciudadano mexicano.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 19.
 
-La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motivó la suspensión, con excepción del caso previsto en la fracción I del Artículo 16 de esta Constitución.
+La calidad de ciudadano Morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
 ### CAPITULO UNICO.
 
@@ -191,6 +199,8 @@ DE LOS PODERES PUBLICOS.
 ### CAPITULO I.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 20.
 
@@ -210,7 +220,7 @@ DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
 ###### Artículo 23.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Morelos", compuesta de representantes designados en su totalidad cada tres años, en elección popular directa, en los términos que disponga la Ley.
+El Poder Legislativo se deposita en una asamblea que se denomina "Congreso del Estado de Morelos", compuesta de representantes designados en su totalidad cada tres años, en elección popular directa, en los términos que disponga la Ley, y no podrán ser reelectos para el período inmediato, ni aun por distinto Distrito.
 
 ### CAPITULO III.
 
@@ -348,7 +358,9 @@ X.- Fijar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos, e
 
 XI.- Crear nuevos Municipios dentro de los límites de los existentes, previos los siguientes requisitos:
 
-A.- Que la fracción o fracciones que pretendan erigirse en Municipio cuenten con una población de más de tres mil habitantes.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+A.- Que la fracción o fracciones que pretendan erigirse en Municipio cuenten con una población de más de dos mil habitantes.
 
 B.- Que se compruebe ante el Congreso que la fracción o fracciones que pretendan formar Municipios, tienen los elementos bastantes para proveer por sí mismos a su existencia política, así como que el Municipio del cual traten de segregarse, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno.
 
@@ -380,7 +392,9 @@ XXI.- Conceder premios por servicios hechos a la Nación, al Estado o a la Human
 
 XXII.- Rehabilitar en sus derechos de ciudadano del Estado.
 
-XXIII.- Determinar los casos en que sea de utilidad pública la ocupación o expropiación de la propiedad privada, conforme a la Ley respectiva.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+XXIII.- Expedir la Ley relativa a la expropiación de la Propiedad Privada por causas de utilidad pública.
 
 XXIV.- Excitar a los Poderes de la Nación para que presten protección al Estado, en el caso previsto por el artículo 122 de la Constitución Federal.
 
@@ -414,7 +428,9 @@ XXXVIII.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al
 
 XXXIX.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame en contra de ellas, y resolver en cada caso lo conveniente.
 
-XL.- Declarar que ha o no lugar a formación de causa por delitos comunes contra los Diputados, el Gobernador, Secretario General de Gobierno, Magistrados del Tribunal Superior, Procurador General de Justicia, Contador Mayor de Hacienda y Director General de Rentas.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
+XL.- Declarar que ha o no lugar a formación de causa por delitos comunes contra los Diputados, el Gobernador, Secretario de Gobierno y Magistrados del Tribunal Superior.
 
 XLI.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos que cometan en ejercicio de sus funciones.
 
@@ -600,11 +616,11 @@ En caso de falta absoluta del Gobernador, ocurrida durante los dos primeros año
 
 Cuando la falta absoluta ocurra en los dos últimos años del período respectivo, el Congreso elegirá un Gobernador substituto, quien ejercerá sus funciones hasta la terminación del mismo.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 66.
 
-Si el Congreso no estuviere reunido, al ocurrir cualquiera de los casos a que se refieren los dos artículos anteriores, la Diputación Permanente nombrará un Gobernador Provisional y convocará a aquél a sesiones extraordinarias para que haga el nombramiento de Gobernador Interino o substituto conforme a los mismos artículos.
-
-El Gobernador Provisional podrá ser electo por el Congreso como substituto.
+Si el Congreso no estuviere reunido al ocurrir cualquiera de los casos a que se refieren los dos artículos anteriores, la Diputación Permanente nombrará un Gobernador Provisional y convocará a aquel a sesiones extraordinarias para que haga el nombramiento del Gobernador Interino o sustituto conforme a los mismos artículos. El Gobernador Provisional podrá ser electo por el Congreso como substituto o como interino.
 
 ###### Artículo 67.
 
@@ -616,11 +632,15 @@ Cuando la falta absoluta del Gobernador ocurra sin estar integrado el Congreso p
 
 En este caso, el funcionario que asuma el Poder Ejecutivo, lo hará con el carácter de Gobernador Provisional y procederá en el término improrrogable de sesenta días, a expedir la convocatoria que corresponda, para la elección de nuevo Congreso del Estado; y hecha la elección, éste procederá a hacer la designación de Gobernador conforme a dichos artículos, en sus respectivos casos.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 69.
 
-Cuando por circunstancias anormales no pueda integrarse el Poder Ejecutivo conforme al artículo anterior, y se llegue el caso de que el Senado nombre un Gobernador Provisional, de acuerdo con el artículo 76 fracción V, de la Constitución General de la República, el nombrado deberá expedir la convocatoria respectiva para la elección de Congreso del Estado, dentro del término improrrogable de sesenta días.
+Cuando por circunstancias anormales no pueda integrarse el Poder Ejecutivo conforme al artículo anterior, y se llegue el caso de que el Senado nombre un Gobernador Provisional de acuerdo con el artículo 76 fracción V de la Constitución General de la República, el nombrado deberá expedir la convocatoria respectiva para la elección de Congreso del Estado, dentro del término improrrogable de sesenta días.
 
 Integrado el Congreso del Estado, procederá a hacer la designación de Gobernador, con arreglo a los artículos 64 y 65 de esta Constitución, expidiendo en su caso la convocatoria que corresponda.
+
+En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
 ### CAPITULO I.
 
@@ -830,9 +850,11 @@ Los Magistrados suplentes sólo disfrutarán de emolumentos durante el tiempo en
 
 El Tribunal Superior de Justicia funcionará en pleno.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 94.
 
-El Tribunal Superior designará cada año a uno de sus miembros como Presidente, no pudiendo ser electo para dos años consecutivos.
+El Tribunal Superior designará a uno de sus miembros como Presidente, en los términos de la Ley Orgánica respectiva no pudiendo éste ser electo Presidente para el período inmediato.
 
 ###### Artículo 95.
 
@@ -998,7 +1020,11 @@ VII.- El Ramo Judicial del Municipio estará a cargo del Juez o Jueces Menores y
 
 VIII.- Cuando la extensión o densidad de la población de los Municipios lo exijan, podrán ser subdivididos en secciones municipales que estarán a cargo de Ayudantes nombrados por el Ayuntamiento en la forma y términos de la Ley Orgánica respectiva.
 
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 IX.- Los Ayuntamientos, como cuerpos colectivos, y los Regidores individualmente, no podrán ejecutar los acuerdos que se tomen en cabildos. La Ley Orgánica Municipal determinará la manera de ejecutarlos.
+
+Los acuerdos tomados en cabildo, serán ejecutados por el Presidente Municipal.
 
 X.- Cuando por cualquiera circunstancia desaparecieren los Ayuntamientos, tendrá facultad el Congreso del Estado, o en su defecto la Diputación Permanente, para nombrar substitutos, mientras se convoca a elección; si la falta ocurriere en el último año, los nombrados terminarán el período.
 
@@ -1034,6 +1060,8 @@ Las diferencias que se susciten entre los Municipios, siempre que no tengan car�
 
 DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 119.
 
 La Administración Pública se guiará por los siguientes principios:
@@ -1066,9 +1094,11 @@ Las Autoridades del Estado vigilarán por la estricta aplicación y observancia 
 
 Ninguna Ley ni autoridad puede permitir ni autorizar en el Estado espectáculos contrarios a la cultura y moralidad públicas.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 124.
 
-Los servicios públicos no pueden en ningún caso ser materia de huelgas o paros.
+En los casos de huelga, tratándose de servicios públicos, será obligatorio para los trabajadores dar aviso con diez días de anticipación a la Junta de Conciliación y Arbitraje, de la fecha señalada para la suspensión del trabajo.
 
 ###### Artículo 125.
 
@@ -1118,19 +1148,19 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
 ###### Artículo 134.
 
-Los Diputados al Congreso del Estado, el Gobernador, el Secretario General de Gobierno, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Contador Mayor de Hacienda y el Director General de Rentas, son responsables por delitos comunes cometidos antes o durante el tiempo de su encargo, y por los delitos oficiales en que incurran en el ejercicio de éste; pero el Gobernador sólo podrá ser acusado, durante su período constitucional, por los delitos de traición a la Patria o al Estado, violación expresa de la Constitución del mismo, ataques a la libertad electoral y delitos graves del orden común.
+Los Diputados al Congreso del Estado, el Gobernador, el Secretario General de Gobierno y los Magistrados del Tribunal Superior de Justicia, son responsables por los delitos comunes cometidos antes o durante el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de éste; pero el Gobernador sólo podrá ser acusado, durante su período constitucional, por los delitos de traicióna (sic) la Patria, violación expresa de la Constitución del mismo, ataques a la libertad electoral y delitos graves del orden común.
 
 ###### Artículo 135.
 
 El Gobernador y los Diputados al Congreso del Estado, también son responsables por violaciones a la Constitución y Leyes Federales, en los términos del Título Cuarto de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+
 ###### Artículo 136.
 
-Si el delito cometido por los funcionarios a que se refiere el artículo 135 fuere común, el Congreso, erigido en gran Jurado, declarará, a mayoría absoluta de votos, y previa audiencia del acusado, por sí, por su defensor o por ambos, si ha o no lugar a formación de causa. En caso negativo, cesará todo procedimiento en contra; en el afirmativo, por ese solo hecho quedará suspenso en su encargo y sujeto a los Tribunales comunes.
+Si el delito cometido por los funcionarios a que se refiere el artículo 134, fuere común, el Congreso erigido en Gran Jurado, declarará a mayoría absoluta de votos y previa audiencia del acusado, por sí, por su defensor o por ambos, si ha o no lugar a formación de causa. En caso negativo cesará todo procedimiento en contra; en el afirmativo, por ese solo hecho quedará suspenso en su encargo y sujeto a los Tribunales comunes.
 
-La Sección del Gran Jurado instruirá el expediente sobre el que debe fallar el Congreso, con arreglo a los procedimientos del orden jurídico que determine el Reglamento Interior del mismo.
-
-En los casos de flagrante delito, no habrá fuero ni inmunidad para ningún funcionario público, observándose respecto del Gobernador, lo dispuesto en la parte final del artículo 134.
+La Sección (sic) del Gran Jurado instruirá el expediente sobre el que debe fallar el Congreso, con arreglo a los procedimientos del orden jurídico que determine el Reglamento Interior del mismo.
 
 ###### Artículo 137.
 
@@ -1168,7 +1198,7 @@ La responsabilidad puramente penal por delitos o faltas oficiales, sólo podrá 
 
 ###### Artículo 145.
 
-Lo mismo que las personas del Gobernador del Estado, del Secretario General de Gobierno, del Procurador de Justicia, de los Magistrados y de los Diputados, sus domicilios habitaciones son inviolables. Ninguna autoridad podrá llevar a cabo en dichos domicilios diligencia alguna, sin el consentimiento escrito del funcionario que allí habite.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 1932)
 
 ###### Artículo 146.
 
@@ -1233,3 +1263,9 @@ VICENTE ESTRADA CAJIGAL.
 El Oficial Mayor Encargado de la Secretaría General de Gobierno,
 
 LUIS G. CAMPO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS A LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 16 DE OCTUBRE DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
