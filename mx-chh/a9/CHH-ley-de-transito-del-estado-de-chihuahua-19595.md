@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transito-del-estado-de-chihuahua-19595"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-31"
-last_updated: "2001-11-24"
+last_updated: "2002-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 31 de enero de 2001.
 
@@ -501,13 +501,15 @@ XI. Las demás que establezca esta Ley y sus reglamentos.
 
 De las Licencias.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2002)</small>
+
 ###### Artículo 46.
 
 Para conducir un vehículo el interesado deberá obtener y portar la licencia otorgada por la autoridad competente para tal efecto.
 
 La Secretaría General de Gobierno, previo cumplimiento de los requisitos que exige esta Ley y la reglamentación aplicable, expedirá a los particulares la licencia que lo autorice para conducir vehículos por las vías públicas.
 
-Dicho documento deberá ser portado por su titular siempre que conduzca un vehículo y exhibirlo a las autoridades de Tránsito y Transporte cuantas veces le sea solicitado.
+La licencia de conducir deberá contener el dato que indique si el guiador a cuyo nombre se expidió la misma, realizó ante la autoridad competente su manifestación de donar o no sus órganos en caso de fallecimiento.
 
 Las licencias tendrán una vigencia de tres y seis años a solicitud del interesado, pero tratándose de las de chofer del transporte público su duración será de seis años debiendo refrendarse cada dos años, en los términos precisados en el reglamento.
 
@@ -990,3 +992,9 @@ LIC. VICTOR E. ANCHONDO PAREDES
 P.O. 24 DE NOVIEMBRE DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a los sesenta días contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
