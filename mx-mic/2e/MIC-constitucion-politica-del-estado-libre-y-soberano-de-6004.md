@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1954-08-16"
+last_updated: "1960-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1960.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
+
+> <small>N. DE E. LA REFORMA APROBADA EN EL DECRETO NUMERO 13 PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACAN DE FECHA 1o. DE FEBRERO DE 1960, MODIFICA DE MANERA SUSTANCIAL EL TEXTO DE LA MISMA.</small>
 
 PASCUAL ORTIZ RUBIO, Gobernador Constituciodal (sic) del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber que.
 
@@ -35,1225 +37,1633 @@ El Pueblo Michoacano representado por su XXXVI Legislatura Constitucional, con c
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-De los habitantes del Estado.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-###### Artículo 2o.
+## TÍTULO PRIMERO
 
-El actual período constitucional terminará para el Gobernador y los Magistrados del Supremo Tribunal de Justicia el quince de sedtiembre (sic) de mil novecientos veinte y para la XXXVI Legislatura, el 15 de septiembre de mil novecientos dieciocho.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO I. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 1º.
+
+En el Estado de Michoacán de Ocampo todos los individuos gozarán de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como de los demás derechos que otorga esta Constitución y las leyes que de ambas emanen.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 2º.
+
+La familia tendrá la protección del Estado. El matrimonio se funda en la igualdad de derechos para ambos sexos, y podrá disolverse por mutuo acuerdo o a petición de cualquiera de los cónyuges cuando medie justa causa que determinarán las leyes.
+
+Los padres están obligados a alimentar, educar e instruir a sus hijos. El Estado velará por el cumplimiento de estos deberes, y dictará normas para asistir la insuficiencia económica de la familia o el abandono de los hijos por los cónyuges.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 3º.
+
+Todas las personas tienen derecho a una existencia digna, a la instrucción, a la cultura y al trabajo. El Gobierno promoverá el mejoramiento físico, moral, intelectual y económico del pueblo.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 3°.
 
-Todo transeúnte gozará en el Estado de la protección de las leyes y autoridades y está obligado a obedecer y respetar unas y otras.
+El Congreso del Estado, el día primero de febrero del presente año se erigirá en Colegio Electoral para designar los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia.
 
-De los michoacanos.
+### CAPITULO II. De los Habitantes del Estado
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 4º.
+
+Son obligaciones de los habitantes del Estado:
+
+I.- Si son mexicanos, las que se señalen en esta Constitución y en el artículo 31 de la General de la República, y
+
+II.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido por las leyes y sujetarse a las resoluciones de los tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos, y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO III. De los Michoacanos
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 5º.
+
+Son michoacanos: los mexicanos nacidos en el Estado, los hijos de michoacanos nacidos fuera de él y los que se avecinen de manera continua durante un año.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 6º.
+
+Son derechos de los michoacanos:
+
+I.- Los que conceda la Constitución Federal a los mexicanos, y
+
+II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las autoridades y en las concesiones que otorgue el Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO IV. De los Ciudadanos
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 7º.
+
+Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 8º.
+
+Son derechos de los ciudadanos: votar y ser votados en las elecciones populares, desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso, y los demás que señala el artículo 35 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 8°.
 
-Son derechos de los ciudadanos michoacanos
+El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
 
-I. Votar en las elecciones populares para los Funcionarios del Estado.
+###### Artículo 9º.
 
-II. Poder ser votados para todos los cargos de elección popular del mismo, y nombrados para cualquier otro empleo o comisión teniendo los requisitos que la ley determina para cada caso.
+Son obligaciones de los ciudadanos, desempeñar los cargos de elección popular del Estado y del Municipio, para los que fueren designados, y las contenidas en el artículo 36 de la Carta Fundamental del país.
 
-III. Asociarse para tratar los asuntos políticos del Estado.
-
-IV. Alistarse en la milicia del Estado para la defensa de su territorio, instituciones y autoridades legítimas.
-
-V. Ejercer el derecho de petición en los negocios del mismo Estado.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 10.
 
-La calidad de ciudadano michoacano se pierde:
+Los derechos de los ciudadanos se pierden y se suspenden, respectivamente, en los términos previstos por los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, o en los casos que determinen las leyes del Estado.
 
-I. Por sentencia condenatoria en los delitos por los cuales deba imponerse esa pena.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II. En los casos en que se pierda la ciudadanía mexicana según la Constitución General de la República.
+## TITULO SEGUNDO
 
-III. Por naturalizarse en otro Estado.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO I. De la Soberanía del Estado y de la forma de Gobierno
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 11.
 
-El ejercicio de los derechos de ciudadano se suspende:
+El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régimen interior, de conformidad con lo prescrito en esta Constitución y en la General de la República.
 
-I. Por estar procesado criminalmente, desde el auto motivado de prisión o desde la declaración de haber lugar a formación de causa, tratándose de funcionarios públicos, hasta la sentencia, si fuere absolutoria, o la extinción de la pena en caso contrario.
-
-II. Por ser ebrio consuetudinario, vago o taur habitual declarado, en los términos que fijen las leyes.
-
-III. Por estar prófugo de la Justicia, por delitos del orden común que merezcan pena corporal, desde que se dicte orden de aprehensión hasta que prescriba la acción penal.
-
-IV. Por sentencia ejecutoria que imponga como pena esa suspensión.
-
-V. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones, que impone el artículo 9º. Esta suspensión durará un año, sin necesidad de previa declaración, y se impondrá además de las otras penas que por el mismo hecho señalare la ley.
-
-VI. Por ser ministro de algún culto.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 12.
 
-La suspensión de los derechos de ciudadano michoacano en los casos segundo, tercero, cuarto y sexto del artículo anterior, sólo durará mientras existan las causas que lo produzcan.
+La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución.
 
-De la soberanía del Estado.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 13.
 
-El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régimen interior, de conformidad con lo prescripto en ésta Constitución y en la General de la República.
+El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como previene el Pacto Federal.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO II. Del Territorio del Estado
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 14.
 
-La soberanía del Estado, reside esencial y originariamente en el Pueblo de Michoacán de Ocampo y se ejerce por medio de los Poderes Públicos. En tal virtud, el Gobierno es emanación genuina del pueblo y se instituye para su beneficio.
+El Estado de Michoacán de Ocampo es parte integrante de los Estados Unidos Mexicanos, y está constituído por la porción de territorio nacional que le reconozcan la Constitución Federal, las leyes y los convenios.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 15.
 
-De acuerdo con la Constitución General de los Estados Unidos Mexicanos, el Estado de Michoacán de Ocampo adopta para su régimen interior, la forma de Gobierno Republicano, Representativo, Popular, teniendo como base de su administración Política y Administrativa el Municipio Libre.
+El Estado tendrá como base de su división territorial y de su organización política y administrativa el Municipio Libre. Cada Municipio conservará la extensión y límites que le señale la Ley de División Territorial.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 16.
 
-La soberanía del Estado se ejerce por medio de tres poderes independientes, denominados: Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de ellos en una persona o corporación ni depositarse el Legislativo en un individuo.
+La creación de nuevos municipios se sujetará a las prescripciones de esta Constitución.
 
-Del territorio del Estado.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO TERCERO
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO I. De la División de Poderes
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 17.
 
-El Estado de Michoacán de Ocampo comprende la extensión que determina la Constitución de los Estados Unidos Mexicanos.
+El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial, los cuales actuarán separada y libremente, pero cooperando, en forma armónica, a la realización de los fines del Estado.
+
+No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o el Judicial en un individuo.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 18.
 
-La base de la división territorial del Estado es el Municipio Libre. Cada Municipio conservará la extensión y límites señalados por la ley de División Territorial.
+La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa del Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO II. Del Poder Legislativo
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 19.
 
-La creación de nuevos Municipios se sujetará a las prescripciones de esta Constitución.
+Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominará: Congreso del Estado de Michoacán de Ocampo.
 
-De la formación del Poder Legislativo.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION I. De la Formación del Poder Legislativo
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 20.
 
-El ejercicio del Poder Legislativo del Estado, se deposita en una asamblea de representantes del Pueblo que se denominará: "CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO".
+El Congreso del Estado se compondrá de representantes del pueblo, electos directamente, en su totalidad, cada tres años, en los términos de la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 21.
 
-Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años y no podrán ser reelectos para el período inmediato siguiente: Por cada Diputado Propietario se elegirá un suplente, q´ (sic) tampoco podrá ser electo propietario para el período inmediato siguiente, si hubiere estado en ejercicio de sus funciones.
+Se elegirá un diputado propietario y un suplente por cada distrito electoral, el que se compondrá de ciento cincuenta mil habitantes o de una fracción no menor de ochenta mil.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1928)</small>
+En ningún caso el número de distritos electorales podrá ser menor de once.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 22.
 
-Por cada Distrito Electoral, que se compondrá de noventa mil habitantes o fracción no menor de veinte mil, se eligirá (sic) un Diputado Propietario y un Suplente, ajustándose a lo dispuesto por el artículo 115 de la Constitución Federal, que determina que el número de Diputados no será menor de once.
+Los diputados no podrán ser reelectos para el período inmediato siguiente; los suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubiesen estado en ejercicio; pero los propietarios no podrán ser reelectos para el período inmediato con el carácter de suplentes.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 23.
 
-La elección de diputados propietarios y suplentes será directa en los términos que disponga la Ley Electoral.
+Para ser Diputado se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos, y
+
+II.- Tener veinticinco años cumplidos el día de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 24.
 
-Para ser diputado al Congreso del Estado se requiere:
+No podrán ser electos diputados:
 
-I. Ser ciudadano mexicano por nacimiento;
+I.- Los ciudadanos que tengan mando de fuerza pública en el distrito por el que pretendan ser electos;
 
-II. Ser ciudadano michoacano en ejercicio de sus derechos.
+II.- El Gobernador del Estado, el Secretario General de Gobierno, los magistrados del Supremo Tribunal de Justicia, el Tesorero General y el Procurador General de Justicia;
 
-III. Haber residido en el Estado los dos años anteriores al día de la elección.
+III.- Los jueces de primera instancia, los recaudadores de rentas y los presidentes municipales en los distritos electorales donde ejerzan sus funciones, y
 
-IV. Tener veinticinco años cumplidos el día de la elección.
+IV.- Los ministros de cualquier culto religioso.
+
+Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 25.
 
-No pueden ser electos diputados:
+El Congreso calificará las elecciones de sus miembros y resolverá las dudas que se susciten sobre ellas.
 
-I. El Gobernador del Estado, el Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior de Justicia, el Procurador de Justicia, el Procurador General y los Jueces de Primera Instancia por los Distritos en donde ejerzan jurisdicción.
+Su resolución será definitiva e inatacable.
 
-II. Los militares de la Federación o del Estado que estén en servicio activo o en comisión, salvo el caso de que se separen de su encargo noventa días antes de la elección.
-
-III. Los Presidentes Municipales de los Distritos Electorales a donde pertenezcan los Municipios en que ejerzan autoridad.
-
-IV. El Tesorero General del Estado y los Jefes de las Oficinas de Hacienda del mismo Estado, por los Distritos donde desempeñen sus funciones.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 26.
 
-Los Diputados propietarios durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación o del Estado, por los cuales se disfrute sueldo, a excepción de los de Instrucción Pública o de Beneficencia, sin licencia previa del Congreso; pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los diputados suplentes, cuando estuvieren en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
+Las sesiones del Colegio Electoral se iniciarán treinta días antes de la instalación del Congreso. Las credenciales que no fueren calificadas en este período, lo serán con posterioridad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 27.
 
-Los diputados son inviolables por las opiniones que emitan en el desempeño de su encargo y jamás podrán ser reconvenidos, demandados ni juzgados por ellas.
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas.
 
-De la reunión, receso y renovación del Congreso.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 28.
 
-El Congreso se reunirá el 16 de septiembre de cada año para celebrar sesiones ordinarias en las que se ocupará preferentemente del examen y votación de todos los presupuestos del año fiscal siguiente, de la revisión de las cuentas del año anterior que dentro de los diez primeros días de la apertura de la Cámara, debe presentar el Ejecutivo; del estudio, discusión y votación de las iniciativas de ley, y de la resolución de los demás asuntos que le correspondan, conforme a esta Constitución. El período de que se trata durará hasta el 15 de febrero del año siguiente, prorrogable hasta por un mes, por acuerdo del Congreso y a petición de alguno de sus miembros o del Ejecutivo.
+Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
+
+La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION II
+
+De la Reunión, Receso y Renovación del Congreso.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 29.
 
-El Congreso se reunirá en sesiones extraordinarias, siempre que para ello fuere convocado por el Ejecutivo o la Diputación Permanente, y, en ellas no se ocupará de otros asuntos que de los consignados en la respectiva convocatoria, a menos que durante éstas mismas sesiones ocurran otros de mayor urgencia, calificados de tales, por el voto de las dos terceras partes de los diputados presentes.
+El Congreso se renovará totalmente cada tres años, y se instalará el día quince de septiembre del año en que hubiere elecciones ordinarias.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 30.
 
-Las sesiones del Congreso serán públicas a excepción de aquellas que, por la calidad de los negocios que deban tratarse, el Reglamento Interior prevenga que sean secretas.
+El Congreso no podrá abrir sus sesiones ni ejercer sus funciones sin la concurrencia de la mayoría del número total de sus miembros. Si no se reuniere esa mayoría el día designado por la ley, los diputados presentes exhortarán a los ausentes para que concurran, dentro de los ocho días siguientes. Si a pesar de ello no se presentaren, se llamará a los suplentes, quienes funcionarán durante ese período de sesiones, y si los suplentes no se presentaren en el mismo plazo de ocho días arriba señalado, se declarará vacante el puesto y se convocará a nuevas elecciones.
+
+Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente del Congreso, de lo cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, y se llamará desde luego, a los suplentes.
+
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 31.
 
-No puede el Congreso abrir sus sesiones sin la concurrencia de la mitad más uno del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la ley, y compeler a los ausentes para que concurran dentro de los quince días siguientes con la advertencia de que si no lo hicieren se entenderá por este solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, que deberán presentarse en un plazo igual, y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones.
+El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el 15 de septiembre de cada año y terminará el 15 de febrero del año siguiente. Ese plazo podrá prorrogarse por un mes, por acuerdo del Congreso y a iniciativa de alguno de los diputados o del Gobernador del Estado.
+
+En este período de sesiones se ocupará de los siguientes asuntos:
+
+I.- Revisar la cuenta pública del año anterior, que deberá enviarle el Ejecutivo dentro de los diez primeros días de la apertura de sesiones. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar;
+
+II.- Examinar, discutir y aprobar el presupuesto del año fiscal siguiente y decretar los impuestos necesarios para cubrirlo, y
+
+III.- Estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 32.
 
-Se entiende también que los diputados que falten diez días consecutivos, sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
+El Congreso tendrá sesiones extraordinarias, cada vez que sea convocado por el Gobernador del Estado, o por la Diputación Permanente en los casos previstos en esta Constitución; en ellas no se ocupará de otros asuntos que de los consignados en la respectiva convocatoria, a menos que durante estas mismas sesiones ocurran otros de mayor urgencia, calificados por el voto de las dos terceras partes de los diputados presentes.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1954)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 33.
 
-El Gobernador del Estado asistirá a la apertura del Primer Período Ordinario de Sesiones de cada año Legislativo y rendirá el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso contestará en términos generales. A este acto deberán asistir el Presidente del Supremo Tribunal de Justicia y demás miembros que formen dicho Cuerpo.
+El Gobernador del Estado asistirá a la apertura del período ordinario de sesiones de cada año legislativo, y rendirá el informe que manifieste el estado que guarde la Administración Pública. El Presidente del Congreso contestará en términos generales. A este acto deberán asistir el Presidente del Supremo Tribunal de Justicia y los miembros que formen este Cuerpo.
 
-El Presidente del Supremo Tribunal de Justicia, rendirá ante el Congreso del Estado, el 13 de septiembre de cada año, el informe que manifieste el estado que guarda la Administración de Justicia. El Presidente del Congreso contestará en términos generales. A este Acto asistirá el Titular del Poder Ejecutivo y los Magistrados del Poder Judicial.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 34.
 
-El Congreso, para el despacho de los negocios de su resorte, formará el correspondiente reglamento, que podrá variar cuando lo juzgue conveniente.
+Toda resolución del Congreso tendrá el carácter de ley o decreto.
+
+El primer nombre corresponde a las resoluciones que versen sobre materia de interés común, dentro de la órbita de atribuciones del Poder Legislativo; el segundo, a las que sean solo relativas a determinados tiempos, lugares, corporaciones, establecimientos o personas.
+
+Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 35.
 
-El Congreso se renovará en su totalidad cada dos años.
+Las sesiones del Congreso serán públicas o secretas, según lo determine el reglamento respectivo.
 
-De las facultades del Congreso.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION III. De la Iniciativa y Formación de las Leyes
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 36.
 
-Son facultades del Congreso:
+El derecho de iniciar leyes corresponde:
 
-I. Expedir, interpretar, reformar y derogar leyes y decretos para la mejor administración interior del Estado, así como los acuerdos económicos del mismo Congreso.
+I.- Al Gobernador del Estado;
 
-II. Iniciar ante el Congreso General las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación así como la reforma y derogación de unas y otras, y secundar cuando lo estime conveniente las iniciativas hechas por las Legislaturas de los otros Estados.
+II.- A los Diputados;
 
-III. Legislar preferentemente sobre las materias siguientes:
+III.- Al Supremo Tribunal de Justicia, y
 
-1.- Sobre fraccionamiento de tierras conforme a las bases que fija el artículo 27 de la Constitución General, el cual reglamentará según las facultades que el mismo precepto concede a las Legislaturas Locales.
+IV.- A los Ayuntamientos.
 
-2.- Sobre trabajo y previsión social de conformidad con lo prescrito por el artículo 123 de la misma Constitución General.
+Las iniciativas presentadas por el Gobernador del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados o los ayuntamientos, se sujetarán a los trámites que señale el reglamento.
 
-3.- Sobre educación e instrucción.
-
-4.- Sobre salubridad e higiene públicas.
-
-IV. Señalar anualmente los gastos de la Administración Pública del Estado con vista de los presupuestos que presente el Ejecutivo. El Congreso al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponde a un empleo que este establecido por la ley; y en caso de que por cualquier circunstancia se omita fijar la remuneración se tendrá por señalada la que hubiere fijado el Presupuesto anterior o la ley que establezca el empleo.
-
-V. Imponer las contribuciones que fueren necesarias para cubrir dichos gastos.
-
-VI. Tomar cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos, cada año, o cuando las dos terceras partes de los miembros del Congreso lo estimen conveniente.
-
-VII. Disponer lo que convenga para la administración, conservación o enajenación de los bienes del Estado.
-
-VIII. Dar bases conforme a las cuales el Ejecutivo celebrará empréstitos sobre el crédito del Estado, aprobar éstos y mandar pagar las deudas del mismo, siempre que hayan sido contraídas justa y legítimamente.
-
-IX. Conceder al Ejecutivo por tiempo limitado facultades extraordinarias cuando lo requieran las circunstancias graves de conveniencia pública, calificadas por el voto de las dos terceras partes de los diputados presentes.
-
-X. Aprobar toda clase de aranceles y reglamentos.
-
-XI. Crear y suprimir Municipios conforme a las bases que fija esta Constitución.
-
-XII. Aprobar o modificar los Presupuestos de Ingresos y Egresos que presenten los Ayuntamientos cada año y los arbitrios que propongan en cualquier tiempo, para llenar los objetos de su institución.
-
-XIII. Revisar y aprobar las cuentas que presenten los mismos Ayuntamientos por el ejercicio anterior.
-
-XIV. Inspeccionar la Contaduría General de Glosa.
-
-XV. Dictar leyes sobre naturalización en el Estado.
-
-XVI. Conceder cartas de ciudadanía a ciudadanos de otros Estados por servicios eminentes calificados por el Congreso, que hayan prestado a todo el país o al Estado.
-
-XVII. Dividir el territorio del mismo como mejor convenga a su Gobierno y con sujeción al artículo 94.
-
-XVIII. Proveer por todos los medios posibles al desarrollo de la Instrucción Pública, al progreso de las artes y de las ciencias, y, prescribir lo conducente a la mejor educación moral y política de la juventud.
-
-XIX. Fomentar la agricultura, la industria y en general todas las empresas de utilidad pública.
-
-XX. Decretar la apertura y mejoramiento de caminos en lo que corresponda al Estado.
-
-XXI. Conceder premios personales y declarar beneméritos del Estado a los que hayan prestado servicios distinguidos a éste o a la patria y decretar honores públicos a la memoria póstuma de los mismos.
-
-XXII. Determinar el plan general que debe de servir para la formación de la estadística del Estado.
-
-XXIII. Crear y suprimir empleos públicos del Estado, señalar, aumentar o disminuir sus dotaciones, así como las pensiones de los empleados en el caso de jubilación o retiro, temporal por causa justa.
-
-XXIV. Crear y suprimir Juzgados de Primera Instancia.
-
-XXV. Calificar de la validez o nulidad de las elecciones de Gobernador, y diputados al Congreso del Estado.
-
-XXVI. Elegir los Magistrados propietarios y suplentes del Supremo Tribunal de Justicia. Para la validez de la elección, se requiere el voto de las dos terceras partes de los diputados presentes.
-
-XXVII. Admitir y desechar las renuncias que hagan de sus respectivos puestos el Gobernador del Estado, los Magistrados del Supremo Tribunal, los diputados al Congreso Local y los funcionarios y empleados que fueren de su nombramiento; concederles licencias temporales para separarse de ellos con arreglo a los reglamentos respectivos, y, conceder licencia al Gobernador del Estado, para salir fuera de éste, por más de ocho días.
-
-XXVIII. Conocer, en calidad de Gran Jurado y en el modo que disponga su reglamento interior para sólo el efecto de declarar si há o no lugar a formación de causa, de las acusaciones que se intenten contra el Gobernador del Estado, Magistrados del Supremo Tribunal de Justicia, diputados al Congreso Local; Secretario del Despacho, Procurador General de Justicia y Tesorero General, por los delitos que cometan durante su encargo.
-
-XXIX. Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos de que deban conocer o hayan conocido los Tribunales del Estado.
-
-XXX. Establecer el juicio por Jurados pora (sic) los delitos cometidos por medio de la prensa contra el orden público o la seguridad interior del Estado; y, cuando lo creyere conveniente respecto de los demás delitos.
-
-XXXI. Fijar y cambiar la residencia de los Poderes del Estado.
-
-XXXII. Disponer lo conveniente para la instrucción de la Guardia Nacional con sujeción a las leyes respectivas.
-
-XXXIII. Expedir leyes para reglamentar la manera como debe contribuir el Estado al contingente de hombres que con arreglo a las leyes generales debe proporcionar para el Ejército Nacional.
-
-XXXIV. Dictar las providencias que crea más eficaces para hacer concurrir a los diputados ausentes y corregir las faltas u omisiones de los presentes.
-
-XXXV. Nombrar y remover libremente a los empleados de su Secretaría y de la Contaduría de Glosa. Así mismo tiene facultad para nombrar, a propuesta en terna del Ejecutivo, al Tesorero General, Contador de la Tesorería y Procurador de Justicia.
-
-XXXVI. Declarar electos Senadores al Congreso de la Unión a los que hubieren obtenido la mayoría de los votos emitidos.
-
-XXXVII. Ratificar o rectificar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo.
-
-XXXVIII. Rehabilitar, con arreglo a la ley, a los que en el Estado se les haya impuesto como pena la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia.
-
-IXL. (sic) Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado en sus faltas absolutas o temporales en los términos del artículo 54 de esta Constitución.
-
-XL. Organizar en el territorio del Estado el sistema penal por colonias, penitenciarías o presidios, sobre la base del trabajo como medio de regeneración.
-
-XLI. Ejercer todas aquellas otras facultades que no estén expresamente concedidas a los otros Poderes por esta Constitución, y las que la Constitución General ha reservado a las Legislaturas de los Estados.
-
-De la Diputación Permanente.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 37.
 
-Durante los recesos del Congreso habrá una diputación Permanente, compuesta de cinco diputados que nombrará él mismo, la víspera de la clausura de sus sesiones ordinarias. Para llenar las faltas de los electos, se nombrarán tres suplentes.
+Las iniciativas de ley o decreto se sujetarán a los siguientes trámites:
+
+I.- El dictamen de comisión será leído una o dos veces en los términos que prevenga el reglamento de debates;
+
+II.- La discusión del dictamen se hará el día que señale el Presidente del Congreso, y agotada aquélla, se hará la declaración de que hay lugar a votar;
+
+III.- La aprobación deberá hacerse por mayoría absoluta del número de diputados presentes; o por las dos terceras partes cuando así lo exija esta Constitución;
+
+IV.- Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
+
+V.- Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones dentro de los siguientes diez días hábiles; a no ser que, corriendo ese término, hubiere el Congreso cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que el Congreso esté reunido;
+
+VI.- El proyecto de ley o decreto, desechado en todo o en parte por el Ejecutivo, será devuelto, con sus observaciones al Congreso y deberá ser discutido nuevamente por éste, pudiendo el Ejecutivo mandar su orador, para lo cual se le dará aviso previo, y
+
+VII.- Si el proyecto fuese confirmado por las dos terceras partes del número total de los diputados presentes, volverá al Ejecutivo para su promulgación.
+
+Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse otra vez en el mismo período de sesiones.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 38.
 
-Si durante el receso del Congreso, fuere éste convocado a sesiones extraordinarias, concluidas éstas, continuará la Diputación Permanente electa, hasta que llegue el nuevo período de sesiones ordinarias.
+En los casos de urgencia notoria, calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso podrá dispensar la lectura o lecturas del dictamen que hubiere formulado la comisión respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 39.
 
-La Diputación Permanente se sujetará al Reglamento Interior del Congreso, en el desempeño de sus funciones.
+Siempre que concurra el Gobernador del Estado o su representante para apoyar sus opiniones, tendrá voz en las discusiones, pero no voto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 40.
 
-Corresponde a la Diputación Permanente:
+La derogación de las leyes se hará con los mismos requisitos y formalidades que se prescriben para su formación.
 
-I. Velar por la observancia de la Constitución General, de la particular del Estado y de las leyes que de ellas emanen, dando cuenta al Congreso de las infracciones que note.
-
-II. Acordar por sí, o a petición del Ejecutivo del Estado, la convocatoria del Congreso a sesiones extraordinarias, pudiendo convocar para lugar distinto de la Capital del Estado, cuando así lo exijan circunstancias graves.
-
-III. Expedir las órdenes correspondientes por medio de su Presidente para tal reunión, cuando aquellas no puedan expedirse por el Ejecutivo, o éste no lo haga al tercer día de habérsele pasado el decreto.
-
-IV. Cuidar de que en los días señalados por la ley, se hagan las elecciones populares que previene esta Constitución y la General, exitando (sic) al Ejecutivo para que con oportunidad libre las correspondientes órdenes.
-
-V. Recibir las actas y expedientes de elección de los Funcionarios del Estado, de cuya validez debe conocer el Congreso, y presentarlos a éste para su calificación.
-
-VI. Ejercer, en su caso, la facultad de que habla el artículo 31.
-
-VII. Dictaminar sobre todos los asuntos que se ofrezcan en el término de su período para que el Congreso los resuelva.
-
-VIII. Resolver desde luego respecto de los negocios que tengan el carácter de urgentes y que no exijan la expedición de una ley o decreto.
-
-IX. Ejercer las mismas funciones del Congreso, en el caso de la fracción 27 del artículo 36.
-
-X. Ejercer las demás facultades que le fija esta Constitución.
-
-De la iniciativa y formación de las leyes.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 41.
 
-El derecho de iniciar leyes corresponde:
+Las votaciones de las leyes o decretos serán nominales; las de los acuerdos serán económicas.
 
-I. A los diputados.
-
-II. Al Gobernador.
-
-III. Al Supremo Tribunal de Justicia
-
-IV. A los Ayuntamientos.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 42.
 
-El Reglamento Interior del Congreso establecerá la forma en que deben presentarse las iniciativas de ley y el modo de proceder a su discusión y votación.
+Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: "El Congreso de Michoacán de Ocampo decreta": (Texto de la Ley o decreto).
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 43.
 
-Las iniciativas de ley o decreto se sujetarán a los siguientes trámites:
+El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o se encuentre erigido en Gran Jurado.
 
-I. Dictamen de Comisión, al que se dará una o dos lecturas, en los términos que prevenga el reglamento de debates.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II. Discusión el día que señale el Presidente del Congreso, y declaración de que hay lugar de votar.
+#### SECCION IV. De las Facultades del Congreso
 
-III. Aprobación a mayoría absoluta del número de diputados presentes o por dos terceras partes cuando para ser aprobado lo exija así esta Constitución.
-
-IV. Pasar al Ejecutivo copia del expediente para que en el término de diez días manifieste su opinión. Si estuviere conforme o dejare pasar el término señalado, procederá desde luego, a la publicación de la ley o decreto.
-
-V. Si el Ejecutivo devolviere el expediente con observaciones, pasará éste nuevamente a la Comisión para que, en vista de aquellas, examine por segunda vez el negocio y rinda nuevo dictamen.
-
-VI. El nuevo dictamen mediante una sola lectura se discutirá en el día que se señale, pudiendo el Ejecutivo mandar su orador para lo cual se le dará aviso previo.
-
-VII. Votación definitiva, en los términos de la fracción III de este artículo, y remisión al Ejecutivo para su publicación.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 44.
 
-Siempre que concurra el Ejecutivo o su órgano para apoyar sus opiniones, tendrá voz en las discusiones, pero no voto.
+Son facultades del Congreso:
+
+I.- Legislar sobre todos los ramos de la administración que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que se expidieren, así como participar en las reformas de esta Constitución, observando para el caso los requisitos establecidos;
+
+II.- Iniciar ante el Congreso de la Unión leyes o decretos, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
+
+III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a las bases que fija el artículo 27 de la Constitución General de la República; sobre educación, ejercicio de profesiones, salubridad y asistencia pública;
+
+IV.- Crear municipios dentro de los límites territoriales de los existentes, lo que deberá hacerse conforme a estas bases:
+
+a).- La solicitud de erección debe ser hecha por un grupo de ciudadanos en número no menor de mil y con residencia en la localidad de tres años, cuando menos;
+
+b).- La fracción territorial que haya de constituirse en nuevo municipio, debe contar con una población no menor de diez mil habitantes;
+
+c).- Es preciso comprobar que dicha fracción tiene los elementos necesarios para su existencia económica y administrativa, así como que el municipio o los municipios de que se segregue, puedan seguir subsistiendo sin grave menoscabo de su hacienda municipal;
+
+d).- El Congreso debe tener la opinión del ayuntamiento o ayuntamientos del municipio o de los municipios de cuyo territorio pretenda formarse la nueva circunscripción municipal, así como del Gobernador del Estado, quienes deberán emitirla dentro del mes siguiente a la fecha en que les fuere pedida, y
+
+e).- La creación del nuevo municipio debe ser aprobada por las dos terceras partes de los diputados presentes;
+
+V.- Agrupar dos o más Municipios en uno solo, cuando a su juicio no reunan las condiciones expresadas en la fracción anterior. El acuerdo debe ser aprobado por las dos terceras partes de los Diputados presentes;
+
+VI.- Facultar al Ejecutivo, con las limitaciones que estime necesarias, para que por sí o por apoderado especial, represente al Estado en actos o contratos para los que no esté facultado expresamente por esta Constitución;
+
+VII.- Fijar la jurisdicción política, administrativa y judicial del Estado;
+
+VIII.- Dictar normas para la administración, conservación y enajenación de los bienes del Estado.
+
+IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
+
+X.- Aprobar o modificar los presupuestos de egresos que presenten cada año los ayuntamientos, y los arbitrios que propongan en cualquier tiempo para los fines de su institución;
+
+XI.- Legislar en materia de ingresos y egresos del Estado;
+
+XII.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos y reconocer y autorizar el pago de los adeudos que contraiga el Estado;
+
+XIII.- Pedir cuentas al Ejecutivo de la recaudación e inversión de los caudales públicos cuando las dos terceras partes de los adeudos que contraiga el Estado; conveniente;
+
+XIV.- Legislar sobre toda clase de aranceles;
+
+XV.- Vigilar el correcto funcionamiento de la Contaduría General de Glosa;
+
+XVI.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la administración así como aumentar o disminuir los emolumentos de que éstos gozan, teniendo en cuenta las condiciones de la hacienda pública, y nombrar y remover libremente a los empleados del Poder Legislativo;
+
+XVII.- Conceder honores, premios y recompensas a las personas que presten servicios eminentes a la República o al Estado, y otorgar pensiones a ellas o a los familiares que comprueben encontrarse en difíciles condiciones económicas;
+
+XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
+
+XIX.- Separar de su cargo a los miembros de los ayuntamientos o declarar desaparecidos éstos, en su caso, a petición del Ejecutivo, cuando se llene cualquiera de los requisitos siguientes:
+
+a).- Cuando alguno de los regidores cometa un delito oficial o del orden común;
+
+b).- Cuando el cuerpo edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
+
+c).- Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio;
+
+En el caso del inciso b) se requiere que la resolución del Congreso sea aprobada por una mayoría de las dos terceras partes de sus miembros presentes;
+
+XX.- Hacer la declaratoria de haber resultado electos Senadores por el Estado, los ciudadanos que a su juicio hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución General de la República;
+
+XXI.- Aprobar o desaprobar las propuestas, solicitudes de licencia y renuncias de los magistrados del Supremo Tribunal de Justicia;
+
+XXII.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
+
+XXIII.- Designar Gobernador interino del Estado cuando la separación del Titular sea mayor de treinta días;
+
+XXIV.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+XXV.- Expedir el reglamento interior del Congreso y dictar resoluciones económicas relativas a su régimen interno;
+
+XXVI.- Comunicarse con el Ejecutivo por medio de comisiones de su seno;
+
+XXVII.- Expedir convocatoria a elecciones extraordinarias para cubrir las vacantes de diputados;
+
+XXVIII.- Conceder, por el voto de las dos terceras partes de los diputados presentes, amnistías o indultos por delitos que deben conocer o hayan conocido los tribunales del Estado;
+
+XXIX.- Establecer el juicio de jurados para los delitos cometidos por medio de la prensa contra el orden público y cuando lo creyere conveniente, respecto a los demás delitos;
+
+XXX.- Aprobar o rechazar las concesiones otorgadas y los contratos de interés general celebrados por el Ejecutivo del Estado;
+
+XXXI.- Rehabilitar, con arreglo a la ley, a las personas a quienes se haya impuesto como pena, la pérdida o suspensión de los derechos de ciudadanía, civiles o de familia;
+
+XXXII.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las facultades anteriormente expresadas, y todas las otras concedidas por esta Constitución a los Poderes del Estado, y
+
+XXXIII.- Las demás que le confiera expresamente esta Constitución.
+
+Las resoluciones del Colegio Electoral y de Gran Jurado serán definitivas e inatacables.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION V. De la Diputación Permanente
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 45.
 
-Toda resolución del Congreso no tendrá otro carácter que el de la ley decreto o acuerdo.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco diputados que se nombrarán la víspera de la clausura de sesiones ordinarias, por mayoría de votos de los presentes; se instalará inmediatamente después de dicha clausura, y durará todo el período de receso, aun cuando haya sesiones extraordinarias. Se nombrarán también tres miembros con el carácter de suplentes.
+
+La Diputación Permanente se sujetará al reglamento interior del Congreso en el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 46.
 
-En los casos de urgencia notoria, calificada por el voto de las dos terceras partes de los diputados presentes, el Congreso puede dispensar o estrechar los trámites establecidos en el artículo 43.
+Corresponde a la Diputación Permanente:
+
+I.- Velar por la observancia de la Constitución General, de la Particular del Estado y de las leyes que de ellas emanen, y dar cuenta al Congreso de las infracciones que note;
+
+II.- Acordar, a propuesta del Ejecutivo, o por propia iniciativa en los casos previstos en esta Constitución, la convocatoria del Congreso a sesiones extraordinarias. Podrá señalarse lugar distinto de la capital para la reunión del Congreso, cuando así lo exijan circunstancias graves. En todo caso la convocatoria señalará el objeto de las sesiones extraordinarias;
+
+III.- Expedir la convocatoria a sesiones extraordinarias, por medio de su Presidente, cuando el Ejecutivo no publique, en el término de tres días, el decreto correspondiente;
+
+IV.- Recibir las actas y expedientes de elección de Representantes Populares del Estado, de cuya validez debe conocer el Congreso, y presentarlos a éste para su calificación cuando se reúna;
+
+V.- Ejercer, en su caso, las facultades de que habla el artículo 30;
+
+VI.- Dictaminar sobre todos los asuntos que se ofrezcan durante su período, para que el Congreso los resuelva;
+
+VII.- Ejercer las funciones del Congreso en los casos de las fracciones XXII y XXIII del artículo 44;
+
+VIII.- Resolver los negocios que tengan el carácter de urgentes y que no exijan la expedición de una ley o decreto, y
+
+IX.- Ejercer las demás facultades que le señala esta Constitución.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO III. Del Poder Ejecutivo
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION I. De la Elección del Gobernador
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 47.
 
-La interpretación o derogación de las leyes se hará con los mismos requisitos y formalidades que se prescriben para su formación.
+Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denominará "Gobernador del Estado".
+
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 48.
 
-Las votaciones de las leyes o decretos serán nominales y se comunicarán al Ejecutivo firmados por el Presidente del Congreso y Secretarios. Los acuerdos económicos sólo por los Secretarios.
+La elección de Gobernador será popular y directa en los términos que disponga la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 49.
 
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones de la Legislatura, cuando ejerza funciones de Cuerpo Electoral o de Jurado.
+Para ser Gobernador se requiere:
+
+I.- Ser ciudadano michoacano en pleno goce de sus derechos;
+
+II.- Haber cumplido treinta y cinco años el día de la elección, y
+
+III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 50.
 
-Toda iniciativa o proyecto de ley que fuere desechado por el Congreso no podrá presentarse en el mismo período de sesiones.
+No pueden desempeñar el cargo de Gobernador:
 
-De la formación y duración del Poder Ejecutivo.
+I.- Los individuos que pertenezcan o hayan pertenecido al estado eclesiástico o que hayan sido o sean ministros de algún culto religioso;
+
+II.- Los que tengan mando de fuerza pública;
+
+III.- Aquellos que desempeñen algún cargo o comisión del Gobierno Federal, y
+
+IV.- Los Secretarios Generales de Gobierno, el Procurador General de Justicia, el Tesorero General del Estado y los magistrados del Supremo Tribunal de Justicia.
+
+Las personas a que se refieren las tres últimas fracciones podrán ser electas si se separan de sus cargos noventa días antes de la elección.
+
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 51.
 
-El Poder Ejecutivo del Estado se deposita en un solo individuo que se llamará "GOBERNADOR DEL ESTADO" y su elección será directa en los términos que dispone la Ley Electoral.
+El Gobernador entrará a ejercer su cargo el 16 de septiembre del año de su elección, y no podrá durar en él más de seis años. El Ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 52.
 
-El Gobernador del Estado entrará a ejercer sus funciones, previa protesta ante la Legislatura Local o ante la Comisión Permanente, el día 16 de septiembre, y durará en su cargo seis años. El ciudadano que haya desempeñado el cargo de Gobernador Constitucional, Substituto, Interino o Provicional (sic), en ningún otro tiempo ni por concepto alguno, podrá volver a desempeñar la función de Gobernador del Estado.
+Nunca podrán ser electos para el período inmediato;
+
+a).- El Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación, y
+
+b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 53.
 
-El Gobernador del Estado, cesará en su encargo al terminar su periodo de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
+El Gobernador cesará en el ejercicio de su encargo al terminar su período de gobierno, aun cuando no se haya hecho la elección del que deba substituirlo, o éste no se haya presentado.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 54.
 
-Las faltas absolutas del Gobernador que ocurran un año antes de que expire su periodo constitucional, se llenarán por medio de nueva elección que se hará con arreglo a la ley de la materia, y el nuevamente nombrado sólo durará el tiempo que falte al que reemplaza. En las faltas temporales y en las absolutas que no excedan de una año; mientras no se presente el nuevamente electo o mientras se verifican las elecciones, en caso de no haberse verificado oportunamente; entrará a ejercer provisionalmente el Poder Ejecutivo, el individuo que nombre el Congreso o el que en su receso elija la Diputación Permanente, la que convocará desde luego al Congreso para que rectifique o ratifique dicho nombramiento.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá en Colegio Electoral inmediatamente, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino; al mismo tiempo expedirá la convocatoria de elecciones para Gobernador substituto que termine el período constitucional, debiendo mediar entre la fecha de la convocatoria y la que se señale para las elecciones, un plazo no menor de tres meses ni mayor de seis.
+
+Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso, para que éste a su vez designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
+
+Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período para el cual fue electo, si el Congreso del Estado estuviere en sesiones, elegirá a mayoría absoluta de votos, el Gobernador substituto que deberá concluir el período respectivo. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de Gobernador substituto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 55.
 
-Para ser Gobernador del Estado se requiere:
+El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-I. Ser mexicano por nacimiento.
-
-II. Ser ciudadano michoacano en ejercicio de sus derechos.
-
-III. Haber residido en el Estado un año antes de la elección si es michoacano por nacimiento o cinco, no siéndolo.
-
-IV. Tener treinta y cinco años cumplidos al tiempo de tomar posesión.
-
-V. No tener mando de fuerza en el Estado, a menos que se separe de su empleo o encargo noventa días antes de la elección.
-
-VI. No haber figurado directa o indirectamente en asonada, motín o cuartelazo.
-
-VII. No haber sido Gobernador Provicional (sic) o Interino del Estado, dentro de un año anterior a la elección.
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 56.
 
-No quedan comprendidos a la fracción V del artículo anterior, los puestos de carácter docente en las escuelas, ni en los facultativos en el ramo de Beneficencia.
+La designación de Gobernador Provisional, Interino y Substituto debe recaer en persona que reúna los requisitos a que se refiere el artículo 49 y que no esté comprendida en alguna de las prohibiciones aplicables de los artículos 50 y 52 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 57.
 
-No puede el Gobernador separarse del lugar designado para la residencia de los Poderes del Estado, y del ejercicio de sus funciones sino por causa grave justificada por el Congreso y en sus recesos por la Diputación Permanente. La primera prohibición no tendrá lugar cuando el Gobernador haya de practicar la visita del Estado, o cuando se ausentare por breve tiempo para ir con cualquiera otro objeto hacia algún punto del mismo, aunque para ello tuviera que salir fuera del territorio michoacano. Acerca de los puntos a donde se dirija y del tiempo que considere que haya de durar su ausencia, dará aviso en estos casos al Congreso.
+Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el 16 de septiembre, cesará, sin embargo, el Gobernador cuyo período haya concluído, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado, o en su receso, con el carácter de provisional, el que designe la Diputación Permanente, en cuyo caso se procederá conforme a lo dispuesto en el artículo 54.
 
-De las facultades y obligaciones del Gobernador.
+Cuando la falta del Gobernador fuese temporal, el Congreso del Estado, o en su defecto la Diputación Permanente, designará un Gobernador interino para que funcione durante el tiempo que dure la falta: si ésta no excede de treinta días, el primer Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo, salvo que se encuentre comprendido en alguna de las prohibiciones que establece esta Constitución, en cuyo caso la substitución se hará por el segundo Secretario de Gobierno y si éste se halla en el mismo caso, se procederá en los términos indicados en la primera parte de ese párrafo. Si la falta se convierte de temporal en absoluta se observará lo dispuesto por el artículo 54.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 58.
 
-Son facultades y obligaciones del Gobernador:
+En caso de que se declaren desaparecidos los Poderes del Estado, será Gobernador el funcionario a quien corresponda, de acuerdo con lo dispuesto por el artículo 160 de esta Constitución, o en su defecto, el que designe la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión, en los términos de la Constitución General de la República.
 
-I. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes y acuerdos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
-
-II. Iniciar ante la Cámara leyes y decretos que tiendan al mejoramiento de la Administración Pública.
-
-III. Velar por el puntual cumplimiento de esta Constitución; de la General de la República y de las leyes o acuerdos de la Federación, expidiendo las órdenes correspondientes para que se cumplan. Las faltas que notare las corregirá con multas que no excedan de cien pesos o arresto hasta por quince días. En caso de delito, deberá consignar al responsable, ya sea miembro de algún Ayuntamiento, Jefe de Tenencia o cualquier otro Funcionario del orden administrativo, a la autoridad competente para que se instruya el proceso respectivo.
-
-IV. Formar los reglamentos interiores de las Oficinas de su dependencia para el buen despacho de la Administración Pública, presentando los reglamento (sic) al Congreso, para su aprobación.
-
-V. Facilitar la Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones y hacer que se ejecuten sus sentencias sin mexclarse (sic) en el examen de las causas pendientes o concluidas, ni disponer durante el juicio de las personas de los reos.
-
-VI. Cuidar de la recaudación y hacer la inversión de los caudales del Estado, con arreglo a las leyes por conducto del Tesorero General del Estado.
-
-VII. Presentar cada año al Congreso, en los primeros quince días del periodo de sesiones ordinarias, los presupuestos de Ingresos y Egresos del año venidero y la cuenta de gastos del anterior.
-
-VIII. Dar informes al Congreso o a la Diputación permanente, cuando lo pidiere sobre cualquier ramo de la Administración.
-
-IX. Dar cuenta al Congreso, al principiar cada período de sesiones ordinarias, sobre el estado que guarde la Administración Pública en todos sus ramos, proponiendo los medios conducentes a mejorarla.
-
-X. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respeto de unas y otras, el mando y demás atribuciones que le concede la Constitución General.
-
-XI. Cuidar la formación e instrucción de las fuerzas de Policía y Seguridad Pública del Estado, y mandarlas directamente en el Municipio donde resida o se encuentre transitoriamente. Disponer de las fuerzas de Seguridad Pública y movilizar la Guardia Nacional, dentro de los límites del Estado, según lo exijan las necesidades públicas y ordenar que pase la Guardia a otros Estados, en los términos que disponga la Constitución General.
-
-XII. Proveer en la forma que dispongan las leyes todos los empleos que sean del resorte del Ejecutivo; pero para el nombramiento del Tesorero General del Estado, Contador de la Tesorería y Procurador de Justicia, propondrá ternas al Congreso y éste hará la designación.
-
-XIII. Nombrar mediante ternas del Procurador General de Justicia, los Agentes del Ministerio Público.
-
-XIV. Nombrar los defensores de oficio.
-
-XV. Nombrar y remover libremente al Secretario del Despacho y a los Jefes y Oficiales de las fuerzas de Policía y Seguridad del Estado.
-
-XVI. Imponer hasta quinientos pesos de multa o hasta quince días de arresto, a los infractores de los reglamentos gubernativos o de Policía. Solamente en el caso de que el infractor no pague la multa que se le hubiere impuesto, se conmutará esta por el arresto correspondiente que no excederá en ningún caso de quince días.
-
-XVII. Pedir al Congreso la prórroga de sesiones por el tiempo prescripto (sic) en esta Constitución.
-
-XVIII. Pedir a la Diputación Permanente la reunión extraordinaria del Congreso.
-
-XIX. Convocar al Congreso cuando lo determine la Diputación Permanente.
-
-XX. Visitar durante su período, y en los términos que disponga las (sic) ley, los pueblos del Estado para imponerse de sus necesidades, proponiendo al Congreso los medios que crea convenientes para remediarlas.
-
-XXI. Cuidar de la conservación los ejidos, tierras y aguas comunales y patrimonios de familia, en la forma que dispongan las leyes.
-
-XXII. Cuidar de la conservación y repoblación de los bosques dictando medidas enérgicas para evitar la destrucción.
-
-XXIII. Difundir y propagar la agricultura y las industrias rurales en el pueblo, obligando a los ciudadanos a dedicarse a ellas en la forma que dispongan las leyes, y procurando el mejoramiento de todos estos ramos.
-
-XXIV. Procurar que el fraccionamiento de los latifundios sea un hecho y que se formen colonias rurales que constituyan la pequeña propiedad.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 59.
 
-No puede el Gobernador:
+El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado, o ante la Diputación Permanente en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de Michoacán; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-I. Negarse a sancionar y publicar las leyes, decretos y acuerdos de la Legislatura.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-II. Distraer los caudales públicos de los objetos a que están destinados por la ley.
+#### SECCION II. De las Facultades y Obligaciones del Gobernador
 
-III. Imponer contribución alguna, a no ser que esté extraordinariamente facultado para ello.
-
-IV. Impedir ni retardar las elecciones populares o la instalación de la Legislatura.
-
-V. Intervenir en las elecciones para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo este motivo de nulidad de las elecciones y causa de responsabilidad.
-
-VI. Salir por más de ocho días del territorio del Estado, sin licencia de la Legislatura o de la Diputación Permanente, ni separarse de la capital por el mismo tiempo, sin dar aviso a la Legislatura o a la Diputación.
-
-VII. Mezclarse en asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia.
-
-VIII. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación Permanente.
-
-IX. Ocupar la propiedad de ninguna persona, ni privar a nadie de la posesión, uso y aprovechamiento de ella, sino por causas de utilidad pública, y en el término que prevenga la ley.
-
-X. Sancionar leyes y contratos y expedir reglamentos u órdenes generales de pago sin que vayan autorizados por el Secretario General de Gobierno.
-
-Del Despacho del Ejecutivo.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 60.
 
-El Ejecutivo tendrá para el despacho de los asuntos oficiales de su competencia, un Secretario, que se denominará: "SECRETARIO DE GOBIERNO".
+Las facultades y obligaciones del Gobernador son:
+
+I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;
+
+II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
+
+III.- Nombrar a las personas que han de integrar los Ayuntamientos en los casos previstos por la fracción XIX del artículo 44 de esta Constitución, y cuando falte alguna de ellas por otras causas;
+
+IV.- Someter al Congreso del Estado, las propuestas para la designación de magistrados del Supremo Tribunal de Justicia o a la Diputación Permanente según el caso;
+
+V.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;
+
+VI.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;
+
+VII.- Expedir los reglamentos interiores de las oficinas a su cargo;
+
+VIII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
+
+IX.- Presentar cada año al Congreso, durante los primeros diez días de cada período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
+
+X.- Dar informes al Congreso de la Diputación Permanente, cuando le fueren pedidos, sobre cualquier ramo de la administración pública.
+
+XI.- Dar cuenta al Congreso, al empezar cada período de sesiones ordinarias del estado sobre el estado que guarde la administración pública proponiendo los medios para mejorarla;
+
+XII.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión.
+
+XIII.- Cuidar de la formación e instrucción de las fuerzas de policía y seguridad públicas del Estado, y mandarlas directamente;
+
+XIV.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;
+
+XV.- Nombrar y remover al Secretario de Gobierno, al Oficial Mayor, al Tesorero General, al Procurador General de Justicia, a los jefes y oficiales de las fuerzas de policía y seguridad del Estado y a los demás funcionarios y empleados de la administración, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes.
+
+XVI.- Imponer multas hasta de quinientos pesos, o arresto hasta de quince días, por infracciones a los reglamentos gubernamentales o de policía. Sólo cuando el sancionado no pague la multa, se conmutará ésta por el arresto correspondiente;
+
+XVII.- Pedir al Congreso prórroga de sus sesiones ordinarias en el caso a que se refiere el artículo 31 de esta Constitución;
+
+XVIII.- Pedir a la Diputación Permanente la reunión extraordinaria del Congreso;
+
+XIX.- Convocar al Congreso cuando lo determine la Diputación Permanente, en los términos de esta Constitución;
+
+XX.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;
+
+XXI.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;
+
+XXII.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad, y
+
+XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 61.
 
-Para ser Secretario de Gobierno se requiere:
+El Gobernador del Estado no podrá:
 
-I. Ser mexicano por nacimiento.
+I.- Negarse a promulgar y publicar las leyes y decretos de la Legislatura;
 
-II. Ser ciudadano michoacano en ejercicio de sus derechos políticos.
+II.- Imponer contribución alguna que no esté previamente establecida por la ley;
 
-III. Tener veinticinco años cumplidos.
+III.- Distraer los caudales públicos del objeto a que estén destinados por la ley;
 
-IV. Tener por lo menos un año de residencia en el Estado, inmediatamente anterior a la fecha de su nombramiento.
+IV.- Impedir a retardar las elecciones populares o la instalación de la Legislatura;
 
-V. No haber sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito infamante.
+V.- Intervenir en las elecciones para favorecer a personas determinadas;
+
+VI.- Salir del territorio del Estado por más de treinta días sin licencia del Congreso o de la Diputación Permanente. Cuando el Gobernador, sin abandonar sus funciones, salga del territorio del Estado o de la capital, el Secretario de Gobierno quedará encargado del Despacho;
+
+VII.- Mezclarse en asuntos judiciales, ni disponer, durante la tramitación de un juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia, y
+
+VIII.- Autorizar la ocupación de la propiedad de persona alguna, ni privarla de la posesión, uso o goce de lo que le pertenece.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION III. Del Despacho del Poder Ejecutivo
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 62.
 
-El Secretario de Gobierno, será órgano indispensable por donde el Gobierno comunique sus resoluciones, y llevará al Congreso la voz del Ejecutivo, cuando éste y el mismo Congreso lo crea conveniente.
+El Gobernador tendrá, para el despacho de los asuntos oficiales de su competencia, un secretario que se denominará: Secretario de Gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 63.
 
-Los decretos, reglamentos, circulares u órdenes así como los acuerdos que resuelvan en definitiva un asunto administrativo, que expida el Ejecutivo en uso de las facultades, sólo serán obedecidos si van firmados por él y por el Secretario de Gobierno.
+Para ser Secretario de Gobierno se requiere:
+
+I.- Ser mexicano y michoacano por nacimiento, o tener residencia efectiva en el Estado, no menor de dos años anteriores a la fecha del nombramiento;
+
+II.- Ser ciudadano en pleno ejercicio de sus derechos;
+
+III.- Haber cumplido veinticinco años de edad el día de su designación;
+
+IV.- No haber sido condenado por delitos infamantes o contra la propiedad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 64.
 
-El Secretario de Gobierno, será responsable de los actos del Gobernador, que autorice, contra la Constitución y leyes generales o contra la Constitución y leyes particulares del Estado.
+El Secretario de Gobierno será el órgano por el que el Ejecutivo comunique sus resoluciones, y llevará el Congreso la voz del Gobernador, cuando éste lo crea conveniente.
 
-Del Poder Judicial y funcionarios en quienes se deposita.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 65.
 
-La facultad de aplicar las leyes en lo civil y criminal reside exclusivamente en el Poder Judicial y ninguna autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
+Todas las leyes, decretos, reglamentos, órdenes generales, acuerdos que resuelvan asuntos administrativos y circulares de observancia general, serán firmados por el Gobernador del Estado y por el Secretario de Gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 66.
 
-El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado en la parte que le corresponde.
+El Secretario de Gobierno será responsable de los actos que el Gobernador autorice contra la Constitución y leyes federales, o contra la Constitución y leyes del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+### CAPITULO IV. Del Poder Judicial
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en un Tribunal Supremo de Justicia, en los Juzgados de Primera Instancia, Jueces menores y Jurados.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los jueces de Primera Instancia, en los municipales y de tenencia y en los jurados.
 
-Del Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y cinco Supernumerarios, que funcionarán en Cinco Salas Unitarias, de acuerdo con la Ley Orgánica respectiva; y en Pleno en audiencia pública, salvo los casos en que la moral o el interés público exijan que sean privadas, para conocer los siguientes asuntos:
+La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos.
 
-I.- De aquellos a que se refiere el artículo 71 de esta Constitución en sus fracciones I, V, VIII y X.,
-
-II.- Para ejercitar el derecho de iniciativa que le concede la fracción III del artículo 41 de la Constitución.
-
-III.- Para conocer de las competencias y acumulaciones que se susciten entre los Jueces de Primera Instancia del Estado y los de la Federación, y entre aquellos y los de otros Estados,
-
-IV.- Para nombrar a los Jueces de Primera Instancia y Municipales,
-
-V.- Para conocer de las recusaciones y excusas de los Magistrados y Secretarios del Tribunal cuando funcione en Pleno, y
-
-VI.- Para los demás asuntos cuya resolución no corresponda a las Salas Unitarias, conforme a la Ley Orgánica de Tribunales.
-
-Las faltas absolutas de los Magistrados que ocurran durante los tres primeros años de su ejercicio, se llenarán por nueva elección, no debiendo durar los electos en este caso sino el tiempo que falte a los que reemplacen. Mientras se verifica la elección y se presentan los nuevamente electos, así como en las faltas absolutas que ocurran durante el último año de ejercicio y en las temporales, entrarán a funcionar los Supernumerarios, con arreglo a lo que estableciere la Ley Orgánica respectiva. En caso de que no los hubiere, o no estuvieren expeditos, se cubrirán las faltas en los términos que aquélla disponga.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 69.
 
-Para ser Magistrado Numerario o Supernumerario del Supremo Tribunal de Justicia, se requiere.
+El Poder Judicial no podrá ejercer otras funciones que las de juzgar y hacer que se ejecute lo juzgado.
 
-I.- Ser ciudadano michoacano en ejercicio de sus derechos.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
+#### SECCION I. De la Integración y Funcionamiento del Supremo Tribunal
 
-II.- Tener veinticinco años cumplidos.
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
-
-III.- Poseer título profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello y no estar suspenso en el ejercicio de su profesión.
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 70.
 
-El Tribunal Supremo de Justicia se renovará en su totalidad cada tres años, que se contarán desde el 16 de septiembre, en que inicie su ejercicio constitucional. Ninguno de los Magistrados podrá ser reelecto para el período inmediato siguiente de su funcionamiento. Si por alguna circunstancia no se reuniere en dicho tiempo, continuarán ejerciendo las funciones judiciales los individuos que lo forman hasta que tomen posesión los nuevamente electos.
+El Supremo Tribunal de Justicia se compondrá de cinco magistrados propietarios, y funcionará en Tribunal Pleno o en Salas Unitarias, en los términos que disponga la ley. Habrá además, cinco magistrados supernumerarios.
+
+La Ley Orgánica del Poder Judicial distribuirá las competencias señalando las funciones que correspondan al Presidente, al Pleno y a las Salas Unitarias.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 71.
 
-Corresponden al Supremo Tribunal de Justicia del Estado conocer:
+Para ser Magistrado propietario o supernumerario se requiere:
 
-I. De las causas de responsabilidad que hayan de formarse a los Funcionarios de que habla el artículo 36 inciso XXVIII previa la declaración que se haga de haber lugar a formación de causa.
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos o civiles;
 
-II. De las cuestiones de competencia y de las de acumulación que se susciten entre Jueces Menores de los Distritos, entre los Jueces de Primera Instancia del Estado y entre éstos y los Jueces Menores de otros Distritos.
+II.- Haber cumplido treinta años de edad en la fecha de su nombramiento;
 
-III. De los recursos de ocasión que se interpongan de las sentencias que no hayan causado ejecutoria y que lo admitan.
+III.- Tener título de abogado expedido por la Universidad Michoacana de San Nicolás de Hidalgo o por Institución reconocida por ésta, y no estar suspendido en el ejercicio de su profesión;
 
-IV. De los negocios civiles y criminales comunes como Tribunal de apelación o de última instancia.
+IV.- Haber sido Juez de Primera Instancia durante tres años, cuando menos, o haber ejercido la profesión de abogado durante cinco años, y
 
-V. Declarar si ha o no lugar a formación de causa contra los Jueces de Primera Instancia y Presidentes de los Ayuntamientos.
+V.- Gozar de buena reputación y no haber sido condenado por delitos infamantes o contra la propiedad.
 
-VI. Nombrar los empleados de su Secretaría y castigarlos por las faltas que cometan en el servicio, hasta con tres meses de suspensión de empleo o multas que no excedan de la mitad de su sueldo en un mes, si la falta no mereciere formación de causa.
-
-VII. Consultar al Congreso sobre las dudas de ley que ocurran al mismo Tribunal o a los Juzgados Inferiores.
-
-VIII. Formar su reglamento interior y el de su Secretaría, sujetándolos a la aprobación del Congreso.
-
-IX. Del recurso de queja en los términos que dispongan las leyes.
-
-X. Autorizar a los Jueces del Estado para sostener competencias con los Jueces de otros Estados, de la Federación y del Distrito Federal y Territorios.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 72.
 
-La ley determinará la organización de la Sala que deba conocer del recurso de ocasión en los negocios que lo admitan.
+Los magistrados del Supremo Tribunal de Justicia durarán tres años en el ejercicio de su cargo, al término de los cuales podrán ser designados nuevamente para otro período.
 
-De los Juzgados de Primera Instancia.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 73.
 
-La administración de Justicia en en (sic) Primera Instancia, estará a cargo de Jueces letrados. La ley determinará su número (sic) el lugar de su residencia, la extensión de sus respectivos territorios y la manera de llenar sus faltas absolutas o temporales.
+Las designaciones de ]os magistrados del Supremo Tribunal de Justicia, se harán por el Congreso o la Diputación Permanente en su caso, a propuesta del Gobernador del Estado.
+
+Cada Magistrado del Supremo Tribunal, al entrar a ejercer su encargo, protestará ante el Congreso, y en sus recesos, ante la Comisión Permanente, en la siguiente forma:
+
+Presidente: "¿ Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Supremo Tribunal de Justicia del Estado de Michoacán de Ocampo, que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ellas emanen, mirando en todo el bien y prosperidad de la Nación y del Estado?"
+
+Magistrado: "Sí, protesto."
+
+Presidente: "Si no lo hiciéreis así, la Nación y el Estado os lo demanden."
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 74.
 
-Los Jueces de Primera Instancia durarán en el ejercicio de sus funciones cuatro años que se contarán del mismo modo que a los individuos del Tribunal Supremo, continuando, como éstos, en el ejercicio de sus funciones mientras no se presenten los nuevamente nombrados.
+La falta temporal de un Magistrado que no exceda de tres meses, será suplida por uno de los supernumerarios que designe el Pleno del Supremo Tribunal. Si la falta es definitiva o por más de tres meses, se seguirá el mismo procedimiento determinado por el artículo 73.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+Los Magistrados supernumerarios conocerán de los negocios en el orden de su designación, cuando los propietarios, en su totalidad, sean recusados o se encuentren impedidos; podrán ser llamados también para integrar el Pleno, en el caso de falta o impedimento de un Magistrado propietario, cuando no exista la mayoría requerida por la ley para la decisión de un asunto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 75.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado.
+En caso de que se declaren desaparecidos los Poderes del Estado, el funcionario que asuma el Poder Ejecutivo propondrá al Congreso del Estado, en la misma forma que determina la fracción IV del artículo 60, la designación de los magistrados del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 76.
 
-Para ser Juez de Primera Instancia se requiere:
+Los magistrados designados para suplir las faltas de los propietarios, durarán en su encargo el tiempo que falte para terminar el período constitucional respectivo.
 
-I. Ser ciudadano mexicano en ejercicio de sus derechos.
-
-II. Tener veintiún años cumplidos.
-
-III. Ser abogado no suspenso en el ejercicio de su profesión.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 77.
 
-Son atribuciones de los Jueces de Primera Instancia:
+Corresponde al Supremo Tribunal de Justicia del Estado:
 
-I. Conocer en Primera Instancia de todos los negocios civiles y criminales de su territorio y de las responsabilidades de los Funcionarios del mismo, cuyo conocimiento no esté reservado al Supremo Tribunal.
+I.- Conocer:
 
-II. Conocer de las competencias que se susciten entre los Jueces Menores del mismo Territorio.
+a).- De las cuestiones de competencia y de la acumulación entre los jueces municipales de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces municipales de otros distritos;
 
-III. Nombrar a los empleados de su juzgado.
+b).- De los negocios civiles y penales comunes, como tribunal de apelación;
 
-IV. Desempeñar las demás funciones que en el orden judicial los designen las leyes.
+c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;
 
-De los Jueces Menores.
+d).- Del recurso de queja, en los términos que dispongan las leyes.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+II.- Expedir su reglamento interior;
+
+III.- Autorizar a los jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación, del Distrito Federal y Territorios y con las juntas de Conciliación y Arbitraje, federales y locales, y
+
+IV.- Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 78.
 
-Habrá Jueces Menores en cada una de las poblaciones que designe la Ley Orgánica respectiva, los que serán nombrados por Supremo Tribunal de Justicia, a propuesta en terna del Ayuntamiento de cada Municipio. La ley determinará el número de esos funcionarios que ha de haber en cada población, sus facultades, obligaciones y modo de llenar sus faltas.
+El Supremo Tribunal de Justicia nombrará cada año su Presidente, el cual podrá ser reelecto.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno, el trece de septiembre de cada año, informe que manifieste el estado que guarde la administración de justicia. A este acto asistirán el Gobernador del Estado, el Presidente del Congreso y los diputados.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 79.
 
-Los Jueces Menores durarán en el ejercicio de su encargo el tiempo que designe la Ley Orgánica respectiva, no pudiendo renunciarlo sino por causa grave calificada por el Supremo Tribunal de Justicia.
+El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le fije la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 80.
 
-El cargo de Juez Menor será gratuito, salvas (sic) las excepciones que establezcan las leyes. Estas determinarán las condiciones que además de las señaladas en el artículo siguiente, se requieran para ser Juez Menor, cuando este cargo haya de ser remunerado.
+Los magistrados continuarán en sus funciones aunque haya fenecido su período constitucional o el plazo para el que fueron nombrados, mientras no se presenten los nuevamente designados.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION II. De los Juzgados de Primera Instancia
+
+(REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
 ###### Artículo 81.
 
-Para ser Juez Menor se requiere:
+La administración de justicia en primera instancia estará a cargo de jueces letrados. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de llenar sus faltas absolutas o temporales.
 
-I. Ser ciudadano michoacano en ejercicio de sus derechos.
-
-II. Tener veintiún años cumplidos.
-
-III. Ser vecino de la población en que deba desempeñar su encargo, con un año al menos de residencia en ella.
-
-Este último requisito no se exigirá tratándose de los Jueces Menores renumerados.
-
-De los Jurados.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 82.
 
-Todo ciudadano michoacano en ejercicio de sus derechos, que sepa leer y escribir, es jurado de la localidad donde resida.
+Los jueces de primera instancia serán nombrados por el Supremo Tribunal de Justicia en la forma que establezca la Ley Orgánica del Poder Judicial; durarán en su encargo tres años que se contarán del mismo modo que a los magistrados, y no podrán ser removidos sino por causa justificada. Al concluir su encargo continuarán en sus funciones hasta que se presenten los nuevamente nombrados.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 83.
 
-Son obligaciones de los Jurados, conocer en calidad de Jueces de los negocios que les sometan las leyes.
+Para ser juez de primera instancia se requiere:
 
-De la Administración de Justicia en General.
+I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
+
+II.- Tener veintiún años cumplidos;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+III.- Reunir los requisitos que señala el artículo 71, Fracción III, de esta Constitución, y
+
+IV.- No haber sido condenado por delitos infamantes o contra la propiedad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 84.
 
-Los negocios judiciales del Estado serán decididos dentro de él en todas sus instancias, no debiendo pasar éstas de tres aún en los negocios civiles. La ley determinará cuál de las tres deberá causar ejecutoria, atentas (sic) la naturaleza, cuantía y calidad de los negocios.
+Los jueces de Primera Instancia residirán en la cabecera de distrito que señale la ley, y no podrán cambiar el despacho a otra población, sino autorizados por el Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 85.
 
-Contra sentencias que causen ejecutoria, no se admitirá otro recurso que el de casación, en los negocios en que procede conforme a la ley, y este no podrá interponerse sino contra los que no hayan pasado en autoridad de cosa juzgada. Los efectos de la casación, el modo de interponerla y las causas que la produzcan, serán determinadas por la ley.
+Son atribuciones de los Jueces de Primera Instancia:
+
+I.- Conocer en primera instancia de los negocios civiles y penales de su territorio;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+II.- Conocer de las cuestiones de competencia y las de acumulación que se susciten entre los jueces municipales del mismo distrito;
+
+III.- Nombrar a los empleados de su despacho, y
+
+IV.- Desempeñar las demás funciones que les asignen las leyes.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 86.
 
-Cada instancia será sentenciada por diversos Jueces, sin que jamás pueda el que haya sentenciado en una, hacerlo en otra.
+Habrá jueces municipales en las poblaciones que determine la Ley Orgánica respectiva, los que serán nombrados por el Supremo Tribunal de Justicia. La ley determinará el número de esos funcionarios que ha de haber en cada población, sus facultades, obligaciones y modo de llenar sus faltas.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 87.
 
-Los negocios de cierto interés y los juicios por los delitos leves que señalen las leyes, se terminarán definitivamente por los jueces Menores breve y sumariamente; pero ni en unos ni en otros se procederá sin audiencia de parte y comprobación de los hechos. Contra las sentencias definitivas que pronuncien los Jueces Menores, se admitirán los recursos que determinen las leyes.
+Los jueces municipales durarán en su encargo el tiempo que marque la Ley Orgánica respectiva, no pudiendo renunciar sino por causa que calificará el Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 88.
 
-En el Estado toda persona puede ejercitar sus derechos por sí o por medio de su representante.
+Par ser juez municipal se requiere:
+
+I.- Ser ciudadano mexicano en ejercicio de sus derechos;
+
+II.- Tener veintiún años cumplidos;
+
+III.- Ser vecino de la población donde debe desempeñar el cargo, con residencia en ella de, cuando menos, un año;
+
+IV.- Saber leer y escribir, y
+
+V.- Ser de notoria buena conducta, y no haber sido condenado por delitos contra la propiedad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 89.
 
-Toda persona es libre en el Estado para terminar sus diferencias ya sea por convenios amistosos o por medio de árbitros o arbitradores, aun cuando se hayan sometido a juicio y sea cual fuere el estado que éste guarde. Toda sentencia pronunciada por árbitros o arbitradores, se ejecutará sin recurso, a menos que las partes se hayan reservado alguno legal.
+Los jueces municipales no podrán ser removidos en el ejercicio de su encargo sino por causa justificada.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION III. De los Jueces Municipales
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 90.
 
-Sólo por delitos que traigan consigo responsabilidad pecuniaria, se embargarán bienes en cuanto basten a cubrirla.
+Todo ciudadano en ejercicio de sus derechos, que sepa leer y escribir está obligado a desempeñar las funciones de jurado en la población en donde resida.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 91.
 
-En el curso de las causas, no se usará con los reos de promesas, amenazas ni violencias.
+Es obligación de los jurados conocer, en calidad de jueces, de los negocios que determinen las leyes.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 92.
 
-En el Estado todos los procesos criminales serán públicos.
+Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 93.
 
-Las penas privativas de la libertad no podrán en ningún caso exceder de veinte años.
+Los negocios de poca cuantía y los procesos por delitos leves se tramitarán sumaria y definitivamente por los jueces municipales, en los términos de la Ley; pero nunca se procederá sin audiencia de parte y comprobación de los hechos.
 
-De los Municipios y Tenencias.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 94.
 
-El Estado adopta, como base de su división territorial y de su organización política y administrativa, el Municipio Libre. Su funcionamiento se sujetará a las disposiciones establecidas en esta Constitución.
+Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o arbitradores, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde. Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION IV. De los Jurados
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 95.
 
-Cada Municipio será representado y administrado por un Ayuntamiento de elección popular directa, que debe residir en la Cabecera de la Municipalidad, no habiendo autoridad intermedia entre éste y el Ejecutivo del Estado.
+En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION V. De la Administración de Justicia en General
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 96.
 
-El Municipio tendrá personalidad jurídica para todos los efectos legales.
+Las penas privativas de la libertad no podrán en ningún caso exceder de treinta años.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION VI. Del Ministerio Público y de la Defensoría de Oficio
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 97.
 
-El número de Concejales que integren los Ayuntamientos, será determinado por la Ley Orgánica relativa, debiendo en todo caso no ser menor de tres.
+El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION I. De la Tesorería General
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 98.
 
-El Presidente del Ayuntamiento será electo por los Consejales de entre ellos mismos y será el ejecutor de las resoluciones que no estén encomendadas a una Comisión Especial. La duración de su encargo, así como sus demás atribuciones, serán fijadas por la ley orgánica relativa.
+Ejercen esta Institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+#### SECCION II. De la Contaduría General de Glosa
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 99.
 
-Cada Municipio se dividirá en tantas secciones electorales, cuantos sean los Munícipes (sic) que deban integrar la Corporación Municipal; y, cada Sección se dividirá en el número de casillas que se estime conveniente para la mejor emisión del voto.
+El Procurador General de Justicia deberá tener los mismos requisitos que se fijan para ser Magistrado y será el Consejero Jurídico del Gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 100.
 
-Los miembros de los Ayuntamientos serán electos simultáneamente y en su totalidad cada tres años y no podrán ser reelectos por ninguna de las Secciones Municipales para el período inmediato. Por cada Regidor Propietario se eligirá (sic) un Regidor Suplente.
+El Procurador General de Justicia intervendrá personalmente en todos los negocios judiciales en que el Estado sea parte. En los demás casos en que debe intervenir el Ministerio Público, el Procurador podrá hacerlo por sí o por medio de alguno de sus agentes.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 101.
 
-Para ser miembro del Ayuntamiento se requiere:
+La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
 
-I. Ser ciudadano michoacano en pleno ejercicio de sus derechos.
-
-II. Tener cuando menos un año de residencia en el Municipio inmediatamente anterior al día de la elección.
-
-III. Saber leer y escribir.
-
-IV. No ser funcionario público ni tener cargo o comisión del Gobierno del Estado o Federal.
-
-V. No estar en servicio activo en el Ejército Nacional o del Estado.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 102.
 
-Cada Ayuntamiento tendrá un Secretario y un Tesorero de fuera de su seno. Las personas designadas para estos empleos deberán llenar los requisitos necesarios para ser miembros del Ayuntamiento. El Tesorero deberá, además, ototgar (sic) una fianza cuyo monto determinará la ley Reglamentaria.
+La Defensoría de Oficio proporcionará la defensa necesaria en materia penal a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 103.
 
-Habrá en la Cabecera de cada Municipalidad una institución denominada: "Oficina de Catastro, de Padrón Municipal y de "Estadística de Producción y Consumo," la cual tendrá a su cargo el Catastro, el padrón del Municipio y la estadística de la producción y consumo del mismo. La organización y funcionamiento de dicha institución lo determinará la ley Orgánica relativa.
+La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO QUINTO. De los Municipios del Estado
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 104.
 
-Son facultades y obligaciones de los Ayuntamientos:
+Los funcionarios públicos y empleados del Estado y municipales son responsables por los delitos comunes que cometan, y por los delitos, faltas y omisiones en que incurran en el ejercicio de su cargo.
 
-I. Representar jurídicamente al Municipio.
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a esta Constitución o a la General de la República y por delitos graves del orden común.
 
-II. Administrar libremente su Hacienda.
+Sin declaración expresa del Congreso de haber lugar a formación de causa, los diputados no podrán ser procesados por ningún delito.
 
-III. Someter oportunamente al examen y aprobación o modificación del Congreso, los Presupuestos de Ingresos y Egresos del Municipio.
+Se concede acción popular para denunciar ante el Congreso los delitos comunes y oficiales de los funcionarios del Estado, sin obligación de constituirse en parte.
 
-V. (sic) Expedir, prévia (sic) aprobación del Congreso, los reglamentos necesarios a la buena organización y funcionamiento de los servicios públicos del Municipio.
-
-VI. (sic) Vigilar las escuelas Oficiales y particulares de su jurisdicción.
-
-VII. (sic) Proponer al Supremo Tribunal de Justicia del Estado, candidatos para Jueces de Primera Instancia.
-
-VIII. (sic) Conocer de la validez o nulidad de las elecciones del nuevo Ayuntamiento y, en caso de elecciones extraordinarias, las de sus propios miembros conforme a los principios que establece esta Constitución.
-
-IX. (sic) Rendir en el mes de diciembre al Ejecutivo del Estado, un informe general sobre las labores que hayan desarrollado.
-
-X. (sic) Procurar que los pueblos de su dependencia tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus egidos (sic), tierras comunales y patrimonios de familia, a fin de que no sean despojados de ellas sus propietarios.
-
-XI. (sic) Cuidar de la repoblación y conservación de los bosques, cumpliendo o dictando medidas enérgicas para evitar la destrucción.
-
-XII. (sic) Cumplir o dictar disposiciones para difundir y propagar la agricultura e industrias rurales en el pueblo, obligando a los ciudadanos a dedicarse a ellas, en la forma que dispongan las leyes y procurando el mejoramiento en estos ramos.
-
-XIII. (sic) Aplicar y cumplimentar con especialidad y sin demora las leyes o disposiciones que se dicten para el fraccionamiento de los latifunidos (sic), procurando que se formen colonias rurales que constituyan la pequeña propiedad.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 105.
 
-El cargo de miembro del Ayuntamiento será obligatorio; y sólo renunciable por causa justificada que calificará el misma (sic) Ayuntamiento, quien podrá admitir o no dicha renuncia.
+Siempre que se trate de un delito del orden común cometido por algún diputado, por el Gobernador, por un Magistrado, por el Secretario de Gobierno, por el Procurador de Justicia o por el Tesorero del Estado, el Congreso, erigido en Gran Jurado, declarará, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y nuevos elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvo que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+
+Si los expresados funcionarios no estuvieren ejerciendo su cargo, no gozarán de fuero constitucional por los delitos oficiales, faltas u omisiones en que incurran en el ejercicio de algún empleo, encargo o comisión del servicio público que hayan aceptado antes o durante el período en que, conforme a la ley, se disfrute de aquel fuero. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones, deberá procederse con arreglo a lo dispuesto en la primera parte de este artículo.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 106.
 
-El gobierno interior del municipio será auxiliado por Jefes de Tenencia y encargados del orden, cuyas facultades, obligaciones y modo de nombrarlos determinará la Ley Orgánica relativa.
+Si se tratare de un delito oficial y el Congreso declarase, por mayoría de las dos terceras partes del total de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto, por virtud de tal declaración, e inhabilitado para obtener otro por el tiempo que determine la ley.
+
+Cuando el mismo hecho tuviere señalada otra pena en la ley, el acusado quedará a disposición de las autoridades comunes para que lo juzguen y castiguen con arreglo a ella.
+
+En los casos de este artículo y del anterior, las resoluciones del Gran Jurado y la declaración, en su caso, son inatacables.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 107.
 
-El Congreso Local puede decretar la creación de nuevos Municipios, dentro de los límites de los existentes, conforme a las siguientes bases.
+En los delitos oficiales no cabe la gracia del indulto.
 
-I. Que la porción territorial de que se trate cuente con una población de cinco mil habitantes cuando menos.
-
-II. Que, a juicio del Congreso del Estado, tenga elementos bastantes para proveer a su existencia política y económica.
-
-III. Que se oiga al Ayuntamiento o Ayuntamientos a pue (sic) pertenezca, sobre la conveniencia o inconveniencia de su creación en Municipio.
-
-IV. Que igualmente se oiga sobre el particular al Ejecutivo del Estado.
-
-V. Que la creación del nuevo Municipio sea aprobada por el voto de las dos terceras partes de los diputados presentes.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 108.
 
-El mismo Congreso podrá suprimir los Municipios que no reunan las condiciones de que habla el artículo anterior, siempre que dicha supresión sea aprobada por el voto de las dos terceras partes de los diputados presentes, designando la jurisdicción dentro de la cual quedarán comprendidos.
+La responsabilidad por los delitos, omisiones y faltas oficiales de funcionarios públicos que gocen de fuero constitucional, sólo podrán exigirse durante el período en que los funcionarios ejerzan su cargo y dentro de un año después. En cuanto a los delitos comunes, se observarán las reglas generales de prescripción que establezcan las leyes.
 
-De las responsabilidades de los Funcionarios Públicos.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 109.
 
-Los Funcionarios Públicos y empleados del Estado y municipales son responsables por los delitos comunes que cometan, y por los delitos, faltas u omisiones en que incurran en el ejercicio de su encargo.
+El Gobernador Constitucional del Estado y los diputados gozarán de fuero desde el día en que fueren declarados electos; los magistrados propietarios, desde la fecha en que fueren designados; los Gobernadores provisionales, interinos y substitutos, los diputados suplentes, los magistrados supernumerarios, el Secretario de Gobierno, el Procurador de Justicia y el Tesorero General, únicamente cuando ejerzan sus funciones.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 110.
 
-Siempre que se trate del Gobernador, diputados propietarios, diputados suplentes en ejercicio, Magistrados Propietarios o supernumerarios. En ejercicio, del Tribunal Supremo de Justicia, Secretario del Despacho, Procurador de Justicia y Tesorero General del Estado, el Congreso erigido en Gran Jurado, declarará si hay o no lugar a formación de causa. Si los expresados funcionarios no estuvieren ejerciendo su encargo, no gozarán de fuero constitucional por los delitos oficiales, faltas u omisiones en que incurran en el ejercicio de algún empleo encargo o comisión del servicio público que hayan aceptado antes o durante el período en que, conforme a la ley, se disfrute de aquel fuero. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones, deberá procederse con arreglo a lo dispuesto en la primera parte de este artículo.
+Los Jueces de Primera Instancia, Agentes del Ministerio Público y Jueces Municipales no gozarán del fuero constitucional.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO SEXTO. De la Hacienda Pública
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 111.
 
-En caso de que la declaración de que habla el artículo anterior sea negativa, no habrá lugar a ningún procedimiento ulterior, pero en caso afirmativo, quedará el acusado por el mismo hecho, separado de su encargo y sujeto a su juez si el delito fuera común, y siendo oficial al Supremo Tribunal de Justicia.
+El Estado adopta como base de su división territorial y de su organización política y administrativa el Municipio Libre. Su funcionamiento se sujetará a las disposiciones de esta Constitución y de la Ley Orgánica Municipal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 112.
 
-De los delitos que cometan los demás funcionarios y empleados, no enumerados en los artículos anteriores, no enumerados en los artículos anteriores, conocerán los Tribunales ordinarios de la demarcación donde residan aunque el delito sea oficial, y conforme lo dispongan las leyes respectivas.
+Cada Municipio será representado y administrado por un Ayuntamiento de elección popular directa, que debe residir en la cabecera que señale la ley, y no dependerá de otra autoridad en los asuntos de su competencia.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 113.
 
-Sin embargo de lo dispuesto en los artículos anteriores, el Gobernador del Estado, durante el ejercicio de su encargo, sólo podrá ser acusado por la violación a la Constitución, a las leyes constitucionales, al voto popular y por delitos graves del orden común.
+El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 114.
 
-La responsabilidad por los delitos o faltas oficiales, sólo podrá exigirse durante el período en que el funcionario ejerza su encargo y dentro de un año después. En cuanto a los delitos comunes, se observarán las reglas generales de la prescripción.
+Los Ayuntamientos se compondrán de un Presidente y de tantos regidores como determine la ley, pero éstos no podrán ser menos de cinco. Habrá también un Síndico que será electo por el Ayuntamiento de entre los individuos que lo forman.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 115.
 
-El Gobernador Constitucional del Estado, los Diputados y Magistrados Propietarios, gozarán de fuero desde el día en que fueren declarados electos; los Gobernadores Interinos durante el tiempo que ejerzan sus funciones. Los Diputados suplentes y Magistrados supernumerarios, sólo durante el ejercicio de sus funciones, salvo lo dispuesto en el artículo 109. El Secretario de Gobierno, Procurador de Justicia y el Tesorero General únicamente cuando ejerzan sus funciones.
+El Presidente del Ayuntamiento y los regidores serán electos directamente por el pueblo. Las atribuciones y obligaciones del Presidente, del Síndico y de los regidores, y la manera de suplir sus faltas absolutas o temporales, serán determinados por la ley.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 116.
 
-Los Jueces de Primera Instancia, Agentes del Ministerio Público, Jueces Menores y Presidentes Municipales no gozarán de fuero constitucional.
+Cada Municipio se dividirá en tantas circunscripciones electorales, cuantos sean los regidores que deban integrar la corporación municipal.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 117.
 
-La ley respectiva, indicará las causas de responsabilidad y procedimiento a que debe sujetarse el juicio.
+Los miembros del Ayuntamiento, incluyendo al Presidente, serán electos simultáneamente y en su totalidad cada tres años, y no podrán ser reelectos para el período inmediato. Por cada Regidor propietario se elegirá un suplente.
+
+Todos los funcionarios municipales antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 118.
 
-En los juicios del orden civil, no hay fuero ni inmunidad.
+El Ayuntamiento electo, calificará la validez de las elecciones de sus miembros y resolverá las dudas que se susciten sobre ella.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 119.
 
-En los delitos oficiales no cabe la gracia de indulto.
+Para ser electo Presidente Municipal o Regidor se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no haber sido condenado por algún delito;
+
+II.- Ser originario del Estado o tener un año de residencia en el Municipio donde debe ejercer su encargo;
+
+III.- Saber leer y escribir;
+
+IV.- No ser funcionario de la Federación, del Estado o Municipal, ni tener mando de fuerza en el Municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquélla se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas;
+
+V.- No ser, ni haber sido ministro o delegado de algún culto, y
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+VI.- No estar comprendido en ninguno de los casos que señala el artículo 117.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 120.
 
-Se concede acción popular para denunciar ante la autoridad que corresponda los delitos comunes y oficiales de los funcionarios del Estado.
+Los ayuntamientos no pueden impedir la entrada o salida de mercancías o productos de cualquier clase por el territorio de su municipio.
 
-De la Hacienda Pública.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 121.
 
-La Hacienda Pública tiene por objeto atender a los gastos ordinarios y extraordinarios del Estado.
+Los ayuntamientos necesitan autorización del Congreso del Estado para comprar, vender y gravar bienes inmuebles, y para contratar empréstitos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 122.
 
-La Hacienda Pública se forma:
+Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros a mayoría absoluta de votos. Ningún Regidor podrá desempeñar estos empleos, y las personas designadas llenarán los mismos requisitos que los regidores, con excepción de la vecindad. El Tesorero deberá otorgar fianza para garantizar su manejo.
 
-I. Del producto de las contribuciones que decrete el Congreso.
-
-II. Del producto de los bienes que según las leyes pertenezcan al Estado.
-
-III. De las multas conforme a las leyes deban ingresar al Erario.
-
-IV. De las donaciones, legados, herencias que se hagan o dejen al Tesoro Público.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 123.
 
-El Congreso expedirá la ley de Hacienda que establezca las contribuciones necesarias para gastos públicos, así como el procedimiento para hacer efectivos los impueetos (sic) de referencia. Dicha ley podrá variarse o modificarse anualmente en vista del presupuesto de gastos.
+Son facultades y obligaciones de los Ayuntamientos:
 
-De la Tesorería General del Estado.
+I.- Representar jurídicamente al Municipio;
+
+II.- Administrar libremente su hacienda;
+
+III.- Someter sus presupuestos de Ingresos y Egresos a la aprobación del Congreso;
+
+IV.- Expedir, previa aprobación del Congreso, los reglamentos para la buena administración y funcionamiento de los servicios municipales;
+
+V.- Vigilar las escuelas públicas y las particulares;
+
+VI.- Enviar al Ejecutivo en el mes de diciembre de cada año, memoria general sobre las labores que hayan desarrollado;
+
+VII.- Conocer anualmente, en pleno, el estado que guarde la administración municipal, por informe que rendirá el Presidente;
+
+VIII.- Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
+
+IX.- Cuidar de la repoblación y conservación de los bosques, sancionando severamente a los destructores de arbolados;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+X.- Cumplir o dictar disposiciones para difundir y propagar la agricultura e industrias rurales;
+
+XI.- Promover y fomentar el fraccionamiento de latifundios y procurar que se formen colonias urbanas;
+
+XII.- Nombrar y remover libremente a sus empleados, y concederles toda clase de licencias;
+
+XIII.- Formar sus cuerpos de policía;
+
+XIV.- Colaborar ampliamente con los organismos electorales, en los términos de la ley, y
+
+XV.- Las demás que les señalen las leyes.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 124.
 
-Habrá en el Estado una Tesorería General a la que ingresarán real o virtualmente todos los caudales públicos. El Tesorero hará las (sic) distribución de ellos según el Presupuesto de Egresos y será responsable personal y pecuniariamente, por los gastos que efectúe sin que estén comprendidos en aquél, o autorizados por la ley. Cuando la cantidad señalada para cubrir una partida del Presupuesto esté próxima a agotarse, el Tesorero lo avisará al Ejecutivo a fin de que éste pida a la Legislatura la ampliación correspondiente.
+La administración pública en las poblaciones fuera de la cabecera municipal estará a cargo de jefes de tenencia y encargados del orden que nombrará el ayuntamiento, el que designará también suplentes. Las facultades y obligaciones de esas personas se determinarán por la ley.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 125.
 
-El Tesorero tendrá la obligación de presentar a la Legislatura al día siguiente de la apertura del período de sesiones ordinarias, una memoria sobre el estado del Tesoro Público, proponiendo las medidas que sean necesarias para mejorarlo.
+El cargo de Presidente Municipal y Regidor es obligatorio, y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
 
-De la Contaduría General de Glosa.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 126.
 
-En el lugar donde residan los Poderes del Estado, habrá una Contaduría General de Glosa que dependerá inmediatamente del Congreso, compuesta de los empleados que designe la ley, en la que glosarán sin excepción las cuentas de los caudales públicos.
+Los Ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes Municipales. Los Regidores no tendrán mando directo sobre los empleados municipales.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 127.
 
-Toda cuenta de fondos públicos quedará glosada a más tardar un año después de su presentación.
+Contra los actos de los presidentes municipales procede del recurso de queja ante los ayuntamientos respectivos.
 
-La falta de cumplimiento de este precepto, será causa de responsabilidad, a sí de los empleados de la Contaduría como de la Comisión Inspectora. Esta tiene la obligación de presentar al Congreso, el cuarto día de cada período de sesiones, una noticia detallada de las cuentas que se han glosado y de las pendientes, explicando por qué la Contaduría no ha terminado sus operaciones.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 128.
 
-La Contaduría General expedirá en la forma que la ley prevenga, el finiquito de las cuentas que glose y rendirá cada tres meses al Congreso, por conducto de la Comisión respectiva, un informe de las operaciones que haya practicado.
+Los presidentes Municipales tomarán empeño para que en sus respectivas circunscripciones asistan a las escuelas públicas o privadas todos los niños en edad escolar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO SEPTIMO. De la Educación Pública
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 129.
 
-Los empleados que manejen fondos públicos, darán fianza en la forma que la ley señale.
+Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que debe percibir, todos los bienes que no correspondan a la Federación o a los municipios, ni sean individual o colectivamente, de propiedad particular o ejidal.
 
-Instrucción Pública.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1930)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 130.
 
-La Instrucción Pública dependerá directamente del Gobierno el que cuidará de fomentarla por todos los medios posibles, favoreciendo el establecimiento de sociedades pedagógicas, las cuales gozarán de todos los derechos que a las personas morales concedan las leyes, y subvencionará las Escuelas Particulares que reúnan los requisitos que fije la Ley Orgánica de Instrucción.
+El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fijación de los impuestos, derechos, productos, aprovechamientos y participaciones, y la manera de hacerlos efectivos.
 
-La Enseñanza preparatoria y profesional estará a cargo de la Universidad Michoacána de San Nicolás de Hidalgo, y la Normal para Maestros a cargo directamente del Ejecutivo del Estado, conforme a la Ley Orgánica respectiva.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 131.
 
-La enseñanza es libre. La rudimentaria, primaria y preparatoria que se dé en establecimientos oficiales del Estado, será gratuita.
+El presupuesto formará siempre un solo cuerpo distribuido en partidas, según los conceptos de erogación, y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 132.
 
-La enseñanza que se dé en las escuelas oficiales será laica e igualmente será laica la rudimentaria, primaria elemental y superior que se imparta en las particulares.
+Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos según el Presupuesto de Egresos, y será responsable personal por los gastos que efectúe sin que estén comprendidos en aquél o autorizados por la ley. Cuando la cantidad señalada para cubrir una partida del presupuesto esté próxima a agotarse, el Tesorero avisará al Ejecutivo, a fin de que éste pida al Congreso la ampliación correspondiente.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 133.
 
-Sólo podrán establecerse en el Estado escuelas particulares sujetándose a la vigilancia del Gobierno y a las disposiciones de la ley orgánica.
+En la Capital del Estado habrá una Contaduría General de Glosa que dependerá del Congreso, atendida por los empleados que designe la ley. Esta oficina glosará, sin excepción, las cuentas de los caudales públicos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 134.
 
-El Ejecutivo debe proceder al establecimiento de escuelas rurales, de planteles educativos y de artes y oficios y agricultura, donde se impartirá gratuitamente la enseñanza, y las cuales serán sostenidas por quienes determine la ley.
+Toda cuenta de fondos públicos quedará glosada, a más tardar, un año después de su presentación.
+
+La falta de cumplimiento de este precepto, será causa de responsabilidad de los empleados de la Contaduría y de la Comisión Inspectora que nombre el Congreso.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 135.
 
-La enseñanza Primaria será obligatoria para todos los habitantes del Estado, conforme lo disponga la ley de la materia y uniforme, hasta donde sea posible.
+La Contaduría General expedirá en la forma que la ley prevenga, el finiquito de las cuentas que glose, y rendirá cada tres meses al Congreso, por el conducto que señale la ley, un informe de las operaciones que haya practicado.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 136.
 
-La enseñanza que se imparta en los establecimientos de Instrucción Primaria comprenderá también la industria, agrícola, militar y cívica.
+Los empleados que manejen fondos públicos otorgarán fianza en la forma que la ley señale.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO OCTAVO. De la Propiedad, del Trabajo y de la Previsión Social
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 137.
 
-Las contribuciones y rentas destinadas a las escuelas no podrán ser distraídas para otro objeto.
+La educación pública dependerá directamente del Gobernador del Estado, quien cuidará de fomentarla por todos los medios posibles.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 138.
 
-Ninguna corporación religiosa ni ministros de ningún culto podrán establecer o dirigir escuelas primarias de Instrucción.
+La enseñanza primaria será obligatoria para todos los habitantes del Estado, y la que se imparta en los establecimientos oficiales será gratuita.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 139.
 
-Por ningún motivo se revalidarán, otorgarán dispensas, o se darán otros trámites para dar validez a los estudios hechos en establecimientos de enseñanza profesional de los ministros de algún culto o corporaciones religiosas y si llegan a darse tales dispensas y a expedirse títulos fundados en ellas, dichos títulos serán nulos.
+La educación tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y a la conciencia de la solidaridad internacional en la independencia y en la justicia.
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+Garantizada la libertad de creencias, el criterio que orientará a dicha educación se mantendrán por completo ajeno a cualquier doctrina religiosa y, basado en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+
+a).- Será democrática, considerando la democracia no sólo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+
+b).- Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+
+c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 140.
 
-La Ley de Instrucción Pública determinará cuáles profesiones necesitan título para su ejercicio y las condiciones que deban llenarse para obtenerlo, así como las autoridades o corporaciones que deban expedirlo.
+Sólo podrán establecerse en el Estado escuelas particulares, si éstas se sujetan a la vigilancia del Gobierno y a las disposiciones de la Ley Orgánica de la Educación.
 
-Milicia del Estado.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 141.
 
-Para conservación de la tranquilidad y orden públicos en el Estado, se organizará la fuerza competente tanto urbana como rural. Esta última se formará de unidades tácitas cuyo número no será menor de trescientos hombres.
+El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y oficios y de agricultura.
 
-La Ley Orgánica relativa establecerá las demás condiciones de su organización y funcionamiento.
-
-De la Propiedad, el Trabajo y la Previsión Social.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 142.
 
-El Estado reconoce y garantiza el derecho de propiedad en los términos que establece la Constitución Política de los Estados Unidos Mexicanos. Con entera sujeción a ésta, el Congreso Local fijará el máximun (sic) de tierras de que pueda ser dueño un solo individuo o sociedad; determinará la manera como haya de repartirse el exceso que sobre ese máximum (sic) tengan las propiedades actuales y dictará las demás leyes agrarias conducentes, procurando el fomento y desarrollo de la pequeña propiedad.
+Ninguna corporación religiosa ni los ministros de cualquier culto, podrán establecer o dirigir escuelas primarias de instrucción.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 143.
 
-Se establece en el Estado la institución del patrimonio de familia o bien familiar. El Congreso Local organizará dicha institución, dictando la ley respectiva bajo las siguientes bases:
+Por ningún motivo se revalidarán y otorgarán dispensas, o se correrán otros trámites para dar validez a los estudios hechos en los establecimientos de enseñanza profesional de los ministros de algún culto o de las corporaciones religiosas, y si llegan a darse tales dispensas y a expedirse títulos fundados en ellas, dichos títulos serán nulos.
 
-I. La cuantía de los bienes que formen el patrimonio de familia se fijará atendiendo a las condiciones sociales y económicas del Estado.
-
-II. Los bienes que lo constituyan no podrán ser enagenados (sic), gravados o embargados ni afectos a responsabilidad alguna civil o criminal.
-
-III. El acto que en cada caso formalice la Constitución del patrimonio de familia, estará exento de toda clase de impuestos.
-
-IV. Se simplificarán las formalidades y trámites en los juicios sucesorios que tengan por objeto el bien familiar o patrimonio de familia.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 144.
 
-El Congreso del Estado expedirá leyes sobre el trabajo adecuadas a las necesidades locales, con sujeción a las bases que se fijan en la Constitución General de la República y a las siguientes:
+Para ejercer una profesión en el Estado, se requiere la posesión de un título legalmente expedido y registrado.
 
-I. Los patrones deberán tomar las medidas necesarias para la seguridad de los obreros, cuando éstos, por la naturaleza del trabajo o la forma en que lo ejecuten, corran algún peligro.
+La ley determinará las profesiones que requieran título, la forma de su registro, el procedimiento para expedir licencias a los prácticos, y en general, reglamentará todo lo relativo al ejercicio de las profesiones.
 
-II. Para fijar la época en que deben pagarse los salarios se tomará en cuenta que las necesidades de los obreros son inmediatas y que necesitan percibir el precio de su trabajo a intervalos cortos y regulares.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
-III. Los salarios e indemnizaciones por accidentes de trabajo, se pagarán preferentemente a las demás deudas del patrón, y en caso de que éste quebrase o fuere concursado, se pagarán en primer lugar.
+## TITULO NOVENO. Disposiciones Generales
 
-IV. El importe de los salarios no puede ser detenido por el patrón, ni aun para compensar anticipos de dinero hechos a los trabajadores a no ser que éstos hayan sido para alimentos, pues en este caso se estará a lo pactado.
-
-V. El salario mínimo que deberá disfrutar todo trabajador, será el que se considere suficiente, atendiendo a las condiciones de cada región, y conforme a los precios de los artículos de primera necesidad, para satisfacer las necesidades normales de la vida del obrero, su educación y placeres honestos, considerándolo como jefe de familia; pero en ningún caso será menor de un peso oro nacional.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 145.
 
-Cuando el trabajador fuere condenado por delito o falta al pago de multa, éste no podrá exceder del salario o sueldo correspondiente a ocho días.
+El Estado reconoce y garantiza el derecho de propiedad en los términos que establece la Constitución Federal; con entera sujeción a ésta el Congreso expedirá leyes para regular el aprovechamiento de las aguas que no sean de propiedad nacional y se localicen en dos o más predios, para vigilar, dentro del territorio del Estado, el respeto a las disposiciones constitucionales sobre capacidad para adquirir el dominio de las tierras, aguas, bosques y sus accesiones y para fijar la extensión máxima de la propiedad rural y llevar a cabo el fraccionamiento de los excedentes, procurando el fomento y desarrollo de la auténtica pequeña propiedad.
+
+También dictará las leyes necesarias para determinar los casos en que sea de utilidad pública la ocupación de la propiedad privada, facultando al Ejecutivo para hacer la declaración correspondiente.
+
+Los núcleos de población que de hecho o por derecho guarden el estado comunal, tienen plena capacidad para adquirir, poseer y administrar tierras, bosques, aguas y sus accesiones. A fin de que puedan acreditar su personalidad y ejercer sus derechos, la Legislatura del Estado dictará una ley que regule su funcionamiento y proteja debidamente los bienes que constituyan su patrimonio, conforme a las siguientes bases generales:
+
+I.- Siguiendo un procedimiento democrático y de acuerdo con las costumbres establecidas, se hará la designación de los representantes legales de las comunidades, los cuales acreditarán su personalidad con credenciales que deberá expedirles el Gobernador del Estado.
+
+II.- Se formulará el censo de las personas que deben ser reconocidas como comuneros, dando amplia oportunidad de defensa a todos los que se crean con tal derecho y se establecerán las bases para determinar la forma en que se trasmitan los derechos de cada comunero.
+
+III.- La autoridad suprema de los núcleos de población comunal será la Asamblea General de Comuneros. Las funciones de ésta, así como las facultades de los representantes que legalmente elijan, serán fijadas en la ley respetando las limitaciones establecidas en este artículo.
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+IV.- Son inexistentes todos los actos de particulares y todas las resoluciones, decretos, acuerdos, Leyes o cualquier acto de las autoridades municipales o del Estado, así como de las autoridades judiciales del orden común que hayan tenido o tengan por consecuencia privar total o parcialmente de sus derechos a los núcleos de población comunal. Se exceptúa únicamente el caso de expropiaciones por causa de utilidad pública que en forma muy limitada y expresa se establecerán en dicha ley y que se tramitarán y resolverán, oyendo los puntos de vista de la asamblea general de comuneros. La indemnización se destinará a la adquisición de otros terrenos.
+
+V.- Las tierras, pastos, bosques, aguas, plantas, canteras, arenas y demás recursos propiedad de las comunidades, se explotarán directamente por ellas mismas con el asesoramiento técnico del Gobierno o de las instituciones u organismos que para tal efecto se funden.
+
+VI.- Se establecerá en favor de las comunidades un régimen fiscal de protección, semejante al de los ejidos.
+
+VII.- Con la participación de las propias comunidades, se crearán organismos adecuados que, por medios conciliatorios, busquen la resolución amistosa de los conflictos entre las comunidades.
+
+VIII.- Se formularán también las normas que regulen el manejo honrado y el conveniente destino de los fondos comunales que deriven de la explotación o aprovechamiento de los terrenos comunales.
+
+IX.- El Estado dictará también, dentro de la esfera de su competencia y en auxilio del Gobierno Federal, las disposiciones necesarias para vigilar que no se lesionen los ejidos ni la auténtica pequeña propiedad, que no se realicen falsas clasificaciones de tierras o de explotaciones agrícolas y ganaderas, ni se realicen maniobras o simulaciones para ocultar acaparamientos de la propiedad territorial, que no se violen en perjuicio de los campesinos, las disposiciones relativas al crédito y al correcto manejo del patrimonio ejidal y, en general, para lograr el cumplimiento efectivo de la Reforma Agraria.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 146.
 
-Las juntas especiales a que se refiere el inciso IX del artículo 123 de la Constitución General, además de las facultades que les señala dicho inciso tendrán las de conciliación y arbitraje y estarán formadas por el Presidente Municipal, cinco obreros o representantes de éstos, e igual número de patrones. Las resoluciones que con este último carácter dicten las juntas locales, serán apelables ante la Junta Central de Conciliación y Arbitraje. La ley orgánica relativa dispondrá su funcionamiento así como la manera de designar los miembros que deban integrarlas.
+El Ejecutivo vigilará por la seguridad de los obreros haciendo que los patrones adopten las medidas necesarias, a fin de evitar los peligros para su salud o integridad física.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 147.
 
-Para los efectos de lo dispuesto en el inciso XIV del artículo 123 de la Constitución General, entiéndese por accidente todo el daño corporal que el operario sufra con ocasión o por consecuencia del trabajo que ejecutare por cuenta ajena, por patronos o particulares o por compañías propietarias de la obra, explotación o industria donde el trabajo se preste. Estando contratada la ejecución y explotación de la obra o industria, se considerará como patrón al contratista, subsistiendo siempre la erpsonalidad (sic) subsidiaria del propietario de la obra o industria. El Estado y los Ayuntamientos quedarán equiparados para los efectos de este artículo, a los particulares y compañías. Se considerarán operarios todos los que ejecuten habitualmente trabajo manual fuera de su domicilio por cuenta ajena, con remuneración o sin ella, a salario o destajo, en virtud de contrato verbal o escrito. En esta disposición se hayan comprendidos los aprendices y los dependientes del comercio.
+El Ejecutivo tomará las medidas necesarias para que el salario mínimo señalado por las juntas competentes, se haga efectivo en todo el Estado.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 148.
 
-Para los efectos de la indemnización que corresponde a los obreros, por accidentes de trabajo, deberá estarse a las disposiciones siguientes:
+El Gobernador cuidará con todo empeño de que sean obedecidas las prescripciones relativas al trabajo y a la previsión social, en los términos de la Ley Federal del Trabajo y de la Constitución General de la República.
 
-I. Si el accidente hubiese producido incapacidad temporal, el patrono abonará a la víctima una indemnización igual a la mitad de su jornal diario, desde el día en que tuvo lugar el accidente hasta el día en que se halle en condiciones de volver al trabajo.
-
-II. Si transcurrido un año no hubiese cesado la incapacidad, la indemnización se regirá por las disposiciones relativas a la incapacidad perpetua.
-
-III. Si el accidente hubiese producido una incapacidad permanente o absoluta para todo trabajo, el patrono abonará a la víctima una indemnización igual al salario de dos años; pero solo será la correspondiente a dieciocho meses de salario cuando la incapacidad se refiera a la profesión habitual y no impida al obrero dedicarse a otro género de trabajo.
-
-IV. Si el accidente hubiese producido una incapacidad parcial aunque permanente para la profesión o clase de trabajo a que se haya dedicado la víctima, el patrono quedará obligado a destinar al obrero con igual remuneración a otro trabajo compatible con su astado (sic) o satisfacer una indemnización equivalente a un año de salario, a elección del patrón.
-
-V. El patrón está igualmente obligado a facilitar la asistencia médica y farmaceútica del obrero hasta que se halle en condiciones de volver al trabajo o hasta que, por dictamen facultativo se le declare comprendido en los casos definidos en las fracciones II y III del presente artículo y no requiera la referida asistencia, lo cual se hará bajo la dirección de los facultativos designados por el patrón. Las indemnizaciones por incapacidad permanente definidas en las fracciones II y III, serán independientes de las determinadas en la fracción I para el caso de incapacidad temporal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 149.
 
-Si el accidente produjese la muerte del obrero, el patrón queda obligado a sufragar los gastos de sepelio no debiendo ser menores de veinticinco pesos y así mismo a indemnizar a la viuda o descendientes en la forma y cuantía que establecen las disposiciones siguientes:
+Se establece en el Estado la institución del patrimonio de familia o bien familiar. El Congreso del Estado organizará dicha institución sobre las siguientes bases:
 
-I. Con una suma igual al salario medio de dos años que disfrutaba la víctima, cuando ésta deje viuda e hijos o nietos huérfanos que se hallen a su cuidado.
+I.- La cuantía de los bienes que formen el patrimonio de familia se fijará atendiendo a las condiciones sociales y económicas del Estado;
 
-II. Con una suma igual a dieciocho meses de salario si sólo dejase hijos o nietos.
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
 
-III. Con un año de salario a la viuda sin doscendientes (sic) del finado.
+II.- Los bienes que lo constituyan no podrán ser enajenados, gravados o embargados, ni afectos a responsabilidad alguna civil o criminal;
 
-IV. Con diez meses de salario a los padres y abuelos de la víctima si no dejase viuda ni descendientes y aquellos estuviesen incapacitados para trabajar, cualquiera que sea la causa que origine esta incapacidad.
+III.- El acto que en cada caso formalice la constitución del patrimonio de familia, estará exento de toda clase de impuestos, derechos y aprovechamientos, y
 
-V. Las indemnizaciones por causa de fallecimiento, no excluyen las que correspondieron a la víctima en el período que medió desde el accidente hasta su muerte; y,
+IV.- Se simplificarán las formalidades y trámites en los juicios sucesorios que tengan por objeto el bien familiar o patrimonio de familia.
 
-VI. Las indemnizaciones determinadas por esta ley se aumentarán en una mitad más de su cuantía, cuando el accidente se produzca en un establecimiento u obras cuyas máquinas o artefactos carezcan de aparatos de protección.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 150.
 
-Se declaran revisados los contratos celebrados o autorizados por los Gobiernos anteriores del Estado, por los llamados representantes o apoderados de los pueblos de indígenas, desde el día primero del año de 1876, que hayan traído como consecuencia el acaparamiento de tierras, aguas y aprovechamiento de montes y demás riquezas naturales del Estado por una sola persona o sociedad, así como los contratos y concesiones relativos a impuestos y otras franquicias perjudiciales al interés público. Una ley fijará la autoridad que deba conocer y resolver de estos asuntos y el procedimiento a que debe sujetarse su tramitación.
+El Congreso del Estado expedirá todas las leyes relativas a previsión social en consonancia con los preceptos y espíritu de la Constitución General de la República.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 151.
 
-El Congreso del Estado expedirá todas las leyes de previsión social en consonancia con los preceptos y espíritu de la Constitución General de la República.
+Todas las leyes relativas a previsión social se considerarán de orden público, y sus preceptos no serán renunciables, a menos de que en ellas mismas se indique que lo pueden ser.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO DECIMO. De las Reformas a la Constitución
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 152.
 
-Todas las leyes relativas a previsión social, se considerarán de orden público y sus preceptos no serán renunciables a menos de que en ellas mismas se indique que lo pueden ser.
+Los cargos de elección popular y empleos de que habla esta Constitución, sólo podrán recaer en individuos que pertenezcan al estado seglar.
 
-Disposiciones Generales.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 153.
 
-Ningún cargo de elección popular ni empleo de los que habla esta Constitución, podrá recaer sino en individuos que pertenezcan al estado seglar.
+Los funcionarios de elección popular que sin causa justificada y sin la correspondiente licencia faltaren al desempeño de sus funciones, perderán la dotación remuneratoria que disfruten por ellas o por cualquier otro empleo que desempeñen; quedarán suspensos en sus derechos de ciudadanos y no podrán obtener ningún empleo que toque al servicio público. Estas privaciones las sufrirán por el tiempo que dure la omisión y no más.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 154.
 
-Todos los cargos de elección popular son obligatorios para los ciudadanos michoacanos en quienes recaigan, y no podrán renunciarse sino por causa grave.
+Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso. Hay también incompatibilidad en los individuos del Supremo Tribunal y jueces letrados para servir durante su encargo, de hombres buenos, abogados o procuradores, si no es en negocios propios o de su familia, y la hay asímismo, en los primeros, para servir de asesores, árbitros o arbitradores en negocios en que las partes se hayan reservado algún recurso. La incompatibilidad que establece la primera parte de este artículo, se hace extensiva en los mismos términos a los magistrados supernumerarios en ejercicio; las demás, los comprenderán en los negocios particulares de que conozcan, y en los casos y por el tiempo que designe la Ley Orgánica respectiva. La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 155.
 
-Los Funcionarios de que habla el artículo anterior, que sin causa justificada y sin la correspondiente licencia faltaren al desempeño de sus funciones, perderán la dotación remuneratoria que disfruten por ellas o por cualquier otro empleo que desempeñen; que darán suspensos en sus derechos de ciudadanos y no podrán obtener ningún empleo que toque al servicio público. Estas privaciones las sufrirán por el tiempo que dure la omisión y no más.
+Ningún individuo podrá desempeñar, a la vez, dos cargos de elección popular; pero podrá elegir entre ambos el que quiera desempeñar cuando resulte electo para los dos.
+
+El cargo de Gobernador prefiere a cualquier otro.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 156.
 
-Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, exepción (sic) hecha de los de Instrucción y Beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso. Hay también incompatibilidad en los Individuos del Tribunal Supremo y Jueces Letrados, para servir durante su encargo, de hombres buenos, abogados o procuradores, si no es en negocios propios o de su familia y la hay así mismo, en los primeros, para servir de asesores, árbitros o arbitradores en negocios en que las partes se hayan reservado algún recurso. La incompatibilidad que establece la primera parte de este artículo, se hace extensiva en los mismos términos a los magistrados supernumerarios en ejercicio; las demás, los comprenderán en los negocios particulares de que conozcan y en los casos y por el tiempo que designe la Ley Orgánica respectiva. La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes.
+Todos los funcionarios de elección popular a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la ley y pagada por los fondos públicos. Esta compensación no es renunciable y la ley que la aumente o disminuya no podrá tener lugar durante el período en que el funcionario esté ejerciendo su encargo.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 157.
 
-Ningún individuo podrá desempeñar a la vez dos cargos de elección popular; pero podrá elegir entre ambos el que quiera desempeñar cuando resulte electo para los dos, salvo lo dispuesto en el artículo siguiente.
+Los diputados y el Secretario de Gobierno, al tomar posesión de su encargo, harán ante el Congreso, o en su caso ante la Diputación Permanente, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente sus respectivos encargos. Los demás funcionarios y empleados protestarán bajo la misma fórmula y ante las autoridades o corporaciones que determinen las leyes.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 158.
 
-El cargo de Gobernador prefiere a cualquier otro y el de individuo del Supremo Tribunal de Justicia, al de Diputado.
+Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 159.
 
-Todos los funcionarios del Estado, de elección popular, a excepción de aquellos cuyo cargo es consejil (sic), recibirán una compensación por sus servicios que será determinada por la ley y pagada por los fondos públicos. Esta compensación no es renunciable y la ley que la aumente o disminuya no podrá tener lugar durante el período en que el Funcionario esté ejerciendo su encargo.
+No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto o determinado por la ley. El Tesorero General del Estado se negará a obedecer cualquier orden del Gobernador contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado, y en sus recesos, a la Diputación Permanente; de lo contrario, será responsable personal y pecuniariamente.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 160.
 
-El Gobernador del Estado, diputados al Congreso del mismo, individuos del Tribunal Supremo de Justicia y Secretario del Despacho, al tomar posesión de su encargo, harán ante el Congreso, o en su caso, ante la diputación Permanente la protesta de guardar y hacer guardar la Constitución Federal, la del Estado, y las leyes que de ambas emanen, y desempeñar leal y patrióticamente sus respectivos encargos. Los demás funcionarios y empleados protestarán bajo la fórmula y ante las autoridades o corporaciones que determinen las leyes.
+En el caso de la fracción V del artículo 76 de la Constitución Federal, asumirá el Poder Ejecutivo cualquiera de los funcionarios siguientes por el orden de designación:
 
-###### Artículo 161.
+I.- El Presidente de la última Legislatura o el de la Diputación Permanente, si la disolución de los Poderes ocurriese estando ésta en funciones;
 
-Los Poderes Supremos del Estado residirán en el mismo lugar a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso sea necesaria la separación.
+II.- El último Secretario de Gobierno, y
 
-###### Artículo 162.
-
-No se pierde la vecindad que se requiere para los cargos públicos, por estar desempeñando algún otro fuera del punto de la residencia del que lo obtenga.
-
-###### Artículo 163.
-
-No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por la ley. El Tesorero General del Estado se negará a obedecer cualquier orden del Ejecutivo contraria a este respecto, pero si le fuere reiterada la cumplirá dando cuenta inmediatamente al Congreso del Estado, y en sus recesos a la Diputación Permanente; de lo contrario será responsable personal y pecuniariamente.
-
-###### Artículo 164.
-
-En el caso de la fracción V, del artículo 76 de la Constitución General, asumirá el Poder Ejecutivo cualquiera de los Funcionarios siguientes por el orden de designación:
-
-I. El Presidente de la última Legislatura o el de la Diputación Permanente si la disolución de los Poderes ocurriese estando ésta en funciones.
-
-II. El Vice-Presidente de la Legislatura.
-
-III. El último Secretario de Gobierno; y
-
-IV. El último Presidente del Supremo Tribunal de Justicia.
+III. El último Presidente del Supremo Tribunal de Justicia.
 
 La persona que asuma el Poder Ejecutivo convocará desde luego a elecciones, sujetándose en lo posible a la forma y términos prescritos por esta Constitución.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 161.
+
+Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponda, sólo durarán en sus funciones el tiempo que les faltare para completar dicho período.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 162.
+
+Queda prohibida en el Estado de Michoacán la pena de muerte.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 163.
+
+Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los individuos que se apoderen tanto del Poder Ejecutivo de la Unión como del Estado, por medio de alguna asonada, motín o cuartelazo. Tampoco podrán reconocer la renuncia del Presidente de los Estados Unidos Mexicanos, que se hubiere obtenido por medio de la fuerza o de la coacción.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+## TITULO DECIMO PRIMERO. De la Observancia e Inviolabilidad de la Constitución
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
+###### Artículo 164.
+
+Esta Constitución puede ser adicionada o reformada en cualquier tiempo, concurriendo los requisitos siguientes:
+
+I.- Que la proposición de adiciones o reformas se haga por escrito y por quienes con arreglo a ella tienen derecho a iniciar leyes;
+
+II.- Que sea examinada por una comisión compuesta de tres diputados que nombrará el Congreso, la cual emitirá dictamen sobre si ha lugar a admitirla a discusión, para lo cual se requerirá una mayoría absoluta de votos, y faltando ésta, se tendrá por desechada y no volverá a presentarse en el tiempo de la misma Legislatura;
+
+III.- Que, admitida a discusión, se apruebe por el Congreso con la misma mayoría de votos a que se refiere la fracción anterior, mandándose imprimir y publicar las reformas aprobadas, con los fundamentos en que se apoye, reservando el proyecto para que lo tome en consideración el Congreso inmediato siguiente;
+
+IV.- Que se sometan las adiciones o reformas aprobadas por el Congreso anterior al estudio de nueva comisión de tres diputados que nombre el nuevo Congreso, para que emita dictamen sobre ellas y se proceda a la discusión y votación, con la misma mayoría que se expresa en este artículo;
+
+V.- Las adiciones o reformas que fueren aprobadas se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas, y
+
+VI.- Cualquiera adición o reforma que no fuere ratificada por el segundo Congreso, deberá reservarse para el siguiente, y si éste tampoco la aprobare en la forma señalada, se tendrá por desechada definitivamente.
+
+Si la proposición de adiciones o reformas no proviene del Gobernador del Estado, antes de discutirse y votarse se pasará al Ejecutivo para que dentro de un mes emita su opinión sobre ellas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+
 ###### Artículo 165.
 
-Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes como principio del período que les corresponda, sólo durarán en sus funciones el tiempo que les faltare para completar dicho período.
+Esta Constitución no perderá su fuerza y vigor, aun cuando, por alguna rebelión o estado grave de emergencia, se interrumpa su observancia.
 
-###### Artículo 166.
-
-El aumento de dietas de los Diputados no tendrá efecto en el período de la Legislatura que lo hubiere decretado.
-
-###### Artículo 167.
-
-Los cargos o empleos públicos no son ni podrán ser en el Estado, propiedad o patrimonio de quien los ejerza, ni podrán desempeñarse por personas que no sepan leer ni escribir.
-
-###### Artículo 168.
-
-El matrimonio es un contrato civil entre un solo hombre y una sola mujer que se unen con vínculo disoluble para perpetuar la especie y ayudarse en la vida. La ley reglamentará lo relativo a todos los actos del estado civil de las personas.
-
-###### Artículo 169.
-
-Queda prohibida en el Estado de Michoacán la pena de muerte por los delitos políticos; y en cuanto a los demás, sólo podrá imponerse al parricida, al homicida con alevosía, premeditación y ventaja, al incendiario, al plagiario y al salteador de caminos.
-
-###### Artículo 170.
-
-Los Poderes del Estado no podrán reconocer bajo ningún concepto a los Gobiernos que se apoderen tanto del Poder Ejecutivo de la Unión como del Estado, por medio de alguna azonada, motín o cuartelazo. Tampoco podrán reconocer la renuncia del Presidente de los Estados Unidos Mexicanos que se hubiere obtenido por medio de la fuerza o la coacción.
-
-De la observancia, adiciones y reformas de la Constitución del Estado.
-
-###### Artículo 171.
-
-Todos los habitantes del Estado, sin excepción alguna, están obligados a guardar fielmente esta Constitución en todas sus partes, y ninguna autoridad podrá dispensar el cumplimiento de ese deber. Cualquier ciudadano tiene la facultad de presentarse ante el Congreso o Gobernador reclamando su observancia.
-
-###### Artículo 172.
-
-El Congreso en sus primeras sesiones, tomará en consideración las infracciones de esta Constitución que se hubieren hecho presentes para aplicar el conveniente remedio, y disponer se haga efectiva la responsabilidad a los infractores.
-
-###### Artículo 173.
-
-Sólo el Congreso podrá resolver las dudas que ocurran sobre la inteligencia de los artículos de esta Constitución.
-
-###### Artículo 174.
-
-La presente Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un orden de cosas contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se establecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión como los que hubieren cooperado a ella.
-
-###### Artículo 175.
-
-Esta Constitución pude ser adicionada o reformada en cualquier tiempo concurriendo los requisitos siguientes:
-
-I. Que la proposición de adiciones o reformas se haga por escrito y por quienes con arreglo a esta Constitución, tienen derecho de iniciar leyes.
-
-II. Que sea examinada por una Comisión compuesta de tres diputados que nombrará el Congreso en la sesión siguiente para sólo el efecto de que se consulte si es o no de admitirse a discusión.
-
-III. Que admitida la discusión por la mayoría de los Diputados presentes, pase al Ejecutivo para que, dentro de un mes, emita sobre ella su opinión.
-
-IV. Concluido dicho término, el Congreso o la Diputación Permanente mandará imprimir y publicar el expediente en el estado en que se haye (sic), reservándolo para que lo tome en consideración el siguiente Congreso.
-
-V. Que se sometan las adiciones o reformas al estudio de nueva Comisión, compuesta de tres Diputados que nombrará el Congreso, para que extienda dictamen sobre si son o no de aceptarse.
-
-VI. Que el dictamen sea aprobado por el voto de las dos terceras partes de los diputados presentes.
-
-###### Artículo 176.
-
-El proyecto de adiciones o reformas que fuere desechado no podrá volver a presentarse sino hasta el Congreso siguiente.
+Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido.
 
 ## Artículos Transitorios.
 
@@ -1265,25 +1675,9 @@ Los demás Funcionarios y empleados protestarán al día siguiente ante las auto
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1918)</small>
 
-###### Artículo 1°.
+###### Artículo 2o.
 
-El Estado garantiza a sus habitantes los derechos del hombre consignados en la Constitución General y los que les otorguen las leyes particulares; garantiza igualmente a los que tengan la calidad de ciudadanos mexicanos los derechos políticos que la misma Constitución les concede. Las personas morales gozarán también de los derechos que les otorgen (sic) las leyes.
-
-###### Artículo 2°.
-
-Son obligaciones de los habitantes del Estado:
-
-I. Respetar y obedecer la Constitución General de la República, la particular del Estado, sus leyes y autoridades y las ordenanzas del Municipio donde residan.
-
-II. Contribuir, de la manera proporcional y equitativa que determinen las leyes y autoridades, para los gastos de la Federación, del Estado, y los particulares de la Municipalidad donde tengan su residencia.
-
-III. Inscribirse en el padrón de su Municipalidad, manifestando la propiedad que tengan, la industria, profesión, trabajo y capital de que subsistan y las demás circunstancias que exijan las leyes.
-
-IV. Adquirir la instrucción primaria como lo determinan las leyes.
-
-V. Tener ocupación honesta.
-
-De los Transeuntes.
+El actual período constitucional terminará para el Gobernador y los Magistrados del Supremo Tribunal de Justicia el quince de sedtiembre (sic) de mil novecientos veinte y para la XXXVI Legislatura, el 15 de septiembre de mil novecientos dieciocho.
 
 ###### Artículo 3°.
 
@@ -1305,48 +1699,6 @@ Se ratifican todas las leyes y los acuerdos dictados por la XXXVI Legislatura, d
 
 Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores con sus patrones o los familiares o intermediarios de éstos hasta la fecha de la presente Constitución.
 
-###### Artículo 4°.
-
-Son michoacanos:
-
-I. Los nacidos en cualquier punto del Estado, de padres mexicanos originarios del mismo o avecindados en él.
-
-II. Los que accidentalmente nazcan fuera del Estado, de padres michoacanos, siempre que éstos no hayan perdido la vecindad.
-
-III. Los mexicanos que se naturalicen en el Estado conforme a las leyes particulares.
-
-IV. Los mexicanos con residencia no menor de un año en el Estado.
-
-###### Artículo 5°.
-
-Son derechos de los michoacanos:
-
-I. Defender el territorio del Estado y sostener su Constitución, leyes y autoridades legítimamente constituidas.
-
-II. Ser preferidos, en igualdad de circunstancias, a los que no sean michoacanos, para todos los empleos, cargos o comisiones de nombramiento de las autoridades del Estado.
-
-III. Tener también, en igualdad de circunstancias, la preferencia en las concesiones que otorgue el Estado.
-
-###### Artículo 6°.
-
-Son obligaciones de los michoacanos:
-
-I. Defender el territorio del Estado y su soberanía sostener su Constitución, leyes y autoridades.
-
-II. Hacer que sus hijos o pupilos menores de quince años, concurran a las escuelas oficiales o privadas para obtener la instrucción primaria y militar, durante el tiempo que marquen las leyes de Instrucción Pública.
-
-III. Asistir en los días que designen las autoridades respectivas para recibir la Instrucción Cívica Militar.
-
-De los Ciudadanos michoacanos.
-
-###### Artículo 7°.
-
-Son ciudadanos michoacanos los que a la calidad de michoacanos, reunan las condiciones siguientes:
-
-I. Haber cumplido dieciocho años, siendo casados o veintiuno si no lo son.
-
-II. Tener un modo honesto de vivir.
-
 ###### Artículo 8°.
 
 El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que conforme a los artículos 27, 117 fracción VIII, 123 y 130 de la Constitución General, le compete dictar.
@@ -1354,18 +1706,6 @@ El Congreso expedirá con preferencia y a la mayor brevedad, las leyes que confo
 ###### Artículo 9°.
 
 La presente Constitución substituye a la del Estado expedida en 21 de enero de 1858.
-
-###### Artículo 9°.
-
-Son obligaciones de los ciudadanos michoacanos:
-
-I. Alistarse en la milicia del Estado para la defensa de su territorio, instituciones y autoridades legítimas.
-
-II. Votar en las elecciones populares en el Distrito o Municipio que les corresponda, inscribiéndose, al efecto, en los padrones electorales.
-
-III. Desempeñar los cargos de elección popular del mismo Estado para los que fueren designados.
-
-IV. Desempeñar los cargos consejiles (sic) del Municipio donde residan, las funciones electorales y las de jurado.
 
 ###### Artículo 10.
 
@@ -1434,3 +1774,9 @@ P.O. 16 DE AGOSTO DE 1954.
 ###### ARTICULO UNICO.
 
 Habiendo quedado satisfechos los requisitos exigidos por el artículo 175 de la Constitución Política del Estado, para la reforma del artículo 33 de la misma, este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 1 DE FEBRERO DE 1960.
+
+Artículo primero.- Esta Ley se publicará el primero de enero y entrará en vigor el cinco de febrero del año de 1960.
+
+Artículo segundo.- Salvo los transitorios, quedan derogados los demás artículos de la Constitución vigente que no estén incorporados a esta Ley, ya sea íntegros o reformados.
