@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-organismo-descentralizado-denominado-16857"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "1999-07-21"
+last_updated: "1999-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO HOSPITAL DEL NIÑO MORELENSE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 6 DE OCTUBRE DE 1999 Y 27 DE OCTUBRE DE 1999 RESPECTIVAMENTE EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE"
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL 6 DE OCTUBRE DE 1999.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de julio de 1999.
 
@@ -167,7 +167,9 @@ Corresponde a la Junta Directiva:
 
 I. Revisar, modificar y autorizar el proyecto de presupuesto anual de ingresos y egresos del Hospital, a fin de que se sometan a la consideración de las autoridades respectivas y, una vez sancionado, vigilar su correcta aplicación;
 
-II. Elaborar el Estatuto Orgánico, el Reglamento Interior, los Manuales y demás documentos técnico-administrativos para el buen funcionamiento del Hospital;
+> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 1999)</small>
+
+II. Aprobar el Estatuto Orgánico, el Reglamento Interior, los Manuales y demás documentos técnico-administrativos para el buen funcionamiento del Hospital;
 
 III. Aprobar los planes de labores, los programas e informes de actividades y estados financieros periódicos;
 
