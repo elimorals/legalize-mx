@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-al-turismo-5140"
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "1989-07-11"
+last_updated: "1991-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO AL TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 17 de agosto de 1987.
 
@@ -365,13 +365,13 @@ El Consejo de Administración de la Promotora Turística de Guerrero, acordará 
 
 ### CAPITULO CUARTO. DE LA PARTICIPACION SOCIAL EN MATERIA TURISTICA
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 35.
 
 El Gobierno del Estado promoverá a través de decretos, acuerdos y convenios, según el caso, acciones de concertación para la participación de los distintos grupos sociales que actúan en el campo del turismo a efecto de dar impulso al desarrollo turístico y corresponsabilizar a la sociedad en el mismo.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 36.
 
@@ -389,37 +389,37 @@ V.- Comités de vigilancia ciudadana sobre los servicios públicos cuando su pre
 
 VI.- Las demás que sean afines a las anteriores y que favorezcan la participación ciudadana en materia turística.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 37.
 
 El Poder Ejecutivo podrá crear mediante decreto Consejos Mixtos de Fomento Turístico en los Municipios para promover la participación de los grupos sociales y la coordinación entre las dependencias y entidades federales, estatales y municipales.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 38.
 
 Los Consejos Mixtos de Fomento Turístico serán de carácter consultivo y se desempañarán como mecanismos para el estudio del desarrollo turístico y la concertación de programas, proyectos y acciones de beneficio turístico.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 39.
 
 En los términos de la legislación laboral, el Gobierno del Estado y los grupos de prestadores de servicio (sic) organizados, apoyarán las comisiones de seguridad e higiene así como de capacitación y adiestramiento en el ramo turístico.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 40.
 
 Las Secretarías de Planeación y Presupuesto y de Fomento Turístico, concertarán con los prestadores de servicios turísticos la formación de comités técnicos mixtos de estadística turística que proporcionen información oportuna y veraz sobre el comportamiento del turismo.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 41.
 
 El Gobierno del Estado invitará a los prestadores de servicios turísticos a formar parte de los órganos administrativos que conozcan de las quejas que los usuarios presenten para atenderlas con equidad y favorecer la calidad y prestigio de los servicios turísticos.
 
-> <small>(ADICIONADO, P. O. 14 DE OCTUBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1988)</small>
 
 ###### ARTICULO 42.
 
@@ -429,7 +429,7 @@ El Gobierno del Estado podrá instituir premios y reconocimientos para honrar y 
 
 ### CAPITULO QUINTO. DEL FONDO DE CREDITO Y GARANTIA A MICRO-EMPRESAS Y PEQUEÑAS EMPRESAS TURISTICAS
 
-> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 43.
 
@@ -437,13 +437,13 @@ El Gobierno del Estado con sujeción al Programa de Fomento al Turismo y a los p
 
 Especialmente se otorgarán los anteriores beneficios a las Empresas del Sector Social, proporcionándoles créditos y asesoría para la creación y desarrollo de infraestructura turística en dicha área.
 
-> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 44.
 
 Para los efectos del artículo anterior se crea el Fondo de Garantía y Crédito a Micro-Empresas y Pequeñas Empresas Turísticas, como fondo financiero.
 
-> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 45.
 
@@ -459,13 +459,13 @@ IV.- Proporcionar asistencia técnica y administrativa a las micro-empresas y pe
 
 V.- Las demás que sean afines a las anteriores.
 
-> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 46.
 
 El Fondo se manejará por un Comité Técnico que estará integrado por el Secretario de Fomento Turístico, quien lo presidirá; el Secretario de Finanzas; el Secretario de Planeación y Presupuesto; el Secretario de Desarrollo Económico y Trabajo; la Secretaría de la Mujer; el Vocal Ejecutivo de la Comisión Mixta para la Gestión de los Servicios Públicos del Acapulco Dorado; el Vocal Ejecutivo de la Comisión Mixta para la Gestión de los Servicios Públicos del Acapulco Tradicional; y el Director General del Instituto para el Desarrollo de las Empresas del Sector Social.
 
-> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 47.
 
@@ -487,11 +487,53 @@ VII.- Autorizar los apoyos que a cargo del Fondo podrán otorgarse a las empresa
 
 VIII.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
-> <small>(ADICIONADO, P. O. 11 DE JULIO DE 1989)</small>
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 1989)</small>
 
 ###### ARTICULO 48.
 
 El Poder Ejecutivo podrá invitar a representantes de instituciones públicas que otorguen financiamientos al Fondo, así como de representantes de las agrupaciones de micro-empresas y pequeñas empresas turísticas a que participen en el Comité Técnico del Fondo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 15 DE MARZO DE 1991)</small>
+
+### CAPITULO SEXTO. DEL REGIMEN FINANCIERO
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1991)</small>
+
+###### ARTICULO 49.
+
+En los términos del artículo 117 de la Constitución Política del Estado, Promotora Turística por su objeto comercial y de estímulo a la inversión, será una entidad autofinanciable, y al efecto el Gobierno del Estado no podrá otorgarle subsidios de carácter financiero.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1991)</small>
+
+###### ARTICULO 50.
+
+Cuando realice Promotora Turística inversiones en materia de vialidades, agua potable, drenaje, equipamiento, servicios, y en general infraestructura, y esas inversiones eleven el valor de inmuebles de particulares, tales como propietarios, poseedores, usufructuarios, fraccionadores, desarrolladores y otros análogos, hará a los mismos los cobros que esta Ley y otras aplicables establezcan conforme a criterios de proporcionalidad, equidad social e interés público.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1991)</small>
+
+###### ARTICULO 51.
+
+Para efectos del artículo anterior la Promotora Turística actuará como organismo fiscal autónomo con todas las facultades legales inherentes, pero podrá actuar también a través de la Secretaría de Finanzas del Gobierno del Estado en los casos que con tal propósito se convenga.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1991)</small>
+
+###### ARTICULO 52.
+
+En sus reglas financieras, PROTUR se sujetará a las siguientes bases:
+
+I.- No podrá utilizar recursos fiscales del Gobierno del Estado;
+
+II.- Los financiamientos que obtenga se garantizarán por su propio patrimonio, sin perjuicio de las contragarantías que establezcan las leyes y de la intervención que las mismas prevengan por lo que se refiere al Congreso y al Gobierno del Estado;
+
+III.- En sus presupuestos de ingresos y egresos y programas, Promotora Turística hará las previsiones para cumplir con sus compromisos financieros, y asegurar la continuidad de los proyectos; y
+
+IV.- La proporción de los remanentes o utilidades que deberá asignar el Organismo a programas de beneficio social, o que eleven la producción agropecuaria.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1991)</small>
+
+###### ARTICULO 53.
+
+La construcción, desarrollo y mejora de áreas, zonas y centros turísticos de Promotora Turística de Guerrero, que generen empleo y eleven las condiciones de vida de los guerrerenses, serán de utilidad pública para los fines y alcances de la Ley de Expropiación.
 
 TRANSITORIO:
 
@@ -540,3 +582,9 @@ P. O. 11 DE JULIO DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P. O. 15 DE MARZO DE 1991.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
