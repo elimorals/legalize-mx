@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2002-01-18"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2003.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -811,11 +811,11 @@ XI.- Decretar en caso grave, la traslación provisional de los Poderes del Estad
 
 XII.- Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hayan consignado en la Constitución Política del Estado, o que le confieran las Leyes.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 80.
 
-La Diputación Permanente estará integrada por once Diputados de los cuales funcionarán siete como propietarios y cuatro como suplentes.
+La Diputación Permanente estará integrada por once diputados de los cuales funcionarán siete como propietarios y cuatro como suplentes generales.
 
 ###### ARTICULO 81.
 
@@ -877,9 +877,9 @@ Las sesiones de la Diputación Permanente podrán ser: públicas, secretas, ordi
 
 Habrá sesión pública el día martes de cada semana, con excepción de días inhábiles. Las sesiones secretas se realizarán cuando existan asuntos que así lo ameriten a juicio de su Presidente.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
 
-La Diputación Permanente para sesionar requerirá al menos de la concurrencia de cuatro de sus integrantes propietarios. Los suplentes generales, sólo entrarán en funciones cuando se requiera sustituir a un propietario para integrar el quórum expresado, en el orden que hubiesen sido nombrados.
+La Diputación Permanente para sesionar requerirá al menos de la concurrencia de cuatro de sus integrantes propietarios. Las ausencias de uno o más de los diputados propietarios serán sustituidas por los suplentes en el orden en que hubiesen sido nombrados.
 
 ###### ARTICULO 87.
 
@@ -1982,3 +1982,7 @@ P.O. 18 DE ENERO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE AGOSTO DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
