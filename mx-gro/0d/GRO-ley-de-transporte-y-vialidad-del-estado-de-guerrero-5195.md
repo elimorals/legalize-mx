@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "1991-02-26"
+last_updated: "1995-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -69,6 +69,12 @@ Se entiende por vehículo todo mueble que mediante mecanismos de combustión int
 
 Para los efectos de esta Ley se denomina concesión a la autorización para prestar el servicio público de transporte. Cuando la autorización sea temporal no mayor de treinta días se denominará permiso.
 
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 7
+
+BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionarios y permisionarios de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, el Ejecutivo podrá autorizar al Director de la Comisión Técnica de Transporte y Vialidad, para que celebre convenios con esos Concesionarios y Permisionarios, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
+
 ### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE Y VIALIDAD
 
 ###### ARTICULO 8o.
@@ -79,7 +85,13 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría de Desarrollo Urbano y Obras Públicas;
 
-III.- La Comisión Técnica de Transporte y Vialidad;
+> <small>(ADICIONADA, P. O. 24 DE FEBRERO DE 1995)</small>
+
+III.- La Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADA, P. O. 24 DE FEBRERO DE 1995)</small>
+
+IV.- La Comisión Técnica de Transporte y Vialidad;
 
 a) El Consejo Técnico de Transporte y Vialidad;
 
@@ -89,7 +101,9 @@ c) Los Delegados Regionales;
 
 d) Los inspectores de transporte y vialidad, y
 
-IV.- La Comisión de Seguridad Pública y Tránsito, en su ámbito de competencia.
+> <small>(REFORMADA, P. O. 24 DE FEBRERO DE 1995)</small>
+
+V.- La Comisión de Seguridad Pública y Tránsito, en su ámbito de competencia.
 
 ###### ARTICULO 9o.
 
@@ -197,13 +211,21 @@ El Consejo Estatal Consultivo de Transporte y Vialidad emitirá opinión sobre l
 
 Los Comités Consultivos de Transporte y Vialidad de carácter regional o municipal que se establezcan se conformarán con los servidores públicos, los representantes de las organizaciones locales de concesionarios y los técnicos que el Consejo Técnico designe.
 
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 21
+
+BIS.- A fin de que los diferentes sectores de la comunidad estén conscientes de la responsabilidad que les corresponde en el bienestar colectivo, ya sea como peatones, pasajeros, conductores de vehículos automotores, concesionarios o permisionarios, las autoridades de Tránsito y Transporte y Vialidad del Estado, así como las del Municipio en la esfera de su competencia, deberán fomentar de manera permanente la preparación y difusión de campañas y cursos de seguridad educativa vial.
+
 ### CAPITULO IV. DE LAS LICENCIAS
+
+> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 22.
 
-Para conducir vehículos de propulsión motorizada se deberá contar con licencia expedida por la Comisión Técnica de Transporte y Vialidad, previa la satisfacción de los requisitos que esta Ley y sus disposiciones reglamentarias establezcan.
+Para conducir vehículos de propulsión motorizada o eléctrica se deberá contar con licencia expedida por la Dirección General de Tránsito del Estado, en su ámbito de competencia territorial, previa la satisfacción de los requisitos que esta Ley y sus disposiciones reglamentarias establezcan.
 
-Los conductores de vehículos de propulsión humana o animal no requieren de licencia.
+Los conductores de vehículos de propulsión humana o animal no requieren licencia.
 
 ###### ARTICULO 23.
 
@@ -231,15 +253,29 @@ V. Por las demás causas que para cada servicio se prevengan en las disposicione
 
 Las personas menores de 18 años y mayores de 16 años pueden obtener licencia para conducir únicamente los vehículos de servicio privado que determine el reglamento de esta Ley, pero además de satisfacer los requisitos del caso, deberán acreditar, mediante una carta responsiva, que cuentan con el consentimiento de quienes ejerzan la patria potestad o su tutor, siendo éstos últimos los responsables de los daños que se ocasionen.
 
-La Comisión Técnica de Transporte y Vialidad, exigirá fianza o depósito, o póliza de seguro con una cobertura por la cantidad del importe de treinta veces el salario mínimo diario vigente, que será consignado ante la Secretaría de Finanzas para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar con el vehículo que conduzca.
+> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+La Dirección General de Tránsito del Estado, exigirá fianza o depósito, o póliza de seguro con una cobertura amplia por la cantidad del importe de cuarenta y cinco veces el salario mínimo diario vigente de la zona económica correspondiente al domicilio de la persona que ejerza la patria potestad o tutoría sobre el menor que será consignado ante la Secretaría de Finanzas y Administración para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar con el vehículo que conduzca.
+
+> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 27.
 
-La Comisión Técnica de Transporte y Vialidad, mediante disposiciones que se publicarán en el Periódico Oficial, vigilará la vigencia de las licencias de manejo y su diseño, así como los plazos y circunstancias para su revalidación. Las licencias de manejo que se expidan a menores de edad no podrán tener una vigencia superior a 180 días.
+la Dirección General de Tránsito, mediante disposiciones que se publicarán en el Periódico Oficial vigilará la vigencia de las licencias de manejo y su diseño, así como los plazos y circunstancias para su revalidación.
+
+Las licencias de manejo que se expidan a menores de edad no podrán tener una vigencia superior a 180 días.
+
+> <small>(REFORMADO, P. O. 24 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 28.
 
-La Comisión de Transporte y Vialidad, a través de disposiciones administrativas de carácter general, vigilará la naturaleza y periodicidad de los exámenes médicos y de pericia a que deberán someterse los conductores de vehículos del servicio público para el refrendo de sus licencias.
+La Secretaría de Finanzas y Administración a través de la Sub'secretaría de Ingresos, ejercerá el control en todo el territorio del Estado, de las formas que se utilicen en la expedición de licencias para conducir vehículos de motor o eléctricos, mismas que deberán estar debidamente foliadas.
+
+Las Direcciones Generales de Tránsito Estatal y Municipales solicitarán la impresión de formas para licencias, permisos; y todos los demás conceptos señalados en la Ley de Ingresos vigente, a la Sub'secretaría de Ingresos, la que a través del almacén de formas valoradas, llevará el registro y control de folios que sean distribuidos por las Oficinas Rentísticas tanto a la Dirección General de Tránsito como a sus Delegaciones en el Estado y Municipales.
+
+Asimismo, el pago de los Derechos e Impuestos Adicionales que se originen por la expedición de licencias, permisos y los demás conceptos a que hace referencia el párrafo que antecede, deberá hacerse exclusivamente en la Oficina Rentística de su Jurisdicción correspondiente.
+
+La Dirección General de Tránsito y sus Delegaciones, así como las Direcciones de Tránsito Municipales, en el Estado, informarán mensualmente a la Secretaría de Finanzas y Administración sobre el total de licencias expedidas, permisos otorgados y otros conceptos cobrados, así como los números de folios utilizados por medio de cortes de efectos y cortes de ingresos.
 
 ### CAPITULO V. DE LOS VEHICULOS
 
@@ -413,9 +449,11 @@ IV. El transporte de cadáveres y de servicios funerarios.
 
 ### CAPITULO VII. DE LAS CONCESIONES Y PERMISOS
 
-### CAPITULO VIII. DE LOS ITINERARIOS, LOS HORARIOS Y LAS TARIFAS
+### CAPITULO VII-BIS. DE PROTECCION AL MEDIO AMBIENTE
 
-### CAPITULO IX. DEL REGISTRO
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+### CAPITULO VIII. DE LOS ITINERARIOS, LOS HORARIOS Y LAS TARIFAS
 
 ###### ARTICULO 52.
 
@@ -470,6 +508,22 @@ Los interesados en obtener concesión o permiso de servicio público de transpor
 ###### ARTICULO 56.
 
 Además de las condiciones establecidas en esta Ley, el Reglamento respectivo fijará las que deban satisfacerse para prestar los diversos servicios de transporte.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+Todo tipo de concesión o permiso así como todos los demás conceptos señalados en la Ley de Ingresos vigente, deberá expedirse en la forma valorada que al respecto distribuyan las Administraciones o Agencias Fiscales, debidamente foliadas.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+Los pagos de las personas físicas o morales a quienes se les expida cualquier concesión o permiso, y los demás conceptos a que hace referente el párrafo anterior, deberán hacerse invariablemente en la Administración o Agencia Fiscal de su Jurisdicción, pues sólo presentando el recibo oficial se les otorgará la concesión o permiso.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+La Comisión Técnica de Transporte y Vialidad, tendrá la obligación de informar a la Secretaría de Finanzas y Administración, sobre el total de concesiones, permisos y los demás conceptos señalados en la Ley de Ingresos vigente expedidos mensualmente citando los números de folios utilizados a través de cortes de efectos y cortes de ingresos.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+Todo tipo de permisos, concesión y los demás conceptos ya mencionados que sean expedidos en forma distinta a las establecidas por la Secretaría de Finanzas y Administración se considerará nula de pleno derecho.
 
 ###### ARTICULO 57.
 
@@ -577,17 +631,71 @@ II. Por revocación, y
 
 III. Por caducidad.
 
+> <small>(ADICIONADO, CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 24 DE FEBRERO DE 1995)</small>
+
+### CAPITULO IX. DEL REGISTRO
+
+###### ARTICULO 70
+
+BIS 1.- Los vehículos automotores registrados en el Estado de Guerrero, deberán ser sometidos a verificación de emisiones contaminantes de humo, gases tóxicos y ruidos, mismos que no podrán sobrepasar los límites máximos permisibles en cada caso y que se especifiquen en esta Ley y su Reglamento. Dicha verificación deberá llevarse a cabo dos veces por año en los centros de verificación vehicular autorizados por la autoridad competente.
+
+La concesión de los centros de verificación, a particulares deberá ajustarse a las Leyes vigentes en el Estado.
+
+En aquellos lugares donde se cuente con centros de verificación, los vehículos se someterán a los mecanismos de control anticontaminantes que determine la autoridad.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 2.- Los propietarios de vehículos, harán someter su vehículo a la verificación referida, la que no tendrá un costo mayor que la que determine la autoridad competente. En caso de que el resultado de la misma sea satisfactorio, el centro de verificación expedirá la constancia correspondiente, misma que deberá ser adherida en el parabrisas posterior del vehículo; en caso contrario se retendrá la tarjeta de circulación del vehículo, disponiendo el propietario de un plazo máximo de treinta días para someter de nueva cuenta a verificación su vehículo. Si el resultado es favorable se entregará la constancia respectiva, en caso contrario se retirará de circulación el vehículo permitiendo sólo su traslado al taller correspondiente para la reparación o ajuste que requiera, debiendo en tal caso presentar de nueva cuenta el vehículo para su verificación.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 3.- Puede someterse a verificación un vehículo no obstante portar la constancia correspondiente de aprobado en vigor de su revisión, si en forma ostensible se aprecia que las emisiones de gases, humo y ruidos pueden rebasar los límites máximos tolerables. Se retendrá la tarjeta de circulación y concederá al conductor un plazo de 30 días naturales para que haga practicar las reparaciones o ajustes correspondientes, hecho lo cual se practicará nueva revisión y en caso de resultar favorable se expedirá la constancia correspondiente, en caso contrario se retirará el vehículo de la circulación.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 4.- Lo anterior será aplicable también a vehículos registrados fuera del Estado de Guerrero, cuando sus propietarios radiquen en este, cuando circulen en zonas donde se encuentren implementados programas de verificación de emisiones contaminantes y pueda apreciarse que su misión (sic) de humo y gases tóxicos rebasan los límites permisibles; en tal caso se retendrá la tarjeta de circulación del vehículo y éste se hará pasar al centro de verificación extendiéndose o no la constancia de aprobado, dependiendo del resultado de la misma. En caso de que el resultado no sea satisfactorio se aplicarán las mismas disposiciones referentes a los vehículos registrados dentro del Estado, en los lugares que cuenten con centros de verificación vehicular.
+
+El incumplimiento de las obligaciones a que se refiere este artículo deberá ser sancionado en los términos de las disposiciones legales.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 5.- Los vehículos automotores en circulación del año 1972 a la fecha, de fabricación nacional, que utilizan gasolina como combustible, deberán contar con los dispositivos anticontaminantes con que hayan sido provistos de fábrica en buen estado de funcionamiento.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 6.- Para efectos de prevención y control de la contaminación ambiental originada por la emisión de gases (HC y CO), provenientes del escape de vehículos en circulación y que utilizan gasolina, gas licuado y otros combustibles alternos, se estará a lo dispuesto en las Normas Técnicas Ecológicas NOM-CCAT-003/ECOL/1993; NOM-CCAT-004; ECOL/1993; NOM-CCAT-010-ECOL/1993, NOM-CCAT-012-ECOL/1993; NOM-CCAT-013-ECOL/1993, NOM-CCAT-014-ECOL/1993, de la Secretaría de Desarrollo Social publicadas el 22 de octubre de 1993, en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 7.- Para efectos de prevención y control de la contaminación ambiental originada por la emisión de humos provenientes del escape de vehículos en circulación y que utilizan diesel como combustible, se estará a lo dispuesto en las Normas Técnicas Ecológicas NOM-CCAT-007 ECOL/1993; NOM-CCAT-008 ECOL/1993, de la Secretaría de Desarrollo Social, publicadas el 22 de octubre de 1993 en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 8.- Sin perjuicio de imposición de las sanciones que correspondan, los vehículos cuyos conductores cometan las infracciones a las disposiciones previstas en los artículos 110, 111 y 112, serán retirados de la circulación y remitidos a un depósito de vehículos, siendo necesarios para su devolución el pago de la multa y derechos correspondientes.
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+
+###### ARTICULO 70
+
+BIS 9.- Las presentes disposiciones, se aplicarán independientemente de las medidas que para limitar o suspender la circulación de vehículos automotores, incluidos aquellos destinados al Servicio Público Federal, aplique la autoridad competente, cuando se presente una situación de contingencia ambiental o de emergencia ecológica.
+
+Sin perjuicio de lo anterior, la autoridad competente podrá aplicar aquellas medidas tendientes a reducir los niveles de emisión de los vehículos automotores, aún cuando no se trate de situaciones de contingencia ambiental o de emergencia ecológica.
+
 ### CAPITULO X. DE LA VIALIDAD
-
-### CAPITULO X BIS
-
-DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
-
-ARTICULO 108 (sic) Bis 1.- Los ayuntamientos, en los términos del artículo 115 de la Constitución General de la República y de la Constitución Política del Estado, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos a efecto de atender el interés público y favorecer las actividades económicas y sociales, lograr una mayor eficiencia en las funciones urbanas.
-
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 71.
 
@@ -655,7 +763,15 @@ Para asegurar la continuidad del servicio público y la atención eficiente de l
 
 En el procedimiento de intervención la autoridad notificará por escrito al concesionario, apercibiéndolo del contenido del artículo anterior, que procederá a intervenir el servicio público concesionado. Al efecto, tendrá tres días naturales para expresar lo que a su derecho convenga.
 
-### CAPITULO XI. DE LAS SANCIONES
+### CAPITULO X BIS
+
+DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+
+ARTICULO 108 (sic) Bis 1.- Los ayuntamientos, en los términos del artículo 115 de la Constitución General de la República y de la Constitución Política del Estado, y de conformidad con las bases que establece esta Ley, expedirán reglamentos para la utilización de las vialidades en zonas turísticas y en materia de estacionamientos a efecto de atender el interés público y favorecer las actividades económicas y sociales, lograr una mayor eficiencia en las funciones urbanas.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 86.
 
@@ -718,6 +834,8 @@ VI. Por resolución judicial.
 ###### ARTICULO 95.
 
 La Comisión Técnica de Transporte y Vialidad administrará el padrón de conductores con licencia expedida por la autoridad competente, de solicitantes de concesiones o permisos, así como de concesionarios y permisionarios.
+
+### CAPITULO XI. DE LAS SANCIONES
 
 ###### ARTICULO 96.
 
@@ -1032,3 +1150,13 @@ Rúbrica.
 P.O. 26 DE FEBRERO DE 1991.
 
 UNICO.- El presente Decreto de Reformas y Adiciones a la Ley de Transporte y Vialidad del Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE FEBRERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones a la Ley de Transporte y Vialidad del Estado de Guerrero, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Verificación Vehicular referida en el capítulo VII-BIS entrará en vigor a partir del presente año, solamente para el transporte de carga y pasajeros. En el caso de los vehículos de uso particular, las disposiciones contenidas en dicho capítulo serán aplicables a partir del año de 1996.
