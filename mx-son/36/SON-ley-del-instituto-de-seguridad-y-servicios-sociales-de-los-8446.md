@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1975-03-19"
+last_updated: "1982-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE MARZO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE ENERO DE 1982.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -423,7 +423,9 @@ La enajenación de dichas habitaciones podrá hacerse por medio de contratos de 
 
 I.- El trabajador deberá entrar en posesión de la habitación una vez firmado el contrato respectivo;
 
-II.- El plazo para cubrir el precio del inmueble, no excederá de quince años;
+> <small>(REFORMADA, B.O. 11 DE ENERO DE 1982)</small>
+
+II.- El plazo para cubrir el precio del inmueble, no excederá de veinte años.
 
 III.- En caso de que el Instituto exigiere el pago forzoso del saldo que se adeude y que con ese motivo se sacare a remate el inmueble, de quedar algún remanente, éste se entregará al trabajador;
 
@@ -501,11 +503,241 @@ En ningún caso habrá lugar a la devolución de las aportaciones que los acredi
 
 Si por haber sido cesado el trabajador o por otras causas graves a juicio del Instituto, no pudiere cubrir los abonos provenientes del préstamo hipotecario o del contrato de venta con garantía hipotecaria o con reserva del dominio, podrá concedérsele, previa solicitud y con las condiciones que se estipulen, un lapso de espera de seis meses al termino de los cuales deberá reanudar sus pagos. El adeudo del lapso de espera lo pagará en el plazo y demás requisitos que señale la Junta Directiva.
 
-> <small>(REFORMADO, B.O. 17 DE ABRIL DE 1974)</small>
+> <small>(REFORMADO, B.O. 11 DE ENERO DE 1982)</small>
 
 ###### Artículo 50.
 
-Las casas adquiridas o construidas por los trabajadores con fondos suministrados por el Instituto, quedarán exentas de todos los impuestos estatales y municipales, a excepción del impuesto predial.- Gozarán también de exención de impuestos estatales y municipales los contratos de venta, hipoteca, arrendamiento, préstamo y cualquier otro que celebre el Instituto.
+Los inmuebles adquiridos o construídos por los Trabajadores para su propia habitación, con fondos suministrados directamente por el Instituto o con recursos que provengan del Fondo de la Vivienda, o los suministrados por Instituciones de Crédito, en sus programas de vivienda de interés social, quedarán exentos de todos los impuestos y derechos, sean estatales o municipales, hecha excepción del Impuesto Predial. Gozarán también de exención de todos los impuestos y derechos estatales y municipales, los contratos en que se hagan constar tales adquisiciones.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 11 DE ENERO DE 1982)</small>
+
+SECCION 3a.
+
+DEL FONDO DE LA VIVIENDA.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-A.
+
+En los términos de la presente ley, se instituye el Fondo de la Vivienda para los Servidores Públicos del Estado de Sonora, de sus municipios, así como de los Organismos Públicos Coordinados y Descentralizados de carácter estatal que se incorporen a su régimen, el cual tendrá por objeto:
+
+I.- Establecer y operar un sistema de financiamiento que permita a los trabajadores obtener crédito barato y suficiente para:
+
+A).- La adquisición en propiedad de habitaciones cómodas e higiénicas, incluyendo aquéllas sujetas al régimen de condominio;
+
+B).- La construcción, reparación, ampliación o mejoramiento de sus habitaciones; y
+
+C).- El pago de pasivos contraídos por los conceptos anteriores, en los términos que acuerde la Comisión Ejecutiva.
+
+II.- Coordinar y financiar programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los trabajadores; y
+
+III.- Los demás que esta ley establece.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-B.
+
+Los recursos del fondo se integrarán:
+
+I.- Con las aportaciones de las entidades públicas por el equivalente al 2% sobre los sueldos y salarios de sus trabajadores.
+
+El tope máximo para el pago de las aportaciones, será equivalente a diez veces el salario mínimo general de la zona de que se trate.
+
+II.- Con los bienes y derechos adquiridos por cualquier título; y
+
+III.- Con los rendimientos que se obtengan de las inversiones de los recursos a que se refieren las fracciones anteriores.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-C.
+
+Los recursos del fondo se destinarán:
+
+I.- Al otorgamiento de créditos a los servidores públicos que sean titulares de depósitos constituidos a su favor en el Fondo, para cualquiera de los fines a que se refiere la fracción I del Artículo 50-A de la presente Ley;
+
+II.- Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por los servidores públicos, mediante créditos que les otorgue el Fondo;
+
+Estos financiamientos sólo se concederán por concurso, tratándose de programas habitaciones (sic) aprobadas por el instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
+
+III.- Al pago de los depósitos que les correspondan a los servidores públicos en los términos de esta Ley;
+
+IV.- A cubrir los gastos de administración, operación y vigilancia del Fondo en los términos de esta Ley;
+
+V.- A la inversión en inmuebles estrictamente necesarios para sus fines; y a las demás erogaciones relacionadas con su objeto.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-D.
+
+La adquisición de habitaciones por los servidores públicos, propiedad de un tercero, con recursos suministrados por el Fondo o de las construidas por el Instituto con recursos provenientes del mismo, se sujetarán a lo dispuesto en el Artículo 40 de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-E.
+
+Las aportaciones al Fondo de la Vivienda se aplicarán en su totalidad a constituir a favor de los servidores públicos, depósitos que no devengarán intereses y que se sujetarán a las bases siguientes:
+
+I.- Cuando un trabajador reciba financiamiento del fondo, el 40% del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha, se aplicará de inmediato como pago inicial del crédito concedido.
+
+II.- Durante la vigencia del crédito, se continuará aplicando el 40% de la aportación al pago de los abonos subsecuentes que deba hacer el trabajador.
+
+III.- Una vez liquidado el crédito otorgado a un trabajador, se continuará aplicando el total de las aportaciones para integrar un nuevo depósito en su favor;
+
+IV.- Cuando el trabajador deje de prestar sus servicios a las entidades y organismos públicos, por cese o renuncia, se le devolverán el total de los depósitos que se hubieren constituido a su favor;
+
+V.- En el caso de que los trabajadores hubieren recibido créditos hipotecarios con recursos del Fondo, la devolución de los depósitos se hará con deducción de las cantidades que se hubieran aplicado al pago del crédito hipotecario en los términos de las fracciones I y II de este artículo.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-F.
+
+La Junta Directiva del Instituto determinará anualmente las sumas que se asignarán al financiamiento de programas de casas-habitación destinadas a ser adquiridas en propiedad de los trabajadores y las que se aplicarán la adquisición, construcción, reparación o mejoras de dichas casas, así como el pago de pasivos adquiridos por estos conceptos tomando en cuenta las siguientes circunstancias:
+
+I.- La demanda de habitación y las necesidades de vivienda;
+
+II.- Las posibilidades reales de edificación de conjuntos habitacionales;
+
+III.- El monto de las aportaciones acumuladas al fondo; y
+
+IV.- Las demás que considere la Junta Directiva.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-G.
+
+Para asignar los créditos a los trabajadores, se tomarán en cuenta el número de miembros de la familia, el sueldo o salario o ingreso conyugal, si hay acuerdo por los interesados y las características y precios de venta de las habitaciones disponibles. Para tal efecto, se establecerá un régimen por el Instituto para relacionar los créditos.
+
+Si dentro de cada grupo de trabajadores en una clasificación semejante, hay varios con el mismo derecho, se asignarán entre éstos los créditos individuales mediante sorteos.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-H.
+
+Con sujeción a los requisitos que fije la Junta Directiva, se determinarán: Los montos máximos de los créditos que se otorguen, la relación de dichos montos con el sueldo o salario de los trabajadores acreditados, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen como cargo al fondo.
+
+En ningún caso el importe del préstamo que se conceda, ya sea para una sola persona o dos o más en mancomún, podrá exceder del valor total que señale el Banco de México para el financiamiento de vivienda de interés social.
+
+El avalúo deberá coincidir con los precios unitarios de las tablas generales que el Instituto formulará oportunamente.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-I.
+
+Los créditos que se otorguen con cargo al Fondo, deberán darse por vencidos anticipadamente sí los deudores sin el consentimiento del instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurran en las causas de rescisión consignadas en los contratos respectivos.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-J.
+
+Los créditos que se otorguen a los trabajadores estarán cubiertos por un seguro para los casos de muerte, que libere a sus beneficiarios de las obligaciones derivadas de los mismos. El costo de este seguro quedará a cargo del acreditado.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-K.
+
+En los casos de pensión, jubilación o de incapacidad total permanente, se entregará al trabajador el total de los depósitos que tenga a su favor el Fondo. En caso de muerte, dicha entrega se hará a los beneficiarios destinados y a la falta de designación a sus herederos legítimos.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-L.
+
+Cuando un trabajador deje de percibir ingresos por cualquier causa y hubiere recibido un préstamo a cargo del Fondo, se le otorgará una prórroga, sin causa de intereses en los pagos de las amortizaciones que tenga que hacer por concepto de capital e intereses. La prórroga tendrá un plazo máximo de seis meses y terminará anticipadamente cuando el trabajador vuelva a prestar servicios remunerados.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-M.
+
+Las entidades públicas a que se refiere esta Ley, seguirán haciendo los depósitos para constituir el Fondo de la Vivienda, sobre los sueldos o salarios de los trabajadores que disfruten licencia por enfermedad, en los términos de las leyes que rijan sus relaciones de trabajo; así como de los que sufran suspensión temporal de los efectos de su nombramiento, debiendo suspenderse esos depósitos a partir de la fecha en que cese el pago de salarios.
+
+La existencia de los supuestos a que se refiere este Artículo y el anterior, deberán comprobarse a satisfacción del instituto.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-N.
+
+El trabajador que deje de prestar servicios a entidades públicas, conforme a lo previsto en el artículo anterior y por quien se hayan hecho aportaciones, tiene derecho a optar por la devolución de sus depósitos o por la continuación de sus derechos y obligaciones con el Fondo, en este último caso, la base para las aportaciones a su cargo, será el 2% del sueldo o salario promedio que hubiere percibido durante los últimos seis meses.
+
+El derecho a continuar dentro del régimen del Fondo, se pierde si no se ejercita mediante solicitud por escrito presentada de acuerdo con lo que establezca el reglamento correspondiente dentro de un plazo de seis meses contados a partir de la fecha en que, conforme a lo dispuesto por el artículo anterior, se considere que ha dejado de existir la prestación de servicios respectiva.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50
+
+Ñ.- La continuación voluntaria dentro del régimen del Fondo, a que se refiere el artículo anterior termina:
+
+I.- Por la reanudación de servicios en alguna entidad u organismo incorporado al fondo;
+
+II.- Por declaración expresa al Instituto, firmada por el interesado; y
+
+III.- Porque el interesado deje de constituir los depósitos durante un período de seis meses.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-O.
+
+A los servidores públicos que se pensionen o se jubilen se les aplicará en lo conducente y conforme a lo que se establezca el Reglamento respectivo, lo dispuesto en los dos artículos anteriores. En el caso de que opten por permanecer voluntariamente dentro del régimen del Fondo, el Instituto les descontará de sus pensiones íntegramente las aportaciones que le correspondería cubrir a entidades públicas.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-P.
+
+Los créditos a los trabajadores a que se refieren las fracciones I y II del artículo 50-A, devengarán un interés del 9% anual sobre saldos insolutos. Si se separan del servicio, el interés del crédito se causará a la tasa del 10 % anual. Tratándose de créditos para la adquisición o construcción de habitaciones, su plazo no será menor de diez, ni mayor de veinte años. Para los otros créditos mencionados en el artículo 50-A fracción I, se pondrán fijar plazos menores a petición del interesado.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-Q.
+
+Los depósitos constituidos a favor de los trabajadores estarán exentos de toda clase de impuestos.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-R.
+
+El Instituto no estará obligado a proporcionar servicios de operación o mantenimiento de conjuntos habitacionales construidos con recursos del Fondo, ni sufragar los gastos correspondientes a estos conceptos.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-S.
+
+Los depósitos constituidos en favor de los trabajadores para la integración del Fondo, no podrán ser objeto de cesión o embargo y sólo podrán afectarse cuando se trate de hacer efectivos los créditos otorgados con cargo al Fondo.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-T.
+
+El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el Fondo de la Vivienda. Los recursos del Fondo, en tanto se aplican a los fines señalados en el artículo anterior, deberán mantenerse invertidos en las mejores condiciones de rentabilidad.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-U.
+
+El Instituto sólo podrá realizar con cargo al Fondo, las inversiones en los bienes muebles e inmuebles estrictamente necesarias para el cumplimiento de los fines del mismo.
+
+En caso de adjudicación o de recepción en pago de bienes inmuebles, el Instituto deberá venderlos en el término de seis meses.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-V.
+
+El Instituto cubrirá que sus actividades relacionadas con el Fondo se realicen dentro de una política integrada de vivienda y desarrollo urbano. Para ello, deberá coordinarse con los organismos del sector público responsable de esta materia.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-W.
+
+A fin de que los recursos del fondo se inviertan de conformidad con lo que dispone la presente ley, el Gobierno del Estado, por conducto de la Tesorería General, vigilará que los programas financieros anuales no excedan a los presupuestos de ingresos corrientes.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 50-X.
+
+Son obligaciones de las Entidades Públicas:
+
+I.- Inscribir a sus trabajadores y beneficiarios del Fondo;
+
+II.- Efectuar las aportaciones en los términos de la presente Ley y sus reglamentos; y
+
+III.- Practicar a los sueldos y salarios de sus trabajadores, los descuentos que se destinen al pago de abonos para cubrir préstamos otorgados por el Fondo y enterar el importe de dichos descuentos en la forma y términos que señala el Artículo 22 de esta Ley.
 
 ### CAPITULO SEXTO. DE LOS PRESTAMOS A CORTO PLAZO
 
@@ -905,7 +1137,7 @@ Artículo 88 C.- (DEROGADO, B.O. 19 DE MARZO DE 1975)
 
 ###### Artículo 89.
 
-Al trabajador que sin tener derecho a jubilación o pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente al seis por ciento con hubiese contribución de acuerdo con el artículo 16, o sea a la tres cuartas partes de las aportaciones que hubiese hecho a partir de la fecha de entrada en vigor de esta Ley. Las aportaciones anteriores a esta Ley se devolverá íntegramente, al separarse del servicio sin jubilación o pensión.
+Al trabajador que sin tener derecho a jubilación o pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará una indemnización global equivalente al seis por ciento con hubiese contribución de acuerdo con el artículo 16, o sea a las tres cuartas partes de las aportaciones que hubiese hecho a partir de la fecha de entrada en vigor de esta Ley. Las aportaciones anteriores a esta Ley se devolverá íntegramente, al separarse del servicio sin jubilación o pensión.
 
 Si el trabajador falleciere sin tener derecho a las pensiones mencionadas al principio de este artículo, el Instituto entregará el importe de la global a los beneficiario (sic) que aquél hubiere designado, y la falta de designación, a sus derechos legítimos.
 
@@ -985,6 +1217,10 @@ I.- La Junta Directiva, y
 
 II.- El Director General.
 
+> <small>(ADICIONADA, B.O. 11 DE ENERO DE 1982)</small>
+
+III.- La Comisión Ejecutiva del Fondo de la Vivienda.
+
 ###### Artículo 98.
 
 La Junta Directiva se compondrá de siete miembros: El primero designado directamente por el Gobernador del Estado con el cargo expreso de Director General del Instituto; tres nombrados por los poderes Ejecutivo, Legislativo y Judicial, uno por cada poder; y, los otros tres designados por la Federación de Sindicatos de Trabajadores al Servicio del Estado y Municipios de Sonora, en la inteligencia de que dos de ellos como máximo pertenecerán al Magisterio. El Director General fungirá como presidente de la Junta.
@@ -1045,7 +1281,27 @@ X.- Conceder licencias a los Consejeros;
 
 XI.- Proponer al Ejecutivo del Estado los proyectos de reforma a esta ley;
 
-XII.- En general, realizar todos aquellos actos y operaciones autorizados por esta ley y los que fuesen necesarios para la mejor administración o gobierno del Instituto y prestación de sus servicios, incluyendo, en su caso, el establecimiento de delegaciones o agencias del propio Instituto en otros lugares del Estado.
+> <small>(REFORMADA, B.O. 11 DE ENERO DE 1982)</small>
+
+XII.- En relación con el Fondo de la Vivienda:
+
+A).- Examinar y en su caso aprobar dentro de los últimos tres meses del año, el Presupuesto del Ingresos y Egresos y los planes de labores y de financiamientos del Fondo para el siguiente año;
+
+B).- Examinar y en su caso aprobar, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio y el informe de actividades de la Comisión Ejecutiva del Fondo;
+
+C).- Establecer las reglas para el otorgamiento de créditos y para la operación de los depósitos relacionados con el Fondo;
+
+D).- Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 5% de los recursos totales que maneje;
+
+E).- Determinar las reservas que deban constituirse para asegurar la operación del fondo y el cumplimiento de los demás fines y obligaciones del mismo. Estas reservas deberán invertirse en valores de máxima rentabilidad.
+
+F).- Vigilar que los créditos y los financiamientos que se otorguen, se destinen a los fines para los que fueron concedidos; y
+
+G).- Las demás necesarias para el cumplimiento de los fines del fondo; y
+
+> <small>(ADICIONADA, B.O. 11 DE ENERO DE 1982)</small>
+
+XIII.- En general, realizar todos aquellos actos y operaciones autorizados por esta Ley y los que fueses (sic) necesarios para la mejor administración o gobierno del Instituto y prestación de sus servicios, incluyendo en su caso, el establecimiento de delegaciones o agencias del propio Instituto en otros lugares del Estado.
 
 ###### Artículo 105.
 
@@ -1106,6 +1362,56 @@ Cuando el Director falte temporalmente al desempeño de sus funciones, el Gobern
 ###### Artículo 111.
 
 El Director General será auxiliado en sus funciones por los Sub-Directores que nombre la Junta Directiva del Instituto a propuesta del Director y quienes deberán reunir los requisitos exigidos por el artículo 102 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-A.
+
+Los integrantes de la Comisión Ejecutiva, representantes de las Organizaciones Sindicales, durarán en sus funciones tres años, pero podrán ser removidos libremente a petición de quienes los hayan propuesto.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-B.
+
+La Comisión Ejecutiva sesionará con la frecuencia que requiera la atención oportuna de los asuntos de su competencia, a propuesta de su presidente.
+
+Las sesiones serán válidas con la asistencia de por lo menos cuatro de sus miembros, de los cuales uno será el Presidente y dos representantes de las Entidades Públicas a que se refiere el Artículo 111-D.
+
+Las decisiones se tomarán por mayoría de los presentes y en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-C.
+
+El Organo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, para la operación del Fondo de la Vivienda, será la Comisión Ejecutiva, la cual tendrá las atribuciones y funciones siguientes:
+
+I.- Decidir a propuesta de su Presidente, las inversiones de los recursos y los financiamientos del Fondo;
+
+II.- Resolver sobre las operaciones del Fondo, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta Directiva, la que deberá resolver lo conducente dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
+
+III.- Examinar y en su caso, aprobar la presentación a la Junta Directiva de los Presupuestos de Ingresos y Egresos, los planes de labores y de financiamiento, así como los estados financieros y el informe de actividades formulado por el Vocal Ejecutivo;
+
+IV. Presentar a la Junta Directiva para su aprobación, en su caso, el Presupuesto de gastos de administración, operación y vigilancia del Fondo;
+
+V.- Proponer a la Junta Directiva las reglas para el otorgamiento de créditos, así como para la operación de los Depósitos a que se refiere esta Ley; y
+
+VI.- Las demás que señale la Junta Directiva.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-D.
+
+La Comisión Ejecutiva del Fondo, estará integrada por siete miembros, uno de los cuales será el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, que tendrá el carácter de Presidente, por el Secretario de Programación y Presupuesto, por el Tesorero General del Estado, por el Secretario de Desarrollo Urbano y Rural, por dos representantes designados por la Sección 54 del Sindicato Nacional de Trabajadores de la Educación y por un representante designado por el Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Sonora. Por cada miembro propietario se designará un suplente.
+
+Los integrantes de la Comisión Ejecutiva excepto por lo que hace su Presidente, no podrán ser miembros de la Junta Directiva ni tener otro cargo dentro del Instituto.
+
+Los integrantes de la Comisión Ejecutiva deberán ser mexicanos por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
+
+> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+
+###### Artículo 111-E.
+
+Para la atención de las labores Administrativas propias del funcionamiento del Fondo, el Presidente de la Comisión Ejecutiva designará un auxiliar que se denominará Vocal Ejecutivo de la Comisión.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
@@ -1398,3 +1704,13 @@ Esta Ley entrará en vigor tres días después de su publicación en el Boletín
 B.O. 19 DE MARZO DE 1975.
 
 UNICO.- Esta ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Las aportaciones a que se refiere la fracción I del Artículo 50-B, empezarán a pagarse a partir del mes del enero de 1982.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Gobierno del Estado.
