@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1995-05-12"
+last_updated: "1995-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 1995.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -62,9 +62,9 @@ VII.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y
 
 VIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-IX.- Las líneas telefónicas instaladas y las que se instalen dentro de la zona fronteriza de cien kilómetros o de la faja de cincuenta kilómetros a lo largo de las costas, así como las que estén situadas dentro de los límites de un Estado, siempre que conecten con las redes de otro Estado o con las líneas generales de concesión federal o de países extranjeros, o bien cuando sean auxiliares de otras vías generales de comunicación o de explotaciones industriales, agrícolas, mineras, comerciales, etcétera, que operen con permiso, contrato o concesión de la Federación.
+IX.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
-X.- Las líneas conductoras eléctricas y el medio en que se propagan las ondas electromagnéticas, cuando se utilizan para verificar comunicaciones de signos, señales, escritos, imágenes o sonidos de cualquier naturaleza; y
+X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 XI.- Las rutas del servicio postal.
 
@@ -172,7 +172,7 @@ II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O
 
 III.- Las estaciones radiodifusoras culturales, las de experimentación científica y las de aficionados;
 
-IV.- Las instalaciones de comunicaciones eléctricas destinadas a servicios especiales;
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 V.- Las embarcaciones que presten servicio público de cabotaje o de navegación interior. Cuando por su importancia sea conveniente el otorgamiento de concesiones, a juicio de la Secretaría de Comunicaciones, se dará preferencia a los permisionarios que desempeñen el servicio;
 
@@ -192,13 +192,9 @@ El Gobierno Federal tendrá facultad para construir o establecer vías generales
 
 La prestación de los servicios públicos de telégrafos, radiotelegráficos y de correos, queda reservada exclusivamente al Gobierno Federal o a los organismos descentralizados que se establezcan para dicho fin.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)</small>
 
-También quedan reservados en forma exclusiva al Gobierno Federal, el establecimiento de los sistemas de satélites, su operación y control, la prestación del servicio público de conducción de señales por satélite; así como las estaciones terrenas con enlaces internacionales para comunicación vía satélite.
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
-
-La Secretaría de Comunicaciones y Transportes establecerá, de acuerdo a esta Ley y sus Reglamentos, las bases conforme a las cuales se llevará a cabo la instalación, operación y control de estaciones terrenas.
+> <small>(DEROGADO TERCER PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 12.
 
@@ -858,9 +854,7 @@ Las notificaciones que hayan de hacerse a empresas que no tengan apoderado o del
 
 ###### ARTICULO 106.
 
-Las empresas telefónicas, ferrocarrileras y en general las que tengan líneas telegráficas o telefónicas, como servicios auxiliares, estarán obligadas a permitir la instalación gratuita en sus postes y ductos hasta de cuatro conductores o de dos cables de la red nacional, teniendo, además, la obligación de conservarlos en las mismas condiciones que los de su propiedad.
-
-Será por cuenta del Gobierno Federal el costo de los materiales necesarios, tanto para la instalación como para su conservación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 107.
 
@@ -2228,19 +2222,19 @@ III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.
 
 ###### ARTICULO 374.
 
-Las concesiones para comunicaciones eléctricas se otorgarán por el plazo que señale la Secretaría de Comunicaciones, el cual no excederá de cincuenta años. El plazo de las concesiones para comunicaciones eléctricas que sean accesorias de otras vías generales de comunicación será el mismo que el de éstas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 375.
 
-En ningún caso se autorizará la construcción o establecimiento de instalaciones de comunicaciones telegráficas o radiotelegráficas destinadas a explotar servicio público en los lugares en que la Red Nacional tenga sus instalaciones y realice dichos servicios, ya sea directamente o por medio de instalaciones que le estén incorporadas. La Secretaría de Comunicaciones y Obras Públicas podrá celebrar contratos u otorgar concesiones para la transmisión y recepción radiotelegráfica de informaciones internacionales destinadas a fines de publicidad, siempre que se trate de empresas mexicanas de noticias en las que el Gobierno Federal tenga una participación directa y que dichas empresas cubran a la Dirección General de Correos y Telégrafos una participación que se fijará en los contratos respectivos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 376.
 
-Los permisos para las instalaciones eléctricas de servicios especiales, así como para estaciones de radioexperimentación científica, culturales y de aficionados, se otorgarán por plazo indefinido y serán revocables en cualquier tiempo, a juicio de la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 377.
 
-Queda prohibido transmitir noticias o mensajes cuyo texto sea contrario a la seguridad del Estado, a la concordia internacional, a la paz, del orden público, a las buenas costumbres, a las leyes del país y a la decencia del lenguaje; o que perjudiquen los intereses culturales o económicos de la Nación, causen escándalo o ataquen en cualquier forma al Gobierno constituido, a la vida privada o que tengan por objeto la comisión de algún delito u obstruccionen la acción de la Justicia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 378.
 
@@ -2304,45 +2298,9 @@ La Secretaría de Comunicaciones podrá ordenar que sean modificadas en su altur
 
 El Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones y Transportes, queda facultado para determinar las tarifas que deben regir en materia de comunicaciones eléctricas de la red nacional.
 
-> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 1944)</small>
-
 ###### ARTICULO 390.
 
-Tendrán franquicia en la Red Nacional:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-I.- Los mensajes oficiales de los funcionarios y empleados de los Poderes Legislativo y Judicial de la Federación con las restricciones que establezca el reglamento;
-
-II.- Los mensajes de las autoridades judiciales de los Estados que actúen en auxilio de la justicia federal, en los casos previstos en el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal;
-
-III.- Las comunicaciones de cualquiera autoridad, relacionadas con la seguridad o defensa del territorio nacional, la conservación del orden, o cualquiera calamidad pública;
-
-IV.- Los mensajes que dirijan los funcionarios y empleados de los Gobiernos de los Estados y Municipios sobre asuntos oficiales de la Federación;
-
-V.- Los particulares, en los casos que prevé el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal;
-
-VI.- Los jefes de las embarcaciones y aeronaves que soliciten auxilio o quienes firmen a nombre de ellos;
-
-VII.- El Observatorio Meteorológico Nacional y sus estaciones, tratándose de correspondencias del servicio meteorológico, bien sea interior o internacional;
-
-VIII.- El Instituto Geológico y sus dependencias, en mensajes del servicio sismológico;
-
-IX.- Causarán el veinticinco por ciento de la tarifa ordinaria:
-
-> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1945)</small>
-
-a).- Los mensajes de aquellas Universidades que, a juicio de la Secretaría de Comunicaciones, desarrollen preferentemente labores culturales y científicas.
-
-b).- Los mensajes de los presidentes de las Comisiones Agrarias Mixtas.
-
-c).- Los mensajes de las instituciones de crédito, en las que el Gobierno Federal sea accionista mayoritario, exceptuándose de la franquicia los giros telegráficos.
-
-X.- Pagarán el cincuenta por ciento de la tarifa en asuntos oficiales, los funcionarios y empleados de los Estados y Municipios, en los mensajes oficiales que se cambien entre sí, con los particulares o con las dependencias federales, cuando ventilen asuntos oficiales de carácter legal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
-
-La Federación estará obligada a pagar los derechos que correspondan en materia de comunicación eléctrica de la red nacional, salvo en los casos de franquicias señalados en esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 391.
 
@@ -2352,67 +2310,51 @@ Las formas y sobres adoptados para la correspondencia que se curse por las comun
 
 ###### ARTICULO 392.
 
-Son instalaciones incorporadas a la Red Nacional las que se establezcan a solicitud y por cuenta de particulares, sociedades, ayuntamientos o Gobiernos de los Estados, para funcionar en conexión con dicha Red, bajo la misma administración que ésta y abiertos al servicio público.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 393.
 
-Para el establecimiento de las instalaciones a que se refiere el artículo anterior, la Secretaría de Comunicaciones celebrará contratos en las condiciones que estime convenientes, observando, además, las siguientes bases:
-
-I.- Serán por cuenta del interesado todos los elementos necesarios para el establecimiento de la instalación y sus dependencias, así como los sueldos del personal y gastos de mantenimiento;
-
-II.- Desde el momento de su establecimiento, las instalaciones, aparatos, maquinaria, accesorios y, en general, todo lo que integre los equipos, pasarán a ser propiedad de la Nación;
-
-III.- El déficit que resulte entre los gastos de conservación, sueldos de personal, refacciones para el equipo y la recaudación por concepto de mensajes transmitidos a puntos comunicados por la Red Nacional, así como la correspondiente a tasas federales en los servicios conexos, será pagado por el interesado. En los casos en que después de deducidos todos los gastos resultare algún remanente, éste quedará a beneficio del Erario Federal;
-
-IV.- La Secretaría de Comunicaciones fijará los horarios y tarifas para el servicio y designará el personal correspondiente;
-
-V.- En los casos de instalaciones telegrafónicas para servicios privados, los interesados pagarán como derechos las cuotas que señale la Secretaría de Comunicaciones y Obras Públicas, según la categoría del lugar en que se instale el equipo, la importancia de la instalación y el uso a que se destine, y
-
-VI.- Para garantizar el importe de los mensajes transmitidos y de los servicios conexos que no tengan como destino final el lugar de adscripción, tratándose de oficinas telegrafónicas, el interesado constituirá un deposito en efectivo, cuyo monto fijará la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ### CAPITULO IV. Instalaciones telefónicas
 
 ###### ARTICULO 394.
 
-El servicio telefónico solamente podrá hacerse en forma de conferencias o conversaciones directas. Queda prohibido, por consiguiente, usarlo para el servicio de telefonemas, despachos escritos o para la transmisión de reportazgos de prensa destinados a la publicidad, salvo entre lugares no comunicados ente sí por la Red Nacional o en conexión con dicha Red. Se exceptúa de la prohibición anterior el servicio de telefonemas o despachos escritos proporcionado por las instalaciones para servicios especiales, que se rige por el capítulo siguiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 395.
 
-Los permisos para cruzar la línea divisoria con un país extranjero por líneas telefónicas destinadas a uso privado, se otorgarán mediante el pago de la cuota anual que determinará, en cada caso, la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 396.
 
-En los casos en que se suspenda el servicio telefónico por un tiempo mayor de tres días consecutivos, se abonará a los usuarios la parte de la cuota correspondiente al tiempo que dure la interrupción, aun cuando ésta se deba a caso fortuito o de fuerza mayor, sin perjuicio de la sanción administrativa a que hubiere lugar. El contenido de este artículo se insertará en los contratos que el concesionario celebre con los usuarios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 397.
 
-Los concesionarios sólo podrán suspender los servicios telefónicos a los suscriptores en los casos de falta de pago o por cualquiera otra falta de cumplimiento a los contratos de prestación de servicio. En todo caso, el texto de los propios contratos se sujetará a las disposiciones de esta Ley y sus Reglamentos y deberá ser aprobado por la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 398.
 
-Los concesionarios y permisionarios de instalaciones telefónicas están obligados a transmitir gratuitamente los mensajes relacionados con las interrupciones de la Red Nacional por causas de fuerza mayor o casos fortuitos.
-
-> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1988)</small>
-
-Se equiparán a los bienes del dominio público de la Federación los bienes inmuebles que tengan instalaciones destinadas de manera directa a la operación del servicio público telefónico, propiedad de entidades paraestatales de la Administración Pública Federal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 399.
 
-Se exceptúan de lo estipulado en el artículo 61 de esta Ley, las cuotas para servicios telefónicos en los casos de tarifas decrecientes en relación con la distancia, que previamente hayan sido aprobadas por la Secretaría de Comunicaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ### CAPITULO V. Instalaciones para servicios especiales
 
 ###### ARTICULO 400.
 
-Son instalaciones de comunicaciones eléctricas destinadas a servicios especiales, las que sean auxiliares de las vías generales de comunicación o de explotaciones industriales, agrícolas, mineras, comerciales, etc., que operen con permiso o contrato de la Federación. De las existentes y de las que en lo sucesivo se establezcan se dará conocimiento a la Secretaría de la Defensa Nacional. Se exceptúan de las instalaciones para servicios especiales las estaciones radiotelegráficas fijas o terrestres, las que solamente podrán funcionar como incorporadas a la Red Nacional.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 401.
 
-Las instalaciones de comunicaciones eléctricas destinadas a servicios especiales, serán utilizadas exclusivamente para la correspondencia interior de dichos servicios. Los permisionarios de estas instalaciones estarán obligados a dar servicio al público entre puntos que no estén comunicados entre sí por la Red Nacional o en conexión con dicha Red. En estos casos será necesario autorización expresa de la Secretaría de Comunicaciones, la que impondrá las restricciones especiales que juzgue convenientes, y tendrá facultad para revocar dicha autorización en cualquier tiempo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 402.
 
-Las instalaciones de comunicaciones eléctricas para servicios especiales, pagarán la cuota que determine la Secretaría de Comunicaciones, en cada caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 > <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION, D.O.F. 19 DE ENERO DE 1960)</small>
 
@@ -3256,7 +3198,7 @@ Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
@@ -3336,7 +3278,7 @@ A los empleados de comunicaciones eléctricas y postales que indebidamente propo
 
 ###### ARTICULO 579.
 
-El que indebidamente utilizare las franquicias postal o telegráfica, cubrirá cinco veces el importe de la cuota correspondiente, y, en caso de reincidencia, si se tratare de un empleado del Gobierno Federal, de los Estados o Municipios, será destituido de su cargo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
 ###### ARTICULO 580.
 
@@ -3805,3 +3747,15 @@ PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación
 SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370; 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás disposiciones que se opongan a la presente Ley.
 
 Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando mientras se expiden los nuevos reglamentos, salvo en lo que se opongan a la presente Ley.
+
+D.O.F. 7 DE JUNIO DE 1995.
+
+LEY FEDERAL DE TELECOMUNICACIONES.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por lo que hace a las fracciones III del apartado B y IV del apartado C del artículo 71, las cuales entrarán en vigor 180 días naturales después del inicio de vigencia de esta Ley.
+
+SEGUNDO. Se derogan:
+
+I. Las fracciones IX y X del artículo 1o.; la fracción IV del artículo 9o.; los párrafos segundo y tercero del artículo 11o.; 106; y los artículos 374 a 377; 390; 392 a 402 y 579; de la Ley de Vías Generales de Comunicación;
