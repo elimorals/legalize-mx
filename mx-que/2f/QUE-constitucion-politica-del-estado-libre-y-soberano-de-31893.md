@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1932-12-29"
+last_updated: "1933-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1932.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 1933.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -763,11 +763,11 @@ IV.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión 
 
 V.- Tener antecedentes intachables de moralidad.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1933)</small>
 
 ###### Art. 107.
 
-Será Presidente del Tribunal el Magistrado Propietario y fungirá como tal por todo el periodo de su encargo, debiendo ser oído el parecer del C. Procurador en la designación de jueces de Primera Instancia, Municipales, y demás empleados de la Administración de Justicia.
+Será Presidente del Tribunal Superior de Justicia en el Estado, el Magistrado Propietario que resulte electo para ese cargo, por la Legislatura de esta Entidad, o en defecto de ésta por la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1932)</small>
 
@@ -1499,7 +1499,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1576,3 +1576,7 @@ Estas reformas entrarán en vigor con fecha 1º. de enero de 1933. La H. Legisla
 ###### ARTICULO 2°.
 
 Todo el personal que integra la Administración de Justicia en el Estado, a excepción de los Magistrados actuales continuarán fungiendo con carácter interino, debiendo el Tribunal Superior de Justicia en uso de las facultades que le confiere el artículo 110 reformado de la Constitución, hacer las designaciones de los Jueces dentro de un término de dos meses y de los Secretarios y empleados del Poder Judicial dentro del mismo término, en uso de sus facultades que al propio Tribunal confiere la Ley Orgánica del Poder Judicial.
+
+P.O. 9 DE MARZO DE 1933
+
+N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
