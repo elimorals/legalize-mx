@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1984-10-20"
+last_updated: "1985-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1985.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -89,13 +89,15 @@ Igual protección asume respecto de los derechos fundamentales que, en ejercicio
 
 10.- Todos los habitantes del Estado, tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1985)</small>
+
 11.- El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades.
 
-Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección.
+Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección y a ser inscritos en el Registro Civil.
 
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
 
-Toda medida o disposición protectoras de la familia y la niñez se considerarán de orden público.
+Toda medida o disposición protectoras de las familias y la niñez se consideran de orden público.
 
 12.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación descansará en los principios señalados en dicho precepto y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 
@@ -139,11 +141,21 @@ I.- Cumplir con los preceptos de esta Constitución, los de las leyes, reglament
 
 II.- Contribuir a los gastos públicos del Estado y del Municipio en que residan, en la forma proporcional y equitativa que dispongan las leyes;
 
-III.- Tener un modo honesto de vivir;
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1985)</small>
 
-IV.- Dar auxilio a las autoridades en los casos de urgencia; y
+III.- Inscribir en el Registro Civil, los actos constitutivos o modificativos del estado civil;
 
-V.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las instituciones, leyes y autoridades del Estado; sujetarse a los fallos y sentencias de los tribunales, sin poder invocar o intentar otros recursos que los que se conceden a todos los mexicanos.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1985)</small>
+
+IV.- Tener un modo honesto de vivir;
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 1985)</small>
+
+V.- Dar auxilio a las autoridades en los casos de urgencia, y
+
+> <small>(ADICIONADA, B.O. 20 DE MAYO DE 1985)</small>
+
+VI.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado, sujetarse a los fallos y sentencias de los Tribunales sin poder invocar o intentar otros recursos, que los que se conceden a todos los mexicanos.
 
 ### CAPITULO II. DE LOS SUDCALIFORNIANOS
 
@@ -447,7 +459,7 @@ XX.- Elegir la Diputación Permanente;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
-XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado.
+XXI.- Otorgar o negar su aprobación a los nombramientos, renuncias y remociones de Magistrados del Tribunal Superior de Justicia, que le someta el Gobernador del Estado;
 
 XXII.- Legislar en todo lo relativo a la administración pública;
 
@@ -1656,6 +1668,12 @@ DECRETO NUMERO 467.
 EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 B.O. 20 DE OCTUBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MAYO DE 1985.
 
 ###### ARTICULO UNICO.
 
