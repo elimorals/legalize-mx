@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-de-cultura-de-baja-california-2942"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-31"
-last_updated: "1989-03-31"
+last_updated: "2003-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 31 de marzo de 1989.
 
@@ -179,7 +179,9 @@ XVIII. Promover, coordinar y en su caso, realizar actos de reconocimiento a todo
 
 XIX. Convocar concursos literarios, a las Bienales de Artes Visuales, concursos de audiciones musicales, festivales de teatro y danza, encuentros de investigadores, promotores, artistas, periodistas, escritores y trabajadores de la cultura en general, para cumplir con el objeto de alentar la participación plural y democrática de los Bajacalifornianos en esta actividades.
 
-XX. Fomentar y llevar a cabo programas especiales tendientes a incorporar a los niños y a los jóvenes en la iniciación de las actividades artísticas y creativas, en coordinación con instituciones, sindicatos, sociedades y asociaciones civiles afines.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XX. Fomentar y llevar a cabo programas especiales tendientes a incorporar a los niños, los jóvenes y personas con discapacidad en la iniciación de actividades artísticas y creativas, en coordinación con instituciones, sindicatos, sociedades y asociaciones civiles afines.
 
 XXI. Coordinar y sumar sus esfuerzos con las iniciativas de las comunidades locales, así como, con las de todo grupo de ciudadanos Bajacalifornianos, interesados en contribuir al desarrollo intelectual de los habitantes de la Entidad.
 
@@ -194,6 +196,10 @@ XXV. Establecer programas específicos para las diferentes étnias de la entidad
 XXVI. Promover y fomentar el conocimiento del Himno Nacional y de los Símbolos Patrios, así como las fechas en que se conmemoran importantes eventos cívicos en el Estado y Nacionales; y
 
 XXVII. Usar, administrar y conservar los bienes muebles e inmuebles destinados al cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XXVIII.- Promover y Fomentar la adquisición de material didáctico y de lectura para personas con discapacidad en centros culturales y bibliotecas.
 
 ###### ARTICULO 11o.
 
@@ -220,6 +226,10 @@ IX. Otorgamiento de diplomas académicos de educación artística;
 X. Coordinarse con el Instituto Nacional de Bellas Artes y Literatura, para el desarrollo de programas conjuntos y de cumplimiento de los convenios establecidos y
 
 XI. Supervisión del mantenimiento y conservación de los edificios, donde se albergan talleres, así como de equipos, instrumentos, herramientas y libros y mantener actualización de inventarios.
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XII.- Creación, formación y promoción de talleres de disciplinas artísticas para personas con discapacidad.
 
 ###### ARTICULO 12o.
 
@@ -265,7 +275,13 @@ IX. Llevar a cabo la distribución y venta de obras artísticas, productos artes
 
 X. Promover en coordinación con los H. Ayuntamientos y las Delegaciones, la integración de Consejos Municipales de Cultura, cuya organización y funciones fortalezcan la desconcentración Cultural y el aprovechamiento integral, de los recursos disponibles en las comunidades del interior del Estado.
 
-XI. En general, todas aquellas atribuciones y funciones necesarias para el cumplimiento de los objetivos, las facultades y responsabilidades que le otorga esta Ley, así como las que le confieren otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XI.- Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes y adultos discapacitados, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2003)</small>
+
+XII. En general todas aquellas atribuciones y funciones necesarias para el cumplimiento de los objetivos, las facultades y responsabilidades que le otorga esta Ley, así como las que le confieren otras disposiciones legales aplicables.
 
 ###### ARTICULO 14o.
 
@@ -674,3 +690,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. ARTURO GUERRA FLORES.
 
 ( Rúbrica )
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JUNIO DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
