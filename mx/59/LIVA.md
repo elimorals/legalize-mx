@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2002-02-12"
+last_updated: "2002-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
-ULTIMA MODIFICACION MISCELANEA FISCAL EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2002.
+ULTIMA MODIFICACION MISCELANEA FISCAL EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -204,7 +204,7 @@ Los actos o actividades a los que se les aplica la tasa del 0%, producirán los 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997) (REFORMADO PRIMER PARRAFO, EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 12 DE FEBRERO DE 2002)
+(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997) (REFORMADO PRIMER PARRAFO, EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 5 DE JULIO DE 2002)
 
 ###### ARTICULO 2o-C.
 
@@ -1815,6 +1815,10 @@ Unico. La presente Resolución entrará en vigor el día siguiente al de su publ
 D.O.F. 12 DE FEBRERO DE 2002.
 
 Unico.- La presente Resolución entrara en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE JULIO DE 2002.
+
+Primero. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
