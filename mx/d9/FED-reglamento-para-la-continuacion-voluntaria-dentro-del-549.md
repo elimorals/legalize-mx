@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-continuacion-voluntaria-dentro-del-549"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-11-04"
-last_updated: "1975-11-04"
+last_updated: "1982-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=549&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-10-23"
 
 REGLAMENTO PARA LA CONTINUACION VOLUNTARIA DENTRO DEL REGIMEN DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 1982.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 4 de noviembre de 1975.
 
@@ -41,13 +41,23 @@ Que estos motivos hacen necesario establecer la posibilidad de incorporarse al r
 
 REGLAMENTO PARA LA CONTINUACION VOLUNTARIA DENTRO DEL REGIMEN DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1982)</small>
+
 ###### ARTICULO 1o.
 
-El trabajador que deje de estar sujeto a una relación laboral en los términos del artículo 41 de la Ley del Instituto y por quien el patrón o los patrones respectivos hayan hecho aportaciones, tendrán derecho a optar por la entrega de sus depósitos o por la continuación de sus derechos y obligaciones con el Instituto.
+Los trabajadores que tengan cincuenta años cumplidos o más de edad y que dejen de estar sujetos a una relación laboral en los términos del artículo 41 de la Ley del Instituto y por quienes el patrón o los patrones respectivos hayan hecho aportaciones, tendrán derecho a optar por la entrega de sus depósitos o por la continuación voluntaria de sus derechos y obligaciones con el Instituto.
+
+Los trabajadores que no reúnan el requisito de la edad tendrán derecho a:
+
+a) La devolución de sus depósitos a partir de que cumplan 50 años previa comprobación de que han dejado de estar sujetos a una relación laboral conforme a lo previsto en el artículo 41 de la Ley del Instituto y no se encuentran inscritos en el régimen de continuación voluntaria.
+
+b) Continuar voluntariamente dentro del régimen del Instituto cuando se llenen los requisitos establecidos en este reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MARZO DE 1982)</small>
 
 ###### ARTICULO 2o.
 
-Los trabajadores jubilados por quienes el patrón o los patrones respectivos hayan hecho aportaciones, tendrán derecho a la misma opción señalada en el artículo anterior de este reglamento.
+Los trabajadores jubilados por quienes el patrón o patrones hayan hecho aportaciones, tendrán derecho a optar por la devolución de sus depósitos y de la cantidad adicional a que se refiere el artículo 40 de la Ley del Instituto, o por la continuación de la vigencia de sus derechos y obligaciones con el Instituto.
 
 Para los efectos de este reglamento se entiende por trabajador jubilado:
 
@@ -75,13 +85,19 @@ La solicitud deberá contener los siguientes datos:
 
 I.- Nombre completo del solicitante;
 
-II.- Número de inscripción en el Instituto;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1982)</small>
+
+II.- Registro Federal de Contribuyentes del Trabajador;
 
 III.- Domicilio actual del solicitante;
 
-IV.- Nombre y domicilio del último patrón al que prestó sus servicios, así como el número de Registro Federal de Causantes del propio patrón;
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1982)</small>
 
-V.- Relación de salarios percibidos por el trabajador durante los últimos seis meses en que prestó sus servicios; y tratándose de los jubilados, el monto y periodicidad de la pensión que reciban, en caso de que no opten por pagar sus aportaciones con base en el salario promedio que hubiese percibido durante los últimos seis meses en que prestaron servicios;
+IV.- Nombre y domicilio del patrón al que prestó sus servicios, así como el número de registro federal de contribuyentes, y el número de expediente del Instituto del Fondo Nacional de la Vivienda para los trabajadores del propio patrón;
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1982)</small>
+
+V.- Relación del salario integrado, en los términos del artículo 143 de la Ley Federal del Trabajo, del trabajador en los últimos seis meses en que prestó sus servicios; y tratándose de los jubilados, el monto y periodicidad de la pensión que reciban, en caso de que no opten por pagar sus aportaciones con base en su salario integrado promedio de los últimos seis meses en que prestaron servicios;
 
 VI.- Fecha en que se formula;
 
@@ -113,21 +129,27 @@ IV.- Lo demás que considere conveniente el Instituto del Fondo Nacional de la V
 
 En el caso de los jubilados se notificará por correo certificado con acuse de recibo, copia de la resolución a los patrones o instituciones que hayan concedido y paguen el importe de la jubilación, para que procedan en los términos del artículo 61 de la Ley del Instituto.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1982)</small>
+
 ###### ARTICULO 8o.
 
-Las personas sujetas a la continuación voluntaria del régimen deberán efectuar el pago de sus aportaciones y abonos bimestralmente en los plazos y por conducto de las oficinas previstas en la Ley del Instituto. Igual obligación tendrán las Instituciones o patrones que paguen las pensiones en el caso de jubilados.
+Las personas sujetas a la continuación voluntaria e régimen deberán efectuar el pago de sus aportaciones, abonos al crédito y, en su caso, cuota del 1% para administración, operación y mantenimiento del conjunto de que se trate, por conducto de las oficinas previstas en la Ley del Instituto.
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1982)</small>
 
 ###### ARTICULO 9o.
 
-El entero de las aportaciones y abonos o descuentos de los trabajadores sujetos al régimen voluntario, se hará por los interesados o en el caso de jubilados por las instituciones o patrones que les paguen las pensiones, utilizando las formas que autoricen la Secretaría de Hacienda y Crédito Público y el Instituto. Dichas dependencias recabarán el parecer del Instituto Mexicano del Seguro Social en lo que se refiere a las formas destinadas específicamente al cumplimiento de las obligaciones que se generen a cargo de dicho Instituto por aplicación del artículo 61 del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+El entero de las aportaciones, abonos y cuotas de mantenimiento, en su caso, de los trabajadores sujetos al régimen voluntario se hará por los interesados utilizando las formas que autoricen la Secretaría de Hacienda y Crédito Público y el Instituto.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MARZO DE 1982)</small>
 
 ###### ARTICULO 10o.
 
-Para el pago de las aportaciones, otorgamiento y amortización de créditos se tomará como base:
+Para el pago de las aportaciones, cuotas de mantenimiento, otorgamiento y amortización de créditos se tomará como base:
 
-I.- El salario ordinario en efectivo por cuota diaria que hubiese percibido en promedio el trabajador durante los últimos seis meses en que prestó servicios.
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1982)</small>
 
-Cuando el trabajador haya prestado servicios a dos o más patrones, el promedio será de la suma de los salarios percibidos;
+I.- El salario integrado en los términos del artículo 143 de la Ley Federal del Trabajo que hubiese percibido en promedio el trabajador durante los últimos seis meses en que prestó servicios;
 
 II.- En el caso de los jubilados la base será, a juicio de éstos, el salario promedio señalado en la anterior fracción o el monto de la pensión en efectivo que disfruten como jubilados.
 
@@ -147,15 +169,17 @@ III.- Porque se dejen de constituir los depósitos durante un período de seis m
 
 IV.- Por fallecimiento del interesado.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1982)</small>
+
 ###### ARTICULO 12o.
 
-Cuando los interesados dején de estar sujetos a la continuación voluntaria en el régimen del Instituto ellos o sus beneficiarios tendrán derecho a la entrega de sus depósitos en los términos de la Ley Federal del Trabajo, Ley del INFONAVIT y sus reglamentos.
+Cuando los interesados dejen de estar sujetos a la continuación voluntaria en el régimen del Instituto, ellos o sus beneficiarios tendrán derecho a la entrega de sus depósitos y a la cantidad adicional, cuando así proceda, en los términos de la Ley Federal del Trabajo y de la Ley del Instituto del Fondo Nacional de la Vivienda para los trabajadores y sus reglamentos.
 
-Las personas sujetas al régimen de continuación voluntaria mientras permanezcan sujetas a dicho régimen tendrán derechos a se les haga entrega periódica del saldo de sus depósitos, en los términos de la Ley Federal del Trabajo.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1982)</small>
 
 ###### ARTICULO 13o.
 
-Cuando un trabajador deje de ser sujeto del régimen del Instituto y hubiera recibido un crédito del mismo podrán variarse las condiciones de amortización de dicho crédito en los términos del contrato respectivo, siempre y cuando no sea en perjuicio del trabajador.
+Cuando un trabajador deje de ser sujeto del régimen del Instituto y hubiera recibido un crédito del mismo, podrán variarse las condiciones de amortización de dicho crédito en los términos del contrato respectivo, siempre y cuando no sea en perjuicio del trabajador y conforme a las previsiones del instructivo correspondiente.
 
 ###### ARTICULO 14o.
 
@@ -184,3 +208,11 @@ SEGUNDO.- Las solicitudes de continuación voluntaria presentadas en el Institut
 TERCERO.- A los trabajadores que con anterioridad a la fecha en que entre en vigor este Reglamento hayan dejado de prestar servicios a un patrón y hubiesen salido beneficiados con la asignación de un crédito, se les aplicarán las reglas correspondientes señaladas en el reglamento cuando hayan presentado solicitud de continuación voluntaria en los términos del artículo anterior.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de octubre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Mario Ramón Beteta.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Carlos Gálvez Betancourt.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE MARZO DE 1982.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los trabajadores inscritos en el régimen de continuación voluntaria con anterioridad a la entrada en vigor de la (sic) reformas y adiciones a la Ley Federal del Trabajo y a la Ley del INFONAVIT publicadas en el Diario Oficial de la Federación el día 7 de enero de 1982, deberán de enterar directamente al Instituto, en los términos del Reglamento correspondiente, el 1% sobre la cantidad que sirva de base para el cálculo de la aportación voluntaria para la administración, operación y mantenimiento de los conjuntos habitacionales.
