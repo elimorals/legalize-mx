@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1937-05-12"
+last_updated: "1942-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1942.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -181,11 +181,11 @@ El censo electoral se levantará cada cuatro años y precisamente en el que corr
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE1928)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
 ###### Art. 46.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de un número no menor de ocho CC. Diputados, electos cada dos años por los Distritos Electorales. Por cada Distrito Electoral se nombrará un Diputado Propietario y un Suplente; y cuando el Censo del Estado pase de cuatrocientos mil habitantes, se nombrará por cada exceso de cuarenta mil, o fracción mayor de veinte mil, un Diputado Propietario y el Suplente respectivo.
+Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de nueve diputados, electos cada tres años, proporcionalmente al número de habitantes - Cuando el censo del Estado pase de ochocientos mil habitantes; el Congreso tendrá cuando menos once diputados.- Los Distritos electorales no podrán tener menos de cuarenta mil; ni más de ciento veinte mil habitantes; y por cada uno de aquellos se elegirán un diputado propietario y un suplente.
 
 ###### Art. 47.
 
@@ -199,29 +199,31 @@ II.- Tener veinticinco años cumplidos el día de la elección; y,
 
 III.- Ser vecino del Estado, con residencia no menor de cinco años inmediatos anteriores a la fecha de la elección.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+
 ###### Art. 48.
 
-No pueden ser Diputados:
+No pueden ser diputados:
 
 I.- El Gobernador del Estado.
 
 II.- El Secretario de Gobierno.
 
-III.- Los Magistrados del Superior Tribunal y el Procurador de Justicia.
+III.- Los Magistrados del Tribunal Superior de Justicia ni el Procurador General de Justicia.
 
 IV.- El Tesorero del Estado.
 
-V.- Los Funcionarios y empleados Federales en el Estado.
+V.- Los funcionarios y empleados federales en el Estado.
 
-VI.- Los Presidentes Municipales por los Distritos en donde ejerzan autoridad.
+VI.- Los Presidentes Municipales, por los Distritos en donde ejercen autoridad; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MAYO DE 1925)</small>
+VII.- Los Jefes Militares con mando de fuerza, sea federal o del Estado.
 
-VII. Los Diputados Propietarios no podrán ser reelectos con tal carácter o con el de Suplentes, por ninguno de los Distritos Electorales del Estado, sino después de dos años de terminadas sus funciones constitucionales. Tampoco podrán serlo los Suplentes, en la forma y términos expresados, cuando hayan fungido durante tres meses o cualquier término durante los últimos seis de la Legislatura a que pertenecieron.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
 ###### Art. 49.
 
-Los comprendidos en el artículo anterior podrán ser electos Diputados, si han cesado absolutamente en sus destinos cuando menos ciento ochenta días antes de la elección.
+Los Diputados propietarios no podrán ser electos para el período inmediato con ese carácter ni con el de suplentes; pero éstos podrán ser electos con el carácter de propietarios para el período inmediato, siempre que no hubiere estado en ejercicio.
 
 ###### Art. 50.
 
@@ -503,9 +505,19 @@ Para que los comprendidos en este artículo puedan ser electos necesitan separar
 
 La elección de Gobernador prefiere a cualquier otro cargo del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+
 ###### Art. 84.
 
-El Gobernador será electo cada cuatro años, tomará posesión de su cargo el día cuatro de octubre y nunca podrá ser reelecto.
+El Gobernador será electo cada seis años y tomará posesión de su cargo el día cuatro de octubre.
+
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+
+No podrán ser electos para el período inmediato.
+
+a.) El Gobernador designado por el Congreso para concluir el período en caso de falta absoluta del constitucional, y
+
+b.) El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, en los últimos tres años de período.
 
 ###### Art. 85.
 
@@ -599,13 +611,17 @@ Cuando el Congreso otorgare al Gobernador licencia para ausentarse del Estado po
 
 Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente en su caso nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los dos primeros años del período respectivo, si el Congreso estuviere reunido, será este Cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador sustituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deben tener verificativo las de Diputados a la Cámara local, siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación Permanente nombrará un Gobernador Interino, convocando inmediatamente a sesiones extraordinarias al Congreso, para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este Cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador Substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a la Cámara Local siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación Permanente nombrará un Gobernador Interino, y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
 ###### Art. 91.
 
-Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de los últimos años del período respectivo, y el Congreso estuviere en sesiones, será éste quien nombre el Gobernador sustituto. y en caso de estar en receso la Diputación Permanente sólo nombrará un Gobernador Interino, convocando al Congreso a sesiones extraordinarias para que éste, por escrutinio secreto y a mayoría absoluta de votos, elija el Gobernador sustituto, pudiendo serlo el Interino.
+Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de los últimos tres años del período respectivo, y el Congreso estuviere en sesiones, será éste quien nombre el Gobernador Substituto; y en caso de estar en receso, la Diputación Permanente sólo nombrará un Gobernador Interino, convocando al Congreso a sesiones extraordinarias para que éste por escrutinio secreto y a mayoría absoluta de votos, elija al Gobernador Substituto, pudiendo serlo el interino.
 
 ###### Art. 92.
 
@@ -801,11 +817,11 @@ V.- Tener un modo honesto de vivir; y
 
 VI.- Saber leer y escribir.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1927)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
 ###### Art. 123.
 
-Los Miembros del Ayuntamiento se renovarán cada dos años, tomando posesión los electos el día primero de enero.
+Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión los electos, el día primero de enero.
 
 ###### Art. 124.
 
@@ -1240,3 +1256,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 12 DE MAYO DE 1937.
 
 UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
+
+P.O. 22 DE JULIO DE 1942.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
