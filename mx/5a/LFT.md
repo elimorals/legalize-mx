@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1982-01-07"
+last_updated: "1982-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 1982.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1490,15 +1490,15 @@ En el procedimiento de revocación, el afectado podrá ofrecer pruebas y alegar 
 
 Los planes y programas de que tratan los artículos 153-N y 153-O, deberán cumplir los siguientes requisitos:
 
-I. Referirse a períodos no mayores de cuatro años;
+I.- Referirse a períodos no mayores de cuatro años;
 
-II. Comprender todos los puestos y niveles existentes en la empresa;
+II.- Comprender todos los puestos y niveles existentes en la empresa;
 
-III. Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
+III.- Precisar las etapas durante las cuales se impartirá la capacitación y el adiestramiento al total de los trabajadores de la empresa;
 
-IV. Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría;
+IV.- Señalar el procedimiento de selección, a través del cual se establecerá el orden en que serán capacitados los trabajadores de un mismo puesto y categoría;
 
-V. Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
+V.- Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
 
 VI.- Aquellos otros que establezcan los criterios generales de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento que se publiquen en el "Diario Oficial" de la Federación.
 
@@ -3022,7 +3022,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -4584,7 +4584,7 @@ II.- Participar en la integración y funcionamiento del respectivo Consejo Consu
 
 III.- Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
 
-IV. Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
+IV.- Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
 
 V.- Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
 
@@ -6214,7 +6214,7 @@ El día quince de mayo del año impar que corresponda, el Secretario del Trabajo
 
 La convocatoria contendrá:
 
-I. El señalamiento de la zonas económicas en que esté dividida la República y el lugar de residencia de las Comisiones Regionales;
+I. El señalamiento de las zonas económicas en que esté dividida la República y el lugar de residencia de las Comisiones Regionales;
 
 II. La determinación del número de representantes que deba elegirse para integrar las Comisiones Nacional y Regionales, de conformidad con lo dispuesto en los artículos 554, fracción II, y 565, fracción II, así como la distribución de las ramas de la industria y de las actividades, según su importancia, entre el número de representantes que se hubiese determinado;
 
@@ -6734,7 +6734,7 @@ Para computar los términos, los meses se regularán por el de treinta días nat
 
 Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, ésta podrá ampliar el término de que se trate, en función de la distancia a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de comunicación existentes.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 738.
 
@@ -7664,7 +7664,7 @@ III. Laudos: cuando decidan sobre el fondo del conflicto.
 
 La Junta dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
 
-(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980))
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 839.
 
@@ -9346,6 +9346,22 @@ En los juicios pendientes ante las Juntas de Conciliación, se recibirán las pr
 
 Las Juntas de Conciliación y Arbitraje continuarán conociendo de los negocios a que se refiere el artículo 600, fracción IV, de que ya conozcan.
 
+> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 1982)</small>
+
+###### Artículo 13.
+
+Se faculta a las Comisiones Regionales y a la Comisión Nacional de los Salarios Mínimos para que establezcan el incremento de los salarios mínimos generales, del campo y profesionales vigentes.
+
+Para efectuar la nivelación de los salarios mínimos a que se refiere el párrafo anterior, se observará el siguiente procedimiento:
+
+I. Dentro de los tres días siguientes a la entrada en vigor de este decreto, las comisiones regionales de los Salarios Mínimos dictarán resolución estableciendo el incremento de los salarios mínimos.
+
+II. Los presidentes de las comisiones regionales bajo su responsabilidad, comunicarán a la Comisión Nacional de los Salarios Mínimos las correspondientes resoluciones dentro de las 24 horas siguientes a la fecha de haberse dictado.
+
+III. El Presidente de la Comisión Nacional de los Salarios Mínimos convocará al Consejo de Representantes y someterá al mismo el dictamen pertinente para que dentro de los tres días siguientes a la recepción de las comunicaciones a las que se refiere la fracción anterior, dicten resolución confirmando o modificando las que hubieren dictado las comisiones regionales, debiendo fijar el incremento que deba aplicarse a los salarios mínimos vigentes, para que en forma obligatoria se modifiquen tomando en cuenta lo dispuesto en la resolución expedida por la Secretaría del Trabajo y Previsión Social de fecha 19 de marzo de 1982.
+
+IV. El Presidente de la Comisión Nacional de los Salarios Mínimos enviará al Diario Oficial de la Federación, para su publicación, la resolución del Consejo de Representantes que contenga los salarios mínimos que correspondan al aumento establecido.
+
 México, D. F., 2 de diciembre de 1969. Luis L. León Uranga, S.P.- Joaquín Gamboa Pascoe, D.P.- Arturo Moguel Esponda, S.S.- Alberto Briseño Ruiz, D.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos sesenta y nueve.- Gustavo Díaz Ordaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Antonio Carrillo Flores.- Rúbrica.- El Secretario de la Defensa Nacional, Marcelino García Barragán.- Rúbrica.- El Secretario de Marina, Antonio Vázquez del Mercado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario del Patrimonio Nacional, Manuel Franco López.- Rúbrica.- El Secretario de Industria y Comercio, Octaviano Campos Salas.- Rúbrica.- El Secretario de Agricultura y Ganadería, Juan Gil Preciado.- Rúbrica.- El Secretario de Comunicaciones y Transportes, José Antonio Padilla Segura.- Rúbrica.- El Secretario de Obras Públicas, Gilberto Valenzuela.- Rúbrica.- El Secretario de Recursos Hidráulicos, José Hernández Terán.- Rúbrica.-El Secretario de Educación Pública, Agustín Yañez.- Rúbrica.- El Secretario de Salubridad y Asistencia, Salvador Aceves Parra.- Rúbrica.- El Secretario de la Presidencia, Emilio Martínez Manautou.- Rúbrica.- El Jefe del Departamento de Asuntos Agrarios y Colonización, Norberto Aguirre Palancares.- Rúbrica.- El Jefe del Departamento de Turismo, Agustín Salvat.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Corona del Rosal.- Rúbrica.
@@ -9471,3 +9487,9 @@ La obligación de enterar las aportaciones y los descuentos a que se refieren lo
 ###### ARTICULO TERCERO.
 
 Las solicitudes de devolución de fondo en ahorro que se hubieren presentado con anterioridad a la entrada en vigor de este decreto se tramitarán y resolverán conforme a las disposiciones vigentes en la fecha de la presentación de la solicitud correspondiente.
+
+D.O.F. 22 DE OCTUBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
