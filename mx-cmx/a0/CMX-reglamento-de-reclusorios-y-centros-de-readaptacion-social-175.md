@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-reclusorios-y-centros-de-readaptacion-social-175"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-02-20"
-last_updated: "1990-02-20"
+last_updated: "2004-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "1990-01-11"
 
 REGLAMENTO DE RECLUSORIOS Y CENTROS DE READAPTACION SOCIAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS CENTROS DE RECLUSION DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 24 DE SEPTIEMBRE DE 2004.</small>
 
-Reglamento publicado en el Diario Oficial de la Federación, el martes 20 de febrero de 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADO.
+
+Reglamento publicado en el Diario Oficial de la Federación el martes 20 de febrero de 1990.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- I Asamblea de Representantes del Distrito Federal 88-91.- Oficialía Mayor.
 
@@ -883,3 +885,17 @@ Se concede el término de un año al Departamento del Distrito Federal, a partir
 El Departamento del Distrito Federal, procederá en el término de un año contado a partir de la vigencia del presente Reglamento a dar cumplimiento a lo dispuesto por el tercer párrafo del artículo 142, de este ordenamiento.
 
 Salón de Sesiones de la I Asamblea de Representantes del Distrito Federal, México, D. F., a 11 de enero de 1990.- Ramón Sosamontes Herreramoro, Representante, Presidente.- Rúbrica.- Oscar Delgado Arteaga, Representante, Secretario.- Rúbrica.- Salvador Abascal Carranza, Representante, Secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 24 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan las disposiciones relativas a los Centros de Reclusión del Distrito Federal contenidas en el Reglamento de Reclusorios y Centros de Readaptación Social del Distrito Federal, publicado en el Diario Oficial de la Federación el 20 de febrero de 1990.
+
+TERCERO. Se concede un término de seis meses a partir de la fecha de entrada en vigor del presente Reglamento, para que se emitan las Reglas de Operación del Programa de Rescate y Reinserción para Jóvenes Primodelincuentes, así como los diversos manuales de organización, de operación y de funcionamiento de los Centros, Órganos y Direcciones de Área de los Centros de Reclusión a que se refiere este Reglamento, los cuales de ninguna manera contemplarán disposiciones contrarias a las establecidas en el presente.
+
+CUARTO. En lo referente a la clasificación de los internos en Instituciones de mínima, baja, media y alta seguridad, se estará a lo dispuesto por el artículo CUARTO TRANSITORIO del Decreto de fecha 15 de septiembre de 1999, publicado el 17 de septiembre de 1999, en la Gaceta Oficial del Distrito Federal, por el que se expidió la Ley de Ejecución de Sanciones Penales para el Distrito Federal.
+
+QUINTO. Todos los asuntos relativos al otorgamiento de la Libertad Anticipada, Correcciones Disciplinarias, procedimientos ante el Consejo Técnico Interdisciplinario, ubicación de los internos y demás que se encuentren en trámite, deberán concluirse conforme al Reglamento de Reclusorios y Centros de Readaptación Social del Distrito Federal, y tratándose del primero de los casos se estará también a lo dispuesto en la Ley de Ejecución de Sanciones Penales del Distrito Federal.
