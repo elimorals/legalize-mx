@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1993-12-04"
+last_updated: "1994-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -241,13 +241,15 @@ Este impuesto en ningún caso deberá ser trasladado al espectador o usuario.
 
 ###### ARTICULO 28.
 
-Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del Territorio del Estado, bajo la dirección y dependencia de un patrón o terceros.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado bajo la dirección y dependencia de un patrón o terceros.
 
 Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquéllas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, indemnizaciones derivadas de la rescisión de las relaciones laborales, primas vacacionales, dominicales, por antigüedad y previsión social, así como cualquier otra erogación en beneficio de los trabajadores en forma personal.
 
 Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
 #### SECCION PRIMERA. DEL OBJETO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 29.
 
@@ -469,9 +471,13 @@ XVII.- Las inscripciones relativas a habilitación de edad, licencia y emancipac
 
 XVIII.- Por busca de datos, para la expedición de informes certificados, relativos a las constancias de registro:
 
-a) Del año en curso 3
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
-b) Por cada año anterior .5
+a) Del año en curso 1
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+b) Por cada año anterior 2
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1993)</small>
 
@@ -485,9 +491,13 @@ Tratándose de créditos otorgados para adquisición o construcción de vivienda
 
 XX.- La inscripción de cualquier tipo de embarcaciones, se pagará conforme a la tarifa de la fracción I.
 
-XXI.- Por expedición de certificados de libertad o gravamen y de restricciones al derecho de propiedad 2
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
-XXII.- Por expedición de Certificados de inscripción de propiedad, positivos o negativos 2
+XXI.- Por expedición de certificados de libertad o gravamen y de restricciones al derecho de propiedad 1.5
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+XXII.- Por expedición de Certificados de inscripción de propiedad, positivos o negativos 1.5
 
 ### CAPITULO V. POR EXPEDICION DE TITULOS
 
@@ -896,3 +906,9 @@ Dado en el Palacio de Gobierno del Estado, en Campeche, a los nueve días del me
 P.O. 4 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y cuatro.
+
+P.O. 21 DE DICIEMBRE DE 1994.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y cinco.
