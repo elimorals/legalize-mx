@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2001-09-29"
+last_updated: "2001-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2001.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -165,7 +165,9 @@ Las excepciones procederán en juicio aun cuando no se exprese su nombre, con ta
 
 No podrán oponerse excepciones o defensas contrarias o contradictorias, aun cuando sea con el carácter de subsidiarias.
 
-36.- Son excepciones dilatorias, las siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+36.- Son excepciones dilatorias las siguientes:
 
 I.- La incompetencia del Tribunal;
 
@@ -181,27 +183,35 @@ VI.- La división;
 
 VII.- La excusión;
 
-VIII.- Las demás a que dieren ese carácter las leyes.
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+VIII.- La improcedencia de la vía; y
+
+IX.- Las demás a que dieren ese carácter las leyes.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
 37.- Salvo lo dispuesto en el artículo 38, las excepciones dilatorias y las objeciones aducidas respecto de los presupuestos procesales, se opondrán dentro de los tres días siguientes a aquél en que el demandado haya sido emplazado y se resolverán en la audiencia de conciliación y depuración del proceso, a menos que en disposición expresa se señale trámite diferente.
 
 De todas las excepciones que deban resolverse en la audiencia, se dará vista a la contraria por el término de tres días para que manifieste lo que a su derecho convenga.
 
-Si al oponer las excepciones de falta de personalidad, conexidad, litispendencia o falta de capacidad, se promueven pruebas, deberán ofrecerse en los escritos respectivos, fijando los puntos sobre los que versan, y de ser admisibles, se ordenará su preparación para que se reciban en la audiencia de conciliación y depuración procesal.
+La falta de personalidad del representante o apoderado del actor se substanciará en artículo de previo y especial pronunciamiento con suspensión del procedimiento, corriendo traslado a la contraria por tres días, del escrito en que se oponga. Si se promueven pruebas, se ofrecerán en los escritos iníciales y de ser admisibles, se ordenará su preparación para que se reciban en la audiencia que resolverá el incidente y que se celebrará dentro de los ocho días siguientes al en que surta efecto la notificación del auto que tiene por contestada la vista.
 
-En la excepción de falta de personalidad, únicamente serán admisibles la documental y la pericial. Cuando se alegue falta de exactitud, de autenticidad o de falsedad del documento con el que se pretenda acreditar la representación con que se comparece, también serán admisibles la inspección judicial y el cotejo del documento correspondiente. La interposición de esta excepción, suspende el procedimiento hasta el momento en que se resuelva en la audiencia de depuración del proceso.
+En la excepción de falta de personalidad, únicamente serán admisibles la documental y la pericial. Cuando se alegue falta de exactitud, de autenticidad o de falsedad del documento con el que se pretenda acreditar la representación con que se comparece, también serán admisibles la inspección judicial y el cotejo del documento correspondiente.
 
 En las demás excepciones dilatorias, solo se admitirá la prueba documental. Si se trata de excepciones de litispendencia y conexidad, se admitirá también, la prueba de inspección de los autos.
 
-En este caso, desahogadas las pruebas en una sola audiencia, que no se diferirá bajo ningún supuesto, se oirá en alegatos y en el mismo acto se dictará la sentencia que corresponda.
+En este caso, desahogadas las pruebas en una sola audiencia, que no se diferirá bajo ningún supuesto, se oirá en alegatos y en el mismo acto se dictará la resolución que corresponda.
 
-El Tribunal nunca podrá diferir la resolución que deberá dictarse en la misma audiencia.
+El tribunal nunca podrá diferir la resolución que deberá dictarse en la misma audiencia.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-37 Bis.- El actor deberá oponer la excepción de falta de personalidad o de capacidad en el representante o apoderado del demandado, dentro de los tres días siguientes a aquél en que tenga conocimiento legal de su presentación en el juicio y se substanciará corriendo traslado a la contraria por tres días del escrito en que se oponga. Si se promueven pruebas se ofrecerán en los escritos iniciales, y de ser admisibles se ordenará su preparación para que se reciban en la audiencia de conciliación y depuración procesal.
+37 Bis.- El actor deberá oponer la excepción de falta de personalidad o de capacidad en el representante o apoderado del demandado, dentro de los tres días siguientes a aquél en que tenga conocimiento legal de su presentación en el juicio y se substanciará corriendo traslado a la contraria por tres días del escrito en que se oponga.
+
+Si se opone antes de la celebración de la Audiencia de Conciliación y Depuración del Proceso, sin suspender el procedimiento, será en ella donde se resuelva.
+
+Si es opuesta después de la celebración de dicha audiencia, se substanciará y decidirá en artículo de previo y especial pronunciamiento con suspensión del procedimiento, con arreglo a las disposiciones que este Código establece para los incidentes.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -325,9 +335,11 @@ III.- Cuando los juzgados que conozcan respectivamente de los juicios que se se�
 
 56.- (DEROGADO, P.O. 10 DE FEBRERO DE 2001)
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-57.- Cuando se declare la improcedencia de la vía, su efecto será el de continuar el procedimiento para el trámite del juicio en la vía que se considere procedente, declarando la validez de lo actuado, sin perjuicio de la obligación que tiene el juez de regularizar el procedimiento.
+57.- Cuando se declare la improcedencia de la vía, su efecto será el de continuar el trámite del juicio en la vía que se considere procedente, siendo válido todo lo actuado hasta ese momento, sin perjuicio de la obligación que tiene el juez de regularizar el procedimiento.
+
+Las demás excepciones dilatorias, salvo aquellas en que la ley disponga cosa distinta, se resolverán en la audiencia de conciliación y depuración procesal y se substanciarán con un escrito de cada parte en el que se ofrecerán las pruebas que se promuevan y de ser admisibles, se ordenará su preparación para que se reciban en dicha audiencia.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -335,13 +347,17 @@ III.- Cuando los juzgados que conozcan respectivamente de los juicios que se se�
 
 Después de formulada la contestación y fijados los puntos cuestionados, no se admitirá, salvo lo dispuesto en el artículo siguiente, excepción alguna, ni se permitirá al demandado que cambie la opuesta a menos que el actor conviniere en ello.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
 59.- Las sentencias ejecutoriadas, las transacciones y pagos judiciales y cualquier otro acto procesal que tenga fuerza de cosa juzgada, impiden se entable o continúe un nuevo juicio sobre las cuestiones resueltas.
 
-Si de hecho se promoviere o continuare, podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos y en cualquier instancia después de que cause ejecutoria la resolución sobre la excepción de incompetencia si se hubiere opuesto. Se substanciará y decidirá en artículo de previo y especial pronunciamiento, con arreglo a las disposiciones que este Código establece para los incidentes.
+Si de hecho se promoviere o continuare, podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos y en cualquier instancia.
 
-Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere, y se le impondrá además, de oficio, una multa de hasta doscientos salarios mínimos.
+Si la excepción se opone antes de la celebración de la Audiencia de Conciliación y Depuración del Proceso, sin suspender el procedimiento, será en ella donde se resuelva.
+
+Si es opuesta después de la celebración de dicha audiencia, se substanciará y decidirá en artículo de previo y especial pronunciamiento con suspensión del procedimiento, con arreglo a las disposiciones que este Código establece para los incidentes.
+
+Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere y se le impondrá además, de oficio, una multa de hasta doscientas veces el salario mínimo.
 
 ## TITULO SEGUNDO. REGLAS GENERALES DEL PROCEDIMIENTO
 
@@ -459,9 +475,15 @@ Cuando hubiere de condenarse al pago de intereses, daños y perjuicios, o a la e
 
 98.- Los tribunales no podrán, bajo ningún pretexto, aplazar, demorar, omitir o negar la resolución de las cuestiones que legalmente hayan sido sometidas a su conocimiento. Para los efectos de esta disposición, tratándose de sentencias, no incurrirá en morosidad culpable el funcionario que deba pronunciarla, si hubiere dictado por lo menos tres sentencias a la semana, sin contar las pronunciadas en rebeldía, en los días en que haya estado al frente de su oficina, siempre que la celebración de la audiencia o la citación respectiva sea de fecha posterior a las correspondientes de las sentencias pronunciadas.
 
-99.- Las sentencias una vez firmadas y autorizadas por los funcionarios respectivos, no podrán ser revocadas o modificadas por el que las dictó ni por el que lo substituya en el conocimiento del asunto; pero sí podrán aclarar algún concepto, o suplir cualquiera omisión que contengan sobre un punto discutido en el litigio. Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte presentada dentro del día siguiente a la notificación. En este último caso, el juez o magistrado resolverá lo que estime prudente dentro del día siguiente al de la presentación del escrito en que se solicite la aclaración. El auto en que se aclare una sentencia, se considerará como parte integrante de la misma.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-Los tribunales no podrán al aclarar una sentencia, alterar o variar la parte substancial de ella.
+99.- Las resoluciones judiciales, una vez firmadas y autorizadas por los funcionarios respectivos, no podrán ser revocadas o modificadas por el que las dictó ni por el que lo substituya en el conocimiento del asunto; pero si podrán aclarar algún concepto, o suplir cualquier omisión que contengan sobre un punto discutido en el litigio.
+
+Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de su publicación, o a instancia de parte presentada dentro del día siguiente a la notificación. En este último caso, el juez o magistrado resolverá lo que estime prudente dentro del día siguiente al de la presentación del escrito en que se solicite la aclaración.
+
+El auto en que se aclare una resolución judicial se considerará como parte integrante de la misma.
+
+Los tribunales no podrán, al realizar la aclaración de una resolución judicial, alterar o variar su parte substancial.
 
 100.- Los autos que no sean apelables, podrán revocarse o modificarse mediante la interposición del recurso correspondiente, si se trata de la primera instancia; en la segunda, todos los autos podrán revocarse o modificarse mediante la interposición del recurso respectivo.
 
@@ -857,6 +879,28 @@ Si se desechare, se declarare improcedente, o no se hubiere probado la causa de 
 
 ## TITULO QUINTO. ACTOS PREJUDICIALES
 
+### CAPITULO II. Medios preparatorios del juicio ejecutivo
+
+193.- Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y, hecha la solicitud respectiva, el juez señalará día y hora para la práctica de la diligencia. Para que esta diligencia pueda verificarse, es preciso que el deudor se encuentre en el lugar de radicación de las diligencias preparatorias al tiempo de que se le haga la citación, la que deberá hacérsele personalmente, expresándose en ella el objeto de la diligencia, la cantidad que se reclama, y la causa de la obligación.
+
+Si el citado no compareciere a la primera citación, se le citará por segunda vez en la misma forma que la anterior, con el apercibimiento de tenerlo por confeso si no compareciere. Si después de hecha esta segunda citación no comparece ni alega justa causa que se lo hubiere impedido, se le tendrá por confeso respecto de las cuestiones que son motivo de las diligencias preparatorias.
+
+194.- El documento privado que contenga deuda líquida y sea de plazo cumplido dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse el pago en el acto de la diligencia; pero siempre será necesario que previamente al requerimiento se intime al deudor para que diga si reconoce la firma que calza el documento como suya, reconocimiento que se hará ante el ejecutor en el mismo acto de la diligencia. Cuando intimado por dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
+
+Si el deudor negare la autenticidad de la firma, no se suspenderá la diligencia, la que se continuará con arreglo a lo dispuesto en la primera parte de este artículo; pero en este caso, el promovente de las diligencias será responsable de los daños y perjuicios que con ello se causaren al ejecutado en caso de que resultare no ser del deudor la firma.
+
+Dentro de los tres días siguientes al embargo, el actor deberá presentar su demanda ejecutiva, y su omisión dará lugar a que se levante el embargo a solicitud del ejecutado.
+
+195.- El reconocimiento de documentos privados puede hacerse ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que el reconocimiento lo haga directamente la persona obligada o su representante legítimo o su mandatario con poder bastante. El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que lo reconoce es el representante legítimo o el apoderado del deudor y, en este último caso, la cláusula relativa del poder.
+
+196.- Si el instrumento público o el documento privado reconocido no contiene cantidad líquida, puede prepararse la acción ejecutiva procediendo a su liquidación. Esta se tramitará con solo un escrito de cada parte, resolviendo el juez sin ulterior recurso, pero quedando sujeto a la responsabilidad en que haya incurrido.
+
+197.- Si el título ejecutivo se refiere a una obligación alternativa y corresponde la elección al deudor, podrá prepararse la acción ejecutiva solicitando que se requiera al obligado para que haga el señalamiento respectivo, fijándole al efecto el Tribunal un plazo que estime prudente, apercibiéndolo de que, si no lo verifica dentro de ese plazo, hará la elección el propio juzgado o quien tenga ese derecho conforme al contrato.
+
+Este modo de preparación del juicio ejecutivo no será necesario que se practique para que proceda directamente el ejercicio de la acción, pues el ejecutante podrá solicitar en su demanda que se requiera al deudor para que haga el señalamiento correspondiente, quedando entre tanto pendiente el despachar la ejecución. Hecha la elección por el deudor, o en su rebeldía por quien corresponda, se despachará ejecución.
+
+198.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que vaya a solicitar la ejecución podrá preparar el juicio haciendo la consignación de las prestaciones debidas al demandado, o comprobando fehacientemente haber cumplido con su obligación. Cuando la prestación debida por el demandante no requiera la práctica de alguna diligencia de comprobación, podrá omitirse la aplicación de este artículo, debiendo hacer el ejecutante la consignación de lo debido por él, en el momento mismo de presentar su demanda.
+
 ### CAPITULO I. Medios preparatorios del juicio en general
 
 184.- El juicio podrá prepararse:
@@ -920,28 +964,6 @@ En caso de que no se llegare a ningún arreglo, se dará por terminado el proced
 La junta de conciliación, a petición de los interesados, podrá repetirse por una sola vez dentro de los ocho días siguientes, sin que su celebración o el término que dure el trámite afecte al derecho de los mismos.
 
 El conocimiento del asunto no creará prevención en el Juzgador y además estará impedido para conocer del asunto cuando se plantee el juicio en el que se pretenda dilucidar la cuestión analizada.
-
-### CAPITULO II. Medios preparatorios del juicio ejecutivo
-
-193.- Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y, hecha la solicitud respectiva, el juez señalará día y hora para la práctica de la diligencia. Para que esta diligencia pueda verificarse, es preciso que el deudor se encuentre en el lugar de radicación de las diligencias preparatorias al tiempo de que se le haga la citación, la que deberá hacérsele personalmente, expresándose en ella el objeto de la diligencia, la cantidad que se reclama, y la causa de la obligación.
-
-Si el citado no compareciere a la primera citación, se le citará por segunda vez en la misma forma que la anterior, con el apercibimiento de tenerlo por confeso si no compareciere. Si después de hecha esta segunda citación no comparece ni alega justa causa que se lo hubiere impedido, se le tendrá por confeso respecto de las cuestiones que son motivo de las diligencias preparatorias.
-
-194.- El documento privado que contenga deuda líquida y sea de plazo cumplido dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse el pago en el acto de la diligencia; pero siempre será necesario que previamente al requerimiento se intime al deudor para que diga si reconoce la firma que calza el documento como suya, reconocimiento que se hará ante el ejecutor en el mismo acto de la diligencia. Cuando intimado por dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
-
-Si el deudor negare la autenticidad de la firma, no se suspenderá la diligencia, la que se continuará con arreglo a lo dispuesto en la primera parte de este artículo; pero en este caso, el promovente de las diligencias será responsable de los daños y perjuicios que con ello se causaren al ejecutado en caso de que resultare no ser del deudor la firma.
-
-Dentro de los tres días siguientes al embargo, el actor deberá presentar su demanda ejecutiva, y su omisión dará lugar a que se levante el embargo a solicitud del ejecutado.
-
-195.- El reconocimiento de documentos privados puede hacerse ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que el reconocimiento lo haga directamente la persona obligada o su representante legítimo o su mandatario con poder bastante. El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que lo reconoce es el representante legítimo o el apoderado del deudor y, en este último caso, la cláusula relativa del poder.
-
-196.- Si el instrumento público o el documento privado reconocido no contiene cantidad líquida, puede prepararse la acción ejecutiva procediendo a su liquidación. Esta se tramitará con solo un escrito de cada parte, resolviendo el juez sin ulterior recurso, pero quedando sujeto a la responsabilidad en que haya incurrido.
-
-197.- Si el título ejecutivo se refiere a una obligación alternativa y corresponde la elección al deudor, podrá prepararse la acción ejecutiva solicitando que se requiera al obligado para que haga el señalamiento respectivo, fijándole al efecto el Tribunal un plazo que estime prudente, apercibiéndolo de que, si no lo verifica dentro de ese plazo, hará la elección el propio juzgado o quien tenga ese derecho conforme al contrato.
-
-Este modo de preparación del juicio ejecutivo no será necesario que se practique para que proceda directamente el ejercicio de la acción, pues el ejecutante podrá solicitar en su demanda que se requiera al deudor para que haga el señalamiento correspondiente, quedando entre tanto pendiente el despachar la ejecución. Hecha la elección por el deudor, o en su rebeldía por quien corresponda, se despachará ejecución.
-
-198.- Si el título ejecutivo contiene obligaciones recíprocas, la parte que vaya a solicitar la ejecución podrá preparar el juicio haciendo la consignación de las prestaciones debidas al demandado, o comprobando fehacientemente haber cumplido con su obligación. Cuando la prestación debida por el demandante no requiera la práctica de alguna diligencia de comprobación, podrá omitirse la aplicación de este artículo, debiendo hacer el ejecutante la consignación de lo debido por él, en el momento mismo de presentar su demanda.
 
 ### CAPITULO III. Del depósito de personas como acto prejudicial
 
@@ -1095,9 +1117,9 @@ El dueño de la obra tiene derecho a pedir autorización para continuarla, mient
 
 El que haya obtenido la providencia de suspensión provisional de una obra nueva debe promover el juicio sobre suspensión definitiva o demolición de lo construido, en su caso, dentro del término de tres días, contados desde que se haya notificado la suspensión de la obra.
 
-## TITULO SEXTO. DEL JUICIO ORDINARIO
-
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE FEBRERO DE 2001)</small>
+
+## TITULO SEXTO. DEL JUICIO ORDINARIO
 
 ### CAPITULO I. De la demanda, de su contestación, de la rebeldía, de la fijación de la litis, y de la audiencia de conciliación y depuración procesal
 
@@ -1163,9 +1185,11 @@ d).- Producir todas las consecuencias de la interpelación judicial, si por otro
 
 e).- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-255.- El demandado deberá contestar la demanda dentro del plazo fijado en el auto de radicación. En la contestación propondrá la reconvención en los casos en que proceda. Las excepciones perentorias y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
+255.- El demandado deberá contestar la demanda dentro del plazo fijado en el auto de radicación. Si se tramitó la excepción de falta de personalidad, el plazo para contestar la demanda empezará a contar a partir del día siguiente al en que cause estado la resolución que la decida.
+
+En la contestación se propondrá la reconvención en los casos en que proceda. Las excepciones perentorias y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -1178,6 +1202,10 @@ El demandado que oponga la reconvención deberá presentar las copias simples pa
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
 257.- Si en la contestación a la demanda se opusiere reconvención o compensación, se correrá traslado al actor por nueve días para que la conteste, siguiendo después el proceso su curso legal, discutiéndose aquéllas al mismo tiempo que las excepciones que se hubieren opuesto y decidiéndose en la misma sentencia.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+La reconvención del demandado y la contestación del actor a la misma, se formularán sujetándose a las reglas establecidas para la demanda y la contestación, aplicándose en su caso y en lo conducente, lo dispuesto por los artículos 250, 251 y 251 Bis de este Código.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -1219,15 +1247,15 @@ V.- El Juez, con el propósito de evitar disgresiones y alegatos inútiles, comp
 
 261 Bis.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, una vez fijada la litis, se correrá traslado a las partes por un plazo común de cinco días para que aleguen una vez concluido, se citará para sentencia.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-262.- Del auto en virtud del cual quede fijada la litis, se dará vista por tres días a la contraria con las excepciones dilatorias opuestas.
+262.- Del auto en virtud del cual quede fijada la litis, se dará vista a la contraria por el término de tres días con las excepciones dilatorias opuestas.
 
-Al contestar la vista se presentará (sic) u ofrecerán las pruebas para el objeto a que se refiere el artículo siguiente.
+Al contestar la vista se ofrecerán y presentarán las pruebas para el objeto a que se refiere el artículo siguiente.
 
-Evacuado el traslado, o fenecido el plazo, el juez señalará día y hora para la celebración de la audiencia de conciliación y depuración procesal, citando a las partes materiales para dentro de los diez días posteriores.
+Evacuado el traslado o fenecido el plazo, el juez señalará día y hora para la celebración de la audiencia de conciliación y depuración procesal, citando a las partes para dentro de los diez días posteriores, siendo aplicable en cuanto a representación de las partes, lo conducente en lo dispuesto por el artículo 192 Bis.
 
-La citación se hará en forma personal.
+La notificación se hará en forma personal en el domicilio señalado por las partes en autos, si se omitió tal designación se aplicarán las reglas generales para la notificación.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -1247,9 +1275,9 @@ Si se objetó la capacidad o representación procesal, y fuere subsanable confor
 
 264 a.- Si estuviere pendiente de resolverse cualquier conflicto competencial, se estará al resultado de la resolución que lo dirima, de acuerdo a lo dispuesto por el artículo 50.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-264 b.- Cualquier cuestión que se resuelva en esta audiencia será apelable en el efecto devolutivo.
+264 b.- Salvo disposición expresa en contrario, cualquier cuestión que se resuelva en esta audiencia será apelable en el efecto devolutivo.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
@@ -1299,9 +1327,9 @@ Los daños y perjuicios que se ocasionen a tercero por comparecer o exhibir cosa
 
 274.- Excepto los casos señalados por la ley, las diligencias de prueba sólo podrán practicarse dentro del término probatorio bajo la sanción de nulidad y responsabilidad del Juez.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-275.- Fuera de los casos de excepción señalados en el artículo anterior, sólo son admisibles después del término de prueba y hasta antes de la citación para sentencia, y sin que ello suspenda el curso del juicio, la confesión, la pericial, la testimonial de testigo hostil y los documentos que en la demanda, en la contestación o dentro del término probatorio hubiesen sido designados y pedidos conforme a los artículos 251 bis y 256, y no se recibieron en el Tribunal hasta después de concluido dicho término.
+275.- Fuera de los casos de excepción señalados en el artículo anterior, sólo son admisibles después del término de prueba y hasta antes de la citación para sentencia, y sin que ello suspenda el curso del juicio, la confesión, la pericial, la testimonial de testigo hostil y los documentos que en la demanda, en la contestación o dentro del término probatorio hubiesen sido designados y pedidos conforme al artículo 251 Bis y no se recibieron en el Tribunal hasta después de concluido dicho término.
 
 276.- Los tribunales tomarán en consideración, aunque las partes no lo pidan dentro del término probatorio, las constancias de autos y los documentos que hubieren acompañado a la demanda y a la contestación, respectivamente, estimándolos para los efectos legales con el valor probatorio que por sí mismos les corresponde.
 
@@ -1801,7 +1829,9 @@ XVI.- Aquellos otros juicios que determine la ley.
 
 402.- El actor deberá presentar su demanda en la forma legal y de ella se correrá traslado al demandado por tres días. El actor en su demanda y el demandado en su contestación deberán ofrecer las pruebas conducentes a la comprobación de su acción o excepción respectivamente, sin perjuicio de que den cumplimiento a lo dispuesto en este Código sobre los documentos que precisamente deben acompañar a la demanda y a su contestación.
 
-403.- No se admitirán otros artículos de previo y especial pronunciamiento, que los relativos a la personalidad de alguno de los litigantes y a la incompetencia del juez.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+403.- Sólo se admitirá en artículo de previo y especial pronunciamiento con suspensión del procedimiento, el relativo a la falta de personalidad de alguno de los litigantes.
 
 404.- La reconvención será admitida si se fundare en algún título que motive la vía sumaria o la ejecutiva. En cualquier otro caso, se reservará para decidirse en el juicio que corresponda.
 
@@ -1811,7 +1841,11 @@ XVI.- Aquellos otros juicios que determine la ley.
 
 407.- Practicadas las pruebas o concluido en su caso el término probatorio, se correrá traslado al actor por tres días para que alegue y después al demandado por el mismo tiempo. Evacuados los traslados o concluido el plazo fijado para hacerlo, se citará de oficio para sentencia, la que se pronunciará dentro de cinco días.
 
-408.- Las resoluciones que recaigan en los juicios a que se refiere la fracción VIII del artículo 401, son inapelables. Las que se pronuncien en los demás juicios sumarios serán apelables en el efecto devolutivo, con excepción de las que versen sobre personalidad de las partes o denegación de prueba, y aquellas otras que la ley disponga que lo son en ambos efectos.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+408.- Las resoluciones que recaigan en los juicios a que se refiere la fracción VIII del artículo 401, son inapelables.
+
+Las que se pronuncien en los demás juicios sumarios incluyendo las sentencias, serán apelables en el efecto devolutivo excepto las que versen sobre personalidad de las partes y aquellas otras que la ley disponga que lo son en ambos efectos.
 
 ### CAPITULO II. Del juicio de divorcio
 
@@ -1831,7 +1865,9 @@ XVI.- Aquellos otros juicios que determine la ley.
 
 Son aplicables al juicio de divorcio las disposiciones contenidas en los artículos del 903-2 al 903-5 de este Código.
 
-415.- Fijada la litis, con la contestación de la demanda o haciendo efectivo el apercibimiento del artículo 413, el juez de oficio ordenará que se abra el juicio a prueba por un término que no exceda de veinte días.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+415.- Fijada la litis con la contestación de la demanda o haciendo efectivo el apercibimiento del artículo 413, el juez citará a la audiencia de conciliación y depuración procesal en los términos de los artículos 264 a y siguientes.
 
 416.- Transcurrido el término probatorio, se citará para audiencia de alegatos, la que se verificará dentro de las veinticuatro horas siguientes, aunque no concurran las partes.
 
@@ -1915,7 +1951,11 @@ II.- Cuando se haya declarado judicialmente que la enajenación por la que adqui
 
 435.- Hecho el requerimiento ejecutivo al demandado, y trabado el embargo en su caso, se emplazará al deudor para que dentro de tres días ocurra a hacer el pago que se le reclama o a oponerse a la ejecución si tuviere alguna excepción legal que hacer valer. Para este efecto se le entregarán las copias simples de la demanda, del título en que se funda la acción y demás documentos de los que conforme a este Código debe corrérsele traslado.
 
-436.- Sólo se podrá formar artículo de previo y especial pronunciamiento sobre personalidad de los litigantes o incompetencia del juez. Las demás excepciones dilatorias que se hicieren valer se opondrán simultáneamente con las excepciones perentorias al contestar la demanda y se resolverán en la sentencia definitiva.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+436.- Sólo se podrá formar artículo de previo y especial pronunciamiento sobre la impugnación de la personalidad de los litigantes.
+
+Las demás excepciones dilatorias que se hicieren valer se opondrán simultáneamente con las excepciones perentorias al contestar la demanda y se resolverán en la audiencia de conciliación y depuración del proceso.
 
 437.- La reconvención o la compensación sólo se admitirá cuando se funde en prueba documental y, si se opusiere, se correrá traslado con ella al ejecutante por el término de tres días.
 
@@ -1939,7 +1979,9 @@ Cuando el juicio se entable entre los que contrataron la hipoteca, procederá el
 
 445.- Las cuestiones que versen sobre constitución, ampliación o división de una hipoteca, sobre la suficiencia o insuficiencia de ella en los casos a que se refieren los artículos 2800 y 2831 del Código Civil, y sobre el registro o cancelación de la hipoteca, se tramitarán en juicio sumario con arreglo a las disposiciones del Capítulo I de este Título, aun cuando la cuestión hipotecaria sea incidental de otro juicio, debiendo en este caso seguirse ambos juicios por cuerda separada y resolverse en una misma sentencia.
 
-446.- Presentado el escrito de demanda acompañado del título respectivo, el juez, si encuentra que se reúnen los requisitos fijados en el artículo 444, ordenará al ejecutor la expedición y registro de la cédula hipotecaria y mandará que se corra traslado de la demanda al demandado para que dentro de cinco días ocurra a contestarla y a oponer las excepciones que tuviere.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+446.- Presentado el escrito de demanda acompañado del título respectivo, el juez, si encuentra que se reúnen los requisitos fijados en el artículo 444, expedirá y ordenará registrar la cédula hipotecaria, mandando correr traslado de la demanda al demandado para que la conteste y oponga excepciones si tuviere en el plazo de cinco días, aplicándose en lo conducente lo que este Código dispone respecto a la audiencia de conciliación y depuración del proceso.
 
 447.- Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
 
@@ -1987,13 +2029,23 @@ En el caso de que se hubiere exhibido el importe de las rentas reclamadas, se ma
 
 465.- Los plazos que este Capítulo establece en beneficio de los inquilinos no son renunciables.
 
-466.- El inquilino podrá oponer como excepciones las previstas en los artículos 2330 a 2333 y 2344 del Código Civil. También podrá oponer la excepción de ser obrero y encontrarse en estado legal de huelga. La reconvención no será admisible, ni tampoco aquellas excepciones que no se encuentren comprendidas en las señaladas al principio de este artículo, y el juez las desechará de plano en caso de que se hicieren valer.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+466.- El inquilino para justificar la omisión del pago de la renta, podrá oponer como excepciones las previstas en los artículos 2330 a 2333 y 2344 del Código Civil.
+
+La reconvención no será admisible y el juez la desechará de plano en caso de que se hiciere valer.
 
 De las excepciones opuestas se dará vista al actor y en el mismo auto que ordene la vista, se citará para dentro de los ocho días siguientes a una audiencia de pruebas y alegatos, teniendo en cuenta que esta audiencia debe efectuarse antes del vencimiento del término fijado para la desocupación.
 
 467.- Si en la audiencia a que se refiere el artículo anterior, el inquilino probare la excepción de ser obrero y encontrarse en estado legal de huelga, el juez ordenará desde luego la suspensión del procedimiento. El actor, treinta días después de que conforme a la ley haya cesado el estado de huelga, podrá pedir que se continúe el procedimiento, lo cual ordenará el juez disponiendo que se haga un nuevo requerimiento al demandado.
 
 468.- Salvo el caso a que se refiere el artículo que antecede, el juez pronunciará su sentencia en la misma audiencia, estableciéndola en forma concisa, o solamente sus puntos resolutivos, siendo la resolución apelable en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+468 Bis.- Las excepciones distintas a las que se refiere el artículo 466, se tramitarán y resolverán conforme lo establecido en el Capítulo II del Título Primero de este Código.
+
+Si se opusieren al mismo tiempo éstas y las referidas en el precepto legal citado, ambas se tramitarán conforme sus respectivos procedimientos y se resolverán en la misma sentencia.
 
 469.- Si las excepciones fueren declaradas procedentes, en la misma sentencia dará el Tribunal por terminado el procedimiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 462, sin perjuicio de aplicar en su caso la disposición del artículo 374 del Título que antecede. La sentencia que decrete el desahucio dispondrá también el pago de las pensiones debidas y por causar hasta el momento del lanzamiento y ordenará, en su caso, el secuestro de bienes bastantes si aún no se hubiere hecho, así como su remate para aplicarse el producto al pago de lo debido.
 
@@ -3365,11 +3417,13 @@ a).- De las sentencias definitivas;
 
 b).- De los autos que resuelvan, en artículo de previo y especial pronunciamiento, sobre personalidad o capacidad de las partes y los que versen sobre nulidad de actuaciones o de notificaciones tramitadas con arreglo a las disposiciones de este Código sobre incidentes de previo pronunciamiento;
 
-c).- De aquéllos que declaren procedentes las excepciones dilatorias que se hayan hecho valer;
+c).- (DEROGADO, P.O. 17 DE OCTUBRE DE 2001)
 
 d).- De los autos en que de oficio se desconozca la personalidad de un litigante. Los en que se reconozca sólo serán atacables mediante la interposición de la excepción correspondiente;
 
-e).- De aquéllos que declaren improcedentes las excepciones de litispendencia y de conexidad de litigios;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
+
+e).- De aquellos que declaren procedente la excepción de litispendencia;
 
 f).- De autos que desechen una demanda y los denegatorios de prueba;
 
@@ -3453,11 +3507,11 @@ La sentencia de segunda instancia, tratándose de juicios sumarios, se dictará 
 
 Si por cualquier motivo el certificado de denegada apelación no quedare terminado dentro del término fijado en el artículo anterior, o lo estuvo el quinto día después de las horas señaladas por la ley para el despacho de los tribunales, el Tribunal hará saber al recurrente que el certificado queda a su disposición en la secretaría del juzgado, y si dentro de los tres días siguientes a la notificación de este acuerdo o del en que surta efectos la notificación hecha por medio de lista no se presenta aquel a recogerlo, de oficio se le tendrá por desistido de la denegada apelación.
 
-845.- Cuando el juez no cumpliere con lo prevenido en el artículo 859, el interesado podrá ocurrir en queja ante el Presidente del Supremo Tribunal de Justicia, haciendo relación del auto o sentencia de que haya apelado, expresando la fecha en que se le hizo la notificación, la de interposición del recurso, y la determinación que a ésta haya recaído, y solicitará se libre orden al juez para que expida el certificado correspondiente.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
+845.- Cuando el juez no cumpliere con lo prevenido en el artículo 843, el interesado podrá ocurrir en queja ante el Presidente del Supremo Tribunal de Justicia, haciendo relación del auto o sentencia de que haya apelado, expresando la fecha en que se le hizo la notificación, la de interposición del recurso, y la determinación que a ésta haya recaído y solicitará se libre orden al juez para que expida el certificado correspondiente.
 
-Presentado el escrito a que se refiere el párrafo anterior, el Presidente del Tribunal prevendrá al juez informe dentro de un plazo que no podrá exceder de tres días, sobre los hechos que en él se refieren; y si de tal informe resultaren comprobados éstos, ordenará al juez expida dentro del tercer día el certificado a que se refiere el artículo 859 imponiéndosele por la falta una multa de hasta cincuenta veces el salario mínimo. Si no resultare justificada la queja, se declarará así y se mandará archivar el expediente.
+Presentado el escrito a que se refiere el párrafo anterior, el Presidente del Tribunal prevendrá al juez informe dentro de un plazo que no podrá exceder de tres días, sobre los hechos que en él se refieren. Si de tal informe resultaren comprobados, ordenará al juez expida dentro del tercer día siguiente a aquel en que reciba la notificación, la expedición del certificado a que se refiere el artículo 843, imponiéndole por la falta una multa de hasta cincuenta veces el salario mínimo. Si no resultare justificada la queja, así se declarará y mandará archivar el expediente respectivo.
 
 846.- Si residen en el mismo lugar el juez y el Tribunal de apelación, el interesado se presentará a éste dentro de los tres días siguientes contados desde la fecha en que se le entregue el certificado de denegada apelación. Si el Tribunal de alzada reside en otro lugar, el juez señalará el término con arreglo a las disposiciones generales sobre la materia, haciéndolo constar al fin del certificado y dejando de todo, el secretario, razón en autos. Si el interesado no se presenta ante el superior respectivo con el certificado dentro del término fijado, se tendrá por desierto el recurso.
 
@@ -4412,3 +4466,13 @@ P.O. 29 DE SEPTIEMBRE DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas a que se refiere el presente Decreto, no serán aplicables a persona alguna que tenga créditos contratados con anterioridad a su entrada en vigor, ni tratándose de créditos novados o reestructurados con anterioridad a la misma.
