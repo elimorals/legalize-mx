@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2001-12-31"
+last_updated: "2002-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -583,11 +583,11 @@ II.- Los propietarios de predios que hubiesen prometido en venta o hubieran vend
 
 III.- Los empleados de las oficinas recaudadoras de los Municipios que dolosamente expidan certificados de no adeudo del Impuesto Predial.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 55.
 
-La base del impuesto, tratándose de predios urbanos y rurales, será el valor catastral determinado según los estudios de valor practicados por el Ayuntamiento y consignados en la tabla de valores unitarios que apruebe anualmente el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
+La base del impuesto, tratándose de predios urbanos y rurales, será el valor catastral determinado según los estudios de valor practicados por el Ayuntamiento y consignados en los planos y tablas de valores unitarios de suelo y construcción que apruebe anualmente el Congreso del Estado, el cual se causará y pagará conforme a las tarifas que se fijen en las leyes de ingresos de los ayuntamientos.
 
 ###### ARTICULO 56.
 
@@ -601,11 +601,13 @@ La base del impuesto, tratándose de predios urbanos y rurales, será el valor c
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 59.
 
-Una vez aprobada la tabla de valores por el Congreso del Estado, realizado el avalúo y aprobada la cuota respectiva por el Ayuntamiento, la Tesorería Municipal, determinará y notificará la anualidad y la porción trimestral que debe cubrir cada contribuyente. La cuota así determinada se pagará a partir del trimestre siguiente a la fecha de la notificación, excepto en los casos en que esta ley disponga otra cosa.
+Una vez aprobados los planos y tablas de valores por el Congreso del Estado, realizado el avalúo y aprobada la tarifa respectiva, la Tesorería Municipal determinará y notificará la anualidad y la porción trimestral que debe cubrir cada contribuyente. La tarifa así determinada se pagará a partir del trimestre siguiente a la fecha de la notificación, excepto en los casos en que esta ley disponga otra cosa.
+
+Las tesorerías municipales en la notificación que señala el párrafo anterior, deberán especificar la superficie del predio, la superficie y tipo de construcción o construcciones, valor catastral del terreno, valor catastral de las construcciones, valor catastral considerado para la determinación del impuesto predial y la cuota, tasa o tarifa aplicada, así como cualesquier otra información relacionada con el impuesto predial.
 
 ###### ARTICULO 60.
 
@@ -733,35 +735,31 @@ XII.- La enajenación a través de la celebración de contratos de arrendamiento
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 73.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
+Son sujetos de este impuesto, los adquirentes de bienes inmuebles, en los términos del artículo anterior.
 
 ###### ARTICULO 74.
 
 La base del impuesto será el valor que resulte mayor entre los siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+a).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2002)
 
-a).- El consignado en avalúo por una institución de crédito, corredor público autorizado o perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de expedición respectiva.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
-
-Las tesorerías municipales podrán revisar y calificar los avalúos a que se refiere el párrafo anterior, y en caso de determinar que éstos no se apeguen a los precios reales del valor comercial del terreno y demás avalúos unitarios comerciales de construcción en que sea elaborado el dictamen correspondiente, dichas dependencias municipales podrán rechazarlos, previo avalúo expedido por perito debidamente reconocido por la Comisión Nacional Bancaria y de Valores, o respecto del emitido por el Instituto Catastral y Registral del Estado, según sea convenido por las partes.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-Si se demuestra que el avalúo presentado por el obligado al pago del impuesto, es inferior a los precios reales y valores unitarios comerciales, tanto del terreno como de la construcción, en cuyo caso los gastos de peritaje correrán por su cuenta; mientras que, sí dichos precios o valores resultan ser correctos, los gastos serán a cargo de la Tesorería Municipal.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-b).- El Catastral, que deberá ser certificado por el Instituto Catastral y Registral del Estado.
+b).- El catastral que deberá ser certificado por la Tesorería Municipal que corresponda al inmueble.
 
 c).- El precio pactado en la operación.
 
 Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
 Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
+Una vez presentada la manifestación de traslado de dominio correspondiente y verificado que el inmueble aparece a nombre del enajenante en los archivos y constancias catastrales, la Tesorería Municipal deberá recibir, de inmediato, el pago del impuesto, sin mayores trámites.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1469,7 +1467,7 @@ II.- La autorización;
 
 III.- La supervisión de las obras de urbanización;
 
-IV.- La modificación de fraccionamientos ya autorizados, en los términos del artículo 107 de la Ley de Desarrollo Urbano para el Estado de Sonora;
+IV.- La modificación de fraccionamientos ya autorizados, en los términos del articulo 107 de la Ley de Desarrollo Urbano para el Estado de Sonora;
 
 V.- La expedición de licencias de uso de suelo. Debiendo considerarse, además, el caso de fraccionamientos habitacionales o comerciales bajo el régimen de condominio;
 
@@ -2095,9 +2093,9 @@ XIII.- Mensura, remensura, deslinde o localización de lotes; y
 
 XIV.- Las demás que realicen los Ayuntamientos en sus funciones de Derecho Privado.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-XV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
+XV.- Las demás actividades que se establezcan en las leyes de ingresos de los ayuntamientos.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -2660,3 +2658,13 @@ Hasta en tanto el Congreso del Estado apruebe las cuotas y tarifas por los servi
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto por esta Ley.
+
+B.O. 19 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El segundo párrafo del artículo 59 de la Ley de Hacienda Municipal contenido en el presente Decreto, entrará en vigor a partir del día primero de enero de 2004, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El resto de las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
