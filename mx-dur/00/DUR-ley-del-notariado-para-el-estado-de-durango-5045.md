@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "1974-06-20"
+last_updated: "1979-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1979.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -117,6 +117,14 @@ El notario podrá recibir informaciones sobre construcciones o mejoras de fincas
 
 El notario residirá y solo podrá actuar dentro de la demarcación notarial de su adscripción; pero puede autenticar actos referentes a cualquier otro lugar.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+Cuando a juicio del Ejecutivo no se perjudique el desempeño de la función notarial, previa autorización, podrá el Notario establecer su domicilio en otro Municipio o Distrito que no sea el de su adscripción.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+En casos especiales y específicos, el Ejecutivo del Estado podrá discrecionalmente autorizar a los Notarios para actuar fuera de su demarcación, a solicitud escrita y motivada del interesado en las diligencias de que se trate, siempre y cuando en la demarcación en que vaya a actuar el autorizado no exista más que un solo Notario.
+
 ###### ARTICULO 9.
 
 Los notarios no serán remunerados por el Erario y cobrarán a los interesados los honorarios que devenguen conforme al Arancel, y los gastos que se causen.
@@ -126,6 +134,10 @@ Los notarios no serán remunerados por el Erario y cobrarán a los interesados l
 ###### ARTICULO 10.
 
 El protocolo está constituído por los libros en los cuales el notario asienta las escrituras y las actas, y por los apéndices de los mismos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+Independientemente del protocolo y del apéndice, los Notarios tendrán obligación de llevar un índice, por duplicado de cada juego de libros, de todos los instrumentos que autorice, por orden alfabético, de apellidos de los otorgantes, con expresión del número de las escrituras o actas, naturaleza del acto o hecho, página, volumen y fecha. Cuando llegue el momento de depositar los libros de protocolo en el Archivo General de Notarías, se entregará un ejemplar de dicho índice al mismo Archivo y otro lo conservará el Notario.
 
 ###### ARTICULO 11.
 
@@ -201,13 +213,17 @@ Los apéndices se encuadernarán ordenadamente y se empastarán en volúmenes, a
 
 Los documentos del apéndice no podrán desglosarse; los conservará el notario y seguirán a su libro respectivo del protocolo, cuando éste se envíe a la Dirección General de Notarías para ser archivado.
 
-### CAPITULO TERCERO. DE LAS ESCRITURAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+### CAPITULO TERCERO. DE LAS ESCRITURAS Y DE LAS ACTAS
+
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1979)</small>
 
 ### CAPITULO CUARTO. DE LOS TESTIMONIOS
 
 ###### ARTICULO 27.
 
-Escritura es el instrumento asentado por orden del notario en el protocolo, haciendo constar un acto ó un hecho jurídicos, y que tiene la firma y sello del notario.
+Escritura es el instrumento asentado por orden del Notario en el protocolo, haciendo constar un acto o un hecho jurídicos, y que tiene la firma y sello del Notario. Acta notarial es el instrumento original que el Notario levanta fuera de protocolo para hacer constar un hecho o acto jurídico de los que se contienen en el Artículo 42 de la Ley y que tiene la firma y el sello del Notario.
 
 Se tendrá como parte de la escritura, el documento en que se consigne el contrato ó acto jurídico de que se trata, siempre que, redactado y firmado por el notario y por las partes que en él intervengan en cada una de las hojas, se agregue al apéndice, llene los requisitos que señala este capítulo, y en el protocolo se levante una acta en la que se haga un extracto del documento, indicando sus elementos esenciales.
 
@@ -263,6 +279,10 @@ Para que el notario dé fé de conocer a los comparecientes y de que tienen capa
 
 En caso de no ser reconocidos los comparecientes, hará constar su identidad y capacidad si le presentan documentos oficiales que las acrediten, ó por la declaración de dos testigos idóneos a quienes conozca el notario, quien así lo expresará en la escritura.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+ARTICULO 31 BIS.- Los representantes o apoderados deberán declarar sobre la capacidad legal de sus representados y esta declaración se hará constar en el acta o escritura.
+
 ###### ARTICULO 32.
 
 Si el notario no pudiere identificar a las partes, no se otorgará la escritura, salvo caso grave ó urgente, expresando el notario la razón correspondiente. La escritura se confirmará, comprobada que sea plenamente la identidad del compareciente.
@@ -311,9 +331,11 @@ Cada escritura llevará al márgen, además de su número progresivo, la clasifi
 
 Se prohibe a los notarios consignar revocaciones, rescisiones ó modificaciones al contenido de una escritura con simple razón al márgen de ella. En estos casos debe extenderse nueva escritura y anotar la antigua, salvo disposición expresa de la Ley, en sentido contrario.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 42.
 
-El notario no podrá autorizar acto alguno, sino haciéndolo constar en el protocolo y observando las formalidades prescritas en esta Ley, exceptuándose las siguientes:
+El Notario no podrá autorizar acto alguno, sino haciéndolo constar en el protocolo y observando las formalidades prescritas en esta Ley, podrá sin embargo autorizar fuera de protocolo actas referentes a los hechos y actos siguientes:
 
 I.- Las cubiertas de los testamentos cerrados.
 
@@ -322,6 +344,18 @@ II.- Las copias certificadas que expidieren de los documentos que se les present
 III.- Las notas de cotejo de actas parroquiales, y copias fotostáticas.
 
 IV.- Las legalizaciones de firmas.
+
+> <small>(ADICIONADA, P.O.16 DE DICIEMBRE DE 1979)</small>
+
+V.- Notificaciones, interpelaciones, requerimientos, protesto de documentos mercantiles y otras diligencias en las que deba y pueda intervenir el Notario según las Leyes.
+
+> <small>(ADICIONADA, P.O.16 DE DICIEMBRE DE 1979)</small>
+
+VI.- La identidad y capacidad legal de personas conocidas por el Notario; también la comprobación de que dichas personas estampen su firma o huella digital en algún documento.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+VII.- Hechos materiales, cotejo de documentos y certificaciones; cotejo de planos y fotografías, etc.
 
 Cuando se trate de diligencias de jurisdicción voluntarias ó juicios sucesorios promovidos ante los notarios, éstos formarán expediente fuera del protocolo pero con sujeción a todas las reglas que para los Jueces previene el Código de Procedimientos Civiles, debiéndo hacer ellos mismos las notificaciones relativas a los propios interesados personalmente ó a la persona que éstos hubieren designado expresamente. Tan pronto como hubiere oposición de alguna de las partes, el notario se declarará incompetente y pasará el expediente al Juzgado de Primera Instancia respectivo.
 
@@ -345,17 +379,43 @@ IV.- El notario autorizará el acta, aún cuando no haya sido firmada por el int
 
 V.- En los casos de protesto, no será necesario que el notario conozca a la persona con quien lo entienda. Tampoco seré (sic) necesario que el notario conozca a la persona que recibe el instructivo en los casos de notificaciones;
 
-VI.- La fuerza pública prestará a los notarios el auxilio que requieran para llevar a cabo las diligencias que aquéllos deban practicar conforme a la Ley, cuando se les opusiera resistencia ó se use ó pueda usarse violencia en contra de los mismos.
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+VI.- En lo referente a comprobación de firma o huellas digitales, ésta figurará no sólo en el acta, sino en los instrumentos y certificaciones que de ellas se expidan, y en todos estos documentos, el Notario hará constar que ante él se pusieron las firmas o huellas digitales y que conoce a la persona que las puso o que la identificó por testigos conocidos del Notario.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+VII.- Tratándose de cotejo de partidas parroquiales, el acto se levantará en la copia o en hoja que se le adhiere y el Notario hará constar que concuerda con su original exactamente o especificará las diferencias que encuentre; cuando se trate de cotejo de documentos, se presentarán ambos al Notario, quien hará constar que la copia es fiel reproducción de su original, consignando en todo caso en el libro de control de actas fuera de protocolo el lugar, la fecha y el número de registro que en dicho libro le corresponde.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+VIII.- Tratándose de cubierta de testamento cerrado que se presente ante el Notario, hará constar en el libro de control de actas fuera de protocolo, el nombre del otorgante, la fecha en que se presente el testamento y la fecha del aviso al Archivo General de Notarías.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+IX.- Siempre que sea posible el Notario dejará una copia de las actas o documentos que autorice fuera de protocolo, con las que formará un legajo, marcándoles el número de acta que les corresponde en el libro.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+X.- La fuerza pública prestará a los Notarios el auxilio que requieran para llevar a cabo las diligencias que aquellos deban practicar conforme a la Ley, cuando se les opusiera resistencia o se use o pueda usarse violencia en contra de los mismos.
 
 ###### ARTICULO 45.
 
 Las notificaciones que la Ley permita hacer por medio de notario, ó que no estén expresamente reservadas a otros funcionarios, podrá hacerlas el notario por medio de instructivo que contenga la relación suscinta del objeto de la notificación, siempre que a la primera busca no se encuentre a la persona que deba ser notificada; pero cerciorándose previamente de que dicha persona tiene su domicilio en la casa donde se busca y haciéndose constar en el acta el nombre de la persona que recibe el instructivo, salvo disposiciones expresas en otras leyes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 46.
 
-En las actas de protocolización, hará constar el notario que el documento ó las constancias de diligencias jurídicas, cuya naturaleza indicará, los agrega al apéndice, en el legajo marcado con el número del acta y bajo la letra que le corresponda. No se podrá protocolizar el documento cuyo contenido sea contrario a las leyes ó a la moral.
+A petición del interesado el Notario podrá protocolizar o hacer constar dentro del protocolo cualquier acto o hecho jurídico de los que la Ley permite que se autoricen fuera de protocolo.
 
 La protocolización deberá hacerse agregando el ó los documentos ó copias certificadas al apéndice para después insertar su texto en los testimonios que se expidan.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+ARTICULO 46 BIS.- Los Notarios para autorizar actas fuera de protocolo tienen obligación de llevar un libro autorizado por la Secretaría General de Gobierno y Dirección General de Notarías del Estado en el que registrarán con numeración progresiva y por orden cronológico todas las que se asienten.
+
+Una vez que se agote la capacidad del libro, el Notario procederá a la anotación de cierre que será certificada por el Secretario General de Gobierno y Director de Notarías, y se proveerá de nuevo libro.
 
 ###### ARTICULO 47.
 
@@ -409,7 +469,9 @@ I.- Si el notario no tiene expedito el ejercicio de sus funciones al otorgarse e
 
 II.- Si no le está permitido por la Ley intervenir en el acto ó hecho jurídico;
 
-III.- Si fueren otorgadas ó autorizadas por el notario, fuera de la demarcación designada a éste para actuar;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+III.- Si fueron otorgadas o autorizadas por el Notario fuera de la Demarcación que tiene designada para actuar, a excepción de que se le hubiere autorizado para hacerlo en otra Demarcación, conforme al Artículo 8 de esta Ley;
 
 IV.- Si han sido redactadas en idioma extranjero;
 
@@ -431,7 +493,9 @@ I.- Si fuera nula la escritura ó el acta;
 
 II.- Si el notario no tiene expedito el ejercicio de sus funciones al autorizar el testimonio;
 
-III.- Si lo autoriza fuera de su demarcación;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+III.- Si lo autorizó fuera de su demarcación, a excepción de que se le hubiere autorizado para actuar en otra Demarcación, conforme al Artículo 8 de esta Ley;
 
 IV.- Si no está autorizado con la firma y sello del notario;
 
@@ -483,6 +547,8 @@ El monto de la garantía que constituye el notario, cuando se haga efectiva, se 
 
 ### CAPITULO SEGUNDO. DE LAS NOTARIAS Y DEMARCACIONES NOTARIALES
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 63.
 
 La Dirección del Notariado queda a cargo del Ejecutivo del Estado.
@@ -497,15 +563,15 @@ La oficina de los notarios se denominará "NOTARIA PUBLICA NUMERO ...."; estará
 
 ###### ARTICULO 66.
 
-En el Estado de Durango, habrá cuando menos un notario por cada Distrito Judicial, y si éste excede de cincuenta mil habitantes, se nombrará uno por cada treinta mil habitantes ó fracción.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 1979)
 
 ### CAPITULO TERCERO. DE LOS NOTARIOS
 
 ###### ARTICULO 67.
 
-Las demarcaciones notariales corresponderán a la de los Distritos Judiciales.
+Las Demarcaciones Notariales corresponderán a la de los Distritos Judiciales.
 
-En cada demarcación notarial no podrá haber más de un notario por cada treinta mil habitantes.
+El Ejecutivo del Estado, con la facultad que le concede esta Ley, delega la función pública del ejercicio notariado en el Estado, como sigue: Para el Distrito Judicial de la Capital a 20 Notarios; al Distrito Judicial de Gómez Palacio a 11 Notarios; al Distrito judicial de Ciudad Lerdo, a 3 Notarios; al Distrito Judicial de Santiago Papasquiaro a 2 Notarios; y para cada uno de los restantes Distritos Judiciales de la Entidad, a 1 Notario.
 
 ###### ARTICULO 68.
 
@@ -514,6 +580,10 @@ En los lugares donde resida el Juzgado de Primera Instancia y que no haya notar�
 ###### ARTICULO 69.
 
 Puede autorizarse permutas del cargo notarial entre los notarios del Estado, previa solicitud de los permutantes. El Ejecutivo del Estado resolverá en definitiva sobre la solicitud en el término de treinta días.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+Puede asímismo autorizar a petición del interesado cuántos cambios de jurisdicción territorial notarial estime pertinente, excepción hecha de los casos en que el Notario lo sea por Ministerio de Ley.
 
 ### CAPITULO CUARTO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
@@ -525,7 +595,9 @@ I.- Ser mexicano por nacimiento;
 
 II.- Haber cumplido 25 años;
 
-III.- Tener título de Licenciado en Derecho, registrado en la Dirección de Profesiones del Estado y con cinco años cuando menos de ejerccicio (sic) profesional en el Estado de Durango;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 1979)</small>
+
+III.- Tener título de Licenciado en Derecho, registrado en la Dirección de Profesiones, con cinco años cuando menos de ejercicio profesional y, "HACER UNA PRACTICA EFECTIVA EN UNA NOTARIA POR UN PERIODO DE UN AÑO";
 
 IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones del notario;
 
@@ -545,9 +617,11 @@ XI.- No ser ministro de algún culto religioso, no haber hecho votos que exijan 
 
 XII.- Estar vacante alguna notaría y triunfar en el examen de oposición.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 71.
 
-Los requisitos que fijan las Fracciones I y II del artículo 70 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la Fracción III por el título correspondiente, inscrito en la Dirección General de Profesiones y por constancias expedidas por Jueces de Primera Instancia o por el Consejo del Colegio de Notarios; los de la Fracción IV, con certificado de dos médicos con título oficial; los de la Fracción V, con información testimonial de dos testigos idóneos recibida con audiencia del Ministerio Público y del Delegado del Consejo de Notarios, quien a su vez puede rendir pruebas en contrario; el de la Fracción VI, con certificado expedido por la Presidencia Municipal correspondiente; el de la Fracción VII, con la patente respectiva; los de la fracción VIII, con certificación expedida por el Supremo Tribunal de Justicia en el Estado; los de las Fracciones IX, X y XI, no requieren prueba, pero su afirmación admite prueba en contrario los de la Fracción XII con copia del acta del examen de oposición.
+Los requisitos que fijan las fracciones I y II del Artículo 70 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III por el título correspondiente, inscrito en la Dirección General de Profesiones y por constancias expedidas por Jueces de Primera Instancia o por el Consejo de Colegio de Notarios; la práctica de Notario se justificará con el aviso a la Dirección General de Notarías y con la constancia expedida por el Notario con quien se haya hecho.
 
 ###### ARTICULO 72.
 
@@ -649,9 +723,9 @@ Si después de extendida la patente de aspirante de notario, resultare que por c
 
 No podrán considerarse como aspirantes de notario los jueces que por ministerio de ley ejerzan como notarios.
 
-### CAPITULO SEXTO. DE LA SEPARACION TEMPORAL Y
+### CAPITULO SEXTO. DE LA SEPARACION TEMPORAL DE NOTARIOS DE LA ASOCIACION, DE LA SUPLENCIA Y DE LOS ADSCRITOS
 
-DE LA SUPLENCIA DE NOTARIOS
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 92.
 
@@ -691,11 +765,17 @@ Si como resultado del examen, el jurado considera que ninguno de los sustentante
 
 Cumplidos los requisitos a que se refieren los artículos anteriores, el Ejecutivo del Estado resolverá en definitiva si concede o niega la patente de notario al que hubiere triunfado en el exámen, en caso de concederse se registrará en la Dirección del Comercio de su demarcación y en el Consejo de (sic) Colegio de Notarios; y se publicará por una sola vez en el Periódico Oficial del Estado, a costa del interesado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O 16 DE DICIEMBRE DE 1979)</small>
+
 ### CAPITULO SEPTIMO. DE LA CESACION DEFINITIVA O TERMINACION DEL CARGO DE NOTARIO
 
 ###### ARTICULO 101.
 
-El notario podrá celebrar un convenio con otro notario, para suplirse recíprocamente en sus faltas temporales.
+Siendo el ejercicio del notariado una función de orden público debe prestarse permanentemente a cuyo efecto cuando un Notario deje de actuar temporalmente tendrá que desempeñar el cargo, el Asociado, el Suplente o el Adscrito, en su caso.
+
+Dos Notarios podrán asociarse para actuar durante el tiempo que estimen conveniente, indistintamente en un protocolo, que será el del Notario más antiguo.
+
+Un Notario puede celebrar Convenio con otro Notario para suplirse recíprocamente en sus faltas temporales.
 
 ###### ARTICULO 102.
 
@@ -992,3 +1072,25 @@ Por tanto mando se imprima, publique y circule y comunique a quiénes correspond
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los dieciocho días del mes de junio del año de mil novecientos setenta y cuatro.
 
 El Gobernador Constitucional del Estado, Ing. ALEJANDRO PAEZ URQUIDI.- El Secretario General de Gobierno, Lic. A. SERGIO GUERRERO MIER.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 1979.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los aspirantes al ejercicio del Notariado que tengan su patente expedida por el Ejecutivo del Estado con anterioridad a la fecha en que entre en vigor este Decreto, no tendrán necesidad de acreditar para el examen de oposición la práctica de un año que como nuevo requisito se establece en el Artículo 70, Fracción III de la Ley del Notariado.
+
+TERCERO.- Para los efectos del Artículo 101 de la Ley, todos los Notarios del Estado deberán dentro del término de 30 días presentar ante el Ejecutivo del Estado los Convenios de Asociación o Suplencia, o harán saber el nombre de su Adscrito; en las Demarcaciones Notariales en que no exista más que un solo Notario, el Juez de Primera Instancia será quien supla sus faltas temporales.
+
+CUARTO.- Se declaran vacantes las Notarías Públicas siguientes:
+
+I.- Para el Distrito de la Capital, la Notaría No. 2, 16, 17, 18, 19 y 20.
+
+II.- Para el Distrito de Gómez Palacio, 2, 3, 4 y 5.
+
+III.- Para el Distrito de Ciudad Lerdo, 2 y 3.
+
+IV.- Para el Distrito de Santiago Papasquiaro, la 2.
+
+QUINTO.- Se convoca a los aspirantes al ejercicio del Notariado para que dentro del plazo de 30 días siguientes a la publicación de este Decreto se inscriban para participar en los exámenes de oposición y puedan obtener el nombramiento correspondiente de Notario Público.
