@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-16056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-02-29"
-last_updated: "2000-02-29"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de febrero de 2000.
 
@@ -71,9 +71,23 @@ Asimismo, el Gobernador del Estado podrá constituir comisiones u organismos de 
 
 Las comisiones u organismos podrán ser transitorios o permanentes y serán presididos por quien determine el Titular del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 8.
 
-El Gobernador del Estado podrá convenir con el Gobierno Federal, con los ayuntamientos de la entidad y con los sectores social y privado, la prestación de servicios públicos y la ejecución de obras que favorezcan el desarrollo de la Entidad.
+El Gobernador del Estado podrá convenir con los gobiernos federal y municipales y con los sectores social y/o privado, en los términos previstos por la Constitución Política del Estado y demás disposiciones aplicables, el ejercicio de funciones, la prestación de servicios públicos y la ejecución o atención de obras que favorezcan el desarrollo de la entidad.
+
+El Ejecutivo del Estado a través de sus dependencias y entidades centralizadas y paraestatales, deberán mantener con el gobierno municipal una relación permanente de colaboración constructiva, corresponsable y de ayuda mutua a favor del desarrollo democrático, basado en el constante mejoramiento político, económico, social y cultural del Estado.
+
+El Ejecutivo del Estado es la autoridad competente para determinar los Distritos Notariales, las Zonas de Desarrollo Económico y demás circunscripciones de la administración pública estatal, con base en la agrupación de los municipios, de acuerdo con las reglas siguientes:
+
+I. La dependencia competente elaborará un proyecto de los Distritos Notariales, las Zonas de Desarrollo Económico y demás circunscripciones de la administración pública estatal.
+
+II. Se pedirá la opinión de los municipios que formen parte del distrito, zona o circunscripción de que se trate. En este caso, los ayuntamientos deberán emitir su opinión dentro de los quince días naturales siguientes de haber recibido la petición. Concluido el plazo el Ejecutivo dictará la resolución correspondiente.
+
+III. La aprobación de los Distritos Notariales, las Zonas de Desarrollo Económico y demás circunscripciones de la administración pública estatal, se mandarán publicar en el Periódico Oficial del Gobierno del Estado.
+
+IV. Se podrán modificar los Distritos Notariales, las Zonas de Desarrollo Económico y demás circunscripciones de la administración pública estatal, determinadas por el Ejecutivo del Estado, previo el procedimiento que establece este artículo.
 
 ###### ARTICULO 9.
 
@@ -175,17 +189,25 @@ En caso de duda respecto a la facultad de las dependencias para conocer de un as
 
 ### CAPITULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PUBLICA CENTRALIZADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 24.
 
-La Secretaría de Gobierno, por delegación del Titular del Ejecutivo, tiene a su cargo la conducción de la política interior del Estado, ser el conducto de la relación institucional del Gobierno con los Poderes Legislativo y Judicial y con los ayuntamientos, así como la coordinación funcional de las áreas relativas al trabajo, registro público, registro civil, notarías, defensoría de oficio y lo relativo a menores infractores. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Gobierno, por delegación del Titular del Ejecutivo tiene a su cargo la conducción de la política interior y la seguridad interna del Estado, ser el conducto de la relación institucional de la administración pública con los Poderes Legislativo y Judicial del Estado y con los gobiernos municipales de la entidad; así como la coordinación funcional de las áreas relativas al trabajo, registro público, registro civil, notarías, defensoría de oficio y lo relativo a menores infractores. Le corresponde el despacho de los siguientes asuntos:
 
 I. Cuidar la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Coahuila de Zaragoza, especialmente en lo que se refiere al pleno goce y respeto de las garantías individuales y sociales, así como dictar las medidas conducentes que se requieran para su cumplimiento;
 
 II. Conducir los asuntos internos de orden político y de población en el Estado;
 
-III. Coordinar las relaciones del Ejecutivo con el Gobierno Federal, con los otros Poderes del Estado, con los ayuntamientos de la entidad y los agentes consulares, en lo relativo a su competencia;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV. Atender los asuntos relativos a la demarcación y conservación de los límites del Estado y sus municipios y, en caso de conflicto, previo acuerdo del Ejecutivo, plantear su solución ante la instancia correspondiente;
+III. Coordinar las relaciones del Ejecutivo con los gobiernos federal y municipales de la entidad, con los otros Poderes del Estado y los agentes consulares, en lo relativo a su competencia.
+
+Así mismo, establecer los mecanismos y las acciones necesarias para propiciar la solidaridad entre los ayuntamientos de la entidad bajo el principio de fidelidad municipal y coordinar institucionalmente la relación permanente de colaboración constructiva y de ayuda mutua entre Ejecutivo del Estado y los Municipios;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV. Atender los asuntos relativos a la demarcación y conservación de los límites del Estado y sus municipios y, en caso de conflicto, previo acuerdo del Ejecutivo, emitir a los ayuntamientos o, en su caso, a las autoridades legislativas o judiciales competentes, alternativas de solución y opiniones;
 
 V. Intervenir en coordinación con las autoridades federales, para que se cumplan las disposiciones legales en materia de culto religioso, loterías, rifas, juegos con apuestas y sorteos, portación de armas, detonantes, pirotecnia y asociaciones de tiro;
 
@@ -195,9 +217,13 @@ VII. Llevar el calendario oficial y el registro de autógrafos, legalizar y cert
 
 VIII. Revisar los proyectos de iniciativas de ley y decretos del Ejecutivo, y dar a los mismos el trámite que corresponda;
 
-IX. Ser el conducto para presentar ante la Legislatura del Estado, las iniciativas de ley o decretos del Ejecutivo;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-X. Instrumentar jurídicamente las decisiones del Gobernador;
+IX. Ser el conducto para presentar ante la Legislatura del Estado las iniciativas de ley o decretos del Ejecutivo, fijando los tiempos idóneos para su presentación según la agenda legislativa acordada por el Ejecutivo;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X. Coordinar, instrumentar y evaluar jurídica y políticamente las iniciativas y demás decisiones del Gobernador;
 
 XI. Sistematizar, compilar y archivar la legislación federal y estatal;
 
@@ -243,7 +269,19 @@ XXXI. Proporcionar asesoría jurídica a las Dependencias y Entidades del Ejecut
 
 XXXII. Intervenir como representante legal del Ejecutivo del Estado, en las controversias derivadas de los conflictos individuales y colectivos de sus trabajadores planteados ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios; y
 
-XXXIII. Los demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXIII. Coordinar y evaluar para la seguridad interna del Estado a las diversas dependencias y entidades de la administración pública estatal que, por sus funciones, participen en las labores de seguridad pública, protección civil y ciudadana;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXIV. Promover, apoyar, evaluar y dar seguimiento a la participación comunitaria en la toma de decisiones fundamentales del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXV. Proponer al Ejecutivo del Estado los distritos notariales y demás circunscripciones de la administración pública estatal;
+
+XXXVI. Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 25.
 
@@ -423,7 +461,9 @@ XXXV. Vigilar el cumplimiento de las disposiciones legales en materia de ecolog�
 
 XXXVI. Ordenar los estudios de impacto ambiental y evaluar sus implicaciones en los proyectos de desarrollo que le presenten los sectores público, social y privado, remitiendo el dictamen respectivo a la Secretaría de Urbanismo y Obras Públicas para los efectos legales conducentes;
 
-XXXVII. Normar y vigilar la conservación y mejoramiento de los sistemas de agua potable, drenaje y alcantarillado;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXVII. Coadyuvar con los municipios en la conservación y mejoramiento de los sistemas de agua potable, drenaje, alcantarillado, tratamiento y disposiciones de aguas;
 
 XXXVIII. Establecer sistemas de verificación ambiental y monitoreo de las aguas residuales;
 
@@ -441,7 +481,13 @@ XLIV. Promover en coordinación con la Secretaría de Educación Pública y las 
 
 XLV. Promover la investigación y el desarrollo de actividades que conduzcan a aumentar la productividad y mejorar la calidad de los bienes y servicios en las áreas correspondientes; y
 
-XLVI Los demás que expresamente le atribuyan las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XLVI. Proponer al titular del Ejecutivo las Zonas de Desarrollo Económico de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XLVII. Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 27.
 
@@ -481,7 +527,13 @@ XVI. Apoyar y promover la educación física y estimular la práctica del deport
 
 XVII. Conducir la administración de los organismos que integran al personal al servicio de la educación; y
 
-XVIII. Los demás que expresamente le atribuyan las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XVIII. Celebrar los convenios o contratos que fueren necesarios en la materia de su competencia y previo acuerdo del Ejecutivo, con la federación, los ayuntamientos de la entidad, instituciones públicas o privadas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE MARZO DE 2001)</small>
+
+XIX. Los demás que expresamente le atribuyan las leyes y reglamentos.
 
 ###### ARTICULO 28.
 
@@ -675,13 +727,19 @@ XVII. Normar y vigilar el funcionamiento del transporte público y de carga de c
 
 XVIII. Diseñar y proponer sistemas alternativos más eficientes para el transporte público de pasajeros;
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Para tal efecto, promoverá la participación del o de los ayuntamientos que correspondan;
+
 XIX. Administrar la operación de aeropuertos y aeropistas a cargo del Gobierno del Estado;
 
 XX. Formular, conducir, ejecutar y evaluar en coordinación con la Secretaría de Planeación y Desarrollo y la Secretaría de Desarrollo Social, la política general de desarrollo urbano del Estado y los programas referentes a asentamientos humanos, urbanismo, vivienda, uso del suelo y ecología;
 
 XXI. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de urbanismo, edificación y construcciones en general, e imponer en su caso, las sanciones que procedan por la infracción de dichos ordenamientos;
 
-XXII. Formular, revisar y ejecutar el Plan Estatal de Desarrollo Urbano, los planes parciales, y proponer sus modificaciones, así como promover la implementación de los Planes Municipales de Desarrollo Urbano y de Centros de Población Municipales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXII. Formular, revisar y ejecutar el Plan Estatal de Desarrollo Urbano, los planes parciales y proponer sus modificaciones, así como prestar la asesoría y el apoyo que le sea requerido por los ayuntamientos de la entidad para la formulación e implementación de los Planes de Desarrollo Urbano Municipal y de Centros de Población Municipales;
 
 XXIII. Promover y vigilar el desarrollo urbano de las diversas comunidades y centros de población del Estado;
 
@@ -689,9 +747,13 @@ XXIV. Promover, fomentar y fortalecer la organización formal de grupos y sector
 
 XXV. Proponer al Ejecutivo del Estado la celebración de convenios con el Gobierno Federal, los ayuntamientos, las entidades paraestatales y organizaciones sociales que participen en los programas de desarrollo urbano y asentamientos humanos;
 
-XXVI. Asesorar a los ayuntamientos para la formulación de los planes de alineamiento de ciudades, villas y poblados;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XXVII. Proporcionar asesoría a los ayuntamientos para la formulación de los programas de desarrollo urbano municipal y su reglamentación respectiva;
+XXVI. Coadyuvar y asesorar a los ayuntamientos para la formulación de los planes de alineamiento de ciudades, villas y poblados, cuando así lo soliciten;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXVII. Proporcionar asesoría a los ayuntamientos y colaborar con ellos en la formulación de los programas de desarrollo urbano municipal y su reglamentación respectiva, cuando así lo soliciten;
 
 XXVIII. Autorizar, modificar o rechazar los proyectos de fraccionamientos, conjuntos habitacionales, edificaciones y usos de espacio en general, conforme a las disposiciones legales, y emitir la documentación correspondiente;
 
@@ -910,3 +972,45 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ
 EL SECRETARIO DE GOBIERNO
 
 LIC. RAUL SIFUENTES GUERRERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
