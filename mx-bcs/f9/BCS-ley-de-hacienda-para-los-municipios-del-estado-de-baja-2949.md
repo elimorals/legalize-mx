@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1986-07-10"
+last_updated: "1987-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE JULIO DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -69,11 +69,11 @@ b).- Cuando se derive de contratos preparatorios, de venta con reserva de domini
 
 c).- Cuando los titulares sean la Federación, Estado o Municipios y se encuentren en explotación por personas distintas de los titulares.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 2o.
 
-El Impuesto Predial incluye la propiedad o posesión de las construcciones, pero en los predios rústicos comprende solamente las que sean utilizadas directamente por propio destino en fines agrícolas, ganaderos, forestales o de vigilancia de la heredad.
-
-No es objeto del Impuesto Predial la propiedad o posesión de los predios a que se refiere el Artículo anterior, cuando corresponda a la Federación, al Estado o a los Municipios y además los exploten directamente.
+El impuesto predial comprende la propiedad o posesión de terrenos y construcciones.
 
 SUJETOS DEL IMPUESTO.
 
@@ -89,7 +89,9 @@ III.- Los propietarios de plantas de beneficio y establecimientos metalúrgicos.
 
 IV.- Los poseedores de predios urbanos o rústicos, en el caso que se refiere la Fracción V del Artículo 1o.
 
-V.- Los fideicomitentes, mientras el difuciario no trasmita la propiedad del predio al fideicomisario o a otras personas en cumplimiento del fideicomiso.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+V.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso; o los fideicomisarios que estén en posesión del predio, aún cuando no se les haya trasmitido tadavía (sic) la propiedad, o los terceros adquirientes o posesionarios por cualquier acto derivado de un fideicomiso.
 
 VI.- Los propietarios de construcciones que hayan sido levantadas en terrenos que no sean de su propiedad, los cuales son además responsables solidarios por el pago del impuesto que corresponda al terreno.
 
@@ -109,15 +111,17 @@ Son sujetos por deuda ajena y con responsabilidad substituta, los Servidores Pú
 
 BASE Y TASA DEL IMPUESTO.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 7o.
 
-El impuesto sobre la propiedad Rústica y Urbana se causará:
+El impuesto predial sobre la propiedad rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-I.- Por la propiedad rústica al 75% de su valor catastral.
+a).- 8 al millar anual si están explotados por su dueño.
 
-II.- El valor de los predios rústicos comprenderá el de los terrenos, instalaciones y obras fijas y semifijas para los fines propios del predio, tales como pozos, casas, albergues, canales y demás instalaciones para su explotación.
+b).- 15 al millar anual si no están explotados por su dueño.
 
-III.- Sobre la propiedad urbana: al 50% de su valor catastral.
+En ningún caso el impuesto predial anual será inferior a un día salario mínimo.
 
 ###### ARTICULO 8o.
 
@@ -127,35 +131,21 @@ El impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas
 
 El Impuesto sobre plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca y la maquinaria.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 10.
 
-El Impuesto predial se causará como sigue:
+El impuesto predial sobre la propiedad urbana se causará:
 
-I.- Predios rústicos:
+a).- A razón de 5 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-a).- 8 al millar anual si están explotados por su dueño.
+b).- A razón de 10 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente.
 
-b).- 15 al millar anual si no están explotados por su dueño.
+c).- A razón de 20 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2 al millar hasta en tanto no sea construida una edificación y que no exceda del 40 al millar.
 
-c).- En ninguno de los casos a que se refiere esta Fracción, el impuesto anual será menor de $ 500.00.
+Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno.
 
-II.- Predios urbanos edificados:
-
-a).- 4 al millar anual, cuando la finca está habitada por su dueño.
-
-También se pagará 4 al millar anual, si se presenta el caso de que en un predio existe habitación propia y en parte del terreno se encuentre una construcción erigida por otra persona; por la construcción ajena se causará el impuesto en función del uso que se le dé.
-
-b).- 10 al millar anual cuando el predio sea destinado para comercio propio o ajeno, arrendamiento, comodato, industria, se encuentre desocupado o tenga otro uso, que no sea el de habitación particular, o que parcialmente se ocupa como habitación propia y tenga otro o más usos.
-
-c).- 10 al millar anual cuando no sea posible establecer bases para el cobro del impuesto.
-
-III.- Predios urbanos no edificados:
-
-a).- 15 al millar cuando el predio se encuentre baldío o tenga construcciones provisionales y que su uso sea distinto al de habitación propia.
-
-En ninguno de los casos a que se refiere esta Fracción, el impuesto anual será menor de $500.00.
-
-IV.- Plantas de beneficio o establecimiento metalúrgicos: 5 al millar anual.
+En ningún caso el impuesto predial anual deberá ser inferior a un día salario mínimo.
 
 ###### ARTICULO 11.
 
@@ -163,7 +153,9 @@ El impuesto predial se cubrirá en las oficinas Recaudadoras correspondientes:
 
 I.- Sobre la propiedad urbana, rústica y las plantas de beneficio, establecimientos metalúrgicos, por bimestres adelantados en los primeros diez días de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre.
 
-Si el impuesto anual no excede de $ 500.00 deberá cubrirse en una sola exhibición dentro del Mes de Enero del año que corresponda.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+Si el impuesto anual equivale a un día salario mínimo, deberá cubrirse en una sola exhibición dentro del mes de enero del año correspondiente.
 
 II.- Sobre la propiedad ejidal, al recibir el pago de sus productos.
 
@@ -177,7 +169,9 @@ El pago por anualidad anticipada del Impuesto Predial no impide el cobro de dife
 
 V.- La cuota del impuesto sobre el valor más alto entre el catastral, el de adquisición, el declarado por el causante y el de avalúo pericial, entrará en vigor a partir del bimestre siguiente al de aquel en que ocurra el hecho o circunstancia que de lugar a la práctica del avalúo conforme al Código Fiscal y Ley de Catastro; sin perjuicio de que si tal hecho o circunstancia ocurre en el caso de predios, construcciones, los llenos de las fincas rústicas y ejidales y los terrenos inexactamente clasificados por los que no se hubiese cubierto el impuesto, la dependencia correspondiente determinará el gravamen en cantidad líquida y lo haga efectivo respecto de los cinco años anteriores, conforme a las disposiciones legales vigentes de ese entonces.
 
-Cuando se trate de cambios de valores unitarios de terrenos y construcciones por revaluación que señalan los Artículos relativos de la Ley de Catastro, la cuota del impuesto sobre los valores detallados en el párrafo que antecede, entrará en vigor a partir del bimestre siguiente al de haber sido publicados los valores unitarios en el Boletín Oficial del Gobierno del Estado. En caso particular de predios urbanos, la base del impuesto predial será el 50% de su valor catastral.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+Cuando se trate de cambios de valores unitarios de terrenos y construcciones por revaluación que señalan los Artículos relativos de la Ley de Catastro, la cuota del impuesto sobre los valores detallados en el párrafo que antecede, entrará en vigor a partir del bimestre siguiente al de haber sido publicado (sic) los valores unitarios en el Boletín Oficial del Gobierno del Estado.
 
 EXENCIONES.
 
@@ -185,7 +179,11 @@ EXENCIONES.
 
 Están exentos del pago del Impuesto Predial:
 
-I.- Los predios de dominio público, de la Federación, Estados, Municipios y de uso común.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+I.- Los bienes de dominio público de la Federación, Estados y Municipios.
+
+No quedan exentos de pago los bienes de dominio público que organismos públicos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los de su objeto.
 
 II.- Por un año, las fincas inutilizadas por incendio, derrumbe u otra cosa semejante ajena a la voluntad del dueño, siempre y cuando dentro del plazo señalado no se determinen nuevas construcciones o se dé en arrendamiento el predio.
 
@@ -199,21 +197,27 @@ Los causantes no quedarán liberados de la obligación de presentar las manifest
 
 IMPUESTO SOBRE ADQUISICION DE INMUEBLES.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 14.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el Territorio del Municipio. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en 8 veces al salario mínimo general de la zona, elevado al año.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicado en el territorio de los Municipios, así como los derechos relacionados con los mismos, a que este Capítulo se refiere. El impuesto se calculará, aplicando la tasa del 10% al valor del inmueble, después de reducirlo en cinco veces al salario mínimo general de la zona, elevado al año. En el caso de adquisición de casas habitación de interés social, ya sean las construidas por Instituciones Oficiales, Particulares o Banca Nacionalizada, siempre que su valor no exceda de los dos primeros cajones que determinen las Instituciones Bancarias. El impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en 8 veces al salario mínimo general de la zona, elevada al año.
+
+Cuando del inmueble forman parte departamentos habitacionales la reducción se hará por cada uno de ellos, lo dispuesto en este párrafo no es aplicable a hoteles.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 15.
 
-No se pagará este impuesto en el siguiente caso:
-
-El caso de adquisición de la Federación, Estados, Distrito Federal y en los Municipios en caso de reciprocidad.
+No se causará este impuesto en las adquisiciones de inmuebles del dominio público de la Federación, Estados Extranjeros, Estados o los Municipios, en caso de reciprocidad.
 
 ###### ARTICULO 16.
 
 Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se transmita una propiedad; incluyendo la donación y la aportación a toda clase de asociaciones o sociedades.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+I.- Todo acto por el que se transmite una propiedad; incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
 
 II.- La compra-venta en la que el vendedor se resarce la propiedad aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -233,15 +237,27 @@ IX.- Enajenación a través de fideicomiso, en los términos del Código Fiscal 
 
 X.- La prescripción positiva.
 
+> <small>(ADICIONADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiere en demasía del porciento que le correspondía al copropietario o cónyuge.
+
+> <small>(ADICIONADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XII.- La elaboración de contratos de arrendamiento financiero y la cesión de derechos de arrendamiento financiero.
+
 En las permutas se considerará que se efectúan dos adquisiciones.
 
 ###### ARTICULO 17.
 
 El valor del inmueble que se considerará para los efectos del Artículo 14 de esta Ley, será el siguiente:
 
-I.- El valor más alto entre el estipulado en el contrato, el valor catastral fiscal o el del avalúo pericial; entendiéndose como avalúo pericial los documentos valuatorios practicados por peritos con autorización oficial, los peritajes tendrán una vigencia mayor de seis meses contados a partir de la fecha de su expedición.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-II.- En los casos de remate el valor más alto entre el fiscal y el que sirva de base para la primera almoneda.
+I.- El valor más alto entre el estipulado en el contrato, el valor catastral fiscal o el del avalúo comercial pericial, entendiéndose como avalúo comercial pericial los documentos valuatorios practicados por peritos con autorización oficial. Los peritajes tendrán una vigencia de 6 meses contados a partir de la fecha de su expedición.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+II.- En los casos de remate, el valor más alto entre el fiscal y el del avalúo que sirva de base para la celebración del mismo.
 
 III.- El valor del avalúo pericial cuando se trate de prescripción adquisitiva, debiendo tomarse en cuenta el valor del bien en la fecha en que la sentencia cause ejecutoria.
 
@@ -261,7 +277,13 @@ II.- Tratándose de adquisiciones efectuadas a través de Fideicomiso, cuando se
 
 III.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
-IV.- En los casos no previstos en las Fracciones anteriores. Cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efectos, ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
+> <small>(ADICIONADA, B.O. 1 DE JULIO DE 1987)</small>
+
+IV.- A la adjudicación de los bienes de la sucesión o a los dos años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiese llevado la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes de la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efecto, ante terceros en los términos del Derecho Común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
 
 ###### ARTICULO 19.
 
@@ -289,53 +311,33 @@ II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, 
 
 III.- Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
 
+> <small>(ADICIONADA, B.O. 1 DE JULIO DE 1987)</small>
+
+IV.- No se considerarán departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
+
 ### CAPITULO TERCERO
 
 DIVERSIONES Y ESPECTACULOS PUBLICOS.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 22.
 
-Son contribuyentes de este impuesto las personas o empresas que exploten diversiones y espectáculos públicos y lo cubrirán conforme a la siguiente
+Por espectáculo público debe entenderse toda función o acto de esparcimiento, sea teatral, cinematográfico, deportivo o de cualquier otra índole que se verifiquen en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta cantidad de dinero.
 
-T A R I F A :
+Son causantes de este impuesto, las personas físicas, morales o unidades económicas sin personalidad jurídica, que ordinaria o accidentalmente organicen o exploten espectáculos públicos.
 
-Por el monto total de los ingresos obtenidos en cada función:
+Los sujetos pagarán por concepto de este impuesto del 10 al 20% de la entrada bruta que genere el espectáculo correspondiente.
 
-I.- Cinematógrafos del 12 al 30%.
-
-II.- Drama, zarzuela, comedias y óperas del 5 al 15%.
-
-III.- Circos, carpas, títeres y similares del 8 al 20%.
-
-IV.- Toros del 6 al 20%.
-
-V.- Jaripeos del 8 al 30%.
-
-VI.- Box, lucha y similares del 10 al 30%.
-
-VII.- Competencia y exhibiciones del 4 al 20%.
-
-VIII.- Bailes eventuales con especulación variedad, diversiones y espectáculos públicos no especificados del 10 al 20%.
-
-IX.- Kermess de $ 500.00 a $ 2,000.
-
-X.- Serenatas después de las 21:00 horas de $ 500.00 a $ 5,000.
-
-XI.- Bailes de especulación de $ 1,000.00 a $ 20,000.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 23.
 
 El impuesto será pagado en la forma siguiente:
 
-I.- En los casos de las Fracciones I a la VIII del Artículo anterior.
+I.- Si puede determinarse previamente el monto del impuesto por adelantado, a más tardar el mismo día en que se inicie o celebre el espectáculo.
 
-a).- Si puede determinarse previamente el monto del impuesto por adelantado, a más tardar el mismo día en que se inicie o celebre el espectáculo.
-
-b).- Si no puede determinarse previamente el monto del impuesto el representante de la autoridad, al finalizar el espectáculo, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente; un ejemplar de la liquidación se entregará al empresario y los otros dos a la Tesorería Municipal.
-
-II.- En el caso de las Fracciones IX, X y XI, al solicitar la licencia respectiva, que es necesario obtener.
-
-III.- El importe de las liquidaciones formuladas por rectificación de errores cometidos en liquidaciones anteriores, o por alguna otra causa, en un plazo no mayor de cinco días hábiles a partir de la fecha de la notificación de las liquidaciones.
+II.- Si no puede determinarse previamente el monto del impuesto el representante de la autoridad, al finalizar el espectáculo, formulará por triplicado la liquidación del impuesto para que sea pagado el día hábil siguiente o de inmediato al interventor; un ejemplar de la liquidación se entregará al empresario y los otros dos a la Tesorería Municipal.
 
 ###### ARTICULO 24.
 
@@ -405,6 +407,8 @@ Son sujetos por deuda ajena con responsabilidad solidaria los propietarios de so
 
 Son sujetos por deuda ajena y con responsabilidad substituta, los empleados de la Tesorería Municipal que formulen certificados de no adeudo cuando existan impuestos insolutos y los Notarios Públicos cuando autoricen actos de traslación de dominio, sin la comprobación correspondiente de dichos impuestos.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 34.
 
 El impuesto será causado anualmente conforme a la siguiente
@@ -415,21 +419,15 @@ I.- En la cabecera Municipal:
 
 a).- Zona pavimentada, asfaltada, adoquinada o empedrada.
 
-1.- Solares baldíos, no cercados por metro lineal o fracción $ 30.00 a 60.00.
+1.- Solares baldíos no cercados por metro lineal o fracción 1% del salario mínimo diario.
 
-2.- Solares sin edificar por metro cuadrado $ 3.00 a 15.00.
+2.- Solares sin edificar por metro cuadrado 0.5% del salario mínimo diario.
 
-3.- Solares sin banqueta, por metro lineal $ 30.00 a 60.00.
+3.- Solares sin banqueta, por metro lineal 1% del salario mínimo diario.
 
-4.- Construcciones ruinosas, por metro cuadrado de construcción $ 20.00 a 50.00.
+4.- Construcciones ruinosas, por metro cuadrado de construcción 1% del salario mínimo diario.
 
-b).- Zonas con servicio de energía eléctrica, agua y drenaje.
-
-1.- Solares baldíos no cercados, por metro lineal o fracción $ 14.00 a 30.00.
-
-2.- Construcciones ruinosas, por metro cuadrado de construcción $ 6.00 a 15.00.
-
-c).- Otras zonas exentas.
+b).- Zona con servicio de energía eléctrica y agua, se cobrará el 50% de las tarifas establecidas en el inciso (a) de este Artículo.
 
 ###### ARTICULO 35.
 
@@ -489,67 +487,93 @@ Los servicios que preste el Registro Público de la Propiedad causarán el pago 
 
 T A R I F A :
 
-I.- El examen de todo documento público o privado que se presente para su inscripción.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-a).- Con antecedente registral $ 500.00.
-
-b).- Sin antecedente registral $ 600.00.
-
-Cuando se rehuse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial que impida su inscripción $ 1,000.00.
+I.- El examen de todo documento público o privado que se presente para su inscripción 1 día salario mínimo.
 
 II.- Por inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos por virtud de los cuales se adquiera, transmita, modifique o se extinga el dominio o la posesión de bienes inmuebles, además de la cuota fija, las cuotas acumulativas correspondientes a su valor:
 
-a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado $ 1,000.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-b).- Por el valor de la operación 5 al millar.
+a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 2 días salario mínimo.
 
-III.- Por la inscripción de la escritura constitutiva o de los aumentos de capital social de sociedades y asociaciones civiles, sobre el importe del capital social de los aumentos del mismo o reformas, en los términos de la fracción anterior.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-IV.- Por la inscripción de gravámenes sobre bienes inmuebles, ya por contrato o resolución judicial o por disposición testamentaria la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio; de los que limiten el dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas, todas estas inscripciones se cotizarán conforme a la Fracción II de este Artículo.
+b).- Por el valor de la operación 10 al millar.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+III.- Por la inscripción de la escritura constitutiva o de los aumentos del capital social de sociedades y asociaciones civiles sobre el importe del capital social o de los aumentos del mismo, en los términos de la fracción anterior.
+
+Cuando no tengan capital establecido o se trate de reformas al acta constitutiva 5 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+IV.- Por la inscripción de gravámenes sobre bienes inmuebles: por contrato, resolución judicial, por disposición testamentaria, la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos de dominio, de los que limiten el dominio del vendedor, a las de embargo, cédulas hipotecarias, servidumbres y fianzas, todas estas inscripciones se cotizarán conforme a la fracción II de este Artículo.
 
 V.- La inscripción de títulos de propiedad y demás escrituras o documentos complementarios de bienes o derechos que modifiquen, aclaren o disminuyan el capital o precios estipulados y sean consecuencia legal de contratos que ya causaron derechos o registro, cuando las otorguen las mismas partes que figuren en la primera escritura, sin aumentar el capital o precios ni transferir derechos, sólo causará la cuota fija de la Fracción II de este Artículo.
 
-VI.- Inscripción de poderes, substitución y revocación de los mismos en forma total o parcial:
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-a).- Si es por un apoderado y un poderdante $ 1,000.00.
+VI.- Inscripciones de poderes, substitución o revocación de los mismos en forma total o parcial por cada poderdante o apoderado 1 día salario mínimo.
 
-b).- Por cada apoderado y/o poderdante cuando aparezcan en los poderes de más de uno $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-VII.- La inscripción de créditos hipotecarios, refaccionarios o de habilitación o avío 0.35%.
+VII.- La inscripción de créditos hipotecarios, refaccionarios o de habilitación o avío 5 al millar.
 
-En los casos a que se refiere esta Fracción, las cancelaciones no causarán pago de derechos.
+En los casos a que se refiere esta Fracción, las cancelaciones causarán pago de derechos.
+
+Por cada cancelación 1 día salario mínimo.
 
 VIII.- La inscripción de las demandas a que se refiere el Artículo 63 del Reglamento del Registro Público de la Propiedad, cubrirá las cuotas conforme a la Fracción II del presente Artículo.
 
 IX.- Las inscripciones de la constitución del patrimonio de familia y las informaciones adperpetuam (sic) conforme a la Fracción II del presente Artículo.
 
-X.- La inscripción de testamentos, declaraciones de herederos sentencias, declaraciones de concurso $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+X.- La inscripción de testamentos, declaraciones de herederos, sentencias, declaraciones de concurso 2 días salario mínimo.
 
 XI.- Si se trata de bienes muebles identificables por marcas y números, la inscripción de la condición resolutoria en los casos de venta, de pacto de reserva de dominio de la propiedad del bien mueble y constitución de prenda en general, el 50% de la cuota que señala la Fracción II.
 
 XII.- El depósito de testamentos ológrafos:
 
-a).- Si se hace en las oficinas del registro $ 1,000.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-b).- Si se hace fuera de las oficinas del registro en las horas ordinarias $ 1,500.00.
+a).- Si se hace en las oficinas del Registro 2 días salario mínimo.
 
-c).- Si se hace fuera de las oficinas del registro en horas extraordinarias $ 2,000.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-XIII.- Por depósito de cualquier otro documento $ 1,000.00.
+b).- Si se hace fuera de las oficinas del Registro en las horas ordinarias 3 días salario mínimo.
 
-El depósito de documentos y testamentos y el pago de los derechos correspondientes, salvo cuando no sea posible, deberán hacer (sic) simultáneamente.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-XIV.- Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, cuando el número de lotes no exceda de cincuenta por cada lote el 50% de las cuotas fijas y acumulativas que señala la Fracción II del presente Artículo, por cada lote que exceda de los primeros cincuenta, el 25% de las cuotas fijas y acumulativas que señala la Fracción II.
+c).- Si se hace fuera de las oficinas del Registro en horas extraordinarias 5 días salario mínimo.
 
-XV.- Ratificación de documentos privados ante el registrador en el caso de la Fracción III del Artículo 3011 del Código Civil vigente y constancia del mismo $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XIII.- Por depósito de cualquier otro documento 2 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XIV.- Las inscripciones de fraccionamientos de terrenos, debidamente autorizados, por cada lote, el 50% de las cuotas que señala la Fracción II del presente Artículo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XV.- Ratificación de documentos privados ante el registrador en el caso de la Fracción III del Artículo 3011 del Código Civil vigente y constancia del mismo 3 días salario mínimo.
 
 XVI.- Para la expedición de certificados y constancias por cada persona y/o predio:
 
-a).- Cuota fija por servicio hasta 10 años $ 1,000.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-b).- Cuota fija por servicio de más de 10 años $ 1,500.00.
+a).- Cuota fija por servicio hasta 10 años 1 día salario mínimo.
 
-c).- Por cada hoja $ 150.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+b).- Cuota fija por servicio de más de diez años 2 días salario mínimo.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+c).- Por cada hoja 25% salario mínimo diario.
 
 XVII.- Si las certificaciones o constancias son solicitadas con carácter de urgente, se causarán el doble de las cuotas aplicables, conforme a la Fracción anterior.
 
@@ -557,11 +581,17 @@ XVIII.- Por los informes que rinda por escrito a solicitud de las autoridades, a
 
 XIX.- La cancelación de registro de sociedades civiles por extinción de las mismas, el 20% de las cuotas por su valor que señala la Fracción II del presente Artículo.
 
-XX.- La cancelación de las inscripciones en los casos a que se refieren las Fracciones IV y VIII, causarán el 20% de las cuotas por su valor que señala la Fracción II, sin que pueda ser menos de $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-XXI.- La cancelación de las inscripciones en los casos a que se refiere la Fracción IX causarán el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de $ 250.00.
+XX.- La cancelación de las inscripciones en los casos a que se refieren las Fracciones IV y VIII, causarán el 20% de las cuotas por su valor que señala la Fracción II, sin que pueda ser menos de 1 día salario mínimo.
 
-XXII.- Anotaciones marginales relativas a inscripciones principales $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XXI.- La cancelación de las inscripciones en los casos a que se refiere la Fracción IX causarán el 10% de las cuotas por valor que establece la Fracción II, sin que pueda ser menos de 1 día salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XXII.- Anotaciones marginales relativas a inscripciones principales 1 día salario mínimo.
 
 ###### ARTICULO 40.
 
@@ -585,7 +615,9 @@ III.- En toda trasmisión de bienes o derechos reales que se realice por contrat
 
 IV.- En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la Fracción II del Artículo anterior y al practicarse la inscripción complementaria se cubrirá el 25% restante.
 
-V.- Para la aplicación de las tasas de la Fracción II del Artículo que antecede, la nuda propiedad y el usufructo en el 25% del mismo.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+V.- Para la aplicación de las tasas de la Fracción II del Artículo que antecede, la nuda propiedad y el usufructo se valuarán en su caso en el 50% del precio del inmueble, respectivamente.
 
 VI.- En los casos de servicios que preste el Registro Público de la Propiedad y que no se encuentren expresamente previstos en las disposiciones de este capítulo, los derechos que a ellos correspondan, se causará (sic) por asimilación aplicando las disposiciones relativas a los casos con los que guarden semejanza.
 
@@ -609,73 +641,111 @@ Los servicios que preste el Registro Público del Comercio, causarán derechos d
 
 T A R I F A :
 
-I.- Examen de todo documento público o privado de que se presente al Registro para su inscripción $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-Cuando se rehusa por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por orden judicial $ 1,000.00.
+I.- Examen de todo documento público o privado de que se presente al Registro para su inscripción 1 día salario mínimo.
 
 II.- Inscripción de matrícula:
 
-a).- Por cada comerciante individual $ 200.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-b).- Por cada sociedad mercantil $ 400.00.
+a).- Por cada comerciante individual 25% salario mínimo diario.
 
-III.- Inscripción de la Escritura Constitutiva de Sociedades Mercantiles o en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social o de sus aumentos el 75% de las cuotas que correspondan conforme a la Fracción II del Artículo 39.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-En las Sociedades de Capital variable se tomará como base el capital inicial. Para las sucursales de las sociedades se tomará como base el capital aceptado a ellas.
+b).- Por cada sociedad mercantil 50% salario mínimo diario.
 
-IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-V.- Inscripción de actas de asambleas de socios o de juntas de administradores $ 1,000.00.
+III.- Inscripción de la escritura constitutiva de sociedades mercantiles o en las relativas a aumentos de su capital social, se cobrará sobre el monto del capital social o de sus aumentos el 100% de las cuotas que correspondan conforme a la Fracción II del Artículo 39.
 
-VI.- Depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-VII.- Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas el 75% de las cuotas que correspondan, conforme a la Fracción II del Artículo 39.
+IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, que no se refieran a aumentos del capital social 5 días salario mínimo.
 
-VIII.- Inscripción de la disolución de sociedades mercantiles $ 2,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-IX.- Inscripción de la liquidación de sociedades mercantiles $ 2,000.00.
+V.- Inscripción de actas de asambleas de socios o de juntas de administradores 5 días salario mínimo.
 
-X.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleven a efecto en un solo acto $ 2,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-XI.- Cancelación de la inscripción del contrato de sociedades $ 1,000.00.
+VI.- Depósito del programa a que se refiere el Artículo 92 de la Ley General de Sociedades Mercantiles 5 días salario mínimo.
 
-En los casos de esta Fracción y de las dos que anteceden, si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los bienes inmuebles, que se adjudiquen a los socios o a terceros, aplicando la Fracción II del Artículo 39.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-XII.- Inscripción de poderes, sustitución y revocación de los mismos en forma total o parcial:
+VII.- Inscripción del acta de emisión de bonos y obligaciones de sociedades anónimas el 100% de las cuotas que correspondan, conforme a la Fracción II del Artículo 39.
 
-a).- Si designa a un solo apoderado $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-b).- Por cada podernante y/o apoderado cuando aparezca en los poderes más de uno $ 500.00.
+VIII.- Inscripción de la disolución de sociedades Mercantiles 5 días salario mínimo.
 
-XIII.- Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer el comercio, licencia marital o el requisito que en derecho necesita la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las Fracciones X y XI del Artículo 21 del Código de Comercio $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+IX.- Inscripciones de la liquidación de Sociedades Mercantiles 5 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+X.- Inscripción de la disolución y liquidación de Sociedades Mercantiles cuando se lleven a efecto en un solo acto 5 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XI.- Cancelación de la inscripción del contrato de Sociedades 5 días salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XII.- Inscripción de poderes, sustitución y revocación de los mismos en forma total o parcial, por cada poderdante y/o Apoderado 1 día salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XIII.- Inscripciones relativas a habilitación de edad, licencia o emancipación para ejercer el comercio, licencia marital o el requisito que en derecho necesita la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las Fracciones X y XI del Artículo 21 del Código de Comercio 1 día salario mínimo.
 
 XIV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio, sobre el valor:
 
-a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado $ 1,000.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+a).- Cuota fija para toda clase de inscripciones, inclusive las de valor determinado 1 día salario mínimo.
 
 b).- Por el valor de la operación, 5 al millar.
 
 XV.- Inscripción de contratos de corresponsalía de instituciones de créditos:
 
-a).- Por inscripción $ 200.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-b).- Por cancelación $ 100.00.
+a).- Por inscripción 1 día salario mínimo.
 
-XVI.- Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío 0.35%.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-En caso de cancelaciones no causan derecho alguno.
+b).- Por cancelación 1 día salario mínimo.
 
-XVII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-XVIII.- Anotaciones marginales relativas a inscripciones principales $ 500.00.
+XVI.- Inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío 5 al millar sobre su valor.
 
-XIX.- Depósito y guarda de cualquier documento $ 1,000.00.
+Su cancelación 1 día salario mínimo.
 
-XX.- Ratificaciones de documentos y firmas ante el Registrador $ 1,000.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-XXI.- Búsqueda de datos y revisión de libros para informes y certificados $ 1,000.00.
+XVII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 1 día salario mínimo.
 
-XXII.- Expedición de certificados relativos a constancias de registro, por cada hoja $ 150.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XVIII.- Anotaciones marginales relativas a inscripciones principales 50% salario mínimo diario.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XIX.- Depósito y guarda de cualquier documento 50% salario mínimo diario.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+XX.- Ratificaciones de documentos y firmas ante el Registrador 50% salario mínimo diario.
+
+> <small>(REFORMADA B.O. 1 DE JULIO DE 1987)</small>
+
+XXI.- Búsqueda de datos y revisión de libros para informes y certificados 1 día salario mínimo.
+
+> <small>(REFORMADA B.O. 1 DE JULIO DE 1987)</small>
+
+XXII.- Expedición de certificados relativos a constancias de Registro, por cada hoja 25% salario mínimo diario.
 
 ###### ARTICULO 42.
 
@@ -703,65 +773,65 @@ SERVICIOS CATASTRALES.
 
 Los servicios prestados por las oficinas catastrales, causarán un derecho que se pagará previamente a su expedición conforme a las cuotas de la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Por copias de planos, por cada decímetro cuadrado $ 10.00.
+I.- Por cada copia de planos 2 días salario mínimo.
 
-II.- Avalúos periciales autorizados, por predio:
+II.- Avalúos periciales por cada predio sobre su valor. Sin que pueda ser inferior a un día salario mínimo 0.5 al millar.
 
-a).- Hasta un valor de $1'000,000.00 1,500.00.
+III.- Certificados, por cada hoja o fracción 25% salario mínimo diario.
 
-b).- DE $1'000,000.01 a 5'000,000.00 2,000.00.
+IV.- Otorgamiento de claves catastrales por cada una 50% día salario mínimo.
 
-c).- De $5'000,000.01 en adelante 2,500.00.
+V.- Por búsqueda de datos para proporcionar información económica y/o certificado por predio día salario mínimo.
 
-III.- Certificados, por cada hoja o fracción $ 500.00.
+VI.- Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en que se ejecuten los trabajos relativos 2 días salario mínimo en adelante.
 
-IV.- Otorgamiento de claves catastrales, por cada una $ 200.00.
-
-V.- Por búsqueda de datos para proporcionar información económica y/o certificada, por predio $ 600.00.
-
-VI.- Por deslindes o levantamientos prediales que se realicen a solicitud de particulares, de acuerdo con el tiempo en que se ejecuten los trabajos relativos de $ 5,000.00 en adelante.
-
-VII.- Los servicios catastrales no previstos en esta tarifa, serán fijados por la misma dependencia.
+> <small>(REFORMADO Y REUBICADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ### CAPITULO TERCERO
 
-LICENCIA PARA CONSTRUCCIONES.
+LICENCIA PARA CONSTRUCCION.
+
+(REUBICADO, B.O. 1 DE JULIO DE 1987)
 
 ###### ARTICULO 44.
 
 Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las poblaciones del Municipio, se requiere licencia previa de la dependencia municipal correspondiente.
 
-La ejecución de las obras sin la licencia respectiva, se sancionará conforme al Artículo 120 de esta Ley.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+La ejecución de las obras sin licencia respectiva se sancionará conforme al Artículo 119 de esta Ley.
+
+(REUBICADO, B.O. 1 DE JULIO DE 1987)
 
 ###### ARTICULO 45.
 
 Para obtener la licencia a que se refiere el Artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 46.
 
-La expedición o refrendo de las licencias causarán derechos 5 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra y previamente a la expedición o refrendo de las licencias.
+La expedición o refrendo de las licencias causarán derechos del 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe ajustarse la obra y previamente a la expedición o refrendo de las licencias.
 
-No se requerirá licencias para las obras interiores cuando sean de reparación o conservación de las construcciones.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 47.
 
-La dependencia municipal correspondiente podrá autorizar el registro de los responsables del proyecto, aprobación del mismo, autorizar la fusión, división o relotificación de predios, previo pago de acuerdo a la siguiente
+La dependencia municipal correspondiente podrá autorizar el registro de los responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, división o relotificación de predios, previo pago de acuerdo a la siguiente
 
 T A R I F A :
 
-a).- Registro anual del responsable del proyecto exento.
+a).- Registro anual de responsables de proyectos y obras 10 días salario mínimo.
 
-b).- Aprobación del proyecto en cuanto al desarrollo urbano 2 al millar sobre el valor del proyecto a realizar.
+b).- Autorización de fusión, división o relotificación de predios 1 día salario mínimo.
 
-c).- Autorización de fusión, división o relotificación de predios urbanos o suburbanos $ 2.00 por M2.
+c).- Inspección de terminación de obras 2 días salario mínimo en adelante.
 
-d).- Autorización de fusión, división o relotificación de predios rústicos hasta de 100-00-00 hectáreas $ 200.00 por Ha.
-
-Por el excedente 100.00 por Ha.
-
-En ninguno de los casos establecidos en este Artículo, el derecho será menor de $ 1,000.00 por predio o fracción.
+d).- Inspección de avance de obra 2 días salario mínimo en adelante.
 
 ###### ARTICULO 48.
 
@@ -771,9 +841,11 @@ Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo
 
 AGUA POTABLE Y ALCANTARILLADO.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 49.
 
-La prestación del servicio de agua potable y alcantarillado a que se refiere este Capítulo, causará derechos conforme a lo siguiente.
+La prestación del servicio de agua potable y alcantarillado a que se refiere este capítulo, causará derechos en forma escalonada, conforme a lo siguiente:
 
 #### SECCION I. AGUA POTABLE
 
@@ -849,121 +921,65 @@ c).- Las tarifas que se indican con antelación, dentro del presente Capítulo, 
 
 d).- (DEROGADO, B.O. 10 DE JUNIO DE 1986)
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-II.- Tarifa para el cobro de los sistemas de agua potable del Municipio de Comondú.
+II.- Municipio de Comondú, Mulegé y Los Cabos.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
+a).- Tarifa para aparatos medidores.
 
-A).- Tarifa para aparatos medidores, Areas Rural y Urbana por consumo mensual.
+SERVICIO DOMESTICO
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
+Consumo mensual en metros cúbicos.
 
-SERVICIO DOMESTICO.
+Hasta 35 M3 50% salario mínimo diario.
 
-0 - 25 M3 $ 700.00
+Los metros que excedan de 35 M3 hasta 50 M3 3% del salario mínimo diario por cada M3.
 
-26 - 40 M3 35.00 M3
+Los metros que excedan de 50 M3 hasta 80 M3 4% del salario mínimo diario por cada M3.
 
-41 - 65 M3 65.00 M3
+Los metros que excedan de 80 M3 hasta 100 M3 5% del salario mínimo diario por cada M3.
 
-66 - 100 M3 93.00 M3
+Cada metro que exceda de 100 M3 6% del salario mínimo diario por cada M3.
 
-Más de 100 M3 130.00 M3
+SERVICIO COMERCIAL
 
-Si en el mes el consumo de agua es menor de 25 M3 se cubrirá la cuota mínima de $ 700.00
+Consumo mensual en metros cúbicos.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
+Hasta 35 M3 1 día salario mínimo.
 
-SERVICIO COMERCIAL.
+Los metros que excedan de 35 M3 hasta 50 M3 4% del salario mínimo diario por cada M3.
 
-0 - 25 M3 $ 1,500.00
+Los metros que excedan de 50 M3 hasta 80 M3 5% del salario mínimo diario por cada M3.
 
-26 - 40 M3 70.00 M3
+Los metros que excedan de 80 M3 hasta 100 M3 6% del salario mínimo diario por cada M3.
 
-41 - 60 M3 125.00 M3
+Cada metro que exceda de 100 M3 7% del salario mínimo diario por cada M3.
 
-61 - 100 M3 155.00 M3
+SERVICIO INDUSTRIAL Y TURISTICO
 
-Más de 100 M3 190.00 M3
+Consumo mensual en metros cúbicos.
 
-Si en el mes el consumo de agua es menor de 25 M3 se cubrirá la cuota mínima de $ 1,500.00
+Hasta 100 M3 5 días salario mínimo.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1986)</small>
+Los metros que excedan de 100 M3 hasta 125 M3 8% del salario mínimo diario por cada M3.
 
-SERVICIO INDUSTRIAL.
+Los metros que excedan de 125 M3 hasta 150 M3 9% del salario mínimo diario por cada M3.
 
-0 -25 M3 $ 5,000.00
+Los metros que excedan de 150 M3 hasta 250 M3 10% del salario mínimo diario por cada M3.
 
-26 - 50 M3 10,000.00
+Los metros que excedan de 250 M3 hasta 500 M3 11% del salario mínimo diario por cada M3.
 
-51 - 100 M3 220.00 M3
+Cada metro que exceda de 500 M3 12% del salario mínimo diario por cada M3.
 
-101 - 250 M3 280.00 M3
+b).- Tarifa cuando no existen medidores.
 
-251 - 500 M3 350.00 M3
+Servicio Doméstico 50% salario mínimo diario.
 
-Más de 500 M3 430.00 M3
+Servicio Comercial 4 días salario mínimo.
 
-Si en el mes el consumo de agua es menor de 25 M3 se cubrirá la cuota mínima de $ 5,000.00
+Servicio Industrial y Turístico 7 días salario mínimo.
 
-B).- Tarifa cuando no existan aparatos medidores.
-
-CUOTA FIJA MENSUAL.
-
-Para Cd. Constitución, Cd. Insurgentes, Loreto, Puerto San Carlos y Puerto Adolfo López Mateos, B.C.S.:
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio Doméstico $ 700.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio comercial 1,500.00
-
-Servicio industrial 5,000.00
-
-Para Benito Juárez, Zaragoza, Josefa Ortíz de Domínguez, Palo Bola, Villa Morelos, Villa Hidalgo, Santo Domingo, María Auxiliadora, La Poza Grande, Francisco Villa, Col. La Purísima, San Isidro, La Purísima, Carambuche y Ramaditas, B.C.S.
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio Domestico $ 700.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio comercial 1,500.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio industrial 5,000.00
-
-Para Cadejé, San Juanico, Paso Hondo, San José de Guajademí y San Javier, B.C.S.
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio Doméstico $ 700.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio comercial 1,500.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio industrial 5,000.00
-
-Para San José de Comondú y San Miguel de Comondú, B.C.S.
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio Doméstico $ 700.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio comercial 1,500.00
-
-> <small>(F. DE E., B.O. 20 DE DICIEMBRE DE 1986)</small>
-
-Servicio industrial 5,000.00
+El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
 
 III.- Tarifas para el cobro de los sistemas de agua potable en el Municipio de Los Cabos: San José del Cabo, Buena Vista, Las Cuevas, Santa Cruz, La Ribera, Santiago, La Laguna, Santa Bárbara, San Jorge, El Zacatal, Agua Caliente, Boca de la Sierra, Miraflores, El Ranchito, Las Casitas, Caduaño, Santa Anita, Las Veredas, San Bernabé, Santa Catarina, San José Viejo, Guaymitas, Santa Rosa, El Rosario, Las Animas Altas, Las Animas Bajas, La Choya, San Vicente, La Playa, Cabo San Lucas, La Candelaria y El Zacatal, B.C.S.
 
@@ -1099,15 +1115,13 @@ Uso doméstico $ 500.00 /toma.
 
 ALCANTARILLADO.
 
-El servicio de alcantarillado en los Municipios de La Paz, Comondú, Mulegé y Los Cabos:
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-I.- Se cubrirá al 5% del valor de consumo de agua, cantidad que no será inferior a lo siguiente:
+a).- Por el servicio de alcantarillado en los municipios de la Entidad, se cubrirá el 20% del valor de consumo de agua potable.
 
-Servicio doméstico $ 100.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
-Servicio comercial $ 300.00.
-
-Servicio industrial $ 1,000.00.
+b).- El usuario pagará los accesorios, materiales y trabajados extraordinarios por la conexión del servicio de alcantarillado.
 
 #### SECCION I
 
@@ -1227,37 +1241,41 @@ Las Actas del Registro Civil de nacimiento, matrimonio, adoptación (sic) y defu
 
 Los actos del Registro Civil causarán derechos conforme a la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Registro de nacimiento fuera de las oficinas:
+I.- Registro de nacimientos:
 
-a).- En horas hábiles $ 1,500.00.
+a).- En horas inhábiles, en la oficina 2 días salario mínimo.
 
-b).- En horas inhábiles $ 3,000.00.
+b).- Fuera de la oficina 10 días salario mínimo.
 
 II.- Matrimonios:
 
-a).- En horas inhábiles y en sus oficinas $ 3,000.00.
+a).- En horas inhábiles en la oficina 3 días salario mínimo.
 
-b).- Fuera de las oficinas y en horas hábiles $ 3,500.00.
+b).- Fuera de las oficinas 10 días salario mínimo.
 
-c).- En horas inhábiles y fuera de las oficinas $ 7,000.00.
+c).- Registro de matrimonios contraídos por mexicanos fuera de la República 3 días salario mínimo.
 
-d).- Registro de matrimonios contraídos por mexicanos fuera de la República $ 1,500.00.
+d).- Registro de matrimonios contraídos por extranjeros fuera de la República 5 días salario mínimo.
 
 III.- Divorcios:
 
-a).- Por el divorcio administrativo contemplado en el Artículo 272 del Código Civil $ 10,000.00.
+a).- Por el divorcio administrativo contemplado en el Artículo 272 del Código Civil vigente 10 días salario mínimo.
 
-b).- Por el registro de divorcio dictado por la autoridad judicial $ 5,000.00.
+b).- Por el registro de divorcio dictado por la autoridad judicial 10 días salario mínimo.
 
-IV.- Actas de supervivencia levantada a domicilio $ 1,500.00.
+IV.- Actas de supervivencia levantadas a domicilio 1 día salario mínimo.
 
-V.- Cualquier otro acto del Registro Civil $ 1,500.00.
+V.- Cualquier otro acto del Registro Civil 1 día salario mínimo.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 59.
 
-Los Oficiales del Registro Civil y sus Secretarios percibirán respectivamente el 20% y 10% de los derechos cobrados conforme al inciso b) de la Fracción I, a los incisos a) y c) de la Fracción II y la Fracción IV del Artículo anterior.
+Los oficiales del Registro Civil y sus Secretarios percibirán respectivamente el 20% y 10% de los derechos cobrados cuando se realicen actos fuera de las oficinas.
 
 ###### ARTICULO 60.
 
@@ -1273,27 +1291,23 @@ LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y COPIAS CERTIFICADAS.
 
 Los derechos por legalización de firmas, expedición de constancias, certificados y copias certificadas de documentos, causarán derechos conforme a la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Legalización de firmas $ 500.00.
+I.- Legalización de firmas 1 día salario mínimo.
 
-II.- Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, por cada hoja $ 500.00.
+II.- Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, por cada hoja 1 día salario mínimo.
 
-III.- Expedición de copias certificadas de constancias existentes en los archivos del Municipio, por cada hoja $ 500.00.
+III.- Expedición de copias certificadas de constancias existentes en los archivos del municipio, por cada hoja 1 día salario mínimo.
 
-IV.- Búsqueda de documentos del archivo municipal cuando no se precisen los datos y fechas del acto $ 1,500.00.
+IV.- Búsqueda de documentos del archivo municipal cuando no se precisan los datos y fechas del acto 2 días salario mínimo.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 62.
 
-No causarán los derechos a los que se refiere el Artículo anterior, la expedición de certificaciones y de copias certificadas.
-
-I.- Solicitadas de oficio por la autoridad de la Federación del Estado y de los Municipios.
-
-II.- Las relativas al ramo penal.
-
-III.- Las que acrediten la clausura de algún establecimiento o cualquiera causa de exención de impuestos o derechos federales, estatales o municipales.
-
-IV.- Para destinarlo a tramitaciones en el ramo de la educación.
+No causarán los derechos a que se refiere el Artículo anterior, la expedición de certificaciones y de copias certificadas solicitadas de oficio por la autoridad de la federación, del Estado y de los Municipios.
 
 ###### ARTICULO 63.
 
@@ -1303,29 +1317,27 @@ Los derechos a que se refieren los Artículos que anteceden serán pagados en la
 
 PANTEONES.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 64.
 
-Por el otorgamiento de concesiones temporales o a perpetuidad, incluyendo el terreno que se ocupe en los panteones o cementerios de la cabecera municipal, se causarán las cuotas siguientes:
+Por el otorgamiento de concesiones, incluyendo el terreno que se ocupe en los panteones o cementerios municipales de las cabeceras municipales o delegaciones, se causarán las cuotas siguientes:
 
-I.- Fosa de 2 Mts. a perpetuidad $ 4,000.00.
+I.- Fosa de dos metros a perpetuidad 3 días salario mínimo.
 
-II.- Fosa de 1.20 Mts. a perpetuidad $ 3,000.00.
+II.- Fosa de 1.20 metros a perpetuidad 2 días salario mínimo.
 
-III.- Fosa de 2 Mts. por 7 años o refrendo por igual término $ 1,000.00.
+III.- Subterráneas, además de las cuotas anteriores:
 
-IV.- Fosa de 1.20 Mts. por 7 años o refrendo por igual término $ 500.00.
+a).- De una gaveta 1 día salario mínimo.
 
-V.- Subterráneas:
+b).- De dos gavetas 2 días salario mínimo.
 
-a).- De una gaveta $ 600.00.
+c).- De tres gavetas 3 días salario mínimo.
 
-b).- De dos gavetas $ 1,200.00.
+d).- Fosa de seis gavetas. 5 días salario mínimo.
 
-c).- De tres gavetas $ 2,500.00.
-
-d).- Fosa de 6 gavetas $ 15,000.00.
-
-VI.- Fosa común exenta.
+IV.- Fosa común exenta.
 
 ###### ARTICULO 65.
 
@@ -1335,23 +1347,23 @@ En los panteones civiles de las demás poblaciones las cuotas que señala el Art
 
 La exhumación, reinhumación o el traslado de cadáveres o restos, estarán sujetos a la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Por cada exhumación $ 4,000.00.
+I.- Por exhumación 4 días salario mínimo.
 
-II.- Por traslado de cadáveres o restos:
+II.- Por traslado de cadáveres o restos 0.5% salario mínimo.
 
-a).- Dentro del Municipio $ 1,000.00.
+a).- Dentro del Municipio 2 días salario mínimo.
 
-b).- Fuera del Municipio $ 2,000.00.
+b).- Fuera del Municipio 2 días salario mínimo.
 
-c).- Fuera del Estado $ 5,000.00.
+c).- Fuera del Estado 3 días salario mínimo.
 
-d).- Fuera de la República $ 10,000.00.
+d).- Fuera de la República 5 días salario mínimo.
 
-III.- Por cada reinhumación dentro del mismo panteón $ 800.00.
-
-No causan derecho el traslado de cadáveres ordenados por las autoridades judiciales, o cuando hayan sido cubiertos los derechos en otro Municipio del Estado.
+III.- Por cada reinhumación dentro del mismo panteón 1 día salario mínimo.
 
 ###### ARTICULO 67.
 
@@ -1359,11 +1371,11 @@ El pago de los derechos a que se refieren los Artículos anteriores, se hará al
 
 ###### ARTICULO 68.
 
-Cuando solicite la perpetuidad de una fosa al primer año de verificada la inhumación, se abonará al importe de dicha perpetuidad la tarifa por temporalidad.
+(DEROGADO, B.O. 1 DE JULIO DE 1987)
 
 ###### ARTICULO 69.
 
-Si dentro del primer año de un refrendo de temporalidad se solicita la perpetuidad de la fosa, se deducirá del importe del derecho la tarifa enterada por el refrendo.
+(DEROGADO, B.O. 1 DE JULIO DE 1987)
 
 ###### ARTICULO 70.
 
@@ -1373,59 +1385,37 @@ Las personas que posean fosa a perpetuidad en los panteones municipales, podrán
 
 El Ayuntamiento solo concederá licencias para la exhumación y traslado de cadáveres o restos, siempre que se satisfagan previamente los requisitos de salubridad y se hayan pagado los derechos del Artículo 66 de esta Ley.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ### CAPITULO NOVENO
 
-RASTRO E INSPECCION SANITARIA.
+SERVICIOS DE RASTROS.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 72.
 
-Los derechos relativos al uso de maquinaria, matanza y otros servicios prestados en los rastros, serán pagados conforme a la siguiente
+Los derechos relativos al uso de maquinaria, matanza, inspección sanitaria, traslado de animales sacrificados, serán pagados conforme a la siguiente
 
 T A R I F A :
 
-I.- Uso de rastro:
+I.- Ganado vacuno y equino, por cada uno 3 días salario mínimo.
 
-a).- Ganado vacuno $ 750.00.
+II.- Ganado porcino, por cada uno 2 días salario mínimo.
 
-b).- Equino: asnal, caballar y mular $ 450.00.
+III.- Ganado caprino y lanar, por cada uno 1.5 días salario mínimo.
 
-c).- Aves y otros $ 120.00.
+IV.- Aves y otros 8% día salario mínimo.
 
-d).- Ganado porcino $ 600.00.
+Cuando no exista rastro, se pagará por cada animal 50% salario mínimo diario.
 
-e).- Ganado caprino y lanar $ 500.00.
-
-f).- Frigoríficos, por metro cuadrado $ 700.00.
-
-g).- Báscula $ 150.00.
-
-II.- Matanzas:
-
-a).- Ganado vacuno $ 700.00.
-
-b).- Equino: asnal, caballar y mular $ 400.00.
-
-c).- Ganado porcino $ 600.00.
-
-d).- Ganado caprino y lanar $ 400.00.
-
-e).- Aves y otros $ 120.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 73.
 
-El ganado y otros animales que sean introducidos al rastro para su sacrificio deberán ser inspeccionados por la autoridad sanitaria y por este servicio se pagarán las cuotas siguientes:
+El ganado y otros animales que sean introducidos al rastro para su sacrificio, deberán ser inspeccionados por la autoridad sanitaria, la que deberá sellar las carnes antes de que salgan del rastro.
 
-I.- Vacuno $ 100.00.
-
-II.- Equino: asnal, caballar y mular $ 100.00.
-
-III.- Lanar y caprino $ 100.00.
-
-IV.- Aves y otros $ 25.00.
-
-La autoridad que practique la inspección deberá sellar las carnes antes de que salgan del rastro.
-
-Por cada animal sacrificado clandestinamente se pagará una sanción equivalente a 50 veces los derechos correspondientes a sacrificio.
+Por cada animal sacrificado clandestinamente se pagará una sanción equivalente a 50 veces los derechos establecidos en este capítulo.
 
 ### CAPITULO DECIMO
 
@@ -1433,21 +1423,17 @@ Traslado de animales sacrificados en los rastros.
 
 ###### ARTICULO 74.
 
-El traslado de animales sacrificados en los rastros en vehículos de dichos establecimientos, causarán derechos conforme a la siguiente
-
-T A R I F A :
-
-I.- Ganado vacuno, porcino y equino $ 600.00.
-
-II.- Otros animales no comprendidos en la fracción anterior $ 300.00.
+(DEROGADO, B.O. 1 DE JULIO DE 1987)
 
 ### CAPITULO DECIMO PRIMERO
 
 DEPOSITO DE ANIMALES EN LOS CORRALES MUNICIPALES.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 75.
 
-Los propietarios de los animales depositados en los corrales pertenecientes al Municipio, pagarán diariamente como derecho por servicios prestados, la cantidad de $ 60.00 por cada animal, cualquiera que sea su clase y tamaño y no podrán retirarlos mientras no hagan el ENTERO correspondiente.
+Los propietarios de los animales depositados en los corrales pertenecientes al municipio, pagarán diariamente como derechos por servicios prestados, la cantidad de 2.5% del salario mínimo diario por cada animal, cualquiera que sea su clase y tamaño y no podrán retirarlos mientras no se haga la liquidación correspondiente.
 
 ### CAPITULO DECIMO SEGUNDO
 
@@ -1457,13 +1443,13 @@ ALINEAMIENTO DE PREDIOS, NUMEROS OFICIALES Y MEDICION DE TERRENOS.
 
 El alineamiento de predios sobre vía pública y expedición de número oficial, causarán derechos conforme a la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- De 1.00 a 20.00 Mts. lineales $ 1,500.00.
+I.- Hasta 20 metros lineales 1 día salario mínimo en adelante.
 
-II.- De 20.01 Mts. en adelante, por cada metro lineal excedente, por metro $ 50.00.
-
-III.- Por la expedición del número oficial $ 1,000.00.
+II.- Por la expedición del número oficial 50% día salario mínimo.
 
 ###### ARTICULO 77.
 
@@ -1473,9 +1459,11 @@ El derecho por alineamiento de predios sobre la vía pública será causado ante
 
 Los alineamientos de predios tendrán vigencia por seis eses (sic), contados a partir de la fecha de su expedición.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 79.
 
-Por medición que haga el Ayuntamiento de terrenos propios, para efectos de regularización, se pagará un derecho de $5,000.00 por lote o fracción.
+Por medición que haga el Ayuntamiento de terrenos propios, para efectos de regularización, se pagarán dos días salario mínimo por lote o fracción.
 
 ### CAPITULO DECIMO TERCERO
 
@@ -1485,15 +1473,17 @@ EXPEDICION DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL.
 
 La expedición de certificados de vecindad y de morada conyugal, causarán derechos conforme a la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
 I.- De vecindad:
 
-a).- A extranjeros para que regularicen su situación migratoria, naturalización y recuperación de nacionalidad y para otros fines análogos $ 7,000.00.
+a).- A extranjeros para que regularicen su situación migratoria naturalización y recuperación de nacionalidad y para otros fines análogos 15 días salario mínimo.
 
-b).- A quienes soliciten certificado para cualquier fin distinto de los mencionados en el inciso anterior $ 1,000.00.
+b).- A quienes soliciten certificado para cualquier fin distinto de los mencionados en el inciso anterior 1 día salario mínimo.
 
-II.- De morada conyugal $ 1,000.00.
+II.- De morada conyugal 1 día salario mínimo.
 
 ### CAPITULO DECIMO CUARTO
 
@@ -1507,59 +1497,71 @@ LICENCIA PARA CONDUCIR VEHICULOS DE MOTOR Y SUS RESELLOS.
 
 El derecho por servicios de control vehicular se pagarán anualmente, conforme a la siguiente:
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Camiones con servicio de carga $ 3,000.00.
+I.- Camiones, camionetas y similares 3 días salario mínimo.
 
-II.- Automóviles $ 2,000.00.
+II.- Automóviles 2 días salario mínimo.
 
-III.- Motocicletas $ 1,000.00.
+III.- Motocicletas 1 día salario mínimo.
 
-IV.- Bicicletas $ 500.00.
+IV.- Bicicletas 25% día salario mínimo.
 
-V.- Vehículos de tracción manual $ 500.00.
+V.- Vehículos de tracción manual 50% día salario mínimo.
 
-VI.- Por la expedición de permisos provisionales, diariamente $ 100.00.
+VI.- Por la expedición de permisos provisionales, diariamente 10% día salario mínimo.
 
-VII.- Otro tipo no especificado $ 2,000.00.
+VII.- Otro tipo no especificado 1 día salario mínimo.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 82.
 
-Permisos y renovaciones de otros derechos por servicios de control vehicular se pagarán anualmente conforme a la siguiente
+Permisos y renovaciones de otros derechos por servicios de control vehicular se pagarán por unidad anualmente, conforme a la siguiente
 
 T A R I F A :
 
-I.- Permiso o renovación de ruta para camiones que presten servicios turísticos de pasajeros $ 3,000.00.
+I.- Permiso o renovación de ruta para camiones que presten servicio turístico de pasajeros 10 días salario mínimo.
 
-II.- Permiso o renovación para explotar autos de alquiler, camiones de servicios y cualquier explotación semejante $ 3,000.00.
+II.- Permiso o renovación para explotar autos de alquiler, camiones de servicios y cualquier explotación semejante 5 días salario mínimo.
 
-III.- Las personas físicas y morales que tengan negocios registrados con venta de automóviles, deberán usar para el tránsito de sus vehículos en venta, placas demostradoras de acuerdo con lo establecido en el reglamento de tránsito, las cuales tendrán un valor anual, por juego de $ 5,000.00.
+III.- Las personas físicas y morales que tengan negocios registrados con venta de automóviles, deberán usar para el tránsito de sus vehículos en venta, placas demostradoras de acuerdo con lo establecido en el reglamento de tránsito, las cuales tendrán un valor anual, por juego de 10 días salario mínimo.
 
-IV.- Por la reposición de la tarjeta de circulación $ 500.00.
+IV.- Permiso o renovación para explotar vehículos de alquiler sin chofer 20 días salario mínimo.
+
+V.- Reposición de tarjeta de circulación 2 días salario mínimo.
 
 ###### ARTICULO 83.
 
 La dotación y reposición de placas de identificación del servicio de control vehicular, tendrán un costo de acuerdo a la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Camiones, automóviles y remolques $ 1,500.00.
+I.- Camiones, automóviles y remolques 2 días salario mínimo.
 
-II.- Motocicletas, bicicletas y vehículos de tracción manual $ 300.00.
+II.- Motocicletas, bicicletas y vehículos de tracción manual 50% salario mínimo diario.
 
 ###### ARTICULO 84.
 
 No se podrá conducir vehículos de motor sin obtener previamente la licencia de manejo respectiva, ésta se otorgará después de que la persona interesada haya sido aprobada en el examen médico que practique cualquier profesional legalmente autorizado para ejercer la medicina y en el de competencia que efectúen las autoridades de tránsito, que serán realizados previo pago de los derechos contenidos en la siguiente
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
-I.- Chofer 6 años $ 5,000.00.
+I.- Chofer 3 años 6 días salario mínimo.
 
-II.- Automovilista 6 años $ 3,000.00.
+II.- Automovilistas 3 años 3 días salario mínimo.
 
-III.- Motociclista 6 años $ 2,000.00.
+III.- Motociclista 3 años 1 día salario mínimo.
 
-IV.- Permiso provisional, por día $ 50.00.
+IV.- Permiso provisional por mes 1 día salario mínimo.
+
+Por el resello anual se causará el 10% de la tarifa anterior.
 
 ### CAPITULO PRIMERO
 
@@ -1583,19 +1585,11 @@ Constituyen ingresos en este ramo el producto, liquidado de los bienes mostrenco
 
 ###### ARTICULO 91.
 
-Todas las personas con capacidad legal, tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno en propiedad Municipal, susceptible de ser transmitidos, si la enajenación es procedente, el valor unitario se aplicará conforme a las cuotas de la siguiente
+Todas las personas con capacidad legal, tienen derecho a solicitar en compra, sin perjuicio de terceros, un terreno en propiedad municipal, susceptible de ser transmitidos (sic) si la enajenación es procedente, el valor unitario se aplicará conforme al Avalúo Pericial que en cada caso se practique.
 
-T A R I F A :
+Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a cinco días salario mínimo.
 
-I.- En zonas urbanizadas de $ 250.00 a $ 1,500.00.
-
-II.- En zonas no urbanizadas de $ 100.00 a $ 1,000.00.
-
-Por la expedición de títulos se pagará una cuota de $ 5,000.00 por lote.
-
-El que done, ceda, traspase, enajene o adquiera predios, en tanto no salgan del dominio municipal, se le aplicará una sanción de $ 25,000.00 a $ 50,000.00 por lote o fracción.
-
-A quienes se les hubiese otorgado la posesión provisional terrenos propiedad municipal, para que construyeran y habitaran en el plazo convenido y no lo hiciera así, se les impondrá una sanción por la cantidad de $ 20,000.00, salvo que el terreno lo reviertan al pleno dominio municipal.
+El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la escritura o título de propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 días salario mínimo por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
 
 ###### ARTICULO 92.
 
@@ -1616,6 +1610,8 @@ La venta de bienes muebles e inmuebles pertenecientes al Municipio, solo podrá 
 ### CAPITULO TERCERO
 
 VENTA DE SOLARES DEL FUNDO LEGAL.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 86.
 
@@ -1651,29 +1647,41 @@ Por la ocupación de la vía pública o de otros bienes de uso común, será pag
 
 T A R I F A :
 
-I.- Automóviles de sitios o taxis por metro lineal anualmente:
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-a).- Zona pavimentada $ 800.00.
+I.- Automóviles de sitios o táxis por metro lineal anualmente 1 día salario mínimo.
 
-b).- Zona no pavimentada $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-II.- Estacionamientos para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anual de $ 400.00.
+II.- Estacionamiento para particulares que vivan frente al estacionamiento solicitado, por metro lineal, anualmente 50% día salario mínimo.
 
-III.- Estacionamientos exclusivos para uso comercial, anual por metro lineal $ 1,200.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+III.- Estacionamiento exclusivos (sic) para uso comercial, anual por metro lineal 1 día salario mínimo.
 
 IV.- Por estacionarse en las calles dotadas de estacionómetros de las 8:00 a las 20:00 horas, diariamente a excepción de los domingos y días feriados o festivos, por cada hora $ 20.00.
 
-V.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales diariamente $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-VI.- Vahículos (sic) estacionados con amplificador de sonido diariamente $ 200.00.
+V.- Estacionamiento o uso de la vía pública para carga y descarga en establecimientos comerciales, diariamente 30% día salario mínimo.
 
-VII.- Cualquier otro estacionamiento o uso de la vía pública de carácter comercial no especificados diariamente $ 300.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+VI.- Vehículos automotores con amplificador de sonido, diariamente 1 día salario mínimo.
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+VII.- Cualquier otro estacionamiento o uso de la vía pública de carácter comercial no especificado, diariamente 1 día salario mínimo.
 
 VIII.- Cuota anual por vehículo para estacionarse en lugares de estacionómetros sin el pago estipulado $ 2,500.00.
 
 Estos ingresos se controlarán por medio de calcomanías adheridas al parabrisas del vehículo.
 
-IX.- Por cada carro casa autopropulsado o de tracción de cualquier tipo, que ocupe o sea estacionado en los lugares no autorizados, deberá recabar la autorización del Ayuntamiento y cubrir una cuota diaria de $ 500.00.
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
+IX.- Por cada carro-casa autopropulsado o de tracción de cualquier tipo, que ocupe o sea estacionado en los lugares no autorizados, deberá recabar la autorización del Ayuntamiento y cubrir una cuota diaria de 1 día salario mínimo.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 Los pagos anuales se harán por adelantado en el mes de Enero.
 
@@ -1685,15 +1693,17 @@ OCUPACION DE LA VIA PUBLICA.
 
 Por locales en los mercados será pagada una renta de acuerdo a la siguiente:
 
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
+
 T A R I F A :
 
 I.- Mercados:
 
-a).- Accesorios, locales, expendios y puestos, según ubicación y superficie, por M2 $ 25.00.
+a).- Accesorios, locales, expendios y puestos según la ubicación y superficie, diariamente por metro cuadrado 2% día salario mínimo.
 
-b).- Servicio de frigoríficos por M2 $ 60.00.
+b).- Servicio de frigoríficos por metro cuadrado, diariamente 10% día salario mínimo.
 
-c).- Servicio de almacenamiento por M2 $ 60.00.
+c).- Servicio de almacenamiento por metro cuadrado 10% día salario mínimo.
 
 ### CAPITULO SEPTIMO (SIC)
 
@@ -1781,9 +1791,13 @@ REZAGOS.
 
 Los causantes sujetos a pagos periódicos presentarán al efectuar cualquier pago, el recibo anterior y en caso de ser requeridos para ello, hasta los tres últimos recibos.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 109.
 
-La ocultación de fuentes gravadas por esta Ley, que motiven omisión del pago del impuesto o derechos, será sancionado hasta con tres tantos al importe de los mismos sin perjuicio de hacer efectivo los créditos fiscales originales.
+La ocultación de fuentes gravadas por esta Ley, que motiven omisión del pago de impuestos o derechos, será sancionada hasta con tres tantos al importe de los mismos, sin perjuicio de hacer efectivo los créditos fiscales originales.
+
+Las personas que se dediquen a la venta de bienes raíces, Notarios Públicos, Jueces, Fraccionadores y en general, quienes directa o indirectamente intervengan en la celebración de contratos o convenios preparatorios o definitivos que implique la trasmisión de la propiedad de inmuebles, deberán manifestarlo a la autoridad municipal en un plazo de treinta días; de no hacerlo, sin perjuicio de ser solidario responsable de pago del impuesto y de sus recargos, se les impondrá una sanción hasta de 5 veces el importe de los mismos.
 
 ### CAPITULO QUINTO
 
@@ -1793,9 +1807,11 @@ PARTICIPACIONES.
 
 Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón Municipal, siempre que llenen los requisitos de registro que establecen las Leyes y Reglamentos respectivos y obtener antes de iniciar sus actividades, la licencia correspondiente, misma que deberá obtenerse dentro de los 30 días siguientes a la fecha de inicio y la revalidación anual deberá realizarse dentro del mes de enero de cada año.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 111.
 
-El incumplimiento del Artículo 110 será acreedor a una sanción de $ 500.00 a $ 50,000.00.
+El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
 ###### ARTICULO 112.
 
@@ -1813,11 +1829,15 @@ INGRESOS EXTRAORDINARIOS.
 
 Todo causante que marca el Artículo 113 queda obligado de dar aviso a la oficina correspondiente, en caso de cambio de nombre, denominzación (sic) o razón social, de domicilio, traspaso, contrato traslativo de dominio de uso de cualquier acto que modifique los padrones, dentro de los 30 días siguientes a la fecha en que se verifique el acto.
 
-Tratándose de clausura se devolverá la licencia y placa de inscripción relativa. La falta de cumplimiento de esta disposición será sancionada con multa de $ 500.00 a $ 50,000.00.
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
+La falta de cumplimiento de estas disposiciones será sancionada con multa de 3 a 50 días salario mínimo.
+
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 115.
 
-Todo establecimiento comercial que funcione fuera del horario que fijen los reglamentos está obligado a solicitar autorización a la Tesorería Municipal y registrar su horario en la oficina respectiva; de lo contrario se harán acreedores a una multa hasta de 150 veces el salario mínimo del Estado de B.C.S.
+Todo establecimiento comercial que funcione fuera del horario que fijen los reglamentos está obligado a solicitar autorización a la Tesorería Municipal y registrar su horario en la oficina respectiva; de lo contrario se harán acreedores a una multa hasta de 500 veces el salario mínimo del Estado de Baja California Sur.
 
 ###### ARTICULO 116.
 
@@ -1831,9 +1851,11 @@ Para la fijación de cuotas por impuesto, se tomará en cuenta la importancia co
 
 Los causantes están obligados a colocar en lugar visible del establecimiento la licencia municipal para funcionamiento del giro así como de la placa de inscripción relativa y a mostrar a los inspectores y demás autoridades debidamente acreditados, la documentación que le soliciten para el desempeño de sus funciones, así como ministrarles toda información que sea necesaria para la revisión o investigación correspondiente. La violación a estas disposiciones será sancionada de conformidad con lo previsto en el Artículo siguiente.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 119.
 
-La falta oportuna de las declaraciones, así como la falsedad de datos contenidos, en las mismas la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravable y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de las responsabilidades en que se incurre, con multa hasta de 150 días de salario.
+La falta oportuna de las declaraciones, así como la falsedad de datos contenidos en las mismas, la resistencia a las visitas de inspección conducentes a la correcta determinación de la base gravable y en general el incumplimiento de las obligaciones fiscales serán sancionadas, independientemente de la responsabilidad en que se incurre, con multa hasta de 300 días salario mínimo.
 
 ###### ARTICULO 120.
 
@@ -1849,9 +1871,11 @@ Los causantes que hayan pagado menor cantidad de la que corresponda conforme a l
 
 En los casos a que se refieren los párrafos que anteceden no se causarán recargos por el tiempo anterior al giro de las boletas respectivas, pero si se causará por las sumas que no sean cubiertas oportunamente según los plazos convenidos.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 122.
 
-Todas las liquidaciones de créditos fiscales se elevarán a múltiplos de $ 1.00.
+Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.00.
 
 T R A N S I T O R I O S :
 
@@ -1900,3 +1924,17 @@ B.O. 10 DE JULIO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 1 DE JULIO DE 1987.
+
+###### ARTICULO 1o.
+
+Las reformas y adiciones a la Ley de Hacienda Municipal que contiene el presente Decreto, surtirán sus efectos el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO 2o.
+
+Para la aplicación del Impuesto sobre Adquisición de Inmueble (sic) y pago de derechos de Registro Público, las disposiciones se aplicarán para operaciones consignadas en escrituras públicas posteriores a la publicación del presente Decreto.
+
+###### ARTICULO 3o.
+
+Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
