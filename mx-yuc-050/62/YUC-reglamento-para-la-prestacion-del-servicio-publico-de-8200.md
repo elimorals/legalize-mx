@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-para-la-prestacion-del-servicio-publico-de-8200"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-03"
-last_updated: "1993-05-03"
+last_updated: "1997-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO PARA LA PRESTACION DEL SERVICIO PUBLICO DE TRANSPORTE COLECTIVO DE PERSONAS EN EL MUNICIPIO DE MERIDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 3 de mayo de 1993.
 
@@ -79,6 +79,10 @@ H).- PARADA.- Lugar señalado por la Comisión Municipal de Transporte en coordi
 
 I).- CENTRO DE LA CIUDAD.- Area urbana comprendida entre las calles 50 y 64 de oriente a poniente, y de la 69 a la 55 de sur a norte.
 
+> <small>(ADICIONADO, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+J) PERSONA CON DISCAPACIDAD.- Es aquella con capacidad disminuida o limitada para realizar por sí misma las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social.
+
 ###### ARTICULO 5.
 
 Para que un vehículo opere como unidad del servicio público de transporte colectivo se requiere:
@@ -94,6 +98,10 @@ IV).- Guardar un buen estado de seguridad, higiene, funcionalidad y presentació
 V).- Lleve en el exterior e interior del vehículo la razón social o en su caso el nombre del titular de la concesión.
 
 VI).- Contar de manera visible y estéticamente diseñado, el nombre o el número de la ruta, así como también el correspondiente número económico.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+VII).- Que cuente con un asiento reservado por lo menos, por cada diez de los que tenga el vehículo, a efecto de que en su caso, sean utilizados por personas con discapacidad, debiendo tener un letrero con el logotipo adoptado a fin de que se respete dicho espacio. Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y podrán ser utilizados por cualquier usuario, siempre y cuando no sea requerido por alguna persona con discapacidad.
 
 ###### ARTICULO 6.
 
@@ -147,7 +155,9 @@ Para los efectos de su funcionamiento el Consejo Consultivo de Transporte se suj
 
 Son facultades de la Comisión Municipal de Transporte:
 
-I.- Vigilar que los concesionarios, operadores y demás personas que intervienen en la prestación del servicio público de transporte colectivo, cumplan con las obligaciones, resoluciones y acuerdos de las autoridades municipales; así como las señaladas en el presente Reglamento y cualquier otro relacionado.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+I.- Vigilar y hacer que los concesionarios, operadores y demás personas que intervienen en la prestación del servicio público de transporte colectivo de personas, cumplan con las obligaciones, resoluciones y acuerdos de las autoridades municipales al igual que las demás leyes y disposiciones relativas en especial lo dispuesto por la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán.
 
 II.- Solicitar el auxilio de la fuerza pública y de las demás autoridades para el mejor desempeño de sus funciones.
 
@@ -305,6 +315,20 @@ XXII.- Tener en cada una de las unidades el equipo de emergencia necesario para 
 
 XXIII.- Dotar a cada operador de un ejemplar de este Reglamento, y demás relativos al tránsito vehicular.
 
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXIV.- Cumplir los programas y campañas permanentes de educación vial, cortesía urbana y respecto hacia las personas con discapacidad en su tránsito por la vía pública.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXV.- Reservar por lo menos un asiento por cada diez de los que tenga el vehículo a efecto de que en su caso, sean utilizados por personas con discapacidad, en cada unidad del servicio público de transporte colectivo de personas, ya sea autobús convencional, midibús o minibús o taxi colectivo. Estos asientos deberán estar situados cerca de la puerta de acceso del vehículo de que se trate y podrán ser utilizados por cualquier usuario, siempre y cuando no sea requerido por alguna persona con discapacidad.
+
+> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+XXVI.- Fijar el logotipo adoptado en los lugares reservados para las personas con discapacidad, a efecto de que se respete dicho espacio. Para su identificación se utilizará cualquiera de los logotipos internacionales, consistentes en: la silueta de una silla de ruedas, un individuo con bastón, un perfil con señalamiento auditivo o un perfil con una imagen cerebral, debiendo contener números, leyenda o símbolos, realzados o rehundidos en colores contrastantes con la finalidad de facilitar su localización y lectura.
+
+Los señalamientos deberán colocarse en lugares fijos no abatibles, a una altura que no excederá de 180 centímetros contados desde el nivel del piso, las señales y los lugares en que éstas se coloquen deberán estar fabricados de materiales que eviten el tacto, lesiones de cualquier especie.
+
 ###### ARTICULO 20.
 
 La Comisión Municipal de Transporte definirá las normas mínimas para las acciones de verificación y revisión mecánicas, tomando en cuenta la antigüedad, seguridad y mantenimiento de las unidades con las que presta o pretenda prestar el servicio.
@@ -353,6 +377,14 @@ XVI.- Acatar las disposiciones de los funcionarios e inspectores de la Comisión
 
 XVII.- Prohibir el ascenso de personas en estado de embriaguez o bajo los efectos de una droga enervante.
 
+> <small>(ADICIONADA, D.O. 5 DE FEBRERO DE 1997)</small>
+
+XVIII.- Cumplir los programas y campañas permanentes de educación vial, cortesía urbana y respeto hacía las personas con discapacidad en su tránsito por la vía pública.
+
+> <small>(ADICIONADA, D.O. 5 DE FEBRERO DE 1997)</small>
+
+XIX.- Cuidar que los asientos destinados para las personas con discapacidad sean respectados por los demás usuarios cuando sean requeridos por aquellas.
+
 ###### ARTICULO 23.
 
 Además de las obligaciones contempladas en el artículo anterior, los operadores de las unidades con las que se presta el servicio, tendrán las siguientes obligaciones:
@@ -383,7 +415,9 @@ Los usuarios del servicio público de transporte colectivo de personas, tendrán
 
 I.- Abordar las unidades del servicio público de transporte colectivo de manera ordenada y a la brevedad posible en los lugares que para el efecto se señalen.
 
-II.- Descender preferentemente por la puerta trasera, y hacerlo en los lugares que para el efecto se destinen.
+> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 1997)</small>
+
+II.- Descender preferentemente por la puerta trasera, y hacerlo en los lugares que para el efecto se destinen, con excepción de las personas con discapacidad quienes podrán utilizar la puerta de acceso.
 
 III.- Pagar el importe del boleto, preferentemente con moneda fraccionaria; exigiendo siempre el comprobante de pago correspondiente.
 
@@ -488,3 +522,15 @@ PRESIDENTA MUNICIPAL
 C. TOMAS VARGAS SABIDO
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 5 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Las reformas y adiciones a los artículos anteriormente relacionados entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTICULO SEGUNDO.
+
+Se fija a los concesionarios, permisionarios y prestadores del servicio público de transporte colectivo de personas del municipio de Mérida, para que realicen a los vehículos destinados a la prestación de dicho servicio las adecuaciones señaladas en los artículos de este Reglamento que han sido reformados y adicionados, un plazo de noventa días naturales contados a partir de su publicación.
