@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-enajenaciones-servicios-681
 country: "mx"
 rank: "ley"
 publication_date: "1988-04-13"
-last_updated: "1988-04-13"
+last_updated: "2002-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ENAJENACIONES, SERVICIOS Y ALMACENES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE NAYARIT.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 13 de Abril de 1988.
 
@@ -120,6 +120,8 @@ I.- Los objetivos, prioridades y políticas del Plan Estatal de desarrollo y los
 II.- Las previsiones contenidas en los programas anuales que elaboren los organismos de la administración pública centralizada y paraestatal y, en su caso, los municipios, para la ejecución del Plan y los programas a que se refiere la fracción anterior.
 
 III.- Los objetivos, metas, previsiones, prioridades y recursos establecidos en el presupuesto de egresos del Estado de Nayarit.
+
+IV.- Las demás disposiciones legales y reglamentos que rijan las operaciones que preveé esta Ley.
 
 IV.- Las demás disposiciones legales y reglamentos que rijan las operaciones que preveé esta Ley.
 
@@ -417,7 +419,7 @@ Los proveedores de estos bienes y servicios, deberán informar con la debida opo
 
 Las personas que infrinjan las disposiciones contenidas en esta Ley, podrán ser sancionadas por la Secretaría de la Contraloría General hasta por la cantidad de cinco mil días de salario mínimo general y vigente en el Estado en la fecha de la infracción, de acuerdo a la gravedad de la misma.
 
-Sin perjuicio de lo establecido en el párrafo anterior, los proveedores que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados por la Oficialía Mayor con la suspensión o cancelación de su registro en el Padrón de proveedores de la Administración Pública del Estado
+Sin perjuicio de lo establecido en el párrafo anterior, los proveedores que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados por la Oficialía Mayor con la suspensión o cancelación de su registro en el Padrón de proveedores de la Administración Pública del Estado.
 
 ###### ARTICULO 54.
 
@@ -447,7 +449,7 @@ En el procedimiento para la aplicación de las sanciones a que se refiere este C
 
 I.- Se comunicará por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles exponga a lo que a su derecho convenga y aporte las pruebas que estime pertinentes.
 
-II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer, y,
+II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer, y;
 
 III.- La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
 
@@ -463,29 +465,15 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 
 ## TITULO SEXTO. DEL RECURSO DE REVISION
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
+
 ###### ARTICULO 60.
 
-En contra de las resoluciones que la Secretaría de la Contraloría General y la Oficialía Mayor dicten en los términos de esta Ley, el interesado podrá interponer ante el Comité a que hace mención el Artículo 5o, el recurso de revisión, dentro del término de diez días hábiles, contados a partir del día siguiente al de la notificación.
+Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTICULO 61.
 
-La tramitación del recurso a que se refiere el Artículo anterior, se sujetará a las normas siguientes:
-
-I.- Se interpondrá por el recurrente mediante escrito en el que se expresarán los agravios que le cause el acto impugnado, ofreciendo las pruebas que se propongan rendir, así como la constancia de la notificación, excepto si esta se hizo por correo certificado con acuse de recibo.
-
-II.- En el recurso solo serán admisibles las pruebas supervenientes o aquellas que hayan sido desechadas por la autoridad que emitió la resolución, debiendo ser relacionadas con cada uno de los hechos controvertidos.
-
-III.- Se tendrán por no ofrecidas las pruebas documentales, si estas no se acompañan al escrito en que se interponga el recurso a menos que sea por causa justificada y en tal caso serán recabadas por la autoridad.
-
-IV.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por la recurrente, de no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta.
-
-V.- El comité a que hace mención el Artículo 5º según el caso, podrá solicitar que le sean rendidos los informes que estime pertinente por parte de quienes hayan intervenido en el acto reclamado.
-
-VI.- El Comité en mención, acordará lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, lo anterior en un término de 7 días hábiles posteriores a la presentación del recurso.
-
-VII.- Admitido el recurso el Comité ordenará el desahogo de las pruebas dentro de un plazo de quince días hábiles, el que será improrrogable, y;
-
-VIII.- Vencido el plazo establecido en el párrafo anterior, el Comité dictará resolución en un término que no excederá de diez días hábiles.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 TRANSITORIOS :
 
@@ -512,3 +500,33 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario Gral. de Gobierno.
 
 Dr. Ignacio Cuesta Barrios.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
