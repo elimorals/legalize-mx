@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "1990-04-17"
+last_updated: "2000-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO -- ANTES LEY REGLAMENTARIA DEL ART. 62, ANTES DEL ART. 61-- DE LA CONSTICUCION POLITICA DEL ESTADO DE JALISCO
 
-LEY REGLAMENTARIA DEL ARTICULO 62 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -37,9 +37,9 @@ DECRETO
 
 Número 10206. El Congreso del Estado decreta:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 2000)</small>
 
-Ley Reglamentaria del Art. 62 de la Constitución Política del estado de Jalisco.
+Ley de Incompatibilidades para los Servidores Públicos Reglamentaria del Artículo 112 de la Constitución Política del Estado de Jalisco.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -304,3 +304,7 @@ Segundo. El presente Decreto entrará en vigor al tercer día de su publicación
 P.O. 17 DE ABRIL DE 1990.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 4 DE MAYO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
