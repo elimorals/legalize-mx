@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1942-12-24"
+last_updated: "1943-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE OCTUBRE DE 1943.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -11889,11 +11889,13 @@ ARTICULO 2417
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2411 y 2412.
 
+> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 1943)</small>
+
 ARTICULO 2418
 
-Vencido un contrato de arrendamiento, tendrá derecho el arrendatario, siempre que esté al corriente en el pago de las rentas a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate, han sufrido un alza después de que se celebró el contrato de arrendamiento.
+Vencido un contrato de arrendamiento, tendrá derecho el arrendatario que esté al corriente en el pago de la renta, a que se le prorrogue hasta por un año ese contrato, cuando se trate de fincas rústicas o urbanas, destinadas a habitación, y hasta por dos años, cuando el arrendamiento se refiera a predios urbanos en los que el arrendatario tenga establecida alguna negociación comercial o industrial y la vigencia del contrato se haya prolongado por un lapso no menor de cinco años. Podrá el arrendador aumentar hasta por un diez por ciento la renta, en el primer caso, y hasta un veinte por ciento, en el segundo, siempre que los alquileres en la zona de que se trate hayan sufrido una alza después de que se celebró el contrato de arrendamiento.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+Quedan exceptuados de la obligación de prorrogar el contrato, los propietarios que quieran habitar la casa o cultivar la finca, objeto del arrendamiento.
 
 ARTICULO 2419
 
@@ -14956,3 +14958,7 @@ Esta Ley comenzará a regir el primero de enero de mil novecientos cuarenta y tr
 ###### ARTICULO SEGUNDO.
 
 Se faculta al Ejecutivo del Estado, para expedir la Ley Reglamentaria del Registro de la Propiedad, a que se refiere el artículo único del esta Ley.
+
+G.O. 26 DE OCTUBRE DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
