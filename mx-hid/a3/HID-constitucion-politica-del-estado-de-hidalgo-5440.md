@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1982-05-16"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1021,9 +1021,9 @@ XXIII. Nombrar representantes del Estado para los negocios en los que éste teng
 
 XXIV. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1982)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
-XXV. Concurrir ante el H. Congreso el Día Primero de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la administración pública, excepto el último año del ejercicio constitucional, en el cual el informe del estado que guarda la administración pública, se hará el día primero de marzo;
+XXV. Concurrir ante el H. Congreso el día primero de abril de cada año, para dar cuenta del estado que guardan los diversos Ramos de la Administración Pública, excepto el último año del Ejercicio Constitucional, en el cual el Informe se hará el día primero de marzo; o cuando por causas de fuerza mayor, no fuera posible, en éstas fechas, para lo cual, el H. Congreso expedirá el correspondiente Decreto, fijando el día para este acto;
 
 XXVI. Solicitar del Congreso autorización para el arreglo de los límites de la Entidad con Estados limítrofes, y una vez aprobado el arreglo por la Legislatura, dirigirse al Congreso de la Unión, para los efectos de dar cumplimiento a los artículos 72, fracción IV y 116 de la Constitución General de la República;
 
@@ -2114,6 +2114,10 @@ UNICO: El presente decreto entrará en vigor a partir de la fecha de su publicac
 P.O. 16 DE MAYO DE 1982.
 
 UNICO.- Estas reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del 158 de la propia Constitución Política del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1982.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado de Hidalgo, y cumplido el requisito establecido en el párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
 
 ###### Artículo 3o.
 
