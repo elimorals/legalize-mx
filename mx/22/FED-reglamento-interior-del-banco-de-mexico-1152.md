@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1995-10-02"
+last_updated: "1996-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE OCTUBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 1996.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -53,6 +53,8 @@ El Secretario será asistido en sus funciones por un Prosecretario, quien ademá
 
 Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 4o.
 
 Para el desempeño de las funciones encomendadas por la Ley, el Gobernador contará con las unidades siguientes:
@@ -67,8 +69,6 @@ Dirección General de Administración Interna.
 
 Dirección de Emisión.
 
-Dirección de Relaciones Externas.
-
 Dirección de Disposiciones de Banca Central.
 
 Dirección de Organismos y Acuerdos Internacionales.
@@ -77,11 +77,13 @@ Dirección de Operaciones.
 
 Dirección de Sistemas Operativos de Banca Central.
 
-Dirección de Estudios Económicos.
+Dirección de Estudios Económicos
 
 Dirección de Medición Económica.
 
 Dirección de Análisis Macroeconómico.
+
+Dirección de Información Económica
 
 Dirección de Intermediarios Financieros Privados.
 
@@ -97,7 +99,9 @@ Dirección de Sistemas.
 
 Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central y Organismos y Acuerdos Internacionales, dependerán del Gobernador.
 
-A cargo de las Direcciones estará un Director, quien se auxiliará en el cumplimiento de sus funciones de los Gerentes, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente.
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+
+A cargo de las Direcciones estará un Director, quien se auxiliará en el cumplimiento de sus funciones del Tesorero, los Coordinadores, Gerentes, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente.
 
 El Gobernador, además, se auxiliará en el ejercicio de sus funciones por una Gerencia de Comunicación Social y una Oficina de Relaciones Públicas.
 
@@ -129,7 +133,9 @@ La atribución aquí concedida incluye las facultades necesarias para la suscrip
 
 Tratándose de disposiciones, autorizaciones, opiniones y sanciones, que conforme a la Ley corresponda emitir al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de banca central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección de Emisión y uno de la Dirección Jurídica.
 
-Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior deberán ocupar puestos de Gerente o superior, o bien alguno de rango equivalente.
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+
+Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior deberán ocupar puestos de Tesorero, Coordinador, Gerente o superior, o bien alguno de rango equivalente.
 
 El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador y, en sus ausencias, por el Director General de Administración Interna.
 
@@ -179,15 +185,19 @@ X. Desempeñar las funciones encomendadas al Banco en el Fideicomiso relativo al
 
 A esta Dirección General estarán adscritas la Dirección de Operaciones y la de Sistemas Operativos de Banca Central.
 
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 13.
 
-La Dirección General de Investigación Económica tendrá las atribuciones señaladas en los artículos 21 a 23.
+La Dirección General de Investigación Económica tiene las atribuciones señaladas en los artículos 21 a 23 Bis.
 
-A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, Medición Económica y Análisis Macroeconómico.
+A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, Medición Económica, Análisis Macroeconómico e Información Económica.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 14.
 
-La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en los artículos 24, 25 y TERCERO TRANSITORIO, así como las relativas al desempeño en los fideicomisos Fondo Bancario de Protección al Ahorro y Fondo de Apoyo al Mercado de Valores.
+La Dirección General de Análisis del Sistema Financiero tendrá las atribuciones señaladas en los artículos 24, 25, así como las relativas al desempeño en los fideicomisos Fondo Bancario de Protección al Ahorro y Fondo de Apoyo al Mercado de Valores.
 
 A esta Dirección General estarán adscritas la Dirección de Intermediarios Financieros Privados y la de Intermediarios Financieros de Fomento.
 
@@ -307,6 +317,12 @@ La Dirección de Análisis Macroeconómico estará facultada para recabar y proc
 
 También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias mencionadas en el párrafo anterior.
 
+> <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 1996)</small>
+
+ARTICULO 23 BIS. La Dirección de Información Económica estará facultada para recabar y procesar información relacionada con los índices de precios, salarios y formación de capital de las actividades económicas del país, así como para establecer los sistemas de procesamiento, manejo y diseminación de información económica y financiera.
+
+También contará con la atribución de comercializar publicaciones, reportes y demás instrumentos de divulgación vinculados a las materias señaladas en este artículo.
+
 ###### ARTICULO 24.
 
 La Dirección de Intermediarios Financieros Privados, tendrá las atribuciones siguientes:
@@ -323,17 +339,21 @@ V. Atender consultas de los particulares en relación con las disposiciones fina
 
 VI. Publicar información de carácter económico y financiero.
 
+> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1996)</small>
+
 ###### ARTICULO 25.
 
 La Dirección de Intermediarios Financieros de Fomento, tendrá las atribuciones siguientes:
 
-I. Requerir a las instituciones de banca de desarrollo y a los fideicomisos de fomento económico la información necesaria para evaluar la operación de éstos;
+I. Dirigir, supervisar y coordinar las funciones encomendadas al Banco como Fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras y en los fideicomisos instituidos en relación a la agricultura, que son Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura; Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios;
 
-II. Atender consultas de las entidades señaladas en el párrafo anterior con relación a las disposiciones financieras, cuya supervisión corresponda al Banco;
+II. Requerir a las instituciones de banca de desarrollo y a los fideicomisos de fomento económico a que se refiere la fracción I, la información necesaria para evaluar la operación de éstos;
 
-III. Coadyuvar con las autoridades competentes en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la fracción I de este artículo, y
+III. Atender consultas de las entidades señaladas en el párrafo anterior con relación a las disposiciones financieras, cuya supervisión corresponda al Banco;
 
-IV. Coadyuvar, con las autoridades competentes, en la imposición de las sanciones y en la supervisión de las entidades a que se refiere la fracción I de este artículo.
+IV. Coadyuvar con las autoridades competentes en las negociaciones tendientes a la obtención de recursos por parte de las entidades señaladas en la fracción II de este artículo, y
+
+V. Coadyuvar con las autoridades competentes en la imposición de las sanciones y en la supervisión de las entidades a que se refiere la fracción II de este artículo.
 
 ###### ARTICULO 26.
 
@@ -667,7 +687,7 @@ PRIMERO.- El presente Reglamento Interior entrará en vigor el día 1o. de octub
 
 SEGUNDO.- Se abroga el Reglamento Interior del Banco de México publicado en el Diario Oficial de la Federación, el 4 de julio de 1985.
 
-TERCERO.- Durante el plazo a que se refiere el segundo párrafo del artículo DECIMO TRANSITORIO de la Ley, la Dirección de Intermediarios Financieros de Fomento tendrá como atribuciones dirigir, supervisar y coordinar las funciones encomendadas al Banco como fiduciario en el Fondo de Operación y Financiamiento Bancario a la Vivienda, Fondo para el Desarrollo Comercial, Fondo de Garantía y Fomento para las Actividades Pesqueras, y en los fideicomisos instituidos en relación a la agricultura, que son Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura; Fondo Especial para Financiamientos Agropecuarios y Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios. La Dirección señalada también quedará facultada, en los términos señalados por las disposiciones aplicables, para intervenir en las operaciones de financiamiento a que se refiere el artículo transitorio aquí mencionado.
+TERCERO.- (DEROGADO, D.O.F. 28 DE MARZO DE 1996)
 
 El presente Reglamento Interior fue aprobado por la Junta de Gobierno, con fundamento en lo dispuesto por los artículos 28 de la Constitución Política de los Estados Unidos Mexicanos, 46, fracción XVI y SEXTO TRANSITORIO de la Ley del Banco de México, en sesión de fecha 23 de septiembre de 1994. Publíquese.
 
@@ -690,3 +710,9 @@ UNICO.- La presente reforma entrará en vigor a partir de la fecha de su publica
 D.O.F. 2 DE OCTUBRE DE 1995.
 
 UNICO. Las presentes reformas y adiciones entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE MARZO DE 1996.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas, adición y derogación entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
