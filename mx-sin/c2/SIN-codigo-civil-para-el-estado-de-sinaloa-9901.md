@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1954-07-20"
+last_updated: "1954-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1954.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -465,9 +465,11 @@ II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su 
 
 III.- Si el hijo es menor de catorce años, se expresará tan solo el consentimiento del tutor.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1954)</small>
+
 ###### Artículo 79.
 
-Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o ésa presentación se haya hecho después del término de la ley.
+Cuando se haya omitido la presentación para el registro del nacimiento de un hijo natural, este al llegar a su mayor edad podrá presentarse personalmente para su registro en la Oficina Respectiva del Registro Civil, acompañado de tres testigos que deben ser personas mayores que él cuando menos en catorce años de edad, quienes firmarán el acta.
 
 ###### Artículo 80.
 
@@ -13021,7 +13023,7 @@ Artículo 2639 (sic) .- Las acciones que nacen del transporte, sean en pro o en 
 
 ###### Artículo 2540.
 
-Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada, y el daño proviniere de alguna de esas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató con el porteador, tanto por el daño que se cause en la cosa, como por el que reciban el medio de transporte u otras personas u objetos.
+Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada, y el daño proviniere de alguna de esas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató con el porteador, tanto por el daño que se cause en la cosa, como por el que reciban el medio de transporte u otras personas y objetos.
 
 ###### Artículo 2541.
 
@@ -15250,3 +15252,7 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir del día quince de
 P.O. 20 DE JULIO DE 1954.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE SEPTIEMBRE DE 1954.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa."
