@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2003-08-11"
+last_updated: "2004-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -545,17 +545,19 @@ V. Los militares que no se hayan separado del servicio activo, cuando menos seis
 
 Los Diputados al Congreso del Estado, no podrán ser reelectos para la Legislatura siguiente. Los Suplentes podrán ser electos para la Legislatura inmediata, con el carácter de Propietarios, siempre que no hubiesen estado en ejercicio durante la última Legislatura, pero los Diputados Propietarios no podrán serlo en la Legislatura subsecuente con el carácter de Suplentes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 34.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos o enjuiciados por ellas.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+El Presidente del Congreso, velará por el respeto al fuero constitucional de los Diputados y por la inviolabilidad del Recinto Oficial.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 35.
 
-El cargo de Diputado Propietario y el de Suplente, cuando lo ejerza, es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, salvo el docente, de asistencia pública o privada, o previa autorización expresa de la Legislatura. La violación a esta disposición será sancionada con la pérdida del cargo de Diputado.
+Los Diputados en ejercicio, no podrán desempeñar ningún empleo, cargo o comisión de los Gobiernos Federal, Estatal o Municipal, salvo el académico o de beneficencia pública. La violación de esta disposición, será sancionada con la pérdida del cargo de Diputado.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -589,25 +591,25 @@ Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
 El Congreso podrá celebrar sesiones extraordinarias a convocatoria de la Diputación Permanente por sí o a solicitud formulada por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 40.
 
-Los Diputados que falten a una sesión sin causa justificada o sin permiso del Congreso o de la Diputación Permanente, en su caso, no tendrán derecho a percibir la dieta correspondiente al día de su inasistencia.
+Los Diputados que falten a una Sesión sin causa justificada o sin permiso del Presidente de la Directiva, no tendrán derecho a percibir la dieta correspondiente al día de su inasistencia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 41.
 
-Cuando algún Diputado falte a más de cinco sesiones consecutivas, sin tener licencia o causa justificada, será sustituido por el Suplente, quien concluirá el período ordinario de sesiones respectivo.
+Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa autorización del Presidente de la Directiva o causa justificada, se llamará al Suplente respectivo, quien ejercerá las funciones durante el resto del periodo de Sesiones correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 42.
 
-Durante el primer período ordinario de sesiones, el Congreso se ocupará preferentemente de examinar y calificar las cuentas públicas del Estado y de los municipios, correspondientes al año inmediato anterior.
+Durante el Primer Período Ordinario de Sesiones, el Congreso se ocupará prioritariamente de examinar, calificar y e su caso, aprobar, las Cuentas Públicas del Estado y de los Municipios, correspondientes al año inmediato anterior.
 
-En el segundo y para que rijan el año siguiente, se ocupará preferentemente de examinar y aprobar, en su caso, las Leyes de Ingresos del Estado y de los municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre.
+En el Segundo y para que rijan el año siguiente, se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a mas tardar el quince de diciembre.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -649,11 +651,13 @@ II. A los Diputados;
 
 III. Al Tribunal Superior de Justicia en su ramo;
 
-IV. A los Ayuntamientos; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 1995)</small>
+IV. A los Ayuntamientos;
 
-V. Al Procurador General de Justicia del Estado en su ramo; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+V. Al Procurador General de Justicia del Estado en su ramo y
 
 VI. A los ciudadanos del Estado y personas morales domiciliadas en la Entidad, por conducto de los Ayuntamientos o de los Diputados de sus respectivos Distritos Electorales.
 
@@ -669,41 +673,53 @@ Toda iniciativa de Ley o Decreto presentada, deberá pasar a la comisión o comi
 
 Las iniciativas se sujetarán al trámite que señala la ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 50.
 
-En todo caso se dará aviso al Ejecutivo del día señalado para la discusión de un dictamen, a fin de que aquel pueda participar en ella directamente o por medio de un representante. Igual aviso se dará al Tribunal Superior de Justicia y a la Procuraduría General de Justicia en los asuntos de su ramo, para que puedan tomar parte en la discusión por conducto de alguno de sus integrantes.
+El día señalado para la discusión de un dictamen, se dará aviso al autor de la Iniciativa, a fin de que si lo estima pertinente, pueda participar en ella por sí o por medio de representante.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 51.
 
-Aprobado un proyecto de Ley o de Decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador, dentro de los diez días hábiles siguientes, podrá devolverlo con las observaciones que considere pertinentes.
+Aprobado un Proyecto de Ley o de Decreto por el Congreso, se remitirá al Gobernador para su promulgación y publicación. El Gobernador, dentro de los diez días hábiles siguientes, podrá devolverlo con las observaciones que considere pertinentes.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 El proyecto de Ley o de Decreto devuelto al Congreso deberá ser discutido nuevamente, y si fuere confirmado por los dos tercios del número total de diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 52.
 
-El Gobernador no podrá hacer observaciones a las leyes o decretos del Congreso, cuando:
+El Gobernador no podrá hacer observaciones a los Proyectos de Ley o de Decreto del Congreso, cuando:
 
-I. Se trata de adiciones o reformas a esta Constitución;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+I. Se trate de adiciones o reformas a esta Constitución;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 II. Hayan sido dictados en ejercicio de la facultad de revisar la cuenta general del Estado y de los Muncipios (sic);
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, del Tribunal Electoral, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales; y
+III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, del Tribunal Electoral, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales; y (sic)
 
-IV. Hayan sido dictados en funciones del Colegio Electoral, de Gran Jurado y de Jurado de Acusación.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+IV. Hayan sido dictados en funciones del Colegio Electoral, Gran Jurado u Organo de Acusación y
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+V. Hayan sido dictados bajo la facultad de expedir su Ley reglamentaria y disposiciones relacionadas con la misma.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 53.
 
-Se tendrá por aprobado todo proyecto de ley o Decreto no devuelto por el Gobernador en el plazo de diez días a que hace referencia el artículo 51, a no ser que durante este término, el Congreso hubiere entrado en receso, en cuyo caso, la devolución deberá hacerla el primer día de sesiones del período siguiente.
+Se tendrá por aprobado, todo Proyecto de Ley o Decreto no devuelto por el Gobernador, en el plazo de diez días hábiles a que hace referencia el Artículo 51, a no ser que durante este término, el Congreso hubiere entrado en receso, en cuyo caso, la devolución deberá hacerla el primer día de sesiones del período siguiente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -733,13 +749,15 @@ II. Expedir las Leyes que sean necesarias para hacer efectivas las facultades ot
 
 III. Expedir las leyes reglamentarias y ejercer las facultades que le otorga la Constitución General de la República;
 
-IV. Iniciar Leyes y Decretos ante el Congreso de la Unión;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+IV. Iniciar Leyes y Decretos ante el Congreso General;
 
-V. Expedir y aprobar su Ley reglamentaria, así como la ley que regule las facultades y organización interna de la Contaduría Mayor de Hacienda del Congreso del Estado, conforme a las bases establecidas en esta Constitución.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-La Contaduría Mayor de Hacienda del Congreso del Estado es el órgano técnico responsable de la revisión y fiscalización de las cuentas públicas del Estado y de los Municipios, de acuerdo a la Legislación correspondiente;
+V. Expedir y aprobar su Ley reglamentaria, así como la Ley que regule las facultades y organización interna del Organo de Fiscalización Superior, conforme a las bases establecidas en esta Constitución.
+
+El Organo de Fiscalización Superior del Congreso del Estado, es el órgano técnico responsable de la revisión y fiscalización de las Cuentas Públicas del Estado y de los Municipios, de acuerdo a la Legislación correspondiente;
 
 VI. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
@@ -771,21 +789,23 @@ XIII. Resolver los conflictos que se susciten entre dos o más municipios del Es
 
 XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licencia de los Diputados Propietarios;
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-XV. Nombrar al Titular de la Contaduría Mayor de Hacienda del Congreso del Estado y al Oficial Mayor;
+XV. Nombrar al Titular del Organo de Fiscalización Superior del Congreso del Estado y al Secretario de Servicios Legislativos;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
 XVI. Decretar se tramite la reivindicación de los bienes Estatales y Municipales, sin perjuicio de las facultades que para ello correspondan al Poder Ejecutivo del Estado y a los gobiernos municipales;
 
-XVII. Recibir y aprobar, en su caso, la cuenta justificada que está obligada a rendir toda persona física o moral que recibida a cualquier título, fondos del erario estatal, comprendidos en el Presupuesto de Egresos del año correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XVII. Recibir y aprobar en su caso, informes y la cuenta pública justificada que está obligada a rendir toda persona física o moral que reciba a cualquier título, fondos del Erario Publico, comprendidos en el presupuesto de egresos del año correspondiente;
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 XVIII. Declarar, por acuerdo de las dos terceras partes de sus integrantes, la suspensión o la desaparición de ayuntamientos; suspender o revocar el mandato de alguno o algunos de sus miembros por cualquiera de las causas graves que las leyes prevengan, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, dentro de los términos de ley;
 
-XIX. Instalar y presidir la Junta Preparatoria del nuevo Congreso del Estado;
+XIX. (DEROGADA, P.O. 19 DE ABRIL DE 2004)
 
 XX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
@@ -845,9 +865,13 @@ XXX. Aprobar, por el voto de las dos terceras partes del total de sus miembros, 
 
 XXXI. Revisar y fiscalizar las cuentas públicas del Estado y de los Municipios.
 
-Para la revisión y fiscalización de la cuenta pública, tanto del Estado como de los Municipios, el Congreso se apoyará en la Contaduría Mayor de Hacienda. Si del examen que ésta realice aparecieren discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
-La Contaduría Mayor de Hacienda del Congreso del Estado determinará los daños y perjuicios que afecten a las haciendas públicas estatal o municipales o al patrimonio de las entidades estatales o municipales y fincará a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; en su caso, promoverá ante las autoridades competentes el fincamiento de otras responsabilidades o las acciones a que se refiere el título Décimo de esta Constitución y podrá presentar denuncias y querellas penales conforme a la Ley de la materia, y
+Para la revisión y fiscalización de la Cuenta Publica, tanto del Estado como de los Municipios, el Congreso se apoyará en el Organo de Fiscalización Superior. Si del examen que ésta realice, aparecieren discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+
+El Organo de Fiscalización Superior del Congreso del Estado, determinará los daños y perjuicios que afecten a las Haciendas Públicas Estatal o Municipales o al Patrimonio de las Entidades Estatales o Municipales y fincará a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; en su caso, promoverá ante las Autoridades competentes, el fincamiento de otras responsabilidades o las acciones a que se refiere el Título Décimo de esta Constitución y podrá presentar denuncias y querellas penales conforme a la Ley de la materia y
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -857,7 +881,7 @@ XXXII. Las demás que le sean concedidas por esta Constitución.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 #### SECCION I. DEL GOBERNADOR
 
@@ -865,13 +889,13 @@ XXXII. Las demás que le sean concedidas por esta Constitución.
 
 ###### Artículo 57.
 
-Durante los recesos del Congreso habrá una Diputación Permanente, compuesta de siete Diputados con el carácter de Propietarios y otros dos como suplentes.
+Durante los recesos del Congreso, habrá una Diputación Permanente, compuesta de nueve Diputados con el carácter de Propietarios y dos como Suplentes.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 58.
 
-La Diputación Permanente será nombrada por el Congreso, cuando menos tres días antes de la clausura del período ordinario de sesiones.
+La Diputación Permanente será electa por el Congreso, en la última Sesión de cada período de Sesiones Ordinarias.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -899,9 +923,9 @@ IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso 
 
 V. Conocer las propuestas de nombramiento de los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y las de los Magistrados del Tribunal Electoral del Estado y de su licencia o renuncia, en los términos que establezca la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
-VI. Nombrar con carácter interino a los empleados de la Contaduría Mayor de Hacienda;
+VI. Nombrar con carácter interino al Auditor Superior del Organo de Fiscalización Superior del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -915,9 +939,13 @@ VIII. Conocer en su caso, la propuesta del Ejecutivo para nombrar a los Magistra
 
 IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2004)</small>
 
-X. Las demás que le confiere expresamente esta Constitución.
+X. Asumir la función de Comisión Instaladora de la Legislatura entrante y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE ABRIL DE 2004)</small>
+
+XI. Las demás que le confiera expresamente esta Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1673,11 +1701,11 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expida éste, continuará vigente el del año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
 ###### Artículo 110.
 
-Las cuentas de los caudales públicos deberán glosarse sin excepción, por la Contaduría Mayor de Hacienda del Congreso del Estado.
+Las cuentas de los caudales públicos, deberán glosarse sin excepción, por el Organo de Fiscalización Superior del Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2125,7 +2153,9 @@ El titular del Poder Ejecutivo Federal tendrá el mando de la fuerza pública en
 
 XI. Solicitar la autorización del Ayuntamiento para ausentarse del municipio por más de quince días;
 
-XII. Presentar ante la Contaduría Mayor de Hacienda del Congreso del Estado, su Declaración Patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual durante el mes de mayo de cada año y de conclusión de encargo, dentro de los treinta días hábiles siguientes y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+
+XII. Presentar ante el Organo de Fiscalización Superior del Congreso del Estado, su Declaración Patrimonial Inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual durante el mes de mayo de cada año y de conclusión de encargo, dentro de los treinta días hábiles siguientes y
 
 XIII. Las demás que esta Constitución y las leyes le confieran.
 
@@ -2485,7 +2515,7 @@ P.O. 8 DE NOVIEMBRE DE 1948.
 
 DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
 
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación el en Periódico Oficial del Estado.
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE FEBRERO DE 1952.
 
@@ -2774,3 +2804,11 @@ P.O. 11 DE AGOSTO DE 2003.
 DECRETO NUM. 138, QUE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 38 DE LA CONSTITUCION.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
