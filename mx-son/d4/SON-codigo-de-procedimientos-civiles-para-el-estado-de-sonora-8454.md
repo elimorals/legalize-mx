@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2001-05-17"
+last_updated: "2001-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE DICIEMBRE DE 2001.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -5535,7 +5535,7 @@ Las sentencias recaídas en el juicio sobre paternidad y filiación, serán revi
 
 De la adopción.
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 594.
 
@@ -5561,37 +5561,77 @@ Rectificación de actas del estado civil.
 
 ###### Art. 596.
 
-Para que se autorice la adopción, el que pretenda adoptar a uno o más menores o a uno o más incapacitados, deberá acreditar:
+Cualquiera que sea el tipo de adopción, el interesado debe solicitarla en forma personal y directa, acreditando ante el Juez del domicilio del menor o incapacitado:
 
-I.- Que es mayor de veinticinco años y que tiene, por lo menos, diecisiete años más de edad que la persona que trate de adoptar;
+I.- Que es mayor de 25 años y que tiene, por lo menos, 17 años más que la persona que trata de adoptar.
 
-II.- Que existe común acuerdo entre el marido y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes;
+II- Que existe acuerdo entre hombre y mujer para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio o concubinato, pudiendo solicitarse aunque tengan descendientes.
 
-III.- Que el adoptante o adoptantes tienen medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptarse;
+III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o del incapacitado, como si se tratare de hijo propio, según las circunstancias y necesidades de la persona que se trata de adoptar;
 
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse; y
+IV- Que la adopción es benéfica para el adoptado;
 
-V.- Que el adoptante o adoptantes son personas de buenas costumbres.
+V- Que el adoptante es persona de buenas costumbres, y
 
-En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo representen. Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más menores o incapacitados, o de menores o incapaces simultáneamente.
+VI.- Que goza de buena salud física y mental.
+
+Estos dos últimos requisitos serán acreditados mediante un estudio realizado por el Sistema Estatal para el Desarrollo Integral de la Familia, que lo declare apto para realizar la adopción, correspondiendo a esta misma institución la vigilancia de la relación adoptiva cuando la familia tenga su domicilio en México.
+
+En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar; si es menor o incapacitado. El nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o el de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente. También señalará el o los solicitantes de la adopción el nombre y apellido que llevará el adoptado, en caso de que se autorice judicialmente el vinculo, así como el domicilio que servirá de residencia al menor o incapacitado.
+
+> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 597.
 
-Rendidas las justificaciones que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 564 y 565 del Código Civil, el tribunal resolverá lo que corresponda, dentro del tercero día.
+El extranjero o pareja de extranjeros que pretendan adoptar a un menor o incapacitado, deberá exhibir al Juez correspondiente, además de la autorización de la Secretaría de Gobernación, un certificado debidamente legalizado y traducido, si está escrito en otro idioma, expedido por una institución pública o privada autorizada por su país de origen, relacionada con la protección de menores, en el que conste que él o los solicitantes tienen capacidad jurídica para adoptar, según las leyes de ese país atendiendo a sus aptitudes física, moral, psicológica y económica. También los mexicanos residentes en el extranjero deberán presentar este certificado.
+
+Esa misma institución se comprometerá a informar al Juez de la adopción, durante el lapso de un año, sobre las condiciones en que se desarrolle el nuevo vinculo paterno filial, la salud y el trato que recibe el menor. El juez que autorice la adopción lo comunicará a la institución acreditante para este efecto.
+
+También exhibirá el solicitante de la adopción, una certificación de las autoridades migratorias de su estado de origen, por la que se autorice al menor o incapacitado que vaya a adoptar para entrar y residir permanentemente en dicho estado, así como la protección de sus leyes.
+
+> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 598.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 574 del Código Civil.
+Tratándose de adopción internacional, la ley de residencia habitual del menor o incapacitado regirá la capacidad consentimiento y demás requisitos para ser adoptado, así como el procedimiento y las formalidades extrínsecas para la constitución del vínculo.
 
-Si la revocación se pide por ingratitud del adoptado, el juez mandará substanciar el procedimiento en juicio oral, entendiéndose con el adoptado si tuviere más de dieciocho años o con un tutor especial que se le nombre y además con el Ministerio Público. Para demostrar los hechos que constituyan la ingratitud son admisibles toda clase de pruebas.
+La ley del domicilio del adoptante o adoptantes regirá, en cambio:
+
+a).- La capacidad para ser adoptante;
+
+b).- Los requisitos de edad y estado civil del adoptante;
+
+c).- El consentimiento del cónyuge o concubina del adoptante, si fuera el caso, y
+
+d).- Los demás requisitos para ser adoptantes.
+
+En el supuesto de que los requisitos de la ley del adoptante sean menos estrictos que los señalados por la ley del adoptado, se aplicará esta última.
+
+> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 599.
 
-La impugnación de la adopción o la revocación, en los casos de los artículos 561 y 572 fracción II del Código Civil, se ventilarán en juicio oral.
+En caso de conversión de la adopción simple a plena, se aplicará a elección del actor, la ley de residencia habitual del adoptado, al momento de la adopción, o la del país donde tenga su domicilio el adoptante.
+
+> <small>(REFORMADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 600.
 
-Cuando el adoptado sea menor de edad o incapacitado, los procedimientos para autorizar la adopción o para impugnarla o revocarla, se seguirán con el Ministerio Público.
+Rendidas las justificaciones que se exigen para cada tipo de adopción o para su conversión, el tribunal resolverá lo que corresponda dentro del tercer día, ordenando al Oficial del Registro Civil el cumplimiento de los artículos 178 y 179 del Código Civil, en su caso.
+
+> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+
+Art. 600 BIS.- Cuando se solicite la revocación voluntaria de la adopción simple, el juez citará a las partes a una audiencia verbal dentro de los tres días siguientes, decidiendo en ella lo que corresponda.
+
+Si la revocación se pide por ingratitud del adoptado o por alguna de las causas que hacen perder la patria potestad, el juez mandará substanciar el procedimiento en juicio oral, entendiéndose con el adoptado si tuviese más de 18 años o con el tutor especial que se le nombre, en caso contrario y, además, con el Ministerio Público. Para demostrar los hechos que constituyan la ingratitud o la causal de revocación a cargo del adoptante son admisibles toda clase de problemas.
+
+La impugnación de la adopción simple hecha por el menor o incapacitado dentro del año siguiente a su mayor edad o desde la fecha en que haya desaparecido la incapacidad, se ventilará en una sola audiencia, en la que estarán presentes las partes interesadas y el Juez, quien les exhortará para conservar el vínculo.
+
+En todo procedimiento de adopción se dará intervención al Ministerio Público, al igual que en los casos de revocación cuando se trate de menores o incapaces oyendo al Sistema Estatal para el Desarrollo Integral de la Familia, cuando el Juez lo considere conveniente.
+
+> <small>(ADICIONADO, B.O. 13 DE DICIEMBRE DE 2001)</small>
+
+Art. 600 QUATER (SIC).- El Juez que autorizó la adopción plena tiene competencia para ordenar al Oficial del Registro Civil que informe al adoptado sobre sus antecedentes registrales, cuando éste o sus adoptantes lo soliciten para determinar impedimentos matrimoniales o por cualquier causa grave y fundada, así como a solicitud del Ministerio Público en los casos de investigación criminal.
 
 ### CAPITULO NOVENO.
 
@@ -8448,3 +8488,9 @@ La presente Ley entrará en vigor, al día siguiente de su publicación en el Bo
 B.O. 17 DE MAYO DE 2001.
 
 UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las adopciones realizadas con anterioridad a la entrada en vigor del presente decreto, podrán convertirse en adopciones plenas mediante sentencia judicial conforme al procedimiento señalado en las disposiciones materia del presente decreto.
