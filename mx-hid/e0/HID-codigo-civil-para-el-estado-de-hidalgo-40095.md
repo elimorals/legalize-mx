@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2000-07-03"
+last_updated: "2004-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -4085,7 +4085,7 @@ La venta se hará siempre en almoneda pública.
 
 ###### Art. 859.
 
-La ocupación de las embarcaciones, de su carga y de los objetos que el mar arroje a las playas o que se recojan en alta mar, se rige por el Código de Comercio.
+(DEROGADO, P.O. 6 SEPTIEMBRE 2004)
 
 ### CAPITULO V.
 
@@ -15798,3 +15798,7 @@ SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del in
 TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
