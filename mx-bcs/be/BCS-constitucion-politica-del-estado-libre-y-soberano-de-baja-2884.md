@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1990-03-10"
+last_updated: "1991-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1991.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -731,9 +731,15 @@ XL.- Tomar las medidas necesarias en casos de desastres y situaciones económica
 
 XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado, sea uniforme en cuanto a formalidades y expedición de documentos, y en su caso, exigir y obtener del ayuntamiento respectivo, la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los servidores públicos.
 
-XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y
+XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y (sic)
 
-XLIII.- Las demás que señalen esta Constitución y sus leyes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)</small>
+
+XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 1991)</small>
+
+XLIV.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -1263,6 +1269,10 @@ XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y
 
 XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten los servicios de seguridad social a sus trabajadores.
 
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 1991)</small>
+
+XX.- Formular y promover la ejecución de la política municipal ecológica, cuidando que guarde congruencia con la Estatal y Federal, con la finalidad de preservar y restaurar el equilibrio ecológico en áreas o zonas de jurisdicción municipal.
+
 ### CAPITULO IX
 
 #### SECCION II. DEL PRESIDENTE MUNICIPAL
@@ -1383,7 +1393,7 @@ El procedimiento a que se refiere el presente Artículo solo podrá iniciarse du
 
 159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
 
-I.- Si la resolución del Congreso fuere negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
+I.- Si la resolución del Congreso fuese negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
 
 II.- Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes para que actúen conforme a la Ley, separándolo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función.
 
@@ -1766,3 +1776,9 @@ B.O. 10 DE MARZO DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE ABRIL DE 1991.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
