@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-fideicomiso-que-administrara-el-fondo-para-1841
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2004-01-28"
+last_updated: "2004-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-12-27"
 
 LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO PARA EL FORTALECIMIENTO DE SOCIEDADES Y COOPERATIVAS DE AHORRO Y PRESTAMO Y DE APOYO A SUS AHORRADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 29 de diciembre de 2000.
 
@@ -217,9 +217,9 @@ El mencionado convenio contemplará, entre otras cuestiones, las sanciones a que
 
 IV. Acreditar que durante los 12 meses anteriores a la solicitud de apoyo, las tasas de interés pactadas para los depósitos de dinero e inversiones de sus Ahorradores, fueron inferiores al 120% de la tasa de rendimiento, en colocación primaria de los Certificados de la Tesorería de la Federación denominados en moneda nacional, a plazo de 28 días, o en su defecto, la que resulte equivalente al citado plazo, de acuerdo con el Banco de México;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JUNIO DE 2004)</small>
 
-V. Tratándose de sociedades cuyos Ahorradores sean sujetos de apoyo conforme a lo establecido en el artículo 1o., fracción II, de esta Ley, éstas deberán acreditar haber iniciado los trámites para efectuar los Trabajos de Auditoría Contable con el propósito de determinar su insolvencia a más tardar el 1o. de junio del 2004 en el caso de las sociedades señaladas en el artículo 7 fracción I; en el caso de las sociedades señaladas en la fracción II del citado artículo, éstas deberán acreditar haber iniciado los Trabajos de Consolidación antes del 31 de marzo del 2004.
+V. Tratándose de sociedades cuyos Ahorradores sean sujetos de apoyo conforme a lo establecido en el artículo 1o., fracción II, de esta Ley, éstas deberán acreditar haber iniciado los trámites para efectuar los Trabajos de Auditoría Contable con el propósito de determinar su insolvencia a más tardar el 1o. de septiembre del 2004 en el caso de las sociedades señaladas en el artículo 7, fracción I; en el caso de las sociedades señaladas en la fracción II del citado artículo, éstas deberán acreditar haber iniciado los Trabajos de Consolidación antes del 30 de junio del 2004.
 
 Asimismo, las sociedades de que trata esta fracción, deberán acreditar que previamente a su disolución y liquidación, quiebra o concurso, según sea el caso, no experimentaron una reducción drástica en sus disponibilidades e inversiones en valores por causas distintas a la operación habitual de la misma, en los seis meses anteriores a la fecha en que se determine su insolvencia. Para tales efectos, se entiende que existe una reducción drástica, cuando se presenta una disminución en el saldo conjunto de disponibilidades e inversiones en valores igual o mayor al 40% del saldo promedio de dichos conceptos, observado en los dos últimos años.
 
@@ -437,11 +437,17 @@ OCTAVO.- Con el objeto de facilitar la recuperación de los depósitos de Ahorra
 
 a) Las sociedades deberán haber realizado operaciones de captación de recursos con terceros, para su posterior colocación, habiendo dejado de hacerlo con antelación al 30 de noviembre de 2000;
 
-b) Las sociedades en cuestión deberán haberse sometido a los Trabajos de Auditoría Contable a que se refiere esta Ley antes del 1o. de junio del 2003, y como consecuencia de dichos trabajos comprobar su insolvencia; dicha insolvencia también podrá acreditarse, en virtud de encontrarse sujetas a un procedimiento de quiebra o a un proceso de concurso mercantil, iniciado con anterioridad al 30 de diciembre de 2000;
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2004)</small>
 
-c) Los Ahorradores de dichas sociedades deberán haber sido reconocidos como acreedores de las mismas en el procedimiento de quiebra o concurso mercantil respectivo o, en su caso, encontrarse identificados de conformidad con los Trabajos de Auditoría Contable, en los que se podrá tomar en consideración las pruebas ofrecidas y admitidas dentro de los procedimientos derivados de las denuncias penales a que hace referencia el siguiente inciso;
+b) Las sociedades en cuestión deberán haberse sometido a los Trabajos de Auditoría Contable a que se refiere esta Ley antes del 28 de enero de 2004, y como consecuencia de dichos trabajos comprobar su insolvencia; dicha insolvencia también podrá acreditarse, en virtud de encontrarse sujetas a un procedimiento de quiebra o a un proceso de concurso mercantil, iniciado con anterioridad al 28 de enero de 2004;
 
-d) Los Ahorradores deberán haber presentado las denuncias penales correspondientes en contra de los administradores y/o de quien tenga a su cargo la dirección de las ya mencionadas sociedades, y
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2004)</small>
+
+c) Los Ahorradores de dichas sociedades deberán haber sido reconocidos como acreedores de las mismas en el procedimiento de quiebra o concurso mercantil respectivo o, en su caso, encontrarse identificados de conformidad con los Trabajos de Auditoría Contable, en los que se tomarán en consideración las pruebas ofrecidas y admitidas dentro de los procedimientos derivados de las denuncias penales a que hace referencia el siguiente inciso. Dichas pruebas se considerarán documentos idóneos para ser sujetos al beneficio de la presente ley, de conformidad con los requisitos que la misma establece;
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2004)</small>
+
+d) Los Ahorradores deberán haber presentado las denuncias penales correspondientes en contra de los administradores y/o de quien tenga a su cargo funciones de dirección, administración y vigilancia al interior de las ya mencionadas sociedades, y
 
 e) Como consecuencia de la actividad descrita en el inciso a), la sociedad deberá tener una declaración de procedencia de delito por parte de la Procuraduría Fiscal de la Federación, por haber operado en contravención a lo dispuesto por el artículo 103 de la Ley de Instituciones de Crédito.
 
@@ -457,16 +463,22 @@ En ese tenor, con el objeto de que se continúe con la labor del Fideicomiso Caj
 
 Al respecto, la aportación al Fideicomiso Cajas de Ahorro de recursos señalados en el párrafo anterior por parte del Fideicomiso se realizará sin responsabilidad u obligaciones adicionales para éste y sin necesidad de que su Comité Técnico deba valorar o determinar ex ante (sic) sobre su procedencia.
 
-Para garantizar la continuidad de la operación del Fideicomiso Cajas de Ahorro:
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2004)</small>
 
-I. El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá, conforme a sus disponibilidades, los recursos para que se continúe con los fines de Fideicomiso Cajas de Ahorro:
+Adicionalmente, para garantizar la continuidad, sólo por lo que se refiere a los gastos de operación del Fideicomiso Cajas de Ahorro y para la recuperación de los bienes a que se refiere este Transitorio, el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y de acuerdo a sus disponibilidades, preverá en el presupuesto correspondiente los recursos cuando no sean suficientes los señalados en el segundo párrafo de este Transitorio.
 
-a) En el caso de que los fines del Fideicomiso Cajas de Ahorro no se hubieren alcanzado en su totalidad con los recursos antes señalados,
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE JUNIO DE 2004)</small>
 
-b) En el supuesto de que, después de los diversos procesos judiciales y administrativos que se han instaurado y que se instauren con motivo de ilícitos cometidos en perjuicio de los ahorradores de las 25 cooperativas Cajas Populares de Ahorro a que se refiere el Contrato del Fideicomiso Cajas de Ahorro, los bienes asegurados o decomisados puedan integrarse al patrimonio del Fideicomiso Cajas de Ahorro.
+Los bienes decomisados y abandonados, y/o el producto de éstos, relacionados con los procesos judiciales y administrativos que se han instaurado y que se instauren con motivo de ilícitos cometidos en perjuicio de los ahorradores de las 25 cooperativas Cajas Populares de Ahorro a que se refiere el Contrato de Fideicomiso Cajas de Ahorro, se destinarán al propio Fideicomiso Cajas de Ahorro para el cumplimiento de su objeto.
 
-II. El producto de los bienes asegurados, decomisados o abandonados relacionados con los procesos judiciales y administrativos que se han instaurado y que se instauren con motivo de ilícitos cometidos en perjuicio de los ahorradores de las 25 cooperativas Cajas Populares de Ahorro a que se refiere el Contrato del Fideicomiso Cajas de Ahorro se destinará al propio Fideicomiso Cajas de Ahorro, y, en caso de existir excedentes, a resarcir el monto aportado por el Fideicomiso.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 29 DE JUNIO DE 2004)</small>
+
+En caso de que cumplidos los fines del Fideicomiso Cajas de Ahorro existan excedentes de las cantidades aportadas por el Fideicomiso, por la Secretaría de Hacienda y Crédito Público, o de las relativas a los bienes decomisados o abandonados y/o a su producto, se aplicarán en primera instancia a resarcir los montos aportados por el Fideicomiso así como sus productos financieros. En segunda instancia se destinarán a resarcir las aportaciones para el pago a ahorradores hechas por la Federación, a través del Fideicomiso, y por las Entidades Federativas, en las proporciones aportadas.
 
 El Fideicomiso y el Servicio de Administración y Enajenación de Bienes otorgarán al Fideicomiso Cajas de Ahorro apoyo y asesoría gratuita, con los medios y recursos a su alcance, a efecto de que este último esté en posibilidad de cumplir con su objeto.
 
 TERCERO.- El período durante el cual operará el Fideicomiso y que está referido en el Artículo Tercero Transitorio del Decreto por el que se expidió la presente Ley, se prorrogará hasta el año 2006 o cuando se extinga su patrimonio en términos de la misma, lo que ocurra primero.
+
+D.O.F. 29 DE JUNIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
