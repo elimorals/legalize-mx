@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2002-06-07"
+last_updated: "2003-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DEL 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -6451,7 +6451,7 @@ Substitución recíproca
 
 ###### Artículo 6.
 
-104.- Si los herederos o legatarios instituidos en partes desiguales fueren sustitución recíprocamente, en la sustitución tendrán las mismas partes que debían recibir los sustituidos; a no ser que aparezca haber sido otra la voluntad del testador.
+104.- Si los herederos o legatarios instituidos en partes desiguales fueren substituidos recíprocamente, en la sustitución tendrán las mismas partes que debían recibir los sustituidos; a no ser que aparezca haber sido otra la voluntad del testador.
 
 Nulidad de la substitución
 
@@ -12451,11 +12451,15 @@ I. Dos años respecto de bienes muebles;
 
 II. Tres años en tratándose de inmuebles urbanos destinados a casa habitación;
 
-III. Cinco años respecto de inmuebles destinados a comercio, oficina, consultorio o similares;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2003)</small>
+
+III. Cinco años respecto de inmuebles destinados a locales comerciales o de servicios;
 
 IV. Cinco años si el bien inmueble rústico es destinado a fines agrícolas o ganaderos;
 
-V. Veinte años en tratándose de inmuebles destinados a la industria.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2003)</small>
+
+V. Veinte años tratándose de inmuebles destinados a la industria, tiendas departamentales, centros comerciales, bodegas de venta y en general los que se destinen al comercio en gran escala.
 
 Omisión de señalar plazo en el arrendamiento
 
@@ -12465,9 +12469,13 @@ Omisión de señalar plazo en el arrendamiento
 
 I. Un año para casa habitación;
 
-II. Dos años para comercio;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2003)</small>
 
-III. Tres años para la industria;
+II. Dos años para locales comerciales o de servicios;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2003)</small>
+
+III. Cinco años para industria, tiendas departamentales, centros comerciales, bodegas de venta y en general los que se destinen al comercio en gran escala;
 
 IV. Un año para finca rústica.
 
@@ -15711,6 +15719,14 @@ Cesión del crédito garantizado con hipoteca
 
 1132.- El crédito garantizado con hipoteca, puede cederse en todo o en parte, siempre que la cesión se haga en escritura pública, se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2003)</small>
+
+Las instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social podrán ceder sus créditos con garantía hipotecaria, sin modificar las condiciones contractuales originales y sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente mantenga la administración de los créditos.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2003)</small>
+
+En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor e inscribirla en el Registro Público de la Propiedad.
+
 Duración de la hipoteca
 
 ###### Artículo 7.
@@ -16590,3 +16606,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.G. 17 DE JULIO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
