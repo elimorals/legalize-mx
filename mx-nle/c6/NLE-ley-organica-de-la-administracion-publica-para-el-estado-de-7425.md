@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1994-06-15"
+last_updated: "1995-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1995.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -155,6 +155,16 @@ Coordinación de comunicación social; y
 
 Coordinación de Administración.
 
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
+
+X.- Oficialía Mayor de Gobierno.
+
+(REFORMADO, P.O. 20 ENERO DE 1995))
+
+Adscrita directamente al Ejecutivo existirá la siguiente unidad de apoyo y asesoría:
+
+Coordinación de comunicación social.
+
 ###### ARTICULO 17o.
 
 A la Secretaría General de Gobierno corresponde el despacho de los siguientes asuntos:
@@ -191,7 +201,7 @@ XV.- Llevar el calendario oficial y el registro de autógrafos de los servidores
 
 XVI.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio;
 
-XVII.- Participar en programas relativos a la regularización de la tenencia de la tierra;
+XVII.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
 
 XVIII.- Mantener la relación institucional con la Comisión Agraria Mixta y atender los asuntos relacionados con las copropiedades rurales, en los términos de la Ley Reglamentaria;
 
@@ -219,9 +229,21 @@ XXVIII.- Coordinar los eventos y actos cívicos del Gobierno del Estado, llevand
 
 XXIX.- Organizar y controlar la Oficialía de Partes;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 1995)</small>
 
-XXX.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXX.- Promover, realizar estudios y proyectos tendientes a fortalecer el desarrollo municipal y la participación comunitaria, así como mejorar la capacidad de gestión de las administraciones municipales; participar en los comités, consejos y demás órganos de coordinación de la Administración Publica, vinculados con la promoción del desarrollo municipales;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
+
+XXXI.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los municipios, para fortalecer el desarrollo económico y social de estos;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
+
+XXXII.- Fomentar y apoyar la realización de programas de colaboración intermunicipal, para emprender proyectos prioritarios que incidan en la solución de problemas comunes a mas de un municipio; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
+
+XXXIII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 18o.
 
@@ -451,7 +473,9 @@ VII.- Proponer al Ejecutivo la supresión de institución de asistencia social q
 
 VIII.- Llevar a cabo en materia de asistencia social, las funciones normativas que establezcan las Leyes;
 
-IX.- Formular, en conjunto con la Coordinación de Administración, los catálogos del patrimonio histórico estatal, de sus monumentos y del acervo pictórico del Estado;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 1995)</small>
+
+IX.- Formular, en conjunto con la Oficialía Mayor de Gobierno, los catálogos del patrimonio histórico estatal, de sus monumentos y del acervo pictórico del Estado;
 
 X.- Organizar y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos del patrimonio cultural del Estado;
 
@@ -467,13 +491,13 @@ XV.- Promover y gestionar ante los tribunales competentes, el despacho de los as
 
 XVI.- Impulsar y coordinar los programas de concertacion social en proyectos de beneficio para la comunidad;
 
-XVII.- Dirigir, coordinar y controlar la ejecución de los programas de vivienda, utilizando la mejor tecnología disponible;
+XVII.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
 
-XVIII.- Construir y administrar las reservas territoriales publicas, estratégicas para la vivienda popular y los equipamiento sociales;
+XVIII.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
 
-XIX.- Brindar la asesoría técnica que soliciten los municipios, para la formulacion de los planes que les competa elaborar sobre vivienda;
+XIX.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
 
-XX.- Celebrar convenios de coordinación y asistencia técnica con las entidades y organismos que apoyen planes de vivienda; y
+XX.- (DEROGADA POR ARTICULO CUARTO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA, P.O. 20 DE ENERO DE 1995)
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE1994)</small>
 
@@ -569,11 +593,11 @@ V.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado, y
 
 VI.- Las demás que señalen las Leyes y Reglamentos.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 25o.
 
-A la Coordinación de Administración le corresponde el despacho de los siguientes asuntos:
+A la Oficialía Mayor de Gobierno le corresponde el despacho de los siguientes asuntos:
 
 I.- Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación a las funciones de recursos humanos, recursos materiales y servicios, así como coordinar la organización y vigilar el funcionamiento de las dependencias que ejerzan dichas atribuciones;
 
@@ -627,27 +651,7 @@ XXIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones v
 
 ###### ARTICULO 26o.
 
-A la coordinación para el Desarrollo Municipal le corresponde el despacho de los siguientes asuntos:
-
-I.- Promover y realizar estudios y proyectos tendientes a fortalecer el desarrollo municipal y la participación comunitaria, así como mejorar la capacidad de gestión de las administraciones municipales;
-
-II.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los municipios para fortalecer el desarrollo económico y social de éstos;
-
-III.- A solicitud de las autoridades municipales, coordinar las gestiones que realicen entre sí dichas autoridades, ante los gobiernos estatal y federal, así como ante los organismos públicos, con pleno respeto a la autonomía municipal;
-
-IV.- Fomentar y apoyar la realización de programas de colaboración inter-municipal para emprender proyectos prioritarios que incidan en la solución de problemas comunes a más de un municipio;
-
-V.- Promover, en coordinación con los municipios, el desarrollo de programas de capacitación técnica y administrativa para el personal del servicio público municipal;
-
-VI.- Participar en los comités, consejos y demás órganos vinculados con la promoción del desarrollo municipal;
-
-VII.- Difundir los resultados de las investigaciones, estudios e información relevante para el desarrollo municipal;
-
-VIII.- Formular, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado, estudios sobre los apoyos presupuestales y de descentralización de fondos a los municipios del Estado de acuerdo a sus planes de desarrollo;
-
-IX.- Previa solicitud de los municipios, asesorarlos en lo referente al funcionamiento contable, administrativo y técnico, así como en la instrumentación de sus propios sistemas de control y evaluación;
-
-X.- Las demás que le asigne el Ejecutivo.
+(DEROGADO, P.O. 20 DE ENERO DE 1995)
 
 ###### ARTICULO 27o.
 
@@ -808,3 +812,33 @@ P.O. 3 DE JULIO DE 1992.
 P.O. 15 DE JUNIO DE 1994.
 
 UNICO:- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ENERO DE 1995
+
+LEY DEL INSTITUTO DE LA VIVIENDA EN NUEVO LEON
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+Artículo Primero: El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto: Se derogan la fracción XVII del Artículo 17 y las fracciones XVII, XVIII, XIX Y XX del Artículo 23 de la Ley Orgánica de la Administración Pública Estatal y las demás disposiciones que se opongan a la presente Ley.
+
+P.O. 20 DE ENERO DE 1995.
+
+DECRETO No. 33
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las atribuciones y demás facultades que otras leyes, reglamentos y disposiciones generales otorguen a la Coordinación para el Desarrollo Municipal, se entienden conferidas a la Secretaria General de Gobierno.
+
+###### ARTICULO TERCERO.
+
+Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de la Coordinación para el Desarrollo Municipal, se transfieren por virtud de este Decreto a la Secretaria General de Gobierno, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
+
+###### ARTICULO CUARTO.
+
+Las atribuciones y demás facultades que otras leyes, reglamentos y disposiciones generales otorguen a la Coordinación de Administración, se entenderán conferidas a la Oficialía Mayor de Gobierno.
