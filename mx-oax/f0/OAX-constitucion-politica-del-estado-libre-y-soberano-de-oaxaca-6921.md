@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2000-02-24"
+last_updated: "2000-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2000.
+
+> <small>N. DE E. LAS REFORMAS APROBADAS POR LA QUINCUAGESIMA SEPTIMA LEGISLATURA EN EL DECRETO NO. 230, MODIFICAN DE MANERA SUSTANCIAL EL TEXTO DE LA PRESENTE CONSTITUCION, DANDO COMO RESULTADO UN TEXTO DIFERENTE, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR, SE CONSERVA EL TEXTO PUBLICADO POR BANDO SOLEMNE EL 4 DE ABRIL DE 1922, CON SUS REFORMAS AL 22 DE FEBRERO DE 2000.</small>
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -111,11 +113,15 @@ Todo proceso se seguirá forzosamente por el delito o delitos señalados en el a
 
 Si la detención es resultado de infracciones a los Reglamentos gubernativos y de policía, serán calificadas de inmediato, y, en su caso, sancionadas con multas no mayor a la retribución que el infractor perciba en un día de trabajo, la cual se permutará por arresto hasta de treinta y seis horas, si no fuere pagada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 8°.
 
-En todo proceso del orden penal, tendrá el inculpado las siguientes garantías:
+En todo proceso del orden penal, el inculpado, la víctima o el ofendido, tendrán las siguientes garantías:
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+A. Del inculpado:
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -157,9 +163,27 @@ Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como m
 
 Las garantías previstas en las fracciones V, VII y IX también serán observadas durante la averiguación previa en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en las fracciones I y II no estarán sujetas a condición alguna.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE FEBRERO DE 1994)</small>
+> <small>(DEROGADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera, y los demás que señalen las leyes.
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+B. De la víctima o del ofendido:
+
+I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, y a que se desahoguen las diligencias correspondientes.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+
+III. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+
+IV. Que se le repare el daño. En los casos que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
+
+V. Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos, se llevarán a cabo declaraciones en las condiciones que establezca la ley; y
+
+VI. Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
 
 ###### ARTICULO 9°.
 
@@ -623,7 +647,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 ###### ARTICULO 29.
 
@@ -643,7 +667,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -913,7 +937,7 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 #### SECCION CUARTA. De las Facultades de la Legislatura
 
-> <small>(REFORMADO, 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 59.
 
@@ -931,133 +955,249 @@ IV. Iniciar leyes y decretos ante el Congreso de la Unión;
 
 V. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-VI. (DEROGADA, P.O. 13 DE MAYO DE 1995)
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-VII. Calificar las elecciones de los ayuntamientos;
+VI. Calificar las elecciones de los Ayuntamientos;
 
-VIII. Erigir nuevos Municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de quince mil habitantes. En este caso, la Legislatura oirá la opinión de los Ayuntamientos interesados;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-IX. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus presupuestos de egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos, o cuando los núcleos de población que los integran no lleguen a los 15 quince mil habitantes;
+VII. Erigir nuevos Municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de quince mil habitantes. En este caso la Legislatura oirá la opinión de los Ayuntamientos interesados;
 
-X. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la Ley Reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, la Legislatura designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos.
+VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presupuestos de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivos Ayuntamientos o cuando los núcleos de población que los integran no lleguen a los 15 mil habitantes;
 
-Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá, según lo disponga la Ley;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XI. Decretar la Ley Orgánica Municipal;
+IX. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la ley reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir pruebas y hacer los alegatos que a su juicio convengan.
 
-XII. Resolver los conflictos que surjan entre los ayuntamientos, entre sí y entre éstos y los poderes del Estado;
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, la Legislatura designará entre los vecinos a los Concejos Municipales que concluirán los periodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir con los requisitos de elegibilidad establecidos para los regidores.
 
-XIII. Designar, a propuesta del Gobernador, los integrantes de los Consejos Municipales;
+Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá, según lo disponga la ley;
 
-XIV. Señalar por una ley general los ingresos que deben constituir la Hacienda Municipal, sin perjuicio de decretar los impuestos especiales que cada Ayuntamiento proponga, de acuerdo con las necesidades locales de sus respectivos Municipios;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XV. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas;
+X. Emitir la Ley Municipal y las bases generales para su reglamentación;
 
-XVI. Examinar y calificar cada año las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XVII. Examinar y calificar cada año las cuentas de inversión de las rentas de los Municipios del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+XI. Aprobar los convenios que celebren los municipios al resolver conciliatoriamente sus conflictos de límites;
 
-XVIII. (DEROGADA, P.O. 15 DE ENERO DE 1983)
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XIX. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
+XII. Resolver en la vía conciliatoria, los conflictos que surjan entre los Municipios entre sí y entre estos y los Poderes Ejecutivo y Judicial del Estado;
 
-XX. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empréstitos interiores, y aprobar esos empréstitos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
+XIII. Designar, a propuesta del Gobernador, a los integrantes de los Consejos Municipales;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXII. Emitir el Decreto correspondiente para que el Instituto Estatal Electoral convoque a elección de Gobernador, Diputados y Concejales Municipales en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos;
+XIV. Señalar por una ley general los ingresos que deben constituir la Hacienda Municipal, sin perjuicio de decretar las cuotas y tarifas de impuestos, derechos y contribuciones de mejoras que cada Ayuntamiento proponga de acuerdo con las necesidades locales de sus respectivos Municipios;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXIII. Conocer y declarar la elección de Diputados, Gobernador y Concejales de los Ayuntamientos y emitir el Decreto correspondiente;
+XV. Determinar mediante leyes los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXIV. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine esta Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia;
+XVI. Establecer las normas de aplicación general para celebrar los convenios a que se refiere la fracción III del Artículo 113 de esta Constitución;
 
-XXV. Recibir la protesta de los Diputados, Gobernador y de los demás Servidores Públicos que ella elija o nombre;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXVI. Conceder licencias a sus propios miembros, al Gobernador y a los demás Servidores Públicos que ella elija o nombre;
+XVII. Disponer, a través de las leyes correspondientes, el procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal, cuando al no existir el convenio correspondiente, la Legislatura del Estado considere que el Municipio de que se trate, esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
 
-XXVII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los demás Servidores Públicos que ella elija o nombre;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXVIII. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
+XVIII. Determinar mediante leyes las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes o usos y costumbres;
 
-XXIX. Ratificar los nombramientos de Secretario General de Gobierno y Subsecretario que el Ejecutivo hiciere;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXX. Llamar a los diputados suplentes conforme a las prevenciones relativas de esta Constitución;
+XIX. Emitir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el Gobierno del Estado o entre aquellos, con motivo de los actos derivados de las fracciones XVI y XVII de este Artículo;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXXI. Nombrar y remover al Contador Mayor de Hacienda, cuyo nombramiento hará saber por medio de un decreto;
+XX. Instituir Tribunales de lo Contencioso Administrativo dotados de autonomía para dictar sus fallos, que tengan a su cargo resolver las controversias que se susciten entre la Administración Pública Estatal o Municipal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre estos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales, estableciendo las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-XXXII. Cambiar la sede de los Poderes del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXIII. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
+XXI. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas;
 
-XXXIV. (DEROGADA, P.O. 11 DE FEBRERO DE 1933)
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXXV. Legislar en los ramos de Educación y Salubridad Públicas;
+XXII. Examinar, fiscalizar y calificar cada año, las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
 
-XXXVI. Expedir leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXXVII. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de protección, perduración, aprovechamiento y restauración del patrimonio natural de la entidad;
+XXIII. Revisar, fiscalizar y calificar cada año, las cuentas de inversión de las rentas de los Municipios del Estado y exigir, en su caso las responsabilidades consiguientes;
 
-XXXVIII. Autorizar la formación de asociaciones o sociedades cooperativas de productores para que vendan directamente en los mercados extranjeros los productos naturales o industriales de determinada región del Estado, siempre que no se trate de artículos de primera necesidad; y para derogar dichas autorizaciones cuando las necesidades públicas así lo exijan;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXXIX. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
+XXIV. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XL. Expedir leyes que regulen las relaciones de trabajo entre el Estado y sus trabajadores, así como las de los Ayuntamientos del mismo Estado con sus respectivos trabajadores, con base en lo dispuesto en los artículos 115, 116 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
+XXV. Dar bases generales conforme a las cuales el Ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
 
-XLI. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XLII. (DEROGADA, P.O. 9 DE JULIO DE 1994)
+XXVI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-XLIII. Erigirse en Gran Jurado, para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional, por delitos del orden común, y si son o no culpables los propios servidores públicos de los delitos de responsabilidad oficial de que fueren acusados;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XLIV. Ejercer las facultades que le otorga la Constitución de la República en relación a la Guardia Nacional;
+XXVII. Emitir el Decreto correspondiente para que el Instituto Estatal Electoral convoque a elecciones de Gobernador, Diputados y Ayuntamientos en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos.
 
-XLV. Establecer tropas permanentes dentro del territorio del Estado; imponer derechos de tonelaje o de importación y exportación marítima, previo el consentimiento del Congreso de la Unión;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XLVI. Excitar a los Poderes de la Unión a que presten su protección al Estado en los casos señalados en el artículo 122 de la Constitución Federal, aun en el caso de que los perturbadores del orden interior del Estado declaren que su acción no va en contra del Gobierno Federal;
+XXVIII. Conocer y declarar las elecciones a Diputados, Gobernador y concejales de los Ayuntamientos y emitir el Decreto correspondiente;
 
-XLVII. (DEROGADA, P.O. 8 DE AGOSTO DE 1998)
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XLVIII. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
+XXIX. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine esta Constitución. Conocer de la ratificación de los nombramientos de magistrados del Tribunal Superior de Justicia;
 
-XLIX. Solicitar la comparecencia de servidores públicos para que informen cuando se discuta o estudie un negocio relativo a su dependencia;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-L. Expedir todas las leyes orgánicas que se deriven de los artículos 27 y 123 de la Constitución Federal;
+XXX. Recibir la protesta de los Diputados, Gobernador y de los demás servidores públicos que ella elija o nombre;
 
-LI. Legislar sobre todos los servicios públicos, oficiales y particulares dentro del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-LII. Determinar las características y el uso del escudo estatal;
+XXXI. Conceder licencias a sus propios miembros, al Gobernador y a los demás servidores públicos que ella elija o nombre;
 
-LIII. Legislar sobre todo aquello que la Constitución General y la Particular del Estado, no someten expresamente a las facultades de cualquier otro poder;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-LIV. Elegir la Diputación Permanente;
+XXXII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y a los demás servidores públicos que ella elija o nombre;
 
-LV. Expedir su Ley Orgánica y el Reglamento Interior;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-LVI. Para dictar la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento;
+XXXIII. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
 
-LVII. Autorizar al Gobernador para celebrar convenios con la Federación;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-LVIII. Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre bienes muebles o inmuebles pertenecientes al Estado cuando su valor sea superior a 6,300 salarios mínimos diarios, previo avalúo de la Secretaría de Finanzas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+XXXIV. Ratificar los nombramientos del Secretario General de Gobierno y Subsecretario que el Ejecutivo hiciere;
 
-LIX. Legislar sobre seguridad social y medio ambiente, procurando la superación del nivel de vida de la población y el mejoramiento de su salud;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-LX. Decretar amnistías cuando se trate de delitos de la competencia de los tribunales del Estado;
+XXXV. Llamar a los Diputados suplentes conforme a las prevenciones relativas de esta Constitución;
 
-LXI. Autorizar el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-LXII. Las demás que le confiere esta Constitución.
+XXXVI. Nombrar y remover al Contador Mayor de Hacienda, cuyo nombramiento hará saber por medio de un decreto;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XXXVII. Cambiar la sede de los Poderes del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XXXVIII. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XXXIX. Legislar en los ramos de educación y salubridad públicas;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XL. Expedir leyes sobre vías de comunicación, aprovechamiento de las aguas y bosques que no sean de jurisdicción federal;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLI. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y de los Municipios en el ámbito de sus respectivas competencias, en materia de protección, perduración, aprovechamiento y restauración del patrimonio natural de la entidad;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLII. Autorizar la formación de asociaciones o sociedades cooperativas de productores para que vendan directamente en los mercados extranjeros los productos naturales o industriales de determinada región del Estado siempre que no se trate de artículos de primera necesidad; y para derogar dichas autorizaciones cuando las necesidades públicas así lo exijan;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLIII. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLIV. Expedir las leyes que regulen las relaciones de trabajo entre el Estado y sus trabajadores, así como las de los Ayuntamientos del mismo Estado con sus respectivos trabajadores, con base en lo dispuesto en los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLV. Conceder premios y recompensas por servicios eminentes prestados a la humanidad, a la Patria o al Estado;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLVI. Erigirse en Gran Jurado para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional por delitos del orden común y si son o no culpables los propios servidores públicos de los delitos oficiales de que fueren acusados;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLVII. Ejercer las facultades que le otorga la Constitución de la República en relación a la Guardia Nacional;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLVIII. Establecer tropas permanentes dentro del territorio del Estado; imponer derechos de tonelaje o de importación y exportación marítima, previo consentimiento del Congreso de la Unión;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XLIX. Excitar a los Poderes de la Unión a que presten protección al Estado en los casos señalados en el Artículo 119 de la Constitución Federal, aún en el caso de que los perturbadores del orden interior del Estado declaren que su acción no va en contra del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+L. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LI. Solicitar la comparecencia de servidores públicos para que informen cuando se discuta o estudie un asunto relativo a su dependencia;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LII. Expedir todas las leyes orgánicas que se deriven de los artículos 27 y 123 de la Constitución Federal;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LIII. Legislar sobre todos los servicios públicos, oficiales y particulares dentro del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LIV. Determinar las características y el uso del escudo estatal;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LV. Legislar sobre todo aquello que la Constitución General y la particular del Estado, no someten expresamente a las facultades de cualquier otro poder;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LVI. Elegir la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LVII. Expedir su Ley Orgánica y el reglamento interior;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LVIII. Dictar la Ley Orgánica de la Contaduría Mayor de Hacienda y su reglamento;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LIX. Autorizar al Gobernador para celebrar convenio con la Federación;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LX. Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier otro acto de dominio sobre bienes muebles o inmuebles pertenecientes al Estado cuando su valor sea superior a 6,300 salarios mínimos diarios, previo avalúo de la Secretaría de Finanzas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LXI. Legislar sobre seguridad social y medio ambiente, procurando la superación del nivel de vida de la población y el mejoramiento de la salud;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LXII. Legislar en materia de seguridad pública, en los términos del Artículo 21 de la Constitución General de la República, así como en materia de protección civil;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LXIII. Decretar amnistías cuando se trate de delitos de la competencia de los tribunales del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LXIV. Autorizar el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+LXV. Todas las demás que le confiera esta Constitución y las leyes reglamentarias.
 
 ###### ARTICULO 60.
 
@@ -1273,7 +1413,7 @@ IV. Enviar cada vez que crea conveniente al Secretario General de Gobierno, o al
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1998)</small>
 
-V.- Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios y servidores públicos del Gobierno del Estado cuyas designaciones o destituciones no estén determinadas de otro modo por esta constitución y las leyes que de ella deriven;
+V. Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios y servidores públicos del Gobierno del Estado cuyas designaciones o destituciones no estén determinadas de otro modo por esta constitución y las leyes que de ella deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -1283,9 +1423,9 @@ VII. Fijar en cada caso la extensión de terreno que pueden poseer y adquirir la
 
 VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-IX.- Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la fracción XLVI del artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
+IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la Fracción XLIX del Artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
@@ -1365,7 +1505,9 @@ IV. Presentar a la Legislatura dentro de los primeros cinco días del mes de dic
 
 V.- Presentar a la Legislatura en los primeros diez días del mes de marzo de cada año, la Cuenta de Inversión de las rentas generales del Estado, correspondiente al año inmediato anterior;
 
-VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten impuestos especiales a sus respectivos Municipios;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+VI.- Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten las tasas, cuotas y tarifas de los impuestos, derechos y contribuciones de mejoras a sus respectivos Municipios;
 
 VII. Presentar a la Legislatura, al terminar su período constitucional, una memoria sobre el estado que guarden los asuntos públicos, expresando cuáles sean las deficiencias que note en la administración y cuáles las medidas que en su concepto deben aplicarse para subsanarlas;
 
@@ -1399,7 +1541,9 @@ XVIII. Intervenir, de acuerdo con la ley, en la dirección técnica de todos los
 
 XIX. Intervenir, de acuerdo con la ley, en la dirección administrativa de los establecimientos de enseñanza cuyos gastos deben hacerse total o parcialmente con fondos del Estado;
 
-XX. Mandar personalmente la fuerza pública en los municipios en que resida habitual o transitoriamente; y disponer de la policía rural y fiscal del Estado para la debida observancia de las leyes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+XX. Transmitir ordenes a la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público, de conformidad con lo dispuesto por la Fracción VII del artículo 113 de esta Constitución;
 
 XXI. Nombrar instructores de la Guardia Nacional del Estado;
 
@@ -1449,7 +1593,9 @@ El Gobernador no puede:
 
 I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
-II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las facultades de Colegio Electoral o de Gran Jurado, ni los que expidiere a virtud de las facultades que le conceden las fracciones X, XI, XIII y XVI del artículo 59 y el artículo 62.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+II. Dejar de observar las leyes o decretos que la Legislatura expidiere ejerciendo las facultades de Colegio Electoral o de Gran Jurado, ni los que expidiere a virtud de las facultades que le conceden las fracciones IX, X, XII y XXII del Artículo 59 y el Artículo 62.
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
@@ -1475,9 +1621,9 @@ X. Disponer en ningún caso y por ningún motivo de los bienes que son propios d
 
 XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos que la Constitución Federal lo autorice, poniéndola inmediatamente sin excusa alguna a disposición de la autoridad competente.
 
-#### SECCION CUARTA. De los Municipios
+#### SECCION CUARTA. Del Ministerio Público
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1992)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 133], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 82.
 
@@ -1559,9 +1705,13 @@ III.- Definirá los sistemas de organización, comunicación, coordinación, pla
 
 IV.- Establecerá el esquema operativo del sector paraestatal, el cual se integrará con organismos descentralizados, empresas de participación estatal, comisiones, comités, juntas y patronatos.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+ARTICULO 90 BIS. (DEROGADO, P.O. 8 DE DICIEMBRE DE 2000)
 
-ARTICULO 90 BIS. La Ley organizará una Junta de Conciliación Agraria con funciones exclusivamente conciliatorias que obrará como amigable componedora y en sus laudos, respetará estrictamente las disposiciones federales sobre la materia.
+(REUBICADO [N. DE E. ANTES ARTICULO 90 BIS], P.O. 8 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 91.
+
+La Ley organizará una Junta de Conciliación Agraria con funciones exclusivamente conciliatorias que obrará como amigable componedora y en sus laudos respetará estrictamente las disposiciones federales sobre la materia.
 
 Es propósito de la Junta de Conciliación Agraria, además, promover que las resoluciones que dicten las autoridades agrarias se apoyen y funden en los acuerdos conciliatorios entre las comunidades, para que estos tengan el valor jurídico de cosa juzgada.
 
@@ -1569,179 +1719,81 @@ La Junta de Conciliación Agraria deberá constituir sus agencias de acuerdo a c
 
 Sus miembros serán nombrados por el Gobernador.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
-
-###### ARTICULO 91.
-
-El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sector paraestatal, no podrán aceptar durante su ejercicio, comisión onerosa alguna de los particulares, de las corporaciones políticas o civiles como tampoco aquellas que pudiesen encomendarles las instituciones religiosas, aún cuando fueren de carácter gratuito o de distinción. El desacato a esta disposición traerá aparejada la separación inmediata del cargo y las responsabilidades que establezca la Ley de la materia.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACION], P.O. 10 DE FEBRERO DE 1992)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 91], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 92.
 
-El Estado de Oaxaca, para su régimen interior, se divide en municipios libres que serán agrupados en Distritos rentísticos y judiciales y que se erigirán o suprimirán conforme a las disposiciones contenidas en las fracciones VIII y IX del artículo 59 de esta Constitución.
+El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sector paraestatal, no podrán aceptar durante su ejercicio, comisión onerosa alguna de los particulares, de las corporaciones políticas o civiles, como tampoco aquellas que pudiesen encomendarles las instituciones religiosas, aún cuando fueren de carácter gratuito o de distinción. El desacato a esta disposición traerá aparejadas la separación inmediata del cargo y las responsabilidades que establezca la ley de la materia.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
-
-Para tener la categoría de Municipio se requerirá que la localidad respectiva cuente por lo menos con QUINCE MIL HABITANTES, y con los elementos suficientes para su sostenimiento, administración y desarrollo.
+(REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
+(REUBICADO [N. DE E. ANTES ARTICULO 120], P.O. 8 DE DICIEMBRE DE 2000)
+
 ###### ARTICULO 93.
 
-Los Municipios tienen la obligación de contribuir a los gastos generales del Distrito judicial a que pertenezcan, en la forma proporcional y equitativa que determine la ley.
+El Ministerio Público es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes. La persecución de los delitos incumbe al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. El Ministerio Público intervendrá además, en los asuntos judiciales que interesen a las personas a quienes la ley concede especial protección, en la forma y términos que la misma ley determina.
 
-La Recaudación de Rentas respectiva hará uso de la facultad económica coactiva para hacer cumplir esta obligación.
+(REUBICADO [N. DE E. ANTES ARTICULO 134], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 94.
 
-Los Municipios Libres constituyen entidades con personalidad jurídica, y por consiguiente son susceptibles de derechos y obligaciones.
+El Ministerio Público será desempeñado por un servidor público que se denominará Procurador General de Justicia y por los agentes que fije la ley.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
-
-Los Municipios estarán investidos, de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
-
-Los ayuntamientos poseerán facultades para expedir, de acuerdo con las bases normativas establecidas por la Legislatura Local, los Bancos (sic) de Policía y buen gobierno y los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
-
-Los Municipios, con el concurso del Gobierno del Estado, cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
-
-A).- Agua potable y alcantarillado,
-
-B).- Alumbrado público,
-
-C).- Limpia,
-
-D).- Mercados y Centrales de Abastos,
-
-E).- Panteones,
-
-F).- Rastro,
-
-G).- Calles, Parques y Jardines,
-
-H).- Seguridad pública y tránsito,
-
-I).- Los demás que la Legislatura Local determine según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
-
-Los Municipios del Estado de Oaxaca, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-Los conflictos de límites que se susciten entre los diversos municipios del Estado, podrán ser resueltos por convenios que celebren con aprobación del Congreso. Cuando dichos conflictos tengan carácter contencioso, serán resueltos por el Tribunal Superior de Justicia del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
-
-Los municipios del Estado y las comunidades indígenas del mismo, podrán asociarse libremente tomando en consideración su filiación étnica e histórica para formar asociaciones de pueblos y comunidades indígenas, que tengan por objeto:
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-a).- El estudio de los problemas locales.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-b).- La realización de programas de desarrollo común.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-c).- El establecimiento de cuerpos de asesoramiento técnico.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-d).- La capacitación de sus funcionarios y empleados.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-e).- La instrumentación de programas de urbanismo y,
-
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
-
-f).- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades y pueblos.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-En todos los programas de urbanización, planeación y regulación de las poblaciones, los Municipios señalarán las áreas naturales protegidas y las reservas territoriales necesarias.
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
-
-Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto, y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
-
-Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la federación, el Estado y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la Ley Federal de la Materia.
+(REUBICADO [N. DE E. ANTES ARTICULO 135], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 95.
 
-Los Poderes del Estado son los únicos superiores jerárquicos de los Cuerpos Municipales, sobre los que ejercen las facultades de organización y regulación de funcionamiento, sin coartar ni limitar las libertades que les conceden la Constitución General de la República y la particular del Estado.
+El Procurador General de Justicia será nombrado y removido por el Ejecutivo del Estado.
+
+Los agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo.
+
+Para cada Juzgado de Primera Instancia se nombrará un agente del Ministerio Público, pero en los distritos en que haya dos o más juzgados del mismo ramo e igual categoría, se podrá nombrar un agente para dos o más de ellos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 96.
 
-Los Municipios tienen personalidad jurídica propia; pero la política y administrativa de los mismos, fuera del territorio del Estado, corresponde al Ejecutivo, como representante de toda la Entidad.
+Para ser Procurador General de Justicia, se necesitan los mismos requisitos que para Magistrado. La ley determinará los que deben reunir los agentes del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 137], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 97.
 
-La Administración interior de los Municipios se hará por los Ayuntamientos: El Presidente Municipal dirigirá las deliberaciones y será el ejecutor de los Acuerdos.
+El Procurador General de Justicia ejerce tres clases de funciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 1998)</small>
+I.- Como representante de la sociedad para los asuntos penales y civiles en que ella está interesada.
+
+II.- Como representante jurídico del Estado para intervenir en todos los actos que celebre y en los juicios en que sea parte; y
+
+III.- Como consejero jurídico del Ejecutivo del Estado.
+
+La ley reglamentará el ejercicio de estas funciones y señalará las que correspondan a los agentes del Ministerio Público.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 138], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 98.
 
-Los ayuntamientos serán asambleas electas mediante sufragio universal, libre, secreto y directo de los ciudadanos de cada municipio. Se integrará de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
-
-I.- Un Presidente Municipal que representará al Ayuntamiento en el orden político y lo dirigirá en lo administrativo y será quien esté en primer lugar de la lista de Concejales registrada ante la Comisión Estatal Electoral.
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1989)</small>
-
-II.- Un Síndico si el Municipio tiene menos de 20 mil habitantes y dos si tiene más de ese número. El o los Síndicos Municipales tendrán la Representación Jurídica del Ayuntamiento.
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1989)</small>
-
-III.- En los Municipios que tengan de 100 mil a 300 mil habitantes, el Ayuntamiento se integrará con un número de once concejales elegidos por el principio de Mayoría Relativa y hasta cinco Regidores elegidos por el principio de Representación Proporcional. Si los Municipios se exceden de esa última cantidad, los Ayuntamientos se integrarán con un número de hasta quince concejales elegidos por el principio de Mayoría Relativa y hasta siete Regidores elegidos por el principio de Representación Proporcional.
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 1989)</small>
-
-IV.- En los Municipios que tengan de 50 mil a 100 mil habitantes, el Ayuntamiento se integrará con un número de nueve Concejales elegidos por el principio de Mayoría Relativa, y hasta cuatro regidores elegidos por el principio de Representación Proporcional.
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1989)</small>
-
-V.- En los Municipios que tengan de 15 mil a 50 mil habitantes, el Ayuntamiento se integrará con un número de siete Concejales elegidos por el principio de Mayoría Relativa, y hasta tres Regidores elegidos por el principio de Representación Proporcional.
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 1989)</small>
-
-VI.- En los Municipios que tengan menos de 15 mil habitantes, el Ayuntamiento se integrará con un número de cinco Concejales elegidos por el principio de Mayoría Relativa, y hasta dos Regidores elegidos por el Principio de Representación proporcional.
-
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 1989)</small>
-
-Los Concejales que integren los Ayuntamientos a que se refiere las fracciones anteriores tomarán posesión del día primero de Enero del año siguiente al de su elección y durarán en su encargo tres años, no pudiendo ser reelectos para el período inmediato.
-
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 1997)</small>
-
-Los Concejales electos por el sistema de usos y costumbres también tomarán posesión en la fecha que refiere el párrafo anterior y desempeñarán el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen, pero que no podrá exceder de tres años.
-
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
+Las funciones de Procurador General y las de Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 121], P.O. 8 DE DICIEMBRE DE 2000)
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
+(REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
+
 #### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 99.
 
-El Partido Político cuya planilla hubiere obtenido el mayor número de votos tendrá derecho a que se le acrediten como Concejales a todos los miembros de la misma.
+El Poder Judicial, se ejerce: por el Tribunal Superior de Justicia, por los Jueces de Primera Instancia y por los Jurados.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+(REUBICADA, P.O. 8 DE DICIEMBRE DE 2000)
 
 #### SECCION CUARTA. Del Ministerio Público
 
@@ -1749,139 +1801,115 @@ El Partido Político cuya planilla hubiere obtenido el mayor número de votos te
 
 ###### ARTICULO 100.
 
-La ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
+La Ley Orgánica del Poder Judicial del Estado, determinará el funcionamiento del mismo; garantizará también la independencia de los Magistrados y Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidores públicos.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 1989)</small>
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2001)</small>
 
-Los Regidores de Representación Proporcional, tendrán la misma calidad jurídica que los electos por el sistema de Mayoría Relativa.
+Todos los Magistrados serán nombrados por el Gobernador del Estado y ratificados dichos nombramientos dentro del plazo improrrogable de diez días por la Legislatura del Estado, si no resolviere dentro de dicho plazo, se tendrán por ratificados. En el caso de que no los ratifique, el Gobernador hará nuevo nombramiento y si también se negare la ratificación, hará un tercer nombramiento que surtirá sus efectos inmediatamente a reserva de obtener la ratificación en el siguiente período ordinario de sesiones.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 122], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 101.
 
-Para ser Concejal del Ayuntamiento se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
-I.- Ser ciudadano del Estado, en ejercicio de sus derechos y haber cumplido 18 años de edad;
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Ser vecino del Municipio donde se hace la elección o tener una residencia mínima de un año anterior al día de la elección;
+II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
 
-III.- Tener un modo honesto de vivir;
+III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
 
-IV.- Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
+
+VI.- No haber sido Secretario de Despacho o su equivalente, Procurador General de Justicia o Diputado Local, en el año anterior a su nombramiento;
+
+Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 123], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 102.
 
-No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo, ni el personal de la fuerza de seguridad pública del Estado.
+Los Magistrados durarán en el ejercicio de su cargo quince años, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Artículo 117 de ésta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y podrán jubilarse en los términos que señale la Ley respectiva.
 
-Podrán serlo los servidores públicos del Estado o de la Federación, si se separan del servicio activo los primeros o de sus cargos los segundos, con ciento veinte días de anticipación a la fecha de las elecciones.
+(REUBICADO [N. DE E. ANTES ARTICULO 124], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 103.
 
-Los Ayuntamientos desempeñarán dos clases de funciones: las de legislación para el régimen, gobierno y administración del Municipio, y las de inspección, concernientes al cumplimiento de las disposiciones que dicten.
+El Tribunal Superior de Justicia del Estado, será presidido por el Magistrado que elija el Pleno; durará en ejercicio de sus funciones un año, pudiendo ser reelecto. Tendrá la representación legal del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 1988)</small>
+REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 104.
 
-Los Ayuntamientos tendrán dos períodos Legislativos, el primero se iniciará durante el primer mes de su administración y estará destinado a expedir las ordenanzas municipales que deberán contener todas las disposiciones que requiere el régimen, el Gobierno y la administración municipal. El segundo período se iniciará en el mes de junio de cada año y destinará a formular y votar el Presupuesto de Egresos Municipales que deberá regir durante el año fiscal inmediato siguiente; y a formular la iniciativa para impuestos especiales que presentarán ante la Legislatura del Estado, cuando la Ley General de Ingresos Municipales no comprenda algunos ramos peculiares del Municipio, que deban pagar impuestos.
+Las faltas temporales de los Magistrados serán cubiertas por los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de justicia.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 126], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 105.
 
-Los Ayuntamientos, además de los períodos legislativos, tendrán sesiones una vez por semana, cuando menos, para resolver los diversos asuntos que interesen al municipio. Para que los Ayuntamientos puedan celebrar sesiones, es necesaria la concurrencia de más de la mitad de sus miembros. Los asuntos serán resueltos por mayoría de votos de los miembros presentes.
+El Magistrado que no concurra al Tribunal, sin causa justificada o sin previa licencia de su Presidente, perderá el derecho a la dieta correspondiente al día de su ausencia.
+
+El Presidente podrá conceder licencia hasta por diez días y el Tribunal hasta por seis meses. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal, salvo el caso de enfermedad debidamente comprobada.
+
+Se exceptúan de lo dispuesto en el párrafo anterior, las licencias que se concedan por el Pleno para la integración del Tribunal Estatal Electoral, las que se extenderán por todo el tiempo necesario para el desempeño de la función.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 127], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 106.
 
-Los Ayuntamientos, como cuerpos colectivos no tendrán ejercicio de jurisdicción ni facultades de autoridad directa; en el mismo caso están los regidores. Todas las disposiciones de los Ayuntamientos serán ejecutadas por los Presidentes Municipales.
+Corresponde al Tribunal Superior de Justicia:
+
+I.- Iniciar leyes en todo lo relativo a la Administración de Justicia y Orgánico Judicial;
+
+II.- Resolver como Jurado de sentencia en las causas de responsabilidad por delitos oficiales que hayan de formarse contra los Servidores Públicos del Estado, en los términos que fija esta Constitución;
+
+III.- Iniciar anualmente las reformas a las leyes que difieran de su propia jurisprudencia y de las consultas u observaciones que formulen los Jueces de Primera Instancia;
+
+IV.- Resolver las controversias de carácter contencioso que se susciten entre los Municipios, entre si y entre estos y los Poderes Legislativo y Ejecutivo del Estado;
+
+V.- Conocer en segunda instancia de los negocios y causas que determinen las leyes;
+
+VI.- Hacer la revisión de todos los procesos del orden penal que designen las leyes;
+
+VII.- Dirimir las competencias de jurisdicción que se susciten entre los Jueces de Primera Instancia del Estado, o entre el Alcalde de un distrito judicial y otro Alcalde o Juez de Primera Instancia de otro distrito;
+
+VIII.- Nombrar a los Jueces de Primera Instancia de conformidad con el tercer Párrafo de la fracción III del Artículo 116 de la Constitución Política Federal;
+
+IX.- Conceder licencias a los Servidores Públicos de su nombramiento en la forma que determinen las leyes;
+
+X.- Formar y aprobar el Reglamento Interior del Tribunal; y
+
+XI.- Nombrar y remover, con las limitaciones que establezcan las leyes, a los servidores públicos de sus dependencias y ejercer las demás atribuciones legales del Poder Judicial.
+
+(REUBICADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 27 DE ENERO DE 2001)
 
 #### Sección II. De las Concesiones sobre el Espectro Radioeléctrico para uso Comercial o Privado
 
 ###### ARTICULO 107.
 
-Los Ayuntamientos no podrán:
+Habrá Jueces de Primera Instancia y Jurados en todas las cabeceras de distrito judicial.
 
-I. Evitar la entrada o salida de mercancías o productos de cualquiera clase, salvo que se trate de artículos de primera necesidad que no basten para cubrir las de la localidad; pero en este caso, solicitarán de la Legislatura o de la Diputación Permanente la autorización necesaria, precisando el tiempo que ha de durar la prohibición;
-
-II. Gravar la entrada o el tránsito de las mercancías por el territorio de su municipio;
-
-III. Imponer contribuciones que no estén especificadas en la Ley General de Ingresos Municipales o decretadas especialmente por la Legislatura;
-
-IV. Comunicarse directamente, ni por conducto del Presidente Municipal, con cualquiera autoridad Federal o de fuera del territorio del Estado, si no es por conducto del Ejecutivo del mismo, en todos aquellos asuntos que son de la competencia de los Poderes del Estado.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1958)</small>
-
-V. Arrendar los bienes raíces que les pertenezcan sin previa autorización de la Legislatura del Estado, mediante la expedición del Decreto respectivo, cuando el plazo de vigencia de esos contratos de arrendamiento exceda del término del ejercicio legal de las autoridades que celebren los citados contratos.
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 129], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 108.
 
-Los Municipios a través de sus Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se compondrá de los bienes propios del Municipio y de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones impuestas por la Ley General de Ingresos Municipales o por las especiales en el caso de la última parte del artículo 104 de esta Constitución Política del Estado de Oaxaca; y en todo caso:
+Para ser Juez de Primera Instancia, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
-
-A).- Percibirán las contribuciones, incluyendo tasas adicionales que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejoras, así como las que tengan por base el cambio de valor de los inmuebles.
-
-Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
-
-B).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados.
-
-C).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
-
-Las Leyes Locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni a instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
-
-La Federación y el Ejecutivo del Estado, en los términos de la Ley respectiva podrán convenir la asunción, por parte de éstos, del ejercicio de determinadas funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social de los Municipios lo haga necesario.
-
-El Gobierno del Estado de Oaxaca, estará facultado para celebrar esos convenios con sus municipios a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a los que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE1990)</small>
-
-Los bienes que integran el patrimonio municipal son:
-
-I.- De dominio público; y
-
-II.- De dominio privado.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-Son bienes de dominio público:
-
-I.- Los de uso común;
-
-II.- Los inmuebles destinados por el municipio a un servicio público y
-
-III.- Los muebles que normalmente sean insustituibles, tales como los expedientes de las oficinas, archivos, libros singulares, piezas históricas, arqueológicas, obras de arte u otros objetos similares.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-Estos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica a acciones reivindicatorias o de posesión.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-Los bienes del dominio privado del municipio son los que le pertenecen en propiedad, así como los que en el futuro ingresen a su patrimonio por cualquiera de las formas de adquisición de la propiedad no previstas en la disposición anterior.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1992)</small>
-
-Los bienes del dominio privado podrán ser enajenados mediante acuerdo del H. Ayuntamiento, previa autorización de la Legislatura local.
+(REUBICADO [N. DE E. ANTES ARTICULO 130], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 109.
 
-Son atribuciones de los Presidentes Municipales:
+El cargo de Juez de Primera Instancia es renunciable, por causa justificada que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
 
-I. Presidir las sesiones de sus respectivos Ayuntamientos;
-
-II. Promulgar el Bando de Policía u Ordenanza Municipal:
-
-III. Ejecutar dentro del municipio las leyes federales y del Estado y todas las disposiciones que expidan los mismos Ayuntamientos;
-
-IV. Ser órgano de comunicación de los Ayuntamientos que presiden con los demás Ayuntamientos del Estado y con el Gobierno del mismo;
-
-V. Ejecutar con arreglo a las leyes las resoluciones dictadas por los alcaldes.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 131], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 110.
 
-Los Síndicos procuradores tendrán el carácter de mandatarios de los Ayuntamientos y desempeñarán las funciones que ellos les encomienden y las que les asignen las leyes.
+Los Jurados conocerán como tribunales de Hecho, de los delitos cometidos por medio de la prensa, y de los que les sometan las leyes, siempre que éstos puedan ser castigados con una pena mayor de un año de prisión.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 132], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 #### Sección III. De las Concesiones sobre el Espectro Radioeléctrico para uso Público o Social
 
@@ -1889,207 +1917,161 @@ Los Síndicos procuradores tendrán el carácter de mandatarios de los Ayuntamie
 
 ###### ARTICULO 111.
 
-Para el despacho de los asuntos municipales, cada Ayuntamiento designará un Secretario, cuyas atribuciones serán:
+Todo ciudadano que sepa leer y escribir y sea vecino del Municipio, cabecera de distrito judicial, tiene la obligación de ser jurado y recibirá la compensación que fije la ley por el tiempo que integre el Tribunal de Hecho.
 
-I. Asistir a las sesiones para dar los informes que se le pidan, levantar las actas y autorizarlas después de que haya firmado el Presidente Municipal;
-
-II. Autorizar con su firma las disposiciones de observancia general que expida el Presidente Municipal;
-
-III. Todas las que le confieran las respectivas leyes reglamentarias.
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
 
 #### Sección V. De las Concesiones para la Ocupación y Explotación de Recursos Orbitales
 
-### CAPITULO V. De los Derechos Humanos
+### CAPITULO V. De la Jurisdicción Indígena
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 1993)</small>
-
-ARTICULO 138 BIS. La Comisión Estatal de Derechos Humanos es un organismo Descentralizado, con personalidad jurídica y patrimonio propios, que se encargará de la protección, observancia, promoción, estudio y divulgación de los Derechos Humanos, previstos por el orden jurídico mexicano.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
-
-Esta Comisión conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que viole estos derechos. Asimismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 138 BIS A], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 112.
 
-La recaudación de las contribuciones municipales estará a cargo de un Tesorero Municipal nombrado por el Ayuntamiento.
+La Jurisdicción Indígena se ejercerá por las autoridades comunitarias de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente y en los términos que determine la ley reglamentaria del Artículo 16 de esta Constitución.
 
-## TITULO QUINTO
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-De las Responsabilidades de los Servidores Públicos del Estado y Municipios.
+## TITULO QUINTO. Del Gobierno Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 113.
 
-Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales y en consecuencia, todos están obligados a vigilar los actos relacionados con la administración de dichos fondos.
+El Estado de Oaxaca, para su régimen interior, se divide en Municipios libres que están agrupados en distritos rentísticos y judiciales.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+Los Municipios se erigirán y suprimirán de conformidad con las disposiciones contenidas en las fracciones VII y VIII del Artículo 59 de esta Constitución.
 
-Para la mejor supervisión del ejercicio de los recursos públicos, los ayuntamientos deberán realizar funciones de contraloría preventiva, en cuyo caso el Gobierno del Estado procurará la capacitación y las normas requeridas.
+Los Municipios tienen personalidad jurídica propia y constituyen un nivel de gobierno.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1985)</small>
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la ley determine.
 
-## TITULO SEXTO. Principios Generales de Administración Pública
+Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
-###### ARTICULO 149.
+Los Concejales que integren los Ayuntamientos, tomarán posesión el día primero de enero del año siguiente al de su elección y durarán en su encargo tres años, no pudiendo ser reelectos para el periodo inmediato.
 
-El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los Servidores Públicos y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+Los Concejales electos por el sistema de usos y costumbres tomarán posesión en la misma fecha y desempeñarán el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen, pero no podrá exceder de tres años.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1994)</small>
+El partido político cuya planilla hubiere obtenido el mayor número de votos, tendrá derecho a que le acrediten como concejales a todos los miembros de la misma.
 
-###### ARTICULO 150.
+La ley reglamentaria determinará los procedimientos que se observarán en la asignación de los regidores de representación proporcional, los que tendrán la misma calidad jurídica que los electos por el sistema de mayoría relativa.
 
-En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y secundaria es obligatoria.
+No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo, ni el personal de la fuerza de seguridad pública del Estado. Podrán serlo los servidores públicos del Estado o de la Federación, si se separan del servicio activo, los primeros o de sus cargos los segundos, con ciento veinte días de anticipación a la fecha de las elecciones.
 
-La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda a las necesidades del desarrollo integral del Estado.
+Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal, que deberá expedir la Legislatura del Estado, los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y conciencia de la solidaridad internacional, en la independencia y justicia.
+La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
+La organización y regulación del funcionamiento de los Municipios, estará determinada por las leyes respectivas que expida el Congreso del Estado, sin coartar ni limitar las libertades que les concede la Constitución General de la República y la particular del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+La representación política y administrativa de los Municipios fuera del territorio del Estado, corresponde al Ejecutivo, como representante de toda la Entidad.
 
-En las comunidades indígenas bilingües la enseñanza tenderá a conservar el idioma español y las lenguas indígenas de la región.
+II.- Los Municipios a través de sus Ayuntamientos, administrarán libremente su hacienda, la cual se compondrá de sus bienes propios y de los rendimientos que éstos produzcan, así como de las contribuciones e ingresos que la Legislatura del Estado establezca a su favor y en todo caso:
 
-I.- Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
+a).- Percibirán las contribuciones, incluyendo tasas adicionales que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejoras, así como las que tengan por base el cambio de valor de los inmuebles.
 
-II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-a) Será democrática, considerando la democracia no solo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+b).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados, y
 
-b) Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad, de igualdad de derechos de todos los hombres, evitando los privilegios de razas, de región, de grupos, de sexos o de individuos.
+Las leyes locales no establecerán exenciones o subsidios respecto de las mismas contribuciones, a favor de personas físicas o morales, ni a instituciones oficiales o privadas. Solo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-III.- Para dar cumplimiento al tercer párrafo fracción II, de este propio artículo, el Ejecutivo Federal, en coordinación con el Estado, determinarán los planes y programas de estudio de la educación primaria, secundaria y normal. Para tales efectos considerará la opinión de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
+Los Ayuntamientos en el ámbito de sus competencias, propondrán a la Legislatura del Estado las tasas, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-IV.- Toda la educación que el Estado imparta será gratuita.
+La Legislatura del Estado aprobará la ley de ingresos de los Municipios, revisará y fiscalizará su cuenta pública. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
 
-V.- Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo de la Nación y el Estado, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
+III.- Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-VI.- Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
+a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-a) Impartir la educación con apego a los mismos fines y criterios que establece el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III; y
+b).- Alumbrado público.
 
-b) Obtener previamente, en cada caso, la autorización expresa de poder público, en los términos que establezca la ley.
+c).- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
+d).- Mercados y centrales de abasto.
 
-###### ARTICULO 151.
+e).- Panteones.
 
-Las autoridades fomentarán con preferencia las actividades turísticas que aprovechen los atractivos de toda índole que posee (sic) el Estado de Oaxaca y vigilarán que la realización de estas actividades preserve el patrimonio cultural de los pueblos y comunidades indígenas, y como consecuencia de dichas actividades, no se deteriore el ambiente, ni se demeriten sus propias riquezas turísticas.
+f).- Rastro.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+g).- Calles, parques y jardines y su equipamiento.
 
-Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la Entidad.
+h).- Seguridad pública, en los términos del Artículo 21 de la Constitución General de la República, policía preventiva municipal y tránsito; así como protección civil.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+i).- Los demás que la Legislatura Local determine según las condiciones territoriales y socioeconómicas de los Municipios; así como su capacidad administrativa y financiera.
 
-###### ARTICULO 152.
+Sin perjuicio de su competencia constitucional y de la forma de su integración en el desempeño de sus funciones o la prestación de los servicios a su cargo, todos los municipios observarán lo dispuesto por las leyes federales y estatales.
 
-Los trabajadores al Servicio de los Poderes del Estado y sus Ayuntamientos, tendrán derecho de asociarse para la defensa de sus intereses comunes en los términos de las leyes debidamente promulgadas para regular sus relaciones de trabajo.
+Los Municipios del Estado de Oaxaca, previo acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda. En este caso y tratándose de la asociación de Municipios de dos o más Estados, cada Ayuntamiento deberá de contar con la aprobación de la Legislatura del Estado. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de ellos o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. Y a falta de convenio, se sujetarán a lo dispuesto por las fracciones XVI y XVII del Artículo 59 de esta Constitución.
 
-###### ARTICULO 153.
+IV.- Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
 
-En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1994)</small>
+b).- Participar en la creación y administración de sus reservas territoriales;
 
-ARTICULO 153 BIS. El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra Entidad Federativa o del Distrito Federal que los requiera. Estas diligencias se practicarán con la intervención de la Procuraduría General de Justicia del Estado, en coordinación con la General de la República, y las demás Procuradurías Generales de Justicia de las otras Entidades Federativas y la del Distrito Federal, en los términos de los convenios de colaboración, que para este efecto se celebren.
+c).- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los Municipios;
 
-###### ARTICULO 154.
+d).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
 
-Los Ayuntamientos del Estado están obligados a mejorar y conservar los caminos carreteros construidos en el territorio de sus respectivos municipios y a proceder a la apertura de los que sean necesarios para facilitar las comunicaciones vecinales.
+e).- Intervenir en la regularización de la tenencia de la tierra urbana;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+f).- Otorgar licencias y permisos para construcciones;
 
-###### ARTICULO 155.
+g).- Participar en la creación y administración de zonas de reserva ecológica y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
-Los bienes raíces de beneficencia o instrucción pública que puedan conservar las corporaciones respectivas, conforme a las leyes así como los capitales impuestos pertenecientes a las mismas, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado.
+h).- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+i).- Celebrar convenios para la administración y custodia de las zonas federales.
 
-La infracción de éste y de los artículos 81, fracción IX y 108 de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o Servidores Públicos que dispongan de dichos bienes, como los que reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quien quiera que sea su poseedor.
+En lo conducente y de conformidad a los fines señalados en el Párrafo tercero del Artículo 27 de la Constitución General, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1969)</small>
+Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a la ley federal de la materia.
 
-###### ARTICULO 156.
+V.- Los Municipios del Estado y las Comunidades Indígenas del mismo, podrán asociarse libremente, tomando en consideración su filiación étnica e histórica, para formar asociaciones de Pueblos y Comunidades Indígenas que tengan por objeto:
 
-Toda riqueza poseída por una o varias personas está obligada a contribuir a los gastos públicos del Estado con la parte proporcional que determinen las leyes.
+a).- El estudio de los problemas locales.
 
-Se declaran revisables todos los contratos y concesiones hechos por los gobiernos anteriores desde el año de mil ochocientos setenta y dos, para ajustarlos al precepto del artículo 28 de la Constitución Federal y para la reglamentación de los servicios públicos en su caso. El Ejecutivo declarará la nulidad de los que impliquen grave perjuicio de interés general.
+b).- La realización de programas de desarrollo común.
 
-###### ARTICULO 157.
+c).- El establecimiento de cuerpos de asesoramiento técnicos.
 
-Toda autoridad que no emane de la Constitución y leyes federales, de la Constitución y leyes del Estado, no podrá ejercer en él mando ni jurisdicción;
+d).- La capacitación de sus funcionarios y empleados.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+e).- La instrumentación de programas de urbanismo, y
 
-###### ARTICULO 158.
+f).- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades y pueblos.
 
-En el Estado, ningún ciudadano puede desempeñar a la vez dos o más cargos de elección popular directa o indirecta; pero el electo debe optar entre ellos el que quiera desempeñar definitivamente.
+VI.- Los conflictos que se susciten entre los diversos Municipios del Estado, serán resueltos por convenios que éstos celebren, con aprobación del Congreso Local. Cuando dichos conflictos tengan carácter contencioso, serán resueltos por el Tribunal Superior de Justicia del Estado.
 
-Tampoco podrá desempeñar empleo ni cargo público de elección popular, cualquier ciudadano que disfrute de fuero federal.
+VII.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la ley y reglamentos correspondientes. Aquella acatará las órdenes que el Gobernador del Estado le trasmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
-El requisito de la edad a los Servidores Públicos a quienes se exige la de treinta y cinco años para el ejercicio de su encargo, exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura, pero nunca ni por ningún motivo se dispensarán más de cinco años de edad.
+VIII.- La administración de justicia de cada Municipio estará a cargo de uno o más servidores públicos que se llamarán Alcaldes, por cada Alcalde Propietario habrá dos Suplentes que llevarán su respectivo número de orden, durarán en su cargo un año, y serán designados por la mayoría de los integrantes del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+Para ser Alcalde se requiere haber cumplido veinticinco años antes del día de su designación y cubrir los mismos requisitos que se exigen para ser miembro de un Ayuntamiento.
 
-###### ARTICULO 159.
+Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
-Nunca se podrá desempeñar a la vez, por un solo individuo dos o más empleos o cargos públicos del estado y de los municipios por los que se disfrute sueldo, honorarios, gratificación o cualquiera otra ministración de dinero, con excepción de los relativos a los ramos de educación y beneficencia públicas.
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE NOVIEMBRE DE 1984)</small>
+## TITULO SEXTO. De la Comisión Estatal de los Derechos Humanos
 
-###### ARTICULO 160.
-
-Ningún pago podrá hacerse que no esté comprendido en el Presupuesto respectivo o determinado por la Ley.
-
-Los recursos económicos de que disponga el Gobierno Estatal y los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
-
-Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, o por Administración directa en los términos de la Ley respectiva.
-
-Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las Leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
-
-El manejo de recursos económicos Estatales y Municipales se sujetarán a las bases de este artículo.
-
-Los Servidores Públicos serán responsables del cumplimiento de ésta en los términos de la Ley Reglamentaria respectiva.
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
-
-###### ARTICULO 161.
-
-Todos los funcionarios y empleados públicos del Estado y de los Municipios recibirán por sus servicios una compensación pecuniaria determinada por la ley respectiva; esta compensación no es renunciable, y la ley que la aumente o disminuya no podrá surtir efecto para el Gobernador y Diputados y para los funcionarios municipales, durante el período en que éstos ejerzan en su cargo.
-
-Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos funcionarios, ya sea por concepto de gastos de representación, sobresueldo o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
-
-###### ARTICULO 162.
-
-La compensación de que habla el artículo anterior, sólo tendrá lugar por los servicios de presente. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
-
-###### ARTICULO 163.
-
-Todo Servidor Público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
-
-El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demanden".
-
-Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: ¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ... que el Estado os ha conferido?.
-
-El interrogado contestará "Si protesto". Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 138 BIS], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 114.
 
-Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo substituya en el año siguiente, durante los dos primeros meses de su funcionamiento; esta glosa preventiva se remitirá a la Contaduría Mayor de Hacienda a más tardar el quince de marzo de cada año.
+La Comisión Estatal de Derechos Humanos es un organismo descentralizado, con personalidad jurídica y patrimonio propios, que se encargará de la protección, observancia, promoción, estudio y divulgación de los derechos humanos, previstos por el orden jurídico mexicano.
+
+Esta Comisión conocerá de quejas en contra de actos y omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado que viole estos derechos. Así mismo, formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 8 DE DICIEMBRE DE 2000)
 
 ### CAPITULO VI. De la Jurisdicción Indígena
 
@@ -2103,385 +2085,315 @@ ARTICULO 138 BIS A. La jurisdicción indígena se ejercerá por las autoridades 
 
 ### Capítulo VI. De la Colaboración con el Instituto
 
-## TITULO SEPTIMO. De las Adiciones y Reformas a la Constitución
+## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos del Estado y Municipales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-###### ARTICULO 164.
-
-Esta Constitución Política puede ser adicionada o reformada, las iniciativas que tengan este objeto, deben ser suscritas por el Diputado o Diputados que las presenten, por el Gobernador, el Tribunal Superior de Justicia o los Ayuntamientos, en los términos de las fracciones I, II, III y IV del artículo 50 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-Estas Iniciativas se sujetarán a los trámites establecidos para la expedición de las leyes en los artículos 51 a 58, pero requieren de la aprobación de, cuando menos, dos tercios del número total de Diputados que integran la Legislatura.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
-
-El mismo procedimiento se observará respecto de un período final de la Legislatura.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
-
-Inmediatamente que se promulguen reformas a la Constitución General de la República. La Legislatura del Estado si estuviere en período ordinario de sesiones, acordará los términos de las modificaciones o adiciones que correspondan para que puedan incorporarse al texto de esta Constitución, en consonancia con el postulado jurídico expreso en el artículo 41 de aquella.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
-
-Si la Legislatura estuviere en receso, será convocada a sesiones extraordinarias, por su comisión Permanente, para el efecto a que se refiere el párrafo que antecede.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 139], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 115.
 
-Todos los vecinos de un Municipio tienen acción para denunciar y acusar, ante el Ayuntamiento respectivo, la malversación de fondos y cualesquiera otros hechos que importen menoscabo de la Hacienda Municipal.
+Para los efectos de las responsabilidades a que alude este título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstos, o en fideicomisos públicos; así como en la Administración Pública Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del Artículo 81 de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Federal.
+
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías y el Procurador General de Justicia, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 140], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 116.
 
-La administración de justicia en cada municipio estará a cargo de uno o más Servidores Públicos que se llamarán Alcaldes. Por cada Alcalde propietario habrá dos suplentes, que llevarán su respectivo número de orden.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes, a sancionar a quienes, teniendo este carácter incurran en responsabilidades de acuerdo con las siguientes prevenciones:
 
-###### ARTICULO 117.
+I.- Se impondrán mediante juicio político, las sanciones indicadas en el Artículo 117 de esta Constitución a los servidores públicos señalados en ella, cuando en ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
-Instalado el Ayuntamiento en los términos que determine el artículo 98, procederá a elegir a los Alcaldes propietarios y suplentes, los cuales durarán un año en su encargo y tendrán los mismos requisitos que se exigen para ser miembro de un Ayuntamiento, excepto la edad, que será la de veinticinco años. Una ley determinará el número de Alcaldes que debe haber en cada Municipio.
+No procede el juicio político por la mera expresión de ideas;
 
-###### ARTICULO 118.
-
-Los Alcaldes aplicarán dentro de sus respectivos Municipios las leyes civiles, penales y de procedimientos que para todo el Estado expida la Legislatura.
-
-###### ARTICULO 119.
-
-Los Alcaldes se considerarán como auxiliares de los jueces y tribunales del Estado, y desempeñarán las funciones que unos y otros les encomienden, lo mismo en materia civil que en materia penal y dentro de la competencia que les señalen las leyes de organización de los tribunales.
-
-## TITULO OCTAVO. De la Inviolabilidad de la Constitución
-
-###### ARTICULO 165.
-
-Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por un trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hayan figurado en el Gobierno emanado de la rebelión, como los que hayan cooperado a ella.
-
-###### ARTICULO 120.
-
-El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Jueces de Primera Instancia y por los Jurados.
-
-###### ARTICULO 121.
-
-La Ley Orgánica del Poder Judicial del Estado, determinará el funcionamiento del mismo; garantizará también la independencia de los Magistrados y Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidores públicos.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
-
-Todos los Magistrados serán nombrados por el Gobernador del Estado y ratificados dichos nombramientos dentro del plazo improrrogable de diez días por la Legislatura del Estado, si no resolviere dentro de dicho plazo, se tendrán por ratificados. En el caso de que no los ratifique, el Gobernador hará nuevo nombramiento y si también se negare la ratificación, hará un tercer nombramiento que surtirá sus efectos inmediatamente a reserva de obtener la ratificación en el siguiente período ordinario de sesiones.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
-
-###### ARTICULO 122.
-
-Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
-
-I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
-
-III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
-
-V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
-
-VI.- No haber sido Secretario de Despacho o su equivalente, Procurador General de Justicia o Diputado Local, en el año anterior a su nombramiento.
-
-No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
-
-(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999) (F. DE E., P. O. 23 DE OCTUBRE DE 1999)
-
-###### ARTICULO 123.
-
-Los Magistrados durarán en el ejercicio de su cargo quince años, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 141 de ésta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y podrán jubilarse en los términos que señale la Ley Orgánica del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
-
-###### ARTICULO 124.
-
-El Tribunal Superior de Justicia del Estado, será presidido por el Magistrado que elija el Pleno, durará en ejercicio de sus funciones un año, pudiendo ser reelecto. Tendrá la representación legal del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
-
-## TÍTULO NOVENO. De los usuarios
-
-### Capítulo Único. Del Espectro Radioeléctrico
-
-###### ARTICULO 125.
-
-Las faltas temporales de los Magistrados serán cubiertas por los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de Justicia.
-
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
-
-### Capítulo I. De la Concesión Única
-
-###### ARTICULO 126.
-
-El magistrado que no concurra al tribunal, sin causa justificada o sin previa licencia de su Presidente, perderá el derecho a la dieta correspondiente al día de su ausencia.
-
-El Presidente podrá conceder licencia hasta por diez días y el Tribunal hasta por seis meses. En todo caso, no se concederán licencias que impidan el funcionamiento del Tribunal, salvo el caso de enfermedad debidamente comprobada.
-
-Se exceptúan de lo dispuesto en el párrafo anterior, las licencias que se concedan por el Pleno para la integración del Tribunal Estatal Electoral, las que se extenderán por todo el tiempo necesario para el desempeño de la función.
-
-###### ARTICULO 127.
-
-Corresponde al Tribunal Superior de Justicia:
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
-
-I. Iniciar leyes en todo lo relativo a la Administración de Justicia y Orgánico Judicial;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-II. Resolver como jurado de sentencia en las causas de responsabilidad por delitos oficiales que hayan de formarse contra los Servidores Públicos del Estado; en los términos que fija esta Constitución;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
-
-III. Iniciar anualmente las reformas a las Leyes que difieran de su propia Jurisprudencia y de las consultas u observaciones que formulen los Jueces de Primera Instancia;
-
-IV. Conocer de las controversias que se susciten sobre contratos celebrados entre el Gobierno del Estado y los particulares;
-
-V. Conocer de las controversias que se susciten entre los Ayuntamientos del Estado y el Ejecutivo del mismo;
-
-VI. Conocer en segunda instancia de los negocios y causas que determinen las leyes;
-
-VII. Hacer la revisión de todos los procesos del orden penal que designen las leyes;
-
-VIII. Dirimir las competencias de jurisdicción que se susciten entre los jueces de primera instancia del Estado, o entre el alcalde de un distrito judicial y otro alcalde o juez de primera instancia de otro distrito;
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
-
-IX. Nombrar a los Jueces de Primera Instancia de conformidad con el tercer párrafo de la Fracción III del artículo 116 de la Constitución Política Federal;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-X. Conceder licencias a los Servidores Públicos de su nombramiento en la forma que determinen las leyes;
-
-XI. Formar el reglamento interior del Tribunal, pasándolo a la Legislatura para su aprobación;
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-XII. Nombrar y remover, con las limitaciones que establezcan las leyes, a los Servidores Públicos de sus dependencias y ejercer las demás atribuciones legales del Poder Judicial.
-
-###### ARTICULO 128.
-
-Habrá jueces de primera instancia y jurados en todas las cabeceras de distrito judicial.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
-
-###### ARTICULO 129.
-
-Para ser Juez de Primera Instancia, se deberán reunir los requisitos que señale la Ley Orgánica del poder Judicial.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
-
-###### ARTICULO 130.
-
-El cargo de Juez de Primera Instancia es renunciable, por causa justificada que calificará el Tribunal Superior de Justicia, ante el que se presentará la renuncia.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-###### ARTICULO 131.
-
-Los Jurados conocerán como Tribunales de Hecho, de los delitos cometidos por medio de la prensa, y de los que les sometan las leyes, siempre que éstos puedan ser castigados con una pena mayor de un año de prisión.
-
-###### ARTICULO 132.
-
-Todo ciudadano que sepa leer y escribir y sea vecino del municipio cabecera de distrito judicial, tiene la obligación de ser jurado, y recibirá la compensación que fije la ley por el tiempo que integre el Tribunal de hecho.
-
-###### ARTICULO 133.
-
-El Ministerio Público es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes. La persecución de los delitos incumbe al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. El Ministerio Público intervendrá además, en los asuntos judiciales que interesa a las personas a quienes la ley concede especial protección en la forma y términos que la misma ley determina.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-###### ARTICULO 134.
-
-El Ministerio Público será desempeñado por un Servidor Público que se denominará Procurador General de Justicia y por los Agentes que fija la ley.
-
-> <small>(REFORMADO, P.O. 04 DE NOVIEMBRE DE 1950)</small>
-
-###### ARTICULO 135.
-
-El Procurador General de Justicia será nombrado y removido por el Ejecutivo del Estado.
-
-Los Agentes serán nombrados por el Procurador General y los nombramientos serán ratificados por el Ejecutivo.
-
-Para cada Juzgado de Primera Instancia se nombrará un Agente del Ministerio Público, pero en los Distritos en que haya dos o más Juzgados del mismo Ramo e igual categoría, se podrá nombrar un Agente para dos o más de ellos.
-
-###### ARTICULO 136.
-
-Para ser Procurador General de Justicia se necesitan los mismos requisitos que para Magistrado. La ley determinará los que deben reunir los Agentes del Ministerio Público.
-
-###### ARTICULO 137.
-
-El Procurador General de Justicia ejerce tres clases de funciones:
-
-I. Como representante de la sociedad para los asuntos penales y civiles en que ella está interesada;
-
-II. Como representante de la personalidad jurídica del Estado;
-
-III. Como consejero jurídico del Ejecutivo del Estado.
-
-La ley reglamentará el ejercicio de estas funciones y señalará las que correspondan a los Agentes del Ministerio Público.
-
-###### ARTICULO 138.
-
-Las funciones de Procurador General y las de Agente del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 1993)</small>
-
-###### ARTICULO 139.
-
-Para los efectos de las responsabilidades a que alude este título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a estos, o en fideicomisos públicos; así como en la administración pública municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del artículo 81o. de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110o. de la Constitución Federal.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías, y el Procurador General de Justicia, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las Leyes Federales, a esta Constitución y a las Leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-###### ARTICULO 140.
-
-El Congreso del Estado, expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter incurran en responsabilidades de acuerdo con las siguientes prevenciones:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
-
-l.- Se impondrán mediante juicio político, las sanciones indicadas en el artículo 141 de esta Constitución a los servidores públicos señalados en ella, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
-
-No procede el juicio político por la mera expresión de ideas.
-
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación penal; y
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal, y
 
 III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
 Los procedimientos para la aplicación de las sanciones a que se refieren las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+Las leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-Las leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere el presente Artículo.
 
-Cualquier Ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 141], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+###### ARTICULO 117.
 
-## TÍTULO DÉCIMO
-
-###### ARTICULO 141.
-
-Podrán ser sujetos de juicio político los Diputados de la Legislatura Local; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director y el Secretario Generales y los Consejeros Electorales del Instituto Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director y el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral.
 
 Las sanciones consistirán en la destitución del servidor público y en su caso inhabilitación para desempeñar sus funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez substanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
 
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una Comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-Conociendo el dictamen el Congreso del Estado, erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 142], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-## TÍTULO DÉCIMO PRIMERO. De los Contenidos Audiovisuales
+###### ARTICULO 118.
 
-###### ARTICULO 142.
+Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Si la resolución de la Legislatura fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Si la Legislatura declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
 
-Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
+Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Congreso del Estado en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto la Legislatura resolverá con base en la Legislación penal aplicable.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+En demandas del orden civil que se establecen contra cualquier servidor público no se requerirá declaración de procedencia.
 
-Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante la Cámara de Diputados en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto, la Cámara de Diputados resolverá con base en la Legislación penal aplicable.
+Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
 
-Las declaraciones y resoluciones de la Cámara de Diputados son inatacables.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 143], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+###### ARTICULO 119.
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no concederá al reo la gracia del indulto.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo primero del Artículo 118, comete un delito durante el tiempo en que se encuentre separado de su encargo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para que desempeñe otro cargo distinto, pero de los enumerados en el Artículo 118 se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 144], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+## TITULO OCTAVO. Principios Generales de Administración Pública
 
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 149], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+###### ARTICULO 120.
 
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las leyes sobre responsabilidades administrativas de los servidores públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en la suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del Artículo 116, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 145], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-###### ARTICULO 143.
+###### ARTICULO 121.
 
-No se requerirá declaración de procedencia de la Cámara de Diputados cuando alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 142, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un periodo no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el Artículo 118.
 
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 142 se procederá de acuerdo con lo dispuesto en dicho precepto.
+> <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-###### ARTICULO 144.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 140, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+###### ARTICULO 122.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+Los miembros de los Ayuntamientos y los alcaldes son responsables de los delitos comunes y de los delitos y faltas oficiales que cometan durante su encargo.
 
-###### ARTICULO 145.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 147], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+###### ARTICULO 123.
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el artículo 142.
+En los delitos del orden común y violación de las leyes federales y del Estado, los servidores públicos municipales no gozarán de protección constitucional alguna, pudiendo en consecuencia proceder contra ellos el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 148], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción tercera del artículo 140. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores de tres años.
+###### ARTICULO 124.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+De las infracciones a las ordenanzas y reglamentos exclusivos del Municipio cometidos por los concejales, alcaldes y agentes municipales, conocerán una comisión integrada por concejales del Ayuntamiento respectivo, en los términos de sus reglamentos, la que se encargará de analizar la acusación, y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado, para que posteriormente proceda a emitir su dictamen.
 
-###### ARTICULO 146.
-
-Los miembros de los Ayuntamientos y los Alcaldes son responsables de los delitos comunes y de los delitos y faltas oficiales que cometan durante su encargo.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-###### ARTICULO 147.
-
-En los delitos del orden común y violación de las Leyes Federales y del Estado, los servidores públicos Municipales no gozarán de protección constitucional alguna, pudiendo, en consecuencia, proceder contra ellos el Ministerio Público.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
-
-###### ARTICULO 148.
-
-De las infracciones a las ordenanzas y Reglamentos exclusivos del Municipio cometidos por los Concejales, Alcalde (sic) y Agentes Municipales, conocerán una comisión integrada por Concejales del Ayuntamiento respectivo, en los términos de sus Reglamentos, la que se encargará de analizar la acusación, y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
-
-Conociendo el dictamen el Ayuntamiento y erigido en jurado de sentencia, aplicará la sanción respectiva mediante la resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+Conociendo el dictamen el Ayuntamiento y erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante la resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
 
 Si la resolución del Ayuntamiento fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 Si el Ayuntamiento declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
 
 Las declaraciones y resoluciones del Ayuntamiento son inatacables.
+
+(REUBICADO [N. DE E. ANTES TITULO SEXTO], P.O. 8 DE DICIEMBRE DE 2000)
+
+## TITULO NOVENO. De las Adiciones y Reformas a la Constitución
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+### Capítulo Único. Del Espectro Radioeléctrico
+
+###### ARTICULO 125.
+
+El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+### Capítulo I. De la Concesión Única
+
+###### ARTICULO 126.
+
+En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y secundaria es obligatoria.
+
+La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda las necesidades del desarrollo integral del Estado.
+
+La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y la justicia.
+
+La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
+
+En las comunidades indígenas bilingües la enseñanza tenderá a conservar el idioma español y las lenguas indígenas de la región.
+
+I.- Garantizada por el Artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
+
+II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+
+a) Será democrática, considerando la democracia no sólo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+
+b) Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+
+c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad, igualdad de derecho de todos los hombres, evitando los privilegios de razas, de región, de grupos, de sexos o de individuos.
+
+III.- Para dar cumplimiento al tercer párrafo y fracción II de este Artículo, el Ejecutivo Estatal, en coordinación con la Federación, determinarán los planes y programas de estudio de la educación primaria, secundaria y normal. Para tales efectos, considerará la opinión de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
+
+IV.- Toda la educación que el Estado imparta será gratuita.
+
+V.- Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer Párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo de la Nación y el Estado; apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
+
+VI.- Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
+
+a).- Impartir la educación con apego a los mismos fines y criterios que establece el segundo Párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
+
+b).- Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 151], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 127.
+
+Las autoridades fomentarán con preferencia las actividades turísticas que aprovechen los atractivos de toda índole que posee el Estado de Oaxaca y vigilarán que la realización de estas actividades preserve el patrimonio cultural de los pueblos y comunidades indígenas, y como consecuencia de dichas actividades, no deteriore el medio ambiente, ni se demeriten sus propias riquezas turísticas.
+
+Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la entidad.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 152], P.O. 8 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 128.
+
+Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tendrán derecho de asociarse para la defensa de sus intereses comunes en los términos de las leyes debidamente promulgadas para regular sus relaciones de trabajo.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 153], P.O. 08 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 129.
+
+En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 153 BIS], P.O. 8 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 130.
+
+El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra Entidad Federativa o del Distrito Federal que los requiera. Estas diligencias se practicarán con la intervención de la Procuraduría General de Justicia del Estado, en coordinación con la General de la República, y las demás Procuradurías Generales de Justicia de las otras Entidades Federativas y la del Distrito Federal, en los términos de los convenios de colaboración, que para este efecto se celebren.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 154], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 131.
+
+Los Ayuntamientos del Estado están obligados a mejorar y conservar los caminos carreteros construidos en el territorio de sus respectivos Municipios y a proceder a la apertura de los que sean necesarios para facilitar las comunicaciones vecinales.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 155], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 132.
+
+Los bienes raíces de beneficencia o instrucción pública que puedan conservar las corporaciones respectivas, conforme a las leyes así como los capitales impuestos pertenecientes a las mismas, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado.
+
+La infracción de éste y del Artículo 81 fracción IX de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o servidores públicos que dispongan de dichos bienes como los que los reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quienquiera que sea su poseedor.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 156], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 133.
+
+Toda riqueza poseída por una o varias personas está obligada a contribuir a los gastos públicos del Estado con la parte proporcional que determinen las leyes.
+
+Se declaran revisables todos los contratos y concesiones hechos por los gobiernos anteriores desde el año de mil ochocientos setenta y dos, para ajustarlos al precepto del Artículo 28 de la Constitución Federal y para la reglamentación de los servicios públicos en su caso. El Ejecutivo declarará la nulidad de los que impliquen grave perjuicio de interés general.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 157], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 134.
+
+Toda autoridad que no emane de la Constitución y leyes federales, de la Constitución y leyes del Estado, no podrán ejercer el mando ni jurisdicción.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 158], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 135.
+
+En el Estado, ningún ciudadano puede desempeñar a la vez, dos o más cargos de elección popular directa o indirecta; pero el electo debe optar entre ellos el que quiera desempeñar definitivamente.
+
+Tampoco podrá desempeñar empleo ni cargo público de elección popular, cualquier ciudadano que disfrute del fuero federal.
+
+El requisito de la edad a los servidores públicos a quienes exige la de treinta y cinco años para el ejercicio de su encargo exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura pero nunca ni por ningún motivo se dispensarán más de cinco años de edad.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 159], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 136.
+
+Nunca podrá desempeñarse a la vez, por un solo individuo, dos o más empleos o cargos públicos del Estado y de los Municipios por los que se disfrute sueldo, honorarios, gratificación o cualquiera otra ministración de dinero, con excepción a los relativos a los ramos de educación y beneficencia públicas.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 160], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 137.
+
+Ningún pago podrá hacerse que no esté comprendido en el presupuesto respectivo o determinado por la ley.
+
+Los recursos económicos de que disponga el Gobierno Estatal y los Municipios, así como sus respectivas Administraciones Públicas Paraestatales, se administrarán con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra que realicen se adjudicarán o llevarán a cabo a través de licitaciones mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes o por administración directa en los términos de la ley respectiva.
+
+Cuando las licitaciones a que hace referencia el Párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos, y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos estatales y municipales se sujetarán a las bases de este Artículo.
+
+Los servidores públicos, serán responsables del cumplimiento de ésta en los términos de la ley reglamentaria respectiva.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 161], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 138.
+
+Todos los servidores públicos del Estado y de los Municipios recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado o en los presupuestos de los Municipios, según corresponda.
+
+Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos servidores, ya sea por concepto de gastos de representación, sobresueldo, o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 162], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 139.
+
+La compensación de que habla el Artículo anterior, sólo tendrá lugar por los servicios de presente. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 163], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 140.
+
+Todo funcionario o empleado público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
+
+El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de.... que el Estado os ha conferido ?". El interrogado contestará: "Si protesto".
+
+Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
+
+(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
+
+## TITULO DECIMO. De la Inviolabilidad de la Constitución
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 165], P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 141.
+
+Esta Constitución Política puede ser adicionada o reformada, las iniciativas que tengan este objeto deben ser suscritas por el Diputado o Diputados que las presenten, por el Gobernador, el Tribunal Superior de Justicia o los Ayuntamientos, en los términos de las fracciones I, II, III y IV del Artículo 50 de esta Constitución.
+
+Estas iniciativas se sujetarán a los trámites establecidos para la expedición de las leyes en los artículos 51 al 58, pero requieren de la aprobación de, cuando menos, dos tercios del número total de Diputados que integren la Legislatura.
+
+> <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
+
+Inmediatamente que se promulguen reformas a la Constitución General de la República, la Legislatura del Estado, si estuviera en periodo ordinario de sesiones, acordará los términos de las modificaciones o adiciones que correspondan para que puedan incorporarse al texto de esta Constitución, en consonancia con el postulado jurídico expreso en el Artículo 41 de aquélla.
+
+Si la Legislatura estuviere en receso, será convocada a sesiones extraordinarias por su Diputación Permanente, para el efecto a que se refiere el Párrafo que antecede.
+
+(REUBICADO [N. DE E. ANTES TITULO OCTAVO], P.O. 8 DE DICIEMBRE DE 2000)
+
+## TÍTULO DÉCIMO PRIMERO. De los Contenidos Audiovisuales
+
+###### ARTICULO 142.
+
+Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelión se interrumpa su observancia. En caso de que por un trastorno público se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hayan figurado en el Gobierno emanado de la rebelión, como los que hayan cooperado a ella.
 
 ## TRANSITORIOS
 
@@ -2938,6 +2850,32 @@ P.O. 24 DE FEBRERO DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- La Cuenta Pública correspondiente al ejercicio del año de 1999 podrá ser presentada a más tardar el día veinte de marzo del año dos mil.
+
+P.O. 8 DE DICIEMBRE DE 2000.
+
+PRIMERO. Las reformas constitucionales en materia municipal, contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Tratándose de funciones y servicios que conforme al presente decreto sean competencia de los Municipios y que a la entrada en vigor de las reformas sean prestados por el Gobierno del Estado o de manera coordinada con los Municipios, éstos podrán asumirlos, previa aprobación del Ayuntamiento. El Gobierno del Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al Municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de 90 días contados a partir de la recepción de la correspondiente solicitud.
+
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2001)</small>
+
+En el caso del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, contemplado en el Artículo 113, Fracción III Inciso a) de esta Constitución, dentro del plazo señalado en el Párrafo anterior, el Gobierno del Estado podrá solicitar a la legislatura, conservar en su ámbito de competencia estos servicios, cuando la transferencia de Estado a Municipio, afecte en perjuicio de la población su prestación, la Legislatura del Estado resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer Párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+TERCERO. El Gobierno del Estado y los Municipios realizarán los actos conducentes, a efecto de que los convenios que en su caso se hubieren celebrado con anterioridad, se ajusten a lo establecido en esta Constitución y leyes estatales.
+
+CUARTO. En cumplimiento al Artículo QUINTO transitorio del Decreto que Reforma a la Constitución Federal en Materia Municipal, publicado el 23 de diciembre de 1999 en el Diario Oficial de la Federación, antes del inicio del ejercicio fiscal del 2002, la Legislatura del Estado, en coordinación con los Municipios respectivos, adoptarán las medidas conducentes, a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+QUINTO. En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones, previamente contraídos con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+SEXTO. Mientras se realizan las reformas a las leyes secundarias, cuando en ellas o en cualquier otro ordenamiento se haga referencia a la nomenclatura o articulado de la Constitución Política del Estado Libre y Soberano de Oaxaca, se entenderá que se refiere a su correspondiente de la nueva estructura y contenidos aprobados a través de este Decreto.
+
+SEPTIMO. La Reforma al Artículo 8° de la Constitución Particular del Estado materia del Presente Decreto, entrará en vigor a partir del día veintiuno de marzo del año dos mil uno, en acatamiento a lo ordenado por el ARTÍCULO PRIMERO TRANSITORIO, del Decreto publicado en el Diario Oficial de la Federación el día veintiuno de septiembre del año dos mil.
+
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2001)</small>
+
+OCTAVO. Todos los procedimientos que hayan iniciado los Municipios previo a la vigencia de este Decreto ante el Congreso del Estado para solicitar la autorización correspondiente para afectar su patrimonio inmobiliario, arrendar bienes propiedad del mismo, y celebrar contratos o convenios que se extiendan más allá del ejercicio constitucional respectivo, y aquellos que llegaren a iniciarse antes de las leyes reglamentarias correspondientes, se regirán por las disposiciones que contiene la Ley Orgánica Municipal publicada el 20 de noviembre de 1993.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
