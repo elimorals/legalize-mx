@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "1998-02-07"
+last_updated: "1999-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -685,7 +685,9 @@ a) Neumático; y
 
 b) Metálico.
 
-La diversidad de vehículos que se deriven de la anterior clasificación se regirán por el reglamento respectivo.
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
+
+La diversidad de vehículos que se deriven de la anterior clasificación, se regirán por el reglamento respectivo y la norma general de carácter técnico.
 
 ###### Artículo 44.
 
@@ -825,7 +827,33 @@ III. En su caso, el servicio público de transporte que se autoriza a prestar;
 
 IV. El término de su vigencia; y
 
-V. En caso de refrendo, la fecha en que se otorgó la primera licencia.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+V. El número de registro de dicha licencia;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. El nombre y domicilio del titular;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VII. Las restricciones al titular si las hubiere;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VIII. La persona a quien se deberá avisar en caso de accidente;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IX. El tipo de sangre del titular de la licencia; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+X. La anuencia del titular en caso de que así sea su voluntad, para que se le considere donador de órganos en los casos previstos y autorizados por la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+Para los efectos de la fracción anterior, el Ejecutivo del Estado, celebrará los convenios de coordinación y colaboración con las dependencias competentes en la materia, a efecto de llevar dicho trámite.
 
 ###### Artículo 59.
 
@@ -889,6 +917,10 @@ I. Por resolución judicial ejecutoriada, durante el tiempo que la misma señale
 
 II. Por resolución administrativa, cuando se compruebe la incapacidad física o mental de su titular para conducir, o en los casos previstos en los artículos 174 y 175 de esta Ley.
 
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+III. Por resolución administrativa hasta por 6 meses cuando incurra dentro del término de sesenta días dos ocasiones o más, en cualquiera de las sanciones previstas en los artículos 164, fracción XIII, 166, fracción II, 167 fracciones VI y VII.
+
 ###### Artículo 66.
 
 La licencia se cancelará en los siguientes casos:
@@ -902,6 +934,10 @@ III. Cuando el titular contraiga enfermedad o discapacidad permanente que lo imp
 IV. Por resolución administrativa; y
 
 V. En caso de operadores, conductores o choferes de servicio público, cuando incurran en violación de la tarifa autorizada.
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. Por acumular dos suspensiones temporales de la licencia en el lapso de un año.
 
 ### CAPITULO VI. De la circulación
 
@@ -1195,9 +1231,11 @@ IV. Los permisos precisarán la causa que motive su expedición o prórroga; y
 
 V. Los permisos y los derechos derivados de los mismos, en ningún caso serán transmisibles, ni crearán derechos permanentes a favor de sus titulares.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1999)</small>
+
 ###### Artículo 97.
 
-Los titulares de concesiones y permisos de autos de alquiler, taxi o radiotaxi del servicio público de transporte, tendrán los siguientes derechos y obligaciones:
+Los titulares de concesiones y permisos de autos de alquiler, taxi o radio taxi y del servicio público colectivo de transporte, tendrán los siguientes derechos y obligaciones:
 
 I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su reglamento;
 
@@ -1229,7 +1267,9 @@ I. Formulará una lista de sucesión en la que consten los nombres de las person
 
 II. La lista de sucesión deberá ser depositada en el Registro Estatal o formalizada ante notario público; en este caso, el fedatario estará obligado a verificar el depósito de la lista en el Registro Estatal;
 
-III. Con las mismas formalidades, la lista de sucesión podrá ser modificada por el propio concesionario, cuando así lo determine, en cuyo caso será válida la de fecha posterior; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+III. Con las mismas formalidades, la lista de sucesión podrá ser modificada por el propio concesionario, cuando as¡ (sic) lo determine, en cuyo caso será válida la de fecha posterior. Para el caso de los permisionarios, éstos harán una lista de quiénes tienen derecho preferente a utilizar el permiso durante el resto de su vigencia, en caso de faltar el titular del mismo;
 
 IV. A falta de lista de sucesión, en el caso de fallecimiento de su titular, los derechos se transmitirán conforme a las disposiciones en materia de sucesiones, establecidas en la legislación civil.
 
@@ -1247,7 +1287,9 @@ El titular de una concesión o permiso, al término de ésta, podrá solicitar s
 
 A fin de obtener la prórroga de la concesión o permiso, su titular deberá:
 
-I. Presentar solicitud por escrito dentro de los sesenta días hábiles anteriores al vencimiento de la concesión o permiso, ante la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+I. Presentar solicitud por escrito dentro de los sesenta días hábiles anteriores al vencimiento de la concesión o, quince días anteriores del vencimiento del permiso, ante la dependencia del Ejecutivo del Estado, competente en materia de Vialidad, Tránsito y Transporte;
 
 II. Acreditar en la forma que precise el reglamento; y
 
@@ -1677,7 +1719,9 @@ IV. Una vez aprobadas las tarifas, entrarán en vigor quince días después de s
 
 Los concesionarios y en general los prestadores de servicios públicos de transporte, deberán de aplicar las tarifas autorizadas conforme a las disposiciones siguientes:
 
-I. Las cuotas o precios tabulados en las tarifas para el transporte de pasajeros son aplicables a los adultos. Para niños mayores de tres años y menores de diez, se aplicará media cuota y, para los menores de tres años, el servicio será gratuito;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+I. Las cuotas o precios tabulados en las tarifas para el transporte de pasajeros son aplicables a los adultos. Para los niños mayores de cinco años y menores de doce, se aplicará media cuota y, para los menores de cinco años, el servicio será gratuito;
 
 II. El transportista de carga, según las tarifas correspondientes a diversas clases de objetos, tendrá obligación de combinarlas, siempre y cuando esto resulte más ventajoso para el público que la aplicación de una tarifa aislada de una de ellas; y
 
@@ -1847,7 +1891,9 @@ II. El vehículo porte placas sobrepuestas;
 
 III. Carezca de los requisitos necesarios para circular, o contando con permiso vigente, se use con fines distintos a los estipulados en el mismo;
 
-IV. El vehículo se encuentre estacionado en lugar prohibido y exista señalamiento que advierta que será removido con grúa; o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones sin encontrarse en dicho lugar su conductor; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IV. El vehículo se encuentre estacionado en lugar prohibido, frente a cochera, estacionamiento exclusivo o abandonado en la vía pública; o en donde el estacionamiento del mismo provoque entorpecimiento a la circulación o molestias a los peatones, sin encontrarse en dicho lugar el conductor, y
 
 V. Sea reincidente en contaminar visiblemente, y lo solicite la autoridad competente en ecología ambiental.
 
@@ -1857,17 +1903,23 @@ Las autoridades estatales y municipales de vialidad y tránsito, en los casos pr
 
 I. La autoridad, a través de sus agentes, notificará al propietario del vehículo o a su conductor u operador que, con el carácter de medida de seguridad, el vehículo deberá ser retirado de la circulación, señalando los motivos e indicando su fundamento;
 
-II. En el mismo acto, el particular notificado deberá indicar el lugar a donde trasladará el vehículo, fuera de la vía pública;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-III. Sólo en caso de negativa del propietario, conductor u operador del vehículo, manifestada en forma expresa o tácita el agente de tránsito podrá ordenar se retire el vehículo de la vía pública, tomando las medidas necesarias para trasladarlo a un depósito público;
+II. En el mismo acto, el particular notificado deberá indicar el depósito público al cual deberán trasladar el vehículo;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+III. Sólo en caso de negativa del propietario, conductor u operador del vehículo, manifestada en forma expresa o tácita o, en caso de ausencia de éste, el agente de tránsito podrá ordenar se retire el vehículo de la vía pública, tomando las medidas necesarios (sic) para trasladarlo a un depósito público;
 
 IV. En el caso previsto en la fracción IV, del artículo anterior, si el conductor llegare cuando se estén realizando las maniobras para retirar el vehículo, podrá recuperarlo de inmediato previo pago contra recibo que le expida el servicio de grúa, sin perjuicio de las infracciones en que haya incurrido; y
 
 V. En todo caso, el agente de tránsito que intervenga levantará el acta correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1999)</small>
+
 ###### Artículo 158.
 
-Las autoridades de vialidad y tránsito, como medida de seguridad, podrán retirar un vehículo de la circulación, en contra de la voluntad de su propietario o conductor, única y exclusivamente en los supuestos siguientes:
+Las autoridades de vialidad y tránsito, como medida de seguridad, podrán retirar un vehículo de la circulación y trasladarlo a un depósito público, en contra de la voluntad de su propietario o conductor, en los supuestos siguientes:
 
 I. Participación en flagrante delito en el que el vehículo sea instrumento del mismo;
 
@@ -1877,11 +1929,17 @@ III. Acatamiento de una orden judicial; y
 
 IV. Violación, por el conductor, de una medida de seguridad aplicada conforme a los artículos que anteceden.
 
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+V. En los supuestos del artículo 156, fracciones I, II y III de esta ley, cuando no demuestre la posesión o legal propiedad del vehículo.
+
 Las autoridades de vialidad y tránsito, en ningún otro caso de los antes previstos, podrán retener un vehículo.
+
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 159.
 
-Las autoridades de vialidad y tránsito, no están autorizadas para recoger al operador o conductor, su licencia, permiso, gafete de identificación, tarjeta de circulación y cualquier otro documento.
+Las autoridades de vialidad y tránsito, no están autorizadas para recoger al operador o conductor, su licencia, permiso, gafete de identificación, tarjeta de circulación y cualquier otro documento, con excepción de los vehículos de transporte público, de carga o de pasajeros.
 
 ### CAPITULO IV. De las sanciones administrativas en materia del servicio público del transporte
 
@@ -1921,9 +1979,33 @@ III. Falta parcial de luces;
 
 IV. Usar cristales u otros elementos que impidan totalmente la visibilidad hacia el interior del vehículo;
 
-V. No disponer de un seguro que cubra los posibles daños a terceros; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-VI. Estacionarse en sentido contrario a la circulación.
+V. No disponer de un seguro que cubra los posibles daños a terceros;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. Estacionarse en sentido contrario a la circulación;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VII. No usar el cinturón de seguridad, tanto el conductor como sus acompañantes;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VIII. Circular en reversa más de diez metros;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IX. Dar vuelta prohibida;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+X. Producir ruido excesivo con claxon o mofle; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XI. Falta de una placa de circulación.
 
 ###### Artículo 163.
 
@@ -1949,17 +2031,37 @@ IX. Estacionarse en lugares reservados para vehículos conducidos por personas c
 
 X. Modificar, sin autorización oficial, las características del vehículo previstas en el reglamento de esta Ley;
 
-XI. Transportar carga en forma distinta a la señalada por el reglamento; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-XII. No respetar las indicaciones de los oficiales y agentes de vialidad y tránsito.
+XI. Transportar carga en forma distinta a la señalada por el reglamento;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XII. No respetar las indicaciones de los oficiales y agentes de vialidad y tránsito;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XIII. Invadir zona peatonal;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XIV. No hacer alto en vías férreas,
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XV. Estacionarse obstruyendo cochera o estacionamiento exclusivo; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XVI. Mover o trasladar maquinaria pesada con rodamiento neumático y equipo móvil especial, sin el permiso correspondiente.
 
 ###### Artículo 164.
 
 Se sancionará con multa equivalente a cinco días de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
 
-I. No portar la calcomanía correspondiente al refrendo
+I. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
-II. Falta de revista en vehículo de servicio público;
+II. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
 III. No manifestar la baja del vehículo o el cambio de domicilio del propietario;
 
@@ -1985,11 +2087,21 @@ XIII. Subir y bajar pasaje en lugar distinto del autorizado, en el caso de trans
 
 XIV. Circular con alguna de las puertas abiertas;
 
-XV. Los vehículos de carga pesada y los destinados al servicio público foráneo, circular en zona prohibida;
+XV. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
-XVI. Negarse injustificadamente a recibir carga o a levantar pasaje; y
+XVI. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
-XVII. Proferir ofensas al personal operativo de vialidad y tránsito, mismas que deberán ser comprobadas.
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XVII. Proferir ofensas al personal operativo de vialidad y tránsito, mismas que deberán ser comprobadas;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XVIII. Rebasar por la derecha; y,
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+XIX. Cambiar de carril sin precaución.
 
 ###### Artículo 165.
 
@@ -2001,11 +2113,17 @@ Se sancionará con multa equivalente a doce días de salario mínimo general, vi
 
 I. Falta total de luces;
 
-II. Al conductor de un vehículo de motor que exceda, en más de veinte kilómetros por hora, el límite máximo de velocidad permitida en zona urbana. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitalarios, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
 
-III. Al conductor de un vehículo de motor que exceda, en más de veinte kilómetros por hora, el límite máximo permitido de velocidad en viaductos o caminos vecinales, siempre que existan señalamientos en donde se anuncie el dicho límite máximo de velocidad; y
+II. Al conductor de un vehículo de motor que exceda, en más de diez kilómetros por hora, el límite máximo de velocidad permitida en zona urbana. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitalarios, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida;
 
-IV. Al conductor que maneje en sentido contrario, o al que injustificadamente invada el sentido contrario para rebasar, en arterias de doble o múltiple circulación, en zona urbana.
+III. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
+
+IV. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+V. Por moverse de lugar de un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito.
 
 ###### Artículo 167.
 
@@ -2013,7 +2131,29 @@ Se sancionará con multa equivalente a quince días de salario mínimo general, 
 
 I. No coincidir la tarjeta de circulación o calcomanía con el número de placas; y
 
-II. A la persona que conduzca un vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos, en los términos que señale el reglamento de esta Ley, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en arresto administrativo de veinticuatro horas o cuatro jornadas de trabajo de índole social, en materia de vialidad y tránsito. La licencia o permiso del conductor podrá ser suspendida en los términos del tercer párrafo del artículo 170 de esta Ley; y (sic).
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+II. A la persona que conduzca un vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos, conforme lo establezca el reglamento de esta ley, pudiéndose aplicar sanción alternativa, a elección del infractor, consistente en arresto administrativo de veinticuatro horas o cuatro jornadas de trabajo de índole social, en materia de vialidad y tránsito. La licencia o permiso del conductor podrá ser suspendida en los términos del tercer párrafo del artículo 170 del presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+III. Circular sin placas o placas vencidas;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+IV. Hacer mal uso de las placas demostración;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+V. Impedir el paso a vehículos de emergencia;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VI. Al conductor de un vehículo que exceda, en más de diez kilómetros por hora, el límite máximo permitido de velocidad en viaductos o caminos vecinales, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad; y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+
+VII. Al conductor que maneje en sentido contrario o, al que injustificadamente invada el sentido contrario para rebasar en arterias de doble o múltiple circulación, en zona urbana.
 
 ###### Artículo 168.
 
@@ -2029,17 +2169,17 @@ II. Realizar el servicio en vehículos distintos a los autorizados; y
 
 III. Realizar, sin tener concesión o permiso, el servicio público de transporte.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 1999)</small>
+
 ###### Artículo 170.
 
-En caso de reincidencia en las infracciones previstas en los artículos 161 al 167 de la presente Ley, cometidas dentro de los doce meses siguientes, se duplicará el importe de la multa correspondiente.
+En caso de reincidencia en las infracciones previstas en el presente capítulo, cometidas dentro de los siguientes tres meses siguientes (sic), se duplicará el importe de la multa correspondientes (sic).
 
-En caso de reincidencia en las infracciones previstas en las fracciones II y III del artículo 166 de esta Ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto administrativo de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de vialidad y tránsito.
+En caso de reincidencia en las infracciones previstas en las fracciones VI y VII del artículo 167 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de vialidad y tránsito.
 
-Al conductor que siendo reincidente según el párrafo anterior, nuevamente incurra en la comisión de las mismas infracciones señaladas, dentro de los sesenta días siguientes, contados a partir de la fecha en que haya sido sancionado como reincidente, se le suspenderá la licencia o permiso hasta por seis meses. Si el infractor incurre dos veces en el mismo motivo de suspención, la licencia le será cancelada definitivamente, mediante resolución administrativa debidamente fundada y motivada del titular de la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte. Para el otorgamiento de una nueva licencia al infractor, tendrá que transcurrir por lo menos un año después de la cancelación, y satisfacer todos los requisitos necesarios para la obtención de una licencia.
+Tratándose de la infracción contenida en la fracción II del Artículo 167, al reincidente dentro de los treinta días siguientes o al grado de ebriedad, se le sancionará además con arresto administrativo inconmutable de 36 horas, y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
-Tratándose de la infracción contenida en la fracción II del Artículo 167, al reincidente dentro de los treinta días siguientes, se le sancionará con arresto administrativo inconmutable de 36 horas y, de volver a reincidir dentro de los treinta días siguientes, independientemente del arresto administrativo inconmutable de treinta y seis horas, se le cancelará definitivamente su licencia con el mismo procedimiento señalado en el párrafo anterior, y solamente podrá proporcionársele una licencia nueva, con los mismos requisitos señalados, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
-
-Por la reincidencia en las infracciones previstas en los artículos 169, cometidas dentro de los treinta días siguientes, la sanción se incrementará en cien días de salario mínimo general vigente en la zona en que se cometa la infracción.
+Por la reincidencia en las infracciones previstas en los Artículos 165, 166 fracción II, 167 fracción II y VI, y 169, cometidas por, conductores del servicio público de transporte colectivo de pasajeros, dentro de los treinta días siguientes, la sanción se incrementará en cien días de salario mínimo general vigente en la zona en que se cometa la infracción.
 
 ### CAPITULO V. De las infracciones, de su calificación, aplicación y ejecución de las sanciones correspondientes
 
@@ -2372,3 +2512,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ABRIL DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", a excepción de lo dispuesto en la fracción V del artículo 162 del presente, que entrará en vigor a partir de los seis meses posteriores a su publicación.
