@@ -4,7 +4,7 @@ identifier: "FED-ley-de-pesca-97"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-25"
-last_updated: "1992-06-25"
+last_updated: "2000-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-23"
 
 LEY DE PESCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 25 de junio de 1992.
 
@@ -51,7 +51,9 @@ Las disposiciones de esta Ley tendrán aplicación en las aguas de jurisdicción
 
 La aplicación de la presente Ley corresponde a la Secretaría de Pesca, sin perjuicio de las facultades atribuidas a otras dependencias de la Administración Pública Federal, las que deberán establecer la coordinación necesaria con esta Secretaría, la cual estará facultada para:
 
-I. Elaborar, publicar y mantener actualizada la Carta Nacional Pesquera que contenga el inventario de recursos pesqueros en aguas de jurisdicción federal, susceptibles de aprovechamiento;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+I. La Secretaría de Medio Ambiente y Recursos Naturales sancionará la Carta Nacional Pesquera que elaborará, publicará y mantendrá actualizada la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 II. Promover la construcción, mejora y equipamiento de embarcaciones y artes de pesca, así como de las obras de infraestructura en aguas de jurisdicción federal, portuaria e industrial necesarias para impulsar el aprovechamiento, transformación, distribución y comercialización de la flora y fauna acuáticas, proponer la creación de zonas portuarias pesqueras y participar en su administración;
 
@@ -59,9 +61,15 @@ III. Promover el consumo interno de una mayor variedad de productos y subproduct
 
 IV. Promover el desarrollo de la acuacultura en coordinación con otras dependencias del Ejecutivo Federal, Estatal y Municipal;
 
-V. Dictar medidas tendientes a la protección de los quelonios, mamíferos marinos y especies acuáticas sujetas a protección especial o en peligro de extinción y participar con las dependencias competentes, en la determinación de estas dos últimas;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
-VI. Fijar los métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca; regular la creación de áreas de refugio, para proteger las especies acuáticas que así lo requieran, así como establecer las épocas y zonas de veda;
+V. Será atribución de la Secretaría de Medio Ambiente y Recursos Naturales dictar las medidas tendientes a la protección de los quelonios, mamíferos marinos y especies acuáticas sujetas a protección especial o en peligro de extinción y participar con las dependencias competentes en la determinación de éstas dos últimas. Asimismo establecerá las vedas totales o parciales referentes a estas especies;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+VI. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación fijará los métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales; regulará la creación de áreas de refugio, para proteger las especies acuáticas que así lo requieran, y establecerá las épocas y zonas de veda;
+
+Asimismo, por lo que se refiere únicamente al ejercicio de las facultades anteriores, se confiere a la citada Secretaría las facultades contenidas en los capítulos cuarto y quinto de la Ley de Pesca.
 
 VII. Determinar, de acuerdo con las condiciones técnicas y naturales, las zonas de captura y cultivo, las de reserva en aguas interiores y frentes de playa para la recolección de postlarvas, crías, semillas y otros estadios biológicos, así como las épocas y volúmenes a que deberá sujetarse la colecta;
 
@@ -374,3 +382,29 @@ En tanto se expide el Reglamento de la presente Ley, continuará aplicándose, e
 México, D.F., a 9 de junio de 1992.- Dip. Pablo Emilio Madero Belden, Presidente.- Sen. Gustavo Guerrero Ramos, Presidente.- Dip. Alberto Alejandro Rébora González, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas." (sic)
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación.- Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, asuman tales funciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto, se deberá crear la Entidad Pública señalada en la fracción XXI del artículo 35 de la Ley Orgánica de la Administración Pública.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando en la Ley de Pesca se mencione a la desaparecida Secretaría de Pesca, deberá entenderse como Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
