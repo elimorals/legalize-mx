@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2000-06-12"
+last_updated: "2003-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO FISCAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE DICIEMBRE DE 2003.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -853,7 +853,9 @@ III.- Se dé alguna de las siguientes irregularidades:
 
 a).- Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más de 3% sobre los declarados en el período objeto de revisión;
 
-b).- Registro de compras, no realizadas o no recibidas; y,
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+b).- Registro de compras, gastos o servicios no realizados o no recibidos; y,
 
 c).- Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios.
 
@@ -883,17 +885,7 @@ Para efectos de la determinación presuntiva a que se refiere este artículo, la
 
 ###### ARTÍCULO 72.
 
-Cuando en el desarrollo de una visita en el domicilio fiscal, las autoridades fiscales se den cuenta de que el visitado se encuentra en alguna de las causales de determinación presuntiva señalada en el artículo 69 de este Código, siempre que tengan elementos suficientes para apreciar en lo fundamental la situación fiscal del visitado, dichas autoridades podrán proceder conforme a lo siguiente:
-
-I.- En un plazo que no excederá de tres meses después de iniciada una visita en el domicilio fiscal, le notificará a éste, mediante acta parcial, que se encuentra en posibilidad de que se le aplique la determinación presuntiva a que se refiere el artículo 69 de este Código;
-
-II.- Dentro de los quince días siguientes a la fecha de notificación del acta parcial, el visitado podrá corregir su situación fiscal en las distintas contribuciones que se causen por el período sujeto a revisión, mediante la presentación de declaraciones normales y complementarias que corrijan su situación fiscal, de la que proporcionará copia a los visitadores. Dicho plazo podrá prorrogarse por una sola vez por quince días más;
-
-III.- A juicio de las autoridades fiscales, se podrá concluir anticipadamente la visita o continuarla, aun cuando en este último caso, el contribuyente hubiera corregido su situación fiscal en los términos de la fracción anterior. En el primer caso levantarán el acta final haciendo constar sólo el hecho de que el contribuyente corrigió su situación fiscal. En el caso de que las autoridades continúen la visita, deberán hacer constar en el acta final todas las irregularidades que hubieran encontrado y señalarán aquéllas que hubiera corregido el visitado;
-
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo periodo y por las mismas contribuciones.
-
-Lo dispuesto en este artículo no es aplicable cuando se esté en los supuestos de agravante señalados en el artículo 86 de este Código.
+(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003).
 
 ###### ARTÍCULO 73.
 
@@ -909,7 +901,9 @@ IV.- Que son ingresos y valor de actos o actividades de la empresa por los que d
 
 V.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos y valor de actos o actividades del último ejercicio que se revisa por los que se deban pagar contribuciones;
 
-VI.- Que los cheques librados contra las cuentas del contribuyente a proveedores, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas por los que el contribuyente obtuvo ingresos; y,
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+VI.- Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas o por servicios por los que el contribuyente obtuvo ingresos; y
 
 VII.- Que los inventarios de materias primas, productos semiterminados y terminados, los activos fijos, gastos y cargos diferidos que obren en poder del contribuyente, así como los terrenos donde desarrolle su actividad son de su propiedad. Los bienes a que se refiere este párrafo se valuarán a sus precios de mercado y en su defecto al de avalúo.
 
@@ -949,23 +943,39 @@ Las copias o reproducciones que deriven del microfilm o disco óptico de documen
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos, que la negativa implique la afirmación de otro hecho.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 78.
 
-La Secretaría de Finanzas, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de treinta y seis meses, de conformidad con lo siguiente:
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de treinta y seis meses, de conformidad con lo siguiente:
 
-I.- Las autoridades fiscales al autorizar el pago a plazos exigirán que se garantice el interés fiscal en alguna de las formas previstas en el artículo 130 de este Código;
+I.- La primera parcialidad será el resultado de aplicar un porcentaje no inferior del 30% al saldo del adeudo inicial a la fecha de autorización.
 
-Durante los plazos concedidos se causarán intereses conforme a la tasa que fije anualmente la Ley de Ingresos del Estado; y,
+Para efectos de esta fracción, el saldo del adeudo inicial a la fecha de autorización, se integrará por la suma de los siguientes conceptos:
 
-II.- Quedará revocada la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+a).- El monto de las contribuciones omitidas desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización.
 
-a).- Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente;
+b).- Las multas que correspondan desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización.
 
-b).- El contribuyente sea declarado en quiebra o solicite su liquidación judicial;
+c).- Los accesorios distintos de las multas que tenga a su cargo el contribuyente.
 
-c).- El contribuyente deje de cubrir alguna parcialidad;
+El saldo que se utilizará para el cálculo de las parcialidades restantes, será el resultado de restar la primera parcialidad al saldo del adeudo inicial a que se refiere el primer párrafo de esta fracción.
 
-d).- Cuando el interesado, durante la prórroga o la autorización, incurra en incumplimiento de pagos derivados de la misma Ley Fiscal;
+La segunda y siguientes parcialidades se calcularán tomando en consideración el saldo a que se refiere el párrafo anterior y la tasa de recargos por prórroga determinados conforme a la Ley de Ingresos del Estado, misma que se aplicará sobre saldos insolutos para cada una de las citadas parcialidades.
+
+Cuando no se paguen oportunamente los montos de las parcialidades autorizadas, el contribuyente estará obligado a pagar recargos por prórroga sobre la totalidad de la parcialidad no cubierta oportunamente.
+
+II.- Las autoridades fiscales al autorizar el pago a plazos, ya sea en forma diferida o en parcialidades, exigirán que se garantice el interés fiscal dentro de los treinta días siguientes a la fecha en que hubiere sido autorizada la solicitud de pago a plazos, en los términos de este Código.
+
+III.- Quedará revocada la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+
+a).- No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+
+b).- El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
+
+c).- El contribuyente deje de pagar tres parcialidades.
+
+En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo insoluto mediante el procedimiento administrativo de ejecución.
 
 ###### ARTÍCULO 79.
 
@@ -1099,7 +1109,9 @@ Cuando la comisión de una o varias infracciones origine la omisión total o par
 
 I.- Del 40% al 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió;
 
-II.- Del 70% al 100% de las contribuciones omitidas, actualizadas, en los demás casos;
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+II.- Del 70% al l00% de las contribuciones omitidas, en los demás casos;
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porciento que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
 
@@ -1113,17 +1125,25 @@ En los casos a que se refiere el artículo 87 de este Código, las multas se aum
 
 I.- Se aumentarán:
 
-a).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en la fracción IV del artículo 86;
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-b).- En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo 86 de este Código; y,
+a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en la fracción IV del Artículo 86;
 
-c).- En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 86 de este Código.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+b).- De un 60% a un 90% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del Artículo 86 de este Código; y,
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+c).- De un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 86 de este Código.
 
 Tratándose de los casos comprendidos en las fracciones I y II del artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente; y,
 
 II.- Se disminuirán:
 
-a).- En un 20% el monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del artículo 87 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del Artículo 87 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los treinta días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
 
 ###### ARTÍCULO 89.
 
@@ -1257,15 +1277,19 @@ II.- La mayor que resulte entre 10 veces el salario mínimo o el 15% de las cont
 
 III.- La mayor que resulte entre 10 veces el salario mínimo o el 20% de las contribuciones no pagadas, para las señaladas en los artículos 90 fracción XVI y 91 fracción IV;
 
-IV.- De 22 veces el salario mínimo, a las señaladas en los artículos 90 fracción I y 91 fracción I;
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-V.- De 25 veces el salario mínimo a la señalada en el artículo 90 fracción III;
+IV.- De 22 a 32 veces el salario mínimo, a las señaladas en los Artículos 90 fracción I y 91 fracción I;
+
+> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+V.- De 25 a 35 veces el salario mínimo a la señalada en el Artículo 90 fracción III;
 
 VI.- De 2.2 A 44 veces el salario mínimo, a la señalada en el artículo 90 fracción II;
 
 VII.- De 2.5 A 25 veces el salario mínimo, a las señaladas en los artículos 90 fracciones V, VI, VII, VIII, XI, XII, XX y XXI y 91 fracción V y X;
 
-VIII.- De 2.5 A 63 veces el salario mínimo, a las señaladas en el artículo 90 fracciones IX y X;
+VIII.- De 2.5 A 63 veces el salario mínimo, a las señaladas en el artículo 90 fracciones IX y X.
 
 IX.- De 12.5 A 125 veces el salario mínimo, a las señaladas en los artículos 91 fracción VII y 92 fracciones I, II, III, VI y VII;
 
@@ -1637,7 +1661,9 @@ III.- En la casa habitación del interesado en caso de no estar la autoridad en 
 
 IV.- En el domicilio que hubiere señalado para oír o recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o de la resolución de la instancia o del procedimiento respectivo. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias o procedimientos administrativos, el que la dirección del interesado aparezca impresa en la promoción respectiva;
 
-En los casos a que se refieren las fracciones II, III y IV de este artículo, las notificaciones se harán a quien deba notificarse, a su representante o a la persona autorizada para ello; a falta de dichas personas, el notificador dejara citatorio con quien se encuentre en el domicilio del que se trate o con un vecino, para que se le espere a una hora fija del día siguiente.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+En los casos a que se refieren las fracciones II, III y IV de este artículo, las notificaciones se harán a quien deba notificarse, a su representante o a la persona autorizada para ello; a falta de dichas personas, el notificador dejará citatorio con quien se encuentre en el domicilio del que se trate o con un vecino, para que se le espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días a las oficinas de las autoridades fiscales estatales. Se exceptúan las notificaciones ante las autoridades fiscales, tratándose de actos relativos al procedimiento administrativo de ejecución.
 
 Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia o en su defecto con un vecino y, en caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
 
@@ -1647,7 +1673,9 @@ De las diligencias en que conste la notificación o cita, el notificador tomara 
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca este Código.
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento la cantidad de $ 30.00 por concepto de honorarios de notificación, misma que la autoridad recaudadora determinará conjuntamente con la notificación y se pagará al cumplir con el requerimiento. Dicha cantidad se actualizará semestralmenle de conformidad con el Artículo 149 de este ordenamiento.
 
 ###### ARTÍCULO 128.
 
@@ -1682,6 +1710,10 @@ En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la
 Las garantías subsistirán hasta que proceda su cancelación en los términos de este Código.
 
 Los gastos que se originen con motivo de la garantía serán por cuenta del interesado.
+
+> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
+La garantía deberá constituirse dentro de los treinta días siguientes a la fecha en que se hubiere notificado por la autoridad fiscal estatal la resolución sobre la cual se deba garantizar el interés fiscal.
 
 ###### ARTÍCULO 131.
 
@@ -1859,13 +1891,15 @@ La vigencia y exigibilidad del crédito cuya preferencia se invoque deberá comp
 
 En ningún caso el fisco estatal entrará en los juicios universales. Cuando se inicie juicio de quiebra, suspensión de pagos o de concurso, el Juez que conozca del asunto deberá dar aviso a las autoridades fiscales para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 149.
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
 
 I.- Por el requerimiento señalado en el primer párrafo del artículo 151 de este Código;
 
-II.- Por la de embargo, incluyendo el señalado en el artículo 130, fracción V de este Código; y,
+II.- Por la de embargo, incluyendo el señalado en el artículo 130, fracción V de este Código; y
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
@@ -1873,7 +1907,13 @@ Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferio
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $13,000.00.
 
+Las cantidades en pesos a que se refieren los párrafos segundo y tercero de este artículo, se actualizarán en los meses de enero y julio de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
+
+El factor aplicable para el mes de enero, será el que resulte de dividir el índice nacional de precios al consumidor del mes de noviembre inmediato anterior entre el mes de junio inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice nacional de precios al consumidor del mes de mayo entre el del mes de diciembre inmediato anterior.
+
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en el artículo 130 fracción V de este Código, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
+
+Cuando el requerimiento y el embargo a que se refiere este artículo se lleven a cabo en una misma diligencia se efectuará un solo cobro por concepto de gastos de ejecución.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
@@ -2803,25 +2843,47 @@ La audiencia deberá suspenderse cuando no se hayan resuelto los incidentes de p
 
 Instruido el proceso y declarados vistos los autos, se dictará sentencia, para lo cual el Tribunal contará con un término de cinco días hábiles.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 249.
 
-Serán causa de anulación de un auto, resolución o de un procedimiento administrativo:
+Se declarará que una resolución administrativa es nula cuando se demuestre alguna de las siguientes causales:
 
-I.- Incompetencia del funcionario o empleado que haya dictado el acuerdo, realizado el acto o que haya tramitado el procedimiento impugnado;
+I.- Incompetencia del funcionario que la haya dictado u ordenado o tramitado el procedimiento del que deriva dicha resolución.
 
-II.- Omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución o el procedimiento impugnado;
+II.- Omisión de los requisitos formales exigidos por las leyes, que afecte las defensas del particular y trascienda al sentido de la resolución impugnada, inclusive la ausencia de fundamentación o motivación, en su caso.
 
-III.- Violación de la disposición aplicada, o no haberse aplicado la disposición debida;
+III.- Vicios del procedimiento que afecten las defensas del particular y trasciendan al sentido de la resolución impugnada.
 
-V.- Desvió de poder, tratándose de sanciones.
+IV.- Si los hechos que la motivaron no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien si se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas.
+
+V.- Cuando la resolución administrativa dictada en ejercicio de facultades discrecionales no corresponda a los fines para los cuales la Ley confiera dichas facultades.
+
+El Tribunal Contencioso Administrativo podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada y la ausencia total de fundamentación o motivación en dicha resolución.
 
 ###### ARTÍCULO 250.
 
 Las sentencias del Tribunal de lo Contencioso Administrativo se fundarán en derecho y se examinarán todos y cada uno de los puntos controvertidos de la resolución, la demanda y la contestación; en sus puntos resolutivos expresarán con claridad los actos o procedimientos cuya nulidad se declare o cuya validez se reconozca.
 
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 251.
 
-Cuando la sentencia declare la nulidad y salvo que se limite a mandar reponer el procedimiento o a reconocer la ineficacia del acto en los casos en que la autoridad haya demandado la anulación de una resolución favorable a un particular, indicará los términos conforme a los cuales debe dictar nueva resolución la autoridad fiscal.
+La sentencia definitiva podrá:
+
+I.- Reconocer la validez de la resolución impugnada.
+
+II.- Declarar la nulidad de la resolución impugnada.
+
+III.- Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad deba cumplirla, salvo que se trate de facultades discrecionales.
+
+IV.- Declarar la existencia de un derecho subjetivo y condenar al cumplimiento de una obligación, así como declarar la nulidad de la resolución impugnada.
+
+Si la sentencia obliga a la autoridad a realizar un determinado acto o iniciar un procedimiento, deberá cumplirse en un plazo de cuatro meses contados a partir de que la sentencia quede firme. Dentro del mismo término deberá emitir la resolución definitiva, aun cuando hayan transcurrido los plazos señalados en los Artículos 59 y 79, de este Código.
+
+En el caso de que se interponga recurso, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
+
+Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III del Artículo 249 de este Código, el Tribunal Contencioso Administrativo declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, también podrá indicar los términos conforme a los cuales debe dictar su resolución la autoridad administrativa, salvo que se trate de facultades discrecionales.
 
 T R A N S I T O R I O S
 
@@ -2856,3 +2918,11 @@ Comuníquese al Ejecutivo para su sanción y promulgación.-
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 18 de mayo de 2000.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE. ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- LV LEGISLATURA.- DIPUTADO PRESIDENTE.- C. JUAN EDMUNDO LOPEZ DURAND.- RUBRICA.- DIPUTADO SECRETARIO.- C. JULIO ALFONSO MARTINEZ ROMERO.- RUBRICA.- DIPUTADO SECRETARIO.- C. JESUS ORTIZ FELIX.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veintiséis de mayo del dos mil.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 18 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del primero de enero de 2004, previa su publicación en el Boletín Oficial del Gobierno del Estado.
