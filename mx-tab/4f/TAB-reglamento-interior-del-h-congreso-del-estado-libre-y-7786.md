@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1995-04-22"
+last_updated: "1997-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -633,6 +633,24 @@ C).- Organizar junto con las comisiones pertinentes, audiencias públicas sobre 
 
 D).- Concertar acciones desde el ámbito del Poder Legislativo, para fortalecer la participación de los ciudadanos y las organizaciones sociales en la vida institucional del Estado de Tabasco.
 
+> <small>N. DE E. SE CARECE DE LA INFORMACIÓN QUE PRECISE CUANDO FUERON ADICIONADAS LAS FRACCIONES XXVI Y XVII. NO SE HA RECIBIDO PUBLICACIÓN OFICIAL AL RESPECTO. SE SUGIERE CONSULTAR LA PÁGINA ELECTRÓNICA DEL CONGRESO DEL ESTADO DE TABASCO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XXVIII. Del Instituto de Investigaciones Legislativas:
+
+A T R I B U C I O N E S
+
+a) Establecer los criterios académicos de planeación, desarrollo y control de la operatividad del Instituto;
+
+b) Coordinar y vigilar las actividades y funciones del Instituto;
+
+c) Recibir las solicitudes de las Comisiones Permanentes y de los Diputados en particular para que el Instituto les preste asesoría y apoyo en materia legislativa;
+
+d) Autorizar los convenios de cooperación con otras Instituciones y Organismos;
+
+e) Revisar el plan anual de trabajo del Instituto que someta a su consideración el Director General.
+
 ### CAPITULO XI. DE LAS SESIONES
 
 ###### ARTICULO 64.
@@ -1052,3 +1070,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 22 DE ABRIL DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 6° DEL CODIGO CIVIL PARA EL ESTADO DE TABASCO.
+
+P.O. 15 DE FEBRERO DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
