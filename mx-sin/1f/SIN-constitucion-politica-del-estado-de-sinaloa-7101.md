@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1922-06-22"
+last_updated: "1928-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 1928.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -99,13 +99,7 @@ A. Estar en pleno uso de sus derechos.
 
 B. No ser ministro de culto alguno.
 
-C. Poseer los grados de instrucción necesaria, como sigue:
-
-(1.) Para Síndicos y Comisarios Municipales, cuando menos saber leer y escribir, comprobado ante quien califique la elección.
-
-(2.) Para Diputados y Regidores Municipales, cuando menos, poseer los conocimientos que comprende la instrucción primaria elemental, acreditados debidamente ante quien califique la elección.
-
-(3.) Para Gobernador del Estado, poseer los conocimientos que comprende la instrucción primaria superior, acreditados debidamente ante la Legislatura que califique la elección.
+C. (DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
@@ -203,9 +197,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de Representantes electos popularmente cada cuatro años, cuyo personal se renovará por mitades, alternando cada dos años.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 24.
 
-En cada Distrito Electoral de veinticuatro mil habitantes, o fracción que pase de siete mil, de acuerdo con el último censo del Estado, se eligirá un Diputado propietario, y su respectivo Suplente. Este cubrirá las faltas de aquél: si son temporales, por mientras duren y si son absolutas, por todo el tiempo necesario para que se verifique la elección popular del nuevo propietario.
+En cada Distrito Electoral, se eligirá (sic) un Diputado Propietario y su respectivo Suplente. Este cubrirá las faltas de aquel: si son temporales, por mientras duren y si son absolutas, por todo el tiempo necesario para que se verifique la elección popular del nuevo propietario.
 
 ###### Art. 25.
 
@@ -217,7 +213,9 @@ II. Ser nativo del Distrito Electoral o avecindado en él cuando menos seis mese
 
 III. Ser mayor de veinticinco años en la fecha de la elección.
 
-IV. No podrá ser electo y será nula la elección que en su favor recayere: el Gobernador del Estado, los Jefes de los Departamentos Gubernativos, los Magistrados del Supremo Tribunal de Justicia del Estado, los Recaudadores de Rentas y Jueces de Primera Instancia por el Distrito en que se extiendan sus jurisdicciones legales y los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o gendarmería del Estado o del Municipio en el distrito electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de sus cargos, cuando menos seis meses antes del día de la elección.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, los Jefes de los Departamentos Gubernativos, los Magistrados del Supremo Tribunal de Justicia del Estado, los Recaudadores de Rentas, Jueces de Primera Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o Gerdarmería (sic) del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos seis meses antes del día de la elección.
 
 ###### Art. 26.
 
@@ -267,9 +265,11 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de septiembre y terminará el quince de enero siguiente, y el segundo principiará el quince de marzo y concluirá el quince de mayo inmediato.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 37.
 
-En el primer período se ocupará preferentemente el Congreso de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de uno y otros, antes del quince de septiembre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán los vigentes como prorrogados mientras que no se aprueben los nuevos. En el segundo período revisará la cuenta pública del año anterior, que deberá ser presentada al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto, sino que se extenderá al examen y justificación de los gastos hechos y a la determinación de las responsabilidades que resulten. En ambos períodos se ocupará además, de estudiar, discutir y votar, las iniciativas de ley que se presenten y resolver todos los asuntos que le correspondan.
+En el primer período se ocupará preferentemente el Congreso, de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de uno y otros, antes del quince de septiembre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán los vigentes como prorrogados mientras no se aprueben los auevos (sic). En el segundo período revisará la cuenta pública del Estado y la de los Municipios, del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará además, de estudiar, discutir y votar las iniciativas de ley que se presenten y de resolver todos los asuntos que le corresponden.
 
 ###### Art. 38.
 
@@ -311,7 +311,7 @@ I. Proveer a todo lo necesario para su régimen interior.
 
 II. Expedir, interpretar, reformar y abrogar leyes y decretos, en todos los ramos de la Administración Pública del Estado.
 
-III. Decretar el establecimiento o construcción de toda clase de obras materiales e instituciones de interés público, autorizando los gastos necesarios y asignando los recursos suficientes.
+III. Decretar el establecimiento o construcción de toda clase de obras materiales e instituciones de interés público, autorizando los gastos necesariss (sic) y asignando los recursos suficientes.
 
 IV. Iniciar leyes o sus reformas ante el Congreso de la Unión.
 
@@ -328,6 +328,10 @@ VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, s
 (C.) Que la erección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
 (D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+VII Bis. Suprimir Municipalidades que no llenen los requisitos de la fracción anterior, pudiendo el mismo Congreso, en este caso, hacer la nueva división política que corresponda.
 
 VIII. Ratificar o nó la erección de Sindicaturas y Comisarías que propongan los Ayuntamientos, o la supresión o modificación de las existentes, determinación de sus demarcaciones y designación de sus cabeceras.
 
@@ -357,7 +361,9 @@ XX. Conocer de las acusaciones por delitos comunes y oficiales de los funcionari
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-XXII. Revisar anualmente, por medio de la Contaduría mayor de Hacienda, la cuenta general de Gastos del Estado, que presente el Ejecutivo y hacer la glosa preventiva de los movimientos mensuales, girando las observaciones que procedan y exigiendo las responsabilidades que resulten, o expidiendo el finiquito en caso de aprobación.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+XXII. Revisar anualmente, por medio de la Contaduría Mayor de Hacienda, la cuenta general de gastos del Estado que presente el Ejecutivo, y las de los Municipios que presenten los Ayuntamientos, así como hacer la glosa preventiva de los movimientos mensuales, girando las observaciones que procedan y exigiendo las responsabilidades que resulten o expidiendo el finiquito en caso de aprobación.
 
 XXIII. Autorizar al Gobernador para que celebre empréstitos en nombre del Estado y aprobar o no los contratos respectivos.
 
@@ -369,7 +375,9 @@ XXVI. Señalar anualmente a los Ayuntamientos, los ramos necesarios sobre los cu
 
 XXVII. Facultar al Ejecutivo del Estado para que con las limitaciones que sean necesarias, represente a éste por sí o apoderado especial, en los casos en que corresponda.
 
-XXVIII. Conceder premios y recompensas a los que hayan prestado servicios eminentes al Estado y jubilaciones a los funcionarios y empleados de la manera que determinen las leyes.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Estado, a los que hayan prestado servicios eminentes al mismo, y jubilaciones que también sean previamente propuestas por el Ejecutivo, a los funcionarios y empleados de la manera que determinan las leyes.
 
 XXIX. Conceder amnistía por delitos políticos e indultos y conmutación de penas, en los del orden común.
 
@@ -380,6 +388,10 @@ XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la 
 XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en los casos que no haya una ley especial que las determine.
 
 XXXIII. Expedir todas las leyes que sean necesarias y propias para hacer efectivas las facultades anteriores y todas las otras que correspondan a los Poderes del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+XXXIII Bis. Resolver en definitiva sobre la validez o nulidad de las elecciones de Ayuntamientos cuando haya dudas acerca de ellas, previo informe del Ejecutivo del Estado.
 
 XXXIV. Todas las demás facultades que las leyes le otorguen.
 
@@ -491,9 +503,11 @@ Cuando por cualquiera causa no pudiere una Legislatura inaugurar un período de 
 
 Para los efectos de la fracción XXII del artículo 43 de esta Constitución, habrá una Contaduría Mayor de Hacienda, bajo la inmediata y exclusiva dependencia del Congreso.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 54.
 
-La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa del Congreso, hará la revisión de todas las cuentas que el Ejecutivo presente a la Cámara y resolverá todas las consultas que ésta le haga. Una ley especial reglamentará la organización y funciones de la Contaduría Mayor de Hacienda.
+La Contaduría Mayor de Hacienda, como asesora técnica de la Comisión de Glosa del Congreso, hará la revisión de todas las cuentas que el Ejecutivo y los Ayuntamientos presenten a la Cámara y resolverá todas las consultas que a ésta le hagan. Una ley especial reglamentará la organización y funciones de la Contaduría Mayor de Hacienda.
 
 ### CAPITULO III. DEL PODER EJECUTIVO
 
@@ -505,17 +519,25 @@ Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se 
 
 Para ser Gobernador del Estado se requiere:
 
-I. Ser ciudadano sinaloense por nacimiento, y poseer el grado de instrucción que esta Constitución determina.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+I. Ser ciudadano mexiceno (sic) por nacimiento y ciudadano sinaloense por nacimiento o vecindad.
 
 II. Tener treinta años cumplidos el día de la elección.
 
-III. Haber residido en el Estado, un año al menos, inmediatamente antes de la elección.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+III. Haber conservado su domicilio en el Estado, un año, al menos, inmediatamente antes de la elección.
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
 V. No haber sido Jefe de ningún Departamento Gubernativo, miembro del Supremo Tribunal de Justicia del Estado, Juez de 1ª Instancia, Recaudador de Rentas o Presidente Municipal, ni haber tenido mando de fuerzas de la Federación, del Estado o de algún Municipio, dentro de los seis meses anteriores al día de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+VII. Además de los anteriores requisitos, se requiere que el ciudadano sinaloense por vecindad, haya residido en el Estado continua e inmediatamente antes de la elección, cuando menos, veinte años, y que conserve su domicilio en el mismo durante los tres años últimos anteriores a la elección.
 
 ###### Art. 57.
 
@@ -533,9 +555,11 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida dentro de los tres
 
 Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, el Presidente del Supremo Tribunal de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 61.
 
-El Gobernador nombrado en los términos de los tres artículos anteriores no podrá ser Gobernador del Estado para el siguiente período, si ha ejercido sus funciones dentro del último año del período constitucional respectivo.
+El Gobernador nombrado en los términos de los tres artículos anteriores, no podrá ser Gobernador Constitucional del Estado, por elección popular, para el siguiente período, si ha ejercido sus funciones dentro del último año constitucional respectivo, pero sí podrá ser Gobernador substituto.
 
 ###### Art. 62.
 
@@ -557,7 +581,9 @@ I. Sancionar, promulgar y ejecutar las leyes y decretos que expida el Congreso d
 
 II. Nombrar y remover a los empleados de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como conceder licencias y admitirles sus renuncias.
 
-III. Tener el mando de la fuerza pública del Estado y el de las de los Municipios en donde residiere habitual o transitoriamente, cuidando de la conservación del orden público.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+III. Tener el mando de la fuerza pública en el Estado y en los Municipios donde residiera habitual o transitoriamente; pudiendo en estos casos remover y nombrar Inspectores y demás miembros de la policía.
 
 IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, y pedir al mismo la prórroga del período de sesiones por el tiempo que estime necesario.
 
@@ -593,7 +619,19 @@ XIX. Velar por la moralidad pública, impidiendo enérgicamente el establecimien
 
 XX. Otorgar concesiones en los términos que establezcan las leyes o sobre las bases que fije el Congreso en defecto de aquéllas.
 
-XXI. Y las demás que le confiera esta Constitución.
+XXI. y las demás que le confiera esta Constitución.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+XXII. Nombrar y remover libremente al Procurador de Justicia y Agentes del Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+XXIII. Condonar adeudos fiscales a favor del Estado en cantidades menores de quinientos pesos.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+XXIV. I(sic) las demás que le confiera esta Constitución.
 
 #### SECCION I. DE LOS DEPARTAMENTOS GUBERNATIVOS
 
@@ -601,9 +639,15 @@ XXI. Y las demás que le confiera esta Constitución.
 
 Para el estudio y despacho de los negocios cuyo conocimiento corresponde al Ejecutivo, habrá el número de departamentos que el Congreso establecerá por una ley.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 67.
 
-Para ser Jefe de un Departamento Gubernativo, se requiere: ser ciudadano sinaloense por nacimiento, en ejercicio de sus derechos; tener treinta años cumplidos y los demás requisitos que establezca la ley.
+Para ser Jefe de un Departamento Gubernativo, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento y poseer el grado de instrucción necesaria, a juicio del Gobernador del Estado.
+
+II. Tener veinticinco años cumplidos.
 
 ###### Art. 68.
 
@@ -631,13 +675,17 @@ Cuando un Jefe de Departamento Gubernativo estimare ilegal autorizar un acto con
 
 Habrá en el Estado la institución del Ministerio Público, cuya misión será velar por el cumplimiento de las leyes de interés general, para lo cual ejercerá las acciones que procedan contra los violadores de dichas leyes; hará efectivos los derechos del Estado e intervendrá en los juicios que afecten a las personas a quienes la ley otorga especial protección.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 74.
 
-Ejercerá las facultades del Ministerio Público un Procurador General de Justicia y los Agentes que la ley determine, y serán unos y otros nombrados y removidos por el Ejecutivo del Estado.
+Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 75.
 
-Para ser Procurador General de Justicia, se exigirán los siguientes requisitos: ser ciudadano sinaloense en pleno ejercicio de sus derechos, mayor de treinta años, abogado titulado y haber observado buena conducta; y para ser Agente del Ministerio Público: ser ciudadano sinaloense, haber observado buena conducta y tener los conocimientos suficientes en Derecho, a juicio de quien los nombra.
+Para ser procurador General de Justicia, se exigen los siguientes requisitos: ser ciudadano mexicano por nacimiento, mayor de treinta años, abogado titulado y haber observado buena conducta. Para ser Agente del Ministerio Público, se requiere: ser ciudadano mexicano por nacimiento, haber observado buena conducta y tener los conocimientos suficientes de Derecho, a juicio de quien lo nombra.
 
 ###### Art. 76.
 
@@ -707,6 +755,8 @@ La omisión de esta formalidad hace responsables a las autoridades a quienes la 
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 90.
 
 Es obligación del Estado fomentar la Enseñanza Pública, e impartir al pueblo la Primaria, en su doble forma de elemental y superior. Ambas serán gratuitas, uniformes, laicas y obligatorias.
@@ -729,15 +779,21 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo denominado 
 
 El Supremo Tribunal de Justicia, se compondrá de tres Magistrados propietarios, tres Suplentes, cinco Supernumerarios y los Interinos que accidentalmente nombre el Congreso o la Diputación Permanente, siendo uno de ellos el Presidente del Tribunal pleno.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 95.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo seis años, durante los cuales sólo podrán ser removidos por causa justificada, previo juicio de responsabilidad.
+Los Magistrados del Supremo Tribunal de Justicia durarán en su encargo cuatro años, durante los cuales podrán ser removidos por causa justificada, previo juicio de responsabilidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 96.
 
-Para ser Magistrado propietario o suplente del Supremo Tribunal de Justicia, se requiere:
+Para ser Magistrado Propietario o Suplente del Supremo Tribunal de Justicia, se requiere:
 
-I. Ser ciudadano sinaloense por nacimiento, en pleno goce de sus derechos.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+I. Ser ciudadano mexicano por nacimiento y ciudadano sinaloense en pleno goce de sus derechos.
 
 II. Ser mayor de treinta años el día de la elección.
 
@@ -807,13 +863,13 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 ###### Art. 106.
 
-Los Jueces de 1ª Instancia y Menores, serán nombrados por el Supremo Tribunal de Justicia, los primeros durarán en su encargo cuatro años, y dos los segundos, no pudiendo ser separados unos ni otros sin previo juicio de responsabilidad o por incapacidad para desempeñar sus funciones, en los términos que establezca la Ley Orgánica del Poder Judicial.
+Los Jueces de Primera Instancia y Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su encargo dos años, no pudiendo ser separados unos ni otros sin previo juicio de responsabilidad o por incapacidad para desempeñar sus funciones, en los términos que establezca la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 107.
 
-Para ser Juez de 1ª Instancia se requiere: ser ciudadano mexicano, mayor de edad, abogado, titulado o con los conocimientos suficientes en derecho, a juicio del Supremo Tribunal de Justicia.
-
-Para ser Juez Menor se requiere: ser ciudadano mexicano, mayor de edad, abogado titulado o con los conocimientos suficientes en derecho, a juicio del Supremo Tribunal de Justicia.
+Para ser Juez de Primera Instancia y Menor, se requiere: ser ciudadano mexicano por nacimiento, mayor de edad, abogado titulado o con los conocimientos suficientes de Derecho, a juicio del Supremo Tribunal de Justicia. Siempre será preferido para estos cargos el abogado titulado sobre el que no lo sea.
 
 ###### Art. 108.
 
@@ -841,29 +897,53 @@ Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales
 
 Compete a los Ayuntamientos el ejercicio del Poder Legislativo Municipal, con las limitaciones que las leyes señalen, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor comisionado, llevar la Jefatura política y administrativa de la Municipalidad, y presidir las sesiones de la Asamblea.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 113.
 
-La designación de los Regidores, se verificará cada dos años, por elección directa, y entrarán a funcionar el día primero de enero, previa protesta que otorgarán ante el Ayuntamiento saliente. Por cada Regidor propietario se elegirá un Suplente.
+La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, y demás Regidores, se verificará cada dos años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el H. Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 114.
 
-Los Ayuntamientos, en unión de un representante, con voz, pero sin voto, por cada Partido Político, harán la calificación de las elecciones de funcionarios Municipales en su jurisdicción y expedirán la declaratoria respectiva. Su fallo será inapelable.
+Los Ayuntamientos, en unión de un Representante por cada Partido Político, con voz pero sin voto, harán la calificación de las elecciones de funcionarios Municipales, en su jurisdicción, cuya calificación es revisable por el Congreso del Estado en el caso de la Fracción XXXIII bis del artículo 43 de la presente ley. Los propios Ayuntamientos harán la declaratoria respectiva una vez confirmada la calificación por el Congreso, en su caso.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 115.
 
-El Presidente Municipal será electo por el Ayuntamiento, de entre sus propios miembros, por mayoría absoluta de votos del número total de Regidores, en la sesión inaugural del Cuerpo. Durarán (sic) en sus funciones un año y podrá ser electo para el siguiente. Sus faltas temporales o absolutas serán cubiertas por su respectivo suplente: las primeras, por el tiempo que duren, y las segundas, por mientras el Ayuntamiento haga nueva elección.
+Las faltas temporales del Presidente Municipal y Regidores, serán cubiertas por sus respectivos suplentes, las primeras por el tiempo que duren, y las segundas por mientras se hace nueva elección.
 
 ###### Art. 116.
 
 Para ser Regidor, se requiere:
 
-I. Ser mexicano por nacimiento y ciudadano sinaloense en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
-II. Ser nativo de la Municipalidad, o haber residido en ella cuando menos, seis meses consecutivos inmediatamente antes de la elección.
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
 
-III. Poseer el grado de instrucción que esta Constitución determine.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+II. Estar avecindado en la Municipalidad que lo elija, cuando menos un año inmediatamente antes de la elección.
+
+III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
 
 IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
+###### Art. 116 Bis.
+
+Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener los siguientes:
+
+I. 25 años cumplidos en la fecha de la elección.
+
+II. Haber obtenido mayoría de sufragios legales.
+
+III. No haber sido Jefe de ningún DePartamento (sic) Gubernativo, miembro del Supremo Tribunal de Justicia del Estado, Juez de 1a. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los seis meses anteriores al día de la elección.
+
+IV. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna asonada, motín o cuartelazo promovido en contra de las Instituciones de la Nación o del Estado.
 
 ###### Art. 117.
 
@@ -907,27 +987,31 @@ Cada Ayuntamiento dará entera fé y crédito a los actos y documentos de los de
 
 ###### Art. 123.
 
-Las cuentas de un Ayuntamiento serán glosadas por el sucesor, durante los primeros seis meses de ejercicio. Este exigirá las responsabilidades que resulten o expedirá en su caso el finiquito correspondiente, dentro de los seis meses siguientes.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 
 ###### Art. 124.
 
 Cada Ayuntamiento tendrá un Tesorero y un Secretario Municipales, nombrados de fuera de su seno, quienes deberán llenar los mismos requisitos que para Regidores exige esta Constitución. El Tesorero, además, antes de entrar a ejercer sus funciones, caucionará suficientemente su manejo.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 125.
 
-Las Municipalidades se subdividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones municipales ejecutivas y de administración, los Síndicos y Comisarios, respectivamente. Ambos serán electos popularmente cada dos años, y por cada propietario se eligirá (sic) un Suplente.
+Las Municipalidades se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones municipales, ejecutivas y de administración, los Síndicos y Comisarios, respectivamente. Unos y otros serán nombrados cada dos años por el Ayuntamiento de la Municipalidad a que correspondan, y removidos libremente por el mismo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 126.
 
-Para ser Síndico y Comisario, se requiere: ser mexicano por nacimiento, ciudadano sinaloense en ejercicio de sus derechos, tener el grado de instrucción que esta Constitución determina; haber residido en la jurisdicción en que se extienda el cargo, cuando menos seis meses inmediatamente antes de la elección, y no tener en la Municipalidad a que corresponda, empleo o comisión oficial del Estado o Municipio, ni mando de fuerzas de cualquiera especie, cuando menos tres meses antes de la elección.
+Para ser Síndico y Comisario, se requiere: ser ciudadano mexicano por nacimiento.
 
 ###### Art. 127.
 
-Los cargos de Síndico y Comisario, serán obligatorios, pero no gratuitos, y sólo serán renunciables por causa justificada a juicio del Ayuntamiento.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 
 ###### Art. 128.
 
-Cuando por cualquier motivo faltare un Síndico o Comisario, el Ayuntamiento respectivo nombrará substituto mientras se convoca a nuevas elecciones, si la falta ocurriere dentro del primer año de su ejercicio, mas si fuere en el segundo, el nombrado terminará el período.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 
 ###### Art. 129.
 
@@ -979,9 +1063,11 @@ El sentenciado por delito o falta oficial, no podrá ser indultado.
 
 Se concede acción popular para denunciar los delitos o faltas oficiales.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 140.
 
-La Ley de Responsabilidades de los Funcionarios y Empleados Públicos, reglamentará la materia, clasificando los delitos y faltas, determinando su penalidad, y fijando los procedimientos del enjuiciamiento y términos de la prescripción.
+La ley de responsabilidades de los funcionarios y empleados públicos, reglamentará la materia, clasificando los delitos y faltas, determinando su penalidad y fijando los procedimientos del enjuiciamiento y términos de las prescripciones. Entretanto, rigen las disposiciones relativas del Código de Procedimientos Penales que no se opongan a esta ley.
 
 ###### Art. 141.
 
@@ -1041,9 +1127,11 @@ VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 Todo funcionario o empleado, sea de elección popular o de nombramiento, recibirá una remuneración por sus servicios, que será fijada anualmente por la ley y pagada de los fondos públicos.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 146.
 
-Al expedir y reformar el Congreso la Ley de Ingresos y Egresos del Estado, podrán aumentar o disminuir los sueldos de los funcionarios y empleados, según las condiciones del Erario; pero todo aumento que decrete a las dietas de sus propios miembros, no tendrán efecto sino hasta que se hayan removido por elección ordinaria, las dos mitades de la Legislatura que lo hubiese votado. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con los Regidores.
+Al expedir y reformar el Congreso la ley de Ingresos y Egresos del Estado, podrán aumentarse o disminuirse los sueldos de los funcionarios y empleados, según las condiciones del Erario; pero todo aumento que decrete a las dietas de sus propios miembros, no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con los Regidores.
 
 ###### Art. 147.
 
@@ -1123,9 +1211,11 @@ Todas las obras públicas del Estado o los Municipios que hayan de emprenderse, 
 
 Quedan estrictamente prohibidos en el Estado, todos los juegos de azar. Para extirpar ese vicio, combatir el alcoholismo y reprimir la prostitución y la vagancia, la ley se mostrará severa y las autoridades serán inexorables. Es causa de responsabilidad oficial, toda falta u omisión en el cumplimiento de las obligaciones que este precepto impone.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 157.
 
-Queda absolutamente abolida en el Estado la pena de muerte por delitos que sean de la competencia de sus tribunales. En los casos en que las autoridades federales hayan de aplicarla, el Gobernador del Estado tendrá la imprescindible obligación de interceder por el reo, y si no lo consiguiere, solicitará encarecidamente de la superioridad respectiva, que la pena se ejecute fuera del territorio sinaloense.
+Queda absolutamente abolida la pena de muerte para los delitos políticos, y en cuanto a los demás, podrá imponerse al parricida, al homicida con alevosía, premeditación o ventaja, al incendiario, al plagario (sic) y al salteador de caminos.
 
 ###### Art. 158.
 
@@ -1167,13 +1257,15 @@ Para los efectos del artículo 18 de esta Constitución y mientras se expidan la
 
 El período de ejercicios del actual Gobernador del Estado, expirará el 26 de septiembre de 1924 y le seguirá un Gobernador Interino nombrado por el Congreso del Estado, cuyas funciones terminarán el 31 de diciembre del mismo año. Las prevenciones del artículo 57, entrarán en vigor desde el 1º de enero de 1925, fecha en que inaugurará su período legal el Gobernador que resulte electo en el primer domingo de julio de 1924.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+
 ###### Art. 6o.
 
-El período de funciones de los Magistrados del Supremo Tribunal de Justicia del Estado, comenzará a contarse desde el 1º de octubre de 1924. En la misma fecha se inaugurarán los períodos de los Jueces de Primera Instancia y Menores.
+El período de funciones de los Magistrados del Supremo Tribunal de Justicia del Estado, comenzará a contarse desde el 1º de octubre de 1930. En la misma fecha se inaugurarán los períodos de los Jueces de Primera Instancia y Menores.
 
 ###### Art. 7o.
 
-Los Ayuntamientos que se instalen el día 1o. de enero de 1923, estarán sujetos a las disposiciones de los artículos 113 y 115.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 
 Es dada en el Palacio del Poder Legislativo del Estado, en Culiacán Rosales, a los veintidós días del mes de junio de mil novecientos veintidós.
 
@@ -1188,3 +1280,9 @@ José Aguilar.
 El Jefe del Departamento.
 
 Manuel A. Barrantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE OCTUBRE DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
