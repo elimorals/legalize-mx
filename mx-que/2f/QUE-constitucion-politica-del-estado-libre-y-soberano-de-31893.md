@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1983-12-08"
+last_updated: "1985-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 1985.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -81,7 +81,7 @@ P.O. 13 DE SEPTIEMBRE DE 1929
 
 1°.- En tanto se reforma la Ley Orgánica del Municipio Libre, el Municipio de Colón tendrá los mismos límites que tiene como Delegación Municipal.
 
-2°.- Esta ley comenzará a surtir sus efectos a portir (sic) del día 16 de septiembre del año en curso.
+2°.- Esta Ley comenzará a surtir sus efectos a portir (sic) del día 16 de Septiembre del año en curso.
 
 P.O. 26 DE DICIEMBRE DE 1929
 
@@ -285,9 +285,13 @@ Gobierno.
 
 La Soberanía del Estado de Querétaro Arteaga reside esencial y originariamente en el pueblo, y de él emanan los Poderes Públicos, que se instituyen exclusivamente para su beneficio.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
+
 ###### Art. 27.
 
-El Estado de Querétaro adopta para su régimen interior, la forma de Gobierno Republicano, Representativo, Popular, teniendo como base de su organización política, social y administrativa, el Municipio Libre.
+El Estado de Querétaro adopta para su régimen interior, la forma de Gobierno Republicano, Representativo, Popular, teniendo como base de su organización Política, Social y Administrativa, el Municipio Libre.
+
+El Estado organizará un Sistema de Planeación Democrática para su Desarrollo.
 
 ### CAPITULO UNICO
 
@@ -605,7 +609,9 @@ XV.- Admitir o no la renuncia que presenten los individuos que hayan sido electo
 
 XVI.- Conceder licencias temporales, para separarse de sus cargos, al Gobernador del Estado y Diputados, y concederla al primero para salir del territorio del Estado, siempre que la ausencia vaya a exceder de ocho días;
 
-XVII.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales; formular en su caso, acusación contra ellos, ante el Tribunal Superior de Justicia, y erigirse en Gran Jurado, para declarar si hay o no lugar a proceder en contra de los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1985)</small>
+
+XVII.- Conocer de las acusaciones que se hagan a los funcionarios públicos a que se refiere el artículo 156 de esta Constitución, fungiendo como órgano de acusación en los juicios políticos que contra éstos se instauren y, en su caso, declarar si ha lugar o no a proceder penalmente en los términos del artículo 157 de este mismo ordenamiento.
 
 XVIII.- Autorizar al Ejecutivo para que arregle los límites del Estado, por convenios que sujetarán a la aprobación de la Legislatura, y ésta al Congreso de la Unión;
 
@@ -633,7 +639,9 @@ XXVII.- Resolver las controversias que se susciten entre los Poderes Ejecutivo y
 
 XXVIII.- Nombrar y remover libremente a los empleados de su directa dependencia;
 
-XXIX.- Expedir leyes, decretos y reglamentos para la administración y Gobierno interior del Estado, en todos sus ramos, e interpretar, aclarar, reformar y derogar las establecidas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1985)</small>
+
+XXIX.- Expedir Leyes, Decretos y Reglamentos para integrar el Sistema de Planeación Democrática del Desarrollo del Estado, así como para la Administración y Gobierno Interior del mismo en todos sus ramos e interpretar, aclarar, reformar y derogar las establecidas;
 
 XXX.- Nombrar un individuo que, bajo la denominación de Gobernador Interino, ejerza el Poder Ejecutivo en las faltas temporales o absolutas del Gobernador Constitucional.
 
@@ -807,11 +815,11 @@ Del Tribunal Superior de Justicia.
 
 El Tribunal Superior de Jnsticia (Sic) se compondrá de tres Magistrados Propietarios y tres suplentes o Supernumerarios, que serán elegidos directamente por la Legislatura del Estado, dentro de los ocho días siguientes a su instalación. Funcionará en Sala Colegiada con los Magistrados Propietarios o con los Supernumerarios en su caso.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 105.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en sus funciones tres años, y entrarán al desempeño de su encargo el primero de octubre del año en que el C. Gobernador del Estado inicie el ejercicio de su encargo y el primero de octubre del año correspondiente que marca la mitad del período mencionado del propio ejecutivo.
+Los Magistrados del Tribunal Superior de Justicia durarán en sus funciones tres años y entrarán al desempeño de su encargo el primero de octubre del año en el que el C. Gobernador del Estado inicie el ejercicio de su encargo y el primero de octubre del año correspondiente que marca la mitad del período mencionado del propio ejecutivo, pudiendo ser destituidos en los términos del Titulo Noveno de esta Constitución.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1937)</small>
 
@@ -849,9 +857,9 @@ Corresponde al Tribunal Superior de Justicia:
 
 I.- Iniciar ante la Legislatura las leyes, decretos y reglamentos que tengan por objeto mejorar la legislación civil, penal, y de procedimientos judiciales;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 1985)</small>
 
-II.- Conocer como Jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales a los Diputados; al Gobernador; a los miembros del Tribunal Superior de Justicia, a los Secretarios del Despacho y al Procurador General de Justicia;
+II.- Conocer como Jurado de Sentencia de las causas que en Juicio Político se instauren en los términos del artículo 156 de esta Ley Fundamental;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -881,11 +889,11 @@ XI.- Las demás obligaciones que les impongan las leyes.
 
 ### CAPITULO III. De los Jueces del Estado
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 110.
 
-Los jueces del Estado, serán nombrados por el Tribunal Superior de Justicia cada vez que el caso lo requiera.
+Los Jueces del Estado serán nombrados por el Tribunal Superior de Justicia cada vez que el caso lo requiera, pudiendo ser destituídos en los términos del Título Noveno de esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -1227,41 +1235,97 @@ respectivo, rendirá trimestralmente al Congreso un informe pormenorizado sobre 
 
 De las Responsabilidades.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 154.
 
-Todos los Funcionarios del Estado y Municipales serán responsables de los delitos del orden común que cometan durante el tiempo de su encargo o hubieren cometido antes de él, así como por los delitos o faltas oficiales en que incurrieren durante su ejercicio. Lo es también el Gobernador del Estado; pero durante el período de su encargo, solamente podrá ser acusado o desaforado previo juicio y por votación de las dos terceras partes del número total de los miembros que integren la Legislatura, por los delitos de traición a la Patria y graves del orden común legalmente comprobados, que enumera el artículo 22 de la Constitución General de la República.
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los Respresentantes de Elección Popular, a los Títulares del Poder Judicial, a los Funcionarios y Empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión en cualquiera de los órganos del Estado o de la Administración Pública Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Cualquiera otra responsabilidad que al expresado funcionario le resulte por la comisión de delitos oficiales o del orden común, no podrá motivar acusación en su contra ni desafuero, y sólo podrá serle exigida dentro de un año contado desde la fecha en que termine su cargo por lo que ve a delitos y faltas oficiales, y en concluyendo su período, conforme a la ley respectiva por lo que corresponde a los del orden común.
+El Gobernador del Estado, durante su ejercicio Constitucional, sólo podrá ser acusado por traición a la patria y delitos graves del orden común. Podrá también ser sujeto de juicio político en los términos del artículo 110 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1977)</small>
+Los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de los Tribunales Administrativos, los Titulares de las Secretarías, el Oficial Mayor, el Procurador General de Justicia y los Presidentes Municipales, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución y a las Leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado o de los Municipios.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 155.
 
-En los delitos del orden común que cometieren el Secretaría (sic) de Gobierno, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de justicia y del tribunal Fiscal y el Procurador General de Justicia, la Legislatura, erigida en Gran Jurado, declarará por el voto de las dos terceras partes del total de diputados que la integren, y en la forma que determine la ley, si hay o no lugar a formación de causa. En caso negativo, cesará todo procedimiento contra el acusado. En el afirmativo, quedará éste suspenso en su cargo, y sujeto a los tribunales comunes.
+La Ley de Responsabilidades de los Servidores Públicos que expida la Legislatura del Estado y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades, se ajustarán a las siguientes prevenciones:
+
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 156 a los servidores públicos señalados en el mismo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal; y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollan autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las Leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudieran justificar. Las Leyes Penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de otras penas que correspondan.
+
+Cualquier ciudadano, bajo su más extricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Estado respecto de las conductas a que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 156.
 
-En los delitos oficiales de los funcionarios a que se refiere el artículo anterior, conocerá la Legislatura como Jurado de acusación, y el Tribunal Superior como Jurado de sentencia, en la forma que determine la ley. El Jurado de acusación declarará, a mayoría absoluta de votos, si el acusado es o no culpable. Si la declaración fuese absolutoria, el acusado continuará en el ejercicio de su encargo; si fuere condenatoria, quedará suspenso y a disposición del Tribunal Superior. Este, en acuerdo pleno, y mediante las formalidades que la ley determine, impondrá la pena que corresponda, la cual se ejecutará sin ulterior recurso.
+Podrán ser sujetos de Juicio Político los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Titulares de los Tribunales Administrativos, los Jueces, los Titulares de las Secretarías, el Oficial Mayor, los Directores de la Administración Pública Estatal, el Procurador General de Justicia, los Sub-Procuradores, los Agentes del Ministerio Público, los Presidentes de los Ayuntamientos, los Síndicos de Hacienda Municipales, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, de Sociedades y Asociaciones Asimiladas a ésta y de Fideicomisos Públicos.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+
+Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado de sentencia, cumplirá con las normas procesales y, en su caso, aplicará la sanción correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 157.
 
-De los delitos oficiales y comunes cometidos por los jueces del Estado, Presidentes Municipales y Regidores, el Tribunal Superior de Justicia declarará, en la forma que determine la Ley, si hay lugar o no a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado en sus funciones, y sujeto a los tribunales comunes.
+Para proceder penalmente contra los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Titulares de los Tribunales Administrativos, Titulares de las Secretarías, Oficial Mayor, Procurador General de Justicia, Jueces y Presidentes de los Ayuntamientos, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha lugar o no a proceder en contra del inculpado.
+
+Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la Comisión del delito continué su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
+
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+En demandas de orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+
+Las sanciones se aplicarán de acuerdo con lo dispuesto en la Legislación Penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 158.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede concederse al reo la gracia de indulto.
+No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 156, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo inmediato anterior, se procederá de acuerdo con lo dispuesto por dicho precepto.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 159.
 
-La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante el período en que el funcionario ejerza su encargo, y un año después.
+Las Leyes sobre responsabilidades Administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones y las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 155, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 160.
 
-En las demandas del orden civil no hay fuero, ni inmunidad para ningún funcionario público.
+El procedimiento de Juicio Político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que se hace referencia en el artículo 157.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del artículo 155. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1985)</small>
+
+###### Art. 160 Bis.
+
+Todos los servidores públicos que tuviesen a su cargo caudales públicos en el Estado o los Municipios, garantizarán su manejo.
+
+Para los efectos de lo previsto en este Título, las declaraciones y resoluciones de la Legislatura o del Tribunal Superior de Justicia son inatacables.
 
 ## TITULO DECIMO
 
@@ -1561,7 +1625,9 @@ XXIV.- Castigar correccionalmente a los que le falten al respeto, o desobedezcan
 
 XXV.- Hacer que las elecciones sean libres, e impedir que alguno ejerza presión en ellas;
 
-XXVI.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1928)
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1985)</small>
+
+XXVI.- Planear y conducir el desarrollo integral del Estado en el ámbito de su competencia, estableciendo procedimientos de participación y de consulta popular en el Sistema de Planeación Democrática, así como los criterios para la formulación, instrumentación, ejecución, control y evaluación de los planes y programas de desarrollo.
 
 XXVII.- Las demás que le encomienden las leyes.
 
@@ -1683,7 +1749,7 @@ El Congreso del Estado, en la primera de sus sesiones ordinarias del próximo pe
 
 ###### Art. 4º.
 
-El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo en día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
+El Tribunal Superior de Justicia procederá oportunamente al nombramiento de los Jueces de Primera Instancia y Menores, que deben funcionar en el Estado conforme a las leyes vigentes, a fin de que los primeros tomen posesión de su cargo el día 1º de octubre próximo y los segundos a más tardar el día 15 del mismo mes, para concluir el día 30 de septiembre de 1919.
 
 ###### Art. 5º.
 
@@ -1928,3 +1994,23 @@ El Presidente de la Cámara, luego que se hayan recibido las constancias de la v
 ###### ARTICULO TERCERO.
 
 La presente Ley entrará en vigor al día siguiente de la publicación del Acuerdo a que se refiere el artículo anterior, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE OCTUBRE DE 1985
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en los cartelones que señala el artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el artículo 163 de la Ley Suprema invocada.
+
+###### ARTICULO SEGUNDO.
+
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
+
+P.O. 31 DE OCTUBRE DE 1985
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en los cartelones que señala el artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos previstos en el artículo 163 de la Ley Suprema invocada.
+
+###### ARTICULO SEGUNDO.
+
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
