@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-direccion-de-investigacion-y-fomento-de-1913
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-15"
-last_updated: "1992-07-15"
+last_updated: "2000-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA DIRECCION DE INVESTIGACION Y FOMENTO DE LA CULTURA REGIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 1992.
 
@@ -71,7 +71,9 @@ III.- Sentar las bases de concertación con los Ayuntamientos, para coordinar en
 
 IV.- Promover y fomentar la concertación con los sectores social y privado, para lograr una más intensa participación en las acciones generadoras y difusoras de nuestro patrimonio cultural y artístico;
 
-V.- Coordinar con el Consejo Nacional para la Cultura y las Artes, en los términos de la vigente Ley General de Bibliotecas, la organización, aprobación y funcionamiento de una Red Estatal de Bibliotecas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2000)</small>
+
+V.- Coordinar con el Consejo Nacional para la Cultura y las Artes, en los términos de la vigente Ley General de Bibliotecas, así como con lo establecido en la legislación estatal de la materia, la organización, aprobación y funcionamiento de una Red Estatal de Bibliotecas Públicas;
 
 VI.- Organizar, administrar y enriquecer la Red Estatal de Museos, Hemerotecas, Pinacotecas y Centros Culturales; brindando asesoría a las que pertenezcan a los Municipios o a particulares;
 
@@ -338,3 +340,9 @@ Lic. Francisco Labastida Ochoa
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Manuel Lazcano Ochoa
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2000.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
