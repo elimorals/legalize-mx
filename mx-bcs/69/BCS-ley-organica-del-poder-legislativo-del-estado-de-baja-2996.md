@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "1995-12-20"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -503,6 +503,14 @@ XVI.- COMISION EDITORIAL.
 
 XVII.- DE CORRECCION Y ESTILO.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XVIII.- DE ENLACE LEGISLATIVO.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XIX.- DE EQUIDAD Y GENERO.
+
 ###### ARTICULO 55.
 
 Será materia de estudio y dictamen de las distintas comisiones, lo siguiente:
@@ -668,6 +676,26 @@ XVII.- DE CORRECCION Y ESTILO:
 a).- La redacción correcta de toda resolución, ya se trate de Decretos o Acuerdos Económicos que apruebe la Legislatura; pero respetando siempre el espíritu de lo aprobado.
 
 b).- Las que le encomiende la Directiva del Congreso y la Gran Comisión.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XVIII.- DE LA COMISIÓN DE ENLACE LEGISLATIVO:
+
+a).- Los que tengan relación con el resto de los Congresos para intercambiar las experiencias sobre problemas comunes y la organización para participar en reuniones periódicas de Congresos Locales.
+
+b).- Las demás que establezca la directiva del Congreso y la Gran Comisión.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XIX.- DE LA COMISIÓN DE EQUIDAD Y GÉNERO:
+
+a).- Los que tengan relación con la problemática específica de mujeres y hombres en razón de su género.
+
+b).- Las propuestas legislativas que reformen, adicionen o en su caso deroguen leyes para contribuir a eliminar todas las formas de discriminación de género.
+
+c).- Implementar programas de beneficio a la mujer y garanticen su respeto.
+
+d).- Las demás que establezcan la Directiva del Congreso y la Gran Comisión.
 
 ###### ARTICULO 56.
 
@@ -1601,8 +1629,6 @@ DE LA CALIFICACION DE LA ELECCION DE SENADORES.
 
 DE LA CALIFICACION DE LA ELECCION DE GOBERNADOR.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 193.
 
 Interpuesta una denuncia, querella, requerimiento del Ministerio Público o acusación ante el Congreso del Estado para instruir el Procedimiento relativo al Juicio Político o para la Declaración de Procedencia a que se refiere el Título II de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, se discutirá y dictaminará en Sesión Secreta, turnándose el asunto si procediere a la Comisión Instructora en los términos del Artículo 12 de la Ley de Responsabilidades.
@@ -1707,17 +1733,17 @@ DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 215.
 
-Recibidos los paquetes de la elección de Gobernador remitidos por el organismo Estatal Electoral, se procederá de conformidad con el artículo 292 de la Ley Electoral del Estado de Baja California Sur, a calificar la elección de Gobernador del Estado, sea elección ordinaria o extraordinaria.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 1998)
 
-El Congreso en pleno se erigirá en colegio electoral designándose a continuación dentro de sus miembros, una comisión que ha de elaborar el dictamen sobre la validez de las elecciones. El primero de los diputados nombrados fungirá como presidente de la comisión y los dos siguientes como secretarios, así como por un vocal por cada una de las fracciones parlamentarias que no hubieren quedado representadas al momento de su integración, que deberán ser acreditados ante la directiva y la comisión dentro de las veinticuatro horas siguientes a la sesión donde se elija aquella.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 216.
 
-Una vez aprobado el dictamen por la asamblea, el Presidente del Congreso, hará la declaratoria mencionando el nombre del ciudadano que haya resultado electo Gobernador, mandando publicar por Bando Solemne en cada una de las Municipalidades del Estado el Decreto correspondiente.
+Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado Electo, que hubiere emitido el Instituto Estatal Electoral.
 
 ###### ARTICULO 217.
 
@@ -1763,9 +1789,9 @@ Son facultades de la diputación permanente:
 
 I.- Acordar por si o a propuesta del Gobernador, la convocatoria a periódo extraordinario de sesiones;
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Recibir en su caso los expedientes relativos a las elecciones de Gobernador, convocando al Congreso del Estado para los efectos conducentes;
+II.- Expedir, en su caso, el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador del Estado Electo, que hubiere emitido el Instituto Estatal Electoral;
 
 III.- Instalar y presidir la Primera Junta Preparatoria del nuevo Congreso del Estado;
 
@@ -1858,3 +1884,9 @@ LIC. MARIO VARGAS AGUIAR.
 B.O. 20 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
