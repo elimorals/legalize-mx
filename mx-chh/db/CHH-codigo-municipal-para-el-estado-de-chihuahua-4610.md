@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2001-02-03"
+last_updated: "2001-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2001.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -49,13 +49,17 @@ CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 1.
 
-Este Código, contiene las normas a que se sujetará la organización y funcionamiento de la administración municipal en el Estado de Chihuahua, reglamentando las disposiciones relativas a los Municipios, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+Este Código, contiene las normas a que se sujetará la organización interior del ayuntamiento y el funcionamiento de la administración pública municipal en el Estado de Chihuahua, reglamentando las disposiciones relativas a los Municipios, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 2.
 
-La actividad de la administración municipal, se regirá también:
+La actividad del gobierno municipal, se regirá también:
 
 I.- Por las normas de carácter federal o local que deleguen funciones a los órganos municipales o les atribuyan la calidad de auxiliares en la ejecución de dichas disposiciones;
 
@@ -63,13 +67,17 @@ II.- Por las leyes de carácter estatal, diversas a este Código que regulen mat
 
 III.- Por los convenios que, con apego a los preceptos legales, celebre el Gobierno del Estado con las dependencias de la Administración Federal y con los Ayuntamientos; y
 
-IV.- Por los reglamentos, acuerdos y circulares administrativos, dictados con apoyo y dentro de las limitaciones de las normas que regulan la organización, competencia y funcionamiento de la administración municipal.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+IV.- Por los reglamentos, acuerdos y circulares y demás disposiciones de carácter general en las materias de su competencia, dictados con apoyo y dentro de las limitaciones de las normas que regulan la organización, competencia y funcionamiento de la administración municipal.
 
 ###### ARTICULO 3.
 
 Los Municipios tendrán derecho, a determinar la forma particular de su organización administrativa y de formular su reglamento orgánico, el que deberá ser sometido al Ayuntamiento para su aprobación, en base a la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y el presente Código.
 
-El Ayuntamiento es la autoridad competente, en el orden administrativo, para interpretar la legislación municipal y dictar las disposiciones generales o particulares que se requieran para su eficaz cumplimiento.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
+El Ayuntamiento es la autoridad competente para interpretar la legislación municipal y dictar las disposiciones generales o particulares que se requieran para su eficaz cumplimiento.
 
 ###### ARTICULO 4.
 
@@ -103,7 +111,9 @@ La organización, desarrollo y procedimientos de las anteriores figuras, se llev
 
 El Estado de Chihuahua se divide en sesenta y siete Municipios con personalidad jurídica y patrimonio propios, los cuales son la base de su organización territorial, política y administrativa.
 
-El Municipio se integra por su cabecera, secciones municipales y comisarías de policía. Será administrado por un Ayuntamiento de elección popular directa que será auxiliado en sus funciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que será auxiliado en sus funciones:
 
 I.- En las secciones municipales, por las juntas municipales; y
 
@@ -333,11 +343,17 @@ La vecindad no se perderá por ausencia en el desempeño de un cargo público o 
 
 ### CAPITULO I. DE LA INTEGRACION E INSTALACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del estado, la Ley Electoral y el presente Código. En su integración se introducirá el principio de representación proporcional en los términos de las disposiciones citadas.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Electoral y el presente Código. En su integración se introducirá el principio de representación proporcional en los términos de las disposiciones citadas.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2001)</small>
+
+La competencia que la Constitución Federal, la Estatal y el presente Código, le otorgan al Gobierno Municipal, se ejercerá por el Ayuntamiento en forma exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
@@ -349,9 +365,15 @@ III.- Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guacho
 
 IV.- Los restantes por un Presidente, un Síndico y cuatro Regidores electos por el principio de mayoría relativa.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
 En relación a los Regidores electos según el principio de representación proporcional, se estará a lo establecido en la Constitución Política del Estado y en la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
+
 Respecto al gobierno de las secciones y demás poblaciones de un municipio, se estará a lo dispuesto en el ordenamiento Constitucional citado.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 Por cada Presidente, Síndico, Regidor o Comisario, habrá un suplente para sustituirlo en sus impedimentos o faltas.
 
@@ -431,11 +453,15 @@ Para lo no previsto, en este ordenamiento sobre el funcionamiento de los Ayuntam
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-I.- Aprobar los reglamentos y demás disposiciones de carácter general, dentro sus respectivas jurisdicciones, necesarios para el cumplimiento de sus fines y para hacer valer las atribuciones, que le otorgan las leyes federales o estatales.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
-Los Reglamentos aprobados por los Ayuntamientos deberán remitirse al Ejecutivo del Estado, quien ordenará su publicación en el Periódico Oficial, quedando facultado para formular las observaciones que estime prudentes antes de proceder a la publicación;
+I.- Aprobar de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-II.- Iniciar leyes y decretos ante el Congreso del Estado en asuntos de la competencia de la administración municipal y nombrar representante para que intervenga en la discusión de la iniciativa;
+Los reglamentos aprobados por los ayuntamientos deberán publicarse en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+II.- Iniciar leyes y decretos ante el Congreso del Estado en asuntos de la competencia del gobierno municipal y nombrar representante para que intervenga en la discusión de la iniciativa;
 
 III.- Vigilar que los actos de las autoridades municipales, observen los requisitos de legalidad y seguridad jurídica que establece la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado;
 
@@ -469,7 +495,9 @@ XIV.- Vigilar que se dé publicidad mensualmente, por cualquiera de los medios d
 
 XV.- Rendir los informes, por conducto de su Presidente, a que obligue la Constitución Política del Estado u otras disposiciones legales;
 
-XVI.- Autorizar, en su caso, los empréstitos, gravámenes o enajenaciones de los bienes municipales y en general las deudas, que puedan pagarse dentro del período administrativo o fuera de él con la aprobación del Congreso del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XVI.- Autorizar, en su caso, los empréstitos, gravámenes o enajenaciones de los bienes municipales y en general las deudas, que puedan pagarse dentro del período administrativo o fuera de él cuando medie aprobación de cuando menos las dos terceras partes del Ayuntamiento;
 
 XVII.- Autorizar la celebración de contratos de obras o servicios públicos municipales o el otorgamiento de concesiones, en los términos de este Código, sus reglamentos y demás disposiciones aplicables;
 
@@ -479,7 +507,9 @@ XIX.- Dictar las disposiciones generales o particulares que tiendan a la conserv
 
 XX.- Solicitar al Congreso del Estado la desafectación de un bien del dominio público y su cambio de destino;
 
-XXI.- Solicitar al Congreso del Estado, autorización para donar bienes inmuebles del dominio privado municipal, así como para darlos en arrendamiento por un término que exceda a la gestión del propio Ayuntamiento;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XXI.- Aprobar por las dos terceras partes de los integrantes del Ayuntamiento, la celebración de actos o convenios por un término que exceda a la gestión del propio ayuntamiento;
 
 XXII.- Autorizar al Presidente Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate;
 
@@ -529,11 +559,19 @@ XXXVI.- Los Ayuntamientos podrán solicitar la comparecencia de cualquier funcio
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XXXVII.- Establecer un sistema permanente de capacitación a los servidores de las diversas dependencias municipales a las que se refiere el artículo 60 de este Código; y
+XXXVII.- Establecer un sistema permanente de capacitación a los servidores de las diversas dependencias municipales a las que se refiere el artículo 60 de este Código; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2001)</small>
+
+XXXVIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XXXIX.- Celebrar convenios para la administración y custodia de zonas federales;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE OCTUBRE DE 2000)</small>
 
-XXXVIII.- Las demás que le confieren las leyes y sus reglamentos.
+XL.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -579,7 +617,9 @@ XV.- Vigilar la recaudación de los ingresos municipales y que la inversión de 
 
 XVI.- Ejercer el presupuesto de egresos por conducto de la dependencia correspondiente y en tal virtud, autorizar y enviar las órdenes de pago a la Tesorería Municipal, que sean conforme a dicho presupuesto; asimismo ejercer el gasto de recursos provenientes de convenios de coordinación que celebre con el Estado y la Federación;
 
-XVII.- Celebrar convenios de coordinación con la Federación y el Estado en la realización de programas de inversión pública;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XVII.- Con la aprobación del Ayuntamiento, celebrar convenios de coordinación con la Federación y el Estado en la realización de programas de inversión pública;
 
 XVIII.- Celebrar convenios de coordinación, con aprobación del Ayuntamiento, para la recaudación, administración y cobro de créditos fiscales federales y estatales o adherirse a los celebrados por el Estado;
 
@@ -593,7 +633,9 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
-XXIV.- Determinar, con apego a las disposiciones de éste y otros ordenamientos legales, los servicios públicos que sean de la competencia municipal y vigilar la prestación de los mismos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+XXIV.- Determinar, en cumplimiento de las disposiciones legales, reglamentarias y/o acuerdo del ayuntamiento, los servicios públicos que sean de la competencia municipal y vigilar la prestación de los mismos;
 
 XXV.- Otorgar y revalidar los permisos, licencias o autorizaciones que les competan conforme a las leyes y sus reglamentos;
 
@@ -893,19 +935,25 @@ III.- Los ciudadanos deberán reunir los requisitos que exige la Constitución P
 
 IV.- Serán presididas por él o los representantes del Ayuntamiento que sean comisionados al efecto, los cuales verificarán la elección, levantarán el acta correspondiente, firmándola con los testigos del acto que quisieran hacerlo; rendirán al Ayuntamiento el informe respectivo quien en sesión calificará la elección antes de quince días, haciendo la declaración de los triunfadores. El Presidente Municipal o su representante tomará la protesta de ley a los ciudadanos electos y les dará posesión de sus cargos. En los casos de Comisarios de Policía, cuando no asista la mayoría de vecinos, el Ayuntamiento los designará libremente.
 
-## TITULO CUARTO. DE LAS BASES NORMATIVAS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
+
+## TITULO CUARTO. DE LAS BASES GENERALES DE OBSERVANCIA COMUN PARA LOS MUNICIPIOS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 45.
 
-Los Ayuntamientos, expedirán dentro de sus respectivas jurisdicciones, el Reglamento Interior del Municipio, el Bando de Policía y Buen Gobierno, los reglamentos y disposiciones administrativas de observancia general, de acuerdo con las bases que establece este título.
+Los Ayuntamientos, aprobarán dentro de sus respectivas jurisdicciones, de acuerdo con las leyes que en materia municipal expida el Congreso, los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
 El Ayuntamiento discutirá y aprobará, a propuesta del Presidente Municipal, de los Regidores o de los electores a través de iniciativa popular, las disposiciones reglamentarias de observancia general en el Municipio.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 46.
 
-Los Bandos de Policía y Buen Gobierno son las normas expedidas por el Ayuntamiento, para proteger, en la esfera del orden público: la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades, el ornato público y la propiedad y bienestar colectivos; y en el ámbito de la integridad de las personas, su seguridad, tranquilidad, disfrute de propiedades particulares y la moral del individuo y de la familia.
+Los Bandos de Policía y Gobierno son las normas expedidas por el Ayuntamiento, para proteger, en la esfera del orden público: la seguridad general, el civismo, la salubridad, la forestación, la conservación de vialidades, el ornato público y la propiedad y bienestar colectivos; y en el ámbito de la integridad de las personas, su seguridad, tranquilidad, disfrute de propiedades particulares y la moral del individuo y de la familia.
 
 ###### ARTICULO 47.
 
@@ -939,7 +987,9 @@ I.- Interior del Municipio;
 
 II.- Interior del Ayuntamiento;
 
-III.- Bando de Policía y Buen Gobierno;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+
+III.- Bando de Policía y Gobierno;
 
 IV.- De Obras y Servicios Municipales;
 
@@ -969,9 +1019,11 @@ Son circulares, las disposiciones de carácter general, de orden interno, que co
 
 Son disposiciones administrativas de observancia general, las normas que no teniendo las características de los bandos, reglamentos y circulares, sean dictadas, en atención a una inminente necesidad que afecte a los particulares.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 50.
 
-Los Bandos de Policía y Buen Gobierno, así como, las disposiciones administrativas de observancia general, deberán ser publicadas en el Periódico Oficial del Estado.
+Los Bandos de Policía y Gobierno, así como las disposiciones administrativas de observancia general, deberán ser publicadas en el Periódico Oficial del Estado.
 
 Las normas que contengan los bandos, reglamentos y otras disposiciones municipales, deberán ser generales y obligatorias en el ámbito municipal y su aplicación corresponde a las autoridades municipales.
 
@@ -997,9 +1049,11 @@ La petición para que el Congreso del Estado, conozca de las causas a que se ref
 
 En los recesos del Congreso, la Diputación Permanente convocará a sesiones extraordinarias, a fin de que se reúna dentro de los tres días siguientes, para conocer de la petición a que se refiere el artículo anterior. El acuerdo para convocar a sesiones extraordinarias, deberá ser aprobado por el voto de las dos terceras partes de los integrantes de la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 55.
 
-Si el Congreso declara que ha desaparecido el Ayuntamiento, procederá a designar e instalar dentro de los tres días naturales siguientes, entre los vecinos del Municipio, un Ayuntamiento interino con el mismo número de integrantes de aquél.
+Si el Congreso declara que ha desaparecido el Ayuntamiento, procederá a designar e instalar dentro de los tres días naturales siguientes, entre los vecinos del Municipio, un concejo municipal con el mismo número de integrantes de aquél, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
 
 ###### ARTICULO 56.
 
@@ -1273,7 +1327,9 @@ VI.- Tendrá como objetivos en su actuación, el respeto a la vida y a la integr
 
 VII.- Coadyuvará con los otros cuerpos de seguridad pública, tanto federales como estatales, en lo que de común tiene el desempeño de sus respectivas tareas.
 
-El Gobernador del Estado tendrá el mando de la policía municipal en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
+La policía preventiva municipal estará al mando del Presidente Municipal en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue de fuerza mayor o alteración grave del orden público. La apreciación de la situación de fuerza mayor o alteración grave del orden público, correrá bajo la estricta responsabilidad del Gobernador.
 
 ###### ARTICULO 70.
 
@@ -1689,27 +1745,29 @@ Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las 
 
 Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 110.
 
-La enajenación de bienes inmuebles del dominio público de los Municipios requiere su previa desafectación y autorización por Congreso del Estado.
+La enajenación de bienes inmuebles del dominio público de los Municipios requiere su previa desafectación por el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
-
-Los Municipios al solicitar la autorización a que se refiere el párrafo anterior, deberán acreditar en su escrito la justificación que dió origen a la enajenación.
+Los Municipios al solicitar la desafectación a que se refiere el párrafo anterior, deberán acreditar en su escrito la justificación que dio origen a la enajenación.
 
 ###### ARTICULO 111.
 
 Los bienes inmuebles del dominio privado del Municipio son imprescriptibles pero podrán ser enajenados.
 
-Bastará la autorización del Ayuntamiento, previa justificación de su procedencia, cuando la transmisión se realice:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+
+Basta la autorización del Ayuntamiento, previa justificación de su procedencia, cuando la transmisión se realice:
 
 a) Como contraprestación, por bienes o servicios recibidos por el Municipio;
 
 b) Por la afectación de derechos de los particulares, motivada por actos de la administración municipal, realizados en ejercicio de su competencia y para satisfacción de necesidades colectivas; y
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
-c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regularización recaiga sobre inmuebles cuyas superficies superen las señaladas en el Artículo 113 de este ordenamiento, se requerirá autorización previa del Congreso del Estado; el solicitante deberá acreditar que ha tenido la posesión del inmueble por 5 años anteriores a la fecha de la solicitud, además que no se hallen bienes registrados a su nombre o de su cónyuge, sin perjuicio de cumplir con las demás disposiciones legales aplicables.
+c) Para ordenar asentamientos humanos irregulares. Cuando la solicitud de regularización recaiga sobre inmuebles cuyas superficies superen las señaladas en el Artículo 113 de este ordenamiento, se requerirá que haya sido aprobado por las dos terceras partes de los integrantes del ayuntamiento; el solicitante deberá acreditar que ha tenido la posesión del inmueble por cinco años anteriores a la fecha de la solicitud, además que no se hallen bienes registrados a su nombre o de su cónyuge, sin perjuicio de cumplir con las demás disposiciones legales aplicables.
 
 ###### ARTICULO 112.
 
@@ -1721,6 +1779,8 @@ Queda estrictamente prohibido la enajenación de bienes muebles, durante los úl
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 113.
 
 Para la enajenación de los inmuebles a que se refiere la fracción primera, del artículo 107, los Ayuntamientos establecerán, por medio de un Reglamento, las bases conforme a las cuales puedan los particulares adquirirlos; pero en todo caso, la superficie enajenable no será superior a:
@@ -1731,9 +1791,9 @@ II.- En poblaciones de más de tres mil habitantes y hasta de quince mil, quinie
 
 III.- En poblaciones mayores de quince mil habitantes, doscientos cincuenta metros cuadrados.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
-Para el caso de establecimientos de centros industriales, agropecuarios, educativos y de interés social, previa justificación ante los Ayuntamientos y aprobación del Congreso del Estado, podrán enajenarse superficies mayores a las señaladas con anterioridad.
+Para el caso de establecimientos de centros industriales, educativos y de interés social, previa justificación ante los Ayuntamientos podrán enajenar superficies mayores a las señaladas con anterioridad.
 
 ###### ARTICULO 114.
 
@@ -1815,7 +1875,19 @@ V.- El denunciante que se haya presentado en primer lugar.
 
 ###### ARTICULO 121.
 
-La Presidencia Municipal, por conducto de la dependencia que determine el Ayuntamiento, erogará los gastos de la Administración Municipal y demás obligaciones a su cargo, de conformidad con el Presupuesto de Egresos.
+Los Municipios administrarán libremente su hacienda la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura del Estado establezcan a su favor, y en todo caso:
+
+a) Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;
+
+b) Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado;
+
+c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los inciso a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán excenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o por conducto de la dependencia que ellos determinen y de conformidad con el Presupuesto de Egresos.
 
 ###### ARTICULO 122.
 
@@ -1858,6 +1930,8 @@ VI.- Cualquier otro concepto establecido en las disposiciones fiscales municipal
 ## TITULO TERCERO. DE LOS IMPUESTOS, CONTRIBUCIONES Y DERECHOS
 
 ### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS, RIFAS O LOTERIAS, PERMITIDOS POR LA LEY
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 128.
 
@@ -1967,9 +2041,7 @@ b) El impuesto se causará en forma proporcional al importe del valor de las ent
 
 ###### ARTICULO 136.
 
-Quedan exentos del pago de este impuesto los espectáculos que sean organizados con fines exclusivamente de beneficio social.
-
-La exención sólo operará si se comprueba que los ingresos obtenidos se aplicaron íntegramente a los referidos fines de beneficio social.
+(DEROGADO, P.O. 12 DE MAYO DE 2001)
 
 ###### ARTICULO 137.
 
@@ -1986,10 +2058,6 @@ El Presidente Municipal podrá ordenar la suspensión del espectáculo, cuando q
 ###### ARTICULO 139.
 
 Es objeto de este impuesto, la celebración de juegos, rifas o loterías, de cualquier clase, que otorguen premios a los participantes.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
-Se exceptúa del pago de este impuesto la obtención de ingresos por la enajenación de billetes y demás comprobantes que permitan participar en loterías rifas, sorteos y concursos de toda clase, organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, Estatal y Municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
 ###### ARTICULO 140.
 
@@ -2157,9 +2225,11 @@ Tratándose de Fraccionamientos, la sanción se aplicará una vez transcurridos 
 
 #### SECCION III. DE LAS EXENCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 150.
 
-Están exentos del pago del Impuesto predial, los bienes del dominio público de la Federación, Estado y Municipios.
+Están exentos del pago del Impuesto predial, los bienes del dominio público de la Federación, Estado y Municipios, salvo que tales bienes sean utilizados bajo cualquier título por entidades paraestatales o por particulares, para fines administrativos o propósitos distintos a los de su objeto público.
 
 A requerimiento de la autoridad, el contribuyente deberá acreditar dicha condición, en los términos de la legislación aplicable.
 
@@ -2263,9 +2333,9 @@ Los avalúos a que se refieren los párrafos anteriores deberán comprender el t
 
 La tasa del impuesto es del dos por ciento sobre la base gravable, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales. Tratándose de acciones de vivienda nueva de interés social o popular, la tasa será la que se determine en las leyes de ingresos.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
-En aquellos Municipios en que así lo determinen sus leyes de ingresos, cuando la base gravable no exceda de 365 veces el salario mínimo general diario, vigente en la Capital del Estado, la tasa del impuesto será del 0%.
+En aquellos Municipios en que así lo determinen sus leyes de ingresos, cuando la base gravable no exceda de 365 veces el salario mínimo general diario, vigente en la Capital del Estado, la tasa del impuesto podrá ser del 0%.
 
 #### SECCION II. DECLARACIONES Y PAGO DEL IMPUESTO
 
@@ -2479,7 +2549,9 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 # LIBRO TERCERO. DE LA ACTIVIDAD MUNICIPAL
 
-## TITULO PRIMERO. DE LOS SERVICIOS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
+
+## TITULO PRIMERO. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 ### CAPITULO II. MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
 
@@ -2487,29 +2559,35 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 La prestación de los servicios públicos constituye la atribución primordial de los Municipios. La administración municipal reglamentará y vigilará la organización y funcionamiento de los servicios públicos que le corresponden.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 180.
 
-Los servicios públicos municipales, son los siguientes:
+Las funciones y servicios públicos municipales, son los siguientes:
 
-I.- Seguridad pública
+I.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
 
-II.- Tránsito;
+II.- Agua potable y saneamiento, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-III.- Aseo, recolección, transporte y aprovechamiento de la basura;
+III.- Pavimentación y nomenclaturas de calles;
 
-IV.- Alumbrado público;
+IV.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
-V.- Construcción y mantenimiento de parques, jardines, camellones, áreas verdes, deportivas, recreativas y de ornato;
+V.- Alumbrado público;
 
-VI.- Rastros;
+VI.- Rastros, mercados y centrales de abasto;
 
-VII.- Mercados;
+VII.- Calles, parques, jardines y su equipamiento;
 
-VIII.- Construcción, mantenimiento y control de panteones; vigilancia de exhumaciones, inhumaciones y traslado de cadáveres;
+VIII.- Panteones; autorización para construcción ejecutadas por particulares, su planificación y modificación;
 
-IX.- Aquellos, cuya prestación deleguen al Municipio los Gobiernos Federal y Estatal; y
+IX.- Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y
 
-X.- Los que por su naturaleza o por disposición de las leyes y sus reglamentos, deban ser considerados servicios públicos municipales.
+X.- Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios del Estado observarán lo dispuesto por las leyes federales y estatales.
+
+Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
 
 ###### ARTICULO 181.
 
@@ -2994,3 +3072,21 @@ P.O. 3 DE FEBRERO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MAYO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Legislatura del Estado deberá expedir las leyes en materia municipal a que se refieren los incisos a), b), c), d) y e), de la fracción II del Artículo 115 de la Constitución General de la República.
+
+TERCERO.- Tratándose de funciones que conforme al presente Decreto sean competencia de los municipios y que a la entrada en vigor de estas reformas sean prestados por el Gobierno del Estado o de manera coordinada por los municipios, éstos podrán asumirlos, previa aprobación del ayuntamiento. El Gobierno del Estado dispondrá lo necesario para que la función o servicio público de que se trate se transfiera al municipio de manera ordenada, conforme al programa de transferencia que presente el Gobierno del Estado, en un plazo máximo de noventa días contados a partir de la recepción de la correspondiente solicitud.
+
+En el caso del inciso b), fracción I del Artículo 138 de la Constitución Estatal, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar a esta Legislatura, conservar en su ámbito de competencia los servicios a que se refiere el citado inciso, cuando la transferencia de Estado a municipio afecte, en perjuciio (sic) de la población, su prestación. El Congreso resolverá lo conducente.
+
+En tanto se realiza la transferencia a que se refiere el primer párrafo, las funciones y servicios públicos seguirán ejerciéndose o prestándose en los términos y condiciones vigentes.
+
+CUARTO.- El Estado y los municipios realizarán los actos conducentes a efecto de que los convenios que, en su caso, hubieren celebrado con anterioridad, se ajusten a lo establecido en este Decreto, a la Constitución del Estado y demás leyes estatales.
+
+QUINTO.- Antes del inicio del ejercicio fiscal de 2002, la Legislatura del Estado, en coordinación con los municipios, adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores del mercado de dicha propiedad procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+SEXTO.- En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
