@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1978-07-20"
+last_updated: "1979-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1979.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -10903,11 +10903,13 @@ En la venta de que habla el artículo 2186 mientras que no pasa la propiedad de 
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
 ###### ARTICULO 2191.
 
-Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de cinco mil pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante notario, Juez de Paz o Registro Público de la Propiedad.
+Las enajenaciones de bienes inmuebles cuyo valor convencional no sea mayor de sesenta y cinco mil pesos y la constitución o transmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez de Paz o Registro Público de la Propiedad.
 
-Los contratos por los que el Gobierno del Estado enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por el valor de cien mil pesos, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
+Los contratos por los que el Estado o los Municipios, así como los Organismos Descentralizados y Empresas de Participación Oficial, dependientes de ellos, enajenen terrenos o casas destinados a habitación, para la constitución del patrimonio familiar o para personas de escasos recursos económicos hasta por el valor de cien mil pesos, podrán otorgarse en documento privado sin los requisitos de testigos y de ratificación de firmas.
 
 ###### ARTICULO 2192.
 
@@ -10917,9 +10919,11 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
 ###### ARTICULO 2194.
 
-Si el valor del inmueble excede de cinco mil pesos, su venta se hará en escritura pública, salvo lo dispuesto por el artículo 2191.
+Si el valor del inmueble excede de sesenta y cinco mil pesos, su venta se hará en Escritura Pública, salvo lo dispuesto por el artículo 2191.
 
 ###### ARTICULO 2195.
 
@@ -14706,3 +14710,7 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 P.O. 20 DE JULIO DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor a los veinte días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
