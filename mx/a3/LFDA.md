@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "1997-05-19"
+last_updated: "2003-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -270,11 +270,19 @@ Es titular del derecho patrimonial el autor, heredero o el adquirente por cualqu
 
 El autor es el titular originario del derecho patrimonial y sus herederos o causahabientes por cualquier título serán considerados titulares derivados.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Artículo 26 bis.- El autor y su causahabiente gozarán del derecho a percibir una regalía por la comunicación o transmisión pública de su obra por cualquier medio. El derecho del autor es irrenunciable. Esta regalía será pagada directamente por quien realice la comunicación o transmisión pública de las obras directamente al autor, o a la sociedad de gestión colectiva que los represente, con sujeción a lo previsto por los Artículos 200 y 202 Fracciones V y VI de la Ley.
+
+El importe de las regalías deberá convenirse directamente entre el autor, o en su caso, la Sociedad de Gestión Colectiva que corresponda y las personas que realicen la comunicación o transmisión pública de las obras en términos del Artículo 27 Fracciones II y III de esta Ley. A falta de convenio el Instituto deberá establecer una tarifa conforme al procedimiento previsto en el Artículo 212 de esta Ley.
+
 ###### Artículo 27.
 
 Los titulares de los derechos patrimoniales podrán autorizar o prohibir:
 
-I. La reproducción, publicación, edición o fijación material de una obra en copias o ejemplares, efectuada por cualquier medio ya sea impreso, fonográfico, gráfico, plástico, audiovisual, electrónico u otro similar;
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2003)</small>
+
+I.- La reproducción, publicación, edición o fijación material de una obra en copias o ejemplares, efectuada por cualquier medio ya sea impreso, fonográfico, gráfico, plástico, audiovisual, electrónico, fotográfico u otro similar.
 
 II. La comunicación pública de su obra a través de cualquiera de las siguientes maneras:
 
@@ -294,7 +302,9 @@ c) Microondas;
 
 d) Vía satélite, o
 
-e) Cualquier otro medio análogo;
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+e) Cualquier otro medio conocido o por conocerse.
 
 IV. La distribución de la obra, incluyendo la venta u otras formas de transmisión de la propiedad de los soportes materiales que la contengan, así como cualquier forma de transmisión de uso o explotación. Cuando la distribución se lleve a cabo mediante venta, este derecho de oposición se entenderá agotado efectuada la primera venta, salvo en el caso expresamente contemplado en el artículo 104 de esta Ley;
 
@@ -312,15 +322,15 @@ Las facultades a las que se refiere el artículo anterior, son independientes en
 
 Los derechos patrimoniales estarán vigentes durante:
 
-I. La vida del autor y, a partir de su muerte, setenta y cinco años más.
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2003)</small>
 
-Cuando la obra le pertenezca a varios coautores los setenta y cinco años se contarán a partir de la muerte del último, y
+I.- La vida del autor y, a partir de su muerte, cien años más.
 
-II. Setenta y cinco años después de divulgadas:
+Cuando la obra le pertenezca a varios coautores los cien años se contarán a partir de la muerte del último, y
 
-a) Las obras póstumas, siempre y cuando la divulgación se realice dentro del periodo de protección a que se refiere la fracción I, y
+> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2003)</small>
 
-b) Las obras hechas al servicio oficial de la Federación, las entidades federativas o los municipios.
+II.- Cien años después de divulgadas.
 
 Si el titular del derecho patrimonial distinto del autor muere sin herederos la facultad de explotar o autorizar la explotación de la obra corresponderá al autor y, a falta de éste, corresponderá al Estado por conducto del Instituto, quien respetará los derechos adquiridos por terceros con anterioridad.
 
@@ -594,9 +604,11 @@ La persona cuyo nombre o seudónimo, conocido o registrado, aparezca como autor 
 
 Respecto de las obras firmadas bajo seudónimo o cuyos autores no se hayan dado a conocer, las acciones para proteger el derecho corresponderán a la persona que las haga del conocimiento público con el consentimiento del autor, quien tendrá las responsabilidades de un gestor, hasta en cuanto el titular de los derechos no comparezca en el juicio respectivo, a no ser que existiera convenio previo en contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 78.
 
-Las obras derivadas, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones, colecciones y transformaciones de obras literarias o artísticas, serán protegidas en lo que tengan de originales, pero sólo podrán ser explotadas cuando hayan sido autorizadas por el titular del derecho patrimonial sobre la obra primigenia.
+Las obras derivadas, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones, colecciones y transformaciones de obras literarias o artísticas, serán protegidas en lo que tengan de originales, pero sólo podrán ser explotadas cuando hayan sido autorizadas por el titular del derecho patrimonial sobre la obra primigenia, previo consentimiento del titular del derecho moral, en los casos previstos en la Fracción III del Artículo 21 de la Ley.
 
 Cuando las obras derivadas sean del dominio público, serán protegidas en lo que tengan de originales, pero tal protección no comprenderá el derecho al uso exclusivo de la obra primigenia, ni dará derecho a impedir que se hagan otras versiones de la misma.
 
@@ -634,6 +646,12 @@ Salvo pacto en contrario, la persona física o moral que comisione la producció
 
 La persona que participe en la realización de la obra, en forma remunerada, tendrá el derecho a que se le mencione expresamente su calidad de autor, artista, intérprete o ejecutante sobre la parte o partes en cuya creación haya participado.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Artículo 83 bis.- Adicionalmente a lo establecido en el Artículo anterior, la persona que participe en la realización de una obra musical en forma remunerada, tendrá el derecho al pago de regalías que se generen por la comunicación o transmisión pública de la obra, en términos de los Artículos 26 bis y 117 bis de esta Ley.
+
+Para que una obra se considere realizada por encargo, los términos del contrato deberán ser claros y precisos, en caso de duda, prevalecerá la interpretación más favorable al autor. El autor también está facultado para elaborar su contrato cuando se le solicite una obra por encargo.
+
 ###### Artículo 84.
 
 Cuando se trate de una obra realizada como consecuencia de una relación laboral establecida a través de un contrato individual de trabajo que conste por escrito, a falta de pacto en contrario, se presumirá que los derechos patrimoniales se dividen por partes iguales entre empleador y empleado.
@@ -646,9 +664,11 @@ El empleador podrá divulgar la obra sin autorización del empleado, pero no al 
 
 Salvo pacto en contrario, se considerará que el autor que haya enajenado su obra pictórica, escultórica y de artes plásticas en general, no ha concedido al adquirente el derecho de reproducirla, pero sí el de exhibirla y el de plasmarla en catálogos. En todo caso, el autor podrá oponerse al ejercicio de estos derechos, cuando la exhibición se realice en condiciones que perjudiquen su honor o reputación profesional.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 86.
 
-Los fotógrafos profesionales sólo pueden exhibir las fotografías realizadas bajo encargo, como muestra de su trabajo, previa autorización.
+Los fotógrafos profesionales sólo pueden exhibir las fotografías realizadas bajo encargo como muestra de su trabajo, previa autorización. Lo anterior no será necesario cuando los fines sean culturales, educativos, o de publicaciones sin fines de lucro.
 
 ###### Artículo 87.
 
@@ -660,17 +680,23 @@ No será necesario el consentimiento a que se refiere este artículo cuando se t
 
 Los derechos establecidos para las personas retratadas durarán 50 años después de su muerte.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 88.
 
-Salvo pacto en contrario, el derecho exclusivo a reproducir una obra pictórica, gráfica o escultórica no incluye el derecho a reproducirla en cualquier tipo de artículo, así como la promoción comercial de éste.
+Salvo pacto en contrario, el derecho exclusivo a reproducir una obra pictórica, fotográfica, gráfica o escultórica no incluye el derecho a reproducirla en cualquier tipo de artículo así como la promoción comercial de éste.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
 
 ###### Artículo 89.
 
-La obra gráfica en serie es aquella que resulta de la elaboración de varias copias a partir de una matriz hecha por el autor.
+La obra gráfica y fotográfica en serie es aquella que resulta de la elaboración de varias copias a partir de una matriz hecha por el autor.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
 
 ###### Artículo 90.
 
-Para los efectos de esta Ley, los ejemplares de obra gráfica en serie debidamente firmados y numerados se consideran como originales.
+Para los efectos de esta Ley, los ejemplares de obra gráfica y fotográfica en serie debidamente firmados y numerados se consideran como originales.
 
 ###### Artículo 91.
 
@@ -679,6 +705,18 @@ A las esculturas que se realicen en serie limitada y numerada a partir de un mol
 ###### Artículo 92.
 
 Salvo pacto en contrario, el autor de una obra de arquitectura no podrá impedir que el propietario de ésta le haga modificaciones, pero tendrá la facultad de prohibir que su nombre sea asociado a la obra alterada.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Artículo 92 bis.- Los autores de obras de artes plásticas y fotográficas tendrán derecho a percibir del vendedor una participación en el precio de toda reventa que de las mismas se realice en pública subasta, en establecimiento mercantil, o con la intervención de un comerciante o agente mercantil, con excepción de las obras de arte aplicado.
+
+I.- La mencionada participación de los autores será fijada por el Instituto en los términos del Artículo 212 de la Ley.
+
+II.- El derecho establecido en este Artículo es irrenunciable, se transmitirá únicamente por sucesión mortis causa y se extinguirá transcurridos cien años a partir de la muerte o de la declaración de fallecimiento del autor.
+
+III.- Los subastadores, titulares de establecimientos mercantiles, o agentes mercantiles que hayan intervenido en la reventa deberán notificarla a la sociedad de gestión colectiva correspondiente o, en su caso, al autor o sus derecho-habientes, en el plazo de dos meses, y facilitarán la documentación necesaria para la práctica de la correspondiente liquidación. Asimismo, cuando actúen por cuenta o encargo del vendedor, responderán solidariamente con éste del pago del derecho, a cuyo efecto retendrán del precio la participación que proceda. En todo caso, se considerarán depositarios del importe de dicha participación.
+
+IV.- El mismo derecho se aplicará respecto de los manuscritos originales de las obras literarias y artísticas.
 
 ###### Artículo 93.
 
@@ -834,6 +872,10 @@ Los términos artista intérprete o ejecutante designan al actor, narrador, decl
 
 El artista intérprete o ejecutante goza del derecho al reconocimiento de su nombre respecto de sus interpretaciones o ejecuciones así como el de oponerse a toda deformación, mutilación o cualquier otro atentado sobre su actuación que lesione su prestigio o reputación.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Artículo 117 bis.- Tanto el artista intérprete o el ejecutante, tiene el derecho irrenunciable a percibir una remuneración por el uso o explotación de sus interpretaciones o ejecuciones que se hagan con fines de lucro directo o indirecto, por cualquier medio, comunicación pública o puesta a disposición.
+
 ###### Artículo 118.
 
 Los artistas intérpretes o ejecutantes tienen el derecho de oponerse a:
@@ -844,7 +886,9 @@ II. La fijación de sus interpretaciones o ejecuciones sobre una base material, 
 
 III. La reproducción de la fijación de sus interpretaciones o ejecuciones.
 
-Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, siempre y cuando los usuarios que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente.
 
 ###### Artículo 119.
 
@@ -860,9 +904,11 @@ Los contratos de interpretación o ejecución deberán precisar los tiempos, per
 
 Salvo pacto en contrario, la celebración de un contrato entre un artista intérprete o ejecutante y un productor de obras audiovisuales para la producción de una obra audiovisual conlleva el derecho de fijar, reproducir y comunicar al público las actuaciones del artista. Lo anterior no incluye el derecho de utilizar en forma separada el sonido y las imágenes fijadas en la obra audiovisual, a menos que se acuerde expresamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 122.
 
-La duración de la protección concedida a los artistas será de cincuenta años contados a partir de:
+La Duración de la protección concedida a los artistas intérpretes o ejecutantes será de setenta y cinco años contados a partir de:
 
 I. La primera fijación de la interpretación o ejecución en un fonograma;
 
@@ -928,21 +974,33 @@ IV. La adaptación o transformación del fonograma, y
 
 V. El arrendamiento comercial del original o de una copia del fonograma, aún después de la venta del mismo, siempre y cuando no se lo hubieren reservado los autores o los titulares de los derechos patrimoniales.
 
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Artículo 131 bis.- Los productores de fonogramas tienen el derecho a percibir una remuneración por el uso o explotación de sus fonogramas que se hagan con fines de lucro directo o indirecto, por cualquier medio o comunicación pública o puesta a disposición.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 132.
 
 Los fonogramas deberán ostentar el símbolo (P) acompañado de la indicación del año en que se haya realizado la primera publicación.
 
-La omisión de estos requisitos no implica la pérdida de los derechos que correspondan al productor del fonograma pero lo sujeta a las sanciones establecidas por la ley.
+La omisión de estos requisitos no implica la pérdida de los derechos que correspondan al productor de fonogramas pero lo sujeta a las sanciones establecidas por la Ley.
+
+Se presumirá, salvo prueba en contrario, que es Productor de Fonogramas, la persona física o moral cuyo nombre aparezca indicado en los ejemplares legítimos del fonograma, precedido de la letra "P", encerrada en un círculo y seguido del año de la primera publicación.
 
 Los productores de fonogramas deberán notificar a las sociedades de gestión colectiva los datos de etiqueta de sus producciones y de las matrices que se exporten, indicando los países en cada caso.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 133.
 
-Una vez que un fonograma haya sido introducido legalmente a cualquier circuito comercial, ni el titular de los derechos patrimoniales, ni los artistas intérpretes o ejecutantes, ni los productores de fonogramas podrán oponerse a su comunicación directa al público, siempre y cuando los usuarios que lo utilicen con fines de lucro efectúen el pago correspondiente a aquéllos.
+Una vez que un fonograma haya sido introducido legalmente a cualquier circuito comercial, ni los artistas intérpretes o ejecutantes, ni los productores de fonogramas podrán oponerse a su comunicación directa al público, siempre y cuando los usuarios que lo utilicen con fines de lucro efectúen el pago correspondiente a aquéllos. A falta de acuerdo entre las partes, el pago de sus derechos se efectuará por partes iguales.
+
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
 
 ###### Artículo 134.
 
-La protección a que se refiere este capítulo será de cincuenta años, a partir de la primera fijación de los sonidos en el fonograma.
+La protección a que se refiere este Capítulo será de setenta y cinco años, a partir de la primera fijación de los sonidos en el fonograma.
 
 ### Capítulo VI. De los Organismos de Radiodifusión
 
@@ -1018,9 +1076,11 @@ II. Reciba y distribuya una señal de satélite codificada portadora de programa
 
 III. Participe o coadyuve en la fabricación, importación, venta, arrendamiento o realización de cualquier acto que permita contar con un dispositivo o sistema que sea de ayuda primordial para descifrar una señal de satélite codificada, portadora de programas.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 146.
 
-Los derechos de los organismos de radiodifusión a los que se refiere este capítulo tendrán una vigencia de 25 años a partir de la primera emisión o transmisión original del programa.
+Los derechos de los organismos de radiodifusión a los que se refiere este Capítulo tendrán una vigencia de cincuenta años a partir de la primera emisión o transmisión original del programa.
 
 ## TITULO VI. De las Limitaciones del Derecho de Autor y de los Derechos Conexos
 
@@ -1268,7 +1328,7 @@ El Instituto expedirá los certificados respectivos y hará la inscripción para
 
 ###### Artículo 175.
 
-La protección que ampara el certificado a que se refiere el artículo anterior, no comprenderá lo que no es materia de reserva de derechos, de conformidad con el artículo 188 (sic) este ordenamiento, aun cuando forme parte del registro respectivo.
+La protección que ampara el certificado a que se refiere el artículo anterior, no comprenderá lo que no es materia de reserva de derechos, de conformidad con el artículo 188 este (sic) ordenamiento, aun cuando forme parte del registro respectivo.
 
 ###### Artículo 176.
 
@@ -1446,7 +1506,7 @@ No prescriben en favor de las sociedades de gestión colectiva y en contra de lo
 
 ###### Artículo 199.
 
-El Instituto otorgará las autorizaciones a que se refiere el artículo 193 (sic) concurren las siguientes condiciones:
+El Instituto otorgará las autorizaciones a que se refiere el artículo 193 concurren (sic) las siguientes condiciones:
 
 I. Que los estatutos de la sociedad de gestión colectiva solicitante cumplan, a juicio del Instituto, con los requisitos establecidos en esta Ley;
 
@@ -1574,6 +1634,8 @@ Previa denuncia de por lo menos el diez por ciento de los miembros el Instituto 
 
 ### Capítulo I. Del Procedimiento ante Autoridades Judiciales
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
 ###### Artículo 208.
 
 El Instituto Nacional del Derecho de Autor, autoridad administrativa en materia de derechos de autor y derechos conexos, es un órgano desconcentrado de la Secretaría de Educación Pública.
@@ -1624,7 +1686,9 @@ Si hay oposición, el Instituto hará un segundo análisis y propondrá la tarif
 
 ###### Artículo 213.
 
-Las acciones civiles que se ejerciten en materia de derechos de autor y derechos conexos se fundarán, tramitarán y resolverán conforme a lo establecido en esta Ley, siendo supletorio el Código Federal de Procedimientos Civiles, ante Tribunales Federales.
+Los Tribunales Federales conocerán de las controversias que se susciten con motivo de la aplicación de esta Ley, pero cuando dichas controversias sólo afecten intereses particulares, podrán conocer de ellas, a elección del actor, los tribunales de los Estados y del Distrito Federal.
+
+Las acciones civiles que se ejerciten se fundarán, tramitarán y resolverán conforme a lo establecido en esta Ley y en sus reglamentos, siendo supletorio el Código Federal de Procedimientos Civiles ante Tribunales Federales y la legislación común ante los Tribunales del orden común.
 
 ###### Artículo 214.
 
@@ -1639,6 +1703,14 @@ Corresponde conocer a los Tribunales de la Federación de los delitos relacionad
 Las autoridades judiciales darán a conocer al Instituto la iniciación de cualquier juicio en materia de derechos de autor.
 
 Asimismo, se enviará al Instituto una copia autorizada de todas las resoluciones firmes que en cualquier forma modifiquen, graven, extingan o confirmen los derechos de autor sobre una obra u obras determinadas. En vista de estos documentos se harán en el registro las anotaciones provisionales o definitivas que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2003)</small>
+
+Artículo 216 bis.- La reparación del daño material y/o moral así como la indemnización por daños y perjuicios por violación a los derechos que confiere esta Ley en ningún caso será inferior al cuarenta por ciento del precio de venta al público del producto original o de la prestación original de cualquier tipo de servicios que impliquen violación a alguno o algunos de los derechos tutelados por esta Ley.
+
+El juez con audiencia de peritos fijará el importe de la reparación del daño o de la indemnización por daños y perjuicios en aquellos casos en que no sea posible su determinación conforme al párrafo anterior.
+
+Para los efectos de este Artículo se entiende por daño moral el que ocasione la violación a cualquiera de los derechos contemplados en las Fracciones I, II, III, IV y VI del Artículo 21 de esta Ley.
 
 ### Capítulo III. Del Arbitraje
 
@@ -1905,3 +1977,11 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 19 DE MAYO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JULIO DE 2003.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- El Reglamento de la Ley Federal del Derecho de Autor publicado en el Diario Oficial de la Federación del día 22 de mayo de 1998, deberá ser reformado y adicionado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, con el objeto de ajustar las disposiciones del mismo, a las presentes reformas y adiciones.
