@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-del-estado-de-jalisco-y-sus-municipios-131
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-16"
-last_updated: "1997-01-16"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de enero de 1997.
 
@@ -39,9 +39,11 @@ Ley de Deuda Pública del estado de Jalisco y sus Municipios
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público, reglamentaria de la fracción VI del artículo 35 de la Constitución Política del Estado de Jalisco, conforme a lo dispuesto por el segundo párrafo de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos. Tiene por objeto fijar las bases para regular las operaciones de financiamiento que constituyan deuda pública, que realicen el estado, los municipios y sus respectivas entidades públicas, así como el registro y control de dichas operaciones.
+Esta ley es de orden público, conforme los artículos 115, fracción II, tercer párrafo, inciso b) y 117, fracción VIII, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos y, tiene por objeto, fijar las bases para regular las operaciones del financiamiento que constituyan deuda pública, que realicen el estado, sus municipios y sus respectivas entidades públicas, así como el registro y control de dichas operaciones.
 
 ###### Artículo 2º.
 
@@ -53,7 +55,9 @@ II. El Municipio por conducto del Ayuntamiento;
 
 III. Los organismos descentralizados de la Administración Pública Estatal y Municipal;
 
-IV. Las empresas de participación mayoritaria estatal, paraestatal o municipal, y
+(REFORMADA, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
+
+IV. Las empresas de participación mayoritaria estatal, paraestatal o sus análogos municipales;
 
 V. Los fideicomisos en los que el fideicomitente sea alguna de las entidades públicas señaladas en las fracciones anteriores.
 
@@ -71,11 +75,23 @@ III. Las garantías que otorguen para el cumplimiento de los actos señalados en
 
 Los recursos obtenidos mediante obligaciones de deuda pública estatal y municipal, deberán estar destinados al gasto de inversión pública productiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 5º.
 
-El estado y los municipios, previa autorización del Congreso del Estado podrán contratar deuda directa en los términos de esta Ley, hasta por el monto neto del 10% del importe total de sus respectivos presupuestos de egresos autorizados por el ejercicio fiscal en el que se contrate el crédito, sin considerar los recursos obtenidos de los mismos. El Congreso del Estado podrá autorizar al estado y a los municipios para contratar deuda directa con montos superiores a los señalados en el párrafo anterior, cuando tengan capacidad financiera para pagarlos considerando su naturaleza, objeto y destino de empréstito.
+El Estado, previa autorización del Congreso del Estado, podrá contratar deuda directa en los términos de esta ley, hasta por el monto neto del 10% del importe total de sus respectivos presupuestos de egresos autorizados por el ejercicio fiscal en el que se contrate el crédito, sin considerar los recursos obtenidos de los mismos.
 
-Las entidades públicas señaladas en las fracciones III; IV y V del artículo 2° de esta Ley, podrán contratar deuda pública por los montos que autorice el Congreso del Estado.
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+El Congreso del Estado podrá autorizar al Ejecutivo del Estado para contratar deuda directa con montos superiores a los señalados en el párrafo anterior, cuando tengan capacidad financiera para pagarlos considerando su naturaleza, objeto y destino del empréstito.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+Los municipios podrán contratar deuda directa en los términos establecidos en los párrafos anteriores, cuando así lo autorice el Ayuntamiento por mayoría simple de sus miembros, o con el acuerdo de las dos terceras partes cuando el empréstito trascienda el período de la administración municipal.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+Las entidades públicas estatales señaladas en las fracciones III; IV y V del artículo 2 de esta ley, podrán contratar deuda pública por los montos que autorice el Congreso del Estado, o en su caso, por el ayuntamiento cuando dichas entidades correspondan a la administración pública municipal.
 
 Las entidades públicas deberán programar un superávit primario en sus finanzas públicas y dar suficiencia a sus obligaciones de deuda pública, en su presupuesto anual de egresos.
 
@@ -121,19 +137,29 @@ Las iniciativas correspondientes, deberán contener los elementos de juicio que 
 
 II. Autorizar, previa solicitud del titular del Poder Ejecutivo del Estado debidamente justificada, los montos de endeudamiento adicionales a los señalados en la fracción anterior; cuando medien circunstancias que lo ameriten, siempre y cuando no rebase el monto establecido por el artículo 5º de esta Ley. No se requerirá autorización cuando el estado deba hacer frente a una urgente necesidad, pero deberá dar aviso al Congreso del Estado de la deuda contratada y quedará sujeta a las reglas de información y registro, previstas en esta Ley;
 
-III. Autorizar las solicitudes de endeudamiento de las entidades públicas previstas en las fracciones II, III, IV y V del artículo 2º de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
-IV. Solicitar a las entidades públicas la documentación e información que se requiera para el análisis de las solicitudes de autorización de operaciones de deuda pública directa o contingente;
+III. Autorizar las solicitudes de endeudamiento de las entidades públicas de carácter estatal o paraestatal, previstas en las fracciones III, IV y V del artículo 2° de esta ley;
 
-V. Autorizar al Estado y a los municipios para afectar en garantía de pago de la deuda pública, las participaciones que les correspondan, en ingresos federales y estatales, excepto en obligaciones contraídas por municipios con el Gobierno del Estado o con el fondo de apoyo municipal, que no rebasen el período de su administración, en donde bastará el acuerdo de cabildo correspondiente;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
-VI. Solicitar al titular del Poder Ejecutivo del Estado y a los ayuntamientos, un informe sobre la capacidad de endeudamiento del estado y de los municipios y demás entidades públicas, en su caso, en relación a las participaciones federales y estatales que se afecten;
+IV. Solicitar a las entidades públicas de carácter estatal, la documentación e información que se requiera para el análisis de las solicitudes de autorización de operaciones de deuda pública directa o contingente;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+V. Autorizar al Ejecutivo del Estado para afectar en garantía de pago de la deuda pública, las participaciones que le correspondan, en ingresos federales y estatales;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+VI. Solicitar al Titular del Ejecutivo del Estado y a los ayuntamientos, un informe sobre la capacidad de endeudamiento y demás entidades públicas, en su caso, con relación a las participaciones federales y estatales que se afecten, con motivo de la fiscalización y revisión de sus cuentas públicas;
 
 VII. Autorizar al Estado a constituirse en garante de terceros, cuando lo justifique el interés social, y
 
 VIII. Solicitar a las entidades públicas los informes necesarios para verificar que las operaciones de endeudamiento se realicen conforme a las disposiciones legales aplicables, formulando las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar.
 
-Las facultades a que se refieren las fracciones IV, VI y VIII de este artículo, serán ejercidas por la Comisión de Hacienda y Presupuestos del Congreso, y en su caso, según corresponda por la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+Las facultades a que se refieren las fracciones IV, VI y VIII de este artículo, serán ejercidas por las comisiones de Hacienda y Presupuestos y de Inspección del Congreso, y en su caso, por la Contaduría Mayor de Hacienda, conforme lo establece la Ley Orgánica del Poder Legislativo y demás ordenamientos en la materia.
 
 ###### Artículo 12.
 
@@ -151,7 +177,11 @@ d) Autorizar la reestructuración de empréstitos a sus entidades y a las de los
 
 e) Suscribir los demás instrumentos de deuda, dentro de los montos autorizados por el Congreso del Estado, así como la conversión de los mismos;
 
-f) Constituirse en avalista o deudor solidario, de los municipios y demás entidades públicas, previo dictamen financiero;
+f) Constituirse en avalista o deudor solidario, de los municipios y demás entidades públicas, previo dictamen financiero.
+
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
+
+El Ejecutivo del Estado, deberá solicitar autorización expresa del Congreso del Estado para constituirse en aval o deudor solidario de los municipios, cuando el adeudo trascienda la administración estatal;
 
 g) Constituirse en avalista o deudor solidario de terceros, previa autorización del Congreso del Estado, cuando lo justifique el interés social, y
 
@@ -181,19 +211,31 @@ g) Asesorar a los municipios y a sus entidades públicas, en la formulación de 
 
 III. Las obligaciones a que se refieren los incisos c), d), y e) de la fracción II de este artículo, serán ejercidas por conducto de la Secretaría de Finanzas del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 13.
 
-Los Ayuntamientos tendrán las siguientes facultades y obligaciones:
+Los ayuntamientos al contratar deuda directa, deberán estar a lo establecido en la presente ley, sus presupuestos de egresos y demás ordenamientos en la materia. Asimismo, al contraer deuda directa o, en su caso, al afectar las participaciones federales o estatales que les correspondan, por un término mayor al de su administración, deberá mediar autorización por las dos terceras partes de los integrantes del ayuntamiento con dictamen que así lo justifique.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+Los ayuntamientos tendrán las siguientes facultades y obligaciones:
 
 I. Son facultades:
 
-a) Solicitar al Congreso del Estado autorización para contratar empréstitos directos adicionales a los que se refiere el inciso a) de la fracción II de este artículo y, en su caso, afectar en garantía de pago las participaciones del municipio en impuestos federales y estatales;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
-b) Aprobar la suscripción de actos, contratos y convenios que tengan por objeto la obtención de empréstitos y demás operaciones de deuda pública; remitiéndolos para su autorización al Congreso del Estado, incluyendo las obligaciones derivadas de la deuda pública contingente;
+a) Autorizar con el acuerdo de las dos terceras partes de los miembros del Ayuntamiento, la contratación de empréstitos directos adicionales a los que se refiere el inciso a) de la fracción II de este artículo y, en su caso, afectar en garantía de pago, las participaciones del municipio en impuestos federales y estatales;
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+b) Aprobar la suscripción de actos, contratos y convenios que tengan por objeto la obtención de empréstitos y demás operaciones de deuda pública. Remitiéndolos para efecto de registro, fiscalización y revisión al Congreso del Estado, incluyendo las obligaciones derivadas de la deuda pública contingente;
 
 c) Aprobar la reestructuración de sus empréstitos y la de sus entidades, notificando al Congreso del Estado, con la justificación que avale su decisión, en un plazo de treinta días;
 
-d) Aprobar la afectación de las participaciones que les correspondan, cuando sirvan de garantía en las obligaciones de deuda pública, previa autorización del Congreso del Estado, cuando exceda el término de su administración;
+(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
+
+d) Aprobar la afectación de las participaciones que les correspondan, cuando sirvan de garantía en las obligaciones de deuda pública;
 
 e) Autorizar en el Presupuesto de Egresos correspondiente las partidas destinadas al pago del servicio de la deuda, y
 
@@ -203,7 +245,25 @@ II. Son obligaciones:
 
 a) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuestos de egresos, que incluirán todas las operaciones de deuda pública a que se refiere esta Ley, remitiéndolos al Congreso del Estado para efectos de registro;
 
-b) Informar al Congreso del Estado en la remisión de sus Cuentas Públicas Municipales, sobre la situación de su deuda pública, en la forma prevista en el inciso b) de la fracción II del artículo 12 de esta Ley;
+(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
+
+b) Informar al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal; a dichos informes se acompañará la documentación soporte y deberá contener:
+
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2001)</small>
+
+1. El origen y condiciones de la operación de la deuda, tales como: los montos de financiamiento contratados, los organismos que contrataron los plazos, las tasas de interés, los períodos de gracia y las garantías que otorgaron;
+
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2001)</small>
+
+2. Los bienes u obras pública productivas a que se destine el financiamiento; y
+
+> <small>(F. DE E., P.O. 13 DE MARZO DE 2001)</small>
+
+3. El saldo de la deuda que comprenderá la forma y plazos del servicio de deuda.
+
+(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
+
+Tratándose de aquellos casos en los que se requiera la aprobación de las dos terceras partes de los integrantes de los ayuntamientos, deberá anexarse acta de cabildo certificada en la que conste dicha autorización, así como el dictamen que generó el permiso en cuestión.
 
 c) Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, así como la que le solicite el titular del Poder Ejecutivo del Estado, respecto de los empréstitos en que el estado se hubiese constituido como su aval o deudor solidario o para efectos de registro;
 
@@ -215,9 +275,13 @@ f) Las demás que en materia de deuda pública le corresponda.
 
 ### CAPÍTULO III. De la programación y contratación de empréstitos
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 14.
 
-El Estado y sus municipios en cumplimiento a lo previsto por el segundo párrafo, fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y a lo dispuesto por la fracción VI del artículo 35 de la Constitución Política del Estado, únicamente podrán contratar deuda pública cuando se destine a inversiones públicas productivas y sólo podrán emitir otros títulos de deuda pagaderos en el territorio y moneda nacional, previa autorización del Congreso del Estado. Tanto en el acta de emisión como en los títulos y certificados, deberán citarse los decretos de autorización, así como la prohibición de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales; los documentos no tendrán validez si no se consignan dichos datos.
+El estado y sus municipios, en cumplimiento a lo previsto por los artículos 115, fracción II, tercer párrafo, inciso b) y 117, segundo párrafo, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos y a lo dispuesto por el numeral 35, fracción VI de la Constitución Política del Estado de Jalisco, únicamente podrán contratar deuda pública, cuando se destine a inversiones públicas productivas y sólo podrán emitir otros títulos de deuda pagaderos en el territorio y en moneda nacional, previa autorización del Congreso del Estado o de los ayuntamientos, respectivamente.
+
+Tanto en el acta de emisión, como en los títulos y certificados, deberán citarse los decretos o acuerdos del ayuntamiento, mediante los cuales se autorizan los mismos, así como la prohibición expresa de su venta a extranjeros, sean estos gobiernos, entidades gubernamentales, sociedades, particulares u organismos internacionales; los documentos no tendrán validez sino se consignan dichos datos.
 
 ###### Artículo 15.
 
@@ -227,37 +291,53 @@ Los empréstitos que contrate el Estado, deberán estar previstos en un programa
 
 Los empréstitos que contraten los municipios, deberán estar previstos en su programa financiero anual de presupuesto de egresos, con excepción de lo dispuesto por el artículo 6º y por el inciso a) de la fracción I del artículo 13 de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 17.
 
-La deuda que contraten las entidades públicas así como las garantías que otorguen, deberán ceñirse a las autorizaciones efectuadas por el Congreso del Estado y aplicarse precisamente al fin establecido en el decreto expedido para tal efecto. Cualquier modificación al destino del empréstito autorizado así como a las demás especificaciones fijadas por el Congreso del Estado, requerirán la autorización de éste, salvo lo dispuesto por el artículo 6° de esta Ley.
+La deuda que contraten las entidades públicas estatales o municipales así como las garantías que otorguen, deberán ceñirse a las autorizaciones efectuadas por el Congreso del Estado o, en su caso, del ayuntamiento, así como aplicarse precisamente al fin establecido en la autorización señalada para tal efecto. Cualquier modificación al destino del empréstito autorizado así como a las demás especificaciones, requerirán la autorización del órgano competente, salvo lo dispuesto por el artículo 6 de esta ley.
 
 ###### Artículo 18.
 
 Para la obtención y contratación de las operaciones de financiamiento, el Estado, los Municipios y demás entidades públicas, podrán ocurrir a instituciones de crédito, banca de desarrollo, auxiliares de crédito y proveedores, reconocidas ante las autoridades competentes y que funcionen de acuerdo a la legislación de la materia, procurando elegir las condiciones más favorables al interés público, salvo lo dispuesto por el artículo 30 de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 19.
 
-Sólo por causas extraordinarias que afecten el equilibrio financiero del Municipio, el Ayuntamiento podrá convenir con el Estado sobre la subrogación de los derechos del acreedor, pagando la deuda municipal previa autorización del Congreso del Estado.
+Sólo por causas extraordinarias que afecten el equilibrio financiero del municipio y con la autorización de las dos terceras partes de los integrantes del ayuntamiento, el gobierno municipal podrá convenir con el estado sobre la subrogación de los derechos del acreedor, pagando la deuda municipal.
 
 ###### Artículo 20.
 
 En la contratación de deuda, las entidades públicas deberán mantener el equilibrio financiero y disponer de capacidad presupuestal suficiente para solventar las obligaciones contratadas, sin demérito de las obligaciones económicas normales a su cargo.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 21.
 
-Los organismos descentralizados, los fideicomisos y las empresas de participación mayoritaria estatal, paraestatal o municipal, sólo podrán contratar empréstitos, previo acuerdo del órgano de gobierno correspondiente, presentando la solicitud a través del Titular del Poder Ejecutivo del Estado o del Ayuntamiento respectivo, al Congreso del Estado para su estudio y, en su caso autorización.
+Los organismos descentralizados, los fideicomisos y las empresas de participación mayoritaria estatal o paraestatal, sólo podrán contratar empréstitos, presentando la solicitud a través del Titular del Poder Ejecutivo para que la remita al Congreso, ambos, poderes del Estado, para su estudio y, en su caso autorización.
+
+En el caso de los organismos de carácter municipal, podrán contratar empréstitos, cuando así lo autorice el Ayuntamiento por mayoría simple de sus miembros, o con el acuerdo de las dos terceras partes cuando el empréstito trascienda la administración municipal. La solicitud podrá presentarse por medio del Presidente Municipal o por la comisión edilicia correspondiente.
 
 ###### Artículo 22.
 
 En la contratación de endeudamiento, el Estado y los Municipios podrán afectar como garantía de las obligaciones contraídas, sus participaciones en impuestos federales y estatales, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 23.
 
-El Estado y los Municipios podrán constituir fideicomisos para el pago de las obligaciones contraídas, notificándole al Congreso del Estado o solicitándole su autorización cuando así proceda.
+El Estado y los municipios, podrán suscribir contratos de fideicomiso, para el pago de las obligaciones contraídas, solicitando la autorización del Congreso del Estado o notificándole según corresponda.
 
 El Estado y los Municipios podrán establecer esquemas de garantía de las entidades públicas, incluyendo fideicomisos, que sean acordes con la Ley Federal de Coordinación Fiscal en los cuales, las participaciones federales que se afecten, conserven su naturaleza jurídica, siempre y cuando, representen una alternativa que consolide la seguridad jurídica y financiera, así como el equilibrio económico.
 
-En estos esquemas o fideicomisos no podrán comprometerse bienes inmuebles del dominio público o privado.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+En estos esquemas o fideicomisos de carácter estatal, no podrán comprometerse bienes inmuebles del dominio público o privado. Tratándose de los bienes inmuebles de dominio público, los ayuntamientos no podrán comprometerlos. Respecto de los bienes inmuebles del dominio privado municipal, sólo podrán otorgarse como garantía cuando éstos se encuentren en un lugar que cuente con los suficientes inmuebles que garanticen la prestación de servicios públicos y mediante la aprobación de las dos terceras partes de los integrantes de los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+Los fideicomisos del Ejecutivo Estatal que trasciendan su administración requerirán de la autorización del Congreso del Estado.
 
 ###### Artículo 24.
 
@@ -275,13 +355,17 @@ Si de la evaluación que realice la Secretaría de Finanzas se desprende que la 
 
 En el caso de la negativa, la entidad solicitante, podrá acudir ante el Congreso del Estado, para que éste resuelva en definitiva la autorización, o ratifique la negativa.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 27.
 
-Los municipios acompañarán a la solicitud de empréstito que presenten ante el Congreso del Estado, el acuerdo emitido por el titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, respecto al otorgamiento del aval, o bien, de la responsabilidad solidaria con la garantía de las participaciones federales y estatales.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas, deberá solicitar autorización al Congreso del Estado, cuando dé su aval o asuma responsabilidad solidaria de algún ayuntamiento trascendiendo la administración estatal, deberá acompañar el acuerdo respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
 ###### Artículo 28.
 
-La solicitud que el Estado, por conducto del titular del Poder Ejecutivo o los municipios presenten al Congreso del Estado para la autorización de un empréstito, deberá contener y acompañar los siguientes requisitos:
+La solicitud que el Estado, por conducto del Titular del Poder Ejecutivo presente al Congreso del Estado, para la autorización de un empréstito, deberá contener y acompañar los siguientes requisitos:
 
 I. El acuerdo del titular del Poder Ejecutivo, del Ayuntamiento o del órgano de gobierno, según corresponda;
 
@@ -291,9 +375,25 @@ III. La previsión del empréstito en el programa financiero anual, correspondie
 
 IV. El aval, o bien, la garantía solidaria cuando se requiera en los términos de esta Ley, al cual se anexará el dictamen financiero a que se refiere el inciso f) de la fracción I del artículo 12 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+###### Artículo 28 Bis.
+
+Las solicitudes de empréstitos que se presenten ante el Ayuntamiento, deberán contener los siguientes requisitos:
+
+I. La solicitud de empréstito;
+
+II. El monto, destino y condiciones, en su caso, del empréstito;
+
+III. La previsión del empréstito en el programa financiero anual correspondiente; y
+
+IV. El aval, o bien, la garantía solidaria cuando se requiera en los términos de esta ley, a la cual se anexará el dictamen financiero a que se refiere el inciso f) de la fracción primera del artículo 12 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 29.
 
-El Estado, por conducto de la Secretaría de Finanzas podrá otorgar empréstitos a las entidades a que se refieren las fracciones II, III, IV y V del artículo 2º de esta Ley, siempre y cuando se restituya su importe y el respectivo costo financiero dentro de un plazo que no exceda el período de su administración. Tratándose de municipios, será a cuenta de sus participaciones en impuestos federales y estatales y el plazo no podrá exceder al período constitucional del Ayuntamiento, en caso de exceder, se requerirá la autorización previa del Congreso del Estado.
+El Estado, por conducto de la Secretaría de Finanzas, podrá otorgar empréstitos a las entidades a que se refieren las fracciones II, III, IV y V del artículo 2º de esta ley, siempre y cuando se restituya su importe y el respectivo costo financiero dentro de un plazo que no exceda el período de su administración. Tratándose de Municipios, será a cuenta de sus participaciones en impuestos federales y estatales y el plazo no podrá exceder al período constitucional del Ejecutivo del Estado, en caso de exceder, se requerirá la autorización de las dos terceras parte (sic) de los integrantes del Ayuntamiento.
 
 En el caso del otorgamiento en garantía de las participaciones del municipio a sus entidades, éste deberá aceptar que se realicen los descuentos de las mismas para el pago de la deuda.
 
@@ -301,7 +401,9 @@ En el caso del otorgamiento en garantía de las participaciones del municipio a 
 
 Las entidades públicas podrá (sic) convenir para otorgarse financiamiento entre ellos, siempre y cuando se restituya su importe y el respectivo costo financiero, dentro del término de su administración.
 
-Tratándose de organismos descentralizados del Municipio, el plazo para que se reintegre, no podrá exceder del período constitucional del Ayuntamiento.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
+Tratándose de organismos descentralizados municipales, éstos deberán solicitar autorización del Ayuntamiento, para que el plazo de reintegro, exceda la administración municipal.
 
 ### CAPÍTULO IV. Del registro estatal de deuda pública
 
@@ -379,9 +481,11 @@ III. Proporcionar los informes necesarios al Congreso del Estado, por conducto d
 
 El Congreso del Estado por conducto de la Contaduría Mayor de Hacienda, llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que para el Registro Estatal establece esta Ley. Así mismo analizará los endeudamientos que vayan contrayendo y les requerirá por la presentación de un análisis respecto de su deuda. Cuando de los datos registrados se estime que pueda estar en peligro su capacidad de pago y en tanto que dicha información no sea desahogada y adecuadamente soportada financieramente, éste podrá rehusar la inscripción de nuevas suscripciones de operaciones de endeudamiento, resolución que deberá ser comunicada oportunamente a la entidad de que se trate.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+
 ###### Artículo 41.
 
-El titular del Poder Ejecutivo y El Congreso del Estado, podrán establecer convenios de colaboración administrativa para la integración de sus respectivos registros.
+El Ejecutivo del Estado, los Ayuntamientos y el Congreso del Estado, podrán establecer convenios de colaboración administrativa para la integración de sus respectivos registros.
 
 TRANSITORIOS:
 
@@ -418,3 +522,11 @@ Ing. Alberto Cárdenas Jiménez
 El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DEL 2000.
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
