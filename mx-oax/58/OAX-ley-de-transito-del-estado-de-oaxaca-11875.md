@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-del-estado-de-oaxaca-11875"
 country: "mx"
 rank: "ley"
 publication_date: "1969-07-05"
-last_updated: "1975-12-27"
+last_updated: "1976-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSITO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1976.
 
 Ley publicada en el Periódico Oficial Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 5 de Julio de 1969.
 
@@ -52,6 +52,10 @@ DISPOSICIONES GENERALES.
 ###### Artículo 1o.
 
 La presente Ley tiene por objeto establecer las bases y requisitos a que se sujetarán la circulación de las personas, el manejo y el tránsito de vehículos y semovientes y los servicios públicos de transporte de pasajeros y de carga en las vías públicas del Estado de Oaxaca, que no sean de jurisdicción federal, considerados como actividades de interés público.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1976)</small>
+
+Por tal motivo, cuando por cualquier causa se suspenda la prestación de tales servicios, el Ejecutivo del Estado podrá intervenir las empresas para la reanudación de los propios servicios.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -293,11 +297,13 @@ TRANSITO, CONCESIONES Y PERMISOS.
 
 La circulación de las personas, el manejo y tránsito de vehículos y semovientes y los servicios de transporte de pasajeros y de carga en las vías públicas del Estado de Oaxaca, se sujetarán a las condiciones y requisitos que señalen esta Ley y sus reglamentos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 1976)</small>
 
-###### Artículo 18.
+###### ARTICULO 18.
 
-El establecimiento y la explotación de los servicios públicos de transporte de pasajeros o de carga, así como sus servicios conexos, solamente podrán efectuarse mediante concesión o permiso que otorgue el Ejecutivo del Estado.
+El establecimiento y la explotación de los servicios públicos de transporte de pasajeros y de carga, así como sus servicios conexos, solamente podrán efectuarse mediante concesión o permiso que otorgue el Ejecutivo del Estado.
+
+Las necesidades de tales servicios se determinarán por la Dirección de Economía del Gobierno del Estado con base en el estudio socio económico que elabore al efecto.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -351,7 +357,17 @@ VII.- Las garantías necesarias que otorgará el concesionario o permisionario p
 
 VIII.- El plazo en que deberá iniciarse la prestación del servicio.
 
-IX.- Las demás modalidades que de acuerdo con la naturaleza del servicio se juzguen necesarias para la eficiente prestación del mismo.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE DICIEMBRE DE 1976)</small>
+
+IX.- Las demás modalidades que de acuerdo con la naturaleza del servicio se juzguen necesarias para la eficiente prestación del mismo, incluyendo:
+
+a).- La obligación que se impone a los concesionarios, quienes deben prestar el servicio durante un período mínimo de 10 años en el que no podrán ceder o traspasar los derechos derivados de la concesión otorgada y en su caso, prorrogada.
+
+b).- La prohibición de que se expidan concesiones a quienes no las exploten personalmente o no tengan éstas como fuente directa y principal de su economía.
+
+c).- Respecto de las concesiones para explotación de automóviles de alquiler, la disposición de que éstas se otorguen únicamente a personas físicas, con la condición de que se dediquen personalmente a la explotación de la concesión.
+
+d).- La obligación de (sic) concesionario, de comunicar por escrito a la Dirección General de Seguridad Pública la interrupción total o parcial del servicio, siempre y cuando ésta exceda de 10 días, explicando las causas, para su investigación y efectos de lo previsto en esta Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -359,11 +375,17 @@ IX.- Las demás modalidades que de acuerdo con la naturaleza del servicio se juz
 
 Las concesiones y permisos para el establecimiento y explotación de los servicios públicos de transporte de pasajeros o carga, caducarán de pleno derecho:
 
-I.- Porque se ceda, enajene o hipoteque la concesión o permiso, los derechos que de ellos se deriven y los bienes afectos al servicio, sin la aprobación del Ejecutivo del Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE DICIEMBRE DE 1976)</small>
+
+I.- Por que se ceda, enajene o hipoteque la concesión o permiso, los derechos que de ellos se deriven y los bienes afectos al servicio, sin la aprobación del Ejecutivo del Estado, el cual no podrá conceder esta aprobación sino después de diez años de que se preste el servicio al amparo de la concesión otorgada y, en su caso, prorrogada.
 
 II.- Porque el servicio para el que se otorgó la concesión o el permiso, no se preste dentro del plazo señalado para su iniciación.
 
-III.- Porque se venza el plazo de la concesión o permiso sin haberse renovado éstos..
+III.- Porque se venza el plazo de la concesión o permiso sin haberse renovado éstos.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1976)</small>
+
+IV.- Por no explotar personalmente las concesiones los titulares de ellas o no tener éstas como fuente directa y principal de su economía.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -396,6 +418,10 @@ Cuando opere la caducidad o revocación de las concesiones o permisos, los conce
 ###### Artículo 29.
 
 Los derechos al establecimiento y explotación de los servicios públicos de transporte de pasajeros o carga, que amparen las concesiones y permisos serán inembargables
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1976)</small>
+
+Artículo 29 bis.- Cuando haya necesidad de aumentar los servicios de transporte de pasajeros y carga, la Dirección General de Seguridad Pública, por conducto de de (sic) la Jefatura de Tránsito, convocará a quienes se crean con derechos a tales concesiones por medio del Periódico Oficial y aviso que se coloquen en lugares públicos de la localidad respectiva.
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1972)</small>
 
@@ -496,6 +522,12 @@ La presente Ley entrará en vigor a los 15 días de su publicación en el Perió
 Los servicios públicos de transporte de pasajeros o de carga se regularizarán dentro del plazo de 90 días a partir de la vigencia de esta Ley.
 
 P.O. 27 DE DICIEMBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1976.
 
 ###### ARTICULO UNICO.
 
