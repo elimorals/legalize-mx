@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-08-10"
+last_updated: "2004-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE OCTUBRE DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,11 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273 y 274; el de robo, contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; la delincuencia organizada, prevista en el artículo 178; los cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en los artículos 205 tercer párrafo y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el deterioro de área natural protegida, previsto en artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el delito de peligro de contagio previsto en el artículo 252 último párrafo; el de secuestro, señalado por el artículo 259, excepto el último párrafo; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; la extorsión contenida en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de violación, señalado por los artículos 273, 273 BIS, y 274; el de robo, contenido en los artículos 289 fracción V, 290 fracciones I, II, III, IV, V y último párrafo y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de fraude a que se refieren los artículos 306 fracción VIII y 307 fracción V; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado por el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -703,6 +703,8 @@ En el caso del primer párrafo del artículo anterior, se sancionarán como deli
 
 ### CAPITULO V. CASOS DE CONCURSO
 
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 66.
 
 A quien se excediere en los límites señalados para la defensa o la necesidad, porque el daño que iba a sufrir era fácilmente reparable por medios legales o era de menor magnitud que el que causó o bien por no haber tenido necesidad racional del medio empleado, se le impondrá prisión de seis meses a siete años y de treinta a noventa días multa, sin que en ningún caso la pena exceda de las dos terceras partes de la que correspondería al delito simple.
@@ -715,7 +717,7 @@ Cuando la capacidad de comprender el carácter ilícito del hecho típico no pue
 
 ###### Artículo 68.
 
-En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos, sin que el total exceda de cincuenta años.
+En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos, sin que el total exceda de setenta años.
 
 ### CAPITULO VII. CONMUTACION DE PENAS
 
@@ -1813,7 +1815,7 @@ Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de 
 
 Comete el delito de utilización indebida de la vía pública:
 
-I. El que utilice la vía pública para consumir, distribuir o vender substancia (sic)) ilícitas o para inhalar sustancia (sic) lícitas no destinadas para ese fin y que produzcan efectos psicotrópicos, sin perjuicio de lo dispuesto por otros ordenamientos jurídicos; para los efectos de este artículo, son substancias ilícitas las así calificadas por la Ley General de Salud; y
+I. El que utilice la vía pública para consumir, distribuir o vender substancia (sic) ilícitas o para inhalar sustancia (sic) lícitas no destinadas para ese fin y que produzcan efectos psicotrópicos, sin perjuicio de lo dispuesto por otros ordenamientos jurídicos; para los efectos de este artículo, son substancias ilícitas las así calificadas por la Ley General de Salud; y
 
 II. El que dirija a otros a ejercer el comercio en la vía pública sin permiso de la autoridad competente.
 
@@ -2235,6 +2237,8 @@ Será necesario que la secretaría del ramo formule la denuncia correspondiente 
 
 ### CAPITULO III. ESTUPRO
 
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 235.
 
 Al que intencionalmente y en contravención a las disposiciones legales en materia de protección a la flora y la fauna o normas técnicas relacionadas con esta materia de competencia estatal:
@@ -2593,7 +2597,7 @@ VI. Reciba cualquier pago con motivo de su intervención en el secuestro.
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
-VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocmiento de la comisión de secuestro.
+VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro.
 
 ###### Artículo 262.
 
@@ -2659,7 +2663,7 @@ Si se hiciere uso de la violencia física o moral se impondrá además la pena d
 
 ###### Artículo 271.
 
-Al que tenga cópula con una mujer mayor de catorce años y menor de dieciocho casta y honesta obteniendo su consentimiento por medio de seducción, se le impondrán de seis meses a cuatro años de prisión y de treinta a cien días multa.
+Al que tenga cópula con una mujer mayor de quince años y menor de dieciocho casta y honesta obteniendo su consentimiento por medio de seducción, se le impondrán de seis meses a cuatro años de prisión y de treinta a cien días multa.
 
 ###### Artículo 272.
 
@@ -2683,17 +2687,17 @@ Artículo 273 BIS.- Si la persona ofendida fuere menor de quince años, se impon
 
 (F. DE E., G.G. 4 DE OCTUBRE DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
 
-Se equipara a la violación la cópula o introducción por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años.
+Se equipara a la violación la cópula o introducción por vía vaginal, anal u oral, cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años.
 
 ###### Artículo 274.
 
 Son circunstancias que agravan el delito de violación las siguientes:
 
-(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
+(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
 
 I. Cuando en la comisión del delito de violación intervengan dos o más personas se impondrán, además de las penas señaladas en los artículos 273 y 273 Bis, de treinta y cinco a setenta años de prisión y de cien a quinientos días multa;
 
-(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 16 DE NOVIEMBRE DE 2004)
+(REFORMADA, G.G. 10 DE AGOSTO DE 2004) (F. DE E., G.G. 4 DE OCTUBRE DE 2004)
 
 II. Si el delito fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en los artículos 273 y 273 Bis se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
 
@@ -3432,3 +3436,9 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Las disposiciones contenidas en los artículos 23, 24, 176, 242, 243, 259, 261, 273, 274 y 290 del Código Penal, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
+
+G.G. 27 DE OCTUBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
