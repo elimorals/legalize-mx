@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "1975-04-15"
+last_updated: "1981-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1981.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -43,9 +43,13 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA RO
 
 De la Instalación de la Legislatura.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 1o.
 
-La Legislatura del Estado tendrá durante el año dos períodos ordinarios de sesiones que comenzarán, el primero el 26 de marzo, y el segundo el 24 de noviembre. La duración será de dos meses cada uno.
+La Legislatura del Estado de Quintana Roo se integra con nueve Diputados electos según el principio de mayoría relativa en Distritos uninominales y hasta con tres Diputados electos según el principio de representación proporcional en los términos del Artículo 52 de la Constitución Política del Estado.
+
+La Legislatura del Estado se renovará cada tres años en la fecha establecida por la Ley. Tendrá dos Períodos Ordinarios de Sesiones por Año de Ejercicio, con duración de dos meses cada uno; el primero comenzará el 26 de Marzo y el segundo el 24 de Noviembre.
 
 ###### Artículo 2o.
 
@@ -55,31 +59,43 @@ Antes de cerras (sic) el último período constitucional de sesiones ordinarias 
 
 Son facultades de la Comisión Instaladora:
 
-I.- Firmar las credenciales de los presuntos diputados, a quienes el Comité Estatal Electoral hubiere registrado las Constancias de Mayoría, para su admisión en las Juntas Preparatorias, y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+I.- Firmar las credenciales de los presuntos Diputados, a quienes la Comisión Estatal Electoral hubiere registrado las constancias de Mayoría Relativa expedidas en los distritos uninominales y a quienes se hubiere expedido constancias de asignación por representación proporcional, para su admisión en las Juntas Preparatorias.
 
 II.- Instalar la Junta Preparatoria o, en su caso, presidir la Junta Previa de conformidad a este ordenamiento.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 4o.
 
-Sin necesidad de citación alguna, los presuntos diputados se reunirán en el recinto oficial de la Legislatura, a las 19:00 horas del día 17 de marzo del año de renovación de miembros del Poder Legislativo del Estado, para celebrar la primera Junta Preparatoria, pero de no haber quórum deberán constituirse en Junta Previa y señalar fecha y hora para nueva reunión, debiendo citar directamente y mediante la publicación de avisos en el Periódico Oficial del Estado, a quienes no se hubiesen presentado. El quórum para la celebración de cualquier Junta Preparatoria se formará con la mitad más uno de los presuntos Diputados de mayoría.
+Sin necesidad de citación alguna, los presuntos Diputados, se reunirán en el Recinto Oficial de la Legislatura, a las 19:00 horas del día 17 de Marzo del año de renovación de miembros del Poder Legislativo del Estado para celebrar la primera Junta Preparatoria, pero de no haber quórum deberá constituirse en Junta Previa y señalar fecha y hora para nueva reunión, debiendo citar directamente y mediante la publicación de avisos en el Periódico Oficial del Estado, a quienes no se hubiesen presentado. El Quórum para la celebración de cualquier Junta Preparatoria, se formará con más de la mitad de los presuntos Diputados a quienes se les haya extendido su credencial de acceso.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 5o.
 
-En la primera Junta Preparatoria que se reuna se eligirán (sic), de entre los presuntos diputados a quienes se haya firmado la credencial de acceso, en escrutinio secreto y por mayoría de votos, un Presidente, un Secretario y un Suplente, los que presidirán todas las Juntas Preparatorias que se celebren.
+En la primera Junta Preparatoria que se reuna se elegirán de entre los presuntos Diputados, en escrutinio secreto y por mayoría de votos, un Presidente, un Secretario, y un suplente, los que presidirán todas las Juntas Preparatorias que se celebren.
 
 ###### Artículo 6o.
 
 Instalada la Mesa Directiva de las Juntas Preparatorias, concluirán las funciones de la Comisión Instaladora, la cual se retirará del recinto oficial de la Legislatura, a fin de que los presuntos diputados procedan a la calificación de sus miembros, de conformidad a la disposición constitucional respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 7o.
 
-Constituída la Primera Junta Preparatoria, el Oficial Mayor de la Legislatura hará entrega inventariada a la Mesa Directiva, de los expedientes y documentos que obren en su poder y le hayan sido turnados por los organismos electorales competentes. Acto seguido se procederá a la elección en escrutinio secreto y por mayoría de votos de dos comisines (sic) dictaminadras (sic) integradas por dos presuntos diputados cada una, a las cuales se entregarán los documentos y expedientes respectivos para que procedan al dictamen de la elección bajo las siguientes reglas:
+Constituida la primera Junta Preparatoria, el Oficial Mayor de la Legislatura hará entrega inventariada a la Mesa Directiva, de los expedientes y documentos que obren en su poder y le hayan sido turnados por los Organismos Electorales competentes. Acto seguido se procederá a la elección en escrutinio secreto y por mayoría de votos de dos Comisiones Dictaminadoras integradas por tres presuntos Diputados cada una, a las cuales se entregarán los documentos y expedientes respectivos para que procedan al dictamen de la elección, bajo las siguientes reglas:
 
-I.- La primera comisión dictaminadora (sic) sobre la legitimidad de la elección de los demás presuntos diputados.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+I.- La primera Comisión dictaminará sobre la legitimidad de la elección de los demás presuntos Diputados.
 
 II.- La segunda comisión elaborará el dictamen sobre la elección de los miembros integrantes de la primera comisión.
 
-III.- Al término de la calificación de los dictamenes de los presuntos diputados de mayoría y conocido el resultado de la votación total del Estado, la primera comisión formulará los dictamenes de los diputados en la Fracción III del Artículo 52 Constitucional, formulando el dictamen por cada partido político que hubiere obtenido el porcentaje requerido.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+III.- Para la calificación de la elección de los Diputados de representación proporcional, la Comisión Dictaminadora respectiva presentará su dictamen para cada partido politico, en el que se vigilará se haya observado el procedimiento y obtenido el porcentaje de la votación total a que se refiere el articulo 53 bis de la Constitución Política del Estado y la Ley Reglamentaria.
 
 ###### Artículo 8o.
 
@@ -97,17 +113,23 @@ En la última Junta Preparatoria anterior a la instalación de la Legislatura, p
 
 Acto seguido el Presidente tomará asiento y bajo la misma fórmula tomará la protesta a los demás miembros de la Legislatura, quienes deberán contestar: Si, Protesto, a lo cual el Presidente responderá: Si así no lo hiciereis; que el pueblo os lo demande.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 11.
 
-Igual protesta está obligado a rendir cada uno de los diputados que se presentaren con posterioridad.
+Igual protesta está obligado a rendir cada uno de los Diputados que se presentaren con posterioridad, previa calificación de la Legislatura de la elección correspondiente y dictamen de la Comisión que al efecto se nombre conforme al artículo 7 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 12.
 
-Rendida la protesta los diputados a la Legislatura del Estado procederán a la elección en escrutinio secreto y por mayoría de votos a (sic) un Presidente, un Vicepresidente y un Secretario, con lo que se tendrá por constituida la Legislatura, y así lo expresará el Presidente al manifestar en voz alta: La Legislatura del Estado se declara legítimamente constituida.
+Rendida la protesta, los Diputados procederán a la elección en escrutinio secreto y por mayoría de votos de un Presidente, un Vicepresidente y un Secretario, quienes pasarán a ejercer sus respectivos cargos.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 13.
 
-Posteriormente a la declaración de estar constituida la Legislatura, el Presidente designará una comisión para que comunique la declaratoria respectiva al Gobernador del Estado y otra para que a su vez lo haga al Tribunal Superior de Justicia, y convocará a sus miembros para la sesión de apertura de la Legislatura, que habrá de realizarse el 26 de Marzo del año respectivo a las 19:00 horas.
+El Presidente de la Legislatura en alta voz y puestos todos de pie manifestará: "La (Aquí el número de la Legislatura que corresponda) Legislatura Constitucional del Estado se declara legítimamente constituida". Seguidamente designará una Comisión para que comunique la declaratoria respectiva al Gobernador del Estado y otra para que a su vez lo haga al Tribunal Superior de Justicia y convocará a sus miembros para la sesión de apertura de la Legislatura, que habrá de realizarse el 26 de Marzo del año respectivo a las 19:00 horas.
 
 ###### Artículo 14.
 
@@ -115,57 +137,107 @@ En la sesión de apertura el Presidente de la Legislatura invitará a todos los 
 
 La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo abre hoy el (aquí el número respectivo) período de sesiones ordinarias del (primero, segundo o tercer) año de su ejercicio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ### CAPITULO II
 
-Del Presidente y Vicepresidente.
+De la Elección de la Mesa Directiva.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+#### SECCION I
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 15.
 
-Para la celebración del segundo período de sesiones ordinarias, y para los consecuentes de los dos años siguientes de ejercicio, deberá celebrarse una junta previa diez dias anteriores a la fecha de apertura, a fin de elegir un Presidente y un Vicepresidente para el primer mes de sesiones y, en su caso, el Secretario para el ejercicio anual. Declarada legítimamente constituida la Legislatura se designarán las comisiones a que hace referencia el Artículo 13.
+Para la Celebración del Segundo Período Ordinario de sesiones y para los consecuentes de los dos años siguientes de ejercicio, deberá celebrarse una Junta Previa diez dias anteriores a la fecha de apertura, a fin de elegir un Presidente y un Vicepresidente para el primer mes de sesiones y en su caso, al Secretario, haciendo las comunicaciones señaladas por el Artículo 19.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 16.
 
-En la sesión de apertura del 24 de noviembre, correspondiente al segundo período de sesiones de cada año, el Gobernador Constitucional del Estado se presentará a rendir un informe por escrito exponiendo la situación que guarda la administración pública del Estado.
+El Secretario fungirá en su cargo, durante un año y se elegirá en la Junta Previa de cada primer Período Ordinario de Sesiones señalado en el artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 17.
 
-El Presidente y Vicepresidente serán electos en escrutinio secreto y por mayoría de votos, para ejercer sus funciones durante un mes en la firma (sic) siguiente:
+El Presidente y Vicepresidente serán electos en escrutinio secreto y por mayoría de votos, para ejercer sus funciones durante un mes. Estos no podrán ser reelectos en el mismo período de sesiones.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+Los ejercicios mensuales estarán divididos en la forma siguiente:
 
 I.- El primer mes del primer período de sesiones ordinarias comprenderá: De la fecha de apertura, el 26 de marzo, al 25 de abril de cada año.
 
-El segundo mes comprenderá: del 26 de abril al 26 de mayo fecha en que debe clausurarse el primer periodo ordinario.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+El segundo mes comprenderá del 26 de abril al 26 de Mayo, fecha en que concluye el primer Período Ordinario de sesiones.
 
 II.- El primer mes del segundo periodo comprendera: De la fecha de apertura, el 24 de noviembre hasta el 23 de diciembre, y el segundo: Del 24 de diciembre hasta la fecha de clausura, que será el 24 de enero.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+El segundo mes comprenderá del 24 de Diciembre al 24 de Enero, fecha en que concluye el segundo Período Ordinario de sesiones.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 18.
 
-La elección de Presidente y Vicepresidente se realizará el último dia de sesiones para asumir el cargo en las fechas señaladas, sin que puedan ser reelectos para las sesiones del siguiente periodo.
+La elección del Presidente y Vicepresidente para el segundo mes de cada Período Ordinario de Sesiones, se realizará en la última sesión del primer mes del período respectivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 19.
 
-Las designaciones del Presidente y Vicepresidente se comunicaran al Ejecutivo Local, al Tribunal Superior de Justicia del Estado, a ambas cámaras del Congreso de la Unión, al Ejecutivo Federal y a la Suprema Corte de Justicia de la Nación.
+La elección del Presidente y Vicepresidente se comunicará al Ejecutivo Estatal, Al Tribunal Superior de Justicia del Estado, a ambas Cámaras del Congreso de la Unión, al Ejecutivo Federal y a la Suprema Corte de Justicia de la Nación.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+#### SECCION II
+
+DEL PRESIDENTE Y VICEPRESIDENTE.
+
+(REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)
 
 ###### Artículo 20.
 
 Las ausencias temporales del Presidente serán suplidas por el Vicepresidente, y a falta de ambos, presidirá la sesión respectiva el diputado que se designe por mayoría de votos de los presentes. Cuando la falta sea definitiva, la elección que se haga cubrirá el resto del mes del periodo correspondiente.
 
+(REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)
+
 ###### Artículo 21.
 
 Las resoluciones del Presidente se subordinarán al voto mayoritario de los diputados.
+
+(REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)
 
 ###### Artículo 22.
 
 Cuando el Presidente haga uso de la palabra en ejercicio de sus funciones, permanecerá sentado, pero en caso de intervención en las deliberaciones, solicitará la palabra y hablará desde la TRIBUNA, sujeto a las mismas reglas del debate contenidas en este ordenamiento, y entre tanto ejercerá sus funciones el Vicepresidente. Cuando sea el Vicepresidente el que desee participar en el debate, solicitará el permiso respectivo y se atendrá a las mismas reglas.
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+#### SECCION III
+
+DE LAS FACULTADES Y OBLIGACIONES DEL PRESIDENTE.
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 23.
 
-Son obligaciones del Presidente en funciones:
+Son facultades y obligaciones del Presidente en funciones:
 
-I.- Abrir y cerrar las sesiones y declarar la instalación, apertura y clausura de los periodos respectivos, en las fechas y horas señaladas al respecto.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+I.- Abrir y levantar las sesiones.
 
 II.- Cuidar que se guarde el orden y respeto durante las sesiones, y en su caso, mandar desalojar el salón de sesiones, cuando los espectadores no guarden la compostura y silencio debido.
 
-III.- Vigilar que los asuntos a su (sic) cargo de la Legislatura sigan el curso reglamentario, y dictar las medidas conducentes para aquellos que sean presentados a su acuerdo.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+III.- Vigilar que los asuntos a su cargo sigan el curso reglamentario dictando las medidas conducentes para aquellos que sean presentados a su acuerdo.
 
 IV.- Determinar los asuntos que deban ser sometidos al debate en cada sesión, otorgando preferencia a los de mayor utilidad general, salvo moción hecha por algún diputado, para tratar otros asuntos,, (sic) siempre y cuando por votación mayoritaria, la asamblea acuerde tratar el asunto propuesto.
 
@@ -175,13 +247,19 @@ VI.- Dictar los trámites necesarios que exija el orden de los asuntos, conforme
 
 VII.- Declarar, después de cada votación, la aprobación o rechazo de las mociones o asuntos sometidos a consideración de la Asamblea.
 
-VIII.- Llamar al orden, por sí o a solicitud fundada de algún diputado, al que faltare a él.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+VIII.- Llamar al orden a los miembros de la Legislatura y dictar las disposiciones necesarias para conservarlo en el salón de sesiones.
 
 IX.- Firmar las actas de las sesiones, las leyes y las comunicaciones de éstas al Ejecutivo, turnados para su publicación.
 
-X.- Nombrar las comisiones de ceremonia y proponer a la Legislatura a los diputados para integrar las demás.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
-XI.- Por conducto del Secretario, hacer del conocimiento de la Legislatura, al principio de cada sesión, de los asuntos que han de tratarse, y al final de la misma el orden del día de la sesión siguiente, ordenando al Secretario proceda, con la debida anticipación, a comunicar a las dependencias del Ejecutivo cuando vaya a tratarse algún asunto de su competencia.
+X.- Nombrar las Comisiones cuyo objeto sea de mera ceremonia y protocolo.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+XI.- Por conducto del Secretario, hacer del conocimiento de la Legislatura al principio de cada sesión de los asuntos que han de tratarse y conjuntamente elaborar el orden del día de la sesión siguiente ordenando al Secretario proceda con la debida anticipación a comunicar a las dependencias del Ejecutivo cuando vaya a tratarse algún asunto de su competencia.
 
 XII.- Firmar los nombramientos o remoción de sus empleados y los de la Contaduría Mayor de Hacienda, acordada por la Legislatura.
 
@@ -189,11 +267,23 @@ XIII.- Citar a sesiones extraordinarias, por sí o a solicitud del Ejecutivo, cu
 
 XIV.- Declarar la falta de quórum legal para sesional (sic).
 
-XV.- Competir a las comisiones, a nombre de la Legislatura, para la presentación de dictámenes cuando hayan transcurrido cinco días al de la fecha de turno del asunto, fijarles plazos de entrega y en su caso proponer se pasen a otra comisión.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
-XVI.- Aplicar las sanciones contenidas en el párrafo final del Artículo 60 Constitucional y las dispuestas en el Artículo 64 del propio ordenamiento, y
+XV.- Compeler a las Comisiones a nombre de la Legislatura, para la presentación de dictámenes cuando hayan transcurrido cinco días al de la fecha de turno del asunto, fijarles plazos de entrega y en su caso, proponer se pasen a otra comisión.
 
-XVII.- Contestar el informe que rinda el Gobernador del Estado, en la apertura del segundo periodo de sesiones.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+XVI.- Aplicar las sanciones contenidas en el párrafo final del artículo 60 Constitucional y las dispuestas en el artículo 64 del propio ordenamiento, y (sic)
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+XVII.- Contestar a nombre de la Legislatura en términos generales las consideraciones a las gestiones gubernativas del informe que rinda el Gobernador del Estado, en la apertura del primer Período Ordinario de Sesiones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+XVIII.- Representar a la Legislatura en los actos cívicos y culturales o delegar esa representación en favor de otro Diputado.
+
+(REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)
 
 ###### Artículo 24.
 
@@ -261,9 +351,15 @@ XIII.- Cuidar la oportuna impresión y distribución del DIARIO DE LOS DEBATES.
 
 De las Sesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 29.
 
-Las sesiones de la Legislatura serán:
+Las sesiones de la Legislatura se celebrarán con la concurrencia de más de la mitad del número total de Diputados.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+Las Sesiones serán:
 
 I.- Ordinarias: Las que se celebren durante los días hábiles de los periodos constitucionales. Serán públicas, se realizarán, por lo general, los martes y jueves a las 19:00 horas, pero el Presidente por si o a iniciativa de un diputado con aprobación de la mayoría, podrá modificar el día y hora señalados. La duración será hasta tres horas, pero podrá prorrogarse cuando así lo ameriten los asuntos y lo apruebe la Legislatura.
 
@@ -327,9 +423,11 @@ IV.- Cuando la Legislatura deba decidir sobre la desaparición de poderes munici
 
 V.- Las demás que esten expresamente previstas en la Constitución.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 34.
 
-Los diputados asistirán a las sesiones desde el principio hasta el término de la misma, tomando asiento sin preferencia de lugares. El diputado que no esté presente al pasarse lista o al momento de tomarse una votación nominal se refutará como ausente de la sesión. Solo por causa grave comunicada en tiempo al Presidente, será justificada la ausencia o abandono de la sesión. En caso de que la ausencia se prolongue por más de tres sesiones, requerirá de la licencia de la Legislatura.
+Los Diputados asistirán a las sesiones, con la compostura y presentación que exigen las altas funciones de que están encargados desde el principio de éstas hasta el término de las mismas tomando asiento sin preferencia de lugares. El Diputado que no esté presente al pasarse lista o al momento de tomarse una votación nominal se refutará como ausente de la sesión. Sólo por causa grave comunicada en tiempo al Presidente, será justificada la ausencia o abandono de la sesión. En caso de que la ausencia se prolongue por más de tres sesiones, requerirá de la licencia de la Legislatura.
 
 ###### Artículo 35.
 
@@ -351,9 +449,11 @@ III.- A los Ayuntamientos, y
 
 IV.- A los ciudadanos por conducto de los diputados de su distrito.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 37.
 
-Toda iniciativa de Ley, o decreto presentada a la Legislatura pasará desde luego a las comisiones respectivas.
+Toda Iniciativa de ley o decreto presentada a la Legislatura, pasará desde luego a las comisiones respectivas.
 
 ###### Artículo 38.
 
@@ -427,9 +527,13 @@ Los dictámenes serán firmados por los miembros integrantes de la comisión, pe
 
 Las comisiones, por medio de su Presidente, podrán pedir a las oficinas y funcionarios públicos, información, copias de documentos, constancias y la celebración de conferencias que puedan serles útiles al desempeño de su cometido, salvo que sean documentos que deban guardar secreto. La negligencia, tardanza o negativa de proporcionar lo solicitado se hará a conocimiento del Gobernadr (sic) del Estado, para los fines conducentes.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 53.
 
-Las comisiones funcionarán conforme lo acuerden sus miembros y cualquier diputado puede asistir a sus reuniones, pero sin voto. En caso de necesitar asesoria externa lo solicitarán al Presidente exponiendo sus razones.
+Las comisiones funcionarán conforme lo acuerden sus miembros, con la asistencia de la mayoría de éstos y previa cita de su Presidente. Cualquier Diputado podrá asistir a sus reuniones con voz, pero sin voto. Sus resoluciones se tomarán por mayoría de votos.
+
+Las comisiones podrán solicitar al Presidente de la Legislatura asesoría externa, exponiendo sus razones para el caso.
 
 ###### Artículo 54.
 
@@ -755,13 +859,21 @@ El Gobernador del Estado hará la protesta de pie ante el Presidente de la Legis
 
 Cuando el Gobernador del Estado asista a la apertura de las sesiones, tomará asiento a lado izpuierdo (sic) del Presidente de la Legislatura.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ###### Artículo 120.
 
-Al informar que el Gobernador del Estado rinda en ese acto, el Presidente de la Legislatura contestará en términos generales.
+La Legislatura del Estado o la Diputación Permanente en su caso, podrán acordar la celebración de sesiones solemnes, para conmemorar algún acto relevante o la realización de una ceremonia que por su naturaleza y trascendencia merezca la participación y alta representación de la Legislatura. Podrá invitarse al Gobernador del Estado a estas sesiones, que en el caso de asistir, se observará lo dispuesto en los artículos anteriores.
+
+Para la sesión Solemne del 8 de Octubre que presidirá la Diputación Permanente, asistirán todos los Diputados sin necesidad de citación alguna.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 121.
 
-Los diputados tomarán asiento sin preferencia alguna.
+Al inicio y término de las Sesiones Solemnes deberá rendirse Honores a la Bandera y antes de clausurarlas, se cantará el Himno Nacional.
+
+La sesión de apertura del primer Período Ordinario de Sesiones de cada año de ejercicio Constitucional, tendrá el carácter de Solemne.
 
 ###### Artículo 122.
 
@@ -771,13 +883,19 @@ A los diputados que se presenten a protestar después de abiertas las sesiones, 
 
 Cuando algún funcionario, representante diplomático o persona de relieve se presente en la Legislatura a invitación de ésta o por sí, se nombrará una comisión que lo reciba a las puertas de la misma y lo acompañe hasta el lugar donde deba tomar asiento que podrá ser en las curules de los diputados o bien en el estrado que ocupa la Presidencia.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
 ### CAPITULO XIV
 
-De la Oficialía Mayor.
+De la Oficialía Mayor y Asesoría Jurídica.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 124.
 
 Para la administración general y manejo de fondos del Presupuesto de la Legislatura, se tendrá un Oficial Mayor nombrado por la Legislatura.
+
+La Legislatura contará con un departamento de Asesoría Jurídica que le apoyará en la vigilancia de los procesos legislativos y auxiliará en los aspectos jurídicos y legislativos que se presenten.
 
 ###### Artículo 125.
 
@@ -831,8 +949,28 @@ Siempre que los medios indicados no basten para contener el desorden en público
 
 Cuando por cualquier circunstancia concurriere alguna guardia militar o de la policia al recinto de la Legislatura, quedará bajo las órdenes exclusivas del Presidente.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+### CAPITULO XVI
+
+Disposiciones Generales.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+
+###### Artículo 137.
+
+Los miembros de la Legislatura del Estado como representantes de la población y electos para los cargos de Diputados, además de las funciones Constitucionales que se les confiere, tendrán las facultades de gestoría y promoción ante las autoridades correspondientes de las peticiones que conforme a la ley formulen los ciudadanos en sus Distritos, las organizaciones del sector social y todo aquel asunto que favorezca el bienestar del pueblo Quintanarroense.
+
 T R A N S I T O R I O S:
 
 Artículo Unico.- Este Reglamento comenzará a regir a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 D A D O en el Salón de Sesiones de la Primera Legislatura, en la Ciudad de Chetumal, Capital del Estado de Quintana Roo, el dia ocho de abril de mil nevecientos (sic) setenta y cinco.- Dip. Presidenta: Maria Cristina Sangri A.- Rúbrica.- Dip. Secretario: Carlos Sosa Huerta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 1981.
+
+###### ARTICULO UNICO.
+
+Este Reglamento comenzará a regir a partir de la fecha de su publicación en el Periódico Oficial del Estado.
