@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1996-01-24"
+last_updated: "1996-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1996.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -451,7 +451,9 @@ REALES
 
 Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta ley, las personas físicas y las morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él, ubicados en los municipios, así como los derechos relacionados con los mismos. El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
 
-Para los efectos del cálculo el impuesto a que se refiere el párrafo anterior, deberá utilizarse un avalúo catastral cuya antigüedad no exceda de seis meses con respecto a la fecha de la operación.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1996)</small>
+
+Para los efectos del pago del impuesto a que se refiere el párrafo anterior, deberá utilizarse un avalúo catastral cuya antigüedad no exceda de seis meses con respecto de la fecha de operación. Al impuesto a pagar que resulte se le aplicará un deducible del 50%.
 
 La base gravable de este impuesto será la que resulte mayor entre el valor de avalúo catastral del inmueble y el valor declarado de la operación.
 
@@ -497,17 +499,15 @@ XII.- En las permutas se considerará que se efectúan dos adquisiciones.
 
 XIII.- La primera asignación o titulación que se derive del "Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos", en los términos de la Ley Agraria, no son sujetos de este impuesto.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1996)</small>
 
 ###### ARTICULO 52.
 
-El valor del inmueble que se considerará para los efectos de esta Ley, será la cantidad que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se efectuó la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo de inmueble, referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
+Cuando con motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
-Cuando, con motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo catastral. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo a que se refiere este párrafo.
 
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Dirección de Catastro del Estado. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino del avalúo a que se refiere este párrafo.
-
-Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+Para los fines de esta ley se considerará que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1506,3 +1506,7 @@ P.O. 24 DE ENERO DE 1996.
 PRIMERO.- Para efecto de las presentes reformas son causantes de los impuestos que la ley determine, el propietario originario y el adquiriente, que realice la traslación de dominio de solares urbanos, parcela individual en dominio pleno en cualquier forma comercial, o los derechos reales sobre las tierras de uso común, aportados a sociedades mercantiles.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE FEBRERO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
