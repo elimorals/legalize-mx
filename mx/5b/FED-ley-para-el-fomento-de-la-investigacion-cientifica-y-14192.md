@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-fomento-de-la-investigacion-cientifica-y-14192"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-21"
-last_updated: "1999-05-21"
+last_updated: "2002-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-05-17"
 
 LEY PARA EL FOMENTO DE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA Y TECNOLOGIA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 5 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 21 de mayo de 1999.
 
@@ -588,3 +590,17 @@ SEXTO.- Dentro de los seis meses siguientes a la entrada en vigor de la presente
 México, D.F., a 30 de abril de 1999.- Sen. Héctor Ximénez González, Presidente.- Dip. Juan Moisés Calleja Castañón, Presidente.- Sen. Sonia Alcántara Magos, Secretario.- Dip. Germán Ramírez López, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de mayo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 5 DE JUNIO DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON LA LEY.
+
+Artículo Primero.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.
+
+Se abroga la Ley para el Fomento de la Investigación Científica y Tecnológica, publicada en el Diario Oficial de la Federación el 21 de mayo de 1999.
