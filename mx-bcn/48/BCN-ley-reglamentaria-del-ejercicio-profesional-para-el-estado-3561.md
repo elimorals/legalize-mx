@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1974-07-10"
+last_updated: "2001-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2001.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -407,9 +407,11 @@ Quienes durante la vigencia de este convenio ejerzan sin el registro a que se re
 
 De los Colegios de Profesionistas.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
+
 ###### ARTICULO 35.
 
-Todos los profesionistas de una misma rama podrán constituir en el Estado de Baja California, colegios que no excederán de tres por cada rama profesional, debiendo establecer su domicilio social en la cabecera municipal de su propia residencia y estarán representados por un consejo Directivo compuesto por un Presidente, dos secretarios, un Tesorero y dos Vocales; estos consejos durarán dos años en el ejercicio de su función y serán electos por mayoría de los integrantes del colegio.
+Todos los profesionistas de una misma rama podrán constituir en el Estado de Baja California, colegios que atenderán los requisitos y condiciones que señala esta Ley, debiendo establecer su domicilio social en la cabecera municipal correspondiente y estarán representados por un Consejo Directivo compuesto por un Presidente, dos Secretarios, un Tesorero y dos Vocales; estos consejos durarán dos años en el ejercicio de su función y serán electos por mayoría de los integrantes del Colegio.
 
 ###### ARTICULO 36.
 
@@ -736,3 +738,7 @@ Este Decreto entrará en vigor al día siguiente al de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Mientras esté en vigor el convenio que celebre el Ejecutivo del Estado con la Secretaría de Educación Pública, se suspenden las disposiciones de la Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja California que se opongan al cumplimiento de dicho convenio.
+
+P.O. 20 DE JULIO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
