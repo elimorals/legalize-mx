@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1999-08-12"
+last_updated: "2000-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1931,7 +1931,7 @@ Si la persona ofendida fuere menor de diez años, la sanción será de seis a qu
 
 ### CAPITULO II. Abigeato y robo de animales
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 177.
 
@@ -2067,7 +2067,7 @@ Si cumple la amenaza, se le impondrán además las penas que procedan por los de
 
 A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo persistente y mediante cualquier acción, amenace a la víctima, a sus familiares o representantes, para que no colaboren con las autoridades competentes, se le impondrá de seis meses a tres años de prisión y multa por el importe de trescientos a seiscientos días de salario.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2087,7 +2087,7 @@ A los agentes del Ministerio Público, de la Policía Investigadora o de las pol
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2097,7 +2097,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2107,7 +2107,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2117,7 +2117,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2751,11 +2751,9 @@ Si en el mismo caso, la restitución y reparación se verifican después de inic
 
 ###### Art. 240.
 
-Comete el delito de abigeato, el que se apodera sin derecho de una o más cabezas de ganado, sin consentimiento de quien legalmente puede disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
+Comete el delito de abigeato el que se apodera de una o más cabezas de ganado, sin consentimiento de quien legalmente puede disponer de ellas, independientemente del lugar en que se encuentren y de que formen o no hato.
 
-Si el delito de abigeato se consuma en ganado bovino, caballar, mular, asnal o cualquier otro animal de especie mayor, la sanción será de dos a once años de prisión y multa por el importe de veinte a ochenta días de salario.
-
-Si se consumare en ganado caprino, bovino, porcino o cualquier otro animal de especie menor, la sanción será de seis meses a siete años de prisión y multa por el importe de cinco a cincuenta días de salario.
+Se considera ganado para los efectos de este delito las especies relacionadas en el artículo 4º. de la Ley de Desarrollo Pecuario.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
 
@@ -2763,29 +2761,113 @@ Si se consumare en ganado caprino, bovino, porcino o cualquier otro animal de es
 
 Si el daño previsto en el Art. 259 de este Código, se produce en las especies a que se refiere el Art. 240, se aplicará una sanción de uno a seis años de prisión y multa por el importe de cuatro a ochenta días de salario.
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 1989)</small>
-
 ###### Art. 241 Bis.
 
-Al responsable de los ilícitos a que se refieren los artículos anteriores, cuando se trata de pies de cría o sementales en producción para mejoramiento genético de la especie, se le aumentará la pena hasta en una tercera parte más de la que le corresponda, y la multa será de veinte a doscientos días de salario.
+(DEROGADO, P.O. 17 DE JUNIO DE 2000)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 242.
 
-Las mismas sanciones que señalan los artículos anteriores, según el caso, se impondrán a los que a sabiendas de su origen ilegal adquieran animales producto de abigeato; así como al que proteja dos o más cabezas de animales robados o que provenga de abigeato, con documentación alterada o expedida para otro.
+Se considerará como abigeato para los efectos de la sanción:
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
+a) Sacrificar intencionalmente ganado ajeno, sin consentimiento de su propietario;
 
-Iguales sanciones se impondrán a los vaqueros pastores o cualquier otro encargado de la custodia, vigilancia o traslado de los animales, que cometan alguno de los delitos previstos en los artículos anteriores.
+b) Adquirir o negociar ganado robado, carne, pieles u otros derivados producto de abigeato, a sabiendas de esta circunstancia;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1999)</small>
+c) Proteger dolosamente ganado robado con documentación falsa;
+
+d) Autorizar en rastro oficial o en cualquier otro lugar de matanza, el sacrificio de ganado robado a sabiendas de esta circunstancia;
+
+e) Expedir documentación que acredite la propiedad de animales producto de abigeato a favor de persona distinta de quien legalmente pueda disponer de ellos, o autorice su movilización, a sabiendas de su ilegal procedencia; y
+
+f) Transportar ganado, carnes o pieles a sabiendas de que se trata de carga producto de abigeato.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
+
+Art. 242 A. Quien cometa alguno de los delitos previstos en los artículos 240 y 242 se le impondrá como sanción:
+
+I. De seis meses a tres años de prisión y multa por el importe de ocho a treinta y cinco días de salario, cuando el valor del ganado producto del delito no exceda del importe de trescientos días de salario;
+
+II. De dos a seis años de prisión y multa por el importe de ocho a cincuenta y cinco días de salario, cuando el valor exceda del monto señalado, en la fracción anterior, pero no de ochocientos días de salario; y
+
+III. De cinco a once años de prisión y multa de treinta a cien días de salario, cuando el importe del ganado producto del delito exceda de ochocientos días de salario.
+
+El delito de abigeato se perseguirá por querella de parte cuando su producto no exceda de ciento cincuenta días de salario mínimo general vigente de la zona geográfica donde se cometió el delito y no se trate de abigeato calificado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
+
+Art. 242 B. El delito de abigeato se considera calificado, cuando:
+
+I. Se cometa valiéndose de la nocturnidad;
+
+II. Se cometa aprovechando alguna relación de trabajo, confianza o parentesco del activo con el pasivo;
+
+III. Sea perpetrado por ganaderos inscritos como tales en cualquier unión o asociación ganadera;
+
+V (sic). El abigeato se desarrolle en diferentes entidades federativas;
+
+VI. Se ejecute con violencia física o moral en las personas ya sea al perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
+
+VII. El responsable sea, o simule ser, miembro de algún cuerpo de seguridad pública o alguna otra autoridad; y
+
+VIII. El responsable lleve algún arma, aun cuando no haga uso de ella.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
+
+Art. 242 C. Al responsable del delito de abigeato calificado se le sancionará de acuerdo con las reglas que se consignan en los siguientes apartados:
+
+a) Si interviene alguna de las calificativas que se consignan en las fracciones I, II, III y IV del artículo anterior, la pena será:
+
+I. De dos a cinco años de prisión y multa por el importe de ocho a treinta y cinco días de salario, cuando el importe del producto del delito no exceda de trescientos días de salario;
+
+II. De tres a ocho años de prisión y multa por el importe de veinte a sesenta y cinco días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no de ochocientos días de salario; y
+
+III. De seis a once años de prisión y multa por el importe de treinta a cien días de salario, cuando el valor de lo robado exceda del monto de mil días de salario; y
+
+b) Si interviene alguna de las calificativas que se consignan en las fracciones V, VI, VII y VIII del artículo anterior, la pena será:
+
+I. De dos años seis meses a cinco años seis meses de prisión y multa por el importe de diez a cuarenta días de salario, cuando el importe del producto del delito no exceda de trescientos días de salario;
+
+II. De cuatro a ocho años seis meses de prisión y multa por el importe de veinticinco a setenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no de ochocientos días de salario; y
+
+III. De seis años seis meses a once años de prisión y multa por el importe de treinta a cien días de salario, cuando el valor de lo robado exceda del monto de mil días de salario.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
+
+Art. 242 D. Se sancionará con prisión de tres meses a dos años y multa de ocho a sesenta días de salario, independientemente de la pena que corresponda por el delito que llegare a cometerse a quien sin causa justificada:
+
+I. Altere o elimine en cualquier forma las señales de sangre, marcas o fierros registrados; o
+
+II. Marque o señale ganado orejano.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
 
 ###### Art. 243.
 
-Al que a sabiendas de su origen ilegal transporte ganado producto de abigeato, se le aplicarán las sanciones que respectivamente señalan los artículos 240, 241 bis y 242.
+El responsable de abigeato quedará exonerado de toda sanción cuando dentro de los ocho días siguientes a la comisión del delito se presenten las siguientes circunstancias:
 
-Se le impondrá una pena de dos a sesis (sic) años de prisión y multa por el importe de veinte a ochenta días de salario, al que a sabiendas de su origen ilegal, comercie con pieles, carnes u otros derivados obtenidos del robo de animales o del abigeato.
+I. Que no haya sido acusado de abigeato anteriormente;
+
+II. Que el importe del producto del delito no pase del máximo establecido en la fracción I del artículo 242 A;
+
+III. El activo restituya espontáneamente el ganado robado, en su número y calidad;
+
+IV. El responsable pague los daños y perjuicios que hubiere ocasionado;
+
+V. No se presente una de las circunstancias calificativas previstas en las fracciones VI, VII y VIII del artículo 242 B; y
+
+VI. No se trate de reincidente que haya sido condenado por delito contra el patrimonio.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
+
+###### Art. 243 Bis.
+
+Al responsable de abigeato que comunique a la autoridad antes que sus copartícipes, información veraz con pormenores que hagan posible la identificación de todos o algunos de los partícipes del delito o la recuperación del ganado robado, será sujeto a los siguientes beneficios:
+
+I. Si la información se proporcionara una vez consumado el delito, ante el Ministerio Público en la averiguación previa, la pena será de seis meses a dos años de prisión; y
+
+II. Si la información aconteciere durante el proceso, el beneficio será de seis meses hasta una tercera parte de la pena que correspondiere, acorde a la información proporcionada y a los resultados obtenidos con esta.
 
 ###### Art. 244.
 
@@ -3069,7 +3151,7 @@ XII. Impida en forma violenta la instalación o cierre de una casilla; y
 
 XIII. Se presente en la casilla en plan intimidatorio, portando armas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 268.
 
@@ -3115,7 +3197,7 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 270.
 
@@ -3378,3 +3460,7 @@ UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 12 DE AGOSTO DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE JUNIO DE 2000.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
