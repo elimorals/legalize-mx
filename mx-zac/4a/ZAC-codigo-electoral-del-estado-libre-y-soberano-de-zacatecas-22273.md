@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-electoral-del-estado-libre-y-soberano-de-zacatecas-22273
 country: "mx"
 rank: "codigo"
 publication_date: "1995-04-08"
-last_updated: "1997-02-22"
+last_updated: "1997-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. 22 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. 20 DE SEPTIEMBRE DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial el Sábado 8 de Abril de 1995.
 
@@ -3815,10 +3815,16 @@ SEGUNDO.- La actual Comisión Electoral del Estado hará entrega de su patrimoni
 
 TERCERO.- Los Magistrados Electorales de la Sala de Segunda Instancia percibirán un salario igual al de los Magistrados del Tribunal Superior de Justicia. A los Magistrados Electorales de la Sala de Primera Instancia se otorgará, durante el tiempo que ejerzan las funciones del cargo, un salario equivalente al de los Jueces de Primera Instancia. Los demás cargos del Tribunal Estatal Electoral se homologarán, en cuanto a sus percepciones, a los equivalentes en el Poder Judicial del Estado.
 
-CUARTO.- La Sala de Segunda Instancia deberá entrar en funciones durante la segunda quincena del mes de septiembre de 1997.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+CUARTO.- La Sala de Segunda Instancia deberá entrar en funciones a mas tardar el 31 de octubre de 1997.
 
 QUINTO.- La Comisión de Administración deberá instalarse en el lapso de 30 días contados a partir de que inicie funciones la Sala de Segunda Instancia.
 
 SEXTO.- En tanto se integra la Comisión de Administración, se autoriza al Presidente de la Sala de Segunda Instancia para tomar todas las medidas necesarias para la instalación y funcionamiento del Tribunal Estatal Electoral.
 
 SÉPTIMO.- En tanto se expiden los reglamentos que se disponen en el artículo segundo del presente Decreto, en lo que no se oponga al mismo, se continuará observando el Reglamento Interior del Tribunal Estatal Electoral que se publicó en el Suplemento número 1 del Periódico Oficial número 46, Órgano del Gobierno del Estado del 10 de junio de 1995.
+
+P.O. 20 DE SEPTIEMBRE DE 1997
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
