@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "1998-10-21"
+last_updated: "1999-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1999.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -823,7 +823,9 @@ Las sesiones de la Diputación Permanente podrán ser: públicas, secretas, ordi
 
 Habrá sesión pública el día martes de cada semana, con excepción de días inhábiles. Las sesiones secretas se realizarán cuando existan asuntos que así lo ameriten a juicio de su Presidente.
 
-La Diputación Permanente para sesionar requerirá al menos de la concurrencia de dos de sus integrantes propietarios.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1999)</small>
+
+La Diputación Permanente para sesionar requerirá al menos de la concurrencia de cuatro de sus integrantes propietarios. Los suplentes generales, sólo entrarán en funciones cuando se requiera sustituir a un propietario para integrar el quórum expresado, en el orden que hubiesen sido nombrados.
 
 ###### ARTICULO 87.
 
@@ -1798,3 +1800,9 @@ P.O. 21 DE OCTUBRE DE 1998.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", excepto lo dispuesto en los artículos 80 y 83 modificados, los cuales lo harán al día siguiente del inicio de vigencia de la reforma al artículo 49 de la Constitución Política del Estado de Sinaloa.
+
+P.O. 12 DE ABRIL DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
