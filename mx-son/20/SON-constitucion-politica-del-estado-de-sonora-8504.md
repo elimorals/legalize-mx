@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1924-04-19"
+last_updated: "1926-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE ABRIL DE 1924.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE DICIEMBRE DE 1926.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -333,7 +333,7 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 ###### Artículo 40.
 
-Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
+Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
 ###### Artículo 41.
 
@@ -361,7 +361,7 @@ A la apertura de cada período de sesiones ordinarias asistirán el Gobernador y
 
 ###### Artículo 47.
 
-Los Diputados que no concurran a una sesión sin causa justificada, o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
+Los Diputados que no concurran a una sesión sin causa justificada o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
 
 ###### Artículo 48.
 
@@ -1067,11 +1067,19 @@ II. Ser vecino del Municipio que lo nombre.
 
 El cargo de Concejal de un Ayuntamiento será obligatorio pero no gratuito. Sólo será renunciable por causa justificada que calificará el mismo Ayuntamiento, quien deberá admitir o no dicha renuncia. Los Concejales no podrán ser reelectos en el período siguiente.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1923)</small>
+> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 134.
 
-De entre los Concejales de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal". Será designado por la propia Corporación en escrutinio secreto cada seis meses, no podrá ser reelecto y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
+De entre los Concejales de un Ayuntamiento habrá uno que presida sus sesiones y que se denominará "Presidente Municipal". Será designado por elección popular directa, durará en su encargo un año y tendrá las facultades y obligaciones que consigne la Ley Orgánica relativa.
+
+> <small>(ADICIONADO, B.O. 11 DE DICIEMBRE DE 1926)</small>
+
+###### Artículo 134 Bis.
+
+Para los efectos del artículo anterior, será Presidente Municipal, por el primer año de actuación del Ayuntamiento, el ciudadano nombrado Primer Regidor, y durante el segundo año, la persona designada con el carácter de Segundo Regidor Propietario. En caso de falta temporal o absoluta del primero o segundo concejales entrará a fungir el Regidor Propietario que les siga en número por su designación.
+
+La Ley Orgánica Electoral del Estado reglamentará todo lo concerniente a ésta designación.
 
 ###### Artículo 135.
 
@@ -1233,7 +1241,7 @@ Todo funcionario o empleado público tiene el deber de protestar antes de encarg
 
 ###### Artículo 158.
 
-Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la Sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
+Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
 
 ###### Artículo 159.
 
@@ -1287,7 +1295,7 @@ La presente Constitución será promulgada por bando solemne, en esta Villa, el 
 
 ###### Artículo 2.
 
-Las Leyes, Decretos, Circulares y Disposiciones de observancia general, que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
+Las Leyes, Decretos, Circulares y Disposiciones de observancia general que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
 
 ###### Artículo 3.
 
@@ -1340,3 +1348,9 @@ Primeros (sic).- Los Comisarios de Policía y los Ayuntamientos que resulten ele
 Segundo.- Sométanse las reformas que anteceden a la aprobación de los H H. Ayuntamientos del Estado para los efectos legales correspondientes.
 
 Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
+
+B.O. 11 DE DICIEMBRE DE 1926.
+
+Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 de 11 de diciembre de 1923.
+
+Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
