@@ -4,7 +4,7 @@ identifier: "SIN-ley-reglamentaria-del-articulo-154-reformado-de-la-18132"
 country: "mx"
 rank: "ley"
 publication_date: "1937-02-13"
-last_updated: "1938-06-07"
+last_updated: "1954-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY REGLAMENTARIA DEL ARTICULO 154, REFORMADO, DE LA CONSTITUCION POLITICA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1954.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el sábado 13 de febrero de 1937.
 
@@ -37,29 +37,57 @@ DECRETO NUMERO 126.
 
 LEY REGLAMENTARIA DEL ARTICULO 154, REFORMADO, DE LA CONSTITUCION POLITICA DEL ESTADO.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1954)</small>
+
 ###### Artículo 1o.
 
 El Ejecutivo del Estado y los Ayuntamientos podrán expropiar la propiedad privada de las personas, por alguna de las causas consignadas en el artículo 154 de la Constitución Política del Estado y mediante indemnización.
 
+Las autoridades que se mencionan en el párrafo anterior deberán instruir un Expediente Administrativo que contenga todos los datos, informes, planos, indicando linderos y superficies de los bienes inmuebles y las razones que funden la necesidad de la expropiación. Este Expediente Administrativo, tratándose del Ejecutivo del Estado se formará por conducto del Departamento correspondiente conforme a la Ley Orgánica de dicho Poder Ejecutivo. Tratándose de los Presidentes Municipales, estos funcionarios serán los encargados de instruir el Expediente respectivo. Formado el Expediente se elevará al Congreso del Estado o al Ayuntamiento respectivo, con la solicitud formal para que el Congreso o Ayuntamiento decrete la autorización previa a la expropiación, por medio del decreto correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1954)</small>
+
 ###### Artículo 2o.
 
-Para que surtan sus efectos las declaratorias de expropiación hechas por el Ejecutivo del Estado o los Ayuntamientos deberán ser publicadas en el Periódico Oficial del Estado y notificarse personalmente al propietario del bien afectado. Caso de encontrarse ausente el propietario o ignorarse su domicilio, la notificación se le hará por medio de una segunda inserción del acuerdo respectivo en el mencionado Periódico Oficial y otros locales de circulación.
+Para que surtan efectos las declaratorias de expropiación que se hicieren conforme a esta Ley, deberán ser notificadas personalmente a los afectados con la expropiación. La notificación deberá hacerse en el domicilio de dichos interesados, además de publicarse en el Periódico del Estado. Sólo en el caso de que se desconozca el domicilio de los interesados, o no tuvieran un domicilio conocido dentro del territorio del Estado, la notificación se verificará por medio de dos publicaciones que se harán en el Periódico Oficial y un Periódico de la localidad en que radiquen los bienes afectados y si no lo hubiere, entonces las publicaciones se harán en un Periódico de la Capital del Estado, de los de mayor circulación. Las publicaciones deberán hacerse en un plazo de diez días una de otra.
+
+En el caso de que la persona afectada con la expropiación tuviere su domicilio en un lugar fuera del en que se encontraren los bienes expropiados, pero dentro del territorio del Estado la notificación se le hará personalmente por conducto de la Autoridad Municipal correspondiente.
+
+En el caso de que se conociera el domicilio de la persona afectada con la expropiación, fuera de la Jurisdicción Territorial del Estado, entonces la notificación se le hará por Correo Certificado y acuse de recibo, y además por medio de las dos publicaciones tanto en el Periódico Oficial como en el Periódico de la localidad o de la Capital del Estado en su caso.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1954)</small>
 
 ###### Artículo 3o.
 
-Los propietarios afectados podrán interponer dentro de los diez días hábiles siguientes a la notificación del acuerdo recurso administrativo de revocación contra la declaratoria correspondiente.
+Los propietarios afectados con la expropiación, tendrán derecho de interponer el recurso de revocación administrativo contra la expropiación en los siguientes términos:
+
+I.- Si fueren notificados personalmente, dentro de los quince días hábiles siguientes al de la notificación.
+
+II.- Si no fueren notificados personalmente, dentro de los treinta días hábiles siguientes a la notificación de la expropiación por medio de la prensa.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1954)</small>
 
 ###### Artículo 4o.
 
-El anterior recurso se interpondrá ante la autoridad que haya tramitado el expediente de expropiación.
+El recurso de revocación administrativo se interpondrá ante el Gobernador del Estado o Presidente Municipal, respectivamente, que hayan decretado la expropiación, debiéndose señalar domicilio en el lugar en que radique la autoridad expropiante y designar personas autorizadas para oír notificaciones. Si no lo hiciere así las notificaciones subsecuentes se harán por medio de estrados en los tableros de las oficinas responsables. Deberá presentarse dentro del término legal y admitido que fuere se concederá el plazo de quince días para que presente sus pruebas. Transcurrido dicho plazo se dictará la resolución que corresponda, revocando, modificando o confirmando las expropiaciones.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1954)</small>
 
 ###### Artículo 5o.
 
-Cuando no se haya hecho valer el recurso de revocación resuelto éste contra las pretensiones del recurrente, la autoridad procederá desde luego a la ocupación del bien cuya expropiación se trate.
+Cuando no se haya hecho valer el recurso de revocación dentro del término legal o resuelto que hubiere sido dicho recurso, adversamente, la Autoridad que hubiere decretado la expropiación procederá a ocupar el bien de que se trate, levantándose acta pormenorizada debiendo concurrir a la posesión los colindantes, si fueren conocidos, a quienes se les hará saber la ocupación, ya por el Estado o por el Presidente Municipal correspondiente, y para los fines de la expropiación decretada.
+
+De esta acta se levantarán los ejemplares necesarios para el Expediente Administrativo y para las Autoridades Fiscales, Catastrales y del Registro Público, a cuyas autoridades se remitirán las copias respectivas para que se hagan las anotaciones de cancelación de la propiedad del anterior propietario y la nueva inscripción a favor del Estado o del Ayuntamiento, según el caso.
+
+En los casos urgentes que establecen las fracciones VII, XIII, XIV, XVI, XVII, XIX, XXI y XXII del Artículo 154 de la Constitución Política del Estado, se podrá tomar posesión provisional de los bienes expropiados, destinándolos desde luego a la satisfacción de las necesidades públicas que hubieren motivado la expropiación; sin perjuicio de que, resuelto el recurso administrativo, si fuere procedente, se reponga al propietario afectado en los bienes expropiados, si fuere posible excepto el uso que de ellos se hubiere hecho, por el cual se compensará, en forma equitativa y prudente, así como también cuando se hubieren consumido las cosas expropiadas o transformado de modo que no sea posible restituirlas a su antiguo estado, pues entonces se le otorgará una compensación equitativa.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1954)</small>
 
 ###### Artículo 6o.
 
-El monto de la indemnización de la cosa expropiada se fijará en la cantidad que como valor fiscal de ella figure en las Oficinas Catastrales o Recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito, por haber pagado sus contribuciones con esta base, aumentándolo con un 10%.
+El monto de la indemnización de la cosa expropiada se fijará en la cantidad que como valor Fiscal de ella figure en las Oficinas Catastrales o Recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito, por haber pagado sus contribuciones con esta base, aumentándolo con un 10%.
+
+Si transcurridos diez años desde la fecha de la ocupación formal de los bienes expropiados éstos no se hubieren destinado a los fines para los que la expropiación hubiere sido decretada, el propietario afectado tendrá el derecho de revertirlos, a cuyo efecto solicitará de la Autoridad que hubiere decretado la expropiación que se los devuelva. Si fuere procedente la devolución, así lo decretará el órgano del Ejecutivo correspondiente, levantándose acta formal de la devolución en el mismo número de ejemplares y para los mismos efectos a que se refiere el Artículo 5o. de esta Ley.
 
 ###### Artículo 7o.
 
@@ -122,3 +150,13 @@ Lic. ALFREDO CRISTERNA.
 P.O. 7 DE JUNIO DE 1938.
 
 Artículo Unico.- Este Decreto surte sus efectos desde el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 1954.
+
+###### Artículo 1°.
+
+Las reformas a esta Ley entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2°.
+
+Todos los casos de expropiación anteriores a las reformas de esta Ley, se ajustarán en lo posible a las disposiciones reformadas si se encontraran pendiente de trámite. En el caso de que ya se hubiere decretado la expropiación y se hubiere tomado la posesión de los bienes, los afectados tendrán el derecho de reversión, en su caso y conforme a las disposiciones de esta Ley.
