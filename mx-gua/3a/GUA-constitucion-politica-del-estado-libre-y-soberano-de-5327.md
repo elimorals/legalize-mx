@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1978-06-08"
+last_updated: "1978-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -649,7 +649,9 @@ XI.- Autorizar el Ejecutivo para que enajene, traspase, hipoteque, grave o ejerz
 
 XII.- Crear y suprimir empleos y fijar sus dotaciones;
 
-XIII.- Hacer la división del Estado en Distritos Electorales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1978)</small>
+
+XIII.- Hacer la división del Estado en distritos electorales y calificar las elecciones de los Ayuntamientos;
 
 XIV.- Convocar a elecciones de Gobernador en caso de falta absoluta del que debiere ejercer el cargo, si no se presenta a tomar posesión del mismo o si dicha falta ocurre dentro de los tres primeros años del período constitucional, a fin de que concluya dicho período, conforme a lo establecido en el Artículo 76 de este Ordenamiento;
 
@@ -1337,11 +1339,11 @@ Ningún ciudadano puede excusarse de servir al cargo de presidente, síndico o r
 
 Las personas que hubieren desempeñado los cargos de miembres (sic) del Ayuntamiento, no están obligados a servirlos sino hasta pasados tres años.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1976)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1978)</small>
 
 ###### ARTICULO 129.
 
-Los ciudadanos que hubieren obtenido la mayoría relativa de votos en las elecciones y a quienes se haya expedido la credencial correspondiente se reunirán en el salón de cabildos del Municipio respectivo, para calificar la validez de sus credenciales y declarar el resultado, en los términos establecidos por la Ley Electoral.
+Los ciudadanos que hayan triunfado en las elecciones municipales o, en su caso los miembros de la Junta de Administración Civil que designe el Ejecutivo del Estado, se reunirán en el Salón de Cabildos del Municipio respectivo para iniciar sus actividades el día 1o. de enero del año en que empiece su ejercicio.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 1976)</small>
 
@@ -1804,3 +1806,9 @@ P.O. 8 DE JUNIO DE 1978.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a los 3 días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
