@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1998-08-21"
+last_updated: "1998-10-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE OCTUBRE DE 1998.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -125,7 +125,9 @@ III.- TERCER CIRCUITO:
 
 IV.- CUARTO CIRCUITO:
 
-1.- Cinco tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Monterrey.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 35/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 1998)</small>
+
+1.- Cinco tribunales colegiados especializados: tres en materias administrativa y de trabajo y dos en materias penal y civil, y dos tribunales unitarios, con residencia en la ciudad de Monterrey.
 
 2.- Siete juzgados de distrito con sede en la ciudad de Monterrey.
 
@@ -153,7 +155,7 @@ VII.- SEPTIMO CIRCUITO:
 
 VIII.- OCTAVO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 23/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, COAHUILA, D.O.F. 25 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 23/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 1998)</small>
 
 1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Torreón
 
@@ -495,7 +497,7 @@ El Juzgado Primero de Distrito en el Estado de Guerrero, con residencia en la ci
 
 Los Juzgados Segundo, Tercero y Cuarto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Acapulco, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Acapulco de Juárez, Atoyac de Alvarez, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Copala, Coyuca de Benítez, Cuajinicuilapa, Cuautepec, Florencio Villarreal, Igualapa, José Azueta, Juan R. Escudero, La Unión de Isidoro Montes de Oca, Ometepec, Petatlán, San Luis Acatlán, San Marcos, Tecoanapa, Tecpan de Galeana, Tlacoachistlahuaca y Xochistlahuaca.
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL NUMERO 31/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA PARCIALMENTE EL PRESENTE ACUERDO, D.O.F. 21 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL NUMERO 31/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 1998)</small>
 
 El Juzgado Quinto de Distrito en el Estado de Guerrero, con residencia en la ciudad de Iguala, ejercerá jurisdicción territorial en el distrito judicial conformado por los Municipios de: Ajuchitlán del Progreso, Apaxtla, Arcelia, Atenango del Río, Buenavista de Cuéllar, Cocula, Copalillo, Coyuca de Catalán, Cuetzala del Progreso, Cutzamala de Pinzón, General Canuto A. Neri, Huitzuco de los Figueroa, Iguala de la Independencia, Ixcateopan de Cuauhtémoc, Mártir de Cuilapan, Pedro Ascencio Alquisiras, Pilcaya, Pungarabato, San Miguel Totolapan, Taxco de Alarcón, Teloloapan, Tepecoacuilco de Trujano, Tetipac, Tlalchapa, Tlapehuala y Zirándaro.
 
@@ -554,3 +556,13 @@ PRIMERO.- Este Acuerdo entrará en vigor el día veinticuatro de agosto de mil n
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998 del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, y hágase del conocimiento de los juzgados de distrito mencionados en el propio Acuerdo, para su cumplimiento.
+
+D.O.F. 9 DE OCTUBRE DE 1998.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día trece de octubre de mil novecientos noventa y ocho.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
