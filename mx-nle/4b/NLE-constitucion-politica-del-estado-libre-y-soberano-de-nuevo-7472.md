@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1943-06-23"
+last_updated: "1947-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1942.
-
-> <small>[N. DE E. CONTIENE EL "DECRETO No. 73 INTERPRETACIÓN AUTÉNTICA DEL INCISO b) DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO", PUBLICADO EN EL P.O. 23 DE JUNIO DE 1943.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1947.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1199,15 +1197,17 @@ Queda abolida la pena de muerte para los delitos políticos, y en cuanto a los d
 
 Ningún juicio criminal puede tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1947)</small>
+
 ###### Art. 23.
 
-La propiedad de las personas no puede ser ocupada sin su consentimiento, sino por causa de utilidad pública y previa indemnización. La autoridad administrativa, de acuerdo con la ley, hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada se basará en la que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él, de un modo tácito, por haber pagado sus contribuciones con esta base, aumentándolo con un diez por ciento. El exceso de valor que haya tenido la propiedad particular, por las mejoras que se hubieren hecho con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio de peritos y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
+La propiedad de las personas no puede ser ocupada sin su consentimiento, sino por causa de utilidad pública y mediante indemnización. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
-Los extranjeros, las asociaciones religiosas denominadas iglesias, las instituciones de beneficencia pública o privada y las sociedades mercantiles por acciones estarán sujetos, en la adquisición de la propiedad raíz, a las disposiciones y taxativas enumeradas en el articulo 27 de la Constitución Federal.
+Los extranjeros, las asociaciones religiosas denominadas iglesias, las instituciones de beneficiencia (sic) pública o privada y las sociedades mercantiles por acciones estarán sujetos, en la adquisición de la propiedad raíz, a las disposiciones y taxativas enumeradas en el Artículo 27 de la Constitución Federal.
 
 El Estado y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, en cuanto basten a sus necesidades y servicios públicos.
 
-Una ley del Congreso establecerá la extensión máxima de terreno de que pueda ser dueño un individuo o sociedad e indicará la forma y términos en que se ha de fraccionar la excedente. La misma ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
+Una Ley del Congreso establecerá; la extensión máxima de terreno de que pueda ser dueño un individuo o sociedad e indicará la forma y términos en que se ha de fraccionar la excedente. La misma Ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
 
 ###### Art. 24.
 
@@ -1284,3 +1284,7 @@ PRIMERO:— De los términos del Decreto Número 40 publicado en el Periódico O
 SEGUNDO: — En consecuencia: A contar del 4 de Octubre de 1946, nadie que haya ocupado el puesto de Gobernador provisional o interinamente, o con cualquier otro carácter durante los segundos tres años de un período Gubernamental podrá ser electo para ese mismo cargo en el período Constitucional inmediato.
 
 TERCERO :— En la forma que antecede queda interpretada Jurídicamente la disposición contenida en el Inciso b) del Artículo 84 de la Constitución Política del Estado y fijado su alcance por el H. Congreso Local.
+
+P.O. 30 DE ABRIL DE 1947.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
