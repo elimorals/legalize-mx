@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-106
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-01"
-last_updated: "1994-11-21"
+last_updated: "1995-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-08-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ABRIL DE 1995.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 1 de septiembre de 1992.
 
@@ -1225,9 +1225,29 @@ IV. Realizar la investigación y procesamiento de las materias primas utilizadas
 
 V. Proponer la adquisición de armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército y a la Fuerza Aérea;
 
-VI. Proponer programas tendientes a evitar y combatir la contaminación ambiental; y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 1995)</small>
 
-VII. Realizar visitas de supervisión a los organismos que la constituyen, de conformidad con las directivas del Secretario de la Defensa Nacional.
+VI. Proponer programas tendientes a evitar y combatir la contaminación ambiental;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DE 1995)</small>
+
+VII. Realizar visitas de supervisión a los organismos que la constituyen, de conformidad con las directivas del Secretario de la Defensa Nacional;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 1995)</small>
+
+VIII. Enajenar armas, municiones, explosivos, artificios, material y equipo conexo, así como los demás objetos regulados por la Ley Federal de Armas de Fuego y Explosivos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 1995)</small>
+
+IX. Importar y exportar armas, municiones y explosivos, así como materiales, artefactos, accesorios y equipos conexos; y
+
+> <small>(ADICIONADA, D.O.F. 11 DE ABRIL DE 1995)</small>
+
+X. Proporcionar servicios de asesoría técnica, ensamble, reparación y mantenimiento de armas, así como de materiales, artefactos, accesorios y equipos conexos.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ABRIL DE 1995)</small>
+
+Los productos que se obtengan con motivo de la enajenación y actividades económicas que se precisan en las fracciones VIII, IX y X, se enterarán a la Tesorería de la Federación para su utilización por la Secretaría de la Defensa Nacional, previa autorización de la de Hacienda y Crédito Público, de conformidad con la normatividad aplicable.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 21 DE NOVIEMBRE DE 1994)</small>
 
@@ -1324,3 +1344,9 @@ D.O.F. 21 DE NOVIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE ABRIL DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se deroga el artículo 5/o. (Sic) del Decreto que crea la Dirección General de Fábricas de la Defensa Nacional, publicado en el Diario Oficial de la Federación el 13 de septiembre de 1991.
