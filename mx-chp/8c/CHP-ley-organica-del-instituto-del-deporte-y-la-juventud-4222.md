@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-del-deporte-y-la-juventud-4222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-06-14"
-last_updated: "1989-06-14"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO DEL DEPORTE Y LA JUVENTUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO DEL DEPORTE, PUBLICADA EN EL PERIODICO OFICIAL EL 17 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 14 de junio de 1989.
 
@@ -342,3 +344,13 @@ DADO EN EL SALON DE SESIONES DEL PALACIO DEL H. PODER LEGISLATIVO DEL ESTADO, EN
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN EL PALACIO DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DOCE DIAS DEL MES DE JUNIO DE MIL NOVECIENTOS OCHENTA Y NUEVE.
 
 LIC. PATROCINIO GONZALEZ BLANCO GARRIDO.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- RUBRICA.- LIC. JUAN LARA DOMINGUEZ.- SECRETARIO DE GOBIERNO.- RUBRICA.- ING. ABELARDO SANTILLAN BARCENAS.- SECRETARIO DE EDUCACION, CULTURA Y SALUD.- RUBRICA.- LIC. RAFAEL MORENO BALLINAS.- CONTRALOR GENERAL DE GOBIERNO.- RUBRICA.- LIC. ROGER GRAJALES GONZALEZ.- OFICIAL MAYOR DE GOBIERNO.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 17 DE MARZO DE 2005.
+
+Artículo Primero.- La presente Ley entra en vigor el día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Decreto número 65, publicado en el Periódico Oficial del Estado, con el número 26 de fecha 14, de junio de 1989, así como cualquier otra disposición que oponga al contenido de la Presente Ley.
+
+Artículo Tercero.- El Instituto del Deporte, dentro de un término de 60 días, contados a partir de la fecha de inicio de vigencia de la presente Ley, deberá emitir su Reglamento Interior.
