@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2003-10-22"
+last_updated: "2004-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1866,6 +1866,10 @@ Las que se pronuncien en los demás juicios sumarios incluyendo las sentencias, 
 411.- En el divorcio por mutuo consentimiento se deberá presentar una solicitud por los interesados, la que contendrá el convenio que hayan celebrado respecto a la situación de los hijos y división de los bienes; o en su caso la manifestación de que no hay hijos o bienes que dividir provenientes de la sociedad conyugal formada con el matrimonio.
 
 412.- Presentada la solicitud y el convenio o manifestación a que alude el artículo anterior, previa la ratificación hecha por ambos cónyuges o por uno de ellos y el legítimo representante del otro, el juez decretará el divorcio de plano, aprobando el convenio que aquéllos hayan celebrado, en su caso, respecto a la situación de los hijos y división de los bienes.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2004)</small>
+
+Una vez aprobado el convenio sobre la situación de los bienes cuando se trate de inmuebles que pasen a propiedad de los menores hijos, el Juez girará oficio al Encargado del Registro Público de la Propiedad para que haga la anotación marginal preventiva, con duración de 60 días, en la inscripción relativa a dichos inmuebles.
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2002)</small>
 
@@ -4610,5 +4614,9 @@ P.O. 12 DE JULIO DE 2003.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 22 DE OCTUBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
