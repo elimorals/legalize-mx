@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-turismo-29625"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2002-05-06"
+last_updated: "2005-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2005.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el lunes 6 de mayo de 2002.
 
@@ -47,25 +47,33 @@ La Secretaría de Turismo de la Administración Pública Estatal tiene a su carg
 
 La Secretaría de Turismo, conducirá sus actividades de planeación, coordinación, ejecución y control, con base en los objetivos, políticas, estrategias, prioridades y restricciones, que establezcan el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y los Programas Específicos que emita el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2005)</small>
+
 ###### Artículo 3.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría de Turismo, contará con las siguientes unidades administrativas:
+Al frente de la Secretaría de Turismo habrá un Secretario del Despacho, titular de la misma, quien para el desahogo de los asuntos de su competencia, se auxiliará con las siguientes unidades administrativas:
 
-I. Oficina del Secretario;
+I. Dirección de Promoción Turística;
 
-II. Dirección de Promoción Turística;
+II. Dirección de Desarrollo Turístico;
 
-III. Dirección de Desarrollo Turístico;
+III. Dirección de Proyectos, Programas e Inversiones;
 
-IV. Dirección de Proyectos, Programas e Inversiones;
+IV. Dirección de Servicios y Atractivos Turísticos;
 
-V. Dirección de Servicios y Atractivos Turísticos; y
+V. Dirección de Congresos y Convenciones;
 
-VI. Coordinación Administrativa.
+VI. Coordinación Administrativa; y
+
+VII. Unidad de Contraloría Interna.
+
+Cuando las necesidades del servicio lo hagan necesario y la previsión presupuestal lo permita, el titular de la Secretaría queda facultado para crear delegaciones de la propia Secretaría, o de sus unidades administrativas en las cabeceras de los Municipios, mediante la emisión del correspondiente acuerdo que se publicará en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2005)</small>
 
 ###### Artículo 4.
 
-Las Direcciones, Coordinación administrativa y demás áreas de apoyo de la Secretaría de Turismo ejercerán sus atribuciones de conformidad con las disposiciones legales aplicables y de acuerdo a los lineamientos, normas y políticas que fije el titular de la misma.
+Las unidades administrativas de la Secretaría de Turismo ejercerán sus atribuciones de conformidad con las disposiciones legales aplicables, el presente Reglamento y los lineamientos, normas y políticas que fije el titular de la misma.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES Y FACULTADES DEL SECRETARIO
 
@@ -159,9 +167,9 @@ XXI. Autorizar dentro del ámbito de su competencia licencias o permisos al pers
 
 XXII. Las demás que les confieran expresamente las disposiciones legales y reglamentarias aplicables y las que les encomiende el titular de la Secretaría.
 
-### CAPÍTULO IV
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE ENERO DE 2005)</small>
 
-ATRIBUCIONES Y FACULTADES ESPECÍFICAS DE LAS DIRECCIONES Y DE LA COORDINACIÓN ADMINISTRATIVA.
+### CAPÍTULO IV. ATRIBUCIONES Y FACULTADES ESPECÍFICAS DE LAS DIRECCIONES, COORDINACIÓN ADMINISTRATIVA Y UNIDAD DE CONTRALORÍA INTERNA
 
 ###### Artículo 9.
 
@@ -293,6 +301,34 @@ IX. Coordinarse con la instancia federal competente en la operación del turismo
 
 X. Las demás que en el ámbito de su competencia las leyes y otras normas aplicables le señalen o las que disponga el Secretario.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2005)</small>
+
+###### Artículo 12 Bis.
+
+La Dirección de Congresos y Convenciones tendrá las siguientes facultades:
+
+I.- Organizar y apoyar, de acuerdo con los sectores público, social y privado; las actividades encaminadas a la realización de eventos que propicien la afluencia turística como congresos, convenciones, seminarios, concursos y espectáculos;
+
+II.- Planear y promover los programas de fomento de dichos eventos, con la participación de los sectores público, social y privado, según corresponda, calculando sus costos y proponiendo los mecanismos de financiamiento y de logística;
+
+III.- Vigilar que se mantenga actualizado el inventario de los lugares e instalaciones donde puedan desarrollarse los eventos, así como la relación de éstos, a efecto de promover su realización;
+
+IV.- Dirigir y organizar eventos que estimulen y fortalezcan la convivencia social y familiar;
+
+V.- Coordinar con las autoridades competentes el desarrollo de los eventos de carácter turístico, científico y educativo que organice la Secretaría;
+
+VI.- Planear, programar y coordinar la realización de espectáculos, congresos, excursiones, audiciones, representaciones y eventos tradicionales como atracción turística;
+
+VII.- Promover y apoyar y en su caso coordinar, a nivel estatal, nacional e internacional la realización de eventos, congresos y convenciones del sector turismo;
+
+VIII.- Apoyar y asesorar a los prestadores de servicios turísticos para la realización de congresos y convenciones que se lleven a cabo en el Estado;
+
+IX.- Participar en las ferias nacionales e internacionales que promueva la Secretaría de Turismo de la Administración Pública Federal;
+
+X.- Promover dentro de los sectores públicos, social y privado, federal, estatal o municipal, la realización de congresos y convenciones en el Estado; y
+
+XI.- Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales aplicables y las que le encomiende el Secretario.
+
 ###### Artículo 13.
 
 La Coordinación Administrativa tendrá las siguientes funciones:
@@ -339,6 +375,12 @@ XX. Controlar los ingresos de entradas al espectáculo de luz y sonido y rendir 
 
 XXI. Los demás que en el ámbito de su competencia las leyes y normas le señalen o por disposición del Secretario.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2005)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a la Unidad de Contraloría Interna el ejercicio de las atribuciones que a los órganos internos de control de las instituciones públicas les señala la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 14.
@@ -366,3 +408,13 @@ QUINTO.- El Manual de Organización de la Secretaría de Turismo se expedirá de
 SEXTO.- En tanto se expidan los manuales que este Reglamento menciona, el titular de la Secretaría resolverá las cuestiones que conforme a dichos manuales se deban regular.
 
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la ciudad de Campeche, Municipio y Estado del mismo nombre, Estados Unidos Mexicanos, a los cinco días del mes de abril del año dos mil dos. L.A. JOSE ANTONIO GONZALEZ CURI, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. CARLOS FELIPE ORTEGA RUBIO, SECRETARIO DE GOBIERNO.- C.P. RICARDO RODRIGUEZ DIVES, SECRETARIO DE TURISMO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE ENERO DE 2005.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones, administrativas y reglamentarias en lo que se opongan al contenido del presente Acuerdo.
+
+Tercero.- La Secretaria de Finanzas y Administración de la Administración Pública del Estado procederá a hacer los ajustes presupuestales que sean necesarios para el cumplimiento de este Acuerdo.
