@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1979-04-18"
+last_updated: "1980-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1980.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -363,11 +363,11 @@ En estos tres últimos casos, la convocatoria se hará por conducto de la misma 
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1980)</small>
 
 ###### Art. 40.
 
-A la apertura del Primer Período Ordinario de Sesiones del Congreso, asistirá el Gobernador del Estado y rendirá un informe por escrito sobre la situación que guarde la administración pública, a excepción del año que corresponda a la transmisión del Poder Ejecutivo Federal, en cuyo caso deberá rendirlo el día 10 de diciembre. El Presidente de la Legislatura contestará dicho informe en términos generales.
+El día 15 de noviembre de cada año, el Gobernador del Estado rendirá ante el Congreso instalado en sesión solemne, un informe por escrito sobre la situación que guarde la administración pública. El Presidente de la Legislatura contestará dicho informe en términos generales.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
@@ -1980,3 +1980,9 @@ P.O. 18 DE ABRIL DE 1979.
 PRIMERO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO.- En tanto no se expida la Ley Orgánica del Congreso, seguirá aplicándose el Reglamento Interior del mismo que actualmente se encuentra en vigor.
+
+P.O. 2 DE MAYO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
