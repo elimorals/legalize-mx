@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1993-12-23"
+last_updated: "1994-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -73,21 +73,23 @@ Queda prohibida toda clase de servidumbre que implique la injusta explotación o
 
 En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, la habitación, el trabajo y la educación.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 4.
 
-La educación que se imparta en el Estado de Durango se sujetará a lo dispuesto por el Artículo 3o. de la Constitución General de la República.
+La educación que se imparta en el estado de Durango se sujetará a lo dispuesto en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y su legislación reglamentaria, de acuerdo al federalismo educativo derivado del régimen de concurrencia de facultades en materia educativa.
 
-Los particulares podrán impartir la educación en todos sus tipos y grados, pero deberán obtener previamente la autorización expresa del Poder Público, que contendrá, en su caso, la aprobación de los planes y programas de estudios, la calificación de la preparación del personal docente y el dictamen sobre las condiciones que reúnan las instalaciones necesarias para el tipo y grado de enseñanza que se pretenda impartir.
+Las particulares podrán impartir educación en todos sus tipos y modalidades, debiendo obtener autorización expresa o reconocimiento del poder público, en cada caso, en los términos que establezcan la legislación federal y estatal en materia educativa.
 
-El Poder Público otorgará posteriormente, en su caso, el reconocimiento de validez oficial a los estudios hechos en planteles particulares. Este reconocimiento podrá ser negado o retirado discrecionalmente por el Poder Público.
+En los términos de la legislación aplicable, el Gobierno del Estado podrá otorgar, negar y revocar autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; también podrá otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los señalados en este párrafo.
 
-Contra la negativa o la revocación de la autorización o del reconocimiento de validez oficial a los estudios hechos en los planteles particulares a que se refiere este Artículo, no procederá juicio o recurso alguno.
+Además de impartir la educación básica, el Gobierno del Estado, promoverá y prestará la educación -media superior- y la superior; asimismo promoverá la investigación científica y tecnológica y la difusión de la cultura duranguense en el contexto de la cultura nacional.
 
-El Congreso expedirá las leyes destinadas a distribuir la función social educativa en el Estado; a fijar las aportaciones económicas correspondientes a ese servicio público y señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+El Poder Ejecutivo del Estado podrá otorgar, mediante decreto, el estatus de escuelas libres de educación superior, a aquellas instituciones educativas particulares que lo soliciten y cumplan con los requisitos exigidos por la legislación aplicable.
 
-El Congreso expedirá la ley que determine cuales son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlo.
+El Congreso expedirá las leyes que regulen la prestación del servicio educativo en el ámbito de la competencia estatal y establecerá las sanciones y los procedimientos aplicables a quienes infrinjan, no cumplan o no hagan cumplir las disposiciones relativas. Asimismo, deberá fijar las partidas presupuestales y en general las aportaciones financieras suficientes destinadas a ese servicio público.
+
+El Congreso expedirá la ley que determine cuales son las profesiones que requieran título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades facultadas para expedirlo.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -817,9 +819,9 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+SECCON A.- DE SU ORGANIZACION
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 60.
 
@@ -1303,6 +1305,10 @@ La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y d
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+
 ###### ARTICULO 92.
 
 El Supremo Tribunal de Justicia del Estado se integra por siete Magistrados numerarios y siete Magistrados supernumerarios; éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
@@ -1386,10 +1392,6 @@ XI.- Las demás que le confieren esta Constitución y las leyes;
 XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCON A.- DE SU ORGANIZACION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 98.
 
@@ -2174,3 +2176,7 @@ El presente Decreto entrará en vigor a partir del 1o. de Septiembre de 1997.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
