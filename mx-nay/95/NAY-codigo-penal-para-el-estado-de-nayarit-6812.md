@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1991-07-10"
+last_updated: "1991-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 1991.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -1309,6 +1309,8 @@ Al que ultraje insignias de las Instituciones que tengan actuación pública deb
 
 ### CAPITULO I. SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 190.
 
 El que sabiendo que está enfermo de sífilis o de un mal venéreo en periodo de infectante o de una enfermedad grave y fácilmente transmisible, tenga relaciones sexuales y así ponga en simple peligro de contagio la salud de otro, será sancionado con prisión de tres meses a dos años y multa de uno a diez días de salario, sin perjuicio de su reclusión en un hospital hasta que cese el periodo infectante.
@@ -1361,11 +1363,15 @@ Las sanciones a que se refieren los cuatro artículos anteriores, se aplicarán 
 
 Estas disposiciones sólo serán aplicables cuando no existan otras de la competencia Federal.
 
-### CAPITULO II. EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES
+### CAPITULO II. EJERCICIO INDEBIDO DE FUNCIONES
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ## TITULO SEXTO. DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPITULO III. ABUSO DE AUTORIDAD
+### CAPITULO III. ABUSO DE AUTORIDAD, INTIMIDACION Y TORTURA
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 198.
 
@@ -1383,6 +1389,8 @@ Si los delitos de que habla el artículo anterior fueren cometidos al amparo de 
 
 ### CAPITULO IV. COALICION DE SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 200.
 
 Se aplicará prisión de uno a cinco años y multa de uno a diez días de salario, al que procure o facilite la corrupción de cualquier naturaleza de un menor de dieciséis años.
@@ -1398,6 +1406,8 @@ Incurrirán en las mismas sanciones de prisión y multa, los padres o tutores qu
 Las sanciones que señalan los dos artículos anteriores, se duplicarán a juicio del juez cuando el que corrompa o emplee al menor, sea ascendiente, padrastro, madrastra o tutor de aquél.
 
 ### CAPITULO V. COHECHO
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 203.
 
@@ -1443,49 +1453,77 @@ La sanción será de uno a cinco años de prisión y multa de uno a diez días d
 
 ### CAPITULO VIII. DELITOS COMETIDOS EN LA CUSTODIA DE DOCUMENTOS
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 210.
 
-Para los efectos de este título y el subsecuente, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la administración Pública, Estatal o Municipal, Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Organizaciones y Sociedades Asimiladas a ésta, Fideicomisos Públicos, en el Congreso Local, o en el Poder Judicial, que manejen recursos económicos del Estado y Municipios.
+Para los efectos de este Título y el subsecuente, es Servidor Público, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Organizaciones y Sociedades asimiladas a esta, Fideicomisos Públicos, en el Congreso Local o en el Poder Judicial.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ### CAPITULO IX. ENRIQUECIMIENTO ILICITO
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 211.
 
-Se impondrá de un mes a tres años de prisión y multa de treinta a ciento cincuenta días de salario, a los Servidores Públicos que incurran en los casos de las fracciones siguientes:
+Comete el delito de ejercicio indebido o abandono de funciones, al Servidor Público que:
 
-I. Al que ejerza las funciones de su empleo, cargo o comisión sin haber tomado posesión legítima o sin satisfacer todos los requisitos legales;
+I. Ejerza las funciones de su empleo, cargo o comisión sin haber tomado posesión legítima o sin satisfacer todos los requisitos legales;
 
-II. Al que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido legalmente;
+II. Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido legalmente;
 
-III. Al que nombrado por tiempo limitado continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
+III. Nombrado por tiempo limitado continúe ejerciendo sus funciones, después de cumplido el término por el cual se le nombró;
 
-Lo prevenido en las fracciones II y III, no comprende el caso en que el Servidor Público que debe cesar en sus funciones, se le ordene que continúe en ellas entre tanto se presenta la persona que haya de sustituirlo, cuando la Ley no lo prohiba.
+Lo prevenido en las Fracciones II y III, no comprende el caso en que el Servidor Público que debe cesar en sus funciones se le ordene que continúe en ellas entre tanto se presenta la persona que haya de sustituirlo, cuando la Ley no lo prohiba.
 
-IV. El Servidor que se atribuya alguna otra comisión, empleo o cargo del que realmente tuviere;
+IV. Se autoatribuya alguna otra comisión, empleo o cargo del que realmente tuviere;
 
-V. Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada;
+V. Sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada;
 
-VI. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública federal centralizada, del Distrito Federal, Organismos Descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, del Congreso de la Unión o de los Poderes Judicial Federal o Judicial del Distrito Federal, por cualquier acto u omisión no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+VI. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o Entidad de la Administración Pública Centralizada, Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Asociaciones y Sociedades asimiladas a éstas y Fideicomisos Públicos, del Congreso del Estado o del Poder Judicial Estatal, por cualquier acto u omisión no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
 
-VII. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo custodia, o a la que tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+VII. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, inutilice ilícitamente información o documentación que se encuentre bajo custodia, o a la que tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+
+VII. El que sin estar facultado para ello o estándolo, indebidamente otorgue:
+
+a).- Concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y Municipios;
+
+b).- Permisos, Licencias o autorizaciones de contenido económico sin tener facultades para ello;
+
+c).- Franquicias, exenciones, deducciones, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Estatal y Municipal;
+
+d).- Realice o contrate obras públicas, deudas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, colocaciones de fondos y valores con recursos económicos públicos;
+
+IX. Teniendo en su cargo fondos públicos, les dé a sabiendas sin la autorización correspondiente de quien tenga facultades para ello, una aplicación pública distinta de aquélla a que estuvieren destinados o hiciere un pago ilegal.
+
+Al que infrinja lo establecido en las Fracciones I a la IV se le impondrá de un mes a tres años de prisión y multa de treinta a ciento cincuenta días de salario mínimo diario vigente, sin perjuicio de aplicarse otras sanciones derivadas del ejercicio indebido a su cargo.
+
+Al que infrinja lo establecido en las Fracciones V a la IX se le impondrá de tres meses a tres años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente, si el monto de las operaciones no excede el equivalente de setecientas veces el salario mínimo diario vigente en el momento de cometerse el delito; y se impondrá de dos a doce años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente, cuando el monto de las operaciones exceda al equivalente de setecientas veces el salario mínimo diario vigente en el Estado.
+
+Las penalidades anteriores podrán ser reducidas hasta la mitad si el Servidor Público resarce a quien causó el daño, el importe total de las operaciones realizadas en un término no mayor de treinta días.
+
+Las sanciones señaladas con antelación, serán aplicadas sin perjuicio de imponer las que se señalan en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 212.
 
-Comete el delito de abuso de autoridad todo Servidor Público, sea cual fuere su categoría:
+Comete el delito de abuso de autoridad, todo Servidor Público sea cual fuere su categoría:
 
-I. Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+I. Cuando para impedir la ejecución de una Ley, Decreto o Reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
 II. Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
 
 III. Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
-IV. Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
+IV. Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la Ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la Ley;
 
-V. Cuando el encargado de una fuerza pública, requerida legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
+V. Cuando el encargado de una fuerza pública, requerida legalmente por una autoridad competente para que le preste auxilio se niegue indebidamente a dárselo;
 
-VI. Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviese; o no cumpla la orden de libertad girada por la autoridad competente;
+VI. Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente niegue que está detenida, si lo estuviese; o no cumpla la orden de libertad girada por la autoridad competente;
 
 VII. Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
 
@@ -1493,37 +1531,87 @@ VIII. Cuando haga que se le entreguen fondos, valores u otras cosas que no se le
 
 IX. Cuando con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otro servicio;
 
-X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado; y,
+X. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sea remunerados, a sabiendas de que no se les prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado; y,
 
 XI. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
 
+Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días de salario mínimo diario vigente y destitución e inhabilitación por el mismo lapso para desempeñar otro empleo, cargo o comisión pública.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
+
 ###### ARTICULO 213.
 
-Al que cometa del delito de abuso de autoridad, se le impondrá prisión de seis meses a seis años y multa de treinta a doscientos días de salario y destitución e inhabilitación por el mismo lapso de tiempo para desempeñar otro empleo, cargo o comisión pública.
+Comete el delito de intimidación:
+
+I. El Servidor Público que por sí o por interpósita persona utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la legislación penal o por la Ley Estatal de Responsabilidades de los Servidores Públicos, y
+
+II. El Servidor Público que con motivo de la querella, denuncia o la información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que la presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que comete el delito de intimidación se le impondrá de uno a nueve años de prisión, multa por un monto de treinta a trescientos veces el salario mínimo diario vigente en el Estado y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo cargo o comisión públicos.
+
+Las sanciones señaladas con antelación serán aplicadas sin perjuicio que se establezcan en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
 ### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 ###### ARTICULO 214.
 
-Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+Comete el delito de tortura cualquier servidor público de los Gobiernos Estatal, Municipal, que por sí o valiéndose de terceros subordinados y siempre en el ejercicio de sus funciones, cause intencionalmente a una persona dolor o sufrimiento. Asimismo, cuando la coaccione física o moralmente para obtener de ella o de un tercero, información o confesión alguna, o para inducirla a asumir un comportamiento determinado o castigarla por un acto que haya cometido o se sospeche que se ha cometido.
+
+No se comete el delito de tortura cuando, como consecuencia de la ejecución de la aprehensión o aseguramiento de la persona o cosas, se causen dolor o sufrimiento circunstanciales.
+
+Tampoco lo serán las penalidades que sean consecuencias únicamente de sanciones legítimas o inherentes o incidentales a éstas.
+
+Son reglas aplicables al delito de tortura, las siguientes:
+
+I. Al que cometa el delito de tortura se le sancionará con pena privativa de libertad de libertad de dos a diez años, y de doscientos a quinientos días de salario mínimo diario vigente en el momento de aplicar la multa, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión;
+
+II. Si además de tortura resulta delito diverso, se estará a las reglas de concurso de delito;
+
+III. No justificará la tortura que se invoque o existan circunstancias excepcionales, como inestabilidad política externa, urgencia en las investigaciones o cualquier otra emergencia pública;
+
+IV. En el momento en que lo solicite cualquier detenido o reo, o que lo pida su defensor, deberá ser reconocido por perito médico legista o por un médico de su elección. El que haga el reconocimiento queda obligado a expedir de inmediato el certificado correspondiente;
+
+V. Cuando se compruebe que alguna declaración ha sido obtenida mediante la tortura, no podrá invocarse como prueba, la Ley adjetiva dispondrá la presencia del Abogado defensor para la validez de las declaraciones; y
+
+VI. Cualquier autoridad que conozca un hecho de tortura, está obligado a denunciarla de inmediato.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 215.
 
-A los que cometan el delito de coalición, se les impondrá de dos meses a dos años y multa de diez a sesenta días de salario.
+Comete el delito de coalición de Servidores Públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una Ley o Reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+A los que cometan el delito de coalición, se les impondrá prisión de dos meses a dos años y multa de diez a sesenta días de salario.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1991)</small>
 
 ###### ARTICULO 216.
 
-Comete el delito de cohecho:
+Comete el delito de tráfico de influencia:
 
-I. El Servidor Público que por sí o por interpósita persona, solicite o reciba indebidamente dinero o cualquiera otra dádiva o acepte una promesa de hacer algo ilícito o dejar de hacer algo lícito relacionado con sus funciones; y,
+I. El Servidor Público que por sí o por interpósita persona, promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
 
-II. El que dé u ofrezca dinero o cualquiera otra dádiva a la persona encargada de un servicio público del Estado, Municipal o descentralizado o de participación estatal, sea o no funcionario, para que haga un acto ilícito u omita un acto lícito relacionado con sus funciones.
+II. Cualquier persona que promueva la conducta ilícita del Servidor Público o que se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III. El Servidor Público que por sí o por interpósita persona indebidamente solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro Servidor Público, que produzca beneficios económicos al propio Servidor Público o a su cónyuge, descendientes o ascendientes, pariente por consanguinidad o afinidad hasta el cuarto grado, o cualquier tercero con el que tenga vínculos afectivos, económicos de dependencia administrativa directa, socios o sociedades de las que el Servidor Público o las personas antes referidas formen parte.
+
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos a seis años de prisión, multa de treinta a trescientos veces el salario mínimo diario vigente en el Estado, y la destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
+
+Las sanciones señaladas con antelación serán aplicadas sin perjuicio de las establecidas en la Ley de Responsabilidades de los Servidores Públicos y en otras Leyes relativas.
+
+(REUBICADO, P.O. 19 DE OCTUBRE DE 1991)
 
 ### CAPITULO UNICO. RESPONSABILIDAD MEDICA Y TECNICA
 
 ###### ARTICULO 217.
 
-El delito de cohecho se sancionará con tres meses a cinco años de prisión y multa de quince a sesenta días de salario; al cohechado se le impondrá además, la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal, siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
+Comete el delito de cohecho:
+
+I. El Servidor Público que por sí o por interpósita persona solicite o reciba indebidamente dinero o cualquier otra dádiva o acepte una promesa de hacer algo ilícito o dejar de hacer algo lícito relacionado con sus funciones; y
+
+II. El que dé u ofrezca dinero o cualquier otra dádiva a la persona encargada de un servicio público del Estado, Municipal o Descentralizado o de participación Estatal, o algún Servidor Público que preste sus servicios en el Poder Judicial, Ejecutivo o Legislativo, para que haga un acto ilícito u omita uno lícito relacionado con sus funciones.
+
+Al que cometa el delito de cohecho se le sancionará con tres meses a cinco años de prisión y multa de quince a sesenta días de salario; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
 
 ### CAPITULO I. FALSIFICACION DE DOCUMENTOS DE CREDITO
 
@@ -1559,29 +1647,31 @@ Las sanciones del artículo anterior, se aplicarán también a los encargados o 
 
 ###### ARTICULO 224.
 
-Se impondrá prisión de tres meses a cinco años a los Servidores Públicos que:
+Comete el delito de custodia de documentos, el Servidor Público:
 
-I.- Sustrajeren, destruyeren u ocultaren documentos o papeles que les estuvieren confiados por razón de su cargo;
+I. Sustrajere, destruyere u ocultare documentos o papeles que le estuvieren confiados por razón de su cargo;
 
-II.- Teniendo a su cargo la custodia de documentos o efectos sellados por la autoridad, quebrantaren los sellos o consintieren su quebrantamiento; y,
+II. Teniendo a su cargo la custodia de documentos o efectos sellados por la autoridad, quebrantare los sellos o consintiere su quebrantamiento; y
 
-III.- Abrieren o consintieren abrir sin la autorización correspondiente, papeles o documentos cerrados cuya custodia les estuviere confiada.
+III. Abriere o consintiere abrir sin la autorización correspondiente, papeles o documentos cerrados cuya custodia le estuviere confiada.
+
+Al responsable de este delito se le impondrá prisión de tres meses a cinco años y multa de diez a treinta días de salario mínimo.
 
 ### CAPITULO IV. FALSIFICACION DE CERTIFICACIONES
 
 ###### ARTICULO 225.
 
-Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Existe enriquecimiento ilícito cuando el Servidor Público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-Incurre en responsabilidad penal, asimismo, quien haga figurar como suyos, bienes que el servidor público adquiera o haya adquirido en contravención a lo dispuesto en la misma Ley, a sabiendas de esta circunstancia.
+Asimismo, incurre en responsabilidad penal, quien haga figurar como suyos bienes que el Servidor Público adquiera o haya adquirido en contravención a lo dispuesto en la misma Ley, a sabiendas de esta circunstancia.
 
 Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley Federal de Responsabilidades de los Servidores Públicos.
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Estado, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientos días de salario al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario, se impondrá de tres meses a seis años de prisión y multa de treinta a trescientos días de salario al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario, se impondrán de dos a catorce años de prisión, multa de trescientos a quinientas veces el salario al momento de cometerse el delito y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario, se impondrá de dos a catorce años de prisión, multa de trescientos a quinientas veces el salario y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ## TITULO NOVENO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
 
@@ -2866,3 +2956,9 @@ El presente Decreto entrará en vigor a partir de la fecha de su publicación en
 P.O. 10 DE JULIO DE 1991.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
