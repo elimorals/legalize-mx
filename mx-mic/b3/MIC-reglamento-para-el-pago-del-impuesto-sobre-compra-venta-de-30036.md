@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-el-pago-del-impuesto-sobre-compra-venta-de-3003
 country: "mx"
 rank: "reglamento"
 publication_date: "1964-04-23"
-last_updated: "1964-04-23"
+last_updated: "1970-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO PARA EL PAGO DEL IMPUESTO SOBRE COMPRAVENTA DE GANADO VACUNO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 1970, EL PRESENTE ORDENAMIENTO QUEDARA VIGENTE EN LO NO PREVISTO EN LA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1970.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de abril de 1964.
 
@@ -238,3 +240,27 @@ El presente Reglamento entrara en vigor el día de su publicación en el "Perió
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en Morelia, a los 20 días del mes de abril de 1964.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Lic. Agustín Arriaga Rivera.-EL SECRETARIO GENERAL DE GOBIERNO, Lic. Rafael García de león.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 1970.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrara en vigor en todo el estado, a los dieciocho días siguientes de su publicación en el Periódico Oficial de la entidad.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Ley de Hacienda del Estado del 27 de diciembre de 1949 con sus adiciones y reformas, así como las demás que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Conocidas las tablas generales de valores unitarios, podrán fijarse en la Ley de Ingresos tasas diferenciales según la determinación de valores que se contengan en aquéllas.
+
+###### ARTICULO QUINTO.
+
+En lo no previsto en esta u otras leyes, se estará a lo dispuesto en los Capítulos XXXIII. De las oficinas de Hacienda; XXXIV. De los visitadores de Hacienda; XXXV. Contabilidad; XXXVI. Distribución de caudales; XXXVII. Cuentas; XXXVIII. De las fianzas o caucionales; XXXIX. Licencias y substituciones, y XLI. Disposiciones generales, de la Ley que se deroga.
+
+###### ARTICULO SEXTO.
+
+Quedan vigentes en lo no previsto en la presente Ley, los reglamentos a los capítulos del Decreto número 27 del 7 de enero de 1935, así como el reglamento para el pago del impuesto sobre compra-venta de ganado vacuno del 23 de abril de 1964.
