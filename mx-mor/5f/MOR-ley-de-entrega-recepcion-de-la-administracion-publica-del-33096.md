@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-del-33096
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2003-07-30"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO Y MUNICIPIOS DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -179,15 +179,25 @@ c). Un representante de la Secretaría de la Contraloría; y
 
 d). Un representante de la Oficialía Mayor.
 
-II. En los Poderes Legislativo y Judicial:
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2003)</small>
 
-a). El servidor público titular saliente;
+II.- En los Poderes Legislativo y Judicial:
 
-b). El servidor público titular entrante o la persona que éste designe;
+A. En el Poder Judicial;
 
-c). El titular del área que conforme a sus respectivas leyes orgánicas o reglamentos internos corresponda llevar el inventario de los bienes y recursos asignados; y
+a).- El servidor público titular saliente;
 
-d). Un representante del órgano de control o su equivalente en estos Poderes.
+b).- El servidor público titular entrante o la persona que éste designe;
+
+c).- El titular del área que conforme a sus respectivas leyes orgánicas o reglamentos internos corresponda llevar el inventario de los bienes y recursos asignados; y,
+
+d).- Un representante del órgano de control o su equivalente en estos Poderes.
+
+B. En el Poder Legislativo:
+
+a) El Diputado o funcionario saliente;
+
+b) Los Diputados de la Comisión Instaladora o los funcionarios designados por las Secretarías Generales del Congreso y, en su caso, el funcionario entrante;
 
 III. En los Municipios:
 
@@ -461,9 +471,35 @@ Para los efectos del artículo anterior, el gobierno estatal o municipal en el �
 
 El Gobernador del Estado y los presidentes municipales en el ámbito de su competencia, deberán realizar la entrega recepción de su despacho al funcionario público entrante, entendido como los recursos humanos, materiales y financieros que maneja en forma directa, independientemente de la entrega global de su administración.
 
-Asimismo, deberán realizar la entrega recepción de su despacho al funcionario público entrante o al órgano interno de control administrativo correspondiente, los magistrados del Poder Judicial y los diputados del Congreso del Estado, por licencia o término constitucional de su cargo
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
+Asimismo, deberán realizar la entrega recepción de su despacho al funcionario público entrante o al órgano interno de control administrativo correspondiente, los magistrados del Poder Judicial; en el caso de los diputados del Congreso del Estado, por licencia, o por el término de su encargo, la entrega la harán a las áreas correspondientes de las Secretarías Generales del propio Congreso.
 
 Para el caso de la entrega recepción global de administración por cambio de legislatura en el Congreso del Estado, se estará al procedimiento establecido en la Ley Orgánica del Congreso del Estado de Morelos, referente a la Instalación del Congreso por la Comisión Instaladora de la nueva legislatura que deba sucederla, lo anterior con independencia de la aplicación de la presente ley en lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
+Artículo 29 bis.- En el caso del Poder Legislativo, la entrega recepción por la conclusión de funciones de una Legislatura, se llevará a cabo bajo el procedimiento señalado en el presente artículo.
+
+La Comisión Instaladora que designe el Pleno de la Asamblea Legislativa en términos de lo dispuesto por la Ley Orgánica del Congreso, llevará a cabo el proceso de entrega recepción a la Legislatura siguiente o entrante.
+
+Dicha Comisión Instaladora, por conducto de su Presidente, coordinará e instruirá a los órganos del Poder Legislativo, incluido el órgano de Auditoría Superior Gubernamental, y, en general, a todas las áreas administrativas, para que, sin excepción alguna, apliquen el procedimiento administrativo de entrega recepción con respecto a los recursos humanos, materiales y financieros, así como la información y documentación del Poder Legislativo, a que aluden los artículos 5 y 15 de este ordenamiento.
+
+En el proceso de entrega recepción cada órgano, dependencia o área administrativa del Congreso, sea cual fuera su naturaleza jurídica, quedará obligado a cumplir en tiempo y forma con la integración de la información y documentación en los términos que señalan los artículos 5 y 15 de este ordenamiento.
+
+La misma obligación tendrán los diputados presidentes de las comisiones, comités, subcomités y órganos colegiados del Poder Legislativo. Toda la información deberá estar debidamente firmada por el servidor o funcionario público titular de cada área, dependencia, órgano o cuerpo colegiado del Congreso, quienes serán responsables en términos de lo dispuesto en el artículo 17 de esta Ley.
+
+Tratándose de las comisiones, comités, subcomités, y los demás órganos colegiados del Congreso, sus respectivos presidentes entregarán a la Comisión Instaladora, por conducto de quien la presida, la información que, en términos de este ordenamiento, debe ser objeto de entrega-recepción, sin necesidad de requerimiento alguno. La falta de entrega de esta obligación, se hará constar en el acta respectiva a que alude el artículo 20 de este ordenamiento.
+
+Cuando el Presidente de la Comisión Instaladora presida al mismo tiempo uno o más órganos colegiados del Congreso, la entrega de la citada información la hará el diputado que actúe como secretario de dicho órgano colegiado.
+
+Las Secretarías Generales de Servicios: Administrativos y Financieros, y Legislativos y Parlamentarios, serán las responsables de integrar toda la información y documentación inherentes a las demás dependencias y áreas administrativas del Congreso, incluyendo la relativa al órgano de Auditoría Superior Gubernamental del Congreso. Ambas Secretarías certificarán la validez, congruencia y certeza de la información relativa a dichos órganos y áreas administrativas del Congreso.
+
+Cada uno de los informes, inventarios, estados financieros y en general, toda la información que deba ser objeto de entrega recepción, y que formulen y firmen los titulares de los órganos colegiados, administrativos, y en general, todas las dependencias y áreas del Poder Legislativo, formarán parte de los anexos que se integren al acta que se levante de la entrega recepción.
+
+Las disposiciones de este ordenamiento a que aluden los artículos 5 fracción I, 6 fracción I, 17, 21, 24, 34, 35 y 38 de esta Ley, no le serán aplicables a la Comisión Instaladora del Poder Legislativo, ya que sus miembros únicamente actúan como el conducto a través del cual se formaliza la entrega a la Legislatura entrante.
+
+En este caso, las aclaraciones, informaciones, requerimientos y, en su caso, el inicio de cualquier procedimiento o proceso sancionatorio, independientemente de su naturaleza, se dirigirá al servidor público que haya tenido a su cargo directamente las funciones cuya aclaración, información o responsabilidad se requieran, en términos de la Ley Orgánica del Congreso del Estado, de la Ley de Auditoría Superior Gubernamental del Estado de Morelos, de la Ley de Responsabilidades de los Servidores Públicos del Estado, así como de las demás disposiciones legales y reglamentarias que resulten aplicables.
 
 ###### Artículo 30.
 
@@ -570,3 +606,11 @@ SECRETARIA DE HACIENDA
 CLAUDIA MARISCAL VEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE AGOSTO DE 2003.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
