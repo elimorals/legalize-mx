@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-13577"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-03"
-last_updated: "2000-06-06"
+last_updated: "2000-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial, el 3 de febrero de 1999.
 
@@ -119,9 +119,11 @@ Para la eficaz atención y eficiente despacho de los asuntos de su competencia, 
 
 La estructura orgánica interna de los organismos desconcentrados en cada una de las dependencias y entidades, deberá someterse para la consideración y acuerdo del Titular del Ejecutivo.
 
+> <small>(REFORMADO, P. O. 7 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 19.
 
-Los titulares de las dependencias a que se refieren los Artículos 23 al 29 de esta Ley, acordarán directamente con el Titular del Ejecutivo, y los titulares de las entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposiciones en contrario del Titular del Ejecutivo, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los Artículos 87 y 95 de la Constitución Política del Estado. Todas las dependencias a que se refieren los Artículos 23 al 27 de esta ley, se denominarán Secretarías, tendrán igual rango y entre ellas no habrá preminencia alguna.
+Los titulares de las dependencias y entidades del Ejecutivo, formularán el anteproyecto de Presupuesto de Egresos correspondiente, de acuerdo a sus programas, planes de gobierno y lineamientos que al efecto señale el área de planeación correspondiente y la Secretaría de Finanzas.
 
 ###### ARTICULO 20.
 
@@ -135,9 +137,23 @@ Para el estudio, planeación y despacho de los asuntos de los diversos ramos de 
 
 I.- SECRETARIA GENERAL DE GOBIERNO.
 
-II.- SECRETARIA DE FINANZAS Y ADMINISTRACION.
+> <small>(REFORMADA, P. O. 7 DE DICIEMBRE DE 2000)</small>
+
+II.- SECRETARIA DE FINANZAS.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+II bis.- SECRETARIA DE ADMINISTRACIÓN.
 
 III.- SECRETARIA DE DESARROLLO SOCIAL.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+III bis.- SECRETARIA DE EDUCACION, CULTURA Y DEPORTE.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+III bis 1.- SECRETARIA DE SALUD.
 
 IV.- SECRETARIA DE DESARROLLO URBANO Y ECOLOGIA.
 
@@ -185,7 +201,9 @@ XII. Tramitar los nombramientos que para el ejercicio de las funciones notariale
 
 XIII. Organizar, administrar y vigilar el Archivo General de Notarías y autorizar los libros que deben utilizar los notarios en el desempeño de sus funciones;
 
-XIV. Llevar el Registro Público de la Propiedad y del Comercio, correspondiendo a la Secretaría de Finanzas y Administración, la determinación y recaudación de derechos que se generen por trámites y servicios;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XIV.- Llevar el Registro Público de la Propiedad y del Comercio, correspondiendo a la Secretaría de Finanzas, la determinación y recaudación de los derechos que se generen por trámites y servicios;
 
 XV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
@@ -201,7 +219,9 @@ Ejecutar los actos de expropiación, de ocupación temporal y de limitación de 
 
 XX. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
 
-XXI. Coordinar los eventos y actos cívicos del Gobierno del Estado y elaborar el calendario de los mismos, con el apoyo logístico de la Secretaría de Finanzas y Administración;
+(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000) (F. DE E., P.O. 12 DE DICIEMBRE DE 2000)
+
+XXI.- Coordinar los eventos y actos cívicos del Gobierno del Estado y elaborar el calendario de los mismos, con el apoyo logístico de la Secretaría de Administración;
 
 XXII. Participar coordinadamente con las Autoridades Federales, en los términos de las leyes relativas, en materia de cultos religiosos, detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos, migración, prevención, combate y extinción de catástrofes públicas;
 
@@ -225,19 +245,21 @@ XXXI. Conducir y poner en ejecución las políticas y los programas de Gobierno 
 
 XXXII. Coordinar actividades en materia vehicular, con las Autoridades Federales; y,
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DEL 2000)</small>
-
-XXXIII.- Desarrollar y ejecutar en el ámbito territorial del Estado, por conducto del Organo Desconcentrado denominado Consejo para el Desarrollo Integral de la Mujer, las acciones tendientes a promover la participación de las mujeres en la vida social, política y económica del Estado, fomentando una cultura de igualdad de género; preparar y presentar a la consideración del ejecutivo del Estado el proyecto del Programa Estatal de la Mujer; realizar las acciones que permitan la ejecución del mismo.
+XXXIII.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
 > <small>(ADICIONADA, P.O. 6 DE JUNIO DEL 2000)</small>
 
 XXXIV.- Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
 
-#### Sección II. De la Secretaría de Finanzas y Administración
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+#### Sección II. De la Secretaría de Finanzas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 24.
 
-A la Secretaría de Finanzas, además de las atribuciones que le confieren las Leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y dirigir la Política de Ingresos y Egresos del Estado, de acuerdo a los lineamientos señalados por el Titular del Ejecutivo, así como representar al Gobierno del Estado en los juicios y controversias que se ventilen ante cualquier tribunal y tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
@@ -305,161 +327,327 @@ XXII.- Evaluar y dar seguimiento a las principales variables económicas, nacion
 
 XXIII. Planear la obtención de recursos financieros y no financieros que respalden el desarrollo económico y social del Estado;
 
-XXIV. Dictar las medidas administrativas para el reclutamiento, selección, contratación, inducción, capacitación y control administrativo del personal de la Administración Pública del Estado, así como procurar el mejoramiento de sus condiciones económicas, sociales, culturales y de trabajo;
+XXIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXV. Tramitar los nombramientos, promociones, remociones, cambios dé adscripción, ceses, renuncias, vacaciones, licencias, bajas y jubilaciones de Servidores Públicos del Estado, así como expedir las credenciales o constancias de identificación de los servidores públicos del Estado;
+XXV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXVI. Representar al Gobierno del Estado ante las Autoridades del Trabajo, en la defensa de los intereses del mismo, así como observar las disposiciones Legales y la Ley del Servicio Burocrático, que rige las relaciones entre el Gobierno del Estado y los servidores públicos;
+XXVI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXVII. Mantener actualizado el Reglamento de Escalafón y el Tabulador de sueldos de los Servidores Públicos del Estado, así como administrar y regular el otorgamiento y pago de pensiones;
+XXVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXVIII. Elaborar y vigilar el cumplimiento de las condiciones generales de trabajo de los Servidores Públicos del Estado;
+XXVIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXIX. Otorgar Becas, Estímulos y promover actividades socioculturales y deportivas para los Servidores Públicos, en coordinación con la Secretaría de Desarrollo Social;
+XXIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXX. Imprimir y publicar los Manuales de Organización y de Procedimientos que sean autorizados por la Contraloría Gubernamental;
+XXX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXI. Programar presupuestalmente los bienes y servicios que requieran las dependencias y entidades de la Administración Pública en los términos que establece la Ley respectiva, coordinándose para tal efecto con el Secretariado Técnico del Comité de Compras y Operaciones Patrimoniales;
+XXXI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXII. Dictaminar sobre la procedencia de la enajenación de los bienes propiedad del Gobierno del Estado, así como los de las entidades de la administración paraestatal, cumpliendo con los requisitos establecidos en las leyes respectivas;
+XXXII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXIII. Administrar, controlar y vigilar bienes propiedad del Gobierno del Estado;
+XXXIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXIV. Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, seguros, fianzas, comodato, donación y demás, en los que se afecta el patrimonio del Gobierno del Estado
+XXXIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXV. Imprimir y difundir las publicaciones oficiales, siguiendo los lineamientos que establezca la Secretaría General de Gobierno en relación al Periódico Oficial del Estado y mantener un archivo actualizado de las mismas, en el Archivo General del Estado;
+XXXV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXVI. Administrar el Archivo General del Estado, exceptuando los Archivos Históricos y el General de Notarías;
+XXXVI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXVII. Concentrar la información de las dependencias y entidades que cuenten con valor administrativo, legal o fiscal, estableciendo los lineamientos para su administración y coordinándose con la Secretaría de Desarrollo Social para la valoración y custodia de documentos potencialmente históricos,
+XXXVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXVIII. Administrar la correspondencia oficial y responsabilizarse de su recepción, clasificación, distribución y envío, así como coordinar y uniformar el manejo de la correspondencia oficial en las dependencias y entidades;
+XXXVIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXIX. Proporcionar la información, cooperación logística y técnica en el orden administrativo, que le sea requerida por otras dependencias y entidades de la Administración Pública;
+XXXIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XL. Proporcionar servicios generales de intendencia, vigilancia, conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de las dependencias y entidades de la Administración Pública;
+XL. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLI. Proveer a los Tribunales Administrativos, con respeto irrestricto a su autonomía jurisdiccional, los servicios generales de apoyo que soliciten;
+XLI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLII. Dictar medidas administrativas para la distribución y aprovechamiento de los espacios físicos de las oficinas del Gobierno del Estado;
+XLII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLIII. Administrar la Red Estatal de Comunicaciones, coordinándose para tal efecto, con las instancias federales, estatales, municipales y particulares que se requiera;
+XLIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-LIV. Analizar las necesidades de información de las diferentes dependencias y entidades para eficientar y optimizar los sistemas actuales, proponer, desarrollar e implementar de por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
+XLIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLV. Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos, y coordinar el otorgamiento de los servicios que en la materia requieran las distintas dependencias y entidades de la Administración Pública;
+XLV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLVI. Administrar el inmueble denominado: Centro Cívico Gubernamental;
+XLVI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLVII. Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Unidad de Previsión y Seguridad Social al Servicio de los Trabajadores del Estado de Tamaulipas y el Instituto Tamaulipeco para la Elevación de la Productividad y la Calidad; y,
+XLVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
 XLVIII. Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
 
-#### Sección III. De la Secretaría de Desarrollo Social
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
-#### Sección IV. De la Secretaría de Desarrollo Urbano y Ecología
+#### Sección II bis. De la Secretaría de Administración
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 24 bis.- A la Secretaría de Administración, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguiente asuntos:
+
+I.- Dictar las medidas administrativas para el reclutamiento, selección, contratación, inducción, capacitación y control administrativo del personal de la Administración Pública del Estado, así como procurar el mejoramiento de sus condiciones económicas, sociales, culturales y de trabajo;
+
+II.- Tramitar los nombramientos, promociones, remociones, cambio de adscripción, ceses, renuncias, vacaciones, licencias, bajas y jubilaciones de servidores públicos del Estado, así como expedir las credenciales o constancias de identificación de los servidores públicos del Estado;
+
+III.- Representar al Gobierno del Estado ante las autoridades del trabajo, en la defensa de los intereses del mismo, así como observar las disposiciones legales de la Ley del Servicio Burocrático, que rige las relaciones entre el Gobierno del Estado y los servidores públicos;
+
+IV.- Mantener actualizado el Reglamento de Escalafón y el Tabulador de sueldos de los servidores públicos del Estado, así como administrar y regular el otorgamiento y pago de pensiones;
+
+V.- Elaborar y vigilar el cumplimiento de las condiciones generales del trabajo de los servidores públicos del Estado;
+
+VI.- Otorgar becas, estímulos y promover actividades socioculturales y deportivas para los servidores públicos, en coordinación con la Secretaría de Educación, Cultura y Deporte;
+
+VII.- Imprimir y publicar los Manuales de Organización y de Procedimientos que sean autorizados por la Contraloría Gubernamental;
+
+VIII.- Programar presupuestalmente los bienes y servicios que requieran las dependencias y entidades de la Administración Pública en los términos que establece la ley respectiva, coordinándose para tal efecto con el Comité de Compras y Operaciones Patrimoniales;
+
+IX.- Dictaminar sobre la procedencia de la enajenación de los bienes propiedad del Gobierno del Estado, así como los de las entidades de la administración paraestatal, cumpliendo con los requisitos establecidos en las leyes respectivas;
+
+X.- Administrar, controlar y vigilar bienes propiedad del Gobierno del Estado;
+
+XI.- Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, seguros, fianzas, comodato, donación y demás , en los que se afecta el patrimonio del Gobierno del Estado;
+
+XII.- Imprimir y difundir las publicaciones oficiales, siguiendo los lineamientos que establezca la Secretaría General de Gobierno en relación al Periódico Oficial del Estado y mantener un archivo actualizado de las mismas, en el Archivo General del Estado;
+
+XIII.- Administrar el Archivo General del Estado;
+
+XIV.- Concentrar la información de las dependencias y entidades que cuenten con valor administrativo, legal o fiscal, estableciendo los lineamientos para su administración y coordinándose con la Secretaría de Educación, Cultura y Deporte para la valoración y custodia de documentos potencialmente históricos;
+
+XV.- Administrar la correspondencia oficial y responsabilizarse de su recepción, clasificación, distribución y envío, así como coordinar y uniformar el manejo de la correspondencia oficial en las dependencias y entidades;
+
+XVI.- Proporcionar la información, cooperación logística y técnica en el orden administrativo, que le sea requerida por otras dependencias y entidades de la Administración Pública;
+
+XVII.- Proporcionar servicios generales de intendencia, vigilancia, conservación y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de las dependencias y entidades de la Administración Pública;
+
+XVIII.- Proveer a los Tribunales Administrativos, con respeto irrestricto a su autonomía jurisdiccional, los servicios generales de apoyo que soliciten;
+
+XIX.- Dictar medidas administrativas para la distribución y aprovechamiento de los espacios físicos de las oficinas del Gobierno del Estado;
+
+XX.- Administrar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
+
+XXI.- Analizar las necesidades de información de las diferentes dependencias y entidades para eficientizar y optimizar los sistemas actuales, proponer, desarrollar e implementar de por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
+
+XXII.- Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos y coordinar el otorgamiento de los servicios que en la materia requieran las distintas dependencias y entidades de la Administración Pública;
+
+XXIII.- Administrar el inmueble denominado: Centro Cívico Gubernamental;
+
+XXIV.- Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Unidad de Previsión y Seguridad Social al Servicio de los Trabajadores del Estado de Tamaulipas y Parque de Tamatán; y,
+
+XXV.- Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
+
+#### Sección III. De la Secretaría de Desarrollo Social
 
 ###### ARTICULO 25.
 
 A la Secretaría de Desarrollo Social, le corresponde el despacho de los siguientes asuntos:
 
-I. Ejecutar los planes de desarrollo regional y los convenios de desarrollo social celebrados con la Federación, Municipios y grupos sociales;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+I.- Ejecutar los planes de desarrollo regional y los convenios de desarrollo social celebrados con la federación, municipios y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades, en el marco de la Ley de Obras Públicas para el Estado;
 
 II. Diseñar y poner en marcha, con la participación de la sociedad, programas de impulso a proyectos productivos, mejoramiento del abasto social, el combate a la pobreza extrema y el desarrollo de las comunidades;
 
-III. Coordinar con las dependencias respectivas de la federación, la promoción y vigilancia del desarrollo equilibrado de la comunidad y la ejecución de acciones tendientes al mejoramiento de las zonas marginadas y desprotegidas;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+III.- Coordinar con las dependencias respectivas de la federación, la promoción y vigilancia del desarrollo de la comunidad y la ejecución de acciones y programas tendientes al mejoramiento de las zonas marginadas y desprotegidas;
 
 IV. Establecer los mecanismos de coordinación con las Autoridades competentes, en materia de prevención y atención de emergencias originadas por fenómenos naturales;
 
-V. Establecer y administrar los programas de atención medica, salud pública, asistencia social y regulación sanitaria en el territorio del Estado, en los términos establecidos en las Leyes, Reglamentos y disposiciones en la materia;
+V. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-VI. Intervenir en la celebración de Convenios que en materia de Salud, suscriba el Gobierno Estatal con la Federación, los Municipios, con organismos internacionales y vigilar su cumplimiento;
+VI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-VII. Celebrar convenios con el Gobierno Federal y Municipales, sobre coordinación de los servicios sanitarios;
+VII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-VIII. Administrar los recursos que le sean asignados, las cuotas de recuperación, así como el fondo de administración para la beneficencia pública;
+VIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-IX. Coordinar el Sistema Estatal de Salud; dictar las normas técnicas que regirán su funcionamiento y consolidación con el Sistema Nacional de Salud;
+IX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-X. Organizar y operar en el Estado los servicios de salud a población abierta en materia de salubridad general, la regulación y control sanitarios previstos en la Ley Estatal de Salud, así como ejercer las atribuciones derivadas del Acuerdo de Coordinación para la Descentralización de los Servicios de Salud;
+X. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XI. Vigilar y supervisar la organización, funcionamiento y cumplimiento de las normas técnicas en las Instituciones Hospitalarias y organismos afines estatales;
+XI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XII. Realizar campañas tendientes a prevenir y erradicar enfermedades transmisibles y epidemias en el territorio del Estado, coordinándose en su caso, con las Autoridades Federales y Municipales competentes para ello;
+XII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XIII. Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, proponiendo las adecuaciones a la normatividad estatal y a los esquemas para lograr su correcto funcionamiento;
+XIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XIV. Auxiliar en el ámbito de su competencia a la población civil, en caso de desastres y fenómenos naturales;
+XIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XV. Proponer al Ejecutivo Estatal, las políticas y los Programas de Coordinación con las Autoridades Federales y Municipales en materia de Salud, prevención específica, atención médica especial y asistencia social;
+XV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XVI. Promover la ampliación de la cobertura en la prestación de los servicios, apoyando los programas que para tal efecto elabore la Secretaría de Salud Federal;
+XVI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XVII. Coadyuvar a organizar y vigilar el funcionamiento de las Instituciones de Asistencia Social;
+XVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XVIII. Proponer al Ejecutivo Estatal, la suspensión de Instituciones de Asistencia Social que no cumplan con su objeto en los términos de Ley o que carezcan de los recursos suficientes;
+XVIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XIX. Estudiar y poner en vigor en concurrencia con las autoridades federales y municipales y con la participación de la sociedad, las medidas para combatir el alcoholismo, la drogadicción y otros vicios sociales;
+XIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XX. Integrar un acervo de información y documentación que facilite a las autoridades e Instituciones competentes, la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
+XX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXI. Dirigir y coordinar el Consejo de Higiene Pública del Estado;
+XXI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXII. Organizar Seminarios, Congresos, Conferencias y demás eventos de naturaleza asistencial y de salud;
+XXII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXIII. Coordinar el organismo público desconcentrado Administración para la Beneficencia Pública en el Estado y otorgar los apoyos previa opinión del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
+XXIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXIV. Aplicar y vigilar el cumplimiento de las disposiciones que señala en materia de Educación, la Constitución General de la República, la Constitución Política del Estado, las Leyes Federales y demás disposiciones relativas en la materia;
+XXIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXV. Planear, desarrollar, dirigir y vigilar la Educación a cargo del Estado y de los particulares en todos los tipos, niveles y modalidades;
+XXV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXVI. Cumplir con los Convenios y Acuerdos que en Materia Educativa hayan sido suscritos o que se celebren por el Estado con el Gobierno Federal y los Municipios;
+XXVI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXVII. Determinar e implantar las normas a las cuales debe sujetarse la revalidación de estudios, diplomas, grados académicos y la incorporación de las Escuelas Particulares;
+XXVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXVIII. Promover la creación de Institutos de Investigación Científica y Tecnológica, Laboratorios y demás Centros que se requieran para lograr la excelencia educativa en el Estado y coordinar como cabeza de sector las actividades de la entidad denominada: Consejo Tamaulipeco de Ciencia y Tecnología;
+XXVIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXIX. Organizar y en su caso, crear los sistemas de Enseñanza Técnica, Industrial, Agrícola, Comercial, Artes y Oficios, de Educación Especial, para Adultos y de Alfabetización, por sí o en coordinación con el Gobierno Federal y Administraciones Municipales;
+XXIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXX. Coordinar con las Universidades e Instituciones de Educación Superior en el Estado, el Servicio Social de Pasantes y llevar los registros de Profesiones, Colegios, Asociaciones de Profesionales, Certificados y Títulos;
+XXX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXI. Emitir opinión para que el Titular del Ejecutivo otorgue, niegue, revoque o retire la Autorización o el Reconocimiento de Validez Oficial, a los estudios en los Planteles Particulares;
+XXXI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXII. Organizar y operar bibliotecas, hemerotecas, casas de cultura, museos y pinacotecas, vigilando la conservación del patrimonio cultural;
+XXXII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXIII. Fomentar, planear y coordinar la investigación en el campo de las tradiciones y el arte populares;
+XXXIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXIV. Llevar y mantener actualizado el Registro del Patrimonio Histórico-Artístico y organizar el Archivo Histórico del Estado;
+XXXIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXV. Realizar de por si o a través de terceros la valoración histórica de los documentos en poder del Estado y de los Municipios, estableciendo coordinación previamente con estos, en estricto apego de su autonomía;
+XXXV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXVI. Promover y en su caso, realizar congresos, convenciones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo, artístico y deportivo;
+XXXVI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXVII. Estimular las manifestaciones artísticas relacionadas con el teatro, la música, literatura, cinematografía, pintura, escultura y demás Bellas Artes;
+XXXVII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXVIII. Promover esquemas de participación de asociaciones públicas, privadas y de la sociedad en general para la conservación y mantenimiento del patrimonio histórico-cultural del Estado;
+XXXVIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XXXIX. Diseñar y promover la política editorial del sector cultura y proponer directrices en relación con las publicaciones del mismo;
+XXXIX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XL. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural con instituciones del ramo de la Federación, de los Estados y de otros países;
+XL. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLI. Coordinar, organizar y fomentar la enseñanza y práctica de los Deportes en el Estado, así como su participación en Torneos y Justas Deportivas de carácter Nacional e Internacional;
+XLI. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
 XLII.-Fomentar, planear y coordinar la investigación en el campo de la educación física y el deporte, regular la creación y funcionamiento de Asociaciones y Organismos Deportivos de carácter público y privado.
 
-XLIII. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden deportivo con instituciones del ramo de la Federación, de los estados y de otros países;
+XLIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLIV. Organizar el Sistema Estatal del Deporte y todo género de eventos deportivos oficiales, cuando no corresponda hacerlo expresamente a otrá Dependencia del Gobierno del Estado;
+XLIV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLV. Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Colegio de Bachilleres del Estado de Tamaulipas, Instituto Tamaulipeco de Investigación Educativa y Desarrollo de la Docencia, Parque Cultural y Recreativo Tamaulipas Siglo XXI, Centro Cultural Tamaulipas e Instituto Tamaulipeco de Cultura; y,
+XLV. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2000)
 
-XLVI. Los demás que, con relación al ramo, esté previsto en la Ley de la materia y los que le encomiende el Titular del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
-#### Sección V. De la Secretaría de Desarrollo Económico y del Empleo
+XLVI. Desarrollar y ejecutar en el ámbito territorial del Estado, por conducto del Órgano Desconcentrado denominado Consejo para el Desarrollo Integral de la Mujer, las acciones tendientes a promover la participación de las mujeres en la vida social, política y económica del Estado, fomentando una cultura de igualdad de género; preparar y presentar a la consideración del Ejecutivo del Estado el proyecto del Programa Estatal de la Mujer; realizar las acciones que permitan la ejecución del mismo;
 
-#### Sección VI. De la Procuraduría General de Justicia
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
 
-#### Sección VII. De la Contraloría Gubernamental
+XLVII.- Organizar, coordinar y vigilar el funcionamiento del Instituto Tamaulipeco de la Juventud; y,
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XLVIII.- Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+#### Sección III bis. De la Secretaría de Educación, Cultura y Deporte
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 25 bis.- A la Secretaría de Educación, Cultura y Deporte, le corresponde, el despacho de los siguientes asuntos:
+
+I.- Aplicar y vigilar el cumplimiento de las disposiciones que señala en materia de educación, la Constitución General de la República, la Constitución Política del Estado, las Leyes Federales, la Ley Estatal de Educación y demás disposiciones relativas en la materia;
+
+II.- Planear, desarrollar, dirigir y vigilar la Educación a cargo del Estado y de los particulares en todos los tipos, niveles y modalidades;
+
+III.- Cumplir con los Convenios y Acuerdos que en materia educativa hayan sido suscritos o que se celebren por el Estado con el Gobierno Federal y los Municipios;
+
+IV.- Determinar e implementar las normas a las cuales debe sujetarse la revalidación de estudios, diplomas, grados académicos y la incorporación de las escuelas particulares;
+
+V.- Promover la creación de Institutos de Investigación Científica y Tecnológica de Laboratorios y demás Centros que se requieran para lograr la excelencia educativa en el Estado;
+
+VI.- Organizar y en su caso, crear los sistemas de Enseñanza Técnica, Industrial, Agrícola, Comercial, de Artes y Oficios, de Educación Especial para Adultos y de Alfabetización, por sí o en coordinación con el Gobierno Federal y Administraciones Municipales;
+
+VII.- Coordinar con las Universidades e Instituciones de Educación Superior en el Estado, el Servicio Social de Pasantes y llevar los registros de Profesionales, Colegios, Asociaciones de Profesionales, Certificados y Títulos;
+
+VIII.- Emitir opinión para que el Titular del Ejecutivo otorgue, niegue, revoque o retire la Autorización o el Reconocimiento de Validez Oficial, a los estudios en los planteles particulares;
+
+IX.- Autorizar el uso temporal de los planteles educativos oficiales para albergues de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos;
+
+X.- Organizar y operar bibliotecas, hemerotecas, casas de cultura, museos y pinacotecas, vigilando la conservación del patrimonio cultural;
+
+XI.- Fomentar, planear y coordinar la investigación en el campo de las tradiciones y el arte populares;
+
+XII.- Llevar y mantener actualizado el Registro del Patrimonio Histórico-Artístico y cultural y organizar el Archivo Histórico del Estado;
+
+XIII.- Realizar de por sí o a través de terceros la valoración histórica de los documentos en poder del Estado y de los Municipios, estableciendo coordinación previamente con estos, en estricto apego de su autonomía;
+
+XIV.- Promover y en su caso, realizar congresos, convenciones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo, artístico y deportivo;
+
+XV.- Estimular las manifestaciones artísticas relacionadas con el teatro, la música, literatura, cinematografía, pintura, escultura y demás Bellas Artes;
+
+XVI.- Promover esquemas de participación de asociaciones públicas, privadas y de la sociedad en general para la conservación y mantenimiento del patrimonio histórico-cultural del Estado;
+
+XVII.- Diseñar y promover la política editorial del sector cultural y proponer directrices en relación con las publicaciones del mismo;
+
+XVIII.- Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural con instituciones del ramo de la Federación, de los Estados y de los países;
+
+XIX.- Coordinar y fomentar la enseñanza y práctica de los Deportes en el Estado así como organizar el Sistema Estatal del Deporte y todo género de eventos deportivos, oficiales, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
+
+XX,. Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Colegio de Bachilleres del Estado de Tamaulipas, Parque Cultural y Recreativo Tamaulipas Siglo XXI, Centro Cultural Tamaulipas, Colegio de San Juan Siglo XXI, Instituto Tamaulipeco de Cultura, Instituto Tamaulipeco de Capacitación para el Empleo, Colegio de Educación Profesional Técnica del Estado de Tamaulipas, Instituto Tamaulipeco de Educación para Adultos, Comité Administrador del Programa de Construcción de Escuelas en Tamaulipas, Universidad Tecnológica de Tamaulipas Norte, Consejo Tamaulipeco de Ciencia y Tecnología e Instituto Tamaulipeco para la Cultura y las Artes;
+
+XXI.- Fomentar conforme a las disposiciones legales aplicables, las relaciones de orden deportivo con instituciones del ramo, de la federación, de los estados y de otros países, así como fomentar, planear y coordinar la investigación en el campo de la educación física y del deporte, regular la creación y funcionamiento de asociaciones y organismos deportivos de carácter público y privado; y,
+
+XXII.- Los demás que, con relación al ramo, estén previstos en la ley de la materia y los que le encomiende el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 7 DE DICIEMBRE DEL 2000)</small>
+
+#### Sección III bis 1. De la Secretaría de Salud
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 25 BIS 1.- A la Secretaría de Salud, le corresponde el despacho de los siguientes asuntos:
+
+I.- Establecer y administrar los programas de atención médica, salud publica, asistencia social y regulación sanitaria en el territorio del Estado, en los términos establecidos en las Leyes, Reglamentos y disposiciones en la materia;
+
+II.- Intervenir en la celebración de Convenios que en materia de Salud, suscriba el Gobierno Estatal con la Federación, los Municipios, con organismos internacionales para vigilar su cumplimiento;
+
+III.- Celebrar Convenios con el Gobierno Federal y Municipales, sobre coordinación de los servicios sanitarios;
+
+IV.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como el fondo de administración para la beneficencia pública;
+
+V.- Coordinar el Sistema Estatal de Salud; dictar las normas técnicas que regirán su funcionamiento y consolidación con el Sistema Nacional de Salud;
+
+VI.- Organizar y operar en el Estado los servicios de salud a población abierta en materia de salubridad general, la regulación y control sanitario previsto en la Ley Estatal de Salud, así como ejercer las atribuciones derivadas del Acuerdo de Coordinación para la Descentralización de los Servicios de Salud;
+
+VII.- Vigilar y supervisar la organización, funcionamiento y cumplimiento de las normas técnicas en las Instituciones Hospitalarias y organismos afines estatales;
+
+VIII.- Realizar campañas tendientes a prevenir y erradicar enfermedades transmisibles y epidemias en el territorio del Estado, coordinándose en su caso, con las Autoridades Federales y Municipales competentes para ello;
+
+IX.- Conocer y aplicar la normatividad general en materia de salud, tanto nacional como internacional, proponiendo las adecuaciones a la normatividad estatal y en los esquemas para lograr su correcto funcionamiento;
+
+X.- Auxiliar en el ámbito de su competencia a la población civil, en caso de desastre y fenómenos naturales;
+
+XI.- Proponer al Ejecutivo Estatal, las políticas y los Programas de Coordinación con las Autoridades Federales y Municipales en materia de Salud, prevención específica, atención médica especial y asistencia social;
+
+XII.- Promover la ampliación de la cobertura en la prestación de los servicios, apoyando los programas de salud que para tal efecto elabore la dependencia federal del ramo;
+
+XIII.- Coadyuvar a organizar y vigilar el funcionamiento de las Instituciones de Asistencia Social;
+
+XIV.- Promover al Ejecutivo Estatal, la suspensión de Instituciones de Asistencia Social que no cumplan con su objetivo en los términos de la Ley o que carezcan de los recursos suficientes;
+
+XV.- Estudiar y poner en vigor en concurrencia con las autoridades federales municipales y con la participación de la sociedad, las medidas para combatir el alcoholismo, la drogadicción y otros vicios sociales;
+
+XVI.- Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
+
+XVII.- Dirigir y coordinar el Consejo de Higiene Pública del Estado;
+
+XVIII.- Organizar Seminarios, Congresos, Conferencias y demás eventos de naturaleza asistencial y de salud;
+
+XIX.- Coordinar el organismo público desconcentrado Administración para la Beneficencia Pública en el Estado y otorgar los apoyos previa opinión del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas; y,
+
+XX.- Los demás que, con relación al ramo, estén previstos en las leyes de la materia y los que le encomiende el Titular del Ejecutivo del Estado.
+
+#### Sección IV. De la Secretaría de Desarrollo Urbano y Ecología
 
 ###### ARTICULO 26.
 
@@ -503,17 +691,23 @@ XVIII. Elaborar y mantener actualizado el Inventario del patrimonio histórico-c
 
 XIX. Conservar y fomentar el desarrollo de la flora y la fauna en el Estado, en coordinación con la Secretaría de Desarrollo Económico y del Empleo;
 
-XX. Vigilar y opinar sobre la conservación de áreas verdes y cambios de uso del suelo, coordinándose con la Secretaría de Finanzas y Administración, en materia de valores catastrales;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XX.- Vigilar y opinar sobre la conservación de áreas verdes y cambio de uso de suelo coordinándose con la Secretaría de Finanzas, en materia de valores catastrales;
 
 XXI. Diseñar, normar, supervisar y controlar mecanismos de prevención y restricción a la contaminación visual y auditiva;
 
-XXII. Elaborar y ejecutar los Programas de Obras y Servicios Públicos del Gobierno Estatal, en coordinación con las dependencias que correspondan, y atender a los criterios de la comunidad y sectores involucrados;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXII.- Elaborar y ejecutar los programas de obras y servicios públicos, caminos, red carretera, infraestructura para el transporte y demás vías de comunicación, del Gobierno Estatal, en coordinación con las dependencias que correspondan, y atender los criterios de la comunidad y sectores involucrados;
 
 XXIII. Establecer lineamientos a que deben ajustarse los proyectos de obra pública que realicen las dependencias y entidades oficiales o particulares;
 
 XXIV. Determinar, previos los estudios técnicos y administrativos correspondientes, la conveniencia de realizar directamente o a través de terceros la obra pública;
 
-XXV. Investigar, reconstruir y conservar el entorno urbano original de las poblaciones del Estado, con el objetivo de mantener el patrimonio histórico-cultural y llevar un inventario de los mismos en coordinación con la Secretaría de Administración;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXV.- Investigar, reconstruir y conservar el entorno urbano original de las poblaciones del Estado, con el objetivo de mantener el patrimonio histórico-cultural y llevar un inventario de los mismos en coordinación con la Secretaría de Administración;
 
 XXVI. Formar parte de los organismos públicos estatales y municipales, relacionados con la obra pública, a efecto de vigilar que la misma se realice conforme a las disposiciones legales y administrativas vigentes;
 
@@ -523,7 +717,9 @@ XXVIII. Vigilar y opinar previamente a la modificación o demolición de inmuebl
 
 XXIX. Ejecutar, o coordinar en su caso, las acciones concertadas por el Ejecutivo con los sectores social y privado, celebrando convenios de coordinación y asistencia técnica;
 
-XXX. Asesorar y apoyar técnica y administrativamente a los ayuntamientos en la realización de sus planes y programas de obra pública, cuando así lo requieran;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXX.- Asesorar y apoyar técnica y administrativamente a los Ayuntamientos, cuando así lo requieran, en la realización de sus planes y programas de obras públicas, construcción, reconstrucción, modernización, conservación y mantenimiento de caminos;
 
 XXXI. Ejecutar en coordinación con las dependencias correspondientes, los programas de vivienda y urbanización del Estado;
 
@@ -541,9 +737,13 @@ XXXVII. Proponer reformas a las disposiciones legales y administrativas relacion
 
 XXXVIII. Expedir de acuerdo a las leyes de la materia, las bases a que deben sujetarse los concursos y licitaciones públicas para la ejecución de obras públicas en el Estado, de conformidad con lo que establezca la Contraloría Gubernamental, así como para la adjudicación, cancelación y vigilancia en el cumplimiento de los contratos de obras, celebrados por la Administración Pública Estatal;
 
-XXXIX. Coordinar como cabeza de sector las actividades de las entidades estatales denominadas: Instituto Tamaulipeco de Vivienda y Urbanización, Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas, Junta de Caminos, Parque de Tamatán, Comisión Estatal de Agua Potable y Alcantarillado y las Comisiones Municipales de Agua Potable y Alcantarillado; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXXIX.- Coordinar como cabeza de sector a las entidades estatales denominadas: Instituto Tamaulipeco de Vivienda y Urbanización, Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas, Junta de Caminos, Comisión Estatal de Agua Potable y Alcantarillado y las Comisiones Municipales de Agua Potable y Alcantarillado; y,
 
 XL. Los demás que con relación al ramo le encomiende el Titular del Ejecutivo del Estado.
+
+#### Sección V. De la Secretaría de Desarrollo Económico y del Empleo
 
 ###### ARTICULO 27.
 
@@ -601,25 +801,35 @@ XXV. Promover coordinadamente con la Secretaría de Desarrollo Urbano y Ecologí
 
 XXVI. Representar al Gobierno del Estado por acuerdo del Titular del Ejecutivo, en las asambleas de consejo y de los comités técnicos de fideicomisos y demás entidades paraestatales, relacionados con los sectores económicos en Estado;
 
-XXVII. Coordinar el Servicio Estatal de Empleo y establecer conjuntamente con la Secretaría del Trabajo y Previsión Social Federal y con la Secretaría de Desarrollo Social, los programas de adiestramiento y capacitación industrial que se requieran;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXVII.- Coordinar el Servicio Estatal del Empleo y establecer conjuntamente con otras dependencias, instancias u organismos federales y con la Secretaría de Educación, Cultura y Deporte, los programas de adiestramiento y capacitación industrial que se requiera;
 
 XXVIII. Dirigir y coordinar el funcionamiento técnico-administrativo de sus delegaciones ubicadas en el Estado, en el País y en el extranjero;
 
 XXIX. Coadyuvar con las autoridades federales, estatales y municipales en el establecimiento y operación de mecanismos para la planeación, administración, coordinación y evaluación de las obras concesionadas en materia de vías de comunicación, transporte y demás infraestructura;
 
-XXX. Participar y promover conjuntamente con las Secretarías de Finanzas y Administración y de Desarrollo Urbano y Ecología, en los ámbitos nacional e internacional, los planes de financiamiento y ejecución de obras de infraestructura y de servicios, necesarias para el desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXX.- Participar y promover conjuntamente con las Secretarías de Finanzas y de Desarrollo Urbano y Ecología, en los ámbitos nacional e internacional, los planes de financiamiento y ejecución y obras de infraestructura y de servicios, necesarios para el desarrollo económico del Estado;
 
 XXXI. Establecer criterios para llevar a cabo la desregulación empresarial, eliminando requisitos, simplificando trámites y acortando plazos previstos en disposiciones administrativas de carácter estatal, así como elaborar propuestas de reformas a disposiciones jurídico-administrativas en los ámbitos federal, estatal o municipal, con la misma finalidad, sometiendo éstas a las instancias correspondientes;
 
-XXXII. Establecer y promover estrategias que eleven la competitividad y la productividad de la mano de obra en el Estado, así como que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Desarrollo Social y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXXII.- Establecer y promover estrategias que eleven la competitividad y productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, Cultura, Deporte y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
 
 XXXIII. Proponer al Ejecutivo Estatal, la firma de convenios de colaboración con los demás Estados miembros de la Federación, particularmente con las Entidades vecinas, a fin de promover de manera conjunta, la creación de polos de desarrollo que beneficien a los Estados participantes;
 
 XXXIV. Establecer y operar los mecanismos de seguimiento y evaluación de los programas, proyectos y acciones en general, que se lleven a cabo en el ámbito de su competencia;
 
-XXXV. Coordinar como cabeza de sector, las actividades de las entidades estatales denominadas: Instituto Tamaulipeco de Capacitación para el Empleo, Desarrollo Urbano del Puerto Industrial de Altamira, S.A. de C.V. y Canal Intracostero de Tamaulipas, S.A. de C.V.; y,
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXXV.- Coordinar como cabeza de sector, las actividades de las entidades estatales denominadas: Desarrollo Urbano del Puerto Industrial de Altamira, S.A. de C.V. y Canal Intracostero de Tamaulipas, S.A. de C.V.; y,
 
 XXXVI. Los demás que con relación al ramo le encomiende el Titular del Ejecutivo del Estado.
+
+#### Sección VI. De la Procuraduría General de Justicia
 
 ###### ARTICULO 28.
 
@@ -654,6 +864,8 @@ XIII. Llevar la estadística e identificación delincuencial del Estado;
 XIV. Formular y desarrollar programas de capacitación para el personal de la Procuraduría; y,
 
 XV. Los demás que con relación al ramo le encomiende el Titular del Ejecutivo del Estado.
+
+#### Sección VII. De la Contraloría Gubernamental
 
 ###### ARTICULO 29.
 
@@ -697,11 +909,19 @@ XVIII. Vigilar en la esfera de su competencia, el cumplimiento de las obligacion
 
 XIX. Formular e implantar por sí o a través de terceros, estudios y programas de mejoramiento, encaminados a la modernización, simplificación, desconcentración, descentralización y desregulación administrativa, distribución y aprovechamiento de espacios de las dependencias y entidades de la Administración Pública Estatal;
 
-XX. Analizar, dictaminar y en su caso, previo acuerdo del Titular del Ejecutivo, autorizar las estructuras orgánico-funcionales de las dependencias y entidades públicas, en coordinación con la Secretaría de Finanzas y Administración, para los electos presupuestales correspondientes;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XX.- Analizar, dictaminar y en su caso, previo acuerdo del Titular del Ejecutivo autorizar las estructuras orgánico-funcionales de las dependencias y entidades publicas en coordinación con las Secretarías de Finanzas y de Administración, para los efectos presupuestales correspondientes;
 
 XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos, y en su caso, autorizar los mismos, previo acuerdo del Titular del Ejecutivo; y,
 
-XXII. Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXII.- Llevar y mantener actualizados el Padrón de Proveedores de la Administración Pública del Estado y del Padrón de Contratistas de Obras Públicas del Estado; y fijar los criterios y procedimientos para clasificar las personas inscritas en ellos; y,
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2000)</small>
+
+XXIII.- Los demás que, con relación al ramo, le encomiende el Titular del Ejecutivo del Estado.
 
 ### CAPITULO CUARTO. DE LAS ENTIDADES PARAESTATALES DEL PODER EJECUTIVO
 
@@ -790,3 +1010,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo del Estado, dentro de los sesenta días siguientes deberá expedir el reglamento interno del Consejo para el Desarrollo Integral de la Mujer.
+
+P.O. 7 DE DICIEMBRE DE 2000
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Cuando se haga referencia a alguna dependencia o entidad cuyas funciones estén establecidas por los artículos reformados o anteriores, dichas atribuciones se entenderán concedidas a la dependencia o entidad que determine el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
