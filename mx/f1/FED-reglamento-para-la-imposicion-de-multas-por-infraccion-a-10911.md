@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-imposicion-de-multas-por-infraccion-a-10911"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "1997-06-30"
+last_updated: "2000-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10911&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1997-06-27"
 
 REGLAMENTO PARA LA IMPOSICION DE MULTAS POR INFRACCION A LAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL Y SUS REGLAMENTOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2000.
 
-Reglamento Publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
+Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -67,9 +67,11 @@ La denuncia deberá hacerse por escrito en la que se precisarán los hechos y el
 
 Tratándose del representante legal del trabajador, al formular la denuncia aquél deberá acreditar tal carácter dentro el escrito señalado en el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 5.
 
-En lo no previsto en este Reglamento se aplicarán supletoriamente la Ley Federal de Trabajo, el Código Fiscal de la Federación o el derecho común.
+En lo no previsto en este Reglamento se aplicará supletoriamente la Ley Federal del Trabajo, el Código Fiscal de la Federación, el Código Federal de Procedimientos Civiles o el derecho común.
 
 ### CAPÍTULO II. DE LAS INFRACCIONES
 
@@ -91,7 +93,9 @@ VI. Presentar al Instituto los avisos afiliatorios, formularios, comprobantes de
 
 VII. No llevar los registros de nóminas o listas de raya, en los términos que señala la Ley y el Reglamento para el Pago de Cuotas del Seguro Social;
 
-VIII. No entregar a sus trabajadores la constancia semanal o quincenal de los días laborados, en caso de estar obligado a ello;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+VIII. No entregar a sus trabajadores la constancia escrita del número de días trabajados y del salario semanal o quincenalmente percibido, conforme a los periodos de pago establecidos, en caso de estar obligados a ello;
 
 IX. No proporcionar, cuando el Instituto se lo requiera, los elementos necesarios para determinar la existencia, naturaleza y cuantía de las obligaciones a su cargo o hacerlo con documentación alterada o falsa;
 
@@ -105,15 +109,27 @@ XIII. No conservar los documentos que estén siendo revisados durante una visita
 
 XIV. Alterar, desprender o destruir, por sí o por interpósita persona, los documentos, sellos o marcas colocados por los visitadores del Instituto con el fin de asegurar la contabilidad, en los sistemas, libros, registros y demás documentos que la integren, así como en los equipos, muebles u oficinas en que se encuentre depositada dicha contabilidad y que se le hayan dejado en depósito como consecuencia del aseguramiento derivado de una visita domiciliaria;
 
-XV. Omitir, presentar, hacerlo extemporáneamente o con datos falsos o incompletos la declaración anual de la prima en el seguro de riesgos de trabajo;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+XV.- No presentar la revisión anual obligatoria de su siniestralidad y determinación de la prima del seguro de riesgos de trabajo o hacerlo extemporáneamente o con datos falsos o incompletos, en relación con el periodo y plazo señalados en el Reglamento para la Clasificación de Empresas y Determinación de la Prima en el Seguro de Riesgos de Trabajo. No se impondrá multa en el supuesto señalado en el último párrafo de la fracción V, del artículo 20 del Reglamento citado.
 
 XVI. No dar aviso al Instituto o hacerlo extemporáneamente del cambio de domicilio de una empresa o establecimiento, cuando se encuentre en alguno de los supuestos que señala el Reglamento de Afiliación;
 
-XVII. No retener las cuotas del Seguro Social a cargo de sus trabajadores cuando así le corresponda legalmente o no enterar al Instituto las cuotas retenidas a éstos;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
 
-XVIII. No comunicar al Instituto por escrito sobre el estallamiento de huelga o terminación de la misma; la suspensión, cambio o término de actividades; la clausura; el cambio de nombre o razón social; la fusión o escisión, y
+XVII. No retener las cuotas del Seguro Social a cargo de sus trabajadores o no enterar al Instituto, dentro del plazo establecido en la Ley, las cuotas retenidas a éstos;
 
-XIX. Omitir o presentar extemporáneamente copia del informe sobre la situación fiscal del contribuyente y los anexos referidos a las contribuciones por concepto de cuotas obrero patronales en términos del artículo 16 de la Ley.
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+XVIII. No comunicar al Instituto por escrito sobre el estallamiento de huelga o terminación de la misma; la suspensión, cambio o término de actividades; la clausura; el cambio de nombre o razón social; la fusión o escisión;
+
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+XIX. Omitir o presentar extemporáneamente copia del informe sobre la situación fiscal del contribuyente y los anexos referidos a las contribuciones por concepto de cuotas obrero patronales en términos del artículo 16 de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+XX. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos, o bien, omitir notificar al Instituto, en los términos del Reglamento de Afiliación, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción.
 
 ### CAPÍTULO III. DE LA COMPETENCIA
 
@@ -123,9 +139,11 @@ Corresponde a los titulares de la Delegación así como de la Subdelegación del
 
 El Jefe de la Oficina para Cobros del Instituto Mexicano del Seguro Social que corresponda, hará efectivas las sanciones impuestas.
 
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 8.
 
-Los titulares de las delegaciones, antes de imponer la sanción que proceda, solicitarán opinión a la Dirección de Afiliación y Cobranza, en aquellos asuntos que por su importancia o trascendencia la requieran.
+Los titulares de las delegaciones, antes de imponer la sanción que proceda, solicitarán opinión a la dirección normativa que corresponda, en aquellos asuntos que por su importancia o trascendencia la requieran.
 
 ###### Artículo 9.
 
@@ -139,7 +157,17 @@ Cuando el Instituto conozca de un acto u omisión de los que pudiera derivar una
 
 Si de los elementos o diligencias a que se refiere el párrafo anterior, se presume una infracción, el Instituto la notificará al patrón, haciéndole saber los hechos u omisiones que se le imputan, así como los artículos de la Ley o de sus reglamentos que se consideren violados.
 
-El patrón dispondrá de diez días hábiles, contados a partir del día siguiente de la notificación, para que por escrito manifieste ante la autoridad emisora del acto lo que a su derecho convenga y exhiba pruebas.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+El patrón dispondrá de diez días hábiles, contados a partir del día siguiente de la notificación, para que por escrito manifieste ante la autoridad emisora del acto lo que a su derecho convenga y exhiba pruebas. Si el escrito no se interpone o se presenta extemporáneamente, se tendrá por no hecha manifestación alguna y por no ofrecidas pruebas por parte del patrón.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+La integración del expediente para dar inicio a la substanciación del presente procedimiento, lo realizará la autoridad emisora del acto, la cual podrá dejar sin efecto la presunción de infracción, si fehacientemente se acredita que no existe violación a la Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+Artículo 10 bis. La autoridad emisora del acto podrá determinar la no imposición de sanciones cuando se acredite que la infracción se derivó de un caso fortuito o fuerza mayor, o cuando se cumplan en forma espontánea las obligaciones fiscales. Se considera que el cumplimiento no es espontáneo en los casos previstos en el Código Fiscal de la Federación.
 
 ###### Artículo 11.
 
@@ -189,11 +217,15 @@ En caso de que el patrón con un mismo acto u omisión cometa varias infraccione
 
 En caso de reincidencia en la comisión de alguna infracción prevista en este Reglamento la multa que se imponga será aquella que corresponda a la última infracción cometida, duplicándose su importe, sin que pueda exceder del máximo legal.
 
-Se considerará reincidencia para efectos de este Reglamento, la comisión de la misma infracción dentro del término de trescientos sesenta y cinco días naturales, contados a partir de la imposición de la última sanción.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+Se considerará reincidencia para efectos de este Reglamento, la comisión de la misma infracción dentro del término de trescientos sesenta y cinco días naturales, contados a partir de la fecha de la notificación de la última sanción impuesta.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 17.
 
-Cuando los actos u omisiones de los patrones impliquen el incumplimiento del pago de los conceptos fiscales que establece el artículo 287 de la Ley, se sancionarán con multa del setenta al cien por ciento del concepto omitido, tomando en consideración la naturaleza de la infracción en los términos del artículo 15 de este Reglamento.
+Cuando los actos u omisiones de los patrones impliquen el incumplimiento del pago de los conceptos fiscales que establece el artículo 287 de la Ley, se sancionarán con multa del setenta al cien por ciento del concepto omitido, tomando en consideración la gravedad de la falta y, en su caso, la reincidencia del infractor, en los términos de los artículos 15 y 16 de este Reglamento.
 
 La aplicación de esta sanción es independiente del cobro del concepto fiscal omitido, así como de sus accesorios legales.
 
@@ -203,7 +235,9 @@ La sanción impuesta en términos de este artículo excluye la aplicación de cu
 
 Se sancionarán los actos u omisiones señalados en el artículo 6 de este Reglamento en la forma siguiente:
 
-I. Las previstas en las fracciones IV, V, VII, VIII, XI, XVI y XIX con multa equivalente al importe de cincuenta a setenta y cinco veces el Salario;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+I. Las previstas en las fracciones IV, V, VII, VIII, XI, XVI, XIX y XX con multa equivalente al importe de cincuenta a setenta y cinco veces el salario;
 
 II. Las previstas en las fracciones III, X, XIII y XVIII con multa equivalente al importe de setenta y seis a ciento veinticinco veces el Salario;
 
@@ -245,7 +279,9 @@ Las demás determinaciones se notificarán por lista, que se fijará en lugar vi
 
 Las multas impuestas por el Instituto deberán ser cubiertas en las delegaciones y subdelegaciones del Instituto o entidades receptoras autorizadas, utilizando el formulario autorizado por dicho Instituto.
 
-El pago a que se refiere el párrafo que antecede deberá realizarse en efectivo o mediante cheque certificado a favor del Instituto en una sola exhibición.
+> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2000)</small>
+
+El pago a que se refiere el párrafo anterior, deberá realizarse en efectivo o mediante cheque certificado a favor del Instituto.
 
 En caso de que la multa impuesta no sea pagada dentro de los plazos que señala este Reglamento, la oficina para cobros instrumentará el procedimiento administrativo de ejecución para lograr el cobro coactivo de la misma.
 
@@ -260,3 +296,11 @@ TERCERO. No se considerará infracción la omisión señalada en la fracción IV
 > <small>(F. DE E., D.O.F. 1 DE JULIO DE 1997)</small>
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de junio de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz Martínez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE NOVIEMBRE DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. No se impondrá multa a los patrones que omitan presentar la revisión anual de su siniestralidad, a que se refiere el artículo 74 de la Ley del Seguro Social, en los casos en que modifiquen la prima del Seguro de Riesgos de Trabajo para disminuirla. Esta disposición tendrá una vigencia de dos años a partir de la entrada en vigor de este Decreto.
