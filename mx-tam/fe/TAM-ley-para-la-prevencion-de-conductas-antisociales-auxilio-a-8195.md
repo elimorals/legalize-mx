@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-conductas-antisociales-auxilio-a-8195
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2000-12-26"
+last_updated: "2004-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCION DE CONDUCTAS ANTISOCIALES, AUXILIO A LAS VICTIMAS, MEDIDAS TUTELARES Y READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 27 de diciembre de 1986.
 
@@ -247,353 +247,221 @@ La Dirección General informará a la Tesorería General del Estado de las sente
 
 La asistencia a las personas que dependan del delincuente, se prestará en la forma que dispone la Ley Sobre el Sistema Estatal de Asistencia Social.
 
+> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
+
 ## TITULO TERCERO. DE LA ADAPTACION SOCIAL DE MENORES INFRACTORES MEDIANTE LA TUTELA DEL ESTADO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO I. DE LOS MENORES
 
 ###### ARTICULO 19.
 
-Los mayores de 6 y menores de 16 años de edad no son imputables por la comisión de acciones u omisiones previstas en las leyes penales como delictuosas, por lo que no podrán ser perseguidos penalmente por las autoridades correspondientes. Sólo quedarán bajo la protección directa del Estado para su orientación y adaptación a la sociedad mediante el tratamiento tutelar individualizado que corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 20.
 
-La edad del menor se acreditará con la copia certificada del acta de nacimiento y, a falta absoluta de ésta, aquella se determinará por los integrantes del Consejo Tutelar correspondiente, que emitirán el dictamen bajo su más estricta responsabilidad. Al respecto, el Pleno del Consejo podrá solicitar del personal técnico que emita opinión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO II. DE LOS ORGANISMOS TUTELARES INTEGRACION Y FUNCIONES
 
 ###### ARTICULO 21.
 
-La Dirección General, por conducto de su titular o de la Dirección de Menores Infractores, tendrá las siguientes atribuciones:
-
-I.- Organizar, supervisar y vigilar los Consejos Tutelares y los Centros de Observación y Tratamiento de Menores, haciendo que los servidores públicos cumplan con lo dispuesto en esta Ley y sus reglamentos.
-
-II.- Formular los reglamentos y demás disposiciones por las que habrán de regirse los organismos tutelares para el tratamiento de los menores infractores, dictando las órdenes pertinentes para su debido cumplimiento;
-
-III.- Denunciar los hechos a la Procuraduría General de Justicia del Estado y vigilar el proceso penal hasta su conclusión, respecto a las autoridades que retengan o se nieguen a remitir a los organismos tutelares, a los menores infractores;
-
-IV.- Trasladar y distribuir a los menores infractores en las instituciones tutelares competentes;
-
-V.- Llevar el registro y ordenar se forme el expediente relativo, de todos los procedimientos y tratamiento relacionado con los menores infractores, cuidando que con toda oportunidad le sean remitidas, por los responsables de los organismos tutelares, la copia de las resoluciones, acuerdos y actas relativas al comportamiento de los menores y que se consideren de importancia para mantener los archivos debidamente integrados;
-
-VI.- Vigilar la aplicación del tratamiento adecuado a los menores infractores para su educación y adaptación social y que los centros de observación y tratamiento se encuentren en las mejores condiciones de higiene y seguridad;
-
-VII.- Conocer, investigar y resolver en única instancia las quejas de los menores infractores, sean presentadas por los propios menores o por cualquier persona interesada;
-
-VIII.- Supervisar la vigilancia que debe ejercerse por los Consejos Tutelares de aquellos menores que estén sujetos a libertad orientada;
-
-IX.- Organizar Patronatos para menores infractores que los auxilien una vez que cese la tutela del Estado;
-
-X.- Conocer de los recursos que se presenten contra las resoluciones de los Consejos Tutelares;
-
-XI.- Solicitar al Secretario General de Gobierno la designación o remoción de los consejeros distritales y sus suplentes y proponer al personal técnico, administrativo y de custodia de los Consejos Tutelares y Centros de Observación y Tratamiento;
-
-XII.- Determinar las tesis generales que deban ser aplicadas a los casos particulares por los Consejos Tutelares; y
-
-XIII.- Las demás que le confiera esta Ley y sus reglamentos .
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 22.
 
-La Dirección de Menores Infractores se integrará por:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
-I.- Un Director;
-
-II.- Dos Subdirectores; el primero conocerá de los asuntos relacionados con los Consejos Tutelares del Estado y, el segundo, de los Centros de Observación y Tratamiento de los menores infractores;
-
-III.- Seis Consejos Distritales que tendrán su residencia en los municipios de Güémez, Ciudad Mante, Matamoros, Nuevo Laredo, Reynosa y Tampico, Tamaulipas;
-
-IV.- El personal administrativo, técnico y de custodia de los Centros de Observación y Tratamiento de los menores infractores;
-
-V.- Los Secretarios de Acuerdo y Promotores de los Consejos Distritales del Estado.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION I. DE LOS CONSEJOS TUTELARES
 
 ###### ARTICULO 23.
 
-Los Consejos Tutelares Distritales residirán en las cabeceras municipales de Güémez, Nuevo Laredo, Reynosa, Matamoros, Mante y Tampico, Tamaulipas, los cuales tendrán la jurisdicción que corresponda a sus respectivos distritos judiciales pero además, el de Güémez, comprenderá los del Primero, Décimo, Décimo Primero y Décimo Tercero Distritos; el de Nuevo Laredo los del Séptimo Distrito Judicial; el de Reynosa los del Décimo Cuarto Distrito; el de Matamoros los del Décimo Segundo y Décimo Quinto; el de Mante los del Noveno, y el de Tampico los del Tercero, Décimo Sexto y Décimo Séptimo Distritos Judiciales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 24.
 
-Los Consejos Tutelares estarán integrados por tres miembros titulares con sus respectivos suplentes y serán: Un Consejero Abogado, quien lo presidirá; un Consejero Médico y un Consejero Maestro Normalista o Trabajador Social. Preferentemente uno de los Consejeros será mujer. Contará además con los promotores necesarios, un Secretario de Acuerdos y el personal técnico y administrativo que señale el presupuesto. El personal técnico estará compuesto cuando menos con un médico especialista en psiquiatría, un licenciado en sociología, un maestro y un trabajador social.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 25.
 
-El Pleno de los Consejos Distritales quedará integrado con la mayoría de los Consejeros Titulares y, en ausencia de alguno de ellos, por el suplente que corresponda y que se designará entre alguno de los profesionales que forman el cuerpo técnico del Consejo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 26.
 
-Los Consejos Tutelares celebrarán cinco Plenos Ordinarios por semana y los Extraordinarios que sean necesarios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 27.
 
-Los Consejeros practicarán visitas a los Centros de Observación y Tratamiento, con el objeto de conocer el estado de los menores y apreciar los avances de su tratamiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 28.
 
-Corresponde al Presidente del Consejo:
-
-I.- Representar al Consejo en todos los asuntos que le competen;
-
-II.- Presidir las sesiones del Pleno y autorizar en unión del Secretario de Acuerdos, las resoluciones que aquel dicte;
-
-III.- Ser el conducto para tramitar ante otras autoridades los asuntos del Consejo y de los Centros de Observación y Tratamiento;
-
-IV.- Recibir quejas e informes sobre las faltas y demoras en que incurran los servidores públicos del Consejo en el desempeño de sus labores, dar a aquellos el trámite y resolución que corresponda;
-
-V.- Dictar las disposiciones pertinentes para la buena marcha del Consejo y de los Centros de Observación y Tratamiento, conforme a los lineamientos generales aprobados por el Pleno;
-
-VI.- Las demás funciones que determinen las Leyes y Reglamentos y las que sean inherentes a sus atribuciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 29.
 
-Corresponde a los Consejeros:
-
-I.- Conocer de los casos que le sean turnados, recabando todos los elementos conducentes a la resolución del Consejo, en los términos de esta Ley;
-
-II.- Redactar y someter al Consejo el dictamen que corresponda;
-
-III.- Recabar informes periódicos de los Centros de Observación y Tratamiento y sobre la situación que guarden los menores;
-
-IV.- Las demás funciones que determinen las Leyes y Reglamentos y las que le sean inherentes a sus atribuciones.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 30.
 
-Para ser Consejero se requiere:
-
-I.- Ser mexicano en el pleno ejercicio de sus derechos civiles y políticos;
-
-II.- Tener por lo menos 27 años cumplidos;
-
-III.- No haber sido condenado por delito doloso y gozar de buena reputación;
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
-
-IV. Poseer el título que corresponda en los términos del Artículo 24 de esta Ley; y,
-
-V.- Preferentemente haberse especializado en el estudio, prevención y tratamiento de la conducta irregular de los menores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 31.
 
-Corresponde al Secretario de Acuerdos de los Consejos Tutelares:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
-I.- Acordar con el Presidente del Consejo los asuntos de la competencia del mismo, llevar un registro clasificado de los casos sometidos a su conocimiento y autorizar conjuntamente con el Presidente las resoluciones del Pleno;
-
-II.- Auxiliar al Presidente del Consejo en el despacho de las tareas que a éste corresponden y en el manejo del personal administrativo adscrito a la Presidencia;
-
-III.- Llevar diariamente la correspondencia y el turno de los asuntos que deba conocer el Consejo, documentar las actuaciones y expedir las constancias que el Presidente determine;
-
-IV.- Acordar todos los días con los Consejeros, los escritos y comparecencias que se formulen en los casos sometidos a su estudio, librar citas y hacer notificaciones en los procedimientos que se tramiten ante el Pleno, asentando y expidiendo las certificaciones y demás razones que procedan en términos de Ley;
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
-
-V.- Tener a su cargo, bajo su responsabilidad, el sello y libros correspondientes pertenecientes al Consejo y remitir a la autoridad ejecutora copia certificada de las resoluciones en que se acuerde la resolución, modificación, o cesación de una medida.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION II. DE LOS PROMOTORES
 
 ###### ARTICULO 32.
 
-Corresponde a los Promotores adscritos a los Consejos Tutelares y Centros de Observación y Tratamiento:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
-I.- Intervenir en el procedimiento que se siga ante el Consejo, desde que el menor quede a disposición de aquel órgano, para vigilar la fiel observancia de la Ley;
-
-II.- Concurrir cuando el menor comparezca ante los Consejeros o el Pleno; proponer la práctica de pruebas y asistir a su desahogo, formular alegatos, interponer recursos e intervenir en los casos de revisión;
-
-III.- Recibir instancias, quejas e informes de quienes ejerzan la patria potestad, la tutela o la guarda sobre el menor y hacerlos valer ante el órgano que corresponda, según resulte procedente en el curso del procedimiento;
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
-
-IV.- Visitar a los menores internos en el Centro de Observación y examinar las condiciones en que se encuentren, a fin de poner en conocimiento del Presidente del Consejo las irregularidades que advierta, para su inmediata corrección;
-
-V.- Visitar los Centros de Tratamiento y observar la ejecución de las medidas impuestas a fin de dar conocimiento a la autoridad competente de las irregularidades que se encuentren, para los mismos efectos de la fracción anterior;
-
-VI.- Vigilar que los menores no sean detenidos en lugares destinados para la reclusión de adultos y denunciar ante la autoridad correspondiente las contravenciones que sobre el particular adviertan;
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
-
-VII.- Promover la revisión del caso cuando a su juicio sea necesario, por inadecuación del tratamiento, por su ineficacia o por su éxito que hagan evidente la necesidad de modificarlo o consumarlo; y,
-
-VIII.- Las demás atribuciones que sean propias de su cargo.
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION III. DE LOS CENTROS DE OBSERVACION Y TRATAMIENTO
 
 ###### ARTICULO 33.
 
-Cada Centro de Observación y Tratamiento contará con el siguiente personal:
-
-I.- Un Director del mismo, que ejercerá sus funciones en la propia institución a que fue asignado;
-
-II.- EDUCACIONAL: Que ejercerá sus funciones en el Centro al que fue adscrito, instruyendo obligatoriamente a los menores en educación alfabetizadora y educación básica, y opcionalmente para los menores su ingreso a la preparatoria, de acuerdo con la capacidad y antecedentes escolares del menor;
-
-III.- TECNICO: Que ejercerá sus funciones en la institución a que fuera asignado y conducirá a los menores hacia actividades productivas, no sólo como terapia ocupacional, sino también para su capacitación;
-
-IV.- DE CUSTODIA: Que ejercerá sus funciones en la institución a que fue asignado y que será suficiente y adecuado para salvaguardar el orden, la paz y seguridad en el establecimiento;
-
-V.- ADMINISTRATIVO: Que ejercerá sus funciones en la institución a que fuera asignado y que cubra las necesidades del establecimiento.
-
-El personal técnico, administrativo y de custodia que refieren estas disposiciones, estará sujeto al presupuesto de egresos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 34.
 
-Corresponde a los Directores de los Centros de Observación y Tratamiento:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
-I.- Acordar con el Presidente del Consejo, en lo técnico y administrativo, los asuntos referentes a su Centro;
-
-II.- Cuidar que el personal adscrito al establecimiento cumpla con sus funciones;
-
-III.- Ordenar la ejecución de las resoluciones y medidas técnicas y disciplinarias, del Pleno del Consejo Tutelar;
-
-IV.- Tener a su cargo la administración, gobierno y vigilancia de los muebles e inmuebles que formen parte del Centro; y
-
-V.- Los demás que establezca la Ley y reglamentos.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO III. DEL PROCEDIMIENTO TUTELAR
 
-#### SECCION I. DEL INGRESO, CLASIFICACION Y TRATAMIENTO
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+#### SECCION I. DEL INGRESO, CLASIFICACION Y TRATAMIENTO
 
 ###### ARTICULO 35.
 
-Toda autoridad que tenga conocimiento de hechos comprendidos en el Artículo 19 de esta Ley o ante la cual se ha presentado un menor por igual motivo, informará de inmediato al Consejo Tutelar que corresponda, proveyendo en su caso el traslado al Centro de Observación de esa dependencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 36.
 
-Inmediatamente que un menor quede a disposición de los integrantes del Consejo Tutelar que corresponda, procederán, de acuerdo con la especialidad y auxiliados por el personal técnico, al estudio de la personalidad del mismo, de la conducta por la cual es sujeto a la presente Ley, así como de las circunstancias personales del agente pasivo del hecho, las del tiempo, lugar, forma y ocasión en la realización de la conducta, su educación familiar y desarrollo en la misma y en sociedad y demás datos que sirvan para establecer el diagnóstico y pronóstico de los Consejeros, que serán base para pronunciar sus dictámenes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 37.
 
-La resolución del Consejo deberá pronunciarse dentro de las siguientes 72 horas seguidas al momento que quedó a disposición del mismo, y habrá de establecer fundada y motivadamente si quedará sujeto a tratamiento para su debida educación y adaptación social, declarando la medida a la que estará sujeto, pudiendo ser:
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
-
-a).- De libertad orientada, consistente en que el menor siga integrado a su familia, si la tuviere, o bajo la protección y cuidado de la o las personas con quienes estuvo viviendo antes de la realización de la conducta que motivó quedara sujeto a observación y tratamiento; así como también podrá pronunciarse determinación que exprese que el menor quede incorporado a determinada familia o persona que lo deberá de proteger y cuidar.
-
-La resolución habrá de precisar las fechas en que el menor concurrirá ante cada uno de los integrantes del Consejo para su debido tratamiento y hasta que sea declarada su adaptación y quede totalmente liberado como sujeto de esta Ley y reincorporado a la sociedad.
-
-Al hacer entrega del menor, el Presidente del Consejo, en cumplimiento de la resolución, levantará acta en que conste la persona quien lo recibe y se asentará la obligación que contrae de presentar al menor ante el Consejo y de hacer saber al Presidente del mismo el comportamiento del menor y si éste abandonare el domicilio.
-
-b).- De internamiento, para su estudio y tratamiento que se desarrollará en la Institución Tutelar en cuya jurisdicción el menor haya sido sujeto de estudio, diagnóstico y pronóstico por los integrantes del Consejo, sin prejuicio que el propio Consejo o la Dirección General pronuncien resolución especial sobre internamiento y tratamiento del menor.
-
-Si a juicio del Consejo, la infracción del menor es leve y su situación personal no revela un estado antisocial, ni sean aconsejables las medidas anteriores, sólo se impondrá al menor una amonestación privada y se le exhortará a que no reincida. Igualmente se exhortará a sus padres o tutores para que ejerzan sobre el menor mayor vigilancia.
-
-Si el menor resultara ajeno al hecho antisocial que motivó el conocimiento del Consejo, dictará éste su libertad incondicional.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 38.
 
-Por las resoluciones de los Consejos Tutelares, queda diferido o modificado, según sea el caso, el ejercicio de la patria potestad o la tutela, a cargo del Director del Centro de Observación en que quede con carácter de interno el menor y durará tal situación hasta que sea declarado habilitado para reincorporarse plenamente a su familia y a la sociedad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 39.
 
-La responsabilidad civil del menor como resultado de su conducta, queda regida conforme a la legislación común aplicable, pero la tutela diferida al Estado no lo hace responsable después del tratamiento del Consejo.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 40.
 
-En los Centros de Observación se alojará a los menores bajo el sistema de clasificación atendiendo a su sexo, edad, salud y demás circunstancias relativas a su personalidad. Durante el internamiento se continuará el conocimiento de la personalidad del menor, mediante la realización de los estudios conducentes a tal fin, conforme a las técnicas aplicables en cada caso. Siempre se practicarán estudios médico, psicológico, pedagógico y social, sin perjuicio de los demás que solicite el órgano competente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 41.
 
-El menor, durante su tratamiento y como meta para lograr su adaptación social, será guiado tanto en libertad orientada como en internamiento, en el cumplimiento de sus deberes de estudio y, en su caso, y por su edad, al trabajo que mejor le acomode por su capacidad física e intelectual, no solamente como una terapia ocupacional, sino para su capacitación en el mismo, y hacerlo útil para sí, a su familia y a la sociedad al reincorporarse cuando así lo dictamine el Consejo Tutelar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 42.
 
-Cuando durante la fase de estudio del menor y aún en su tratamiento, tengan conocimiento los integrantes del Consejo que el menor ejecutó o tuvo intervención en otros hechos antisociales, no será necesario formarle nuevo expediente, sino que, los Consejeros ampliarán sus estudios sobre los hechos conocidos, para modificar, en su caso, el tratamiento.
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 43.
 
-Cuando alguno de los Consejeros advierta o tenga conocimiento por persona ajena al Consejo que el menor sujeto a tratamiento desobedece las instrucciones del mismo u observa mala conducta, solicitará al Presidente incluya en la agenda de sesiones del Pleno la cita del menor y de quien lo tenga bajo su guarda y cuidado si gozare de libertad orientada, o se hara presentar a aquél si estuviere bajo internamiento, para que sea tratado el caso y, el Consejo, si lo juzga necesario, volverá a someter a estudio al menor por los Consejeros, a efecto de pronunciar nueva resolución que determine el tratamiento a seguir.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 44.
 
-Las resoluciones del Consejo nunca causarán estado y el menor siempre estará sujeto a observación para determinarse las modificaciones de su tratamiento.
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 45.
 
-El Consejo revisará de oficio, por lo menos cada dos meses, las medidas impuestas y, tomando en cuenta el éxito o fracaso de las mismas podrá hacer cesar el tratamiento o modificarlo. Al respecto deberá oirse previamente al Cuerpo Técnico del Centro de Observación y Tratamiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 46.
 
-Al pronunciarse resolución por el Consejo que establezca la adaptación del menor, su libertad orientada o el internamiento se declararán concluidos y le será otorgada su libertad inmediata, pero siempre se entenderá que el menor será vigilado para prevenir la realización de conductas antisociales.
-
-Podrá retenerse al menor no adaptado, aun cuando llegue a la mayor edad, sin que el tiempo de internamiento pueda exceder de la mitad del mínimo que la Ley Penal señala al delito que si fuera imputable se hubiera cometido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 47.
 
-Los promotores y los integrantes técnicos de los Centros de Observación, podrán solicitar al Consejo la modificación del tratamiento del menor, cuando la conducta observada por éste lo haga necesario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 48.
 
-Las resoluciones del Consejo nunca podrán ser modificadas o revocadas en forma alguna por los Tribunales Civiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION II. DE LAS ACTUACIONES
 
 ###### ARTICULO 49.
 
-Para los trámites del procedimiento tutelar se escuchará al menor, a sus padres, tutores o encargados y a su promotor para cuyo efecto, antes de iniciar el Procedimiento, el Consejero Presidente informará a unos y otros en lenguaje sencillo y adecuado acerca de las circunstancias y las causas por las cuales se encuentra a disposición del Consejo Tutelar.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 50.
 
-Si el menor no hubiere sido presentado ante el Consejo, su Presidente lo citará a él y a sus familiares, o dispondrá la presentación del mismo por conducto del personal que para tal efecto cuente el Consejo. En la resolución que a este propósito expida, se expresarán los fundamentos legales y técnicos de la misma. No se procederá a la presentación de un menor sin que medie orden escrita y fundada del Consejero Presidente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 51.
 
-El promotor vigilará que el procedimiento tutelar se lleve a cabo en la forma que establece la ley y respetándose siempre la integridad física y dignidad del menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 52.
 
-Para el despacho de los asuntos sometidos a su conocimiento el Presidente o el Pleno acordarán se practiquen notificaciones, expedirán citas y órdenes de presentación y aplicarán medidas de apremio y correcciones disciplinarias a los adultos que ante ellos intervengan. A este efecto se estará a lo dispuesto en el Código de Procedimientos Penales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 53.
 
-Se prescindirá siempre que sea posible y, particularmente cuando el menor se halle presente, de las formalidades propias del procedimiento para adultos, asentándose en las actuaciones la naturaleza tutelar del órgano, exenta de propósito represivo. Se procurará no emplear términos tales como delito, tipo penal, antijuridicidad, culpabilidad ni demás conceptos jurídicos penales, sino que sólo se hará referencia a los hechos en que se diga participó el menor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 54.
 
-Los objetos remitidos al Consejo y relacionados con los hechos que se sometan a su conocimiento, se entregarán a sus legítimos propietarios tan pronto como estos comprueben su derecho y otorguen el recibo correspondiente, excepto los de uso prohibido, que serán remitidos inmediatamente a la Dirección General dejándose la constancia respectiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 55.
 
-Cuando de las diligencias practicadas conforme a este Ordenamiento aparezcan datos que hagan presumir la responsabilidad penal de un adulto, se harán del conocimiento del Ministerio Público para que, en su caso, se instruya, separadamente, el procedimiento que corresponda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION III. DE LAS EXCUSAS E IMPEDIMENTOS
 
 ###### ARTICULO 56.
 
-Los Consejeros, los Secretarios de Acuerdos y los Promotores quedan sujetos en lo aplicable a los impedimentos que establece la ley adjetiva penal y en estos casos deberán excusarse.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 57.
 
-El Pleno resolverá de plano sobre la excusa y determinará la substitución del impedido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 58.
 
-El Pleno resolverá la forma de proceder cuando no exista disposición expresa aplicable al caso, ajustándose siempre a la naturaleza de las funciones del Consejo y a los fines que éste persigue.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION IV. PROHIBICIONES
 
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
-
 ###### ARTICULO 59.
 
-No se permitirá el acceso de personas ajenas a las diligencias que se celebren ante el Pleno del Consejo o sus integrantes. El Promotor deberá estar presente e intervendrá en el cumplimiento de sus funciones y en todas las diligencias relativas a los procedimientos en que tenga participación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 60.
 
-Queda absolutamente prohibida la detención de menores en lugares destinados a la reclusión de mayores, por lo que inmediatamente toda autoridad deberá trasladarlos a la institución tutelar correspondiente.
-
-Cuando un menor haya intervenido en hechos relativos a mayores de 16 años de edad, toda autoridad que deba levantar diligencias con intervención del menor, se pondrá de acuerdo con el Director del Centro de Observación que lo tenga a su cargo, para que se actúe en el lugar que se juzgue más conveniente a la seguridad física y moral del menor, pero en ningún caso podrán trasladarse a los juzgados penales.
-
-> <small>(F. DE E., P.O. 14 DE MARZO DE 1987)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 61.
 
-Queda estrictamente prohibido proporcionar el nombre de menores, así como datos sobre sus conductas, a cualquier persona que presumible o realmente pretenda hacerlos públicos en cualquier medio de difusión. Consecuentemente, los medios de difusión se abstendrán de publicar los nombres de menores y las conductas realizadas por los mismos, así como que se encuentren sujetos a tratamiento de conformidad con esta Ley.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE JUSTICIA JUVENIL PARA EL ESTADO DE TAMAULIPAS, P.O. 10 DE NOVIEMBRE DE 2004)
 
 ## TITULO CUARTO. DE LA READAPTACION DE LOS SENTENCIADOS
 
@@ -1323,16 +1191,24 @@ P.O. 26 DE DICIEMBRE DE 2000
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 10 DE NOVIEMBRE DE 2004.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+La presente ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+Con la entrada en vigor de la presente ley queda derogado en todas y cada una de sus partes el Título Tercero y todas aquellas disposiciones relativas a menores infractores de la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social, expedida mediante el Decreto No. 436 de la Legislatura del Estado de 3 de diciembre de 1986 y publicada en el Periódico Oficial del Estado No. 104 de 27 de diciembre de 1986. A su vez se derogan las disposiciones de ley que se opongan a los preceptos contenidos en el ordenamiento que se expide.
 
-P.O. 1 DE ABRIL DE 2024.
+###### ARTÍCULO TERCERO.
 
-###### ARTÍCULO QUINTO.
+La presente ley solo tendrá efectos retroactivos en beneficio de los menores sujetos a procedimiento al momento de su entrada en vigor.
 
-La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes deberá expedir el Reglamento Interior del Centro de Conciliación Laboral del Estado de Aguascalientes dentro de los noventa días naturales siguientes a su instalación.
+AR0TÍCULO CUARTO.- Conforme a las disponibilidades presupuestales al momento de aprobarse el presente ordenamiento, el Centro Estatal de Tratamiento se ubicará en el Municipio de Güémez; a su vez, en Nuevo Laredo funcionará una Unidad Distrital de Tratamiento, al tiempo de que sendas Unidades de Prevención y Tratamiento Externo funcionarán en Altamira, El Mante, Matamoros y Reynosa.
+
+Con base en las asignaciones presupuestales del caso se podrán crear nuevas Unidades Distritales de Tratamiento o nuevas Unidades de Prevención y Tratamiento Externo.
+
+###### ARTICULO QUINTO.
+
+De acuerdo con las disponibilidades presupuestales se podrán establecer Consejos Distritales de Justicia Juvenil adicionales a los referidos en el artículo 16 de esta ley, en los municipios del Estado donde así resulte pertinente conforme a la incidencia de conductas infractoras por parte de los menores de edad.
