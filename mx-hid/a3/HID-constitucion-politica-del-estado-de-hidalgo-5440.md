@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1992-07-20"
+last_updated: "1993-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -407,6 +407,30 @@ Las adiciones o supresiones a los nombres de los Municipios se podrán realizar 
 
 La soberanía del Estado, reside esencial y orginariamente (sic) en el pueblo hidalguense, quien la ejerce por medio de los Poderes constituidos en los términos de esta Ley fundamental.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación ciudadana en la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan; mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+
+Para el cumplimiento de sus fines, los partidos políticos gozarán de las prerrogativas que se señalan en la Ley reglamentaria.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+
+La preparación, desarrollo, vigilancia, computo y calificación de los procesos electorales, ordinarios y extraordinarios, es una función de interés público que se ejerce a través de los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos, de los ciudadanos y los Ayuntamientos.
+
+(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 1993)
+
+Esta función se realizará a través de un órgano de interés público, pluralmente integrado, profesional en su desempeño, autónomo en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios, el cual será autoridad en la materia, debiendo velar porque los principios de certeza, legalidad, imparcialidad y objetividad, rijan todas las actividades de los procesos electorales; siendo además competente para declarar validas las elecciones ordinarias y extraordinarias de Diputados y de ayuntamientos, declarando electos a los ciudadanos que hayan obtenido la mayoría de votos, extendiéndoles las constancias respectivas, y asignando las Diputaciones y regidurías de representación proporcional correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+
+El Congreso del Estado se erigirá en Colegio Electoral para calificar las elecciones ordinarias y extraordinarias de Gobernador.
+
+(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1993) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 1993)
+
+La legislación reglamentaria de la materia establecerá un sistema de medios de impugnación de los que conocerán los órganos electorales y un Tribunal Electoral. Este, se constituirá en órgano jurisdiccional de la materia, con la competencia y organización que dicho ordenamiento determine; funcionará en pleno y sus sesiones serán públicas. La interposición de los recursos, en ningún caso producirá efectos suspensivos del acto o resolución impugnada. Sus actos y resoluciones, invariablemente estarán sujetos al principio de legalidad, y darán definitividad a las distintas etapas de los procesos electorales; en tanto que las resoluciones que dicho Tribunal pronuncie con posterioridad a la jornada electoral, se sujetarán a lo dispuesto en la Ley respectiva. Los Magistrados que lo integren, deberán satisfacer cuando menos los requisitos que señala esta Constitución para los Magistrados del Tribunal Superior de Justicia, aunados a los que señale en particular la Ley de la materia. Los Poderes Legislativo y Ejecutivo garantizarán su integración, participación concurrentemente en la designación de sus integrantes, quienes serán independientes y sólo responderán al mandato de la Ley.
+
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 25.
@@ -493,9 +517,9 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-III. Los Secretarios del Despacho, los Magistrados del Tribunal Superior de Justicia, y del Tribunal Fiscal Administrativo, los funcionarios de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes de la elección;
+III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, el Procurador de Justicia del Estado, los funcionarios de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección;
 
 IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en que ejerzan sus funciones y los Presidentes Muncipales (sic) en el Distrito del que forme parte el Municipio de su jurisdicción, si no se han separado unos y otros de sus cargos, cuando menos noventa días antes de la elección; y
 
@@ -525,11 +549,13 @@ El cargo de Diputado Propietario y el de Suplente, cuando lo ejerza, es incompat
 
 El Congreso se renovara en su totalidad cada tres años, debiendo de tomar posesión de su cargo los integrantes de la nueva Legislatura, el día primero de abril del año respectivo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Artículo 37.
 
-Después de efectuadas las elecciones que prevé esta Constitución, los ciudadanos que hayan obtenido la credencial de presunto Diputado, se reunirán a efecto de erigirse en Colegio Electoral, para calificar dichas elecciones en los términos de la Ley de la materia.
+Después de efectuadas las elecciones de Gobernador, el Congreso del Estado se erigirá en Colegio Electoral, para calificarlas en definitiva, en los términos de la Ley de la materia.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 Las resoluciones del Colegio Electoral, serán definitivas e irrevocables y ningún Poder, autoridad o funcionario podrán revisar ni poner en duda los títulos de legitimidad de cualquier funcionario declarado electo por el propio Colegio.
 
@@ -655,9 +681,9 @@ I. Se trata de adiciones o reformas a esta Constitución;
 
 II. Hayan sido dictados en ejercicio de la facultad de revisar la cuenta general del Estado y de los Muncipios (sic);
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador y a los Magistrados del Tribunal Superior de Justicia, y del Tribunal Fiscal Administrativo; y
+III. Hayan sido dictados en uso de la facultad de conocer o negar licencia al Gobernador y a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral; y
 
 IV. Hayan sido dictados en funciones del Colegio Electoral, de Gran Jurado y de Jurado de Acusación.
 
@@ -699,13 +725,15 @@ IV. Iniciar Leyes y Decretos ante el Congreso de la Unión;
 
 V. Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda de la Entidad;
 
-VI. En las elecciones de Gobernador, Diputados y Ayuntamientos, erigirse en Colegio Electoral para calificarlas y declarar electos a los ciudadanos que hayan obtenido la mayoría de votos y en el caso de las dos últimas el derecho a la representación proporcional en los términos de la Ley de la materia;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+
+VI. Erigirse en Colegio Electoral para calificar las elecciones ordinarias y extraordinarias de Gobernador; declarando electo como Gobernador Constitucional del Estado, al ciudadano que haya obtenido la mayoría de vottos (sic);
 
 VII. Recibir la Protesta al cargo de Gobernador, Magistrados y Diputados;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-VIII. Conocer y aprobar en su caso, la proposición del Ejecutivo, para nombrar a los Magistrados del Tribunal Superior de Justicia, y del Tribunal Fiscal Administrativo. Asimismo, conocer de las renuncias de éstos a su cargo;
+VIII. Aprobar en su caso, la proposición del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal Fiscal Administrativo y Tribunal Electoral. Asimismo, conocer de las renuncias de estos a su encargo;
 
 IX. Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros, cuando el Diputado Suplente en funciones dejare de asistir por cualquiera de los motivos especificados en esta Constitución;
 
@@ -757,9 +785,13 @@ XXIII. Expedir leyes sobre planeación del desarrollo estatal, y (sic)
 
 XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
 
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+
+XXV. En caso de declararse nula cualquiera de las elecciones locales, convocar a elecciones extraordinarias en los términos de la Ley de la materia;
+
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987) (F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
 
-XXV. Las demás que le sean concedidas por esta Constitución.
+XXVI. Las demás que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -789,13 +821,13 @@ Son facultades de la Comisión Permanente:
 
 I. Convocar al Congreso a sesiones extraordinarias, por iniciativa propia o del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes, y a los Diputados y Magistrados, del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, cuando sea por un período mayor de tres meses;
+II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, cuando sea por un período mayor de tres meses;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-III. Recibir la protesta al cargo de Gobernador y Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo;
+III. Recibir la protesta al cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral;
 
 IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen a fin de que se despachen en el período inmediato de sesiones;
 
@@ -809,9 +841,9 @@ VI. Nombrar con carácter interino a los empleados de la Contaduría Mayor de Ha
 
 VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-VIII. Aprobar o rechazar la renuncia que presenten los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo;
+VIII. Conocer en su caso, la proposición del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal fiscal Administrativo y Tribunal Electoral. Asimismo, de las renuncias de estos a su encargo;
 
 IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado o de los Municipios, respectivamente, en los mismos términos de la fracción XII del artículo 56 de esta Constitución, cuando el Congreso se encuentra en receso;
 
@@ -861,9 +893,9 @@ IV. No pertenecer al Estado eclesiástico, ni ser ministro de culto religioso;
 
 V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seguridad Pública; en ambos casos, dentro de los noventa días anteriores a la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-VI. No ser servidor público federal o local, ni Secretario del Despacho del Ejecutivo, Procurador General de Justicia del Estado, o del Tribunal Fiscal Administrativo, Diputado Local o Presidente Municipal, 90 días antes de la elección.
+VI. No ser servidor público federal o local, Secretario del Despacho del Ejecutivo, Procurador General de Justicia del Estado, Magistrado del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, o del Tribunal Electoral, Diputado Local o Presidente Municipal en funciones, noventa días antes de la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -965,9 +997,9 @@ XII. Nombrar y remover libremente a los Secretarios de Despacho, al Procurador G
 
 XIII. Nombrar a los funcionarios y agentes integrantes de los cuerpos de Seguridad Pública y a los responsables de los servicios públicos, que en todos los casos se consideren como empleados de confianza;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia, y del Tribunal Fiscal Administrativo, con la aprobación del Congreso o de la Comisión Permanente, en su caso, y recibir sus renuncias para tramitarlas en los términos de ley;
+XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal Fiscal Administrativo y Tribunal Electoral con la aprobación del Congreso y recibir sus renuncias, para tramitarlas en los términos de Ley. Para la integración del Tribunal Electoral, se estará a lo dispuesto en la Ley de la materia;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1991)</small>
 
@@ -1741,11 +1773,11 @@ VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiás
 
 VII. Saber leer y escribir.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Artículo 135.
 
-La elección de los miembros de los Ayuntamientos será calificada por el Congreso del Estado.
+La elección de los miembros de los Ayuntamientos será declarada valida por el organismo electoral que señale la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -2073,15 +2105,21 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Artículo 150.
 
-Los diputados al Congreso local, los Magistrados del Tribunal Superior de Justicia del Estado y del Tribunal Fiscal Administrativo, los Secretarios de Despacho, el Procurador General de Justicia, el Oficial Mayor, los Coordinadores, los Presidentes Municipales, los Directores Generales o sus equivalentes, de los organismos públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas, y fideicomisos públicos de esta Entidad Federativa y Jueces de Primera Instancia, serán responsables de los delitos del orden común que cometan durante su gestión; podrán ser sujetos de juicios políticos por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo.
+Serán sujetos de juicio político: los Diputados al Congreso local, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo, del Tribunal Electoral, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Oficial Mayor y los Coordinadores que nombre el Ejecutivo, los Directores Generales o sus equivalentes de los organismo públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta Entidad Federativa y Jueces de Primera Instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del orden común que cometan durante su gestión.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Para proceder por responsabilidad en la comisión de delitos del orden común contra los servidores públicos comprendidos en el párrafo anterior, cometidos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+
 Las sanciones que se impondrán mediante juicio político, cuando los servidores públicos, en el ejercicio de sus funciones, por sus actos y omisiones perjudiquen a los intereses públicos fundamentales o a su buen despacho, consistirán en la destitución del servidor y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 No procede el juicio político, por la mera expresión de las ideas.
 
@@ -2570,3 +2608,7 @@ UNICO.- El presente Decreto entrará en vigor el siguiente día de su publicaci�
 P.O. 20 DE JULIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
