@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2002-08-14"
+last_updated: "2003-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -801,9 +801,11 @@ Si dicha proporción no se pudiera determinar, el Juez según las circunstancias
 
 ### CAPITULO IV. DE LA EMANCIPACION
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 115.
 
-SUJETOS DE LA EMANCIPACION. Los varones mayores de dieciséis años y las mujeres de más de catorce, sujetos a patria potestad o a tutela, pueden emanciparse a través del matrimonio según lo prescribe este Código.
+SUJETOS DE LA EMANCIPACION. Los varones y las mujeres mayores de dieciséis años, sujetos a patria potestad o a tutela, pueden emanciparse a través del matrimonio según lo prescribe este Código.
 
 ###### ARTICULO 116.
 
@@ -855,9 +857,11 @@ SOLEMNIDAD DEL MATRIMONIO. El matrimonio debe celebrarse ante los funcionarios q
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 124.
 
-EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio el varón necesita haber cumplido dieciséis y la mujer catorce años. El Juez de lo Familiar puede únicamente conceder dispensas de edad por causas graves y justificadas.
+EDAD PARA CONTRAER MATRIMONIO. Para contraer matrimonio el varón y la mujer necesitan haber cumplido dieciséis años. El Juez de lo Familiar puede únicamente conceder dispensas de edad por causas graves y justificadas.
 
 ###### ARTICULO 125.
 
@@ -1227,9 +1231,11 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 4
 
 PRETENSION DE NULIDAD POR ERROR EN LA PERSONA DEL CONYUGE. La pretensión de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error de inmediato al advertirlo, se tiene por ratificado el consentimiento y queda subsistente el matrimonio.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 181.
 
-FALTA DE NULIDAD POR MINORIA DE EDAD. La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad cuando:
+FALTA DE NULIDAD POR MINORIA DE EDAD. La menor edad de dieciséis años en el hombre y en la mujer dejará de ser causa de nulidad cuando:
 
 I.- Haya hijos;
 
@@ -15330,3 +15336,9 @@ Se faculta al Titular del Poder Ejecutivo, a efectos de que provea lo necesario 
 ###### ARTICULO QUINTO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 13 DE AGOSTO DE 2003.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos señalados en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
