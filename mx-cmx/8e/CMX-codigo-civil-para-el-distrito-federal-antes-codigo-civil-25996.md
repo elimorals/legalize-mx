@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1999-04-17"
+last_updated: "2000-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 1999.
+> <small>N. DE E. MEDIANTE DECRETO DE REFORMAS PUBLICADO EN FECHA 28 DE ABRIL DE 2000, EL LEGISLADOR MODIFICA EL TEXTO DEL DECRETO DE REFORMAS DEL 17 DE ABRIL DE 1999, AMBOS PUBLICADOS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, POR LO CUAL DICHAS MODIFICACIONES DEBERAN SER CONSULTADAS DIRECTAMENTE EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE LA FECHA CON ANTELACION CITADA, TODA VEZ QUE LAS MISMAS NO AFECTAN DIRECTAMENTE AL PRESENTE CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ABRIL DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -33,7 +35,7 @@ Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la U
 
 (REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)(REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
 
 Disposiciones preliminares
 
@@ -11043,7 +11045,7 @@ ARTICULO 2,768.- La deuda de juego o de apuesta prohibidos no puede compensarse,
 
 ARTICULO 2,769.- El que hubiere firmado una obligación que en realidad tenía por causa una deuda de juego o de apuesta prohibidos, conserva, aunque se atribuya a la obligación una causa civilmente eficaz, la excepción que nace del artículo anterior, y se puede probar por todos los medios la causa real de la obligación.
 
-ARTICULO 2,770.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor (sic) debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2,765.
+ARTICULO 2,770.- Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor debe pagarla al portador de buena fe; pero tendrá el derecho que le concede el artículo 2,765.
 
 ARTICULO 2,771.- Cuando las personas se sirvieren del medio de la suerte, no como apuesta o juego, sino para dividir cosas comunes o terminar cuestiones, producirá, en el primer caso, los efectos de una participación legítima, y en el segundo, los de una transacción.
 
@@ -12901,4 +12903,10 @@ UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación e
 
 G.O. 17 DE ABRIL DE 1999.
 
+> <small>N. DE E. MEDIANTE DECRETO DE REFORMAS PUBLICADO EN FECHA 28 DE ABRIL DE 2000, EL LEGISLADOR MODIFICA EL TEXTO DEL DECRETO DE REFORMAS DEL 17 DE ABRIL DE 1999, AMBOS PUBLICADOS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, POR LO CUAL DICHAS MODIFICACIONES DEBERAN SER CONSULTADAS DIRECTAMENTE EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DE LA FECHA CON ANTELACION CITADA, TODA VEZ QUE LAS MISMAS NO AFECTAN DIRECTAMENTE AL PRESENTE CODIGO.</small>
+
 UNICO.- El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE ABRIL DE 2000.
+
+Único.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
