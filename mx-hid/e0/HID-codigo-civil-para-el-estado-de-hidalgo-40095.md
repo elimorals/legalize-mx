@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1992-05-18"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -14361,11 +14361,11 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruír la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### Art. 2932.
 
-El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2923, se dé conocimiento al deudor y sea inscrita en el Registro.
-
-Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
+El acreedor podrá ceder sus créditos con garantía sin necesidad de notificación al deudor ni de escritura Pública, siempre que continúe llevando la administración de los créditos; en caso contrario la cesión del crédito deberá notificarse al deudor por escrito. En cualquier caso la cesión del crédito se inscribirá en el Registro Público de la Propiedad y del Comercio.
 
 ###### Art. 2933.
 
@@ -14969,7 +14969,7 @@ Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectific
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
-De la Rectificación de Asiento.
+De la Prelación.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15015,7 +15015,7 @@ La inscripción definitiva de un derecho que haya sido anotado preventivamente, 
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
-De la Extinción de Asientos.
+De Quienes Pueden solicitar el Registro y de la Calificacion Registral.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15075,7 +15075,7 @@ El interesado presentará el título que va a ser registrado y cuando se trate d
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
-De la Prelación.
+De la Rectificación de Asiento.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15115,7 +15115,7 @@ El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
-De Quienes Pueden solicitar el Registro y de la Calificacion Registral.
+De la Extinción de Asientos.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15287,9 +15287,9 @@ VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensi�
 
 IX.- Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
 
-De la Inmatriculación.
+De los Efectos de las Anotaciones.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15307,9 +15307,9 @@ En el caso de la fracción VII, la anotación servirá únicamente para que cons
 
 Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse o gravarse, pero sin perjuicios del derecho de la persona a cuyo favor se haya hecho la anotación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE MAYO DE 1992)</small>
 
-Del Sistema Registral.
+De la Inmatriculación.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15341,7 +15341,7 @@ e).- Mediante la inscripción de la posesión de buena fe de un inmueble que re�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
 
-Disposiciones Comunes.
+Inmatriculación por Resolucion Judicial.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15375,7 +15375,7 @@ Si el opositor deja transcurrir seis meses sin promover en el procedimiento de o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
 
-De los Efectos de las Anotaciones.
+Inmatriculación por Resolución Administrativa.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15459,7 +15459,7 @@ Si el opositor deja transcurrir seis meses sin promover el juicio que en su caso
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
 
-Inmatriculación por Resolucion Judicial.
+Disposiciones Comunes.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15487,7 +15487,7 @@ No se inscribirán las informaciones judiciales o administrativas de posesión, 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1992)</small>
 
-Inmatriculación por Resolución Administrativa.
+Del Sistema Registral.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -15778,3 +15778,13 @@ P.O. 18 DE MAYO DE 1992.
 PRIMERO.- El presente Decreto de reformas al Código Civil entrará al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas otras disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del inicio de vigencia de las presentes modificaciones, reformas y adiciones, se regirán por las normas civiles y procesales civiles vigentes al momento de la contratación. Lo dispuesto en el párrafo anterior, también se observará tratándose de las reestructuraciones, renegociaciones o nuevos convenios de deuda o créditos, cualquiera que sea la forma que adopten para tal efecto, que se efectúen con posterioridad al inicio de vigencia de estas reformas, modificaciones y adiciones, y que tengan como causa o antecedente un crédito hipotecario contraído con anterioridad a la vigencia de las mismas, en cuyos casos se aplicará la legislación civil y procesal civil vigentes antes de las reformas.
+
+TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente decreto.
+
+CUARTO.- Publíquese el presente decreto en el Periódico Oficial del Estado.
