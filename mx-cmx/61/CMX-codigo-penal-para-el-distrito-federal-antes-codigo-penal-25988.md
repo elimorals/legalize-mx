@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1968-12-24"
+last_updated: "1969-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE FEBRERO DE 1969.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -2728,11 +2728,11 @@ IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda dete
 
 Se impondrán de tres días a tres años de prisión al que sorprendiendo a su cónyuge en el acto carnal o próximo a su consumación, mate o lesione a cualquiera de los culpables, o a ambos, salvo el caso de que el matador haya contribuído a la corrupción de su cónyuge. En este último caso se impondrán al homicida de cinco a diez años de prisión.
 
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 1969)</small>
+
 ###### ARTICULO 311.
 
-Se impondrán tres días a tres años de prisión al padre que mate o lesione al corruptor de su hija que esté bajo su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él, sino hubiere procurado la corrupción de su hija con el varón con quien la sorprenda ni con otro.
-
-En este último caso o cuando el padre haya sido condenado como responsable de un homicidio o del delito de lesiones, se le impondrán de cuatro a cinco años de prisión.
+Se impondrán tres días a tres años de prisión, al ascendiente que mate o lesione al corruptor del descendiente que esté bajo su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él, si no hubiere procurado la corrupción de su descendiente con el varón con quien lo sorprenda, ni con otro.
 
 ###### ARTICULO 312.
 
@@ -3631,6 +3631,10 @@ D.O.F. 24 DE DICIEMBRE DE 1968.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 18 DE FEBRERO DE 1969.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO 2o.
 
