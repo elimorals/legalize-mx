@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1996-05-10"
+last_updated: "1996-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -111,9 +111,9 @@ Los servidores públicos encargados de la prestación de los servicios, así com
 
 No podrán realizarse convenios ni acuerdo alguno donde se autorice el manejo y administración de los recursos provenientes de los cobros que establece esta Ley, salvo lo previsto en la misma y en los Convenios de Coordinación en materia de Administración de Ingresos Federales, que el Gobierno Federal celebre con las Entidades Federativas.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Las cuotas de los derechos que correspondan a servicios en donde la mayoría de los costos se cubran en moneda extranjera y las de los derechos por el uso o aprovechamiento de bienes del dominio público de la Nación que señale el Congreso de la Unión, se incrementarán o disminuirán semestralmente en los meses de enero y julio, en la proporción en que fluctúe en el periodo el valor de la moneda nacional en relación con la extranjera con la que, en su caso, se cubran dichos costos, considerando el tipo de cambio libre a la venta, en billete, del último día hábil del semestre inmediato anterior al de su aplicación, que dé a conocer el Banco de México. Dichos servicios son los prestados por oficinas de la Federación en el extranjero y por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
+Las cuotas de los derechos que correspondan a servicios en donde la mayoría de los costos se cubran en moneda extranjera y las de los derechos por el uso o aprovechamiento de bienes del dominio público de la Nación que señale el Congreso de la Unión, se incrementarán o disminuirán semestralmente en los meses de enero y julio, en la proporción en que fluctúe en el periodo el valor de la moneda nacional en relación con la extranjera con la que, en su caso, se cubran dichos costos, considerando el tipo de cambio a la venta, en billete, del antepenúltimo día hábil del semestre inmediato anterior al de su aplicación, que dé a conocer el Banco de México. Dichos servicios son los prestados por oficinas de la Federación en el extranjero y por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -219,11 +219,11 @@ Asimismo no se pagará el derecho a que se refiere este artículo por los servic
 
 Cuando se soliciten constancias u otros documentos a alguna de las dependencias a que se refiere este artículo con motivo de la relación laboral entre el solicitante y la dependencia, no se pagarán los derechos a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 6o.
 
-Para determinar las cuotas de los derechos establecidos en esta Ley, se considerarán, inclusive, las fracciones del nuevo peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del nuevo peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad del nuevo peso inmediata superior.
+Para determinar las cuotas de los derechos establecidos en esta Ley, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad de peso inmediata superior.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -251,75 +251,9 @@ IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 En todo caso, las autoridades fiscales podrán autorizar el pago en cualquier otra moneda.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
 ###### ARTICULO 7o.
 
-Los productos provenientes de servicios que prestan la Federación o sus órganos administrativos desconcentrados, que corresponden a funciones de derecho privado o por el uso, aprovechamiento o enajenación de bienes del dominio privado, se cobrarán por los mismos.
-
-Dentro de esos conceptos se encuentran, entre otros los siguientes:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-I.- Exámenes médicos que presta la Secretaría de Comunicaciones y Transportes en relación con el transporte federal.
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-II.- Prestación de servicios de examen y expedición de credenciales para radio operadores, radio experimentadores y radio aficionados que presta la Secretaría de Comunicaciones y Transportes.
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-III.- Acceso o uso de aparatos o instrumentos tales como cámaras fotográficas, auriculares o cualquier otro de audición o proyección de películas a zonas arqueológicas, museos, monumentos históricos o artísticos a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, dependientes de la Secretaría de Educación Pública.
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-IV.- Uso de estacionamientos para vehículos en las zonas arqueológicas, museos, monumentos históricos o artísticos a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, dependientes de la Secretaría de Educación Pública.
-
-V.- Enajenación de tarjetas postales o cartas postales por las diversas dependencias del Gobierno Federal o sus organismos.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-VI.- Enajenación de publicaciones, incluyendo suscripciones.
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-VII.- Acceso a espectáculos públicos a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, dependientes de la Secretaría de Educación Pública.
-
-VIII.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-IX.- Por el servicio de copias fotográficas y venta al público de reproducciones de los monumentos históricos o artísticos, museos y de las zonas de monumentos arqueológicos que proporcionan los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, dependientes de la Secretaría de Educación Pública.
-
-X.- Servicio de fotocopiado de documentos a particulares.
-
-XI.- Servicios de amonedación y acuñación que presta la Dirección General de Casa de Moneda de la Secretaría de Hacienda y Crédito Público a estados extranjeros y a particulares.
-
-XII.- Enajenación de la Carta Agraria Nacional.
-
-XIII.- Alquiler, mantenimiento de equipo y supervisión y mantenimiento de circuitos que presta el órgano desconcentrado "Servicios a la Navegación en el Espacio Aéreo Mexicano" dependiente de la Secretaría de Comunicaciones y Transportes.
-
-XIV.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-XV.- Los provenientes del uso o aprovechamiento de bienes del dominio privado o de la enajenación de dichos bienes.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XVI.- Contraste de artículos de joyería y orfebrería y expedición del certificado respectivo.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XVII.- Organización de expediciones cinegéticas, así como de grupos de pesca deportiva procedentes del extranjero.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XVIII.- Servicios de laboratorio cuando el servicio no es obligatorio para el particular.
-
-XIX.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-La Secretaría de Hacienda y Crédito Público determinará las reglas para el control de los ingresos que se recauden por los conceptos a que se refiere este artículo.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ## TITULO I. De los Derechos por la Prestación de Servicios
 
@@ -397,6 +331,14 @@ V.- Estudiante, por cada revalidación anual................ 322,000.00
 
 VI.- Visitante provisional.............. 3,000.00
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- Ministro de culto o asociado religioso:
+
+a).- Por el otorgamiento de la característica.............. $ 493.00
+
+b).- Por cada prórroga.............. $ 493.00
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Por el cambio de característica migratoria dentro de la calidad de no inmigrante, se pagarán los derechos que correspondan al otorgamiento de la nueva característica a adquirir.
@@ -411,9 +353,9 @@ No pagarán el derecho por servicios migratorios a que se refiere la fracción I
 
 Por la expedición de autorización en la que se otorga calidad migratoria de inmigrantes en sus distintas características a extranjeros, así como por refrendo, se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Autorización como inmigrante en las diferentes características de rentista, inversionista, profesionista, cargo de confianza, científico en actividades lucrativas, técnico, artista, deportista y familiares del solicitante............... $ 429,000.00
+I.- Autorización como inmigrante en las diferentes características de rentista, inversionista, profesionista, cargo de confianza, científico en actividades lucrativas, técnico, artista, deportista, asimilado y familiares del solicitante............ $ 1,066.00
 
 II.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -431,7 +373,9 @@ No pagarán los derechos a que se refiere este artículo, los científicos en ac
 
 Para el otorgamiento de la calidad de inmigrado, se pagarán las siguientes cuotas:
 
-I.- Por la expedición de la declaratoria de inmigrado……….. N$ 506.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Por la expedición de la declaratoria de inmigrado.............. $ 1,300.00
 
 II.- Por la expedición de permisos a inmigrados para ejercer otras actividades distintas a las que le hubieran sido autorizadas, por cada uno.............. N$ 506.00
 
@@ -473,9 +417,15 @@ VII.- Refugiado.
 
 VIII.- Transmigrante.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IX.- Corresponsal.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 12.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que ingresen a territorio nacional, se cobrará la cuota de $20.00.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -487,9 +437,9 @@ Por la expedición de permisos, constancias y certificados a extranjeros, se pag
 
 I.- Constancia para contraer matrimonio con nacional............. $ 697.61
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Certificado para realizar trámites judiciales o administrativos con propósitos de divorcio o de nulidad de matrimonio con nacional mexicano............. $ 536.04
+II.- Certificado para realizar trámites judiciales o administrativos con propósitos de divorcio o de nulidad de matrimonio con nacional mexicano............... $ 2,000.00
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -507,7 +457,9 @@ V.- Constancias de legal internación, legal estancia, salida y regreso al país
 
 Por la reposición de la forma migratoria respectiva, se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
 
-I.- De no inmigrante............... $ 3,000.00
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- De no inmigrante.............. $ 200.00
 
 II.- De inmigrante................. $ 6,000.00
 
@@ -525,13 +477,13 @@ Por los servicios migratorios que se presten en días inhábiles o fuera del hor
 
 I.- En puertos marítimos:
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Por cada revisión de la documentación de la tripulación en embarcaciones cargueras, al desembarque y despacho, respectivamente............... N$ 740.00
+a).- Por cada revisión de la documentación de la tripulación en embarcaciones cargueras, al desembarque y despacho, respectivamente............... $ 1,700.00
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente......... N$ 443.00
+b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente.............. $ 1,100.00
 
 Cuando el servicio migratorio extraordinario en puertos marítimos se preste a embarcaciones fondeadas, se incrementará el derecho correspondiente con un 25% adicional.
 
@@ -542,6 +494,10 @@ No se pagarán los derechos por servicios migratorios extraordinarios, cuando po
 > <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- En aeropuertos internacionales, por cada revisión de la documentación de pasajeros en vuelos de fletamento, al ingreso y a la salida del país................ N$ 245.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de las aeronaves particulares que sin fines de lucro se utilicen para la transportación privada de pasajeros no se pagará el derecho de servicios migratorios extraordinarios a que se refiere esta fracción.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -625,151 +581,87 @@ No se pagará el derecho de publicaciones a que se refiere el artículo anterior
 
 Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública Federal y, en su caso, los gobiernos de las entidades federativas, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, así como de los documentos cuya inserción ordenen en la Sección de Avisos del Diario Oficial de la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. Servicios de Cinematografía y Radio
+#### SECCION CUARTA. Servicios de Cinematografía, Televisión y Radio
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-C.
 
-Por los servicios de supervisión de películas o de material grabado en cualquiera de sus formas, se pagará el derecho de cinematografía conforme a las siguientes cuotas:
+Por los servicios en materia de cinematografía se pagará el derecho de cinematografía, conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+I.- Supervisión para, en su caso, clasificación y autorización de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
 
-A.- Supervisión de películas para su exhibición pública en cualquier local o exhibición en televisión, a través de cualquier señal, o para su comercialización, incluidas la renta o venta:
+a).- De 35 milímetros o más, por rollo de 300 metros o fracción $125.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+b).- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción $63.00
 
-I.- De 35 milímetros o mas por rollo de 300 metros o fracción $ 2,000.00
+c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción $313.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-II.- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción $1,000.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción N$ 166.00
-
-IV.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-B.- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-C.- Supervisión de comerciales para televisión en cualquiera de sus formas: filmado en 35 milímetros, 16 milímetros, videogramas, 8 milímetros y super 8 milímetros:
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-I.- Hasta de 30 segundos $2,000.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-II.- De más de 30 y hasta 60 segundos $2,000.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III.- De más de 60 y hasta 180 segundos $6,000.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- De más de 180 segundos $8,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-D.- Supervisión del guión o libreto de televisión, para cada 30 minutos o fracción $26,500.00
+II.- Expedición de certificados de origen de material filmado y grabado $373.00
 
 ###### ARTICULO 19-D.
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-E.
 
-Por el otorgamiento de autorizaciones y la expedición de certificados de origen, en materia de televisión y cinematografía, se pagará el derecho de cinematografía, conforme a las siguientes cuotas:
+Por los servicios en materia de televisión se pagará el derecho de televisión, conforme a las siguientes cuotas:
 
-I.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+I.- Autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación proveniente del extranjero:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+a).- Por cada canal cuya programación, en más del 50% de su tiempo, esté en el supuesto de esta fracción.............. $ 3,000.00
 
-II.- Autorización para la transmisión o distribución en México de señales cuyos contenidos se hayan producido en el extranjero:
+b).- Por cada programa o conjunto de programas de una misma especie y fuente de derechos de explotación comercial, que no corresponda al supuesto del inciso anterior.............. $ 300.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+II.- Por la autorización anual o modificación de las condiciones de programa de concurso.............. $ 373.00
 
-a).- Anual al concesionario o permisionario de un sistema de televisión por cable, señal restringida o satelital, por cada canal cuyo contenido, en su mayoría se produzca en el extranjero............. $ 1,092.00
+III.- Por la autorización anual por transmisiones en idioma extranjero.............. $ 373.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+IV.- Por la autorización anual por modificación de los períodos de propaganda comercial............... $ 362.00
 
-b).- Al concesionario o permisionario de un sistema de televisión abierta, por cada programa o conjunto de programas de una misma especie y fuente de derechos de explotación comercial, a transmitirse en plazo determinado de tiempo.............. $ 109.16
+V.- Por la autorización anual por canal para superposición en la imagen de mensajes publicitarios de corta duración.............. $ 362.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+VI.- Supervisión para, en su caso, clasificación y autorización de películas destinadas a su exhibición en televisión, a través de cualquier señal, en videograma o material grabado en cualquier formato o modalidad, por cada media hora o fracción.............. $ 313.00
 
-III.- Por la autorización anual de programa de concurso....... N$ 198.00
+VII.- Supervisión para, en su caso, clasificación y autorización de comerciales destinados a trasmitirse por televisión, en cualquier formato o modalidad:
 
-IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+a).- Hasta 30 segundos.............. $ 125.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+b).- De más de 30 y hasta 60 segundos.............. $ 251.00
 
-V.- Expedición de certificados de origen de material grabado y filmado.................. N$ 198.00
+c).- De más de 60 y hasta 180 segundos.............. $ 376.00
 
-VI.- Autorización para reproducción de videograma registrado............... $ 150,000.00
+d).- De más de 180 segundos............... $ 501.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+VIII.- Supervisión para, en su caso, clasificación y autorización del guión o libreto para televisión, por cada 30 minutos o fracción.............. $ 66.00
 
-VII.- Autorización anual por transmisiones en idioma extranjero.................. N$ 198.00
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VIII.- Autorización anual por modificación de los periodos de propaganda comercial.... N$ 192.00
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IX.- Autorización por evento para superposición en la imagen de mensajes publicitarios de corta duración.................. N$ 192.00
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-F.
 
-Por el otorgamiento de autorizaciones en materia de radio, se pagará el derecho de radio, conforme a las siguientes cuotas:
+Por los servicios en materia de radio se pagará el derecho de radio, conforme a las siguientes cuotas:
 
-I.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+I.- Por la autorización anual para transmitir señales del extranjero en México........ $ 164.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+II.- Por la autorización anual o modificación de las condiciones de programa de concurso................ $ 373.00
 
-II.- Autorización anual para transmitir señales del extranjero en México.................. N$ 87.00
+III.- Por la autorización anual por transmisiones en idioma extranjero.............. $ 373.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- Por la autorización anual de programa de concurso....... N$ 198.00
-
-IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-V.- Autorización anual por transmisiones en idioma extranjero.................. N$ 198.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VI.- Autorización anual por modificación o alteración de los periodos de propaganda comercial.................. N$ 198.00
-
-VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+IV.- Por la autorización anual por modificación o alteración de los períodos de propaganda comercial.............. $ 373.00
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION QUINTA. Apostillamiento
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-G.
 
-Por el apostillamiento de documentos públicos federales, por cada documento............. $ 220.00
+Por el apostillamiento de documentos públicos federales, por cada documento $ 220.00.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -789,13 +681,39 @@ III.- Por la expedición del permiso de visita turística.............. $ 300.00
 
 IV.- Por la expedición de la concesión en territorio insular..... $ 800.00
 
-#### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+#### SECCION SEPTIMA. Servicios Privados de Seguridad
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 19-I.
+
+Por la realización de trámites relacionados con los servicios privados de seguridad a que se refiere el artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, cuando dichos servicios comprendan dos o más entidades federativas, las empresas pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud de autorización:
+
+a).- Para prestar los servicios de vigilancia en inmuebles.............. $ 5,000.00
+
+b).- Para prestar los servicios de traslado y custodia de bienes.............. $ 5,000.00
+
+c).- Para prestar los servicios de traslado y protección de personas.............. $ 5,000.00
+
+II.- Por la expedición de la autorización............... $ 1,500.00
+
+III.- Por la inscripción en el Registro Nacional del Personal de Seguridad Pública de cada integrante de las empresas que presten los servicios a que se refiere este artículo..... $ 50.00
+
+IV.- Por la inscripción en el Registro Nacional de Armamento y Equipo de cada arma de fuego o equipo a que se refiere este artículo.............. $ 15.00
+
+V.- Por consulta de antecedentes policiales, por cada elemento.............. $ 15.00
+
+VI.- Por cambio de representante legal............... $ 2,300.00
+
+VII.- Por cambio en la titularidad de las acciones o partes sociales.............. $ 2,300.00
 
 ### CAPITULO II. De la Secretaría de Relaciones Exteriores
 
-#### SECCION SEGUNDA. ServiciosConsulares (sic)
+#### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -805,17 +723,17 @@ Por la expedición de cada pasaporte o documento de identidad y viaje, se pagar�
 
 I.- Pasaportes ordinarios con validez no mayor de tres años a estudiantes, becarios y trabajadores que presten sus servicios fuera de la República Mexicana......... $ 46,500.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por un año, no comprendidos en la fracción anterior.............. $ 120.00
+II.- Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por un año, no comprendidos en la fracción anterior.............. $ 200.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por cinco años............. $ 310.00
+III.- Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por cinco años.............. $ 525.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Pasaportes ordinarios con validez hasta por diez años........... $ 520.00
+IV.- Pasaportes ordinarios con validez hasta por diez años.............. $ 845.00
 
 V.- Pasaportes oficiales con validez hasta por un año............. $ 77,500.00
 
@@ -829,7 +747,7 @@ VII.- Por el refrendo de pasaportes oficiales............... $ 46,500.00
 
 Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio Exterior Mexicano no pagarán los derechos a que se refiere esta Sección, respecto a la expedición y refrendo de pasaportes oficiales.
 
-#### SECCION TERCERA. Permisos Conforme al Artículo 27 Constitucional y Cartas de Naturalización
+#### SECCION SEGUNDA. ServiciosConsulares (sic)
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -837,55 +755,45 @@ Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio 
 
 Los derechos por la prestación de servicios consulares se pagarán como sigue:
 
-I.- Actuaciones matrimoniales.............. $ 93,000.00
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Legalización de firmas o sellos............... $ 77,500.00
+I.- Actuaciones matrimoniales.............. $ 265.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+II.- Legalización de firmas o sellos.............. $ 225.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Visas de:
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+a).- Certificados de análisis, de libre venta, de origen y médicos, por cada uno...... $ 270.00
 
-a).- Certificados de análisis, de libre venta, de origen y médicos, por cada uno.......... N$ 100.00
+b).- Lista de menaje de casa a mexicanos.............. $ 530.00
 
-b).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
+c).- Lista de menaje de casa a extranjeros.............. $ 710.00
 
-c).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+d).- Ordinarias en pasaportes extranjeros, cuando no exista convenio o acuerdo unilateral de supresión de visas.............. $ 225.00
 
-d).- (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
+e).- Especial en pasaportes extranjeros con vigencia hasta por diez años.............. $ 355.00
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+Los derechos por la expedición de las visas ordinarias o especiales en pasaportes extranjeros a que se refieren los incisos d) y e) de esta fracción, podrán exentarse o reducirse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
 
-e).- Lista de menaje de casa a mexicanos……..... N$ 195.00
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-f).- Lista de menaje de casa a extranjeros……….. N$ 260.00
-
-g).- Ordinarias en pasaportes extranjeros, cuando no exista convenio o acuerdo unilateral de supresión de visas............... $ 77,500.00
-
-h).- Especial en pasaportes extranjeros con vigencia hasta por diez años.............. $ 124,000.00
-
-Los derechos por la expedición de las visas ordinarias o especiales en pasaportes extranjeros a que se refieren los incisos g) y h) de esta fracción, podrán exentarse o reducirse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Expedición de certificados de:
 
-a).- Constitución de sociedades extranjeras, importación de armas, municiones, detonantes, explosivos y artificios químicos y de pasavantes o patentes provisionales de navegación, por cada uno............. $ 404,000.00
+a).- Constitución de sociedades extranjeras, importación de armas, municiones, detonantes, explosivos y artificios químicos y de pasavantes o patentes provisionales de navegación, por cada uno.............. $ 1,130.00
 
-b).- Matrícula consular a mexicanos, por cada una.............. $ 49,500.00
+b).- Matrícula consular a mexicanos, por cada una.............. $ 140.00
 
-c).- Turista cinegético............... $ 311,000.00
+c).- Importación de psicotrópicos y estupefacientes.............. $ 80.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+d).- Copia certificada de actas del registro civil, por cada una.............. $ 80.00
 
-d).- Copia certificada de actas del registro civil, por cada una............ $ 40.00
+e).- Otros certificados, a petición de parte, por cada uno.............. $ 385.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-e).- Otros certificados a petición de parte, por cada uno......... $ 190.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- Cotejo de documentos, relacionados con servicios consulares, por cada uno...............$ 40.00
+V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F 18 DE DICIEMBRE DE 1992)</small>
 
@@ -897,31 +805,45 @@ Cuando los servicios a que se refiere este artículo, sean prestados en territor
 
 Los derechos por la prestación de servicios notariales en las oficinas consulares mexicanas, se pagarán conforme a las siguientes cuotas:
 
-I.- Por la renuncia de derechos hereditarios.............. $ 248,000.00
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Por la renuncia de derechos hereditarios.............. $ 715.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
-a).- Generales o especiales otorgados por personas físicas............. $ 248,000.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- Generales o especiales otorgados por personas morales.............. $ 373,000.00
+a).- Generales o especiales otorgados por personas físicas.............. $ 715.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Por cada testamento público abierto............... $ 900.00
+b).- Generales o especiales otorgados por personas morales .............. $ 1,075.00
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por la expedición de subsecuentes testimonios, por hoja........... N$ 16.00
+III.- Por cada testamento público abierto.............. $ 1,830.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-V.- Por la recepción del testamento ológrafo o público cerrado, por cada uno............... $ 450.00
+IV.- Por la expedición de subsecuentes Testimonios, por hoja .............. $ 45.00
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por las autorizaciones que otorguen las personas que ejerzan la patria potestad o la tutela sobre menores o incapaces................. N$ 100.00
+V.- Por la recepción de cada testamento ológrafo.............. $ 915.00
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por cada testamento público cerrado.............. $ 250.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- Por las autorizaciones que otorguen las personas que ejerzan la patria potestad o la tutela sobre menores o incapaces............... $ 275.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Cotejo de documentos............... $ 80.00
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
@@ -963,6 +885,10 @@ IV.- El registro de nacimientos y el registro de defunciones.
 
 V.- El visado a los permisos de tránsito y certificado de embalsamamiento de cadáveres.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Certificado de turista cinegético.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 No pagarán los derechos por los servicios que se establecen en esta sección, los extranjeros, en caso de reciprocidad del país del que son nacionales.
@@ -973,7 +899,9 @@ No pagarán los derechos por los servicios que se establecen en esta sección, l
 
 > <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
 
-#### SECCION PRIMERA. Inspección y Vigilancia
+#### SECCION TERCERA. Permisos Conforme al Artículo 27 Constitucional y Cartas de Naturalización
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 25.
 
@@ -1007,7 +935,7 @@ c).- Para celebrar cesiones de derechos fideicomisarios. $ 1'000,000.00
 
 d).- Para los demás casos no señalados en los incisos anteriores. $ 112.00
 
-VI.- Para la celebración de contratos de arrendamiento, cuando el término del contrato exceda de diez años, por sociedades, asociaciones o extranjeros. $ 200,000.00
+VI.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -1027,9 +955,7 @@ X.- Por cada aviso extemporáneo sobre el convenio de extranjería a que se refi
 
 XI.- Por la presentación de cada aviso notarial de uso de permiso en la constitución de sociedades o asociaciones y de reformas a sus estatutos. $ 84.00
 
-> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-XII.- Para que las instituciones y organizaciones auxiliares del crédito adquieran por adjudicación o de cualquier otra forma, inmuebles en la zona restringida del territorio nacional. N$ 500.00
+XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -1089,9 +1015,7 @@ c).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 ### CAPITULO III. De la Secretaría de Hacienda y Crédito Público
 
-#### SECCION SEGUNDA. Registro Nacional de Valores e Intermediarios
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+#### SECCION PRIMERA. Inspección y Vigilancia
 
 ###### ARTICULO 27.
 
@@ -1111,159 +1035,421 @@ I.- El importe de los estímulos que se concedan de conformidad con la Ley del I
 
 II.- El importe de los estímulos cuando en la disposición en que se otorguen, se exima expresamente del pago de estos derechos.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29.
 
-Las entidades financieras constituidas como banca múltiple, banca de desarrollo, arrendadoras financieras y empresas de factoraje financiero, que están sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
+Las sociedades controladoras de grupos financieros, pagarán anualmente el derecho de inspección y vigilancia conforme a la cuota equivalente al 0.75 al millar de su capital social más reservas de capital, sin que la cantidad a pagar por este concepto sea inferior a $222,868.00 ni superior a $251,187.00.
 
-I.- Se determinará el monto total de los pasivos correspondientes a cada uno de los sectores mencionados. La Comisión mencionada calculará la proporción de participación de cada entidad en el pasivo total del sector al que pertenezca, dividiendo el pasivo de la entidad entre el pasivo total del sector, y el cociente se expresará en términos porcentuales.
-
-II.- Al monto total de cuotas actualizadas por sector, se aplicarán los porcientos determinados para cada entidad conforme a la fracción anterior.
-
-III.- El importe determinado conforme a la fracción que antecede no podrá ser inferior a la cuota actualizada del ejercicio inmediato anterior, ni a la cuota establecida para las entidades de nueva creación.
-
-IV.- Al resultado obtenido conforme a lo señalado en las fracciones II y III que anteceden, a cada entidad, se adicionará la cantidad equivalente a:
-
-a).- 1.0 al millar del saldo de la cartera de créditos vencida menos el monto de las provisiones preventivas para riesgos crediticios, en el caso de instituciones de banca múltiple y banca de desarrollo.
-
-b).- 1.0 al millar del saldo de la cartera de créditos vencida menos el monto de las estimaciones para castigos de cartera, tratándose de arrendadoras financieras y empresas de factoraje financiero, que sean subsidiarias de una institución de crédito, o que formen parte de un grupo financiero con institución de crédito.
-
-c).- 0.15 al millar del saldo de la cartera de créditos vencida menos el monto de las estimaciones para castigo de cartera, para el caso de las arrendadoras financieras y empresas de factoraje financiero que no se encuentren en el supuesto previsto en el inciso anterior.
-
-El monto de la cartera vencida de las arrendadoras financieras, se integrará por la suma de las carteras vencidas de arrendamiento financiero y de arrendamiento financiero sindicado con aportaciones, cartera de créditos vencida, rentas y contratos de arrendamiento puro vencidas.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-A.
 
-Los almacenes generales de depósito que están sujetos a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
+Las instituciones de banca múltiple, de banca de desarrollo, arrendadoras financieras y empresas de factoraje financiero, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
 
-I.- Se determinará el monto total de los certificados de depósito en circulación de las entidades de este sector. La Comisión mencionada calculará la proporción de participación de cada uno de los almacenes generales de depósito en ese monto, dividiendo el importe de los certificados correspondientes a cada entidad, entre el monto total de los certificados del sector y el cociente se expresará en términos porcentuales.
+I.- Se determinará el monto total de los pasivos por sector. Posteriormente se calculará la participación de cada entidad en el pasivo total del sector al que pertenezca, dividiendo el pasivo de la entidad entre el pasivo total del sector, y el resultado se expresará en términos porcentuales.
 
-II.- Al monto total de las cuotas actualizadas de este sector, se aplicarán los porcientos determinados para cada almacén general de depósito en términos de la fracción que antecede; el resultado será el importe de los derechos que corresponde pagar a cada entidad.
+II.- A la sumatoria de las cuotas correspondientes al ejercicio inmediato anterior actualizadas, aplicables a las entidades a que se hace referencia en la fracción I que antecede, se le aplicarán los porcentajes determinados para cada entidad conforme a dicha fracción.
 
-III.- El importe de los derechos determinados conforme a la fracción que antecede no podrá ser inferior a la cuota actualizada de que se trate del ejercicio inmediato anterior, ni a la cuota establecida para los almacenes generales de depósito de nueva creación.
+Para los efectos del párrafo anterior, las citadas cuotas actualizadas no deberán incluir las cantidades que hubiesen sido determinadas con base en los saldos de la cartera de créditos vencida, menos el monto de las provisiones para riesgos crediticios o, en su caso, de las estimaciones para castigos de cartera, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+III.- Al resultado obtenido con base en lo señalado en las fracciones I y II que anteceden para cada entidad, se adicionará la cantidad que a continuación se indica, siempre que su importe sea positivo:
+
+a).- 1.0 al millar del saldo de la cartera de créditos vencida menos el monto de las provisiones preventivas para riesgos crediticios en el caso de las instituciones de banca múltiple y de banca de desarrollo.
+
+b).- 1.0 al millar del saldo de la cartera de créditos vencida menos el monto de las estimaciones para castigos de cartera, tratándose de arrendadoras financieras y empresas de factoraje financiero que sean subsidiarias de una institución de banca múltiple o que formen parte de un grupo financiero con institución de banca múltiple.
+
+c).- 0.15 al millar del saldo de la cartera de créditos vencida menos el monto de las estimaciones para castigo de cartera, para el caso de las arrendadoras financieras y empresas de factoraje financiero que no se encuentren en el supuesto previsto en el inciso anterior.
+
+El monto de la cartera vencida de las arrendadoras financieras, se integrará por la suma de las carteras vencidas de arrendamiento financiero y de arrendamiento financiero sindicado con aportaciones, cartera de créditos, rentas y contratos de arrendamiento puro vencidas.
+
+IV.- El importe de los derechos a pagar determinados conforme a las fracciones I y II anteriores, no podrá ser inferior a las cuotas señaladas en el artículo 29-K aplicables para las entidades de nueva creación, por tipo de entidad.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-B.
 
-Las casas de cambio que están sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
+Los almacenes generales de depósito deberán pagar anualmente el derecho de inspección y vigilancia conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
 
-I.- Se determinará el monto total del capital contable de este sector. La Comisión mencionada calculará la proporción de participación de cada una de las casas de cambio en ese monto, dividiendo el capital contable de cada entidad, entre el total del capital contable del sector y el cociente se expresará en términos porcentuales.
+I.- Se determinará el monto total de los certificados de depósito en circulación que alcancen en su conjunto las entidades de este sector. Posteriormente se calculará la proporción de participación de cada una de estas entidades, dividiendo el importe de los certificados correspondientes a cada entidad, entre el monto total de los certificados del sector y el resultado se expresará en términos porcentuales.
 
-II.- Al monto total de cuotas actualizadas de este sector, se aplicarán los porcientos determinados para cada casa de cambio en términos de la fracción que antecede; el resultado será el importe de los derechos que corresponde pagar a cada entidad.
+II.- Al monto total de las cuotas para este sector determinadas en el ejercicio inmediato anterior actualizadas, se le aplicarán los porcentajes obtenidos para cada entidad en los términos de la fracción que antecede. El resultado será el importe de los derechos que corresponderá pagar a cada entidad.
 
-III.- El importe de los derechos determinados conforme a la fracción que antecede no podrá ser inferior a la cuota actualizada de que se trate del ejercicio inmediato anterior, ni a la cuota establecida para las casas de cambio de nueva creación.
+III.- El importe de los derechos a pagar por cada entidad determinados conforme a la fracción que antecede, no podrá ser inferior a la cuota señalada en el artículo 29-K aplicables para los almacenes generales de depósito de nueva creación.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-C.
 
-Las sociedades de ahorro y préstamo que están sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
+Las casas de cambio deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
 
-I.- Se determinará el monto total de los pasivos de este sector. La Comisión mencionada calculará la proporción de participación de cada una de las sociedades de ahorro y préstamo en ese monto, dividiendo el pasivo de cada entidad, entre el pasivo total del sector y el cociente se expresará en términos porcentuales.
+I.- Se determinará el monto total del capital contable que alcancen en su conjunto las entidades en este sector. Posteriormente se calculará la proporción de participación de cada una de estas entidades, dividiendo el capital contable de la entidad entre el capital contable total del sector y el resultado se expresará en términos porcentuales.
 
-II.- Al monto total de cuotas actualizadas de este sector, se aplicarán los porcientos determinados para cada sociedad de ahorro y préstamo en términos de la fracción que antecede; el resultado será el importe de los derechos que corresponde pagar a cada entidad.
+II.- Al monto total de las cuotas para este sector determinadas en el ejercicio inmediato anterior actualizadas, se le aplicarán los porcentajes obtenidos para cada entidad en los términos de la fracción que antecede. El resultado será el importe de los derechos que corresponderá pagar a cada entidad.
 
-III.- El importe de los derechos determinados conforme a la fracción que antecede no podrá ser inferior a la cuota actualizada del ejercicio inmediato anterior, ni a la cuota establecida para las sociedades de ahorro y préstamo de nueva creación.
+III.- El importe de los derechos a pagar por cada entidad determinados conforme a la fracción que antecede, no podrá ser inferior a la cuota señalada en el artículo 29-K aplicables para las casas de cambio de nueva creación.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-D.
 
-Las sociedades financieras de objeto limitado que están sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, pagarán anualmente el derecho de inspección y vigilancia, conforme a la cuota de $ 63,000.00.
+Las sociedades de ahorro y préstamo deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- Se determinará el monto total de los pasivos que alcance en su conjunto las entidades en este sector. Posteriormente se calculará la proporción de participación de cada una de estas entidades, dividiendo el pasivo de cada entidad entre el pasivo total del sector y el resultado se expresará en términos porcentuales.
+
+II.- Al monto total de las cuotas para este sector determinadas en el ejercicio inmediato anterior actualizadas, se le aplicarán los porcentajes obtenidos para cada entidad en los términos de la fracción que antecede. El resultado será el importe de los derechos que corresponderá pagar a cada entidad.
+
+III.- El importe de los derechos a pagar por cada entidad determinados conforme a la fracción que antecede, no podrá ser inferior a la cuota señalada en el artículo 29-K aplicables para las sociedades de ahorro y préstamo de nueva creación.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-E.
 
-Las sociedades controladoras de grupos financieros que están sujetos a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, pagarán anualmente el derecho de inspección y vigilancia, conforme a la cuota equivalente al 0.75 al millar de su capital social más reservas de capital, sin que la cantidad a pagar por este concepto sea inferior a $ 175,500.00, ni superior a $ 197,800.00.
+La sociedades financieras de objeto limitado pagarán anualmente el derecho de inspección y vigilancia de $ 80,004.00.
 
-Las uniones de crédito, las oficinas de representación de entidades financieras del exterior, el Patronato del Ahorro Nacional, los fondos y fideicomisos, las filiales y subsidiarias, las inmobiliarias bancarias y las empresas de servicios auxiliares o complementarios, que están sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a la cuota actualizada del ejercicio inmediato anterior, sin que la cantidad a pagar por este concepto sea inferior a $ 15,000.00.
-
-Las sociedades de información crediticia que están sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, deberán pagar anualmente el derecho de inspección y vigilancia, conforme a la cuota de $ 42,000.00.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-F.
 
-Las entidades finacieras (sic) de nueva creación que estén sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, pagarán el derecho de inspección y vigilancia durante el primer ejercicio fiscal, conforme a las siguientes cuotas:
+Las casas de bolsa deberán pagar anualmente el derecho de inspección y vigilancia, conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
 
-I.- Instituciones de banca múltiple y banca de desarrollo............ $ 540,000.00
+I.- Se determinará el monto total del capital contable que alcancen en su conjunto las entidades en este sector, excluyendo el resultado no realizado por valuación de cartera de valores y la actualización patrimonial.
 
-II.- Sociedades controladoras de grupos financieros............ $ 175,500.00
+Posteriormente, se calculará la proporción de participación de cada una de estas entidades, dividiendo el capital obtenido conforme al párrafo anterior, entre el monto del capital del sector y el resultado se expresará en términos porcentuales.
 
-III.- Sociedades financieras de objeto limitado............. $ 63,000.00
+II.- Al monto total de las cuotas para este sector determinadas en el ejercicio inmediato anterior actualizadas, se le aplicarán los porcentajes obtenidos para cada entidad en los términos de la fracción que antecede. El resultado obtenido será el importe de los derechos que corresponderá pagar a cada entidad.
 
-IV.- Sociedades de información crediticia.............. $ 42,000.00
+III.- El importe de los derechos a pagar por cada entidad determinados conforme a la fracción que antecede, no podrá ser inferior a la cuota señalada en el artículo 29-T, fracción II, inciso a) aplicable para las casas de bolsa de nueva creación.
 
-V.- Las arrendadoras financieras, empresas de factoraje financiero, almacenes generales de depósito, uniones de crédito, casas de cambio, sociedades de ahorro y préstamo, filiales y subsidiarias, inmobiliarias bancarias, empresas de servicios auxiliares o complementarios, oficinas de representación de entidades financieras del exterior, fondos y fideicomisos.................... $ 15,000.00
+IV.- Por cada oficina, sucursal o agencia establecida pagarán adicionalmente la cantidad de $6,579.00.
 
-En los subsecuentes ejercicios fiscales, los derechos se determinarán conforme a las cuotas o los procedimientos de cálculo establecidos para cada sector o entidad de que se trate.
+Cuando una casa de bolsa pague derechos por inscripción en la sección de intermediarios del Registro Nacional de Valores e Intermediarios, no estará obligada a pagar cuotas por inspección y vigilancia en el ejercicio fiscal en que se realice la inscripción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-G.
 
-Los derechos a que se refieren los artículos 29 a 29-J, de esta Ley, deberán ser pagados:
+Por el estudio y trámite de la solicitud para la constitución de un especialista bursátil, se pagarán $ 8,918.00.
 
-I.- Tratándose de personas morales en doce parcialidades, que se enterarán a más tardar el primer día hábil de cada mes.
+Los especialistas bursátiles deberán pagar anualmente el derecho de inspección y vigilancia equivalente al 0.5 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 369,590.00. Por cada oficina, sucursal o agencia establecida pagarán adicionalmente la cantidad de $ 6,579.00.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Cuando un especialista bursátil pague derechos por inscripción en la sección de intermediarios del Registro Nacional de Valores e Intermediarios, no estará obligado a pagar cuotas por inspección y vigilancia en el ejercicio fiscal en que se realice la inscripción.
 
-II.- En el caso de sociedades controladoras de grupos financieros, así como auditores externos y peritos valuadores, en el mes de enero de cada año o cuando estos últimos presenten su solicitud de registro.
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Para el caso de las entidades financieras de nueva creación, los derechos se cubrirán el día hábil siguiente al del vencimiento del plazo establecido en la autorización para el inicio de operaciones y se causarán proporcionalmente a partir de esta fecha hasta la conclusión del ejercicio fiscal.
-
-La causación de estos derechos para el caso de las entidades de nueva creación se da a partir del día hábil siguiente al del vencimiento del plazo establecido en la autorización para el inicio de operaciones.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-H.
 
-Por las actuaciones de intervención gerencial de la Comisión Nacional Bancaria y de Valores, se pagará mensualmente el derecho por intervención gerencial, conforme a las siguientes cuotas:
+Las sociedades operadoras de las sociedades de inversión deberán pagar los siguientes derechos:
 
-I.- Para instituciones de banca múltiple.............. $ 415,000.00
+I.- Por el estudio y trámite de la solicitud de autorización para la constitución y operación............... $ 8,918.00
 
-II.- Para casas de bolsa.............. $ 207,500.00
+II.- Por la autorización para la constitución y operación.............. $ 91,716.00
 
-III.- Para las demás entidades supervisadas, el doble de la cuota que corresponda a la entidad de que se trate como pago mensual por el derecho de inspección y vigilancia, o la parte proporcional de la cuota anual cuando el pago sea en otras parcialidades.
+III.- Por la autorización de sociedades operadoras exclusivamente de sociedades de inversión de capitales.............. $ 80,291.00
 
-El derecho a que se refiere este artículo, se causará desde la comunicación formal del inicio de la intervención hasta su conclusión.
+IV.- Inspección y vigilancia anual de sociedades operadoras de sociedades de inversión comunes y de inversión en instrumentos de deuda............... $ 19,351.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+V.- Inspección y vigilancia anual de sociedades operadoras exclusivamente de sociedades de inversión de capitales.............. $ 16,941.00
+
+VI.- Por la inspección y vigilancia de cada oficina, distinta de la matriz.............. $ 1,784.00
+
+VII.- Por la apertura de nuevas oficinas............... $ 5,429.00
+
+Cuando se paguen derechos por la autorización para la constitución de una sociedad operadora de sociedades de inversión, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-I.
 
-En el caso de fusión de entidades sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, el importe de los derechos a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será por la suma de las cuotas que correspondan a las entidades participantes en la fusión.
+Las sociedades de inversión deberán pagar anualmente por el derecho de inspección y vigilancia el equivalente al 0.75 al millar respecto al monto en circulación de las acciones representativas de su capital social, valuadas a precio corriente en el mercado, sin que los derechos a pagar por este concepto excedan de $ 126,991.00. No quedarán comprendidas para los efectos del presente artículo, las sociedades de inversión especializadas en fondos para el retiro.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en la sección de valores del Registro Nacional de Valores e Intermediarios, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-J.
 
-Por otros servicios que proporciona la Comisión Nacional Bancaria y de Valores, distintos a los establecidos en la Sección Segunda de este Capítulo, se pagará el derecho de autorización y registro, conforme a las siguientes cuotas:
+Por el estudio y trámite de la solicitud para la constitución de sociedades inmobiliarias y empresas de servicios auxiliares o complementarios se pagarán $ 8,918.00.
 
-I.- Por el estudio y trámite de la autorización para operar una unión de crédito, el importe equivalente al 3% del capital social mínimo vigente.
+Las oficinas o agencias de representación de entidades financieras del exterior establecidas en el país, las uniones de crédito, el Patronato del Ahorro Nacional, los fondos y fideicomisos públicos de fomento económico que realicen actividades financieras y que estén sujetos a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, así como las filiales, subsidiarias, inmobiliarias y empresas de servicios auxiliares o complementarios, deberán pagar anualmente el derecho de inspección y vigilancia conforme a la cuota actualizada del ejercicio inmediato anterior, sin que la cantidad a pagar por este concepto sea inferior a $ 19,049.00.
 
-II.- Por registro y refrendo anual de registro para auditores externos, la cuota de........... $ 15,000.00
+El importe de las cuotas que deberán pagar las oficinas o agencias de representación, fondos o fideicomisos públicos y empresas de nueva creación referidos en el párrafo anterior, determinados de conformidad con este mismo artículo, no podrán ser inferiores a la cuota señalada en el artículo 29-K aplicable para las oficinas, fideicomisos y empresas de referencia.
 
-III.- Por el registro y servicios de inspección y vigilancia anual a peritos valuadores......... $ 2,400.00
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-K.
 
-Los montos de los pasivos, carteras vencidas, provisiones preventivas para riesgos crediticios, estimaciones para castigos de cartera, certificados de depósito en circulación y capital contable a que se refieren los artículos 29, 29-A, 29-B y 29-C de esta Ley, se determinarán según cifras definitivas más recientes con que cuente la Comisión Nacional Bancaria y de Valores, y se darán a conocer por la Secretaría de Hacienda y Crédito Público, a más tardar el 31 de enero de cada año. Dicha Secretaría dará a conocer a las entidades de los sectores correspondientes, como facilidad administrativa, el resultado de las operaciones aritméticas previstas en dichos artículos.
+Las entidades financieras de nueva creación, pagarán derechos de inspección y vigilancia durante el primer ejercicio fiscal en el cual inicien operaciones, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- Sociedades controladoras de grupos financieros.............. $ 222,869.00
+
+II.- Instituciones de banca múltiple y de banca de desarrollo.............. $ 685,749.00
+
+III.- Arrendadoras financieras, empresas de factoraje financiero, almacenes generales de depósito, uniones de crédito, sociedades de ahorro y préstamo, casas de cambio... $ 19,049.00
+
+IV.- Las oficinas o agencias de representación, fondos o fideicomisos públicos de fomento económico y demás empresas a que se refiere el artículo 29-J............... $ 19,049.00
+
+En los subsecuentes ejercicios fiscales, los derechos se determinarán conforme a las cuotas establecidas para cada sector y entidad de que se trate, sin que en caso alguno sea inferior a las cuotas aquí establecidas.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 29-L.
 
-Los ingresos que se obtengan por los derechos a que se refieren las Secciones Primera y Segunda de este Capítulo, se destinarán a la Comisión Nacional Bancaria y de Valores.
+Por las actuaciones de intervención gerencial de la Comisión Nacional Bancaria y de Valores se pagará mensualmente el derecho por intervención gerencial, conforme a las siguientes cuotas:
+
+I.- Instituciones de banca múltiple.............. $ 527,011.00
+
+II.- Casas de bolsa.............. $ 263,505.00
+
+III.- Para las demás entidades financieras, el doble de la cuota que corresponda a la entidad de que se trate como pago mensual por el derecho de inspección y vigilancia, o la parte proporcional de la cuota anual cuando el pago sea en otras parcialidades.
+
+Los derechos a que se refiere este artículo, se causarán desde la notificación formal del inicio de la intervención hasta su conclusión y no incluyen los gastos directos en que se incurra con motivo de la intervención gerencial de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-M.
+
+En el caso de fusión de entidades financieras o de filiales de entidades financieras del exterior, el importe de los derechos a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será por la suma de las cuotas que correspondan a las entidades participantes en la fusión.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-N.
+
+Para los efectos de lo dispuesto en los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G, 29-H, 29-I y 29-K, quedan comprendidas las filiales de entidades financieras del exterior de cualquier tipo, estando éstas obligadas a pagar las cuotas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29
+
+Ñ.- Las sociedades de información crediticia deberán pagar anualmente el derecho de inspección y vigilancia, conforme a la cuota de $ 53,336.00.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-O.
+
+Las instituciones para el depósito de valores, las bolsas de valores, las instituciones calificadoras de valores y sociedades valuadoras de acciones de sociedades de inversión, deberán pagar los siguientes derechos:
+
+I.- Las instituciones para el depósito de valores, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 232,201.00.
+
+II.- Las bolsas de valores, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 438,114.00.
+
+III.- Las sociedades calificadoras de valores:
+
+a).- Por el estudio y trámite de la solicitud de autorización para la constitución de la sociedad.............. $ 8,918.00
+
+b).- Por la autorización de la sociedad.............. $ 91,716.00
+
+c).- Por inspección y vigilancia anual.............. $ 90,615.00
+
+IV.- Sociedades valuadoras de acciones de sociedades de inversión:
+
+a).- Por el estudio y trámite de la solicitud de autorización para la constitución de la sociedad.............. $ 8,918.00
+
+b).- Por la autorización de la sociedad.............. $ 40,146.00
+
+c).- Por inspección y vigilancia anual $ 200.00 por cada sociedad de inversión a la que le valúen sus acciones, sin que los derechos a pagar por este concepto sean inferiores a $ 10,000.00.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-P.
+
+Las personas morales que en su carácter de emisoras tengan inscritos en el Registro Nacional de Valores e Intermediarios, valores, deberán pagar anualmente derechos por concepto de inspección y vigilancia, conforme a los siguientes criterios:
+
+I.- Por valores inscritos en la sección de valores:
+
+a).- De emisoras de cualquier tipo:
+
+1.- Con sólo acciones inscritas.............. 1.20 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 253,981.00.
+
+2.- Con sólo obligaciones inscritas............... 1.20 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 126,991.00.
+
+3.- Con acciones y obligaciones inscritas................ 1.20 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 253,981.00, y 0.80 al millar respecto al monto en circulación de cada emisión de obligaciones, sin que los derechos a pagar por este concepto excedan de $ 63,495.00.
+
+4.- Con títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles o del capital de personas morales. También los valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen.............. 1.20 al millar, respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 126,991.00.
+
+5.- Otros títulos o valores inscritos, distintos a los señalados en los numerales anteriores.............. $ 41,907.00, por cada emisión.
+
+b).- De emisoras que sean entidades financieras de cualquier tipo, incluyendo a las filiales de entidades financieras del exterior:
+
+1.- Con acciones o certificados de aportación patrimonial inscritos, excepto de sociedades operadoras de sociedades de inversión y sociedades de inversión............... 1.20 al millar respecto del capital exhibido y reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 253,981.00.
+
+2.- Bonos u obligaciones............... 1.20 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 158,738.00.
+
+3.- Otros títulos o valores representativos de un pasivo a su cargo:
+
+3.1.- Tratándose de organizaciones auxiliares del crédito y sociedades financieras de objeto limitado..... 0.80 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 117,466.00.
+
+3.2.- Otras entidades financieras.............. 0.75 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 158,738.00.
+
+4.- Valores fiduciarios.............. 0.80 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 47,621.00.
+
+II.- Con valores inscritos en la sección especial se pagará anualmente la cuota de $ 23,493.00 por emisión.
+
+III.- No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-Q.
+
+Los auditores externos de instituciones de crédito, de casas de bolsa, en materia contable y en su caso, jurídica, deberán pagar anualmente los siguientes derechos:
+
+I.- Tratándose de auditores externos, tanto contables como legales:
+
+a).- Por estudio y trámite para la obtención del registro correspondiente.............. $ 2,895.00
+
+b).- Por el registro provisional o definitivo............... $ 19,049.00
+
+c).- Por la inspección y vigilancia anual.............. $ 19,049.00
+
+II.- Tratándose de peritos valuadores que presten servicios a instituciones de crédito:
+
+a).- Por estudio y trámite para la obtención del registro correspondiente, por cada especialidad.............. $ 2,895.00
+
+b).- Por el registro provisional o definitivo............... $ 3,048.00
+
+c).- Por la inspección y vigilancia anual.............. $ 3,048.00
+
+En aquel ejercicio fiscal en donde algún auditor externo o, en su caso, perito valuador, pague cuotas por los conceptos señalados en el inciso b) de las fracciones I y II anteriores, no se pagará la cuota correspondiente al inciso c) de dichas fracciones en el mismo ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-R.
+
+Los valuadores profesionales de activos fijos de sociedades emisoras de valores a que se refiere el artículo 41 fracción II-Bis de la Ley del Mercado de Valores:
+
+I.- Por el estudio y trámite para la obtención de la autorización correspondiente......... $ 2,895.00
+
+II.- Por la autorización de valuadores personas físicas:
+
+a).- Área de inmuebles industriales............... $ 7,458.00
+
+b).- Área de maquinaria y equipo.............. $ 7,458.00
+
+III.- Por la autorización de valuadores personas morales:
+
+a).- Área de inmuebles industriales.............. $ 22,081.00
+
+b).- Área de maquinaria y equipo.............. $ 22,081.00
+
+IV.- Por derechos de inspección y vigilancia anual de valuadores personas físicas:
+
+a).- Área de inmuebles industriales............... $ 3,680.00
+
+b).- Área de maquinaria y equipo.............. $ 3,680.00
+
+V.- Por derechos de inspección y vigilancia anual de valuadores personas morales:
+
+a).- Área de Inmuebles Industriales.............. $ 11,040.00
+
+b).- Área de Maquinaria y Equipo.............. $ 11,040.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-S.
+
+Por el estudio y la tramitación de cualquier solicitud de inscripción en el Registro Nacional de Valores e Intermediarios que lleva la Comisión Nacional Bancaria y de Valores, se pagará el derecho correspondiente conforme a las siguientes cuotas:
+
+I.- Solicitud de inscripción inicial o ampliación de la misma, en la Sección de Valores o Especial.............. $ 7,360.00
+
+II.- Solicitud de inscripción en la Sección de Intermediarios.............. $ 8,917.00
+
+III.- Incorporación de emisoras al Listado Previo de Emisoras.............. $ 10,953.00
+
+No se pagarán los derechos a que se refiere la fracción I de este artículo, cuando en los términos del primero y tercer párrafos del artículo 15 de la Ley del Mercado de Valores, se solicite de oficio la inscripción de instrumentos de deuda en la Sección de Valores del Registro Nacional de Valores e Intermediarios.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-T.
+
+Por la inscripción en el Registro Nacional de Valores e Intermediarios, se pagará el derecho que corresponda conforme a lo siguiente:
+
+I.- Sección de Valores:
+
+a).- Acciones o certificados de aportación patrimonial...................... 1.8 al millar por los primeros $ 372´397,206.00 del capital social autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 4´381,144.00.
+
+b).- Obligaciones.................... 1.8 al millar por los primeros $ 372´397,206.00 sobre el monto autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 4´381,144.00.
+
+c).- Títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles o del capital de personas morales, y otros valores:
+
+1. Con vigencia mayor a un año............... 1.8 al millar por los primeros $ 372´397,206.00 sobre el monto autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 4´381,144.00.
+
+2. Con vigencia igual o menor a un año.............. 0.9 al millar por los primeros $ 372´397,206.00 del monto autorizado y 0.45 al millar por el excedente. Se pagará en proporción al plazo de vigencia de la emisión, de la inscripción o, en su caso, de la ampliación.
+
+d).- Acciones de sociedades de inversión............... 2.0 al millar respecto del monto total del capital social mínimo fijo.
+
+e).- Bonos u obligaciones emitidos o garantizados, según corresponda, por sociedades controladoras de grupos financieros, instituciones de crédito, de seguros, de fianzas, organizaciones auxiliares del crédito y filiales de entidades financieras del exterior del mismo tipo................ 0.9 al millar por los primeros $ 372´397,206.00 del monto autorizado y 0.45 al millar por el excedente.
+
+f).- Otros títulos suscritos o emitidos por instituciones de crédito, organizaciones auxiliares del crédito y filiales de entidades financieras del exterior del mismo tipo, representativos o no de un pasivo a su cargo, por clase de valor:
+
+1. Con vigencia mayor a un año.............. 0.45 al millar del monto autorizado por tipo de valor.
+
+2. Con vigencia igual o menor a un año 0.45 al millar del monto autorizado por tipo de valor, en proporción al plazo de vigencia de la emisión, sin que exceda en este caso de $ 1´200,000.00.
+
+g).- Títulos opcionales emitidos por sociedades anónimas, casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo............. 0.9 al millar respecto al monto total de las primas de emisión.
+
+h).- Valores emitidos por organismos descentralizados del Gobierno Federal.............. 0.9 al millar por los primeros $ 372´397,206.00 del monto autorizado y 0.45 al millar por el excedente.
+
+i).- Valores emitidos por los Estados y Municipios, así como por los organismos descentralizados de entidades federativas o municipios................ 0.75 al millar por los primeros $ 387,023,274.00 del monto autorizado y 0.375 al millar por el excedente.
+
+j).- Certificados, pagarés y otros valores emitidos por el Gobierno Federal, por el total de emisiones que se lleven a cabo en un ejercicio fiscal, según clase de valor.............. $ 387,023.00
+
+II.- Sección de Intermediarios:
+
+a).- Casas de bolsa, especialistas bursátiles y filiales de entidades financieras del exterior del mismo tipo.............. $ 767,520.00
+
+III.- Sección Especial:
+
+a).- Valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta pública en el extranjero, por emisión............... $ 183,430.00
+
+b).- Valores representativos de una deuda emitidos por organismos descentralizados del Gobierno Federal y valores emitidos por el propio Gobierno Federal, respecto de los cuales se haga oferta pública en el extranjero, por emisión................ $ 183,430.00
+
+IV.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
+
+V.- Por cualquier certificación que se expida se pagará el derecho de $ 170.00.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-U.
+
+Cuando el cálculo respectivo deba hacerse con base en los montos del capital social, capital exhibido, capital contable, reservas de capital, pasivos, cartera de créditos, provisiones preventivas para riesgos crediticios o estimaciones para castigos de cartera, certificados de depósito en circulación, valuación de cartera de valores o acciones y actualización patrimonial, referidos en los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G, 29-H, 29-I, 29-J, 29-K, 29-L, 29-M y 29-N de este capítulo, se determinarán de acuerdo con las cifras que al 31 de octubre del ejercicio inmediato anterior cuente la Comisión Nacional Bancaria y de Valores. La Secretaría de Hacienda y Crédito Público dará a conocer a las entidades de los sectores correspondientes, como facilidad administrativa, el resultado de las operaciones aritméticas previstas en dichos artículos.
+
+En el caso de emisores de valores, para la determinación de los derechos a pagar de conformidad con los artículos 29-Ñ, 29-O, 29-P, 29-Q y 29-R de este capítulo, en lo que corresponde a instrumentos de deuda servirán de base los montos en circulación al 31 de octubre del ejercicio inmediato anterior y, en lo que compete a valores representativos de capital, los estados financieros dictaminados correspondientes al penúltimo ejercicio en relación con aquél que cubran los derechos respectivos.
+
+Para efectos del párrafo anterior, cuando el cálculo respectivo deba hacerse con base en el capital social y reservas de capital, por el primero se entenderá el monto exhibido más aportaciones para futuros aumentos de capital, y por las segundas, la reserva legal, la prima sobre acciones, positivas o negativas y las demás que por estatutos o voluntariamente haya constituido la asamblea de accionistas como adición al capital y provenientes de las utilidades.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-V.
+
+Los ingresos que se obtengan por los derechos a que se refieren los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G, 29-H, 29-I, 29-J, 29-K, 29-L, 29-M, 29-N, 29-Ñ, 29-O, 29-P, 29-Q, 29-R, 29-S y 29-T de este Capítulo, se destinarán a la Comisión Nacional Bancaria y de Valores.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-W.
+
+Los derechos a que se refieren los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G, 29-H, 29-I, 29-J, 29-K, 29-L, 29-M, 29-N, 29-Ñ, 29-O, 29-P, 29-Q y 29-R de esta Ley, deberán ser pagados:
+
+I.- Tratándose de las entidades financieras señaladas en los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G, 29-H, 29-I, 29-J, 29-K, 29-L, 29-M y 29-N de este capítulo, podrán pagar las cuotas a su cargo en doce parcialidades que enterarán a más tardar el primer día hábil de cada mes, a menos que por la propia naturaleza del servicio que se recibe, el derecho o cuota correspondiente deba ser cubierto en ese mismo acto. En el caso de las entidades financieras de nueva creación, los derechos se cubrirán al día hábil siguiente de que inicien operaciones y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal.
+
+II.- En el caso de sociedades controladoras de grupos financieros, así como auditores externos, peritos valuadores y valuadores profesionales de activos fijos de sociedades emisoras de valores, deberán pagar en el mes de enero de cada año las cuotas que les correspondan, a menos que por la propia naturaleza del servicio que se recibe, el derecho o cuota correspondiente deba ser cubierto en ese mismo acto.
+
+III.- Tratándose de personas morales emisoras de valores referidas en el artículo 29-P de esta misma Ley, deberán pagar las cuotas respectivas a más tardar dentro del primer bimestre del ejercicio fiscal correspondiente.
+
+En los casos a que se refieren las fracciones I a III anteriores, cuando el servicio se otorgue una vez iniciado el período de que se trate, el pago correspondiente a dicho mes o año, se calculará dividiendo el importe de la mensualidad o anualidad entre 30 o entre 12 según corresponda, el cociente así obtenido se multiplicará por el número de días o meses en los que se prestará el servicio, y el resultado así obtenido será la cuota a pagar por dichos períodos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-X.
+
+Los derechos por inscripción o autorización, deberán pagarse en la misma fecha en que se reciba el oficio mediante el cual se notifique el otorgamiento de la inscripción en el Registro Nacional de Valores e Intermediarios, o la autorización relativa. Por lo tanto, cuando los derechos no puedan ser calculados sino hasta el momento de la emisión, podrá comunicarse al interesado la opinión favorable respecto del acto registral correspondiente, notificándose la inscripción hasta que se proporcione a la Comisión Nacional Bancaria y de Valores, los datos que permitan determinar el monto del derecho a pagar por dicho concepto.
+
+En el caso de emisiones cuya colocación se pacte en diferentes fechas, los derechos de inscripción se causarán por el monto de cada colocación y deberán ser pagados dentro de los tres días siguientes a aquéllos en que se realicen cada una de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 29-Y.
+
+Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emisor de que se trate no exhiba la documentación que acredite el cumplimiento de la obligación de pago a que alude este Capítulo.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -1313,6 +1499,24 @@ V.- Por la autorización para ejercer la actividad de apoderado de un agente de 
 
 VI.- Por el refrendo trianual de la autorización a que se refiere la fracción anterior $ 180,000.00
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 30-B.
+
+Por el servicio de autorización o registro de intermediario de reaseguro que proporciona la Comisión Nacional de Seguros y Fianzas, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por la autorización definitiva como intermediario de reaseguro domiciliado en la República Mexicana.............. $ 2,978.00
+
+II.- Por la autorización para ejercer la actividad de apoderado de intermediario de reaseguro domiciliado en la República Mexicana, para intervenir en el asesoramiento y contratación de reaseguro.............. $ 893.00
+
+III.- Por el refrendo quinquenal de la autorización a que se refiere la fracción anterior..... $ 447.00
+
+IV.- Por el registro definitivo como intermediario de reaseguro no domiciliado en la República Mexicana.............. $ 2,978.00
+
+V.- Por el registro para ejercer la actividad de apoderado de un intermediario de reaseguro no domiciliado en la República Mexicana, para intervenir en el asesoramiento y contratación de reaseguro.............. $ 893.00
+
+VI.- Por el refrendo quinquenal del registro a que se refiere la fracción anterior.............. $ 447.00
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 31.
@@ -1343,389 +1547,67 @@ I.- Por la autorización definitiva a agentes de fianzas personas físicas para 
 
 II.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas...................... $ 150,000.00
 
-III.- Por la autorización a agentes de seguros personas morales............. $ 1'000,000.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Por la autorización a agentes de fianzas personas morales.............. $ 2,978.00
 
 IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas.............. $ 300,000.00
 
 V.- Por el refrendo trianual de la autorización a que se refiere el inciso anterior......... $ 150,000.00
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por la autorización provisional proporcionada a agentes de fianzas personas físicas............... $ 596.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 31-A
 
-1.- Los ingresos que se obtengan por los derechos a que se refieren los artículos 30, 30-A, 31 y 31-A de esta Ley, se destinarán a la Comisión Nacional de Seguros y Fianzas.
+1.- Los ingresos que se obtengan por los derechos a que se refieren los artículos 30, 30-A, 30-B, 31 y 31-A de esta Ley, se destinarán a la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA.. Servicios Aduaneros
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+#### SECCION SEGUNDA. Registro Nacional de Valores e Intermediarios
 
 ###### ARTICULO 31-B.
 
-Por el estudio y tramitación de cada solicitud de inscripción y autorización establecida en los artículos 32 y 33-A se pagará el derecho del Mercado de Valores, conforme a las siguientes cuotas:
-
-I.- Inscripción de valores en el Registro Nacional de Valores e Intermediarios……… $ 500,000.00
-
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-II.- Inscripción de intermediarios en el Registro Nacional de Valores e Intermediarios........................ N$ 4,428.00
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-III.- Valuadores de activos fijos.............. $ 1'700,000.00
-
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-IV.- Sociedades operadoras de sociedades de inversión, sociedades valuadoras de acciones de sociedades de inversión e instituciones calificadoras de valores................ N$ 4,428.00
-
-> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-V.- Sociedades en que las casas de bolsa sean accionistas y que presten a éstas servicios, o cuyo objeto sea auxiliar o complementario de las actividades que realicen............... N$ 4,000.00
-
-> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-VI.- Incorporación de emisoras al Listado Previo de Emisoras............... N$ 5,000.00
-
-Los derechos a que se refiere la fracción I, no se pagarán cuando se trate de los valores de renta fija cuya inscripción sea de oficio.
+(DEROGADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 32.
 
-Por la inscripción en el Registro Nacional de Valores e intermediarios, se pagará el derecho de registro de valores e intermediarios conforme a lo siguiente:
-
-I.- Sección de Valores:
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-a).- Acciones y obligaciones emitidas por sociedades anónimas............. 1.8 al millar por los primeros N$ 184'911,707.00 y 0.9 al millar por el excedente, sin que los derechos a pagar por este concepto excedan de N$ 2'175,432.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Certificados de aportación patrimonial o acciones emitidas por sociedades controladoras de grupos financieros, casas de bolsa, instituciones de crédito, de seguros, de fianzas u organizaciones auxiliares del crédito.............. 1.8 al millar por los primeros N$ 184'911,707.00 y 0.9 al millar por el excedente, sin que los derechos a pagar por este concepto excedan de N$ 2'175,432.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-c).- Títulos de crédito y otros documentos que sean objeto de oferta pública que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales, emitidos por sociedades anónimas y otras entidades.............. 1.8 al millar por los primeros N$ 184'911,707.00 y 0.9 al millar por el excedente, sin que los derechos a pagar por este concepto excedan de N$ 2'175,432.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-d).- Títulos de crédito y otros documentos respecto de los cuales se realice oferta pública, que otorguen a sus titulares derechos de crédito (inscripción con vigencia máxima de 1 año.............. 0.9 al millar por los primeros N$ 184'911,707.00 y 0.45 al millar por el excedente en ambos casos, en proporción al plazo de la vigencia de la emisión o de su ampliación.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-e).- Pagarés, documentos con garantía fiduciaria y otros valores distintos de los señalados en esta fracción.................. 1.8 al millar por los primeros N$ 184'911,707.00 y 0.9 al millar por el excedente en ambos casos, en proporción al plazo de vigencia de la emisión o de su ampliación.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-f).- Bonos u obligaciones emitidos o garantizados por sociedades controladoras de grupos financieros, instituciones de crédito, de seguros, de fianzas u organizaciones auxiliares del crédito................ 0.9 al millar por los primeros N$ 184'911,707.00 y 0.45 al millar por el excedente.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-g).- Otros títulos suscritos o emitidos por instituciones de crédito, y organizaciones auxiliares del crédito, representativos o no de un pasivo a su cargo por clase de valor............. 0.9 al millar por los primeros $ 256'717,020.00 y 0.45 al millar por el excedente, en proporción al plazo de vigencia de la emisión.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-h).- Valores emitidos por el Gobierno Federal, por emisión.............. N$ 141,792.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-i).- Certificados, pagarés y otros valores de tesorería emitidos por el Gobierno Federal por el total de emisiones que se lleven a cabo en un ejercicio fiscal, según clase de valor……….. $ 100'000,000.00.
-
-Por el total de emisiones que se lleven a cabo en un ejercicio fiscal, según clase de valor.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-j).- Acciones de sociedades de inversión............... 1.5 al millar respecto del monto total del capital pagado.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-k).- Valores emitidos por organismos descentralizados del Gobierno Federal................ 0.9 al millar respecto al monto inscrito por los primeros N$ 184'911,707.00 y 0.45 al millar por el excedente.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-l).- Valores emitidos por los Estados y Municipios, así como por sus entidades descentralizadas.............. 0.75 al millar respecto al monto inscrito, por los primeros N$ 192'174,109.00 y 0.375 al millar por el excedente.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-m).- Documentos que sean objeto de oferta pública denominados títulos opcionales, emitidos por sociedades anónimas, casas de bolsa e instituciones de credito......... 0.9 al millar respecto al monto total de las primas de emisión.
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-II.- Sección de intermediarios:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-a).- Casas de bolsa y especialistas bursátiles........... $ 529,100.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Por la apertura de oficinas de casas de bolsa y especialistas bursátiles, por cada oficina………. N$ 3,267.00
-
-III.- Sección Especial:
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-a).- Valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta en el extranjero, por emisión………. N$ 91,081.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Valores de renta fija emitidos por instituciones de crédito para ser materia de oferta pública en el extranjero, por emisión…….. N$ 91,081.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-c).- Valores de renta fija emitidos por organismos descentralizados del Gobierno Federal, respecto de los cuales se haga oferta en el extranjero, por emisión……. N$ 91,081.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 33.
 
-Por el refrendo anual de las inscripciones en el registro nacional de valores e intermediarios y los servicios de inspección y vigilancia que proporciona la Comisión Nacional Bancaria y de Valores a las casas de bolsa, especialistas bursátiles y bolsa de valores, así como a los emisores de valores inscritos en el citado registro, se pagará el derecho de refrendo de inscripción, de inspección y vigilancia, conforme a lo siguiente:
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-I.- Sección Valores:
-
-a).- Refrendo de inscripción y servicios de inspección y vigilancia:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-1.- Sociedades anónimas con sólo acciones inscritas............. 1.20 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 200,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-2.- Sociedades anónimas con acciones y obligaciones inscritas pagarán por estas últimas................ 0.80 al millar respecto al monto en circulación de la emisión, sin que los derechos a pagar por este concepto excedan de $ 50,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-3.- Sociedades anónimas con sólo obligaciones inscritas, sociedades u otras entidades que emitan títulos de crédito y otros documentos que sean objeto de oferta pública o de intermediación en el mercado de valores, que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales; organismos descentralizados del gobierno Federal, gobiernos de los estados y municipios, así como organismos o empresas en que participen los mismos............... 1.20 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 100,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-4.- Sociedades de inversión............... 0.75 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 100,000.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-5.- Sociedades anónimas, casas de bolsa e instituciones de crédito que emitan títulos opcionales........ 0.75 al millar respecto al monto total de la prima de emisión de los títulos en circulación (inscripción con vigencia superior a un año).
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-6.- Otros refrendos de inscripción y servicios de inspección y vigilancia distintos a los señalados en este inciso............. $ 33,000.00
-
-b).- Refrendo de inscripción de:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-1.- Sociedades controladoras de grupos financieros, instituciones de crédito y organizaciones auxiliares del crédito con certificados de aportación patrimonial o acciones inscritas............... 1.20 al millar respecto del capital exhibido y reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 200,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-2.- Sociedades Controladoras de grupos financieros, instituciones de crédito, de seguros y de fianzas u organizaciones auxiliares de crédito, emisoras de bonos o de obligaciones............... 1.20 al millar respecto al monto en circulación, sin que los derechos a pagar por este concepto excedan de $ 125,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-3.- Instituciones de crédito que emitan o intervengan en la emisión de valores de renta fija y que no afecten directamente su pasivo ................ 0.80 al millar respecto al monto en circulación, sin que los derechos a pagar por este concepto excedan de $ 37,500.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-4.- Instituciones de crédito que emitan o suscriban otros títulos representativos de un pasivo a su cargo, por clase de valor........... 0.75 al millar respecto al monto en circulación, sin que los derechos a pagar por este concepto excedan de $ 125,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-5.- Organizaciones auxiliares de crédito que emitan o suscriban otros títulos representativos de un pasivo a su cargo, por clase de valor.............. 0.80 al millar respecto al monto en circulación, sin que los derechos a pagar por este concepto excedan de $ 92,500.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-6.- Instituciones de seguros y fianzas emisoras de acciones.............. 1.20 al millar respecto del capital exhibido y reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 200,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-7.- Otros refrendos de inscripción distintos a los señalados en este inciso............. $ 37,500.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-II.- Sección de Intermediarios:
-
-Refrendo de inscripción y servicio de inspección y vigilancia.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-a).- Especialistas bursátiles……….. 0.5% respecto de su capital contable excluyendo plusvalía (minusvalía) de su cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a…........ $ 291,037.36
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Oficinas de casas de bolsa y especialistas bursátiles, por cada oficina.......... N$ 3,267.00
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-c).- Las casas de bolsa deberán pagar derechos conforme a las cuotas que resulten de acuerdo con el siguiente procedimiento:
-
-1.- Se determinará el monto total de capital contable de este sector, excluyendo plusvalía (minusvalía) de su cartera de valores y actualización patrimonial. La Comisión mencionada calculará la proporción de participación de cada una de las casas de bolsa en ese monto, dividiendo el capital contable de cada entidad entre el total del capital contable del sector y el cociente se expresará en términos porcentuales.
-
-2.- Al monto total de cuotas actualizadas de este sector, se aplicarán los porcientos determinados para cada casa de bolsa en términos del subinciso 1 que antecede; el resultado obtenido será el derecho que corresponde pagar a cada entidad.
-
-3.- El importe de los derechos determinados conforme al subinciso que antecede no podrá ser inferior a la cuota actualizada del ejercicio inmediato anterior, ni a la cuota establecida para la inscripción de nuevas casas de bolsa.
-
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-III.- Sección Especial:
-
-a).- Refrendo de inscripción y servicios de inspección y vigilancia de:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-1.- Sociedades anónimas emisoras de valores colocadas en el extranjero durante la vigencia de cada emisión........ $ 18,500.00
-
-b).- Refrendo de inscripción de:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-1.- Organismos descentralizados emisores de valores colocados en el extranjero, durante la vigencia de cada emisión......... $ 18,500.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-2.- Instituciones de crédito emisoras de valores colocados en el extranjero, durante la vigencia de cada emisión.......... $ 18,500.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV.- Bolsa de valores, cuota anual por concepto de inspección y vigilancia………… 0.75 por ciento respecto de su capital contable, excluyendo plusvalía (minusvalía) de su cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 302,020.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- Las certificaciones de las inscripciones, suspensiones, cancelaciones y anotaciones marginales que obren en los legajos del Registro y de los demás contenidos en sus apéndices, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre valores específicos o correspondientes a algún intermediario y, en general, por cualquier certificación, por cada una de ellas................ $ 170.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 33-A.
 
-Por los servicios de autorización y de inspección y vigilancia que proporciona la Comisión Nacional Bancaria y de Valores, se pagará el derecho de autorización y de inspección y vigilancia, conforme a las siguientes cuotas:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Por la autorización de valuadores profesionales de activos fijos de sociedades emisoras de valores:
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-a).- Autorización para personas físicas:
-
-1.- Area de inmuebles industriales........... $ 3'000,000.00
-
-2.- Area de maquinaria y equipo.............. $ 3'000,000.00
-
-b).- Autorización de personas morales:
-
-1.- Área de Inmuebles industriales............ $ 1'500,000.00
-
-2.- Área de Maquinaria y equipo......... $ 1'500,000.00
-
-c).- Inspección y vigilancia anual de personas físicas:
-
-1.- Área de Inmuebles industriales.......... $ 250,000.00
-
-2.- Área de Maquinaria y equipo............ $ 250,000.00
-
-d).- Inspección y vigilancia anual de personas morales:
-
-1.- Área de Inmuebles Industriales.......... $ 750,000.00
-
-2.- Área de Maquinaria y equipo............ $ 750,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Sociedades operadoras de sociedades de inversión comunes y en instrumentos de deuda:
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-a).- Por la autorización………. N$ 45,541.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Por cada apertura de oficinas……….. N$ 2,696.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-c).- Por la inspección y vigilancia anual, de la sociedad……… $ 5,000,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-d).- Por la inspección y vigilancia anual, por cada oficina $ 461,000.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Sociedades operadoras de sociedades de inversión de capitales:
-
-a).- Por la autorización............... $ 63,226.00
-
-b).- Por la inspección y vigilancia anual.............. $ 13,340.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV.- Sociedades valuadoras de acciones de sociedades de inversión:
-
-a).- Por la autorización.............. $ 31,613.00
-
-b).- Por la inspección y vigilancia anual.............. $ 100.00 por cada sociedad de inversión a la que valúe sus acciones, sin que los derechos a pagar por este concepto sean inferiores a $ 5,000.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- Instituciones para el depósito de valores, por concepto de inspección y vigilancia anual……….. 0.75 por ciento respecto de su capital contable, excluyendo actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 160,071.00
-
-VI.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-VII.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-VIII.- Instituciones calificadoras de valores…………. N$ 45,541.00 anuales.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 34.
 
-Para el efecto de determinar el monto de los derechos establecidos en esta sección, cuando el cálculo respectivo deba hacerse con base en el capital social y reservas de capital, por el primero se entenderá el monto exhibido y, en su caso, la prima sobre acciones, positivas o negativas, y por las segundas, la reserva legal y las demás que por estatutos o voluntariamente haya constituido la asamblea de accionistas como adición al capital y provenientes de las utilidades.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-Para la determinación de los derechos, servirán de base los estados financieros dictaminados de los emisores de valores correspondientes al penúltimo ejercicio en relación con aquél que cubran los derechos respectivos; cuando se deba efectuar el cálculo de acuerdo al monto de circulación de los títulos o valores, del capital contable, así como del activo neto considerando a valor de mercado, éstos se determinarán al 30 de octubre del ejercicio inmediato anterior a aquél en que sea exigible el pago, fecha que también servirá de referencia para efectuar las determinaciones relativas a oficinas de casas de bolsa y sociedades operadoras de sociedades de inversión.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-En el caso de obligaciones y otros títulos representativos de un pasivo a cargo del emisor, la cuota aplicable se causará sobre el monto en circulación del total de emisores que tenga la sociedad.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-El número de sociedades de inversión a las que las sociedades previstas en el artículo 33-A, fracción IV de esta Ley, valúen sus acciones, se determinará al 30 de octubre del ejercicio inmediato anterior a aquél en que sea exigible el pago.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-El monto total del capital contable de las casas de bolsa a que se refiere el artículo 33, fracción II, inciso c) de esta Ley, se dará a conocer por la Secretaría de Hacienda y Crédito Público a más tardar el 31 de enero de cada año. La misma Secretaría dará a conocer a las casas de bolsa, como facilidad administrativa, las cuotas resultantes de las operaciones aritméticas previstas en el citado artículo.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 34-A.
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
 ###### ARTICULO 35.
 
-Los derechos por inscripción o autorización a que se refieren los artículos 32 y 33-A, fracciones I y II de esta Ley, respectivamente, deberán pagarse en la misma fecha en que se reciba el oficio mediante el cual se notifique el otorgamiento de la inscripción en el Registro Nacional de Valores e Intermediarios, o la autorización relativa. Por lo tanto, cuando los derechos deban causarse sobre el monto de la emisión, podrá comunicarse al interesado la opinión favorable respecto del acto registral correspondiente, notificándose la inscripción hasta que se proporcionen a la Comisión Nacional de Valores, los datos que permitan determinar el monto del derecho a pagar por dicho concepto.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-En el caso de emisiones de obligaciones cuya colocación se pacte en diferentes fechas, los derechos de inscripción se causarán por el monto de cada colocación y deberán ser pagados dentro de los tres días siguientes a aquéllos en que se realicen cada una de las mismas.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Los derechos que se causen por el refrendo anual de la inscripción en el citado registro, así como los derivados de los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, deberán ser cubiertos en un solo pago que se efectuará dentro del primer bimestre de cada año calendario, excepto en el caso de los derechos a que se refieren los artículos 33, fracciones II, inciso a), c) y IV y 33-A, fracción V, los cuales podrán ser cubiertos en cuatro exhibiciones trimestrales que se efectuarán durante los primeros 10 días naturales de los meses de enero, abril, julio y octubre de cada año.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 36.
 
-Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emisor de que se trate no les exhiba la documentación que acredite el cumplimiento de la obligación de pago a que aluden los artículos precedentes.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 37.
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-#### SECCION CUARTA. Registro Federal de Vehículos
+#### SECCION TERCERA.. Servicios Aduaneros
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 38.
 
@@ -1749,13 +1631,13 @@ Por la autorización a particulares para el manejo, almacenaje y custodia de las
 
 Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduana, después de vencidos los plazos que a continuación se indican:
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Tres días naturales, para materias explosivas, inflamables, contaminantes, radioactivas, corrosivas, animales vivos, perecederos de fácil descomposición que no requieran estar en refrigeración; y diez días naturales, por otras mercancías; si el motivo del depósito ante la aduana en ambos casos, es la entrada de mercancías al país. Estos lapsos se computarán a partir del día siguiente a aquél en que se termine la descarga correspondiente a cada conocimiento de embarque.
+I.- En mercancías de importación, dos días, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de cinco días.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Treinta días naturales contados desde la fecha en que se presenten las mercancías en depósito ante la aduana, si el motivo del almacenaje es su salida del país.
+II.- En mercancías de exportación, quince días, excepto minerales en cuyo caso el plazo será de treinta días.
 
 Las mercancías por las que hubiere desistimiento del régimen de exportación, o en las que ésta no se concrete por cualquier otra causa, pagarán el derecho de almacenaje correspondiente, desde el primer día en que hayan quedado en depósito en cada aduana.
 
@@ -1766,6 +1648,10 @@ III.- A partir del día siguiente de la fecha en que se pongan a disposición de
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 IV.- Diez días naturales de aquél en que queden en depósito ante la aduana, en los demás casos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Los plazos a que se refieren las fracciones I y II de este artículo, se computarán a partir del día siguiente a aquél en que el almacén reciba las mercancías, a excepción de las importaciones que se efectúen por vía marítima o aérea, en las que el plazo se contará a partir del día en que el consignatario reciba la comunicación de que las mercancías han entrado al almacén.
 
 ###### ARTICULO 42.
 
@@ -1873,11 +1759,13 @@ Los interesados dispondrán de tres días hábiles para el retiro de sus mercanc
 
 Los almacenistas serán responsables de cualquier omisión en el cobro de los derechos de almacenaje, originada por la inexactitud del lugar en que los efectos hayan estado depositados, así como por la indebida entrega de mercancías que ya estén abandonadas, o no se haya pagado, parcial o totalmente el derecho de almacenaje.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 49.
 
-Se pagará el derecho de trámite aduanero, por las operaciones aduaneras que se efectúen utilizando un pedimento en los términos de la Ley Aduanera, conforme a las siguientes tasas o cuotas:
+Se pagará el derecho de trámite aduanero, por las operaciones aduaneras que se efectúen utilizando un pedimento o el documento aduanero correspondiente en los términos de la Ley Aduanera, conforme a las siguientes tasas o cuotas:
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del impuesto general de importación, en los casos distintos de los señalados en las siguientes fracciones.
 
@@ -1885,9 +1773,17 @@ I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del i
 
 II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior siempre que sea para elaboración, transformación o reparación en programas de maquila o de exportación, así como en los retornos respectivos y de la introducción al territorio nacional de bienes distintos a los señalados en la fracción anterior, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos……...... $ 61.52
+Cuando la importación de las mercancías a que se refiere el primer párrafo de esta fracción se efectúe mediante pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará el retorno de dichas mercancías.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior siempre que sea para elaboración, transformación o reparación en programas de maquila o de exportación, así como en los retornos respectivos $ 89.00
+
+Cuando la importación de las mercancías a que se refiere el primer párrafo de esta fracción se efectúe mediante pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará el retorno de dichas mercancías.
+
+a).- Tratándose de la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos $ 89.00
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1895,15 +1791,17 @@ IV.- En el caso de las señaladas en los artículos 46 y 75 de la Ley Aduanera..
 
 Cuando se trate de mercancías exentas conforme a las Leyes de los Impuestos Generales de Importación y Exportación y a los Tratados Internacionales, se aplicará la tasa que establece la fracción I de este artículo.
 
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 V.- En las operaciones de exportación............. $ 30,000.00
 
 > <small>(REFORMADA, D.O.F. 26 DE JULIO DE 1993)</small>
 
 VI.- Tratándose de las efectuadas por los Estados extranjeros………… N$ 42.00
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por aquellas operaciones en que se rectifique un pedimento y no se este en los supuestos de las fracciones anteriores $ 36,000.00.
+VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice el pedimento de tránsito interno, el pedimento de extracción, la parte II del pedimento cuando se trate del régimen de importación temporal o la parte II del pedimento de tránsito $89.00
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1921,7 +1819,11 @@ En las operaciones de depósito fiscal y en el tránsito de mercancías, el dere
 
 Cuando por la operación aduanera de que se trate, no se tenga que pagar el impuesto general de importación, el derecho se determinará sobre el valor en aduana de las mercancías.
 
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 El pago del derecho, se efectuará conjuntamente con el impuesto general de importación o exportación, según se trate. Cuando no se esté obligado al pago de los impuestos citados, el derecho a que se refiere este artículo deberá pagarse antes de retirar las mercancías del recinto fiscal.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 La recaudación de los derechos de trámite aduanero, incluyendo el adicional a que se refiere el artículo 50 de esta Ley, se destinará a la Secretaría de Hacienda y Crédito Público.
 
@@ -1959,19 +1861,25 @@ Para los efectos de los artículos 49 y 50 de esta Ley, Petróleos Mexicanos y s
 
 Por la expedición de la autorización para establecer depósitos fiscales para la venta de mercancías extranjeras y nacionales a pasajeros que salgan del país directamente al extranjero, deberán pagar el derecho de depósitos fiscales equivalente al 5% de los ingresos brutos obtenidos por la venta de dichas mercancías en el mes inmediato anterior, mismo que se deberá enterar a más tardar el día 17 del mes inmediato posterior a aquél en que se obtengan los ingresos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 51.
 
-Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal y a los agentes aduanales, se pagará el derecho de patente aduanal conforme a las siguientes cuotas:
+Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de apoderado aduanal o de dictaminador aduanero y a los agentes aduanales, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el examen para aspirantes a agente aduanal.......... $ 17,000.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Por el examen para aspirante a agente aduanal, apoderado aduanal o dictaminador aduanero.............. $ 2,773.00
 
 II.- Por la expedición de la patente de agente aduanal.......... $ 34,000.00
 
-III.- Por el estudio y aprobación de las escrituras constitutivas de las sociedades o asociaciones que exploten la patente de agente aduanal.......... $ 27,000.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por el examen en materia aduanera, de los empleados autorizados por los agentes aduanales que los representen……… $ 10,000.00
+III.- Por la autorización de apoderado aduanal o dictaminador aduanero.............. $ 100.00
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IV.- Por el estudio y aprobación de las escrituras constitutivas de las sociedades o asociaciones que exploten la patente de agente aduanal.............. $ 4,403.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1979,7 +1887,7 @@ IV.- Por el examen en materia aduanera, de los empleados autorizados por los age
 
 Por los servicios de análisis de laboratorio se pagarán por cada muestra analizada, la cuota de $5,000.00
 
-#### SECCION QUINTA. Acuñación de Moneda Metálica y Desmonetización de Billetes
+#### SECCION CUARTA. Registro Federal de Vehículos
 
 ###### ARTICULO 53.
 
@@ -1987,9 +1895,7 @@ Por los servicios de análisis de laboratorio se pagarán por cada muestra anali
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-#### SECCION SEXTA. Máquinas Registradoras de Comprobación Fiscal
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+#### SECCION QUINTA. Acuñación de Moneda Metálica y Desmonetización de Billetes
 
 ###### ARTICULO 53-A.
 
@@ -2001,9 +1907,9 @@ Por los servicios de análisis de laboratorio se pagarán por cada muestra anali
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION SEPTIMA. Otros Servicios
+#### SECCION SEXTA. Máquinas Registradoras de Comprobación Fiscal
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 53-C.
 
@@ -2023,37 +1929,127 @@ Los contribuyentes que adquieran directamente las máquinas registradoras de com
 
 Los ingresos que se obtengan por los derechos a que se refiere este artículo, se destinarán a la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION UNICA. Padrón de Contratistas y de Proveedores del Gobierno Federal
+#### SECCION SEPTIMA. Registro de Bancos y Entidades de Financiamiento, Fondos de Pensiones y Jubilaciones y Fondos de Inversión del Extranjero
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 53-D.
 
-Por los servicios de estudio y trámite de solicitudes de personas físicas y morales mexicanas, para invertir en empresas mexicanas utilizando el sistema de intercambio de deuda pública por capital, se pagará el derecho de 2.5 al millar sobre el valor original de la deuda pública a ser intercambiada.
+Por el estudio y trámite de la solicitud de inscripción en el registro de bancos, entidades de financiamiento, fondos de pensiones y jubilaciones y fondos de inversión del extranjero, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+I.- Bancos extranjeros, por cada uno.............. $ 200.00
+
+II.- Entidades de financiamiento pertenecientes a estados extranjeros, por cada una...... $ 200.00
+
+III.- Entidades que coloquen o inviertan en el país capital que provenga de títulos de crédito que emitan y que sean colocados en el extranjero entre el gran público inversionista, por cada una.............. $ 300.00
+
+IV.- Entidades que otorguen créditos para financiar la adquisición de maquinaria y equipo y en general para la habilitación y avío o comercialización, por cada una.............. $ 250.00
+
+V.- Entidades de financiamiento residentes en el extranjero dedicadas a promover la exportación mediante el otorgamiento de préstamos o garantías en condiciones preferenciales, por cada una.............. $ 200.00
+
+VI.- Fondos de pensiones y jubilaciones del extranjero, por cada uno.............. $ 250.00
+
+VII.- Fondos de inversión en los que participan fondos de pensiones y jubilaciones del extranjero, por cada uno.............. $ 350.00
+
+VIII.- Personas morales del extranjero en las que participan fondos de pensiones y jubilaciones del extranjero, por cada una.............. $ 400.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 53-E.
 
-Los ingresos que se obtengan por los derechos a que se refiere el artículo anterior, se destinarán a la Secretaría de Hacienda y Crédito Público.
+Por la renovación de la inscripción en el registro de bancos, entidades de financiamiento, fondos de pensiones y jubilaciones y fondos de inversión del extranjero, se pagarán derechos, por cada una, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+I.- Anual:
+
+a).- Bancos extranjeros.............. $ 200.00
+
+b).- Entidades de financiamiento pertenecientes a estados extranjeros.............. $ 200.00
+
+c).- Entidades que coloquen o inviertan en el país capital que provenga de títulos de crédito que emitan y que sean colocados en el extranjero entre el gran público inversionista.............. $ 300.00
+
+d).- Entidades que otorguen créditos para financiar la adquisición de maquinaria y equipo y en general para la habilitación y avío o comercialización.............. $ 250.00
+
+e).- Fondos de pensiones y jubilaciones del extranjero.............. $ 100.00
+
+II.- Semestral:
+
+a).- Fondos de inversión en los que participan fondos de pensiones y jubilaciones del extranjero.............. $ 100.00
+
+b).- Personas morales del extranjero en las que participan fondos de pensiones y jubilaciones del extranjero.............. $ 150.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 53-F.
 
-Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $50.00 por cada uno.
+Por cada modificación de la denominación o razón social, se pagarán derechos conforme a las siguientes cuotas:
 
-#### SECCION PRIMERA. Minería
+I.- Bancos extranjeros.............. $ 100.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+II.- Entidades de financiamiento pertenecientes a estados extranjeros.............. $ 100.00
 
-#### SECCION PRIMERA. Padrón Nacional de Actividades Salineras
+III.- Entidades que coloquen o inviertan en el país capital que provenga de títulos de crédito que emitan y que sean colocados en el extranjero entre el gran público inversionista.............. $ 150.00
+
+IV.- Entidades que otorguen créditos para financiar la adquisición de maquinaria y equipo y en general para la habilitación y avío o comercialización.............. $ 100.00
+
+V.- Entidades de financiamiento residentes en el extranjero dedicadas a promover la exportación mediante el otorgamiento de préstamos o garantías en condiciones preferenciales...... $ 100.00
+
+VI.- Fondos de pensiones y jubilaciones del extranjero.............. $ 150.00
+
+VII.- Fondos de inversión en los que participan fondos de pensiones y jubilaciones del extranjero.............. $ 175.00
+
+VIII.- Personas morales del extranjero en las que participan fondos de pensiones y jubilaciones del extranjero.............. $ 175.00
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION OCTAVA. Resoluciones Relativas a Precios o Montos de Contraprestaciones entre Partes Relacionadas
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 53-G.
+
+Por el estudio y trámite de cada solicitud de resolución relativa a los precios o montos de contraprestaciones entre partes relacionadas, se pagarán derechos conforme a la cuota de $ 4,000.00.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 53-H.
+
+Por cada revisión del informe anual sobre la aplicación de las resoluciones a que se refiere el artículo anterior, se pagarán derechos conforme a la cuota de $ 800.00.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION NOVENA. Otros Servicios
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 53-I.
+
+Por los servicios de estudio y trámite de solicitudes de personas físicas y morales mexicanas, para invertir en empresas mexicanas utilizando el sistema de intercambio de deuda pública por capital, se pagará el derecho de 2.5 al millar sobre el valor original de la deuda pública a ser intercambiada.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 53-J.
+
+Los ingresos que se obtengan por los derechos a que se refiere el artículo anterior, se destinarán a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 53-K.
+
+Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $ 0.1233 por cada uno.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 53-L.
+
+Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $ 0.50 por cada uno.
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION SEGUNDA. Propiedad Industrial
+#### SECCION UNICA. Padrón de Contratistas y de Proveedores del Gobierno Federal
 
 ###### ARTICULO 54.
 
@@ -2063,103 +2059,35 @@ Por la obtención de marbetes que se adhieran a los envases que contengan bebida
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO V. Secretaría de Energía
 
-#### SECCION TERCERA. Inversiones Extranjeras
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+#### SECCION PRIMERA. Minería
 
 ###### ARTICULO 56.
 
-Por el estudio, trámite y resolución de solicitudes de concesión o asignación de exploración, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
-
-RANGO DE SUPERFICIE CUOTA ADICIONAL POR
-
-(HECTAREAS) CUOTA FIJA HECTAREA EXCEDENTE
-
-DEL LIMITE INFERIOR
-
-L I M I T E S
-
-INFERIOR SUPERIOR
-
-1 30 N$ 81.00 N$ 1.36
-
-31 100 N$ 122.50 N$ 2.50
-
-101 500 N$ 300.00 N$ 6.00
-
-501 1,000 N$ 2,800.00 N$ 7.80
-
-1,001 5,000 N$ 7,800.00 0.47 ø
-
-5,001 50,000 N$ 9,900.00 0.33 ø
-
-50,001 EN ADELANTE N$ 25,100.00 0.31 ø
-
-Por el estudio, trámite y resolución de solicitudes de concesión de explotación o para prorrogar la vigencia de éstas, se pagarán por concepto de derechos el 50% de la cantidad que resulte de aplicar la tabla anterior.
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 57.
 
-Para ejercer los derechos que prevé la Ley Minera, se pagarán por el estudio y trámite de las solicitudes que a continuación se indican, derechos conforme a las cuotas siguientes:
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-I.- Inscripción en el registro de apoderados........ N$ 75.00
+#### SECCION PRIMERA. Correduría Pública
 
-II.- Reducción, división, identificación o unificación de superficie............. N$ 350.00
-
-III.- Agrupamiento de concesiones mineras, la incorporación o separación de éstas a uno o más de ellos.............. N$ 50.00
-
-IV.- Expedición de duplicado del título de concesión o asignación minera........... N$ 60.00
-
-V.- Inscripción en el registro de peritos mineros………... N$ 75.00
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-#### SECCION CUARTA. Normas Oficiales
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 58.
 
-Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las cuotas siguientes:
-
-I.- Inscripción de actos, contratos o convenios relativos a la transmisión de la titularidad de concesiones mineras o de los derechos que de ellas deriven........... N$ 200.00
-
-II.- Cancelación de las inscripciones relativas a los actos, contratos o convenios a que alude la fracción anterior................ N$ 50.00
-
-III.- Inscripción de sociedades mineras............ N$ 300.00
-
-IV.- Inscripción de las modificaciones estatuta-rias (sic) de dichas sociedades.......... N$ 100.00
-
-V.- Inscripción de la suscripción o adquisición de acciones o partes sociales por parte de instituciones de crédito, en su carácter de fiduciarias............. N$ 250.00
-
-VI.- Avisos notariales preventivos............ N$ 50.00
-
-VII.- Anotaciones preventivas para interrumpir la cancelación de las inscripciones de contratos o convenios sujetos a temporalidad............ N$ 50.00
-
-VIII.- Revisión de la documentación que consigne las correcciones o aclaraciones requeridas para la inscripción o cancelación de los actos, contratos o convenios mencionados en las fracciones anteriores............... N$ 50.00
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 59.
 
-Por la expedición de planos de la cartografía minera, se pagarán derechos conforme a las cuotas siguientes:
-
-I.- Por cada plano a escala 1:50,000 que corresponda a las hojas topográficas del Instituto Nacional de Estadística, Geografía e Informática.............. N$ 500.00
-
-II.- Por cada porción de las hojas anteriores de 5 minutos de latitud y de longitud…….... N$ 50.00
-
-III.- Por cada porción a que se refiere la fracción anterior a escala 1:25,000...... N$ 200.00
-
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 60.
 
-Por la prestación de servicios relativos a las visitas para dictaminar sobre la procedencia de solicitudes de expropiación, ocupación temporal o constitución de servidumbre o para resolver sobre la nulidad, suspensión o insubsistencia de derechos, se cubrirán los derechos conforme a lo dispuesto por el artículo 5o. fracción VII, de esta Ley.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 61.
 
@@ -2169,19 +2097,61 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 ### CAPITULO VI. De la Secretaría de Comercio y Fomento Industrial
 
-(REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEGUNDA DEL CAPITULO V], D.O.F. 30 DE DICIEMBRE DE 1983)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION QUINTA. Permisos de Importación
+#### SECCION SEGUNDA. Minería
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ARTCULO 63.- Por el estudio, trámite y resolución de solicitudes de concesión o asignación de exploración, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
+
+Rango de Superficie
+
+(Hectáreas)
+
+Límites
+
+Inferior Superior Cuota Fija Cuota Adicional por
+
+Hectárea Excedente del
+
+Límite Inferior
+
+1 30 $ 177.00 $ 2.93
+
+31 100 268.00 5.42
+
+101 500 657.00 13.05
+
+501 1,000 6,134.00 17.01
+
+1,001 5,000 17,086.00 1.0289
+
+5,001 50,000 21,687.00 0.7348
+
+50,001 en adelante 54,983.00 0.6786
+
+Por el estudio, trámite y resolución de solicitudes de concesión de explotación o para prorrogar la vigencia de éstas, se pagará por concepto de derechos el 50% de la cantidad que resulte de aplicar la tabla anterior.
 
 ###### ARTICULO 62.
 
-(DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
+Por los servicios relacionados con la presentación de exámenes de aspirante y definitivos, servicios de expedición y registro de habilitaciones, de garantías, de sellos, de firmas y por la autorización de libros de registro de corredores públicos se pagará el derecho de registro mercantil y de correduría, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+I.- Examen de aspirante de corredor público.............. $ 250.00
 
-#### SECCION SEXTA. Servicios Relativos a la Regulación de Precios
+II.- Examen definitivo de corredor público.............. $ 500.00
+
+III.- Expedición y registro de títulos de habilitación.............. $ 1,000.00
+
+IV.- Registro de garantías, sellos y firmas de corredores, por cada garantía, sello o firma.............. $ 150.00
+
+V.- Autorización de libros de registro de corredores, por cada libro.............. $ 150.00
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION TERCERA. Inversiones Extranjeras
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 63.
 
@@ -2191,13 +2161,43 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992) (REPUBLICADO, D.O.F. 2 DE AGOSTO DE 1994)
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 64.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+Por el estudio y trámite de las solicitudes relativas al ejercicio de los derechos que prevé la Ley Minera, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Inscripción en el registro de apoderados............... $ 164.00
+
+II.- Reducción, división, identificación o unificación de superficie.............. $ 767.00
+
+III.- Agrupamiento de concesiones mineras, la incorporación o separación de éstas a uno o más de ellos.............. $ 109.00
+
+IV.- Expedición de duplicado del título de concesión o asignación minera.............. $ 131.00
+
+V.- Inscripción en el registro de peritos mineros.............. $ 164.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 65.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Inscripción de actos, contratos o convenios relativos a la transmisión de la titularidad de concesiones mineras o de los derechos que de ellas deriven.............. $ 438.00
+
+II.- Cancelación de las inscripciones relativas a los actos, contratos o convenios a que alude la fracción interior.............. $ 109.00
+
+III.- Inscripción de sociedades mineras.............. $ 657.00
+
+IV.- Inscripción de las modificaciones estatutarias de dichas sociedades.............. $ 219.00
+
+V.- Inscripción de la suscripción o adquisición de acciones o partes sociales por parte de instituciones de crédito, en su carácter de fiduciarias.............. $ 548.00
+
+VI.- Avisos notariales preventivos.............. $ 109.00
+
+VII.- Anotaciones preventivas para interrumpir la cancelación de las inscripciones de contratos o convenios sujetos a temporalidad.............. $ 109.00
+
+VIII.- Revisión de la documentación que consigne las correcciones o aclaraciones requeridas para la inscripción o cancelación de los actos, contratos o convenios mencionados en las fracciones anteriores $ 96.00
 
 ###### ARTICULO 65-A.
 
@@ -2207,13 +2207,23 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 (DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 66.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+Por la expedición de planos de la cartografía minera, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por cada plano a escala 1:50,000 que corresponda a las hojas topográficas del Instituto Nacional de Estadística, Geografía e Informática............... $ 1,095.00
+
+II.- Por cada porción de las hojas anteriores de 5 minutos de latitud y de longitud............ $ 109.00
+
+III.- Por cada porción a que se refiere la fracción anterior a escala 1:25,000.............. $ 438.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 67.
 
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
+Por la prestación de servicios relativos a las visitas para dictaminar sobre la procedencia de solicitudes de expropiación, ocupación temporal o constitución de servidumbre o para resolver sobre la nulidad, suspensión o insubsistencia de derechos, se cubrirán los derechos conforme a lo dispuesto por el artículo 5o. fracción VII, de esta Ley.
 
 ###### ARTICULO 68.
 
@@ -2245,7 +2255,9 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION SEPTIMA. Sistemas de Comercialización
+#### SECCION CUARTA. Normas Oficiales
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 71.
 
@@ -2345,7 +2357,9 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION TERCERA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
-#### SECCION OCTAVA. Verificación de Instrumentos de Medir
+#### SECCION QUINTA. Permisos de Importación
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 73-A.
 
@@ -2427,9 +2441,9 @@ Por la autorización para el uso de hologramas con que marcarán las obras o ins
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION CUARTA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
-#### SECCION PRIMERA. Servicios de Agua
+#### SECCION SEXTA. Competencia Económica
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 74.
 
@@ -2479,19 +2493,17 @@ La Secretaría de Hacienda y Crédito Público determinará la forma del pago de
 
 El derecho de permiso de importación por los servicios previstos en las fracciones I y III del artículo 74 de esta Ley, se pagará al presentar la solicitud respectiva.
 
-(REUBICADA CON EL ARTICULO QUE LA INTEGRA [N. DE E. ANTES SECCION QUINTA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. Sanidad Fitopecuaria
+#### SECCION SEPTIMA. Sistemas de Comercialización
 
 ###### ARTICULO 77.
 
-(DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
+Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea la resolución que emita la Comisión Federal de Competencia, se pagarán derechos conforme a la cuota de $ 55,000.00.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+#### SECCION OCTAVA. Verificación de Instrumentos de Medir
 
 ###### ARTICULO 78.
 
@@ -2499,9 +2511,9 @@ El derecho de permiso de importación por los servicios previstos en las fraccio
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEPTIMA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
-#### SECCION CUARTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y uso de Plaguicidas, Fertilizantes y Sustancias Toxicas
+#### SECCION PRIMERA. Servicios de Agua
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 79.
 
@@ -2531,7 +2543,7 @@ El derecho de permiso de importación por los servicios previstos en las fraccio
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION QUINTA. De los Parques Nacionales
+#### SECCION SEGUNDA. Sanidad Fitopecuaria
 
 ###### ARTICULO 82.
 
@@ -2539,9 +2551,13 @@ Por los servicios de trámite y expedición de asignaciones, concesiones o permi
 
 I.- Por la expedición de cada título de asignación o concesión para usar o aprovechar aguas nacionales incluyendo su registro.............. N$ 500.00
 
-II.- Por la expedición de cada permiso de descarga de aguas residuales provenientes de industrias a un cuerpo receptor, incluyendo su registro............ N$ 4,648.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Por la expedición de cada permiso de descarga de aguas residuales, distintas a las que prevé la fracción anterior, incluyendo su registro............... N$ 700.00
+II.- Por la expedición de cada permiso de descarga de aguas residuales provenientes de industrias a un cuerpo receptor, incluyendo su registro.............. $ 1,500.00
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Por la expedición de cada permiso de descarga de aguas residuales, distintas a las que prevé la fracción anterior, incluyendo su registro............... $ 500.00
 
 IV.- Por la autorización para modificar las características de los títulos o permisos a que se refieren las fracciones I, II y III de este artículo, respecto a extracción o derivación, uso o aprovechamiento, sustitución de usuarios, ubicación o características de las obras, punto o calidad de descarga o plazo......... N$ 260.00
 
@@ -2599,11 +2615,11 @@ IV.- Por los servicios que preste el Registro Público por la búsqueda o acceso
 
 V.- Por la expedición de certificados o constancias de las inscripciones o documentos que obren en el Registro Público, por cada uno............ N$ 25.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 83-A.
 
-No pagarán los derechos a que se refieren los artículos 82 y 82-A, fracciones II, III y V del presente capítulo, los usuarios de aguas nacionales que se dediquen a actividades agropecuarias por el agua que utilicen para este fin y para satisfacer las necesidades domésticas.
+No pagarán los derechos a que se refieren los artículos 82 y 82-A, fracciones II, III y V del presente capítulo, los usuarios de aguas nacionales que se dediquen a actividades agropecuarias por el agua que utilicen para este fin y para satisfacer las necesidades domésticas, así como las poblaciones rurales iguales o inferiores a 2,500 habitantes, de acuerdo al resultado del último Censo General de Población y Vivienda.
 
 ###### ARTICULO 83-B.
 
@@ -2643,13 +2659,15 @@ XI.- Los pagos que se deban efectuar conforme a lo señalado en esta Sección, s
 
 El ejercicio de las facultades a que se refiere este artículo, es independiente y sin menoscabo de las atribuciones que competen a la Secretaría de Hacienda y Crédito Público.
 
-Cuando en el ejercicio de las facultades fiscales a que se refiere este artículo, la Comisión Nacional del Agua imponga multas por infracciones a las disposiciones fiscales y éstas sean efectivamente pagadas y que hubieren quedado firmes, las mismas se destinarán a los fondos de productividad para el otorgamiento de estímulos y recompensas a los servidores públicos, que de acuerdo al artículo 70-BIS del Código Fiscal de la Federación y el artículo 59-BIS de su Reglamento, intervengan en la comprobación, determinación, notificación y recaudación de los créditos fiscales. La distribución de los fondos se hará en los términos que señale el Reglamento Interior de la Secretaría de Agricultura y Recursos Hidráulicos.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Cuando en el ejercicio de las facultades fiscales a que se refiere este artículo, la Comisión Nacional del Agua imponga multas por infracciones a las disposiciones fiscales y éstas sean efectivamente pagadas y que hubieren quedado firmes, las mismas se destinarán a los fondos de productividad para el otorgamiento de estímulos y recompensas a los servidores públicos, que de acuerdo al artículo 70-BIS del Código Fiscal de la Federación y el artículo 59-BIS de su Reglamento, intervengan en la comprobación, determinación, notificación y recaudación de los créditos fiscales. La distribución de los fondos se hará en los términos que señale el Reglamento Interior de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION SEXTA. Otros Servicios
+#### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 84.
 
@@ -2681,103 +2699,111 @@ III.- Lugares en donde exista personal adscrito las 24 horas del día.
 
 IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la sanidad fitopecuaria del país.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86-A.
 
-Por el registro, expedición de permisos, autorizaciones y certificados relacionados con la sanidad y movilización de animales o vegetales, productos derivados de los mismos, así como los de uso o aplicación en animales o vegetales, se pagará el derecho de sanidad fitopecuaria, conforme a las siguientes cuotas:
+Por la expedición de certificados zoosanitarios y fitosanitarios, se pagará el derecho de certificación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
 
-I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+I.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria. $ 30.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+II.- Por cada certificado zoosanitario para la movilización nacional de animales vivos, productos y subproductos animales, sujetos a regulación zoosanitaria. $ 30.00
 
-II.- Por la certificación fitosanitaria de viveros, invernaderos, laboratorios de micropropagación, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico para mango, empresas de tratamiento cuarentenarios centros de acopio de granos y semilla (sic) reguladas.......... $ 200.00
+III.- Por cada certificado fitosanitario internacional para la exportación de vegetales, sus productos y subproductos. $ 150.00
 
-III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+IV.- Por cada certificado zoosanitario para la exportación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos. $ 150.00
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+V.- Por cada certificado fitosanitario internacional para la importación de vegetales, sus productos y subproductos. $ 515.00
 
-IV.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria............. $ 20.00
+VI.- Por cada certificado zoosanitario internacional para la importación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos. $ 515.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+VII.- Por la certificación de la calidad zoosanitaria de cada establecimiento Tipo Inspección Federal, cuando sea realizada por la Comisión Nacional de Sanidad Agropecuaria. $ 6,000.00
 
-V.- Por cada certificado fitosanitario internacional para la exportación de productos y subproductos vegetales................ $ 100.00
+VIII.- Por la certificación fitosanitaria de viveros, invernaderos, laboratorios, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico, empresas de tratamiento cuarentenario, centros de acopio de granos y semillas regulados. $ 290.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Por duplicado o renovación de los certificados a que se refiere este artículo, así como por la renovación de la certificación a que se refieren las fracciones VII y VIII, se pagará el 50% de la cuota correspondiente.
 
-VI.- Expedición del certificado fitosanitario para la importación de vegetales, sus productos y subproductos............... $ 171.00
+No se pagará el derecho a que se refiere este artículo por los animales y vegetales, así como sus productos y subproductos que se importen o exporten en forma temporal, así como mascotas, animales de compañía, perros guías para invidentes, muestras médicas y comerciales.
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
-
-VII.- Expedición del certificado zoosanitario para la importación de animales, sus productos y sus subproductos............. $ 390.66
-
-> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 1996)</small>
-
-VIII.- Por la expedición del formato de Requisitos Técnico-Fitosanitarios para la importación y exportación de productos y subproductos vegetales............. $ 90.00
-
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-No se pagarán los derechos a que se refiere este artículo por los animales y vegetales, productos y subproductos que se importen o exporten en forma temporal, así como mascotas, animales de compañía, perros guías para invidentes, muestras médicas y comerciales.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86-B.
 
-Por la certificación de empresas que realicen actividades en materia de plaguicidas agrícolas, se pagará por cada establecimiento el derecho de sanidad fitopecuaria, conforme a las siguientes cuotas:
+Por la certificación de empresas o establecimientos que realicen actividades en materia de plaguicidas agrícolas o pecuarios, se pagará por cada empresa y, en su caso, establecimiento el derecho de certificación fitosanitaria o zoosanitaria en materia de plaguicidas, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+I.- Por la certificación fitosanitaria o zoosanitaria de empresas o establecimientos dedicados a la explotación, fabricación, elaboración, formulación, maquila, mezclado, acondicionamiento, envasado e importación de plaguicidas agrícolas o pecuarios.............. $ 5,064.00
 
-I.- Por la certificación fitosanitaria de empresas dedicadas a la explotación, fabricación, elaboración, formulación o maquila, formulación por maquila, mezclado, acondicionamiento, envasado e importado de plaguicida agrícola............. $ 3,987.76
+II.- Por la certificación fitosanitaria o zoosanitaria de empresas o establecimientos dedicados a la comercialización, aplicación y distribución de plaguicidas agrícolas o pecuarios........ $ 1,820.00
 
-II.- Por la certificación fitosanitaria de empresas dedicadas a la comercialización, aplicación y distribución de plaguicidas agrícolas............... $ 1,255.00
+Por la renovación anual de las certificaciones a que se refiere el presente artículo se cobrará el 50% de la cuota establecida para cada una de ellas.
 
-Por la renovación o modificación del certificado de empresas a que se refieren las fracciones I y II que anteceden, se pagará el 50% de la cuota correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86-C.
 
-Por los servicios técnicos que soliciten las empresas que realicen actividades en materia de plaguicidas agrícolas, se pagará el derecho de sanidad fitopecuaria, conforme a las siguientes cuotas:
+Por los servicios técnicos que soliciten las empresas que realicen actividades en materia de plaguicidas agrícolas o pecuarios, se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
 
-I.- Por el dictamen técnico de efectividad biológica de plaguicidas agrícolas................ $ 500.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Por el dictamen técnico de efectividad biológica de plaguicidas agrícolas o pecuarios................. $ 725.00
 
 II.- Por la certificación de estudios para el establecimiento de límites máximos de residuos............... $ 5,000.00
 
-III.- Por el certificado fitosanitario de liberación al medio ambiente de organismos manipulados mediante la aplicación de ingeniería genética.............. $ 1,000.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Por el certificado fitosanitario o zoosanitario de liberación al medio ambiente de organismos manipulados mediante la aplicación de ingeniería genética.............. $ 1,451.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 86-D.
+
+Por la aprobación para el funcionamiento de los siguientes establecimientos u organismos, se pagará el derecho de aprobación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
+
+I.- Organismos de normalización.............. $ 13,700.00
+
+II.- Organismos de certificación.............. $ 26,500.00
+
+III.- Unidades de verificación:
+
+a).- Personas físicas.............. $ 250.00
+
+b).- Personas morales.............. $ 2,024.00
+
+IV.- Laboratorios de pruebas.............. $ 800.00
+
+V.- Médicos veterinarios para brindar servicios de asistencia técnica y capacitación zoosanitaria a los productores.............. $ 250.00
+
+Por duplicado o refrendo de la aprobación a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 86-E.
+
+Por la expedición de los documentos que contengan los requisitos técnicos fitosanitarios o zoosanitarios para el trámite en materia de sanidad agropecuaria se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
+
+I.- Por la expedición del formato de requisitos técnico-fitosanitarios para importación........ $ 100.00
+
+II.- Por la expedición de la hoja de requisitos técnico-zoosanitarios para importación....... $ 100.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. Servicios de Telecomunicaciones
+#### SECCION CUARTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y uso de Plaguicidas, Fertilizantes y Sustancias Toxicas
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 87.
 
 Por los servicios que se presten al obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme a las siguientes cuotas:
 
-I.- Por el trámite de solicitud de protección de derechos del obtentor................ $ 1,000.00
+I.- Por el estudio y trámite de la solicitud de protección de derechos del obtentor.............. $ 4,700.00
 
-II.- Por la expedición del título definitivo.............. $ 2,000.00
+II.- Por la expedición de la constancia de presentación.............. $ 250.00
 
-III.- Por reconocimiento del derecho de prioridad............... $ 250.00
+III.- Por la expedición del título del obtentor............... $ 2,300.00
 
-IV.- Por cambio de denominación................ $ 500.00
+IV.- Por el reconocimiento del derecho de prioridad.............. $ 250.00
 
-V.- Por evaluación de la variedad:
-
-a).- Primer periodo:
-
-1.- Para el grupo A............. $ 3,000.00
-
-2.- Para el grupo B............. $ 2,000.00
-
-3.- Para el grupo C............. $ 1,500.00
-
-b).- Segundo y subsecuentes:
-
-1.- Para el grupo A............. $ 2,500.00
-
-2.- Para el grupo B............. $ 1,500.00
-
-3.- Para el grupo C............. $ 1,000.00
+V.- Por cambio de denominación.............. $ 635.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2791,7 +2817,9 @@ II.- Por cada copia certificada del título............. $ 100.00
 
 III.- Por el registro de la renuncia al derecho............. $ 500.00
 
-IV.- Por la revisión de título............. $ 100.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IV.- Copia de la caracterización de la variedad protegida.............. $ 127.00
 
 V.- Por las correcciones por causa imputable al usuario........... $ 65.00
 
@@ -2819,11 +2847,11 @@ Año 16
 
 y subsecuentes $ 2,000.00 $ 1,750.00 $ 1,250.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 89-A.
 
-Para los efectos de esta Sección se entenderá que se encuentran comprendidos en el grupo “A” a los cereales y papas: en el grupo “B” a las oleaginosas, forrajeros, hortalizas y ornamentales; y en el grupo “C” a las frutales, forestales, arbustos y árboles ornamentales y todos aquellos vegetales no incluidos en los grupos “A” o “B”.
+Para los efectos de esta Sección se entenderá que se encuentran comprendidos en el grupo “A” a los cereales y papa; en el grupo “B” a las oleaginosas, forrajeros, hortalizas y ornamentales; y en el grupo “C” a las frutales, forestales, arbustos y árboles ornamentales y todos aquellos vegetales no incluidos en los grupos “A” o “B”.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2843,13 +2871,19 @@ II.- Por la expedición de certificados de calidad, por etiqueta............. $ 
 
 III.- Por la autorización a personas físicas o morales como organismos de certificados de semillas:
 
-a).- Autorización............. $ 1,500.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-c) (sic).- Por refrendo anual............. $ 1,000.00
+a).- Autorización.............. $ 3,000.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+b).- Por refrendo anual.............. $ 1,500.00
+
+c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADA CON LAS ARTICULOS QUE LA INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-#### SECCION SEGUNDA. Servicios de Telégrafos y Teléfonos
+#### SECCION QUINTA. De los Parques Nacionales
 
 ###### ARTICULO 90-A.
 
@@ -2933,9 +2967,7 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-#### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
+#### SECCION SEXTA. Otros Servicios
 
 ###### ARTICULO 90-F.
 
@@ -2945,147 +2977,329 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. Servicio de Correos
+#### SECCION PRIMERA. Servicios de Telecomunicaciones
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 90-H.
 
-Por los servicios que presta la Secretaría de Agricultura y Recursos Hidráulicos en materia de flora y fauna silvestre, se pagarán derechos conforme a las siguientes cuotas:
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- Por cada registro y refrendo anual:
-
-a).- De clubes o asociaciones cinegéticas.................. N$ 200.00
-
-b).- De criaderos de fauna silvestre y viveros.................. N$ 100.00
-
-c).- Para taxidermistas.................. N$ 100.00
-
-d).- Para mascotas o aves de presa.................. N$ 80.00
-
-e).- Para colecciones particulares de fauna silvestre............ N$ 80.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-f).- De zoológicos, aviarios, herpetarios, circos y espectáculos de fauna silvestre............. $ 77.97
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Por la expedición de cada permiso o su refrendo, por temporada:
-
-a).- Para organizadores de expediciones cinegéticas, por entidad federativa.......... N$ 3,887.00
-
-b).- Para guías o asistentes cinegéticos, por entidad federativa.................. N$ 168.00
-
-c).- Para comercialización ambulante de aves canoras y de ornato, por entidad federativa.................. N$ 23.00
-
-d).- Para comercialización establecida de aves canoras y de ornato.................. N$ 171.00
-
-e).- Para comercialización al mayoreo de aves canoras y de ornato.................. N$ 873.00
-
-f).- Para transportación de aves canoras y de ornato............. N$ 80.00
-
-g).- Para capturador de aves canoras y de ornato, por entidad federativa.................. N$ 54.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- Por la expedición de cada permiso de importación, cualquiera que sea su resolución:
-
-a).- De productos o subproductos de fauna.................. N$ 30.00
-
-b).- De trofeos de caza.................. N$ 100.00
-
-c).- De especies de acuario, incluyendo peces, tortugas e invertebrados en general..... N$ 100.00
-
-d).- De animales de fauna silvestre provenientes del medio natural o de criadero.......... N$ 200.00
-
-e).- De animales de fauna silvestre para fines no comerciales o de investigación científica.................. N$ 70.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IV.- Por la expedición de cada permiso de exportación de fauna silvestre, sus productos o subproductos, cualquiera que sea su resolución.................. N$ 30.00
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-V.- Por la expedición de cada permiso para traslado de fauna silvestre dentro del territorio nacional.................. N$ 30.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ### CAPITULO VIII. De la Secretaría de Comunicaciones y Transportes
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION QUINTA. Autotransporte Federal
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+#### SECCION SEGUNDA. Servicios de Telégrafos y Teléfonos
 
 ###### ARTICULO 91.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los permisionarios y concesionarios sujetos a verificación conforme a la Ley Federal de Telecomunicaciones, deberán pagar anualmente el derecho de verificación conforme a las siguientes cuotas:
+
+A.- Tratándose de permisionarios y concesionarios que hubieran prestado servicios de telecomunicaciones de los previstos en este artículo durante los doce meses del año inmediato anterior al ejercicio de que se trate:
+
+I.- Por cada línea de telefonía local contratada, cuya conexión a la red no utilice bandas del espectro radioeléctrico con frecuencias Inferiores a dos gigahertz.............. $ 9.30
+
+II.- Por cada equipo terminal al que se preste el servicio de telefonía celular o radiotelefonía móvil o fija que utilice bandas del espectro radioeléctrico con frecuencias inferiores a dos gigahertz.............. $ 11.50
+
+III.- Por cada equipo terminal al que se preste el servicio de radiolocalización móvil de personas............... $ 5.45
+
+IV.- Por cada equipo terminal al que se preste el servicio de radiocomunicación especializada de flotillas.............. $ 6.60
+
+V.- Por cada equipo terminal al que se preste el servicio de televisión restringida por microondas............... $ 9.20
+
+VI.- Por cada equipo terminal al que se preste el servicio de televisión por cable...... $ 8.30
+
+VII.- Por cada equipo terminal al que se preste el servicio de televisión restringida vía satélite nacional.............. $ 8.65
+
+VIII.- Por cada equipo terminal al que se preste el servicio de televisión restringida vía satélite extranjero.............. $ 12.75
+
+IX.- Por cada equipo terminal al que se presten servicios concesionados de radiocomunicación marítima, radio restringido y de otras redes de telecomunicaciones que no se encuentren contempladas en este artículo.............. $ 12.00
+
+Para determinar el número de usuarios por servicio, de conformidad con este artículo, se considerarán las líneas y equipos terminales reportados por el concesionario o permisionario ante la Secretaría de Comunicaciones y Transportes al 31 de diciembre del año anterior.
+
+Los contribuyentes a que se refiere este apartado efectuarán seis pagos bimestrales iguales por un monto equivalente a la sexta parte del derecho anual durante los primeros cinco días de los meses de febrero, abril, junio, agosto, octubre y diciembre del ejercicio de que se trate, mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+B.- Tratándose de permisionarios y concesionarios que por encontrarse en el primer año de prestación del servicio no hubieren prestado un servicio de telecomunicaciones de los previstos en este artículo durante los doce meses del año inmediato anterior al ejercicio de que se trate:
+
+I.- Por cada línea de telefonía local contratada, cuya conexión a la red no utilice bandas del espectro radioeléctrico con frecuencias inferiores a dos gigahertz .............. $ 1.55
+
+II.- Por cada equipo terminal al que se preste el servicio de telefonía celular o radiotelefonía móvil o fija que utilice bandas del espectro radioeléctrico con frecuencias inferiores a dos gigahertz.............. $ 1.92
+
+III.- Por cada equipo terminal al que se preste el servicio de radiolocalización móvil de personas.............. $ 0.91
+
+IV.- Por cada equipo terminal al que se preste el servicio de radiocomunicación especializada de flotillas.............. $ 1.10
+
+V.- Por cada equipo terminal al que se preste el servicio de televisión restringida por microondas............... $ 1.53
+
+VI.- Por cada equipo terminal al que se preste el servicio de televisión por cable...... $ 1.38
+
+VII.- Por cada equipo terminal al que se preste el servicio de televisión restringida vía satélite nacional.............. $ 1.44
+
+VIII.- Por cada equipo terminal al que se preste el servicio de televisión restringida vía satélite extranjero.............. $ 2.13
+
+IX.- Por cada equipo terminal al que se presten servicios concesionados de radiocomunicación marítima, radio restringido y de otras redes de telecomunicaciones que no se encuentren contempladas en este artículo.............. $ 2.00
+
+Para determinar el número de usuarios por servicio de conformidad con este artículo se considerará el número de usuarios por servicio reportados por el concesionario o permisionario ante la Secretaría de Comunicaciones y Transportes, al último día de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+Los contribuyentes a que se refiere este apartado efectuarán seis pagos bimestrales durante los primeros cinco días de los meses de febrero, abril, junio, agosto, octubre y diciembre del ejercicio de que se trate, mediante declaración que presentarán ante las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 92.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Los concesionarios y permisionarios de bandas de frecuencias y los permisionarios de estaciones terrenas transmisoras a través de las cuales no se obtengan ingresos tarifados, pagarán anualmente durante los primeros cinco días del mes de febrero el derecho de verificación conforme a las siguientes cuotas:
+
+I.- Por cada estación repetidora.............. $ 900.00
+
+II.- Por cada estación base.............. $ 600.00
+
+III.- Por cada estación terminal o equipo terminal.............. $ 60.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 93.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento de concesiones para el uso, aprovechamiento o explotación de una banda de frecuencias en el territorio nacional, salvo el espectro de uso libre y el de uso oficial, independientemente de las contraprestaciones ofrecidas de acuerdo con lo dispuesto en el artículo 14 de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 4,352.00
+
+II.- Por la expedición del título de concesión............... $ 7,253.00
+
+III.- Por el estudio de la solicitud del refrendo de la concesión.............. $ 3,627.00
+
+IV.- Por la expedición del refrendo del título de concesión.............. $ 3,627.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 94.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento de concesiones para instalar, operar o explotar redes públicas de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 7,253.00
+
+II.- Por la expedición del título de concesión............... $ 14,506.00
+
+III.- Por el estudio de la solicitud del refrendo de la concesión.............. $ 7,253.00
+
+IV.- Por la expedición del refrendo del título de concesión.............. $ 7,253.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 95.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento de concesiones para ocupar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país, y explotar sus respectivas bandas de frecuencias, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 4,352.00
+
+II.- Por la expedición del título de concesión............... $ 7,253.00
+
+III.- Por el estudio de la solicitud del refrendo de la concesión.............. $ 3,627.00
+
+IV.- Por la expedición del refrendo del título de concesión.............. $ 3,627.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 96.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento de concesiones para explotar los derechos de emisión y recepción de señales de bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 7,253.00
+
+II.- Por la expedición del título de concesión............... $ 14,506.00
+
+III.- Por el estudio de la solicitud del refrendo de la concesión.............. $ 7,253.00
+
+IV.- Por la expedición del refrendo del título de concesión.............. $ 7,253.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 97.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el estudio de la solicitud y autorización de modificaciones técnicas, administrativas y legales de concesiones en materia de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por autorización de cambio de representante o apoderado, después del primeramente aceptado............... $ 1,451.00
+
+II.- Por cambio en la titularidad de las concesiones:
+
+a).- Por el estudio.............. $ 10,840.00
+
+b).- Por la autorización.............. $ 3,666.00
+
+III.- Por cambio en la escritura constitutiva del concesionario:
+
+a).- Por el estudio.............. $ 5,420.00
+
+b).- Por la autorización.............. $ 2,026.00
+
+IV.- Por autorización a los concesionarios de redes públicas de telecomunicaciones para prestar servicios adicionales:
+
+a).- Por el estudio.............. $ 921.00
+
+b).- Por la autorización.............. $ 317.00
+
+V.- Por ampliación al área de cobertura de la red:
+
+a).- Por el estudio.............. $ 921.00
+
+b).- Por la autorización.............. $ 317.00
+
+VI.- Por el uso, aprovechamiento o explotación de la banda de frecuencias concesionada, así como características técnicas y de operación de la banda:
+
+a).- Por el estudio.............. $ 921.00
+
+b).- Por la autorización.............. $ 317.00
+
+VII.- Por el estudio y, en su caso, autorización de prórrogas relativas al cumplimiento de obligaciones establecidas en el título de concesión............... $ 641.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 98.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento de permisos para establecer y operar una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 3,627.00
+
+II.- Por la expedición del permiso.............. $ 7,253.00
+
+III.- Por el estudio de la solicitud del refrendo del permiso.............. $ 3,627.00
+
+IV.- Por la expedición del refrendo del permiso.............. $ 3,627.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 99.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el estudio de la solicitud y autorización de modificaciones técnicas, administrativas y legales de permisos para establecer y operar una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por cambio de representante o apoderado, después del primeramente aceptado.............. $ 1,451.00
+
+II.- Por cambio en la titularidad del permiso:
+
+a).- Por el estudio.............. $ 5,420.00
+
+b).- Por la autorización.............. $ 1,833.00
+
+III.- Por cambio en la escritura constitutiva del permisionario:
+
+a).- Por el estudio.............. $ 1,084.00
+
+b).- Por la autorización.............. $ 367.00
+
+IV.- Por ampliación al área de cobertura de los servicios:
+
+a).- Por el estudio.............. $ 921.00
+
+b).- Por la autorización.............. $ 317.00
+
+V.- Por el estudio y, en su caso, autorización de prórrogas relativas al cumplimiento de obligaciones establecidas en el permiso.............. $ 641.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 100.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el estudio de la solicitud y autorización de modificaciones técnicas, administrativas y legales de permisos en materia de telecomunicaciones otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por la autorización de modificaciones que requieran estudio técnico.............. $ 1,243.00
+
+II.- Por la autorización de modificaciones que no requieran estudio técnico........ $ 657.00
 
 ###### ARTICULO 100-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 101.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento de permisos para instalar, operar o explotar estaciones terrenas transmisoras, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 2,901.00
+
+II.- Por la expedición del permiso.............. $ 1,451.00
+
+III.- Por la expedición del refrendo del permiso............... $ 1,451.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 102.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el estudio de la solicitud y autorización de modificaciones técnicas, administrativas y legales de permisos para instalar, operar o explotar estaciones terrenas transmisoras, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por cambio de representante o apoderado, después del primeramente aceptado... $ 1,451.00
+
+II.- Por cambio en la titularidad del permiso:
+
+a).- Por el estudio.............. $ 5,420.00
+
+b).- Por la autorización.............. $ 1,833.00
+
+III.- Por cambio en la escritura constitutiva del permisionario:
+
+a).- Por el estudio.............. $ 1,084.00
+
+b).- Por la autorización.............. $ 367.00
+
+IV.- Por cambio en las características técnicas y de operación de la estación terrena transmisora:
+
+a).- Por el estudio.............. $ 921.00
+
+b).- Por la autorización.............. $ 317.00
+
+V.- Por el estudio y, en su caso, autorización de prórrogas relativas al cumplimiento de obligaciones establecidas en el permiso.............. $ 641.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 103.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el estudio y trámite de la solicitud de inscripción en el Registro de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- De títulos de concesión, permisos y asignaciones otorgadas y, en su caso, por modificaciones autorizadas a los mismos............... $ 500.00
+
+II.- De servicios de valor agregado.............. $ 1,088.00
+
+III.- De equipos de banda compartida o banda civil, se pagará por una sola vez.............. $ 77.00
+
+IV.- De gravámenes impuestos a las concesiones.............. $ 1,088.00
+
+V.- De cesión de derechos y obligaciones.............. $ 1,088.00
+
+VI.- De bandas de frecuencias otorgadas en las distintas zonas del país.............. $ 1,088.00
+
+VII.- De convenios de interconexión entre redes.............. $ 250.00
+
+VIII.- De tarifas al público de los servicios de telecomunicaciones.............. $ 1,088.00
+
+IX.- De cualquier otro documento relativo a operaciones de concesionarios o permisionarios, cuando los reglamentos de la Ley Federal de Telecomunicaciones exijan dicha formalidad............... $ 1,088.00
+
+X.- De cualquier otro documento relativo a operaciones de concesionarios o permisionarios que requiera ser objeto de registro y que no requiera un estudio previo de la solicitud......... $ 100.00
 
 ###### ARTICULO 103-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 104.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
+Por la asignación y administración de números geográficos y no geográficos, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de solicitudes de asignación de números geográficos y no geográficos y, en su caso, por el otorgamiento de la autorización.............. $ 8.00 por cada número autorizado
+
+II.- Por la administración de cada número geográfico y no geográfico registrado en la base de datos de la Secretaría de Comunicaciones y Transportes, se pagará anualmente............... $ 0.80
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 105.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+Por el otorgamiento del título de asignación de bandas de frecuencias para uso oficial, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por el estudio de la solicitud de asignación de frecuencias para uso oficial.............. $ 1,243.00
+
+II.- Por el otorgamiento del título de asignación de bandas de frecuencia para uso oficial.................. $ 2,486.00
+
+III.- Por la autorización de modificaciones o ampliaciones al título de asignación de bandas de frecuencias de uso oficial.............. $ 1,243.00
 
 ###### ARTICULO 106.
 
@@ -3193,7 +3407,9 @@ V.- Por la expedición de cada permiso para traslado de fauna silvestre dentro d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
+#### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 116.
 
@@ -3211,9 +3427,7 @@ V.- Por la expedición de cada permiso para traslado de fauna silvestre dentro d
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
-#### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+#### SECCION CUARTA. Servicio de Correos
 
 ###### ARTICULO 120.
 
@@ -3235,41 +3449,13 @@ V.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
 ###### ARTICULO 121.
 
-Por el otorgamiento de concesión para la prestación y operación del servicio público telefónico y otras redes públicas de telefonía, se pagará el derecho de servicio telefónico, conforme a las siguientes cuotas:
-
-I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-III.- Aumento de capital social o modificaciones al acta o escritura constitutiva del concesionario............ $ 2'500,000.00
-
-IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 122.
 
-Por el otorgamiento de concesión o permiso para instalar y explotar redes públicas de radiocomunicación terrestre de los servicios de: radiocomunicación móvil de personas, móvil de radiocomunicación especializada de flotillas, portadora común convencional o troncal, radiolocalización de vehículos, música continua, radio determinación, radiotelefónico móvil convencional o celular, se pagará el derecho de instalación y explotación de redes públicas de radiocomunicación, conforme a las siguientes cuotas:
-
-I.- Por estudio de la solicitud de concesión:
-
-a).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-b).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-c).- Por aumento de capital social y modificaciones a la estructura de la escritura o acta constitutiva........... $ 2'500,000.00
-
-d).- (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
-
-II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-III.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 122-A.
 
@@ -3305,169 +3491,33 @@ g).- Ampliación del sistema de otra población............. $ 3,000.00
 
 h).- Por la expedición del refrendo de concesiones.............. $ 3'000.000.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 123-A.
 
-Por el otorgamiento de concesiones para el uso, aprovechamiento o explotación de una banda de frecuencias en el territorio nacional, salvo el espectro de uso libre y el de uso oficial, independientemente de las contraprestaciones ofrecidas conforme el artículo 14 de la Ley Federal de Telecomunicaciones, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
-
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 3,000.00
-
-III.- Por la expedición del título de concesión............. $ 5,000.00
-
-IV.- Por cada estudio de solicitud y de documentación inherente a la misma:
-
-a).- Modificación en el uso, aprovechamiento o explotación de la banda de frecuencias................ $ 2,500.00
-
-b).- Cambio de representante o apoderado, después del primeramente aceptado....... $ 1,000.00
-
-c).- Cambio en la titularidad de las concesiones............. $ 10,000.00
-
-d).- Por el estudio de la solicitud del refrendo de la concesión............. $ 2,500.00
-
-e).- Por la expedición del título de refrendo de la concesión............. $ 2,500.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
-
-f).- Modificación a la red............. $ 1,142.30
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 123-B.
 
-Por el otorgamiento de concesiones para instalar, operar o explotar redes públicas de telecomunicaciones, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
-
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 5,000.00
-
-III.- Por la expedición del título de concesión............. $ 10,000.00
-
-IV.- Por cada estudio de solicitud y de documentación inherente a la misma:
-
-a).- Modificación a la red............. $ 2,500.00
-
-b).- Cambio de representante o apoderado, después del primeramente aceptado...... $ 1,000.00
-
-c).- Cambio en la titularidad de las concesiones............. $ 10,000.00
-
-d).- Ampliación de la red a otra población............. $ 5,000.00
-
-e).- Por el estudio de la solicitud del refrendo de la concesión.......... $ 5,000.00
-
-f).- Por la expedición del título de refrendo de la concesión............. $ 5,000.00
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 123-C.
 
-Por el otorgamiento de concesiones para ocupar posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país y explotar sus respectivas bandas de frecuencia, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
-
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 3,000.00
-
-III.- Por la expedición de la concesión............. $ 5,000.00
-
-IV.- Por cada estudio de solicitud y de documentación inherente a la misma:
-
-a).- Cambio de representante o apoderado, después del primeramente aceptado...... $ 1,000.00
-
-b).- Cambio en la titularidad de las concesiones............. $ 10,000.00
-
-c).- Por cada estudio de la solicitud del refrendo de la concesión............. $ 2,500.00
-
-d).- Por la expedición del título de refrendo de la concesión............. $ 2,500.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
-
-e).- Modificación a la red............. $ 1,142.30
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 123-D.
 
-Por el otorgamiento de concesiones para explotar los derechos de emisión y recepción de señales de bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
-
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-II.- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 5,000.00
-
-III.- Por la expedición de la concesión............. $ 10,000.00
-
-IV.- Por cada estudio de solicitud y de documentación inherente a la misma:
-
-a).- Cambio de representante o apoderado, después del primeramente aceptado...... $ 1,000.00
-
-b).- Cambio en la titularidad de las concesiones............. $ 10,000.00
-
-c).- Por cada estudio de la solicitud del refrendo de la concesión............. $ 5,000.00
-
-d).- Por la expedición del título de refrendo de la concesión............. $ 5,000.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
-
-e).- Modificación a la red............. $ 1,142.30
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 123-E.
 
-Por el otorgamiento de permisos para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones sin tener el carácter de red pública, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
-
-I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 2,500.00
-
-II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-III.- Por la expedición del título de permiso............. $ 5,000.00
-
-IV.- Por cada estudio de solicitud y de documentación inherente a la misma:
-
-a).- Cambio de representante o apoderado, después del primeramente aceptado....... $ 1,000.00
-
-b).- Cambio en la titularidad de los permisos............. $ 5,000.00
-
-c).- Por el estudio de la solicitud del refrendo del permiso............... $ 2,500.00
-
-d).- Por la expedición del título de refrendo de la concesión............. $ 2,500.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
-
-e).- Modificación a la red............. $ 1,142.30
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 123-F.
 
-Por el otorgamiento de permisos para instalar, operar o explotar estaciones terrenas transmisoras o transreceptoras, se pagará el derecho de telecomunicaciones, conforme a las siguientes cuotas:
-
-I.- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 1,000.00
-
-II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-III.- Por la expedición del título de permiso............. $ 2,000.00
-
-IV.- Por cada estudio de solicitud y de documentación inherente a la misma:
-
-a).- Cambio de representante o apoderado, después del primeramente aceptado...... $ 1,000.00
-
-b).- Cambio en la titularidad de los permisos............. $ 5,000.00
-
-c).- Por cada estudio de la solicitud del refrendo del permiso............. $ 2,500.00
-
-d).- Por la expedición del título de refrendo del permiso............. $ 2,500.00
-
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
-
-e).- Modificación a la red............. $ 1,142.30
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 123-G.
 
-Por el registro para la prestación de servicios de valor agregado, que se proporcionan a través de una red pública de telecomunicaciones, se pagará el derecho por el registro de telecomunicaciones, conforme a la cuota de $ 750.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -3479,19 +3529,27 @@ Por el otorgamiento de concesiones para establecer estaciones de radiodifusión 
 
 I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
 
-a).- Por el estudio de la solicitud y de la documentación inherente a la misma............. $ 750.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario............. $ 258.00
+a).-Por el estudio de la solicitud y de la documentación inherente a la misma............... $ 2,000.00
 
-c).- Por cada estudio posterior que se realice a cada uno de los requisitos fijados al seleccionado............. $ 500.00
+b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-d).- Por expedición de la concesión............. $ 2,570.64
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+c).- Por expedición del título de concesión............... $ 3,729.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+d).- Por el estudio de la documentación solicitada con motivo de la expedición del título de concesión.............. $ 1,000.00
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
 
-a).- Equipo de transmisión principal, auxiliar o emergente.............. $ 1,028.23
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+a).- Equipo de transmisión principal o auxiliar.............. $ 1,492.00
 
 b).- Frecuencia............. $ 1,713.75
 
@@ -3501,7 +3559,7 @@ d).- Ubicación de los estudios............. $ 428.45
 
 e).- Ubicación de la planta transmisora............. $ 1,713.75
 
-f).- Antena, altura de antena, línea de transmisión y acopladores..... $ 1,713.75
+f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 g).- Horario de operación de estaciones de radio moduladas en amplitud............. $ 856.85
 
@@ -3509,7 +3567,7 @@ h).- Por estudio de mediciones de intensidad de campo........... $ 15,000.00
 
 i).- Distintivo de llamada............. $ 428.40
 
-j).- Por estudio y otorgamiento de prórrogas para modificaciones de características técnicas inicialmente autorizadas............. $ 2,000.00
+j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 k).- Escritura constitutiva de sociedades mercantiles............. $ 1,285.29
 
@@ -3519,31 +3577,27 @@ m).- Titularidad de acciones o partes sociales y de aportaciones integrantes del
 
 n).- Titularidad de los derechos de concesión............. $ 856.85
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Por el estudio de la solicitud del refrendo de la concesión......... $ 5,000.00
+III.- Por el otorgamiento de prórroga para modificaciones de características técnicas autorizadas, así como para cumplir con la documentación fijada.............. $ 2,901.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Por la expedición del título del refrendo de la concesión........... $ 5,000.00
+IV.- Por el estudio de la solicitud del refrendo de la concesión.............. $ 2,936.00
 
-V.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+V.- Por la expedición del título del refrendo de la concesión.............. $ 2,936.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 124-A.
 
-Por el otorgamiento de la concesión o en su caso, del permiso para uso de subportadora múltiplex subordinada al canal principal de radiodifusión modulada en frecuencia, se pagarán derechos conforme a las siguientes cuotas:
+Por el otorgamiento de la autorización para uso y aprovechamiento de la subportadora múltiplex subordinada al canal principal de radiodifusión modulada en frecuencia, independientemente de la contraprestación que corresponda conforme al Transitorio Sexto de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Estaciones clases "A", "B" y "C", con potencia radiada aparente hasta de 3,000 watts, de más de 3,000 hasta 50,000 watts y de más de 50,000 watts en adelante, respectivamente:
+I.- Por el estudio técnico y legal de la solicitud.............. $ 1,492.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-a).- Por el estudio técnico y legal de la solicitud............. $ 1,028.23
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- Por la expedición del permiso............. $ 1,713.75
+II.- Por la expedición de la autorización.............. $ 2,486.00
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -3555,19 +3609,27 @@ Por el otorgamiento de concesiones para establecer estaciones de televisión, as
 
 I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF ( canales del 14 al 69):
 
-a).- Por el estudio de la solicitud y de la documentación inherente a la misma $ 770.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- Por el estudio de los requisitos técnicos, administrativos y legales que se fijen al seleccionado para la continuación del trámite concesionario $ 258.00
+a).- Por el estudio de la solicitud y de la documentación inherente a la misma $ 2,000.00
 
-c).- Por cada estudio posterior que se realice a cada uno de los requisitos fijados al seleccionado $ 500.00
+b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+c).- Por la expedición del título de concesión $ 2,936.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+d).- Por el estudio de la documentación solicitada con motivo de la expedición del título de concesión $ 1,000.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Equipo de transmisor principal, auxiliar o emergente $ 1,927.98
+a).- Cambio de equipo transmisor principal o auxiliar $ 2,797.00
 
 b).- Cambio de canal $ 1'500,000.00
 
@@ -3577,7 +3639,7 @@ d).- Cambio de ubicación de los estudios $ 375,000.00
 
 e).- Cambio de ubicación de la planta transmisora $ 1'500,000.00
 
-f).- Cambio de antena, altura de la antena, línea de transmisión y acopladores $ 1'500,000.00
+f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3587,9 +3649,7 @@ g).- Por estudio de mediciones de intensidad de campo $ 15,000.00
 
 h).- Distinto (sic) de llamada $ 642.63
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-i).- Por estudio y otorgamiento de prórrogas para modificaciones de características técnicas inicialmente autorizadas $ 2,000.00
+i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3607,25 +3667,31 @@ l).- Titularidad de acciones o partes sociales y de aportaciones integrantes del
 
 m).- Titularidad de los derechos de concesión $ 1,285.29
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Por cada solicitud para instalar y operar equipos auxiliares y emergentes $ 2,570.64
+III.- Por el otorgamiento de prórroga para modificaciones de características técnicas autorizadas, así como para cumplir con la documentación fijada $ 2,902.00
 
-IV.- Por el refrendo de la concesión $ 1'000,000.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+IV.- Por cada estudio de solicitud y de documentación técnica, administrativa y legal para instalar y operar estaciones complementarias de zona de sombra $ 3,627.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+V.- Por el estudio de la solicitud del refrendo de la concesión $ 3,627.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por la expedición del título de refrendo de la concesión $ 3,627.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 125-A.
 
-Por el otorgamiento de concesiones o en su caso, del permiso para uso de subportadora múltiplex subordinada al canal principal de estaciones de radio de radiodifusión por televisión, se pagarán derechos conforme a las siguientes cuotas:
+Por el otorgamiento de la autorización para el uso y aprovechamiento de la subportadora múltiplex subordinada al canal principal de televisión, independientemente de la contraprestación que corresponda conforme al Transitorio Sexto de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- Por el estudio técnico y legal de la solicitud.............. $ 1,492.00
 
-I.- Por estaciones de televisión en la banda de VHF (canales del 2 al 13) y en la banda de UHF (canales del 14 al 69):
-
-a).- Por el estudio técnico y legal de la solicitud............... $ 600,000.00
-
-b).- Por la expedición del permiso............ $ 1 '200,000.00
+II.- Por la expedición de la autorización.............. $ 1,958.00
 
 ###### ARTICULO 126.
 
@@ -3641,17 +3707,9 @@ I.- Registro inicial............ $ 3'000,000.00
 
 II.- Revalidación anual............ $ 1'000,000.00
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 128.
 
-Por el otorgamiento del permiso para establecimiento de redes o sistemas privados de telecomunicaciones, se pagará el derecho de permiso de redes o sistemas privados, conforme a las siguientes cuotas:
-
-I.- Por el estudio de la solicitud de redes o sistemas con infraestructura propia.......... $ 500,000.00
-
-II.- Por el otorgamiento del permiso de redes o sistemas con infraestructura propia... $ 1'000,000.00
-
-III.- Por la autorización de modificaciones al permiso de redes o sistemas con infraestructura propia............. $ 500.000.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 128-A.
 
@@ -3665,19 +3723,9 @@ III.- Por la autorización de modificaciones al permiso de redes o sistemas con 
 
 (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
 ###### ARTICULO 128-D.
 
-Por el otorgamiento de permisos y autorizaciones para el establecimiento de sistemas, equipos y aparatos de los sistemas privados de microondas transfronterizos, se pagará el derecho de autorización de sistemas privados de microondas transfronterizos, conforme a las siguientes cuotas:
-
-I.- Por el estudio técnico de la solicitud........... $ 250,000.00
-
-II.- Por el otorgamiento de la autorización o modificación........... $ 500,000.00
-
-III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-IV.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3685,37 +3733,9 @@ IV.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
 
 Por el registro de equipos de banda compartida o banda civil de 26,960 a 27,410 megahertz, se pagará por una sola vez el derecho de registro de banda civil, conforme a la cuota de $ 20,000.00.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 128-F.
 
-Por el permiso de enlaces y cableados de telecomunicaciones por medios ópticos o alámbricos y por enlaces o redes de radiocomunicación, con infraestructura propia de uso privado o para permisionarios de servicios de telecomunicaciones, se pagará el derecho de permiso de enlaces y cableado de comunicaciones, conforme a las siguientes cuotas:
-
-I.- Por el permiso de enlaces y cableados ópticos o alámbricos con infraestructura propia:
-
-a).- Por el estudio técnico y legal de la solicitud.............. $ 600,000.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- Por el otorgamiento del permiso............. $ 453.03
-
-c).- Por la autorización de modificaciones al permiso............ $ 500,000.00
-
-II.- Por el permiso de radioenlaces con infraestructura propia:
-
-a).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-b).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-c).- Por la autorización de modificaciones al permiso, que requieran estudio técnico, tales como: ajuste o cambio de frecuencia, adición o cambio de estaciones base y/o repetidores, aumento de horario en sistemas H.F. y aumento de potencia, se pagará en cada evento............. $ 856.88
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-d).- Por la autorización de modificaciones al permiso que no requieran estudio técnico, tales como: cambio de razón social, cesión de derechos, incremento en el número de móviles............. $ 453.03
-
-El pago de estos derechos es independiente del que se tenga que efectuar, en su caso, por el uso o aprovechamiento del espectro radioeléctrico.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 129.
 
@@ -3725,17 +3745,15 @@ El pago de estos derechos es independiente del que se tenga que efectuar, en su 
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 130.
 
-Por el otorgamiento de permisos para sistemas de televisión por cable, estaciones de radiodifusión y por la instalación y operación de equipos que no tengan propósitos comerciales, se pagará el 50% de los derechos establecidos en los artículos 123, 124 y 125 de esta Ley, según corresponda.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+Por el otorgamiento de permisos para la instalación y operación de estaciones de radiodifusión sonora y de televisión, se pagará el 50% de los derechos establecidos en los artículos 124 y 125 de esta Ley, según corresponda.
 
 ###### ARTICULO 131.
 
-Por la inspección, verificación y vigilancia de los sistemas de telecomunicación en el servicio público y redes privadas cuando se realicen a solicitud del interesado, se pagará el derecho de visita de inspección, conforme a la cuota de............... $ 300,000.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 132.
 
@@ -3769,17 +3787,17 @@ Por la inspección, verificación y vigilancia de los sistemas de telecomunicaci
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 135.
 
-Por la inspección previa al inicio de operaciones y de verificación por modificaciones a estaciones de radiodifusión, sistemas de televisión por cable, redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada, televisión restringida y sistemas de música continua y servicios que se proporcionen por subportadores de radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
+Por la inspección previa al inicio de operaciones y de verificación por modificaciones a estaciones de radiodifusión, y servicios que se proporcionen por subportadoras de radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
 
 I.- Estaciones de radiodifusión y de televisión.................. $ 1'500,000.00
 
-II.- Sistemas de televisión por cable................ $ 1'500,000.00
+II.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-III.- Redes públicas de telecomunicaciones.................. $ 1'500,000.00
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 IV.- Subportadoras de radiodifusión y de televisión................ $ 1'000,000.00
 
@@ -3791,37 +3809,49 @@ IV.- Subportadoras de radiodifusión y de televisión................ $ 1'000,00
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 138.
 
-Por la expedición de certificados de homologación provisionales y definitivos para equipos, aparatos, dispositivos y accesorios de telecomunicación, se pagará el derecho por homologación en materia de telecomunicaciones, conforme a las siguientes cuotas:
+Por la expedición de certificados de homologación provisionales y definitivos, de equipos, dispositivos y accesorios de telecomunicación, así como en la verificación o registro de equipos terminales de usuario, se pagará el derecho de verificación, homologación o registro, conforme a las siguientes cuotas:
 
-I.- Por el estudio técnico previo a la expedición del certificado de homologación… $ 620,000.00
+I.- Por verificación o registro de pruebas:
 
-II.- Por el certificado de homologación:
+a).- De equipos terminales de usuario conectados a una red pública de telecomunicaciones a través de línea física, previamente a su comercialización, por cada equipo.............. $ 1,000.00
 
-a).- Para equipos de valor inferior a $1'000,000.00, se cobrará una cuota fija de....... $ 500,000.00
+b).- De equipos terminales de usuario de radio enlace, conectados a una red pública de telecomunicaciones, previamente a su comercialización, por cada equipo.............. $ 1,500.00
 
-b).- Equipos de $ 1'000,000.00, hasta $ 10'000,000.00............. $ 1'000,000.00
+II.- Por cada certificado de homologación provisional:
 
-c).- Equipos de $ 10'000,000.00, hasta $ 300'000,000.00............. 10% sobre el valor del equipo.
+a).- De conmutadores hasta de 30 líneas.............. $ 1,600.00
 
-d).- Equipos de más de $ 300'000,000.00……… 5% sobre el valor del equipo, más una cuota fija de $ 15'000,000.00
+b).- De equipo transreceptor de radioenlace de 30 canales.............. $ 2,400.00
 
-Los porcientos a que se refiere este artículo se aplicarán al precio de venta de los equipos de telecomunicación considerando su capacidad máxima, con excepción de las centrales telefónicas y celulares públicas y de las centrales telefónicas privadas, para las cuales se tomará como base la capacidad de 10,000 y 5,000 líneas, respectivamente. Asimismo, para los equipos de radioenlace, el porciento a pagar se aplicará en base al valor total de un sistema conformado por un equipo terminal y un equipo repetidor.
+c).- De conmutadores de 31 hasta 60 líneas.............. $ 2,800.00
 
-III.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+d).- De equipo transreceptor de radioenlace de 60 canales.............. $ 4,200.00
 
-Solamente se homologarán los equipos ligados con las telecomunicaciones, así como aquéllos que incidan o afecten directamente el funcionamiento de los equipos de telecomunicaciones.
+e).- De conmutadores de 61 hasta 120 líneas............... $ 5,200.00
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+f).- De equipo transreceptor de radioenlace de 120 canales.............. $ 7,800.00
 
-En solicitudes de "Certificados de homologación definitiva", que se expidan a solicitud del interesado, después de los certificados provisionales, siempre que no hayan modificado las características técnicas y operativas autorizadas, se cobrará el 100% de la cuota establecida en la fracción I y el 40% de la señalada en la fracción II de este artículo.
+g).- De conmutadores de 121 hasta 240 líneas.............. $ 7,600.00
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+h).- De equipo transreceptor de radioenlace de 240 canales.............. $ 11,400.00
 
-El solicitante podrá optar por solicitar directamente un certificado de homologación definitivo sin contar con el certificado provisional, si presenta constancia o dictamen de que el equipo cumple con las normas técnicas nacionales y recomendaciones internacionales aceptadas por la Secretaría de Comunicaciones y Transportes, debiendo pagarse en este caso el 100% de las cuotas señaladas en las fracciones I y II de este artículo.
+i).- De conmutadores de más de 240 líneas.............. $ 12,600.00
+
+j).- De equipo transreceptor de radio enlace de más de 240 canales.............. $ 18,900.00
+
+k).- De centrales telefónicas.............. $ 22,600.00
+
+l).- De estaciones terrenas transreceptoras.............. $ 12,600.00
+
+m).- De ruteadores.............. $ 12,600.00
+
+Por la expedición de un certificado de homologación definitiva, a solicitud de interesado, cuando se haya expedido uno provisional y no se hayan modificado las características técnicas y operativas autorizadas en éste, se cobrará el 50% de la cuota establecida en la fracción II de este artículo, según corresponda a la capacidad de los equipos.
+
+Por la expedición de un certificado de homologación definitivo, cuando se presente constancia o dictamen de que el equipo cumple con las normas técnicas nacionales y recomendaciones internacionales aceptadas por la Secretaría de Comunicaciones y Transportes y, en forma previa no se haya expedido uno provisional, se pagará el equivalente al 100% de las cuotas establecidas en la fracción II de este artículo, según corresponda a la capacidad de los equipos.
 
 ###### ARTICULO 139.
 
@@ -3835,11 +3865,11 @@ El solicitante podrá optar por solicitar directamente un certificado de homolog
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 141-A.
 
-Por los servicios que a continuación se señalan, se pagará el derecho de constancia de peritos en telecomunicaciones, de profesional técnico responsable y certificados de aptitud de estaciones radioeléctricas, conforme a las siguientes cuotas:
+Por los servicios que a continuación se señalan, se pagará el derecho de constancia de peritos en telecomunicaciones, de profesional técnico responsable y certificados de aptitud de estaciones radioeléctricas y redes públicas de telecomunicaciones, conforme a las siguientes cuotas:
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -3903,7 +3933,9 @@ a).- Expedición............. $ 152,000.00
 
 b).- Revalidación............... 76,000.00
 
-c).- Responsiva, por cada estación.................. 76,000.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+c).- Responsiva, por cada estación o red pública.............. $ 294.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3923,9 +3955,9 @@ II.- Medición de los parámetros técnicos de la señal de televisión.........
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION OCTAVA. Autorizaciones de Obras
+#### SECCION QUINTA. Autotransporte Federal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 142.
 
@@ -3967,39 +3999,33 @@ II.- Medición de los parámetros técnicos de la señal de televisión.........
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
-#### SECCION NOVENA. Otros Servicios
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+#### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
 
 ###### ARTICULO 148.
 
 Por los servicios que se presten para la operación del autotransporte público en caminos de jurisdicción federal, se pagarán los derechos conforme a las siguientes cuotas:
 
-A.- Expedición o reposición de títulos de concesión.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Títulos de concesión de los servicios de pasaje y carga:
+A.- Por los servicios relacionados con la expedición de:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-a).- Expedición del título de concesión del servicio de pasaje............ $ 173,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-b).- Expedición del título de concesión del servicio de carga........... 173,000.00
-
-c).- Reposición de título de concesión del servicio de pasaje o carga.......... 6,000.00
-
-d).- Expedición o reposición de cédula de identificación, por vehículo........... 900.00
+I.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 II.- Autorizaciones:
 
-a).- Para transferencia de derechos, por cada unidad............ $ 3,000.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+a).- Para la cesión de derechos y obligaciones establecidos en los permisos............... $ 669.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+b).- Para la celebración de convenios entre transportistas para la prestación de servicios de una misma clase y enrolar sus vehículos en la ruta que tengan autorizada............... $ 675.00
 
 c).- (DEROGADO, .D.O.F. 26 DE DICIEMBRE DE 1990)
 
-d).- Verificación de las condiciones físicas del vehículo........... 600.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+d).- Verificación técnica de las condiciones físicas del vehículo.............. $ 134.00
 
 III.- Permisos:
 
@@ -4033,29 +4059,21 @@ i).- De cambio de propietario, por cada unidad............ 25,000.00
 
 j).- Especial por un sólo viaje para el servicio público federal de autotransporte de objetos voluminosos o de gran peso.............. 52,000.00
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+k).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-k).- Para circular con combinaciones vehiculares de doble semi-remolque............ 52,500.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-l).- Para viajes de fletamento con vehículo de matrícula extranjera, por viaje............. 67,000.00
+l).- Para viajes de turismo internacional, con unidades de matrícula extranjera, por vehículo.............. $ 166.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 m).- Para operar depósitos de vehículos............. 200,000.00
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+1.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-1.- Por su revalidación dentro del plazo señalado.................. 200,000.00
+2.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-2.- Por su revalidación por cada bienio que no haya revalidado.................. 300,000.00
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-n).- De vigencia menor a un año............. 90,000.00
+n).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -4069,119 +4087,91 @@ o).- Especial por un solo viaje para el servicio público de autotransporte fede
 
 p).- Para el transporte de materiales peligrosos y sus residuos................ 250,000.00
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+q).- Para el transporte de explosivos.............. $ 621.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+r).- Permiso especial por un año para grúas industriales del servicio público federal y privado.............. $ 200.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+s).- Para operar servicios transfronterizos en sus diversas modalidades.............. $ 200.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+t).- Para la construcción, operación y explotación de terminales de pasajeros......... 0.5 al millar
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+u).- Para la construcción, operación y explotación de terminales interiores de carga........ 0.5 al millar
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+v).- Permiso de operación de terminales individuales u oficinas de sociedades de autotransporte federal de pasajeros o de carga.......... 1 al millar
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+w).- Para operar el servicio de mensajería y paquetería.............. $ 280.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+x).- Para operar el servicio de arrastre, arrastre y salvamento de vehículos............... $ 280.00
+
 IV.- Placas metálicas de identificación:
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Para automotor, remolque y semirremolque del servicio de carga, por placa….. N$ 139.00
+a).- Para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades.............. $ 280.00
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Para automotor del servicio de pasajeros y exclusivo de turismo, por placa…… N$ 139.00
+b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 c).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Cuando los trámites a que se refiere este Apartado, fracciones III, incisos b), c), d), e), f) y g) y IV, sean realizados con motivo del alta de unidades de autotransporte federal, dentro de los seis meses inmediatos anteriores al término del año correspondiente, se pagará el 50% de los derechos.
+Cuando los trámites a que se refiere esta fracción sean realizados con motivo de la alta de unidades de autotransporte federal, dentro de los seis meses inmediatos anteriores al término del año correspondiente, se pagará el 50% de los derechos, siempre y cuando esté próximo a efectuarse el canje de placas metálicas de identificación y calcomanías.
 
-B.- Revalidación de autorizaciones y placas metálicas de identificación.
+> <small>(ADICIONADA, D.O.F. 30 DE DICIMBRE DE 1996)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+V.- Por la expedición, reposición o modificación de tarjeta de circulación para el servicio público de autotransporte federal de carga, pasaje, turismo, paquetería y mensajería, discapacitados y arrendamiento:
 
-I.- Canje o revalidación anual de autorizaciones de placas metálicas de identificación y calcomanías, dentro del plazo señalado en las disposiciones respectivas:
+a).- Por la expedición, reposición o modificación de tarjeta de circulación para automotores, remolques y semirremolques para el servicio de autotransporte de petróleo y sus derivados, productos en vehículo tipo tanque, grúas para arrastre y salvamento de vehículos y transporte de automóviles en vehículo tipo góndola o madrina, grúa industrial, transporte de fondos y valores, materiales peligrosos y sus residuos, por vehículo.............. $ 101.00
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+b).- Por la expedición, reposición o modificación de tarjeta de circulación para automotores, remolques y semirremolques de los servicios públicos de autotransporte federal en las modalidades de carga general, pasaje, turismo, paquetería y mensajería, discapacitados y arrendamiento, por vehículo............... $ 36.00
 
-a).- Autorizaciones:
+c).- Revalidación de tarjeta de circulación para los vehículos automotores, remolques y semirremolques para los vehículos del servicio público de autotransporte federal en sus diversas modalidades dentro del plazo señalado............... $ 278.00
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+d).- Revalidación de tarjeta de circulación para los vehículos automotores, remolques y semirremolques para los vehículos del servicio público de autotransporte federal en sus diversas modalidades, después del plazo señalado............... $ 334.00
 
-1.- Reposición o resello de autorizaciones para automotores, remolques o semirremolques para el servicio de autotransporte federal, por vehículo……….. N$ 19.00
+e).- Revalidación de tarjeta de circulación para los vehículos automotores, remolques y semirremolques para los vehículos del servicio público de autotransporte federal en sus diversas modalidades, por cada año revalidado.............. $ 391.00
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-2.- Reposición o resello de autorizaciones para automotores, remolques y semirremolques para el servicio de autotransporte de petróleo y sus derivados, productos en vehículo tipo tanque, grúas para arrastre o salvamento de vehículos y transporte de automóviles en vehículo tipo góndola o madrina, grúa industrial, transporte de fondos y valores, materiales peligrosos y sus residuos…………. N$ 19.00
+B.- Canje de placas metálicas y calcomanías de identificación:
 
-b).- Placas metálicas de identificación:
+I.- Canje anual de placas metálicas y calcomanías de identificación para automotor del servicio de carga, pasaje, turismo, arrendamiento, paquetería y mensajería y discapacitados:
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+a).- Dentro del plazo señalado............... $ 558.00
 
-1.- Dos placas y calcomanía para automotor del servicio de carga………… N$ 277.00
+b).- Después del plazo señalado.............. $ 725.00
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+c).- Por cada año que no lo hayan efectuado............... $ 892.00
 
-2.- Dos placas y calcomanía para automotor del servicio de pasaje…………. N$ 277.00
+II.- Canje anual de placa metálica y calcomanía de identificación para remolque y semirremolque:
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+a).- Dentro del plazo señalado............... $ 278.00
 
-3.- Una placa y calcomanía para remolque y semirremolque…………. N$ 138.00
+b).- Después del plazo señalado.............. $ 334.00
 
-4.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+c).- Por cada año que no se haya efectuado.............. $ 391.00
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+C.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-II.- Canje o revalidación anual de autorizaciones, placas metálicas de identificación y calcomanías, después del plazo señalado por las disposiciones respectivas:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Autorizaciones:
-
-1.- Reposición o resello de autorizaciones para automotores, remolques o semirremolques, para el servicio de autotransporte federal, por vehículo………. N$ 39.00
-
-2.- Reposición o resello de autorizaciones para automotores, remolques y semirremolques para el servicio de autotransporte de petróleo y sus derivados, productos en vehículo tipo tanque, grúas para arrastre o salvamento de vehículos y transporte de automóviles en vehículos tipo góndola o madrina, grúa industrial, transporte de fondos y valores, materiales peligrosos y sus residuos…………. N$ 103.00
-
-b).- Placas metálicas de identificación:
-
-1.- Dos placas y calcomanía para automotor del servicio de carga………… N$ 360.00
-
-2.- Dos placas y calcomanía para automotor del servicio de pasaje…………. N$ 360.00
-
-3.- Una placa y calcomanía para remolque o semirremolque………… N$ 166.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-III.- Canje o revalidación de autorizaciones, placas metálicas de identificación y calcomanías, por cada año que no haya revalidado:
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-a).- Autorizaciones:
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-1.- Reposición o resello de autorizaciones para automotores, remolques y semirremolques, para el servicio de autotransporte federal, por vehículo……… N$ 47.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-2.- Reposición o resello de autorizaciones para automotores, remolques y semirremolques para el servicio de autotransporte de petróleo y sus derivados, productos en vehículo tipo tanque, grúas para arrastre o salvamento de vehículos y transporte de automóviles en vehículo tipo góndola o madrina, grúa industrial, transporte de fondos y valores, materiales peligrosos y sus residuos………… N$ 50.00
-
-b).- Placas metálicas de identificación:
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-1.- Dos placas y calcomanía para automotor del servicio de carga………. N$ 443.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-2.- Dos placas y calcomanía para automotor del servicio de pasajeros y servicio exclusivo de turismo………… N$ 443.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-3.- Una placa y calcomanía para remolque y semirremolque………… N$ 194.00
-
-C.- Renovación de títulos de concesión, cédulas de identificación y permisos.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-I.- Título de concesión cada diez años............. $ 252,000.00
-
-II.- Cédula de identificación, cada diez años, por vehículo............ 900.00
-
-III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
-
-IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-V.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
-
-D.- Licencias y permisos provisionales para conducir.
+D.- Licencias para conducir:
 
 I.- Licencias:
 
@@ -4199,83 +4189,43 @@ d).- Cambio de categoría.......... 2,500.00
 
 e).- Reexpedición............. 44,000.00
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+f).- Duplicado .............. $ 170.00
+
 II.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 E.- Servicios diversos:
 
-I.- Autorización de operación para terminales centrales de autotransporte federal de pasajeros y otorgamiento de la concesión correspondiente, el 0.5 al millar sobre el valor de la inversión en terreno y construcción de la instalación.
+I.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-II.- Autorización de operación para terminales centrales o estaciones de autotransporte federal de carga y otorgamiento de la concesión correspondiente, el 0.5 al millar sobre el valor de la inversión en terreno y construcción de la instalación.
+II.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-III.- Autorización de operación para terminales individuales u oficinas de sociedades de autotransporte federal de pasajeros, o de carga, el uno al millar sobre el valor del terreno y construcción de la instalación.
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-IV.- Autorización de operación para ferropuertos el 0.5 al millar sobre el valor de la inversión en terrenos y construcción de la instalación:
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-a).- Autorización........... $ 400.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-b).- Autorización especial para efectuar servicio fuera de la ruta autorizada, por una sola vez……….. 900.00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-c).- Autorización de enrolamiento............ 25,000.00
-
-d).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-e).- Autorización de convenios........... 25,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-V.- Modificación o cambio de vehículos en título de concesión, cédula de identificación, permisos y tarjeta de circulación:
-
-a).- Títulos de concesión........... $ 4,500.00
-
-b).- Cédula de identificación............ 900.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-c).- Tarjeta de circulación:
-
-1.- Para automotor, remolque y semirremolque para el servicio público de autotransporte, por vehículo………… N$ 18.00
-
-2.- Para automotores, remolques o semirremolques para el transporte de petróleo y sus derivados, productos en vehículos tipo tanque, grúas para arrastre o salvamento de vehículos, transporte de automóviles en vehículos tipo góndola o madrina, grúa industrial, transporte de fondos y valores, materiales peligrosos y sus residuos……….. N$ 50.00
-
-3.- Para efectuar el servicio de transporte de personas de puertos, aeropuertos y terminales centrales de autobuses de pasajeros a sus correspondientes ciudades y viceversa………… N$ 19.00
-
-d).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-e).- Complementario de concesión o permiso estatal o federal.......... 64,000.00
-
-f).- (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
-
-g).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-h).- (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
-
-i).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-j).- (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
+V.- Modificación a la tarjeta de circulación para vehículos automotor, remolque y semirremolque que explotan el servicio público federal en sus diversas modalidades .............. $ 36.00
 
 VI.- Bajas de vehículos:
 
-a).- Temporal, por cambio de vehículo............. 1,500.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+a).- Por cambio de vehículo.............. $ 335.00
 
 b).- Definitiva............ 450.00
 
-VII.- Aprobación y expedición de convenio celebrado por la Secretaría de Comunicaciones y Transportes, con las compañías fabricantes o distribuidores de vehículos nuevos, por juego de placas............. 200.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- Suscripción de convenio anual celebrado por la Secretaría de Comunicaciones y Transportes con las compañías fabricantes y distribuidores de vehículos nuevos.............. $ 45.00
 
 VIII.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras de vehículos nuevos:
 
-a).- Expedición de placas, cuota mensual por juego........... $ 1,000.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+a).- Por el pago de la renta mensual de placas de traslado.............. $ 223.00
 
 b).- Reposición, por placa............. 2,500.00
 
@@ -4283,17 +4233,7 @@ b).- Reposición, por placa............. 2,500.00
 
 IX.- Reposición de placa metálica de identificación para automotor, remolque o semirremolque, por placa............ 5,000.00
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-X.- Reposición de tarjeta de circulación:
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-a).- Para automotores, remolques o semirremolques para el servicio público federal de autotransporte, por vehículo…………. N$ 18.00
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-b).- Para automotores, remolques o semirremolques para el transporte de petróleo y sus derivados, productos en vehículo tipo tanque, grúas para arrastre o salvamento de vehículos, transporte de automóviles en vehículo tipo góndola o madrina, grúa industrial, transporte de fondos y valores, materiales peligrosos y sus residuos……….. N$ 79.00
+X.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 XI.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
 
@@ -4305,9 +4245,19 @@ a).- Inspección a personas físicas y morales del servicio federal de autotrans
 
 b).- Revista de vehículos............ 27,500.00
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIII.- Por el otorgamiento de cada juego de calcomanía y certificado de baja emisión de contaminantes, que se entregue a los centros de verificación de emisiones contaminantes de los vehículos de pasaje y cargo............. 1,000.00.
+XIII.- Por el otorgamiento de cada juego de calcomanías y certificado de baja emisión de contaminantes, que se entregue a los centro de verificación de emisiones contaminantes de los vehículos de pasaje y carga.............. $ 5.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIV.- Registros:
+
+a).- De horario para los servicios de autotransporte federal de pasaje.............. $ 50.00
+
+b).- De escrituras constitutivas y actas de asamblea de empresas de autotransporte federal en sus diversas modalidades............... $ 50.00
+
+c).- De actas constitutivas de empresas dedicadas al arrendamiento de remolques, semirremolques, automóviles y vehículos automotores con placas del servicio de autotransporte federal.............. $ 50.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -4319,7 +4269,7 @@ I.- Expedición, revalidación o reposición del permiso para servicio privado..
 
 II.- Modificación de permiso para servicio privado.......... 900.00
 
-III.- Expedición de permiso eventual para vehículo privado, por un solo viaje........... 900.00
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 IV.- Expedición de permiso de traslado por un solo viaje para vehículo privado que transite vacío........... 300.00
 
@@ -4339,9 +4289,15 @@ VII.- Permiso por un solo viaje para vehículo privado de autotransporte de obje
 
 VIII.- Permiso para el transporte de materiales peligrosos y sus residuos.......... 250,000.00
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IX.- Permiso especial por un año para el tránsito de grúas industriales del servicio privado, por vehículo.............. $ 200.00
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION PRIMERA. De los Parques Nacionales
+#### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 150.
 
@@ -4363,917 +4319,161 @@ VIII.- Permiso para el transporte de materiales peligrosos y sus residuos.......
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 153.
 
-Por los servicios relativos al Registro Aeronáutico Mexicano, se pagará el derecho de registro aeronáutico de acuerdo con las siguientes cuotas:
+Por los servicios relativos a la inscripción en el Registro Aeronáutico Mexicano, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
+I.- De aeronaves.............. $ 1,000.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+II.- De concesiones o permisos de servicios de transporte aéreo.............. $ 1,000.00
 
-II.- Por las inscripciones que se realicen en el Registro:
+III.- De concesiones o permisos de aeropuertos, helipuertos, aeródromos o hidroaeródromos.............. $ 1,000.00
 
-a).- De aeronaves............. $ 9,718.22
+IV.- De permisos de pistas comunitarias.............. $ 200.00
 
-b).- De concesiones y permisos de transporte aéreo, regular, no regular, transporte aéreo privado comercial y no comercial; de aeropuertos, helipuertos, aeródromos, hidropistas, hidroaeródromos; talleres y centros de capacitación y adiestramiento, así como sus modificaciones..... $ 489.00
+V.- De pólizas de seguros.............. $ 500.00
 
-c).- De la escritura constitutiva, sus modificaciones, aumento o disminución de capital social, transmisión de acciones y poderes notariales......... $ 1,736.77
+VI.- Por otros servicios prestados por el Registro.............. $ 200.00
 
-d).- Pólizas de seguros, certificados de aeronavegabilidad y matrícula............. $ 319.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Por otros servicios prestados por el registro............. $ 272.08
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 154.
 
-Por la concesión o permiso para construcción, operación y explotación de aeropuertos, aeródromos, helipuertos, hidroaeródromos e hidropistas, se pagará el derecho de aeronáutica civil, conforme a las siguientes cuotas:
+Por el otorgamiento de las concesiones y permisos señalados en la Ley de Aeropuertos, se pagarán derechos conforme a las siguientes cuotas:
 
-A. Por Construcción PISTA
+I.- Por cada concesión de aeropuertos.............. $ 10,000.00
 
-Hasta de De más de De más de
+a).- Por su modificación.............. $ 1,250.00
 
-500 metros 500 hasta 1000 metros
+II.- Por cada permiso de:
 
-1000 metros
+a).- Construcción de aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos.............. $ 2,500.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+b).- Explotación de aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos.............. $ 2,500.00
 
-I. Municipales, organismos
+c).- Ampliación o remodelación de la infraestructura de aeropuertos; aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos.............. $ 2,500.00
 
-descentralizados y gobiernos
+d).- Por la modificación de los permisos a que se refiere esta fracción.............. $ 1,250.00
 
-estatales $ 4,500.00 $ 6,700.00 $ 9,000.00
+III.- Por cada permiso de:
 
-II. Particulares exclusivamente 6,000.00 8,000.00 10,000.00
+a).- Construcción y explotación de aeródromos de servicio comunitario.............. $ 250.00
 
-III. Aviación Agrícola 2,500.00 4,000.00 5,000.00
+b).- Modificación a los aeródromos de servicio comunitario.............. $ 100.00
 
-IV. Para exploraciones de
+IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-carácter científico 3,000.00 4,500.00 6,000.00
+a).- De uso privado.............. $ 1,250.00
 
-V. Para instrucción y
+b).- De uso público.............. $ 5,000.00
 
-entrenamiento 4,500.00 6,500.00 8,000.00
+c).- Para aviones agrícolas.............. $ 500.00
 
-VI. Para operaciones deportivas 8,000.00 11.000.00 16,000.00
+d).- Para aerostatos, aviones ultraligeros u otros análogos.............. $ 500.00
 
-VII. Conexo a la explotación de
+V.- Por la autorización de extensión de horario en los aeródromos civiles, por cada media hora o fracción con tolerancia de cinco minutos posteriores a la media hora......... $ 150.00
 
-una industria privada 15,000.00 20,000.00 25,000.00
+Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
-VIII. Hidroaeródromos
-
-a) Canal de hasta 2,000 metros 10,000.00
-
-b) De más de 2,000 hasta 3,000
-
-metros 15,000.00
-
-c) De más de 3,000 metros 19,000.00
-
-IX. Helipuertos, para aparato de:
-
-a) Dos plazas 15,000.00
-
-b) Cuatro plazas 25,000.00
-
-c) Más de cuatro plazas 40,000.00
-
-B. Por operación en servicio privado.
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- Organismos descentralizados
-
-y empresas paraestatales N$ 204.00 N$ 276.00 N$ 358.00
-
-II. Para exploraciones de carácter
-
-científico 4,030.00 5,980.00 8,060.00
-
-III. Particulares exclusivamente 12,000.00 16,000.00 20,000.00
-
-IV. Aviación Agrícola 8,000.00 10,000.00 12,000.00
-
-V. Para instrucción y
-
-entrenamiento 9,000.00 12,500.00 15,500.00
-
-VI. Para operaciones deportivas 13,000.00 16.000.00 24,000.00
-
-VII. Conexo a la explotación de una
-
-industria privada 20,000.00 30,000.00 35,000.00
-
-VIII. Hidroaeródromos
-
-a) Canal de hasta 2,000 metros 10,000.00
-
-b) De más de 2,000 hasta
-
-3,000 metros 15,000.00
-
-c) De más de 3,000 metros 20,000.00
-
-IX. Heliopuertos para aparatos de:
-
-a) Dos plazas 15,000.00
-
-b) Cuatro plazas 25,000.00
-
-c) Más de cuatro plazas 40,000.00
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Por la modificación de las concesiones o permisos a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII y IX de este Apartado, se pagará el 50% de la cuota señalada en la fracción correspondiente.
-
-C. Servicio público de explotación PISTA
-
-Hasta de De más de
-
-1000 metros 1000 metros
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- Municipales, estatales o federales N$ 612.00 N$ 816.00
-
-II. Particulares 10,000.00 15,000.00
-
-III. Hidroaeródromos:
-
-a) Canal de hasta 2,000 metros 10,000.00
-
-b) De más de 2,000 metros 20,000.00
-
-IV. Heliopuertos, para aparatos de:
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-a).- Hasta cuatro plazas N$ 2,040.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-b).- Más de cuatro plazas N$ 4,080.00
-
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-V.- Por la modificación a los permisos a que se refieren las fracciones I, II, III y IV, se pagará el 50% de la cuota señalada a cada fracción.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-D.- Por el estudio y trámite de las solicitudes de concesión o permiso a que se refiere este artículo............. $ 382.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIMBRE DE 1983)</small>
-
-No se pagará el derecho de aeronáutica civil a que se refiere este artículo, tratándose de helipuertos de servicios aéreos de rescate en emergencia, que se construyan en edificios con altura mayor de 60 metros.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 155.
 
-Por concepto de inspección, se pagará el derecho de aeronáutica civil, conforme a las siguientes cuotas:
+Por los servicios de verificación establecidos en la Ley de Aviación Civil y en la Ley de Aeropuertos los concesionarios, permisionarios, autorizados u operadores pagarán derechos por hora de verificación, conforme a las siguientes cuotas:
 
-I.- Reparación mayor de hélice:
+I.- Por verificación mayor.............. $ 2,000.00
 
-a).- De paso fijo.................. $ 87,000.00
+II.- Por verificación menor.............. $ 400.00
 
-b).- De paso variable.............. $ 130,000.00
+III.- Por la certificación a las verificaciones efectuadas por las unidades de verificación establecidas por terceros.............. $ 2,000.00
 
-II.- Cambio de motor:
-
-a).- De pistón, hasta de 450 HP................ $ 194,000,00
-
-b).- De pistón, mayor de 450 HP................ $ 245,000,00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-c).- Turborreactor hasta 11,000 Lbs. de empuje.................. N$ 484.00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-d).- Turborreactor mayor de 11,000 Lbs. de empuje........... N$ 613.00
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-e).- Turbohélice............. $ 270.00
-
-III.- Cambio de hélice:
-
-a).- De paso fijo............ $ 144,000.00
-
-b).- De paso variable.............. $ 216,000.00
-
-IV.- Reparación mayor de motor:
-
-a).- De pistón, hasta de 450 HP................ $ 180,000.00
-
-b).- De pistón, mayor de 450 HP................ $ 228,000.00
-
-c).- Turbohélice............... $ 290,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-d).- Turborreactor hasta 11,000 Lbs. de empuje.................. N$ 484.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-e).- Turborreactor mayor de 11,000 Lbs. de empuje........... N$ 613.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- Servicio de 1000 o 1200 horas a aeronaves hasta 3000 kilogramos:
-
-a).- De ala fija............. $ 280,000.00
-
-b).- De ala rotativa............. $ 420,000.00
-
-VI.- Reparaciones mayores o después de accidente de aeronaves hasta 3,000 kilogramos de peso máximo de despegue:
-
-a).- De ala fija.............. $ 350,000.00
-
-b).- De ala rotativa............. $ 525,000.00
-
-VII.- Reparaciones mayores o después de accidente de aeronaves de más de 3,000 kilogramos a 12,500 kilogramos de peso máximo de despegue:
-
-a).- De ala fija............... $ 438,000.00
-
-b).- De ala rotativa.............. $ 656,000.00
-
-VIII.- Reparaciones mayores o después de accidente, de aeronaves de más de 12,500 kilogramos de peso máximo de despegue:
-
-a).- De ala fija........... $ 920,000.00
-
-b).- De ala rotativa............. $1'380,000.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-IX.- Cambio de palas de rotor principal.................. N$ 100.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-X.- Cambio de núcleo de rotor principal.................. N$ 100.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XI.- Cambio de palas de rotor de cola.................. N$ 50.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XII.- Cambio de núcleo de rotor de cola.................. N$ 50.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XIII.- Modificación estructural de aeronaves hasta 3,000 kilogramos de peso máximo de despegue.................. N$ 102.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XIV.- Modificación estructural de aeronaves de más de 3,000 kilogramos a 12,500 kilogramos de peso máximo de despegue.................. N$ 102.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XV.- Modificación estructural de aeronaves de más de 12,500 kilogramos de peso máximo de despegue.................. N$ 51.00
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-XVI.- Armado de partes de aeronaves hasta 3,000 kilogramos de peso máximo de despegue.................. N$ 51.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XVII.- Vuelo de prueba realizado a aeronaves, por cada prueba......... $ 358.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XVIII.- Vuelo de inspección de ayuda a la navegación aérea con aeronave verificadora para la determinación de sitio y certificación, periódica o especial, por hora de vuelo............. $ 21,000.00
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 156.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
+Por los servicios de certificación mediante vuelos de inspección de ayudas a la navegación aérea, por cada hora de vuelo, en aeronave verificadora para determinación de sitio y certificación periódica o especial se pagarán derechos conforme a la cuota de $ 28,100.00.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 157.
 
-Por los servicios de expedición, revalidación, recuperación, reexpedición de licencias y certificados, se pagará el derecho de aeronáutica civil conforme a las siguientes cuotas:
+Por los servicios relacionados con la expedición de capacidades y licencias al personal técnico aeronáutico o, en su caso, permiso se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+I.- Por la expedición de la capacidad y licencia o permiso para:
 
-A.- Por el examen técnico y expedición de licencias, permisos o certificados de capacidad:
+a).- Personal de vuelo.............. $ 400.00
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+b).- Personal de tierra.............. $ 300.00
 
-I.- Licencias o permisos Examen Expedición
+II.- Por la revalidación de licencia al:
 
-Técnico de Licencias
+a).- Personal de vuelo.............. $ 200.00
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+b).- Personal de tierra.............. $ 150.00
 
-a) Para personal de vuelo N$ 200.00 N$ 200.00
+III.- Por reposición de la licencia.............. $ 150.00
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-b) Para personal de tierra N$ 130.00 N$ 130.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-c) Permiso de formación, de capacitación inicial,
-
-de recuperación, de instructor y especiales N$ 132.00 N$ 132.00
-
-d) (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-e) (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-f) (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-g) (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-h) (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Certificado de capacidad de vuelo N$ 200.00 N$ 130.00
-
-B. Revalidación de licencias o certificados de
-
-capacidad:
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- Para personal de vuelo N$ 100.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Para personal de tierra N$ 65.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-III.- Permiso de formación, de capacitación inicial,
-
-de recuperación, de instructor y especiales N$ 25.00
-
-IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-V.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-VI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-C.- Recuperación de licencias y de certificados de capacidad de personal técnico aeronáutico:
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- Para personal de vuelo N$ 400.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Para personal de tierra N$ 260.00
-
-III.- Controlador: auxiliar, zona, área
-
-navegante; mecánico de abordo 4,000.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-IV.- Sobrecargo: meteorólogo auxiliar o previsor; observador del tiempo; despachador de aeronaves; instructor simulador de vuelo, instructor de tierra; mecánico en general..... $ 21,000.00
-
-D.- Reexpedición de licencias:
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-I.- Personal de vuelo............... N$ 200.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-II.- Personal de tierra............... N$ 130.00
-
-Por la reexpedición del anexo o la parte de identificación de la licencia, se pagará una cuota equivalente al 50% de las señaladas en la fracción I del apartado A de este artículo.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 158.
 
-Por la expedición del certificado de aeronavegabilidad y matrícula, se pagara el derecho de aeronáutica civil, conforme a las siguientes cuotas:
+Por los servicios de expedición de los siguientes certificados, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 1996)</small>
+I.- Por la expedición de los siguientes certificados:
 
-I.- Por la expedición o renovación del certificado de aeronavegabilidad por período de vigencia:
+a).- De aeronavegabilidad.............. $ 500.00
 
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue............... $ 155,000.00
+b).- De matrícula.............. $ 500.00
 
-b).- Aeronaves de más de 3,000 kilogramos a 6,000 kilogramos de peso máximo de despegue............... $ 387,000.00
+c).- De matrícula provisional............... $ 500.00
 
-c).- Aeronaves de más de 6,000 kilogramos a 12,500 kilogramos de peso máximo de despegue................ $ 773,000.00
+d).- De aeronavegabilidad o matrículas de aeronaves agrícolas.............. $ 300.00
 
-d).- Aeronaves de más de 12,500 kilogramos de peso máximo de despegue........ $ 1'547,000.00
+e).- De aeronavegabilidad o matrícula de aerostatos, aeronaves ultraligeras u otros análogos, cuando operen fuera de las áreas geográficas autorizadas a sus clubes.............. $ 300.00
 
-II.- Certificado de matrícula............... $ 155,000.00
+II.- Por la expedición de certificados de homologación por emisión de ruido........ $ 300.00
 
-III.- Reposición de certificado de matrícula................ $ 464,000.00
+III.- Por la renovación o reposición del certificado de aeronavegabilidad o matrícula...... $ 500.00
 
-IV.- Reposición de certificado de aeronavegabilidad por periodo de vigencia:
+Las cuotas de los derechos establecidos en las fracciones I y II ya incluyen la inscripción en el Registro Aeronáutico Mexicano.
 
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue.............. $ 265,000.00
-
-b).- Aeronaves de más de 3,000 kilogramos a 6,000 kilogramos de peso máximo de despegue............. $ 580,000.00
-
-c).- Aeronaves de más de 6,000 kilogramos a 12,500 kilogramos de peso máximo de despegue........... $ 1'164,000.00
-
-d).- Aeronaves de más de 12,500 kilogramos de peso máximo de despegue....... $ 2'323,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 159.
 
-Por la expedición de los siguientes permisos o concesiones, se pagará el derecho de aeronáutica civil, conforme a las siguientes cuotas:
+Por los servicios relacionados con el otorgamiento de las concesiones, permisos o autorizaciones señalados en la Ley de Aviación Civil, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+I.- Concesión.............. $ 10,000.00
 
-I.- Permiso de operación para proporcionar servicio de almacén y suministro de combustible de aviación:
+II.- Permiso.............. $ 5,000.00
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo.
 
-a).- De uso privado.................. N$ 713.00
+III.- Autorización.............. $ 250.00
 
-b).- De servicio público.............. 1'160,000.00
+IV.- Permiso de aeronaves para uso agrícola.............. $ 2,500.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+V.- Autorización de clubes aéreos y de aeromodelismo.............. $ 500.00
 
-II.- Para funcionamiento de talleres aeronáuticos se pagará anualmente por la vigencia del permiso:
+Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-A.- De aeronaves:
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-a).- Reparación o mantenimiento de aeronaves de peso máximo de despegue hasta 3,000 kilogramos.............. 1'238,000.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-b).- Reparación o mantenimiento de aeronaves de peso máximo de despegue hasta 6,000 kilogramos................ 1'934,000.00
-
-c).- Reparación o mantenimiento de aeronaves de peso máximo de despegue hasta de 12,000 kilogramos…… 32,000.00
-
-d).- Reparación o mantenimiento de aeronaves de peso máximo de despegue de más de 12,000 kilogramos........... 40,000.00
-
-e).- Reparación mayor de motores hasta de 450 caballos de fuerza............ 16,000.00
-
-f).- Reparación mayor de motores alternativos de más de 450 caballos de fuerza o radiales............ 24,000.00
-
-g).- Inspección de sección caliente de motores de turbina............ 20,000.00
-
-h).- Reparación mayor de motores de turbina............. 40,000.00
-
-i).- Reparación mayor de hélices de paso fijo............ 20,000.00
-
-j).- Reparación mayor de hélices de paso variable............ 30,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-k).- Reparación o mantenimiento de equipos de radiocomunicación.................. N$ 1,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-l).- Reparación o mantenimiento de equipos de radionavegación.................. N$ 1,500.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-m).- Reparación o mantenimiento de radar.................. N$ 2,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-n).- Reparación o mantenimiento de instrumentos mecánicos.................. N$ 800.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-ñ).- Reparación o mantenimiento de instrumentos giroscópicos.................. N$ 1,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-o).- Reparación o mantenimiento de instrumentos electrónicos.................. N$ 1,500.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-p).- Reparación o mantenimiento de accesorios u otros.................. N$ 1,000.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-q).- Certificado de aprobación para producción de aeronaves con peso máximo de despegue de hasta 3,000 kilogramos............. N$ 5,099.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-r).- Certificado de aprobación para producción de aeronaves con peso máximo de despegue de más de 3,000 kilogramos y hasta 6,000 kilogramos.................. N$ 8,160.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-s).- Certificación de aprobación para producción de componentes, productos y equipos auxiliares utilizados en aviación......... N$ 4,080.00
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-t).- Reparación o mantenimiento de instrumentos eléctricos.................. N$ 1,250.00
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-u).- Certificado de Homologación por emisión de ruido producido por las aeronaves..... $ 910.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-B.- De helicópteros.
-
-a).- Reparación o mantenimiento de helicópteros de peso máximo de despegue hasta de 3,000 kilogramos……….. 35,000.00
-
-b).- Reparación o mantenimiento de helicópteros de peso máximo de despegue de más de 3,000 kilogramos……… 50,000.00
-
-III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV.- De transporte aéreo privado comercial, nacional e Internacional:
-
-A.- Servicio aéreo especializado de: aerofotografía, aerotopografía, publicidad comercial, fumigación aérea, provocación artificial de lluvias, localización de especies marinas, extinción de incendios y construcción, entre otros:
-
-a).- Por permiso con vigencia anual............. $ 1,591.00
-
-b).- Por un solo vuelo............. $ 265.00
-
-B.- Permisos para centros de capacitación y adiestramiento:
-
-a).- Expedición del permiso para funcionamiento............. $ 241.00
-
-b).- Modificación del permiso............. $ 231.00
-
-c).- Verificación anual............. $ 471.00
-
-d).- Aprobación de planes y programas de estudio........ $ 315.00
-
-e).- Certificado legal de constancia de estudio............. $ 190.00
-
-f).- Aprobación y modificación a los inicios de cursos........ $ 267.00
-
-V.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VI.- De servicio público de transporte aéreo en vuelos regulares nacionales e internacionales:
-
-a).- Carga excluvisamente por período de vigencia............ 10,000.00
-
-Su modificación............ 5,000.00
-
-b).- Pasajeros, correo y express y carga por período de vigencia........... 16,000.00
-
-Su modificación........... 8,000.00
-
-c).- Pasajeros, correo, express y carga por período de vigencia........... 28,000.00
-
-Su modificación........... 14,000.00
-
-d).- (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VII.- De servicio público de transporte aéreo en vuelos no regulares nacionales e internacionales:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-a).- Vuelos no regulares de pasajeros y correo............. $ 795.00
-
-Su modificación............. $ 397.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- Vuelos no regulares de pasajeros correo y carga................... $ 1,325.00
-
-Su modificación............. $ 662.00
-
-c).- Taxi aéreo regional, por período de vigencia............ 14,000.00
-
-Su modificación.......... 7,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
-
-d).- Taxi aéreo nacional o internacional............. $ 4,542.92
-
-Su modificación............. $ 1,988.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-e).- Exclusivo de carga............. $ 884.00
-
-Su modificación............. $ 442.00
-
-> <small>(REFORMADO, D.O.F 15 DE DICIEMBRE DE 1995)</small>
-
-f).- Servicio especializado............. $ 2,750.00
-
-Su modificación............. $ 1,375.00
-
-g).- (DEROGADO, D.O.F. 10 DE MAYO DE 1996)
-
-VIII.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-IX.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-X.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-XI.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-XII.- Permiso de reinicio de operaciones de aeronave que haya sido suspendida por incumplimiento a la legislación aplicable.......... 6,000.00
-
-XIII.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XIV.- Por expedición de certificado de aprobación tipo y sus suplementos:
-
-A.- Por el trámite de expedición de certificado de aprobación tipo, por cada producto:
-
-a).- Aeronaves con peso máximo de despegue superior a 400 kilogramos............. $ 3,909.00
-
-b).- Aeronaves ultraligeras, globos aerostáticos, aeronaves de construcción casera y dirigibles............. $ 2,794.00
-
-c).- Equipos auxiliares utilizados en aviación, así como productos químicos y textiles... $ 1,564.00
-
-B.- Por el trámite de expedición de certificados de aprobación tipo, suplementarios, por cada producto:
-
-a).- Aeronaves con peso máximo de despegue superior a 400 kilogramos............. $ 2,859.00
-
-b).- Aeronaves ultraligeras, globos aerostáticos, aeronaves de construcción casera y dirigibles............. $ 1,538.00
-
-c).- Equipos auxiliares utilizados en aviación, así como productos químicos y textiles... $ 1,167.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XV.- Para efectuar trabajos de mantenimiento o reparación de aeronaves o sus componentes en el extranjero:
-
-A).- De sección caliente a motores instalados en aeronaves turbohélice, turborreactores o helicópteros.
-
-a).- De aeronaves hasta de 3,000 kilogramos de peso máximo de despegue.......... $ 10,000.00
-
-b).- De aeronaves hasta de 6,000 kilogramos de peso máximo de despegue........... 20,000.00
-
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
-
-c).- De aeronaves hasta de 12,000 kilogramos de peso máximo de despegue.......... 30,000.00
-
-d).- De aeronaves de más de 12,000 kilogramos de peso máximo de despegue........... 50,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-B.- Por reparación mayor a motores instalados en aeronaves turbohélice o turborreactores.
-
-a).- De aeronaves hasta de 3,000 kilogramos de peso máximo de despegue.......... $ 15,000.00
-
-b).- De aeronaves hasta de 6,000 kilogramos de peso máximo de despegue............ 30,000.00
-
-c).- De aeronaves hasta de 12,000 kilogramos de peso máximo de despegue........... 50,000.00
-
-d).- De aeronaves de más de 12,000 kilogramos de peso máximo de despegue........... 75,000.00
-
-C.- Por servicio de mantenimiento o reparación a planeador y cuerpo
-
-básico.
-
-a).- De aeronaves hasta de 3,000 kilogramos de peso máximo de despegue.......... $ 20,000.00
-
-b).- De aeronaves hasta de 6,000 kilogramos de peso máximo de despegue........... 40,000.00
-
-c).- De aeronaves hasta de 12,000 kilogramos de peso máximo de despegue......... 60,000.00
-
-d).- De aeronaves de más de 12,000 kilogramos de peso máximo de despegue.......... 90,000.00
-
-D.- Por servicio de reparación o mantenimiento de equipo de comunicación, radionavegación o radar.
-
-a).- De comunicación.......... $ 10,000.00
-
-b).- De radionavegación.......... 15,000.00
-
-c).- De radar........... 25,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-E.- Autorización para efectuar en el extranjero servicios de mantenimiento a motor, instalados en aeronaves turbohélice y turborreactores:
-
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue.............. $ 320,000.00
-
-b).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue............. 639,000.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue............ 959,000.00
-
-d).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue... 1'598,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-F.- Autorización para efectuar en el extranjero servicios de mantenimiento a hélices o rotores:
-
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue..........$ 288,000.00
-
-b).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue............. 320,000.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue.............. 479,000.00
-
-d).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue....... 799,000.00
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-G.- Autorización para efectuar en el extranjero reparación mayor de motor recíproco:
-
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue............$ 320,000.00
-
-b).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue............. 639,000.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue........... 799,000.00
-
-d).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue....... 959,000.00
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-H.- Autorización para efectuar en el extranjero reparación parcial a motor:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-a).- Aeronaves hasta de 3000 kilogramos de peso máximo de despegue............. $ 450.00
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- Aeronaves hasta de 6000 kilogramos de peso máximo de despegue............. $ 800.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue............ 959,000.00
-
-d).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue.... 1'278,000.00
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-I.- Autorización para efectuar en el extranjero reparación mayor a la unidad de potencia auxiliar:
-
-a).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue.............$ 959,000.00
-
-b).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue........... 1'598,000.00
-
-c).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue.... 2'397,000.00
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-J.- Autorización para efectuar en el extranjero reparación a la caja de engranes:
-
-a).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue.............$ 639,000.00
-
-b).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue........... 959,000.00
-
-c).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue..... 1'598,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-K.- Autorización para efectuar en el extranjero reparación mayor a hélices, rotores o sus núcleos:
-
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue...........$ 320,000.00
-
-b).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue.......... 639,000.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue............. 959,000.00
-
-d).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue.... 1'598.000.00
-
-L.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-M.- Autorización para efectuar en el extranjero reparación mayor a palas de hélice o rotor enviadas individualmente:
-
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue.................. N$ 104.00
-
-b).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue.................. N$ 207.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue.................. N$ 311.00
-
-d).- Reparación mayor de palas de hélice de aeronaves de más de 12,000 kilogramos de peso máximo de despegue.................. N$ 518.00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-N.- Autorización para efectuar en el extranjero servicios de mantenimiento a motor recíproco:
-
-a).- Aeronaves hasta 3,000 kilogramos de peso máximo de despegue.................. N$ 250.00
-
-b).- Aeronaves hasta 6,000 kilogramos de peso máximo de despegue.................. N$ 499.00
-
-c).- Aeronaves hasta 12,000 kilogramos de peso máximo de despegue.................. N$ 562.00
-
-d).- Aeronaves de más de 12,000 kilogramos de peso máximo de despegue............... N$ 749.00
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-Tratándose de las autorizaciones a que se refiere esta fracción para efectuar en el extranjero servicios de mantenimiento o reparación, se pagará únicamente el 25% del monto de la cuota del derecho que corresponda cuando tenga por objeto hacer efectiva una garantía y exista una autorización previa de las mencionadas en esta fracción.
-
-XVI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
-
-XVII.- Autorización de extensión de horario de servicio en los aeropuertos, por cada media hora o fracción............ 17,500.00.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XVIII.- Autorización para vuelos de traslado o traslados terrestres, de aeronaves o componentes............. $ 821.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XIX.- Por el permiso anual de operación de oficinas de despacho............. $ 668.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XX.- Por el permiso anual de operación de oficinas de despacho y control de vuelos.... $ 860.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXI.- Por el permiso anual para efectuar operaciones visuales nocturnas............. $ 734.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXII.- Autorización de responsables de talleres aeronáuticos............. $ 308.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXIII.- Por el trámite de los Manuales General de Mantenimiento, de Operaciones, de Procedimientos de Taller, de Despacho y Control de Vuelos, de Manejo y Suministro de Combustible de Aviación y de Control de Producción:
-
-a).- Por la autorización............. $ 462.00
-
-b).- Por la revisión de enmiendas............. $ 212.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXIV.- Por la revisión de documentos para el otorgamiento de constancias de requisitos técnicos............. $ 172.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXV.- Autorización de venta de combustible para aeronaves para uso no aeronáutico... $ 136.00
-
-XXVI.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-XXVII.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXVIII.- Autorización para llevar a cabo construcciones fuera del aeropuerto y trapecio de aproximación............. $ 402.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXIX.- Autorización para construcción dentro del aeropuerto............. $ 656.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXX.- Autorización para modificaciones a construcciones dentro y fuera del aeropuerto............... $ 351.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXXI.- Por el permiso anual para empresas que presten servicios a terceros por aeropuerto autorizado............. $ 927.00
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-XXXII.- Por el estudio y trámite de las solicitudes de permisos a que se refiere este artículo para empresas que presten servicios a terceros............. $ 382.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-El derecho que se establece en las fracciones VI a IX de este artículo, se pagará anualmente y por cada uno de los años de vigencia del permiso.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 160.
 
-Por la expedición de concesión de servicio público de transporte aéreo, se pagará anualmente el derecho por la concesión del transporte aéreo, conforme a las cuotas siguientes:
+Por la expedición de cada certificado de aprobación tipo, se pagarán derechos conforme a la cuota de $ 500.00.
 
-I.- Carga exclusivamente............ 30,000.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Pasajeros y correo............. $ 4,639.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-III.- Pasajeros, correo y carga............. $ 5,302.00
-
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
-
-IV.- Por la modificación de la concesión o permiso a que se refieren las fracciones I, II y III que anteceden, se pagará el 50% de la cuota correspondiente.
-
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-V.- Por el estudio y trámite de las solicitudes de concesión a que se refiere este artículo.............. $ 382.00
+Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $ 300.00 por cada vuelo.
 
 ###### ARTICULO 161.
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-#### SECCION SEGUNDA. De la Zona Marítimo Terrestre
+#### SECCION OCTAVA. Otorgamiento de permisos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 162.
 
@@ -5349,9 +4549,9 @@ Si existe duplicidad en el registro de acto o documento realizado ante la centra
 
 Por los servicios que preste la Secretaría de Comunicaciones y Transportes para la navegación marítima, servicios principales, auxiliares y conexos a la vía de navegación por agua, se pagará el derecho de navegación marítima conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Por el otorgamiento de abanderamiento y dimensiones de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
+I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
 
 a).- Hasta de 50 toneladas........... $ 2,000.00
 
@@ -5745,39 +4945,25 @@ X.- Señales radioeléctricas............. $ 1,200.00
 
 XI.- Otras señales............. $ 1,350.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 170.
 
-Por los servicios que presta la Capitanía de Puertos fuera del tiempo señalado en los horarios oficiales, se pagará el derecho de Capitanía de Puerto, conforme a las siguientes cuotas:
+Por los servicios que presta la Capitanía de Puertos fuera del tiempo señalado en los horarios oficiales a embarcaciones nacionales o extranjeras que efectúen cualquier clase de tráfico, de navegación de altura, marítima, costera, cabotaje, interior de puertos, fluvial o lacustre, se pagará el derecho de capitanía de puertos, por cada entrada, despacho, o maniobra de fondeo, conforme a las siguientes cuotas:
 
-A.- Para embarcaciones nacionales o extranjeras que efectúan en cualquier clase de tráfico, de navegación de altura, marítima, costera, cabotaje, interior de puertos, fluvial o lacustre:
+I.- Hasta de 20 toneladas brutas de arqueo.............. $ 81.00
 
-I.- Por cada entrada o despacho, indistintamente:
+II.- De más de 20 hasta 100 toneladas brutas de arqueo.............. $ 122.00
 
-a).- Hasta de 20 toneladas brutas de arqueo........... $ 200.00
+III.- De más de 100 hasta 500 toneladas brutas de arqueo.............. $ 200.00
 
-b).- De más de 20 hasta 100 toneladas brutas de arqueo........... 300.00
+IV.- De más de 500 hasta 1,000 toneladas brutas de arqueo.............. $ 407.00
 
-c).- De más de 100 hasta 500 toneladas brutas de arqueo.......... 500.00
+V.- De más de 1,000 toneladas brutas de arqueo.............. $ 814.00
 
-d).- De más de 500 hasta 1,000 toneladas brutas de arqueo............ 1,000.00
-
-e).- De más de 1,000 toneladas brutas de arqueo............ 2,000.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-En los casos señalados en el inciso a) y cuando la embarcación se utilice para el servicio público de carga y pasaje en vías de comunicación fluvial, lacustre, interior de puerto y cabotaje, se pagará el 50% de la cuota establecida.
-
-II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+En los casos señalados en la fracción I y cuando la embarcación se utilice para el servicio público de carga y pasaje en vías de comunicación fluvial, lacustre, interior de puerto y cabotaje, se pagará el 50% de la cuota establecida.
 
 No se pagará el derecho a que se refiere este artículo por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5889,13 +5075,15 @@ d).- Recreo............. $ 1,289.00
 
 II.- Por la expedición de la autorización para actuar como Agente Naviero General...... $ 3,610.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. Servicios de Flora y Fauna
+#### SECCION NOVENA. Otros Servicios
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 172.
 
-Por la autorización para la construcción de obras dentro del derecho de vía de las carreteras, puentes y vías férreas de jurisdicción federal, se pagará el derecho de autorización conforme a las siguientes cuotas:
+Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -5913,9 +5101,99 @@ IV.- Por el estudio técnico del proyecto, supervisión y autorización de obras
 
 V.- Por el estudio técnico de planos, proyectos y memorias de obra y expedición de la autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de carreteras, puentes o vías férreas, por kilómetro o fracción.................... $ 50,000.00
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
+
+a).- Proyecto a realizar en terreno plano.............. $ 6,900.00
+
+b).- Proyecto a realizar en terreno de lomerío con:
+
+1.- Geometría en corte.............. $ 7,600.00
+
+2.- Geometría en terraplén.............. $ 8,300.00
+
+c).- Proyecto a realizar en terreno montañoso con:
+
+1.- Geometría en corte.............. $ 9,000.00
+
+2.- Geometría en terraplén.............. $ 9,700.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
+
+a).- Con superficie total del proyecto hasta 3,000 M2.............. $ 16,200.00
+
+b).- Con superficie total del proyecto hasta 5,000 M2 .............. $ 19,300.00
+
+c).- Con superficie total del proyecto hasta 10,000 M2 .............. $ 22,600.00
+
+d).- Con superficie mayor a los 10,000 M2, por cada 1,000 M2 adicionales.......... $ 650.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
+
+a).- Por obras desarrolladas en un tramo de 1 Km. de longitud.............. $ 6,900.00
+
+b).- Por obras desarrolladas en un tramo no mayor de 5 Km. de longitud.............. $ 8,300.00
+
+c).- Por obras desarrolladas en un tramo no mayor de 20 Km. de longitud............ $ 9,700.00
+
+d).- Por obras desarrolladas en un tramo mayor de 20 Km., por cada kilómetro adicional.............. $ 100.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
+
+a).- Proyecto comprendido en un tramo no mayor de 1 Km. .............. $ 1,400.00
+
+b).- Proyecto comprendido en un tramo no mayor de 5 Km. .............. $ 2,800.00
+
+c).- Proyecto comprendido en un tramo no mayor de 20 Km. .............. $ 3,400.00
+
+d).- Proyecto comprendido en un tramo mayor de 20 Km., por kilómetro adicional......... $ 100.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
+
+a).- Proyecto comprendido en un tramo no mayor de 1 Km.............. $ 1,400.00
+
+b).- Proyecto comprendido en un tramo no mayor de 5 Km.............. $ 2,280.00
+
+c).- Proyecto comprendido en un tramo no mayor de 20 Km.............. $ 3,400.00
+
+d).- Proyecto comprendido en un tramo mayor de 20 Km., por kilómetro adicional......... $ 100.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
+
+a).- Con superficie total del proyecto no mayor de 100 M2.............. $ 7,600.00
+
+b).- Con superficie total del proyecto mayor de 100 M2.............. $ 10,700.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
+
+a).- Proyecto comprendido en un tramo no mayor de 1 Km.............. $ 1,400.00
+
+b).- Proyecto comprendido en un tramo no mayor de 5 Km.............. $ 2,800.00
+
+c).- Proyecto comprendido en un tramo no mayor de 20 Km.............. $ 3,400.00
+
+d).- Proyecto comprendido en un tramo mayor de 20 Km., por kilómetro adicional........ $ 100.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIII.- Por revisión, permiso y supervisión de estudios de aspectos operativos no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota... $ 2,100.00
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION CUARTA. Impacto Ambiental
+#### SECCION PRIMERA. De los Parques Nacionales
 
 ###### ARTICULO 172-A.
 
@@ -5971,13 +5249,99 @@ V.- Construcciones de edificios............ $ 450,000.00.
 
 Por la autorización para operar el transporte multimodal, se pagará la cuota de N$ 500.00.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 172-E.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+Por el otorgamiento de los permisos señalados en la Ley Reglamentaria del Servicio Ferroviario, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Para la prestación de servicios auxiliares, por cada uno.............. $ 3,000.00
+
+II.- Para construir accesos, cruzamientos e instalaciones marginales en el derecho de vía de las vías férreas.............. $ 3,000.00
+
+III.- Para instalar anuncios y señales publicitarias en el derecho de vía.............. $ 200.00
+
+IV.- Para construir y operar puentes sobre vías férreas.............. $ 6,000.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 172-F.
 
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+Por los servicios relacionados con el otorgamiento de licencias federales ferroviarias, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por la expedición.............. $ 200.00
+
+II.- Por la revalidación.............. $ 200.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 172-G.
+
+Por los servicios de verificación establecidos en la Ley Reglamentaria del Servicio Ferroviario, los concesionarios pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por verificación especial a los concesionarios de vías férreas.............. $ 700.00
+
+II.- Por la verificación técnica de las condiciones físicas y mecánicas del equipo ferroviario de los concesionarios del servicio público de transporte ferroviario, por cada unidad tractiva o de arrastre.............. $ 300.00
+
+a).- Por la expedición de la constancia de aprobación.............. $ 60.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 172-H.
+
+Por la inscripción en el Registro Ferroviario Mexicano, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Del equipo ferroviario, por unidad............... $ 740.00
+
+II.- De gravámenes.............. $ 700.00
+
+III.- De tarifas.............. $ 700.00
+
+IV.- Del reglamento interno de transporte y horarios.............. $ 700.00
+
+V.- De las pólizas de seguros.............. $ 700.00
+
+VI.- Por modificación de la inscripción............... $ 700.00
+
+VII.- Por cancelación de la inscripción............... $ 700.00
+
+VIII.- Por expedición de constancias de inscripción.............. $ 250.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 172-I.
+
+Por el otorgamiento de concesiones o asignaciones para la prestación del servicio público de transporte ferroviario o para la construcción, operación y explotación de las vías férreas que sean vía general de comunicación, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
+
+a).- Por la expedición del título $ 700.00
+
+b).- Por la reposición del título $ 500.00
+
+II.- Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
+
+a).- Por la expedición del título:
+
+Hasta 100 De más de De más de
+
+Kilómetros 100 a 500 500
+
+kilómetros kilómetros
+
+1.- Gobiernos estatales,
+
+municipios y entidades
+
+paraestatales de la
+
+Administración Pública Federal $ 250.00 $ 350.00 $ 450.00
+
+2.- Particulares exclusivamente $ 1,100.00 $ 2,100.00 $ 3,100.00
+
+III.- Por la autorización para la cesión total o parcial de derechos y obligaciones establecidos en las concesiones o permisos $ 600.00
+
+IV.- Por prórroga de la vigencia $ 700.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -6079,7 +5443,7 @@ Por la autorización para operar el transporte multimodal, se pagará la cuota d
 
 > <small>(ADICIONADA, D.O.F. DE 26 DE DICIEMBRE DE 1990)</small>
 
-#### SECCION QUINTA. Prevención y Control de la Contaminación
+#### SECCION SEGUNDA. De la Zona Marítimo Terrestre
 
 ###### ARTICULO 175.
 
@@ -6089,7 +5453,7 @@ Por la autorización para operar el transporte multimodal, se pagará la cuota d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION SEXTA. Del Registro Publico de la Propiedad Federal
+#### SECCION TERCERA. Servicios de Flora y Fauna
 
 ###### ARTICULO 176.
 
@@ -6199,11 +5563,11 @@ a).- De 1 a 1,000 ejemplares $ 25,000.00
 
 b).- De 1,001 en adelante $ 75,000.00
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 178-B.
 
-Por los permisos para uso y reproducción de fotografías a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, pagarán derechos conforme a las siguientes cuotas:
+Por los permisos para uso o reproducción por cualquier medio de fotografías a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, se pagarán derechos conforme a las siguientes cuotas:
 
 I.- Con fines comerciales por fotografía................ $ 60,000.00
 
@@ -6323,7 +5687,7 @@ Por los servicios de permiso para la reproducción en serie de monumentos histó
 
 (DEROGADO, D.O.F.20 DE DICIEMBRE DE 1991)
 
-#### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
+#### SECCION CUARTA. Impacto Ambiental
 
 ###### ARTICULO 184.
 
@@ -6443,9 +5807,9 @@ XXVIII.- Por la búsqueda y expedición de cada constancia de antecedentes o dat
 
 XXIX.- Por las anotaciones marginales en los expedientes y libros de las reservas….. N$ 80.00
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XXX.- Por el otorgamiento de números relativos al Número Internacional Normalizado de Libros. (ISBN)............. $ 10.00
+XXX.- Por el otorgamiento de cada número relativo al Número Internacional Normalizado de Libros (ISBN).............. $ 20.00
 
 > <small>(REFORMADO, D.O.F. 30 DICIEMBRE DE 1983)</small>
 
@@ -6457,9 +5821,7 @@ Para los efectos de la aplicación de lo señalado en la fracción X, de este ar
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION SEGUNDA. Derechos de Autor
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+#### SECCION QUINTA. Prevención y Control de la Contaminación
 
 ###### ARTICULO 185.
 
@@ -6517,9 +5879,7 @@ XII.- Constancias de antecedentes profesionales………… N$ 50.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION TERCERA. Registro y Ejercicio Profesional
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+#### SECCION SEXTA. Del Registro Publico de la Propiedad Federal
 
 ###### ARTICULO 186.
 
@@ -6533,9 +5893,7 @@ I.- Reconocimiento de validez oficial de estudios a particulares por cada plan d
 
 II.- Reconocimiento de validez oficial de estudios a particulares por cada plan de estudios de tipo medio............. $ 215.00
 
-III.- Registro de particulares que impartan estudios sin reconocimiento de validez
-
-oficial............. 500.00
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -6599,17 +5957,17 @@ b) Por área............ 25.00
 
 c) Por grado........... 15.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-X.- Acreditación y certificación de conocimientos por materia de:
+X.- Por la solicitud de acreditación y certificación de conocimientos, por cada certificado de:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Secundaria............. $ 5.08
+a).- Secundaria.............. $ 90.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- De tipo medio y superior............. $ 20.00
+b).- Tipo medio-superior y superior............... $ 90.00
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -6623,13 +5981,15 @@ a).- De tipo medio............. $ 10.00
 
 b).- De tipo superior............. $ 31.60
 
-XII.- Revalidación de estudios:
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a) De primaria............ 50.00
+XII.- Por solicitud de revalidación de estudios:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+a).- De educación básica.............. $ 10.00
 
-b).- De tipos medios y superior, por materia............. $ 5.00
+b).- De educación media-superior............... $ 100.00
+
+c).- De educación superior.............. $ 300.00
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6641,9 +6001,15 @@ b).- De tipo superior............. $ 8.30
 
 c).- Del Instituto Nacional de Bellas Artes y Literatura............... $ 8.30
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIV.- Equivalencia de estudios de tipo medio y superior, por materia............. $ 6.60
+XIV.- Por solicitud de equivalencia de estudios:
+
+a).- De educación básica.............. $ 10.00
+
+b).- De educación media-superior............... $ 100.00
+
+c).- De educación superior............... $ 300.00
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
@@ -6739,9 +6105,7 @@ XXVI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
-#### SECCION CUARTA. Servicios de Educación
-
-(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)
+#### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
 
 ###### ARTICULO 187.
 
@@ -6751,7 +6115,7 @@ I.- Por cada inscripción de documentos públicos o privados por virtud de los c
 
 II.- Por la cancelación o rectificación de las inscripciones......... N$ 8.00
 
-III.- Adopción del dominio pleno de predios provenientes de colonias agrícolas o ganaderas o distritos de colonización.................. N$ 45.00
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 IV.- Otorgamiento del usufructo de las tierras de uso común o parceladas, como garantía para respaldar el cumplimiento de los contratos refaccionarios, de habilitación o avío o cualquiera otro acto u obligación.................. N$ 8.00
 
@@ -6781,71 +6145,29 @@ XV.- Inscripción de la escritura constitutiva de un nuevo ejido................
 
 XVI.- Por las anotaciones preventivas, su rectificación o cancelación.................. N$ 10.00
 
-#### SECCION PRIMERA. Registro Agrario Nacional
+> <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+#### SECCION SEGUNDA. Derechos de Autor
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 188.
 
-Por la expedición de certificados de inafectabilidad agrícola, ganadera y agropecuaria, se pagarán derechos conforme a las siguientes cuotas:
-
-I.- Inafectabilidad agrícola.
-
-a) Predios con superficie de hasta 20 hectáreas de riego o sus equivalentes en otras calidades $ 2,500.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-b).- Predios con superficie mayor de 20 hectáreas y hasta 50 hectáreas de riego o sus equivalentes en otras calidades 337,000.00
-
-c) Predios con superficie mayor de 50 hectáreas y hasta 100 hectáreas de riego o sus equivalentes en otras calidades 6,000.00
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-d).- Predios que rebasen las superficies señaladas en el inciso anterior 7,000.00
-
-II.- Inafectabilidad ganadera.
-
-a) Predios con una superficie de hasta 1,000 $ 3,500.00
-
-b) Predios con una superficie mayor de 1,000 hectáreas y hasta 2,500
-
-hectáreas 5,000.00
-
-c) Predios con una superficie mayor de 2,500 7,500.00
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-III.- Por la expedición de certificados de inafectabilidad agropecuaria, se pagará el derecho aplicando la cuota agrícola cuando el predio de que se trate se encuentre así explotado en más de un 50%, de acuerdo con las superficies señaladas en la legislación agraria. Cuando el porciento de explotación ganadera supere al agrícola, se aplicará la cuota para predios ganaderos.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Los predios agrícolas menores de 10 hectáreas de temporal quedan exentos de pago.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-No se pagarán los derechos a que se refiere este artículo, por los predios inferiores al 50% de la superficie afectable.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 189.
 
-Los derechos a que se refiere el artículo anterior, se pagarán dentro de los primeros 15 días posteriores a la publicación en el "Periódico Oficial del Estado" del acuerdo del Secretario de la Reforma Agraria de Declaración de Inafectabilidad correspondiente.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
+#### SECCION TERCERA. Registro y Ejercicio Profesional
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 190.
 
-Por la autorización para cambio de destino de tierras, para dedicarlas a fines industriales, turísticos, urbanos u otros, se pagará el derecho de cambio de destino de tierra conforme a las siguientes cuotas:
-
-I.- Predios con superficie hasta de 20 hectáreas............ $ 25,000.00
-
-II.- Predios con superficie mayor de 20 hectáreas y hasta 50 hectáreas 50,000.00
-
-III.- Predios con superficie mayor de 50 hectáreas y hasta 100 hectáreas...... 100,000.00
-
-IV.- Predios que rebasen la superficie señalada en la fracción anterior…… 250,000.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -6871,9 +6193,9 @@ No se pagará el derecho que se establece en este artículo, por la información
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. Otros Servicios
+#### SECCION CUARTA. Servicios de Educación
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 190-B.
 
@@ -6907,13 +6229,19 @@ XIII.- Expedición de listados computarizados de los inmuebles incorporados al S
 
 XIV.- Expedición de copia certificada de folio real............. $ 137.84
 
-XV.- Asiento en el folio real de modificaciones de inscripciones relativas a plazo, intereses, garantías, datos equivocados o cualquier otra que no constituya novación del contrato............. $ 50.29
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XVI.- Otros tipos de asientos registrales en libros o en folio real que soliciten particulares............. $ 137.84
+XV.- Expedición de copia certificada de documento inscrito.............. $ 150.00
+
+XVI.- Asiento en el folio real de modificaciones de inscripciones relativas a plazo, intereses, garantías, datos equivocados o cualquier otra que no constituya novación del contrato.... $ 50.29
+
+XVII.- Otros tipos de asientos registrales en libros o en folio real que soliciten particulares............. $ 137.84
 
 El pago de los derechos que establece este artículo comprende la búsqueda de antecedentes registrales y la expedición de las respectivas copias certificadas.
 
-No pagarán los derechos a que se refieren las fracciones I, II, III, X, XIII y XIV de este artículo, las dependencias de la administración pública centralizada, los poderes legislativo y judicial, así como los organismos descentralizados siempre que sus fines se relacionen directamente con la asistencia social, educativa y de apoyo a agrupaciones campesinas.
+> <small>(REFORMADO, D.O.F 30 DE DICIEMBRE DE 1996)</small>
+
+No pagarán los derechos a que se refieren las fracciones I, II, III, X, XIII, XIV y XV de este artículo las dependencias de la administración pública centralizada, los poderes legislativo y judicial, así como los organismos descentralizados siempre que sus fines se relacionen directamente con la asistencia social, educativa y de apoyo a agrupaciones campesinas.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6929,13 +6257,15 @@ III.- Por otorgamiento de concesión sobre bienes de dominio público de la Fede
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-#### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
+#### SECCION PRIMERA. Registro Agrario Nacional
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 191.
 
-Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Contraloría General de la Federación, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de Contraloría y Desarrollo Administrativo, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Las oficinas pagadoras de las dependencias de la administración pública federal centralizada y paraestatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
 
@@ -6949,9 +6279,7 @@ En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de C
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-#### SECCION SEGUNDA. Inspección y Vigilancia
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+#### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
 
 ###### ARTICULO 191-A.
 
@@ -6967,6 +6295,10 @@ a).- La pesca comercial........... $ 100,000.00
 
 b).- Para realizar los trabajos pesqueros necesarios para fundamentar la solicitud de las concesiones de pesca comercial............. $ 60,000.00
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+c).- La pesca de fomento a personas físicas o morales cuya actividad u objeto social sea la captura, comercialización o transformación de productos pesqueros.............. $ 179.00
+
 > <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 III.- Por el otorgamiento de autorizaciones para:
@@ -6976,6 +6308,10 @@ a).- Instalar artes de pesca fija, en aguas de jurisdicción federal............
 b).- Recolectar del medio natural reproductores, larvas, postlarvas, crías, huevos, semillas o alevines con fines de producción acuícola……....... N$ 130.00
 
 c).- La transferencia de permisos de pesca comercial............. N$ 132.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+d).- Desembarcar productos pesqueros frescos, enhielados o congelados en puertos mexicanos, por embarcaciones extranjeras.............. $ 179.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -6993,23 +6329,21 @@ IV.- La pesca didáctica que realizan las instituciones educativas del país, re
 
 V.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-#### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+#### SECCION TERCERA. Otros Servicios
 
 ###### ARTICULO 192.
 
-Por los permisos de excepción para pesca, por cada embarcación extranjera y por cada viaje hasta de 60 días, se pagará el derecho de pesca, conforme a la cuota de............. $ 500,000,.00
+Por los permisos de excepción para pesca, por cada embarcación extranjera y por cada viaje hasta de 60 días, se pagará el derecho de pesca, conforme a la cuota de................. $ 500,000,.00
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-También se cubrirá este derecho por la expedición de permisos para la pesca comercial con embarcaciones inscritas en el Padrón de Abanderamiento Mexicano, en los términos de la Ley para el Desarrollo de la Marina Mercante Mexicana.
+También se cubrirá este derecho por la expedición de permisos para la pesca comercial con embarcaciones abanderadas como mexicanas, en términos de la legislación y demás disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION SEGUNDA. Permisos de Excepción para Pesca
+#### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 193.
 
@@ -7061,17 +6395,17 @@ III.- Por un mes......... 1,500.00
 
 IV.- Por un año.......... 2,000.00
 
-(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 4 DE MARZO DE 1985)
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-V.- Para excursiones de pesca deportiva procedentes del extranjero, por cada integrante y por viaje de más de cinco días y hasta por un año............ 2,000.00
+V.- Para excursiones de pesca deportiva procedente del extranjero, por cada integrante y por viaje de más de cinco días y hasta por un año. Si son menores de cinco días se pagará la cuota señalada por día, multiplicada por el número de días de viaje.............. $ 280.00
 
 Si son menores de cinco días se pagará la cuota señalada por día.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. Permisos para Pesca Deportiva
+#### SECCION SEGUNDA. Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 194-A.
 
@@ -7171,9 +6505,9 @@ Estos derechos se pagarán independientemente de los que correspondan conforme a
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION CUARTA. De las Areas Naturales Protegidas
+#### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 194-D.
 
@@ -7215,9 +6549,9 @@ Este derecho se pagará independientemente del que corresponda conforme al Títu
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION QUINTA. De la Zona Marítimo Terrestre
+#### SECCION SEGUNDA. Permisos de Excepción para Pesca
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 194-F.
 
@@ -7237,7 +6571,9 @@ No se pagará por el refrendo anual del registro a que se refiere la fracción I
 
 B. Por la expedición de permisos y, en su caso, de refrendos, anual o por temporada, así como por la expedición de certificados:
 
-I.- Para colecta científica realizada en el país, por extranjeros……… $ 3,790.22
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Por concepto de colecta científica de material biológico de flora y fauna silvestres, terrestres y acuáticas realizada en el país por extranjeros.............. $ 4,813.00
 
 Las personas que realicen colecta científica en el país, bajo algún convenio de cooperación internacional con el Gobierno Federal o con alguna institución mexicana, no pagarán este derecho.
 
@@ -7283,9 +6619,9 @@ IV.- Por supervisión anual, por hectárea............. $ 2.34
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION SEXTA. Servicios de Flora y Fauna
+#### SECCION TERCERA. Permisos para Pesca Deportiva
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 194-H.
 
@@ -7335,9 +6671,9 @@ c).- En su modalidad específica............. $ 644.94
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION SEPTIMA. Impacto Ambiental
+#### SECCION CUARTA. De las Areas Naturales Protegidas
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 194-K.
 
@@ -7391,9 +6727,25 @@ II.- Manifestación de impacto ambiental modalidad intermedia............. $ 1,7
 
 III.- Manifestación de impacto ambiental modalidad específica............. $ 2,663.23
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 194-N
+
+1.- Por la solicitud y trámite de inscripción en el Registro Forestal Nacional y por la expedición de la constancia de asiento, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- De autorizaciones de los programas de manejo forestal.............. $ 300.00
+
+II.- De autorizaciones de cambio de uso de suelo.............. $ 300.00
+
+III.- De centros de almacenamiento y transformación de materias primas forestales........ $ 300.00
+
+IV.- De personas físicas o morales responsables de elaborar, dirigir la ejecución técnica o evaluar programas de manejo forestal.............. $ 300.00
+
+Por la modificación de las inscripciones a que se refiere este artículo se pagará la cuota de $ 150.00.
+
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION OCTAVA. Prevención y Control de la Contaminación
+#### SECCION QUINTA. De la Zona Marítimo Terrestre
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7405,7 +6757,7 @@ I.- Por la recepción y evaluación de solicitud de licencia............. $ 1,39
 
 II.- Actualización de licencia de funcionamiento por ampliación o modificación de procesos............. $ 670.40
 
-III.- Por la verificación de cumplimiento de las condiciones derivadas de la licencia de funcionamiento............. $ 1,115.37
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7445,21 +6797,73 @@ III.- Instalación y operación de sistemas de incineración y disposición fina
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION PRIMERA. Registro Sanitario
+#### SECCION SEXTA. Servicios de Flora y Fauna
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 194-U.
 
 Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación, por cada dictamen técnico conforme a la cuota de............. $ 557.65
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 194-V.
+
+Por los servicios que presta la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, en materia de flora y fauna silvestre, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por cada registro y refrendo anual:
+
+a).- De clubes o asociaciones cinegéticas............... $ 377.00
+
+b).- De criaderos de fauna silvestre y viveros.............. $ 189.00
+
+c).- Para taxidermistas.............. $ 189.00
+
+d).- Para mascotas o aves de presa.............. $ 151.00
+
+e).- Para colecciones particulares de fauna silvestre.............. $ 151.00
+
+f).- De zoológicos, aviarios, herpetarios, circos y espectáculos de fauna silvestre............ $ 113.00
+
+II.- Por cada solicitud de permiso o su refrendo, por temporada:
+
+a).- Para organizadores de expediciones cinegéticas, por entidad federativa.............. $ 7,328.00
+
+b).- Para guías o asistentes cinegéticos, por entidad federativa.............. $ 317.00
+
+c).- Para comercialización ambulante de aves canoras y de ornato, por entidad federativa.............. $ 43.00
+
+d).- Para comercialización establecida de aves canoras y de ornato.............. $ 322.00
+
+e).- Para comercialización al mayoreo de aves canoras y de ornato.............. $ 1,646.00
+
+f).- Para transportación de aves canoras y de ornato.............. $ 151.00
+
+g).- Para capturador de aves canoras y de ornato, por entidad federativa.............. $ 102.00
+
+III.- Por cada solicitud de permiso de importación, cualquiera que sea su resolución:
+
+a).- De productos o subproductos de fauna.............. $ 57.00
+
+b).- De trofeos de caza.............. $ 189.00
+
+c).- De especies de acuario, incluyendo peces, tortugas e invertebrados en general..... $ 189.00
+
+d).- De animales de fauna silvestre provenientes del medio natural o de criadero........... $ 377.00
+
+e).- De animales de fauna silvestre para fines no comerciales o de investigación científica.............. $ 132.00
+
+IV.- Por cada solicitud de permiso de exportación de fauna silvestre, sus productos o subproductos, cualquiera que sea su resolución.............. $ 57.00
+
+V.- Por cada solicitud de permiso para traslado de fauna silvestre dentro del territorio nacional cualquiera que sea su resolución.............. $ 57.00
+
 ### CAPITULO XIV. De la Secretaría de Salud
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION SEGUNDA. Servicios de Laboratorio
+#### SECCION SEPTIMA. Impacto Ambiental
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 195.
 
@@ -7491,9 +6895,9 @@ Los productos comprendidos en las fracciones I, II, III y IV que a juicio de la 
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION TERCERA. Fomento y Análisis Sanitario
+#### SECCION OCTAVA. Prevención y Control de la Contaminación
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 195-B.
 
@@ -7513,27 +6917,17 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la depende
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION CUARTA. Otros Servicios
+#### SECCION NOVENA. Otros Servicios
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-C.
 
-Por los servicios de verificación o fomento sanitario, para evaluar, supervisar o asesorar sobre las condiciones sanitarias de las actividades, productos y servicios, cuando se realice a solicitud de los particulares, se pagará el derecho de fomento sanitario, conforme a lo siguiente:
+Por los servicios de verificación o fomento sanitario, para evaluar o supervisar sobre las condiciones sanitarias de las actividades, productos y servicios, la aplicación de los métodos de prueba de laboratorios analíticos, procedimientos de verificación o ambos, cuando se realice a solicitud de los particulares, se pagará el derecho de verificación o fomento sanitario, conforme a las siguientes cuotas:
 
-I.- El 1% sobre el valor de los bienes a verificar.
+I.- Por cada solicitud de visita de verificación sanitaria para la certificación de conformidad de buenas prácticas sanitarias con fines de exportación en establecimientos donde se procesen alimentos, bebidas no alcohólicas y alcohólicas, tabaco, productos de aseo, limpieza, perfumería y belleza, y de las materias primas y aditivos que intervengan en su elaboración.............. $ 720.00
 
-II.- Tratándose de actividades o servicios:
-
-a).- De bajo riesgo sanitario...................$ 50,000.00
-
-b).- De riesgo medio sanitario..................$ 100,000.00
-
-c).- De alto riesgo sanitario.................. $ 150,000.00
-
-Las cuotas comprendidas en esta fracción se pagarán por cada día que requiera el desarrollo de la evaluación, supervisión o asesoría sanitaria respectiva.
-
-No se pagará el derecho a que se refiere este artículo por los servicios de evaluación, supervisión o asesoría sanitaria que soliciten las entidades de la administración pública y organismos descentralizados de la Federación, las Entidades Federativas o los Municipios, para sus propios servicios públicos.
+II.- Por cada solicitud de visita de evaluación para la aprobación de las unidades de verificación, organismos de certificación y laboratorios de prueba.............. $ 1,340.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -7557,17 +6951,15 @@ b).- De riesgo medio sanitario.............. $ 25,000.00
 
 c).- De riesgo bajo sanitario............... $ 20,000.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 195-D
 
-1.- Por la realización del muestreo a petición de parte interesada, de productos alimenticios, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como las materias primas y aditivos que intervengan en su elaboración, sin incluir análisis de laboratorio, se pagará por cada uno el derecho de muestreo, conforme a la cuota de $ 325.00
+1.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION UNICA. Registro Nacional de Turismo
+#### SECCION PRIMERA. Registro Sanitario
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 195-E.
 
@@ -7695,7 +7087,9 @@ I.- Por cada uno de los trámites de solicitud de certificado con o sin análisi
 
 II.- En el caso de certificados en que requieran análisis de laboratorio se pagará adicionalmente:
 
-a).- Por muestras de productos............. $ 325.00
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+a).- Por muestreo de productos.............. $ 471.00
 
 b).- Por análisis de laboratorio............. $ 217.00
 
@@ -7703,11 +7097,9 @@ III.- Por la corrección o modificación de un certificado expedido y que se enc
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 195-I.
 
-Por la presencia de la Secretaría de Salud en el proceso de destrucción de productos alimenticios, aseo, limpieza, perfumería, belleza, bebidas y tabaco, así como las materias primas y aditivos que intervengan en su elaboración, se pagará el derecho por destrucción de productos, conforme a la cuota de $ 260.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -7745,9 +7137,9 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION PRIMERA. Educación Militar
+#### SECCION SEGUNDA. Servicios de Laboratorio
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado
 
@@ -7785,9 +7177,9 @@ Ferrocarriles Nacionales de México pagará por concepto de derechos por la pres
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-#### SECCION SEGUNDA. Registro Federal de Armas de Fuego y Control de Explosivos
+#### SECCION TERCERA. Fomento y Análisis Sanitario
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-P.
 
@@ -7881,133 +7273,183 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. Distritos de Riego
+#### SECCION CUARTA. Otros Servicios
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195-S.
 
 Por la expedición de constancias de certificados de estudios y de duplicados de estudios parciales de educación militar, se pagará el derecho de servicios de educación militar conforme a la cuota de $ 50.00, por cada documento.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+#### SECCION UNICA. Registro Nacional de Turismo
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 195-T.
 
-Por la expedición y revalidación de permisos generales, del registro federal de armas de fuego y control de explosivos, se pagará el derecho por registro de armas y control de explosivos, conforme a las siguientes cuotas:
+Por los servicios relacionados con armas y municiones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el permiso para la compra y consumo de materiales explosivos para la construcción............. $ 3,000.00
+A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-II.- Por o el permiso para la fabricación de explosivos o sustancias químicas relacionadas con estos, así como para la adquisición y almacenamiento de materia prima y productos terminados............. $ 3,000.00
+I.- Para la fabricación de armas de fuego, cartuchos, cartuchos de fuego central, armas deportivas o municiones esféricas de plomo............... $ 2,176.00
 
-III.- Por el permiso para la compraventa, consumo o almacenamiento de explosivos o sustancias químicas relacionadas con estos, por cada uno............. $ 3,000.00
+II.- Para la fabricación, importación y exportación de partes de escopeta.............. $ 2,176.00
 
-IV.- Por el permiso para el transporte especializado de material explosivo............. $ 3,000.00
+III.- Para la compra y consumo de cartuchos industriales, de salva o deportivos......... $ 2,176.00
 
-V.- Por el permiso para la fabricación de armas de fuego, cartuchos, cartuchos de fuego central, armas deportivas o municiones esféricas de plomo, por cada uno............. $ 1,500.00
+IV.- Para talleres dedicados a la reparación de armas de fuego o gas.............. $ 2,143.00
 
-VI.- Por el permiso para la fabricación, importación temporal y exportación de partes de escopeta............. $ 1,500.00
+B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-VII.- Por el permiso para la compra y consumo de cartuchos industriales, cartuchos de salva, cartuchos deportivos e industriales, por cada uno............. $ 1,500.00
+I.- De importación o exportación de armas, cartuchos y elementos constitutivos........ $ 1,506.00
 
-VIII.- Por el permiso para la reparación de armas de fuego.............. $ 1,500.00
+II.- Para la compra de cartuchos deportivos a los expendios autorizados.............. $ 233.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
+
+I.- Para la importación o exportación de armas y cartuchos.............. $ 1,352.00
+
+II.- Para la compra-venta, donación o permuta de armas o cartuchos.............. $ 34.00
+
+III.- Para la importación o exportación temporal de armas de fuego y cartuchos, con fines cinegéticos o de tiro.............. $ 1,306.00
+
+IV.- Para la transportación de armas............... $ 238.00
+
+D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
+
+I.- Por el permiso para coleccionista o museo de armas de fuego.............. $ 1,090.00
+
+II.- Por la autorización para la adquisición y posesión de nuevas armas destinadas al enriquecimiento de una colección o de un museo, e inscripción en el mismo permiso.... $ 100.00
+
+E.- Por el trámite de cada registro:
+
+I.- Por el registro inicial para organizador cinegético o criador de fauna silvestre........ $ 2,746.00
+
+a).- Por su revalidación.............. $ 1,405.00
+
+II.- Anual para club o asociación de deportistas de tiro y cacería.............. $ 2,032.00
+
+III.- Por el registro de un arma de fuego.............. $ 14.00
+
+IV.- Por la expedición de cada constancia de registro.............. $ 43.00
+
+F.- Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
+
+I.- Por la expedición de:
+
+a).- Licencia particular individual............... $ 658.00
+
+b).- Licencia particular colectiva.............. $ 10,224.00
+
+c).- Licencia oficial colectiva.............. $ 5,551.00
+
+II.- Por la revalidación de:
+
+a).- Licencia particular individual.............. $ 658.00
+
+b).- Licencia particular colectiva.............. $ 10,224.00
+
+III.- Por la modificación de licencia particular colectiva u oficial colectiva.............. $ 774.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-U.
 
-Por la expedición y revalidación de permisos ordinarios y extraordinarios del Registro Federal de Armas de Fuego y Control de Explosivos, se pagará el derecho por registro de armas y control de explosivos, conforme a las siguientes cuotas:
+Por los servicios relacionados con explosivos y sustancias químicas, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el permiso para la compra de material explosivo para construcción y minería........ $ 100.00
+A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-II.- Por el permiso para la importación o exportación de explosivos o sustancias químicas relacionadas con estos............. $ 100.00
+I.- Para la compra, almacenamiento y consumo o compra-consumo de materiales explosivos.............. $ 4,024.00
 
-III.- Por el permiso para la compra de sustancias químicas para la fabricación de artificios pirotécnicos............. $ 100.00
+II.- Para la fabricación de explosivos o sustancias químicas relacionadas con éstos, así como para la adquisición y almacenamiento de materia prima y productos terminados........ $ 4,024.00
 
-IV.- Por el permiso ordinario de importación............. $ 1,000.00
+III.- Para la compra-venta, compra-consumo o almacenamiento de explosivos o sustancias químicas relacionadas con éstos.............. $ 4,103.00
 
-> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+IV.- Para la compra, almacenamiento y consumo de sustancias químicas en la fabricación y venta de artificios pirotécnicos.............. $ 583.00
 
-V.- Por el permiso extraordinario para la importación o exportación temporal o definitiva de armas y cartuchos, por las armas y sus cartuchos o sólo cartuchos..............$ 1,028.07
+Por la inspección para el reinicio de actividades de un permiso general suspendido a solicitud del interesado, se pagará el derecho conforme a la cuota de $ 1,210.00.
 
-VI.- Por el permiso extraordinario para la importación o exportación de explosivos o sustancias químicas relacionadas con armas y cartuchos............. $ 1,000.00
+B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-VII.- Por el permiso extraordinario para la compra de armas y cartuchos nuevos o usados................ $ 30.00
+I.- Para la compra de material explosivo o sustancias químicas.............. $ 354.00
 
-VIII.- Por el permiso extraordinario para la transportación de armas para la práctica de tiro y cacería, por cada arma incluida en el permiso............. $ 15.00
+II.- De importación o exportación de explosivos o sustancias químicas relacionadas con éstos............... $ 1,374.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+a).- Por su modificación.............. $ 1,374.00
+
+C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
+
+I.- Para la compra-consumo, importación o exportación de material explosivo o sustancias químicas.............. $ 4,024.00
+
+II.- Por la modificación a un permiso extraordinario de importación o exportación de explosivos o sustancias químicas relacionados con éstos.............. $ 1,374.00
+
+III.- Para la compra-venta de artificios pirotécnicos.............. $ 354.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-V.
 
-Por la expedición y revalidación de licencias o autorizaciones relacionadas con armas de fuego, se pagará el derecho por registro de armas y control de explosivos conforme a las siguientes cuotas:
+Por los servicios relacionados con explosivos, sustancias químicas, armas o municiones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Expedición y revalidación de licencias a particulares para la portación de armas de fuego............... $ 30.00
+I.- Por la expedición de cada permiso general para el transporte especializado de explosivos, sustancias químicas relacionadas con éstos, artificios, armamento o municiones....... $ 4,087.00
 
-II.- Por la autorización para la adquisición y posesión de armas para colección............. $ 30.00
+II.- Por el trámite de autorización:
+
+a).- De libros de compras y ventas a personas físicas o morales con permiso general....... $ 53.00
+
+b).- Para cambio de razón social a un permiso general.............. $ 610.00
+
+III.- Por la autorización para modificar un permiso general en cualquiera de sus condiciones, por ubicación, técnica de trabajo u otro motivo que no afecte la clase de producción permitida............... $ 4,052.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION PRIMERA. Educación Militar
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-#### SECCION UNICA. Espectro Radioeléctrico
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 195-W.
 
-Por el registro de armas, clubes o asociaciones de tiro y cacería en el Registro Federal de Armas de Fuego y Control de Explosivos, se pagará el derecho por registro de armas y control de explosivos, conforme a las siguientes cuotas:
+Por los servicios relacionados con el servicio militar nacional, se pagarán los siguientes derechos:
 
-I.- Por el registro de un arma de fuego............. $ 10.00
+I.- Por el permiso para salir del país.............. $ 58.00
 
-II.- Por el registro de clubes o asociaciones de tiro y cacería, anualmente............. $ 1,000.00
+II.- Por el permiso para la liberación por naturalización.............. $ 58.00
 
-III.- Por la expedición de constancias de registro............. $ 30.00
+III.- Por corrección de los datos base de la cartilla.............. $ 58.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+IV.- Por aplazamiento en la incorporación.............. $ 58.00
+
+V.- Por expedición de duplicado de cartilla............... $ 58.00
+
+VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo la cartilla del Servicio Militar Nacional.............. $ 114.00
 
 ### CAPITULO I. Bosques
 
-#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-X.
 
-Por los servicios relacionados con el servicio militar nacional, se pagará el derecho por servicio militar nacional conforme a las siguientes cuotas:
-
-I.- Por la expedición de visas o resellos de cartillas........... $ 40.00
-
-II.- Por anticipos de incorporación............. $ 20.00
-
-III.- Por el permiso para salir al extranjero............. $ 40.00
-
-IV.- Por el permiso para liberación por naturalización............. $ 40.00
-
-V.- Por exceptuaciones del Servicio Militar Nacional........... $ 40.00
-
-VI.- Por aplazamiento de incorporación............. $ 40.00
-
-VII.- Por correcciones en los datos base de la cartilla......... $ 40.00
-
-VIII.- Por expedición de duplicado de cartillas............. $ 40.00
-
-IX.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo la cartilla del Servicio Militar Nacional............. $ 200.00
-
-X.- Por manifestación de cambio de domicilio............. $ 20.00
-
-XI.- Por constancia de estar cumpliendo las obligaciones militares...... $ 40.00
-
-XII.- Por remiso en la incorporación............. $ 100.00
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ### CAPITULO II. Pesca
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
-#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+#### SECCION TERCERA. Servicio Militar Nacional
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO III. Puerto y Atraque
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+#### SECCION PRIMERA. Distritos de Riego
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -8073,87 +7515,93 @@ El pago del derecho a que se refiere este artículo se hará previamente a la ex
 
 Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrados en esta materia por México con otros países.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 199-A.
 
-Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional, pagarán el derecho de pesca conforme a las siguientes cuotas:
+Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas:
 
-PARA LAS PARA LAS DE ARTES
+ESPECIE CUOTA ANUAL POR DE ARTES
 
-EMBARCACIONES EMBARCACIONES O EQUIPOS
+TONELADA NETA O O EQUIPOS
 
-DE 10 TONELADAS MENORES DE 10
+FRACCIÓN DE REGISTRO
 
-BRUTAS DE TONELADAS
+DE LA EMBARCACIÓN
 
-REGISTRO O BRUTAS DE
+I.- ABULÓN $ 239.00
 
-MAYORES REGISTRO
+II.- SARGAZO $ 32.00 $ 865.00
 
-I.- ABULON 1'250,000.00
+III.- ALGAS MARINAS $ 1,470.00 $ 865.00
 
-II.- ALGAS MARINAS Y $ 2'270,000.00 $ 581,000.00
+IV.- ALMEJAS $ 201.00 $ 865.00
 
-SARGAZOS
+V.- ANCHOVETA $ 22.00
 
-III.- ALMEJAS 581,950.00 $ 581,950.00
+VI.- CALAMAR $ 47.00
 
-IV.- ANCHOVETA $ 1'130,000.00
+VII.- CAMARÓN DE ALTAMAR $ 15.00
 
-V.- CALAMAR $ 587,600.00 56,500.00
+VIII.- CAMARÓN DE AGUAS
 
-VI.- CAMARON DE $ 621,500.00
+PROTEGIDAS $ 31.00
 
-ALTAMAR
+IX.- CANGREJO $ 26.00
 
-VII.- CAMARON DE
+X.- CARACOL $ 109.00
 
-AGUAS PROTEGIDAS 1'250.000.00
+XI.- ERIZO $ 502.00
 
-VIII- CARACOLES 587,600.00
+XII.- JAIBA $ 17.00
 
-IX.- ERIZO 2'260,000.00
+XIII.- ESPECIES MARINAS
 
-X.- ESPECIES MARINAS $ 339,000.00 56,500.00
+DE ESCAMA $ 22.00
 
-DE ESCAMA
+XIV.- ESPECIES DE ESCAMA
 
-XI.- ESPECIES DE 56,500.00
+DE AGUA DULCE $ 11.00
 
-ESCAMA DE
+XV.- LANGOSTA $ 104.00
 
-AGUA DULCE
+XVI.- LANGOSTINO $ 17.00
 
-XII.- LANGOSTA 1'250,000.00
+XVII.- OSTIÓN $ 22.00
 
-XIII.- OSTION 565,000.00
+XVIII.- PICUDOS $ 19.00
 
-XIV.- PICUDOS $ 2'260,000.00
+XIX.- PULPO $ 62.00 $ 84.00
 
-XV.- PULPO 56,500.00 $ 56,500.00
+XX.- SARDINA $ 22.00
 
-XVI.- SARDINA $ 1'130,000.00
+XXI.- TIBURÓN $ 3.00
 
-XVII.- TIBURON $ 339,000.00 56,500.00
+XXII.- TÚNIDOS $ 15.00
 
-XVIII.- TUNIDOS $ 2'260,000.00
+XXIII.- OTRAS PESQUERÍAS
 
-XIX.- OTRAS $ 339,000.00 56,500.00 $ 56,500.00
+MARINAS $ 20.00 $ 84.00
 
-PESQUERIAS
+XXIV.- OTRAS PESQUERÍAS
 
-MARINAS
+DE AGUA DULCE $ 11.00 $ 84.00
 
-XX.- OTRAS 56,500.00 $ 56,500.00
+XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
-PESQUERIAS DE
+XXVI.- Por la extracción de larvas y postlarvas de camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota de $ 230.00 por cada millón de organismos autorizados.
 
-AGUA DULCE
+XXVII.- Por la extracción de larvas, postlarvas, crías, huevos, semillas o alevines de otras especies de la flora y fauna acuáticas distintas al camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
-El pago del derecho a que se refiere este artículo, se hará previamente a la extracción de las especies señaladas, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
+Las cuotas anuales señaladas en las fracciones I a la XXIV deberán pagarse, por primera vez, al cubrir el derecho por la expedición del permiso o concesión y previo a la entrega del documento respectivo.
 
-Quienes realicen la pesca comercial de dichas especies al amparo de permisos, harán el pago al cubrir el derecho por la expedición del correspondiente permiso y cubrirán el uso o aprovechamiento de la especie que se capture durante toda la vigencia del permiso. Quienes lo hagan al amparo de concesiones, cubrirán el 50% de las cuotas establecidas para la especie cuya captura tengan concesionada, con una periodicidad anual, dentro del mes de enero del ejercicio fiscal correspondiente.
+El pago se efectuará atendiendo a la vigencia y fecha de expedición de los permisos o concesiones de pesca comercial, los que se refieran a períodos menores a un año se cubrirán mediante cuotas por cada mes o fracción, dividiendo la cuota anual correspondiente a la especie de que se trate entre doce. El pago de cuotas correspondientes a años subsecuentes amparados por el permiso o concesión expedido se cubrirá dentro del mes de enero del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 199-B.
+
+Por el aprovechamiento de los recursos pesqueros marinos en la pesca deportiva, se pagarán derechos conforme a la cuota de $ 274.50 por día.
 
 > <small>(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -8469,6 +7917,10 @@ Cuando se concesione el uso o explotación de un activo que forma parte de la ba
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
+#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 222.
 
 Están obligadas al pago del derecho sobre agua, las personas físicas y las morales que usen o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo a la zona de disponibilidad de agua en que se efectúe su extracción de conformidad a la división territorial contenida en el artículo 231 de esta Ley.
@@ -8483,41 +7935,41 @@ Por el uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo
 
 A.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, por cada metro cúbico:
 
-> <small>(REFORMADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Zona de disponibilidad 1 $ 6.0000
+I.- Zona de disponibilidad 1 $ 7.9591
 
-> <small>(REFORMADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Zona de disponibilidad 2 $ 4.8000
+II.- Zona de disponibilidad 2 $ 6.3673
 
-> <small>(REFORMADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Zona de disponibilidad 3 $ 4.0000
+III.- Zona de disponibilidad 3 $ 5.3061
 
-> <small>(REFORMADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Zona de disponibilidad 4 $ 3.3000
+IV.- Zona de disponibilidad 4 $ 4.3775
 
-> <small>(ADICIONADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-V.- Zona de disponibilidad 5 $ 2.6000
+V.- Zona de disponibilidad 5 $ 3.4490
 
-> <small>(ADICIONADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VI.- Zona de disponibilidad 6 $ 2.3500
+VI.- Zona de disponibilidad 6 $ 3.1173
 
-> <small>(ADICIONADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VII.- Zona de disponibilidad 7 $ 1.5487
+VII.- Zona de disponibilidad 7 $ 2.3465
 
-> <small>(ADICIONADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VIII.- Zona de disponibilidad 8 $ 0.5504
+VIII.- Zona de disponibilidad 8 $ 0.8340
 
-> <small>(ADICIONADA. D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IX.- Zona de disponibilidad 9 $ 0.4126
+IX.- Zona de disponibilidad 9 $ 0.6252
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -8531,47 +7983,49 @@ B.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuel
 
 I.- Uso de agua potable asignada a entidades federativas, municipios, organismos paraestatales, paramunicipales o empresas concesionarias que presten el servicio público de agua potable y alcantarillado en sustitución de las anteriores o a colonias populares constituidas como personas morales que por concesión de aquéllos presten el servicio de suministro de agua potable de uso doméstico:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Zonas de disponibilidad 1 a 6 $ 90.64
+Zona de disponibilidad 1 a 6 $ 144.62
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Zona de disponibilidad 7 $ 42.23
+Zona de disponibilidad 7 $ 67.37
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Zona de disponibilidad 8 $ 21.11
+Zona de disponibilidad 8 $ 33.67
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-Zona de disponibilidad 9 $ 10.53
+Zona de disponibilidad 9 $ 16.79
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Generación Hidroeléctrica $ 1.00
+II.- Generación hidroeléctrica $ 1.3951
 
-III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+III.- Acuacultura:
 
-IV.- Acuacultura, balnearios y centros recreativos:
+Zona de disponibilidad 1 a 6 $ 1.1922
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Zona de disponibilidad 7 0.5874
 
-Zonas de disponibilidad 1 a 6 $ 0.8219
+Zona de disponibilidad 8 $ 0.2766
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Zona de disponibilidad 9 $ 0.1316
 
-Zona de disponibilidad 7 $ 0.4050
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+IV.- Balnearios y centros recreativos:
 
-Zona de disponibilidad 8 $ 0.1908
+Zona de disponibilidad 1 a 6 $ 2.1996
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Zona de disponibilidad 7 $ 1.0838
 
-Zona de disponibilidad 9 $ 0.0908
+Zona de disponibilidad 8 $ 0.5104
+
+Zona de disponibilidad 9 $ 0.2428
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -8611,9 +8065,9 @@ Lo dispuesto en esta fracción no será aplicable al agua que se use o aproveche
 
 VI.- Por el uso o aprovechamiento de las aguas interiores salobres, cuando se obtenga certificado expedido por la Comisión Nacional del Agua en el que establezca que dicha agua contiene más de 2,500 miligramos por litro de sólidos disueltos totales, independientemente de si se desaliniza o se trata.
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por el uso o aprovechamiento de aguas, efectuada por organismos operadores de agua potable y alcantarillado, públicos o privados, que abastezcan de agua para consumo doméstico a poblaciones rurales iguales o inferiores a 2,500 habitantes, de conformidad con el último censo general de población.
+VII.- Por el uso o aprovechamiento de aguas efectuado por las poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda y por los organismos operadores de agua potable y alcantarillado, públicos o privados, que abastezcan de agua para consumo doméstico a estas poblaciones, por los volúmenes suministrados para este fin.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -8642,6 +8096,10 @@ II.- $ 220.00 por cada metro cúbico de agua potable que se proporcione al Depar
 Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar con aparatos de medición de las aguas que usen o aprovechen, mismos que deberán tener sellos oficiales de la Comisión Nacional del Agua, e instalarlos en lugares visibles, así como permitir el acceso al personal de la Comisión para verificar su lectura. Asimismo estarán obligados a informar a dicha Comisión las descomposturas de su medidor dentro del trimestre en que tuvieren conocimiento de las mismas.
 
 > <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+#### SECCION UNICA. Espectro Radioeléctrico
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 226.
 
@@ -8749,23 +8207,229 @@ Tratándose del derecho a que se refiere el presente Capítulo, la Comisión Nac
 
 Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, son las siguientes:
 
-ZONA 1. Estado de Aguascalientes: San José de Gracia; Estado de Baja California: Ensenada, Tecate y Tijuana, Estado de Baja California Sur: La Paz; Estado de Colima: Manzanillo; Distrito Federal; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Guadalajara, Tlaquepaque, Tonalá y Zapopan; Estado de México: Atizapán de Zaragoza, Chalco, Chiconcuac, Chimalhuacán, Coacalco, Cuautitlán, Cuautitlán-Izcalli, Ecatepec, Huixquilucan, Ixtapaluca, Melchor Ocampo, Naucalpan de Juárez, Nezahualcoyotl, Nicolás Romero, La Paz, Tepotzotlán, Texcoco, Tlalnepantla de Baz y Tultitlán; Estado de Quintana Roo: Benito Juárez, Cozumel, Isla Mujeres y Solidaridad.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-ZONA 2. Estado de Aguascalientes: Aguascalientes y San Francisco de los Romo; Estado de Guanajuato: León; Estado de Jalisco: Puerto Vallarta; Estado de México: Acambay, Acolman, Aculco, Almoloya de Juárez, Almoloya del Río, Amecameca, Apaxco, Atenco, Atizapán, Atlacomulco, Atlautla, Axapusco, Ayapango, Calimaya, Capulhuac, Chapa de Mota, Chapultepec, Chiautla, Chicoloapan, Cocotitlán, Coyotepec, Ecatzingo, Huehuetoca, Hueypoxtla, Isidro Fabela, Jalatlaco, Jaltenco, Jilotepec, Jilotzingo, Jocotitlán, Juchitepec, Lerma, Metepec, Mexicaltzingo, Morelos, Nextlalpan, Nopaltepec, Ocoyoacac, El Oro, Otumba, Otzolotepec, Ozumba, Papalotla, Polotitlán, Rayón, San Antonio la Isla, San Felipe del Progreso, San Martín de las Pirámides, San Mateo Atenco, Soyaniquilpan de Juárez, Tecamac, Temamatla, Temascalapa, Temascalcingo, Temoaya, Tenango del Aire, Teoloyucan, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcalyacac, Tezoyuca, Tianguistengo, Timilpan, Tlalmanalco, Toluca, Tultepec, Villa del Carbón, Xonacatlán, Zinacantepec y Zumpango; Estado de Morelos: Cuernavaca; Estado de Nuevo León: Abasolo, Agualeguas, Los Aldamas, Allende, Anáhuac, Aramberri, Bustamante, Cadereyta Jiménez, El Carmen, Cerralvo, China, Ciénega de Flores, Doctor Arroyo, Doctor Coss, Doctor González, Galeana, García, General Bravo, General Terán, General Treviño, General Zaragoza, General Zuazua, Los Herreras, Hidalgo, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Paras, Pesquería, Los Ramones, Rayones, Sabinas Hidalgo, Salinas de Victoria, Santiago, Vallecillo y Villaldama.
+ZONA 1. Estado de Aguascalientes: San José de Gracia.
 
-ZONA 3. Estado de Chihuahua: Hidalgo del Parral; Estado de Coahuila: Francisco I. Madero, Matamoros, Nava, Piedras Negras, Ramos Arizpe, Saltillo, San Pedro de las Colonias, Torreón y Viesca; Estado de Durango: Tlahualillo; Estado de Guanajuato: Doctor Mora; Estado de Hidalgo, Tizayuca, Estado de México: Ixtlahuaca y Jiquipilco; Estado de San Luis Potosí: Ahualulco, Catorce, Cerro de San Pedro, Matehuala, Salinas de Hidalgo, Santo Domingo, Villa de Arriaga, Villa de Guadalupe, Villa de Ramos y Villa Juárez; Estado de Tlaxcala: Huamantla; Estado de Zacatecas: Guadalupe, Morelos, Vetagrande y Zacatecas.
+Estado de Baja California: Ensenada, Playas de Rosarito, Tecate y Tijuana.
 
-ZONA 4. Estado de Aguascalientes: Jesús María; Estado de Baja California Sur: Los Cabos y Mulegé; Estado de Chihuahua: Aldama, Bocoyna, Chihuahua y Ojinaga; Estado de Coahuila: Sabinas y San Juan de Sabinas; Estado de Guanajuato: Manuel Doblado; Estado de Morelos: Tlayacapan; Estado de Nuevo León: Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza y Santa Catarina; Estado de San Luis Potosí: Cedral, Charcas, Guadalcázar, Villa de La Paz, Mexquitic, Moctezuma, San Luis Potosí, Soledad de Graciano Sánchez, Vanegas, Venado, Villa de Reyes, Villa Hidalgo y Zaragoza; Estado de Sonora: Magdalena; Estado de Zacatecas: Calera y Loreto.
+Estado de Baja California Sur: La Paz.
 
-ZONA 5. Estado de Baja California Sur: Comondú y Loreto; Estado de Chihuahua: Camargo, Jiménez, Juárez, San Francisco del Oro y Saucillo; Estado de Coahuila: Acuña, Arteaga, Candela, General Cepeda, Morelos, Parras de la Fuente, Progreso y San Buenaventura; Estado de Durango: Gómez Palacio, Lerdo, Nazas y Rodeo; Estado de Guanajuato: Cortazar, Guanajuato, Irapuato y Silao; Estado de Hidalgo: Huichapan, y Zapotlán de Juárez; Estado de Morelos: Yautepec; Estado de Querétaro: Colón, Corregidora, Ezequiel Montes, Huimilpan, El Marqués, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan; Estado de Sonora: Aconchi, Altar, Arizpe, Atil, Bacum, Banamichi, Bavíacora, Benjamín Hill, Caborca, Cananea, Carbo, La Colorada, Cucurpe, Empalme, Etchojoa, Guaymas, Mazatán, Nogales, Opodepe, Oquitoa, Pitiquito, Plutarco Elías Calles, Rayón, San Felipe de Jesús, San Miguel de Horcasitas, Santa Cruz, Saric, Trincheras, Tubutama y Ures; Estado de Veracruz: Coatzacoalcos, Cosoleacaque y Minatitlán; Estado de Zacatecas, Cañitas de Felipe Pescador, Concepción del Oro, Cuauhtémoc, Fresnillo, Genaro Codina, General Enrique Estrada, General Francisco Murguía, General Pánfilo Natera, Juan Aldama, Luis Moya, Mazapil, Melchor Ocampo, Miguel Auza, Noria de Angeles, Ojocaliente, Pánuco, Pinos, Río Grande, Sain Alto, El Salvador, Sombrerete, Villa de Coss, Villa García, Villa González Ortega y Villa Hidalgo.
+Estado de Colima: Manzanillo.
 
-ZONA 6. Estado de Aguascalientes: Asientos, Calvillo, Cosío, El Llano, Pabellón de Arteaga, Rincón de Romos y Tepezala; Estado de Baja California: Mexicali; Estado de Chihuahua: Allende, Aquiles Serdán, Ascensión, Balleza, Carichi, Casas Grandes, Coronado, Coyame, La Cruz, Delicias, Doctor Belisario Domínguez, Galeana, Guadalupe, Huejotitán, Janos, Julimes, López, Manuel Benavides, Matamoros, Meoqui, Nonoava, Nuevo Casas Grandes, Praxedis G. Guerrero, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, Santa Bárbara, Satevo, El Tule y Valle de Zaragoza; Estado de Coahuila: Abasolo, Castaños, Cuatrociénegas, Escobedo, Frontera, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Monclova, Muzquiz, Nadadores, Ocampo, Sacramento, Sierra Mojada, Villa Unión y Zaragoza; Estado de Colima: Colima, Comala, Coquimatlán, Cuauhtémoc, Minatitlán y Villa de Alvarez; Estado de Durango: Coneto de Comonfort, Cuéncame, General Simón Bolívar, Guadalupe Victoria, Guanaceví, Inde, Mapimi, El Oro, Pánuco de Coronado, Peñón Blanco, Poanas, San Bernardo, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Tepehuanes, Vicente Guerrero, Villa Hidalgo y Villa Ocampo; Estado de Guanajuato: Abasolo, Acámbaro, Allende, Apaseo el Grande, Apaseo el Alto, Celaya, Atarjea, Comonfort, Coroneo, Cuerámaro, Dolores Hidalgo, Huanímaro, Jaral del Progreso, Jerécuaro, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichu y Yuriria; Estado de Hidalgo: Acatlán, Almoloya, Apan, Cuautepec de Hinojosa, Emiliano Zapata, Epazoyucan, Pachuca, Metepec, Mineral de la Reforma, Mineral del Chico, Mineral del Monte, San Agustín Tlaxiaca, Santiago Tulantepec, Singuilucan, Tepeapulco, Tlanalapa, Tlanchinol, Tolcayuca, Tulancingo, Villa de Tezontepec y Zempoala; Estado de Jalisco: Atemajac de Brizuela, Atotonilco el Alto, La Barca, Chapala, Ixtlahuacán del Río, Juanacatlán, Ocotlán, Poncitlán, El Salto, San Cristóbal de la Barranca, Tizapán el Alto y Tlajomulco de Zúñiga; Estado de Michoacán: Acuitzio, Alvaro Obregón, Angamacutiro, Charo, Cherán, Chucándiro, Churintzio, Coeneo, Copándaro, Cuitzeo, Ecuandureo, Erongaricuaro, Huandacareo, Huaniqueo, Huiramba, Indaparapeo, Jiménez, José Sixto Verduzco, Lagunillas, Morelos, Nahuatzen, Numaran, Panindícuaro, Pátzcuaro, Penjamillo, La Piedad, Puruándiro, Queréndaro, Quiroga, Salvador Escalante, Santa Ana Maya, Tanhuato, Tarímbaro, Tinganbato, Tzintzuntzan, Yurécuaro, Zacapu, Zináparo y Ziracuaretiro; Estado de Morelos: Axochiapan, Cuautla, Jantetelco, Jiutepec, Jonacatepec, Tepalcingo y Tepoztlán; Estado de Puebla: Aljojuca, Amozoc, Atlixco, Atzitzintla, Calpan, Chalchicomula de Sesma, Chiautzingo, Chichiquila, Chilchotla, Coronango, Cuapiaxtla de Madero, Cuantinchán, Cuautlancingo, Cuyoaco, Domingo Arenas, General Felipe Angeles, Guadalupe Victoria, Huejotzingo, Izúcar de Matamoros, Juan C. Bonilla, Lafragua, Mazapiltepec de Juárez, Nealticán, Ocotepec, Ocoyucan, Oriental, Palmar de Bravo, Puebla, Quecholac, Quimixtlán, San Andrés Cholula, San Felipe Teotlalcingo, San Gregorio Atzompa, San Jerónimo Tecuanipan, San José Chiapa, San Juan Atenco, San Martín Texmelucan, San Matías Tlalancaleca, San Miguel Xoxtla, San Nicolás de Buenos Aires, San Nicolás los Ranchos, San Pedro Cholula, San Salvador el Verde, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco, Tehuacán, Tepanco de López, Tepatlaxco de Hidalgo, Tepeojuma, Tepeyahualco, Tianguismanalco, Tlachichuca, Tlahuapan, Tlaltenango, Xochitlán de Vicente Suárez y Yehualtepec; Estado de San Luis Potosí: Santa María del Río; Estado de Sonora: Cajeme, Hermosillo, Imuris, Navojoa, Puerto Peñasco, San Luis Río Colorado y Santa Ana; Estado de Tabasco: Cárdenas, Centro, Comalcalco, Cunduacán, Huimanguillo, Jalapa, Jalpa de Méndez y Macuspana; Estado de Tlaxcala: Acuamanala de Miguel Hidalgo, Altlzayanca, Calpulalpan, El Carmen Tequexquitla, Chiautempan, Coapiaxtla, Españita, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Manacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Nativitas, Panotla, Papalotla de Xicohténcatl, San Pablo del Monte, Sanctórum de Lázaro Cárdenas, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Tlaxcala, Totolac, Xicotzingo, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos; Estado de Veracruz: Actopan, Agua Dulce, Angel R. Cabada, La Antigua, Catemaco, Hueyapan de Ocampo, Ixhuatlán del Sureste, Jamapa, Mecayapan, Medellín, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Sayula de Alemán, Tuxtlilla y Veracruz.
+Distrito Federal.
 
-ZONA 7. Estado de Chihuahua: Ahumada, Bachiniva, Batopilas, Buenaventura, Cuauhtémoc, Cusihuiriachi, Chinipas, General Trías, Gómez Farías, Gran Morelos, Huachochi, Guadalupe y Calvo, Guazapares, Guerrero, Ignacio Zaragoza, Madera, Maguarichi, Matachi, Morelos, Moris, Namiquipa, Ocampo, Riva Palacio, Temosachi, Urique y Uruachi; Estado de Durango: Canatlán, Durango, Nombre de Dios, Nuevo Ideal y Suchil; Estado de Jalisco: Ayotlán, Degollado, Ixtlahuacan de los Membrillos, Jamay, Jesús María, Jocotepec, La Manzanilla de la Paz, Tototlán, Tuxcueca y Zapotlán del Rey; Estado de México: Almoloya de Alquisiras, Amanalco, Amatepec, Coatepec Harinas, Donato Guerra, Ixtapan de la Sal, Ixtapan del Oro, Joquicingo, Malinalco, Ocuilán, Otzoloapan, San Simón de Guerrero, Santo Tomás de los Plátanos, Sultepec, Tejupilco, Temascaltepec, Tenancingo, Tenango del Valle, Texcaltitlán, Tlatlaya, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Zacazonapan, Zacualpan y Zumpahuacan; Estado de Michoacán: Briseñas, Carácuaro, Cotija, Charapán, Chavinda, Chilchota, Hidalgo, Huetamo, Ixtlán, Jacona, Jiquilpan, Juárez, Jungapeo, Madero, Marcos Castellanos, Morelia, Nocupétaro, Pajacuarán, Paracho, Purépero, Régules, Sahuayo, San Lucas, Susupuato, Tacámbaro, Tangamandapio, Tangancícuaro, Tiquicheo de Nicolás Romero, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzitzio, Venustiano Carranza, Villa-Mar, Vista Hermosa, Zamora y Zitácuaro; Estado de Morelos: excepto los municipios comprendidos en las zonas 2, 4, 5, 6 y 8; Estado de Puebla: excepto los municipios comprendidos en las zonas 6, 8 y 9; Estado de Sinaloa: excepto los municipios comprendidos en la zona 8; Estado de Sonora: Agua Prieta, Alamos, Arivechi, Bacadehuachi, Bacanora, Bacerac, Bacoachi, Bavispe, Cumpas, Divisaderos, Fronteras, Granados, Huachinera, Huasabas, Moctezuma, Naco, Nácori Chico, Nacozari de García, Onavas, Quiriego, Rosario, Sahuaripa, San Javier, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Villa Hidalgo, Villa Pesqueira y Yécora; Estado de Tamaulipas: excepto los municipios comprendidos en las zonas 8 y 9; Estado de Veracruz: Boca del Río; Estado de Zacatecas: Atolinga, Benito Juárez, Chalchihuites, General Joaquín Amaro, Jerez, Jiménez de Teul, Momax, Monte Escobedo, Sustitacan, Tabasco, Tepechitlán, Tepetongo, Teul de González Ortega, Tlaltenango de Sánchez Román, Valparaíso y Villa Nueva.
+Estado de Jalisco: Guadalajara, Tlaquepaque, Tonalá y Zapopan.
 
-ZONA 8. Estado de Campeche: excepto los municipios comprendidos en la zona 9; Estado de Colima: excepto los municipios comprendidos en las zonas 1 y 6; Estado de Durango: Canelas, Otaez, San Dimas, Santiago Papasquiaro, Tamazula y Topia; Estado de Guerrero: Ajuchitlán del Progreso, Arcelia, Atoyac de Alvarez, Benito Juárez, Coahuayutla de José María Izazaga, Coyuca de Benítez, Coyuca de Catalán, Cutzamala de Pinzón, General Canuto A. Neri, José Azueta, Petatlán, Pungarabato, San Miguel Totolapan, Tecpan de Galeana, Tlalchapa, Tlapehuala, La Unión y Zirándaro; Estado de Hidalgo: excepto los municipios comprendidos en las zonas 3, 5 y 6; Estado de Jalisco: excepto los municipios comprendidos en las zonas 1, 2, 6 y 7; Estado de Michoacán: Aguililla, Angangueo, Apatzingán, Aporo, Aquila, Ario, Arteaga, Buenavista, Coahuayana, Coalcomán de Vázquez Pallárez, Contepec, Chinicuila, Churumuco, Epitacio Huerta, Gabriel Zamora, La Huacana, Irimbo, Lázaro Cárdenas, Maravatío, Múgica, Nuevo Urecho, Ocampo, Parácuaro, Nuevo Parangaricutiro, Peribán, Los Reyes, Senguio, Tancítaro, Taretán, Tepalcatepec, Tingüindín, Tlalpujahua, Tocumbo, Tumbiscatio, Uruapan y Zinapécuaro; Estado de Morelos: Coatlán del Río, Jojutla, Mazatepec, Puente de Ixtla, Tetecala, Tlaquiltenango y Zacatepec de Hidalgo; Estado de Puebla: Acateno, Ahuacatlán, Ahuazotepec, Amixtlán, Aquixtla, Atempan, Ayotoxco de Guerrero, Camocuautla, Caxhuacán, Coatepec, Cuautempán, Cuetzalán del Progreso, Chiconcuautla, Chignahuapan, Chignautla, Chila Honey, Francisco Z. Mena, Hermenegildo Galeana, Huauchinango, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilán de Serdán, Ignacio Allende, Ixtacamaxtitlán, Ixtepec, Jolalpan, Jonotla, Jopala, Juan Galindo, Naupan, Nauzontla, Olintla, Pahuatlan, Pantepec, San Felipe Tepatlán, Tenampulco, Tepango de Rodríguez, Tepetzintla, Tetela de Ocampo, Teteles de Avila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tuzamapan de Galeana, Venustiano Carranza, Xicotepec, Xochiapulco, Yaonahuac, Zacapoaxtla, Zacatlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zongozotla y Zoquiapan; Estado de Querétaro: excepto los municipios comprendidos en la zona 5; Estado de Quintana Roo: excepto los municipios comprendidos en la zona 1; Estado de San Luis Potosí: excepto los municipios comprendidos en las zonas 3, 4 y 6; Estado de Sinaloa: Concordia, Escuinapa y El Rosario; Estado de Tamaulipas: Bustamante, Casas, Güemez, Hidalgo, Jaumave, Llera, Miquihuana, Padilla, Palmillas, Soto la Marina, Tula y Victoria; Estado de Tlaxcala: excepto los municipios comprendidos en las zonas 3 y 6; Estado de Yucatán; Estado de Zacatecas: Apozol, Apulco, García de la Cadena, Huanusco, Jalpa, Juchipila, Mezquital del Oro, Moyahua de Estrada y Nochistlán de Mejía.
+Estado de México: Atizapán de Zaragoza, Chalco, Chiconcuac, Chimalhuacán, Coacalco, Cuautitlán, Cuautitlán-Izcalli, Ecatepec, Huixquilucan, Ixtapaluca, Melchor Ocampo, Naucalpan de Juárez, Nezahualcoyotl, Nicolás Romero, La Paz, Tepotzotlán, Texcoco, Tlalnepantla de Baz, Tultitlán y Valle de Chalco Solidaridad.
 
-ZONA 9. Estado de Campeche: Carmen, Escárcega y Palizada; Estado de Chiapas; Estado de Durango: Mezquital y Pueblo Nuevo; Estado de Guerrero: excepto los municipios comprendidos en las zonas 1 y 8; Estado de Nayarit; Estado de Oaxaca; Estado de Puebla: Ajalpan, Altepexi, Caltepec, Coxcatlán, Coyomeapan, Chapulco, Eloxochitlán, Esperanza, Morelos Cañada, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Sebastián Tlacotepec, Santiago Mihuatlán, Tlacotepec de Benito Juárez, Vicente Guerrero, Zapotitlán, Zinacatepec y Zoquitlán; Estado de Tabasco: excepto los municipios comprendidos en la zona 6; Estado de Tamaulipas: Aldama, Altamira, Antiguo Morelos, Ciudad Madero, Gómez Farías, González, Mante, Nuevo Morelos, Ocampo, Tampico y Xicoténcatl; Estado de Veracruz: excepto los municipios comprendidos en las zonas 5, 6 y 7.
+Estado de Quintana Roo: Benito Juárez, Cozumel, Isla Mujeres y Solidaridad.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 2. Estado de Aguascalientes: Aguascalientes.
+
+Estado de Guanajuato: León.
+
+Estado de Guerrero: Acapulco de Juárez.
+
+Estado de Jalisco: Puerto Vallarta.
+
+Estado de México: Acambay, Acolman, Aculco, Almoloya de Juárez, Almoloya del Río, Amecameca, Apaxco, Atenco, Atizapán, Atlacomulco, Atlautla, Axapusco, Ayapango, Calimaya, Capulhuac, Chapa de Mota, Chapultepec, Chiautla, Chicoloapan, Cocotitlán, Coyotepec, Ecatzingo, Huehuetoca, Hueypoxtla, Isidro Fabela, Jalatlaco, Jaltenco, Jilotepec, Jilotzingo, Jocotitlán, Juchitepec, Lerma, Metepec, Mexicaltzingo, Morelos, Nextlalpan, Nopaltepec, Ocoyoacac, El Oro, Otumba, Otzolotepec, Ozumba, Papalotla, Polotitlán, Rayón, San Antonio la Isla, San Felipe del Progreso, San Martín de las Pirámides, San Mateo Atenco, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Temascalcingo, Temoaya, Tenango del Aire, Teoloyucan, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcalyacac, Tezoyuca, Tianguistenco, Timilpan, Tlalmanalco, Toluca, Tultepec, Villa del Carbón, Xonacatlán, Zinacantepec y Zumpango.
+
+Estado de Morelos: Cuernavaca.
+
+Estado de Nuevo León: Abasolo, Agualeguas, Los Aldamas, Allende, Anáhuac, Aramberri, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, China, Ciénega de Flores, Doctor Arroyo, Doctor Coss, Doctor González, Galeana, García, General Bravo, General Terán, General Treviño, General Zaragoza, General Zuazua, Los Herreras, Hidalgo, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Los Ramones, Rayones, Sabinas Hidalgo, Salinas Victoria, Santiago, Vallecillo y Villaldama.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 3. Estado de Aguascalientes: San Francisco de los Romo.
+
+Estado de Chihuahua: Hidalgo del Parral.
+
+Estado de Coahuila: Francisco I. Madero, Matamoros, Nava, Piedras Negras, Ramos Arizpe, Saltillo, San Pedro de las Colonias, Torreón y Viesca.
+
+Estado de Durango: General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, Rodeo, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
+
+Estado de Guanajuato: Doctor Mora.
+
+Estado de Hidalgo: Tizayuca.
+
+Estado de México: Ixtlahuaca y Jiquipilco.
+
+Estado de San Luis Potosí: Ahualulco, Catorce, Cerro de San Pedro, Matehuala, Salinas, Santo Domingo, Villa de Arriaga, Villa de Guadalupe, Villa de Ramos y Villa Juárez.
+
+Estado de Zacatecas: Guadalupe, Morelos, Vetagrande y Zacatecas.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 4. Estado de Aguascalientes: Jesús María.
+
+Estado de Baja California Sur: Los Cabos y Mulegé.
+
+Estado de Chihuahua: Aldama, Bocoyna, Chihuahua y Ojinaga.
+
+Estado de Coahuila: Sabinas y San Juan de Sabinas.
+
+Estado de Guanajuato: Manuel Doblado.
+
+Estado de Morelos: Tlayacapan.
+
+Estado de Nuevo León: Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza y Santa Catarina.
+
+Estado de San Luis Potosí: Cedral, Charcas, Guadalcázar, Mexquitic de Carmona, Moctezuma, San Luis Potosí, Soledad de Graciano Sánchez, Vanegas, Venado, Villa de La Paz, Villa de Reyes, Villa Hidalgo y Zaragoza.
+
+Estado de Sonora: Magdalena.
+
+Estado de Zacatecas: Calera y Loreto.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 5. Estado de Baja California Sur: Comondú y Loreto.
+
+Estado de Chihuahua: Camargo, Jiménez, Juárez, San Francisco del Oro y Saucillo.
+
+Estado de Coahuila: Acuña, Allende, Arteaga, Candela, General Cepeda, Morelos, Parras, Progreso y San Buenaventura.
+
+Estado de Guanajuato: Cortazar, Guanajuato, Irapuato y Silao.
+
+Estado de Hidalgo: Huichapan y Zapotlán de Juárez.
+
+Estado de Morelos: Yautepec.
+
+Estado de Querétaro: Colón, Corregidora, Ezequiel Montes, Huimilpan, El Marqués, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan.
+
+Estado de Sonora: Aconchi, Altar, Arizpe, Atil, Bácum, Banámichi, Baviácora, Benjamin Hill, Caborca, Cananea, Carbó, La Colorada, Cucurpe, Empalme, Etchojoa, General Plutarco Elías Calles, Guaymas, Mazatán, Nogales, Opodepe, Oquitoa, Pitiquito, Rayón, San Felipe de Jesús, San Miguel de Horcasitas, Santa Cruz, Sáric, Trincheras, Tubutama y Ures.
+
+Estado de Veracruz: Coatzacoalcos, Cosoleacaque y Minatitlán.
+
+Estado de Zacatecas: Cañitas de Felipe Pescador, Concepción del Oro, Cuauhtémoc, Fresnillo, Genaro Codina, General Enrique Estrada, General Francisco Murguía, General Pánfilo Natera, Juan Aldama, Luis Moya, Mazapil, Melchor Ocampo, Miguel Auza, Noria de Angeles, Ojocaliente, Pánuco, Pinos, Río Grande, Saín Alto, El Salvador, Sombrerete, Villa de Cos, Villa García, Villa González Ortega y Villa Hidalgo.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 6. Estado de Aguascalientes: Asientos, Calvillo, Cosío, El Llano, Pabellón de Arteaga, Rincón de Romos y Tepezalá.
+
+Estado de Baja California: Mexicali.
+
+Estado de Chihuahua: Allende, Aquiles Serdán, Ascensión, Balleza, Carichi, Casas Grandes, Coronado, Coyame, La Cruz, Delicias, Doctor Belisario Domínguez, Galeana, Guadalupe, Huejotitán, Janos, Julimes, López, Manuel Benavides, Matamoros, Meoqui, Nonoava, Nuevo Casas Grandes, Praxedis G. Guerrero, Rosales, Rosario, San Francisco de Borja, San Francisco de Conchos, Santa Bárbara, Satevó, El Tule y Valle de Zaragoza.
+
+Estado de Coahuila: Abasolo, Castaños, Cuatrociénegas, Escobedo, Frontera, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Monclova, Muzquiz, Nadadores, Ocampo, Sacramento, Sierra Mojada, Villa Unión y Zaragoza.
+
+Estado de Colima: Colima, Comala, Coquimatlán, Cuauhtémoc, Minatitlán y Villa de Alvarez.
+
+Estado de Durango: Coneto de Comonfort, Cuencamé, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Ocampo, El Oro, Pánuco de Coronado, Peñón Blanco, Poanas, San Bernardo, San Juan del Río, Santa Clara, Tepehuanes y Vicente Guerrero.
+
+Estado de Guanajuato: Abasolo, Acámbaro, Allende, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cuerámaro, Dolores Hidalgo, Huanímaro, Jaral del Progreso, Jerécuaro, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria.
+
+Estado de Hidalgo: Acatlán, Almoloya, Apan, Cuautepec de Hinojosa, Emiliano Zapata, Epazoyucan, Pachuca de Soto, Metepec, Mineral del Chico, Mineral del Monte, Mineral de la Reforma, San Agustín Tlaxiaca, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tepeapulco, Tlanalapa, Tlanchinol, Tolcayuca, Tulancingo de Bravo, Villa de Tezontepec y Zempoala.
+
+Estado de Jalisco: Atemajac de Brizuela, Atotonilco el Alto, La Barca, Chapala, Ixtlahuacán del Río, Juanacatlán, Ocotlán, Poncitlán, El Salto, San Cristóbal de la Barranca, Tizapán el Alto y Tlajomulco de Zúñiga.
+
+Estado de Michoacán: Acuitzio, Alvaro Obregón, Angamacutiro, Charo, Cherán, Chucándiro, Churintzio, Coeneo, Copándaro, Cuitzeo, Ecuandureo, Erongarícuaro, Huandacareo, Huaniqueo, Huiramba, Indaparapeo, Jiménez, José Sixto Verduzco, Lagunillas, Morelos, Nahuatzen, Numarán, Panindícuaro, Pátzcuaro, Penjamillo, La Piedad, Puruándiro, Queréndaro, Quiroga, Salvador Escalante, Santa Ana Maya, Tanhuato, Tarímbaro, Tinganbato, Tzintzuntzan, Yurécuaro, Zacapu, Zináparo y Ziracuaretiro.
+
+Estado de Morelos: Axochiapan, Cuautla, Jantetelco, Jiutepec, Jonacatepec, Tepalcingo y Tepoztlán.
+
+Estado de Puebla: Aljojuca, Amozoc, Atlixco, Atzitzintla, Calpan, Chalchicomula de Sesma, Chiautzingo, Chichiquila, Chilchotla, Coronango, Cuapiaxtla de Madero, Cuantinchán, Cuautlancingo, Cuyoaco, Domingo Arenas, General Felipe Angeles, Guadalupe Victoria, Huejotzingo, Izúcar de Matamoros, Juan C. Bonilla, Lafragua, Mazapiltepec de Juárez, Nealtican, Ocotepec, Ocoyucan, Oriental, Palmar de Bravo, Puebla, Quecholac, Quimixtlán, San Andrés Cholula, San Felipe Teotlalcingo, San Gregorio Atzompa, San Jerónimo Tecuanipan, San José Chiapa, San Juan Atenco, San Martín Texmelucan, San Matías Tlalancaleca, San Miguel Xoxtla, San Nicolás de Buenos Aires, San Nicolás de los Ranchos, San Pedro Cholula, San Salvador el Verde, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco, Tehuacán, Tepanco de López, Tepatlaxco de Hidalgo, Tepeojuma, Tepeyahualco, Tianguismanalco, Tlachichuca, Tlahuapan, Tlaltenango, Xochitlán de Vicente Suárez y Yehualtepec.
+
+Estado de San Luis Potosí: Santa María del Río.
+
+Estado de Sonora: Cajeme, Hermosillo, Huatabampo, Huépac, Imuris, Navojoa, Puerto Peñasco, San Luis Río Colorado y Santa Ana.
+
+Estado de Tabasco: Cárdenas, Centro, Comalcalco, Cunduacán, Huimanguillo, Jalapa, Jalpa de Méndez y Macuspana.
+
+Estado de Tlaxcala: Acuamanala de Miguel Hidalgo, Altzayanca, Benito Juárez, Calpulalpan, El Carmen Tequexquitla, Emiliano Zapata, Chiautempan, Cuapiaxtla, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Natívitas, Panotla, Papalotla de Xicohténcatl, San Damián Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San Juan Huactzinco, San Lorenzo Axocomanitla, Sanctórum de Lázaro Cárdenas, San Pablo del Monte, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Tlaxcala, Totolac, Xicohtzinco, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
+
+Estado de Veracruz: Actopan, Agua Dulce, Angel R. Cabada, La Antigua, Catemaco, Hueyapan de Ocampo, Ixhuatlán del Sureste, Jamapa, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Sayula de Alemán, Tuxtilla y Veracruz.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 7. Estado de Chihuahua: Ahumada, Bachíniva, Batopilas, Buenaventura, Cuauhtémoc, Cusihuiriáchi, Chínipas, General Trias, Gómez Farías, Gran Morelos, Guachochi, Guadalupe y Calvo, Guazapares, Guerrero, Ignacio Zaragoza, Madera, Maguarichi, Matachi, Morelos, Moris, Namiquipa, Ocampo, Riva Palacio, Temósachi, Urique y Uruáchi.
+
+Estado de Durango: Canatlán, Durango, Nombre de Dios, Nuevo Ideal y Súchil.
+
+Estado de Jalisco: Ayotlán, Degollado, Ixtlahuacán de los Membrillos, Jamay, Jesús María, Jocotepec, La Manzanilla de la Paz, Tototlán, Tuxcueca y Zapotlán del Rey.
+
+Estado de México: Almoloya de Alquisiras, Amanalco, Amatepec, Coatepec Harinas, Donato Guerra, Ixtapan de la Sal, Ixtapan del Oro, Joquicingo, Malinalco, Ocuilan, Otzoloapan, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascaltepec, Tenancingo, Tenango del Valle, Texcaltitlán, Tlatlaya, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Zacazonapan, Zacualpan y Zumpahuacán.
+
+Estado de Michoacán: Briseñas, Carácuaro, Cojumatlán de Régules, Cotija, Charapan, Chavinda, Chilchota, Hidalgo, Huetamo, Ixtlán, Jacona, Jiquilpan, Juárez, Jungapeo, Madero, Marcos Castellanos, Morelia, Nocupétaro, Pajacuarán, Paracho, Purépero, Sahuayo, San Lucas, Susupuato, Tacámbaro, Tangamandapio, Tangancícuaro, Tiquicheo de Nicolás Romero, Tlazazalca, Turicato, Tuxpan, Tuzantla, Tzitzio, Venustiano Carranza, Villamar, Vista Hermosa, Zamora y Zitácuaro.
+
+Estado de Morelos: excepto los municipios comprendidos en las zonas 2, 4, 5, 6 y 8.
+
+Estado de Puebla: excepto los municipios comprendidos en las zonas 6, 8 y 9.
+
+Estado de San Luis Potosí: El Naranjo.
+
+Estado de Sinaloa: excepto los municipios comprendidos en la zona 8.
+
+Estado de Sonora: Agua Prieta, Álamos, Arivechi, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bavispe, Cumpas, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Moctezuma, Naco, Nácori Chico, Nacozari de García, Onavas, Quiriego, Rosario, Sahuaripa, San Javier, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Villa Hidalgo, Villa Pesqueira y Yécora.
+
+Estado de Tamaulipas: excepto los municipios comprendidos en las zonas 8 y 9.
+
+Estado de Veracruz: Boca del Río, Mecayapan y Medellín.
+
+Estado de Zacatecas: Atolinga, Benito Juárez, Chalchihuites, General Joaquín Amaro, Jerez, Jiménez de Téul, Momax, Monte Escobedo, Sustitacán, Tabasco, Tepechitlán, Tepetongo, Téul de González Ortega, Tlaltenango de Sánchez Román, Valparaíso y Villanueva.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 8. Estado de Campeche: excepto los municipios comprendidos en la zona 9.
+
+Estado de Colima: excepto los municipios comprendidos en las zonas 1 y 6.
+
+Estado de Durango: Canelas, Otáez, San Dimas, Santiago Papasquiaro, Tamazula y Topia.
+
+Estado de Guerrero: Ajuchitlán del Progreso, Arcelia, Atoyac de Alvarez, Benito Juárez, Coahuayutla de José María Izazaga, Coyuca de Benítez, Coyuca de Catalán, Cutzamala de Pinzón, General Canuto A. Neri, José Azueta, Petatlán, Pungarabato, San Miguel Totolapan, Tecpan de Galeana, Tlalchapa, Tlapehuala, La Unión de Isidro Montes de Oca y Zirándaro.
+
+Estado de Hidalgo: excepto los municipios comprendidos en las zonas 3, 5 y 6.
+
+Estado de Jalisco: excepto los municipios comprendidos en las zonas 1, 2, 6 y 7.
+
+Estado de Michoacán: Aguililla, Angangueo, Apatzingán, Aporo, Aquila, Ario, Arteaga, Buenavista, Coahuayana, Coalcomán de Vázquez Pallarez, Contepec, Chinicuila, Churumuco, Epitacio Huerta, Gabriel Zamora, La Huacana, Irimbo, Lázaro Cárdenas, Maravatío, Múgica, Nuevo Urecho, Ocampo, Parácuaro, Nuevo Parangaricutiro, Peribán, Los Reyes, Senguio, Tancítaro, Taretán, Tepalcatepec, Tinguindín, Tlalpujahua, Tocumbo, Tumbiscatío, Uruapan y Zinapécuaro.
+
+Estado de Morelos: Coatlán del Río, Jojutla, Mazatepec, Puente de Ixtla, Tetecala, Tlaquiltenango y Zacatepec.
+
+Estado de Puebla: Acateno, Ahuacatlán, Ahuazotepec, Amixtlán, Aquixtla, Atempan, Ayotoxco de Guerrero, Camocuautla, Caxhuacan, Coatepec, Cuautempan, Cuetzalan del Progreso, Chiconcuautla, Chignahuapan, Chignautla, Chila, Francisco Z. Mena, Hermenegildo Galeana, Honey, Huauchinango, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ignacio Allende, Ixtacamaxtitlán, Ixtepec, Jolalpan, Jonotla, Jopala, Juan Galindo, Naupan, Nauzontla, Olintla, Pahuatlán, Pantepec, San Felipe Tepatlán, Tenampulco, Tepango de Rodríguez, Tepetzintla, Tetela de Ocampo, Teteles de Avila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tuzamapan de Galeana, Venustiano Carranza, Xicotepec, Xochiapulco, Yaonáhuac, Zacapoaxtla, Zacatlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zongozotla y Zoquiapan.
+
+Estado de Querétaro: excepto los municipios comprendidos en la zona 5.
+
+Estado de Quintana Roo: excepto los municipios comprendidos en la zona 1.
+
+Estado de San Luis Potosí: excepto los municipios comprendidos en las zonas 3, 4, 6 y 7.
+
+Estado de Sinaloa: Concordia, Escuinapa y El Rosario.
+
+Estado de Tamaulipas: Bustamante, Casas, Güémez, Hidalgo, Jaumave, Llera, Miquihuana, Padilla, Palmillas, Soto la Marina, Tula y Victoria.
+
+Estado de Tlaxcala: excepto los municipios comprendidos en la zona 6.
+
+Estado de Yucatán.
+
+Estado de Zacatecas: Apozol, Apulco, Huanusco, Jalpa, Juchipila, Mezquital del Oro, Moyahua de Estrada, Nochistlán de Mejía y Trinidad García de la Cadena.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+ZONA 9. Estado de Campeche: Carmen, Escárcega y Palizada.
+
+Estado de Chiapas.
+
+Estado de Durango: Mezquital y Pueblo Nuevo.
+
+Estado de Guerrero: excepto los municipios comprendidos en las zonas 2 y 8.
+
+Estado de Nayarit.
+
+Estado de Oaxaca.
+
+Estado de Puebla: Ajalpan, Altepexi, Caltepec, Cañada Morelos, Coxcatlán, Coyomeapan, Chapulco, Eloxochitlán, Esperanza, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Sebastián Tlacotepec, Santiago Miahuatlán, Tlacotepec de Benito Juárez, Vicente Guerrero, Zapotitlán, Zinacatepec y Zoquitlán.
+
+Estado de Tabasco: excepto los municipios comprendidos en la zona 6.
+
+Estado de Tamaulipas: Aldama, Altamira, Antiguo Morelos, Ciudad Madero, Gómez Farías, González, El Mante, Nuevo Morelos, Ocampo, Tampico y Xicoténcatl.
+
+Estado de Veracruz: excepto los municipios comprendidos en las zonas 5, 6 y 7.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de municipios que no se encuentren dentro de las zonas de disponibilidad 1 a 9, el pago del derecho sobre agua se efectuará de conformidad con la cuota establecida para el municipio más próximo al lugar de la extracción.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -8847,6 +8511,10 @@ Tratándose del uso o goce de bienes de uso común, se estará obligado al pago 
 
 En aquellos casos en que las entidades federativas y municipios hayan celebrado convenio de colaboración administrativa en materia fiscal con la Secretaría de Hacienda y Crédito Público, los ingresos que se obtengan por el cobro de los derechos por el uso, goce o aprovechamiento de los inmuebles ubicados en la zona federal marítimo-terrestre, podrán destinarlos cuando así lo convengan expresamente con ésta, a la vigilancia, administración, mantenimiento, preservación y limpieza de la zona federal marítimo-terrestre, así como a la prestación de los servicios que requiera la misma.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+La Federación, las entidades federativas y los municipios que hayan convenido en dar el destino a los ingresos obtenidos conforme a lo señalado en el párrafo anterior, también podrán convenir en crear fondos para cumplir con los fines señalados en el mismo párrafo. La aportación a dichos fondos, se hará por la entidad federativa, por el municipio o, cuando así lo acordaren, por ambos, en un equivalente a dos veces el monto aportado por la Federación. En ningún caso, la aportación de la Federación excederá del porcentaje que le corresponda como participación derivada del convenio de colaboración administrativa en materia fiscal federal y sólo se efectuará respecto de los ingresos que provengan de derechos efectivamente pagados y que hayan quedado firmes.
+
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 No se pagará el derecho a que se refiere este artículo cuando el inmueble sea destinado a labores de investigación científica.
@@ -8864,6 +8532,20 @@ No pagarán el derecho a que se refiere este artículo, las asociaciones y socie
 ###### ARTICULO 232-A.
 
 Las personas físicas y las morales, titulares de concesiones o permiso para el uso, goce o explotación de bienes del dominio público que queden afectos a servicios públicos distintos a los señalados en el artículo anterior, así como los permisionarios de servicios portuarios a que se refiere el artículo 37 de la Ley de Puertos, pagarán el derecho de uso, goce o explotación que ascenderá al 5% de los ingresos brutos que obtengan por esos conceptos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 232-B.
+
+Por el uso, goce o aprovechamiento de los bienes del dominio público a que se refiere la Ley Reglamentaria del Servicio Ferroviario y de aquellos que queden afectos a la prestación de los servicios públicos y a los servicios auxiliares previstos en dicho ordenamiento, se pagarán derechos conforme a lo siguiente:
+
+I.- Del primero al décimo quinto año de vigencia de la concesión, anualmente, el monto equivalente al 0.5% del total de ingresos brutos que obtengan por esos conceptos.
+
+II.- Del décimo sexto año en adelante, se pagará anualmente un monto equivalente al 1.25% del total de ingresos brutos que obtengan por esos conceptos.
+
+Los derechos a que se refiere este artículo se enterarán mediante pagos definitivos bimestrales dentro de los primeros diez días naturales de los meses de marzo, mayo, julio, septiembre, noviembre del mismo ejercicio fiscal y enero del siguiente.
+
+Los bienes a que se refiere este artículo en ningún caso serán objeto de los derechos establecidos en los artículos 232 y 232-A.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -8923,6 +8605,10 @@ La Secretaría de Hacienda y Crédito Público en coordinación con la Comisión
 
 El derecho se pagará mensualmente por anticipado, considerando el volumen de material que se tenga programado extraer durante ese periodo conforme al título de concesión, mediante declaración que presentarán en las oficinas de la Comisión Nacional del Agua o en las que autorice la Secretaría de Hacienda y Crédito Público.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+No se pagará el derecho a que se refiere este artículo cuando el material se extraiga por actividades de desazolve, siempre que dicho material no sea usado o aprovechado.
+
 ###### ARTICULO 236-A.
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
@@ -8977,6 +8663,8 @@ Los distritos de riego y unidades de riego y de drenaje a los que se les hubiere
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
+#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+
 ###### ARTICULO 238.
 
 Por la caza o captura de animales silvestres, se pagará el derecho de caza deportiva, conforme a las siguientes cuotas:
@@ -8987,13 +8675,13 @@ I.- Borrego cimarrón........... $ 600,000.00
 
 II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Venado bura en Sonora o cola blanca texano............ 20,000.00
+III.- Venado bura en Sonora o cola blanca texano. .............. $ 600.00
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Venado bura en el resto del país............. 18,000.00
+IV.- Venado bura en el resto del país............... $ 450.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -9091,6 +8779,8 @@ No se estará obligado al pago del derecho a que se refiere este artículo y el 
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
+#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+
 ### CAPITULO XIV. Derecho por Uso o Aprovechamiento de Bienes del Dominio Publico de la Nación como Cuerpos receptores de las descargas de Aguas Residuales
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
@@ -9126,8 +8816,6 @@ II.- Por equipo repetidor N$ 842.00
 III.- Por equipo terminal móvil o portátil, se pagará por cada equipo N$ 100.00
 
 Se pagará el 50% del derecho a que se refiere esta fracción por cada equipo adicional a los primeros 20.
-
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -9172,6 +8860,10 @@ b).- Para equipos que operen en banda ancha $ 20,000.00
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 IX.- Para el servicio privado móvil de radiocomunicación especializada de flotillas (trunking) se pagará por cada frecuencia sin importar el número de bases, móviles y repetidores $ 2,500.00
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Las instituciones de asistencia médica o de beneficencia no contribuyentes del impuesto sobre la renta autorizadas para recibir donativos deducibles para sus donantes en el citado impuesto, siempre que acrediten dichas circunstancias, pagarán el 10% del monto de la cuota del derecho que corresponda.
 
 ###### ARTICULO 241.
 
@@ -9249,13 +8941,17 @@ I.- Para el servicio de radiotelefonía celular, por cada frecuencia en uso y po
 
 II.- Para el servicio de radiotelefonía móvil, convencional, por cada frecuencia asignada y por sistema............. $ 1,272.97
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Por los servicios de radiolocalización, móvil de personas, móvil de radiocomunicación especializada de flotillas, portadora común convencional y troncal, radiolocalización de vehículos, radiodeterminación, por cada frecuencia asignada y por sistema............. $ 1,273.35
+III.- Por los servicios de radiolocalización, móvil de personas, radiolocalización de vehículos, radiolocalización móvil marítimo y radiodeterminación, se pagará el derecho por frecuencia asignada y por sistema............... $ 1,847.00
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
 
-IV.- Para el servicio de radiocomunicación móvil aeronáutico, por cada frecuencia y por estación base.................. N$ 120.00
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IV.- En servicios móvil especializado de flotillas y de portadora común, se pagará el derecho por frecuencia y por sistema.............. $ 200.00
+
+Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
 
 ###### ARTICULO 244-B.
 
@@ -9279,15 +8975,15 @@ La cuota total por cada enlace será el resultado de aplicar en forma acumulada 
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 245-B.
 
-Para sistemas o redes de enlaces de multiacceso entre estaciones terminales a través de una o más estaciones base con o sin repetidor se pagará anualmente el derecho por el servicio públicos o privados, se pagará anualmente, el derecho por el uso del espectro radioeléctrico, conforme a las siguientes cuotas:
+Para sistemas o redes de enlaces entre estaciones terminales a través de una o más estaciones base con o sin repetidor, para servicios públicos o privados, se pagará anualmente, el derecho por el uso del espectro radioeléctrico, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Para telefonía rural:
+I.- Por telefonía rural comunal:
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -9297,6 +8993,10 @@ a).- Por cada estación base o repetidor.................. N$ 200.00
 
 b).- Por estación terminal.................. N$ 75.00
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de los servicios de telefonía rural proporcionados por los gobiernos estatales permisionados por la Secretaría de Comunicaciones y Transportes, no se pagará el derecho a que se refiere este artículo.
+
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 II.- Para servicios de voz o datos:
@@ -9305,7 +9005,9 @@ II.- Para servicios de voz o datos:
 
 a).- Por cada estación base, nodo y cada repetidor se pagará por cada frecuencia... N$ 1,026.00
 
-b).- Por estación terminal............ $ 250,000.00.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+b).- Por estación terminal se pagará por cada frecuencia.............. $ 967.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9337,41 +9039,13 @@ II.- Por cada canal telefónico............. $ 1'000,000.00
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
 ###### ARTICULO 250.
 
-Para los efectos del artículo 243 de esta Ley, el factor en función del tipo de estación, se determinará conforme a lo siguiente:
-
-Tipo de estación Factor de
-
-Radiodifusión
-
-Modulación de amplitud (AM) 20
-
-Modulación de frecuencia (FM) 60
-
-Televisión 300
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 251.
 
-Para los efectos del artículo 243 de esta Ley, los factores de las características de emisión, se determinarán conforme a lo siguiente:
-
-Características 535 a 1605 54 a 890
-
-de la Emisión kilohertz megahertz
-
-10KOA3EGN 1.25
-
-200KF3EGN 1.85
-
-200KF3EHN 1.85
-
-5M75C3FMN, 250KF3EGN 2.09
-
-5M75C3FNN, 250KF3EGN 2.09
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 252.
 
@@ -9389,13 +9063,11 @@ I.- Cuando la Secretaría de Comunicaciones y Transportes o los usuarios conside
 
 II.- Las cuotas son aplicables a los concesionarios que presten servicios al público en materia de telecomunicaciones, cuando las frecuencias o canales radioeléctricos no sean empleados, directamente por el público usuario mediante la operación de transmisores, receptores o transreceptores individuales, por considerarse su empleo en dichos casos un elemento exclusivo del concesionario.
 
-Lo dispuesto en este artículo no es aplicable a los derechos establecidos en los artículos 243 al 243-D de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 253-A.
 
-Para los efectos de la determinación de los derechos a que se refiere el artículo 243 de esta Ley, el resultado obtenido de la aplicación de los mecanismos que en el mismo se señalan se multiplicará por 2.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 253-B.
 
@@ -9446,6 +9118,22 @@ Para los efectos de la determinación de los derechos a que se refiere el artíc
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+### Capítulo XIV del Título II,. de la Ley
+
+Federal de Derechos
+
+Descargas cuya concentración 30 de junio 1o. de enero
+
+de contaminantes de metales de 1997 del 2000
+
+pesados o cianuros rebasen
+
+los límites máximos
+
+permisibles señalados en la
+
+tabla I del Capítulo XIV del
 
 ###### ARTICULO 262.
 
@@ -9547,257 +9235,337 @@ Están obligados a pagar el derecho por uso o aprovechamiento de bienes del domi
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 277.
+###### ARTICULO 277.
 
-Para los efectos de la presente Ley se consideran:
+Para los efectos del presente Capítulo se consideran:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Aguas residuales: Los líquidos de composición variada provenientes de los usos domésticos, incluyendo fraccionamientos; agropecuarios; industrial; comercial; de servicio o de cualquier otro uso.
+I.- Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos municipales, industriales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general de cualquier otro uso, así como la mezcla de ellas.
 
 Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-II.- Demanda química de oxígeno: Medida de control de la calidad del agua, que corresponde a la cantidad de oxígeno necesaria para oxidar la materia presente en el agua por medio de un oxidante fuerte en medio ácido, que conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, antes de la descarga a un cuerpo receptor, debe ajustarse a los máximos permisibles contenidos en las normas técnicas ecológicas y condiciones particulares de descarga fijadas por la autoridad competente, y que se miden conforme a las normas oficiales expedidas por la misma.
+II.- Carga de Contaminantes: Cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales;
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III.- Sólidos suspendidos totales: Medida de control de calidad del agua, que corresponde al contenido de partículas orgánicas o inorgánicas suspendidas en el agua, que conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, antes de la descarga a un cuerpo receptor, deben ajustarse a los máximos permisibles contenidos en las normas técnicas ecológicas y condiciones particulares de descarga fijadas por la autoridad competente, y que se miden conforme a las normas oficiales expedidas por la misma.
+III.- Cianuros: Suma de las concentraciones de todas las formas químicas simples y complejas que contengan el ion cianuro;
 
-IV.- Descarga: la acción de verter aguas residuales a un cuerpo receptor, cuando dicho cuerpo es un bien del dominio público de la Nación.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+IV.- Coliformes Fecales: Bacterias aerobias Gram-negativas, no formadoras de esporas, de forma bacilar, y que incubadas a 44.5ºC en un término de 48 horas, fermentan la lactosa con producción de gas, pudiendo ser residentes del tracto digestivo humano y de animales de sangre caliente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+V.- Cuerpo Receptor: Corrientes, depósitos naturales de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo o los acuíferos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VI.- Demanda Bioquímica de Oxígeno Total: Cantidad de oxígeno consumido por la actividad metabólica de microorganismos, en un período de cinco días, a 20ºC, considerando la suma de las concentraciones solubles y en suspensión;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VII.- Descarga: Acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita, cuando éste es un bien del dominio público de la Nación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Fósforo Total: Suma de las concentraciones de fosfatos, ortofosfatos, polifosfatos, fósforo inorgánico y fosfatos orgánicos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IX.- Grasas y Aceites: Cualquier material que puede ser recuperado como una sustancia soluble, en los siguientes solventes: n-hexano, triclorotrifluoroetano o una mezcla de 80% de n-hexano y 20% de metilterbutileter;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+X.- Indice de Incumplimiento: Cantidad de veces que la concentración de cada contaminante en las descargas de aguas residuales vertidas, rebasa los límites máximos permisibles establecidos en esta Ley, la cual se obtiene de la diferencia entre la concentración de contaminantes de las descargas de aguas residuales y la concentración establecida como límite máximo permisible en esta Ley y dividida entre esta última;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XI.- Límite Máximo Permisible: Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XII.- Metales Pesados: Suma de las concentraciones de los metales en solución o disueltos y en suspensión;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIII.- Nitrógeno Total: Suma de las concentraciones de nitrógeno Kjeldahl, nitritos y nitratos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIV.- Población: Corresponde al número de habitantes indicado en el último Censo General de Población y Vivienda;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XV.- Potencial Hidrógeno (pH): Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez o alcalinidad del agua;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XVI.- Tipos de contaminantes:
+
+a).- Contaminantes Básicos: Son aquellos compuestos y parámetros que se presentan en las descargas de aguas residuales y que pueden ser removidos o estabilizados mediante tratamientos convencionales. En lo que corresponde a esta Ley sólo se consideran las grasas y aceites, los sólidos suspendidos totales, la demanda bioquímica de oxígeno total, el nitrógeno total (suma de las concentraciones de nitrógeno Kjeldahl, de nitritos y de nitratos, expresadas como mg./litro de nitrógeno), el fósforo total y el pH;
+
+b).- Contaminantes Patógenos y parasitarios: Son aquellos microorganismos, quistes y huevos de parásitos que pueden estar presentes en las aguas residuales y que representan un riesgo para la salud humana, flora o fauna. En lo que corresponde a esta Ley sólo se consideran los coliformes fecales;
+
+c).- Metales pesados y cianuros: Son aquellos que en concentraciones por encima de determinados límites, pueden producir efectos negativos en la salud humana, flora o fauna. En lo que corresponde a esta Ley se consideran el arsénico, el cadmio, el cobre, el cromo, el mercurio, el níquel, el plomo, el zinc y los cianuros;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Uso Consuntivo: Volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 278.
 
-Por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, se pagará el derecho conforme a los tipos de cuerpos receptores a que se refiere el artículo 278-A de esta Ley, una vez hecha la medición de los contaminantes del agua en los términos del artículo 281 de esta Ley, aplicando por cada kilogramo de contaminante presente en la descarga que se efectúe, las siguientes cuotas a la base que se indica:
+Por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, se causará el derecho de acuerdo con el tipo del cuerpo receptor en donde se realice la descarga, conforme al volumen de agua descargada y los contaminantes vertidos, en lo que rebasen los límites máximos permisibles previstos en la presente Ley.
 
-I.- Si la concentración de contaminante es mayor a 150 miligramos por litro:
+Los usuarios pueden optar por cumplir con los límites máximos permisibles establecidos en esta Ley o en sus condiciones particulares de descarga, previa notificación a la Comisión Nacional del Agua.
 
-a).- Tipo A y B............. $ 5.80
+Si el usuario opta por no rebasar los valores fijados en sus condiciones particulares de descarga, y rebasa cualquiera de dichos valores, deberá efectuar el cálculo del derecho por cada uno de los contaminantes que rebasen los límites máximos permisibles, establecidos en este Capítulo.
 
-b).- Tipo C............. $ 12.00
-
-II.- Si la concentración de contaminante es menor o igual a 150 miligramos por litro y mayor a 75 miligramos por litro:
-
-a).- Tipo A. El resultado de multiplicar $ 0.07293 por la concentración de contaminante, menos $ 5.14
-
-b).- Tipo B............. $ 5.80
-
-c).- Tipo C............. $ 12.00
-
-III.- Si la concentración de contaminante es menor o igual a 75 miligramos por litro, y mayor a 30 miligramos por litro:
-
-a).- Tipo A............. $ 0.33
-
-b).- Tipo B. El resultado de multiplicar $ 0.1142 por la concentración de contaminante, menos $ 2.76
-
-c).- Tipo C............. $ 12.00
-
-IV.- Si la concentración de contaminante es menor o igual a 30 miligramos por litro:
-
-a).- Tipo A............. $ 0.33
-
-b).- Tipo B............. $ 0.66
-
-c).- Tipo C. La cantidad que resulte mayor entre $ 1.66 y el resultado de multiplicar $ 0.517 por la concentración de contaminante, menos $ 3.51. En las descargas efectuadas desde plataformas marinas se aplicarán las cuotas establecidas para los cuerpos receptores tipo “A”.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 278-A.
 
-Los cuerpos de propiedad nacional, receptores de las descargas de aguas residuales, se considerarán como tipo “A”, a excepción hecha de los que a continuación se señalan:
+Los cuerpos de propiedad nacional, receptores de las descargas de aguas residuales, se considerarán como tipo "A", excepto los que a continuación se señalan:
 
-Cuerpos Receptores Tipo “B”
+Cuerpos Receptores Tipo "B":
 
-Aguascalientes: Río San Pedro en el municipio de Aguascalientes; Presas La Codorniz, Peña Blanca y Río Malpaso en el municipio de Calvillo; Presa El Jocoque en el municipio de San José de Gracia; Río Pabellón en el municipio de Pabellón de Arteaga; Presa San Blas y Río Pabellón en el municipio de Rincón de Romos.
+Aguascalientes: Río San Pedro en el municipio de Aguascalientes; Presas La Codorniz, Peña Blanca y Media Luna, Río Malpaso en el municipio de Calvillo; Presa El Jocoqui en el municipio de San José de Gracia; Río Pabellón en los municipios de Pabellón de Arteaga y Rincón de Romos; Presas San Blas y El Saucillo, Arroyo Las Burras en el municipio de Rincón de Romos; Río Santiago en el municipio de Pabellón de Arteaga; Río Morcinique en los municipios de Jesús María y Aguascalientes; Arroyos Las Víboras, La Escondida, Salto de Montoro (Las Venas), La Pileta (Peñuelas), La Chavena y Presa El Niágara en el municipio de Aguascalientes; Presa Los Arquitos en el municipio de Jesús María.
 
-Baja California: Arroyos El Gallo, Cuatro Milpas, San Carlos, Presa Emilio López Zamora, Bahías de Todos los Santos, Camalú, de San Quintín, Rosario, Santa Rosalía, Blanco, de San Felipe-Punta Estrella, de San Francisquito, de Guadalupe, de los Angeles, de San Rafael y Costa en el municipio de Ensenada; Arroyo Las Palmas, Río Alamar y Presa El Carrizo en el municipio de Tecate; Arroyos Las Palmas, Huahuatay, San Antonio de los Buenos, Ríos Tijuana y Alamar, Presa Abelardo L. Rodríguez y Costa en el municipio de Tijuana; Río Colorado, Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali.
+Baja California: Arroyos El Gallo, Cuatro Milpas, San Carlos, Bahías de Todos los Santos, Camalú, de San Quintín, Rosario, Santa Rosalía, Blanco, de San Felipe-Punta Estrella, de San Francisquito, de Guadalupe, de Los Angeles y de San Rafael en el municipio de Ensenada; Arroyo Las Palmas en el municipio de Tecate; Arroyos Las Palmas, Huahuatay, San Antonio de los Buenos, Río Tijuana, Arroyo Alamar y Costa en el municipio de Tijuana; Río Colorado, Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali.
 
-Baja California Sur: Bahías Plutarco Elías Calles, Nigriño, de San Lucas, San José del Cabo, La Fortuna, Los Frailes, Cabo Falso y Estero de San José en el municipio de Los Cabos; Bahías Concepción y Santa María en el municipio de Comondú; Laguna Ojo de Liebre, Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés y Santa Ana en el municipio de Mulegé; Bahías San Juanico, Magdalena, Las Almejas, Santa Marina, Plutarco Elías Calles, Nigriño, Las Palmas, Los Muertos, La Ventana y La Paz, Puertos San Andresito, Adolfo López Mateos, Boca El Carrizal y Punta Lobos, en el municipio de La Paz; Bahías Plutarco Elías Calles, Nigriño, de San Lucas, San José del Cabo, La Fortuna, Los Frailes, Cabo Falso y Estero de San José en el municipio de Los Cabos.
+Baja California Sur: Bahías Plutarco Elías Calles, Migriño y Santa María en el municipio de Comondú; Laguna Ojo de Liebre, Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés y Santa Ana en el municipio de Mulegé; Bahías San Juanico, Santa Marina y Plutarco Elías Calles, Puertos San Andresito, Boca El Carrizal y Punta Lobos, en el municipio de La Paz; Arroyo San Ignacio en el municipio de Mulegé; Arroyos San José de Gracia, La Purísima, San Isidoro, Paso Hondo y Comondú en el municipio de Comondú; Arroyos Boca de la Sierra, Miraflores, San Bartolo, Caduaño, y San Jorge en el municipio de Los Cabos; Arroyo Agua Caliente en el municipio de La Paz; arroyos San José de Magdalena y Santa Agueda en el municipio de Loreto.
 
-Campeche: Laguna de Términos, Bahía de Campeche, Ríos Manantel y Chumpán en el municipio de Carmen; Río Palizada, Lagunas de Corte y de Pon en el municipio Palizada; Bahía de Campeche, Río Champotón y Laguna de Silvituc en el municipio Champotón; Bahía de Campeche en el municipio de Campeche; Río Manantel en el municipio de Escárcega.
+Campeche: Río Champotón y Laguna de Silvituc en el municipio de Champotón; Río Palizada en el municipio de Palizada; Río Mamantel en los municipios de El Carmen y Escárcega; Laguna de Términos y Sistema Lagunar Adyacente en los municipios de El Carmen y Palizada; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Champotón y Campeche.
 
-Coahuila: Arroyo Las Vacas y Río Bravo en el municipio de Acuña; Río Bravo en los municipios de Allende e Hidalgo; Arroyo Patos en el municipio de Arteaga; Río Candela en los municipios de Candela y Monclova; Río Salado de Nadadores y Arroyo Patos en los municipios de Castaños y Cuatrociénegas; Río Salado de Nadadores en los municipios de Frontera, Lamadrid, Sacramento y Nadadores; Arroyo Patos en el municipio de General Zepeda; Ríos Sabinas y Bravo en los municipios de Guerrero, Múzquiz y Villa Unión; Ríos San Diego, San Rodrigo, Bravo y Arroyo Las Vacas en el municipio de Jiménez; Río Sabinas en los municipios de Juárez y San Juan Sabinas; Río Escondido en el municipio de Morelos; Ríos Escondido y Bravo en el municipio de Nava; Río Bravo, Arroyos Nochebuena y Piedritas en el municipio de Ocampo; Arroyo Patos en los municipios de Parras de la Fuente, Saltillo y Ramos Arizpe; Ríos San Rodrigo, Escondido y Bravo en el municipio de Piedras Negras; Ríos Sabinas y Salado de Nadadores en los municipios de Sabinas y San Buenaventura; Ríos Sabinas, San Diego, San Rodrigo y Escondido en el municipio de Zaragoza.
+Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Ríos San Diego y San Rodrigo en los municipios de Zaragoza y Jiménez; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en el municipio de Zaragoza y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Zaragoza y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas y Juárez; Río Salado de los Nadadores en los municipios de Nadadores, San Buenaventura, Escobedo, Progreso y Juárez; Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova; Presas San Miguel, Centenario y La Fragua en el municipio de Jiménez; Presas Nochebuena y Piedritas en el municipio de Ocampo; Presa el Tulillo en el municipio de Ramos Arizpe.
 
-Colima: Laguna de Coyutlán en el municipio de Manzanillo; Río Armería en los municipios de Comala, Colima, Coquimatlán y Armería; Río San Palmar en los municipios de Colima y Villa de Alvarez; Río Zacualpan en el municipio de Comala.
+Colima: Laguna de Cuyutlán, Arroyos San José y Punta de Agua en el municipio de Manzanillo; Arroyo Zacualpan en el municipio de Comala; Estero de Chupadero, Lagunas de Amela y Alcuzahue en el municipio de Tecomán.
 
-Chiapas: Río Grijalva en los municipios Berriozábal, La Concordia, Tzimol, Venustiano Carranza, Socoltenango y Acalá; Ríos Santo Domingo y Grijalva en el municipio de Chiapa de Corzo; Laguna de Catazaja en el municipio Catazaja; Lagos de Montebello en el municipio de La Trinitaria; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domingo en los municipios de Villa Corzo, Villaflores y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Mar Muerto y Laguna La Joya-Buenavista en el municipio de Tonalá; Lagunas Carretas Pereyras y Los Patos-Sólo Dios en el municipio de Pijijiapan; Laguna Chantuto-Panzacola en los municipios de Mapastepec, Acapetagua, Villa Comaltitlán y Escuintla; Humedal Hueyate en el municipio de Huixtla; Mar Muerto en el municipio de Arriaga.
+Chiapas: Río Grijalva en los municipios de Berriozábal y Chiapa de Corzo; Laguna de Catasajá en el municipio de Catasajá; Lagos de Montebello en el municipio de La Trinitaria; Río Frío en los municipios de San Cristóbal de Las Casas, San Lucas y Chiapilla; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domigo en los municipios de Villa Corzo, Villaflores, Chiapa de Corzo y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Humedal Hueyate en el municipio de Huixtla; Mar Muerto en los municipios de Arriaga y Tonalá; Laguna La Joya-Buenavista en el municipio de Tonalá; Lagunas Carretas-Pereira y Los Patos-Sólo Dios en el municipio de Pijijiapan; Laguna Chantuto-Panzacola en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán y Escuintla; Acuífero Cintalapa en los municipios de Cintalapa y Jiquipilas; Acuífero Tuxtla en los municipios de Tuxtla Gutiérrez, Chiapa de Corzo, Suchiapa, Berriozábal y Acala; Acuífero Comitán en los municipios de Comitán de Domínguez, Las Margaritas, La Independencia, Altamirano y Teopisca; Acuífero San Cristóbal en los municipios de San Cristóbal de Las Casas e Ixtapa; Acuífero Arriaga-Pijijiapan en los municipios de Arriaga, Tonalá y Pijijiapan; Acuífero Acapetahua en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán, Acacoyagua y Escuintla; Acuífero Soconusco en los municipios de Tapachula, Suchiate, Metapa, Tuxtla Chico, Mazatán, Huixtla y Frontera Hidalgo.
 
-Chihuahua: Ríos Chuvíscar y Conchos en los municipios de Aquiles Serdán y Aldama; Ríos Conchos y San Miguel en el municipio de Balleza; Río Casas Grandes en los municipios de Ascención, Casas Grandes, Galeana, Gómez Farías, Ignacio Zaragoza, Janos y Nuevo Casas Grandes; Río Santa María en el municipio de Bachiniva; Ríos San Miguel y Urique en el municipio de Batopilas; Ríos Conchos, Papagochic y Chinipas en el municipio Bocoyna; Río del Carmen en el municipio de Buenaventura; Ríos Florido, Parral y Conchos en el municipio de Camargo; Ríos Papagochic, Conchos y Laguna de los Mexicanos en los municipios de Carichi y La Cruz; Ríos Papagochic, del Carmen, Santa María y Laguna de Bustillos en el municipio de Cuauhtémoc; Ríos Papagochic, San Pedro y Laguna de Bustillos en el municipio de Cusihuiriachi; Ríos Chuvíscar, Conchos, del Carmen, San Pedro y Presa las Lajas en el municipio de Chihuahua; Ríos Mayo y Chinipas en el municipio de Chinipas; Río San Pedro en los municipios de Delicias, Dr. Belisario Domínguez, General Trías, Gran Morelos y San Francisco Borja; Ríos Urique, San Miguel y Conchos en el municipio de Guachochi; Río Bravo en los municipios de Guadalupe, Juárez, Manuel Benavides, Ojinaga y Praxedis G. Guerrero; Ríos Sinaloa, Humaya y San Miguel en el municipio de Guadalupe y Calvo; Río Chinipas en los municipios de Guazapares y Maguarichi; Río Papagochic, Lagunas Bustillos y de los Mexicanos en el municipio de Guerrero; Ríos Parral y Conchos en el municipio de Hidalgo del Parral; Río Conchos en los municipios de Coyame, Huejotitan, Julimes, Rosarito, El Tule, Valle de Zaragoza, San Francisco de Conchos y San Francisco del Oro; Ríos Florido y Parral en los municipios de Jiménez y López; Ríos Papagochic y Casas Grandes en el municipio de Madera; Río Papagochic en los municipios de Matachi y Temosachi; Río Florido en el municipio de Matamoros; Ríos Conchos y San Pedro en los municipios de Meoqui, Rosales Satero y Saucillo; Río San Miguel en el municipio de Morelos; Ríos Papagochic, Moris y Mayo en el municipio de Moris; Ríos Papagochic, del Carmen, Santa María y Casas Grandes en el municipio de Namiquipa; Ríos Papagochic, Mayo y Chinipas en el municipio de Ocampo; Ríos San Pedro, Chuvíscar y del Carmen en el municipio de Riva Palacio; Río Parral en el municipio de Santa Bárbara; Río Urique en el municipio de Urique.
+Chihuahua: Río Conchos en el municipio de Balleza, Carichi y Guachochi; Río Casas Grandes en el municipio de Ignacio Zaragoza; Río Santa María en el municipio de Bachíniva; Río Papagochic en el municipio de Carichi; Río San Pedro en el municipio de Cusihuiriáchi; Río Mayo en el municipio de Chínipas; Río Chínipas en los municipios de Chínipas, Guazapares y Carichi; Río Urique, en los municipios de Batopilas, Guachochi y Urique; Río San Miguel en los municipios de Balleza, Batopilas, Guachochi y Morelos, Ríos Sinaloa, Mohinora y Chinatu en el municipio de Guadalupe y Calvo; Río Septentrión en los municipios de Chínipas y Guazapares; Ríos Moris y Candamena en el municipio de Ocampo.
 
-Distrito Federal: Río Magdalena Delegación Magdalena Contreras.
+Distrito Federal: Río Magdalena en la Delegación La Magdalena Contreras.
 
-Durango: Ríos Sauceda y Nazas en el municipio de Canatlán; Ríos Tamazula y San Lorenzo en el municipio de Canelas; Río Nazas en los municipios de Cuencamé, Guadalupe Victoria, Gómez Palacio, Inde, Lerdo, Nazas, El Oro, Pánuco de Coronado, Peñón Blanco, Rodeo, San Juan del Río, San Luis de Cordero, San Pedro del Gallo y Coneto de Comonfort; Ríos Aguanaval, Piaxtla, Presidio, Acaponeta, La Sauceda, El Tunal, Santiago, Durango y Nazas en el municipio Durango; Río Aguanaval en el municipio General Simón Bolívar; Ríos Humaya y Nazas en los municipios de Guanaceví y Tepehuanes; Ríos Florido, A. Cerro Gordo en el municipio de Hidalgo; Río Florido en el municipio Inde; Ríos El Arroyo, El Derrame y Nazas en el municipio de Mapimí; Ríos Mezquital y Santiago en el municipio del Mezquital; Ríos Durango, Suchil y Mezquital en el municipio de Nombre de Dios; Laguna de Santiaguillo en el municipio de Nuevo Ideal; Ríos Florido y Nazas en el municipio de Villa Ocampo; Río Poanas en el municipio Poanas; Ríos Presidio, Baluarte, Acaponeta en el municipio de Pueblo Nuevo; Ríos Florido y Nazas en el municipio de San Bernardo; Ríos Verde, Piaxtla, Presidio, Habitas y Nazas en el municipio de San Dimas; Río Aguanaval en los municipios de San Juan de Guadalupe y Santa Clara; Ríos Lorenzo, Nazas y Laguna de Santiago en el municipio de Santiago Papasquiaro; Ríos Graseros y Santiago en el municipio de Suchil; Ríos Humaya, Tamazula, San Lorenzo y Habitas en el municipio de Tamazula; Ríos Nazas y San Lorenzo en el municipio de Tlahualillo; Ríos Humaya y Tamazula en el municipio de Topia; Ríos Suchil y Graseros en el municipio de Vicente Guerrero.
+Durango: Río Sauceda en los municipios de Durango y Canatlán; Río Nazas en los municipios de Durango, Canatlán, Cuencamé, Guadalupe Victoria, Indé, El Oro, Pánuco de Coronado, Peñón Blanco, San Juan del Río, Coneto de Comonfort, Guanaseví, Tepehuanes, Ocampo, San Bernardo, San Dimas y Santiago Papasquiaro; Río Tamazula en los municipios de Canelas, Tamazula y Topia; Río San Lorenzo en los municipios de Santiago Papasquiaro, Tamazula y Canelas; Río Aguanaval en los municipios de Santa Clara, Cuencamé y Poanas; Río Piaxtla en los municipios de Durango y San Dimas; Río Presidio en los municipios de Durango, Pueblo Nuevo y San Dimas; Río El Tunal en los municipios de Durango y Mezquital; Río Santiago en los municipios de Durango y Mezquital; Río Durango en los municipios de Durango y Nombre de Dios; Río Acaponeta en los municipios de Durango y Pueblo Nuevo; Río Humaya en los municipios de Guanaseví, Tepehuanes, Tamazula, Canelas y Topia; Río Florido en los municipios de Hidalgo, Indé, Ocampo y San Bernardo; Arroyo Cerro Gordo en el municipio de Hidalgo; Río Mezquital en los municipios de Mezquital y Nombre de Dios; Río Súchil en los municipios de Nombre de Dios y Vicente Guerrero; Laguna de Santiaguillo en los municipios de Nuevo Ideal y Santiago Papasquiaro; Río Poanas en el municipio de Poanas; Río Valuarte en el municipio de Pueblo Nuevo; Río Verde en el municipio de San Dimas; Río Habitas en los municipos de San Dimas y Tamazula; Río Graseros en los municipios de Súchil y Vicente Guerrero; Presa Villa Hidalgo en el municipio de Hidalgo.
 
-Estado de México: Río Amanalco en el municipio de Amanalco.
+Estado de México: Río Amanalco en el municipio de Amanalco; Presa Huapango en los municipios de Timilpan y Aculco; Presas El Molino y la Cofradía en el municipio de Aculco; Presa Ñado en los municipios de Acambay y Aculco; Presa Ignacio Ramírez en el municipio de Almoloya de Juárez; Presa Tepetitlán en el municipio de San Felipe del Progreso; Presa Danxho en los municipios de Jilotepec y Chapa de Mota.
 
-Guanajuato: Lago Cuitzeo en el municipio de Acámbaro; Laguna de Yuriria en los municipios de Yuriria y Valle de Santiago; Presa Quiahuyo en el municipio de Moroleón; Ríos La Patiña, Ibarrilla, El Tigre y Los Catillos en el municipio de León; Río La Purísima, Presas La Gavia y El Conejo en el municipio de Irapuato; Presa El Rodeo en el municipio de Guanajuato; Presa Chichimequillas en el municipio de Silao; Presa Ignacio Allende en el municipio de Allende; Río Lagos en el municipio de Ocampo; Río Lerma en los municipios de Acámbaro, Salvatierra, Salamanca, Irapuato, Abasolo y Pénjamo; Río Laja en los municipios de Comonfort, Celaya y Salamanca; Río Guanajuato en los municipios de Guanajuato, Irapuato y Silao; Río Temascatio en el municipio de Salamanca; Ríos Los Ocotes y Pénjamo en el municipio de Pénjamo; Río Turbio en los municipios de León, San Francisco del Rincón, Purísima del Rincón, Manuel Doblado, Cuerámaro, Abasolo y Pénjamo; Río Silao en los municipios de Silao e Irapuato; Río Apaseo-Querétaro en los municipios de Apaseo el Grande y Celaya.
+Guanajuato: Lago Cuitzeo en el municipio de Acámbaro; Laguna de Yuriria en los municipios de Yuriria y Valle de Santiago; Presa Quiahuyo en el municipio de Moroleón; Arroyos La Patiña, El Calvillo y Los Castillos en el municipio de León; Arroyos Santa Ana y Llano Largo en el municipio de Guanajuato; Presas La Gavia y El Conejo en el municipio de Irapuato; Presa El Rodeo en el municipio de Guanajuato; Presa Chichimequillas en el municipio de Silao; Presa Ignacio Allende en el municipio de Allende.
 
-Guerrero: Ríos Cofradía, Pantla, Ixtapa y San Antonio en el municipio de La Unión; Río La Unión en los municipios de La Unión y Coahuayutla de José Ma. Izazaga; Lagunas Potosí, Valentín, Ríos San Jeronimito, Petatlán y Coyuquilla en el municipio de Petatlán; Ríos San Luis y Tecpan, Lagunas Nuxco y El Plan en el municipio de Tecpan de Galeana; Laguna El Tular en los municipios de Benito Juárez y Tecpan de Galeana; Río Atoyac y Laguna H. Cabañas en el municipio de Atoyac de Alvarez; Laguna Mitla en los municipios de Benito Juárez y Atoyac de Alvarez; Río Coyuca en el municipio de Coyuca de Benítez; Ríos La Sabana y Papagayo en el municipio de Acapulco de Juárez; Río San Miguel en el municipio de Chilpancingo de los Bravo; Río Omitlán en el municipio de Juan R. Escudero; Ríos Cortés, La Estancia y Laguna Tecomate en el municipio de San Marcos; Ríos Nexpa, Sauces, Tecoanapa y Presa Revolución Mexicana, en los municipios Tecoanapa, Ayutla de los Libres y Florencio Villarreal; Río Tlaquiltenango en el municipio de Florencio Villarreal; Río Ayutla en el municipio de Ayutla de los Libres; Laguna Chautengo en los municipios de Florencio Villarreal y Copala; Río Copala en el municipio de Copala; Ríos Concordia y Yautepec en el municipio de Cuautepec; Ríos Marquelia y Chico en los municipios de Copala y San Luis Acatlán; Río Juchitán en el municipio de Ajuchitlán del Progreso; Río Ometepec en el municipio de Cuajinicuilapa; Río Quetzala en los municipios de Azoyu e Igualapa; Río Santa Catarina en el municipio de Ometepec; Río Cortijos en el municipio de Cuajinicuilapa; Río Balsas en los municipios de Copalillo, Olinalá, Atenango del Río, Huitzuco de los Figueroa, Eduardo Neri, Cuetzala del Progreso, Mártir de Cuilapan, Apaxtla, Teloloapan, Arcelia, San Miguel Totolapan, Tlapehuala, Ajuchitlán del Progreso, Pungarabato, Zirándaro y La Unión; Río Tlapaneco en los municipios de Tlapa de Comonfort y Xalpatláhuac; Río Amacuzac en los municipios de Atenango del Río y Copalillo; Río Pachumecuo en los municipios de Copalillo y Ahuacuotzingo; Río Tletanapa en los municipios de Zitlala y Chilapa de Alvarez; Río Apango en el municipio de Mártir de Cuilapan; Río Tepecoacuilco en el municipio de Tepecoacuilco de Trujano; Río Huacapa en los municipios de Eduardo Neri y Leonardo Bravo; Laguna de Tuxpan en el municipio de Iguala de la Independencia; Río Cocula en los municipios de Cocula e Iguala de la Independencia; Río Huahuepan en el municipio de Iguala de la Independencia; Río Los Sabinos en los municipios de Cocula e Ixcateopan de Cuauhtémoc; Río Cuetzala en los municipios de Cocula y Cuetzala del Progreso; Río Coatepec en el municipio de Eduardo Neri; Río Oxtotitlán en los municipios de Apaxtla, Cuetzala del Progreso y San Miguel Totolapan; Ríos Tetela y Las Truchas en el municipio de General Heliodoro Castillo; Río Pescapa en el municipio de Arcelia; Ríos Poliutla y Santo Niño en los municipios de Tlalchapa y Tlapehuala; Ríos San Pedro y Tlalchapa en el municipio de Tlalchapa; Río Arcelia en el municipio de Arcelia; Ríos Ajuchitlán, Amuco y Esperanza, Presa Andrés Figueroa en el municipio de Ajuchitlán del Progreso; Río Minero en el municipio de San Miguel Totolapan; Ríos Cuirio, El Oro, Frío, El Chivo, La Calera y Tarétaro en el municipio de Coyuca de Catalán; Ríos Cutzamala, Ixtapan, Palmar Grande y Hermenegildo Galeana en el municipio de Cutzamala de Pinzón.
+Guerrero: Ríos Cofradía, Ixtapa y San Antonio en el municipio de La Unión de Isidoro Montes de Oca; Río La Unión en los municipios de Ayutla de los Libres, La Unión de Isidoro Montes de Oca y Tecoanapa; Lagunas Potosí, Valentín, Ríos San Jeronimito, Petatlán y Coyuquilla en el municipio de Petatlán; Ríos San Luis y Tecpan, Lagunas Nuxco y El Plan en el municipio de Tecpan de Galeana; Laguna El Tular en los municipios de Benito Juárez y Tecpan de Galeana; Río Atoyac y Laguna H. Cabañas en el municipio de Atoyac de Alvarez; Laguna Mitla en los municipios de Benito Juárez y Atoyac de Alvarez; Río Coyuca en el municipio de Coyuca de Benítez; Ríos La Sabana y Papagayo en el municipio de Acapulco de Juárez; Río San Miguel en los municipios de Chilpancingo de los Bravo y Cuajinicuilapa; Río Omitlán en el municipio de Juan R. Escudero; Ríos Cortés, La Estancia y Laguna Tecomate en el municipio de San Marcos; Ríos Nexpa, Sauces, Tecoanapa y Presa Revolución Mexicana en los municipios de Tecoanapa, Ayutla de los Libres y Florencio Villarreal; Río Tlaquiltenango en el municipio de Florencio Villarreal; Río Ayutla en el municipio de Ayutla de los Libres; Laguna Chautengo en los municipios de Florencio Villarreal y Copala; Río Copala en el municipio de Copala; Ríos Concordia y Yautepec en el municipio de Cuautepec; Ríos Marquelia y Chico en los municipios de Copala y San Luis Acatlán; Río Ometepec en el municipio de Cuajinicuilapa; Río Quetzala en los municipios de Azoyú e Igualapa; Río Santa Catarina en el municipio de Ometepec; Río Cortijos en el municipio de Cuajinicuilapa; Río Balsas en los municipios de Copalillo, Olinalá, Atenango del Río, Huitzuco de los Figueroa, Eduardo Neri, Cuetzala del Progreso, Mártir de Cuilapan, Apaxtla, Teloloapan, Arcelia, San Miguel Totolapan, Tlapehuala, Ajuchitlán del Progreso, Pungarabato, Zirandaro y La Unión de Isidoro Montes de Oca; Río Tlapaneco en los municipios de Tlapa de Comonfort y Xalpatláhuac; Río Amacuzac en los municipios de Atenango del Río y Copalillo; Río Pachumecuo en los municipios de Copalillo y Ahuacuotzingo; Río Tletanapa en los municipios de Zitlala y Chilapa de Alvarez; Río Apango en el municipio de Mártir de Cuilapan; Arroyo Tepecoacuilco en el municipio de Tepecoacuilco de Trujano; Río Huacapa en los municipios de Eduardo Neri y Leonardo Bravo; Laguna de Tuxpan en el municipio de Iguala de la Independencia; Río Cocula en los municipios de Cocula e Iguala de la Independencia; Río Huahuepan en el municipio de Iguala de la Independencia; Río Los Sabinos en los municipios de Cocula e Ixcateopan de Cuauhtémoc; Río Cuetzala en los municipios de Cocula y Cuetzala del Progreso; Río Coatepec en el municipio de Eduardo Neri; Río Oxtotitlán en los municipios de Apaxtla, Cuetzala del Progreso y San Miguel Totolapan; Ríos Tetela y Las Truchas en el municipio de General Heliodoro Castillo; Río Pescapa en el municipio de Arcelia; Ríos Poliutla y Santo Niño en los municipios de Tlalchapa y Tlapehuala; Ríos San Pedro y Tlalchapa en el municipio de Tlalchapa; Río Arcelia en el municipio de Arcelia; Ríos Ajuchitlán, Amuco y Esperanza, Presa Andrés Figueroa en el municipio de Ajuchitlán del Progreso; Río Minero en el municipio de San Miguel Totolapan; Ríos Cuirio, El Oro, Frío, El Chivo, La Calera y Tarétaro en el municipio de Coyuca de Catalán; Ríos Cutzamala, Ixtapan, Palmar Grande y Hermenegildo Galeana en el municipio de Cutzamala de Pinzón; Presa Huitzuco y Arroyo Atofula en el municipio de Huitzuco de los Figueroa; Laguna de Tixtla, Presa Juan Catalán y Arroyos El Molino y Jaltipán en el municipio de Tixtla de Guerrero; Río Cañón del Zopilote en los municipios de Eduardo Neri y Leonardo Bravo; Río Iguala en el municipio de Iguala de la Independencia; Presa El Caracol en el municipio de Apaxtla; Presa Vicente Guerrero en el municipio de Arcelia; Presa Hermenegildo Galeana en el municipio de Cutzamala de Pinzón; Río Coyol en el municipio de Coyuca de Catalán; Presa La Calera en el municipio de Tirándaro; Presas Infiernillo, José María Morelos y La Villita en el municipio de La Unión de Isidoro Montes de Oca; Presa La Venta en el municipio de Acapulco de Juárez; Río Azul en el municipio de Quechultenango; Río Huayapan en el municipio de Juan R. Escudero; Esteros Las Salinas y El Draguito en el municipio de Copala; Esteros Verde y El Icaco en el municipio de San Marcos; Río Puente en el municipio de Cuajinicuilapa; Río San Cristóbal en los municipios de La Unión de Isidoro Montes de Oca y Coahuayutla de José María Izazaga; Bahías Ixtapa y Zihuatanejo en el municipio de Teniente José Azueta; Estero Valentín, Arroyos Mameya y El Florido en el municipio de Petatlán; Arroyos Magueyes, Frío y Río Chiquito en los municipios de Tecpan de Galeana y Arroyo de Álvarez; Laguna El Tular en el municipio de Benito Juárez y Tecpan de Galeana; Ríos Piloncillo y El Grande, Presa Derivadora J.M. Álvarez en el municipio de Atoyac de Álvarez; Arroyo Las Pintadas, Ríos Santiago y Aguas Blancas en el municipio de Coyuca de Benítez; Laguna de Coyuca en el municipio de Coyuca de Álvarez y Acapulco de Juárez; Bahía de Acapulco y Arroyos Aguas Blancas, Camarón, Magallanes, La Garita, Costa Azul e Icacos, Bahía Puerto Marqués, Laguna Negra de Puerto Marqués y Laguna de Tres Palos en el municipio de Acapulco de Juárez.
 
 Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes.
 
-Jalisco: Presa Basilio Vadillo en el municipio de El Limón; Río San Miguel en los municipios de Ayutla y El Limón; Presa Tacotán en los municipios de Ayutla y Unión de Tula; Río Ayutla en los municipios de Atengo, Ayutla y Unión de Tula; Río Tomatlán, Presa Cajón de Peña y Lago Agua Dulce en el municipio de Tomatlán; Laguna Colorada en el municipio Antonio Escobedo; Presa La Vega en el municipio de Teuchitlán; Río Salado en los municipios de Tala y Teuchitlán; Río Ameca en los municipios de Teuchitlán y Ameca; Río Arenal en los municipios de Zapopan, El Arenal y Amatitán; Lago Villa Corona en los municipios de Villa Corona y Zacoalco de Torres; Lago Zacoalco y Presa San Marcos en el municipio de Zacoalco de Torres; Lago Sayula en los municipios de Zacoalco de Torres, Teocuitatlán de Corona, Amacueca, Atoyac y Sayula; Lago Zapotlán en los municipios de Ciudad Guzmán y Gómez Farías; Ríos Teocuitatlán y Citala en el municipio de Teocuitatlán de Corona; Río Yahualica en el municipio de Yahualica de González Gallo; Río Bolaños en los municipios de Mezquitic, Villa Guerrero, Bolaños, Chimaltitán y San Martín de Bolaños; Río Teocaltiche en los municipios de Teocaltiche y Villa Hidalgo; Río Lerma en los municipios de Degollado, Ayotlán, La Barca y Jamay; Río Huascato en los municipios de Jesús María, Degollado y Ayotlán; Río Agua Blanca en los municipios de Jesús María y Ayotlán; Río Colorado y Paso Blanco en el municipio de La Barca; Río Santa Rita en los municipios La Barca y Ayotlán; Río El Caracol en el municipio de Ayotlán; Río Ayo en los municipios de Ayotlán y Jesús María; Río San Marcos en los municipios de Chapala e Ixtlahuacán de los Membrillos; Río La Pasión en los municipios de Tizapán el Alto, La Manzanilla de la Paz y Mazamitla; Río Santiago (Chapala-Atequiza) en los municipios de Ocotlán, Poncitlán, Zapotlán del Rey, Juanacatlán e Ixtlahuacán de los Membrillos; Río La Yesca en los municipios de San Cristóbal de la Barranca, Amatitán, Tequila y Hostotipaquillo; Presa La Joya en el municipio de Zapotlanejo; Lago Cajititlán en el municipio de Tlajomulco de Zúñiga; Río Calderón en los municipios de Zapotlanejo y Acatic; Río Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Cañadas de Obregón, Valle de Guadalupe, Cuquio, Tepatitlán de Morelos y Acatic; Río Valle de Guadalupe en el municipio de Valle de Guadalupe.
+Jalisco: Presa Basilio Vadillo en los municipios de El Limón y Ejutla; Río San Miguel en el municipio de Ejutla; Presa Tacotán en los municipios de Ayutla y Unión de Tula; Río Ayutla en los municipios de Atengo, Ayutla y Unión de Tula; Río Tomatlán, Presa Cajón de Peña, Estero El Ermitaño y Lago Agua Dulce en el municipio de Tomatlán; Laguna Colorada en el municipio de Antonio Escobedo; Presa La Vega en el municipio de Teuchitlán; Río Salado en los municipios de Tala y Teuchitlán; Río Ameca en los municipios de Teuchitlán y Ameca; Río Arenal en los municipios de Zapopan, Arenal y Amatitán; Lago Villa Corona en los municipios de Villa Corona y Zacoalco de Torres; Lago Zacoalco y Presa San Marcos en el municipio de Zacoalco de Torres; Laguna de Sayula en los municipios de Zacoalco de Torres, Teocuitatlán de Corona, Amacueca, Atoyac y Sayula; Laguna Zapotlán en los municipios de Ciudad Guzmán y Gómez Farías; Ríos Teocuitatlán y Citala en el municipio de Teocuitatlán de Corona; Río Yahualica en el municipio de Yahualica de González Gallo; Río Bolaños en los municipios de Mezquitic, Villa Guerrero, Bolaños, Chimaltitán y San Martín de Bolaños; Río Teocaltiche en los municipios de Teocaltiche y Villa Hidalgo; Río Lerma en los municipios de Degollado, Ayotlán, La Barca y Jamay; Río Huascato en los municipios de Jesús María, Degollado y Ayotlán; Río Agua Blanca en los municipios de Jesús María y Ayotlán; Río Colorado y Paso Blanco en el municipio de La Barca; Río Santa Rita en los municipios de La Barca y Ayotlán; Río El Caracol en el municipio de Ayotlán; Río Ayo en los municipios de Ayotlán y Jesús María; Río San Marcos en los municipios de Chapala e Ixtlahuacán de los Membrillos; Río La Pasión en los municipios de Tizapán el Alto, La Manzanilla de la Paz y Mazamitla; Río Santiago en los municipios de San Cristóbal de la Barranca, Amatitán, Tequila y Hostotipaquillo; Presa La Joya en el municipio de Zapotlanejo; Laguna de Cajititlán en el municipio de Tlajomulco de Zuñiga; Río Calderón en los municipios de Zapotlanejo y Acatic; Río Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Cañadas de Obregón, Valle de Guadalupe, Cuquio, Tepatitlán de Morelos y Acatic; Río Valle de Guadalupe en el municipio de Valle de Guadalupe.
 
-Michoacán: Río Nexpa en los municipios de Aguililla, Coalcomán de Vázquez Pallares y Lázaro Cárdenas; Río Acapilcan en los municipios de Artega y Lázaro Cárdenas; Río Coalcomán en los municipios de Coalcomán de Vázquez Pallares, Chinicuila y Aquila; Río Coahuayana en los municipios de Chinicuila y Coahuayana; Río Chilchota en los municipios de Chilchota y Tangancícuaro; Río Cupatitzio en los municipios de Nuevo Parangaricutiro, Uruapan, Gabriel Zamora y Múgica; Río Tuxpan en los municipios de Hidalgo, Tuxpan y Jungapeo; Río Zitácuaro en los municipios de Zitácuaro, Juárez, Tuzantla, Tiquicheo de Nicolás Romero y San Lucas; Río Tepalcatepec en los municipios de Tepalcatepec, Buenavista, Apatzingán, Múgica y La Huacana; Río Balsas en los municipios de Churumuco, Arteaga y Lázaro Cárdenas; Río La Parota en los municipios de Tingambato, Ziracuaretiro, Taretan, Nuevo Urecho y La Huacana; Río Angulo en los municipios de Zacapu, Panindícuaro, Angamacutiro, Penjamillo y Jiménez; Río Duero en los municipios de Charapan, Tangancícuaro, Gabriel Zamora, Ixtlán, Vista Hermosa y Briseñas; Río Lerma en los municipios de José Sixto Verduzco, Angamacutiro, Penjamillo, Numarán, La Piedad, Yurécuaro, Tanhuato, Vista Hermosa y Briseñas; Río Grande de Morelia en los municipios de Morelia, Charo y Alvaro Obregón; Río Queréndaro en los municipios de Queréndaro, Hidalgo y Tzitzio; Laguna de Pátzcuaro en los municipios de Pátzcuaro, Quiroga, Erongaricuaro y Tzintzuntzan.
+Michoacán: Río Nexpa en los municipios de Aguililla, Coalcomán de Vázquez Pallares y Lázaro Cárdenas; Río Acalpican en los municipios de Arteaga y Lázaro Cárdenas; Río Coalcomán en los municipios de Coalcomán, Chinicuila y Aquila; Río Coahuayana en los municipios de Chinicuila y Coahuayana; Río Chilchota en los municipios de Chilchota y Tangancícuaro; Río Cupatitzio en los municipios de Uruapan y Gabriel Zamora; Río Tuxpan en los municipios de Hidalgo, Tuxpan y Jungapeo; Río Zitácuaro en los municipios de Zitácuaro, Juárez, Tuzantla, Tiquicheo de Nicolás Romero y San Lucas; Río Tepalcatepec en los municipios de Tepalcatepec, Buenavista, Mújica y La Huacana; Río Balsas en los municipios de Churumuco, Arteaga y Lázaro Cárdenas; Río La Parota en los municipios de Tingambato, Ziracuaretiro, Taretán, Nuevo Urecho y La Huacana; Río Duero en los municipios de Vista Hermosa y Briseñas; Río Lerma en los municipios de José Sixto Verduzco, Angamacutiro, Penjamillo, Numarán, La Piedad, Yurécuaro, Tanhuato, Vista Hermosa y Briseñas; Río Queréndaro en los municipios de Queréndaro, Hidalgo y Tzitzio; Lago de Pátzcuaro en los municipios de Pátzcuaro, Quiroga, Erongarícuaro y Tzintzuntzan; Lago de Cuitzeo en los municipios de Huandacareo, Chucándiro, Copándaro, Tarímbaro, Álvaro Obregón, Queréndaro, Zinapécuaro y Santa Ana Maya; Río Tlazazalca en el municipio de Tlazazalca; Río Camécuaro en el municipio de Tangancícuaro; Río Chiquito en el municipio de Morelia; Río Grande de Morelia en el municipio de Morelia.
 
-Laguna de Cuitzeo en los municipios de Huandacareo, Chucándiro, Copándaro, Tarímbaro, Alvaro Obregón, Queréndaro, Zinapécuaro y Santa Ana Maya; Río Tlazazalca en los municipios de Tlazazalca y Tangancícuaro; Río Camicuaro en los municipios de Los Reyes y Tangancícuaro.
+Morelos: Lago Tequesquitengo en los municipios de Puente de Ixtla y Jojutla; Río Apatlaco en su parte alta en los municipios de Huitzilac, Cuernavaca y Temixco.
 
-Nayarit: Río Acaponeta en los municipios de Huajicori y Tecuala; Río San Pedro en los municipios de Huajicori, Ruiz y Tuxpan; Río Santiago en los municipios de Santiago Ixcuintla y San Blas; Río Mololoa en el municipio de Xalisco; Río Ahuacatlán en el municipio de Ahuacatlán; Río Ameca y Bahía de Banderas en el municipio de Bahía de Banderas; Laguna de Santa María del Oro en el municipio de Santa María del Oro; Bahía de Matanchen en el municipio de San Blas; Ensenada del Toro en el municipio de Compostela.
+Nayarit: Río Acaponeta en los municipios de Huajicori y Acaponeta; Río San Pedro en los municipios de El Nayar y Ruiz; Río Santiago en los municipios de La Yesca, Iztlán del Río, Santa María del Oro, El Nayar y Tepic; Laguna de San Pedro Lagunillas del municipio de San Pedro Lagunillas; Laguna de Santa María del Oro en el municipio de Santa María del Oro; Bahía de Matanchén en el municipio de San Blas; Ensenada del Toro en el municipio de Compostela.
 
-Nuevo León: Presa Agualeguas municipio de Agualeguas; Río Pesquería en los municipios de Los Aldamas, García, Melchor Ocampo, Monterrey, Los Herreras, Pesquería y General Escobedo; Río San Juan en los municipios de Allende, Cadereyta Jiménez, Doctor Coss, Guadalupe, Monterrey, Garza García, Santa Catarina y Rayones; Ríos Salado, Bravo y Laguna Salinillas en el municipio de Anáhuac; Río Salado en el municipio de Paras; Río Pesquería y Presa Nogalito en el municipio de Cerralvo; Río Pesquería y Arroyo San Lorenzo en el municipio de China; Ríos San Juan, Pablillo y Potosí en el municipio de Galena; Arroyo San Lorenzo y Río San Juan en el municipio General Bravo; Río San Juan, Presa Vaquerías en el municipio de General Terán; Río Potosí y Río Pablillo en los municipios de Hualahuises e Iturbide; Ríos Pablillo y Conchos en el municipio de Linares; Ríos San Juan y Pablillo en el municipio de Montemorelos; Río Pesquería y Río San Juan en los municipios de Los Ramones y San Nicolás de los Garza.
+Nuevo León: Río San Juan en los municipios de Santiago, Cadereyta Jiménez, General Terán, China, General Bravo, Los Ramones, Doctor Coss y Los Aldamas; Río Pilón en los municipios de Galeana, Rayones y Montemorelos; Río Santa Catarina en los municipios de Santiago, Santa Catarina, San Pedro Garza García, Monterrey, Guadalupe, Juárez y Cadereyta Jiménez; Río La Silla en los municipios de Monterrey y Guadalupe; Río Ramos en el municipio de Allende; Río Blanquillo en el municipio de Allende; Arroyo Mireles en el municipio de Allende; Arroyo La Chueca en el municipio de Santiago; Arroyo Mohínos en el municipio de China; Río Pablillo en los municipios de Galeana e Iturbide; Río Camacho o Hualahuises en los municipios de Hualahuises y Linares; Canal Sotolar en el municipio de Linares; Río Salado y Laguna Salinillas en el municipio de Anáhuac; Río Bravo en el municipio de Anáhuac; Presa Agualeguas en el municipio de Agualeguas; Presa El Nogalito en el municipio de Cerralvo; Presa Vaquerías en el municipio de General Terán.
 
-Oaxaca: Bahía de Salina Cruz y Golfo de Tehuantepec en el municipio de Salina Cruz; Bahía y Estero La Ventosa en el municipio de Ciudad Ixtepec; Estero La Ventosa en el municipio de Juchitán de Zaragoza; Río Papaloapan en los municipios San Juan Bautista Tuxtepec y San Miguel Soyaltepec; Río Manialtepec en los municipios de San Pedro Tututepec y Santos Reyes Nopala; Laguna Chacahua en el municipio de San Miguel Chicahua; Bahías de Huatulco en el municipio Santa María Huatulco; Costa en el municipio de San Pedro Mixtepec Joquila Distrito 22; Río Mixteco en el municipio de Huajuapan de León.
+Oaxaca: Río Papaloapan tramo Tuxtepec-Veracruz en los municipios de San Juan Bautista Tuxtepec, San Miguel Soyaltepec; Río Manialtepec en los municipios de San José Manialtepec y San Pedro Nopala; Río Mixteco en el municipio de Huajuapan de León; Laguna Chicahua en el municipio de San Miguel Chicahua; Bahía de Huatulco en el municipio de Santa María Huatulco; Bahía de Salina Cruz y Golfo de Tehuantepec en el municipio de Salina Cruz; Bahía La Ventosa en el municipio de La Ventosa; Estero Ventosa en el municipio de Salina Cruz y Juchitán de Zaragoza; Océano Pacífico en el municipio de Puerto Escondido; Acuífero Valles Centrales en la Región Valles Centrales del Estado.
 
-Querétaro: Río Querétaro en los municipios de Querétaro, Corregidora y El Marqués; Río Arenal en el municipio de Querétaro; Río Huimilpan en los municipios de Huimilpan, Corregidora y Amealco.
+Puebla: Río Pantepec en los municipios de Pantepec y Metlaltoyucan; Río San Marcos en los municipios de Xicotepec y Naupan; Presa Necaxa en los municipios de Huauchinango y Nuevo Necaxa; Río Necaxa en los municipios de Nuevo Necaxa y Zihuateutla; Río Huitxilapan en los municipios de Quimixtlán y Xico; Río Mixteco en el municipio de Tecomatlán; Río Acatlán en los municipios de Tehuitzingo y Acatlán; Río Petlalcingo en los municipios de San Pablo Anícano, San Pedro Yeloixtlahuaca, Chila y Petlalcingo; Río Atoyac en el municipio de Tlahuapan; Presa Valsequillo en el municipio de Puebla.
 
-Quintana Roo: Bahía de Chetumal y Sistema Lagunar Bacalar en el municipio Othón P. Blanco; Laguna Chichankanab en el municipio José María Morelos; Sistema Lagunar Nichupté en el municipio Benito Juárez.
+Querétaro: Río Jalpan en los municipios de Jalpan de Serra, Pinal de Amoles y Arroyo Seco; Río Extoraz en los municipios de Tolimán, Peñamiller, Pinal de Amoles y Jalpan de Serra; Río Tolimán en los municipios de Colón y Tolimán; Río Arenal en el municipio de Querétaro; Río Huimilpan en los municipios de Huimilpan, Corregidora y Amealco de Bonfil.
 
-San Luis Potosí: Río Verde en los municipios de Armadillo de los Infante, San Nicolás Tolentino, Villa Juárez, Guadalcazar, Rayón, Ciudad Fernández, San Ciro de Acosta, Cerritos, Río Verde, Cárdenas, Santa Catarina y Lagunillas; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Tamasopo y Rayón; Río Valles en los municipios Ciudad Valles y Ciudad del Maíz; Río Tampaon en los municipios Tamasopo, Aquismon, Ciudad Valles y Tamuín; Río Los Patitos en el municipio de Tamuín; Río Coy en los municipios de Tamuín, Aquismon, Tancahuitz de Santos, Tanlajas y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón, San Vicente Tancuayalab y Tamuín.
+Quintana Roo: Arroyo Huay Pix, Bahía de Chetumal, Laguna y Arroyo Milagros, Sistema Lagunar Bacalar y Río Hondo en el municipio Othón P. Blanco; Laguna Chichankanab en el municipio José María Morelos; Arroyo Canal, Playa Linda, Canal Nizuc y Sistema Lagunar Nichupté en el municipio Benito Juárez.
 
-Sinaloa: Río Fuerte en el municipio de Choix; Río Tamazula en el municipio de Culiacán; Río Culiacán en los municipios de Culiacán y Navolato; Laguna El Huizache en el municipio de El Rosario; Laguna Caimanero en los municipios de El Rosario y Navolato; Laguna Bataoto en el municipio de Navolato; Laguna de Chiricahueto en el municipio de Culiacán; Laguna de Huayaqui en el municipio de Guasave; Esteros de Agiabampo, Bocarehuis, Bahías Jitzamori, El Colorado, Lechuguilla, Santa María, Ohuira y Topolobampo en el municipio de Ahome; Bahía San Ignacio en los municipios de Ahome y Guasave; Bahía Navachiste y Estero La Piedra en el municipio de Guasave; Bahías Playa Colorada y Santa María en el municipio de Angostura; Bahía Altata en el municipio de Navolato; Ensenada Pabellones y Bahía La Guadalupana en el municipio de Culiacán; Estero El Pozole en el municipio de San Ignacio; Esteros El Sábala, Urías y La Sirena, Bahía de Mazatlán, en el municipio de Mazatlán; Laguna Los Cerritos en el municipio de El Rosario; Laguna Grande en los municipios de El Rosario y Escuinapa; Esteros Agua Grande, Puerto del Río y Teacapan en el municipio de Escuinapa.
+San Luis Potosí: Río Verde en los municipios de Armadillo de Los Infante, San Nicolás de Tolentino, Villa Juárez, Cerritos, Guadalcázar, Ríoverde, Rayón, Cárdenas, Santa Catarina, Ciudad Fernández, San Ciro de Acosta y Lagunillas; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Rayón y Tamasopo; Río Valles en los municipios de El Naranjo, Ciudad Valles y Ciudad del Maíz; Río Tampaon en los municipios de Tamasopo, Aquismón, Ciudad Valles y Tamuín; Río Coy en los municipios de Aquismón, Ciudad Santos, Tanlajás y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón Corona, San Vicente Tancuayalab y Tamuín; Río Choy en el municipio de Tamuín; Presas San José, Dolores, Valentín Gama, Cañada de Yáñez, Mariano Moctezuma y El Carmen en el municipio de Santa María del Río; Presas Santa Ana, San José, Dolores Ventilla, San Luis, San Francisco, La Providencia y San Pedro en el municipio de Villa de Reyes; Presas La Muñeca y El Tule en el municipio de Tierranueva; Presa El Naranjo en el municipio de Cárdenas; Presas La Atravezada y Amoladeras en el municipio de Rayón; Presa San Diego en el municipio de Ríoverde; Presa Golondrinas en el municipio de San Nicolás Tolentino; Presa Las Lajillas en el municipio de Ciudad Valles; Presa Álvaro Obregón en el municipio de Alaquines; Presa Guadalupe en el municipio de Guadalcázar; Presas Álvaro Obregón, Santa Genoveva y La Rivera en el municipio de Mexquitic de Carmona; Presas El Potro y La Reforma en el municipio de Salinas; Presas La Lagunita, Cañada de Lobo y San Antonio en el municipio de San Luis Potosí; Presa Calabacillas Illescas en el municipio de Santo Domingo; Presa San Miguel en el municipio de Villa de Arriaga; Presa San Pedro en el municipio de Villa de Arista; Bordo Herradura en el municipio de Villa de Ramos; Bordo San Isidro en el municipio de Villa Hidalgo; Lagos y Lagunas Orilla Grande, Chajil y Cerro Pez (Marland) en los municipios de Tamuín y Ébano; Lagos y Lagunas La Ciénega, Patitos y Grande en el municipio de Ciudad Valles.
 
-Sonora: Río Sonoyta en el municipio de Plutarco Elías Calles; Río Concepción en los municipios de Magdalena, Santa Ana, Altar, Oquitoa y Tubutama; Río Sonora en los municipios de Hermosillo, Bacoachi, Arizpe, Banamichi, Huepac, Aconchi, Baviácora y Ures; Río San Miguel en los municipios de Cucurpe y San Miguel de Horcasitas; Río Yaqui en los municipios de Onavas, Villa Hidalgo, Huasabas, Granados, Tepache y Divisaderos; Río Mayo en los municipios de Huatabampo, Etchojoa, Navojoa, Quiriego y Rosario; Golfo de Santa Clara en el municipio de San Luis Río Colorado; Puerto Peñasco en los municipios de San Luis Río Colorado y Puerto Peñasco; Bahía Puerto Peñasco en el municipio de Puerto Peñasco; Caborca en el municipio de Caborca; Bahía Kino en el municipio de Hermosillo; Bahía San Carlos en el municipio de Guaymas; Estero Tramo Lobos- Isla Huivulai en los municipios de Guaymas, Bacum, Cajeme y Navojoa; Estero El Soldado en el municipio de Guaymas; Huatabampito y Yavaros en el municipio de Huatabampo; Presa Alvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo.
+Sinaloa: Río Fuerte en los municipios de El Fuerte y Ahome; Ríos San Lorenzo y Tamazula en el municipio de Culiacán; Río Humaya en los municipios de Badiraguato y Culiacán; Río Culiacán en el municipio de Culiacán; Presas Lic. Luis Donaldo Colosio y Miguel Hidalgo en el municipio de Choix; Presas Miguel Hidalgo y Josefa Ortiz de Domínguez en el municipio de El Fuerte; Presas Gustavo Díaz Ordaz y Guillermo Blake A. en el municipio de Sinaloa; Presa Juan Guerrero Alcocer en el municipio de Culiacán; Presa Aurelio Banassini V. en el municipio de Elota; Presa Los Horcones en el municipio de Mazatlán; Presa Las Higueras en el municipio de Rosario; Presa La Campana en el municipio de Escuinapa; Esteros El Sábalo, de Urías y Bahía de Mazatlán en el municipio de Mazatlán; Laguna El Huizache en el municipio de El Rosario; Laguna Caimanero en los municipios de El Rosario y Navolato; Laguna Bataoto en el municipio de Navolato; Laguna de Chiricahueto en el municipio de Culiacán; Laguna de Huayaqui en los municipios de Guasave y Ahome; Laguna Los Cerritos en el municipio de El Rosario; Laguna Grande en los municipios de El Rosario y Escuinapa.
 
-Tamaulipas: Presa La Patria es Primero y el Río Soto la Marina en el municipio de Abasolo; Ríos Bravo, Soto La Marina, Tigre, Barberena, San Rafael y Las Presas El Trueno, Leija, Los Rincones, El Pirul, El Paraíso, República Española y Laguna San Andrés en el municipio de Aldama.
+Sonora: Río Sonoyta en el municipio de General Plutarco Elías Calles; Río Altar en los municipios de Saric, Tubutama, Atil, Oquitoa y Altar; Río Los Alisos en los municipios de Imuris, Magdalena y Santa Ana; Río Asunción en los municipios de Trincheras y Pitiquito; Río Concepción en el municipio de Caborca; Río Sonora en los municipios de Bacoachi, Arizpe, Sinoquipe, Banámichi, Huépac, San Felipe de Jesús, Aconchi, Baviácora, Mazocahui, Ures, Topahue y Hermosillo; Río Bacanuchi (afluente del Río Sonora), en el municipio de Bacanuchi; Río San Miguel en los municipios de Cucurpe, Opodepe, Rayón y San Miguel de Horcasitas; Río Zanjón en los municipios de Querobabi, Carbó y Villa Pesqueira; Río Agua Prieta en el municipio de Agua Prieta; Río Bavispe en los municipios de Huachinera, Bacerac, Bavispe, Villa Hidalgo, Huásabas, Granados, Sahuaripa y Arivechi; Río Moctezuma en los municipios de Fronteras, Nacozari de García, Cumpas, Moctezuma, Divisaderos, Tepache y San Pedro de la Cueva; Río Yaqui en los municipios de Yécora, Onavas, Tonichi, San Javier, Soyopa, Bácum y Cajeme; Río Bacanora en el municipio de Bacanora; Río Tecoripa en el municipio de Suaqui Grande; Río Matape en los municipios de Mazatán, La Colorada, Guaymas y Empalme; Río Mayo en los municipios de Álamos, Navojoa, Etchojoa y Huatabampo; Arroyo Quiriego (afluente del Río Mayo) en los municipios de Quiriego y Rosario; tramo comprendido desde el Golfo de Santa Clara hasta la Bahía San Jorge, en los municipios de San Luis Río Colorado, General Plutarco Elías Calles y Puerto Peñasco; Bahías Kino, KumKaak y San Agustín, Esteros Santa Cruz, Tastiota y Cardonal en el municipio de Hermosillo; Bahías de Guaymas, San Carlos, Guasimas, Esteros Río Muerto, Las Cruces, Los Algodones, Siuti, Lobos, Melagos, El Soldado y La Atanasia en el municipio de Guaymas; Bahía de Empalme en el municipio de Empalme; Estero Tobari en los municipios de Cajeme y Etchojoa; Bahías Santa Bárbara, Huatabampito y Yabaros en el municipio de Huatabampo.
 
-Veracruz: Río Pánuco en los municipios de Pánuco y Pueblo Viejo; Laguna de Tamiahua en los municipios de Tamiahua, Chinampa de Gorostiza, Tampico Alto y Ozuluama de Mascareñas; Río Tempoal en los municipios de Platón Sánchez, Tempoal y El Higo; Río Chicayán en el municipio de Pánuco; Río Calabozo en el municipio de Chicontepec; Río Tuxpan en el municipio de Tuxpan; Río Vinazco en los municipios de Huayacocotla y Texcatepec; Río Cazonez en los municipios de Cazonez de Herrera, Poza Rica de Hidalgo y Coatzintla; Río Tecolutla en los municipios de Tecolutla, Gutiérrez Zamora y Papantla; Río Nautla en los municipios de Nautla, Martínez de la Torre y Tlapacoyan; Río Misantla en el municipio de Misantla; Río Papaloapan en los municipios de Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Amatitlán y Tlacojalpan; Río San Juan en los municipios de San Juan Evangelista, Hueyapan de Ocampo, Juan Rodríguez Clara, Isla, San Andrés Tuxtla y Santiago Tuxtla; Río Tecolalpan en los municipios Angel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Jamapa en los municipios de Coscomatepec, Soledad de Doblado, Manlio Fabio Altamirano, Jamapa, Medellín, Boca del Río; Río Coatzacoalcos en los municipios de Coatzacoalcos, Jesús Carranza, Hidalgotitlán, Texistepec y Minatitlán; Río Huazuntlan en los municipios de Soteapan, Mecayapan, Pajapan y Chinameca; Río Tonalá en los municipios de Las Choapas y Agua Dulce; Presa Tuxpango en el municipio de Ixtaczoquitlán; Laguna de Alvarado en el municipio de Alvarado; Laguna de Pueblo Viejo en los municipios de Pueblo Viejo, Tampico Alto y Pánuco; Lagunas De Chila, De Tamos y Chairel en el municipio de Pánuco; Laguna de Catemaco en el municipio de Catemaco.
+Tamaulipas: Río Bravo en el municipio de Nuevo Laredo, Camargo, Miguel Alemán, Mier, Gustavo Díaz Ordaz, Reynosa y Matamoros; Canal Soliseño en el municipio de Matamoros; Zona Costera de Ciudad Matamoros; Río Conchos en los municipios de San Fernando y Méndez; Río Pilón en el municipio de Mainero; Río Purificación en el municipio de Hidalgo; Río Corona en el municipio de Güémez; Río San Marcos en el municipio de Victoria; Río Soto la Marina en el municipio de Soto la Marina; Presa República Española y Ríos Carrizal y Tigre en el municipio de Aldama; Río Guayalejo en los municipios de Jaumave, Llera, El Mante, Altamira y González; Zona Costera del municipio de Altamira; Río Sabinas en los municipios de Llera y Xicoténcatl; Río Frío en los municipios de Gómez Farías y Xicoténcatl; Río Mante en el municipio de El Mante; Presa Emilio Portes Gil en el municipio de Xicoténcatl; Presas Est. Ramiro Caballero y Venustiano Carranza en el municipio de González; Río Tamesí y Lagunas La Escondida y Tancol en el municipio de Altamira; Zona Costera del municipio de Ciudad Madero; Acuífero Zona Norte en los municipios de Camargo, Reynosa, Río Bravo y Valle Hermoso; Acuífero Méndez en los municipios de Méndez, San Fernando y Burgos; Acuífero Hidalgo-Villagrán en los municipios de Hidalgo, Villagrán y Mainero; Acuífero de San Carlos-Jiménez en los municipios de San Carlos y Jiménez; Acuífero Victoria-Güémez en los municipios de Victoria y Güémez; Acuífero Palmillas-Jaumave en los municipios de Palmillas y Jaumave; Acuífero Tula-Bustamante en los municipios de Tula y Bustamante; Acuífero Llera-Xicoténcatl en los municipios de Llera y Xicoténcatl; Acuífero Ocampo-Antiguo Morelos en los municipios de Ocampo, Antiguo Morelos y Nuevo Morelos; Presa La Patria es Primero en el municipio de Abasolo; Las Presas El Trueno, Leija, Los Rincones, El Pirul, El Paraíso y Laguna San Andrés en el municipio de Aldama.
 
-Zacatecas: Presas Tayahua, El Chique, Laguna El Cartero y Chicomostoc en el municipio de Villanueva; Presas El Chique y Huiscolco en el municipio de Tabasco; Presa Excame en los municipios de Tepechitlán y Teúl de González Ortega; Presa Santa Juana en el municipio de Jalpa; Presa López Velarde en el municipio de Jerez; Presa Antonio en el municipio de Tepetongo; Presa Susticacán en el municipio de Susticacán; Presas Lobato y San Mateo en el municipio de Valparaíso; Presas Santa Rosa y Leobardo en el municipio de Fresnillo; Presa Cazadero en el municipio de Sain Alto; Presa Revolución en el municipio de Benito Juárez; Presa Pedernalillo en el municipio de Guadalupe.
+Tlaxcala: Presa San José Atlanga en el municipio de Atlangatepec.
 
-En el Tipo “C”
+Veracruz: Río Pánuco en los municipios de Pánuco y Pueblo Viejo; Laguna de Tamiahua en los municipios de Tamiahua, Chinampa de Gorostiza, Tampico Alto y Ozuluama; Río Tempoal en los municipios de Platón Sánchez, Tempoal, El Higo y Tantoyuca; Río Chicayán en el municipio de Pánuco; Río Calabozo en los municipios de Tantoyuca y Chicontepec; Río Túxpam en los municipios de Túxpam, Alamo y Temapache; Río Vinazco en los municipios de Huayacocotla, Texcatepec, Tlachichilco, Ixhuatlán y Chicontepec; Río Cazones en los municipios de Cazones de Herrera, Poza Rica de Hidalgo y Coatzintla; Río Tecolutla en los municipios de Tecolutla, Gutiérrez Zamora y Papantla; Río Nautla en los municipios de Nautla, Martínez de la Torre y Tlapacoyan; Río Misantla en los municipios de Vega de Alatorre, Nautla y Misantla; Río Papaloapan en los municipios de Tres Valles, Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Amatitlán y Tlacojalpan; Río San Juan en los municipios de Villa Azueta, Tlacotalpan, San Juan Evangelista, Hueyapan de Ocampo, Juan Rodríguez Clara, Isla, San Andrés Tuxtla y Santiago Tuxtla; Río Tecolalpan en los municipios de Ángel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Jamapa en los municipios de Calcahualco, Alpatláhuac, Huatusco, Ixhuatlán del Café, Tepatlaxco, Zentla, Adalberto Tejeda, Soledad de Doblado, Manlio Fabio Altamirano, Jamapa, Medellín y Boca del Río; Río Coatzacoalcos en los municipios de Oluta, Ixhuatlán del Sureste, Coatzacoalcos, Jesús Carranza, Hidalgotitlán, Texistepec, Nanchital de Lázaro Cárdenas del Río y Minatitlán; Río Huazuntlán en los municipios de Soteapan, Mecayapan, Pajapan y Chinameca; Río Tonalá en los municipios de Las Choapas y Agua Dulce; Río Uspanapa en los municipios de Las Choapas, Minatitlán, Moluacán e Ixhuatlán del Sureste; Presa Tuxpango en el municipio de Ixtaczoquitlán; Laguna de Alvarado en el municipio de Alvarado; Laguna de Pueblo Viejo en los municipios de Pueblo Viejo, Tampico Alto y Pánuco; Lagunas de Chila, De Tamos y Chairel en el municipio de Pánuco; Laguna de Catemaco en el municipio de Catemaco.
 
-Aguascalientes: Presa Calles en el municipio de San José de Gracia.
+Yucatán: Acuífero en los municipios de Baca, Bokobá Calotmul, Cansahcab, Cantamayec, Celestún, Cenotillo, Chacsinkín, Chankom, Chapab, Chicxulub Pueblo, Chikindzonot, Chocholá, Chumayel, Cuncunul, Cuzamá, Dzan, Dzemul, Dzilam de Bravo, Dzitás, Dzoncauich, Huhí, Ixil, Káua, Kinchil, Kopomá, Mama, Maní, Mayapán, Mocochá, Muxupip, Opichén, Quintana Roo, Río Lagartos, Sacalum, Samahil, San Felipe, Sanahcat, Santa Elena, Sinanché, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tekal de Venegas, Tekantó, Tekom, Telchac Pueblo, Telchac Puerto, Tepakán, Tetiz, Teya, Tixcacalcupul, Tixméhuac, Tunkás, Uayma, Xocchel, Yaxkukul y Yobain.
 
-Chihuahua: Presas Chihuahua, El Rejón y Chuvíscar en el municipio de Chihuahua; La Presa Parral en el municipio de Hidalgo del Parral.
+Zacatecas: Presa Tayahua en el municipio de Villanueva; Presa Excame en los municipios de Tepechitlán y Téul de González Ortega; Río Tenayuca en los municipios de Nochistlán de Mejía y Apulco; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Téul, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango de Sánchez Román-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango, Tepechitlán, General Joaquín Amaro, Téul de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Téul de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango, Tepechitlán, Téul de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Sain Alto y Cañitas de Felipe Pescador; Acuífero Abrego en los municipios de Sombrerete, Sain Alto y Fresnillo; Acuífero Sain Alto en los municipios de Sain Alto y Sombrerete; Acuífero de El Palmar en los municipios de Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Sain Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho en los municipios de Mazapil y Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos; Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Angeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Angeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos; Presas Achoquen, Chihuila, Ateto, San Miguel y San Nicolás en el municipio de Apozol; Presas Revolución y Florencia en el municipio de Benito Juárez; Presas Calera, Bordo Toribio y Tanque el Dinero en el municipio de Calera; Presa Las Compuertas en el municipio de Cañitas de Felipe Pescador; Presa Agua Dulce en el municipio de Concepción del Oro; Presas San Pedro Piedra Gorda y Rancho Nuevo en el municipio de Cuauhtémoc; Presas El Maestranzo y Las Marinas en el municipio de Chalchihuites; Presas El Peñasco y Arroyo de Enmedio en el municipio de General Enrique Estrada; Presas Malpaso, Apaseo y L. Valenciana en el municipio de Francisco R. Murguía; Laguna El Soyate en el municipio de General Joaquín Amaro; Presas La Concha y San Aparicio en el municipio de Genaro Codina; Presas La Bomba, Cabrales, El Ahijadero, Santa Rosa, Leobardo Reynoso, San Juan de la Casimira, Guadalupe Trujillo, Los Hornos, Santa Cruz I, Santa Cruz II, Trujillito y Chilitos en el municipio de Fresnillo; Presas Laguna Santa Elena y El Cantil en el municipio de General Pánfilo Natera; Presas Casa Blanca, El Pedernalillo y Bañuelos en el municipio de Guadalupe; Presas Tepezala, El Brinco, Presa de Dios y Santa Juana en el municipio de Jalpa; Presas Víctor Rosales, Lauro G. Caloca (Los Ríos), Ramón López Velarde, El Cargadero y Encino Mocho en el municipio de Jerez; Presa El Zorrillo en el municipio de Juan Aldama; Presa Amoxoxitl en el municipio de Juchipila; Presas San Marcos y Presa Chica en el municipio de Loreto; Presas Santa Gertrudis y El Águila en el municipio de Luis Moya; Presa El Mapache en el municipio de Mazapil; Presas Santiago y La Boquilla en el Municipio de Miguel Auza; Presa Independencia Nacional (S. Teresa) en el municipio de Monte Escobedo; Presa El Joyel en el municipio de Morelos; Presas Palmarejo y Cuxpala en el municipio de Moyahua de Estrada; Presas Huisquilco, Las Tuzas y La Cuña en el municipio de Nochistlán de Mejía; Presas Nigromante, San Martín, Santa Teresa, El Rosario, Laguna Colorada, Pompeya y El Tecolote en el municipio de Pinos; Presas Progreso, Las Agujas y Santa Catarina en el municipio de Río Grande; Presas El Cazadero y Cantuna en el municipio de Sain Alto; Presas Santos Bañuelos, Dolores, La Batea, Joaquín Amaro (Mesillas), Las Amarillas, Buenavista, Mesillas o Las Catarinas y Charco Blanco en el municipio de Sombrerete; Presa Susticacán en el municipio de Susticacán; Presas El Chique y Huiscolco en el municipio de Tabasco; Presas Lic. Miguel Alemán Velasco y La Villita en el municipio de Tepechitlán; Presas Achimec, Antonio, Víboras, El Cuidado, La Cuadrilla y El Ahuichote en el municipio de Tepetongo; Presas Excame, El Izote y La Ticuata en el municipio de Téul de González Ortega; Presa Estancia de ánimas en el municipio de Villa González Ortega; Presa La Campana en el municipio de Villa Cos; Presas Lobatos, San Juan Capistrano, San Antonio de Padua y San Mateo en el municipio de Valparaíso; Presas El Capulín y Montoro en el municipio de Villa García; Presas El Jagüey, Palomas, Chicomostoc, Malpaso, Tayahua, El Chique, Lagunas El Carretero y General Matías Ramos en el municipio de Villanueva; Presas Chilitas, Calerillas y El Mirador en el municipio de Zacatecas.
 
-Durango: Presa Villa Hidalgo en el municipio de Hidalgo.
+En el Tipo "C":
 
-Estado de México: Presa Salazar en los municipios de Lerma y Ocoyoac; Presa Villa Victoria en el municipio Villa Victoria; Presas Valle de Bravo y Colorines en el municipio Valle de Bravo; Presa Santo Tomás en el municipio Santo Tomás de los Plátanos; Presa Madín en los municipios de Naucalpan de Juárez, Jilotzingo y Cuautitlán-Izcalli.
+Aguascalientes: Presa P. Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríguez en el municipio de Jesús María.
+
+Baja California: Acuíferos Río Guadalupe, La Misión, Ensenada, San Quintín y Maneadero, Presa Emilio López Zamora en el municipio de Ensenada; Presa el Carrizo en el municipio de Tecate; Acuífero Tijuana, Presa Abelardo L. Rodríguez en el municipio de Tijuana; Acuíferos Río Colorado y San Felipe en el municipio de Mexicali.
+
+Baja California Sur: Acuíferos Punta Eugenia, Vizcaíno, San Ignacio, Mulegé-B. Concepción, San Marcos-Palo Verde, San Bruno, San Lucas y L. Virg-S. Rosa-S. Agueda en el municipio de Mulegé; Acuíferos La Purísima, Mezquital Seco y Santo Domingo en el municipio de Comondú; Acuífero Santa Rita, Las Pocitas-San Hilario, El Conejo-Los Viejos, Melitón Albañez, Cañada Honda, El Carrizal, Los Planes, Valle La Paz, El Coyote, Todos Santos, Pescadero y Plutarco Elías Calles en el municipio de La Paz; Acuíferos Migriño, Cabo San Lucas, Cabo Pulmo, San José del Cabo, Santiago y San Bartolo en el municipio de Los Cabos; Acuífero A.V. Bonfil-Tepentu en los municipios de La Paz y Loreto; Acuíferos Loreto-Puerto Escondido, San Juan Bautista Londo Rosarito en el municipio de Loreto.
+
+Chihuahua: Presas Chihuahua y Rejón en el municipio de Chihuahua y Presa Parral en el municipio de Hidalgo del Parral.
+
+Coahuila: Presa la Amistad en el municipio de Acuña y Presa Venustiano Carranza en el municipio de Juárez.
+
+Durango: Presa Lázaro Cárdenas en el municipio de Indé; Presa La Rosilla en el municipio de Pueblo Nuevo; Presa La Vieja en el municipio de Guadalupe Victoria.
+
+Estado de México: Presa Salazar en los municipios de Lerma y Ocoyoacac; Presa Villa Victoria en el municipio de Villa Victoria; Presas Valle de Bravo y Colorines en el municipio de Valle de Bravo; Presa Santo Tomás en el municipio de Santo Tomás; Presa Madín en los municipios de Naucalpan de Juárez, Jilotzingo y Cuautitlán-Izcalli; Presa Shisledo en el municipio de Donato Guerra; Presa Tilostoc en el municipio de Valle de Bravo; Presa Tecuán en el municipio de Amatepec.
 
 Guanajuato: Presa El Palote en el municipio de León; Presas La Esperanza y La Soledad en el municipio de Guanajuato.
 
-Guerrero: Presa Vicente Guerrero en el municipio de Arcelia; Presa Valerio Trujano en el municipio de Tepecuacuilco de Trujano.
+Guerrero: Presa Vicente Guerrero en el municipio de Arcelia; Presa Valerio Trujano en el municipio de Tepecuacuilco de Trujano; Presa Jaltipan en el municipio de Tixtla de Guerrero.
 
 Jalisco: Lago Chapala en los municipios de Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca y Tizapan el Alto; Presa Calderón en el municipio de Zapotlanejo; Presa El Salto en el municipio de Valle de Guadalupe.
 
-Michoacán: Lago de Chapala en los municipios de Venustiano Carranza y Régules.
+Michoacán: Lago de Chapala en los municipios de Venustiano Carranza y Cojumatlán de Régules; Presa José María Morelos (La Villita) en el municipio de Lázaro Cárdenas; Presa Cointzio en el municipio de Morelia.
 
-Nuevo León: Presa Cerro Prieto en el municipio de Linares; Presa El Cuchillo en el municipio de China; Presa Rodrigo Gómez en el municipio de Santiago.
+Nuevo León: Presas el Cuchillo-Solidaridad en el municipio de China; Presa Rodrígo Gómez “La Boca” en el municipio de Santiago; Presa José López Portillo “Cerro Prieto” en el municipio de Linares; Laguna Salinillas en el municipio de Anáhuac.
 
-San Luis Potosí: Presas San José, Gonzalo N. Santos y El Potosino en el municipio de San Luis Potosí.
+Querétaro: Presa Jalpan en el municipio de Jalpan de Serra; Presa La Ceja en el municipio de Huimilpan.
 
-Tamaulipas: Presa Falcón en el municipio de Guerrero.
+San Luis Potosí: Presas Gonzalo N. Santos, El Potosino y San José en el municipio de San Luis Potosí.
 
-Zacatecas: Presa López Portillo en los municipios de Nochistlán de Mejía y Apulco.
+Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Canas en el municipio de Escuinapa.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Sonora: Presa Álvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo; Presa Lázaro Cárdenas en el municipio de Villa Hidalgo.
+
+Tamaulipas: Presa Falcón en el municipio de Guerrero; Laguna La Nacha en el municipio de San Fernando; Presa Vicente Guerrero en el municipio de Padilla; Canal Principal en el municipio de Abasolo; Lagunas de Champayan y La Puerta en el municipio de Altamira; Laguna del Chairel en el municipio de Tampico.
+
+Yucatán: Acuífero en los municipios de Abalá, Conkal, Mérida, Kanasín, Tecoh, Timucuy, Tixpéhual, Ucú, Umán y Valladolid.
+
+Zacatecas: Presa López Portillo en los municipios de Nochistlán de Mejía y Apulco; Embalse Tenayuca en el municipio de Apulco.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 278-B.
+
+El volumen de agua residual y las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
+
+I.- Volumen:
+
+a).- Cuando el caudal de la descarga se efectúe en forma continua, intermitente o fortuita, y sea igual o mayor a 9,000 metros cúbicos en un trimestre, el contribuyente deberá instalar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual. El volumen de cada descarga corresponderá a la diferencia entre la lectura tomada el último día del trimestre de que se trate y la lectura efectuada el último día del trimestre anterior.
+
+b).- Cuando el caudal de descarga sea continuo, intermitente o fortuito y menor a 9,000 metros cúbicos en un trimestre, el usuario podrá optar entre instalar medidores o efectuar cada trimestre bajo su responsabilidad la determinación del volumen con otros dispositivos de aforo. Dicha determinación se deberá manifestar bajo protesta de decir verdad en la declaración correspondiente.
+
+En caso de que no se pueda medir el volumen de agua descargada, a falta de medidor o como consecuencia de la descompostura de éste, por causas no imputables al contribuyente, o cuando no se hubiere reparado o repuesto dentro de los tres meses siguientes a su descompostura, el volumen a declarar no podrá ser inferior al que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I de esta Ley.
+
+II.- Concentración promedio de contaminantes:
+
+El responsable de la descarga tendrá la obligación de realizar el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas que reflejen cuantitativa y cualitativamente el proceso más representativo de las actividades que generan la descarga y para todos los contaminantes previstos en esta Ley, que genere.
+
+Asimismo, cuando por la naturaleza de sus procesos productivos y conforme a las disposiciones del presente Capítulo, se genere o presente periódicamente un contaminante específico, como base para el pago del derecho, podrá efectuar la determinación de su pago únicamente por este contaminante, no estando obligado al análisis y muestreo de los demás.
+
+El contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes básicos, metales pesados y cianuros en su descarga, en miligramos por litro. En caso de los parámetros potencial Hidrógeno y coliformes fecales, se determinarán en sus respectivas unidades.
+
+Una vez determinadas las concentraciones de los contaminantes básicos, metales pesados y cianuros, expresados en miligramos por litro o en las unidades respectivas, se compararán con los valores correspondientes a los límites máximos permisibles, por cada contaminante, que se indican en la Tabla I de este Capítulo. En caso de que las concentraciones sean superiores a dichos límites, se causará el derecho, por el excedente del contaminante correspondiente.
+
+TABLA I
+
+LÍMITES MÁXIMOS PERMISIBLES PARA CONTAMINANTES BÁSICOS, METALES PESADOS Y CIANUROS.
+
+DESCARGA A UN CUERPO RECEPTOR TIPO
+
+CONTAMINANTE “A” “B” “C”
+
+Concentración en miligramos por litro
+
+Grasas y Aceites 15 15 15
+
+Sólidos Suspendidos Totales 150 75 40
+
+Demanda Bioquímica de Oxígeno Total 150 75 30
+
+Nitrógeno Total 40 40 5
+
+Fósforo Total 20 20 5
+
+Arsénico 0.2 0.1 0.1
+
+Cadmio 0.2 0.1 0.1
+
+Cianuros 2.0 1.0 1.0
+
+Cobre 4.0 4.0 4.0
+
+Cromo 1.0 0.5 0.5
+
+Mercurio 0.01 0.005 0.005
+
+Níquel 2.0 2.0 2.0
+
+Plomo 0.5 0.2 0.2
+
+Zinc 10.0 10.0 10.0
+
+Para los efectos de la Tabla I, se entiende que la concentración de los contaminantes Arsénico, Cadmio, Cianuros, Cobre, Cromo, Mercurio, Niquel, Plomo y Zinc debe ser considerada en forma total.
+
+Para coliformes fecales, si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, se causará el derecho conforme a las disposiciones del presente Capítulo.
+
+Para el potencial Hidrógeno (pH), si la descarga presenta un valor superior a 10 o inferior a 5 unidades, se causará el derecho conforme a las disposiciones del presente Capítulo.
+
+La Comisión Nacional del Agua publicará en el Diario Oficial de la Federación el procedimiento obligatorio para el muestreo de las descargas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 278-C.
+
+Para calcular el monto del derecho a pagar por cada tipo de contaminante que rebase los límites máximos permisibles, se considerará el volumen de aguas residuales descargadas por trimestre y la carga de los contaminantes respectivos, de la siguiente forma:
+
+I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 0.50 si se trata de un cuerpo receptor tipo “A” y por $ 0.25 para un cuerpo receptor tipo “B” o “C”.
+
+II.- Para el potencial Hidrógeno (pH), el importe del derecho se determinará de acuerdo con las cuotas indicadas en la Tabla II de este Capítulo, para ello, si la descarga se encuentra fuera de los límites máximos permisibles, superior a 10 o inferior a 5 unidades, el volumen descargado a que se refiere la fracción I, del artículo 278-B de esta Ley, se multiplicará por la cuota que corresponda según el rango en unidades de pH a que se refiere la citada Tabla.
+
+TABLA II
+
+CUOTAS EN PESOS POR METRO CÚBICO PARA POTENCIAL HIDROGENO (pH).
+
+Rango en unidades Cuota por cada metro Rango en unidades Cuota por cada de pH cúbico descargado de pH metro cúbico
+
+descargado
+
+menor de 5 y hasta 4 $ 0.025 mayor de 10 y hasta 11 $ 0.115
+
+menor de 4 y hasta 3 0.075 mayor de 11 y hasta 12 0.349
+
+menor de 3 y hasta 2 0.225 mayor de 12 y hasta 13 0.494
+
+menor de 2 y hasta 1 0.650 mayor de 13 0.700
+
+menor de 1 0.900
+
+III.- Para los contaminantes básicos, metales pesados y cianuros, las concentraciones de cada uno de ellos que rebasen los límites máximos permisibles, expresadas en miligramos por litro, obtenidas conforme al artículo anterior, se multiplicarán por el factor de 0.001, para convertirlas a kilogramos por metro cúbico. Este resultado, a su vez, se multiplicará por el volumen de aguas residuales, en metros cúbicos descargados en el trimestre correspondiente, obteniéndose así, la carga de contaminantes, expresada en kilogramos por trimestre descargado al cuerpo receptor.
+
+Para determinar el índice de incumplimiento y la cuota en pesos por kilogramo, a efecto de obtener el monto del derecho para cada uno de los contaminantes básicos, metales pesados y cianuros, se procederá conforme a lo siguiente:
+
+a).- Para cada contaminante que rebase los límites señalados, a la concentración del contaminante correspondiente, se le restará el límite máximo permisible respectivo, cuyo resultado deberá dividirse entre el mismo límite máximo permisible, obteniéndose así el índice de incumplimiento del contaminante correspondiente.
+
+b).- Con el índice de incumplimiento, determinado para cada contaminante conforme al inciso anterior, se seleccionará el rango que le corresponda de la Tabla III de este Capítulo y se procederá a identificar la cuota en pesos por kilogramo de contaminante que se utilizará para el cálculo del monto del derecho.
+
+c).- Para obtener el monto a pagar por cada contaminante, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, obtenidos de acuerdo con la fracción I de este artículo, por la cuota en pesos por kilogramo que corresponda a su índice de incumplimiento, de acuerdo con la Tabla III de este Capítulo, obteniéndose así el monto del derecho.
+
+Para los contaminantes básicos, el resultado se multiplicará por 0.56 cuando la descarga sea a un cuerpo receptor tipo “A”; por 1.0 cuando la descarga sea a un cuerpo receptor tipo “B”; y por 1.2 cuando la descarga sea a un cuerpo receptor tipo “C”.
+
+(VEASE ARCHIVO ANEXO)
+
+IV.- Una vez efectuado el cálculo trimestral del derecho por cada contaminante, el contribuyente estará obligado a pagar únicamente el monto que resulte mayor para el trimestre que corresponda.
 
 ###### ARTICULO 279.
 
-Cuando las descargas de aguas residuales sean originadas por el Distrito Federal, los Estados, los Municipios, las Entidades Paraestatales o Paramunicipales, que presten servicios de agua potable y alcantarillado y que se inscriban en el registro que se llevará en la Comisión Nacional del Agua, cuando del total de la descarga, el volumen proveniente de actividades domésticas sea superior al 50%, se pagará el derecho a que se refiere el presente capítulo, por kilogramo de contaminante en la descarga, conforme a los tipos de cuerpos receptores a que se refiere el artículo 278-A de esta Ley y una vez hecha la medición de los contaminantes del agua en los términos del artículo 281 de esta Ley, se aplicarán las siguientes cuotas a la base que se indica:
-
-I.- Si la concentración de contaminantes es mayor a 150 miligramos por litro:
-
-a).- Tipo A............. $ 1.50
-
-b).- Tipo B............. $ 3.20
-
-c).- Tipo C............. $ 12.00
-
-II.- Si la concentración de contaminantes es menor o igual a 150 miligramos por litro y mayor a 75 miligramos por litro:
-
-a).- Tipo A. El resultado de multiplicar $ 0.0156 por la concentración de contaminante, menos $ 0.84
-
-b).- Tipo B............. $ 3.20
-
-c).- Tipo C............. $ 12.00
-
-III.- Si la concentración de contaminante es menor o igual a 75 miligramos por litro, y mayor a 30 miligramos por litro:
-
-a).- Tipo A............. $ 0.33
-
-b).- Tipo B. El resultado de multiplicar $ 0.05644 por la concentración de contaminante, menos $ 1.03
-
-c).- Tipo C............. $ 12.00
-
-IV.- Si la concentración de contaminante es menor o igual a 30 miligramos por litro:
-
-a).- Tipo A............. $ 0.33
-
-b).- Tipo B............. $ 0.66
-
-c).- Tipo C. La cantidad que resulte mayor entre $ 1.66 y el resultado de multiplicar $ 0.517 por la concentración de contaminante, menos $ 3.51
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 280.
 
-Las personas físicas o morales cuyo volumen de descargas de aguas residuales sea igual o inferior a 3,000 metros cúbicos en un mes calendario, podrán optar por pagar el derecho a que se refiere el presente Capítulo, aplicando las siguientes cuotas por metro cúbico de agua residual descargada, según el tipo de cuerpo receptor a que se refiere el artículo 278-A de esta Ley:
-
-I.- Tipo A............. $ 0.50
-
-II.- Tipo B............. $ 1.00
-
-III.- Tipo C............. $ 4.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 281.
 
-Los contribuyentes del derecho federal a que se refiere el presente Capítulo, terminarán el monto que deberán cubrir al aplicar las cuotas a que se refieren los artículos anteriores conforme a lo siguiente:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Deberán colocar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual que efectúen en forma permanente, cuando la descarga sea mayor a 3,000 metros cúbicos en un mes calendario.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Cuando no se pueda medir el volumen de agua descargada, como consecuencia de la descompostura del medidor por causas no imputables al contribuyente, el derecho se pagará conforme a la cantidad de metros cúbicos descargados en promedio durante los cuatro últimos trimestres.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-El pago que efectúe el contribuyente por este derecho, a falta de medidor, o cuando éste no se hubiere reparado o repuesto dentro de los tres meses siguientes a su descompostura, no podrá ser inferior al que resulte de calcular el derecho aplicando el volumen a que se hace referencia en el artículo 285 fracción I. Lo anterior sin perjuicio de las sanciones a que hubiere lugar en términos de la ley de la materia.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Cuando el caudal de descarga sea continuo y menor de 3,000 metros cúbicos en un mes calendario, el usuario podrá optar entre poner medidores o efectuar cada mes bajo su responsabilidad la medición del volumen. Dicha medición se deberá indicar bajo protesta de decir verdad en la declaración correspondiente, especificando en ésta el método utilizado.
-
-III.- Cuando la descarga sea fortuita o cuando sea intermitente inferior a 3,000 metros cúbicos por mes, el usuario aforará el volumen descargado en cada ocasión, medición que se deberá indicar bajo protesta de decir verdad en la declaración respectiva.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-IV.- Para aplicar la tarifa a que se refiere el artículo 278 de esta Ley por kilogramo de contaminante deberán:
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-a).- Aplicar métodos de análisis autorizados en normas oficiales que se efectuarán mediante el examen de muestras compuestas que resulten de la mezcla de seis muestras instantáneas tomadas en periodos continuos de 24 horas con una periodicidad de 3 a 4 horas y con una frecuencia mensual, para determinar los valores promedio de concentación (sic) de demanda química de oxígeno y de sólidos suspendidos totales de sus descargas.
-
-b).- Determinar tanto la concentración promedio mensual de demanda química de oxígeno en la descarga medida en miligramos por litro, así como la concentración promedio de sólidos suspendidos totales en la descarga medido igualmente en miligramos por litro.
-
-c).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-d).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-e).- Determinar el número de kilogramos de contaminantes que tiene la descarga mensual de aguas residuales, tanto de demanda química de oxígeno como de sólidos suspendidos totales, para lo cual las concentraciones obtenidas en el inciso b) que antecede se multiplicará por el factor de 0.001 kilogramos sobre metro cúbico y los resultados se multiplicarán por el volumen mensual descargado.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-f).- El contaminante a que se refieren los artículo (sic) 278 y 279 de esta Ley, determinado en el inciso anterior estará dado por el que resulte mayor entre las siguientes dos cantidades:
-
-1.- El peso en kilogramos de la demanda química de oxígeno que tenga la descarga, dividido entre dos;
-
-2.- El peso en kilogramos de los sólidos suspendidos totales que tenga la descarga.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-g).- En los casos en que el agua pluvial incremente la descarga de agua residual, el contribuyente podrá deducir del volumen total descargado, el que provenga de escurrimientos pluviales. En este caso, las concentraciones promedio de demanda química de oxígeno y sólidos suspendidos totales que se utilicen para la determinación del importe del derecho, en términos de lo dispuesto por el inciso b), fracción IV, de este artículo, se deberán multiplicar por el factor que resulte de dividir el volumen total de agua descargada entre el volumen de agua que provenga de los distintos usos de las actividades productivas del contribuyente.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -9813,9 +9581,9 @@ Los contribuyentes deberán obtener, previamente a la compra de los aparatos de 
 
 No estarán obligados al pago del derecho federal a que se refiere el presente Capítulo:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- Los contribuyentes que cumplan con todos los parámetros establecidos en las condiciones particulares de descarga y sólo a falta de éstas, con la Norma Oficial Mexicana.
+l.- Los contribuyentes cuyos contaminantes no rebasen los límites máximos permisibles establecidos en esta Ley o en sus condiciones particulares de descarga, fijadas en el permiso expedido por la Comisión Nacional del Agua.
 
 II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -9823,33 +9591,29 @@ III.- Quienes descarguen aguas residuales a redes de drenaje o alcantarillado qu
 
 IV.- Quienes viertan agua residual a la fuente de donde originalmente se realizó su extracción, siempre que tengan el certificado que expedirá la Comisión Nacional del Agua en el que se precisará que no sufrió degradación en su calidad ni alteración en su temperatura. Una copia de dicho certificado se deberá acompañar a la declaración del ejercicio.
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-V.- Los organismos operadores de agua potable y alcantarillado de Estados, Municipios, Entidades Paraestatales o Paramunicipales, por las descargas provenientes de poblaciones rurales iguales o inferiores a 2,500 habitantes, de acuerdo al resultado del último Censo General de Población.
+V.- Las poblaciones rurales de hasta 2,500 habitantes y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VI.- Por las descargas provenientes del riego agrícola.
+VI.- Quienes descarguen aguas residuales provenientes del riego agrícola.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 282-A.
 
-No pagarán el derecho a que se refiere este Capítulo, los contribuyentes que tengan en proceso de realización el programa constructivo o la ejecución de las obras de control de calidad de sus descargas para cumplir con la normatividad respectiva en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, hasta la conclusión de la obra, misma que no podrá exceder de dos años a partir de la fecha en que la Comisión Nacional del Agua autorice el programa.
+No pagarán el derecho a que se refiere este Capítulo, aquellos usuarios cuyas descargas contengan contaminantes que rebasen los límites máximos permisibles establecidos en esta Ley, siempre y cuando presenten ante la Comisión Nacional del Agua, un programa de acciones y cumplan con el mismo, para mejorar la calidad de sus aguas residuales, ya sea mediante cambios en sus procesos productivos o para el control o tratamiento de sus descargas, a fin de no rebasar dichos límites, y mantengan o mejoren la concentración de sus descargas.
 
-Cuando con anterioridad, la Comisión Nacional del Agua haya autorizado programa para la ejecución de obras de control de calidad de las descargas, el plazo a que se refiere el primer párrafo, empezará a partir de la fecha de expedición de la autorización del programa.
+Para los efectos del párrafo anterior, la Comisión Nacional del Agua expedirá y publicará en el Diario Oficial de la Federación, un instructivo para la presentación y seguimiento del programa de acciones referido y vigilará el cumplimiento en el avance de las acciones comprometidas por los usuarios. En estos casos, el contribuyente estará obligado a efectuar el cálculo de su pago y a presentar sus declaraciones trimestrales conforme a lo establecido en esta Ley, sin enterar el pago del derecho, señalando en su declaración correspondiente la siguiente leyenda: “Sin pago de conformidad con lo establecido en el párrafo primero del artículo 282-A, de la Ley Federal de Derechos”.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los meses de julio y enero.
 
-Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que se hace referencia, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en este artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
+Los contribuyentes que no cumplan con los avances programados, estarán obligados a efectuar el pago de los derechos que corresponden a este Capítulo, generados a partir del 1o. de enero de 1997, así como de aquéllos que se hubieren generado con anterioridad, con los accesorios de Ley correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+Si al término del programa los contribuyentes cumplen con los objetivos previstos, tendrán derecho a la devolución de los pagos que hubieren efectuado, sin el pago de la actualización y los recargos generados a su favor, por incumplimiento de las metas parciales.
 
-A las personas que les fue autorizado su programa para la ejecución de las obras para el control de la calidad de sus descargas, y cumplieron con los avances programados, podrán gozar de la exención del pago del derecho por un periodo adicional hasta de seis meses.
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-Para el caso del Distrito Federal, entidades federativas, municipios, organismos paraestatales, paramunicipales o empresas concesionarias que presten el servicio de agua potable y alcantarillado, el periodo de exención del pago del derecho, no podrá exceder del término total de cuatro años.
+A partir del 1o. de enero de 1997 y hasta la fecha de vencimiento para la ejecución de los programas para el control de la calidad de sus descargas, los usuarios que hayan presentado su programa de acciones no deberán descargar concentraciones de contaminantes mayores de las que descargaron durante los últimos tres años, o menos, si empezaron a descargar posteriormente. Aquellos usuarios que no cumplan con esta disposición, estarán obligados al pago del derecho a que se refiere este Capítulo.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -9858,6 +9622,44 @@ Para el caso del Distrito Federal, entidades federativas, municipios, organismos
 Cuando las personas físicas o morales para el cumplimiento de la obligación lega de tratar sus aguas residuales, contraten o utilicen los servicios de empresas que traten aguas residuales, estas últimas tendrán que cumplir con lo dispuesto en este Capítulo, siempre y cuando utilicen bienes nacionales como cuerpos receptores de las descargas de aguas residuales que traten.
 
 Las personas físicas o morales que contraten o utilicen los servicios mencionados, serán solidariamente responsables con las empresas que traten aguas residuales, por el pago del derecho.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 282-C.
+
+Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquéllos que en sus procesos productivos han realizado acciones para mejorar la calidad de sus descargas y éstas sean de una calidad superior a la establecida en los límites máximos permisibles señalados en esta Ley, podrán gozar del descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, de acuerdo con lo indicado en la Tabla IV de este Capítulo, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
+
+TABLA IV
+
+DESCUENTO EN EL PAGO DEL DERECHO POR USO O APROVECHAMIENTO DE AGUAS NACIONALES.
+
+Calidad Establecida para Tipo de Calidad de la Descarga % de Descuento
+
+Descargas a Cuerpos
+
+Receptores Tipo
+
+A B 12
+
+A C 18
+
+A NOM-127-SSA1-1994 44
+
+B C 6
+
+B NOM-127-SSA1-1994 32
+
+C NOM-127-SSA1-1994 26
+
+Este porcentaje de descuento, se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley, sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar, bajo protesta de decir verdad, los resultados de la calidad del agua.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 282-D.
+
+Los usuarios que inicien operaciones que originen descargas de aguas residuales y aquellos que incrementen la carga de contaminantes en su descarga, como consecuencia de la realización de una ampliación a su planta productiva, con posterioridad al 1o. de enero de 1997, no deberán rebasar los límites máximos permisibles de contaminantes establecidos en este Capítulo. En caso contrario, deberán pagar el derecho a que refiere el mismo.
+
+Asimismo, los usuarios que cuenten con planta de tratamiento, cuando su descarga no cumpla con los límites máximos permisibles establecidos en esta Ley, están obligados a operar y mantener dicha infraestructura de saneamiento. Los que se encuentren en este supuesto y que descarguen una calidad de agua superior a la que están obligados en esta Ley, podrán gozar del beneficio citado en el artículo 282-C de este Capítulo, si es el caso. Si el usuario deja de operar la infraestructura, pagará el derecho a que se refiere este Capítulo.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -9903,15 +9705,15 @@ La determinación presuntiva a que se refiere este artículo procederá independ
 
 Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el derecho considerando indistintamente:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I.- El volumen de agua residual descargada que aparezca en el permiso de descarga respectivo, o en su defecto, el que corresponda al volumen señalado en el título de asignación, concesión, autorización o permiso para el uso o aprovechamiento de aguas nacionales que originan la descarga, y a falta de éste, se seguirá el procedimiento establecido en el artículo 229, fracción III.
+I.- El volumen de agua residual que aparezca en el permiso de descarga respectivo, o en su defecto, el que corresponda al volumen señalado en el título de asignación, concesión, autorización o permiso para la explotación, el uso o aprovechamiento de aguas nacionales que originan la descarga, y a falta de éste, se seguirá el procedimiento establecido en el artículo 229, fracción III.
 
-II.- El cálculo que efectúe la Comisión Nacional del Agua, aplicando el procedimiento que conforme a la presente Ley debe efectuar el contribuyente para medir el promedio de la cantidad y calidad de la descarga de agua residual para efectos del pago del derecho a que se refiere el presente Capítulo.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+II.- El cálculo que efectúe la Comisión Nacional del Agua, aplicando el procedimiento que conforme a la presente Ley, debe efectuar el contribuyente para medir la descarga de agua residual para efectos del pago del derecho a que se refiere el presente Capítulo.
 
-III.- El cálculo que resulta de aplicar como factor de contaminación, una concentración de 3,000 miligramos por litro de sólidos suspendidos totales o demanda química de oxígeno.
+III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 IV.- La información que se proporcione sobre el particular por las autoridades fiscales o por las autoridades competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas facultades.
 
@@ -9919,11 +9721,11 @@ V.- La cuantificación del daño ecológico a los bienes nacionales a que se ref
 
 VI.- Los medios indirectos de la investigación económica o de cualquier otra clase.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 En el caso de descargas fortuitas a que se refiere la fracción V del artículo anterior se podrá utilizar como monto del derecho respectivo, la cuantificación del daño a que se refiere la fracción V de este artículo, sin deducción alguna.
 
-La Secretaría de Hacienda y Crédito Público determinará el derecho y exigirá su pago con base en la determinación que efectúe la Comisión Nacional del Agua, en los términos del presente artículo.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+La Secretaría de Hacienda y Crédito Público exigirá su pago con base en la determinación del derecho que efectúe la Comisión Nacional del Agua, en los términos del presente artículo.
 
 ###### ARTICULO 286.
 
@@ -11376,3 +11178,141 @@ Para efectos de lo dispuesto por el artículo anterior, las cuotas de los derech
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+Disposiciones de Vigencia Anual de la Ley Federal de Derechos
+
+Artículo Décimo Noveno.- Durante el año de 1997, se aplicarán en materia de derechos las siguientes disposiciones:
+
+I.- Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos se incrementarán:
+
+a).- A partir del 1o. de enero de 1997 con el factor de 1.0840, y
+
+b).- En el mes de julio de 1997 se incrementarán en los términos de lo dispuesto en el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
+
+II.- No se incrementarán en el mes de enero de 1997, con el factor de 1.0840 las cuotas de los derechos establecidos en el Artículo Décimo Octavo de la presente Ley.
+
+Las cuotas a que se refiere esta fracción se incrementarán en el mes de julio de 1997, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+III.- Las cuotas de los derechos a que se refiere el Capítulo II del Título I de la Ley Federal de Derechos, se incrementarán conforme a lo dispuesto en el inciso a) de la fracción I de este artículo, excepto las correspondientes a los derechos contenidos en el Artículo Décimo Octavo de la presente Ley.
+
+Las cuotas señaladas en esta fracción no se incrementarán en el mes de julio de 1997, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+IV.- Las cuotas de los derechos a que se refiere el Capítulo II del Título I de la Ley Federal de Derechos, se ajustarán para su pago a partir del día 1o. de enero de 1997, a múltiplos de $ 5.00.
+
+Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste se disminuirá a la unidad inmediata anterior.
+
+V.- Los derechos a que se refiere el artículo 3o., séptimo párrafo de la Ley Federal de Derechos son:
+
+a).- Los prestados por oficinas de la Federación en el extranjero.
+
+b).- Por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
+
+VI.- La cuota del derecho establecido en el artículo 19-G no se incrementará en el mes de julio de 1997, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+VII.- Los valores inscritos durante el ejercicio fiscal de 1996 que tengan una vigencia menor o igual a un año, cuyo vencimiento se presente durante el ejercicio fiscal de 1997, no pagarán derechos por concepto de inspección y vigilancia a que se refiere el artículo 29-P de la Ley Federal de Derechos, en el año de 1997.
+
+VIII.- Las cuotas de los derechos establecidos en las fracciones I a IX, del Apartado A, del artículo 223 de la Ley Federal de Derechos, no se incrementarán en el mes de julio de 1997, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+IX.- El pago del derecho de caza deportiva a que se refiere el artículo 238 de esta Ley, por la temporada 1997-1998, se realizará conforme a las cuotas vigentes al inicio de dicha temporada.
+
+X.- Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, tratándose de los derechos por el uso o aprovechamiento de aguas nacionales que se utilicen en la industria minera, se pagará el 25% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la Ley.
+
+Para la aplicación de la presente disposición se entiende por industria minera toda actividad enfocada a la perforación y excavación subterránea o a cielo abierto para la obtención de minerales en bruto u otros materiales pétreos.
+
+XI.- Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, el pago de los derechos por el uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 50% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la Ley.
+
+XII.- Para los efectos de lo dispuesto en el artículo 223, Apartado A, de la Ley Federal de Derechos, cuando el uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel se realice en las zonas de disponibilidad 7, 8 y 9, se pagará el 80% de las cuotas establecidas en dicho Apartado, para cada zona.
+
+XIII.- Por el uso o aprovechamiento de las aguas nacionales superficiales que se utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+XIV.- Por el uso o aprovechamiento de las aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+Disposiciones Transitorias de la Ley Federal de Derechos
+
+Artículo Vigésimo.- Para los efectos del Artículo Décimo Octavo de esta Ley se aplicarán las siguientes disposiciones:
+
+I.- Para los efectos de lo dispuesto en el artículo 282-A, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua su programa de acciones para no rebasar los límites máximos permisibles señalados en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente Tabla:
+
+FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A
+
+Fecha límite Fecha límite
+
+Tipo de descarga para presentar para no
+
+programa de rebasar los
+
+acciones límites
+
+máximos
+
+permisibles
+
+Descargas cuya concentración 30 de junio 1o. de enero
+
+de contaminantes básicos, de 1997 del 2000
+
+rebasen en más de 5 veces
+
+el límite máximo permisible
+
+señalado en la Tabla I del
+
+## Título II, de la Ley. Federal de Derechos
+
+Descargas municipales (excepto las previstas en los dos supuestos anteriores):
+
+Poblaciones de más 30 de junio 1o. de enero
+
+de 50,000 habitantes de 1997 del 2000
+
+Poblaciones de entre 20,001 y 31 de diciembre 1o. de enero
+
+50,000 de 1998 del 2005
+
+Poblaciones de entre 2,501 31 de diciembre 1o. de enero
+
+y 20,000 de 1999 del 2010
+
+Descargas no incluidas en las dos categorías anteriores:
+
+Con Demanda Bioquímica 30 de junio 1o. de enero
+
+de Oxígeno Total y/o Sólidos de 1997 del 2000
+
+Suspendidos Totales mayor
+
+o igual a 3 toneladas sobre día
+
+Con Demanda Bioquímica 31 de diciembre 1o. de enero
+
+de Oxígeno Total y/o Sólidos de 1998 del 2005
+
+Suspendidos Totales mayor
+
+a 1.2 toneladas sobre día pero
+
+menor a 3 toneladas sobre día
+
+Con Demanda Bioquímica 31 de diciembre 1o. de enero
+
+de Oxígeno Total y/o Sólidos de 1999 del 2010
+
+Suspendidos Totales igual o
+
+menor a 1.2 toneladas sobre día
+
+II.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
+
+Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieran considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que hace referencia el artículo 282-A de la Ley Federal de Derechos vigente hasta el 31 de diciembre de 1996, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en dicho artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
+
+III.- No será aplicable en favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en las fracciones I y II de este Artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
+
+IV.- El procedimiento de muestreo a que se refiere el último párrafo del artículo 278-B de la Ley Federal de Derechos, y el instructivo para la presentación y seguimiento del programa de acciones a que se refiere el segundo párrafo del artículo 282-A de la misma, serán publicados, por la Comisión Nacional del Agua, en el Diario Oficial de la Federación, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+V.- El artículo 12 de la Ley Federal de Derechos entrará en vigor a partir del 1o. de febrero de 1997.
+
+## Transitorio
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
