@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2004-12-27"
+last_updated: "2005-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTION DE CUENCAS PARA EL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -367,7 +367,9 @@ VII. Emitir en coordinación con la Secretaría de Urbanismo y Medio Ambiente, l
 
 VIII. Planear, estudiar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar las obras hidráulicas, en términos de las disposiciones normativas aplicables, en coordinación con la Federación y los municipios;
 
-IX. Apoyar a los organismos operadores municipales e intermunicipales en la formulación y actualización de tarifas para el cobro de los servicios públicos;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+
+IX. Apoyar a los organismos operadores municipales e intermunicipales en la formulación y actualización de tarifas para el cobro de los servicios públicos, que propongan al Ayuntamiento;
 
 X. Prestar asesoría técnica, previa solicitud de los ayuntamientos del Estado, en materia de prestación de servicios públicos;
 
@@ -829,7 +831,11 @@ XII. Pagar oportunamente las contribuciones, derechos, aprovechamientos y produc
 
 XIII. Elaborar los programas y presupuestos anuales de ingresos y egresos derivados de la prestación de los servicios públicos;
 
-XIV. Establecer los derechos relativos a los servicios públicos, para su inclusión en la Ley de Ingresos para el Estado, y la publicación de las cuotas y tarifas de los organismos operadores municipales;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+
+XIV. Aprobar, durante el mes de diciembre de cada año, a propuesta del organismo operador, las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio, ordenando su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en los estrados de las oficinas municipales y de los organismos operadores; también podrán difundirse, en su caso en otros medios que permita a los usuarios su conocimiento.
+
+En el supuesto de que durante el mes de diciembre del último año de la administración municipal saliente, no se haya aprobado el acuerdo de cabildo a que se refiere el párrafo anterior, la administración municipal entrante podrá, durante los meses de enero y febrero del año al que correspondan las cuotas y tarifas, aprobar y mandar publicar el acuerdo respectivo.
 
 XV. Ordenar y ejecutar la suspensión de los servicios públicos, cuando proceda;
 
@@ -905,11 +911,15 @@ IV. Formular y mantener actualizado el inventario de bienes y recursos que integ
 
 V. Elaborar estudios necesarios que fundamenten y permitan el establecimiento de cuotas y tarifas apropiadas para el cobro de los servicios públicos, con base en la aplicación de las fórmulas que establezca la Comisión, estas fórmulas establecerán los parámetros e interrelación para el cálculo de las tarifas medias de equilibrio;
 
-VI. Establecer las cuotas y tarifas por los servicios de agua potable, alcantarillado, saneamiento y manejo de lodos, así como requerir, cobrar o gestionar su cobro en los términos de Ley;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+
+VI. Requerir, cobrar o gestionar su cobro en los términos de Ley;
 
 VII. Ordenar y ejecutar la suspensión o restricción de los servicios públicos por falta de pago y en los demás casos que se señalan en la presente Ley, cuando proceda;
 
-VIII. Formular las tarifas y cuotas a que se sujetará al público de la conducción, distribución, potabilización, suministro o transportación de agua potable que realicen los particulares en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+
+VIII. Proponer al Ayuntamiento las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, suministro o transportación de agua potable y manejo de lodos, de acuerdo con los costos reales del servicio;
 
 IX. Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo;
 
@@ -1009,7 +1019,9 @@ I. Establecer en el ámbito de su competencia, los lineamientos y políticas en 
 
 II. Aprobar el Proyecto Estratégico de Desarrollo del organismo operador municipal que le presente el Director y supervisar que se actualice periódicamente;
 
-III. Aprobar las cuotas y tarifas, de conformidad con lo establecido en la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2005)</small>
+
+III. Proponer al Ayuntamiento las cuotas y tarifas, de conformidad con lo establecido en la presente Ley;
 
 IV. Resolver sobre los asuntos que someta a su consideración el Director;
 
@@ -1081,7 +1093,7 @@ II. Ordenar que se elabore el Proyecto Estratégico de Desarrollo del organismo 
 
 III. Ejecutar el Proyecto Estratégico de Desarrollo aprobado por la Junta de Gobierno Municipal;
 
-IV. Tramitar la publicación de las cuotas y tarifas autorizadas por la Junta de Gobierno Municipal, en el Periódico Oficial del Estado;
+IV. (DEROGADA, P.O. 25 DE FEBRERO DE 2005)
 
 V. Coordinar las actividades técnicas, administrativas y financieras del organismo operador municipal para lograr una mayor eficiencia y eficacia en su funcionamiento;
 
@@ -1635,11 +1647,11 @@ V. El pago de los servicios ambientales; y,
 
 VI. La orientación del desarrollo urbano e industrial.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 113.
 
-Las cuotas y tarifas se determinarán y actualizarán por el prestador de los servicios con base en la aplicación de las fórmulas que defina la Comisión. Estas fórmulas establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio.
-
-Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos derivados de la operación, el mantenimiento y administración de los sistemas; la rehabilitación y mejoramiento de la infraestructura existente; la amortización de las inversiones realizadas; los gastos financieros de los pasivos; y las inversiones necesarias para la expansión de la infraestructura y servicios ambientales. Las fórmulas deberán reflejar el efecto que en su caso, tengan en las tarifas medias de equilibrio las aportaciones que hagan los Gobiernos Federal, Estatal y Municipal, o cualquier otra instancia pública, privada o social. Las fórmulas también deberán tomar en cuenta explícitamente el efecto de la eficiencia física, comercial, operativa y financiera de los prestadores de los servicios.
+Las cuotas y tarifas que se propongan al Ayuntamiento, se determinarán y actualizarán por el prestador de los servicios con base en la aplicación de las fórmulas que defina la Comisión. Estas fórmulas establecerán los parámetros y su interrelación para el cálculo de las tarifas medias de equilibrio.
 
 ###### Artículo 114.
 
@@ -1671,9 +1683,11 @@ El prestador de los servicios podrá determinar una estructura tarifaria que tom
 
 La Comisión vigilará la correcta aplicación de las fórmulas y aprobará las tarifas medias calculadas conforme al procedimiento establecido en el artículo anterior, así como la congruencia entre las tarifas medias y la estructura tarifaria correspondiente.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 118.
 
-Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los prestadores de los servicios establezcan con base en ellas, se publicarán en el Periódico Oficial del Estado.
+Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los Ayuntamientos aprueben con base en ellas, se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### Artículo 119.
 
@@ -1982,3 +1996,21 @@ PRESIDENTE.- DIP. ARMANDO OCTAVIO BALLINAS MAYÉS.- SECRETARIO.- DIP. AMADEO BOL
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 13 trece días del mes de diciembre del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE FEBRERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos del Estado, que a la fecha de entrada en vigor del presente Decreto, no hayan aprobado, expedido y mandado publicar el acuerdo de Cabildo mediante el cual se establezcan las cuotas y tarifas por el servicio de agua potable, alcantarillado y saneamiento, para el ejercicio fiscal de 2005, podrán hacerlo hasta el 31 de marzo del año en curso.
+
+Las cuotas y tarifas de agua potable, alcantarillado y saneamiento, aprobadas por los ayuntamientos del Estado para el año 2005, con anterioridad a la entrada en vigor del presente Decreto, continuarán aplicándose por este ejercicio.
+
+###### ARTÍCULO TERCERO.
+
+Cuando la Ley de Ingresos de los Municipios del Estado de Michoacán de Ocampo para el Ejercicio Fiscal del Año 2005 y las leyes de ingresos de los municipios de Hidalgo, Chavinda, Cotija, La Piedad, Lázaro Cárdenas, Morelia, Sahuayo, Uruapan, Zamora y Zitácuaro, Michoacán, para el Ejercicio Fiscal del Año 2005, refieran a la Ley del Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, deberá entenderse indistintamente a ésta o a la Ley de Agua y Gestión de Cuencas del Estado de Michoacán de Ocampo, según hayan sido aprobadas las cuotas y tarifas de los servicios.
