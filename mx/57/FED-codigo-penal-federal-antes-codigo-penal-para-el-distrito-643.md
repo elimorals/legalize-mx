@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1931-08-14"
+last_updated: "1938-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1938.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -263,7 +263,7 @@ Las penas y medidas de seguridad son:
 
 1.- Prisión.
 
-2.- Relegación.
+2.- (DEROGADO, D.O.F. 12 DE MAYO DE 1938)
 
 3.- Reclusión de locos, sordomudos, degenerados o toxicómanos.
 
@@ -299,9 +299,11 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+
 ###### ARTICULO 25.
 
-La prisión podrá ser desde tres días hasta treinta años, en los lugares o establecimientos que fijen las resoluciones judiciales, los reglamentos o las autoridades administrativas, según los casos.
+La prisión será de tres días a treinta años y se extinguirá en los lugares o establecimientos que, al efecto, designe el Departamento de Prevención Social.
 
 ###### ARTICULO 26.
 
@@ -311,7 +313,7 @@ Los procesados sujetos a prisión preventiva y los reos políticos, serán reclu
 
 ###### ARTICULO 27.
 
-La relegación en colonias penales se aplicará a los delincuentes declarados judicialmente habituales o cuando expresamente lo determine la ley.
+(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
 
 ### CAPITULO IV. Confinamiento
 
@@ -565,17 +567,17 @@ A los responsables de tentativas punibles, se les aplicará, a juicio del juez, 
 
 En caso de acumulación se impondrá la sanción del delito mayor, que podrá aumentarse hasta la suma de las sanciones de los demás delitos, sin que nunca pueda exceder de treinta años, teniendo en cuenta las circunstancias del artículo 52.
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+
 ###### ARTICULO 65.
 
-A los reincidentes se les aplicará la sanción que debiera imponérseles por el último delito cometido, aumentada desde un tercio, hasta dos tercios de su duración a juicio del juez, quien tendrá facultad de cambiar la prisión por relegación. Si la reincidencia fuera por delitos de la misma especie, el aumento será de los dos tercios hasta otro tanto de la duración de la pena.
+A los reincidentes se les aplicará la sanción que debería imponérseles por el último delito cometido, aumentándola desde un tercio hasta dos tercios de su duración a juicio del Juez. Si la reincidencia fuera por delitos de la misma especie, el aumento será desde dos tercios hasta otro tanto de la duración de la pena. Cuando resulte una pena mayor que la suma de las correspondientes a la suma del primero y segundo delitos, se aplicará esta suma.
 
-Cuando resulte una pena mayor que la suma de las correspondientes al primero y al segundo delitos, se aplicará esa suma.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
 
 ###### ARTICULO 66.
 
-La sanción de los delincuentes habituales será de relegación cuando la ley lo disponga y no podrá bajar de la que se les impondría como simples reincidentes, de acuerdo con lo dispuesto en el artículo anterior.
+La sanción correspondiente a los delincuentes habituales, será el doble de la que, conforme al artículo anterior, corresponda a los simples reincidentes.
 
 ### CAPITULO VI. Substitución y conmutación de sanciones
 
@@ -599,19 +601,15 @@ Cuando el juez estime que ni aun con la garantía queda asegurado el interés de
 
 ###### ARTICULO 70.
 
-La substitución se hará por los jueces y tribunales, al dictar la sentencia definitiva.
+(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
 
 ###### ARTICULO 71.
 
-La substitución se hará en los casos siguientes, siempre que la sanción que corresponda al reo exceda de dos años de prisión:
-
-I.- Cuando la condena sea por vagancia, mendicidad, fabricación o circulación de moneda falsa;
-
-II.- Cuando se trate de reincidentes.
+(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
 
 ###### ARTICULO 72.
 
-En los casos del artículo anterior, la sanción de prisión se substituirá por la de relegación.
+(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
 
 ###### ARTICULO 73.
 
@@ -981,7 +979,7 @@ VII.- Al que oculte o auxilie a los espías o exploradores del enemigo, sabiendo
 
 VIII.- A los que en guerra extranjera tomen las armas contra México, sirviendo en las filas enemigas, con excepción de los que figuren como tropa, a los que se aplicarán de dos a cuatro años de prisión;
 
-IX.- Al que proporcione al enemigo los medios de invadir el territorio nacional, le facilite la entrada a alguna fortaleza, plaza o ciudad fortificada, o a otro puesto militar, o le entregue o haga entregar éste o aquéllos, un almacén de municiones o de víveres, o alguna embarcación perteneciente a México;
+IX..- Al que proporcione al enemigo los medios de invadir el territorio nacional, le facilite la entrada a alguna fortaleza, plaza o ciudad fortificada, o a otro puesto militar, o le entregue o haga entregar éste o aquéllos, un almacén de municiones o de víveres, o alguna embarcación perteneciente a México;
 
 X.- Al que voluntariamente proporcione al enemigo hombres para el servicio militar, dinero, medios de transporte, armas, municiones de boca o de guerra, o impida que las tropas mexicanas reciban estos auxilios;
 
@@ -1537,6 +1535,8 @@ Las drogas enervantes, las substancias, aparatos y demás objetos que se emplear
 
 ### CAPITULO II. Vagos y malvivientes
 
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+
 ## TITULO DECIMO. Delitos cometidos por funcionarios públicos
 
 ### CAPITULO III. Juegos prohibidos
@@ -2069,11 +2069,11 @@ III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualq
 
 ###### ARTICULO 255.
 
-Se aplicará la sanción de tres meses a un año de relegación a los que reúnan las circunstancias siguientes:
+Se aplicará prisión de dos a cinco años, a los delincuentes que reúnan las circunstancias siguientes:
 
 I.- No dedicarse a un trabajo honesto sin causa justificada, y
 
-II.- Tener malos antecedentes comprobados por datos de los archivos judiciales o de las oficinas policíacas de investigación. Se estimarán como malos antecedentes para los efectos de este artículo ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de prostitutas, o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador y sin licencia.
+II.- Tener malos antecedentes comprobados por datos de los archivos judiciales o de las oficinas policíacas de investigación. Se estimarán como malos antecedentes para los efectos de este artículo, ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de prostitutas, o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador y sin licencia.
 
 ###### ARTICULO 256.
 
@@ -3078,3 +3078,13 @@ Sufragio Efectivo. No Reelección.
 México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación, Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 12 DE MAYO DE 1938.
+
+EL DECRETO DE REFORMAS, CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SE TRANSCRIBE EL ARTICULO 4° DEL PRESENTE DECRETO.
+
+###### ARTICULO 4°.
+
+Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
