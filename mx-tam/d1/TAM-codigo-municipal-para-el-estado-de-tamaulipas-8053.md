@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1993-12-11"
+last_updated: "1994-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -427,13 +427,15 @@ IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al
 
 X.- Administrar la hacienda municipal con arreglo a la ley y establecer un órgano de control y evaluación del gasto público municipal.
 
-XI.- Formular y remitir al Congreso, por conducto del Ejecutivo, para su estudio y aprobación, el proyecto de Ley de Ingresos del Municipio en la segunda quincena del mes de septiembre de cada año.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1994)</small>
+
+XI.- Formular y remitir al Congreso, por conducto del Ejecutivo, para su estudio y aprobación, el proyecto de Ley de Ingresos del Municipio en los primeros diez días del mes de noviembre de cada año.
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 1994)</small>
 
-XIII.- Enviar anualmente en la primera quincena del mes de febrero al Congreso, por conducto del Ejecutivo, las cuentas y comprobantes de recaudación y aplicación de los fondos públicos en el año inmediato anterior, así como las cuentas e informes contables y financieros mensuales dentro de los primeros quince días hábiles del mes siguiente.
+XIII.- Enviar anualmente en la segunda quincena del mes de marzo al Congreso, por conducto del Ejecutivo, las cuentas y comprobantes de recaudación y aplicación de los fondos públicos en el año inmediato anterior, así como las cuentas e informes contables y financieros dentro de los primeros quince días hábiles del mes siguiente. Las Cuentas Públicas correspondientes al último año de la elección constitucional de Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre.
 
 XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. Las remuneraciones al personal no excederán de los límites señalados en el Título III de este Código.
 
@@ -2682,3 +2684,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE DICIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
