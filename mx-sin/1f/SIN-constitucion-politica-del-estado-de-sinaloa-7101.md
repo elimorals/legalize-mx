@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1983-06-22"
+last_updated: "1984-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1984.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -199,7 +199,9 @@ III. En los Distritos fiscales que la Ley General de Hacienda del Estado determi
 
 IV. En los Distritos electorales que designe la Ley Orgánica respectiva.
 
-## TITULO V. DEL REGIMEN MUNICIPAL
+## TITULO V. DEL MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DE LA DIVISION DEL PODER PUBLICO
 
@@ -413,11 +415,11 @@ VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, s
 
 A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
-(B.) Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
+(B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
 C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
-(D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+(D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -449,7 +451,9 @@ XVIII. Recibir la protesta constitucional a los Diputados, al Gobernador y Magis
 
 XIX. Conceder licencias y admitir las renuncias a los Diputados y empleados de su propia dependencia; al Gobernador y a los Magistrados del Supremo Tribunal de Justicia.
 
-XX. Conocer de las acusaciones por delitos comunes y oficiales de los funcionarios que gocen de fuero, en los términos que la ley prescriba.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
+XX. Conocer de las imputaciones formuladas mediante juicio político en contra de los servidores públicos señalados en el Título VI de esta Constitución, actuando como Organo de acusación si resultare procedente presentar ésta; y emitir declaratoria de si ha lugar o no a proceder penalmente en contra de los servidores públicos a que se refiere el citado Título, tratándose de delitos, erigiéndose al efecto en jurado de acusación.
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
@@ -927,7 +931,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1968)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 90.
 
@@ -963,17 +967,19 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un cuerpo denominado 
 
 El Supremo Tribunal de Justicia se compondrá de 7 siete Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por 3 tres Magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 3 tres Magistrados Suplentes, quienes solo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario, en los casos previstos por la Ley.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 95.
 
-Los Magistrados del Supremo Tribunal de Justicia sólo podrán ser Privados de sus cargos, cuando observen mala conducta, en los términos del Artículo 98, o previo el juicio de responsabilidad correspondiente.
+Los Magistrados del Supremo Tribunal de Justicia sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en el Título VI de esta Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 Son causas de retiro forzoso de los Magistrados del Supremo Tribunal de Justicia:
 
-I. Haber cumplido 70 años de edad;
+I.- Haber cumplido 70 años de edad;
 
-II. Padecer incapacidad física incurable, o mental aún cuando fuece (sic) parcial o transitoria.
+II.- Padecer incapacidad física incurable, o mental aún cuando fuece (sic) parcial o transitoria.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -995,15 +1001,9 @@ IV. Ser de notoria buena conducta y haberla observado intachable públicamente.
 
 Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado erigido en Colegio Electoral. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos las dos terceras partes del número total de Diputados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
-
 ###### Art. 98.
 
-El Gobernador del Estado podrá pedir al Congreso la destitución, por mala conducta, de cualquiera de los Magistrados del Supremo Tribunal, y a éste, por igual motivo, la de los Jueces del orden común y Secretarios del Tribunal y de las Salas. Si el Congreso del Estado, o el Supremo Tribunal de Justicia en Pleno, en su caso, por mayoría absoluta de votos declara justificada la petición, el funcionario acusado quedará privado desde luego de su cargo. La petición irá fundada en instructivo formado al efecto
-
-En el Congreso, la destitución se acordará en votación secreta, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de Diputados.
-
-El Gobernador del Estado, antes de pedir la destitución, el Congreso o el Supremo Tribunal, en sus respectivos casos, antes de acordarla, deberán oír al funcionario acusado para, que puedan apreciar en conciencia la justificación de tal petición.
+(DEROGADO, P.O. 27 DE ENERO DE 1984)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
@@ -1023,11 +1023,13 @@ El cargo de Magistrado del Supremo Tribunal de Justicia del Estado, sólo es ren
 
 Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas por el Supremo Tribunal de Justicia; pero las que excedan de ese tiempo, las concederá el Congreso, o en su defecto, la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 102.
 
-Los funcionarios del Poder Judicial del Estado no podrán aceptar ni desempeñar otro cargo, empleo o comisión de la Federación, del Estado, de los Municipios o de particulares, por el que se disfrute sueldo, sin antes separarse de sus cargos mediante licencia, sin goce de sueldo, obtenida con arreglo a la Ley.
+Los servidores públicos del Poder Judicial del Estado no podrán aceptar ni desempeñar otro cargo, empleo o comisión de la Federación, del Estado, de los Municipios ni de la Administración Pública Paraestatal o de particulares, por el que disfruten sueldo, sin antes separarse de sus cargos mediante licencia sin goce de sueldo, obtenida con arreglo a la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 La prohibición que antecede no comprende:
 
@@ -1043,37 +1045,31 @@ III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Prime
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 104.
 
 La Ley Orgánica del Poder Judicial reglamentará el funcionamiento del Pleno y de las Salas del Supremo Tribunal de Justicia y de los Juzgados, conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal en PLENO:
 
-I. Conocer en única instancia de las causas por delitos del orden común contra los altos funcionarios del Estado, previa la declaratoria a que se refiere el Artículo 135.
+I. Conocer como jurado de sentencia en el juicio politico instaurado contra los servidores públicos señalados en el Título VI de esta Constitución.
 
-II. Conocer como jurado de sentencia, de las acusaciones por delitos oficiales contra los altos funcionarios del Estado.
+II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas por la Legislatura Local en contra del Gobernador del Estado, por la comisión de delitos.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1968)</small>
+III. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí.
 
-III. Declarar si hay (sic) lugar a formación de causa contra los Jueces de Primera Instancia Secretarios del Supremo Tribunal y de las Salas.
+IV. Conocer de las competencias que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos distritos judiciales;
 
-IV. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí;
+V. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sean absolutas, temporales o relativas a determinado negocio, conforme al Artículo 94;
 
-V. Conocer de las competencias que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos Distritos Judiciales.
+VI. Nombrar a los jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal de las Salas y de los Juzgados;
 
-VI. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sea absolutas, temporales o relativas a determinado negocio, conforme al Artículo 99;
+VII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1968)</small>
+VIII. Nombrar cuando lo estime conveniente, Visitadores de Juzgados;
 
-VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal de las Salas y de los Juzgados.
+IX. Expedir los Reglamentos Internos del Supremo Tribunal y de los Juzgados, y,
 
-VIII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
-
-IX. Nombrar, cuando lo estime conveniente, Visitadores de Juzgados;
-
-X. Expedir los Reglamentos Internos del Supremo Tribunal y de los Juzgados, y
-
-XI. Las demás que le confieran las Leyes.
+X. Las demás que le confieran las leyes.
 
 ###### Art. 105.
 
@@ -1081,7 +1077,7 @@ El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con 
 
 ###### Art. 106.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en Pleno y durarán tres años en el ejercicio de su encargo, al término de los cuales, si fueren reelectos solo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con el Artículo 98, o previo juicio de responsabilidad correspondiente. Las disposiciones de este Artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en Pleno y durarán tres años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados sólo podrán ser privados de sus puestos conforme a las prevenciones del Título VI de esta Constitución. Las disposiciones de este Artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -1117,237 +1113,361 @@ Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento, en pleno
 
 Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad, y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por autoridades del Estado o de los Municipios para lo cual podrán crearse Tribunales Administrativos, dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
 
-### CAPITULO I. DISPOSICIONES DIVERSAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
+### CAPITULO I. DISPOSICIONES GENERALES
 
-## TITULO VI. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
+### CAPITULO II. DEL JUICIO POLITICO
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
+### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
+### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
+## TITULO VI. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 110.
 
-Cada Municipalidad estará representada y administrada por un Ayuntamiento que residirá en la cabecera de la jurisdicción, integrado por Regidores cuyo número se fijará como la ley lo disponga, siendo uno de ellos el Presidente Municipal.
+Los Municipios tendrán personalidad jurídica y patrimonio propios y serán representados y administrados por un Ayuntamiento de elección popular directa, que residirá en la Cabecera Municipal. No habrá ninguna autoridad intermedia entre el Ayuntamiento y los Poderes del Estado.
+
+Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas los Síndicos y Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 111.
 
-Los Ayuntamientos tendrán personalidad jurídica para todos los efectos legales; no habrá ninguna autoridad intermedia entre ellos y los Supremos Poderes del Estado, y gozarán de toda la libertad interior política y administrativamente, compatible con el mantenimiento de la unidad de orden y gobierno en el Estado.
+Compete a los Ayuntamientos el ejercicio de la función municipal, con las facultades y limitaciones establecidas en esta Constitución y las leyes que de ella emanen, correspondiendo al Primer Regidor Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1966)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 112.
 
-Compete a los Ayuntamientos el ejercicio del Poder Municipal, con las limitaciones que las leyes señalan, correspondiendo al Presidente ejercer las funciones ejecutivas como Regidor Comisionado, llevar la Jefatura Política y Administrativa de la Municipalidad y presidir las sesiones del Cabildo.
+La elección directa del Presidente Municipal, tanto Propietario como Suplente y de los demás Regidores, se verificará cada tres años y entrará en funciones el día 1o. de Enero, previa protesta que otorgarán ante el Ayuntamiento saliente. Por cada Regidor Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+Los Municipios, cualquiera que sea su número de habitantes, integrarán sus Ayuntamientos con Regidores de Mayoría Relativa y Representación Proporcional. En consecuencia, los partidos políticos que no hubiesen logrado mayoría en la elección municipal, tendrán derecho a que se les acrediten Regidores en proporción a la votación recibida.
+
+La Ley determinará las bases, normas y procedimientos para la asignación de Regidores de Representación Proporcional.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 113.
 
-La designación de Primer Regidor Presidente Municipal, Propietario y Suplente y demás Regidores, se verificará cada 3 años por elección directa y entrarán a funcionar el día primero de enero previa protesta que otorgarán ante el Ayuntamiento saliente. Por cada Regidor Propietario se elegirá un Suplente.
+Los Ayuntamientos, en unión de un representante por cada partido político con voz pero sin voto, constituidos en Colegio Electoral, harán la calificación de las elecciones municipales en su jurisdicción, formulando la declaratoria correspondiente, la que será revisable por el Congreso del Estado en el caso de la fracción XXXIII Bis del Artículo 43 de la presente Constitución.
 
-Los Municipios con población de 200,000 o más habitantes complementarán sus Ayuntamientos hasta con 4 Regidores de representación proporcional.
-
-Los Partidos Políticos que no hubiesen logrado mayoría en la elección municipal, tendrán derecho a que se les acrediten Regidores en proporción a la votación recibida, siempre que hayan obtenido por lo menos el diez por ciento de la votación sufragada.
-
-La Ley determinará la forma y los procedimientos para la asignación de los Regidores de representación proporcional, debiéndose atender siempre al orden en que hayan sido postulados por sus respectivos partidos.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 114.
 
-Los Ayuntamientos, en unión de un Representante por cada Partido Político, con voz pero sin voto, harán la calificación de las elecciones de funcionarios Municipales, en su jurisdicción, cuya calificación es revisable por el Congreso del Estado en el caso de la Fracción XXXIII bis del artículo 43 de la presente ley. Los propios Ayuntamientos harán la declaratoria respectiva una vez confirmada la calificación por el Congreso, en su caso.
+El cargo de Regidor será obligatorio pero no gratuito, y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1940)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 115.
 
-Las faltas temporales del Presidente Municipal, cuando no excedan de diez días, serán cubiertas por el Secretario del H. Ayuntamiento con el carácter de Encargado del Despacho, bastando solamente el aviso respectivo que dará el Presidente al propio Ayuntamiento.
+Para ser Regidor se requiere:
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1940)</small>
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-Cuando la falta excediere del tiempo señalado en el párrafo anterior, el Presidente sólo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento y lo substituirá el Presidente Municipal Suplente. Más si éste no radicara en la Cabecera o estuviera ausente de ella, al faltar el Titular, el Ayuntamiento eligirá (sic) de entre sus miembros a un Presidente Municipal Provisional. El Suplente del electo será llamado a substituirlo como Regidor.
+II.- Ser originario o vecino de la municipalidad en que se elija cuando menos con un año antes de la elección.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1940)</small>
+Para este efecto, la vecindad no se pierde por ausencia en el desempeño de cualquier cargo de elección popular o de designación en los Poderes Legislativo, Ejecutivo o Judicial; y,
 
-En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado, salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento. Cuando infringiere el anterior precepto, perderá automáticamente su carácter de Funcionario y sólo podrá recuperarlo mediante el juicio respectivo.
+III.- No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director, sus equivalentes, de sus respectivos organismos públicos paraestatales, por lo menos 90 días antes de la elección.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
-
-Las faltas temporales de los demás Regidores serán cubiertas por sus respectios (sic) Suplentes al igual que las absolutas de cualquier Regidor, por mientras se designa el Substituto.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 116.
 
-Para ser Regidor, se requiere:
+Para ser Presidente Municipal, además de los requisitos exigidos para ser Regidor, son necesarios los siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+I. Tener 25 años cumplidos, cuando menos, en la fecha de la elección;
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1928)</small>
-
-II. Estar avecindado en la Municipalidad que lo elija, cuando menos un año inmediatamente antes de la elección.
-
-III. (DEROGADA, P.O. 6 DE OCTUBRE DE 1928)
-
-IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerza pública en la Municipalidad, por lo menos tres meses antes del día de la elección.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1981)</small>
+II. Ser originario de la municipalidad que lo elija o vecino de ella cuando menos tres años anteriores a la elección siempre que sea ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de diez años inmediatamente anteriores al día de la elección.
 
 ###### Art. 116 Bis.
 
-Para ser Presidente Municipal Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener los siguientes:
+(DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
-
-I. 25 años cumplidos en la fecha de la elección.
-
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
-
-II. Haber obtenido mayoría de sufragios legales.
-
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
-
-III. No haber sido Secretario, Sub-Secretario o Titular de cualesquiera de las Entidades de la Administración Pública Estatal y Paraestatal; Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia; Juez de Primera Instancia, Recaudador de Rentas, Presidente Municipal en los Distritos Electorales en donde ejerzan sus funciones; Coronel o General del Ejército Nacional o Jefe de la Fuerza del Estado o de Policía por el Distrito o Distritos Electorales en donde ejerza mando o donde estuvieren en servicio; Jefe de la Guardia Nacional que estuviere en servicio activo, por el Distrito o Distritos donde ejerza mando o Ministro de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
-
-IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, no podrán ser electos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación en los términos de esta Constitución, desempeñan las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos popularmente para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietario no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplente, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio en el segundo año del período respectivo.
-
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
-
-V. Ser originario de la Municipalidad que lo elige o vecino de ella cuando menos cinco años anteriores a la elección, siempre que sea ciudadano Sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de diez años inmediatamente anteriores al día de la elección.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 117.
 
-Cuando por cualquiera circunstancia desaparecieran los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultad el Congreso del Estado o en su defecto la Diputación Permanente, para elegir Regidores Substitutos quienes terminarán el período.
+Los Presidentes Municipales y demás Regidores de los Ayuntamientos, de elección popular directa, no podrán ser reelectos para el período inmediato.
+
+Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, no podrán ser electos para el período inmediato. Igualmente los servidores públicos mencionados, cuando tengan el carácter de propietarios no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de Suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 118.
 
-El cargo de Regidor será obligatorio, pero no gratuito, y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus miembros, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes, por cualesquiera de las causas graves que prevenga la Ley, condicionándose lo anterior a que sean oídos en defensa de sus derechos y tengan la oportunidad suficiente para rendir pruebas y formular alegatos.
+
+En caso de declararse desaparecido un Ayuntamiento o de renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los Suplentes, ni que se celebraren nuevas elecciones, el Congreso del Estado designará, de entre los vecinos a un Concejo Municipal que cubrirá el período respectivo. Dicho Concejo rendirá la protesta de Ley ante el propio Congreso.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 119.
 
-Son atribuciones de los Ayuntamientos:
+Las faltas temporales del Presidente Municipal cuando no excedan de diez días serán cubiertas por el Secretario del Ayuntamiento con el carácter de Encargado del Despacho, bastando solamente el aviso respectivo que dará el Presidente Municipal al propio Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 1966)</small>
+Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal sólo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento y lo substituirá el Presidente Municipal Suplente, y a la falta de éste el Ayuntamiento elegirá de entre sus miembros a un Presidente Municipal Provisional.
 
-I. Gobernar política y administrativamente el Municipio correspondiente.
+En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento.
 
-II. Nombrar y remover libremente a sus empleados.
-
-III. Conceder licencias y admitir las renuncias de sus propios miembros y de los empleados de su dependencia.
-
-IV. Iniciar leyes ante el Congreso del Estado y nombrar para el efecto sus representantes, que con voz, pero sin voto, asistan a las discusiones de la Cámara.
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 1966)</small>
-
-V. Administrar libremente su Hacien (sic) de acuerdo con la Ley de Ingresos que cada año expida el Congreso del Estado.
-
-VI. Vigilar las escuelas oficiales y particulares de su jurisdicción, disponiendo todo lo necesario para que la asistencia escolar sea efectiva, e informar al Ejecutivo del Estado sobre las deficiencias que se observen.
-
-VII. Fijar y modificar la división de sus Municipalidades, en Sindicaturas y Comisarías, y designar y remover las cabeceras respectivas, con la ratificación del Congreso.
-
-VIII. Las demás que expresamente les señalen las leyes.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 120.
 
-Los Regidores de un Ayuntamiento y su Presidente Municipal, serán personal o colectivamente responsables de acuerdo con las leyes, de los actos que ejecuten en sus funciones y sus responsabilidades podrán ser exigidas ante las autoridades correspondientes, ya sea directamente por los particulares cuyos derechos se lesionen o por los Agentes del Ministerio Público, cuando los de la sociedad se afecten. Estas responsabilidades sólo podrán exigirse durante el tiempo de ejercicios del funcionario y dentro de un año después de terminada su gestión.
+Cuando algún miembro del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su Suplente, pero tratándose de ausencia definitiva éste sólo durará en su encargo mientras se designa el sustituto.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 121.
 
-Las Municipalidades procurarán arreglar entre sí por convenios amistosos, sus cuestiones sobre límites que en todo caso serán sometidas a la ratificación del Congreso del Estado.
+Los Municipios, con el concurso del Ejecutivo del Estado, o de los organismos públicos paraestatales, cuando así fuera necesario o lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+I. Agua potable y alcantarillado;
+
+II. Aseo y Limpia;
+
+III. Alumbrado público;
+
+IV. Mercados, rastro y centrales de abasto;
+
+V. Panteones;
+
+VI. Calles, parques y jardines;
+
+VII. Seguridad Pública y tránsito;
+
+VIII. Educación pública, conforme a la distribución de la función educativa que fijen las leyes entre la Federación el Estado y los Municipios; y,
+
+IX. Los demás que el Congreso del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 122.
 
-Cada Ayuntamiento dará entera fé y crédito a los actos y documentos de los demás Municipios del Estado.
+El Ejecutivo del Estado, los organismos públicos paraestatales y los Municipios, en los términos de Ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 123.
 
-(DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
+Los Municipios administrarán libremente su hacienda, la cual se formará de:
+
+I. Los bienes muebles e inmuebles que les pertenezcan y los rendimientos de éstos;
+
+II. Las contribuciones u otros ingresos, cualquiera que sea su denominación, que el Congreso del Estado establezca a su favor;
+
+III. Las participaciones federales, que serán cubiertas a los Municipios por la Federación, con arreglo a las bases de distribución equitativa, montos y plazos que anualmente determine el Congreso del Estado;
+
+IV. Los ingresos derivados de la prestación de servicios públicos a su cargo; y,
+
+V. Las Contribuciones y tasas adicionales que se establezcan en el Estado sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio de valor de los inmuebles. Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+No podrán establecerse exenciones o subsidios respecto a los ingresos señalados en las fracciones IV y V de este artículo, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de las contribuciones señaladas en las fracciones IV y V de este artículo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 124.
 
-Cada Ayuntamiento tendrá un Tesorero y un Secretario Municipales, nombrados de fuera de su seno, quienes deberán llenar los mismos requisitos que para Regidores exige esta Constitución. El Tesorero, además, antes de entrar a ejercer sus funciones, caucionará suficientemente su manejo.
+El Congreso aprobará las leyes de ingresos de los Ayuntamientos y revisará sus cuentas públicas.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 125.
 
-Las Municipalidades se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones municipales, ejecutivas y de administración, los Síndicos y Comisarios, respectivamente. Unos y otros serán nombrados cada dos años por el Ayuntamiento de la Municipalidad a que correspondan, y removidos libremente por el mismo.
+Son facultades de los Ayuntamientos:
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+I. Gobernar política y administrativamente el Municipio correspondiente;
+
+II. Expedir los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, de acuerdo con las bases normativas establecidas en esta Constitución y las Leyes;
+
+III. Nombrar a su personal y remover libremente a sus empleados de confianza;
+
+IV. Conceder licencias y admitir las renuncias de sus propios miembros y del personal a su servicio;
+
+V. Con sujeción a las leyes federales y estatales relativas, podrán:
+
+A). Formular, aprobar y administrar la zonificación y planes de desarrollo urbano y municipal.
+
+B). Participar en la creación y administrar sus reservas territoriales.
+
+C). Controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales.
+
+D). Intervenir en la regularización de la tenencia de la tierra urbana.
+
+E). Otorgar licencias y permisos para construcciones.
+
+F). Participar en la creación y administrar sus zonas de reservas ecológicas.
+
+Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+VI. Fijar y modificar la división de sus Municipalidades, en Sindicaturas y Comisarías y designar y remover las cabeceras respectivas, con la ratificación del Congreso del Estado.
+
+VII. Vigilar las escuelas oficiales y particulares de su jurisdicción, coadyuvando para que la asistencia escolar sea efectiva e informar al Ejecutivo del Estado sobre las deficiencias que se observen; y
+
+VIII. Las demás que les señalen las leyes.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 126.
 
-Para ser Síndico y Comisario, se requiere: ser ciudadano mexicano por nacimiento.
+Cuando dos o más centros urbanos situados en territorios de dos o más Municipios formen o tiendan a formar una continuidad demográfica, el Ejecutivo del Estado y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 1963)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 127.
 
-La Hacienda Pública Municipal se integrará con los bienes muebles e inmuebles comprendidos en su patrimonio y por los impuestos, derechos, productos, aprovechamientos y participaciones que en su favor establezcan las Leyes. El Congreso del Estado solo podrá fijar impuestos en favor de los Municipios sobre ramas de tributación no grabadas en beneficio del Gobierno del Estado.
+Las municipalidades procurarán arreglar sus cuestiones sobre límites mediante convenios entre sí, los que en todo caso se someterán a la ratificación del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 1963)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 128.
 
-El Congreso del del (sic) Estado establecerá sobre los impuestos propios del Gobierno del Estado que estime convenientes, un impuesto adicional que compense a los Municipios de la limitación fiscal consignada en la parte final del Artículo anterior.
+Cada Ayuntamiento tendrá un Secretario y un Tesorero, así como el número correspondiente de Síndicos y Comisarios Municipales, nombrados de fuera de su seno, quienes deberán ser ciudadanos mexicanos por nacimiento en pleno ejercicio de sus derechos y estar avecindados en la Municipalidad, cuando menos un año inmediatamente antes de su designación.
+
+El Tesorero antes de entrar a ejercer sus funciones, caucionará suficientemente su manejo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 129.
 
-La Ley Orgánica Municipal del Estado, reglamentará la organización y funcionamientos municipales y la Orgánica Electoral, las particularidades en la materia respectiva.
+Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán por la Ley que al efecto expida el Congreso del Estado, acorde a los principios del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
 
 ## TITULO VII
 
+### CAPITULO V. DE LA PRESCRIPCION
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 ###### Art. 130.
 
-Ningún funcionario o empleado en el Estado, tiene derecho de propiedad en el cargo o empleo que ejerza; pero los empleados no podrán ser destituidos sino mediante la formación del instructivo correspondiente, por el cual se acredite que se encuentran en alguno de los casos que la ley prefija para su separación.
+Para los efectos de las responsabilidades contenidas en este Título, se entiende por servidor público toda persona física que desempeñe un empleo, cargo o comisión de cualquier naturaleza en alguno de los tres poderes del Gobierno del Estado, en los Ayuntamientos, así como en los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos del Estado y Municipios en los Ayuntamientos y organismos e instituciones municipales.
 
-La Ley del Servicio Civil del Estado, fijará las condiciones de admisión, permanencia, remoción, ascenso, destitución y jubilación de los servidores públicos.
+Todo servidor público será responsable de los actos u omisiones oficiales en que incurra y que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, independientemente de la jerarquía, denominación y origen del cargo. Se concede acción popular para denunciar los delitos y faltas a que se refiere este Título, bajo la más estricta responsabilidad del denunciante y mediante la presentación de elementos de prueba.
+
+Las sanciones procedentes se aplicarán respetando el derecho de audiencia, mediante juicio político, proceso penal o procedimiento administrativo, según sea el caso, en los términos del presente Título y de las leyes aplicables. Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 131.
 
-Todo funcionario o empleado del Estado o Municipios, cualquiera que sea su categoría, es responsable en el tiempo de su encargo, por los delitos del orden común que cometa antes o durante él, así como por los delitos, faltas u omisiones en que incurriere al ejercer sus funciones. Sólo el Gobernador del Estado en ningún tiempo del período de su ejercicio podrá ser enjuiciado sino por violación del precepto expreso de la Constitución de la República o del Estado, por ataques a la libertad electoral o por delitos graves del orden común.
+Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene derecho de propiedad en el cargo empleo o comisión que desempeñe, sin embargo, la ley que regule las relaciones de trabajo entre la administración pública y los servidores públicos garantizarán los derechos derivados del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
+
+### CAPITULO I. DISPOSICIONES DIVERSAS
 
 ###### Art. 132.
 
-Es causa de responsabilidad, aceptar un cargo de elección popular, sin poseer todos los requisitos que la ley señale para dicho cargo. El infractor quedará, previo juicio inmediatamente destituido y suspenso de sus derechos de ciudadano, por un año, sin perjuicio de las penas que la ley le imponga.
+Podrán ser sujetos de juicio Político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del Artículo 130, así como los Presidentes Municipales y Regidores de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 133.
 
-Gozarán de fuero constitucional: El Gobernador del Estado, los Diputados y los Magistrados del Supremo Tribunal de Justicia, desde la fecha en que fueren declarados legítimamente electos los primeros y desde que protesten constitucionalmente los últimos. La concesión del fuero no perjudica la facultad de la autoridad competente para practicar desde luego, en los delitos del orden común, las diligencias necesarias para comprobar la existencia del cuerpo del delito, conforme a la ley; pero sin que éstas afecten la inmunidad.
+Son causas que podrán motivar la instauración del juicio político en contra del Gobernador del Estado, los Magistrados del Supremo Tribunal de Justicia y de los Diputados Locales, las siguientes faltas u omisiones en que incurran durante el ejercicio de su encargo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho:
+
+I. La violación grave a disposición expresa de la Constitución Política de los Estados Unidos Mexicanos, o de la Constitución Política del Estado, o a las Leyes que de ellas emanen;
+
+II. El manejo indebido de fondos y recursos del Estado o de la Federación; y,
+
+III. Los ataques a la libertad electoral.
+
+Respecto a los diversos servidores públicos señalados en el artículo anterior, son causas de responsabilidad, además de las mencionadas en este Artículo, los actos u omisiones que señalen las leyes de la materia.
+
+No procederá el juicio político por la sola expresión de las ideas.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 134.
 
-En demandas del orden civil no habrá fuero ni inmunidad alguna para los funcionarios públicos.
+El Congreso del Estado, por mayoría de los Diputados presentes y erigidos en Jurado de Acusación, resolverá si ha lugar, o no, a formular acusación. Si procediere presentar ésta, el servidor público quedará separado de su cargo.
+
+Formulada en su caso la acusación, el Pleno del Supremo Tribunal de Justicia del Estado, constituido en Jurado de Sentencia, resolverá en definitiva.
+
+La sentencia condenatoria impondrá como sanción la destitución del servidor público y su inhabilitación para ocupar cargo, empleo o comisión de cualquier naturaleza en la administración pública.
+
+Si la sentencia es absolutoria, el acusado continuará en el ejercicio de sus funciones.
+
+No procede recurso legal alguno en contra de la acusación ni de la sentencia del Pleno.
+
+La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratándose de las resoluciones declarativas dictadas por el Congreso de la Unión.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
+
+### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
 
 ###### Art. 135.
 
-Cuando la acusación presentada contra alguno de los altos funcionarios expresados en el artículo 133 fuere por delitos del orden común, el Congreso del Estado, erigido en gran Jurado, declarará por mayoría absoluta del número total de Diputados, previa audiencia del acusado, si hay o no lugar a proceder en su contra. Si la resolución es negativa, cesará todo procedimiento ulterior, sin que tal declaración sea obstáculo para que la acción prosiga su curso cuando el acusado deje de tener fuero, desde cuya fecha comenzará a computarse la prescripción. Si la resolución es afirmativa, el presunto responsable quedará por tal hecho separado de su cargo y sujeto desde luego, a la acción de los tribunales comunes; mas si la sentencia de éste fuere absolutoria, quedará rehabilitado para continuar en sus funciones oficiales.
+Todo servidor público es penalmente responsable por los delitos que cometa y su conducta delictuosa será perseguida y sancionada conforme a las leyes penales.
+
+Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación, por mayoría absoluta de los Diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a Diputados de la Legislatura Local, Magistrados del Supremo Tribunal de Justicia, Secretarios del Despacho del Poder Ejecutivo, Procurador General de Justicia y Presidentes Municipales, quienes serán juzgados por la autoridad competente.
+
+El Gobernador del Estado durante el tiempo de su encargo sólo podrá ser enjuiciado por delitos graves del fuero común, previa declaratoria de la Legislatura, y será juzgado por el Pleno del Supremo Tribunal de Justicia erigido en Jurado de Sentencia.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 136.
 
-Cuando la acusación presentada contra alguno de los altos funcionarios expresados en el artículo 133, fuere por delitos, faltas u omisiones oficiales, conocerán: el Congreso del Estado como Jurado de acusación y el Supremo Tribunal de Justicia en acuerdo pleno y con inclusión de los Magistrados suplentes como Jurado de sentencia.
+Por la declaratoria de procedencia, el servidor público quedará separado de su cargo mientras esté sujeto al proceso penal. En caso contrario cesará todo procedimiento ulterior en su contra, pero podrá enjuiciársele penalmente después de concluido su cargo. Cuando la sentencia sea absolutoria, el inculpado podrá reasumir su encargo.
 
-El Jurado de acusación declarará por mayoría absoluta de votos, si hay o no culpabilidad. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su encargo, más si al contrario, quedará inmediatamente separado de dicho cargo y a disposición del Jurado de sentencia, quien con audiencia del reo y de su defensor, del Procurador General de Justicia y del acusador si lo hubiere, aplicará por mayoría absoluta de votos la pena que la ley asigna.
+Tratándose de delitos federales imputados al Gobernador, a los Diputados o Magistrados, previa declaratoria del Congreso de la Unión, la Legislatura Local resolverá si ha lugar a proceder en contra de los servidores públicos mencionados, para el solo efecto de dejar expedita la actuación de las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 137.
 
-Las responsabilidades por delitos, faltas u omisiones oficiales, sólo podrán exigirse durante el período en que los funcionarios ejerzan sus cargos y dentro de los dos años siguientes.
+El Código Penal del Estado tipificará como delito el enriquecimiento ilícito de los servidores públicos que durante el tiempo de su encargo o con motivo de su ejercicio adquieran, directamente o a través de terceros, la propiedad de bienes o se ostenten como dueños de los mismos, cuya procedencia legal no puedan acreditar. Dicho ilícito se castigará con el decomiso y la privación de la propiedad de los bienes ilegalmente adquiridos, independientemente de las demás sanciones aplicables.
+
+Cuando el delito cometido por un servidor público le represente beneficio económico o cause daño o perjuicio patrimonial, la pena correspondiente se graduará conforme al monto del beneficio obtenido o del daño o perjuicio causados, sin que la sanción económica pueda ser mayor del triple del valor de aquéllos.
+
+No se concederá indulto por delito cometido por el servidor público en ejercicio de su encargo.
+
+No se requerirá declaratoria de procedencia cuando alguno de los servidores públicos mencionados en el segundo párrafo del Artículo 135 cometa un delito durante el tiempo que esté separado de su cargo, pero si habiendo sido separado reasume sus funciones u ocupa diverso cargo, de alguno de los ennumerados (sic) en dicho artículo se procederá conforme al citado precepto.
+
+Tampoco se requiere declaratoria de procedencia tratándose de demandas del orden civil entabladas contra cualquier servidor público.
+
+La declaratoria de procedencia y la sentencia son inatacables.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 138.
 
-El sentenciado por delito o falta oficial, no podrá ser indultado.
+La Ley de Responsabilidades de los Servidores Públicos del Estado establecerá las obligaciones de éstos, para que en ejercicio de sus funciones, empleos, cargos y comisiones garanticen la honradez, lealtad, legalidad, imparcialidad y eficiencia; señalará las sanciones que procedan por los actos u omisiones en que incurran y determinará los procedimientos y autoridades competentes para aplicarlas.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 139.
 
-Se concede acción popular para denunciar los delitos o faltas oficiales.
+Las sanciones administrativas se establecerán en proporción a los daños y perjuicios patrimoniales causados y de acuerdo al beneficio económico obtenido por el servidor público, las que podrán consistir en suspensión, destitución, inhabilitación, sanciones económicas y en las demás que señale la Ley, pero las sanciones económicas no excederán del triple del beneficio obtenido o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 140.
 
-La ley de responsabilidades de los funcionarios y empleados públicos, reglamentará la materia, clasificando los delitos y faltas, determinando su penalidad y fijando los procedimientos del enjuiciamiento y términos de las prescripciones. Entretanto, rigen las disposiciones relativas del Código de Procedimientos Penales que no se opongan a esta ley.
+El juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro del año siguiente a la conclusión de sus funciones. Las sanciones correspondientes se aplicarán en un lapso no mayor de un año a partir de iniciado el procedimiento.
+
+La acción penal derivada de la responsabilidad por delitos cometidos durante el tiempo del encargo prescribe en el término que fije el Código Penal, pero dicho plazo de prescripción no será inferior a tres años. Tratándose de los servidores públicos mencionados en el Artículo 135, en su segundo y tercer párrafos, el término de prescripción se interrumpe mientras duren en el desempeño de su cargo.
+
+Tratándose de responsabilidades administrativas, la Ley de la materia fijará la prescripción de las sanciones, tomando en cuenta el tipo de actos u omisiones de que se trata y sus consecuencias; pero en caso de actos u omisiones graves, el término de prescripción no será menos de tres años.
 
 ###### Art. 141.
 
@@ -1361,11 +1481,11 @@ Cuando las leyes no señalen término, se entenderá el de diez días para que l
 
 En el Estado nadie podrá desempeñar a la vez dos o más cargos de elección popular. Quien en tal caso se viere, tendrá que optar por alguno. Tampoco podrán reunirse en una misma persona, dos o más empleos por lo que se disfrute sueldo, exceptuándose los de enseñanza y beneficencia pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 144.
 
-Los funcionarios y empleados del Estado o Municipios, antes de tomar posesión de sus cargos, otorgarán la protesta de Ley, sin la cual todos sus actos serán ilegales. Las condiciones para protestar, serán las siguientes:
+Los servidores públicos del Estado, Municipios y de la Administración Pública Paraestatal, antes de tomar posesión de sus cargos, otorgarán la protesta de Ley, sin cuyo requisito no habrá formación de causa ninguna. Las condiciones para protestar, serán las siguientes:
 
 I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
 
@@ -1411,15 +1531,17 @@ VI. En el caso de que el orden constitucional desaparezca totalmente en el Estad
 
 VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 ###### Art. 145.
 
-Todo funcionario o empleado, sea de elección popular o de nombramiento, recibirá una remuneración por sus servicios, que será fijada anualmente por la ley y pagada de los fondos públicos.
+Todo servidor público, recibirá una remuneración adecuada, equitativa e irrenunciable por el desempeño de su cargo, empleo o comisión, la cual será fijada anualmente en el presupuesto de egresos del Estado, de los Municipios o de las Entidades Paraestatales, según sea el caso.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1966)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso la Ley de Ingresos y Presupuesto de Egresos del Estado, podrán aumentarse o disminuirse los sueldos de los funcionarios y empleados, según las condiciones del Erario; pero todo aumento que decreta las dietas de sus propios miembros, no tendrá efecto sino hasta la próxima Legislatura, esta misma prevención se observará por los Ayuntamientos en su respectiva relación con los Regidores.
+Al expedir y reformar el Congreso la Ley de Ingresos y Presupuesto de Egresos, podrán aumentarse o disminuirse los sueldos de los servidores públicos, según las condiciones del Erario, pero todo aumento que decrete las dietas de sus propios miembros no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevensión (sic) se observará por los Ayuntamientos en su respectiva relación con los Regidores.
 
 ###### Art. 147.
 
@@ -1429,9 +1551,11 @@ Se prohiben expresamente los sobresueldos, los llamados "gastos de representaci�
 
 Ninguna licencia con goce de sueldo podrá concederse por más de quince días. Sólo en los casos de enfermedad debidamente comprobada, podrá extenderse hasta tres meses. Ninguna licencia por motivo alguno, podrá concederse por más de seis meses. Quedan prohibidas por lo tanto, las licencias por tiempo indefinido.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 ###### Art. 149.
 
-Los funcionarios que entren a ejercer su encargo, después del día fijado por esta Constitución o por las leyes, sólo durarán en sus funciones el tiempo que les faltare para terminar su período legal.
+Los servidores públicos que entren a ejercer su encargo después del día fijado por esta Constitución o por las Leyes, sólo durarán en sus funciones el tiempo que les faltare para terminar su período legal.
 
 ###### Art. 150.
 
@@ -1507,11 +1631,15 @@ XXI. En la creación o mejoramiento de centros de población de sus fuentes prop
 
 XXII. En los demás casos previstos por Leyes especiales.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 155.
 
-Todas las obras públicas del Estado o de los Municipios que deban emprenderse, se adjudicarán por contrato al mejor postor. La Ley Orgánica de Administración Pública y su Reglamento, regularán lo relativo a esta materia.
+Los recursos económicos del Gobierno del Estado, de los Municipios y de los organismos e instituciones a que se refiere el Artículo 130 se administrarán y ejercerán con eficiencia, eficacia y honradez, aplicándolos precisamente a satisfacer los fines a que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones Públicas mediante convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
 ###### Art. 156.
 
@@ -2030,3 +2158,27 @@ P.O. 22 DE JUNIO DE 1983.
 ###### ARTICULO UNICO.
 
 El Presente Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE ENERO DE 1984.
+
+DECRETO No. 23 POR EL QUE SE REFORMA EL TITULO V DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+En tanto se expidan las Leyes que reglamenten el contenido y alcance del presente Decreto, continuarán aplicándose las leyes de la materia vigentes.
+
+P.O. 27 DE ENERO DE 1984.
+
+DECRETO No. 24 POR EL SE REFORMA EL TITULO VI; LOS ARTICULOS 43 FRACCION XX, 95 PRIMER PARRAFO, 102 PRIMER PARRAFO, 104 FRACCIONES I, II Y III, 106, 144 PRIMER PARRAFO, 145,146,149 Y 155; Y SE DEROGA EL ARTICULO 98 DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+En tanto se expidan las Leyes que reglamenten el contenido y alcances del presente Decreto, continuarán aplicándose las leyes de la materia vigentes.
