@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1947-11-16"
+last_updated: "1948-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -99,61 +99,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 1 DE JUNIO DE 1937.
 
-###### Artículo 3º.
+###### Artículo 3o.
 
-El Territorio del Estado es el expresado en el Supremo Decreto de Erección de 16 de Enero de 1869 y se divide en los 82 Municipios que a continuación se expresan:
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
-
-Distrito de Actopan: Formado con los Municipios de Actopan, Mixquiahuala, El Arenal, San Salvador, Santiago, San Agustín Tlaxiaca y Francisco I. Madero.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1943)</small>
-
-Distrito de Apam: Formado con los Municipios de Apam, Tepeapulco, Tlanalapan, Almoloya y Emiliano Zapata.
-
-Distrito de Atotonilco el Grande: Formado con los Municipios de Atotonilco el Grande, Huasca y Omitlan.
-
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1939)</small>
-
-Distrito de Huejutla: Formado con los Municipios de Huejutla, Orizatlán, Huazalingo, Huautla, Xochiatipan, Tlanchinol, Jaltocán, Atlapexco y Yahualica.
-
-Distrito de Huichapan: Formado con los Municipios de Huichapan, Tecozautla, Nopala y Chapantongo
-
-Distrito de Ixmiquilpan: Formado con los Municipios de Ixmiquilpan, Alfajayucan, Cardonal y Chilcuautla.
-
-Distrito de Jacala: Formado con los Municipios de Jacala, Chapulhuacán, la Misión, Pacula y Pisaflores.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1937)</small>
-
-Distrito de Metztitlan: formado con los Municipios de Metztitlan, Metzquititlán, Juárez Hidalgo y Eloxochitlán.
-
-Distrito de Molango: Formado con los Municipios de Molango, Calnali, Xochicoatlán, Lolotla, Tlahuiltepa y Tepehuacán de Guerrero.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1935)</small>
-
-Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, Mineral de Chico, Mineral de la Reforma, Epazoyucan, Tolcayuca, Tizayuca, Tezontepec, Zempoala y Zapotlán de Juárez.
-
-Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, San Bartolo Tutotepec, Agua Blanca, Iturbide y Huehuetla.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1936)</small>
-
-Distrito de Tula de Allende: Formado con los Municipios de Tula de Allende, Tlaxcoapan, Tepeji del Río, Tetepango, Tezontepec de Aldama, Atitalaquia, Tepetitlán, Atotonilco, Tula y Ajacuba.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1944)</small>
-
-Distrito de Tulancingo: Formado con los Municipios de Tulancingo, Acaxochitlán, Cuautepec, Acatlán, Metepec, Singuilucan y Santiago Tulantepec.
-
-Distrito de Zacualtipán: Formado con los Municipios de Zacualtipán y Tianguistengo.
-
-Distrito de Zimapán: Formado con los Municipios de Zimapán, Tasquillo y Santa María Tepeji;
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
-
-Las Cabeceras de los Distritos y de los Municipios son los que corresponden a su denominación, con excepción del Municipio de Francisco I. Madero que tendrá por Cabecera el pueblo de Tepatepec.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1924)</small>
-
-Ésta división territorial podrá modificarse de acuerdo con el artículo 70 de la propia Constitución, las Cabeceras de Distrito o de Municipio de conformidad con leyes secundarias que se expidan al efecto.
+Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -269,9 +217,13 @@ Las leyes determinaran a que autoridad corresponde decretar la suspensión, perd
 
 La soberanía del Estado reside en el pueblo y en nombre de éste la ejercen los Poderes del Estado, en los términos que establece esta Constitución.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+
 ###### Artículo 15.
 
-El Estado adopta para su régimen interior, la forma de Gobierno Republicano, representativo y popular, teniendo como base de su organización política y administrativa, la libertad del Municipio.
+El Estado adopta para su régimen interior, la forma de gobierno republicano representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio libre.
+
+En las elecciones Municipales participarán las mujeres en igualdad de condiciones que los hombres con el derecho de elegir y de ser electas, para ocupar cualquier cargo Municipal.
 
 ### CAPITULO III. DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
@@ -301,15 +253,19 @@ I. El Gobernador del Estado.
 
 II. Los Ministros de cualquier culto.
 
-III. El Secretario General, el Subsecretario, los Magistrados del Tribunal Superior, el Procurador de Justicia del Estado y los funcionarios de la Federación, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+
+III. El Secretario General, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia del Estado y los funcionarios de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos cuando menos noventa días antes de la elección.
 
 IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en que ejerzan sus funciones; y los Presidentes Municipales, en el Distrito de que forme parte el Municipio de su jurisdicción: si no se han separado unos y otros de sus cargos, cuando menos noventa días antes de la elección.
 
 V. Los militares que no se hayan separado del servicio cuando seis meses antes de la elección. Para los efectos de esta disposición no se tienen por militares a los ciudadanos alistados en la Guardia Nacional.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+
 ###### Artículo 21.
 
-El cargo de Diputado Propietario y el de Suplente, cuando el electo Suplente entre en ejercicio, son incompatibles con cualquier cargo de la Federación o del Estado.
+El cargo de Diputado Propietario y el de Suplente, cuando éste entre en ejercicio de sus funciones es incompatible con cualquier otro cargo de la Federación o del Estado, quedando exceptuado cuando desempeñe una función docente, de beneficencia pública o privada u obtenga autorización expresa de Legislatura para ello.
 
 ###### Artículo 22.
 
@@ -449,7 +405,7 @@ VII. Constituirse en Colegio Electoral a efecto de calificar la elección de Gob
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
-VIII.- Ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia expedidos por el C. Gobernador del Estado. Si la Cámara no resolviere sobre la ratificación o no ratificación de dichos nombramientos, dentro del término de diez días, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el C. Gobernador del Estado. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados. Cuando por enfermedad o licencia de alguno de los Magistrados, no se pudiera integrar el Tribunal Superior de Justicia, los nombramientos provisionales que el C. Gobernador extienda para cubrir la vacante, no están sujetos a ratificación del Congreso, siempre que la ausencia del Magistrado Propietario no exceda de tres meses.
+VIII. Ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia expedidos por el C. Gobernador del Estado. Si la Cámara no resolviere sobre la ratificación o no ratificación de dichos nombramientos, dentro del término de diez días, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el C. Gobernador del Estado. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados. Cuando por enfermedad o licencia de alguno de los Magistrados, no se pudiera integrar el Tribunal Superior de Justicia, los nombramientos provisionales que el C. Gobernador extienda para cubrir la vacante, no están sujetos a ratificación del Congreso, siempre que la ausencia del Magistrado Propietario no exceda de tres meses.
 
 IX. Recibir la protesta del Gobernador, Magistrados y Diputados.
 
@@ -459,7 +415,9 @@ XI. Resolver acerca de las renuncias del Gobernador, de los Magistrados y de los
 
 XII. Conceder licencia hasta por seis meses al Gobernador, a los Diputados y Magistrados.
 
-XIII. Convocar a elecciones de Diputados cuando ocurra falta absoluta de propietario y suplente, si la falta ocurriese antes de los seis últimos meses del periodo.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+
+XIII. Convocar a elecciones de Diputados cuando ocurra la falta absoluta de Propietario y de Suplente, si dicha falta ocurriese antes del último año de ejercicio o período electoral correspondiente.
 
 XIV. Resolver sobre cuestiones de limites entre los Municipios.
 
@@ -537,9 +495,9 @@ I. Los Ministros de cualquier culto.
 
 II. El Gobernador substituto y el provisional para el periodo siguiente a aquél en que hubiere desempeñado el cargo.
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1925)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
 
-III.- El Secretario General, el Subsecretario, los Magistrados del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia del mismo y los Funcionarios de la Federación que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección, no quedando comprendidos en este mandato los Funcionarios de la Federación que ocupen sus puestos por elección popular.
+III. El Secretario General, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador General de Justicia del Estado y los Funcionarios de la Federación con residencia y funciones dentro del mismo Estado, que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección.
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1932)</small>
 
@@ -571,9 +529,11 @@ Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de s
 
 El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+
 ###### Artículo 52.
 
-El Gobernador no puede salir del territorio del Estado sin licencia del Congreso o de la Diputación Permanente; pero podrá hacerlo en casos urgentes y cuando la separación no debiere pasar de ocho días con solo aviso al Congreso o a la Diputación Permanente, en su caso, para que desde luego se nombre al interino.
+El Gobernador no puede abandonar el territorio Nacional, sin licencia del Congreso o de la Diputación Permanente, en su caso, quien desde luego nombrará al Interino.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 1930)</small>
 
@@ -605,11 +565,11 @@ XI. Nombrar y remover libremente al personal de la Policía Municipal del lugar 
 
 XII. Resolver las dudas que tuvieren los Agentes de la Administración Publica sobre aplicación de las leyes a casos particulares.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
 
-XIII.- Nombrar y remover libremente al Secretario General de Gobierno, al Procurador General de Justicia en el Estado, a los Agentes del Ministerio Público y a todos los empleados que conforme a la Constitución y a las Leyes, no deban de ser nombrados por otra autoridad.
+XIII. Nombrar y remover libremente al Secretario General del Gobierno, al Oficial Mayor del mismo, al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y a todos los empleados que conforme a la Constitución y a las Leyes, no deban ser nombrados por otra autoridad.
 
-Nombrar a los Magistrados del Tribunal Superior de Justicia con aprobación del Congreso; y Magistrados provisionales sin la aprobación de este alto Cuerpo.
+Nombrar a los Magistrados del Tribunal Superior de Justicia, con aprobación del Congreso; y sin esa aprobación, a los Magistrados Provisionales del mismo Tribunal o Magistrados Supernumerarios, cuando a juicio de él y del Tribunal, así lo requiera la expedita administración de Justicia. Los Magistrados Supernumerarios los podrá suprimir el Gobernador del Estado, cuando las circunstancias que los crearon hayan desaparecido, de acuerdo con el propio Tribunal.
 
 XIV. Nombrar a propuesta en terna del Tribunal Superior, a los Jueces de Primera Instancia, e iniciar ante el propio Tribunal, la separación de algún Juez cuando observe mala conducta.
 
@@ -641,7 +601,15 @@ XXVI.- Asistir al Congreso el día 1º de marzo de cada año, para dar cuenta de
 
 XXVII. Solicitar del Congreso autorización para el arreglo de límites con los estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigirse al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General.
 
-XXVIII. Los demás que le confiere esta Constitución y la General de la República.
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1948)</small>
+
+XXVIII. En el caso de epidemias, epizootias de carácter grave, que se presenten dentro del territorio del Estado, inundaciones, otra calamidad pública que azote a cualquiera región del propio Estado, el Gobernador podrá tomar las medidas que crea convenientes, de carácter urgente, para impedir o remediar el desarrollo de dichas calamidades, en tanto intervienen las autoridades Federales competentes conforme a la Constitución General de la República; y colaborar con éstas por todos los medios a su alcance, para lograr los mismos fines.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1948)</small>
+
+XXIX. Tomar todas las medidas de carácter urgente que sean necesarias, cuando en el Estado, o en cualquiera región de él, se presenten situaciones económicas defíciles (sic) para llenar las necesidades indispensables de la población, tales como escasez de alimentos, ocultación de artículos de primera necesidad, encarecimiento indebido de éstos, o de cualesquiera otros productos indispensables para la subsistencia de la población o de la economía del Estado.
+
+XXX. Los demás que le confiere esta Constitución y la General de la República.
 
 ###### Artículo 54.
 
@@ -715,25 +683,25 @@ II. Hacer la declaración de haber lugar o no a proceder por delitos comunes com
 
 III. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución General.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
 
-IV.- Conocer de los recursos de apelación y denegada apelación; y de la revisión de los fallos dictados en negocios criminales.
+IV. Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
 V.- Conocer de las competencias de jurisdicción que se susciten entre los Jueces del Estado.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+(REFORMADA, P.O. 24 DE FEBRERO DE 1948))
 
-VI.- Acordar por sí, o a propuesta del Ejecutivo, el cambio de los Jueces de Primera Instancia de un Distrito a otro; pero sin bajarlos de categoría o disminuirles el sueldo.
+VI. Acordar por sí o a propuesta del Ejecutivo el cambio de los Jueces de Primera Instancia de un Distrito a otro; y nombrar y remover libremente, a todos los empleados del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
 VII.- Conceder licencias hasta por tres meses a los Jueces de Primera Instancia.
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
 
-VIII.- Formar su Reglamento Interior.
+VIII. Formular las ternas que deben de enviarse al Gobernador del Estado para el nombramiento de Jueces de Primera Instancia, y a que se refiere la fracción XIV del artículo 53 de la propia Constitución; y formar su Reglamento Interior.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1930)</small>
 
@@ -775,15 +743,19 @@ II. Intervenir en la forma y términos que la ley disponga, en los juicios que a
 
 III. Defender los intereses del Estado ante los Tribunales.
 
-La ley organizara el Ministerio Publico, determinara las atribuciones respectivas de las personas que lo formen y fijara el tiempo que cada una de ellas deba durar en sus funciones.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+
+La Ley Orgánica del Ministerio Público, determinará las atribuciones que correspondan a cada una de las personas que ejerzan esta función.
 
 ###### Artículo 70.
 
-Para que una fracción del Estado sea elevada a la categoría de Municipio, son necesarios cuando menos cuatro mil habitantes y los recursos suficientes para su subsistencia.
+Para que una fracción del Estado sea elevada a la categoría de Municipio es indispensable que cuente cuando menos con diez mil habitantes y tenga posibilidades económicas para cubrir un presupuesto anual de egresos mínimo de $50,000.00
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
 ###### Artículo 71.
 
-Cada Municipio será administrado por un Ayuntamiento, compuesto de una Asamblea y un Presidente Municipal de elección popular directa y no habrá ninguna autoridad intermedia entre los funcionarios municipales y el Gobernador del Estado.
+Cada Municipio será administrado por un Ayuntamiento, compuesto de una Asamblea y un Presidente Municipal, de elección popular directa, y no habrá ninguna autoridad intermedia entre los funcionarios Municipales y el Gobierno del Estado. Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente, no podrán ser reelectos para el período inmediato; las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de Propietarios, no podrán ser electos para el período inmediato con el carácter de Suplentes; pero los que tengan el carácter de Suplentes, sí podrán ser electos para el período inmediato como Propietarios, siempre que no hayan estado en ejercicio.
 
 ###### Artículo 72.
 
@@ -795,13 +767,13 @@ Los Ayuntamientos serán representados judicialmente por uno o dos de sus miembr
 
 ###### Artículo 74.
 
-Las Asambleas Municipales se compondrán de cinco Munícipes electos directa y popularmente en la forma y términos que disponga la Ley Electoral para cuyo efecto cada Municipio se dividirá en cinco secciones.
+La Asamblea Municipal se compondrá de cinco Munícipes o Regidores Electos directa y popularmente en la forma y términos que disponga la Ley Electoral; pero los cinco serán electos directamente por toda la población con capacidad electoral, y no por secciones. Se adopta para la elección Municipal el sistema de representación proporcional, el cual será reglamentado por la Ley Electoral respectiva; pero en todo caso, la planilla que obtenga el veinte por ciento o más de los votos emitidos sin haber obtenido la mayoría de éllos, tendrá derecho a un asiento en la Asamblea Municipal. Por cada propietario, se elegirá un suplente.
 
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
 ###### Artículo 75.
 
-Las Asambleas Municipales se renovarán en su totalidad cada tres años.
+Las Asambleas Municipales se renovarán en su totalidad cada tres años. Pero todo grupo de ciudadanos que compongan más del cincuenta por ciento de la población con capacidad electoral municipal, podrá pedir y gestionar la revocación del mandato, por medio del referéndum facultativo popular, cuyo procedimiento y autoridades competentes para verificarlos, serán señalados por la Ley Reglamentaria respectiva.
 
 ###### Artículo 76.
 
@@ -823,7 +795,45 @@ Las Asambleas Municipales no pueden funcionar sin la concurrencia de más de la 
 
 Son atribuciones de las Asambleas Municipales:
 
-I. Expedir reglamentos sobre la administración municipal con sujeción a las bases que la ley establezca.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+
+I. Expedir Reglamentos y Decretos sobre la administración municipal, componiéndose ésta de las siguientes materias:
+
+a). Policía y Tránsito.
+
+b). Mercados.
+
+c). Rastros.
+
+d). Salones de belleza y peluquerías.
+
+e). Cantinas, pulquerías, cabarets, billares y demás establecimientos semejantes.
+
+f). Salones de diversión y espectáculos públicos.
+
+g). Pavimentación y embanquetado de las calles.
+
+h). Panteones.
+
+i). Disposiciones educativas que no estén expresamente reservadas por esta Constitución o las Leyes a la Federación o al Estado.
+
+j). Organización de festejos, conciertos y demás actos semejantes.
+
+k). Carteles, anuncios y demás medios de propaganda comercial.
+
+l). Horas de trabajo en los establecimientos comerciales, boticas y droguerías; así como el aspecto exterior que deban de presentar, sin perjuicio de las disposiciones sanitarias respectivas.
+
+m). Neverías, dulcerías y refresquerías.
+
+n). Restaurants, fondas y loncherías.
+
+o). Servicio de limpia y transporte de cualquier especie.
+
+p). Molinos de nixtamal, tortillerías y panaderías.
+
+q). Aguas potables y saneamiento.
+
+Sin embargo, cuando se trate de medidas, reglamentos y decretos que afecten al interés público del Municipio o a una mayoría de la población, dichas disposiciones serán sometidas a referéndum consultivo de la población con capacidad electoral, siempre que ellas no sean de carácter urgente. En caso contrario, las mismas disposiciones podrán dictarse y entrar en vigor sujetándolas posteriormente al procedimiento del veto popular. Una Ley Reglamentaria establecerá los requisitos y procedimientos necesarios para la práctica del referéndum en ambos casos.
 
 II. Formar anualmente su proyecto de Ley de Ingresos y su Presupuesto de Egresos, en la forma y términos que disponga la Ley Orgánica respectiva.
 
@@ -855,7 +865,7 @@ XIII. Formar su reglamento interior.
 
 ###### Artículo 79.
 
-Los Presidentes Municipales serán electos cada tres años, directa y popularmente. Por cada Propietario se elegirá un Suplente. No podrán ser Presidentes Municipales Propietarios ni Suplentes, los CC. que hayan desempeñado esos cargos en el período inmediatamente anterior.
+Los Presidentes Municipales serán electos directa y popularmente cada tres años, por cada Propietario se elegirá un suplente. Pero todo grupo de ciudadanos que componga más del cincuenta por ciento de la población con capacidad electoral municipal, podrá pedir y gestionar la revocación del mandato, por medio del referéndum facultativo popular, cuyo procedimiento y autoridades competentes para verificarlo serán señalados por la Ley Reglamentaria respectiva.
 
 ###### Artículo 80.
 
@@ -889,7 +899,9 @@ IV. Asistir a las sesiones de la Asamblea cuando lo estime conveniente con voz y
 
 V. Informar a la Asamblea, de palabra en sesión o por escrito, cuando fuere requerido para ello.
 
-VI. Publicar las leyes, decretos y demás disposiciones de observancia general en el Estado, en la forma y términos que marca esta Constitución.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+
+VI. Publicar las Leyes, Decretos y demás disposiciones de observancia general en el Estado, en la forma y términos que marque esta Constitución; y las de observancia general en la República conforme a las disposiciones de la Constitución Federal.
 
 VII. Remitir ejemplares a las autoridades residentes en el Municipio, de las leyes, decretos y demás disposiciones que publiquen, autorizados con su firma y la del Secretario, con expresión de la fecha en que han sido publicados.
 
@@ -897,9 +909,9 @@ VIII. Celebrar contratos con particulares o corporaciones en los términos presc
 
 IX. Cumplir y hacer cumplir las leyes, decretos, acuerdos, reglamentos y demás disposiciones del Estado.
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 1946)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
 
-X.- Nombrar, remover y conceder licencia en los términos de la Ley a los Empleados y funcionarios del Municipio, con excepción de los de la Asamblea, Jueces Conciliadores y Auxiliares.
+X. Nombrar, remover y conceder licencia en los términos de Ley, a los funcionarios y empleados del Municipio, incluyendo al Jefe y Agentes de Policía, con excepción de los de la Asamblea, Jueces Conciliadores y Auxiliares. En aquel Municipio en que resida el Ejecutivo del Estado, se estará a lo dispuesto por la fracción XI del artículo 53 de esta Constitución.
 
 XI. Ejercer las funciones de Juez del Registro Civil, donde no hubiere empleado especial nombrado por el Ejecutivo del Estado.
 
@@ -939,6 +951,8 @@ Los empleados que manejen fondos públicos, darán fianza en la forma que la ley
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
+
 ###### Artículo 89.
 
 Los funcionarios del Estado y los municipales, son responsables de los delitos comunes y de los delitos y faltas oficiales que cometieren durante su encargo.
@@ -963,7 +977,7 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ### CAPITULO II. DE LAS ASAMBLEAS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1945)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
 ###### Artículo 93.
 
@@ -1001,7 +1015,7 @@ Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emol
 
 ### CAPITULO III. DEL PRESIDENTE MUNICIPAL
 
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1948)</small>
 
 ## TITULO VIII. DE LA HACIENDA PUBLICA DEL ESTADO
 
@@ -1109,6 +1123,8 @@ P.O. 16 DE NOVIEMBRE DE 1947.
 
 Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
+P.O. 24 DE FEBRERO DE 1948.
+
 ###### ARTICULO UNICO
 
 - Este Decreto comenzará a surtir sus efectos desde el primero de junio de este año.
@@ -1138,3 +1154,11 @@ P.O. 8 DE MAYO DE 1944.
 El presente decreto deberá publicarse en el Periódico Oficial del estado y las reformas Constitucionales a que se refiere surtirán sus efectos a partir de la renovación de los próximos Poderes.
 
 P.O. 1 DE ABRIL DE 1945.
+
+###### Artículo 1o.
+
+Se derogan todas las Leyes y disposiciones que estén en contradicción con las anteriores reformas.
+
+###### Artículo 2o.
+
+El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias para cumplir con lo ordenado en las mismas reformas.
