@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2003-03-03"
+last_updated: "2003-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -349,11 +349,11 @@ La infracción de esta disposición será sancionada con la pérdida de la inves
 
 El Congreso del Estado se instalará cada tres años, el 15 de noviembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2003)</small>
 
 ###### Artículo 24.
 
-El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: El primero comenzará el 15 de noviembre y terminará el 15 de febrero, y el segundo comprenderá del 30 de abril al 31 de julio.
+El Congreso del Estado tendrá en el año dos períodos ordinarios de sesiones: el primero comenzará el 15 de noviembre y terminará el 15 de marzo, y el segundo comprenderá del 30 de abril al 31 de julio.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -387,7 +387,7 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios;
+En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipio.
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -395,7 +395,7 @@ III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Esta
 
 IV.- Autorizar al Ejecutivo para celebrar empréstitos sobre el crédito del Estado, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
 
-Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos;
+Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -919,7 +919,9 @@ El Congreso del Estado, en el ámbito de su competencia, establecerá como el or
 
 Este organismo no será competente tratándose de asuntos electorales, laborales ni jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
 
-Para el pleno desempeño de sus atribuciones la Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con conocimiento de diversas materias técnicas, científicas y humanísticas, para la resolución de casos que requieran de sus conocimientos. Sus nombramientos, con carácter honorífico serán designados por el Presidente de la Comisión Estatal de Derechos Humanos, para un período igual al de dicho servidor público.
+(REFORMADO, P.O. 17 DE MARZO DE 2003)(F. DE E., P.O. 21 DE ABRIL DE 2003)
+
+Para el pleno desempeño de sus atribuciones la Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas, con carácter honorífico, con conocimiento de diversas materias técnicas, científicas y humanísticas, para la resolución de casos que requieran de sus conocimientos, quienes serán designados por el Congreso del Estado, por un período igual al del Presidente de la Comisión Estatal de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1003,7 +1005,7 @@ El objeto de las Leyes de competencia municipal, será establecer:
 
 I.- Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamient.
+II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
 
 III.- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del Artículo 115, como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1559,7 +1561,7 @@ P.O. 2 DE JUNIO DE 1985.
 
 DECRETO NÚMERO 54, QUE REFORMA EL ARTÍCULO 68 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES..
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE JUNIO DE 1985.
 
@@ -1579,7 +1581,7 @@ El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al 
 
 P.O. 11 DE MARZO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 26 DE AGOSTO DE 1990.
 
@@ -1805,8 +1807,18 @@ P.O. 3 DE MARZO DE 2003.
 
 UNICO.- La reforma a la fracción V del Artículo 29 de la Constitución Política del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 17 DE MARZO DE 2003.
+
+DECRETO NÚMERO 86, QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 62 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El primer Consejo Consultivo de la Comisión Estatal de Derechos Humanos nombrado por el Congreso del Estado deberá quedar constituido dentro de los seis meses posteriores a la entrada en vigencia de la presente reforma.
+
+P.O. 17 DE MARZO DE 2003.
+
+DECRETO NÚMERO 88, QUE REFORMA EL ARTICULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE FEBRERO DE 1997.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
