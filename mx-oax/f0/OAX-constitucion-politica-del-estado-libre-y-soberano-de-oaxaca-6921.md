@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1990-10-29"
+last_updated: "1992-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1992.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -51,7 +51,7 @@ La Ley es igual para todos. La Constitución General de la República y esta Con
 
 Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -523,7 +523,7 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato; con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -547,27 +547,23 @@ El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado p
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hayan estado en ejercicio.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 33.
 
-El Congreso del Estado estará integrado por 18 Diputados electos según el principio de votación mayoritaria relativa, en Distritos Electorales Uninominales y hasta 6 Diputados que serán electos según el principio de representación proporcional en una sola circunscripción Estatal.
+El Congreso del Estado estará integrado por 21 diputados electos según el principio de mayoría relativa en distritos electorales uninominales y hasta 10 diputados que serán electos según el principio de representación proporcional mediante el sistema de lista votada en una sola circunscripción plurinominal y se sujetará a las bases siguientes y a lo que en lo particular disponga la Ley.
 
-La Ley secundaria reglamentará la forma y procedimiento para la elección de Diputados de Mayoría.
+I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
 
-La elección de Diputados según el principio de representación proporcional se sujetará a las Bases Generales siguientes y a lo que en particular disponga la Ley.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación estatal emitida;
 
-1 (sic).- Solo se asignarán Diputados por el sistema de representación proporcional a los partidos que acrediten:
+III.- El Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados, por el principio de representación proporcional, el número de diputados de su lista estatal que corresponda al porcentaje de votos obtenidos.
 
-A).- Haber participado con candidatos a Diputados por mayoría relativa cuando menos en doce distritos Uninominales y una lista de 6 candidatos para elegirse por representación proporcional;
+IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
 
-B).- Que alcanzó por lo menos el tres por ciento de la votación total emitida en la circunscripción plurinominal;
+V.- Los Partidos Políticos tendrán derecho a que les sean reconocidos hasta veintiún diputados, sumando los electos por mayoría relativa y por representación proporcional; y
 
-C).- No haber obtenido tres o más Diputaciones de mayoría relativa.
-
-II.- La asignación de los Diputados se hará en los términos de la Ley secundaria y siempre en el orden que tuviesen los candidatos en la lista registrada.
-
-III.- Cuando en las elecciones contendieren únicamente dos Partidos, se repartirá sólo el 50 por ciento de las Diputaciones por el sistema de proporcionalidad, si concurriera sólo un Partido, no se asignará ninguna representación proporcional.
+VI.- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -701,7 +697,7 @@ La Ciudad de Oaxaca de Juárez será el lugar donde la Legislatura celebre sus s
 
 ###### ARTICULO 49.
 
-Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y término de las mismas.
+Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y términos de las mismas.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
@@ -1135,7 +1131,9 @@ VII. Fijar en cada caso la extensión de terreno que pueden poseer y adquirir la
 
 VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
-IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la fracción XXXVII del artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+
+IX.- Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la fracción XLVI del artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
@@ -1295,7 +1293,9 @@ XXX. Establecer las medidas necesarias para preservar el medio ambiente y procur
 
 El Gobernador no puede:
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 54 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirá todos sus efectos legales.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
+
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 53 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, lo hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales.
 
 II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las facultades de Colegio Electoral o de Gran Jurado, ni los que expidiere a virtud de las facultades que le conceden las fracciones X, XI, XIII y XVI del artículo 59 y el artículo 62.
 
@@ -1323,9 +1323,9 @@ X. Disponer en ningún caso y por ningún motivo de los bienes que son propios d
 
 XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos que la Constitución Federal lo autorice, poniéndola inmediatamente sin excusa alguna a disposición de la autoridad competente.
 
-#### SECCION CUARTA. Del Gobierno y Administración Interior del Estado
+#### SECCION CUARTA. De los Municipios
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 82.
 
@@ -1423,9 +1423,13 @@ Sus miembros serán nombrados por el Gobernador.
 
 El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sector paraestatal, no podrán aceptar durante su ejercicio, comisión onerosa alguna de los particulares, de las corporaciones políticas o civiles como tampoco aquellas que pudiesen encomendarles las instituciones religiosas, aún cuando fueren de carácter gratuito o de distinción. El desacato a esta disposición traerá aparejada la separación inmediata del cargo y las responsabilidades que establezca la Ley de la materia.
 
+> <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACION], P.O. 10 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 92.
 
-El Estado de Oaxaca, para su régimen interior, se divide en municipios libres que serán agrupados en Distritos Rentísticos y Judiciales y que se erigirán o suprimirán conforme a las disposiciones contenidas en las fracciones IV y V del Artículo 59 de esta misma Constitución.
+El Estado de Oaxaca, para su régimen interior, se divide en municipios libres que serán agrupados en Distritos rentísticos y judiciales y que se erigirán o suprimirán conforme a las disposiciones contenidas en las fracciones VIII y IX del artículo 59 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 Para tener la categoría de Municipio se requerirá que la localidad respectiva cuente por lo menos con QUINCE MIL HABITANTES, y con los elementos suficientes para su sostenimiento, administración y desarrollo.
 
@@ -1675,9 +1679,9 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 Los bienes del dominio privado del municipio son los que le pertenecen en propiedad, así como los que en el futuro ingresen a su patrimonio por cualquiera de las formas de adquisición de la propiedad no previstas en la disposición anterior.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1992)</small>
 
-Los bienes del dominio privado podrán ser enajenados, mediante acuerdo del H. Ayuntamiento o previa autorización de la Legislatura local.
+Los bienes del dominio privado podrán ser enajenados mediante acuerdo del H. Ayuntamiento, previa autorización de la Legislatura local.
 
 ###### ARTICULO 109.
 
@@ -2510,3 +2514,7 @@ Las Adiciones y Reformas en los artículos 1, 2, 8, 12, 16, 18, 20, 23, 28, 59, 
 ###### ARTICULO TERCERO.
 
 Las Adiciones y Reformas a los artículos 25, 39, 90 bis y 150 entrarán en vigor cuando lo determine esta H. Legislatura al aprobarse las reglamentaciones correspondientes.
+
+P.O. 10 DE FEBRERO DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
