@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1942-01-20"
+last_updated: "1942-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 1942.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -413,7 +413,7 @@ El promovente de diligencias de jurisdicción voluntaria, así como los litigant
 
 La remuneración del notario no se regulará en las costas, sino cuando fuere designado de común acuerdo.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 69.
 
@@ -485,7 +485,7 @@ III. Decretos, todas las demás no comprendidas en las anteriores;
 
 Todas las resoluciones judiciales serán autorizadas con la firma entera de los Magistrados, Jueces o Secretarios que intervengan.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 81.
 
@@ -687,9 +687,11 @@ Cuando se trate de requerimientos, no encontrándose a la primera busca la perso
 
 La segunda y ulteriores notificaciones se harán personalmente se harán personalmente por el secretario o juez a los interesados o procuradores si concurren al tribunal respectivo con ese objeto, ya sea el mismo día en que se dicten las resoluciones que hayan de practicarse o al día siguiente.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+
 ###### Artículo 115.
 
-Si las partes o procuradores no concurren al tribunal o juzgado como se previene en el artículo anterior, la notificación se dará por hecha y surtirá todos sus efectos al día siguiente de dictada la resolución, siempre que se haya publicado el acuerdo respectivo en la puerta del tribunal o en su tabla de avisos, y en la propia fecha del acuerdo; si no se hubiere hecho la publicación, los términos se contarán desde que ésta se haga.
+Si las partes o procuradores no concurrieren al Tribunal o Juzgado como se previene en el artículo anterior, la notificación se dará por hecha y surtirá todos sus efectos al día siguiente de dictada la resolución siempre que se haya dejado al interesado, en la casa que tengan designada al efecto, copia autorizada del acuerdo respectivo, y publicado éste en la puerta del Tribunal o en su tabla de avisos, y en la propia fecha del acuerdo, de lo que se pondrá razón en autos, expresándose el nombre de la persona que hubiere recibido la copia y su firma o haciéndose constar la circunstancia de que no puede o no sabe firmar o se rehusa a hacerlo; si no se hubieren satisfecho estos requisitos, se dará por hecha y surtirá sus efectos la notificación desde que se cumplimenten.
 
 ###### Artículo 116.
 
@@ -1663,7 +1665,7 @@ Se presumen confesados los hechos de la demanda que se dejó de contestar.
 
 El demandado que oponga reconvención o compensación lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días, observándose respecto de éste y del demandado, las mismas reglas que quedan establecidas en los artículos 265 y siguientes.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 273.
 
@@ -1731,7 +1733,7 @@ Los autos en que se niegue alguna providencia de prueba, son apelables en ambos 
 
 Los hechos notorios no necesitan ser probados, y el juez puede invocarlos aunque no hayan sido alegados por las partes.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 285.
 
@@ -2549,7 +2551,7 @@ II. Las sentencias de que hecha notificación en forma, no se interpone recurso 
 
 III. Las sentencias de que se interpuso recurso, pero no se continuó en forma y término legales o se desistió de él la parte o su mandatario con poder o cláusula especial.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 420.
 
@@ -2557,7 +2559,7 @@ En los casos a que se refiere la fracción I del artículo anterior, el juez de 
 
 En el caso de la fracción II, la declaración se hará sustanciando el artículo con un escrito de cada parte. Los términos serán tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el juez en su caso.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 421.
 
@@ -2771,7 +2773,7 @@ El contrato de compraventa concertado bajo la condición resolutoria de la falta
 
 Procede también la acción ejecutiva para recuperar, bajo las mismas condiciones indicadas en el artículo anterior, el bien que se enajenó con reserva del dominio hasta la total solución del precio.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 450.
 
@@ -2873,7 +2875,7 @@ El deudor que no quiera aceptar la responsabilidad de depositario, entregará de
 
 Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 471.
 
@@ -2895,9 +2897,11 @@ En el caso previsto en el segundo párrafo del artículo 2797 del Código Civil,
 
 Del Juicio Sumario de Desahucio.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+
 ###### Artículo 475.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario, para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquier otra bastante como medio preparatorio del juicio.
+La demanda de desocupación debe fundarse en la falta de pago de una o más mensualidades y se acompañará el documento en que conste el contrato de arrendamiento.
 
 ###### Artículo 476.
 
@@ -2921,17 +2925,23 @@ Para los efectos de esta disposición y de la anterior, se equipara al recibo ex
 
 Los beneficios de los plazos que este artículo concede a los inquilinos, no son renunciables.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
+
 ###### Artículo 480.
 
-En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
+En caso de que se opongan otras excepciones por el demandado, se mandará dar vista con ellas al actor citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
 
 ###### Artículo 481.
 
-La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en ambos efectos.
+La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará siempre que el actor otorgue fianza que comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios si el superior revoca la sentencia. La que lo niegue será apelable en ambos efectos, si lo permite la cuantía del juicio.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1942)</small>
 
 ###### Artículo 482.
 
-Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia, se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 476.
+Si las excepciones fueren declaradas procedentes, en la misma resolución dará el Tribunal por terminada la providencia de lanzamiento. En caso contrario, en la misma sentencia, señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 476, y se condenará a pagar la renta que se adeudare hasta el día en que el demandado entregue la finca arrendada.
 
 ###### Artículo 483.
 
@@ -3023,7 +3033,7 @@ Si la sentencia no contiene cantidad líquida, la parte a cuyo favor se pronunci
 
 Cuando la sentencia hubiere condenado al pago de daños y perjuicios sin fijar su importe en cantidad líquida, háyanse establecido o no en aquélla las bases para la liquidación, el que obtuvo a su favor el fallo presentará con su solicitud, relación de los daños y perjuicios y de su importe. De esta regulación se correrá traslado al condenado, observándose lo prevenido en el artículo anterior.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 Lo mismo se practicará cuando la cantidad ilíquida proceda de frutos, rentas o productos de cualquiera clase.
 
@@ -3033,7 +3043,7 @@ Si la sentencia condena a hacer alguna cosa, el Juez señalará al que fue conde
 
 Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 I. Si el hecho fuere personal del obligado y no puede prestarse por otro, se le compelará (sic) por los medios de apremio más eficaces sin perjuicio del derecho para exigirle la responsabilidad civil;
 
@@ -3321,7 +3331,7 @@ De todo embargo de bienes raíces se tomará razón en el Registro Público de l
 
 Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor o a quien deba pagarlos, que no verifique el pago, sino que retenga la cantidad o cantidades correspondientes a disposición del juzgado, apercibido de doble pago en caso de desobediencia; y al acreedor contra quien se haya dictado el secuestro, que no disponga de esos créditos, bajo las penas que señala el Código Penal. Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título representa, y de intentar todas las acciones y recursos que la ley conceda para hacer efectivo el crédito, quedando sujeto, además a las obligaciones que impone el Código Civil en sus disposiciones relativas al secuestro.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 542.
 
@@ -4711,7 +4721,7 @@ Al promoverse el juicio sucesorio, debe presentarse la partida de defunción del
 
 Cuando con fundamento en la declaración de ausencia o de presunción de muerte de un ausente, se haya abierto sucesión si durante la secuela del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea con arreglo a derecho.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 775.
 
@@ -5671,7 +5681,7 @@ Previa la aceptación del tutor designado y la prestación de la garantía en la
 
 No se exigirá fianza a los tutores interinos cuando no tengan administración de bienes.
 
-(F. DE .E., P.O. 22 DE OCTUBRE DE 1940)
+> <small>(F. DE E., P.O. 22 DE OCTUBRE DE 1940)</small>
 
 ###### Artículo 943.
 
@@ -5895,7 +5905,7 @@ Rendidas las justificaciones que se exigen en el artículo anterior y obtenido e
 
 Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que dispone en el artículo 408 del Código Civil.
 
-Si el adoptante fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oir al representante del Ministerio Público.
+Si el adoptante fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
 
@@ -6324,3 +6334,7 @@ Las apelaciones de negocios civiles pendientes de resolución, al entrar en vigo
 ###### Artículo 2o.
 
 Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 21 DE ABRIL DE 1942.
+
+Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
