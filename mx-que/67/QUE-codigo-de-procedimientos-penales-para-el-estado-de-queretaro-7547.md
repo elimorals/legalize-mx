@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2002-10-25"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -156,6 +156,12 @@ VII.- Ordenar o llevar a cabo todos aquellos actos que le corresponda realizar, 
 VIII.- En las indagatorias en contra de miembros de una asociación delictuosa, la investigación deberá comprender el conocimiento de las estructuras y formas de operación de dichos grupos.
 
 Con ese propósito, el Procurador General de Justicia podrá autorizar la infiltración de elementos investigadores, dentro de las asociaciones delictivas, siempre y cuando con ello no se cause daño a la integridad de las personas y sea necesario para los fines previstos en el párrafo precedente.
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
+IX.- Autorizar la disposición de órganos y tejidos humanos, a los disponentes secundarios conforme a lo dispuesto en el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos, cuando el occiso en vida haya hecho manifestación expresa de donarlos, con sujeción a los requisitos legales estipulados en el citado reglamento. Así mismo, y para tal fin, deberá de prestar todas las facilidades necesarias a efecto de no entorpecer las actividades tendientes a la disposición de los mismos.
+
+Para el caso de que la autoridad ministerial incurra en actos u omisiones tendientes a entorpecer el trámite normal de disposición de órganos, tejidos y cadáveres de seres humanos ocasionando con ello que se lesionen los intereses y la dignidad de terceros, se hará acreedor a las sanciones que sean aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado de Queretaro.
 
 ARTICULO 21 (Facultades del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
 
@@ -1011,6 +1017,10 @@ ARTICULO 171 (Médicos en los hospitales públicos).- Cuando se trate de una les
 
 ARTICULO 172 (Necropsia en los hospitales públicos).- La necropsia de cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos de éste, sin perjuicio de la facultad que concede la parte final del artículo anterior.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
+De igual forma, los médicos de los hospitales públicos y privados, estarán obligados a respetar las disposiciones contenidas en el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos en lo referente y para efectos de este artículo, a la disposición de órganos, tejidos y cadáveres humanos.
+
 ARTICULO 173 (Intervención de médicos forenses).- Fuera de los casos previstos en los dos artículos anteriores, el reconocimiento o la necropsia se practicarán por los peritos médicos forenses oficiales.
 
 ARTICULO 174 (Asistencia del funcionario).- Cuando el funcionario que ordene la prueba pericial lo juzgue conveniente, asistirá a las actividades que desarrollen los peritos tendientes a emitir su dictamen.
@@ -1715,7 +1725,7 @@ ARTICULO 305 (Reglas generales y condiciones de interposición).- Las resolucion
 
 ARTICULO 306 (Objeto de las impugnaciones).- Las impugnaciones, según el caso, tienen por objeto examinar, si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó inexactamente; si se violaron los principios reguladores de la valoración de la prueba, o si se alteraron los hechos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 307 (Sujetos legitimados para impugnar).- Tienen el derecho a interponer el medio de impugnación que proceda, salvo disposición expresa de la ley, el ofendido cuando concluidas las diligencias de preparación del ejercicio de la acción penal, el Procurador General de Justicia del Estado, determine el no ejercicio de la misma; y durante la fase del procedimiento ante el órgano jurisdiccional, cuando el propio Procurador ratifique las conclusiones no acusatorias del Ministerio Público o exista desistimiento de la acción penal; en estas dos últimas hipótesis, aunque no se haya constituido en coadyuvante del Ministerio Público.
 
@@ -1859,7 +1869,7 @@ ARTICULO 320 (Radicación de Recurso).- Recibido el expediente original, el dupl
 
 ###### ARTICULO 321.
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
+(DEROGADO P.O. 19 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1873,7 +1883,7 @@ ARTICULO 325 (Falta de competencia del Juez de Primera Instancia).- Cuando el Ju
 
 ARTICULO 326 (Diligencias para mejor proveer).- Cuando el Tribunal una vez que tenga los autos a la vista para resolver, creyere necesario, para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer, con citación de las partes y la desahogarán dentro del término de diez días son sujeción a las reglas establecidas por este Código, para el desahogo de pruebas.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 327 (Resolución del Recurso de Apelación).- Una vez calificada la admisión y los efectos de la apelación, el Tribunal procederá a pronunciar el fallo correspondiente dentro del plazo de quince días, sin que se exceda el plazo previsto por el artículo 8 del presente Código, haciendo en su caso, la suplencia a la que se refiere el artículo 312 segundo párrafo de este Código.
 
@@ -1893,11 +1903,11 @@ Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dicta
 
 ARTICULO 338 (Ejecución del Reconocimiento).- Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al Órgano ejecutor de sanciones del Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y procederá conforme al artículo 48 del Código Penal para el Estado.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VII. REVISION
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 A.- (Resoluciones impugnables en revisión).- El recurso de revisión es admisible en contra de:
 
@@ -1907,7 +1917,7 @@ II.- El desistimiento de la acción penal, que se presente en cualquier momento 
 
 III.- Las conclusiones no acusatorias formuladas por el Agente del Ministerio Público y ratificadas por el Procurador General de Justicia del Estado.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 B.- (Interposición, tramitación y resolución del recurso de revisión, en contra de la determinación de no ejercicio de la acción penal).- El plazo para interponer recurso de revisión en contra de la determinación del no ejercicio de la acción penal dictada por el Procurador General de Justicia del Estado, será de diez días contados a partir de la notificación hecha al ofendido sobre dicha resolución, y se interpondrá por escrito en el que deberán expresarse los motivos de inconformidad, ante el propio Procurador, quien sin más trámite lo admitirá en el efecto ejecutivo.
 
@@ -1919,7 +1929,7 @@ Si éste se declara inadmisible, se devolverán las diligencias al Procurador Ge
 
 En su caso, el juez revisor pronunciará el fallo correspondiente dentro de un plazo de quince días contados a partir de la radicación del recurso, disponiéndose que el Procurador General de Justicia ejercite la acción penal, confirmando su no ejercicio o, en su caso, ordenando al Procurador que se continúe la investigación con el fin de que se recaben elementos suficientes para estar en condiciones de decidir sobre el ejercicio o no ejercicio de la acción penal.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 C.- (Interposición, tramitación y resolución del recurso de revisión en contra del desistimiento de la acción penal y en contra de las conclusiones no acusatorias confirmadas por el Procurador General de Justicia).- Contra el desistimiento de la acción penal, y contra las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, el ofendido, aunque no se haya constituido en coadyuvante del Ministerio Público, dentro del plazo de diez días, podrá interponer el recurso de revisión.
 
@@ -1933,7 +1943,7 @@ Si el juez revisor revoca el desistimiento de la acción penal, devolverá al ju
 
 Si lo que se revoca son las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, devolverá al juez los autos para el efecto de que le dé vista al Ministerio Público para que formule conclusiones acusatorias dentro del plazo que al efecto se le haya concedido; en caso contrario, deberá decretar el sobreseimiento.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 338 D.- (Inimpugnabilidad de las resoluciones que se dicten con motivo del recurso de revisión).- Las determinaciones que dicte el juez revisor para resolver el recurso de revisión no admitirán medio de impugnación alguno.
 
@@ -2117,7 +2127,7 @@ II.- Cuando, por haberse dictado sentencia absolutoria penal, el Juzgador se abs
 
 ### CAPITULO VI. NULIDAD DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PARRAFO PRIMERO P.O. 2 DE ABRIL DE 1999)</small>
 
 ARTICULO 380 (Causas).- Habrá lugar a la nulidad y en su caso, la reposición del procedimiento, por alguna de las causas siguientes:
 
@@ -2233,7 +2243,7 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 
 Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
-P.O. 2 DE ABRIL DE 1999.
+P.O. 02 DE ABRIL DE 1999.
 
 ###### ARTICULO PRIMERO.
 
@@ -2265,8 +2275,6 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 
 P.O. 23 DE AGOSTO DE 2002
 
-LEY QUE ADICIONA LA FRACCION XX AL ARTICULO 121 DEL CODIGO
-
 ###### ARTICULO PRIMERO.
 
 La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
@@ -2276,8 +2284,6 @@ La presente Ley iniciará su vigencia al día siguiente de su publicación en el
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
 
 P.O. 23 DE AGOSTO DE 2002
-
-LEY QUE ADICIONA LA FRACCION XXII AL ARTICULO 121 DEL CODIGO
 
 ###### ARTICULO PRIMERO.
 
@@ -2296,3 +2302,13 @@ Esta Ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+P.O. 1 DE NOVIEMBRE DE 2002
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
