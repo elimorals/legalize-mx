@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1983-12-27"
+last_updated: "1985-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1775,13 +1775,9 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-###### ARTICULO 279.
-
-Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio, cuando haya mediado perdón expreso o tácito; no se considera perdón tácito la mera suscripción de una solicitud de divorcio voluntario, ni los actos procesales posteriores.
-
 ###### ARTICULO 281.
 
-El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa suficiente para el divorcio.
 
 ###### ARTICULO 282.
 
@@ -7185,11 +7181,13 @@ ARTICULO 1,600.- Cuando siendo válido el testamento no deba subsistir la instit
 
 ARTICULO 1,601.- Si el testador dispone legalmente sólo de una parte de sus bienes el resto de ellos forma la sucesión legítima.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 1,602.- Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
+I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el artículo 1635.
 
-II.- A falta de los anteriores, la Beneficencia Pública.
+II.- A falta de los anteriores, la beneficencia pública.
 
 ARTICULO 1,603.- El parentesco de afinidad no da derecho de heredar.
 
@@ -7267,9 +7265,9 @@ ARTICULO 1,634.- A falta de los llamados en los artículos anteriores, sucederá
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO VI. De la sucesión de los Concubinos
+### CAPITULO VI. De la Sucesión de los Concubinos
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -9559,21 +9557,133 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2,304 y 2,305.
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
 ## TITULO QUINTO. Del mutuo
 
 ## TITULO SEXTO. Del arrendamiento
 
-### CAPITULO IV. Del arrendamiento de fincas urbanas
+### CAPITULO IV
 
-ARTICULO 2,448.- No podrá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+Del arrendamiento de fincas urbanas destinadas a la Habitación
+
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448.- Las disposiciones de este Capítulo son de orden público e interés social. Por tanto son irrenunciables y en consecuencia, cualquier estipulación en contrario se tendrá por no puesta.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 B.- El arrendador que no haga las obras que ordene la autoridad sanitaria correspondiente como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufren por esa causa.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario, que será prorrogable, a voluntad del arrendatario, hasta por dos años más siempre y cuando se encuentre al corriente en el pago de las rentas.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 D.- Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
+
+> <small>(F. DE E., D.O.F. 29 DE MARZO DE 1985)</small>
+
+La renta sólo podrá ser incrementada anualmente; en su caso, el aumento no podrá exceder del 85 por ciento del incremento porcentual, fijado al salario mínimo general del Distrito Federal, en el año en el que el contrato se renueve o se prorrogue.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 E.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
+
+El arrendatario no está obligado a pagar la renta sino desde el día en que reciba el inmueble objeto del contrato.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 F.- Para los efectos de este Capítulo el contrato de arrendamiento debe otorgarse por escrito, la falta de esta formalidad se imputará al arrendador.
+
+El contrato deberá contener, cuando menos las siguientes estipulaciones:
+
+I.- Nombres del arrendador y arrendatario.
+
+II.- La ubicación del inmueble.
+
+III.- Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
+
+IV.- El monto de la renta.
+
+V.- La garantía, en su caso.
+
+VI.- La mención expresa del destino habitacional del inmueble arrendado.
+
+VII.- El término del contrato.
+
+VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 G.- El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
+
+El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
+
+Igualmente el arrendatario tendrá derecho para registrar su copia del contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 H.- El arrendamiento de fincas urbanas destinadas a la habitación no termina por la muerte del arrendador ni por la del arrendatario, sino sólo por los motivos establecidos en las leyes.
+
+Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
+
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 I.- Para los efectos de este capítulo, el arrendatario, si está al corriente en el pago de la renta tendrá derecho a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento del inmueble. Asimismo, tendrá el derecho del tanto en caso de que el propietario quiera vender la finca arrendada.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 J.- El ejercicio del derecho del tanto se sujetará a las siguientes reglas:
+
+I.- En todos los casos el propietario deberá dar aviso en forma indubitable al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compra-venta.
+
+II.- El o los arrendatarios dispondrán de 15 días para notificar en forma indubitable al arrendador su voluntad de ejercitar el derecho del tanto en los términos y condiciones de la oferta.
+
+III.- En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso en forma indubitable al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de 15 días para los efectos del párrafo anterior. Si el cambio se refiere al precio, el arrendador sólo está obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento.
+
+IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la Ley de la materia.
+
+V.- Los notarios deberán cerciorarse del cumplimiento de este artículo previamente a la autorización de la escritura de compra-venta.
+
+VI.- La compra-venta y su escrituración realizadas en contravención de lo dispuesto en este artículo serán nulas de pleno derecho y los Notarios incurrirán en responsabilidad en los términos de la Ley de la materia. La acción de nulidad a que se refiere esta fracción prescribe a los seis meses contados a partir de que el arrendatario tuvo conocimiento de la realización del contrato.
+
+En caso de que el arrendatario no dé el aviso a que se refieren las fracciones II y III de este artículo precluirá su derecho.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 K.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la Ley para que sea fiador.
+
+Tratándose del arrendamiento de viviendas de interés social es potestativo para el arrendatario dar fianza o sustituir esa garantía con el depósito de un mes de renta.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+ARTICULO 2,448 L.- En todo contrato de arrendamiento para habitación deberán transcribirse íntegras las disposiciones de este capítulo.
+
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
 
 ARTICULO 2,449.- El arrendador que no haga las obras que ordene el Departamento de Salubridad Pública como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
+
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
 
 ARTICULO 2,450.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
 Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
+
 ARTICULO 2,451.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2,449.
+
+> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
 
 ARTICULO 2,452.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
 
@@ -11595,17 +11705,29 @@ ARTICULO 3,041.- Podrá también cancelarse, total o parcialmente la hipoteca qu
 
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)(F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
-ARTICULO 3,042.- En el Registro Público de la Propiedad inmueble se inscribirán:
+ARTICULO 3,042.- En el Registro Público de la Propiedad Inmueble se inscribirán:
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
 I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+
 II.- La constitución del patrimonio familiar;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
 
 III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
 
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1979)</small>
+
 IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+
+(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+
+No se inscribirán las escrituras en las que se trasmita la propiedad de un inmueble dado en arrendamiento, a menos de que en ellas conste expresamente que se cumplió con lo dispuesto en los artículos 2448 I y 2448 J de este Código en relación con el derecho del tanto correspondiente al arrendatario.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -12258,3 +12380,13 @@ DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVI
 ###### ARTICULO PRIMERO.
 
 El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE FEBRERO DE 1985.
+
+DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
+
+TRANSITORIO PRIMERO.- Los contratos celebrados con anterioridad a la promulgación del presente decreto continuarán en vigor respecto al término pactado por las partes.
+
+DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES EN ARRENDAMIENTO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
