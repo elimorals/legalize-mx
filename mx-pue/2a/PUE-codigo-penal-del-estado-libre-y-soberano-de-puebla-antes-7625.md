@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2003-03-14"
+last_updated: "2003-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2003.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -359,9 +359,9 @@ III.- Sanción pecuniaria, que comprende la multa y la reparación del daño;
 
 IV.- Decomiso, pérdida de los instrumentos del delito y destrucción de cosas peligrosas y nocivas;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-V.- Internación de enfermos mentales;
+V.- Internación de enfermos mentales, y tratamiento integral para rehabilitación de los infractores;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2147,9 +2147,9 @@ II.- Al que, para eludir la práctica de una diligencia decretada por una autori
 
 III.- Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
-#### SECCION PRIMERA.- AMENAZAS
+#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 258.
 
@@ -2171,9 +2171,9 @@ IV.- Al que preste servicios privados de seguridad o se ostente como prestador d
 
 Para los efectos del presente ordenamiento, se considerará como Servidor Público, al Notario que cuente con la Patente en Ejercicio; incluyendo a su Auxiliar o Substituto según sea el caso.
 
-#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+#### SECCION PRIMERA.- AMENAZAS
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 259.
 
@@ -2181,7 +2181,9 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ### CAPITULO DUODECIMO.- DELITOS CONTRA LA FAMILIA
 
-#### SECCION TERCERA.- ASALTO Y ATRACO
+#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 260.
 
@@ -2213,7 +2215,7 @@ III.- Cuando el sujeto pasivo sea mayor de doce años y el delito se ejecute con
 
 El delito de ataques al pudor se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
 
-#### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
+#### SECCION TERCERA.- ASALTO Y ATRACO
 
 ###### Artículo 264.
 
@@ -2231,9 +2233,7 @@ Cuando la persona estuprada fuere menor de catorce años, se presumirá en todo 
 
 No se procederá contra el estuprador, sino por queja del ofendido, de sus padres o a falta de éstos, de sus representantes.
 
-#### SECCION QUINTA.- PLAGIO Y SECUESTRO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
+#### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
 
 ###### Artículo 267.
 
@@ -2297,7 +2297,9 @@ III.- La introducción en una persona, por vía anal o vaginal, de cualquier obj
 
 En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
 
-#### SECCION PRIMERA.- LESIONES
+#### SECCION QUINTA.- PLAGIO Y SECUESTRO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 273.
 
@@ -2319,27 +2321,25 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida; pero si 
 
 Cuando el rapto vaya acompañado de otro delito perseguible de oficio, sí se procederá contra el raptor, por este último, aunque no haya queja de la ofendida.
 
-#### SECCION SEGUNDA.- HOMICIDIO
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION PRIMERA.- LESIONES
 
 ###### Artículo 278.
 
 La reparación del daño en los casos de estupro, violación o rapto comprenderá además, el pago de alimentos a la ofendida y a los hijos, si los hubiere, de acuerdo con lo dispuesto por las leyes civiles.
 
+#### SECCION SEGUNDA.- HOMICIDIO
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 #### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
 
 #### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
-
-#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
 
 ### CAPITULO VIGESIMO.- DELITOS ELECTORALES
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
 
-#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
 
 ###### Artículo 279.
 
@@ -2363,9 +2363,9 @@ VIII.- Usurpar el estado civil de otro con el fin de adquirir derechos de famili
 
 Además de las sanciones indicadas, el delincuente perderá todo derecho de heredar que tuviere respecto de las personas a quienes, por la comisión del delito, perjudique en sus derechos de familia.
 
-#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
+#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 280.
 
@@ -2383,7 +2383,9 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION OCTAVA.- ABORTO
+#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 283.
 
@@ -2399,9 +2401,29 @@ Al que contando con el consentimiento de un ascendiente que ejerciere la patria 
 
 Las mismas sanciones se impondrán a los terceros que recibieren al menor y a las personas que otorgaren su consentimiento, a quienes además se privará de los derechos de patria potestad, tutela o custodia, en su caso; pero si se acreditare que quien recibió al menor lo hizo con el propósito de incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, las penas se le reducirán hasta la mitad de lo previsto en el primer párrafo.
 
-CAPITULO DECIMOTERCERO.- INFRACCIONES A LAS LEYES Y REGLAMENTOS SOBRE INHUMACIONES Y EXHUMACIONES
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION PRIMERA.- ATAQUES PELIGROSOS
+#### SECCION OCTAVA.- ABORTO
+
+###### Artículo 284. Bis.
+
+Se considera como violencia familiar la agresión física o moral de manera individual o reiterada, que se ejercita en contra de un miembro de la familia por otro integrante de la misma, con afectación a la integridad física o psicológica o de ambas, independientemente de que pueda producir afectación orgánica.
+
+Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; concubina; pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado; adoptante; madrastra; padrastro; hijastra; hijastro; pupilo; pupila o tutor que intencionalmente incurra en la conducta descrita en el párrafo anterior, contra cualquier integrante de la familia que se encuentre habitando en la misma casa de la víctima.
+
+A quien cometa el delito de violencia familiar, se le impondrán de uno a seis años de prisión y multa de cincuenta a ciento cincuenta días de salario; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
+
+La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y de la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
+
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
+
+###### Artículo 284. Ter.
+
+Se equipara al delito de violencia familiar y se sancionará como tal, a quien abusando de la confianza depositada o de una relación de cualquier índole con la víctima, ejecute conductas que entrañen el uso de la violencia física o moral en contra de cualquier menor de catorce años, que dañe su integridad física o psicológica.
+
+Las sanciones señaladas en esta sección se aumentarán a las que correspondan por cualquier otro delito que resulte cometido.
+
+CAPITULO DECIMOTERCERO.- INFRACCIONES A LAS LEYES Y REGLAMENTOS SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### Artículo 285.
 
@@ -2435,7 +2457,7 @@ Si en los casos previstos en el artículo anterior se cometiere otro delito, se 
 
 CAPITULO DECIMOCUARTO.- DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTIAS DE LAS PERSONAS
 
-#### SECCION SEGUNDA.- ABANDONO DE PERSONAS
+#### SECCION PRIMERA.- ATAQUES PELIGROSOS
 
 ###### Artículo 290.
 
@@ -2463,7 +2485,7 @@ II.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanció
 
 III.- Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito, se le impondrá el doble de la sanción correspondiente a la amenaza.
 
-#### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
+#### SECCION SEGUNDA.- ABANDONO DE PERSONAS
 
 ###### Artículo 293.
 
@@ -2471,9 +2493,7 @@ Al que sin motivo justificado, sin orden de autoridad competente y fuera de los 
 
 En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
 
-#### SECCION SEGUNDA.- DIFAMACION
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
 
 ###### Artículo 294.
 
@@ -2497,9 +2517,9 @@ Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noch
 
 Cuando dos o más salteadores atacaren una población, se impondrán de quince a cincuenta años de prisión a los cabecillas o jefes, y de doce a cuarenta años a los demás, sin perjuicio de aplicar las reglas de acumulación por cualesquiera otros delitos que resultaren cometidos.
 
-#### SECCION TERCERA.- CALUMNIA
+#### SECCION SEGUNDA.- DIFAMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 299.
 
@@ -2519,7 +2539,9 @@ Si la detención a que se refiere la fracción I del artículo anterior, excedie
 
 Se impondrá prisión de dos a seis años y multa de diez a cien días de salario, al que obligue a otro a prestarle trabajos o servicios personales sin la debida retribución, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio.
 
-#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+#### SECCION TERCERA.- CALUMNIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 302.
 
@@ -2563,11 +2585,11 @@ Si el plagiario pusiere espontáneamente en libertad a la persona secuestrada, d
 
 CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
+#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
 #### SECCION PRIMERA.- ROBO
 
 #### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
-
-#### SECCION TERCERA.- ABUSO DE CONFIANZA
 
 ###### Artículo 305.
 
@@ -2637,9 +2659,7 @@ d) Incapacidad para engendrar o concebir.
 
 ###### Artículo 309.
 
-Si el ofendido fuere cónyuge, concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptado, adoptante, madrastra, padrastro, hijastra, hijastro, pupilo o tutor del autor de la lesión, se aumentará de dos meses a tres años de prisión la sanción que correspondiere imponer conforme a los artículos precedentes; pero si además de la lesión, el ofendido se quejare de maltrato material o emocional, mediante el uso reiterado de la fuerza física o moral, o por omisión grave, que implicare la existencia de un ambiente de violencia familiar que afectare su integridad personal e incluso la de otros miembros de la familia, también podrá imponerse al agente la privación de la patria potestad, en su caso, y de los derechos hereditarios y de alimentos derivados de esa relación.
-
-El Ministerio Público o la autoridad judicial, con el apoyo del Sistema Estatal para el Desarrollo Integral de la Familia y demás instituciones con fines similares, acordarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del agresor y la víctima, así como para salvaguardar la integridad física o psíquica de ésta y sus familiares.
+Si el ofendido fuere menor de catorce años, se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima de las sanciones que corresponda imponer conforme a los artículos precedentes.
 
 ###### Artículo 310.
 
@@ -2651,7 +2671,7 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Al que infiera lesiones calificadas se les impondrán las sanciones correspondientes a las lesiones simples, aumentadas hasta en un tercio más de su duración, por la concurrencia de cada una de las circunstancias previstas en el artículo 323.
 
-#### SECCION CUARTA.- FRAUDE
+#### SECCION TERCERA.- ABUSO DE CONFIANZA
 
 ###### Artículo 312.
 
@@ -2699,7 +2719,7 @@ Al responsable de cualquier homicidio simple intencional y que no tenga señalad
 
 Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable una sanción de dos a nueve años de prisión, si es el provocado y de cinco a doce años, si es el provocador.
 
-#### SECCION QUINTA.- DESPOJO
+#### SECCION CUARTA.- FRAUDE
 
 ###### Artículo 318.
 
@@ -2725,7 +2745,7 @@ III.- Cuando las lesiones sean unas mortales y otras no y se ignorare quiénes i
 
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se impondrán de tres a ocho años de prisión a todos los que hubieren atacado al occiso con armas a propósito para causarle esas lesiones.
 
-#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
+#### SECCION QUINTA.- DESPOJO
 
 ###### Artículo 321.
 
@@ -2785,7 +2805,7 @@ Al responsable de un homicidio calificado, se le impondrá de veinte a cincuenta
 
 De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
 
-#### SECCION SEPTIMA.- CHANTAJE
+#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
 
 ###### Artículo 333.
 
@@ -2801,7 +2821,7 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1994)</small>
 
-#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
+#### SECCION SEPTIMA.- CHANTAJE
 
 ###### Artículo 336.
 
@@ -2813,7 +2833,7 @@ Configura dicho ilícito el homicidio de un ascendiente o descendiente consangu�
 
 Al que cometa el delito a que se refiere el artículo que antecede, se le impondrán de veinte a cincuenta años de prisión.
 
-#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
 ###### Artículo 338.
 
@@ -2823,7 +2843,7 @@ I.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
 II.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
-#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
+#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
 ###### Artículo 339.
 
@@ -2863,9 +2883,9 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 
 CAPITULO DECIMOSEXTO.- DELITOS DE PELIGRO
 
-#### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
+#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
 
-#### SECCION CUARTA.- COHECHO
+#### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
 
 ###### Artículo 344.
 
@@ -2875,7 +2895,7 @@ Se aplicará de tres días a dos años de prisión y multa de tres a treinta dí
 
 Si a consecuencia de los actos a que se refiere el artículo anterior se causare algún daño, solamente se impondrán las sanciones del delito que resultare.
 
-#### SECCION QUINTA.- PECULADO
+#### SECCION CUARTA.- COHECHO
 
 ###### Artículo 346.
 
@@ -2923,9 +2943,9 @@ Si en los supuestos previstos por los artículos que forman esta sección, se ca
 
 CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR
 
-#### SECCION SEXTA.- CONCUSION
+#### SECCION QUINTA.- PECULADO
 
-#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
+#### SECCION SEXTA.- CONCUSION
 
 ###### Artículo 355.
 
@@ -2935,7 +2955,7 @@ Se impondrá de tres meses a tres años de prisión y multa de cinco a cincuenta
 
 Son simples los golpes y las violencias físicas que no causen lesión en el ofendido.
 
-#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
+#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
 
 ###### Artículo 357.
 
@@ -2971,7 +2991,7 @@ III.- Al autor de un escrito o de un alegato, presentado en los tribunales, que 
 
 Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o contenga hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
 
-#### SECCION NOVENA.- REGLAS GENERALES
+#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
 
 ###### Artículo 362.
 
@@ -2995,9 +3015,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien y se haya acusado de calumnia al denunciante o querellante, se suspenderá el ejercicio de la acción de calumnia, hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-#### SECCION UNICA
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+#### SECCION NOVENA.- REGLAS GENERALES
 
 ###### Artículo 366.
 
@@ -3041,7 +3059,7 @@ CAPITULO DECIMOCTAVO.- DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO
 
 #### SECCION UNICA
 
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 373.
 
@@ -3204,6 +3222,10 @@ El robo o destrucción de un título de crédito o de un documento original, en 
 ###### Artículo 389.
 
 Al que se le imputare el hecho de haber tomado una cosa ajena y acredite haberla tomado con carácter temporal para su uso, se le aplicarán de uno a seis meses de prisión, si no se negó a devolverla cuando se le requirió para ello.
+
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 390.
 
@@ -4086,5 +4108,15 @@ P.O. 14 DE MARZO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
