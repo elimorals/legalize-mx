@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1964-11-30"
+last_updated: "1968-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1968.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -1069,11 +1069,11 @@ Los funcionarios y empleados de justicia por ningún acto judicial cobrarán cos
 
 Los magistrados, jueces y secretarios recibirán por viáticos, el importe de su sueldo diario que les asigne el presupuesto respectivo.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 136.
 
-Cada parte será inmediatamente responsable de los gastos que originen las diligencias que promueva; en caso de condenación en costas, la parte condenada indemnizará a la otra de todos los que hubiere erogado en el juicio. La condenación no comprenderá la remuneración del procurador ni la del patrono, sino cuando justifique que su título de abogado se encuentra registrado legalmente en el Supremo Tribunal de Justicia del Estado.
+Cada parte será inmediata responsable de los gastos que originen las diligencias que promueva. La parte condenada al pago de las costas indemnizará a las otras de todos los gastos que hubiere hecho en el juicio. La condenación no comprenderá los honorarios del apoderado ni los del patrono, sino cuando justifiquen que su título de de (sic) licenciado en Derecho se encuentra inscrito en el Departamento de Profesiones, o cuando tengan autorización para realizar actividades profesionales.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2885,11 +2885,11 @@ Fuera de los casos de excepción de que hablan los artículos anteriores, sólo 
 
 También podrán admitirse hasta antes de la citación para sentencia y sin que se suspenda el curso del juicio, los documentos que aunque conocidos, no hubieren podido adquirirse con anterioridad, y los que pedidos en tiempo legal no hubieren sido remitidos al juzgado o tribunal, sino hasta después de concluído el término para probar.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 388.
 
-De todo documento que se presente después del término de prueba se dará traslado a la otra parte para que dentro del tercer día manifieste lo que a su derecho convenga. Si lo arguye de falso se observará lo que se previene en el artículo 567.
+Las partes sólo podrán objetar los documentos dentro de los tres días siguientes a la apertura del término de prueba, tratándose de los presentados hasta entonces; los exhibidos con posterioridad podrán serlo en igual término, contando desde que surta efectos la notificación del auto que lo haya tenido como prueba. Si se arguyen de falsos se observará lo dispuesto en los artículos 475 y 558.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -3511,11 +3511,15 @@ V. Las firmas puestas en los documentos públicos o en actuaciones judiciales, e
 
 El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de una sana crítica, sin tener que sujetarse al dictamen de aquéllos; pudiendo aun ordenar que se repita el cotejo por otros peritos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 475.
 
-Cuando alguna de las partes sostenga la falsedad de un documento que pueda ser de influencia notoria en el pleito, se observarán las prescripciones relativas del Código de Procedimientos Penales. En este caso, no se citará para sentencia sino hasta que se decida sobre la falsedad por la autoridad competente. Si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, el juez oirá en forma de incidente a las partes sobre el valor probatorio del instrumento, reservándose la resolución para la sentencia definitiva. La falsedad podrá alegarse durante el término probatorio o dentro de los tres días siguientes.
+Cuando alguna de las partes sostenga la falsedad penal de un documento que pueda ser de influencia en el pleito, no se citará para sentencia sino hasta que se decida sobre la falsedad por el órgano competente. La suspensión será decretada por el juez o magistrado, si la solicita el Ministerio Público ajustándose a las disposiciones de su Ley Orgánica. El auto que dicte el juez será apelable en ambos efectos.
+
+La parte que haya presentado el documento será requerida mediante notificación personal, para que dentro del término de tres días manifieste si insiste en que se tome en cuenta. Si no contesta, se le tendrá por desistida de la prueba, sin ulterior recurso; en este caso y cuando exprese que no se tome en consideración, el juicio seguirá su curso.
+
+Cuando el procedimiento penal concluya sin decidir si el documento es o no falso, el tribunal de lo civil concederá un término de diez días para que las partes rindan sus pruebas, sobre esos extremos, a fin de que en la sentencia se decida sobre el valor probatorio del documento.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4113,11 +4117,11 @@ Los instrumentos públicos hacen prueba plena, aunque se presenten sin citación
 
 Los documentos que resulten netamente inconformes con los originales, no tendrán valor alguno probatorio. Si hubiere conformidad parcial, en este punto harán prueba plena.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 558.
 
-En caso de que alguna de las partes sostenga la falsedad de un documento, se seguirá por cuerda separada el incidente, sin suspenderse los procedimientos; pero no se pronunciará sentencia definitiva en el negocio principal, sino concluído que fuere dicho incidente por resolución que cause ejecutoria.
+En caso de que alguna de las partes sostenga la falsedad civil de un documento, el juez o magistrado observará lo dispuesto en el último párrafo del artículo 475.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4401,11 +4405,11 @@ Respecto de las tachas regirá lo dispuesto en los artículos 465 a 467.
 
 ### CAPITULO XV. De los alegatos y de la citación para sentencia
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 597.
 
-Concluído el término probatorio, o en su caso el del incidente de tachas, el juez de oficio mandará poner los autos a la vista de las partes, por su orden, primero el actor y después el demandado por diez días a cada uno, para que aleguen de buena prueba.
+Concluido el término probatorio, o en su caso el del mandará poner los autos a la vista de las partes, por su orden, primero el actor y después el demandado por cinco días a cada uno, para que aleguen de buena prueba.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4665,11 +4669,11 @@ No son admisibles la reconvención o la compensación sino cuando las acciones e
 
 En los juicios ejecutivos y de desahucio la excepción de pago sólo puede justificarse con prueba documental o de confesión.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 627.
 
-No procede conceder término supletorio ni el extraordinario de prueba en los negocios a que se refiere el artículo 622. El juez si lo cree conveniente podrá mandar concluir las pruebas pendientes, dando en tal caso conocimiento del resultado de ellas a las partes, por el término común de veinticuatro horas, para que aleguen lo que les convenga.
+No procede conceder término supletorio ni el extraordinario de prueba en los negocios a que se refiere el artículo 622; tampoco el juez podrá aplicar las reglas de los artículos 366 y 415.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5385,11 +5389,11 @@ Si se opusieren tachas, se observará lo dispuesto en el capítulo respectivo.
 
 Si transcurrido el término para contestar los agravios no se concediere prueba, se citará de oficio para sentencia, la que se pronunciará dentro de diez días si se tratare de sentencia definitiva o de cinco días en cualquier otro caso.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 728.
 
-En su caso, concluida la dilación probatoria, se concederá a las partes el término común de diez días para alegar, y una vez transcurrido, se procederá conforme a la regla del artículo anterior.
+En su caso, concluida la dilación probatoria, se concederá a las partes el término común de cinco días para alegar, y una vez transcurrido, se procederá conforme a la regla del artículo anterior.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -6707,13 +6711,17 @@ Cuando en alguna junta o audiencia se promoviere alguna dificultad sobre que amb
 
 Los incidentes motivados por cuestiones que directamente puedan destruir o dilatar la acción intentada o las excepciones opuestas, se resolverán en la sentencia definitiva y sólo se les dará curso si se fundan en prueba documental que se acompañará al escrito respectivo y en hechos que hayan tenido lugar con posterioridad a la demanda. Este incidente no pondrá obstáculo alguno a la secuela y se substanciará en la misma pieza de autos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
 
 ###### Artículo 910.
 
-Los incidentes sobre nulidad de actuaciones sólo pueden promoverse antes de que el negocio quede en estado de sentencia en los términos del artículo 97.
+Los incidentes sobre nulidad de actuaciones sólo pueden promoverse antes de que el negocio quede en estado de sentencia, en los términos del artículo 97.
 
-En los incidentes criminales que surjan en negocios civiles, se observará lo dispuesto en el Código de Procedimientos Penales y no se suspenderá el curso del juicio, sino en el caso del artículo 567.
+En los incidentes penales que surjan en negocios civiles, el juez o magistrado suspenderá el procedimiento si el Ministerio Público lo solicita de acuerdo con lo establecido en su Ley Orgánica. El auto que dicte el juez será apelable en ambos efectos.
+
+Si se denuncia delito de falsificación de documento, se observará lo dispuesto en el artículo 475.
+
+Cuando la denuncia se refiera al delito de fraude por simulación de un juicio, declarada ésta por sentencia penal firme y recibido el testimonio, se dictarán las medidas necesarias para restituir las cosas al estado que guardaban antes de iniciarse el juicio. Se podrá reanudar el curso de éste, si el procedimiento penal concluye sin decidir sobre la simulación.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10534,3 +10542,9 @@ Los negocios que se hallen en trámite en la fecha que indica el artículo anter
 ###### Artículo 3o.
 
 Salvo lo que expresa el artículo anterior, se derogan todas las disposiciones que se opongan a esta Ley.
+
+P.O. 2 DE MAYO DE 1968.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor a los diez días siguientes a la fecha de su publicación en el Periódico Oficial.
