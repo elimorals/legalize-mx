@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2003-09-09"
+last_updated: "2004-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -439,23 +439,17 @@ VIII. Emitir opiniones, cuando así se le solicite, sobre investigaciones o estu
 
 IX. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.O. 16 DE OCTUBRE DE 2004)</small>
+
 #### SECCIÓN QUINTA. De la Coordinación de Asesoría y Orientación Municipal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### Artículo 27.
 
-A la Coordinación de Asesoría y Orientación Municipal le corresponden las funciones siguientes:
-
-I. Realizar estudios orientados al fortalecimiento de los municipios de la Entidad;
-
-II. Asesorar y orientar a los municipios del Estado, respecto a la elaboración y aplicación de sus reglamentos;
-
-III. Coadyuvar con las autoridades municipales, en la promoción y difusión de estudios y proyectos de desarrollo económico, social y administrativo;
-
-IV. Promover cursos, seminarios, conferencias y publicaciones para orientar a los ayuntamientos en el cumplimiento de sus funciones;
-
-V. Recopilar la información de los distintos aspectos del ámbito municipal, en un banco de datos y difundirlo para el estudio y desarrollo de actividades legislativas y de carácter económico y social; y
-
-VI. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
+(DEROGADO, G.O. 16 DE OCTUBRE DE 2004)
 
 #### SECCIÓN SEXTA. De la Coordinación de Informática
 
@@ -1244,3 +1238,13 @@ Natalio Alejandro Arrieta Castillo
 diputado secretario
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 16 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el treinta y uno de octubre de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
