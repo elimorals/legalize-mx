@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1933-04-29"
+last_updated: "1934-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1934.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -483,7 +483,9 @@ XXI. Nombrar a los Magistrados del Supremo Tribunal de Justicia.
 
 XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
-XXIII. Nombrar Gobernador Provisional cuando sin licencia y de modo absoluto faltare por cualquier motivo el Gobernador Constitucional, o cuando deje de presentarse el electo a desempeñar sus funciones el día señalado para tomar posesión del Poder Ejecutivo, o no se hubiere efectuado la elección, o verificada esta no se hubiere hecho y publicado la declaración del Gobernador electo.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
+
+XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo 85 de esta Constitución, para que promulgue el Decreto convocando a elecciones en los términos y forma que dicha disposición constitucional establece y para que desempeñe el Poder Ejecutivo mientras se hace cargo del mismo el Gobernador Constitucional Substituto que resulte electo.
 
 XXIV. Comunicarse con el Ejecutivo por medio de Comisiones nombradas de su seno.
 
@@ -537,7 +539,9 @@ XLVII. Dictar leyes tendentes a combatir con la mayor energía el alcoholismo.
 
 XLVIII. Dictar leyes para organizar en el territorio del Estado, el sistema penal por colonias penitenciarias sobre la base del trabajo como medio de regeneración.
 
-LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, si esto ocurriere dentro de los dos primeros años del período.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
+
+LIX. (sic) Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período.
 
 L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Supremo Tribunal de Justicia y de los impedimentos que tengan para desempeñar sus cargos, nombrando en su caso quien deba substituirlos.
 
@@ -733,7 +737,11 @@ La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este
 
 Si no hubiere habido elección de Goberndor (sic), si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1934)</small>
+
+ART. 85.- En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar (sic) formación de causa ya sea por violación a la presnte (sic) Constitución, o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembrns (sic), un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción LIX del Artículo 58 de esta Constitución. El Congreso convocará a alecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado.
+
+El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro del último año del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -1444,3 +1452,7 @@ UNICO:- Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su
 P.O. 29 DE ABRIL DE 1933.
 
 Unico.- Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial de Estado.
+
+P.O. 16 DE JUNIO DE 1934.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
