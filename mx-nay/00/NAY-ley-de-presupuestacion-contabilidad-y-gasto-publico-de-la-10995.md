@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-presupuestacion-contabilidad-y-gasto-publico-de-la-10995
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-29"
-last_updated: "1994-05-04"
+last_updated: "1995-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PRESUPUESTACION, CONTABILIDAD Y GASTO PUBLICO DE LA ADMINISTRACION DEL GOBIERNO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1989.
 
@@ -271,11 +271,15 @@ Cada una de las entidades llevará su propia contabilidad, la cual incluirá las
 
 Las dependencias y entidades suministrarán a la Secretaría de Finanzas, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Finanzas, la que será responsable de formular la cuenta anual de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado, para su presentación ante el H. Congreso del Estado, a más tardar dentro de los primeros treinta días del segundo periodo de sesiones ordinarias de cada año, fecha en que debe rendirse la Cuenta Pública.
+Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Finanzas, la cual será responsable de la formulación de la Cuenta de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado para su presentación trimestral, ante el Congreso del Estado, a más tardar cuarenta y cinco días posteriores a la terminación del trimestre que se informe. Además, el Ejecutivo Estatal, informará de igual manera, el monto de las Participaciones Federales recibidas y la forma de distribución hacia los Municipios.
+
+Una vez aprobada la Cuenta Pública, deberán publicarse en el Periódico Oficial, Organo del Gobierno del Estado, los principales resultados alcanzados con los recursos ejercidos.
+
+Cuando por motivos específicos de la transición del Poder Ejecutivo, relativos al último año de gestión gubernamental, la remisión de la última Cuenta Pública, se hará de manera bimestral por los meses de Julio-Agosto; y las dos primeras remisiones de la Administración del Poder Ejecutivo entrante, se efectuarán de igual manera bimestral, y comprenderán los períodos de Septiembre-Octubre y Noviembre-Diciembre.
 
 (REUBICADO, REFORMADA SU NUMERACION, P.O. 4 DE MAYO DE 1994)
 
@@ -325,7 +329,7 @@ La Secretaría de la Contraloría General, realizará periódicamente la evaluac
 
 ###### ARTICULO 45.
 
-Con base en los informes que se deriven de las evaluaciones que efectúe la Secretaría de la Contraloría, la Secretaría de Finanzas, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
+Con base en los ifnormes que se deriven de las evaluaciones que efectúe la Secretaría de la Contraloría, la Secretaría de Finanzas, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
 
 I. Modificación a las Políticas, Disposiciones Administrativas y Lineamientos en materia de Gasto.
 
@@ -384,3 +388,9 @@ Lic. Pedro Ponce de León Montes.
 P.O. 4 DE MAYO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE DICIEMBRE DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto, entrará en vigor el día Primero de Enero de mil novecientos noventa y seis, debiéndose publicar en el Periódico Oficial Organo de Gobierno del Estado.
