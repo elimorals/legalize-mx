@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1992-12-28"
+last_updated: "1994-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE SEPTIEMBRE DE 1994.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -4981,9 +4981,11 @@ Con las modificaciones que se expresan en este Capítulo, los juicios se tramita
 
 Juicio hipotecario.
 
+> <small>(REFORMADO, B.O. 19 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Art. 527.
 
-Se tramitarán en juicio hipotecario las demandas que tengan por objeto exigir el pago o la prelación de un crédito garantizado con hipoteca.
+Se tramitarán en juicio hipotecario las demandas que tengan por objeto exigir el pago de un crédito garantizado por hipoteca, sin importar la naturaleza jurídica de dicho crédito, ni la materia que lo regula.
 
 ###### Art. 528.
 
@@ -8394,3 +8396,9 @@ Se derogan las disposiciones que se opongan a la aplicación de la presente Ley.
 ###### ARTICULO TERCERO.
 
 Los asuntos que se encuentren en trámite ante los tribunales antes de la entrada en vigor de esta Ley, se seguirán tramitando conforme a las disposiciones que se reforman, hasta su total terminación.
+
+B.O. 19 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
