@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1986-12-24"
+last_updated: "1989-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -633,6 +633,8 @@ V.- Estudiar, proyectar y determinar los aranceles y fijar los precios oficiales
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 VI.- Estudiar y determinar mediante reglas generales, conforme a los montos globales establecidos por la Secretaría de Hacienda y Crédito Público, los estímulos fiscales necesarios para el fomento industrial, el comercio interior y exterior y el abasto, incluyendo los subsidios sobre impuestos de importación, y administrar su aplicación, así como vigilar y evaluar sus resultados;
+
+> <small>N. DE E. EN RELACION CON LA PRESENTE FRACCION, SE DEROGAN EXCLUSIVAMENTE LAS FACULTADES EN MATERIA DE INSPECCION Y VIGILANCIA, DE PRECIOS O TARIFAS, ASI COMO LA DE SANCIONAR EN LOS CASOS DE INCUMPLIMIENTO, D.O.F. 4 DE ENERO DE 1989.</small>
 
 VII.- Establecer la política de precios, y con el auxilio y participación de las autoridades locales, vigilar su estricto cumplimiento, particularmente en lo que se refiere a artículos de consumo y uso popular, y establecer las tarifas para la prestación de aquellos servicios de interés público que considere necesarios, con la exclusión de los precios y tarifas de los bienes y servicios de la Administración Pública Federal; y definir el uso preferente que deba darse a determinadas mercancías;
 
@@ -1397,3 +1399,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 24 DE DICIEMBRE DE 1986.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE ENERO DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
