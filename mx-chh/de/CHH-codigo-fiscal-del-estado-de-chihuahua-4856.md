@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1990-12-29"
+last_updated: "1992-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1992.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1685,33 +1685,13 @@ Cuando dichas personas operen organizadas en agrupaciones profesionales, asociac
 
 #### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1992)</small>
 
-177.- El impuesto se causará mensualmente, conforme a la siguiente
+177.- El impuesto se causará mensualmente, aplicando la tasa del 2% sobre total de los ingresos obtenidos con motivo de las actividades a que se refiere este capítulo.
 
-TARIFA
+178.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
-INGRESOS NETOS TASA
-
-HASTA 400,000 5.5%
-
-MAS DE 400,000 HASTA 750,000 6.5%
-
-MAS DE 750,000 HASTA 1´500.000 7.0%
-
-MAS DE 1´500,000 HASTA 2´750.000 7.5%
-
-MAS DE 2´750.000 HASTA 4´500.000 8.0%
-
-MAS DE 4´500.000 8.5%
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
-
-178.- Los sujetos de este impuesto podrán deducir los gastos necesarios con motivo del ejercicio de la actividad profesional independiente.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1990)</small>
-
-179.- Los artistas cinematográficos, los de variedades, los que efectúan representaciones teatrales, así como los sujetos que actúen en espectáculos taurinos o deportivos, tendrán derecho a deducir únicamente el 20% de los ingresos brutos, no pudiendo hacer las deducciones a que se refiere el artículo anterior.
+179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
 180.- La Tesorería General del Estado podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
 
@@ -4300,3 +4280,7 @@ P.O. 29 DE DICIEMBRE DE 1990.
 DECRETO No. 366-90-II-P.O.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor el día primero de mil novecientos noventa y uno.
+
+P.O. 20 DE JUNIO DE 1992.
+
+UNICO.- El presente Decreto surtirá efectos a partir del día primero de enero de 1992, por lo cual, los sujetos del impuesto que hayan efectuado el pago correspondiente al mes de enero y siguientes conforme a las disposiciones que se reforman, podrán acreditarlo en la declaración posterior o solicitar su devolución.
