@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1969-09-24"
+last_updated: "1970-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE SEPTIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE DICIEMBRE DE 1970.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -865,7 +865,9 @@ XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus d
 
 XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
 
-XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 12 DE DICIEMBRE DE 1970)</small>
+
+XX. Ejercer el mando supremo de las fuerzas del Estado, y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente, y nombrar y remover, en los términos que establezca la ley reglamentaria, a los jefes y oficiales superiores de la policía urbana de los Municipios del Estado.
 
 XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
@@ -1385,13 +1387,13 @@ III. No haber sido Presidente Municipal electo por el pueblo, o haber desempeña
 
 Los presidentes municipales y concejales de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos propietarios para el periodo inmediato, a menos de que hayan estado en ejercicio.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 12 DE DICIEMBRE DE 1970)</small>
 
 ### CAPÍTULO XII. DE LOS GRUPOS VOLUNTARIOS
 
 ###### Artículo 136.
 
-En caso de falta temporal o absoluta del Presidente Municipal, entrará a fungir el primer regidor propietario, y en defecto de éste, el concejal propietario que le siga en número por el orden de su designación.
+Las faltas temporales o absolutas del Presidente Municipal, serán suplidas como se establezca en la Ley Orgánica de Administración Municipal.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1863,7 +1865,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -1874,3 +1876,7 @@ B.O. 24 DE SEPTIEMBRE DE 1969.
 ###### ARTICULO UNICO.
 
 La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 12 DE DICIEMBRE DE 1970.
+
+UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
