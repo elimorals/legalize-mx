@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1975-08-15"
+last_updated: "1975-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1975.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE AGOSTO DE 1975 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 1975.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1975.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4061,7 +4059,7 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 En el caso previsto en el artículo 704, el cónyuge sólo tendrá derecho a los alimentos.
 
-### CAPITULO VIII.
+### CAPITULO UNICO.
 
 Del Patrimonio de la Familia.
 
@@ -4101,9 +4099,9 @@ Por causa de ausencia no se suspenden los términos que fija la ley para la pres
 
 El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
-## TITULO I.
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 1975)</small>
 
-Disposiciones Preliminares.
+## TITULO XII.. (REUBICADO, P.O. 24 DE OCTUBRE DE 1975)
 
 ### CAPITULO II.
 
@@ -4141,21 +4139,25 @@ Tienen derecho de habitar la casa y de disfrutar los frutos de la parcela afecta
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1959)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1975)</small>
 
 ###### Artículo 728.
 
-El valor máximo de los bienes afectos al Patrimonio de la familia será de $ 25,000.00 en los Municipios de Ahome, Guasave, Culiacán; y Mazatlán y de $15,000.00 en los demás Municipios del Estado, si se trata de una familia compuesta por solo dos personas; si el número es mayor, el valor de su patrimonio podrá aumentarse en una octava parte de las cantidades indicadas, por cada persona, sin que el máximo pueda exceder de $ 30,000.00 y $ 25,000.00 respectivamente.
+El valor máximo de los bienes afectos al Patrimonio de la familia será de $ 100,000.00, si se trata de una familia compuesta por sólo dos personas; si el número es mayor, el valor de su patrimonio podrá aumentarse en una décima parte de la cantidad indicada, por cada persona, sin que el máximo pueda exceder de $ 120,000.00.
 
 ###### Artículo 729.
 
 El Patrimonio de la Familia podrá establecerse:
 
-I.- Por el padre, en su defecto por la madre; y en defecto de ambos, por el ascendiente que ejerce la patria potestad;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1975)</small>
 
-II.- Por los cónyuges sobre sus bienes respectivos sin que, en tratándose de la mujer, necesite esta autorización del marido;
+I.- Por los padres, conjunta o separadamente; y en defecto de ambos, por el ascendiente que ejerza la patria potestad.
 
-III.- Por el pariente de cualquier grado, que suministre alimentos a sus ascendientes, descendientes o colaterales, siempre que vivan formando una familia;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1975)</small>
+
+II.- Por los cónyuges sobre sus bienes respectivos.
+
+III.- Por el pariente de cualquier grado que suministre alimentos a sus ascendientes, descendientes o colaterales, siempre que vivan formando una familia;
 
 IV.- Por el tutor, cuando administre bienes pertenecientes a menores.
 
@@ -4181,9 +4183,11 @@ Si se llenan los requisitos exigidos en el artículo anterior, el Juez, previos 
 
 Cuando el valor de los bienes afectos al Patrimonio de la Familia es inferior al máximo fijado en el artículo 728, podrá ampliarse el Patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código Procesal.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1975)</small>
+
 ###### Artículo 733.
 
-Cuando haya peligro de que quien tiene obligación de dar alimentos pierda sus bienes por mala administración o por que los esté dilapidando, los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho de exigir judicialmente que se constituya el Patrimonio de la Familia hasta por los valores fijados en el artículo 728. En la constitución de este Patrimonio se observará, en lo conducente, lo dispuesto en los artículos 730 y 731.
+Los acreedores alimentistas y si éstos son incapaces, sus tutores o el Ministerio Público, tienen derecho a exigir judicialmente que se constituya el Patrimonio de la Familia hasta por los valores fijados en el Artículo 728. En la constitución de este Patrimonio se observará, en lo conducente, lo dispuesto en los Artículos 730 y 731.
 
 ###### Artículo 734.
 
@@ -4247,6 +4251,12 @@ IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman
 
 V.- Cuando tratándose del Patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 735, se declare judicialmente nula o rescindida la venta de esos bienes.
 
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 1975)</small>
+
+###### Artículo 740 Bis.
+
+Aún cuando fallezca el autor del Patrimonio de la Familia, éste no podrá liquidarse ni adjudicarse a nadie en particular, persistiendo en tanto subsistan hijos menores de edad, incapacitados o el cónyuge supérstite no contraiga matrimonio, estando impedido éste último de trabajar, no tenga bienes suficientes y viva honestamente.
+
 ###### Artículo 741.
 
 La declaración de que queda extinguido el Patrimonio, la hará el Juez competente mediante el procedimiento fijado en el Código respectivo y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
@@ -4289,9 +4299,9 @@ Las anotaciones y el registro que haga la Oficina del Registro Público con moti
 
 # Libro Segundo. DE LOS BIENES
 
-## TITULO II.
+## TITULO I.
 
-Clasificación de los Bienes.
+Disposiciones Preliminares.
 
 ###### Artículo 748.
 
@@ -4305,9 +4315,9 @@ Las cosas pueden estar fuera del comercio por su naturaleza o por disposición d
 
 Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley, las que ella declara irreductibles a propiedad particular.
 
-## TITULO III.
+## TITULO II.
 
-De la Posesión.
+Clasificación de los Bienes.
 
 ### CAPITULO III.
 
@@ -4527,9 +4537,9 @@ El denunciante recibirá la cuarta parte del valor catastral de los bienes que d
 
 El que se apodere de un bien vacante sin cumplir lo prevenido en este Capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
 
-## TITULO IV.
+## TITULO III.
 
-De la Propiedad.
+De la Posesión.
 
 ### CAPITULO II.
 
@@ -4739,9 +4749,9 @@ VII.- Por expropiación por causa de utilidad pública.
 
 Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
-## TITULO V.
+## TITULO IV.
 
-Del Usufructo, del Uso y de la Habitación.
+De la Propiedad.
 
 ### CAPITULO III.
 
@@ -5399,9 +5409,9 @@ La división de bienes inmuebles es nula si no se hace con las mismas formalidad
 
 Son aplicables a la división entre partícipes las reglas concernientes a la división de herencias.
 
-## TITULO VI.
+## TITULO V.
 
-De las Servidumbres.
+Del Usufructo, del Uso y de la Habitación.
 
 ### CAPITULO III.
 
@@ -5761,9 +5771,9 @@ Si el usuario consume todos los frutos de los bienes, o el que tiene derecho de 
 
 Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
 
-## TITULO VII.
+## TITULO VI.
 
-De la Prescripción.
+De las Servidumbres.
 
 ### CAPITULO III.
 
@@ -6143,9 +6153,9 @@ Si entre los propietarios hubiere alguno contra quien por leyes especiales no pu
 
 El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera que la servidumbre misma.
 
-## TITULO I.
+## TITULO VII.
 
-Disposiciones Preliminares.
+De la Prescripción.
 
 ### CAPITULO III.
 
@@ -6411,9 +6421,9 @@ Cuando el último día sea feriado, no se tendrá por completa la prescripción,
 
 # Libro Tercero. DE LAS SUCESIONES
 
-## TITULO II.
+## TITULO I.
 
-De la Sucesión por Testamento.
+Disposiciones Preliminares.
 
 ###### Artículo 1179.
 
@@ -6471,9 +6481,9 @@ Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferir
 
 El derecho concedido en el artículo 1190 cesa si la enajenación se hace a un coheredero.
 
-## TITULO III.
+## TITULO II.
 
-De la forma de los Testamentos.
+De la Sucesión por Testamento.
 
 ### CAPITULO III.
 
@@ -7427,9 +7437,9 @@ III.- Si renuncia a su derecho.
 
 La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho adquiera después de la muerte del heredero o legatario, cuyos derechos se trasmiten a sus respectivos herederos.
 
-## TITULO IV.
+## TITULO III.
 
-De la Sucesion Legitima.
+De la forma de los Testamentos.
 
 ### CAPITULO III.
 
@@ -7865,9 +7875,9 @@ De la Sucesión de los Descendientes.
 
 Los testamentos hechos en país extranjero o fuera del Estado, producirán efectos en Sinaloa cuando hayan sido formulados de acuerdo con las leyes del lugar en que se otorgaron.
 
-## TITULO V.
+## TITULO IV.
 
-Disposiciones Comunes a las Sucesiones Testamentarias y Legitimas.
+De la Sucesion Legitima.
 
 ### CAPITULO III.
 
@@ -8095,9 +8105,9 @@ A falta de todos los herederos llamados en los capítulos anteriores, sucederá 
 
 Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
 
-## TITULO I.
+## TITULO V.
 
-Fuentes de las Obligaciones.
+Disposiciones Comunes a las Sucesiones Testamentarias y Legitimas.
 
 ### CAPITULO III.
 
@@ -8843,9 +8853,9 @@ PRIMERA PARTE
 
 De las obligaciones en General.
 
-## TITULO II.
+## TITULO I.
 
-Modalidades de las Obligaciones.
+Fuentes de las Obligaciones.
 
 ### CAPITULO III.
 
@@ -9543,9 +9553,9 @@ La acción para exigir la reparación de los daños causados en los términos de
 
 El riesgo por accidentes del trabajo, se regirá por la Ley Federal del Trabajo.
 
-## TITULO III.
+## TITULO II.
 
-De la Transmisión de las Obligaciones.
+Modalidades de las Obligaciones.
 
 ### CAPITULO III.
 
@@ -10025,13 +10035,9 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso e
 
 El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruída a costa del obligado.
 
-## TITULO IV.
+## TITULO III.
 
-Efectos de las Obligaciones.
-
-I. Efectos de las Obligaciones entre las Partes.
-
-Cumplimiento de las Obligaciones.
+De la Transmisión de las Obligaciones.
 
 ### CAPITULO III.
 
@@ -10197,9 +10203,13 @@ No habrá subrogación parcial en deudas de solución indivisible.
 
 El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
 
-## TITULO V.
+## TITULO IV.
 
-Extinción de las Obligaciones.
+Efectos de las Obligaciones.
+
+I. Efectos de las Obligaciones entre las Partes.
+
+Cumplimiento de las Obligaciones.
 
 ### CAPITULO I.
 
@@ -10771,9 +10781,9 @@ Luego que se anule un acto simulado, se restituirá la cosa o derecho a quien pe
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
-## TITULO VI.
+## TITULO V.
 
-De la Inexistencia y de la Nulidad.
+Extinción de las Obligaciones.
 
 ### CAPITULO III.
 
@@ -10963,11 +10973,9 @@ Cuando la novación se efectúe entre el acreedor y algún deudor solidario, los
 
 Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exhonerados todos los demás codeudores, sin perjuicio de lo dispuesto en el artículo 1881.
 
-## TITULO I.
+## TITULO VI.
 
-De los Contratos Preparatorios.
-
-La Promesa.
+De la Inexistencia y de la Nulidad.
 
 ###### Artículo 2106.
 
@@ -11049,9 +11057,11 @@ SEGUNDA PARTE
 
 De las Diversas Especies de Contratos.
 
-## TITULO II.
+## TITULO I.
 
-De la Compra-Venta.
+De los Contratos Preparatorios.
+
+La Promesa.
 
 ###### Artículo 2125.
 
@@ -11075,9 +11085,9 @@ Para que la promesa de contratar sea válida debe constar por escrito, contener 
 
 Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
-## TITULO III.
+## TITULO II.
 
-De la Permuta.
+De la Compra-Venta.
 
 ### CAPITULO III.
 
@@ -11481,9 +11491,9 @@ Por regla general, las ventas judiciales se harán en moneda efectiva y al conta
 
 En las enajenaciones judiciales que hayan de verificarse para dividir una cosa común, se observará lo dispuesto para la partición entre herederos.
 
-## TITULO IV.
+## TITULO III.
 
-De las Donaciones.
+De la Permuta.
 
 ###### Artículo 2209.
 
@@ -11505,9 +11515,9 @@ Lo dispuesto en el Artículo anterior no perjudica los derechos que a título on
 
 Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta en cuanto no se opongan a los artículos anteriores.
 
-## TITULO V.
+## TITULO IV.
 
-Del Mutuo.
+De las Donaciones.
 
 ### CAPITULO III.
 
@@ -11747,9 +11757,9 @@ Cuando la reducción no exceda de la mitad del valor del inmueble, el donatario 
 
 Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
-## TITULO VI.
+## TITULO V.
 
-Del Arrendamiento.
+Del Mutuo.
 
 ### CAPITULO I.
 
@@ -11825,9 +11835,9 @@ Si se ha convenido un interés más alto que el legal, el deudor, después de se
 
 Las partes no pueden bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 
-## TITULO VII.
+## TITULO VI.
 
-Del Comodato.
+Del Arrendamiento.
 
 ### CAPITULO III.
 
@@ -12357,9 +12367,9 @@ Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de
 
 En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2338, 2339 y 2340.
 
-## TITULO VIII.
+## TITULO VII.
 
-Del Depósito y del Secuestro.
+Del Comodato.
 
 ###### Artículo 2379.
 
@@ -12437,9 +12447,9 @@ Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sir
 
 El comodato termina por la muerte del comodatario.
 
-## TITULO IX.
+## TITULO VIII.
 
-Del Mandato.
+Del Depósito y del Secuestro.
 
 ### CAPITULO I.
 
@@ -12573,9 +12583,9 @@ Secuestro judicial es el que se constituye por decreto del juez.
 
 El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
 
-## TITULO X.
+## TITULO IX.
 
-Del Contrato de Prestación de Servicios.
+Del Mandato.
 
 ### CAPITULO III.
 
@@ -12931,13 +12941,9 @@ El mandatario que renuncie tiene obligación de seguir el negocio mientras el ma
 
 Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2479.
 
-## TITULO XI.
+## TITULO X.
 
-De las Asociaciones y de las Sociedades.
-
-I.
-
-De las Asociaciones.
+Del Contrato de Prestación de Servicios.
 
 ### CAPITULO III.
 
@@ -13237,9 +13243,13 @@ El hospedaje expreso se rige por las condiciones estipuladas y el tácito por el
 
 Los equipajes de los pasajeros responden preferentemente del importe del hospedaje; a ese efecto, los dueños de los establecimientos donde se hospeden podrán retenerlos en prenda hasta que obtengan el pago de lo adeudado.
 
-## TITULO XII.
+## TITULO XI.
 
-De los Contratos Aleatorios.
+De las Asociaciones y de las Sociedades.
+
+I.
+
+De las Asociaciones.
 
 ###### Artículo 2552.
 
@@ -13719,9 +13729,9 @@ Si el propietario no exige su parte dentro de los sesenta días después de fene
 
 En el caso de venta de los animales, antes de que termine el contrato de aparcería, disfrutarán los contratantes del derecho del tanto.
 
-## TITULO XIII.
+## TITULO XII.
 
-De la Fianza.
+De los Contratos Aleatorios.
 
 ### CAPITULO III.
 
@@ -13859,9 +13869,9 @@ El vendedor tiene derecho al precio aunque no lleguen a existir los frutos o pro
 
 Los demás derechos y obligaciones de las partes, en la compra de esperanza, serán los que se determinan en el título de compra-venta.
 
-## TITULO XIV.
+## TITULO XIII.
 
-De la Prenda.
+De la Fianza.
 
 ### CAPITULO III.
 
@@ -14191,9 +14201,9 @@ Si el fiador enajena o grava los bienes raices cuyas inscripciones de propiedad 
 
 El fiador legal o judicial no puede pedir la excusión de los bienes del deudor principal; ni los que fían a esos fiadores pueden pedir la excusión de éstos, así como tampoco la del deudor.
 
-## TITULO XV.
+## TITULO XIV.
 
-De la Hipoteca.
+De la Prenda.
 
 ###### Artículo 2737.
 
@@ -14361,9 +14371,9 @@ Extinguida la obligación principal, sea por el pago, sea por cualquiera otra ca
 
 Respecto de los montes de piedad, que con autorización legal prestan dinero sobre prenda, se observarán las leyes y reglamentos que les conciernen, y supletoriamente las disposiciones de este título.
 
-## TITULO XVI.
+## TITULO XV.
 
-De las Transacciones.
+De la Hipoteca.
 
 ### CAPITULO III.
 
@@ -14655,9 +14665,9 @@ La hipoteca extinguida por dación en pago, revivirá si el pago queda sin efect
 
 En los casos del artículo anterior, si el registro hubiere sido ya cancelado, revivirá solamente desde la fecha de la nueva inscripción; quedando siempre a salvo al acreedor el derecho para ser indemnizado por el deudor, de los daños y perjuicios que se le hayan seguido.
 
-## TITULO I.
+## TITULO XVI.
 
-De la Concurrencia y Prelación de los Créditos.
+De las Transacciones.
 
 ###### Artículo 2825.
 
@@ -14751,9 +14761,9 @@ No podrá intentarse demanda contra el valor o subsistencia de una transacción,
 
 TERCERA PARTE
 
-## TITULO II.
+## TITULO I.
 
-Del Registro Público.
+De la Concurrencia y Prelación de los Créditos.
 
 ### CAPITULO III.
 
@@ -14990,6 +15000,10 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 ###### Artículo 2879.
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas ni al origen de los créditos.
+
+## TITULO II.
+
+Del Registro Público.
 
 ### CAPITULO III.
 
@@ -15466,3 +15480,9 @@ P.O. 13 DE AGOSTO DE 1975.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE OCTUBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+El presente Decreto empezará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
