@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1949-07-23"
+last_updated: "1949-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1949.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -979,6 +979,10 @@ Los Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se co
 
 Los bienes raíces pertenecientes a los Ayuntamientos del Estado, no podrán ser enajenados o gravados en forma alguna sin la previa autorización de la Legislatura, mediante la expedición del decreto respecto.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1949)</small>
+
+Los Ayuntamientos no pueden celebrar empréstitos, sino para la ejecución de obras que estén destinadas a producir directamente incremento en sus respectivos ingresos.
+
 ###### ARTICULO 109.
 
 Son atribuciones de los Presidentes Municipales:
@@ -1492,5 +1496,9 @@ P.O. 5 DE FEBRERO DE 1949.
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 23 DE JULIO DE 1949.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 30 DE JULIO DE 1949.
 
 EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
