@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1946-12-30"
+last_updated: "1947-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 1947.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -296,9 +296,11 @@ Quedan exceptuadas de la nulidad anterior, únicamente las tierras que hubieren 
 
 IX.- La división o reparto que se hubiere hecho con apariencia de legítima entre los vecinos de algún núcleo de población y en la que haya habido error o vicio, podrá ser nulificada cuando así lo soliciten las tres cuartas partes de los vecinos que estén en posesión de una cuarta parte de los terrenos, materia de la división, o una cuarta parte de los mismos vecinos cuando estén en posesión de las tres cuartas partes de los terrenos.
 
-> <small>(F. DE E., D.O.F. 3 DE MARZO DE 1934)</small>
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 1947)</small>
 
-X.- Los núcleos de población que carezcan de ejidos o que no puedan lograr su restitución por falta de títulos, por imposibilidad de identificarlos o porque legalmente hubieren sido enajenados, serán dotados con bosques, tierras y aguas suficientes para constituirlos, conforme a las necesidades de su población; sin que en ningún caso deje de concedérseles la extensión que necesiten, y al efecto se expropiará por cuenta del Gobierno Federal, el terreno que baste a ese fin, tomándolo del que se encuentre inmediato a los publos (sic) interesados.
+X.- Los núcleos de población que carezcan de ejidos o que no puedan lograr su restitución por falta de títulos, por imposibilidad de identificarlos o porque legalmente hubieren sido enajenados, serán dotados con tierras y aguas suficientes para constituirlos, conforme a las necesidades de su población, sin que en ningún caso deje de concedérseles la extensión que necesiten, y al efecto se expropiará por cuenta del Gobierno Federal el terreno que baste a ese fin, tomándolo del que se encuentre inmediato a los pueblos interesados.
+
+La superficie o unidad individual de dotación no deberá ser en lo sucesivo menor de diez hectáreas de terrenos de riego o humedad o, a falta de ellos, de sus equivalentes en otras clases de tierras, en los términos del párrafo tercero de la fracción XV de este artículo.
 
 XI.- Para los efectos de las disposiciones contenidas en este artículo y de las leyes reglamentarias que se expidan, se crean:
 
@@ -322,11 +324,27 @@ Inversamente, cuando las Comisiones Mixtas no formulen dictamen en plazo perento
 
 XIII.- La dependencia del Ejecutivo y el Cuerpo Consultivo Agrario dictaminará sobre la aprobación, rectificación o modificación de los dictámenes formulados por las Comisiones Mixtas, con las modificaciones que hayan introducido los Gobiernos locales, se informará al C. Presidente de la República, para que éste dicte resolución como suprema autoridad agraria.
 
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 1947)</small>
+
 XIV.- Los propietarios afectados con resoluciones dotatorias o restitutorias de ejidos o aguas, que se hubiesen dictado en favor de los pueblos, o que en lo futuro se dictaren, no tendrán ningún derecho ni recurso legal ordinario, ni podrán promover el juicio de amparo.
 
 Los afectados con dotación, tendrán solamente el derecho de acudir al Gobierno Federal para que les sea pagada la indemnización correspondiente. Este derecho deberán ejercitarlo los interesados dentro del plazo de un año, a contar desde la fecha en que se publique la resolución respectiva en el “Diario Oficial” de la Federación. Fenecido este término, ninguna reclamación será admitida.
 
-XV.- Las Comisiones Mixtas, los Gobiernos locales y las demás autoridades encargadas de las tramitaciones agrarias, no podrán afectar, en ningún caso, la pequeña propiedad agrícola en explotación e incurrirán en responsabilidad, por violaciones a la Constitución, en caso de conceder dotaciones que la afecten.
+Los dueños o poseedores de predios agrícolas o ganaderos, en explotación, a los que se haya expedido, o en lo futuro se expida, certificado de inafectabilidad, podrán promover el juicio de amparo contra la privación o afectación agraria ilegales de sus tierras o aguas.
+
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 1947)</small>
+
+XV.- Las Comisiones Mixtas, los gobiernos locales y las demás autoridades encargadas de las tramitaciones agrarias, no podrán afectar, en ningún caso, la pequeña propiedad agrícola o ganadera en explotación; e incurrirán en responsabilidad, por violaciones a la Constitución, en caso de conceder dotaciones que la afecten.
+
+Se considerará pequeña propiedad agrícola la que no exceda de cien hectáreas de riego o humedad de primera o sus equivalentes en otras clases de tierras, en explotación.
+
+Para los efectos de la equivalencia se computará una hectárea de riego por dos de temporal; por cuatro de agostadero de buena calidad y por ocho de monte o de agostadero en terrenos áridos.
+
+Se considerará, asimismo, como pequeña propiedad, las superficies que no excedan de doscientas hectáreas en terrenos de temporal o de agostadero susceptible de cultivo; de ciento cincuenta cuando las tierras se dediquen al cultivo del algodón, si reciben riego de avenida fluvial o por bombeo; de trescientas, en explotación, cuando se destinen al cultivo de plátano, caña de azúcar, café, henequén, hule, cocotero, vid, olivo, quina, vainilla, cacao o árboles frutales.
+
+Se considerará pequeña propiedad ganadera la que no exceda de la superficie necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, en los términos que fije la ley, de acuerdo con la capacidad forrajera de los terrenos.
+
+Cuando debido a obras de riego, drenaje o cualesquiera otras ejecutadas por los dueños o poseedores de una pequeña propiedad a la que se haya expedido certificado de inafectabilidad, se mejore la calidad de sus tierras para la explotación agrícola o ganadera de que se trate, tal propiedad no podrá ser objeto de afectaciones agrarias aun cuando, en virtud de la mejoría obtenida, se rebasen los máximos señalados por esta fracción, siempre que se reúnan los requisitos que fije la ley.
 
 XVI.- Las tierras que deban ser objeto de adjudicación individual, deberán fraccionarse precisamente en el momento de ejecutar las resoluciones presidenciales, conforme a las leyes reglamentarias.
 
@@ -1320,7 +1338,7 @@ Corresponde a los Tribunales de la Federación conocer:
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
 
-I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+I. De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o con motivo de los tratados celebrados con las potencias extranjeras. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales locales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia serán apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
 
 En los juicios en que la Federación esté interesada, las leyes podrán establecer recursos ante la Suprema Corte de Justicia contra las sentencias de segunda instancia o contra las de tribunales administrativos creados por ley federal, siempre que dichos tribunales estén dotados de plena autonomía para dictar sus fallos.
 
@@ -1442,19 +1460,31 @@ En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario 
 
 DE LOS ESTADOS DE LA FEDERACION.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE FEBRERO DE 1947)</small>
 
 ###### Art. 115.
 
-Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre, conforme a las bases siguientes:
+Los Estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre, conforme a las bases siguientes:
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
+> <small>(ADICIONADO, D.O.F. 12 DE FEBRERO DE 1947)</small>
+
+En las elecciones municipales participarán las mujeres, en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+
 Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 II. Los municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señalen las Legislaturas de los Estados y que, en todo caso, serán las suficientes para atender a las necesidades municipales.
 
+> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 III. Los municipios serán investidos de personalidad jurídica para todos los efectos legales.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
 
@@ -1462,9 +1492,15 @@ El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la f
 
 Los Gobernadores de los Estados no podrán durar en su encargo más de seis años.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 La elección de los Gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 Los Gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo ni aun con el carácter de interinos, provisionales, substitutos o encargados del despacho.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Nunca podrán ser electos para el período inmediato:
 
@@ -1472,9 +1508,15 @@ a).- El Gobernador substituto constitucional, o el designado para concluir el pe
 
 b).- El Gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 Sólo podrá ser Gobernador Constitucional de un Estado, un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
 
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+
 El número de representantes en las Legislaturas de los Estados será proporcional al de habitantes de cada uno; pero en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de este número y no llegue a ochocientos mil habitantes y de once en los Estados cuya población sea superior a esta última cifra.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Los diputados a las Legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán se electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
@@ -2109,3 +2151,15 @@ D.O.F. 30 DE DICIEMBRE DE 1946.
 DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 73 Y ADICIONA LA FRACCION VIII DEL ARTICULO 117.
 
 UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 12 DE FEBRERO DE 1947.
+
+DECRETO QUE REFORMA LAS FRACCIONES X, XIV Y XV DEL ARTICULO 27.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 12 DE FEBRERO DE 1947.
+
+DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
