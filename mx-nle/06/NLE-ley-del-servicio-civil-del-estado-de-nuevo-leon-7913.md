@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1984-11-02"
+last_updated: "1991-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -49,33 +49,51 @@ Para los efectos de esta Ley, se entiende por trabajador a toda persona física 
 
 Desde el momento en que el trabajador toma posesión del empleo o encargo para el que haya sido designado, o desde que aparezca su nombre en nómina o lista de raya, se entiende establecida la realización jurídica protegida por este Ordenamiento.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 1991)</small>
 
 ###### Art. 4o.
 
-Para los efectos de esta Ley, el personal al Servicio del Estado o de sus Municipios se clasificará de la manera siguiente:
+Para los efectos de esta Ley, el personal al servicio del Estado o de sus Municipios se clasificará de la manera siguiente:
 
-I.- Trabajadores de Confianza:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 1991)</small>
+
+I.- TRABAJADORES DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 A) DEL PODER LEGISLATIVO:
 
 El Oficial Mayor y Asesores.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+
 B) DEL PODER JUDICIAL:
 
 Magistrados, Jueces, Secretarios, Actuarios y Comisarios.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 C) DEL PODER EJECUTIVO:
 
 Secretarios, Jefe de Ayudantes, Ayudantes, Coordinadores o Asesores del C. Gobernador, Secretario General de Gobierno, Secretario de Finanzas y Tesorero General del Estado, Procurador General de Justicia, Oficial Mayor de Gobierno, Secretarios de Despacho, Presidente de la Junta de Conciliación y Arbitraje; Vice-Presidente de la Junta Estatal de Agua Potable y Alcantarillado; Presidente del Consejo Tutelar para Menores; Procuradores para la Defensa del Trabajo; Presidentes de Juntas de Conciliación y Arbitraje; Secretarios; Jueces de lo Fiscal; Sub-Secretarios; Sub-Procuradores; Sub-Tesoreros, Contralores; Directores Generales; Directores; Sub-Directores, Coordinadores, Delegados de Finanzas; Oficiales del Registro Civil; así como los Asesores, Coordinadores, Auxiliares Directos de los Titulares mencionados; Defensores de Oficio; Registradores; Agentes y Delegados del Ministerio Público; Médicos Legistas; todo el personal de los servicios Aéreos del Estado; Peritos Dictaminadores; Supervisores; Auditores; Administradores; Inspectores; Conciliadores, y los Representantes del Ejecutivo en Comisiones, Juntas, Fondos, Fideicomisos y Empresas u organismos descentralizados.
 
-D) DE LOS MUNICIPIOS:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 1991)</small>
+
+D) DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 Los Secretarios, Jefe de Ayudantes, Ayudantes, Auxiliares, Coordinadores o Asesores del C. Presidente Municipal; el Secretario del Ayuntamiento; los Secretarios; el Tesorero; Oficiales Mayores; Oficiales Primeros; Proveedores; Contralores; Sub-Tesoreros; Sub-Proveedores; Directores Generales; Directores; Sub-Directores; Coordinadores; Delegados Municipales; Recaudadores; Jefes y Sub-Jefes; así como los Asesores; Coordinadores y Auxiliares Directos de los Titulares mencionados; Instructores de Artes; Manualidades u oficios; Profesionistas que presten atención médica; Administradores; Actuarios; Comisarios; Peritos Dictaminadores; Supervisores; Auditores; y los Representantes del C. Presidente Municipal en Comisiones, Juntas, Fondos, Fideicomisos y Empresas u organismos descentralizados.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+
 Así mismo todos los elementos que laboren en las corporaciones de Seguridad Pública del Estado o los Municipios; incluyendo la de tránsito; la de la Policía Judicial y de los Reclusorios del Estado y de los Municipios; quienes se regirán por sus Reglamentos de Trabajo respectivo (sic), con excepción del personal administrativo.
 
-Y todos aquellos trabajadores del Estado o sus Municipios que ejerzan funciones de dirección, vigilancia o fiscalización.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1991)</small>
+
+Y todos aquellos trabajadores del Estado o sus Municipios que ejerzan funciones de Dirección, Vigilancia o Fiscalización. Incluyendo a Inspectores de Comercio, de Piso, de Obras Públicas, de Espectáculos, de Limpia y en general todos los Inspectores de las Dependencias de los mismos.
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
 
 II.- Serán trabajadores de base los no comprendidos o enunciados por su categoría o función en la Fracción anterior. Los de nuevo ingreso serán de base, después de seis meses de servicio.
 
@@ -864,3 +882,9 @@ P. O. 13 DE FEBRERO DE 1981.
 P.O. 2 DE NOVIEMBRE DE 1984.
 
 UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 1991.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
