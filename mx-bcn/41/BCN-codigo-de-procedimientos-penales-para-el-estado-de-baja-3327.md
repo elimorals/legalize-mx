@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2002-06-07"
+last_updated: "2002-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2002.
 
-Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo20 de agosto de 1989.
+Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
 OSCAR BAYLON CHACON
 
@@ -965,11 +965,11 @@ Cómputo de la prisión preventiva en sentencia.- En toda pena privativa de la l
 
 Libertad Previa.- Durante la averiguación previa, el Ministerio Público deberá otorgar la libertad provisional, inmediatamente que lo solicite el indiciado, en los mismos casos y bajo las mismas condiciones que para la libertad caucional de carácter judicial se establecen en este Código.
 
-(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994) (F. DE E., P.O. 23 DE SEPTIEMBRE DE 1994)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 121.
 
-Revocación de la libertad previa.- Cuando el Ministerio Público deje en libertad provisional a un indiciado, le notificará las obligaciones procesales previstas en el Artículo 129 de este Código, exigibles durante la averiguación previa y las causas de revocación a que se refiere el Artículo 130 de este mismo ordenamiento.
+Revocación de la libertad previa.- Cuando el Ministerio Público deje en libertad provisional a un indiciado, le notificará a este y en su caso al tercero que la haya garantizado, las obligaciones procesales previstas en el Artículo 129 de este Código, exigibles durante la averiguación previa y las causas de revocación a que se refiere el Artículo 130 del mismo ordenamiento.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1069,7 +1069,9 @@ La autoridad correspondiente, expedirá los recibos de las cauciones a nombre de
 
 Criterios para fijar el monto de la caución.- El monto de la caución relativa a la buena conducta procesal, se fijará por el Ministerio Público o el juzgador, sin exceder el límite fijado en el artículo anterior, tomando en consideración:
 
-I.- Las circunstancias personales del inculpado y de la víctima;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+I.- Las circunstancias personales del inculpado y de la persona o personas que tengan derecho a la reparación del daño;
 
 II.- La gravedad y modalidades de la conducta del delito imputado;
 
@@ -1117,11 +1119,11 @@ El fideicomiso deberá tener un valor certificado por el fiduciario, dos veces m
 
 La fianza de institución autorizada, será por la misma cantidad impuesta como caución y no requerirá demostración de la solvencia económica de la empresa que expida la póliza, pero cuando un particular se ofrezca como fiador, deberá exhibir documentales públicas que le acrediten como propietario de uno o mas inmuebles, libres de gravámenes, cuyo valor catastral sea superior en tres tantos, por lo menos, a la caución impuesta. Se constituirá mediante acta suscrita por el fiador, en la que se le apercibirá de las penas en que puede incurrir, en caso de producir deliberadamente su insolvencia, además de la (sic) obligaciones que contrae como fiador.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 129.
 
-Obligaciones del inculpado al obtener su libertad provisional.- Al notificarse al inculpado el auto en que se le concede la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante el juzgador que conozca de su caso los días fijos que se le señalen y cuantas veces sea citado o requerido para ello; obedecer las órdenes legítimas de la autoridad que conozca del asunto; no cometer un nuevo delito durante el proceso, ni amenazar o cohechar a las personas o autoridades que intervengan en el proceso; comunicar los cambios de domicilio y no ausentarse de la ciudad sin la autorización judicial, la que no podrá concederse por tiempo mayor de treinta días.
+Obligaciones del inculpado al obtener su libertad provisional.- Al notificarse al inculpado el auto en que se le concede la libertad caucional, se le hará saber que contrae las siguientes obligaciones: presentarse ante el juzgador que conozca de su caso los días fijos que se le señalen y cuantas veces sea citado o requerido para ello; obedecer las órdenes legítimas de la autoridad que conozca del asunto; no cometer un delito doloso durante el proceso, ni amenazar o cohechar a las personas o autoridades que intervengan en el proceso; comunicar los cambios de domicilio y no ausentarse de la ciudad sin la autorización judicial, la que no podrá concederse por tiempo mayor de treinta días, igualmente; se le hará saber que cuando se le revoque la libertad provisional, se hará efectiva la garantía de la reparación del daño.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1173,6 +1175,14 @@ En este caso el Juez reconocerá la garantía de la reparación del daño otorga
 
 Efectos de la Revocación.- Al revocar la libertad provisional, el juzgador mandará reaprehender al inculpado, salvo el caso de presentación voluntaria, y ordenará que la caución se haga efectiva en perjuicio del garante en los casos de las fracciones I, II, III, IV, V y IX del artículo 130, sin que sea necesario requerir al fiador.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+En el caso de que se ordene la reaprehensión del inculpado en términos del párrafo anterior, en el mismo auto se ordenará requerir a éste y al fiador, notificándoles en el domicilio que tengan señalado en autos para que el inculpado se presente nuevamente a sujetarse al proceso, dentro de los cinco días siguientes, con el apercibimiento de que en caso de no hacerlo, la caución otorgada para garantizar la reparación del daño se hará efectiva a favor de quien tenga derecho.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+En los casos en que el inculpado se presente a sujetarse nuevamente al proceso, o sea reaprehendido dentro del término mencionado en el párrafo que antecede, la garantía de reparación del daño quedará sujeta a la sentencia que se dicte en el proceso.
+
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 134.
@@ -1189,13 +1199,19 @@ IV.- Se dicte sentencia absolutoria;
 
 V.- Se detenga al sentenciado o éste se presente para cumplir la pena impuesta, salvo lo previsto en el Artículo 37 del Código Penal.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+La garantía de reparación del daño solo será cancelada o devuelta al reo en lo (sic) casos de las fracciones III y IV que anteceden, salvo el caso contemplado en el párrafo segundo del Artículo 133 de este Código.
+
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 135.
 
 Aplicación de la caución.- En los casos en que se haga efectiva la garantía, el importe de la caución relativa a la reparación del daño, quedará en depósito del fondo auxiliar que corresponda, a disposición del ofendido, mientras que la garantía de la buena conducta procesal ingresará definitivamente como patrimonio propio del fondo respectivo.
 
-El fondo entregará al ofendido el importe de la garantía constituida en su favor, cuando una resolución judicial lo ordene.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
+El juez ordenará al fondo, mediante resolución judicial, la entrega del importe de la garantía de reparación del daño a quien tenga derecho. Así mismo, acordará a petición de parte, su entrega inmediata en caso de evasión de la acción de la justicia del inculpado.
 
 ### CAPITULO V. LIBERTAD PROVISIONAL BAJO PROTESTA
 
@@ -1835,11 +1851,13 @@ Iniciación por querella.- Es necesaria la querella del ofendido solamente en lo
 
 La querella también puede formularse verbalmente o por escrito, observándose para ello lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 229.
 
-Querella de menores incapaces.- Cuando el ofendido sea menor de edad puede querellarse por sí mismo, siempre que haya cumplido 14 años o a través de quienes ejerzan la patria potestad o la tutela. Tratándose de incapaces, la querella se presentará por los representantes legales o por cualquier persona cuando carezcan de representación, pero en este caso el Ministerio Público le designará un tutor dativo de entre los funcionarios públicos que actúan en el área de la protección del menor y la familia, quien decidirá la subsistencia o retiro de la acusación y representará al ofendido en todos los actos del procedimiento penal.
+Querella de Menores, Incapaces, o personas con una incapacidad física o mental derivada de delitos culposos.- Cuando el ofendido sea menor de edad puede querellarse por sí mismo, siempre que haya cumplido 14 años o a través de quienes ejerzan la patria potestad o la tutela. Tratándose de incapaces, la querella se presentará por los representantes legales o por cualquier persona cuando carezcan de representación, pero en este caso el Ministerio Público le designará un tutor dativo de entre los funcionarios públicos que actúan en el área de la protección del menor y la familia, quien decidirá la subsistencia o retiro de la acusación y representará al ofendido en todos los actos del procedimiento penal.
+
+Cuando con motivo del tránsito de vehículos de motor, culposamente se cause lesión, y el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tuviere quien lo represente legal o convencionalmente se entenderá que su deseo es querellarse.
 
 ###### Artículo 230.
 
@@ -2973,43 +2991,55 @@ El auto en que se decrete la separación sólo es apelable en el efecto ejecutiv
 
 ### CAPITULO V. INCIDENTE DE REPARACION DE DAÑO EXIGIBLE A TERCEROS
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 394.
 
-Competencia.- El juez que conozca del proceso penal, será también competente para conocer de la pretensión civil de reparación del daño, planteada por el perjudicado o sus causahabientes en contra de los terceros a que se refiere el Artículo 35 del Código Penal.
+Competencia.- Será competente para conocer del incidente respectivo, el juez de la causa.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 395.
 
-Apoderados y representantes.- En el incidente de reparación del daño, el actor podrá actuar por conducto de su representante legal, apoderado o mandatario.
+Apoderados y Representantes.- En el incidente de reparación del daño, el actor podrá intervenir por conducto de su representante legal, apoderado o mandatario, contra las personas que determina el Artículo 44 del Código Penal.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 396.
 
-Oportunidad.- El incidente de reparación del daño podrá promoverse a partir del auto de formal prisión o de sujeción a proceso y hasta antes de que se declare cerrada la instrucción.
+Oportunidad.- El incidente de reparación del daño podrá promoverse en cualquier etapa del proceso, o después de dictada la sentencia, siempre y cuando no haya transcurrido el plazo de prescripción de la reparación del daño.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 Cuando planteado el incidente, el proceso principal se encuentre en estado de sentencia, el juzgador resolverá lo que corresponda a este último, sin perjuicio de continuar conociendo del incidente si el acusado es condenado a la reparación del daño.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+
 ###### Artículo 397.
 
-Supletoriedad de la Legislación Procesal Civil.- La tramitación del incidente sobre reparación del daño, a falta de disposición expresa en éste Código, se hará, supletoriamente, conforme al Código de Procedimientos Civiles para el Estado. Estos incidentes se tramitarán por cuerda separada. Las notificaciones se harán siempre conforme a las disposiciones de este Código.
+Substanciación.- Para la tramitación del incidente de reparación del daño, se dará vista a las partes con la promoción y las pruebas que se ofrezcan, para que contesten y ofrezcan en su caso, las probanzas que estimen pertinentes, en el acto de la notificación o a más tardar dentro de los cinco días siguientes. Transcurrido el plazo anterior, en los casos que proceda se ordenará el desahogo de las pruebas ofrecidas dentro del plazo de quince días, resolviendo el juez el incidente dentro de cinco días.
+
+El incidente no suspenderá el curso del procedimiento, ni la ejecución de las demás sanciones; durante su tramitación, el juez podrá allegarse de los medios de prueba que estime necesarios para normar su convicción.
+
+En cuanto al ofrecimiento, admisión y desahogo de las pruebas, serán aplicadas en lo conducente las reglas contenidas en este Código.
+
+La substanciación del incidente se hará de acuerdo a la disposición expresa de este Código o supletoriamente conforme al Código de Procedimientos Civiles para el Estado de Baja California. Este incidente se tramitará por cuerda separada.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 398.
 
-Suspensión del incidente.- Si la tramitación del incidente queda terminada antes de que el proceso se encuentre en estado de sentencia, se detendrá hasta que sea posible pronunciar lo que resuelva, a la vez, sobre la acción penal y sobre la reparación de daños y perjuicios.
+Suspensión del Incidente.- Si la tramitación del incidente queda terminada antes de que el proceso se encuentre en estado de sentencia, se suspenderá hasta que sea posible pronunciar lo que resuelva, a la vez, sobre la acción penal y sobre la reparación de daños y perjuicios.
 
 ###### Artículo 399.
 
 Providencias precautorias.- El actor civil podrá solicitar providencias precautorias en los términos del Código de Procedimientos Civiles para el Estado.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 400.
 
-Contenido de la litis.- La existencia y monto de los daños se probará en el juicio principal, quedando obligado el demandado incidental a cubrir la misma cantidad, en forma solidaria y mancomunada con el delincuente, cuando se demuestre a su cargo, cualquiera de la (sic)causas de vinculación a que se refiere el artículo 44 del Código Penal.
+Contenido de la litis.- La existencia y monto de los daños se probará en el juicio principal o en el incidente respectivo, quedando obligado el demandado incidental a cubrir la misma cantidad, en forma solidaria con el delincuente.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3031,19 +3061,19 @@ I.- Cuando el Ministerio Público resuelva no ejercer la acción penal;
 
 II.- Cuando el proceso penal se suspenda o se sobresea;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
-III.- Cuando se haya cerrado la instrucción en el proceso penal, sin haberse intentado la pretensión civil; y
+III.- Cuando no se haya ejercitado en la causa penal;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 IV.- Cuando se dicte sentencia absolutoria ejecutoriada, por causas que no excluyan plenamente la responsabilidad del acusado en relación con la reparación del daño.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 404.
 
-Efectos en el juicio civil de la sentencia penal de condena.- Cuando el delincuente haya sido condenado en el proceso penal como responsable del delito, en el proceso civil se considerará probado el hecho ilícito y la responsabilidad del inculpado. Si se le condenó, además, a la reparación del daño, su existencia y monto se tendrán por acreditados en el juicio civil que se siga en contra de los terceros obligados a Dicha reparación.
+Efectos en el Juicio Civil de la Sentencia Penal de Condena.- Cuando el delincuente haya sido condenado en el proceso penal como responsable del delito y no se interponga el incidente de reparación del daño, en el proceso civil se considerará probado el hecho ilícito y la responsabilidad del inculpado. Si se le condenó, además, a la reparación del daño, su existencia y monto se tendrán por acreditados en el juicio civil que se siga en contra de los terceros obligados a dicha reparación.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3388,3 +3418,7 @@ P.O. 7 DE JUNIO DE 2002.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2002.
+
+UNICO: Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
