@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1980-01-15"
+last_updated: "1983-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -376,6 +376,10 @@ IV.- Ciencias Físico-Matemáticas y Naturales;
 
 V.- Tecnología y Diseño.
 
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+VI.- Artes y Tradiciones Populares.
+
 ###### ARTICULO 45.
 
 Merecerán estos premios quienes por sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el acervo cultural del país o el progreso de la ciencia, del arte o de la filosofía.
@@ -384,13 +388,19 @@ Merecerán estos premios quienes por sus producciones o trabajos docentes, de in
 
 El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Este se integrará, además, con el Rector de la Universidad Nacional Autónoma de México, el de la Universidad Autónoma Metropolitana, los Directores Generales del Instituto Politécnico Nacional y del Consejo Nacional de Ciencia y Tecnología y por sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior y del Colegio Nacional.
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+Para el otorgamiento del premio en el campo de Artes y Tradiciones Populares, el Consejo se integrará, aparte de los representantes de las instituciones señaladas, con los directores generales de Culturas Populares de la Secretaría de Educación Pública, del Instituto Nacional Indigenista y del Fondo Nacional para el Fomento de las Artesanías.
+
 ###### ARTICULO 47.
 
 Los premios consistirán en venera y mención honorífica y se acompañarán de una entrega en numerario por 100 mil pesos. Podrán concurrir hasta tres personas para el premio del mismo campo, y cuando haya concurrencia, la entrega en numerario será por 50 mil pesos para cada concurrente. Si llegare a haber más de tres concurrentes, los excedentes de este número serán premiados hasta el siguiente año.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 48.
 
-Solamente personas físicas individuales podrán ser beneficiarias de los premios de Ciencias y Artes. Por cada año habrá una asignación de premios; pero no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro de ese lapso.
+Solamente las personas físicas podrán ser beneficiarias de los premios de Ciencias y Artes, salvo en el campo de Artes y Tradiciones Populares, que podrán también otorgarse a comunidades y grupos. Por cada año habrá una asignación de premios; pero no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro de ese lapso.
 
 ###### ARTICULO 49.
 
@@ -775,3 +785,9 @@ D.O.F. 15 DE ENERO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
