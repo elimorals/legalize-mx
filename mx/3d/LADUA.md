@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2002-01-01"
+last_updated: "2002-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LADUA"
 LEY ADUANERA
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ENERO DE 2002.
+
+ULTIMA ACTUALIZACION POR MISCELANEA DE COMERCIO EXTERIOR: 1 DE MARZO DE 2002.
 
 Ley Publicada en la Segunda Sección del Diario Oficial de la Federación el viernes 15 de diciembre de 1995.
 
@@ -272,7 +274,9 @@ La Secretaría podrá autorizar a los particulares para prestar los servicios de
 
 I. Tener cinco años de experiencia, prestando los servicios que se vayan a autorizar.
 
-II. Tener un capital social pagado de por lo menos $600,000.00.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+II. Tener un capital social pagado de por lo menos $1,265,481.00.
 
 III. Cumplir con los requisitos de procedimiento que la Secretaría establezca en la convocatoria que para estos efectos publique en el Diario Oficial de la Federación.
 
@@ -988,7 +992,7 @@ XI. Las remitidas por Jefes de Estado o gobiernos extranjeros a la Federación, 
 
 XII. Los artículos de uso personal de extranjeros fallecidos en el país y de mexicanos cuyo deceso haya ocurrido en el extranjero.
 
-XIII. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización de la Secretaría.
+XIIl. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización de la Secretaría.
 
 XIV. Las destinadas a instituciones de salud pública, a excepción de los vehículos, siempre que únicamente se puedan usar para este fin, así como las destinadas a personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta. En estos casos deberán formar parte de su patrimonio y cumplir con las demás obligaciones en materia de regulaciones y restricciones no arancelarias. La Secretaría, previa opinión de la Secretaría de Comercio y Fomento Industrial, señalará las fracciones arancelarias que reúnan los requisitos a que se refiere esta fracción.
 
@@ -1730,7 +1734,7 @@ Disposiciones generales
 
 Las importaciones temporales de mercancías de procedencia extranjera se sujetarán a lo siguiente:
 
-I. No se pagarán los impuestos al comercio exterior ni las cuotas compensatorias.
+l. No se pagarán los impuestos al comercio exterior ni las cuotas compensatorias.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -2370,7 +2374,7 @@ VII. Verificar que las mercancías por cuya importación fue concedido algún es
 
 VIII. Fijar los lineamientos para las operaciones de carga, descarga, manejo de mercancías de comercio exterior y para la circulación de vehículos, dentro de los recintos fiscales y fiscalizados y señalar dentro de dichos recintos las áreas restringidas para el uso de aparatos de telefonía celular o cualquier otro medio de comunicación; así como ejercer el control y vigilancia sobre la entrada y salida de mercancías y personas en los aeropuertos y puertos marítimos autorizados para el tráfico internacional y en las aduanas fronterizas.
 
-X. Inspeccionar y vigilar permanentemente el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, así como en cualquier otra parte del territorio nacional.
+IX. Inspeccionar y vigilar permanentemente el manejo, transporte o tenencia de las mercancías en los recintos fiscales y fiscalizados, así como en cualquier otra parte del territorio nacional.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2416,7 +2420,7 @@ XXIV. Cancelar las garantías a que se refiere el artículo 36, fracción I, inc
 
 XXV. Las que le sean conferidas en tratados o acuerdos internacionales de los que México sea parte.
 
-XXVI. Dar a conocer la información contenida en los pedimentos de importación que establezca la Secretaría mediante reglas.
+XXVl. Dar a conocer la información contenida en los pedimentos de importación que establezca la Secretaría mediante reglas.
 
 XXVII. Establecer, para efectos de la información que deben manifestar los importadores o exportadores en el pedimento que corresponda, unidades de medida diferentes a las señaladas en las leyes de los impuestos generales de importación y exportación.
 
@@ -2478,11 +2482,11 @@ VIII. Cuando no se encuentre al corriente en sus obligaciones fiscales.
 
 Para determinar el destino de las mercancías que pasen a ser propiedad del Fisco Federal, la Secretaría deberá asesorarse de un Consejo integrado por instituciones filantrópicas y representantes de las Cámaras y asociaciones de contribuyentes interesadas en la producción y comercialización de mercancías idénticas o similares a aquellas. La citada dependencia deberá observar los siguientes lineamientos:
 
-I. Que el producto de la enajenación sea suficiente para cubrir los gastos relacionados con el almacenamiento, traslado y demás que sean necesarios para efectuar la enajenación correspondiente.
+l. Que el producto de la enajenación sea suficiente para cubrir los gastos relacionados con el almacenamiento, traslado y demás que sean necesarios para efectuar la enajenación correspondiente.
 
 A más tardar dentro del mes de enero del año siguiente a aquel en que se enajenaron las mercancías, deberá enterarse el remanente a la Tesorería de la Federación. Se dejará una reserva en cantidad suficiente que sirva para iniciar la operación del ejercicio siguiente.
 
-II. Que en la enajenación de las mercancías se eviten perjuicios a sectores de la economía nacional.
+Il. Que en la enajenación de las mercancías se eviten perjuicios a sectores de la economía nacional.
 
 III. Las mercancías y sus envases tendrán los sellos y marcas que las identifiquen como de propiedad del Fisco Federal y no estarán sujetas a requisitos adicionales.
 
@@ -2734,7 +2738,7 @@ La Secretaría podrá expedir, a petición del interesado, patentes de agente ad
 
 El agente aduanal deberá cubrir los siguientes requisitos para operar:
 
-. Haber efectuado el despacho por cuenta de un mínimo de cinco personas que realicen actividades empresariales, en el mes anterior al de que se trate.
+l. Haber efectuado el despacho por cuenta de un mínimo de cinco personas que realicen actividades empresariales, en el mes anterior al de que se trate.
 
 El requisito será exigible en los primeros veinticuatro meses en que opere como agente aduanal.
 
@@ -2776,7 +2780,9 @@ Cuando los agentes aduanales tengan autorización para despachar en aduanas dist
 
 La propia Secretaría podrá cambiar la obligación a que se refiere el primer párrafo de esta fracción, autorizando, a petición de los agentes aduanales de un determinado lugar, que el servicio se proporcione en forma rotatoria o permanente para el total de las operaciones a que se refiere esta fracción por uno o varios agentes.
 
-En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $80.00 por cada operación.
+> <small>(REFORMADO EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+En los casos a que se refiere esta fracción, el agente aduanal tendrá derecho a una contraprestación de $169.00 por cada operación.
 
 X. Utilizar los candados oficiales en los vehículos y contenedores que transporten las mercancías cuyo despacho promueva, de conformidad con lo que establezca la Secretaría mediante reglas, así como evitar que los candados fiscales que adquiera de los importadores o fabricantes autorizados, se utilicen en contenedores o vehículos que transporten mercancías cuyo despacho no hubiere promovido.
 
@@ -2910,7 +2916,9 @@ VI. Declarar con inexactitud en el pedimento, siempre que resulte lesionado el i
 
 No procederá la suspensión a que se refiere esta fracción, cuando la omisión de contribuciones y cuotas compensatorias, en su caso, se deba a la inexacta clasificación arancelaria por diferencia de criterios en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
-VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $45,000.00.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II, del artículo 165 de esta Ley, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $91,497.00.
 
 VIII. Carecer por primera y segunda ocasión de bienes suficientes para cubrir créditos fiscales que hayan quedado firmes, y que para su cobro se haya seguido el procedimiento administrativo de ejecución. En este caso, la suspensión será por el tiempo que subsista la causa que la motivó.
 
@@ -2920,15 +2928,15 @@ En todo caso de suspensión, el afectado no podrá iniciar nuevas operaciones, s
 
 Será cancelada la patente de agente aduanal, independientemente de las sanciones que procedan por las infracciones cometidas, por las siguientes causas:
 
-I. Contravenir lo dispuesto en el artículo 163, fracción II.
+l. Contravenir lo dispuesto en el artículo 163, fracción II.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II. Declarar con inexactitud algún dato en el pedimento, o en la factura tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $100,000.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
+a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $130,709.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2952,9 +2960,9 @@ VI. Permitir que un tercero, cualquiera que sea su carácter, actúe al amparo d
 
 VII. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción II de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refieren los artículos 127, fracción II y 131, fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-a) La omisión exceda de $100,000.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
+a) La omisión exceda de $130,709.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3106,9 +3114,9 @@ Será cancelada la autorización de apoderado aduanal, independientemente de las
 
 I. Declarar con inexactitud algún dato en el pedimento, o en la factura tratándose de operaciones con pedimento consolidado, siempre que se dé alguno de los siguientes supuestos:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $70,000.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
+a) La omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, en su caso, exceda de $91,497.00 y dicha omisión represente más del 10% del total de los que debieron pagarse.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3128,9 +3136,9 @@ IV. Permitir que un tercero, cualquiera que sea su carácter, actúe al amparo d
 
 V. Tratándose de los regímenes aduaneros temporales, de depósito fiscal y de tránsito interno de mercancías, declarar con inexactitud alguno de los datos a que se refiere el primer párrafo de la fracción I de este artículo, siempre que con los datos aportados, excluida la liquidación provisional a que se refiere el artículo 127, fracción II de esta Ley, de haberse destinado las mercancías de que se trate al régimen de importación definitiva, se dé alguno de los siguientes supuestos:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-a) La omisión exceda de $70,000.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
+a) La omisión exceda de $91,497.00 y del 10% de los impuestos al comercio exterior, derechos y, en su caso, cuotas compensatorias causadas.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3140,9 +3148,9 @@ c) Se trate de mercancías de importación o exportación prohibida.
 
 VI. Cuando cometa alguna de las infracciones previstas en el artículo 176 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-No será cancelada la autorización de apoderado aduanal siempre que la omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, no represente más de un 10% del total de los que debieron pagarse y dicha omisión no exceda de $70,000.00.
+No será cancelada la autorización de apoderado aduanal siempre que la omisión en el pago de impuestos al comercio exterior, derechos y cuotas compensatorias, no represente más de un 10% del total de los que debieron pagarse y dicha omisión no exceda de $91,497.00.
 
 Los apoderados aduanales de las personas morales a que se refiere el artículo 172 de esta Ley, serán suspendidos en el ejercicio de sus funciones hasta por noventa días, en los casos en que se ubiquen en alguno de los supuestos a que se refieren las fracciones III, VI y VII del artículo 164 de esta Ley, o por el plazo que resulte cuando se ubiquen en alguno de los supuestos a que se refieren las fracciones I, IV y V del citado artículo.
 
@@ -3262,9 +3270,9 @@ I. Multa del 130% al 150% de los impuestos al comercio exterior omitidos, cuando
 
 Cuando la infracción a que se refiere esta fracción sea cometida por pasajeros, se impondrá una multa del 80% al 120% del valor comercial de las mercancías, salvo que se haya ejercido la opción a que se refiere la fracción I del artículo 50 de esta Ley, en cuyo caso, la multa será del 70% al 100% de dicho valor comercial.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-II. Multa de $2,000.00 a $5,000.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
+II. Multa de $2,614.00 a $6,535.00 cuando no se haya obtenido el permiso de autoridad competente, tratándose de vehículos.
 
 III. Multa del 70% al 100% del valor comercial de las mercancías, cuando su importación o exportación esté prohibida.
 
@@ -3314,9 +3322,11 @@ III. Artículos domésticos para su casa habitación.
 
 Cometen la infracción de circulación indebida dentro del recinto fiscal quienes circulen en vehículos dentro de dichos recintos sin sujetarse a los lineamientos de circulación establecidos por las autoridades aduaneras y quienes en vehículo o sin él se introduzcan sin estar autorizados para ello, a zonas de los recintos fiscales cuyo acceso esté restringido.
 
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
 ###### Artículo 181.
 
-Se impondrá una multa de $1,500.00 a $2,000.00 a quien cometa la infracción a que se refiere el artículo 180 de esta Ley.
+Se impondrá una multa de $3,164.00 a $4,218.00 a quien cometa la infracción a que se refiere el artículo 180 de esta Ley.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -3366,7 +3376,9 @@ I. Multa equivalente del 130% al 150% del beneficio obtenido con la franquicia, 
 
 Multa equivalente del 30% al 50% del impuesto general de importación que habría tenido que cubrirse si la importación fuera definitiva o del 15% al 30% del valor comercial de las mercancías cuando estén exentas, en los casos a que se refiere la fracción I, incisos d) y e) y la fracción III. Tratándose de yates y veleros turísticos la multa será del 10% al 15% del valor comercial.
 
-II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $500.00 a $700.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+II. Si la infracción consistió en exceder los plazos concedidos para el retorno de las mercancías de importación o internación, según el caso, multa de $1,055.00 a $1,582.00 si el retorno se verifica en forma espontánea, por cada periodo de quince días o fracción que transcurra desde la fecha de vencimiento del plazo hasta que se efectúe el retorno. El monto de la multa no excederá del valor de las mercancías.
 
 No se aplicará la multa a que se refiere el párrafo anterior, a las personas que retornen en forma espontánea los vehículos importados o internados temporalmente.
 
@@ -3378,9 +3390,9 @@ III. Multa equivalente a la señalada por el artículo 178, fracciones I, II, II
 
 IV. Multa equivalente del 30% al 50% del valor comercial de las mercancías correspondientes, en los demás casos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-V. Multa de $30,000.00 a $40,000.00 en el supuesto a que se refiere la fracción IV.
+V. Multa de $39,213.00 a $52,284.00 en el supuesto a que se refiere la fracción IV.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -3470,49 +3482,57 @@ XVI. Omitan declarar a las autoridades aduaneras, las cantidades en efectivo, en
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de presentar documentación y declaraciones, previstas en el artículo 184 de esta Ley:
 
-I. Multa de $1,000.00 a $1,250.00 en caso de omisión y de $500.00 a $750.00 por la presentación extemporánea a las mencionadas en las fracciones I y ll.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+I. Multa de $2,109.00 a $2,636.00 en caso de omisión y de $1,055.00 a $1,582.00 por la presentación extemporánea a las mencionadas en las fracciones I y II.
 
-II. Multa de $700.00 a $1,000.00 a la señalada en la fracción III, por cada documento.
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
+
+II. Multa de $915.00 a $1,307.00 a la señalada en la fracción III, por cada documento.
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 No se aplicará la multa a que se refiere esta fracción, cuando el agente o apoderado aduanal presente la rectificación correspondiente dentro de los diez días siguientes contados a partir del día siguiente a aquél en el que le fuera notificado el escrito o acta correspondiente en el que se haga constar la irregularidad detectada en el reconocimiento o segundo reconocimiento, así como de la revisión de documentos siempre que presente copia del pedimento correspondiente ante la aduana que emitió el escrito o el acta, dentro del plazo de diez días otorgado para el ofrecimiento de pruebas y alegatos. No obstante lo anterior, la aduana procederá a aplicar las multas que correspondan cuando no se rectifiquen todos los datos a que se refiera el escrito o acta.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-III. Multa de $1,500.00 a $2,500.00 tratándose de la fracción IV.
+III. Multa de $1,581.00 a $2,635.00 tratándose de la fracción IV.
 
-IV. Multa de $1,000.00 a $1,500.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+IV. Multa de $2,109.00 a $3,164.00 a la señalada en la fracción V, por cada medio magnético que contenga información inexacta, incompleta o falsa.
 
-V. Multa de $1,500.00 a $2,500.00 a la señalada en la fracción VI.
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+V. Multa de $1,961.00 a $3,268.00 a la señalada en la fracción VI.
 
-VI. Multa de $1,500.00 a $2,500.00, en el caso señalado en la fracción VII, por cada pedimento.
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
+
+VI. Multa de $1,961.00 a $3,268.00, en el caso señalado en la fracción VII, por cada pedimento.
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VII. Multa equivalente de 20% al 40% de la cantidad que exceda al equivalente en la moneda o monedas de que se trate a diez mil dólares de los Estados Unidos de América, a las infracciones establecidas en las fracciones VIII, XV y XVI.
 
-VIII. Multa de $500.00 a $750.00, en los casos señalados en la fracción IX, por cada aeronave que arribe a territorio nacional.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-IX. Multa de $50,000.00 a $75,000.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
+VIII. Multa de $1,055.00 a $1,582.00, en los casos señalados en la fracción IX, por cada aeronave que arribe a territorio nacional.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-X. Multa de $1,000.00 a $1,500.00, en el caso señalado en la fracción XI, por cada pedimento.
+IX. Multa de $105,457.00 a $158,185.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-XI. Multa de $3,000.00 a $4,000.00 en caso de omisión y de $1,500.00 a $2,500.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
+X. Multa de $1,307.00 a $1,961.00, en el caso señalado en la fracción XI, por cada pedimento.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
 
-XII. Multa de $500.00 a $1,000.00, en el caso señalado en la fracción XIII, por cada documento.
+XI. Multa de $3,921.00 a $5,228.00 en caso de omisión y de $1,961.00 a $3,268.00 por la presentación extemporánea, en el caso señalado en la fracción XII.
+
+(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998) (REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)
+
+XII. Multa de $654.00 a $1,307.00, en el caso señalado en la fracción XIII, por cada documento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -3534,9 +3554,13 @@ II. No cumplan con la obligación de llevar el sistema automatizado de control d
 
 Se aplicarán las siguientes multas a quienes cometan las infracciones relacionadas con las obligaciones de llevar contabilidad previstas en el artículo 185-A de esta Ley:
 
-I. Multa de $60,000.00 a $80,000.00, a la señalada en la fracción I.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-II. Multa de $100,000.00 a $150,000.00, a la señalada en la fracción II.
+I. Multa de $63,234.00 a $84,312.00, a la señalada en la fracción I.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+II. Multa de $105,390.00 a $158,085.00, a la señalada en la fracción II.
 
 ###### Artículo 186.
 
@@ -3600,37 +3624,51 @@ XX. Cuando las personas que operen o administren puertos de altura, aeropuertos 
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con el control, seguridad y manejo de las mercancías previstas en el artículo 186 de esta Ley:
 
-I. Multa de $2,000.00 a $2,500.00, a las señaladas en las fracciones I, II, IV, V, VII y XI.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-II. Multa de $500.00 a $750.00, a la señalada en la fracción III.
+I. Multa de $4,218,.00 a $5,273.00, a las señaladas en las fracciones I, II, IV, V, VII y XI.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+II. Multa de $1,055.00 a $1,582.00, a la señalada en la fracción III.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensatorias omitidas, cuando no se haya cubierto lo que correspondía pagar o del 30% al 50% del valor comercial de las mercancías si están exentas o se trata de retorno al extranjero, a la señalada en la fracción VI.
 
-IV. Multa de $5,000.00 a $7,500.00 a las señaladas en las fracciones IX y X.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-V. Multa de $3,000.00 a $4,000.00 a las señaladas en las fracciones XII y XIII.
+IV. Multa de $10,546.00 a $15,819.00 a las señaladas en las fracciones IX y X.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+V. Multa de $6,327.00 a $8,437.00 a las señaladas en las fracciones XII y XIII.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. Multa de $30,000.00 a $45,000.00, a las señaladas en las fracciones VIII y XIV.
+VI. Multa de $39,213.00 a $58,819.00, a las señaladas en las fracciones VIII y XIV.
 
 VII. Clausura del establecimiento por una semana en la primera ocasión, por dos semanas en la segunda ocasión, por tres semanas en la tercera y siguientes ocasiones dentro de cada año de calendario, a la señalada en la fracción XV del artículo 186 de esta Ley.
 
-VIII. Multa de $10,000.00 a $20,000.00 a la señalada en la fracción XVI.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+VIII. Multa de $21,091.00 a $42,183.00 a la señalada en la fracción XVI.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 IX. Multa del 3% al 5% del importe total que no se hubiera transferido, a la señalada en la fracción XVIII.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-X. Multa de $40,000.00 a $55,000.00, a la señalada en la fracción XIX.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-XI. Multa de $500.00 a $1,000.00, a la señalada en la fracción XVII.
+X. Multa de $52,284.00 a $71,890.00, a la señalada en la fracción XIX.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XI. Multa de $654.00 a $1,307.00, a la señalada en la fracción XVII.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -3648,9 +3686,13 @@ II. Utilice una clave confidencial que haya sido revocada o cancelada.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones a que se refiere el artículo 188 de esta Ley:
 
-I. Multa de $10,000.00 a $15,000.00, a quien cometa la infracción señalada en la fracción I.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-II. Multa de $20,000.00 a $30,000.00, a quien cometa la infracción señalada en la fracción II.
+l. Multa de $21,091.00 a $31,637.00, a quien cometa la infracción señalada en la fracción I.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+II. Multa de $42,183.00 a $63,274.00, a quien cometa la infracción señalada en la fracción II.
 
 ###### Artículo 190.
 
@@ -3670,13 +3712,21 @@ V. Falsifique o altere el contenido de algún gafete de identificación.
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones establecidas en el artículo 190 de esta Ley:
 
-I. Multa de $5,000.00 a $7,500.00, tratándose de las señaladas en las fracciones I y II.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-II. Multa de $10,000.00 a $15,000.00, tratándose de la señalada en la fracción III.
+I. Multa de $10,546.00 a $15,819.00, tratándose de las señaladas en las fracciones I y II.
 
-III. Multa de $1,000.00 a $1,500.00, tratándose de la señalada en la fracción IV.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-IV. Multa de $20,000.00 a $30,000.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
+II. Multa de $21,091.00 a $31,637.00, tratándose de la señalada en la fracción III.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+IIl. Multa de $2,109.00 a $3,164.00, tratándose de la señalada en la fracción IV.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+IV. Multa de $42,183.00 a $63,274.00, tratándose de la señalada en la fracción V, independientemente de las sanciones a que haya lugar por la comisión de delitos.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -3694,11 +3744,17 @@ III. Introduzca al recinto fiscal vehículos que transporten mercancías cuyo pe
 
 Se aplicarán las siguientes sanciones a quien cometa las infracciones relacionadas con la seguridad o integridad de las instalaciones aduaneras previstas en el artículo 192 de esta Ley:
 
-I. Multa de $3,000.00 a $4,000.00, a la señalada en la fracción I.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
 
-II. Multa de $4,000.00 a $5,000.00 a la señalada en la fracción II, así como reparación del daño causado.
+l. Multa de $6,327.00 a $8,437.00, a la señalada en la fracción I.
 
-III. Multa de $4,000.00 a $5,000.00, si se trata de la señalada en la fracción III.
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+II. Multa de $8,437.00 a $10,546.00 a la señalada en la fracción II, así como reparación del daño causado.
+
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
+III. Multa de $8,437.00 a $10,546.00, si se trata de la señalada en la fracción III.
 
 A los infractores que aporten a los fondos a que se refiere el artículo 202 de esta Ley, una cantidad equivalente a la multa que se les imponga en los términos de este artículo, se les tendrá por liberados de la obligación de pagar dicha multa.
 
@@ -3726,7 +3782,7 @@ Se considera que se comete una sola infracción, aun cuando la importación o ex
 
 Cuando dos o más personas introduzcan al país o extraigan de él mercancías de manera ilegal se observarán las reglas siguientes:
 
-I. Si pueden determinarse las mercancías que cada uno introdujo o extrajo, se aplicarán individualmente las sanciones que correspondan a cada quien.
+l. Si pueden determinarse las mercancías que cada uno introdujo o extrajo, se aplicarán individualmente las sanciones que correspondan a cada quien.
 
 II. En caso contrario, se aplicará la sanción que corresponda a la infracción cometida por la totalidad de las mercancías y todos responderán solidariamente.
 
@@ -3734,7 +3790,7 @@ II. En caso contrario, se aplicará la sanción que corresponda a la infracción
 
 Las autoridades aduaneras, al imponer las multas, deberán considerar como agravantes los siguientes supuestos:
 
-I. El utilizar un Registro Federal de Contribuyentes de un importador que no hubiere encargado el despacho de las mercancías.
+l. El utilizar un Registro Federal de Contribuyentes de un importador que no hubiere encargado el despacho de las mercancías.
 
 II. El uso de documentos falsos o en los que se hagan constar operaciones inexistentes.
 
@@ -3758,9 +3814,11 @@ IV. En un 50% cuando la multa se haya impuesto por la omisión en el pago de las
 
 Lo dispuesto en este artículo no será aplicable cuando se den los supuestos del artículo 198 de esta Ley.
 
+> <small>(REFORMADA EN LA CANTIDAD POR ANEXO 2 DE LA RESOLUCION MISCELANEA DE COMERCIO EXTERIOR PARA 2000, D.O.F. 1 DE MARZO DE 2002)</small>
+
 ###### Artículo 200.
 
-Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $15,000.00 a $20,000.00.
+Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $31,637.00 a $42,183.00.
 
 ###### Artículo 201.
 
@@ -3782,7 +3840,7 @@ La interposición del recurso de revocación será optativa para el interesado a
 
 T r a n s i t o r i o s
 
-Primero. La presente Ley entrará en vigor el 1o. de abril de 1996, con excepción de los artículos 21, fracciones I y II; y 82, párrafos primero y segundo, los que entrarán en vigor a partir del 1o. de julio de 1996.
+Primero. La presente Ley entrará en vigor el 1o. de abril de 1996, con excepción de los artículos 21, fracciones l y II; y 82, párrafos primero y segundo, los que entrarán en vigor a partir del 1o. de julio de 1996.
 
 Segundo. A partir de la fecha en que entre en vigor esta Ley, quedará abrogada la Ley Aduanera, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1981.
 
@@ -3943,3 +4001,7 @@ VI. Para los efectos del artículo 161 de la Ley Aduanera vigente a partir del 1
 VII. Para los efectos de los artículos 163, fracción VII y 163-A de la Ley Aduanera, las personas físicas designadas como sustitutas por agentes aduanales a los que se les hubiera otorgado autorización para actuar en más de tres aduanas distintas a las de su adscripción, que no hubieran presentado escrito al Servicio de Administración Tributaria, señalando las aduanas adicionales a la de su adscripción para efectuar despachos aduaneros, al obtener la patente aduanal de la aduana de adscripción original deberán señalar al Servicio de Administración Tributaria, las tres aduanas adicionales a la de adscripción, en las cuales podrán efectuar los despachos aduaneros.
 
 Artículo Tercero. El fideicomiso público a que se refieren los artículos 16-A y 16-B, se mantendrá vigente en tanto continúe el programa de mejoramiento de los medios de informática y de control de las autoridades aduaneras. Al concluir dicho programa, se extinguirá el fideicomiso público de referencia y los aprovechamientos a que se refiere dicho precepto legal se aplicarán conforme a las disposiciones aplicables.
+
+D.O.F. 1 DE MARZO DE 2002.
+
+Unico.- La presente Resolución entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el artículo octavo fracciones I y II, que entrarán en vigor a los treinta días naturales siguientes a su publicación.
