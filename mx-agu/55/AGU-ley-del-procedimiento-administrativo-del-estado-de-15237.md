@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-administrativo-del-estado-de-15237"
 country: "mx"
 rank: "ley"
 publication_date: "1999-02-14"
-last_updated: "1999-02-14"
+last_updated: "2004-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 
@@ -49,9 +49,11 @@ Las disposiciones de esta ley son de orden e interés públicos y se aplicarán 
 
 El presente ordenamiento no será aplicable a las materias de: responsabilidades de los servidores públicos, electoral, justicias agrarias y laboral, así como al Ministerio Público en ejercicio de sus funciones constitucionales.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 2º.
 
-El Código de Procedimientos Civiles del Estado de Aguascalientes se aplicará supletoriamente a esta ley. Las diversas leyes que regulan las materias administrativas respecto de las cuales tendrá aplicación la presente ley, serán supletorias a ésta en lo que afecte a los procedimientos administrativos.
+La presente ley se aplicará supletoriamente a las diversas leyes que regulan las materias administrativas. El Código de Procedimientos Civiles del Estado de Aguascalientes se aplicará supletoriamente a esta Ley.
 
 ## TITULO SEGUNDO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -87,11 +89,21 @@ X.- Ser expedido decidiendo expresamente todos los puntos propuestos por la (sic
 
 XI.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documento o nombre completo de las personas;
 
-XII.- Tratándose de actos administrativos que deban notificarse deberá hacerse mención de la oficina en que se encuentra y pueda ser consultado el expediente respectivo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+XII.- Tratándose de actos administrativos que deban notificarse, deberá hacerse mención de la oficina en que se encuentre el expediente respectivo a fin de que pueda ser consultado;
 
 XIII.- Tratándose de actos administrativos recurribles deberá hacerse mención de los recursos que procedan; y
 
-XIV.- Ser expedido señalando lugar y fecha de emisión;
+XIV.- Ser expedido señalando lugar y fecha de emisión.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
+
+###### ARTICULO 4-A.
+
+Las dependencias y entidades de la Administración Pública podrán recibir las solicitudes que en términos de ley, los particulares presenten por escrito, sin perjuicio que dichos documentos puedan ser presentados a través de medios de comunicación electrónica; en estos casos se podrá emplear en sustitución de la firma autógrafa la firma electrónica, a cuyo efecto las dependencias y entidades crearán un registro de personas acreditadas para realizar trámites ante aquellas, asignando para ello al interesado un número o clave de identificación que operará como firma electrónica y que sustituirá a la firma autógrafa, de modo que al citar dicho número o clave en los trámites subsecuentes que realice el interesado, no requerirá asentar los datos ni acompañar los documentos mencionados en el Artículo 13, sino únicamente el órgano o autoridad a quien se dirige el tramite, la petición a quien se formula, los hechos y razones que dan motivo a la petición, y el lugar y fecha de emisión del escrito. El número o clave de identificación se conformará en los términos que establezca cada dependencia o entidad.
+
+No será aplicable la firma electrónica en trámites que impliquen renuncia de acciones y/o derechos.
 
 ###### ARTICULO 5º.
 
@@ -117,9 +129,11 @@ Si el acto administrativo requiere aprobación de órganos o autoridades distint
 
 ### CAPITULO III. De la Extinción del Acto Administrativo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 9º.
 
-El Acto administrativo de carácter individual se extingue de pleno derecho, por las siguientes causas:
+El Acto administrativo de carácter individual se extingue de pleno derecho, por cualquiera de las siguientes causas:
 
 I.- Cumplimiento de su finalidad;
 
@@ -130,6 +144,8 @@ III.- Cuando la formación del acto administrativo esté sujeto a una condición
 IV.- La realización de la condición resolutoria;
 
 V.- Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
 
 VI.- Por revocación determinada en la resolución de un recurso administrativo;
 
@@ -157,11 +173,13 @@ La actuación administrativa en el procedimiento se desarrollará con arreglo a 
 
 El procedimiento administrativo podrá iniciarse de oficio o a petición de la parte interesada.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 13.
 
 Las administraciones Públicas Estatal y Municipales, no podrán exigir más formalidades que las expresamente previstas en la ley.
 
-El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos.
+El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos, salvo lo dispuesto en el Artículo 4º A.
 
 ###### ARTICULO 14.
 
@@ -231,9 +249,11 @@ Los interesados podrán solicitar les sea expedida a su costa, copia certificada
 
 #### SECCION V. De los Requisitos de las Promociones
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 23.
 
-Las promociones deberán hacerse por escrito en el que se precisará el nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, los hechos o razones que dan motivo a la petición, el órgano administrativo a que se dirigen, lugar y fecha de su emisión, el escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
+Las promociones deberán hacerse por escrito o por medio de comunicación electrónica, en ambos casos se precisará el nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, lo (sic) hechos o razones que dan motivo a la petición, el órgano administrativo a que se dirigen, lugar y fecha de su emisión, el escrito deberá estar firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital, salvo que se utilice la firma electrónica, lo que se hará cumpliendo con los requisitos del Artículo 4º A.
 
 ###### ARTICULO 24.
 
@@ -331,9 +351,13 @@ Las notificaciones de los actos administrativos se harán:
 
 I.- Personalmente o por correo certificado con acuse de recibo firmado por aquél con quien deba entenderse la diligencia, cuando se trate de la primera notificación en el asunto; cuando se deje de actuar más de dos meses, cuando se requiera documentación o informes, cuando se trate de la resolución del procedimiento, de citatorios, requerimientos y todo acto que pueda ser recurrido;
 
-II.- Mediante mensajería, correo ordinario, telegrama, fax, cuando se trate de actos distintos de los señalados en la fracción anterior;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+II.- Mediante mensajería, correo ordinario, telegrama, fax, también podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente, pueda comprobarse fehacientemente la recepción de los mismos y siempre y cuando se trate de actos distintos de los señalados en la fracción anterior;
 
 III.- Por edicto, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido, hubiere fallecido o se encuentre en el extranjero sin haber dejado representante legal; y
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
 
 IV.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el último párrafo del Artículo 36 de esta ley.
 
@@ -357,6 +381,10 @@ Se tendrán como fecha de notificación por correo certificado la que conste en 
 
 En las notificaciones por edictos se tendrá como fecha en la que surte efectos la notificación, la de la última publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el territorio de la Entidad.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2004)</small>
+
+Tratándose de las demás formas de notificación contenidas en la presente ley, surtirán sus efectos el día siguiente al en que éstas se practiquen.
+
 ###### ARTICULO 41.
 
 Toda notificación deberá efectuarse en el plazo máximo de 10 días, a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye, con la indicación de si es o no definitivo en la vía administrativa y, en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
@@ -365,13 +393,11 @@ Toda notificación deberá efectuarse en el plazo máximo de 10 días, a partir 
 
 #### SECCION I. De la Iniciación
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 42.
 
-Los escritos dirigidos a las Administraciones Públicas Estatal y Municipales, deberán presentarse directamente en sus oficinas autorizadas para tales efectos siempre que se trate del escrito inicial de cualquier procedimiento o instancia; las demás promociones podrán presentarse a través de las oficinas de correos, telégrafo, mediante mensajerías o telefax.
-
-Cuando un escrito sea presentado ante un órgano incompetente, dicho órgano remitirá la promoción al que sea competente en el plazo de cinco días. En tal caso, se tendrá como fecha de presentación la del acuse de recibo del órgano incompetente, salvo que éste aperciba al particular en el sentido de que su ocurso se reciba sólo para el efecto de ser turnado a la autoridad competente; de esta circunstancia deberá dejarse constancia por escrito en el propio documento y en la copia sellada que al efecto se exhiba.
-
-Los escritos recibidos por correo certificado con acuse de recibo se considerarán presentados en las fechas que indique el sello fechado de la oficina de correos, excepto en los casos en que hubieren sido dirigidos a una autoridad que resulte incompetente. Para tal efecto, se agregará al expediente el sobre sin destruir en donde aparezca el sello fechado y cuando así proceda se estará a lo dispuesto en el párrafo anterior.
+Los escritos dirigidos a las Administraciones Públicas Estatal y Municipal, deberán presentarse directamente en sus oficinas autorizadas para tales efectos siempre que se trate del escrito inicial de cualquier procedimiento o instancia; las demás promociones podrán presentarse a través de las oficinas de correos, telégrafo, mensajería, telefax o cualquier medio de comunicación electrónica.
 
 ###### ARTICULO 43.
 
@@ -399,9 +425,11 @@ El incumplimiento a lo dispuesto en el párrafo anterior, será causa de respons
 
 Las cuestiones incidentales que se susciten durante el procedimiento no suspenderán la tramitación del mismo, incluyendo la recusación, en la inteligencia que de existir un procedimiento incidental de recusación, éste deberá resolverse antes de dictarse resolución definitiva o en la misma resolución.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 48.
 
-Los incidentes se tramitarán por escrito dentro de los cinco días siguientes a la notificación del acto que lo motive, en el que expresará lo que a su derecho conviniere, así como las pruebas que estime pertinentes fijando los puntos sobre los que versen; una vez desahogadas, en su caso, las pruebas que hubiere ofrecido, en el término que se fije y que no excederá de 10 días, el órgano administrativo resolverá el incidente planteado.
+Los incidentes se tramitarán por escrito dentro de los cinco días siguientes a la notificación del acto que lo motive, expresando lo que a su derecho del promovente conviniere, anexando las pruebas que estime pertinentes y fijando los puntos sobre los que éstas versen. Una vez desahogadas las pruebas que hayan sido ofrecidas, el órgano administrativo resolverá el incidente planteado dentro del término de 10 días.
 
 ###### ARTICULO 49.
 
@@ -441,13 +469,11 @@ A quien se le solicite un informe u opinión, deberá emitirlo dentro del plazo 
 
 Si transcurrido el plazo a que se refiere el párrafo anterior, no se emite el informe y opinión solicitado, se entenderá que no existe objeción a las pretensiones del interesado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 55.
 
-Concluída la tramitación del procedimiento administrativo y antes de dictar resolución se pondrán las actuaciones a disposición de los interesados, para que en su caso, formulen alegatos, los que serán tomados en cuenta por el órgano competente al dictar la resolución.
-
-Los interesados en un plazo no inferior a cinco días ni superior a 10 podrán presentar por escrito sus alegatos.
-
-Si antes del vencimiento del plazo los interesados manifestaran su decisión de no presentar alegatos, se tendrá por concluido el trámite.
+Antes de dictar resolución se pondrán las actuaciones a disposición de los interesados, por un plazo de cinco días hábiles, para que en su caso, formulen alegatos, los que serán tomados en cuenta por el órgano competente al dictar resolución.
 
 #### SECCION III. De la Terminación
 
@@ -685,9 +711,11 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 #### SECCION III. De la Resolución del Recurso
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 87.
 
-Será el superior jerárquico de la autoridad que emitió el acto o resolución impugnada el encargado de resolver el recurso, podrá:
+El superior jerárquico de la autoridad que emitió el acto o resolución impugnada será el encargado de resolver el recurso, podrá:
 
 I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo;
 
@@ -703,7 +731,9 @@ V.- Modificar u ordenar la modificación del acto impugnado o dictar u ordenar e
 
 Será improcedente el recurso:
 
-I.- Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+I.- Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y contra el mismo acto impugnado;
 
 II.- Contra actos que no afecten los intereses jurídicos del promovente;
 
@@ -713,7 +743,9 @@ IV.- Contra actos consentidos expresamente;
 
 V.- Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, renovar o nulificar el acto respectivo; y
 
-VI.- Cuando se presente fuera del plazo.
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2004)</small>
+
+VI.- Cuando se presente fuera del plazo señalado para su interposición.
 
 ###### ARTICULO 89.
 
@@ -846,3 +878,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 28 DE JUNIO DE 2004.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
