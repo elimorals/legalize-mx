@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1998-09-14"
+last_updated: "1998-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -345,13 +345,13 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Art. 55.
 
-La legislatura tendrá cada año de ejercicio dos períodos de sesiones ordinarias. El primero se iniciará el día 15 de Octubre y terminará el día 15 de enero; el segundo comenzará el día 30 de Abril y terminará el día 15 de junio; ambos períodos podrán ser prorrogados hasta por treinta días.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 20 de Septiembre y terminará el día 20 de Diciembre; el segundo comenzará el día 30 de Abril y terminará el día 30 de Junio; ambos períodos podrán ser prorrogados hasta por treinta días.
 
-En el año de la elección del Titular del Poder Ejecutivo, la Diputación Permanente convocará a un período extraordinario de sesiones, en el que se atenderá primordialmente la toma de protesta de Ley al Gobernador que resulte electo, en Sesión Solemne que deberá celebrarse el día 4 de Octubre.
+En el año de la elección del Titular del Poder Ejecutivo, el Congreso celebrará, el día 4 de octubre, Sesión Solemne en la cual se atenderá primordialmente la toma de protesta de Ley al Gobernador que resulte electo.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -2368,3 +2368,13 @@ Los titulares de la Procuraduría General de Justicia del Estado y de la Secreta
 ###### ARTÍCULO TERCERO.
 
 Queda sin efectos la adición con tres párrafos al artículo 87 del Decreto Número 79, aprobado en sesión del 15 de julio de 1998.
+
+P.O. 16 DE SEPTIEMBRE DE 1998.
+
+Artículo Primero: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo: El Período de Ejercicio Constitucional de la Legislatura LXVIII de este H. Congreso comprenderá del 15 de Octubre del año 1997 al 15 de Octubre del año 2000.
+
+Artículo Tercero: La Apertura del Primer Período Ordinario de Sesiones del Segundo y Tercer años de Ejercicio Constitucional, de la Legislatura LXVIII, quedará sujeta a lo dispuesto en el Artículo 55 de la Constitución Política del Estado de Nuevo León, una vez que de inicio la vigencia del presente Decreto.
+
+Artículo Cuarto: Los Diputados integrantes de la Legislatura LXIX de este H. Congreso iniciarán su Período de Ejercicio Constitucional, el día 15 de Octubre del año 2000, debiendo concluirlo el día 20 de Septiembre del año 2003; a fin de que los mismos concluyan su ejercicio en la fecha a la que se refiere este Decreto. La Apertura del Primer Período Ordinario de Sesiones, de dicha Legislatura, iniciará el día 15 de Octubre del año 2000 y terminará el día 15 de Enero del año 2001. La Legislatura LXX iniciará su Período de Ejercicio Constitucional el día 20 de Septiembre del año 2003.
