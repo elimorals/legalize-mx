@@ -4,7 +4,7 @@ identifier: "TLA-ley-para-la-orientacion-e-integracion-social-de-menores-8562"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-25"
-last_updated: "1995-10-25"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TLA"
 
 LEY PARA LA ORIENTACION E INTEGRACION SOCIAL DE MENORES INFRACTORES DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ORIENTACION E INTEGRACION SOCIAL DE MENORES INFRACTORES PARA EL ESTADO DE TLAXCALA NUMERO 83 PUBLICADA EN EL PERIODICO OFICIAL EL 31 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 25 de octubre de 1995.
 
@@ -1072,3 +1074,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 Dado en el Palacio del Poder Ejecutivo del Estado, en la ciudad de Tlaxcala de Xicohténcatl, a los dieciocho días del mes de octubre de mil novecientos noventa y cinco.
 
 EL GOBERNADOR DEL ESTADO.- JOSÉ ANTONIO ALVAREZ LIMA.- RÚBRICA.- EL SECRETARIO DE GOBIERNO.- FEDERICO BARBOSA GUTIÉRREZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley para la Orientación e Integración Social de menores infractores del Estado de Tlaxcala publicada mediante decreto 234 en el Periódico Oficial del Gobierno del Estado el 25 de octubre de 1995, tomo LXXIX, Segunda Época, número 43 Tercera Sección y Fe de Erratas publicada el 13 de noviembre de 1996 respecto a una omisión por error mecanográfico en los artículos 21, 54 y 112 del ordenamiento en mención.
