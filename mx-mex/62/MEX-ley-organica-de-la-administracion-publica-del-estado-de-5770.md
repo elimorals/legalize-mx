@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2003-10-31"
+last_updated: "2004-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1257,15 +1257,19 @@ La Organización, Integración y Atribuciones de los Tribunales Administrativos,
 
 del Poder Ejecutivo
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ### CAPITULO ÚNICO. De la Administración Pública Paraestatal
 
 ###### Artículo 45.
 
-Los organismos descentralizados y empresas de participación estatal serán considerados como organismos auxiliares del Poder Ejecutivo y forman parte de la Administración Pública del Estado.
+Los organismos descentralizados, las empresas de participación estatal y los fideicomisos públicos serán considerados como organismos auxiliares del Poder Ejecutivo y forman parte de la Administración Pública del Estado.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 46.
 
-El Gobernador del Estado podrá, solicitar al Congreso, la creación de organismos descentralizados; ordenar la creación, fusión o liquidación de empresas de participación estatal o disponer la constitución y liquidación de fideicomisos públicos para la atención del objeto que expresamente les encomiende. El Ejecutivo deberá rendir cuenta a la Legislatura del uso que hiciere de esta facultad.
+El Gobernador del Estado podrá solicitar al Congreso, la creación de organismos descentralizados, ordenar la creación, fusión o liquidación de empresas de participación estatal o disponer la constitución de fideicomisos a que se refiere el segundo párrafo del artículo 49 de la presente Ley, para la atención del objeto que expresamente les encomiende. El Ejecutivo deberá rendir cuenta a la Legislatura del uso que hiciere de esta facultad.
 
 ###### Artículo 47.
 
@@ -1277,9 +1281,19 @@ El Estado podrá participar en la integración del capital social de aquellas em
 
 En la integración del capital social de estas empresas, podrán participar los particulares y los grupos sociales interesados. Los funcionarios del Gobierno del Estado y de los organismos descentralizados, en ningún caso podrán participar en la integración del capital social de estas empresas.
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 49.
 
-El Gobernador del Estado determinará qué dependencias del Ejecutivo serán las responsables de planear, vigilar y evaluar la operación de los organismos auxiliares a que se refieren los artículos 45 y 46 de esta Ley.
+El Gobernador, a través de sus dependencias y entidades podrá constituir fideicomisos.
+
+Asimismo el Gobernador, a través de la Secretaría de Finanzas, Planeación y Administración podrá constituir fideicomisos públicos con el propósito de auxiliarlo en las atribuciones del Ejecutivo a su cargo, que cuenten con una estructura orgánica análoga a la de otros organismos y con Comité Técnico. Unicamente los fideicomisos que reúnan estas características serán considerados organismos auxiliares del Poder Ejecutivo.
+
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+###### Artículo 50.
+
+El Gobernador del Estado, determinará qué dependencias del Ejecutivo serán las responsables de planear, vigilar y evaluar la operación de los organismos auxiliares a que se refiere el artículo 45 de esta Ley.
 
 ## TRANSITORIOS
 
@@ -1496,6 +1510,40 @@ CUARTO.- El Gobernador Constitucional del Estado deberá expedir el reglamento i
 QUINTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de observancia general refieran funciones y atribuciones de las Secretarías de Finanzas y Planeación y de Administración, se entenderá que las mismas se encuentran reservadas a la Secretaría de Finanzas, Planeación y Administración;
 
 SEXTO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente decreto en las Secretarías de Finanzas y Planeación y de Administración, se tramitarán y resolverán, por la Secretaría de Finanzas, Planeación y Administración.
+
+G.G. 4 DE JUNIO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto prevalecerá sobre cualquier disposición que se oponga al mismo. Asimismo, se entienden modificados conforme a los términos del presente Decreto cualesquiera otros decretos o disposiciones mediante los cuales se haya autorizado la contratación de las obligaciones de deuda pública cuya reestructuración se autoriza mediante el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+El Gobernador, por conducto de la Secretaría de Finanzas, Planeación y Administración deberá realizar todas (sic) los actos y gestiones necesarios a efecto de desafectar las participaciones que en ingresos federales correspondan al Estado que a la fecha se encuentren comprometidas, con la finalidad de aportar el derecho a la totalidad de las participaciones que en ingresos federales corresponden al Estado al fideicomiso a que se refiere el presente decreto. Lo previsto en este artículo no podrá entenderse en perjuicio de derechos adquiridos por terceros.
+
+###### ARTICULO SEXTO.
+
+A partir del inicio de la vigencia del presente decreto, el Ejecutivo del Estado dispondrá de sesenta días naturales, para llevar a cabo las modificaciones al Reglamento de la Ley para la Coordinación y Control de los Organismos Auxiliares y Fideicomisos del Estado de México, que se derivan del mismo.
+
+###### ARTICULO SEPTIMO.
+
+Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, se entenderán referidas a la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+###### ARTICULO OCTAVO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
