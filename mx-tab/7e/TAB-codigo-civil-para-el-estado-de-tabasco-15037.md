@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "1997-04-09"
+last_updated: "2003-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2143,7 +2143,11 @@ XII.- La negativa injustificada a cumplir la obligación alimentaria respecto al
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
-XIV.- Haber cometido uno de los cónyuges un delito por acción u omisión dolosa que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+XIV.- Haber cometido uno de los cónyuges un delito por acción u omisión dolosa que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años. Asimismo cuando haya sido condenado por el delito de violencia familiar, cualquiera que sea la pena.
 
 XV.- Los hábitos de juego o de embriaguez o el uso no terapéutico de enervantes, estupefacientes, psicotrópicos o cualquier otra sustancia que altere la conducta del individuo y que produzca farmacodependencia;
 
@@ -2227,9 +2231,13 @@ VI.- Dictar las medidas conducentes para que los cónyuges no se causen perjuici
 
 VII.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 281.
 
-Protección de los hijos
+Protección de los hijos o cónyuges inocentes
 
 El Juez, al declarar procedente el divorcio, fijará la situación de los hijos atendiendo a lo que más favorezca su desarrollo psicosomático, conforme a las fracciones siguientes:
 
@@ -2238,6 +2246,18 @@ I.- Si la causa de divorcio estuviere comprendida en las fracciones I, II, III, 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 II.- Si la causa de divorcio estuviere comprendida en las fracciones IX, XIII, XVI y XVII del artículo 272, los hijos quedarán bajo la patria potestad del cónyuge inocente, pero a la muerte de éste, el culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables se les suspenderán en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente o ascendientes que correspondan y, si no hay quién la ejerza, se les nombrará tutor;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+En los casos que el Juez estime pertinentes, dictará las medidas de seguridad, seguimiento y terapias necesarias, para evitar y corregir los actos que dañen la integridad física, psíquica y moral de los afectados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+El Juez decidirá que institución pública se hará cargo de las terapias y seguimiento.
 
 III.- En el caso de las fracciones VI y VII del artículo 272, los hijos quedarán bajo la custodia del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos;
 
@@ -2835,7 +2855,11 @@ Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de
 
 Reconocimiento del padre
 
-El padre puede reconocer, sin consentimiento de su esposa, a un hijo habido con persona distinta a ésta, antes o durante el matrimonio, pero el reconocimiento hecho en el segundo caso no prueba por sí solo el adulterio del que reconoce, en caso de divorcio en su contra por esa causal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+
+El padre puede reconocer, sin consentimiento de su esposa, a un hijo habido con persona distinta a ésta, antes o durante el matrimonio.
 
 ###### ARTICULO 359.
 
@@ -3581,11 +3605,21 @@ I.- Cuando el que la ejerza es condenado por sentencia ejecutoriada expresamente
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 281;
 
-III.- Cuando por las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes, pudiera comprometerse la seguridad o la salud física o mental de los menores, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
+
+III.- Cuando por violencia familiar, las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes, pudiera comprometerse la seguridad o la salud física o mental de los menores, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
 IV.- Por la exposición que el padre o la madre o el abuelo o la abuela hicieren de sus hijos o nietos; o porque los dejen abandonados por más de seis meses, si quedaron a cargo de alguna persona, y por más de un día si al abandonar a los hijos no hubieren quedado a cargo de persona alguna y éste sea intencional; y
 
 V.- Por incumplimiento injustificado de dar alimentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+Para los efectos de la fracción III de este artículo, se entiende por violencia familiar el uso de la fuerza física o moral, así como la omisión grave, respecto de un menor, por sus padres o por cualquier otra persona, que en términos de lo dispuesto por este título ejerce la patria potestad y que atenten contra su integridad física, psíquica o ambas, independientemente del lugar en que se lleve a cabo.
 
 ###### ARTICULO 453.
 
@@ -15495,6 +15529,12 @@ Obligación de reparar los daños y perjuicios
 
 El autor de un hecho ilícito debe reparar los daños y perjuicios que con tal hecho cause a otra persona, a menos que demuestre que el daño o el perjuicio se produjo como consecuencia de culpa o negligencia inexcusable de la víctima. Esta responsabilidad puede ser a cargo de una persona que no sea la autora del hecho ilícito, en los casos en que así lo disponga la ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
+
+Los integrantes de la familia que resulten responsables de violencia familiar, deberán reparar los daños y perjuicios que ocasionen con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
+
 ###### ARTICULO 2025.
 
 Responsabilidad por incumplimiento
@@ -22787,7 +22827,7 @@ Concepto de aparcería agrícola
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
-Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan o a falta de convenio, conforme a las costumbres del lugar; en el entendido de que al aparcero nunca podrá corresponderle sólo por su trabajo menos del 50 por ciento de la cosecha.
+Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan o a falta de convenio, conforme a las costumbres del lugar; en el entendido de que el aparcero nunca podrá corresponderle sólo por su trabajo menos del 50 por ciento de la cosecha.
 
 ###### ARTICULO 2982.
 
@@ -25234,3 +25274,11 @@ LIC. ROBERTO MADRAZO PINTADO
 LIC. VICTOR MANUEL BARCELO RODRIGUEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE MAYO DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
