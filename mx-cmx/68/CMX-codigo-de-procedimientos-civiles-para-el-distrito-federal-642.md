@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2004-01-27"
+last_updated: "2004-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2004.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2878,7 +2878,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -3334,7 +3334,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -3462,39 +3462,59 @@ ARTICULO 429
 
 El auto en que se declara que una sentencia ha causado o no ejecutoria, no admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2004)</small>
 
-## TITULO SEPTIMO. De los juicios especiales y de la vía de apremio
+## TITULO SÉPTIMO. De los juicios especiales y de las vías de apremio
 
-> <small>(DEROGADO, SU DENOMINACION Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2004)</small>
 
-### CAPITULO I. De los juicios sumarios
+### CAPITULO I. De la pérdida de la patria potestad de menores acogidos por una Institución pública o privada de asistencia social
 
-Reglas Generales
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 430
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores recibidos por una institución pública o privada de asistencia social para el efecto de que se decrete la pérdida de la patria potestad, sólo en los casos previstos en el artículo 444 fracciones III, V, VI y VII del Código Civil, correspondiéndole la acción al representante legal de la institución o al Ministerio Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 431
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Admitida la demanda se correrá traslado de ella a las personas a que se refiere el artículo 414 del Código Civil, a fin de que en el plazo de cinco días presenten su contestación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 432
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Las notificaciones se sujetarán a lo dispuesto por el Título Segundo, Capítulo Quinto de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 433
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Todas las excepciones deberán hacerse valer en la contestación.
+
+Los incidentes no suspenden el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverá en la sentencia definitiva.
+
+Si la parte demandada no formula su contestación, se tendrá por contestada en sentido negativo.
+
+En este juicio no es admisible la reconvención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 434
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Transcurrido el período de emplazamiento, dentro de los diez días siguientes, se celebrara una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+Las pruebas deberán ofrecerse en los escritos de demanda y contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en éste Código.
+
+Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días. Desahogadas las pruebas y concluida la fase de alegatos, se dictará Sentencia dentro de los cinco días siguientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 435
 
-> <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
+Contra la Sentencia que se dicte procede la apelación en ambos efectos.
 
 ARTICULO 436 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
@@ -4674,7 +4694,7 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO I. Procedimiento estando ausente el rebelde
 
@@ -4720,9 +4740,13 @@ ARTICULO 643
 
 La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
 
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+
 ARTICULO 644
 
-En el caso en que el emplazamiento se hubiera hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, o (sic) no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
+En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, a no ser que el actor dé una fianza prevenida para el juicio ejecutivo.
+
+Tratándose de los Juicio a que hace referencia el Titulo Séptimo, Capítulo I de este Código, no será aplicable el presente artículo.
 
 ## TITULO OCTAVO. Del juicio arbitral
 
@@ -6626,6 +6650,14 @@ ARTICULO 901
 
 En los negocios de menores e incapacitados intervendrán el Juez de lo Familiar y los demás funcionarios que determine el Código Civil.
 
+> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2004)</small>
+
+ARTICULO 901 Bis
+
+La institución pública o privada, de asistencia social que reciba a un menor para ser dado en adopción, podrá presentar por escrito, solicitud ante Juez Familiar haciendo de su conocimiento esta circunstancia, acompañando a dicha solicitud el acta de nacimiento del menor. El Juez ordenará la comparecencia del representante legal de la institución y de la persona o las personas que ejerzan la patria potestad, con la intervención del Ministerio Público.
+
+Ratificada que sea por las partes dicha solicitud, se declarará de oficio la terminación de la patria potestad y la tutela del menor quedará a cargo de la Institución.
+
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1992)</small>
@@ -6836,35 +6868,43 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 923
 
-El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 390 del Código Civil, debiéndose observar lo siguiente:
+El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 390 del Código Civil, debiendo observar lo siguiente:
 
-I.- En la promoción inicial se deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si lo hubiere domicilio del menor o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido y acompañar certificado médico de buena salud. Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Nacional para el Desarrollo Integral de la Familia, directamente o por quien éste autorice;
+I. En la promoción inicial se deberá manifestar si se trata de adopción nacional o internacional, mencionándose, el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretenda adoptar, el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya recibido y acompañar certificado médico de buena salud de los promoventes y del menor.
 
-II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el presunto adoptante o la institución según sea el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 444, fracción IV, del Código Civil;
+Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Nacional para el Desarrollo Integral de la Familia, o por quien este autorice, siempre que se trate de profesionistas que acrediten tener título profesional y tener como mínimo dos años de experiencia en la atención de menores y personas susceptibles de adoptar .
 
-III.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo;
+También los podrán realizar la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, el Tribunal Superior de Justicia del Distrito Federal, la Procuraduría General de Justicia del Distrito Federal para los efectos de adopción nacional.
 
-IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello fuere aconsejable a criterio del Juez.
+II. Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el presunto adoptante o la institución exhibirá, según sea el caso, constancia oficial del tiempo de exposición, la Sentencia ejecutoriada que haya decretado la terminación de la patria potestad o en su defecto, como consecuencia del abandono, la sentencia ejecutoriada que haya decretado la pérdida de este derecho.
 
-En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses a que se refiere el presente artículo, y
+III. Si hubieran transcurrido menos de los tres meses de la exposición, se decretará la guarda y custodia provisional de quien se pretende adoptar con el o los presuntos adoptantes, entre tanto se consuma dicho plazo;
 
-V.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país.
+IV. Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de tres meses para los mismos efectos.
 
-Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+En el supuesto de que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción, no se requerirá que transcurra el plazo de tres meses a que se refiere el presente artículo y,
+
+V. Tratándose de extranjeros con residencia en el país, deberán acreditar su solvencia moral y económica con las constancias correspondientes, sin necesidad de presentar testigos.
+
+Los extranjeros con residencia en otro país deberán acreditar su solvencia moral y económica y presentar certificado de idoneidad expedidos por la autoridad competente de su país de origen que acredite que el o los solicitantes son considerados aptos para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; deberán durante el procedimiento acreditar su legal estancia en el País y la autorización de la Secretaría de Gobernación para llevar a cabo una adopción.
 
 La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial.
 
 La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+VI. En el auto admisorio que le recaiga a la solicitud inicial de adopción, el Juez señalará fecha para la audiencia, laque se deberá desahogar dentro de los diez días siguientes al mismo.
+
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
 
 ARTICULO 924
 
-Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el Juez de lo Familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
+Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo, conforme al Código Civil, el Juez de lo Familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
+
+La sentencia consentida por los promoventes causara ejecutoria.
 
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
@@ -8019,3 +8059,11 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicació
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- En los procedimientos o juicios civiles que se estén tramitando ante cualquier instancia al momento de la entrada en vigor de las presentes reformas, modificaciones y adiciones, se finalizarán aplicando las normas vigentes al momento de su inicio.
+
+G.O. 9 DE JUNIO DE 2004.
+
+PRIMERO. Remítase al Jefe de Gobierno del distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión también en el Diario Oficial de la Federación, en los términos previstos por el artículo 49 del Estatuto de Gobierno del Distrito Federal.
+
+SEGUNDO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo establecido en la presente Ley.
