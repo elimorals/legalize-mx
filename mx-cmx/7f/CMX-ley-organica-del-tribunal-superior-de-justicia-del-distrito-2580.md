@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "1999-01-21"
+last_updated: "1999-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 1999.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -180,7 +180,7 @@ Toda persona que fuere nombrada para desempeñar algún cargo o empleo judicial,
 
 Para ser designado Magistrado se requiere:
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
 
 I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -762,7 +762,9 @@ III. De la diligenciación de los exhortos y despacho de los demás asuntos que 
 
 Los Jueces de Paz del Distrito Federal en materia Penal, conocerán:
 
-I. De los delitos que tengan una o más sanciones no privativas de la libertad cuando sean las únicas aplicables, o sanciones privativas de la libertad hasta de dos años. Cuando fueren varios delitos se estará a la penalidad máxima del delito mayor, sin perjuicio de que los propios jueces impongan una pena superior cuando sea pertinente, en virtud de las reglas contenidas en el artículo 64 del Código Penal para el Distrito Federal en materia común y para toda la República en materia federal, y;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+I. De los delitos que tengan una o más sanciones no privativas de libertad cuando sean las únicas aplicables, o sanciones privativas de libertad hasta de cuatro años. Cuando fueren varios delitos se estará a la penalidad máxima del delito mayor, sin perjuicio de que los propios jueces impongan una pena superior cuando sea pertinente, en virtud de las reglas contenidas en el artículo 64 del Código Penal para el Distrito Federal;
 
 II. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
 
@@ -1867,3 +1869,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para su mayor difusión publíquese el presente Decreto en el Diario Oficial de la Federación.
 
 TERCERO.- Las reglas de turno a las que se refieren los artículos 51 y 201, fracción XII del presente Decreto deberán ser expedidas por el Consejo de la Judicatura dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto. En tanto se expidan estas reglas, seguirán vigentes las disposiciones del Capítulo IV del Título Octavo de la Ley Orgánica del Tribunal Superior del (sic) Justicia del Distrito Federal.
+
+G.O. 17 DE SEPTIEMBRE DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor el 1° de octubre de 1999. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
