@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "2000-07-17"
+last_updated: "2001-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2001.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -67,6 +67,10 @@ Unidad Especializada en Delincuencia Organizada.
 
 Unidad Especializada contra el Lavado de Dinero.
 
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Agencia Federal de Investigación.
+
 Dirección General de Comunicación Social.
 
 Dirección General de Prevención del Delito y Servicios a la Comunidad.
@@ -75,7 +79,7 @@ Dirección General de Prevención del Delito y Servicios a la Comunidad.
 
 Dirección General de Coordinación Interinstitucional.
 
-Dirección General de Planeación y Operación de la Policía Judicial Federal.
+> <small>(DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
 
 Dirección General de Organización y Control del Personal Ministerial, Policial y Pericial.
 
@@ -94,6 +98,26 @@ Dirección General de Normatividad Técnico-Penal.
 Direcciones Generales de Control de Procedimientos Penales "A", "B" y "C".
 
 Direcciones Generales del Ministerio Público Especializado "A", "B" y "C".
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General Jurídica en Materia de Delitos Electorales.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Averiguaciones Previas en Materia de Delitos Electorales.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Control de Procesos y Amparo en Materia de Delitos Electorales.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Coordinación, Desarrollo e Innovación Gubernamental en Materia de Delitos Electorales.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Información y Política Criminal en Materia de Delitos Electorales.
 
 Dirección General de Visitaduría.
 
@@ -129,6 +153,26 @@ Centro de Control de Confianza.
 
 Oficina Central Nacional Interpol-México.
 
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Planeación Policial.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Investigación Policial.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Análisis Táctico.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Despliegue Regional Policial.
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Dirección General de Operaciones Especiales.
+
 Órganos desconcentrados:
 
 Delegaciones.
@@ -137,11 +181,11 @@ Instituto de Capacitación.
 
 Agregadurías.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 3.
 
-Son Agentes del Ministerio Público de la Federación el Procurador; los Subprocuradores; el Fiscal Especializado para la Atención de Delitos contra la Salud; el Fiscal Especializado para la Atención de Delitos Electorales; el Visitador General; el Titular de la Unidad Especializada en Delincuencia Organizada; el Titular de la Unidad Especializada contra el Lavado de Dinero; los Directores Generales de lo Contencioso y Consultivo, de Asuntos Legales Internacionales, de Amparo, de Constitucionalidad y Documentación Jurídica, de Normatividad Técnico Penal, de Control de Procedimientos Penales "A", "B" y "C", del Ministerio Público Especializado "A", "B" y "C", de Visitaduría, de Inspección Interna, de Protección a los Derechos Humanos y los Delegados Estatales, así como aquellos servidores públicos a los que se les confiera dicha calidad.
+Son Agentes del Ministerio Público de la Federación el Procurador; los Subprocuradores, el Fiscal Especializado para la Atención de Delitos contra la Salud, el Fiscal Especializado para la Atención de Delitos Electorales, el Visitador General, el Titular de la Unidad Especializada en Delincuencia Organizada, el Titular de la Unidad Especializada contra el Lavado de Dinero, los Directores Generales de lo Contencioso y Consultivo, de Asuntos Legales Internacionales, de Amparo, de Constitucionalidad y Documentación Jurídica, de Normatividad Técnico Penal, de Control de Procedimientos Penales "A", "B" y "C", del Ministerio Público Especializado "A", "B" y "C", Jurídico en Materia de Delitos Electorales, de Averiguaciones Previas en Materia de Delitos Electorales, de Control de Procesos y Amparo en Materia de Delitos Electorales, de Visitaduría, de Inspección Interna, de Protección a los Derechos Humanos y los Delegados Estatales, así como aquellos servidores públicos a los que se les confiera dicha calidad.
 
 ###### Artículo 4.
 
@@ -329,9 +373,15 @@ IV. Interponer los recursos pertinentes;
 
 V. Intervenir en los juicios de amparo o cualesquiera otros procedimientos relacionados con las averiguaciones o los procesos respectivos;
 
-VI. Ordenar la detención y, en su caso, la retención de los probables responsables en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
 
-VII. Las demás que señalen las leyes y otros ordenamientos normativos.
+VI. Ordenar la detención y, en su caso, la retención de los probables responsables en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+VII. En coordinación con las instancias competentes, participar en la elaboración y ejecución del programa de prevención del delito electoral federal, y
+
+VIII. Las demás que señalen las leyes y otros ordenamientos normativos.
 
 ###### Artículo 13.
 
@@ -345,15 +395,27 @@ III. Establecer mecanismos de coordinación y de interrelación con otras áreas
 
 IV. Nombrar y, en su caso, aprobar la contratación de los servidores públicos de la Fiscalía de conformidad con las disposiciones legales correspondientes;
 
-V. Expedir los acuerdos, circulares, manuales e instructivos necesarios para el debido cumplimiento de las funciones de la Fiscalía;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+V. Expedir los acuerdos, circulares e instructivos necesarios para el debido cumplimiento de las funciones de la Fiscalía, y proponer al Procurador General de la República los manuales de organización, de procedimientos y de servicios al público en el ámbito de su competencia;
 
 VI. Recibir en acuerdo ordinario a los responsables de las unidades administrativas que conforman la Fiscalía y en acuerdo extraordinario a cualquier otro servidor público, así como conceder audiencia al público;
 
 VII. Informar al Procurador sobre los asuntos encomendados a la Fiscalía;
 
-VIII. Informar mensualmente al Consejo General del Instituto Federal Electoral sobre la cantidad y naturaleza de las denuncias recibidas, el estado de las averiguaciones previas iniciadas, de las consignaciones efectuadas y de los procesos, en su caso, y
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
 
-IX. Las demás que sean consecuencia natural de sus funciones y necesarias para el buen funcionamiento de la Fiscalía.
+VIII. Informar mensualmente al Consejo General del Instituto Federal Electoral sobre la cantidad y naturaleza de las denuncias recibidas, el estado de las averiguaciones previas iniciadas, de las consignaciones efectuadas, de los procesos y amparos en su caso;
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+IX. Celebrar, previo acuerdo del Procurador General de la República, convenios e instrumentos de cooperación en el ámbito de su competencia, de conformidad con las normas y políticas institucionales;
+
+> <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+X. Fortalecer los mecanismos de cooperación y colaboración con autoridades federales, del Distrito Federal, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales, y
+
+XI. Las demás que sean consecuencia natural de sus funciones y necesarias para el buen funcionamiento de la Fiscalía.
 
 ### CAPÍTULO QUINTO. DEL OFICIAL MAYOR
 
@@ -509,11 +571,45 @@ Artículo 19 ter-1. El Titular de la Unidad Especializada contra el Lavado de Di
 
 La Unidad Especializada estará integrada por el Titular, Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, Peritos y demás personal administrativo necesario para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal y los manuales de organización, y a quienes les serán aplicables en lo conducente lo dispuesto en los artículos 11 bis-1, 11 bis-2 y 11 bis-3 del presente Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+### CAPÍTULO SEXTO QUÁTER. De la Agencia Federal de Investigación
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 19 quáter. La Policía que se encuentra bajo la autoridad y mando inmediato del Ministerio Público de la Federación, se integra en la Agencia Federal de Investigación, en los términos del presente Reglamento y demás disposiciones aplicables.
+
+Con independencia de las atribuciones conferidas a la Agencia Federal de Investigación y a sus unidades subalternas, cualquiera de los agentes que le estén adscritos estará facultado para ejecutar mandamientos ministeriales y judiciales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 19 quáter-1. Al frente de la Agencia Federal de Investigación habrá un Titular, nombrado y removido por el Procurador General de la República, quien tendrá las facultades siguientes:
+
+I. Proponer al Procurador las políticas generales de actuación de la Agencia Federal de Investigación, vigilando que sus miembros actúen permanentemente bajo la autoridad y mando inmediato del Ministerio Público de la Federación, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, 3o. del Código Federal de Procedimientos Penales y demás disposiciones aplicables;
+
+II. Coordinar la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, presentación, cateos y otros mandamientos judiciales o ministeriales, así como las órdenes de detención en caso urgente, a que se refiere el párrafo quinto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Diseñar las estrategias y mecanismos de control que garanticen que los miembros de la Agencia Federal de Investigación actúen con pleno respeto a las garantías individuales y a los derechos humanos, así como apegados a los principios de legalidad, eficiencia, profesionalismo, honradez, lealtad e imparcialidad que señalan los artículos 21 y 113 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Coordinar los servicios de la Agencia Federal de Investigación para la atención de los asuntos que le encomiende el Procurador, así como para cumplir con las órdenes que emitan las unidades administrativas a cargo de la investigación y persecución de los delitos federales y conexos;
+
+V. Coordinar la planeación estratégica de la Agencia Federal de Investigación, así como supervisar y evaluar los resultados de los operativos que lleva a cabo y, en general, de la actuación de sus integrantes;
+
+VI. Organizar el servicio de protección y seguridad a los servidores públicos de la Institución, así como a otras personas cuando así lo establezcan las disposiciones aplicables o lo determine el Procurador;
+
+VII. Participar en los consejos Técnico de Planeación y Coordinación de Operaciones, y Técnico de Administración, a que se refiere el artículo 27, fracciones I y II de la Ley Orgánica de la Procuraduría General de la República, respectivamente;
+
+VIII. En coordinación con la Dirección General de Organización y Control del Personal Ministerial, Policial y Pericial, proponer los procedimientos para la adscripción del personal policial, considerando la opinión del Consejo Técnico de Administración a que se refiere el artículo 27, fracción II de la Ley Orgánica de la Procuraduría General de la República;
+
+IX. Realizar, previo acuerdo del Consejo Técnico de Administración a que se refiere el artículo 27, fracción II de la Ley Orgánica de la Procuraduría General de la República, la asignación del armamento, municiones, parque vehicular y equipo policial, destinados al desarrollo de las actividades propias de la Agencia Federal de Investigación;
+
+X. En coordinación con la Dirección General de Organización y Control del Personal Ministerial, Policial y Pericial y el Instituto de Capacitación, establecer los programas de capacitación y actualización de los integrantes de la Agencia Federal de Investigación;
+
+XI. Ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas, sin perjuicio de que sean desempeñadas por sus respectivos titulares, y
+
+XII. Las demás que le confieran otras disposiciones o el Procurador.
+
 ### CAPÍTULO SÉPTIMO. DE LAS DIRECCIONES GENERALES
-
-### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 20.
 
@@ -557,19 +653,7 @@ V. Coadyuvar en la instrumentación de acciones derivadas de los acuerdos y conv
 
 ###### Artículo 23.
 
-Al frente de la Dirección General de Planeación y Operación de la Policía Judicial Federal habrá un Director General, quien tendrá las facultades siguientes:
-
-I. Vigilar que la Policía Judicial Federal actúe permanentemente bajo la autoridad y mando inmediato del Ministerio Público de la Federación; ejercer las facultades a que se refiere el artículo 3o. del Código Federal de Procedimientos Penales; supervisar la calidad de las diligencias policiales que se practiquen durante la averiguación previa, exclusivamente para los fines de ésta, así como cumplir con las citaciones, notificaciones y presentaciones que se le ordenen;
-
-II. Ejecutar las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial y las órdenes de detención que, en los casos a que se refiere el párrafo quinto del artículo 16 constitucional, dicte el propio Ministerio Público de la Federación, invariablemente se actuará con pleno respeto a las garantías individuales, así como de las normas y medidas que rijan esas actuaciones;
-
-III. Dirigir los servicios de Policía Judicial Federal, para la atención de los asuntos que le encomiende el Procurador o el Subprocurador de Coordinación General y Desarrollo;
-
-IV. Realizar la planeación estratégica de la Policía Judicial Federal, así como supervisar y evaluar los resultados de los operativos, a través de la revisión permanente de la información de acciones y hechos relevantes que se realicen en cada una de las zonas;
-
-V. Brindar protección y seguridad a los servidores públicos nacionales o extranjeros, así como a los particulares que por disposición del Procurador se indique, y
-
-VI. Fungir como Secretario del Consejo Técnico de Planeación y Coordinación de Operaciones de la Policía Judicial Federal.
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2001)
 
 ###### Artículo 24.
 
@@ -577,7 +661,7 @@ Al frente de la Dirección General de Organización y Control del Personal Minis
 
 I. Proponer los procedimientos para la adscripción de los Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal y de los Peritos;
 
-II. Determinar, previo acuerdo con el Consejo Técnico de Administración de la Policía Judicial Federal, la asignación del armamento, municiones, parque vehicular y equipo policial, destinados al desarrollo de actividades propias del personal Ministerial y Policial;
+II. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2001)
 
 III. Operar y mantener actualizados los registros únicos del personal que participa dentro del Sistema de Seguridad de la Institución, así como actualizar el registro de las autorizaciones individuales de portación de armas de fuego, de conformidad con los lineamientos de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
@@ -716,6 +800,98 @@ III. Coordinar a los agentes del Ministerio Público Especializado que administr
 IV. Autorizar, previa opinión del Director General de Control de Procedimientos Penales que corresponda, los acuerdos de incompetencia, acumulación, libertad provisional y otros incidentes procesales, y
 
 V. Dirigir a través de los Agentes del Ministerio Público de la Federación que le sean adscritos, a los elementos de la Policía Judicial Federal que se encuentren bajo su autoridad y mando inmediato.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 32 bis. Al frente de la Dirección General Jurídica en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Autorizar los dictámenes de no ejercicio de la acción penal y de reserva de la averiguación previa, que realice la Dirección General de Averiguaciones Previas en Materia de Delitos Electorales, de conformidad con las disposiciones aplicables;
+
+II. Atender las comunicaciones y recomendaciones que se reciban de la Comisión Nacional de Derechos Humanos, relacionados con los delitos electorales federales, así como elaborar los proyectos de contestación que deba rendir la Fiscalía Especializada para la Atención de Delitos Electorales, en coordinación con otras unidades administrativas competentes de la Institución;
+
+III. Desahogar las consultas que en materia de delitos electorales formulen el Instituto Federal Electoral, las dependencias y entidades de los gobiernos Federal, del Distrito Federal y de los estados, así como los organismos políticos e instituciones públicas y privadas;
+
+IV. Formular y revisar, en coordinación con las unidades administrativas competentes, los anteproyectos de acuerdos, circulares e instructivos, así como de convenios y bases de colaboración, competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+V. Proponer, en coordinación con las unidades administrativas competentes, anteproyectos de reformas en materia de delitos electorales federales, del registro nacional de ciudadanos y de cualquier ordenamiento jurídico que se refiera a las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+VI. Coadyuvar con las unidades administrativas competentes en la actualización y sistematización del acervo de libros, revistas y otras publicaciones relacionadas con el derecho electoral y los delitos electorales, y
+
+VII. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 32 bis-1. Al frente de la Dirección General de Averiguaciones Previas en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Ejercer las atribuciones que los artículos 8o., fracciones I y III, y 13 de la Ley Orgánica de la Procuraduría General de la República, le confieren al Ministerio Público de la Federación respecto de los delitos del ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+II. Formular los dictámenes del no ejercicio de la acción penal y de reserva de la averiguación previa, para la autorización de la Dirección General Jurídica en Materia de Delitos Electorales;
+
+III. Proponer la incompetencia o el ejercicio de la acción penal, remitiendo los expedientes a las áreas respectivas;
+
+IV. Establecer mecanismos de coordinación con las delegaciones en las entidades federativas, a fin de que presten el auxilio necesario en el ejercicio de sus funciones, y
+
+V. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 32 bis-2. Al frente de la Dirección General de Control de Procesos y Amparo en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Ejercer las atribuciones que los artículos 8o., fracciones II y III, y 13 de la Ley Orgánica de la Procuraduría General de la República, le confieren al Ministerio Público de la Federación respecto de los delitos del ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+II. Elaborar la solicitud de declaración de procedencia para perseguir penalmente a servidores públicos, en los casos en que legalmente se requiera;
+
+III. Ejercer, en coordinación con la Dirección General de Amparo, las facultades que se encuentran previstas en la Ley Orgánica de la Procuraduría General de la República, tratándose de juicios de amparo derivados de averiguaciones previas o procesos iniciados por delitos electorales federales, así como por cualquier acto de autoridad de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+IV. Presentar ante el Consejo de la Judicatura Federal las quejas administrativas de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, por asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+V. En coordinación con las unidades administrativas competentes, intervenir en las denuncias de contradicción de tesis sobre los asuntos materia de la competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+VI. En general promover lo conducente al desarrollo de los procesos y amparos en el ámbito de su competencia;
+
+VII. Establecer mecanismos de coordinación con las delegaciones en las entidades federativas, a fin de que presten el auxilio necesario en el ejercicio de sus funciones, y
+
+VIII. Las demás que le confieran otras disposiciones o el Fiscal Especializado para la Atención de Delitos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 32 bis-3. Al frente de la Dirección General de Coordinación, Desarrollo e Innovación Gubernamental en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Promover la participación de instituciones públicas y privadas que contribuyan al cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+II. Fungir como enlace ante los órganos de procuración de justicia del Distrito Federal y de los estados, para lograr el intercambio de información, así como la colaboración y apoyo necesarios para el cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+III. Participar con las unidades administrativas competentes en la elaboración y ejecución del Plan Nacional de Desarrollo, programas sectoriales, institucionales y especiales, así como en los procesos de innovación gubernamental en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+IV. En coordinación con las unidades administrativas competentes, participar en los procesos de reclutamiento, capacitación, actualización y especialización del personal de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+V. Coordinar y vigilar el cumplimiento de los acuerdos de apoyo y colaboración celebrados por la Institución en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales, y
+
+VI. Las demás que le confieran otras disposiciones aplicables o el Fiscal Especializado para la Atención de Delitos Electorales.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 32 bis-4. Al frente de la Dirección General de Información y Política Criminal en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Diseñar e implementar los proyectos y programas permanentes de información y fomento de la cultura penal electoral;
+
+II. En coordinación con las instancias competentes, participar en la elaboración y ejecución de los programas de prevención del delito en materia electoral federal;
+
+III. Promover la celebración de convenios de coordinación y colaboración para la ejecución de acciones preventivas en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+IV. Brindar orientación legal al público en general en materia de procuración de justicia electoral federal;
+
+V. Coordinar la formación de capacitadores para la prevención del delito electoral federal;
+
+VI. Promover la participación social en las entidades federativas y difundir los mecanismos para la recepción de denuncias relativas a la comisión de delitos electorales;
+
+VII. Coordinar la preparación del informe que se debe rendir ante el Consejo General del Instituto Federal Electoral;
+
+VIII. Recopilar, integrar, sistematizar y analizar la información estadística y complementaria en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+IX. Elaborar y presentar para la aprobación del Fiscal Especializado para la Atención de Delitos Electorales, los reportes estadísticos que le sean requeridos y que no estén reservados a otras áreas, y
+
+X. Las demás que le confieren otras disposiciones aplicables o el Fiscal Especializado para la Atención de Delitos Electorales.
 
 ###### Artículo 33.
 
@@ -979,7 +1155,99 @@ VI. Intervenir, a petición del Ministerio Público, en las investigaciones de c
 
 VII. Coordinar y vigilar las comunicaciones con la Organización Internacional de Policía Criminal, las oficinas centrales nacionales y otras autoridades competentes.
 
-### CAPÍTULO NOVENO. DE LOS CONSEJOS
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 44 bis-7. Al frente de la Dirección General de Planeación Policial habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Diseñar, dirigir, evaluar y ejecutar el sistema de planeación de la Agencia Federal de Investigación, así como los programas específicos que en materia policial determine el Procurador;
+
+II. Elaborar los manuales y los procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Agencia Federal de Investigación;
+
+III. Generar información estadística respecto de las actividades de la Agencia Federal de Investigación, con base en las normas y políticas institucionales y elaborar los sistemas de registro de los asuntos a su cargo;
+
+IV. En coordinación con las unidades administrativas competentes, proponer los procedimientos y programas de ingreso, selección, formación, capacitación, especialización y actualización que requieran los elementos de la Agencia Federal de Investigación;
+
+V. Auxiliar al Titular de la Agencia Federal de Investigación en los consejos Técnico de Planeación y Coordinación de Operaciones, y Técnico de Administración, a que se refiere el artículo 27, fracciones I y II de la Ley Orgánica de la Procuraduría General de la República, respectivamente;
+
+VI. Realizar estudios sobre las necesidades de la Agencia Federal de Investigación en cuanto a la dotación de armamento, municiones, parque vehicular y equipo policial, destinados al desarrollo de sus actividades, a efecto de que el Titular proponga la asignación correspondiente al Consejo Técnico de Administración;
+
+VII. Auxiliar a la Dirección General de Organización y Control del Personal Ministerial, Policial y Pericial, a efecto de mantener actualizados los registros únicos del personal policial de la Institución, así como actualizar el registro de autorizaciones individuales de portación de armas de fuego, de conformidad con las disposiciones aplicables, y
+
+VIII. Las demás que le confieran otras disposiciones o el Procurador.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 44 bis-8. Al frente de la Dirección General de Investigación Policial habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Auxiliar al Ministerio Público de la Federación en la investigación y persecución de los delitos, y sujetarse a su autoridad y mando inmediato, de conformidad con lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Procedimientos Penales y la Ley Orgánica de la Procuraduría General de la República;
+
+II. Dirigir, crear y aplicar técnicas, métodos y estrategias de investigación policial que permitan recabar las pruebas necesarias para auxiliar al Ministerio Público de la Federación en sus facultades constitucionales y legales;
+
+III. En coordinación con la Dirección General de Análisis Táctico, acceder a los registros y bancos de información policial con objeto de recabar los datos que le sean necesarios para auxiliar con eficiencia y eficacia al Ministerio Público de la Federación en el ejercicio de sus funciones;
+
+IV. Suministrar información policial a las unidades administrativas de la Procuraduría encargadas de la investigación y persecución de delitos federales y sus conexos;
+
+V. Con apego a los convenios de colaboración y cooperación celebrados por la Procuraduría con las procuradurías generales de justicia de las entidades federativas, apoyar a éstas en la investigación policial que requieran;
+
+VI. En su caso, proponer al Ministerio Público de la Federación el desahogo o promoción de diligencias probatorias que coadyuven con el esclarecimiento de los hechos que sean materia de la investigación, y
+
+VII. Las demás que le confieran otras disposiciones o el Procurador.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 44 bis-9. Al frente de la Dirección General de Análisis Táctico habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Diseñar, coordinar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, para conformar bancos de datos que sustente el desarrollo de planes y acciones, oriente la toma de decisiones y permita elaborar programas y conducir operativos contra la delincuencia;
+
+II. Diseñar y aplicar los métodos de análisis y clasificación de información táctica que permita combatir a la delincuencia con mayor eficiencia y eficacia;
+
+III. Establecer y operar métodos de comunicación y redes de información policial, para acopio y clasificación oportuna de los datos que requiera la Agencia Federal de Investigación y demás unidades administrativas de la Procuraduría, de conformidad con las normas y políticas institucionales;
+
+IV. Analizar e identificar las estructuras y los modos de operación de las organizaciones criminales;
+
+V. Con base en el análisis de la información, generar instrucciones policiales que ataquen la estructura y los modos de operación de las organizaciones criminales;
+
+VI. Elaborar las propuestas necesarias para la creación de procedimientos para el trámite y manejo de documentos e información clasificada, a fin de evitar fugas de información;
+
+VII. En los casos procedentes y de conformidad con los convenios celebrados por la Procuraduría, proporcionar información policial a autoridades federales, del Distrito Federal, estatales y municipales, y
+
+VIII. Las demás que le confieran otras disposiciones o el Procurador.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 44 bis-10. Al frente de la Dirección General de Despliegue Regional Policial habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Auxiliar a los agentes del Ministerio Público de la Federación adscritos a las delegaciones en la investigación y persecución de los delitos, y sujetarse a su autoridad y mando inmediato, de conformidad con lo dispuesto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Procedimientos Penales y la Ley Orgánica de la Procuraduría General de la República;
+
+II. Dirigir, evaluar y coordinar las estrategias y acciones para el despliegue regional de la Agencia Federal de Investigación, atendiendo a la incidencia delictiva, mapas delincuenciales, necesidades de las entidades federativas, influencia regional de la delincuencia y distribución de las cargas de trabajo;
+
+III. Ejecutar las órdenes de aprehensión, reaprehensión o comparecencia, cateos y otros mandamientos ministeriales y judiciales, así como las órdenes de detención en caso urgente a que se refiere el párrafo quinto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Proponer a las autoridades y órganos correspondientes el nombramiento de los titulares de la Oficina de la Agencia Federal de Investigación en las entidades federativas, así como coordinar su actuación con los titulares de las delegaciones;
+
+V. Establecer las políticas generales de actuación y coordinar a los titulares de la Oficina de la Agencia Federal de Investigación en las entidades federativas, quienes estarán sujetos a la autoridad y mando inmediato de los titulares de las delegaciones;
+
+VI. Establecer mecanismos de coordinación y colaboración recíprocos en materia policial con las autoridades federales, del Distrito Federal, estatales y municipales para la ejecución de los mandamientos judiciales y ministeriales, así como otras acciones para combatir la delincuencia, y
+
+VII. Las demás que le confieran otras disposiciones o el Procurador.
+
+> <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+Artículo 44 bis-11. Al frente de la Dirección General de Operaciones Especiales habrá un Director General, quien tendrá las facultades siguientes:
+
+I. Ejecutar las órdenes de aprehensión, reaprehensión o comparecencia, cateos y otros mandamientos ministeriales y judiciales, así como las órdenes de detención en caso urgente a que se refiere el párrafo quinto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos en los casos que expresamente lo ordene el Procurador o el Titular de la Agencia Federal de Investigación;
+
+II. Diseñar y coordinar las acciones de apoyo técnico u operativo en asuntos relevantes que requieran las unidades administrativas de la Procuraduría General de la República, así como de otras instituciones policiales, de conformidad con las normas y políticas institucionales;
+
+III. Organizar el servicio de protección y seguridad a los servidores públicos de la Institución y a otras personas cuando así lo establezcan las disposiciones aplicables o lo determine el Procurador;
+
+IV. Organizar y coordinar al personal policial que participe en operativos conjuntos de alta relevancia con otras autoridades federales, del Distrito Federal, estatales o municipales, y
+
+V. Las demás que le confieran otras disposiciones o el Procurador.
+
+### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
 
 ###### Artículo 45.
 
@@ -1043,9 +1311,7 @@ DE LAS AGREGADURÍAS
 
 La Procuraduría contará con Agregadurías que serán órganos desconcentrados, coordinados por el Subprocurador Jurídico y de Asuntos Internacionales. Los Agregados a representaciones diplomáticas o consulares omisiones especiales, serán representantes del Ministerio Público de la Federación y estarán sujetos a las mismas obligaciones que los miembros del personal de carrera del Servicio Exterior, en los términos de la Ley del Servicio Exterior Mexicano, salvo en los casos en que deba guardar el secreto indagatorio e instructorio al que está obligado el Ministerio Público de la Federación.
 
-### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1998)</small>
+### CAPÍTULO NOVENO. DE LOS CONSEJOS
 
 ###### Artículo 51.
 
@@ -1081,7 +1347,9 @@ VII.- El Contralor Interno;
 
 VIII.- El Visitador General;
 
-IX.- El Director General de Planeación y Operación de la Policía Judicial Federal;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
+
+IX. El Titular de la Agencia Federal de Investigación;
 
 X.- El Director General del Instituto de Capacitación;
 
@@ -1233,23 +1501,25 @@ VIII.- Los recursos de rectificación a que se refiere el artículo 58, párrafo
 
 IX.- De las resoluciones del Comité se levantará acta por escrito que será firmada por el Presidente, el Secretario Técnico y, en su caso, el Secretario Instructor.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 53.
 
-El Consejo Técnico de Planeación y Coordinación de Operaciones de la Policía Judicial Federal será presidido por el Subprocurador de Coordinación General y Desarrollo, y participarán el Fiscal Especializado para la Atención de Delitos contra la Salud, el Director General de Coordinación Interinstitucional, y el Director General de Planeación y Operación de la Policía Judicial Federal. También participarán los demás responsables de las unidades de policía judicial en las diversas zonas, así como los de las unidades especializadas del Ministerio Público, que el Procurador designe.
+El Consejo Técnico de Planeación y Coordinación de Operaciones a que se refiere el artículo 27, fracción I de la Ley Orgánica de la Procuraduría General de la República será presidido por el Subprocurador de Coordinación General y Desarrollo, y participarán el Fiscal Especializado para la Atención de Delitos contra la Salud, el Titular de la Agencia Federal de Investigación y el Director General de Coordinación Interinstitucional. También participarán los demás servidores públicos que el Procurador designe.
 
-Tendrá las facultades a que se refiere el artículo 27 fracción I de la Ley Orgánica.
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2001)</small>
 
 ###### Artículo 54.
 
-El Consejo Técnico de Administración de la Policía Judicial Federal se integrará por el Procurador, los Subprocuradores de Coordinación General y Desarrollo y de Procedimientos Penales "A", "B" y "C", el Fiscal Especializado para la Atención de Delitos contra la Salud, el Oficial Mayor, el Visitador General y el Contralor Interno; y tendrá como facultades las indicadas en la fracción II del artículo 27 de la Ley Orgánica de la Procuraduría General de la República.
+El Consejo Técnico de Administración a que se refiere el artículo 27, fracción II de la Ley Orgánica de la Procuraduría General de la República se integrará por el Procurador, los Subprocuradores de Coordinación General y Desarrollo y de Procedimientos Penales "A", "B" y "C", el Fiscal Especializado para la Atención de Delitos contra la Salud, el Oficial Mayor, el Visitador General, el Contralor Interno y el Titular de la Agencia Federal de Investigación.
 
 ###### Artículo 55.
 
 (DEROGADO, D.O.F. 21 DE JULIO DE 1999)
+
+### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1998)</small>
 
 ###### Artículo 56.
 
@@ -1346,3 +1616,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Las referencias que los acuerdos, circulares, instructivos y demás disposiciones administrativas hagan a la Unidad Administrativa facultada para conocer del delito de operaciones con recursos de procedencia ilícita, se entenderán hechas a la Unidad Especializada contra el Lavado de Dinero.
 
 TERCERO.- La Unidad Especializada contra el Lavado de Dinero también conocerá de los delitos previstos en el artículo 115 bis del Código Fiscal de la Federación, vigente hasta la entrada en vigor del Decreto de reforma, publicado en el Diario Oficial de la Federación el 13 de mayo de 1996, de conformidad con los artículos segundo y tercero transitorios del mencionado Decreto.
+
+D.O.F. 1 DE NOVIEMBRE DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias que (sic) ordenamientos administrativos hagan a la Dirección General de Planeación y Operación de la Policía Judicial Federal y a su Titular, se entenderán hechas a la Agencia Federal de Investigación y a su Titular, respectivamente.
+
+Las referencias que el Reglamento de la Ley Orgánica de la Procuraduría General de la República y otros ordenamientos administrativos hagan a la Policía Judicial Federal, se entenderán hechas al personal policial integrado en la Agencia Federal de Investigación.
+
+TERCERO. El Procurador dispondrá la transferencia de los recursos humanos, financieros y materiales necesarios para la operación de la Agencia Federal de Investigación y las unidades administrativas que se crean por virtud de este Decreto, de conformidad con el Presupuesto de la Procuraduría General de la República y las disposiciones aplicables.
