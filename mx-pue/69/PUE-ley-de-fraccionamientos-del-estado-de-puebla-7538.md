@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fraccionamientos-del-estado-de-puebla-7538"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-20"
-last_updated: "1997-03-10"
+last_updated: "2004-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE FRACCIONAMIENTOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FRACCIONAMIENTOS Y ACCIONES URBANISTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL PERIODICO OFICIAL EL 25 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el viernes 20 de diciembre de 1974.
 
@@ -732,3 +734,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los trámites que se hayan realizado con anterioridad a la vigencia de la presente reforma, se continuarán a la disposición anterior.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Fraccionamientos del Estado de Puebla, publicada en el Periódico Oficial del Estado, con fecha veinte de diciembre de mil novecientos setenta y cuatro.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Los Ayuntamientos en el ámbito de sus jurisdicciones expedirán los Reglamentos de esta Ley, según corresponda, dentro de los sesenta días siguientes a la entrada en vigor de esta Ley.
+
+La Secretaría deberá apoyar a los Ayuntamientos que lo soliciten, en la elaboración de sus Reglamentos, y emitirá su opinión sobre los anteproyectos que se le presente, dentro de los 15 días siguientes a que se le requiera.
+
+QUINTO.- En tanto no se expidan los Reglamentos, Acuerdos y demás disposiciones administrativas correspondientes, continuarán aplicándose, en lo que no se oponga a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+
+SEXTO.- Los recursos y demás trámites pendientes de resolución administrativa o técnica, se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+SÉPTIMO.- Las autoridades municipales en el ámbito de su competencia, tendrán la obligación de vigilar, denunciar y detener la construcción o conformación de fraccionamientos, divisiones, subdivisiones, lotificaciones, relotificaciones, fusiones, segregaciones, modificaciones y desarrollo en condominio, en contravención de la presente Ley.
+
+OCTAVO.- Los asuntos relacionados con autorizaciones, licencias, procedimientos y constancias de compatibilidad, que se encuentren en trámite, seguirán tramitándose hasta su conclusión.
+
+Se reconoce plena validez a las autorizaciones y constancias de compatibilidad legalmente expedidas con base en la legislación que se deroga, durante la vigencia que le corresponda.
+
+NOVENO.- Las autoridades Municipales en el ámbito de su competencia, podrán implementar programas de regularización de aquellos fraccionamientos que ya estén edificados.
