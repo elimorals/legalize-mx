@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "1980-02-21"
+last_updated: "1986-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:11 DE SEPTIEMBRE DE 1986.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -43,19 +43,17 @@ LEY DEL NOTARIADO
 
 ### CAPITULO I. DE LAS FUNCIONES DEL NOTARIO
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
-El notariado es una función de orden público. Estará bajo la potestad y vigilancia del Poder Ejecutivo, por conducto de la Secretaría General de Gobierno y su ejercicio se encomendará a:
+###### ARTICULO 1o
 
-I.- Los notarios públicos;
+El Notariado es una función de orden público. Estará bajo la potestad del Poder Ejecutivo por conducto de la Secretaría de Gobierno y su ejercicio se encomendará a los Notarios Públicos.
 
-II.- Los jueces de primera instancia que actúan por receptoría o por autorización, en los casos señalados por la Ley; y
-
-III.- Los jueces municipales, por receptoría, en los casos previstos en la Ley Orgánica del Poder Judicial y en esta Ley.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 2o.
 
-Es facultad del Ejecutivo del Estado nombrar a los notarios públicos y conceder autorización a los jueces de primera instancia que ejerzan por receptoría.
+Es facultad del Ejecutivo del Estado nombrar a los notarios públicos.
 
 ###### ARTICULO 3o.
 
@@ -97,7 +95,7 @@ El notario debe rehusar el ejercicio de su función, en los siguientes casos:
 
 I.- Si el acto cuya autorización se le pide está prohibido por la Ley; si es manifiestamente contrario a las buenas costumbres o si corresponde exclusivamente su autorización legal a otra autoridad; y,
 
-II.- En el caso del artículo 7o. ó si el acto contiene disposiciones o estipulaciones que interesen al notario, a su cónyuge, o alguno de sus parientes en los grados que expresa dicho artículo.
+II.- En el caso del artículo 7o ó si el acto contiene disposiciones o estipulaciones que interesen al notario, a su cónyuge, o alguno de sus parientes en los grados que expresa dicho artículo.
 
 ###### ARTICULO 9o.
 
@@ -135,6 +133,14 @@ El notario, como profesional del Derecho, ilustra a las partes en materia juríd
 
 El notario está obligado a prestar sus servicios, en días y horas hábiles, cuando fuere requerido para ello, salvo las excepciones que esta Ley señala.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
+ARTICULO 14 bis.- El Ejecutivo del Estado podrá requerir a los notarios de la Entidad en la prestación de servicios notariales, cuando se trate de satisfacer demandas de interés social. A este efecto, el Ejecutivo Estatal fijará las condiciones a las que deberá sujetarse la prestación de dichos servicios.
+
+Asimismo, estarán obligados a prestar los servicios en los casos y términos que establecen la Ley Federal de Organizaciones Políticas y Procesos Electorales y la Ley Electoral del Estado de Michoacán.
+
+Lo dispuesto en este precepto por ser de orden público no es objeto de pacto en contrario, ni de excusa.
+
 ### CAPITULO II. DE LOS NOTARIOS Y SU CIRCUNSCRIPCION
 
 ###### ARTICULO 15.
@@ -149,7 +155,7 @@ El Ejecutivo del Estado puede autorizar permutas definitivas del cargo notarial.
 
 ###### ARTICULO 17.
 
-En el nombramiento de cada notario se fijará el lugar de su residencia. En los lugares donde existan varios, ejercerán éstos indistintamente dentro de la circunscripción asignada.
+En el nombramiento de cada notario se fijará el lugar de su residencia. En los lugares donde existan varios, ejercerán estos indistintamente dentro de la circunscripción asignada.
 
 ###### ARTICULO 18.
 
@@ -159,7 +165,7 @@ El Ejecutivo del Estado podrá conceder autorización especial, para cada caso, 
 
 ###### ARTICULO 19.
 
-El notario será de número y llevará el que le corresponda, atento al orden que sea nombrado, a menos que exista algún número anterior vacante, en cuyo caso se le asignará a éste.
+El notario será de número y llevará el que le corresponda, atento al orden que sea nombrado, a menos que exista algún número anterior vacante, en cuyo caso se le asignará éste.
 
 ###### ARTICULO 20.
 
@@ -175,7 +181,7 @@ I.- Ser mexicano por nacimiento, haber cumplido treinta años de edad y cinco de
 
 II.- Tener residencia ininterrumpida en el Estado por más de tres años;
 
-III.- Haber abtenido (sic) título de licenciado en derecho, debidamente registrado;
+III.- Haber obtenido titulo de licenciado en derecho, debidamente registrado;
 
 IV.- Gozar de buen estado de salud física y mental; y,
 
@@ -185,17 +191,21 @@ V.- No haber sido condenado en sentencia ejecutoriada por delito doloso o preter
 
 Los requisitos anteriores se acreditarán, en su orden, con:
 
-Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal; título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Procuraduría General de Justicia del Estado.
+Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal, título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Procuraduría General de Justicia del Estado.
 
 ###### ARTICULO 23.
 
-Cuando estuviere vacante alguna notaría o fuere creada una nueva por el Ejecutivo del Estado, el interesado presentará la solicitud correspondiente a la Secretaría General de Gobierno, anotándose en aquélla día y hora en que fuere presentada, acompañando los documentos que justifiquen estar satisfechos los requisitos que señala esta Ley.
+Cuando estuviera vacante alguna notaría o fuere creada una nueva por el Ejecutivo del Estado, el interesado presentará la solicitud correspondiente a la Secretaría General de Gobierno, anotándose en aquélla día y hora en que fuere presentada, acompañando los documentos que justifiquen estar satisfechos los requisitos que señala esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 24.
 
-Cuando el Ejecutivo del Estado haya expedido nombramiento de notario al solicitante, éste para ejercer sus funciones deberá satisfacer los requisitos siguientes:
+Cuando el Ejecutivo del Estado haya expedido nombramiento de notario al solicitante, éste para iniciar el ejercicio de sus funciones deberá satisfacer los siguientes requisitos:
 
-I.- Otorgar garantía por cincuenta mil pesos si va a ejercer en la capital del Estado y venticinco mil pesos, si actuare fuera de ésta;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
+I.- Otorgar garantía por el equivalente a 500 días del salario mínimo si va a ejercer en la capital del Estado y 300 días de salario mínimo si actuare fuera de ella.
 
 II.- Proveerse del sello y protocolo; registrar éstos y su firma en el Registro Público de la Propiedad y Archivo General de Notarías y en la Secretaría General de Gobierno;
 
@@ -205,19 +215,19 @@ IV.- Obligarse a establecer su oficina notarial y su domicilio en el lugar en qu
 
 ###### ARTICULO 25.
 
-La garantía a que se refiere la fracción I del artículo anterior, podrá constituirse con depósito en efectivo, hipoteca o fienza (sic) en bienes raíces. El notario en cualquier tiempo podrá sustituir la garantía otorgada, por otra, con aprobación del Ejecutivo del Estado.
+La garantía a que se refiere la fracción I del artículo anterior, podrá constituirse con depósito en efectivo, hipoteca o fianza en bienes raíces. El notario en cualquier tiempo podrá sustituir la garantía otorgada, por otra, con aprobación del Ejecutivo del Estado.
 
 ###### ARTICULO 26.
 
-El depósito se hará en la Tesorería General del Estado, la hipoteca se constituirá con intervención de notario público y la fienza (sic) se otorgará ante el Secretario General de Gobierno.
+El depósito se hará en la Tesorería General del Estado, la hipoteca se constituirá con intervención de notario público y la fianza se otorgará ante el Secretario General de Gobierno.
 
 ###### ARTICULO 27.
 
-El notario al iniciar el ejrcicio (sic) de sus funciones dará aviso a la Secretaría General de Gobierno, Supremo Tribunal de Justicia, Procuraduría General de Justicia, Oficina Federal de Hacienda, Dirección del Registro Público de la Propedad (sic) y Archivo General de Notarías, Dirección de Gobernación y Consejo de Notarios.
+El notario al iniciar el ejercicio de sus funciones dará aviso a la Secretaria General de Gobierno, Supremo Tribunal de Justicia, Procuraduría General de Justicia, Oficina Federal de Hacienda, Dirección del Registro Público de la Propiedad y Archivo General de Notarías, Dirección de Gobernación y Consejo de Notarios.
 
 ###### ARTICULO 28.
 
-Cumplidos los requisitos que señala esta Ley, se registrará el nombramiento respectivo en la Secretaría General de Gobierno y en el Registro Público de la Propiedad y Archivo General de Notarías, haciéndose la publicación del mismo en el Periódico Oficial del Estado.
+Cumplidos los requisitos que señala esta Ley, se registrará el nombramiento respectivo en la Secretaría General de Gobierno y en el Registro Público de la Propiedad y Archivo General de Notarías, haciéndose la publicación del mismo en el Periódico oficial del Estado.
 
 ###### ARTICULO 29.
 
@@ -225,7 +235,7 @@ La oficina del notario se denominará NOTARIA PUBLICA NUMERO.....A CARGO DE ....
 
 ###### ARTICULO 30.
 
-El sello de cada notario deberá ser autorizado por la Dirección del Registro Público de la Propiedad y Archivo General de Notarías; ostentará el escudo nacional en el centro y tendrá inscritos en derredor el nombre, apellidos, número de la notaría y lugar de resirencia (sic).
+El sello de cada notario deberá ser autorizado por la Dirección del Registro Público de la Propiedad y Archivo General de Notarías; ostentará el escudo nacional en el centro y tendrá inscritos en derredor el nombre, apellidos, número de la notaría y lugar de residencia.
 
 El sello deberá ser de forma circular y con diámetro de cuatro centímetros.
 
@@ -259,17 +269,17 @@ Las escrituras públicas serán numeradas en forma progresiva desde el primer vo
 
 ###### ARTICULO 36.
 
-Los expedientes y documentos que se protocolicen deberán agregarse al apéndice del instrumento respectivo y serán considrados (sic) como un solo dicumento (sic).
+Los expedientes y documentos que se protocolicen deberán agregarse al apéndice del instrumento respectivo y serán considerados como un solo documento.
 
 ###### ARTICULO 37.
 
-Los libros en blanco del protocolo serán adquiridos y pagados por el notario interesado. Estos libros encuadernados y empastados, constarán de trescientas páginas numeradas. La primera página útil contendrá una razón asentada por la Secretaría General de Gobierno, en que conste: lugar y fecha; número que corresponda al volumen, según los vaya recibiendo el notario durante su ejercicio; número de páginas útiles; número de la notaría, nombre y apellidos del notario; lugar de residencia y la expresión de que el libro debe utilizarlo únicamente el notario quien lo sustituya legalmente en sus funciones.
+Los libros en blanco del protocolo serán adquiridos y pagados por el notario interesado. Estos libros encuadernados y empastados, constarán de trescientas páginas numeradas. La primera página útil contendrá una razón asentada por la Secretaría General de Gobierno, en que conste: lugar y fecha; número que corresponda al volumen, según los vaya recibiendo el notario durante su ejercicio; número de páginas útiles; número de la notaría, nombre y apellidos del notario; lugar de residencia y la expresión de que el libro debe utilizarlo únicamente el notario o quien lo sustituya legalmente en sus funciones.
 
 Al final de la última página útil del libro, se asentará una razón análoga, sellada y suscrita por el Director del Registro Público de la Propiedad y Archivo General de Notarías.
 
 ###### ARTICULO 38.
 
-Las hojas del protocolo medirán treinta y cinco centímetros de largo por veinticuatro de ancho, en su parte utilizabue (sic). Al escribirse en ellas el instrumento noatrial (sic), se les dejará en blanco una cuarta parte a la izquierda, separada por medio de una línea de tinta roja, parte en la que se pondrán las razones y anotaciones que legalmente puedan constar.
+Las hojas del protocolo medirán treinta y cinco centímetros de largo por veinticuatro de ancho, en su parte utilizable. Al escribirse en ellas el instrumento notarial, se les dejará en blanco una cuarta parte a la izquierda, separada por medio de una línea de tinta roja, parte en la que se pondrán las razones y anotaciones que legalmente puedan constar.
 
 Por el lado contrario del doblez del libro o su orilla, para proteger lo escrito, se dejará siempre en blanco una faja de un centímetro de ancho.
 
@@ -279,11 +289,11 @@ Los protocolos se inscribirán en forma manuscrita, en máquina o por medio de c
 
 ###### ARTICULO 40.
 
-Al hacerse uso de una hoja en su frente se pondrá a la cabeza, hacia el lado izquierdo de la misma, el sello del notario. Cada plana contendrá cuarenta renglones e igual distancia uno del otro.
+Al hacerse uso de una hoja, en su frente, se pondrá a la cabeza, hacia el lado izquierdo de la misma, el sello del notario. Cada plana contendrá cuarenta renglones e igual distancia uno del otro.
 
 ###### ARTICULO 41.
 
-Cada notario abrirá su protocolo, asentado en él, inmediatamente después de la razón suscrita por la Secretaría General de Gobierno, otra en la que exprese su nombre y apellidos y número de la notaría que le corresponde; así como el lugar y la fecha en que se abra el libro; todo autorizado con su sello y firma.
+Cada notario abrirá su protocolo, asentado en él, inmediatamente después de la razón suscrita por la Secretaría General de Gobierno, otra en la que exprese su nombre y apellidos y número de la notaría que le corresponde, así como el lugar y la fecha en que se abra el libro; todo autorizado con su sello y firma.
 
 En caso de falta definitiva, el notario que sustituya al que faltare, tan luego como reciba la notaría cerrará los libros del protocolo, razonando la causa que motivare este acto y agregará todas las circunstancias expresadas en el artículo anterior.
 
@@ -301,11 +311,11 @@ El notario no puede ejercer sus funciones mientras lo sustituyen o se encuentre 
 
 ###### ARTICULO 44.
 
-Los libros del protocolo y demás documentos del archivo del notario sólo se mostrarán a los interesados. Las escrituras, en particular, sólo podrán leerse a quienes hubieren intervenido en ellas o justifiquen sus derechos. Cuando se trate de disposiciones testamentarias el notario podrá informar a los herederos, legatarios y al albacea, únicamente después de la muerte del testador, en los casos que proceda legalmente.
+Los libros del protocolo y demás documentos del archivo del notario sólo se mostrarán a los interesados. Las escrituras, en particular sólo podrán leerse a quienes hubieren intervenido en ellas o justifiquen sus derechos. Cuando se trate de disposiciones testamentarias el notario podrá informar a los herederos, legatarios y al albacea, únicamente después de la muerte del testador, en los casos que proceda legalmente.
 
 ###### ARTICULO 45.
 
-La clausura del protocolo se efectuará siempre con asistencia de un interventor que nombrará el Secretario General de Gobierno y con la de un agente del Ministerio Público designado por el Procurador General de Justicia, funcionarios que deberán también suscribir las razones asentadas por el Director del Registro Público de la Propiedad y Archivo General de Notarías, levantándose por triplicado un inventario pormenorizado de los libros o volúmenes, apéndices y demás documentos pertenecientes a la notaría, para enviar un ejemplar a la Secretaría General de Gobierno, otro a la Dirección del Registro Público de la Propiedad y Archivo General de Notarías y el último, al notario que estuvo encargado del oficio.
+La clausura del protocolo se efectuará siempre con asistencia de un inventor que nombrará el Secretario General de Gobierno y con la de un agente del ministerio Público designado por el Procurador General de Justicia, funcionarios que deberán también suscribir las razones asentadas por el Director del Registro Público de la Propiedad y Archivo General de Notarías, levantándose por triplicado un inventario pormenorizado de los libros o volúmenes, apéndices y demás documentos pertenecientes a la notaría, para enviar un ejemplar a la Secretaría General de Gobierno, otro a la Dirección del Registro Público de la Propiedad y Archivo General de Notarías y el último, al notario que estuvo encargado del oficio.
 
 ###### ARTICULO 46.
 
@@ -313,7 +323,7 @@ El Director del Registro Público de la Propiedad y Archivo General de Notarías
 
 ###### ARTICULO 47.
 
-Por ningún motivo podrán sacarse de la notaría los libros del protocolo ya sea que se encuentren en uso o ya concluidos, si no es por el mismo notario y sólo en los casos determinados por la Ley y para recoger firmas a las partes, dentro de la circunscripción del notario, cuando éstas estén impedidas para asistir a la notaría. Si alguna autoridad con facultades legales ordena la vista de aquéllos, el acto se efectuará en la misma oficina del notario y siempre en presencia de éste.
+Por ningún motivo podrán sacarse de la notaría los libros del protocolo, ya sea que se encuentren en uso o ya concluidos, si no es por el mismo notario y sólo en los casos determinados por la Ley y para recoger firmas a las partes, dentro de la circunscripción del notario, cuando éstas estén impedidas para asistir a la notaría. Si alguna autoridad con facultades legales ordena la vista de aquéllos, el acto se efectuará en la misma oficina del notario y siempre en presencia de éste.
 
 ###### ARTICULO 48.
 
@@ -327,7 +337,7 @@ Los apéndices se encuadernarán ordenadamente y se empastarán, procurando que 
 
 ###### ARTICULO 50.
 
-Los documentos del apéndice no podrán desglosarse, los conservará el notario y los remitirá con el libro respectivo del protocolo, cuando éste deba ser entregado a la Dirección del Registro Púbilco (sic) de la Propiedad y Archivo General de Notarías, en el término de cinco años contados a partir de la fecha en que se puso la certificación de cierre, en donde quedarán definitivamente.
+Los documentos del apéndice no podrán desglosarse, los conservará el notario y los remitirá con el libro respectivo del protocolo, cuando éste deba ser entregado a la Dirección del Registro Público de la Propiedad y Archivo General de Notarías, en el término de cinco años contados a partir de la fecha en que se puso la certificación de cierre, en donde quedarán definitivamente.
 
 El notario podrá expedir copia certificada de los documentos del apéndice, que les sea solicitada, por parte legítima o por orden judicial.
 
@@ -351,21 +361,21 @@ En los casos de fallecimiento del notario, la reposición se hará por el Direct
 
 La reposición de los libros del protocolo se hará de plano y sin trámite alguno, con el testimonio o con las copias certificadas de los testimonios respectivos, que a costa del notario o del interesado expida la Dirección del Registro Público de la Propiedad y Archivo General de Notarías, o se aporten por aquellos para el objeto señalado.
 
-El procedimiento respectio (sic) será sin perjuicio de la responsabilidad civil o penal derivada de la pérdida o destrucción de los libros mencionados.
+El procedimiento respectivo será sin perjuicio de la responsabilidad civil o penal derivada de la pérdida o destrucción de los libros mencionados.
 
-### CAPITULO II. DE LAS ESCRITUDAS (SIC) PUBLICAS
+### CAPITULO II. DE LAS ESCRITURAS PUBLICAS
 
 ###### ARTICULO 55.
 
-Para los efectos de esta Ley se entiende por escritura pública el instrumento original o matriz que el notario asienta en el protocolo, para hacer constar un acto o hecho jurídico, los que además de las formalidades y solemnidades de ley deberán contener la firma y sello de autorizar del notario.
+Para los efectos de esta Ley se entiende por escritura pública el instrumento original o matriz que el notario asienta en el protocolo, para hacer constar un acto o hecho jurídico, los que además de las formalidades y solemnidades de ley, deberán contener la firma y sello de autorizar del notario.
 
 ###### ARTICULO 56.
 
-Las escrituras se asentarán en forma indeleble, con letra clara, sin abreviaturas, salvo el caso de inserción de documentos, y sin guarismos, a no ser que la misma cantidad aparezca asentada con letras. Los blancos o huecos, si los hubiere, se cubrirán con líneas fuertenemente (sic) grabadas, precisamente antes de que se firme la escritura. Al final de ella se salvarán las palabras testadas y entrerrenglonados de cuyo número se hará mérito; las palabras equivocadas se testarán cruzándolas con una línea que las deje legibles, haciendo constar que no valen; las entrerrenglonadas se harán constar que sí valen. El espacio en blanco que pueda quedar antes y después de las firmas en las escrituras, deberá ser llenado con líneas. Se prohíben las borraduras y raspaduras.
+Las escrituras se asentarán en forma indeleble, con letra clara, sin abreviaturas, salvo el caso de inserción de documentos, y sin guarismos, a no ser que la misma cantidad aparezca asentada con letras. Los blancos o huecos, si los hubiere, se cubrirán con líneas fuertemente grabadas, precisamente antes de que se firme la escritura. Al final de ella se salvarán las palabras testadas y entrerrenglonadas, de cuyo número se hará mérito; las palabras equivocadas se testarán cruzándolas con una línea que las deje legibles, haciendo constar que no valen; las entrerrenglonadas se harán constar que sí valen. El espacio en blanco que pueda quedar antes y después de las firmas en las escrituras, deberá ser llenado con líneas. Se prohíben las borraduras y raspaduras.
 
 ###### ARTICULO 57.
 
-El notario redactará las escrituras en español; podrá usar palabras en otro idioma que san (sic) de uso general y que no tengan equivalente apropiado en el idioma castellano.
+El notario redactará las escrituras en español; podrá usar palabras en otro idioma que sean de uso general y que no tengan equivalente apropiado en el idioma castellano.
 
 En las escrituras observará las reglas siguientes:
 
@@ -381,7 +391,7 @@ V.- Redactará el acto en cláusulas, con claridad y concisión, evitando toda p
 
 VI.- Designará con precisión las cosas que sean objeto del acto, evitando que puedan confundirse con otras; si se tratare de bienes inmuebles, determinará su naturaleza, ubicación, colindancias o linderos y, en cuanto fuere posible su extensión superficial, sin que pueda aumentar la señalada en los antecedentes, salvo la escritura de rectificación de superficie en los términos del Código Civil;
 
-VII.- Determinará las renuncias válidas de derecho o de leyes que hagan los contratantes;
+VII.- Determinará las renuncias válidas del derecho o de leyes que hagan los contratantes;
 
 VIII.- Dejará acreditada la personería de quien comparezca en representación de los directamente interesados, insertando los documentos respectivos o bien, agregándolos al apéndice y haciendo mención de ellos en el testimonio;
 
@@ -395,13 +405,13 @@ XII.- Expresará el nombre y apellidos, edad, estado civil, lugar de origen, nac
 
 XIII.- Hará constar bajo su fe:
 
-a) Que conoce a los otorgantes y que a su jicio (sic) tienen capacidad legal;
+a) Que conoce a los otorgantes y que a su juicio tienen capacidad legal;
 
 b) Que les leyó la escritura a los interesados, así como a los testigos de conocimiento e intérpretes, si los hubiere, o que los otorgantes la leyeron por sí mismos;
 
 c) Que a los otorgantes les explicó el valor y consecuencias legales del contenido de la escritura, así como la obligación, en su caso, de inscribirla en el Registro Público de la Propiedad y Archivo General de Notarías;
 
-d) Que los interesados manifestaron su conformidad con la escritura y firmaron ésta, o no lo hicieron por declarar que no saben o no pueden hacerlo. En sustitución del otorgante que se encuentre en cualquiera de los otorgantes, hará constar su identidad y (sic) estos casos, firmará la persona que al efecto elija y aquél imprimará su huella digital del pulgar derecho;
+d) Que los interesados manifestaron su conformidad con la escritura y firmaron ésta, o no lo hicieron por declarar que no saben o no pueden hacerlo. En sustitución del otorgante que se encuentre en cualquiera de estos casos, firmará la persona que al efecto elija y aquél imprimará su huella digital del pulgar derecho;
 
 e) La fecha o fechas en que firmaron la escritura los otorgantes o la persona o personas elegidas por ellos, los testigos e intérpretes, si los hubiere; y,
 
@@ -409,7 +419,7 @@ f) Los hechos que presencie el notario y que sean integrantes del acto que autor
 
 ###### ARTICULO 58.
 
-Para que el notario dé fe de conocer a los otorgantes y de que tienen capacidad legal, bastará que sepa su nombre y apellidos, que no observe en ellos manifestaciones patentes de incapacidad mental y que ne (sic) tenga noticia de que están sujetos a incapacidad civil.
+Para que el notario dé fe de conocer a los otorgantes y de que tienen capacidad legal, bastará que sepa su nombre y apellidos que no observe en ellos manifestaciones patentes de incapacidad mental y que no tenga noticia de que están sujetos a incapacidad civil.
 
 ###### ARTICULO 59.
 
@@ -427,7 +437,7 @@ Los representantes deberán declarar bajo protesta de decir verdad, que su perso
 
 ###### ARTICULO 62.
 
-Si alguno de los otornantes (sic) fuere sordo o mudo y supiera leer revisará por sí mismo la escritura; y si declarare no saber o no poder leer, designará una persona que la lea en sustitución de él, quien le dará a conocer el contenido de la escritura por medio de signos o de otra manera. En igual forma se procederá tratándose de personas ciegas; todo lo cual hará costar el notario.
+Si alguno de los otorgantes fuere sordo o mudo y supiera leer revisará por sí mismo la escritura; y si declarare no saber o no poder leer, designará una persona que la lea en sustitución de él quien le dará a conocer el contenido de la escritura por medio de signos o de otra manera. En igual forma se procederá tratándose de personas ciegas; todo lo cual hará costar el notario.
 
 ###### ARTICULO 63.
 
@@ -445,7 +455,7 @@ Firmada la escritura por los otorgantes, los testigos e intérpretes, en su caso
 
 Cuando se hayan cubierto los impuestos correspondientes, el notario deberá autorizar definitivamente la escritura al calce de la misma.
 
-La autorización definitiva contendrá la fecha y el lugar en que se haga, la firma y el sello del notario, así como los demás requisitos que otras leyes rescriban (sic).
+La autorización definitiva contendrá la fecha y el lugar en que se haga, la firma y el sello del notario, así como los demás requisitos que otras leyes prescriban.
 
 ###### ARTICULO 67.
 
@@ -477,7 +487,7 @@ El notario que autorice una escritura anotará al margen del título que se le p
 
 ###### ARTICULO 74.
 
-Se prohibe a los notarios revocar, rescindir o modificar el contenido de una escritura autorizada definitivamente, por simple razón al margen de ella. En estos casos debe extenderse nueva escritura y hacer las anotaciones conducentes en la primera.
+Se prohíbe a los notarios revocar, rescindir o modificar el contenido de una escritura autorizada definitivamente, por simple razón al margen de ella. En estos casos debe extenderse nueva escritura y hacer las anotaciones conducentes en la primera.
 
 ###### ARTICULO 75.
 
@@ -485,19 +495,21 @@ Todos los actos notariales se harán constar en el protocolo, salvo los siguient
 
 I.- Los documentos que no requieran este requisito conforme a la Ley General de Títulos y Operaciones de Crédito, pero las actas respectivas se podrán protocolizar, a solicitud de los interesados;
 
-II.- La certificación de actos que no pugnen con las prescripciones de la ley; la ratificación y reconocimiento de firmas de contratos privados de compra venta, constitución de hipotecas, cartas poder y demás contratos que conforme a la Ley puedan otorgarse en escritura privada;
+II.- La certificación de actos que no pugnen con las prescripciones de la ley; la ratificación y reconocimiento de firmas de contratos privados de compraventa, constitución de hipotecas, cartas-poder y demás contratos que conforme a la Ley puedan otorgarse en escritura privada;
 
 III.- La expedición de copias certificadas, certificación de toda clase de documentos, así como cotejos de copias con sus originales; y,
 
 IV.- En los demás casos en que otra Ley lo autorice expresamente.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 76.
 
-Las enajenaciones de bienes inmuebles cuyo valor fiscal contractual sea mayor de cincuenta mil pesos y la constitución o transmisión de derechos reales estimados en más de esa suma o que garanticen un crédito por mayor cantidad que la mencionada, para su validez, deberán constar en escritura pública.
+Las enajenaciones de bienes inmuebles cuyo valor fiscal sea mayor a 1 500 veces el salario mínimo y la constitución o transmisión de derechos reales estimados en más de esa suma o que garanticen un crédito por mayor cantidad que la mencionada, para su validez, deberán constar en escritura pública.
 
 ###### ARTICULO 77.
 
-La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica deber de escribirlas por sí mismo.
+La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica el deber de escribirlas por sí mismo.
 
 ###### ARTICULO 78.
 
@@ -511,11 +523,11 @@ Cuando un instrumento contenga evidente injusticia para alguno de los contratant
 
 ### CAPITULO III. DE LOS INSTRUMENTOS PRIVADOS
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 80.
 
-Los contratos de compra-venta, mutuo, permuta, donación e hipoteca, cuando el valor fiscal de los bienes vendidos o el precio de las operaciones no exceda de cincuenta mil pesos, podrán otorgarse en instrumento privado.
-
-Los contratantes que intervengan ratificarán el acto el mismo día de su fecha, bajo pena de nulidad.
+Los contratos de compra-venta, mutuo, permuta, donación de hipoteca, cuando el valor fiscal de los bienes o el precio de las operaciones no exceda el equivalente a mil quinientas veces el salario mínimo, podrán otorgarse en instrumento privado.
 
 ###### ARTICULO 81.
 
@@ -523,7 +535,7 @@ Los notarios deberán satisfacer en los documentos que ante ellos se ratifiquen 
 
 ###### ARTICULO 82.
 
-Los instrumentos privados cuyas firmas sean ratificadas ante los jueces de primera instancia o municipales actuando por receptoría, serán coleccionados por cualquier notario de su circuscripción, dentro de los treinta días naturales siguientes al de su autorización; de no hacerlo dentro de ese término se les impondrá una multa de cien pesos. El notario agregará un ejemplar a la colección respectiva y devolverá el otro interesado con la razón correspondiente para que le sirva de título, el cual de ser procedente, será inscrito en el Registro Público de la Propiedad y Archivo General de Notarías.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 83.
 
@@ -583,7 +595,7 @@ Se abstendrán de expedir tales copias cuando se trate de documentos que obren e
 
 ###### ARTICULO 91.
 
-Las notificaciones, los requerimientos, las interpelaciones, las certificaciones de hechos y las diligencias para las que no señale forma especial la Ley, se harán constar en actas destacadas que se levantarán por duplicado. El ariginal (sic) se entregará a los interesados y el duplicado lo coleccionará y archivará el notario por riguroso orden de fechas, con numeración progresiva.
+Las notificaciones, los requerimientos, las interpelaciones, las certificaciones de hechos y las diligencias para las que no señale forma especial la Ley, se harán constar en actas destacadas que se levantarán por duplicado. El original se entregará a los interesados y el duplicado lo coleccionará y archivará el notario por riguroso orden de fechas, con numeración progresiva.
 
 ###### ARTICULO 92.
 
@@ -591,37 +603,29 @@ El reconocimiento de carta privada que contenga otorgamiento o sustitución de p
 
 ###### ARTICULO 93.
 
-Los interesados pueden consignar ante un notario dinero y valores, quien levantará acta, cuya copia se entregará al interesado, la cual, producirá el mismo efecto que si el escrito de consignación y los valores hubiesen sido entregados al juez competente. El notario procederá en los términos del artículo 11 de esta Ley y el interesdo presentará al juez dicha copia y éste recabará de la autoridad correspondiente los valores consignados, siguiéndose luego las diligencias de consignación.
+Los interesados pueden consignar ante un notario dinero y valores, quien levantará acta, cuya copia se entregará al interesado, la cual, producirá el mismo efecto que si el escrito de consignación y los valores hubiesen sido entregados al juez competente. El notario procederá en los términos del artículo 11 de esta Ley y el interesado presentará al juez dicha copia y éste recabará de la autoridad correspondiente los valores consignados, siguiéndose luego las diligencias de consignación.
 
 ### CAPITULO V. DE LA ACTUACION NOTARIAL POR RECEPTORIA
 
 ###### ARTICULO 94.
 
-La actuación notarial de los jueces de primera instancia y municipales a que se refiere la presente Ley, será por receptoría.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 95.
 
-Los jueces de primera instancia, podrán ejercer por receptoría funciones notariales, en los lugares donde no haya notario, o habiéndolo este impedido o faltare accidentalmente, excepto cuando los actos se refieran a bienes ubicados fuera de su circunscripción territorial.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 96.
 
-Cuando el juez de primera instancia y el notario estén impedidos, se hallen ausentes o no estén designados, los jueces municipales actuarán por receptoría, en los casos siguientes:
-
-I.- La ratificación de cartas-poder para pleitos y cobranzas;
-
-II.- La ratificación de instrumentos privados, únicamente sobre inmuebles que estén ubicados en el municipio de su jurisdicción y cuyo valor fiscal no exceda de veinte mil pesos.
-
-III.- El otorgamiento de testamentos, cuando se trate de casos urgentes; y,
-
-IV.- Las certificaciones de hechos que puedan apreciar por los sentidos.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 97.
 
-La actuación por receptoría, cuando se trate de escrituras públicas, se llevará a cabo en actas destacadas, las cuales se remitirán para protolización (sic) a los notarios de número respectivos inmediatamente después de que hayan firmado los contratantes y demás personas que intervengan conforme a las leyes y se haya cubierto el interés fiscal. Cuando se trate de instrumentos privados, se harán éstos por duplicados y se coleccionarán por el notario que corresponda, con arreglo a lo dispuesto por el artículo 82 de esta Ley.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 98.
 
-Tanto los jueces de primera instancia como los municipales, al actuar por receptoría, se sujetarán a lo establecido en esta Ley y a las demás disposiciones legales aplicables.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 1986)
 
 ### CAPITULO VI. DE LOS TESTIMONIOS
 
@@ -631,11 +635,11 @@ Testimonio es el documento auténtico en el que se transcribe íntegra o parcial
 
 El testimonio será parcial cuando en él sólo se transcriba parte, ya sea de la escritura o del acta, ya de los documentos del apéndice.
 
-El notario expedirá testimonio o copia parcial cuando ello no cause perjuicio a tercera persona.
+El notario expedirá testimonio o copia parcial cuando con ello no cause perjuicio a tercera persona.
 
 ###### ARTICULO 100.
 
-Al final de cada testimonio se hará constar su calidad de primero, segundo o ulterior número ordinal, el nombre del interesado a quien se expide, a qué título, el número de hojas del testimonio y la fecha de la expedición. Se salvarán las testaduras y lo escrito entre líneas, de la manera prescrita para las escrituras. El testimonio será autorizado por el notario con su firma y sello.
+Al final de cada testimonio se hará constar su calidad de primero, segundo o ulterior número ordinal, el nombre del interesado a quien se expide, a que título, el número de hojas del testimonio y la fecha de la expedición. Se salvarán las testaduras y lo escrito entre líneas, de la manera prescrita para las escrituras. El testimonio será autorizado por el notario con su firma y sello.
 
 ###### ARTICULO 101.
 
@@ -663,11 +667,11 @@ Las anotaciones llevarán la firma y sello del notario.
 
 ###### ARTICULO 106.
 
-Las escrituras, las actas y sus testimonios, probarán plenamente que los otorgantes manifestaron su voluntad de celebrar el acto consignado en la escritura; que hicieron las declaraciones y se realizaron los echos (sic) de los que haya dado fe el notario y que éste observó las formalidades que mencione, mientras no fuere declarada judicialmente su nulidad.
+Las escrituras, las actas y sus testimonios, probarán plenamente que los otorgantes manifestaron su voluntad de celebrar el acto consignado en la escritura; que hicieron las declaraciones y se realizaron los hechos de los que haya dado fe el notario y que éste observó las formalidades que mencione, mientras no fuere declarada judicialmente su nulidad.
 
 ###### ARTICULO 107.
 
-Las correcciones no salvadas en las escrituras, actas y testimonios se tendrán por no echas (sic). En caso de discordancia entre las palabras y los guarismos prevalecerán aquéllas.
+Las correcciones no salvadas en las escrituras, actas y testimonios se tendrán por no hechas. En caso de discordancia entre las palabras y los guarismos prevalecerán aquéllas.
 
 ###### ARTICULO 108.
 
@@ -675,7 +679,7 @@ La escritura o el acta será nula cuando:
 
 I.- El notario no tenga expedito el ejercicio de sus funciones al otorgarse el instrumento o al autorizarlo;
 
-II.- No le esté permitido por la Ley autorizar el acto o hecho, materia de la escritura o del acta;
+II.- No le esté permitido por la ley autorizar el acto o hecho, materia de la escritura o del acta;
 
 III.- Fuere otorgada por las partes o autorizada por el notario fuera de la circunscripción asignada a éste para actuar;
 
@@ -693,7 +697,7 @@ IX.- Falte algún otro requisito que produzca la nulidad del instrumento por dis
 
 En el caso de la fracción II de este artículo solamente será nulo el instrumento en lo referente al acto o hecho cuya autorización no le esté permitida, pero tendrá validez respecto de los otros actos o hechos que contengan y que no estén en la misma situación.
 
-Fuera de los casos determinados en este artículo el instrumento no es nulo, aun cuando el ontario (sic) infractor de alguna prescripción legal quede sujeto a la responsabilidad que en derecho proceda.
+Fuera de los casos determinados en este artículo el instrumento no es nulo, aun cuando el notario infractor de alguna prescripción legal quede sujeto a la responsabilidad que en derecho proceda.
 
 ###### ARTICULO 109.
 
@@ -701,7 +705,7 @@ El testimonio será nulo en caso de que:
 
 I.- Lo fuere la escritura o el acta en él consignados;
 
-II.- El Notario no tenga expedito el ejercicio de sus funciones al autorizar el testimonio;
+II.- El notario no tenga expedito el ejercicio de sus funciones al autorizar el testimonio;
 
 III.- Lo autorice fuera de su circunscripción;
 
@@ -745,7 +749,7 @@ El juez que dicte auto de formal prisión por delito doloso o preterintencional 
 
 ###### ARTICULO 115.
 
-En el caso de la fracción III del artículo 113, tan luego como la Secretaría General de Gobierno tenga conocimiento de que un notario adolece de impedimento físico o mental, designará a dos médicos oficiales para que determinen la naturaleza del padecimiento y si éste lo imposibilita temporal o definitivamente para el ejercicio de sus funcones (sic).
+En el caso de la fracción III del artículo 113, tan luego como la Secretaría General de Gobierno tenga conocimiento de que un notario adolece de impedimento físico o mental, designará a dos médicos oficiales para que determinen la naturaleza del padecimiento y si éste lo imposibilita temporal o definitivamente para el ejercicio de sus funciones.
 
 ### CAPITULO III. DE LA CESACION
 
@@ -763,9 +767,9 @@ IV.- Falta de probidad o conducta deshonesta debidamente comprobada;
 
 V.- No mantener subsistente la garantía que responde de sus actuaciones;
 
-VI.- No reanudar sus funciones notariales, sin causa debidamente justificada, dentro de los tres días siguientes al término de la lcencia (sic) concedida;
+VI.- No reanudar sus funciones notariales, sin causa debidamente justificada, dentro de los tres días siguientes al término de la licencia concedida;
 
-VII.- Ser condenado por delito doloso o preterintencional en sentencia firme, aun cuando en ésta no se le prive del cargo;
+VII.- Ser condenado por delito doloso o preterintencional en sentencia firme, aún cuando en ésta no se le prive del cargo;
 
 VIII.- Haber sido suspendido en tres ocasiones durante un año;
 
@@ -797,7 +801,7 @@ El juez del registro civil remitirá a la Secretaría General de Gobierno copia 
 
 ###### ARTICULO 121.
 
-La autoridad judicial que dicte sentencia condenatoria ejecutoriada en contra de un notario remitirá copia certificada al Secretario General de Gobierno.
+La autoridad judicial que dicte sentencia condenatoria ejecutoriada en contra de un notario, remitirá copia certificada al Secretario General de Gobierno.
 
 ###### ARTICULO 122.
 
@@ -827,7 +831,7 @@ En el caso de separación o suspensión del notario por un término mayor de sei
 
 ###### ARTICULO 128.
 
-Si el Gobernador designa un sustituto que se encargue del despacho de la notaría; éste lo hará constar así en cada caso, autorizando los actos con sello propio. El sustituto deberá llenar los requisitos de esta Ley para ejercer sus funciones.
+Si el Gobernador designa un sustituto que se encargue del despacho de la notaría, éste lo hará constar así en cada caso, autorizando los actos con sello propio. El sustituto deberá llenar los requisitos de esta Ley para ejercer sus funciones.
 
 ## TITULO QUINTO. DE LA RESPONSABILIDAD DE LOS NOTARIOS Y CANCELACION DE GARANTIA
 
@@ -843,13 +847,17 @@ De la responsabilidad civil conocerán los jueces de primera instancia, a pedime
 
 El Ejecutivo del Estado determinará la responsabilidad administrativa en que incurran los notarios por violación de los preceptos de esta Ley, y la hará efectiva por conducto de los órganos administrativos correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 131.
 
-El Ejecutivo del Estado aplicará a los notarios las siguientes sanciones administrativas por violaciones a los preceptos de esta Ley, según la gravedad y circunstancias del caso:
+El Ejecutivo del Estado aplicará a los notarios las siguientes sanciones administrativas por violaciones a los preceptos de esta Ley, según la gravedad y circunstancias del caso;
 
 I.- Amonestación por oficio;
 
-II.- Multa de quinientos a diez mil pesos;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
+II.- Multa equivalente al monto de 300 a 500 días de salario mínimo;
 
 III.- Suspensión del cargo hasta por un año; y,
 
@@ -861,7 +869,7 @@ Para aplicar a los notarios las sanciones administrativas que establecen las fra
 
 ###### ARTICULO 133.
 
-Tratándose de actos u omisiones de los notarios que por gravedad motiven la suspención (sic) o cesación del cargo que desempeñan, antes de dictarse la resolución sobre el particular, se observará el procedimiento siguiente: se ordenará la investigación respectiva en los términos de esta Ley y emplazará al presunto infractor para que dentro del término de veinte días rinda su informe, aporte las pruebas y formule alegatos que a sus intereses convengan; el Ejecutivo del Estado, de considerarlo conveniente y dando cuenta con el resultado de la investigación, solicitará la opinión del Consejo de Notarios, la que deberá emitirse en el plazo de cinco días, con los elementos referidos y dentro del término de diez días dictará la resolución definitiva, contra la que no existirá ulterior recurso.
+Tratándose de actos u omisiones de los notarios que por su gravedad motiven la suspención (sic) o cesación del cargo que desempeñan, antes de dictarse la resolución sobre el particular, se observará el procedimiento siguiente: se ordenará la investigación respectiva en los términos de esta Ley y emplazará al presunto infractor para que dentro del término de veinte días rinda su informe, aporte las pruebas y formule alegatos que a sus intereses convengan; el Ejecutivo del Estado, de considerarlo conveniente y dando cuenta con el resultado de la investigación, solicitará la opinión del Consejo de Notarios, la que deberá emitirse en el plazo de cinco días; con los elementos referidos y dentro del término de diez días dictará la resolución definitiva, contra la que no existirá ulterior recurso.
 
 ### CAPITULO II. DE LA CANCELACION DE GARANTIA
 
@@ -879,7 +887,7 @@ IV.- Que se publique la petición en extracto, en el Periódico Oficial del Esta
 
 V.- Que se oiga al Consejo de Notarios; y,
 
-VI.- Que transcurran tres meses, después de la publicación en el Periódico Oficial, sin que se hubiere presentado opostor (sic).
+VI.- Que transcurran tres meses, después de la publicación en el Periódico oficial, sin que se hubiere presentado opositor.
 
 En caso de oposición se consignará el asunto a la autoridad judicial respectiva para que proceda en términos de Ley.
 
@@ -887,7 +895,7 @@ En caso de oposición se consignará el asunto a la autoridad judicial respectiv
 
 ###### ARTICULO 135.
 
-Los notarios en ejercicio en el Estado se constituirán en un organismo que se demnominará (sic) "Colegio de Notarios de Michoacán", con sede en la ciudad de Morelia.
+Los notarios en ejercicio en el Estado se constituirán en un organismo que se denominará "Colegio de Notarios de Michoacán", con sede en la ciudad de Morelia.
 
 ###### ARTICULO 136.
 
@@ -895,7 +903,7 @@ Para la constitución del organismo a que se refiere el artículo anterior se es
 
 ###### ARTICULO 137.
 
-El Colegio de Notarios será representado por un Consejo que estará integrado por los siguientes miembros: Presidente, Secretario, Tesorero y tres Vocales, los que durarán en funciones dos años y serán electos por mayoría, mediante el voto individual y público que cada notario emita en asamblea del Colegio, la que se celebrará cada primer sábodo (sic) del mes de diciembre del año en que corresponda renovar el Consejo Directivo.
+El Colegio de Notarios será representado por un Consejo que estará integrado por los siguientes miembros: Presidente, Secretario, Tesorero y tres Vocales, los que durarán en sus funciones dos años y serán electos por mayoría, mediante el voto individual y público que cada notario emita en asamblea del Colegio, la que se celebrará cada primer sábado del mes de diciembre, del año en que corresponda renovar el Consejo Directivo.
 
 La asamblea electoral será convocada por la Secretaría General de Gobierno y requerirá de un quórum del cincuenta por ciento más uno de los notarios de número en ejercicio; de no existir el porcentaje indicado, se citará a una segunda, para el siguiente sábado del mismo mes, en la que se elegirá al Consejo con los notarios que asistan.
 
@@ -903,23 +911,23 @@ Los tres primeros miembros del Consejo serán electos de entre los notarios de l
 
 ###### ARTICULO 138.
 
-El Colegio de Notarios estará facultado para formular sus propios estatutos, tanto éste como su Consejo serán ajenos a toda actividad política o religiosa quedándoles prohibido tratar asuntos de esa naturaleza en sus asambleas.
+El Colegio de Notarios estará facultado para formular sus propios estatutos; tanto éste como su Consejo serán ajenos a toda actividad política o religiosa, quedándoles prohibido tratar asuntos de esa naturaleza en sus asambleas.
 
 ###### ARTICULO 139.
 
-Los cargos del Consejo de Notarios son gratuitos e irrenunciables sin causa justificada. Los Consejeros sólo podrán estar separados de sus cargos durante el tiempo que legalmente lo estén del desempeño de sus funciones notarioles (sic). La suspensión o cesación del notario implica la del cargo de consejero.
+Los cargos del Consejo de Notarios son gratuitos e irrenunciables sin causa justificada. Los Consejeros sólo podrán estar separados de sus cargos durante el tiempo que legalmente lo estén del desempeño de sus funciones notariales. La suspensión o cesación del notario implica la del cargo de consejero.
 
 ###### ARTICULO 140.
 
 Son atribuciones del Consejo de Notarios:
 
-I.- Auxiliar al Ejecutivo del Estado en la vigilancia sobre el cumplimiento de esta Ley, regamentos (sic) y disposiciones que aquél dictare en materia del sotariado (sic);
+I.- Auxiliar al Ejecutivo del Estado en la vigilancia sobre el cumplimiento de esta Ley, reglamentos y disposiciones que aquél dictare en materia del notariado;
 
 II.- Estudiar y resolver los asuntos y problemas relacionados con la función notarial que el Ejecutivo del Estado le encomiende;
 
 III.- Opinar en los casos que la Ley le señale;
 
-IV.- Resolver las consultas que les hicieren los notarios del Estado, referente al eejrcicio (sic) de sus funciones;
+IV.- Resolver las consultas que les hicieren los notarios del Estado, referente al ejercicio de sus funciones;
 
 V.- Pugnar por la superación de la función notarial; y,
 
@@ -929,11 +937,11 @@ VI.- Las demás que les confiere esta Ley y sus reglamentos.
 
 ### CAPITULO I. DEL ARCHIVO GENERAL DE NOTARIAS
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 141.
 
-Se establece en la ciudad de Morelia, un Archivo General de Notarías para el Estado.
-
-El Director será el del Registro Público de la Propiedad en la Entidad, quien reunirá los requisitos establecidos por el artículo 65 de la Ley Orgánica de la Administración Pública del Poder Ejecutivo.
+Se establece en la ciudad de Morelia, un Archivo General de Notarías; el titular del mismo será designado por el Gobernador del Estado, y dependerá de la Dirección del Notariado.
 
 ###### ARTICULO 142.
 
@@ -957,15 +965,15 @@ Serán obligaciones y atribuciones del Director del Archivo General de Notarías
 
 I.- Comunicar por escrito a la Secretaría General de Gobierno cualquier defecto o irregularidad que advierta en los protocolos o sus anexos que se le remitan, y todo aquello que tenga relación con el buen servicio y el exacto cumplimiento del presente ordenamiento;
 
-II.- Cuidar que los protocolos y demás documentos relativos no permanezcan fuera del mueble en que estuvieren guardados, más que el tiempo indispensable para el objeto por el fueron removidos;
+II.- Cuidar que los protocolos y demás documentos relativos no permanezcan fuera del mueble en que estuvieren guardados, más que el tiempo indispensable para el objeto por el que fueron removidos;
 
 III.- Vigilar que los documentos que se remitan para su archivo cumplan con los requisitos establecidos por las leyes correspondientes;
 
-IV.- Expedir a los interesados, cuando proceda legalmente, los testimonios que pil (sic) proceda legalmente, los testimonios que pidieran de las escrituras o actas notariales registradas en los protocolos, cuyo depósito y conservación le encomienda la presente Ley, sujetándose en la expedición de dichos testimonios a las reglas establecidas respecto de los notarios;
+IV.- Expedir a los interesados, cuando proceda legalmente, los testimonios que pidieran de las escrituras o actas notariales registradas en los protocolos, cuyo depósito y conservación le encomienda la presente Ley, sujetándose en la expedición de dichos testimonios a las reglas establecidas respecto de los notarios;
 
 V.- Expedir asimismo, las copias y testimonios que le fueren requeridos mediante decreto judicial. El decreto de la autoridad judicial se insertará en el testimonio que se expida;
 
-VI.- Llevar un registro de notarios en el cual se asienten la fecha de su nombramiento y aguella (sic) en que hayan dejado de ejercer el cargo; así como las licencias, suspensiones y correcciones disciplinarias;
+VI.- Llevar un registro de notarios en el cual se asienten la fecha de su nombramiento y aquella en que hayan dejado de ejercer el cargo; así como las licencias, suspensiones y correcciones disciplinarias;
 
 VII.- Ordenar la práctica de visitas ordinarias y extraordinarias a las notarías del Estado;
 
@@ -973,7 +981,7 @@ VIII.- Conservar los documentos y papeles propios de su archivo debidamente clas
 
 IX.- Rendir los informes que le solicite la superioridad;
 
-X.- Guardar personalmente las llaves de los muebles en que estén los libros y demás objetos pertenecientes al Archivo; y,
+X.- Guardar personalmente las llaves de los muebles en que estén los libros y demás objetos pertenecientes al Archivo; y
 
 XI.- Las demás atribuciones que sean propias y naturales del cargo, o que las leyes le impongan.
 
@@ -1003,7 +1011,7 @@ I.- Si fuere ordinaria, el inspector revisará los documentos y títulos que el 
 
 II.- De ordenarse la inspección de un tomo determinado, el comisionado se limitará a examinar si se cumplieron los requisitos legales de redacción en las escrituras, con exclusión de sus cláusulas y declaraciones, observando, además, las instrucciones que por escrito hubiere recibido;
 
-III.- Si la inspección tiene por objeto un instrumento en especial, se examinarán los requisitos de forma, la redección (sic) de él y además, sus cláusulas y declaraciones, en caso de que el instrumento sea de los sujetos a registro; y,
+III.- Si la inspección tiene por objeto un instrumento en especial, se examinarán los requisitos de forma, la redacción de él y además, sus cláusulas y declaraciones, en caso de que el instrumento sea de los sujetos a registro; y,
 
 IV.- En toda investigación se hará constar si los documentos notariales se encuentran debidamente ordenados en la forma y términos establecidos por esta Ley.
 
@@ -1013,15 +1021,15 @@ El comisionado hará constar en el acta las irregularidades que observe; consign
 
 ###### ARTICULO 150.
 
-El acta a que se refiere el artícilo (sic) anterior, se levantará por cuadruplicado, un tanto será remitido al Secretario General de Gobierno, otro al Director del Registro Público de la Propiedad y Archivo General de Notarías, el tercero al Consejo de Notarios y el último quedará en poder del notario.
+El acta a que se refiere el artículo anterior, se levantará por cuadruplicado, un tanto será remitido al Secretario General de Gobierno, otro al Director del Registro Público de la Propiedad y Archivo General de Notarías, el tercero al Consejo de Notarios y el último quedará en poder del notario.
 
-T R A N S I T O R I O S :
+TRANSITORIOS:
 
-PRIMERO.- Se abroga la Ley Orgánica del Notariado contenida en el Decreto número 156, expedido por el H. Congreso del Estado, con fecha 13 de junio de 1974, y publicada en el Suplemento al Periódico Oficial número 89 del jueves 4 de julio del mismo año, así como todas las disposiciones que se opongan a la presente Ley.
+PRIMERO.- Se abroga la Ley Orgánica del Notariado contenida en el Decreto número 156, expedido por el H. Congreso del Estado, con fecha 13 de junio de 1974, y publicada en el Suplemento al Periódico oficial número 89 del jueves 4 de julio del mismo año, así como todas las disposiciones que se opongan a la presente Ley.
 
 SEGUNDO.- Los notarios en ejercicio continuarán en sus funciones; en lo sucesivo las nuevas designaciones se harán en los términos de esta Ley.
 
-TERCERO.- La presente Ley entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+TERCERO.- La presente Ley entrará en vigor a los quince días de su publicación en el Periódico oficial del Estado.
 
 El Ejecutivo del Estado dispondrá se publique y observe.
 
@@ -1056,3 +1064,15 @@ Lic. Carlos Torres Manzo. Firmado.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Ausencio Chávez Hernández. Firmado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Notarios Públicos Vitalicios coleccionarán las escrituras privadas y, protocolizarán los Instrumentos que contengan: estipulaciones contractuales, certificaciones de hechos, reconocimiento de obligaciones o derechos, las constancias de manifestación de última voluntad que se hubiesen otorgado ante los jueces que actuaron por receptoría hasta la fecha en que entre en vigor este Decreto; las que deberán formalizarse en un plazo que no excederá de 60 días hábiles, si los interesados se encuentran domiciliados dentro de su respectiva circunscripción o, en 90 días si residen fuera de ella.
