@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "1997-05-09"
+last_updated: "1997-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1997.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1911,7 +1911,9 @@ ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la 
 
 ART. 481.1.- Se tramitará en la vía extraordinaria, todo juicio hipotecario que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que el crédito conste en escritura pública o escritura privada, según corresponda en los términos de la legislación común, y se encuentre inscrito en el Registro Público de la Propiedad y que sea además, de plazo cumplido, o que éste sea exigible en los términos pactados o bien, conforme a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas especiales del presente Capítulo, y supletoriamente conforme a las reglas de los juicios extraordinarios, es, es (sic) requisito indispensable que el crédito conste en escritura pública o escritura privada, según corresponda en los términos de la legislación común y se encuentre inscrito en el Registro Público de la Propiedad y del Comercio y que sea además, de plazo cumplido, o que éste sea exigible en los términos pactados o bien, conforme a las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -1923,55 +1925,91 @@ II.- El bien se encuentre inscrito a favor del demandado; y
 
 III.- No exista embargo o gravamen en favor de tercero, inscrito, cuando menos, noventa días anteriores al de la presentación de la demanda.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1997)</small>
 
-ART. 481.3.- Al escrito de demanda se acompañará el instrumento respectivo; cerciorado el juez, que se encuentren satisfechos los requisitos establecidos en los artículos que anteceden, admitirá la demanda y ordenará la anotación correspondiente en el Registro Público de la Propiedad. Dispondrá asimismo, correr traslado de ella al deudor y, en su caso, al titular registral del embargo o gravamen por plazo inferior al estipulado en la fracción III del Artículo anterior, a efecto de que dentro del término de tres días acuda a producir su contestación y a oponer las excepciones, las cuales no podrán ser otras que:
+ART. 481.3.- Al escrito de demanda se acompañará el instrumento respectivo; cerciorado el Juez, que se encuentren satisfechos los requisitos establecidos en los artículos que anteceden, admitirá la demanda y ordenará la anotación correspondiente en el Registro Público de la Propiedad y del Comercio. Dispondrá asimismo el Juez, correr traslado de ella al deudor a efecto de que dentro del término de tres días acuda a producir su contestación y a oponer las excepciones, las cuales no podrán ser otras que:
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
 
 I.- Las procesales previstas en este Código;
 
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
+
 II.- Las fundadas en que el demandado no haya firmado el documento base de la acción, la de su alteración o la de falsedad del mismo;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
 
 III.- Las de falta de representación, de poder bastante o de facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
 
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
+
 IV.- La de nulidad del contrato;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
 
 V.- La de pago o compensación;
 
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
+
 VI.- La de remisión o quita;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
 
 VII.- La de oferta de no cobrar o espera;
 
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
+
 VIII.- La de novación de contrato;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
 
 IX.- Las de litispendencia y conexidad; y
 
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
+
 X.- Las de cosa juzgada.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 Las excepciones comprendidas en las fracciones de la V a la VIII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad sólo se admitirán si se exhibe con la contestación, las copias selladas de la demanda y contestación de ésta o de las cédulas del emplazamiento del juicio pendiente o conexo, o bien, la documentación que acredite que se encuentra tramitándose un procedimiento arbitral.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
 Tratándose de la excepción contemplada en la fracción X se deberá anexar copia certificada de la sentencia ejecutoriada.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, así como aquéllas en que sea necesario exhibir documentos y los mismos no se acompañen, salvo los casos a que se refieren los artículos 91 y 92 de este Código.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+
 La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
 
-Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento, debiéndose en consecuencia, resolver de plano en la audiencia. Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro del término de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver lo conducente, conforme a la voluntad manifestada al respecto por las partes.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro del término de tres días manifieste lo que a su derecho convenga, debiendo el Juez resolver lo conducente, conforme a la voluntad manifestada al respecto por las partes.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1997)</small>
+
+En esta vía extraordinaria, ninguna de las excepciones suspenderá el procedimiento, debiéndose en consecuencia resolver de plano en la audiencia a que se refiere el Artículo 481.4.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+
+ART. 481.4.- En la demanda y contestación, así como en la reconvención planteada y su contestación respectiva, las partes deberán señalar con precisión los hechos; si éstos sucedieron ante testigos, refiriendo los nombres y apellidos de los mismos y, en su caso, el domicilio que tuvieren, debiendo acompañar además, los documentos relacionados con tales hechos. En los mismos escritos las partes deberán ofrecer las pruebas de su intención, relacionándolas con los hechos que pretendan probar, resolviendo el Juez sobre su admisión o desechamiento, según proceda, mismas que se desahogarán en la audiencia respectiva. Si por causa calificada como grave por el Juez no pudiere celebrarse la audiencia, el Juez mandará diferirla notificando así las partes a más tardar al día siguiente y señalará nueva fecha para su celebración, que será en un plazo no mayor de cinco días hábiles siguientes al en que surta efectos la notificación.
+
+Con el escrito de contestación a la demanda o a la reconvención se dará vista a la parte contraria para que, dentro de los tres días hábiles siguientes al en que surta efectos la notificación del acuerdo que recaiga, manifieste lo que a su derecho convenga. En ese mismo acuerdo se señalará fecha y hora para la celebración de la audiencia a que se refiere el párrafo que antecede, la que deberá celebrarse dentro de los veinte días siguientes.
+
+En caso de que el demandado se allane a las pretensiones del actor, el Juez pronunciará de inmediato, sentencia definitiva, la cual comunicará a las partes. Dicha sentencia deberá también pronunciarse si el deudor no hace valer defensa alguna, ni opone excepciones.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+
+ART. 481.5.- Si respecto al título con base en el cual se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios anteriores, de inmediato el Juez mandará notificarles la existencia del juicio, a fin de que comparezcan a deducir sus derechos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1997)</small>
+
+ART. 481.6.- Para efectos de la anotación de la demanda en el Registro Público de la Propiedad y del Comercio, el actor exhibirá un tanto más de dicha demanda, de los documentos base de la acción y, en su caso, de aquéllos con que justifique su representación, para que, previo cotejo con sus originales, se certifiquen por el Secretario y pueda el interesado hacer las gestiones de inscripción en el Registro Público de la Propiedad y del Comercio, debiendo acreditar la parte actora oportunamente, la realización de dicho trámite.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
-
-ART. 481.4.- En la demanda y contestación, así como en la reconvención planteada y su contestación respectiva, las partes deberán señalar con precisión los hechos; si éstos sucedieron ante testigos, refiriendo los nombres y apellidos de los mismos y, en su caso, el domicilio que tuvieren, debiendo acompañar además, los documentos relacionados con tales hechos. Oportunamente las partes deberán ofrecer las pruebas de su intención, resolviendo el juez sobre su admisión o desechamiento, según proceda, mismas que se desahogarán en la audiencia respectiva.
-
-Con el escrito de contestación de la demanda o a la reconvención se dará vista a la parte contraria para que, dentro de los tres días siguientes a su recepción, manifieste lo que a su derecho convenga. Transcurrido dicho plazo, se señalará fecha y hora para la celebración de la audiencia a que se refiere el párrafo que antecede.
-
-En caso de que el demandado se allane a las pretensiones del actor, el juez pronunciará de inmediato, sentencia definitiva, la cual comunicará a las partes.
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
-
-ART. 481.5.- Si respecto al título con base en el cual se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios, de inmediato el juez mandará notificarles la existencia del juicio, a fin de que comparezcan a deducir sus derechos.
-
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
-
-ART. 481.6.- Para efectos de la anotación de la demanda en el Registro Público de la Propiedad y del Comercio, el actor exhibirá un tanto más de dicha demanda, de los documentos base de la acción y en su caso, de aquéllos con que justifique su representación, para que, previo cotejo con sus originales, se certifiquen por el secretario y pueda el interesado hacer las gestiones de inscripción en el Registro dentro del término de tres días siguientes a la fecha de su expedición, debiendo acreditar la parte actora oportunamente, haber efectuado dicho trámite.
 
 Realizada la inscripción de la demanda, no podrá trabarse respecto al bien hipotecado ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, excepción hecha de sentencia ejecutoriada, relativa al mismo bien, debidamente inscrita y anterior en fecha a la inscripción de la referida demanda, o en razón de providencia precautoria resuelta por autoridad competente, promovida por acreedores de mejor derecho, en fecha anterior también, a la de la inscripción de la demanda.
 
@@ -1991,19 +2029,29 @@ ART. 481.9.- El demandado tendrá siempre el derecho de constituirse en deposita
 
 Para el caso de que la diligencia de emplazamiento no se entendiere con el deudor, se le dejará en el acto cédula con efectos de notificación de requerimiento personal, para que dentro de los tres días siguientes comparezca al Juzgado a manifestar si acepta o no la responsabilidad de depositario; de no aceptarlo o no acudir a realizar dicha manifestación, el juez nombrará, a proposición y responsabilidad de la parte actora, a quien deba desempeñar tal encargo.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
 
-ART. 481.10.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de sus acciones o de sus excepciones en el plazo establecido en este título, exhibiendo los documentos que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según lo previsto en los artículos 91 y 92 de este ordenamiento.
+ART. 481.10.- Las partes ofrecerán sus pruebas para acreditar los hechos de sus acciones o de sus excepciones, exhibiendo los documenntos (sic) que tengan en su poder o la copia sellada en que se solicite la expedición de los documentos que no tuvieran, según lo previsto en los artículos 91 y 92 de este ordenamiento.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+Las pruebas admitidas deberán ser preparadas por las partes y, en consecuencia, en la audiencia deberán presentar a sus testigos, peritos y demás pruebas que les hayan sido admitidas, y sólo en caso de que existan periciales contradictorias de ambas partes, el Juez en auxilio de las mismas nombrará un perito tercero en discordia. Las pruebas, salvo la de perito tercero en discordia se desahogarán en la audiencia respectiva, conforme lo establece el Artículo 481.4
 
-ART. 481.11.- El juez presidirá la audiencia; en ella se desahogarán las pruebas que ameriten especial desahogo. Luego se resolverán los incidentes y excepciones dilatorias, las cuales de no prosperar, darán lugar a la formulación de alegatos por las partes, asentándose de ellos en autos, el extracto correspondiente. Formulados que sean los alegatos, el juez citará a las partes para oír sentencia sobre el fondo del negocio.
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se les impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en el Estado, o arresto hasta de treinta y seis horas, y dejará de recibir tales testimoniales.
+
+De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en el Estado, que se hará efectiva por orden del propio Juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, en la inteligencia de que éstos terceros podrán manifestarle al Juez, bajo protesta de decir verdad, que no tienen en su poder los documentos que se les requieren.
+
+Si el demandado en la audiencia tiene por consentidas las pretensiones del actor, el Juez dictará sentencia y en ella le concederá un término de gracia de treinta días para desocupar el inmueble y lo eximirá del pago de gastos y costas que se hubieren originado.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+
+ART. 481.11.- El Juez presidirá la audiencia, la que iniciará resolviendo, en su caso, los incidentes que existieren de acuerdo con lo previsto en este capítulo. Contra dichas resoluciones procederá el recurso de apelación sólo en efecto devolutivo. Luego se desahogarán las pruebas que ameriten especial desahogo; pasando enseguida a la formulación de alegatos por las partes, de los cuales se asentarán en autos el extracto correspondiente. Hecho lo anterior, el Juez hará el pronunciamiento de citación a las partes para oír sentencia, la que se dictará en un plazo no mayor de cinco días.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 ART. 481.12.- Para el remate, se procederá de la siguiente forma:
 
-I.- Cada parte tendrá derecho de exhibir, dentro de los diez días siguientes a que sea ejecutable la sentencia, avalúo del bien hipotecado, el cual podrá ser realizado por corredor público, por entidad catastral de Gobierno, o por perito valuador inscrito en el Registro Estatal de Peritos, observándose al respecto lo establecido en la ley de la materia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1997)</small>
+
+I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo del bien hipotecado, el cual podrá ser realizado por corredor público, por entidad catastral de Gobierno, o por perito valuador inscrito en el Registro Estatal de Peritos, observándose al respecto lo establecido en la ley de la materia;
 
 II.- Si las partes exhibieren los avalúos en el plazo a que se refiere la fracción anterior y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso, el juez ordenará se practique nuevo avalúo, designado a quien deba realizarlo;
 
@@ -2014,6 +2062,14 @@ IV.- Si ninguna de las partes exhibe el avalúo dentro del plazo señalado en la
 V.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar el bien respectivo en los términos de lo previsto en el Capítulo IV, del Título Décimo Cuarto de este ordenamiento; y
 
 VI.- La vigencia de los avalúos será de seis meses, los que servirán de base para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes almonedas mediara un término mayor de seis meses, se deberán actualizar los valores.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1997)</small>
+
+En caso de existir recurso de apelación interpuesto por el demandado pendiente de resolverse, el acto de remate sólo podrá llevarse a cabo si la parte actora garantiza, mediante billete de depósito o fianza, los posibles daños y perjuicios que pudiere causarle al demandado. Para tal efecto el Juez deberá fijar, con prudente anticipación, el monto de la garantía, considerando para ello el valor que tendrá el inmueble en el remate respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 1997)</small>
+
+La garantía se devolverá a la parte actora una vez que la resolución impugnada haya sido confirmada, o aún cuando ésta modificada que haya sido, no afecte al fondo del negocio.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -2033,15 +2089,17 @@ ART. 481.15.- Las tercerías que pudieran deducirse en el juicio, deberán susta
 
 ART. 481.16.- En todo caso el deudor puede oponerse a la adjudicación alegando las excepciones que tuviere, esta oposición se substanciará incidentalmente.
 
-También pueden oponerse a la venta, los acreedores hipotecarios posteriores.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+
+También pueden oponerse a la venta, los acreedores hipotecarios posteriores, alegando prescripción de la inscripción anterior.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
 ART. 481.17.- Los deudores podrán hacer pago total de las prestaciones reclamadas hasta antes de fincarse el remate, hecho lo anterior, el juicio quedará sin materia, debiendo resolver el Juez lo conducente.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
 
-ART. 481.18.- Las sentencias que se dicten en términos de lo dispuesto en este capítulo serán apelables en efecto devolutivo.
+ART. 481.18.- Las resoluciones que se dicten en términos de lo dispuesto en este Capítulo, podrán ser apelables únicamente en efecto devolutivo.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -4323,94 +4381,6 @@ VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de e
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1997)</small>
 
-### CAPITULO I. De las controversias del Orden Familiar
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
-
-En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
-
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
-
-Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
-
-Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
-
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
-
-Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
-
-> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
-
-ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
-## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
-
 ### CAPITULO II. De la Audiencia de Pruebas y Alegatos
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
@@ -4515,7 +4485,9 @@ ART. 1170.- Si por causas graves hubiere necesidad de prolongar la audiencia dur
 
 Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
 
-## TITULO DECIMO SEXTO
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -4653,6 +4625,92 @@ ART. 1135.- El tercero que considere perjudicados sus derechos al ejecutarse la 
 
 ART. 1136.- Las disposiciones de este Título se aplicarán también a los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+
+## TITULO DECIMO SEXTO
+
+### CAPITULO I. De las controversias del Orden Familiar
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1138.- El Juez de lo Familiar estará facultado para intervenir en los asuntos que afectan a la familia, tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de Derecho, manteniendo, sin embargo, la mayor equidad entre ellos, de modo que no se haga concesión a una sin que se haga lo mismo con la otra parte.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenios, con los que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1139.- No se requieren formalidades especiales para acudir ante el Juez de lo familiar cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, calificación de impedimentos o de matrimonio o de las diferencias que surjan entre marido o mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares semejantes que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1140.- Podrá acudirse al Juez de lo Familiar por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que en su caso le presenten se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días, en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento o por disposición de la Ley, el Juez fijará a petición del acreedor sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, meintras (sic) se resuelve el Juicio.
+
+Será optativo para las partes, acudir asesoradas y, en este supuesto, los asesores necesariamente deberán ser Licenciado en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá acudir desde luego a enterarse del asunto disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón, se diferirá la audiencia en un término igual.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1141.- En la audiencia las partes aportarán las pruebas que así procedan y que hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1142.- La audiencia se practicará con o sin asistencia de las partes. El Juez para resolver el problema que se le plantee, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el Juez y por las partes. Su valoración será conforme a lo dispuesto por el Artículo 407 de este Código. En el fallo se expresarán, en todo caso, los medios de prueba en que se haya fundado el Juez para dictarlo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1143.- El Juez y las partes podrán interrogar a los testigos con relación a los hechos controvertidos, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación a que se refiere el Artículo 1141.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1144.- La audiencia se llevará a cabo dentro de los 30 días contados a partir del auto que ordene el traslado, en la inteligencia de que, la demanda inicial, deberá ser proveída dentro del término de tres días.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1145.- Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los ocho días siguientes. Las partes deberán presentar a sus testigos y peritos. De manifestar, bajo protesta de decir verdad, no estar en aptitud de hacerlo, se impondrán al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos así mismo, para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación, se hará con apercibimiento de arresto hasta por treinta y dos horas, de no comparecer el testigo o el perito sin causa justificada; y al promovente de la prueba, de imponerle una multa hasta por el equivalente de treinta días de salario mínimo vigente en la región, en caso de que el señalamiento de domicilio resulte inexacto, o de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante. Las partes, en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1146.- La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia, de ser posible o dentro de los ocho días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1147.- La apelación deberá intereponerse (sic) en la forma y términos previstos en el Artículo 940.
+
+Cuando la tramitación del Juicio de (sic) haya regido por las disposiciones, generales del Código, igualmente se regirá por estas disposiciones, por lo que toca a los recursos; pero en todo caso, si la parte recurrente careciera de abogado, la propia Sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto y a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1148.- Salvo los casos previstos en el Artículo 948 Bis, en donde el recurso de apelación se admitirá en ambos efectos, en los demás casos, dicho recurso procederá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1149.- Los autos que no fuesen apelables y los decretos, pueden ser revocados por el Juez que los dicta.
+
+Son procedentes en materia de recursos igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1150.- La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1151.- Ninguna excepción dilatoria podrá impedir que se adopten las referidas medidas. Tanto en este caso como en el del artículo anteror (sic), hasta después de tomadas dichas medidas, se dará el trámite correspondiente a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión del procedimiento. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre que verse, y se citará dentro de ocho días, para audiencia indiferible en que se reciba, se oigan brevemente las alegaciones y se dicte la resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1990)</small>
+
+ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
+
 ## ARTICULOS TRANSITORIOS
 
 ART. 1°.- Este Código empezará a regir el día 1º de julio de mil novecientos cuarenta y siete.
@@ -4740,3 +4798,15 @@ P.O. 9 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del inicio de vigencia de las adiciones contenidas en el Decreto 795 de la LIV Legislatura, relativas al Código Civil y Código de Procedimientos Civiles para el Estado, así como de las presentes modificaciones, reformas y adiciones, se regirán por las normas civiles y procesales vigentes al momento de la contratación.
+
+Lo dispuesto en el párrafo anterior, también se observará tratándose de las reestructuraciones, renegociaciones o nuevos convenios de deuda o créditos, cualquiera que sea la forma que adopten para tal efecto, que se efectúen con posterioridad al inicio de vigencia de estas reformas, modificaciones y adiciones, y que tengan como causa o antecedente, un crédito hipotecario contraído con anterioridad a la vigencia de las mismas, en cuyos casos se aplicará la legislación civil y procesal vigentes antes de las reformas.
+
+TERCERO.- Se derogan del Título Séptimo, Capítulo V "Del Juicio Hipotecario", del Código de Procedimientos Civiles para el Estado de San Luis Potosí, los artículos que se reforman en lo integral, así como las partes de aquellos artículos que a raíz de esta reforma se modifican parcialmente.
+
+CUARTO.- Se derogan por tanto, todas las disposiciones legales que se opongan al presente.
