@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2004-12-31"
+last_updated: "2005-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -389,7 +389,7 @@ V.- Ser el conducto para presentar ante el Cabildo proyectos de acuerdos y resol
 
 VI.- Compilar los acuerdos y resoluciones dictadas por el Cabildo y proveer al cumplimiento de l (sic) previsto por el artículo 19 del presente Ordenamiento;
 
-VII.- Emitir por conducto de la Dirección Jurídica Municipal los dictámenes de constitucionalidad legalidad (sic) que el Presidente Municipal, el Cabildo o las Comisiones le soliciten respecto de lo proyectos de acuerdos y resoluciones que sean de su conocimiento;
+VII.- (DEROGADA, P.O. 4 DE FEBRERO DE 2005)
 
 VIII.- Expedir copias simples de los acuerdos o resoluciones de los documentos que se anexen en la (sic) sesiones de cabildo, igualmente videos y grabaciones magnetofonías de las sesiones de Cabildo Regidores (sic) que así lo soliciten por escrito;
 
@@ -399,17 +399,7 @@ X.- En general, aquellas que el Presidente Municipal, el Cabildo, las leyes y lo
 
 ###### ARTICULO 43.
 
-Del Departamento de Proyectos de Cabildo.- Para el auxilio del Secretario d (sic) Gobierno Municipal, en cuando al funcionamiento del Cabildo, éste contará con un departamento de proyectos de Cabildo, el Secretario, una vez que designe al titular notificará a los integrantes d (sic) Cabildo para su conocimiento, quien tendrá a su cargo el desempeño de las siguientes funciones:
-
-I.- Será encargado del archivo de Cabildo, en el que llevará el control de actas, acuerdos resoluciones (sic) del mismo, el cual estará organizado tanto físicamente como mediante un sistema d (sic) cómputo para la rápida localización de la información; incluyendo los videos y las grabacione (sic) magnetofónicas a que se refiere el último párrafo del artículo 66 del presente Reglamento.
-
-II.- Será el asistente técnico para que el Secretario turne a la comisión o Comisiones, el expedient (sic) del dictamen de procedimiento propuesto en el término a que se refiere el artículo 52 del present (sic) Reglamento.
-
-III.- Auxiliará al Secretario en las certificaciones, cotejando con efectos internos exclusivamente, la documentación relativa al Cabildo plasmando su propia antefirma.
-
-IV.- Dentro de la Secretaría recepcionará la correspondencia que se vaya a presentar en sesión d (sic) Cabildo, y
-
-V.- En general todas aquellas que se le encomienden para el buen desarrollo de las sesiones d (sic) Cabildo, sin perjuicio de las facultades exclusivas que la Ley del Régimen Municipal y ést (sic) Reglamento le confieren al Secretario Fedatario del Ayuntamiento.
+(DEROGADO, P.O. 4 DE FEBRERO DE 2005)
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO EN CABILDO
 
@@ -1256,3 +1246,9 @@ P.O. 31 DE DICIEMBRE DE 2004.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en el periódico de mayor circulación en la localidad para el conocimiento de los vecinos.
 
 SEGUNDO.- Se abrogan todas las disposiciones que se opongan a las presentes disposiciones.
+
+P.O. 4 DE FEBRERO DE 2005.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial órgano de Gobierno del Estado.
+
+SEGUNDO: Publíquese es (sic) un periódico de mayor circulación en la localidad para conocimiento público.
