@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-escuela-de-policia-del-municipio-2933
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-01-10"
-last_updated: "1984-01-10"
+last_updated: "1997-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA ESCUELA DE POLICIA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA ACADEMIA DE POLICÍA DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. 14 DE NOVIEMBRE DE 1997, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 10 de enero de 1984.
 
@@ -236,3 +238,11 @@ REG. E ING. MANUEL A. RAMOS RUBIO
 REG. Y PROFR. JESUS A. VILLA H.
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 1997.
+
+PRIMERO.- Se deroga el Reglamento Interior de la Academia de Policía del Municipio de Mexicali, Baja California, publicado en el Periódico Oficial, el día diez de enero de mil novecientos ochenta y cuatro.
+
+SEGUNDO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
