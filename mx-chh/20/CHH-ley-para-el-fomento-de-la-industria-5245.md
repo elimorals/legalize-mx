@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-el-fomento-de-la-industria-5245"
 country: "mx"
 rank: "ley"
 publication_date: "1945-08-11"
-last_updated: "1945-08-11"
+last_updated: "1945-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA EL FOMENTO DE LA INDUSTRIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1945.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 11 de agosto de 1945.
 
@@ -81,9 +81,15 @@ r).- Construcción de colonias o zonas residenciales para obreros, empleados pú
 
 s).- Construcción de colonias o zonas residenciales de cualquier clase, en las poblaciones de menos de diez mil habitantes.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1945)</small>
+
 ###### ARTICULO 3o.
 
-Las industrias nuevas o necesarias que se establezcan en el Estado, gozarán, por el término de diez años de la exención de los impuestos sobre el Comercio y la Industria y, por el término de cinco años, de la exención de los impuestos predial y municipales.
+Las industrias nuevas o necesarias que se establezcan en el Estado, gozarán, por el término de diez años de la exención de los Impuestos sobre el Comercio y la Industria y, por el término de cinco años, de la exención de los Impuestos Prediales y Municipales. Si esas industrias tuvieren por objeto la transformación o conservación de los productos de origen animal, además de las franquicias anteriores gozarán por el plazo de cinco años de las siguientes:
+
+a).- De un subsidio equivalente a la cantidad que exceda de la suma de $7.00 por cabeza de ganado vacuno, que se deducirá del importe total de los derechos que deben pagarse, por concepto de matanza de ganado, en los términos de la fracción IV del Artículo 11 d la Ley de Hacienda Municipal.
+
+b).- De la exención total del impuesto sobre sacrificio de ganado, a que se refiere el artículo 104, reformado, de la Ley de Organización Fiscal del Estado. La exención se operará exclusivamente por lo que se refiere al sacrificio de ganado propiedad de la industria favorecida, siempre que ésta haya adquirido el dominio de los semovientes dentro de los tres meses anteriores a la fecha de la matanza.
 
 ###### ARTICULO 4o.
 
@@ -170,3 +176,9 @@ DADO en el Salón de Sesiones del H. Congreso del Estado, en la Ciudad de Chihua
 Por lo tanto, mando se imprima, publique, circule y se le dé debido cumplimiento, Palacio de Gobierno del Estado. Chihuahua, a los diez y ocho días del mes de julio de mil novecientos cuarenta y cinco.
 
 FERNANDO FOGLIO MIRAMONTES. El Secretario General de Gobierno Interino, ING. CRISOFORO CABALLERO B.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE OCTUBRE DE 1945.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
