@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-a-personas-con-discapacidad-y-senescentes-21410
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-15"
-last_updated: "1999-08-14"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCION A DISCAPACITADOS Y SENESCENTES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de julio de 1995.
 
@@ -217,7 +217,7 @@ Los proyectos de construcción de conjuntos habitacionales que constituyan un co
 
 ###### ARTICULO 10.
 
-Los Ayuntamientos de los Municipios de la Entidad, deberán observar y prever facilidades urbanísticas y arquitectónicas, adecuadas a las necesidades de las personas con discapacidad y senescentes, de conformidad con las disposiciones legales correspondientes en la materia, en la planificación y urbanización de las vías, parques y jardines públicos, a fin de facilitar a aquéllos el transito, desplazamiento y uso de dichos espacios.
+Los Ayuntamientos de los Municipios de la Entidad, deberán observar y prever facilidades urbanísticas y arquitectónicas, adecuadas a las necesidades de las personas con discapacidad y senescentes, de conformidad con las disposiciones legales correspondientes en la materia, en la planificación y urbanización de las vías, parques y jardines públicos, a fin de facilitar a aquéllos el tránsito, desplazamiento y uso de dichos espacios.
 
 ### CAPITULO CUARTO. DE LOS OBSTACULOS VIALES EN LA VIA PUBLICA
 
@@ -691,9 +691,9 @@ IV.- El Director General del Sistema Estatal para el Desarrollo Integral de la F
 
 V.- El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, quien fungirá como vocal;
 
-> <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
 
-VI.- El Secretario de Transporte, quien fungirá como vocal;
+VI.- El Coordinador General del Transporte, quien fungirá como vocal;
 
 > <small>(REFORMADA, P.O.14 DE AGOSTO DE 1999)</small>
 
@@ -737,9 +737,11 @@ IV.- Emitir su Reglamento Interior.
 
 Las oficinas municipales encargadas de obras públicas o desarrollo urbano se abstendrán de extender licencias de construcción, o de autorizar la realización de obras en la vía pública, o de otorgar permisos o concesiones para el aprovechamiento de dicha vía o cualesquiera otros bienes de uso común o destinados a un servicio público, si en los planos o proyectos que a su consideración se sometan no se observaren con estricto rigor las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 63.
 
-La Secretaría de Gobierno se abstendrá de dar trámite a las solicitudes de otorgamiento de concesión o permiso para la prestación del servicio público de transporte colectivo de pasajeros, si el solicitante no acredita que los vehículos con los cuales prestará aquel cumplen con lo previsto en el artículo 38 de esta Ley.
+El Gobierno del Estado se abstendrá de dar trámite a las solicitudes de otorgamiento de concesión o permiso para la prestación del servicio público de transporte colectivo de pasajeros, si el solicitante no acredita que los vehículos con los cuales prestará aquél cumplen con lo previsto en el artículo 38 de esta Ley.
 
 ###### ARTICULO 64.
 
@@ -810,3 +812,7 @@ Al C.......
 P.O. 14 DE AGOSTO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
