@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1997-07-31"
+last_updated: "1997-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 1997.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -3659,9 +3659,7 @@ Las actas del Registro Civil se asentarán en las formas especiales que elabore 
 
 > <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 1960)</small>
 
-###### ARTICULO 656
-
-BIS
+ARTICULO 656 BIS
 
 Cuando el Ejecutivo del Estado lo estime necesario, podrá autorizar que los libros a que se refiere el artículo anterior, se lleven en varios volúmenes, numerados éstos progresivamente del uno en adelante, con sus respectivos duplicados y, con especificación, en todos ellos, del número del libro al que correspondan.
 
@@ -4487,21 +4485,33 @@ TITULO DECIMOTERCERO
 
 DEL PATRIMONIO DE LA FAMILIA
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ARTICULO 765
 
-Constituyen el patrimonio de familia:
+Pueden ser objeto del patrimonio de la familia cualesquiera de los siguientes bienes:
 
-I.- La casa habitación de la familia en todo caso;
+I.- La casa-habitación de la familia y los muebles de la misma, mencionados en el artículo 803;
 
-II.- En las rancherías, congregaciones y demás centros de población agrícola, cuando la mayoría de los miembros de la familia se dediquen a faenas de este orden, una parcela cultivable, cuya extensión no excederá de los siguientes límites: hasta de diez hectáreas en tierras de riego o humedad; hasta veinte hectáreas en tierras de temporal de primera clase; hasta treinta hectáreas en tierras de temporal de segunda clase; y hasta cincuenta hectáreas en tierras de otras clases.
+II.- Tratándose de familias campesinas, una parcela cultivable de: hasta diez hectáreas de tierras de riego o humedad; hasta veinte hectáreas de tierras de temporal de primera clase; hasta treinta hectáreas de tierras de temporal de segunda clase y hasta cincuenta hectáreas de tierras de otras clases. Asimismo, la maquinaria, aperos de labranza y bestias necesarias para el cultivo de la parcela;
+
+III.- Tratándose de familias obreras, el equipo de trabajo, considerándose como tal los instrumentos, aparatos y útiles directamente necesarios para el desempeño del oficio que los miembros de aquéllas practiquen;
+
+IV.- Tratándose de familias de la clase media popular, un pequeño comercio, siempre que sea trabajado personalmente por sus miembros;
+
+V.- Los derechos patrimoniales de socio en las sociedades cooperativas y mutualistas;
+
+VI.- El equipo de trabajo de los profesionales, considerándose como tal, los libros, aparatos, instrumentos y útiles estrictamente necesarios para el ejercicio de la profesión.
 
 ARTICULO 766
 
 La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ARTICULO 767
 
-Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Ese derecho es intransmisible; pero debe tenerse en cuenta lo dispuesto en el artículo 780.
+Tienen derecho de aprovechar los bienes afectos al patrimonio de la familia, o de beneficiarse con su constitución, todas las personas a quienes el que lo constituye debe dar alimentos.
 
 ARTICULO 768
 
@@ -4521,9 +4531,11 @@ ARTICULO 771
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ARTICULO 772
 
-El valor máximo de los bienes que constituyan el patrimonio de familia será de veinte mil pesos; pero podrá constituirse con bienes que tengan un valor inferior; pudiéndose ampliar aquél, hasta llegar al máximo fijado. La ampliación se sujetará al mismo procedimiento que la constitución.
+El valor máximo de los bienes que constituyan el patrimonio familiar, será el equivalente hasta por quince mil días de salario mínimo general fijado para la zona económica donde estén ubicados en la fecha en que se constituya el patrimonio.
 
 ARTICULO 773
 
@@ -4533,33 +4545,43 @@ I.- Con bienes de la propiedad del que lo constituye;
 
 II.- Con bienes que el Gobierno del Estado expropie, de conformidad con las leyes relativas.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ARTICULO 774
 
-En el caso de la fracción I del artículo anterior, el que quiera constituir el patrimonio de familia presentará ante el Presidente Municipal respectivo, un escrito en que consten los siguientes datos:
+En el caso de la fracción I del artículo anterior, el miembro de la familia que quiera constituir el patrimonio, acudirá en la vía de jurisdicción voluntaria ante el Juez de lo Civil competente por razón del domicilio y presentará una solicitud en la cual expresará:
 
-I.- Su nombre, domicilio y demás generales;
+I.- Su nombre, domicilio y demás datos generales;
 
-II.- Los nombre y demás generales de los miembros de la familia en cuyo favor se va a constituir el patrimonio;
+II.- Los nombres y datos generales de los miembros de la familia en cuyo favor va a constituir el patrimonio;
 
-III.- La designación precisa y detallada de los bienes que lo van a constituir;
+III.- La designación detallada y precisa de los bienes que lo van a constituir;
 
-IV.- La manifestación expresa y categórica que haga el ocursante, de ser su voluntad constituir el patrimonio de familia, en favor de las personas que mencione, con los bienes que describa.
+IV.- La manifestación expresa y categórica que haga el promovente, de que es su voluntad constituir el patrimonio de familia en favor de las personas que menciona y con los bienes que describa en su solicitud.
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ARTICULO 775
 
-Con el ocurso a que se refiere el artículo anterior, se exhibirán los instrumentos o documentos que justifiquen los siguientes puntos:
+Con la solicitud mencionada en el artículo anterior, se acompañarán las pruebas documentales públicas o privadas idóneas para justificar:
 
-I.- Que el que va a constituir el patrimonio de familia es mayor de edad, o está emancipado o habilitado de edad;
+I. Que el solicitante es mayor de edad o emancipado.
 
-II.- Que los miembros de la familia a cuyo favor se va a constituir el patrimonio tienen con el ocursante el parentesco que menciona el artículo 767;
+II. Que los bienes afectos al patrimonio están ubicados en el mismo lugar donde se halla el domicilio de la familia.
 
-III.- Que los bienes con los que se va a constituir el patrimonio, son de la propiedad del ocursante y están ubicados en el Municipio del domicilio de la familia;
+III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas de estado civil pertinentes.
 
-IV.- Que los propios bienes no reportan gravámenes por hipoteca ni embargo, y su valor no excede del límite que fija el artículo 772, sumado, en su caso, al de patrimonios anteriores en favor de la misma familia.
+IV. Avalúo pericial formulado por una o más personas morales o físicas, autorizadas legalmente para practicar este tipo de dictámenes, a fin de establecer que el valor comercial de los bienes afectos al patrimonio de familia no excede el fijado en el artículo 772.
+
+V. Que los bienes susodichos no reportan gravámenes por hipoteca o embargo.
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ARTICULO 776
 
-El Presidente Municipal que reciba la solicitud, examinará ésta y los documentos que la acompañen, pudiendo hacer al interesado las indicaciones necesarias para que presente los documentos que hubiere omitido, hasta que queden satisfechos todos los requisitos fijados en los artículos anteriores. Tan pronto como se haya cumplido con tales requisitos, el Presidente Municipal remitirá el expediente original al Gobierno del Estado, el cual lo revisará, haciendo a su vez las indicaciones que sean necesarias; y una vez satisfechas las disposiciones relativas, el Gobernador del Estado pronunciará resolución aprobando la constitución del patrimonio para todos los efectos de ley. En esta resolución se designarán con toda precisión los bienes que constituyan el patrimonio, y se indicarán los nombres de los miembros de la familia en cuyo favor se hace la constitución; y se enviará una copia auténtica de la resolución al Encargado del Registro Público correspondiente para que haga la inscripción de aquélla en el libro especial que deberá llevar al efecto, anotándose la misma resolución al margen de las inscripciones relativas a los bienes que constituyan el patrimonio.
+El juez que reciba la solicitud, examinará ésta y las pruebas que la acompañen, pudiendo hacer al interesado las indicaciones necesarias para que sean satisfechos los requisitos señalados en los dos artículos precedentes.
+
+Dictada la resolución aprobatoria de la constitución del patrimonio de la familia, en la cual quedarán precisados los bienes que lo integrarán, y los nombres de los miembros de la familia en cuyo favor se hace tal constitución, el juez enviará copia certificada de su resolución al encargado del Registro Público de la Propiedad para que la inscriba y haga las anotaciones como corresponda según la ley.
 
 ARTICULO 777
 
@@ -4573,9 +4595,11 @@ ARTICULO 779
 
 La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ARTICULO 780
 
-Constituído el patrimonio de la familia, ésta tiene obligación de habitar la casa y de cultivar la parcela. La primera autoridad municipal del lugar en que esté constituído el patrimonio puede por justa causa, autorizar para que se dé en arrendamiento o aparcería, hasta por un año.
+Constituido el patrimonio de la familia, ésta tiene la obligación de habitar la casa, cultivar la parcela, ejercer el oficio o explotar el pequeño negocio a que se refiere el artículo 765. El juez de lo civil competente, del lugar en que esté constituido el patrimonio puede, por justa causa, autorizar para que se dé en arrendamiento la casa o en aparcería la parcela, hasta por el término de un año.
 
 ARTICULO 781
 
@@ -4613,17 +4637,19 @@ I.- Cuando se demuestre que su disminución es de gran necesidad o de notoria ut
 
 II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un ciento por ciento el valor máximo que puede tener conforme al artículo 772.
 
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
 ARTICULO 786
 
-En el caso del artículo anterior, la reducción será aprobada por el Gobernador del Estado, previa comprobación que ante él se haga, por cualquier interesado, de que se está en alguno de los casos que dicho artículo señala. La resolución respectiva se comunicará al Encargado del Registro Público para que haga las cancelaciones parciales o anotaciones que correspondan.
+En el caso del artículo anterior, la reducción será aprobada por el Juez de lo Civil competente, previa comprobación que ante él se haga por cualquier interesado, de estar en alguno de los casos señalados en dicho precepto. La resolución respectiva se comunicará al encargado del Registro Público para que haga las cancelaciones parciales o las anotaciones correspondientes.
 
-(REFORMADO, G.O. 10 DE JULIO DE 1971) (F. DE E., G.O. 27 DE ENERO DE 1973) (F. DE E., G.O. 6 DE FEBRERO DE 1973)
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ARTICULO 787
 
-Se equipararán al patrimonio familiar, los solares y casas que sobre ellos se construyan, adquiridos en propiedad por los trabajadores en cumplimiento de las disposiciones contenidas en el Título Cuarto, Capítulo III, de la Ley Federal del Trabajo y por lo tanto, serán intransmisibles y no estarán sujetos a embargo ni gravamen alguno; salvo los gravámenes normales que ocasione el financiamiento respectivo; siempre y cuando los trabajadores voluntariamente y en forma individual soliciten al Ejecutivo del Estado, que su propiedad quede sujeta a este régimen y el gobernador lo autorice, debiendo comunicar oficiosamente su resolución al Registro Público de la Propiedad para su inscripción y anotación marginal de la inscripción del Título de Propiedad; la autorización surtirá efectos, aún cuando las casas se encuentren en proceso de construcción y dejará de surtirlos, si el contrato por el cual adquiere la propiedad el trabajador, es invalidado.
+Se equipararán al patrimonio familiar, los solares y casas que sobre ellos se construyan, adquiridos en propiedad por los trabajadores en cumplimiento de las disposiciones contenidas en el título cuarto, capítulo III, de la Ley Federal del Trabajo y por lo tanto, serán intransmisibles y no estarán sujetos a embargo ni gravamen alguno, salvo los gravámenes normales derivados del financiamiento obtenido para la adquisición, siempre y cuando los trabajadores, individual y voluntariamente, acudan ante el juez de lo civil competente para que declare que la propiedad sobre dichos solares y casas queda sujeta al régimen del patrimonio de familia. La autorización judicial traerá como consecuencia inmediata, que se comunique por oficio al encargado del Registro Público de la Propiedad para su inscripción y anotación marginal de la inscripción del título de dominio respectivo, precisándose que la autorización surtirá efectos aun cuando las casas se hallen en proceso de construcción pero, dejará de surtirlos, si el contrato por el cual el trabajador adquirió la propiedad, es invalidado por sentencia judicial ejecutoria.
 
-A juicio del Ejecutivo y por causas de extrema necesidad plenamente justificadas, el Gobernador del Estado podrá autorizar la transmisión o gravamen de los inmuebles a que este precepto se refiere, teniendo preferencia para adquirirlos quien sea obrero sin casa-habitación, de la misma empresa en que preste o haya prestado servicios quien se sometió a este régimen y se obligue en los mismos términos.
+En caso de necesidad extrema comprobada, el juez puede autorizar la transmisión o gravamen de los inmuebles a que este precepto se refiere, teniendo preferencia para adquirirlos quien sea obrero sin casa-habitación, de la misma empresa en que preste o haya prestado servicio quien se sometió a este régimen y se obligue en los mismos términos.
 
 ### CAPITULO II. De los bienes muebles
 
@@ -4807,7 +4833,7 @@ La propiedad puede ser ocupada contra la voluntad de su dueño, por causa de uti
 
 ARTICULO 872
 
-Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que en seguida (sic) se enumeran:
+Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que en seguida se enumeran:
 
 I.- Fraccionamiento de latifundios propios para la agricultura o la ganadería;
 
@@ -8951,7 +8977,7 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 ARTICULO 1700
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
+Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida la partición de la herencia.
 
 ARTICULO 1701
 
@@ -9394,6 +9420,50 @@ Los contratos que no estén especialmente reglamentados en este Código, se regi
 ARTICULO 1792
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se oponga a la naturaleza de éstos o a disposiciones especiales de la ley sobre los mismos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+### CAPITULO X-BIS. De la imprevisión en los contratos
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 1792 A
+
+En los contratos bilaterales con prestaciones periódicas o continuas, así como en los contratos unilaterales, el consentimiento se entiende otorgado en las condiciones y circunstancias generales existentes en el momento de su celebración, salvo aquellos que aparezcan celebrados con carácter aleatorio.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 1792 B
+
+Cuando en cualquier momento del cumplimiento de los contratos a que se refiere el artículo anterior, cambien las condiciones y circunstancias generales, existentes en el momento de su celebración por acontecimientos extraordinarios que no se pudieron razonablemente prever por las partes, y que de llevarse adelante los términos de la convención resulten las prestaciones excesivamente onerosas para una de las partes y notoriamente favorable para la otra, en estos casos el contrato deberá ser modificado por el juez a petición de parte, conforme a la buena fe, a la mayor reciprocidad y a la equidad de intereses, y en caso de ser imposible aquello, podrá determinar que se extingan sus efectos.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 1792 C
+
+La terminación del contrato o la modificación equitativa en la forma y modalidad de la ejecución, no se aplicará a las prestaciones realizadas antes de que surgiera el acontecimiento extraordinario sino sólo se aplicará a las prestaciones cubiertas o por cubrir con posterioridad a éste.
+
+En estos casos la parte que haya obtenido la terminación o la modificación del contrato deberá compensar a la otra por mitad, el importe de los menoscabos que sufriere por no haberse ejecutado el contrato en las condiciones inicialmente pactadas.
+
+Las resoluciones judiciales que en este caso se dicten admitirán el recurso de apelación en ambos efectos.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 1792 D
+
+Sólo se consideran como acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevienen por hechos o circunstancias que alteran la situación económica del país, de tal manera que de haberlas sabido el deudor no habría pactado en la forma que lo hizo, o no hubiera pactado.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 1792 E
+
+La prescripción de las acciones anteriores, será igual al término que concede la ley para el ejercicio de la acción de cumplimiento o rescisión para cualquiera de las partes, según el contrato de que se trate.
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 1997)</small>
+
+ARTICULO 1792 F
+
+Para que tengan aplicación los artículos que preceden, el cumplimiento parcial o total del contrato, deberá estar pendiente por la causa o acontecimiento extraordinario señalado, y no por la culpa o mora del obligado.
 
 ### CAPITULO XI. De la declaración unilateral de la voluntad
 
@@ -10225,6 +10295,8 @@ ARTICULO 1961
 
 El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
 
+## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
+
 ### CAPITULO I. De la cesión de derechos
 
 ARTICULO 1962
@@ -10326,8 +10398,6 @@ El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado 
 ARTICULO 1983
 
 Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
-
-## TITULO SEGUNDO. MODALIDADES DE LAS OBLIGACIONES
 
 ### CAPITULO II. De la cesión de las deudas
 
@@ -10639,6 +10709,8 @@ ARTICULO 2051
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
 
+## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
+
 ### CAPITULO II. De la evicción y saneamiento
 
 ARTICULO 2052
@@ -10849,8 +10921,6 @@ SUBTITULO SEGUNDO
 
 EFECTOS DE LAS OBLIGACIONES CON RELACION A TERCERO
 
-## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
-
 ### CAPITULO I. De los actos celebrados en fraude de los acreedores
 
 ARTICULO 2096
@@ -10944,6 +11014,14 @@ ARTICULO 2117
 Luego que se anule un acto simulado, se restituirá la cosa o derecho a quien pertenezca, con sus frutos e intereses, si los hubiere; pero si la cosa o derecho ha pasado a título oneroso a un tercero de buena fe, no habrá lugar a la restitución.
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
+
+## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
+
+SUBTITULO PRIMERO
+
+EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
+
+A).- Cumplimiento de las obligaciones
 
 ### CAPITULO I. De la compensación
 
@@ -11046,14 +11124,6 @@ Las deudas pagaderas en diferente lugar, pueden compensarse mediante indemnizaci
 ARTICULO 2138
 
 La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
-
-## TITULO CUARTO. EFECTOS DE LAS OBLIGACIONES
-
-SUBTITULO PRIMERO
-
-EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
-
-A).- Cumplimiento de las obligaciones
 
 ### CAPITULO II. De la confusión de derechos
 
@@ -11243,6 +11313,8 @@ ARTICULO 2206
 
 Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
 
+## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
+
 ### CAPITULO III. De los que pueden vender y comprar
 
 ARTICULO 2207
@@ -11292,8 +11364,6 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 ARTICULO 2215
 
 Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
-
-## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
 ### CAPITULO IV. De las obligaciones del vendedor
 
@@ -11390,90 +11460,6 @@ Cuando el comprador a plazo o con espera del precio, fuere perturbado en su pose
 ARTICULO 2233
 
 La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1883 y 1884.
-
-### CAPITULO VII. De algunas modalidades del contrato de compra-venta
-
-ARTICULO 2234
-
-Puede pactarse que la cosa comprada no se venda a determinada persona; pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
-
-ARTICULO 2235
-
-Queda prohibida la venta con pacto de retroventa, así como la promesa de venta de un bien raíz que haya sido objeto de una compra-venta entre los mismos contratantes.
-
-ARTICULO 2236
-
-Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender la cosa que fue objeto del contrato de compra-venta.
-
-ARTICULO 2237
-
-El vendedor está obligado a ejercer su derecho de preferencia, dentro de tres días, si la cosa fuere mueble, después que el comprador le hubiese hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si la cosa fuere inmueble, tendrá el término de diez días para ejercer el derecho, bajo la misma pena. En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
-
-ARTICULO 2238
-
-Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, lo que ofrezcan por la cosa, y si ésta se vendiere sin dar aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
-
-ARTICULO 2239
-
-Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
-
-ARTICULO 2240
-
-Cuando el objeto sobre que se tiene derecho de preferencia se venda en subasta pública, debe hacerse saber al que goza de ese derecho, el día, hora y el lugar en que se verificará el remate.
-
-ARTICULO 2241
-
-El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los herederos del que los disfrute.
-
-ARTICULO 2242
-
-Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
-
-ARTICULO 2243
-
-La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
-
-I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos, ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
-
-II.- Si se trata de bienes muebles tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
-
-III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
-
-ARTICULO 2244
-
-El comprador podrá enajenar o gravar la parte proporcional que le corresponde en el derecho a la cosa por haber pagado parte del precio de ella.
-
-Podrá igualmente transferir sus derechos a quien se obligue a pagar el resto del precio, salvo que en tal caso el vendedor prefiera rescindir la venta.
-
-ARTICULO 2245
-
-Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
-
-El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
-
-Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
-
-ARTICULO 2246
-
-Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
-
-Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2243, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
-
-ARTICULO 2247
-
-No habiendo pacto expreso de reserva de la propiedad de la cosa vendida hasta que se pague totalmente el precio de ella, el comprador se hará dueño de la cosa, pero no podrá enajenarla ni gravarla mientras no pague su precio en totalidad. Esta limitación del dominio podrá hacerse anotar al margen de la inscripción de venta respectiva.
-
-ARTICULO 2248
-
-El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esa limitación de dominio.
-
-ARTICULO 2249
-
-Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, se aplicará lo que dispone el artículo 2245.
-
-ARTICULO 2250
-
-En la venta de que habla el artículo 2246, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
 ## TITULO SEXTO. DE LA INEXISTENCIA Y DE LA NULIDAD
 
@@ -11580,6 +11566,90 @@ ARTICULO 2180
 Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. DE LA COMPRA-VENTA
+
+### CAPITULO VII. De algunas modalidades del contrato de compra-venta
+
+ARTICULO 2234
+
+Puede pactarse que la cosa comprada no se venda a determinada persona; pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
+
+ARTICULO 2235
+
+Queda prohibida la venta con pacto de retroventa, así como la promesa de venta de un bien raíz que haya sido objeto de una compra-venta entre los mismos contratantes.
+
+ARTICULO 2236
+
+Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender la cosa que fue objeto del contrato de compra-venta.
+
+ARTICULO 2237
+
+El vendedor está obligado a ejercer su derecho de preferencia, dentro de tres días, si la cosa fuere mueble, después que el comprador le hubiese hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si la cosa fuere inmueble, tendrá el término de diez días para ejercer el derecho, bajo la misma pena. En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
+
+ARTICULO 2238
+
+Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, lo que ofrezcan por la cosa, y si ésta se vendiere sin dar aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
+
+ARTICULO 2239
+
+Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término si no da las seguridades necesarias de que pagará el precio al expirar el plazo.
+
+ARTICULO 2240
+
+Cuando el objeto sobre que se tiene derecho de preferencia se venda en subasta pública, debe hacerse saber al que goza de ese derecho, el día, hora y el lugar en que se verificará el remate.
+
+ARTICULO 2241
+
+El derecho adquirido por el pacto de preferencia no puede cederse, ni pasa a los herederos del que los disfrute.
+
+ARTICULO 2242
+
+Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
+
+ARTICULO 2243
+
+La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
+
+I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos, ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
+
+II.- Si se trata de bienes muebles tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
+
+III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
+
+ARTICULO 2244
+
+El comprador podrá enajenar o gravar la parte proporcional que le corresponde en el derecho a la cosa por haber pagado parte del precio de ella.
+
+Podrá igualmente transferir sus derechos a quien se obligue a pagar el resto del precio, salvo que en tal caso el vendedor prefiera rescindir la venta.
+
+ARTICULO 2245
+
+Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
+
+El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
+
+Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
+
+ARTICULO 2246
+
+Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
+
+Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2243, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
+
+ARTICULO 2247
+
+No habiendo pacto expreso de reserva de la propiedad de la cosa vendida hasta que se pague totalmente el precio de ella, el comprador se hará dueño de la cosa, pero no podrá enajenarla ni gravarla mientras no pague su precio en totalidad. Esta limitación del dominio podrá hacerse anotar al margen de la inscripción de venta respectiva.
+
+ARTICULO 2248
+
+El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esa limitación de dominio.
+
+ARTICULO 2249
+
+Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, se aplicará lo que dispone el artículo 2245.
+
+ARTICULO 2250
+
+En la venta de que habla el artículo 2246, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
 ### CAPITULO VIII. De la forma del contrato de compra-venta
 
@@ -12011,6 +12081,28 @@ ARTICULO 2344
 
 Los arrendamientos de bienes municipales, del Estado o de organismos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este Título.
 
+## TITULO TERCERO. DE LA PERMUTA
+
+ARTICULO 2262
+
+La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2183.
+
+ARTICULO 2263
+
+Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ARTICULO 2264
+
+El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+Lo dispuesto en este artículo no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame al que sufrió la evicción.
+
+ARTICULO 2265
+
+Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. DE LAS DONACIONES
+
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
 ARTICULO 2345
@@ -12090,28 +12182,6 @@ III.- Cuando el contrato fuere por tiempo indeterminado y antes de que transcurr
 ARTICULO 2357
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
-
-## TITULO TERCERO. DE LA PERMUTA
-
-ARTICULO 2262
-
-La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2183.
-
-ARTICULO 2263
-
-Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ARTICULO 2264
-
-El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-Lo dispuesto en este artículo no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame al que sufrió la evicción.
-
-ARTICULO 2265
-
-Son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. DE LAS DONACIONES
 
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
@@ -12261,6 +12331,8 @@ ARTICULO 2386
 
 Las disposiciones de este Capítulo y de este Título, no se aplicarán a los casos previstos por la Ley de Inquilinato y las leyes similares que se expidan en el Estado con propósitos de protección proletaria, o atendiendo motivos de interés público o social; los cuales seguirán rigiéndose por los preceptos de aquélla legislación especial.
 
+## TITULO QUINTO. DEL MUTUO
+
 ### CAPITULO V. Del arrendamiento de fincas rústicas
 
 ARTICULO 2387
@@ -12290,8 +12362,6 @@ El permiso a que se refiere este artículo, no será obligatorio, sino en el per
 ARTICULO 2391
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
-
-## TITULO QUINTO. DEL MUTUO
 
 ### CAPITULO VI. Del arrendamiento de bienes muebles
 
@@ -12371,6 +12441,8 @@ ARTICULO 2410
 
 Lo dispuesto en el artículo 2398, es aplicable a los aperos de la finca arrendada.
 
+## TITULO SEXTO. DEL ARRENDAMIENTO
+
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
 > <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1980)</small>
@@ -12390,8 +12462,6 @@ Si el bien arrendado es rústico deberá observarse lo dispuesto en los artícul
 ARTICULO 2412
 
 Dado el aviso, el arrendatario del predio urbano está obligado en los dos últimos meses del término a que se refiere el artículo anterior a poner cédulas y a mostrar el interior de la casa a los que pretendan rentarla.
-
-## TITULO SEXTO. DEL ARRENDAMIENTO
 
 ### CAPITULO VIII. Del subarriendo
 
@@ -12829,6 +12899,86 @@ ARTICULO 2517
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra de éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
 
+## TITULO SEPTIMO. DEL COMODATO
+
+ARTICULO 2430
+
+El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ARTICULO 2431
+
+Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
+
+ARTICULO 2432
+
+Los tutores, curadores y en general todos los administradores de bienes ajenos no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ARTICULO 2433
+
+Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ARTICULO 2434
+
+El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ARTICULO 2435
+
+El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ARTICULO 2436
+
+Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ARTICULO 2437
+
+El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+ARTICULO 2438
+
+Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ARTICULO 2439
+
+Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
+
+ARTICULO 2440
+
+Si la cosa se deteriora por el solo efecto del uso para que fue prestada y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ARTICULO 2441
+
+El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ARTICULO 2442
+
+Tampoco tiene derecho el comodatario para retener la cosa, a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ARTICULO 2443
+
+Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ARTICULO 2444
+
+Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+ARTICULO 2445
+
+El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ARTICULO 2446
+
+Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ARTICULO 2447
+
+Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comandante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ARTICULO 2448
+
+El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
+
 ### CAPITULO V. Del mandato judicial
 
 ARTICULO 2518
@@ -12913,86 +13063,6 @@ ARTICULO 2527
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-## TITULO SEPTIMO. DEL COMODATO
-
-ARTICULO 2430
-
-El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ARTICULO 2431
-
-Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituídas idénticamente.
-
-ARTICULO 2432
-
-Los tutores, curadores y en general todos los administradores de bienes ajenos no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ARTICULO 2433
-
-Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ARTICULO 2434
-
-El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ARTICULO 2435
-
-El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ARTICULO 2436
-
-Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ARTICULO 2437
-
-El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-ARTICULO 2438
-
-Si la cosa perece por caso fortuito, de que el comodatario haya podido garantirla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ARTICULO 2439
-
-Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio, si no hay convenio expreso en contrario.
-
-ARTICULO 2440
-
-Si la cosa se deteriora por el solo efecto del uso para que fue prestada y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ARTICULO 2441
-
-El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ARTICULO 2442
-
-Tampoco tiene derecho el comodatario para retener la cosa, a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ARTICULO 2443
-
-Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ARTICULO 2444
-
-Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ARTICULO 2445
-
-El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ARTICULO 2446
-
-Si durante préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ARTICULO 2447
-
-Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comandante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ARTICULO 2448
-
-El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
-
 ### CAPITULO VI. De los diversos modos de terminar el mandato
 
 ARTICULO 2528
@@ -13053,6 +13123,8 @@ ARTICULO 2537
 
 Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2530.
 
+## TITULO NOVENO. DEL MANDATO
+
 ### CAPITULO I
 
 Del servicio doméstico, del servicio por jornal, del servicio a precio alzado en el que el operario sólo pone su trabajo y del contrato de aprendizaje.
@@ -13060,8 +13132,6 @@ Del servicio doméstico, del servicio por jornal, del servicio a precio alzado e
 ARTICULO 2538
 
 El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo y el contrato de aprendizaje, se regirán por lo dispuesto en la Constitución Federal y en las leyes federales sobre trabajo; y sólo supletoriamente por los preceptos aplicables de este Código, a la naturaleza contractual de aquellos servicios.
-
-## TITULO NOVENO. DEL MANDATO
 
 ### CAPITULO II. De la prestación de servicios profesionales
 
@@ -13455,6 +13525,8 @@ SUBTITULO SEGUNDO
 
 DE LAS SOCIEDADES
 
+## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
+
 ### CAPITULO I. Disposiciones generales
 
 ARTICULO 2621
@@ -13526,8 +13598,6 @@ La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo
 ARTICULO 2634
 
 No quedan comprendidas en este Título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
-
-## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
 ### CAPITULO II. De los socios
 
@@ -15065,6 +15135,8 @@ ARTICULO 2929
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
+## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
+
 ### CAPITULO VII. Acreedores de cuarta clase
 
 ARTICULO 2930
@@ -15074,8 +15146,6 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 ARTICULO 2931
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
-
-## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
 ### CAPITULO I. De las oficinas del registro
 
@@ -15424,46 +15494,6 @@ Las cancelaciones se harán en la forma que fije el reglamento; pero deberán co
 ARTICULO 2977
 
 Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscripto, sino también cuando esa inscripción se convierta en definitiva.
-
-### CAPITULO V. De las inscripciones de posesión
-
-ARTICULO 2957
-
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscriptos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles, de acuerdo con las reglas siguientes:
-
-I.- La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en las fracciones I, II, III y IV del artículo anterior;
-
-II.- Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que debe tener para servir de base a la prescripción adquisitiva, y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscripta como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la misma inscripción.
-
-ARTICULO 2958
-
-Las inscripciones de posesión expresarán las circunstancias exigidas por las inscripciones en general y además las siguientes:
-
-I.- Los nombres y generales de los testigos que hayan declarado en el negocio;
-
-II.- El resultado de las declaraciones en relación con los puntos de testimonio fijados en la fracción II del artículo anterior;
-
-III.- La parte resolutiva de la sentencia que ordenó la inscripción, la fecha de ella, y el Juez o Tribunal que la haya pronunciado.
-
-ARTICULO 2959
-
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluído y aprobado, deberá el juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviese hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
-
-Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
-
-ARTICULO 2960
-
-Transcurrido el plazo fijado en la parte final del artículo 2957, sin que en el Registro aparezca algún asiento que contradiga la posesión inscripta, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción, y ordene que se haga en el Registro la inscripción de dominio correspondiente.
-
-ARTICULO 2961
-
-No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni el derecho hipotecario.
-
-Tampoco podrá inscribirse mediante información posesoria ningún derecho real sobre inmuebles, que por su naturaleza sólo pueda tener origen y subsistencia a través de un proceso contractual sinalagmático.
 
 ## TITULO SEGUNDO. DEL REGISTRO PUBLICO
 
@@ -15828,3 +15858,7 @@ La presente ley entrará en vigor al día siguiente de su publicación en la "Ga
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones de esta ley, no se aplicarán a los créditos hipotecarios contratados antes de la entrada en vigor de la misma.
+
+G.O. 15 DE NOVIEMBRE DE 1997.
+
+Único. Esta ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
