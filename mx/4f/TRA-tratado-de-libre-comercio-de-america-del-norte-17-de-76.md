@@ -4,7 +4,7 @@ identifier: "TRA-tratado-de-libre-comercio-de-america-del-norte-17-de-76"
 country: "mx"
 rank: "tratado"
 publication_date: "1993-12-08"
-last_updated: "2000-03-01"
+last_updated: "2004-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,33 +19,19 @@ issue_date: "1993-12-07"
 ---
 # TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (17 DE DICIEMBRE DE 1992)
 
-ACUERDO POR EL QUE SE DAN A CONOCER EL ANEXO 401 Y EL ANEXO 403.1 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+MODIFICACIONES AL ANEXO 401 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Modificaciones publicadas en el Diario Oficial de la Federación, el miércoles 1 de marzo de 2000.
+Modificaciones publicadas en el Diario Oficial de la Federación, el miércoles 14 de julio de 2004.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracción XXX de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
+VICENTE FOX QUESADA, PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS, a sus habitantes, sabed:
 
-CONSIDERANDO
+El veintisiete de noviembre y tres de diciembre de dos mil dos, y el diecisiete de septiembre de dos mil tres, se adoptaron en las ciudades de Washington, D.C., Ottawa y México, las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, cuyo texto en español consta en la copia certificada adjunta.
 
-Que la Convención Internacional por la que se establece el Sistema Armonizado de Designación y Codificación de las Mercancías, del cual son parte los Estados Unidos Mexicanos, los Estados Unidos de América y Canadá, establece una nomenclatura común para agilizar los trámites aduaneros y facilitar el intercambio comercial internacional;
+Las Modificaciones mencionadas fueron aprobadas por la Cámara de Senadores del Honorable Congreso de la Unión, el veintinueve de abril de dos mil cuatro, según decreto publicado en el Diario Oficial de la Federación del veintiocho de mayo del propio año.
 
-Que el Tratado de Libre Comercio de América del Norte establece en su capítulo IV denominado "Reglas de origen", los principios generales que regulan las disciplinas para conferir origen a los bienes a efecto de que puedan beneficiarse del trato arancelario preferencial establecido en el propio Tratado;
-
-Que los anexos 401 y 403.1 del Tratado de Libre Comercio de América del Norte han sido redactados con base en la nomenclatura del Sistema Armonizado de Designación y Codificación de las Mercancías, por lo que las modificaciones a éste inciden directamente en las reglas de origen;
-
-Que el 27 de marzo de 1996 y el 14 de abril de 1997, se publicaron en el Diario Oficial de la Federación los cambios de los anexos antes mencionados del Tratado de Libre Comercio de América del Norte conforme al Sistema Armonizado de Designación y Codificación de las Mercancías, así como las correcciones a los anexos de referencia, respectivamente;
-
-Que las Partes del Tratado de Libre Comercio de América del Norte han acordado crear un nuevo formato que permita hacer cambios a las fracciones arancelarias de cada país de manera sencilla y clara, así como ajustar en un solo documento todas las modificaciones llevadas a cabo a los anexos de referencia;
-
-Que correspondió al Grupo de Trabajo de Reglas de Origen, establecido de conformidad con el párrafo 1 del artículo 513 del Tratado de Libre Comercio de América del Norte, llevar a cabo el trabajo técnico pertinente, para proponer a la Comisión de Libre Comercio las adecuaciones a los anexos de referencia;
-
-Que en cumplimiento a lo que dispone el artículo 6 de la Ley de Comercio Exterior, se sometieron a la Comisión de Comercio Exterior las modificaciones propuestas por esta Secretaría, y
-
-Que la Comisión de Libre Comercio del Tratado de Libre Comercio de América del Norte, establecida conforme a lo previsto en el artículo 2001 del propio Tratado, acordó mediante intercambio de cartas, que las Partes adopten las adecuaciones a los anexos 401 y 403.1, derivadas de las modificaciones al Sistema Armonizado de Codificación y Designación de Mercancías y a los cambios a la Tarifa de la Ley del Impuesto General de Importación, he tenido a bien expedir el siguiente
-
-ACUERDO POR EL QUE SE DAN A CONOCER EL ANEXO 401 Y EL ANEXO 403.1 DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, SEGUN ACUERDO DE LA COMISION DE LIBRE COMERCIO DEL PROPIO TRATADO
+Por lo tanto, para su debida observancia, en cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, promulgo el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, el veinticinco de junio de dos mil cuatro.
 
 ###### ARTICULO UNICO.
 
@@ -95,9 +81,107 @@ Sección B - Reglas de Origen Específicas
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de marzo de 2000.
+UNICO.- El presente Decreto entrará en vigor el quince de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario del Despacho de Relaciones Exteriores, Luis Ernesto Derbez Bautista.- Rúbrica.
 
-México, D.F., a 25 de febrero de 2000.- Con fundamento en el artículo 42 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial y por ausencia del titular de esta Secretaría, firma el Subsecretario de Negociaciones Comerciales Internacionales, Luis de la Calle Pardo.- Rúbrica.
+TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE
+
+Adecuaciones Propuestas al Anexo 401
+
+22.03-22.09: Eliminar la partida 22.03-22.09 y la regla de origen aplicable para las mismas y reemplazar con lo siguiente:
+
+22.03-22.07 Un cambio a la partida 22.03 a 22.07 de cualquier partida fuera del grupo, excepto de la fracción arancelaria 2106.90.ee o partida 22.08 a 22.09.
+
+2208.20 Un cambio a la subpartida 2208.20 de cualquier otra partida, excepto de la fracción arancelaria 2106.90.ee o partida 22.03 a 22.07 o 22.09.
+
+2208.30-2208.70 No se requiere cambio de clasificación arancelaria a la subpartida 2208.30 a 2208.70, siempre que los ingredientes alcohólicos no originarios no constituyan más del 10 por ciento del contenido alcohólico del volumen del bien.
+
+2208.90 Un cambio a la subpartida 2208.90 de cualquier otra partida, excepto de la fracción arancelaria
+
+2106.90.ee o partida 22.03 a 22.07 o 22.09.
+
+22.09 Un cambio a la partida 22.09 de cualquier otra partida, excepto de la fracción arancelaria 2106.90.ee o partida 22.03 a 22.08.
+
+27.10-27.15: Eliminar la partida 27.10-27.15 y la regla de origen aplicable para las mismas y reemplazar con lo siguiente:
+
+27.10 Un cambio a la partida 27.10 de cualquier otra partida, excepto de la partida 27.11 a 27.15; o
+
+Producción de cualquier bien de la partida 27.10 como resultado de la destilación atmosférica, destilación al vacío, hidroprocesamiento catalítico, reformado catalítico, alquilación, craqueo catalítico, craqueo térmico, coqueo o isomerización.
+
+27.11-27.15 Un cambio a la partida 27.11 a 27.15 de cualquier otra partida fuera del grupo, excepto de la partida 27.10.
+
+Inmediatamente después del Capítulo 27 y su título, insertar la siguiente nota para el capítulo:
+
+Nota: Para efectos de la partida 27.10, los siguientes procesos otorgan origen:
+
+(a) Destilación atmosférica - Proceso de separación en el cual el petróleo es convertido, en una torre de destilación, en fracciones de acuerdo al punto de ebullición, posteriormente los vapores son condensados en diferentes fracciones líquidas, gas licuado de petróleo, nafta, gasolina, queroseno, diesel (aceite para calentamiento), gasóleos ligeros, y bases para lubricantes son producidos por medio de la destilación atmosférica de petróleo;
+
+(b) Destilación al vacío - Destilación a presión por debajo de la atmosférica, pero no tan baja para ser considerada como destilación molecular. La destilación al vacío es utilizada para destilar productos sensibles al calor, con puntos de ebullición altos, tales como los destilados pesados contenidos en el petróleo de los cuales se obtienen gasóleos ligeros y pesados de vacío y residuos. En algunas refinerías, los gasóleos pueden ser posteriormente procesados para obtener bases para aceites lubricantes;
+
+(c) Hidroprocesamiento catalítico - El craqueo y/o tratamiento derivados de petróleo con hidrógeno a altas temperaturas y presión, con la presencia de catalizadores especiales.
+
+Hidroprocesamiento catalítico incluye el craqueo con hidrógeno e hidrotratamiento;
+
+(d) Reformado (reformado catalítico) - Consiste en el rearreglo de moléculas en un rango de ebullición de las naftas para formar aromáticos de mayor octano (por ejemplo mejorando la calidad antidetonante a expensas del rendimiento en gasolinas). Uno de los productos principales es el reformado catalítico, utilizado como componente de la mezcla para gasolina.
+
+En este proceso se obtiene hidrógeno como subproducto;
+
+(e) Alquilación - proceso mediante el cual se obtienen gasolinas de alto octanaje para la combinación catalítica de una isoparafina y una oleofina;
+
+(f) Craqueo - proceso de refinación que involucra la descomposición y recombinación molecular de compuestos orgánicos por medio de calor, los que se combinan para formar moléculas más adecuadas para constituir combustibles para motores, monómeros, etc.;
+
+(i) Craqueo térmico - Se someten los hidrocarburos líquidos destilados, a temperaturas elevadas de 540-650C (1000-1200F) por períodos variados de tiempo, el proceso produce menores cantidades de gasolina y en mayor proporción altos rendimientos de destilados intermedios (querosina y diesel) y residuales que mezclados son utilizados como combustibles para calentamiento.
+
+(ii) Craqueo catalítico - Los hidrocarburos en fase de vapor se hacen pasar por un lecho de catalizador metálico (sílice-alúmina o platino) a temperaturas de aproximadamente 400°C (750°F), donde ocurren en segundos, complejas recombinaciones moleculares, para producir gasolinas de mayor octano, gas licuado de petróleo (GLP), olefinas e hidrocarburos residuales. En este proceso se producen en menor cantidad hidrocarburos residuales y ligeros en comparación con el craqueo térmico;
+
+(g) Coqueo - Proceso de craqueo térmico en el que los hidrocarburos residuales pesados de poco valor económico, tales como: crudo reducido, residuo de craqueo, alquitrán, y aceite de esquistos, se convierten por efecto de altas temperaturas, en carbón, obteniéndose también fracciones de hidrocarburos de menores temperaturas de ebullición, los cuales son preparados para ser utilizados como insumos de otras unidades de proceso en las refinerías, para convertirse finalmente en productos de mayor valor agregado; y
+
+(h) Isomerización - Proceso de refinación de petróleo en el que se convierten los hidrocarburos con estructura molecular iso en sus correspondientes isómeros.
+
+2905.11-2905.45, 2905.49: Eliminar las subpartidas 2905.11-2905.45 y 2905.49, y fracción arancelaria 2905.49.aa y las reglas de origen aplicables a las mismas y reemplazar con lo siguiente:
+
+2905.11-2905.49 Un cambio a la subpartida 2905.11 a 2905.49 de cualquier otra subpartida, incluyendo otra subpartida dentro del grupo.
+
+71.13-71.18: Eliminar la Nota y regla de origen aplicable a la partida 71.13-71.18 y reemplazar con lo siguiente:
+
+71.13-71.18 Un cambio a la partida 71.13 a 71.18 de cualquier otra partida fuera del grupo.
+
+8518.30: Eliminar las reglas de origen aplicables a la subpartida 8518.30 y reemplazar con lo siguiente:
+
+8518.30
+
+8518.30.aa Un cambio a la fracción arancelaria 8518.30.aa de cualquier otra fracción arancelaria.
+
+8518.30 Un cambio a la subpartida 8518.30 de cualquier otra partida; o
+
+Un cambio a la subpartida 8518.30 de la subpartida 8518.10, 8518.29 o 8518.90, habiendo o no cambios de cualquier otra partida, cumpliendo con un contenido regional no menor a:
+
+(a) 60 por ciento, cuando se utilice el método de valor de transacción, o
+
+(b) 50 por ciento, cuando se utilice el método de costo neto.
+
+87.06: Eliminar las reglas de origen aplicables a la fracción arancelaria 8706.00.aa y 8706.00.bb y reemplazar con lo siguiente:
+
+8706.00.aa Un cambio a la fracción arancelaria 8706.00.aa de cualquier otra partida, excepto de la subpartida 8708.50 o 8708.60, cumpliendo con un contenido regional no menor a 50 por ciento bajo el método de costo neto.
+
+8706.00.bb Un cambio a la fracción arancelaria 8706.00.bb de cualquier otra partida, excepto de la subpartida 8708.50 o 8708.60, cumpliendo con un contenido regional no menor a 50 por ciento bajo el método de costo neto.
+
+9009.91-9009.93, 9009.99: Eliminar las reglas de origen aplicables a la subpartida 9009.91-9009.93 y 9009.99 y reemplazar con lo siguiente:
+
+9009.91-9009.93 Un cambio a la subpartida 9009.91 a 9009.93 de cualquier subpartida fuera del grupo, excepto de la fracción arancelaria 9009.99.bb.
+
+9009.99
+
+9009.99.aa Un cambio a la fracción arancelaria 9009.99.aa de la subpartida 9009.91, 9009.92 o 9009.93, fracción arancelaria 9009.99.bb o cualquier otra partida, siempre que al menos uno de los componentes de cada ensamble listados en la Nota 3 del Capítulo 90 sea originario.
+
+9009.99 Un cambio a la subpartida 9009.99 de cualquier otra subpartida.
+
+ARTURO AQUILES DAGER GOMEZ, CONSULTOR JURIDICO DE LA SECRETARIA DE RELACIONES EXTERIORES.
+
+CERTIFICA:
+
+Que en los archivos de esta Secretaría obra el original correspondiente a México de las Modificaciones al Anexo 401 del Tratado de Libre Comercio de América del Norte, formalizadas mediante intercambio de comunicaciones los días veintisiete de noviembre de dos mil dos, tres de diciembre de dos mil dos y diecisiete de septiembre de dos mil tres, entre los Gobiernos de los Estados Unidos de América, Canadá y los Estados Unidos Mexicanos, respectivamente, cuyo texto en español es el siguiente:
+
+Extiendo la presente, en seis páginas útiles, en la Ciudad de México, Distrito Federal, el dos de junio de dos mil cuatro, a fin de incorporarla al Decreto de Promulgación respectivo.- Conste.- Rúbrica.
 
 ### Capítulo 1 Animales Vivos.. (VEASE ARCHIVO ANEXO)
 
