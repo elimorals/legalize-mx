@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1988-07-07"
+last_updated: "1988-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1988.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -664,7 +664,11 @@ XLVIII.- Legislar dentro del ámbito de su competencia sobre la materia de Asent
 
 XLIX.- Expedir las Leyes Orgánicas y la de División Territorial Municipal con sujeción a lo establecido por esta Constitución.
 
-L.- Las demás que expresamente le confiere esta Constitución.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1988)</small>
+
+L.- Expedir Leyes, en el ámbito de su competencia, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico, previendo la concurrencia con los Municipios y el Gobierno Federal.
+
+LI.- Las demás que expresamente le confiere esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -818,7 +822,7 @@ E.- Cuando lo pida el Ejecutivo del Estado.
 
 F.- Para conocer la legalidad de elecciones en todos los casos.
 
-VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito (sic) por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
+VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, subscrito por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días.
 
 VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el "quórum" legal, y llamar a los suplentes respectivos.
 
@@ -1061,6 +1065,10 @@ c).- Nombrar y remover libremente a los representantes del Gobierno a la Comisi�
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
 XXXIX (sic) .- El Gobernador del Estado tendrá el mando de la Fuerza Pública en el Municipio donde resida habitual o temporalmente, pero asumirá éste transitoriamente en cualquier Municipio cuando se den circunstancias o hechos que hagan peligrar la tranquilidad social.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1988)</small>
+
+XXX.- Conducir las acciones que conforme a la Ley y en concurrencia con los Municipios y el Gobierno Federal, deban realizarse en materia de protección del ambiente y de preservación y restauración del equilibrio ecológico.
 
 (REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
@@ -2098,7 +2106,7 @@ SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgació
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NO. 76
+DECRETO NUMERO 76
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -2165,3 +2173,9 @@ DECRETO NUMERO 9
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 20 DE JULIO DE 1988.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
