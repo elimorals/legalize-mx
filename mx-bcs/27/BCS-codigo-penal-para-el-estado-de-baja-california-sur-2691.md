@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "1991-01-15"
+last_updated: "1994-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE SEPTIEMBRE DE 1994.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -153,6 +153,10 @@ Delito es el acto u omisión que sancionan las Leyes Penales.
 
 En los delitos de resultado material, también responderá del resultado típico producido quien, teniendo el deber jurídico de actuar para evitarlo, no lo impide.
 
+> <small>(ADICIONADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+En estos casos se considerará que el resultado es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenía el deber de actuar para ello, derivado de una ley o de un contrato.
+
 ###### ARTICULO 18.
 
 El delito puede ser:
@@ -172,6 +176,62 @@ I.- Dolosamente el que conociendo las circunstancias del hecho típico, quiere o
 II.- Culposamente, el que produce el resultado típico que no previó siendo previsible, o previó confiado en que no se produciría, infringiendo un deber de cuidado que podía y debía observar según las circunstancias y condiciones personales.
 
 III.- Preterintencionalmente, el que causa un resultado típico más grave al querido o aceptado, si aquél se produce culposamente.
+
+> <small>(ADICIONADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+ARTICULO 19 A.- Para todos los efectos legales y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes que se prevén en el presente Código:
+
+I.- Homicidio, previsto en el artículo 139, en relación con los artículos 140, 141 y 152; así como en sus grados de preterintencionalidad y de tentativa.
+
+II.- Lesiones, previsto en el artículo 142, siempre que se cometa en la hipótesis señalada en el segundo párrafo del artículo 144.
+
+III.- Instigación o ayuda al suicidio, en términos de lo previsto en el segundo párrafo del artículo 160.
+
+IV.- Aborto, previsto en el artículo 161, siempre y cuando se cometa conforme a lo previsto en el segundo párrafo del artículo 162.
+
+V.- Privación de la libertad personal, previsto y sancionado por los artículos 170 y 171.
+
+VI.- Secuestro, previsto y sancionado en los artículos 173 y 174.
+
+VII.- Rapto, en los términos de lo dispuesto por el segundo párrafo del artículo 176.
+
+VIII.- Asalto, previsto por el artículo 181, siempre y cuando se cometa en la hipótesis referida en el artículo 182.
+
+IX.- Violación, en sus modalidades previstas y sancionadas en los artículos 185, 186, 187, 188 y 189; así como en su grado de tentativa de conformidad a lo previsto en los artículos 186, 187, 188 y 189.
+
+X.- Atentado al pudor, conforme a la hipótesis prevista en el párrafo tercero del artículo 190, en relación con el 191.
+
+XI.- Robo, previsto en el artículo 211, siempre que se cometa dentro de las hipótesis señaladas en los artículos 214 fracción VI, 215 y 217, con excepción de aquellos casos en que el robo se persiga por querella en términos del artículo 243.
+
+XII.- Abigeato, previsto en el artículo 221, siempre y cuando se cometa dentro de la primera hipótesis señalada por el artículo 222. Asimismo, en los supuestos de las fracciones I a la VI del propio artículo, siempre y cuando se trate de ganado mayor o sus crías.
+
+XIII.- Extorsión, previsto y sancionado en el artículo 232.
+
+XIV.- Daño en las cosas, previsto en el artículo 239, siempre y cuando se cometa dentro de las hipótesis señaladas en el artículo 241, en sus fracciones de la I a la V.
+
+XV.- Incesto, previsto y sancionado por el artículo 250.
+
+XVI.- Tráfico de menores, previsto y sancionado por el artículo 254.
+
+XVII.- Corrupción de menores, previsto en el primer párrafo del artículo 256, siempre y cuando se cometa en las hipótesis previstas en el tercer párrafo del propio artículo. Asimismo, cuando se cometa en términos de lo dispuesto por el artículo 258, excepto en las hipótesis referidas en el artículo 257.
+
+XVIII.- Lenocinio, previsto en el artículo 260; siempre que se cometa en los supuestos señalados por los artículos 262 o 263.
+
+XIX.- Ataques a las vías de comunicación, siempre que se cometa en las hipótesis señaladas en el artículo 278.
+
+XX.- Falsedad en declaraciones judiciales y en informes dados a una autoridad, en términos de lo dispuesto por el artículo 290 fracción II último párrafo.
+
+XXI.- Responsabilidad médica y técnica, en términos de lo previsto por el artículo 299.
+
+XXII.- Rebelión, previsto y sancionado por los artículos 305, 306, 307 y 308.
+
+XXIII.- Terrorismo, previsto y sancionado por el artículo 309; y
+
+XXIV.- Evasión de presos, previsto por el artículo 332, siempre y cuando se cometa en la hipótesis señalada por el artículo 334.
+
+> <small>(ADICIONADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+ARTICULO 19 B.- Se entenderá que los delitos previstos en este Código son cometidos por delincuencia organizada, cuando de las primeras actuaciones practicadas existan datos suficientes para establecer que en su comisión intervinieron tres o más personas que se organizan para delinquir en forma habitual.
 
 ### CAPITULO II
 
@@ -381,6 +441,10 @@ La duración de la semilibertad no podrá exceder de la correspondiente a la pen
 
 El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados en instituciones públicas o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de los períodos distintos al horario de las labores que representen la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la Ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
 
+> <small>(ADICIONADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+El trabajo a favor de la comunidad puede ser pena sustitutiva de la de prisión o de la multa.
+
 ###### ARTICULO 38.
 
 Cada día de prisión será sustituído por una jornada de trabajo en favor de la comunidad.
@@ -425,7 +489,9 @@ La reparación del daño comprende:
 
 I.- La restitución de la cosa obtenida por el delito, con sus frutos y accesiones, y el pago en su caso de deterioros y menoscabo, si no fuere posible la restitución, el pago del precio de la cosa.
 
-II.- La indemnización del daño material y moral y de los perjuicios causados.
+> <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+II.- La indemnización del daño material y moral y de los perjuicios causados, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
 
 ###### ARTICULO 44.
 
@@ -1225,9 +1291,13 @@ ABORTO.
 
 Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
 
+> <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 162.
 
-Al que hiciere abortar a una mujer se le aplicarán de uno a seis años de prisión, sea cual fuera el medio que empleare, siempre que lo haga con consentimiento de ella. Cuando falta el consentimiento, la prisión será de tres a ocho años, y si mediare violencia, se impondrá al delincuente de cuatro a doce años de prisión.
+Al que hiciere abortar a una mujer se le aplicarán de uno a seis años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella.
+
+Cuando falte el consentimiento, la prisión será de tres a ocho años, y si mediare violencia se impondrá al delincuente de cuatro a doce años de prisión.
 
 ###### ARTICULO 163.
 
@@ -1759,6 +1829,12 @@ Se presumirá simulado el juicio que se siga en contra de un depositario judicia
 
 XI.- Al que para ser admitido como fiador acredite su solvencia con el mismo bien con que lo haya hecho en fianza anterior, sin poner esta circunstancia en conocimiento de ante quien la otorgue, siempre que el valor del bien resulte inferior al de las cantidades por las que el fiador fue admitido.
 
+> <small>(ADICIONADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XII.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones de su cargo con respecto a sus acreedores.
+
+En caso de quiebra, se atenderá lo previsto por la ley especial de la materia.
+
 ###### ARTICULO 231.
 
 Para estimar la cuantía del fraude, se atenderá únicamente el valor intrínseco de la cosa defraudada o del lucro obtenido.
@@ -2273,19 +2349,29 @@ III.- A sabiendas, hiciere uso de los sellos o de algún otro de los objetos de 
 
 FALSEDAD EN DECLARACIONES JUDICIALES Y EN INFORMES DADOS A UNA AUTORIDAD.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 290.
 
-Se impondrán de dos meses a siete años de prisión y hasta cien días multa al que:
+Se impondrán 2 meses a 7 años de prisión y hasta cien días de multa al que:
 
 I.- Interrogado por alguna autoridad pública distinta de la judicial en el ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
 
-II.- Examinado por la autoridad judicial como testigo faltare a la verdad sobre el hecho que se trata de averiguar, ya sea afirmando, negando u ocultando maliciosamente la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal o que aumente o disminuya su gravedad. La pena podrá ser hasta por quince años de prisión para el testigo falso que fuere examinado en juicio criminal, cuando al reo se le imponga una pena de más de veinte años de prisión por haber dado fuerza probatoria al testimonio falso.
+> <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+II.- Examinado ante o por la autoridad judicial como testigo, faltare a la verdad sobre el hecho que se trata de averiguar o aspectos, cantidades, calidades u otras circunstancias que sean relevantes para establecer el sentido de la opinión o dictamen, ya sea afirmando, negando u ocultando maliciosamente la existencia de algún dato que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad, o que sirva para establecer la naturaleza o particularidades de orden técnico o científico que importen para que la autoridad pronuncie resolución sobre la materia cuestionada en el asunto donde el testimonio o la opinión pericial se viertan.
+
+La sanción podrá ser hasta de 15 años de prisión para el testigo o peritos falsos que fueran examinados en un procedimiento penal, cuando al reo se le imponga una pena privativa de la libertad por haber dado fuerza probatoria al testimonio o peritajes falsos.
 
 III.- Soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio, o los obligue o comprometa a ello intimidándolos o de otro modo.
 
 IV.- Con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado bajo protesta de decir verdad y faltare a ella en perjuicio de otro, negando ser suya la firma con la que hubiere suscrito un documento o afirmando un hecho falso o alterando o negando uno verdadero, o sus circunstancias sustanciales.
 
 Lo prevenido en esta Fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado.
+
+> <small>(ADICIONADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+V.- Al que con el propósito de inculpar a alguien ante la autoridad como responsable de algún delito, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad.
 
 ###### ARTICULO 291.
 
@@ -2317,7 +2403,9 @@ Se penará con prisión de seis meses a cinco años y hasta ciento cincuenta dí
 
 I.- Al que sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal.
 
-II.- Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada expedidos por autoridades u organismos legalmente facultados para ello, conforme a las disposiciones reglamentarias del Artículo 4o. Constitucional:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+II.- Al que sin tener título profesional o autorización expresa para ejercer alguna profesión reglamentada expedidos por autoridades u organismos legalmente facultados para ello, conforme a las disposiciones reglamentarias del artículo quinto de la Constitución Política de los Estados Unidos Mexicanos:
 
 a).- Se atribuya el carácter de profesionista;
 
@@ -2331,7 +2419,11 @@ e).- Con objeto de lucrar, se una a profesionales legalmente autorizados con fin
 
 III.- Al extranjero que ejerza una profesión reglamentada sin tener autorización de autoridad competente o después de vencido el plazo que aquélla le hubiere concedido.
 
-IV.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
+> <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IV.- Al que usare credenciales de servidor público, condecoraciones, uniformes, grados jerárquicos, divisas, insignias o siglas a las que no tenga derecho.
+
+Podrá aumentarse la pena hasta la mitad de su duración y cuantía, cuando sean de uso exclusivo de las fuerzas armadas mexicanas o de alguna corporación policial.
 
 ## TITULO DECIMO CUARTO
 
@@ -2383,6 +2475,10 @@ I.- Alegar a sabiendas, hechos falsos o leyes inexistentes o derogadas; y
 
 II.- Pedir términos para aprobar lo que notoriamente no puede probarse o no ha de aprovechar a su parte; promover artículos, incidentes o recursos manifiestamente improcedentes que motiven la suspensión del juicio o de cualquier otra manera procurar dilaciones que sean notoriamente ilegales.
 
+> <small>(ADICIONADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+III.- Simule un acto jurídico o un acto o escrito judicial, o altere elementos de prueba y los presente en juicio, con el fin de obtener sentencia, resolución o acto judicial o administrativo contrario a la ley.
+
 ###### ARTICULO 301.
 
 Se impondrá de uno a cinco años de prisión y suspensión hasta de seis años:
@@ -2405,9 +2501,11 @@ DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO.
 
 SEDICION.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### ARTICULO 303.
 
-A los que en forma tumultuaria, sin uso de armas, resistan o amaguen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las finalidades a que se refiere el Artículo 306, se aplicará la pena de dos a ocho años de prisión y hasta ciento cincuenta días multa.
+A los que en forma tumultuaria, sin uso de armas, resistan o amaguen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las finalidades a que se refiere el artículo 305, se aplicará la pena de dos a ocho años de prisión y hasta ciento cincuenta días multa.
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de cinco a quince años de prisión y hasta doscientos días multa.
 
@@ -2643,7 +2741,9 @@ Al que cometa el delito de concusión se le impondrá las siguientes penas:
 
 Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de setecientos treinta días de salario, en el momento de cometerse el delito, o no sea valuable, se impondrá de uno a tres años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de uno a tres años para desempeñar otro empleo, cargo o comisión públicos.
 
-Cuando exceda de trescientos treinta días salario se impondrá de tres a doce años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de tres a dieciséis años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Cuando exceda de setecientos días salario se impondrá de tres a doce años de prisión, de treinta a trescientos días multa y destitución e inhabilitación de tres a dieciséis años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO VII
 
@@ -2775,9 +2875,13 @@ V.- Dictar a sabiendas y contrariamente a derecho, una resolución de fondo o un
 
 VI.- Retardar o entorpecer por negligencia la administración de justicia.
 
-VII.- Sin causa justificada abstenerse de hacer la consignación que corresponda con arreglo a la Ley, de una persona que se encuentra detenida a su disposición como presunto responsable de algún delito.
+> <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-VIII.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o sin que preceda denuncia, acusación o querella.
+VII.- Detener a un individuo durante la averiguación previa fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en el párrafo séptimo del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos o abstenerse injustificadamente de hacer la consignación que corresponda de una persona que se encuentre detenida a su disposición como presunto responsable de algún delito, cuando ésta sea procedente conforme a la Constitución Política de los Estados Unidos Mexicanos y a las leyes de la materia, en los casos en que la ley les imponga esta obligación; o ejercitar acción penal cuando no preceda denuncia, acusación o querella.
+
+> <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+VIII.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, sin que preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el párrafo tercero del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 IX.- Negarse a otorgar, cuando se solicite, la libertad caucional, si procede.
 
@@ -2797,7 +2901,7 @@ XVI.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos auto
 
 XVII.- Abrir con conocimiento de ello un proceso penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la Ley.
 
-XVIII.- Realizar la aprehensión sin poner al detenido a disposición del Juez, dentro de las veinticuatro horas siguientes a ésta, según lo dispuesto por el Artículo 107, fracción XVIII, párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos, salvo lo dispuesto en el párrafo cuarto de la propia fracción ya aludida.
+XVIII.- (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 1994)
 
 XIX.- A los encargados o empleados de lugares de reclusión o internamiento que cobren cualquier cantidad a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinda el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen.
 
@@ -3034,3 +3138,11 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUIAR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+B.O. 2 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
