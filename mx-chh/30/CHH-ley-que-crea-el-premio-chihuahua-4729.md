@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "1987-09-09"
+last_updated: "1989-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -55,63 +55,71 @@ III.- Sociales.
 
 IV.- Literarias.
 
-(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 1987)
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 3°.
 
-El premio consistirá en la entrega en efectivo de la cantidad que resulte de multiplicar el salario mínimo vigente en la capital del Estado, a la fecha de la emisión de la Convocatoria respectiva, por ciento cincuenta veces.
+El premio consistirá en la entrega en efectivo de la cantidad que resulte de multiplicar el salario mínimo general diario vigente en la Capital del Estado, a la fecha de la emisión de la Convocatoria respectiva, por 200 veces, y el diploma alusivo, que se entregarán por cada área.
 
 ###### ARTICULO 4°.
 
 Los trabajos que se presenten deberán ser inéditos y contener una aportación original orientada a la creación, desarrollo o perfeccionamiento de las diversas disciplinas que integran las áreas del conocimiento mencionadas.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 5°.
 
-Sólo podrán concursar las personas que tengan su domicilio y radiquen habitualmente en el Estado.
+Solo podrán participar las personas que tengan su domicilio y radiquen actualmente en el Estado y aquellas que siendo chihuahuenses por nacimiento radiquen en la República Mexicana.
 
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 1987)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 6°.
 
-Los trabajos se presentarán en la Dirección General de Desarrollo Social del Gobierno del Estado, a más tardar durante el mes de Agosto de cada año, sujetándose a lo siguiente:
+Los trabajos se enviarán a la Dirección General de Desarrollo Social, sujetándose a lo siguiente:
 
-I.- Se presentarán por escrito, por quintuplicado, en castellano y en un mínimo de veinticinco cuartillas a doble espacio.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1989)</small>
+
+I.- Se presentarán por triplicado escritos a máquina a doble espacio, en papel tamaño carta y por una sola cara en un mínimo de 30 cuartillas.
 
 II.- Podrán acompañarse adicionalmente fotografías, diapositivas, gráficas, planos, diagramas o cualquier otro elemento complementario o explicativo a juicio del autor.
 
-III.- No se mencionará el nombre del autor y se adjuntará en sobre cerrado un pliego que contenga el título del trabajo, nombre, domicilio y curriculum del mismo autor y una fotografía tamaño credencial de éste.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1989)</small>
 
-Los sobres serán abiertos después del fallo del jurado para identificar a los concursantes.
+III.- Los participantes deberán suscribirse con seudónimo enviando adjunto al trabajo un sobre cerrado con la identificación del autor, su domicilio, número telefónico y documento que acredite su origen chihuahuense o su residencia dentro del Estado.
+
+En el sobre se anotará el seudónimo y el título de la obra.
+
+Las plicas (sic) de identificación serán depositadas por la Dirección General de Desarrollo Social en una Notaría Pública de la Ciudad de Chihuahua; el Notario abrirá únicamente las que los jurados señalen y devolverá las demás para los efectos apuntados en el Artículo 10 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1989)</small>
+
+IV.- El certamen quedará abierto a partir de la publicación de la Convocatoria respectiva, cerrándose el 31 de agosto del año correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 7°.
 
-El jurado calificador se integrará de la siguiente manera:
+Para cada área, la Dirección General de Desarrollo Social designará un jurado integrado por tres personas de reconocido prestigio en los campos respectivos y cuyos nombres serán dados a conocer en el momento oportuno.
 
-I.- Un representante del Gobernador del Estado, que será el Presidente.
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1987)</small>
-
-II.- El Jefe del Departamento de Educación del Estado, que será el Secretario.
-
-III.- Los Rectores de las Universidades Autónomas de Chihuahua y Ciudad Juárez, y
-
-IV.- El Director de uno de los Institutos Tecnológicos existentes en el Estado, designado de común acuerdo por ellos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 8°.
 
-Los miembros del jurado desempeñarán su cargo personalmente y podrán estar asesorados de una o varias personas de la especialidad de que se trate, a su juicio.
+Los miembros del Jurado desempeñarán su cargo personalmente y en caso necesario podrán solicitar a la Dirección General de Desarrollo Social la autorización para asesorarse de una o varias personas de la especialidad de que se trate, quienes al aceptar dicha asesoría observarán el sigilo que exige la Convocatoria.
 
-El desempeño de los miembros del jurado y de los asesores será honorífico.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 9°.
 
-El fallo del jurado se emitirá en el mes de octubre de cada año y será inapelable.
+El fallo de los jurados se emitirá en el mes de octubre de cada año y será inapelable. El premio podrá ser declarado desierto.
 
-El premio podrá ser declarado desierto, a juicio del propio jurado.
+Una vez emitido el fallo, se notificará inmediatamente a los concursantes que resulten triunfadores; a la vez que se divulgará por medio de la prensa.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 10°.
 
-Los trabajos presentados, reciban o no el premio, podrán ser publicados por el Gobierno del Estado.
+Los trabajos presentados que no reciban premio podrán ser entregados a los interesados, previa identificación, en las oficinas de la Dirección General de Desarrollo Social, en un término máximo de 60 días seguidos a la entrega de los premios; transcurrido dicho plazo sin que sean recogidos, el Gobierno del Estado podrá disponer de ellos para los fines que mejor convenga.
 
 ###### ARTICULO 11°.
 
@@ -138,3 +146,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 P.O. 9 DE SEPTIEMBRE DE 1987.
 
 UNICO:- Las presentes reformas a la Ley que crea el "PREMIO CHIHUAHUA", entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
