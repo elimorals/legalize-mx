@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "1997-04-12"
+last_updated: "2003-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2003.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -367,7 +367,11 @@ II.- El del lugar convenido para el cumplimiento de la obligación;
 
 III.- El de la ubicación del bien, tratándose de acciones que recaigan sobre inmuebles o de controversias derivadas de contratos de arrendamiento. Si los bienes estuvieren situados en dos o más circunscripciones territoriales, será competente el que prevenga en el conocimiento del negocio;
 
-IV.- El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales o del estado civil. Cuando sean varios los demandados y tengan sus domicilios en diferentes distritos judiciales, será competente el Juez que elija la parte actora;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+IV.- El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales o del estado civil. Cuando sean varios los demandados y tengan sus domicilios en diferentes distritos judiciales, será competente el Juez que elija la parte actora, respecto al domicilio de aquéllos.
+
+Cuando se trate de juicio de alimentos, será competente el Juez del domicilio del acreedor alimentario.
 
 V.- En los concursos de acreedores, el Juez del lugar del domicilio del deudor;
 
@@ -2271,13 +2275,13 @@ El Notario se limitará a hacer el ofrecimiento y expedir al deudor la certifica
 
 ### CAPITULO IV. SEPARACION DE PERSONAS
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 171.
 
-Juez competente
+Juez competente.
 
-El que intente demandar o denunciar o querellarse contra su cónyuge podrá solicitar su separación al Juez de primera instancia, donde los cónyuges estén haciendo vida marital. Sólo que por circunstancias especiales no pueda ocurrirse al Juez de primera instancia competente, el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias practicadas al competente.
+El que intente demandar, denunciar o querellarse contra su cónyuge, concubina o concubinario, podrá solicitar su separación al Juez de primera instancia, donde tengan establecido su domicilio común. Sólo que por circunstancias especiales no pueda ocurrirse al Juez de primera instancia competente, el Juez de Paz del lugar podrá decretar la separación provisionalmente, remitiéndole las diligencias practicadas.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -2288,6 +2292,14 @@ Solicitud
 La solicitud podrá ser escrita o verbal, y en ella se señalarán las causas en que se funde, el domicilio que habiten los cónyuges, la existencia de hijos menores y las demás circunstancias del caso.
 
 El juzgador podrá ordenar la práctica de las diligencias que, a su juicio, sean necesarias antes de dictar la resolución.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 172 Bis.
+
+Aplicación respecto concubina y concubinario.
+
+Los derechos contemplados en el presente Capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -2859,13 +2871,13 @@ Si el demandado se allana a la demanda, el juzgador podrá ordenar la ratificaci
 
 No procederá citar para sentencia en caso de allanamiento de la demanda, cuando se trate de juicios del orden familiar y del estado civil, cuando se controviertan derechos irrenunciables o cuando manifiestamente la sentencia por dictarse deba surtir efectos frente a terceros que no han litigado, y en los demás casos en que la ley lo disponga.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 219.
 
-Reconvención
+Reconvención.
 
-Si al contestarse la demanda se opone compensación o reconvención, se deberán satisfacer los mismos requisitos previstos para la demanda, y se correrá traslado al actor para que la conteste en el plazo de seis días, observándose lo dispuesto en los artículos anteriores. La reconvención y la compensación, lo mismo que las excepciones de fondo opuestas en relación con aquéllas, se discutirán al mismo tiempo que el negocio principal, y se decidirán en la sentencia definitiva.
+Si al contestarse la demanda se opone compensación o reconvención, se deberán satisfacer los mismos requisitos previstos para la demanda, y se correrá traslado al actor para que la conteste en el plazo de nueve días, observándose lo dispuesto en los artículos anteriores. La reconvención y la compensación, lo mismo que las excepciones de fondo opuestas en relación con aquéllas, se discutirán al mismo tiempo que el negocio principal.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -3027,7 +3039,9 @@ II.- Las defensas y excepciones que se admitan y, en su caso, la declaración so
 
 III.- El señalamiento del día y hora para la celebración de la audiencia previa y de conciliación;
 
-IV.- Ordenará dar vista al actor con las excepciones previas que oponga el demandado, por un plazo igual al otorgado para la contestación a la demanda; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+IV.- Ordenará dar vista al actor con las excepciones previas que oponga el demandado, por un plazo de seis días; y
 
 V.- Proveerá lo que pida el demandado respecto de documentos que no tenga a su disposición y que deban allegarse al proceso como prueba.
 
@@ -4507,15 +4521,19 @@ En el escrito de expresión de agravios deberá, además, indicarse si el apelan
 
 Admisión del recurso
 
-Si el recurso de apelación fue interpuesto dentro de los plazos previstos en el artículo 353, contiene la expresión de agravios y se hizo acompañar de las copias a que se refiere el artículo anterior, el juzgador ordenará su admisión y señalará el efecto en que lo admite. Si no concurre cualquiera de estos tres requisitos, el juzgador tendrá por no interpuesto el recurso.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+Si el recurso de apelación fue interpuesto dentro de los plazos previstos en el artículo 353, contiene la expresión de agravios y se hizo acompañar de las copias a que se refiere el artículo anterior, el juzgador ordenará su admisión y señalará el efecto en que lo admite. Si no concurre cualquiera de los dos primeros requisitos, el juzgador tendrá por no interpuesto el recurso. Cuando no se acompañen las copias del escrito de expresión de agravios, se requerirá al apelante para que las exhiba dentro del término de veinticuatro horas siguientes a la notificación y de no cumplir, se tendrá por no interpuesto el recurso.
 
 El juzgador desechará el escrito de apelación cuando se interponga contra una resolución que no sea impugnable a través de este recurso y cuando quien lo interponga carezca de legitimación para hacerlo.
 
 Contra la resolución que tenga por no interpuesto el recurso de apelación y contra la que lo deseche, procederá el recurso de queja.
 
-En el mismo auto que admita el recurso, el juzgador ordenará se notifique a las partes, haciéndoles saber que deberán presentarse ante el Tribunal Superior de Justicia del Estado para substanciarlo dentro del plazo de diez días.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
-Entre tanto no transcurra el plazo a que se refiere el párrafo anterior, no podrá iniciarse la substanciación del recurso.
+En el mismo auto que admita el recurso, el juzgador ordenará se notifique a las partes, haciéndoles saber que deberán presentarse ante el Tribunal Superior de Justicia del Estado para substanciarlo. El juzgador deberá enviar el recurso en un plazo no mayor de diez días, a partir de la admisión.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -4547,7 +4565,9 @@ La calificación de la caución será hecha por el Juez, quien se sujetará a la
 
 IV.- Si la apelación admitida en el efecto devolutivo fuere de auto, sólo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente las constancias que deban integrarlo, el cual podrá ser adicionado con las constancias que el juzgador estime necesarias;
 
-Si la contraparte estima que el testimonio de apelación se integró en forma deficiente, podrá complementarlo con las constancias que estime convenientes, las cuales podrá exhibir hasta antes que venza el plazo que se le conceda para contestar agravios. Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso, y por firme la resolución apelada. El juzgador deberá vigilar que el testimonio de apelación sea enviado al superior, dentro del plazo de diez días; y
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+Si la contraparte estima que el testimonio de apelación se integró en forma deficiente, podrá complementarlo con las constancias que estime convenientes, las cuales podrá exhibir hasta antes que venza el plazo que se le conceda para contestar agravios. Si el recurrente omite hacer el señalamiento en la forma prescrita, se le requerirá para que lo haga dentro del término de veinticuatro horas, previniéndolo que de no hacerlo, se tendrá por no interpuesto el recurso, y por firme la resolución apelada. El juzgador deberá vigilar que el testimonio de apelación sea enviado al superior, dentro del plazo de diez días; y
 
 V.- Si se tratare de sentencia, se dejará en el juzgado testimonio de lo necesario para ejecutarla, remitiéndose los autos originales al superior para la substanciación del recurso.
 
@@ -4627,7 +4647,9 @@ II.- Si el agravio versa sobre una excepción procesal que haya sido declarada f
 
 III.- En caso de que la sentencia de primera instancia apelada fuere absolutoria por haberse declarado procedente alguna excepción substancial, si la resolución fuere revocatoria en este punto, decidirá también el fondo de la cuestión litigiosa en su integridad sobre todos los puntos materia del litigio;
 
-IV.- Si hubiere recursos o incidentes pendientes, salvo los que se refieran a ejecución o rendición de cuentas, y la sentencia decidiere el fondo del asunto, mandará que éstos queden sin materia y ordenará su archivo, una vez que la sentencia de segunda instancia adquiera autoridad de cosa juzgada;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+IV.- Si hubieren recursos o incidentes pendientes y la sentencia decidiere el fondo del asunto, mandará que éstos queden sin materia y ordenará su archivo, una vez que la sentencia de segunda instancia adquiera autoridad de cosa juzgada. Se exceptúan de lo anterior los recursos o incidentes promovidos contra ejecución o rendición de cuentas;
 
 V.- Se resolverá en la sentencia lo que proceda respecto a condenación en costas; y
 
@@ -4677,7 +4699,9 @@ Procedencia contra actos del juzgador
 
 El recurso de queja contra el juzgador es procedente:
 
-I.- Contra la resolución en que se niegue la admisión de una demanda o se desconozca de oficio la personalidad del actor antes del emplazamiento;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+I.- Contra la resolución en que se niegue la admisión de la demanda o de la reconvención, o se desconozca de oficio la personalidad del actor antes del emplazamiento;
 
 II.- Contra la resolución que declare o niegue que una sentencia ha adquirido autoridad de cosa juzgada;
 
@@ -5563,13 +5587,13 @@ Plazo para ordenar la enajenación
 
 La enajenación no podrá ordenarse sino después de transcurridos diez días del embargo, excepción hecha de los casos en que se trate de dinero efectivo o de bienes susceptibles de rápido demérito o deterioro. En el primer caso, podrá hacerse desde luego la adjudicación al acreedor, si se trata de ejecución de sentencia; y en el segundo, deberá autorizarse inmediatamente la venta por conducto del depositario o de la persona que determine el juzgador, sin avalúo ni subastas y en las mejores condiciones que puedan lograrse en el mercado.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 426.
 
-Avalúo previo
+Avalúo previo.
 
-Salvo los casos a que se refiere el artículo anterior, no podrá autorizarse ninguna enajenación sin que previamente se practique avalúo de los bienes de que se trata. El avalúo deberá llevarse a cabo de acuerdo con lo que se dispone en los artículos siguientes.
+Salvo los casos a que se refiere el artículo anterior, no podrá autorizarse ninguna enajenación sin que previamente se practique avalúo de los bienes de que se trata. Cuando haya transcurrido un año o más, desde la fecha del último avalúo, deberá efectuarse uno nuevo. El avalúo deberá llevarse a cabo de acuerdo con lo que se dispone en los artículos siguientes.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6445,19 +6469,29 @@ Se tramitarán conforme a las reglas del artículo siguiente las diferencias que
 
 I.- La obligación de los cónyuges de hacer vida en común;
 
-II.- La educación y establecimiento de los hijos y administración de los bienes que a éstos pertenezcan;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
 
-III.- La administración de los bienes comunes; y
+II.- La dirección y cuidado del hogar;
 
-IV.- Los demás asuntos relativos a cuestiones patrimoniales entre los consortes.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+III.- La educación y establecimiento de los hijos, así como la administración de los bienes que a éstos pertenezcan; y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+IV.- La administración de los bienes comunes y demás asuntos relativos a cuestiones patrimoniales entre los consortes.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+Lo contenido en este numeral será aplicable en lo conducente respecto a los que vivan en concubinato.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 494.
 
-Procedimiento para resolver las diferencias
+Procedimiento para resolver las diferencias.
 
-Recibida la demanda, el juzgador citará a los cónyuges a una audiencia en la que los oirá. En ella recibirá el juzgador las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que se dicte será apelable en el efecto devolutivo y se podrá ejecutar sin necesidad de fianza.
+Admitida la demanda, el juzgador citará a las partes a una audiencia en la que los oirá. En ella recibirá el juzgador las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que se dicte será apelable en el efecto devolutivo y se podrá ejecutar sin necesidad de fianza.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6901,7 +6935,9 @@ Emplazamiento y contestación a la demanda
 
 En el auto de admisión de la demanda, el juzgador ordenará que se emplace a la parte demandada para que la conteste dentro de los nueve días siguientes. En el escrito de contestación a la demanda, el demandado deberá ofrecer las pruebas respectivas.
 
-En el mismo auto el juzgador señalará el día y la hora para que tenga verificativo la audiencia de pruebas y alegatos.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+
+En el auto que tenga por contestada la demanda, el juzgador señalará día y hora para que tenga verificativo la audiencia de pruebas y alegatos.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7239,7 +7275,7 @@ Los juicios sobre reivindicación se ventilarán en la vía ordinaria, a la que 
 
 ### CAPITULO II. JUICIO HIPOTECARIO
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 563.
 
@@ -7341,109 +7377,165 @@ Cuando el demandado consignare la cantidad reclamada para evitar los gastos y mo
 
 ###### ARTICULO 571.
 
-Objeto del juicio hipotecario
+Objeto del juicio hipotecario.
 
-Se tramitarán en juicio hipotecario las demandas que tengan por objeto exigir el pago o la prelación de un crédito garantizado con hipoteca.
+Se tramitará en la vía especial hipotecaria, todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación o bien, el pago o prelación del crédito que la hipoteca garantice.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura pública o privada, según corresponda, en los términos de la legislación común, e inscrito en el Registro Público de la Propiedad, que sea de plazo cumplido o que éste sea exigible en los términos pactados o bien conforme a las disposiciones legales aplicables.
+
+Procederá el juicio hipotecario sin necesidad de que el acto o contrato de cesión de que se trate esté inscrito en el Registro Público de la Propiedad, cuando:
+
+I.- El documento base de la acción tenga carácter de título ejecutivo;
+
+II.- El bien se encuentre inscrito a favor del demandado; y
+
+III.- No exista embargo o gravamen a favor de tercero, inscrito cuando menos noventa días anteriores al de la presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 572.
 
-Requisitos de procedencia del juicio hipotecario
+Admisión de demanda y fases del juicio hipotecario.
 
-Para que proceda el juicio hipotecario, deberán reunirse los siguientes requisitos:
+Presentado el escrito de demanda acompañado del instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos fijados por el artículo anterior, en un plazo no mayor de tres días, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para que dentro del término de cinco días, ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
 
-I.- Que el crédito conste en escritura pública debidamente registrada; y
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
 
-II.- Que sea de plazo cumplido; o que deba anticiparse conforme al contrato de hipoteca o a la ley.
+II.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado, el documento base de la acción;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+III.- Incumplimiento o nulidad del contrato;
+
+IV.- Pago o compensación;
+
+V.- Remisión o quita;
+
+VI.- Oferta de no cobrar o espera;
+
+VII.- Novación de contrato;
+
+VIII.- Incompetencia;
+
+IX.- Litispendencia y conexidad;
+
+X.- Prescripción; y
+
+XI.- Cosa Juzgada.
+
+Las excepciones comprendidas en las fracciones de la IV a la VII, y la indicada en la fracción XI, sólo se admitirán cuando se funden en prueba documental. Las excepciones señaladas en la fracción IX, sólo se admitirán si se exhiben con la contestación las copias selladas de la demanda y contestación de ésta o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral. Ninguna de las excepciones suspenderá el procedimiento.
+
+El Juez bajo su más estricta responsabilidad, revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquéllas en que sea necesario exhibir documento y el mismo no se acompañe.
+
+La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el Juez resolver de acuerdo a tales proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
+
+Tanto en la demanda como en la contestación a la misma, y en su caso en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretendan probar.
+
+Con el escrito de contestación a la demanda, se dará vista al actor para que manifieste lo que a su derecho convenga; en ese mismo acto, se señalará fecha y hora para la celebración de la audiencia del juicio dentro de los veinte días siguientes.
+
+Si hubiere reconvención se correrá traslado de ésta a la parte actora, para que la conteste dentro de los tres días siguientes, y en el mismo proveído le dará vista, en su caso, con las excepciones opuestas para que manifieste lo que a su derecho convenga, dentro de este mismo término. Con el escrito de contestación a la reconvención se dará vista a la parte demandada, para que dentro de dicho término, manifieste lo que a su derecho convenga y se señalará fecha y hora para el desahogo de la audiencia dentro de los veinte días siguientes.
+
+Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos que tengan en su poder o la copia sellada en que se solicite la expedición de aquellos documentos que no tuvieran.
+
+El Juez resolverá sobre la admisión o desechamiento de pruebas según proceda, en el auto que recaiga a las promociones en que se ofrezcan. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hallen relacionados con los mismos, el Juez las desechará. Las pruebas que se admitan se desahogarán en la audiencia respectiva, la que será única e indiferible.
+
+En caso de allanamiento total de la parte demandada; si el deudor no hace valer defensas ni opone excepciones o la opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza dentro del plazo el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 573.
 
-Auto de ejecución
+Otros acreedores.
 
-Presentado el escrito de demanda acompañado del documento respectivo, el juzgador, si encuentra que se reúnen los requisitos fijados por el artículo anterior, dictará auto dando entrada a la demanda y admitiendo la vía hipotecaria. Este auto deberá contener lo siguiente:
+Si respecto al título con base en el cual se ejercita una acción hipotecaria, se advierte que haya otros acreedores hipotecarios anteriores, de inmediato el Juez mandará notificarles la existencia del juicio, a fin de que comparezcan a deducir sus derechos.
 
-I.- Mandamiento en forma para la expedición y registro de la cédula hipotecaria;
-
-II.- Orden para que, a partir de la fecha en que se entregue al demandado la cédula hipotecaria, quede la finca en depósito judicial, junto con todos sus frutos y todos los objetos que con arreglo a la escritura, y conforme al Código Civil deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo al expediente, siempre que lo pida el acreedor;
-
-III.- Orden para que en su caso el demandado contraiga la obligación de depositario judicial de la finca hipotecada y de sus frutos o, si no acepta, se haga el nombramiento y designación de depositario en el acto de la diligencia;
-
-IV.- Orden de que se proceda al avalúo de la finca hipotecada;
-
-V.- Ordenar que se corra traslado de la demanda al demandado para que la conteste dentro del plazo de nueve días; y
-
-VI.- Si en el título con que se ejerce una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, en el mismo auto, el juzgador mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la ley.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 574.
 
-Cédula hipotecaria
+Inscripción de Demanda.
 
-La cédula hipotecaria contendrá una relación sucinta de la demanda y del título en que se funde y concluirá con el mandamiento expreso y terminante de que la finca queda sujeta a juicio hipotecario.
+La demanda se anotará en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documentos base de la acción y en su caso, de aquéllos con que justifique su representación, para que previo cotejo con sus originales, se certifiquen por el secretario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
 
-Se expedirá cédula hipotecaria por duplicado para el efecto de que se envíen dos tantos a la Oficina del Registro Público de la Propiedad para su inscripción, de los cuales, una copia quedará en el Registro, y la otra, ya registrada, se agregará al expediente. Si la finca no se ubica en el lugar del juicio, se librará exhorto al juzgador del lugar de ubicación para los anteriores efectos.
+Si la finca no se haya en el lugar del juicio, se librará exhorto al Juez de la ubicación, para que ordene el registro de la demanda como se previene en el párrafo anterior.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el Juez por acreedor con mejor derecho, en fecha anterior a la de inscripción de la demanda.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 575.
 
-Depositario de la finca hipotecada
+Depósito de la finca hipotecada.
 
-Desde el día en que se haga entrega de la cédula hipotecaria, contrae el demandado la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los demás bienes que, con arreglo a la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma.
+En la diligencia de emplazamiento se le requerirá al deudor, para que manifieste si acepta o no la responsabilidad del depositario; y de aceptarla, contraerá la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
-El demandado que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el Juez lo compelerá por los medios de apremio que autoriza la ley.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+El deudor que no haya aceptado la responsabilidad de depositario en el momento del emplazamiento, entregará desde luego la tenencia material de la finca al actor.
 
-El actor tendrá derecho de nombrar depositario cuando el demandado no quiera aceptar dicha responsabilidad. Quienquiera que sea el depositario deberá rendir una cuenta mensual de su administración en la forma prevista para el embargo de inmuebles y sus rentas sin que pueda el depositario ser eximido de esta obligación por convenio contenido en el contrato de hipoteca.
+Si la diligencia que se señala en el párrafo anterior no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes, manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no la acepta si no hace esta manifestación, y en este caso, el actor podrá pedir que se le entregue la tenencia material de la finca.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 576.
 
-Emplazamiento
+Audiencia de desahogo de pruebas, alegatos y sentencia.
 
-La ejecución del auto que admita la demanda en la vía hipotecaria, se llevará a cabo mediante la expedición inmediata de la cédula hipotecaria, y su envío a la Oficina del Registro Público de la Propiedad para su inscripción, y la diligencia de emplazamiento al demandado.
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y sólo en caso de que existan periciales contradictorias de ambas partes, el Juez en auxilio de las mismas, nombrará a un perito tercero en discordia. Las pruebas salvo la del perito tercero en discordia, se desahogarán en la audiencia respectiva.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos como prueba, no se desahogan a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente.
 
-En la diligencia se requerirá al demandado para que exprese si acepta o no la responsabilidad de depositario. Si la diligencia no se entendiera directamente con el demandado, deberá dentro de los cinco días siguientes al traslado, manifestar si acepta o no la responsabilidad de depositario, entendiéndose que la acepta si no hace esta manifestación dentro del plazo expresado. Si no la acepta, el actor podrá pedir que se le entregue la tenencia material de la finca o nombrar depositario bajo su responsabilidad. En la misma diligencia se emplazará al demandado.
+Si el demandado en audiencia confiesa las pretensiones del actor, el Juez le concederá un término de gracia de treinta días para desocupar la vivienda y lo eximirá del pago de gastos y costas que se hubiesen originado.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+El Juez debe presidir la audiencia que se iniciará resolviendo todas las excepciones que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas, y procederán las partes a alegar, en el mismo acto, lo que a sus derechos convenga.
+
+Seguidamente, el Juez dictará la sentencia que corresponda, la que será apelable en efecto devolutivo.
+
+En todo lo no previsto en este artículo respecto al desahogo de las pruebas, así como al desarrollo de la audiencia, en lo que no se oponga, se observarán las reglas contenidas en los artículos 307, 308, 309, 310, 311, 315 y 316 de este Código.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 577.
 
-Avalúo de la finca hipotecada
+Avalúo y remate de la finca hipotecada.
 
-El avalúo de la finca hipotecada se practicará conforme a las reglas para el de inmuebles en la ejecución forzosa; pero podrá iniciarse desde que se notifique al demandado la demanda.
+Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que oportunamente presente el profesional en la materia que las partes hayan designado para tal efecto en el momento de la constitución de la hipoteca o, en su caso, de no haberse acordado, se procederá de la forma siguiente:
 
-No será válido el convenio sobre el avalúo, cuando el precio se haya fijado antes de que se presente la demanda, y el convenio posterior no podrá perjudicar los derechos de tercero.
+I.- Cada parte tendrá derecho a exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado ya sea por un corredor público, una institución de crédito o por un perito valuador registrado o autorizado por el Pleno del Tribunal Superior de Justicia, los cuales en ningún caso podrán tener el carácter de parte o de interesados en el juicio;
 
-Los acreedores hipotecarios anteriores deberán ser citados y tendrán derecho de nombrar, en su caso, un perito y de intervenir en el avalúo de la finca hipotecada.
+II.- En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
 
-Los acreedores que aparezcan en el certificado del Registro Público de la Propiedad, que se pida para el remate judicial, con gravámenes anteriores al registro de la cédula hipotecaria, tendrán derecho de intervenir en el avalúo.
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I, de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I, de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el Juez ordenará se practique un nuevo avalúo por el corredor público o la institución bancaria que al efecto señale;
+
+V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediara un término mayor de seis meses, se deberán actualizar los valores;
+
+VI.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos del Título Cuarto del Libro Tercero de este ordenamiento; y
+
+VII.- La resolución que recaiga al remate sólo podrá ser apelable en efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 578.
 
-Oposición del demandado y apertura del juicio contradictorio
+De la adjudicación y oposición del demandado.
 
-En los juicios hipotecarios, la apertura del juicio contradictorio quedará a iniciativa del demandado.
+En el caso de la adjudicación prevista en el Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa, en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el artículo 577 de este ordenamiento. La venta se hará de la manera que se hubiere convenido, y a falta de convenio por medio de corredores. El deudor puede oponerse a la adjudicación alegando las excepciones que tuviere y esta oposición se substanciará incidentalmente.
 
-El procedimiento contradictorio se abre mediante la oposición del demandado haciendo valer excepciones dentro del plazo fijado por el emplazamiento. Contestada la demanda haciendo valer excepciones, se seguirá el juicio con sujeción al procedimiento ordinario.
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+Los deudores podrán hacer pago total de las prestaciones reclamadas hasta antes de fincarse el remate, hecho lo anterior, el juicio quedará sin materia, debiendo resolver el Juez lo conducente.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 579.
 
-Sentencia de remate
+Impugnación
 
-Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
+Las resoluciones que se dicten en esta vía especial hipotecaria podrán ser apeladas sólo en efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
+
+Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -9698,3 +9790,13 @@ LIC. ROBERTO MADRAZO PINTADO
 LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 15 DE OCTUBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los procedimientos judiciales y recursos que se encuentren en trámite a la entrada en vigor de este Decreto, continuarán substanciándose conforme a las disposiciones anteriores. Salvo el caso en que las partes se sometan voluntariamente a las nuevas disposiciones.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
