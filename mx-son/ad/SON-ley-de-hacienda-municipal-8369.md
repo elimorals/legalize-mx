@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1996-12-30"
+last_updated: "1997-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE ENERO DE 1997.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -621,7 +621,7 @@ El impuesto se causará:
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 57.
 
@@ -725,7 +725,7 @@ Es objeto de este impuesto, la adquisición de bienes inmuebles que consistan en
 
 ###### ARTICULO 72.
 
-Para los efectos de este impuesto, se entiende por adquisición, la que derive de:
+Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
 
 > <small>(REFORMADA, B.O. 28 DE NOVIEMBRE DE 1985)</small>
 
@@ -1415,7 +1415,7 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+### CAPITULO SEGUNDO. Procedimiento
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1427,11 +1427,11 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO TERCERO. Forma de Pago
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
-### CAPITULO SEGUNDO. Procedimiento
+### CAPITULO CUARTO. Recursos
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1447,13 +1447,13 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 Las contribuciones especiales por mejoras se sujetarán a lo establecido en la presente Ley y en las Leyes de Ingresos y Presupuesto de Ingresos en los Ayuntamientos de los Municipios del Estado.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 9 ENERO DE 1997)</small>
 
 ###### ARTICULO 140.
 
-Cuando las obras públicas a que se refiere el presente Capítulo, sean realizadas por dependencias o entidades de la administración pública federal o estatal previa la celebración de los acuerdos de coordinación respectivos, los ayuntamientos podrán percibir en los términos del presente Título, las contribuciones especiales por mejoras; y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinarán a la ejecución de otras obras.
+Cuando las obras públicas a que se refieren el presente Capítulo, sean realizadas por dependencias o entidades de la administración pública federal o estatal previa la celebración de los acuerdos de coordinación respectivos, los ayuntamientos podrán percibir en los términos del presente Título, las contribuciones especiales por mejoras; y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinarán a la ejecución de otras obras.
 
-Y cuando las obras sean realizadas por los Ayuntamientos, utilizando recursos de crédito, los ingresos que perciban por las citadas contribuciones se destinarán a pagar el financiamiento de las mismas y, en su caso, a la ejecución de otras obras públicas.
+Y cuando las obras sean realizadas por los Ayuntamientos utilizando recursos de crédito, los ingresos que perciban por las citadas contribuciones se destinarán a pagar el financiamiento de las mismas y, en su caso, a la ejecución de otras públicas.
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1563,19 +1563,19 @@ Para los efectos del párrafo anterior, la autoridad encargada de la realizació
 
 Los presupuestos de las obras a que este Título se refiere, estarán sujetos a las fluctuaciones en el costo de materiales de construcción, mano de obra y operación de la maquinaria y equipo utilizados.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 9 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 152.
 
-Las autoridades determinarán el monto de las contribuciones especiales por mejoras, atendiendo a la ubicación de los inmuebles en la zona de beneficio y al porcentaje del costo de la obra que como contribución señalan los artículos 142 bis y 142 bis-a en proporción al valor catastral del inmueble o aplicando lo siguiente para procurar la equidad tributaria:
+Las autoridades determinarán el monto de las contribuciones especiales por mejoras, atendiendo a la ubicación de los inmuebles en la zona de beneficio y al porcentaje del costo de la obra que como contribución señalan los artículos 142 bis, y 142 bis-a en proporción al valor catastral del inmueble o aplicando lo siguiente para procurar la equidad tributaria:
 
-I.- Por las obras de agua potable, drenaje y alcantarillado, y por las de equipamiento, el monto que corresponde por inmueble se determinarán multiplicando su número de metros cuadrados de superficie por la cuota que por metro cuadrado mencione el respectivo Acuerdo del Ayuntamiento, especificada por cada zona de beneficio.
+I.- Por las obras de agua potable, drenaje y alcantarillado, y por las de equipamiento, el monto que corresponde por inmueble se determinará multiplicando su número de metros cuadrados de superficie por la cuota que por metro cuadrado mencione el respectivo Acuerdo del Ayuntamiento, especificada por cada zona de beneficio.
 
 II.- Por las obras de pavimentación, alumbrado público y ornato, el monto que corresponde por inmueble se determinará multiplicando su número de metros lineales de frente por la cuota que por metro lineal mencione el respectivo Acuerdo del Ayuntamiento, especificada por cada zona de beneficio.
 
 III.- Por las obras de electrificación, el monto que corresponda por inmueble se determinará dividiendo el importe total del valor recuperable entre el número de inmuebles ubicados en la respectiva zona de beneficio.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO UNICO. Participaciones
 
@@ -1631,7 +1631,7 @@ Dentro de los quince días siguientes a la notificación del crédito fiscal cor
 
 (DEROGADO, B.O. 7 DE MAYO DE 1992)
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO QUINTO. Productos
 
@@ -2160,3 +2160,7 @@ Se adicionan en la parte correspondiente a derechos de las Leyes de Ingresos y P
 ###### ARTICULO TERCERO.
 
 Se derogan los puntos del 1 al 7 de la fracción II, del artículo 326 de la Ley de Hacienda del Estado de Sonora.
+
+B.O. 9 DE ENERO DE 1997.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
