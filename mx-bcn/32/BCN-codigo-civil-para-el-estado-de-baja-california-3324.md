@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2000-10-20"
+last_updated: "2000-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2000.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1671,7 +1671,11 @@ XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de dr
 
 XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la Ley una pena que pase de un año de prisión;
 
-XVII.- El mutuo consentimiento.
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
+XVII.- La separación de los cónyuges por más de dos años, independientemente de la causa que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
+
+XVIII.- El mutuo consentimiento.
 
 ###### ARTICULO 265.
 
@@ -1771,15 +1775,21 @@ V.- Dictar en su caso, las medidas precautorias que la Ley establece respecto a 
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
 
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTICULO 280.
 
 La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
 
-PRIMERA.- Cuando la causa del divorcio estuviere comprendida en las Fracciones I, II, III, IV, V, VII, XIV y XV del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
+PRIMERA.- Cuando la causa del divorcio estuviere comprendida en las Fracciones I, II, III, IV, V, XIV y XV del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
 
-SEGUNDA.- Cuando la causa de divorcio estuviere comprendida en las Fracciones IX, X, XI, XII, XIII y XVI del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer esta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+SEGUNDA.- Cuando la causa de divorcio estuviere comprendida en las Fracciones X y XVI del artículo 264, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta.
+
+Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
 
 TERCERA.- En el caso de las Fracciones VI y VII del artículo 264, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de su hijo.
+
+CUARTA.- En el caso de la fracción VIII, IX, XI, XII, XIII y XVII del Artículo 264, el Juez resolverá sobre la situación jurídica de los hijos y tomará en cuenta, en su caso, lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según corresponda, y en especial a la custodia y al cuidado de los hijos de acuerdo a las disposiciones legales previstas en el presente Código.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -15266,3 +15276,9 @@ P.O. 20 DE OCTUBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto no será aplicable a los asuntos iniciados antes de su entrada en vigor, así como a los Contratos de Hipoteca, Reestructuras y Novaciones que se hubiesen celebrado con anterioridad, por lo tanto, la substanciación de los juicios hipotecarios que se encuentren en trámite o que se inicien en relación a estos contratos, continuarán de conformidad a lo dispuesto por los preceptos que dejan de tener vigencia.
+
+P.O. 3 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los juicios de divorcio iniciados con anterioridad a la vigencia de este decreto se regirán por las reglas y disposiciones aplicables antes de la entrada en vigor de esta reforma; los que se inicien con posterioridad a la promulgación de este decreto se resolverán conforme a las disposiciones del mismo.
