@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-a-la-cultura-5139"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-10"
-last_updated: "1988-05-10"
+last_updated: "1999-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO A LA CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 10 de mayo de 1988.
 
@@ -105,7 +105,7 @@ I. Proteger y acrecentar los bienes y servicios que constituyen el patrimonio cu
 
 II. Promover condiciones que propicien la creación cultural y la producción y distribución equitativa de los bienes culturales, así como la prestación de servicios culturales dentro de un régimen de libertad que favorezca su disfrute efectivo;
 
-III. Impulsar la investigación y la difusión culturales (sic);
+III. Impulsar la investigación y la difusión culturales;
 
 IV. Impulsar la investigación jurídica y cívica entre los guerrerenses;
 
@@ -369,115 +369,49 @@ El Gobierno del Estado, con la participación de los ayuntamientos, celebrará c
 
 EL Gobierno del Estado, por sí o a promoción de los ayuntamientos, podrá iniciar decretos ante el H. Congreso del Estado mediante los cuales se hagan declaratorias de poblados, sitios, zonas o bienes inmuebles de interés histórico o cultural con sujeción al artículo 27 de la Constitución General de la República.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NUMERO 438 POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO "INSTITUTO GUERRERENSE DE LA CULTURA", P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ## TITULO NOVENO
+
+> <small>(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ### CAPITULO UNICO. DEL INSTITUTO GUERRERENSE DE LA CULTURA
 
 ###### ARTICULO 35.
 
-El Instituto Guerrerense de la Cultura será un organismo administrativo desconcentrado de la Secretaría de Desarrollo Social, que tendrá por objeto fomentar y difundir la cultura en el Estado.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 36.
 
-El Instituto tendrá las siguientes atribuciones:
-
-I. Crear y operar establecimientos culturales de interés estatal;
-
-II. Proporcionar apoyo normativo, técnico, material y financiero a los establecimientos culturales de los municipios;
-
-III. Apoyar la coordinación del Sistema Estatal de Cultura;
-
-IV. Contribuir a la organización y desarrollo de las Jornadas Alarconianas, de la Feria Nacional de la Plata y de otras de similar interés cultural;
-
-V. Organizar festivales culturales y todo tipo de eventos culturales;
-
-VI. Organizar conferencias y fomentar la investigación de los valores jurídicos y cívicos en el Estado;
-
-VII. Investigar y difundir las manifestaciones culturales del Estado;
-
-VIII. Estimular y reconocer obras, creadores y trabajadores culturales, incluyendo los artesanales;
-
-IX. Otorgar reconocimiento a las mejores obras culturales:
-
-X. Coadyuvar a la elaboración y ejecución del programa del fomento a la cultura;
-
-XI. Apoyar la protección, acrecentamiento y difusión de la cultura guerrerense, nacional y universal;
-
-XII. Favorecer la investigación y difusión de las culturas populares y, particularmente de las artesanías;
-
-XIII. Realizar ediciones culturales y promover otras obras artísticas;
-
-XIV. Realizar ediciones culturales;
-
-XV. Actuar como órgano auxiliar para el descubrimiento, protección y restauración de las zonas y monumentos arqueológicos, artísticos e históricos;
-
-XVI. Coadyuvar al disfrute efectivo de los bienes y servicios culturales, así como al aprovechamiento y conservación del equipamiento cultural, y
-
-XVII. Las demás que sean afines.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 37.
 
-El Instituto Guerrerense de la Cultura se integrará con un Consejo Técnico, un Presidente, un Director Operativo y un Comisario.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 38.
 
-El Consejo Técnico estará formado por un Presidente, designado y removido libremente por el Gobernador del Estado; por los vocales que éste designe de entre artistas trabajadores culturales y ciudadanos que se hayan distinguido por su impulso a la cultura, y por los Secretarios de Desarrollo Social, de Planeación y Presupuesto, de Finanzas y de Desarrollo Urbano y Obras Públicas.
-
-El presidente conducirá las labores del Consejo Técnico y acordará con el Director Operativo los puntos propios del Consejo Técnico en los recesos de éste.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 39.
 
-El Consejo Técnico tendrá las siguiente facultades:
-
-I. Designar y remover libremente a los servidores de confianza, de base y supernumerarios del Instituto con apego a la ley laboral que los rige;
-
-II. Conocer y aprobar, en su caso, el Plan de Labores y el Presupuesto de Ingresos y Egresos del Instituto;
-
-III. Conocer y aprobar, en su caso, el Informe de Actividades y los Estados Financieros del Instituto;
-
-IV. Expedir el Reglamento Interior del Instituto que regirá a éste y a sus establecimientos;
-
-V. Aprobar los tabuladores de las cuotas de recuperación, precios y tarifas por los bienes y servicios culturales que produzca, distribuya o preste el Instituto;
-
-VI. Aprobar todo festival, certamen o evento cultural que organice el Instituto;
-
-VII. Aprobar la asignación de becas, estímulos o reconocimientos que otorgue la Institución;
-
-VIII. Aprobar la creación y reforma de los establecimientos culturales del organismo, así como los apoyos materiales y financieros que se otorguen a los que posean los municipios;
-
-IX. Aprobar las ediciones que lleve a cabo el Instituto; y
-
-X. Las demás que les sean afines.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 40.
 
-El Consejo Técnico celebrará sesiones ordinarias trimestrales y las extraordinarias que sean necesarias, y podrá designar comisiones que estudien y resuelvan los asuntos que expresamente les sean delegados.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 41.
 
-El Director Operativo del Instituto será designado y removido libremente por el Gobernador del Estado, a propuesta del Secretario de Desarrollo Social.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 42.
 
-El Director Operativo tendrá las siguientes facultades:
-
-I. Conducir y coordinar la operación del organismo;
-
-II. Presentar al Consejo Técnico todo asunto que deba conocer éste, relativo a la organización, administración y funcionamiento del instituto;
-
-III. Proponer al Consejo Técnico, el nombramiento y remoción de los servidores del organismo;
-
-IV. Actuar como representante legal del Instituto con poder general para pleitos y cobranzas, con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley y para administrar bienes;
-
-V. Llevar las relaciones laborales del organismo;
-
-VI. Apoyar la coordinación del Sistema Estatal de Cultura; y
-
-VII. Las demás que sean necesarias para el ejercicio de las anteriores.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 43.
 
-El Comisario, quien será designado y removido libremente por el Secretario de Desarrollo Administrativo y Control Gubernamental, tendrá a su cargo la vigilancia de la operación y funcionamiento del Instituto, así como el manejo de los recursos de toda índole que le sean afectos.
+(DEROGADO, P.O. 15 DE OCTUBRE DE 1999)
 
 T R A N S I T O R I O S
 
@@ -526,3 +460,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE OCTUBRE DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
