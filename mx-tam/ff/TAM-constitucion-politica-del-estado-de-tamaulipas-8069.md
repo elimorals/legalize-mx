@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1935-08-17"
+last_updated: "1936-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -247,37 +247,19 @@ El Congreso se compondrá de siete Diputados propietarios, por cada Diputado Pro
 
 La elección de Diputados será directa y se verificará en los términos que disponga la Ley Electoral.
 
-(REFORMADO, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
 ART. 28.- Para ser Diputado Propietario o Suplente, se requiere:
 
-I.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos, esto es, cuando no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derecho.
 
-II.- Poseer suficiente instrucción.
+II.- Ser ciudadano del Estado en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él por más de cinco años.
 
-(REFORMADO, P.O. 29 DE AGOSTO DE 1934) (REPUBLICADO, P.O. 29 DE AGOSTO DE 1934)
+III.- Tener veinticinco años cumplidos el día de la elección.
 
-ART. 29.- No podrán ser electos Diputados:
+IV.- Poseer suficiente instrucción.
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia y el Procurador de Justicia.
-
-II.- Los Diputados y Senadores al Congreso de la Unión, que hubieren estado en ejercicio, sí no han transcurrido por lo menos dos años, contados desde la fecha en que conforme a la Ley haya terminado el período para el cual fueron electos.
-
-III.- Los Magistrados, Jueces y Empleados de la Federación en el Estado.
-
-IV.- Los Militares que hayan estado en servicio dentro de los diez meses anteriores a la fecha de la elección.
-
-V.- Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
-
-VI.- Los Ministros de cualquier culto, estén o no en ejercicio.
-
-VII.- Los Presidentes Municipales si han estado desempeñando sus funciones dentro de los diez meses anteriores al día de la elección.
-
-VIII.- Los Secretarios de Ayuntamiento, los Jueces y empleados del Estado y Municipales, todos ellos en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
-
-IX.- Nunca podrán ser electos los que alguna vez hubieren desempeñado el cargo de Diputados al Congreso Local.
-
-Esta prohibición no comprende a los Suplentes.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
 ###### Art. 28.
 
@@ -315,17 +297,17 @@ IX.- Nunca podrán ser electos los que alguna vez hubieren desempeñado el cargo
 
 No pueden ser electos Diputados:
 
-I. El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal y el Procurador General de Justicia.
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal y el Procurador General de Justicia.
 
-II. Los Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio; los Magistrados, Jueces y empleados de la Federación en el Estado.
+II.- Los Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, los Magistrados Jueces y Empleados de la Federación en el Estado.
 
-III. Los militares que hayan estado en servicio dentro de los cuatro meses, anteriores a la fecha de la elección.
+III.- Los militares que hayan estado en servicio dentro de los cuatro meses anteriores a la fecha de la elección.
 
-IV. Los que hayan sido condenados por algún delito contra la propiedad o grave contra las personas.
+IV.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión.
 
-V. Los Ministros de cualquier culto, estén o no en ejercicio.
+V.- Los ministros de cualquier culto, estén o no en ejercicio, y
 
-VI. Los Presidentes Municipales, los Munícipes, los Secretarios de Ayuntamiento y los Jueces, en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
+VI.- Los Presidentes Municipales, los Secretarios de Ayuntamientos y los Jueces, en su circunscripción, si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
 
 ###### Art. 30.
 
@@ -725,17 +707,19 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 
 El Poder Ejecutivo se deposita en un funcionario que se denominará "GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS" y que será electo el mismo día en que se verifiquen las elecciones de los Diputados. La elección de Gobernador será directa en los términos que señale la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
-ART. 79.- Para ser Gobernador, se requiere:
+ART. 79.- Para ser Gobernador se requiere:
 
-I.- Ser mexicano por nacimiento.
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 37 y 38 de la Constitución de los Estados Unidos Mexicanos esto es, cuando no haya ocurrido en su perjucicio ninguno de los motivos de pérdida ni de suspensión de dichos derechos.
 
-II.- Ser ciudadano del Estado, en ejercicio de sus derechos con cinco años de residencia por lo menos en su territorio, o uno si fuere nacido en él.
+II.- Ser mexicano de nacimiento.
 
-III.- Ser mayor de veinticinco años de edad para el día de la elección.
+III.- Ser nativo del Estado con vecindad en el mismo, adquirida por lo menos cinco años antes del día de la elección.
 
-IV.- Poseer suficiente instrucción.
+IV.- Ser mayor de treinta años de edad el día de la elección; y
+
+V.- Poseer suficiente instrucción.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
 
@@ -1554,3 +1538,7 @@ Transitorio.- Este decreto principiará a surtir sus efectos desde la fecha de s
 P.O. 17 DE AGOSTO DE 1935.
 
 TRANSITORIO.- Comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 11 DE ENERO DE 1936.
+
+TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
