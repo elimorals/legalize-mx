@@ -4,7 +4,7 @@ identifier: "COL-ley-de-preservacion-ambiental-del-estado-de-colima-4041"
 country: "mx"
 rank: "ley"
 publication_date: "1990-10-06"
-last_updated: "1990-10-06"
+last_updated: "1992-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESERVACION AMBIENTAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima" el sábado 6 de octubre de 1990.
 
@@ -67,7 +67,9 @@ Para la resolución de los casos no previstos o insuficientemente regulados por 
 
 2.- Ley Federal de Aguas.
 
-3.- Ley de la Reforma Agraria.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
+
+3.- Ley Agraria.
 
 4.- Ley De Desarrollo Urbano del Estado de Colima.
 
@@ -77,11 +79,21 @@ Para la resolución de los casos no previstos o insuficientemente regulados por 
 
 7.- Ley de Vialidad y Transporte del Estado de Colima.
 
-8.- Ley de Educación Pública del Estado de Colima.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
-9.- Ley de Fomento Agropecuario.
+8.- Ley de Educación del Estado.
 
-10.- Ley de Conservación del Suelo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
+
+9.- Ley de Conservación del Suelo y Agua.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
+
+10.- Ley Federal de Pesca.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
+
+11.- Ley Federal de Caza.
 
 ###### ARTICULO 5o.
 
@@ -103,19 +115,151 @@ VII.- Embellecimiento, ampliación y saneamiento de los centros de población, a
 
 VIII.- Los demás casos previstos por otras Leyes de aplicación Estatal.
 
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 5 Bis.
+
+Para los efectos de esta Ley se entiende por:
+
+I.- AMBIENTE:
+
+El conjunto de elementos naturales o inducidos por el hombre que interactúan en un espacio y tiempo determinados;
+
+II.- AREAS NATURALES PROTEGIDAS:
+
+Las zonas del territorio estatal aún aquellas sobre las que la nación ejerce su soberanía y jurisdicción, en que los ambientes originales no han sido significativamente alterados por la actividad del hombre, y que han quedado sujetas al régimen de protección;
+
+III.- APROVECHAMIENTO RACIONAL:
+
+La utilización de los elementos naturales, en forma que resulte eficiente, socialmente útil y cumpla con su preservación y la del ambiente;
+
+IV.- CONTAMINACION:
+
+La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+
+V.- CONTAMINANTE:
+
+Toda materia o energía en cualesquiera de sus estados físicos y formas que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural, de tal manera que no logre degradarse sin provocar consecuencias secundarias;
+
+VI.- CONTINGENCIA AMBIENTAL:
+
+Situación de riesgo derivada de actividades humanas y fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+
+VII.- CONTROL:
+
+Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+
+VIII.- CRITERIOS ECOLOGICOS:
+
+Los lineamientos destinados a preservar, restaurar y fomentar el equilibrio ecológico y proteger el ambiente;
+
+IX.- DESEQUILIBRIO ECOLOGICO:
+
+La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+
+X.- ECOSISTEMA:
+
+La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+
+XI.- EQUILIBRIO ECOLOGICO:
+
+La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
+
+XII.- ELEMENTO NATURAL:
+
+Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del hombre;
+
+XIII.- EMERGENCIA ECOLOGICA:
+
+Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
+
+XIV.- FAUNA SILVESTRE:
+
+Las especies animales terrestres que subsisten sujetas a los procesos de selección natural, cuyas poblaciones habitan temporal o permanentemente en el territorio estatal y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+
+XV.- FLORA SILVESTRE:
+
+Las especies vegetales terrestres así como hongos que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente en el territorio estatal, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
+
+XVI.- FLORA Y FAUNA ACUATICAS:
+
+Las especies biológicas y elementos biogenéticos que tienen como medio de vida temporal, parcial o permanente las aguas, en el territorio estatal y en las zonas sobre las que la nación ejerce derechos de soberanía y jurisdicción;
+
+XVII.- FLORA Y FAUNA URBANA:
+
+Todas aquellas especies silvestres en libertad que tengan como hábitat natural o modificado por la actividad humana, las áreas que estén comprendidas dentro de las zonas urbanas y su área de influencia;
+
+XVIII.- IMPACTO AMBIENTAL:
+
+Consecuencia de la modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+
+XIX.- MANIFIESTO DE IMPACTO AMBIENTAL:
+
+El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+
+XX.- MEJORAMIENTO:
+
+El incremento cualitativo y cuantitativo de la calidad del ambiente;
+
+XXI.- ORDENAMIENTO ECOLOGICO:
+
+El proceso de planeación dirigido a evaluar y programar el uso del suelo y el manejo de los recursos naturales en el territorio estatal y las zonas sobre las que la nación ejerce su soberanía y jurisdicción, para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
+
+XXII.- PRESERVACION:
+
+El conjunto de políticas y medidas estrictamente necesarias y fundamentadas en el estudio científico y el desarrollo ecosostenido, para mantener las condiciones que propician la evolución y continuidad de los procesos naturales;
+
+XXIII.- PREVENCION:
+
+El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+XXIV.- PROTECCION:
+
+El conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+
+XXV.- RECURSO NATURAL:
+
+El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+
+XXVI.- REGION ECOLOGICA:
+
+La unidad del territorio estatal que comparte características ecológicas comunes;
+
+XXVII.- RESIDUO:
+
+Cualquier material generado en los procesos de extracción beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+XXVIII.- RESIDUOS PELIGROSOS:
+
+Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas infecciosas o irritantes, representan un peligro para la salud, el equilibrio ecológico o el ambiente;
+
+XXIX.- RESTAURACION:
+
+Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales; y
+
+XXX.- VOCACION NATURAL:
+
+Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+
 ### CAPITULO II. DE LA COMPETENCIA ESTATAL, MUNICIPAL Y SU COORDINACION
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 6o.
 
-Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Económico; llevar a cabo la política ecológica en todo el territorio del Estado de Colima.
+Corresponde al Titular del Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Rural, llevar a cabo la política ecológica en todo el territorio del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 7o.
 
-La aplicación de la presente Ley, corresponde a la Secretaría de Desarrollo Económico misma que planeará, creará y ejecutará todo lo relacionado a la aplicación de la Ley de Preservación Ambiental del Estado de Colima.
+La aplicación de la presente Ley corresponde a la Dirección de Ecología dependiente de la Secretaría de Desarrollo Urbano y Rural, misma que planeará y ejecutará todo lo relacionado con la aplicación de la misma.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 8o.
 
-Corresponde al Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Económico, las siguientes atribuciones:
+Corresponde al Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Urbano y Rural, las siguientes atribuciones:
 
 I.- Ordenar y ejecutar las distintas acciones, dentro del ámbito de su competencia, a fin de preservar, proteger y restituir el equilibrio ecológico y el ambiente, coordinándose con la federación y los municipios, según sea necesario;
 
@@ -131,19 +275,27 @@ VI.- Evaluar el impacto ambiental, en las actividades de su competencia, a que s
 
 VII.- Formular y desarrollar programas para promover el uso de tecnologías apropiadas para el aprovechamiento de los recursos naturales, que le correspondan al Estado, e inducirlos en los gobiernos federal y municipal, así como a los sectores social y privado;
 
-VIII.- Prevenir y controlar, procurando su reducción la contaminación de la atmósfera, generada en el territorio del Estado, por fuentes fijas y móviles, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+VIII.- Prevenir y controlar la contaminación de la atmósfera generada por fuentes fijas y móviles en el Estado, en el ámbito de su competencia;
 
 IX.- Establecer y desarrollar la política de rehuso de aguas en la Entidad, en coordinación con la federación y los municipios;
 
-X.- Determinar las áreas naturales protegidas de interés estatal, en los términos previstos por esta Ley;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+X.- Determinar las áreas naturales protegidas y susceptibles de protección de interés estatal y municipal, en los términos previstos por esta Ley;
 
 XI.- Establecer viveros, criaderos y reservas de especies de flora y fauna, silvestres y acuáticas, en su caso, con la coordinación de la Secretaría de Pesca y la Secretaría de Agricultura y Recursos Hidráulicos;
 
 XII.- Ordenar la suspensión de cualquier actividad o acción que contravenga las disposiciones legales en materia de equilibrio ecológico y protección al ambiente;
 
-XIII.- Imponer las sanciones administrativas que procedan, a los infractores de esta Ley y demás ordenamientos aplicables en materia de equilibrio ecológico y protección al ambiente; invariablemente, la ejecución de dichas sanciones corresponderá: a la Secretaría de programación y Finanzas, cuando se trate de multas; a la Secretaría de Desarrollo Económico, en los demás casos;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
 
-XIV.- Vigilar el cumplimiento de la Legislación Federal en materia de aprovechamiento de los recursos naturales como lo que preveen las Leyes: Federal de Aguas, de Fomento Agropecuario, de Conservación del Suelo, Forestal y de la Reforma Agraria;
+XIII.- Imponer las sanciones administrativas que procedan a los infractores de esta Ley y demás ordenamientos aplicables en materia de equilibrio ecológico y protección al ambiente; invariablemente, la ejecución de dichas sanciones corresponderá a la Secretaría de Finanzas, cuando se trate de multas; a la Secretaría de Desarrollo Urbano y Rural, en los demás casos;
+
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+XIV.- Vigilar el cumplimiento de la Legislación Federal en materia de aprovechamiento de los recursos naturales como los que preveen (sic) las Leyes: Federal de Aguas, de Conservación del Suelo y Agua, Forestal, Agraria, Federal de Caza y Federal de Pesca.
 
 XV.- Mantener un sistema permanentemente de información y vigilancia sobre los ecosistemas, en sus respectivas jurisdicciones territoriales y, podrán coordinar sus acciones entre sí y con el Gobierno Federal.
 
@@ -169,7 +321,9 @@ VI.- Regular las descargas de origen municipal y su mezcla incontrolada con otra
 
 VII.- Formular y expedir las declaratorias para la creación de áreas naturales protegidas en el Municipio, en congruencia con la política ecológica de la Federación y del Estado;
 
-VIII.- Vigilar el cumplimiento de la legislación federal en materia de aprovechamiento de los recursos naturales, como lo prevén las Leyes: Federal de Aguas, de Fomento Agropecuario, de Conservación del Suelo, Forestal y de la Reforma Agraria; y
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+VIII.- Vigilar el cumplimiento de la legislación federal en materia de aprovechamiento de los recursos naturales, como lo preveen (sic) las Leyes: Federal de Aguas, de Conservación del Suelo y Agua, Forestal, Agraria, Federal de Pesca y Federal de Caza; y
 
 IX.- Las demás que le confieran las disposiciones legales, y reglamentos aplicables, en materia ecológica.
 
@@ -194,6 +348,30 @@ VI.- El aprovechamiento de los recursos naturales renovables debe realizarse, de
 ###### ARTICULO 11.
 
 Las atribuciones gubernamentales, en materia de preservación y restauración del equilibrio ecológico, y protección al ambiente, que son objeto de esta Ley, serán ejercidas de manera concurrente por el Gobierno del Estado y los Gobiernos Municipales, de conformidad con la distribución de competencia, cuyas bases establece la presente Ley, sin perjuicio de lo que se disponga en otros ordenamientos.
+
+> <small>(ADICIONADO P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 11 Bis.
+
+Las atribuciones que en materia de prevención y restauración del equilibrio ecológico o protección al ambiente le corresponden a la Federación, podrán ser ejercidas de manera concurrente con las autoridades estatales mediante acuerdos de coordinación en las siguientes materias:
+
+I.- La regulación de las actividades que se realicen dentro del territorio estatal y que son consideradas altamente riesgosas por la magnitud o gravedad de los efectos que puedan generar en el equilibrio ecológico o al ambiente;
+
+II.- La creación y administración de las áreas naturales protegidas a las que se refiere el artículo 46, fracciones de la I a la VII, de la Ley General de Equilibrio Ecológico y Protección al Ambiente;
+
+III.- La protección de la flora y fauna silvestres y acuáticas que habitan en el territorio estatal para su conservación y su desarrollo;
+
+IV.- El aprovechamiento racional del suelo en actividades productivas de acuerdo con su vocación y la revisión y control de la contaminación de los suelos;
+
+V.- La prevención y el control de las emisiones de contaminantes en zonas o en casos de fuentes emisoras que sean reservadas a la Federación, dentro del territorio estatal y que rebasen los niveles máximos permisibles por ruidos y vibraciones, energía térmica, lúminica y olores perjudiciales al equilibrio ecológico o el ambiente;
+
+VI.- La evaluación del impacto ambiental de las actividades a que se refieren los artículos 29 y 30 de la Ley General del Equilibrio Ecológico y Protección al Ambiente, que pretendan realizarse en territorio estatal.
+
+> <small>(ADICIONADO P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 11 Bis 1.
+
+Una vez concertados los acuerdos de coordinación a que se refiere el artículo anterior, la concurrencia entre el Estado y la Federación se ejercerá de manera mancomunada en la emisión de dictámenes, estudios, permisos o sanciones y en la inspección y vigilancia de las actividades señaladas.
 
 ###### ARTICULO 12.
 
@@ -227,11 +405,15 @@ XIII.- La regulación del manejo y disposición final de los residuos sólidos q
 
 XIV.- Expedir y aplicar, en el ámbito de sus respectivas competencias, Leyes y Reglamentos que tiendan al cumplimiento de las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y sus normas reglamentarias;
 
-XV.- Aplicar en el ámbito de sus competencias, las normas técnicas ecológicas, expedidas por la Secretaría de Desarrollo Urbano y Ecología, y las expedidas por el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+XV.- Aplicar en el ámbito de sus competencias, las normas técnicas ecológicas, expedidas por la Secretaría de Desarrollo Social, y las expedidas por el Gobierno del Estado;
 
 XVI.- Concertar, con los sectores social y privado, la realización de acciones, en el ámbito de sus competencias, conforme a la presente Ley;
 
-XVII.- Vigilar la aplicación de la tecnología aprobada por la Secretaría de Desarrollo Urbano y Ecología y en las que en su caso expida el Gobierno del Estado, para reducir las emisiones contaminantes de vehículos automotores, en el ámbito de sus competencias;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+XVII.- Vigilar la aplicación de la tecnología aprobada por la Secretaría de Desarrollo Social y en las que en su caso expida el Gobierno del Estado, para reducir las emisiones contaminadoras de vehículos automotores, en el ámbito de sus competencias;
 
 XVIII.- Aplicar las normas técnicas de emisión máxima permisible de contaminantes de la atmósfera de fuentes móviles, incluido el transporte público;
 
@@ -267,11 +449,17 @@ XXXIII.- Las demás que se deriven de la Ley General del Equilibrio Ecológico y
 
 Cuando dos o más centros de población urbanos, situados en el Estado, formen o tiendan a formar una continuidad demográfica, el Gobierno del Estado y los de los Municipios respectivos, en el ámbito de sus competencias, planearán de manera coordinada las acciones de que trata este artículo, en la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPITULO IV. DE LAS ATRIBUCIONES DE LA SECRETARIA DE DESARROLLO ECONOMICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DICIEMBRE DE 1992)</small>
+
+### CAPITULO IV. DE LAS ATRIBUCIONES DE LA SECRETARIA DE DESARROLLO
+
+URBANO Y RURAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 13.
 
-Corresponde a la Secretaría de Desarrollo Económico:
+Corresponde a la Secretaría de Desarrollo Urbano y Rural, por conducto de la Dirección de Ecología:
 
 I.- Formular y conducir la Política Estatal de Ecología,
 
@@ -303,43 +491,79 @@ XIV.- Concertar acciones con los sectores social y privado en la materia;
 
 XV.- Las demás que conforme a ésta u otras Leyes o Disposiciones legales le corresponda.
 
-### CAPITULO V. DE LA GESTION AMBIENTAL
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+### CAPITULO IV Bis. DE LOS CONSEJOS ESTATAL Y MUNICIPALES DE ECOLOGIA
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 14.
 
-Se crea la Comisión Estatal de Ecología como Organismo permanente de coordinación institucional entre las Dependencias y Entidades del Ejecutivo Estatal y los Municipios y de concertación entre los sectores de la sociedad civil.
+Se crea el Consejo Estatal de Ecología como Organismo Permanente de Coordinación Institucional entre las Dependencias y Entidades del Gobierno Estatal, y los Municipios y de concertación con los sectores de la sociedad civil.
 
-Este Organismo se integrará de la siguiente forma:
+Este Consejo se integrará de la siguiente forma:
 
-I.- Presidente: El C. Gobernador Constitucional del Estado.
+I.- Presidente: El C. Gobernador Constitucional del Estado;
 
-II.- Secretario: El Coordinador General del Coplade Estatal.
+II.- Secretario: El Titular de la Secretaría de Desarrollo Urbano y Rural;
 
-III.- Coordinador Ejecutivo: El Titular de la Secretaría de Desarrollo Económico del Gobierno del Estado.
+III.- Coordinador Ejecutivo: El Titular de la Dirección de Ecología;
 
-IV.- Secretario Técnico: El Titular de la Secretaría de Desarrollo Urbano y Vivienda.
+IV.- Secretario Técnico: El Titular de la Secretaría de Salud y Bienestar Social;
 
-V.- La Comisión de Protección y Mejoramiento Ambiental del H. Congreso del Estado.
+V.- Los vocales que serán:
 
-VI.- Los Presidentes de los Ayuntamientos del Estado.
+a).- Un representante de cada una de las agrupaciones ecológicas de la Entidad;
 
-VII.- Representantes de Instituciones de Educación Superior.
+b).- La Comisión de Protección y Mejoramiento Ambiental del H. Congreso del Estado;
 
-VIII.- Representantes de los sectores privado y social.
+c).- El Titular de la Secretaría de Planeación y Promoción Económica;
 
-Para su funcionamiento la Comisión Estatal de Ecología se regirá de acuerdo con el Reglamento Interior que ella misma apruebe.
+d).- Los Presidentes de los HH. Ayuntamientos;
+
+e).- Los representantes de Instituciones de Educación Superior;
+
+f).- Los representantes de los sectores privado y social; y
+
+g).- Los funcionarios de las Dependencias Federales que estén relacionadas con la preservación ecológica.
+
+El Consejo deberá reunirse de manera ordinaria por lo menos una vez cada seis meses o, de manera extraordinaria, cuando para ello fuere convocado por su Presidente o Coordinador Ejecutivo. Para su funcionamiento el Consejo Estatal de Ecología se regirá de acuerdo con el Reglamento Interior que ella misma apruebe y que deberá ser publicado en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 15.
 
-Con el propósito de orientar la toma de decisiones y fomentar la comunicación ecológica en la población, la Comisión Estatal de Ecología publicará un informe anual sobre el estado del ambiente en la Entidad, en el que se incluya la evolución de los ecosistemas, causas y efectos de deterioro, si este existe, y recomendaciones para corregirlo y/o orientarlo. Dicho informe se turnará a la Legislatura del Estado para su conocimiento.
+Con el propósito de orientar la toma de decisiones y fomentar la comunicación ecológica en la población, el Consejo Estatal de Ecología publicará un informe anual sobre el estado del ambiente en la Entidad, en el que se incluya la evolución de los ecosistemas, causas y efectos de deterioro, si este existe, y recomendaciones para corregirlo o en su caso, orientarlo. Dicho informe se turnará a el Honorable Congreso del Estado para su conocimiento.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 16.
 
-En cada Municipio existirá una Comisión Municipal de Ecología que se encargará de coordinar a las Dependencias y Entidades Municipales y de coordinar los esfuerzos de la sociedad civil, en las materias a que se refiere esta Ley y que son de competencia municipal.
+En cada Municipio se integrará un Consejo Municipal de Ecología cuya función será la de apoyar la respectiva política ecológica estatal, difundiendo y orientando acerca de las acciones correspondientes; asimismo se encargará de coordinar a las Dependencias o Entidades Municipales y los esfuerzos o aportaciones de la sociedad civil, en las materias a que se refiere esta Ley y que sean de su competencia.
 
-En cada Ayuntamiento habrá un Regidor encargado de la función de Ecología.
+El Consejo Municipal de Ecología se integrará de la siguiente forma:
 
-### CAPITULO VI. DEL ORDENAMIENTO ECOLOGICO
+I.- Presidente: El C. Presidente Municipal del H. Ayuntamiento;
+
+II.- Secretario: El Titular de la Dirección de Obras Públicas del H. Ayuntamiento;
+
+III.- Coordinador Ejecutivo: El Presidente de la Comisión de Ecología del H. Cabildo;
+
+IV.- Los Vocales, que serán:
+
+a).- Un representante de cada una de las agrupaciones ecológicas del Municipio;
+
+b).- El Titular del Comité de Planeación para el Desarrollo Municipal;
+
+c).- Los representantes de Instituciones de Educación Superior;
+
+d).- Los representantes de los sectores privado y social; y
+
+e).- Los funcionarios de las Dependencias Federales que estén relacionadas con la preservación ecológica en el Municipio.
+
+El Consejo Municipal deberá reunirse por lo menos una vez cada seis meses de manera ordinaria o, extraordinariamente, cuando para ello fuere convocado por su Presidente o su Coordinador Ejecutivo. Para su funcionamiento el Consejo Municipal de Ecología se regirá de acuerdo con el Reglamento Interior que ella misma apruebe y deberá publicarse en el Periódico Oficial del Estado.
+
+### CAPITULO V. DE LA GESTION AMBIENTAL
 
 ###### ARTICULO 17.
 
@@ -353,7 +577,7 @@ III.- Regular y planear las acciones ecológicas en áreas conurbadas de dos o m
 
 IV.- Cuando surjan contingencias ambientales que afecten el territorio de dos o más entidades vecinas circunscritas en un ecosistema regional.
 
-### CAPITULO VII. DE LOS ASENTAMIENTOS HUMANOS Y SU PLANEACION ECOLOGICA
+### CAPITULO VI. DEL ORDENAMIENTO ECOLOGICO
 
 ###### ARTICULO 18.
 
@@ -367,7 +591,9 @@ III.- Los desequilibrios existentes en los ecosistemas, por efecto de los asenta
 
 IV.- El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales; y
 
-V.- El impacto ambiental de nuevos asentamientos humanos, obras o actividades agropecuarias, industriales, comerciales o de servicio.
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+V.- El impacto ambiental de asentamientos humanos, obras o actividades agropecuarias, industriales, comerciales o de servicios.
 
 ###### ARTICULO 19.
 
@@ -397,11 +623,13 @@ b).- La creación de reservas territoriales y la determinación de los usos prov
 
 c).- La ordenación urbana del territorio y los programas del Gobierno Estatal para infraestructura, equipamiento urbano y vivienda.
 
-### CAPITULO VIII. EVALUACION DEL IMPACTO AMBIENTAL
+### CAPITULO VII. DE LOS ASENTAMIENTOS HUMANOS Y SU PLANEACION ECOLOGICA
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 20.
 
-La regulación ecológica de los asentamientos humanos consiste en el conjunto de normas, disposiciones y medidas de desarrollo urbano y vivienda, por conducto de la Secretaría de Desarrollo Urbano y Vivienda, así como la Inmobiliaria del Estado, sujetándose éstos a la Ley de Fraccionamientos del Estado de Colima, para mantener, mejorar y restaurar el equilibrio de estos asentamientos con los elementos naturales, y asegurar el mejoramiento de la calidad de vida de la población.
+La regulación ecológica de los asentamientos humanos consiste en el conjunto de normas, disposiciones y medidas de desarrollo urbano y vivienda, por conducto de la Secretaría de Desarrollo Urbano y Rural y los Ayuntamientos, así como el Instituto de Vivienda del Gobierno del Estado, sujetándose éstos a la Ley de Fraccionamientos, para mantener, mejorar y restáurar el equilibrio de estos asentamientos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población.
 
 ###### ARTICULO 21.
 
@@ -457,19 +685,23 @@ II.- La integración de inmuebles de alto valor histórico, arquitectónico y cu
 
 III.- Así mismo la limitación para crear zonas habitacionales en torno a industrias.
 
-### CAPITULO IX. NORMAS TECNICAS ECOLOGICAS
+### CAPITULO VIII. EVALUACION DEL IMPACTO AMBIENTAL
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 26.
 
-La realización de obras y actividades públicas o privadas, que puedan causar desequilibrios ecológicos al rebasar los límites y condiciones señaladas en las disposiciones aplicables, deberán sujetarse a la autorización previa de la Secretaría de Desarrollo Económico, o de los Municipios correspondientes, siempre que no se trate de obras o actividades que competan a la Federación o estén reservadas a ella. Así mismo, deberán de cumplir con los requisitos que se les impongan una vez evaluado el impacto ambiental que pudieran ocasionar, sin perjuicio de otras autorizaciones que corresponda otorgar a las autoridades competentes.
+La realización de obras y actividades públicas o privadas que puedan causar desequilibrios ecológicos al rebasar los límites y condiciones señaladas en las disposiciones aplicables, deberán sujetarse a la autorización previa de la Dirección de Ecología o de los gobiernos o los municipios correspondientes, siempre que no se trate de obras o actividades que competan a la Federación o estén reservadas a ella. Así mismo, deberán de cumplir con los requisitos que se les impongan una vez evaluado el impacto ambiental que pudieran ocasionar, sin perjuicio de otras autorizaciones que corresponda otorgar a las autoridades competentes.
 
 ###### ARTICULO 27.
 
 Cuando se trate de la evaluación del impacto ambiental por la realización de obras o actividades que tengan por objeto el aprovechamiento de recursos naturales, se requerirá a los interesados que en la manifestación del impacto ambiental correspondiente, se incluya la descripción de los posibles efectos de dichas actividades en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que serían sujetos de aprovechamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 28.
 
-Corresponderá a la Secretaría de Desarrollo Económico, evaluar el impacto ambiental a que se refieren los Artículos 23 y 24 de esta Ley, particularmente tratándose de las siguientes materias:
+Corresponderá a la Dirección de Ecología, evaluar el impacto ambiental a que se refiere los artículos 23 y 24 de esta ley, particularmente tratándose de las siguientes materias:
 
 I.- Obra Pública Estatal;
 
@@ -485,31 +717,41 @@ VI.- Desarrollos turísticos estatales, municipales y privados;
 
 VII.- Instalación de sistemas de tratamiento, confinamiento o eliminación de aguas residuales y de residuos sólidos no peligrosos;
 
-VIII.- Fraccionamientos, unidades habitacionales y nuevos centros de población; y
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+VIII.- Fraccionamientos y unidades habitacionales;
 
 IX.- Las demás que no sean competencia de la Federación.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 29.
 
 A la manifestación del impacto ambiental se acompañará, en su caso, un estudio de riesgo de la obra, de las actividades previstas o de las modificaciones que vayan a efectuarse, cuando se trate de obras existentes.
 
-La manifestación y el estudio mencionado, podrá realizarse por la Secretaría de Desarrollo Económico o bien requerir el interesado que lo realice por los prestadores de servicios en la materia, siempre y cuando estén inscritos en el registro correspondiente de la Secretaría de Desarrollo Urbano y Ecología.
+La manifestación y el estudio mencionado, podrá realizarse por los prestadores de servicios en la materia, siempre y cuando estén inscritos en el registro de consultores en evaluación de impacto ambiental de la Dirección de Ecología del Gobierno del Estado o en el registro correspondiente que la Federación señale.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 30.
 
-Una vez evaluada la manifestación de impacto ambiental, la Secretaría de Desarrollo Económico, en los casos previstos en el Artículo 28 de esta Ley, o en su caso, los Gobiernos Municipales, dictarán la resolución correspondiente. En dicha resolución podrá:
+Una vez evaluada la manifestación de impacto ambiental, la Dirección de Ecología, en los casos previstos en el artículo 28 de esta Ley, o en su caso, los gobiernos municipales, dictarán la resolución correspondiente. En dicha resolución podrá:
 
 I.- Otorgarse la autorización para la ejecución de la obra o la realización de la actividad de que se trate, en los términos solicitados;
 
 II.- Negarse dicha autorización; u
 
-III.- Otorgarse de manera condicionada a la modificación del proyecto de obra o actividad, a fin de que se eviten o atenúen los impactos ambientales adversos susceptibles de ser producidos en la operación normal y aún en caso de accidente. Cuando se trate de autorización condicionada, la Secretaría de Desarrollo Económico, o en su caso los Gobiernos Municipales, señalarán los requerimientos que deban observarse para la ejecución de la obra o la realización de la actividad prevista.
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+III.- Otorgarse de manera condicionada a la modificación del proyecto de obra o actividad, a fin de que se eviten o atenúen los impactos ambientales adversos susceptibles de ser producidos en la operación normal y aún en caso de accidente. Cuando se trate de autorización condicionada, la Dirección de Ecología o en su caso los gobiernos municipales, señalarán los requerimientos que deban observarse para la ejecución de la obra o la realización de la actividad prevista.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 31.
 
-El Gobierno del Estado y Ayuntamientos, por conducto de la Secretaría de Desarrollo Económico, podrán solicitar asistencia técnica al Gobierno Federal para la evaluación de la manifestación de impacto ambiental o del estudio de riesgo, en su caso.
+El Gobierno del Estado, por conducto de la Dirección de Ecología, y los Ayuntamientos podrán solicitar asistencia técnica al Gobierno Federal para la evaluación de la manifestación de impacto ambiental o del estudio de riesgo, en su caso.
 
-### CAPITULO X. INVESTIGACION Y EDUCACION ECOLOGICA
+### CAPITULO IX. NORMAS TECNICAS ECOLOGICAS
 
 ###### ARTICULO 32.
 
@@ -519,15 +761,17 @@ Se denomina Norma Técnica Ecológica, al conjunto de reglas científicas y tecn
 
 Toda actividad que cause o pueda causar desequilibrio ecológico, y por ende afectar la salud y bienestar de la población, los bienes propiedad del Estado o de los particulares, deberán de observar los límites y procedimientos que se fijen en las normas técnicas ecológicas aplicables.
 
-### CAPITULO I. AREAS NATURALES PROTEGIDAS DE JURISDICCION LOCAL
+### CAPITULO X. INVESTIGACION Y EDUCACION ECOLOGICA
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 34.
 
-Es obligación de las Secretarías de Desarrollo Económico a través de la Secretaría de Educación, Cultura y Deporte, diseñar programas de contenido ecológico que complementen los que establece la Secretaría de Educación Pública en los diversos ciclos educativos, especialmente en el nivel básico; fomentando en la niñez y juventud el amor por la naturaleza.
+La Dirección de Ecología, en coordinación con la Secretaría de Educación, Cultura y Deporte, diseñará programas de contenido ecológico que complementen los que establece la Secretaría de Educación Pública en los diversos ciclos educativos, especialmente en el nivel básico, fomentando en la niñez y juventud el amor por la naturaleza.
 
-Así mismo, fomentará la realización de acciones de cultura ecológica en toda la Entidad a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes y propiciará el fortalecimiento de la conciencia ecológica a través de los medios de comunicación.
+Asimismo, fomentará la realización de acciones de cultura ecológica en toda la entidad, a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes, y propiciará el fortalecimiento de la conciencia ecológica a través de los medios de comunicación.
 
-De igual forma promoverá que las instituciones de Educación Superior y los Organismos dedicados a la Investigación Científica y Tecnológica, desarrollen planes y programas para la formación de especialistas en la materia y para la investigación de las causas y efectos de los fenómenos ambientales.
+De igual forma, promoverá que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en la materia y para la investigación de las causas y efectos de los fenómenos ambientales.
 
 ###### ARTICULO 35.
 
@@ -537,7 +781,7 @@ El Gobierno del Estado y los Ayuntamientos, fomentarán la Investigación Cient�
 
 Y LA CONSERVACION DE LOS RECURSOS NATURALES
 
-### CAPITULO II. SISTEMA ESTATAL DE AREAS NATURALES PROTEGIDAS
+### CAPITULO I. AREAS NATURALES PROTEGIDAS DE JURISDICCION LOCAL
 
 ###### ARTICULO 36.
 
@@ -549,11 +793,17 @@ La determinación de áreas naturales protegidas tienen como propósito:
 
 I.- Preservar los ambientes naturales dentro de las zonas de los asentamientos humanos y en su entorno para contribuir a mejorar la calidad de vida de la población y mantener su equilibrio ecológico.
 
-II.- Salvaguardar la diversidad genética de las especies silvestres que habitan en los centros de población principalmente las de interés regional;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
 
-III.- Asegurar el aprovechamiento racional de los elementos naturales, de los ecosistemas;
+II.- Salvaguardar la diversidad genética de las especies silvestres que habitan en los centros de población y áreas adyacentes.
 
-IV.- Favorecer la investigación científica, el estudio de los ecosistemas y la educación ambiental de la población;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+III.- Asegurar el aprovechamiento racional de los recursos naturales, sin detrimento a los ecosistemas.
+
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+IV.- Favorecer la investigación científica, el estudio de los ecosistemas y la educación ecológica de la población.
 
 V.- Generar conocimiento y tecnologías que permitan el aprovechamiento racional y sostenido de los recursos naturales, así como su preservación;
 
@@ -565,7 +815,9 @@ VIII.- Proteger sitios escénicos para asegurar la calidad del medio ambiente y 
 
 IX.- Dotar a la población de áreas para su esparcimiento, con la finalidad de que se tome conciencia ecológica sobre los recursos naturales del Estado; y
 
-X.- Proteger los recursos marinos, fauna y flora acuática sobre todo aquellos en vías de extinción
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+X.- Proteger los recursos de la flora y fauna marinas; estableciendo viveros, criaderos y reservas para su conservación y preservación, sobre todo para aquellas especies en vías de extinción.
 
 ###### ARTICULO 38.
 
@@ -599,6 +851,26 @@ Los parques naturales municipales y parques ecológicos se constituirán por ár
 
 Los parques urbanos son aquellas áreas de uso público, constituidas por el Gobierno Estatal y los Municipios en los centros de población para alcanzar y preservar el equilibrio en los ecosistemas urbanos industriales entre las construcciones, equipamientos e instalaciones respectivos y los elementos de la naturaleza, de manera que se proteja un ambiente sano, el esparcimiento de la población y los valores artísticos, históricos y de belleza natural que se signifiquen en la localidad.
 
+### CAPITULO II. SISTEMA ESTATAL DE AREAS NATURALES PROTEGIDAS
+
+###### ARTICULO 44.
+
+Las áreas naturales y protegidas estatales, serán las que la presente Ley manifieste como tales.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 45.
+
+La Dirección de Ecología llevará el registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 46.
+
+Con el propósito de preservar el patrimonio natural de la entidad y con arreglo a las bases de coordinación que al efecto se celebren en los términos de la Ley Orgánica de la Administración Pública del Estado, las dependencias competentes incorporarán en las reglas de manejo de las áreas naturales protegidas cuya administración les competan, aquellas que determine la Dirección de Ecología para proveer eficazmente la protección de ecosistemas y sus elementos.
+
+La Secretaría de Desarrollo Urbano y Rural podrá celebrar convenios de concertación con grupos sociales y particulares interesados, para facilitar el logro de los fines para los que se hubiesen establecido las áreas naturales del sistema estatal.
+
 ### CAPITULO III
 
 DECLARATORIAS PARA EL ESTABLECIMIENTO, CONSERVACION,
@@ -607,35 +879,21 @@ ADMINISTRACION, DESARROLLO Y VIGILANCIA DE LAS AREAS
 
 NATURALES Y PROTEGIDAS
 
-###### ARTICULO 44.
-
-Las áreas naturales y protegidas estatales, serán las que la presente Ley manifieste como tales.
-
-###### ARTICULO 45.
-
-La Secretaría de Desarrollo Económico, llevará el registro de las áreas integrantes del sistema estatal de áreas naturales protegidas, en el que se consignen los datos de su inscripción en el registro público de la propiedad que correspondan.
-
-###### ARTICULO 46.
-
-Con el propósito de preservar el patrimonio natural de la Entidad y con arreglo las bases de coordinación que al efecto se celebren en los términos de la Ley Orgánica de la Administración Pública del Estado, las dependencias competentes incorporarán en las reglas de manejo de las áreas naturales protegidas cuya administración les competa, aquellas que determine la Secretaría de Desarrollo Económico para proveer eficazmente la protección de los ecosistemas y sus elementos.
-
-La Secretaría de Desarrollo Económico, podrá celebrar convenios de concertación con grupos sociales y particulares interesados, para facilitar el logro de los fines para los que se hubiesen establecido las áreas naturales del sistema estatal.
-
-### CAPITULO I. USO RACIONAL DEL AGUA Y APROVECHAMIENTO DE LOS ECOSISTEMAS
-
-ACUATICOS
-
 ###### ARTICULO 47.
 
 Las áreas naturales protegidas se establecerán mediante Decreto del Congreso del Estado, o Decreto expedido por el Ejecutivo; los Ayuntamientos interesados harán la declaratoria correspondiente conforme a éste y los demás Ordenamientos aplicables según proceda en el ámbito de su competencia y en su caso, elevarán iniciativa de Decreto al Organo Legislativo para el debido establecimiento de éstas áreas.
 
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 48.
 
-En la realización de los estudios previos que den base a la expedición de declaratorias para el establecimiento de áreas naturales protegidas, deberán participar, la Secretaría de Desarrollo Económico, así como los municipios en cuyas circunscripciones territoriales se localice el área natural de que se trate.
+En la realización de los estudios previos que den base a la expedición de declaratorias para el establecimiento de áreas naturales protegidas, deberán participar la Dirección de Ecología así como los municipios en cuyas circunscripciones territoriales se localice el área natural de que se trate.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 49.
 
-La Secretaría de Desarrollo Económico, propondrá al Ejecutivo Estatal, la expedición de declaratorias para el establecimiento de áreas naturales protegidas de jurisdicción local. A su vez el Ejecutivo podrá solicitar a la Federación el establecimiento de áreas naturales protegidas de interés federal.
+La Dirección de Ecología propondrá al Ejecutivo Estatal, la expedición de declaratorias para el establecimiento de áreas naturales protegidas de jurisdicción local. A su vez, el Ejecutivo podrá solicitar a la Federación el establecimiento de áreas naturales protegidas de interés federal.
 
 ###### ARTICULO 50.
 
@@ -647,7 +905,9 @@ II.- Las modalidades a que se sujetará dentro del área, el uso o aprovechamien
 
 III.- La descripción de actividades que podrán llevarse a cabo en el área correspondiente.
 
-IV.- La causa de utilidad pública que, en su caso, fundamente la expropiación de terrenos, para que el Estado adquiera su dominio, cuando al establecerse un área natural protegida se requiera de dicha resolución; en estos casos, deberán observarse las previsiones de la Ley de Expropiación Estatal y la Ley Federal de la Reforma Agraria.
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+IV.- La causa de utilidad pública que, en su caso, fundamente la expropiación de terrenos, para que el Estado adquiera su dominio, cuando al establecerse un área natural protegida se requiera de dicha resolución; en estos casos, deberán observarse las previsiones de la Ley de Expropiación del Estado y Ley Agraria.
 
 V.- Los lineamientos para la elaboración de un programa de manejo de área.
 
@@ -659,9 +919,11 @@ Las declaratorias deberán publicarse en el Periódico Oficial ``El Estado de Co
 
 Una vez establecida una área natural protegida, sólo podrá ser modificada su extensión, y en su caso, los usos del suelo permitidos por la autoridad que le haya establecido, de conformidad con los estudios que al efecto se realicen.
 
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 53.
 
-Las áreas naturales protegidas establecidas por el Ejecutivo Estatal podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad y quedarán sujetas a la condición de inafectables a que se refiere el articulo 24 de la Ley Federal de la Reforma Agraria en los casos que ahí se preveen.
+Las áreas naturales protegidas establecidas por el Ejecutivo Estatal podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad y quedarán sujetas a la condición de inafectables a que se refiere la legislación agraria.
 
 ###### ARTICULO 54.
 
@@ -669,13 +931,19 @@ En el otorgamiento o expedición de permisos, licencias, concesiones o en genera
 
 I.- El solicitante deberá en tales casos, demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico;
 
-II.- La Secretaría de Desarrollo Económico prestará la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior; y
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
 
-III.- La Secretaría de Desarrollo Económico, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de los recursos ocasionen o pueda ocasionar deterioro al equilibrio ecológico.
+II.- La Dirección de Ecología prestará la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior; y
+
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+III.- La Dirección de Ecología, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de los recursos ocasionen o puedan ocasionar deterioro al equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 55.
 
-La Secretaría de Desarrollo Económico, al proponer el establecimiento de una área natural protegida, elaborará el respectivo programa de trabajo o manejo, con la participación de las demás dependencias competentes y de los Municipios que corresponda, en el plazo que señale la declaratoria que se haya expedido.
+La Dirección de Ecología, al proponer el establecimiento de una área natural protegida, elaborará el programa respectivo de trabajo o manejo con la participación de las demás dependencias competentes y de los municipios que corresponden, en el plazo que señale la declaratoria que se haya expedido.
 
 ###### ARTICULO 56.
 
@@ -695,7 +963,9 @@ Todos los actos, convenios o contratos relativos a la propiedad, posesión o cua
 
 ## TITULO TERCERO. APROVECHAMIENTO RACIONAL DE LOS RECURSOS NATURALES
 
-### CAPITULO II. APROVECHAMIENTO RACIONAL DEL SUELO Y SUS RECURSOS
+### CAPITULO I. USO RACIONAL DEL AGUA Y APROVECHAMIENTO DE LOS ECOSISTEMAS
+
+ACUATICOS
 
 ###### ARTICULO 58.
 
@@ -715,9 +985,7 @@ El Ejecutivo del Estado y los Ayuntamientos en el ámbito de sus competencias, a
 
 Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicios, las autoridades estatales y municipales, en su caso, promoverán el tratamiento de aguas residuales y su reuso, programas y dispositivos de ahorro de agua.
 
-### CAPITULO I. PREVENCION Y CONTROL DE LA CONTAMINACION
-
-DE LA ATMOSFERA
+### CAPITULO II. APROVECHAMIENTO RACIONAL DEL SUELO Y SUS RECURSOS
 
 ###### ARTICULO 61.
 
@@ -735,25 +1003,131 @@ IV.- La realización de las obras públicas o privadas que por sí mismas puedan
 
 Quienes realicen actividades agrícolas y ganaderas deberán llevar a cabo las prácticas de conservación necesarios para evitar el deterioro de los suelos y del equilibrio ecológico, en los términos de lo dispuesto por ésta y demás Leyes aplicables.
 
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 63.
 
-En las zonas que presentan graves alteraciones ecológicas, el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico y los Ayuntamientos, promoverán y formularán programas especiales para la restauración del equilibrio ecológico, en sus respectivos ámbitos de competencia.
+En las zonas que presentan graves alteraciones ecológicas, el Gobierno del Estado, a través de la Dirección de Ecología y los gobiernos municipales, promoverán y formularán programas especiales para la restauración del equilibrio ecológico, en sus respectivos ámbitos de competencia.
 
-### CAPITULO II. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA Y DE
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 1992)</small>
 
-LOS ECOSISTEMAS ACUATICOS
+### CAPITULO III. APROVECHAMIENTO RACIONAL DE LA FLORA Y FAUNA SILVESTRE Y
+
+URBANA
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis.
+
+Para la protección y aprovechamiento de la flora y fauna silvestre y urbana, se considerarán los siguientes criterios:
+
+I.- La preservación del hábitat natural de las especies de flora y fauna del Estado, así como la vigilancia de sus zonas de reproducción;
+
+II.- La preservación de los procesos evolutivos de las especies y sus recursos genéticos, destinando áreas representativas de los sistemas ecológicos del Estado a la protección e investigación;
+
+III.- La protección y desarrollo de las especies endémicas, amenazadas o en peligro de extinción, a fin de recuperar su estabilidad poblacional;
+
+IV.- El combate al tráfico ilegal de especies regionales y el control de la introducción de especies exóticas;
+
+V.- El fortalecimiento de las estaciones biológicas de rehabilitación y repoblamiento de especies de fauna silvestre;
+
+VI.- La concertación con la comunidad para propiciar su participación en la conservación de especies; y
+
+VII.- El repoblamiento de las especies de la flora del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 1.
+
+Los criterios para la protección y aprovechamiento de la flora y fauna silvestre y urbana serán considerados, entre otros, en los siguientes casos:
+
+I.- El otorgamiento de concesiones, permisos y en general de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, propagación y desarrollo de la flora y fauna silvestre y urbana, que sean del ámbito estatal;
+
+II.- Las acciones de sanidad fitopecuaria;
+
+III.- La protección y conservación de la flora y fauna del Estado, contra la acción perjudicial de plagas y enfermedades o la contaminación que pueda derivarse de actividades fitopecuarias;
+
+IV.- La creación de áreas de refugio para proteger las especies acuáticas que así lo requieran; y
+
+V.- La determinación de los métodos y medidas aplicables o indispensables para la conservación, cultivo y repoblación de los recursos pesqueros.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 2.
+
+La Dirección de Ecología establecerá y en su caso promoverá ante las autoridades competentes, vedas de la flora y fauna silvestres y urbanas y la modificación o levantamiento de las mismas.
+
+Las vedas que se decreten tendrán como finalidad la conservación, repoblación, propagación, distribución, aclimatación o refugio de los especímenes, principalmente de aquellas especies amenazadas o en peligro de extinción.
+
+Los decretos de veda deberán precisar su naturaleza y temporalidad los límites de las áreas o zonas vedadas y de las especies de la flora y fauna comprendidas en ellas, las cuales deberán publicarse en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 3.
+
+Las disposiciones de esta Ley son aplicables a la posesión, administración, conservación, repoblación, propagación y desarrollo de la flora y fauna silvestre y urbana. Las personas físicas o morales que se dediquen a las expresadas actividades deberán sujetarse a las normas técnicas ecológicas que expida la Dirección de Ecología.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 4.
+
+El aprovechamiento de los recursos naturales en áreas que sean hábitat de especies de flora o fauna silvestre, especialmente las propias del Estado, las amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 5.
+
+La Dirección de Ecología, en coordinación con las dependencias federales y estatales que en materia ecológica les compete, expedirá las normas técnicas ecológicas de conservación y aprovechamiento del hábitat de la flora y fauna silvestre y acuáticas.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 6.
+
+Cuando así lo requiera la protección de especies, la Dirección de Ecología promoverá ante las autoridades competentes, el establecimiento de medidas de regulación o restricción, en forma total o parcial a la exportación o importación de especímenes de la flora y fauna silvestre, e impondrá las restricciones necesarias para la circulación o tránsito por el Estado de especies de la flora y fauna silvestres procedentes del o destinadas al extranjero.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 7.
+
+El aprovechamiento de especies de la fauna silvestre en actividades económicas podrá autorizarse cuando las particulares garanticen su reproducción controlada y desarrollo en cautiverio y proporcionen un número suficiente para el repoblamiento de la especie.
+
+No podrá autorizarse el aprovechamiento sobre poblaciones naturales de especies endémicas, amenazadas o en peligro de extinción excepto en los casos de investigación científica.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 8.
+
+La Dirección de Ecología promoverá la creación, el seguimiento y vigilancia de criaderos, viveros y reservas en coordinación con otras dependencias, que al igual tengan competencia en materia ecológica.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 63 Bis 9.
+
+La Dirección de Ecología, en coordinación con las dependencias federales y municipales:
+
+I.- Expedirá las normas técnicas ecológicas de conservación y aprovechamiento del hábitat de la flora y fauna urbana;
+
+II.- Otorgará los permisos y autorizaciones para el derribo o poda de la flora urbana siempre que se justifique;
+
+III.- Programará las acciones de control y combate de plagas y enfermedades; y
+
+IV.- Determinará los métodos y medidas aplicables o indispensables para la conservación, cultivo y repoblación de la flora y fauna urbanas.
 
 ## TITULO CUARTO. NORMATIVIDAD DE LA PROTECCION AMBIENTAL
 
-### CAPITULO III. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO
+### CAPITULO I. PREVENCION Y CONTROL DE LA CONTAMINACION
+
+DE LA ATMOSFERA
 
 ###### ARTICULO 64.
 
 Se prohibe emitir contaminantes a la atmósfera tales como: Humo, polvos, gases, vapores y olores que rebasen los límites máximos permisibles contenidos en las normas técnicas ecológicas que se expidan y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 65.
 
-El Gobierno del Estado y los Ayuntamientos en materia de contaminación atmosférica, de conformidad con lo dispuesto en los artículos 8o. y 9o. de esta Ley, en el ámbito de sus respectivas jurisdicciones:
+El Gobierno del Estado y los gobiernos municipales, en materia de contaminación atmosférica, de conformidad con lo dispuesto en los artículos 8 y 9 de esta Ley, en el ámbito de sus respectivas jurisdicciones:
 
 I.- Llevarán a cabo las acciones de prevención y control de la contaminación del aire en bienes y zonas de su jurisdicción;
 
@@ -767,7 +1141,9 @@ V.- Establecerán y operarán sistemas de verificación de emisiones de vehícul
 
 VI.- Promoverán el mejoramiento de los sistemas de transporte urbano y suburbano, vía modernización de las unidades;
 
-VII.- Establecerán y operarán coordinadamente los sistemas de monitoreo de la calidad del aire en las zonas más críticas, los que previamente contarán con el apoyo técnico de la federación. La Secretaría de Desarrollo Económico, concentrará los informes locales del monitoreo para su incorporación a los sistemas de información estatal y federal, de conformidad con el acuerdo de coordinación que al efecto se celebren;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+VII.- Establecerán y operarán coordinadamente los sistemas de monitoreo de la calidad del aire en las zonas más críticas, los que previamente contarán con el apoyo técnico de la Federación. La Dirección de Ecología concentrará los informes locales del monitoreo para su incorporación a los sistemas de información estatal y federal, de conformidad con el acuerdo de coordinación que al efecto se celebre;
 
 VIII.- Establecerán requisitos y procedimientos para regular las emisiones del transporte público; aplicarán las medidas de trámite y, en su caso, la suspensión de circulación en casos graves de contaminación;
 
@@ -789,7 +1165,9 @@ Las autoridades Estatales y Municipales, en su caso, promoverán, en las zonas q
 
 En los programas de desarrollo urbano Estatal y Municipales, se considerarán las condiciones topográficas, climatológicas y metereológicas, para asegurar la adecuada dispersión de contaminantes.
 
-### CAPITULO IV. ACTIVIDADES NO CONSIDERADAS ALTAMENTE RIESGOSAS
+### CAPITULO II. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA Y DE
+
+LOS ECOSISTEMAS ACUATICOS
 
 ###### ARTICULO 68.
 
@@ -861,7 +1239,7 @@ Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen
 
 Las autoridades estatal y municipales, en los casos de aguas de su competencia, se coordinarán con la federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas para detectar la presencia de contaminantes o exceso de desechos orgánicos y aplicar las medidas que procedan o, en su caso, promover su ejecución. Igualmente cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua.
 
-### CAPITULO V. MANEJO DE LOS RESIDUOS SOLIDOS NO PELIGROSOS
+### CAPITULO III. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO
 
 ###### ARTICULO 76.
 
@@ -919,25 +1297,31 @@ Toda descarga, depósito o infiltración de substancias o materiales contaminant
 
 Los procesos industriales que generen residuos de lenta degradación, se llevarán a cabo con arreglo a lo que dispongan las Leyes y Reglamentos correspondientes.
 
-### CAPITULO VI. RUIDOS, VIBRACIONES, OLORES, ENERGIA TERMICA Y LUMINICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DICIEMBRE DE 1992)</small>
+
+### CAPITULO IV. ACTIVIDADES CONSIDERADAS POTENCIALMENTE RIESGOSAS
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 83.
 
-Las autoridades estatales y municipales regularán la realización de actividades que no son consideradas altamente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas del ambiente de la Entidad en general, o del Municipio correspondiente.
+Las autoridades estatales y municipales regularán la realización de actividades consideradas potencialmente riesgosas, cuando éstas afecten el equilibrio de los ecosistemas del ambiente de la entidad en general o del municipio correspondiente.
 
-Dicha regulación, corresponderá a los Ayuntamientos, cuando en la realización de actividades no consideradas altamente riesgosas, se generen residuos que sean vertidos a los sistemas de drenaje y alcantarillado de los centros de población, o integrados a la basura; así como cuando se trate de actividades relacionadas con residuos no peligrosos, generados en servicios públicos cuya regulación o manejo corresponda a los propios municipios o se realicen con dichos servicios.
+Dicha regulación corresponderá a los Ayuntamientos, cuando en la realización de actividades consideradas potencialmente riesgosas, se generen residuos que sean vertidos a los sistemas de drenaje y alcantarillado de los centros de población o integrados a la basura; así como cuando se trate de actividades relacionadas con residuos no peligrosos, generados en servicios públicos cuya regulación o manejo corresponda a los propios municipios o se realicen con dichos servicios.
+
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 84.
 
-La Secretaría de Desarrollo Económico, previa opinión de expertos en la materia, dictaminará y publicará, en el Periódico Oficial "El Estado de Colima", los listados de actividades que no son consideradas altamente riesgosas a que se refiere esta Ley, en congruencia con los listados que publique la Federación, de actividades consideradas altamente riesgosas, para efectos de lo establecido en este ordenamiento.
+La Dirección de Ecología, previa opinión de expertos en la materia, dictaminará y publicará en el Periódico Oficial del Estado, los listados de actividades, materiales y residuos considerados potencialmente riesgosos a que se refiere esta ley, en congruencia con los listados que publique la Federación, de actividades consideradas altamente riesgosas.
 
-Para la realización de las actividades a que se refiere este artículo, se requerirá autorización expresa de la Secretaría de Desarrollo Económico del Gobierno del Estado.
+Para la realización de las actividades a que se refiere este artículo, se requerirá autorización expresa de la Dirección de Ecología.
 
 ###### ARTICULO 85.
 
 En los programas de desarrollo urbano del Estado, se especificará las zonas en que será permitido el establecimiento de industrias, comercios y servicios no considerados altamente riesgosos, pero en ningún caso, dichos establecimientos estarán dentro de áreas habitacionales.
 
-### CAPITULO VII. CONTAMINACION VISUAL Y PROTECCION DEL PAISAJE
+### CAPITULO V. MANEJO DE LOS RESIDUOS SOLIDOS NO PELIGROSOS
 
 ###### ARTICULO 86.
 
@@ -973,7 +1357,7 @@ El Gobierno del Estado y los Ayuntamientos llevarán el inventario de rellenos s
 
 Para la localización, instalación y funcionamiento de sistemas de manejo de residuos sólidos no peligrosos, se tomará en cuenta el ordenamiento ecológico y los planes de desarrollo urbano estatal, municipal y centros de población.
 
-### CAPITULO UNICO. PARTICIPACION CIUDADANA
+### CAPITULO VI. RUIDOS, VIBRACIONES, OLORES, ENERGIA TERMICA Y LUMINICA
 
 ###### ARTICULO 92.
 
@@ -983,7 +1367,7 @@ En la construcción de obras o instalaciones industriales que generen energía t
 
 La autoridad Municipal regulará y autorizará las actividades que generen este tipo de contaminantes y destinará los lugares de su ubicación y reubicación de los ya existentes.
 
-### CAPITULO I. DE LA OBSERVANCIA DE LA LEY
+### CAPITULO VII. CONTAMINACION VISUAL Y PROTECCION DEL PAISAJE
 
 ###### ARTICULO 93.
 
@@ -995,7 +1379,7 @@ La Secretaría determinará las zonas en la Entidad que tengan un valor históri
 
 ## TITULO QUINTO. PARTICIPACION SOCIAL
 
-### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
+### CAPITULO UNICO. PARTICIPACION CIUDADANA
 
 ###### ARTICULO 95.
 
@@ -1013,27 +1397,29 @@ III.- Promoverá la celebración de convenios con diversos medios de comunicaci�
 
 IV.- Promoverá el establecimiento de premios y reconocimientos a los esfuerzos más destacados de la sociedad, para preservar y restaurar el equilibrio ecológico y proteger al ambiente; e
 
-V.- Impulsará el fortalecimiento de la conciencia ecológica a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos, para ello, la Secretaría de Desarrollo Económico podrá en forma coordinada con los Municipios, celebrar convenios de concertación con comunidades urbanas y rurales, así como con organizaciones sociales.
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+V.- Impulsará el fortalecimiento de la conciencia ecológica a través de la realización de acciones conjuntas con la comunidad para la preservación y el mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Dirección de Ecología podrá celebrar convenios de concertación con comunidades urbanas y rurales, así como con organizaciones sociales, en forma coordinada con los gobiernos municipales.
 
 ## TITULO SEXTO. MEDIDAS DE CONTROL Y DE SEGURIDAD Y SANCIONES
 
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO I. DE LA OBSERVANCIA DE LA LEY
 
 ###### ARTICULO 97.
 
 Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia; ejecución de medidas de seguridad; determinación de infracciones administrativas y de comisión de delitos y sus sanciones y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta Ley, los Reglamentos y Bandos de Policía y Buen Gobierno, salvo que otras leyes los regulen, en forma específica, en relación con las materias de que se trata este ordenamiento.
 
-### CAPITULO IV. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 98.
 
 La autoridad estatal y las municipales, realizarán actos de inspección y vigilancia, para la verificación del cumplimiento de esta Ley, además de la General en asuntos del orden federal. Para tal fin, celebrarán los acuerdos de coordinación necesarios.
 
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 99.
 
-La Secretaría de Desarrollo Económico y los Ayuntamientos, en el ámbito de su competencia, realizarán, por conducto del personal que para ello autoricen debidamente, visitas de inspección, sin perjuicio de otras medidas previstas en las Leyes que puedan levar a cabo para verificar el cumplimiento de este ordenamiento.
-
-El personal autorizado al practicar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada, dictada por la autoridad administrativa que ejerza las atribuciones que otorga la presente Ley, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objetivo de la diligencia y el alcance de ésta.
+La Dirección de Ecología y los gobiernos municipales en el ámbito de su competencia, por conducto del personal que para ello autoricen debidamente, realizarán visitas de inspección para verificar el cumplimiento de este ordenamiento, sin perjuicio de otras medidas que pueden llevar a cabo.
 
 ###### ARTICULO 100.
 
@@ -1075,27 +1461,39 @@ Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado 
 
 Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer la sanción o sanciones, que procedan conforme a esta Ley;
 
+> <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 107.
 
-La Secretaría de Desarrollo Económico conjuntamente con los Ayuntamientos, podrá convocar a todas las organizaciones ecologistas devidamente (sic) registradas ante ésta, para coadyuvar en la observancia de la presente Ley, funciones que determinará la propia autoridad.
+La Dirección de Ecología conjuntamente con los gobiernos municipales, podrá convocar a todas las organizaciones ecologistas debidamente registradas ante ésta, para coadyuvar en la observancia de la presente Ley, funciones que determinará la propia autoridad.
 
-### CAPITULO V. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 108.
 
 Cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercuciones (sic) peligrosas para los ecosistemas, sus componentes o para la salud pública, la autoridad estatal o municipal en su caso, como medida de seguridad, podrá ordenar el decomiso de materiales o substancias contaminantes; la clausura temporal, parcial o total de las fuentes contaminantes correspondientes y promover la ejecución, ante autoridad diversa competente, en los términos de las leyes relativas, de alguna o algunas de las medidas de seguridad que en dichos ordenamientos se establezcan, sin perjuicio de las atribuciones que se reserve como exclusivas la federación, para estos casos.
 
-### CAPITULO VI. DE LA DENUNCIA POPULAR
+### CAPITULO IV. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 109.
 
 Las violaciones a los preceptos de esta Ley, o sus reglamentos y disposiciones que de ellas emanen, constituyen infracción y serán sancionadas administrativamente por la autoridad estatal y municipal, en asuntos de su respectiva competencia y, en los demás casos por la federación, conforme a la Ley General del Equilibrio Ecológico y la Protección al Ambiente, con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de veinte a diez mil días de salario mínimo vigente en la zona donde se cometa la infracción, en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
 
-II.- Clausura temporal o definitiva; parcial o total; y
+I.- Multa por el equivalente de cien a diez mil días de salario mínimo vigente en el momento en que se cometa la infracción, más el pago de la reparación del daño;
 
-III.- Arresto administrativo hasta por treinta y seis horas incondonables, al propietario o representante legal.
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+II.- Clausura temporal o definitiva; parcial o total;
+
+> <small>(REFORMADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+III.- Arresto administrativo hasta por treinta y seis horas incondonables, al propietario o representante legal; y
+
+> <small>(ADICIONADA, P.O. 26 DICIEMBRE DE 1992)</small>
+
+IV.- Decomiso de productos o implementos utilizados en la comisión de las infracciones.
 
 Si una vez vencido el plazo concedido por la autoridad ordenadora para subsanar las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de ellas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 
@@ -1126,6 +1524,8 @@ Las autoridades estatales o municipales, promoverán ante la que corresponda, u 
 ###### ARTICULO 114.
 
 Las multas a las que se hagan acreedores los infractores de la presente Ley, por ningún motivo podrán ser condonadas, ya que los daños ecológicos son difícilmente restituibles.
+
+### CAPITULO V. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 115.
 
@@ -1182,6 +1582,44 @@ Transcurrido el término para el desahogo de las pruebas, si las hubiere, se dic
 ###### ARTICULO 121.
 
 En contra de las resoluciones dictadas con motivo de la aplicación de esta Ley y sus reglamentos, o disposiciones que de ella emanen, los interesados podrán optar, por agotar el recurso de inconformidad a que se refiere este capítulo o interponer el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado de Colima.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 1992)</small>
+
+### CAPITULO V BIS. DE LOS DELITOS
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 121 Bis.
+
+Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que previamente la Dirección de Ecología o los gobiernos municipales formulen la denuncia correspondiente, salvo que se trate de casos de flagrante delito.
+
+> <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 121 Bis
+
+1.- Los actos u omisiones que las leyes en materia de equilibrio ecológico y protección al ambiente tipifiquen como delitos y cuya sanción corresponda imponer a la autoridad judicial local, se castigarán:
+
+I.- De dos meses a cinco años de prisión y multa por el equivalente de 100 a 75,000 días de salario mínimo general vigente en la entidad, al que, sin contar con las autorizaciones respectivas a que se refiere el artículo 84 de esta Ley, autorice, ordene o ejecute la realización de actividades que conforme a este mismo ordenamiento se consideren potencialmente riesgosas, que no sean competencia de la federación y que ocasionen graves daños a la salud pública, la flora o la fauna o los ecosistemas;
+
+II.- De un mes a cuatro años de prisión y multa por el equivalente de 100 a 50,000 días de salario mínimo general vigente en la entidad, al que con violación a lo establecido en las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables, autorice, ordene, descargue o despida en la atmósfera, gases, humos, polvos, vapores y olores que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas;
+
+III.- De tres meses a seis años de prisión y multa por el equivalente de 100 a 100,000 días de salario mínimo general vigente en la entidad, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables, descargue, deposite, infiltre aguas residuales, desechos o contaminantes en ríos, cuencas, vasos o demás depósitos o corrientes de aguas de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a los ecosistemas o a la salud pública.
+
+Cuando se trate de agua para ser entregadas en volumen a centros de población, destinada al consumo humano, la pena se podrá elevar hasta tres años más;
+
+IV.- De un mes a un año de prisión y multa por el equivalente de 100 a 25,000 días de salario mínimo general vigente en la entidad, a quien en contravención a la disposiciones legales aplicables y rebasando los límites en las normas técnicas genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción estatal, que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas;
+
+V.- De un mes a un año de prisión y multa por el equivalente a 100 a 25,000 días de salario mínimo general vigente en la entidad, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas contamine visualmente o altere negativamente las condiciones de paisaje de las zonas que los Planes de Ordenamiento Ecológico señalen como susceptibles de protegerse, así como de las áreas naturales protegidas.
+
+VI.- De dos meses a cinco años de prisión y multa por el equivalente de 100 a 75,000 días de salario mínimo general vigente en la entidad, a quien sin contar con la autorización municipal, o contraviniendo los términos en que ésta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, rehuse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos considerados potencialmente riesgosos que no sean competencia de la Federación de acuerdo a lo estipulado en el artículo 84 de esta Ley, que ocasionen o puedan ocasionar graves daños a la salud pública, a la flora, fauna o a los ecosistemas.
+
+VII.- De un mes a un año de prisión y multa por el equivalente de 100 a 25,000 días de salario mínimo vigente en la Entidad, a quien sin tomar las debidas precauciones, inicie un incendio que rebase los límites del terreno que posea y de lugar a un daño generalizado.
+
+VIII.- De un mes a tres años de prisión y multa por el equivalente de 100 a 40,000 días de salario mínimo en la Entidad, al que intencionalmente propague una epizootia, plaga, parásitos o gérmenes nocivos o realice cualquier acción que dañe o ponga en riesgo la supervivencia de la flora o la fauna silvestre o urbana, lo autorice o lo ordene.
+
+Al dictar sentencia condenatoria respecto de los delitos contenidos en este Título, los Jueces invariablemente impondrán la sanción de la reparación del daño cuando ésto sea posible.
+
+### CAPITULO VI. DE LA DENUNCIA POPULAR
 
 ###### ARTICULO 122.
 
@@ -1250,3 +1688,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Palacio de Gobierno, Colima, Col. Septiembre 25 de 1990
 
 Sufragio Efectivo No Reelección.- EL GOBERNADOR CONST. DEL ESTADO.- LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE A. GAYTAN GUDIÑO.- Rúbrica-.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
