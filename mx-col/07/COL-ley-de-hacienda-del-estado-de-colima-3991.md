@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1995-09-02"
+last_updated: "1995-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -631,29 +631,29 @@ h).- La inscripción de títulos de propiedad de bienes o derechos que modifique
 
 i).- Si en el nuevo título a que se refiere el inciso anterior se aumenta el capital o se transfiere algún derecho, se aplicará la tasa del 0.4% sobre el importe del aumento, sin que sea menor, de 5.000
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-j).- Las operaciones crediticias a que se refiere el artículo 66 de la Ley de Instituciones de Crédito, se cobrará, por una sola vez:
+j).- Las operaciones crediticias a que se refiere el artículo 66, fracción I de la Ley de Instituciones de Crédito, se cobrará, por una sola vez:
 
-1.- Cuando el monto de la operación sea hasta el equivalente a 3.814 días de salario mínimo 5.000
+1.- Cuando el monto de las operaciones sea hasta por el equivalente a 648 días de salario mínimo 1.000
 
-2.- Cuando el valor de operación esté entre los 3.815 y 4.964 días de salario mínimo 8.000
+2.- Cuando el monto de la operación esté entre los 649 y 1,295 días de salario mínimo 2.000
 
-3.- Cuando el valor de la operación esté entre los 4.965 y 6.116 días de
+3.- Cuando el monto de la operación esté entre los 1,296 y 1,943 días de salario mínimo 3.000
 
-salario mínimo 12.000
+4.- Cuando el monto de la operación esté entre los 1,944 y 2,591 días de salario mínimo 4.000
 
-4.- Cuando el valor de la operación sea mayor al equivalente de 6.116 días de salario mínimo:
+5.- Cuando el monto de la operación esté entre los 2,592 y 3,814 días de salario mínimo 5.000
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+6.- Cuando el monto de la operación esté entre los 3,815 y 4,964 días de salario mínimo 8.000
 
-4.1.- El 0.125% sobre el monto de la operación cuando se trate de créditos de habilitación o avío, para fines agropecuarios o de pesca
+7.- Cuando el monto de la operación esté entre los 4,965 y 6,477 días de salario mínimo 12.000
 
-4.2.- El 0.25% sobre el monto de la operación cuando se trate de créditos distintos a los señalados en el subpunto anterior
+8.- Cuando el valor de la operación sea mayor al equivalente de 6,477 días de salario, se pagará sobre el monto del crédito el 0.25%
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+9.- Por los créditos de habilitación o avío destinados a fines agropecuarios o de pesca, se pagará el 50% de lo que resulte de conformidad con los subpuntos anteriores, sin que se pague menos del equivalente a 1.000
 
-5.- Cuando se trate de restructuración (sic) de créditos, el derecho a pagar se calculará sobre el total de crédito restructurado (sic), deduciendo del resultado el derecho pagado cuando se registro el crédito original
+10.- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el total del crédito reestructurado deduciendo del resultado el derecho pagado cuando se registró el crédito original.
 
 k).- La anotación de demandas o cualquier documento judicial que exprese el valor, se aplicará la tasa 0.4% sobre dicho valor sin que el importe del derecho a pagar sea menor de 5.000
 
@@ -841,7 +841,7 @@ t).- Impresión de informes a solicitud del interesado por hoja 1.080
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO IX. Otros Derechos
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 53.
 
@@ -1081,7 +1081,7 @@ VI.- Por modificar registros manifestados erróneamente, a solicitud del interes
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO IX. Otros Derechos
 
 ###### Artículo 55.
 
@@ -2221,7 +2221,7 @@ HIPOSPADIAS 10.580 16.430 22.270
 
 17518 VALVAS (sic) POSTE
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ### CAPITULO UNICO
 
@@ -2253,6 +2253,8 @@ III.- Registro y diligencia de exhortos 0.720
 
 IV.- Copias certificadas de Sentencia de Divorcio 1.350
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
 ###### Artículo 64.
 
 Por otros servicios prestados en las Dependencias del Gobierno del Estado:
@@ -2282,8 +2284,6 @@ a).- Por la primera hoja 1.000
 b).- Por cada hoja más o fracción 0.270
 
 II.- Por los servicios de vigilancia e inspección, los contratistas con quienes celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente a 1.5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos correspondientes
-
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2468,3 +2468,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 2 DE SEPTIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- Durante el período de vigencia del Acuerdo de Apoyo Inmediato a Deudores de la Banca, los deudores que se acojan a dicho acuerdo para reestructurar sus créditos con las instituciones bancarias, pagarán los derechos previstos en el artículo 52, fracción I, inciso j) de la Ley de Hacienda del Estado, descontando el 50% a los importes establecidos en la tarifa del referido numeral sin que se pague menos del equivalente a un día de salario mínimo.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
