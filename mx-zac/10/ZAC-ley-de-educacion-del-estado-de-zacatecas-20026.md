@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-20026"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-17"
-last_updated: "2002-04-10"
+last_updated: "2003-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACION DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de julio de 1999.
 
@@ -185,6 +185,10 @@ XIV. Promover a través de apoyos financieros o de otros medios, todos los tipos
 
 XV. Impulsar el desarrollo de la ciencia y la tecnología.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+XVI. Fortalecer la cultura de respeto a los derechos humanos, la autoestima de niños y niñas, y la concepción de la igualdad entre hombres y mujeres.
+
 ###### Artículo 7.
 
 La educación que imparta el Estado quedará a cargo de la Secretaría. A ella compete, con el concurso de las demás autoridades educativas: vigilar que la educación sea de calidad en términos de relevancia, eficacia, equidad, eficiencia, pertinencia social y competitividad.
@@ -245,7 +249,9 @@ XXIV. Vigilar el cumplimiento del artículo 3º de la Constitución Política de
 
 XXV. Fomentar las relaciones educativas y culturales con otras entidades;
 
-XXVI. Planear, ejecutar y evaluar programas para prevenir la drogadicción, el alcoholismo, el pandillerismo y la delincuencia juvenil, por sí o en coordinación con otras instancias;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2003)</small>
+
+XXVI. Planear, ejecutar y evaluar programas de educación para prevenir la drogadicción, el alcoholismo, el pandillerismo, la violencia familiar y la delincuencia juvenil, por sí y en coordinación con otras instancias;
 
 XXVII. Administrar los planteles de la entidad conforme al Apartado "A" del artículo 123 de la Constitución Política de los Estados Mexicanos;
 
@@ -427,7 +433,9 @@ III. SUPERIOR. Es el que se imparte después del bachillerato o de sus equivalen
 
 La educación básica tendrá las adaptaciones necesarias para atender a la población rural dispersa y a los grupos migratorios; así como en su caso responder a las características lingüísticas y culturales de grupos indígenas. Queda comprendida la educación especial, la educación para menores infractores y la educación para adultos.
 
-De acuerdo con las necesidades educativas específicas de la población, también puede impartirse la educación básica con programas y sus adaptaciones curriculares particulares para atender dichas necesidades. Se promoverá que los educandos adquieran los conocimientos básicos sobre ecología, medio ambiente, la vida y la sociedad.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2003)</small>
+
+De acuerdo con las necesidades educativas específicas de la población, también puede impartirse la educación básica con programas y sus adaptaciones curriculares particulares para atender dichas necesidades. Se promoverá que los educandos adquieran los conocimientos básicos sobre ecología, medio ambiente, la vida, la sociedad y la solución pacífica de controversias.
 
 ###### Artículo 23.
 
@@ -441,7 +449,7 @@ La educación preescolar deberá impartirse en establecimientos denominados Jard
 
 ###### Artículo 25.
 
-La educación primaria, incluyendo la de niños con necesidades educativas especiales, persigue fundamentalmente el desarrollo y adaptación de los educandos al medio que les es propio, capacitándolos para un desarrollo afectivo, cognoscitivo y psicomotriz, para una vida social y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre ecología, el medio ambiente, la vida y la sociedad; se oriente a la investigación y al trabajo, sujetándose a los programas que determine la Autoridad Educativa Federal. La educación primaria es el antecedente obligatorio de la educación secundaria.
+La educación primaria, incluyendo la de niños con necesidades educativas especiales, persigue fundamentalmente el desarrollo y adaptación de los educandos al medio que les es propio, capacitándolos para un desarrollo afectivo, cognoscitivo y psicomotriz; para una vida social y de cooperación que asegure su bienestar y progreso, procurando que adquieran los conocimientos básicos sobre la ecología, el medio ambiente, la vida y la sociedad; se oriente a la investigación y al trabajo, sujetándose a los programas que determine la Autoridad Educativa Federal. La educación primaria es el antecedente obligatorio de la educación secundaria.
 
 ###### Artículo 26.
 
@@ -966,3 +974,13 @@ P.O. 10 DE ABRIL DE 2002.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan al presente Decreto.
+
+P.O. 19 DE FEBRERO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
