@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-01-29"
+last_updated: "2003-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -66,6 +66,40 @@ La constitución y el funcionamiento del Congreso del Estado y las atribuciones 
 ###### Art. 5o.
 
 Es competencia exclusiva de los diputados al Congreso del Estado la presentación de iniciativas para la reforma, adición, abrogación y derogación de las normas de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2003)</small>
+
+###### Art. 5 Bis.
+
+Para los efectos de esta Ley, en los términos sólo se computarán los días hábiles, con excepción de aquellos a que se refieren los artículos 11, 13 y 26, en los que se computarán los días naturales.
+
+Son días inhábiles:
+
+a) Sábados y domingo;
+
+b) Jueves y viernes santos;
+
+c) Primero de enero;
+
+d) Cinco de febrero;
+
+e) Veintiuno de marzo;
+
+f) Primero y cinco de mayo;
+
+g) Dieciséis de septiembre;
+
+h) Doce de octubre;
+
+i) Primero y dos de noviembre;
+
+j) Veinte de noviembre;
+
+k) Veinticinco de diciembre;
+
+l) Los períodos de vacaciones del poder legislativo;
+
+m) Los que determinen las Leyes Federales y Locales, en caso de elecciones ordinarias y extraordinarias, para desarrollar la jornada electoral.
 
 ###### Art. 6o.
 
@@ -1792,3 +1826,9 @@ UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 29 DE ENERO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
