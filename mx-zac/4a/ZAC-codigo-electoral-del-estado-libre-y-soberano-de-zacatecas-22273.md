@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-electoral-del-estado-libre-y-soberano-de-zacatecas-22273
 country: "mx"
 rank: "codigo"
 publication_date: "1995-04-08"
-last_updated: "1997-10-04"
+last_updated: "2002-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2002.
 
 > <small>N. DE E. LA QUINCUAGESIMA QUINTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATAECAS, APROBO EL DECRETO 188 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DEL CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 4 DE OCTUBRE DE 1997.</small>
 
@@ -367,9 +367,11 @@ VIII. Si aún quedaren curules por repartir se utilizará el método de resto ma
 
 1.- El Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador Constitucional del Estado y durará en su cargo 6 años.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 21.
 
-1.- La elección de Gobernador del Estado será directa y por el principio de mayoría relativa. La preparación y desarrollo de la elección y el cómputo de sus resultados es responsabilidad del Instituto. La Sala de Segunda Instancia del Tribunal Electoral realizará el cómputo final de esta elección, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma; procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto del candidato que hubiese obtenido el mayor número de votos.
+1.- La elección de Gobernador del Estado será directa y por el principio de mayoría relativa. La preparación y desarrollo de la elección y el cómputo de sus resultados es responsabilidad del Instituto. La Sala del Tribunal Electoral realizará el cómputo final de esta elección, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma; procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto del candidato que hubiese obtenido el mayor número de votos.
 
 ### CAPITULO QUINTO. DE LA ELECCION DE AYUNTAMIENTOS
 
@@ -1689,9 +1691,11 @@ IV. Declaraciones de validez de la elección y de Gobernador Electo.
 
 2.- Esta etapa comprende también la fase de asignación de Diputados y Regidores por el principio de representación proporcional, la cual se inicia con la recepción de la documentación por el Consejo General y concluye con la declaración que emita sobre las respectivas asignaciones y la comunicación de éstas a la Legislatura del Estado y a los Ayuntamientos, en su caso.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 133.
 
-1.- La etapa de calificación de la elección de Gobernador Constitucional del Estado, se inicia cuando la Sala de Segunda Instancia del Tribunal Estatal Electoral realiza el cómputo final de esa elección, una vez resueltas, en su caso, las impugnaciones que se hubieran interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y concluye con la declaración de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos.
+1.- La etapa de calificación de la elección de Gobernador Constitucional del Estado, se inicia cuando la Sala del Tribunal Estatal Electoral realiza el cómputo final de esa elección, una vez resueltas, en su caso, las impugnaciones que se hubieran interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y concluye con la declaración de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos.
 
 ###### ARTICULO 134.
 
@@ -2647,9 +2651,13 @@ III. Integrar el expediente del cómputo distrital de la elección de Diputados 
 
 1.- Una vez integrados los expedientes, el Presidente del Consejo Distrital procederá a:
 
-I. Remitir a la Sala de Primera Instancia del Tribunal Estatal Electoral, los escritos de protesta y copia certificada del expediente del cómputo distrital y declaración de validez de la elección de Diputados de mayoría relativa, cuyos resultados hayan sido impugnados, en los términos del Libro Sexto de este Código; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-II. Remitir al Consejo General, el expediente del cómputo distrital que contiene las actas originales y documentación de la elección de Gobernador Constitucional del Estado y de Diputados por el principio de representación proporcional.
+I) Remitir a la Sala del Tribunal Estatal Electoral, copia certificada del expediente del cómputo distrital que contiene las actas originales y documentación de la elección de Gobernador del Estado y de Diputados por el principio de representación proporcional; y
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+II) Remitir al Consejo General, el expediente del cómputo distrital que contiene las actas originales y documentación de la elección de Gobernador del Estado y de Diputados por el principio de representación proporcional.
 
 ###### ARTICULO 250.
 
@@ -2725,13 +2733,17 @@ II. A remitir al Consejo General, el expediente de cómputo municipal que contie
 
 I. Se tomará nota de los resultados que consten en cada una de las actas de los cómputos distritales y municipales en el orden siguiente:
 
-a) De la de Gobernador Constitucional del Estado, hasta terminar y la suma de esos resultados constituirá el cómputo estatal de esta elección;
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+a) De la de Gobernador del Estado, hasta terminar y la suma de esos resultados constituirá el cómputo estatal de esta elección;
 
 b) De la de Diputados por el principio de representación proporcional, hasta terminar y la suma de esos resultados arrojará el total del cómputo estatal de esta elección; y
 
 c) De la de Regidores por el principio de representación proporcional, hasta terminar y la suma de esos resultados dará el total del cómputo estatal de esta elección.
 
-II. En la elección de Gobernador Constitucional del Estado, se preparará expediente para su remisión a la Sala de Segunda Instancia del Tribunal Electoral Estatal;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+II. En la elección de Gobernador del Estado, se preparará expediente para su remisión a la Sala del Tribunal Electoral Estatal;
 
 III. Verificará el cumplimiento de los requisitos formales de las elecciones de Diputados y Regidores de representación proporcional y hará la declaratoria de validez correspondiente a cada una de ellas; y
 
@@ -2749,9 +2761,11 @@ IV. Hará la revisión de las listas plurinominales registradas en ambas eleccio
 
 1.- El Consejo General deberá levantar un acta circunstanciada de cada uno de los cómputos estatales que llevó a cabo, consignando en ella todos los actos que realizó y los hechos e incidentes ocurridos durante la sesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 264.
 
-1.- Los resultados del cómputo estatal de la elección de Gobernador y el expediente respectivo, deberán ser remitidos a la Sala de Segunda Instancia del Tribunal Estatal Electoral, para los efectos de que realice el cómputo final de la elección, y una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, proceda a formular la declaración de validez de la elección y la de Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos.
+1.- Los resultados del cómputo estatal de la elección de Gobernador y el expediente respectivo, deberán ser remitidos a la Sala del Tribunal Estatal Electoral, para los efectos de que realice el cómputo final de la elección, y una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, proceda a formular la declaración de validez de la elección y la de Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos.
 
 2.- En los casos de asignaciones de Diputados y Regidores por el principio de representación proporcional, el Consejo General deberá comunicar oficialmente a la Legislatura del Estado y a los Ayuntamientos, respectivamente los acuerdos de asignación que correspondan en cada caso, una vez que el Tribunal Estatal Electoral haya resuelto en forma definitiva e inatacable, las impugnaciones que al respecto se hubieren presentado.
 
@@ -2783,17 +2797,31 @@ a) El recurso de revocación; y
 
 b) El recurso de revisión.
 
-II. Durante el proceso electoral, en la etapa de resultados, declaraciones de validez y otorgamiento de constancias, podrán interponerse, en su orden, los medios de impugnación siguientes:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
-a) El Recurso de Inconformidad para impugnar:
+II. Durante el proceso electoral, en la etapa de resultados, declaraciones de validez y otorgamiento de constancias, podrán interponerse, según corresponda, los medios de impugnación siguientes:
 
-1.- En única instancia, en la elección de Gobernador Constitucional del Estado, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por la nulidad de la votación recibida en una o varias casillas o por error aritmético;
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+a) El Recurso de Inconformidad, ante la Sala del Tribunal Estatal Electoral para impugnar:
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+1.- En la elección de Gobernador del Estado, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por la nulidad de la votación recibida en una o varias casillas o por error aritmético;
 
 2.- En la elección de Diputados por ambos principios, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso; y
 
 3.- En la elección de Ayuntamientos, los resultados consignados en las actas de cómputo municipal o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso.
 
-b) El Recurso de Apelación para impugnar las resoluciones emitidas por la Sala de Primera Instancia recaídas con motivo de la interposición del recurso de Inconformidad exclusivamente en los supuestos contemplados en los párrafos 2º y 3º del inciso a), fracción II de este artículo.
+b) (DEROGADO, P.O. 12 DE ENERO DE 2002)
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2002)</small>
+
+c) El Recurso de revisión, ante la Sala del Tribunal Estatal Electoral para impugnar:
+
+1º Los actos y resoluciones del Consejo General y del Consejero Presidente, relativos a las observaciones hechas por los partidos políticos a listas nominales de electores en los términos de las leyes aplicables; asimismo en contra de actos y resoluciones de la autoridad electoral, durante el tiempo en que no se desarrollen procesos electorales locales, de conformidad con la ley de la materia;
+
+2º La determinación y, en su caso, aplicación de sanciones a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, en los términos de la ley de la materia.
 
 ###### ARTICULO 267.
 
@@ -2833,17 +2861,23 @@ VII. El nombre, la firma y el cargo partidario de quien lo presenta, de la prese
 
 I. El Recurso de Revocación, el órgano del Instituto Electoral del Estado, que haya dictado el acto o resolución que se impugne;
 
-II. El Recurso de Revisión, respecto de resoluciones recaídas en recursos de revocación, la Sala de Segunda Instancia del Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-III. El Recurso de Inconformidad:
+II. El Recurso de Revisión, respecto de resoluciones recaídas en recursos de revocación, la Sala del Tribunal Estatal Electoral;
 
-a)Tratándose de impugnar resultados electorales, error aritmético, declaraciones de validez, otorgamiento de constancias o asignación en las elecciones de Diputados por ambos principios o de Presidentes Municipales, Síndicos, o Regidores por ambos principios, la Sala de Primera Instancia del Tribunal Estatal Electoral; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-b)Tratándose de la impugnación en única instancia a los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético, en la elección de Gobernador Constitucional del Estado, la Sala de Segunda Instancia del Tribunal Estatal Electoral.
+III. El Recurso de Inconformidad, en única instancia, la Sala del Tribunal Estatal Electoral:
 
-IV. El Recurso de Apelación, respecto de resoluciones recaídas en recursos de inconformidad, contemplados en los párrafos 2º y 3º del inciso a), fracción II del artículo 266 de este Código, la Sala de Segunda Instancia del Tribunal Estatal Electoral; y
+a) Tratándose de impugnar resultados electorales, error aritmético, declaraciones de validez, otorgamiento de constancias o asignación en las elecciones de Diputados por ambos principios o de Presidentes Municipales, Síndicos, o Regidores por ambos principios; y
 
-V. Para dirimir, mediante el Juicio de Relaciones Laborales, los conflictos o diferencias que surjan entre el Instituto Electoral, el Tribunal Estatal Electoral y sus respectivos servidores públicos, la Sala de Segunda Instancia del Tribunal Estatal Electoral, aplicando para ello las reglas de procedimiento que prevé la Ley del Servicio Civil del Estado y el Estatuto del Servicio Profesional Electoral del Estado de Zacatecas.
+b) Tratándose de la impugnación a los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético, en la elección de Gobernador del Estado.
+
+IV.- (DEROGADA, P.O. 12 DE ENERO DE 2002)
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+V.- Para dirimir, mediante el Juicio de Relaciones Laborales, los conflictos o diferencias que surjan entre el Instituto Electoral, el Tribunal Estatal Electoral y sus respectivos servidores públicos, la Sala del Tribunal Estatal Electoral, aplicando para ello las reglas de procedimiento que prevé la Ley del Servicio Civil del Estado y el Estatuto del Servicio Profesional Electoral del Estado de Zacatecas.
 
 ###### ARTICULO 272.
 
@@ -2863,9 +2897,11 @@ III. Aquéllos que acrediten tener un interés jurídico derivado del acto o res
 
 ### CAPITULO TERCERO. DE LOS TERMINOS
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 273.
 
-1.- Los recursos de revocación, revisión y apelación, deberán interponerse dentro de los 3 días siguientes contados a partir de aquél en que el actor tenga conocimiento o se hubiese notificado el acto o resolución que se recurra.
+1.- Los recursos de revocación y revisión deberán interponerse dentro de los tres días siguientes contados a partir de aquél en que el actor tenga conocimiento o se hubiese notificado el acto o resolución que se recurra.
 
 ###### ARTICULO 274.
 
@@ -2905,9 +2941,11 @@ III. Las que con ese carácter se establezcan en este Código.
 
 1.- Las resoluciones que recaigan a los recursos de revocación se notificarán: al actor y a los terceros interesados, personalmente en el domicilio que hubieren señalado, y a falta de éste, la notificación se hará por estrados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 280.
 
-1.- La resoluciones del Tribunal Estatal Electoral, recaídas a los recursos de revisión, inconformidad o apelación; así como a los juicios de relaciones laborales en el ámbito electoral, serán notificadas a más tardar el día siguiente de aquél en que se pronuncien, debiendo adjuntar copia de dichas resoluciones, según corresponda en cada caso, de conformidad con lo siguiente:
+1.- La resoluciones del Tribunal Estatal Electoral, recaídas a los recursos de revisión y de inconformidad; así como a los juicios de relaciones laborales en el ámbito electoral, serán notificadas a más tardar el día siguiente de aquél en que se pronuncien, debiendo adjuntar copia de dichas resoluciones, según corresponda en cada caso, de conformidad con lo siguiente:
 
 I. A los Diputados Secretarios de la Mesa Directiva de la Legislatura del Estado, mediante oficio;
 
@@ -2945,9 +2983,11 @@ V. Todos los escritos que se presenten deberán estar firmados autógrafamente p
 
 ### CAPITULO SEXTO. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 283.
 
-1.- El Consejo Electoral que corresponda y la Sala del Tribunal Estatal Electoral competente, podrán desechar de plano aquellos recursos que consideren notoriamente improcedentes fundados en las disposiciones de este Código.
+1.- El Consejo Electoral que corresponda y la Sala del Tribunal Estatal Electoral, podrán desechar de plano aquellos recursos que consideren notoriamente improcedentes fundados en las disposiciones de este Código.
 
 ###### ARTICULO 284.
 
@@ -2975,13 +3015,15 @@ VIII. Se recurra más de una elección con un mismo recurso.
 
 1.- Procederá el sobreseimiento de los recursos en los siguientes casos:
 
-I. Cuando el promovente se desista expresamente por escrito;
+I.- Cuando el promovente se desista expresamente por escrito;
 
-II. Cuando durante el procedimiento de un recurso de apelación el recurrente fallezca o sea suspendido o privado de sus derechos políticos;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-III. Cuando la autoridad electoral modifique o revoque el acto o la resolución impugnado de tal manera que quede sin materia el recurso; y
+II.- Cuando durante el procedimiento de un recurso el recurrente fallezca o sea suspendido o privado de sus derechos políticos;
 
-IV. Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia señalada en el artículo anterior.
+III.- Cuando la autoridad electoral modifique o revoque el acto o la resolución impugnado de tal manera que quede sin materia el recurso; y
+
+IV.- Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia señalada en el artículo anterior.
 
 ### CAPITULO SEPTIMO. DE LA ACUMULACION
 
@@ -3025,53 +3067,27 @@ III. Señalar individualmente las casillas cuya votación pretenda que se anule 
 
 IV. La relación que guarde el recurso con otras impugnaciones.
 
-RTICULO 289-A.-
-
-1.- Son presupuestos necesarios para tramitar el recurso de apelación, los siguientes:
-
-I. Haber agotado previamente en tiempo y forma el recurso de inconformidad;
-
-II. Que la Sala de Primera Instancia haya dejado de tomar en cuenta las causales previstas en los párrafos 2º y 3º del inciso a), fracción II del artículo 266 de este Código, que hubiesen sido invocadas y debidamente probadas en tiempo y forma, por las cuales se hubiere podido modificar el resultado de la elección; y
-
-III. La expresión de agravios por los que se aduzca que la sentencia puede modificar el resultado de la elección.
-
-2.- Se entenderá que se modifica el resultado de una elección cuando el fallo pueda tener como efecto:
-
-a) Anular la elección;
-
-b) Revocar la anulación de la elección;
-
-c) Otorgar el triunfo a un candidato o fórmula distintos a los que originalmente determinó la autoridad electoral correspondiente.
-
-3.- En el recurso de apelación no se podrá ofrecer o aportar prueba alguna salvo en los casos extraordinarios de pruebas supervinientes, cuando éstas sean determinantes para que se acredite alguno de los presupuestos señalados en este artículo.
-
 ###### ARTICULO 289-A.
 
-Son presupuestos necesarios para tramitar el recurso de apelación, los siguientes:
-
-I.- Haber agotado previamente en tiempo y forma el recurso de inconformidad;
-
-II.- Que la Sala de Primera Instancia haya dejado de tomar en cuenta las causales previstas en los incisos b) y c) de la fracción I), del párrafo segundo del artículo 266 de este Código, que hubiesen sido invocadas y debidamente probadas en tiempo y forma, por las cuales se hubiere podido modificar el resultado de la elección; y
-
-III.- La expresión de agravios por los que se aduzca que la sentencia puede modificar el resultado de la elección.
-
-Se entenderá que se modifica el resultado de una elección cuando el fallo pueda tener como efecto:
-
-A. Anular la elección;
-
-B. Revocar la anulación de la elección;
-
-C. Otorgar el triunfo a un candidato o fórmula distintos a los que originalmente determinó la autoridad electoral correspondiente.
-
-En el recurso de apelación no se podrá ofrecer o aportar prueba alguna salvo en los casos extraordinarios de pruebas supervinientes, cuando éstas sean determinantes para que se acredite alguno de los presupuestos señalados en este artículo.
+(DEROGADO, P.O. 12 DE ENERO DE 2002)
 
 ###### ARTICULO 290.
 
 1.- Los efectos que surtirán las resoluciones a los recursos interpuestos, tendrán por objeto revocar, modificar o confirmar el acto, resolución o resultados combatidos.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2002)</small>
+
+2.- Se entenderá que se modifica el resultado de una elección cuando el fallo pueda tener como efecto:
+
+I. Anular la elección;
+
+II. Otorgar el triunfo a un candidato o fórmula distintos a los que originalmente determinó la autoridad electoral correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 291.
 
-1.- Cuando se omita alguno de los requisitos señalados en este Capítulo para la interposición de recursos, el Magistrado de la Sala competente para resolver, requerirá por estrados al promovente, a fin de que los subsane en un plazo de cuarenta y ocho horas contadas a partir de la en que se fije en los estrados el requerimiento correspondiente, con apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
+1.- Cuando se omita alguno de los requisitos señalados en este Capítulo para la interposición de recursos, el Magistrado de la Sala, requerirá por estrados al promovente, a fin de que los subsane en un plazo de cuarenta y ocho horas contadas a partir de la en que se fije en los estrados el requerimiento correspondiente, con apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
 
 ###### ARTICULO 292.
 
@@ -3091,13 +3107,19 @@ En el recurso de apelación no se podrá ofrecer o aportar prueba alguna salvo e
 
 1.- Si los recursos reúnen todos los requisitos, instaurará el procedimiento respectivo la autoridad competente para su debida substanciación.
 
-2.- Son recursos de segunda instancia los de revisión y de apelación.
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
-3.- En ambos casos, transcurrido el término a que se refiere el artículo 294 de éste Código, la autoridad del Instituto Electoral del Estado, o en su caso, la Sala de Primera Instancia del Tribunal Estatal Electoral que respectivamente, hayan resuelto los recursos de revocación o de inconformidad, dentro de las 48 horas siguientes, remitirán a la Sala de Segunda Instancia del Tribunal, el expediente con el escrito en que se haya interpuesto la revisión o la apelación, para que sea debidamente substanciado el medio de impugnación.
+2.- Es recurso de segunda instancia el de revisión.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
+3.-Transcurrido el término a que se refiere el artículo 294 de este Código, la autoridad del Instituto Electoral del Estado, remitirá dentro de las cuarenta y ocho horas siguientes, a la Sala del Tribunal Estatal Electoral, el expediente con el escrito en que se haya interpuesto el recurso, para que sea debidamente substanciado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 296.
 
-1.- Recibida la documentación respectiva, la Sala competente del Tribunal Electoral realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes, de acuerdo con lo siguiente:
+1.- Recibida la documentación respectiva, la Sala del Tribunal Electoral realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes, de acuerdo con lo siguiente:
 
 I. El Presidente de la Sala sin perjuicio de observar lo dispuesto en la Ley Orgánica del Poder Judicial y el Reglamento Interior, turnará de inmediato el expediente recibido a un Magistrado Electoral, quien tendrá la obligación de revisar que el escrito por el que se presenta el medio de impugnación reúne todos los requisitos previstos en la Ley;
 
@@ -3177,9 +3199,11 @@ VALORIZACION DE LAS PRUEBAS.
 
 1.- Los recursos de revocación serán resueltos en sesión pública que celebren los órganos del Instituto competentes, por mayoría de votos de los miembros que los integran, en la primera sesión siguiente después de su presentación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 304.
 
-1.- Los recursos de inconformidad, revisión y apelación, serán resueltos por mayoría de votos de los integrantes de la Sala respectiva del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión salvo que el Pleno acuerde su modificación.
+1.- Los recursos de inconformidad y de revisión, serán resueltos por mayoría de votos de los integrantes de la Sala del Tribunal Estatal Electoral, en el orden en que sean listados para cada sesión salvo que el Pleno acuerde su modificación.
 
 2.- Todos los recursos a que se refiere este Libro, deberán quedar resueltos a más tardar el día 15 de agosto del año de la elección.
 
@@ -3187,9 +3211,11 @@ VALORIZACION DE LAS PRUEBAS.
 
 1.- Toda resolución deberá estar fundada, se decidirá conforme a la letra de la ley o a su interpretación jurídica y a falta de la ley conforme a los principios generales del derecho.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 306.
 
-1.- Los efectos de las resoluciones que recaigan a los recursos de revisión, apelación e inconformidad en el supuesto a que se refiere el párrafo 1º del inciso a), fracción II del artículo 266 de este Código, serán: la revocación, la modificación o la confirmación del acto o resolución impugnados, y tendrán el carácter de definitivas e inatacables.
+1.- Los efectos de las resoluciones que recaigan a los recursos de inconformidad y de revisión, a que se refiere el artículo 266, fracción II, incisos a) y c) de este Código, serán: la revocación, la modificación o la confirmación del acto o resolución impugnados, y tendrán el carácter de definitivas e inatacables.
 
 ## TITULO SEGUNDO. DE LAS NULIDADES, FALTAS Y SANCIONES ADMINISTRATIVAS
 
@@ -3442,3 +3468,7 @@ TERCERO.- El Convenio de Colaboración que se hubiere suscrito entre el Titular 
 CUARTO.- El Titular del Poder Ejecutivo del Estado, a través de las dependencias que corresponda, dispondrá se realicen las transferencias presupuestales necesarias a efecto de que los órganos electorales puedan cumplir con sus obligaciones y realizar las actividades que la Ley les impone.
 
 QUINTO.- El Consejo General deberá expedir la reglamentación interna del Instituto en un plazo que no excederá de 30 días contados a partir de su instalación.
+
+P.O. 12 DE ENERO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
