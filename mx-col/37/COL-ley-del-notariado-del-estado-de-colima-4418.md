@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "1965-08-21"
+last_updated: "1966-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1966.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -547,15 +547,23 @@ ART. 124.- La garantía constituida por el notario de número cubrirá la de su 
 
 ART. 125.- Los notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia, en cada trimestre por quince días sucesivos o alternados, o en un semestre por un mes, dando aviso a la Secretaría General de Gobierno.
 
-ART. 126.- Los notarios tienen derecho a solicitar y obtener del Gobierno del Estado, licencias para estar separados del cargo hasta por el término de un año renunciable. Cuando hubieren hecho uso de una licencia no podrán solicitar otra nueva después de haber transcurrido un año en el ejercicio personal de su función notarial, salvo caso de enfermedad grave debidamente justificada.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE AGOSTO DE 1966)</small>
+
+ART. 126.- Los notarios tienen derecho a solicitar y obtener del Gobierno del Estdo (sic), licencias para estar separados del cargo hasta por el término de un año renunciable. Cuando hubieren hecho uso de una licencia no podrán solicitar otra nueva sino después de haber transcurrido un año en el ejercicio personal de su función notarial, salvo caso de enfermedad grave debidamente justificada.
 
 El notario tiene derecho a que el Estado le otorgue licencia por todo el tiempo que dure en el desempeño de un cargo público para el que haya sido designado.
+
+En el caso previsto en el párrafo que antecede quedará al frente de la Notaría como Notario Interino, la persona que designe el Ejecutivo del Estado. Terminada la gestión del Notario en el cargo para el que fue designado, deberá reasumir sus funciones notariales, mediante simple aviso que para tal efecto dé al Ejecutivo del Estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE AGOSTO DE 1966)</small>
 
 ART. 127.- El notario titular será suplido:
 
 I.- Por el notario adscrito si lo tuviere, durante sus ausencias temporales;
 
-II.- Por otro notario titular de su demarcación notarial, si tuviere adscrito, previa la aprobación del Ejecutivo del Estado.
+II.- Por otro notario titular de su demarcación notarial, si no tuviere adscrito, previa la aprobación del Ejecutivo del Estado;
+
+III.- Por la persona que designe el Ejecutivo del Estado en los casos a que se refiere el último párrafo del artículo anterior.
 
 ART. 128.- Son causas de suspensión de un notario en el ejercicio de sus funciones:
 
@@ -752,3 +760,7 @@ Este decreto empezará a surtir sus efectos a partir del día 1o. de agosto del 
 P.O. 21 DE AGOSTO DE 1965.
 
 Este Decreto surtirá sus efectos a partir del día 11 de Septiembre próximo.
+
+P.O. 20 DE AGOSTO DE 1966.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
