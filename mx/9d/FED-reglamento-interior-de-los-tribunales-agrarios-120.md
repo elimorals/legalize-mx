@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "1998-09-18"
+last_updated: "2000-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -75,43 +75,31 @@ Para suplir las faltas temporales de los Magistrados de los Tribunales Unitarios
 
 Los Magistrados Supernumerarios practicarán visitas a los Tribunales Unitarios conforme al programa que apruebe el Tribunal Superior Agrario para cumplir con las funciones de inspección a que se refiere el capítulo IX de este reglamento.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
-###### Artículo 5°.
+###### Artículo 5º.
 
-Cada tribunal unitario estará a cargo de un magistrado numerario y contará con las siguientes unidades administrativas y servidores públicos.
+Cada Tribunal Unitario estará a cargo de un magistrado numerario y contará con las siguientes unidades administrativas y servidores públicos:
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 1994)</small>
-
-I.- Uno o varios secretarios de acuerdos, cuando así lo estime el Tribunal Superior, y en caso de que el Tribunal Unitario tenga varias sedes, se podrá designar uno o más secretarios de acuerdos para cada una de ellas, también por determinación del Tribunal Superior;
+I.- Uno o varios secretarios de acuerdos, cuando así lo estime el Tribunal Superior, y en caso de que el Tribunal Unitario tenga varias sedes, se podrá designar a uno o más secretarios de acuerdos para cada uno de ellos, también por determinación del Tribunal Superior;
 
 II.- Secretarios de estudio y cuenta que acuerde el Tribunal Superior;
 
-III.- Actuarios y peritos;
+III.- Actuarios;
 
-IV.- Unidad Jurídica;
+IV.- Peritos;
 
-V.- Unidad de Control de Procesos; y
+V.- Unidad Jurídica;
 
-VI.- Personal técnico y administrativo que disponga el Tribunal Superior.
+VI.- Unidad de Control de Procesos;
+
+VII.- Unidad de Audiencia Campesina;
+
+VIII.- Unidad Administrativa;
+
+IX.- Así como el personal técnico y administrativo que disponga el Tribunal Superior.
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
-
-###### Artículo 5o.
-
-Cada tribunal unitario estará a cargo de un magistrado numerario y contará con las siguientes unidades administrativas y servidores públicos:
-
-I.- Un Secretario de Acuerdos;
-
-II.- Los secretarios que acuerde el Tribunal Superior;
-
-III. - Actuarios y Peritos;
-
-IV.- Unidad de Asuntos Jurídicos;
-
-V. - Unidad de Registro, Seguimiento y Archivo; y,
-
-VI.- Unidad Administrativa.
 
 ###### Artículo 6º.
 
@@ -125,11 +113,11 @@ II.- Como secretarios de estudio y cuenta, a los secretarios de acuerdos, y jefe
 
 III.- Como actuarios, a los secretarios de acuerdos, secretarios de estudio y cuenta y jefes de la Unidad de Control de Procesos.
 
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 7º.
 
-Los magistrados de los tribunales agrarios estarán obligados a señalar las horas en que recibirán al público.
+Los magistrados de los tribunales unitarios agrarios fijarán las horas en que recibirán al público para su atención y la Unidad de Audiencia Campesina atenderá permanentemente a los interesados que acudan para informarse sobre el trámite de sus asuntos.
 
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -245,17 +233,17 @@ En caso de que no exista disposición legal, el magistrado deberá contentar la 
 
 La excitativa de justicia podrá promoverse ante el tribunal unitario o directamente ante el Tribunal Superior. En el escrito respectivo deberán señalarse el nombre del magistrado y la actuación omitida, así como los razonamientos que funden la excitativa de justicia, conforme a lo previsto en la fracción VII del artículo 9o. de la Ley Orgánica.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 22.
 
-Si la excitativa de justicia se promueve ante el tribunal unitario, de deberá presentar por escrito, con copia para el Tribunal Superior con la fecha oficial de la presentación.
+La excitativa de justicia se presentará por escrito ante el Tribunal Superior o ante el Tribunal Unitario.
 
-Recibido el escrito, el magistrado que conoce del asunto informará sobre la materia de la excitativa en un término de veinticuatro horas y podrá acompañar las copias certificadas de los documentos que estime pertinentes. Ante la falta de informe, se presumirán ciertos los hechos imputados.
+Recibido el escrito, el magistrado que conoce del asunto informará al Tribunal Superior sobre la materia de la excitativa en un término de veinticuatro horas y podrá acompañar las copias certificadas de los documentos que estime pertinentes. Ante la falta de informe, se presumirán ciertos los hechos imputados.
 
-El informe y el escrito inicial se enviará al magistrado que por turno corresponda, para la elaboración de la ponencia respectiva, misma que presentará el Tribunal Superior en un plazo no mayor de siete días.
+El informe y el escrito inicial se enviarán al magistrado que por turno corresponda, para la elaboración de la ponencia respectiva, misma que presentará al Tribunal Superior en un plazo no mayor de siete días.
 
-Cuando el magistrado del tribunal unitario no rinda informe, se turnará al magistrado ponente la copia recibida por el Tribunal Superior, para los mismos efectos de presentación del proyecto de resolución mencionado en el párrafo anterior.
+Cuando el Magistrado del Tribunal Unitario no rinda informe, se turnará al magistrado ponente la copia recibida por el Tribunal Superior, para los mismos efectos de presentación del proyecto de resolución mencionado en el párrafo anterior.
 
 De estimarse necesario para la debida resolución de la excitativa, el magistrado ponente solicitará se aclare el informe o se recojan datos adicionales sobre la materia del asunto.
 
@@ -281,13 +269,13 @@ De promoverse la excitativa porque el proyecto de resolución no ha sido present
 
 El presidente del Tribunal Superior será designado por el Tribunal Superior, durará en sus funciones tres años y podrá ser reelecto.
 
-> <small>(REFORMADO, D.O.F. 07 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 26.
 
-El Presidente rendirá un informe anual ante el Tribunal Superior y los magistrado de los Tribunales Unitario, para dar cuenta al estado que guarde la administración de la justicia agraria, de la jurisprudencia, de los principales precedentes y para formular recomendaciones tendientes a la actualización y modernización de los tribunales agrarios.
+El presidente rendirá un informe anual ante el Tribunal Superior para dar cuenta del estado que guarde la administración de la justicia agraria, de la jurisprudencia, de los principales precedentes y para formular recomendaciones tendientes a la actualización y modernización de los tribunales agrarios.
 
-El periodo que comprenda este informe comprenderá al año calendario que va del 1o. de enero al 31 de diciembre; en consecuencia deberá presentarse durante el primer trimestre de cada año.
+El periodo que comprende este informe corresponderá al año calendario que va del primero de enero al treinta y uno de diciembre; en consecuencia, deberá presentarse durante el primer trimestre de cada año.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -301,11 +289,11 @@ Corresponde al Presidente proponer al Tribunal Superior que acuerde las medidas 
 
 El Presidente tiene la representación legal de los tribunales agrarios y podrá delegarla en los servidores que acuerde el Tribunal Superior. El Presidente podrá asistir con la representación del Tribunal Superior a las ceremonias y actos a los que éste sea invitado, o delegarla en uno de los magistrados.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 29.
 
-Al Presidente corresponde presidir las comisiones permanentes y transitorias que establezca el Tribunal Superior.
+Corresponde al presidente proponer al Tribunal Superior la integración de las comisiones permanentes o transitorias. Al aprobarlas, se emitirá un acuerdo en el que se señale el propósito de las mismas, quien las presidirá y su duración. Las comisiones de esta naturaleza, siempre serán honorarias.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -341,9 +329,9 @@ VIII.- Coordinar y controlar el servicio de pasantes;
 
 IX.- Efectuar el control y seguimiento de cada uno de los expedientes del Tribunal Superior y compilar la estadística de los juicios y procedimientos de los tribunales agrarios;
 
-> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
-X.- Llevar nota de las inspecciones que practiquen los Magistrado de los Tribunales Unitarios, así como de los informes que rindan al Tribunal Superior;
+X. Llevar nota de las visitas que practiquen los magistrados supernumerarios a los tribunales unitarios, así como de los informes que rindan al Tribunal Superior;
 
 XI.- Llevar nota de los programas de itinerancia que autorice el Tribunal Superior a los tribunales unitarios;
 
@@ -491,11 +479,11 @@ XI.- Llevar, en su caso, el Centro de Estudios de Justicia Agraria, que tendrá 
 
 XII.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Presidente.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 37.
 
-El Director General de Asuntos Jurídicos podrá intervenir, en su caso, en los juicios de amparo, suscribiendo escritos, desahogando trámites y recibiendo toda clase de notificaciones, cuando el Tribunal Superior, su Presidente o los directores de las unidades técnicas y administrativas sean señalados como autoridades responsables.
+El Director General de Asuntos Jurídicos podrá suscribir escritos y desahogar requerimientos en los juicios de amparo cuando el Tribunal Superior, su presidente o los Directores de las unidades técnicas y administrativas sean señalados como autoridades responsables.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -513,21 +501,21 @@ Los Magistrados Numerarios del Tribunal Superior podrán hacer visitas especiale
 
 De los resultados de las visitas a que se refiere este artículo, deberán informar al Tribunal Superior.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 39.
 
-Las inspecciones serán ordinarias y extraordinarias y se practicarán durante la jornada normal de trabajo.
+Las visitas serán ordinarias y extraordinarias y se practicarán durante la jornada normal de trabajo.
 
-Las ordinarias se realizarán cuando menos una vez cada seis meses y las extraordinarias, cuando así lo acuerde el Tribunal Superior, para desahogar una inspección específica. Los magistrados del Tribunal Superior podrán solicitar a éste la realización de inspecciones extraordinarias.
+Las ordinarias se realizarán cuando menos una vez cada seis meses y las extraordinarias, cuando así lo acuerde el Tribunal Superior, para desahogar una visita específica. Los magistrados del Tribunal Superior podrán solicitar a éste la realización de visitas extraordinarias.
 
-El programa de visitas de inspección se presentará al Tribunal Superior por los magistrados inspectores, durante los meses de enero y julio de cada año, para la aprobación respectiva.
+El programa de visitas se presentará al Tribunal Superior por parte de los magistrados visitadores, durante los meses de enero y julio de cada año, para la aprobación respectiva.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 40.
 
-El Presidente del Tribunal Superior comunicará la visita al magistrado del tribunal unitario cuando menos con diez días de anticipación. El aviso de la visita del magistrado inspector será colocado en los estrados con cinco días de anticipación, para que los campesinos, abogados, funcionarios de la Procuraduría Agraria, servidores del tribunal unitario o cualquier persona interesada en la inspección puedan exponer sus quejas, observaciones o sugerencias. El magistrado inspector las recogerá, junto con los documentos y pruebas que se le presenten y las anexará a su informe al Tribunal Superior.
+El Presidente del Tribunal Superior comunicará la visita de inspección ordinaria al Magistrado del Tribunal Unitario visitado cuando menos con cinco días de anticipación. El aviso de la visita del magistrado visitador deberá ser colocado en los estrados del Tribunal, para que los campesinos, abogados, funcionarios de la Procuraduría Agraria, servidores del Tribunal Unitario o cualquier persona interesada puedan ser recibidas por el magistrado visitador.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -537,25 +525,43 @@ Las inspecciones se sujetarán a las siguientes reglas:
 
 I.- Se verificará la asistencia de los servidores públicos, su comportamiento con las partes y se examinarán sus expedientes para determinar si existen conductas que ameriten sanciones administrativas, informando a la Contraloría Interna para efectos de su competencia;
 
-II.- Se inspeccionará el Libro de Gobierno en el que se lleven los registros y controles de los diversos juicios y procedimientos;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
-III.- Se podrá inspeccionar cualquiera de los expedientes o alguno en especial, para verificar que se encuentren debidamente integrados, foliados, sellados y rubricados; que los miembros de las comunidades indígenas, los ejidatarios, comuneros o avecindados, hayan sido debidamente representados; que la audiencia haya sido sustanciada conforme a la ley y que las pruebas hayan sido correctamente desahogadas; que las notificaciones hayan sido legalmente hechas en tiempo y forma; que el procedimiento haya sido realizado conforme a derecho y que la resolución haya sido dictada oportunamente, observando que en la misma se hayan respetado la jurisprudencia del Tribunal Superior y del Poder Judicial de la Federación;
+II.- Se revisará el Libro de Gobierno en el que se lleven los registros y controles de los diversos juicios y procedimientos;
 
-IV.- Se inspeccionará con especial cuidado que los miembros de las comunidades indígenas tengan un efectivo acceso a la jurisdicción del Estado y que en los juicios y procedimientos agrarios en que sean parte, se tomen en cuenta sus prácticas y costumbre jurídicas y cuenten siempre con un intérprete;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+
+III.- Se revisará cualquiera de los expedientes o alguno en especial, para verificar que se encuentren debidamente integrados, foliados, sellados y rubricados, que los miembros de las comunidades indígenas, los ejidatarios, comuneros o avecindados, hayan sido debidamente representados; que la audiencia haya sido sustanciada conforme a la ley y que las pruebas hayan sido correctamente desahogadas; que las notificaciones hayan sido legalmente hechas en tiempo y forma; que el procedimiento haya sido realizado conforme a derecho y que la resolución haya sido dictada oportunamente, observando que en la misma se hayan respetado la jurisprudencia del Tribunal Superior y la del Poder Judicial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+
+IV.- Se revisará con especial cuidado que los miembros de las comunidades indígenas tengan un efectivo acceso a la jurisdicción del Estado y que en los juicios y procedimientos agrarios en que sean parte, se tomen en cuenta sus prácticas y costumbres jurídicas y cuenten siempre con un intérprete;
 
 V.- Se revisará que las resoluciones y ejecutorias derivadas de juicios de amparo se hayan cumplido, y en caso contrario, exhortará al magistrado a su acatamiento, tomando las medidas que sean necesarias para su inmediata observancia;
 
-VI.- El magistrado inspector podrá pedir a cualquiera de los servidores públicos del tribunal unitario, los informes que requiera y que sean necesarios para complementar la inspección;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
-VII.- El magistrado inspector, asistido por el secretario de acuerdos o del servidor que considere idóneo, levantará acta circunstanciada de la inspección, en la que consten los resultados de la investigación y las recomendaciones que juzgue pertinente hacer a los integrantes del tribunal unitario. En la misma, se incluirán las observaciones que formulen los funcionarios del tribunal unitario visitado;
+VI.- El magistrado visitador podrá pedir a cualquiera de los servidores públicos del Tribunal Unitario, los informes que requiera y que sean necesarios para complementar la inspección;
 
-VIII.- El magistrado visitado podrá presentar las necesidades administrativas del tribunal unitario, para que el magistrado inspector las haga del conocimiento del Tribunal Superior;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
-IX.- El acta de la visita será firmada por el magistrado inspector, el servidor que lo asista y el magistrado visitado;
+VII.- El magistrado visitador, asistido por el secretario de acuerdos o del servidor que considere idóneo, levantará acta circunstanciada de la inspección, en la que consten los resultados de la visita y las recomendaciones que juzgue pertinente hacer a los integrantes del Tribunal Unitario. En la misma, se incluirán las observaciones que formulen los funcionarios del Tribunal Unitario visitado;
 
-X.- El magistrado inspector rendirá un informe por escrito al Tribunal Superior, en donde expresará el estado general en que se encuentre el tribunal visitado, con las observaciones e indicaciones derivadas de la inspección, para que aquél tome las determinaciones que considere convenientes con el objeto de mejorar el servicio del tribunal unitario inspeccionado o de verificar con detalle su situación;
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
-XI.- Las personas que presenten quejas o denuncias, podrán pedir al magistrado inspector que se les expida constancia de su comparecencia y recibo de las pruebas aportadas.
+VIII.- El magistrado visitado podrá presentar las necesidades administrativas del Tribunal Unitario, para que el magistrado visitador las haga del conocimiento del Tribunal Superior;
+
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+
+IX.- El acta de la visita será firmada por el magistrado visitador, el servidor que lo asista y el magistrado visitado;
+
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+
+X.- El magistrado visitador rendirá un informe por escrito al Tribunal Superior, en donde expresará el estado general en que se encuentre el tribunal visitado, con las observaciones e indicaciones derivadas de la visita para que aquél tome las determinaciones que considere convenientes con el objeto de mejorar el servicio del Tribunal Unitario visitado o de verificar con detalle su situación;
+
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+
+XI.- En caso que durante la visita se presenten quejas, se registrarán en la Oficialía de Partes del Tribunal Unitario y los interesados podrán solicitar al magistrado visitador que se les expida constancia y recibo de las pruebas aportadas, para que se turne de inmediato para su trámite correspondiente a la Contraloría Interna.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -601,19 +607,17 @@ El Tribunal Superior hará la división del país en distritos de justicia agrar
 
 Los funcionarios y empleados de los tribunales unitarios estarán impedidos para desempeñar otro cargo o empleo público o de particulares, que sea incompatible con el que tienen en dichos tribunales; y estarán impedidos para realizar funciones que sean distintas a las que les corresponden conforme a su cargo, salvo los casos de habilitación o suplencia.
 
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 48.
 
-Los Tribunales Unitarios contarán con secretarios de acuerdos "A" y "B".
+Los tribunales unitarios podrán contar con secretarios de acuerdos "A" y "B".
 
-Los Secretarios de acuerdos "A" tendrán las atribuciones que les concede la Ley Orgánica y las que, en lo conducente, se le otorgan a la Secretaría General de Acuerdos del Tribunal Superior en el presente reglamento. Asimismo, serán los facultados para suplir las ausencias de los Magistrados, no mayores de 15 días, en términos del artículo 8o. fracción IV de la Ley Orgánica de los Tribunales Agrarios, cuando lo autorice el Tribunal Superior.
+Los secretarios de acuerdos "A" tendrán las atribuciones que les concede la Ley Orgánica y las que, en lo conducente se le otorgan a la Secretaría General de Acuerdos del Tribunal Superior en el presente Reglamento. Asimismo, serán los facultados para suplir las ausencias de los magistrados, no mayores de quince días, en términos del artículo 8o. fracción IV de la Ley Orgánica de los Tribunales Agrarios, cuando lo autorice el Tribunal Superior.
 
-Los secretarios de acuerdos "B", seleccionados por el Tribunal Superior entre los secretarios de estudio y cuenta adscritos que reúnan los requisitos del artículo 20 de la Ley Orgánica de los Tribunales Agrarios, sin modificación de sus ingresos, categoría y nivel presupuestal correspondientes, tendrán atribuciones para asistir al Magistrado en la celebración de la audiencia de ley y autorizar el acta correspondiente, investidos de fe pública, además de elaborar los proyectos de sentencias y de otras resoluciones que le encomiende el Magistrado, así como el cumplimiento de las atribuciones asignadas en las fracciones II y III del artículo siguiente.
+Los secretarios de acuerdos "B" seleccionados por el Tribunal Superior entre los secretarios de estudio y cuenta adscritos que reúnan los requisitos del artículo 20 de la Ley Orgánica de los Tribunales Agrarios, sin modificación de sus ingresos, categoría y nivel presupuestal correspondientes, tendrán atribuciones para asistir al magistrado en la celebración de la audiencia de ley y autorizar el acta correspondiente, investidos de fe pública, además de elaborar los proyectos de sentencias y de otras resoluciones que le encomiende el magistrado, así como el cumplimiento de las atribuciones asignadas en las fracciones II y III del artículo siguiente.
 
-En ningún caso los secretarios de acuerdos "A" y "B" podrán presidir audiencias, por corresponder dicha obligación procesal, exclusivamente, al Magistrado titular, desde el inicio hasta la conclusión de la audiencia, con la única salvedad de los casos de suplencia legalmente autorizada por el Tribunal Superior.
-
-Los secretarios de los Tribunales Unitarios deberán hacer las notificaciones que, en casos especiales, ordene el Magistrado.
+Los secretarios de los tribunales unitarios deberán hacer las notificaciones que en casos especiales, les ordene el magistrado.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -709,15 +713,15 @@ Las unidades jurídicas de los tribunales unitarios tendrán, en lo conducente, 
 
 ### CAPITULO XV. DE LA ITINERANCIA DE LOS TRIBUNALES UNITARIOS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 56.
 
-Cada magistrado de los tribunales unitarios deberá presentar al Tribunal Superior un programa semestral de administración de justicia itinerante, señalando los poblados y tipo de asuntos a cuyo conocimiento se avocará (sic) de conformidad con sus atribuciones y ámbito competencial, así como la calendarización de las visitas, las actividades a desarrollar y las circunstancias o particularidades que aquéllas representen.
+Cada magistrado de los tribunales unitarios deberá presentar un programa trimestral de justicia itinerante, señalando los municipios, poblados y tipo de asuntos a cuyo conocimiento se abocará de conformidad con sus atribuciones y ámbito de su competencia, así como la calendarización de las visitas, las actividades a desarrollar y las circunstancias o particularidades que aquéllas representen.
 
 Este programa deberá difundirse con anticipación en los lugares señalados en el mismo, a la vez que notificar el contenido sustancial de dicho programa a los órganos de representación de los poblados correspondientes, con la finalidad de lograr una efectiva, pronta y expedita administración de la justicia agraria.
 
-Al término de cada recorrido, el magistrado del tribunal unitario deberá informar al Tribunal Superior sobres sus resultados.
+Al término de cada recorrido, el magistrado del Tribunal Unitario deberá informar al Tribunal Superior sobres sus resultados.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -745,23 +749,27 @@ Para tal efecto, las disposiciones contenidas en los artículos anteriores se ap
 
 ### CAPITULO XVI. DE LAS AUSENCIAS Y LAS SUPLENCIAS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 59.
 
-El Presidente será suplido en sus ausencias por el magistrado que designe el Tribunal Superior. En las licencias que no excedan de un año, se designará un Presidente interino y en las faltas definitivas se nombrará un nuevo Presidente.
+Tratándose de las ausencias del presidente hasta por 15 días hábiles que no requieran licencia, el mismo será suplido por los magistrados numerarios del Tribunal Superior en el orden de su designación, de manera alterna y sucesiva. Para tal efecto la Secretaría General de Acuerdos llevará el listado del orden que corresponda.
 
-> <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
+Si la ausencia fuere mayor de 15 días hábiles y menor a 12 meses, se designará un presidente interino por el Pleno, y si la ausencia fuere definitiva, se nombrará un nuevo presidente.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 60.
 
-Las ausencias de los Magistrados del Tribunal Superior serán cubiertas por el Magistrado Supernumerario. No se podrá conceder autorización de ausencia a más de dos Magistrados del Tribunal Superior al mismo tiempo, salvo causas de fuerza mayor, con aprobación del propio tribunal.
+Las ausencias o licencias de los magistrados del Tribunal Superior serán cubiertas por el magistrado supernumerario. No se podrán conceder licencias a más de dos magistrados del Tribunal Superior al mismo tiempo.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+Las ausencias de los demás trabajadores de confianza de los tribunales agrarios serán suplidas por los de la jerarquía inmediata inferior, que en su caso, determine el titular de la unidad respectiva.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 61.
 
-Las ausencias de los magistrados de los tribunales unitarios serán cubiertas por los magistrados supernumerarios, conforme a la adscripción de las regiones que señale el Tribunal Superior y según las necesidades del servicio.
+Las ausencias o licencias de los magistrados de los tribunales unitarios serán cubiertas por los magistrados supernumerarios, conforme a lo previsto en la fracción IV del artículo 8o. de la Ley Orgánica y según las necesidades del servicio. Las faltas temporales, hasta por 72 horas serán suplidas automáticamente por el secretario de acuerdos.
 
 > <small>(REFORMADO, D.O.F. 18 DE SEPTIEMBRE DE 1998)</small>
 
@@ -773,19 +781,23 @@ Las ausencias de los servidores de confianza, hasta por tres días, serán autor
 
 Las autorizaciones de ausencias podrán ser con goce o sin goce de sueldo, según la causa que le (sic) origine, a juicio del órgano o servidor encargado de emitirla.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 63.
 
-Las ausencias del Secretario General de Acuerdos del Tribunal Superior serán cubiertas por el subsecretario correspondiente conforme a su competencia; y las de los secretarios de acuerdos de los tribunales unitarios por el secretario que designe el magistrado.
+Las ausencias del Secretario General de Acuerdos del Tribunal Superior serán cubiertas por uno de los subsecretarios.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+Las de los secretarios de acuerdos de los tribunales unitarios por el secretario de estudio y cuenta que se designe por el magistrado.
+
+En ambos casos el servidor público que sustituya la ausencia, deberá reunir los requisitos que establece la Ley Orgánica para el desempeño de su función.
+
+Los secretarios de acuerdos "A" y "B" no podrán presidir audiencias, por corresponder dicha obligación procesal, exclusivamente, al magistrado titular desde el inicio hasta su conclusión, excepto en los siguientes supuestos: Cuando por acuerdo del Tribunal Superior los secretarios de acuerdo suplan la ausencia del magistrado del Tribunal Unitario, conforme a la fracción IV del artículo 8o. de la Ley Orgánica, en cuyo caso podrán instruir el procedimiento, sin emitir sentencia, la que será dictada por el magistrado titular cuando éste se reincorpore al servicio o por el supernumerario del Tribunal Unitario que los sustituya; igualmente los secretarios de acuerdos podrán presidir las audiencias en los procedimientos de jurisdicción voluntaria, previsto en el artículo 165 de la ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 64.
 
-Las ausencias del Oficial Mayor, del Director General de Asuntos Jurídicos y del Contralor interno serán suplidas, para el despacho de los asuntos de su respectiva competencia, por los directores adscritos en el área de su responsabilidad.
-
-Las ausencias de los demás trabajadores de confianza de los tribunales agrarios serán suplidas por los de la jerarquía inmediata inferior.
+Las ausencias del oficial mayor, del director general de asuntos jurídicos y del contralor interno serán suplidas, para el despacho de los asuntos de su respectiva competencia, por el director o servidor público que determine el Presidente del Tribunal Superior.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -797,15 +809,15 @@ Las faltas y licencias de los servidores de base se sujetarán a lo dispuesto po
 
 ### CAPITULO XVII. DE LOS IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Articulo 66.
 
-Los magistrados que se consideren impedidos para conocer de algún asunto, en términos de lo previsto por el artículo 27 de la Ley Orgánica, harán la manifestación excusa ante el Tribunal Superior, para que éste la califique.
+Los magistrados que se consideren impedidos para conocer de algún asunto, en términos de lo previsto por el artículo 27 de la Ley Orgánica, harán la manifestación de excusa ante el Tribunal Superior, para que éste la califique.
 
-Cuando se trate del impedimento de un magistrado numerario del Tribunal Superior, éste no podrá participar en las deliberaciones, ni en la decisión, sobre la excusa; en su lugar actuará el magistrado supernumerario, salvo que se trate del Magistrado Presidente, en cuyo caso se resolverá la sustitución conforme al artículo 59 de este Reglamento.
+Si se resuelve fundada la excusa del Magistrado del Tribunal Unitario, para sustituirlo en el trámite y resolución del caso, el Tribunal Superior decidirá trasladar el conocimiento del asunto al Tribunal Unitario más cercano, designará al magistrado supernumerario o determinará que sea el secretario de acuerdos quien asuma el conocimiento, pero en este último caso, para el único efecto de sustanciar la fase de instrucción del juicio.
 
-Si se resuelve fundada la excusa del magistrado del tribunal unitario, para sustituirlo en el trámite y resolución del caso, el Tribunal Superior decidirá trasladar el conocimiento del asunto al tribunal unitario más cercano, designará al magistrado supernumerario o determinará que sea el secretario de acuerdos quien asuma el conocimiento.
+Cuando se trate del impedimento de un Magistrado Numerario del Tribunal Superior, éste no podrá participar en las deliberaciones ni en la decisión, sobre la excusa; en su lugar actuará el magistrado supernumerario, salvo que se trate del magistrado presidente, en cuyo caso actuará como tal el magistrado presente con mayor antigüedad.
 
 Si se trata de un magistrado del propio Tribunal Superior, se seguirá el mismo procedimiento señalado para la resolución sobre la excusa.
 
@@ -835,127 +847,115 @@ En el caso de la fracción I, si la queja resulta fundada, el Tribunal Superior 
 
 ### CAPITULO XVIII. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DE LOS TRIBUNALES AGRARIOS
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 69.
 
-Son sujetos de responsabilidad los magistrados y los demás servidores públicos de los tribunales agrarios.
+Pueden ser sujetos de responsabilidad los magistrados y los demás servidores públicos de los tribunales agrarios.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 70.
 
-Las responsabilidades administrativas de los servidores públicos de los tribunales agrarios, así como las sanciones correspondientes, se identificarán, investigarán y determinarán conforme a la Ley Federal de Responsabilidades de los Servidores Públicos y lo dispuesto por el presente Reglamento.
+Las responsabilidades administrativas de los servidores públicos de los tribunales agrarios, así como las sanciones correspondientes, se identificarán, investigarán y determinarán conforme a la Ley Federal de Responsabilidades de los Servidores Públicos y lo dispuesto por el presente Reglamento. Los magistrados agrarios sólo serán responsables al establecer o fijar la interpretación o aplicación de los criterios legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+En caso de falta grave en los términos de las disposiciones aplicables, atribuida a los magistrados del Tribunal Superior y de los tribunales unitarios, deberá procederse en los términos del párrafo segundo del artículo 17 de la Ley Orgánica.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 71.
 
 Los servidores públicos de los tribunales agrarios tienen la obligación de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión, cuyo incumplimiento dará lugar a las sanciones que correspondan y que se encuentran previstas en la Ley Federal de Responsabilidades de los Servidores Públicos, aplicable de acuerdo con el artículo 30 de la Ley Orgánica.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 72.
 
-La Contraloría Interna recibirá las quejas y denuncias contra los servidores públicos de los tribunales agrarios, dando cuenta al Presidente, quien resolverá si hay elementos suficientes para iniciar el procedimiento.
+El trámite para determinar las responsabilidades de los servidores públicos de los tribunales agrarios a que se refiere este capítulo se iniciará por queja escrita presentada por cualquier persona o por el servidor público que tenga conocimiento de los hechos.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+La queja deberá presentarse en la Oficialía de Partes del Tribunal Superior o del Tribunal Unitario al que corresponda el servidor público contra quien se haga valer.
+
+Las quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+La queja podrá presentarse de manera verbal cuando se trate de miembros de comunidades indígenas, ejidatarios, comuneros o avecindados.
+
+En todo caso, deberá levantarse un acta de la diligencia, dándose copia al quejoso.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 73.
 
-Corresponde a la Contraloría Interna la identificación e investigación de las responsabilidades administrativas y emitir opinión al Presidente sobre su determinación y la posible sanción aplicable. En caso de que proceda la sanción, el Presidente la someterá a la consideración del Tribunal Superior, para que éste resuelva lo conducente respecto a los magistrados y demás servidores de confianza de los tribunales agrarios.
+La Contraloría Interna sólo conocerá quejas de carácter administrativo; los actos de naturaleza jurisdiccional podrán ser recurridos por los medios de impugnación que la ley permita. En estos casos, la Contraloría desechará la queja por improcedente.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+La Contraloría Interna recibirá las quejas que estén debidamente fundadas y motivadas contra los servidores públicos de los tribunales agrarios y determinará si hay elementos suficientes para iniciar el procedimiento administrativo. Cuando éste sea procedente se sustanciará en los términos del artículo 74 de este Reglamento. En caso contrario, se informará al interesado. Las quejas anónimas serán desechadas de plano.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 74.
 
-El Tribunal Superior hará la determinación de la responsabilidad administrativa y fijará las sanciones a los magistrados y a los servidores de confianza y de base de los tribunales agrarios, pudiendo solicitar previamente la opinión a la Contraloría Interna.
+Corresponde a la Contraloría Interna la identificación e investigación de las responsabilidades administrativas y requerirá al servidor o servidores públicos imputados un informe sobre los hechos motivo de la queja para resolver la procedencia de ésta; para lo cual evaluará los elementos y pruebas existentes, y realizará indagaciones; si considera que no hay elementos suficientes para iniciar el procedimiento, pedirá opinión a la Dirección General Jurídica y así la resolverá comunicando al quejoso el acuerdo respectivo.
 
-La aplicación de las sanciones a los ma-gistrados (sic) de los tribunales agrarios y a los demás servidores del Tribunal Superior corresponde al propio Tribunal Superior.
-
-La aplicación de las sanciones a los servidores de los tribunales unitarios corresponde a los magistrados de los propios tribunales.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 75.
 
-Los magistrados y demás servidores de los tribunales agrarios incurrirán en responsabilidad administrativa por el incumplimiento de las obligaciones contenidas en el artículo 47 de la Ley Federal de Respon-sabilidades (sic) de los Servidores Públicos y las sanciones aplicables serán las que establece el artículo 53 de dicho ordenamiento.
+En caso de procedencia de la queja, acordará la instauración y sustanciación del procedimiento en los términos siguientes:
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+Citará al servidor o servidores públicos imputados a una audiencia para que ofrezcan pruebas y aleguen lo que a su derecho corresponda; admitidas y desahogadas las pruebas, si las hubiere, la Contraloría Interna emitirá opinión sobre la existencia o no de responsabilidad, dentro de los treinta días hábiles siguientes y someterá a consideración del Tribunal Superior la determinación de existencia de la responsabilidad y la sanción correspondiente, en los términos de la ley aplicable.
+
+La resolución del Tribunal Superior se notificará personalmente al o los interesados dentro de las setenta y dos horas siguientes.
+
+La aplicación de las sanciones a los servidores públicos de los tribunales unitarios agrarios corresponde a los magistrados unitarios y la de los servidores públicos del Tribunal Superior al Oficial Mayor.
+
+El servidor público sancionado podrá presentar recursos de revocación ante el Tribunal Superior dentro de los siguientes 15 días posteriores a la notificación personal que se le haga. Esta se turnará y resolverá conforme a lo previsto en el párrafo segundo del artículo 76 de este Reglamento, dentro de los 15 días siguientes a su presentación.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 76.
 
-Cuando se trate de conductas atribuidas a servidores públicos dependientes de poderes u organismos distintos de los tribunales agrarios, que actúen en auxilio de la justicia agraria, será competente para investigar a dichos funcionarios la Contraloría Interna. La intervención de ésta se limitará a efectuar la investigación y a comunicar su resultado a la autoridad de la que dependa el servidor público.
+En el caso de faltas atribuidas a los magistrados que sean notoriamente improcedentes, infundadas o anónimas la Contraloría Interna las desechará de plano contando con la opinión de la Dirección General Jurídica.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+En los demás casos, la determinación de la responsabilidad y la aplicación de la sanción corresponde exclusivamente al Tribunal Superior. Para su trámite se remitirá el expediente al magistrado que corresponda, según el turno respectivo, quien previa sustanciación y estudio de la misma, concediendo el derecho de audiencia al magistrado imputado, en un plazo no mayor de quince días, elaborará el proyecto de resolución que someterá al conocimiento del Tribunal Superior para su resolución definitiva, misma que podrá ser impugnada en los términos señalados en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 77.
 
-La queja administrativa deberá presentarse en la Oficialía de Partes del Tribunal Superior o del tribunal unitario al que corresponda el servidor público contra quien se haga valer.
+La sanción se notificará personalmente tanto al interesado como al quejoso, y se dará aviso a los órganos correspondientes.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 78.
 
-En el caso del artículo 76, la queja administrativa deberá presentarse en la Oficialía de Partes del órgano en cuyo auxilio se actúe.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+Las disposiciones de este capítulo se observarán sin perjuicio de lo establecido en la Ley Federal de los Trabajadores al Servicio del Estado, en la Ley Orgánica y en otros ordenamientos aplicables supletoriamente.
 
 ###### Artículo 79.
 
-La queja administrativa podrá presentarse de manera verbal cuando se trate de miembros de comunidades indígenas, ejidatarios, comuneros o avecindados. En todo caso, deberá levantarse un acta de la diligencia, dándose al quejoso copia debidamente certificada.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 80.
 
-En las investigaciones que realice la Contraloría Interna, tratándose de magistrados o secretarios de los tribunales unitarios, deberá participar el magistrados inspector directamente o a través de un representante.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 81.
 
-Si el Tribunal Superior y la Contraloría Interna estiman que no se acreditó la responsabilidad administrativa del investigado, ordenarán archivar el expediente; si resuelven que se comprobó la responsabilidad, impondrán las sanciones administrativas que procedan. La sanción se notificará al interesado y se dará aviso a los órganos correspondientes.
-
-Si el estudio del caso, el Tribunal Superior resuelve que existe la presunción de responsabilidad penal, se formulará la denuncia correspondiente ante el Ministerio Público.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 82.
 
-La Contraloría Interna se valdrá de los medios que estime pertinentes para hacer la investigación, pero en todo caso respetará la garantía de audiencia del afectado. El procedimiento comprenderá una audiencia que se sujetará a las siguientes reglas:
-
-I.- Se citará al presunto responsable a la audiencia, para hacerle saber la responsabilidad que se le imputa, el lugar, día y hora en que tendrá verificativo la audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio del representante que al efecto designe.
-
-Entre la fecha de la citación y la de la audiencia deberá medir un plazo no menor de cinco días ni mayor de quince;
-
-II.- Al concluir lo alegatos o dentro de los tres días siguientes, la Contraloría Interna deberá emitir su opinión en los términos del artículo 73 del presente Reglamento.
-
-En todo caso, se notificará la resolución, cualquiera que ésta sea, al interesado y al quejoso, dentro de las veinticuatro horas siguientes a la fecha de la resolución definitiva;
-
-III.- La audiencia podrá diferirse a petición del imputado, con causa justificada, a juicio del responsable de la investigación. Igualmente, si éste considera que no existen datos suficientes para resolver, o advierte que existen nuevos elementos de los que pudieren derivarse otras responsabilidades, podrá comunicar a las partes la postergación de la audiencia o la celebración de otra u otras adicionales.
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 83.
 
-Tratándose de servidores públicos que no sean magistrados de los tribunales agrarios, si la Contraloría Interna, al inicio de la investigación, encuentra necesario suspender en su función, empleo, cargo o comisión al presunto responsable, lo comunicará al Presidente para que éste ordene la suspensión provisionalmente. Esta suspensión será meramente procesal y no prejuzgará sobre la responsabilidad del afectado, situación que se le hará saber en el oficio en que se le comunique tal determinación. El sueldo que reciba el suspendido, mientras se encuentre en tal estado, será del cincuenta por ciento de su percepción normal.
-
-Esta medida suspenderá también los efectos del acto que dio origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea decretada, debiendo comunicarse al interesado y a las oficinas administrativas. La medida suspensiva podrá ser levantada cuando se estime pertinente, pero no podrá prolongarse más allá de la conclusión del procedimiento de responsabilidad administrativa.
-
-Si el servidor no resultare responsable de la falta que se le atribuye, será restituido en el goce de sus derechos y se le cubrirá el remanente de las percepciones que debió obtener durante el tiempo en que estuvo suspendido.
-
-> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 84.
 
-Tratándose de faltas administrativas que sólo ameriten apercibimiento o amonestación, el procedimiento será oral y podrán reducirse los plazos señalados en el artículo 82, dándose al efecto la oportunidad de ser oído.
-
-> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1993)</small>
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ###### Artículo 85.
 
-Las disposiciones de este capítulo se observarán sin perjuicio de lo establecido en la Ley Federal de los Trabajadores al Servicio del Estado, en la Ley Orgánica y en otros ordenamientos aplicables.
+(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
 
 ## TRANSITORIOS
 
@@ -1012,5 +1012,13 @@ D.O.F. 18 DE SEPTIEMBRE DE 1998.
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO.- Estas reformas entrarán en vigor el día primero de octubre de este año de mil novecientos noventa y ocho.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE NOVIEMBRE DE 2000.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+
+SEGUNDO.- Estas reformas entrarán en vigor el día primero de noviembre de este año de dos mil.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación.
