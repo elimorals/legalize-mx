@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-23638
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2002-02-11"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 271 DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES VERACRUZ-LLAVE-
 
-LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ-LLAVE
+LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 11 de febrero de 2002.
 
@@ -37,9 +37,11 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 LEY NÚMERO 271
 
-De Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Estado de Veracruz-Llave.
+De Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Estado de Veracruz de Ignacio de la Llave.
 
 ### Capítulo I. Disposiciones Generales
 
@@ -228,3 +230,23 @@ Por tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, 
 Atentamente
 
 Sufragio Efectivo. No Reelección. Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz-Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
