@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2002-11-12"
+last_updated: "2003-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 2003.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1525,6 +1525,10 @@ XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federa
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
 
 XXIX-J.- Para legislar en materia de deporte, estableciendo las bases generales de coordinación de la facultad concurrente entre la Federación, los estados, el Distrito Federal y municipios; asimismo de la participación de los sectores social y privado, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+
+XXIX-K.- Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, Estados, Municipios y el Distrito Federal, así como la participación de los sectores social y privado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -4989,6 +4993,10 @@ Sexto.- Los presupuestos federal, estatales, del Distrito Federal y municipales 
 Séptimo.- Los gobiernos estatales y del Distrito Federal celebrarán con el gobierno federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
 
 Octavo.- Al entrar en vigor el presente Decreto, deberán impulsarse las reformas y adiciones a la Ley General de Educación y demás disposiciones legales aplicables en la materia.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2003.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
