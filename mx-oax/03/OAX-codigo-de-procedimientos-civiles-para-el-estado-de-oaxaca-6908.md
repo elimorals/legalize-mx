@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2002-08-24"
+last_updated: "2004-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -3479,9 +3479,13 @@ Para la ejecución del desahucio, se tiene como domicilio legal del ejecutado, l
 
 #### Sección Primera. De la ejecución de la sentencia
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+
 ###### Artículo 487.
 
-Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
+Procede la vía de apremio a instancia de partes, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
+
+También procede dicha vía en los convenios celebrados ante los Centros de mediación Públicos y Privados.
 
 ###### Artículo 488.
 
@@ -3661,9 +3665,11 @@ Contra la ejecución de las sentencias y convenios judiciales no se admitirá m�
 
 Los plazos fijados en el artículo anterior se contarán desde la fecha de la sentencia o convenio; a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el plazo se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida si se tratare de prestaciones periódicas.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+
 ###### Artículo 519.
 
-Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
+Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales, convenios celebrados en el procedimiento de mediación aprobados por la autoridad judicial y los laudos que ponen fin a los juicios arbitrales.
 
 #### Sección Segunda. De los embargos
 
@@ -6802,3 +6808,7 @@ SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de 
 P.O. 24 DE AGOSTO DE 2002.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
