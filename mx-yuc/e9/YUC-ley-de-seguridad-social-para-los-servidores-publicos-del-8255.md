@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1982-04-16"
+last_updated: "1982-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE ABRIL DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 1982.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -353,11 +353,11 @@ Tendrán derecho a recibir este seguro los familiares o dependientes económicos
 
 Cuando no existan familiares o dependientes económicos del servidor público o del jubilado con derecho a recibir este seguro, el Instituto queda autorizado para ordenar que se cubran los gastos de defunción con tope hasta la cantidad de $ 5,000.00. El Consejo Directivo podrá aumentar el alcance de estos gastos por causa justificada hasta $10,000.00.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
 
 ###### Artículo 37.
 
-Se autoriza al Instituto para descontar del seguro de fallecimiento los adeudos sin garantía que tuviese a su cargo el servidor público o el jubilado, sin perjuicio de cubrir preferentemente los gastos de defunción.
+No son deducibles del Seguro de Fallecimiento los saldos de los créditos a favor del Instituto provenientes de préstamos a corto plazo, dichos saldos se extinguirán automáticamente a la muerte del deudor y el Instituto recuperará su importe y el de cualesquiera préstamos insolutos, con un fondo de garantía constituido e incrementado con la prima del 1 por ciento de los préstamos a corto plazo autorizados.
 
 ### CAPITULO SEXTO. De las Prestaciones Sociales
 
@@ -415,15 +415,17 @@ Las personas jubiladas por el Instituto gozarán también de los derechos señal
 
 Los préstamos a corto plazo y sus intereses los cubrirá el deudor en abonos iguales, quincenales, en un plazo no mayor de 11 meses, y sólo se concederá un nuevo préstamo de esta clase cuando se encuentre liquidado el anterior. Sin embargo, podrá renovarse o ampliarse en su monto o plazo, si han transcurrido seis quincenas a partir de la fecha en que fue concedido y se está al corriente en los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que devengue el préstamo renovado o ampliado.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
 
 ###### Artículo 47.
 
-El préstamo a corto plazo y sus intereses quedan garantizados con el importe del Seguro de Cesantía o Separación a que tenga derecho el deudor. En todo caso y sin excepción, para cubrir los saldos de prestamos insolutos, por baja o muerte del derechohabiente, se pagará la primera (sic) del 1 % del importe del préstamo autorizado, para constituir o incrementar el "Fondo de Garantía".
+El préstamo a corto plazo y sus intereses quedan garantizados con el importe del seguro de cesantía o separación a que tenga derecho el deudor. Esta disposición no concede ni supone quita ni espera en favor del moroso. El Instituto deberá hacer efectivo el adeudo en los términos legales que procedan.
+
+> <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 1982)</small>
 
 ###### Artículo 48.
 
-Todo préstamo a corto plazo se considera insoluto cuando el deudor sea separado definitivamente del servicio y no continúe cubriendo los abonos a que está obligado. En este caso se incrementarán las reservas especiales por acuerdo del Consejo Directivo, teniendo en cuenta el importe total de los saldos anuales de los préstamos insolutos. Estas disposiciones no conceden ni suponen quita ni espera en favor del moroso. El Instituto deberá hacer efectivo el adeudo en los términos legales que procedan.
+Todo préstamo a corto plazo se considera insoluto cuando el deudor deje definitivamente el servicio y no continúe cubriendo los abonos a que está obligado.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -1056,5 +1058,9 @@ D.O. 22 DE ENERO DE 1981.
 UNICO.- Este Decreto entrará en vigor el día veinticinco de enero en curso.
 
 D.O. 16 DE ABRIL DE 1982.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 13 DE OCTUBRE DE 1982.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
