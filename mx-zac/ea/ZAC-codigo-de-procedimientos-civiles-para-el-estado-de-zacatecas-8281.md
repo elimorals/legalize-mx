@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "1988-09-14"
+last_updated: "1989-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -2481,9 +2481,13 @@ IV.- La revocación no suspende el curso del juicio y se resolverá, bien de pla
 
 371.- El recurso de apelación tiene por objeto que el Supremo Tribunal confirme, revoque o modifique la sentencia o el auto dictado en la primera instancia en los puntos relativos a los agravios expresados.
 
-372.- La segunda instancia no puede abrirse sin que se interponga el recurso de apelación, exceptuándose aquellos casos en que, de acuerdo con la ley, proceda la revisión forzosa de una sentencia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-373.- La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del Registro Civil y sobre nulidad de matrimonio, abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
+372.- La segunda instancia no procede abrirse sin que se interpongan los recursos de apelación o queja.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+373.- Las sentencias recaídas en los juicios sobre rectificación de actas del Registro Civil y sobre nulidad del matrimonio que fueren apeladas por el Ministerio Público o por el Oficial del Registro Civil, según el caso, serán revisadas de oficio y aunque el órgano apelante no expresare agravios ni promoviere pruebas, el Tribunal examinará la legalidad de la sentencia de Primera Instancia, quedando en suspenso sus efectos hasta que se dicte resolución.
 
 374.- Sólo podrán ser objeto de apelación las siguientes resoluciones de primera instancia:
 
@@ -2555,13 +2559,13 @@ V.- Si se tratare de sentencia definitiva, se dejará en el juzgado testimonio d
 
 I.- Sólo podrá admitirse la apelación en el efecto suspensivo en los siguientes casos:
 
-a) Cuando la ley de una manera expresa ordene que la apelación se admita en este efecto;
+a)Cuando la ley de una manera expresa ordene que la apelación se admita en este efecto;
 
-b) De las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad del matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+b)De las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad del matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 
-c) De las sentencias definitivas dictadas en los juicios ordinarios;
+c)De las sentencias definitivas dictadas en los juicios ordinarios;
 
-d) De los autos o sentencias interlocutorias que paralicen o pongan término al juicio, haciendo imposible su continuación.
+d)De los autos o sentencias interlocutorias que paralicen o pongan término al juicio, haciendo imposible su continuación.
 
 II.- En los casos a que se refiere este artículo, se suspenderá la ejecución de la sentencia o auto apelado, hasta que recaiga fallo del superior, y mientras tanto quedará en suspenso la tramitación del juicio en la parte afectada por el recurso. La suspensión no afecta las medidas puramente conservativas, lo concerniente a depósito, ni a las cuentas, gastos de administración y tampoco a las medidas de aseguramiento provisional de que habla la fracción siguiente;
 
@@ -3107,52 +3111,6 @@ IV.- En los casos de reembargo, el depositario del primer secuestro lo será res
 
 446.- En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de primera instancia del ramo civil.
 
-### CAPITULO IV. Periodo final de la ejecución forzosa
-
-468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
-
-469.- La suma o bienes obtenidos en la ejecución, se integrará:
-
-I.- Con el efectivo y valores embargados;
-
-II.- Con lo obtenido como precio en la venta judicial;
-
-III.- Con el precio de las cosas adjudicadas, y
-
-IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
-
-470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
-
-I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
-
-II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
-
-III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
-
-IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
-
-471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
-
-Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
-
-472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
-
-473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
-
-I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
-
-II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
-
-a)Acreedores alimentistas;
-
-b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
-
-c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
-
-d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
-
-474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
-
 ### CAPITULO III. De las ventas y remates judiciales
 
 447.- Todas las ventas o remates judiciales, en cuanto a los términos y condiciones en que hayan de verificarse, se regirán por las disposiciones de este Capítulo, salvo los casos en que la ley disponga otra cosa.
@@ -3205,7 +3163,7 @@ III.- Bonos, acciones y demás valores que se coticen en bolsa;
 
 IV.- Créditos realizables en el acto;
 
-V.- Cuando exista convenio de las partes celebrado conforme a la ley, y no lesione derechos de tercero, y
+V.-Cuando exista convenio de las partes celebrado conforme a la ley, y no lesione derechos de tercero, y
 
 VI.- En los demás casos en que la ley lo determine.
 
@@ -3342,6 +3300,52 @@ VII.- El acreedor podrá cesar en la administración de la finca, cuando lo crea
 466.- El juez tendrá durante la tramitación de los remates el poder de resolver y allanar cualquier dificultad que se presente.
 
 467.- Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercero día.
+
+### CAPITULO IV. Periodo final de la ejecución forzosa
+
+468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
+
+469.- La suma o bienes obtenidos en la ejecución, se integrará:
+
+I.- Con el efectivo y valores embargados;
+
+II.- Con lo obtenido como precio en la venta judicial;
+
+III.- Con el precio de las cosas adjudicadas, y
+
+IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
+
+470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
+
+I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
+
+II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
+
+III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
+
+IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
+
+471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
+
+Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
+
+472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
+
+473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
+
+I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
+
+II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
+
+a)Acreedores alimentistas;
+
+b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
+
+c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
+
+d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
+
+474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
 ### CAPITULO V. Declaración de validez y ejecución de sentencias extranjeras
 
@@ -3533,13 +3537,11 @@ IX.- Los asuntos que conforme a la ley deben ventilarse y decidirse en una sola 
 
 X.- Los demás en que el juez lo estime conveniente por su naturaleza y siempre que los interesados estén de acuerdo que se siga el procedimiento oral.
 
-> <small>N. DE E. TODA VEZ QUE EL LEGISLADOR ES OMISO RESPECTO A ESTE PARRAFO, SE DEJA A CRITERIO DEL USUARIO SU VIGENCIA</small>
-
 En los casos de los apartados III, IV, V, y VI, se observarán las modalidades a que se refiere el Capítulo Segundo, Título Tercero de este Libro;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1982)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-XI.- La rectificación de actas del Registro Civil a que se refiere el Capítulo VIII del presente Título.
+XI.- La rectificación de actas del Registro Civil a que se refiere el capítulo VIII del presente Título.
 
 501.- La demanda se formulará en los términos señalados para las del juicio en general. Dentro de las cuarenta y ocho horas siguientes a su entrada en el juzgado, se mandará dar traslado al demandado, emplazándolo para que conteste dentro de tres días, o produzca contestación en la audiencia, si el caso fuere urgente.
 
@@ -3811,7 +3813,7 @@ Lo dispuesto en este artículo, y los beneficios de los plazos que se conceden e
 
 I.- Pago;
 
-II.- Impedimento total o parcial del uso de la cosa arrendada por caso fortuito o fuerza mayor, en los términos de los artículos 2384, 2385, 2386 del Código Civil, y
+II.- Impedimento total o parcial del uso de la cosa arrendada por caso fortuito o fuerza mayor, en los términos de los artículos 2384, 2385 y 2386 del Código Civil;
 
 III.- Privación de uso proveniente de la evicción, en los términos del artículo 238 del Código Civil, y;
 
@@ -3943,7 +3945,9 @@ V.- Precauciones que deben adoptarse respecto de la mujer que quede encinta al d
 
 Ejecutoriada la sentencia, el tribunal, de oficio, enviará copia certificada al Oficial del Registro Civil ante quien se celebró el matrimonio para su anotación.
 
-566.- La sentencia recaída en los juicios de nulidad de matrimonio por las causas expresadas en los artículos 331, 332 y 338 a 341 del Código Civil, es revisable de oficio y se abre la segunda instancia aunque las partes no apelen, ni expresen agravios. El tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+566.- Las sentencias recaídas en los juicios de Nulidad de Matrimonio serán apelables en efecto suspensivo. Si la apelación la interpusiere el Ministerio Público, se procederá de oficio en la Segunda Instancia.
 
 ### CAPITULO IV. Del divorcio voluntario
 
@@ -4123,27 +4127,31 @@ Si la revocación se pide por ingratitud del adoptado, el juez mandará substanc
 
 600.- Cuando el adoptado sea menor de edad o incapacitado, los procedimientos para autorizar la adopción o para impugnarla o revocarla, se seguirán con el Ministerio Público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ENERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO VIII. Rectificación de actas del Registro Civil
+### CAPITULO VIII. Rectificación de las actas del Registro Civil
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-601.- El juicio que se instaure para obtener la rectificación de un Acta del Registro Civil se substanciará en la vía oral en los términos previstos por los artículos 86, 87, 88, y 90 de la Ley del Registro Civil para el Estado de Zacatecas. De la demanda inicial se correrá traslado al Oficial del Registro Civil que corresponda para que produzca su contestación dentro del término de tres días, bajo apercibimiento de que, si no lo hace, se tendrá por contestada en sentido negativo. Por el mismo término se dará vista al Ministerio Público para que manifieste lo que a su Representación convenga.
+601.- El juicio que se instaure para obtener la rectificación de un Acta del Registro Civil en los términos previstos por los artículos 94, 95, 96, y 98 del Código Familiar, se substanciará en la Vía Oral. De la demanda inicial se correrá traslado al Oficial del Registro Civil que corresponda para que produzca su contestación dentro del término de tres días, bajo apercibimiento de que, si no lo hace, se tendrá por contestada en sentido negativo. Por el mismo término se dará vista al Ministerio Público para que manifieste lo que a su representación convenga.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-602.- Una vez contestada la demanda o dada por contestada en los términos previstos por el artículo anterior, se citará a las partes para el desahogo de las pruebas que hubieren ofrecido, sin perjuicio de las que deban prepararse con antelación. La audiencia deberá verificarse dentro del término de diez días hábiles siguientes a la notificación personal del auto correspondiente. En la misma audiencia se citará a las partes para oír sentencia y se dictará ésta dentro del término de cinco días.
+602.- Una vez contestada la demanda o dada por contestada en los términos previstos por el artículo anterior, se citará a las partes para el desahogo de las pruebas que hubieren ofrecido, sin perjuicio de las que deban prepararse con antelación.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
+La audiencia deberá verificarse dentro del término de diez días hábiles siguientes a la notificación personal del auto correspondiente.
 
-603.- La sentencia que se pronuncie deberá revisarse de oficio por el Supremo Tribunal de Justicia del Estado, al que se remitirán los autos con la premura que el caso amerita, y la resolución que deba pronunciarse recaerá dentro del término de diez días contados desde el siguiente en que se reciban dichos autos. Dentro de los tres días siguientes al pronunciamiento del fallo se remitirá testimonio al Juzgado de origen y se devolverá el expediente.
+La audiencia producirá los efectos de citación para sentencia y ésta se dictará dentro del término de cinco días.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
-604.- Recibidos los autos por el Juzgador, procederá en los términos que señala el artículo 90 de la Ley del Registro Civil.
+603.- Cuando el Ministerio Público apelare de la sentencia que se pronuncie, se procederá de oficio ante el Tribunal Superior de Justicia del Estado, al que se remitirán los autos con la premura que el caso amerita, y la resolución que deba pronunciarse recaerá dentro del término de diez días contados desde el siguiente en que se reciban dichos autos. Dentro de los tres días siguientes al pronunciamiento del fallo se remitirá testimonio al Juzgado de su origen y se devolverá el expediente.
 
-Cuando se trate de la autorización necesaria para la inscripción de un registro extemporáneo, se tramitará en vía de jurisdicción voluntaria, con citación del Ministerio Público. El juzgador, con vista en las pruebas que se rindan resolverá autorizando o negando la autorización de la inscripción solicitada. Esta resolución no admitirá recurso alguno.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+604.- Recibidos los autos por el Juzgador, procederá en los términos que señala el artículo 98 del Código Familiar.
+
+Cuando se trate de la autorización necesaria para la inscripción de un registro extemporáneo, se tramitará en vía de Jurisdicción Voluntaria, con citación del Ministerio Público. El juzgador, con vista en las pruebas que se rindan resolverá autorizando o negando la Inscripción solicitada. Esta resolución no admitirá recurso alguno.
 
 ### CAPITULO IX. Interdicción e inhabilitación
 
@@ -5587,7 +5595,7 @@ El Notario dará a reconocer estas declaraciones por medio de dos publicaciones 
 
 830.- La tramitación de intestado ante Notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, que lo pidan de común acuerdo y que no exista controversia alguna.
 
-831.- La tramitación ante Notario se hará del conocimiento del representante Fisco para que tenga la intervención que le concede la ley.
+831.- La tramitación ante Notario se hará del conocimiento del representante del Fisco para que tenga la intervención que le concede la ley.
 
 832.- Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al Notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en la Ley de Hacienda del Estado y en la Ley Federal del Impuesto sobre Herencias y Legados.
 
@@ -5641,7 +5649,7 @@ Si la intervención judicial no consiste en recibir información sino en practic
 
 En caso de oposición de un tercero que justifique ser parte legítima, el juez examinará en forma preliminar la procedencia de la misma. Si advierte que ella no obsta a la intervención judicial solicitada por el promovente, la sustanciará en la forma prevista para los incidentes y accederá o denegará a lo pedido en la demanda.
 
-Si advierte que plantea una cuestión de importancia que obsta a todo pronunciamiento en la Jurisdicción Voluntaria, sobreseerá los procedimientos, disponiendo que los interesados promuevan el juicio contradictorio que corresponda. Igualmente sobreseerá en los casos previstos por el Artículo 2516 del Código Civil cuando no se reúnan los requisitos que el mismo exige y no se cumpla con el Artículo 848-Bis de este Código.
+Si advierte que plantea una cuestión de importancia que obsta a todo pronunciamiento en la jurisdicción voluntaria, sobreseerá los procedimientos, disponiendo que los interesados promuevan el juicio contradictorio que corresponda. Igualmente sobreseerá en los casos previstos por el Artículo 2516 del Código Civil cuando no se reúnan los requisitos que el mismo exige y no se cumple con el Artículo 848-Bis de este Código.
 
 Si la oposición se hiciere por quien no tenga personalidad ni interés para ello, el Juez la desechará de plano. También desechará las oposiciones presentadas después de efectuado el acto de Jurisdicción Voluntaria, reservando su derecho al opositor.
 
@@ -6086,3 +6094,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE SEPTIEMBRE DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios iniciados, pendientes de dictar sentencia en primera instancia, se regirán por las disposiciones de este Decreto.
