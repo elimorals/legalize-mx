@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1990-10-12"
+last_updated: "1991-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1991.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -2435,6 +2435,12 @@ Las casas habitación propiedad de pensionados o jubilados con valor hasta de 10
 
 Durante el ejercicio fiscal de 1990, aquellos contribuyentes que hayan realizado el pago de algún trimestre, o bien el pago total anual del Impuesto Predial, previamente a la entrada en vigor de la presente Ley, no se les cobrarán las diferencias a que se refiere el último párrafo del Artículo 57 de esta Ley, cuando éstas resulten con motivo de la aplicación de la tarifa contenida en la fracción I del Artículo 52, pero procederá la reintegración de diferencias cuando éstas resulten a favor del contribuyente.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
+
+###### ARTICULO SEXTO.
+
+En aquellas poblaciones del Municipio de Ahome, en que las revaluaciones catastrales entren en vigor a partir del 1 de octubre de 1990 hasta el 31 de diciembre de 1991, el Impuesto Predial Urbano se determinará conforme a la tarifa de la fracción I del Artículo 52 de esta Ley, tomando como base para su pago el 60% del monto del impuesto que resulte para los supuestos que establecen los incisos A, B, C, D, E, F Y G; el 55% para el inciso H; y, el 50% para el inciso I.
+
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veinte días del mes de Marzo de mil novecientos noventa.
 
 C. ANGEL POLANCO BERUMEN
@@ -2490,3 +2496,9 @@ Se entiende como negociación de nueva creación, aquella que ha contribuído a 
 ###### ARTICULO QUINTO.
 
 El monto de lo recaudado de este impuesto se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya para tal efecto y por decreto.
+
+P.O. 2 DE ENERO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
