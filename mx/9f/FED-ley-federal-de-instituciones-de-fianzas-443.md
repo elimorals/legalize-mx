@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1969-01-18"
+last_updated: "1974-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1974.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -609,11 +609,13 @@ Tratándose de primas, por concepto de reafianzamiento recibido de empresas extr
 
 Las instituciones de fianzas, dentro de los primeros quince días de cada bimestre, presentarán manifestaciones a la Secretaría de Hacienda y Crédito Público, determinando el monto del derecho a que se refiere el artículo anterior. Al presentar dichas manifestaciones exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1974)</small>
 
 ###### ARTICULO 74.
 
-Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna por los Estados, Municipios, Distrito y Territorios Federales. Los contratos de arrendamiento, subarrendamiento y compra-venta que celebren las instituciones de fianzas, causarán el impuesto establecido por las fracciones II y VII, inciso C, de la Tarifa contenida en el artículo 4o. de la Ley General del Timbre.
+Las instituciones de fianzas estarán sujetas a los impuestos y derechos establecidos en la Ley General del Timbre.
+
+Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna, por los Estados, Municipios y Distrito Federal.
 
 ###### ARTICULO 75.
 
@@ -1276,3 +1278,13 @@ La Secretaría de Hacienda y Crédito Público dispondrá en el orden administra
 ###### ARTICULO TERCERO.
 
 Quedan derogadas todas las disposiciones legales que se opongan a las reformas contenidas en el presente Decreto.
+
+D.O.F. 19 DE NOVIEMBRE DE 1974.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día de su publicación en el "Diario Oficial" de la Federación, salvo las reformas a la Ley del Impuesto sobre Producción y Consumo de Cerveza y las reformas, adiciones y derogaciones de los artículos relativos al "Título Tercero" de la Ley del Impuesto sobre la Renta, que se aplicarán a partir del 1o. de diciembre de 1974 y del 1o. de enero de 1975, respectivamente. Las disposiciones contenidas en el artículo 19 fracción VI inciso h) y artículo 21 fracción XII de dicha ley no se aplicarán a los ingresos o erogaciones que deriven de contratos celebrados con anterioridad a la vigencia de estas reformas, aun cuando se obtengan o efectúen con posterioridad a las mismas.
+
+.
