@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-asamblea-general-del-instituto-del-fondo-1358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-01-08"
-last_updated: "1992-10-20"
+last_updated: "1998-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1358&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2005-11-18"
 
 REGLAMENTO DE LA ASAMBLEA GENERAL DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1998.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 8 de enero de 1973.
 
@@ -172,9 +172,11 @@ Las sesiones de la Asamblea General serán presididas en forma rotativa por el m
 
 El Presidente dirigirá y moderará los debates durante las sesiones, procurando la fluidez de las mismas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 18o.
 
-La Asamblea General designará a un Secretario, quien podrá ser del mismo Consejo de Administración, y durará en su cargo seis años, pudiendo ser removido por la propia Asamblea, la cual nombrará desde luego a quien lo sustituya. Sus funciones serán:
+La Secretaría de la Asamblea General será desempeñada por el Secretario General del Instituto. Sus funciones serán:
 
 I.- Pasar lista a los miembros de la Asamblea;
 
@@ -196,9 +198,9 @@ VII.- Firmar las certificaciones que por disposición legal, o petición de part
 
 VIII. Las demás que la Asamblea General le señale.
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1998)</small>
 
-En las ausencias del secretario, la asamblea podrá designar provisionalmente a un prosecretario.
+En las ausencias temporales del secretario, la Asamblea General podrá designar provisionalmente a un prosececretario (sic).
 
 ## TRANSITORIO
 
@@ -213,3 +215,9 @@ D.O.F. 20 DE OCTUBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Acuerdo entrará en vigor a partir de la fecha de su aprobación por la Asamblea General del Instituto.
