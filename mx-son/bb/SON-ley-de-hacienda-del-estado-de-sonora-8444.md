@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1999-12-30"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -163,9 +163,9 @@ VI.- Los adquirentes de productos provenientes de terrenos ejidales o comunales 
 
 A).- Registrarse en el Padrón Estatal de Contribuyentes en las oficinas recaudadoras de su jurisdicción.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-B).- Verificar que se ha cubierto el impuesto y de no acreditarse dicho pago, retenerlo y expedir al productor el Formato de Retención de Impuesto Predial Ejidal autorizado por la Secretaría de Finanzas, así como enterar dicho impuesto en la oficina recaudadora de su jurisdicción.
+B).- Verificar que se ha cubierto el impuesto y de no acreditarse su pago, retenerlo y expedir al productor el formato de retención de Impuesto Predial Ejidal autorizado por la Secretaría de Finanzas y enterarlo en la oficina recaudadora de su jurisdicción, debiendo acompañar las copias de los permisos de siembra que se relacionan en el citado formato.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
 
@@ -369,11 +369,11 @@ b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 #### Sección Octava. Pago Del Impuesto
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 52.
 
-Tratándose de predios ejidales aprovechados para la producción agropecuaria, el pago se hará al efectuarse la venta de los productos y en su defecto dentro de los veinte días siguientes a la fecha en que éstos se hubieren cosechado.
+Tratándose de predios ejidales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieren cosechado.
 
 ###### Artículo 53.
 
@@ -663,9 +663,11 @@ Del Registro
 
 Los contribuyentes de este impuesto están obligados a registrarse en la oficina recaudadora de su jurisdicción. Cuando un mismo contribuyente tenga diversos giros, sucursales, bodegas o dependencias, deberá registrar cada uno de ellos por separado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 88.
 
-Para efectos del artículo anterior los contribuyentes presentarán ante la oficina recaudadora, dentro de cuya demarcación estén establecidas la matriz, sucursales, bodegas o dependencias, según corresponda, su solicitud de registro, dentro de los diez días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficiales que gratuitamente proporcionará la Tesorería General del Estado por conducto de dichas oficinas.
+Para efectos del artículo anterior los contribuyentes presentarán ante la oficina recaudadora, dentro de cuya demarcación estén establecidas la matriz, sucursales, bodegas o dependencias, según corresponda, su solicitud de registro, dentro de los treinta días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficiales que gratuitamente proporcionará la Secretaría de Finanzas por conducto de dichas oficinas.
 
 ###### Artículo 89.
 
@@ -689,11 +691,11 @@ De las Declaraciones y Pago del Impuesto
 
 El pago del Impuesto deberá hacerse dentro de los días 1o. al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. El impuesto mínimo que deberán pagar los contribuyentes no podrá ser menor de $35.00 mensuales.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 94.
 
-Los contribuyentes con ingresos anuales hasta de $23,000,000.00, podrán optar por cubrir el impuesto mediante la aceptación de una cuota fija mensual que determinara la tesorería general del estado, en cuyo caso el impuesto se pagara dentro de los primeros quince días del mes a que corresponda.
+Los contribuyentes con ingresos anuales hasta de $700,000.00, podrán optar por cubrir el impuesto mediante la aceptación de una cuota fija mensual que determinará la Secretaría de Finanzas, en cuyo caso el impuesto se pagará dentro de los primeros veinte días del mes a que corresponda.
 
 ###### Artículo 95.
 
@@ -1515,9 +1517,9 @@ Es objeto de este impuesto, la traslación de dominio de bienes muebles, compren
 
 I.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, B.O. 31 DICIEMBRE DE 2000)</small>
 
-II.- La enajenación, adjudicación y permuta de bienes muebles usados, en operaciones realizadas por personas no constituidas como empresas.
+II.- La enajenación, adjudicación y permuta de bienes muebles usados, a excepción de las realizadas por empresas.
 
 > <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
 
@@ -1845,7 +1847,7 @@ III.- Los funcionarios de las oficinas de tránsito que autoricen altas o cambio
 
 Artículo 212 C.- Los contribuyentes comprobaran el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 212-D.
 
@@ -1857,43 +1859,49 @@ TIPO DE VEHICULOS CUOTA
 
 AUTOMOVILES
 
-4 CILINDROS N$ 30.00
+4 CILINDROS $ 60.00
 
-6 CILINDROS N$ 58.00
+6 CILINDROS $ 116.00
 
-8 CILINDROS N$ 72.00
+8 CILINDROS $ 144.00
 
 CAMIONES:
 
-- Pick up N$ 30.00
+- Pick up $ 60.00
 
-- Vehículos con peso vehicular y con capacidad de
+- Vehículos con peso vehicular y
 
-carga hasta 8 toneladas. N$ 36.00
+con capacidad de carga hasta 8
 
-- Vehículos con peso vehicular y con capacidad de
+toneladas. $ 72.00
 
-carga mayor a 8 toneladas. N$ 50.00
+- Vehículos con peso vehicular y
 
-- Tractores no agrícolas tipo quinta rueda incluyendo
+con capacidad de carga mayor a
 
-minibuses, microbuses, autobuses y demás
+8 toneladas. $ 100.00
 
-vehículos destinados al transporte de carga
+- Tractores no agrícolas tipo quinta
 
-y pasaje. N$ 85.00
+rueda incluyendo minibuses, microbuses,
+
+autobuses y demás vehículos destinados
+
+al transporte de carga y pasaje. $ 170.00
 
 MOTOCICLETAS:
 
-Hasta de 250 cm3 N$ 1.50
+Hasta de 250 cm3 $ 3.00
 
-De 251 a 500 cm3 N$ 7.00
+De 251 a 500 cm3 $ 14.00
 
-De 501 a 750 cm3 N$ 15.00
+De 500(sic) a 750 cm3 $ 30.00
 
-De 751 a 1000 cm3 N$ 28.00
+De 751 a 1000 cm3 $ 56.00
 
-De 1001 en adelante N$ 42.00
+De 1001 en adelante $ 84.00
+
+Los montos de las cantidades establecidas en la tarifa anterior, se actualizarán en el mes de enero de cada año con el factor de ajuste que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél por el cual se efectúa el cálculo, entre el citado Indice correspondiente al mes de diciembre del segundo año inmediato anterior al de dicho cálculo.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2025,15 +2033,41 @@ III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan
 
 IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente actividades sociales, deportivas o culturales.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados hasta 5 trabajadores.
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará del pago de este impuesto por el monto equivalente a un salario mínimo elevado al mes por cada trabajador hasta un máximo de cinco trabajadores. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 Los contribuyentes a que se refiere el párrafo anterior, deberán inscribirse en el Registro Estatal de Contribuyentes y presentar anualmente, durante el mes de enero, la declaración correspondiente sin impuesto a cargo.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 VI.- Contraprestaciones pagadas a personas con discapacidad.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+VII.- Participación en las utilidades de los trabajadores.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+VIII.- Aportación por concepto de seguro de retiro y de INFONAVIT.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+IX.- Gastos funerarios.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+X.- Becas educacionales a favor de trabajadores y sus hijos, siempre y cuando sean en Instituciones con reconocimiento de validez oficial.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+XI.- Primas de seguro de gastos médicos y de vida, y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2059,17 +2093,17 @@ II.- Presentar las declaraciones correspondientes para el pago del impuesto;
 
 III.- Tratándose de personas físicas o morales cuya casa matriz y sucursales se encuentren en el territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio de la matriz. En dicha declaración deberán incluirse las erogaciones en forma desglosada tanto de la matriz como de las sucursales o dependencias;
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-Se considerará como matriz o principal asiento del negocio, a la sucursal ubicada dentro del territorio del Estado cuya matriz (sic) se localiza fuera de él, debiendo dicha sucursal cumplir con todas las obligaciones previstas por esta Ley y demás disposiciones fiscales.
+Se considerará como matriz o principal asiento del negocio, a la sucursal ubicada dentro del territorio del Estado cuya matriz se localiza fuera de él, debiendo dicha sucursal mantener a disposición de las autoridades en un término de 15 días siguientes de haberse efectuado el pago, copia de la declaración presentada por la oficina matriz en la cual enteró el impuesto por cuenta de ella, así como cumplir con todas las obligaciones previstas por esta Ley y demás disposiciones fiscales.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-Tratándose del establecimiento de varias sucursales de una misma empresa, en el territorio del Estado, la primera en establecerse se inscribirá en el Registro Estatal de Contribuyentes, debiendo las restantes presentar únicamente el aviso de apertura de establecimientos ante la oficina recaudadora correspondiente;
+Tratándose del establecimiento de varias sucursales de una misma empresa, en el territorio del Estado, la primera en establecerse se inscribirá en el Registro Estatal de Contribuyentes debiendo las restantes presentar ante la oficina recaudadora correspondiente, únicamente el aviso de apertura del establecimiento y acompañar copia del aviso de inscripción de la empresa matriz que efectuará los pagos a cuenta de ella;
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, dejando en blanco el apartado correspondiente. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas; y
+IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, acompañada por la constancia de baja del trabajador presentada ante el Seguro Social, dejando en blanco el apartado correspondiente. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas;
 
 > <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2751,7 +2785,7 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo Segundo. Servicios de Empadronamiento
 
-### Capítulo Tercero. Servicios por la Expedición y Revalidación de Licencias para la Venta y Consumo de Bebidas con Contenido Alcohólico y Expedición de Licencias Eventuales
+### Capítulo Tercero. Servicios por la Expedición y Revalidación de Licencias para la Venta de Bebidas con Contenido Alcohólico
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2919,13 +2953,13 @@ En los Capítulos siguientes se señalan los servicios que quedan sujetos al pag
 
 El monto de las cuotas o tarifas de los derechos que este título establece en cantidades determinadas, se actualizará en los meses de enero y julio de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-El factor aplicable para el mes de enero, será el que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el del mes de agosto inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de febrero.
+El factor aplicable para el mes de enero, será el que resulte de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el del mes de junio inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de mayo entre el del mes de diciembre inmediato anterior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-Se exceptúa del procedimiento de actualización anterior, a los derechos por servicios por la expedición, cambio de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico y expedición de licencias eventuales, los cuales se actualizarán anualmente en el mes de enero, con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de esa fecha.
+Se exceptúa del procedimiento de actualización anterior, a los derechos por servicios por la expedición, cambio de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico, los cuales se actualizarán anualmente en el mes de enero, con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado Indice correspondiente al mes de diciembre del segundo año inmediato anterior al de esa fecha.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2951,7 +2985,7 @@ El pago de los derechos se efectuará al momento de la prestación del servicio,
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ### Capítulo Séptimo. De los Derechos por Registro de Documentos, Permisos, Autorizaciones y Servicios Prestados por la Dirección de Notarías del Estado
 
@@ -2979,9 +3013,13 @@ d).- Expendio 20,000.00 a 80,000.00
 
 e).- Ultramarino 10,000.00 a 50,000.00
 
-f).- Cantina 10,000.00 a 80,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-g).- Cervecería 8,000.00 a 50,000.00
+f).- Cantina, bar o cervecería 60,000.00 a 120,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+g).- fabrica 60,000.00 a 120,000.00
 
 h).- Cabaret o Centro
 
@@ -2995,7 +3033,9 @@ k).- Fonda, Taquería,
 
 Pizzería y similares 5,000.00 a 50,000.00
 
-l).- Marisquería 3,000.00 a 30,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+l).- Envasadora 50,550.00 a 130,000.00
 
 m).- Supermercado 20,000.00 a 80,000.00
 
@@ -3023,7 +3063,17 @@ t).- Abarrotes 2,000.00 a 10,000.00
 
 u).- Tienda de servicio 25,000.00 a 100,000.00
 
-v).- Otros giros 5,000.00 a 150,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+v).- Bodega 53,500.00 a 130,000.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+w).- Porteador de bebidas con
+
+contenido alcohólico 5,213.00 a 6,516.25
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 II.- Por la revalidación:
 
@@ -3039,9 +3089,13 @@ d).- Expendio 2,000.00 a 8,000.00
 
 e).- Ultramarino 1,000.00 a 5,000.00
 
-f).- Cantina 1,000.00 a 8,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-g).- Cervecería 800.00 a 5,000.00
+f).- Cantina, bar o cervecería 1,000.00 a 8,000.00
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+g).- Fábrica 6,000.00 a 11,000.00
 
 h).- Cabaret o Centro
 
@@ -3055,7 +3109,9 @@ k).- Fonda, Taquería,
 
 Pizzería y similares 500.00 a 5,000.00
 
-l).- Marisquería 300.00 a 5,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+l).- Envasadora 5,500.00 a 10,500.00
 
 m).- Supermercado 2,000.00 a 8,000.00
 
@@ -3083,13 +3139,19 @@ t).- Abarrotes 100.00 a 1,000.00
 
 u).- Tienda de servicio 2,500.00 a 10,000.00
 
-v).- Otros giros 500.00 a 15,000.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-III.- Por la expedición de
+v).- Bodega 5,000.00 a 9,000.00
 
-licencias eventuales, por
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-día, N$200.00 a N$10,000.00
+w).- Porteador 567.00 a 630.00
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+III.- Cerfificación de licencias
+
+de alcohóles $257.00 $289.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3103,19 +3165,23 @@ Cuando en un solo trámite se realicen simultáneamente los cambios de domicilio
 
 (DEROGADO, B.O. 28 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 304.
 
-Los derechos por la expedición de licencias y para cambio de domicilio, se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente. Los de revalidación serán anuales y se pagarán durante los meses de enero y febrero de cada año y tratándose de licencias eventuales se cubrirán los derechos al momento de la prestación del servicio.
+Los derechos por la expedición de licencias, cambios de domicilio y cambios de propietario, se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente. Los de revalidación serán anuales y se pagarán durante los meses de enero y febrero de cada año.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 305.
 
-Los permisos para la venta y fabricación de alcohol y bebidas alcohólicas no podrán ser objeto de ninguna clase de transferencia. Sin embargo, cuando se compruebe la transmisión del permiso sin que para ellos se haya seguido trámite ante la Tesorería, se cobrarán los derechos equivalentes a los fijados a la negociación de que se trate para el pago anual, sin perjuicio de hacer efectiva la multa que a juicio de la Tesorería debe imponerse o la clausura del negocio, en su caso.
+Cuando se compruebe la transmisión del permiso sin que para ello se haya seguido trámite ante la Secretaría de Fianzas del Estado, se cobrarán los derechos equivalentes a los fijados a la negociación de que se trate para el pago anual, sin perjuicio de hacer efectiva la multa que a juicio de la Secretaría deba imponerse o la clausura del negocio, en su caso.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 306.
 
-Igualmente cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Tesorería, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses (o fracciones) del año fiscal de que se trate.
+Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y cambios de domicilio, con autorización de la Secretaría de Fianzas del Estado, quedarán los permisionarios sujetos a los derechos que se señalen, los que serán equivalentes a los que haya venido pagando el propietario anterior. Se cobrarán estos derechos en forma proporcional a los meses o fracciones del año fiscal de que se trate.
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
@@ -3267,41 +3333,7 @@ almacenaje de explosivos. N$ 375.00
 
 7.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
-8.- Autorización para exhumación de
-
-cadáveres y restos áridos, como
-
-sigue:
-
-I.- Para exhumación de restos áridos para ser
-
-reinhumados en el mismo panteón. N$ 75.00
-
-II.- Por la exhumación de restos áridos para ser
-
-reinhumados en otro panteón dentro de la
-
-Jurisdicción del Municipio. N$ 100.00
-
-III.- Por la exhumación de restos áridos para ser
-
-reinhumados en otros municipios del Estado o
-
-fuera de la entidad. N$ 200.00
-
-IV.- Por autorización para el traslado de un cadáver
-
-o restos áridos exhumados de un Municipio a otro
-
-o a otra entidad Federativa N$ 50.00
-
-No se causará ningún derecho por la exhumación
-
-de cadáveres cuando ésta sea decretada por
-
-autoridad judicial o por el Ministerio Público en un
-
-proceso penal.
+8.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2000)
 
 9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
@@ -3629,9 +3661,11 @@ Por dos años N$ 70.00
 
 Por tres años N$ 90.00
 
-C).- De Operador de Servicio Público de Transporte
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-(Categoría Unica por dos años) N$ 90.00
+C).- De operador público de transporte.
+
+(Categoría única por tres años). N$ 90.00
 
 D).- De motociclistas:
 
@@ -3927,6 +3961,10 @@ Por los servicios registrales que presta el Instituto Catastral y Registral del 
 
 1.- Por las inscripciones relativas a los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre el precio pactado en la operación, el consignado en el avalúo efectuado por una Institución de Crédito, corredor público autorizado o perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora, mismo que deberá tener una vigencia no mayor de doce meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar este último y el avalúo correspondiente al documento respectivo.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+Si el importe a pagar por los conceptos a que se refiere este punto es menor a la cantidad de $175.50, deberá aplicarse esta última, excepto cuando se trate de satisfacer necesidades de vivienda.
+
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
 En el Reglamento que al efecto se expida por el Poder Ejecutivo, se establecerán las normas que regulen el Registro de Peritos Valuadores en el Estado de Sonora, y en todo caso los requisitos para la obtención del registro, así como las obligaciones, infracciones y sanciones, que sean aplicables a los peritos valuadores.
@@ -3949,9 +3987,9 @@ En los demás tipos de vivienda. N$ 320.00
 
 Para la ubicación en el rango correspondiente de las cuotas anteriores se tomará como valor el que resulte más alto entre los señalados en el punto 1 anterior.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-Tratándose de títulos que expida la nación, el Gobierno del Estado y los ayuntamientos. En estos casos se exceptúan de la obligación de la presentación del avalúo. $148.00.
+Tratándose de Títulos que expida la administración pública directa o descentralizada, federal, estatal o municipal. En estos casos se exceptúan de la obligación de la presentación del avalúo. $184.00.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4119,15 +4157,15 @@ da cómo resultado una cuota menor a $ 193.00, deberá
 
 aplicarse este último.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 8.- Por convenio modificatorio, judicial, rectificación
 
-de escrituras, gestiones oficiosas, y demás
+de escrituras, gestiones oficiosas y demás documentos
 
-documentos o títulos públicos o privados no
+o títulos públicos o privados no previstos en la sección
 
-previstos se cobrará: N$150.00
+del Registro Público de la Propiedad, se cobrarán: $279.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4387,11 +4425,11 @@ Para la aplicación de las reducciones a que se refiere el párrafo anterior deb
 
 Las tarifas de este Capítulo cuando comprendan dos o más cuotas y ya sean especificadas o proporcionales, se aplicarán progresivamente y acumulativamente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 323.
 
-Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Instituto de Desarrollo Urbano y Rural, Instituto del Fondo Nacional de la Vivienda para los Trabajadores, Comisión para la Regularización de la Tenencia de la Tierra e instituciones de asistencia privada autorizadas por la Junta de Asistencia Privada de la Secretaría de Salud.
+Se exceptúan de los derechos a que se refiere este Capítulo, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, e instituciones de asistencia privada autorizadas para la Junta de Asistencia Privada de la Secretaría de Salud.
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -4407,29 +4445,27 @@ Los servicios que se presten por las Oficialías del Registro Civil, causarán l
 
 I.- Por las inscripciones de:
 
-1.- Matrimonios
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+1.- Nacimientos gratuitos
 
-1.1.- Dentro de la oficina en horas hábiles N$ 100.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+2.- Reconocimiento de hijos gratuita
 
-1.2.- Fuera de la oficina en horas inhábiles
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-(centros sociales y domicilios particulares) N$ 450.00
+3.- Defunciones gratuita
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-2.- Nacimientos GRATUITA
+4.- Matrimonios
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+4.1.- Dentro de la oficina en horas hábiles $190.00
 
-3.- Reconocimiento de hijos GRATUITA
+4.2.- Fuera de la oficina en horas inhábiles
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
-
-4.- Defunciones GRATUITA
+(centros sociales y domicilios particulares) $837.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4549,9 +4585,9 @@ búsqueda. N$ 15.00
 
 inexistencia respectivos. N$ 15.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-Artículo 325 Bis B.- La petición de actas del estado civil de las personas y los certificados de inexistencias de las mismas que realice la institución del Registro Civil a otro Estado, causará un derecho de: N$ 30.00
+Artículo 325 Bis B.- La expedición de documentos que realice la Institución del Registro Civil a otro estado causará el derecho correspondiente al servicio solicitado; independientemente de los derechos que se causen deberá pagarse el costo de envío que determine el usuario.
 
 Artículo 325 Bis C.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1992)
 
@@ -4897,6 +4933,40 @@ análisis clínicos. N$ 105.00
 
 Tratándose de permisos sanitarios para construcción de vivienda por M2, la cuota correspondiente se aplicará reducida en un 50 %.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+19.- Autorización para exhumación de cadáveres
+
+y restos áridos, como sigue:
+
+A).- Para la exhumación de restos áridos para ser
+
+reinhumados en el mismo panteón $138.00
+
+B).- Para la exhumación de restos áridos para ser
+
+reinhumados en otro panteón dentro de la jurisdicción
+
+del municipio. $190.00
+
+C).- Por la exhumación de restos áridos para ser
+
+reinhumados en otros municipios del Estado o
+
+fuera de la entidad. $371.00
+
+D).- Por autorización para el traslado de un cadáver
+
+o restos áridos exhumados de un municipio a otro
+
+o a otra entidad federativa. $91.00
+
+No se causará ningún derecho por exhumación de
+
+cadáveres cuando esta sea decretada por autoridad
+
+judicial o por el Ministerio Público en un proceso penal.
+
 IV.- Servicios Prestados por la Secretaría de Educación y Cultura del Estado.
 
 1.- Revisión de documentos por hoja. N$ 3.00
@@ -4968,6 +5038,14 @@ cantidad que deban pagar conforme al presente
 apartado y el número de becas que efectivamente
 
 hubieren otorgado por disposición de la Secretaría.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+12.- Certificación de antecedentes académicos $120.00
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+13.- Constancia sobre registro y ejercicio profesional $30.00
 
 > <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -5296,3 +5374,13 @@ El presente Decreto entrará en vigor a partir del 1° de enero del 2000, previa
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales, reglamentarias o administrativas que en lo conducente se opongan al contenido, efectos, alcances y aplicación del presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado el día primero de enero de 2001.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
