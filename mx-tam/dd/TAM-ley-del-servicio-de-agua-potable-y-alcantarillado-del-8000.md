@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-servicio-de-agua-potable-y-alcantarillado-del-8000"
 country: "mx"
 rank: "ley"
 publication_date: "1992-08-01"
-last_updated: "1992-08-01"
+last_updated: "1995-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 1 de agosto de 1992.
 
@@ -379,7 +379,7 @@ I.- Elaborar, presentar y en su caso, ejecutar los planes y programas de la Comi
 
 II.- Expedir nombramientos al personal que sea necesario y estructurar la organización de la Comisión Estatal para lograr su objetivo.
 
-III.- Ser el Representante legal de la Comisión Estatal, con todas las facultades que conforme a la Legislación Civil corresponde a un mandatario general, inclusive la de delegar su representación, otorgar poderes, sustituir un mandato y celebrar contratos. Podrá además formular querellas y denuncias, comparecer en juicio, interponer y continuar recursos, pero no podrá desistirse de las acciones que entable sin acuerdo expreso del Consejo de Administración.
+III.- Ser el Representante legal de la Comisión Estatal, con todas las facultades que conforme a la Legislación Civil corresponde a un mandatario general, inclusive la de delegar su representación, otorgar poderes, sustituir un mandato y celebrar, contratos. Podrá además formular querellas y denuncias, comparecer en juicio, interponer y continuar recursos, pero no podrá desistirse de las acciones que entable sin acuerdo expreso del Consejo de Administración.
 
 IV.- Suscribir, endosar y cobrar títulos de crédito a nombre del organismo.
 
@@ -497,15 +497,25 @@ IV.- Un representante del Sector Salud.
 
 V.- Un Diputado del Distrito, designado por el Congreso del Estado.
 
-VI.- Un representante del Colegio de Ingenieros Civiles.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-VII.- Un representante del Colegio o Asociación de Abogados.
+VI.- Un representante de la Cámara de la Industria de la Construcción.
 
-VIII.- Un representante del Colegio de Contadores Públicos.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-IX.- Un representante de la Cámara Nacional de Comercio, debiendo ser el Presidente en turno.
+VII.- Un representante del COPLADET.
 
-X.- Un representante del Sector Financiero o Bancario; que deberá ser el Presidente del Centro Bancario en turno de la localidad.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+VIII.- Un representante de la Secretaría de Desarrollo Social del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+IX.- Un representante de BANOBRAS
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+X.- Un representante de la Secretaría de Desarrollo Social Federal.
 
 Dentro de los miembros que integran el Consejo de Administración se elegirá un Presidente, un Secretario y un Tesorero, y los restantes tendrán el cargo de Vocales y desempeñarán las funciones que el propio Consejo de Administración y las Leyes y Reglamentos les asignen.
 
@@ -1118,3 +1128,11 @@ Los derechos de los trabajadores que por efecto de este Decreto pasen a formar p
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los seis días del mes de julio de mil novecientos noventa y dos.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE DICIEMBRE DE 1995
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
