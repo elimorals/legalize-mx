@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1976-01-27"
+last_updated: "1978-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE ENERO DE 1976.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE ABRIL DE 1978.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -275,7 +275,9 @@ II.- Si logra mayoría en un Distrito Electoral o más, no tendrá derecho a que
 
 III.- El Diputado de Partido será, en su caso el candidato con mayor votación entre todos los de su Partido.
 
-IV.- Solamente podrán acreditar Diputados en los términos de este Artículo, los Partidos Políticos Nacionales, que hubieren obtenido su registro conforme a la Ley ante la Secretaría de Gobernación con un año de anticipación al día de la elección y se encontraren debidamente acreditados ante los Organos Electorales Estatales y
+> <small>(REFORMADA, D.O.5 DE ABRIL DE 1978)</small>
+
+IV.- Solamente podrán acreditar Diputados en los términos de este artículo los partidos políticos nacionales, que hubieren obtenido su registro conforme a la Ley ante la Comisión Federal Electoral, con un año de anticipación al día de la elección y se encontraren debidamente acreditados ante los órganos electorales estatales.
 
 V.- Los Diputados de mayoría y los de partido tendrán la misma categoría y los mismos derechos y obligaciones.
 
@@ -897,7 +899,7 @@ De las sanciones que impongan las autoridades municipales, resolverá definitiva
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O.24 DE OCTUBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.5 DE ABRIL DE 1978)</small>
 
 ###### Artículo 74.
 
@@ -938,6 +940,8 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, los municipios regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermediaria, los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad popularmente, por elección directa cada tres años en la forma que la Ley prescribe. Uno de los Concejales será electo con carácter de Presidente.
 
 En las elecciones municipales participarán las mujeres en igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
+
+En aquellos municipios del Estado, cuya población sea de trescientos mil o más habitantes se introduce el principio de representación proporcional, con apego a lo que al respecto disponen la Constitución Política de los Estados Unidos, la presente Constitución, la Ley Electoral del Estado y las normas siguientes: a).- Todo partido político nacional que en dichos municipios obtuviere el 1.5 por ciento o más de la votación, tendrá derecho a que se le acredite, entre sus candidatos a concejales, un concejal propietario y uno suplente; b).- El concejal de partido será el que encabece la planilla o quien seleccione el partido entre los integrantes de ella; c).- Solamente podrán acreditar concejales en los términos de este artículo, los partidos políticos nacionales o locales, que hubiesen obtenido su registro conforme a la Ley y acrediten debidamente tal registro ante las autoridades locales correspondientes; d).- Los concejales de mayoría y los de partido tendrán igual categoría y los mismos derechos y obligaciones.
 
 > <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
 
@@ -1490,6 +1494,10 @@ SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación
 D.O. 27 DE ENERO DE 1976.
 
 UNICO.- Este Decreto entrará en vigor el día primero de febrero del año en curso.
+
+D.O. 5 DE ABRIL DE 1978.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
