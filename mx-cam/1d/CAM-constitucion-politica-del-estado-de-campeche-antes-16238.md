@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1954-05-29"
+last_updated: "1954-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 1954 REPUBLICADO, P.O. 3 DE JUNIO DE 1954.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -47,7 +47,7 @@ De los Campechanos.
 
 De los ciudadanos Campechanos.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1954)</small>
+(REFORMADO, P.O. 29 DE MAYO DE 1954) (REPUBLICADO, P.O. 3 DE JUNIO DE 1954)
 
 ###### Art. 10.
 
@@ -653,7 +653,7 @@ Se concede acción popular para denunciar ante el Congreso las faltas o delitos 
 
 Los Municipios Libres que integran el Estado, se regirán por la Ley Orgánica de Administración Interior que oportunamente expedirá el Congreso del Estado y que tendrá como bases, las siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1954)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 1954) (REPUBLICADA, P.O. 3 DE JUNIO DE 1954)
 
 I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre ésta y el Gobierno del Estado;
 
@@ -685,7 +685,7 @@ Prevenciones Generales.
 
 Para ser electo componente de un Ayuntamiento, Junta Municipal o Comisario Municipal, se requiere:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1954)</small>
+(REFORMADA, P.O. 29 DE MAYO DE 1954) (REPUBLICADA, P.O. 3 DE JUNIO DE 1954)
 
 I. Ser ciudadano campechano en pleno goce de sus derechos.
 
@@ -1056,5 +1056,7 @@ P.O. 31 DE AGOSTO DE 1948.
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 29 DE MAYO DE 1954.
+
+(REPUBLICADO, P.O. 3 DE JUNIO DE 1954)
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
