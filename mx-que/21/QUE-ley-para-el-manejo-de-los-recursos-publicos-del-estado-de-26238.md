@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-26238
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2002-09-27"
+last_updated: "2003-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO
 
-LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERÉTARO.
+LEY PARA EL MANEJO DE LOS RECURSOS PUBLICOS DEL ESTADO DE QUERETARO.
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -127,6 +127,10 @@ Los sujetos de esta Ley coordinarán, en el ámbito de su competencia, las activ
 
 Los presupuestos deberán planearse y ejecutarse atendiendo las necesidades de la sociedad y los principios de racionalidad, austeridad y disciplina en el ejercicio del gasto público.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+La planeación y programación anual de los sujetos de esta Ley deberán basarse en las directrices de los Planes de Desarrollo Estatal y Municipales, así como en los programas derivados de éstos. Los objetivos y las metas que se establezcan derivados de los procesos anteriores, se incorporarán en la iniciativa de Presupuesto de Egresos apegándose a los criterios de prioridad social y disponibilidad de los ingresos.
+
 ###### Artículo 18.
 
 Los sujetos de esta Ley otorgarán todas las facilidades al Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura a fin de dar cumplimiento a lo establecido en la presente.
@@ -169,7 +173,9 @@ El proyecto de iniciativa de Ley de Ingresos del Estado la formulará la Secreta
 
 I. Los Impuestos, Derechos, Productos y Aprovechamientos que recibirá el Estado.
 
-II. Las Participaciones y Aportaciones Federales
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+II. Las Participaciones, Aportaciones Federales y otras Transferencias.
 
 III. Los Ingresos Extraordinarios.
 
@@ -225,9 +231,21 @@ Los sujetos de la presente Ley no podrán efectuar ningún egreso que no haya si
 
 Los presupuestos de egresos no deberán contener partidas presupuestales secretas o confidenciales o cuyo fin no sea claro y específico.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 35.
 
 El Presupuesto de Egresos de todos y cada uno de los sujetos de esta Ley, tendrá una estructura de integración programática y presupuestal y una sustentación lo suficientemente amplia, que abarque todas las responsabilidades de gobierno.
+
+Para efectos de la presente Ley, se entiende por:
+
+I. Gasto Público: El proceso de carácter político, jurídico, económico y administrativo que permite dar cumplimiento al plan estatal de desarrollo. Comprende las fases de planeación, programación, presupuesto y evaluación.
+
+II. Gasto Social: Las erogaciones que estén orientadas directamente a los servicios de salud, educación, procuración de justicia, asistencia social, concertación, seguridad, cultura, recreación, deporte, investigación y promoción de empleo. Así mismo, incluye la inversión en obra pública de infraestructura social y urbana. Los recursos provenientes de deuda pública deberán destinarse a inversiones públicas, productivas y conforme a las bases que establezca la legislatura.
+
+III. Gasto Administrativo: Las erogaciones que se realizan por conceptos de salarios del personal directivo y administrativo, servicios de la deuda pública, servicios de apoyo materiales, mobiliario, y suministros utilizados como soporte para la gestión pública.
+
+La Secretaría de Planeación y Finanzas, en el ámbito de su competencia, podrá solicitar y obtener de los sujetos de esta Ley, la información necesaria que respalde sus proyectos de presupuesto.
 
 ###### Artículo 36.
 
@@ -479,6 +497,10 @@ Las transferencias presupuestales realizadas por los sujetos de esta ley, deber�
 
 Los sujetos de esta Ley deberán observar un cuidadoso registro y control de su ejercicio presupuestal, sujetándose a los compromisos reales de pago.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
+Concluida la vigencia del presupuesto de egresos, sólo podrán efectuarse pagos con cargo a éste por conceptos efectivamente devengados en el año de que se trate, siempre y cuando se haya informado oportunamente a la Secretaría de Planeación y Finanzas o a la Dependencia Encargada de las Finanzas Públicas Municipales en su caso.
+
 ###### Artículo 80.
 
 Todas las propuestas de incremento o creación de partidas en los Presupuestos de Egresos, incluirán específicamente el origen del ingreso.
@@ -691,13 +713,17 @@ A solicitud de la Comisión de Hacienda de la Legislatura y por conducto del Ór
 
 Si alguno de los sujetos de esta Ley, no proporciona información o no permite la revisión de libros, registros electrónicos, instrumentos o documentos comprobatorios y justificativos del ingreso y del gasto público, así como no permite la práctica de visitas, inspecciones y auditorias, el Órgano de Asesoría Técnica por conducto de la Comisión de Hacienda lo hará del conocimiento al Pleno de la Legislatura, para que resuelva sobre la imposición de sanciones, con base en las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 115.
 
-El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura formulará, los pliegos de observaciones derivados de la revisión de la Cuenta Pública, para que, en su caso, sean solventadas a satisfacción del mismo.
+El Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura formulará, los pliegos de observaciones derivados de la revisión de la cuenta pública, para que, en su caso, sean solventadas en los términos de Ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 116.
 
-De no solventarse las observaciones a satisfacción del Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura, se informará en el resultado de la revisión de la cuenta pública a la Comisión de Hacienda.
+De no solventarse las observaciones, el Órgano de Asesoría Técnica de la Comisión de Hacienda de la Legislatura, lo informará a ésta en el resultado de la revisión de la cuenta pública.
 
 ###### Artículo 117.
 
@@ -822,3 +848,15 @@ LIC. BERNARDO GARCÍA CAMINO
 SECRETARIO DE GOBIERNO
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor el día de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
