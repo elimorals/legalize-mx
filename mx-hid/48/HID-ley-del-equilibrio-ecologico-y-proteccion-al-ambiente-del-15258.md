@@ -4,7 +4,7 @@ identifier: "HID-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-15258
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-30"
-last_updated: "1998-12-30"
+last_updated: "2004-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LE LEY PARA LA PROTECCION AL AMBIENTE EN EL ESTADO DE HIDALGO, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 30 de diciembre de 1998.
 
@@ -263,7 +265,7 @@ a) Aplicar las disposiciones jurídicas en la contaminación generada por fuente
 
 b) Requerir a quienes realicen actividades contaminantes, la instalación de equipos de control de emisiones, salvo que, se trate de asuntos de jurisdicción federal o estatal, así como promover la instalación de equipos de control de emisiones en los casos de realización de actividades contaminantes de competencia federal;
 
-c) Establecer requisitos y procedimientos para limitar o impedir las emisiones de contaminantes a la atmósfera de los vehículos automotores destinados al transporte público, en centros de población, así como promover su coordinación con las autoridades federales y estatales en lo que toca a vehículos de servicio público federal o local en los relativo a vías generales o estatales de comunicación;
+c) Establecer requisitos y procedimientos para limitar o impedir las emisiones de contaminantes a la atmósfera de los vehículos automotores destinados al transporte público, en centros de población, así como promover su coordinación con las autoridades federales y estatales en lo que toca a vehículos de servicio público federal o local en lo relativo a vías generales o estatales de comunicación;
 
 d) Aplicar las medidas de tránsito y vialidad necesarias dentro de los centros de población de jurisdicción municipal, para evitar que se rebasen los límites máximos permisibles que determinen los reglamentos y normas oficiales mexicanas correspondientes;
 
@@ -1037,7 +1039,7 @@ I. El establecimiento de criterios sanitarios para el uso, tratamiento y disposi
 
 II. La aplicación de las Normas Oficiales Mexicanas que deberá satisfacer la calidad del agua tratada para el uso y consumo humano;
 
-III. Los convenios que celebren el Municipio y la Federación para entrega de agua en bloque a los sistemas usuarios o a usuarios (sic), especialmente en lo que se refiere a la determinación de los sistemas de tratamiento de aguas residuales que deban instalarse;
+III. Los convenios que celebren el Municipio y la Federación para entrega de agua en bloque a los sistemas usuarios o a usuarios, especialmente en lo que se refiere a la determinación de los sistemas de tratamiento de aguas residuales que deban instalarse;
 
 IV. La restricción o suspensión de explotaciones y aprovechamientos que ordene la Federación o el Estado en los casos de disminución, escasez o contaminación de las fuentes de abastecimiento, o para proteger los servicios de agua potable;
 
@@ -1473,7 +1475,7 @@ En las propias reservas deberá determinarse la superficie o superficies que pro
 
 ###### Artículo 144.
 
-Los parques estatales se constituirán, cuando existan representaciones biogeográficas y ecológicas a nivel estatal que se (sic) signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
+Los parques estatales se constituirán, cuando existan representaciones biogeográficas y ecológicas a nivel estatal que se signifiquen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general.
 
 En los parques estatales sólo podrá permitirse la realización de actividades relacionadas con la protección de sus recursos naturales, el incremento de su flora y fauna y, en general, con la preservación de los ecosistemas y de sus elementos, así como con la investigación, recreación, turismo y educación ecológicos.
 
@@ -1489,7 +1491,7 @@ Las zonas de preservación ecológica de los centros de población son aquellas 
 
 ###### Artículo 147.
 
-Son parques urbanos municipales o jardines públicos, aquellas áreas de uso público, declaradas por los gobiernos municipales en los centros de población para obtener o preservar el equilibrio entre los elementos de la naturaleza y el equipamiento urbano e industrial; o para el esparcimiento de la población o para la protección de valores artísticos, históricos y de belleza natural que se (sic) signifiquen en la localidad.
+Son parques urbanos municipales o jardines públicos, aquellas áreas de uso público, declaradas por los gobiernos municipales en los centros de población para obtener o preservar el equilibrio entre los elementos de la naturaleza y el equipamiento urbano e industrial; o para el esparcimiento de la población o para la protección de valores artísticos, históricos y de belleza natural que se signifiquen en la localidad.
 
 ###### Artículo 148.
 
@@ -2134,3 +2136,13 @@ LIC. HUMBERTO ALEJANDRO LUGO GIL
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE BADILLO ORTIZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE JUNIO DE 2004.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Hidalgo, publicada en el Periódico Oficial del Estado de fecha 30 de diciembre de 1998.
+
+TERCERO. En tanto se expidan las disposiciones reglamentarias de esta ley, continuarán aplicándose las que sobre la materia hubiere, en lo que no se oponga a este ordenamiento.
