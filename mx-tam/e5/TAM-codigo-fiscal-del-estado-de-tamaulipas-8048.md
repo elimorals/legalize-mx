@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "1996-12-25"
+last_updated: "1997-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -351,9 +351,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación, correspondiente al día en que se efectuó la transacción.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-Se aceptarán como medios de pago, los cheques certificados o de caja, los giros postales, telegráficos o bancarios y las transferencias de fondos reguladas por el Banco de México; los cheques personales no certificados únicamente se aceptarán en el caso que establece el Reglamento de éste Código.
+Se aceptarán como medios de pago los cheques certificados o de caja, los giros postales, telegráficos o bancarios y las transferencias de fondos reguladas por el Banco de México; los cheques personales no certificados y las tarjetas de crédito y de débito únicamente se aceptarán como medios de pago, en los casos que establece el Reglamento de este Código.
 
 Los pagos que se hagan se aplicarán a los créditos fiscales más antiguos, siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -401,9 +401,9 @@ Las autoridades fiscales están obligadas a devolver las cantidades pagadas inde
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente, lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-Cuando se solicite la devolución de una contribución, está deberá efectuarse dentro del plazo de 50 días siguientes, contado a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. Las autoridades fiscales para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios. En este supuesto, el período transcurrido entre la fecha en que se hubiere notificado el requerimiento de datos, informes o documentos adicionales y la fecha en que estos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo de 50 días antes mencionado. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
+Cuando se solicite la devolución de una contribución, esta deberá efectuarse dentro del plazo de 50 días siguientes, contado a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. Las autoridades fiscales para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de 20 días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que se considere necesarios. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de 20 días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. En estos supuestos el período transcurrido de la fecha en que se hubiere notificado el requerimiento de datos, informes o documentos adicionales y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo de 50 días antes mencionado. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -1029,7 +1029,7 @@ Al valor de los actos o actividades estimados presuntivamente por alguno de los 
 
 ###### ARTICULO 62.
 
-Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
+Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
 
 I.- Se refieren al contribuyente designado por su nombre, denominación o razón social.
 
@@ -1119,7 +1119,7 @@ Las cantidades que resulten en los términos del párrafo anterior, se ajustará
 
 ###### ARTICULO 71.
 
-Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se considera como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
+Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
 
 Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se imponga.
 
@@ -1777,7 +1777,7 @@ III.- Constancia de notificación del acto impugnado, excepto cuando el promoven
 
 IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
 
@@ -1800,6 +1800,20 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 VI.- En el caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 128 de este Código.
 
 VII.- Si son revocados los actos por la autoridad.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 123-A.
+
+Procede el sobreseimiento en los casos siguientes:
+
+I.- Cuando el promovente se desista expresamente de su recurso.
+
+Il.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el Artículo 123 de este Código.
+
+III.- Cuando de las constancias que obran en el expediente administrativo, quede demostrado que no existe el acto o resolución impugnada.
+
+IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 ###### ARTICULO 124.
 
@@ -1893,15 +1907,17 @@ I.- Desecharlo por improcedente, tenerlo o por no interpuesto o sobreseerlo, en 
 
 II.- Confirmar el acto impugnado.
 
-III.- Mandar reponer el procedimiento administrativo.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
+
+III.- Mandar reponer el procedimiento administrativo o que se emita una nueva resolución.
 
 IV.- Dejar sin efectos el acto impugnado.
 
 V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya cuando el recurso interpuesto sea total o parcialmente resuelto.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses contados a partir de la fecha en que se notifique al contribuyente aun cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse dentro del término de cuatro meses contados a partir de la fecha en que dicha resolución se encuentre firme, aun cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
 
 ### CAPITULO III. Del Procedimiento Administrativo de Ejecución
 
@@ -2049,35 +2065,51 @@ Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubi
 
 Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de liquidaciones respectivas.
 
-> <small>(REFORMADO, 30 DE DICIEMBRE DE 1995)</small>
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997) (F. DE E., 18 DE FEBRERO DE 1998)
 
-Las autoridades fiscales podrán, asimismo, practicar embargo precautorio para asegurar cautelarmente, el interés fiscal respecto de contribuciones que a la fecha en que se practique el embargo ya se hubieren causado, en los siguientes términos:
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando:
 
-I.- En caso de contribuciones causadas y exigibles pendientes de determinarse, cuando la autoridad se percate de que existe alguna de las irregularidades a que se refiere el artículo 55 de este Código o bien, cuando a juicio de la autoridad exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En estos casos, la autoridad trabará el embargo sobre bienes o derechos del obligado hasta por un monto equivalente al de la contribución o contribuciones de que se trate declaradas en cualquiera de las últimas cinco declaraciones, actualizadas desde la fecha de la presentación de la declaración de que se trate y hasta la fecha en que se practique el embargo.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-II.- En el caso de contribuciones causadas que a la fecha del embargo precautorio no sean exigibles pero hayan sido determinadas por el contribuyente, cuando a juicio de la autoridad exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En estos casos, la autoridad trabará el embargo sobre bienes o derechos del obligado hasta por un monto equivalente al de la contribución o contribuciones de que se trate declaradas en cualquiera de las últimas cinco declaraciones, actualizadas desde la fecha de la presentación de la declaración de que se trate y hasta la fecha en que se practique el embargo.
+I.- El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio.
 
-III.- En el caso de contribuciones causadas que a la fecha del embargo precautorio no sean exigibles pero hayan sido determinadas por la autoridad en el ejercicio de sus facultades de comprobación, cuando el obligado se hubiere ubicado en alguna de las irregularidades a que se refiere el artículo 55 de este Código o bien, cuando a juicio de la autoridad exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En estos casos, la autoridad trabará el embargo sobre bienes o derechos del obligado hasta por un momento (sic) equivalente al de la contribución o contribuciones determinadas por la autoridad, incluyendo sus accesorios.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-IV.- En el caso de contribuciones causadas pendientes de determinarse y que aún no sean exigibles, cuando la autoridad se percate de que existe alguna de las irregularidades a que se refiere el artículo 55 de este Código o bien, cuando a juicio de la autoridad exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En estos casos, la autoridad trabará el embargo sobre bienes o derechos del obligado hasta por un monto equivalente al de la contribución o contribuciones de que se trate declaradas en cualquiera de las últimas cinco declaraciones, actualizadas desde la fecha de la presentación de la declaración de que se trate y hasta la fecha en que se practique el embargo.
+II.- Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes.
 
-> <small>(ADICIONADO, 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones y fundamentos del embargo y requerirá al obligado, en los casos de las fracciones I, II, IV, para que dentro del término de tres días desvirtué el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme. En estos casos, si el obligado no hubiere presentado declaraciones con anterioridad, o se tengan elementos para presumir que las presentadas consignan ingresos menores a los realmente obtenidos o determinados conforme a las leyes, el monto del embargo precautorio se fijará con base en los elementos con que cuente la autoridad o tenga a su alcance, pudiendo utilizar cualquiera de los procedimientos de determinación presuntiva previstos en este Código.
+III.- El contribuyente se niegue a proporcionar la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, a que está obligado.
 
-> <small>(ADICIONADO, 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo. En ningún caso se podrá practicar embargo precautorio sobre contribuciones no causadas.
+IV.- El crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo precautorio hasta por un monto equivalente al de la contribución o contribuciones determinadas, incluyendo sus accesorios. Si el pago se hiciera dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
 
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 139, se levantará el embargo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
-El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al tiempo de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+
+La autoridad requerirá al obligado, en el caso de la fracción IV de este artículo para que dentro del término de 3 días desvirtúe el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+
+El embargo precautorio quedará sin efectos si la autoridad no emite, dentro del plazo de 1 año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+
+Si el particular garantiza el interés fiscal en los términos del artículo 139 de este código, se levantará el embargo.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
 Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 43, fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
-En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 20 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 144.
 
@@ -2123,7 +2155,7 @@ Los gastos de ejecución y de cobranza se determinarán por la autoridad ejecuto
 
 Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán el pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
 
-Si el contribuyente no cubre lo que se le reclama y sus accesorios legales dentro de los seis días siguientes a que se le haya requerido para ello, se procederá como sigue:
+Si el contribuyente no cubre lo que se le reclama y sus accesorios legales dentro de los seis días siguientes a que se haya requerido para ello, se procederá como sigue:
 
 I.- A embargar bienes suficientes para, en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco.
 
@@ -2594,3 +2626,9 @@ N. DE E., SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS D
 ###### ARTICULO PRIMERO.
 
 El presente decreto entrará en vigor a partir del 1o. de enero de 1997.
+
+P.O. 20 DE DICIEMBRE DE 1997
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del 1º. de enero de 1998.
