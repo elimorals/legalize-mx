@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1981-04-28"
+last_updated: "1982-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1982.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2603,7 +2603,7 @@ La renuncia del usufructo hecha a favor del hijo, produce los efectos de una don
 
 ###### Art. 447.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+Los réditos y rentas de que se hayan vencido antes que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
 
 ###### Art. 448.
 
@@ -6583,7 +6583,7 @@ Es válido el testamento hecho por un demente en un intervalo de lucidez, con ta
 
 ###### Art. 1217.
 
-Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
+Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
 
 ###### Art. 1218.
 
@@ -7259,7 +7259,7 @@ En el caso del artículo anterior, la elección es del que debe pagar el legado,
 
 ###### Art. 1365.
 
-Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor, pero si no las hay sólo podrá exigir una de mediana calidad o el precio que le corresponda.
+Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor, pero si no las hay, sólo podrá exigir una de mediana calidad o el precio que le corresponda.
 
 ###### Art. 1366.
 
@@ -14475,7 +14475,7 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 ###### Art. 2812.
 
-La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de cinco años. La hipoteca garantizará también cualquier suma de intereses que se hubiesen devengado después de la constitución del crédito, siempre que lo consienta el deudor; bastando que su consentimiento se haga constar al registrarse la ampliación del gravamen, la cual sólo producirá sus efectos respecto de tercero desde la fecha del registro.
+La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de cinco años. La hipoteca garantizará también cualquier suma de intereses que se hubiesen devengado después de la constitución del crédito, siempre que lo consienta el deudor; bastando que su consentimiento se haga constar al registrarse la ampliación del gravamen, la cual sólo producirá sus efectos respecto de tercero desde la fecha del registro.
 
 ###### Art. 2813.
 
@@ -15007,7 +15007,13 @@ X.- Las resoluciones judiciales en que se declare un concurso o se admita una ce
 
 XI.- El testimonio de las informaciones ad-perpetuam sobre actos respecto de los cuales sea necesario el registro;
 
-XII.- Los demás títulos que la ley ordene expresamente que sean registrados.
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 1982)</small>
+
+XII.- Los planos directores urbanos de las ciudades;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 1982)</small>
+
+XIII.- Los demás títulos que la Ley ordene expresamente sean registrados.
 
 ###### Art. 2897.
 
@@ -15326,6 +15332,10 @@ P.O. 28 DE ABRIL DE 1981.
 ###### ARTICULO CUARTO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE OCTUBRE DE 1982.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
