@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-sesiones-de-los-consejos-del-instituto-20428"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-16"
-last_updated: "1997-10-16"
+last_updated: "2001-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "YUC"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DEL INSTITUTO ELECTORAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MARZO DE 2001.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 16 de octubre de 1997.
 
@@ -127,6 +127,10 @@ IV. CONVOCATORIA DE LAS SESIONES
 1. Para la celebración de las sesiones ordinarias, el Presidente del Consejo deberá convocar por escrito a cada uno de los integrantes del mismo, por lo menos con setenta horas de anticipación a la fecha que se fije para la celebración de la sesión.
 
 2. Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el inciso anterior deberá realizarse por lo menos con veinticuatro horas de anticipación. Sin embargo, en aquellos casos que el Presidente del Consejo considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso, no será necesaria convocatoria escrita cuando se encuentren presentes en el mismo local de sesiones todos los miembros del Consejo.
+
+> <small>(ADICIONADO, D.O. 26 DE MARZO DE 2001)</small>
+
+3. Se podrá convocar asimismo a sesión y sesionar, aún en el caso de que se encuentre el Consejo respectivo en un receso de una sesión, en la que se haya declarado en sesión permanente, y en la que por su propio carácter no se pueda incluir otro asunto o asuntos distintos para los que fue convocada en términos del Código Electoral del Estado.
 
 ###### ARTICULO 7.
 
@@ -281,3 +285,11 @@ Presidenta
 Lic. Gabriel Zapata Bello
 
 Secretario Técnico
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 26 DE MARZO DE 2001.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONA CON EL ORDENAMIENTO.
+
+CUARTO.- Publíquese el presente acuerdo en el Diario Oficial del Gobierno del Estado.
