@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2000-11-17"
+last_updated: "2000-12-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -131,7 +131,7 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Tres tribunales unitarios: dos con sede en la ciudad de Toluca y uno con residencia en Ciudad Nezahualcóyotl.
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 52/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 52/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2000)</small>
 
 3.- Trece juzgados de distrito: tres especializados en materia de procesos penales federales y dos especializados en materias de amparo y de juicios civiles federales, todos con residencia en la ciudad de Toluca; cinco juzgados de distrito con sede en Naucalpan de Juárez, uno con residencia en Tlalnepantla y dos con sede en Ciudad Nezahualcóyotl.
 
@@ -157,9 +157,13 @@ IV.- CUARTO CIRCUITO:
 
 V.- QUINTO CIRCUITO:
 
-1.- Tres tribunales colegiados y tres tribunales unitarios, con residencia en la ciudad de Hermosillo.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 80/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE DICIEMBRE DE 2000)</small>
 
-2.- Ocho juzgados de distrito: tres con sede en la ciudad de Hermosillo, tres con residencia en la ciudad de Nogales y dos con sede en Ciudad Obregón.
+1.- Tres Tribunales Colegiados y cuatro Tribunales Unitarios, con residencia en la ciudad de Hermosillo.
+
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 82/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE DICIEMBRE DE 2000)</small>
+
+2.- Diez Juzgados de Distrito: cuatro con sede en la ciudad de Hermosillo, cuatro con residencia en la ciudad de Nogales y dos con sede en Ciudad Obregón.
 
 VI.- SEXTO CIRCUITO:
 
@@ -303,13 +307,13 @@ XVIII.- DECIMO OCTAVO CIRCUITO:
 
 XIX.- DECIMO NOVENO CIRCUITO:
 
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 38/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
+
+1.- Tres tribunales colegiados con residencia en Ciudad Victoria.
+
 > <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL NUMERO 65/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE SEPTIEMBRE DE 2000)</small>
 
 1.- Cuatro tribunales colegiados, con residencia en Ciudad Victoria.
-
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 37/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
-
-2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en la ciudad de Matamoros, uno con sede en Ciudad Reynosa y uno con residencia en la ciudad de Nuevo Laredo.
 
 > <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 40/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2000)</small>
 
@@ -509,9 +513,13 @@ Los Juzgados Primero, Segundo, Tercero, Cuarto, Quinto, Sexto y Séptimo de Dist
 
 V.- QUINTO CIRCUITO:
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Sonora, con residencia en la ciudad de Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aconchi, Arivechi, Bacadéhuachi, Bacanora, Banámichi, Baviácora, Carbó, Cumpas, Divisaderos, Empalme, Guaymas, Granados, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 82/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE DICIEMBRE DE 2000)</small>
 
-Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sonora, con residencia en la ciudad de Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Agua Prieta, Altar, Arizpe, Atil, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Caborca, Cananea, Cucurpe, Fronteras, General Plutarco Elías Calles, Huachinera, Imuris, Magdalena, Naco, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
+Los Juzgados Primero, Segundo, Tercero y Décimo de Distrito en el Estado de Sonora, con residencia en la ciudad de Hermosillo, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Aconchi, Arivechi, Bacadéhuachi, Bacanora, Banámichi, Baviácora, Carbó, Cumpas, Divisaderos, Empalme, Guaymas, Granados, Hermosillo, Huásabas, Huépac, La Colorada, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 81/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE DICIEMBRE DE 2000)</small>
+
+Los Juzgados Cuarto, Quinto, Sexto y Noveno de Distrito en el Estado de Sonora, con residencia en Nogales, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Agua Prieta, Altar, Arizpe, Atil, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Caborca, Cananea, Cucurpe, Fronteras, General Plutarco Elías Calles, Huachinera, Imuris, Magdalena, Naco, Nogales, Oquitoa, Puerto Peñasco, Santa Ana, Santa Cruz, Sáric, Trincheras y Tubutama.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 31/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE AGOSTO DE 1998)</small>
 
@@ -1204,6 +1212,30 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 D.O.F. 17 DE NOVIEMBRE DE 2000.
 
 ACUERDO GENERAL NUMERO 78/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 80/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 81/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE DICIEMBRE DE 2000.
+
+ACUERDO GENERAL NUMERO 82/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
