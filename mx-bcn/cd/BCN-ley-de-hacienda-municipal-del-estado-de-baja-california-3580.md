@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1995-01-13"
+last_updated: "1997-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1997.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -635,7 +635,9 @@ d).- El valor de avalúo que practique la autoridad Fiscal Municipal.
 
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
-V.- La tasa inicial del Impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos que la Ley de Catastro del Estado clasifica como no edificados o baldíos con servicio de agua, electricidad y drenaje, entre tanto conserven esa calidad, se enajenen o establezca en ellos alguna industria o comercio, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1997)</small>
+
+V.- La tasa inicial del Impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos, suburbanos y rústicos que en los Reglamentos del Catastro Inmobiliario de los Municipios del Estado se clasifiquen como predios no edificados o baldíos y se encuentren comprendidos en éstos, los predios que teniendo construcciones se encuentren en estado de abandono, presentando condiciones de inseguridad y de improductividad, siempre y cuando cuenten con servicios de agua, electricidad y drenaje; entre tanto conserven esa calidad, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
 
 Los efectos de esta Fracción no serán aplicables:
 
@@ -2212,3 +2214,7 @@ P.O. 13 DE ENERO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 2 DE MAYO DE 1997.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
