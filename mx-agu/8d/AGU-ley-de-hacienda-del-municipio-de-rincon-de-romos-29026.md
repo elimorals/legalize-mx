@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-rincon-de-romos-29026"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1991-08-11"
+last_updated: "1994-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE RINCON DE ROMOS, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1994.
 
 Ley publicada en la Sección Décima Segunda del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -261,7 +261,7 @@ XI.- La división de la copropiedad y la disolución de la sociedad conyugal, po
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>N. DE E. EL PRESENTE ARTICULO NO SE MENCIONA EN EL DECRETO NUMERO 115, PUBLICADO EN EL P.O. DE FECHA 11 DE AGOSTO DE 1991; POR TAL MOTIVO, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+> <small>N. DE E. EL PRESENTE ARTICULO NO SE MENCIONA EN EL DECRETO NUMERO 115, PUBLICADO EN EL PERIODICO OFICIAL DE FECHA 11 DE AGOSTO DE 1991, POR LO TANTO SE DEJA A CONSIDERACON DEL USUARIO.</small>
 
 ARTICULO 22 BIS.- En la transmisión de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante dentro de los sesenta días naturales siguientes al otorgamiento del contrato, no se cobrará el impuesto.
 
@@ -274,6 +274,20 @@ De los Sujetos
 ###### ARTICULO 23.
 
 Están obligados al pago de este impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo (sic) y las construcciones adheridas a él, ubicados en el Municipio, por cualesquiera de las figuras enumeradas en el Artículo 22 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
+Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble en los siguientes casos:
+
+I.- De cinco veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año cuando el inmueble esté construido;
+
+II.- De dos y medio veces el salario mínimo general vigente en el Estado de Aguascalientes elevado al año, cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+III.- De quince veces el salario mínimo general vigente en el Estado de Aguascalientes, elevado al año, cuando se trate de un inmueble popular de uso habitacional.
+
+Para los efectos de esta Ley se entiende por inmueble de tipo popular, aquél que se ubica en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea superior a ciento veinte metros cuadrados y la construcción no sea mayor de sesenta metros cuadrados;
+
+IV.- De cinco veces el salario mínimo general vigente en el Municipio de Rincón de Romos, Ags., elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1991)</small>
 
@@ -427,9 +441,19 @@ En todo caso, al margen de la matriz y en los testimonios deberá asentarse la c
 
 #### SECCION NOVENA. De las Exenciones
 
+> <small>N. DE E. EL PRESENTE ARTICULO HABIA SIDO DEROGADO MEDIANTE DECRETO NUMERO 115, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 1991, SIN EMBARGO, POR DECRETO NUMERO 124, PUBLICADO EN EL P.O. DE 6 DE NOVIEMBRE DE 1994, ES ADICIONADO; MOTIVO POR EL CUAL, SE DEJA A CONSIDERACION DEL USUARIO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 40.
 
-(DEROGADO, P.O. 11 DE AGOSTO DE 1991)
+Se exceptúa del pago del pago de este impuesto:
+
+I.- (DEROGADA, P.O. 11 DE AGOSTO DE 1991)
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
+II.- Las asociaciones constituidas conforme a la Ley de Asociaciones Religiosas y Culto Público siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
 
 ### CAPITULO III. Del Impuesto sobre Incremento de Valor y Mejoría Específica de la Propiedad
 
@@ -808,3 +832,7 @@ Lic. Joaquín Cruz Ramírez.
 P.O. 11 DE AGOSTO DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 6 DE NOVIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
