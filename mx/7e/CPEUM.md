@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-12-23"
+last_updated: "2000-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2000 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 2000.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -84,6 +86,8 @@ VII. Las universidades y las demás instituciones de educación superior a las q
 
 VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ABRIL DE 2000 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
 
 ###### Art. 4o.
@@ -110,9 +114,17 @@ Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bie
 
 Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
-> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2000)</small>
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
+Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2000)</small>
+
+Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 2000)</small>
+
+El Estado otorgará facilidades a los particulares para que se coadyuven al cumplimiento de los derechos de la niñez.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -4801,3 +4813,7 @@ Antes del inicio del ejercicio fiscal de 2002, las legislaturas de los estados, 
 ###### ARTICULO SEXTO.
 
 En la realización de las acciones conducentes al cumplimiento del presente decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+D.O.F. 7 DE ABRIL DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
