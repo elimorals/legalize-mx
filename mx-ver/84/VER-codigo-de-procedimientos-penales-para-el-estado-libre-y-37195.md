@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2003-11-07"
+last_updated: "2004-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2004.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -876,6 +876,10 @@ Iniciada la investigación ministerial, ésta tenderá a probar el cuerpo del de
 El Ministerio Público tomará o solicitará inmediatamente las medidas precautorias que estime procedentes, en relación con las personas o con los bienes relacionados con la investigación.
 
 A través de los elementos de convicción que obren en la investigación ministerial, se determinará, en su caso, la procedencia del ejercicio de la acción penal.
+
+> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 2004)</small>
+
+En el caso del secuestro previsto en la fracción I del artículo 163 del Código Penal para el Estado, el Ministerio Público podrá, inmediatamente que tenga conocimiento de su comisión, solicitar la autorización judicial para el aseguramiento de los bienes de la víctima, mientras ésta permanezca privada de su libertad. De concederse la autorización, el juez lo comunicará a las oficinas del Registro Público de la Propiedad e instituciones y empresas bancarias y de seguros, para que no permitan movimientos en las cuentas y registros sin su autorización, ordenando las medidas provisionales necesarias para su conservación, resguardo o liberación.
 
 ###### Artículo 133.
 
@@ -2978,3 +2982,11 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 11 DE FEBRERO DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
