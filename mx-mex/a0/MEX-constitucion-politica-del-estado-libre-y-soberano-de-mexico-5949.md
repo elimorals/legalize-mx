@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2001-05-16"
+last_updated: "2001-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JUNIO DE 2001.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -208,6 +208,10 @@ Las autoridades promoverán el bienestar de estos grupos mediante las acciones n
 Las autoridades ejecutarán programas para conservar, proteger y mejorar los recursos naturales del Estado y evitar su deterioro y extinción, así como para prevenir y combatir la contaminación ambiental.
 
 La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales y a la propagación de la flora y de la fauna existentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DEL 2001)</small>
+
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
 
@@ -2406,3 +2410,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO TERCERO.
 
 En tanto se expiden o adecuan las leyes secundarias correspondientes, se estará a lo dispuesto en los artículos tercero y cuarto transitorios del decreto expedido por el Congreso General de los Estados Unidos Mexicanos que declara reformado y adicionado el artículo 115 constitucional, publicado en Diario Oficial de la Federación el 23 de diciembre de 1999 y esta Constitución.
+
+P.O. 11 DE JUNIO DEL 2001
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
