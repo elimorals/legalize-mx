@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "1996-12-25"
+last_updated: "2002-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -157,13 +157,19 @@ XII.- Inscribir en el Registro Estatal de Deuda Pública, las obligaciones finan
 
 XIII.- Solicitar y obtener créditos directos a corto plazo cuyos montos no se considerarán de Deuda Pública y se contraten bajo las condiciones siguientes:
 
-a).- Que el saldo total acumulado de estos créditos no exceda de la doceava parte del Presupuesto Anual de Egresos del Ejercicio Fiscal en el que se soliciten.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
 
-b).- Que el plazo de pago no sea mayor de noventa días.
+a).- Que el saldo total acumulado de estos créditos no exceda del 5% del Presupuesto de Egresos del ejercicio fiscal anual en que se soliciten.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+
+b).- Que el plazo de pago no exceda de un año.
 
 c).- Que no requiera de garantías específicas.
 
-d).- Que su pago se realicen dentro del propio ejercicio.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
+
+d).- Que su pago se realice dentro del término del plazo pactado. En el último año del periodo constitucional del Ejecutivo, los pagos se realizarán a más tardar en el mes de diciembre.
 
 XIV.- Concertar, formalizar y aplicar créditos cuando estén contenidos en el programa de financiamiento estatal, salvo las excepciones previstas por esta ley.
 
@@ -314,3 +320,9 @@ P.O. 25 DE DICIEMBRE DE 1996
 ###### ARTICULO PRIMERO.
 
 El presente decreto entrará en vigor a partir del 1°. de enero de 1997.
+
+P.O. 2 DE OCTUBRE DE 2002
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
