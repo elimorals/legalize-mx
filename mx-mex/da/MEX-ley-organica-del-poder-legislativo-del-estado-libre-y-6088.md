@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2000-09-12"
+last_updated: "2002-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE SEPTIEMBRE DEL 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DEL 2002.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -163,7 +163,9 @@ Los diputados no podrán invocar o hacer uso de su condición de legisladores pa
 
 Compete a la Legislatura o a la Diputación Permanente, conocer de las excusas, incapacidades, licencias temporales o absolutas que presenten los diputados electos o en funciones, para desempeñar el cargo.
 
-El Presidente de la Legislatura turnará el escrito respectivo a la Comisión de Asuntos Constitucionales para su estudio y dictamen; en los recesos, el Presidente de la Diputación Permanente lo turnará a una comisión creada para tal efecto.
+> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+
+El Presidente de la Legislatura turnará el escrito respectivo a la Comisión de Asuntos Constitucionales para su estudio y dictamen; en los recesos el Presidente de la Diputación Permanente procederá de manera similar o a una comisión creada para tal efecto.
 
 ###### Artículo 25.
 
@@ -455,6 +457,10 @@ XV. Las demás que se deriven de las disposiciones legales o acuerdos de la Asam
 
 La Diputación Permanente funcionará durante los recesos de la Legislatura, representándola en los términos previstos por la Constitución, la ley y otras disposiciones legales.
 
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+
+Durante los recesos las Comisiones de Dictamen y Comités funcionarán cuando el Presidente de la Diputación Permanente les turne para su estudio una iniciativa o asunto.
+
 ###### Artículo 52.
 
 La Diputación Permanente se integrará por un presidente, un vicepresidente, un secretario y seis miembros más. Para cubrir la falta de los titulares se elegirán cinco suplentes.
@@ -495,9 +501,11 @@ VIII. Las demás que le confieran la Constitución, la ley y otros ordenamientos
 
 Cuando la Legislatura se encuentre en período extraordinario, la Diputación Permanente seguirá conociendo y despachando los asuntos de su competencia, si éstos no fueron incluidos en la convocatoria respectiva.
 
+> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+
 ###### Artículo 57.
 
-Las iniciativas recibidas en los períodos de receso de la Legislatura, serán turnadas por el presidente a las comisiones de la Diputación Permanente, para su estudio y dictamen.
+Las iniciativas recibidas en los periodos de receso de la Legislatura, serán turnadas por el Presidente de la Diputación Permanente a las Comisiones de la Diputación Permanente o a las Comisiones o Comités de la Legislatura para su dictamen u opinión.
 
 ###### Artículo 58.
 
@@ -687,9 +695,11 @@ Las comisiones de dictamen se integrarán cuando menos por siete diputados. Para
 
 Los diputados podrán ser miembros de hasta cuatro comisiones y comités, pudiendo integrarse a otros como asociados; en este último caso, tendrán voz pero no voto. Preferentemente los diputados presidirán una sola comisión de dictamen.
 
+> <small>(REFORMADO, G.G. 11 DE DICIEMBRE DEL 2002)</small>
+
 ###### Artículo 72.
 
-Las comisiones de dictamen tendrán como funciones estudiar y analizar los proyectos de ley o decreto y los asuntos que les sean turnados con el objeto de elaborar los dictámenes o informes, debiendo dar cuenta de ellos al Presidente de la Legislatura en los plazos establecidos por la ley y el reglamento.
+Las Comisiones de Dictamen tendrán como funciones estudiar y analizar los proyectos de ley o decreto y los asuntos que les sean turnados con el objeto de elaborar los dictámenes o informes, debiendo dar cuenta de ellos al Presidente de la Legislatura o de la Diputación Permanente en los plazos establecidos por la ley y el reglamento.
 
 ###### Artículo 73.
 
@@ -1022,3 +1032,9 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 11 DE DICIEMBRE DEL 2002.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
