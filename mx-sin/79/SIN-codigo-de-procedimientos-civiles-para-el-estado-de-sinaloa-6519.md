@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1981-08-12"
+last_updated: "1982-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1982.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -3951,9 +3951,11 @@ Si compareciere después del término expresado o durante la segunda instancia, 
 
 El impedimento deberá acreditarse en incidente que se tramitará por cuerda separada y contra la resolución que en éste se pronuncie no procederá más recurso que el de responsabilidad.
 
-### CAPITULO III.
+### CAPÍTULO III.
 
-De la Modificación de las Actas del Estado Civil.
+Juicio especial de modificación de actas del Estado Civil y del Registro Extemporaneo.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 ###### Artículo 635.
 
@@ -4101,33 +4103,51 @@ La apelación sólo será admisible conforme a las reglas del derecho común.
 
 El juez deberá compeler a los árbitros a cumplir con sus obligaciones.
 
+> <small>(REFORMADA SU DENOMINACION, P.O., 4 DE ENERO DE 1982)</small>
+
 ### CAPITULO IV.
 
 Divorcio por Mutuo Consentimiento.
 
 ###### Artículo 663.
 
-Los juicios sobre nulificación, convalidación, reposición o rectificación de las actas del Registro Civil, se tramitarán conforme a las reglas de los ordinarios y a las especiales siguientes.
+El juez competente para conocer de los juicios sobre nulificación, convalidación, reposición, rectificación de actas del Registro Civil y del Registro Extemporáneo, el de Primera Instancia de la comprensión en que pasó o debió haber pasado el acta, y se terminarán conforme las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 ###### Artículo 664.
 
-En estos juicios serán oídos el Oficial del Registro Civil donde pasó el acto cuya modificación se reclama y el Ministerio Público, así como los demás interesados que se presenten a oponerse.
+En el escrito de demanda de modificación de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil por el término de cinco días para que produzca su contestación.
+
+Se publicará un extracto de la demanda por tres veces, de tres en tres días, en el Periódico Oficial del Estado y en el Diario de mayor circulación, a juicio del juez, llamando a los interesados a oponerse, quienes tendrán derecho a intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 ###### Artículo 665.
 
-El emplazamiento se hará a todos los interesados cuyo domicilio fuere conocido y se publicará además un extracto de la demanda por tres veces, de tres en tres días, en el Periódico Oficial del Estado y en el diario de mayor circulación, a juicio del juez, llamado a los interesados a oponerse, quienes tendrán derecho de intervenir en el negocio, cualquiera que sea el estado del mismo, mientras no exista sentencia ejecutoria.
+Si transcurrido el término señalado en el artículo anterior, el oficial del Registro Civil no hubiere contestado la demanda se le tendrá por contestada en sentido afirmativo.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 ###### Artículo 666.
 
-La sentencia ejecutoria hará plena fé contra todos aunque no hayan litigado; pero si alguno probare que estuvo absolutamente impedido para salir al juicio, se le admitirá a probar contra ella; mas se tendrá como buena la sentencia anterior y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria.
+Una vez contestada la demanda o dada por contestada en los términos prevenidos, se citará a las partes para el desahogo de pruebas y alegatos debiendo señalarse la audiencia en un plazo no mayor de diez días a partir del en que se tenga por contestada la demanda.
+
+Concluído el desahogo de las pruebas, se presentarán los alegatos en la misma audiencia y previa citación de oficio, se pronunciará sentencia definitiva dentro del término de seis días.
+
+La sentencia será apelable en ambos efectos, y en el caso del juicio la rectificación de acta, la revisión se hará de oficio.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 ###### Artículo 667.
 
-Es juez competente para conocer de estos juicios, el de Primera Instancia de la comprensión en que pasó el acta.
+En los juicios de rectificación de acta se enviará al Oficial del Registro Civil y al Archivo Estatal del Registro Civil copia certificada de la sentencia ejecutoriada para que efectúe anotación de la misma en el acta ya sea que se conceda o niegue la rectificación.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
 
 ###### Artículo 668.
 
-Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, el Juez cumplirá lo dispuesto en el artículo 138 del Código Civil.
+En los juicios en que se conceda la inscripción de un registro extemporáneo, se enviará copia certificada de la sentencia ejecutoriada al Oficial del Registro Civil para que levante el acta respectiva.
 
 ### CAPITULO I.
 
@@ -6552,3 +6572,9 @@ P.O. 12 DE AGOSTO DE 1981.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 4 DE ENERO DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
