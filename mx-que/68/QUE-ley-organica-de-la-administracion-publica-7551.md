@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-administracion-publica-7551"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-26"
-last_updated: "1996-11-28"
+last_updated: "1999-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1991.
 
@@ -135,7 +135,11 @@ Las Dependencias del Ejecutivo están obligadas a coordinar entre sí sus activi
 
 Los Titulares de las Dependencias a que se refiere esta Ley podrán delegar en sus Subalternos cualesquiera de sus facultades, salvo aquellas que la Constitución, las Leyes y Reglamentos disponga que deban ser ejercidas directamente por ellos.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 16.
+
+Como titular de cada dependencia habrá un Secretario, salvo el caso de la Oficialía Mayor cuyo titular se denomina Oficial Mayor, quienes para el despacho de los asuntos de su competencia se auxiliarán por los subsecretarios, directores, subdirectores, jefes de departamento y por los demás servidores públicos que se establezcan en el Reglamento Interior respectivo y otras disposiciones legales.
 
 Para la eficaz atención y eficiente despacho de los asuntos de su competencia, las Dependencias del Ejecutivo podrán contar con órganos administrativos Desconcentrados que les estarán jerárquicamente subordinados y el Ejecutivo tendrá facultades específicas para resolver la materia o dentro del ámbito territorial que se determine en cada caso.
 
@@ -165,11 +169,15 @@ II. Secretaría de Planeación y Finanzas;
 
 III. Secretaría de la Contraloría;
 
-IV.- Secretaría de Desarrollo Económico
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
+IV. Secretaría de Desarrollo Sustentable;
 
 V. Secretaría de Desarrollo Agropecuario;
 
-VI.- Secretaría de Desarrollo Urbano, Obras Públicas y Ecología;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
+VI. Secretaría de Desarrollo Urbano y Obras Públicas;
 
 VII. Secretaría de Educación;
 
@@ -389,9 +397,11 @@ XVII. Presentar denuncias o querellas ante la Procuraduría General de Justicia 
 
 XVIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 24.
 
-La Secretaría de Desarrollo Urbano, Obras Públicas y Ecología es el órgano encargado de ordenar, los asentamientos humanos, regular el desarrollo urbano, proyectar y ejecutar las obras públicas del estado y aplicar las normas en materia de preservación y restauración del equilibrio ecológico y protección al ambiente, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Urbano y Obras Públicas es el órgano encargado de ordenar los asentamientos humanos, regular el desarrollo urbano, proyectar y ejecutar las obras públicas del Estado y le corresponde el despacho de los siguientes asuntos:
 
 I. Promover y vigilar el equilibrado desarrollo de las diversas comunidades y centro de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
 
@@ -407,17 +417,21 @@ VI. Proyectar, ejecutar, mantener y operar, en su caso directamente o por adjudi
 
 VII. Prestar asesoría y trabajar en forma coordinada con los Ayuntamientos de la Entidad; con las Dependencias y Entidades del Ejecutivo Federal, en la realización de obras públicas y demás actividades relacionadas con los asentamientos humanos;
 
-VIII.- Formular y operar en coordinación con la comisión Estatal de Aguas y de Agua Potable y Alcantarillado, planes y programas específicos, para el abastecimiento y tratamiento de aguas y servicios de drenaje y alcantarillado.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
+VIII. Participar de manera coordinada con la Secretaría de Desarrollo Sustentable y la Comisión Estatal de Aguas, en la formulación y operación de programas, proyectos y acciones específicas para el abastecimiento y tratamiento de aguas, y la prestación de los servicios de agua potable, drenaje, alcantarillado, y pluvial;
 
 IX. Supervisar los proyectos o trabajos de conservación de las obras públicas del Estado;
 
-X.- Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, y
+X. (DEROGADA, P.O. 9 DE ABRIL DE 1999)
 
 XI. Y (sic) las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 25.
 
-La Secretaría de Desarrollo Económico es el órgano facultado para regular, promover y fomentar el desarrollo industrial, comercial minero, agroindustrial, artesanal y de servicios turísticos del estado y le corresponde al despacho de los siguientes asuntos;
+La Secretaría de Desarrollo Sustentable es el órgano facultado para regular, promover y fomentar el desarrollo industrial, comercial, minero, agroindustrial y artesanal del Estado, así como aplicar las normas en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente, y le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer al Gobernador las políticas y programas relativos al fomento de las actividades industriales, agroindustriales, mineras, artesanales, turísticas, de abasto y comerciales;
 
@@ -441,9 +455,19 @@ X. Promover la realización de ferias, exposiciones y congresos industriales y c
 
 XI. Formular y promover el establecimiento de medidas para el fomento y protección del abasto en la Entidad;
 
-XII. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, agroindustrial, artesanal, turística, de abasto y comercial contengan los convenios firmados en forma interna y con la administración Pública Federal, y
+XII. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, agroindustrial, artesanal, turística, de abasto y comercial contengan los convenios firmados en forma interna y con la administración Pública Federal, y (sic)
 
-XIII.- Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
+XIII. Proponer y coadyuvar en la operación, dirección y formulación de manera coordinada con la Secretaría de Desarrollo Urbano y Obras Públicas y la Comisión Estatal de Aguas, de los programas, proyectos y acciones específicas para el abastecimiento, tratamiento de aguas, prestación de los servicios de agua potable, drenaje, alcantarillado y pluvial;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1999)</small>
+
+XIV. Vigilar el cumplimiento y aplicación de las normas en materia de preservación y restauración del equilibrio ecológico y la protección al medio ambiente para el desarrollo sustentable; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 1999)</small>
+
+XV. Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 26.
 
@@ -799,7 +823,7 @@ PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el 
 
 SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Querétaro del 11 de octubre de 1985, publicada en el Periódico Oficial del 17 de Octubre de 1985 y se derogan todas las demás disposiciones que se opongan a esta Ley.
 
-TERCERO.- Cuando al tenor de esta Ley, alguna unidad administrativa se transfiera entre una a otra Dependencia del Ejecutivo, incluirá al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y en el equipo que haya venido usando.
+TERCERO.- Cuando al tenor de esta Ley, alguna unidad administrativa se transfiera entre una y otra Dependencia del Ejecutivo, incluirá al personal a su servicio, sin perjuicio de sus derechos adquiridos, así como el mobiliario, los vehículos, maquinaria, aparatos, instrumentos, archivos y en el equipo que haya venido usando.
 
 CUARTO.- Los asuntos que con motivo de esta Ley deban pasar el conocimiento de una u otra Dependencia del Ejecutivo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
@@ -866,3 +890,13 @@ El Ejecutivo del Estado emitirá el reglamento interior de la Secretaría de Sal
 ###### ARTICULO CUARTO.
 
 Todos los ordenamientos jurídicos que hagan referencia a la Coordinación de Salud en el Estado o a la Dirección de Salud en el Estado, se entenderán referidos tanto al Organismo Público Descentralizado o la Secretaría de Salud en el ámbito de su competencia, respectivamente.
+
+P.O. 9 DE ABRIL DE 1999
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Todos los ordenamientos jurídicos que hagan referencia a las atribuciones de la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología en materia de preservación y restauración del equilibrio ecológico y la protección del ambiente se entenderán referidos a la Secretaría de Desarrollo Sustentable.
