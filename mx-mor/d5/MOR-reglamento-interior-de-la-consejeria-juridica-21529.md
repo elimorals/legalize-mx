@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-consejeria-juridica-21529"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-14"
-last_updated: "2003-04-09"
+last_updated: "2004-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2004.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 14 de marzo de 2001.
 
@@ -225,7 +225,9 @@ XI.- Proponer la compensación o transacción de derechos y obligaciones cuando 
 
 XII.- Formular y proponer al Titular de la Dependencia los proyectos de convenio conforme a los cuales se concluyan los juicios en los que el Gobierno del Estado sea parte o tenga interés jurídico;
 
-XIII. Representar al Gobierno del Estado en todos los juicios seguidos ante el Tribunal de lo Contencioso Administrativo del Estado de Morelos o cualquier otro Tribunal administrativo, en los que sea parte o tenga interés jurídico;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2004)</small>
+
+XIII. Representar al Gobierno del Estado en todos los juicios seguidos ante el Tribunal de lo Contencioso Administrativo del Estado de Morelos o cualquier otro tribunal administrativo, en los que sea parte o tenga interés jurídico, excepto en los promovidos por elementos policiales o agentes del Ministerio Público;
 
 XIV.- Suplir las ausencias del Consejero Jurídico en su caso, previo acuerdo de éste;
 
@@ -309,15 +311,27 @@ IX.- Proponer las reformas que estime procedentes a la legislación laboral vige
 
 X. Colaborar con el Consejero Jurídico en la coordinación de acciones tendientes a la prevención de conflictos laborales en las distintas dependencias y entidades de la Administración Pública Estatal;
 
-XI. Formular los informes previos y justificados así como las promociones y recursos que deban interponerse en los juicios de amparo promovidos en contra del Gobernador del Estado, del Titular de la Consejería y de los titulares de las demás dependencias;
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2004)</small>
 
-XII. Colaborar en la preparación de informes, recursos y contestación de requerimientos formulados por las autoridades judiciales en los juicios de amparo en que señalen como responsable a los Ayuntamientos Municipales siempre que éstos así que lo soliciten;
+XI. Representar legalmente al Gobierno del Estado en los juicios administrativos promovidos por elementos policiales o agentes del Ministerio Público;
 
-XIII. Prestar asesoría a los Poderes Judicial y Legislativo en materia de amparo si así lo solicitan;
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2004)</small>
 
-XIV. Firmar, en ausencia del Gobernador y de los titulares de las dependencias del Poder Ejecutivo, los informes previos y justificados que deban rendir cuando sean señalados como autoridad responsable en los juicios de amparo, las promociones o requerimientos e interponer los recursos que procedan conforme a la Ley de Amparo, y;
+XII. Representar legalmente a las autoridades demandadas en los juicios administrativos a que se refiere la fracción anterior, salvo que el acto impugnado se origine de un procedimiento administrativo seguido ante las propias autoridades;
 
-XV. Las demás que determinen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2004)</small>
+
+XIII. Emitir opinión en los juicios administrativos si es solicitada por las autoridades demandadas;
+
+XIV. Formular los informes previos y justificados así como las promociones y recursos que deban interponerse en los juicios de amparo promovidos en contra del Gobernador del Estado, del Titular de la Consejería y de los titulares de las demás dependencias;
+
+XV. Colaborar en la preparación de informes, recursos y contestación de requerimientos formulados por las autoridades judiciales en los juicios de amparo en que señalen como responsable a los Ayuntamientos Municipales siempre que éstos así que lo soliciten;
+
+XVI. Prestar asesoría a los Poderes Judicial y Legislativo en materia de amparo si así lo solicitan;
+
+XVII. Firmar, en ausencia del Gobernador y de los titulares de las dependencias del Poder Ejecutivo, los informes previos y justificados que deban rendir cuando sean señalados como autoridad responsable en los juicios de amparo, las promociones o requerimientos e interponer los recursos que procedan conforme a la Ley de Amparo, y;
+
+XVIII. Las demás que determinen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -462,3 +476,9 @@ P.O. 9 DE ABRIL DE 2003.
 PRIMERO. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido de este decreto.
+
+P.O. 21 DE JULIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO. Quedan derogadas todas las disposiciones reglamentarias contrarias al presente instrumento jurídico.
