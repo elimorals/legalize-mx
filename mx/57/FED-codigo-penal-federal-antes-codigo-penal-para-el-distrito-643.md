@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1974-12-31"
+last_updated: "1975-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2083,7 +2083,7 @@ IV (SIC).- Tratar en el ejercicio de su cargo con ofensa, desprecio o deshonesti
 
 ### CAPITULO II. Abuso de confianza
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 226.
 
@@ -3241,15 +3241,15 @@ II.- El aprovechamiento de energía eléctrica o de cualquier otro flúido, ejec
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aun cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 370.
 
-Cuando el valor de lo robado no exceda de quinientos pesos se impondrán hasta dos años de prisión y multa hasta de quinientos pesos.
+Cuando el valor de lo robado no exceda de dos mil pesos, se impondrán hasta dos años de prisión y multa hasta de dos mil pesos.
 
-Cuando exceda de quinientos pero no de dos mil pesos, la sanción será de dos a cuatro años de prisión y de quinientos a dos mil pesos de multa.
+Cuando exceda de dos mil, pero no de ocho mil pesos, la sanción será de dos a cuatro años de prisión y de dos mil a ocho mil pesos la multa.
 
-Cuando exceda de dos mil pesos la sanción será de cuatro a diez años de prisión y de dos mil a diez mil pesos de multa.
+Cuando exceda de ocho mil pesos, la sanción será de cuatro a diez años de prisión y de ocho mil a cuarenta mil pesos de multa.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -3279,9 +3279,11 @@ I.- Cuando ésta se haga a una persona distinta de la robada, que se halle en co
 
 II.- Cuando el ladrón la ejercite después de consumado el robo, para proporcionarse la fuga o defender lo robado.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 375.
 
-Cuando el valor de lo robado no pase de veinticinco pesos, sea restituído por el ladrón espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de violencia.
+Cuando el valor de lo robado no pase de cien pesos, sea restituido por el infractor espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
 
 ###### ARTICULO 376.
 
@@ -3333,11 +3335,11 @@ ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artícu
 
 ###### ARTICULO 382.
 
-Al que con perjuicio de alguien disponga para sí o para otro de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de un año y multa hasta de quinientos pesos, cuando el monto del abuso no exceda de quinientos pesos.
+Al que con perjuicio de alguien disponga para sí o para otro de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de un año y multa hasta de dos mil pesos, cuando el monto del abuso no exceda de dos mil pesos.
 
-Si excede de esa cantidad pero no de veinte mil pesos, la prisión será de uno a seis años y la multa de quinientos a cinco mil pesos.
+Si excede de esa cantidad, pero no de ochenta mil pesos, la prisión será de uno a seis años y la multa de dos mil a veinte mil pesos.
 
-Si el monto es mayor de veinte mil pesos, la prisión será de seis a doce años y la multa de cinco mil a diez mil pesos.
+Si el monto es mayor de ochenta mil pesos la prisión será de seis a doce años y la multa de veinte mil a cuarenta mil pesos.
 
 ###### ARTICULO 383.
 
@@ -3369,11 +3371,17 @@ Comete el delito de fraude el que engañando a uno o aprovechándose del error e
 
 El delito de fraude se castigará con las penas siguientes:
 
-I.- Con prisión de tres días a seis meses y multa de cinco a cincuenta pesos, cuando el valor de lo defraudado no exceda de esta última cantidad.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
-II.- Con prisión de seis meses a tres años y multa de cincuenta a quinientos pesos, cuando el valor de lo defraudado excediere de cincuenta pesos, pero no de tres mil; y
+I. Con prisión de tres días a seis meses y multa de veinte a doscientos pesos, cuando el valor de lo defraudado no exceda de esta última cantidad;
 
-III.- Con prisión de tres a doce años y multa hasta de diez mil pesos, si el valor de lo defraudado fuere mayor de tres mil pesos.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+II. Con prisión de seis meses a tres años y multa de doscientos a dos mil pesos, cuando el valor de lo defraudado excediere de doscientos pesos, pero no de doce mil; y
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+
+III. Con prisión de tres a doce años y multa hasta de cuarenta mil pesos, si el valor de lo defraudado fuere mayor de doce mil pesos.
 
 > <small>(F. DE E., D.O.F. 16 DE JULIO DE 1946)</small>
 
@@ -3451,19 +3459,15 @@ Es aplicable a lo dispuesto en esta fracción, lo determinado en los párrafos s
 
 Las Instituciones y Organismos Auxiliares de Crédito, las de Fianzas y las de Seguros, así como los Organismos Oficiales y Descentralizados autorizados legalmente para operar con inmuebles, quedan exceptuados de la obligación de constituir el depósito a que se refiere la fracción XIX.
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
 ###### ARTICULO 388.
 
-Cuando el valor de lo defraudado, conforme a los artículos anteriores de este capítulo, no exceda de cincuenta pesos, se castigará el delito con multa de cinco a cincuenta pesos y prisión de tres días a seis meses.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1975)
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 389.
 
-Se equipara al delito de fraude y se sancionará con prisión de 6 meses a 6 años y multa de cien a mil pesos, al valerse del cargo que se ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo en tales organismos.
-
-Si el beneficio se logra como consecuencia de una promesa falsa, se duplicarán las sanciones.
+Se equipara al delito de fraude y se sancionará con prisión de seis meses a seis años y multa de cuatrocientos a cuatro mil pesos, el valerse del cargo que se ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo en tales organismos.
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1972)</small>
 
@@ -3842,3 +3846,9 @@ Los hechos ejecutados durante la vigencia de las disposiciones del Código Penal
 ###### ARTICULO CUARTO.
 
 Por lo que hace al Código Federal de Procedimientos Penales, todos los asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
+
+D.O.F. 30 DE DICIEMBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
