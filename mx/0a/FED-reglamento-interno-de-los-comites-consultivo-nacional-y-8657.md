@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-los-comites-consultivo-nacional-y-8657"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-12"
-last_updated: "1996-09-12"
+last_updated: "2003-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-07-29"
 
 REGLAMENTO INTERNO DE LOS COMITES CONSULTIVO NACIONAL Y GUBERNAMENTAL DEL ACUERDO DE COOPERACION LABORAL DE AMERICA DEL NORTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 12 de septiembre de 1996.
 
@@ -49,29 +49,39 @@ Para los efectos de este Reglamento los términos siguientes significarán:
 
 ### CAPITULO SEGUNDO. DEL COMITE CONSULTIVO NACIONAL
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 3.
 
-Se establece un Comité Consultivo Nacional, a fin de proporcionar asesoría al titular de la Secretaría sobre la aplicación y ulterior desarrollo del Acuerdo.
+Conforme a lo dispuesto en el Acuerdo, el titular de la Secretaría podrá convocar un Comité Consultivo Nacional, a fin de recibir asesoría sobre la aplicación y ulterior desarrollo del Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 4.
 
-El Comité se integrará por ocho miembros designados por las organizaciones de los sectores laboral, empresarial, académico y social en general, a las que previamente formule invitación el titular de la Secretaría.
+El Comité se integrará por ocho miembros de organizaciones de los sectores laboral, empresarial, académico o social en general, a quienes previamente formule invitación el titular de la Secretaría.
 
 ### CAPITULO TERCERO. DEL COMITE GUBERNAMENTAL
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 5.
 
-Se establece un Comité Gubernamental, con la finalidad de proporcionar asesoría al titular de la Secretaría sobre la aplicación y ulterior desarrollo del Acuerdo.
+Conforme a lo dispuesto en el Acuerdo, el titular de la Secretaría podrá convocar un Comité Gubernamental, con la finalidad de recibir asesoría sobre la aplicación y ulterior desarrollo del Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 6.
 
-El Comité Gubernamental estará integrado por ocho servidores públicos de los gobiernos federal, estatales y municipales, designados por los titulares de las dependencias federales, gobernadores de los estados y presidentes municipales, a quienes previamente formule invitación el titular de la Secretaría. En la integración del Comité, se tomará en cuenta el papel desempeñado por las entidades federativas y municipios, en el intercambio económico con las otras partes en el Acuerdo.
+El Comité Gubernamental estará integrado por ocho servidores públicos de los gobiernos federales, estatales o municipales, a quienes previamente formule invitación el titular de la Secretaría. En la integración del Comité, se tomará en cuenta el papel desempeñado por las entidades federativas y municipios, en el intercambio económico con las otras partes en el Acuerdo.
 
 ### CAPITULO CUARTO. REGLAS COMUNES PARA AMBOS COMITES
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 7.
 
-Los miembros de los Comités ejercerán sus funciones por un periodo de tres años, pudiendo ser designados por un periodo más de igual duración.
+Los miembros de los Comités ejercerán sus funciones por un periodo de tres años. En caso de que alguno de los miembros de los Comités no pueda continuar desempeñándose como tal será sustituido conforme a lo dispuesto en el artículo 4 del presente Reglamento.
 
 ###### ARTICULO 8.
 
@@ -81,29 +91,27 @@ Los Comités sesionarán ordinariamente una vez al año; sin embargo, el titular
 
 La participación en los Comités a que se refiere este Acuerdo, será honorífica.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 10.
-
-Los integrantes de los Comités elegirán libremente de entre ellos a sus respectivos Presidentes, quienes durarán en su encargo un año, pudiendo ser reelectos por un periodo consecutivo más de igual duración.
-
-###### ARTICULO 11.
-
-Los Presidentes de los Comités tendrán las siguientes obligaciones:
-
-a) Convocar a las reuniones ordinarias y extraordinarias del Comité respectivo, a petición del titular de la Secretaría.
-
-b) Incluir en las órdenes del día de las reuniones del Comité respectivo, los asuntos que les indique el titular de la Secretaría, y
-
-c) Autorizar las actas de las reuniones del Comité correspondiente y, en su caso, turnar al titular de la Secretaría las resoluciones y acuerdos que se adopten.
-
-###### ARTICULO 12.
 
 Los Comités contarán con un Secretario Técnico, con voz pero sin voto en las sesiones, que será el Secretario de la OAN, quien tendrá las siguientes funciones:
 
-a) Preparar las convocatorias y las órdenes del día de los Comités y turnarlas para firma del Presidente respectivo;
+a) Preparar las convocatorias y convocar a las reuniones ordinarias y extraordinarias del Comité respectivo, a petición del titular de la Secretaría;
 
-b) Levantar las actas de las sesiones de los Comités, y
+b) Preparar las órdenes del día de las reuniones del Comité respectivo, incorporando en las mismas los asuntos que indique el titular de la Secretaría;
 
-c) Preparar la documentación que se requiera para el análisis de los asuntos que deberán conocer los Comités.
+c) Preparar la documentación que se requiera para el análisis de los asuntos que deberán conocer los Comités; y
+
+d) Levantar las actas de las reuniones del Comité correspondiente y, en su caso, turnar al titular de la Secretaría las resoluciones y acuerdos que se adopten.
+
+###### ARTICULO 11.
+
+(DEROGADO, D.O.F. 10 DE NOVIEMBRE DE 2003)
+
+###### ARTICULO 12.
+
+(DEROGADO, D.O.F. 10 DE NOVIEMBRE DE 2003)
 
 ###### ARTICULO 13.
 
@@ -114,3 +122,9 @@ El apoyo administrativo para el funcionamiento de los Comités, será responsabi
 UNICO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y seis.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE NOVIEMBRE DE 2003
+
+UNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
