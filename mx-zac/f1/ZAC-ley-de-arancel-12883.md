@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-arancel-12883"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-01"
-last_updated: "1996-09-14"
+last_updated: "1997-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ARANCEL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 1 de marzo de 1989.
 
@@ -73,25 +73,27 @@ III. Por cada consulta por escrito, según la importancia del asunto las dificul
 
 IV. Por su intervención en las audiencias, junta o cualquier otra diligencia judicial o administrativa, o ante cualquier funcionario o autoridad, se cobrarán por cada hora o fracción desde cuatro a siete cuotas de salario mínimo, cantidad que podrá aumentarse dada la cuantía e importancia del negocio, a juicio del Juez o Tribunal.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 5.
 
-En los negocios judiciales cuyo monto no exceda de doscientas cuotas de salario mínimo, por todos sus trabajos, desde los preliminares hasta que se dicte sentencia definitiva o convenio, se cobrará el 15% de la condena establecida en la sentencia definitiva o convenio celebrado.
+En los negocios judiciales cuyo monto no exceda de quinientas cuotas de salario mínimo general, por todos los trabajos desde los preliminares hasta que se dicte sentencia definitiva o convenio, se cobrará el 17% de la condena establecida en la sentencia definitiva o en el convenio.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 6.
 
-En los negocios judiciales cuyo interés pase de doscientas cuotas, pero no de setecientas cincuenta, se cobrará el 12 % del valor fijado en la sentencia definitiva o convenio.
+En los negocios judiciales cuyo interés pase de quinientas cuotas, pero no de setecientas cincuenta, se cobrará el 15 % del valor fijado en la sentencia definitiva o convenio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 7.
 
-En los negocios judiciales cuyo interés pase de setecientas cincuenta, pero no de mil doscientas cincuenta cuotas de salario mínimo se cobrará:
+En los negocios judiciales cuyo interés pase de setecientas cincuenta cuotas, pero no de mil doscientas cincuenta cuotas de salario mínimo se cobrará:
 
-I. Por estudio del negocio y escrito de demanda o contestación el 5% del importe de la suerte principal.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I. Por estudio del negocio y escrito de demanda o contestación el 12.5% del valor fijado en la sentencia definitiva o convenio.
 
 II. Por estudio y contestación de escritos o promociones presentadas por la contraria, por foja, una cuota.
 
@@ -121,15 +123,15 @@ XIV. Por escrito donde se expresen agravios o contestación a los mismos en apel
 
 XV. Por las demás gestiones no especificadas ni cotizadas en este arancel que se hicieren, por cada una de ellas tres cuotas.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 8.
 
-Si el valor del negocio excede de mil doscientas cincuenta cuotas pero no de dos mil cuotas, se cobrará:
+Cuando el valor del negocio exceda de mil doscientas cincuenta cuotas, se cobrará:
 
-I. Por estudio del negocio y escrito de demanda o contestación, el 3% del importe de la suerte principal. Además se tendrá derecho a cobrar lo estipulado en las fracciones de la II a la XV del artículo anterior.
+I. Si el valor en la sentencia definitiva o convenio no excede de tres mil cuotas, el 10% por el estudio del negocio y escrito de demanda o contestación. Además, se tendrá derecho a cobrar el doble de lo estipulado en las fracciones de la II a la XV del artículo anterior.
 
-II. Si la suerte principal del negocio excede de dos mil cuotas de salario mínimo se cobrará el 2% del importe de la suerte principal por el estudio del negocio y escrito de demanda o contestación, más lo previsto en las fracciones de la II a la VII del artículo anterior.
+II. Si el valor fijado en la sentencia definitiva o convenio excede de tres mil cuotas se cobrará el 8% sobre ese monto por el estudio del negocio y escrito de demanda o contestación, más el doble de lo previsto en las fracciones de la II a la VII del artículo anterior.
 
 ###### ARTICULO 9.
 
@@ -145,7 +147,7 @@ II. Por cada dictamen individual sobre examen y reconocimiento de créditos, dos
 
 III. Por estado general de créditos, una cuota.
 
-IV. Por el dictamen o proyecto de graduación, diez cuotas.
+IV. Por el dictamen o proyecto de gradación, diez cuotas.
 
 V. Por intervención en juicios no acumulados, que sobre admisión, graduación y preferencia o simulación de créditos y en cualquier otro que corresponda, lo establecido en los artículos 5º, 6º, 7º y 8º de este arancel.
 
@@ -155,19 +157,15 @@ Los honorarios que se causen serán pagados de la masa de quiebra, liquidación 
 
 Los interventores cobrarán sean o no abogados, de acuerdo con los preceptos aplicables de los artículos 5º , 6º, 7º y 8º de este arancel.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 11.
 
 Cuando se trate de títulos de crédito el abogado cobrará:
 
-I. Si el cobro del título de crédito se logró sin la intervención judicial, el 0.5% de la suerte principal; o
+I. Si el cobro del título de crédito se logró sin la intervención judicial, el 1 % de la suerte principal;
 
-II. Si el pago del documento se hace después de presentada la demanda o practicado el embargo, además de lo previsto en las fracciones de la II a la XV del artículo 7, se cobrará sobre la suerte principal:
-
-a) Hasta 3,000 cuotas el 3%;
-
-b) Si excede de 3,000 cuotas, el 0.5 %.
+II. Si el pago del documento se hace después de practicado el embargo, además de lo previsto en las fracciones de la II a la XV del artículo 7, se cobrará el 5 % sobre la suerte principal o el valor fijado en la sentencia definitiva o convenio.
 
 ###### ARTICULO 12.
 
@@ -275,7 +273,7 @@ Por la redacción de cualquier minuta o convenio que por voluntad de las partes 
 
 ###### ARTICULO 35.
 
-En las transacciones cobrarán los abogados del 5% al 10% sobre el importe de las mismas, sin perjuicio de los honorarios que por sus servicios hubieren devengado. Si el interesado celebrase por sí solo la transacción, en el curso de un juicio, y sin intervención de su abogado, se abonará a éste la totalidad de sus honorarios; cuando el negocio no fuere apreciado en dinero, se cobrará lo que se estime a juicio de peritos atendiendo la importancia del asunto, ventajas obtenidas y trabajos emprendidos para llevar a término la transacción.
+En las transacciones cobrarán los abogados del 5% al 10% sobre el importe de las mismas, sin perjuicio de los honorarios que por sus servicios hubieren devengando. Si el interesado celebrase por sí solo la transacción, en el curso de un juicio, y sin intervención de su abogado, se abonará a éste la totalidad de sus honorarios; cuando el negocio no fuere apreciado en dinero, se cobrará lo que se estime a juicio de peritos atendiendo la importancia del asunto, ventajas obtenidas y trabajos emprendidos para llevar a término la transacción.
 
 ###### ARTICULO 36.
 
@@ -283,27 +281,29 @@ Cuando el abogado saliere del lugar de su residencia, además de los honorarios 
 
 ### CAPITULO CUARTO. PERITOS
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 37.
 
-Los peritos valuadores cobrarán, si son titulados:
+Los peritos valuadores cobrarán:
 
-I. Por el avalúo de bienes muebles o inmuebles de conformidad con la siguiente tabla:
+I. Si son titulados, por el avalúo de bienes muebles o inmuebles de conformidad con la siguiente tabla:
 
-a) Si el valor del bien es de hasta 50 cuotas, el 4% del valor asignado;
+a) Si el valor del bien es hasta 50 cuotas, el 4% del valor asignado;
 
-b) Si el valor del bien excede de 50 cuotas, pero no de 100 cuotas, cobrará el 2 % del valor asignado;
+b) Si el valor del bien excede de 50 cuotas, pero no de 100 cuotas, cobrará el 2.5% del valor asignado;
 
-c) Cuando el valor del bien exceda de 100 cuotas pero fuere menor de 1,500 cuotas, el perito cobrará el 1.5% del valor pericial.
+c) Cuando el valor del bien exceda de 100 cuotas pero fuere menor de 1,000 cuotas, el perito cobrará el 2% del valor pericial.
 
-d) Si el valor del bien excede de 1,500 cuotas, el perito cobrará el 1% del valor asignado.
+d) Si el valor del bien excede de 1,000 cuotas pero no de 3,000 cuotas, el perito cobrará el 1% del valor asignado.
+
+e) Si el valor del bien excede las 3,000 cuotas, el perito cobrará el 0.75% del valor del bien.
+
+Cuando los peritos, por razón de su encargo, deban salir del lugar de su residencia se les abonará el importe de los gastos que se causen con ese motivo.
 
 II. En donde no hubiere peritos titulados y sea nombrados prácticos en la materia, se les abonará el 50% de los honorarios señalados en la fracción que antecede.
 
-Cuando por razón de su encargo, los peritos deban salir del lugar de su residencia, deberá abonárseles el importe de los gastos que se causen con ese motivo y además cobrarán un 50% de las tarifas señalas en los artículos precedentes.
-
-III. Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos, litigios o cualquiera otra acción o derecho, podrán cobrar las cuotas establecidas en la fracción I de este artículo.
+III. Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos, litigios o cualquiera otra acción o derecho, podrán cobrar de conformidad a las cuotas establecidas en la fracción I de este artículo.
 
 ###### ARTICULO 38.
 
@@ -404,3 +404,7 @@ P.O. 14 DE SEPTIEMBRE DE 1996
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.}
 
 SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
+
+P.O. 15 DE FEBRERO DE 1997
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
