@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2001-03-13"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -275,15 +275,19 @@ XIV. Contraloría del Estado, y
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-XV. Procuraduría de Desarrollo Urbano.
+XV. Procuraduría de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVI. Secretaría del Trabajo y Previsión Social; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 1998)</small>
 
-XVI. Procuraduría General de Justicia.
+XVII. Procuraduría General de Justicia.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-La Procuraduría General de Justicia, la Universidad de Guadalajara y La Procuraduría de Desarrollo Urbano se regirán por sus respectivas leyes.
+La Procuraduría General de Justicia, la Universidad de Guadalajara y la Procuraduría de Desarrollo Urbano se regirán por sus respectivas leyes.
 
 ###### Art. 24.
 
@@ -297,11 +301,11 @@ En el Reglamento Interior de cada una de las Secretarías y Dependencias a que s
 
 En casos extraordinarios, o cuando exista duda sobre la competencia de alguna dependencia gubernamental para conocer de un asunto determinado, el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, resolverá a qué secretaría o dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 27.
 
-Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia, de tres Subsecretarios, encargados, respectivamente , de los asuntos del Gobierno Interior; de Asuntos Jurídicos y de la Promoción y Encauzamiento de la Participación Social. Asimismo, contará para el auxilio en el despacho de los asuntos de su competencia, con un Director General de Trabajo y Previsión Social y un Oficial Mayor.
+Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de dos subsecretarios, encargados respectivamente, de los asuntos del Gobierno Interno y de los Asuntos Jurídicos. Asimismo, contará para el auxilio en el despacho de los asuntos de su competencia, con un Director General de Gobierno y un Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -399,7 +403,7 @@ XXVIII. Asesorar al Ejecutivo en asuntos agrarios;
 
 XXIX. El control de la Dirección del Registro Civil del Estado y del Archivo General del Registro Civil;
 
-XXX. Atender los asuntos del trabajo y la previsión social;
+XXX. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
@@ -1173,6 +1177,42 @@ IX. Las demás que le fijen las Leyes y Reglamentos vigentes.
 
 (DEROGADO, P.O. 4 DE ENERO DE 1994)
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### Art. 41 Bis.
+
+La Secretaría del Trabajo y Previsión Social, es la dependencia encargada de la atención de los asuntos del trabajo y la previsión social. Corresponde a ésta el despacho conforme a lo establecido en la Ley Federal del Trabajo, los siguientes asuntos:
+
+I. Vigilar la observación y aplicación, en el ámbito de su competencia, de las disposiciones contenidas en el artículo 123 y demás relativos de la Constitución Federal, en la Ley Federal del Trabajo y en sus reglamentos;
+
+II. Procurar el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales aplicables;
+
+III. Promover el incremento de la productividad en el estado;
+
+IV. Promover la capacitación y el adiestramiento para un mejor desarrollo del trabajo en el Estado;
+
+V. En el ámbito de su competencia, realizar investigaciones tendientes a verificar el eficaz cumplimiento de las obligaciones patronales en materia de capacitación y adiestramiento del trabajo;
+
+VI. Prestar servicios de asesoría e impartir cursos de capacitación para incrementar la productividad en el sector productivo estatal en coordinación con la Secretaría de Educación del Estado;
+
+VII. Coordinar el Servicio Estatal de Empleo, así como las bolsas de trabajo de índole público y vigilar su funcionamiento en el Estado;
+
+VIII. Realizar las funciones de inspección de jurisdicción estatal y vigilar el cumplimiento de las normas laborales en todos los rubros;
+
+IX. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo del Estado, para la protección de los trabajadores;
+
+X. Coordinarse con el Instituto de Formación para el Trabajo del Estado, para que los trabajadores del Estado de Jalisco adquieran una mejor preparación para el desempeño de sus labores;
+
+XI. Dirigir y coordinar la Procuraduría de la Defensa del Trabajo en la Entidad;
+
+XII. Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero patronales que sean de jurisdicción estatal, así como vigilar su funcionamiento conforme a lo establecido en la Ley Federal del Trabajo;
+
+XIII. Promover las actividades culturales y la recreación entre los trabajadores y sus familias;
+
+XIV. Promover entre los empleadores la no discriminación por razón de edad, a la hora de ofertar empleos, salvo por requerimiento de la idoneidad del puesto que se ofrece; y
+
+XV. Las demás que le señalen las leyes y reglamentos vigentes.
+
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 42.
@@ -1656,3 +1696,21 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Quien actualmente funja como Procurador de Desarrollo Urbano del Estado de Jalisco deberá cumplir su encargo por los seis años, iniciando este término a partir del día en que tomó protesta ante la soberanía de este Poder Legislativo.
 
 CUARTO.- Las reformas y adiciones de los ordenamientos señalados en los artículos primero y segundo de este decreto entrarán en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 25 DE DICIEMBRE DE 2001.
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2002, previa su publicación en el "Periódico Oficial del Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- Para la debida integración y estructura de la Secretaría del Trabajo y Previsión Social, las Secretarías de Finanzas y Administración, así como las demás dependencias que resulten involucradas, deberán prestar el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y los programas y presupuestos vigentes.
+
+Cuarto.- En el proceso de creación e instalación de la Secretaría del Trabajo y Previsión Social, se preservará íntegramente los derechos laborales de los servidores públicos que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Quinto.- Se autoriza a las Secretarías General de Gobierno, de Finanzas y de Administración para que determinen los recursos que tengan asignados a la Dirección General de Trabajo y Previsión Social, y que pasen a formar parte de la Secretaría del Trabajo y Previsión Social realizando para tal efecto los trámites que corresponda (sic) para transferirlos.
+
+Sexto.- Los asuntos que corresponda (sic) y que se estén tramitando en el (sic) Dirección General de Trabajo y previsión Social a la fecha de entrada en vigor del presente Decreto, y que se acuerde en los términos del artículo octavo transitorio, serán asumidos por la Secretaría del Trabajo y Previsión Social, la cual se subroga respecto de los mismos, todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría General de Gobierno por conducto de la referida Dirección General.
+
+Séptimo.- Aquellas funciones que legalmente le han sido atribuidas a la Dirección General de Trabajo y Previsión Social, a partir de la entrada en vigor del presente Decreto, serán competencia de la Secretaría del Trabajo y Previsión Social, previo acuerdo con la Secretaría General de Gobierno.
+
+Octavo.- El Ejecutivo del Estado expedirá el Reglamento Interno de la Secretaría del Trabajo y Previsión Social en un plazo no mayor de noventa días.
