@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-08-21"
+last_updated: "2001-09-03"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -275,7 +275,9 @@ XIX.- DECIMONOVENO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
-3.- Once juzgados de distrito en el Estado de Tamaulipas: dos con sede en Ciudad Victoria, tres con residencia en Nuevo Laredo, dos con sede en Matamoros, dos con residencia en Reynosa y dos con sede en Tampico.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 52/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE SEPTIEMBRE DE 2001)</small>
+
+3.- Doce juzgados de distrito en el Estado de Tamaulipas: dos con residencia en Ciudad Victoria; tres con sede en Nuevo Laredo; dos con residencia en Matamoros; tres con sede en Reynosa; y dos con residencia en Tampico.
 
 XX.- VIGESIMO CIRCUITO:
 
@@ -678,6 +680,12 @@ SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
 D.O.F. 21 DE AGOSTO DE 2001.
 
 ACUERDO 49/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XIII.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 3 DE SEPTIEMBRE DE 2001.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
