@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1966-02-15"
+last_updated: "1968-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1968.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -299,27 +299,29 @@ XXIII. Formar su Reglamento Interior y dictar las disposiciones necesarias para 
 
 Durante el receso del Congreso habrá una Diputación Permanente compuesta de 5 miembros de aquel Cuerpo, como propietarios y tres como suplentes, electos en la forma y término que señala el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1968)</small>
+
 ###### Art. 25.
 
 Son atribuciones de la Diputación Permanente:
 
-I. Conceder las licencias y permisos a que se refiere la fracción 12 del artículo 23.
+I. Conceder las licencias y permisos a que se refiere la Fracción XII del Artículo 23;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+II. Resolver sobre las modificaciones a los Presupuestos Municipales que propongan los Ayuntamientos;
 
-II. Dictaminar sobre las modificaciones a los Presupuestos Municipales que propongan los Ayuntamientos.
+III. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
 
-III. Abrir dictamen sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso.
+IV. Convocar al Congreso a Sesiones Extraordinarias en el caso de acusación por delitos oficiales o de orden común cometidos por funcionarios que gocen de fuero; en el caso de tener que ejercer aquel Cuerpo sus funciones de Colegio Electoral para la designación del Gobernador o Magistrados; y en el de tener que convocar a Elecciones Extraordinarias;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1932)</small>
+V. Llamar a los Suplentes de la misma Diputación para suplir las faltas absolutas o temporales de los Propietarios;
 
-IV. Convocar al Congreso a Sesiones Extraordinarias en el caso de acusación por delitos oficiales o del orden común cometidos por Funcionarios que gocen de fuero; en el caso de tener que ejercer aquel cuerpo sus funciones de Colegio Electoral para la designación del Gobernador o Magistrados, en el de tener que convocar a elecciones extraordinarias, y en el caso a que se refiere la fracción II de este Artículo.
+VI. Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el sólo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso o a éste;
 
-V. Llamar a los suplentes de la misma Diputación para suplir las faltas absolutas o temporales de los propietarios.
+VII. Instalar las Juntas Preparatorias del nuevo Congreso;
 
-VI. Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el sólo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso o a éste.
+VIII. Autorizar a los Ayuntamientos a remover con causa justificada, a sus Tesoreros Municipales cuando dichas Corporaciones lo soliciten; y
 
-VII. Preparar las Juntas Preparatorias del nuevo Congreso.
+IX. Nombrar los empleados de la Secretaría del Congreso o de la Contaduría Mayor de Hacienda, cuyos nombramientos serán considerados en el siguiente período de sesiones del Congreso, para su ratificación o rectificación, en los términos del Reglamento respectivo.
 
 ###### Art. 26.
 
@@ -776,3 +778,7 @@ UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódi
 P.O. 15 DE FEBRERO DE 1966.
 
 UNICO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE ABRIL DE 1968.
+
+UNICO.- Esta Ley que forma parte del texto de la Constitución Política del Estado de Jalisco, entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
