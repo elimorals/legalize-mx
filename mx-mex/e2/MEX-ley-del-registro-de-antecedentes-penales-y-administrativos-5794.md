@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-registro-de-antecedentes-penales-y-administrativos-5794
 country: "mx"
 rank: "ley"
 publication_date: "1994-09-19"
-last_updated: "1994-09-19"
+last_updated: "1997-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL REGISTRO DE ANTECEDENTES PENALES Y ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JUNIO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno, el 19 de septiembre de 1994.
 
@@ -165,17 +165,21 @@ V. Al sentenciado se le conceda el beneficio de la amnistía, del indulto o de l
 
 ### CAPITULO SEXTO. De las Certificaciones
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1997)</small>
+
 ###### Artículo 22.
 
-Las certificaciones de antecedentes penales solicitadas por autoridad judicial competente se expedirán conteniendo los datos que obren en el registro.
+Las certificaciones de antecedentes penales y las de antecedentes administrativos a que se refiere la fracción I del artículo sexto de esta ley, sólo se expedirán a las autoridades judiciales competentes y las mismas contendrán los datos que aparezcan en el registro.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1997)</small>
 
 ###### Artículo 23.
 
-Las certificaciones de antecedentes penales solicitadas por el registro para el desempeño de un cargo público, contendrán los datos que aparezcan en el registro y les serán expedidas previa identificación y pago de los derechos respectivos.
+Las certificaciones de antecedentes penales solicitadas por el registrado para el desempeño de un cargo público o para los fines que dispongan otras leyes, contendrán los datos que obren en el registro y les serán expedidas previa identificación y pago de los derechos respectivos.
 
 ###### Artículo 24.
 
-Las certificaciones solicitadas por el registrado serán expedidas, previa identificación y pago de los derechos correspondientes.
+(DEROGADO, P.O. 23 DE JUNIO DE 1997)
 
 ###### Artículo 25.
 
@@ -183,7 +187,7 @@ La Dirección de Servicios Periciales deberá expedir las certificaciones de ant
 
 ###### Artículo 26.
 
-Las certificaciones de antecedentes administrativos a que se refiere la fracción I del artículo 6 de esta Ley y de antecedentes penales, para efectos de reincidencia y habitualidad, se expedirán sólo a solicitud de autoridad judicial competente.
+(DEROGADO, P.O. 23 DE JUNIO DE 1997)
 
 ###### Artículo 27.
 
@@ -238,3 +242,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. CESAR CAMACHO QUIROZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
