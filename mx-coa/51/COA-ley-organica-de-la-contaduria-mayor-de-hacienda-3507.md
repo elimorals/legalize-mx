@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-contaduria-mayor-de-hacienda-3507"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-11-14"
-last_updated: "1998-06-30"
+last_updated: "2005-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de noviembre de 1989.
 
@@ -81,6 +81,26 @@ VII.- Solicitar a la Diputación Permanente que convoque a sesiones extraordinar
 
 VIII.- Recibir, de la Gran Comisión, la propuesta de la designación del Contador Mayor de Hacienda, para su evaluación, dictamen y posterior presentación al Pleno del Congreso del Estado.
 
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+IX.- Prorrogar hasta por 15 días el término para la presentación del informe previo cuando así lo solicite y lo justifique la Contaduría Mayor de Hacienda;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+X.- Requerir el cumplimiento del término establecido en la ley a las entidades que no hayan presentado en tiempo la Cuenta Pública para que la presenten;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XI.- Determinar el padrón de las entidades que deberán presentar Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XII.- Prorrogar el término para la presentación de las cuentas públicas cuando así lo soliciten y lo justifiquen las entidades sujetas de fiscalización, a criterio de la Comisión; y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XIII.- Devolver la cuenta pública a las entidades cuando no sea presentada en los términos que establece la ley, en cuyo caso la cuenta pública se tendrá por no presentada.
+
 ###### ARTICULO 5°.
 
 Para efectos de esta ley, se entiende por:
@@ -119,9 +139,21 @@ VI.- Servidores Públicos: Los que se mencionan como tales en la Constitución P
 
 VII.- Informe técnico: Son los documentos que contienen el resultado de las actuaciones que realiza la Contaduría Mayor de Hacienda, en el ámbito de las facultades que le confiere la presente Ley;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
 
-VIII.- Informe previo: Es el documento final que presenta el Contador Mayor de Hacienda a la Comisión Legislativa de la Contaduría Mayor de Hacienda, en el cual se expresan los resultados de la fiscalización de las entidades públicas objeto de esta Ley, para que el mismo documento sea el sustento técnico y jurídico de la resolución correspondiente a considerar por el Pleno del Congreso del Estado.
+VIII.- Informe previo: Es el documento que presenta la Contaduría Mayor de Hacienda a la Comisión de la Contaduría Mayor de Hacienda del Congreso del Estado, en el cual se establecen los resultados de la fiscalización efectuada a las entidades sujetas de esta ley, y el que constituye el sustento técnico y jurídico del dictamen correspondiente que se somete a consideración del Pleno del Congreso del Estado.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+IX.- Información reservada: Es la relativa al proceso de fiscalización de las cuentas públicas.
+
+El proceso de fiscalización comprenderá desde el inicio de auditoría hasta el Informe previo.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+X.- Dictamen de la Comisión de la Contaduría Mayor de Hacienda: Es el documento que contiene el resultado de auditoría, que la Comisión presenta al Pleno del Congreso del Estado para su revisión, discusión y, en su caso, aprobación de las cuentas públicas trimestrales.
+
+El dictamen tendrá carácter público una vez que sea aprobado por el Pleno del Congreso del Estado, mientras ello no suceda, la Comisión de la Contaduría Mayor de Hacienda deberá guardar reserva de su información.
 
 ###### ARTICULO 6°.
 
@@ -189,9 +221,9 @@ I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y residente 
 
 II.- Haber cumplido 30 años de edad para el día de su designación;
 
-(REFORMADA, P.O. 30 DE JUNIO DE 1998) (F. DE E., P.O. 10 DE JULIO DE 1998)
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
 
-III.- Poseer por lo menos el grado académico de licenciatura dentro del área contable o financiera y haber ejercido la profesión por 5 años o más;
+III.- Poseer por lo menos el grado académico de licenciatura dentro del área contable, jurídica o financiera y haber ejercido la profesión por 5 años o más;
 
 IV.- No desempeñar ningún otro empleo, cargo o comisión, excepción hecha de los cargos honoríficos y docentes; y
 
@@ -223,9 +255,9 @@ I.- Representar a la Contaduría Mayor de Hacienda ante toda clase de autoridade
 
 II.- Planear, organizar, dirigir y controlar la organización interna del trabajo de la dependencia;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
 
-III.- Presentar a la Gran Comisión del Congreso del Estado, las propuestas para que se expidan los nombramientos de los cargos siguientes: Sub-Contador Mayor de Hacienda, Director Jurídico y Directores de Area.
+III.- Designar y remover al personal adscrito a la Contaduría Mayor de Hacienda;
 
 Designar y remover al resto del personal adscrito a la Contaduría Mayor de Hacienda;
 
@@ -235,9 +267,9 @@ IV.- Fijar las normas técnicas y los procedimientos a que deban sujetarse las v
 
 V.- Rendir en el mes de diciembre a la Comisión de la Contaduría Mayor de Hacienda, un informe anual y por escrito, de las actividades desarrolladas por la dependencia durante el ejercicio fiscal anterior, con la expresión que guardan las glosas de las cuentas;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
 
-VI.- Fijar los plazos prudentes que no excederán de treinta días para que los tesoreros municipales remitan sus cuentas y contestaciones de glosa. El Gobernador del Estado, por conducto de la Secretaría de Finanzas deberá remitir el estado mensual de la cuenta de ingresos y egresos dentro de los noventa días siguientes del mes de que se trate;
+VI.- La Contaduría Mayor de Hacienda, durante el desarrollo de las revisiones o auditorías que practique a las entidades, podrá hacer del conocimiento observaciones para que, antes de que se emita el Informe Técnico, las entidades realicen la solventación correspondiente;
 
 VII.- Requerir de las oficinas correspondientes, la información contable y financiera que sea necesaria para cumplir con los objetivos de la Contaduría Mayor de Hacienda;
 
@@ -247,7 +279,7 @@ VIII.- Firmar los finiquitos de las cuentas públicas aprobadas y expedir a la e
 
 IX.- Designar por sí, o a petición de la Comisión de la Contaduría Mayor de Hacienda, a los visitadores o auditores que deban practicar visitas de inspección, arqueo de fondos y auditorías, en las entidades a que se refiere la fracción III del Artículo 5o. de esta ley; y
 
-X.- Proponer a la Gran Comisión el nombramiento y remoción del personal adscrito a la dependencia;
+X.- (DEROGADA, P.O. 14 DE ENERO DE 2005)
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
 
@@ -268,6 +300,22 @@ XIV.- Dar crédito a los dictámenes de contadores públicos y auditores externo
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1998)</small>
 
 XV.- Llevar un registro de todos los despachos de contadores públicos y auditores externos que presten sus servicios a las entidades públicas.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XVI.- Requerir, en su caso, a terceros que hubieren contratado bienes o servicios con las entidades, la información relacionada con la documentación justificativa y comprobatoria de la Cuenta Pública de las entidades, a efecto de realizar las compulsas correspondientes;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XVII.- Otorgar a funcionarios de la Contaduría Mayor de Hacienda poderes generales y especiales para pelitos (sic) y cobranzas, para presentar denuncias y/o querellas y actos de administración con todas las facultades, aún las que requieran poder especial conforme a la Ley, además para sustituir sus facultades de actos de administración y pleitos y cobranzas, para desistirse de amparos, denuncias y/o querellas, así como para otorgar y suscribir títulos de créditos. El poder podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas y judiciales;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XVIII.- Crear las unidades internas de la dependencia que se estimen necesarias para el cumplimiento de sus objetivos; y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+XIX.- Clasificar, por conducto del servidor público responsable, la información que deba tener el carácter de reservada, de conformidad con la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 14.
 
@@ -323,11 +371,25 @@ c).- La comprobación de si las entidades se ajustaron a los criterios señalado
 
 d).- El análisis de los subsidios, las transferencias, los apoyos para operación e inversión, las erogaciones adicionales y otras erogaciones o conceptos similares;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
 
-III.- Presentar el informe previo, dentro de los cuarenta y cinco días siguientes a su recepción, sobre el resultado de la revisión de las cuentas públicas estatales y municipales, a la Comisión de la Contaduría Mayor de Hacienda y, por su conducto, al Pleno del Congreso del Estado;
+III.- Presentar el informe previo, dentro de los sesenta días siguientes a su recepción, a la Comisión de la Contaduría Mayor de Hacienda, el cual contendrá los resultados de la revisión a las cuentas públicas estatales y municipales, a efecto de que la Comisión de la Contaduría Mayor de Hacienda emita el dictamen correspondiente y lo presente al Pleno del Congreso del Estado, el cual podrá contener la aprobación o, en su caso, la no aprobación de las cuentas publicas de las entidades fiscalizadas.
 
-IV.- Fiscalizar los subsidios concedidos por el Gobierno Estatal o Municipal, a los organismos paraestatales o paramunicipales; a las instituciones o a las personas físicas o morales, cualquiera que sean los fines de su destino, así como verificar su aplicación al objeto autorizado;
+De aprobarse por el Pleno del Congreso del Estado las cuentas publicas de las entidades fiscalizadas, se procederá conforme a lo establecido en el artículo 22 segundo párrafo de la presente ley.
+
+En caso de que el Pleno del Congreso del Estado no apruebe alguna cuenta pública, instruirá, por conducto de la Comisión de la Contaduría Mayor de Hacienda, a la Contaduría Mayor a dar seguimiento al proceso de fiscalización, debiendo requerir a las entidades fiscalizadas para que, dentro del término de 20 días hábiles contados a partir de que se les notifique el acuerdo del Congreso del Estado, solventen las irregularidades u observaciones graves que haya establecido la Comisión de la Contaduría Mayor de Hacienda en su dictamen.
+
+La Contaduría Mayor de Hacienda al recibir de las entidades fiscalizadas la solventación correspondiente, emitirá un informe de seguimiento a la Comisión de la Contaduría Mayor de Hacienda, el cual deberá contener la forma en que se dio o no cumplimiento al acuerdo del Congreso del Estado por las observaciones o irregularidades detectadas con motivo de la revisión de las cuentas públicas.
+
+El responsable de la solventación por parte de la entidad fiscalizada, al presentar la documentación y/o aclaración de las observaciones y/o irregularidades, deberá adicionar un dictamen del titular del órgano de control interno o de quien realice sus funciones, en el que haga constar su evaluación u opinión respecto de la solventación presentada.
+
+La Comisión de la Contaduría Mayor de Hacienda, una vez que reciba el informe de seguimiento por parte de la Contaduría Mayor, emitirá un nuevo dictamen, el cual presentará al Pleno del Congreso del Estado para que apruebe o no la cuenta pública de la entidad fiscalizada. En caso de aprobación, se procederá conforme a lo establecido en el segundo párrafo del artículo 22 de la presente ley, y en caso de no aprobarse se instruirá a la Contaduría Mayor para que proceda conforme a derecho por las observaciones correspondientes.
+
+El término para la presentación del Informe Previo podrá ser prorrogable, previa solicitud que la Contaduría Mayor realice a la Comisión de la Contaduría Mayor de Hacienda.
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2005)</small>
+
+IV.- La Contaduría Mayor de Hacienda podrá fiscalizar o, en su caso, solicitar informes de los recursos que las entidades hayan otorgado con cargo a su presupuesto a entidades, instituciones, particulares, personas morales, organismos y, en general, a cualquier entidad pública o privada, cualesquiera que sean sus fines y destino, así como de su aplicación al objeto autorizado;
 
 V.- Ordenar visitas e inspecciones, practicar auditorías, solicitar informes, revisar libros y documentos, para comprobar si la recaudación de los ingresos se han realizado con eficiencia y de conformidad con las leyes de la materia, o si las inversiones y gastos de las entidades se han aplicado correctamente al logro de sus objetivos;
 
@@ -422,6 +484,10 @@ Si alguna entidad se negare a proporcionar la información solicitada o se negar
 Para la práctica de las actuaciones a que se refiere el artículo anterior y el 27, el Contador Mayor de Hacienda determinará con precisión el objeto, lugar, fecha y hora de la diligencia fiscalizadora y notificar por escrito, con tres días de anticipación a la entidad pública. En el mismo acto acreditará al Director o Directores de Area responsables de su cumplimiento.
 
 Las entidades recibirán de la Contaduría Mayor de Hacienda, una copia del informe técnico al término de la diligencia.
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
+
+El resultado de las actuaciones que, con motivo de sus funciones, realiza la Contaduría Mayor de Hacienda a las entidades sujetas de fiscalización, así como el Informe Previo, estarán contenidos en el dictamen que la Comisión de la Contaduría Mayor de Hacienda presenta al Pleno del Congreso del Estado para su revisión, discusión y, en su caso, aprobación de las cuentas públicas trimestrales de las entidades sujetas de fiscalización.
 
 ### CAPITULO SEPTIMO. DE LAS RESPONSABILIDADES
 
@@ -578,3 +644,17 @@ Artículo Segundo.- El Congreso del Estado asignará el presupuesto correspondie
 Artículo Tercero.- En tanto se designe al Contador Mayor de Hacienda; continuará en el cargo quien actualmente se desempeñe como tal.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que contravengan el sentido de la presente reforma.
+
+P.O. 14 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de la fracción III del artículo 17 del presente Decreto, a partir del día en que entren en vigor las reformas, las cuentas públicas que se encuentren en proceso de revisión por parte de la Contaduría Mayor de Hacienda, se regularán por lo dispuesto en el mismo.
