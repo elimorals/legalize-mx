@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1980-09-14"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -215,285 +215,339 @@ DEL REGISTRO CIVIL.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 32.
 
-En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimientos, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en su territorio; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+El Registro Civil es la institución de carácter público y de interés social, por medio de la cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 33.
 
-Los Oficiales del Registro Civil llevarán por duplicado ocho libros que contendrán: el primero, actas de nacimiento; el segundo, actas de reconocimiento; el tercero, actas de adopción; el cuarto, actas de tutela; el quinto, actas de matrimonio; el sexto, actas de divorcio; el séptimo, actas de fallecimiento; y el octavo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+El Registro Civil mediante la inscripción y creación de los actos constitutivos y modificativos del estado civil de las personas, al darles publicidad, hará que las inscripciones surtan efectos contra terceros y que hagan prueba plena.
 
-Toda acta deberá asentarse en los dos ejemplares.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 34.
 
-Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo anterior.
+El Registro Civil está constituido por la Dirección del Registro Civil, su Archivo Estatal y las Oficialías que determina el Reglamento respectivo.
 
-La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 35.
 
-Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar.
+La titularidad de las Oficialías del Registro Civil estarán a cargo de los Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-El Ministerio Público cuidará de que se cumpla esta disposición y a ese efecto, el Oficial del Registro Civil o el encargado del archivo respectivo, le dará aviso de la pérdida o destrucción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 36.
 
-El estado civil de las personas sólo se comprueba por las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+En el asentamiento de las actas del Registro Civil intervendrán: el Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlas en el espacio correspondiente, al igual que las demás personas que se indiquen en las mismas, asimismo se imprimirá en ellas el sello de la Oficialía.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 37.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las hojas en que se pueda suponer se encontraba el acta, se podrá probar el acto por otros medios legales, pero si uno solo de los registros se hubiere inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba sin admitirla de otra clase.
+Las actas del Registro Civil se referirán exclusivamente a los actos concernientes al estado civil de las personas y harán constar el principio y extensión de la vida jurídica, acreditarán las relaciones de parentesco, matrimonio y las que deriven de actos judiciales y administrativos relativos al estado civil. Las actas se asentarán en formas especiales, según el formato que establezca el Reglamento, la infracción de esta disposición producirá la nulidad del acta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 38.
 
-Todos los libros del Registro Civil serán visados en su primera y última hoja por el Gobernador del Estado y autorizados por el Secretario General del Despacho con su rúbrica, en todas las demás. Se renovarán cada año y un ejemplar quedará en el archivo del Registro Civil de la jurisdicción correspondiente, así como los documentos que le correspondan; remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente a la Secretaría General del Despacho para que se deposite en el Archivo General del Gobierno.
+Las inscripciones se harán mecanográficamente por cuadruplicado y habrá las siguientes formas: nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, inscripción de las sentencias, ejecutorias que declaren ausencia, la presunción de muerte, o la pérdida o limitación de capacidad legal para administrar bienes.
 
-Si al terminar el año hubiere hojas en blanco, se inutilizarán con rayas transversales certificando el Oficial del Registro Civil a continuación de la última acta levantada, el número de actos efectuados y el de las hojas que se inutilizaron.
-
-Los libros terminarán con un índice alfabético formado por apellidos, que se llevará con el día; cuando haya dos o más individuos del mismo nombre y apellido, se agregará el segundo de éstos.
-
-El Oficial del Registro Civil que no cumpla con la prevención de remitir oportunamente a la Secretaría General del Despacho un ejemplar de los que habla el artículo 33, será destituido de su cargo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 39.
 
-No podrá asentase en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+Si se perdiere o destruyere alguna de las formas del Registro Civil, se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil. El Director u Oficial del Registro Civil tendrá la obligación de dar aviso al Ministerio Público de dicha pérdida o destrucción a efecto de que sea cumplida esta disposición.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 40.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos bastará poder privado extendido por el otorgante ante dos testigos; pero debiendo ser ratificadas las firmas de uno y otros ante Notario Público, Juez de Primera Instancia o Juez Menor.
+Las formas del Registro Civil serán expedidas por el Director del Registro Civil, se renovarán cada año y los Oficiales del Registro Civil remitirán un ejemplar de ellas al Archivo Estatal de la Dirección del Registro Civil, otra a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación, un ejemplar al interesado y otro quedará en el archivo de la Oficialía.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 41.
 
-En la formación de las actas del estado civil se observarán las siguientes reglas:
+Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituido por todos los documentos relacionados con el acto que se asienta. Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas lo estarán de éstos. Toda persona puede solicitar copia certificada de las actas y de los documentos del apéndice. El Director, los Oficiales y el Jefe del Archivo están obligados a expedirlas.
 
-I.- Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose los que designen los interesados, aún cuando sean sus parientes;
-
-II.- Extendida en los libros el acta, será leída por el Oficial del Estado Civil a los interesados y testigos; la firmarán todos, y si algunos no pueden hacerlo, se expresará la causa. También se expresará que el acta fué leída y quedaron conformes los interesados con su contenido;
-
-III.- Si alguno de los interesados quisiere imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no pudiere leer, uno de los testigos designados por él leerá aquella y la firmará si el interesado no supiere hacerlo;
-
-IV.- Si un acto comenzado se entorpeciere porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y expresándose el motivo porque se suspendió, razón que deberán firmar el Oficial del Registro, los interesados y los testigos;
-
-V.- Las actas se numerarán y escribirán una después de otra, sin dejar entre ellas ningún renglón entero en blanco;
-
-VI.- Tanto el número ordinal de las actas, como el de las fechas o cualquier otro, serán escritos en cifras aritmétricas y, además con todas sus letras;
-
-VII.- En ninguna frase se emplearán abreviaturas;
-
-VIII.- No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible, salvo los casos a que se refiere expresamente este Código. La infracción de las disposiciones contenidas en esta fracción y las tres anteriores, se castigarán con multa de veinticinco pesos;
-
-IX.- Al fin de cada acta se salvará con toda claridad lo entrerrenglonado y testado;
-
-X.- Los puntos dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta y el sello del Registro y se reunirán y depositarán en el archivo correspondiente, formándose un índice de ellos en las últimas de los libros correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 42.
 
-Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+El estado civil de las personas sólo se comprueba con las copias certificadas de las actas del Registro Civil y de los documentos del apéndice; ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 43.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales registradores estarán obligados a darlo.
+Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción solo podrá probarse el acto con otros medios legales según lo establezca el Código de Procedimientos Civiles, pero si una sola de las actas de registro se hubiere inutilizado y existen los otros ejemplares, de éstos deberá tomarse la prueba sin admitir la de otra clase.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 44.
 
-Los actos y actas del Estado Civil relativos al Oficial del Registro, a su consorte, a los ascendientes o descendientes de cualquiera de ellos no podrán autorizarse por el mimos Oficial; pero se asentarán en los libros correspondientes y se autorizarán por el Presidente Municipal respectivo.
+Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En caso de matrimonio o de reconocimiento de hijos las firmas deberán ratificarse ante Notario Público, Juez de Primera Instancia o Juez Menor Mixto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 45.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüída de falsa.
+Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose a los parientes y a los que designen los interesados, asentándose en el acta su nombre, edad, domicilio, nacionalidad y grado de parentesco si lo hay. La nulidad de un acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicialmente.
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 46.
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se hayan inscrito en la oficina respectiva del Registro Civil en el Estado de Aguascalientes o de cualquiera otra entidad federal.
+Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles en cuanto a su legalización, debiendo inscribirse en la Oficialía de la adscripción de su domicilio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 47.
 
-Los Oficiales del Registro Civil, en sus faltas temporales, serán suplidos por la primera autoridad política municipal respectiva.
+Para la inscripción de los actos del Registro Civil dispondrán los interesados del plazo que este Código señala en forma específica para cada uno. La Dirección del Registro Civil, supervisará las actuaciones de los Oficiales del Registro Civil, ejerciendo las facultades que le señale el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 48.
 
-El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquier época. Durante los seis primeros meses de cada año el Ministerio Público revisará los libros del año anterior, enviados al Archivo General, para el efecto de hacer la consignación correspondiente de los Oficiales de Registro Civil que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades Administrativas de las faltas en que hubieren incurrido esos empleados; debiendo en todo caso rendir informe oportuno del resultado de su examen al Ejecutivo, del cual se mandará agregar una copia al Libro a que se refiere y otra al correspondiente que se haya en el Archivo del Registro.
+En las actas del Registro Civil se harán las anotaciones que relacionen el acto con los demás que estén inscritos de la misma persona y las otras que establezca la Ley.
 
-Si pasado el término en que debía rendirse ese informe y un mes más, no se recibe la copia, el encargado del archivo deberá reclamarla; sufriendo el responsable de la omisión una multa de diez a cincuenta pesos que impondrá el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 49.
 
-Por ningún acto del registro civil se cobrará emolumento alguno, salvo lo que sobre el particular prevengan las leyes fiscales.
-
-La infracción de este precepto se castigará con la destitución del Oficial del Registro Civil o del empleado que la cometa, sin perjuicio de las sanciones penales correspondientes.
+Los actos y actas del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial, se asentarán en las formas correspondientes autorizándolas el Oficial de la adscripción más próxima. Las faltas temporales de los Oficiales del Registro Civil serán suplidas por la persona que designe el Director del Registro Civil.
 
 ### CAPITULO II.
 
 DE LAS ACTAS DE NACIMIENTO.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 50.
 
-La declaración de nacimiento se hará por el padre o por la madre, dentro de los cuarenta y cinco días siguientes a éste. El niño será presentado al Oficial del Registro Civil en su oficina o en la casa paterna.
+Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste, al lugar donde se encuentre aquél.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 51.
 
-Los médicos, cirujanos y parteras que hubieren asistido al parto, tienen también obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los cinco días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los 180 días de ocurrido el mismo.
 
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 52.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de uno a cincuenta pesos que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
+Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigados con una multa de $100.00 a $1,000.00.
 
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 53.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las personas interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+El acta de nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y apellidos que le correspondan sin que por motivo alguno pueda omitirse, la expresión de si es presentado vivo o muerto, el nombre, edad, domicilio y nacionalidad de los padres, el nombre, domicilio y nacionalidad de los abuelos paternos y maternos, el nombre, edad, domicilio y nacionalidad de los testigos, y si la presentación se realiza por una persona distinta de los padres, se anotará, su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
 
-Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 54.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilios y nacionalidad de los padres; los nombres y domicilio de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentarán a éstos como sus progenitores, salvo sentencia judicial en contrario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 55.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 40, haciéndose constar en todo caso la petición.
+Cuando no se presente la copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado en los términos de esta Ley, y el nombre de los abuelos por la línea del mismo o de los mismos si concurren los dos.
 
-La madre no tiene derecho a desconocer a su hijo; tiene obligación de que su nombre figure en el acta de nacimiento respectiva y si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
-
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deban intervenir en el acta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 56.
 
-Si el padre o la madre no puedieren (sic) concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste pasará al lugar en que se halle el interesado y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
+En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 57.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna podrá el Oficial del Registro Civil, asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+
+En caso de infracción a lo ordenado por este artículo, se testará de oficio cuidando que lo testado quede ilegible.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 58.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil, con los vestidos, papeles o cualquier otro objeto encontrado con él, y declarará el día y lugar donde lo hubiera hallado, así como las demás circunstancias que en el caso hayan concurrido y se dará intervención al Ministerio Público.
 
-En caso de infracción se testará de oficio cuidando que la testadura quede ilegible.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 59.
 
-Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
+La misma obligación tienen los jefes, directores o administradores de los Centros de Readaptación y Prevención Social y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad y casas de cuna respecto de los niños expuestos en ellos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 60.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+En las actas que se levanten en estos casos se expresarán las circunstancias que se designan en el Artículo 58, la edad aparente del niño, su sexo, el nombre y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 61.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad, e inclusas, respecto de los niños nacidos o expuestos en ellas.
+Si con el expósito se hubieran encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el archivo del Registro y se mencionarán en el acta ante la presencia del Ministerio Público, dando formal recibo de ellos al que recoja al niño.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 62.
 
-En las actas que se levanten en estos casos, se expresarán todas las circunstancias que designa el artículo 60, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
+Se prohibe absolutamente al Oficial del Registro Civil y a los testigos que asistan al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 63.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+El Oficial del Registro Civil que reciba alguna de las constancias a que se refieren los artículos 70 a 73 del Código Civil, asentará desde luego el acta correspondiente en las formas de su Oficina y archivará aquellas constancias, anotándolas con el número correspondiente al acta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 64.
 
-Se prohíbe absolutamente al Oficial del Registro Civil y a los testigos que conforme al artículo 53 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+Si el nacimiento ocurriere a bordo de un transporte nacional, los interesados harán extender una constancia del acto, en la que aparecerán todas las circunstancias a que se refieren los artículos del 53 al 57, en su caso, y solicitarán que la autorice el capitán o encargado del transporte y dos testigos que se encuentren a bordo, expresándose, sino (sic) los hay, esta circunstancia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 65.
 
-El Oficial del Registro Civil que reciba alguna de las constancias a que se refieren los artículos 70 a 73 del Código Civil del Distrito Federal, asentará desde luego el acta correspondiente en los libros de su oficina y archivará aquella constancia, anotándola con el número correspondiente al acta.
+En el primer lugar de arribo del territorio nacional a que llegue el transporte, los interesados entregarán el documento de que habla el artículo anterior, al Oficial del Registro Civil, para que a su tenor asiente el acta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 66.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres si en el lugar no hubiere Oficial del Registro; en el primer caso se remitirá copia del acta al Oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren; y en el segundo, se tendrá para hacer el registro el término que señala el artículo 50, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+Si en el lugar de arribo a que se refiere el artículo anterior no hubiere Oficial del Registro Civil, deberá enviarse el documento al Oficial del Registro Civil del domicilio de los padres, o bien, se podrá hacer el registro dentro del término que señala el Artículo 51, con un día más por cada 20 kilómetros de distancia o fracción que exceda de la mitad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 67.
 
-Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 68.
 
-En el acta de nacimiento de gemelos, el Oficial del Registro Civil hará constar las particularidades que los distingan y quién nació primero, según las noticias que le comuniquen el médico, el cirujano, la partera o las personas que hayan asistido al parto.
+Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos y se hará constar las particularidades que los distingan y quién nació primero.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO III.
 
-DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES.
+DE LAS ACTAS DE RECONOCIMIENTO.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 69.
 
-Si el padre o la madre de un hijo natural, o ambos lo reconocieren al presentarlo dentro del término de ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, sin expresión de ser hijo natural, ni ninguna otra expresión infamante, como adulterino o incestuoso, lo mismo se observará en el artículo 55 de este Código; se asentarán también los nombres de los progenitores que lo reconozcan, esta acta surtirá los efectos de reconocimiento legal.
+El acta de nacimiento surte efectos de reconocimiento del hijo en relación a los progenitores que aparezcan en la misma. Un acta de reconocimiento debe contener, el nombre, apellidos, fecha y lugar de nacimiento, domicilio y huella digital del reconocido; nombre, apellidos, edad, domicilio y nacionalidad del reconocedor; nombre, apellidos, nacionalidad y domicilio de los abuelos; padres del reconocedor; nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso, y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 70.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+Si el reconocimiento se hace con posterioridad al registro de nacimiento, es necesario que además de los requisitos que señala el artículo anterior, el acta contenga los siguientes datos:
 
 I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
 
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
+II.- Si el hijo es menor de edad, pero mayor de 14 años, se expresará su consentimiento y el de su tutor o la persona que lo tenga bajo su custodia;
 
-III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor;
+III.- Si el hijo es menor de 14 años, se expresará sólo el consentimiento del tutor o de quien lo tenga bajo su custodia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 71.
 
-Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya hecho después del término de ley.
+Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento de un hijo fuera de matrimonio, o esa presentación se haya hecho después del término de Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 72.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del Título Séptimo de este Libro.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará copia certificada del documento que lo compruebe para que el Oficial del Registro Civil lo inserte en su parte relativa en el acta de registro.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 73.
 
-La omisión del registro, en el caso del artículo que procede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
+La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de $100.00 a $1,000.00, que impondrá y hará efectiva el Juez ante quien se haga valer el reconocimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 74.
 
 En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 75.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+Si el reconocimiento se hiciere en Oficialía distinta de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento a la Oficialía correspondiente para que se haga la anotación.
 
 ### CAPITULO IV.
 
 DE LAS ACTAS DE ADOPCION.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 76.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al Oficial del Registro Civil copia certificada de las diligencias relativas a fin de que se levante el acta correspondiente. El Juez en todo caso enviará al Registro Civil la copia mencionada para que se levante el acta de adopción.
+Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes dentro del término de 15 días presentarán al Oficial del Registro Civil de su domicilio, copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente. El Juez en todo caso enviará al Registro Civil la copia mencionada para que se levante el acta de adopción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 77.
 
-La falta de registro de adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 73.
+La falta del registro de adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 73 de este Código.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 78.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+El acta de adopción contendrá: nombre, apellidos, fecha, lugar de nacimiento y domicilio del adoptado y los mismos datos del o los adoptantes, incluyendo su nacionalidad, el nombre y demás generales de la persona o personas cuyo consentimiento hubiere sido necesario para la adopción; los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y Tribunal que la dictó.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 79.
 
-Extendida el acta de adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+Extendida el acta de adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas en el apéndice respectivo, poniéndole el mismo número del acta de adopción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 80.
 
-El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de 8 días, contados a partir de la fecha en que cause ejecutoria la resolución, copia certificada de la misma al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
 ### CAPITULO V.
 
 DE LAS ACTAS DE TUTELA.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 81.
 
-Pronunciado el auto de discernimiento de la tutela, el juez mandará publicarlo en los términos que disponga el Código de Procedimientos Civiles y remitirá copia de él dentro de setenta y dos horas al Oficial del Registro Civil, para que levante el acta respectiva, previniendo al tutor nombrado que se presente ante dicho funcionario y cuidando de remitir, con la copia antes dicha, todos los datos exigidos por el artículo 83. El curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela, el Juez mandará publicarlo en los términos que disponga el Código de Procedimientos Civiles y remitirá copia del mismo dentro de las 72 horas al Oficial del Registro Civil, para que levante el acta respectiva, previniendo al tutor nombrado que se presente ante dicho funcionario y cuidando de remitir, con la copia antes dicha, todos los datos exigidos por el Artículo 83 de este Código. El curador vigilará del cumplimiento de este artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 82.
 
-La omisión del registro de tutela no impide al tutor entrar en el ejercicio de su encargo ni puede alegarse por ninguna persona, como causa para dejar de tratar con él; pero hace responsables al tutor y al curador de esta omisión, la que se sancionará con multa de cinco a cincuenta pesos por el Oficial del Registro.
+La omisión del registro de tutela no impide al tutor entrar en el ejercicio de su encargo ni puede alegarse por ninguna persona como causa para dejar de tratar con él, pero hace responsables al tutor y al curador de esta omisión, la que se sancionará con multa hasta de $100.00 a $1,000.00 por el Oficial del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 83.
 
@@ -509,171 +563,227 @@ IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
 
 V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en prenda o hipoteca;
 
-VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+VI.- El nombre del Juez que pronunció el auto de discernimiento y la fecha de éste.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 84.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido por el artículo 75.
+Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido por el Artículo 75.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 1970)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO VI.
 
+DE LAS ACTAS DE EMANCIPACION.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 85.
 
-(DEROGADO, P.O. 3 DE MAYO DE 1970)
+En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud de matrimonio y citando la fecha en que éste se celebró así como el número y la foja del acta relativa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 86.
 
-(DEROGADO, P.O. 3 DE MAYO DE 1970)
+Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del Juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación, y el número y foja del acta respectiva.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 87.
 
-(DEROGADO, P.O. 3 DE MAYO DE 1970)
+Si en la Oficina en que se registró la emancipación no existe el acta del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 88.
 
-(DEROGADO, P.O. 3 DE MAYO DE 1970)
+La omisión del registro de emancipación no quita a ésta sus efectos legales, pero sujeta al responsable al pago de una multa hasta de $1,000.00, que impondrá y hará efectiva el Juez ante quien se promovió la emancipación.
 
 ### CAPITULO VII.
 
 DE LAS ACTAS DE MATRIMONIO.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 89.
 
 Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-I.- Los nombres, apellidos, nacionalidad, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si estos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+I.- Los nombres, apellidos, edad, nacionalidad, ocupación y domicilio, tanto de los pretendientes como de sus padres si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
 
-II.- Que no tienen impedimento legal para casarse o ha sido dispensado; y
+II.- Que no tienen impedimento legal para casarse.
 
 III.- Que es su voluntad unirse en matrimonio.
 
-Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir lo hará otra persona conocida, mayor de edad y vecina del lugar.
+Este escrito deberá ser firmado por los solicitantes; y si alguno no pudiere o supiere escribir imprimirá su huella digital, ante la presencia del personal de la Oficialía del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 90.
 
-Al escrito a que se refiere el artículo anterior, se acompañará:
+Al escrito a que se refiere el artículo anterior se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes;
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 146, 147 y 148;
+II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, cuando se trate de las personas a que se refieren los Artículos 146, 147 y 148 de este Código;
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, haber examinado a los pretendientes y denotar dicho examen que no padecen sífilis, tuberculosis u otras enfermedades contagiosas y hereditarias, ni, en general, enfermedad alguna o conformación que constituya un impedimento para el matrimonio.
+IV.- Un certificado suscrito por un médico legalmente autorizado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis ni enfermedad alguna crónica e incurable, que sea, además, contagiosa y hereditaria.
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de salubridad;
+Para los indigentes tienen obligación de expedir gratuitamente estos certificados, los médicos encargados de los Servicios Coordinados de Salud Pública.
 
-V.- El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores edad deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio; pero podrá en su lugar manifestarse expresamente que se opta consciente y deliberadamente por el régimen de sociedad legal. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 191 y 210 y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede correctamente formulado.
+V.- El convenio que los pretendientes celebren en relación a los bienes presentes y a los que adquieran durante el matrimonio; en el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorarlos, en especial en lo relativo a lo dispuesto en los Artículos 191 y 210 de este Código.
 
-Si de acuerdo con lo dispuesto en el artículo 199 fuere necesario que las capitaulaciones (sic) matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
+Si de acuerdo con lo dispuesto en el Artículo 199 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo; o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado o copia certificada de la sentencia de nulidad del matrimonio en caso de que alguno de los pretendientes hubiese estado casado anteriormente.
 
-VII.- Copia de la dispensa de impedimentos si los hubo.
+VII.- Copia del documento en que se haya otorgado la dispensa de impedimentos si los hubo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 91.
 
-En el caso de que los pretendientes por falta de conocimientos no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
+En caso de que los pretendientes por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 92.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deban prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 90 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado. Pero sobre todo, en los casos en que se exprese optar por el régimen de sociedad legal, se exigirá que los pretendientes ratifiquen esta determinación, explicándoles previamente en qué consiste dicho régimen y la trascendencia que tendrá sobre sus bienes.
+El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan, ante él y por separado sus firmas, la declaración de los testigos a que se refiere la fracción III del Artículo 90 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado solicitando la ratificación ante su presencia de la misma. Pero sobre todo, en los casos en que se exprese optar por el régimen de sociedad legal, se exigirá que los pretendientes ratifiquen esta determinación, explicando previamente en qué consiste dicho régimen y la trascendencia que tendrá sobre sus bienes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 93.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+El matrimonio se celebrará dentro de los 8 días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 94.
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituido en la forma prevenida en el artículo 40 y dos testigos por cada uno de ellos, que acrediten su identidad.
+En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial, constituido en la forma prevenida por el Artículo 44 de este Código y dos testigos por cada uno de ellos, que acrediten su identidad.
 
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la Ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 95.
 
 Se levantará luego el acta de matrimonio en la cual se hará constar:
 
-I.- Los nombres, apellidos, edad, ocupación, nacionalidad, estado civil, domicilio y lugar de nacimiento de los contrayentes;
+I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
 II.- Si son mayores o menores de edad;
 
-III.- Los nombres, apellidos, ocupación, origen y domicilio de los padres;
+III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
+IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlos; si los contrayentes son menores de edad;
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el juez en nombre de la Ley y de la sociedad;
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Oficial del Registro Civil, en nombre de la Ley y de la Sociedad;
 
 VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
+VIII.- Los nombres, apellidos, edad, nacionalidad, estado y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes;
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren o pudieren hacerlo, asentándose en este último caso, la causa por la que alguna de ellas no firme.
 
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
+En el acta se imprimirán las huellas digitales de los contrayentes.
+
+La celebración conjunta de matrimonio no exime al Oficial del Registro Civil del cumplimiento estricto de las solemnidades a que se refiere éste y el anterior artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 96.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 90, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del Artículo 90, serán consignados al Ministerio Público, para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 97.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieron, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose -la denuncia al pie de la letra-. El acta firmada por los que en ella intervinieron, será remitida al Juez de lo Familiar, para que haga la calificación del impedimento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 98.
 
-Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+Las denuncias de impedimentos pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 99.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+Antes de remitir el acta al Juez de lo Familiar, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 100.
 
-Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En ese caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+Las denuncias anónimas o hechas por cualquier otro medio que no sea el de presentarse personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En ese caso, el Oficial del Registro Civil dará cuenta al Juzgado de lo Familiar y suspenderá todo procedimiento hasta que éste resuelva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 101.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+Denunciado el impedimento, el matrimonio no podrá celebrarse aunque el denunciante desista, mientras no recaiga sentencia judicial ejecutoriada que declare inexistencia de impedimento o se obtenga la dispensa de él.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 102.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal o de que éste se ha denunciado, será separado de su cargo sin perjuicio de la responsabilidad penal en que pueda haber incurrido.
+El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal o que éste sea denunciado, será separado de su cargo sin perjuicio de la responsabilidad penal en que incurra con su conducta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 103.
 
-Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticias de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 104.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, por primera vez con una multa de $1,000.00 y en caso de reincidencia, con la destitución de su cargo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 105.
 
 El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 90.
+También podrá exigir declaración bajo protesta, a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado exigido por la fracción IV del Artículo 90 de este Código.
 
 ### CAPITULO VIII.
 
 DE LAS ACTAS DE DIVORCIO.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 106.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Oficial del Registro Civil para que levante el acta correspondiente.
+La sentencia ejecutoria que decrete un divorcio será enviada mediante copia certificada, por el Juez al Oficial del Registro Civil que corresponda, para que se levante el acta respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 107.
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalidad de los divorciados, la fecha y lugar en que se celebró el matrimonio, la parte resolutiva de la sentencia judicial o resolución administrativa, en su caso, fecha de la resolución, autoridad que la dictó y fecha en que causó ejecutoria cuando se trate de sentencia judicial.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 108.
 
 Extendida el acta se anotará la de matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 109.
 
@@ -683,129 +793,173 @@ En el caso de que el matrimonio de los divorciados se haya celebrado en lugar di
 
 DE LAS ACTAS DE DEFUNCION.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 110.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Ninguna inhumación se hará sin la autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento, por certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran 24 horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 111.
 
-En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquél en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
+En el acta de defunción se asentarán los datos que el Oficial del Registro Civil reciba de la declaración que se le haga y será firmada por dos testigos preferentemente parientes, si los hay, o vecinos. Si la persona ha muerto fuera de su domicilio, uno de los testigos deberá ser aquél en cuyo domicilio haya ocurrido el fallecimiento, o alguno de los vecinos más inmediatos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 112.
 
-El acta de fallecimiento contendrá:
+El acta de defunción contendrá:
 
-I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
+I.- El nombre, apellidos, edad, ocupación, nacionalidad, sexo y domicilio que tuvo el difunto;
 
-II.- El estado civil de éste; y si era casado o viudo, el nombre y apellido de su cónyuge;
+II.- El estado civil de éste, y si era casado o viudo, el nombre y apellidos, así como la nacionalidad de su cónyuge;
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+III.- Los nombres y apellidos de los padres del difunto si se supieren;
 
-IV.- Los nombres de los padres del difunto si se supieren;
+IV.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos y si fueren parientes, el grado en que lo sean;
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+V.- La clase de enfermedad que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
+VI.- La hora, día, mes, año y lugar en que ocurrió la muerte si se supiere y todos los informes que se obtengan en caso de muerte violenta;
+
+VII.- Nombre, apellidos, número de cédula profesional y domicilio del médico que justifique la defunción;
+
+VIII.- Nombre, apellidos, edad, nacionalidad, ocupación y domicilio del declarante y grado de parentesco, en su caso, con el difunto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 113.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las vinticuatro (sic) horas siguientes a la muerte.
+Los que habiten la casa en que ocurra el fallecimiento; los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad, los encargados de los hoteles, mesones, casas de vecindad o cualquier otro establecimiento tienen obligación de dar aviso al Oficial del Registro Civil dentro de las 24 horas siguientes al fallecimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 114.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+Si el fallecimiento ocurriere en un lugar o población en donde no haya oficinas del Registro Civil, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que se levante el acta respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 115.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fué violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote al margen del acta.
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que levante el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado, y en general todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote en el acta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 116.
 
-En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministran los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 117.
 
-Si no se encontrare el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic), y las demás noticias que sobre el suceso puedan adquirirse.
+En el caso de muerte en el mar a bordo de un buque nacional o en el espacio aéreo nacional, el acta se formará de la manera prescrita en el Artículo 110 en cuanto fuere posible y la autorizará el jefe o capitán de la nave. Al llegar al puerto se enviará el acta al Oficial del Registro Civil que corresponda, quien la archivará bajo el número respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 118.
 
-Cuando el Oficial del Registro Civil, o quien haga sus veces, reciba la constancia a que se refiere el artículo 125 del Código Civil del Distrito Federal en vigor, sobre la defunción de alguna persona ocurrida en el mar, procederá a levantar el acta correspondiente, archivando el documento extendido por el capitán o patrono de la embarcación y anotándolo con el número que corresponda al acta.
+El jefe de cualquier puesto o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil de los muertos que haya habido en campaña; o en otro acto de servicio, especificándose la filiación de los mismos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 119.
 
-Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+Si no se encontrare el cadáver pero hay certeza de que alguna persona ha sucumbido en un lugar de desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece, y las demás noticias que sobre el suceso puedan adquirirse.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 120.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+Cuando alguna persona falleciere en algún lugar que no sea su domicilio, se remitirá al Oficial del Registro Civil de su domicilio copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original y el Oficial que la recibe deberá hacer las anotaciones respectivas en el acta de nacimiento y en las demás que estén relacionadas con las mismas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 121.
 
-Los Tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+En todos los casos de muerte en los centros de reclusión las actas que se levanten contendrán los requisitos que prescribe el Artículo 110 de este Código y no se hará mención de la circunstancia de que la muerte ocurrió encontrándose el finado en reclusión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 122.
 
-En todos los casos de muerte en las prisiones o en las casas de detención, o en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 112.
+Si la muerte a que se refiere el artículo anterior ocurre por actos de violencia, tampoco se hará mención de esa circunstancia en el acta respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 123.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+El fallecimiento de una persona se anotará también en las actas de registro de nacimiento y de matrimonio expresándose los folios en que conste la defunción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 124.
 
-Si por haber ocurrido la muerte en despoblado, por ignorancia o por cualquier otro motivo no se hubiere levantado oportunamente un acta de defunción, los interesados o el Ministerio Público promoverán información testimonial ante un Juez de Primera Instancia, y con esas diligencias el Oficial del Registro Civil levantará el acta omitida.
+Si por haber ocurrido la muerte en despoblado, no se hubiere levantado oportunamente el acta de defunción, por ignorancia o por cualquier otro motivo, los interesados o el Ministerio Público promoverán información testimonial ante un Juez de Primera Instancia, y con esas diligencias el Oficial del Registro Civil levantará el acta omitida.
 
 ### CAPITULO X.
 
 INSCRIPCIONES DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD LEGAL PARA ADMINISTRAR BIENES, LA AUSENCIA O LA PRESUNCION DE MUERTE.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 125.
 
-Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la ejecutoria respectiva.
+Las autoridades judiciales que declaren la pérdida de la capacidad legal de alguna persona para administrar bienes, la ausencia, la tutela o la presunción de muerte dentro de un término de 15 días remitirá al Oficial del Registro Civil que corresponda copia certificada de la ejecutoria respectiva o del auto de discernimiento para que se efectúe la inscripción en el acta correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 126.
 
-El Oficial del Registro Civil levantará el acta que corresponda en la que se insertará la resolución judicial que se le haya comunicado, anotándose el acta de nacimiento.
+El Oficial del Registro Civil levantará el acta que corresponda, en la que se insertará la resolución judicial que se le haya comunicado, anotándose en el acta de nacimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 127.
 
-Cuando se recupere la capacidad legal para administrar bienes, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior y para que teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
+Cuando se recupere la capacidad legal para administrar bienes, se revoque la adopción o la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda para que cancele el acta a que se refiere el artículo anterior y se teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
-### CAPITULO XI.
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
-DE LA NULIFICACION, RECTIFICACION Y REPOSICION DE LAS ACTAS DEL REGISTRO CIVIL.
+### CAPITULO Xl.
+
+DE LA NULIFICACION, RECTIFICACION, MODIFICACION, ACLARACION Y REPOSICION DE ACTAS DEL REGISTRO CIVIL.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 128.
 
-La nulificación, rectificación y reposición de las actas del Estado Civil, no puede hacerse sino mediante sentencia ejecutoria.
+La nulificación, rectificación o modificación de un acta del Registro Civil, así como su reposición, no puede hacerse sino mediante sentencia ejecutoria, salvo reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 129.
 
-Hay lugar a pedir la nulificación, en todo o en parte, de una acta del Registro Civil, cuando el suceso registrado no haya ocurrido o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+Hay lugar a pedir la nulificación, en todo o en parte, de un acta del Registro Civil cuando el suceso registrado no haya ocurrido, o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 130.
 
 Cuando el acto haya ocurrido, pero se declare nulo con posterioridad, el acta sólo será anotada al margen desde la fecha de esta declaración.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### Artículo 131.
 
-Podrá pedirse la rectificación:
+Podrá modificarse o rectificarse un acta en los siguientes casos:
 
 I.- Cuando habiendo ocurrido realmente el acto y habiendo intervenido personas legalmente obligadas o facultadas, se hicieren constar estados o vínculos que no corresponden a la realidad establecida por una sentencia, o se omitieron indebidamente;
 
-II.- Cuando se solicite variar algún nombre puesto erróneamente u otra circunstancia accidental.
+II.- Cuando se solicite variar un nombre puesto erróneamente u otra circunstancia accidental.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 132.
 
-No será permitido a persona alguna cambiar su nombre modificando el acta de su nacimiento; pero si alguien hubiere sido conocido con nombre diferente al que aparece en su acta, declarado este hecho mediante información testimonial en diligencias de jurisdicción voluntaria, con intervención del Ministerio Público, se anotará la referida acta en tal sentido.
-
-###### Artículo 133.
-
-Procede la reposición cuando el acta ha sufrido una falsificación o alteración material después de asentada. Comprobado el delito deberá restituírse el texto a su forma original, anotando al margen el cambio que se hace y la sentencia que así lo haya ordenado.
-
-###### Artículo 134.
-
-Pueden pedir judicialmente la nulificación, rectificación o reposición de las actas del Estado Civil:
+Pueden pedir la rectificación de un acta o la nulificación de la misma o bien su reposición:
 
 I.- Las personas de cuyo estado se trata;
 
@@ -813,11 +967,27 @@ II.- Las que se mencionan en el acta como relacionadas con el estado civil de al
 
 III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
 
-IV.- Los que según los artículos 372, 373 y 374 pueden continuar o intentar la acción de que en ellos se trata.
+IV.- Los que según los Artículos 372, 373 y 374, pueden continuar o intentar o apersonarse en la acción de que en ellos se trata.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
+###### Artículo 133.
+
+No será permitido a persona alguna cambiar su nombre modificando el acta de su nacimiento, pero si alguien hubiere sido conocido con nombre diferente al que aparece en su acta, declarando este hecho mediante información testimonial en diligencias de jurisdicción voluntaria con intervención del Ministerio Publico, se anotará la referida acta con tal sentido.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
+###### Artículo 134.
+
+Procede la reposición de Acta del Registro Civil cuando ha sufrido una falsificación o alteración material después de asentada. Comprobado el delito deberá restituirse el texto a su forma original, anotando al margen el cambio que se hace y la sentencia que así lo haya ordenado.
+
+Cuando el error que contenga el acta, sea sólo mecanográfico, ortográfico o de otra índole que no afecte los datos esenciales de aquélla, sólo se aclarará y su trámite se hará ante la Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 135.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la nulificación, rectificación o reposición.
+La sentencia que cause ejecutoria en el juicio en que se impugnó un acta del Registro Civil, se comunicará al Oficial del Registro que corresponda y éste hará una referencia de ello al margen del acta impugnada, sea que el fallo conceda o niegue la nulificación, la rectificación o la reposición.
 
 ## TITULO QUINTO.
 
@@ -14971,13 +15141,19 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1977)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### Artículo 2891.
 
-Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que lo autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituido, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación de número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los noventa días siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes inmuebles o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el notario o autoridad ante quien vaya a otorgarse, podrá a su criterio, o deberá a solicitud de quien pretenda adquirir un derecho, excepto en el caso previsto en el Artículo 2187 en que el fedatario está obligado a hacerlo, dar a la Oficina del Registro Público de la Propiedad un primer aviso preventivo al solicitar el certiifcado (sic) sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho, o la libertad de los mismos. Dicho aviso deberá mencionar con precisión la operación y el inmueble o derecho materia de la escritura de que se trate, los nombres de las partes que en ella van a intervenir y el antecedente registral. El registrador, con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente, una anotación de primer aviso preventivo que tendrá vigencia por un término de 30 días naturales contados a partir de la fecha de su presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 2884, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Si mientras tanto se presentaren al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los treinta días hábiles posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
+
+Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo primero, el Notario o autoridad ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo primero, la fecha de la escritura y la de su firma. El Registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de treinta días a que se contrae el párrafo primero, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
+
+Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos a que se contraen los párrafos primero y segundo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en párrafos anteriores, fuere privado, deberán dar exclusivamente el segundo aviso preventivo que menciona este artículo, el Notario, el Registrador, o la Autoridad que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes y el mencionado aviso producirá los mismos efectos que el dado por el Notario en caso de escrituras públicas.
 
 ###### Artículo 2892.
 
@@ -15214,3 +15390,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE SEPTIEMBRE DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1981.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Notarios que tengan en tramitación alguna de las escrituras a que se refiere el presente Decreto, podrán dar el segundo aviso preventivo, que surtirá los efectos a que se refiere el Artículo 2891.
+
+TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
