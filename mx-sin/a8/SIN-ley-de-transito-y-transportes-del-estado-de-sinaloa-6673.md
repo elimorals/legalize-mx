@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "1993-04-09"
+last_updated: "1997-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -1379,7 +1379,13 @@ Todo concesionario o permisionario, deberá recabar la aprobación de la Autorid
 
 Las tarifas que se cobren a los usuarios de las diferentes clases de servicios, deberán autorizarse por el Ejecutivo del Estado.
 
-Los proyectos de modificación o autorización que vayan a ser sometidos a la decisión del Ejecutivo, contarán con la opinión favorable del órgano técnico a que se refiere el Artículo 4 de la presente Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE AGOSTO DE 1997)</small>
+
+Las tarifas se revisarán durante el segundo bimestre de cada año.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
+Los proyectos de modificación o autorización que vayan a ser sometidos a la decisión del Ejecutivo, deberán contar con la opinión fundamentada del órgano técnico a que se refiere el artículo 4 de la presente Ley.
 
 ###### ARTICULO 240.
 
@@ -1403,9 +1409,13 @@ Al resolver la autoridad los supuestos anteriores, valorará la calidad, eficaci
 
 No habiendo transporte específico de turismo, los concesionarios o permisionarios podrán convencionalmente establecer tarifas cuando se trate de viajes de recreo.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
+
 ###### ARTICULO 245.
 
-Podrán autorizarse por la dependencia de Tránsito y Transporte tarifas especiales hasta el 50% de descuento, previa identificación ante el concesionario o permisionario, cuando se trate de estudiantes de escasos recursos económicos o de viajes con fines culturales o de beneficiencia (sic) pública.
+Los estudiantes de escuelas públicas de los niveles medio superior, superior y equivalentes, recibirán en el transporte urbano, suburbano y foráneo, descuentos del cincuenta por ciento de la tarifa autorizada, los días hábiles de lunes a viernes, durante el ciclo escolar; este descuento se aplicará también los días sábados en que los estudiantes deban asistir a los planteles educativos.
+
+La aplicación de los descuentos se hará previa identificación con credencial vigente expedida por la institución educativa pública correspondiente.
 
 ###### ARTICULO 246.
 
@@ -1712,3 +1722,33 @@ C.P. Marco Antonio Fox Cruz
 EL DIRECTOR GENERAL DE TRÁNSITO Y TRANSPORTES
 
 Lic. Fernando Díaz de la Vega
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 13 DE AGOSTO DE 1997.
+
+DECRETO No. 339, QUE REFORMA EL ARTÍCULO 245.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa"; salvo lo dispuesto en el artículo transitorio siguiente.
+
+###### ARTICULO SEGUNDO.
+
+Se mantendrá vigente la tarifa de $ 1.00 (Un Peso M.N.) para estudiantes de escuelas públicas, en el transporte urbano y suburbano, autorizado por el Ejecutivo Estatal en el Decreto Administrativo de fecha 13 de febrero de 1997, publicado en el Periódico Oficial "El Estado de Sinaloa" número 21, segunda sección, el día 17 de ese mes y año, así como las tarifas con descuento que se vienen aplicando en el transporte foráneo, hasta en tanto se realice una nueva revisión tarifaria.
+
+P.O. 13 DE AGOSTO DE 1997.
+
+DECRETO No. 340, QUE REFORMA EL ARTÍCULO 239.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento General de la Ley de Tránsito y Transportes aprobada mediante Decreto número 176, del 20 de agosto de 1970, publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha 20 de octubre de 1970.
+
+###### ARTICULO TERCERO.
+
+El Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa será expedido por el Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, mientras tanto se continuarán aplicando las disposiciones del anterior en lo que no se opongan a la ley.
