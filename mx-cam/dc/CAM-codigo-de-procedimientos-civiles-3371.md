@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1943-01-05"
+last_updated: "1970-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1970.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -679,7 +679,7 @@ II.- Al que presentare testigos falsos o sobornados; sin perjuicio de la respons
 
 III.- Al que fuere condenado, en primera y segunda instancias, por dos sentencias conformes de toda conformidad;
 
-IV.- Al que fuere condenado en juicio ejecutivo o hipotecario, o en los interdictos de recuperar y de retener la posesión, y al que promueva alguno de éstos juicios, si no obtiene sentencia favorable.
+IV.- Al que fuere condenado en juicio ejecutivo o hipotecario, o en los interdictos de recuperar y de retener la posesión, y al que promueva alguno de estos juicios, si no obtiene sentencia favorable.
 
 ###### Art. 135.
 
@@ -5427,7 +5427,7 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 ###### Art. 1105.
 
-Si la mayoría recidiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
+Si la mayoría residiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
 
 ###### Art. 1106.
 
@@ -6501,6 +6501,10 @@ Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ell
 
 ### CAPITULO X. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 25 DE ABRIL DE 1970, EL LEGISLADOR DEROGÓ LA FRACCIÓN I, Y DEL ANÁLISIS SE ADVIERTE QUE EL CONTENIDO DE LA FRACCIÓN II PASO A FORMAR PARTE DE ESTE PÁRRAFO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1970)</small>
+
 ###### Art. 1329.
 
 Podrá decretarse el depósito:
@@ -6563,11 +6567,7 @@ II.- Si el interesado desiste de sus pretensiones.
 
 ###### Art. 1341.
 
-Se tramitarán en forma de incidente, que habrá de seguirse en todo caso con el Ministerio Público:
-
-I.- La solicitud de emancipación que hagan los mayores de diez y ocho años, sujetos a la patria potestad o a tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
-
-II.- La calificación de la excusa de la patria potestad, en los casos a que se refiere el artículo 462 del Código Civil.
+Se tramitará en forma de incidente, que habrá de seguirse en todo caso con el Ministerio Público, la calificación de la excusa de la patria potestad, en los casos a que se refiere el artículo 462 del Código Civil.
 
 ###### Art. 1342.
 
@@ -6579,11 +6579,7 @@ Las informaciones para obtener dispensa de ley se recibirán oyendo al Ministeri
 
 ###### Art. 1344.
 
-El menor de más de de (sic) diez y ocho años que solicite habilitación para comparecer en juicio, deberá comprobar que sus padres o ascendientes que ejercen la patria potestad, están ausentes, se ignora su paradero o se niegan a representarlo.
-
-En caso de que la solicitud sea motivada por la negativa de los padres o ascendientes, serán oídos éstos.
-
-Al concederse la autorización se proveerá al menor de un tutor especial, conforme a lo dispuesto por el Código Civil.
+(DEROGADO, P.O. 25 DE ABRIL DE 1970)
 
 ###### Art. 1345.
 
@@ -6766,3 +6762,13 @@ P.O. 5 DE ENERO DE 1943.
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.</small>
 
 Artículo Unico.- El Código Civil del Estado a que se hace mención, comenzará a regir el día quince de los corrientes mes y año.
+
+P.O. 25 DE ABRIL DE 1970.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas.
