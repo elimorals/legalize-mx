@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1981-12-31"
+last_updated: "1982-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1982.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1433,21 +1433,9 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 8.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, PUBLICADO EN P.O. 31 DE DICIEMBRE DE 1981, SE SUSPENDIO TOTALMENTE LA APLICACION DEL PRESENTE ARTICULO, SIN EMBARGO, EN ESTA FECHA, EL LEGISLADOR REFORMA LAS FRACCION I Y III,</small>
-
-> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
-
 ###### ARTICULO 151
 
-9.- Son obligaciones de los sujetos de este impuesto:
-
-I.- Empadronarse en la Secretaría de Planeación y Finanzas, por conducto de la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquel en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
-
-Cuando un mismo causante tenga bienes inmuebles arrendados en jurisdicción de distintas oficinas Recaudadoras, deberá empadronarse en cada una de ellas separadamente.
-
-II.- Registrar cada uno de los contratos que celebren para el arrendamiento de inmuebles, en la oficina recaudadora de su jurisdicción, dentro de los quince días naturales siguientes a la fecha de su celebración.
-
-III.- Adoptar las medidas de control que para el correcto pago del impuesto establezca la Secretaría de Planeación y Finanzas del Estado.
+9.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
@@ -1757,11 +1745,11 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ## TITULO III. DERECHOS
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE JULIO DE 1982)</small>
 
 ###### ARTICULO 157.
 
-Los servicios que preste el Gobierno del Estado en forma directa o a través de sus organismos descentralizados obliga a quien los reciba a excepción hecha de la Beneficencia Pública, al pago total de su importe.
+Los servicios que presta el Gobierno del Estado en forma directa o a través de sus organismos descentralizados o concesionarios obliga a quien los reciba, a excepción hecha de la Beneficiencia (sic) Pública, al pago total de su importe.
 
 ###### ARTICULO 158.
 
@@ -1771,9 +1759,11 @@ Los derechos se causarán y pagarán de conformidad con las tasas y cuotas que e
 
 Los derechos se causan en el momento en que se presten los servicios, o en la forma que determina la Ley de Ingresos del Estado.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE JULIO DE 1982)</small>
+
 ###### ARTICULO 160.
 
-El Gobierno del Estado y sus organismos descentralizados; sólo podrán cobrar los derechos que señala la Ley de Ingresos del Estado.
+El Gobierno del Estado, sus organismos descentralizados y concesionarios sólo podrán cobrar los derechos que señala la Ley de Ingresos del Estado.
 
 ## TITULO IV. PRODUCTOS
 
@@ -2048,3 +2038,9 @@ P.O. 31 DE DICIEMBRE DE 1981.
 ###### ARTICULO UNICO.
 
 Las disposiciones que establece el presente Decreto surten sus efectos a partir del 1o. de Enero del presente año, y durante el período en que el Estado de Baja California se encuentre adherido al SISTEMA NACIONAL DE COORDINACION FISCAL en los términos de la LEY DEL IMPUESTO AL VALOR AGREGADO Y LEY DE COORDINACION FISCAL.
+
+P.O. 31 DE JULIO DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
