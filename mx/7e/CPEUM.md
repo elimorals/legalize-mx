@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1999-07-29"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 1999.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1334,7 +1334,9 @@ XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los t
 
 XXIII.- Para expedir leyes que establezcan las bases de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios, en materia de seguridad pública; así como para la organización y funcionamiento, el ingreso, selección, promoción y reconocimiento de los integrantes de las instituciones de seguridad pública en el ámbito federal.
 
-XXIV.- Para expedir la ley orgánica de la Contaduría Mayor.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 1999)</small>
+
+XXIV.- Para expedir la Ley que regule la organización de la entidad de fiscalización superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE ENERO DE 1966)</small>
 
@@ -1430,9 +1432,11 @@ Son facultades exclusivas de la Cámara de Diputados:
 
 I.- Expedir el Bando Solemne para dar a conocer en toda la República la declaración de Presidente Electo que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación.
 
-II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 1999)</small>
 
-III.- Nombrar a los Jefes y demás empleados de esa oficina.
+II.- Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la entidad de fiscalización superior de la Federación, en los términos que disponga la ley.
+
+III.- (DEROGADA, D.O.F. 30 DE JULIO DE 1999)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
@@ -1450,9 +1454,9 @@ No podrá haber otras partidas secretas, fuera de las que se consideren necesari
 
 La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y el cumplimiento de los objetivos contenidos en los programas.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 30 DE JULIO DE 1999)</small>
 
-Si del examen que realice la Contaduría Mayor de Hacienda aparecieran discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
+Para la revisión de la Cuenta Pública, la Cámara de Diputados se apoyará en la entidad de fiscalización superior de la Federación. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
 > <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
 
@@ -1544,41 +1548,61 @@ DE LA COMISION PERMANENTE.
 
 Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 miembros de los que 19 serán Diputados y 18 Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones. Para cada titular las Cámaras nombrarán, de entre sus miembros en ejercicio, un sustituto.
 
-###### Art. 79.
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
 La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:
 
-I.- Prestar su consentimiento para el uso de la Guardia Nacional, en los casos de que habla el artículo 76, fracción IV.
+I. Prestar su consentimiento para el uso de la Guardia Nacional en los casos de que habla el artículo 76 fracción IV;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+II. Recibir, en su caso, la protesta del Presidente de la República;
 
-II.- Recibir, en su caso, la protesta del Presidente de la República.
+III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las Comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
 
-> <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias;
 
-III.- Resolver los asuntos de su competencia, recibir durante el receso del Congreso de la Unión las iniciativas de ley y proposiciones dirigidas a las Cámaras, y turnarlas para dictamen a las Comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones.
+V. Otorgar o negar su ratificación a la designación del Procurador General de la República, que le someta el titular del Ejecutivo Federal;
 
-> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
+VI. Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta;
 
-IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
+VII. Ratificar los nombramientos que el Presidente haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 
-V.- Otorgar o negar su ratificación a la designación del Procurador General de la República, que le someta el titular del Ejecutivo Federal.
+> <small>(ADICIONADA, D.O.F. 30 DE JULIO DE 1999)</small>
 
-> <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+#### SECCION V.
 
-VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
+DE LA FISCALIZACION SUPERIOR DE LA FEDERACION.
 
-> <small>(ADICIONADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
-VII.- Ratificar los nombramientos que el Presidente de la República haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
+###### Art. 79.
 
-> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+La entidad de fiscalización superior de la Federación, de la Cámara de Diputados, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-VIII.- Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores federales.
+Esta entidad de fiscalización superior de la Federación tendrá a su cargo:
 
-IX.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
+I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la ley.
+
+También fiscalizará los recursos federales que ejerzan las entidades federativas, los municipios y los particulares.
+
+Sin perjuicio de los informes a que se refiere el primer párrafo de esta fracción, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+
+II. Entregar el informe del resultado de la revisión de la Cuenta Pública a la Cámara de Diputados a más tardar el 31 de marzo del año siguiente al de su presentación. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+
+La entidad de fiscalización superior de la Federación deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
+
+IV. Determinar los daños y perjuicios que afecten a la Hacienda Pública Federal o al patrimonio de los entes públicos federales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Cuarto de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención que señale la ley.
+
+La Cámara de Diputados designará al titular de la entidad de fiscalización por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Cuarto de esta Constitución.
+
+Para ser titular de la entidad de fiscalización superior de la Federación se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV, V y VI del artículo 95 de esta Constitución, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Los Poderes de la Unión y los sujetos de fiscalización facilitarán los auxilios que requiera la entidad de fiscalización superior de la Federación para el ejercicio de sus funciones.
+
+El Poder Ejecutivo Federal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 
 ### CAPITULO III.
 
@@ -2172,7 +2196,7 @@ Cuando se reclamen actos que tengan o puedan tener como consecuencia privar de l
 
 En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán el desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
@@ -2244,7 +2268,7 @@ En los casos no previstos en los párrafos anteriores, conocerán de la revisió
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1999)</small>
 
-IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
+IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales;
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
@@ -4621,3 +4645,21 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 29 DE JULIO DE 1999.
 
 Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La entidad de fiscalización superior de la Federación iniciará sus funciones el 1 de enero del año 2000. La revisión de la Cuenta Pública y las funciones de fiscalización a que se refieren las fracciones I a IV del artículo 79 reformado por este Decreto, se llevarán a cabo, en los términos del propio Decreto, a partir de la revisión de la Cuenta Pública correspondiente al año 2001.
+
+La entidad de fiscalización superior de la Federación revisará la Cuenta Pública de los años 1998, 1999 y 2000 conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+
+Las referencias que se hacen en dichas disposiciones a la Contaduría Mayor de Hacienda de la Cámara de Diputados, se entenderán hechas a la entidad de fiscalización superior de la Federación.
+
+TERCERO.- En tanto la entidad de fiscalización superior de la Federación no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al artículo 74, fracción IV, de la Constitución, su Ley Orgánica y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+Una vez creada la entidad de fiscalización superior de la Federación, todos los recursos humanos, materiales y patrimoniales en general de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicha entidad.
+
+CUARTO.- El Contador Mayor de Hacienda será titular de la entidad de fiscalización superior de la Federación hasta el 31 de diciembre de 2001; podrá ser ratificado para continuar en dicho encargo hasta completar el período de ocho años a que se refiere el artículo 79 de esta Constitución.
