@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-procuraduria-general-de-justicia-del-14291"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-05-03"
-last_updated: "1997-05-03"
+last_updated: "2004-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 3 de mayo de 1997.
 
@@ -123,7 +123,7 @@ XI.- Poner a disposición de las autoridades competentes, a los menores de 16 a�
 
 XII.- Poner a los inimputables mayores de 16 años de edad, a disposición del órgano jurisdiccional, cuando se deban de aplicar medidas de seguridad, ejercitando las acciones correspondientes, por los términos establecidos en las normas; y
 
-XIII. Las demás que establezcan las normas aplicables;
+XIII.- Las demás que establezcan las normas aplicables;
 
 ###### ARTICULO 4o.
 
@@ -243,9 +243,7 @@ II.- Proporcionar orientación jurídica a los miembros de la comunidad, para el
 
 III.- Promover acciones que mejoren la atención a la comunidad por parte de los servidores públicos de la Procuraduría; y
 
-IV.- Brindar información general sobre sus atribuciones y servicios, así como recoger las opiniones
-
-de la población en torno a la procuración de justicia.
+IV.- Brindar información general sobre sus atribuciones y servicios, así como recoger las opiniones de la población en torno a la procuración de justicia.
 
 ###### ARTICULO 13.
 
@@ -275,7 +273,9 @@ La Procuraduría, para el ejercicio de las atribuciones y funciones que le corre
 
 I.- Un Procurador General de Justicia;
 
-II.- Un Subprocurador General;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II.- Un Fiscal contra Delitos Electorales;
 
 III.- Un Director de Averiguaciones Previas;
 
@@ -299,6 +299,12 @@ XII.- Los Subdirectores, Coordinadores, Visitadores, Supervisores, Agentes del M
 
 De esta conformidad con las necesidades del servicio, el Procurador podrá establecer las agencias del Ministerio Público que se requieran, de acuerdo con la disponibilidad presupuestal.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 16 bis.- La Fiscalía contra Delitos Electorales del Estado, actuará con independencia, imparcialidad y autonomía técnica y operativa; su Titular será designado por el Honorable Congreso del Estado, en términos de los artículos 112, y 112 bis de la Ley Orgánica del Poder Legislativo del Estado.
+
+El Fiscal tendrá el nivel de Subprocurador y propondrá a los Agentes del Ministerio Público y demás personal administrativo necesario para que lo auxilie en el ejercicio de sus funciones.
+
 ###### ARTICULO 17.
 
 El Reglamento establecerá el número de unidades administrativas de la Procuraduría, las atribuciones de cada una de estas, y la forma en que sus titulares serán suplidos en sus ausencias.
@@ -309,13 +315,17 @@ El Procurador podrá adscribir orgánicamente las unidades administrativas estab
 
 Para ser Procurador General de Justicia se requiere satisfacer los requisitos establecidos en la Constitución Política del Estado, y será designado o removido conforme ella preceptúa. Para su nombramiento el Gobernador remitirá a la Cámara de Diputados la propuesta, acompañando los datos y documentos curriculares con los cuales se demuestre el cumplimiento de los requisitos legales.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 19.
 
-El Subprocurador deberá reunir los mismos requisitos exigidos para ser Procurador, salvo el de ejercicio profesional que podrá ser de cuando menos cinco años y tener treinta años de edad cumplidos al día de su nombramiento.
+El Fiscal contra Delitos Electorales y el Subprocurador General deberán reunir los mismos requisitos exigidos para ser Procurador, salvo el de ejercicio profesional que podrá ser de cuando menos cinco años y tener treinta años de edad cumplidos el día de su nombramiento.
 
-Suplirá al Procurador en sus funciones durante sus ausencias temporales, conforme lo determine el Reglamento y será nombrado por éste con acuerdo del Titular del Ejecutivo.
+Quien haya ocupado cargos de dirigencia partidista o haya sido candidato a un puesto de elección popular en los últimos cuatro años previos al día de la designación, no podrá ser Fiscal contra Delitos Electorales.
 
-Los demás servidores públicos a que se refiere el Artículo 16 de esta Ley, serán nombrados y removidos directamente por el Procurador.
+El Subprocurador General suplirá al Procurador en sus funciones durante sus ausencias temporales, conforme lo determine el reglamento y será nombrado por éste con acuerdo del Titular del Ejecutivo.
+
+Los demás servidores públicos a que se refiere el artículo 16 de esta Ley, serán nombrados y removidos directamente por el Procurador, a excepción del Fiscal contra Delitos Electorales, quien será nombrado por el Congreso del Estado, en los términos previstos por los artículos 112 y 112 bis de la Ley Orgánica del Poder Legislativo del Estado de Nayarit; y podrá ser removido solo en los términos del Título Octavo de la Constitución Local; a los servidores públicos que dependan administrativamente de la Fiscalía se les nombrará y removerá a propuesta de su Titular.
 
 El Procurador podrá delegar una o varias de sus facultades, salvo aquellas que por las disposiciones aplicables, tengan carácter de indelegables.
 
@@ -471,9 +481,7 @@ IV.- Ser de notoria buena conducta y reconocida solvencia moral, no haber sido c
 
 V.- Haber aprobado el concurso de ingreso y los cursos del Instituto de Formación Profesional o de otras instituciones cuyos estudios sean reconocidos por éste;
 
-VI.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos
-
-similares, ni padecer alcoholismo; y
+VI.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
 
 VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables.
 
@@ -634,3 +642,13 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno.
 
 Lic. Sigfrido de la Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se deberán tomar las previsiones presupuestales a efecto de que la Fiscalía contra Delitos Electorales inicie sus funciones el día uno de enero del año dos mil cinco.
+
+Artículo Tercero.- El Honorable Congreso del Estado de Nayarit hará la designación del titular de la Fiscalía contra Delitos Electorales a más tardar el día 30 de noviembre de 2004.
