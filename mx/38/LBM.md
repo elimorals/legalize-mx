@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "1999-01-19"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LBM"
 
 LEY DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
@@ -586,7 +586,9 @@ Tratándose de infracciones cometidas por miembros de la Junta de Gobierno o por
 
 II. Las personas sujetas a presentar declaración de situación patrimonial, serán los miembros de la Junta de Gobierno y quienes ocupen en la Institución puestos de subgerente o superior, así como aquéllas que por la naturaleza de sus funciones se señalen en el Reglamento Interior. Esta declaración deberá presentarse ante la contraloría del Banco, quien llevará el registro y seguimiento de la evolución de la mencionada situación patrimonial, informando a la Comisión de Responsabilidades o a la Junta de Gobierno, según corresponda, las observaciones que, en su caso, resulten de dicho seguimiento.
 
-Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Fiscal de la Federación.
+> <small>(REFORMADO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ###### ARTICULO 62.
 
@@ -628,7 +630,9 @@ Cuando el escrito antes mencionado no señale los agravios o el acto reclamado, 
 
 La resolución del recurso contendrá la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución.
 
-Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Fiscal de la Federación.
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ###### ARTICULO 66.
 
@@ -749,3 +753,9 @@ D.O.F. 19 DE ENERO DE 1999.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El artículo segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
