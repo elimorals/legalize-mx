@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1974-07-27"
+last_updated: "1975-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1975.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3013,47 +3013,59 @@ Si alguna de las partes no comparece, el juez hará la designación. Si la contr
 
 Con el acta de la junta a que se refiere este artículo se iniciarán las labores del árbitro, emplazando a las partes como se determina en el Título respectivo.
 
-### CAPITULO IV. DEPOSITO DE PERSONAS COMO ACTO PREJUDICIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE MAYO DE 1975)</small>
+
+### CAPITULO IV
+
+SEPARACION DE PERSONAS COMO ACTO PREJUDICIAL.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 429.
 
-Procede el depósito de la mujer casada, como acto prejudicial, en los siguientes casos:
+El que intente presentar demanda, denuncia o querella en contra de su cónyuge, puede solicitar su separación al Juez de Primera Instancia.
 
-I.- A petición de ésta, cuando viviendo al lado del marido intente demandarlo o acusarlo; y,
-
-II.- A petición del marido, cuando, viviendo con su mujer, intente demandarla o acusarla.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 430.
 
 En los casos de que trata el artículo anterior, tendrán aplicación las siguientes reglas:
 
-I.- Sólo los jueces de primera instancia del lugar del domicilio conyugal pueden decretar el depósito;
+I.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que habla el artículo anterior, a no ser que por circunstancias especiales no pueda incurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación provisional, remitiendo las diligencias al competente.
 
-II.- La solicitud de la mujer puede ser escrita o verbal y en los casos en que la urgencia del caso lo amerite, el juez debe con toda premura despachar y hacer ejecutar la medida de depósito;
+II.- La solicitud puede ser escrita o verbal, en ella se señalarán las causas en que se funda, el domicilio, en que se desea habitar, la existencia de hijos menores y las demás circunstancias del caso.
 
-III.- Como depositario siempre se designará a las dos personas que constituyan un matrimonio, quienes deberán ser de notoria honorabilidad y buenas costumbres. Para el mejor cumplimiento de lo que se dispone en esta fracción, el juez tomará el parecer de la mujer que se va a depositar, para el efecto de seleccionar el matrimonio que por las condiciones especiales del caso, sea más adecuado;
+III.- El Juez podrá practicar las diligencias que a su criterio sean necesarias, antes de dictar la resolución.
 
-IV.- La casa en que se encuentre establecido el domicilio conyugal se destinará para el depósito sólo cuando el marido así lo solicite, en cuyo caso no será de aplicación la fracción III, pero es optativo para la esposa aceptar o elegir otro lugar; si el cónyuge, en virtud de la solicitud de su esposo decide permanecer en la casa, se conminará al segundo para que se abstenga de concurrir a ella mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa y objetos personales.
+IV.- Presentada la solicitud, el Juez sin más trámite resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso en particular.
 
-V.- El juez podrá dictar las medidas que juzgue adecuadas para la realización del depósito y aplicará en lo conducente las reglas del artículo 294 del Código Civil y de la ejecución forzosa; y,
+V.- El Juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges de común acuerdo o individualmente le soliciten, según las circunstancias del caso.
 
-VI.- Al depositario se dará copia autorizada de la constitución del depósito para su resguardo.
+VI.- En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda, acusación o querella, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación.
+
+A juicio del Juez, podrá concederse por una sola vez prórroga por igual término.
+
+VII.- Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, denuncia o querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las veinticuatro horas siguientes. Intentada la demanda, denuncia o querella, la separación subsistirá mientras dure el juicio.
+
+VIII.- En la misma resolución el Juez ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias al solicitante, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 431.
 
-Una vez constituido el depósito, mandará el juez intimar al marido o a la mujer, según el caso, apercibiéndoles que si dentro de cinco días no acreditan haber intentado la demanda o la acusación, se levantará el depósito y será restituída la esposa a la casa conyugal, así como que las cosas volverán al estado que tenía.
+El cónyuge que se separó tendrá en todo tiempo el derecho de volver al domicilio conyugal.
 
-Intentada la demanda, el depósito subsistirá mientras dure el juicio.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
 
 ###### ARTICULO 432.
 
-En los casos de los artículos anteriores, si los consortes tuvieren hijos menores, se pondrán éstos bajo el cuidado de la persona que de común acuerdo hubieren designado.
+El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 149 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 433.
 
-El juez podrá citar a las partes en cualquier tiempo, ya sea conjunta o separadamente; variar sus determinaciones, de oficio o a petición de parte, si las circunstancias lo ameriten, bajo su responsabilidad y sin sustanciación especial; y resolverá con carácter provisional lo que proceda, respecto a la entrega de ropa u otros objetos, subsistencia de la mujer y de los hijos y lo demás que juzgue oportuno. Podrá también aplicar las medidas de apremio que se requieran para que no se causen molestias a la mujer, y los depositarios puedan cumplir su cometido.
+(DEROGADO, P.O. 17 DE MAYO DE 1975)
 
 ## TITULO SEPTIMO. PROVIDENCIAS PRECAUTORIAS
 
@@ -3931,7 +3943,7 @@ Recibida la demanda, el juez dispondrá lo siguiente:
 
 I.- Que se notifique al Ministerio Público;
 
-II.- Nombrar al incapacitado un tutor interino. Se designará por su orden, para tal efecto, al cónyuge, padre, madre, abuelos, o hermanos del incapacitado; si no los hubiere, se nombrará persona de reconocida honorabilidad, que además no tenga relación de amistad o comunidad de intereses con el promovente;
+II.- Nombrar al incapacitado un tutor interino. Se designará por su orden, para tal efecto, al cónyuge, padre, madre, abuelos o hermanos del incapacitado; si no los hubiere, se nombrará persona de reconocida honorabilidad, que además no tenga relación de amistad o comunidad de intereses con el promovente;
 
 III.- Si se trata de demencia dispondrá que dos psiquiatras, o si no los hay en el lugar, que dos peritos médicos examinen al incapacitado y emitan opinión acerca de sus condiciones. Si se está en alguno de los demás casos a que se refiere la primera parte del artículo 568, para el diagnostico únicamente se recurrirá a los médicos. En cualquiera de estas situaciones, el tutor puede nombrar otro para que tome parte en el examen y se oiga su dictamen. Puede el juez, además, requerir opinión preliminar a aquéllos;
 
@@ -4765,7 +4777,9 @@ Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyen el patrimonio de familia, desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
 
-II.- El lecho cotidiano, los vestidos y muebles del uso ordinario del deudor, de su mujer o de sus hijos, no siendo de lujo, a juicio del ejecutor;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1975)</small>
+
+II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos, no siendo de lujo a criterio del ejecutor.
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado, siempre que los utilice directamente en su trabajo;
 
@@ -4785,7 +4799,7 @@ X.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén cons
 
 XI.- La renta vitalicia, en los términos establecidos en los artículos 2660 y 2662 del Código Civil;
 
-XII.- Los sueldos y el salario de los trabajadores hasta el límite establecido legalmente como mínimo, salvo lo dispuesto en el Capítulo II del Título Séptimo;
+XII.- Los sueldos y el salario de los trabajadores hasta el limite establecido legalmente como mínimo, salvo lo dispuesto en el Capítulo II del Título Séptimo;
 
 XIII.- Las asignaciones a los pensionistas del Erario o de particulares o empresas, con las salvedades de la fracción anterior; y,
 
@@ -5849,7 +5863,7 @@ El inventario que se practique para presentarse en un procedimiento sucesorio, d
 
 I.- Una lista completa de los bienes que formen el activo de la sucesión, dando una descripción de los mismos y de los títulos, registros y demás documentos que amparen su propiedad. Si en el activo figuraren algunos bienes o créditos litigiosos, deberá expresarse esta circunstancia, las particulares del juicio que se siga y la causa del pleito. Si en el activo figuraren algún interés o participación en sociedades, asociaciones o negocios, deberá expresarse el monto de este interés o la cantidad que represente;
 
-II.- Se proporcionará una lista de los bienes que el autor de la herencia tenia en su poder y que no le pertenecían, así como la parte de los del activo que corresponda a la sociedad conyugal, o los que estén en poder de la sucesión o de terceros que reporten algún gravamen;
+II.- Se proporcionará una lista de los bienes que el autor de la herencia tenía en su poder y que no le pertenecían, así como la parte de los del activo que corresponda a la sociedad conyugal, o los que estén en poder de la sucesión o de terceros que reporten algún gravamen;
 
 III.- Mención de los frutos y productos que haya recibido la sucesión desde su apertura, con deducción de los gastos, para que se incluya el saldo líquido que existe en la fecha del inventario;
 
@@ -6673,9 +6687,11 @@ El juez señalará un termino prudente al tutor para que justifique la inversió
 
 Cuando ambos cónyuges convengan en divorciarse en los términos del último párrafo del artículo 284 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 285 del Código citado, así como una copia certificada del acta de matrimonio y sendas de las de nacimiento de los hijos menores. Se considerará que los cónyuges tienen hijos, cuando la esposa se encuentra encinta.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
+
 ###### ARTICULO 897.
 
-Hecha la solicitud, el juez citará a los promoventes y al representante del Ministerio Público a una junta que se efectuará después de los quince y antes de los veinticinco días siguientes; si a ésta asistieren los interesados, los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al Representante de la Sociedad, los puntos del convenio relativo a la situación de los hijos menores o incapacitados y de la mujer, y a los alimentos de aquéllos y de los que un cónyuge debe dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+Formulada la solicitud, el Juez citará a los promoventes y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los quince y antes de los veinticinco días siguientes; si a ésta asistieren los interesados, los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al representante de la sociedad, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
 
 ###### ARTICULO 898.
 
@@ -6719,7 +6735,13 @@ Se tramitarán en jurisdicción voluntaria:
 
 I.- La solicitud que tenga por objeto la protocolización de instrumentos públicos procedentes del extranjero; y,
 
-II.- Los demás actos que determinen las leyes.
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 1975)</small>
+
+II.- El permiso para que los cónyuges celebren contratos entre ellos o para obligarse solidariamente o ser fiador uno del otro en los casos de los artículos 158 y 159 del Código Civil;
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1975)</small>
+
+III.- Los demás actos que determinen las leyes.
 
 ###### ARTICULO 906.
 
@@ -7061,7 +7083,7 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dos días del mes de febrero de mil novecientos sesenta y uno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
 
 P.O. 18 DE SEPTIEMBRE DE 1963
 
@@ -7078,3 +7100,13 @@ P.O. 27 DE JULIO DE 1974
 PRIMERO.- Los negocios judiciales cuya cuantía exceda de Dos Mil Quinientos Pesos y que actualmente se encuentren radicados en los Juzgados de Primera Instancia, continuarán en dicha forma hasta su debida conclusión.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 1975
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
