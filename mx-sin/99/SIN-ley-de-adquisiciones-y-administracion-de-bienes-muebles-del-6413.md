@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-adquisiciones-y-administracion-de-bienes-muebles-del-641
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "1987-11-02"
+last_updated: "1995-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ADQUISICIONES Y ADMINISTRACION DE BIENES MUEBLES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1995.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 2 de noviembre de 1987.
 
@@ -59,9 +59,13 @@ II.- Los actos de administración y de dominio o disposición de dichos bienes q
 
 Para los efectos de esta ley, se entenderá por:
 
-Secretaría: La Secretaría de Administración;
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1995)</small>
 
-Contraloría: La Contraloría General del Poder Ejecutivo;
+Secretaría: La Secretaría de Hacienda Pública y Tesorería;
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1995)</small>
+
+Contraloría: La Contraloría General y Desarrollo Administrativo;
 
 Tesorería: La Secretaría de Hacienda Pública y Tesorería;
 
@@ -99,9 +103,11 @@ Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos
 
 Las adquisiciones, arrendamientos y servicios que se lleven a cabo con cargo total o parcial a fondos federales, conforme a los convenios que celebren el Gobierno Federal y el Ejecutivo del Estado, se regirán por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con bienes muebles aplicable a las Dependencias y Entidades Federales y, en los (sic) conducente por la presente Ley, así como por lo estipulado en los propios convenios, con la participación que corresponda al Estado, y en su caso, a los Ayuntamientos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 8.
 
-La Secretaría, la Tesorería y la Contraloría en el ámbito de sus respectivas competencias, quedan facultadas para interpretar y aplicar esta Ley a efectos administrativos.
+La Secretaría y la Contraloría, en el ámbito de sus respectivas competencias, quedan facultadas para interpretar y aplicar esta Ley a efectos administrativos.
 
 Sin perjuicio de las atribuciones que esta Ley u otras disposiciones otorgan a la Secretaría, esta tendrá en la aplicación de la propia Ley, las siguientes facultades:
 
@@ -125,11 +131,15 @@ i).- Normar y controlar la administración y mantenimiento de bienes muebles ele
 
 j).- Llevar el Registro de Proveedores de la Administración Pública Estatal.
 
-En el ejercicio de estas facultades, la Secretaría escuchará cuando corresponda por razón de sus atribuciones, la opinión de la Contraloría y la Tesorería.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1995)</small>
+
+En el ejercicio de estas facultades, la Secretaría escuchará cuando corresponda por razón de sus atribuciones, la opinión de la Contraloría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 9.
 
-Se crea el Comité Intersecretarial de Adquisiciones y Administración de Bienes Muebles del Estado de Sinaloa, el que se integrará con los Titulares de las Dependencias que el Ejecutivo determine y lo presidirá el Secretario de Administración, fungirá como Secretario Ejecutivo el Director de Recursos Materiales del Estado.
+Se crea el Comité Intersecretarial de Adquisiciones y Administración de Bienes Muebles del Estado de Sinaloa, el que se integrará con los titulares de las dependencias que el Ejecutivo determine y lo presidirá el Secretario de Hacienda Pública y Tesorería y fungirá como Secretario Ejecutivo, el Titular del área administrativa responsable de los Recursos Materiales del Estado.
 
 Dicho Comité tendrá las siguientes atribuciones:
 
@@ -225,7 +235,9 @@ III.- Acreditar su capacidad en cuanto a recursos técnicos, económicos y finan
 
 IV.- Inscripción en el Registro Federal de Contribuyentes y, en su caso, en la Cámara que le corresponda;
 
-V.- Constancia de pago de derechos ante la Tesorería;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1995)</small>
+
+V.- Constancia de pago de derechos ante la Secretaría;
 
 VI.- Registro en el Instituto Mexicano del Seguro Social, así como en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
@@ -578,3 +590,11 @@ LIC. FRANCISCO LABASTIDA OCHOA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DIEGO VALADES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE ABRIL DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
