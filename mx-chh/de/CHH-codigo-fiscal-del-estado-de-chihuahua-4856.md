@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1996-07-31"
+last_updated: "1996-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1017,383 +1017,77 @@ b).- Al que viola, deteriore o destruya los sellos o marcas colocados con finali
 
 ## TITULO TERCERO. INGRESOS ORDINARIOS
 
-### CAPITULO I. IMPUESTO PREDIAL
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. IMPUESTO SOBRE HOSPEDAJE
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+100.- Es objeto de este impuesto la prestación de servicios de hospedaje, que realicen personas físicas o morales en el Estado de Chihuahua.
+
+El 95% de los ingresos obtenidos por concepto de este impuesto, serán destinados para la promoción y difusión de la actividad turística en el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+101.- Son sujetos de este impuesto, los usuarios de los servicios de hospedaje señalados en el artículo anterior, mediante las retenciones que deberán efectuarles los prestadores de los mismos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+102.- La base para el cálculo del impuesto se integra con el valor total de la contraprestación pactada a favor de quien preste el servicio de hospedaje.
+
+En el caso de que el servicio se preste bajo el sistema normal de hospedaje no se considerará para el cálculo del impuesto de los servicios de alimentación y demás distintos al hospedaje, ni el Impuesto al Valor Agregado.
+
+En tanto que por el servicio para el sistema de tiempo compartido, integrará la base para el cálculo del impuesto, además de la señalada en el primer párrafo de este artículo, las cantidades que se carguen o cobren por intereses normales o moratorios, penas convencionales, mantenimiento, cuotas ordinarias o extraordinarias por administración, gasto de toda clase y cualquier otro concepto inherente al mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+103.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+104.- El pago del impuesto se hará mediante el entero de las retenciones que debió efectuar el prestador que señale esta ley, cada mes y dentro de los 15 días siguientes al mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+105.- Para efectos de este impuesto se entiende por prestación de servicios de hospedaje, el otorgamiento de albergue a cambio de una contraprestación, así como:
+
+I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables.
+
+II.- La prestación de servicios paraderos de casa rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+106.- Para efectos de este impuesto, se entiende que los servicios de hospedaje se prestan en el Estado de Chihuahua, siempre que por lo menos uno de los inmuebles destinados para tales fines se encuentre dentro de su territorio.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+107.- El impuesto se causará y retendrá en el momento en que se preste el servicio, debiendo efectuar los prestadores la separación expresa de aquél en el comprobante de la operación, así como el desglose de los demás servicios prestados.
+
+Cuando en los servicios de hospedaje, se incluyan servicios accesorios tales como alimentación, transportación, uso de instalaciones y otros similares y el comprobante fiscal no reúna los requisitos a que se refiere el párrafo anterior, se entenderá que la base gravable se integra con el costo de todos los servicios.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+108.- Las personas físicas y las morales que presten los servicios de hospedaje aquí señalados, así como las que tengan a su cargo la administración de sistemas de tiempo compartido, su mantenimiento u operación del establecimiento, estarán obligadas a lo siguiente:
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial del caso y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
+
+II.- Retener a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por los períodos y en las fechas a que se refiere el artículo 104.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+109.- Los retenedores de este impuesto están obligados a enterar una cantidad equivalente a la que debieron retener aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+110.- La autoridad fiscal podrá determinar en forma presuntiva la base de este impuesto para su cálculo y pago, en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION PRIMERA. OBJETO, SUJETO Y DOMICILIO
-
-100.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-101.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-102.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION SEGUNDA. BASE
-
-103.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-104.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-### CAPITULO II. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-132.- Es objeto de este impuesto la adquisición de la propiedad, por cualquier título o causa, de vehículos automotores y de otros bienes muebles usados que se realice o surta sus efectos en el territorio del Estado, a excepción de los enajenados por empresas en los términos de la Ley del Impuesto al Valor Agregado.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-133.- En las permutas se considerará que se efectúan dos adquisiciones.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-134.- Son sujetos de este impuesto quienes adquieran el dominio de bienes muebles, en los términos a que se refiere el Artículo 132.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores que fijará anualmente la Dirección General de Finanzas y Administración o el valor resultante del avalúo que al efecto practique.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-136.- El impuesto se causará aplicando la tasa del 2% a la base señalada en el Artículo anterior por la adquisición de toda clase de automóviles, camiones y demás vehículos de motor usados y en general por cualquier otro bien mueble usado.
-
-Quedan exceptuados del pago de este impuesto las adquisiciones que efectúen los distribuidores de automóviles autorizados en el Estado y los comerciantes en el ramo de vehículos.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-137.- El impuesto establecido en este capítulo deberá pagarse dentro de los 15 días hábiles siguientes a la fecha de adquisición del vehículo, en las oficinas recaudadoras correspondientes.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-138.- Son responsables solidarios del pago de este impuesto:
-
-I.- Los adquirientes, aun tratándose de los sujetos exentos del pago de este impuesto, por los créditos fiscales que se adeuden con motivo de operaciones celebradas con anterioridad.
-
-II.- Quienes transmitan la propiedad, cuando los adquirientes no cumplan con la obligación señalada en el artículo anterior.
-
-III.- Los servidores públicos que en ejercicio de sus funciones autoricen el cambio de propietario de un vehículo, sin cerciorarse del pago del impuesto y
-
-IV.- Los consignatarios o comisionistas en cualquier operación de adquisición de vehículos automotores usados.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-139.- Cuando en las operaciones que se lleven a cabo con motivo de la adquisición de vehículos automotores u otros bienes muebles usados, intervengan personas domiciliadas fuera del Estado, el impuesto será retenido y enterado por aquella que sea residente del mismo, que haya intervenido o sea intermediario en la operación.
-
-140.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-141.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-142.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-143.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-144.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-145.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-146.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-147.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-148.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
-
-### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-149.- El objeto de este impuesto es la tenencia o uso de automóviles y camiones.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-150.- Son sujetos del impuesto las personas físicas o morales tenedoras o usuarios de los vehículos a que se refiere el artículo anterior.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-151.- Las plantas ensambladoras, sus distribuidores y los demás comerciantes en el ramo de automóviles, causarán el impuesto por los vehículos que estando registrados en las Oficinas de Tránsito a su nombre, estén al servicio de la negociación o de sus funcionarios y empleados.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
-
-I.- Modelos anteriores en 12 años o más al de la aplicación de la Ley;
-
-II.- Los que circulen con placas de servicio público de transportes;
-
-III.- Los que estén al servicio de los Cuerpos Diplomáticos y Consulares extranjeros acreditados ante nuestro País;
-
-IV.- Las ambulancias que estén al servicio de la Federación, Estados, Municipios, Organismos descentralizados dependientes de cualquiera de esas Entidades o Instituciones y Asociaciones de Beneficencia Pública y Privada, y
-
-V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de automóviles, siempre que carezcan de placas de circulación.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-153.- A los vehículos comprendidos en la fracción III del artículo anterior, se les expedirá un oficio de exención del tributo y una calcomanía especial diferentes a la de los vehículos por los que se haya cubierto el gravamen, previa comprobación por parte de la Tesorería General del Estado de que los mismos quedan comprendidos dentro del supuesto de esa fracción.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-154.- Los tenedores o usuarios de vehículos que por cualquier motivo dejen de estar comprendidos en alguna de las fracciones del artículo 152, causarán el impuesto correspondiente, el cual se cubrirá dentro de los 15 días siguientes al cambio de situación.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-155.- Quienes por cualquier título adquieran la propiedad, la tenencia o uso de vehículos sujetos al impuesto, son solidariamente responsables del pago que por concepto de tal impuesto se adeudare respecto del vehículo o vehículos materia del traspaso de la propiedad, de la tenencia o del uso; aunque como consecuencia del traspaso y del servicio a que los vehículos se destinen, queden comprendidos en las fracciones I, II y V del artículo 152.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-158.- El impuesto se causará en efectivo conforme a la siguiente
-
-TARIFA:
-
-CATEGORIA
-
-MODELO 1 2 3
-
-A.- Del año de la aplicación de
-
-la Ley $300.00 $500.00 $750.00
-
-B.- De un año anterior al de la
-
-aplicación de la Ley "275.00 "400.00 "600.00
-
-C.- De dos años anteriores al de
-
-la aplicación de la Ley "250.00 "300.00 "400.00
-
-D.- De tres años anteriores al de
-
-la aplicación de la Ley "200.00 "300.00 "400.00
-
-E.- De cuatro años anteriores al de
-
-la aplicación de la Ley "200.00 "250.00 "350.00
-
-F.- De cinco años anteriores al de
-
-la aplicación de la Ley "150.00 "200.00 "300.00
-
-G.- De seis años anteriores al de
-
-la aplicación de la Ley "150.00 "150.00 "200.00
-
-H.- Del séptimo al décimo primer
-
-año anteriores al de la aplicación
-
-de la Ley "150.00 "150.00 "150.00
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
-
-I.- Primera categoría: Comprende vehículos cuyo precio oficial de venta al público sea hasta de $35,000.00.
-
-II.- Segunda categoría: Comprende vehículos cuyo precio oficial de venta al público esté comprendido entre $35,000.01 a $50,000.00.
-
-III.- Tercera categoría: Comprende vehículos cuyo precio oficial de venta al público exceda de $50,000.00.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-160.- Como modelo debe considerarse el año del modelo o el de fabricación; como marca el nombre comercial del vehículo; y como tipo, las características especiales del mismo.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-161.- Los tenedores o usuarios enterarán el importe en las Recaudaciones de Rentas, dentro del plazo señalado en el Artículo 157.
-
-El tenedor o usuario del vehículo formulará una manifestación, en las formas aprobadas por la Tesorería General del Estado, en la que anotará los siguientes datos:
-
-I.- Nombre y domicilio del causante;
-
-II.- Marca, clase, modelo y tipo de vehículo, y
-
-III.- Cuota que corresponda cubrir conforme al artículo 158 de este Capítulo o cita de la fracción aplicable del artículo 152 en la hipótesis de que esté exento el propietario o usuario del vehículo.
-
-La Tesorería General del Estado por conducto de sus oficinas recaudadoras entregará la calcomanía que compruebe el pago o la exención del impuesto, que sólo servirá para amparar el vehículo para la que fué entregada.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-162.- Las Oficinas de Tránsito del Estado no autorizarán altas ni cambios de placas si el vehículo no ostenta en el parabrisas la calcomanía que compruebe el pago del impuesto, o en su caso la exención del gravamen. Siempre que comprueben que no se ha cubierto el impuesto, lo harán del conocimiento de la Recaudación de Rentas respectiva para que proceda a su cobro. Las autoridades que infrinjan esta disposición serán responsables solidariamente del impuesto omitido.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-163.- Los tenedores o usuarios de los vehículos están obligados a fijar en el parabrisas la calcomanía que compruebe el pago del impuesto. En caso de que por falta de dicha calcomanía no puedan demostrar al ser requeridos para ello, que están al corriente en el pago del impuesto, se procederá en los términos del artículo 337.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-164.- El hecho de no fijarse en el vehículo la calcomanía que compruebe el pago del impuesto como se establece en el artículo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-165.- El pago del impuesto respecto de cada ejercicio fiscal y del anterior, se comprobará exclusivamente con la calcomanía fijada en el vehículo en la forma que prescribe el artículo 163, salvo que haya sido destruída, caso en el que el pago del impuesto se acreditará de acuerdo con las reglas que expida la Tesorería General del Estado.
-
-El correspondiente a años anteriores, se comprobará con las copias de las manifestaciones formuladas por los tenedores o usuarios conforme al Artículo 161, en las que las oficinas recaudadoras hagan constar los pagos, con la indicación de los datos de control de los ingresos respectivos.
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-#### SECCION TERCERA. EXENCIONES
-
-105.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-106.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-107.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION CUARTA. PAGO
-
-108.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-109.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-110.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION QUINTA. AVALUOS
+#### SECCION QUINTA (SIC). AVALUOS
 
 111.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN P.O. 18 DE NOVIEMBRE DE 1995, LAS DISPOSICIONES DE LA PRESENTE SECCION SERAN APLICABLES DE MANERA SUPLETORIA, HASTA EN TANTO SE EXPIDA EL REGLAMENTO DE LA LEY EN MENCION.</small>
-
-### CAPITULO IV. IMPUESTO SOBRE NOMINAS
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-DEL OBJETO
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-166.- Son objeto de este impuesto los egresos en efectivo o en especie, que habitual o accidentalmente se realicen por concepto de remuneración al trabajo personal, prestado bajo la subordinación a un patrón, siempre y cuando se generen dentro del Territorio del Estado o los perciban personas domiciliadas en el mismo.
-
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, todas las contraprestaciones cualquiera que sea el nombre con el que se les designe, ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, primas, gratificaciones, rendimientos y otros conceptos análogos que se deriven de una relación laboral.
-
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-DEL SUJETO
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-167.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen pagos por concepto de remuneración al trabajo personal en los términos a que se refiere el artículo anterior.
-
-DE LA BASE
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-168.- Se tomará como base para la aplicación de este gravamen el monto total de los pagos a que se refiere el artículo 166.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-DE LA TASA
-
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989) (F. DE E., P.O. 13 DE ENERO DE 1990)
-
-169.- El impuesto se causará aplicando a la base que señala el Artículo 168, la tasa que corresponda, de acuerdo al equivalente con las unidades de Salario Mínimo General elevado al mes que rija en la zona del domicilio del contribuyente, conforme a la siguiente tarifa:
-
-Hasta 15 salarios mínimos 1%
-
-Más de 15 hasta 45 salarios mínimos 1.25%
-
-Más de 45 hasta 75 salarios mínimos 1.50%
-
-Más de 75 hasta 120 salarios mínimos 1.75%
-
-Más de 120 salarios mínimos 2%
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
-
-170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Dirección General de Finanzas del Estado, debiendo anexarse copia de la declaración del pago provisional del impuesto sobre la renta.
-
-DE LAS EXENCIONES
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
-
-171.- Están exentas del pago de este impuesto las erogaciones que se cubran por concepto de:
-
-a).- Participación de los trabajadores en las utilidades de las empresas;
-
-b).- Indemnizaciones por riesgos y enfermedades profesionales;
-
-c).- Pagos por jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
-
-d).- Indemnizaciones por cese o separación;
-
-e).- Pagos por gastos funerarios,
-
-f).- Pagos por primas de antigüedad;
-
-g).- Gastos de representación y viáticos que reúnan los mismos requisitos que para su deducibilidad requiera la Ley del Impuesto sobre la Renta;
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-h) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs(sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-i) Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
-
-172.- La Dirección General de Finanzas y Administración podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el Artículo 23 de este Código.
-
-173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
-
-174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)(REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 1994)</small>
-
-### CAPITULO V. IMPUESTO SOBRE EJERCICIOS LUCRATIVOS
-
-### CAPITULO VI. IMPUESTO SOBRE ARRENDAMIENTO Y SUB-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-186.- Es objeto de este impuesto el ingreso que se estipule por concepto de arrendamiento y sub-arrrendamiento de bienes muebles o inmuebles ubicados dentro del Estado.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-187.- Son sujetos de este impuesto las personas físicas o morales, civiles o mercantiles, que obtengan ingresos gravados en este capítulo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-188.- El impuesto sobre dichos ingresos se determinará tomando en cuenta el importe de las rentas mensuales estipuladas en el contrato, independientemente de la forma en que se pacten los pagos. El impuesto se causará a razón del 1% sobre el ingreso mensual.
-
-Están exentos del pago de este impuesto quienes perciban rentas mensuales inferiores a $200.00 por cada unidad o departamento, siempre que éstos no excedan de diez.
-
-189.- Los causantes de este impuesto están obligados a registrar los contratos de arrendamiento en la Recaudación de Rentas que corresponda, dentro de los quince días naturales siguientes a la fecha de su celebración.
-
-Así mismo, deberán dar aviso de las modificaciones o rescisiones de contratos dentro de los quince días naturales siguientes a la fecha en que éstas ocurran.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-190.- El impuesto se pagará por adelantado, de conformidad con las siguientes reglas:
-
-I.- Si el contrato es por tiempo definido que no exceda de un año, se cubrirá por el importe de las rentas correspondientes al tiempo estipulado. Si excede de un año, se pagará por anualidades que vencerán el 31 de diciembre.
-
-II.- Si el contrato es por término indefinido, se cubrirá por el importe de las rentas correspondientes al período que falte para terminar el año natural en que se celebre el contrato; concluido este período, si el contrato continúa en vigor deberá pagarse nuevamente el gravamen por cada año que transcurra, precisamente en el mes de Enero.
-
-III.- Tratándose de predios rústicos, los arrendatarios tienen responsabilidad solidaria en el pago del gravamen.
 
 #### SECCION SEXTA. CATASTRO
 
@@ -1699,6 +1393,102 @@ A la manifestación anterior deberá adjuntarse plano catastral, permiso de cons
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
+### CAPITULO II. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+132.- Es objeto de este impuesto la adquisición de la propiedad, por cualquier título o causa, de vehículos automotores y de otros bienes muebles usados que se realice o surta sus efectos en el territorio del Estado, a excepción de los enajenados por empresas en los términos de la Ley del Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+133.- En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+134.- Son sujetos de este impuesto quienes adquieran el dominio de bienes muebles, en los términos a que se refiere el Artículo 132.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores que fijará anualmente la Dirección General de Finanzas y Administración o el valor resultante del avalúo que al efecto practique.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+136.- El impuesto se causará aplicando la tasa del 2% a la base señalada en el Artículo anterior por la adquisición de toda clase de automóviles, camiones y demás vehículos de motor usados y en general por cualquier otro bien mueble usado.
+
+Quedan exceptuados del pago de este impuesto las adquisiciones que efectúen los distribuidores de automóviles autorizados en el Estado y los comerciantes en el ramo de vehículos.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+137.- El impuesto establecido en este capítulo deberá pagarse dentro de los 15 días hábiles siguientes a la fecha de adquisición del vehículo, en las oficinas recaudadoras correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+138.- Son responsables solidarios del pago de este impuesto:
+
+I.- Los adquirientes, aun tratándose de los sujetos exentos del pago de este impuesto, por los créditos fiscales que se adeuden con motivo de operaciones celebradas con anterioridad.
+
+II.- Quienes transmitan la propiedad, cuando los adquirientes no cumplan con la obligación señalada en el artículo anterior.
+
+III.- Los servidores públicos que en ejercicio de sus funciones autoricen el cambio de propietario de un vehículo, sin cerciorarse del pago del impuesto y
+
+IV.- Los consignatarios o comisionistas en cualquier operación de adquisición de vehículos automotores usados.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+139.- Cuando en las operaciones que se lleven a cabo con motivo de la adquisición de vehículos automotores u otros bienes muebles usados, intervengan personas domiciliadas fuera del Estado, el impuesto será retenido y enterado por aquella que sea residente del mismo, que haya intervenido o sea intermediario en la operación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO II-BIS. IMPUESTO SOBRE LOTERIAS, RIFAS Y SORTEOS
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+140.- Son objeto de este impuesto los ingresos percibidos por la obtención de premios, derivados de la participación en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, independiente de donde se celebre el evento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+141.- Son sujetos de este impuesto las personas físicas o morales, que compran o adquieran en el territorio del Estado, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los respectivos eventos y que resulten premiados, independientemente del lugar donde se celebre el evento. Las personas o instituciones que organicen o celebren los eventos correspondientes, están obligados a retener el impuesto que se cause.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+142.- La base para el cálculo del impuesto se integra con el valor total determinado o determinable del premio que se obtenga. Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+143.- El monto del impuesto se calculará aplicando a la base gravable a que alude el artículo anterior la tasa del 6%.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+144.- El impuesto se causará en el momento en que se pague el premio respectivo, independientemente del lugar donde se realiza el evento.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+145.- Los retenedores efectuarán el pago del impuesto a más tardar el día 15 del mes siguiente a aquel al que corresponda el pago, presentándose la declaración aprobada en la oficina recaudadora que corresponda. Dicho pago se entenderá como definitivo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+146.- Los retenedores de este impuesto tendrán las siguientes obligaciones:
+
+1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes, utilizando las formas aprobadas para tales efectos; las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo.
+
+2.- Presentar ante la Recaudación de Rentas que corresponda, los avisos y declaraciones a que se encuentren obligados, dentro de los plazos establecidos para tales efectos.
+
+3.- Retener y enterar el impuesto que se cause conforme a estas disposiciones.
+
+4.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite la documentación comprobatoria de los eventos realizados y del pago del impuesto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+147.- Los retenedores de este impuesto están obligados a enterar una cantidad equivalente a la que debieron retener conforme a esta ley, aún cuando no hubieren efectuado la retención.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+148.- El Gobierno Federal, el del Distrito Federal, los Gobiernos de los Estados, los Municipios, el Patronato de Ahorro Nacional, la Lotería Nacional y Pronósticos Deportivos para la Asistencia Pública y los Partidos Políticos; así como las instituciones de asistencia privada, instituciones educativas y las de beneficencia social, retendrán y enterarán el impuesto que se cause por la obtención de premios que se entreguen, a quienes compren o adquieran en el territorio del Estado los billetes, boletos, contraseñas o cualquier otro comprobante que les permita participar en los correspondientes eventos.
+
+En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
+
+N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
+
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
@@ -1765,6 +1555,242 @@ VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales 
 
 182.- Las declaraciones de los causantes serán revisables por la Dirección General de Finanzas y Administración del Estado, cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
 
+### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+149.- El objeto de este impuesto es la tenencia o uso de automóviles y camiones.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+150.- Son sujetos del impuesto las personas físicas o morales tenedoras o usuarios de los vehículos a que se refiere el artículo anterior.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+151.- Las plantas ensambladoras, sus distribuidores y los demás comerciantes en el ramo de automóviles, causarán el impuesto por los vehículos que estando registrados en las Oficinas de Tránsito a su nombre, estén al servicio de la negociación o de sus funcionarios y empleados.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
+
+I.- Modelos anteriores en 12 años o más al de la aplicación de la Ley;
+
+II.- Los que circulen con placas de servicio público de transportes;
+
+III.- Los que estén al servicio de los Cuerpos Diplomáticos y Consulares extranjeros acreditados ante nuestro País;
+
+IV.- Las ambulancias que estén al servicio de la Federación, Estados, Municipios, Organismos descentralizados dependientes de cualquiera de esas Entidades o Instituciones y Asociaciones de Beneficencia Pública y Privada, y
+
+V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de automóviles, siempre que carezcan de placas de circulación.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+153.- A los vehículos comprendidos en la fracción III del artículo anterior, se les expedirá un oficio de exención del tributo y una calcomanía especial diferentes a la de los vehículos por los que se haya cubierto el gravamen, previa comprobación por parte de la Tesorería General del Estado de que los mismos quedan comprendidos dentro del supuesto de esa fracción.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+154.- Los tenedores o usuarios de vehículos que por cualquier motivo dejen de estar comprendidos en alguna de las fracciones del artículo 152, causarán el impuesto correspondiente, el cual se cubrirá dentro de los 15 días siguientes al cambio de situación.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+155.- Quienes por cualquier título adquieran la propiedad, la tenencia o uso de vehículos sujetos al impuesto, son solidariamente responsables del pago que por concepto de tal impuesto se adeudare respecto del vehículo o vehículos materia del traspaso de la propiedad, de la tenencia o del uso; aunque como consecuencia del traspaso y del servicio a que los vehículos se destinen, queden comprendidos en las fracciones I, II y V del artículo 152.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+158.- El impuesto se causará en efectivo conforme a la siguiente
+
+TARIFA:
+
+CATEGORIA
+
+MODELO 1 2 3
+
+A.- Del año de la aplicación de
+
+la Ley $300.00 $500.00 $750.00
+
+B.- De un año anterior al de la
+
+aplicación de la Ley "275.00 "400.00 "600.00
+
+C.- De dos años anteriores al de
+
+la aplicación de la Ley "250.00 "300.00 "400.00
+
+D.- De tres años anteriores al de
+
+la aplicación de la Ley "200.00 "300.00 "400.00
+
+E.- De cuatro años anteriores al de
+
+la aplicación de la Ley "200.00 "250.00 "350.00
+
+F.- De cinco años anteriores al de
+
+la aplicación de la Ley "150.00 "200.00 "300.00
+
+G.- De seis años anteriores al de
+
+la aplicación de la Ley "150.00 "150.00 "200.00
+
+H.- Del séptimo al décimo primer
+
+año anteriores al de la aplicación
+
+de la Ley "150.00 "150.00 "150.00
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
+
+I.- Primera categoría: Comprende vehículos cuyo precio oficial de venta al público sea hasta de $35,000.00.
+
+II.- Segunda categoría: Comprende vehículos cuyo precio oficial de venta al público esté comprendido entre $35,000.01 a $50,000.00.
+
+III.- Tercera categoría: Comprende vehículos cuyo precio oficial de venta al público exceda de $50,000.00.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+160.- Como modelo debe considerarse el año del modelo o el de fabricación; como marca el nombre comercial del vehículo; y como tipo, las características especiales del mismo.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+161.- Los tenedores o usuarios enterarán el importe en las Recaudaciones de Rentas, dentro del plazo señalado en el Artículo 157.
+
+El tenedor o usuario del vehículo formulará una manifestación, en las formas aprobadas por la Tesorería General del Estado, en la que anotará los siguientes datos:
+
+I.- Nombre y domicilio del causante;
+
+II.- Marca, clase, modelo y tipo de vehículo, y
+
+III.- Cuota que corresponda cubrir conforme al artículo 158 de este Capítulo o cita de la fracción aplicable del artículo 152 en la hipótesis de que esté exento el propietario o usuario del vehículo.
+
+La Tesorería General del Estado por conducto de sus oficinas recaudadoras entregará la calcomanía que compruebe el pago o la exención del impuesto, que sólo servirá para amparar el vehículo para la que fué entregada.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+162.- Las Oficinas de Tránsito del Estado no autorizarán altas ni cambios de placas si el vehículo no ostenta en el parabrisas la calcomanía que compruebe el pago del impuesto, o en su caso la exención del gravamen. Siempre que comprueben que no se ha cubierto el impuesto, lo harán del conocimiento de la Recaudación de Rentas respectiva para que proceda a su cobro. Las autoridades que infrinjan esta disposición serán responsables solidariamente del impuesto omitido.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+163.- Los tenedores o usuarios de los vehículos están obligados a fijar en el parabrisas la calcomanía que compruebe el pago del impuesto. En caso de que por falta de dicha calcomanía no puedan demostrar al ser requeridos para ello, que están al corriente en el pago del impuesto, se procederá en los términos del artículo 337.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+164.- El hecho de no fijarse en el vehículo la calcomanía que compruebe el pago del impuesto como se establece en el artículo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
+
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+165.- El pago del impuesto respecto de cada ejercicio fiscal y del anterior, se comprobará exclusivamente con la calcomanía fijada en el vehículo en la forma que prescribe el artículo 163, salvo que haya sido destruída, caso en el que el pago del impuesto se acreditará de acuerdo con las reglas que expida la Tesorería General del Estado.
+
+El correspondiente a años anteriores, se comprobará con las copias de las manifestaciones formuladas por los tenedores o usuarios conforme al Artículo 161, en las que las oficinas recaudadoras hagan constar los pagos, con la indicación de los datos de control de los ingresos respectivos.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+### CAPITULO IV. IMPUESTO SOBRE NOMINAS
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+DEL OBJETO
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+166.- Son objeto de este impuesto los egresos en efectivo o en especie, que habitual o accidentalmente se realicen por concepto de remuneración al trabajo personal, prestado bajo la subordinación a un patrón, siempre y cuando se generen dentro del Territorio del Estado o los perciban personas domiciliadas en el mismo.
+
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, todas las contraprestaciones cualquiera que sea el nombre con el que se les designe, ordinarias o extraordinarias, incluyendo sobresueldos, viáticos, gastos de representación, comisiones, primas, gratificaciones, rendimientos y otros conceptos análogos que se deriven de una relación laboral.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+DEL SUJETO
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+167.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen pagos por concepto de remuneración al trabajo personal en los términos a que se refiere el artículo anterior.
+
+DE LA BASE
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+168.- Se tomará como base para la aplicación de este gravamen el monto total de los pagos a que se refiere el artículo 166.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+DE LA TASA
+
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989) (F. DE E., P.O. 13 DE ENERO DE 1990)
+
+169.- El impuesto se causará aplicando a la base que señala el Artículo 168, la tasa que corresponda, de acuerdo al equivalente con las unidades de Salario Mínimo General elevado al mes que rija en la zona del domicilio del contribuyente, conforme a la siguiente tarifa:
+
+Hasta 15 salarios mínimos 1%
+
+Más de 15 hasta 45 salarios mínimos 1.25%
+
+Más de 45 hasta 75 salarios mínimos 1.50%
+
+Más de 75 hasta 120 salarios mínimos 1.75%
+
+Más de 120 salarios mínimos 2%
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Dirección General de Finanzas del Estado, debiendo anexarse copia de la declaración del pago provisional del impuesto sobre la renta.
+
+DE LAS EXENCIONES
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+
+171.- Están exentas del pago de este impuesto las erogaciones que se cubran por concepto de:
+
+a).- Participación de los trabajadores en las utilidades de las empresas;
+
+b).- Indemnizaciones por riesgos y enfermedades profesionales;
+
+c).- Pagos por jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+
+d).- Indemnizaciones por cese o separación;
+
+e).- Pagos por gastos funerarios,
+
+f).- Pagos por primas de antigüedad;
+
+g).- Gastos de representación y viáticos que reúnan los mismos requisitos que para su deducibilidad requiera la Ley del Impuesto sobre la Renta;
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+h) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs(sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+i) Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+172.- La Dirección General de Finanzas y Administración podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el Artículo 23 de este Código.
+
+173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
+
+174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)(REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 1994)</small>
+
+### CAPITULO V. IMPUESTO SOBRE EJERCICIOS LUCRATIVOS
+
 #### SECCION CUARTA. OBLIGACIONES DE TERCEROS
 
 183.- Quienes hagan pagos a causantes del impuesto que establece este capítulo están obligados:
@@ -1776,8 +1802,6 @@ II.- A exigir que los causantes habituales de este tributo establezcan en los re
 Si los causantes no cumplen con los requisitos que establece el párrafo anterior, los terceros retendrán el importe del impuesto enterándolo en la Recaudación de Rentas respectiva. Si no lo hicieren se harán acreedores a la sanción establecida en el artículo 93 Segundo Grupo de este Código.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
@@ -1815,8 +1839,6 @@ Los causantes de este impuesto están obligados a presentar para su registro, en
 
 196.- Para los efectos del pago del impuesto se considera que las cantidades abonadas por el deudor o que en cualquiera otra forma obtenga el acreedor por concepto de pago total o parcial del adeudo, se aplican en primer término al pago de los productos o rendimientos del capital invertido.
 
-### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
-
 #### SECCION TERCERA. RESPONSABILIDAD DE TERCEROS
 
 197.- Están obligados a retener el impuesto las personas que hagan pagos de los gravados en este capítulo a contribuyentes radicados dentro o fuera del Estado.
@@ -1830,6 +1852,36 @@ Las personas que efectúen retenciones harán los enteros relativos en el plazo 
 200.- Los jueces del Estado están obligados a remitir a las Recaudaciones de Rentas correspondientes, dentro de los diez días siguientes a la fecha en que sean dictadas, una copia certificada de las sentencias ejecutoriadas en las que se condene el pago de alguno o algunos de los conceptos gravados en este Capítulo.
 
 La Tesorería General del Estado está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
+
+### CAPITULO VI. IMPUESTO SOBRE ARRENDAMIENTO Y SUB-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+186.- Es objeto de este impuesto el ingreso que se estipule por concepto de arrendamiento y sub-arrrendamiento de bienes muebles o inmuebles ubicados dentro del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+187.- Son sujetos de este impuesto las personas físicas o morales, civiles o mercantiles, que obtengan ingresos gravados en este capítulo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+188.- El impuesto sobre dichos ingresos se determinará tomando en cuenta el importe de las rentas mensuales estipuladas en el contrato, independientemente de la forma en que se pacten los pagos. El impuesto se causará a razón del 1% sobre el ingreso mensual.
+
+Están exentos del pago de este impuesto quienes perciban rentas mensuales inferiores a $200.00 por cada unidad o departamento, siempre que éstos no excedan de diez.
+
+189.- Los causantes de este impuesto están obligados a registrar los contratos de arrendamiento en la Recaudación de Rentas que corresponda, dentro de los quince días naturales siguientes a la fecha de su celebración.
+
+Así mismo, deberán dar aviso de las modificaciones o rescisiones de contratos dentro de los quince días naturales siguientes a la fecha en que éstas ocurran.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+190.- El impuesto se pagará por adelantado, de conformidad con las siguientes reglas:
+
+I.- Si el contrato es por tiempo definido que no exceda de un año, se cubrirá por el importe de las rentas correspondientes al tiempo estipulado. Si excede de un año, se pagará por anualidades que vencerán el 31 de diciembre.
+
+II.- Si el contrato es por término indefinido, se cubrirá por el importe de las rentas correspondientes al período que falte para terminar el año natural en que se celebre el contrato; concluido este período, si el contrato continúa en vigor deberá pagarse nuevamente el gravamen por cada año que transcurra, precisamente en el mes de Enero.
+
+III.- Tratándose de predios rústicos, los arrendatarios tienen responsabilidad solidaria en el pago del gravamen.
 
 #### SECCION CUARTA. EXENCIONES
 
@@ -1931,7 +1983,7 @@ IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o 
 
 211.- En todas las operaciones gravadas por este capítulo en que intervengan personas físicas o morales no empadronadas para el pago del Impuesto, será responsable del pago el enajenante y solidariamente el adquiriente de los bienes o servicios.
 
-### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
+### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION TERCERA. GRUPOS Y TASAS
 
@@ -2171,6 +2223,8 @@ Este artículo tiene como excepción lo dispuesto por el artículo 231.
 
 228.- Las declaraciones de los causantes serán revisables en cualquier tiempo en los términos del artículo 239, y cuando aparezca que no se manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias que corresponda, sin perjuicio de las sanciones a que haya lugar.
 
+### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
+
 #### SECCION SEPTIMA. OBLIGACIONES DE LOS CAUSANTES
 
 229.- Son obligaciones de los causantes:
@@ -2337,8 +2391,6 @@ IX.- Por cada cabeza de cabrito con edad
 
 máxima de 30 días "1.50
 
-### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
-
 #### SECCION TERCERA. PAGO
 
 244.- El impuesto se causará por cada cabeza de ganado y por una sola vez, en la última operación que con él se realice dentro del Estado.
@@ -2407,6 +2459,8 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 
 255.- La base de este impuesto será el valor de los productos, según las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado para cada zona productora.
 
+### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
+
 #### SECCION SEGUNDA. TASA, PAGO Y OBLIGACIONES
 
 256.- A los ingresos totales que se perciban con motivo de operaciones comerciales efectuadas con el algodón y su semilla, se les aplicará la tasa del 3%.
@@ -2440,24 +2494,6 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 259.- Es solidariamente responsable del pago del impuesto el adquirente.
 
 260.- Los causantes y los terceros que intervengan en toda clase de operaciones gravadas por este Capítulo, que infrinjan las disposiciones contenidas en el mismo, se harán acreedores a las sanciones previstas en el capítulo VII del Título Segundo de este libro.
-
-### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
-
-261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
-
-262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
-
-263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
-
-265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
 
 #### SECCION PRIMERA. IMPUESTO SOBRE PRODUCCION DE BEBIDAS ALCOHOLICAS
 
@@ -2695,86 +2731,6 @@ i).- Los salones destinados al alquiler para la celebración de reuniones social
 
 292.- La facultad para declarar que se ha cometido una infracción y para imponer las sanciones que corresponden, es de la Tesorería General del Estado. La aplicación de las sanciones, se hará sin perjuicio del cobro de los impuestos o derechos omitidos.
 
-### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
-
-### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
-
-303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
-
-304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-305.- El impuesto se causará de acuerdo con la siguiente tarifa:
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $0.75 por cada un mil pesos o fracción.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $0.75% por cada un mil pesos o fracción.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
-
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante notario o ante autoridad judicial, pagará el equivalente al 85% (ochenta y cinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado. En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se entregará al apéndice del protocolo correspondiente: en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro del registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado, si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
-
-VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará el equivalente al 12.5% (ciento veinticinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-306.- No causan el impuesto:
-
-I.- Los actos del estado civil.
-
-II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
-
-III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
-
-IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
-
-V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
-
-VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
-
-VIII.- Los que consignen la resolución de actos jurídicos.
-
-IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
-
-X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
-
-XI.- Los actos en que se consignen disposiciones testamentarias.
-
-XII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del Artículo 305.
-
-307.- Los causantes, tratándose de escrituras privadas están obligados:
-
-I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
-
-II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
-
 #### SECCION TERCERA. IMPUESTO SOBRE VENTA DE ALCOHOL
 
 OBJETO Y SUJETO DEL IMPUESTO
@@ -2844,6 +2800,8 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
@@ -3199,6 +3157,236 @@ También procederá la venta fuera de subasta, cuando el embargado señale al pr
 
 En caso de que los deudores de prestaciones fiscales tengan su residencia fuera del Estado, podrá el Tesorero General hacer efectivos los créditos fiscales mediante juicio ejecutivo civil que promoverá ante los Juzgados de Primera Instancia Civiles de la Ciudad de Chihuahua. En estos casos, la liquidación que formule la autoridad fiscal, se considerará un título ejecutivo.
 
+### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
+
+261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
+
+262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
+
+263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
+
+265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
+
+### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
+
+#### SECCION TERCERA. TERCERIAS
+
+382.- Cuando se hubieren embargado bienes propiedad de tercero que no tenga responsabilidad solidaria en el adeudo por el que se siga el procedimiento de ejecución, podrá promoverse ante la autoridad ejecutora que siga dicho procedimiento, en cualquier tiempo, mientras no se haya fincado el remate, tercería excluyente de dominio.
+
+La tercería excluyente de dominio sólo podrá fundarse en la propiedad que tenga el tercerista sobre los bienes embargados, pero si se trata de inmuebles deberán además estar inscritos en el Registro Público de la Propiedad.
+
+383.- La persona que tenga derecho preferente al de la Tesorería General del Estado, para ser pagada con el producto del remate, podrá promover ante la autoridad ejecutora que lo haya practicado, tercería de preferencia, siempre que no se haya aplicado dicho producto al pago del crédito fiscal.
+
+384.- Las tercerías deberán promoverse por escrito ante la autoridad ejecutora, acompañando el título que compruebe la propiedad de los bienes objeto del embargo, tratándose de tercería excluyente de dominio, o los que acrediten el derecho preferente del tercerista para ser pagado con el producto del remate.
+
+Recibido el escrito y examinadas las pruebas que el tercerista ofrezca en el mismo para acreditar el derecho que cita, y que en ningún caso podrán consistir en la confesión del ejecutado recibida con posterioridad al nacimiento del crédito fiscal y que, en su caso, se calificará discrecionalmente conforme a las disposiciones del Código de Procedimientos Civiles del Estado; la autoridad ejecutora dictará la resolución que corresponda en un término no mayor de diez días hábiles, contados a partir de la fecha en la que se hubiere promovido la tercería.
+
+385.- Si la resolución dictada en la tercería excluyente de dominio reconoce la propiedad de los bienes a favor del tercerista, ordenará que se levante el embargo, se entreguen los bienes en caso de que hayan sido depositados por la autoridad fiscal, y se embarguen otros bienes del deudor suficientes para cubrir el crédito fiscal.
+
+Si se declara improcedente la tercería, se ordenará que continúe el procedimiento de ejecución.
+
+386.- Si se trata de tercerías de preferencia y la resolución que en ella se dicte reconoce el derecho preferente del tercerista para ser pagado con el producto del remate, se mandará que al efectuarse se cubra en primer lugar el crédito del tercerista y el remanente, si lo hay, se aplique para cubrir el crédito fiscal.
+
+Si dicho remanente no es suficiente para cubrir el crédito fiscal, se ordenará que se embarguen nuevos bienes del deudor que sean suficientes para cubrirlo.
+
+387.- Los promoventes de tercería excluyentes de dominio, podrán señalar otros bienes del deudor libres de todo gravamen y suficientes para responder del adeudo fiscal.
+
+Si se prueba que los bienes señalados son propiedad del deudor y bastan para cubrir el crédito fiscal, la autoridad ejecutora podrá ordenar que se embarguen y que se levante el secuestro de los que el tercerista sostiene que son de su propiedad.
+
+388.- En las tercerías excluyentes de dominio se suspenderá la diligencia de remate si el tercerista asegura el interés fiscal a satisfacción de la autoridad ejecutora, en cualquiera de las formas que señala el Artículo 63.
+
+389.- Las autoridades del Estado no fiscales y las municipales, en ningún caso podrán sacar a remate bienes embargados por las oficinas fiscales.
+
+Los remates que se lleven a cabo en contravención a lo dispuesto en el párrafo anterior, serán nulos de pleno derecho y las adjudicaciones que en ellos se hagan carecerán de todo valor y eficacia jurídica.
+
+Las citadas autoridades locales no fiscales y municipales, podrán embargar el remanente que resulte del producto del remate, después de cubierto el crédito fiscal del Estado.
+
+390.- Si al designarse determinados bienes para el secuestro administrativo se opusiere un tercero fundándose en el dominio sobre ellos, no se practicará el embargo si demuestra en el mismo acto su propiedad con prueba documental suficiente a juicio del ejecutor, en cuyo caso los documentos exhibidos se acompañarán al acta que se levante a fin de que la autoridad ejecutora confirme o revoque la decisión del ejecutor.
+
+Cuando la autoridad ejecutora encuentre que los documentos presentados por el tercerista no bastan para acreditar su derecho de propiedad, ordenará inmediatamente al ejecutor que trabe embargo sobre los bienes objeto de la operación y que notifique en la misma diligencia de embargo al opositor, para que, si conviene a sus derechos, ejercite en forma la tercería excluyente de dominio.
+
+391.- Para que pueda cumplirse la resolución dictada por la autoridad ejecutora en una tercería, sea excluyente de dominio o de preferencia, es necesario, en todo caso que, previa revisión del expediente respectivo, la apruebe el Tesorero General del Estado.
+
+392.- Si la resolución del Tesorero General del Estado es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
+
+#### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+
+393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
+
+La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+398.- El Supremo Tribunal de Justicia del Estado conocerá en única instancia de los juicios de oposición.
+
+La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por riguroso turno, en la forma y términos que especifica este Código.
+
+399.- Los magistrados del Supremo Tribunal de Justicia del Estado, no podrán ser recursados (sic) sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+400.- Serán partes en el procedimiento:
+
+I.- El actor, que podrá ser, según el caso, el Tesorero General o el particular afectado con el acto.
+
+II.- El demandado, teniendo tal carácter:
+
+a).- La Autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
+
+b).- El particular a quien favorezca la resolución, cuya nulidad pida el Tesorero General.
+
+III.- El tercero que aparezca como titular de un derecho incompatible con el que pretenda el actor.
+
+IV.- El Tesorero General del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando sea actor ni demandado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+401.- Las autoridades que figuren como parte en los juicios de oposición, podrán acreditar delegados con facultades para ofrecer y rendir pruebas, interponer recursos y para alegar.
+
+402.- Las mismas facultades tendrá el abogado patrono que el particular autorice para oír notificaciones.
+
+403.- Las diligencias que deban practicarse fuera del local de la Sala, podrán encomendarse a los Secretarios de las mismas, o al Juez de Primera Instancia o Menor de la circunscripción, salvo cuando se trate de inspección judicial que deba de realizarse dentro de la Ciudad de Chihuahua.
+
+404.- En los juicios de oposición no habrá condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes.
+
+405.- Toda promoción será firmada por quien la formule y sin éste requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en que se aplicará el derecho común.
+
+En el juicio de oposición no procederá la gestión de negocios.
+
+406.- Los juicios de oposición se substanciarán y resolverán con arreglo al procedimiento que determina este Código. A falta de disposición expresa se aplicarán las disposiciones del Código de Procedimientos Civiles del Estado.
+
+#### SECCION SEGUNDA. NOTIFICACIONES Y TERMINOS
+
+407.- Toda resolución debe ser notificada dentro de las veinticuatro horas siguientes a la en que fuere dictada y se asentará la razón respectiva en el expediente a que pertenezca, inmediatamente después de la resolución misma.
+
+408.- Las notificaciones se harán:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+I.- A las autoridades fiscales por oficio con acuse de recibo, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+II.- Personalmente a los particulares, en la forma señalada por el Código de Procedimientos Civiles del Estado, o por correo registrado con acuse de recibo, cuando se trate de alguna de las siguientes resoluciones:
+
+a).- La que deseche la demanda;
+
+b).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+
+c).- La de sobreseimiento y la de la sentencia;
+
+d).- La que mande citar a un tercero, por lo que a éste se refiere;
+
+e).- El requerimiento de un acto a la parte que deba cumplirlo;
+
+f).- En cualquier otro caso, si así lo ordena la Sala.
+
+III.- Fuera de los casos señalados en la fracción anterior las notificaciones se harán personalmente en la Sala a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y si no se presentan con oportunidad por lista autorizada que se fijará en sitio visible, al día siguiente del acuerdo.
+
+409.- Las notificaciones surtirán sus efectos al día hábil siguiente al en que se haya hecho la notificación personal, entregado el oficio que contenga copia de la resolución que se notifica, por el empleado del Tribunal o por el correo, o fijado la lista respectiva.
+
+410.- Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse resolución que ponga fin al negocio, para que se reponga el procedimiento desde el punto en que se incurrió en la violación correspondiente.
+
+Este incidente, que se considerará como de especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán sus alegatos que no excederán de media hora cada uno, y se dictará la resolución que fuere procedente.
+
+Las promociones de nulidad notoriamente infundadas se desecharán de plano.
+
+411.- Los términos serán improrrogables y su cómputo se sujetará a las reglas siguientes:
+
+I.- Se incluirá en ellos el día del vencimiento y empezará a correr el día siguiente al en que surta efectos la notificación, pero si fueren varias las partes los términos comunes correrán desde el día siguiente a la fecha en que haya surtido sus efectos la notificación a la última de ellas;
+
+II.- Se contarán los días naturales, excluyendo los inhábiles y aquellos en los que se suspendan las labores del Tribunal;
+
+III.- Los términos serán comunes con excepción de los que se conceden para la interposición de recursos y para contestar la demanda.
+
+### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
+
+303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
+
+304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+305.- El impuesto se causará de acuerdo con la siguiente tarifa:
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $0.75 por cada un mil pesos o fracción.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $0.75% por cada un mil pesos o fracción.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
+
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante notario o ante autoridad judicial, pagará el equivalente al 85% (ochenta y cinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado. En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se entregará al apéndice del protocolo correspondiente: en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro del registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado, si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
+
+VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará el equivalente al 12.5% (ciento veinticinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+306.- No causan el impuesto:
+
+I.- Los actos del estado civil.
+
+II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
+
+III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
+
+IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
+
+V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
+
+VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
+
+VIII.- Los que consignen la resolución de actos jurídicos.
+
+IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
+
+X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
+
+XI.- Los actos en que se consignen disposiciones testamentarias.
+
+XII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del Artículo 305.
+
+307.- Los causantes, tratándose de escrituras privadas están obligados:
+
+I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
+
+II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
+
 ### CAPITULO XIV. DERECHOS
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
@@ -3489,6 +3677,10 @@ B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de increm
 
 317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
 
+# LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
+
+## TITULO PRIMERO. PROCEDIMIENTO ADMINISTRATIVO
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
@@ -3535,213 +3727,7 @@ Finalmente, desde la fecha en que el interesado o su representante manifiesten q
 
 Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que prevee (sic) este Código, será improcedente la solicitud de nulidad de actuaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
 
-# LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
-
-## TITULO PRIMERO. PROCEDIMIENTO ADMINISTRATIVO
-
 ### CAPITULO II. PROCEDIMIENTO DE EJECUCION
-
-### CAPITULO I. MEDIOS DE IMPUGNACION
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
-
-El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
-
-395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
-
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
-
-II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
-
-1o.- Que el crédito que se le exige se ha extinguido legalmente;
-
-2o.- Que el monto del crédito es inferior al exigido;
-
-3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
-
-4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
-
-5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
-
-IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
-
-#### SECCION TERCERA. TERCERIAS
-
-382.- Cuando se hubieren embargado bienes propiedad de tercero que no tenga responsabilidad solidaria en el adeudo por el que se siga el procedimiento de ejecución, podrá promoverse ante la autoridad ejecutora que siga dicho procedimiento, en cualquier tiempo, mientras no se haya fincado el remate, tercería excluyente de dominio.
-
-La tercería excluyente de dominio sólo podrá fundarse en la propiedad que tenga el tercerista sobre los bienes embargados, pero si se trata de inmuebles deberán además estar inscritos en el Registro Público de la Propiedad.
-
-383.- La persona que tenga derecho preferente al de la Tesorería General del Estado, para ser pagada con el producto del remate, podrá promover ante la autoridad ejecutora que lo haya practicado, tercería de preferencia, siempre que no se haya aplicado dicho producto al pago del crédito fiscal.
-
-384.- Las tercerías deberán promoverse por escrito ante la autoridad ejecutora, acompañando el título que compruebe la propiedad de los bienes objeto del embargo, tratándose de tercería excluyente de dominio, o los que acrediten el derecho preferente del tercerista para ser pagado con el producto del remate.
-
-Recibido el escrito y examinadas las pruebas que el tercerista ofrezca en el mismo para acreditar el derecho que cita, y que en ningún caso podrán consistir en la confesión del ejecutado recibida con posterioridad al nacimiento del crédito fiscal y que, en su caso, se calificará discrecionalmente conforme a las disposiciones del Código de Procedimientos Civiles del Estado; la autoridad ejecutora dictará la resolución que corresponda en un término no mayor de diez días hábiles, contados a partir de la fecha en la que se hubiere promovido la tercería.
-
-385.- Si la resolución dictada en la tercería excluyente de dominio reconoce la propiedad de los bienes a favor del tercerista, ordenará que se levante el embargo, se entreguen los bienes en caso de que hayan sido depositados por la autoridad fiscal, y se embarguen otros bienes del deudor suficientes para cubrir el crédito fiscal.
-
-Si se declara improcedente la tercería, se ordenará que continúe el procedimiento de ejecución.
-
-386.- Si se trata de tercerías de preferencia y la resolución que en ella se dicte reconoce el derecho preferente del tercerista para ser pagado con el producto del remate, se mandará que al efectuarse se cubra en primer lugar el crédito del tercerista y el remanente, si lo hay, se aplique para cubrir el crédito fiscal.
-
-Si dicho remanente no es suficiente para cubrir el crédito fiscal, se ordenará que se embarguen nuevos bienes del deudor que sean suficientes para cubrirlo.
-
-387.- Los promoventes de tercería excluyentes de dominio, podrán señalar otros bienes del deudor libres de todo gravamen y suficientes para responder del adeudo fiscal.
-
-Si se prueba que los bienes señalados son propiedad del deudor y bastan para cubrir el crédito fiscal, la autoridad ejecutora podrá ordenar que se embarguen y que se levante el secuestro de los que el tercerista sostiene que son de su propiedad.
-
-388.- En las tercerías excluyentes de dominio se suspenderá la diligencia de remate si el tercerista asegura el interés fiscal a satisfacción de la autoridad ejecutora, en cualquiera de las formas que señala el Artículo 63.
-
-389.- Las autoridades del Estado no fiscales y las municipales, en ningún caso podrán sacar a remate bienes embargados por las oficinas fiscales.
-
-Los remates que se lleven a cabo en contravención a lo dispuesto en el párrafo anterior, serán nulos de pleno derecho y las adjudicaciones que en ellos se hagan carecerán de todo valor y eficacia jurídica.
-
-Las citadas autoridades locales no fiscales y municipales, podrán embargar el remanente que resulte del producto del remate, después de cubierto el crédito fiscal del Estado.
-
-390.- Si al designarse determinados bienes para el secuestro administrativo se opusiere un tercero fundándose en el dominio sobre ellos, no se practicará el embargo si demuestra en el mismo acto su propiedad con prueba documental suficiente a juicio del ejecutor, en cuyo caso los documentos exhibidos se acompañarán al acta que se levante a fin de que la autoridad ejecutora confirme o revoque la decisión del ejecutor.
-
-Cuando la autoridad ejecutora encuentre que los documentos presentados por el tercerista no bastan para acreditar su derecho de propiedad, ordenará inmediatamente al ejecutor que trabe embargo sobre los bienes objeto de la operación y que notifique en la misma diligencia de embargo al opositor, para que, si conviene a sus derechos, ejercite en forma la tercería excluyente de dominio.
-
-391.- Para que pueda cumplirse la resolución dictada por la autoridad ejecutora en una tercería, sea excluyente de dominio o de preferencia, es necesario, en todo caso que, previa revisión del expediente respectivo, la apruebe el Tesorero General del Estado.
-
-392.- Si la resolución del Tesorero General del Estado es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
-
-#### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
-
-393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
-
-La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-398.- El Supremo Tribunal de Justicia del Estado conocerá en única instancia de los juicios de oposición.
-
-La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por riguroso turno, en la forma y términos que especifica este Código.
-
-399.- Los magistrados del Supremo Tribunal de Justicia del Estado, no podrán ser recursados (sic) sin causa en los juicios de oposición, pero deberán excusarse y podrán ser recusados en la forma y términos que señala el Código de Procedimientos Civiles del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-400.- Serán partes en el procedimiento:
-
-I.- El actor, que podrá ser, según el caso, el Tesorero General o el particular afectado con el acto.
-
-II.- El demandado, teniendo tal carácter:
-
-a).- La Autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
-
-b).- El particular a quien favorezca la resolución, cuya nulidad pida el Tesorero General.
-
-III.- El tercero que aparezca como titular de un derecho incompatible con el que pretenda el actor.
-
-IV.- El Tesorero General del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando sea actor ni demandado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-401.- Las autoridades que figuren como parte en los juicios de oposición, podrán acreditar delegados con facultades para ofrecer y rendir pruebas, interponer recursos y para alegar.
-
-402.- Las mismas facultades tendrá el abogado patrono que el particular autorice para oír notificaciones.
-
-403.- Las diligencias que deban practicarse fuera del local de la Sala, podrán encomendarse a los Secretarios de las mismas, o al Juez de Primera Instancia o Menor de la circunscripción, salvo cuando se trate de inspección judicial que deba de realizarse dentro de la Ciudad de Chihuahua.
-
-404.- En los juicios de oposición no habrá condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes.
-
-405.- Toda promoción será firmada por quien la formule y sin éste requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en que se aplicará el derecho común.
-
-En el juicio de oposición no procederá la gestión de negocios.
-
-406.- Los juicios de oposición se substanciarán y resolverán con arreglo al procedimiento que determina este Código. A falta de disposición expresa se aplicarán las disposiciones del Código de Procedimientos Civiles del Estado.
-
-#### SECCION SEGUNDA. NOTIFICACIONES Y TERMINOS
-
-407.- Toda resolución debe ser notificada dentro de las veinticuatro horas siguientes a la en que fuere dictada y se asentará la razón respectiva en el expediente a que pertenezca, inmediatamente después de la resolución misma.
-
-408.- Las notificaciones se harán:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-I.- A las autoridades fiscales por oficio con acuse de recibo, o por oficio y telegrama a la vez en casos urgentes y cuando se trate de resoluciones que exijan cumplimiento inmediato;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-II.- Personalmente a los particulares, en la forma señalada por el Código de Procedimientos Civiles del Estado, o por correo registrado con acuse de recibo, cuando se trate de alguna de las siguientes resoluciones:
-
-a).- La que deseche la demanda;
-
-b).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
-
-c).- La de sobreseimiento y la de la sentencia;
-
-d).- La que mande citar a un tercero, por lo que a éste se refiere;
-
-e).- El requerimiento de un acto a la parte que deba cumplirlo;
-
-f).- En cualquier otro caso, si así lo ordena la Sala.
-
-III.- Fuera de los casos señalados en la fracción anterior las notificaciones se harán personalmente en la Sala a los particulares, si se presentan dentro de las veinticuatro horas siguientes a la en que se haya dictado la resolución, y si no se presentan con oportunidad por lista autorizada que se fijará en sitio visible, al día siguiente del acuerdo.
-
-409.- Las notificaciones surtirán sus efectos al día hábil siguiente al en que se haya hecho la notificación personal, entregado el oficio que contenga copia de la resolución que se notifica, por el empleado del Tribunal o por el correo, o fijado la lista respectiva.
-
-410.- Las notificaciones que no fueren hechas en la forma que establecen las disposiciones precedentes, serán nulas. Las partes perjudicadas podrán pedir la nulidad a que se refiere este artículo, antes de dictarse resolución que ponga fin al negocio, para que se reponga el procedimiento desde el punto en que se incurrió en la violación correspondiente.
-
-Este incidente, que se considerará como de especial pronunciamiento, se substanciará en una sola audiencia en la que se recibirán las pruebas de las partes, se oirán sus alegatos que no excederán de media hora cada uno, y se dictará la resolución que fuere procedente.
-
-Las promociones de nulidad notoriamente infundadas se desecharán de plano.
-
-411.- Los términos serán improrrogables y su cómputo se sujetará a las reglas siguientes:
-
-I.- Se incluirá en ellos el día del vencimiento y empezará a correr el día siguiente al en que surta efectos la notificación, pero si fueren varias las partes los términos comunes correrán desde el día siguiente a la fecha en que haya surtido sus efectos la notificación a la última de ellas;
-
-II.- Se contarán los días naturales, excluyendo los inhábiles y aquellos en los que se suspendan las labores del Tribunal;
-
-III.- Los términos serán comunes con excepción de los que se conceden para la interposición de recursos y para contestar la demanda.
-
-## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
-
-### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
-
-396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
-
-397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
-
-II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
-
-III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
-
-IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
-
-V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
-
-VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
-
-VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
-
-IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
-
-X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
-
-### CAPITULO III. JUICIO DE OPOSICION
-
-### CAPITULO I. FOMENTO A LA INDUSTRIA
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION TERCERA. CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
@@ -3859,6 +3845,72 @@ El Tesorero General del Estado podrá promover el mismo incidente para combatir 
 
 Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su contestación, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa.
 
+## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
+
+### CAPITULO I. MEDIOS DE IMPUGNACION
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
+
+El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
+
+395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
+
+I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
+
+II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
+
+1o.- Que el crédito que se le exige se ha extinguido legalmente;
+
+2o.- Que el monto del crédito es inferior al exigido;
+
+3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
+
+4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
+
+5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
+
+III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
+
+IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
+
+### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
+
+396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
+
+397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+
+II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
+
+III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
+
+IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
+
+V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
+
+VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
+
+VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
+
+IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
+
+X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
+
+### CAPITULO III. JUICIO DE OPOSICION
+
 #### SECCION SEPTIMA. RECURSOS
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
@@ -3975,16 +4027,6 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
-
-## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO UNICO. FOMENTO A LA VIVIENDA
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
 #### SECCION TERCERA. PROCEDIMIENTO
 
 453.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
@@ -4065,6 +4107,16 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
+# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
+
+## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO I. FOMENTO A LA INDUSTRIA
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 #### SECCION SEGUNDA. EXENCIONES
 
 485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
@@ -4076,6 +4128,66 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION TERCERA. PROCEDIMIENTO
+
+490.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+491.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+492.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+493.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+494.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+495.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+496.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+497.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+#### SECCION QUINTA. INFRACCIONES Y SANCIONES
+
+477.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+
+478.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+
+479.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+
+480.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEGUNDA. EXENCIONES
+
+485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -4418,3 +4530,21 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 31 DE JULIO DE 1996.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+DECRETO No. 483/96 I P.O.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir del día 1o. de enero de 1997.
+
+P.O. 28 DE DICIEMBRE DE 1996.
+
+DECRETO No. 484/96 I P.O.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el 1o. de Enero de 1997, una vez que estén vigentes las disposiciones fiscales federales que permitan el establecimiento de esta contribución en el ámbito estatal.
+
+De no darse el segundo supuesto, la vigencia de este Decreto iniciará simultáneamente con la de dichas disposiciones federales.
