@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-del-estado-de-oaxaca-21397"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-10"
-last_updated: "1998-10-10"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLOGICO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, el sábado 10 de octubre de 1998.
 
@@ -459,7 +459,7 @@ Si después de la presentación de una Manifestación de Impacto Ambiental se re
 
 ###### ARTICULO 20.
 
-Todo proyecto de modificación total o parcial a obras y actividades a que se refiere el Artículo 17, que se encuentren establecidas dentro del territorio del Estado, deberá cumplir con los dispuesto en la presente sección, para su análisis y autorización.
+Todo proyecto de modificación total o parcial a obras y actividades a que se refiere el Artículo 17, que se encuentren establecidas dentro del territorio del Estado, deberá cumplir con lo dispuesto en la presente sección, para su análisis y autorización.
 
 ###### ARTICULO 21.
 
@@ -499,7 +499,7 @@ II.- Otorgar la autorización condicionándola a la modificación del proyecto d
 
 III.- Negar la autorización.
 
-El Instituto dentro del plazo de 45 días contados a partir de la recepción de la Manifestación de Impacto Ambiental y/o Estudio de Riesgo, deberá emitir la resolución correspondiente, este plazo se interrumpirá por requerimiento de información complementaria. Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad el Instituto requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por 45 días adicionales, siempre que se justifique conforme a los dispuesto en el Reglamento de la presente Ley.
+El Instituto dentro del plazo de 45 días contados a partir de la recepción de la Manifestación de Impacto Ambiental y/o Estudio de Riesgo, deberá emitir la resolución correspondiente, este plazo se interrumpirá por requerimiento de información complementaria. Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad el Instituto requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por 45 días adicionales, siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley.
 
 Cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas, el Instituto deberá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización.
 
@@ -609,7 +609,7 @@ IV.- Los Programas Federales a cargo del Estado, los Estatales y Municipales sob
 
 V.- El establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental, los cuales se deberán privilegiar;
 
-VI.- El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de sus tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice; y
+VI.- El aprovechamiento del agua para usos urbanos deberá incorporar de manera equitativa los costos de su tratamiento, considerando la afectación a la calidad del recurso y la cantidad que se utilice; y
 
 VII.- El establecimiento de áreas de conservación ecológica en torno a los asentamientos humanos.
 
@@ -1041,9 +1041,11 @@ Todas las autorizaciones que afecten el uso del suelo en las zonas selváticas d
 
 Quienes realicen actividades agrícolas y pecuarias, deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar la degradación del suelo y desequilibrio ecológicos y, en su caso lograr su rehabilitación, en los términos de lo dispuesto por ésta y las demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 80.
 
-El Instituto promoverá ante la Secretaría de Desarrollo Agropecuario y Forestal y las demás dependencias competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico en la zona.
+El Instituto promoverá ante la Secretaría de Desarrollo Rural y las demás dependencias competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico en la zona.
 
 ### CAPITULO III. EXPLOTACION Y EXPLORACION DE LOS RECURSOS NO RENOVABLES EN EL EQUILIBRIO ECOLOGICO
 
@@ -1107,7 +1109,7 @@ VIII.- Elaborar los informes sobre el estado del medio ambiente en la entidad o 
 
 IX.- Formular y aplicar con base en las Normas Oficiales el programa de gestión de la calidad del aire; y
 
-X.- ejercer las demás facultades aplicables.
+X.- Ejercer las demás facultades aplicables.
 
 ###### ARTICULO 89.
 
@@ -1311,7 +1313,7 @@ II.- Estas actividades estén (sic) expresamente previstas en un Plan Parcial de
 
 III.- Se trate de instalaciones ubicadas en parques industriales autorizados en los términos de la presente sección.
 
-En los casos anteriores, el Instituto, una vez analizado el Informe Preliminar de Riesgo, determinará en un plazo no mayor de veinte días, si se requiere la presentación de un estudio de análisis de Riesgo Ambiental, o si se está en uno de los supuesto señalados.
+En los casos anteriores, el Instituto, una vez analizado el Informe Preliminar de Riesgo, determinará en un plazo no mayor de veinte días, si se requiere la presentación de un estudio de análisis de Riesgo Ambiental, o si se está en uno de los supuestos señalados.
 
 ###### ARTICULO 115.
 
@@ -1381,7 +1383,7 @@ II.- Celebrarán convenios de concertación con:
 
 a).- Organizaciones obreras para la protección del ambiente en los lugares de trabajo y unidades habitacionales;
 
-b).- Organizaciones campesinas y comunidades rurales para el establecimiento, administración y manejo de áreas naturales protegidas, para brindarles asesoría en materia ambiental en las actividades relacionadas con el aprovechamiento racional de los recurso naturales;
+b).- Organizaciones campesinas y comunidades rurales para el establecimiento, administración y manejo de áreas naturales protegidas, para brindarles asesoría en materia ambiental en las actividades relacionadas con el aprovechamiento racional de los recursos naturales;
 
 c).- Organizaciones empresariales en los casos previstos en esta Ley para la protección del Ambiente;
 
@@ -1617,7 +1619,7 @@ En caso de requerirse, la autoridad ordenadora notificará al interesado en form
 
 Se tendrán por consentidos los hechos y omisiones consignados en las actas de inspección si transcurrido el plazo a que se refiere el último párrafo del artículo 147, el interesado no presenta pruebas que los desvirtué.
 
-Admitidas y desahogadas las pruebas ofrecidas por el interesado, o no habiendo hecho uso del derecho correspondiente, se pondrán a su disposición las actuación para que en un plazo de tres días hábiles, presente por escrito sus alegatos.
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o no habiendo hecho uso del derecho correspondiente, se pondrán a su disposición las actuaciones para que en un plazo de tres días hábiles, presente por escrito sus alegatos.
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, el Instituto procederá dentro de los veinte días siguientes a dictar por escrito la resolución respectiva, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo.
 
@@ -1669,7 +1671,7 @@ g) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la
 
 h) En caso de reincidencia cuando las infracciones generen efectos negativos al ambiente.
 
-III.- El decomiso de los instrumentos ejemplares, partes, productos o subproductos directamente relacionados con la infracción relativa a recursos forestales, especies de flora y fauna silvestre o recursos genéticos, conforme a los previsto en la presente Ley; y
+III.- El decomiso de los instrumentos ejemplares, partes, productos o subproductos directamente relacionados con la infracción relativa a recursos forestales, especies de flora y fauna silvestre o recursos genéticos, conforme a lo previsto en la presente Ley; y
 
 IV.- La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes.
 
@@ -1711,7 +1713,7 @@ El Instituto dará a los bienes decomisado alguno de los siguientes destinos:
 
 I.- Venta directa en aquellos casos en que el valor de los decomisado no exceda de 5,000 veces el salario mínimo general vigente en el Estado al momento de imponer la sanción;
 
-II.- Remate en subasta pública cuando el valor de los decomisado exceda de 5,000 veces el salario mínimo general vigente en el Estado al momento de imponer la sanción;
+II.- Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario mínimo general vigente en el Estado al momento de imponer la sanción;
 
 III.- Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo a las funciones y actividades que realice el donatario, siempre y cuando no sea lucrativo;
 
@@ -1721,7 +1723,7 @@ V.- Uso y aprovechamiento directo por parte del Instituto siempre y cuando sea p
 
 ###### ARTICULO 161.
 
-Para efectos de los previsto en las fracciones I y II del Artículo anterior, únicamente serán procedentes dichos supuestos cuando los bienes decomisados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables.
+Para efectos de lo previsto en las fracciones I y II del Artículo anterior, únicamente serán procedentes dichos supuestos cuando los bienes decomisados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables.
 
 En ningún caso los responsables de la infracción que hubiere dado lugar al decomiso podrán participar ni beneficiarse de los actos señalados en las fracciones I a la IV del Artículo anterior, mediante los cuales se lleve a cabo la enajenación de los bienes decomisados.
 
@@ -1848,3 +1850,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
