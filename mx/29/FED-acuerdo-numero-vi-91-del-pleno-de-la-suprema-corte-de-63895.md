@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-vi-91-del-pleno-de-la-suprema-corte-de-63895"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1991-01-29"
-last_updated: "1991-01-29"
+last_updated: "1991-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63895&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1991-01-22"
 
 ACUERDO No. VI/91 DEL TRIBUNAL EN PLENO DEL DIA VEINTIDOS DE ENERO DE MIL NOVECIENTOS NOVENTA Y UNO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO No. XVII/91 DEL TRIBUNAL EN PLENO DEL DIA CATORCE DE MAYO DE MIL NOVECIENTOS NOVENTA Y UNO, PUBLICADO EN EL D.O.F. DE 20 DE MAYO DE 1991, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 29 de enero de 1991.
 
@@ -64,3 +66,15 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este Acuerdo número VI/91, relativo a la prórroga del plazo para que correspondan al Segundo Tribunal Colegiado del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas, todos los asuntos de nuevo ingreso, fue emitido por el Tribunal Pleno en Sesión Privada el martes veintidós de enero de mil novecientos noventa y uno, por unanimidad de diecinueve votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Salvador Rocha Días, Mariano Azuela Güitrón, Samuel Alba Leyva, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez. México, Distrito Federal, a veintidós de enero de mil novecientos noventa y uno.- José Javier Aguilar Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE MAYO DE 1991.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- A partir del dieciséis de mayo de mil novecientos noventa y uno, se abroga el Acuerdo Plenario número VI/91, de veintidós de enero del mismo año.
+
+TERCERO.- La Comisión de Gobierno y Administración y el ministro inspector de los tribunales de Circuito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales colegiados y unitarios del Décimo Noveno Circuito, con residencia en Ciudad Victoria, Tamaulipas, para su cumplimiento, y de los juzgados de Distrito en dicha entidad federativa, para su conocimiento.
