@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-unidad-de-prevision-y-seguridad-social-del-estado-822
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "1992-12-30"
+last_updated: "1994-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA UNIDAD DE PREVISION Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 28 de enero de 1987.
 
@@ -79,7 +79,9 @@ VI.- Pensión por invalidez;
 
 VII.- Pensión de cesantía por edad avanzada;
 
-VIII.- Préstamos a corto plazo;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
+
+VIII.- Préstamos a Corto Plazo y Especiales.
 
 IX.- Préstamos a mediano plazo;
 
@@ -169,7 +171,7 @@ La administración de los recursos, seguros, prestaciones y servicios a que se r
 
 La UPYSSET tendrá los siguientes objetivos:
 
-I.- Aplicar y hacer cumplir las disposiciones de estaLey y sus reglamentos;
+I.- Aplicar y hacer cumplir las disposiciones de esta Ley y sus reglamentos;
 
 II.- Administrar su patrimonio;
 
@@ -247,11 +249,11 @@ En caso de separación por licencia concedida sin goce de sueldo, misma que no e
 
 La UPYSSET gozará de todos los beneficios y exenciones, que otorgan las leyes para los bienes del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 20.
 
-Prescribirán a favor de la UPYSSET las aportaciones, las pensiones, los descuentos, los intereses y cualquier otra prestación que no se cobren, recuperen o soliciten su devolución los interesados dentro de los dos años siguientes contados a partir del momento en que se generen, previa su notificación.
+Prescribirán a favor de la UPYSSET las aportaciones, las pensiones, los descuentos, los intereses y cualquier otra prestación que no se cobren, recuperen o soliciten su devolución los interesados dentro de los dos años siguientes contados a partir del momento en que se generen, previa su notificación, con excepción del caso en que el trabajador tuviera un préstamo insoluto, situación en la que se actuará de acuerdo a lo que establece el artículo 90.
 
 #### SECCION III. ORGANOS DE GOBIERNO
 
@@ -343,13 +345,17 @@ I.- El Poder Judicial;
 
 II.- El Poder Legislativo;
 
-III.- La Dirección General de la Contraloría Estatal;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
+
+III.- La Secretaría de la Contraloría Estatal.
 
 IV.- El Sindicato Unico de los Trabajadores al Servicio de los Poderes del Estado de Tamaulipas;
 
 V.- El Sindicato Nacional de Trabajadores de la Educación, Sección 30.
 
-El representante de la dependencia a que se refiere la fracción III de este artículo, será el Director General de la Contraloría Estatal, quien presidirá la Comisión de Vigilancia.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+
+El representante de la Dependencia a que se refiere la fracción III de este artículo, será el Secretario de la Contraloría Estatal, quien presidirá la Comisión de Vigilancia.
 
 Por cada miembro de la Comisión se nombrará un suplente que actuará en caso de faltas temporales del titular.
 
@@ -769,15 +775,19 @@ Si el servidor público separado del servicio reingresare y quisiera que el tiem
 
 Si falleciera antes de ejercer derechos o de solventar el adeudo, sus beneficiarios podrán optar el pago de la indemnización que le hubiere correspondido al servidor público en los términos del Artículo 50, o bien por cubrir íntegramente el saldo adeudado, más los intereses equivalentes al 75% de la tasa líder del mercado, para disfrutar de la pensión, en los casos que ésta proceda.
 
-### CAPITULO V. DE LOS PRESTAMOS A CORTO PLAZO
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JUNIO DE 1994)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+### CAPITULO V. DE LOS PRESTAMOS A CORTO PLAZO Y ESPECIALES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 84.
 
-Los préstamos a corto plazo, se otorgarán a los servidores públicos de acuerdo con las posibilidades de las reservas técnicas de la UPYSSET, determinadas actuarialmente y conforme a las siguientes reglas:
+Los Préstamos a Corto Plazo y Especiales, se otorgarán a los Servidores Públicos de acuerdo con la posibilidades de las reservas técnicas de la UPYSSET, determinadas actuarialmente y conforme a las siguientes reglas:
 
-I.- A quienes tengan de nombrados cuando menos seis meses y hayan cubierto a la UPYSSET las aportaciones a que se refiere la fracción II del Artículo 15, por igual tiempo;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
+
+I.- A quienes tengan por lo menos seis meses de habérseles expedido nombramiento, sin ser eventuales o interinos, y hayan cubierto a la UPYSSET las aportaciones a que se refiere el Artículo 15.
 
 II.- Mediante garantías de dichas aportaciones;
 
@@ -789,27 +799,31 @@ a).- Se calculará considerando como préstamo máximo la cantidad en veces al s
 
 (VEASE ARCHIVO ANEXO)
 
-b).- Cuando el préstamo sobrepase el monto de las aportaciones, el excedente se garantizará con un fondo especial que constituyan los interesados, mediante el pago de una prima en los términos que fije el Consejo de Administración de la UPYSSET;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+b).- El préstamo se garantizará con un fondo especial que constituyen los interesados mediante el pago de una prima, en los términos que fije el Consejo de Administración de la UPYSSET.
 
-c).- El monto del préstamo lo constituirá exclusivamente el capital. Los pensionistas podrán obtener préstamos a corto plazo conforme las reglas señaladas anteriormente.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+
+c).- El monto del préstamo lo constituirá el capital y los intereses calculados conforme al plazo de pago. Los pensionistas podrán obtener préstamos conforme las reglas señaladas anteriormente.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 85.
 
-Los préstamos se otorgarán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses sumados a los descuentos por otros conceptos, no excedan del 50% de los sueldos del interesado.
+Los préstamos se otorgarán de tal manera que los abonos para reintegrar el monto del crédito, sumados a los descuentos por otros conceptos, no excedan del 50% de los sueldos del interesado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 86.
 
-El plazo para el pago del préstamo y sus accesorios no será mayor de 24 quincenas.
+El plazo para el pago del préstamo a corto plazo y sus accesorios no será mayor de 24 quincenas y para el préstamo especial, no excederá de 30 quincenas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 87.
 
-El plazo para el pago del préstamo y el interés sobre saldos insolutos, que será del 75% de la tasa líder del mercado, se fijarán mediante acuerdos generales del Consejo de Administración, en vista de los recursos disponibles, y observando el grado de recuperación, la equidad, la importancia de la cobertura y la utilización racional de los recursos asignados a esta prestación.
+Los intereses causados por concepto de préstamos a corto plazo y especiales se fijarán mediante acuerdos generales del Consejo de la UPYSSET, pero no podrán ser menores a la tasa líder del mercado, tomando en cuenta los recursos disponibles, observando el grado de recuperación, la equidad, la importancia de la cobertura y la utilización racional de los recursos asignados a esta prestación.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -823,91 +837,89 @@ El pago de capital e interés se hará en abonos quincenales iguales.
 
 No se otorgará nuevo préstamo mientras permanezca insoluto el anterior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 90.
 
-Los adeudos por concepto de préstamo a corto plazo, que no fuesen cubiertos por los servidores públicos o pensionistas, después de 3 meses de su vencimiento, se cargarán al fondo de garantía a que se refiere al Artículo 84, fracción III, inciso b. Sin embargo, quedará a salvo el crédito contra el deudor, debiendo la UPYSSET acudir a los medios legales de recobro y en su caso, abonar a dicho fondo las cantidades que se recuperen.
+Los adeudos por concepto de préstamos a corto plazo y especiales que no fuesen cubiertos después de 30 días de la baja o el fallecimiento del Servidor Público, se cargarán al Fondo de Garantía a que se refiere el Artículo 84, fracción III, inciso b). Sin embargo quedarán a salvo las acciones contra el deudor, procediendo la UPYSSET por los medios legales a su cobro y, en su caso, abonará a dicho fondo las cantidades que se recuperen.
 
-El interés moratorio comenzará a gravar el adeudo al mes siguiente al de su vencimiento y será equivalente a 1.3 veces de la tasa líder del mercado, o vigente a la fecha de dicho vencimiento.
+El interés moratorio comenzará a gravar el adeudo al mes siguiente a la falta de abono y será equivalente a 1.3 veces de la tasa líder del mercado vigente a la fecha.
 
-### CAPITULO VI. PRESTAMOS ESPECIALES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+### CAPITULO VI
 
 ###### ARTICULO 91.
 
-El préstamo especial con aval o garantía colateral será aquel que llene tal requisito y se otorgará de acuerdo con la capacidad económica de la UPYSSET determinada mediante estudios actuariales.
-
-El préstamo especial está destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación el servidor público y de su familia. El Director General de la UPYSSET calificará su procedencia y en caso de duda podrá solicitar al Consejo de Administración su opinión.
-
-Asimismo, el Director General de la UPYSSET señalará los términos del aval o garantía colateral. El avalista deberá ser empleado de base y cubrir en forma directa el pago omitido por el deudor principal.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+(DEROGADO, P.O. 25 DE JUNIO DE 1994)
 
 ###### ARTICULO 92.
 
-El préstamo especial deberá cubrirse dentro de un plazo no mayor de 15 meses, mediante pagos periódicos iguales; se documentará con arreglo a los títulos de crédito mercantiles y los intereses se cubrirán sobre saldos insolutos en un proceso de amortización financiera que será del 75% de la tasa líder del mercado. En ningún caso se hará renovación o ampliación de esta clase de préstamos hasta en tanto no se hubiese cubierto totalmente el anterior.
+(DEROGADO, P.O. 25 DE JUNIO DE 1994)
 
 ### CAPITULO VII. PRESTAMOS A MEDIANO PLAZO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 93.
 
-Los servidores públicos que lo soliciten podrán, de acuerdo con las posibilidades de la UPYSSET, determinadas actuarialmente, obtener créditos para adquirir bienes de uso duradero que tengan en venta los centros comerciales, si satisfacen en lo conducente las condiciones que esta Ley establece en el caso de préstamos a corto plazo y cumplan con los demás requisitos que prevenga el Reglamento que al efecto expida el Consejo de Administración.
+De acuerdo con las posibilidades de las reservas técnicas de la UPYSSET, determinadas actuarialmente, se podrán autorizar préstamos a mediano plazo para los Servidores Públicos de Base, Burócratas o Federalizados, para la adquisición de bienes de uso duradero. En igual forma se podrán otorgar créditos para la adquisición de vehículos automotores a quienes reúnan los requisitos establecidos en el Reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 94.
 
-En el otorgamiento de los préstamos a mediano plazo para adquisición de bienes de uso duradero, se considerará el monto del sueldo y la amortización creciente. No se concederá otro préstamo mientras no quede totalmente liquidado el que se haya otorgado.
+En el monto del préstamo a mediano plazo se determinará por acuerdo del Consejo de Administración. No se autorizará otro préstamo a mediano plazo mientras no se cubra el anterior.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 95.
 
-Los créditos para la adquisición de los bienes a que se refiere el Artículo anterior se otorgarán mediante garantía prendaria, pagaderos en forma directa por el derecho-habiente a la UPYSSET, o mediante los mecanismos que se precisen en el Reglamento que emita el Consejo de Administración.
+Los créditos para la adquisición de los bienes a que se refiere el Artículo 93 se otorgarán con garantía prendaria y se cubrirán en forma directa por el derechohabiente a la UPYSSET, o mediante los mecanismos que se precisen en el Reglamento que emita el Consejo de Administración.
 
-El plazo máximo de amortización para estos préstamos será de 3 años; el interés sobre saldos insolutos será al 75% de la tasa líder del mercado y la cantidad autorizada podrá ser hasta de 5 veces el sueldo básico mínimo mensual de los servidores públicos o pensionistas en las mismas condiciones señaladas en el Capítulo V de esta Ley y su operación será reglamentada por el Consejo de Administración
+El monto del crédito para bienes de usos duradero, será de hasta 10 meses de salario mínimo base de los servidores del Estado, y los intereses que generen no podrán ser menores a la Tasa líder del mercado, asimismo, el plazo máximo para cubrir el adeudo, será hasta 48 quincenas.
+
+Los créditos para adquirir vehículos automotores, serán hasta 100 meses de salario mínimo base de los servidores del Estado, y el plazo máximo para su amortización no será mayor a 4 años. No se autorizará préstamos hipotecarios mientras permanezca insoluto el préstamo para adquisición de vehículo.
+
+Para la adquisición de vehículos automotores, el interés no será inferior a 1.2 veces la Tasa líder del mercado y será requisito indispensable la contratación de un Seguro de Cobertura amplia durante el tiempo que dure el adeudo.
 
 ### CAPITULO VIII. PRESTAMOS HIPOTECARIOS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 96.
 
-Los préstamos hipotecarios se destinarán a construír o adquirir casas para habitación de los servidores públicos, para hacerles mejoras o liberarlas de gravámenes. El monto global e individual de estos préstamos será determinado de acuerdo a la capacidad económica de la UPYSSET, en base a los resultados que arrojen los estudios actuariales correspondientes. Los servidores públicos tendrán derecho a solicitar este tipo de crédito por una sola vez.
+Los préstamos hipotecarios se destinarán para construir o adquirir casas-habitación para los servidores públicos, para hacerles mejoras o liberarlas de gravámenes. El monto global e individual de estos préstamos, será determinado de acuerdo a la capacidad económica de la UPYSSET, en base a los resultados que arrojen los estudios actuariales correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+Los servidores públicos tendrán derecho a solicitar este tipo de prestamos por una sola vez, si se destina para adquisición o construcción de vivienda.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 97.
 
-Los servidores públicos podrán solicitar créditos hipotecarios, otorgando garantía hipotecaria, en primer lugar sobre las fincas.
+Los servidores públicos podrán solicitar préstamos hipotecarios, otorgando garantía hipotecaria en primer lugar sobre las fincas. Las amortizaciones quincenales incluyendo descuentos por otros conceptos, no deberán exceder del 50% del sueldo del trabajador por ese lapso.
 
 ###### ARTICULO 98.
 
-El monto máximo para préstamos hipotecarios será fijado por el Consejo de Administración de la UPYSSET.
+(DEROGADO, P.O. 25 DE JUNIO DE 1994)
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
-
-Las amortizaciones quincenales, incluyendo intereses sumados a los descuentos por otros conceptos, no deberán exceder del 50% del sueldo del trabajador.
+> <small>(REFORMADO, P.O. 25 DE JUNIO D E 1994)</small>
 
 ###### ARTICULO 99.
 
-El plazo máximo que puede otorgar la UPYSSET, para el pago de estos créditos será de 10 años, debiendo ser quincenales las amortizaciones de capital e intereses.
+El plazo máximo otorgado por la UPYSSET para el pago de estos créditos será de 15 años, debiendo ser quincenales las amortizaciones de capital e intereses.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 100.
 
-Las amortizaciones quincenales de los créditos hipotecarios se calcularán como porcentaje del salario mínimo base de los trabajadores del Gobierno del Estado, dependiendo del monto y del plazo del crédito, de acuerdo con el siguiente procedimiento:
+Las amortizaciones de los créditos hipotecarios, se calcularán por un porcentaje del salario mínimo quincenal base de los trabajadores del Gobierno del Estado, dependiendo del monto y del plazo del crédito, de acuerdo con el siguiente procedimiento:
 
-El monto del crédito hipotecario, se dividirá entre el salario mínimo quincenal base de los trabajadores del Gobierno del Estado y el resultado se multiplicará por el factor de la tabla siguiente, dependiendo de plazo de amortización del crédito.
+El monto del crédito hipotecario se dividirá entre el salario mínimo quincenal, y el resultado se multiplicará por el factor de la Tabla siguiente, dependiendo del plazo de amortización del crédito.
 
 (VEASE ARCHIVO ANEXO)
 
-El resultado de la anterior operación, representa el porcentaje que el trabajador deberá aportar quincenalmente como amortización al crédito hipotecario, en función del salario mínimo base quincenal de los trabajadores del Gobierno del Estado, vigente en las fechas de amortización.
+El resultado de la anterior operación, representa el porcentaje que el trabajador deberá aportar quincenalmente como amortización al crédito hipotecario, en función al salario mínimo general quincenal vigente en las fechas de amortización.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -951,13 +963,15 @@ En caso del artículo anterior, el adquirente otorgará garantía hipotecaria de
 
 El pago de impuestos, de derechos de registro y demás gastos serán por cuenta exclusiva de este último.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 108.
 
-Las casas adquiridas o construidas para los servidores públicos por la UPYSSET, tendrán el carácter de patrimonio familiar.
+Las casas adquiridas o construidas para los servidores públicos por la UPYSSET, tendrán el carácter de patrimonio familiar y deberán ser destinadas a su propia habitación. La violación a esta obligación será causa bastante para dar por vencida anticipadamente la totalidad del adeudo con todas las consecuencias legales de una rescisión. Como excepción, se permitirá que la casa sea habitada por personal diferente del beneficiario o de su familia en el caso de que aquél cambie de lugar de residencia, siempre y cuando la UPYSSET de su autorización.
 
 ###### ARTICULO 109.
 
-Las casas adquiridas por los servidores públicos, deberán ser destinadas a su propia habitación. La violación a esta obligación será causa bastante para dar por vencida anticipadamente la totalidad del adeudo con todas las consecuencias legales de una rescisión. Como excepción, se permitirá que la casa sea habitada por persona diferente del beneficiario o de su familia, en el caso de que aquél cambie de adscripción, siempre y cuando la UPYSSET dé su autorización.
+(DEROGADO, P.O. 25 DE JUNIO DE 1994)
 
 ### CAPITULO X. SERVICIO MEDICO
 
@@ -1136,3 +1150,9 @@ P.O. 30 DE DICIEMBRE DE 1992
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 1994
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
