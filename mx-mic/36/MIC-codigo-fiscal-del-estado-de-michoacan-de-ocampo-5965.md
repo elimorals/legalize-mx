@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "1993-12-30"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
-PODER EJECUTIVO DELESTADO
+PODER EJECUTIVO DEL ESTADO
 
 JAIME GENOVEVO FIGUEROA ZAMUDIO, Gobernador del Estado de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -195,9 +195,25 @@ IV. La indemnización a que se refiere el artículo 20 de este Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal, impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado no será aplicable respecto del concepto impugnado y garantizado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 19-A.
+
+El monto de las contribuciones, así como de las devoluciones a cargo del Fisco estatal derivados de pagos indebidos de las mismas, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el País, para lo cual se aplicará el factor de actualización a las cantidades que se deben actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, entre el citado Indice correspondiente al mes anterior al más antiguo de dicho período.
+
+Las contribuciones, así como las devoluciones a cargo del Fisco estatal, no se actualizará por fracción de mes.
+
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no se haya dado a conocer por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 20.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al Fisco del Estado por falta de pago oportuno. Dichos recargos se calcularán conforme a la tasa que fije anualmente la Ley de Ingresos del Estado.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por la Ley de Hacienda del Estado de Michoacán de Ocampo, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, debiéndose pagar además recargos por concepto de indemnización al Fisco del Estado por falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que fije anualmente la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+La actualización a que se refiere el párrafo anterior, se realizará conforme a lo dispuesto por el artículo 19-A de este Código.
 
 Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -219,7 +235,9 @@ Cuando no existan formas aprobadas oficialmente para solicitud de devolución, �
 
 En todo caso, el gestionante de devolución deberá acreditar su personalidad y derecho a solicitarla, en la forma establecida por el artículo 18 de este Código. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
 
-Si dentro del plazo a que se refiere el primer párrafo de este artículo no se efectúa la devolución, la Tesorería deberá pagar intereses conforme a una tasa que será igual a la prevista por la Ley de Ingresos del Estado por concepto de recargos por extemporaneidad para el ejercicio fiscal de que se trate.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+El Fisco estatal deberá pagar la devolución que proceda, actualizada conforme a lo previsto en el artículo 19-A de este Código, desde el mes en que se realizó el pago de lo indebido hasta aquél en que la devolución esté a disposición del contribuyente. Se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que se le notifique el Acuerdo que autorice la devolución respectiva. Si dentro del plazo a que se refiere el primer párrafo de este artículo no se efectúa la devolución, la Tesorería deberá pagar intereses conforme a una tasa que será igual a la prevista por la Ley de Ingresos del Estado por concepto de recargos por extemporaneidad para el ejercicio fiscal de que se trate.
 
 Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde la fecha en que venció el plazo para devolver, hasta aquella en que se efectúe la devolución o se pongan las cantidades a disposición del interesado. En ningún caso los intereses a cargo de la Tesorería excederán de los que se generen en 5 años.
 
@@ -367,21 +385,49 @@ XVI. Resolver los asuntos que le competen y que se tramiten en las dependencias 
 
 XVII. Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 29.
 
-La Tesorería, a solicitud de los contribuyentes, mediante acuerdo, podrá autorizar el pago de contribuciones y sus accesorios a plazos, ya sea diferido o en parcialidades, sin que dicho plazo exceda del ejercicio fiscal de que se trate. Discrecionalmente, cuando se trate de adeudos cuantiosos, que correspondan a ejercicios fiscales anteriores o se trate de situaciones extraordinarias, el plazo que se conceda podrá ser hasta de un año.
+La Tesorería, a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de la contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año, de conformidad con lo siguiente:
 
-Durante el lapso que se conceda, se causarán recargos conforme a la tasa que fije la Ley de Ingresos que anualmente expida el Congreso del Estado.
+Se procederá a actualizar las contribuciones omitidas y las multas que correspondan, conforme a lo dispuesto por el artículo 19-A de este Código. Así mismo se calcularán los recargos, desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquel en que se conceda la autorización, integrándose el crédito fiscal, de la siguiente forma:
 
-La Tesorería, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés del Fisco Estatal en cualquiera de las formas que establece el artículo 120 de este Código.
+a).- El monto de las contribuciones omitidas, actualizado desde el mes en que debió hacerse el pago y hasta aquél en que se conceda la autorización;
 
-Quedará insubsistente la autorización de pagar a plazos en forma diferida o en parcialidades; cuando:
+b).- Las multas que tenga a su cargo el contribuyente;
 
-I. Se omita el pago de alguna parcialidad dentro de la fecha o el plazo fijado en el acuerdo respectivo, en cuyo caso, el contribuyente estará obligado a pagar recargos al Fisco Estatal, por falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos del Estado para el ejercicio de que se trate, en los términos del artículo 20 de este Código;
+c).- Los recargos por falta de pago oportuno desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquél en que se conceda la autorización; y,
 
-II. Cuando desaparezca o resulte insuficiente la garantía del Interés Fiscal otorgada, sin que el contribuyente dé una nueva garantía o amplíe la considerada como insuficiente; y
+d).- Gastos de ejecución por las diligencias de cobro practicadas hasta la fecha en que se conceda la autorización.
 
-III. Cuando el contribuyente sea declarado en quiebra o solicite su liquidación judicial.
+Tratándose de multas por infracciones a las disposiciones fiscales, impuestas mediante resoluciones notificadas y no pagadas dentro del plazo concedido, estas serán actualizadas desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización.
+
+El monto de la primera parcialidad, será el resultado de dividir el total del crédito fiscal integrado conforme a los incisos anteriores, entre el número de parcialidades solicitadas y previo pago de ésta, se aplicará conforme a lo dispuesto del artículo 19 de este Código.
+
+Al monto del crédito fiscal, disminuida la primera parcialidad, se calculará el monto de los recargos por financiamiento, aplicando la tasa correspondiente que establezca la ley de Ingresos del Estado, durante los meses que comprenda el plazo autorizado, desde la segunda hasta la enésima parcialidad de que se trate.
+
+El crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
+
+El valor de cada parcialidad restante, se determinará dividiendo el monto del crédito expresado en Unidades de Inversión, entre el resto de parcialidades autorizadas.
+
+Tratándose de la autorización de pago a plazo diferido, una vez actualizadas las contribuciones omitidas y las multas que correspondan, en los términos del segundo párrafo de este artículo, se calcularán los recargos por financiamiento durante los meses que comprenda el plazo que se autorice, aplicando la tasa que para este efecto establezca la Ley de Ingresos del Estado.
+
+El monto del crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
+
+En la fecha de pago, los montos en Unidades de Inversión se reexpresarán en pesos, conforme al valor que para estos efectos dé a conocer el Banco de México.
+
+No procederá la autorización a que se refiere este artículo, tratándose de aquellas contribuciones que debieron de pagarse en el año de calendario en curso, o de las que debieron pagarse en los seis meses anteriores, al mes en que se solicite la autorización.
+
+La Tesorería, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 120 de este Código.
+
+Quedará insubsistente la autorización de pagar a plazos en forma diferida o en parcialidades, cuando:
+
+I.- Se omita el pago de alguna parcialidad dentro de la fecha o plazo fijado en el acuerdo respectivo, en cuyo caso, el contribuyente, estará obligado a pagar recargos al Fisco estatal, por falta de pago oportuno, conforme a la tasa que fije la Ley de Ingresos del estado para el ejercicio de que se trate, en los términos del artículo 20 de este Código;
+
+II.- Desaparezca o resulte insuficiente la garantía del interés fiscal otorgada, sin que el contribuyente dé una nueva garantía o amplíe la considerada como insuficiente; y,
+
+III.- El contribuyente sea declarado en quiebra o solicite su liquidación judicial.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -1447,7 +1493,7 @@ En la intervención de negociaciones será aplicable, en lo conducente, las secc
 
 El interventor encargado de la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, deberá retirar de la negociación intervenida el 10% de los ingresos en dinero y enterarlo en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
 
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias, para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro lo intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias, para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
 Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
 
@@ -1631,7 +1677,7 @@ El producto obtenido del remate, enajenación o adjudicación de los bienes al f
 
 En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
 
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor de los bienes determinado conforme al artículo 157 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
+Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinado conforme al artículo 157 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
 
 ###### ARTICULO 176.
 
@@ -1666,3 +1712,9 @@ P.O. 30 DE DICIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
