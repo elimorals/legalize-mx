@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-de-proteccion-ciudadana-del-estado-2804"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-01"
-last_updated: "1995-04-02"
+last_updated: "1998-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA DE PROTECCION CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 1 de mayo de 1994.
 
@@ -103,7 +103,9 @@ VIII.- Formular programas y proponer acciones en coordinación con las dependenc
 
 IX.- Certificar los hechos en que intervengan su personal en el ejercicio de sus funciones.
 
-X.- Mantener informados, mediante comunicaciones periódicas, a los superiores jerárquicos de las dependencias de la Administración Pública Estatal y Municipal, sobre las quejas recibidas y las investigaciones realizadas, así como de sus recomendaciones y solicitudes de sanción a servidores públicos, principalmente de aquellas que hayan sido desatendidas por el superior inmediato del infractor, de estas comunicaciones remitirá copia al Titular del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 1998)</small>
+
+X.- Mantener informados, mediante comunicaciones periódicas, a los superiores jerárquicos de las dependencias de la Administración Pública Estatal y Municipal, sobre las quejas recibidas y las investigaciones realizadas, así como de sus recomendaciones y solicitudes de sanción a servidores públicos, principalmente de aquéllas que hayan sido desatendidas por el superior inmediato del infractor, de estas comunicaciones remitirá copia al titular del Ejecutivo del Estado y al Congreso del Estado.
 
 XI.- Coordinar las defensorías de oficio de nuestro Estado, con el objeto de defender a los acusados y procesados por delitos del orden común.
 
@@ -147,17 +149,23 @@ IV.- Gozar de elevado prestigio profesional y personal.
 
 V.- No haber sido condenado por delito intencional.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 10.
 
-El nombramiento del Procurador de Protección Ciudadana será propuesto por el Gobernador Constitucional del Estado y sometido a la aprobación del H. Congreso del Estado, o en los recesos de éste, a la Diputación Permanente del mismo.
+El Procurador de Protección Ciudadana será designado por el H. Congreso del Estado o en los recesos de éste, por la Diputación Permanente del mismo, de una terna que será propuesta por el C. Gobernador del Estado en un plazo no mayor de quince días a partir de la fecha en que se produzca la vacante.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 11.
 
-El Procurador de Protección Ciudadana durará en sus funciones cuatros años y podrá ser designado nuevamente para un segundo período, exclusivamente.
+El Procurador de Protección Ciudadana durará en sus funciones tres años y podrá ser designado nuevamente para un segundo período, exclusivamente.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 12.
 
-El Procurador de Protección Ciudadana, el Secretario General y el Visitador, sólo previa declaración de procedencia del Gobernador del Estado, podrán ser detenidos o sujetos de responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen, en ejercicio de las funciones propias de sus cargos que les asigna esta Ley.
+Sólo previa declaración de procedencia del H. Congreso del Estado, el Procurador de Protección Ciudadana, el Secretario General y el Visitador podrán ser detenidos o sujetos de responsabilidad penal o administrativa, de conformidad con la legislación aplicable, por las opiniones y recomendaciones que formulen o por los actos que realicen, en ejercicio de las funciones propias de sus cargos que les asigna esta Ley.
 
 ###### ARTICULO 13.
 
@@ -194,6 +202,10 @@ del Consejo
 ###### ARTICULO 15.
 
 .- El Consejo a que se refiere el Artículo 6º. de esta Ley, estará integrado por el Procurador de Protección Ciudadana, el Secretario General y cinco personas que gocen de reconocimiento prestigiado en la sociedad, mexicanos nacidos en Aguascalientes, en pleno ejercicio de sus derechos ciudadanos, mismos que serán invitados para tal efecto por el Ejecutivo Estatal, por conducto de la Procuraduría de Protección Ciudadana, los que no deberán desempeñar ningún cargo o comisión como servidores públicos; ni ser dirigente de algún partido político, ni de organizaciones vinculadas a actividades políticas.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 1998)</small>
+
+El Consejo sesionará por lo menos una vez al mes.
 
 El Procurador de Protección Ciudadana fungirá como Presidente del Consejo y como su Secretario Técnico fungirá el Secretario General de la misma, los cargos de los demás miembros del Consejo serán honorarios.
 
@@ -704,3 +716,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
