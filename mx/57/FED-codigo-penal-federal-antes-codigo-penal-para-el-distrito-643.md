@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1942-06-13"
+last_updated: "1944-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO 1944.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -265,7 +265,9 @@ Las penas y medidas de seguridad son:
 
 1.- Prisión.
 
-2.- (DEROGADO, D.O.F. 12 DE MAYO DE 1938)
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
+
+II (SIC).- Relegación.
 
 3.- Reclusión de locos, sordomudos, degenerados o toxicómanos.
 
@@ -313,9 +315,11 @@ Los procesados sujetos a prisión preventiva y los reos políticos, serán reclu
 
 ### CAPITULO III. Relegación
 
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
+
 ###### ARTICULO 27.
 
-(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
+La relegación en colonias penales se aplicará a los delincuentes declarados judicialmente habituales o cuando expresamente lo determine la ley.
 
 ### CAPITULO IV. Confinamiento
 
@@ -553,9 +557,17 @@ Si al delito intencional debiera aplicarse una sanción pecuniaria, se aplicará
 
 La reparación del daño será siempre igual, lo mismo en el delito de imprudencia que en el intencional.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
+
 ###### ARTICULO 62.
 
-Si un delito de imprudencia es tan leve que no produzca lesiones o cause solamente daño en propiedad ajena por un valor de menos de veinticinco pesos, sólo se sancionará con multa hasta de la misma cantidad y la reparación del daño y únicamente se perseguirá a petición de parte ofendida.
+El delito de imprudencia sólo se sancionará con multa hasta por la cantidad de cien pesos y la reparación del daño:
+
+I.- Cuando sea tan leve que no produzca lesiones o cause únicamente daño en propiedad ajena por un valor menor de cien pesos, y
+
+II.- Cuando el daño en propiedad ajena, cualquiera que sea su valor, se haya causado con motivo del tránsito de vehículos, a menos que se trate del sistema ferroviario, de navíos, de aeronaves, o de cualesquiera otros transportes de concesión federal.
+
+En los casos previstos por las dos fracciones anteriores, el delito sólo se perseguirá a petición de la parte ofendida.
 
 ### CAPITULO IV. Aplicación de sanciones a los responsables de varios delitos y a los reincidentes
 
@@ -575,13 +587,15 @@ En caso de acumulación se impondrá la sanción del delito mayor, que podrá au
 
 A los reincidentes se les aplicará la sanción que debería imponérseles por el último delito cometido, aumentándola desde un tercio hasta dos tercios de su duración a juicio del Juez. Si la reincidencia fuera por delitos de la misma especie, el aumento será desde dos tercios hasta otro tanto de la duración de la pena. Cuando resulte una pena mayor que la suma de las correspondientes a la suma del primero y segundo delitos, se aplicará esta suma.
 
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
 ###### ARTICULO 66.
 
-La sanción correspondiente a los delincuentes habituales, será el doble de la que, conforme al artículo anterior, corresponda a los simples reincidentes.
+La sanción de los delincuentes habituales será de relegación, y no podrá bajar de la que se les impondría como simples reincidentes, de acuerdo con lo dispuesto en el artículo anterior.
 
 ### CAPITULO VI. Substitución y conmutación de sanciones
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
 ###### ARTICULO 67.
 
@@ -603,11 +617,19 @@ Cuando el juez estime que ni aun con la garantía queda asegurado el interés de
 
 ###### ARTICULO 70.
 
-(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
+La sustitución se hará por los jueces y tribunales, al dictar la sentencia definitiva.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
 ###### ARTICULO 71.
 
-(DEROGADO, D.O.F. 12 DE MAYO DE 1938)
+La sustitución podrá hacerse en los casos siguientes:
+
+I.- Cuando la sanción que corresponda al reo exceda de dos años de prisión;
+
+II.- Cuando la condena sea por fabricación o circulación de moneda falsa, y
+
+III.- Cuando se trate de reincidente o se esté en el caso de la fracción III del artículo 400.
 
 ###### ARTICULO 72.
 
@@ -1601,7 +1623,7 @@ Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y cen
 
 ### CAPITULO II. Vagos y malvivientes
 
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
 ###### ARTICULO 203.
 
@@ -1767,11 +1789,17 @@ El delito de cohecho se castigará con tres meses a cinco años de prisión y mu
 
 Al que cometa el delito de peculado se le aplicarán de seis meses a doce años de prisión, multa de diez a tres mil pesos y destitución de empleo o cargo e inhabilitación de dos a seis años.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
+
 ### CAPITULO I. Privación ilegal de libertad y otras garantías
 
 ###### ARTICULO 220.
 
-Comete el delito de peculado: toda persona encargada de un servicio público, aunque sea en comisión por tiempo limitado y no tenga el carácter de funcionario, que para usos propios o ajenos, distraiga de su objeto el dinero, valores, fincas o cualquiera otra cosa perteneciente a la Nación, a un Estado, a un Municipio o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquiera otra causa.
+Comete el delito de peculado: cualquiera persona que para usos propios o ajenos, sustraiga de su objeto el dinero, valores, fincas o cualquiera otra cosa perteneciente a alguno de los organismos que a continuación se enumeran, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa:
+
+I.- De cualquier institución, empresa, organismo o establecimiento creado por el Estado y en que el mismo se hubiere reservado una participación en la dirección o administración, y
+
+II.- De las universidades que gocen de subsidio de la Federación, del Distrito o Territorios Federales.
 
 ### CAPITULO I. Robo
 
@@ -2125,11 +2153,11 @@ III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualq
 
 ###### ARTICULO 255.
 
-Se aplicará prisión de dos a cinco años, a los delincuentes que reúnan las circunstancias siguientes:
+Se aplicará la sanción de seis meses a tres años de relegación a quienes:
 
-I.- No dedicarse a un trabajo honesto sin causa justificada, y
+I.- No se dediquen a un trabajo honesto sin causa justificada, y
 
-II.- Tener malos antecedentes comprobados por datos de los archivos judiciales o de las oficinas policíacas de investigación. Se estimarán como malos antecedentes para los efectos de este artículo, ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de prostitutas, o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador y sin licencia.
+II.- Tengan malos antecedentes. Se estimarán como malos antecedentes para los efectos de este artículo: ser identificado como delincuente habitual o peligroso contra la propiedad o explotador de prostitutas, o traficante de drogas prohibidas, toxicómano o ebrio habitual, tahur o mendigo simulador o sin licencia.
 
 ###### ARTICULO 256.
 
@@ -2965,7 +2993,9 @@ Se considera como abuso de confianza para los efectos de la pena:
 
 I.- El hecho de disponer o sustraer una cosa, su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial;
 
-II.- El hecho de disponer de la cosa depositada, o sustraerla el depositario judicial que no sea dueño de ella, y
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1944)</small>
+
+II.- El hecho de disponer de la cosa depositada, o sustraerla el depositario judicial o el designado por o ante las autoridades, administrativas o del trabajo.
 
 III.- El hecho de que una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le correspanda (sic) la propiedad.
 
@@ -3176,3 +3206,7 @@ LEY DE PREVENCIONES GENERALES RELATIVA A LA SUSPENSION DE GARANTIAS INDIVIDUALES
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE PREVENCIONES RELATIVA A LA SUSPENSION DE GARANTIAS ESTABLECIDA POR DECRETO DE 1o DE JUNIO DE 1942, QUE SE RELACIONAN CON LA LEY.
 
 1°.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE MARZO DE 1944.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
