@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1993-12-23"
+last_updated: "1995-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -2803,17 +2803,55 @@ Por metro cúbico de arena, cascajo de tierra, de 0.010 sobre el salario mínimo
 
 El pago de este derecho podrá sujetarse a la aplicación de cuotas calculadas por la Tesorería Municipal conforme a volúmenes globales de explotación comercial, previas (sic) los estudios que realice.
 
-### CAPITULO I
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 1995)</small>
 
-ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
+### CAPITULO XX
+
+POR SERVICIOS CATASTRALES.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 212 BIS.- Son contribuyentes de los derechos por servicios Catastrales quienes reciban, previa solicitud, cualquiera de los servicios a cargo de la Oficina Municipal del Catastro, a que se refiere el presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 1995)</small>
+
+ARTICULO 212 BIS 1.- Los derechos por Servicios Catastrales, se sujetarán a la siguiente tarifa, tomando como base el salario mínimo general diario vigente en la zona económica.
+
+I.- A).- Certificado de No Inscripción en el Padrón Catastral, un salario mínimo.
+
+B).- Certificado de Inscripción en el Padrón Catastral, por predio, un día de salario mínimo.
+
+C).- Certificado de Título de Propiedad, de lote en fundo legal, un día de salario mínimo.
+
+D).- Elaboración de Planos Catastrales Urbanos, por 200 metros cuadrados de terreno, dos días de salario mínimo; por cada metro cuadrado excedente de terreno, 4% del salario mínimo y por metro cuadrado de construcción, 2% del salario mínimo.
+
+E).- Elaboración de Planos Catastrales Rústicos y por trabajos de fotogrametría, según presupuesto de la Oficina Municipal de Catastro.
+
+F).- Expedición de "Copia Heliográfica" de la Carta Urbana de la Ciudad de Durango, dos días de salario mínimo.
+
+G).- Expedición de Copia de Plano, tamaño carta, un día de salario mínimo; de dimensiones mayores, según presupuesto de la Oficina Municipal de Catastro.
+
+H).- Certificación de Documentos, por cada firma, lo correspondiente a un día de salario mínimo.
+
+I).- Deslinde Catastral Simple, cinco días de salario mínimo.
+
+II.- AVALÚOS CATASTRALES:
+
+A).- Hasta 6,850 salarios mínimos, el pago será de tres salarios mínimos.
+
+B).- Por lo que exceda de 6,850 salarios mínimos y hasta 7,758 salarios mínimos, el 1.6 al millar.
+
+C).- Por lo que exceda de 7,758 salarios mínimos en adelante, 1.2 al millar.
+
+III.- Por otros servicios solicitados a la Oficina Municipal de Catastro y no contemplados en los apartados anteriores, serán cuantificados por esa dependencia.
 
 ## TITULO CUARTO
 
 PRODUCTOS.
 
-### CAPITULO II
+### CAPITULO I
 
-ARRENDAMIENTO DE BIENES PROPIEDAD DEL MUNICIPIO.
+ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
 
 ###### ARTICULO 213.
 
@@ -2849,9 +2887,9 @@ El pago de los artículos provenientes de la enajenación de bienes que formen p
 
 En ningún caso podrán enajenarse bienes de uso común o destinados al servicio de los Municipios, mientras tengan este carácter o destino.
 
-### CAPITULO III
+### CAPITULO II
 
-POR ESTABLECIMIENTOS O EMPRESAS QUE DEPENDAN DEL MUNICIPIO.
+ARRENDAMIENTO DE BIENES PROPIEDAD DEL MUNICIPIO.
 
 ###### ARTICULO 221.
 
@@ -2873,43 +2911,43 @@ Las rentas mensuales por ocupación de casillas o sitios dentro de los Mercados 
 
 En los contratos o concesiones respectivos, siempre se estipulará el cumplimiento de las obligaciones en ellos contraídas, en caso de no cumplirse en la forma y términos que se estipuló en ellos, se exigirá mediante el ejercicio de la facultad económico- coactivo.
 
-### CAPITULO IV
+### CAPITULO III
 
-POR CREDITOS A FAVOR DEL MUNICIPIO.
+POR ESTABLECIMIENTOS O EMPRESAS QUE DEPENDAN DEL MUNICIPIO.
 
 ###### ARTICULO 226.
 
 Tendrán carácter de productos los ingresos que se obtengan por la explotación de establecimientos o empresas que dependan del municipio.
 
-### CAPITULO V
+### CAPITULO IV
 
-POR VENTA DE BIENES MOSTRENCOS Y ABANDONADOS.
+POR CREDITOS A FAVOR DEL MUNICIPIO.
 
 ###### ARTICULO 227.
 
 Tendrán carácter de productos los ingresos que se obtengan por los créditos a favor del municipio.
 
-### CAPITULO VI
+### CAPITULO V
 
-LOS QUE SE OBTENGAN DE LA VENTA DE OBJETOS RECOGIDOS POR AUTORIDADES MUNICIPALES.
+POR VENTA DE BIENES MOSTRENCOS Y ABANDONADOS.
 
 ###### ARTICULO 228.
 
 Tendrán carácter de productos los ingresos que se obtengan por la venta de bienes mostrencos y abandonados.
+
+### CAPITULO VI
+
+LOS QUE SE OBTENGAN DE LA VENTA DE OBJETOS RECOGIDOS POR AUTORIDADES MUNICIPALES.
+
+###### ARTICULO 229.
+
+Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
 
 ### CAPITULO VII
 
 POR ESTACIONAMIENTO DE VEHICULOS EN LA VIA PUBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES DE TIEMPO.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1993)</small>
-
-###### ARTICULO 229.
-
-Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por Autoridades Municipales.
-
-### CAPITULO UNICO
-
-APROVECHAMIENTOS.
 
 ###### ARTICULO 230.
 
@@ -2931,7 +2969,7 @@ Se aplicará una multa equivalente a 15 días de salario mínimo general vigente
 
 ### CAPITULO UNICO
 
-PARTICIPACIONES.
+APROVECHAMIENTOS.
 
 ###### ARTICULO 231.
 
@@ -2963,9 +3001,13 @@ La falta oportuna del pago de impuestos, derechos, causará un recargo en concep
 
 ### CAPITULO UNICO
 
-INGRESOS EXTRAORDINARIOS.
+PARTICIPACIONES.
 
 ## TITULO SEXTO
+
+### CAPITULO UNICO
+
+INGRESOS EXTRAORDINARIOS.
 
 ###### ARTICULO 233.
 
@@ -3146,3 +3188,7 @@ El presente Decreto entrará en vigor en el Estado de Durango, el día primero d
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 1995.
+
+U N I C O.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
