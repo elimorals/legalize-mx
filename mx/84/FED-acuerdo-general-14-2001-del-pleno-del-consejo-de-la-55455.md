@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-14-2001-del-pleno-del-consejo-de-la-55455"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-03-14"
-last_updated: "2001-04-10"
+last_updated: "2001-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55455&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-03-05"
 
 ACUERDO GENERAL 14/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL FUNCIONAMIENTO DE LAS OFICINAS DE CORRESPONDENCIA COMUN DE LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de marzo de 2001.
 
@@ -55,15 +55,21 @@ Tipos de Oficinas de Correspondencia Común. Se establecerán diferentes Oficina
 
 Cuando en un Circuito o lugar existan Tribunales de Circuito o Juzgados de Distrito especializados, se establecerán diferentes Oficinas de Correspondencia Común para cada especialidad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MAYO DE 2001)</small>
+
+La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, funcionará durante tres semanas, en cada uno de los Reclusorios Preventivos en los que se encuentran establecidos los Juzgados de Distrito de esa materia, en el orden previsto en el Acuerdo General 55/2000, del Pleno del Consejo de la Judicatura Federal.
+
 ###### ARTICULO 3.
 
 Supervisión e Inspección. El Consejo de la Judicatura Federal inspeccionará el funcionamiento de las Oficinas de Correspondencia Común y supervisará el desempeño de los servidores públicos adscritos a las mismas, a través de la Visitaduría Judicial.
 
 Corresponde al Consejo de la Judicatura Federal, a través del Coordinador de Magistrados de Circuito o de Jueces de Distrito respectivo, el nombramiento y remoción del personal adscrito a las Oficinas de Correspondencia Común, a propuesta de los titulares de los órganos jurisdiccionales, previo acuerdo entre ellos.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 4.
 
-Horario. El horario de las Oficinas de Correspondencia Común será desde las ocho horas con treinta minutos hasta las veinticuatro horas, en días hábiles.
+Horario. El horario de las Oficinas de Correspondencia Común será desde las ocho horas con treinta minutos hasta las veinticuatro horas, en días hábiles; con excepción de la Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, que tendrá un horario de las ocho horas con treinta minutos a las catorce horas con treinta minutos.
 
 ###### ARTICULO 5.
 
@@ -96,6 +102,10 @@ Presentación de Oficios y Promociones Urgentes. Cuando se presente en las Ofici
 En caso de que la Oficina de Correspondencia Común reciba este tipo de promociones fuera del horario de labores de los órganos jurisdiccionales, realizará su entrega inmediata al secretario autorizado del Juzgado de Distrito en turno.
 
 Fuera del horario de las Oficinas de Correspondencia Común, las demandas de amparo de trámite urgente serán recibidas por el secretario autorizado del Juzgado de Distrito en turno, quien lo deberá comunicar a la Oficina de Correspondencia Común respectiva, en cuanto ésta reanude sus labores, a fin de que se realice la compensación correspondiente y se equilibren las cargas de trabajo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 26/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE MAYO DE 2001)</small>
+
+Los oficios y promociones urgentes que se dirijan a los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal después de las catorce horas con treinta minutos, se recibirán por el Secretario al efecto autorizado por el Titular de cada Organo Jurisdiccional.
 
 ###### ARTICULO 9.
 
@@ -216,6 +226,12 @@ EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO D
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 10 DE ABRIL DE 2001.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 11 DE MAYO DE 2001.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
