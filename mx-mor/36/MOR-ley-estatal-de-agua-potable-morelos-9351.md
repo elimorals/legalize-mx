@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-agua-potable-morelos-9351"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-26"
-last_updated: "1999-01-20"
+last_updated: "1999-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE AGUA POTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de julio de 1995.
 
@@ -149,9 +149,9 @@ IV.- Aplicar las cuotas o tarifas a los usuarios por los servicios de agua potab
 
 V.- Ordenar y ejecutar la suspensión del servicio, previa su limitación en el caso de uso doméstico, por falta reiterada de pago, así como en los demás casos que se señalan en la presente Ley;
 
-VI.- Elaborar los estudios necesarios que fundamenten y permitan la fijación de cuotas y tarifas apropiadas para el cobro de los servicios.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-En las reuniones que tengan este propósito, podrá invitarse a los representantes del Poder Legislativo en el Estado; en estos casos, el o los legisladores tendrán derecho de voz pero no de voto.
+VI.- Elaborar los estudios técnicos necesarios que fundamenten las propuestas de cuotas y tarifas derivadas de la prestación de los servicios que regula esta Ley.
 
 VII.- Realizar las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la completa prestación de servicios en los términos de la legislación aplicable;
 
@@ -159,7 +159,9 @@ VIII.- Solicitar, cuando las circunstancias así lo exijan, a las autoridades co
 
 IX.- Constituir y manejar fondos de reserva para la rehabilitación, ampliación y mejoramiento de los sistemas a su cargo, para la reposición de sus activos fijos y para el servicio de su deuda;
 
-X.- Apoyar técnicamente y fijar, sobre las bases establecidas por el Congreso del Estado, las cuotas o tarifas, cuando de conformidad con la ley, se concesione, se permita o se autorice a particulares, la conducción, distribución, agua potable, envasamiento o transporte de aguas para servicio al público. La determinación de las tarifas o cuotas y el procedimiento previo para fijarlas se hará conforme a lo previsto en el Título Cuarto, Capítulo III de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+X.- Proponer al Congreso del Estado, las cuotas y tarifas derivadas de la prestación de los servicios que regulan esta Ley;
 
 XI.- Realizar por sí o por terceros las obras para agua potable y alcantarillado de su jurisdicción, y recibir las que se construyan en la misma;
 
@@ -245,11 +247,13 @@ Las autoridades estatales y municipales se deberán coordinar con las autoridade
 
 Igualmente se podrá convenir entre las autoridades estatales y municipales la asistencia técnica que aquéllas presten a éstas o a sus organismos operadores.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Los usos específicos correspondientes a la prestación del servicio de agua potable, son:
+Los usos específicos correspondientes a la prestación de servicios de agua potable son:
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
 
 I.- Doméstico:
 
@@ -261,9 +265,21 @@ C) Habitacional.- Se considera de uso habitacional las viviendas de interés soc
 
 D) Residencial.- Se considera de uso residencial las viviendas cuyos predios excedan de 350 m2 de terreno, con más del 50% de la superficie construida con acabados de lujo, cuenten con áreas verdes y en algunos casos alberca y cuyos ingresos familiares rebasen el equivalente a cinco salarios mínimos mensuales.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
+
 II. Comercial.- Se considera de uso comercial los establecimientos con giro comercial.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
+
 III. Industrial.- Se considera de uso industrial el establecimiento o factoría, donde exista un proceso de transformación de las materias primas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Será atribución de los Ayuntamientos, previa aprobación de sus cabildos fijar los usos específicos que se otorguen, así como el orden de prelación de los mismos. El uso doméstico siempre será preferente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Para lo anterior los Ayuntamientos podrán solicitar el apoyo u opinión de la Secretaría de Desarrollo Ambiental del Estado.
 
 ###### ARTICULO 8.
 
@@ -427,7 +443,9 @@ La Junta de Gobierno, para el cumplimiento de los objetivos del organismo, tendr
 
 I.- Establecer en el ámbito de su competencia, los lineamientos y políticas en la materia, así como determinar las normas y criterios aplicables, conforme a los cuales deberán prestarse los servicios de agua potable, alcantarillado y tratamiento de aguas residuales y manejo de lodos, y realizar las obras que para ese efecto se requieran;
 
-II.- Proponer las tarifas o cuotas que se aplicarán para los cobros de los servicios de conservación, agua potable y saneamiento de agua, incluyendo alcantarillado, en las localidades atendidas por el organismo y en aquéllas que se encuentren concesionadas; en los servicios de conservación se incluye el uso de fosas y pozos de absorción como medio de disposición de las aguas servidas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+II.- Conocer y en su caso aprobar, las cuotas y tarifas derivadas de la prestación o concesión de los servicios que regulan esta Ley, que le sean presentados por el organismo operador municipal y turnarlas al Ayuntamiento que le corresponda, para conocimiento y en su caso aprobación del Cabildo;
 
 III.- Designar y remover en su caso, al Director General del organismo;
 
@@ -517,7 +535,9 @@ II.- Coordinar las actividades técnicas, administrativas y financieras del orga
 
 III.- Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento del organismo;
 
-IV.- Someter a la aprobación de la Junta de Gobierno las propuestas de tarifas y cuotas que pudiere cobrar el organismo por la prestación de los servicios y recuperación de costos e inversiones, en los casos en que preste directamente el servicio; así como, en su caso, las tarifas o cuotas que pudieren cobrar los concesionarios en los servicios de conservación, agua potable y saneamiento de agua; asimismo y cuando proceda, las tarifas a las que se sujetarán la distribución, potabilización, envasamiento y transporte de agua realizado por particulares para servicio al público;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+IV.- Someter a la aprobación de la Junta de Gobierno, con base en los estudios técnicos administrativos y socioeconómicos correspondientes, las cuotas y tarifas derivadas de la prestación de los servicios que regula esta Ley;
 
 V.- Gestionar y obtener, en los términos de la Ley respectiva, y previa autorización de la junta de gobierno, el financiamiento para obras, servicios así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas;
 
@@ -613,6 +633,10 @@ Las relaciones entre el organismo operador intermunicipal y sus trabajadores se 
 
 El organismo operador intermunicipal tendrá las facultades que especifica el artículo 4 de esta Ley; son aplicables al organismo operador intermunicipal además, las reglas que respecto a objetivos, atribuciones, estructura, administración y operación se establecen en el capítulo anterior, con las modalidades que señalan en el presente capítulo, dada su naturaleza intermunicipal prestará los servicios públicos de conservación, agua potable y saneamiento de agua a los municipios que comprenda, de acuerdo a las reglas y condiciones previstas en el convenio que celebren los respectivos Ayuntamientos en los términos de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+Para efectos de las cuotas y tarifas de estos organismos operadores, se aplicarán las señaladas en el artículo 98 de la presente Ley.
+
 ###### ARTICULO 33.
 
 En el órgano de gobierno de los organismos operadores intermunicipales, concurrirán con el carácter de Presidente, el Presidente Municipal del Municipio que se determine en el convenio respectivo, o a falta de determinación, la presidencia será rotativa; y como Vicepresidente, el o los otros Presidentes Municipales de los otros Ayuntamientos que hubieren celebrado el respectivo convenio.
@@ -659,9 +683,7 @@ XIV.- Dictar las condiciones particulares de descarga o pretratamiento de aguas 
 
 XV.- Asesorar, auxiliar y dar asistencia técnica en los aspectos administrativos, operativos y financieros a los organismos operadores así como prestarles los servicios de apoyo que le soliciten;
 
-> <small>(F. DE E., P.O. 2 DE AGOSTO DE 1995)</small>
-
-XVI.- Promover adecuaciones a las cuotas y tarifas de los organismos operadores atendiendo a la necesidad de autosuficiencia financiera y mejoramiento de su capacidad técnica y administrativa, así como la eficiencia del sistema;
+XVI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1999)
 
 XVII.- Coadyuvar con los organismos operadores en las gestiones de financiamiento y planeación de obras para los sistemas de captación, agua potable, conducción, almacenamiento y distribución de agua potable y alcantarillado, así como de tratamientos de aguas residuales y manejo de lodos; y designar a los representantes de las dependencias o entidades que por razón de materia o especialización participen o auxilien a los organismos operadores municipales o intermunicipales. Dichos representantes formarán parte de la junta u órgano de gobierno;
 
@@ -777,7 +799,7 @@ En ningún caso la concesión para la prestación del servicio público de agua 
 
 II.- La concesión total o parcial de los bienes del dominio público que ya existan y que constituyan la infraestructura hidráulica, necesaria para prestar los servicios así como la prestación de los mismos.
 
-Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismo operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
+Dichas concesiones podrán ser otorgadas a través del Ayuntamiento, o bien y en su caso, por conducto del organismo operador municipal o de los organismos operadores intermunicipales, previo acuerdo del Cabildo o Cabildos respectivos.
 
 Las concesiones se otorgarán y revocarán conforme a la presente Ley y de acuerdo con los lineamientos técnicos y políticas que fije el Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Ambiental.
 
@@ -793,7 +815,9 @@ Los servicios no perderán su carácter de públicos en virtud de ser concesiona
 
 El Ayuntamiento, por sí mismo o en su caso, por conducto del organismo operador, ejercerá las facultades de normatividad, asistencia técnica, control, inspección, supervisión y evaluación de los servicios, obras y bienes concesionados, así como ejercer las atribuciones que le corresponden en los términos de la presente Ley. En los casos previstos por el artículo 12 de este ordenamiento, dichas facultades las ejercerá el Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Ambiental.
 
-El Ayuntamiento, el organismo operador o la Secretaría, en su caso, determinarán, en los términos de esta Ley, las tarifas o las cuotas que se cobrarán por el concesionario a los usuarios de los servicios, obras o bienes concesionados, sobre las bases que fije el Congreso del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+El Ayuntamiento propondrá al Congreso del Estado, previa aprobación del Cabildo y en los términos de esta Ley, las cuotas y tarifas que la Junta de Gobierno del organismo operador le presente, misma que cobrara el concesionario a los usuarios de los servicios, obras o bienes concesionados.
 
 El concesionario podrá solicitar al municipio, al organismo operador o a la Secretaría, el ejercicio de los actos de autoridad que les atribuye esta Ley en apoyo al desarrollo de los servicios de agua potable y alcantarillado.
 
@@ -943,11 +967,15 @@ IV.- Rendirán por escrito ante la autoridad concedente, el estudio técnico res
 
 V.- Las demás que les señale este ordenamiento y la autoridad concedente.
 
-### CAPITULO QUINTO. DE LAS ATRIBUCIONES QUE EN FORMA GENERAL CORRESPONDEN A LOS CONCESIONARIOS DEL SECTOR SOCIAL Y PRIVADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO QUINTO. DE LAS ATRIBUCIONES Y OBLIGACIONES QUE EN FORMA GENERAL CORRESPONDEN A LOS CONCESIONARIOS DEL SECTOR SOCIAL Y PRIVADO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 53.
 
-Los concesionarios, sean de grupos organizados de usuarios del sector social o bien de la iniciativa privada en los términos de ésta ley, tendrán las siguientes atribuciones:
+Los concesionarios, sean de grupos organizados de usuarios del sector social o bien de la iniciativa privada en los términos de ésta Ley, tendrán las siguientes atribuciones y obligaciones:
 
 I.- Prestar el servicio u objeto público concesionado con sujeción a lo establecido en esta Ley, a los demás ordenamientos que resulten aplicables y a las disposiciones reglamentarias; apegándose a las políticas y prioridades que establezca la autoridad concedente;
 
@@ -987,7 +1015,9 @@ XVI.- Al ejercer actos derivados del título de la concesión y frente a tercero
 
 XVII.- Elaborar y mantener un registro actualizado de la operación del servicio u objeto público concesionado, las incidencias del mismo y el padrón de usuarios;
 
-XVIII.- Propondrá las cuotas o tarifas que pudieren resultar aplicables en el cobro de la prestación del servicio u objeto público concesionado; anexando el estudio técnico, administrativo y socioeconómico respectivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+XVIII.- Proponer al organismo operador o al Ayuntamiento, según corresponda, las cuotas y tarifas que pudieren resultar aplicables, en los términos de la presente Ley, para el cobro por la prestación del servicio u objeto público concesionado, presentando el estudio técnico, administrativo y socioeconómico que las fundamenta;
 
 XIX.- Las demás que señale este ordenamiento, otras disposiciones legales o la autoridad concedente determine.
 
@@ -1343,15 +1373,19 @@ En épocas de escasez de agua, comprobada o previsible, el Municipio, el organis
 
 ### CAPITULO TERCERO. CUOTAS Y TARIFAS
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 93.
 
-El Congreso del Estado aprobará las tarifas que se causaran por la prestación de los servicios que regula esta ley.
+El Congreso del Estado aprobará, en su caso, cuotas y tarifas derivadas de la prestación de los servicios que regula ésta Ley, que le sean propuestas por los Ayuntamientos en los términos de la misma.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 94.
 
-La Secretaría de Desarrollo Ambiental recabará las propuestas de los Ayuntamientos y de los organismos operadores y junto con las propias, en coordinación con la Secretaría de Hacienda las elevará a la consideración del Ejecutivo del Estado para su presentación al Congreso.
+Los Ayuntamientos, una vez recabadas las propuestas que le hayan presentado en los términos de ésta Ley los organismos operadores y sistemas de agua potable existentes en el municipio y previa aprobación del cabildo presentarán al Congreso del Estado, las cuotas y tarifas derivadas de la prestación de los servicios que regula esta Ley. La propuesta deberá estar sustentada en un análisis técnico, administrativo y socioeconómico que la justifique sin detrimento de la economía de cada organismo operador, sistema de agua potable o del propio municipio.
+
+Para efectos del análisis técnico citado, los Ayuntamientos podrán solicitar apoyo y asesoría de la Secretaría de Desarrollo Ambiental.
 
 ###### ARTICULO 95.
 
@@ -1365,19 +1399,23 @@ Se exceptúa de lo dispuesto en el párrafo anterior, el caso en que la recupera
 
 Para la determinación de las cuotas o tarifas se tomarán también en cuenta los metros cúbicos de agua suministrada o descargada; los metros lineales de banqueta, guarnición o pavimento a reponer y en general, los demás elementos que permitan el correcto cobro de dichos servicios.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 97.
 
-Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios a través de los Consejos Consultivos a que se refiere la presente Ley. Dichos Consejos Consultivos se formarán aún en el caso de que los servicios se presten por los Municipios o por la Secretaría de Desarrollo Ambiental.
+Se podrán revisar y modificar las cuotas o tarifas derivadas de la prestación del os servicios que regulan esta Ley a fin de actualizarlas. Para cualquier modificación propuesta, además de la elaboración del estudio técnico, administrativo y socioeconómico que las fundamente, se deberán tomar en cuenta las recomendaciones y sugerencias que realicen los usuarios a través de los consejos consultivos a que se refiere la presente Ley, las cuales deberán ser analizadas y en su caso aprobadas por la Junta de Gobierno o de Cabildo del Ayuntamiento según corresponda, dichos consejos consultivos se formarán aún en el caso de que los servicios se presten por los Ayuntamientos o por la Secretaría de Desarrollo Ambiental.
 
-La Secretaría de Desarrollo Ambiental elaborará los estudios técnicos financieros de apoyo para las adecuaciones de cuotas o tarifas y los enviará a los Municipios o a los organismos operadores para su consideración.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 98.
 
-El pago de las cuotas y tarifas a que se refiere el presente artículo, es independiente del cumplimiento a lo dispuesto en la Ley General del Equilibrio Ecológico y la protección al ambiente.
+El pago de las cuotas o tarifas a que se refiere el presente artículo, es independiente del cumplimiento a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y serán aplicables de conformidad con lo dispuesto en el artículo cuarto transitorio de la presente Ley.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1999)</small>
 
 Los pagos que deberán cubrir los usuarios por la prestación de los servicios públicos se calcularán en días de salario mínimo general de la zona económica a la que pertenece el Estado, y se clasifican en:
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 1999)</small>
 
 I. Cuotas y tarifas:
 
@@ -1980,3 +2018,21 @@ Se derogan la Ley Tarifara del Sistema de Agua potable de Cuernavaca, publicada 
 ###### ARTICULO TERCERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos que señala la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 29 DE DICIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Remítase el presente Decreto, túrnese al Titular del Poder Ejecutivo del Estado para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTICULO CUARTO.
+
+Hasta en tanto el Congreso del Estado, apruebe las cuotas y tarifas propuestas por los Ayuntamientos, se seguirán aplicando las señaladas en el artículo 98 de esta Ley.
