@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1982-12-30"
+last_updated: "1983-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 1983.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -509,13 +509,17 @@ Las reuniones del Colegio Electoral que sean necesarias para calificar las elecc
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE NOVIEMBRE DE 1983)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leerán cada uno de ellos, ante la Legislatura, el 30 de noviembre, un informe anual, en el que expondrán, en términos generales, el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
+El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia leerán, cada uno de ellos, ante la Legislatura, los días 30 y 15 de noviembre, respectivamente, un informe anual, en el que expondrán, en términos generales, el desarrollo de las labores encomendadas a los Poderes Ejecutivo y Judicial.
+
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
 
 A dichos informes dará contestación el Presidente de la Legislatura.
+
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 1981)</small>
 
 Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, dará lectura a su informe el Secretario de Gobierno.
 
@@ -1618,3 +1622,9 @@ LEY No. 404.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 10 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
