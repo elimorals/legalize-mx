@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "1995-02-05"
+last_updated: "1995-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -1545,6 +1545,8 @@ Tratándose de propaganda o promoción de partidos o grupos políticos, se estar
 
 ### CAPITULO III. Responsabilidad Profesional de Abogados, Defensores y Litigantes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 165.
 
 La Responsabilidad Técnica y Profesional consiste en el incumplimiento de las obligaciones sobre la materia correspondiente, a cargo de profesionistas o técnicos y sus auxiliares, cuando provoquen daño en agravio de otro.
@@ -1585,7 +1587,7 @@ Al responsable se le aplicarán de 6 meses a 2 años de prisión, de 20 a 50 dí
 
 ###### ARTICULO 168.
 
-Existe Responsabilidad Profesional de Abogados, Defensores o Litigantes, cuando:
+Existe responsabilidad profesional de abogados, defensores o litigantes, cuando:
 
 I.- Abandonen una defensa o negocio, sin motivo justificado;
 
@@ -1603,7 +1605,9 @@ VII.- Sólo se concreten a aceptar el cargo de Defensor, de Oficio o Particular,
 
 VIII.- Patrocinen o defiendan directa o indirectamente, en forma habitual, los negocios en los que, no siendo parte interesada los litigantes sin título, persigan éstos obtener un lucro cualquiera, así como cuando autoricen con su firma, en las condiciones indicadas, promociones en negocios judiciales.
 
-Al responsable se le aplicarán de 1 a 3 años de prisión, de 25 a 100 días multa y suspensión de 6 meses a 3 años para ejercer la profesión.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+Al responsable se le aplicarán de 1 a 5 años de prisión, de 50 a 200 días multa y suspensión de 1 a 3 años para ejercer la profesión.
 
 ## TITULO SEPTIMO. DELITOS EN CONTRA DE LA FE PUBLICA
 
@@ -2203,17 +2207,41 @@ Al responsable de Peculado se le aplicarán de 1 a 8 años de prisión, de 25 a 
 
 Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta lícita y las circunstancias especiales de los hechos constitutivos del Tipo.
 
-> <small>(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
 
 ## TITULO DECIMO SEPTIMO
 
-> <small>(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 218.
 
 (DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)
 
-> <small>(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2001)</small>
+
+ARTICULO 218 bis.- También serán consideradas Atentados al Sistema de Elección Popular las siguientes conductas a cargo de los servidores públicos:
+
+I.- No prestar con la debida oportunidad, la ayuda solicitada por las autoridades electorales;
+
+II.- Obligar a sus subordinados a emitir sus votos a favor de un partido político, coalición o candidato;
+
+III.- Condicionar la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio a favor de un partido político, coalición o candidato;
+
+IV.- Destinar fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como:
+
+Vehículos, inmuebles y equipos al apoyo de un partido político, coalición o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados y utilice el tiempo correspondiente a sus labores para que éstos presten servicio a un partido político, coalición o candidato; y
+
+V.- Impedir ilegalmente reuniones, asambleas o manifestaciones pacíficas o cualquier otro acto de propaganda electoral.
+
+A los servidores públicos responsables de las conductas descritas en el presente artículo se les aplicará de 1 a 3 años de prisión.
+
+Se impondrá prisión de 1 a 3 años al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción IV del artículo anterior, independientemente de las sanciones a que se hagan acreedores los partidos políticos por incurrir en tales supuestos.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2001)</small>
+
+ARTICULO 218 ter.- Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo, se podrá imponer además de las penas señaladas, la suspensión de derechos políticos, de 4 a 7 años.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE AGUASCALIENTES, P.O. 5 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 219.
 
@@ -2400,3 +2428,49 @@ Para los efectos del Artículo 21 de la Ley Electoral del Estado de Aguascalient
 ###### ARTICULO QUINTO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los Agentes del Ministerio Público del Estado, a excepción del Procurador General de Justicia, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por éste, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten al examen aquí referido, o en su caso quienes no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO TERCERO.
+
+Los Defensores de Oficio dependientes del (sic) Procuraduría de Protección Ciudadana del Estado, que se encuentren laborando como tales en la actualidad, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por el Procurador de Protección Ciudadana, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten a dicho examen o en su caso no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+La Contraloría General del Estado conocerá del recurso de revisión consignado en el Artículo 42 de la Ley Orgánica del Poder Ejecutivo del Estado, de manera temporal, hasta en tanto se constituya el Tribunal de lo Contencioso Administrativo del Estado, que asumirá esta responsabilidad.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que actualmente se están ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Civiles vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Penales vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+Los Partidos Judiciales del Estado previstos en el Artículo 35 de la Ley Orgánica del Poder Judicial del Estado, entrarán en funciones cuando el presupuesto del propio Poder lo permita y las necesidades lo requieran.
+
+###### ARTICULO OCTAVO.
+
+Para los efectos del Artículo 94 de la Ley Orgánica del Poder Judicial del Estado, por única vez, todos los jueces nombrados de acuerdo al procedimiento que establece la Constitución, podrán ser designados como miembros del Consejo de la Judicatura, sin necesidad de contar con tres años en el ejercicio de su encargo.
+
+###### ARTICULO NOVENO.
+
+Una vez instalada la Contraloría Interna, contará con un término de 30 días para elaborar su Reglamento.
+
+###### ARTICULO DECIMO.
+
+Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Organismos Descentralizados, que actualmente laboran la jornada establecida en el Estatuto Jurídico anterior a la presente reforma, podrán optar entre seguir laborando en dicha jornada que tienen, o bien, adherirse a la jornada que se establece en el Artículo 36 de este Ordenamiento.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
