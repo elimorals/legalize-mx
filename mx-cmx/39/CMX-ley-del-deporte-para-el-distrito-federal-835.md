@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-deporte-para-el-distrito-federal-835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-06"
-last_updated: "2002-12-26"
+last_updated: "2003-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=835&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-10-31"
 
 LEY DEL DEPORTE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE AGOSTO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el Lunes 13 de noviembre de 1995.
 
@@ -132,6 +132,26 @@ VIII.- Coadyuvar en el fortalecimiento de los patrones culturales que determinen
 
 IX.- Determinar a los legítimos representantes del deporte en el Distrito Federal para las competencias nacionales e internacionales.
 
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+X.- Emitir opiniones en materia sanitaria y educativa, relacionada con la práctica del deporte en el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+XI.- Establecer mecanismos de difusión para el conocimiento, práctica y cultura deportiva.
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+XII.- Establecer mecanismos de vinculación con organismos y entidades públicas y privadas para la difusión, promoción, fomento e investigación en materia deportiva.
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+XIII.- Emitir recomendaciones y opiniones en materia de espectáculos deportivos.
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+XIV.- Todas las demás que se deriven del Sistema y Programas Nacionales del Deporte y de la operación y funcionamiento del Sistema.
+
 ###### ARTICULO 10.
 
 El Sistema y el Programa del Deporte del Distrito Federal, se apegarán a los lineamientos establecidos en el Sistema y el Programa Nacionales del Deporte. Establecerán los mecanismos de coordinación para integrar en ellos las actividades que realicen otras instituciones públicas o privadas relacionadas con el deporte.
@@ -220,9 +240,13 @@ IV.- Recibir asistencia y entrenamiento deportivos, así como los servicios méd
 
 V.- Participar en eventos deportivos reglamentarios u oficiales, emanados del Sistema;
 
-VI.- Desempeñar, en su caso, cargos directivos;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
-VII.- Recibir toda clase de estímulos en becas, premios; reconocimientos y recompensas en dinero o especie, en los términos de esta Ley, y
+VI.- Elegir y, en su caso, ser electos para cargos directivos en los organismos deportivos a los que pertenezcan;
+
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+VII.- Recibir los premios y estímulos, en dinero o en especie, ofrecidos en las competencias o eventos deportivos de que se trate, o los que determine esta ley; y
 
 > <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -240,9 +264,13 @@ X.- Participar en la elaboración del programa del deporte, así como de program
 
 XI.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista.
 
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+XII.- Proponer candidatos al Premio al Mérito Deportivo.
+
 > <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
-XII.- Los demás que le otorgue esta ley u otros ordenamientos legales.
+XIII.- Los demás que le otorgue esta ley u otros ordenamientos legales.
 
 ###### ARTICULO 18.
 
@@ -334,9 +362,9 @@ VIII.- Llevar, mantener y actualizar un censo de sus usuarios e instalaciones de
 
 IX.- Contemplar las adecuaciones necesarias en sus instalaciones deportivas de acuerdo a la normatividad respectiva, para la práctica y desarrollo del deporte adaptado, así como el equipamiento, mediadas de seguridad e implementos que requiere la práctica de este deporte, mismos que deberán ser previstos anualmente como parte de los programas que establece la fracción VII que antecede.
 
-> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
-X.- Establecer los lineamientos de operación y servicio de las instalaciones deportivas a su cargo;
+X.- Establecer las reglas de operación y servicio de las instalaciones deportivas a su cargo, de conformidad con los lineamientos y programas que para tal efecto emita el Instituto del Deporte del Distrito Federal.
 
 > <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -420,23 +448,45 @@ IV.- Las acciones que cada uno de los integrantes del Sistema deberá realizar d
 
 El programa del Deporte del Distrito Federal deberá formularse de acuerdo a los siguientes rubros:
 
-I.- Deporte Popular;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
 
-II.- Deporte Estudiantil;
+I.- Deporte orientado a los grupos vulnerables:
 
-III.- Deporte Adaptado;
+a) niñez
 
-IV.- Deporte de Alto Rendimiento;
+b) adultos mayores
 
-V.- Deporte Asociado;
+c) mujeres;
 
-VI.- Deporte para los Adultos Mayores;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+II.- Deporte popular;
+
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+III.- Deporte estudiantil;
+
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+IV.- Deporte adaptado;
+
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+V.- Deporte de alto rendimiento;
+
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+VI.- Deporte asociado;
 
 VII.- Deporte Autóctono y Tradicional;
 
 VIII.- Preparación y profesionalización de entrenadores deportivos; e
 
 IX.- Instalaciones deportivas.
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+X.- Difusión de las (sic) cultura, investigación y desarrollo del deporte.
 
 ###### ARTICULO 28.
 
@@ -564,11 +614,11 @@ Se declara de utilidad social, la construcción, conservación y mantenimiento d
 
 En la construcción de nuevas instalaciones deportivas, así como en el mejoramiento, equipamiento y rehabilitación de los actuales espacios se fomentará el uso de energías, tecnologías y combustibles alternativos.
 
-> <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 42.
 
-Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberán conservarse y mantenerse adecuadamente a fin de que puedan ser utilizados por todos los sectores de la población, especialmente para la práctica del deporte de la infancia.
+Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberán conservarse y mantenerse adecuadamente a fin de que puedan ser utilizados por todos los sectores de la población, especialmente para la práctica del deporte de la infancia, de las personas con discapacidad y de los adultos mayores, de conformidad con la reglamentación establecida.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -576,15 +626,15 @@ Las instalaciones deportivas propiedad del Gobierno del Distrito Federal deberá
 
 El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos, cuando se utilicen para otros fines deberán respetarse los programas y calendarios deportivos previamente establecidos.
 
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 42 Ter.
 
 Los responsables administrativos de las instalaciones deportivas realizadas con recursos de la Federación, Distrito Federal o los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal e inscritas en el Registro del Deporte del Distrito Federal deberán registrar su calendario anual de actividades ante la dependencia responsable del deporte en el Distrito Federal durante los primeros treinta días de cada año.
-
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 42 Cuater (sic).- Los responsables o administradores de toda instalación deportiva deberán tramitar su registro ante la dependencia responsable del deporte en el Distrito Federal, que verificará que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requiere. Debiendo realizarse verificaciones anuales o con anterioridad a petición de los interesados. La dependencia responsable del deporte en el Distrito Federal podrá vetar el uso de cualquier instalación deportiva que no cumpla con los requisitos señalados.
 
 > <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2002)</small>
 
@@ -644,11 +694,11 @@ Los deportistas a quienes se les haya comprobado que incurrieron en dopaje en co
 
 Con el propósito de proteger la salud e integridad de los usuarios de las instalaciones deportivas propiedad del Gobierno del Distrito Federal, la autoridad deportiva del Gobierno del Distrito Federal, garantizará que el personal que a su servicio imparta clases teorico-prácticas de actividades deportivas y físicas, cuente con la capacitación y certificación de conocimientos, para desempeñar tales actividades.
 
-> <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 50.
 
-Los organismos deportivos integrantes del Sistema del Deporte del Distrito Federal que ofrezcan servicios de capacitación o entrenamiento deportivo, están obligadas a garantizar que sus instructores, entrenadores y técnicos cuenten con la certificación de conocimientos avalado por las autoridades competentes y que acrediten su capacidad para ejercerse como tales.
+Los organismos deportivos integrantes del Sistema del Deporte del Distrito Federal que ofrezcan servicios de capacitación, entrenamiento deportivo o atención médica, están obligadas a garantizar que sus instructores, entrenadores, técnicos y personal especializado en medicina deportiva, cuenten con la certificación de conocimientos avalado por las autoridades competentes y que acredite su capacidad para ejercer como tales, además de su incorporación al registro.
 
 El incumplimiento de esta obligación dará lugar a las sanciones que esta Ley prevé.
 
@@ -686,11 +736,15 @@ II.- Fomentar la sana competencia;
 
 III.- Responder a la demanda social como un satisfactor para la práctica deportiva.
 
-> <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2003)</small>
+
+IV.- Difundir la cultura y conocimiento de sus disciplinas deportivas.
+
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 55.
 
-El funcionamiento de las ligas deportivas será de conformidad con esta Ley, su Reglamento y a su normatividad interna.
+El funcionamiento de las ligas deportivas será de conformidad con esta Ley, los Lineamientos para el Uso de las Instalaciones Deportivas, su Reglamento y su normatividad interna.
 
 > <small>(ADICIONADO, G.O. 13 DE MAYO DE 1999)</small>
 
@@ -815,3 +869,13 @@ Artículo Tercero. - El Jefe de Gobierno del Distrito Federal deberá tomar las 
 Artículo Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto de Ley.
 
 Artículo Quinto.- La actualización del Reglamento de la Ley del Deporte del Distrito Federal deberá expedirse dentro de los noventa días hábiles siguientes a la fecha en que entre en vigor este Decreto de Ley.
+
+G.O. 14 DE AGOSTO DE 2003.
+
+Artículo Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal; además, se publicará en el Diario Oficial de la Federación para su mayor difusión.
+
+Artículo Segundo.- La Secretaría de Desarrollo Social del Distrito Federal, por conducto del Instituto del Deporte del Distrito Federal y los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal, deberán contemplar las presentes reformas y adiciones al elaborar su presupuesto respectivo.
+
+Artículo Tercero.- El Jefe de Gobierno del Distrito Federal deberá tomar las medidas necesarias para dar cumplimiento a las presentes reformas y adiciones en el ámbito de su competencia y reformar las disposiciones administrativas necesarias para cumplir con el texto de estas reformas y adiciones. Asimismo deberá expedirse la actualización del Reglamento de la Ley del Deporte del Distrito Federal una vez que haya entrado en vigor este Decreto de ley.
+
+Artículo Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto de Ley.
