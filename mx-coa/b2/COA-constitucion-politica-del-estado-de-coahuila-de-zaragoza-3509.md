@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1972-12-23"
+last_updated: "1973-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1972.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1038,11 +1038,13 @@ La educación que imparta el Estado tendrá el carácter que señala el artícul
 
 El Estado reconoce a la juventud el derecho de que se le complete su educación en instituciones sostenidas con los fondos públicos, sin más limitación que las posibilidades económicas al alcance del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
 ###### Artículo 118.
 
-Sólo el Estado y el Gobierno Federal impartirán educación. El Estado podrá autorizar que la impartan los particulares en los aspectos no controlados por la Federación, siempre que los mismos se ajusten a las normas establecidas por el artículo tercero de la Constitución General de la República.
+Sólo el Estado y el Gobierno Federal impartirán educación, excepción hecha de la universitaria y la preparatoria, en los cuales el Estado no tendrá ingerencia alguna. Ninguna autoridad podrá formar parte de los órganos de gobierno universitarios.
+
+El Estado podrá autorizar que los particulares impartan educación en los aspectos no controlados por la Federación, siempre que los mismos se ajusten a las normas establecidas por el Artículo 3. de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
 
@@ -1050,17 +1052,17 @@ Sólo el Estado y el Gobierno Federal impartirán educación. El Estado podrá a
 
 El Estado podrá retirar en cualquier tiempo el reconocimiento de validez oficial a los estudios hechos en los planteles particulares que haya autorizado.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
 ###### Artículo 120.
 
-Es facultad del Estado la formación de planes, programas, métodos y demás condiciones de la función educacional, facultándose al Poder Ejecutivo para la expedición de los ordenamientos respectivos.
+Es facultad del Estado la formación de planes, programas, métodos y demás condiciones de la función educacional que él imparta, facultándose al Poder Ejecutivo para la expedición de los ordenamientos respectivos.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1942)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
 ###### Artículo 121.
 
-La Instrucción Pública del Estado estará bajo el patrocinio y vigilancia del Gobierno del Estado, y quedará encomendada a una Dirección General de Educación Pública que funcionará de acuerdo con las Leyes y Reglamentos que para el efecto se expidan.
+La instrucción pública que imparta el Estado estará bajo el patrocinio y vigilancia del Gobierno del Estado, y quedará encomendada a una Dirección General de Educación Pública, que funcionará de acuerdo con las leyes y reglamentos que para el efecto se expidan.
 
 ### CAPITULO I.
 
@@ -1372,7 +1374,7 @@ Se suprime en el Estado el recurso de casación en materia criminal y en asuntos
 
 ### CAPITULO UNICO.
 
-De la Inviolavilidad (sic) y reforma de la Constitución.
+De la Inviolavilidad (sic) y Reforma de la Constitución.
 
 ## TITULO SEPTIMO.
 
@@ -1801,3 +1803,9 @@ SEGUNDO.- Hasta en tanto se elija y tome posesión de su cargo el Magistrado Tit
 TERCERO.- Dentro de los diez días siguientes a la fecha en que entren en vigor las reformas a la Ley Orgánica del Poder Judicial, los Ayuntamientos deberán proponer ternas al Congreso del Estado para la elección del Magistrado Propietario y de los Magistrados Supernumerarios de la Cuarta Sala del Supremo Tribunal de Justicia del Estado.
 
 CUARTO.- El Magistrado Propietario y los Magistrados Supernumerarios de la Cuarta Sala del Tribunal Supremo de Justicia del Estado, durarán en su encargo a partir de la fecha de su toma de posesión, hasta el día 30 de noviembre de 1975.
+
+P.O. 16 DE MAYO DE 1973.
+
+PRIMERO.- Se derogan todas las disposiciones legales que se opongan a este decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
