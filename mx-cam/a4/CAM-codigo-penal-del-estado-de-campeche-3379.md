@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1999-04-14"
+last_updated: "1999-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -699,13 +699,17 @@ La substitución se hará por los jueces o tribunales, al dictar la sentencia de
 
 La substitución podrá hacerse en los casos siguientes:
 
-I.- Cuando la sanción que corresponda al reo exceda de dos años de prisión;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+I.- Cuando la sanción que corresponda al reo no exceda de dos años de prisión y siempre que el delito cometido no sea considerado como grave por la ley; y
 
 II.- Cuando se trate de reincidente o se esté en el caso de la fracción III del artículo 376.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### Art. 69.
 
-En los casos del artículo anterior, la sanción de prisión se substituirá por la de confinamiento.
+En los casos del artículo anterior, la sanción de prisión se substituirá por la de confinamiento. Tratándose de personas cuya edad exceda de setenta años, el confinamiento tendrá lugar en su propio domicilio.
 
 ###### Art. 70.
 
@@ -1390,6 +1394,10 @@ Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 ###### Art. 158.
 
 Al que, sin causa legítima, rehusare prestar un servicio de interés público a que la ley le obligue, o desobedeciere un mandato legítimo de la autoridad, se le aplicarán de quince días a un año de prisión y multa de cinco a quince días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+Al que desobedeciera el mandato de arraigo domiciliario o la prohibición de abandonar una demarcación geográfica, dictados por autoridad judicial competente, se le impondrán de seis meses a dos años de prisión y multa de diez a doscientos días de salario mínimo.
 
 ###### Art. 159.
 
@@ -3712,3 +3720,7 @@ P.O. 14 DE ABRIL DE 1999.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE JUNIO DE 1999.
+
+Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
