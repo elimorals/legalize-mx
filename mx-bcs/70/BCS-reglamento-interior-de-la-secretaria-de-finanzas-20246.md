@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-20246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-10"
-last_updated: "2001-04-10"
+last_updated: "2003-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2003.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de febrero de 2001.
 
@@ -529,17 +529,31 @@ XXII. Emitir dictamen sobre la solvencia y liquidez del contribuyente; así como
 
 XXIII. Emitir y notificar los oficios mediante los cuales se amplíen o prorroguen los plazos para concluir las visitas domiciliarias o las revisiones efectuadas en el domicilio de la autoridad, en los términos de las disposiciones legales aplicables; y
 
-XXIV. Las demás que le confieran las disposiciones legales aplicables, así como el Secretario y el Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 20 DE MARZO DE 2003)</small>
+
+XXIV.- Notificar sus propias resoluciones que puedan ser susceptibles de impugnación;
+
+> <small>(ADICIONADA, B.O. 20 DE MARZO DE 2003)</small>
+
+XXV.- Colaborar y coordinarse con otras autoridades del Estado para practicar y emitir los dictámenes periciales contables que le sean solicitados; y
+
+> <small>(ADICIONADA, B.O. 20 DE MARZO DE 2003)</small>
+
+XXVI.- Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario y el Subsecretario de Finanzas dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2003)</small>
 
 ###### ARTÍCULO 19.
 
-La Dirección de Auditoría Fiscal estará a cargo de un Director, quien será auxiliado en sus funciones por un Subdirector, quien lo suplirá en sus ausencias, teniendo este las facultades del titular a excepción de las establecidas en las fracciones III, IV, V, VI, VII, VIII, IX, X, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII y XXIV del artículo anterior, auxiliarán además al Director los Jefes de los Departamentos de:
+La Dirección de Auditoria Fiscal estará a cargo de un Director, quien será auxiliado en sus funciones por un Subdirector, quien lo suplirá en sus ausencias, teniendo éste las facultades del Titular a excepción de las establecidas en las fracciones III, IV, V, VI, VII, VIII, IX, X, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI del Artículo anterior. Auxiliarán además al Director, los Jefes de los Departamentos y Oficinas siguientes:
 
-a) Visitas Domiciliarias y Revisiones de Gabinete;
+Visitas Domiciliarias y Revisiones de Gabinete:
 
-b) Revisión de Dictámenes; y
+Revisión de Dictámenes y Revisiones Ágiles:
 
-c) Programación y Revisiones Ágiles.
+Programación; y
+
+Oficina de Auditoria Fiscal del Municipio de Los Cabos.
 
 ### CAPÍTULO VI. DE LAS UNIDADES DE APOYO DE LA SECRETARÍA
 
@@ -788,3 +802,9 @@ B.O. 10 DE ABRIL DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MARZO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
