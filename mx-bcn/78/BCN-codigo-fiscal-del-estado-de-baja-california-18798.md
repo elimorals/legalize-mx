@@ -4,7 +4,7 @@ identifier: "BCN-codigo-fiscal-del-estado-de-baja-california-18798"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-12-31"
-last_updated: "2000-12-04"
+last_updated: "2002-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2002.
 
 Código publicado en la Sección Decimosegunda del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 1988.
 
@@ -397,9 +397,11 @@ Cuando se paguen en forma espontánea las prestaciones omitidas y sus recargos, 
 
 ###### ARTICULO 28.
 
-El pago de los créditos fiscales deberá hacerse en efectivo en las oficinas de la Recaudación de Rentas del Estado, así como en las Instituciones de Crédito y demás oficinas que autorice la Secretaría de Planeación y Finanzas. En caso de que la autoridad fiscal competente, autorice el pago en especie en los términos del presente Código, éste deberá hacerse en el lugar que la misma designe.
+El pago de los créditos fiscales deberá hacerse en efectivo en las oficinas de Recaudación de Rentas del Estado, así como en las Instituciones de Crédito y demás lugares que autorice la Secretaría de Planeación y Finanzas. En caso de que la autoridad fiscal competente, autorice el pago en especie en los términos del presente Código, éste deberá hacerse en el lugar que la misma designe.
 
-Los giros postales, telegráficos o bancarios; los cheques certificados; los personales del causante, salvo buen cobro, y los pagos efectuados mediante tarjeta de crédito expedida por Institución de Crédito autorizada, se admitirán como efectivo.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2002)</small>
+
+Se admitirán como medios de pago de contribuciones, los giros postales, telegráficos o bancarios, los cheques certificados, los personales del causante salvo buen cobro, y los pagos efectuados mediante tarjeta de crédito ó débito expedida por Institución de Crédito autorizada, transferencia electrónica de fondos, así como por vía internet o cualquier otro proceso electrónico que autorice la Secretaría de Planeación y Finanzas, mediante reglas de carácter general, estos últimos de igual forma deberán entenderse que fueron efectuados en efectivo.
 
 El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás adeudos que se generen.
 
@@ -1288,6 +1290,16 @@ Lo dispuesto en este Artículo no es aplicable a las declaraciones, solicitudes 
 Los sujetos pasivos tendrán obligación de presentar declaraciones y manifestaciones o avisos en las formas que aprueben las Autoridades Fiscales, y de proporcionar los datos e informes que en dichas formas se requieran.
 
 Cuando no existan formas aprobadas, se presentarán mediante escrito que contenga nombre, domicilio, Clave del Registro de Causantes y demás datos relativos a la obligación fiscal de que se trate.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2002)</small>
+
+Los contribuyentes que estén obligados a presentar declaraciones mensuales o trimestrales y avisos de conformidad con las disposiciones fiscales respectivas, podrán hacerlo vía internet o a través de los medios electrónicos autorizados por la Secretaría de Planeación y Finanzas, siempre que reúnan los requisitos que especifique dicha Secretaría, mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2002)</small>
+
+Los contribuyentes podrán presentar las declaraciones o avisos correspondientes en las formas aprobadas por la citada dependencia, para obtener el sello o impresión de la máquina registradora de las oficinas de las Recaudaciones de Rentas del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2002)</small>
 
 Cuando las Disposiciones Tributarias Especiales no señalen plazo para la presentación de estos documentos, se deberán exhibir dentro de los quince días siguientes a la realización del hecho de que se trate. En todos los casos se devolverá al interesado una copia sellada de su escrito.
 
@@ -2526,3 +2538,9 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 4 DE DICIEMBRE DE 2000.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE JUNIO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
