@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1992-01-16"
+last_updated: "1993-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 1993.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -633,7 +633,7 @@ Los contribuyentes sólo podrán recurrir a la compensación, para extinguir sus
 
 ###### Art. 61.
 
-Las obligaciones ante el fisco municipal y los créditos a favor de éste por Impuestos, contribuciones especiales, derechos, productos o aprovechamientos, se extinguen por prescripción, en el término de cinco años. En el mismo plazo, se extingue también por prescripción, la obligación del fisco municipal de devolver las cantidades pagadas indebidamente.
+Las obligaciones ante el fisco municipal y los créditos a favor de éste por impuestos, contribuciones especiales, derechos, productos o aprovechamientos, se extinguen por prescripción, en el término de cinco años. En el mismo plazo, se extingue también por prescripción, la obligación del fisco municipal de devolver las cantidades pagadas indebidamente.
 
 La prescripción del crédito principal extingue simultáneamente los recargos y gastos de ejecución.
 
@@ -1089,9 +1089,9 @@ II. El de Operación; y
 
 III. El catastral o con el que fiscalmente se encuentre empadronado el predio;
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1993)</small>
 
-Será base del impuesto el 33% del valor que resulte más alto entre los referidos anteriormente, siempre que las tablas de valores de terreno y construcción hayan sido publicadas a partir de enero de 1992 o en su caso, el 60% del valor que resulte más alto de los referidos anteriormente, cuando las de valores hayan sido publicadas antes del año de 1992.
+Será base del impuesto, el 50% del valor que resulte más alto entre los referidos anteriormente, siempre que las tablas de valores de terreno y construcción hayan sido publicadas en el Periódico Oficial El Estado de Jalisco, a partir de enero de 1992 o en su caso, el 80% del valor que resulte más alto de los referidos anteriormente, cuando las tablas de valores hayan sido publicadas antes del año de 1992.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -1101,9 +1101,9 @@ Tratándose de inmuebles destinados a vivienda cuya superficie construida no exc
 
 En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el valor que corresponda, en los términos de las fracciones I a III, de este artículo. Para los fines de este Impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% cincuenta por ciento del valor de la propiedad.
 
-(REFORMADO, P.O. 16 DE ENERO DE 1992) (F. DE E., P.O. 17 DE MARZO DE 1992)
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 1993)</small>
 
-Tratándose de permuta, será base de este impuesto el valor consignado en los avalúos de los bienes permutados, cuando éste sea fijado en base a los valores consignados en las Tablas de Valores publicadas en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992, o en su caso, el 33% treinta y tres por ciento, del valor que resulte más alto más de los referidos anteriormente, cuando las Tablas de Valores de terreno y construcción hayan sido publicadas antes del año de 1992. En los casos de transmisión, cesión de derechos hereditarios o de disolución de copropiedad, la base del impuesto será el 60% sesenta por ciento del valor de la parte proporcional entre el bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinados con valores consignados en las Tablas de Valores publicados en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992, o en su caso, el del valor que resulte más alto de los referidos anteriormente, cuando dichas tablas hayan sido publicadas antes del año de 1992. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la Tesorería Municipal está facultada para exigir se acredite su existencia para proceder a su valuación.
+Tratándose de permuta, será base de este impuesto el 50% del valor consignado en los avalúos de los bienes permutados, cuando éste sea fijado en base a los valores consignados en las tablas de valores de terreno y construcción publicadas en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992, o en su caso, el 80%, del valor que resulte más alto mas de los referidos anteriormente, cuando las Tablas de Valores de terreno y construcción hayan sido publicadas antes del año de 1992. En los casos de transmisión, cesión de derechos hereditarios o de disolución de copropiedad, la base de impuesto será el 50% del valor de la parte proporcional entre el bien o bienes que correspondan a los derechos que se transmitan o que se incrementen las correspondientes porciones de los copropietarios o coherederos determinados con valores consignados en las tablas de valores publicados en el Periódico Oficial El Estado de Jalisco, a partir del mes de enero de 1992, o en su caso, el 80% del valor que resulte más alto de los valores referidos anteriormente, cuando dichas tablas hayan sido publicadas antes del año de 1992. Si para la disolución de copropiedad o de sociedad legal se consideran valores pecuniarios, la Tesorería Municipal está facultada para exigir se acredite su existencia para proceder a su valuación.
 
 Cuando con motivo de la adquisición, el adquirente asume la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
 
@@ -2790,3 +2790,7 @@ Artículo Segundo. El presente Decreto entrará en vigor el día 1.º primero de
 P.O. 16 DE ENERO DE 1992.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 6 DE FEBRERO DE 1993.
+
+Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
