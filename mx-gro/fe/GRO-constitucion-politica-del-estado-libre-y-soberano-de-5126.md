@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1945-01-03"
+last_updated: "1945-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1945.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -449,7 +449,9 @@ XXXIV. Conceder carta de ciudadanía a los ciudadanos de otros Estados, que fuer
 
 XXXV. Rehabilitar, con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadano o los civiles, o estén suspensos en el ejercicio de sus derechos.
 
-XXXVI. Nombrar y remover a los empleados de su Secretaría, y a los de la Contaduría de Glosa.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1945)</small>
+
+XXXVI. Nombrar y remover a los empleados de sus Secretarías y de la Contaduría de Glosa, de acuerdo con las Leyes relativas.
 
 XXXVII. Ejercer todas las facultades propias de un Cuerpo Legislativo, en todo aquello que no pugne con esta Constitución o la General de la República.
 
@@ -651,7 +653,7 @@ X. Imponer gubernativamente las penas correccionales, pecuniarias o de reclusió
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 5 DE ABRIL DE 1933, SE DEROGAN LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, QUEDANDO EN VIGOR LOS ARTICULOS COMO SE ENCONTRABAN TODOS ELLOS INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
 
-> <small>(REFORMADA. P. O. 5 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA. P.O. 5 DE ABRIL DE 1933)</small>
 
 XI. Suspender con causa justificada, a los Ayuntamientos o alguno de sus miembros, dando cuenta al Congreso o a la Diputación Permanente, en su caso, con el expediente, respectivo para que determine lo conveniente.
 
@@ -661,17 +663,19 @@ XIII. Informar al Tribunal Superior de Justicia de las faltas que cometan los Ju
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO NUMERO 2 PUBLICADO EN EL PERIODICO OFICIAL DE 5 DE ABRIL DE 1933, SE DEROGAN LAS REFORMAS, ADICIONES Y SUPRESIONES HECHAS A LA CONSTITUCION POLITICA DEL ESTADO DE GUERRERO, DECRETADAS EL 27 DE DICIEMBRE DE 1932, Y TODAS LAS LEYES Y DISPOSICIONES EMANADAS DE LAS REFORMAS ALUDIDAS, QUEDANDO EN VIGOR LOS ARTICULOS COMO SE ENCONTRABAN TODOS ELLOS INMEDIATAMENTE ANTES DE LA FECHA SEÑALADA.</small>
 
-> <small>(REFORMADA. P. O. 5 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA. P.O. 5 DE ABRIL DE 1933)</small>
 
 XIV. Mandar visitar los Ayuntamientos cuando notare irregularidades, faltas o graves deficiencias en el funcionamiento y marcha administrativa de dichas corporaciones.
 
 Las visitas respectivas podrá encomendarlas a comisionados accidentales de reconocida justificación y probidad, los que se sujetarán en todo caso, a las instrucciones que por escrito les diere el Ejecutivo.
 
-> <small>(REFORMADA P.O. 22 DE ENERO DE 1930)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1945)</small>
 
-XV. Nombrar y remover al Secretario General del Gobierno, al Procurador General de Justicia, al Tesorero General y a los demás empleados que de él dependan.
+XV. Nombrar y remover al Secretario General del Gobierno, Procurador General de Justicia, Director General de Hacienda y Economía y a los demás empleados que de él dependan, de acuerdo con las Leyes relativas.
 
-XVI. Conceder o negar licencias a los funcionarios y empleados de su dependencia, con goce de sueldo las que se soliciten con causa justificada, y por término que no pase de dos meses.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1945)</small>
+
+XVI. Conceder o negar licencias con goce de sueldo a los funcionarios que lo soliciten con causa justificada y a los demás empleados de su dependencia, de acuerdo con lo dispuesto por las Leyes en vigor.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1322,3 +1326,9 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 ###### Art. 2o.
 
 Se derogan todas las Leyes anteriores en la parte que se opongan a la presente.
+
+P.O. 27 DE JUNIO DE 1945.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
