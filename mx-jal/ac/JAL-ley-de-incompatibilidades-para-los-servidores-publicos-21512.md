@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "2000-07-11"
+last_updated: "2001-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -199,11 +199,11 @@ En el Poder Judicial, las incompatibilidades serán analizadas, según el caso, 
 
 Las incompatibilidades que surjan por cargos y empleos entre el Poder Judicial y el Poder Legislativo serán analizadas y resueltas por el titular del Poder Ejecutivo a través de la Secretaría de Administración del Estado.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 23.
 
-En los municipios, las incompatibilidades serán analizadas por el Oficial Mayor Administrativo del Ayuntamiento, o quien haga sus veces, y el Cabildo en pleno, resolverá lo que proceda.
+En los municipios, las incompatibilidades serán analizadas por el Oficial Mayor Administrativo del Ayuntamiento, o quien haga sus veces, y el Ayuntamiento en pleno, resolverá lo que proceda.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -312,3 +312,7 @@ P.O. 4 DE MAYO DE 2000.
 P.O. 11 DE JULIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
