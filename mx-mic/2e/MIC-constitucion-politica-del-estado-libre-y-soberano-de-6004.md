@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1928-10-25"
+last_updated: "1930-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1930.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -961,9 +961,13 @@ Los empleados que manejen fondos públicos, darán fianza en la forma que la ley
 
 Instrucción Pública.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1930)</small>
+
 ###### Artículo 130.
 
-La Instrucción Primaria dependerá directamente del Gobierno, quien cuidará de fomentarla por todos los medios posibles, favoreciendo el establecimiento de Sociedades Pedagógicas, las cuales gozarán de todos los derechos que a las personas morales conceden las leyes, y subvencionará las escuelas particulares que reunan los requisitos que fije la ley Orgánica de Instrucción. La secundaria dependerá de un Consejo Universitario.
+La Instrucción Pública dependerá directamente del Gobierno el que cuidará de fomentarla por todos los medios posibles, favoreciendo el establecimiento de sociedades pedagógicas, las cuales gozarán de todos los derechos que a las personas morales concedan las leyes, y subvencionará las Escuelas Particulares que reúnan los requisitos que fije la Ley Orgánica de Instrucción.
+
+La Enseñanza preparatoria y profesional estará a cargo de la Universidad Michoacána de San Nicolás de Hidalgo, y la Normal para Maestros a cargo directamente del Ejecutivo del Estado, conforme a la Ley Orgánica respectiva.
 
 ###### Artículo 131.
 
@@ -1364,3 +1368,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 25 DE OCTUBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LE ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+
+P.O. 27 DE OCTUBRE DE 1930.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
