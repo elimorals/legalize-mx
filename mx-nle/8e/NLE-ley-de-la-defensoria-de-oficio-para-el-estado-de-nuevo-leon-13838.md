@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-defensoria-de-oficio-para-el-estado-de-nuevo-leon-138
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-18"
-last_updated: "1997-06-18"
+last_updated: "1999-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA DEFENSORIA DE OFICIO PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de junio de 1997.
 
@@ -71,17 +71,19 @@ Contará, además, con el personal técnico y administrativo que sea necesario p
 
 El Director, los Coordinadores, los Defensores de Oficio, y los auxiliares de éstos serán nombrados y removidos en los términos previstos en la Constitución Política del Estado, y la Ley Orgánica de la Administración Pública del Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1999)</small>
+
 ###### ARTICULO 6.
 
-En los Distritos Judiciales del primero al cuarto serán designados tantos Defensores de Oficio como Juzgados Penales ejerzan su jurisdicción en los mismos; así como uno para cada uno de los juzgados en las materias no penales en las que legalmente deba prestar sus servicios la Defensoría de Oficio. Igualmente, deberá haber un defensor en cada una de las Salas del Tribunal Superior de Justicia.
+El Secretario General de Gobierno, por conducto del Director, determinará la adscripción de los defensores de oficio y de sus auxiliares, atendiendo a los requerimientos del servicio que se presenten en las Salas del Tribunal Superior de Justicia, Juzgados de Primera Instancia, Agencias del Ministerio Público, Juzgados Menores, Alcaldías Judiciales y Consejo Estatal de Menores.
 
-En el resto de los Distritos Judiciales del Estado, habrá un Defensor de Oficio adscrito al Juzgado Mixto de Primera Instancia, que conocerá de los asuntos en las materias mencionadas en el párrafo anterior.
-
-También deberá haber un Defensor de Oficio adscrito a cada uno de los Juzgados Menores y Alcaldías Judiciales del Estado.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Con el propósito de que toda persona detenida por causas de orden criminal cuente de inmediato con asistencia legal, habrá Defensores de Oficio adscritos a las Agencias del Ministerio Público Investigadoras y Auxiliares de Defensores de Oficio en las Delegaciones Ministeriales, en todo el Estado, en cualquier día y hora que se les requiera.
+Con el propósito de que toda persona detenida por causas de orden criminal cuente de inmediato con asistencia legal, habrá Defensores de Oficio en las Agencias del Ministerio Público Investigadoras y Auxiliares de Defensores de Oficio en las delegaciones ministeriales, en todo el Estado. El Reglamento de esta Ley determinará la forma en que cubrirán los horarios de servicio.
+
+Para la estricta observancia de lo dispuesto en el artículo 4 de la Ley del Consejo Estatal de Menores, se designarán a los Defensores de Oficio que resulten necesarios para la debida atención de los casos que sean materia de esa Institución.
 
 ###### ARTICULO 8.
 
@@ -190,6 +192,10 @@ V. Coordinador del Area Foránea;
 VI. Coordinador del Area de Segunda Instancia y Amparos; y
 
 VII. Coordinador del Area de Apoyo Técnico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1999)</small>
+
+VIII. Coordinador del Area del Consejo Estatal de Menores.
 
 ###### ARTICULO 17.
 
@@ -366,6 +372,22 @@ El Coordinador de esta Area podrá contar con responsables de las labores de los
 ###### ARTICULO 34.
 
 Los auxiliares del Coordinador del Area de Apoyo Técnico a que se refiere el último párrafo de la disposición anterior, deberán reunir los requisitos exigidos para ser Coordinador; sin embargo, el requisito del título de Licenciado en Derecho podrá ser cubierto con título profesional, según sea su materia, de acuerdo al sector técnico en que habrán de desempeñarse.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1999)</small>
+
+ARTICULO 34 BIS. La Coordinación del Area del Consejo Estatal de Menores estará constituida por un Coordinador, los Defensores, los Auxiliares que se requieren, quienes prestarán sus servicios en el Consejo Estatal de Menores.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1999)</small>
+
+ARTICULO 34 BIS 1. Corresponderá a la Coordinación del Area del Consejo Estatal de Menores, el despacho de los siguientes asuntos:
+
+I. Asistir jurídicamente a los Menores sujetos a los procedimientos previstos en la Ley del Consejo Estatal de Menores, con facultades para intervenir sobre la aplicación de las medidas de orientación, de protección o de tratamiento de externación o internación;
+
+II. Vigilar que se respeten los Derechos del Menor, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y la Constitución Política Local;
+
+III. Proteger los derechos e intereses de los menores ante el Consejo, dentro y fuera del procedimiento;
+
+IV. Los demás que establezca la Ley.
 
 ### CAPITULO CUARTO. De los Defensores de Oficio
 
@@ -638,3 +660,9 @@ BENJAMIN CLARIOND REYES-RETANA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY
+
+P.O. 15 DE FEBRERO DE 1999.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
