@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "1973-04-04"
+last_updated: "1974-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 1973
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1974.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -1323,11 +1323,15 @@ En estos casos, el demandado puede promover la incompetencia si objeta el valor 
 
 En los negocios relativos a bienes inmuebles, se considerará como valor, para los efectos de la cuantía, tres veces más del consignado en la escritura, y en su defecto, también dos tantos más del manifestado en la oficina fiscal del Estado respectiva. Cuando, por cualquier circunstancia, el valor no pueda determinarse en la forma expresada, se tomará como tal el declarado por el actor, pudiendo el demandado objetarlo y promover cuestión de competencia.
 
-###### ARTICULO 192.
+> <small>(REFORMADO PRIMER PARRAFO, 27 DE JULIO DE 1974)</small>
 
-Los jueces de primera instancia, con exclusión de los jueces menores, conocerán de los siguientes asuntos.
+###### Artículo 192.
 
-I.- De aquéllos en que la cuantía exceda de dos mil quinientos pesos;
+Los Jueces de Primera Instancia, con exclusión de los Jueces Menores, conocerán de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 1974)</small>
+
+I.- De aquéllos negocios en que la cuantía exceda de Cinco Mil Pesos.
 
 II.- De las cuestiones sobre estado civil o capacidad de las personas;
 
@@ -1577,7 +1581,7 @@ Toda recusación se interpondrá ante el magistrado o juez que conozca del negoc
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
-El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la listas de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
+El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
 
 ###### ARTICULO 220.
 
@@ -4693,7 +4697,7 @@ Si el embargo o ejecución afectare bienes de la sociedad legal, deberá reducir
 
 ###### ARTICULO 673.
 
-La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución se sustanciarán en la forma prevista para las tercerías.
+La oposición de tercero, cuando aleguen derechos de dominio o de preferencia sobre los bienes embargados, o resulten afectados por la ejecución, se sustanciarán en la forma prevista para las tercerías.
 
 ###### ARTICULO 674.
 
@@ -6183,7 +6187,7 @@ VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de i
 
 ### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 1974)</small>
 
 ###### ARTICULO 830.
 
@@ -6267,7 +6271,7 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 ###### ARTICULO 844.
 
-Los negocios cuyo interés no exceda de dos mil quinientos pesos se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Para los asuntos mayores de trescientos pesos se seguirá el procedimiento fijado para el juicio sumario; los que no excedan se resolverán conforme a los artículos siguientes.
+Los negocios cuyo interés no exceda de Cinco Mil Pesos, se tramitarán ante los Jueces Menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Para los asuntos mayores de trescientos pesos se seguirá el procedimiento fijado para el juicio sumario; los que no excedan se resolverán conforme a los artículos siguientes.
 
 ###### ARTICULO 845.
 
@@ -7068,3 +7072,9 @@ Este Decreto comenzará a surtir sus efectos a partir de su publicación en el P
 P.O. 4 DE ABRIL DE 1973
 
 UNICO.- Este decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 1974
+
+PRIMERO.- Los negocios judiciales cuya cuantía exceda de Dos Mil Quinientos Pesos y que actualmente se encuentren radicados en los Juzgados de Primera Instancia, continuarán en dicha forma hasta su debida conclusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
