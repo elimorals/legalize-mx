@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-fauna-del-estado-de-morelos-21505"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "1997-04-30"
+last_updated: "2001-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE FAUNA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 30 de abril de 1997.
 
@@ -79,9 +79,11 @@ Para efectos de esta Ley la fauna silvestre es aquella que vive libremente en lo
 
 La fauna doméstica está constituida por los animales que viven bajo el cuidado y control del hombre. Quedan encuadrados dentro de esta clasificación aquellos que por abandono sean susceptibles de captura y apropiación por los medios autorizados en este Ordenamiento y su Reglamento.
 
-###### Artículo 4.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-La Secretaría de Desarrollo Ambiental será la autoridad encargada de aplicar las disposiciones establecidas en esta Ley, así como de vigilar el cumplimiento de las mismas.
+###### ARTICULO 4.
+
+La autoridad encargada de aplicar las disposiciones establecidas en esta Ley, así como de vigilar el cumplimiento de las mismas, será la dependencia u organismo de la Administración Pública Estatal encargada de atender el ramo del agua y el medio ambiente; para los efectos de esta Ley se le denominará dependencia u organismo.
 
 ###### Artículo 5.
 
@@ -105,9 +107,11 @@ d).- Conservar y propagar los recursos que sirven de alimentación y abrigo a la
 
 La protección de la fauna migratoria se ejerce de acuerdo con la normatividad federal vigente y los preceptos de esta Ley, su Reglamento y los Tratados Internacionales celebrados y los que en el futuro se celebren.
 
-###### Artículo 8.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Las Autoridades Federales, Locales y Municipales, los clubes de cazadores y todos los habitantes del Estado de Morelos, son corresponsables con la Secretaría de Desarrollo Ambiental en el logro de las finalidades señaladas en esta Ley.
+###### ARTICULO 8.
+
+Las Autoridades Federales, Locales y Municipales, los clubes de cazadores y todos los habitantes del Estado de Morelos, son corresponsables con la dependencia u organismo estatal en el logro de las finalidades señaladas en esta Ley.
 
 ###### Artículo 9.
 
@@ -143,17 +147,23 @@ Cualquier persona puede denunciar a la autoridad señalada en el artículo 3 de 
 
 La autoridad ante quien se ponga a disposición animales que hayan sido víctimas de faltas a esta Ley, ordenará de inmediato la custodia a cargo de las asociaciones protectoras, debiéndose dar un plazo de 72 horas para que comparezca el dueño, en caso de que se desconozca quien lo sea.
 
-###### Artículo 17.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Cuando el responsable de la falta sea el propietario del animal, bien por dolo o negligencia y en forma directa o indirecta, además de la sanción que se le imponga, no recuperará el animal si no queda plenamente acreditado su compromiso de darle en lo sucesivo trato humanitario; en el caso de especie silvestre se informará además a la PROFEPA.
+###### ARTICULO 17.
 
-###### Artículo 18.
+Cuando el responsable de la falta sea el propietario del animal, bien por dolo o negligencia y en forma directa o indirecta, además de la sanción que se le imponga, no recuperará el animal si no queda plenamente acreditado su compromiso de darle en lo sucesivo trato humanitario; en el caso de especie silvestre se informará además a la Procuraduría Federal de Protección al Ambiente.
 
-Ante denuncias de maltrato en domicilio determinado, la Secretaría de Desarrollo Ambiental ordenará por escrito la práctica de una visita, misma que se sujetará a las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+
+###### ARTICULO 18.
+
+Ante denuncias de maltrato en domicilio determinado, la dependencia u organismo estatal ordenará por escrito la práctica de una visita, misma que se sujetará a las siguientes reglas:
 
 a).- El Visitador se constituirá en el domicilio señalado, cerciorándose que sea el domicilio buscado.
 
-b).- Se identificará ante el ocupante mediante carta credencial vigente, expedida por la Secretaría de Desarrollo Ambiental, en la que debe constar nombre y cargo del funcionario que autoriza, sello oficial, nombre del visitador, cargo, firma, fotografía y fecha de vigencia.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+b).- Se identificará ante el ocupante mediante carta credencial vigente, expedida por la dependencia u organismo estatal, en la que debe constar nombre y cargo del funcionario que autoriza, sello oficial, nombre del visitador, cargo, firma, fotografía y fecha de vigencia.
 
 c).- Hará saber el motivo de la visita y mostrará el oficio de comisión respectivo.
 
@@ -363,13 +373,17 @@ REFUGIOS PARA ANIMALES, ZONAS DE VEDA Y PROPAGACION
 
 La captura de animales silvestres con fines de propagación, obliga al permisionario a observar la normatividad federal, la presente Ley y su Reglamento.
 
-###### Artículo 56.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Los permisionarios entregarán a la Secretaría de Desarrollo Ambiental los ejemplares enfermos que ocasionalmente capturen, a fin de que se investiguen las causas de la enfermedad, se combatan y controlen las epizootias con eficacia.
+###### ARTICULO 56.
 
-###### Artículo 57.
+Los permisionarios entregarán a la dependencia u organismo estatal los ejemplares enfermos que ocasionalmente capturen, a fin de que se investiguen las causas de la enfermedad, se combatan y controlen las epizootias con eficacia.
 
-El ejercicio de la caza en el Estado de Morelos, tiene las limitaciones establecidas en la Ley Federal de Caza y en las disposiciones que mediante esta Ley dicte la Secretaría de Desarrollo Ambiental con el fin de contribuir a la conservación de la fauna y el equilibrio ecológico ambiental.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
+###### ARTICULO 57.
+
+El ejercicio de la caza en el Estado de Morelos, tiene las limitaciones establecidas en la Ley Federal de Caza y en las disposiciones que mediante esta Ley dicte la dependencia u organismo estatal con el fin de contribuir a la conservación de la fauna y el equilibrio ecológico ambiental.
 
 ###### Artículo 58.
 
@@ -413,7 +427,9 @@ IV.- Inspeccionar los centros de cautiverio y matanza de animales en el Estado, 
 
 La Comisión Estatal de Protección a los Animales se integrará por representantes propietario y suplente de las siguientes Entidades:
 
-I.- Un representante de la Secretaría de Desarrollo Ambiental.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+I.- Un representante de la dependencia u organismo estatal.
 
 II.- Un representante de la Dirección General de Protección Civil.
 
@@ -465,9 +481,11 @@ VII.- Las demás que determine la presente Ley o su Reglamento.
 
 De las faltas cometidas por los cazadores o capturadores clandestinos, también se considera responsable a los remitentes, consignatarios y porteadores de los productos de la caza.
 
-###### Artículo 71.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
-Las infracciones a lo dispuesto en esta Ley, se sancionarán por el Secretario de Desarrollo Ambiental con multas de hasta sesenta salarios mínimos vigentes en el Estado de Morelos o bien con arrestos hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
+###### ARTICULO 71.
+
+Las infracciones a lo dispuesto en esta Ley, se sancionarán por el titular de la dependencia u organismo estatal con multas de hasta sesenta salarios mínimos vigentes en el Estado de Morelos o bien con arrestos hasta por treinta y seis horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que se haya dado lugar.
 
 Las sanciones anteriores se aplicarán sin perjuicio de las demás que procedan conforme a otros ordenamientos.
 
@@ -479,9 +497,11 @@ Los responsables de los rastros que no cumplan con las disposiciones señaladas 
 
 Son reincidentes las personas que hayan sido sancionadas por dos o más faltas relacionadas con la presente Ley en un lapso de 5 años.
 
-###### Artículo 74.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
-Cuando los infractores abandonen los implementos utilizados en la captura o sacrificio de animales, procede su decomiso y remate por la Secretaría de Desarrollo Ambiental, siguiendo las reglas establecidas en el Código Procesal Civil vigente en el Estado.
+###### ARTICULO 74.
+
+Cuando los infractores abandonen los implementos utilizados en la captura o sacrificio de animales, procede su decomiso y remate por la dependencia u organismo estatal, siguiendo las reglas establecidas en el Código Procesal Civil vigente en el Estado.
 
 El producto de los remates se entregará invariablemente a la Secretaría de Hacienda, en un plazo no mayor de treinta días contados a partir de la fecha de su venta.
 
@@ -491,33 +511,23 @@ Las multas se harán efectivas por las oficinas de Hacienda, con sujeción a las
 
 ### CAPITULO XII. DEL RECURSO DE RECONSIDERACION
 
-###### Artículo 76.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
 
-Contra las resoluciones y actos de las autoridades que cause agravio a los particulares, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
+###### ARTICULO 76.
 
-###### Artículo 77.
+Contra las resoluciones y actos de las autoridades que causen agravio a los particulares procederá el recurso de impugnación, en los términos previstos en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
-El recurso de reconsideración se interpondrá por escrito ante la autoridad que haya emitido la resolución o ejecutado el acto, dentro de los quince días hábiles siguientes a su notificación o de aquél en que se haya tenido conocimiento, si no hubo notificación.
+###### ARTICULO 77.
 
-En dicho escrito se expresará:
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-I.- El nombre y domicilio del recurrente, los agravios que le causen la resolución o el acto impugnado y los elementos de prueba que se consideren necesarios. Al escrito se acompañarán las constancias que acrediten la personalidad del recurrente, cuando se actúe en nombre de otro o de personas morales.
+###### ARTICULO 78.
 
-II.- La fecha en que el recurrente tuvo conocimiento de la resolución impugnada o acto recurrido, anexando la documentación respectiva.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-III.- El acto o resolución que se impugne; y
+###### ARTICULO 79.
 
-IV.- La mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto.
-
-###### Artículo 78.
-
-La autoridad, al recibir el recurso verificará si éste fue interpuesto en tiempo y forma, y una vez valorado emitirá un acuerdo de admisión o rechazo.
-
-En caso de admisión se decretará la suspensión del acto y se abrirá un período de desahogo de pruebas, que no excederá los quince días hábiles, término que inicia a partir de la notificación del proveído de admisión.
-
-###### Artículo 79.
-
-Desahogado el período de pruebas, y en un plazo que no excederá los 10 días hábiles se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto impugnado. Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo, en el domicilio que hubiese señalado para tal efecto.
+(DEROGADO, P.O. 23 DE MAYO DE 2001)
 
 ## TRANSITORIOS
 
@@ -566,3 +576,11 @@ SECRETARIA DE DESARROLLO AMBIENTAL
 URSULA OSWALD SPRING
 
 RUBRICAS.
+
+N DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 23 DE MAYO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto, al Titular Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
