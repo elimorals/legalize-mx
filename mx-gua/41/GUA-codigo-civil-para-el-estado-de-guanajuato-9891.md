@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1996-07-30"
+last_updated: "1997-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -10581,7 +10581,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -13163,13 +13163,17 @@ El registro producirá sus efectos desde el día y la hora en que el documento s
 
 Cuando vaya a otorgarse una escritura en la que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso preventivo deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la anotación marginal correspondiente, anotación que tendrá vigencia por un término de veinte días naturales a partir de la fecha de presentación de la solicitud.
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público dentro de los cinco días siguientes y contendrá además de los datos mencionados en el párrafo anterior, el número y la fecha de la escritura. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de veinte días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo, en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
-Si el testimonio respectivo se presentare el Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público dentro de los cinco días hábiles siguientes, de no ser así quedará sin efectos y, contendrá además de los datos mencionados en el párrafo anterior, el número y la fecha de la escritura. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de veinte días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo, en caso contrario, solo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, podrá dar aviso preventivo, con vigencia por noventa días, el notario, o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratifica ante el registrador, este deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
-Igualmente podrá registrarse en forma preventiva, el embargo sobre bienes inmuebles a petición del ejecutante, o su representante, mediante simple aviso por escrito que deberá expedir el Ministro Ejecutor en el momento de la diligencia judicial que contenga los nombres de las partes en el juicio o providencia en que se hubiere despachado, el tribunal que despacho la ejecución, el número del expediente correspondiente, el monto del crédito o de la providencia precautoria, la naturaleza del juicio o providencia, la fecha del embargo y los datos registrales que permitan la identificación del inmueble. Este aviso preventivo quedará sin efecto si el ejecutante no presenta las copias certificadas del embargo dentro del término de treinta días naturales siguientes al de la presentación del aviso.
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, podrá dar aviso preventivo, con vigencia por noventa días naturales, el notario, o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratifica ante el registrador, este deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
+
+Igualmente podrá registrarse en forma preventiva, el embargo sobre bienes inmuebles a petición del ejecutante, o su representante, mediante simple aviso por escrito que deberá expedir el Actuario en el momento de la diligencia judicial que contenga los nombres de las partes en el juicio o medida precautoria en que se hubiere despachado, el tribunal que despachó la ejecución, el número del expediente correspondiente, el monto del crédito o de la medida precautoria, la naturaleza del juicio o medida, la fecha del embargo y los datos registrales que permitan la identificación del inmueble. Este aviso preventivo quedará sin efecto si el ejecutante no presenta las copias certificadas del embargo dentro del término de treinta días naturales siguientes al de la presentación del aviso.
 
 Los avisos preventivos a que se refiere este artículo no causarán pago de derechos.
 
@@ -13225,7 +13229,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1820;
 
-VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción.
+VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción;
 
 ###### Art. 2525.
 
@@ -14335,13 +14339,13 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 Se prohíbe a los Notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
 ###### Art. 2764.
 
-El Notario que hubiere autorizado el testamento, dará aviso de ello dentro del término de cinco días hábiles al Registro Público de la Propiedad del Partido Judicial de su Adscripción, haciéndole saber únicamente el número del instrumento, su fecha y el nombre completo del testador. El registrador anotará estos datos y el nombre y número del Notario, en un libro especial, que llevará por orden alfabético de apellidos y nombres de los testadores. Los datos contenidos en este libro sólo se proporcionarán por orden judicial.
+El Notario que hubiere autorizado el testamento, dará aviso de ello dentro del término de cinco días hábiles al Registro Público de la Propiedad del Partido Judicial de su adscripción, haciéndole saber únicamente el número del instrumento, su fecha y el nombre completo del testador. El registrador anotará estos datos y el nombre y número del Notario, en un libro especial, que llevará por orden alfabético de apellidos y nombres de los testadores. Los datos contenidos en este libro sólo se proporcionarán por orden judicial o, en su caso, a petición del Notario ante quien se solicite el trámite de una sucesión testamentaria.
 
-Tan luego que sepa la muerte del testador, el Notario que hubiere autorizado el testtmento (sic), o quien lo substituya, debe dar aviso a los interesados. Si no lo hace, es responsable de los daños y prejuicios que la dilación ocasione.
+Cuando el Notario ante quien se hubiere autorizado el testamento, conozca de la muerte del testador, debe dar aviso a los interesados. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1983)</small>
 
@@ -15894,3 +15898,9 @@ En los procedimientos de adopción en trámite, a la entrada en vigor del presen
 ###### ARTICULO CUARTO.
 
 El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los Ayuntamientos de la Entidad, a efecto de que la Procuraduría en materia de Asistencia Social, tengan la intervención que le señala este decreto en los procedimientos de adopción.
+
+P.O. 4 DE JULIO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
