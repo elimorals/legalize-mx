@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-ordenamiento-territorial-y-desarrollo-urbano-24171"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-25"
-last_updated: "2002-11-19"
+last_updated: "2004-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 25 de octubre de 2001.
 
@@ -1295,6 +1295,10 @@ IX.- Transmitir gratuitamente, sin condición, reserva o limitación alguna, a f
 
 La autorización de subdivisiones, fusiones y relotificaciones en predios con superficie menor a diez mil metros cuadrados y que no requiera del trazo de una o más vías públicas, será otorgada por la autoridad municipal competente y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes, en el caso de predios con superficies de diez mil metros cuadrados o mayores, se les dará el tratamiento de fraccionamientos, debiendo el interesado cumplir con los requisitos establecidos para su aprobación.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
+
+Tratándose de predios urbanos destinados a usos comerciales o de servicios, sus dimensiones podrán ser menores de 6 metros de frente, atendiendo a las características de la zona comercial y a la actividad que se destinen. Al considerar la aprobación de estas subdivisiones, la autoridad municipal atenderá la normatividad en materia de uso de suelo, de construcción y de protección civil, de tal suerte que se garantice espacio suficiente para las instalaciones sanitarias, de ventilación o iluminación natural. En ningún caso estos predios podrán destinarse para uso habitacional o diferentes a los autorizados.
+
 ###### ARTICULO 106.
 
 Se entenderá por subdivisión urbana la partición de un predio dentro del área urbanizada y susceptible de incorporarse.
@@ -1313,11 +1317,15 @@ II.- La parcelación de los lotes que resulten conforme a la fracción I, sólo 
 
 III.- Los predios que no sean resultantes del supuesto establecido en la fracción I podrán parcelarse siempre y cuando cumplan con lo previsto en los planes o programas de desarrollo urbano, asentamientos humanos y ordenamiento territorial sujetándose al límite de 5-cinco porciones y que no se lleve a cabo la apertura de vía pública.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 109.
 
-Se entenderá por subdivisión familiar la partición de un terreno que se realice por causa de herencia entre parientes, en línea recta o transversal hasta el segundo grado, e igualmente para herederos y legatarios, cuando estén designados expresamente en el testamento o sentencia correspondiente; siempre y cuando las fracciones resultantes de esta subdivisión no sean superiores al número de los herederos o legatarios y hayan acreditado la adjudicación del inmueble en cuestión mediante la sentencia correspondiente. La superficie de las porciones resultantes deberá sujetarse a lo previsto en los planes de desarrollo urbano ordenamiento territorial y asentamientos humanos aplicables.
+La subdivisión familiar tendrá lugar cuando se requiera la partición de un predio por acciones hereditarias entre parientes, en línea recta o transversal hasta el segundo grado, conforme a la determinación que concluya el procedimiento sucesorio. La autoridad municipal autorizará la subdivisión siempre que se acredite la adjudicación legal del inmueble a favor de los peticionantes y las fracciones resultantes de la subdivisión propuesta no sean superiores al número de herederos o legatarios, y su inscripción en el Registro Público de la Propiedad y del Comercio procederá independientemente de las dimensiones que presenten los lotes resultantes.
 
-En el caso de que exista un plan de ordenamiento territorial y desarrollo urbano aplicable o una normatividad específica, debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
+La subdivisión de copropiedad derivada de una adjudicación sucesoria deberá atender a los lineamientos de uso de suelo determinados para el área de ubicación del predio de que se trate.
+
+En el caso de que exista un plan de ordenamiento territorial y desarrollo urbano aplicable o una normatividad específica debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
 
 ###### ARTÍCULO 110.
 
@@ -1768,3 +1776,9 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 19 DE NOVIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2004.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
