@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1934-07-07"
+last_updated: "1937-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JULIO DE 1934.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 1937.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -5977,9 +5977,11 @@ ARTICULO 1180
 
 La prescripción adquirida por el deudor principal, aprovecha siempre a sus fiadores.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 1937)</small>
+
 ARTICULO 1181
 
-El Estado, los Ayuntamientos y todos los establecimientos públicos y personas morales, se considerarán como particulares para la prescripción de sus bienes, derechos y acciones que sean susceptibles de propiedad privada.
+La prescripción de los bienes, derechos y acciones susceptibles de propiedad privada, que pertenezcan al Estado, a los Municipios o a las Corporaciones que tengan el carácter de públicas, se computará duplicando los plazos que se señalan en los Capítulos II y III del Título Séptimo de este Código.
 
 ARTICULO 1182
 
@@ -6103,7 +6105,13 @@ IV.- Entre copropietarios o coposeedores, respecto del bien común;
 
 V.- Contra los ausentes del Estado que se encuentren en servicio público;
 
-VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Estado.
+VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Estado;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 1937)</small>
+
+VII.- Contra el Estado, los Municipios y demás Corporaciones de derecho público, sino a partir del día en que, después de haber entrado los mismos en posesión de los bienes, derechos y acciones, los perdieren.
+
+En los casos de herencias y bienes vacantes, sólo a partir de la fecha en que se declare heredero al Fisco del Estado o se haga la denuncia legal de vacancia.
 
 ### CAPITULO V. De la interrupción de la prescripción
 
@@ -14567,7 +14575,7 @@ La inscripción no convalida los actos o contratos que sean nulos con arreglo a 
 
 ARTICULO 2940
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscriptos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscripto o de causas que no resulten claramente del mismo registro.
+No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscriptos (sic), aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscripto o de causas que no resulten claramente del mismo registro.
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
@@ -14886,3 +14894,7 @@ Esta Ley comenzará a regir, desde la fecha de su publicación en la "Gaceta Ofi
 G.O. 7 DE JULIO DE 1934.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ-LLAVE.
+
+G.O. 7 DE AGOSTO DE 1937.
+
+UNICO.- Esta Ley comenzará a regir desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
