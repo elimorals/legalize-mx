@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1980-01-03"
+last_updated: "1983-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -703,7 +703,7 @@ IV.- Cuando el deudor incurra en omisiones graves que traigan como consecuencia 
 
 ###### ARTICULO 62.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos por cada mes o fracción que transcurra, a partir de la fecha de la exigibilidad hasta que se efectúe el pago. Los recargados no excederán del importe del crédito que se trate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 1984, P.O. 30 DE DICIEMBRE DE 1983)
 
 De la Compensación
 
@@ -2068,3 +2068,15 @@ P.O. 3 DE ENERO DE 1980.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del 1o. de enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Artículo 62 del Código Fiscal del Estado y los Decretos, Circulares, Acuerdos, Convenios, Contratos y demás disposiciones que se opongan a la presente Ley.
