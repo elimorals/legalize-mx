@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1932-01-14"
+last_updated: "1932-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1932.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -233,6 +233,10 @@ El Gobierno del Estado es republicano, representativo y democrático, teniendo c
 
 El Poder Supremo, para su ejercicio, se divide en Legislativo, Ejecutivo y Judicial.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1932)</small>
+
+Cuando éstos se declaren desaparecidos, el Presidente Municipal de Guanajuato, o en su defecto el Presidente del Municipio más próximo a la Capital del Estado, asumirá el Poder Ejecutivo y convocará a elecciones en el Estado en los términos de las Leyes de la materia, y de acuerdo con lo preceptuado por la fracción V del Artículo 76 de la Constitución General de la República.
+
 ###### Art. 28.
 
 El Poder Legislativo se deposita en una Asamblea denominada "Legislatura de Guanajuato."
@@ -331,7 +335,9 @@ XIII. Nombrar un orador para que sostenga ante el Congreso Legislativo, las inic
 
 XIV. Impedir los abusos de la fuerza armada contra los Ciudadanos y exigir las responsabilidades a que hubiere lugar por ellos.
 
-XV. Nombrar y remover libremente a los funcionarios y empleados de su dependencia y concederles licencias, con goce de sueldo o sin él.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1932)</small>
+
+XV. Nombrar y remover libremente al Secretario General del Gobierno, al Administrador de Rentas, al Procurador de Justicia, y a todos los funcionarios y empleados públicos de su dependencia y concederles licencias con goce de sueldo o sin él.
 
 XVI. Suspender a los miembros de los Ayuntamientos que abusaren de sus facultades, dando inmediatamente parte a la Legislatura o a la Comisión permanente, para los efectos a que hubiere lugar, consignándolos en caso de delito, a la autoridad competente.
 
@@ -365,9 +371,15 @@ XXVIII. Enajenar, traspasar, hipotecar, gravar y ejercer cualquier otro acto de 
 
 XXIX. Las demás que le concedan esta Constitución y las leyes locales.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1932)</small>
+
 ###### Art. 57.
 
-El Gobernador del Estado solo podrá mandar personalmente en campaña, la Guardia Nacional o las fuerzas rurales o de policía, cuando así se lo haya concedido el Congreso. Tampoco podrá ausentarse por más de diez días del Estado o separarse del despacho, sin el requisito expresado. Para salir del Estado hasta por diez días, bastará que dé simple aviso a la Legislatura o a la Diputación permanente.
+El Gobernador del Estado podrá mandar personalmente en campaña la Guardia Nacional o las Fuerzas Rurales o de Policía, cuando así lo haya concedido el Congreso.
+
+No podrá ausentarse por más de 15 días del territorio del Estado ni separarse del despacho sin la correspondiente autorización de la Cámara o de la Diputación Permanente en su caso.
+
+Para salir del Estado o separarse del despacho hasta por 15 días, bastará que dé aviso a la Legislatura o a la Diputación Permanente.
 
 ###### Art. 58.
 
@@ -645,7 +657,9 @@ VIII. (DEROGADA, P.O. 9 DE NOVIEMBRE DE 1924)
 
 IX. Erigirse en Colegio Electoral para nombrar Magistrados del Supremo Tribunal, así como para elegir Gobernador del Estado que termine el periodo constitucional, en caso de falta absoluta de éste funcionario ocurrida dentro de los últimos dieciocho meses, o cuando la falta sea temporal y exceda de treinta días.
 
-X. Hacer la división del Estado en Distritos electorales.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1932)</small>
+
+X. Decidir sobre las renuncias que hagan los Diputados, Gobernador del Estado, y Magistrados del Supremo Tribunal de Justicia, y conceder licencias a dichos funcionarios para separarse de sus respectivos cargos; así como al Gobernador para salir del Estado por más de 15 días.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
 
@@ -681,7 +695,9 @@ XXII. Autorizar al Gobernador para que pueda, en campaña, mandar personalmente 
 
 XXIII. Declarar cuando se trate de delitos comunes, si hay lugar a formación de causa de que habla el artículo 100 de esta Constitución.
 
-XXIV. Conocer, como jurado de calificación, en las causas de responsabilidad de los mismos, por delitos cometidos en el desempeño de sus funciones.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1932)</small>
+
+XXIV. Pedir al Gobernador que exija la responsabilidad a todo funcionario o empleado público.
 
 XXV. Mandar que se exija la responsabilidad de todo funcionario o empleado público.
 
@@ -775,7 +791,7 @@ Poder Judicial. Supremo Tribunal de Justicia.
 
 El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y siete supernumerarios. Durarán en sus funciones cuatro años, y serán nombrados por el Congreso, funcionando como Colegio Electoral.
 
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1929)</small>
 
 ###### Art. 62.
 
@@ -981,7 +997,9 @@ Todo funcionario o empleado público recibirá por sus servicios, una compensaci
 
 La ley que aumente o disminuya las dietas de los CC. Diputados, no podrá tener efecto, sino después de concluído su período constitucional.
 
-La misma disposición es aplicable al C. Gobernador, a quien no podrá aumentarse la asignación de que disfrute conforme al presupuesto, durante el período en que funcione.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1932)</small>
+
+La misma disposición es aplicable al Ciudadano Gobernador.
 
 ###### Art. 115.
 
@@ -1082,5 +1100,9 @@ REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 14 DE ENERO DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 28 DE ABRIL DE 1932.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
