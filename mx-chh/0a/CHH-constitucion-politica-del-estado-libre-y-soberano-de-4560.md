@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1982-06-26"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -385,21 +385,29 @@ I.- Ser mexicano por nacimiento y ciudadano Chihuahuense en ejercicio de sus der
 
 II.- Tener veintiún años cumplidos el día de la elección.
 
-III.- Ser originario del Distrito en que se haga la elección con residencia en él de seis meses, inmediatamente anteriores a la fecha en que ésta se verifica, o bien hijo del Estado, con residencia de un año en el Distrito u oriundo de otro Estado, con residencia cuando menos de doce años en el de Chihuahua y el último en el Distrito electoral de que se trata, salvo ausencia eventual en cada caso, y siempre que en este último, no se conserve la vecindad de otro Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-IV.- No haber sido condenado en los últimos diez años por delito que no sea político, a una pena mayor de un año de prisión; ni a cualquiera otra, por los delitos de robo, abuso de confianza fraude contra la propiedad, quiebra fraudulenta o falsificación.
+III.- Ser originario del distrito en que se haga la elección o vecino de él con residencia de más de seis meses anteriores a la fecha de ella. La vecindad no se pierde por la ausencia en el desempeño de cargos públicos o de comisiones oficiales.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-V.- No ser Gobernador del Estado, Secretario de Gobierno, o quien haga sus veces, Magistrado del Supremo Tribunal de Justicia, Procurador General, Tesorero General del Estado, Director Jefe de Departamento del Poder Ejecutivo.
+IV.- No haber sido condenado en los últimos diez años por delito que no sea político, a una pena mayor de un año de prisión.
 
-VI.- No ser Juez, Secretario de Juzgado, Agente del Ministerio Público, Presidente Municipal, Secretario de éste o del Ayuntamiento, o empleado de Hacienda en el respectivo Distrito Electoral.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-VII.- No ser funcionario o empleado federal en el Estado.
+V.- No ser funcionario o empleado federal, estatal o municipal.
 
-VIII.- No estar en servicio activo en el Ejército Nacional, en fuerzas del Estado, en la policía o gendarmería en el Distrito en que se haga la elección.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-IX.- No ser Ministro de algún culto religioso.
+VI.- No ser ministro de algún culto religioso.
+
+Los funcionarios y empleados comprendidos en la fracción V, podrán ser electos siempre que, al efectuarse la elección tengan cuando menos dos meses de estar separados definitivamente de sus cargos o empleos.
+
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1983)
+
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1983)
+
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1983)
 
 Los funcionarios y empleados comprendidos en las fracciones V, VI, VII y VIII, podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos dos meses de estar separados definitivamente de sus Cargos o empleos.
 
@@ -601,11 +609,13 @@ V.- Disponer la resistencia a una invasión extranjera, en caso de que el peligr
 
 VI.- Examinar, discutir y aprobar anualmente el presupuesto de egresos del Estado, discutiendo las contribuciones que, a su vez, deben decretarse para cubrirlo.
 
-VII.- Revisar las Cuentas Generales de Ingresos y Egresos del Erario Público, que por mes, trimestre o semestre presente el Ejecutivo o por año los Ayuntamientos; aprobarlas y hacerles observaciones y exigir las responsabilidades consiguientes, en el concepto de que la revisión no se limitará al examen de si los gastos están o no de acuerdo con las partidas del Presupuesto, sino que se extenderá a la exactitud y justificación de ellos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+VII.- Revisar la cuenta pública del Estado que por mes, trimestre o semestre presente el Ejecutivo; la revisión tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y el cumplimiento de los objetivos señalados en los programas. Si del examen que realice el Congreso aparecen discrepancias entre las cantidades gastadas y las partidas respectivas del presupuesto o no existe exactitud o justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la ley. En caso contrario se aprobará la cuenta y se extenderá el finiquito correspondiente en un plazo que no excederá de seis meses.
 
-VIII.- Revisar, discutir y aprobar los presupuestos anuales que remitan los Ayuntamientos, discutiendo las contribuciones que, a su vez, deben decretarse para cubrirlos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+VIII.- Aprobar las leyes de Ingresos de los municipios a más tardar el día treinta de noviembre y revisar sus cuentas públicas.
 
 IX.- Autorizar al Gobernador:
 
@@ -613,9 +623,21 @@ A.- Para que, conforme a las bases que le fije el mismo Congreso y sometiéndolo
 
 B.- Para que, con la limitación que establece el artículo 117, fracción VIII, de la Constitución General, celebre contratos o empréstitos sobre el crédito del Estado, con sujeción a las bases que se le fijen por la Legislatura, a cuya aprobación serán sometidos aquéllos.
 
-C.- Para que, bajo las condiciones que el Congreso le imponga, represente al Estado en los demás casos que corresponda y en que no deba hacerlo el Ejecutivo por razón de sus atribuciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-D.- Para que arme y ponga en servicio la Guardia Nacional.
+C.- Para que celebre convenios de coordinación para la recaudación, administración y cobro de los ingresos federales, estatales y municipales, así como para la suspensión temporal de los dos últimos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+D.- Para que celebre convenios con la Federación a fin de que el Estado asuma la ejecución y operación de obras y prestación de servicios públicos federales, cuando el desarrollo económico y social de la Entidad lo hagan necesario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+E.- Para que, bajo las condiciones que el Congreso le imponga, represente al Estado en los demás casos que corresponda y que no deba hacerlo el Ejecutivo por razón de sus atribuciones, y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+F.- Para que arme y ponga en servicio la Guardia Nacional.
 
 X.- Fijar y modificar la división territorial, política, administrativa, judicial y electoral del Estado.
 
@@ -639,9 +661,19 @@ C.- Designar los Magistrados que deban integrar el Supremo Tribunal de Justicia,
 
 D.- Declarar electos Senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-E.- Nombrar a propuesta en terna del Ejecutivo, a los munícipes que integren los Ayuntamientos cuando el propio Congreso los hubiere declarado desaparecidos o por cualquier motivo faltaren de modo absoluto todos o algunos de los propietarios y sus respectivos suplentes. Si la declaratoria o falta acaece dentro de los primeros seis meses del ejercicio constitucional de los Ayuntamientos, se convocará a elecciones para designar las personas que han de sustituirlos; si aconteciere después del plazo señalado, los nombrados por el Congreso constituido en Colegio Electoral concluirán el período.
+E.- Nombrar a propuesta en terna del Ejecutivo los munícipes que integren los ayuntamientos mientras se celebran las elecciones correspondientes, cuando el propio Congreso hubiere declarado la nulidad de las elecciones o por cualquier motivo faltaren de modo absoluto todos los miembros del ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+F.- Suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de los miembros por cualquiera de las causas graves que el Código Municipal prevenga, por acuerdo de las dos terceras partes de sus integrantes, siempre y cuando los munícipes hayan tenido oportunidad suficiente para rendir las pruebas y formular los alegatos que a su juicio convengan.
+
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará entre los vecinos a los munícipes que concluirán los períodos respectivos.
+
+En los casos de nulidad de elecciones y en los demás a que se refieren este inciso y el anterior, si la declaratoria correspondiente o falta acaece dentro de los seis primeros meses del ejercicio constitucional de los ayuntamientos, se convocará a elecciones para designar las personas que han de substituirlos; si aconteciere después del plazo señalado, los nombrados por el Congreso constituido en Colegio Electoral concluirán el período.
+
+Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1333,7 +1365,9 @@ La Administración Municipal estará a cargo:
 
 I.- De los Ayuntamientos, los que serán electos popular y directamente, según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un Presidente y el número de regidores que determine la ley, con sus respectivos suplentes.
 
-En los Municipios cuya población sea de trescientos mil o más habitantes, los Ayuntamientos tendrán adicionalmente hasta dos regidores electos, según el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+En los municipios cuya población sea de trescientos mil o más habitantes, los ayuntamientos tendrán adicionalmente hasta dos regidores electos según el principio de representación proporcional y uno en los demás.
 
 De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un regidor el partido político que satisfaga los siguientes requisitos.
 
@@ -1343,7 +1377,9 @@ B.- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección
 
 C.- Que alcance por lo menos el 10% del total de la votación emitida en el Municipio correspondiente.
 
-D.- El otro regidor se atribuirá al partido político que hubiere obtenido el segundo porcentaje en votación minoritaria y tenga por lo menos más de la mitad de los sufragios que el partido triunfador minoritario haya alcanzado, pues de lo contrario se le atribuirá el segundo regidor al partido triunfador minoritario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+D.- En los municipios de trescientos mil o más habitantes el otro regidor se atribuirá al partido político que hubiere obtenido el segundo porcentaje en votación minoritaria y tenga por lo menos más de la mitad de los sufragios que el partido triunfador minoritario haya alcanzado, pues de lo contrario se atribuirá el segundo regidor al partido triunfador minoritario.
 
 E.- Serán regidores, propietarios o suplentes según el principio de representación proporcional, los que aparezcan en primer término, con el carácter señalado, en la boleta electoral que se autorice para la elección según el principio de votación mayoritaria relativa.
 
@@ -1365,21 +1401,31 @@ III.- De los Comisarios de Policía, los que residirán en las poblaciones de ca
 
 Por cada miembro propietario de un Ayuntamiento o Junta Municipal y por cada Comisario de Policía, se elegirá un Suplente, para cubrir las faltas del respectivo Propietario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 127.
 
-Para poder ser electo miembro de un Ayuntamiento o Junta Municipal y Comisario de Policía, se requiere:
+Para poder ser electo miembro de un ayuntamiento o junta municipal o comisario de policía, se requiere:
 
 I.- Ser ciudadano chihuahuense en pleno ejercicio de sus derechos.
 
-II.- Ser mayor de veinticinco años.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-III.- Ser vecino de la Municipalidad correspondiente, con residencia habitual durante los últimos seis meses.
+II.- Tener veintiún años cumplidos el día de la elección.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+III.- Tener residencia habitual durante los últimos seis meses en la municipaidad correspondiente.
 
 IV.- Ser del estado seglar.
 
-V.- No haber sido condenado, en los últimos diez años, por delito alguno intencional contra la propiedad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-VI.- No tener cargo, empleo o comisión del Gobierno Federal o del Estado.
+V.- No haber sido condenado en los últimos diez años, por delito alguno intencional que no sea político.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+VI.- No tener cargo, empleo o comisión del gobierno federal o del Estado que sea incompatible con el cumplimiento de su encargo; y
 
 VII.- No haber actuado como autoridad municipal en los términos de los artículos 126 y 128.
 
@@ -1401,69 +1447,93 @@ Los ayuntamientos se instalarán el día diez de octubre de los años correspond
 
 Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales y no habrá autoridad intermedia entre ellos y el Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
 ###### Art. 132.
 
-Los Ayuntamientos administrarán libremente la Hacienda de los Municipios la cual se compondrá:
+Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan y en forma especial con los ingresos siguientes:
 
-I.- De los bienes que les pertenezcan o sean apropiables por los mismos Municipios.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-II.- En forma especial, del producto de los siguientes impuestos:
+I.- Impuestos:
 
-A.- Sobre diversiones públicas.
+A.- Las contribuciones, incluyendo las tasas adicionales que establezcan las leyes sobre la propiedad inmobiliaria, de su fraccionamiento y división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles.
 
-B.- Sobre juegos, rifas y loterías permitidos por la ley.
+B.- Espectáculos públicos.
 
-C.- Sobre matanza de ganado.
+C.- Juegos, rifas y loterías permitidos por la ley.
 
-D.- Sobre vehículos sin motor o de tracción animal.
+D.- Pavimentación de calles y demás áreas públicas.
 
-E.- Sobre pavimentación de calles.
+E.- Aumento del valor y mejoría específica de la propiedad, y
 
-F.- Sobre cabarets y bailes de especulación.
+F.- Contribuciones especiales.
 
-G.- Sobre anuncios y propaganda comercial.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-H.- Sobre licencias para apertura y funcionamiento de negocios comerciales.
+II.- Derechos:
 
-I.- Sobre licencias para apertura de negocios en horas extraordinarias.
+A.- Por alineación de predios, asignación de número oficial, licencias de construcción y pruebas de estabilidad.
 
-J. Sobre licencias para vendedores ambulantes, y artesanos a domicilio.
+B.- Por supervisión y autorización de obras de urbanización en fraccionamientos.
 
-III.- En forma especial, del producto de los siguientes derechos:
+C.- Por servicios generales en los rastros.
 
-A.- Sobre mercados.
+D.- Por legalización de firmas, certificaciones y expedición de documentos municipales.
 
-B.- Sobre servicios de agua y drenaje.
+E.- Por ocupación de la vía pública para estacionamiento de vehículos.
 
-C.- Sobre alineamiento de predios, licencias de construcción y pruebas de estabilidad.
+F.- Sobre cementerios municipales.
 
-D.- Sobre cementerios.
+G.- Por licencias para apertura y funcionamiento de negocios comerciales y horas extraordinarias; para vendedores ambulantes y artesanos a domicilio y las demás que sean competencia del municipio.
 
-E.- Sobre servicios generales en los rastros.
+H.- Anuncios y propaganda comercial.
 
-F.- Sobre legalización de firmas, certificaciones y expedición de documentos municipales.
+I.- Por los servicios públicos siguientes:
 
-G.- Sobre registro de señales y marcas de herrar.
+1.- Alumbrado público.
 
-H.- Sobre cooperación para obras públicas.
+2.- Aseo, recolección y transporte de basura.
 
-IV.- Del producto de los demás impuestos, participaciones, derechos, productos y aprovechamientos que las leyes determinen.
+3.- Por servicio de agua potable y saneamiento.
 
-V.- Del tanto por ciento que pueda asignarles el Congreso conforme a la fracción XIV del artículo 64.
+4.- Tránsito municipal.
 
-VI.- De los subsidios extraordinarios que se les otorguen por el Estado y de los donativos que se les hicieren por particulares o corporaciones.
+5.- Mercados y centrales de abasto; y
 
-> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1979)</small>
+J. Los demás que establezca la ley.
 
-VII.- De las participaciones federales sobre el rendimiento de las contribuciones especiales de conformidad con el artículo 73 fracción XXIX inciso 5) de la Constitución General de la República y de las demás participaciones que establezcan las leyes federales o locales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+III.- Los productos y aprovechamientos que la ley determine.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IV.- Las participaciones que les correspondan conforme a la ley; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+V.- Los subsidios extraordinarios que les otorguen el Estado y la Federación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de cualquiera de los ingresos municipales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 133.
 
-Los Ayuntamientos formarán sus presupuestos anuales de ingresos y egresos, y los remitirán al Congreso, para su examen y aprobación, ajustándolos a lo dispuesto en la Ley Orgánica respectiva, antes del día quince de octubre del año inmediato anterior al en que deban regir.
+Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 134.
 
-El día treinta y uno de diciembre de cada año, los Ayuntamientos remitirán al Congreso una cuenta detallada y justificada de los gastos que hubieren hecho en el año que finaliza. El Congreso, al revisar la cuenta en los términos de la fracción VII del artículo 64, extenderá en su caso, el finiquito correspondiente.
+Dentro de los treinta días siguientes al término de cada ejercicio fiscal, los ayuntamientos remitirán al Congreso una cuenta detallada y justificada de los gastos que hubieren hecho.
+
+A las revisiones de las cuentas públicas municipales, les será aplicable lo establecido en la
+
+fracción VII del artículo 64.
 
 ###### Art. 135.
 
@@ -1477,13 +1547,19 @@ Los Ayuntamientos cesantes no pueden, salvo lo dispuesto en el Artículo anterio
 
 La contabilidad de las Tesorerías Municipales queda sujeta a revisión por los Inspectores que nombre el Ejecutivo del Estado, con el fin de verificar las entradas y salidas de fondos y su aplicación conforme a los presupuestos aprobados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 138.
 
-La Ley Orgánica determinará los ramos que sean de la competencia de la Administración Municipal. En forma enunciativa y no limitativa, serán de la competencia municipal los siguientes:
+El Código Municipal determinará los ramos que sean de la competencia de la administración municipal. En forma enunciativa y no limitativa, los siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1951)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-I.- En materia de servicios públicos: policía, aguas potables, alcantarillado, pavimentación, limpia, alumbrado de la vía pública, rastros, mercados, parques y paseos, jardines públicos, panteones, vías públicas, nomenclatura de calles, construcciones ejecutadas por particulares, planificación y zonificación, alineamiento, ampliación y ornato de las calles, jardines y paseos, caminos vecinales y todos aquellos que por su naturaleza o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+I.- En materia de servicios públicos:
+
+Seguridad pública, agua potable y saneamiento; pavimentación, limpia, alumbrado público; rastros, mercados y centrales de abasto; calles, parques y jardines; panteones; nomenclatura de calles, autorización para construcción ejecutadas por particulares, su planificación y modificación; alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales, tránsito y todos aquéllos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.
+
+El Estado está facultado para celebrar convenios con los municipios a efecto de que aquél asuma la prestación de servicios que corresponden a éstos. Podrá también participar en la prestación de los servicios cuando fuere necesario y lo determine la Ley.
 
 II.- En materia de acción política gubernativa, castigo de las infracciones de policía; espectáculos públicos; establecimientos fabriles y comerciales en lo que atañe al régimen municipal, y cumplimiento de las disposiciones que le encomienden las leyes federales y del Estado.
 
@@ -1627,7 +1703,9 @@ La Ley determinará todo lo demás relativo a la Salubridad Pública.
 
 ### CAPITULO VI.
 
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS.
+DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 161.
 
@@ -1711,61 +1789,103 @@ La ley fijará la extensión del patrimonio de familia, así en cuanto a su obje
 
 En tiempos de carestía de los artículos de primera necesidad, el Congreso podrá decretar la apertura de establecimientos en donde aquellos se expendan al precio de costo, fijando el tiempo durante el cual deban operar los expendios, cuya organización y vigilancia se dejarán a cargo del Ejecutivo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ## TITULO XIII.
 
 PREVENCIONES GENERALES.
 
 ###### Art. 178.
 
-Todos los funcionarios y empleados del Estado y de los Municipios serán responsables de los delitos y faltas, comunes y oficiales, que cometan; pero el Gobernador, durante su encargo, sólo podrá ser acusado por traición a la Patria, violación expresa de esta Constitución o de la General, ataques a la libertad electoral, o delitos del orden común.
+Para los efectos de las responsabilidades a que alude este Capítulo, se reputan servidores públicos a todos los funcionarios y empleados de los Poderes Legislativo, Ejecutivo y Judicial del Estado, de los Municipios, de los organismos descentralizados y en general a toda persona que desempeñe en las entidades mencionadas, un empleo, cargo o comisión de cualquier naturaleza, ya sea que su designación tenga origen en un proceso de elección popular, en un nombramiento o en un contrato.
+
+Los servidores públicos en el ejercicio de sus funciones pueden contraer responsabilidad penal, administrativa y civil. Se incurre en responsabilidad penal por la comisión de delitos oficiales o comunes y en responsabilidad civil, cuando se lesiona el patrimonio del Estado, independientemente de la responsabilidad penal y administrativa que se genere.
+
+La Legislatura del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes para sancionar a los que teniendo este carácter incurran en la comisión de delitos oficiales, cuyas sanciones consistirán en la destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+La comisión de delitos comunes por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal. Ésta determinará los casos y las circunstancias en que se deba sancionar por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o con motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquiriendo bienes o conduciéndose como dueños de ellos, cuya procedencia lícita no pudiesen justificar, privándolos de la propiedad de los mismos, independientemente de las demás penas que les correspondan.
+
+Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se tramitarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la prestación de elementos de prueba suficientes, podrá formular denuncia respecto a las conductas a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 179.
 
-De los delitos oficiales del Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador General de Justicia y Jefes de las demás Dependencias del Ejecutivo, conocerá en primera instancia la Sala del Ramo Penal en turno del Supremo Tribunal de Justicia.
+El fuero se establece para la eficaz realización de las funciones públicas y no constituye privilegio alguno de carácter personal. No hay fuero para ningún servidor público en las demandas del orden civil.
+
+Tienen fuero:
+
+I.- Del Poder Legislativo, los Diputados al Congreso del Estado.
+
+II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario General de Gobierno, el Tesorero General, el Oficial Mayor, el Procurador General de Justicia y los Directores que dependan directamente del Titular del Ejecutivo.
+
+III.- Del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del Estado, los Jueces de Primera Instancia, Menores y de Paz.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 180.
 
-No pueden ser procesados:
+La licencia suspende el fuero y demás prerrogativas inherentes al cargo. Si durante el período de licencia, las autoridades competentes procedieran penalmente contra un servidor público, éste no podrá ocupar el cargo hasta en tanto no se resuelva su situación jurídica.
 
-I.- Los funcionarios de que habla el artículo próximo anterior, sin previa declaración que haga el Congreso, conforme al artículo 64, fracción XX, de haber lugar a formación de causa.
-
-II.- Los Jueces de Primera Instancia, los Jueces Menores y los Agentes del Ministerio Público, sin que un Jurado compuesto del Gobernador, un Magistrado y el Procurador General, sirviendo de Secretario uno de los Abogados Consultores del Ejecutivo que éste designe en cada caso, declare que ha lugar a proceder en su contra.
-
-En cualquiera de los casos de este artículo, hecha la declaración afirmativa, el desaforado quedará suspenso en su cargo o empleo y será consignado al Ministerio Público, para que éste promueva el juicio respectivo ante la autoridad competente.
-
-Si la declaración fuere en sentido negativo no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que, tratándose de delitos comunes, la acusación continúe en su punto cuando el acusado haya dejado de tener fuero.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 181.
 
-La declaración de haber lugar a formación de causa contra un funcionario o empleado de los que gocen de fuero, se requiere desde la fecha en que se hubiere hecho la elección o nombramiento; sin perjuicio de que cuando se cometa un delito común por cualquiera de dichos funcionarios o empleados, los Jueces puedan practicar desde luego las primeras diligencias conforme a la ley.
+De los delitos oficiales en que incurran los servidores públicos mencionados en el artículo 179, conocerá el Congreso del Estado erigido en Gran Jurado, mediante juicio político, de conformidad con la Ley de Responsabilidades de los Servidores Públicos, resolviendo por el voto de las dos terceras partes del total de sus miembros.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 182.
 
-Los funcionarios y empleados a quienes se concede fuero, no gozan de éste en cuanto a delitos que cometan durante el desempeño de otro cargo, empleo distinto o comisión que aceptaren en el período en que debieran disfrutar de dicho fuero; salvo el que pueda corresponderles por su nuevo carácter.
+El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en el período no mayor de un año a partir de iniciado el procedimiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 183.
 
-De los delitos que cometan los funcionarios y empleados públicos que no gozan de fuero conocerán los tribunales comunes en los términos que fije la ley.
+Para proceder penalmente en contra de los servidores públicos que mencionan en el artículo 179 por la comisión de delitos comunes durante el tiempo de su cargo, el Congreso del Estado declarará por el voto de las dos terceras partes del número total de sus miembros si ha o no lugar a ejercitar la acción persecutoria correspondiente.
+
+Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito común continúe su curso cuando el inculpado haya concluído el ejercicio de su cargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Si la Cámara declara que ha lugar a proceder, el funcionario quedará separado de su cargo y a disposición de las autoridades competentes para que actúen con arreglo a la ley. Si de acuerdo con ésta se dictase sentencia absolutoria, el inculpado podrá reasumir su cargo. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de sus funciones, no se concederá al reo la gracia del indulto. Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico y cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el logro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 184.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no se puede conceder al reo la gracia de indulto.
+La responsabilidad por delitos comunes cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los cargos que se mencionan en el artículo 179.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 185.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá exigirse durante el período en que el funcionario o empleado desempeñe su encargo y dentro de un año después.
+Las declaraciones y resoluciones de la Cámara a que se refieren los artículos 181 y 183 son inatacables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 186.
 
-En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario ni empleado público.
+No se requerirá declaración de procedencia del Congreso del Estado, cuando los funcionarios mencionados en el artículo 179 cometan un delito durante el tiempo en que se encuentren separados de su cargo.
+
+Si el servidor público a vuelto a desempeñar sus funciones o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 179, se procederá de acuerdo con lo dispuesto en los artículos 181 y 183.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 187.
 
-Se concede acción popular para denunciar ante quien corresponda, los delitos y faltas oficiales cometidos por los funcionarios y empleados públicos.
+Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en medidas económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere el párrafo quinto del artículo 178, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones que se mencionan en el quinto párrafo del artículo 178. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 188.
 
-Será causa de responsabilidad para todos los funcionarios y empleados públicos, no despachar dentro de los términos legales o reglamentarios los negocios que estén a su cargo.
+De los delitos que cometan los servidores públicos que no gozan de fuero conocerán los Tribunales comunes en los términos en que fije la ley.
 
 ## TITULO XIV.
 
@@ -1918,3 +2038,15 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará a vigor a partir del día si
 P.O. 26 DE JUNIO DE 1982.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+DECRETO No. 73/83
+
+ARTICULO TRANSITORIO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+DECRETO No. 794-83-10-P.E.-BIS
+
+ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
