@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1980-12-30"
+last_updated: "1981-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -656,15 +656,7 @@ Lo dispuesto en este artículo no excluye la imposición de las sanciones que, c
 
 ###### ARTICULO 53.
 
-La inscripción en el Registro Nacional de Valores e Intermediarios causará los derechos que establezca la Comisión Nacional de Valores, a través de disposiciones de carácter general.
-
-Para cubrir los gastos de inspección y vigilancia, los agentes y bolsas de valores, así como los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios, pagarán a la Comisión Nacional de Valores, las cuotas que la Secretaría de Hacienda y Crédito Público, oyendo a la propia Comisión, establezca mediante disposiciones de carácter general, tomando en cuenta el capital social y reservas de capital, el volumen de operaciones y, en su caso el monto de las emisiones.
-
-Los documentos que la Comisión Nacional de Valores expida para el cobro de derechos y gastos a que se refiere este artículo, traerán aparejada ejecución, siempre que se acompañen de:
-
-I.- Certificación de la existencia del crédito correspondiente, expedida por auditor externo de la Comisión, y
-
-II.- Escrito en el que conste la conformidad del deudor en cubrir a la Comisión, el importe de todos los derechos y gastos previstos en el presente artículo.
+(DEROGADO POR ARTICULO, TRIGESIMO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, D.O.F. 31 DE DICIEMBRE DE 1981)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE MAYO DE 1978)</small>
 
@@ -1093,3 +1085,11 @@ Estas reformas y adiciones entrarán en vigor el día siguiente de su publicaci�
 ###### ARTICULO SEGUNDO.
 
 Los agentes de valores que tengan el carácter de sociedades anónimas gozarán del plazo que señale la Secretaría de Hacienda y Crédito Público para depositar los títulos que manejen en el Instituto para el Depósito de Valores, a efecto de cumplir con lo ordenado por el Artículo 23 Fracción III, Inciso b) de la Ley de Mercado de Valores.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
