@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1971-12-20"
+last_updated: "1974-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -61,7 +61,23 @@ El Patronato de la Asistencia Pública del Estado tendrá por objeto:
 
 5.- La representación legal de la Beneficencia Pública en los juicios sucesorios en que ésta tenga interés, en relación a los casos previstos por los artículos 1636 y 1637 del Código Civil vigente en el Estado; y
 
-6.- Todo lo demás que las Leyes y Reglamentos le señalen.
+6.- Todo lo demás que las Leyes y Reglamentos le señalen.(REFORMADO, P.O. 20 DE JULIO DE 1974)
+
+###### Artículo 2.
+
+El Patronato de la Asistencia Pública del Estado tendrá por objeto:
+
+I.- La fundación y mantenimiento de hospitales, comedores públicos, casas hogar, escuelas, casas de maternidad, casas de trabajo, hospicios asilos, manicomios, casas de huérfanos, cajas de ahorros, montepíos, explotaciones de economía mixta, y en general de centros o unidades de asistencia pública;
+
+II.- La realización de toda clase de actividades de asistencia pública dentro de las normas y procedimientos fijados en esta Ley y sus reglamentos;
+
+III.- La organización o vigilancia de ferias, festivales, colectas, y, en general actos encaminados a recaudar fondos para la Asistencia Pública;
+
+IV.- La conservación y cuidado de su patrimonio así como el control administrativo de centros asistenciales y el manejo de fondos que reciba para garantizar su correcta inversión; y
+
+V.- La representación legal de la Beneficencia Pública en los juicios sucesorios en que ésta tenga interés, en relación a los casos previstos por los Artículos 1523 y 1524 del Código Civil vigente en el Estado; y
+
+VI.- Todo lo demás que las Leyes y Reglamentos le señalen.
 
 ###### Artículo 3.
 
@@ -355,11 +371,11 @@ La Junta de Beneficencia Privada vigilará e impedirá en su caso que las instit
 
 Una vez que las instituciones queden definitivamente constituídas conforme a las prevenciones de esta Ley, la revocación que haga el fundador o fundadores de la afectación de bienes que haya hecho para constituir el patrimonio de aquella, será nula de pleno derecho, excepto en el caso de los Artículos 32 a 36.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1959)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1974)</small>
 
 ###### Artículo 42.
 
-También se tendrá por no hecha la revocación o reducción que haga un particular del donativo que haya hecho en favor de una institución de Beneficencia Privada, salvo los casos a que se refieren los Artículos 2348, 2359, 2360, 2362, 2367, 2375, 2376, 2377 y 2383 del Código Civil en vigor.
+También se tendrá por no hecha la revocación o reducción que haga un particular del donativo que haya hecho en favor de una institución de beneficencia privada, salvo los casos a que se refieren los Artículos 2222, 2233, 2234, 2236, 2241. 2249, 2250, 2251 y 2257 del Código Civil en vigor.
 
 ###### Artículo 43.
 
@@ -1706,3 +1722,7 @@ P.O. 20 DE DICIEMBRE DE 1971.
 PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Las situaciones jurídicas creadas bajo la vigencia de la Ley que se abroga, conservarán toda su validez.
+
+P.O. 20 DE JULIO DE 1974.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
