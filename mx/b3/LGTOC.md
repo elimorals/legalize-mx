@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1982-12-30"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -2910,13 +2910,51 @@ En todos aquellos ordenamientos legales distintos a éste, en donde se mencionan
 
 Las sociedades podrán emitir acciones y obligaciones al portador hasta el 31 de marzo de 1983, siempre que dichas acciones y obligaciones se hubieran emitido en virtud de acuerdo de asamblea general de accionistas de la emisora, tomado antes del 10 de diciembre de 1982. Lo dispuesto en este artículo no es aplicable tratándose de sociedades mercantiles de capital variable.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO CUARTO.
 
-Las acciones, los bonos de fundador, las obligaciones, los certificados de depósito y los certificados de participación, emitidos al portador con anterioridad a la fecha de entrada en vigor del presente Decreto, deberán ser convertidos en nominativos por las emisoras cuando los titulares de los mismos así se lo soliciten, sin necesidad de acuerdo de Asamblea.
+Las acciones, los bonos de fundador, las obligaciones, los certificados de depósito y los certificados de participación, emitidos al portador, se convierten en nominativos por ministerio de Ley, sin necesidad de acuerdo de Asamblea.
 
-A partir del 1o. de enero de 1984 los títulos de crédito al portador a que se refiere este artículo, no podrán seguir circulando o ejercerse los derechos que los mismos lleven incorporados sino se convierten en nominativos. Cuando las emisoras de dichos títulos se nieguen a convertirlos en nominativos, para ejercer los derechos que llevan incorporados deberán depositarse en el Instituto Nacional para el Depósito de Valores, quedando autorizado dicho instituto para expedir certificados de depósito nominativos que amparen los títulos de crédito al portador depositados, dichos certificados tendrán el carácter de títulos de crédito no negociable y se regirán por las disposiciones del Capítulo VI del Título I de la Ley General de Títulos y Operaciones de Crédito. Los títulos de crédito al portador depositados en los términos de este párrafo se canjearán por títulos nominativos emitidos por la sociedad emisora. Asimismo los titulares de los títulos que se depositen en los términos de este párrafo, deberán presentar aviso ante la Dirección General de Fiscalización de la Secretaría de Hacienda y Crédito Público, manifestando la negativa de la emisora de convertir a nominativos los títulos expedidos al portador.
+I. La conversión se formalizará, a petición de los tenedores de los títulos, por:
 
-A partir del 1o. de enero de 1984 las emisoras de títulos de crédito al portador a que se refiere este artículo, no podrán pagar los intereses o dividendos o permitir el ejercicio de los demás derechos derivados de dichos títulos, mientras no se cumpla respecto de los mismos con lo dispuesto en el párrafo anterior.
+1.- El presidente o secretario del consejo de administración, entre los que habrá solidaridad pasiva o, en su caso, por el administrador único de la sociedad;
+
+2.- El o los comisarios de la sociedad;
+
+3.- El Instituto para el Depósito de Valores, respecto de los títulos que tenga o reciba en depósito, conforme a las disposiciones aplicables de la Ley del Mercado de Valores;
+
+4.- Las instituciones de crédito, respecto de títulos que tenga o reciba en depósito;
+
+5.- Los notarios o corredores públicos titulados;
+
+6.- Las casas de bolsa, respecto de títulos inscritos en el Registro Nacional de Valores e Intermediarios;
+
+7.- Los Cónsules mexicanos, respecto de títulos que se encuentren en el extranjero;
+
+8.- Los representantes comunes de los tenedores, tratándose de obligaciones y certificados de participación, y
+
+9.- La autoridad judicial.
+
+II. La formalización en nominativos de los títulos al portador se realizará mediante anotación en los títulos al portador de su conversión en nominativos, con expresión del nombre, nacionalidad y domicilio del titular; la mención de este artículo como fundamento legal para llevar a cabo la conversión, así como el lugar y fecha en que se realice y el carácter y firma de quien la lleve a cabo.
+
+En los casos procedentes, la emisora inscribirá a los titulares en el registro correspondiente, en la inteligencia de que las personas mencionadas en el inciso 1 de la fracción anterior serán responsables de los daños y perjuicios que ocasionen al tenedor, por la negativa para efectuar dicha inscripción.
+
+Se considerará que los cupones son nominativos, cuando los mismos estén identificados y vinculados por su número, serie y demás datos con el título correspondiente. Unicamente el legítimo propietario del título nominativo o su representante legal, podrá ejercer, contra la entrega de los cupones correspondientes, los derechos patrimoniales que otorgue el título al cual estén adheridos.
+
+III. A partir del 1o. de enero de 1985, los títulos de crédito al portador a que se refiere este artículo no podrán seguir circulando, ni se podrán ejercer los derechos incorporados a los mismos, ni cobrar ni pagar intereses o dividendos, a menos que se formalice su conversión en nominativos.
+
+Los notarios, fedatarios, así como los encargados de los registros públicos, deberán abstenerse, bajo pérdida de la patente, autorización o empleo, de protocolizar, dar fe o registrar, respectivamente, actos relativos a los títulos de crédito al portador mencionados en el párrafo primero de este artículo.
+
+IV. La formalización en nominativos de los títulos al portador es de interés público y no causará contribuciones federales o locales.
+
+V. Los tenedores de los títulos al portador deberán presentar aviso a la Secretaría de Hacienda y Crédito Público, manifestando la negativa de las personas mencionadas en la fracción I para convertir en nominativos los títulos de que se trate.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
 
 ## TRANSITORIO
 
