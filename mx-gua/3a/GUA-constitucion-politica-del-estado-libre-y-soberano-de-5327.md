@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1980-08-21"
+last_updated: "1982-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1189,15 +1189,11 @@ Los Municipios que conforman el Estado de Guanajuato, son los determinados por l
 
 El Gobierno Interior Municipal y el manejo y administración de los intereses de las poblaciones, corresponden a los Ayuntamientos, los que en los asuntos de su competencia no dependerán de otra autoridad.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 1982)</small>
 
 ###### ARTICULO 113.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, electo por planilla mediante la emisión del voto libre, secreto, y por mayoría relativa de los ciudadanos guanajuatenses, con residencia en la Cabecera de la circunscripción territorial respectiva, conforme a lo dispuesto por la Ley Electoral del Estado.
-
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 1978)</small>
-
-En la capital del Estado y en los municipios cuya población sea de 200,000 o más habitantes, los Ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia, de conformidad a las siguientes bases:
+En todos los Municipios del Estado los Ayuntamientos serán electos por planilla mediante la emisión del voto directo, libre y secreto, de acuerdo con las fórmulas que establezca la Ley de la materia, de conformidad con las siguientes Bases:
 
 I.- Al partido político cuya planilla hubiere obtenido mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndicos del Ayuntamiento, respectivamente;
 
@@ -1844,3 +1840,9 @@ Las atribuciones, facultades y disposiciones que en la Legislación vigente en e
 ###### ARTICULO TERCERO.
 
 En consecuencia, la Secretaría de Finanzas, la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Educación y Servicios Sociales, tendrán todas las facultades, atribuciones y responsabilidades que correspondían a la Tesorería General del Estado, a la Dirección General de Obras Públicas y a la Dirección General de Educación Pública, respectivamente, salvo las que expresamente se confieren en la vigente Ley Orgánica del Poder Ejecutivo a cualquier otra dependencia.
+
+P.O. 22 DE OCTUBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado.
