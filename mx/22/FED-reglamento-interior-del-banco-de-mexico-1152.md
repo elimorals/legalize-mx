@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1995-04-03"
+last_updated: "1995-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE OCTUBRE DE 1995.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -157,9 +157,13 @@ I. Atender y registrar las operaciones que ocasionen abonos o cargos en la cuent
 
 II. Asentar los registros correspondientes en las cuentas que el Banco lleve a las instituciones de crédito y, en su caso, a las casas de bolsa, fideicomisos operados por el Banco, y demás entidades previstas legalmente como cuentahabientes;
 
-III. Operar sistemas de transmisión de información y registro concernientes a las funciones señaladas en las fracciones I y II del presente artículo;
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
 
-IV. Formalizar y ejecutar las operaciones previstas en las disposiciones relativas a corresponsalía y compensación;
+III. Formalizar y operar sistemas y servicios relacionados con la transmisión de información y registro concernientes a las funciones señaladas en las fracciones I y II del presente artículo y en general, con el funcionamiento de los sistemas de pago;
+
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+
+IV. Formalizar y ejecutar las operaciones previstas en las disposiciones relativas a corresponsalía, compensación y en general a los sistemas de pago;
 
 V. Efectuar pagos y cobros derivados de la operación del Banco o de las disposiciones o compromisos relativos, así como solicitar la expedición de créditos documentarios;
 
@@ -433,9 +437,17 @@ I. Establecer, operar y mantener sistemas de informática y telecomunicaciones d
 
 II. Implementar un sistema de comunicaciones que permita a los intermediarios financieros intercambiar información con el Banco, dando a conocer aquellas características que deberán tener los aparatos utilizados en los procedimientos establecidos en las disposiciones emitidas por el Banco;
 
-III. Llevar el registro de la organización del Banco, y
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
 
-IV. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco.
+III. Llevar el registro de la organización del Banco;
+
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+
+IV. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco; y
+
+> <small>(ADICIONADA, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+
+V. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
 
 ###### ARTICULO 30.
 
@@ -587,6 +599,10 @@ El plazo de interposición del recurso de reconsideración a que se refiere el a
 
 Corresponderá a la Gerencia Jurídica del Banco recibir el recurso de reconsideración, siendo competente su titular para resolverlo, y en sus ausencias el Subgerente Jurídico de lo Contencioso y Asuntos Laborales.
 
+> <small>(ADICIONADO, D.O.F. 2 DE OCTUBRE DE 1995)</small>
+
+Dicho recurso deberá presentarse dentro de un horario comprendido entre las nueve y las diecinueve horas.
+
 ###### ARTICULO 44.
 
 El trámite del recurso estará a cargo de la Subgerencia Jurídica de lo Contencioso y Asuntos Laborales del Banco. El titular de ésta, y en sus ausencias el Jefe de la Oficina de lo Contencioso del propio Banco, autorizarán los acuerdos correspondientes hasta poner el expediente en estado de resolución.
@@ -670,3 +686,7 @@ UNICO.- Las presentes reformas entrarán en vigor a partir de la fecha de su pub
 D.O.F. 3 DE ABRIL DE 1995.
 
 UNICO.- La presente reforma entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE OCTUBRE DE 1995.
+
+UNICO. Las presentes reformas y adiciones entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
