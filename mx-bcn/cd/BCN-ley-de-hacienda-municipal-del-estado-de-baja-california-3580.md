@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2001-04-13"
+last_updated: "2001-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -87,9 +87,11 @@ Los ingresos del Municipio se dividen en ordinarios y extraordinarios. Son ordin
 
 Son impuestos las prestaciones en dinero o en especie que se fijen unilateralmente y con carácter obligatorio a todos aquellos individuos cuya situación coincida con las que en las Leyes fiscales se señalen como generadoras del crédito fiscal.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 9.
 
-Son derechos las contraprestaciones requeridas por el Municipio en pago de servicios de carácter administrativo que éste preste.
+Son Derechos las contraprestaciones establecidas en las leyes fiscales, por los servicios de carácter administrativo que presten los ayuntamientos, en su función de derecho público.
 
 ###### ARTICULO 10.
 
@@ -421,7 +423,9 @@ Es obligación de los causantes señalar en los avisos, manifestaciones, o prece
 
 Se establece un Impuesto sobre la Explotación de Capitales. Son causantes del mismo las personas físicas o jurídicas que exploten capitales propios o ajenos en en (sic) negociaciones mercantiles, industriales o de servicios. Las tasas y plazos para su pago se establecerán por las Leyes de Ingresos respectivas. Este Impuesto no lo causarán las Instituciones o Negociaciones que son fuentes fiscales privativas del Gobierno Federal, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos en su Artículo 73 Fracción XXIX.
 
-Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso en su caso, que señalen los Reglamentos respectivos. También se requiere obtener Placa de Registro en el Padrón Municipal. Los permisos o licencias para el establecimientos (sic) de Cafés-Cantantes o Cabarets, Cantinas, u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al Reglamento respectivo, debiendo cubrir los derechos correspondientes de acuerdo con las cuotas y tarifas que establecen las Leyes de Ingresos Municipales.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+Toda actividad mercantil o industrial deberá ejercerse con licencia del Ayuntamiento y el permiso en su caso, que señalen los Reglamentos respectivos.
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
 
@@ -475,17 +479,15 @@ e).- En caso de que se cambie el giro de la negociación o establecimiento se co
 
 f).- En caso de clausura, dentro de los siguientes veinte días.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 62.
 
-Las licencias serán expedidas por la Presidencia Municipal salvo las que autoricen la explotación de cantinas, cafés cantantes o cabarets, casas de juego, que serán expedidas o revalidadas en los términos del segundo párrafo del Artículo 57 anterior.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+Las licencias serán expedidas por el gobierno municipal y deberán ser revalidadas anualmente, previa comprobación de que subsisten los requisitos que exigen las leyes y los reglamentos respectivos.
 
 ###### ARTICULO 63.
 
-Todas las licencias deberán revalidarse ante la Presidencia Municipal, durante el curso del mes de junio de cada año, previa comprobación de que subsisten los requisitos que exigen las leyes: salvo las licencias para explotación de cafés cantantes o cabarets, cantinas, casas de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, que serán expedidas o revalidadas exclusivamente por el Gobernador del Estado conforme a los reglamentos respectivos.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 64.
 
@@ -565,9 +567,13 @@ Los que posean, o exploten en alguna forma carros, carretas, u otros vehículos 
 
 Los servicios que preste el Ayuntamiento obligan a quien los disfrute al pago de las cuotas que para tal efecto determine la Ley de Ingresos y a falta en ésta de disposición expresa las autoridades fiscales determinarán, la cuota, teniendo en cuenta el costo que para el Ayuntamiento tenga la ejecución del servicio.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 73.
 
-El pago de derechos deberá ser realizado por el causante, con anterioridad a la ejecución del servicio que lo causa, y la falta de aquel será razón suficiente para que éste no se proporcione.
+Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezcan las Leyes de Ingresos de los Municipios.
+
+Los derechos se causan en el momento en que se presten los servicios, o en la forma que determinen las Leyes de Ingresos de los Municipios.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
@@ -623,11 +629,13 @@ III.- Son solidariamente responsables del pago del Impuesto Predial:
 
 IV.- La base del Impuesto es la siguiente:
 
-1.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes valores:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+1.- Tratándose de predios urbanos o rústicos:
 
-a).- El valor catastral que resulte de la aplicación de la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial, autorizada para cada Municipio.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+a) El valor catastral que resulte de la aplicación de la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial, autorizada para cada Municipio, el cual deberá ser equiparable al valor de mercado.
 
 b).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
@@ -637,7 +645,9 @@ c).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
 d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando éste no se encuentre contemplado en la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial.
 
-2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor catastral que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
@@ -651,7 +661,9 @@ Los efectos de esta Fracción no serán aplicables:
 
 2.- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
 
-VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado. En los casos mencionados en la Fracción IV, número 1, Inciso b) de éste Artículo, entrará en vigor a partir del mes siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en Escritura Pública.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -665,7 +677,9 @@ VIII.- Los inmuebles responden preferentemente del pago del Impuesto Predial, a�
 
 IX.- Están exentos del pago del Impuesto Predial:
 
-1.- Los predios pertenecientes a la Federación, al Estado y a los Municipios a que se refiere el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+1.- Los predios pertenecientes a la Federación, al Estado y a los Municipios, en los términos a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -2288,3 +2302,9 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE ABRIL DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial Estado de Baja California.
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el día primero del mes de diciembre del año dos mil uno.
