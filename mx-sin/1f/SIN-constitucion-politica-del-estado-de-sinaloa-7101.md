@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1948-11-30"
+last_updated: "1948-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1948.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -597,11 +597,11 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida dentro de los cinc
 
 Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, el Presidente del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1941)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1948)</small>
 
 ###### Art. 61.
 
-El Gobernador nombrado en los términos de los dos artículos anteriores, no podrá ser electo popularmente en ningún tiempo y por ningún motivo, Gobernador Constitucional del Estado.
+La persona que haya fungido como Gobernador en los casos previstos por los Artículos 59 y 60, no podrá ser electa popularmente en ningún tiempo y por ningún motivo Gobernador Constitucional del Estado.
 
 ###### Art. 62.
 
@@ -1650,3 +1650,7 @@ Artículo Unico.- El presente Decreto comenzará a surtir sus efectos legales a 
 P.O. 30 DE NOVIEMBRE DE 1948.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1948.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
