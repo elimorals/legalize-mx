@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "1991-05-13"
+last_updated: "1993-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1988-11-25"
 
 REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE SEPTIEMBRE DE 1993.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
@@ -162,19 +162,21 @@ III. Se tomarán en cuenta los períodos que haya laborado el trabajador del ser
 
 IV. Los trabajadores a lista de raya del Departamento que hubieren prestado servicios con anterioridad al 1°. de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
 
-V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses, antes o después del 1°. de enero de 1962, los trabajadores o, al fallecer éstos, sus familiares derechohabientes, podrán solicitar que la Institución adicione ese tiempo al nuevo período laborado, para así tener derecho a pensión, o correspondiéndoles ésta para incrementar con ese tiempo de servicios su antigüedad, pagando, previamente, las cuotas especiales que se les dictaminen por tal motivo, con un recargo del 2% anual.
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+V. Cuando se hubieren prestado servicios con interrupciones con más de seis meses, antes o después del 1o. de enero de 1962, los trabajadores o, al fallecer éstos, sus familiares derechohabientes podrán solicitar que la institución adicione ese tiempo al nuevo período laborado, para así tener derecho a pensión, o correspondiéndoles ésta para incrementar con ese tiempo de servicios su antigüedad, pagando previamente las cuotas especiales que se les dictaminen por tal motivo.
 
 ###### ARTICULO 16.
 
 Para efecto del cómputo de los años de servicios y de cotización, sin demérito de los demás requisitos que establece el presente Reglamento, el derecho a la pensión por cesantía en edad avanzada podrá iniciarse a los nueve años seis meses un día; las de invalidez y retiro por edad y tiempo de servicios, a los catorce años seis meses y un día.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 17.
 
-La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incrementen los sueldos de los trabajadores en activo.
+La cuantía de las pensiones aumentará simultáneamente y en la misma proporción en que se incremente el salario mínimo general para el Distrito Federal.
 
-Los pensionados tendrán derecho a una gratificación anual equivalente en número de días a las concedidas a los trabajadores en activo, según la cuota diaria de su pensión. Esta gratificación deberá pagarse en un 50% antes del 15 de diciembre y el restante 50% a más tardar el 15 de enero del siguiente año.
-
-Las cuotas máximas y mínimas de las pensiones, con excepción de aquellas provenientes de riesgos del trabajo, serán fijadas por el Consejo Directivo de la Institución.
+Los pensionados tendrán derecho a una graficación anual equivalente en número de días a la concedida a los trabajadores en activo, según el monto de su pensión. Esta gratificación deberá pagarse un 50% antes del 15 de diciembre y el otro 50% a más tardar el 15 de enero del siguiente año.
 
 ### CAPITULO V. Sueldo, Cuotas Pensionarias y Cotizaciones
 
@@ -254,7 +256,9 @@ Se consideran familiares derechohabientes de los trabajadores y de los pensionad
 
 I. La esposa supérstite sola o con hijos del trabajador o pensionado fallecido, siempre y cuando éstos sean menores de 18 años, o mayores de esa edad, si se hallan incapacitados física o psicológicamente para desempeñar alguna labor remunerada, o cuando se trate de aquellos hijos del fallecido habidos fuera del matrimonio, que se encuentren en las condiciones de los anteriores.
 
-II. Los hijos del trabajador o pensionado, mayores de 18 años y hasta 25, que comprueben estar realizando estudios medios o superiores en planteles oficiales o reconocidos y que no desempeñen trabajos remunerados.
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+II. Los hijos solteros del trabajador o pensionado, mayores de 18 años y hasta 25, que comprueben estar realizando estudios medios o superiores en planteles oficiales y reconocidos y que no desempeñen trabajos remunerados.
 
 III. La mujer, por sí misma que, a falta de cónyuge, haya vivido cinco años anteriores al deceso de éste y siempre que ambos hubieran permanecido libres de matrimonio, o la mujer en concurrencia con los hijos procreados con aquél, cuando se cumplan las condiciones señaladas en la fracción precedente. Si el trabajador o pensionado, a su muerte, hubiera tenido más de una concubina, ninguna tendrá derecho a las prestaciones que otorga la Institución.
 
@@ -292,7 +296,9 @@ II. Desde la fecha en que la viuda o la concubina contraiga matrimonio o viva en
 
 III. El día en que el menor de edad cumpla los 18 años, o cuando desaparezcan las causas de invalidez para el hijo mayor de 18 años, y
 
-IV. Al cumplir los 25 años de edad los hijos pensionados que hayan proseguido los estudios correspondientes a una carrera profesional o subprofesional, o cuando antes de alcanzar la edad indicada, concluyan o interrumpan sus estudios, o se encuentren desempeñando un trabajo remunerado.
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+IV. Al cumplir los 25 años de edad, los hijos pensionados que hayan proseguido los estudios correspondientes a una carrera profesional o subprofesional, o cuando antes de alcanzar la edad indicada concluyan o interrumpan sus estudios, o se encuentren desempeñando un trabajo remunerado, o contraigan matrimonio.
 
 ###### ARTICULO 34.
 
@@ -402,7 +408,9 @@ Al fallecer un pensionado por motivos de incapacidad permanente, total o parcial
 
 I. Si el fallecimiento se produce como consecuencia directa de la incapacidad, a los familiares derechohabientes, se les transmitirá la pensión que aquél percibía, y
 
-II. Si la muerte es originada por causas ajenas a las que motivaron la incapacidad, parcial permanente, se entregará a los familiares derechohabientes, el importe de seis meses de la asignada al pensionado, sin perjuicio del derecho de disfrutar la pensión que, con base en este Reglamento, les corresponda.
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+II. Si la muerte es originada por causas ajenas a las que motivaron la incapacidad permanente total o parcial se entregará a los familiares derechohabientes el importe de seis meses de la asignada al pensionado, sin perjuicio del derecho de disfrutar la pensión que, con base en este Reglamento, les corresponda.
 
 ###### ARTICULO 53.
 
@@ -522,9 +530,11 @@ Cuando el trabajador o pensionado padezca incapacidad mental, la pensión y cual
 
 ### CAPITULO XI. Pensión por Cesantía en Edad Avanzada
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 68.
 
-Se otorgará pensión por cesantía en edad avanzada a los trabajadores que habiéndose separado voluntariamente del servicio o que queden privados de un trabajo remunerado, hubieran cumplido 60 años o más de edad y que hayan cotizado a la Institución por un mínimo de 10 años.
+Se otorgará pensión por cesantía en edad avanzada a los trabajadores que, habiéndose separado voluntariamente del servicio, hubieran cumplido 60 años o más de edad y hayan cotizado a la Institución por un mínimo de 10 años.
 
 ###### ARTICULO 69.
 
@@ -702,7 +712,9 @@ Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus famili
 
 Son compatibles con el disfrute de otras pensiones o con el desempeño de trabajos remunerados, aquellas que se ajusten con las siguientes bases:
 
-I. La percepción de una pensión por jubilación de retiro por edad y tiempo de servicios o por cesantía en edad avanzada, con:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+I. La percepción de una pensión por jubilación, de retiro por edad y tiempo de servicios o por cesantía en edad avanzada con:
 
 a) El disfrute de una pensión por viudez o concubinato derivada de los derechos del trabajador o pensionado.
 
@@ -842,13 +854,7 @@ el importe de los préstamos a mediano plazo será acordado por el Consejo Direc
 
 ###### ARTICULO 119.
 
-Los plazos para el pago de estos préstamos, tratándose de trabajadores, serán los siguientes:
-
-a) Setenta y dos quincenas para los que tengan de una a cinco años de aportaciones.
-
-b) Noventa y seis quincenas cuando tengan de cinco a diez años de aportaciones.
-
-c) Ciento veinte quincenas cuando tengan de diez años o más de aportaciones.
+(DEROGADO, G.O. 13 DE SEPTIEMBRE DE 1993)
 
 ###### ARTICULO 120.
 
@@ -1010,7 +1016,9 @@ Los trabajadores a lista de raya que estén al servicio del Departamento del Dis
 
 Las aportaciones al fondo de la vivienda se aplicarán totalmente para constituir en favor de los trabajadores depósitos que no devengarán intereses y que se sujetarán a lo siguiente:
 
-I. En casos de jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor, de conformidad con lo dispuesto por este Ordenamiento.
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+I. En los casos de pensión o jubilación, incapacidad permanente total o de muerte, el trabajador o sus beneficiarios tendrán derecho a la entrega de un tanto más del saldo de los depósitos que se hubieran constituido a su favor, de conformidad con lo dispuesto por este Ordenamiento.
 
 II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus servicios al Departamento del Distrito Federal, o a la Institución, sólo se le entregarán los depósitos constituidos a su favor en los términos establecidos por este Reglamento.
 
@@ -1018,9 +1026,11 @@ II. Cuando el trabajador tenga 50 o más años de edad y deje de prestar sus ser
 
 Los créditos concedidos con cargo al fondo, se darán por vencidos anticipadamente, cuando el trabajador deudor sin consentimiento de la Institución venda la vivienda, grave el inmueble que garantiza su pago o incurra en alguna de las causas señaladas por los contratos correspondientes.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 148.
 
-Los créditos que se concedan estarán amparados por un seguro que operará en los casos de incapacidad permanente total o de muerte, el cual liberará al trabajador, jubilado o pensionado o a sus respectivos beneficiarios de las obligaciones que se deriven de aquéllos. El costo del mismo, será a cargo de la Institución.
+Los créditos que se concedan estarán amparados por un seguro que operará en los casos de incapacidad permanente total o de muerte, el cual liberará al trabajador, jubilado o pensionado o a sus respectivos beneficiarios de las obligaciones que se deriven de aquéllos.
 
 ###### ARTICULO 149.
 
@@ -1030,9 +1040,15 @@ A falta de beneficiarios, la adjudicación del inmueble deberá hacerse conforme
 
 La Institución solicitará al Registro Público de la Propiedad correspondiente, efectuar la inscripción de los inmuebles a favor de los beneficiarios, cancelando, en consecuencia, la que existiere a nombre del trabajador, jubilado o pensionado con los gravámenes o limitaciones de dominio que hubieren.
 
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+La designación de beneficiario no surtirá ningún efecto cuando la vivienda financiada o el crédito hipotecario esté ya escriturado, debiendo éste o los herederos sujetarse al procedimiento sucesorio respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 150.
 
-Para el caso de muerte del trabajador, la entrega a la que se refiere la fracción III del artículo 146 de este Reglamento, se hará a sus beneficiarios en el orden de prelación siguiente:
+Para el caso de muerte del trabajador, la entrega a la que se refiere la fracción I del artículo 146 de este Reglamento se hará a sus beneficiarios en el orden de prelación siguiente:
 
 I. Los que para tal efecto hayan sido designados por el trabajador ante la Institución.
 
@@ -1048,9 +1064,11 @@ VI. Los ascendientes que tampoco hayan dependido económicamente de éste.
 
 La Institución para garantizar el pago de los depósitos a que hace referencia este artículo, está obligada a constituir una reserva actuarial.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 151.
 
-Para el caso a que alude en su parte final la fracción III del artículo 146 de este Reglamento, se entenderá que un trabajador ha dejado de prestar servicios cuando transcurre un período mínimo de doce meses sin laborar en el Departamento del Distrito Federal o en la Institución por suspensión temporal de los efectos de su nombramiento o cese, a menos que exista juicio pendiente sobre la subsistencia de su designación o nombramiento.
+Para el caso a que alude la fracción II del artículo 146 de este Reglamento se entenderá que un trabajador ha dejado de prestar servicios cuando transcurra un período mínimo de doce meses sin laborar en el Departamento del Distrito Federal o en la Institución por suspensión temporal de los efectos de su nombramiento o cese, a menos que exista juicio pendiente sobre la subsistencia de su designación o nombramiento.
 
 Cuando un trabajador se halle en el caso que prevé el párrafo anterior y hubiere recibido un préstamo a cargo del fondo, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses, esta prórroga tendrá un plazo máximo de doce meses y terminará anticipadamente cuando el trabajador regrese a prestar servicios en el Departamento del Distrito Federal o en la Institución; en la inteligencia de que estas Dependencias seguirán haciendo los depósitos del 5% que este Ordenamiento establece destinados al fondo de la vivienda sobre los sueldos o salarios de los trabajadores que disfruten de licencia por enfermedad y de aquellos que tengan suspensión temporal de los efectos de su nombramiento. La existencia de los supuestos a los que alude este artículo y el anterior, deberán comprobarse ante la Institución.
 
@@ -1082,9 +1100,13 @@ Los créditos que se otorguen a los trabajadores conforme a lo dispuesto por el 
 
 Los descuentos totales que deban practicarse no deberán exceder del 50% de las percepciones quincenales del solicitante, en caso contrario, el monto del crédito se ajustará a la cantidad que no lo rebase.
 
-El plazo para cubrir los créditos relativos a adquisición o construcción de habitaciones será de 10 años como mínimo y como máximo de 20, tratándose de los otros créditos el Consejo Directivo determinará si se conceden plazos menores.
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
 
-Los gastos notariales por las escrituras de hipotecas y su inscripción, serán cubiertos por partes iguales entre la Institución y el deudor hipotecario, por lo que éstos formarán parte del crédito. Serán por cuenta exclusiva del deudor hipotecario el pago de las escrituras, impuestos, derechos regístrales y todos los que con este motivo deban hacerse. También será a su cargo la contratación de un seguro a favor de la Institución contra daños por caso fortuito o de fuerza mayor.
+El plazo para cubrir los créditos hipotecarios será como máximo de 30 años.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+Los honorarios y gastos notariales por las escrituras de hipotecas y su inscripción serán cubiertas por partes iguales entre la Institución y el deudor hipotecario, por lo que éstos formarán parte del crédito. Serán por cuenta exclusiva del deudor hipotecario el pago de los impuestos, derechos registrales y todos los que con este motivo deban hacerse. También serán a su cargo las primas del seguro contratado a favor de la Institución contra daños por caso fortuito o de fuerza mayor.
 
 ###### ARTICULO 156.
 
@@ -1116,9 +1138,11 @@ La Institución sólo podrá realizar inversiones con cargo al fondo en tratánd
 
 La Institución tendrá especial cuidado de que sus actividades relacionadas con el fondo se lleven a cabo dentro de una política integral de vivienda y desarrollo urbano y para ello, deberá dar cabal cumplimiento a los planes, programas y políticas que establezca el Gobierno Federal.
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 163.
 
-El Ejecutivo Federal, por conducto de las Secretarías de Programación y Presupuesto, de la Contraloría General de la Federación y del Departamento del Distrito Federal, ejercerá el control y evaluación de la inversión de los recursos del fondo, vigilando que los mismos sean aplicados de acuerdo a lo que establece el presente Reglamento.
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, de la Contraloría General de la Federación y del Departamento del Distrito Federal, ejercerá el control y evaluación de la inversión de los recursos del Fondo, vigilando que los mismos sean aplicados de acuerdo con lo que establece el presente Reglamento y a las directrices del Consejo Directivo.
 
 ###### ARTICULO 164.
 
@@ -1174,21 +1198,11 @@ VII. Aquellos que, por acuerdo del Consejo Directivo, se consideren convenientes
 
 ### CAPITULO XXI. De los Servicios Médicos Subrogados
 
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
 ###### ARTICULO 169.
 
-La Institución gestionará la afiliación de los pensionados para efectos de los servicios médicos, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, debiendo los interesados entregar los siguientes documentos:
-
-I. Acta de matrimonio o cualquier documento que compruebe la existencia del concubinato;
-
-II. Acta de nacimiento de los hijos;
-
-III. Ultimo recibo de pago;
-
-IV. Dos fotografías del pensionado y de sus familiares derechohabientes, y
-
-V. Vigencia de derechos expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, cuando se trate de hijos del pensionado mayores de 18 años, o padres que dependan económicamente de él.
-
-Las credenciales se entregarán por la Institución a los pensionaos el día que la soliciten siempre que reúnan los requisitos antes estipulados.
+La Institución tramitará la afiliación de los pensionados, para efecto de los servicios médicos, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para lo cual deberán proporcionarle los documentos que éste les solicite.
 
 ### CAPITULO XXII. Del Recurso de Inconformidad
 
@@ -1230,6 +1244,12 @@ Las obligaciones a favor de la Institución y a cargo del Departamento del Distr
 
 Lo no previsto en este Reglamento lo resolverá el Consejo Directivo de la Institución.
 
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 1993)</small>
+
+###### ARTICULO 178.
+
+Se incorporan al Sistema de Ahorro para el Retiro a que se refiere la fracción XXI del artículo 3 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, todos los trabajadores a lista de raya y los empleados de la Institución, por lo que les será aplicable lo relativo al Capítulo V bis de dicha Ley.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Reglamento de Prestaciones entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
@@ -1245,3 +1265,9 @@ G.O. 13 DE MAYO DE 1991.
 PRIMERO.- Estas reformas entrarán en vigor el día 2 de mayo de 1991.
 
 SEGUNDO.- Publíquense en la Gaceta Oficial del Departamento del Distrito Federal.
+
+G.O. 13 DE SEPTIEMBRE DE 1993.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día 18 de junio de 1993.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
