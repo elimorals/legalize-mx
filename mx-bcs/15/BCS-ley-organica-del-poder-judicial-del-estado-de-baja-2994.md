@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "1996-04-20"
+last_updated: "1997-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 1997.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -422,6 +422,10 @@ Los Servidores Públicos, que no se encuentren, entre los señalados en este cap
 ###### ARTICULO 33.
 
 En cada Partido Judicial habrá el número necesario de Juzgados de Primera Instancia que determine el Pleno del Tribunal Superior de Justicia; previo acuerdo de éste se fijará la jurisdicción y la competencia penal, civil y familiar de dichos Juzgados. En los Partidos Judiciales en que haya un sólo Juzgado de Primera Instancia éste conocerá de los asuntos del orden penal, civil y familiar.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 1997)</small>
+
+En aquellos lugares donde existan tres o más Juzgados de Primera Instancia en materia Civil o Familiar, habrá una Oficialía de Partes Común y la propia de cada una de ellos, en los términos que dispone el Código de Procedimientos Civiles del Estado.
 
 ###### ARTICULO 34.
 
@@ -1770,3 +1774,9 @@ LIC. GUILLERMO MERCADO ROMERO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE JULIO DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
