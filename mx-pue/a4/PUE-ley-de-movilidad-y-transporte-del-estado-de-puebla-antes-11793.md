@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2001-01-26"
+last_updated: "2001-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -573,13 +573,21 @@ Para que las personas físicas o morales puedan llevar a cabo la prestación de 
 
 Para que las personas físicas o morales obtengan la concesión del Servicio Público o permiso del Servicio Mercantil que otorga la Secretaría, deberán sujetarse a los estudios técnicos, y al procedimiento que ésta realice; así como a los requisitos establecidos en esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
 ###### ARTICULO 54.
 
-Las concesiones y permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su Reglamento, se consideran bienes fuera de comercio, por lo que, cualquier transmisión onerosa o gratuita entre vivos o por causa de muerte, será nula sin la autorización previa de la Secretaría.
+Las concesiones y permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los servicios público y mercantil de transporte, previa autorización de la Secretaría.
+
+Cualquier transmisión onerosa o gratuita entre vivos o por causa de muerte, será nula sin la autorización previa de la Secretaría.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 55.
 
-Las concesiones y permisos a que se refiere este Capítulo, se otorgarán a mexicanos y/o a sociedades constituidas conforme a las leyes aplicables.
+Las concesiones y permisos a que se refiere este Capítulo, se otorgarán a mexicanos y/o a sociedades constituidas conforme a las leyes aplicables, considerando que los vehículos con los que se pretende realizar el servicio público de transporte en zonas urbanas, deberán tener una antigüedad máxima de tres años a la fecha de otorgamiento de la concesión y/o permiso y en los demás casos hasta de cinco años.
+
+La Secretaría vigilará que las asignaciones y reasignaciones de las concesiones y permisos, no generen prácticas monopólicas.
 
 ###### ARTICULO 56.
 
@@ -713,11 +721,11 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la Secretaría.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 70.
 
-Las concesiones que se otorguen a las personas físicas o morales para prestar el Servicio Público del Transporte, tendrán una vigencia indefinida, sin embargo, la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas. Lo anterior, no libera al concesionario de realizar el correspondiente pago anual, el que se deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social del Estado.
+Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia indefinida; sin embargo, la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas. Lo anterior no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad de fabricación, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social, en términos de la Ley de Ingresos del Estado.
 
 ###### ARTICULO 71.
 
@@ -1156,3 +1164,17 @@ Las licencias de automovilistas y motociclistas que hubieren sido expedidas con 
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Para efectos del artículo 70, a partir del primero de enero del año dos mil tres, la Secretaría retirará de la circulación a todos aquellos vehículos que no cumplan con la antigüedad exigida
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
