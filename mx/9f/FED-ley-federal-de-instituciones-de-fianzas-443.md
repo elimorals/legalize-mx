@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1975-01-02"
+last_updated: "1975-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1975.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -637,9 +637,7 @@ Siempre que esta Ley se refiera al capital de las instituciones de fianzas, sin 
 
 ###### ARTICULO 71.
 
-La autoridad encargada del cumplimiento y aplicación de las disposiciones de esta Ley, ejercerá las facultades de inspección y vigilancia en materia fiscal, de las instituciones de fianzas.
-
-La misma autoridad determinará el monto de las utilidades gravables, de acuerdo con las leyes respectivas.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1975)
 
 ###### ARTICULO 72.
 
@@ -663,11 +661,11 @@ Las operaciones de fianzas y las que con ellas se relacionen, que realicen las i
 
 Las instituciones de fianzas son organizaciones auxiliares de crédito por lo que les serán aplicables, en lo conducente, las disposiciones de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares así como las normas reglamentarias correspondientes.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1969)</small>
+(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1975)(F. DE E., D.O.F. 21 DE ENERO DE 1976)
 
 ###### ARTICULO 76.
 
-Corresponde a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria, la inspección y vigilancia de las instituciones de fianzas y de sus agentes para el efecto de verificar el cumplimiento de las disposiciones a que se refiere esta ley.
+Corresponde a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Seguros, la inspección y vigilancia de las instituciones de fianzas y de sus agentes, para el efecto de verificar el cumplimiento de las disposiciones a que se refiere esta Ley y la (sic) de carácter fiscal.
 
 > <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1969)</small>
 
@@ -1342,3 +1340,17 @@ Los bonos financieros que se encuentren en circulación a la fecha en que entre 
 ###### ARTICULO SEXTO.
 
 Se concede un plazo de ciento ochenta días para que las instituciones de crédito, las de seguros y las de fianzas, lleven a cabo sus operaciones con valores inscritos en el Registro Nacional de Valores e Intermediarios, en los términos del primer párrafo, de los artículos 138 bis 8 de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, 32 bis de la Ley General de instituciones de Seguros, y 40 bis de la Ley Federal de Instituciones de Fianzas.
+
+D.O.F. 31 DE DICIEMBRE DE 1975.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República y el día primero de enero de mil novecientos setenta y seis.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan el artículo 16 de la Ley Federal del Impuesto sobre Ingresos Mercantiles, la fracción VI del artículo 14 y el último párrafo del artículo 18 de la Ley del Impuesto sobre la Renta y el artículo 71 de la Ley Federal de Instituciones de Fianzas.
+
+.
