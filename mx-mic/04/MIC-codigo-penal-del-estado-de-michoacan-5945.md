@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1991-05-23"
+last_updated: "1991-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 1991.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -119,7 +119,7 @@ Cuando una persona ha hecho uso de medios idóneos con el propósito de cometer 
 
 Para imponer la pena de la tentativa y del delito imposible, los jueces tendrán en cuenta la peligrosidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 
-### CAPITULO III. Causas Exclusiva de Incriminación
+### CAPITULO III. Causas Excluyentes de Incriminación
 
 ###### Artículo 12.
 
@@ -453,7 +453,7 @@ Si el nuevo daño se realiza, la garantía se hará efectiva, en favor del ofend
 
 Si el sentenciado prueba que no puede otorgar la garantía, el juez la substituirá por vigilancia de la autoridad.
 
-### CAPITULO X. Suspención, Privación e Inhabilitación de Derechos
+### CAPITULO X. Suspensión, Privación e Inhabilitación de Derechos
 
 ###### Artículo 49.
 
@@ -543,7 +543,7 @@ Los delitos de homicidio y lesiones culposos, cometidos con motivo de tránsito 
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
-En el caso a que se refiere la primera parte del parráfo anterior, si además resultan ofendidos que no tengan el referido parentesco con el conductor, sólo se perseguirá el delito por querella del lesionado o de los herederos del occiso.
+En el caso a que se refiere la primera parte del párrafo anterior, si además resultan ofendidos que no tengan el referido parentesco con el conductor, sólo se perseguirá el delito por querella del lesionado o de los herederos del occiso.
 
 ### CAPITULO V. Exceso en las causas de justificación
 
@@ -577,7 +577,7 @@ En caso de delito continuado, la sanción podrá aumentarse hasta una mitad más
 
 Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la cual podrá aumentarse hasta un tanto más de su duración, sin que el total, tratándose de prisión, pueda exceder de treinta años.
 
-### CAPITULO VIII. Intervención, Suspensión y Extinción de las Personas Jurídicas Colectivas
+### CAPITULO VIII. Intervención, Suspensión y Extinción de las Personas Juridícas Colectivas
 
 ###### Artículo 66.
 
@@ -765,9 +765,13 @@ El indulto extingue las sanciones impuestas en sentencia firme, excepto la repar
 
 No puede ser objeto de indulto la inhabilitación para ejercer una profesión u oficio o algún derecho civil o político, o para desempeñar algún cargo, comisión o empleo.
 
+> <small>(REFORMADO, P. O. 14 DE NOVIEMBRE DE 1991)</small>
+
 ###### Artículo 88.
 
-En los delitos políticos el Ejecutivo del Estado, podrá discrecionalmente conceder el indulto.
+Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad pública, conforme al dictamen del órgano ejecutor de la sanción, y no se trate de sentencia por violación, delito intencional contra la vida y secuestro, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo del Estado, en uso de facultades discrecionales.
+
+También podrá conceder indultos, expresando sus razones y fundamento, en favor de sentenciados cuya conducta haya sido determinada por motivaciones de carácter político o social y cuando se trate de personas que hayan prestado importantes servicios al Estado, previa solicitud.
 
 ### CAPITULO IX. Prescripción de las Sanciones
 
@@ -1255,7 +1259,7 @@ A los propietarios o encargados de cantinas, billares, cabarets u otros análogo
 
 Se concede acción pública para denunciar los hechos delictuosos a que se contrae este artículo y el anterior.
 
-### CAPITULO IV. ANTICIPACION, PROLONGACION Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
 
 ###### Artículo 167.
 
@@ -1523,7 +1527,7 @@ II. Al cónyuge, concubino y parientes colaterales por consanguinidad hasta el c
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad. La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
-### CAPITULO VI. Disposiciones Comunes a Capítulos Precedentes
+### CAPITULO VI. Disposiciones Comunes a los Capítulos Precedentes
 
 ###### Artículo 199.
 
@@ -1937,7 +1941,7 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
 Se impondrán de tres a ocho años de prisión y multa de tres mil a ocho mil pesos, a quien por medio de la violencia física o moral, tenga cópula con una persona cualquiera que sea su sexo.
 
-Se impondrá prisión tres a nueve años y multa de tres mil a nueve mil pesos, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
+Se impondrán prisión tres a nueve años y multa de tres mil a nueve mil pesos, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
 
 Cuando en la ejecución del delito de violación intervengan dos ó más personas, la pena será de seis a diez años de prisión y multa de seis mil a diez mil pesos.
 
@@ -2013,7 +2017,7 @@ La difamación consiste en comunicar dolosamente a una o más personas la imputa
 
 Tipo de Peligro Presunto.
 
-Abandono de Incapaces de Proveerse as sí Mismos
+Abandono de Incapaces de Proveerse a sí Mismos
 
 ###### Artículo 251.
 
@@ -2281,7 +2285,7 @@ Al que omita prestar el auxilio que sea necesario según las circunstancias, a u
 
 ###### Artículo 295.
 
-Los médicos, cirujanos, parteros, enfermeros y demás profesionistas similares y auxiliares que se nieguen a prestar sus servicios, a un lesionado o enfermo en caso de notoria urgencia por exigir el pago anticipado de sus servicios o por cualquier otro motivo injustificado, poniendo en peligro la vida o la salud de dicha persona, serán sancionados con prisión de seis meses a tres años y multa de quinientos a tres mil pesos.
+Los médicos, cirujanos, parteros, enfermeros y demás profesionistas similares y auxiliares que se nieguen a prestar sus servicios a un lesionado o enfermo en caso de notoria urgencia por exigir el pago anticipado de sus servicios, o por cualquier otro motivo injustificado, poniendo en peligro la vida o la salud de dicha persona, serán sancionados con prisión de seis meses a tres años y multa de quinientos a tres mil pesos.
 
 Si de las conductas omisivas a que se refiere este artículo, resultare la muerte de la persona a quien no se atendió, se aplicarán al responsable de dos a ocho años de prisión, multa de dos mil a ocho mil pesos e inhabilitación para el ejercicio profesional de uno a cinco años o definitiva en caso de reincidencia. Si resultaren lesiones, se le aplicarán hasta las dos terceras partes de la sanción que correspondería a éstas.
 
@@ -2669,7 +2673,7 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Conforme al artículo 5° del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el artículo 79 de dicho ordenamiento ante el juez de la causa.
+Conforme al Artículo 5°. del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el Artículo 79 de dicho ordenamiento ante el juez de la causa.
 
 Asimismo, quienes se encuentren sujetos a proceso por un delito patrimonial y con estas reformas se vean beneficiados, podrán solicitar de inmediato el beneficio de su libertad provisional bajo caución.
 
@@ -2690,3 +2694,7 @@ UNICO. El presente decreto entrará en vigor el día siguiente al de su publicac
 P.O. 23 DE MAYO DE 1991.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 1991.
+
+UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
