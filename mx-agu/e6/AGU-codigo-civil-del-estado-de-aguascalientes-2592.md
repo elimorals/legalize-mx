@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1997-03-23"
+last_updated: "1998-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1998.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1129,47 +1129,65 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 
 DEL MATRIMONIO.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 158.
 
 Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por su parte a los fines del matrimonio y a ayudarse mutuamente.
 
+Los cónyuges tienen derecho a decidir de común acuerdo sobre el número y el espaciamiento de sus hijos.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 159.
 
-La mujer debe vivir al lado de su marido. Los Tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido translade (sic) su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+La mujer debe vivir al lado de su marido. Los Tribunales, con conocimiento de causa, eximirán a la mujer de esta obligación cuando el marido traslade su domicilio a país extranjero, a no ser que lo haga en servicio de la patria, o cuando se establezca en un lugar insalubre o indecoroso.
+
+En todo cambio de domicilio será necesario el consentimiento de ambos, si no existiere acuerdo, el Juez de lo Familiar correspondiente procurará avenirlos y si no lo lograse, resolverá lo que fuere más conveniente.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 160.
 
-El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos, sin perjuicios de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 161.
 
-La mujer tendrá siempre derecho preferente sobre los productos de los bienes del marido y sobre sus sueldos, salarios o emolumentos, por las cantidades que correspondan para la alimentación de ella y de sus hijos menores. También tendrá derecho preferente sobre los bienes propios del marido para la satisfacción del mismo objeto. La mujer puede pedir el aseguramiento de bienes para hacer efectivos estos derechos.
+Los cónyuges y los hijos en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
 ###### Artículo 162.
 
-EI marido tendrá el derecho a que la mujer concede el artículo anterior, en los casos en que éste tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 163.
 
-EI marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, prevelecerá (sic) la opinión del marido, si se trata de algún asunto concerniente a los hijos varones; y la de la mujer, si se trata de las hijas.
+En caso de que los cónyuges estuvieren en desacuerdo sobre alguno de los puntos indicados, será el juez competente el que, con conocimiento de causa, resolverá lo conducente.
 
 ###### Artículo 164.
 
-Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 165.
 
-La mujer podrá desempeñar un empleo, ejercer una profesión, industria, oficio o comercio, cuando ello no perjudique a la misión que le impone el artículo anterior.
+Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de lo Familiar correspondiente, resolverá sobre la oposición.
 
 ###### Artículo 166.
 
-EI marido podrá oponerse a que la mujer se dedique a las actividades a que se refiere el artículo anterior, siempre que subvenga a todas las necesidades del hogar.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
 ###### Artículo 167.
 
-En caso de que la mujer insista en usar de los derechos que le concede el artículo 165, no obstante de que el marido se los rehuse apoyado en lo dispuesto en el artículo anterior, el juez respectivo resolverá lo que sea procedente.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
 
@@ -1183,17 +1201,15 @@ El marido y la mujer menores de edad, tendrán la administración de sus bienes,
 
 ###### Artículo 170.
 
-La mujer necesita autorización judicial para contratar con su marido, excepto cuando el contrato que celebre sea el de mandato.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
 ###### Artículo 171.
 
-También se requiere autorización judicial para que la mujer sea fiadora de su marido o se obligue solidariamente con él, en asuntos que sean del interés exclusivo de éste.
-
-Esta no necesita autorización judicial para otorgar fianza a fin de que su esposo obtenga la libertad.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
 ###### Artículo 172.
 
-La autorización, en los casos a que se refieren los artículos anteriores, no se concederá cuando notoriamente resulten perjudicados los intereses de la mujer.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
 ###### Artículo 173.
 
@@ -1367,11 +1383,11 @@ El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la 
 
 DE LA SOCIEDAD LEGAL.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 207.
 
-El régimen de sociedad legal consiste en la formación y administración de un patrimonio común diferente de los patrimonios propios de los consortes y cuya representación exclusiva y plena corresponde al marido como una de las funciones que la ley le asigna dentro del matrimonio, sin que el dominio de cada cónyuge sobre bienes o partes determinadas o alícuotas se precisen sino al liquidarse la sociedad por las causas que la ley establece. La mujer sólo en los casos de excepción que señala la ley puede tener la administración de la sociedad legal. Quedan exceptuados de la sociedad legal los bienes afectos al patrimonio familiar legalmente constituido.
+El régimen de sociedad legal, consiste en la formación de un patrimonio común diferente de los patrimonios propios de los consortes y cuya administración corresponde a cualquiera de los cónyuges, de acuerdo a lo que ellos mismos decidan.
 
 ###### Artículo 208.
 
@@ -1449,7 +1465,7 @@ Ninguna enajenación que de los bienes gananciales haga el marido en contravenci
 
 ###### Artículo 221.
 
-La mujer sólo puede administrar por consentimiento del marido o en ausencia o por impedimento de éste.
+(DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
 ###### Artículo 222.
 
@@ -1743,9 +1759,11 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 304.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 281.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
+Luego que la sentencia sobre nulidad cause ejecutoria, los hijos menores de siete años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe, en caso de existir mala fe o desaveniencia el juez resolverá a su criterio de acuerdo con las circunstancias del caso, el cuidado de los menores.
 
 ###### Artículo 282.
 
@@ -1867,7 +1885,9 @@ I.- Designación del cónyuge que ejercerá en forma exclusiva la patria potesta
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III.- La casa que servirá de habitación a la mujer durante el procedimiento;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1998)</small>
+
+III.- La casa que sirva de habitación a cada uno de los cónyuges durante el procedimiento;
 
 IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
 
@@ -2503,11 +2523,15 @@ Las acciones de investigación de paternidad o maternidad, sólo pueden intentar
 
 Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 412.
 
-EI hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
+El hijo reconocido por el padre, por la madre o por ambos, tiene derecho:
 
-I.- A llevar el apellido del que lo reconoce;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1998)</small>
+
+I.- A llevar el apellido paterno de sus progenitores, o ambos apellidos del que lo reconozca;
 
 II.- A ser alimentado por éste;
 
@@ -15434,5 +15458,17 @@ Las patrimonios constituidos conforme a las reglas de este Código, con anterior
 Los procedimientos iniciados para constituir el patrimonio familiar, con anterioridad al presente Decreto, se continuarán conforme a las reglas anteriores del Código Civil.
 
 P.O. 23 DE MARZO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 1998.
+
+DECRETO No. 141.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 1998.
+
+DECRETO No. 142.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
