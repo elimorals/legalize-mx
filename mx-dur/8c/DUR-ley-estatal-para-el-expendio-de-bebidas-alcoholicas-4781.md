@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-el-expendio-de-bebidas-alcoholicas-4781"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-14"
-last_updated: "1994-07-14"
+last_updated: "1997-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL PARA EL EXPENDIO DE BEBIDAS ALCOHOLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 14 de julio de 1994.
 
@@ -84,6 +84,10 @@ En las cantinas, cervecerías, y billares, se prohibirá la entrada a menores de
 ###### ARTICULO 8.
 
 Queda prohibida la venta de bebidas alcohólicas en la vía pública, misceláneas y similares, estanquillos carpas, circos y salas de cine, exceptuándose de esta prohibición los espectáculos deportivos de carácter profesional, previo permiso del Ayuntamiento, en ese caso, únicamente se permitirá la venta de cerveza, la que se deberá expender en envase de cartón, plástico u otro material similar, quedando expresamente prohibida su venta en envase de vidrio o metálico.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1997)</small>
+
+Se exceptúa el caso de la venta de bebidas con contenido alcohólico en la vía pública tratándose de proyectos integrales que así lo justifiquen de acuerdo a la Reglamentación Municipal vigente; los Ayuntamientos por el voto calificado de sus integrantes, otorgará la autorización correspondiente.
 
 #### SECCION PRIMERA. De la verificación
 
@@ -218,3 +222,9 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los trece días del mes de Julio de mil novecientos noventa y cuatro.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ALFREDO BRACHO BARBOSA. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
