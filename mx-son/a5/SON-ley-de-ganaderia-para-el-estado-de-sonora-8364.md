@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-8364"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-04"
-last_updated: "1996-12-30"
+last_updated: "2002-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GANADERIA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2002.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 4 de agosto de 1983.
 
@@ -175,7 +175,9 @@ III.- Levantar el acta correspondiente de los hechos, cuando en el desempeño de
 
 En este caso se procederá a comunicárselo de inmediato debiendo remitirle el acta levantada; al efecto, se podrá poner el ganado de que se trate en depósito.
 
-IV.- Inspeccionar periódicamente los rastros y lugares para el sacrificio de ganado, a fin de constatar que cuentan con la autorización correspondiente y su buen estado de conservación.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2002)</small>
+
+IV.- Informar a la autoridad municipal del sacrificio clandestino de ganado de que tengan conocimiento en el desempeño de sus funciones.
 
 V.- Evitar el sacrificio de ganado, cuando no demuestre su legal procedencia y no llene los requisitos de sanidad correspondientes, debiéndolo dejar en depósito.
 
@@ -190,6 +192,10 @@ IX.- Inspeccionar los lugares donde se trabajen o comercialicen los productos y 
 X.- Realizar los censos ganaderos de su Zona.
 
 XI.- Auxiliar a las Autoridades competentes en la vigilancia y protección de la fauna silvestre, y denunciar ante las mismas la comisión de delitos y faltas en materia de caza.
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2002)</small>
+
+XI BIS.- Verificar en los rastros el cumplimiento de las disposiciones relativas a la propiedad y sanidad animal del ganado, o en su defecto, por imposibilidad del inspector de zona, dicha verificación la llevarán a cabo las autoridades municipales, conforme lo previene el Capítulo Cuarto del Título Tercero de esta Ley
 
 XII.- Las demás que esta Ley y otros ordenamientos jurídicos les confieran.
 
@@ -827,11 +833,11 @@ Si no procediese la entrega o el propietario fuere desconocido, se procederá en
 
 ### CAPITULO IV. DE LA INSPECCION Y VIGILANCIA DE LOS RASTROS
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 116.
 
-El servicio público de rastro se prestará en los términos de la Ley que Regula la Prestación de Diversos Servicios Públicos Municipales, lo establecido en el presente ordenamiento y los respectivos reglamentos.
+El servicio público de rastro se prestará en los términos de la Ley de Gobierno y Administración Municipal y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -839,7 +845,7 @@ El servicio público de rastro se prestará en los términos de la Ley que Regul
 
 Sólo en los rastros podrá sacrificarse el ganado, salvo lo previsto en los artículos 127, 128 y 129 de esta Ley.
 
-El sacrificio clandestino será sancionado conforme a este ordenamiento, sin perjuicio de las sanciones penales si existiere la comisión de algún delito.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 8 DE JULIO DE 2002)</small>
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -847,11 +853,11 @@ El sacrificio clandestino será sancionado conforme a este ordenamiento, sin per
 
 Para los efectos de la inspección y vigilancia ganadera, la Secretaría llevará un registro de los rastros que funcionen en el Estado.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 119.
 
-Cuando la intensidad de las labores en algún rastro lo justifique, la Secretaría designará un inspector particularmente adscrito al mismo, y cuando no sea así, éstos establecimientos quedarán adscritos al inspector de la zona ganadera donde se encuentre.
+La vigilancia e inspección ganadera se llevará a cabo en los rastros por el Inspector de la zona donde se encuentren. Cuando la intensidad de las labores en alguno de estos establecimiento (sic) lo justifique, la Secretaría designará un Inspector particularmente adscrito al mismo.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -897,23 +903,23 @@ En ningún caso se autorizará el sacrificio del ganado enfermo con fines de con
 
 La movilización de productos y subproductos del ganado sacrificado en rastros, no requiere guía de tránsito, amparando su propiedad la documentación que expida el rastro. Se exceptúa de lo anterior a las pieles cuya movilización requerirá de la guía expedida por el inspector correspondiente.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 127.
 
-El sacrifico de ganado con fines de consumo familiar, en poblados donde no exista rastro público, podrá ser autorizado por la autoridad municipal y revisados los animales por el inspector de ganadería respectivo.
+El sacrificio de ganado con fines de consumo familiar, en poblados donde no exista rastro público, será autorizado por la autoridad municipal y revisados los animales por el inspector de ganadería respectivo.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 128.
 
-En los asientos de producción podrá sacrificarse ganado por disposición de su propietario para consumo propio, previa autorización de la autoridad municipal o del inspector de ganadería correspondiente. En este caso deberán presentarse dentro de los cinco días siguientes al sacrifico, las orejas unidas a la piel del animal para que sean revisadas por la autoridad que haya dado la autorización, quien sancionará la legalidad del sacrificio.
+En los asientos de producción podrá sacrificarse ganado por disposición de su propietario para consumo propio, previa autorización de la autoridad municipal correspondiente. En este caso, dentro de los cinco días siguientes al sacrificio, deberá presentarse ante el inspector de ganadería correspondiente las orejas unidas a la piel del animal, para verificar la legalidad del sacrificio.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 129.
 
-Cuando el ganado sea bronco o por cualquier circunstancia haya necesidad de sacrificarlo en el campo, deberá su propietario recabar previamente la autorización por escrito de la autoridad municipal o del inspector de ganadería de la zona respectiva. Una vez consumado el sacrificio, se presentará ante la autoridad que otorgó la autorización la respectiva piel y orejas unidas a ésta de los animales sacrificados.
+Cuando el ganado sea bronco o por cualquier circunstancia haya necesidad de sacrificarlo en el campo, deberá su propietario recabar previamente la autorización de la autoridad municipal. Una vez consumado el sacrificio, se presentará ante el inspector de ganadería correspondiente la piel y orejas unidas a ésta de los animales sacrificados.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1519,7 +1525,9 @@ b) Multa de veinticinco a cincuenta veces el salario mínimo general diario, por
 
 En el supuesto del Artículo 116 la sanción se aplicará por cada uno de los animales sacrificados, duplicándose en caso de reincidencia.
 
-Cuando el infractor del Artículo 191 desobedeciera la sanción impuesta, ésta podrá duplicarse sin perjuicio de que la Secretaría exija la presentación de la documentación correspondiente para su revalidación con cargo al infractor.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2002)</small>
+
+Cuando el infractor del artículo 191 desobedeciera la sanción impuesta, ésta podrá duplicarse, sin perjuicio de las sanciones que las autoridades municipales apliquen en el ámbito de su competencia y de que la Secretaría exija la presentación de la documentación correspondiente para su revalidación con cargo al infractor.
 
 c) Multa de cincuenta a doscientas veces el salario mínimo general diario, por violaciones a los Artículos 35 y 156.
 
@@ -1630,3 +1638,15 @@ B.O. 30 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE JULIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Las disposiciones de la presente Ley entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las sanciones previstas por los artículos 231 al 237 y el 239 de la Ley de Tránsito para el Estado de Sonora vigentes hasta la entrada en vigor de la presente reforma, continuarán aplicándose hasta que las mismas sean incorporadas en las leyes de Ingresos de los Ayuntamientos.
+
+Para tal efecto, los Ayuntamientos deberán presentar la iniciativa correspondiente ante el Congreso del Estado en un término no mayor de 90 días naturales.
