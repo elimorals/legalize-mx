@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1981-09-16"
+last_updated: "1983-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1983.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -32,8 +32,6 @@ TIBURCIO FERNANDEZ RUIZ, General de División del Ejército Nacional y Gobernado
 Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
 La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
-
-> <small>N. DE E. LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS APROBO EL DECRETO No. 130, QUE REFORMA LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 16 DE SEPTIEMBRE DE 1981.</small>
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
@@ -155,13 +153,13 @@ VII.- Por separarse del territorio del Estado por un tiempo mayor de un año. En
 
 Son chiapanecos:
 
-I. Por nacimiento:
+I.- Por nacimiento:
 
 A) Las personas que nazcan en el territorio del Estado; y
 
 B) Los hijos de padre o madre chiapanecos que accidentalmente hayan nacido fuera del mismo.
 
-II. Por residencia:
+II.- Por residencia:
 
 A) Los mexicanos por nacimiento o naturalización conforme a las leyes del País, que no estén en los supuestos a que se refiere la fracción anterior, que residan en el Estado más de cinco años consecutivos.
 
@@ -179,9 +177,9 @@ Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
 Son ciudadanos chiapanecos:
 
-I. Los varones y las mujeres que satisfagan los requisitos de la fracción I, incisos a) y b) del artículo anterior, que hayan cumplido dieciocho años de edad y que tengan modo honesto de vivir; y
+I.- Los varones y las mujeres que satisfagan los requisitos de la fracción I, incisos a) y b) del artículo anterior, que hayan cumplido dieciocho años de edad y que tengan modo honesto de vivir; y
 
-II. Los mexicanos en general que tengan más de cinco años de residencia consecutiva en el Estado y modo honesto de vivir.
+II.- Los mexicanos en general que tengan más de cinco años de residencia consecutiva en el Estado y modo honesto de vivir.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -189,13 +187,13 @@ II. Los mexicanos en general que tengan más de cinco años de residencia consec
 
 Son obligaciones de los ciudadanos chiapanecos, además de las establecidas en el Artículo 5o., las siguientes:
 
-I. Inscribirse en el Padrón Electoral Municipal y votar en las elecciones correspondientes;
+I.- Inscribirse en el Padrón Electoral Municipal y votar en las elecciones correspondientes;
 
-II. Desempeñar los cargos de elección popular para los que hayan sido electos;
+II.- Desempeñar los cargos de elección popular para los que hayan sido electos;
 
-III. Tomar las armas para la defensa de la Federación, del Estado y de sus Instituciones, conforme lo prevenga la Ley; y
+III.- Tomar las armas para la defensa de la Federación, del Estado y de sus Instituciones, conforme lo prevenga la Ley; y
 
-IV. Desempeñar los cargos Consejiles del Municipio donde residan, las funciones electorales y las de jurado.
+IV.- Desempeñar los cargos Consejiles del Municipio donde residan, las funciones electorales y las de jurado.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -203,7 +201,7 @@ IV. Desempeñar los cargos Consejiles del Municipio donde residan, las funciones
 
 Los ciudadanos chiapanecos tienen derecho a:
 
-A). Votar en las elecciones federales, estatales y municipales;
+A) Votar en las elecciones federales, estatales y municipales;
 
 B) Poder ser votados en dichas elecciones y nombrados para cualquier cargo o comisión, siempre que estén satisfechos los requisitos que la Ley exige; y
 
@@ -219,19 +217,19 @@ C) De petición y de asociación en los asuntos políticos del Estado.
 
 Los derechos a que se refiere el artículo anterior se suspenden:
 
-I. Por incapacidad jurídica;
+I.- Por incapacidad jurídica;
 
-II. Por estar sujetos a proceso por delito que merezca pena privativa de libertad. La suspensión en este caso tiene efectos desde que se dicte auto de formal prisión o desde que se declare que ha lugar a formación de causa, tratándose de funcionarios que gocen de fuero constitucional;
+II.- Por estar sujetos a proceso por delito que merezca pena privativa de libertad. La suspensión en este caso tiene efectos desde que se dicte auto de formal prisión o desde que se declare que ha lugar a formación de causa, tratándose de funcionarios que gocen de fuero constitucional;
 
-III. Por estar compurgando una pena privativa de libertad;
+III.- Por estar compurgando una pena privativa de libertad;
 
-IV. Por separarse del territorio del Estado por un término mayor de un año, sin causa justificada, si son chiapanecos por residencia;
+IV.- Por separarse del territorio del Estado por un término mayor de un año, sin causa justificada, si son chiapanecos por residencia;
 
-V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión o reaprehensión, hasta que prescriba la acción penal o la sanción impuesta;
+V.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión o reaprehensión, hasta que prescriba la acción penal o la sanción impuesta;
 
-VI. Por negarse a desempeñar el cargo de Síndico, Regidor, Presidente Municipal, Diputado o Gobernador. La suspensión subsistirá el tiempo que debería durar el cargo cuya negativa se sanciona; y
+VI.- Por negarse a desempeñar el cargo de Síndico, Regidor, Presidente Municipal, Diputado o Gobernador. La suspensión subsistirá el tiempo que debería durar el cargo cuya negativa se sanciona; y
 
-VII. Por sentencia ejecutoriada que imponga como pena la suspensión.
+VII.- Por sentencia ejecutoriada que imponga como pena la suspensión.
 
 La calidad de ciudadano chiapaneco se recobra por haber cesado la causa que dio motivo a la suspensión.
 
@@ -301,13 +299,13 @@ IV.- No podrán figurar como Candidatos en las listas de Representación Proporc
 
 Para ser Diputado se requiere:
 
-I. Ser ciudadano chiapaneco por nacimiento, en el ejercicio de sus derechos;
+I.- Ser ciudadano chiapaneco por nacimiento, en el ejercicio de sus derechos;
 
-II. Tener veintiún años cumplidos el día de la elección;
+II.- Tener veintiún años cumplidos el día de la elección;
 
-III. No pertenecer al estado eclesiástico o ser Ministro de algún culto; y
+III.- No pertenecer al estado eclesiástico o ser Ministro de algún culto; y
 
-IV. Haber residido en el Estado cuando menos cinco años anteriores a dicha elección.
+IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha elección.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -319,9 +317,9 @@ IV. Haber residido en el Estado cuando menos cinco años anteriores a dicha elec
 
 No podrán ser electos Diputados:
 
-I. El Gobernador del Estado, los Senadores y los Diputados Federales, aun cuando con anterioridad se separen de sus cargos;
+I.- El Gobernador del Estado, los Senadores y los Diputados Federales, aun cuando con anterioridad se separen de sus cargos;
 
-II. Los funcionarios que a continuación se indican, si no se separan definitivamente de sus cargos noventa días antes de la elección:
+II.- Los funcionarios que a continuación se indican, si no se separan definitivamente de sus cargos noventa días antes de la elección:
 
 A) El Secretario General de Gobierno, los Secretarios de Despacho, el Subsecretario de Gobierno, el Oficial Mayor de Gobierno, el Procurador y los Subprocuradores Generales de Justicia, el Presidente de la Junta Local de Conciliación y Arbitraje y los Directores Dependientes del Ejecutivo;
 
@@ -403,13 +401,13 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 
 El derecho de iniciar Leyes o Decretos compete:
 
-I. Al Gobernador del Estado;
+I.- Al Gobernador del Estado;
 
-II. A los Diputados;
+II.- A los Diputados;
 
-III. Al Tribunal Superior de Justicia, en materia de su ramo; y
+III.- Al Tribunal Superior de Justicia, en materia de su ramo; y
 
-IV. A los Ayuntamientos en asuntos municipales.
+IV.- A los Ayuntamientos en asuntos municipales.
 
 Las iniciativas presentadas por el Gobernador, por el Tribunal Superior de Justicia y por los Ayuntamientos pasaran desde luego a comisión; las que presenten los Diputados se sujetaran a los tramites que determine el Reglamento Interior del Congreso.
 
@@ -977,33 +975,51 @@ Para el desempeño de sus funciones podrá contar con elementos necesarios que r
 
 Todo empleado de Hacienda que maneje caudales públicos otorgará fianza en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 69.
 
-Todo funcionario, cualquiera que sea su categoría será responsable de los delitos, faltas u omisiones en que incurra en el ejercicio o con motivo de su cargo.
+Para los efectos de este Título, tendrán el carácter de Servidores Públicos, los Representantes de Elección Popular, los miembros del Poder Judicial, los Funcionarios, los Empleados y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, Paraestatal y Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-Para denunciar los delitos oficiales y de orden común se concede acción popular, sin obligación de constituirse en parte, en los términos de la legislación respectiva.
+El Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Superior de Justicia y los Presidentes Municipales, sólo serán responsables por violaciones graves a la Constitución General de la República, a la del Estado y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 70.
 
-Cuando se trate de delitos del orden común cometidos por el Gobernador, por los Diputados, por los Magistrados, por el Procurador General de Justicia, por los Sub-procuradores, por los Secretarios, por los Subsecretarios de Despacho, por el Oficial Mayor de Gobierno, por los miembros de los Ayuntamientos, el Congreso, erigido en Jurado, declarará por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros funcionarios. Si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado, por el solo hecho, separado de su encargo y sujeto a la acción de los Tribunales comunes. En caso negativo, no habrá lugar a procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, ya que la resolución del Congreso no prejuzga sobre los fundamentos de la acusación.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y demás normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad de acuerdo con las prevenciones siguientes:
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el siguiente Artículo 71 de la Constitución a los Servidores Públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas;
+
+II.- La Comisión de delitos por parte de Servidores Públicos será perseguida y sancionada en los términos de la Legislación Penal; y
+
+III.- Se aplicarán sanciones administrativas a los Servidores Públicos que incurran en actos u omisiones que afecten, la legalidad, honradez, lealtad, imparcialidad y eficacia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se establecerán en forma autónoma, no podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los Servidores Públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio o, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las Leyes Penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 71.
 
-De los delitos oficiales cometidos por los funcionarios mencionados en el artículo anterior, con excepción de los Magistrados, conocerá el Congreso como jurado de acusación y el Tribunal Superior de Justicia como Tribunal de Sentencia. El Jurado de acusación tendrá por objeto declarar, por el mismo numero de votos de que habla el numeral que precede, si el encausado es o no culpable; si la declaración fuere de inculpabilidad, el funcionario continuará en el ejercicio de su cargo; si fuere de culpabilidad quedará inmediatamente separado de dicho cargo y será puesto desde luego a disposición del Tribunal Superior de Justicia; éste, en pleno, erigido en Tribunal de sentencia, con audiencia del encausado, de su defensor y de una Comisión del Jurado de Acusación integrada por dos Diputados, resolverá por mayoría de votos, lo que proceda de acuerdo con la Ley.
+Podrán ser sujetos de juicio político el Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Superior de Justicia, los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndico y Regidores Municipales, los Jueces de Primera Instancia, de lo Familiar, Municipales y Rurales, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos.
 
-Cuando se trate de los Magistrados del Tribunal Superior o de los Jueces de Primera Instancia, el Gobernador del Estado pedirá la destitución correspondiente ante el Congreso, si éste declara justificada la petición por mayoría absoluta de los votos de sus miembros, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido.
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia, incurran en violaciones graves a la Constitución General de la República y a las Leyes que de ella emanen, así como el manejo indebido de fondos y recursos federales, recibida que sea la declaratoria a que se contrae el Artículo 110 de esa propia Constitución, el Congreso del Estado como Jurado de Acusación la turnará al Tribunal Superior de Justicia, el que erigido en Tribunal de Sentencia substanciará el procedimiento señalado en este Artículo.
 
-El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, lo oirá en privado, a efecto de poder apreciar en conciencia la procedencia de la consignación.
+Cuando los Servidores Públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las Leyes de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
 
-Los Jueces de Primera Instancia respectivos, conocerán con audiencia del Ministerio Publico, de los juicios de responsabilidad que se inicien en contra de los Jueces Municipales y Rurales. En segunda instancia, conocerán las Salas del Tribunal Superior de Justicia, según proceda.
+Para la aplicación de las sanciones a que se refiere este Artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa declaración de la mayoría absoluta del numero de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Conociendo de la acusación el Tribunal Superior de Justicia rigido (sic) en Tribunal de Sentencia, aplicará la sanción correspondiente mediante resolución de las dos terceras partes de los miembros presentes reunidos en Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una comisión del Jurado de Acusación integrada por dos Diputados.
+
+Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ## TITULO OCTAVO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA
 
@@ -1011,25 +1027,43 @@ Los Jueces de Primera Instancia respectivos, conocerán con audiencia del Minist
 
 ###### ARTICULO 72.
 
-Pronunciada la sentencia de responsabilidad por delitos oficiales, no podrá concederse al sentenciado la gracia del indulto.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado, por los Diputados Locales, por los Magistrados del Tribunal Superior de Justicia, por los Secretarios y Subsecretarios de Despacho, por el Procurador General y Sub-Procuradores de Justicia, el Contralor General de Gobierno, los Vocales Ejecutivos, los Coordinadores Generales, los Presidentes, Síndicos y Regidores Municipales, los Jueces de Primera Instancia, de lo Familiar, Municipales y Rurales, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fdeicomisos Públicos, el Congreso del Estado erigido en Jurado declarará por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros Servidores Públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese solo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia incurran en delitos federales, recibida que sea la declaratoria de procedencia a que se contrae el Artículo 111 de la Constitución General de la República, el Congreso del Estado erigido en jurado, por los dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los demás, determinará la procedencia o no de dicha declaración, en caso afirmativo quedará el inculpado separado de su cargo, en tanto esté sujeto a la acción de los Tribunales del Orden Federal. Si esta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria la separación de su cargo será definitiva. En caso negativo la declaratoria de referencia se desechará de plano, sin perjuicio de que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la Legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 73.
 
-La responsabilidad por delitos y faltas oficiales sólo podrá exigirse durante el período en que el funcionario ejerza su encargo, y dentro de un año después.
+De los actos u omisiones en que incurran los Servidores Públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y el Tribunal Superior de Justicia como Tribunal de Sentencia. El Jurado de Acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable; si la declaración fuere de inculpabilidad, el servidor público, continuará en el ejercicio de su cargo, si fuere la culpabilidad quedará separado inmediatamente del mismo y se turnará el caso al Tribunal Superior de Justicia; éste, en Pleno, con audiencia del encausado, de su defensor y de una Comisión del Jurado de Acusación integrada por dos Diputados, resolverá por mayoría de votos lo que proceda de acuerdo con la Ley.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Las sanciones por responsabilidad administrativa, además de las que señalen las Leyes, serán personales y patrimoniales; las primeras consistirán en la suspensión, destitución e inhabilitación del Servidor Público y las segundas deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el Artículo 70 fracción III, de esta Constitución, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca el Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 74.
 
-En demandas del orden civil no hay fuero ni inmunidad para ningún funcionario público.
+El procedimiento de Juicio Político sólo podrá iniciarse durante el período en el que el Servidor Público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un perído no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+La responsabilidad por delitos cometidos por cualquier Servidor Público será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal. Los plazos de prescripción se interrumpen en tanto el Servidor Público desempeña alguno de los encargos a que hace referencia el Artículo 69 de este mismo Título.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 70 de esta propia Constitución.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 75.
 
-Las resoluciones del Tribunal Superior de Justicia, en los procedimientos relativos a delitos oficiales, a que se refiere el presente título, serán inapelables.
+Las declaraciones y resoluciones del Congreso del Estado y del Tribunal Superior de Justicia del Estado emitidos en los casos a que se refiere este Título son inatacables.
+
+En todos los casos señalados en este Título en que el inculpado sea Diputado al Congreso del Estado o Magistrado del Tribunal Superior de Justicia, éste desde luego, será inhabilitado para intervenir en la votación correspondiente.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1061,9 +1095,9 @@ Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o 
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-## TITULO NOVENO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
+## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 80.
 
@@ -1091,9 +1125,9 @@ Las leyes o decretos, los reglamentos, y cualesquiera otras disposiciones obliga
 
 Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma, se requiere:
 
-I. Que el Congreso, con la aprobación de las dos terceras partes del numero total de sus miembros, admitan a discusión el proyecto;
+I.- Que el Congreso, con la aprobación de las dos terceras partes del numero total de sus miembros, admitan a discusión el proyecto;
 
-II. Que el proyecto se publique en el Periódico Oficial del Estado.
+II.- Que el proyecto se publique en el Periódico Oficial del Estado.
 
 III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los sesenta días de recibida la comunicación en que se les pida. Su abstención significará aprobación.
 
@@ -1511,11 +1545,11 @@ Toda persona gozará de las garantías individuales y sociales que otorga la Con
 
 Son obligaciones de los habitantes del Estado:
 
-I. Respetar y cumplir las Leyes;
+I.- Respetar y cumplir las Leyes;
 
-II. Acrecentar el espíritu de solidaridad humana y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
+II.- Acrecentar el espíritu de solidaridad humana y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
 
-III. Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
+III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1728,3 +1762,9 @@ Quedan derogadas todas las leyes, decretos, circulares, reglamentos o cualesquie
 ###### ARTICULO QUINTO.
 
 El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento.
+
+P.O. 21 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Las presentes adiciones y reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
