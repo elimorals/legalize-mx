@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1926-01-15"
+last_updated: "1926-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1926.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -127,13 +127,15 @@ El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1926)</small>
+
 ### CAPITULO PRIMERO.
 
 DEL PODER LEGISLATIVO.
 
 ###### Artículo 15°
 
-El Congreso del Estado se compondrá por lo menos de quince Diputados electos popularmente cada dos años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido la mayoría de votos, conforme a la fracción tercera del artículo 31, instalados en Junta preparatoria del Congreso harán la calificación de la elección, declarando quiénes son diputados conforme a la ley.
+El Congreso del Estado se compondrá por lo menos de 15 diputados electos popularmente cada cuatro años; los individuos de quienes respecto de la Diputación Permanente declare que han obtenido mayoría de votos válidos conforme a la fracción III del artículo 31, se instalarán en Junta Preparatoria del Congreso y harán la calificación de la elección, declarando quiénes son Diputados propietarios y suplentes respectivamente, conforme a la Ley.
 
 ###### Artículo 16°
 
@@ -159,9 +161,11 @@ VI.- No ser Juez ni Presidente Municipal en el Distrito donde se pretenda su ele
 
 Los diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1926)</small>
+
 ###### Artículo 19°
 
-El Congreso se instalará cada dos años el dieciséis de Septiembre posterior a la elección.
+El Congreso se instalará cada cuatro años el 16 de septiembre posterior a la elección, renovándose por mitad desde el año de 1930.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1919)</small>
 
@@ -297,19 +301,21 @@ V. Si algún motivo grave exigiera la reunión del Congreso o el Gobierno lo sol
 
 El Poder Ejecutivo se deposita en un individuo que se denominará Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1926)</small>
+
 ###### Artículo 33°
 
-Para ser Gobernador se requiere:
+Para ser Gobernador del Estado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento en ejercicio de su (sic) derechos.
+I.- Ser hijo del Estado por nacimiento en ejercicio de sus derechos.
 
-II.- Tener treinta y cinco años cumplidos el día de la elección.
+II.- Tener treinta años cumplidos el día de la elección.
 
-III.- Ser originario del Estado y con domicilio legal en el cuando menos cuatro años antes de la elección.
+III.- Tener como requisito indispensable, la vecindad cuando menos de cinco años antes de la elección.
 
-IV.- No estar en servicio activo en el Ejército Nacional ni en las fuerzas del Estado, cuando menos sesenta días antes de la elección.
+IV.- No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del Estado o del Municipio, cuando menos noventa dias antes de la elección.
 
-V.- No ser Secretario de Gobierno, salvo que se separe del cargo, noventa días antes de la elección.
+V.- No ser Secretario de Gobierno, salvo que se separe de dicho cargo cuando menos noventa días antes de la elección.
 
 VI.- No haber sufrido condena alguna impuesta por los Tribunales, que hubiere excedido de un mes de arresto.
 
@@ -389,7 +395,9 @@ XII.- Cuidar de la conservación del orden público, disponiendo al efecto de la
 
 XIII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
-XIV.- Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de Funcionarios y empleados públicos que gocen de fuero.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1926)</small>
+
+XIV.- Convocar al Congreso a sesiones extraordinarias cuando lo juzgue conveniente, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidades de Funcionarios y Empleados Públicos que gocen de fuero.
 
 XV.- Conceder indultos y reducción de penas en los términos que lo prescriban las leyes respectivas.
 
@@ -622,3 +630,9 @@ P.O. 15 DE ENERO DE 1926.
 ###### Artículo 2°.
 
 El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
+
+P.O. 2 DE MAYO DE 1926.
+
+I.- Los actuales ciudadanos Diputados, durarán en su encargo hasta el 15 de septiembre del año de 1928.
+
+II.- En dicho año se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley, debiendo comenzar sus funciones los Diputados electos, el 16 de septiembre y durarán en su cargo, los del número impar, cuatro años y los del número par dos años.
