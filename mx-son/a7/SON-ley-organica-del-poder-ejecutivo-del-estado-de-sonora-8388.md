@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1993-04-22"
+last_updated: "1995-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 1995.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -401,9 +401,9 @@ III.- Determinar los criterios y montos de los estímulos fiscales, estudiar y p
 
 IV.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal que prevea la Secretaría de Planeación del Desarrollo y Gasto Público, la utilización razonable del crédito público y la sanidad financiera de la administración pública estatal.
 
-V.- (DEROGADA, B.O. 7 DE NOVIEMBRE DE 1991)
+V.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE SONORA, B.O. 7 DE NOVIEMBRE DE 1991)
 
-VI.- Registrar las operaciones en que se haga uso del crédito público.
+VI.- (DEROGADA, B.O. 6 DE JULIO DE 1995)
 
 VII.- Ejecutar los convenios que en materia impositiva se celebren con la Federación o con los Municipios.
 
@@ -1269,8 +1269,20 @@ La presente Ley, entrará en vigor al día siguiente de su publicación en el Bo
 
 Los recursos humanos, materiales y financieros de las unidades administrativas que integran a los órganos de control interno de las dependencias de la administración pública estatal, pasarán a la Secretaría de la Contraloría General del Estado.
 
-ARTICULO' TERCERO.- Se derogan en los diversos ordenamientos, las disposiciones que regulen a los órganos de control interno en las dependencias de la administración pública estatal.
+###### ARTICULO TERCERO.
+
+Se derogan en los diversos ordenamientos, las disposiciones que regulen a los órganos de control interno en las dependencias de la administración pública estatal.
 
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
+
+B.O. 6 DE JULIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se deroga la fracción VI del artículo 25 de la Ley Orgánica del Poder Ejecutivo, así como todas las disposiciones que se opongan a la presente Ley.
