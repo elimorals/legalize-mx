@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-contraloria-20017"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2002-07-15"
+last_updated: "2004-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA, PUBLICADO EN EL PERIODICO OFICIAL EL 7 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el día 26 de febrero de 2001.
 
@@ -506,3 +508,11 @@ P.O. 15 DE JULIO DE 2002.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las áreas que tenían atribuciones en asuntos que correspondan ahora para su despacho a la Dirección General de Normatividad en Licitaciones y Política Gubernamental, serán adscritas a dicha Unidad Administrativa.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+
+P.O. 7 DE JUNIO DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de la Contraloría de fecha siete de febrero de dos mil uno y publicado en el Periódico Oficial del Estado el día veintiséis de ese mismo mes y año y se derogan las demás disposiciones que se opongan al presente Ordenamiento.
