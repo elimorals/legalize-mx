@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1992-12-08"
+last_updated: "1993-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE SEPTIEMBRE DE 1993.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -54,9 +54,9 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE SEPTIEMBRE DE 1993)</small>
 
-b). Las monedas metálicas de veinte, diez, cinco, dos y un pesos, y de cincuenta, veinte, diez y cinco centavos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
+b). Las monedas metálicas de cincuenta, veinte, diez, cinco, dos y un pesos, y de cincuenta, veinte, diez y cinco centavos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1992)</small>
 
@@ -1553,3 +1553,9 @@ Canto: Estriado discontinuo.
 PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1993.
 
 SEGUNDO.- La moneda de veinte pesos a que se refiere el artículo segundo de este Decreto, deberá contener en el reverso el símbolo "N$", en lugar del símbolo "$", hasta que el Banco de México, en términos de lo dispuesto por el artículo tercero transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992; retire de la circulación las monedas señaladas en el propio artículo.
+
+D.O.F. 9 DE SEPTIEMBRE DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La moneda de cincuenta pesos a que se refiere este Decreto, deberá contener en el reverso el símbolo "N$", en lugar del símbolo "$" hasta que el Banco de México en términos de lo dispuesto por el Artículo Tercero Transitorio del Decreto por el que se crea una nueva unidad del Sistema Monetario de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992, retire de la circulación las monedas metálicas representativas de la unidad monetaria que ha sido sustituida.
