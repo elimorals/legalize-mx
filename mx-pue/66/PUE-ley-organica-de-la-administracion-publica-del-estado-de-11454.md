@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "1999-12-06"
+last_updated: "2002-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -247,7 +247,9 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
 La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal.
 
-Las Secretarías, la Procuraduría General de Justicia y las unidades administrativas que dependan directamente del Gobernador del Estado, integrarán la Administración Pública Centralizada. A estas unidades administrativas se les denominará genéricamente como dependencias.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2002)</small>
+
+La Gubernatura, la (sic) Secretarías, la Procuraduría General de Justicia, la Procuraduría del Ciudadano y la Consejería Jurídica, así como las unidades administrativas que dependen directamente del Gobernador del Estado, integrarán la Administración Pública Centralizada. A estas unidades administrativas se les denominará genéricamente como Dependencias.
 
 Los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria, los Fideicomisos Públicos, las Comisiones y demás órganos de carácter público que funcionen en el Estado, conforman la Administración Pública Paraestatal. A estas unidades administrativas se les denominará genéricamente como entidades.
 
@@ -258,6 +260,14 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, con las a
 ###### ARTICULO 3.
 
 Para el despacho de los asuntos que le competen, el Gobernador del Estado se auxiliará de las dependencias y entidades, con apoyo en la Constitución Política del Estado de Puebla, la Ley de Egresos del Estado, la presente Ley Orgánica y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+ARTICULO 3 bis.- La Consejería Jurídica estará a cargo de un Consejero Jurídico, dependerá del Ejecutivo del Estado, y su titular será nombrado y removido libremente por éste.
+
+Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Procurador General de Justicia.
+
+A la Consejería Jurídica del Estado le serán aplicables las disposiciones sobre Presupuesto, Contabilidad y Gasto Público Estatal, así como las que rigen a las demás Dependencias del Ejecutivo Local. En el Reglamento Interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
 
 ###### ARTICULO 4.
 
@@ -307,6 +317,12 @@ Cuando el titular de una dependencia o entidad se ausente del Estado por más de
 
 Los titulares de las dependencias y entidades a que se refiere esta Ley, a través de la unidad administrativa que resulte competente, deberán procurar el desarrollo integral de los aspectos mental, técnico, cultural, social y deportivo de los servidores públicos bajo su responsabilidad, de conformidad con lo que al respecto dispongan los reglamentos interiores y los ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+ARTICULO 13 bis.- Las Dependencias y Entidades de la Administración Pública Estatal enviarán a la Consejería Jurídica del Estado los proyectos de iniciativas de leyes y decretos que serán sometidos al Titular del Poder Ejecutivo por su conducto.
+
+Asimismo, proporcionarán oportunamente a la Consejería Jurídica la información y apoyo que requiera para el cumplimiento de sus funciones.
+
 ###### ARTICULO 14.
 
 El Ejecutivo del Estado podrá disponer la práctica de auditorías a las dependencias y entidades a que se refiere esta Ley.
@@ -351,7 +367,11 @@ XII.- PROCURADURIA GENERAL DE JUSTICIA
 
 > <small>(ADICIONADA, P.O. 15 DE JULIO DE 1998)</small>
 
-XIII.- PROCURADURIA DEL CIUDADANO.
+XIII.- PROCURADURIA DEL CIUDADANO
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2002)</small>
+
+XIV.- CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
 
@@ -431,9 +451,9 @@ V.- Llevar el control y archivo de los convenios que celebre el Gobernador del E
 
 VI.- Otorgar al Poder Judicial del Estado el auxilio que requiera para el debido ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2002)</small>
 
-VII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los Secretarios y Procuradores;
+VII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los Secretarios, Procuradores y del Consejero Jurídico;
 
 VIII.- Tramitar lo relativo al ejercicio de las facultades que al Titular del Ejecutivo otorgan los Artículos 87 y 88 de la Constitución Política del Estado, sobre el nombramiento y destitución de los Magistrados del Tribunal Superior de Justicia del Estado;
 
@@ -1345,6 +1365,60 @@ XIII.- Formular y conducir las políticas generales para el patrocinio y la defe
 
 XIV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2002)</small>
+
+### CAPITULO XV. DE LA CONSEJERIA JURIDICA
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2002)</small>
+
+ARTICULO 40 ter.- El Consejero Jurídico tiene las siguientes facultades y obligaciones:
+
+I.- Dar apoyo técnico jurídico al Titular del Ejecutivo, en todos aquellos asuntos que éste le encomiende;
+
+II.- Someter a consideración y, en su caso, a firma del Gobernador del Estado, los proyectos de iniciativas de leyes y decretos que se presenten al H. Congreso Local y darle opinión sobre los mismos;
+
+III.- Revisar los proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones gubernamentales y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración y, en su caso, a firma del Gobernador del Estado;
+
+IV.- Prestar asesoría jurídica, cuando el Gobernador del Estado así lo acuerde, en asuntos en que intervengan varias Dependencias de la Administración Pública Estatal;
+
+V.- Coadyuvar con los titulares de las unidades jurídicas de las Dependencias, Entidades y municipios, en materia de asesoría, consulta e investigación jurídica;
+
+VI.- Coordinar los programas de normatividad jurídica de la Administración Pública que apruebe el Gobernador del Estado;
+
+VII.- Definir, unificar, sistematizar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen el funcionamiento de la Administración Pública del Estado, así como unificar los criterios que deben seguir las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública;
+
+VIII.- Presidir la Comisión de Estudios Jurídicos del Gobierno, integrada por los responsables de las unidades de asuntos jurídicos de cada Dependencia y Entidad, la que tendrá por objeto la coordinación en materia jurídica de las Dependencias y Entidades de la Administración Pública;
+
+IX.- Elaborar el proyecto de agenda legislativa del Gobernador del Estado, atendiendo a las propuestas de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública y someterlo a la consideración del mismo;
+
+X.- Intervenir en los juicios de amparo en carácter de Delegado, cuando el Gobernador del Estado sea señalado como autoridad responsable, así como supervisar todas las etapas de su proceso y la elaboración de los informes previos y con justificación cuando la importancia del asunto así lo amerite;
+
+XI.- Vigilar, en el ámbito jurídico-procesal, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado, especialmente por lo que se refiere a las garantías individuales y derechos humanos, así como dictar las disposiciones administrativas necesarias para tal efecto;
+
+XII.- Tramitar e integrar debidamente los expedientes de expropiación, de ocupación temporal o de limitación de dominio, para los efectos que establece el artículo 4o. de la Ley de Expropiación, así como resolver el recurso administrativo de revocación respectivo;
+
+XIII.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos que compete resolver al Gobernador del Estado;
+
+XIV.- Coadyuvar en la tramitación de acciones que le sean encomendadas por el Gobernador del Estado, así como opinar sobre el desistimiento, formulación de contestaciones, ofrecimiento de pruebas, alegatos, incidentes, recursos y demás actos procesales, que a él le corresponda, hasta la conclusión y ejecución de los juicios correspondientes;
+
+XV.- Certificar, en la esfera de sus atribuciones, los documentos expedidos por el Gobernador del Estado y aquéllos expedidos por los servidores públicos adscritos a la propia Consejería Jurídica en el desempeño de sus funciones;
+
+XVI.- Emitir los lineamientos generales para la suscripción de convenios, contratos y demás instrumentos jurídicos que en el ámbito de sus respectivas competencias acuerden las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública;
+
+XVII.- Realizar los estudios e investigaciones en materia legislativa, a fin de que el Titular del Ejecutivo del Estado cuente con la información necesaria, para que en su caso promueva las iniciativas correspondientes ante el Congreso del Estado;
+
+XVIII.- Opinar previamente sobre el nombramiento y, en su caso, solicitar la remoción de los titulares de las unidades encargadas del apoyo jurídico de las Dependencias y Entidades de la Administración Pública;
+
+XIX.- Coordinar los programas de normatividad jurídica de la Administración Pública Estatal que apruebe el Gobernador del Estado, procurando la congruencia de los criterios jurídicos de las Dependencias y Entidades de la misma;
+
+XX.- Participar, junto con las demás Dependencias competentes, en la actualización y simplificación del orden normativo jurídico;
+
+XXI.- Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el Titular del Ejecutivo Local intervenga con cualquier carácter.
+
+La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas; y
+
+XXII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+
 ### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ### CAPITULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
@@ -1359,13 +1433,9 @@ XIV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO V. DE LAS COMISIONES Y DEMAS ORGANOS DE CARACTER PUBLICO
-
 ## TITULO III. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-### CAPITULO VI. DEL DESARROLLO, CONTROL Y EVALUACION
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
+### CAPITULO V. DE LAS COMISIONES Y DEMAS ORGANOS DE CARACTER PUBLICO
 
 ###### ARTICULO 41.
 
@@ -1409,7 +1479,9 @@ Las entidades paraestatales gozarán de autonomía de gestión, para el cabal cu
 
 La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, integrará y llevará el registro de las entidades paraestatales, publicando anualmente en el Periódico Oficial del Estado la relación de las mismas.
 
-### CAPITULO UNICO
+### CAPITULO VI. DEL DESARROLLO, CONTROL Y EVALUACION
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 50.
 
@@ -1444,6 +1516,8 @@ Se equiparan a las empresas de participación estatal mayoritaria, las sociedade
 ###### ARTICULO 55.
 
 Las empresas de participación estatal mayoritaria, además de tener dentro de sus objetivos el de promover el desarrollo económico del Estado y obtener recursos que contribuyan al erario público, deberán observar lo que ordena el artículo 50 de la presente Ley para los organismos descentralizados, respecto de su objeto preponderante.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 56.
 
@@ -1664,3 +1738,17 @@ En tanto sean implementadas en las Secretarías de Finanzas y Desarrollo Social,
 Cuando en los actos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se cite a las Secretarías de Finanzas y de Desarrollo Urbano y Ecología del Gobierno del Estado, se entenderá que se refieren a las Secretarías de Finanzas y Desarrollo Social, y de Desarrollo Urbano, Ecología y Obras Públicas del Gobierno del Estado.
 
 Las Instancias en contra de las Secretarías de Finanzas y de Desarrollo Urbano y Ecología, cuya interposición se haya efectuado con anterioridad a la entrada en vigor del presente Decreto y se notifiquen en fecha posterior, serán tramitadas por las Secretarías de Finanzas y Desarrollo Social, y de Desarrollo Urbano, Ecología y Obras Públicas.
+
+P.O. 4 DE MARZO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Para efectos de organización, todas las oficinas jurídicas de las Dependencias y Entidades del Gobierno pasarán a formar parte de la Consejería Jurídica del Ejecutivo Local en cuanto a dirección y dependencia, sin dejar las funciones que tienen asignadas en las diversas Secretarías, integrando la Comisión de Estudios Jurídicos del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
