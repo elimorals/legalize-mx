@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1992-12-25"
+last_updated: "1993-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 1993.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1509,6 +1509,10 @@ II.- Por avalúo practicado por peritos autorizados por la Tesorería Municipal;
 
 III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
+
+Cuando se trate de vivienda de interés social o popular, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
+
 ###### ARTICULO 163.
 
 Siempre que la base para la liquidación del Impuesto Sobre Traslación de Dominio resultare mayor que el valor fiscal registrado, se tendrá como base para el pago del impuesto predial, y surtirá efectos a partir del bimestre siguiente al en que se causó Impuesto.
@@ -1525,27 +1529,41 @@ El impuesto Predial, se determinará y liquidará de acuerdo con las tasas que e
 
 Si como resultado de la aplicación de las tasas que señala la Ley de Ingresos para los Municipios, se obtiene una cantidad inferior a la cuota mínima anual que establece dicha Ley, el impuesto a pagar será la cuota mencionada.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1993)</small>
 
-Asimismo, tributarán bajo la cuota mínima anual, previo dictamen de la Tesorería Municipal, los inmuebles que se encuentren en los siguientes supuestos.
+Asimismo, tributarán bajo la cuota mínima los bienes inmuebles que se encuentren en los siguientes supuestos:
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
 A).- Los destinados al servicio de educación cuya constitución y funcionamiento se ajusten a las leyes de la materia.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+
 B).- Los que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Municipio, siempre que por los mismos sus propietarios no perciban rentas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
 C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
 
-D).- Los que pertenezcan a jubilados y pensionados, siempre y cuando no perciban ingresos por otro concepto y el inmueble no exceda del valor fiscal equivalente a 20 veces el salario mínimo general diario, elevado al año que corresponda al lugar en que se encuentre ubicado el inmueble.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
 
-E).- Las casas habitación adquiridas con financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda del Ejército, Fuerza Aérea y Armada, así como los otorgados por organismos similares. La referida cuota mínima, se cubrirá durante el plazo otorgado para el pago de dicho crédito.
+D).- Los que pertenezcan a jubilados y pensionados o viudas de éstos, siempre y cuando no perciban ingresos por otro concepto y el inmueble no exceda del valor fiscal equivalente a veinticinco veces el salario mínimo general diario elevado al año, que corresponda al lugar en don de se encuentre el inmueble; y
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
 
-Para los efectos de este inciso, no se considerará adquisición, los créditos para mejora o ampliación de las casas habitación.
+E).- Las casas habitación adquiridas con financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los miembros del Ejército, Fuerza Aérea y Armada, así como los otorgados por organismos similares.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
 
-Para este efecto, se requiere solicitud del contribuyente y ésta surtirá efectos a partir del bimestre siguiente a la presentación de dicha solicitud, y procederá siempre y cuando se trate de un solo inmueble.
+En relación al inciso anterior, no se considerará adquisición los créditos para mejora o ampliación de la casa habitación.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
+
+Para los efectos de este artículo, se requiere solicitud por escrito del contribuyente, a la cual deberá anexar la documentación que acredite cualquiera de las hipótesis previstas en los incisos anteriores; en relación a los incisos d) y e) el solicitante deberá acreditar, además, que se trata de su única propiedad o posesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
+
+La solicitud con sus anexos, deberá presentarse a la Tesorería Municipal correspondiente, la que una vez analizada la misma, emitirá el dictamen respectivo; en todo caso, la cuota mínima surtirá sus efectos a partir del siguiente bimestre al en que se haya presentado la solicitud.
 
 ###### ARTICULO 165.
 
@@ -1665,13 +1683,23 @@ Para los efectos de este Impuesto, también podrá presentarse peritaje bancario
 
 En todas las operaciones se reducirá el valor del inmueble de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 1990)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1993)</small>
 
-I.- La cantidad que represente cinco veces el salario mínimo general elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble;
+I.- La cantidad que represente diez veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el bien inmueble;
 
-> <small>(REFORMADA, P. O. 3 DE SEPTIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1993)</small>
 
-II.- La cantidad que representa diez veces el salario mínimo general diario elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble, cuando se trate de casa-habitación adquiridas mediante financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los Miembros del Ejército, Fuerza Aérea y Armada.
+II.- La cantidad que represente quince veces el salario mínimo general diario elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de casas habitación de interés social, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato.
+
+El mismo monto se reducirá tratándose de casas habitación adquiridas mediante financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los Miembros del Ejército, Fuerza Aérea y Armada; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1993)</small>
+
+III.- La cantidad que represente veinte veces el salario mínimo general elevado al año, que corresponda en el área geográfica donde se encuentre ubicado el inmueble, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
+
+La reducción a que se refieren las fracciones II y III se aplicará siempre y cuando sea la única propiedad o posesión del contribuyente, en caso contrario, se estará a lo dispuesto por la fracción I de este artículo.
 
 Para los efectos de este impuesto y se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -2256,6 +2284,12 @@ P.O. 27 DE DICIEMBRE DE 1991.
 El presente decreto entrara en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 25 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 1993.
 
 ###### ARTICULO UNICO.
 
