@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-15282"
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-31"
-last_updated: "1999-09-28"
+last_updated: "2001-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 31 de octubre de 1996.
 
@@ -125,33 +125,17 @@ VII. Todas las personas que tengan domicilio legal en el Estado de Jalisco tendr
 
 #### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Artículo 5o.
 
-El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado por:
+El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado por el Presidente Municipal y los demás munícipes que designe el Ayuntamiento.
 
-I. El Presidente Municipal;
-
-II. Regidor miembro de la Comisión de Reglamentos;
-
-III. Regidor miembro de la Comisión de Inspección y Vigilancia;
-
-IV. Regidor miembro de la Comisión de Seguridad Pública y Tránsito;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE SEPTIEMBRE DE 1999)</small>
-
-V. Regidor miembro de la Comisión de Turismo; y
-
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
-
-VI. Regidor miembro de la Comisión de Promoción del Desarrollo Económico.
-
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
-
-Los miembros de las comisiones señaladas en las fracciones anteriores, serán preferentemente aquellos que las presidan o quienes sean designados por la comisión que corresponda, no pudiendo tener una misma persona más de una representación en este Consejo, lo mismo, se aplicará en caso de que el Presidente Municipal presida además, alguna de las comisiones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Artículo 6o.
 
-El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado además, por vocales que deberán ser nombrados por el Cabildo, los cuales no podrán ser menos de tres ni más de cinco, tendrán derecho a voz pero no a voto, designándose preferentemente a los siguientes:
+El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado además, por vocales que deberán ser nombrados por el Ayuntamiento, los cuales tendrán derecho a voz pero no a voto, designándose preferentemente a los siguientes:
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1998)</small>
 
@@ -163,9 +147,13 @@ III. Algún ciudadano distinguido dentro de la comunidad o representativo de la 
 
 IV. Un representante sindical.
 
-V. Un representante de una asociación vecinal del municipio.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-Además, el Oficial Mayor de Padrón y Licencias, o en su caso, el responsable de la dependencia municipal en materia de giros, así como el Secretario del Ayuntamiento, formarán parte del Consejo, como vocales técnicos con derecho a voz.
+V. Un representante de una asociación vecinal o persona jurídica con funciones de representación ciudadana y vecinal del municipio.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
+Además, el Oficial Mayor de Padrón y Licencias, o en su caso, el responsable de la dependencia municipal en materia de giros, así como el funcionario encargado de la Secretaría del Ayuntamiento, formarán parte del Consejo, como vocales técnicos con derecho a voz.
 
 #### SECCIÓN SEGUNDA. DE LAS FUNCIONES DEL CONSEJO
 
@@ -175,17 +163,17 @@ Son funciones del Consejo Municipal de Giros Restringidos sobre Venta y Consumo 
 
 I. Aprobar o rechazar la expedición, cambio de domicilio y revocación de las licencias a que se refiere la fracción I del artículo 25.
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-II. Proponer al Cabildo la designación de zonas turísticas dentro del Municipio que corresponda.
+II. Proponer al Ayuntamiento la designación de zonas turísticas dentro del Municipio que corresponda.
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-III. Proponer al Cabildo los horarios en que deban operar los distintos establecimientos que regula esta ley, salvo las disposiciones expresas que establezca el presente ordenamiento.
+III. Proponer al Ayuntamiento los horarios en que deban operar los distintos establecimientos que regula esta ley, salvo las disposiciones expresas que establezca el presente ordenamiento.
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-IV. Proponer al Cabildo, medidas tendientes a prevenir y combatir el alcoholismo en el municipio, tales como campañas de difusión sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños y adolescentes y demás que se desprendan del Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas, a que se refiere el artículo 127 de Ley Estatal de Salud.
+IV. Proponer al Ayuntamiento, medidas tendientes a prevenir y combatir el alcoholismo en el municipio, tales como campañas de difusión sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños y adolescentes y demás que se desprendan del programa contra el alcoholismo y el abuso de bebidas alcohólicas, a que se refiere la Ley Estatal de Salud.
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
@@ -273,7 +261,9 @@ Los establecimientos y locales a que se refiere el artículo 9° tienen prohibid
 
 I. Los días que se determinen conforme a la legislación electoral federal y estatal, relativos a las jornadas electorales;
 
-II. Los que en forma expresa determine el Ayuntamiento por acuerdo de Cabildo o a través de sus reglamentos, para casos de riesgo, emergencia o por causa de seguridad pública;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+
+II. Los que en forma expresa determine el Ayuntamiento a través de sus ordenamientos, para casos de riesgo, emergencia o por causa de seguridad pública;
 
 III. Los que en forma expresa y para fechas y plazos determinados, decrete el Titular del Poder Ejecutivo del Estado, en los términos de la fracción anterior.
 
@@ -536,3 +526,7 @@ P.O. 28 DE SEPTIEMBRE DE 1999.
 DECRETO NUMERO 18001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
