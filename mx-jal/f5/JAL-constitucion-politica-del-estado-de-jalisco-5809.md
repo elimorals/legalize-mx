@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1968-04-02"
+last_updated: "1971-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1971.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -143,25 +143,25 @@ Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio
 
 El Congreso se instalará cada tres años, el día primero de febrero posterior a la elección.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1931)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 ### CAPITULO TERCERO. De las facultades del Congreso
 
 ###### Art. 13.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del 1o. de febrero al último de marzo; el otro comprenderá del 1°. de octubre al 31 de diciembre.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del 1o. de febrero al último de marzo; y el otro comprenderá del 1o. de septiembre al 31 de diciembre.
 
 En el primer periodo se ocupará preferentemente:
 
-I. Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
+Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
 
 En el segundo período se ocupará preferentemente:
 
-I. Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal siguiente y decretará los impuestos necesarios para cubrirlo.
+I. Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal y decretará los impuestos necesarios para cubrirlo.
 
-II. Del examen, discusión y aprobación de los presupuestos de Ingresos de los Municipios.
+II. Del examen, discusión y aprobación de los presupuestos de ingresos de los Municipios.
 
-En ambos periodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
+En ambos períodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
 
@@ -615,7 +615,7 @@ La responsabilidad por delitos y faltas oficiales de Funcionarios y Empleados P�
 
 ### CAPITULO TERCERO. De las Reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 ###### Art. 56.
 
@@ -667,7 +667,7 @@ Ninguna autoridad impondrá préstamos forzosos, ni las oficinas harán gasto al
 
 ###### Art. 66.
 
-Esta Constitución sólo podrá reformarse, con los requisitos siguientes: iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado; si del cómputo efectuado por la Cámara de los votos individuales y no por Cuerpos, resultare que hay en mayoría en favor de la reforma, se declarará parte de esta Constitución.
+Esta Constitución sólo podrá reformarse con los requisitos siguientes: iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de Diputados, se enviará a los Ayuntamientos del Estado con los debates que hubiere provocado; si del cómputo efectuado por el Congreso resultare que la mayoría de los Ayuntamientos aprueban la reforma, se declarará que forma parte de la Constitución.
 
 Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los Ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan las reformas.
 
@@ -782,3 +782,7 @@ UNICO.- Esta reforma entrará en vigor tres días después de su publicación en
 P.O. 2 DE ABRIL DE 1968.
 
 UNICO.- Esta Ley que forma parte del texto de la Constitución Política del Estado de Jalisco, entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE AGOSTO DE 1971.
+
+UNICO.- Esta Ley entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial "El Estado de Jalisco".
