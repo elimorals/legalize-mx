@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-6650"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-11-04"
-last_updated: "2000-06-30"
+last_updated: "2000-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos el 4 de noviembre de 1992.
 
@@ -363,9 +363,11 @@ Los concejeros designados sólo podrán excusarse de asumir el cargo conferido p
 
 Para ser miembro de un Ayuntamiento o autoridad auxiliar municipal, deberán reunirse los requisitos que establece el artículo 116 de la Constitución Política del Estado y no encontrarse en ninguno de los casos previstos en el artículo 117 del mismo ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 37.
 
-A las diez horas del día primero de junio del año de su elección, el Ayuntamiento electo celebrará sesión pública y solemne de cabildo, en la que previa comprobación de que existe quórum legal, el Presidente Municipal rendirá la protesta de ley en los términos siguientes:
+El día primero de noviembre del año de su elección, el Ayuntamiento electo celebrará sesión pública y solemne de cabildo, en la que previa comprobación de que existe quórum legal, el Presidente Municipal rendirá la protesta de ley en los términos siguientes:
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el Municipio de ... me ha conferido, y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden."
 
@@ -415,9 +417,9 @@ Cuando el nombramiento de un funcionario del municipio se decida mediante el uso
 
 Para la designación de los servidores públicos municipales a que se refiere esta fracción, deberá tomarse en cuenta su competencia, honorabilidad, profesionalismo y responsabilidad;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2000)</small>
 
-II.- Determinar en orden de prelación, la asignación de las Comisiones Municipales, tomando como base la distribución de Regidurías a que alude el artículo 115, fracción III, párrafos séptimo y octavo de la Constitución Política del Estado de Morelos.
+II.- Determinar la asignación de las comisiones municipales tomando como base el perfil profesional y la experiencia laboral de cada uno de los integrantes del Ayuntamiento respectivo.
 
 Las Comisiones así integradas, serán unipersonales, permanentes y atenderán los ramos de la administración pública, en el siguiente orden:
 
@@ -451,7 +453,9 @@ Las Comisiones así integradas, serán unipersonales, permanentes y atenderán l
 
 La Comisión de Patrimonio Municipal será presidida por el Síndico y las Comisiones de Gobernación, Reglamentos, Seguridad Pública, Tránsito y de Planificación y Desarrollo, quedan encomendadas directamente al Presidente Municipal.
 
-Cuando se trate de Ayuntamientos integrados en número menor de quince, en los términos de esta Ley, la distribución de las Comisiones se agotará en todo momento, siguiendo el orden y criterio fijado en el párrafo primero de esta fracción; de manera que agotada la primer distribución, las subsecuentes lleven la misma consideración y orden.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2000)</small>
+
+Cuando se trate de Ayuntamientos integrados por menos de quince Regidores, la distribución de las comisiones se efectuará siguiendo el criterio establecido en el primer párrafo de la presente fracción. En la asignación de comisiones de (sic) deberá respetar el principio de equidad. En ningún caso, un Regidor podrá tener más de cinco comisiones en Ayuntamientos con solo tres Regidores
 
 Los Ayuntamientos deberán expedir y publicar el Reglamento que determine las acciones que comprenderán cada una de las ramas de la administración pública municipal asignadas a las Comisiones, en los términos de este ordenamiento; en ningún caso las Comisiones, sean permanentes o temporales, podrán autorizar facultades ejecutivas a sus miembros, excepto en el caso que establece el artículo 43, párrafo segundo de esta Ley.
 
@@ -567,7 +571,9 @@ XII.- A propuesta del Presidente Municipal, nombrar al Secretario del Ayuntamien
 
 XIII.- Nombrar y suspender, a propuesta del Presidente Municipal, a los Delegados, previa auscultación de la opinión de los vecinos, así como remover con justa causa a los Intendentes y Ayudantes Municipales, nombrando a los sustitutos;
 
-XIV.- Presentar al Congreso del Estado un informe de las cuentas públicas del municipio, dentro de los primeros diez días de cada mes;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2000)</small>
+
+XIV.- Remitir al Congreso del Estado la cuenta pública mensual del Municipio, dentro de los primeros diez días del mes siguiente, para su revisión;
 
 XV.- Administrar libremente la hacienda municipal en términos de la ley respectiva y controlar el ejercicio del Presupuesto de Egresos del municipio por conducto de la comisión del ramo que corresponda;
 
@@ -777,9 +783,9 @@ Son atribuciones de los Regidores:
 
 I.- Asistir puntualmente a las sesiones que celebre el Ayuntamiento y participar en las discusiones con voz y voto, sin que puedan abstenerse de votar, salvo que exista impedimento legal;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2000)</small>
 
-II.- Vigilar y atender la rama de la administración municipal que les corresponda o les haya sido encomendada, informando trimestralmente al Ayuntamiento de sus gestiones.
+II.- Vigilar y atender la rama o ramas de la administración municipal que les haya sido asignadas, informando mensualmente en Sesión de Cabildo sus actividades;
 
 III.- Desempeñar personalmente, o formar parte de las comisiones que les encomienden el Ayuntamiento o el Presidente Municipal, informando de sus gestiones a quien corresponda;
 
@@ -1257,7 +1263,7 @@ La cuenta pública anual de cada municipio se formará, rendirá y aprobará con
 
 ###### Artículo 109.
 
-La cuenta pública mensual de cada municipio se remitirá a la Contaduría Mayor de Hacienda del Congreso dentro de los primero diez días del mes siguiente para su revisión.
+(DEROGADO, P.O. 9 DE AGOSTO DE 2000)
 
 ###### Artículo 110.
 
@@ -2030,3 +2036,9 @@ PRIMERO.- El presente Decreto entrará el día de su publicación en el Periódi
 SEGUNDO.- Por esta única vez, los auxiliares, intendentes y ayudantes municipales, prolongarán sus funciones hasta el 31 del mes de enero del año 2001.
 
 TERCERO.- Remítase el presente decreto, al Titular del Poder Ejecutivo Estatal, para los efectos correspondientes.
+
+P.O. 9 DE AGOSTO DE 2000.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo, a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
