@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2003-04-28"
+last_updated: "2003-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -535,19 +535,19 @@ Toda iniciativa, pasará, sin otro trámite que su lectura, a la Comisión respe
 
 En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2003)</small>
 
 ###### Artículo 32.
 
-Aprobada una iniciativa de Ley o Decreto por el Congreso del Estado, pasará al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
+Aprobada una iniciativa de Ley o Decreto por el Congreso del Estado, pasará al Ejecutivo, quien, si no tuviere observaciones qué hacer o transcurrido el plazo sin haberlas hecho, lo publicará dentro de los diez días hábiles siguientes. En caso contrario, el Congreso del Estado ordenará su publicación.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1995)</small>
 
 Se reputará sancionada por el Poder Ejecutivo toda Ley o Decreto no devuelto con observaciones al Congreso del Estado, dentro de los siguientes veinte días hábiles en que se recibió; a no ser que corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2003)</small>
 
-La iniciativa de Ley o Decreto vetada total o parcialmente por el Ejecutivo, será devuelta con sus observaciones al Congreso del Estado, quien deberá discutirlo de nuevo y si fuere confirmado por el voto de las dos terceras partes del número total de los Diputados, la iniciativa será Ley o Decreto y volverá al Ejecutivo para su publicación.
+La iniciativa de Ley o Decreto vetada total o parcialmente por el Ejecutivo, será devuelta con sus observaciones al Congreso del Estado, quien deberá discutirlo de nuevo y si fuere confirmado o aceptadas las observaciones por el voto de las dos terceras partes del número total de los Diputados, la iniciativa será Ley o Decreto y volverá al Ejecutivo para su publicación dentro de los diez días hábiles siguientes al de su recepción; de no hacerlo, el Congreso del Estado ordenará su publicación.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1132,6 +1132,10 @@ III.- Responsabilidades, sanciones y recomendaciones administrativas.
 Podrán ser sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Regidores y Síndicos de los Ayuntamientos.
 
 El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos el Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2003)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -1830,3 +1834,23 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE ABRIL DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2003.
+
+DECRETO NÚMERO 99, QUE MODIFICA EL NOMBRE DEL CAPITULO XVI Y ADICIONA EL ARTICULO 73 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+PRIMERO.- El presente Decreto entrará en vigor el 31 de diciembre del 2003.
+
+SEGUNDO.- El Estado y los Municipios contarán con el período comprendido entre la publicación del presente Decreto y su entrada en vigor, para proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
+
+La aprobación de la reforma constitucional implicará necesariamente la adecuación a las disposiciones jurídicas secundarias estatales, conforme a los criterios siguientes:
+
+a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización; y
+
+b) El pago de la indemnización estará sujeto a la disponibilidad presupuestal.
+
+P.O. 21 DE JULIO DE 2003.
+
+DECRETO NÚMERO 101 QUE REFORMA LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+UNICO.- El presente Decreto entrará en vigencia el día primero de enero del año 2004.
