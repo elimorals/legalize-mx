@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2001-01-05"
+last_updated: "2002-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2002.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -1216,7 +1216,9 @@ V.- Promover investigaciones químicas, biológicas, sociales y económicas, enc
 
 VI.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo;
 
-VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos. Tratándose de las harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de éstas, indicándose los nutrientes y las cantidades que deberán incluirse;
 
 VIII.- Proporcionar a la Secretaría de Comercio y Fomento Industrial los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
 
@@ -1500,7 +1502,7 @@ VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Sa
 
 ###### ARTICULO 140.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de las acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas que dicte la Secretaría de Salud.
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas que dicte la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1844,7 +1846,7 @@ V.- Las demás que determine la propia Secretaría.
 
 ###### ARTICULO 184 Bis.
 
-Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones que regula el presente Título, así como proponer y evaluar los programas a que se refieren los artículos 185, 188 y 191 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de la entidades federativas a asistir a las sesiones del Consejo.
+Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones que regula el presente Título, así como proponer y evaluar los programas a que se refieren los artículos 185, 188 y 191 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
 
 La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
 
@@ -1950,9 +1952,7 @@ El ejercicio del control sanitario será aplicable al:
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-l.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas,
-
-productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
+l.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3372,7 +3372,9 @@ II.- Permiso sanitario expedido por la Secretaría de Salud, autorizando la impo
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-¬ARTICULO 292.-¬ La Secretaría de Salud autorizará la exportación de estupefacientes, substancias psicotrópicas, productos o preparados que los contengan, cuando no haya inconveniente para ello y se satisfagan los requisitos siguientes:
+###### ARTICULO 292.
+
+La Secretaría de Salud autorizará la exportación de estupefacientes, substancias psicotrópicas, productos o preparados que los contengan, cuando no haya inconveniente para ello y se satisfagan los requisitos siguientes:
 
 I.- Que los interesados presenten el permiso sanitario de importación expedido por la autoridad competente del país a que se destinen, invariablemente tratándose de estupefacientes y cuando así proceda respecto de substancias psicotrópicas, y
 
@@ -3381,16 +3383,6 @@ II.- Que la aduana por donde se pretenda exportarlos sea de las señaladas confo
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 La Secretaría de Salud enviará copia del permiso sanitario que expida, fechado y numerado, al puerto de salida autorizado.
-
-###### ARTICULO 292.
-
-La Secretaría de Salubridad y Asistencia autorizará la exportación de estupefacientes, substancias psicotrópicas, productos o preparados que los contengan, cuando no haya inconveniente para ello y se satisfagan los requisitos siguientes:
-
-I.- Que los interesados presenten el permiso sanitario de importación expedido por la autoridad competente del país a que se destinen, invariablemente tratándose de estupefacientes y cuando así proceda respecto de substancias psicotrópicas, y
-
-II.- Que la aduana por donde se pretenda exportarlos sea de las señaladas conforme al artículo 289 de esta Ley.
-
-La Secretaría de Salubridad y Asistencia enviará copia del permiso sanitario que expida, fechado y numerado, al puerto de salida autorizado.
 
 ###### ARTICULO 293.
 
@@ -5165,3 +5157,7 @@ D.O.F. 5 DE ENERO DE 2001.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
