@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-prevenir-y-sancionar-la-tortura-16"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1991-12-27"
-last_updated: "1992-07-02"
+last_updated: "1994-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-12-16"
 
 LEY FEDERAL PARA PREVENIR Y SANCIONAR LA TORTURA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 27 de diciembre de 1991.
 
@@ -109,7 +109,9 @@ VII.- Menoscabo de la reputación.
 
 Para fijar los montos correspondientes, el juez tomará en cuenta la magnitud del daño causado.
 
-En los términos de la fracción VI del artículo 32 del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, el Estado estará obligado subsidiariamente a la reparación del daño.
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+El Estado estará obligado a la reparación de los daños y perjuicios, en los términos de los artículos 1927 y 1928 del Código Civil.
 
 ###### ARTICULO 11o.
 
@@ -134,3 +136,11 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 2 DE JULIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
