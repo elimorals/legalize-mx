@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2002-05-23"
+last_updated: "2003-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -97,6 +97,10 @@ X.- de Antigüedad en el Servicio Público.
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 1980)</small>
 
 XI.- De Administración Pública.
+
+> <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+XI Bis.- Al Mérito Forestal.
 
 La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un sólo concepto si éste no se divide en campos.
 
@@ -590,9 +594,33 @@ En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 3
 
 El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
 
-### CAPITULO XV. Estímulos y Recompensas
+### CAPITULO XV BIS (SIC). Premio Nacional al Mérito Forestal
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91
+
+A (sic).- El Premio Nacional al Mérito Forestal será entregado a las personas físicas y morales de los sectores privado y social que realicen o hayan realizado acciones en el país a favor de la conservación, protección, restauración y uso sustentable de los recursos forestales, que representen beneficios a la sociedad.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91
+
+B (sic).- Este premio se tramitará en la Comisión Nacional Forestal, por conducto del Consejo de Premiación, que presidirá el titular de la Secretaría de Medio Ambiente y Recursos Naturales y que lo integrará junto con representantes de las Secretarías de la Defensa Nacional; de Hacienda y Crédito Público; de Desarrollo Social; de Economía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de la Reforma Agraria; de Turismo, de la Comisión Nacional Forestal, de la Comisión Nacional del Agua, así como un representante por cada una de las Cámaras del H. Congreso de la Unión.
+
+En todo caso formarán parte del Jurado representantes del sector social, del sector privado y de organismos no gubernamentales que formen parte del Consejo Nacional Forestal a invitación del titular de la Comisión Nacional Forestal.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91
+
+C (sic).- En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 38; pero la Comisión Nacional Forestal deberá constituirse en el promotor de candidaturas, exhortando el envío de proposiciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+
+###### ARTICULO 91
+
+D (sic).- El premio consistirá en diploma y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
 
 ###### ARTICULO 82.
 
@@ -614,7 +642,9 @@ Se conceden facultades al Jurado para que, atendiendo proposiciones del Consejo 
 
 Según lo acuerde el Presidente de la República, a proposición del Consejo de Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 72, o en ceremonias parciales y aun en los lugares en que hayan tenido lugar los hechos que originaron los actos premiados.
 
-### CAPITULO XVI. Disposiciones Generales
+### CAPITULO XV. Estímulos y Recompensas
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 87.
 
@@ -645,6 +675,8 @@ Cada Consejo de Premiación determinará los nombres de las medallas de las resp
 Los trabajadores y funcionarios que se consideren con derecho a este premio, podrán hacerlo valer por sí mismos o por conducto de su representación sindical o personal, ante el Consejo. En lo conducente, es aplicable el artículo 72 de la presente Ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 1980)</small>
+
+### CAPITULO XVI. Disposiciones Generales
 
 ###### ARTICULO 91-A.
 
@@ -679,6 +711,10 @@ Si falleciere la persona a quien se debe otorgar el Premio Nacional de Administr
 ###### ARTICULO 91-E.
 
 La Coordinación General de Estudios Administrativos de la Presidencia de la República tendrá bajo su custodia el libro de honor en el que se asentarán anualmente los nombres de los servidores públicos que hayan obtenido el Premio Nacional de Administración Pública.
+
+> <small>N. DE E. LA NOMENCLATURA DEL CAPITULO Y LA SECUENCIA DEL ARTICULADO POR OMISION DEL LEGISLADOR ES INCORRECTA.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 92.
 
@@ -823,3 +859,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 23 DE MAYO DE 2002.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE FEBRERO DE 2003.
+
+ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
