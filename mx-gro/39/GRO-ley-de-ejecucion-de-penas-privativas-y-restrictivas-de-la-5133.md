@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-la-5133"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-29"
-last_updated: "1988-01-29"
+last_updated: "1991-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 29 de enero de 1988.
 
@@ -108,6 +108,16 @@ I.- De ingreso, observación, custodia preventiva, ejecución de penas e institu
 II.- De mujeres que compurgarán sus penas en lugares distintos a los de los hombres, como lo establece el artículo 18 Párrafo Segundo de la Constitución General de la República.
 
 III.- De inimputables, separados del resto de la población aplicando lo dispuesto en la fracción III del artículo 5o. de la presente Ley y 29 del Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1991)</small>
+
+ARTICULO 6o BIS.- La Secretaría General de Gobierno, por conducto de la Dirección General de Readaptación Social, establecerá por Acuerdo publicado en el Periódico Oficial, los Centros de Readaptación Social del Sistema Estatal conforme a criterios de regionalización, para no vulnerar la integridad de la familia y facilitar la defensa en los debidos procesos penales.
+
+En todo caso, habrá Centros en la Capital Política para la Región Centro y la baja Montaña; en Acapulco para las Costas; en Iguala para la Región Norte y Tierra Caliente; y Tlapa para la Montaña.
+
+Esta Secretaría, también por conducto de la Dirección General de Readaptación Social, determinará los Centros en los que habrá instalaciones para internos de alta peligrosidad, mismos que se ajustarán a criterios técnicos y acordes con la dignidad humana. A esas instalaciones podrán trasladarse los internos de otros Centros.
+
+Además, cuando la salud de los internos lo haga necesario, se trasladarán éstos a aquellos Centros que dispongan del equipamiento y servicios médicos idóneos para su debida atención.
 
 ###### ARTICULO 7o.
 
@@ -974,3 +984,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE MARZO DE 1991.
+
+UNICO.- El presente Decreto de Reformas y Adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
