@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2002-12-09"
+last_updated: "2003-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE FEBRERO DE 2003 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2002.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 14 DE FEBRERO DE 2003.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -1597,7 +1597,7 @@ VIII PROYECCION.- Ocurre cuando un vehículo en movimiento choca con o pasa sobr
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-IX ATROPELLO.- Ocurre cuando un vehículo en movimiento impacta con una (s) persona (s). La (s) persona (s) puede (n) estar estática (s) o en movimiento ya sea caminando, corriendo o montando en patines, patinetas, o cualquier juguete similar, o trasladándose asistiéndose de aparatos o de vehículos no regulados por este reglamento esto en el caso de las personas con capacidad diferenciada;
+IX ATROPELLO.- Ocurre cuando un vehículo en movimiento impacta con una (s) persona (s). La (s) persona (s) puede (n) estar estática (s) o en movimiento ya sea caminando, corriendo o montando en patines, patinetas o cualquier juguete similar, o trasladándose asistiéndose de aparatos o de vehículos no regulados por este reglamento esto en el caso de las personas con capacidad diferenciada;
 
 X CAIDA DE PERSONA.- Ocurre cuando una (s) persona (s) cae (n) hacia fuera o dentro de un vehículo en movimiento;
 
@@ -2085,8 +2085,6 @@ X Estacionarse en lugares exclusivos de personas con capacidad diferenciada
 
 Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación faltante, así como el comprobante de pago del trámite efectuado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE FEBRERO DE 2003 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 137.
@@ -2107,9 +2105,9 @@ V Motivación y fundamentación;
 
 VI Nombre, número oficial y firma del Oficial de Tránsito que levante el acta de infracción y en su caso número económico de la grúa y patrulla.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002) (F. DE E., 14 DE FEBRERO DE 2003)
 
-Para los supuestos mencionados en el Artículo 123, Fracciones VII y VIII del presente ordenamiento, las infracciones se harán constar en actas sobre formas impresas y foliadas, en la forma tradicional con block de infracciones o mediante métodos electrónicos, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
+Para los supuestos mencionados en el Artículo 123, las infracciones se harán constar en actas sobre formas impresas y foliadas, en la forma tradicional con block de infracciones o mediante métodos electrónicos, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
 
 I Placa de matrícula del vehículo, el uso a que está dedicado y entidad o país en que se expidió;
 
