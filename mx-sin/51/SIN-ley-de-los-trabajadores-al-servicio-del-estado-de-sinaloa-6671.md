@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-del-estado-de-sinaloa-6671"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "1986-04-04"
+last_updated: "1986-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de abril de 1986.
 
@@ -797,9 +797,15 @@ Los trabajadores al servicio de las entidades públicas, o sus beneficiarios en 
 
 Para el otorgamiento de los derechos de jubilación y de las pensiones a que se refiere el artículo anterior, se estará a lo dispuesto en la presente ley y en los convenios que se celebren entre las entidades públicas y el Sindicato.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1986)</small>
+
 ###### ARTICULO 94.
 
-Tienen derecho a la jubilación, los trabajadores con treinta o más años de servicio cualquiera que sea su edad. La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del salario que estén devengando, salvo que sea inferior al que corresponda a la categoría de Auxiliar Técnico, en cuyo caso se tomará como base esta percepción.
+Tienen derecho a la jubilación, los trabajadores con treinta o más años de servicio cualquiera que sea su edad. Las mujeres trabajadoras gozarán de este beneficio al cumplir veinticinco años o más de servicio.
+
+La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del salario que estén devengando, salvo que sea inferior al que corresponda a la categoría de Auxiliar Técnico, en cuyo caso, se tomará como base esta percepción.
+
+El trabajador jubilado recibirá los incrementos salariales y prestaciones económicas en los mismos términos que los reciban los trabajadores en activo, de acuerdo con su plaza y categoría.
 
 ###### ARTICULO 95.
 
@@ -1291,7 +1297,7 @@ Las correcciones disciplinarias que indistintamente pueden imponerse son:
 
 I.- Amonestación;
 
-II.- Multa que no podrá exceder de siete veces el salario mínimo general vigente; y,
+II.- Multa que no podrá exceder de siete veces el salario mínimo general vigente; y
 
 III.- Expulsión del local del Tribunal, con auxilio de la fuerza pública en caso de que sea necesario.
 
@@ -1730,3 +1736,11 @@ ANTONIO TOLEDO CORRO.
 El Secretario de Gobierno
 
 LIC. ELEUTERIO RIOS ESPINOZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
