@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1985-01-14"
+last_updated: "1986-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -162,7 +162,7 @@ Las leyes mercantiles, los usos mercantiles imperantes entre las organizaciones 
 
 ###### ARTICULO 11.
 
-¬ Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación de bienes o mercancías y la expedición de certificados de depósito y bonos de prenda. También podrán realizar la transformación de las mercancías depositadas a fin de aumentar el valor de éstas, sin variar esencialmente su naturaleza. Sólo los almacenes generales de depósito estarán facultados para expedir certificados de depósito y bonos de prenda.
+Los almacenes generales de depósito tendrán por objeto el almacenamiento, guarda o conservación de bienes o mercancías y la expedición de certificados de depósito y bonos de prenda. También podrán realizar la transformación de las mercancías depositadas a fin de aumentar el valor de éstas, sin variar esencialmente su naturaleza. Sólo los almacenes generales de depósito estarán facultados para expedir certificados de depósito y bonos de prenda.
 
 Los certificados sólo podrán expedirse sin bono de prenda, cuando se emitan como no negociables a solicitud del depositante. La expedición de dichos bonos deberá hacerse simultáneamente a la de los certificados respectivos.
 
@@ -682,7 +682,7 @@ Las organizaciones auxiliares del crédito, sólo podrán redescontar su cartera
 
 Todo acto o contrato que signifique variación en el activo o en el pasivo de una organización auxiliar del crédito, o implique obligación inmediata o contingente, deberá ser registrado en la contabilidad. La contabilidad, los libros y documentos correspondientes y el plazo que deban ser conservados se regirán por las disposiciones de carácter general que emita al efecto la Comisión Nacional Bancaria y de Seguros.
 
-Las organizaciones auxiliares del crédito podrán microfilmar todos aquellos libros, registros y documentos en general que obren en su poder relacionados con los actos de su empresa y que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria y de Seguros, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma
+Las organizaciones auxiliares del crédito podrán microfilmar todos aquellos libros, registros y documentos en general que obren en su poder relacionados con los actos de su empresa y que mediante disposiciones de carácter general señale la Comisión Nacional Bancaria y de Seguros, de acuerdo a las bases técnicas que para la microfilmación, su manejo y conservación establezca la misma.
 
 Los negativos originales de cámara obtenidos de acuerdo a lo señalado por el párrafo anterior, tendrán en juicio el mismo valor probatorio que los libros, registros y documentos microfilmados.
 
@@ -727,6 +727,8 @@ Sin perjuicio de las normas establecidas en este artículo, la Comisión Naciona
 Cuando de los estados de situación mensual que las organizaciones están obligadas a presentar a la Comisión Nacional Bancaria y de Seguros, resulte que aquéllas no guardan las proporciones prescritas en esta Ley, no incurrirán en responsabilidad, cuando la divergencia no exceda de un 4% de dichas proporciones, y siempre que acrediten, además, con sus estados y apuntes de contabilidad, a satisfacción de la propia Comisión, que la infracción tiene carácter excepcional.
 
 ### CAPITULO UNICO. De la Compra Venta Habitual y Profesional de Divisas
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 56.
 
@@ -840,7 +842,7 @@ En el caso de las organizaciones auxiliares nacionales del crédito, sin perjuic
 
 ###### ARTICULO 73.
 
-La Comisión Nacional Bancaria y de Seguros, mediante reglas de carácter general, determinará la documentación e información que las organizaciones auxiliares del crédito deberán recabar para el otorgamiento y durante la vigencia de los contratos de arrendamiento financiero, de créditos o préstamos de cualquier naturaleza, con o sin garantía real, así como los requisitos que dicha documentación deba reunir y la periodicidad con que deberá obtenerse.
+La Comisión Nacional Bancaria y de Seguros. mediante reglas de carácter general, determinará la documentación e información que las organizaciones auxiliares del crédito deberán recabar para el otorgamiento y durante la vigencia de los contratos de arrendamiento financiero, de créditos o préstamos de cualquier naturaleza, con o sin garantía real, así como los requisitos que dicha documentación deba reunir y la periodicidad con que deberá obtenerse.
 
 ###### ARTICULO 74.
 
@@ -854,7 +856,7 @@ Las resoluciones de remoción o suspensión a que se refiere el artículo anteri
 
 ###### ARTICULO 76.
 
-La documentación que utilicen las organizaciones auxiliares del crédito relacionada con la solicitud y contratación de sus operaciones, sólo podrá ponerse en uso cuando los modelos correspondientes hayan sido previamente aprobados por la Comisión Nacional Bancaria y de Seguros y de tanto respecto de su contenido, cuanto de los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados .
+La documentación que utilicen las organizaciones auxiliares del crédito relacionada con la solicitud y contratación de sus operaciones, sólo podrá ponerse en uso cuando los modelos correspondientes hayan sido previamente aprobados por la Comisión Nacional Bancaria y de Seguros, tanto respecto de su contenido, cuanto de los requisitos tipográficos para considerar fácilmente legibles los caracteres empleados .
 
 Para cualquier modificación de la documentación de que se trata, deberá obtenerse la aprobación que exige el párrafo anterior.
 
@@ -865,6 +867,8 @@ Igualmente, estarán obligadas a incluir las cláusulas invariables o esenciales
 La Secretaría de Hacienda y Crédito Público fijará, en su caso, los cargos que las organizaciones auxiliares del crédito puedan hacer al público por los servicios que proporcionen, oyendo a la Comisión Nacional Bancaria y de Seguros y al Banco de México.
 
 ### CAPITULO II. De los Delitos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 78.
 
@@ -914,9 +918,11 @@ Mientras las organizaciones auxiliares del crédito no sean puestas en liquidaci
 
 ###### ARTICULO 81.
 
-Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional operaciones de compra, venta y cambio de divisas dentro del territorio de la República Mexicana.
+Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, para realizar en forma habitual y profesional, operaciones de intermediación o con el público de compra, venta y cambio de divisas dentro del territorio de la República Mexicana.
 
-Estas autorizaciones podrán ser otorgadas o denegadas discrecionalmente por la propia Secretaría, oyendo la opinión del Banco de México tomando en cuenta las condiciones y la política monetaria y cambiaria imperante en el país, a fin de no extender más autorizaciones que las requeridas para satisfacer las demandas del público, a las sociedades anónimas que cumplan los requisitos a que se refiere el artículo 82 de esta Ley.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+Estas autorizaciones serán otorgadas o denegadas discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Seguros.
 
 Dichas autorizaciones serán por su propia naturaleza intransmisibles.
 
@@ -924,13 +930,29 @@ Las instituciones de crédito y las casas de bolsa no requerirán de la autoriza
 
 Para los efectos de la presente Ley, no se considera intermediación habitual y profesional, las operaciones con divisas conexas a la prestación de servicios, ni la captación de divisas por venta de bienes, que realicen establecimientos ubicados en las franjas fronterizas y zonas libres del país, y demás empresas que por sus actividades normales celebren operaciones con extranjeros.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+Cuando la Comisión Nacional Bancaria y de Seguros presuma que una persona física o moral está realizando operaciones de las reservadas para las casas de cambio, sin contar con la autorización a que se refiere este artículo, podrá nombrar un inspector y los auxiliares necesarios a fin de comprobar dicha irregularidad. En este caso el Presidente de la Comisión, con acuerdo de la Junta de Gobierno ordenará la intervención administrativa de la negociación, empresa o establecimiento de la persona de que se trate, hasta que las operaciones ilegales sean liquidadas, sin perjuicio de la clausura administrativa de los locales de dichos establecimientos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+La propia Comisión llevará a cabo las clausuras administrativas a que se refiere este artículo.
+
 ###### ARTICULO 82.
 
 Las sociedades anónimas a quienes se otorgue la autorización a que se refiere el artículo 81 de esta Ley, se denominarán casas de cambio y deberán organizarse con arreglo a la Ley General de Sociedades Mercantiles y ajustarse a los siguientes requisitos:
 
 I. Que su objeto social sea exclusivamente la realización de compra, venta y cambio de divisas, billetes y piezas metálicas nacionales o extranjeras, que no tengan curso legal en el país de emisión; piezas de plata conocidas como onzas troy y piezas metálicas conmemorativas acuñadas en forma de moneda; así como otras operaciones afines a las antes señaladas que al efecto autorice la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, oyendo la opinión del Banco de México;
 
-II. En los estatutos sociales deberá indicarse que, en la realización de su objeto, la sociedad deberá ajustarse a lo previsto con la presente Ley y a las demás disposiciones que, en su caso, resulten aplicables;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+II. En los estatutos sociales deberá indicarse que:
+
+a) En la realización de su objeto, la sociedad deberá ajustarse a lo previsto en la presente Ley y a las demás disposiciones aplicables; y
+
+> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1987)</small>
+
+b) Las acciones representativas del capital de la sociedad sólo podrán transmitirse previa aprobación de la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México;
 
 III. Que estén constituidas como sociedades mexicanas con cláusula de exclusión de extranjeros; y
 
@@ -942,25 +964,45 @@ Las solicitudes de autorización para operar casas de cambio deberán acompañar
 
 I. Proyecto de estatutos sociales de la sociedad anónima correspondiente y relación de los socios que habrán de integrarla con el capital que suscribirán, además de la documentación que estimen conveniente para avalar su solicitud;
 
-II. Los informes señalados en la fracción III del artículo 84 de esta Ley, relativos a la o a las personas en quienes vaya a recaer la administración de la sociedad; y
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-III. Billete de depósito en moneda nacional, igual al 10% del capital mínimo exigido para operar según señale la Secretaría de Hacienda y Crédito Público de acuerdo con esta Ley, expedido por institución de crédito que establezca la misma a favor de la propia Secretaría. Dicho depósito será reintegrado cuando se demuestre haber constituido la sociedad autorizada o cuando se niegue la solicitud correspondiente, pero se aplicará al fisco federal en caso de que no se constituya la sociedad dentro de los ciento ochenta días naturales siguientes a la fecha de la autorización.
+II.- Los informes señalados en la fracción III del artículo 84 de esta Ley, con objeto de evaluar la capacidad técnica y la solvencia moral de las personas en quienes vaya a recaer la administración de la sociedad; y
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+III.- Billete de depósito en moneda nacional, igual al diez por ciento del capital mínimo exigido para operar según señale la Secretaría de Hacienda y Crédito Público de acuerdo con esta Ley, expedido por institución de crédito que establezca la misma a favor de la propia Secretaría. Dicho depósito será reintegrado cuando se demuestre haber constituído la sociedad autorizada, cuando se niegue la autorización solicitada o cuando exista desistimiento por parte de los interesados, pero se aplicará al fisco federal en caso de que no se constituya la sociedad dentro de los seis meses siguientes a la fecha de autorización.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 84.
 
-Las casas de cambio que obtengan la autorización a que se refiere la presente Ley, deberán ajustarse a lo siguiente:
+Las casas de cambio deberán ajustarse a lo siguiente:
 
 I. Contarán con un local exclusivo para la realización de sus operaciones;
 
 II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
-III Deberán informar a la Secretaría de Hacienda y Crédito Público el nombre, nacionalidad y antecedentes sobre la capacidad técnica del o de los administradores de la sociedad, mismos que deberán representarla en sus relaciones con dicha Secretaría y demás autoridades. En caso de que los administradores fueren sustituidos, deberán informar a la propia Secretaría los datos antes citados de los nuevos administradores;
+(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986) (F. DE E., D.O.F. 19 DE MARZO DE 1987)
 
-IV. Deberán someter a la previa aprobación de la Secretaría de Hacienda y Crédito Público su escritura constitutiva y cualquier modificación a la misma, el establecimiento y cambio de ubicación del domicilio, así como el establecimiento, apertura, cambio de ubicación o clausura de sucursales de atención al público y del local donde realicen operaciones. La Dependencia citada resolverá las solicitudes que le presenten las casas de cambio, previa opinión del Banco de México; y
+III.- Deberán obtener la previa autorización de la Secretaría de Hacienda y Crédito Público, quien la otorgará o denegará oyendo la opinión del Banco de México, respecto de las designaciones de las personas que vayan a fungir como administradores de la sociedad, mismos que deberán representarlas en sus relaciones con dicha Secretaría y demás autoridades. En caso de que los administradores fueren sustituidos, deberá recabarse, asimismo, la citada autorización para los nuevos administradores.
 
-V. Sus operaciones con divisas, oro y plata, deberán ajustarse a las disposiciones de carácter general que al efecto establezca el Banco de México.
+Para efectos de lo previsto en el párrafo anterior, deberán informar a la Secretaría de Hacienda y Crédito Público el nombre, nacionalidad y antecedentes sobre la capacidad técnica y solvencia moral de los administradores.
 
-Las casas de cambio estarán obligadas a dar a conocer al propio Banco de México, sus posiciones de divisas, oro y plata, siempre que el mismo se las pida, y a transferirle, cuando así lo solicite, sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, el oro y la plata en la fecha en que el Banco de México dicte el acuerdo respectivo.
+Previamente al inicio de sus funciones, los administradores deberán garantizar su manejo mediante fianza expedida por institución concesionada, con las características que, mediante reglas de carácter general, determine el Banco de México;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+IV.- Deberán obtener la previa aprobación de la Secretaría de Hacienda y Crédito Público para su escritura constitutiva y cualquier modificación a la misma, la transmisión de acciones, el establecimiento y cambio de ubicación del domicilio, así como el establecimiento, apertura, cambio de ubicación o clausura de sucursales de atención al público y del local donde realicen operaciones. La dependencia citada resolverá las solicitudes que le presenten las casas de cambio, previa opinión del Banco de México;
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+V.- Sus operaciones con divisas, oro y plata, deberán ajustarse a las disposiciones de carácter general que al efecto establezca el Banco de México.
+
+A Petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer, sus posiciones de divisa, incluyendo oro y plata; y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+VI.- Proporcionarán a la Comisión Nacional Bancaria y de Seguros sus estados de contabilidad, información financiera y toda la relacionada con su giro, en la forma y términos que la propia Secretaría de Hacienda y Crédito Público señale mediante reglas de carácter general.
 
 ###### ARTICULO 85.
 
@@ -974,23 +1016,39 @@ Queda prohibida cualquier propaganda en territorio nacional, relacionada con la 
 
 Las casas de cambio deberán incluir en toda clase de propaganda o publicidad, la fecha y número de oficio en que conste la autorización que en los términos de esta Ley les fue otorgada para operar como tales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 87.
 
-La Secretaría de Hacienda y Crédito Público, previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización a que se refiere este capítulo en los siguientes casos:
+La Secretaría de Hacienda y Crédito Público, oyendo al Banco de México y a la Comisión Nacional Bancaria y de Seguros y previa audiencia de la sociedad interesada, podrá declarar la revocación de la autorización a que se refiere este capítulo, en los siguientes casos :
 
 I. Si la sociedad respectiva no presenta el testimonio de la escritura constitutiva a que se refiere el artículo 84, fracción IV de esta Ley para su aprobación dentro del término de cuatro meses de otorgada la autorización, o si no inicia sus operaciones dentro del plazo de tres meses a partir de la aprobación de la escritura, o si al otorgarse ésta no estuviere suscrito y pagado el capital que determine la Secretaría de Hacienda y Crédito Público al otorgar la autorización;
 
 II. Si no mantiene el capital mínimo pagado previsto en esta Ley;
 
-III. Si efectúa operaciones en contravención a lo dispuesto por esta Ley;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+III.- Si efectúa operaciones en contravención a lo dispuesto por esta Ley, a políticas dictadas en materia cambiaria por las autoridades competentes o, en general, a sanas prácticas cambiarias;
 
 IV. Si la sociedad obra sin autorización de Ia Secretaría de Hacienda y Crédito Público o la Comisión Nacional Bancaria y de Seguros, en los casos en que la Ley así lo exija;
 
 V. Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación; y
 
-VI. En cualquier otro establecido por la Ley.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
 
-La declaración de revocación se inscribirá en el Registro Público de la Propiedad y de Comercio, previa orden de la Secretaría de Hacienda y Crédito Público; incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la revocación, y pondrá en estado de liquidación a la sociedad que hubiere dado principio a sus operaciones. La liquidación se practicará de conformidad con lo establecido por la Ley General de Quiebras y de Suspensión de Pagos.
+VI.- Si la sociedad no realiza las funciones, ni lleva a cabo las operaciones para las que fue autorizada, transcurrido el plazo a que se refiere la fracción III del Artículo 83 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+VII.- Si sus administradores han intervenido en operaciones que infrinjan las disposiciones financieras y cambiarias; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+VIII.- En cualquier otro establecido por la Ley.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+La declaración de revocación se inscribirá en el Registro Público de la Propiedad y del Comercio, en la misma sección en la que conste la constitución de la sociedad, previa orden de la Secretaría de Hacienda y Crédito Público, incapacitará a la sociedad para realizar sus operaciones a partir de la fecha en que se notifique la revocación, y pondrá en estado de liquidación a la sociedad. La liquidación se practicará de conformidad con lo establecido por la Ley General de Sociedades Mercantiles o, para el caso de quiebra, por la Ley de Quiebras y de Suspensión de Pagos.
 
 ## TITULO SEXTO. De las Infracciones y Delitos
 
@@ -1040,7 +1098,7 @@ Se impondrá multa de 20 a 5000 días de salario si las disposiciones violadas d
 
 ###### ARTICULO 95.
 
-Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99 y 100 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Seguros.
+Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99, 100 y 101 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Seguros.
 
 Las multas previstas en los artículos 96, 97 y 98 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
 
@@ -1100,6 +1158,12 @@ I. Las personas que habiendo sido designadas como bodegueros habilitados en los 
 
 II. Las personas que sin causa justificada se nieguen a entregar, sustraigan, dispongan o permitan disponer de las mercancías depositadas en locales habilitados por medios distintos a los establecidos conforme al contrato respectivo o a los usos y costumbres imperantes en el medio almacenador.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 101.
+
+Serán sancionadas con pena de prisión de uno a tres años, las personas que lleven a cabo operaciones de las reservadas para las casas de cambio, sin contar con las autorizaciones a que se refiere el artículo 81 de esta ley.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1123,3 +1187,9 @@ SEPTIMO.- Las referencias que en otras leyes o disposiciones jurídicas se hagan
 México, D. F., a 20 de diciembre de 1984.- Enrique Soto Izquierdo, D. P.- Celso Humberto Delgado Ramírez, S. P.- Arturo Contreras Cuevas, D. S.- Rafael Armando Herrera Morales, S. S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 1986
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su pubicación (sic) en el Diario Oficial de la Federación.
