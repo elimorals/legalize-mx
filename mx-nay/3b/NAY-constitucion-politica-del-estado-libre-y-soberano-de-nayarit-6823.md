@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1945-12-26"
+last_updated: "1947-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1947.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -165,17 +165,19 @@ Son nayaritas los que nazcan en Territorio del Estado, sea cual fuere la naciona
 
 Son ciudadanos nayaritas, los vecinos del Estado que reúnan los requisitos que señala el Artículo 34º de la Constitución Política del País.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1947)</small>
 
 ###### Art. 17.
 
-Son derechos del ciudadano nayarita:
+Son derechos del ciudadano Nayarita:
 
 I. Votar y poder ser votado en las elecciones populares del Estado siempre que esté en el ejercicio de sus derechos cívicos y no sea ministro de algún culto religioso.
 
-II. Asociarse para tratar los asuntos políticos del Estado y las demás prerrogativas consignadas en el Artículo 35o de la Constitución Federal.
+II. Asociarse para tratar los asuntos políticos del Estado y las demás prerrogativas consignadas en el artículo 35 de la Constitución Federal.
 
 III. Los nayaritas serán preferidos a los que no lo sean, en igualdad de circunstancias.
+
+En las elecciones municipales participarán las mujeres en igualdad de condición que los varones, con el derecho de votar y ser votadas.
 
 ###### Art. 18.
 
@@ -1061,17 +1063,21 @@ Los Ayuntamientos mandarán al Congreso todas sus cuentas a más tardar treinta 
 
 El Presidente Municipal tres días antes de cesar, rendirá ante el Ayuntamiento un informe de todas las labores que dicha Corporación hubiere llevado a cabo en su periodo, y a este informe se le dará la publicidad debida.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1947)</small>
+
 ###### Art. 112.
 
 Para ser miembro del Ayuntamiento se requiere:
 
-I. Ser ciudadano del Estado, en el ejercicio de sus derechos;
+I. Ser ciudadano del Estado, en ejercicio de sus derechos;
 
 II. Vecino del Municipio donde se hace la elección;
 
 III. No pertenecer al Ejército permanente ni tener mando de fuerzas en el Municipio.
 
-VI (sic). No tener impedimento legal alguno.
+IV. No tener impedimento legal alguno.
+
+Las mujeres mayores de 21 años o de 18 que fueren casadas, podrán formar parte de los Ayuntamientos si resultaren electas en los términos de la Ley respectiva.
 
 ###### Art. 113.
 
@@ -1422,3 +1428,7 @@ UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en 
 P.O. 26 DE DICIEMBRE DE 1945
 
 UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil novecientos cuarenta y seis.
+
+P.O. 20 DE AGOSTO DE 1947
+
+UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
