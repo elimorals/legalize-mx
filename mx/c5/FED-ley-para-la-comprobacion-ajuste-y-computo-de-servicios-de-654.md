@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-654"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-24"
-last_updated: "1997-12-26"
+last_updated: "2004-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LCACSAM"
 
 LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO UNICO TRANSITORIO DE LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS DE LA ARMADA DE MEXICO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 15 DE JUNIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el lunes 24 de diciembre de 1984.
 
@@ -267,3 +269,9 @@ D.O.F. 26 DE DICIEMBRE DE 1997.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las deducciones en el tiempo de servicio y antigüedad que se encuentren en trámite, se harán de conformidad con el artículo 22, fracción II, de la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México, vigente con anterioridad a la entrada en vigor del presente Decreto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 15 DE JUNIO DE 2004.
+
+ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997.
