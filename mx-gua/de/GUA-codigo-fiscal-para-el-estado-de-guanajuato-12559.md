@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "2001-11-02"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -161,37 +161,39 @@ Son participaciones las cantidades que el Gobierno del Estado tiene derecho a pe
 
 #### SECCION PRIMERA. Autoridades Fiscales del Estado
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
-Son Autoridades Fiscales del Estado, para los efectos de este Código y demás disposiciones vigentes, las siguientes:
+Son autoridades fiscales del Estado, para los efectos de este Código y demás disposiciones vigentes, las siguientes:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Planeación y Finanzas;
+II.- El Secretario de Finanzas y Administración;
 
-III.- El Sub-Secretario de Planeación y Finanzas;
+III.- El Subsecretario de Finanzas;
 
-IV.- El Sub-Secretario de Administración;
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2002)</small>
 
-V.- El Procurador Fiscal del Estado;
+IV.- El Procurador Fiscal del Estado;
 
-VI.- El Director General de Ingresos;
+V.- El Director General de Ingresos;
 
-VII.- El Director General de Auditoría Fiscal;
+VI.- El Director General de Auditoría Fiscal;
 
-VIII.- El Director de lo Contencioso;
+VII.- El Director de lo Contencioso;
 
-IX.- El Director de Consultoría y Procedimientos Administrativos;
+VIII.- El Director de Consultoría y Procedimientos Administrativos;
 
-X.- El Director de Servicios al Contribuyente;
+IX.- El Director de Servicios al Contribuyente;
 
-XI.- El Director Técnico de Ingresos;
+X.- El Director Técnico de Ingresos;
 
-XII.- El Director de Catastro e Impuestos a la Propiedad Raíz;
+XI.- El Director de Catastro;
 
-XIII.- El Director de Recaudación;
+XII.- El Director de Recaudación;
+
+XIII.- El Director de Ejecución;
 
 XIV.- El Director Regional de Auditoría Fiscal "A";
 
@@ -199,11 +201,15 @@ XV.- El Director Regional de Auditoría Fiscal "B";
 
 XVI.- EL Director Regional de Auditoría Fiscal "C";
 
-XVII.- El Director de Supervisión y Procedimientos de Auditoría;
+XVII.- El Director de Programación y Seguimiento;
 
-XVIII.- Los Jefes de Oficinas Recaudadoras del Estado; y
+> <small>(F. DE E., P.O. 18 DE ENERO DE 2002)</small>
 
-XIX.- Los Auditores e Inspectores de la Secretaría de Planeación y Finanzas.
+XVIII.- El Coordinador de Procedimientos Legales de Fiscalización;
+
+XIX.- Los Jefes de Oficinas Recaudadoras del Estado; y
+
+XX.- Los Auditores e Inspectores de la Secretaría de Finanzas y Administración.
 
 #### SECCION SEGUNDA. Facultades
 
@@ -1117,7 +1123,7 @@ Una vez clausurado un local o establecimiento, la Secretaría de Administración
 
 ### CAPITULO UNICO
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO , P.O. 2 DE NOVIEMBRE DE 2001)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION PRIMERA
 
@@ -1137,7 +1143,7 @@ Una vez clausurado un local o establecimiento, la Secretaría de Administración
 
 (DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO , P.O. 2 DE NOVIEMBRE DE 2001)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION SEGUNDA
 
@@ -1169,7 +1175,7 @@ Una vez clausurado un local o establecimiento, la Secretaría de Administración
 
 (DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO , P.O. 2 DE NOVIEMBRE DE 2001)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION TERCERA
 
@@ -2160,3 +2166,7 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON EL PR
 Artículo Primero.- Este Código entrará en vigor el 1º primero de enero del 2002 dos mil dos, previa publicación, junto con su dictamen, en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Cuarto.- Se deroga el Título Séptimo del Código Fiscal para el Estado de Guanajuato.
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
