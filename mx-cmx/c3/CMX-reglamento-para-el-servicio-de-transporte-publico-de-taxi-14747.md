@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-transporte-publico-de-taxi-14747
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "1999-08-23"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14747&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1999-08-18"
 ---
 # REGLAMENTO PARA EL SERVICIO DE TRANSPORTE PUBLICO DE TAXI EN EL DISTRITO FEDERAL
 
-REGLAMENTO PARA EL SERVICIO DE TRANSPORTE PUBLICO DEL TAXI EN EL DISTRITO FEDERAL.
+REGLAMENTO PARA EL SERVICIO DE TRANSPORTE PUBLICO DEL TAXI EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2000.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de agosto de 1999.
 
@@ -66,7 +66,7 @@ X. Cromática Oficial: son los colores y señalización autorizados por la Secre
 
 XI. Instituto: El Instituto del Taxi del Distrito Federal.
 
-XII. Ley: La Ley de Transporte del Distrito Federal;
+XII. Ley: La Ley de Transporte del Distrito Federal.
 
 XIII. Modalidades del Taxi: Son las diversas formas de prestación del servicio público de Taxi, autorizadas por la Administración Pública del Distrito Federal.
 
@@ -100,7 +100,7 @@ XXVII. Taxi Turístico: Vehículo que presta el servicio público de transporte 
 
 XXVIII. Taxímetro: Dispositivo que indica el costo del viaje conforme a la tarifa autorizada, calculado de acuerdo a la distancia recorrida, tiempo de espera, demora del tránsito, cargo o banderazo inicial, número de pasajeros y otros cargos autorizados por la Administración Pública.
 
-XXVIII. (sic) Uniforme: Vestimenta que obligatoriamente debe portar el Taxi-Operador mientras conduce un vehículo de transporte individual de pasajeros.
+XXVIII. (SIC) Uniforme: Vestimenta que obligatoriamente debe portar el Taxi-Operador mientras conduce un vehículo de transporte individual de pasajeros.
 
 ###### Artículo 3°.
 
@@ -400,7 +400,7 @@ V. El cesionario deberá presentar póliza de seguro, cuya vigencia nunca deber�
 
 VI. Tanto el cedente como el cesionario deberán demostrar que la licencia de conducir de los Taxi-Operadores, es acorde con el tipo de vehículo y la modalidad del servicio de que se trate, y
 
-VII. Para el caso de ceder únicamente los derechos y obligaciones de la concesión, sin que se transmita la propiedad del o de los vehículos, el modelo de los vehículos sustitutos será obligatoriamente del mismo año del vehículo que se sustituye o de modelo más reciente, que cumpla con la normatividad vigente. En ningún caso se permitirá el tramite de sustitución de vehículos por modelos anteriores.
+VII. Para el caso de ceder únicamente los derechos y obligaciones de la concesión, sin que se transmita la propiedad del o de los vehículos, el modelo de los vehículos sustitutos será obligatoriamente del mismo año del vehículo que se sustituye o de modelo más reciente, que cumpla con la normatividad vigente. En ningún caso se permitirá el trámite de sustitución de vehículos por modelos anteriores.
 
 ###### Artículo 44.
 
@@ -418,7 +418,7 @@ Las personas físicas y morales que obtengan una concesión otorgada por el Inst
 
 ###### Artículo 47.
 
-Independientemente del archivo documental, el Instituto inscribirá ante el Registro Público de Transporte, todos los actos relacionados con la cesión, transmisión gravámen o enajenación de los derechos derivados de las concesiones así como los tramites de control vehicular y de los Taxi-Operadores afectados a las mismas, en un término no mayor a 10 días hábiles contados a partir de la fecha en que se hayan autorizado.
+Independientemente del archivo documental, el Instituto inscribirá ante el Registro Público de Transporte, todos los actos relacionados con la cesión, transmisión gravamen o enajenación de los derechos derivados de las concesiones así como los tramites de control vehicular y de los Taxi-Operadores afectados a las mismas, en un término no mayor a 10 días hábiles contados a partir de la fecha en que se hayan autorizado.
 
 En el mismo Registro deberán asentarse todos los trámites relacionados con las concesiones para la explotación del servicio público de transporte individual de pasajeros.
 
@@ -544,11 +544,11 @@ Los Concesionarios del servicio público de taxi están obligados a:
 
 I. Efectuar el servicio exclusivamente en los vehículos autorizados por el Instituto;
 
-II. Inscribirse en el Padrón Vehicular del Instituto del Taxi, conforme a lo dispuesto en este ordenamiento.
+II. Inscribirse en el Padrón Vehicular del Instituto del Taxi, conforme a lo dispuesto en este ordenamiento;
 
 III. Verificar que los Taxi-Operadores porten visible al usuario, en el cristal anterior derecho, la licencia de conducir vigente que para tal efecto expida la Secretaría;
 
-IV. Prestar el servicio a cualquier persona que lo requiera, siempre y cuando no se encuentre en alguno de los supuestos que prevé la Ley y el presente Reglamento.
+IV. Prestar el servicio a cualquier persona que lo requiera, siempre y cuando no se encuentre en alguno de los supuestos que prevé la Ley y el presente Reglamento;
 
 V. Tener siempre vigente la póliza de seguro de responsabilidad civil, que garantice como mínimo, la indemnización por muerte o lesiones, así como la reparación de daños a usuarios y terceros en su persona y patrimonio;
 
@@ -700,9 +700,11 @@ Los documentos antes citados deberán ser exhibidos por el Taxi-Operador a los v
 
 La Secretaría revisará previamente al inicio de la puesta en servicio las condiciones técnicas y de seguridad y verificará la documentación que se requiera conforme a los ordenamientos jurídicos y administrativos aplicables.
 
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 82.
 
-Independientemente de la revisión prevista en el artículo anterior, todos los vehículos afectos al servicio serán objeto de una revista vehicular anual que llevará a cabo el Instituto; los períodos y requisitos que deben cumplir los concesionarios, se publicarán en la Gaceta Oficial del Distrito Federal. Los vehículos nuevos estarán exentos de este trámite durante los primeros tres años.
+Independientemente de la revisión prevista en el artículo anterior, todos los vehículos afectos al servicio serán objeto de una revista vehicular anual que llevará a cabo el Instituto; los períodos y requisitos que deben cumplir los concesionarios se publicarán en la Gaceta Oficial del Distrito Federal. Los vehículos nuevos cuyo modelo corresponda al año de la revista vehicular, deberán realizarla el primer año y quedarán exentos de la inspección vehicular (revista), los dos años siguientes.
 
 ###### Artículo 83.
 
@@ -860,7 +862,7 @@ El incumplimiento de los Verificadores en la observancia de los principios de le
 
 ###### Artículo 109.
 
-Independientemente de los programas de verificación vehicular que lleve a cabo el Instituto, deberá efectuarse permanentemente la supervisión en la operación de las diferentes modalidades del servicio de transporte de pasajeros individual, con el propósito de que los concesionarios cumplan con las obligaciones establecidas en el titulo de la concesión.
+Independientemente de los programas de verificación vehicular que lleve a cabo el Instituto, deberá efectuarse permanentemente la supervisión en la operación de las diferentes modalidades del servicio de transporte de pasajeros individual, con el propósito de que los concesionarios cumplan con las obligaciones establecidas en el título de la concesión.
 
 ### CAPITULO XI. DE LOS TRAMITES
 
@@ -1031,3 +1033,11 @@ SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente or
 OCTAVO.- Las modificaciones que con motivo de la publicación de este Reglamento deban realizarse a los Manuales, Instructivos y demás instrumentos de carácter jurídico y/o administrativo deberán expedirse y publicarse a más tardar en los noventa días siguientes a su entrada en vigor.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de agosto de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 5 DE OCTUBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del distrito federal.
+
+SEGUNDO.- Se derogan las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
