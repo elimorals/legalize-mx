@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-lo-contencioso-34880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2003-11-18"
+last_updated: "2005-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ENERO DE 2005.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de noviembre de 2003.
 
@@ -41,6 +41,8 @@ REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE 
 
 El presente reglamento tiene por objeto regular la organización, funciones y atribuciones legales del Tribunal de lo Contencioso Administrativo del Estado de México.
 
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2005)</small>
+
 ###### Artículo 2.
 
 Para los efectos del presente reglamento se entenderá por:
@@ -55,19 +57,33 @@ IV. Convocatoria: Medio escrito que se difunda a través del cual se llama a los
 
 V. Concurso de Oposición: los exámenes en los que participan los aspirantes a ocupar una plaza vacante;
 
-VI. Diligencia: Actuación de la autoridad competente en ejercicio y mandamiento de sus atribuciones en la función jurisdiccional;
+VI. Comité Editorial: Al Comité Editorial del Tribunal;
 
-VII. Jurado: Cuerpo colegiado que evalúa los exámenes en los concursos de oposición, cuya decisión es inatacable;
+VII. Comité de Información: Al Comité de Información del Tribunal;
 
-VIII. Jurisprudencia: los criterios emitidos por el Pleno del Tribunal, que orientan la función jurisdiccional, con carácter obligatorio para las Salas Regionales y Secciones de la Sala Superior;
+VIII. Consejo de Información: Al Consejo de Información del Tribunal;
 
-IX. Órgano de Difusión: La publicación o medio por el cual se dan a conocer a la población las actividades jurídico-administrativas del Tribunal;
+IX. Diligencia: Actuación de la autoridad competente en ejercicio y mandamiento de sus atribuciones en la función jurisdiccional;
 
-X. Profesionalización: Es un proceso que consiste en formar el capital humano para el Tribunal con calidad profesional;
+X. Instituto: Al Instituto de Formación Profesional del Tribunal;
 
-XI. Servicio Social: las actividades que realizan en el Tribunal los estudiantes con el fin de aplicar los conocimientos adquiridos en las distintas carreras; y
+XI. Jurado: Cuerpo colegiado que evalúa los exámenes en los concursos de oposición, cuya decisión es inatacable;
 
-XII. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de México.
+XII. Jurisprudencia: los criterios emitidos por el Pleno del Tribunal, que orientan la función jurisdiccional, con carácter obligatorio para las Salas Regionales y Secciones de la Sala Superior;
+
+XIII. Ley: A la ley de Transparencia y Acceso a la Información Pública del Estado de México;
+
+XIV. Órgano de Difusión: La publicación o medio por el cual se dan a conocer a la población las actividades jurídico-administrativas del Tribunal;
+
+XV. Profesionalización: Es un proceso que consiste en formar el capital humano para el Tribunal con calidad profesional;
+
+XVI. Servicio Social: las actividades que realizan en el Tribunal los estudiantes con el fin de aplicar los conocimientos adquiridos en las distintas carreras; y (sic)
+
+XVII. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de México;
+
+XVIII. Unidades Administrativas: A la Presidencia, Pleno de la Sala Superior, Secciones de la Sala Superior, Salas Regionales, Instituto de Formación Profesional, Unidad de Informática, Unidad de Estudios y Proyectos, Unidad de Apoyo Administrativo, Unidad de Asesoría Comisionada, y Unidad de Documentación, Difusión e Información; y
+
+XIX. Unidad de Información: A la Unidad de Documentación, Difusión e Información del Tribunal.
 
 ###### Artículo 3.
 
@@ -171,9 +187,11 @@ Las Secciones de la Sala Superior llevarán los libros de actas, recursos de rev
 
 El Presidente del Tribunal será designado en la primera sesión del Pleno de la Sala Superior a celebrarse durante el mes de enero del año que corresponda. La sesión será conducida por el Magistrado con mayor antigüedad efectiva en la propia Sala y en caso de que los Magistrados de la Sala tengan el mismo tiempo, por el que los Magistrados designen en ese momento.
 
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2005)</small>
+
 ###### Artículo 21.
 
-Para el despacho de los asuntos de su competencia, el Presidente del Tribunal será asistido por el Secretario General del Pleno, la Secretaría Particular de la Presidencia, el Director General del Instituto de Formación Profesional, de las Unidades de Apoyo Administrativo, de Documentación y Difusión, de Estudios y Proyectos, de Asesoría Comisionada y de Informática y demás servidores públicos necesarios.
+Para el despacho de los asuntos de su competencia, el Presidente del Tribunal será asistido por el Secretario General del Pleno, la Secretaría Particular de la Presidencia, el Director General del Instituto de Formación Profesional, de las Unidades de Apoyo Administrativo, de Documentación, Difusión e Información, de Estudios y Proyectos, de Asesoría Comisionada y de Informática y demás servidores públicos necesarios.
 
 ###### Artículo 22.
 
@@ -349,6 +367,8 @@ XVIII. Asistir y participar en los eventos a los cuales sea convocado por la Dir
 
 XIX. Las demás atribuciones que le señalen las disposiciones legales y normativas.
 
+> <small>(REFORMADO, G.G. 21 DE ENERO DE 2005)</small>
+
 ###### Artículo 40.
 
 El Jefe de la Unidad de Documentación, Difusión e Información tendrá las atribuciones y deberes siguientes:
@@ -369,9 +389,23 @@ VII. Coordinar las funciones de la biblioteca y archivo central del Tribunal;
 
 VIII. Auxiliar al personal jurídico del Tribunal respecto a la información que se tiene en la biblioteca del Tribunal;
 
-IX. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y
+IX. Asistir y participar en los eventos a los cuales sea convocado por la Dirección General del Instituto de Formación Profesional; y (sic)
 
-X. Las demás atribuciones que le señalen las disposiciones legales.
+X. Publicar la información y tramitar las solicitudes que se presenten en términos de la ley;
+
+XI. Verificar si la información se encuentra clasificada como confidencial o reservada;
+
+XII. Fijar las condiciones del control de la información;
+
+XIII. Solicitar a las unidades administrativas del Tribunal la información que esté a disposición del público que se encuentre en su poder, debidamente actualizada, para el cumplimiento de sus funciones;
+
+XIV. Apoyar a los particulares, orientándolos y facilitándoles los medios para que puedan ejercer el derecho a la información;
+
+XV. Tramitar todo lo relativo para el logro de los propósitos de acceso a la información requerida por los particulares en poder del Tribunal;
+
+XVI. Recibir el medio de impugnación que se presenten en contra de las resoluciones que resuelvan negativamente las pretensiones de los particulares en materia de acceso a la información pública y remitirlo al Consejo de Información; y
+
+XVII. Las demás atribuciones que le señalen las disposiciones legales.
 
 ###### Artículo 41.
 
@@ -701,6 +735,10 @@ Los expedientes en trámite se conservarán en el archivo interno de cada Secci�
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL COMITÉ EDITORIAL
 
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
 ###### Artículo 72.
 
 El Comité Editorial, tiene por objeto dictaminar sobre el material a seleccionar para ser publicado y cuyas actividades se encaminan a elevar la calidad del contenido y forma de las ediciones que difunda el Tribunal.
@@ -721,6 +759,10 @@ III. Emitir los dictámenes necesarios sobre el material que integrará las publ
 
 IV. Las demás que se prevén en sus bases generales.
 
+#### SECCIÓN SEGUNDA. DE LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
 ###### Artículo 74.
 
 La Secretaría General de Pleno, recabará y concentrará los criterios contenidos en las sentencias de las Secciones de la Sala Superior, con la finalidad de identificar aquellos que por ser de especial interés sean susceptibles de formar jurisprudencia, en caso de reunirse tres ejecutorias no interrumpidas por otra en contrario y que hayan sido aprobadas por unanimidad o mayoría de votos.
@@ -737,7 +779,239 @@ Cuando una Sección de la Sala Superior emita una sentencia que a pesar de conte
 
 El Secretario General del Pleno, dará cuenta de manera periódica al Presidente, de los precedentes relevantes, para que se autorice su publicación. De igual manera los Magistrados de las Secciones de la Sala Superior y de las Salas Regionales, así como los integrantes del personal jurídico del Tribunal podrán proponer a la Presidencia, la publicación de las sentencias que se puedan considerar precedentes relevantes para los efectos descritos en los párrafos anteriores.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 76.
+
+El acceso a la información pública contenida en los instrumentos, documentos y demás elementos, incluso los de carácter técnico con que cuenta el Tribunal, ya sea que se generen dentro del mismo, los reciba, adquiera, transforme o conserve por cualquier concepto, se regirá por las disposiciones de la Ley y de su Reglamento.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+#### SECCIÓN TERCERA. DE LA INFORMACIÓN CONFIDENCIAL
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 77.
+
+Los órganos encargados de la transparencia y el acceso a la información pública en el Tribunal, son los siguientes:
+
+I. El Consejo de Información;
+
+II. El Comité de Información;
+
+III. La Unidad de Información; y
+
+IV. Los servidores públicos habilitados.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 78.
+
+El Consejo de Información es el órgano que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y la protección de los datos personales, equivalente al organismo previsto en el Título Quinto de la Ley y encargado de dictar resolución a los recursos que se formulen con base en ese ordenamiento.
+
+El Consejo de Información se integrará por tres miembros, que serán el Presidente del Tribunal, un Magistrado de Sala Superior y un Magistrado de Sala Regional, siendo estos dos últimos, electos por insaculación.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 79.
+
+El Comité de Información es el órgano que tendrá a su cargo clasificar y sistematizar la información, atender y resolver los requerimientos de la Unidad de Información y del Instituto de Transparencia y Acceso a la Información Pública del Estado de México, así como aplicar todo aquello que la Ley y su Reglamento le faculten.
+
+El Comité de Información será integrado por el Presidente del Tribunal, el Secretario General del Pleno y el Jefe de la Unidad de Documentación, Difusión e Información.
+
+Los integrantes del Comité de Información tendrán derecho a voz y a voto y adoptarán sus resoluciones por mayoría de votos o por unanimidad. El Presidente del Tribunal lo será del Comité de Información.
+
+Este Comité de Información sesionará en forma ordinaria cada dos meses y de manera extraordinaria cuando sea necesario.
+
+El titular de la Unidad de Información, será el Jefe de la Unidad de Documentación, Difusión e Información.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 80.
+
+Los servidores públicos habilitados, serán designados por el Presidente del Comité de Información y deberán apoyar a la Unidad de Información en lo que les solicite para el cumplimiento de sus atribuciones de acuerdo con la Ley y su Reglamento.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 81.
+
+La información pública generada, administrada o en posesión del Tribunal, en ejercicio de sus atribuciones, será accesible de manera permanente a cualquier persona, en estricto apego a las disposiciones de la Ley y su Reglamento.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 82.
+
+Los procedimientos para el acceso a la información pública que se lleven ante el Tribunal, se regirán por el principio de máxima publicidad en la información; así mismo se ajustarán a los criterios de publicidad, veracidad, oportunidad, precisión y suficiencia.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+#### SECCIÓN CUARTA. DE LA INFORMACIÓN RESERVADA
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 83.
+
+El acceso al (sic) información pública será permanente y gratuito, la expedición de documentos, grabaciones y reproducciones, se sujetará en su caso, al pago de los derechos, productos y aprovechamientos establecidos, en la legislación correspondiente.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 84.
+
+Los lineamientos contenidos en este Capítulo son de observancia obligatoria para los servidores públicos del Tribunal, que tengan bajo su resguardo la información prevista en la Ley, quienes deberán:
+
+I. Facilitar el acceso a la información pública generada por el Tribunal; y
+
+II. Resguardar la información reservada, confidencial y los datos personales que se encuentren en poder del Tribunal.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 85.
+
+La información pública que debe tener disponible el Tribunal, en medio impreso o electrónico es la siguiente:
+
+I. Leyes, reglamentos, decretos, acuerdos, convenios, manuales de organización y procedimientos y demás documentos que regulan la actuación del Tribunal;
+
+II. Informes anuales de actividades del Tribunal, así como de las auditorías que se practiquen por los órganos de control interno o externo;
+
+III. Información sobre la situación financiera del fondo auxiliar para la administración de la justicia administrativa;
+
+IV. Convocatorias, programas académicos, resultados de concursos de oposición para la carrera jurisdiccional, claustro docente y demás información generada por el Instituto;
+
+V. Registros de asuntos resueltos y en trámite, clasificados de manera global, por la Sala o Sección de la Sala Superior;
+
+VI. Publicaciones: Boletines, Memoriales, Compendios de legislación y Jurisprudencia;
+
+VII. Directorio de mandos medios y superiores y del personal jurídico y administrativo;
+
+VIII. Domicilio y dirección electrónica de la Unidad de Información, nombre del responsable y horario de atención al público;
+
+IX. Libros de control, medios y requisitos para solicitar el acceso a la información requerida;
+
+X. Información sobre el presupuesto asignado al Tribunal y partidas de aplicación;
+
+XI. Contratos, convenios, acuerdos de asignación sobre el control patrimonial y de coordinación o colaboración con instituciones públicas y privadas con fines de apoyar a la administración de justicia;
+
+XII. Inventario de bienes inmuebles adquiridos o asignados que conforman el patrimonio del Tribunal; y
+
+XIII. La demás información con el carácter de pública que se genere y deba estar a disposición de los solicitantes, una vez clasificada por el Comité de Información.
+
+El derecho de acceso a la información pública, solo será restringido cuando se trate de información clasificada como reservada o confidencial.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
+
+#### SECCIÓN QUINTA. DE LAS FORMAS Y EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 86.
+
+Además de la información que sea clasificada por el Comité de Información, como confidencial, se considerará como tal, a la siguiente:
+
+I. El contenido de los proyectos de resolución de las sentencias, así como las opiniones, criterios, recomendaciones o puntos de vista que se generen en la discusión de los asuntos;
+
+II. Los datos personales de los servidores públicos del Tribunal o de los particulares, que solo podrán ser proporcionados, mediante su consentimiento; y
+
+III. La que por disposición de la Ley, se considere confidencial.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 87.
+
+Además de la información que sea clasificada por el Comité de Información como reservada, se considerará como tal a la siguiente:
+
+I. El contenido de los expedientes hasta en tanto no hayan causado ejecutoria las sentencias definitivas o resoluciones que pongan fin al proceso;
+
+II. La que pudiera afectar el secreto comercial, industrial, bancario o fiduciario, así como cualquier otro considerado como tal, por alguna disposición legal, conforme a la legislación de la materia;
+
+III. Los datos personales que obren en expedientes judiciales por lo que hace a testigos y peritos, en un plazo de hasta nueve años;
+
+IV. Los expedientes relativos a procedimientos de responsabilidades administrativas de los servidores públicos, hasta que se dicte resolución definitiva o que haya dado por concluido el procedimiento y no exista medio de impugnación en su contra; y
+
+V. La que por disposición de Ley sea considerada reservada.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 88.
+
+En la documentación clasificada como información reservada, el Comité de Información fijará el plazo en el que permanecerá con tal carácter y una vez fenecido, será considerada como información pública.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+#### SECCIÓN SEXTA. DEL MEDIO DE IMPUGNACIÓN
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 89.
+
+El Comité de Información determinará en qué casos, la información reservada puede adquirir el carácter de pública.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 90.
+
+Los índices que el Comité de Información elabore para el control de la información reservada, contendrán:
+
+I. El órgano jurisdiccional o la unidad administrativa que generó, obtuvo o adquirió la información;
+
+II. La unidad, archivo o el órgano jurisdiccional que conserve la información;
+
+III. Identificación del tema a que se refiere;
+
+IV. La fecha o el período en que se generó la información y de su clasificación;
+
+V. El plazo de reserva; y
+
+VI. Los documentos o la parte que de estos se reserva.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
 ### CAPÍTULO DÉCIMO TERCERO. DE LA INTEGRACIÓN DE LA JURISPRUDENCIA Y DE LOS PRECEDENTES RELEVANTES
+
+###### Artículo 91.
+
+El acceso a los datos personales, solo será permitido mediante el consentimiento expreso de los particulares.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 92.
+
+. Solo podrán tener acceso a la información reservada o confidencial, el Comité de Información y los servidores públicos que autorice el Pleno de la Sala Superior del Tribunal.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+
+### CAPÍTULO DÉCIMO CUARTO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 93.
+
+Toda persona por sí misma, o a través de su representante legal, podrá en cualquier momento presentar por escrito, una solicitud de acceso a la información ante la Unidad de Información.
+
+> <small>(ADICIONADO, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 94.
+
+La solicitud de información, deberá contener lo siguiente:
+
+I. Nombre del solicitante y, en su caso, del representante legal;
+
+II. Domicilio para recibir notificaciones, en la Ciudad de Toluca;
+
+III. La descripción clara y precisa de la información que solicita;
+
+IV. Cualquier otro dato que facilite su búsqueda y propicie su localización.
+
+No se dará curso a las solicitudes que carezcan de los requisitos, establecidos en este artículo.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
+
+###### Artículo 95.
+
+Recibido un recurso de revisión, en términos de la Ley, la Unidad de Información, deberá remitirlo en un plazo de tres días hábiles al Consejo de Información del Tribunal, quien podrá subsanar las deficiencias del recurso interpuesto.
+
+Admitido el recurso, el Consejo de Información resolverá dentro de los treinta días hábiles siguientes.
+
+En contra de las resoluciones del Consejo de Información no procede recurso alguno.
 
 ## TRANSITORIOS
 
@@ -788,3 +1062,11 @@ EL SECRETARIO GENERAL DEL PLENO
 Lic. Francisco Víctor Ortiz Millán
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 21 DE ENERO DE 2005.
+
+PRIMERO.- El presente Acuerdo del Pleno de la Sala Superior del Tribunal de lo Contencioso Administrativo del Estado de México, por el que se reforma y adiciona su Reglamento Interior, entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+SEGUNDO.- Se deja sin efectos el Acuerdo del Pleno de la Sala Superior del Tribunal de lo Contencioso Administrativo del Estado de México, por el que se instituye el Comité de Información del propio Tribunal, de fecha 26 de octubre de 2004, publicado en el periódico oficial "Gaceta del Gobierno", el día 29 de octubre de 2004.
