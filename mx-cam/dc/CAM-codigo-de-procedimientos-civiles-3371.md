@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1998-07-24"
+last_updated: "1998-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,55 +21,25 @@ state: "CAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES
 
-CÓDIGO DE CONDUCTA DEL INSTITUTO TECNOLÓGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO
+CODIGO DE PROCEDIMIENTOS CIVILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1998.
 
-Código publicado en el Número 4 del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2022.
+Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
-MTRO. JUSTO JUAN MANUEL MARTÍNEZ LICONA, DIRECTOR GENERAL DEL INSTITUTO TECNOLOGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 6, FRACCIÓN I DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO; Y
+DR. HECTOR PEREZ MARTINEZ, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
-C O N S I D E R A N D O
+Que el XXXVII Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente decreto:
 
-PRIMERO. Que los complejos procesos de cambio que caracterizan el contexto social, político y económico actual, han provocado en la sociedad una profunda crisis de confianza y respeto en los servidores públicos.
+El H. XXXVII Congreso Constitucional del Estado Libre y Soberano de Campeche, decreta:
 
-SEGUNDO. Que este Código tiene como objetivo cumplir con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y la Ley General de Responsabilidades Administrativas.
+Número 44
 
-TERCERO. Que el Código de Ética de la Administración Pública del Estado de Hidalgo, tiene por objeto, definir y fortalecer los principios y valores que marquen la conducta de los servidores públicos de la Administración Pública centralizada y paraestatal del Poder Ejecutivo del Estado.
-
-Por lo anterior expuesto, he tenido a bien expedir el siguiente:
-
-ACUERDO
-
-QUE CONTIENE EL CÓDIGO DE CONDUCTA DEL INSTITUTO TECNOLÓGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO
+CODIGO DE PROCEDIMIENTOS CIVILES
 
 ## TITULO PRIMERO. De las acciones y de las excepciones
 
-### Capítulo I.
-
-De las Disposiciones Generales.
-
-1. El presente Código de Conducta, es de observancia general y obligatoria para los servidores públicos del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, las disposiciones de este Código serán observadas en cualquier lugar, situación o contexto en el que los servidores públicos ejerzan algún empleo, cargo o comisión y tendrá como objetivo, contribuir en el fortalecimiento preventivo orientado principalmente al funcionamiento de la organización y a la confianza institucional, dando certeza plena a sus servidores públicos sobre el comportamiento ético al que deben sujetarse en su quehacer cotidiano garantizando un correcto desempeño de la función pública.
-
-2. El presente Código de Conducta, es el instrumento que contiene los principios, valores y reglas de integridad considerados como fundamentales para la definición del actuar del servicio público y que busca incidir en el comportamiento y desempeño de los servidores públicos, para formar una ética e identidad profesional compartida y un sentido de orgullo de pertenencia al servicio público.
-
-3. El lenguaje empleado en este Código no busca generar ninguna distinción, ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a ambos sexos.
-
-4. Además de las definiciones previstas en el Código de Ética de la Administración Pública del Estado de Hidalgo, para efectos de este Código de Conducta se entenderá por:
-
-I. Código de Conducta: Código de Conducta del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, es el instrumento deontológico, en el que se especifica de manera puntual y concreta la forma en que los servidores públicos aplicarán los principios, valores y reglas de integridad contenidas en el Código de Ética;
-
-II. Código de Ética: Es el instrumento deontológico, al que refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, que establece los parámetros generales de valoración y actuación respecto al comportamiento al que aspira un servidor público, en el ejercicio de su empleo, cargo o comisión, a fin de promover un gobierno transparente, íntegro y cercano a la ciudadanía;
-
-III. Comité: Comité de Ética y Prevención de Conflictos de Interés del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, como órgano integrado que tiene a su cargo el fomento de la ética e integridad en el servicio público y la prevención de conflictos de interés a través de acciones de orientación, capacitación y difusión en el Instituto;
-
-IV. Instituto: Instituto Tecnológico Superior del Oriente del Estado de Hidalgo; y
-
-V. Servidores Públicos: Las personas mujeres y hombres que desempeñan un empleo, cargo o comisión en el Instituto conforme a lo dispuesto en el artículo 149 de la Constitución Política del Estado de Hidalgo.
-
-5. Misión: Proveer servicios educativos integrales, de extensión e investigación, con calidad y sentido humano a nivel profesional, para formar ciudadanos que impacten positivamente en el desarrollo social y productivo, con una perspectiva de igualdad, responsabilidad social y visión global.
-
-6. Visión: En 2030 el ITESA será un agente de cambio reconocido internacionalmente por la competitividad de sus egresados, su contribución a la investigación, transferencia tecnológica y servicios de extensión, que impacten positivamente al desarrollo sustentable del país y al logro de una sociedad igualitaria.
+### CAPITULO I. De las acciones
 
 ###### Art. 1°.
 
@@ -219,207 +189,7 @@ Todas las acciones civiles tomarán su nombre del contrato o hecho a que se refi
 
 La acción procede en juicio, aún cuando no se exprese su nombre, con tal de que se determine con claridad cuál es la clase de prestación que se exige del demandado y el título o causa de la acción.
 
-### Capitulo II.. De los Principios, Valores y Reglas de Integridad
-
-7. Principios. Son aquellos que rigen la actuación de los servidores públicos del Instituto, en el desempeño de su empleo, cargo o comisión.
-
-Los servidores públicos del Instituto en el desempeño de su empleo, cargo o comisión, deberán observar las siguientes conductas:
-
-I. Legalidad. Conocer, cumplir y respetar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, así como las demás leyes y reglamentos que regulan su empleo, cargo o comisión, debiendo actuar con estricto apego y cumplimiento de las leyes, reglamentos, acuerdos, decretos y otras disposiciones aplicables, respetando siempre el estado de derecho;
-
-II. Honradez. Conducirse con rectitud sin utilizar su empleo, cargo o comisión, para obtener o pretender obtener algún beneficio, provecho o ventaja personal, ni aceptar compensaciones, prestaciones, dádivas o regalos de cualquier persona u organización, debido a que lo anterior compromete su empleo, cargo o comisión ya que el ejercicio del servicio público implica un alto sentido de austeridad y vocación de servicio;
-
-III. Lealtad. Comprometerse plenamente con el Instituto, asumiendo las responsabilidades inherentes a su empleo, cargo o comisión, demostrando respeto y compromiso a los principios, valores y reglas de integridad;
-
-IV. Imparcialidad. Ejercer su empleo, cargo o comisión de manera objetiva y sin prejuicios, proporcionando un trato igualitario a las personas con quien interactúe, sin que existan distinciones, preferencias personales, económicas, afectivas, políticas, ideológicas, culturales y demás factores que generen influencia, ventajas o privilegios indebidos, manteniéndose siempre ajeno a todo interés particular;
-
-V. Eficiencia. Alcanzar los objetivos propuestos con enfoque hacia resultados, empleando el mínimo de recursos y tiempos que tengan asignados para cumplir con su empleo, cargo o comisión, desempeñando sus actividades con excelencia y calidad, en apego a los planes y programas previamente establecidos;
-
-VI. Economía. Utilizar los recursos materiales, humanos y financieros para los fines a los que están destinados, apegándose a la normatividad establecida con la finalidad de dar cumplimiento a la función sustantiva del Instituto;
-
-VII. Disciplina. Desempeñar su empleo, cargo o comisión con esmero, dedicación y profesionalismo, asumiendo plenamente las consecuencias que resulten de sus actos u omisiones, de manera que genere certeza y confianza;
-
-VIII. Profesionalismo. Desarrollar su empleo, cargo o comisión, con un total compromiso, mesura y responsabilidad, acorde a su formación;
-
-IX. Objetividad. Desempeñar su empleo, cargo o comisión tomando decisiones sin que influyan prejuicios personales, sociales o culturales, evitando la influencia indebida de otras personas.; (sic)
-
-X. Transparencia. Vigilar y garantizar el derecho fundamental de toda persona al acceso de la información pública y a la rendición de cuentas de forma clara, oportuna y veraz, de acuerdo al marco normativo aplicable;
-
-XI. Rendición de Cuentas. Asumir plenamente la responsabilidad de desempeñar sus funciones de forma adecuada, sujetándose a la evaluación de la propia sociedad, lo cual conlleva a que realice sus funciones con eficacia y calidad, así como a contar permanentemente con la disposición para desarrollar procesos de mejora continua, modernización y de optimización de recursos;
-
-XII. Eficacia. Desempeñar su empleo, cargo o comisión para garantizar el cumplimiento de los objetivos, fines y metas propuestas por el Instituto;
-
-XIII. Integridad. Anteponer el bien común por encima de intereses personales o particulares; y
-
-XIV. Equidad. Fomentar la participación en igualdad de circunstancias entre hombres y mujeres, en las actividades inherentes a su empleo, cargo o comisión, facultades y atribuciones con la finalidad de combatir costumbres y prácticas discriminatorias entre los servidores públicos.
-
-8. Valores. Son cualidades o conjuntos de atributos por los que una persona es apreciada o bien considerada en el servicio público.
-
-Los servidores públicos del Instituto en el desempeño de su empleo, cargo o comisión, deberán observar las siguientes conductas:
-
-I. Cooperación. Aportar lo mejor de sus capacidades, uniendo esfuerzos con sus compañeros de trabajo;
-
-II. Entorno Cultural y Ecológico. Promover entre los compañeros del Instituto, actividades que generen una cultura de respeto, defensa y preservación de la cultura y el medio ambiente;
-
-III. Equidad de Género. Contribuir a que las mujeres y hombres tengan el mismo reconocimiento, goce o ejercicio de los derechos y beneficios sociales;
-
-IV. Igualdad y no Discriminación. Trabajar para que todas las acciones que se desarrollen en el Instituto, promuevan la igualdad entre mujeres y hombres, sin distinción de su condición social, género, color de piel, embarazo, estado civil, discapacidad, preferencia sexual o cualquier otra situación similar;
-
-V. Interés Público. Actuar para satisfacer las demandas sociales y no perseguir beneficios individuales;
-
-VI. Liderazgo. Transmitir a sus compañeros los principios, valores y reglas de integridad que rigen al Instituto y fomentar su aplicación y cumplimiento;
-
-VII. Respeto. Actuar con amabilidad y cortesía en el trato con los demás; y
-
-VIII. Respeto de los Derechos Humanos. Promover, conocer y aplicar los derechos humanos, la igualdad y no discriminación, la equidad de género y los derechos laborales entre sus compañeros del Instituto.
-
-9. Reglas de Integridad. Son acciones para delimitar las conductas de los servidores públicos en situaciones específicas, absteniéndose de participar en las que pudieran afectar la seguridad, la independencia y la imparcialidad de su actuación pública.
-
-Los servidores públicos del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo en el desempeño de su empleo, cargo o comisión deberán observar las siguientes conductas:
-
-I. Actuación Pública:
-
-a. Cumplir responsablemente con su empleo, cargo o comisión, así como coadyuvar en la obtención de las metas y objetivos;
-
-b. Mantener un ambiente de respeto y colaboración en donde la actitud de servicio sea la constante;
-
-c. Cumplir con los horarios establecidos, asistiendo puntualmente a las jornadas laborales;
-
-d. Ser ejemplo de colaboración y unidad fomentando el trabajo en equipo, tratando con respeto y evitando hacer distinciones entre sus compañeros;
-
-e. Fomentar el cumplimiento de los objetivos de su área de adscripción, desarrollando los procesos que contribuyan a fortalecer la eficiencia e imagen del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo;
-
-f. Establecer los controles internos necesarios para atender en tiempo y forma, los asuntos de su competencia; y
-
-g. Evitar presentarse al área laboral bajo los efectos del alcohol o cualquier otra sustancia no permitida.
-
-II. Información Pública:
-
-a. Resguardar todo tipo de información y documentación bajo su responsabilidad por razón de su empleo, cargo o comisión, de acuerdo con los criterios de reserva, confidencialidad y publicidad específicos consignados en las leyes, reglamentos y demás normatividades aplicables al Instituto Tecnológico Superior del Oriente del Estado de Hidalgo;
-
-b. Entregar a sus superiores los documentos, expedientes, fondos, valores o bienes cuya atención o guarda estén bajo su responsabilidad y de acuerdo con las disposiciones aplicables en caso de renuncia o separación temporal o definitiva de su empleo, cargo o comisión;
-
-c. Actuar con confidencialidad, imparcialidad y cuidado en la elaboración y manejo de información interna, así como en la atención de las solicitudes hechas en el marco legal correspondiente que garantice la transparencia;
-
-d. Evitar difundir, entorpecer, detener u obstaculizar registros y demás información interna con el fin de obtener beneficios personales de cualquier índole;
-
-e. Evitar utilizar con fines distintos a los de la misión del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, los documentos elaborados internamente;
-
-f. Evitar utilizar la información o el puesto asignado bajo su responsabilidad como medio de presunción, posicionamiento social o para obtener algún beneficio personal; y
-
-g. Evitar sustraer, destruir, ocultar o utilizar de manera indebida la información que conozca con motivo de sus actividades diarias.
-
-III. Contrataciones Públicas, Licencias, Permisos, Autorización y Concesiones:
-
-a. Actuar siempre con objetividad e imparcialidad de acuerdo con los intereses del Instituto, la comunidad y buscando el bien común;
-
-b. Evitar tomar decisiones cuando exista o pueda existir algún conflicto de interés y hacerlo del conocimiento a la instancia correspondiente;
-
-c. Cumplir cabalmente con las obligaciones de su puesto sin realizar ningún tipo de discriminación y respetando los derechos humanos de las personas;
-
-d. Evitar recibir cualquier beneficio personal, económico o en especie;
-
-e. Evitar beneficiarse de los servicios contratados por el Instituto Tecnológico Superior del Oriente de (sic) Estado de Hidalgo para fines personales; y
-
-f. Ser imparcial en el otorgamiento o cancelación del registro de proveedores y contratistas, así como en la selección, designación, contratación y en su caso en la remoción o recisión de contratos en los procedimientos de contratación.
-
-IV. Programas Gubernamentales:
-
-a. Aplicar correctamente el marco jurídico que rige su actuar en el servicio público;
-
-b. Evitar elaborar, promover o emitir políticas públicas y estrategias tendientes a favorecer indebidamente a personas, grupos o sectores en detrimento del interés público; y
-
-c. Evitar elaborar, impulsar y aplicar normas para beneficio personal, familiar o de terceras personas, o bien, para perjudicar a terceros.
-
-V. Trámites y Servicios:
-
-a. Desempeñar su trabajo con transparencia;
-
-b. Brindar la orientación e información necesaria al personal directivo, administrativo y docente, así como a los alumnos y comunidad en general que acudan al Instituto Tecnológico Superior del Oriente del Estado de Hidalgo para realizar cualquier trámite o servicio; y
-
-c. Evitar recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento de un trámite o servicio.
-
-VI. Recursos Humanos:
-
-a. Actuar con honestidad, congruencia y transparencia, anteponiendo el interés público a sus intereses particulares y siempre buscando evitar cualquier acto de corrupción;
-
-b. Actuar conforme a criterios de justicia y equidad;
-
-c. Elegir siempre la mejor opción que favorezca el cumplimiento de la misión y objetivos del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo;
-
-d. Agilizar la toma de decisiones, evitando postergar los asuntos que se encuentren bajo su responsabilidad;
-
-e. Evitar tomar decisiones si no tiene la facultad o autorización correspondiente;
-
-f. Evitar conceder preferencias o privilegios a personas, empresas o institución alguna;
-
-g. Evitar obstaculizar los asuntos que se encuentran bajo su responsabilidad; y
-
-h. Evitar seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que el marco normativo impone a todo ciudadano.
-
-VII. Administración de Bienes Muebles e Inmuebles:
-
-a. Utilizar óptimamente todo tipo de recursos que hayan sido asignados, evitando abusos y desperdicios en su uso;
-
-b. Emplear de manera honrada, responsable y para uso exclusivo del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, el teléfono, internet, sistemas o programas informáticos y correo electrónico, así como todo tipo de recursos como copias, papel, materiales de escritorio, agua, luz y otros;
-
-c. Utilizar cuando proceda, papel reciclado para imprimir o fotocopiar documentación interna;
-
-d. Conservar el equipo, muebles e instalaciones, así como denunciar cualquier acto de vandalismo o uso inadecuado de los mismos;
-
-e. Aprovechar el uso del correo institucional en lugar de medios impresos, con la finalidad de ahorrar papel;
-
-f. Optimizar el uso de los recursos financieros para fines específicos del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, evitando autorizar su uso en beneficio propio;
-
-g. Evitar hacer mal uso o sustraer de las oficinas, los bienes que se proporcionan para el desempeño de las labores; y
-
-h. Evitar utilizar las instalaciones del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo para fines que beneficien o perjudiquen a un partido político, asociación civil, persona física o moral.
-
-VIII. Procesos de Evaluación:
-
-a. Conducirse de manera objetiva, imparcial e independiente respecto del desempeño de la gestión del Instituto sujeta a control y evaluación, respetando sus dictámenes u opiniones;
-
-b. Señalar las deficiencias, áreas de oportunidad o ausencia o fallas de los mecanismos de control que hubieren detectado en las diferentes áreas del Instituto;
-
-c. Atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa.; (sic) Señalar los incumplimientos o violaciones a las disposiciones jurídicas y áreas de oportunidad que hubiere detectado; y
-
-d. Atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa.
-
-IX. Control Interno:
-
-a. Determinar y difundir las medidas de control para el desarrollo oportuno de su empleo, cargo o comisión;
-
-b. Dar a conocer a la instancia correspondiente de los asuntos en los que puede existir un conflicto de interés; y
-
-c. Establecer mecanismos que le ayuden a prevenir la corrupción y cualquier conflicto de interés.
-
-X. Desempeño Permanente con Integridad:
-
-a. Actuar con estricto apego al respeto de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos;
-
-b. Incluir acciones afirmativas que favorezcan el respeto de los derechos humanos, la equidad entre mujeres y hombres en las políticas y acciones del servicio público, además de asumir la igualdad de trato y de oportunidades e impulsar el trabajo en equipo; y
-
-c. Evitar aceptar regalos o estímulos de cualquier tipo que pretendan influir en las decisiones como servidor público del Instituto.
-
-XI. Cooperación con Integridad:
-
-a. Utilizar lenguaje incluyente en cualquier forma de expresión para comunicarse con los demás al exterior y al interior del Instituto; y
-
-b. Fomentar el acceso a oportunidades de desarrollo sin discriminación de género.
-
-XII. Comportamiento Digno:
-
-a. Evitar generar beneficios por cuestiones de género;
-
-b. Evitar discriminar por razones de género, grupo étnico, religión, creencias, raza, nacionalidad, edad, orientación sexual, estado civil, estructura familiar, capacidades diferentes, condición social, ideologías políticas, o cualquier otra característica que diferencie a una persona de otra y que, con ello, atente contra la dignidad humana;
-
-c. Evitar utilizar lenguaje sexista que fomente estereotipos o prejuicios que favorezcan las desigualdades entre hombres y mujeres;
-
-d. Evitar ejercer algún tipo de violencia laboral hacia sus compañeros de trabajo, aludiendo a su género o alguna otra característica inherente a su persona;
-
-e. Evitar condicionar los derechos o prestaciones con las que cuenta el Instituto para el personal; y
-
-f. Evitar realizar cualquier acto que acose u hostigue sexual o laboralmente a las compañeras o compañeros de trabajo.
+### CAPITULO II. De las excepciones
 
 ###### Art. 31.
 
@@ -465,21 +235,7 @@ La cosa juzgada deberá siempre hacerse constar por los autos originales o por c
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
 
-### Capítulo III.
-
-De los Juicios Éticos.
-
-10. El Código de Conducta es una Guía de comportamiento que complementa el criterio juicioso y sentido común para ayudar a adoptar conductas que enorgullezcan y propicien una imagen positiva del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo y de cada uno de los servidores públicos que lo conforman. Este Código fomentará la observancia de principios, valores y reglas de integridad de forma responsable.
-
-Para determinar si está actuando correcta y responsablemente, antes de realizar una determinada actividad, se debe evitar una conducta:
-
-I. Que afecte negativamente al Instituto;
-
-II. Que sea ilegal;
-
-III. Que vaya en contra de los principios, valores y reglas de integridad del Instituto; y
-
-IV. Que beneficie de manera personal o general el conflicto de interés.
+### CAPITULO I. De la personalidad de los litigantes y de la asistencia técnica
 
 ###### Art. 38.
 
@@ -535,6 +291,10 @@ En caso de impedimento legal o físico del procurador, o si éste abandona el ju
 
 La asistencia técnica a quienes comparezcan ante los tribunales del Estado sólo podrán prestarse por licenciados en derecho o abogados con título profesional registrado.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+
+El asesor técnico se encuentra facultado para oír y recibir notificaciones en nombre de su asistido; formular peticiones de mero trámite; ofrecer pruebas e intervenir en el desahogo de ellas con las mismas facultades que la ley confiere a su asistido; formular alegatos; interponer recursos; y formular promociones para evitar la consumación de la caducidad de la instancia. El asesor técnico no podrá delegar en un tercero las anteriores facultades, ni podrá absolver posiciones en nombre de su asistido.
+
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 49-B.
@@ -553,11 +313,7 @@ Los tribunales, cuando lo consideren conveniente, quedan en aptitud de requerir 
 
 Los pasantes de la carrera de licenciado en derecho y los estudiantes de los dos últimos años de la misma, podrán fungir como asesores técnicos cuando presten sus servicios bajo el patrocinio de un organismo oficial de asistencia jurídica gratuita y así lo acrediten con la documentación respectiva.
 
-### Capítulo IV.
-
-De las Sanciones.
-
-11. Cualquier incumplimiento a las disposiciones establecidas en el presente Código de Conducta, así como, al Código de Ética de la Administración Pública del Estado de Hidalgo, será sometido a la consideración del Comité de Ética y Prevención de Conflictos de Interés del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo, quien determinará si la falta correspondiente queda registrada en el expediente laboral o, en su caso se turna al Órgano Interno de Control del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo para la investigación correspondiente por la posible comisión de una responsabilidad administrativa.
+### CAPITULO II. De las actuaciones judiciales
 
 ###### Art. 50.
 
@@ -591,7 +347,9 @@ Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los 
 
 Ningún escrito se admitirá sin estar firmado por la parte que promueve. No sabiendo firmar, o estando impedido provisional o permanentemente para ello, el promovente deberá imprimir al calce del escrito las huellas digitales de sus pulgares, en su caso, y presentarlo personalmente. Si el promovente carece de ambas manos el escrito deberá suscribirlo a su ruego, persona de su confianza y presentarlo ambos personalmente. Lo mismo se observará en el caso de que el promovente no sepa ni leer ni escribir, con la obligación adicional de que quien firme a su ruego protestará haberle leído a aquél, en forma íntegra, el texto del escrito.
 
-Cuando el promovente se encuentre impedido para presentar personalmente el escrito, podrá presentarlo otra persona en su nombre. En todos estos casos, excepto, cuando el escrito lo haya presentado personalmente el promovente, tanto el contenido del ocurso como las huellas digitales y firmas que ostente se mandarán ratificar ante la Secretaría o la Actuaría, a criterio del Tribunal. El promovente y, en su caso, quien firme a su ruego, deberán identificarse a satisfacción de la autoridad judicial, en el momento de la presentación o de la ratificación del escrito.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1998)</small>
+
+Cuando el promovente se encuentre impedido para presentar personalmente el escrito, otra persona podrá presentarlo en su nombre. En este caso, si el escrito se contrae a una demanda o promoción inicial, contestación de demanda o desistimiento de la misma o de la acción intentada, el promovente deberá ratificar el contenido del ocurso así como la firma o huellas que lo calcen ante la Secretaría o Actuaría, a criterio del tribunal. El promovente y, en su caso, quien firme a su ruego deberán identificarse, a satisfacción de la autoridad judicial, en el momento de la presentación o de la ratificación del escrito.
 
 ###### Art. 57.
 
@@ -773,27 +531,7 @@ Los despachos y exhortos que se cursen entre sí a las autoridades judiciales de
 
 Toda violación del procedimiento puede ser reclamada por la parte perjudicada, quien interpondrá al efecto el recurso que proceda contra la providencia violatoria; y si no obtuviere reparación por este medio, podrá pedirla nuevamente, al expresar agravios, en la apelación que interponga contra la sentencia definitiva, siempre que la infracción afecte a las partes esenciales del procedimiento, privando de defensa al agraviado. La resolución favorable al quejoso, anulará lo actuado desde que se cometió la violación.
 
-### Capítulo V.
-
-De las Instancias de Asesoría, Consulta e Interpretación.
-
-12. Para la interpretación, consulta, asesoría del mismo o en caso de dudas con motivo de su aplicación, deberán sujetarse a lo establecido (sic) el Comité de Ética y Prevención de Conflictos de Interés y al Órgano Interno de Control del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo.
-
-T R A N S I T O R I O S
-
-PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente código.
-
-TERCERO.- El presente Código será publicado en la página web del Instituto Tecnológico Superior del Oriente del Estado de Hidalgo.
-
-DADO EN LAS OFICINAS DEL INSTITUTO TECNOLÓGICO SUPERIOR DEL ORIENTE DEL ESTADO DE HIDALGO, UBICADO EN CARRETERA APAN - TEPEAPULCO K.M 3.5, COLONIA LAS PEÑITAS, EN EL MUNICIPIO DE APAN, HIDALGO; A LOS 03 DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL VEINTIUNO.
-
-DIRECTOR GENERAL
-
-MTRO. JUSTO JUAN MANUEL MARTÍNEZ LICONA
-
-RÚBRICA
+### CAPITULO III. De las resoluciones judiciales
 
 ###### Art. 88.
 
@@ -1055,9 +793,13 @@ Cuando un litigante proceda con temeridad o mala fe, será condenado al pago de 
 
 La calificación de la temeridad o mala fe queda al juicio del juez, quien siempre declarará temerario:
 
-I.- Al que presentare instrumentos falsos;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1998)</small>
 
-II.- Al que presentare testigos falsos o sobornados; sin perjuicio de la responsabilidad criminal en este caso y en el anterior;
+I.- Al que intente acciones u oponga excepciones o defensas improcedentes, promueva incidentes o interponga recursos con notorio afán de demorar el trámite y resolución de un proceso.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1998)</small>
+
+II.- Al que presentare instrumentos o documentos falsos; o testigos falsos o sobornados; sin perjuicio de la responsabilidad penal en que por esos hechos incurra;
 
 III.- Al que fuere condenado, en primera y segunda instancias, por dos sentencias conformes de toda conformidad;
 
@@ -1391,9 +1133,11 @@ IV.- En las diligencias de mera ejecución; más si en las de ejecución mixta, 
 
 V.- En los demás actos que no radiquen jurisdicción, ni importen conocimiento de causa.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 198.
 
-En los juicios ejecutivos e hipotecarios, y en los procedimientos de apremio, tampoco se dará curso a las recusaciones, sino hecho el embargo, expedida y fijada la cédula o practicado el acto de aseguramiento.
+En los juicios ejecutivos, hipotecarios y en los procedimientos de apremio, tampoco se dará curso a las recusaciones, sino hecho el embargo, registrada la demanda del juicio hipotecario o practicado el acto de aseguramiento.
 
 ### CAPITULO IV. Del tiempo en que debe proponerse la recusación
 
@@ -2283,6 +2027,12 @@ Si las partes no se pusieren de acuerdo, el nombramiento será hecho por el juez
 
 El nombramiento de los peritos y el del tercero se harán dentro de los tres días siguientes a la notificación del auto en que aquél se prevenga.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
+###### Art. 383
+
+bis.- Los peritos no son recusables, pero el nombrado por el juez deberá excusarse de conocer cuando en él concurra alguno de los impedimentos a que se refiere el artículo 189 del presente Código.
+
 ###### Art. 384.
 
 Los peritos deben tener título en la ciencia o arte a que pertenezca el punto sobre que ha de oírse su juicio, si la profesión o el arte estuvieren legalmente reglamentados.
@@ -3005,13 +2755,15 @@ XVI.- Los demás que por disposición de la ley deban tramitarse sumariamente.
 
 El procedimiento en los juicios sumarios se arreglará a lo que disponen los siguientes artículos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 514.
 
-Los términos judiciales serán: de tres días para contestar la demanda; de veinte, para pruebas; de tres, para oponer excepciones dilatorias; de tres, para la audiencia de alegatos, y de cinco para dictar sentencia definitiva.
+Los términos judiciales serán de cuatro días para contestar la demanda, de veinte días para pruebas, de cuatro días para oponer las excepciones dilatorias; de tres días para la audiencia de alegatos y de diez días para dictar sentencia definitiva.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 1993)</small>
+El juez no podrá bajo ninguna circunstancia, dictar un acuerdo en el cual solamente exprese que se está en estudio de la sentencia, sino que deberá dictar la misma dentro del término establecido.
 
-En el juicio sumario, salvo disposición expresa de la ley, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el período, de no ser así el juez las desechará de plano.
+En los juicios sumarios, salvo las disposiciones del juicio hipotecario, todos los días de que conste el período probatorio son comunes para ofrecer y desahogar pruebas. Empero, aquellas cuyo perfeccionamiento requiera la citación de alguna persona, la constitución del personal del juzgado fuera de las oficinas del mismo o la intervención de peritos, deberán ofrecerse con la suficiente anticipación para que dicho perfeccionamiento tenga lugar sin exceder el periodo, de no ser así el juez las desechará de plano.
 
 ###### Art. 515.
 
@@ -3041,7 +2793,7 @@ En el caso de la fracción XV del artículo 511, una vez recibida por el juez el
 
 ### CAPITULO III. Del juicio hipotecario
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 521.
 
@@ -3141,69 +2893,143 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 ###### Art. 538.
 
-Se seguirá sumariamente el juicio para el pago o prelación de un crédito hipotecario, siempre que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido en los artículos 1853 y 2806 del Código Civil. El juicio se compondrá de dos secciones, una se llamará de apremio y se formará con la demanda, la cédula hipotecaria, el inventario de la finca hipotecada, las diligencias relativas al depósito, el avalúo y el remate de dicha finca; y otra que se llamará de oposición y se formará con la copia de la demanda, la contestación del demandado en que oponga sus excepciones, las pruebas, alegatos y sentencias.
+Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto el pago o la prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas de este capítulo, es requisito indispensable que el crédito conste en escritura pública o escrito privado, según corresponda en los términos de la legislación común, y registrado en el Registro Público de la Propiedad y que sea de plazo cumplido, o que este sea exigible en los términos pactados o bien conforme con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 539.
 
-Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez proveerá un auto, previniendo se notifique al demandado que dentro de tres días ocurra a contestar la demanda y a oponer las excepciones que tuviere, a cuyo fin le mandará a entregar copia simple de dicha demanda, la cual, al ser devuelta, encabezará el cuaderno de oposición. En este auto se mandará expedir la cédula hipotecaria y depositar la finca gravada, si el acreedor hubiese hecho el nombramiento de depositario.
+Procederá el juicio hipotecario sin necesidad de que el contrato esté inscrito en el Registro Público de la Propiedad, cuando:
 
-Sólo puede apelar del mismo auto el demandante.
+I.- El documento base de la acción tenga carácter de título ejecutivo;
+
+II.- El bien se encuentre inscrito a favor del demandado; y
+
+III.- No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a los de la presentación de la demanda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 540.
 
-La cédula contendrá una relación sucinta de la escritura, y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca ... de la propiedad de ... a juicio hipotecario; lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor).
+Presentado el escrito de demanda acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, emplazándolo a juicio, para que dentro del término de cuatro días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
+
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
+II.- Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+III.- Incumplimiento o nulidad del contrato;
+
+IV.- Pago o compensación;
+
+V.- Remisión o quita;
+
+VI.- Oferta de no cobrar o espera;
+
+VII.- Novación de contrato; y
+
+VIII.- Cosa Juzgada.
+
+Las excepciones comprendidas en las fracciones de la IV a la VIII, sólo se admitirán cuando se funden en prueba documental.
+
+El juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autorizan, o aquellas en que sea necesario exhibir documento y el mismo no se acompañe. Ninguna de las excepciones suspenderá el procedimiento y se resolverán en la sentencia definitiva.
+
+Si el demandado se allanare a la demanda y solicitare término de gracia para el pago o cumplimiento de lo reclamado, el juez dará vista al actor para que, dentro de los tres días siguientes manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo con tales proposiciones. El término de gracia no podrá exceder de tres meses en ningún caso.
+
+Si el demandado confesare las pretensiones del actor, el juez le concederá un término de gracia de treinta días para desocupar la vivienda y lo eximirá del pago de gastos y costas que se hubiesen originado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 541.
 
-La cédula hipotecaria se fijará en un lugar aparente de la finca y se inscribirá en el Registro Público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
+Tanto en la demanda como en la contestación a la misma, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, que en ningún caso podrán ser más de dos por cada hecho, citando los nombres y apellidos de estos, presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas relacionándolas con los hechos que se pretendan probar. El juez resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga a la contestación de la demanda. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no hayan sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará. Las pruebas que se admitan se desahogarán en la audiencia respectiva, la que será única, indiferible y no podrá suspenderse por ningún motivo.
+
+En caso de allanamiento total de la demanda; si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza dentro del plazo concedido en términos de lo indicado en el último párrafo del artículo anterior el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
+
+No encontrándose en ninguno de los supuestos del párrafo que antecede, con el escrito de contestación a la demanda y con las excepciones opuestas se dará vista al actor para que manifieste lo que a su derecho convenga dentro del término de los tres días siguientes. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia, la que deberá celebrarse dentro de los veinte días siguientes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 542.
 
-Si la finca no se halla en el lugar del juicio, se librará despacho o exhorto al juez de la ubicación, para que mande fijar la cédula. En su caso, también se comisionará al juez de la ubicación para que haga registrar dicha cédula.
+La demanda se anotará en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, para que, previo cotejo con sus originales se certifiquen por el secretario haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones correspondientes.
+
+Si la finca no se encuentra en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene la inscripción de la demanda como se previene en este capítulo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 543.
 
-Desde el día que se fije la cédula hipotecaria contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil, deben considerarse como inmovilizados y formando parte de la misma finca; salvo el derecho que tendrá el actor de nombrar, bajo su responsabilidad, un depositario. El juez dispondrá, si el actor lo pidiere, que se proceda a formar inventario de la finca, para agregarlo a los autos.
+Inscrita la demanda en el registro público de la propiedad no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoria relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho en fecha anterior a la de inscripción de la demanda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 544.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+En la diligencia de emplazamiento se requerirá al deudor para que manifieste si acepta o no la responsabilidad de depositario; y de aceptarla, contraerá la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil deban considerarse inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos.
+
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelerá por los medios de apremio que autoriza la ley; el deudor que no haya aceptado la responsabilidad de depositario en el momento del emplazamiento, entregará desde luego la tenencia material de la finca al actor.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 545.
 
-El depósito de la finca hipotecada se regirá por lo dispuesto en el Capítulo I del Título Decimosexto.
+Si la diligencia que se señala en el artículo anterior no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no la acepta si no hace esta manifestación, y en este caso, el actor podrá pedir que se le entregue la tenencia material de la finca.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 546.
 
-Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en aquélla expresados, sino en virtud de sentencia ejecutoriada anterior en fecha a la demanda que ha motivado la expedición de la cédula, o de providencia dictada a petición de acreedor de mejor derecho.
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a sus testigos, peritos y demás pruebas que les hayan sido admitidas. En caso de que existan periciales contradictorias de ambas partes, el juez para un mejor proveer, se auxiliará de un perito tercero en discordia quien deberá rendir su dictamen en un término no mayor de cinco días contado a partir de la celebración de la audiencia. Las pruebas, salvo el dictamen del perito tercero en discordia, en su caso, se desahogarán en la audiencia respectiva.
+
+Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos como prueba, no se desahogan éstas a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente. Tratándose de la prueba pericial, el hecho de que una de las partes la rinda y su contraria no lo haga, se entenderá el desahogo de dicha prueba sólo con el dictamen rendido. En caso de que ninguna de las partes lo haya presentado, se declarará desierta dicha probanza por causas imputables a los oferentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 547.
 
-Las excepciones se tramitarán conforme a las reglas que deben observarse en los juicios sumarios. No se admitirá la reconvención.
+En la audiencia a que se refiere el artículo 541, se desahogarán las pruebas admitidas y preparadas, procederán las partes a alegar lo que a su derecho convenga y acto continuo, el juez dictará la sentencia que corresponda, la que podrá ser apelable únicamente en efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 548.
 
-La sentencia no sólo declarará si procede o no el remate, sino que decidirá sobre los derechos controvertidos.
+Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca o, en su caso, de no haberse acordado se procederá de la forma siguiente:
+
+I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada practicado por un corredor público, una institución de crédito o por perito valuador autorizado por el Tribunal, los cuales en ningún caso podrán tener el carácter de parte o de interesada en el juicio;
+
+II.- En el caso de que alguna de las partes deje de exhibir el avalúo dentro del plazo señalado en la fracción anterior, se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos; siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por el perito que al efecto señale;
+
+V.- La vigencia del valor que se obtenga por los avalúos será de seis meses para que se lleve a cabo la primera almoneda de remate, si entre ésta y las subsecuentes mediará un término mayor de seis meses se deberá actualizar el valor.
+
+VI.- Obtenido el valor del avalúo, según el caso que corresponda a las fracciones anteriores, se procederá a rematar la finca en los términos del capítulo II del Título Décimo Sexto de este ordenamiento; y
+
+VII.- La resolución que recaiga al remate sólo podrá ser apelable en efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 549.
 
-Si se resolviere no haber lugar al juicio hipotecario, se reservarán al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+En los procedimientos que se ventilen conforme con lo señalado en este capítulo, ningún incidente suspenderá el curso del juicio y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso se suspenderá el procedimiento.
 
-También se mandará quitar la cédula hipotecaria, cancelar la inscripción de ella y devolver la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que fije el juez, que no podrá exceder de treinta días.
-
-Lo dispuesto en el segundo párrafo de este artículo se observará cuando la sentencia absuelva al demandado, declarando que no procede el remate.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 550.
 
-No habiendo el deudor opuesto excepciones dentro del término fijado por la ley, o consentida o ejecutoriada la sentencia definitiva que haya condenado al deudor, se procederá al avalúo y remate de la finca.
+En el caso previsto en el segundo párrafo del artículo 2813 del Código Civil, no habrá lugar al juicio, ni a las almonedas, ni a la venta judicial; pero sí habrá avalúo para fijar el precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiera convenido; y a falta de convenio, por medio de remate extrajudicial, ante notario público. El deudor puede oponerse a la venta alegando las excepciones que tuviere y esta oposición se substanciará sumariamente.
 
-Si el demandado se rehusa a nombrar perito valuador, puede el actor exigir que se pida certificado del valor fiscal de la finca, que con este valor será considerado para el remate.
+También pueden oponerse a la venta los acreedores hipotecarios posteriores, alegando la prescripción de la acción hipotecaria.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 551.
 
-En el caso previsto en el segundo párrafo del artículo 2813 del Código Civil, no habrá lugar al juicio, ni a las almonedas, ni a la venta judicial; pero sí habrá avalúo para fijar el precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiera convenido; y a falta de convenio, por medio de remate extrajudicial, ante notario público. El deudor puede oponerse a la venta, alegando las excepciones que tuviere, y esta oposición se sustanciará sumariamente.
-
-También pueden opornerse (sic) a la venta los hipotecarios posteriores, alegando la prescripción de la acción hipotecaria.
+En lo no previsto por este capítulo serán aplicables las disposiciones contenidas en el capítulo primero de este título.
 
 ### CAPITULO I. De la ejecución
 
@@ -4254,6 +4080,10 @@ III.- La acción que en cada uno de ellos se ejercite;
 IV.- Las personas que en ellos sean interesadas;
 
 V.- Los fundamentos legales en que se apoye la acumulación.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1998)</small>
+
+Asimismo, deberá acompañar al citado escrito, copia certificada de los autos del juicio respectivo. De no satisfacer los requisitos exigidos en este artículo, el juez, en ningún caso dará entrada a la acumulación.
 
 ###### Art. 767.
 
@@ -7263,7 +7093,7 @@ Los tribunales superiores se abstendrán de calificar si deben o no cumplimentar
 
 ###### Art. 1370.
 
-Cuando por medio de exhorto o a solicitud inmediata del interesado, se pida la inscripción en el Registro Público de una providencia o sentencia dictada en cualquier Estado de la República, la resolución del juez de primera instancia, haya o no apelación, será revisada por el tribunal superior.
+(DEROGADO, P.O. 24 DE JULIO DE 1998)
 
 ###### Art. 1371.
 
@@ -7402,5 +7232,15 @@ P.O. 28 DE DICIEMBRE DE 1996.
 Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente Decreto.
+
+P.O. 24 DE JULIO DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 1998.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, pero la substanciación de los asuntos pendientes relativos a la materia de las reformas se continuará de conformidad con las disposiciones del Código de Procedimientos Civiles vigentes antes de dichas reformas.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 1414/2016 XVI P.E. POR MEDIO DEL CUAL SE “DEROGA EL CAPÍTULO VII ASÍ COMO LOS ARTÍCULOS 35, 36, 37 Y 38, DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA”.]
