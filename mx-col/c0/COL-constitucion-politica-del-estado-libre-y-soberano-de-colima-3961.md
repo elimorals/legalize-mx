@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1987-09-05"
+last_updated: "1987-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -117,29 +117,55 @@ Las funciones que competen al Poder Legislativo se ejercen por una Cámara que s
 
 De los Diputados y de la Instalacion y Funciones del Congreso.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 22.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de diez Diputados Electos según el principio de votación mayoritaria relativa y hasta por tres Diputados Electos según el principio de representación proporcional. Al efecto el Estado se dividirá en diez Distritos Electorales Uninominales y una circunscripción plurinominal.
+Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, y se compondrá de diez Diputados electos según el principio de votación mayoritaria relativa y hasta por siete Diputados electos según el principio de representación proporcional. Al efecto, el Estado se dividirá en diez distritos electorales uninominales y una circunscripción plurinominal.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 La demarcación Electoral de los diez Distritos Electorales Uninominales será la que señala el Artículo 104 de esta Constitución.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
 La Circunscripción Electoral Plurinominal comprenderá la extensión territorial total del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
 
 Por cada Diputado propietario se eligirá (sic) un suplente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+
 Para la elección por representación proporcional y lista regional, se deberá observar la Ley respectiva y las siguientes bases:
 
-I.- El Partido que solicite el registro de su lista regional deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos cuatro de los Distritos Uninominales.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1987)</small>
+
+I.- El partido que solicite el registro de su lista regional, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos la mitad de los distritos uninominales.
 
 II.- Tendrá derecho a que le sean atribuidos Diputados Electos según el principio de representación proporcional, todo aquel partido que:
 
-A).- No haya obtenido dos o más constancias de mayoría y,
+a).- (DEROGADO, P.O. 26 DE DICIEMBRE DE 1987);
 
-B).- Que alcance por lo menos el 5% del total de la votación emitida en la circunscripción plurinominal.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1987)</small>
 
-III.- Al partido que reúna las condiciones señaladas en las Fracciones que anteceden, le será asignado un Diputado Electo mediante el principio de representación proporcional en la circunscripción electoral plurinominal. En el caso de que dos o más partidos con derecho a participar en la asignación de Diputados Electos por el principio de representación proporcional obtengan, en su conjunto, dos o más constancias de mayoría, se le asignará una sola curul a aquel de entre ambos, que hubiere obtenido el mayor número de votos.
+b).- Que alcance por lo menos el 1.5% del total de la votación emitida en la circunscripción plurinominal.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1987)</small>
+
+III.- Al partido que reúna la condición señalada en la fracción anterior se le asignarán las curules a que se haga acreedor, mediante la aplicación de la fórmula electoral denominada de representatividad mínima, que se integra con los siguientes elementos:
+
+a).- Porcentaje mínimo;
+
+b).- Cociente natural;
+
+c).- Resto mayor.
+
+Estos elementos serán aplicados en la forma y términos que determine la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1987)</small>
+
+IV. Ningún partido podrá tener más de doce Diputados. Los candidatos a Diputados y Regidores por mayoría, no podrán serlo igualmente de representación.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
@@ -283,7 +309,9 @@ VIII.- Resolver y calificar las elecciones ordinarias y extraordinarias de los A
 
 IX.- Intervenir en las elecciones de Senadores por el Estado, con arreglo a lo dispuesto en el artículo 56 de la Constitución Federal.
 
-X.- (DEROGADA, P.O. 30 DE ENERO DE 1954)
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1987)</small>
+
+X.- Integrar el Tribunal de lo Contencioso Electoral, con la competencia y en la forma y términos que determine la ley de la materia.
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 1954)</small>
 
@@ -1043,6 +1071,10 @@ Todos los anteriores serán electos según el principio de votación mayoritaria
 
 III.- En todos los Municipios del Estado habrá además, Regidores electos mediante el principio de representación proporcional en los términos que señale la Ley de la materia.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1987)</small>
+
+En los casos señalados en los incisos a y b de la fracción anterior, el número de Regidores de representación proporiconal (sic) podrá ser hasta de tres; en el caso del inciso c de la misma fracción, el número de Regidores de representación proporcional podrá ser hasta de dos.
+
 IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del Estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Ingresos a la misma Legislatura.
 
 ###### Artículo 92.
@@ -1121,27 +1153,27 @@ De la Educación Pública.
 
 ###### Artículo 104.
 
-El Estado se dividirá para su administración política en diez Municipios, teniendo por cabecera cada uno la población que lleva su nombre y son los siguientes: Colima, Cuauhtémoc, Villa de Alvarez, Coquimatlán, Comala, Tecomán, Manzanillo, Ixtlahuacán, Minatitlán y Armería.
+El Estado se dividirá para su administración Política en diez Municipios, teniendo por cabecera cada uno la población que lleva su nombre y son los siguientes: Armería, Colima, Comala, Coquimatlán, Cuauhtémoc, Ixtlahuacán, Manzanillo, Minatitlán, Tecomán y Villa de Alvarez.
 
 Tratándose de elecciones para Diputados propietarios y suplentes al Congreso Local, el Estado de Colima se dividirá en diez Distritos Electorales, los que se formarán de la siguiente manera:
 
-I.- Los Distritos Electorales primero y segundo comprenderán la zona urbana de la Ciudad de Colima.
+I.- Primer Distrito.- Comprende la Ciudad de Colima, parte norte, así como la parte rural norte del propio Municipio de Colima.
 
-II.- El tercer Distrito Electoral comprenderá al Municipio de Cuauhtémoc y parte de la Zona Foránea del Municipio de Colima.
+II.- Segundo Distrito.- Comprende la Ciudad de Colima, parte sur, así como la parte rural sur del propio Municipio de Colima.
 
-III.- El cuarto Distrito Electoral estará integrado por el Municipio de Villa de Alvarez.
+III.- Tercer Distrito.- Comprende el Municipio de Cuauhtémoc.
 
-IV.- El Quinto Distrito Electoral se integrará por el Municipio de Coquimatlán y parte de la Zona Foránea del Municipio de Colima.
+IV.- Cuarto Distrito.- Comprende el Municipio de Villa de Alvarez.
 
-V.- El sexto Distrito Electoral estará integrado por los Municipios de Comala y Minatitlán.
+V.- Quinto Distrito.- Comprende el Municipio de Coquimatlan.
 
-VI.- Los Distritos Electorales Séptimo y Octavo, se integrarán por el Municipio de Manzanillo, conformándose cada uno de ellos con parte del área urbana de la Ciudad de Manzanillo y parte de la Zona Foránea del propio Municipio.
+VI.- Sexto Distrito.- Comprende los Municipios de Comala y Minatitlán.
 
-VII.- El noveno Distrito Electoral quedará integrado con la zona urbana de la Ciudad de Tecomán y con parte de la Zona Foránea de este mismo Municipio y el Municipio de Ixtlahuacán.
+VII.- Séptimo y Octavo Distrito.- Se integra cada uno de ellos con parte de la Ciudad de Manzanillo y parte de la zona rural del Municipio de Manzanillo.
 
-VIII.- El décimo Distrito Electoral quedará integrado con el Municipio de Armería y con parte del área foránea del Municipio de Tecomán.
+VIII.- Noveno Distrito.- Se integra con la Ciudad de Tecomán y parte de la zona rural del propio Municipio de Tecomán y todo el Municipio de Iztlahuacán.
 
-Los límites distritales deberán ser establecidos por la Ley Electoral del Estado de Colima.
+IX.- Décimo Distrito.- Se integra con el Municipio de Armería y parte de la zona rural del Municipio de Tecomán.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1949)</small>
 
@@ -1161,7 +1193,7 @@ Las congregaciones que tengan menos de doscientos habitantes, se considerarán a
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1983)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 1987) (F. DE E., P.O. 15 DE OCTUBRE DE 1988)
 
 ###### Artículo 107.
 
@@ -1886,3 +1918,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 5 DE SEPTIEMBRE DE 1987.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su expedición en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 26 DE DICIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "EL ESTADO DE COLIMA".
