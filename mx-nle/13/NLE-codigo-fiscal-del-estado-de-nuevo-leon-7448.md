@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2002-12-27"
+last_updated: "2003-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -641,9 +641,11 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 38.
 
-Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Juzgado Fiscal del Estado mediante Juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular, sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado mediante juicio iniciado por las autoridades fiscales.
 
 Cuando la Secretaría de Finanzas y Tesorería General del Estado modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
@@ -761,11 +763,15 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 47.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos y sean anexadas a las actas finales o parciales que levanten con motivo de la visita; estando obligado asimismo a permitir la verificación de bienes y mercancías.
+Los visitados, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás medios que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos, estando obligados también a permitir la verificación de bienes y mercancías, relacionadas con la visita.
 
-Los visitadores podrán recoger la contabilidad para examinarla en las oficinas de la autoridad fiscal, cuando se dé alguno de los siguientes supuestos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán asegurar la contabilidad y demás datos, documentos o registros, papeles, discos, cintas o cualquier otro medio procesable de almacenamiento de datos, relacionados con el cumplimiento de las disposiciones fiscales:
 
 I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
 
@@ -785,9 +791,13 @@ VIII.- Cuando el visitado sea emplazado a huelga o suspensión de labores, en cu
 
 IX.- Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
 
-En el caso de que los visitadores recojan la contabilidad, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 48 de este código, con la que se terminará la visita domiciliaria en el domicilio o establecimiento del visitado, continuándose el ejercicio de las facultades de comprobación en las oficinas de las autoridades fiscales donde se levantará el acta final.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores recojan sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos que se recogen, pudiendo continuar la visita en el domicilio o establecimiento del visitado.
+En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otros, los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+En el caso de que los visitadores aseguren la contabilidad por encontrarse el visitado en cualquiera de los supuestos previstos por el segundo párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el Artículo 48 de este Código.
 
 ###### ARTICULO 48.
 
@@ -819,6 +829,26 @@ VI.- Si en el cierre del acta final de la visita no estuviere presente el visita
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 48 Bis.
+
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad y los informes, datos, documentos o registros de los mismos, que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que surta efectos la notificación del inicio de las facultades de comprobación.
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por doce meses, siempre que el oficio mediante el cual se notifique dicha ampliación, haya sido expedido por el superior jerárquico de la autoridad fiscalizadora.
+
+Los plazos para concluir las visitas domiciliarias o las revisiones a que se refiere el párrafo anterior y su prórroga, se suspenderán en los casos de:
+
+I.- Huelga, a partir de su estallamiento y hasta su levantamiento.
+
+II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
+
+III.- Cuando el contribuyente cambie su domicilio fiscal sin haber presentado el aviso correspondiente, o cuando no se le localice en el que haya señalado.
+
+IV.- Interposición de algún medio de defensa contra los actos o actividades motivo de la revisión, dichos plazos se suspenderán desde la fecha en que se interponga el medio de defensa hasta que se dicte su resolución definitiva.
+
+Cuando las autoridades no concluyan la visita o revisión dentro de los plazos autorizados, las facultades de comprobación se entenderán concluidas a su vencimiento, quedando a salvo las facultades de las autoridades para determinar la situación fiscal del contribuyente o responsable solidario con base en la verificación realizada dentro del plazo autorizado.
+
 ###### ARTICULO 49.
 
 Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente en los siguientes casos:
@@ -839,15 +869,25 @@ II.- En la solicitud se indicará el lugar y el plazo en el cual se debe proporc
 
 III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+IV.- Como consecuencia de la revisión de la contabilidad y los informes, datos, documentos o registros requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+V.- El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, u optar por corregir su situación fiscal en las formas oficiales establecidas por la autoridad. Cuando se trate de más de un ejercicio revisado, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo señalado el contribuyente no presenta elementos comprobatorios que los desvirtúen y en tal caso, se emitirá la resolución que determine las contribuciones omitidas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51.
 
-Las autoridades fiscales que al ejercer las facultades de comprobación a que se refiere el artículo 50, conozcan de hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los darán a conocer en forma circunstanciada al contribuyente o responsable solidario, sin que el oficio respectivo constituya resolución fiscal.
+Las autoridades fiscales que al ejercer las facultades de comprobación conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se emitirá dentro de un plazo máximo de seis meses contados a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad y los informes, datos, documentos o registros de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción V del Artículo 50 de este Código.
 
-Se tendrán por aceptados los hechos u omisiones contra los cuales el contribuyente o responsable solidario no se inconforme o respecto de los cuales no ofrezca pruebas para desvirtuarlos, en los términos del artículo 54, contado el plazo para presentar la inconformidad a partir del día siguiente al en que surta efectos la notificación del oficio.
-
-Cuando las autoridades fiscales estén practicando visitas en el domicilio fiscal al contribuyente o responsable solidario, la inconformidad se hará valer junto con la que, en su caso, se presente contra el acta final.
+El plazo para emitir la resolución a que se refiere este Artículo se suspenderá en los casos previstos en el Artículo 48 Bis de este Código. Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa, dicho plazo se suspenderá desde la fecha en que se interponga el citado medio de defensa y hasta que se dicte resolución definitiva del mismo.
 
 ###### ARTICULO 52.
 
@@ -2808,3 +2848,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del añ
 P.O. 27 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2004.
