@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1996-09-12"
+last_updated: "1997-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 1997.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -245,7 +245,9 @@ La organización de las elecciones locales es una función estatal que se realiz
 
 El Instituto Electoral de Querétaro, será autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por siete consejeros electorales, y concurrirán, con voz pero sin voto, un representante de cada partido político con registro y el secretario ejecutivo. La ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos.
 
-Los consejeros electorales serán electos por la Legislatura del Estado mediante el consenso o por el voto de las dos terceras partes de los miembros presentes, a propuesta de los grupos parlamentarios en los términos que señala la ley. En sus recesos, la Diputación Permanente convocará a sesión extraordinaria para tal efecto. Conforme al mismo procedimiento, se designarán siete consejeros electorales suplentes, señalando el orden en que asumirán la titularidad de consejero electoral.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+Los consejeros electorales serán electos por la Legislatura del Estado mediante el consenso o por el voto de las dos terceras partes de los miembros presentes, a propuesta de los grupos parlamentarios en los términos que señala la ley. Conforme al mismo procedimiento, se designarán siete consejeros electorales suplentes, señalando el orden en que asumirán la titularidad de consejero electoral.
 
 Los consejeros electorales durarán en su cargo siete años, pudiendo ser reelectos por un periodo más y percibirán una remuneración adecuada a sus funciones, que no será disminuida; no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en instituciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
@@ -391,7 +393,9 @@ XV.- Elegir y tomar protesta a los magistrados del Tribunal Superior de Justicia
 
 XVI.- Conceder licencia y admitir las renuncias de los diputados; del gobernador; de los magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
-XVII.- Citar a comparecer, por conducto de los titulares de los Poderes, a los servidores públicos de las dependencias y organismos del ejecutivo, del judicial y de los municipios a través de los ayuntamientos, para que ilustren sobre algún asunto de su competencia;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+XVII.- Citar a comparecer, por conducto de los titulares de los Poderes, a los servidores públicos de las dependencias y organismos del Ejecutivo, del Judicial y de los Municipios a través de los Ayuntamientos, para que ilustren sobre algún asunto de su competencia, solicitar y recibir de los mismos la documentación e informes necesarios para el cumplimiento de sus atribuciones;
 
 XVIII.- Conocer de las denuncias que conforme a la ley de la materia se formulen en contra de los servidores públicos a que se refiere el Título Séptimo de la presente Constitución y resolver si ha lugar o no a proceder penal o políticamente contra el denunciado y, en su caso, seguir el procedimiento establecido en dicho apartado;
 
@@ -409,7 +413,9 @@ XXIII.- Decretar la traslación provisional de los Poderes de la Entidad fuera d
 
 XXIV.- Aprobar anualmente las leyes de ingresos y presupuesto de egresos del Estado, así como la Ley de Ingresos de cada Municipio;
 
-XXV.- Revisar y aprobar las cuentas del gasto público efectuado por el Gobierno Estatal y por los municipios con base en los dictámenes que sobre las mismas presente la Comisión Inspectora de Hacienda;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+XXV.- Fiscalizar y aprobar las cuentas del gasto público efectuado por los organismos que integran la administración pública centralizada y descentraliza estatal y municipal y de los organismos públicos autónomos, con base en los dictámenes que sobre las mismas presente la Comisión de Hacienda, los que podrán contemplar sanciones por incumplimiento;
 
 XXVI.- Autorizar al titular del Poder Ejecutivo para que contrate empréstitos conforme a lo previsto por esta Constitución y otorgue avales para garantizar obligaciones legalmente contraídas;
 
@@ -417,9 +423,13 @@ XXVII.- Conceder al Ejecutivo por tiempo limitado y por voto de las dos terceras
 
 XXVIII.- Decretar amnistía por delitos de la competencia de los tribunales del Estado;
 
-XXIX.- Llamar a los diputados suplentes cuando los propietarios falten a cinco sesiones consecutivas sin causa justificada, a juicio de la Legislatura; entendiéndose por esto que dichos propietarios renuncian a concurrir al periodo de sesiones en ejercicio;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-XXX.- Expedir la convocatoria para elecciones de diputados suplentes, cuando éstos hayan entrado en ejercicio y falten sin causa justificada, a juicio de la Legislatura, a diez sesiones consecutivas, debiendo considerarse por éste hecho que renuncian a su cargo;
+XXIX.- Sustituir a los Diputados en ejercicio cuando falten a tres sesiones consecutivas en un mes o cinco dentro de un período ordinario de sesiones, sin causa justificada a juicio de la Legislatura, entendiéndose que dichos Diputados renuncian a su cargo;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+XXX.- Expedir la convocatoria para elecciones de Diputados, cuando ocurra falta absoluta del propietario y del suplente durante los dos primeros años del ejercicio legal de la Legislatura. La convocatoria definirá los procedimientos de acuerdo al sistema electoral por el que haya sido electo el Diputado ausente;
 
 XXXI.- Legislar sobre todo aquello que la Constitución de los Estados Unidos Mexicanos no conceda expresamente al Congreso de la Unión; y
 
@@ -443,7 +453,7 @@ V.- Las demás que consignen las leyes y reglamentos.
 
 La Ley Orgánica del Poder Legislativo reglamentará lo referente a las faltas temporales y absolutas de los Diputados.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 20°.
 
@@ -497,9 +507,9 @@ El poder público del Estado se divide para su ejercicio en Legislativo, Ejecuti
 
 La renovación periódica de los poderes legislativo y ejecutivo se realizará mediante la elección popular a través del voto universal, libre, secreto, personal y directo.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-Nunca podrán reunirse dos o mas de estas funciones en una persona o grupo de personas ni depositarse el Legislativo en un individuo. Es obligación de los distintos órganos del poder público instituir y ampliar sus relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones.
+Nunca podrán reunirse más de una de estas funciones en una persona o grupo de personas ni depositarse el Legislativo en un individuo. Es obligación de los distintos órganos, sus organismos y empresas descentralizadas, instituir y ampliar sus relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones y rendir cuentas del ejercicio presupuestal que les competa ante la Legislatura, quedando sujetos a las sanciones por incumplimiento que las leyes establezcan.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -509,43 +519,67 @@ El poder Legislativo se deposita en una asamblea que se nombrará Legislatura de
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
-#### SECCIÓN CUARTA. DE LA DIPUTACION PERMANENTE
+#### SECCION CUARTA. DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-###### ARTICULO 43°.
+###### ARTICULO 43º.
 
-Durante los recesos de la Legislatura habrá una Diputación Permanente compuesta de cinco miembros con sus respectivos suplentes. Los miembros de la Diputación Permanente serán elegidos por mayoría de votos de los diputados presentes en la última sesión ordinaria de la Legislatura.
+La Comisión Permanente es el órgano electo por el Pleno de la Legislatura en la última sesión de los períodos ordinarios, compuesta por un presidente, un vicepresidente y dos secretarios; estos se nombrarán primero y segundo y tendrán sus respectivos suplentes. Su integración podrá ser renovada mensualmente.
 
-La Diputación Permanente durará hasta la siguiente reunión ordinaria de la Legislatura y no podrá celebrar sesión sin la concurrencia de cuando menos tres de sus miembros.
+Conducirá los trabajos durante los períodos de enero a abril y agosto a septiembre, incluidas las Sesiones del Pleno de la Legislatura que se verifiquen, asimismo tendrá las funciones que señala el artículo 44 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-###### ARTICULO 44°.
+###### ARTICULO 44º.
 
-Las facultades y obligaciones de la Diputación Permanente son:
+Las facultades y obligaciones de la Comisión Permanente son:
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 I.- Conocer y desahogar los asuntos que no sean de competencia exclusiva del pleno de la Legislatura;
 
-II.- A acordar por sí o excitada por el Ejecutivo, la convocatoria a período extraordinario, en los casos que prevé esta Constitución, señalando el día para la reunión de la Legislatura;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-III.- Circular la convocatoria para periodo extraordinario por medio del diputado presidente, si después del tercer día de comunicar al Gobernador del Estado el decreto respectivo, no lo hubiere cumplimentado;
+II. Acordar por sí o excitada por el Ejecutivo, convocar a la Legislatura obsesionar fuera del período ordinario, en los casos que prevé esta Constitución, señalando el día para la reunión de la Legislatura;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+III. Circular la convocatoria para que sesione la Legislatura fuera del período ordinario, por medio del diputado presidente, si después del tercer día de comunicar al gobernador del Estado el decreto respectivo, no lo hubiere cumplimentado;
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 IV.- Conceder licencias para separarse temporalmente del cargo al gobernador, así como a diputados y magistrados y en su caso tomar la protesta a los suplentes;
 
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+
 V.- Instalar juntas preparatorias de la nueva Legislatura acorde con la Ley Orgánica y su Reglamento;
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 VI.- Nombrar Gobernador Provisional en los casos que previene esta Constitución;
 
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+
 VII.- Acordar con el Ejecutivo el cambio de la residencia temporal de los órganos del poder público en casos de suma urgencia o gravedad;
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 VIII.- Conceder en los casos que establezca esta Constitución facultades extraordinarias al Ejecutivo;
 
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+
 IX.- Vigilar la observancia de la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y demás leyes, dando cuenta a la Legislatura en su primera reunión ordinaria de las infracciones que hubiere advertido;
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 X.- Recibir los expedientes electorales de elección de gobernador y diputados acorde con las disposiciones de las leyes de la materia;
 
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
+
 XI.- Admitir las renuncias de los funcionarios y empleados nombrados por sí o por la Legislatura; y
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 XII.- Las demás que le asigna la presente Constitución y las leyes reglamentarias.
 
@@ -553,25 +587,31 @@ XII.- Las demás que le asigna la presente Constitución y las leyes reglamentar
 
 #### SECCIÓN QUINTA. DE LOS PERIODOS EXTRAORDINARIOS
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+###### ARTICULO 45º.
 
-###### ARTICULO 45°.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1997)
 
-La Legislatura podrá celebrar períodos extraordinarios de sesiones cuando para ello fuera convocada.
+###### ARTICULO 46º.
 
-Corresponde a la Legislatura y a la Diputación Permanente, en su caso, convocar a sesionar en periodo extraordinario.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 46°.
-
-La Legislatura reunida en período extraordinario sólo deliberará sobre el objeto para el cual fue convocada.
-
-Si llegado el tiempo de sesiones ordinarias hubiere reunión extraordinaria, cesará ésta; y el motivo que le dio origen se continuará en el periodo ordinario.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 1997)
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 #### SECCIÓN SEXTA. DE LA CONTADURÍA MAYOR DE HACIENDA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 47º.
+
+Para efectos de que se cumplan las facultades de la Legislatura en materia hacendaria de fiscalización y control de la administración pública centralizada, y descentralizada estatal y municipal y de los organismos públicos autónomos, y para la aplicación de sanciones que imponga la Legislatura, habrá una Contaduría Mayor de Hacienda. La Ley determinará su estructura, funciones y competencia.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+La Contaduría Mayor de Hacienda es el órgano de asesoría técnica de la Comisión de Hacienda.
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
+Corresponde a la Legislatura designar al Contador Mayor de Hacienda.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -613,7 +653,17 @@ IV.- No desempeñar cargos de la Federación, del Estado o del Municipio, ni eje
 
 V.- No ser Ministro de algún culto religioso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 27º.
+
+Los diputados en ejercicio, durante el periodo de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, Estado o Municipio, por los cuales disfrute remuneración sin licencia otorgada por órgano competente de la Legislatura.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+
+Se exceptúan de ésta prohibición los cargos educativos y asistenciales.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 28º.
 
@@ -646,6 +696,10 @@ La Legislatura velará por el respeto al fuero constitucional de los diputados y
 ###### ARTICULO 30°.
 
 La Legislatura del Estado se instalará el 26 de septiembre del año que corresponda y tendrá durante cada año de ejercicio dos periodos ordinarios de sesiones. El primero se iniciará el 27 de septiembre y concluirá el 31 de diciembre; el segundo se iniciará el día 1° de mayo y terminará el día 31 de julio.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+Fuera de estos periodos sesionará por los menos una vez al mes.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -697,17 +751,23 @@ I. El gobernador sustituto, que es el designado para concluir el periodo en caso
 
 II. El gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-###### ARTICULO 52°.
+###### ARTICULO 52º.
 
 En las ausencias o faltas temporales del Gobernador del Estado se observarán las siguientes reglas:
 
-I. En las ausencias que excedan de treinta días pero no pasen de noventa, la suplencia la hará el Secretario de Gobierno con el carácter de encargado del despacho, pero el Gobernador solicitará la licencia respectiva a la Legislatura o Diputación Permanente, según caso; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+I. Las ausencias que excedan de treinta días pero no pasen de noventa, la suplencia la hará el Secretario del Gobierno con el carácter de encargado del despacho, pero el Gobernador solicitará la licencia respectiva a la Legislatura o Comisión Permanente según el caso; y
+
+> <small>(REFORMADA, P. O. 3 DE ENERO DE 1991)</small>
 
 II. Si la falta temporal excede de noventa días la Legislatura o la Diputación Permanente, en su caso, designarán Gobernador interino o provisional respectivamente.
 
-El gobernador, para poder ausentarse del territorio del Estado por más de treinta días, solicitará permiso a la Legislatura o Diputación Permanente, según el caso.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+El Gobernador, para poder ausentarse del territorio del Estado por más de treinta días, solicitará permiso a la Legislatura o Comisión Permanente según el caso.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -715,29 +775,35 @@ El gobernador, para poder ausentarse del territorio del Estado por más de trein
 
 La designación de gobernador que realice el Congreso se hará por mayoría de votos del número total de diputados.
 
-Si la Legislatura estuviere en receso al ocurrir la ausencia, la Diputación Permanente nombrará uno provisional y convocará a periodo extraordinario de aquella para el solo efecto de designar al gobernador interino.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+Si la Legislatura no estuviera en período ordinario de sesiones al ocurrir la ausencia, la Comisión Permanente nombrará uno Provisional y convocará a aquella para el solo efecto de designar al Gobernador Interino.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 54º.
+
+En caso de falta absoluta del Gobernador del Estado se observarán las reglas siguientes:
+
+I. Si la falta ocurre durante los dos primeros años del período constitucional, y la Legislatura estuviera el período ordinario de sesiones, ésta elegirá un Gobernador Interino, expidiendo en ese mismo momento la convocatoria para la elección popular del Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la verificación de la elección deberá haber un plazo de dos a cuatro meses.
+
+II. Si la Legislatura no estuviera en período ordinario de sesiones, la Comisión Permanente nombrará un Gobernador Provisional y de inmediato se convocará a sesión de la Legislatura en la que ésta designe al Gobernador Interino, procediéndose luego en los términos de la fracción anterior.
+
+III. Cuando la falta absoluta del Gobernador ocurriese en los últimos 4 años del período respectivo, si la Legislatura no estuviera en período ordinario de sesiones, la Comisión Permanente nombrará un Gobernador Provisional y simultáneamente convocará a la Legislatura a sesión para que haga la elección de Gobernador Sustituto, quien habrá de concluir el período; y
+
+IV. Si al iniciar el período constitucional no se presentare el Gobernador electo, o la elección no estuviese hecha o declarada, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador interino el que designe la Comisión Permanente con el carácter de provisional, procediéndose luego conforme a la fracción I de éste artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 55º.
+
+El Gobernador del Estado, cualquiera que sea su denominación: interino, provisional o sustituto, al tomar posesión del cargo rendirá ante la Legislatura o ante la Comisión Permanente, según el caso, la siguiente protesta:
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 54°.
-
-En caso de falta absoluta del Gobernador del Estado se observará las reglas siguientes:
-
-I.- Si la falta ocurre durante los dos primeros años del período Constitucional, y la Legislatura estuviera en sesiones, se constituirá en Colegio Electoral y elegirá un gobernador interino, expidiendo en ese mismo momento la propia Legislatura la convocatoria para la elección popular del gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la verificación de la elección deberá haber un plazo de dos a cuatro meses;
-
-II.- Si la Legislatura no estuviese en sesiones la Diputación Permanente nombrará un gobernador provisional y de inmediato se convocará a sesión extraordinaria de la Legislatura en la que ésta designe al gobernador interino, procediéndose luego en los términos de la fracción anterior;
-
-III.- Cuando la falta absoluta del gobernador ocurriese en los últimos 4 años del período respectivo, si la Legislatura no estuviese reunida, la Diputación Permanente nombrará un gobernador provisional y simultáneamente convocará a la Legislatura a sesión extraordinaria para que erigida en Colegio Electoral haga la elección de gobernador sustituto, quien habrá de concluir el período; y
-
-IV.- Si al iniciar el periodo constitucional no se presentare el gobernador electo, o la elección no estuviese hecha o declarada, cesará sin embargo el gobernador cuyo periodo haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de gobernador interino el que designe la Legislatura, o en su falta el que designe le Diputación Permanente con el carácter de provisional, procediéndose luego conforme a la fracción I de éste artículo.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-###### ARTICULO 55°.
-
-El Gobernador del Estado, cualquiera que sea su denominación: interino, provisional o sustituto, al tomar posesión del cargo rendirá ante la Legislatura o ante la Diputación Permanente, según el caso, la siguiente protesta:
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y todas las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido por el bien y prosperidad de la República y de esta Entidad Federativa".
+
+> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 "Si así no lo hiciere, que el Estado y la Nación me lo demanden".
 
@@ -765,7 +831,9 @@ III.- Preservar el orden, la tranquilidad y la seguridad social de los habitante
 
 IV.- Rendir anualmente un informe ante la Legislatura sobre el Estado que guarde la administración pública;
 
-V.- Excitar a la Diputación Permanente a que convoque a la Legislatura a sesiones extraordinarias, señalando el asunto o asuntos que habrán de tratarse;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+V. Excitar a la Comisión Permanente a que convoque a la Legislatura a sesiones, señalando el asunto o asuntos que habrán de tratarse, de acuerdo a la Ley.
 
 VI.- Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo cuyo nombramiento o remoción no estén determinados en esta Constitución o en las Leyes;
 
@@ -881,6 +949,30 @@ VI. A los ciudadanos en los términos previstos en la Ley.
 
 Cuando vaya a discutirse un proyecto de Ley, la Legislatura podrá solicitar al Titular del Ejecutivo, al Tribunal Superior de Justicia, a los Ayuntamientos o al Consejo General del Instituto Electoral de Querétaro, que envíen un representante para que intervenga en los debates.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 35º.
+
+El procedimiento a que se someterán las iniciativas de ley o decreto será el siguiente:
+
+I. Recibida una iniciativa de ley o decreto por la Legislatura, el Presidente ordenará su lectura ante el Pleno y lo turnará, para su estudio y dictamen, a la comisión de dictamen respectiva;
+
+II. La Comisión que conozca, emitirá por escrito el dictamen que proceda dentro del plazo que señala esta Ley, mismo al que se le dará lectura ante el Pleno;
+
+III. En caso de que el dictamen proponga adecuaciones a una iniciativa, el Presidente ordenará a un Secretario, la notificación inmediata de tal dictamen al autor de la misma para que si así desea hacerlo presente por escrito, antes de la siguiente sesión de la H. Legislatura, las consideraciones que le convengan;
+
+IV. En la sesión siguiente a la lectura del dictamen, el Presidente de la Mesa Directiva, ordenará en caso que existan consideraciones del autor de la iniciativa en los términos de la fracción que antecede, la lectura de estas para conocimiento del pleno y someterá por medio de un Secretario a discusión el dictamen de referencia, agotada la cual, lo someterá a votación nominal. Cuando lo acuerde el Pleno, podrá someterse a discusión y a votación un dictamen en la misma sesión en la que se le dio lectura;
+
+V. Aprobado un proyecto en el Pleno de la H. Legislatura se remitirá al Ejecutivo quien, si no tuviere observaciones que hacer, lo publicará inmediatamente;
+
+VI. Si la iniciativa es rechazada, el Presidente ordenará comunicar por escrito esta circunstancia a quienes lo hubieran presentado con las observaciones correspondientes;
+
+VII. Se reputará aprobado por el Poder Ejecutivo toda ley o decreto no devuelto con observaciones a la H. Legislatura, dentro de los diez días hábiles siguientes a la comunicación que se señala en la fracción que antecede;
+
+VIII. El Poder Ejecutivo, podrá rechazar la publicación de una ley o decreto, devolviéndola con observaciones a la H. Legislatura, y se someterá de nueva cuenta al procedimiento legislativo, requiriéndose para su aprobación el voto de la mayoría de sus miembros, en cuyo caso el Poder Ejecutivo estará obligado a su promulgación y publicación;
+
+IX. Si una iniciativa de ley es rechazada en todo o en parte, no podrá presentarse nuevamente sino hasta un nuevo periodo ordinario de sesiones.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ### CAPITULO TERCERO. DEL PODER JUDICIAL
@@ -939,7 +1031,13 @@ El Tribunal funcionará en pleno o en salas con los magistrados propietarios o c
 
 Los magistrados durarán en el ejercicio de su cargo tres años, podrán ser reelectos u, si lo fueren, sólo pueden ser removidos de sus funciones en los términos que prescribe el Título Séptimo de esta Constitución.
 
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 68º.
+
+Los Magistrados elegidos sea como propietarios o como supernumerarios, al entrar a ejercer su cargo, deberán otorgar la protesta de ley ante la Legislatura o ante la Comisión Permanente cuando aquella no se encuentre en período ordinario de sesiones. Durante su ejercicio percibirán una remuneración adecuada a sus funciones que será irrenunciable y no podrá ser disminuida.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
 
 ###### ARTICULO 69º.
 
@@ -1051,6 +1149,10 @@ Desechada una iniciativa no podrá volver a presentarse en el mismo periodo de s
 
 Se reputará aprobado por el Ejecutivo todo proyecto de ley o decreto no devuelto con observaciones a la Legislatura, dentro de diez días hábiles.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+La Ley Orgánica del Poder Legislativo y las disposiciones reglamentarias de éste, no requerirán la promulgación, ni publicación del Poder Ejecutivo.
+
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 37°.
@@ -1081,17 +1183,11 @@ Las votaciones de las leyes o decretos serán siempre nominales.
 
 En la interpretación, reforma, adición o derogación de una ley o decreto se observarán los mismos trámites establecidos para su formación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
-###### ARTICULO 39º.
+A la H. Legislatura le corresponde declarar sobre la naturaleza de sus resoluciones, cuando se dudare de ella.
 
-El Ejecutivo del Estado, no puede hacer observaciones a las resoluciones de la Legislatura, cuando realice alguna de las atribuciones que le concede el Título Séptimo de esta Constitución.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
-
-Tampoco podrá hacer observaciones a los decretos o convocatorias de periodo extraordinario de sesiones de la Legislatura y para celebrar elecciones.
-
-> <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO TERCERO. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
@@ -1156,6 +1252,16 @@ Los regidores por los principios de mayoría relativa y de representación propo
 ###### ARTICULO 81.
 
 La determinación del número de los regidores en cada ayuntamiento se basará en factores geográficos, demográficos y socioeconómicos de cada municipio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+###### ARTICULO 82º.
+
+Las faltas temporales del Presidente serán suplidas por el regidor propietario que nombre el mismo ayuntamiento. Las faltas absolutas ocurridas en el primer año serán suplidas interinamente por el regidor que designe el ayuntamiento, debiendo la Legislatura o la Comisión Permanente, en su caso, convocar a elecciones para cubrir la vacante.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1991)</small>
+
+Si la falta absoluta ocurriere del segundo año en adelante, el ayuntamiento elegirá de entre los regidores propietarios al que deba desempeñar la presidencia hasta terminar el periodo municipal.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1421,7 +1527,9 @@ La Legislatura del Estado, al discutir reformas a la Constitución, se sujetará
 
 Si transcurrieren más de treinta días naturales después de que los ayuntamientos recibieron la propuesta de reformas para su consideración y, en su caso, aprobación, sin que la Legislatura reciba el acuerdo municipal respectivo, se entenderá que las reformas quedan aprobadas.
 
-La Legislatura, o la Diputación Permanente en su caso, hará el cómputo de los votos emitidos por los ayuntamientos y expedirá de inmediato la declaratoria que corresponda.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1997)</small>
+
+La Legislatura, o la Comisión Permanente en su caso, hará el cómputo de los votos emitidos por los ayuntamientos y expedirá de inmediato la declaración que corresponda.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1443,11 +1551,11 @@ Esta Constitución no perderá su fuerza y su vigor aun cuando por cualquier cau
 
 Cuando se declaren desaparecidos los Poderes Legislativo y Ejecutivo del Estado, los magistrados del Tribunal Superior de Justicia, por mayoría de votos, nombrarán gobernador provisional. Si desaparecieren los tres poderes, será gobernador por ministerio de ley el último Presidente del Tribunal Superior de Justicia; a falta de éste, y en orden regresivo, los diputados presidentes de la Legislatura anterior a la desconocida.
 
-###### ARTICULO 39°.
+###### ARTICULO 39.
 
-El Ejecutivo del Estado no puede hacer observaciones a las resoluciones de la Legislatura cuando ésta ejerza funciones de colegio electoral o cuando realice alguna de las atribuciones que le concede el Título Séptimo de ésta Constitución.
+El Ejecutivo del Estado, no puede hacer observaciones a las resoluciones de la Legislatura, cuando realice alguna de las atribuciones que le concede el Título Séptimo de esta Constitución o cuando se trate de la Ley Orgánica de la H. Legislatura y las disposiciones reglamentarias sobre su funcionamiento.
 
-Tampoco podrá hacer observaciones a los decretos o convocatorias de periodo extraordinario de sesiones de la Legislatura y para celebrar elecciones.
+Tampoco podrá hacer observaciones a los decretos o convocatorias de período de sesiones de la Legislatura y para celebrar elecciones.
 
 > <small>(REFORMADO, P. O. 3 DE ENERO DE 1991)</small>
 
@@ -1908,3 +2016,17 @@ P.O. 12 DE SEPTIEMBRE DE 1996
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 19 DE SEPTIEMBRE DE 1997
+
+###### ARTICULO PRIMERO
+
+Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación el (sic) periódico oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO
+
+Quedan derogadas las disposiciones que contravengan a las presentes reformas, adiciones y derogaciones.
+
+###### ARTICULO TERCERO
+
+Para efecto de las presentes reformas, adiciones y derogaciones, será necesaria la expedición de la reglamentación correspondiente, entendiéndose que no tienen un carácter auto aplicativo.
