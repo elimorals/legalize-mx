@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1996-12-28"
+last_updated: "1997-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -503,9 +503,9 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad con lo
 
 ### CAPITULO QUINTO. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
+#### SECCION SEGUNDA. DE LA BASE, CAUSACION, TASA Y PAGO DEL IMPUESTO
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -515,9 +515,13 @@ Es objeto de este impuesto:
 
 I. La organización o celebración de loterías, rifas, sorteos y concursos de todas clases, aún cuando no se cobre cantidad alguna para tener derecho a participar en ellos;
 
-II. La recepción por registro y la obtención de ingresos o premios derivados de rifas o sorteos, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención de ingresos, se encuentren y/o celebren fuera del territorio estatal; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1997)</small>
 
-III. La obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado.
+II. La obtención de ingresos o premios derivados de rifas o sorteos, que hayan sido cobrados en el territorio estatal, independientemente que el organizador y el evento mismo de cuyo resultado dependa la obtención de los ingresos, se encuentren y/o celebren fuera del territorio del Estado; y
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1997)</small>
+
+III. La obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que hayan sido cobrados en el territorio del Estado.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -525,15 +529,21 @@ III. La obtención de ingresos o premios derivados de loterías, rifas, sorteos 
 
 Son sujetos de este impuesto en forma solidaria:
 
-I. Las personas físicas, morales o unidades económicas sin personalidad jurídica que obtengan ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo, cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en los eventos haya sido enajenado en el territorio del Estado. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto les deberán retener el impuesto que se cause;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1997)</small>
+
+I. Las personas físicas y jurídicas colectivas que obtengan ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo, que hayan sido cobrados en el territorio del Estado.
+
+Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, les deberán retener el correspondiente al momento de efectuar el pago;
 
 II. Las personas físicas, morales o unidades económicas sin personalidad jurídica, que organicen o celebren loterías, rifas, sorteos y concursos de todo tipo; y
 
-III. Las personas físicas, morales o unidades económicas sin personalidad jurídica que reciban para registro y en su caso, obtengan ingresos o premios derivados de rifas o sorteos en los términos del punto que antecede, cuando el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso o premio, se encuentren o se celebren fuera del territorio estatal.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1997)</small>
+
+III. Las personas físicas y jurídicas colectivas que obtengan ingresos o premios derivados de rifas o sorteos derivados del punto que antecede, independientemente que el organizador y el evento mismo de cuyo resultado dependerá la obtención del ingreso o premio, se encuentren o se celebren fuera del territorio del Estado.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. DE LA BASE, CAUSACION, TASA Y PAGO DEL IMPUESTO
+#### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -545,25 +555,31 @@ I. Para los sujetos que organicen o celebren la lotería, rifa, sorteo o concurs
 
 Cuando los comprobantes que permitan participar en cualquiera de los eventos objeto de este impuesto, sean de tipo gratuito o no se cobre cantidad alguna para tener derecho a participar en ellos, servirá de base del impuesto, el valor con el que se promocione cada uno de los ingresos o premios; en su defecto, el de facturación y en ausencia de ambos, el de avalúo comercial;
 
-II. Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado será el valor determinado o determinable que se obtenga.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1997)</small>
+
+II. Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo, cobrados en el territorio del Estado, será el valor determinado o determinable que se obtenga.
 
 Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
 
-Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento corresponde al objeto del impuesto;
+Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento corresponde al objeto del impuesto.
+
+No se considera como premio el reintegro correspondiente al billete que permitió participar en loterías, rifas, sorteos y concursos de todas clases;
 
 III. Este impuesto se causa:
 
 a) Para los sujetos que organicen o celebren la lotería, rifa, sorteo o concurso de todo tipo en el momento en que se entregue a los participantes los boletos, billetes, contraseñas o cualquier otro tipo de comprobante que permita participar en cualquiera de los eventos señalados como objeto del impuesto;
 
-b) Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo y cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado, en el momento que los ingresos o premios sean pagados o entregados.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1997)</small>
 
-Los sujetos que organicen o celebren el evento que dé origen al pago del impuesto, incluyendo los exentos, deberán retener el impuesto que se genere por la obtención de ingresos o premios, enterándolo en su caso conjuntamente con el que les corresponda por su propia actividad.
+b) Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo, cobrados en el territorio del Estado.
+
+Los sujetos que organicen o celebren el evento que de origen al pago del impuesto, incluyendo los exentos, deberán retener el impuesto que se genere por la obtención de ingresos o premios, enterándose en su caso, conjuntamente con el que les corresponda por su propia actividad.
 
 IV. Sobre la base gravable, se aplicará la tasa del 6%, quienes entreguen los premios a que se refiere este capítulo tendrán la obligación de efectuar la retención de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto; y
 
 V. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes siguiente a aquél al que corresponda el pago, presentándose la declaración aprobada en la Receptoría de Rentas que corresponda. Dicho pago se entenderá definitivo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -1236,6 +1252,12 @@ P.O. 30 DE DICIEMBRE DE 1995.
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 P.O. 28 DE DICIEMBRE DE 1996.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 10 DE MAYO DE 1997.
 
 ###### ARTÍCULO ÚNICO.
 
