@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1992-11-22"
+last_updated: "1992-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1992.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -689,7 +689,9 @@ ART. 56.- Son facultades y obligaciones del Gobernador del Estado, las siguiente
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-II.- Nombrar y remover libremente a los Secretarios del Despacho, al Procurador General de Justicia, al Tesorero General del Estado y a los demás Servidores Públicos del Estado, cuyo nombramiento o remoción no estén atribuídos expresamente por Ley a otra autoridad.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1992)</small>
+
+II.- Nombrar y remover libremente a los Secretarios del Despacho, al Procurador General de Justicia y a los demás Servidores Públicos del Estado, cuyo nombramiento o remoción no estén atribuidos expresamente por la Ley a otra autoridad.
 
 III.- Nombrar, con aprobación del Congreso, Magistrados del Supremo Tribunal de Justicia en el Estado que durarán en su cargo el término a que alude el artículo 68 de esta Constitución, plazo que se verá reducido en los casos de responsabilidad cuando amerite la separación o remoción anticipada.
 
@@ -721,7 +723,11 @@ XV.- Impedir los abusos de la fuerza armada y de vigilancia en el Estado.
 
 XVI.- Determinar, en casos urgentes e imprevistos, las medidas que juzguen necesarias para preservar la tranquilidad pública en el Estado, dando cuenta inmediata al Congreso, o en su receso a la Comisión Permanente.
 
-XVII.- Las demás que esta Constitución le confiere expresamente.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1992)</small>
+
+XVII.- Presentar a la Legislatura del Estado, a más tardar el 1o. de diciembre de cada año, las correspondientes iniciativas de Leyes de Ingresos y del presupuesto de Egresos para el siguiente Ejercicio Fiscal.
+
+XVIII.- Las demás que esta Constitución le confiere expresamente.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1984)</small>
 
@@ -749,9 +755,11 @@ ART. 58.- El Gobernador Provisional, nombrado en el caso de desaparición de Pod
 
 ### CAPITULO DECIMO SEGUNDO. Del Despacho del Ejecutivo
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 59.- Para el despacho de los negocios de la Administración Pública del Estado, el Jefe del Ejecutivo será auxiliado por los Secretarios del Despacho que la función administrativa requiera.
+ART. 59.- Para el despacho de los negocios de la administración pública, el Gobernador del Estado se auxiliará con las Dependencias y Entidades que prevea la Ley Orgánica de la Administración Pública.
+
+Esta Ley asignará las atribuciones de cada una de las Dependencias; definirá las bases generales para la creación de Entidades Paraestatales, así como la intervención del Ejecutivo en su operación. Complementariamente, los Reglamentos Interiores de las Dependencias detallarán su organización, funcionamiento y atribuciones específicas.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -789,13 +797,15 @@ El Gobernador Interino podrá ser electo por el Congreso como Substituto.
 
 ART. 62.- El Poder Judicial del Estado se depositará en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores, Alcaldes y Jueces Auxiliares conforme lo disponga esta Constitución y en los términos que establezca la ley orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 63.- El Supremo Tribunal de Justicia se compondrá de diez Magistrados, nombrados por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso, no podrán tomar posesión los Magistrados del Supremo Tribunal nombrados por el Gobernador del Estado. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador del Estado hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de dicho Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, el Congreso, deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisional continuará en sus funciones con carácter definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados anteriormente.
+ART. 63.- El Supremo Tribunal de Justicia, se compondrá por 13 Magistrados, nombrados por el Gobernador del Estado y sometidos a la aprobación de la Legislatura Local, el que sancionará o negará dentro del improrrogable término de diez días si no existe resolución en ese plazo, se tendrán por aceptados los nombramientos. Sin la aprobación de la Legislatura no podrán tomar posesión los Magistrados del Supremo Tribunal de Justicia, propuestos por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1987)</small>
+Para el caso de que el Congreso no apruebe la propuesta hecha, el Gobernador hará nuevo nombramiento que surtirá desde luego sus efectos como provisional y se someterá a la aprobación en el siguiente periodo ordinario de Sesiones. En el mismo y dentro de los diez días, el Congreso deberá aprobar o desechar ese nombramiento, cesando en sus funciones el Magistrado Provisional. El Gobernador del Estado, tendrá la facultad de proponer al Congreso nuevo nombramiento, en los términos señalados con anterioridad.
 
-ART. 64.- Para suplir las faltas de los Magistrados Propietarios, se nombrarán al mismo tiempo y en iguales términos que éstos, diez Magistrados Supernumerarios, que entrarán a funcionar en el orden de su nombramiento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
+
+ART. 64.- Para suplir las faltas de los Magistrados Propietarios, se nombrarán al mismo tiempo y en iguales términos a trece Magistrados Supernumerarios, que entrarán a ejercer sus funciones en el orden de su nombramiento.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1115,29 +1125,27 @@ ART. 91.- Los cargos municipales serán gratuitos en general; pero podrán ser r
 
 ### CAPITULO DECIMO NOVENO. De la hacienda pública
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 92.- La hacienda pública se compondrá de los bienes y derechos que pertenezcan al Estado y de las rentas y contribuciones que se decreten.
+ART. 92.- La Hacienda Pública del Estado se integra con las contribuciones que decretan las Leyes Fiscales Estatales, con las participaciones de ingresos federales que establezcan las Leyes y Convenios de Coordinación, con las donaciones y legados que se hicieren en su favor, así como por los bienes muebles e inmuebles que le pertenezcan.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 93.- La ley determinará la forma en que deba hacerse la recaudación de las rentas públicas, así como la planta de empleados de las oficinas de hacienda.
+ART. 93.- La Ley determinará la forma en que deba hacerse la recaudación de los ingresos públicos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 94.- La correspondiente oficina de hacienda, hará los pagos de sueldos y gastos del Estado, con arreglo a la ley egresos que la Legislatura decrete para cada año fiscal.
+ART. 94.- La Secretaría de Finanzas, efectuará los pagos que corresponda hacer el Estado, de conformidad con la Ley del Presupuesto de Egresos que la Legislatura Local decreta para cada Ejercicio Fiscal.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 95.- La Tesorería General del Estado remitirá, para su glosa, al contador de que habla la fracción XXII del artículo 34°, sus cuentas, a más tardar a los tres meses de verificada la recaudación e inversión; y la Contaduría de Glosa las presentará glosadas al Congreso para su aprobación, cuando más tarde, el día quince de mayo de cada año.
+ART. 95.- La Secretaría de Finanzas, previo acuerdo del Titular del Poder Ejecutivo, remitirá a la Legislatura del Estado a más tardar el 30 de abril, la cuenta pública correspondiente al ejercicio fiscal anterior, para su glosa y aprobación, en su caso.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 96.- No se hará pago alguno que no esté expresamente ordenado por la ley.
+ART. 96.- No se hará pago alguno que no esté previsto en la Ley de Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
-
-ART. 97.- Una ley determinará la organización, planta y dotación de las oficinas de hacienda del Estado.
+ART. 97.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1992)
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1193,17 +1201,9 @@ III.- Se aplicarán sanciones administrativas a los Servidores Públicos por los
 
 Se concede acción popular para denunciar los supuestos anteriores.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-ART. 103.- Podrán ser sujetos de juicio político en el Estado, los Diputados, Magistrados, Secretarios del Despacho, Procurador General de Justicia, Tesorero General del Estado, Oficiales Mayores, Directores Generales o sus equivalentes de las Dependencias y Organismos Estatales, así como los Presidentes Municipales, Regidores y Síndicos.
-
-Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
-
-El Congreso del Estado aplicará las sanciones a que se refiere este precepto, previa declaración de procedencia emitida por las dos terceras partes de sus miembros, después de haber substanciado el procedimiento respectivo con audiencia del inculpado.
-
-En los casos a que se refiere el segundo párrafo del Artículo 110 de la Constitución Federal, recibidas las constancias por el Congreso y previa la integración de cualquier otro elemento que se considere necesario, procederá a imponer la sanción correspondiente, aplicando para ello las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos y en los términos del párrafo anterior. Tratándose del Gobernador del Estado, se actuará como lo dispone el Artículo 105 de esta Constitución.
-
-Las declaraciones y resoluciones del Congreso no son recurribles.
+ART. 103.- Podrán ser sujetos de juicio político en el Estado, los Diputados, Magistrados, Secretarios de Despacho, Procurador General de Justicia, Subsecretarios, Directores Generales o sus equivalentes de las Dependencias y Entidades paraestatales, así como los Presidentes Municipales, Regidores y Síndicos.
 
 (REFORMADO, P.O. 24 DE ENERO DE 1984) (F. DE E., P.O. 3 DE JULIO DE 1984)
 
@@ -1474,3 +1474,35 @@ P.O. 22 DE NOVIEMBRE DE 1992.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se haya cumplido el trámite especial a que se refiere el Artículo 120 de la propia Constitución Política.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 576.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma deberá remitirse a los Ayuntamientos para que la aprueben con el Quórum que señala el Artículo 120 Constitucional.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado una vez que se haya cumplido con los trámites y procedimientos señalados en el Artículo 120 de la propia Constitución.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1992.
+
+DECRETO NUMERO 577.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma deberá remitirse a los Ayuntamientos para que la aprueben con el Quórum que señala el Artículo 120 Constitucional.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se haya cumplido con los trámites y procedimientos señalados en el Artículo 120 de la propia Constitución.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley Orgánica de la Tesorería General del Estado, reglamentaria de los artículos 95 y 97 de la Constitución Política del Estado, establecida en 1962, así como las demás disposiciones que se opongan al presente Decreto.
