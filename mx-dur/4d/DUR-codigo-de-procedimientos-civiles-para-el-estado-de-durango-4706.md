@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "1994-07-17"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -3227,97 +3227,137 @@ Procede también la acción ejecutiva para recuperar, bajo las mismas condicione
 
 Para que procedan en vía ejecutiva las acciones a que se refieren los artículos que preceden se necesita que los contratos se hayan registrado como lo previene el Código Civil.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ### CAPITULO III.
 
-Del juicio hipotecario.
+Del Juicio Especial Hipotecario.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1982)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994) (F. DE E., P.O. 19 DE FEBRERO DE 1995)
 
 ###### ARTICULO 462.
 
-Se tratará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, aplicación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+El Juicio Hipotecario es un procedimiento especial que tiene por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación o bien el pago o prelación del crédito que la hipoteca garantice.
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura debidamente registrada y que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido de los artículos 1840 y 2785 del Código Civil.
+Para que el Juicio que tenga por ejemplo el pago o la prelación de un crédito hipotecario se siga según las reglas del presente Capítulo, es requisito indispensable que la garantía conste en Escritura debidamente registrada y que el plazo de pago se haya cumplido, o que deba anticiparse conforme a lo previsto en los Artículos 1840 y 2785 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 462 BIS.- Cuando se entable pleito entre los que contrataron la hipoteca, procederá el juicio hipotecario sin necesidad del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 463.
 
-Cuando se entable pleito entre los que contrataron la hipoteca procederá el juicio hipotecario sin necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor del tercero.
+Presentado el escrito de demanda acompañado del instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, ordenará la expedición de la cédula hipotecaria y su inscripción en el Registro Público de la Propiedad, y mandará se corra traslado de la demanda al deudor para que dentro del término de cinco días ocurra a contestarla. En la contestación de demanda el deudor podrá oponer excepciones que no podrán ser otras que las de pago, de contrato no cumplido, novación, nulidad, de quita o de espera que consten por escrito, incompetencia, litispendencia, conexidad o de cosa juzgada. Las tres últimas solamente se admitirán si se exhiben con la contestación las copias selladas de la demanda, o de la contestación de demanda o, tratándose de la litispendencia y conexidad, de las cédulas de emplazamiento del juicio primeramente promovido; en el caso de la cosa juzgada se deberá acompañar como prueba, copia de la sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1982)</small>
+La personalidad de los promoventes se analizará de oficio por el Juez. Las excepciones que se opongan no suspenderán el procedimiento y se resolverán de plano en la audiencia de Ley. No procederá la reconvención de este Juicio.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 464.
 
-Presentado el escrito de la demanda, acompañado del instrumento respectivo, el juez si encuentra que se reúnen los requisitos fijados por los artículos anteriores, ordenará la expedición y registro de la cédula hipotecaria y mandará se corra traslado de la demanda al deudor para que dentro del término de cinco días ocurra a contestarla y a oponer las excepciones que tuviere, continuándose con los trámites de juicio ordinario;
+Tanto en la demanda como en la contestación de demanda deberán las partes plantear la controversia y ofrecer todas sus pruebas. El Juez resolverá sobre la admisión de pruebas en el auto que recaiga a los escritos en que se ofrezcan, las que deberán desahogarse en la audiencia de ley la que deberá tener lugar en un término no mayor de 30 días.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-La vía hipotecaria se estimará consentida, si no fuere impugnada mediante recurso de apelación que se haga valer contra el auto admisorio de la demanda y el que procederá en el efecto devolutivo.
+ARTICULO 464 BIS.- Las partes deberán ofrecer pruebas de su acción o de sus excepciones y defensas en los términos del Artículo 464 de este Código, exhibiendo los documentos que tengan en su poder o la copia sellada, solicitando los documentos que no tuvieran en los términos de los Artículos 96 y 97 de este Ordenamiento.
+
+La preparación de las pruebas quedará a cargo de la parte oferente, por lo que en el acto de la audiencia, deberá presentar testigos, peritos y demás pruebas que le hayan sido admitidos y solamente en caso que demuestre fehacientemente al Juez la imposibilidad de preparar el desahogo de algunas de las pruebas que le fueron admitidas, éste, bajo su más estricta responsabilidad auxiliará al oferente expidiendo los oficios y citaciones que corresponda y nombrará perito tercero en discordia en caso de ser necesario, cuyos honorarios deberán ser cubiertos por las partes en porcentajes iguales. Lo anterior a efecto de preparar las pruebas y desahogarse en los términos del párrafo siguiente a más tardar en la audiencia de ley.
+
+Si llamado a un testigo, perito o solicitado un documento que haya sido ofrecido y admitido como prueba, no se desahogan éstos en el momento de celebrarse la audiencia de ley, no obstante el auxilio del juzgado para su obtención por causas imputables al oferente, se declarará desierta la prueba ofrecida.
+
+El juez deberá estar presente en la audiencia, la que se iniciará resolviendo los incidentes que hubieren, desahogará las pruebas admitidas y que procesalmente se puedan desahogar. Las que no estuvieren preparadas por culpa de los oferentes se declararán desiertas, por lo que la audiencia no se suspenderá ni habrá diferimientos de ésta en ningún caso, por falta de preparación.
+
+Desahogadas las pruebas, las partes podrán alegar, debiendo hacerlo por escrito, lo que a su derecho convenga y el Juez dictará la resolución que corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 465.
 
-Si en el título con que se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios anteriores, el juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la Ley.
+Los incidentes no suspenderán el procedimiento, se tramitarán cualesquiera que sea su naturaleza, con un escrito de cada parte, y tres días para resolver. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que verse, y se citará para audiencia indiferible dentro del término de ocho días, en que se reciba, se oigan brevemente las alegaciones, y se cite para sentencia interlocutoria que deberá pronunciarse dentro de los ocho días siguientes, y la resolución se dictará conjuntamente con la sentencia definitiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 466.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+Si en el Título con que se ejercita un acción hipotecaria se advierte que haya otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que usen de sus derechos conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 466 BIS.- La cédula hipotecaria contendrá una relación suscinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca..... de la propiedad de..... a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practiquen en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor).
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 467.
 
-La cédula hipotecaria contendrá una relación suscinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca . ……………………………………………………………………….. de la propiedad de……………………………………….. a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor).
+La cédula hipotecaria se inscribirá en el Registro Público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula: Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 468.
 
-La cédula hipotecaria se inscribirá en el Registro Público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula.- Una copia quedará en el Registro y la otra, ya registrada, se agregará a los autos.
+Si la finca no se halla en el lugar del juicio, se librará exhorto al Juez de la ubicación, para que ordene el registro de la cédula, como se previene en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 469.
 
-Si la finca no se haya en el lugar del juicio, se librará exhorto al Juez de la ubicación, para que ordene el registro de la cédula como se previene en el Artículo anterior.
+Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 470.
 
-Desde el día en que se registró la cédula hipotecaria, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos siempre que lo pida el acreedor.
+El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor depositario que éste nombre.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 471.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+El secuestro de la fina hipotecada se regirá por las disposiciones relativas al Capítulo V de este Título, debiendo quedar el deudor en posesión de la finca cuando habite en ella en calidad de depositario.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 472.
 
-El secuestro de la finca hipotecaria se regirá por lo dispuesto en el capítulo V de este titulo.
+Inscrita la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en la fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 473.
 
-Expedida la cédula hipotecaría, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho.
+El valor del bien para efectos del remate del bien hipotecado será el que determine la institución de crédito que señalen las partes en la constitución de la hipoteca o en defecto de ésta, la institución de crédito que señale el Juez.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 473 BIS.- El recurso de apelación en su caso sólo será admitido en el efecto devolutivo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 474.
 
-Para el avalúo de la finca se observará lo prevenido en el capitulo V, sección cuarta del titulo sexto; pero si el demandado no hace el nombramiento dentro del tercer día de notificada la demanda puede el actor exigir que se pida certificado a la Oficina de Contribuciones o al Catastro del valor del bien hipotecado, valor que servirá de base para el remate. Si en la Oficina de Contribuciones o en el Catastro no hubiere la constancia respectiva el juez hará el nombramiento que correspondía hacer al demandado.
+Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 475.
 
-La sentencia ordenará el remate de los bienes hipotecarios para que con su producto se haga el pago al actor si en la misma se declara que el demandante probó la acción hipotecaria y en caso de que resolviere no haber lugar al juicio hipotecario, se reservarán al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+Si el superior revoca al fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al Juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria en el Registro Público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el Juez, que no podrá exceder de treinta días: Si el remate se hubiere ya verificado, se hará efectiva la fianza en vía de apremio.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 476.
 
-Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria en el Registro Público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el Juez, que no podrá exceder de treinta días. Si el remate se hubiere ya verificado, se hará efectiva la fianza en la vía de apremio.
+En el caso previsto en el segundo párrafo del Artículo 2794 del Código Civil, no habrá lugar a la venta judicial, pero si habrá avalúo del precio que corresponda a la cosa en el momento de exigirse el pago. La venta se hará de la manera que se hubiere convenido; y a falta de convenio, por medio de corredores. El deudor puede oponerse a la venta alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+También puede oponerse a la venta los hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 477.
 
-En el caso previsto en el segundo párrafo del Artículo 2794 del Código Civil no habrá lugar al juicio, ni a las almonedas ni a la venta judicial, pero si habrá avalúo del precio que corresponda a la cosa en el momento de exigirse el pago, la venta se hará de la manera que se hubiere convenido, y a falta de convenio, por medio de corredores. El deudor puede oponerse a la venta alegando las excepciones que tuviere y esta oposición se substanciará en la vía incidental.
-
-También pueden oponerse a la venta, los hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+Cuando las partes no hayan acordado en el momento de la constitución de la hipoteca, la institución de crédito que deba hacer el avalúo que servirá de base del remate, el Juez designará la institución de crédito que deba hacerlo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1982)</small>
 
@@ -6820,3 +6860,7 @@ El presente decreto entrará en vigor el día 1º de Septiembre de 1994.
 ###### ARTICULO SEGUNDO.
 
 Todos los procedimientos y recursos relacionados con la materia de que se trata, que en cualquier instancia estén pendientes de resolución al inicio de la vigencia de este Decreto, se sujetarán a lo que establecían las disposiciones correspondientes antes de las presentes reformas y adiciones.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
