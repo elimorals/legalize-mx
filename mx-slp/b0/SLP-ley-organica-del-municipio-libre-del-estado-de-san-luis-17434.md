@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2003-12-05"
+last_updated: "2003-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1225,7 +1225,9 @@ II. Gobernación;
 
 III. Policía Preventiva, Vialidad y Transporte;
 
-IV. Salud Pública y Asistencia Social;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+IV. Salud Pública;
 
 V. Alumbrado y Obras Públicas;
 
@@ -1243,9 +1245,17 @@ XI. Comercio, Anuncios y Espectáculos;
 
 XII. Desarrollo Rural y Asuntos Indígenas;
 
-XIII. Cultura, Recreación y Deporte, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
-XIV. Servicios.
+XIII. Cultura, Recreación y Deporte;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+XIV. Servicios, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+XV. De Atención a Grupos Vulnerables.
 
 ###### ARTICULO 90.
 
@@ -2034,3 +2044,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 5 DE DICIEMBRE DE 2003.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
