@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-pensiones-civiles-del-estado-de-tlaxcala-8578"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-25"
-last_updated: "1984-10-24"
+last_updated: "1985-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 25 de enero de 1984.
 
@@ -631,6 +631,12 @@ En lo no previsto por esta Ley se estará a lo dispuesto en su Reglamento y se t
 
 El Tribunal de Conciliación y Arbitraje del Estado será la autoridad competente para resolver cualquier conflicto que se presente por la interpretación y aplicación de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE AGOSTO DE 1985)</small>
+
+###### ARTICULO 84.
+
+La Contraloría del Ejecutivo será el órgano de vigilancia e implantará las medidas administrativas y los sistemas efectivos de control de gestión y fiscalización; así mismo, ejercerá las demás facultades que le correspondan conforme a los ordenamientos legales aplicables.
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1o.
@@ -688,3 +694,9 @@ Los juicios que se estén tramitando ante el Tribunal de Arbitraje, se sujetará
 ###### ARTICULO SEPTIMO.
 
 A más tardar dentro de los tres meses siguientes a la iniciación de la vigencia de esta Ley, deberán establecerse las Condiciones Generales de Trabajo a que se refiere el artículo diez de la presente Ley; y mientras tanto continuarán vigentes los convenios y contratos colectivos de trabajo que se hayan celebrado en lo que no contravengan a este ordenamiento legal.
+
+P.O. 6 DE AGOSTO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día hábil siguiente a aquél en que se publique en el Periódico Oficial del Gobierno del Estado.
