@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "1995-12-21"
+last_updated: "2004-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -56,7 +56,9 @@ En relación a los créditos fiscales, no se excluyen de la aplicación de esta 
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Acto administrativo: Declaración unilateral de voluntad, externa, concreta y ejecutiva, emanada de la Administración Pública del Distrito Federal, en el ejercicio de las facultades que le son conferidas por los ordenamientos jurídicos, que tiene por objeto, crear, transmitir, modificar o extinguir una situación jurídica concreta, cuya finalidad es la satisfacción del interés general;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+I. Acto Administrativo: Declaración unilateral de voluntad, externa, concreta y ejecutiva, emanada de la Administración Pública del Distrito Federal, en el ejercicio de las facultades que le son conferidas por los ordenamientos jurídicos, que tiene por objeto crear, transmitir, modificar, reconocer o extinguir una situación jurídica concreta, cuya finalidad es la satisfacción del interés general;
 
 II. Administración Pública: Dependencias y entidades que integran a la Administración Central y Paraestatal del Distrito Federal, en los términos de la Ley Orgánica de la Administración Pública del Distrito Federal;
 
@@ -80,7 +82,13 @@ XI. Incidente: Cuestiones que surgen dentro del procedimiento administrativo, qu
 
 XII. Interesado: Particular que tiene un interés legítimo respecto de un acto o procedimiento administrativo, por ostentar un derecho legalmente tutelado;
 
-XIII. Interés legítimo: Derecho de los particulares vinculado con el interés público y protegido por el orden jurídico, que les confiere la facultad para activar la actuación pública administrativa, respecto de alguna pretensión en particular;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XIII. Interés Legítimo: Derecho de los particulares para activar la actuación pública administrativa en defensa del interés público y la protección del orden jurídico;
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2004)</small>
+
+XIII. Bis. Interés Jurídico: Derecho subjetivo de los particulares derivado del orden jurídico, que le confiere facultades o potestades específicas expresadas en actos administrativos, tales como concesiones, autorizaciones, permisos, licencias, registros y declaraciones;
 
 XIV. Interlocutoria: Resolución que se dicta dentro del procedimiento administrativo para resolver algún incidente;
 
@@ -112,9 +120,11 @@ XXVI. Tribunal: Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
 La Administración Pública del Distrito Federal ajustará su actuación a la Ley, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia y eficacia; y deberá abstenerse de comportamientos que impliquen vías de hecho administrativa contrarias a las garantías constitucionales, a las disposiciones previstas en esta Ley o en otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 4o.
 
-La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública del Distrito Federal; excepto en lo siguiente: en lo relativo al Recurso de Inconformidad previsto en esta Ley, que se aplicará a pesar de lo que en contrario dispongan los diversos ordenamientos jurídicos; en lo que respecta a las Visitas de Verificación, las cuales se sujetarán a lo previsto por esta Ley y el Reglamento que al efecto se expida, en las materias que expresamente contemple este último ordenamiento; y en lo referente al procedimiento de revalidación de licencias, autorizaciones o permisos, previsto en el Artículo 35 de esta Ley.
+La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública del Distrito Federal; excepto en lo siguiente: en lo relativo al recurso de Inconformidad previsto en esta Ley, que se aplicará a pesar de lo que en contrario dispongan los diversos ordenamientos jurídicos; en lo que respecta a las Visitas de Verificación, las cuales se sujetarán a lo previsto por esta Ley y el Reglamento que al efecto se expida, en las materias que expresamente contemple este último ordenamiento; y en lo referente al procedimiento de revalidación de licencias, autorizaciones o permisos, así como a las declaraciones y registros previstos en el artículo 35 de esta Ley.
 
 A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código de Procedimientos Civiles para el Distrito Federal, respecto a las instituciones reguladas por esta Ley.
 
@@ -140,7 +150,9 @@ IV. Cumplir con la finalidad de interés público, derivado de las normas juríd
 
 V. Constar por escrito, salvo el caso de la afirmativa o negativa ficta;
 
-VI. El acto escrito deberá indicar la autoridad de la que emane y contendrá la firma autógrafa del servidor público correspondiente;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+VI. El acto escrito deberá indicar la autoridad de la que emane y contendrá la firma autógrafa o electrónica del servidor público correspondiente;
 
 VII. En el caso de la afirmativa ficta, contar con la certificación correspondiente de acuerdo a lo que establece el artículo 90 de esta Ley;
 
@@ -161,6 +173,18 @@ II. En el caso de aquellos actos administrativos que por su contenido tengan que
 III. Tratándose de actos administrativos recurribles, deberá mencionarse el término con que se cuenta para interponer el recurso de inconformidad, así como la autoridad ante la cual puede ser presentado; y
 
 IV. Que sea expedido sin que medie error respecto a la referencia específica de identificación del expediente, documentos o nombre completo de la persona.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 7 Bis.
+
+Las declaraciones, registros y revalidaciones previstos en el artículo 35 de la Ley se considerarán válidos cuando los interesados hayan reunido los requisitos señalados en las normas que los regulan.
+
+En todo caso, se considerarán como elementos de validez de estos actos administrativos los previstos en las fracciones I, III, IV, V y IX del artículo 6, así como contar con el sello y firma del servidor público responsable de la unidad receptora de la autoridad competente y contener en el formato correspondiente la fundamentación aplicable, así como los datos, circunstancias especiales, razones particulares o causas inmediatas que, de acuerdo con dicha fundamentación, deba indicar el interesado. Igualmente, será elemento de validez del acto que el particular se haya conducido con verdad al llenar el formato correspondiente.
+
+Estos actos administrativos deberán contener, además, como requisitos de validez el indicado en la fracción IV del artículo 7 de este capítulo y señalar el lugar y la fecha de su presentación.
+
+No surtirá ningún efecto y se tendrán por no realizadas las declaraciones, registros o revalidaciones cuando el particular reincida en falsedad para satisfacer una misma pretensión.
 
 ### CAPITULO SEGUNDO. DE LA EFICACIA Y EJECUTIVIDAD DEL ACTO ADMINISTRATIVO
 
@@ -196,6 +220,8 @@ Los actos administrativos que requieran de la aprobación de dependencias o enti
 
 El acto administrativo válido es ejecutorio cuando el ordenamiento jurídico aplicable, reconoce a la Administración Pública del Distrito Federal, la facultad de obtener su cumplimiento mediante el uso de medios de ejecución forzosa.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 14.
 
 La ejecución forzosa por la Administración Pública del Distrito Federal, se efectuará respetando siempre el principio de proporcionalidad, por los siguientes medios:
@@ -208,11 +234,29 @@ III. Multa; y
 
 IV. Actos que se ejerzan sobre la persona.
 
-Tratándose de las fracciones I, III y IV, se estará a lo que establezcan las disposiciones legales aplicables.
+Tratándose de las fracciones anteriores, se estará a lo que establezcan las disposiciones legales aplicables, sin perjuicio de las facultades de ejecución directa a que se refieren los artículos 17, 18 y 19 de esta Ley.
 
 Si fueren varios los medios de ejecución admisible, se elegirá el menos restrictivo de la libertad individual.
 
 Si fuere necesario entrar en el domicilio particular del administrado, la Administración Pública del Distrito Federal deberá observar lo dispuesto por el Artículo 16 Constitucional.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 14 Bis.
+
+Procede la ejecución forzosa una vez que se agote el procedimiento respectivo y medie resolución de la autoridad competente en los siguientes casos:
+
+I.- Cuando exista obligación a cargo de los propietarios o poseedores de los predios sobre los que la autoridad competente haya decretado ocupación parcial o total, de retiro de obstáculos que impidan la realización de las obras de utilidad o interés social, sin que las realicen en los plazos determinados.
+
+II.- Cuando haya obligación de demoler total o parcialmente las construcciones que se encuentren en estado ruinoso o signifiquen un riesgo para la vida, bienes o entorno de los habitantes, sin que ésta se ejecute.
+
+III.- Cuando exista la obligación de reparar las edificaciones que así lo requieran de acuerdo con el reglamento de construcciones del Distrito Federal y no se cumpla con ella.
+
+IV.- Cuando los propietarios o poseedores hubieran construido en contravención a lo dispuesto por los programas, siempre que dichas obras se hubieran realizado con posterioridad a la entrada en vigor de los mismos, y no se hicieran las adecuaciones ordenadas, o bien no se procediera a la demolición ordenada en su caso; y
+
+V.- Cuando los propietarios de terrenos sin edificar se abstengan de conservarlos libres de maleza y basura.
+
+El costo de la ejecución forzosa se considera crédito fiscal, en los términos del Código Financiero del Distrito Federal.
 
 ###### Artículo 15.
 
@@ -234,13 +278,35 @@ Cuando el acto que se ejecute directamente fuere invalidado por autoridad compet
 
 También será admisible la ejecución directa por la Administración Pública del Distrito Federal, cuando se trate de obras o trabajos que correspondieran ejecutar al particular; y éste no haya ejecutado dentro del plazo que al efecto le señale la autoridad, que será suficiente para llevar a cabo dichas obras o trabajos, atendiendo a la naturaleza de los mismos. En tal caso deberá apercibirse previamente al propietario, poseedor o tenedor que resultase obligado a efectuar el trabajo, a fin de que exprese lo que a su derecho conviniere, dentro de los cinco días siguientes. Este término podrá ampliarse hasta 15 días en caso de no existir razones de urgencia.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 19.
 
-En caso de no existir causales que excluyan su responsabilidad o vencido el plazo señalado en el artículo 18 de esta Ley sin que hayan ejecutado los trabajos o mediando razones de urgencia, la autoridad competente procederá directamente a la ejecución de los trabajos, con notificación del día y hora en que se realizarán.
+En caso de no existir causales que excluyan su responsabilidad o vencido el plazo señalado en el artículo 18 de esta Ley sin que hayan ejecutado los trabajos, la autoridad practicará diligencias de visita domiciliaria a efecto de constatar la omisión y procederá a realizar directamente la ejecución de los actos.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 19 Bis.
+
+La autoridad administrativa competente, para hacer cumplir sus determinaciones podrá emplear indistintamente, cualquiera de las siguientes medidas de apremio:
+
+I.- Multa, por el equivalente a entre treinta y sesenta días de salario mínimo general vigente en el momento y en el lugar donde se realizó la conducta que motivo el medio de apremio;
+
+II.- Auxilio de la Fuerza Pública, y
+
+III.- Arresto hasta por treinta y seis horas inconmutable.
+
+Si resultaran insuficientes las medidas de apremio se procederá contra el rebelde por el delito de desobediencia y resistencia de particulares.
 
 ###### Artículo 20.
 
-Cuando los trabajos deban realizarse en el domicilio particular del interesado, se deberá recabar previamente la autorización judicial.
+(DEROGADO, G.O. 29 DE ENERO DE 2004)
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 20 Bis.
+
+En los casos de riesgo a la seguridad pública, a la integridad física y salubridad de las personas o mediando razones de urgencia, la autoridad competente procederá directamente a la ejecución de los trabajos.
 
 ###### Artículo 21.
 
@@ -250,9 +316,11 @@ Los gastos de ejecución de los trabajos deberán ser cubiertos por los obligado
 
 En ningún caso el administrado estará obligado a pagar los gastos de ejecución directa, si no se siguió regularmente el procedimiento establecido en el artículo 17 y siguientes o si no mediando razones de urgencia, se confirió un plazo irrazonablemente reducido para realizar las obras.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 23.
 
-El acto que ordene la clausura de un local o establecimiento, podrá también ser ejecutado por la autoridad competente, mediante el auxilio de la fuerza pública, previo cumplimiento del procedimiento establecido en las disposiciones legales aplicables o, en su defecto, del previsto en el Título Tercero de esta Ley.
+El acto que ordene la clausura de un local o establecimiento, así como la ejecución subsidiaria y directa, podrá ser ejecutado por la autoridad competente, mediante el auxilio de la fuerza pública, previo cumplimiento del procedimiento establecido en las disposiciones legales aplicables o, en su defecto, del previsto en el Título Tercero de esta Ley.
 
 ### CAPITULO TERCERO. DE LA NULIDAD, ANULABILIDAD Y REVOCACION DEL ACTO ADMINISTRATIVO
 
@@ -268,9 +336,17 @@ El acto administrativo que se declare jurídicamente nulo será inválido, no se
 
 Los particulares no tendrán obligación de cumplirlo; y los servidores públicos deberán hacer constar su oposición a ejecutar el acto, fundando y motivando tal negativa.
 
-La declaración de nulidad producirá efectos retroactivos.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-En el caso de actos consumados, o bien, de aquellos que, de hecho o de derecho sean de imposible reparación, la declaración de nulidad sólo dará lugar a la responsabilidad del servidor público que lo hubiera emitido u ordenado, en los términos de las disposiciones jurídicas correspondientes.
+En el caso de actos consumados, o bien, de aquellos que, de hecho o de derecho sean de imposible reparación, la declaración de nulidad sólo dará lugar a la responsabilidad del servidor público que lo hubiera emitido u ordenado, en los términos de las disposiciones jurídicas correspondientes, cuando éste sea el caso.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Si las declaraciones, registros y revalidaciones previstos en el artículo 35 de esta Ley contienen omisiones o irregularidades en los elementos de validez, se entenderá que éstas son de estricta responsabilidad del particular, en cuyo caso, la autoridad podrá proceder de oficio a iniciar el procedimiento de nulidad de acto, bajo los supuestos correspondientes, pero quedará a salvo el derecho del particular para intentar un nuevo acto.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+En los supuestos del párrafo anterior, el interesado tendrá el derecho de hacer las rectificaciones que considere pertinentes para resguardar la validez del acto administrativo, siempre que no se haya iniciado el procedimiento de nulidad.
 
 ###### Artículo 26.
 
@@ -284,11 +360,23 @@ El saneamiento del acto anulable por la autoridad competente, tendrá por efecto
 
 El superior jerárquico podrá de oficio reconocer la anulabilidad o declarar la nulidad del acto en vía administrativa, cuando éste no reúna los requisitos o elementos de validez que señala esta Ley. También podrá revocarlo de oficio, cuando sobrevengan cuestiones de oportunidad e interés público previstos en Ley.
 
-Cuando se haya generado algún derecho o beneficio al particular, no se podrá anular de oficio el acto administrativo; y la autoridad competente tendrá que iniciar el procedimiento de lesividad ante el Tribunal, salvo en los casos en que los ordenamientos jurídicos aplicables permitan a la autoridad revocar o anular oficiosamente dichos actos administrativos, o cuando el interesado se haya conducido con dolo, mala fe o violencia para obtener dicha resolución favorable.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+El servidor público responsable del acto administrativo podrá reconocer de oficio su anulabilidad, haciendo del conocimiento de su superior jerárquico el inicio del procedimiento respectivo.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+El procedimiento de declaración de nulidad a que se refiere el quinto párrafo del artículo 25 de esta Ley será iniciado por el servidor público responsable del registro o revalidación, de acuerdo con las condiciones establecidas en las normas correspondientes.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+Cuando se haya generado algún derecho o beneficio al particular, no se podrá anular de oficio al acto administrativo: y la autoridad competente tendrá que iniciar el procedimiento de lesividad ante el Tribunal, salvo en los casos en que los ordenamientos jurídicos aplicables permitan a la autoridad revocar o anular oficiosamente dichos actos administrativos o cuando el interesado se haya conducido con dolo, mala fe o violencia para obtener dicha resolución favorable.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 28.
 
-Cuando se trate de actos favorables al interesado, la autoridad competente podrá ejercitar su acción ante el Tribunal, dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución. En caso de que dichos actos tengan efectos de tracto sucesivo, la autoridad competente podrá demandar la nulidad, en cualquier momento, pero la sentencia que el órgano jurisdiccional administrativo dicte, sólo podrá retrotraer sus efectos hasta los cinco años anteriores a la presentación de la demanda.
+Cuando se trate de actos favorables al interesado, la autoridad competente podrá ejercer su acción ante el Tribunal, dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución. En caso de que dichos actos tengan efectos de tracto sucesivo, la autoridad competente podrá demandar la nulidad, en cualquier momento, pero la sentencia que el órgano jurisdiccional administrativo dicte, sólo podrá retrotraer sus efectos hasta los cinco años anteriores a la presentación de la demanda.
 
 ### CAPITULO CUARTO. DE LA EXTINCION DEL ACTO ADMINISTRATIVO
 
@@ -328,9 +416,11 @@ El procedimiento administrativo podrá iniciarse de oficio o a petición del int
 
 Las manifestaciones, informes o declaraciones rendidas por los interesados a la autoridad competente, se presumirán ciertas salvo prueba en contrario, aun cuando estén sujetas al control y verificación de la autoridad. Si los informes o declaraciones proporcionados por el particular resultan falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de las penas en que incurran aquellos que se conduzcan con falsedad de acuerdo con los ordenamientos legales aplicables. La actuación administrativa de la autoridad y la de los interesados se sujetará al principio de buena fe.
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 33.
 
-Toda promoción deberá ir firmada por el interesado, requisito sin el cual se tendrá por no realizada. Cuando el promovente no sepa o no pueda firmar, firmará otra persona en su nombre y el interesado estampará su huella digital, haciéndose notar esta situación en el propio escrito.
+Toda promoción deberá contener la firma autógrafa o electrónica del interesado, requisito sin el cual se tendrá por no realizada. Cuando el promovente no sepa o no pueda firmar, firmará otra persona en su nombre y el interesado estampará su huella digital, haciéndose notar esta situación en el propio escrito.
 
 ###### Artículo 34.
 
@@ -340,9 +430,21 @@ En los procedimientos administrativos no procederá la gestión oficiosa. Quien 
 
 La Administración Pública del Distrito Federal en los procedimientos y trámites respectivos, no podrá exigir mayores formalidades y requisitos que los expresamente establecidos en los ordenamientos jurídicos de cada materia y en el Manual.
 
-En el caso de revalidación de licencias, autorizaciones o permisos, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgó originalmente la licencia, autorización o permiso de que se trate, no han variado, debiendo acompañar una copia simple de la misma. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a las concesiones.
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
-Los interesados tienen en todo momento el derecho de obtener información sobre los procedimientos y el estado en que se encuentran, así como el acceso a los expedientes que con motivo de sus solicitudes o por mandato legal, formen las autoridades. Así mismo, se les podrán expedir a su costa; y siempre que así lo soliciten, copias y certificaciones de los documentos que obren en los expedientes, previo pago de los derechos que correspondan.
+La normatividad establecerá los casos en que proceda la declaración o registro de manifestación de los particulares, como requisito para el ejercicio de facultades determinadas. En estos casos, el trámite estará basado en la recepción y registro de la manifestación bajo protesta de decir verdad de que se cumple con las normas aplicables para acceder a dicho acto, acompañada de los datos y documentos que éstas determinen, sin perjuicios de que la autoridad competente inicie los procedimientos que correspondan cuando en la revisión del trámite se detecte falsedad. En estos casos, estará obligada a presentar denuncia en el Ministerio Público para la aplicación de las sanciones penales correspondientes.
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
+En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgo u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado, y de las facultades. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a las concesiones.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+###### Artículo 35 Bis.
+
+Los interesados tienen en todo momento el derecho de obtener información sobre los procedimientos y el estado en que se encuentran, así como el acceso a los expedientes que con motivo de sus solicitudes o por mandato legal, formen las autoridades. Así mismo, se les podrán expedir a su costa; y siempre que así lo soliciten, copias y certificaciones de los documentos que obren en los expedientes previo pago de los derechos que correspondan.
 
 Sólo podrá negarse la información o el acceso a los expedientes, cuando se involucren cuestiones relativas a la defensa y seguridad nacional, esté protegida dicha información por el secreto industrial, comercial o por disposición legal; o porque el solicitante no sea el titular o causahabiente, o no acredite su interés legítimo en el procedimiento administrativo.
 
@@ -766,9 +868,11 @@ Contra la resolución que declare la caducidad del procedimiento administrativo 
 
 ### CAPITULO OCTAVO. DE LAS VISITAS DE VERIFICACION
 
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
+
 ###### Artículo 97.
 
-Las autoridades competentes del Distrito Federal, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local podrán llevar a cabo visitas de verificación, mismas que podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles; y las segundas en cualquier tiempo. Las visitas de verificación se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
+Las autoridades competentes del Distrito Federal, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local podrán llevar a cabo visitas de verificación. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
 
 ###### Artículo 98.
 
@@ -822,11 +926,15 @@ Los visitados a quienes se haya levantado acta de verificación podrán formular
 
 Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
 
-### CAPITULO NOVENO. DE LAS MEDIDAS DE SEGURIDAD
+> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE ENERO DE 2004)</small>
+
+### CAPITULO NOVENO. DE LAS MEDIDAS CAUTELARES Y DE SEGURIDAD
+
+> <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 106.
 
-Se consideran medidas de seguridad las disposiciones que dicte la autoridad competente para proteger la salud y la seguridad públicas. Las medidas de seguridad se establecerán en cada caso por las normas administrativas.
+Se consideran medidas cautelares y de seguridad las disposiciones que dicte la autoridad competente para proteger la salud, la seguridad pública y en el cumplimiento de la normatividad referente a actividades reguladas que requieran de concesión, licencia, permiso, autorización o aviso. Las medidas cautelares y de seguridad se establecerán en cada caso por las normas administrativas que no deberán contravenir las disposiciones legales aplicables.
 
 ###### Artículo 107.
 
@@ -1097,3 +1205,21 @@ NOVENO.- Publíquese en el Diario Oficial de la Federación, para su mayor difus
 RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los veintidós días del mes de noviembre de mil novecientos noventa y cinco.- Rep. Gonzalo Rojas Arreola, Presidente.- Rep. Pilar Pardo Celoria, Secretaria.- Rep. Javier Salido Torres, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León, Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 29 DE ENERO DE 2004.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 2, 4, 6, 7 BIS, 15, 27, 33, 35, 35 BIS Y 97 DE LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Para la aplicación de la firma electrónica mencionada en los artículos 6, fracción VI, y 33 de la presente Ley, el Jefe de Gobierno emitirá las normas que deberán observar las dependencias, órganos político administrativos en cada demarcación territorial, órganos desconcentrados y entidades paraestatales que componen la Administración Pública del Distrito Federal.
+
+G.O. 29 DE ENERO DE 2004.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 14, 14 BIS, 19, 19 BIS, 20, 20 BIS, 23, 28 Y 106 DE LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Los procedimientos iniciados con anterioridad a la presente publicación, continuaran su proceso con base en la normatividad que les dio inicio.
