@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1935-11-09"
+last_updated: "1939-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 1939.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -53,9 +53,13 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación, 
 
 G.G. 25 DE SEPTIEMBRE DE 1929.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 9 DE NOVIEMBRE DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 6 DE SEPTIEMBRE DE 1939.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
 
@@ -1549,7 +1553,7 @@ Las escuelas especiales de indígenas serán establecidas y sostenidas por el Es
 
 ###### Art. 233.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere: que la Legislatura del Estado por el voto de las dos terceras partes de los individuos que la forman, acuerden las reformas o adiciones, y que éstas sean aprobadas por el voto de las dos terceras partes de la Legislatura siguiente.
+La presente Constitución puede ser adicionada y reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere: Que la Legislatura del Estado, por el voto de la dos terceras partes de los individuos que la forman, acuerden las reformas o adiciones, y que éstas sean aprobadas por el voto de las dos terceras partes de los Ayuntamientos del Estado.
 
 ###### Art. 234.
 
@@ -1558,6 +1562,8 @@ En las discusiones relativas a las reformas o adiciones a la Constitución, se g
 ### CAPITULO SEGUNDO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
 ### CAPITULO PRIMERO. DE LAS REFORMAS DE LA CONSTITUCION
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 1939)</small>
 
 ###### Art. 235.
 
