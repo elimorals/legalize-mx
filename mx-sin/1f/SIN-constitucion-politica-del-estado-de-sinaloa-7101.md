@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1963-04-18"
+last_updated: "1965-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1965.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -295,11 +295,11 @@ Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que p
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>N. DE E. SE DEROGA EL DECRETO No. 414 DE FECHA 23 DE SEPTIEMBRE DE 1943, POR DECRETO No. 493 DE FECHA 23 DE MAYO DE 1944, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+> <small>(REFORMADO, 8 DE ABRIL DE 1965)</small>
 
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de septiembre y terminará el quince de enero siguiente, y el segundo principiará el quince de marzo y concluirá el quince de mayo inmediato.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
 > <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
@@ -1113,11 +1113,11 @@ IV. No tener empleo, cargo o comisión del Estado o Municipio; ni mando de fuerz
 
 Para ser Presidente Municipal, Propietario y Suplente, respectivamente, además de los requisitos que para ser Regidor se requieren, es necesario tener lo siguiente:
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 I. 25 años cumplidos en la fecha de la elección.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 II. Haber obtenido mayoría de sufragios legales.
 
@@ -1814,3 +1814,11 @@ II. Se deja sin efecto el Decreto número 315 expedido por este H. Congreso del 
 P.O. 18 DE ABRIL DE 1963.
 
 UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE ABRIL DE 1965.
+
+Primero.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Para regularizar la situación legal que con la presente reforma se origina, la XLV Legislatura que se instalará el día 15 de Septiembre próximo, permanecerá en funciones hasta el día 30 de noviembre de 1968, pero regirá su sistema de trabajo de acuerdo con los lineamientos que se contenían en el artículo 36 Constitucional, antes de ser reformado por este Decreto.
+
+Tercero.- Formúlense en su oportunidad las reformas correspondientes a la Ley Electoral del Estado, al Reglamento para el Gobierno Interior del H. Congreso del Estado y demás Ordenamientos que tengan relación con esta reforma Constitucional.
