@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1941-02-01"
+last_updated: "1943-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1943.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -120,6 +120,10 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna per
 ###### ARTICULO 12.
 
 Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de las garantías individuales o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1943)</small>
+
+En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
 
 ###### ARTICULO 13.
 
@@ -797,7 +801,7 @@ II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las fa
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
+IV. Impedir por motivo alguna, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
 V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
 
@@ -1432,3 +1436,7 @@ Unico.- Las reformas a los artículos 2o., 3o., 43, 59, 69, 72, 80, 127, 129 y 1
 P.O. 1 DE FEBRERO DE 1941.
 
 UNICO.- El presente decreto comenzará a surtir sus efectos legales en la fecha en que entre en vigor la Ley del Servicio Civil a que se refiere la fracción XXXII del artículo 59 de la Constitución Política del Estado, reformada por este decreto.
+
+P.O. 22 DE MAYO DE 1943.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
