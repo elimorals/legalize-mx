@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-9256"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-19"
-last_updated: "1991-03-19"
+last_updated: "1992-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 1992.
 
 Ley publicada en el Alcance Número 24 del Periódico Oficial del Estado de Guerrero, el martes 19 de marzo de 1991.
 
@@ -221,9 +221,49 @@ XVIII.- Los demás que conforme a esta Ley y a otras disposiciones legales le co
 
 El Gobierno del Estado participará en los acuerdos de coordinación que se promuevan entre la Federación y los Municipios, y los Municipios entre sí, para la realización de acciones de preservación y restauración del equilibrio ecológico y la protección del ambiente.
 
-### CAPITULO II. ATRIBUCIONES DE LOS MUNICIPIOS DEL ESTADO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 1992)</small>
 
-### CAPITULO III. MECANISMOS DE COORDINACION
+### CAPITULO I BIS. DE LA PROCURADURIA DE PROTECCION ECOLOGICA DEL ESTADO DE GUERRERO
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+ARTICULO 7A.- Se crea la Procuraduría de Protección Ecológica del Estado de Guerrero, como órgano administrativo desconcentrado por función, jerárquicamente subordinado a la Secretaría de Planeación, Presupuesto y Desarrollo Urbano, y con autonomía técnica, para propiciar la participación ciudadana y realizar investigaciones sobre las denuncias de hechos, actos u omisiones que caucen daño al medio ambiente o que representen riesgos graves para el mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+ARTICULO 7B.- La Procuraduría de Protección Ecológica del Estado de Guerrero tendrá las siguientes atribuciones:
+
+I.- Conocer las denuncias que, conforme a lo previsto en el Capítulo VII del Título Sexto de esta Ley, presenten personas o agrupaciones de éstas sobre hechos, actos u omisiones que caucen daños al medio ambiente o representen graves riesgos para el mismo;
+
+II.- Realizar las investigaciones técnicas que sean necesarias en función de lo prevenido en la Fracción anterior o con motivo de denuncias que presenten dependencias o entidades pública;
+
+III.- Llevar a cabo investigaciones de oficio, además de aquéllas que se realicen en atención a las denuncias a que se refieren las fracciones I y II de este Artículo;
+
+IV.- Actuar como unidad auxiliar de las dependencias federales con objetos afines en los términos de las leyes y convenios o acuerdos de coordinación que se celebren con tal propósito;
+
+V.- Convenir con los Ayuntamientos y Presidentes Municipales para que coadyuven a la realización de las finalidades que esta Ley confiere a la Procuraduría de Protección Ecológica del Estado de Guerrero, y
+
+VI.- Las demás afines a las anteriores que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+ARTICULO 7C.- La Procuraduría de Protección Ecológica del Estado de Guerrero estará a cargo de un Procurador.
+
+El Procurador será designado y removido libremente por el Secretario de Planeación, Presupuesto y Desarrollo Urbano, siempre y cuando sea mayor de 25 años de edad y cuente con experiencia en materias vinculadas a la protección ecológica.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+ARTICULO 7D.- La Procuraduría de Protección Ecológica del Estado de Guerrero promoverá la celebración de acuerdos de coordinación con los Ayuntamientos para que los Regidores de Desarrollo Urbano, Ecología y Obras Públicas actúen como instancias auxiliares de la misma.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+ARTICULO 7E.- La Procuraduría de Protección Ecológica del Estado de Guerrero promoverá la orientación y, en su caso, capacitación de los grupos ciudadanos interesados en la protección ecológica a efecto de mejorar su sustento técnico e integrar información suficiente acerca de los problemas ecológicos.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1992)</small>
+
+ARTICULO 7F.- Toda denuncia popular que conozca la Procuraduría de Protección Ecológica del Estado de Guerrero será contestada por escrito al denunciante en un término máximo de treinta días a partir de su recepción.
+
+### CAPITULO II. ATRIBUCIONES DE LOS MUNICIPIOS DEL ESTADO
 
 ###### ARTICULO 8o.
 
@@ -263,7 +303,7 @@ XVI.- Concertar acciones con los sectores social y privado para la realización 
 
 XVII.- Los demás asuntos que se prevén en esta Ley y otras Leyes.
 
-### CAPITULO I. PRINCIPIOS Y BASES DE LA POLITICA ECOLOGICA
+### CAPITULO III. MECANISMOS DE COORDINACION
 
 ###### ARTICULO 9o.
 
@@ -287,7 +327,7 @@ El Gobierno del Estado podrá celebrar convenios de coordinación con el Ejecuti
 
 ## TITULO TERCERO. POLITICA ECOLOGICA E INSTRUMENTOS DE APLICACION
 
-### CAPITULO II. PLANEACION ECOLOGICA
+### CAPITULO I. PRINCIPIOS Y BASES DE LA POLITICA ECOLOGICA
 
 ###### ARTICULO 11.
 
@@ -341,7 +381,7 @@ VI.- La educación e investigación ecológicas, y
 
 VII.- La información y vigilancia ecológicas.
 
-### CAPITULO III. ORDENAMIENTO ECOLOGICO
+### CAPITULO II. PLANEACION ECOLOGICA
 
 ###### ARTICULO 14.
 
@@ -421,7 +461,7 @@ A fin de impulsar la participación corresponsable de autoridades, grupos y orga
 
 Los convenios de coordinación o de concertación que se celebren en materia ecológica, deberán registrarse ante la Dependencia Estatal o Municipal que corresponda, a fin de que la Comisión Estatal de Ecología o la respectiva Comisión Municipal de Ecología vigile su cumplimiento.
 
-### CAPITULO IV. REGULACION ECOLOGICA DE LOS ASENTAMIENTOS HUMANOS
+### CAPITULO III. ORDENAMIENTO ECOLOGICO
 
 ###### ARTICULO 24.
 
@@ -501,7 +541,7 @@ La formulación de los programas de ordenamiento ecológico estatal estará a ca
 
 Una vez aprobados por el Ejecutivo Federal los programas de ordenamiento ecológico serán publicados en el Periódico Oficial de la Entidad y en la Gaceta Ecológica del Estado, y tendrán carácter obligatorio para la Administración Pública Estatal y Municipal.
 
-### CAPITULO V. EVALUACION DEL IMPACTO AMBIENTAL
+### CAPITULO IV. REGULACION ECOLOGICA DE LOS ASENTAMIENTOS HUMANOS
 
 ###### ARTICULO 29.
 
@@ -569,7 +609,7 @@ VII.- Los diseños que faciliten la ventilación natural, y
 
 VIII.- El uso de materiales de construcción apropiados al medio ambiente y a las tradiciones regionales.
 
-### CAPITULO VI. NORMAS TECNICAS ECOLOGICAS
+### CAPITULO V. EVALUACION DEL IMPACTO AMBIENTAL
 
 ###### ARTICULO 35.
 
@@ -637,7 +677,7 @@ El Gobierno del Estado podrá solicitar asistencia técnica al Gobierno Federal 
 
 Los municipios podrán promover ante el Gobierno del Estado la evaluación de manifestaciones de impacto ambiental de obras que se realicen en su jurisdicción y que pueda alterar su ambiente, y, en su caso, condicionar el otorgamiento de autorizaciones para uso del suelo o licencias de construcción y fraccionamientos, al resultado satisfactorio de la evaluación.
 
-### CAPITULO VII. INVESTIGACION Y EDUCACION ECOLOGICAS
+### CAPITULO VI. NORMAS TECNICAS ECOLOGICAS
 
 ###### ARTICULO 43.
 
@@ -655,7 +695,7 @@ Las actividades y servicios que originen emanaciones, emisiones, descargas o dep
 
 Una vez publicadas en la Gaceta Ecológica del Estado, las normas técnicas ecológicas son obligatorias y su inobservancia trae consigo las sanciones o penas establecidas en esta Ley.
 
-### CAPITULO VIII. INFORMACION Y VIGILANCIA
+### CAPITULO VII. INVESTIGACION Y EDUCACION ECOLOGICAS
 
 ###### ARTICULO 46.
 
@@ -681,7 +721,7 @@ El Gobierno Estatal podrá solicitar a la Federación asistencia técnica en mat
 
 El Gobierno del Estado establecerá acuerdos con Instituciones de Educación Superior, en la creación de las carreras de Ecología y Dasonomía.
 
-### CAPITULO I. SISTEMA ESTATAL DE AREAS NATURALES PROTEGIDAS
+### CAPITULO VIII. INFORMACION Y VIGILANCIA
 
 ###### ARTICULO 51.
 
@@ -697,7 +737,7 @@ A fin de impulsar y promover una conciencia ecológica de cambio en la població
 
 ## TITULO CUARTO. AREAS NATURALES PROTEGIDAS
 
-### CAPITULO II. PROCEDIMIENTOS PARA LA CREACION DE AREAS NATURALES PROTEGIDAS
+### CAPITULO I. SISTEMA ESTATAL DE AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 54.
 
@@ -777,7 +817,7 @@ El Gobierno del Estado, a través de la dependencia correspondiente, definirá l
 
 La dependencia competente del Gobierno del Estado que tenga a su cargo la coordinación del Sistema Estatal de Areas Naturales Protegidas llevará un control y registro de éstas, y vigilará que se cumplan las medidas que se hayan adoptado para su manejo y administración.
 
-### CAPITULO III. ADMINISTRACION Y APROVECHAMIENTO DE AREAS NATURALES PROTEGIDAS
+### CAPITULO II. PROCEDIMIENTOS PARA LA CREACION DE AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 64.
 
@@ -831,7 +871,7 @@ Una vez establecida un área natural protegida, sólo podrá modificarse su exte
 
 En el caso de que las declaratorias afecten predios sujetos al régimen ejidal o comunal, se observarán las disposiciones relativas de la Ley Federal de Reforma Agraria.
 
-### CAPITULO I. DEL AGUA
+### CAPITULO III. ADMINISTRACION Y APROVECHAMIENTO DE AREAS NATURALES PROTEGIDAS
 
 ###### ARTICULO 73.
 
@@ -879,7 +919,7 @@ En el caso de autorizarse o concesionarse algún uso o aprovechamiento de acuerd
 
 ## TITULO QUINTO. PROTECCION Y APROVECHAMIENTO RACIONAL DEL AMBIENTE Y DE SUS ELEMENTOS NATURALES
 
-### CAPITULO II. DEL SUELO
+### CAPITULO I. DEL AGUA
 
 ###### ARTICULO 79.
 
@@ -1001,7 +1041,7 @@ El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la 
 
 Los Gobiernos Estatal y Municipales observarán los reglamentos y normas técnicas correspondientes para el diseño, operación o administración de sus equipos y sistemas de tratamiento de aguas residuales de origen urbano.
 
-### CAPITULO III. REGULACION CON FINES ECOLOGICOS DEL APROVECHAMIENTO DE MINERALES O SUSTANCIAS NO RESERVADAS A LA FEDERACION
+### CAPITULO II. DEL SUELO
 
 ###### ARTICULO 89.
 
@@ -1103,7 +1143,7 @@ II.- La determinación de la vigencia.
 
 Para la deteminación (sic) de usos del suelo de los centros de población que lleven a cabo las autoridades competentes mediante planes de desarrollo urbano y otros mecanismos legales, será obligatorio considerar las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
 
-### CAPITULO IV. DE LA ATMOSFERA
+### CAPITULO III. REGULACION CON FINES ECOLOGICOS DEL APROVECHAMIENTO DE MINERALES O SUSTANCIAS NO RESERVADAS A LA FEDERACION
 
 ###### ARTICULO 100.
 
@@ -1133,7 +1173,7 @@ I.- La emisión o el desprendimiento de polvos, humos o gases que puedan afectar
 
 II.-. Sus residuos, evitando su propagación fuera de los terrenos en los que lleven a cabo sus actividades.
 
-### CAPITULO V. PREVENCION Y CONTROL DE LA CONTAMINACION VISUAL Y DE LA GENERADA POR RUIDO, VIBRACIONES, ENERGIA TERMICA, LUMINICA Y OLORES
+### CAPITULO IV. DE LA ATMOSFERA
 
 ###### ARTICULO 102.
 
@@ -1193,9 +1233,9 @@ Los propietarios de vehículos destinados al transporte público, incluyendo el 
 
 En aquellas zonas de los centros de población que las autoridades locales hubieren determinado como aptas para el establecimiento y la realización de actividades industriales, próximas a áreas habitacionales, únicamente podrán establecerse plantas industriales y realizarse actividades de esa naturaleza cuando se haga uso, esencialmente, de tecnologías y combustibles que generen menor contaminación atmosférica.
 
-### CAPITULO VI
+### CAPITULO V
 
-PREVENCION Y RESTAURACION DEL EQUILIBRIO ECOLOGICO Y PROTECCION AMBIENTAL EN LOS CENTROS DE POBLACION, EN RELACION CON LOS EFECTOS DERIVADOS DE LOS SERVICIOS URBANOS
+PREVENCION Y CONTROL DE LA CONTAMINACION VISUAL Y DE LA GENERADA POR RUIDO, VIBRACIONES, ENERGIA TERMICA, LUMINICA Y OLORES.
 
 ###### ARTICULO 109.
 
@@ -1227,9 +1267,9 @@ II.- Llevar a cabo los actos necesarios de inspección, vigilancia y aplicación
 
 Los Ayuntamientos deberán incorporar, en sus bandos y Reglamentos, disposiciones que regulen obras, actividades y anuncios publicitarios, a fin de crear una imagen agradable de los centros de población y evitar la contaminación visual en los mismos.
 
-### CAPITULO VII. PREVENCION Y CONTROL DE EMERGENCIAS ECOLOGICAS
+### CAPITULO VI
 
-CONTINGENCIAS AMBIENTALES
+PREVENCION Y RESTAURACION DEL EQUILIBRIO ECOLOGICO Y PROTECCION AMBIENTAL EN LOS CENTROS DE POBLACION, EN RELACION CON LOS EFECTOS DERIVADOS DE LOS SERVICIOS URBANOS
 
 ###### ARTICULO 114.
 
@@ -1253,7 +1293,9 @@ Las reglamentaciones que expidan los municipios a que se refiere el artículo an
 
 En todo caso deberán preservar las condiciones adecuadas para la vida en los centros de población de manera que no dañen los servicios públicos. Asimismo, deberán restaurar las condiciones adecuadas para la vida en sitios o zonas de centros de población que han perdido o están en proceso de perder tales características. Igualmente, y por lo que a la protección ambiental en los centros de población se refiere, deberá incrementarse la calidad del ambiente en los mismos.
 
-### CAPITULO VIII. ACTIVIDADES RIESGOSAS
+### CAPITULO VII. PREVENCION Y CONTROL DE EMERGENCIAS ECOLOGICAS
+
+CONTINGENCIAS AMBIENTALES
 
 ###### ARTICULO 116.
 
@@ -1289,7 +1331,7 @@ I.- Proporcionar al Gobierno del Estado la información y apoyo que requiera par
 
 II.- Proporcionarle al Gobierno del Estado los apoyos necesarios a fin de hacer eficaces las medidas que el mismo haya dictado en la materia.
 
-### CAPITULO IX. AREAS VERDES EN ZONAS URBANAS
+### CAPITULO VIII. ACTIVIDADES RIESGOSAS
 
 ###### ARTICULO 119.
 
@@ -1343,7 +1385,7 @@ I.- Cuando en el desarrollo de las actividades riesgosas se generen residuos no 
 
 II.- Cuando las actividades riesgosas estén relacionadas con residuos no peligrosos generados en servicios públicos cuya regulación o manejo corresponda a los Municipios o se relacione con dichos servicios.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IX. AREAS VERDES EN ZONAS URBANAS
 
 ###### ARTICULO 126.
 
@@ -1367,13 +1409,13 @@ El Gobierno del Estado y los Ayuntamientos, preveerán en sus respectivos ordena
 
 ## TITULO SEXTO. MEDIDAS DE CONTROL Y DE SEGURIDAD, SANCIONES Y DELITOS
 
-### CAPITULO II. INSPECCION Y VIGILANCIA
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 131.
 
 Las disposiciones de este Título se aplicarán en la realización de actos de inspección, vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y de comisión de delitos, así como en la aplicación de sanciones y en los procedimientos y recursos administrativos, cuando se trate de asuntos de competencia local regulados por esta Ley.
 
-### CAPITULO III. MEDIDAS DE SEGURIDAD
+### CAPITULO II. INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 132.
 
@@ -1435,13 +1477,13 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 En los casos en que proceda, la dependencia competente del Estado o de los Municipios hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados que pudieran configurar uno o más delitos.
 
-### CAPITULO IV. SANCIONES ADMINISTRATIVAS
+### CAPITULO III. MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 145.
 
 Cuando exista riesgo inminente o desequilibrio ecológico o casos de contaminación en el territorio de la entidad o del municipio correspondiente, en asuntos de competencia local, con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, el Gobierno del Estado o los Municipios, en el ámbito de sus correspondientes competencias, podrán ordenar como medida de seguridad, el decomiso de materiales o sustancias contaminantes, la clausura temporal, parcial o total de las fuentes contaminantes correspondientes, y promover la ejecución ante la autoridad competente, en los términos de las leyes relativas, de alguna o algunas medidas de seguridad que en dichos ordenamientos se establecen, salvo en los casos de fuentes emisoras de jurisdicción federal, en cuyo caso el Gobierno del Estado solicitará la intervención de la Secretaría de Desarrollo Urbano y Ecología.
 
-### CAPITULO V. RECURSOS DE INCONFORMIDAD
+### CAPITULO IV. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 146.
 
@@ -1483,7 +1525,7 @@ Cuando proceda la clausura temporal o definitiva, total o parcial, el personal c
 
 El Gobierno del Estado podrá promover ante las autoridades federales o locales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrios ecológicos.
 
-### CAPITULO VI. DELITOS DEL ORDEN COMUN
+### CAPITULO V. RECURSOS DE INCONFORMIDAD
 
 ###### ARTICULO 153.
 
@@ -1537,7 +1579,7 @@ V.- Se garantice el interés fiscal.
 
 Transcurrido el término para el desahogo de las pruebas, si la hubiere, se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido. Dicha resolución se notificará al interesado; personalmente o por correo certificado.
 
-### CAPITULO VII. DENUNCIA POPULAR
+### CAPITULO VI. DELITOS DEL ORDEN COMUN
 
 ###### ARTICULO 159.
 
@@ -1564,6 +1606,8 @@ Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente
 ###### ARTICULO 164.
 
 Las disposiciones reglamentarias que se expidan de acuerdo con la distribución de competencias entre el Estado y los Municipios prevista en este ordenamiento, señalarán las sanciones por violaciones a las mismas. Los Ayuntamientos regularán las sanciones administrativas por violaciones a los bandos y reglamentos de policía y buen gobierno, que a su vez expidan en la esfera de su respectiva competencia.
+
+### CAPITULO VII. DENUNCIA POPULAR
 
 ###### ARTICULO 165.
 
@@ -1636,3 +1680,19 @@ Rúbrica.
 El Secretario General de Goierno (sic).
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Procuraduría de Protección Ecológica del Estado de Guerrero a que se refiere el presente Decreto habrá de instalarse en un plazo no mayor de noventa días a partir de que entre en vigor el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las Secretarías de Planeación, Presupuesto y Desarrollo Urbano, Finanzas y Administración, de Coordinación y la Contraloría General del Estado, proporcionarán los recursos humanos, materiales y financieros que sean indispensables para el funcionamiento de la Procuraduría.
