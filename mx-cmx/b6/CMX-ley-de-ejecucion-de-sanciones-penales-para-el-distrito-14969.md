@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2004-06-04"
+last_updated: "2004-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2004.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
 (Al margen superior izquierdo un escudo que dice: CIUDAD DE MEXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
@@ -196,6 +196,10 @@ En las actividades laborales se observarán las disposiciones contenidas en el a
 
 La organización del trabajo se sustentará en la oferta laboral contenida en los convenios celebrados en los términos del artículo 7° de esta ley.
 
+> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Artículo 14 bis.- El Jefe de Gobierno deberá adoptar, con apego en las disposiciones aplicables, las medidas necesarias para que, en lo posible, en las Instituciones del Sistema Penitenciario del Distrito Federal exista oferta de trabajo que permita que todos los internos, hombres y mujeres, que deseen participar en él, así lo hagan. Entre otras medidas, se deberá considerar el establecimiento de relaciones jurídicas de concertación con el sector productivo.
+
 ###### Artículo 15.
 
 No es indispensable el trabajo a:
@@ -284,7 +288,9 @@ En las instituciones de mínima y baja seguridad se ubicará a quienes hayan sid
 
 Serán destinados a instituciones de media seguridad quienes no se encuentren en los supuestos establecidos para ser ubicados en una institución de mínima, baja o alta seguridad.
 
-Se ubicarán en instituciones de alta seguridad quienes se encuentren privados de su libertad por delitos graves cometidos con violencia; quienes pertenezcan a una asociación delictuosa o a un grupo organizado para delinquir; quienes presenten conductas graves o reiteradas de daños, amenazas, actos de molestia, o delitos en perjuicio de otros recluso (sic), sus familiares, visitantes o personal de las instituciones de seguridad mínima, baja o media, o quienes hayan favorecido la evasión de presos.
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Se ubicarán en instituciones de alta seguridad quienes se encuentren privados de su libertad por delitos graves cometidos con violencia; quienes se encuentren privados de su libertad por la comisión del delito de secuestro; quienes pertenezcan a una asociación delictuosa o a un grupo organizado para delinquir; quienes presenten conductas graves o reiteradas de daños, amenazas, actos de molestia, o delitos en perjuicio de otros reclusos, sus familiares, visitantes o personal de las instituciones de seguridad mínima, baja o media, o quienes hayan favorecido la evasión de presos.
 
 No podrán ser ubicados en las instituciones a que se refiere el párrafo anterior los inimputables, los enfermos psiquiátricos, los discapacitados graves, los enfermos terminales o cualquier otra persona que no se encuentre dentro de los criterios establecidos en dicho párrafo.
 
@@ -422,11 +428,11 @@ II.- Libertad Preparatoria.
 
 III.- Remisión Parcial de la Pena.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 42.
 
-Los beneficios de libertad anticipada, no se concederán a los sentenciados por los delitos de: homicidio doloso, previsto en el artículo 128; inseminación artificial previsto en los artículos 150 y 151; privación de la libertad en los términos del último párrafo del artículo 160; desaparición forzada de personas previsto en el artículo 168; violación previsto en los artículos 174 y 175; secuestro contenido en los artículos 163, 164, 165 y 166, con excepción de lo previsto en el último párrafo del 164, pornografía infantil a que se refiere el artículo 187; por los delitos de asociación delictuosa y delincuencia organizada previsto en los artículos 253, 254 y 255; tortura a que se refieren los artículos 294 y 295; robo agravado en los términos del artículo 224 fracciones I, II, III hipótesis primera, VI, VII, VIII hipótesis primera y IX y 225; encubrimiento por receptación previsto en el artículo 243 segundo párrafo, todos del Nuevo Código Penal.
+Los beneficios de libertad anticipada, no se concederán a los sentenciados por los delitos de: homicidio doloso, previsto en el artículo 128; inseminación artificial previsto en los artículos 150 y 151; desaparición forzada de personas previsto en el artículo 168; violación previsto en los artículos 174 y 175; secuestro contenido en los artículos 163, 163 bis, 164, 165, 166 y 166 bis, con excepción de lo previsto en el último párrafo del 164, pornografía infantil a que se refiere el artículo 187; por los delitos de asociación delictuosa y delincuencia organizada previsto en los artículos 253, 254 y 255; tortura a que se refieren los artículos 294 y 295; robo agravado en los términos del artículo 224 fracciones I, II, III hipótesis primera, VI, VII, VIII hipótesis primera y IX y 225; encubrimiento por receptación previsto en el artículo 243 segundo párrafo, todos del Nuevo Código Penal para el Distrito Federal; salvo en los casos de colaboración previstos por la Ley contra la Delincuencia Organizada para el Distrito Federal.
 
 ### CAPITULO V. DE LA LIBERTAD PREPARATORIA
 
@@ -741,3 +747,31 @@ G.O. 4 DE JUNIO DE 2004.
 PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO QUE REFORMA EL ART. 24 DE LA LEY DE EJECUCION DE SANCIONES PARA EL D.F.
+
+PRIMERO. Remítase al Jefe de Gobierno para su debida promulgación y Publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+TERCERO. Se derogan todas aquellas disposiciones que sean contrarias a lo dispuesto en el presente decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO QUE ADICIONA ART. 14 BIS AL NUEVO CODIGO PENAL PARA EL D.F.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO QUE REFORMA EL ART. 42 DE LA LEY DE EJECUCION DE SANCIONES PARA EL D.F.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los noventa días siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
