@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1986-12-31"
+last_updated: "1987-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 8 DE JULIO DE 1987.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -191,7 +191,7 @@ XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del E
 
 XVI. Proponer al Gobernador del Estado y ejecutar los programas relativos a la protección de los habitantes, al orden público y la prevención de delitos.
 
-XVII. Velar por la protección de los habitantes, al orden público y la prevención de delitos.
+XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos.
 
 XVIII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos.
 
@@ -207,7 +207,7 @@ XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notaria
 
 XXIV. Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo de Notarías del Estado.
 
-XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la Legislación relativa.
+XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
 
 XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio.
 
@@ -433,43 +433,55 @@ XIV. Expedir en coordinación con la Secretaría de Planeación las bases a que 
 
 XV. Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Desarrollo Agropecuario es el órgano encargado de regular, promover y fomentar el desarrollo agrícola, ganadero, forestal e hidrológico del Estado.
+La Secretaría de Desarrollo Agropecuario es el órgano encargado de promover y regular el desarrollo agrícola, ganadero, forestal, pesquero e hidráulico y el establecimiento de agroindustrias, así como coadyuvar en la atención y solución de los problemas agrarios en el Estado.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1987)</small>
 
 ###### Artículo 34.
 
 A la Secretaría de Desarrollo Agropecuario corresponde el despacho de los siguientes asuntos:
 
-I. Elaborar y ejecutar los planes de desarrollo agropecuario del Estado.
+I.- Rectoría, normatividad y programación de la producción agrícola, ganadera, forestal, pesquera, hidráulico y agroindustrial, así como la atención y solución de los problemas rurales en el Estado.
 
-II. Fomentar en el Estado, el desarrollo agrícola, ganadero, forestal y el establecimiento de agroindustrias.
+II.- Realizar estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados a las ramas agrícolas, ganadera, forestal y pesquera, a fin de desarrollar potencial productivo y satisfacer las demandas populares.
 
-III. Ejercer, por delegación del ejecutivo del Estado, las atribuciones y funciones que en materia agropecuaria y forestal, contengan los convenios firmados entre el poder ejecutivo del Estado y la Administración Pública Federal.
+III. Elaborar, supervisar, evaluar y controlar los planes estatales de desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial de la Entidad.
 
-IV. Celebrar, por delegación del Ejecutivo, convenios con los Ayuntamientos para el fomento del desarrollo agropecuario y forestal.
+IV. Supervisar la ejecución de los programas estatales de desarrollo agrícola, ganadero, forestal, hidráulico y agroindustrial, para desarrollar y difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y productividad.
 
-V. Promover y apoyar a las organizaciones de productores agrícolas, ganaderas, forestales el acceso a créditos y seguros, innovaciones tecnológicas, canales de comercialización adecuados y mejores sistemas de administración.
+V. Establecer los programas estatales prioritarios de desarrollo desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial, hacia los cuales se canalicen los apoyos financieros necesarios para el cumplimiento de sus objetivos.
 
-VI. Fomentar y apoyar los programas de investigación y enseñanza agropecuaria y forestal, así como divulgar las técnicas y sistemas que mejoren la producción en dichos campos.
+VI.- Planear la expansión, mejoramiento y tecnificación de todas las actividades relacionadas con la producción e industrialización agrícola, ganadera, forestal y pesquera en la Entidad, así como aquellas que permitan clasificar y evaluar los suelos para lograr su conservación, mejoramiento, zonificación y uso adecuado.
 
-VII. Promover el establecimiento y vigilar el funcionamiento de los Servicios Meteorológicos.
+VII. Apoyar la elaboración de estudios, planes y programas tendientes a las actividades de acopio y comercialización de la producción primaria o industrializada, agrícola, ganadera, forestal y pesquera en la Entidad.
 
-VIII. Vigilar la preservación de los recursos naturales renovables y desarrollar su potencial productivo.
+VIII. Proponer la creación de unidades administrativas u organismos auxiliares del sector, o bien, los cambios a las estructuras orgánicas de los mismos, que se consideren necesarios para el incremento de la actividad agrícola, ganadera, forestal, pesquera y agroindustrial en el Estado.
 
-IX. Realizar directamente en coordinación con los Ayuntamientos, campañas permanentes para prevenir y combatir plagas, siniestros y enfermedades que atacan las especies vegetales y animales en el Estado.
+IX. Promover el establecimiento y vigilar el funcionamiento de las estaciones que conforman el sistema meteorológico del Estado.
 
-X. Coordinar su actualización con las autoridades federales a fin de lograr la eficaz utilización de los recursos hidráulicos del Estado.
+X. Promover y organizar congresos, ferias, exposiciones y concursos agrícolas, ganaderos, forestales y pesqueros en el Estado, así como participar en eventos de carácter Nacional e Internacional.
 
-XI. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado.
+XI. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas.
 
-XII. Organizar y participar en ferias, exposiciones y Concursos agropecuarios y forestales en el Estado.
+XII. Promover la constitución de organizaciones de productores agrícolas, ganaderas, forestales, pesqueras y agroindustriales y apoyarlas en el acceso al crédito y seguro para la producción e innovaciones tecnológicas, canales de comercialización adecuados, almacenaje y mejores sistemas de administración, procurando con ello su bienestar social.
 
-XIII. Coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en el Estado.
+XIII. Intervenir en los convenios de Coordinación que celebren el Ejecutivo con el Gobierno Federal en materia de desarrollo agropecuario, forestal, pesquero, hidráulico y agroindustrial, o con los municipios, así como con otras Entidades Públicas.
 
-XIV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado.
+XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal.
 
-XV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
+
+XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales.
+
+XVII. Conservar y fomentar el desarrollo de la flora y fauna fluvial y lacustre en el Estado.
+
+XVIII. Coordinar las actividades operativas de las coordinaciones Regionales de Desarrollo Rural e implantar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica se establezcan en la Entidad.
+
+XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
 
 ###### Artículo 35.
 
@@ -619,7 +631,7 @@ Los organismos descentralizados gozarán de personalidad jurídica y patrimonio 
 
 ###### Artículo 48.
 
-El Estado podrá participar en la integración del capital social de aquellas empresas cuyo objeto tienda a cumplimentar los planes y programas de Gobierno o a satisfacer las necesidades sociales existentes en la entidad.
+El Estado podrá participar en la integración del capital social de aquellas empresas cuyo objeto tienda a complimentar los planes y programas de Gobierno o a satisfacer las necesidades sociales existentes en la entidad.
 
 En la integración del capital social de estas empresas, podrán participar los particulares y los grupos sociales interesados. Los funcionarios del Gobierno del Estado y de los organismos descentralizados, en ningún caso podrán participar en la integración del capital social de estas empresas.
 
@@ -641,7 +653,7 @@ Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a al
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, Diputado Secretario.-, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno.- Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
 Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -662,3 +674,9 @@ P.O. 31 DE DICIEMBRE DE 1986
 ###### ARTICULO UNICO.
 
 Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
+
+P.O. 8 DE JULIO DE 1987
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
