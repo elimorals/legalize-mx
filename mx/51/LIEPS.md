@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1995-12-15"
+last_updated: "1996-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 1996.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -72,8 +72,6 @@ B).- (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 C).- Alcohol desnaturalizado que se enajene en ventas al menudeo con el público en general .......... 0%
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER FRACCION V DEL ARTICULO DECIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS DE FECHA 20 DE JULIO DE 1992.</small>
-
 > <small>(REFORMADO, D.O.F. 20 DE JULIO DE 1992)</small>
 
 D).- Cerveza y bebidas refrescantes con una graduación alcohólica de hasta 6º G.L. .......... 19%
@@ -84,7 +82,7 @@ E).- Bebidas alcohólicas:
 
 1.- Con una graduación de hasta 13.5º G.L. .......... 1.5%
 
-2.- Con una graduación de más de 13.5º y hasta 20º G.L. ........... 30%
+2.- Con una graduación de más de 13.5º y hasta 20º G.L. .......... 30%
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -92,7 +90,7 @@ F).- Aguardiente y bebidas alcohólicas con una graduación de más de 20º G.L.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-G).- Alcohol y bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados ........... 60%
+G).- Alcohol y bebidas alcohólicas con una graduación de más de 55º G.L., así como sus concentrados .......... 60%
 
 H).- Tabacos labrados:
 
@@ -104,9 +102,9 @@ H).- Tabacos labrados:
 
 2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-I) Gasolinas nova y magna sin: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
+I) Gasolinas: La tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -144,15 +142,15 @@ La tasa aplicable en cada mes para la enajenación de gasolinas o diesel será l
 
 I.- El precio de referencia ajustado por calidad, cuando proceda, que se determine para el combustible de que se trate de acuerdo con la fracción VI de este artículo, se adicionará con el costo de manejo y el costo neto de transporte a la agencia de ventas de que se trate en el periodo comprendido del día 26 del segundo mes anterior al día 25 del mes inmediato anterior a aquél por el que se calcule la tasa, sin incluir, en este último caso, el impuesto al valor agregado.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-II.- Se multiplicará por el factor 0.9524 para las gasolinas nova y magna sin, diesel automotriz y diesel sin, por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el periodo citado, los costos netos de transporte del combustible de la agencia de ventas de que se trate al establecimiento del expendedor incurridos durante dicho periodo, sin incluir, en ambos casos, el impuesto al valor agregado.
+II.- Se multiplicarán por el factor de 0.9524 para las gasolinas y el diesel para uso automotriz, por 1.0 para el diesel para uso industrial de alto y bajo azufre y el diesel para uso en vehículos marinos, el monto que se obtenga de adicionar a la comisión que haya pagado Petróleos Mexicanos a los expendios autorizados por el combustible de que se trate en el período citado, los costos netos de transporte del combustible de la agencia de ventas de que se trate al establecimiento del expendedor incurridos durante dicho período, sin incluir, en ambos casos, el impuesto al valor agregado.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-III.- Se multiplicará por el factor de 0.8658 para gasolinas nova y magna sin, diesel automotriz y diesel sin, por 0.9091 para el diesel industrial de alto y bajo azufre y el diesel marino, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 10%.
+III.- Se multiplicarán por el factor de 0.8658 para las gasolinas y el diesel para uso automotriz, por 0.9091 para el diesel para uso industrial de alto y bajo azufre y el diesel para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 10%.
 
-Se multiplicará por el factor de 0.8282 para gasolinas nova y magna sin, diesel automotriz y diesel sin, por 0.8696 para el diesel industrial de alto y bajo azufre y el diesel marino, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 15%.
+Se multiplicarán por el factor de 0.8282 para las gasolinas y el diesel para uso automotriz, por 0.8696 para el diesel para uso industrial de alto y bajo azufre y el diesel para uso en vehículos marinos, el precio de venta al público, del combustible de que se trate vigente en la zona geográfica correspondiente en el periodo citado, cuando la enajenación se realice con tasa del impuesto al valor agregado de 15%.
 
 > <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -172,27 +170,27 @@ VI.- El precio de referencia para cada uno de los combustibles a que se refiere 
 
 a).- Gasolinas: el promedio del precio spot de la gasolina regular sin plomo vigente en la Costa del Golfo de los Estados Unidos de América.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-b).- Diesel automotriz: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
+b).- Diesel para uso automotriz de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-c).- Diesel sin y diesel industrial de bajo azufre: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
+c).- Diesel para uso automotriz y diesel para uso industrial de bajo azufre: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en la Costa del Golfo de los Estados Unidos de América.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-d).- Diesel industrial de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
+d).- Diesel para uso industrial de alto azufre: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en la Costa del Golfo de los Estados Unidos de América.
 
 e).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-f).- Diesel marino en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en Houston, Texas, de los Estados Unidos de América.
+f).- Diesel para uso en vehículos marinos en la Costa del Golfo: el promedio del precio spot "fuel oil" número 2, 0.2% de azufre y 34º API, vigente en Houston, Texas, de los Estados Unidos de América.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-g).- Diesel marino de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Angeles, California, de los Estados Unidos de América.
+g).- Diesel para uso en vehículos marinos de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Angeles, California, de los Estados Unidos de América.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -298,15 +296,21 @@ Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente de
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el penúltimo párrafo del artículo 14-A del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 4o.-A.
 
-Las personas que adquieran diesel para su consumo final y siempre que dicho combustible no se utilice para la carburación automotriz en vehículos que se destinen al transporte de personas o efectos a través de carreteras o caminos, podrán acreditar el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de este combustible, siempre que se utilice exclusivamente como combustible:
+Las personas que adquieran diesel para su consumo final y siempre que dicho combustible no sea para uso automotriz en vehículos que se destinen al transporte de personas o efectos a través de carreteras o caminos, podrán acreditar el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de este combustible, siempre que se utilice exclusivamente como combustible:
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 I.- En maquinaria fija de combustión interna, maquinaria de flama abierta y locomotoras.
 
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 II.- En vehículos marinos y en maquinaria utilizada en las actividades de acuacultura.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 III.- En tractores, motocultores, combinadas, empacadoras de forraje, revolvedoras, desgranadoras, molinos, cosechadoras o máquinas de combustión interna para aserrío, bombeo de agua o generación de energía eléctrica, que se utilicen en actividades de siembra, cultivo y cosecha de productos agrícolas; cría y engorda de ganado, aves de corral y animales; cultivo de los bosques o montes, así como en la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos.
 
@@ -466,9 +470,9 @@ Para calcular el impuesto tratándose de enajenaciones se considerará como valo
 
 Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado, salvo que se trate de los bienes a los que se refieren los incisos I), J), y K) de la fracción I del artículo 2o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-Los productores o importadores de tabacos labrados para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos, el precio de venta al detallista. En el caso de exportación definitiva de dichos bienes en los términos de la legislación aduanera, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior, considerarán el valor que se utilice para los fines del impuesto general de exportación. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o-A de esta Ley, multiplicado por el factor de 1.05 para gasolinas, diesel automotriz y diesel sin y por 1.0 para el diesel industrial de alto y bajo azufre y diesel marino.
+Los productores o importadores de tabacos labrados para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos, el precio de venta al detallista. En el caso de exportación definitiva de dichos bienes en los términos de la legislación aduanera, así como en la enajenación de bienes que la citada legislación aduanera establece como importación temporal realizada por personas residentes en el país a empresas de comercio exterior, considerarán el valor que se utilice para los fines del impuesto general de exportación. Tratándose de la enajenación de los combustibles a que se refieren los incisos I) y J) de la fracción I del artículo 2º. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2º.-A de esta Ley, multiplicado por el factor de 1.05 en el caso de las gasolinas y el diesel para uso automotriz, y por 1.0 en el caso del diesel para uso industrial de alto y bajo azufre y del diesel para uso en vehículos marinos.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -562,9 +566,9 @@ II.- Expedir comprobantes trasladando en los mismos expresamente y por separado,
 
 Los comerciantes que la mayor parte del importe de sus enajenaciones proviene de las que realiza al público en general, en el comprobante que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que así lo solicite el adquirente; asimismo, deberán ofrecer los bienes incluyendo el impuesto en el precio.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-Cuando se trate de la enajenación de gasolinas, gas natural y diesel que se utilice para carburación automotriz en vehículos que se destinen a transporte de personas o efectos a través de carreteras o caminos, así como de la prestación de servicios gravados por esta Ley en relación con dichos bienes, en el comprobante que se expida, en ningún caso se hará la separación expresa del monto de este impuesto debiendo ofrecerse estos bienes o servicios incluyendo el impuesto en el precio o contraprestación. Tratándose de la enajenación de diesel que se utilice para consumo final en los términos de las fracciones I y II del artículo 4o-A de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios o sus agencias o distribuidores autorizados, deberán desglosar expresamente y por separado en el comprobante correspondiente el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hubieran causado por la enajenación de que se trate.
+Cuando se trate de la enajenación de gasolinas, gas natural y diesel para uso automotriz en vehículos que se destinen al transporte de personas o efectos a través de carreteras o caminos, así como de la prestación de servicios gravados por esta Ley en relación con dichos bienes, en el comprobante que se expida, en ningún caso se hará la separación expresa del monto de este impuesto debiendo ofrecerse estos bienes o servicios incluyendo el impuesto en el precio o contraprestación. Tratándose de la enajenación de diesel que se utilice para consumo final en los términos de las fracciones I, II y IV del artículo 4o.-A de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios o sus agencias o distribuidores autorizados, deberán desglosar expresamente y por separado en el comprobante correspondiente el impuesto especial sobre producción y servicios que Petróleos Mexicanos y sus organismos subsidiarios hubieran causado por la enajenación de que se trate.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -748,7 +752,7 @@ A partir del 1o. de enero de 1982 quedará abrogada la Ley del Impuesto sobre Co
 
 Al entrar en vigor la presente Ley, quedarán derogadas las leyes siguientes:
 
-I.- Ley del Impuesto sobre Producción y Consumo de Cerveza, a excepción de los artículos 10, fracciones II a XXV y XXVII a XXIX y 25, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.
+I.- Ley del Impuesto sobre Producción y Consumo de Cerveza, a excepción de los artículos 10, fracciones II a XXV y XXVII a XXIX y 25, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogado dicha Ley.
 
 II.- Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, a excepción de los artículos 13 a 16, 52, 53, 54 y 56, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.
 
@@ -798,7 +802,7 @@ Los contribuyentes obligados al pago del impuesto establecido en esta Ley, por l
 
 En tanto se expida el reglamento, los importadores que introduzcan al país bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del artículo 13 de esta Ley.
 
-Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la Ley Federal del Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas.
+Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la Ley Federal de Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas.
 
 ARTICULO DECIMOSEGUNDO.- Durante 1981, los contribuyentes del impuesto establecido en esta Ley, por la enajenación de bienes, calcularán el impuesto aplicando la tasa correspondiente en los términos del artículo 2o. de esta Ley, al valor de enajenación señalado en el artículo 11 de este ordenamiento o sobre el precio máximo en que enajenaron sus productos durante los dos últimos meses de 1980, el que sea mayor.
 
@@ -814,17 +818,9 @@ México, D. F., a 19 de diciembre de 1980.- José Murat, D. P.- Graciliano Alpuc
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+###### ARTICULO PRIMERO.
 
-D.O.F. 30 DE DICIEMBRE DE 1980.
-
-LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES
-
-DISPOSICIONES DE VIGENCIA ANUAL
-
-ARTICULO DECIMOPRIMERO.- Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso II, subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1981 tengan un precio máximo al público que no exceda de $4.00 por cajetilla de veinte cigarros.
-
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+Esta Ley entrará en vigor en toda la República, el día primero de enero de 1981, con excepción de las disposiciones contenidas en los incisos A, B y C de la fracción I, del artículo 2o. de este ordenamiento, relativas a la enajenación e importación de aguas envasadas y refrescos en envases cerrados; jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos; y concentrados, polvos, jarabes, esencias o extractos de sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos; las cuales entrarán en vigor el primero de enero de 1982.
 
 ###### ARTICULO PRIMERO.
 
@@ -834,31 +830,23 @@ D.O.F. 31 DE DICIEMBRE DE 1981.
 
 SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1982.
-
 ###### ARTICULO SEXTO.
 
-Las reformas a los artículos 5o. párrafos primero y segundo, 7o., 19 fracción I y 22 de la Ley del Impuesto Especial sobre Producción y Servicios, surtirán efectos a partir del primero de octubre de 1982.
+A partir de la fecha en que entre en vigor esta Ley, quedan sin efecto las disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones, autorizaciones o permisos otorgados a título particular, en materia de los impuestos establecidos en las leyes y reglamentos que se abrogan o derogan.
+
+Durante el año de 1981, lo dispuesto en el párrafo anterior no es aplicable a las disposiciones que quedan en vigor durante dicho año en los términos del Artículo Tercero Transitorio de esta Ley.
 
 ###### ARTICULO SEPTIMO.
 
-El plazo para abrogar las leyes a que se refiere el Artículo Tercero Transitorio de la Ley del Impuesto Especial sobre Producción y Servicios, se prorroga hasta el 30 de junio de 1982, fecha hasta la que se continuarán aplicando los artículos de las leyes señaladas en ese precepto, así como los reglamentos de dichas leyes en lo relativo a los preceptos que quedan vigentes hasta la fecha de abrogación de las leyes mencionadas.
+Los contribuyentes del impuesto establecido en esta Ley, que durante 1981 cierren su ejercicio para efectos del impuesto sobre la renta, antes del 31 de diciembre de dicho año, presentarán su declaración del ejercicio conjuntamente con la que corresponda por este último impuesto, considerando únicamente los actos o actividades realizados entre el 1o. de enero de este año y el cierre del ejercicio mencionado. Las instituciones de seguros continuarán con el ejercicio que iniciaron conforme a la Ley del Impuesto sobre Seguros.
 
 ###### ARTICULO OCTAVO.
 
-Las obligaciones derivadas de la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos abrogada que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídica o de hecho previstas en la misma, deberán ser cumplidas en la forma y plazos establecidos en la citada Ley.
+Durante el año de 1981, los contribuyentes que enajenen o importen cerveza, en lugar de la tasa del 21.5%, establecida en el inciso D de la fracción I del artículo 2o., de esta Ley, aplicarán la tasa del 18% y además una cuota fija de $0.23 por litro de cerveza producida o importada. El impuesto se pagará en los términos de los artículos 5o. y 15 de este ordenamiento.
 
-No se pagará el impuesto establecido en la Ley del Impuesto Especial sobre Producción y Servicios, cuando por la compraventa de primera mano de aguas envasadas y refrescos, ya se haya causado el impuesto federal establecido en la Ley abrogada.
+La parte del impuesto que se determine aplicando la cuota fija, tratándose de cerveza producida en el país, se calculará sobre el volumen de producción elaborado en el mes inmediato anterior, verificado por medio de los contadores oficiales automáticos, de acuerdo con los litros pasados a través de los mismos, descontándose la cerveza retornada a los cuartos fríos, que no hubiere salido de la fábrica. Tratándose de cerveza importada, la parte del impuesto que se determine aplicando la cuota fija, se calculará sobre el volumen de cerveza importada.
 
-En las importaciones de aguas envasadas y refrescos, no se pagará el impuesto especial sobre producción y servicios por los introducidos en el país con anterioridad al 1o. de enero de 1982, en los términos del Código Aduanero de los Estados Unidos Mexicanos. Se pagará el impuesto especial sobre producción y servicios en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
-
-ARTICULO DECIMOSEGUNDO.- Los contribuyentes del impuesto especial sobre producción y servicios, que lo sean por la enajenación o importación de vinos de mesa y sidras, cuando a la temperatura de 15º centígrados tengan una graduación alcohólica hasta de 14º G.L., así como los rompopes cuando a la misma temperatura su graduación sea hasta de 15º G.L., aplicarán en vez de la tasa establecida en el artículo 2o. fracción I, inciso E de la Ley del Impuesto Especial sobre Producción y Servicios, durante el año de 1982, la tasa del 8% y durante el año de 1983, la tasa del 11%.
-
-ARTICULO DECIMOTERCERO.- Tratándose de la enajenación de aguas envasadas y refrescos, en envases cerrados, que realiza directamente el contribuyente, en la cual cargue y cobre además del precio oficial de venta las cantidades autorizadas por la autoridad competente por concepto de fletes, la tasa del impuesto especial sobre producción y servicios será del 12% sobre el valor determinado conforme al artículo 11 de la Ley de la materia y se mantendrá hasta que la autoridad competente autorice un aumento en los cargos adicionales por concepto de fletes.
-
-D.O.F. 30 DE SEPTIEMBRE DE 1982.
+Para los efectos de la aplicación de la tasa del 18%, del valor de la cerveza enajenada o importada, se excluirá el impuesto que resulte de aplicar la cuota fija.
 
 ## TRANSITORIOS
 
@@ -873,6 +861,16 @@ OTRAS DISPOSICIONES
 ARTICULO DECIMOCUARTO.- Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1983 tengan un precio máximo al público que no exceda de $11.00 por cajetilla de 20 cigarros.
 
 ARTICULO DECIMONOVENO.- Los artículos Transitorios SEXTO relativo a la Ley del Impuesto Especial sobre Producción y Servicios, DECIMOCTAVO referente a la Ley del Impuesto al Valor Agregado, VIGESIMO QUINTO concerniente a la Ley del Impuesto sobre la Renta y TRIGESIMO OCTAVO respecto de la Ley Orgánica del Tribunal Fiscal de la Federación, de la ley que reforma, adiciona y deroga diversas disposiciones en materia fiscal, de 30 de diciembre de 1981, se reforman para surtir sus efectos en toda la República a partir del 1o. de enero de 1983.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1984 tengan un precio máximo al público que no exceda de $19.00 por cajetilla de 20 cigarros.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
@@ -901,16 +899,6 @@ Los contribuyentes que enajenen bebidas alcohólicas de producción nacional que
 D.O.F. 30 DE DICIEMBRE DE 1983.
 
 DISPOSICIONES DE VIGENCIA ANUAL
-
-###### ARTICULO DECIMO SEPTIMO.
-
-Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1984 tengan un precio máximo al público que no exceda de $19.00 por cajetilla de 20 cigarros.
-
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
-
-###### ARTICULO PRIMERO.
-
-La presente Ley entrará en vigor el día 1o. de enero de 1984.
 
 ###### ARTICULO DECIMO SEXTO.
 
@@ -1020,29 +1008,25 @@ D.O.F. 30 DE ABRIL DE 1986.
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día 1o. de mayo de 1986.
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
 
 ###### ARTICULO SEGUNDO.
 
-Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción II del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
+Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones siguientes:
 
-D.O.F. 31 DE DICIEMBRE DE 1986.
+I.- Ley del Impuesto sobre Venta de Gasolina.
 
-Disposiciones con vigencia durante el año de 1987
+II.- Ley del Impuesto sobre Seguros.
+
+III.- Ley del Impuesto sobre Tabacos Labrados.
+
+IV.- Ley del Impuesto sobre Teléfonos.
+
+A partir del 1o. de enero de 1982 quedará abrogada la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos.
 
 ###### ARTICULO NOVENO.
 
-Durante el año de 1987, se aplicarán en materia del Impuesto Especial sobre Producción y Servicios, las siguientes disposiciones:
-
-I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios estén obligados a retener ese impuesto, continuarán aplicando las disposiciones que estuvieron vigentes para 1985.
-
-II.- Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio de venta al detallista de los mismos. Este impuesto no se pagará por las enajenaciones subsecuentes.
-
-III.- Para los efectos del Artículo Décimotercero, fracción IV, inciso b), de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, vigente a partir del 1o. de enero de 1986, son cigarros populares sin filtro los que el 1o. de enero de 1987, tengan un precio máximo al público que no exceda de $110.00 por cajetilla de cigarros.
-
-IV.- No se pagará el Impuesto Especial sobre Producción y Servicios por la enajenación del alcohol que realice Azúcar, S. A. de C.V., a los productores que lo utilicen como insumo para la elaboración de bebidas alcohólicas, siempre que se encuentren registrados ante esa entidad.
-
-Asimismo, Azúcar, S.A. de C.V., presentará declaración informativa anual dentro de los tres meses siguientes al cierre de su ejercicio.
+Los contribuyentes que fabriquen cerveza deberán presentar ante la Secretaría de Hacienda y Crédito Público, dentro de los primeros quince días del mes de enero de los años de 1981 y 1982, una declaración pormenorizada en la que expresen las existencias de cerveza terminada al 31 de diciembre de 1980 y de 1981, respectivamente, indicando aquélla que se encuentre en cuartos fríos o salas de gobierno pendiente únicamente de ser envasada, así como la ya envasada que se encuentre en almacenes de la empresa. Dichas existencias deberán ser tomadas con intervención del personal fiscal comisionado en cada fábrica y respecto de la cerveza que esté pendiente de envasarse, debiendo indicarse el número de cocimiento de que proviene, fecha del mismo y demás datos de identificación, conforme a los libros oficiales.
 
 ## TRANSITORIOS
 
@@ -1164,15 +1148,29 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor del día 1o. de enero de 1990.
+La presente Ley entrará en vigor el día 1o. de mayo de 1986.
 
 ###### ARTICULO SEGUNDO.
 
-Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+Los pagos provisionales de los impuestos sobre la renta, valor agregado, automóviles nuevos y especial sobre producción y servicios, así como el entero del impuesto sobre las erogaciones por remuneración al trabajo personal prestado bajo la dirección y dependencia de un patrón y las aportaciones señaladas en la fracción II del artículo 29 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, que deban efectuarse en el mes de mayo de 1986, se podrán hacer en los plazos que establecen las disposiciones vigentes hasta el 30 de abril de 1986.
 
-D.O.F. 26 DE DICIEMBRE DE 1990.
+D.O.F. 31 DE DICIEMBRE DE 1986.
 
-DISPOSICIONES TRANSITORIAS
+Disposiciones con vigencia durante el año de 1987
+
+###### ARTICULO NOVENO.
+
+Durante el año de 1987, se aplicarán en materia del Impuesto Especial sobre Producción y Servicios, las siguientes disposiciones:
+
+I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios estén obligados a retener ese impuesto, continuarán aplicando las disposiciones que estuvieron vigentes para 1985.
+
+II.- Los productores o importadores de cigarros para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio de venta al detallista de los mismos. Este impuesto no se pagará por las enajenaciones subsecuentes.
+
+III.- Para los efectos del Artículo Décimotercero, fracción IV, inciso b), de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, vigente a partir del 1o. de enero de 1986, son cigarros populares sin filtro los que el 1o. de enero de 1987, tengan un precio máximo al público que no exceda de $110.00 por cajetilla de cigarros.
+
+IV.- No se pagará el Impuesto Especial sobre Producción y Servicios por la enajenación del alcohol que realice Azúcar, S. A. de C.V., a los productores que lo utilicen como insumo para la elaboración de bebidas alcohólicas, siempre que se encuentren registrados ante esa entidad.
+
+Asimismo, Azúcar, S.A. de C.V., presentará declaración informativa anual dentro de los tres meses siguientes al cierre de su ejercicio.
 
 ###### ARTICULO DECIMO SEPTIMO.
 
@@ -1208,29 +1206,35 @@ DISPOSICIONES DE VIGENCIA ANUAL
 
 ###### ARTICULO DECIMO PRIMERO.
 
-Durante el año de 1992, se aplicarán en materia del impuesto especial sobre producción y servicios, las siguientes disposiciones:
+En tanto se expida el reglamento, los importadores que introduzcan al país bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del artículo 13 de esta Ley.
 
-I.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1992 tengan un precio máximo al público que no exceda de $45.00 por cigarro.
+Los importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la Ley Federal del Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas.
 
-II.- Tratándose de la importación de gasolinas y diesel, el valor que se tomará como base para determinar el pago del impuesto especial sobre producción y servicios será el precio que Petróleos Mexicanos utilice en base de las gasolinas y diesel producidos en México.
+ARTICULO DECIMOSEGUNDO.- Durante 1981, los contribuyentes del impuesto establecido en esta Ley, por la enajenación de bienes, calcularán el impuesto aplicando la tasa correspondiente en los términos del artículo 2o. de esta Ley, al valor de enajenación señalado en el artículo 11 de este ordenamiento o sobre el precio máximo en que enajenaron sus productos durante los dos últimos meses de 1980, el que sea mayor.
 
-III.- Cuando en un lugar o región del país se establezca un sobreprecio al precio de la gasolina, no se estará obligado al pago del impuesto especial sobre producción y servicios por dicho sobreprecio en la enajenación.
+> <small>(F. DE E., D.O.F. 17 DE ABRIL DE 1981)</small>
 
-IV.- La reforma a las fracciones IV y V del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor a partir del 1o. de octubre de 1992.
+ARTICULO DECIMOTERCERO.- En tanto el precio al público en el Distrito Federal, incluyendo impuesto de la gasolina NOVA no exceda de $2.80, los contribuyentes de toda la República obligados al pago del impuesto por este concepto, en vez de efectuar pagos provisionales semanales, los harán quincenalmente, a más tardar los días 20 y 5o. de cada mes, o al siguiente día hábil, si aquéllos no lo fueran, respecto de las ventas realizadas en la quincena anterior, mediante declaración que presentarán en las oficinas autorizadas.
 
-V.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 1 de la Ley del Impuesto Especial sobre Producción y Servicios, durante 1992, los contribuyentes podrán optar por determinar la tasa del impuesto a que el mismo se refiere, en la fecha en que se autoricen aumentos de precios al público de los cigarros, y semestralmente cuando no se de esto último, conforme a lo siguiente:
+Mientras los pagos provisionales sean quincenales, las autoridades fiscales podrán presumir, salvo prueba en contrario, que los volúmenes de gasolina informados por Petróleos Mexicanos en los términos del artículo 21 de esta Ley, fueron adquiridos; y que el mismo volumen de gasolina, descontando la merma de 0.74% ; fue enajenado por el contribuyente, por partes iguales en cada una de las quincenas comprendidas en el informe.
 
-a).- Multiplicarán la tasa vigente al momento de efectuar el cálculo por el resultado de multiplicar el crecimiento experimentado por la producción industrial nacional entre el mes de diciembre de 1991 y el mes en el cual se efectúa el cálculo, adicionado de la unidad, por el factor de actualización correspondiente al mismo periodo. El resultado así obtenido se multiplicará por el factor que permita mantener la carga fiscal.
+ARTICULO DECIMOCUARTO.- Durante el año de 1981, del rendimiento del impuesto por concepto de prestación de servicios telefónicos, se destinará el 40% a apoyar los programas de desarrollo de las empresas que se dedican al servicio telefónico a fin de que mejoren y amplíen dicho servicio incluyendo aquéllos de la Federación para las comunicaciones eléctricas de larga distancia y de telefonía rural. Este apoyo se hará a través del organismo que señale la Secretaría de Hacienda y Crédito Público y en la forma que la misma determine.
 
-El factor de carga fiscal a que se refiere el párrafo anterior, se obtendrá restando a la recaudación por este concepto de 1991 manifestada en la Cuenta Pública de la Federación multiplicada por el crecimiento industrial a que se refiere el párrafo anterior adicionado de la unidad y por el factor de actualización correspondiente al mismo periodo de recaudación enterada por la industria desde el mes de enero hasta el mes inmediato anterior a aquél en que se efectúa el cálculo, y dividiendo el resultado entre el valor de las ventas correspondientes al periodo que va desde el mes en que se efectúa el cálculo y hasta el final del mes de diciembre referidos al año inmediato anterior, multiplicado por la tasa vigente en el mes en que se efectúa el cálculo.
+México, D. F., a 19 de diciembre de 1980.- José Murat, D. P.- Graciliano Alpuche Pinzón, S. P.- David Jiménez Gonzáelz (sic), D. S.- Mario Carballo Pazos, S. S.- Rúbricas".
 
-b).- El producto del inciso anterior se dividirá entre el resultado de multiplicar el crecimiento de la industria tabacalera entre el mes de diciembre y el del mes en que se efectúa el cálculo adicionado de la unidad, por el crecimiento del precio al público de los cigarros en el mismo periodo adicionado de la unidad. El resultado será la tasa vigente a partir del mes siguiente a aquél en que se efectúa el cálculo.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos ochenta.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
 
-La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo para calcular la tasa aplicable y la publicará en el Diario Oficial de la Federación.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS, DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Para efectos de esta fracción la tasa del impuesto aplicable a cigarros, al 1o. de enero de 1992, será de 135.87%.
+D.O.F. 30 DE DICIEMBRE DE 1980.
 
-Los contribuyentes que ejerzan la opción establecida en esta fracción deberán pagar el impuesto con base en la misma a lo largo de todo el ejercicio y darán aviso a la Secretaría de Hacienda y Crédito Público en el que manifiesten que han ejercido esta opción a más tardar el día 15 de enero de 1992.
+LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+ARTICULO DECIMOPRIMERO.- Para los efectos de la aplicación de la tasa establecida en el artículo 2o. fracción I, inciso II, subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1981 tengan un precio máximo al público que no exceda de $4.00 por cajetilla de veinte cigarros.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ## TRANSITORIO
 
@@ -1262,21 +1266,41 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SE
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-D.O.F. 3 DE DICIEMBRE DE 1993.
+D.O.F. 28 DE DICIEMBRE DE 1994.
 
-DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ###### ARTICULO DECIMO.
 
-Las personas que hayan adquirido para su consumo diesel industrial o marino a que se refieren las fracciones VII y VIII del artículo 3o., durante el periodo comprendido del 1o. de octubre al 31 de diciembre de 1993, podrán efectuar el acreditamiento de un monto equivalente al impuesto especial sobre producción y servicios, que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de dicho combustible. Para estos efectos, el impuesto especial sobre producción y servicios que se podrá acreditar será el que resulte de multiplicar el precio de adquisición del citado combustible que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0.1515.
+Los contribuyentes que produzcan o envasen vinos de mesa, sidras, rompopes y brandies deberán presentar ante la Secretaría de Hacienda y Crédito Público, dentro de los primeros quince días del mes de enero del año de 1981, una declaración pormenorizada en la que expresen las existencias de productos terminados al 31 de diciembre de 1980, indicando aquéllos que se encuentren ya envasados, o en los almacenes de la empresa.
 
-El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere el párrafo anterior.
-
-DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+Los contribuyentes obligados al pago del impuesto establecido en esta Ley, por la enajenación e importación de brandies que contengan más del 90% de aguardiente de uva, durante el año de 1981 aplicarán en vez de la tasa del 40% establecida en el inciso G, fracción I del artículo 2o. de esta Ley, la tasa del 37%.
 
 ###### ARTICULO DECIMO PRIMERO.
 
-Durante el año de 1994 y para efectos del artículo 2o., fracción I, inciso H), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1994 tengan un precio máximo al público que no exceda de 8 centavos de nuevos pesos por cigarro.
+Durante el año de 1992, se aplicarán en materia del impuesto especial sobre producción y servicios, las siguientes disposiciones:
+
+I.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1992 tengan un precio máximo al público que no exceda de $45.00 por cigarro.
+
+II.- Tratándose de la importación de gasolinas y diesel, el valor que se tomará como base para determinar el pago del impuesto especial sobre producción y servicios será el precio que Petróleos Mexicanos utilice en base de las gasolinas y diesel producidos en México.
+
+III.- Cuando en un lugar o región del país se establezca un sobreprecio al precio de la gasolina, no se estará obligado al pago del impuesto especial sobre producción y servicios por dicho sobreprecio en la enajenación.
+
+IV.- La reforma a las fracciones IV y V del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor a partir del 1o. de octubre de 1992.
+
+V.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 1 de la Ley del Impuesto Especial sobre Producción y Servicios, durante 1992, los contribuyentes podrán optar por determinar la tasa del impuesto a que el mismo se refiere, en la fecha en que se autoricen aumentos de precios al público de los cigarros, y semestralmente cuando no se de esto último, conforme a lo siguiente:
+
+a).- Multiplicarán la tasa vigente al momento de efectuar el cálculo por el resultado de multiplicar el crecimiento experimentado por la producción industrial nacional entre el mes de diciembre de 1991 y el mes en el cual se efectúa el cálculo, adicionado de la unidad, por el factor de actualización correspondiente al mismo periodo. El resultado así obtenido se multiplicará por el factor que permita mantener la carga fiscal.
+
+El factor de carga fiscal a que se refiere el párrafo anterior, se obtendrá restando a la recaudación por este concepto de 1991 manifestada en la Cuenta Pública de la Federación multiplicada por el crecimiento industrial a que se refiere el párrafo anterior adicionado de la unidad y por el factor de actualización correspondiente al mismo periodo de recaudación enterada por la industria desde el mes de enero hasta el mes inmediato anterior a aquél en que se efectúa el cálculo, y dividiendo el resultado entre el valor de las ventas correspondientes al periodo que va desde el mes en que se efectúa el cálculo y hasta el final del mes de diciembre referidos al año inmediato anterior, multiplicado por la tasa vigente en el mes en que se efectúa el cálculo.
+
+b).- El producto del inciso anterior se dividirá entre el resultado de multiplicar el crecimiento de la industria tabacalera entre el mes de diciembre y el del mes en que se efectúa el cálculo adicionado de la unidad, por el crecimiento del precio al público de los cigarros en el mismo periodo adicionado de la unidad. El resultado será la tasa vigente a partir del mes siguiente a aquél en que se efectúa el cálculo.
+
+La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo para calcular la tasa aplicable y la publicará en el Diario Oficial de la Federación.
+
+Para efectos de esta fracción la tasa del impuesto aplicable a cigarros, al 1o. de enero de 1992, será de 135.87%.
+
+Los contribuyentes que ejerzan la opción establecida en esta fracción deberán pagar el impuesto con base en la misma a lo largo de todo el ejercicio y darán aviso a la Secretaría de Hacienda y Crédito Público en el que manifiesten que han ejercido esta opción a más tardar el día 15 de enero de 1992.
 
 ###### ARTICULO DECIMO SEGUNDO.
 
@@ -1290,9 +1314,11 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
-D.O.F. 28 DE DICIEMBRE DE 1994.
+D.O.F. 15 DE DICIEMBRE DE 1995.
 
-DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
+
+Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
 
 ###### ARTICULO DECIMO.
 
@@ -1310,14 +1336,88 @@ Las cantidades establecidas en el artículo 4o-C de esta Ley, se entienden actua
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
 
-D.O.F. 15 DE DICIEMBRE DE 1995.
+D.O.F. 3 DE DICIEMBRE DE 1993.
 
-Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
+###### ARTICULO DECIMO.
+
+Las personas que hayan adquirido para su consumo diesel industrial o marino a que se refieren las fracciones VII y VIII del artículo 3o., durante el periodo comprendido del 1o. de octubre al 31 de diciembre de 1993, podrán efectuar el acreditamiento de un monto equivalente al impuesto especial sobre producción y servicios, que Petróleos Mexicanos y sus organismos subsidiarios hayan causado por la enajenación de dicho combustible. Para estos efectos, el impuesto especial sobre producción y servicios que se podrá acreditar será el que resulte de multiplicar el precio de adquisición del citado combustible que conste en el comprobante correspondiente, incluido el impuesto al valor agregado, por el factor de 0.1515.
+
+El acreditamiento antes mencionado podrá efectuarse contra las contribuciones federales que al efecto determine la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general. En ningún caso procederá la devolución de las cantidades acreditables a que se refiere el párrafo anterior.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+
+###### ARTICULO DECIMO PRIMERO.
+
+Durante el año de 1994 y para efectos del artículo 2o., fracción I, inciso H), subinciso 2) de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1994 tengan un precio máximo al público que no exceda de 8 centavos de nuevos pesos por cigarro.
 
 ## Transitorios
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
+
+D.O.F. 10 DE MAYO DE 1996.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+###### ARTICULO SEXTO.
+
+Las reformas a los artículos 5o. párrafos primero y segundo, 7o., 19 fracción I y 22 de la Ley del Impuesto Especial sobre Producción y Servicios, surtirán efectos a partir del primero de octubre de 1982.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor del día 1o. de enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO TERCERO.
+
+Al entrar en vigor la presente Ley, quedarán derogadas las leyes siguientes:
+
+I.- Ley del Impuesto sobre Producción y Consumo de Cerveza, a excepción de los artículos 10, fracciones II a XXV y XXVII a XXIX y 25, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.
+
+II.- Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, a excepción de los artículos 13 a 16, 52, 53, 54 y 56, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.
+
+Los reglamentos de las leyes que se derogan se continuarán aplicando en lo relativo a los preceptos que quedan vigentes, sólo durante el año de 1981.
+
+###### ARTICULO CUARTO.
+
+Las obligaciones derivadas de las disposiciones fiscales que queden abrogadas o derogadas, según sea el caso, a partir del 1o. de enero de 1981, que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídicas o de hecho previstas en las mismas, deberán ser cumplidas en la forma y plazos establecidos en las citadas disposiciones.
+
+###### ARTICULO SEPTIMO.
+
+El plazo para abrogar las leyes a que se refiere el Artículo Tercero Transitorio de la Ley del Impuesto Especial sobre Producción y Servicios, se prorroga hasta el 30 de junio de 1982, fecha hasta la que se continuarán aplicando los artículos de las leyes señaladas en ese precepto, así como los reglamentos de dichas leyes en lo relativo a los preceptos que quedan vigentes hasta la fecha de abrogación de las leyes mencionadas.
+
+###### ARTICULO OCTAVO.
+
+Las obligaciones derivadas de la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos abrogada que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídica o de hecho previstas en la misma, deberán ser cumplidas en la forma y plazos establecidos en la citada Ley.
+
+No se pagará el impuesto establecido en la Ley del Impuesto Especial sobre Producción y Servicios, cuando por la compraventa de primera mano de aguas envasadas y refrescos, ya se haya causado el impuesto federal establecido en la Ley abrogada.
+
+En las importaciones de aguas envasadas y refrescos, no se pagará el impuesto especial sobre producción y servicios por los introducidos en el país con anterioridad al 1o. de enero de 1982, en los términos del Código Aduanero de los Estados Unidos Mexicanos. Se pagará el impuesto especial sobre producción y servicios en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
+
+ARTICULO DECIMOSEGUNDO.- Los contribuyentes del impuesto especial sobre producción y servicios, que lo sean por la enajenación o importación de vinos de mesa y sidras, cuando a la temperatura de 15º centígrados tengan una graduación alcohólica hasta de 14º G.L., así como los rompopes cuando a la misma temperatura su graduación sea hasta de 15º G.L., aplicarán en vez de la tasa establecida en el artículo 2o. fracción I, inciso E de la Ley del Impuesto Especial sobre Producción y Servicios, durante el año de 1982, la tasa del 8% y durante el año de 1983, la tasa del 11%.
+
+ARTICULO DECIMOTERCERO.- Tratándose de la enajenación de aguas envasadas y refrescos, en envases cerrados, que realiza directamente el contribuyente, en la cual cargue y cobre además del precio oficial de venta las cantidades autorizadas por la autoridad competente por concepto de fletes, la tasa del impuesto especial sobre producción y servicios será del 12% sobre el valor determinado conforme al artículo 11 de la Ley de la materia y se mantendrá hasta que la autoridad competente autorice un aumento en los cargos adicionales por concepto de fletes.
+
+D.O.F. 30 DE SEPTIEMBRE DE 1982.
+
+###### ARTICULO QUINTO.
+
+No se pagará el impuesto establecido en esta Ley, cuando por la compraventa de primera mano, por el envasamiento, producción, venta, consumo o por los ingresos obtenidos de la prestación de servicios, ya se hayan causado los impuestos federales que se abrogan o derogan según el caso, o cuando la contraprestación fue exigible antes del 1o. de enero de 1981; si es exigible con posterioridad, en razón de que los actos o actividades fueren de carácter continuo, sólo se pagará el impuesto por la parte de la contraprestación correspondiente a los actos o actividades o los efectos de los mismos, que se realicen a partir de dicha fecha.
+
+En las importaciones de bienes, no se pagará este impuesto por los introducidos en el país con anterioridad al 1o. de enero de 1981 en los términos del Código Aduanero de los Estados Unidos Mexicanos. Se pagará el impuesto establecido en esta Ley en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
+
+Los importadores de bebidas alcohólicas que previa autorización de la Secretaría de Hacienda y Crédito Público, concedida en los términos de la Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, hayan diferido el entero del impuesto hasta que las bebidas sean enajenadas en territorio nacional, pagarán el impuesto en los términos del Artículo Cuarto Transitorio de esta Ley.
