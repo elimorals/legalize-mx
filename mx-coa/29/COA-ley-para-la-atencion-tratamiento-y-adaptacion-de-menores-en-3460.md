@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-atencion-tratamiento-y-adaptacion-de-menores-en-346
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-14"
-last_updated: "1994-06-14"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de junio de 1994.
 
@@ -41,9 +41,11 @@ LEY PARA LA ATENCION, TRATAMIENTO Y ADAPTACION DE MENORES EN EL ESTADO DE COAHUI
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 1.
 
-La presente ley tiene por objeto reglamentar la función del Estado en la protección de los derechos de los menores, así como la adaptación social de aquellos cuya conducta se encuentre tipificada en las leyes penales del Estado de Coahuila.
+La presente ley tiene por objeto reglamentar la función el Estado en la adaptación social de aquellos menores cuya conducta se encuentre tipificada en las leyes penales del Estado de Coahuila.
 
 ###### ARTICULO 2.
 
@@ -109,13 +111,15 @@ VII.- Los Actuarios;
 
 VIII.- Hasta tres Consejeros Supernumerarios;
 
-IX.- La Unidad de Defensa de Menores; y
+IX.- (DEROGADA, P.O. 23 DE ENERO DE 1998)
 
 X.- Las unidades Técnicas y Administrativas que se determine.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 9.
 
-El Presidente del Consejo, los integrantes de la Sala Superior, los Consejeros, el Secretario General de Acuerdos de la Sala Superior, los miembros de los Comités Técnicos Interdisciplinarios, los Secretarios de Acuerdos y los Defensores de Menores, deberán reunir y acreditar los siguientes requisitos:
+El Presidente del Consejo, los integrantes de la Sala Superior, los Consejeros, el Secretario General de Acuerdos de la Sala Superior, los miembros de los Comités Técnicos Interdisciplinarios y los Secretarios de Acuerdos deberán reunir y acreditar los siguientes requisitos:
 
 I.- Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -125,7 +129,9 @@ III.- Poseer el título que corresponda a la función que desempeñe de acuerdo 
 
 IV.- Tener conocimientos especializados sobre el estudio, prevención y tratamiento de la conducta del menor; y
 
-V.- El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos y los Titulares de los Comités Técnicos Interdisciplinarios y de la Unidad de la Defensa de Menores, deberán tener una edad mínima de veinticinco años y además, deberán tener por lo menos tres años de ejercicio profesional, contados desde la fecha de autorización legal para el ejercicio de la profesión. Cesarán en sus funciones al cumplir setenta años de edad.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+
+V.- El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos y los Titulares de los Comités Técnicos Interdisciplinarios, deberán tener una edad mínima de veinticinco años y además, deberán tener por lo menos tres años de ejercicio profesional, contados desde la fecha de autorización legal para el ejercicio de la profesión. Cesarán en sus funciones al cumplir setenta años de edad.
 
 ###### ARTICULO 10.
 
@@ -163,7 +169,9 @@ XIII.- Nombrar y remover al personal técnico y administrativo al servicio del C
 
 XIV.- Proveer lo necesario para el debido cumplimiento de los programas de trabajo y el ejercicio del presupuesto del Consejo;
 
-XV.- Proponer al Secretario de Gobierno la designación y, en su caso, la remoción por causa justificada de los miembros y presidentes de los Comités Técnicos Interdisciplinarios y del titular de la Unidad de Defensa de Menores.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+
+XV.- Proponer al Secretario de Gobierno la designación y, en su caso, la remoción por causa justificada de los miembros y presidentes de los Comités Técnicos Interdisciplinarios.
 
 XVI.- Dirigir, coordinar, supervisar y evaluar el funcionamiento de las unidades adscritas al Consejo;
 
@@ -387,25 +395,21 @@ V.- Los Actuarios, por la persona que designe el Consejero Unitario, la que debe
 
 VI.- Los demás servidores públicos, por quien determine el Presidente del Consejo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 1998)</small>
+
 ### CAPITULO TERCERO. DE LA UNIDAD DE DEFENSA DE MENORES
 
 ###### ARTICULO 26.
 
-La Unidad de Defensa de Menores es técnicamente autónoma y tiene por objeto, en el ámbito de la prevención general y especial, la defensa de los intereses legítimos de los derechos de los menores, ante el Consejo o cualquier otra autoridad administrativa o judicial en materia del fuero común.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ###### ARTICULO 27.
 
-El Titular de la Unidad será designado y removido libremente por el Secretario de Gobierno.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ###### ARTICULO 28.
 
-La Unidad de Defensa de Menores estará a cargo de un Titular y contará con el número de defensores, así como con el personal técnico y administrativo que determine el presupuesto, y sus funciones estarán señaladas en el manual que al efecto se expida, conforme a lo siguiente:
-
-I.- La defensa general tiene por objeto defender y asistir a los menores, en los casos de violación de sus derechos en el ámbito de la prevención general.
-
-II.- La defensa procesal tiene por objeto la asistencia y defensa de los menores, en cada una de las etapas procesales; y
-
-III.- La defensa de los derechos de los menores en las fases de tratamiento y de seguimiento, tiene por objeto la asistencia y defensa jurídica de los menores durante las etapas de aplicación de las medidas de orientación, de protección, de tratamiento interno y externo, y en la fase de seguimiento.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ## TITULO SEGUNDO. DE LA UNIDAD ENCARGADA DE LA PREVENCION Y TRATAMIENTO DE MENORES
 
@@ -475,7 +479,9 @@ II.- Se dará aviso inmediato respecto de su situación a sus representantes leg
 
 III.- Tendrá derecho a designar a sus expensas, por sí o por sus representantes legales o encargados, a un licenciado en derecho de su confianza, en el legal ejercicio de su profesión, para que lo asista jurídicamente durante el procedimiento, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internación;
 
-IV.- En caso de que no se designe un licenciado en derecho de su confianza en el legal ejercicio de su profesión, de oficio se le asignará un defensor de menores, para que lo asista jurídica y gratuitamente desde que quede a disposición del Comisionado y en las diversas etapas del procedimiento ante los órganos del Consejo, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internación;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+
+IV.- En caso de que no se designe un licenciado en Derecho de su confianza, en el legal ejercicio de su profesión, de oficio se le asignará un defensor que tenga conocimientos jurídicos en la materia, para que lo asista jurídica y gratuitamente desde que quede a disposición del Comisionado y en las diversas etapas del procedimiento ante los órganos del Consejo, así como en la aplicación de las medidas de orientación, de protección o de tratamiento en externación y en internación;
 
 V.- Contará con la asistencia gratuita de un intérprete, si no comprende o no habla el idioma utilizado;
 
@@ -1189,51 +1195,33 @@ IV.- Depósito que no excederá de treinta y seis horas en las residencias, albe
 
 La amonestación, tendrá lugar en privado y en forma separada cuando ésta haya de hacerse al menor y a sus representantes legítimos o guardadores; será todo lo enérgica que conviniere y tratándose de los menores, se hará en tono paternal sin que por ello pierda su carácter admonitorio.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 1998)</small>
+
 ## TITULO OCTAVO. DE LA ATENCION DE LOS MENORES EN SITUACION EXTRAORDINARIA
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE ENERO DE 1998)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 132.
 
-Para los efectos de su atención, se considerará que un menor se encuentra en situación extraordinaria cuando:
-
-I.- Carezca de familia, sufra de maltrato físico o mental o rechazo familiar;
-
-II.- Sea objeto de explotación o abuso;
-
-III.- Viva en un hogar desorganizado, a causa de la negligencia, depravación o crueldad de sus padres, tutores o quienes ejerzan sobre él la patria potestad;
-
-IV.- Se ausente reiteradamente de su domicilio sin causa justificada y sin autorización de quien deba darla;
-
-V.- Habite en casa de mala fama o con personas viciosas o de mala reputación;
-
-VI.- Se asocie con delincuentes, homosexuales, prostitutas, viciosos o vagos;
-
-VII.- Practique actos obscenos o incite a otros a cometerlos;
-
-VIII.- Se embriague o intoxique;
-
-IX.- Trabaje en ocupaciones u oficios que comprometan su moralidad y seguridad;
-
-X.- Frecuente cantinas, cabarets, centros de vicio u otros sitios semejantes; y
-
-XI.- Cualquiera otra causa análoga a juicio del Consejero Unitario.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ###### ARTICULO 133.
 
-También serán objeto de atención, por el potencial peligro en que se encuentren, los menores cuya custodia se discuten sus padres, representantes legales o guardadores, cuando la salud de éstos comprometa la de aquéllos o cuando manifiesten notoria incapacidad en el ejercicio de su encargo.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ###### ARTICULO 134.
 
-Los Consejeros Unitarios conocerán de los casos a que se refieren los artículos anteriores y decretarán de inmediato las medidas urgentes que a su juicio estime convenientes para salvaguardar la integridad física o moral del menor.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ###### ARTICULO 135.
 
-Para la ejecución de las medidas de asistencia social decretadas por el Consejo, el Sistema para el Desarrollo Integral de la Familia designará la Institución de Asistencia Social Pública o Privada que coadyuvará en el cumplimiento de las mismas.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ###### ARTICULO 136.
 
-Cuando la situación de peligro que afecte al menor, amerite el ejercicio de una acción civil o penal que lo restablezca en su situación de derecho, se turnará a la Unidad de Defensa de Menores para que actúe en consecuencia.
+(DEROGADO, P.O. 23 DE ENERO DE 1998)
 
 ## TRANSITORIOS
 
@@ -1280,3 +1268,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ENERO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
