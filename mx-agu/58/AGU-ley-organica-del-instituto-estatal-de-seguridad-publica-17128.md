@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-estatal-de-seguridad-publica-17128"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-06"
-last_updated: "2000-03-06"
+last_updated: "2004-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 6 de marzo de 2000.
 
@@ -41,41 +41,87 @@ LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 1º.
 
-El Instituto Estatal de Seguridad Pública es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Aguascalientes cuyo objetivo será el reclutamiento, la selección y la preparación profesional de los aspirantes e integrantes a formar parte de las Instituciones de Seguridad Pública del Estado: policías preventivos, policías de vialidad, jueces calificadores, policías judiciales, agentes del ministerio público y sus secretarios, peritos, defensores de oficio, personal técnico y de seguridad y custodia de los Centros de Readaptación Social del Estado, en coordinación con cada una de las dependencias involucradas.
+El Instituto Estatal de Seguridad Pública es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Aguascalientes.
+
+Su objeto es el reclutamiento, la selección y la preparación profesional de los integrantes y aspirantes a formar parte de las Instituciones de Seguridad Pública del Estado, entre otros: policías preventivos, policías de vialidad, jueces calificadores, policías ministeriales, agentes del ministerio público y sus secretarios, peritos, personal técnico y de seguridad y custodia de los Centros de Reeducación Social del Estado, en coordinación con cada una de las dependencias involucradas.
 
 ###### ARTICULO 2º.
 
 El Instituto Estatal de Seguridad Pública a través de sus actividades académicas buscará la excelencia del personal de las instituciones de seguridad pública reforzando valores como: honestidad, responsabilidad, servicio, lealtad institucional, disciplina y respeto a los derechos de las personas.
 
-### CAPITULO II. Objeto del Instituto Estatal de Seguridad Pública de Aguascalientes
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+
+### CAPITULO II. Del Instituto Estatal de Seguridad Pública
 
 ###### ARTICULO 3º.
 
 El Instituto Estatal de Seguridad Pública, tendrá las siguientes funciones:
 
-I.- Impartir cursos de formación, actualización y especialización en coordinación con el Instituto de Educación de Aguascalientes, Universidades y otras Instituciones de Educación Superior para el desarrollo del personal de las Dependencias de Seguridad Pública y de Seguridad Privada;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-II.- Como institución educativa estará facultada para realizar actividades de educación con Reconocimiento de Validez Oficial de Estudios en los niveles medio y superior a través de carrera técnica, carrera técnica superior, licenciatura y postgrados en conformidad con las disposiciones legales vigentes en materia de educación;
+I.- Impartir cursos de formación, actualización y especialización en coordinación con el Instituto de Educación de Aguascalientes e Instituciones de Educación Superior para el desarrollo del personal de las Instituciones de Seguridad Pública y de Empresas de Seguridad Privada;
 
-III.- Certificar y capacitar al personal de las empresas de seguridad privada en el Estado, coadyuvando con la autoridad competente en la supervisión y evaluación de los servicios de seguridad privada de acuerdo con el reglamento que expida la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-IV.- Coordinarse con la Academia Nacional de Seguridad Pública, las Academias Regionales y Estatales, para implementar actividades académicas dirigidas al personal de las diferentes áreas de especialidad de Seguridad Pública del Estado de Aguascalientes y los demás Estados de la República; y
+II.- Como institución educativa estará facultada para realizar actividades de educación con Reconocimiento de Validez Oficial de Estudios en los niveles medio y superior a través de carrera técnica, carrera técnica superior universitaria, licenciatura y postgrados, de conformidad con las disposiciones legales vigentes en materia de educación;
 
-V.- Fomentar una cultura de prevención del delito a través de las diferentes dependencias de los tres niveles de gobierno, que tengan funciones de seguridad pública o educativas, y vinculándose con organizaciones sociales.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+III.- Expedir certificados y otorgar constancias, diplomas, títulos o grados académicos a las personas que hayan concluido los estudios correspondientes, los cuales tendrán validez en toda la República, de conformidad con lo establecido en el artículo 60 de la Ley General de Educación, previo reconocimiento de validez oficial de estudios;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV.- Certificar y capacitar al personal de las Empresas de Seguridad Privada en el Estado;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+V.- Coordinarse con la Academia Nacional de Seguridad Pública, las Academias Regionales y Estatales, para implementar actividades académicas dirigidas al personal de las diferentes áreas de especialidades de Seguridad Pública del Estado de Aguascalientes y los demás Estados de la República; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+VI.- Fomentar una cultura de prevención del delito a través de las diferentes dependencias de los tres niveles de gobierno, que tengan funciones de seguridad pública o educativas y vinculándose con organizaciones sociales.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 4º.
 
-El Instituto Estatal de Seguridad Pública tendrá la organización y sus órganos tendrán las atribuciones que le señale su Reglamento Orgánico, expedido de conformidad con la presente Ley.
+La representación del Instituto Estatal de Seguridad Pública y el trámite y resolución de los asuntos de su competencia, corresponden originariamente al Director General, quien podrá delegar cualquiera de sus facultades a los titulares de las Unidades Administrativas que a continuación se señalan, excepto aquellas que por disposición legal deba ejercer directamente:
 
-### CAPITULO III. El Patrimonio del Instituto Estatal de Seguridad Pública en Aguascalientes
+I.- Dirección Académica;
+
+II.- Dirección Administrativa;
+
+III.- Secretaría Particular;
+
+IV.- Dirección de Vinculación y Participación Social;
+
+V.- Dirección de Investigación Educativa en Seguridad Pública;
+
+VI.- Coordinación de Capacitación Especializada y Proyectos Especiales;
+
+VII.- Coordinación de Tutorías;
+
+VIII.- Coordinación Jurídica; y
+
+IX.- Area del Cuerpo de Alumnos.
+
+Las Direcciones Académica y Administrativa, suplirán en sus ausencias temporales al Director General, quienes tendrán las atribuciones, funciones y obligaciones que el Director General asigne o de conformidad a lo establecido en el Reglamento Interior.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+
+### CAPITULO III. Del Patrimonio del Instituto Estatal de Seguridad Pública
 
 ###### ARTICULO 5º.
 
 El patrimonio del Instituto Estatal de Seguridad Pública se compondrá de:
 
-I.- El que le asigne el presupuesto de la Ley de Egresos del Estado, los subsidios, los bienes muebles e inmuebles que le proporcionen los Gobiernos Federal, Estatal y Municipales y las entidades de la Administración Pública Paraestatal, así como los recursos establecidos en el Ramo 33 y del fondo séptimo señalado en la Ley Federal de Coordinación Fiscal, en el Artículo 25 Fracción VII, en relación con los Artículos 44 y 45, además de los acordados en los convenios celebrados entre el Estado y la Federación a través de los Sistemas Estatales de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+I.- El que le asigne el Presupuesto de Egresos del Estado, los subsidios, los bienes muebles e inmuebles que le proporcionen los Gobiernos Federal, Estatal y Municipales y las Entidades de la Administración Pública Paraestatal, así como los recursos establecidos en la Ley Federal de Coordinación Fiscal, además de los acordados en los convenios celebrados entre el Estado y la Federación a través de los Sistemas Estatales de Seguridad Pública.
 
 II.- Las donaciones, herencias y legados que se otorguen a su favor, los cuales de ninguna manera deberán implicar condiciones que deformen los objetivos del Instituto Estatal de Seguridad Pública establecidos;
 
@@ -83,9 +129,11 @@ III.- Toda clase de bienes que adquiera el Instituto Estatal de Seguridad Públi
 
 ### CAPITULO IV. De los Organos de Gobierno
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 6º.
 
-El Instituto Estatal de Seguridad Pública del Estado en Aguascalientes contará con los siguientes órganos de Gobierno:
+El Instituto Estatal de Seguridad Pública contará con los siguientes órganos de Gobierno:
 
 I.- La Junta de Gobierno;
 
@@ -93,25 +141,45 @@ II.- La Dirección General; y
 
 III.- Un Consejo Técnico Consultivo.
 
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV.- Una Comisión de Honor y Justicia; quien tendrá la estructura y funciones que al efecto establezca el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 7º.
 
-La Junta de Gobierno es el máximo órgano de Gobierno del Instituto Estatal de Seguridad Pública en Aguascalientes y estará integrada por un Presidente, un Secretario Ejecutivo y ocho vocales.
+La Junta de Gobierno es el máximo órgano de Gobierno del Instituto Estatal de Seguridad Pública y estará integrada por un Presidente, un Secretario Ejecutivo y diez vocales.
 
-La Presidencia de la Junta de Gobierno estará a cargo del Gobernador Constitucional del Estado, la Secretaría Ejecutiva estará a cargo del Director de Seguridad Pública y Vialidad del Estado, quien tendrá voz pero no voto en la misma. Los vocales de la Junta serán: el Secretario General de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Procurador General de Justicia del Estado, el Director General del Instituto de Educación de Aguascalientes, el Rector de la Universidad Autónoma de Aguascalientes, el Procurador de Protección Ciudadana y tres representantes de los Municipios.
+La Presidencia de la Junta de Gobierno estará a cargo del Gobernador Constitucional del Estado, quién tendrá el voto de calidad en caso de empate.
 
-Los vocales representantes de los Municipios, serán electos de común acuerdo por los Presidentes Municipales de la totalidad de los Municipios del Estado, quienes se reunirán para tal efecto y darán a conocer a la Presidencia de la Junta de Gobierno el resultado de la elección; en caso de que no existiera acuerdo, la selección se llevará a cabo por insaculación. Los representantes de los Municipios ante la Junta de Gobierno, durarán en su encargo dos años, pudiendo ser reelectos.
+La Secretaría Ejecutiva estará a cargo del Subsecretario de Seguridad Pública del Estado, quien tendrá voz y voto en la misma.
 
-El Secretario Ejecutivo de la Junta de Gobierno será el encargo (sic) de convocar a las asambleas de dicho órgano, levantar las actas correspondientes y llevar el archivo documental, con el auxilio del Director del Instituto Estatal de Seguridad Pública en Aguascalientes.
+Los vocales de la Junta, quienes tendrán voz y voto serán: el Secretario General de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Procurador General de Justicia del Estado, el Director General del Instituto de Educación de Aguascalientes, el Director General de Seguridad Pública y Vialidad, el Director General de Reeducación Social, el Rector de la Universidad Autónoma de Aguascalientes, el Presidente de la Comisión Estatal de Derechos Humanos, el Presidente Municipal de Aguascalientes y tres representantes de los Municipios del interior del Estado.
+
+Los vocales representantes de los Municipios, serán electos de común acuerdo por los Presidentes Municipales de la totalidad de los Municipios del Estado, quienes se reunirán para tal efecto y darán a conocer a la Presidencia de la Junta de Gobierno el resultado de la elección; en caso de que no existiera acuerdo, la selección se llevará a cabo por insaculación en los términos que se establezcan en el Reglamento del la presente Ley. Los representantes de los Municipios ante la Junta de Gobierno, durarán en su encargo dos años, pudiendo ser reelectos.
+
+El Secretario Ejecutivo de la Junta de Gobierno es el encargado de convocar a las asambleas de dicho órgano, levantar las actas correspondientes y llevar el archivo documental, con el auxilio del Director General del Instituto Estatal de Seguridad Pública.
+
+Los integrantes de la Junta de Gobierno, podrán nombrar a su suplente, quienes tendrán las facultades correspondientes al titular en su ausencia.
+
+El Director General del Instituto Estatal de Seguridad Pública, podrá acudir a las sesiones de la Junta de Gobierno, con derecho a voz pero sin voto.
 
 ###### ARTICULO 8º.
 
 En ningún caso podrá ser miembro de la Junta de Gobierno:
 
-I.- El Director General del Organismo de que se trate;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-II.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Organo de Gobierno o con el Director General;
+I.- El Director General del Instituto Estatal de Seguridad Pública;
 
-III.- Las personas que tengan litigios pendientes con el organismo de que se trate;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+II.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los integrantes de la Junta de Gobierno o con el Director General;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+III.- Las personas que tengan litigios pendientes con el Instituto Estatal de Seguridad Pública;
 
 IV.- Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
 
@@ -123,9 +191,11 @@ La Junta de Gobierno sesionará por lo menos trimestralmente y podrá celebrar s
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 10.
 
-Corresponderá a la Junta de Gobierno:
+Corresponde a la Junta de Gobierno:
 
 I.- Dictar las normas para el funcionamiento, aplicación de recursos y organización del Instituto Estatal de Seguridad Pública;
 
@@ -137,23 +207,41 @@ IV.- Revisar los programas de trabajo, el manejo de los recursos económicos, lo
 
 V.- Vigilar la administración y custodia del patrimonio del Instituto Estatal de Seguridad Pública;
 
-VI.- Conocer los informes de labores que trimestralmente rinda el Director del Instituto Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-VII.- Autorizar el Manual General de Organización y Métodos que el Consejo Técnico Consultivo elabore;
+VI.- Conocer los informes de labores que trimestralmente rinda el Director General del Instituto Estatal de Seguridad Pública;
 
-VIII.- Expedir o modificar el Reglamento Orgánico del Instituto Estatal de Seguridad Pública y los reglamentos que se requieran para la adecuada aplicación de la presente Ley;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-IX.- Aprobar el presupuesto de egresos del Instituto Estatal de Seguridad Pública que habrá de someterse a la consideración del Congreso;
+VII.- Autorizar el Manual General de Organización y Métodos que elabore y presente el Director General;
 
-X.- A propuesta del Director del Instituto, la Junta de Gobierno nombrará a los funcionarios que señale el Reglamento Orgánico del Instituto Estatal de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XI.- Las demás atribuciones que sean necesarias para el cumplimiento de los objetivos del Instituto Estatal de Seguridad Pública.
+VIII.- Aprobar, expedir o modificar el Reglamento Interior del Instituto Estatal de Seguridad Pública, así como los demás reglamentos, manuales y lineamientos internos que se requieran para la adecuada aplicación de la presente Ley;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IX.- Aprobar el Proyecto del Presupuesto de Egresos del Instituto Estatal de Seguridad Pública que habrá de enviarse a la Secretaría de Finanzas y Administración del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+X.- A propuesta del Director General del Instituto Estatal de Seguridad Pública, la Junta de Gobierno nombrará a los funcionarios señalados en el artículo 4 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XI.- Emitir opinión sobre los proyectos de reformas a la presente Ley, presentadas por el Director General; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XII.- Las demás atribuciones establecidas en la presente Ley, en el Reglamento Interior, así como las que sean necesarias para el cumplimiento de los objetivos del Instituto Estatal de Seguridad Pública.
 
 ### CAPITULO V. Del Director General
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 11.
 
-El Director del Instituto Estatal de Seguridad Pública será nombrado por la Junta de Gobierno a propuesta del titular del Poder Ejecutivo del Estado.
+El Director General del Instituto Estatal de Seguridad Pública será nombrado por la Junta de Gobierno de entre la terna que proponga el titular del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 12.
 
@@ -165,141 +253,289 @@ II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera 
 
 III.- Poseer Título de Licenciatura o Postgrado; y
 
-IV.- No encontrarse en alguno de los impedimentos para ser miembro de la Junta de Gobierno que señalan las fracciones II, III, IV y V del Artículo 12 de la Ley para el Control de Entidades Paraestatales vigente en el Estado, mismas fracciones señaladas en el Artículo 15 de esta Ley.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+IV.- No encontrarse en alguno de los impedimentos para ser miembro de la Junta de Gobierno que señalan las fracciones II, III, IV y V del Artículo 12 de la Ley para el Control de Entidades Paraestatales vigente en el Estado, con relación al artículo 8º de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 13.
 
-El Director del Instituto Estatal de Seguridad Pública tendrá las siguientes atribuciones:
+El Director General del Instituto Estatal de Seguridad Pública, tendrá las siguientes atribuciones y facultades:
 
 I.- Representar legalmente al Instituto Estatal de Seguridad Pública;
 
-II.- Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-III.- Ejercer las más amplias facultades de dominio, administración, pleitos y cobranza, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes;
+II.- Enviar a la Junta de Gobierno para su revisión y opinión, el proyecto de creación o reformas a los Reglamentos, manuales y lineamientos internos;
 
-IV.- Emitir, avalar y negociar títulos de crédito;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-V.- Formular querellas y otorgar perdón;
+III.- Enviar al titular del Poder Ejecutivo del Estado, a través del Secretario General de Gobierno, los Reglamentos aprobados por la Junta de Gobierno, para el trámite correspondiente de publicación en el Periódico Oficial del Estado;
 
-VI.- Ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-VII.- Comprometer asuntos en arbitraje y celebrar transacciones;
+IV.- Enviar al titular del Poder Ejecutivo del Estado, a través del Secretario General de Gobierno, los proyectos de reforma a la presente Ley, para el trámite que corresponda;
 
-VIII.- Sustituir y revocar poderes generales o especiales.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-Los Directores Generales ejercerán las facultades a que se refieren las fracciones anteriores, bajo su responsabilidad y dentro de las limitaciones que señale la Ley del organismo respectivo o el Organo de Gobierno;
+V.- Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
-IX.- Vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-X.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General.
+VI.- Ejercer las más amplias facultades de dominio, administración, pleitos y cobranza, aún de aquellas que requieran de autorización especial, según otras disposiciones legales o reglamentarias con apego a la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes;
 
-Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Entidades Paraestatales;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XI.- Presentar a la Junta de Gobierno los proyectos y avances de planes y programas, informes y estados financieros del Instituto Estatal de Seguridad Pública trimestralmente, así como los que específicamente se le soliciten;
+VII.- Emitir, avalar y negociar títulos de crédito;
 
-XII.- Someter o dar cuenta a la Junta de Gobierno de los asuntos de importancia y trascendencia que puedan afectar el funcionamiento del Instituto Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XIII.- Ejercer el presupuesto del Instituto Estatal de Seguridad Pública;
+VIII.- Presentar y contestar demandas, recursos, denuncias y querellas ante la autoridad competente estatal o federal, así como otorgar perdón y presentar desistimientos;
 
-XIV.- Administrar y custodiar el patrimonio del Instituto Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XV.- Dirigir técnica y administrativamente la operación del Instituto Estatal de Seguridad Pública;
+IX.- Comprometer asuntos en arbitraje y celebrar transacciones;
 
-XVI.- Aprobar el calendario de actividades académicas;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XVII.- Nombrar y en su caso remover a los funcionarios y al personal técnico y administrativo del Instituto Estatal de Seguridad Pública;
+X.- Sustituir y revocar poderes generales o especiales;
 
-XVIII.- Presidir el Consejo Técnico Consultivo;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XIX.- Aplicar el Reglamento Orgánico por el cual deba regirse la prestación de servicios del personal que forma parte del Instituto Estatal de Seguridad Pública;
+XI.- Vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
 
-XX.- Aplicar sanciones y medidas disciplinarias al personal y alumnado del Instituto que infrinjan el Reglamento Interior;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XXI.- Fomentar cultura de prevención en la comisión del delito como víctima;
+XII.- Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el Director General;
 
-XXII.- Autorizar en el orden pedagógico el desarrollo de planes y programas de estudios de formación, actualización y especialización;
+Los poderes generales para surtir efectos frente a terceros deberán inscribirse en el Registro Público de Entidades Paraestatales.
 
-XXIII.- Suscribir los convenios de coordinación, de cooperación o de cualquier otra naturaleza que resulten necesarios para el cumplimiento de los objetivos del Instituto Estatal de Seguridad Pública, que no sean de facultad exclusiva del Ejecutivo; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-XXIV.- Las demás facultades o atribuciones para el buen funcionamiento de la institución que le confiera la Junta de Gobierno.
+XIII.- Presentar a la Junta de Gobierno los proyectos y avances de planes y programas, informes y estados financieros del Instituto Estatal de Seguridad Pública trimestralmente, así como los que específicamente se le soliciten;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XIV.- Someter o dar cuenta a la Junta de Gobierno de los asuntos de importancia y trascendencia que puedan afectar el funcionamiento del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XV.- Ejercer el presupuesto del Instituto Estatal de Seguridad Pública, de conformidad con las partidas presupuestales previamente aprobadas;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XVI.- Remitir a la Secretaría de Finanzas y Administración los presupuestos y programas financieros del Instituto Estatal de Seguridad Pública, aprobado por la Junta de Gobierno, para los efectos a que se refiere el Artículo 41 de la Ley de Control de Entidades Paraestatales del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XVII.- Administrar y custodiar el patrimonio del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XVIII.- Dirigir técnica y administrativamente la operación del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XIX.- Aprobar el calendario de actividades académicas;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XX.- Nombrar y en su caso remover a los funcionarios y al personal técnico y administrativo del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXI.- Presidir el Consejo Técnico Consultivo;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXII.- Aplicar el Reglamento Interior, por el cual deba regirse la prestación de servicios del personal que forma parte del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXIII.- Estar informado de los actos de la Comisión de Honor y Justicia del Instituto Estatal de Seguridad Pública, de conformidad con lo establecido en el Reglamento respectivo;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXIV.- Aplicar sanciones y medidas disciplinarias al personal y alumnado del Instituto Estatal de Seguridad Pública, que infrinjan los Reglamentos internos del mismo Instituto y demás disposiciones legales aplicables, en los casos que le corresponda;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXV.- Fomentar la cultura de prevención en la comisión del delito como víctima;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXVI.- Autorizar en el orden pedagógico el desarrollo de planes y programas de estudios de formación, actualización y especialización;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXVII.- Suscribir convenios de coordinación, de colaboración de cooperación o de cualquier otra naturaleza, que resulten necesarios para el cumplimiento de los objetivos del Instituto Estatal de Seguridad Pública, que no sean de facultad exclusiva del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXVIII.- Celebrar contratos con las personas del Derecho Público y Privado sobre cualquier materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXIX.- Delegar cualquiera de sus facultades a los titulares de las áreas administrativas, señaladas en el Artículo 4 de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2004)</small>
+
+XXX.- Las demás facultades o atribuciones que para el buen funcionamiento de la institución le otorgue la Junta de Gobierno y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2004)</small>
+
+ARTICULO 13 BIS.- Las sanciones y medidas disciplinarias a que se refiere la fracción XXIV del artículo que antecede, en lo que se refiere a los alumnos, son las siguientes:
+
+I. Amonestación verbal en privado;
+
+II. Amonestación escrita en privado;
+
+III. Sanción económica;
+
+IV. Arresto hasta por treinta y seis horas, sin perjuicio de su servicio, en caso de ser cadetes;
+
+V. Cancelación de la matrícula o baja;
+
+VI. Las demás establecidas en el Reglamento correspondiente.
+
+Para la aplicación de las sanciones y medidas disciplinarias, se observará lo establecido en el Reglamento correspondiente.
+
+El servidor público o personal docente que imponga cualquier sanción o medida disciplinaria sin competencia para ello, o imponga aquellas sanciones no previstas en el presente artículo o en el Reglamento correspondiente, será responsable administrativa, civil y penalmente de conformidad con las leyes aplicables.
 
 ### CAPITULO VI. Del Consejo Técnico Consultivo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 14.
 
-El Director del Instituto Estatal de Seguridad Pública contará con el auxilio de un Consejo Técnico Consultivo, el cual estará integrado por los siguientes miembros:
+El Director General del Instituto Estatal de Seguridad Pública, contará con el auxilio de un Consejo Técnico Consultivo, el cual estará integrado por los siguientes miembros:
 
-a).- Un representante de la Dirección de Seguridad Pública y Vialidad del Estado;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+a). Un representante de la Dirección General de Seguridad Pública y Vialidad del Estado;
 
 b).- Un representante de la Procuraduría General de Justicia en el Estado;
 
-c).- Un representante de la Dirección de Prevención y Readaptación Social del Estado;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+c). Un representante de la Dirección General de Reeducación Social;
 
 d).- Un representante del Poder Judicial;
 
-e).- Tres representantes de las Direcciones de Seguridad Pública Municipales que tengan la plantilla de personal operativo más numerosa;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-f).- Un representante del Instituto de Educación de Aguascalientes; por parte del Instituto Estatal de Seguridad Pública;
+e). Un representante de las Direcciones de Seguridad Pública Municipales que tengan la plantilla de personal operativo más numerosa;
 
-g).- Director Académico;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-h).- El responsable de Capacitación Especializada;
+f). Un representante del Instituto de Educación de Aguascalientes;
 
-i).- Responsable del área pedagógica;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-j).- Responsable de selección y desarrollo de personal;
+g). Un representante de la Subsecretaría de Asuntos Jurídicos de Gobierno del Estado;
 
-k).- Responsable del área operativa;
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
-l).- Un representante de los maestros; y
+h). El Director Académico del Instituto Estatal de Seguridad Pública;
 
-m).- Un representante de los alumnos.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+i). El Coordinador de Capacitación Especializada y Proyectos Especiales del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+j). El Director de Vinculación y Participación Social del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+k). El Director de Investigación Educativa en Seguridad Pública del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+l). El Coordinador de Tutorías del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
+m). El titular del área del cuerpo de alumnos del Instituto Estatal de Seguridad Pública;
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2004)</small>
+
+n). Un representante de los maestros del Instituto Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2004)</small>
+
+ñ). Un representante de los alumnos del Instituto Estatal de Seguridad Pública.
 
 ###### ARTICULO 15.
 
 El Consejo Técnico Consultivo tendrá las facultades siguientes:
 
-I.- Asesorar al Director en asuntos de carácter académico y técnico;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-II.- Proponer al Director la adopción de medidas de orden general, tendientes al mejoramiento académico y técnico del Instituto Estatal de Seguridad Pública;
+I.- Asesorar al Director General en asuntos de carácter académico y técnico;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
+
+II.- Proponer al Director General la adopción de medidas de orden general, tendientes al mejoramiento académico y técnico del Instituto Estatal de Seguridad Pública;
 
 III.- Proponer los planes de estudio y programas de enseñanza del Instituto Estatal de Seguridad Pública, así como las adecuaciones que requieran los mismos; y
 
-IV.- Las demás que le confiera el Reglamento Interior o el Director del Instituto Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2004)</small>
 
-### CAPITULO VII. Del Régimen Educativo del Instituto
+IV.- Las demás que le confiera el Reglamento Interior o el Director General del Instituto Estatal de Seguridad Pública.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+
+### CAPITULO VII. Del Régimen Educativo del Instituto Estatal de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 16.
 
-El Instituto Estatal de Seguridad Pública apoyará a los organismos de Seguridad Pública con los exámenes psicológicos, médico-clínico, de laboratorio, físico-atlético y de conocimientos para los aspirantes a ingresar a las diversas Direcciones.
+El Instituto Estatal de Seguridad Pública apoyará a las instituciones de Seguridad Pública con los exámenes psicológicos, médico-clínico, físico-atlético y de conocimientos para los aspirantes a ingresar a las citadas instituciones.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 17.
 
-Para ingresar al Instituto Estatal de Seguridad Pública es necesario cubrir los requisitos establecidos para cada puesto de acuerdo con los perfiles determinados y los lineamientos de los reglamentos correspondientes.
+Para ingresar al Instituto Estatal de Seguridad Pública, es necesario cubrir los requisitos establecidos para cada puesto de acuerdo con los perfiles determinados y los que apruebe la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 18.
 
-El aspirante seleccionado como alumno interno gozará de una beca y de los apoyos necesarios para su preparación académica durante el período de formación de conformidad con el presupuesto que le sea asignado al Instituto para tal efecto.
+El aspirante seleccionado como alumno interno gozará de una beca y de los apoyos necesarios para su preparación académica durante el período de formación de conformidad con el presupuesto que le sea asignado al Instituto Estatal de Seguridad Pública para tal efecto.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 19.
 
-Los egresados del Instituto Estatal de Seguridad Pública o de otras instituciones similares en el país que acrediten fehacientemente los conocimientos necesarios ante este Instituto, tendrán preferencia para ocupar cargos en las Instituciones de Seguridad Pública en el Estado.
+Los egresados del Instituto Estatal de Seguridad Pública de Aguascalientes o de otras instituciones similares en el país que acrediten fehacientemente que cuentan con los conocimientos necesarios ante este Instituto, tendrán preferencia para ocupar alguna plaza laboral en las Instituciones de Seguridad Pública en el Estado.
 
-### CAPITULO VIII. Régimen Laboral
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+
+### CAPITULO VIII. Del Régimen Laboral
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 20.
 
-Las relaciones laborales entre el organismo y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+Las relaciones laborales entre el Instituto Estatal de Seguridad Pública y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 21.
 
-Los participantes en las actividades académicas del Instituto de Seguridad Pública del Estado, en su calidad de educandos, no tendrán relación laboral alguna con este organismo, salvo disposición legal o convenio en contrario.
+Los participantes en las actividades académicas del Instituto de Estatal de Seguridad Pública, en su calidad de docentes y aquellos que tienen calidad de alumnos, no tendrán relación laboral alguna con dicho Instituto, salvo disposición legal, convenio o contrato en contrario.
 
 ### CAPITULO IX. Del Organo de Vigilancia
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 22.
 
-El órgano de vigilancia del Instituto de Seguridad Pública del Estado de Aguascalientes estará a cargo del Comisario Público Propietario y el suplente, designados por la Contraloría General del Estado.
+El órgano de vigilancia del Instituto Estatal de Seguridad Pública estará a cargo del Comisario Público Propietario y el suplente, designados por la Contraloría General del Estado.
 
 T R A N S I T O R I O S:
 
@@ -352,3 +588,15 @@ Felipe González González
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 1 DE MARZO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se otorga un plazo de 90 días naturales para la expedición del reglamento de la presente ley.
