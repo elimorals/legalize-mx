@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1933-03-22"
+last_updated: "1935-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 1935.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -62,6 +62,10 @@ c). Las monedas fraccionarias de plata de diez , veinte y cincuenta centavos, y 
 
 Los productos líquidos de la acuñación hecha en los términos del artículo tercero transitorio de la Ley de 9 de marzo de 1932, que reformó la Ley Monetaria, así como el oro en barras o amonedado que ha sido adquirido con dichos fondos, y entregado al Banco de México, se aplicarán íntegramente a la Reserva Monetaria.
 
+D.O.F. 6 DE MARZO DE 1935.
+
+ARTICULO TRANSITORIO.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el "Diario Oficial".
+
 ###### ARTICULO 5°.
 
 Subsistirán con el carácter de monedas fraccionarias y con poder liberatorio limitado a veinte pesos en un mismo pago, las monedas de plata de diez, veinte y cincuenta centavos, de los cuños creados, respectivamente, por las Leyes de 29 de abril de 1925 y de 27 de octubre de 1919.
@@ -76,7 +80,7 @@ Las oficinas públicas de la Federación, de los Estados y de los Municipios, es
 
 ###### ARTICULO 8°.
 
-La moneda extranjera no tendrá curso legal en la República, salvo en los casos en que la ley expresamente determine otra cosa. Las obligaciones de pago en moneda extranjera contraídas dentro o fuera de la República para ser cumplidas en esta, se solventarán entregando el equivalente en moneda nacional, al tipo de cambio vigente en el lugar y fecha en que deba hacerse el pago.
+La moneda extranjera no tendrá curso legal en la República, salvo en los casos en que la Ley expresamente determine otra cosa. Las obligaciones de pago en moneda extranjera contraídas dentro o fuera de la República para ser cumplidas en ésta, se solventarán entregando el equivalente en moneda nacional, al tipo de cambio que rija en el lugar y fecha en que se haga el pago.
 
 ###### ARTICULO 9°.
 
@@ -183,6 +187,8 @@ Las demás monedas de plata y fraccionarias retiradas de la circulación, serán
 ###### ARTICULO 7°.
 
 La obligación de pagar cualquier suma en moneda mexicana, se solventará entregando, por su valor nominal y hasta el límite de su respectivo poder liberatorio, monedas de plata o de bronce del cuño que en esta ley se conserva.
+
+> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 1935)</small>
 
 ###### ARTICULO 8°.
 
