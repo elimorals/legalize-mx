@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-16"
-last_updated: "1999-12-31"
+last_updated: "2004-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1999.
 
@@ -177,9 +177,15 @@ XIX. Aprobar los Reglamentos que regulen la organización y funcionamiento del P
 
 XX. Aprobar el Programa Anual de estímulos y recompensas de los Servidores Públicos del Poder Judicial del Estado;
 
-XXI. Revisar las resoluciones que emita la Visitaduría en asuntos de su competencia, en los términos de Ley; y
+XXI. Revisar las resoluciones que emita la Visitaduría en asuntos de su competencia, en los términos de Ley; y (sic)
 
-XXII. Las demás que le conceda esta Ley y otras disposiciones legales que resulten aplicables.
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+XXII. Otorgar la certificación a los mediadores públicos y privados que satisfagan los requisitos establecidos en la Ley de Mediación para el Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+
+XXIII. Las demás que le conceda esta Ley y otras disposiciones legales que resulten aplicables.
 
 ### CAPITULO III. DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -557,7 +563,9 @@ Todos los demás Servidores Públicos del Estado, son Auxiliares de la Administr
 
 En los lugares en los que no exista la figura Jurídica del Alcalde, serán auxiliares del Poder Judicial, las Autoridades Comunitarias de los Pueblos y Comunidades Indígenas en los términos de los Artículos 16 y 138 Bis A de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley Reglamentaria respectiva.
 
-### CAPITULO III. DE LA DEFENSORIA DE OFICIO
+### CAPITULO III. DEL CENTRO DE MEDIACION JUDICIAL
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 46.
 
@@ -573,19 +581,69 @@ III. Las demás que les señale el Reglamento y el Presidente del Tribunal Super
 
 La organización y estructura de la Dirección de Servicios Periciales, se establecerá en el Reglamento de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
+
 ### CAPITULO I. DE LA ADMINISTRACION INTERNA
 
 ###### ARTICULO 48.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+El Centro de Mediación Judicial es un órgano auxiliar en la administración de justicia, dependiente del Pleno del Tribunal Superior de Justicia del Estado y su objetivo es ofrecer servicios de mediación para la pronta, pacífica y eficaz solución de controversias entre particulares en asuntos de naturaleza civil, familiar, mercantil, vecinal y penal.
+
+Estará integrado por un Director, Mediadores, Trabajadores Sociales, Invitadores y los demás servidores públicos que designe el Presidente del Tribunal Superior de Justicia y que permita el presupuesto de egresos; sus funciones y las actividades que en él realizan se establecerán en su correspondiente reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 49.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+La Dirección del Centro de Mediación Judicial estará a cargo de un profesional en Derecho o Comunicación y/o Psicología, que tendrá las siguientes atribuciones:
+
+I. Representar jurídicamente al Centro de Mediación Judicial en el ejercicio de sus actividades;
+
+II. Coordinar a los mediadores y demás personal administrativo que labore en ese órgano;
+
+III. Planear, dirigir y controlar el funcionamiento del Centro de Mediación Judicial, con sujeción al os lineamientos que rigen al mismo;
+
+IV. Promover la celebración de convenios con organismos públicos y descentralizados con características y funciones propias, para coordinar y concentrar acciones que le permitan cumplir con sus objetivos;
+
+V. Presentar al Pleno del Tribunal Superior de Justicia del Estado, los informes anuales sobre las actividades del Centro de Medicación Judicial;
+
+VI. Establecer los mecanismos de difusión que permitan a la sociedad conocer sobre el procedimiento de mediación;
+
+VII. Llevar al corriente el Libro de Gobierno de los asuntos ventilados en el Centro;
+
+VIII. Llevar un registro Estatal de Mediadores;
+
+IX. Practicar evaluaciones a los mediadores y para detectar las áreas en las que deben capacitarse y así brindar un mejor servicio;
+
+X. Llevar a cabo el trámite de los convenios de mediación ante las autoridades competentes;
+
+XI. Ser el Jefe Administrativo del Centro, por ende:
+
+a) Vigilar que el Centro a su cargo preste la atención al público en general, de lunes a viernes, en los horarios establecidos por el Pleno de Tribunal Superior de Justicia;
+
+b) Vigilar el cumplimiento de la Ley de Mediación para el Estado de Oaxaca, de los manuales, circulares y acuerdos emitidos para el correcto funcionamiento del Centro de Mediación Judicial.
+
+c) Proporcionar oportunamente al Pleno y al Presidente del Tribunal Superior de Justicia, a las Unidades Auxiliares de la Presidencia, Autoridades Federales y Estatales los datos estadísticos que le soliciten.
+
+d) Estructurar el proceso de selección de mediadores y demás personal que se requiera para el funcionamiento del Centro de Mediación Judicial y de sus delegaciones regionales que de él dependan y dar a conocer su resultado al Presidente del Tribunal.
+
+e) Coordinar con instituciones de gobierno y no gubernamentales cursos de capacitación en las disciplinas necesarias para mantener actualizado al personal del Centro.
+
+f) Pronunciarse respecto de la acreditación de los Centros de Mediación y de los mediadores que ejerzan esta función tanto en el ámbito público como privado, y
+
+g) Aplicar las sanciones que marca la Ley de Mediación para el Estado de Oaxaca.
+
+XII. Presentar para el conocimiento y aprobación de la Dirección de Planeación el Anteproyecto Anual de las actividades, necesidades materiales y personales que requiera el Centro de Mediación Judicial; y
+
+XIII. Las demás que le sean conferidas por el Pleno del Tribunal Superior de Justicia del Estado.
+
+Las ausencias del Director serán suplidas por el Mediador que designe el Presidente del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 50.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+El Centro de Mediación Judicial podrá tener sedes regionales que serán asignadas de acuerdo al presupuesto anual.
 
 ###### ARTICULO 51.
 
@@ -1040,3 +1098,7 @@ Al C.
 P.O. 31 DE DICIEMBRE DE 1999.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE ABRIL DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del estado Libre y Soberano de Oaxaca.
