@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-anuncios-para-el-distrito-federal-14626"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-11"
-last_updated: "1999-08-11"
+last_updated: "2001-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14626&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-07-27"
 
 REGLAMENTO DE ANUNCIOS PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 11 de agosto de 1999.
 
@@ -108,9 +108,11 @@ IV. Carátula vista o pantalla, y
 
 V. Elementos de iluminación.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 5°.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este Reglamento, se aplicará supletoriamente lo dispuesto por el Reglamento de la Ley de Desarrollo Urbano del Distrito Federal; el Reglamento de Construcciones; el Reglamento para el Servicio de Transporte de Carga, el Reglamento del Servicio de Transporte de Pasajeros del Distrito Federal; los principios generales del derecho, y la equidad.
+En lo conducente se observará lo dispuesto por la Ley de Desarrollo Urbano del Distrito Federal; La ley de Protección Civil; el Reglamento de la Ley de Desarrollo Urbano; el Reglamento de Protección Civil; el Reglamento de Mobiliario Urbano; el Reglamento de Construcciones; el Reglamento para el Servicio de Transporte de Carga; el Reglamento del Servicio de Transporte de Pasajeros; el Reglamento para el Servicio de Transporte Público de Taxi, todos del Distrito Federal, y demás disposiciones jurídicas, administrativas y técnicas aplicables.
 
 ###### Artículo 6°.
 
@@ -386,17 +388,21 @@ En los anuncios mixtos, la marca, logotipo o signo distintivo de la persona fís
 
 Los anuncios mixtos podrán ser: adosados; autosoportados; en azotea; en saliente, volados o colgantes; en marquesinas y en objetos inflables.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 21.
 
-El mobiliario urbano podrá contar con espacios para anuncios a título accesorio en función al tipo de mueble.
+El mobiliario urbano podrá contar con espacios para anuncios a título accesorio en función al tipo de mueble y de su ubicación en la Ciudad, de conformidad con las disposiciones previstas por este Reglamento, el Reglamento de Mobiliario Urbano y demás disposiciones jurídicas y administrativas que al efecto se emitan.
+
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
 
 ###### Artículo 22.
 
-Los espacios destinados para la publicidad en el mobiliario urbano serán determinados de acuerdo al diseño, dimensiones y ubicación del mueble, que será analizado, evaluado y en su caso aprobado por autoridad competente.
+Los espacios destinados para la publicidad en el mobiliario urbano, serán determinados de acuerdo al diseño, dimensiones y ubicación del mueble, mismos que serán analizados, evaluados y en su caso, aprobados por la Secretaría, siguiendo lo establecido en el presente ordenamiento, en el Reglamento de Mobiliario Urbano y demás disposiciones jurídicas, administrativas y técnicas aplicables.
 
 ###### Artículo 23.
 
-El porcentaje de espacios publicitarios en el mobiliario urbano será determinado por autoridad competente de acuerdo al tipo de mueble, diseño y dimensiones del mismo.
+(DEROGADO, G.O. 6 DE JULIO DE 2001)
 
 ###### Artículo 24.
 
@@ -430,9 +436,11 @@ Los anuncios en mobiliario urbano, sólo se podrán autorizar a las personas fí
 
 Las personas físicas o morales que tengan contrato con las instancias correspondientes, deberán conceder uno de cada diez espacios publicitarios del mobiliario urbano para ser destinados totalmente a mensajes oficiales.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 28.
 
-Para la instalación de anuncios en los espacios destinados en el mobiliario urbano distinto al previsto en la Ley de Desarrollo Urbano del Distrito Federal o de nueva creación al existente, la autoridad competente analizará, valorará y en su caso aprobará dicha colocación.
+Para la instalación de anuncios en los espacios destinados al mobiliario urbano, distinto al previsto en la Ley de Desarrollo Urbano del Distrito Federal, o de nueva creación al existente, la Secretaría analizará, valorará y en su caso aprobará dicha colocación, previo dictamen técnico de la Comisión Mixta de Mobiliario Urbano.
 
 ### CAPITULO IV. DE LAS ESPECIFICACIONES TECNICAS DE LOS ANUNCIOS EN INMUEBLES CON VALOR ARQUEOLÓGICO, ARTÍSTICO E HISTÓRICO
 
@@ -746,7 +754,9 @@ Los anuncios y sus elementos no podrán invadir ni proyectarse sobre las propied
 
 No se requiere licencia, permiso, ni aviso en los casos siguientes:
 
-I. Cuando los anuncios se encuentren en el interior de un edificio o local comercial, aún cuando se observen desde la vía pública;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2001)</small>
+
+I. Cuando los anuncios se encuentren en el interior de un edificio o local comercial, aún cuando se observen desde la vía pública, siempre que no excedan de una longitud de 60 centímetros, una altura de 60 centímetros y no se trate de anuncios de proyección óptica o electrónicos;
 
 II. Cuando se trate de anuncios en volantes, folletos o publicidad impresa, distribuida en forma directa;
 
@@ -756,11 +766,17 @@ IV. Cuando se trate de anuncios que contengan mensajes de carácter cívico, soc
 
 Los anuncios a que se refiere la fracción IV, deberán ser retirados por su propietario dentro de los siete días posteriores al término de los eventos que promocionan. De no efectuarse el retiro correspondiente, éste se realizará por la autoridad competente a costa del propietario, de conformidad con las disposiciones de este Reglamento y las demás que resulten aplicables.
 
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+V. Cuando los vehículos particulares ostenten publicidad, conforme a lo establecido en los supuestos del presente artículo, siempre y cuando anuncien su razón, objeto social, marca, aviso comercial, o bien, producto o servicio, sin la finalidad de lucro, teniéndose que sujetar a las especificaciones técnicas que para tal efecto se contemplen.
+
 ### CAPÍTULO VII. DE LA ESTRUCTURA DE LOS ANUNCIOS Y PLANOS DE ZONIFICACIÓN
+
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
 
 ###### Artículo 56.
 
-Las estructuras de los anuncios deberán ser fabricadas o construidas con materiales incombustibles o tratados, anticorrosivos, antirreflejantes y que garanticen la estabilidad y seguridad del anuncio.
+Las estructuras de los anuncios deberán ser fabricadas o construidas con materiales incombustibles o tratados anticorrosivos, antirreflejantes y que garanticen la estabilidad y seguridad del anuncio, vigilando el cumplimiento a las disposiciones previstas por la Ley de Protección Civil, su Reglamento, el de Mobiliario Urbano y demás disposiciones aplicables.
 
 ###### Artículo 57.
 
@@ -786,13 +802,17 @@ I. La simbología que indique en las vialidades primarias y secundarias, las res
 
 II. La tabla de clasificación de anuncios donde se indique claramente la relación entre el tipo de anuncio y su posible limitación, restricción o prohibición, de conformidad a la zona de que se trate.
 
-Los Planos de Zonificación en materia de Anuncios deberán ser congruentes con los programas Delegacionales y Parciales de Desarrollo Urbano.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 6 DE JULIO DE 2001)</small>
+
+Los Planos de Zonificación en materia de Anuncios deberán ser congruentes con los programas Delegacionales y Parciales de Desarrollo Urbano. Para tal efecto la Secretaría de Transportes y Vialidad, deberá proporcionar su visto bueno respecto de los lugares en donde los particulares pretendan llevar a cabo el emplazamiento de anuncios.
 
 ### CAPÍTULO VIII. DE LAS LICENCIAS
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 59.
 
-Las licencias para la instalación de anuncios, se sujetarán a lo que establezca el presente Reglamento y a los Planos de Zonificación en materia de Anuncios para el Distrito Federal y al Reglamento de Construcciones.
+Las Licencias para la instalación de anuncios, se sujetarán a lo que establezca el presente Reglamento; el Reglamento de Mobiliario Urbano; el Reglamento de Construcciones; los Programas Delegacionales; los Planos de Zonificación en materia de Anuncios para el Distrito Federal y las demás disposiciones jurídicas y administrativas aplicables para el Distrito Federal.
 
 ###### Artículo 60.
 
@@ -856,11 +876,19 @@ VII. Para la entrega de la licencia se deberá presentar el comprobante de pago 
 
 VIII. En los casos a que se refiere la fracción I, del artículo 60 presentar póliza global de seguro de responsabilidad civil y daños a terceros, la cual debe estar vigente el tiempo que dure instalado, siendo responsable solidario el propietario del inmueble donde se pretenda instalar el anuncio.
 
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+IX.- El dictamen técnico favorable en materia de protección civil, emitido por autoridad competente; y
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+X.- El dictamen estructural favorable por parte de la Secretaría de Obras y Servicios o el Organo Político-Administrativo correspondiente.
+
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 64.
 
-Las licencias tendrán una vigencia de hasta 3 años y podrán ser revalidadas en términos de lo dispuesto por la Ley de Procedimiento.
-
-La revalidación deberá solicitarse dentro de los quince días hábiles previos a la conclusión de la vigencia de la licencia.
+Las licencias tendrán una vigencia hasta de 1 año y podrán ser revalidadas en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ###### Artículo 65.
 
@@ -870,9 +898,11 @@ Cuando la solicitud no reúna los requisitos previstos por este Reglamento la au
 
 Los anuncios que no se encuentren considerados dentro de las especificaciones de instalación antes descritas, serán puestos a consideración de la Secretaría para su dictamen, previa opinión de la autoridad competente.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 67.
 
-No se concederá licencia cuando la responsiva haya sido otorgada por Director Responsable de Obra o Corresponsable que se encuentre suspendido en el ejercicio de sus funciones por la autoridad competente o que no cuenten con el resello o refrendo correspondiente.
+No se concederá licencia cuando la responsiva haya sido otorgada por Director Responsable de Obra o Corresponsable que se encuentre suspendido en el ejercicio de sus funciones por la autoridad competente o que no cuenten con el resello o refrendo correspondiente, por lo que será indispensable que la Secretaría de Desarrollo Urbano y Vivienda mantenga actualizado el registro o padrón de Directores Responsables de Obra y lo publique en la Gaceta Oficial en el mes de enero de cada año.
 
 ###### Artículo 68.
 
@@ -964,19 +994,21 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que haya cubierto la Administración Pública que se hubieren generado con motivo del retiro de anuncios.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 76.
 
-Los permisos para la instalación de anuncios, se sujetarán a lo que establezca el presente Reglamento y a los Planos de Zonificación en materia de Anuncios para el Distrito Federal y al Reglamento de Construcciones.
-
-Los permisos tendrán una vigencia de hasta 120 días y podrán ser revalidados en términos de lo dispuesto por la Ley de Procedimiento, excepto en los casos a que se refieren las fracciones III, IV y V del artículo 70, que tendrán una vigencia de 90 días máximo.
-
-La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia del permiso.
+Los permisos para la instalación de anuncios, se sujetarán a lo que establezca el presente Reglamento, los Planos de Zonificación en materia de Anuncios para el Distrito Federal, el Reglamento de Mobiliario Urbano y el Reglamento de Construcciones.
 
 ### CAPÍTULO X. DE LOS AVISOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 77.
 
-Se requiere de la presentación de un aviso por escrito a la Ventanilla Única de la Delegación correspondiente, cuando se trate de anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal, teatral o de folklore nacional, no contenga marca comercial alguna y la actividad o evento que promocionen no persiga fines de lucro, siempre y cuando sean promovidos por alguna autoridad, asociación civil o institución de asistencia social, además de:
+Se requiere de la presentación de un aviso por escrito en la Ventanilla Única de la Delegación correspondiente, cuando se trate de anuncios que contengan mensajes de carácter cívico, social, cultural ambiental, deportivo, artesanal, teatral o de folklore nacional, no contenga marca comercial alguna y la actividad o evento que promocionen no persiga fines de lucro, siempre y cuando sean promovidos por alguna autoridad, asociación civil o institución de asistencia social.
+
+Además requerirán presentar aviso las:
 
 I. Mantas hasta 1.80 metros de longitud por 90 centímetros de altura, banderolas de hasta 1.80 metros de altura por 90 centímetros de longitud, adornos colgantes, siempre y cuando no obstruyan vanos del predio o inmueble donde el anunciante desarrolle su actividad y la temporalidad de la publicidad no sea mayor de noventa días naturales;
 
@@ -1176,7 +1208,37 @@ III. Evaluar y actualizar los Planos de Zonificación en materia de Anuncios, de
 
 IV. Asesorar y apoyar técnicamente a las Delegaciones en materia de anuncios, emitiendo los dictámenes, revocaciones y opiniones correspondientes, y
 
-V. Las demás que le otorgue este Reglamento y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2001)</small>
+
+V. Si perjuicio de las atribuciones que corresponden a las Delegaciones, ordenar y realizar visitas de verificación ordinarias o extraordinarias, en materia de anuncios, instalados o visibles desde las vialidades primarias, con el objeto de cerciorarse que se encuentran conforme a lo que establecen las disposiciones legales y reglamentarias aplicables;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+VI. Ordenar y realizar visitas de verificación ordinarias o extraordinarias en materia de mobiliario urbano, con publicidad integrada instalados en vialidades primarias, con el objeto de verificar que se encuentran conforme a lo establecido en las disposiciones legales y reglamentarias aplicables;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+VII. Ordenar al titular de la licencia o permiso, la ejecución de los trabajos de conservación, mantenimiento y reparación que sean necesarios para garantizar su estabilidad y seguridad;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+VIII. Calificar las actas de visita de verificación realizadas por la Secretaría en materia de anuncios instalados o visibles desde la vialidad primaria, e imponer las sanciones correspondientes en términos de las leyes y reglamentos aplicables;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+IX. Calificar las actas de visita de verificación realizadas por la Secretaría en materia de mobiliario urbano con publicidad integrada, instalados en la vialidad primaria, e imponer las sanciones correspondientes en términos de las leyes y reglamentos aplicables;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+X. Solicitar el auxilio de la fuerza pública de las Secretarías de Seguridad Pública, de Obras y Servicios, Procuraduría General de Justicia, de Gobierno y demás Dependencias, u Organos desconcentrados o descentralizados, para llevar a cabo el procedimiento administrativo de verificación hasta el cumplimiento de las resoluciones y
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+XI. Las demás que les atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2001)</small>
+
+Artículo 92 bis.- Para el ejercicio de las atribuciones señaladas anteriormente, la Secretaría, podrá ejercer estas atribuciones a través de las unidades administrativas o unidades administrativas de apoyo técnico operativo, y se auxiliara del personal designado para tal efecto, conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 93.
 
@@ -1204,7 +1266,9 @@ I. Expedir licencias y permisos para la fijación, instalación, distribución, 
 
 II. Recibir los avisos debidamente sellados para la instalación de anuncios de acuerdo con el presente Reglamento;
 
-III. Verificar que se cumplan las disposiciones de este Reglamento apoyándose en su caso, en dictámenes y opiniones de la Secretaría;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2001)</small>
+
+III. Verificar que se cumplan los ordenamientos legales y normativos, a través de las visitas de verificación ordinarias o extraordinarias, reguladas por la Ley de Procedimiento Administrativo y el Reglamento de Verificación Administrativa del Distrito Federal, apoyándose en los dictámenes y opiniones de las Dependencias u Organos competentes;
 
 IV. Verificar estado y condiciones de las estructuras de los anuncios;
 
@@ -1234,15 +1298,19 @@ III. Las demás que le otorgue este Reglamento y otras disposiciones jurídicas 
 
 ### CAPÍTULO XIII. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 96.
 
-La autoridad competente podrá dictar medidas de seguridad preventivas o correctivas para evitar riesgos y daños que puedan causar los anuncios, y consistirán en:
+La Secretaría y las Delegaciones, podrán en cualquier etapa de la visita de verificación, ordenar las medidas de seguridad preventivas o correctivas para evitar riesgos y daños que puedan causar los anuncios, a las personas o sus bienes, y consistirán en:
 
 I. Ordenar el mantenimiento al anuncio;
 
 II. Suspender la construcción de la estructura y/o del anuncio, y
 
-III. Retirar el anuncio y/o la estructura.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2001)</small>
+
+III. Ordenar el retiro del anuncio y/o la estructura.
 
 El titular de la licencia, permiso o permiso publicitario deberá ejecutar la medida de seguridad dentro de las 24 horas siguientes contadas a partir de la notificación de la autoridad. En caso de no hacerlo la autoridad procederá al retiro del anuncio con cargo al particular.
 
@@ -1262,9 +1330,17 @@ III. Retiro del anuncio, y
 
 IV. Revocación de la licencia, permiso o permiso publicitario, según sea el caso.
 
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2001)</small>
+
+V. Clausura.
+
 ###### Artículo 98.
 
 Para la imposición de las sanciones se tomará en cuenta la gravedad de la infracción cometida, la reincidencia del infractor, los costos de inversión del anuncio, los daños o perjuicios causados a terceros, el grado de afectación al interés público, el incumplimiento de las condiciones fijadas en la licencia, permiso o permiso publicitario, según sea el caso, el ocultamiento deliberado de la infracción y las circunstancias en que ésta se haya llevado a cabo.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2001)</small>
+
+En el supuesto de que se determine aplicar como sanción el retiro de anuncios, con independencia de otras sanciones, ello deberá efectuarse por el titular de la licencia, permiso o permiso publicitario, así como por el propietario o poseedor del predio, en un término que no exceda de 24 horas siguientes a partir de la notificación que al efecto se realice. En caso de no cumplir con esta circunstancia, dicho retiro será efectuado por la autoridad con cargo al particular, pudiendo incluso seguirse el procedimiento administrativo de ejecución a que se refieren las disposiciones contenidas en el Código Financiero, y el artículo 338 del Reglamento de Construcciones, para lo cual será necesario hacerlo del conocimiento de la Secretaría de Finanzas.
 
 ###### Artículo 99.
 
@@ -1290,9 +1366,17 @@ VIII. Multa de 500 a 1000 días de salario mínimo general vigente en el Distrit
 
 Si la multa se paga dentro de los cinco días hábiles siguientes a su notificación, se descontará un 20% de su importe. El descuento no procederá en los casos de reincidencia.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2001)</small>
+
 ###### Artículo 101.
 
-Cualquier otra violación a las disposiciones del presente Reglamento, cuya sanción no esté expresamente prevista, se impondrá multa de 100 a 250 días de salario mínimo general vigente en el Distrito Federal a los titulares de las licencias, permisos, avisos o permisos publicitarios.
+Cualquier otra violación a las disposiciones del presente Reglamento, cuya sanción no esté expresamente prevista, se impondrá multa de 100 a 250 días de salario mínimo general vigente en el Distrito Federal a los titulares de las licencias, permisos, avisos o permisos publicitarios. Asimismo, se retirará el anuncio cuando:
+
+a) Con su instalación se cause perjuicio al interés social o se contravengan disposiciones de orden público.
+
+b) Carezca de licencia, permiso, aviso o permiso publicitario.
+
+c) Se determine que por su estado físico constituye un riesgo para la integridad física o los bienes de las personas.
 
 ###### Artículo 102.
 
@@ -1369,3 +1453,13 @@ QUINTO.- La Secretaría de Transportes y Vialidad elaborará las Normas Técnica
 SEXTO.- Las solicitudes de las licencias, permisos o permisos publicitarios que se encuentren en trámite a la entrada en vigor del presente Reglamento, continuarán con el procedimiento con el cual iniciaron hasta su conclusión.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, Ciudad de México, a los veintisiete días del mes de julio de mil novecientos noventa y nueve. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNANDEZ.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRIGUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 6 DE JULIO DE 2001.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La Oficialía Mayor, deberá tomar las medidas administrativas necesarias a efecto de destinar al personal suficiente para la actividad verificadora que realice la Secretaría de Desarrollo Urbano y Vivienda.
