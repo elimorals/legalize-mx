@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-del-estado-de-michoacan-5931"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1964-11-30"
+last_updated: "1965-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1965.
 
-Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el jueves 30 de julio de 1936.
+Código publicado en el Suplemento 6 del Periódico Oficial Número 34, el Jueves 30 de Julio de 1936.
 
 Rafael Ordorica Villamar, Gobernador Constitucional Interino del Estado Libre y Soberano de Michoacán de Ocampo, a sus habitantes, sabed:
 
@@ -179,47 +179,63 @@ Los interesados tienen derecho para designar un domicilio convencional en donde 
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 27.
 
-Habrá en el Estado funcionarios que se llamarán "Jueces del Estado Civil", a cuyo cargo estará autorizar los actos del estado civil y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación, habilitación de edad y muerte de todas las personas residentes en el Estado; así como para inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, o que se ha perdido la capacidad para administrar bienes.
+En Michoacán estar a cargo de los Jueces del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y muerte de los mexicanos y extranjeros residentes o de transito en el Estado, así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 28.
 
-Los Jueces del Estado Civil llevarán por duplicado seis libros que se denominarán "Registro Civil" y contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela, emancipación y habilitación de edad; el cuarto, actas de matrimonio y divorcio; el quinto, actas de fallecimiento, y el sexto las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que alguien ha perdido la capacidad legal para administrar sus bienes.
+Los Jueces del Registro Civil cuando hayan reunido las actas del estado civil suficientes, las encuadernaran en libros por duplicado, de la siguiente manera: el primero, de actas de nacimiento; el segundo, actas de reconocimiento de hijos; el tercero, actas de adopción; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio judicial, la tutela o que se ha perdido o limitado la capacidad legal para administrar bienes.
 
 ###### Artículo 29.
 
 Las actas se asentarán en los dos libros del Registro; se escribirán con tinta indeleble y sin raspaduras, ni abreviaturas; se numerarán progresivamente, y antes de firmarse se harán las salvaduras correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 30.
 
-Las actas del Registro Civil, sólo se pueden asentar en los libros de que habla el artículo 28.
+Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla el artículo anterior.
 
-La infracción de este precepto producirá la nulidad del acta y se castigará con la destitución del Juez del Estado Civil, si éste hubiere sido nombrado por el Gobierno, o con multa de diez a mil pesos si tuviere el carácter de juez, el Presidente Municipal o quien haga sus veces.
+La infracción de esta regla producir la nulidad del acta y se castigará con la destitución del Juez del Registro Civil.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 31.
 
-Si se perdiere o destruyere alguno de los libros del Registro Civil, se sacará inmediatamente copia del otro ejemplar, por el juez respectivo, para que en todo caso las actas consten siempre por duplicado. El Ministerio Público cuidará del cumplimiento estricto de este precepto.
+Si se perdieren o destruyeren algunas de las formas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares que obren en los archivos que esta Ley señala en su artículo 34.
+
+La Oficialía Mayor del Gobierno del Estado, cuidar de que se cumpla esta disposición y a este efecto, el Juez del Registro Civil o la Dirección de Documentación y Registro, darán aviso de la perdida.
 
 ###### Artículo 32.
 
 El estado civil de las personas se comprueba exclusivamente con las actas y constancias del Registro; sin que sea admisible ningún otro medio de prueba para comprobar el estado civil, salvo los casos expresamente exceptuados por la ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 33.
 
-Cuando no hayan existido registros o se hayan perdido o estuvieren rotos o borrados o faltaren las hojas en que se pueda suponer estaba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno de los registros se ha inutilizado y existe el otro ejemplar, de éste deber tomarse la prueba, sin admitir la de otra clase.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 34.
 
-Todos los libros del Registro Civil serán visados en su primera y última foja por la Secretaría de Gobierno y autorizados con el sello de la oficina en todas las demás. Se renovarán cada año; uno de los libros quedará en el archivo de la Oficina y el otro se remitirá al Archivo General del Estado. Al terminar cada año se inutilizarán con rayas transversales las fojas que hayan quedado en blanco, certificándose en la última el número de actas que se contienen en el libro. Los libros terminarán con un índice alfabético de apellidos.
+Las formas del registro civil serán expedidas por la Oficialía Mayor de Gobierno o por quien ‚esta designe. Se renovarán cada año y los Jueces del Registro Civil remitirán mensualmente un ejemplar de las formas del Registro Civil al Archivo de la Dirección de Documentación y Registro, otro al Archivo del Poder Ejecutivo y el otro, con los documentos que les correspondan, quedar en el Archivo de la oficina en que se haya actuado.
 
 ###### Artículo 35.
 
 Si al terminar el año, algún juego de libros no hubiere sido utilizado, la Secretaría de Gobierno podrá habilitarlo para el año siguiente, poniendo una certificación en la que aparezcan tales circunstancias.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 36.
 
-El Juez del Estado Civil que no cumpla con lo prevenido, de remitir los duplicados de los libros, al Archivo, dentro de los tres meses siguientes a la clausura de aquéllos, será castigado por la Secretaría de Gobierno con una multa de cincuenta a mil pesos.
+El Juez del Registro Civil que no cumpla con las prevenciones del artículo 34, ser destituido de su cargo.
 
 ###### Artículo 37.
 
@@ -261,21 +277,27 @@ De los documentos relativos a cada acta se formará un legajo que llevar el mism
 
 Cualquiera persona puede pedir copia certificada de las actas del Registro Civil y de sus anexos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 47.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, harán incurrir al Juez del Estado Civil en las penas administrativas que señala este Código, sin perjuicio de la consignación respectiva en el caso de que haya delito de falsedad, y de la obligación de indemnizar los daños y perjuicios.
+La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas, harán incurrir al juez del Registro Civil en las sanciones administrativas que señala la ley, sin perjuicio de la consignación respectiva en caso de que haya delito, y de la responsabilidad civil que resulte.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 48.
 
-En los lugares en donde el presupuesto del Estado no asigne ninguna cantidad para el pago del Juez del Estado Civil, desempeñará este cargo el Presidente Municipal.
+Cuando el presupuesto del Estado no asigne cantidad para el pago del juez del Registro Civil, se estará lo dispuesto en la Ley Orgánica de la Institución.
 
 ###### Artículo 49.
 
 Los jueces del Estado Civil no pueden autorizar actos relativos a su persona ni a sus parientes consanguíneos: en la línea recta ascendente y descendente, sin limitación de grado, y en la línea colateral hasta el cuarto grado inclusive. Tampoco pueden autorizar los actos de sus parientes por afinidad hasta el segundo grado ni de las personas con quienes tengan parentesco legal.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 50.
 
-Las faltas de los Jueces del Estado Civil, por ausencia o impedimento, serán suplidas por los Presidentes Municipales; y las de éstos, cuando actúen como Jueces, por la persona que conforme a la ley debe reemplazarlos en sus funciones de Presidente.
+Los Jueces del Registro Civil, se suplirán en sus faltas temporales por las mismas personas que los reemplazan cuando están impedidos.
 
 ###### Artículo 51.
 
@@ -285,9 +307,11 @@ Los vicios o defectos que haya en las actas, sujetan al juez a las penas estable
 
 Las actas del Registro Civil extendidas conforme a las disposiciones que preceden hacen prueba plena en todo lo que el Juez del Estado Civil, en ejercicio de sus funciones, certifique haber pasado en su presencia, sin perjuicio de que el acto pueda ser redargüido de falso. Las declaraciones de los comparecientes hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acto no tiene valor alguno.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 53.
 
-Para establecer el estado civil de los Michoacanos, adquirido fuera de la República, serán bastantes las constancias que presenten los interesados, respecto de los actos respectivos, siempre que estén conformes con las leyes del país donde se hayan verificado y que se hayan hecho constar en el Registro Civil.
+Para establecer el estado civil de los michoacanos adquirido fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código de Procedimientos Civiles y siempre que se registren en la oficina que corresponda.
 
 ###### Artículo 54.
 
@@ -301,31 +325,43 @@ Todo acto del estado civil relativo a otro ya registrado, podrá anotarse a peti
 
 Las faltas accidentales o temporales de los Jueces del Estado Civil, se llenarán por las mismas personas que los reemplazan cuando están impedidos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 57.
 
-Cualquier falta administrativa cometida por los Jueces del Estado Civil y que no esté especialmente penada, se castigará por la Secretaría de Gobierno con multa de cincuenta a mil pesos.
+El Primer Secretario de Gobierno podrá sancionar al Director y jueces del Registro Civil en los términos de la Ley Orgánica de la institución.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 58.
 
-La Secretaría de Gobierno por medio de los Agentes del Ministerio Público, cuidará de la inspección y vigilancia de los libros del Registro Civil.
+El Oficial Mayor de Gobierno, el Director del Registro Civil o sus visitadores, cuidarán que las actuaciones e inscripciones que se hagan en las formas del Registro Civil, sean conforme a la Ley, pudiendo inspeccionarlas en cualquier época, así como dar vista al Ministerio Público de las irregularidades graves en que incurra el Juez.
 
 ### CAPITULO II. De las actas de nacimiento
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 59.
 
-El padre dentro de los quince días, y la madre dentro de los cuarenta días siguientes al nacimiento de un hijo, tienen obligación de presentarlo al Juez del Registro Civil de su domicilio, ya sea llevándolo a la Oficina o pasando dicho funcionario a la casa donde se encuentre el infante.
-
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
-
-Cuando los padres hubieren fallecido, si se tratare de hijos nacidos de matrimonio, cualquiera de los ascendientes de ambas líneas, podrán presentar al descendiente, a condición de exhibir ante el Juzgado del Registro Civil el acta de matrimonio de los padres de quien se pretende el registro, a falta de ascendientes, el registro se hará con autorización judicial a solicitud del propio interesado, quien deberá presentar el acta de matrimonio de sus padres e información testimonial para acreditar que su nacimiento ocurrió dentro de los plazos a que se refiere el artículo 282. Con relación a los hijos nacidos fuera de matrimonio, el registro se hará en la forma que previene el artículo 64, o por sentencia ejecutoria dictada en juicio sobre investigación de la maternidad o paternidad.
+Las declaraciones de nacimiento se harán presentando al niño ante el Juez del Registro Civil en su oficina o en el lugar donde aquél hubiere nacido.
 
 ###### Artículo 60.
 
 En los lugares donde no haya Oficina del Registro Civil el niño será presentado a la persona que ejerza la autoridad municipal, quien dar una constancia que se presentará al Juez que corresponda para que asiente el acta.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 61.
 
-Los médicos, cirujanos o matronas que asistan a un parto y el jefe de la casa en que éste se verifique, cuando no sea la paterna, dentro de los tres días siguientes al alumbramiento, darán aviso del nacimiento del infante. El Juez del Estado Civil tomará las medidas necesarias para que se levante el acta respectiva.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de estos los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
+
+Los médicos cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Juez del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si este ocurrió
+
+fuera de la casa paterna.
+
+Si el nacimiento tuviera lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estar a cargo del Director o de la persona encargada de la administración.
+
+Recibido el aviso, el Juez del Registro Civil tomar las medidas legales que sean necesarias, a fin de que levante el acta de nacimiento conforme a las disposiciones relativas.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1953)</small>
 
@@ -333,27 +369,33 @@ Los médicos, cirujanos o matronas que asistan a un parto y el jefe de la casa e
 
 Las personas que no cumplan con las obligaciones impuestas por los tres artículos inmediatos anteriores, incurrirán en una multa de uno a cien pesos. Se exceptuarán las presentaciones a que se refiere el párrafo segundo del artículo 59.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 63.
 
-En el acta de nacimiento, que se extenderá con asistencia de dos testigos, prefiriendo los designados por las partes, se harán constar el día, hora y lugar del nacimiento, el sexo del niño, el nombre y apellido que se le ponga, y si ha sido presentado vivo o muerto.
+El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá el día, la hora y el lugar de nacimiento, el sexo del presentado, nombre propio y apellidos, la razón de si se ha presentado vivo o muerto; la impresión digital del presentado. Si este se presenta como hijo de padres desconocidos, el Juez del Registro Civil le pondrá el nombre y apellidos, haciéndose constar esta circunstancia en el acta. En forma obligatoria se asignará en el acta de nacimiento, la clave única del Registro de población.
+
+Si el nacimiento ocurriere en un establecimiento de reclusión, el Juez del Registro Civil deber asentar únicamente la población en que ocurra.
+
+En los casos de los Artículos 66 y 78 de este Código, el Juez pondrá el apellido paterno de los progenitores o los dos apellidos del que lo reconozca.
 
 ###### Artículo 64.
 
 Cuando el niño se presente como hijo de padres desconocidos, se hará constar esta circunstancia y el juez le pondrá nombre y apellido.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 65.
 
-Cuando el infante se presente como hijo de matrimonio se asentarán los nombres, domicilios y nacionalidad de los padres y abuelos, y en su caso, los de la persona que haga la presentación.
+Cuando el nacido fuere presentado como hijo de matrimonio se asentarán los nombres, apellidos paternos y maternos, domicilio y nacionalidad de los padres, los nombres y domicilios de los abuelos y los de las personas que hubieren hecho la presentación.
+
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965) (F. DE E., P.O. 27 DE ENERO DE 1966)
 
 ###### Artículo 66.
 
-Tratándose de hijos nacidos fuera de matrimonio, se hará constar el nombre de la madre, pues ésta no tiene derecho de dejar de reconocer a su hijo, a menos que sea adulterino y ella casada y viva con su marido.
+El padre, casado o soltero, tiene obligación de reconocer al hijo nacido fuera de matrimonio. La misma obligación tiene la madre, salvo que sea casada y viva con su marido.
 
-El padre tiene obligación de pedir que se ponga su nombre en el acta de nacimiento y de reconocer a su hijo, salvo que éste sea adulterino y él sea casado y viva con su esposa.
-
-Si el padre no hace la petición a que se refiere el párrafo anterior y a virtud del procedimiento fijado para la investigación de la paternidad, se llega a declarar que él es el padre del infante, incurrirá en la pena que fije el Código Penal.
+Si el padre, o la madre, en su caso, no hacen el reconocimiento y a virtud de sentencia ejecutoria se llega a declarar que él es el padre o ella es la madre del infante, incurrirán en la sanción que fije el Código Penal.
 
 ###### Artículo 67.
 
@@ -367,15 +409,19 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Los padres de un hijo incestuoso podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará que es incestuoso.
 
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965) (F. DE E., P.O. 27 DE ENERO DE 1966)
+
 ###### Artículo 70.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Juez del Registro Civil con los vestidos, papeles y cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado; así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Juez del Registro Civil con los vestidos, papeles y cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
-Esta misma obligación tienen los Jefes, Directores y Administradores de las prisiones y de cualquier casa de comunidad, hospitales, casa de maternidad e inclusas respecto de los niños nacidos o expuestos en ellos.
+Esta misma obligación tienen los jefes, directores o administradores de las prisiones, hospitales, casas de maternidad o de cualquiera otra institución, respecto de los niños nacidos o expuestos en ellos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 71.
 
-Las actas que se levanten en estos casos, expresarán todas las circunstancias a que se refiere el artículo inmediato anterior, la edad aparente del niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona o casa de expósitos que se hagan cargo de él.
+Las actas que se levanten en los casos del artículo anterior, expresan las circunstancias a que el mismo precepto se refiere, la edad aparente del niño, su sexo, el nombre y apellidos que se le pongan y el nombre de la persona o institución que se haga cargo de él.
 
 ###### Artículo 72.
 
@@ -403,13 +449,17 @@ Cuando se trate de gemelos el Juez del Estado Civil hará constar las peculiarid
 
 ### CAPITULO III. De las actas de reconocimiento
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 78.
 
-Podrán el padre o la madre o ambos, reconocer a un hijo natural al presentarlo para que se registre su nacimiento. El acta contendrá los requisitos que se establecen en el capítulo anterior, la expresión de ser hijo natural y el nombre del padre que lo reconozca. Esta acta surtirá los efectos de reconocimiento legal.
+Podrá el padre, la madre o ambos, reconocer a un hijo habido fuera de matrimonio al presentarlo para que se registre su nacimiento. El acta contendrá, en lo conducente, los requisitos que se establecen en el capitulo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 79.
 
-Si el reconocimiento se hiciere después de registrado el nacimiento del hijo natural, si se hubiere omitido dicho registro o si la presentación se hace fuera del término marcado por la ley, se formará acta separada, en la que además de los requisitos a que se refiere el artículo que precede se hará constar: la declaración de reconocimiento, el consentimiento del reconocido si es mayor de catorce años y el consentimiento del tutor cuando se trate de un menor de edad.
+Si el reconocimiento se hiciere después de registrado el nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere el artículo que precede se hará constar: la declaración de reconocimiento, el consentimiento del reconocido si es mayor de catorce años y el consentimiento del tutor cuando se trate de un menor de edad.
 
 ###### Artículo 80.
 
@@ -561,9 +611,13 @@ IV. Que no hubo impedimento para el matrimonio o que se dispensó;
 
 V. La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos que hará el Juez en nombre de la ley y de la sociedad;
 
-VI. Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
-VII. Que se cumplieron las formalidades exigidas por el artículo anterior.
+VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio y de haber quedado unidos, que hará el Juez en nombre de la Ley y de la Sociedad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
+VII. Los nombres, apellidos, edad, estado civil, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en que grado y en que línea; y,
 
 El acta será firmada por el Juez del Estado Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido y supieren y pudieren hacerlo. Los que no firmen pondrán sus huellas digitales; y los esposos en todo caso.
 
@@ -587,9 +641,11 @@ Las denuncias anónimas sólo se tomarán en consideración cuando vayan acompa�
 
 El Juez del Estado Civil antes de remitir el expediente de un impedimento al Juez de Primera Instancia que corresponda, lo pondrá en conocimiento de los interesados y se abstendrá de todo procedimiento ulterior hasta que cause ejecutoria la sentencia que decida sobre el impedimento.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 107.
 
-El Juez del Estado Civil que a sabiendas autorice un matrimonio para el que haya impedimento legal será castigado como lo dispone el Código Penal.
+El juez que a sabiendas autorice un matrimonio para el que haya impedimento legal, ser sancionado como lo dispone la Ley Orgánica del Registro Civil.
 
 ###### Artículo 108.
 
@@ -601,9 +657,11 @@ El Juez del Estado Civil que reciba una petición de matrimonio está plenamente
 
 También podrá exigir declaración bajo protesta, a los testigos que presenten los interesados, a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado de sanidad.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 110.
 
-El Juez del Estado Civil que sin motivo justificado rehusare celebrar un matrimonio, será castigado: por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con destitución de su cargo.
+El Juez del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, ser sancionado la primera vez con una multa equivalente a 3 días de salario mínimo y en caso de reincidencia, con destitución del cargo.
 
 ### CAPITULO VIII. De las actas de divorcio
 
@@ -611,13 +669,19 @@ El Juez del Estado Civil que sin motivo justificado rehusare celebrar un matrimo
 
 La sentencia ejecutoria que decrete un divorcio se remitirá en copia certificada al Juez del Estado Civil para que levante el acta correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 112.
 
-El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró el matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio expresar el nombre, apellidos, edad, ocupación, nacionalidad y domicilio de los divorciados, la fecha y lugar en que se celebró el matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
 
 ###### Artículo 113.
 
-Extendida el acta de divorcio, se anotarán las de nacimiento y matrimonio de los divorciados, y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+Extendida el acta se mandará anotar la de matrimonio de los divorciados y la copia de la declaración administrativa de divorcio, se archivará con el mismo número del acta.
+
+Si las actas de nacimiento y matrimonio de los divorciados se hubieren levantado en oficina distinta, el juez dar el aviso correspondiente para que se hagan dichas anotaciones.
 
 ### CAPITULO IX. De las actas de defunción
 
@@ -637,7 +701,9 @@ I. El nombre, apellido, edad, nacionalidad, ocupación y domicilio que tuvo el d
 
 II. Si éste era casado o viudo, indicándose en su caso el nombre y apellidos del cónyuge;
 
-III. Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio de los testigos, y si fueren parientes del difunto la línea y el grado en que lo sean;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
+III. Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio de los testigos;
 
 IV. Los nombres y apellidos de los padres del difunto si se supieren;
 
@@ -649,9 +715,11 @@ VI. La hora de la muerte, si se supiere y todos los demás informes que se tenga
 
 Los dueños o habitantes de la casa en que se verificare un fallecimiento; los superiores, directores y administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso dentro de las veinticuatro horas siguientes a la muerte, al Juez del Estado Civil.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 118.
 
-Si el fallecimiento ocurriere en un lugar o población en que no hubiere Oficina del Registro, la autoridad política hará las veces del Juez del Estado Civil y remitirá a éste copia del acta que haya levantado para que la asiente en el libro respectivo.
+Si el fallecimiento ocurriere en un lugar o población en donde no exista oficina del Registro Civil, autoridad municipal extender la constancia respectiva que remitir al Juez del Registro Civil que corresponda, para que levante el acta correspondiente. Si la autoridad no lo hiciere dentro de los 15 días siguientes, se le impondrá multa de 3 a 10 días de salario mínimo.
 
 ###### Artículo 119.
 
@@ -1597,11 +1665,13 @@ Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la
 
 La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 299.
 
 A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación, todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
 
-Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+Si uno solo de los registros faltare o estuviere inutilizado y existe el otro ejemplar, de éste deber tomarse la prueba, sin admitirla de otra clase.
 
 ###### Artículo 300.
 
@@ -1817,11 +1887,11 @@ El hecho de dar alimentos no constituye por si solo prueba, ni aún presunción 
 
 Tampoco puede alegarse como razón para investigar ésta.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 343.
 
-La acción de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
-
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres. Si los padres hubieren fallecido durante la menor edad de los hijos, éstos tienen derecho de intentar la acción mientras vivan. Si el hijo ha intentado la acción que le compete, sus herederos podrán continuarla con arreglo a lo dispuesto en el Código de Procedimientos Civiles.
 
 ###### Artículo 344.
 
@@ -7869,7 +7939,7 @@ El albacea no puede enajenar, gravar o hipotecar los bienes de la sucesión, tra
 
 El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendar por mayor tiempo necesita del consentimiento de la mayoría de los herederos o de los legatarios en su caso. La falta de consentimiento de la mayoría de herederos o legatarios, originará la nulidad del contrato.
 
-(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 28 DE DICIEMBRE DE 1964)
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964) (F. DE E., P.O. 28 DE DICIEMBRE DE 1964) (REPUBLICADO, P.O. 25 DE FEBRERO DE 1965)
 
 ###### Artículo 1579.
 
@@ -8421,7 +8491,7 @@ Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el d
 
 ###### Artículo 1693.
 
-Pueden los contratos hacerse constar en minutas notariales, las que producirán sus efectos por el tiempo y en los términos de la Ley del Notariado. Pasado ese tiempo perderán su carácter de minutas, pero se conservará su carácter de documentos fehacientes para comprobar lo que en ellas conste.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1965)
 
 División de los contratos
 
@@ -14159,11 +14229,11 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)</small>
+
 ###### Artículo 2846.
 
-Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
-
-En la misma forma deberán proceder los notarios cuando se trate de documentos privados que ante ellos se ratifiquen.
+Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario o juez receptor que la autorice preventivamente dar al Registro un aviso en el que conste la finca de que se trate la indicación de que se ha transmitido o modificado su dominio o se ha constituido, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El Registrador, con el aviso del notario o juez receptor y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo su inscripción surtir efectos contra tercero desde la fecha de la anotación preventiva, la cual se citar en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtir efectos desde la fecha de la presentación. En la misma forma deberán proceder los notarios o jueces receptores cuando se trate de documentos privados que ante ellos se ratifiquen.
 
 ###### Artículo 2847.
 
@@ -14446,3 +14516,7 @@ REPUBLICADO, P.O. 25 DE FEBRERO DE 1965.
 PRIMERO.- Esta Ley entrará en vigor el día 1o. de enero de 1965.
 
 SEGUNDO.- Se derogan los artículos 578, 2178 bis y 2856, fracción VI del Código Civil y cualquiera otra disposición legal que se oponga a la presente.
+
+P.O. 27 DE DICIEMBRE DE 1965.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
