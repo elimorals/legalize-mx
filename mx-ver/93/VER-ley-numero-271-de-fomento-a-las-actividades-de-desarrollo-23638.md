@@ -1,0 +1,230 @@
+---
+title: "LEY NUMERO 271 DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES VERACRUZ-LLAVE-"
+identifier: "VER-ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-23638"
+country: "mx"
+rank: "ley"
+publication_date: "2002-02-11"
+last_updated: "2002-02-11"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23638&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-ver"
+scjn_id: "23638"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "30"
+reform_count: "3"
+scjn_last_update: "2016-02-09"
+issue_date: "2002-01-31"
+state: "VER"
+---
+# LEY NUMERO 271 DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE -ANTES VERACRUZ-LLAVE-
+
+LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ-LLAVE
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 11 de febrero de 2002.
+
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz Llave.
+
+Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
+
+Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación.
+
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+
+La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
+
+LEY NÚMERO 271
+
+De Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Estado de Veracruz-Llave.
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés social y tiene por objeto reglamentar las disposiciones constitucionales relativas al fomento a las actividades que tiendan al desarrollo social y comunitario, y de asistencia pública y privada, con base en principios de justicia en la distribución del ingreso, equidad social e igualdad de oportunidades.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se consideran actividades de desarrollo social las que realicen en el estado de Veracruz, sin ánimo de lucro en beneficio de terceros, con sentido de corresponsabilidad y transparencia, sin fines religiosos o político partidistas y bajo principios de solidaridad, filantropía y asistencia social, las Organizaciones Civiles constituidas conforme a las leyes mexicanas, cualquiera que sea la forma jurídica que adopten. Dichas actividades tendrán por objeto:
+
+I. Fortalecer el goce y ejercicio de los derechos humanos y fomentar la cultura de los mismos;
+
+II. Fomentar condiciones sociales que favorezcan integralmente el desarrollo humano;
+
+III. Promover la realización de obras y la prestación de servicios públicos para beneficio de la población;
+
+IV. Coadyuvar en las acciones de fomento al desarrollo regional, turístico, industrial y comunitario, de manera sustentable y el aprovechamiento de los recursos naturales, la protección del medio ambiente y la conservación y restauración del equilibrio ecológico;
+
+V. Promover acciones de prevención y protección civil;
+
+VI. Apoyar a los grupos vulnerables y en desventaja social para la realización de sus objetivos;
+
+VII. Fomentar la asistencia social en los términos de las leyes en la materia;
+
+VIII. Promover la educación cívica y la participación ciudadana para beneficio de la población del estado y del país;
+
+IX. Fomentar el desarrollo de los servicios educativos en los términos que establece la Ley de la materia;
+
+X. Aportar recursos humanos, materiales o de servicios para el fomento de la salud integral de la población, en el marco de la legislación federal y local en la materia;
+
+XI. Promover la investigación científica y tecnológica, tanto para el área urbana como rural.
+
+XII. Promover ante las autoridades competentes el desarrollo de las bellas artes, las tradiciones populares y la restauración y mantenimiento de monumentos y sitios arqueológicos, artísticos e históricos, así como la preservación del patrimonio cultural del Estado, conforme a la legislación aplicable;
+
+XIII. Proporcionar servicios de apoyo a la creación y el fortalecimiento de las Organizaciones Civiles mediante:
+
+a) La prestación de asesoría y asistencia técnica; y
+
+b) El fomento a la capacitación de sus integrantes;
+
+XIV. Fortalecer el incremento de las capacidades productivas de las personas, para alcanzar su autosuficiencia y desarrollo integral; y
+
+XV. Las demás actividades que, basadas en los principios que animan esta Ley, contribuyan al desarrollo social.
+
+###### Artículo 3.
+
+Para favorecer las actividades de desarrollo social enunciadas en el artículo 2, las Organizaciones Civiles podrán:
+
+I. Estimular la capacidad productiva de los grupos sociales a fin de procurar su autosuficiencia;
+
+II. Procurar y canalizar recursos económicos, humanos y materiales; y
+
+III. Promover actividades con el propósito de aportar, en forma íntegra, los rendimientos que, en su caso, produzcan las inversiones.
+
+###### Artículo 4.
+
+Las actividades a que se refiere el artículo 2 de esta Ley son de interés social, por lo que las dependencias, órganos desconcentrados y entidades de la Administración Pública del Estado, en el ámbito de sus respectivas competencias, deberán apoyarlas mediante:
+
+I. La promoción de la participación ciudadana en las políticas de desarrollo social;
+
+II. La creación de condiciones que estimulen a las Organizaciones Civiles, que realicen las actividades a las que se refiere esta Ley;
+
+III. La regulación de mecanismos transparentes de información, coordinación, concertación, participación y consulta de las Organizaciones Civiles;
+
+IV. Los mecanismos que permitan la proyección pública de la relación de corresponsabilidad gobierno-sociedad en el ámbito del desarrollo social;
+
+V. Las acciones para que cumplan con las obligaciones que les señala esta Ley y se les garantice el goce y ejercicio de sus derechos; y
+
+VI. La promoción de estudios e investigaciones que les permitan apoyarlas en su desarrollo.
+
+Las dependencias, órganos desconcentrados y entidades de la Administración Pública del Estado, en el ámbito de sus respectivas competencias, coordinarán sus actividades para el fomento del desarrollo social.
+
+###### Artículo 5.
+
+La Administración pública del Estado promoverá la celebración de convenios de coordinación con la Federación, Gobiernos de los Estados y de los Municipios, para fomentar las actividades a que se refiere esta ley.
+
+### Capítulo II
+
+Del registro de las Organizaciones Civiles.
+
+###### Artículo 6.
+
+El Ejecutivo del Estado, a través de la Subsecretaría de Gobierno, integrará y mantendrá actualizado, con la participación de las Organizaciones Civiles, el Registro de Organizaciones Civiles del Estado de Veracruz, en el que se inscribirán, cuando así lo soliciten, que realicen las actividades de desarrollo social a que se refiere esta Ley. Dicho registro será público y tendrá las siguientes funciones:
+
+I. Organizar y administrar un sistema de registro y de información de las Organizaciones Civiles;
+
+II. Inscribir a las Organizaciones Civiles que cumplan con los requisitos que establece esta Ley y otorgarles su respectiva constancia de inscripción;
+
+III. Verificar, conforme a lo previsto en esta Ley y su reglamento, el cumplimiento de las obligaciones estipuladas en la misma;
+
+IV. Reconocer públicamente las acciones que lleven a cabo las Organizaciones Civiles que se distingan en la realización de actividades de desarrollo social; y
+
+V. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+
+###### Artículo 7.
+
+Para inscribirse en el Registro de Organizaciones Civiles del Estado, las organizaciones presentarán su solicitud cubriendo los requisitos siguientes:
+
+I. Presentar copia certificada de su acta constitutiva y de sus estatutos;
+
+II. Que el objeto social y las actividades de la Organización Civil sean alguna o algunas señaladas en esta Ley;
+
+III. Prever en su acta constitutiva o en sus estatutos que destinarán la totalidad de los activos de la asociación al objeto de la misma, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes, personas físicas o morales, salvo que se trate, en este último caso, de organizaciones similares o de la remuneración por servicios recibidos. Asimismo se deberá prever que al momento de la liquidación o con motivo de ésta, los bienes que formen el patrimonio de la asociación, deberán donarse a entidades autorizadas para recibir donativos deducibles de impuestos, en términos de la legislación fiscal aplicable;
+
+IV. Señalar su domicilio social; y
+
+V. Designar un representante legal.
+
+###### Artículo 8.
+
+Recibida la solicitud a que se refiere el artículo anterior, la autoridad encargada del Registro, en un plazo no mayor a cuarenta y cinco días hábiles, resolverá sobre la procedencia o improcedencia de la inscripción.
+
+La inscripción será negada cuando no se cumpla alguno de los requisitos a que se refiere el artículo anterior, cuando la documentación exhibida presente alguna irregularidad cuando exista constancia de haber cometido en el desarrollo de sus actividades infracciones graves o reiteradas a esta Ley o a otras disposiciones jurídicas, o cuando haya prueba de que la Organización no cumple con su objeto.
+
+### Capítulo III. De los Derechos y Obligaciones de las Organizaciones Civiles
+
+###### Artículo 9.
+
+Las Organizaciones Civiles inscritas en el Registro a que se refiere el capítulo II, adquirirán los derechos siguientes;
+
+I. Emitir su opinión, cuando así se les solicite, en los objetivos, prioridades y estrategias de política de desarrollo social en el Estado de Veracruz;
+
+II. Estar representadas en los órganos de participación y consulta ciudadana que, en materia de desarrollo social, establezca la Administración Pública del Estado de Veracruz, de conformidad con las disposiciones legales aplicables;
+
+III. Recibir los bienes de otras Organizaciones Civiles que se extingan, de conformidad con sus estatutos y sin perjuicio de lo que señalen otras disposiciones legales aplicables;
+
+IV. Acceder, en los términos estipulados por el Reglamento, a los recursos y fondos públicos que, para las actividades previstas en esta Ley, conforme a la Legislación de la materia, destine la Administración Pública del Estado de Veracruz;
+
+V. Gozar de las prerrogativas fiscales y demás beneficios económicos y administrativos que otorgue el Estado, de conformidad con las leyes de la materia;
+
+Coadyuvar con las autoridades competentes, en los términos de los convenios de concertación que al efecto se celebren;
+
+VII. Recibir, en el marco de los programas que al efecto formulen las dependencias, órganos desconcentrados y entidades de la Administración Pública del Estado, asesoría, capacitación y colaboración, cuando así lo soliciten; y
+
+VIII. Coordinarse entre sí con el propósito de llevar a cabo acciones conjuntas en beneficio del desarrollo social.
+
+###### Artículo 10.
+
+Las Organizaciones Civiles inscritas en el Registro tendrán, además de las obligaciones previstas en otras disposiciones jurídicas, las siguientes:
+
+I. Informar al Registro cualquier modificación a su objeto social, domicilio o representación legal en un plazo no mayor a cuarenta y cinco días hábiles contados a partir de la protocolización de la modificación respectiva, a efecto de mantener actualizado el sistema de registro a que se refiere esta Ley;
+
+II. Mantener, a disposición de las autoridades competentes, los datos de las actividades que realicen, su contabilidad y, en su caso, sus estados financieros, con el objeto de actualizar el sistema de información, así como publicar anualmente sus estados financieros en la Gaceta Oficial del gobierno del estado;
+
+III. Destinar la totalidad de sus recursos al cumplimiento de su objeto;
+
+IV. Ser autónomos, no estar ligados o subordinados a partidos políticos y abstenerse de efectuar actividades político-partidistas, así como de realizar proselitismo o propaganda con fines religiosos; y
+
+V. Proporcionar, a la autoridad que otorgue los recursos y fondos públicos a que se refiere esta Ley, cuando así lo solicite, la información que le requiera, así como las facilidades para verificar, en todo momento, el uso y destino de los apoyos recibidos.
+
+### Capítulo IV. De las Sanciones y del Recurso Administrativo
+
+###### Artículo 11.
+
+Las Organizaciones Civiles registradas podrán ser sancionadas en la forma siguiente:
+
+I. Apercibimiento, en caso de que incurran por primera vez en incumplimiento de las obligaciones que establecen las fracciones I y II del artículo 10 de esta Ley, para que en un plazo no mayor de treinta días hábiles contados a partir de la notificación respectiva, subsanen la irregularidad;
+
+II. Suspensión por un año de los derechos estipulados en esta Ley si en un periodo de cinco años incumplen, por segunda vez, las obligaciones que establecen las fracciones I y II del artículo 10 de esta Ley; y
+
+III. Cancelación definitiva de la inscripción en el Registro, en caso de:
+
+a) El incumplimiento de las obligaciones a que se refieren las fracciones III, IV y V del artículo 10 de esta Ley;
+
+b) Incumplimiento de las obligaciones a que se refieren las fracciones I y II del artículo 10 de esta Ley por más de dos ocasiones en un periodo de cinco años.
+
+Las sanciones a que se refiere este artículo se aplicarán sin perjuicio de las de carácter civil o penal que procedan en su caso.
+
+###### Artículo 12.
+
+En contra de los actos y resoluciones de la Administración Pública del Estado de Veracruz ordenados o ejecutados con motivo de la aplicación de la presente Ley y de las normas jurídicas que de ella emanen, se podrá interponer el recuso de revocación, en términos de lo dispuesto por el Código de Procedimientos Administrativos para el Estado.
+
+## TRANSITORIOS
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Dentro del plazo de noventa días contados a partir de que entre en vigor la presente, el titular del Poder Ejecutivo expedirá el Reglamento respectivo.
+
+Artículo tercero. Remítase al ciudadano Gobernador del Estado para su promulgación y publicación.
+
+Dada en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los treinta y un días del mes de enero del año dos mil dos. Diputada presidenta, Alicia González Cerecedo.- Rúbrica. Diputado secretario, Guadalupe Velázquez Casanova.- Rúbrica.
+
+Por tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, y 49, fracción II, de la Constitución Política del Estado, y en cumplimiento del oficio número 000355, de los diputados presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado, mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta y un días del mes de enero del año dos mil dos.
+
+Atentamente
+
+Sufragio Efectivo. No Reelección. Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
