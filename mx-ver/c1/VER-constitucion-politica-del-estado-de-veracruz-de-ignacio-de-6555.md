@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1984-02-09"
+last_updated: "1984-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ABRIL DE 1984.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -633,7 +633,7 @@ VI. Calificar la legalidad de las elecciones de los Ayuntamientos. Cuando exista
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
-VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a uno o más de sus miembros, por algunas de las causas previstas por las leyes, siempre y cuando sus miembros hayan tenido oportunidad para rendir pruebas y formular alegatos;
+VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a uno o más de sus miembros, por algunas de las causas previstas por las leyes, siempre y cuando sus miembros hayan tenido oportunidad para rendir pruebas y formular alegatos.
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
@@ -963,9 +963,9 @@ XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases
 
 ### CAPITULO VIII.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 1971)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 ###### Artículo 91.
 
@@ -983,6 +983,8 @@ Las faltas del Secretario, serán suplidas por persona que tenga el carácter de
 
 La Legislatura podrá llamar al Secretario de Gobierno para que informe cuando se discuta una ley o se estudie un negocio cualquiera.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 5 DE ABRIL DE 1984)</small>
+
 ###### Artículo 72.
 
 En el caso de urgencia notoria calificada por el voto de los dos tercios de los Diputados presentes, o cuando esté para terminar algún período de sesiones, la Legislatura puede dispensar los trámites meramente reglamentarios, sin que se omita, en ningún caso, oír la opinión del Ejecutivo, a quien puede reducirse a dos días el término para hacer observaciones.
@@ -993,9 +995,11 @@ Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con obser
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia estará integrado en Trece Magistrados Numerarios y Dos Supernumerarios; funcionará en pleno o en Salas, según lo determine la Ley, y será presidido por un Magistrado que no formará Sala sino en los casos expresamente señalados. El Presidente será designado por el Tribunal en Pleno, en la Primera Sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales será substituido por el Magistrado que él designe. Los Magistrados Supernumerarios suplirán las faltas de los Numerarios. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura, y en los recesos de ésta ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la Particular del Estado y las Leyes que de ellas emanen, mirando en todo por la prosperidad y bien del Estado, así como impartir recta y pronta justicia.
+El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se refiere el Artículo 36 de esta Constitución.
 
-Los Jueces de Primera Instancia protestarán en los mismos términos, ante el Presidente del Tribunal Superior o ante la Autoridad Judicial que el mismo Presidente designe. Los Jueces Municipales y los Auxiliares, protestarán respectivamente ante los Jueces Primeros o Unicos de Primera Instancia y ante los Jueces Municipales Primeros o Unicos.
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios y dos Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley, y será presidido por un Magistrado que no integrará Sala, sino en los casos expresamente señalados. El Presidente será designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales, no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura, y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
+
+Los jueces de Primera Instancia, protestarán en los mismos términos ante el Presidente del Tribunal Superior o ante la autoridad judicial que el mismo Presidente designe. Los jueces municipales y los auxiliares, protestarán, respectivamente ante los jueces primeros o únicos de Primera Instancia y ante los jueces municipales primeros o únicos.
 
 > <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
 
@@ -1027,27 +1031,29 @@ Las designaciones de Magistrados serán sometidas a la aprobación de la Legisla
 
 Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 ###### Artículo 98.
 
-Los Jueces de Primera Instancia y los Municipales serán nombrados por el Tribunal Superior de Justicia, los últimos a propuesta en terna del Juez Primero o Unico de Primera Instancia del Distrito Judicial respectivo.
+Los jueces de Primera Instancia serán nombrados por el Tribunal Superior de Justicia, en concurso de oposición, tomando en cuenta, además, su capacidad, honradez, eficiencia y antecedentes de servicio dentro del Poder Judicial. Pueden participar en dicho concurso los licenciados en Derecho con un mínimo de cinco años de ejercicio profesional debidamente acreditado en el Estado, bajo las mismas condiciones que se señalan para quienes ya prestan sus servicios dentro de aquél.
 
-Los Jueces Auxiliares serán designados por el Juez Primero o Unico Municipal correspondiente, con aprobación del Primero o Unico de Primera Instancia del Distrito Judicial en cuya jurisdicción vayan a actuar.
+Podrán quedar exentos de examen de oposición a juicio del Tribunal Pleno, quienes hayan fungido como magistrados, jueces o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes apuntadas y los que fueran llamados por el Tribunal para ocupar interinamente el cargo.
 
-> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
+Los jueces municipales serán nombrados por el Tribunal Superior de Justicia, a propuesta en terna del Juez Primero o Mixto de Primera Instancia del Distrito Judicial respectivo.
+
+Los jueces auxiliares serán designados por el Juez Primero o Mixto de Primera Instancia, del Distrito Judicial en cuya jurisdicción vayan a actuar, con aprobación de la Presidencia del Tribunal.
+
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 ###### Artículo 99.
 
-Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, durarán en su encargo seis años. Sus funciones terminarán el treinta de noviembre del último año del sexenio judicial correspondiente. Los sexenios deberán computarse a partir del 1° de diciembre de 1944.
+Los Magistrados del Tribunal Superior de Justicia y los jueces de Primera Instancia durarán en su cargo tres años, al término de los cuales, si fueren ratificados, sólo podrán ser privados de sus puestos, en los términos del Título Cuarto de la Constitución Federal o del Título Sexto de esta Constitución.
 
-Los Jueces Municipales durarán indefinidamente en sus funciones, siempre que en el ejercicio de ellas se distingan por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia.
+Los jueces municipales durarán indefinidamente en sus funciones, siempre que desempeñen correctamente sus atribuciones legales; pero podrán ser destituidos cuando lo estime conveniente el Tribunal Superior, o en los casos que determine la Ley.
 
-Los Magistrados del Tribunal Superior y los Jueces de Primera Instancia, sólo podrán ser destituídos por mala conducta comprobada. El Gobernador hará la petición correspondiente a la legislatura y si ésta la considera justificada, previo examen de las pruebas aducidas, lo declarará así y el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido. Como consecuencia de ello, se procederá a nueva designación.
+Los jueces auxiliares durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente, pero sin exceder de este término.
 
-Los Jueces Municipales serán removidos cuando lo estime conveniente el Tribunal Superior, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley.
-
-Los Jueces Auxiliares, cuyo cargo se estimará concejil, durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan la obligación de servir más de dos años.
+El límite máximo de edad para el ejercicio de los cargos anteriores, será el de setenta años, cumplidos los cuales deberán retirarse forzosamente, para cuyo efecto el Tribunal en Pleno, a instancia del interesado o de oficio, hará la declaración correspondiente.
 
 ###### Artículo 100.
 
@@ -1079,11 +1085,11 @@ Si faltare algún Magistrado Propietario por defunción, renuncia, suspensión d
 
 Las licencias de los Magistrados, cuando no excedan de un mes serán concedidas por el Tribunal Superior; las que excedan de este tiempo, las concederá el Gobernador con aprobación de la Legislatura o, en sus recesos, de la Diputación Permanente.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 ###### Artículo 104.
 
-Los Magistrados propietarios y supernumerarios del Tribunal Superior, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia y los respectivos Secretarios, no podrán servir o desempeñar al mimo tiempo, ningún otro empleo o cargo de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias, de beneficencia o de instrucción.- La infracción de esta disposición, será castigada con la pérdida del cargo.
+Los magistrados numerarios y supernumerarios del Tribunal Superior, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia y los respectivos secretarios, no podrán servir o desempeñar al mismo tiempo, otro empleo o cargo de la Federación, del Estado, del Municipio o de particulares, salvo lo señalado en el artículo 133 de esta Constitución, los empleos en el ramo de enseñanza, y los cargos honoríficos en asociaciones científicas, literarias o de beneficencia, la infracción a esta disposición será castigada con la pérdida del cargo.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -1099,7 +1105,9 @@ II. Erigirse en Jurado de Sentencia, conforme a lo dispuesto en el artículo 123
 
 III. Conocer, en los términos que fije la Ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, al Procurador General, al Secretario de Gobierno, al Tesorero General del Estado, y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causa;
 
-IV. Nombrar a los Jueces de Primera Instancia teniendo presente lo que disponga la Ley respecto a la carrera judicial, removerlos de un Juzgado a otro o a distinto Distrito, por vía de ascenso, admitirles sus renuncias, concederles, sin goce de sueldo, las licencias que soliciten para separarse del Despacho, suspenderlos hasta por tres meses, por causa grave justificada que no dé lugar a que se les enjuicie e imponerles las demás penas económicas que determinen las Leyes;
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
+
+IV. Nombrar a los jueces de Primera Instancia conforme a lo dispuesto en el artículo 98; removerlos de un Juzgado a otro o a Distrito distinto; admitirles sus renuncias; concederles, sin goce de sueldo, las licencias que soliciten para separarse del despacho; destituirlos o suspenderlos hasta por tres meses, con audiencia del interesado, por causa grave justificada que no dé lugar a que se les enjuicie e imponerles las demás sanciones económicas que determinen las leyes;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -1107,9 +1115,13 @@ V. Nombrar a los Jueces Municipales en los términos establecidos en el artícul
 
 VI. Conceder licencias sin goce de sueldos a sus empleados, y cuando excedieren de tres meses a los de los Juzgados de Primera Instancia y a los Jueces Municipales, también sin goce de sueldo, así como a los Auxiliares, a los Defensores de Pobres y a los Visitadores Judiciales;
 
-VII. Nombrar y remover libremente a los Defensores de Pobres, Visitadores Judiciales, a los demás empleados de sus Secretarías, castigar sus faltas con multa o suspensión y admitir sus renuncias;
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
 
-VIII. Hacer el examen de recepción de Abogados y Escribanos, salvo lo que disponga la ley a propósito de la Universidad del Estado;
+VII. Nombrar y remover conforme a la Ley a los Defensores de Oficio, Médicos Legistas y demás servidores públicos del Tribunal Superior, así como sancionar sus faltas con multa o suspensión y admitir sus renuncias;
+
+> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
+
+VIII. Formular y aplicar los exámenes de oposición conforme a lo señalado por el artículo 98;
 
 IX. Formar su Reglamento Interior;
 
@@ -1117,15 +1129,13 @@ X. Dirimir los conflictos que surjan entre los Municipios y cualquiera de los Po
 
 XI. Ejercer las demás atribuciones que les señalen las leyes.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
 
 ###### Artículo 106.
 
-El cargo de Juez de Primera Instancia es renunciable; y sólo por motivos muy fundados que no coarten la libertad de los funcionarios, no aceptará el Tribunal la renuncia.
+El cargo de Juez de Primera Instancia es renunciable y sólo con motivos fundados no aceptará el Tribunal la renuncia.
 
-Los Jueces de Primera Instancia tendrán las atribuciones que les señalen las Leyes; nombrarán y removerán libremente a sus empleados y podrán conceder a éstos, a los Jueces Municipales y a los Auxiliares, licencia sin goce de sueldo a los que lo devenguen hasta por tres meses, dando aviso al Tribunal.- El nombramiento de Secretario de los Juzgados de Primera Instancia se hará con aprobación del Presidente del Tribunal, quien podrá retirarla cuando existiere causa grave para ello.
-
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+Los Jueces de Primera Instancia tendrán las atribuciones que les señalen las Leyes; nombrarán y removerán conforme a la Ley a sus empleados y podrán conceder a éstos, a los Jueces Municipales y a los Auxiliares, licencias sin goce de sueldo, a los que lo devenguen, hasta por tres meses, dando aviso al Tribunal. El nombramiento de Secretario de los Juzgados de Primera Instancia se hará con aprobación del Presidente del Tribunal, quien podrá retirarlo cuando existiere causa grave para ello.
 
 ###### Artículo 74.
 
@@ -1143,7 +1153,7 @@ DE LA HACIENDA Y CRÉDITO DEL ESTADO Y DE LA TESORERÍA GENERAL.
 
 ###### Artículo 107.
 
-La Ley organizará debidamente los Cuerpos de Visitadores Judiciales y de Defensores de Pobres, como dependencias del H. Tribunal.
+(DEROGADO, G.O. 5 DE ABRIL DE 1984)
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -1888,3 +1898,13 @@ LEY No. 39.
 Artículo Primero.- La presente Ley entrará en vigor al siguiente día de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales que se opongan a la misma.
+
+G.O. 5 DE ABRIL DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Las funciones de los Magistrados integrantes del actual Tribunal Superior de Justicia, concluirán el día treinta de noviembre de 1986.
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
