@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1943-11-24"
+last_updated: "1944-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1944.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -535,9 +535,11 @@ Todo proyecto de ley o decreto que fuere desechado en el Congreso no podrá volv
 
 El Poder Ejecutivo del Estado, se deposita en un solo individuo, que se denominará "GOBERNADOR DEL ESTADO."
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1944)</small>
+
 ###### Artículo 56.
 
-El Gobernador previa protesta de ley que otorgará ante el Congreso del Estado, tomará posesión de su encargo el día 1°. de abril de cada periodo constitucional; durará en él cuatro años y no podrá ser reelecto.
+El Gobernador previa protesta de ley que otorgará ante el H. Congreso del Estado, tomará posesión de su encargo el día 1°. de abril de cada período constitucional, durará en él seis años, y no podrá ser reelecto.
 
 ###### Artículo 57.
 
@@ -1278,3 +1280,9 @@ Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el 
 P.O. 24 DE NOVIEMBRE DE 1943.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 1944.
+
+###### ARTICULO UNICO
+
+- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
