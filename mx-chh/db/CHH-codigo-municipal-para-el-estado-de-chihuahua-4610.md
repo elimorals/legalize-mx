@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2000-10-25"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2767,17 +2767,17 @@ V.- Arresto hasta por treinta y seis horas.
 
 Primero.- Se abroga el Código Municipal para el Estado de Chihuahua, que entró en vigor el 30 de septiembre de 1982.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-Segundo.- Este Código entrará en vigor el día primero de enero de mil novecientos noventa y seis, a excepción del Capítulo Tercero del Título Tercero, del Libro Segundo, referente al Impuesto Predial, el cual entrará en vigor el día primero de enero del año dos mil uno, a efecto de que los Municipios adecúen sus valores, en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997, 1998, 1999 y 2000, las disposiciones contenidas en el Código que se abroga.
+Segundo.- Este Código entrará en vigor el día primero de enero de mil novecientos noventa y seis, a excepción del Capítulo Tercero del Título Tercero, del Libro Segundo, referente al Impuesto Predial, el cual entrará en vigor el día primero de enero del año dos mil dos, a efecto de que los Municipios adecuen sus valores en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997, 1998, 1999, 2000 y 2001 las disposiciones contenidas en el Código que se abroga.
 
 En cuanto a las diferencias del impuesto a cargo de los contribuyentes que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se pagarán en un lapso de dos años, de la manera siguiente:
 
-I.- En el año 2001, el cincuenta por ciento de la diferencia; y,
+I.- En el año 2002, el cincuenta por ciento de la diferencia; y,
 
-II.- en el año 2002, el resto del total de la diferencia.
+II.- en el año 2003, el resto del total de la diferencia.
 
-Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
+Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentaran el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
 
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
 
@@ -2982,3 +2982,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 25 DE OCTUBRE DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil uno.
