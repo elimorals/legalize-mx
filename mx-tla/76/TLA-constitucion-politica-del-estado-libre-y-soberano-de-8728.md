@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1975-11-12"
+last_updated: "1978-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -48,6 +48,18 @@ El Estado de Tlaxcala es parte integrante de los Estados Unidos Mexicanos, y es 
 ###### Art. 2.
 
 La Soberanía del Estado reside esencial y originariamente en el Pueblo, y en nombre de éste la ejerce el Poder Público del modo y en los términos que establecen esta Constitución y la Federal.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+
+Los Partidos Políticos son entidades de interés público. La Ley Reglamentaria determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+
+Los Partidos Políticos tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
+
+Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones Estatales y Municipales.
 
 ###### Art. 3.
 
@@ -225,31 +237,43 @@ El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo del Estado se deposita en una Asamblea que se denomina "Congreso del Estado de Tlaxcala".
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 21.
 
-El Congreso se compondrá de Diputados electos popularmente en número no menor de 9, que se aumentarán con Diputados de Partido.
+El Congreso estará integrado por 9 Diputados, electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y hasta 3 diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 22.
 
-La Elección de Diputados será directa y se complementará, con Diputados de Partido, apegándose, en ambos casos, a lo que disponga la Ley Electoral del Estado y, en el segundo además a las reglas siguientes:
+La elección de los Diputados de minorías, según el principio de representación proporcional y el sistema de listas, deberá sujetarse a lo que en particular disponga la Ley, de conformidad con las siguientes bases:
 
-I. Todo Partido Político legalmente registrado en el Estado que obtenga cuando menos 1.5% de la votación total en la Entidad en la elección respectiva, tendrá derecho a que se acredite a uno de sus candidatos como Diputados de Partido ante el H. Congreso Local.
+I.- Para obtener la inscripción de sus listas, el Partido Político que lo solicite deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos tres Distritos uninominales.
 
-II.- El máximo de Diputados de Partido que podrá acreditar cada Partido Político será uno. Si logra la mayoría en uno o más Distritos Electorales no tendrá derecho a que le sean reconocidos Diputados de Partido.
+II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de representación proporcional todo aquel Partido que:
 
-III.- Los Diputados de Partido serán acreditados, por riguroso orden, de acuerdo con el número de Sufragios que hayan obtenido en relación a los demás candidatos del mismo Partido, en sus respectivos Distritos.
+a).- No haya obtenido 2 o más constancias de mayoría.
 
-IV.- Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales obligaciones y derechos.
+b).- Que alcance por lo menos el 1.5% de la votación emitida para el total de las listas.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
+III.- Al Partido que se encuentre dentro de los supuestos señalados en las Fracciones I y II de este artículo, le serán asignados los Diputados de su lista que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción.
+
+La Ley Reglamentaria determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los Candidatos en las listas correspondientes.
+
+IV.- En caso de que 2 o más Partidos con derecho a participar en la distribución por listas obtuviesen en su conjunto 3 o más constancias de mayoría, sólo será objeto de distribución 1 de las curules que deban asignarse por el principio de proporcionalidad.
+
+V. Los Diputados de mayoría y los de minoría, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 23.
 
-Por cada cincuenta mil habitantes o fracción que exceda de treinta mil, los ciudadanos del Estado elegirán un Diputado Propietario y un Suplente.
+La demarcación de los 9 Distritos Electorales uninominales, será la que resulte de dividir la población total del Estado, según el último censo, entre tales Distritos. La Ley reglamentaria señalará la demarcación territorial de estos Distritos.
+
+Por cada Distrito Electoral uninominal se elegirán un Diputado Propietario y un Suplente.
+
+Para la elección de los Diputados, según el principio de representación proporcional se constituirá una circunscripción electoral plurinominal que corresponderá a la totalidad del territorio del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -299,11 +323,11 @@ De la instalación, duración y labores del Congreso.
 
 El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día 1° de diciembre inmediato posterior a la elección.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 28.
 
-Los ciudadanos a quienes los organismos electorales expresamente facultados para ello en la Ley Electoral del Estado expidan credenciales declarando que han obtenido mayoría de votos para Diputados, de acuerdo con las disposiciones del Reglamento Interior del Congreso, se instalarán para calificar la elección y declarar quienes son Diputados. El propio Colegio Electoral acreditará a los Diputados de Partido sujetándose a lo preceptuado en la propia Ley Electoral. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral serán irrevocables.
+Cada presunta Legislatura calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará con los 2 presuntos diputados que, de acuerdo con los registros de la Comisión Local Electoral, hubieren obtenido el mayor número de votos y por 1 presunto diputado que hubiese resultado electo en la circunscripción plurinominal, con la votación más elevada. Su resolución será definitiva e inatacable.
 
 ###### Art. 29.
 
@@ -839,11 +863,19 @@ De los Municipios.
 
 Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Art. 73.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados cada tres años en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Electoral, tomarán posesión el día 1° de enero posterior a la elección y no podrán ser reelectos para el período inmediato al en que hubieren ejercido su encargo.
+Los Ayuntamientos se compondrán de Munícipes nombrados cada tres años en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Reglamentaria, tomarán posesión el día 1º. de enero posterior a la elección y no podrán ser reelectos para el periodo inmediato al en que hubieren ejercido su encargo.
+
+En la capital del Estado y en los Municipios cuya población sea de 75,000 o más habitantes, los ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia de conformidad a las siguientes bases:
+
+I. El partido político cuya planilla haya obtenido el mayor número de votos, tendrá derecho a que se le acrediten a quienes encabecen la lista como, Presidente Municipal y Síndico del Ayuntamiento, respectivamente.
+
+II. Las regidurías que integren el cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los partidos políticos contendientes, a fin de obtener un cociente electoral.
+
+La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los regidores de representación proporcional.
 
 ###### Art. 74.
 
@@ -1190,3 +1222,9 @@ P.O. 12 DE NOVIEMBRE DE 1975.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación.
