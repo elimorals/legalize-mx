@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1957-07-13"
+last_updated: "1958-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1958.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -325,11 +325,17 @@ En estos tres últimos casos, la convocatoria se hará por conducto de la misma 
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1957)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1958)</small>
 
 ###### Art. 40.
 
-El día 15 de Diciembre de cada año el C. Gobernador del Estado, concurrirá a la sesión que celebre en ese día el H. Congreso de la Entidad, y presentará al mismo un informe por escrito, sobre el estado general de la Administración Pública. En caso de período extraordinario de sesiones del H. Congreso del Estado solicitado por el Ejecutivo, el C. Gobernador de Sinaloa, concurrirá por sí o por medio de representante, a la sesión de apertura de dicho período, explicando a la Legislatura los motivo (sic) y el objeto de la convocatoria a período extraordinario y los asuutos (sic) que requieran una pronta resolución. A las (sic) sesión del 15 de Diciembre de cada año asistirá también el Presidente del Supremo Tribunal de Justicia, quién informará sobre el estado que guarde la Administración de Justicia en la Entidad. El Presidente de la Legislatura contestará las exposiciones hechas tanto por el C. Gobernador del Estado como por el C. Presidente del Supremo Tribunal de Justicia del mismo, en términos generales.
+El día 15 de Diciembre de cada año, el C. Gobernador del Estado, concurrirá a la Sesión que celebre en ese día el H. Congreso de la Entidad, y presentará al mismo un Informe por escrito, sobre el estado general de la Administración Pública. En caso de Período Extraordinario de Sesiones del H. Congreso del Estado, solicitado por el Ejecutivo, el C. Gobernador de Sinaloa, concurrirá por sí o por medio de Representante a la Sesión de Apertura de dicho Período, explicando a la Legislatura los motivos y el objeto de la Convocatoria a Período Extraordinario y los asuntos que requieran una pronta resolución. El Presidente de la Legislatura contestará las exposiciones hechas por el C. Gobernador del Estado, en términos generales.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1958)</small>
+
+###### Art. 40 Bis.
+
+A la Apertura de cada Primer Período Ordinario de Sesiones del Congreso, concurr rá (sic) el Presidente del Supremo Tribunal de Justicia y presentará un Informe por escrito sobre el estado que guarde la Administración de la Justicia de la Entidad. El Presidente de la Legislatura contestará en términos generales.
 
 ###### Art. 41.
 
@@ -1822,3 +1828,7 @@ Artículo Cuarto.- El Supremo Tribunal de Justicia dictará las medidas transito
 P.O. 13 DE JULIO DE 1957.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE NOVIEMBRE DE 1958.
+
+Art. Unico.- El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
