@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-58-2000-del-pleno-del-consejo-de-la-63408"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-08-31"
-last_updated: "2000-08-31"
+last_updated: "2000-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63408&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-08-23"
 
 ACUERDO GENERAL 58/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO DE LOS JUZGADOS QUINTO Y SEXTO DE DISTRITO EN EL ESTADO DE MICHOACAN, CON RESIDENCIA EN URUAPAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de agosto de 2000.
 
@@ -45,7 +45,9 @@ PRIMERO.- Se autoriza el cambio de domicilio de los Juzgados Quinto y Sexto de D
 
 SEGUNDO.- El nuevo domicilio de los órganos jurisdiccionales en cita será el ubicado en Carretera Uruapan-Pátzcuaro 1380, Fraccionamiento Lomas del Valle, Código Postal 60010, Uruapan, Michoacán.
 
-TERCERO.- Las funciones de los órganos jurisdiccionales de mérito iniciarán en su nuevo domicilio a partir del día once de septiembre del año en curso.
+> <small>(REFORMADO POR LOS PUNTOS PRIMERO Y SEGUNDO DEL ACUERDO GENERAL 67/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE SEPTIEMBRE DE 2000)</small>
+
+TERCERO.- Las funciones de los órganos jurisdiccionales de mérito iniciarán en su nuevo domicilio a partir del día veinticinco de septiembre del año en curso.
 
 CUARTO.- Toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia de los órganos jurisdiccionales señalados, deberán dirigirse y realizarse en el domicilio precisado.
 
@@ -60,3 +62,11 @@ SEGUNDO.- Hágase del conocimiento de la Suprema Corte de Justicia de la Nación
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Periódico Oficial del Gobierno del Estado de Michoacán, en un periódico de circulación del propio Estado, así como en uno de circulación nacional.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 58/2000, relativo al cambio de domicilio de los Juzgados Quinto y Sexto de Distrito en el Estado de Michoacán, con residencia en Uruapan, fue aprobado en sesión extraordinaria de veintitrés de agosto de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintitrés de agosto de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
