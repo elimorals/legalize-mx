@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-del-estado-de-san-luis-potosi-12036"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-30"
-last_updated: "1995-10-30"
+last_updated: "1998-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1998.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de octubre de 1995.
 
@@ -65,9 +65,13 @@ Para los efectos de la presente ley, se entenderá por:
 
 I.- Instituciones: Las señaladas en el artículo 1o. de esta Ley;
 
-II.- Secretaría: La Secretaría de Planeación Finanzas;
+> <small>(REFORMADA, P. O. 6 DE JULIO DE 1998)</small>
 
-III.- Contraloría: La Coordinación General de la Contraloría del Poder Ejecutivo;
+II.- Secretaría: La Secretaría de Finanzas;
+
+> <small>(REFORMADA, P. O. 6 DE JULIO DE 1998)</small>
+
+III.- Contraloría: La Contraloría General del Estado;
 
 IV.- Dependencias: Las del Ejecutivo que, de conformidad con la Ley Orgánica de la Administración Pública Estatal, se encuentren facultadas para realizar obra pública;
 
@@ -81,7 +85,9 @@ VIII.- Subcomité: El Subcomité Intersectorial Consultivo de la Obra Pública;
 
 IX.- Organos de Control: tratándose de:
 
-a) El Ejecutivo del Estado: La Coordinación General de Contraloría del mismo y la Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P. O. 6 DE JULIO DE 1998)</small>
+
+a) El Ejecutivo del Estado: La Contraloría General del Estado del mismo y la Secretaría de Finanzas;
 
 b) El Poder Legislativo: La Contaduría Mayor de Hacienda.
 
@@ -89,7 +95,9 @@ c) El Poder Judicial: El Organo Administrativo que de conformidad con su Ley Org
 
 d) Los Ayuntamientos: El Cabildo y Contraloría Municipal.
 
-e) Las Entidades Estatales: La Contraloría General de la Contraloría.
+> <small>(REFORMADA, P. O. 6 DE JULIO DE 1998)</small>
+
+e) Las Entidades Estatales: La Contraloría General del Estado;
 
 f) Las Entidades Municipales: El Consejo de Administración u Organo de Gobierno; y
 
@@ -986,3 +994,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE JULIO DE 1998.
+
+PRIMERO.- EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
