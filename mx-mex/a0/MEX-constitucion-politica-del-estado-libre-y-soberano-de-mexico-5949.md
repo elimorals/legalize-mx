@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1971-12-29"
+last_updated: "1972-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 1972.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -319,17 +319,17 @@ Nunca podrán reunirse dos ni los tres Poderes del Estado en una persona o corpo
 
 El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denominará Legislatura del Estado, y que será integrada por Diputados electos directa y popularmente.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1968)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
 
 ###### Art. 38.
 
-Se elegirán un Diputado Propietario y un Suplente por cada ciento cincuenta mil habitantes, o más, no pudiendo el Congreso del Estado, en ningún caso quedar integrado por menos de trece o más de quince diputados.
+Se elegirán un diputado propietario y un suplente para cada doscientos cincuenta mil habitantes o más, no pudiendo el Congreso del Estado, en ningún caso quedar integrado por menos de trece diputados.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1972)</small>
 
 ###### Art. 39.
 
-Para ser Diputado Propietario o Suplente, se requiere ser mayor de 25 años, originario y ciudadano del Estado, con residencia efectiva en su territorio o con vecindad no menor de un año inmediato anterior al día de la elección.
+Para ser diputado propietario o suplente, se requiere ser mayor de 21 años, originario y ciudadano del Estado, con residencia efectiva en su territorio o con vecindad no menor de un año inmediato anterior al día de la elección.
 
 ###### Art. 40.
 
@@ -2198,3 +2198,9 @@ G.G. 29 DE DICIEMBRE DE 1971.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 8 DE ENERO DE 1972.
+
+###### ARTICULO TERCERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
