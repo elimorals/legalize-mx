@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2004-12-29"
+last_updated: "2005-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,27 +18,25 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, JUGO DE NARANJA ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el miércoles 29 de diciembre de 2004.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de enero de 2005.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9 fracción III, 26, 31, 32, 33 y 35 de su Reglamento, 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FERNANDO DE JESUS CANALES CLARIOND, Secretario de Economía, con fundamento en los artículos 302 párrafo 4 del Tratado de Libre Comercio de América del Norte; 4o. fracción III, 5o. fracción V, 6o., 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o. fracción III, 26, 31, 32, 33 y 35 de su Reglamento; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993 y publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos el establecimiento de reglas claras y de beneficio mutuo para su intercambio comercial;
+Que el Tratado de Libre Comercio de América del Norte, aprobado por el Senado de la República el 22 de noviembre de 1993, publicado en el Diario Oficial de la Federación el 20 de diciembre del mismo año, prevé entre sus objetivos, eliminar obstáculos al comercio y facilitar la circulación transfronteriza de bienes y servicios entre los territorios de las partes;
 
-Que el Apéndice 6, Sección B del Anexo 300-B de dicho Tratado, establece que cada una de las Partes podrá otorgar un trato de preferencia arancelaria para bienes textiles y prendas de vestir no originarios producidos en territorio de una de las partes e importado a otra de las Partes, de conformidad con las disposiciones establecidas en dicho Apéndice y hasta por los montos señalados en los cuadros 6.B.1, 6.B.2 y 6.B.3;
+Que el artículo 302 párrafo 4 del propio Tratado establece que cada una de las Partes podrá adoptar o mantener medidas sobre las importaciones con el fin de asignar el cupo de importaciones realizadas según una cuota mediante aranceles (arancel-cuota), establecidos en el anexo 302.2, siempre y cuando tales medidas no tengan efectos comerciales restrictivos sobre las importaciones, adicionales a los derivados de la imposición del arancel-cuota;
 
-Que el procedimiento de asignación de los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, producidos en territorio de una de las Partes e importados a territorio de otra de las partes, susceptibles de recibir trato de preferencia arancelaria, es un instrumento que propicia la participación dinámica de los distintos agentes económicos, en particular del sector privado, en los esfuerzos orientados a profundizar las relaciones económicas entre las partes y a desarrollar y potenciar al máximo las posibilidades de su presencia conjunta en los mercados internacionales, y
+Que el procedimiento de asignación del cupo de jugo de naranja, es un instrumento de la política sectorial para complementar la oferta nacional, y
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que el cupo a que se refiere este Acuerdo cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+ACUERDO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA IMPORTAR, DENTRO DEL ARANCEL-CUOTA ESTABLECIDO EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, JUGO DE NARANJA ORIGINARIO DE LOS ESTADOS UNIDOS DE AMERICA
 
 ###### ARTICULO 1o.
 
@@ -72,7 +70,7 @@ Los permisos previos que se tramiten ante la Secretaría de Economía, para la i
 
 ###### ARTICULO PRIMERO.
 
-Los cupos, para exportar a los Estados Unidos de América y a Canadá, bienes textiles y prendas de vestir no originarios producidos en territorio nacional, en adelante cupos de exportación, así como para importar de dichos países bienes textiles y prendas de vestir no originarios, producidos en el territorio de éstos, susceptibles de recibir trato de preferencia arancelaria conforme a lo dispuesto en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte durante el periodo del 1 de enero al 31 de diciembre de cada año, son los que se determinan a continuación:
+El cupo para importar, en el periodo 1 de enero al 31 de diciembre de cada año, jugo de naranja originario de Estados Unidos de América, con el arancel-cuota establecido en el artículo 302, párrafo 4 del Tratado de Libre Comercio de América del Norte, es el que se determina a continuación:
 
 (VEASE ARCHIVO ANEXO)
 
@@ -220,9 +218,7 @@ Los formatos a que se hace referencia en este Acuerdo estarán a disposición de
 
 ###### ARTICULO SEGUNDO.
 
-Los cupos descritos en las columnas (2), (3) y (5) del cuadro del artículo primero del presente Acuerdo, se asignarán de manera directa bajo la modalidad de “Primero en Tiempo, Primero en Derecho".
-
-Los cupos de importación de bienes textiles y prendas de vestir no originarios, procedentes de Canadá, especificados en la columna (4) del cuadro del artículo primero del presente Acuerdo, son administrados por el gobierno canadiense, mediante la expedición de certificados de elegibilidad que otorga a sus empresas exportadoras.
+Se aplicará al cupo a que se refiere el presente Acuerdo, el procedimiento de asignación directamente en la aduana, mediante la modalidad de primero en tiempo, primero en derecho.
 
 ###### ARTICULO OCTAVO.
 
@@ -366,18 +362,6 @@ Las disposiciones del presente Decreto no liberan del cumplimiento de las restri
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor a partir del 1 de enero del año 2005.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2007.
 
-México, D.F., a 20 de diciembre de 2004.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
-
-D.O.F. 23 DE JULIO DE 2007.
-
-PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2004.
-
-TERCERO.- Las asignaciones y los certificados de cupo expedidos al amparo del Acuerdo que se abroga en el artículo Transitorio anterior del presente Acuerdo, continuarán vigentes hasta la fecha que se indique en el documento correspondiente y por el saldo del monto autorizado, por lo que podrán continuar siendo utilizados para los efectos para los que fueron emitidos, por lo que los titulares de dichas autorizaciones no deberán realizar ningún trámite ante la SE y podrán ejercer dichas autorizaciones ante la aduana, de conformidad con la Tabla de Correlación TIGIE 2002-TIGIE 2007 que se establece como anexa al Acuerdo por el que se dan a conocer diversas disposiciones en materia de instrumentos y programas de comercio exterior, así como la Tabla de Correlación TIGIE 2002-TIGIE 2007, publicado el 28 de junio de 2007.
-
-CUARTO.- Al monto del cupo establecido en el presente Acuerdo le será descontado la cantidad que a la fecha de entrada en vigor de este ordenamiento, haya sido asignada al amparo de lo establecido en el Acuerdo que se abroga. Al efecto, la Secretaría de Economía dará a conocer en la página de Internet: www.siicex.gob.mx, el monto del cupo que a la entrada en vigor del presente Acuerdo esté disponible para ser asignado.
+México, D.F., a 18 de enero de 2005.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
