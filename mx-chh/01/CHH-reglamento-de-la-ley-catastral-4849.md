@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-catastral-4849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-11-18"
-last_updated: "1935-05-04"
+last_updated: "1940-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY CATASTRAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1940.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chihuahua, 18 de noviembre de 1933.
 
@@ -45,9 +45,11 @@ a).- El de preparación durante el cual se obtendrán las declaraciones y planos
 
 b).- El de formación que consistirá en el registro e inscripción de las propiedades, según las declaraciones presentadas por los interesados y aprobadas por la Junta Central y la concentración de los planos de los predios en planos generales de cada Distrito Rentístico que a su vez se recopilarán en las Oficinas de la Junta Central para la formación del plano General del Estado.
 
-c).- EI de conservación durante el cual se anotarán en los registros y planos Catastrales los cambios sufridos por la propiedad rentística y Urbana.
+c).- El de conservación durante el cual se anotarán en los registros y planos Catastrales los cambios sufridos por la propiedad rentística y Urbana.
 
-II.- Las declaraciones deberán ser presentadas cada cinco o quince años, según se trate de predios Urbanos o rústicos respectivamente, en el mes de mayo, y deberán acompañarse de un plano de la propiedad, siempre que ésta haya sido fraccionada o se hayan unido dos o más en una sola. En el caso de la primera declaración al entrar en vigor la Ley Catastral y el presente Reglamento, invariablemente se hará la presentación del plano que representa la propiedad declarada.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1940)</small>
+
+II.- Las declaraciones deberán ser presentadas cada cinco años, en el mes de mayo, y deberán acompañarse de un plano de la propiedad, siempre que ésta haya sido fraccionada o se hayan unido dos o más en una sola. En el caso de la primera declaración al entrar en vigor la Ley Catastral y el presente Reglamento, invariablemente se hará la presentación del plano que representa la propiedad declarada.
 
 III.- Las declaraciones y el plano deberán presentarse por triplicado (el último en copias heliográficas) una por cada una de las propiedades del interesado, a quien se le deberá devolver una copia de la declaración y una del plano con la anotación de un número de orden y la fecha con el sello de la Oficina para que le sirva como comprobante de haber cumplido con esta obligación.
 
@@ -75,7 +77,7 @@ e).- La construcción gráfica de estos planos, se hará por el procedimiento de
 
 VI.- Si el predio es urbano las declaraciones deberán contener:
 
-a).- EI nombre o domicilio del propietario o poseedor.
+a).- El nombre o domicilio del propietario o poseedor.
 
 b).- La ubicación, colindancias y extensión total del predio.
 
@@ -91,7 +93,7 @@ b).- En caso de que la finca conste de varios pisos se hará en dicho plano la r
 
 VIII.- Las operaciones topográficas mencionadas en el presente Artículo se harán con relación absoluta del meridiano astronómico, desechándose las que no se hagan con referencia a él.
 
-IX.- Los planos de fincas rústicas o urbanas que hayan sido hechos con anterioridad a la publicación de este Reglamento y obren en los Archivos Catastrales o sean presentados en cumplimiento de lo dispuesto por la Ley y este Reglamento, serán objeto de estudios especiales de parte de las Juntas Regionales y Junta Central de Catastro Ias cuales los aprobarán o desecharán según estimen conveniente.
+IX.- Los planos de fincas rústicas o urbanas que hayan sido hechos con anterioridad a la publicación de este Reglamento y obren en los Archivos Catastrales o sean presentados en cumplimiento de lo dispuesto por la Ley y este Reglamento, serán objeto de estudios especiales de parte de las Juntas Regionales y Junta Central de Catastro las cuales los aprobarán o desecharán según estimen conveniente.
 
 X.- En caso de que el Ejecutivo del Estado lo estime conveniente, podrá celebrar con tratos con los Ingenieros, de acuerdo con los propietarios de cada Distrito Rentístico, para la Catastración, por lo que a la, parte topográfica y geométrica se refiere, en la jurisdicción de cada uno de dichos Distritos.
 
@@ -123,7 +125,9 @@ Las Juntas Regionales quedarán Integradas por cinco representantes que serán:
 
 I.- El Recaudador de Rentas del Estado en el Distrito Rentístico.
 
-II.- Un Representante del H. Ayuntamiento.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1940)</small>
+
+II.- El Tesorero Municipal, en representación del H. Ayuntamiento.
 
 III.- Un experto en ingeniería designado por el Gobernador del Estado.
 
@@ -345,9 +349,11 @@ Siéndolo y en los casos que lo considere necesario solicitará los informes y p
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1940)</small>
+
 ###### Artículo 36.
 
-Los predios rústicos urbanos que se encuentren registrados como de la propiedad de una persona, institución o sociedad, no podrán anotarse a nombre de otra si no se comprueba con documentos fehacientes que justifiquen la substitución.
+Los predios rústicos y urbanos que se encuentren registrados como de la propiedad de una persona, institución o sociedad, no podrán anotarlos a nombre de otra si no se comprueba con documentos fehacientes que justifiquen la substitución y que se hallen debidamente inscritos en el Registro Público de la Propiedad.
 
 ###### Artículo 37.
 
@@ -374,5 +380,9 @@ P.O. 21 DE JULIO DE 1934.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
 
 P.O. 4 DE MAYO DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
+
+P.O. 23 DE NOVIEMBRE DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
