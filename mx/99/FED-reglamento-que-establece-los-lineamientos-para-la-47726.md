@@ -4,7 +4,7 @@ identifier: "FED-reglamento-que-establece-los-lineamientos-para-la-47726"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-03"
-last_updated: "2003-01-03"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-12-18"
 
 REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS, FORMATOS, INSTRUCTIVOS, CATALOGOS DE CUENTAS Y GUIA CONTABILIZADORA APLICABLES A LOS PARTIDOS POLITICOS EN EL REGISTRO DE SUS INGRESOS Y EGRESOS Y EN LA PRESENTACION DE SUS INFORMES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2003.
 
 Acuerdo publicado en la Primera y Segunda Secciones del Diario Oficial de la Federación, el viernes 3 de enero de 2003.
 
@@ -199,7 +199,7 @@ PRIMERA PARTE. LINEAMIENTOS
 
 1.2. Todos los ingresos en efectivo que reciban los partidos políticos deberán depositarse en cuentas bancarias a nombre del partido político, que serán manejadas mancomunadamente por quienes autorice el encargado del órgano de finanzas de cada partido. Los estados de cuenta respectivos deberán conciliarse mensualmente y se remitirán a la autoridad electoral cuando ésta lo solicite o lo establezca el presente Reglamento. El Secretario Técnico de la Comisión de Fiscalización podrá requerir a los partidos políticos que presenten los documentos que respalden los movimientos bancarios que se deriven de sus estados de cuenta.
 
-Los partidos políticos deberán autorizar al Instituto Federal Electoral para obtener cualquier información y certificaciones relacionadas con sus instrumentos y operaciones en las distintas instituciones de banca múltiple e intermediarios financieros del sistema financiero nacional, a través de un oficio dirigido al Presidente de la Comisión Nacional Bancaria y de Valores, con copia para el Secretario Técnico de la Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas. Los partidos políticos deberán cumplir con esta disposición dentro de los treinta días siguientes a aquel en que hayan obtenido su registro como partidos políticos nacionales.
+> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO CG37/2003 DEL CONSEJO GENERAL DEL IFE, D.O.F. 13 DE MARZO DE 2003)</small>
 
 1.3. Todos los ingresos en efectivo que provengan del financiamiento privado que reciba el comité ejecutivo nacional u órgano equivalente de cada partido político, así como los recursos que provengan del financiamiento público que sea otorgado al partido político en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos y el Código Federal de Instituciones y Procedimientos Electorales, deberán ser depositados en cuentas bancarias de cheques, que se identificarán como CBCEN-(PARTIDO)-(NUMERO).
 
@@ -510,6 +510,10 @@ menor a 25 10% 7% 5%
 Mayor o igual a 25 8% 5.5% 4%
 
 14.3. Los reconocimientos a que se refiere el párrafo anterior deberán estar soportados por recibos foliados que especifiquen el nombre y firma de la persona a quien se efectuó el pago, su domicilio particular, clave de elector y teléfono, el monto y la fecha del pago, el tipo de servicio prestado al partido político y el periodo de tiempo durante el que se realizó el servicio. Los recibos deberán estar firmados por el funcionario del área que autorizó el pago. Durante las campañas electorales, estos recibos deberán especificar la campaña de que se trate, y las erogaciones por este concepto contarán para efectos de los topes de gasto de campañas correspondientes.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO CG37/2003 DEL CONSEJO GENERAL DEL IFE, D.O.F. 13 DE MARZO DE 2003)</small>
+
+Tratándose de menores de edad, en vez de la clave de elector, se deberá consignar algún otro dato que permita identificar plenamente a quien se le otorga el correspondiente recibo, como puede ser la clave única del registro de población (CURP), el número de pasaporte vigente, los datos de la credencial vigente expedida por alguna institución educativa oficial o el número de credencial o identificación de alguna institución publica de seguridad social. En este supuesto, será responsabilidad del partido político aportar los elementos adicionales que le permitan a la autoridad verificar la veracidad de la información asentada en los REPAP que se encuentran en tal supuesto.
 
 Se eximirá del requisito de especificar la clave de elector hasta en un diez por ciento del total de lo que un partido puede erogar por concepto de reconocimientos por actividades políticas en el año respectivo.
 
@@ -830,3 +834,9 @@ Tercero Transitorio.- Los partidos políticos deberán comenzar a utilizar los f
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 18 de diciembre de 2002.- El Consejero Presidente del Consejo General, José Woldenberg Karakowsky.- Rúbrica.- El Secretario del Consejo General, Fernando Zertuche Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 13 DE MARZO DE 2003.
+
+Único.- Las modificaciones objeto del presente Acuerdo del Consejo General del Instituto Federal Electoral, entraran en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
