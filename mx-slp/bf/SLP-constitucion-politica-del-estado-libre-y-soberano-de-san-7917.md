@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1973-04-19"
+last_updated: "1978-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1978.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -269,25 +269,37 @@ ART. 17.- El Poder Legislativo será ejercido por una asamblea de diputados que 
 
 De la elección y cualidades de los diputados
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 18.- El Congreso del Estado se compondrá de representantes nombrados en su totalidad cada tres años por los ciudadanos potosinos.
+ART. 18.- El Congreso del Estado se integrará con once diputados electos por mayoría relativa en igual número de distritos uninominales, y hasta nueve Diputados electos según el principio de representación proporcional. Por cada Diputado Propietario habrá un Suplente.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 19.- El número de diputados no podrá ser menos de nueve, debiéndose elegir uno por cada setenta y cinco mil habitantes o por una fracción que pase de treinta mil.
+ART. 19.- Los Partidos Políticos con derecho a participar en las elecciones locales podrán postular un candidato por cada distrito uninominal y una lista de nueve candidatos para elegirse por representación proporcional en una sola circunscripción estatal.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 20.- Por cada diputado propietario se elegirá un suplente.
+ART. 20.- La Ley Reglamentará la forma y procedimientos relativos a la elección de diputados de mayoría. Para la asignación de diputados por representación proporcional, se observarán además las siguientes bases:
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+I.- Con los votos sufragados en todo el Estado a favor de las listas de candidatos presentadas por los partidos que están en el caso del artículo 22, se obtendrá cociente electoral.
 
-ART. 21.- El territorio del Estado se dividirá en los distritos electorales que sean necesarios y esta división se fijará en la Ley Electoral, en la que se determinará todo lo relativo a elección de Poderes y Ayuntamientos.
+II.- La asignación de diputados se hará en los términos de la Ley secundaria y en proporción a la votación recabada por las listas de cada partido.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+Siempre se respetará el orden que guarden los candidatos en dichas listas.
 
-ART. 22.- La elección de diputados será directa y en los términos que prevenga la Ley Electoral.
+III.- Ningún partido podrá obtener más de quince diputados en total. Llegado este caso habiendo aún diputaciones por repartir, se procederá a obtener un nuevo cociente electoral tomando en cuenta exclusivamente los votos de los demás partidos. La distribución de las diputaciones faltantes se hará conforme a la fracción anterior.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+
+ART. 21.- Cuando en las elecciones contendieren únicamente dos partidos que cumplan con lo dispuesto en el artículo siguiente, se repartirán sólo seis diputaciones por medio de lista; si concurriera nada más un Partido con dichos requisitos no se asignará ninguna representación proporcional. En el primer caso los Partidos no podrán tener más de trece Diputados en total.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
+
+ART. 22.- Sólo se asignarán Diputados por el sistema de Representación Proporcional, a los Partidos Políticos que acrediten los siguientes requisitos:
+
+I.- Haber postulado candidatos en seis distritos electorales uninominales, como mínimo.
+
+II.- Conseguir por lo menos el uno y medio por ciento de la votación total para las listas de candidatos.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -331,19 +343,23 @@ La infracción de este artículo se castiga con la pérdida del carácter de dip
 
 ART. 26.- Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su encargo, y jamás podrán ser reconvenidos ni procesados por ellas.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 27.- Sólo el Congreso puede calificar la validez o nulidad de la elección de sus miembros y resolver las dudas que sobre ella se ofrezcan.
+ART. 27.- Las elecciones de diputados serán calificadas por un Colegio Electoral compuesto por cinco presuntos diputados de mayoría y cuatro presuntos diputados de representación proporcional. La Ley determinará la forma de seleccionar a los miembros del Colegio.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
 ### CAPITULO SEPTIMO. De la instalación, sesiones y recesos del Congreso
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1978)</small>
+
+ART. 28.- El Congreso del Estado no puede abrir sus sesiones ni ejercer sus funciones, sin la concurrencia de más de la mitad del número total de sus miembros pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hicieren, se entenderá por ese solo hecho que no aceptan su cargo, llamándose desde luego a los suplentes, los que deberán presentarse en plazo igual y si tampoco concurrieren, se declarará vacante el puesto y se convocará a nuevas elecciones si se tratara de un diputado de mayoría. En el caso de Diputados de representación proporcional, se llamará también al suplente y en su defecto al siguiente del orden de la lista que haya registrado el Partido a quien correspondió la representación acéfala.
+
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
-ART. 28.- El Congreso no puede abrir sus sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los treinta días siguientes, con la advertencia de que si no lo hiciesen, se entenderá, por ese solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
-
 Se entiende también que los diputados que falten diez días consecutivos, sin causa justificada o sin previa licencia del Presidente de la Cámara, con la cual se dará conocimiento a ésta, renuncian a concurrir hasta el pedíodo (sic) entrante, llamándose desde luego a los suplentes.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
 Si no hubiere quórum para la instalación de la Cámara o para que ésta ejerza sus funciones una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a desempeñar su cargo, entretanto transcurren los treinta días de que antes se habla.
 
@@ -435,7 +451,9 @@ XXV.- Establecer o no el juicio por jurados;
 
 XXVI.- Aprobar, reformar o desechar todos los reglamentos de las corporaciones y oficinas del Estado;
 
-XXVII.- Expedir su reglamento interior y nombrar y remover libremente a todos los empleados de su Secretaría y a los de la Contaduría de Glosa del Estado;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1978)</small>
+
+XXVII.- Expedir la Ley que regule su organización y funcionamiento internos;
 
 XXVIII.- Determinar, según las necesidades, el número de ministros de cultos en el Estado;
 
@@ -449,7 +467,11 @@ XXXI.- Expedir todas las leyes que sean necesarias para el efecto de hacer efect
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1958)</small>
 
-XXXII.- Recibir en sesión solemne el informe del Gobernador el día 15 de septiembre de cada año.
+XXXII.- Recibir en sesión solemne el informe del Gobernador el día 15 de septiembre de cada año;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1978)</small>
+
+XXXIII.- Nombrar y remover libremente a todos los empleado (sic) de su Secretaría y los de la Contaduría de Glosa del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -887,7 +909,9 @@ ART. 82.- El municipio es libre. Constituye la base de la división territorial 
 
 ART. 83.- En cada municipio habrá un Ayuntamiento. Tendrá a su cargo la administración de los intereses municipales de su demarcación territorial, conforme a las siguientes bases:
 
-I.- La elección de los individuos de los ayuntamientos, será popular y directa;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1978)</small>
+
+I.- La elección de los ediles de los Ayuntamientos será popular y directa, complementándose con regidores de representación proporcional;
 
 II.- No habrá ninguna autoridad intermedia entre éstos y el Gobierno del Estado;
 
@@ -917,23 +941,25 @@ ART. 85.- Para que una población pueda erigirse en cabecera de municipio, se ne
 
 ART. 86.- En las congregaciones municipales la autoridad será ejercida por un delegado municipal, que tendrá las atribuciones y responsabilidades que le fije la ley. El delegado municipal será nombrado por el ayuntamiento respectivo.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 87.- Los ayuntamientos serán electos cada tres años en los términos que disponga la ley.
+ART. 87.- Los ayuntamientos serán electos cada tres años en los términos que disponga la ley. Los Municipios que conforme a la Ley secundaria se integrarán con once regidores de elección mayoritaria, complementarán sus ayuntamientos hasta con cuatro regidores de representación proporcional. Por cada Regidor y Síndico propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 88.- Los ayuntamientos no podrán celebrar acto o contrato alguno que grave o comprometa los servicios públicos de los municipios o del Estado, sin tener la autorización del Congreso del mismo, dada conforme a las leyes, sin la cual tales actos y contratos serán nulos y no producirán efecto legal.
+ART. 88.- Los partidos políticos con derecho a participar en la Entidad, que no hubiesen logrado la mayoría en la elección municipal, podrán acreditar regidores en proporción a los votos recibidos, siempre que hayan obtenido por lo menos el uno y medio por ciento de la votación sufragada. En ningún caso se asignarán a un solo Partido, más de la mitad de estas regidurías. La nominación de regidores de representación proporcional atenderá siempre al orden en que hayan sido postulados por sus respectivos Partidos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-ART. 89.- Para ser miembro del ayuntamiento se requiere:
+ART. 89.- Los Ayuntamientos no podrán celebrar actos o contrato alguno que grave o comprometa los servicios públicos de los Municipios o del Estado, sin tener la autorización del Congreso mismo, dada conforme a las Leyes, sin la cual tales actos o contratos serán nulos y no producirán efecto legal.
 
-I.- Ser ciudadano potosino en ejercicio de sus derechos, y
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1978)</small>
 
-II.- Ser vecino de la municipalidad que lo elija y con un año, por lo menos, de residencia inmediatamente anterior a la fecha de la elección.
+ART. 90.- Para ser miembro del Ayuntamiento se requiere:
 
-ART. 90.- (DEROGADO, P.O. 13 DE NOVIEMBRE DE 1958)
+I.- Ser ciudadano Potosino en ejercicio de su derechos.
+
+II.- Ser vecino de la Municipalidad que lo elija y con un año por lo menos, de residencia inmediata anterior a la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1188,3 +1214,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 19 DE ABRIL DE 1973.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
