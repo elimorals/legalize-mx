@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1999-01-19"
+last_updated: "2001-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -72,9 +72,45 @@ IV. Código Fiscal de la Federación, para efectos de las notificaciones y del r
 
 Cada entidad financiera integrante de los grupos se regirá por lo dispuesto en las respectivas leyes que le sean aplicables.
 
-###### ARTICULO 5o.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, podrá interpretar para efectos administrativos, los preceptos de esta Ley.
+###### ARTICULO 5.
+
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, podrá interpretar para efectos administrativos, los preceptos de esta Ley, así como las disposiciones de carácter general que emita la propia Secretaría en el ejercicio de las atribuciones que le confiere la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis.
+
+Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de tres meses para que las autoridades administrativas resuelvan lo que corresponda. Transcurrido el plazo aplicable se entenderán las resoluciones en sentido negativo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la autoridad competente que deba resolver, conforme al Reglamento Interior respectivo. Igual constancia deberá expedirse cuando las disposiciones específicas prevean que transcurrido el plazo aplicable la resolución deba entenderse en sentido positivo. De no expedirse la constancia mencionada dentro del plazo citado, se fincará en su caso, la responsabilidad que resulte aplicable.
+
+Los requisitos de presentación y plazos, así como otra información relevante aplicables a las promociones que realicen las sociedades controladoras deberán precisarse en disposiciones de carácter general.
+
+Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la autoridad deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la autoridad y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+
+Notificada la prevención, se suspenderá el plazo para que las autoridades administrativas resuelvan y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado las autoridades desecharán el escrito inicial.
+
+Si las autoridades no hacen el requerimiento de información dentro del plazo correspondiente, no podrán rechazar el escrito inicial por incompleto.
+
+Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 1.
+
+El plazo a que se refiere el artículo anterior no será aplicable a las promociones donde por disposición expresa de esta Ley las autoridades administrativas deban escuchar la opinión de otras autoridades, además de aquéllas relacionadas con las autorizaciones relativas a la constitución, fusión, escisión y liquidación de sociedades controladoras. En estos casos no podrá exceder de seis meses el plazo para que las autoridades administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas que señala el artículo 5 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 2.
+
+Las autoridades administrativas competentes, a solicitud de parte interesada podrán ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda, en ningún caso, de la mitad del plazo previsto originalmente en las disposiciones aplicables, cuando así lo exija el asunto y no tengan conocimiento de que se perjudica a terceros en sus derechos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 5 Bis 3.
+
+No se les aplicará lo establecido en los artículos 5 Bis, 5 Bis 1 y 5 Bis 2 a las autoridades administrativas en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.
 
 ## TITULO SEGUNDO. De la Constitución e Integración de los Grupos
 
@@ -90,9 +126,9 @@ Por su naturaleza, dichas autorizaciones serán intransmisibles.
 
 Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, casas de cambio, instituciones de fianzas, instituciones de seguros, sociedades financieras de objeto limitado, casas de bolsa, instituciones de banca múltiple, así como sociedades operadoras de sociedades de inversión y administradoras de fondos para el retiro.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-El grupo financiero podrá formarse con cuando menos dos tipos diferentes de las entidades financieras siguientes: instituciones de banca múltiple, casas de bolsa e instituciones de seguros. En los casos en que el grupo no incluya a dos de las mencionadas entidades, deberá contar por lo menos con tres tipos diferentes de entidades financieras de las citadas en el párrafo anterior que no sean sociedades operadoras de sociedades de inversión o administradoras de fondos para el retiro.
+El grupo financiero podrá formarse con cuando menos dos tipos diferentes de las entidades financieras siguientes: instituciones de banca múltiple, casas de bolsa e instituciones de seguros. En los casos en que el grupo no incluya a dos de las mencionadas entidades, deberá contar por lo menos con tres tipos diferentes de entidades financieras de las citadas en el párrafo anterior que no sean administradoras de fondos para el retiro.
 
 La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá autorizar que otras sociedades puedan formar parte de estos grupos.
 
@@ -262,51 +298,49 @@ Salvo lo previsto en el párrafo siguiente, las instituciones de seguros y de fi
 
 Las inversiones que realicen, individual o conjuntamente, sociedades de inversión controladas directa o indirectamente por entidades financieras integrantes de un grupo, en acciones y obligaciones subordinadas computables emitidas por la controladora y demás participantes del grupo, en ningún caso podrán ser superiores al diez por ciento del total de tales acciones y obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 20.
 
-Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones de la serie "O" por más del cinco por ciento del capital social de una sociedad controladora. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder del veinte por ciento.
+Cualquier persona física o moral podrá adquirir mediante una o varias operaciones simultáneas o sucesivas, el control de acciones de la serie "O" del capital social de una sociedad controladora, en el entendido de que dichas operaciones deberán obtener la autorización previa de la Secretaría de Hacienda y Crédito Público, escuchando la opinión de la Comisión Nacional que supervise a la controladora, cuando excedan del cinco por ciento de dicho capital social, sin perjuicio de lo establecido por el artículo 18 de la presente Ley.
 
-Dichos límites también se aplicarán a las personas que la citada Secretaría considere, para estos efectos, como una misma persona.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-Se exceptúa de lo dispuesto en los párrafos anteriores:
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+En el supuesto de que uno o más accionistas pretendan obtener el control de la administración en una sociedad controladora, deberá acompañar a su solicitud, según corresponda:
 
-I. A los inversionistas institucionales, siempre y cuando su inversión no exceda en lo individual o en conjunto del veinte por ciento del capital social de la sociedad emisora. Las controladoras deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción. Las inversiones que en su caso realicen sociedades de inversión conforme al último párrafo del artículo anterior, computarán dentro del límite previsto en esta fracción;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-II. Al Fondo Bancario de Protección al Ahorro y al fondo de protección y garantía previsto en la Ley del Mercado de Valores;
+I. Relación de las personas que, en su caso, pretendan adquirir el control de la sociedad controladora de que se trate indicando el capital que suscribirán, la forma en que lo pagarán, así como el origen de los recursos con los que se realizará dicho pago;
 
-III. A las personas que adquieran acciones conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, conducentes a la fusión de grupos financieros, a quienes excepcionalmente la mencionada Secretaría podrá otorgarles la autorización relativa, por un plazo no mayor de dos años, sin que la participación total de cada una de ellas exceda del veinte por ciento del capital pagado de la controladora de que se trate, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+II. Relación de los consejeros y directivos que nombrarían en la sociedad controladora de la que pretenden adquirir el control;
 
-IV. A las propias controladoras, cuando adquieran acciones de otra controladora, conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público, conducente a la fusión de las mismas;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+III. Programa estratégico para la implementación del gobierno corporativo, y
 
-V. A las Instituciones Financieras del Exterior que adquieran acciones, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva sociedad controladora en una Sociedad Controladora Filial, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 1999)</small>
+IV. La demás documentación conexa que requiera la Secretaría de Hacienda y Crédito Público a efecto de evaluar la solicitud correspondiente.
 
-VI. A las Instituciones Financieras del Exterior, Sociedades Controladoras Filiales o sociedades controladoras, cuando adquieran acciones conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con el objeto de coadyuvar al buen funcionamiento de una sociedad controladora, previa autorización de la propia Secretaría, quien la otorgará discrecionalmente.
+V. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+VI. (DEROGADA, D.O.F. 4 DE JUNIO DE 2001)
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, se entenderá que se obtiene el control de una sociedad controladora cuando se adquiera el treinta por ciento o más de las acciones representativas del capital social de la propia sociedad, se tenga el control de la asamblea general de accionistas, se esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio se controle a la sociedad controladora de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Las sociedades controladoras deberán proporcionar a la Comisión Nacional que las supervise, la información que ésta les requiera con respecto a las personas que directa o indirectamente hayan adquirido las acciones representativas de su capital social, en la forma y sujetándose a las condiciones que establezca la propia Comisión mediante las reglas de carácter general a que se refiere el artículo 17 de la Ley de Instituciones de Crédito.
 
 ###### ARTICULO 20
 
-Bis.- Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, quien oirá la opinión de la Comisión que supervise a la sociedad controladora de conformidad con lo señalado por el artículo 30 de esta Ley y del Banco de México, para que cualquier grupo de personas adquiera, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de dicha sociedad controladora.
-
-Para los efectos señalados en el presente artículo, se entenderá que un grupo de personas adquiere el control de una sociedad controladora cuando sea propietario de treinta por ciento o más de las acciones representativas del capital pagado de la propia sociedad, tenga el control de la asamblea general de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio controle a la sociedad controladora de que se trate.
-
-Las solicitudes de autorización a que se refiere el primer párrafo de este artículo deberán acompañarse de lo siguiente:
-
-I. Relación de las personas que pretendan adquirir el control de la sociedad controladora de que se trate indicando el capital que suscribirán, la manera en que realizarán su pago, así como el origen de los recursos con que se realizará dicho pago;
-
-II. Relación de los consejeros y directivos que nombrarían en la sociedad controladora de la que pretenden adquirir el control; y
-
-III. La demás (sic) documentación que a juicio de la Secretaría de Hacienda y Crédito Público se requiera a efecto de evaluar la solicitud correspondiente.
+Bis.- (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
 
@@ -330,7 +364,9 @@ Las acciones así reembolsadas se mantendrán en tesorería y deberán colocarse
 
 Las personas que acudan en representación de los accionistas a las asambleas de la controladora, acreditarán su personalidad mediante poder otorgado en formularios elaborados por la propia controladora, que reúnan los requisitos siguientes:
 
-I. Señalar de manera notoria la denominación de la controladora, así como la respectiva orden del día, no pudiendo incluirse bajo el rubro de asuntos generales los puntos a que se refieren los artículos 181 y 182 de la Ley General de Sociedades Mercantiles, ni el relativo a la designación o remoción del director general;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+I. Señalar de manera notoria la denominación de la controladora, así como la respectiva orden del día;
 
 II. Contener espacio para las instrucciones que señale el otorgante para el ejercicio del poder, y
 
@@ -339,6 +375,14 @@ III. Estar foliados y firmados por el secretario o prosecretario del consejo de 
 La controladora deberá mantener a disposición de los representantes de los accionistas, durante el plazo a que se refiere el artículo 173 de la Ley General de Sociedades Mercantiles, los formularios de los poderes, a fin de que aquellos puedan hacerlos llegar con oportunidad a sus representados.
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 22
+
+Bis.- En el orden del día se deberán listar todos los asuntos a tratar en la asamblea de accionistas, incluso los comprendidos en el rubro de asuntos generales.
+
+La documentación e información relacionada con los temas a tratar en la correspondiente asamblea de accionistas, deberán ponerse a disposición de los accionistas por lo menos con quince días de anticipación a su celebración.
 
 ###### ARTICULO 23.
 
@@ -362,27 +406,73 @@ La controladora sólo podrá contraer pasivos directos o contingentes, y dar en 
 
 La emisión de obligaciones subordinadas se sujetará a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 24.
 
-El consejo de administración estará integrado hasta por quince consejeros.
+El consejo de administración de las sociedades controladoras estará integrado por un mínimo de cinco y un máximo de quince consejeros propietarios, de los cuales cuando menos el veinticinco por ciento deberán ser independientes. Por cada consejero propietario se designará a su respectivo suplente, en el entendido de que los consejeros suplentes de los consejeros independientes, deberán tener este mismo carácter.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+Por consejero independiente, deberá entenderse a la persona que sea ajena a la administración de la sociedad controladora respectiva y de las entidades que integren al grupo financiero de que se trate, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores, mediante las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Instituciones de Crédito, en las que igualmente se establecerán los supuestos bajo los cuales, se considerará que un consejero deja de ser independiente, para los efectos de este artículo.
 
-Los accionistas que representen cuando menos un diez por ciento del capital pagado ordinario de la sociedad, tendrán derecho a designar un consejero. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás.
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+En ningún caso podrán ser consejeros independientes:
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-El presidente del consejo deberá elegirse de entre los propietarios y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
+I. Empleados o directivos de la sociedad controladora;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+II. Accionistas que sin ser empleados o directivos de la sociedad controladora, tengan poder de mando sobre los directivos de la misma;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la sociedad controladora o a las empresas que pertenezcan al mismo grupo financiero del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+IV. Proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la sociedad controladora.
+
+Se considera que un proveedor es importante cuando las ventas que le haga a la sociedad controladora filial, representan más del diez por ciento de las ventas totales del proveedor. Asimismo, se considera que un acreedor es importante cuando el importe del crédito es mayor al quince por ciento de los activos de su contraparte;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la sociedad controladora.
+
+Se consideran donativos importantes a aquellos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la sociedad controladora;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VII. Cónyuges o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado respecto de alguna de las personas mencionadas en las fracciones III a VI anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones I, II y VIII de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VIII. Quienes hayan ocupado un cargo de dirección o administrativo en la sociedad controladora o en alguna de sus entidades integrantes, durante el año anterior al momento en que se pretenda hacer su designación.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El consejo deberá reunirse por lo menos trimestralmente y en forma extraordinaria, cuando sea convocado por el Presidente del consejo, al menos el veinticinco por ciento de los consejeros, o cualquiera de los comisarios de la sociedad. Para la celebración de las sesiones ordinarias y extraordinarias del consejo de administración se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos uno deberá ser consejero independiente.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El Presidente del consejo tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 25.
 
-La designación de consejeros deberá recaer en personas con reconocida honorabilidad, que cuenten con amplios conocimientos y experiencia en materia financiera o administrativa.
+Los nombramientos de consejeros de las sociedades controladoras deberán recaer en personas que cuenten con elegibilidad crediticia y honorabilidad, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Los consejeros estarán obligados a abstenerse expresamente de participar en la deliberación y votación de cualquier asunto que implique para ellos un conflicto de interés. Asimismo, deberán mantener absoluta confidencialidad respecto de todos aquellos actos, hechos o acontecimientos relativos a la sociedad controladora de que sea consejero, así como de toda deliberación que se lleve a cabo en el consejo, sin perjuicio de la obligación que tendrá la sociedad controladora de proporcionar toda la información que les sea solicitada al amparo de la presente Ley.
 
 En ningún caso podrán ser consejeros:
 
@@ -402,31 +492,77 @@ IV. Los quebrados o concursados que no hayan sido rehabilitados, las personas se
 
 V. Quienes realicen funciones de regulación, inspección y vigilancia de la controladora o de las entidades financieras integrantes del grupo, salvo en el caso en que la referida sociedad o entidades correspondientes reciban apoyos del Fondo Bancario de Protección al Ahorro o del Fondo de Apoyo al Mercado de Valores.
 
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VI. Quienes participen en el consejo de administración de entidades financieras pertenecientes, en su caso, a otros grupos financieros, o de las sociedades controladoras de los mismos, así como de otras entidades financieras no agrupadas.
+
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
 
 La mayoría de los consejeros deberán ser mexicanos o extranjeros residentes en territorio nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 26.
 
-El nombramiento de director general de la controladora deberá recaer en persona que reúna los requisitos siguientes:
+Los nombramientos del director general de las sociedades controladoras y de los funcionarios que ocupen cargos con las dos jerarquías inmediatas inferiores a la de éste; deberán recaer en personas que cuenten con elegibilidad crediticia y honorabilidad, y que además reúnan los requisitos siguientes:
 
-I. Ser ciudadano mexicano;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+I. Ser residente en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación;
 
 II. Ser de reconocida honorabilidad;
 
 III. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimientos y experiencia en materia financiera o administrativa, y
 
-IV. No tener alguno de los impedimentos que, para ser consejero, señalan las fracciones III a V del artículo anterior.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-Los funcionarios que ocupen cargos con las dos jerarquías inmediatas inferiores a la del director general, deberán cumplir con los requisitos previstos en las fracciones II al IV anteriores.
+IV. No tener alguno de los impedimentos que para ser consejero señalan las fracciones III a VI del artículo anterior.
 
-El nombramiento de los consejeros, comisarios, del director general y de los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquél, surtirá efectos previa aprobación que, por acuerdo de su Junta de Gobierno, otorgue la Comisión que supervise a la controladora, la que en ejercicio de esta facultad, procurará evitar que se presenten fenómenos de concentración indebida o inconveniente para el sistema.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Los comisarios de las sociedades controladoras deberán cumplir con el requisito establecido en la fracción I anterior.
+
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 26
+
+Bis.- Las sociedades controladoras deberán verificar el cumplimiento de los requisitos señalados en los artículos 25 y 26 de esta Ley, por parte de las personas que sean designadas como consejeros, director general y funcionarios con las dos jerarquías inmediatas inferiores a la de este último, con anterioridad al inicio de sus gestiones. La Comisión Nacional que las supervise podrá establecer, mediante disposiciones de carácter general, los criterios mediante los cuales se deberán integrar los expedientes que acrediten el cumplimiento a lo señalado en el presente artículo.
+
+En todo caso, las personas mencionadas en el párrafo anterior deberán manifestar por escrito:
+
+I. Que no se ubican en ninguno de los supuestos a que se refieren las fracciones III a VI del artículo 25, tratándose de consejeros y IV del artículo 26 para el caso del director general y funcionarios a que se refiere el primer párrafo de este artículo;
+
+II. Que se encuentran al corriente de sus obligaciones crediticias de cualquier género, y
+
+III. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que corresponda.
+
+Las sociedades controladoras deberán informar a la Comisión Nacional que las supervise los nombramientos de consejeros, director general y funcionarios con las dos jerarquías inmediatas a las de este último, dentro de los cinco días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 26
+
+Bis 1.- El órgano de vigilancia de la controladora, estará integrado por lo menos por un comisario designado por los accionistas de la serie "O" y, en su caso, un comisario designado por los de la serie "L", así como de sus respectivos suplentes. El nombramiento de comisarios deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 27.
 
-La Comisión que supervise a la controladora podrá resolver que se proceda a la remoción de los miembros del consejo de administración, director general, comisarios, y demás funcionarios que puedan obligar con su firma a la controladora, cuando considere que no reúnen los requisitos que, para el desempeño de sus funciones, señalan los artículos 25 y 26 de esta Ley, no cuentan con la calidad técnica y moral para el desempeño de sus funciones, o bien incurran de manera grave o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella emanen. En los dos últimos supuestos, la propia Comisión podrá, además inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por un periodo de seis meses a diez años, sin perjuicio de las sanciones que conforme a este u otros ordenamientos legales resultaren aplicables.
+La Comisión que supervise a la controladora, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar que se proceda a la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes y funcionarios que puedan obligar con su firma a la sociedad, así como imponer veto de seis meses hasta cinco años a las personas antes mencionadas, cuando considere que no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones, o no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley o a las reglas generales que de ella deriven. En los dos últimos supuestos, la propia Comisión podrá además, inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de seis meses a cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada comisión deberá escuchar al interesado y a la sociedad controladora de que se trate.
 
-Las resoluciones de la Comisión se tomarán por acuerdo de su Junta de Gobierno, previa audiencia del interesado y de la controladora, y considerando, entre otros, los elementos siguientes: la gravedad de la infracción y la conveniencia de evitar tales prácticas; el nivel jerárquico, antecedentes, antigüedad y demás condiciones del infractor; las condiciones exteriores y medidas para ejecutar la infracción; si hay o no reincidencia, y en su caso, el monto del beneficio, daño o perjuicio económicos derivados de la infracción.
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+La propia Comisión podrá, también con el acuerdo de su Junta de Gobierno, ordenar la remoción o suspensión de los auditores externos independientes de las sociedades controladoras, así como imponer veto a dichas personas por el periodo señalado en el párrafo anterior, cuando incurran de manera grave o reiterada en infracciones a esta Ley o las disposiciones de carácter general que de la misma emanen, sin perjuicio de las sanciones a que pudieran hacerse acreedores.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Para el ejercicio de las atribuciones que le confiere este artículo, la Comisión Nacional que supervise a la sociedad controladora llevará un listado de las personas cuya participación en el sector financiero, por razón de sus antecedentes, no se considere conveniente.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Las resoluciones de la Comisión se tomarán considerando, entre otros, los elementos siguientes: la gravedad de la infracción y la conveniencia de evitar tales prácticas; el nivel jerárquico, antecedentes, antigüedad y demás condiciones del infractor; las condiciones exteriores y medidas para ejecutar la infracción; si hay o no reincidencia, y en su caso, el monto del beneficio, daño o perjuicio económicos derivados de la infracción.
 
 Las resoluciones a que se refiere este artículo podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público, dentro de los quince días siguientes a la fecha en que hubieren sido notificadas. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia de las partes.
 
@@ -544,45 +680,83 @@ III. Cuando el adquirente sea una Institución Financiera del Exterior o una Soc
 
 Lo establecido en este artículo no será aplicable en el caso a que se refiere la fracción VI del artículo 20 de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 27-K.
 
-Las Sociedades Controladoras Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones representativas del capital social de la Sociedad Controladora Filial emisora. Tampoco les estará permitido a las Sociedades Controladoras Filiales establecer sucursales o subsidiarias fuera del territorio nacional.
+(DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 27-L.
 
-El consejo de administración de las Sociedades Controladoras Filiales estará integrado hasta por quince consejeros. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+El consejo de administración de las sociedades controladoras filiales estará integrado por un mínimo de cinco y un máximo de quince consejeros propietarios, de los cuales cuando menos el veinticinco por ciento deberán ser independientes. Por cada consejero propietario se designará a su respectivo suplente, en el entendido de que los consejeros suplentes de los consejeros independientes, deberán tener este mismo carácter.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-Los accionistas de la serie "F" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+El nombramiento de los consejeros deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquellas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado de la Sociedad Controladora Filial, tendrán derecho a designar a un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+El accionista de la serie "F" que represente cuando menos el cincuenta y uno por ciento del capital social pagado designará a la mitad más uno de los consejeros y por cada diez por ciento de acciones de esta serie que exceda de ese porcentaje, tendrá derecho a designar un consejero más. Los accionistas de la serie "O", designarán a los consejeros restantes. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 19 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+El consejo de administración deberá estar integrado por al menos el veinticinco por ciento de consejeros independientes, que serán designados en forma proporcional conforme a lo señalado en los párrafos que anteceden. Por consejero independiente, deberá entenderse a la persona que sea ajena a la administración de la sociedad controladora filial respectiva y de las entidades que integren al grupo financiero filial de que se trate, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores en las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Instituciones de Crédito, en las que igualmente se establecerán los supuestos bajo los cuales, se considerará que un consejero deja de ser independiente, para los efectos de este artículo.
 
-El presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+En ningún caso podrán ser consejeros independientes:
 
-En caso de que una Institución Financiera del Exterior sea propietaria de acciones que representen por lo menos el noventa y nueve por ciento del capital social de la Sociedad Controladora Filial, ésta podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco.
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+I. Empleados o directivos de la sociedad controladora filial;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+II. Accionistas que sin ser empleados o directivos de la sociedad controladora filial, tengan poder de mando sobre los directivos de la misma;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la sociedad controladora filial o a las empresas que pertenezcan al mismo grupo financiero del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+IV. Proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la sociedad controladora filial.
+
+Se considera que un proveedor es importante cuando las ventas que le haga a la sociedad controladora filial, representan más del diez por ciento de las ventas totales del proveedor. Asimismo, se considera que un acreedor es importante cuando el importe del crédito es mayor al quince por ciento de los activos de su contraparte;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la sociedad controladora filial.
+
+Se consideran donativos importantes a aquellos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la sociedad controladora filial;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VII. Cónyuges o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado respecto de alguna de las personas mencionadas en las fracciones III a VI anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones I, II y VIII de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+VIII. Quienes hayan ocupado un cargo de dirección o administrativo en la sociedad controladora filial o alguna de sus entidades integrantes, durante el año anterior al momento en que se pretenda hacer su designación.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+El consejo deberá reunirse por lo menos trimestralmente y de manera adicional, cuando sea convocado por el Presidente del consejo, al menos una cuarta parte de los consejeros, o cualquiera de los comisarios de la sociedad. Para la celebración de las sesiones ordinarias y extraordinarias del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos uno deberá ser consejero independiente.
+
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+En el caso de las sociedades controladoras filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad, directa o indirectamente, de una Institución Financiera del Exterior o una Sociedad Controladora Filial, podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco, debiendo observarse lo señalado por los párrafos primero, tercero y cuarto del presente artículo.
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 La mayoría de los consejeros de una Sociedad Controladora Filial deberá residir en territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 27-M.
 
-Se exceptúa a los directores generales de las Sociedades Controladoras Filiales del requisito previsto en la fracción I del artículo 26 de la presente Ley. Los directores generales de las Sociedades Controladoras Filiales deberán residir en territorio nacional.
+(DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
@@ -590,17 +764,23 @@ Se exceptúa a los directores generales de las Sociedades Controladoras Filiales
 
 El órgano de vigilancia de la Sociedad Controladora Filial, estará integrado por lo menos por un comisario designado por los accionistas de la serie "F" y, en su caso, un comisario nombrado por los accionistas de la serie "B", así como sus respectivos suplentes.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 27
 
-Ñ.- La inspección y vigilancia de las Sociedades Controladoras Filiales estará a cargo de la Comisión que supervise a la entidad financiera integrante del Grupo que la Secretaría de Hacienda y Crédito Público determine como la preponderante dentro del propio grupo, en los términos de esta Ley. Cuando autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Sociedad Controladora Filial o de una Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a las mencionadas Comisiones Nacionales. En todo caso las visitas deberán hacerse por conducto de la Comisión correspondiente, la que establecerá los términos en que las visitas deban realizarse.
+Ñ.- La inspección y vigilancia de las Sociedades Controladoras Filiales estará a cargo de la Comisión que supervise a la entidad financiera integrante del grupo que la Secretaría de Hacienda y Crédito Público determine como la preponderante dentro del propio grupo, en los términos de esta Ley. Cuando las autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Sociedad Controladora Filial o de una Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a las mencionadas Comisiones Nacionales, las cuales, en el respectivo ámbito de su competencia, determinarán los casos en los que dichas visitas deberán hacerse por su conducto, o sin que medie su participación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
 
 I. Descripción del acto de inspección a ser realizado; y
 
 II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+A solicitud de las Comisiones Nacionales mencionadas en el primer párrafo del presente artículo, las autoridades que realicen la inspección deberán presentarles un informe de los resultados obtenidos.
 
 ## TITULO CUARTO. De la Protección de los Bienes del Público
 
@@ -624,7 +804,9 @@ En el convenio citado también deberá señalarse expresamente que cada una de l
 
 La controladora estará sujeta a la inspección y vigilancia de la Comisión que supervise a la entidad financiera integrante del grupo que la Secretaría de Hacienda y Crédito Público determine como la preponderante dentro del propio grupo. Para tal efecto, la citada Secretaría tomará en cuenta, entre otros elementos de juicio, el capital contable de las entidades de que se trate. Dichas controladoras cubrirán las cuotas que por estos conceptos determine la propia Secretaría.
 
-La contabilidad que la controladora deba llevar se ajustará al catálogo y reglas que al efecto autorice la citada Comisión, quien además fijará las reglas para la estimación de sus activos.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+La contabilidad del grupo financiero, la controladora y subsidiarias del grupo, deberá sujetarse a las reglas que al efecto autorice la citada Comisión, quien además fijará las reglas para la estimación de sus activos. Adicionalmente, la Comisión, a través de reglas de carácter general, podrá establecer medidas de regulación prudencial que tengan como propósito, entre otros, evitar la transmisión de riesgos entre integrantes del grupo y de éstas con la controladora.
 
 > <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
@@ -905,3 +1087,17 @@ SEXTO.- Las sociedades financieras de grupos financieros, instituciones de créd
 SÉPTIMO.- Las sociedades controladoras de grupos financieros, instituciones de banca múltiple, casas de bolsa, especialistas bursátiles y Filiales del tipo de las entidades financieras anteriores, tendrán un plazo de tres años contado a partir de la entrada en vigor de este Decreto, para que su consejo de administración y órgano de vigilancia se ajusten a lo dispuesto en los artículos 24 y 27-L de la Ley para Regular las Agrupaciones Financieras, 22, 26 y 45-K de la Ley de Instituciones de Crédito, y 17 bis 1 y 28 bis 11 de la Ley del Mercado de Valores, según corresponda.
 
 Los consejeros y comisarios de las series "A", "B" y "F" de las entidades financieras mencionadas, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan en términos de lo establecido en las disposiciones referidas en el párrafo anterior, y los designados tomen posesión de sus cargos.
+
+D.O.F. 4 DE JUNIO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Lo dispuesto por los artículos 5 Bis 1, 5 Bis 2, 5 Bis 3 y 5 Bis 4 de la Ley de Instituciones de Crédito, así como por los artículos 5 Bis, 5 Bis 1, 5 Bis 2 y 5 Bis 3 de la Ley para Regular las Agrupaciones Financieras, entrará en vigor el primero de enero del año 2002.
+
+TERCERO.- Las disposiciones contenidas en el artículo 134 Bis que se adiciona a la Ley de Instituciones de Crédito, no serán aplicables a títulos que hubieren sido emitidos con anterioridad a la fecha en que entre en vigor el presente decreto.
+
+CUARTO.- Los nombramientos de consejeros, director general y funcionarios con las dos jerarquías inmediatas inferiores a la de este último, correspondientes a instituciones de banca múltiple y sociedades controladoras de grupos financieros que a la fecha de entrada en vigor del presente decreto se encuentren en proceso de aprobación por parte de la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores en el caso de instituciones de banca múltiple, o de la Comisión que corresponda cuando se trate de sociedades controladoras, se sujetarán a lo dispuesto por los artículos 24 Bis de la Ley de Instituciones de Crédito y 26 Bis de la Ley para Regular las Agrupaciones Financieras respectivamente, contando la institución de banca múltiple o la sociedad controladora respectiva con un plazo de 15 días hábiles a partir de esa fecha, para manifestar a la Comisión que corresponda, que han llevado a cabo la verificación a que se refieren los últimos párrafos de los artículos 24 Bis de la Ley de Instituciones de Crédito y 26 Bis de la Ley para Regular las Agrupaciones Financieras, respectivamente.
+
+QUINTO.- Lo señalado por el artículo 134 Bis 1 de la Ley de Instituciones de Crédito, en cuanto a la suspensión del pago de intereses y principal, no será aplicable a títulos que hayan sido emitidos con anterioridad a la fecha de entrada en vigor del presente Decreto.
+
+SEXTO.- A partir de la entrada en vigor del presente Decreto y de conformidad con lo establecido en la Manifestación Tercera del "Decreto de Promulgación de la Convención de la Organización de Cooperación y Desarrollo Económicos", publicado en el Diario Oficial de la Federación el 5 de julio de 1994, México extenderá los beneficios de las medidas de liberalización que el Tratado de Libre Comercio de América del Norte prevé en relación con el establecimiento de y la inversión directa en instituciones financieras domiciliadas en el territorio de algún miembro de la Organización de Cooperación y Desarrollo Económicos.
