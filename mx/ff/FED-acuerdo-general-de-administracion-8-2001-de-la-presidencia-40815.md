@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-8-2001-de-la-presidencia-4081
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-09-05"
-last_updated: "2001-09-05"
+last_updated: "2002-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40815&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-09-05"
 
 ACUERDO GENERAL DE ADMINISTRACION 8/2001, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE OTORGAN A LOS LICENCIADOS VICTOR MIGUEL BRAVO MELGOZA Y ARTURO VILLEGAS MARQUEZ, SECRETARIOS DE ESTUDIO Y CUENTA ADSCRITOS A LA UNIDAD DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD FACULTADES PARA TRAMITAR LOS ASUNTOS DE DICHA UNIDAD, PARA LO CUAL QUEDAN INVESTIDOS DE FE PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION 5/2002 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL S.J.F.G., TOMO XVI, OCTUBRE DE 2002, PAGINA 1505, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Septiembre de 2001, página 1397.
 
@@ -52,3 +54,13 @@ PRIMERO.- Este acuerdo entra en vigor el día de su firma.
 SEGUNDO.- Publíquese en el Semanario Judicial de la Federación.
 
 Así lo acordó y firma el Ministro presidente de la Suprema Corte de Justicia de la Nación, a los cinco días del mes de septiembre de dos mil uno, ante el coordinador general de Asuntos Jurídicos de la Presidencia, que da fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO XVI, OCTUBRE DE 2002, PAGINA 1505.
+
+PRIMERO.- Este acuerdo entra en vigor el día de su firma.
+
+SEGUNDO.- El presente acuerdo deroga el diverso General de Administración 8/2001, de la Presidencia de esta Suprema Corte de Justicia de la Nación.
+
+TERCERO.- Publíquese en el Semanario Judicial de la Federación.
