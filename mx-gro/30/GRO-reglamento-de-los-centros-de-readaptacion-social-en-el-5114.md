@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-los-centros-de-readaptacion-social-en-el-5114"
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-07-21"
-last_updated: "1987-07-21"
+last_updated: "2005-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO DE LOS CENTROS DE READAPTACION SOCIAL EN EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 21 de julio de 1987.
 
@@ -41,17 +41,25 @@ REGLAMENTO DE LOS CENTROS DE READAPTACION SOCIAL EN EL ESTADO DE GUERRERO.
 
 El presente Reglamento será de observancia general y obligatoria en el Estado de Guerrero.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 2o.
 
-Este ordenamiento se aplicará en las instituciones de reclusión dependientes de la Dirección General de Readaptación social del Estado de Guerrero, destinadas a indiciados, arrestados, a la custodia preventiva del fuero común y del fuero federal y a la ejecución de las sanciones de los sentenciados, que se encuentren en el Distrito Judicial que les corresponda.
+Este ordenamiento se aplicará en las instituciones de reclusión dependientes de la Dirección General de Readaptación Social del Estado de Guerrero, destinadas a indiciados, arrestados a la custodia preventiva del fuero común y del fuero federal y a la ejecución de las sanciones de los sentenciados, que se encuentren en el Distrito Judicial que les corresponda. Con las limitaciones establecidas en el Reglamento Interno de los Centros de Máxima Seguridad de la Entidad o de otras Entidades para albergar a internos de alta peligrosidad.
 
 ###### ARTICULO 3o.
 
 La Dirección de Readaptación Social del Estado, organizará y aplicará a los internos de los Centros de Readaptación Social, el sistema penitenciario sobre la base del trabajo, la capacitación para él mismo, y la educación como medios para obtener su readaptación social.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 4o.
 
-Para los efectos de este reglamento y de las normas derivadas del mismo, se designará, a cualquiera de las cárceles sujetas a este ordenamiento "Centros de Reclusión" o "Establecimiento Penitenciario" y a las personas privadas de su libertad se les denominará "Internos".
+Para los efectos de este Reglamento y de las normas derivadas del mismo, se designará, a cualquiera de las cárceles sujetas a este ordenamiento Centro de Readaptación Social o "Establecimiento Penitenciario" y a las personas privadas de su libertad se les denominará indiciado, reclamado, procesado, sentenciado, interno, inimputable, enfermo psiquiátrico, de acuerdo a la descripción señalada en cada caso, en el artículo 4° de la Ley del Sistema de Ejecución de Penas y Medidas de Seguridad que rige nuestro sistema penitenciario.
 
 ###### ARTICULO 5o.
 
@@ -67,9 +75,13 @@ Queda prohibido cualquier maltrato, toda forma de violación física y moral y a
 
 Se prohibe al personal de los Centros, destinar áreas específicas del establecimiento para distinguir o diferenciar a los internos, mediante acomodos especiales o tratos diferentes, con excepción de lo previsto en este reglamento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 8o.
 
-Las autoridades de la Dirección General de Readaptación Social están facultadas para interpretar y aplicar este reglamento; debiendo resolverse en la forma más favorable para los internos, o escuchando la opinión del Director o del Consejo Técnico Interdisciplinario del establecimiento de que se trata.
+Las autoridades de la Dirección General de Readaptación Social están facultadas para interpretar y aplicar este Reglamento; debiendo resolverse conforme a derecho, escuchando la opinión del Director o del Consejo Técnico Interdisciplinario del Centro de que se trata.
 
 ###### ARTICULO 9o.
 
@@ -79,11 +91,21 @@ El Gobierno del Estado de Guerrero está facultado para celebrar convenios con d
 
 Son Centros de Readaptación Social, las Instituciones Públicas destinadas a la reclusión de quienes se encuentran restringidos en su libertad corporal por una resolución judicial o administrativa. El Sistema de Centros de Readaptación Social del Estado de Guerrero se conformará por:
 
-I.- Penitenciarías;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II.- Centros de Readaptación Social;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2005)</small>
 
-III.- Centros de Reclusión Administrativa, e
+I.- Centros Preventivos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2005)</small>
+
+II.- De Ejecución de Penas, e (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+III.- (DEROGADA, P.O. 18 DE MARZO DE 2005)
 
 IV.- Instituciones Abiertas.
 
@@ -93,7 +115,11 @@ La reclusión de alguna persona en cualquiera de los Centros de Readaptación So
 
 I.- Por resolución judicial.
 
-II.- Por señalamiento hecho, por la Dirección General de Servicios Coordinados de Prevención y Readaptación Social dependiente de la Secretaría de Gobernación y/o por la Dirección General de Readaptación Social.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2005)</small>
+
+II.- Por señalamiento hecho, en base a una resolución judicial dada por el Organo Desconcentrado Prevención y Readaptación Social dependiente de la Secretaría de Seguridad Pública Federal, tratándose de reos federales y/o por la Dirección General de Readaptación Social del Estado, por internos del fuero común.
 
 III.- En ejecución de los tratados y convenios a que se refiere el Artículo 18 Constitucional Federal.
 
@@ -101,21 +127,33 @@ IV.- En el caso de arresto, por determinación de la autoridad competente.
 
 En los casos de flagrancia, bastará la solicitud de internamiento del Ministerio Público, enviada al Director del Centro de Readaptación correspondiente, acompañada de la orden de consignación del detenido.
 
-En cualquier caso, tratándose de extranjeros se comunicará el ingreso inmediatamente a la Dirección General de Servicios Migratorios de la Secretaría de Gobernación y a la Embajada o Consulado correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
+En cualquier caso, tratándose de extranjeros se comunicará el ingreso inmediatamente a la Dirección General de Servicios Migratorios y/o a la Delegación correspondiente de esta entidad de la Secretaría de Gobernación y a la Embajada o Consulado correspondiente.
 
 ###### ARTICULO 12.
 
 La reclusión de un interno, en ningún caso se prolongará por tiempo mayor del que señala la resolución judicial o administrativa correspondiente o del que se determine por la autoridad competente al conceder los beneficios que señala la Ley Número 57 que establece las Normas Mínimas para Sentenciados, salvo que el interno deba quedar a disposición de alguna otra autoridad o se aplique la retención conforme a las normas penales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 13.
 
-Los Centros de Readaptación Social para indiciados y procesados, serán distintos de los destinados a sentenciados, y de aquellos en que deban cumplirse los arrestos.
+Los Centros de Readaptación Social que integran el sistema penitenciario, se clasificarán en varonil y femenil, para procesados y sentenciados, en los cuales deberán existir dormitorios de mínima, media y máxima seguridad, en base a su construcción y régimen interno.
 
 Las mujeres recluidas en establecimientos diferentes de los destinados a hombres.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 14.
 
-Se establecerá en los Centros de Reclusión un sistema de control administrativo que deberá comprender los siguientes datos:
+Se establecerá en los Centros de Readaptación Social un sistema de control administrativo de los internos, formándoles un expediente personal que deberá comprenderse los siguientes datos:
 
 I.- Nombre, edad, sexo, lugar de origen, domicilio, estado civil, profesión y oficio;
 
@@ -125,37 +163,63 @@ III.- Identificación dactiloantropométrica;
 
 IV.- Identificación fotográfica de frente y de perfil;
 
-V.- Autoridad que ha determinado la privación de la libertad y motivos de ésta.
+V.- Autoridad que ha determinado la privación de la libertad y motivos de ésta;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2005)</small>
+
+VI.- Estado físico y mental del interno.
 
 No serán aplicables a los registros de los Reclusorios destinados al cumplimiento de arrestos, las fracciones III y IV.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 15.
 
-A su ingreso, todo interno deberá entregar a la persona que sea designada, los objetos de valor ropa y otros bienes que pasea, o en su defecto hará la entrega en el depósito del establecimiento, previo inventario que firmará el recluso; mismos objetos le serán devueltos; previo recibo que él extienda en el momento de obtener su libertad.
+A su ingreso, todo interno deberá entregar a la persona que sea designada, los objetos de valor ropa y otros bienes que posea, o en su defecto hará la entrega en el depósito del establecimiento, previo inventario que firmará el Centro de Readaptación Social; mismos objetos le serán devueltos; previo recibo que él extienda en el momento de obtener su libertad.
 
 ###### ARTICULO 16.
 
 Corresponde a la Dirección General de Readaptación Social del Estado, autorizar a los Directores de los Centros de Reclusión, la devolución del fondo de ahorros a los internos que hubieren participado en el sistema que prevee (sic) este ordenamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 17.
 
-Corresponde a las autoridades de los Centros de Reclusión, entregar a cada interno un ejemplar de este reglamento y de un instructivo ilustrado en que consten detalladamente sus derechos y obligaciones, así como el régimen general de la vida en el establecimiento.
+Corresponde a las autoridades de los Centros de Readaptación Social, difundir entre los internos y los visitantes este Reglamento en el que consten detalladamente sus derechos y obligaciones, así como el régimen general de la vida en el establecimiento.
 
 ###### ARTICULO 18.
 
 La Dirección General de Readaptación Social, adoptará los criterios de clasificación que estime conveniente de acuerdo a las modalidades y al tipo de establecimiento de que se trate, procurando ubicarlos en el medio idóneo, para su tratamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 19.
 
-El Gobierno del Estado vigilará que los Centros de Readaptación Social, tengan los elementos suficientes para que los internos reciban la alimentación apropiada, compuesta de tres comidas al día, ropa de cama y uniformes adecuados al clima.
+El Gobierno del Estado vigilará que los Centros de Readaptación Social, tengan los elementos suficientes para que los internos reciban alimentación sana, suficiente y adecuada, asimismo a éstos se les permitirá el consumo de sus despensas de productos alimenticios, entre los límites fijados por el Reglamento, compuesta de tres comidas al día, ropa de cama y uniformes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 20.
 
-La Dirección General de Readaptación Social, determinará las características del uniforme que usarán los internos, evitando la humillación y degradación; consistentes en prendas comunes de vestir tanto a los arrestados como a los indiciados.
+La Dirección General de Readaptación Social, determinará las características del uniforme que usarán los internos, evitando la humillación y degradación; el uniforme de los procesados será diverso al de los sentenciados y su uso será de carácter obligatorio, quedando prohibida la introducción a los Centros de ropa diversa o de color que contraste con el uniforme.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 21.
 
-La Dirección General de Readaptación Social, organizará sistemas que permitan valorar la conducta y evaluar el trabajo; así como la cooperación en las actividades educativas, culturales, deportivas y de recreación que realicen los reclusos, en los establecimientos.
+La Dirección General de Readaptación Social, organizará sistemas que permitan valorar la conducta y evaluar el trabajo; así como la cooperación en las actividades educativas, culturales, deportivas y de recreación que realicen los internos, en los establecimientos.
 
 ###### ARTICULO 22.
 
@@ -164,6 +228,14 @@ Corresponde a la Dirección de los Centros de Readaptación, aplicar las motivac
 ###### ARTICULO 23.
 
 Queda prohibido que los internos de los Centros de Reclusión desempeñen empleo o cargo alguno, en la administración de los Reclusorios o que ejerzan representación o mandato de sus compañeros ante las autoridades.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+###### ARTICULO 23 Bis.
+
+Aquel Servidor Público que establezca, pretenda establecer, tolere, autorice o propicie cualquiera de los supuestos en el artículo que antecede, le será aplicable la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### ARTICULO 24.
 
@@ -177,21 +249,37 @@ El manejo de fondos que obtengan los internos como producto de su trabajo, se ad
 
 Podrán ser aplicados los fondos a que se refiere el párrafo anterior, cuando así lo autorice el interesado al pago de su fianza o a otros fines lícitos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+La Dirección General de Readaptación Social, manejará un Fondo Financiero para cubrir las primas de las fianzas de internos que por su modesta condición económica no pueden por sí obtener su libertad bajo caución, siempre y cuando no sean reincidentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 26.
 
-La Dirección General de Readaptación Social, organizará y administrará, en las instituciones a su cargo, tiendas que expenderán a los Internos artículos de uso o consumo. En ningún caso tales expendios podrán estar a cargo de particulares, ni el precio de los artículos podrá ser superior al que señale en las tiendas de la Compañía Nacional de Subsistencias Populares.
+La Dirección General de Readaptación Social, organizará y administrará en las instituciones a su cargo, tiendas que expenderán a los internos, artículos de uso o consumo. En ningún caso tales expendios podrán estar a cargo de particulares, ni el precio de los artículos podrá ser superior a los establecidos en el exterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 27.
 
-Corresponde a la Dirección General de Readaptación Social, establecer un sistema de información estadística y propiciar investigaciones y publicaciones en materia penitenciaria, así como en disciplinas conexas a ésta.
+Corresponde a la Dirección General de Readaptación Social, establecer un sistema de información estadística acorde a las directrices que marque el Sistema Nacional de Seguridad Pública y propiciar investigaciones y publicaciones en materia penitenciaria, así como en disciplinas conexas a esta.
 
 ###### ARTICULO 28.
 
 La documentación de cualquier naturaleza que obre en los archivos de los Centros de Readaptación Social, así como en los del archivo general de la Dirección, tendrán el carácter de confidencial y solo podrán ser proporcionados a las autoridades judiciales y administrativas legalmente facultadas para solicitarlos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### ARTICULO 29.
 
-La Dirección General de Readaptación Social y los Directores de los Centros de Readaptación Social, están facultados para expedir cuando se solicite, constancias de no antecedentes penales, no deberá extenderse en ningún caso a petición de terceros.
+(DEROGADO, P.O. 18 DE MARZO DE 2005)
 
 ###### ARTICULO 30.
 
@@ -203,9 +291,13 @@ Queda prohibido a los internos y personal no autorizado, el acceso a los expedie
 
 La Dirección General de Readaptación Social, organizará de acuerdo a las disposiciones legales sobre readaptación social de sentenciados, los lugares destinados a la ejecución de las sanciones privativas de libertad corporal impuestas por sentencia ejecutoriada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 32.
 
-Hecho el cambio de los Internos a los lugares de ejecución de penas privativas de libertad corporal; las autoridades administrativas de los Centros de Readaptación, anexarán al expediente .jurídico de cada recluso, el documento del señalamiento hecho por la Dirección General de Readaptación Social del Estado o en su caso por la de Servicios Coordinados de Prevención y Readaptación Social de la Secretaría de Gobernación.
+Hecho el cambio de los internos a los lugares de ejecución de penas privativas de libertad corporal; las autoridades administrativas de los Centros de Readaptación, anexarán al expediente jurídico de cada recluso, el documento del señalamiento hecho por la Dirección General de Readaptación Social del Estado o en su caso por el Organo Desconcentrado Prevención y Readaptación Social dependiente de la Secretaría de Seguridad Pública Federal.
 
 ###### ARTICULO 33.
 
@@ -249,9 +341,13 @@ III.- La custodia de internos cuya sentencia no haya causado ejecutoria;
 
 IV.- La prisión provisional en el trámite de extradición ordenada por autoridad competente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 40.
 
-Durante el término constitucional el indiciado permanecerá en la estancia de ingreso; dictando el auto de formal prisión, será trasladado al Centro de Observación y Clasificación.
+Durante el término constitucional el indiciado permanecerá en la estancia de ingreso; donde no podrá recibir la visita de ningún familiar, hasta en tanto no sea resuelta su situación jurídica dentro del término constitucional, salvo las de sus abogados y defensores particulares, dictado el auto de formal prisión, será trasladado al Centro de Observación y Clasificación.
 
 ###### ARTICULO 41.
 
@@ -275,9 +371,13 @@ Asimismo, se le anexarán los estudios practicados por la sección jurídica, m�
 
 En caso de ser trasladado el interno a otra institución, deberá ser remitida a ésta, copia del expediente de aquél.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 44.
 
-Dictado el auto de formal prisión, los internos serán alojados en el centro de observación y clasificación por todo el tiempo necesario, para efectos de estudio y diagnóstico así como para determinar, con base en los resultados de éstos, el tratamiento que se les aplicará.
+Dictado el auto de formal prisión, los internos serán alojados en el centro de observación y clasificación por un lapso no mayor a tres meses, para efectos de estudio y diagnóstico, así como para determinar con base en los resultados de éstos, el tratamiento que se les aplicará.
 
 ###### ARTICULO 45.
 
@@ -285,45 +385,41 @@ Los Directores de los Centros Preventivos de Readaptación Social, cuidarán baj
 
 Cuando sea remitida alguna persona sin tales documentos, el funcionario o en su caso el encargado del establecimiento en ese momento, tomará los datos de aquella e informará de inmediato a la autoridad superior la negativa de recibir a dicha persona.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 46.
 
-De conformidad a lo dispuesto por la Fracción XVIII del Artículo 107 Constitucional, el Director o encargado del Centro, que no reciba copia autorizada del auto de formal prisión de un indiciado dentro de las setenta y dos horas que señala el Artículo 19 Constitucional, contadas desde que aquel esté a disposición de su Juez; deberá advertir a éste sobre dicho particular en el acto mismo de concluir el término, y si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad, levantando el acta administrativa correspondiente.
+De conformidad a lo dispuesto por el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos en relación con el numeral 140 de la Ley del Sistema de Ejecución de Penas en Medidas de Seguridad, el Director o encargado del Centro que no reciba copia autorizada del auto de formal prisión de un indiciado dentro de las setenta y dos horas, contadas desde que aquel esté a disposición de su Juez; deberá advertir a éste sobre dicho particular en el acto mismo de concluir el término, y si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad, levantando el acta administrativa correspondiente.
 
 ###### ARTICULO 47.
 
 Las observaciones y resultados de los estudios de personalidad y de tratamiento de cada interno, serán remitidos por el Director de la Institución, antes de declarar cerrada la instrucción.
 
-En el caso de que se presente alguna de las hipótesis previstas en el Artículo 62 del Código Penal del Estado; los estudios previstos en el párrafo anterior, se remitirán en cualquier momento del proceso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
+En el caso de que se presente alguna de las hipótesis previstas en el artículo 56 del Código Penal del Estado; los estudios previstos en el párrafo anterior, se remitirán en cualquier momento del proceso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 48.
 
-La facultad de aprobar las medidas de tratamiento corresponde indelegablemente al Director General de Readaptación Social del Estado, quien la ejercerá con apoyo en el dictamen del Consejo Técnico de la propia Dirección General.
+(DEROGADO, P.O. 18 DE MARZO DE 2005)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 49.
 
-El Consejo Técnico de la Dirección General de Readaptación Social, presidido por el titular de la misma se integrará por:
+(DEROGADO, P.O. 18 DE MARZO DE 2005)
 
-A).- Un Licenciado en Derecho quien será el Secretario del mismo;
-
-B).- Un Médico especializado en Psiquiatría;
-
-C).- Un Licenciado en Trabajo Social;
-
-D).- Un Licenciado en Psicología;
-
-E).- Un Sociólogo especializado en Prevención de la Delincuencia;
-
-F).- Un especialista en Criminología;
-
-G).- Un Experto en Seguridad.
-
-Los demás Consejeros serán nombrados por el Gobierno del Estado, tomando en consideración sus antecedentes profesionales, prestigio y experiencia en las materias objeto del presente Reglamento.
-
-Además de las funciones enumeradas anteriormente, el Consejo Técnico en el caso de establecimiento para la ejecución de penas, formulará los dictámenes en relación a la aplicación de las medidas de preliberación, remisión parcial de la pena, libertad preparatoria y retención.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ###### ARTICULO 50.
 
-Cuando el dictamen fuere desfavorable o no se adoptare por unanimidad, será denegada automáticamente la propuesta de que se trata.
+(DEROGADO, P.O. 18 DE MARZO DE 2005)
 
 ### CAPITULO IV. DE LAS INSTITUCIONES ABIERTAS
 
@@ -345,23 +441,49 @@ El traslado de un recluso a una Institución Abierta, solo se hará por recomend
 
 Los Centros de Readaptación Social, contarán con el personal directivo, técnico, administrativo, de seguridad y custodia, y demás que se requiera para su adecuado funcionamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 55.
 
-Al frente de cada uno de los Centros de Readaptación Social, habrá un Director quien para el buen funcionamiento de la institución se auxiliará del Secretario General y de los Jefes de Departamento.
+Al frente de cada uno de los Centros de Readaptación Social, habrá un Director quien para el buen funcionamiento de la institución se auxiliará del personal jurídico, administrativo, técnico y de seguridad y custodia necesaria.
 
 En el caso de las Instituciones Abiertas, se estará a lo dispuesto por la Dirección General de Readaptación Social.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+###### ARTICULO 55 Bis.
+
+Los Directores de los Centros de Reclusión, tendrán a su cargo el control, gobierno, rectoría de la vigilancia y administración de los Centros.
+
+Asimismo, será el responsable de la seguridad y el buen funcionamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 56.
 
-La Dirección General de Readaptación. Social, seleccionará el personal de los Centros de Readaptación Social, considerando su vocación, aptitudes físicas e intelectuales, y antecedentes personales. Realizando en forma permanente programas de preparación y actualización en las relaciones y tratos con los internos.
+La Dirección General de Readaptación Social, seleccionará el personal de los Centros de Readaptación Social; a través del Instituto de Formación y Capacitación Policial del Gobierno del Estado, considerando su vocación, aptitudes físicas e intelectuales, y antecedentes personales. Realizando en forma permanente programas de preparación y actualización en las relaciones y tratos con los internos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 57.
 
-Para formar parte del personal administrativo de los Centros de Readaptación Social será requisito indispensable acreditar haber aprobado los cursos, correspondientes que imparte la Dirección General de Readaptación Social.
+Para formar parte del personal administrativo de los Centros de Readaptación Social, será requisito indispensable acreditar haber aprobado los cursos correspondientes que imparte el Instituto de Formación y Capacitación Policial del Gobierno del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 58.
 
-En el interior de los establecimientos de reclusión para mujeres, el personal de custodia será exclusivamente del sexo femenino.
+En el interior de los establecimientos de reclusión para mujeres, el personal de custodia, técnico y administrativo, será exclusivamente del sexo femenino.
 
 ###### ARTICULO 59.
 
@@ -397,9 +519,13 @@ Para el mejor desempeño de las funciones del personal directivo, administrativo
 
 Las áreas destinadas a los internos deberán estar completamente separadas de las áreas de gobierno y administración.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 66.
 
-Los dormitorios generales alojarán a los internos en zonas para el acomodo de tres personas, como máximo y los dormitorios destinados para tratamiento especial en aislamiento, serán individuales.
+Los dormitorios generalmente alojarán a los internos en zonas para el acomodo de cinco personas o más, de acuerdo a la sobrepoblación del Centro de Reclusión y los dormitorios destinados para tratamiento especial en aislamiento, serán individuales.
 
 Cada uno de los cubículos dispondrá de las instalaciones sanitarias adecuadas para que el recluso pueda satisfacer sus necesidades fisiológicas higiénicamente.
 
@@ -515,15 +641,23 @@ II.- Suspensión parcial o total de los incentivos o estímulos;
 
 III.- Privación o suspensión de la autorización para asistir o participar en actividades recreativas o deportivas;
 
-IV.- Traslado a otro dormitorio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2005)</small>
+
+IV.- Traslado a otro dormitorio o Centro de Readaptación Social dentro o fuera de la Entidad;
 
 V.- Suspensión de visitas, salvo la de sus defensores;
 
 VI.- Aislamiento temporal sujeto a la vigilancia médica.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 82.
 
-Las correcciones disciplinarias a que se refiere el artículo anterior, solo podrán ser impuestas por el Director del Centro.
+Las correcciones disciplinarias a que se refiere el artículo anterior, solo podrán ser aplicadas por el Director del Centro. Previo dictamen del H. Consejo Interno Técnico Interdisciplinario.
 
 ###### ARTICULO 83.
 
@@ -535,9 +669,13 @@ Lo anterior se asentará por escrito, cuyo original se agregara al expediente y 
 
 Los internos no podrán ser sancionados sin que previamente se les haya informado de la infracción que se les atribuya, y se les haya escuchado en su defensa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 85.
 
-El interno, sus familiares, defensores o la persona que él designe, podrán inconformarse verbalmente o por escrito, respecto de la corrección disciplinaria impuesta, ante la Dirección General de Readaptación Social.
+Dentro de los tres días siguientes a la notificación, el interno, sus familiares, defensores o la persona que él designe, podrán inconformarse verbalmente o por escrito respecto de la corrección disciplinaria impuesta, ante la Dirección General de Readaptación Social.
 
 Esta emitirá su fallo al Centro de Readaptación correspondiente en un término de 48 horas después de recibida la queja.
 
@@ -567,15 +705,25 @@ El tratamiento se basará en el trabajo, la capacitación para él mismo, la edu
 
 En el tratamiento que se otorgue a los internos no habrá más diferencias, que las que resulten por razones médicas, psicológicas, psiquiátricas, educativas, o de aptitudes y capacitación en el trabajo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 91.
 
-La Dirección de Readaptación Social, fomentará el funcionamiento de instituciones culturales, educativas, sociales y asistenciales de carácter voluntario existentes, que coadyuven a las tareas de readaptación de los internos.
+La Dirección de Readaptación Social, fomentará el funcionamiento de instituciones culturales, educativas, sociales y asistenciales de carácter voluntario existentes, que coadyuven a las tareas de readaptación de los internos, con las limitancias y restricciones que se establezcan para el caso del Centro de Máxima Seguridad.
 
 #### SECCION SEGUNDA. DEL TRABAJO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 92.
 
-En los Centros de Readaptación Social, el trabajo será un elemento de tratamiento para la realización social del interno, y no deberá imponerse como corrección disciplinaria, ni ser objeto de contratación individual o colectiva por particulares.
+En los Centros de Readaptación Social, el trabajo y la capacitación serán elementos del tratamiento para la readaptación social del interno, y no deberá imponerse como corrección disciplinaria, ni ser objeto de contratación individual o colectiva por particulares.
+
+Lo anterior, con el objeto de permitir al interno una mejor convivencia dentro del Centro de Reclusión y para que éste sea una fuente de autosuficiencia que asegure la vida, salud y un nivel de vida económica decorosa para él y sus dependientes.
 
 ###### ARTICULO 93.
 
@@ -627,6 +775,38 @@ Por cada seis días de trabajo, disfrutará el interno de un día de descanso, c
 
 Las madres internas que trabajen, tendrán derecho a que se computen para efecto de la remisión parcial de la pena los períodos pre y post natales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+###### ARTICULO 101 Bis.
+
+No será vinculatorio el trabajo para los que presenten alguna imposibilidad acreditada; los indiciados, reclamados y procesados y las mujeres que durante 45 días antes y 45 días después del parto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+ARTICULO 101 Bis a.- La capacitación y adiestramiento para el trabajo; tenderá a orientarse al desarrollo armónico acorde a las facultades individuales del interno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+ARTICULO 101 Bis b.- La capacitación y adiestramiento tenderá a actualizarse con la finalidad de proporcionar la incorporación del interno a una actividad productiva en reclusión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+ARTICULO 101 Bis c.- La Dirección General de Readaptación Social, podrá convenir con instancias gubernamentales y no gubernamentales del sector empresarial para la impartición de la capacitación y adiestramiento, conforme a los avances tecnológicos que permitan el fortalecimiento económico de los internos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+ARTICULO 101 Bis d.- Queda prohibido el establecimiento de negocios particulares por parte de los internos y del personal del Centro de Readaptación Social.
+
 #### SECCION TERCERA. DE LA EDUCACION
 
 ###### ARTICULO 102.
@@ -635,9 +815,27 @@ La educación será obligatoria en los Centros de Reclusión y se impartirán co
 
 El Gobierno del Estado a través de la Dirección General de Readaptación Social, convendrá con la Secretaría de Educación Pública o con otras Instituciones Educativas Públicas, los arreglos que procedan para que los internos puedan realizar o continuar diversos estudios en el período de reclusión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 103.
 
-La educación que se imparte en los Centros de Readaptación Social, contemplará las normas pedagógicas aplicables a los adultos privados de libertad, en cualquier caso, las de carácter oficial estarán a cargo de personal docente autorizado. Se impartirá educación primaria a los internos que no lo hayan concluído.
+La educación que se imparte en los Centros de Readaptación Social, contemplará las normas pedagógicas aplicables a los adultos privados de libertad, en cualquier caso, la de carácter oficial estarán (sic) a cargo de personal docente autorizado. Se impartirá educación en los niveles de alfabetización, primaria, secundaria y en su caso preparatoria a los internos que no hayan concluido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+###### ARTICULO 103 Bis.
+
+El Director del Centro, podrá autorizar la impartición de conferencias, veladas literarias, representaciones teatrales y funciones de cine, con contenidos educativos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2005)</small>
+
+ARTICULO 103 Bis a.- Como parte del tratamiento en el aspecto educativo, se promoverán las actividades deportivas, culturales, morales y cívicas.
 
 ###### ARTICULO 104.
 
@@ -649,17 +847,25 @@ Cada Centro de Reclusión contará con una biblioteca a fin de conservar y mejor
 
 #### SECCION CUARTA. DE LAS RELACIONES CON EL EXTERIOR
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 106.
 
-Los internos recluidos en los establecimientos a que se refiere este Reglamento, tienen derecho a conservar y fortalecer sus relaciones familiares, de amistad y compañerismo. Para tal sistema, se promoverá la conservación, fortalecimiento y en su caso, restablecimiento de tales vínculos para que estos se realicen en forma constante.
+Los internos recluidos en los establecimientos a que se refiere este Reglamento, tienen derecho a conservar y fortalecer sus relaciones familiares de amistad y compañerismo. Para tal sistema, se promoverá la conservación, fortalecimiento y en su caso, restablecimiento de tales vínculos para que éstos se realicen en forma constante. En el caso del Centro de Máxima Seguridad, estas reglas quedarán supeditadas en lo establecido por su Reglamento Interno.
 
 ###### ARTICULO 107.
 
 Las autoridades de cada establecimiento, con sujeción a las normas y disposiciones dictadas por la Dirección General de Readaptación Social, formulará y disfrutará entre los internos y sus visitantes, los requisitos, calendarios y horarios de visita.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 108.
 
-Las autoridades de los Centros de Readaptación Social, darán las facilidades necesarias para que los internos se comuniquen con sus familiares o defensores.
+Las autoridades de los Centros de Readaptación Social, darán las facilidades necesarias para que los internos se comuniquen con sus familiares o defensores, de acuerdo a las limitaciones y restricciones que establezca en su caso el Reglamento Interno del Centro de Máxima Seguridad.
 
 ###### ARTICULO 109.
 
@@ -673,9 +879,11 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, el Director del Reclusori
 
 Cuando se trate de extranjeros, se informará a la Dirección General de Servicios Migratorios de la Secretaría de Gobernación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
 ###### ARTICULO 111.
 
-El interno será autorizado por el Director o Encargado del Establecimiento, previo acuerdo del Director General de Readaptación Social, a salir de la Institución en los casos de fallecimiento o enfermedad grave, debidamente comprobados de los padres, hijos, hermanos o quienes constituyan en la vida en libertad, el núcleo familiar del recluso. En estos casos, el Director de la Institución bajo su más estricta responsabilidad, fijará las condiciones y medidas de seguridad conforme a las cuales deba realizarse la salida y el regreso.
+(DEROGADO, P.O. 18 DE MARZO DE 2005)
 
 ###### ARTICULO 112.
 
@@ -683,11 +891,15 @@ Antes de entregar a un interno la correspondencia dirigida a él, será abierta 
 
 #### SECCION QUINTA. DE LOS SERVICIOS MEDICOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 113.
 
-Los centros de Readaptación Social, deberán contar permanentemente con servicio médico general y odontología, para proporcionar con oportunidad y eficacia la atención que los internos requieran.
+Los Centros de Readaptación Social, deberán contar permanentemente con los servicios de medicina general, odontología, psicología y psiquiatría, para proporcionar con oportunidad y eficacia la atención que los internos requieran; en el caso de los centros que carezcan de estos servicios deberán apoyarse con los servicios estatales de salud.
 
-Cuando el personal médico de la Institución lo determine, porque así se requiera en casos de emergencia, el interno deberá ser trasladado al Hospital Civil del Estado.
+Cuando el personal médico de la Institución lo determine, porque así se requiera en casos de emergencia, el interno deberá ser trasladado a los hospitales civiles o psiquiátricos respectivamente, adoptando las medidas de seguridad que cada caso amerite.
 
 ###### ARTICULO 114.
 
@@ -717,9 +929,13 @@ Los dormitorios o secciones destinadas para la custodia en aislamiento, serán v
 
 Los Internos que habitualmente observen mala conducta, y cuyas relaciones con el personal del reclusorio y sus compañeros sean conflictivas, deberán ser estudiados por el médico del establecimiento. Dichos internos estarán bajo estricta vigilancia médica.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 120.
 
-Los enfermos mentales deberán ser remitidos al hospital psiquiátrico del Estado, para que reciban el tratamiento que corresponda. En ningún caso podrán permanecer en los Centros de Readaptación.
+En el caso de los inimputables y enfermos psiquiátricos, serán canalizados en hospitales o pabellones en su género; dentro o fuera de la entidad, para la atención especializada que se requiera.
 
 Si el hospital psiquiátrico dictamina que el interno padece una enfermedad mental, pero que tomando en cuenta su bajo índice de peligrosidad, el paciente es suceptible (sic) de ser tratado en su domicilio; si se garantiza la adecuada vigilancia médica, y sea en otra institución especializada, granja o albergue de carácter asistencial, el Director del establecimiento de origen solicitará la que proceda a la autoridad facultada para resolver.
 
@@ -769,17 +985,23 @@ IV.- Sugerir medidas de alcance general para la buena marcha del Centro.
 
 V.- Las demás que confiera la Ley y este Reglamento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 128.
 
-El Consejo Técnico celebrará sesiones ordinarias por lo menos una vez a la semana y, extraordinarias, cuando fuere convocado por el Director del establecimiento.
-
-Para deliberar validamente será requisito indispensable la presencia de la mayoría de sus miembros, además de su Presidente.
+El Consejo Interno Celebrará sesiones ordinarias cada quince días y extraordinarias, cuando fuere convocado por el Director del establecimiento.
 
 ###### ARTICULO 129.
 
 En los dictámenes y recomendaciones formuladas se harán constar las opiniones disidentes si las hubiere.
 
-Tales dictámenes y recomendaciones serán turnadas por el Secretario del Consejo, a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social de la Secretaría de Gobernación; así como a la Dirección General de Readaptación Social del Estado; y al Director del establecimiento, según corresponda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2005)</small>
+
+Tales dictámenes y recomendaciones serán turnados por el Secretario del Consejo, al Organo Administrativo Desconcentrado, Prevención y Readaptación Social de la Secretaría de Seguridad Pública Federal, así como a la Dirección General de Readaptación Social del Estado; y al Director del Establecimiento, según corresponda.
 
 ###### ARTICULO 130.
 
@@ -818,3 +1040,11 @@ EL SECRETARIO DE GOBIERNO.
 JESUS RAMIREZ GUERRERO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE MARZO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones en materia de administración de Reclusorios que se opongan a este Reglamento.
