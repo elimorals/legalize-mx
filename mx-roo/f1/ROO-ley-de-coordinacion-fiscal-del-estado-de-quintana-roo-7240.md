@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1993-12-31"
+last_updated: "1997-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -201,11 +201,19 @@ Municipios coordinados, términos y monto de las participaciones.
 
 El Municipio que mediante convenio se haya incorporado al Sistema de Coordinación Fiscal del Estado de Quintana Roo, participará en efectivo y sin condición alguna en la distribución de los Fondos Federales que quedarán integrados de la siguiente manera:
 
-1.-El 20% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General e Impuesto sobre Tenencia y uso de vehículos a las que se refiere el Artículo 2º y Artículo 6º de la Ley de Coordinación Fiscal Federal.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+I.- El 20% de las cantidades que el Estado reciba por concepto de participación del Fondo General, Impuesto sobre Tenencia o Uso de Vehículos, sobre Automóviles Nuevos y Especial sobre Producción y Servicios a las que se refiere los Artículo 2º y 3ºA y 6º de la Ley de Coordinación Fiscal Federal.
 
 II.- El 100 % de los recursos provenientes del Fondo de Fomento Municipal a que se refiere el artículo 2º A de la Ley Federal de Coordinación Fiscal.
 
 III.- Cualquier otro tipo de participaciones que apruebe el Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+ARTICULO 5ºA.- Los municipios del Estado de Quintana Roo, participarán del 50% de la recaudación que se obtenga de los contribuyentes que tributen de la Sección III del Capítulo VI del Título IV de la Ley de Impuesto Sobre la Renta, que a partir del 1º de Enero de 1998, se incorporarán al Registro Federal de Contribuyentes como resultado de actos de verificación de las autoridades municipales, en los términos de los Convenios de Colaboración Administrativa en materia Fiscal Federal, que al efecto suscriba esta Entidad Federativa con el Gobierno Federal.
+
+Esta participación se distribuirá directamente con base en el impuesto pagado por el contribuyente domiciliado en su localidad y se liquidará en el mes siguiente al pago de las contribuciones.
 
 ###### ARTICULO 6º.
 
@@ -357,6 +365,176 @@ IV.- Los activos, pasivos, uso o tenencia de bienes y capitales de comerciantes 
 
 Los Municipios no establecerán bajo ningún título, tasas adicionales, cooperaciones o contribuciones especiales.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. EL 15 DE DICIEMBRE DE 1997)</small>
+
+### CAPÍTULO V. Del Fondo de Aportación para la Infraestructura Social Municipal
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 19.
+
+Se integrará el Fondo de Aportaciones para la Infraestructura Social Municipal con los recursos que el Estado perciba del Gobierno Federal con ministraciones mensuales y por partes iguales, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo de Artículo 7º de la Ley de Coordinación Fiscal Federal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 20.
+
+Los recursos que se distribuyan a los municipios del Estado con cargo a Fondo de Aportaciones para la Infraestructura Social Municipal, se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones, que beneficien directamente a sectores de su población que se encuentren condiciones de rezago social y de pobreza extrema, en los siguientes rubros: agua potable; alcantarillado; drenaje y letrinas; urbanización de zonas marginadas y colonias populares; electrificación rural y de colonias pobres; infraestructura básica de salud; infraestructura básica educativa, mejoramiento de vivienda; caminos rurales; e infraestructura productiva rural.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 21.
+
+De los recursos asignados por este Fondo de Aportaciones para la infraestructura Social Municipal, se destinará un 2% para la realización de un programa de desarrollo institucional.
+
+Los estudios y proyectos que integran este programa, podrán ser administrados en forma global o por municipio de acuerdo a las reglas que se establezcan en el seno de Comité de Planeación para el Desarrollo del Estado, previo convenio con los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 22.
+
+Comité de Planeación para el Desarrollo del Estado, conjuntamente con los municipios, deberán de emitir la normatividad para planear, programar, presupuestar, aprobar, operar, dar seguimiento y evaluar los recursos que se destinen a los municipios del Fondo de Aportaciones para la Infraestructura Social Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 23.
+
+De igual manera Comité de Planeación para el Desarrollo Institucional, vigilará la observancia que los municipios deberán seguir en cuanto al destino que den a dichas aportaciones, las cuales consistirán en cuando menos:
+
+I.- Hacer del conocimiento de sus habitantes, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios.
+
+II.- Promover la participación de las comunidades beneficiarias de su destino, aplicación y vigilancia, así como la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
+
+III.- Informar a sus habitantes, al termino de cada ejercicio, sobre los resultados alcanzados;
+
+IV.- Proporcionar, por conducto de la Secretaría Estatal de Desarrollo Social a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal les sea requerida.
+
+V.- Vigilar que los avances físico-financieros se cumplan de conformidad con los programas, proyectos y obras que sean financiados con recursos de este Fondo;
+
+VI.- Apoyar a los Municipios en el desempeño, para alcanzar los objetivos y metas establecidas en el programa de desarrollo institucional; y
+
+VII.- En el caso de incumplimiento o desvío de lo previsto en los programas de desarrollo institucional, girar comunicación a la Secretaria de Hacienda del Gobierno del Estado, a fin de que se tomen las medidas conducentes en tanto persista la anomalía detectada.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 24.
+
+Los recursos que se integran del Fondo de Aportaciones para la Infraestructura Social Municipal serán distribuidos directamente a los municipios del Estado a través de la Secretaría de Hacienda, considerando criterios de pobreza extrema, conforme al calendario de enteros en que el Gobierno Federal lo haga y de acuerdo a los coeficientes que obtenga al desarrollar la siguiente fórmula y procedimiento:
+
+I.- Formula:
+
+IGPj = Pj1BI + Pj2B2 +Pj3B3 +Pj4B4 +Pj5B5
+
+En donde:
+
+Pjw = Brecha respecto a la forma de la pobreza extrema de la necesidad básica w para el hogar j en estudio;
+
+B1,...,5= Ponderador asociado a la necesidad básica w; y,
+
+j = Hogar en estudio
+
+Esta fórmula representa el Indice Global de Pobreza en un hogar, IGPj´ el cual se conforma con las brechas Pj1, Pj2, Pj3, Pj4, Pj5, de las necesidades básicas a que se refiere la fracción II; sus correspondientes ponderadores son B1= 0.4616, B2= 0.1250, B3= 0.2386, B4= 0.0608, B5= 0.1140.
+
+II.- Las necesidades básicas, en el orden en que aparecen en la formula anterior, son las siguientes:
+
+w1= Ingreso per cápita del hogar.
+
+w2= Nivel educativo promedio por hogar.
+
+w3= Disponibilidad de espacio de la vivienda.
+
+w4= Disponibilidad de drenaje; y
+
+w5= Disponibilidad de electricidad-combustible para cocinar.
+
+III.- Para cada hogar se estiman las cinco brechas respecto a las normas de pobreza extrema que corresponden a cada una de las necesidades básicas, con base en la siguiente formula:
+
+Pj¨= [Zw - Xjw]
+
+Zw
+
+En donde:
+
+Zw = Norma establecida para la necesidad básica w.
+
+Xjw = Valor observado en cada hogar j, para la necesidad básica w.
+
+IV.- Los resultados de cada una de estas brechas se ubican dentro de un intervalo de -0.5 a 1. Cada brecha se multiplica por los ponderadores establecidos en la fracción I de este artículo para, una vez sumadas, obtener el Indice Global de Pobreza del hogar, que se encuentra en el mismo intervalo. Cabe señalar que para los cálculos subsecuentes, solo se consideran a los hogares cuyo valor se ubique entre 0 y 1, que son aquellos de pobreza extrema.
+
+V.- El valor del IGP del hogar se eleva al cuadrado para atribuir mayor peso a los hogares más pobres. Después se multiplica por el tamaño del hogar, con lo cual se incorpora el factor poblacional. Con lo anterior se conforma la Masa Carencial del Hogar, determinada por la siguiente fórmula:
+
+MCHj= IGPj2 * Tj
+
+En donde:
+
+MCHj = Masa Carencial del Hogar j;
+
+Tj= Número de miembros en el hogar j en pobreza extrema.
+
+Al sumar el valor MCH j para todos los hogares de pobreza extrema de un Municipio, se obtiene la Masa Carencial Municipal, determinada por la siguiente fórmula:
+
+En donde:
+
+jk
+
+MCMk = Masa Carencial del Municipio K;
+
+j=i
+
+En donde:
+
+MCMk = Masa Carencial del Municipio K;
+
+MCHjk = Masa Carencial del Hogar j en pobreza extrema en el Municipio K; y,
+
+JK = Número total de hogares pobres extremos en el Municipio K.
+
+Una vez determinada la Masa Carencial Municipal, se hace una agregación similar de todos los Municipios para obtener la Masa Carencial Estatal.
+
+Cada una de las masas carenciales se divide entre la Masa Carencial Estatal, MCE, para determinar la participación porcentual que del Fondo de Aportaciones para la Infraestructura social Municipal le corresponde a cada municipio, como indica la siguiente fórmula:
+
+MCMk
+
+PMk =--------------*100
+
+MCE
+
+En donde:
+
+PMk= Participación porcentual del Municipio k
+
+MCMk= Masa Carencial del Municipio k; y
+
+MCE= Masa Carencia Estatal.
+
+Así, la distribución del Fondo de Aportaciones para la Infraestructura Social Municipal se realiza en función de la proporción que corresponde a cada Municipio de la pobreza extrema a nivel Estatal, según lo establecido.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 25.
+
+El carácter redistributivo de los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal entre los municipios del Estado de Quintana Roo, hace énfasis al combate a la pobreza extrema. Para coadyuvar al logro, se utiliza la información estadística, más reciente de las variables de rezago social a que se refiere el artículo anterior publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 26.
+
+Para la implementación de la fórmula de distribución del Fondo de Aportaciones para la Infraestructura Social Municipal entre los municipios del Estado de Quintana Roo, se atenderán a las variables y fuentes de información disponibles a nivel municipal, que la Secretaría de Desarrollo Social Federal publique anualmente en los primeros quince días del ejercicio fiscal de que se trate en el Diario Oficial de la Federación.
+
+Con base a los lineamientos anteriores y previo convenio con la Secretaría de Desarrollo Social, la Secretaría Estatal de Desarrollo Social, calculará las distribuciones correspondientes a los municipios, debiendo publicarse en el Periódico Oficial del Gobierno del Estado, a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología justificando cada elemento.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 27.
+
+Las aportaciones que con cargo al Fondo y sus acciones a que se refiere este Capítulo, reciban los municipios no serán embargables, ni el Gobierno del Estado podrá, bajo ninguna circunstancia, gravarlas, afectarlas en garantía, ni destinarlas a fines distintos a los expresamente previstos el los artículos 20, 21 y 22 de esta Ley.
+
+Las aportaciones con cargo al Fondo, serán administradas y ejercidas por los municipios que las reciban, de conformidad a la legislación aplicable.
+
+La Unida de Programas Coordinados Federación-Estado y la Contaduría Mayor de Hacienda, como órgano técnico del Poder Legislativo, en el ámbito de sus respectivas facultades y competencia, serán los responsables de ejercer la vigilancia directa y constatar la correcta aplicación de los recursos que se reciban del Fondo y de fincar, en su caso, las responsabilidades administrativas correspondientes.
+
+No obstante lo señalado en el párrafo anterior, las responsabilidades administrativas, civiles y penales derivadas de afectaciones a la Hacienda Pública Federal en que, en su caso, incurran autoridades locales o municipales exclusivamente por motivo de desviación de los recursos recibidos del fondo señalado, para fines distintos a los previstos en este Capítulo, serán sancionadas en términos de la legislación aplicable.
+
 TRANSITORIOS:
 
 ###### ARTICULO 1º.
@@ -440,3 +618,11 @@ ING. MARIO ERNESTO VILLANUEVA MADRID.
 EL C. SECRETARIO DE GOBIERNO
 
 PROFRA. SARA ESTHER MUZA SIMON.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE DICIEMBRE DE 1997.
+
+PRIMERO.- La vigencia del presente Decreto será retroactiva al 1º de enero de 1998 y estará condicionada a la aprobación de la modificación propuesta a la Ley de Coordinación Fiscal Federal para el propio año.
+
+SEGUNDO.- En tanto el Estado y sus municipios integran la normatividad para el adecuado ejercicio de los recursos que reciban en términos de la presente Ley, a través del Fondo de Aportaciones para la Infraestructura Social Municipal, podrán aplicar en forma supletoria los criterios y lineamientos contenidos en el Manual Unico de Operación el Ramo XXVI para el año de 1997 emitido por la Secretaría de Desarrollo Social Federal.
