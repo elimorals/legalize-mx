@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1986-12-23"
+last_updated: "1987-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MARZO DE 1987.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -190,9 +190,17 @@ La correspondencia que bajo cubierta circule por las estafetas estará libre de 
 
 En tiempo de paz ningún miembro del Ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
 
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
+
 ###### Art. 17.
 
-Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para reclamar su derecho. Los tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+Las leyes federales y locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 1965)</small>
 
@@ -738,9 +746,11 @@ El Distrito Federal se compondrá del territorio que actualmente tiene, y en el 
 
 Los Estados de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
 
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
+
 ###### Art. 46.
 
-Los Estados que tuviesen pendientes cuestiones de límites, las arreglarán o solucionarán en los términos que establece esta Constitución.
+Los estados pueden arreglar entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
 
 ###### Art. 47.
 
@@ -1268,7 +1278,9 @@ La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de 
 
 Si del examen que realice la Contaduría Mayor de Hacienda aparecieran discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
-La Cuenta Pública del año anterior deberá ser presentada a la Comisión Permanente del Congreso dentro de los diez primeros días del mes de junio.
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
+
+La Cuenta Pública del año anterior deberá ser presentada a la Cámara de Diputados del H. Congreso de la Unión dentro de los diez primeros días del mes de junio.
 
 Sólo se podrá ampliar el plazo de presentación de las iniciativas de leyes de ingresos y de los proyectos de presupuesto de egresos, así como de la Cuenta Pública cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
 
@@ -2050,35 +2062,65 @@ VI.- Cuando dos o más centros urbanos situados en territorios municipales de do
 
 VII.- El Ejecutivo Federal y los gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
 
-VIII.- Los gobernadores de los Estados no podrán durar en su encargo más de seis años.
+> <small>(REFORMADA, D.O.F. 17 DE MARZO DE 1987)</small>
 
-La elección de los gobernadores de los Estados y de las Legislaturas locales será directa y en los términos que dispongan las leyes electorales respectivas.
+VIII.- Las leyes de los estados introducirán el principio de la representación proporcional en la elección de los ayuntamientos de todos los municipios.
 
-Los gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo, ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
+Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto en el Artículo 123 de esta Constitución, y sus disposiciones reglamentarias.
 
-Nunca podrán ser electos para el período inmediato.
+IX.- (DEROGADA, D.O.F. 17 DE MARZO DE 1987)
 
-a).- El gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aún cuando tengan distinta denominación.
+X.- (DEROGADA, D.O.F. 17 DE MARZO DE 1987)
 
-b).- El gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
-
-Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
-
-El número de representantes en las legislaturas de los Estado (sic) será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve, en aquéllos cuya población exceda de este número y no llegue a ochocientos mil habitantes, y de once en los Estados cuya población sea superior a esta última cifra.
-
-Los diputados a las legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el periodo inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
-
-De acuerdo con la legislación que se expida en cada una de las entidades federativas se introducirá el sistema de diputados de minoría en la elección de las legislaturas locales y el principio de representación proporcional en la elección de los ayuntamientos de todos los Municipios.
-
-IX.- Las relaciones de trabajo entre los Estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los Estados con base en los dispuesto (sic) en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias. Los municipios observarán estas mismas reglas por lo que a sus trabajadores se refiere.
-
-X.- La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
-
-Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 17 DE MARZO DE 1987)</small>
 
 ###### Art. 116.
 
-Los Estados pueden arreglar entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación del Congreso de la Unión.
+El poder público de los estados se dividirá, para su ejercicio, en Ejecutivo, Legislativo y Judicial, y no podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el legislativo en un solo individuo.
+
+Los poderes de los Estados se organizarán conforme a la Constitución de cada uno de ellos, con sujeción a las siguientes normas:
+
+I.- Los gobernadores de los Estados no podrán durar en su encargo más de seis años.
+
+La elección de los gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
+
+Los gobernadores de los Estados, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo, ni aun con el carácter de interinos, provisionales, sustitutos o encargados del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a) El gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación;
+
+b) El gobernador interino, el provisional o el ciudadano que, bajo cualquiera denominación, supla las faltas temporales del gobernador, siempre que desempeñe el cargo los dos últimos años del período.
+
+Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+
+II.- El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
+
+Los diputados a las legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+En la legislación electoral respectiva se introducirá el sistema de diputados de minoría en la elección de las legislaturas locales.
+
+III.- El Poder Judicial de los Estados se ejercerá por los tribunales que establezcan las Constituciones respectivas.
+
+La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por las Constituciones y las Leyes Orgánicas de los Estados, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan a los Poderes Judiciales de los Estados.
+
+Los magistrados integrantes de los Poderes Judiciales Locales deberán reunir los requisitos señalados por el artículo 95 de esta Constitución.
+
+Los nombramientos de los magistrados y jueces integrantes de los Poderes Judiciales Locales serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+Los jueces de primera instancia y los que con cualquiera otra denominación se creen en los Estados, serán nombrados por el Tribunal Superior o por el Supremo Tribunal de Justicia de cada Estado.
+
+Los magistrados durarán en el ejercicio de su encargado (sic) el tiempo que señalen las Constituciones Locales, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen las Constituciones y las Leyes de Responsabilidades de los Servidores Públicos de los Estados.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+IV.- Las Constituciones y leyes de los Estados podrán instituir Tribunales de lo Contencioso-Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
+V.- Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+
+VI.- La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 
 ###### Art. 117.
 
@@ -3559,3 +3601,19 @@ D.O.F. 23 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 1o. de enero de 1987.
+
+D.O.F. 17 DE MARZO DE 1987.
+
+DECRETO QUE REFORMA LOS ARTICULOS 17, 46, 115 Y 116.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las legislaturas de los estados, en el plazo de un año, computado a partir de la vigencia de este Decreto, procederán a reformar y adicionar las constituciones y leyes locales, para proveer el debido cumplimiento de las disposiciones de este Decreto.
+
+D.O.F. 17 DE MARZO DE 1987.
+
+DECRETO QUE REFORMA EL PARRAFO SEXTO DE LA FRACCION IV DEL ARTICULO 74.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir del 1o. de septiembre de 1989.
