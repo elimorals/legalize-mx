@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "2000-12-12"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -309,11 +309,11 @@ V. Conceder la palabra alternativa a los Diputados, siguiendo en orden en que ha
 
 VI. Firmar los Decretos que expida el Congreso, al terminar la sesión correspondiente, a fin de enviarlos desde luego al Ejecutivo para su promulgación;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999 )</small>
 
 VII. Proponer a la Cámara la lista de los integrantes de las comisiones y dar a conocer mensualmente el trabajo de las mismas;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999 )</small>
 
 VIII. Exhortar a los diputados que falten, tanto a las sesiones del Congreso, como a las reuniones de trabajo de las comisiones a que en lo sucesivo concurran;
 
@@ -329,13 +329,21 @@ XIII. Designar Comisiones de entre los Diputados, para llevar la representación
 
 XIV. Proponer los acuerdos de trámite que recaigan a las comunicaciones y notas diversas que se dirijan al Congreso; y
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999 )</small>
 
 XV. Hacer extrañamientos a instancia de los presidentes de las comisiones, según se señala en el artículo 28 ter; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-XVI. Las demás que le señale esta ley.
+XVI.- Declarar receso, a instancia de él mismo o a propuesta de Diputado, por no más de quince minutos por asunto para deliberar sobre éste, cuando por su importancia se requiera.
+
+Podrá declarar un segundo receso, sobre el mismo asunto, con la aprobación de la mayoría de los diputados presentes por un tiempo igual al anterior.
+
+En los casos en que fuera estrictamente indispensable la ampliación del último de los recesos, para que proceda se requerirá de la aprobación de las dos terceras partes de los diputados que integren el Congreso, pero nunca podrá exceder del día en que se desarrolla la sesión.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XVII.- Las demás que le señale esta ley.
 
 ###### Artículo 25.
 
@@ -1569,7 +1577,7 @@ II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisió
 
 III. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1977 SECCION III)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1977 )</small>
 
 IV. Cuidar de que se cumplimenten los acuerdos del Congreso o de la Presidencia, en su caso, que no requieran el desempeño de los secretarios o de los integrantes de las Comisiones;
 
@@ -1627,9 +1635,21 @@ XIV. Ejecutar las instrucciones de las comisiones de Biblioteca, Archivo y Edito
 
 XV. Por acuerdo de la Asamblea, certificar los documentos del archivo del Congreso; y
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 1994 SECCION II)</small>
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-XVI. Las demás que le confieran la presente ley y su reglamento.
+XVI.- Entregar constancia certificada a cada uno de los diputados integrantes de la Legislatura respectiva, que haya cumplido con lo dispuesto por el artículo 28, fracción I de la Constitución Política del Estado de Jalisco.
+
+La constancia deberá contener por lo menos:
+
+a) Una de las iniciativas de la ley presentada;
+
+b) Fecha de su presentación; y
+
+c) Materia sobre la que versó la iniciativa.
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XVII. Las demás que le confieran la presente ley y su reglamento.
 
 (ADICIONADO CON LOS ARTICULOS QUE LO
 
@@ -2142,5 +2162,17 @@ P.O. 31 DE OCTUBRE DE 2000
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 12 DE DICIEMBRE DE 2000
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MARZO DE 2001
+
+DECRETO QUE ADICIONA AL ART. 24
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MARZO DE 2001
+
+DECRETO QUE ADICIONA AL ART. 1456
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
