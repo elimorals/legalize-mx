@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1995-08-20"
+last_updated: "1995-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -299,11 +299,11 @@ La infracción de esta disposición será sancionada con la pérdida de la inves
 
 El Congreso del Estado se instalará cada tres años, el 15 de noviembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1995)</small>
 
 ###### Artículo 24.
 
-El Congreso se reunirá el primer año de su ejercicio constitucional del 15 de noviembre al 31 de enero, para celebrar un primer período ordinario de sesiones. El segundo y tercer año de ejercicio constitucional, se reunirá del 15 de octubre al 31 de diciembre, para celebrar el primer período ordinario de sesiones. Asimismo, se reunirá del 15 de abril al 30 de junio, para celebrar un segundo período ordinario de sesiones, cada año.
+El Congreso se reunirá del 15 de noviembre al 15 de abril del año siguiente, para celebrar su Período Ordinario de Sesiones.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -311,11 +311,13 @@ El Congreso se reunirá el primer año de su ejercicio constitucional del 15 de 
 
 El Congreso, fuera del período ordinario que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente, pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1995)</small>
 
 ###### Artículo 26.
 
-El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
+El Congreso no podrá ejercer sus funciones sin la concurrencia al menos de las dos terceras partes del número total de sus miembros.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 Los diputados deben presentarse al recinto oficial el día señalado por la Ley o la convocatoria. Los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso, a menos que exista causa justificada que calificará el propio Congreso. En la hipótesis prevista, serán llamados los suplentes a quienes podrá aplicarse la misma sanción si no concurren y en su caso se convocará a nuevas elecciones.
 
@@ -350,6 +352,10 @@ Ningún empréstito podrá celebrarse sino para la ejecución de obras que direc
 V.- Revisar y analizar las cuentas públicas que mensualmente deben presentarle el Gobernador y los Ayuntamientos dentro de los primeros diez días de cada mes. La ampliación del plazo de entrega de las cuentas públicas, estará sujeta a una solicitud justificada, a juicio del Congreso.
 
 Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda. Esta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas están justificadas y son conformes con las normas de ejecución de los Presupuestos de Egresos.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1995)</small>
+
+La Cuenta Pública deberá ser revisada anualmente por el honorable Congreso del Estado.
 
 La Contaduría Mayor de Hacienda con base en la revisión, propondrá al Congreso, dentro de los seis meses siguientes a la conclusión del semestre, que las declare revisadas. Y si hubiese encontrado que no estaban justificadas o no fuesen conformes con las normas de ejecución de los Presupuestos de Egresos, así lo señalará a efecto de que se ejerciten las acciones correspondientes.
 
@@ -551,9 +557,9 @@ Toda iniciativa pasará, sin otro trámite que su lectura, a la Comisión respec
 
 Aprobada una iniciativa de Ley o Decreto por el Congreso del Estado, pasará al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
-Se reputará sancionada por el Poder Ejecutivo, toda iniciativa no devuelta con observaciones al Congreso del Estado, dentro de los siguientes diez días hábiles en que se recibió; a no ser que corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse el primer día hábil en que el Congreso esté reunido.
+Se reputará sancionada por el Poder Ejecutivo toda ley o decreto no devuelto con observaciones al Congreso del Estado, dentro de los siguientes treinta días hábiles en que se recibió; a no ser que corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse el primer día hábil en que el Congreso esté reunido.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -679,7 +685,7 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
+II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo;
 
 III.- (DEROGADA, P.O. 20 DE AGOSTO DE 1995)
 
@@ -963,11 +969,13 @@ La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estad
 
 No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por ley posterior.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1995)</small>
 
 ###### Artículo 65.
 
-Si al iniciarse un año fiscal no hubiere sido votado el presupuesto general correspondiente, se aplicará el del inmediato anterior mientras se subsana la omisión.
+Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se aplicará el proyecto presentado con carácter de temporal mientras se subsana la omisión.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la ley que estableció el empleo.
 
@@ -1678,3 +1686,13 @@ P.O. 20 DE AGOSTO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+La Cuenta Pública correspondiente al primer semestre de ejercicio fiscal de 1995, deberá ser revisada en los términos del contenido normativo de la fracción V del Artículo 27 de la Constitución Política Local, vigente hasta la presente reforma.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto surtirá sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
