@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-3561
 country: "mx"
 rank: "ley"
 publication_date: "1957-07-10"
-last_updated: "1972-05-20"
+last_updated: "1972-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1972.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 32, EN LOS SUPUESTOS QUE MENCIONAN A LA DIRECCIÓN DE PROFESIONES O AL DIRECTOR DE PROFESIONES, SE ENTENDERÁ EN LO SUCESIVO AL DEPARTAMENTO DE PROFESIONES O AL JEFE DEL DEPARTAMENTO DE PROFESIONES, RESPECTIVAMENTE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1972.
 
 Ley publicada en el Segundo Alcance al Periódico Oficial, el miércoles 10 de julio de 1957.
 
@@ -105,13 +107,17 @@ Trabajador Social.
 
 Igualmente se exigirá título para ejercer las profesiones que fueren creadas por los planes de estudio de las escuelas superiores, técnicas o Universidades, considerándoseles como carreras completas.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 5o.
 
-La Dirección de Profesiones del Estado, oído el parecer del colegio de profesionistas de la rama que se trate, el de las comisiones técnicas, propondrá al Ejecutivo del Estado la publicación de los reglamentos que delimiten los campos de acción de las profesiones y el de las ramas correspondientes.
+El Departamento de Profesiones del Estado, oído el parecer del colegio de profesionistas de la rama que se trate, el de las comisiones técnicas, propondrá al Ejecutivo del Estado la publicación de los reglamentos que delimiten los campos de acción de las profesiones y el de las ramas correspondientes.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 6o.
 
-Para ejercer una profesión o una o varias especialidades, se requiere autorización escrita, expedida en forma de patente por la Dirección de Profesiones.
+Para ejercer una profesión o una o varias especialidades, se requiere autorización escrita, expedida en forma de patente por el Departamento de Profesiones.
 
 Para obtener la patente es indispensable que el interesado acredite:
 
@@ -119,7 +125,7 @@ I.- Poseer título de la profesión o especialidad de que se trate, legalmente e
 
 II.- Tener certificado que acredite haber sido aprobado en los estudios correspondientes a la especialidad que pretenda ejercer.
 
-Tal título y certificados o diplomas, serán inscritos en el registro respectivo de la propia Dirección, asentándose en ellos la certificación que acredite dicho registro.
+Tal título y certificados o diplomas, serán inscritos en el registro respectivo del propio Departamento, asentándose en ellos la certificación que acredite dicho registro.
 
 ###### ARTICULO 7o.
 
@@ -197,9 +203,11 @@ Por ningún concepto se registrarán títulos, certificados o autorizaciones ni 
 
 No podrán ser registrados y no tendrán ninguna eficacia en el Estado los títulos profesionales, certificados o autorizaciones expedidas por autoridades en ejercicio de facultades extraordinarias o como consecuencia de una ley privativa, y los expedidos en lugares en que no haya habido planteles de educación profesional al expedirse el título.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 13.
 
-Para el registro de títulos expedidos en los Estados de la República, la Dirección de Profesiones deberá exigir al interesado, comprobación documental de:
+Para el registro de títulos expedidos en los Estados de la República, el Departamento de Profesiones deberá exigir al interesado, comprobación documental de:
 
 I.- La existencia del plantel que expida el título;
 
@@ -211,9 +219,11 @@ III.- Que el interesado haya llenado los requisitos establecidos por el Artícul
 
 Títulos Expedidos en el Extranjero.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 14.
 
-Los títulos expedidos en el extranjero en favor de mexicanos o de extranjeros, serán reconocidos en el Estado de Baja California e inscritos en la Dirección de Profesiones, si los interesados cumplen y llenan los requisitos establecidos en la presente Ley.
+Los títulos expedidos en el extranjero en favor de mexicanos o de extranjeros, serán reconocidos en el Estado de Baja California e inscritos en el Departamento de Profesiones, si los interesados cumplen y llenan los requisitos establecidos en la presente Ley.
 
 ### CAPITULO V
 
@@ -223,17 +233,21 @@ De la Dirección de Profesiones.
 
 (DEROGADO, P.O. 20 DE MAYO DE 1972)
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 16.
 
-La Dirección de Profesiones estará integrada por:
+El Departamento de Profesiones estará integrado por:
 
-I.- Un representante del Gobierno del Estado, con carácter de Director; y
+I.- Un representante del Gobierno del Estado, con carácter de Jefe; y
 
 II.- El personal de empleados necesarios para el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 17.
 
-Son funciones de la Dirección:
+Son funciones del Departamento:
 
 I.- Ser el órgano de relación entre el Estado y los colegios de profesionistas y los profesionistas mismos, en todo lo referente al ejercicio de las profesiones y la aplicación y cumplimiento de la presente Ley;
 
@@ -263,7 +277,7 @@ XIII.- Determinar de acuerdo con las necesidades sociales, la forma en que los p
 
 XIV.- Procurar la distribución de los profesionistas atendiendo a las necesidades y exigencias de cada lugar;
 
-XV.- Formar el archivo de la Dirección en el que, además de los documentos propios d eesta (sic) dependencia, se archiven los planes de estudio y demás datos relacionados con la enseñanza secundaria, preparatoria, normal profesional y técnica que se imparta en la República; iguales datos deberán recabarse en relación con las universidades, escuelas e institutos que funcionen en los países extranjeros;
+XV.- Formar el archivo del Departamento en el que, además de los documentos propios d eesta (sic) dependencia, se archiven los planes de estudio y demás datos relacionados con la enseñanza secundaria, preparatoria, normal profesional y técnica que se imparta en la República; iguales datos deberán recabarse en relación con las universidades, escuelas e institutos que funcionen en los países extranjeros;
 
 XVI.- Juzgar, en los casos de infracciones a los mandatos de la presente ley, y aplicar las sanciones respectivas en los casos en que para ello se encuentre facultada;
 
@@ -275,7 +289,7 @@ XIX.- Vigilar que no ejerzan la profesión quienes hubieran hecho declaración e
 
 XX.- Cancelar el registro del título o del certificado de especialidad de los profesionistas que declaren haberse separado del ejercicio profesional;
 
-XXI.- Proporcionar a quien lo solicite, los informes relacionados con asuntos de la competencia de la Dirección; y
+XXI.- Proporcionar a quien lo solicite, los informes relacionados con asuntos de la competencia del Departamento; y
 
 XXII.- Las demás que le señalen las leyes y reglamentos.
 
@@ -289,21 +303,25 @@ Para los efectos de esta Ley, se entiende por ejercicio profesional la realizaci
 
 No se reputará ejercicio profesional cualquier acto realizado en casos graves con propósito de auxilio inmediato, por quien no tenga título o autorización para ejercer actos profesionales.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 19.
 
 Para ejercer en el Estado cualesquiera de las profesiones a que se refiere la presente Ley, se requiere:
 
 I.- Estar en pleno goce de los derechos civiles;
 
-II.- Poseer título legalmente expedido y debidamente registrado en la Dirección de Profesiones del Estado;
+II.- Poseer título legalmente expedido y debidamente registrado en el Departamento de Profesiones del Estado;
 
-III.- Obtener de la propia Dirección patente de ejercicio; y
+III.- Obtener del propio Departamento patente de ejercicio; y
 
-IV.- Los extranjeros podrán ejercer su profesión en el Estado, cuando habiendo obtenido el registro de su título de la Dirección de Profesiones de la Secretaría de Educación Pública cumplan, además con los requisitos establecidos en las fracciones anteriores.
+IV.- Los extranjeros podrán ejercer su profesión en el Estado, cuando habiendo obtenido el registro de su título del Departamento de Profesiones de la Secretaría de Educación Pública cumplan, además con los requisitos establecidos en las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 20.
 
-Las autoridades judiciales y las que conozcan de asuntos contencioso-administrativos, bajo su responsabilidad impedirán la intervención, en calidad de patronos, apoderados, asesores técnicos del o de los interesados en los negocios, a personas que carezcan de título profesional, legalmente expedido y debidamente registrado en la Dirección de Profesiones.
+Las autoridades judiciales y las que conozcan de asuntos contencioso-administrativos, bajo su responsabilidad impedirán la intervención, en calidad de patronos, apoderados, asesores técnicos del o de los interesados en los negocios, a personas que carezcan de título profesional, legalmente expedido y debidamente registrado en el Departamento de Profesiones.
 
 ###### ARTICULO 21.
 
@@ -313,13 +331,17 @@ Se exceptúan de lo ordenado por el artículo anterior, los casos de los gestore
 
 En materia penal el acusado podrá ser oído en defensa por sí o por medio de persona de su confianza o por ambos según su voluntad. Cuando la persona o personas de la confianza del acusado, designadas como defensores no sean abogados, se les invitará para que designen, además, un defensor con título. En caso de que no hiciere uso de este derecho, se le nombrará uno de oficio.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 23.
 
-Todo escrito que contenga gestión formulada ante autoridades judiciales, deberá ser respaldado con la firma de un abogado legalmente autorizado por la Dirección de Profesiones, únicamente en los casos en que proceda.
+Todo escrito que contenga gestión formulada ante autoridades judiciales, deberá ser respaldado con la firma de un abogado legalmente autorizado por el Departamento de Profesiones, únicamente en los casos en que proceda.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 24.
 
-La Dirección de Profesiones podrá extender autorización a pasantes o practicantes de las diversas profesiones, para que ejecuten actos profesionales, siempre que se trate del ejercicio de prácticas escolares o del servicio social previo a la obtención del título. Tales autorizaciones se concederán por un término no mayor de un año, cuando se trate de estudiantes que estén prestando un servicio social y por un plazo que no exceda de dos años, a estudiantes que deben cumplir prácticas correspondientes a los últimos años de estudios profesionales que estén cursando. Estas autorizaciones quedarán sin valor alguno, al expirar el término para el cual fueron extendidas.
+El Departamento de Profesiones podrá extender autorización a pasantes o practicantes de las diversas profesiones, para que ejecuten actos profesionales, siempre que se trate del ejercicio de prácticas escolares o del servicio social previo a la obtención del título. Tales autorizaciones se concederán por un término no mayor de un año, cuando se trate de estudiantes que estén prestando un servicio social y por un plazo que no exceda de dos años, a estudiantes que deben cumplir prácticas correspondientes a los últimos años de estudios profesionales que estén cursando. Estas autorizaciones quedarán sin valor alguno, al expirar el término para el cual fueron extendidas.
 
 ###### ARTICULO 25.
 
@@ -379,13 +401,19 @@ Todos los profesionistas de una misma rama podrán constituir en el Estado de Ba
 
 Las asociaciones de profesionistas constituidas de acuerdo con lo dispuesto por el artículo anterior, se denominarán: "Colegio de _ _ _ _" indicándose la rama profesional a que corresponda.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 37.
 
-Para los efectos de la fracción II del Artículo 17 de esta Ley, cada uno de los colegios de profesionistas que funcionen en el Estado, designarán y acreditarán el o los representantes que les solicite la Dirección de Profesiones.
+Para los efectos de la fracción II del Artículo 17 de esta Ley, cada uno de los colegios de profesionistas que funcionen en el Estado, designarán y acreditarán el o los representantes que les solicite el Departamento de Profesiones.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 38.
 
-Todo colegio de profesionistas que se constituya en el Estado, deberá solicitar por escrito su registro, a la Dirección de Profesiones en un término que no exceda de 60 días, contados a partir de la fecha en que haya sido protocolizada el acta constitutiva.
+Todo colegio de profesionistas que se constituya en el Estado, deberá solicitar por escrito su registro, a el Departamento de Profesiones en un término que no exceda de 60 días, contados a partir de la fecha en que haya sido protocolizada el acta constitutiva.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 39.
 
@@ -395,7 +423,7 @@ I.- Tener como mínimo 30 socios que deberán ser residentes del Municipio en qu
 
 II.- Que se llenen las prevenciones establecidas en los artículos 2670, 2671 y 2673 del Código Civil vigente, ajustándose en lo conducente a los términos de las demás disposiciones contenidas en el Título Décimo Primero de dicho Ordenamiento;
 
-III.- Presentar a la Dirección de Profesiones una solicitud por escrito a la que se acompañarán los siguientes documentos:
+III.- Presentar a el Departamento de Profesiones una solicitud por escrito a la que se acompañarán los siguientes documentos:
 
 a).- Testimonio de la escritura de protocolización del acta constitutiva del colegio y de los estatutos que lo rijan, así como copias autorizadas de ambos documentos.
 
@@ -419,11 +447,13 @@ La capacidad de los colegios para poseer, adquirir y administrar bienes raíces,
 
 Cada colegio se dará y modificará sus propios estatutos y sus reglamentos, ajustándose a las prevenciones de la presente Ley.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 44.
 
 Los colegios de profesionistas en el ejercicio de su función, deberán:
 
-I.- Vigilar la actividad profesional de sus integrantes, exigiendo que se realice dentro del más alto plano moral, denunciando ante la Dirección de Profesiones las violaciones que de la presente ley se comentan y que constituyan faltas o delitos;
+I.- Vigilar la actividad profesional de sus integrantes, exigiendo que se realice dentro del más alto plano moral, denunciando ante el Departamento de Profesiones las violaciones que de la presente ley se comentan y que constituyan faltas o delitos;
 
 II.- Coadyuvar con la administración pública a efecto de que sus servicios se realicen con el más alto sentido de servicio social;
 
@@ -439,9 +469,9 @@ VII.- Crear y estrechar relaciones sociales, profesionales, culturales, económi
 
 VIII.- Actuar como cuerpos consultores del poder público, dentro de sus respectivas ramas;
 
-IX.- Representar, a través de sus consejos directivos, a los miembros del colegio ante la Dirección de Profesiones y ante las autoridades estatales o federales;
+IX.- Representar, a través de sus consejos directivos, a los miembros del colegio ante el Departamento de Profesiones y ante las autoridades estatales o federales;
 
-X.- Formular sus estatutos y reglamentos interiores y sus reformas, depositando un ejemplar de ellos en la Dirección de Profesiones;
+X.- Formular sus estatutos y reglamentos interiores y sus reformas, depositando un ejemplar de ellos en el Departamento de Profesiones;
 
 XI.- Hacerse representar en los congresos nacionales y extranjeros, relacionados con las ramas científicas a que el colegio pertenezca;
 
@@ -451,13 +481,13 @@ XIII.- Organizar la forma en que sus miembros deban prestar el servicio social y
 
 XIV.- Abrir a cada uno de sus miembros un expediente en el que consten además de los documentos que acuerde el colegio, las anotaciones que acrediten la forma y ocasiones en que el profesionista haya prestado su servicio social, las sanciones que se le hayan impuesto, y en su caso, los acuerdos o sentencias de suspensión o inhabilitación profesional.
 
-XV.- Formar listas de peritos profesionales divididos por especialidades que servirán oficialmente a las autoridades. Copias de estas listas se enviarán por conducto de el Departamento de Profesiones al Ejecutivo del Estado, al Tribunal de Justicia y a las autoridades federales;
+XV.- Formar listas de peritos profesionales divididos por especialidades que servirán oficialmente a las autoridades. Copias de estas listas se enviarán por conducto del Departamento de Profesiones al Ejecutivo del Estado, al Tribunal de Justicia y a las autoridades federales;
 
 XVI.- Exigir que los servicios públicos estatales o de cooperación en que se requieran conocimientos técnicos de determinada profesión, sean desempeñados por profesionistas con título legalmente expedido y debidamente registrado;
 
 XVII.- Admitir en su seno a los profesionistas que de la misma rama no pertenezcan a un colegio similar;
 
-XVIII.- Expulsar, previo el juicio que de acuerdo con sus estatutos celebre el colegio, a los miembros que deshonren o desprestigien a la profesión, dando cuenta de ello a la Dirección de Profesiones;
+XVIII.- Expulsar, previo el juicio que de acuerdo con sus estatutos celebre el colegio, a los miembros que deshonren o desprestigien a la profesión, dando cuenta de ello a el Departamento de Profesiones;
 
 XIX.- Defender los intereses profesionales de sus integrantes;
 
@@ -493,9 +523,11 @@ V.- Los inhabilitados por sentencia judicial para ejercer su profesión.
 
 Se entiende por servicio social el trabajo de carácter temporal que mediante retribución presten y ejecuten los profesionistas y los estudiantes, en interés de la sociedad y del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 48.
 
-La Dirección de Profesiones determinará la forma en que los profesionistas prestarán el servicio social.
+El Departamento de Profesiones determinará la forma en que los profesionistas prestarán el servicio social.
 
 ###### ARTICULO 49.
 
@@ -509,9 +541,11 @@ Todo profesionista, cualesquiera que sea la rama a que pertenezca, está obligad
 
 Faltas, Delitos y Sanciones.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 51.
 
-Los actos u omisiones cometidas contra los mandamientos de esta Ley, se reputarán como faltas o como delitos; las primeras serán sancionadas por la Dirección de Profesiones y los segundos se perseguirán de oficio por el Ministerio Público y serán juzgados por las autoridades del orden penal.
+Los actos u omisiones cometidas contra los mandamientos de esta Ley, se reputarán como faltas o como delitos; las primeras serán sancionadas por el Departamento de Profesiones y los segundos se perseguirán de oficio por el Ministerio Público y serán juzgados por las autoridades del orden penal.
 
 ###### ARTICULO 52.
 
@@ -527,37 +561,49 @@ IV.- Use un título ajeno para ejercer actividades profesionales.
 
 A la sanción establecida en este artículo, se acumularán las que correspondan a los delitos que resulten de los actos ejecutados por la persona de que se trate, mediante el ejercicio de una profesión para la que no está autorizada atento a lo dispuesto por el Artículo 250 del Código Penal vigente.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 53.
 
-Se sancionará por la Dirección de Profesiones con multa de cien a mil pesos, a quienes contravengan las disposiciones contenidas en el Artículo 27 de esta Ley, sin perjuicio de las sanciones que señale la Ley Penal al delito que resultare cometido por la omisión o acto delictuoso del profesionista.
+Se sancionará por el Departamento de Profesiones con multa de cien a mil pesos, a quienes contravengan las disposiciones contenidas en el Artículo 27 de esta Ley, sin perjuicio de las sanciones que señale la Ley Penal al delito que resultare cometido por la omisión o acto delictuoso del profesionista.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 54.
 
 Si el profesionista reincide en la contravención del mencionado Artículo 27 de esta Ley, será inhabilitado por un término de dos meses a dos años para el ejercicio de la profesión.
 
-En este caso la Dirección de Profesiones hará la consignación respectiva al Ministerio Público, para que mediante el juicio correspondiente se dicte la sentencia de inhabilitación.
+En este caso el Departamento de Profesiones hará la consignación respectiva al Ministerio Público, para que mediante el juicio correspondiente se dicte la sentencia de inhabilitación.
 
 Por cada reincidencia posterior se aumentará la pena de inhabilitación en dos años, tomándose como mínimo el máximo de la contravención anterior.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 55.
 
-La Dirección de Profesiones en todos los casos de aplicación de sanciones, oirá en defensa al infractor. Las resoluciones que la Dirección dicte, no admitirán ningún recurso.
+El Departamento de Profesiones en todos los casos de aplicación de sanciones, oirá en defensa al infractor. Las resoluciones que el Departamento dicte, no admitirán ningún recurso.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 56.
 
-La Dirección de Profesiones tiene la facultad de imponer a los colegios de profesionistas y a estos individualmente, las sanciones económicas y las suspensiones temporales que señala la ley; las multas o sanciones pecunarias (sic) se harán efectivas mediante la aplicación de la facultad económico-coactiva por conducto de la Tesorería General del Estado.
+El Departamento de Profesiones tiene la facultad de imponer a los colegios de profesionistas y a estos individualmente, las sanciones económicas y las suspensiones temporales que señala la ley; las multas o sanciones pecunarias (sic) se harán efectivas mediante la aplicación de la facultad económico-coactiva por conducto de la Tesorería General del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
 
 ###### ARTICULO 57.
 
-El profesionista que tenga título legalmente expedido y ejerza su profesión sin registrarlo en un término de 60 días contados a partir de la fecha en que inicie sus actividades profesionales, será sancionado por la Dirección con multa de cien pesos y en caso de reincidencia la misma Dirección le duplicará la sanción impuesta.
+El profesionista que tenga título legalmente expedido y ejerza su profesión sin registrarlo en un término de 60 días contados a partir de la fecha en que inicie sus actividades profesionales, será sancionado por el Departamento con multa de cien pesos y en caso de reincidencia el mismo Departamento le duplicará la sanción impuesta.
 
 ###### ARTICULO 58.
 
 Cuando el profesionista sancionado por la falta de registro de su título se niegue a inscribirlo dentro del plazo señalado en el artículo anterior, será sancionado con suspensión en el ejercicio profesional por un término no menor de seis meses ni mayor de dos años.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 59.
 
-La infracción a lo mandado por el Artículo 34 de esta Ley, será sancionada con multa de mil a dos mil, que impondrá la Dirección de Profesiones. La reincidencia se sancionará por la misma Dirección de Profesiones con la suspensión del infractor en el ejercicio profesional por un término no menor de un año ni mayor de dos.
+La infracción a lo mandado por el Artículo 34 de esta Ley, será sancionada con multa de mil a dos mil, que impondrá el Departamento de Profesiones. La reincidencia se sancionará por el mismo Departamento de Profesiones con la suspensión del infractor en el ejercicio profesional por un término no menor de un año ni mayor de dos.
 
 ###### ARTICULO 60.
 
@@ -569,9 +615,11 @@ La infracción a este mandato será castigada con multa de dos mil pesos que se 
 
 Queda estrictamente prohibido a los profesionistas de cualesquier rama, delegar sus actividades profesionales o conferir el desempeño de comisiones relacionadas con éstas a personas que carezcan de título profesional debidamente registrado.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 62.
 
-La infracción a lo mandado en el Artículo 20 de esta Ley será sancionada con multa de mil a tres mil pesos por la Dirección de Profesiones.
+La infracción a lo mandado en el Artículo 20 de esta Ley será sancionada con multa de mil a tres mil pesos por el Departamento de Profesiones.
 
 ###### ARTICULO 63.
 
@@ -585,9 +633,13 @@ En todo caso en que el profesionista haya sido suspendido en el ejercicio profes
 
 Se concede acción pública para denunciar a las personas que sin título profesional, legalmente expedido y debidamente registrado, ejerzan cualesquiera profesión.
 
+T R A N S I T O R I O S :
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1972)</small>
+
 ###### ARTICULO 1o.
 
-Los títulos profesionales que con anterioridad a esta Ley hubieren sido legalmente expedidos y registrados en la Dirección Federal de Profesiones surtirán todos sus efectos; pero para que sus poseedores puedan ejercer conforme a esta Ley, deberán registrarlos en el término de seis meses en la Dirección de Profesiones del Estado.
+Los títulos profesionales que con anterioridad a esta Ley hubieren sido legalmente expedidos y registrados en la Dirección Federal de Profesiones surtirán todos sus efectos; pero para que sus poseedores puedan ejercer conforme a esta Ley, deberán registrarlos en el término de seis meses en el Departamento de Profesiones del Estado.
 
 ###### ARTICULO 2o.
 
@@ -654,3 +706,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se expongan en el presente Decr
 P.O. 20 DE MAYO DE 1972.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
