@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1971-03-19"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1931-08-26"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL -ANTES CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES-
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -34,15 +34,17 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades extraordinarias que me fueron concedidas por Decreto del H. Congreso de la Unión, de 2 de enero de 1931, he tenido a bien expedir el siguiente
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
 ## TITULO PRELIMINAR
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 1º.
 
-Corresponde exclusivamente a los tribunales penales del Distrito y Territorios Federales:
+Corresponde exclusivamente a los tribunales penales del Distrito Federal:
 
 I. Declarar, en la forma y términos que esta ley establece, cuándo un hecho ejecutado en las entidades mencionadas es o no delito;
 
@@ -140,7 +142,7 @@ Los Jueces Mixtos de Paz del Primer Partido Judicial y los Jueces Menores Mixtos
 
 Fuera de la competencia a que se refiere el párrafo anterior, los jueces penales conocerán tanto de los procedimientos ordinarios como de los sumarios.
 
-En los Territorios Federales tanto el procedimiento ordinario como el sumario se llevarán a cabo ante los Jueces de Primera Instancia, salvo la competencia que resulte en favor de los Jueces Menores por razón de la pena aplicable al delito de que se trate.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 Cuando se trate de varios delitos, el juez mixto de paz o menor, en su caso, serán competentes para dictar la sentencia correspondiente, aunque ésta pueda ser mayor de un año de prisión, a virtud de las reglas contenidas en los artículos 58, 64 y 65 del Código Penal.
 
@@ -342,9 +344,11 @@ Los exhortos y las requisitorias contendrán las inserciones necesarias, según 
 
 En casos urgentes, se podrá usar del telégrafo; pero en el mensaje se expresará con toda claridad la diligencia de que se trate, los nombres de los litigantes, el fundamento de la providencia y el aviso de que se mandará por el primer correo el exhorto o requisitoria que ratifique el mensaje.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 44.
 
-Los exhortos a los tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por la primera autoridad administrativa del Distrito y Territorios Federales y la de estos funcionarios, por el Secretario de Relaciones Exteriores.
+Los exhortos a los tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por la primera autoridad administrativa del Distrito Federal, y la de estos funcionarios por la Secretaría de Gobernación y por la Secretaría de Relaciones Exteriores.
 
 ###### ARTICULO 45.
 
@@ -360,9 +364,11 @@ Respecto de las naciones cuya legislación lo autorice, el exhorto se remitirá 
 
 Los exhortos que de estas naciones se dirijan a los tribunales, podrán también enviarse directamente por el tribunal o juez exhortante al exhortado, y bastará que sean legalizados por el Ministro o Cónsul mexicanos residentes en la nación o lugar del tribunal exhortante.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 47.
 
-Los exhortos que se reciban en el Distrito Federal y en los Territorios, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se despacharán dentro de tres días, a no ser que las diligencias que se hayan de practicar exijan necesariamente mayor tiempo, en cuyo caso, el juez fijará el que crea conveniente.
+Los exhortos que se reciban en el Distrito Federal se proveerán dentro de las veinticuatro horas siguientes a su recepción y se despacharán dentro de tres días, a no ser que las diligencias que se hayan de practicar exijan necesariamente mayor tiempo, en cuyo caso, el juez fijará el que crea conveniente.
 
 ###### ARTICULO 48.
 
@@ -392,11 +398,11 @@ Cuando el juez no pueda dar cumplimiento al exhorto o requisitoria, por hallarse
 
 No se notificarán las providencias que se dicten para el cumplimiento de un exhorto o de una requisitoria, sino cuando se prevenga así en el mismo despacho.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 55.
 
-Cuando se demore en el Distrito y Territorios Federales, el cumplimiento de un exhorto o de una requisitoria, librados por un juez de las mismas localidades, se recordará su despacho por medio de oficio. Si a pesar de éste continuare la demora, el juez requirente lo pondrá en conocimiento del superior inmediato del requerido; dicho superior apremiará al moroso, lo obligará a devolver el exhorto y le exigirá la responsabilidad en que hubiere incurrido.
+Cuando se demore en el Distrito Federal el cumplimiento de un exhorto o de una requisitoria, se recordará su despacho por medio de oficio. Si a pesar de éste continuare la demora, el juez requirente lo pondrá en conocimiento del superior inmediato del requerido; dicho superior apremiará al moroso, lo obligará a devolver el exhorto y le exigirá la responsabilidad en que hubiere incurrido.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -2800,9 +2806,7 @@ Si ambos sostuvieren su jurisdicción, remitirán al Tribunal Superior los autos
 
 Recibidos los autos en el Tribunal Superior, desde luego se señalará día para la vista, que se verificará dentro de los ocho días siguientes al de la citación.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-En los Territorios Federales, si las autoridades competidoras no residen en la capital, se citará para la vista dentro del término que prudentemente designe el Tribunal Superior, en atención a la distancia.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 466.
 
@@ -3184,9 +3188,7 @@ Son irrecusables: los jueces o magistrados a quienes toque calificar una recusac
 
 ###### ARTICULO 527.
 
-La recusación de los jueces de los Territorios, será calificada por el Tribunal Superior respectivo.
-
-El procedimiento será el mismo que para los demás funcionarios judiciales, a cuyo efecto, el juez recusado, suspendiendo todo procedimiento y sin más trámite, remitirá la causa, con citación de las partes, al tribunal que corresponda.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 528.
 
@@ -3360,7 +3362,7 @@ II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, 
 
 ### CAPITULO II. De la libertad preparatoria
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 556.
 
@@ -3406,9 +3408,11 @@ II. En caución hipotecaria, otorgada por el reo o por terceras personas, sobre 
 
 III. En fianza personal bastante, que podrá constituirse en el expediente.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 563.
 
-Cuando la fianza personal exceda de trescientos pesos, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad de la jurisdicción del juez o tribunal, cuyo valor sea, cuando menos, cinco veces mayor que el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
+Cuando la fianza personal exceda de trescientos pesos, el fiador deberá comprobar que tiene bienes raíces, inscritos en el Registro Público de la Propiedad, cuyo valor sea, cuando menos, cinco veces mayor que el monto de la cantidad señalada como garantía, salvo cuando se trate de empresas afianzadoras legalmente constituidas y autorizadas.
 
 ###### ARTICULO 564.
 
@@ -3544,7 +3548,7 @@ Para la ejecución de las sanciones, la Dirección General de Servicios Coordina
 
 ###### ARTICULO 583.
 
-Cuando algún reo que esté compurgando una sanción privativa de libertad, crea tener derecho a la libertad preparatoria por haber cumplido con los requisitos que exigen los artículos 84 y siguientes del Código Penal, ocurrirá a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, o a las autoridades que designe el Ejecutivo de los Territorios, solicitándola y acompañando los certificados y demás pruebas conducentes.
+Cuando algún reo que esté compurgando una sanción privativa de libertad, crea tener derecho a la libertad preparatoria por haber cumplido con los requisitos que exigen los artículos 84 y siguientes del Código Penal, ocurrirá a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, solicitándola y acompañando los certificados y demás pruebas conducentes.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -3558,11 +3562,11 @@ Recibida la solicitud se recabarán los datos e informes y se practicarán los e
 
 La Dirección de Servicios Coordinados de Prevención y Readaptación Social resolverá sobre la solicitud.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 586.
 
-Cuando se conceda la libertad preparatoria, el comisionado de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social investigará la solvencia e idoneidad del fiador propuesto. En vista de la información, la Dirección resolverá si es o no de admitirse el fiador. Si se tratare de los Territorios, el delegado de la Dirección recibirá la información.
+Cuando se conceda la libertad preparatoria, el Delegado de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social investigará la solvencia e idoneidad del fiador propuesto. En vista de la información, la Dirección resolverá si es o no de admitirse el fiador.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -3706,7 +3710,7 @@ Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá co
 
 ### CAPITULO II. De la división jurisdiccional
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 611.
 
@@ -3760,6 +3764,8 @@ En el segundo caso, se mandarán archivar las diligencias.
 
 ### CAPITULO III. De los Juzgados de Paz del Orden Penal
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 619.
 
 La justicia penal del orden común se administrará:
@@ -3774,7 +3780,9 @@ III. Por los Jueces Presidentes de Debates;
 
 IV. Por el Jurado Popular, y
 
-V. Por los Tribunales Superiores.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+V. Por el Tribunal Superior de Justicia del Distrito Federal.
 
 ###### ARTICULO 620.
 
@@ -3786,7 +3794,7 @@ II. Los jefes de la policía de las diversas circunscripciones en que se dividan
 
 III. Los agentes de policía dependientes de las autoridades a que se refieren las fracciones anteriores;
 
-IV. El inspector o jefe de la policía de cada uno de los Territorios; los inspectores, comisarios o jefes de cada una de las demarcaciones en que se dividan y los demás agentes de policía dependientes de aquéllos, que funcionen en las diversas circunscripciones de dichos Territorios.
+IV. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 V. Los peritos médico-legistas, los intérpretes y peritos en los ramos que les están encomendados, y
 
@@ -3800,31 +3808,15 @@ El Ejecutivo de la Unión y demás autoridades de su dependencia facilitarán a 
 
 ###### ARTICULO 622.
 
-El Distrito Federal se divide, para los efectos de la presente ley, en los partidos judiciales que señala en artículo 5o. de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales.
+El Distrito Federal se divide, para los efectos de la presente ley, en los partidos judiciales que señala el artículo 5o. de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal.
 
 ###### ARTICULO 623.
 
-La Baja California se dividirá, para los mismos efectos, en dos Distritos Judiciales: el del Norte y del Sur, que comprenderán:
-
-I.- El del Norte, desde la línea divisoria entre la República Mexicana y los Estados Unidos del Norte, hasta los límites septentrionales de la comprensión político-administrativa de Mulegé, y tendrá tres partidos judiciales que se formarán:
-
-a) El de Mexicali, con la actual comprensión político-administrativa de ese nombre;
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-b) El de Zaragoza, con la comprensión político-administrativa de ese nombre y las de Tijuana y Tecate, y
-
-c) El de Ensenada de Todos Santos, con la comprensión político-administrativa de ese nombre.
-
-II.- El del Sur se extenderá desde los límites septentrionales de la actual comprensión político-administrativa de Mulegé hasta el extremo sur de la Península de la Baja California y comprenderá dos partidos judiciales que se formarán:
-
-a) El de La Paz, con la comprensión político-administrativa de ese nombre y las de San Antonio, Todos Santos, San José del Cabo y Santiago, y
-
-b) El de Santa Rosalía, con la comprensión político-administrativa de ese nombre y la de Mulegé y Comondú.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 624.
 
-El territorio de Quintana Roo formará un solo partido judicial.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -3834,11 +3826,11 @@ Las sedes de los juzgados en los Partidos Judiciales del Distrito Federal serán
 
 ###### ARTICULO 626.
 
-Las cabeceras de los partidos de los Distritos Norte y Sur de la Baja California, serán, respectivamente, Mexicali, Zaragoza, Ensenada, Puerto de La Paz y Puerto de Santa Rosalía.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 627.
 
-Del partido judicial de Quintana Roo la cabecera será la población de Payo Obispo.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 ### CAPITULO V. De la organización interior
 
@@ -3846,7 +3838,7 @@ Del partido judicial de Quintana Roo la cabecera será la población de Payo Obi
 
 ###### ARTICULO 628.
 
-En las diversas circunscripciones político-administrativas del Distrito Federal y de los Territorios, habrá el número de jueces de Paz con el personal que señalen los presupuestos respectivos. Estos jueces serán nombrados por el Tribunal Superior que corresponda.
+En las diversas circunscripciones político-administrativas del Distrito Federal habrá el número de jueces de paz con el personal que señalen los presupuestos respectivos. Estos jueces serán nombrados por el Tribunal Superior.
 
 ###### ARTICULO 629.
 
@@ -3986,11 +3978,11 @@ El jurado tiene por misión resolver, por medio de un veredicto, las cuestiones 
 
 El Jurado se formará de siete individuos escogidos por sorteo, en la forma y términos que establece este Código.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 647.
 
-Todo ciudadano residente en los Partidos Judiciales del Distrito y Territorios Federales que reúna los requisitos que exige la ley, tiene la obligación de desempeñar el cargo de Jurado.
+Todo ciudadano residente en los Partidos Judiciales del Distrito Federal que reúna los requisitos que exige la ley, tiene la obligación de desempeñar el cargo de Jurado.
 
 ###### ARTICULO 648.
 
@@ -4016,9 +4008,11 @@ VIII. No ser ciego, sordo ni mudo, y
 
 IX. No ser ministro de ningún culto, ni tener ninguna de las incompatibilidades que esta ley señala.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 649.
 
-El cargo del jurado es incompatible con cualquier otro cargo o empleo de la Federación, del Distrito y Territorios Federales y de los Municipios. Tampoco pueden desempeñarlo los profesores de instrucción primaria en ejercicio, ni los mayores de sesenta años, ni aquellos que, dentro del tercio del año que les haya correspondido, hubieren intervenido en otro jurado.
+El cargo del Jurado es incompatible con cualquier otro cargo o empleo de la Federación o del Distrito Federal. Tampoco pueden desempeñarlo los profesores de instrucción primaria en ejercicio, ni los mayores de sesenta años, ni aquellos que, dentro del tercio del año que les haya correspondido, hubieren intervenido en otro jurado.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -4042,25 +4036,25 @@ Dichas manifestaciones deberán presentarse dentro de los primeros veinte días 
 
 Dentro de este término, las personas incluidas en las listas tendrán derecho para presentar, ante la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, las manifestaciones a que se refiere el artículo anterior, así como las excusas que tuvieren.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 653.
 
-El veinticinco de noviembre, a más tardar, se reunirán el Presidente del Tribunal Superior de Justicia, el Director General de Servicios Coordinados de Prevención y Readaptación Social y el Procurador del Distrito y Territorios Federales, para resolver, sin recurso alguno, sobre las manifestaciones y solicitudes que se hubieren presentado. Corregida así la primera lista, se formará la definitiva que publicará la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+El veinticinco de noviembre, a más tardar, se reunirán el Presidente del Tribunal Superior de Justicia, el Director General de Servicios Coordinados de Prevención y Readaptación Social y el Procurador de Justicia del Distrito Federal, para resolver, sin recurso alguno, sobre las manifestaciones y solicitudes que se hubieren presentado. Corregida así la primera lista, se formará la definitiva que publicará la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
 
 ###### ARTICULO 654.
 
 La lista se dividirá en cuatro secciones. Los individuos listados en las tres primeras desempeñarán, respectivamente, el cargo de cada uno de los tres tercios del año, y con los individuos listados en la cuarta sección, se integrarán las tres primeras, siempre que se incompleten por cualquier motivo. Dichas listas contendrán, por orden alfabético de apellidos, los nombres de los jurados y la designación de sus domicilios. Cuando un Partido Judicial se componga de dos o más Municipalidades o Delegaciones, se formará por separado la lista de los jurados de cada localidad, haciéndose en cada lista la división correspondiente en secciones, según queda indicado.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 655.
 
-Las listas a que se refiere el artículo anterior se publicarán, a más tardar, el treinta de noviembre, en uno o más periódicos del Distrito y Territorios, si los hubiere, y en todo caso en los lugares de costumbre, remitiéndose ejemplares de ella al Procurador de Justicia del Distrito Federal y a cada uno de los jueces penales del Distrito y Territorios Federales.
-
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+Las listas a que se refiere el artículo anterior se publicarán, a más tardar, el treinta de noviembre, en uno o más periódicos del Distrito Federal, remitiéndose ejemplares de ellas al Procurador General de Justicia y a cada uno de los jueces que conozcan de asuntos penales.
 
 ###### ARTICULO 656.
 
-Al principio de cada tercio de año, el Director General de Servicios Coordinados de Prevención y Readaptación Social y los delegados de ésta en los Territorios, harán publicar en la cabecera de cada Partido Judicial la lista de los jurados que han de funcionar en este período y comunicarán los nombramientos a las personas comprendidas en ella, remitiéndoles un cuadernillo que contenga los artículos de este Código, relativos al desempeño de las funciones de jurado.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 657.
 
@@ -4072,11 +4066,11 @@ Cuando resulten falsas las manifestaciones o las declaraciones de testigos a que
 
 Los Presidentes de Debates de la ciudad de México, tendrán bajo sus órdenes una sección de taquigrafía para el servicio del jurado, compuesta de un primer taquígrafo, de un segundo taquígrafo y de dos auxiliares.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 659.
 
-Cuando se efectúe un jurado de algún otro Partido Judicial, del Distrito Federal o de un Territorio, el tribunal correspondiente dispondrá la manera de atender el servicio taquigráfico de aquél.
+Cuando se efectúe un jurado el tribunal dispondrá la manera de atender el servicio taquigráfico.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
 
@@ -4124,13 +4118,11 @@ Son delitos o faltas oficiales los que cometan los miembros de la Administració
 
 De los delitos o faltas oficiales conocerán como jueces instructores:
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-I. Por turno, los Magistrados de las Salas Penales del Tribunal Superior de Justicia del Distrito Federal: de los delitos en que hayan incurrido los Magistrados y Jueces del Distrito Federal, el Procurador de Justicia del Distrito y Territorios Federales, los Agentes del Ministerio Público del Distrito Federal y los jueces y Agentes del Ministerio Público de Quintana Roo;
+I. Por turno, los magistrados de las salas penales del Tribunal Superior de Justicia del Distrito Federal; de los delitos en que hayan incurrido los magistrados y jueces del Distrito Federal, el Procurador de Justicia del Distrito Federal y sus agentes del Ministerio Público;
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-II. El Magistrado Unitario de un Distrito Judicial del Territorio de la Baja California, cuando se trate de delitos en que haya incurrido los jueces y agentes del Ministerio Público de la misma jurisdicción o el magistrado del Distrito Judicial inmediato, salvo el caso de que el Tribunal Superior del Distrito Federal estime conveniente que alguno de sus miembros intervenga directamente en el asunto; y
+II. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 > <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -4162,7 +4154,9 @@ La Dirección General de Servicios Coordinados de Prevención y Readaptación So
 
 Compete a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social:
 
-I. Dirigir y ordenar la prevención social de la delincuencia en el Distrito y Territorios Federales, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+I. Dirigir y ordenar la prevención social de la delincuencia en el Distrito Federal, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
 II. Orientar técnicamente la prevención de la delincuencia y el tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y menores infractores así como crear y manejar instituciones para el internamiento de estos sujetos;
 
@@ -4186,17 +4180,17 @@ XI. Resolver, en los casos del artículo 75 del Código Penal, sobre la modifica
 
 XII. Resolver sobre la distribución y aplicación de los objetos e instrumentos del delito, disponiendo la destrucción de los de uso prohibido y la venta de aquéllos que no sean aprovechables en instituciones oficiales o de beneficencia, utilizando el producto en beneficio de las funciones de la propia Dirección;
 
-XIII. Formar listas de jurados para el Distrito y Territorios Federales;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+XIII. Formar las listas de jurados para el Distrito Federal;
 
 XIV. Formular los reglamentos interiores de la Dirección y de los establecimientos a que se refiere la fracción VI de este artículo, y someterlos al Secretario de Gobernación, para su aprobación;
 
 XV. Las demás que fijen las leyes y los reglamentos.
 
-> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
-
 ###### ARTICULO 675.
 
-La Dirección General de Servicios Coordinados de Prevención y Readaptación Social tendrá delegados en los Territorios Federales. Dichos delegados estarán bajo su dirección técnica, dependiendo administrativamente de los gobiernos respectivos.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1974)
 
 ###### ARTICULO 676.
 
@@ -4212,9 +4206,11 @@ III. Fijar el monto y recibir las fianzas que el multado debe otorgar para desem
 
 IV. Crear, organizar y administrar el Casillero Criminal.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 677.
 
-Compete a la Procuraduría de Justicia del Distrito y Territorios Federales organizar y administrar la Revista Mexicana de Derecho Penal y el Departamento de Estadística Criminal.
+Compete a la Procuraduría General de Justicia del Distrito Federal organizar y administrar la Revista Mexicana de Derecho Penal y el Departamento de Estadística Criminal.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4353,3 +4349,9 @@ Las solicitudes y los procedimientos sobre libertad preparatoria que se encuentr
 ###### ARTICULO SEXTO.
 
 Quedan derogadas todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
