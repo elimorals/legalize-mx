@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1977-02-04"
+last_updated: "1977-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 1977.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -104,9 +104,11 @@ El contrato de trabajo sólo obligará a prestar el servicio convenido por el ti
 
 La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 6o.
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público.
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho a la información será garantizado por el Estado.
 
 ###### Art. 7o.
 
@@ -594,6 +596,26 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+Los partidos políticos tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+En los procesos electorales federales los partidos políticos nacionales deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+
 ### CAPITULO II.
 
 DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
@@ -672,47 +694,39 @@ El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso 
 
 DE LA ELECCION E INSTALACION DEL CONGRESO.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 51.
 
-La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
+La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años. Por cada diputado propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 52.
 
-Se elegirá un diputado propietario por cada doscientos cincuenta mil habitantes o por una fracción que pase de ciento veinticinco mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado; pero en ningún caso la representación de un Estado será menor de dos diputados.
+La Cámara de Diputados estará integrada por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y hasta 100 diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 53.
 
-Por cada diputado propietario, se elegirá un suplente.
+La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de un Estado pueda ser menor de dos diputados de mayoría.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE FEBRERO DE 1972)</small>
+Para la elección de los 100 diputados según el principio de representación proporcional y el sistema de listas regionales, se constituirán hasta cinco circunscripciones electorales plurinominales en el país. La ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 ###### Art. 54.
 
-La elección de diputados será directa, con sujeción a lo dispuesto en el artículo 52 y se complementará, además, con diputados de partido, apegándose, en ambos casos, a lo que disponga la Ley Electoral y, en el segundo, a las reglas siguientes:
+La elección de los 100 diputados, según el principio de la representación proporcional y el sistema de listas regionales, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la ley:
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+I.- Para obtener el registro de sus listas regionales, el partido político nacional que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los 300 distritos uninominales.
 
-I.- Todo Partido Político Nacional al obtener el uno y medio por ciento de la votación total en el país, en la elección de diputados respectiva, tendrá derecho a que se acrediten, de sus candidatos, a cinco diputados, y a uno más hasta veinticinco como máximo, por cada medio por ciento más de los votos obtenidos;
+II.- Tendrá derecho a que les sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que: A) no haya obtenido 60 o más constancias de mayoría y B) que alcance por lo menos el 1.5% del total de la votación emitida para todas las listas regionales en las circunscripciones plurinominales.
 
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
+III.- Al partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal correspondiente. La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
-II.- Si logra la mayoría en veinticinco o más distritos electorales, no tendrá derecho a que le sean acreditados diputados de partido, pero si triunfa en menor numero, siempre que llene los requisitos señalados en la fracción anterior, tendrá derecho a que le sean reconocidos hasta veinticinco diputados, sumando los electos por mayoría y por razón de porcentaje;
-
-> <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
-
-III.- Los diputados de partido serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido en todo el país;
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1963)</small>
-
-IV.- Solamente podrán acreditar diputados en los términos de este artículo, los Partidos Políticos Nacionales que hubieran obtenido su registro conforme a la Ley Electoral Federal, por lo menos con un año de anterioridad al día de la elección; y
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1963)</small>
-
-V.- Los diputados de mayoría y los de partido, siendo representantes de la nación como lo establece el artículo 51, tendrán la misma categoría e iguales derechos y obligaciones.
+IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de las listas regionales obtengan en su conjunto 90 o más constancias de mayoría, sólo serán objeto de reparto el 50% de las curules que deben asignarse por el principio de representación proporcional.
 
 ###### Art. 55.
 
@@ -724,9 +738,13 @@ I.- Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
 II.- Tener veintiún años cumplidos el día de la elección.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
-III.- Ser originario del Estado en que se haga la elección, o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
+III.- Ser originario del Estado en que se haga la elección o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella.
+
+Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere ser originario de alguna de las entidades federativas que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
+
+La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
 
 IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
@@ -772,15 +790,27 @@ Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para
 
 Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 60.
 
-Cada Cámara calificará las elecciones de sus miembros, y resolverá las dudas que hubiese sobre ellas.
+La Cámara de Diputados calificará la elección de sus miembros a través de un colegio electoral que se integrará por los 60 presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Federal Electoral hubieran obtenido mayor número de votos y por 40 presuntos diputados que resultaren electos en la o las circunscripciones plurinominales que obtuviesen la votación mas alta.
 
-Su resolución será definitiva e inatacable.
+En la Cámara de Senadores el Colegio Electoral se integrará con los presuntos senadores que obtuvieren declaratoria de senador electo de la Legislatura de la entidad federativa correspondiente y de la Comisión Permanente del Congreso de la Unión en el caso del Distrito Federal.
+
+Procede el recurso de reclamación ante la Suprema Corte de Justicia de la Nación contra las resoluciones del Colegio Electoral de la Cámara de Diputados.
+
+Si la Suprema Corte de Justicia considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento de dicha Cámara para que emita nueva resolución, misma que tendrá el carácter de definitiva e inatacable.
+
+La ley fijará los requisitos de procedencia y el trámite a que se sujetará este recurso.
 
 ###### Art. 61.
 
 Los diputados y senadores son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+El Presidente de cada Cámara velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
 ###### Art. 62.
 
@@ -802,17 +832,11 @@ Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la le
 
 Los diputados y senadores que no concurran a una sesión, sin causa justificada o sin permiso de la Cámara respectiva, no tendrán derecho a la dieta correspondiente al día en que falten.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
 ###### Art. 65.
 
-El Congreso se reunirá el día 1o. de septiembre de cada año para celebrar sesiones ordinarias en las cuales se ocupará de los asuntos siguientes:
-
-I.- Revisar la cuenta pública del año anterior, que será presentada a la Cámara de Diputados, dentro de los 10 primeros días de la apertura de sesiones. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto, sino que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar.
-
-No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el mismo Presupuesto; las que emplearán los Secretarios, por acuerdo escrito del Presidente de la República.
-
-II.- Examinar, discutir y aprobar el Presupuesto del año fiscal siguiente, y decretar los impuestos necesarios para cubrirlo; y
-
-III.- Estudiar, discutir y votar las iniciativas de ley que se presenten, y resolver los demás asuntos que le correspondan, conforme a esta Constitución.
+El Congreso se reunirá a partir del día 1o. de septiembre de cada año para celebrar sesiones ordinarias, en las cuales se ocupará del estudio, discusión y votación de las iniciativas de ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
 
 ###### Art. 66.
 
@@ -837,6 +861,18 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 ###### Art. 70.
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+El Congreso expedirá la Ley que regulará su estructura y funcionamiento internos.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+La ley determinará, las formas y procedimientos para la agrupación de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Federal para tener vigencia.
 
 #### SECCION II.
 
@@ -930,7 +966,9 @@ VI.- Para legislar en todo lo relativo al Distrito Federal, sometiéndose a las 
 
 1a.- El Gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del órgano u órganos que determine la Ley respectiva.
 
-2a.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
+> <small>(ADICIONADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+2a.- Los ordenamientos legales y los reglamentos que en la Ley de la materia se determinen, serán sometidos al referéndum y podrán ser objeto de iniciativa popular, conforme al procedimiento que la misma señale.
 
 3a.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
@@ -1016,7 +1054,7 @@ XXI.- Para definir los delitos y faltas contra la Federación y fijar los castig
 
 XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
-XXIII.- Para formar su reglamento interior, y tomar las providencias necesarias a fin de hacer concurrir a los diputados y senadores ausentes y corregir las faltas u omisiones de los presentes.
+XXIII.- (DEROGADA, D.O.F. 6 DE DICIEMBRE DE 1977)
 
 XXIV.- Para expedir la ley orgánica de la Contaduría Mayor.
 
@@ -1032,9 +1070,7 @@ XXVI.- Para conceder licencia al Presidente de la República y para constituirse
 
 XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
-(REUBICADA [N. DE E. ANTES FRACCION XXX], D.O.F. 20 DE AGOSTO DE 1928)
-
-XXVIII.- Para examinar la cuenta que anualmente debe presentarle el Poder Ejecutivo, debiendo comprender dicho examen, no solo la conformidad de las partidas gastadas por el Presupuesto de Egresos, sino también la exactitud y justificación de tales partidas.
+XXVIII.- (DEROGADA, D.O.F. 6 DE DICIEMBRE DE 1977)
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -1092,7 +1128,21 @@ II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las 
 
 III.- Nombrar a los Jefes y demás empleados de esa oficina.
 
-IV.- Aprobar el presupuesto anual de gastos discutiendo primero las contribuciones que a su juicio deben decretarse para cubrir aquel.
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+IV.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos de la Federación y el del Departamento del Distrito Federal, discutiendo primero las contribuciones que, a su juicio, deben decretarse para cubrirlos; así como revisar la Cuenta Pública del año anterior.
+
+El Ejecutivo Federal hará llegar a la Cámara las correspondientes iniciativas de leyes de ingresos y los proyectos de presupuesto a más tardar el día último del mes de noviembre, debiendo comparecer el Secretario del Despacho correspondiente a dar cuenta de los mismos.
+
+No podrá haber otras partidas secretas, fuera de las que se consideren necesarias con ese carácter, en el mismo presupuesto; las que emplearán los secretarios por acuerdo escrito del Presidente de la República.
+
+La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el Presupuesto y el cumplimiento de los objetivos contenidos en los programas.
+
+Si del examen que realice la Contaduría Mayor de Hacienda aparecieran discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
+
+La Cuenta Pública del año anterior deberá ser presentada a la Comisión Permanente del Congreso dentro de los diez primeros días del mes de junio.
+
+Sólo se podrá ampliar el plazo de presentación de las iniciativas de leyes de ingresos y de los proyectos de presupuesto de egresos, así como de la Cuenta Pública cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el Secretario del Despacho correspondiente a informar de las razones que lo motiven.
 
 V.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y en su caso, formular acusación ante la Cámara de Senadores y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra alguno de los funcionarios públicos que gozan de fuero constitucional, cuando sean acusados por delitos del orden común.
 
@@ -1116,7 +1166,9 @@ La Cámara de Diputados, al aprobar el Presupuesto de Egresos, no podrá dejar d
 
 Son facultades exclusivas del Senado:
 
-I.- Aprobar los tratados y convenciones diplomáticas que celebre el Presidente de la República con las potencias extranjeras.
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con base en los informes anuales que el Presidente de la República y el Secretario del Despacho correspondiente rindan al Congreso; además, aprobar los tratados internacionales y convenciones diplomáticas que celebre el Ejecutivo de la Unión.
 
 > <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
@@ -1366,6 +1418,10 @@ Los Secretarios del Despacho y los Jefes de los Departamentos Administrativos, l
 
 Cualquiera de las Cámaras podrá citar a los Secretarios de Estado y a los Jefes de los Departamentos Administrativos, así como a los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los diputados, y de la mitad, si se trata de los Senadores, tienen la facultad de integrar comisiones para investigar el funcionamiento de dichos organismos descentralizados y empresas de participación estatal mayoritaria. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo Federal.
+
 ### CAPITULO IV.
 
 DEL PODER JUDICIAL.
@@ -1422,9 +1478,13 @@ Los Magistrados de Circuito y los jueces de Distrito serán nombrados por la Sup
 
 La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
-Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios que auxilien las labores de los Tribunales o Juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrará a alguno o algunos de sus miembros, o a algún Juez de Distrito o Magistrado de Circuito o designará uno o varios Comisionados Especiales, cuando así lo juzgue conveniente, o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión, o el Gobernador de algún Estado, únicamente para que averigue la conducta de algún Juez o Magistrado Federal, o algún hecho o hechos que constituyan la violación de alguna garantía individual, o la violación del voto público, o algún otro delito castigado por la Ley Federal.
+Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios, que auxilien las labores de los Tribunales o juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrara alguno o algunos de sus miembros, o algún Juez de Distrito o Magistrado de Circuito, o designará uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión; o el Gobernador de algún Estado, únicamente para que averigüe la conducta de algún Juez o Magistrado Federal; o algún hecho o hechos que constituyan la violación de alguna garantía individual.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+La Suprema Corte de Justicia está facultada para practicar de oficio la averiguación de algún hecho o hechos que constituyan la violación del voto público, pero sólo en los casos en que a su juicio pudiera ponerse en duda la legalidad de todo el proceso de elección de alguno de los Poderes de la Unión. Los resultados de la investigación se harán llegar oportunamente a los órganos competentes.
 
 > <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
 
@@ -1785,6 +1845,10 @@ El número de representantes en las Legislaturas de los Estados será proporcion
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
 Los diputados a las Legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán se electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+
+De acuerdo con la legislación que se expida en cada una de las entidades federativas se introducirá el sistema de diputados de minoría en la elección de las legislaturas locales y el principio de representación proporcional en la elección de los ayuntamientos de los municipios cuya población sea de 300 mil o más habitantes.
 
 > <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
 
@@ -2989,3 +3053,13 @@ D.O.F. 4 DE FEBRERO DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE DICIEMBRE DE 1977.
+
+###### ARTICULO PRIMERO.
+
+Dentro de los seis meses posteriores a la entrada en vigor del presente Decreto, los Estados de la Federación iniciarán las reformas constitucionales necesarias para adoptar lo establecido en el artículo 115, fracción III último párrafo, de la Constitución General de la República.
+
+###### ARTICULO SEGUNDO.
+
+Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
