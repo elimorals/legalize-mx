@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-44579"
 country: "mx"
 rank: "otro"
 publication_date: "2002-12-31"
-last_updated: "2004-05-27"
+last_updated: "2004-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,113 +19,59 @@ issue_date: "2002-12-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55 (MULTILATERAL, 2002)
 
-DECRETO PARA LA APLICACION DEL PRIMER PROTOCOLO ADICIONAL AL APENDICE I, DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 55, SUSCRITO ENTRE EL MERCOSUR Y LOS ESTADOS UNIDOS MEXICANOS
+DECRETO PARA LA APLICACION DEL PRIMER PROTOCOLO ADICIONAL AL APENDICE IV SOBRE EL COMERCIO EN EL SECTOR AUTOMOTOR ENTRE EL URUGUAY Y MEXICO, DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 55, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, LA REPUBLICA FEDERATIVA DEL BRASIL, LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY, SIENDO LOS ULTIMOS CUATRO ESTADOS PARTES DEL MERCADO COMUN DEL SUR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO PARA LA APLICACION DEL APENDICE I, DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 55, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, LA REPUBLICA FEDERATIVA DEL BRASIL, LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY, SIENDO LOS ULTIMOS CUATRO ESTADOS PARTES DEL MERCADO COMUN DEL SUR, PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO PARA LA APLICACION DEL APENDICE IV, DEL ACUERDO DE COMPLEMENTACION ECONOMICA No. 55, SUSCRITO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA ARGENTINA, LA REPUBLICA FEDERATIVA DEL BRASIL, LA REPUBLICA DEL PARAGUAY Y LA REPUBLICA ORIENTAL DEL URUGUAY, SIENDO LOS ULTIMOS CUATRO ESTADOS PARTES DEL MERCADO COMUN DEL SUR, PUBLICADO EN EL D.O.F. DE 23 DE AGOSTO DE 2007, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el 27 de mayo de 2004.
+Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de las facultades que me confieren los artículos 89, fracción I, y 131 de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o., 4o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de dar continuidad al proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
+Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
 
-Que en el marco del Tratado de Montevideo 1980, los gobiernos de los Estados Unidos Mexicanos, la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay suscribieron el 27 de septiembre de 2002 el Acuerdo de Complementación Económica No. 55 (ACE No. 55);
+Que en el marco del Tratado de Montevideo 1980, los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur (MERCOSUR), suscribieron el 27 de septiembre de 2002 el Acuerdo de Complementación Económica No. 55 (ACE 55), el cual fue publicado en el Diario Oficial de la Federación el 29 de noviembre de 2002;
 
-Que el Acuerdo por el que se da a conocer el ACE No. 55, así como el que da a conocer su entrada en vigor, fueron publicados en el Diario Oficial de la Federación el 29 de noviembre y el 31 de diciembre de 2002, respectivamente;
+Que en los incisos g) y h) del artículo 3o. del ACE 55, relativos a la cobertura del acuerdo, se incluyeron los tractores agrícolas, cosechadoras, maquinaria agrícola y maquinaria vial autopropulsada, así como las autopartes (piezas, conjuntos y subconjuntos, comprendiendo neumáticos);
 
-Que el Decreto para la Aplicación del Apéndice I del ACE No. 55, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, establece las disposiciones aplicables al comercio bilateral en el sector automotor entre los Estados Unidos Mexicanos y la República Argentina;
+Que el Apéndice IV del ACE 55, establece las disposiciones aplicables al comercio bilateral en el sector automotor entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, cuyo Decreto de aplicación fue publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002;
 
-Que el segundo párrafo del artículo 5o. de dicho Acuerdo establece que las Partes Signatarias podrán, en cualquier momento, alterar de común acuerdo las disposiciones en ellos establecidas, así como incorporar en sus ámbitos de aplicación productos automotores listados en el artículo 3o., relativo a la cobertura del Acuerdo;
+Que en el artículo 5o. del ACE 55 se establece que las Partes Signatarias de los Apéndices Bilaterales del Acuerdo, podrán modificar de común acuerdo las disposiciones de los mismos, así como incorporar en sus ámbitos de aplicación productos automotores listados en el artículo 3o. del mismo Acuerdo;
 
-Que de conformidad con la anterior disposición, el 24 de septiembre de 2003, los gobiernos de los Estados Unidos Mexicanos y de la República Argentina suscribieron el Primer Protocolo Adicional al Apéndice I del ACE No. 55, mediante el cual se incluyen productos automotores para que queden comprendidos en la cobertura del Acuerdo e incorporan otras disposiciones al régimen de origen del mencionado Apéndice, y
+Que en el artículo 2o. del Apéndice IV del ACE 55 se establece que en cualquier momento las Partes podrán, de común acuerdo, incluir productos automotores comprendidos en la cobertura del Acuerdo;
 
-Que el 24 de octubre de 2003, el gobierno de la República Argentina notificó a la Secretaría General de la ALADI que, el 30 de septiembre del mismo año, concluyó las formalidades jurídicas necesarias para la aplicación del Primer Protocolo Adicional al Apéndice I del ACE No. 55, he tenido a bien expedir el siguiente
+Que el 24 de junio de 2004, los gobiernos de los Estados Unidos Mexicanos y de la República Oriental del Uruguay, suscribieron el Primer Protocolo Adicional al Apéndice IV sobre el comercio en el sector automotor entre el Uruguay y México del ACE 55, mismo que fue publicado en el Diario Oficial de la Federación el 14 de julio de 2004, mediante el cual se modifica el mencionado Apéndice, y
+
+Que para efectos exclusivamente de otorgar las preferencias pactadas en el Primer Protocolo Adicional al Apéndice IV del Acuerdo de Complementación Económica No. 55, es necesario establecer para su exacta observancia la tabla de equivalencias de la Nomenclatura de la ALADI (NALADISA 2002), con la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, he tenido a bien expedir el siguiente
 
 DECRETO
 
 ###### ARTÍCULO PRIMERO.
 
-Se reforman los artículos primero y segundo del Decreto para la aplicación del Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación del 31 de diciembre de 2002, para quedar como sigue:
+A partir de la entrada en vigor del presente Decreto y hasta el 31 de diciembre de 2005, los Estados Unidos Mexicanos aplicarán un arancel de cero por ciento (0%) ad-valorem, a las importaciones de productos automotores originarios y procedentes de la República Oriental del Uruguay, comprendidos en los numerales I.1 y I.2 del Anexo I del Primer Protocolo Adicional al Apéndice IV sobre el comercio en el sector automotor entre el Uruguay y México del ACE 55, al amparo del cupo anual que se establece en el artículo tercero del referido Apéndice IV, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (4), de la siguiente tabla:
 
-"ARTÍCULO PRIMERO.- A partir de la entrada en vigor del presente Decreto y hasta el 30 de abril de 2006, los Estados Unidos Mexicanos aplicarán un arancel de cero (0) por ciento ad-valorem, a las importaciones de productos automotores originarios y procedentes de la República Argentina, comprendidos en los numerales I.1, I.2 y I.4 del Anexo al Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, al amparo del cupo anual que se establece en el artículo tercero del referido Apéndice I, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (4) de la tabla establecida en el artículo tercero del presente Decreto.
-
-###### ARTÍCULO SEGUNDO.
-
-A partir del 1o. de mayo de 2006, las importaciones de productos automotores originarios y procedentes de la República Argentina, comprendidos en los numerales I.1, I.2 y I.4 del Anexo al Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, en la columna (4) de la tabla establecida en el artículo tercero del presente Decreto, estarán libres de arancel."
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO SEGUNDO.
 
-Se incorporan a la tabla de las fracciones NALADISA 2002, negociadas en el Acuerdo de Complementación Económica No. 55 y sus correspondientes fracciones mexicanas, prevista en el artículo tercero del Decreto para la aplicación del Apéndice I del Acuerdo de Complementación Económica No. 55, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002, los productos automotores que se clasifican en las fracciones NALADISA 2002 y sus correspondientes fracciones mexicanas que a continuación se indican:
+A partir de la entrada en vigor del presente Decreto, los Estados Unidos Mexicanos aplicarán un arancel de cero por ciento (0%) ad-valorem a las importaciones de productos automotores originarios y procedentes de la República Oriental del Uruguay, comprendidos en el numeral I.3 del Anexo I, así como a los comprendidos en el Anexo II, del Primer Protocolo Adicional al Apéndice IV sobre el comercio en el sector automotor entre el Uruguay y México del ACE 55, clasificados en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, listadas en la columna (2), con las acotaciones correspondientes, en su caso, de la columna (4), de la siguiente tabla:
 
-FRACCIÓN FRACCIÓN TEXTO OBSERVACIONES
-
-NALADISA MEXICANA NALADISA
-
-2002
-
-(1) (2) (3) (4)
-
-8702 Vehículos
-
-automóviles
-
-para transporte
-
-de diez o más
-
-personas,
-
-incluido el
-
-conductor
-
-8702.10.00 8702.10.03 Con motor Únicamente aquellos
-
-8702.10.04 émbolo de peso bruto
-
-(pistón), de vehicular hasta de
-
-encendido 8 845 kg. -ocho mil
-
-por ochocientos cuarenta
-
-compresión y cinco kilogramos-,
-
-(Diesel o de hasta 20 asientos
-
-semi-Diesel). incluido el conductor.
-
-8702.90.00 8702.90.04 Los demás Únicamente aquellos
-
-8702.90.05 de peso bruto
-
-vehicular hasta de
-
-8 845 kg. -ocho mil
-
-ochocientos cuarenta
-
-y cinco kilogramos-,
-
-de hasta 20 asientos
-
-incluido el conductor.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO TERCERO.
 
-los cupos anuales de importación que aplicarán los Estados Unidos Mexicanos para efectos del artículo primero del presente Decreto, de conformidad con lo que se establece en el artículo tercero del Apéndice IV del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior. Dicho cupo será publicado mediante acuerdo de la Secretaría de Economía en el Diario Oficial de la Federación.
+los cupos anuales de importación que aplicarán los Estados Unidos Mexicanos para efectos del artículo primero del presente Decreto, de conformidad con lo que se establece en el artículo tercero del Primer Protocolo Adicional al Apéndice IV del ACE 55, se aplicarán a productos que cuenten con certificado de cupo expedido por la Secretaría de Economía, de conformidad con lo dispuesto por la Ley de Comercio Exterior. Dicho cupo será publicado mediante acuerdo de la Secretaría de Economía en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO CUARTO.
 
-La determinación del origen de los productos a que se refiere el presente Decreto, se realizará de conformidad con lo dispuesto en el Anexo II del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y los Estados Miembros del MERCOSUR, publicado el 29 de noviembre de 2002 en el Diario Oficial de la Federación.
+La determinación del origen de los productos a que se refiere el presente Decreto, se realizará de conformidad con lo dispuesto en el Anexo II del ACE 55.
 
 ###### ARTÍCULO QUINTO.
 
-Para las operaciones de importación de los productos contenidos en la tabla del artículo segundo del presente Decreto, el importador deberá presentar a la Aduana, anexo al pedimento de importación conforme al artículo 36 de la Ley Aduanera de los Estados Unidos Mexicanos, la siguiente documentación:
+Para las operaciones de importación de los productos contenidos en la tabla del artículo primero del presente Decreto, el importador deberá presentar a la autoridad aduanera, anexo al pedimento de importación conforme al artículo 36 de la Ley Aduanera mexicana, la siguiente documentación:
 
 a) certificado de cupo ALADI expedido por la Secretaría de Economía, y
 
@@ -133,7 +79,7 @@ b) certificado de origen, de conformidad con lo establecido por el artículo cua
 
 ###### ARTÍCULO SEXTO.
 
-El presente Decreto no exime del cumplimiento de lo dispuesto por la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
+El presente Decreto no exime del cumplimiento de lo dispuesto por la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 1.
 
@@ -283,18 +229,24 @@ Se suprime el arancel-cupo establecido en el artículo 3o. del Decreto por el qu
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Las disposiciones previstas en el ACE No. 55, así como las contenidas en el Primer Protocolo Adicional al Apéndice I del mencionado Acuerdo se aplicarán en su totalidad a los productos automotores que se incorporan conforme al artículo segundo de este Decreto.
+SEGUNDO.- A la entrada en vigor del presente Decreto, se abroga el Decreto para la aplicación del Apéndice IV del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado el 31 de diciembre de 2002 en el Diario Oficial de la Federación.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+TERCERO.- De conformidad con el artículo 20-09 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, los importadores de los productos automotores a que se refiere el artículo segundo de este Decreto que a la fecha de la entrada en vigor del citado Tratado cuenten con un certificado de origen emitido con anterioridad a esa fecha, que cumpla con las disposiciones del Acuerdo de Complementación Económica No. 5 celebrado entre los Estados Unidos Mexicanos y la República Oriental del Uruguay, podrán solicitar la preferencia arancelaria aplicable en el Decreto por el que se establece la tasa aplicable para el 2004 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea, los Estados de la Asociación Europea de Libre Comercio, el Estado de Israel, El Salvador, Guatemala, Honduras, Nicaragua, Colombia, Venezuela y la República Oriental del Uruguay, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2003, siempre que presenten el certificado de origen válido al momento de tramitar el despacho aduanero y dicho despacho se efectúe dentro de un plazo de 30 días contados a partir de la entrada en vigor del Tratado antes mencionado.
+
+CUARTO.- No obstante lo establecido en el artículo segundo transitorio, el cupo anual de importación del periodo 2004 a que se refieren los artículos primero y tercero de este Decreto, se sujetará a lo establecido en el Acuerdo por el que se da a conocer el cupo para importar hasta el 31 de diciembre de 2004, productos automotores nuevos, originarios y provenientes de la República Oriental del Uruguay conforme al Acuerdo de Complementación Económica No. 55 suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro estados partes del Mercado Común del Sur publicado en el Diario Oficial de la Federación el 29 de diciembre de 2003.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
 
-D.O.F. 22 DE AGOSTO DE 2007.
+D.O.F. 23 DE AGOSTO DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del primero de julio de 2007.
 
-TERCERO.- A la entrada en vigor del presente Decreto, se abrogan: 1) el Decreto para la aplicación del Apéndice I del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 31 de diciembre de 2002; 2) el Decreto para la aplicación del Primer Protocolo Adicional al Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre el Mercosur y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 27 de mayo de 2004; 3) el Decreto por el que se modifica el diverso para la aplicación del Primer Protocolo Adicional al Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre el Mercosur y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de septiembre de 2006, y 4) el Decreto para la aplicación del Segundo Protocolo Adicional al Apéndice I, del Acuerdo de Complementación Económica No. 55, suscrito entre el Mercosur y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 1 de junio de 2007, así como cualquier otro que se oponga al presente Decreto.
+TERCERO.- A la entrada en vigor del presente Decreto, se abrogan: 1) el Decreto para la aplicación del Primer Protocolo Adicional al Apéndice IV sobre el comercio en el sector automotor entre el Uruguay y México, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 19 de julio de 2004, y 2) el Decreto que modifica el diverso para la aplicación del Primer Protocolo Adicional al Apéndice IV sobre el comercio en el sector automotor entre Uruguay y México, del Acuerdo de Complementación Económica No. 55, suscrito entre los Estados Unidos Mexicanos y la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay, siendo los últimos cuatro Estados Partes del Mercado Común del Sur, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, respectivamente, así como cualquier otro que se oponga al presente Decreto.
+
+CUARTO.- El cupo anual de importación a que se refieren los ARTÍCULOS PRIMERO y TERCERO de este Decreto, se sujetará a lo establecido en el Acuerdo que para tal efecto publique la Secretaría de Economía.
