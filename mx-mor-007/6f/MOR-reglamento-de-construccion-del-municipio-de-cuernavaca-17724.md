@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-construccion-del-municipio-de-cuernavaca-17724"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-03"
-last_updated: "1999-11-03"
+last_updated: "2001-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE CONSTRUCCION DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de noviembre de 1999.
 
@@ -1511,7 +1511,9 @@ REQUERIMIENTOS GENERALES PARA ESTACIONAMIENTOS. Éste es un lugar de propiedad p
 
 I.- Para otorgar Licencias de Construcción, Ampliación, Adaptación o Modificaciones para estacionamientos en un edificio, ya sea éste para uso privado o de carácter público, será necesario el Dictamen de Uso del Suelo, de conformidad con el presente Reglamento de Construcción y donde se establezcan las condicionantes necesarias. El área destinada a estacionamientos deberá estar comprendida dentro del mismo predio en donde se realice la construcción a la que dará servicio. El Proyecto deberá incluir cajones exclusivos para vehículos de discapacitados considerando un 20% más en el área del cajón y siempre cerca de la entrada o salida de la edificación, así como rampas en banquetas interiores con el 10% máximo de desnivel;
 
-I.1.- Cuando se trate de regularización de un inmueble existente que cambia de uso, se podrá utilizar un predio colindante, cercano ó estacionamiento público, previo análisis y autorización del Comité, siempre y cuando se demuestre ampliamente la imposibilidad de otorgar el servicio dentro de su predio, mediante convenio debidamente protocolizado ante el H. Ayuntamiento.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2001)</small>
+
+I.1.- Cuando se trate de regularización de un inmueble existente que cambia de uso, se podrá utilizar un predio colindante, cercano ó estacionamiento público, previo análisis y autorización del Comité, siempre y cuando se demuestre ampliamente la imposibilidad de otorgar el servicio dentro de su predio.
 
 II.- NÚMERO MÍNIMO DE CAJONES.
 
@@ -4502,3 +4504,11 @@ C. ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 Secretario del H. Ayuntamiento.
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones administrativas que se opongan al presente Acuerdo.
