@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1929-05-19"
+last_updated: "1929-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 1929.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 1929.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -97,6 +97,14 @@ Son Ciudadanos del Estado los individuos nacidos o avecindados en él, teniendo 
 
 La vecindad en el Estado, se adquiere por dos años de residencia contínua en su territorio.
 
+###### Artículo 11º
+
+Son derechos de los habitantes del Estado:
+
+I. Votar en las elecciones populares, siempre que el individuo sea Ciudadano mexicano en ejercicio de sus derechos conforme al título primero de la Constitución General y artículo octavo de esa Constitución.
+
+II. Ser votado en toda elección popular y desempeñar cualquier empleo del Estado, siempre que tenga la edad y condiciones que la Ley exige en cada caso.
+
 ### CAPITULO TERCERO.
 
 DE LOS HABITANTES Y CIUDADANOS DEL ESTADO.
@@ -129,6 +137,10 @@ El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 ### CAPITULO UNICO.
 
+###### Artículo 13º
+
+El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos Poderes en un solo individuo o Corporación, ni depositarse el Legislativo en una persona.
+
 ###### Artículo 14°
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
@@ -143,7 +155,7 @@ DEL PODER LEGISLATIVO.
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
 
-(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929).
+> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
 
 ###### Artículo 15º
 
@@ -257,14 +269,6 @@ En los mismos términos se anunciará al Supremo Tribunal de Justicia en el caso
 
 Los Ayuntamientos al hacer su iniciativa, si lo juzgau (sic) conveniente, designarán su orador a quien con la anticipación de que se habla en el inciso que antecede, se hará saber el día en que dicha iniciativa se discuta, siempre que señale domicilio en la población donde residan los Supremos Poderes del Estado.
 
-###### Artículo 25º
-
-Desechada una iniciativa, no podrá volver a presentarse en el mismo período de sesiones.
-
-###### Artículo 26º
-
-Las iniciativas adquirirán el carácter de ley, cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo. Las leyes son obligatorias en cada Municipio 48 horas después de su publicación en el Periódico Oficial, salvo cuando el Congreso del Estado acuerde que la promulgación de ellas, se haga por decreto especial.
-
 ###### Artículo 25°
 
 Desechada una iniciativa, no podrá volver a presentarse en el mismo período de sesiones.
@@ -277,27 +281,11 @@ Las iniciativas adquirirán el carácter de ley, cuando sean aprobadas por el Co
 
 DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
-###### Artículo 23º
-
-La iniciativa de las leyes corresponde:
-
-I.- A los Diputados.
-
-II.- Al Gobernador.
-
-III.- Al Supremo Tribunal, en lo que se relacione con el ramo de justicia.
-
-IV.- A los Ayuntamientos, en asuntos del ramo Municipal.
-
 ###### Artículo 27°
 
 Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto de ley aprobado por el Congreso, podrá negarle su sanción y remitir las observaciones a este Cuerpo, dentro de cinco días útiles para que tomadas en consideración, se examine de nuevo el asunto. En caso urgente, a juicio del Congreso, el término de que se trata será sólo de tres días y así se comunicará al Ejecutivo. Se reputará aprobado por el Ejecutivo todo proyecto no devuelto con observaciones a la Cámara dentro de los mencionados términos, a no ser que, corriendo éstos, hubiere el Congreso cerrado o suspendido sus sesiones; en el cual caso (sic), la devolución deberá hacerse el primer día hábil en que dicho Cuerpo esté reunido. El proyecto de ley al cual se hubiere hecho observaciones será promulgado desde luego, si el Congreso vuelve a aprobarlo por las dos terceras partes del número total de sus miembros.
 
 Los proyectos de Ley aprobados por el Congreso se comunicarán al Ejecutivo, firmados por el Presidente y los Secretarios.
-
-###### Artículo 28º
-
-La facultad que establece el artículo anterior en favor del Ejecutivo, no podrá comprender las resoluciones que dicte el Congreso como Colegio Electoral o como Jurado.
 
 ### CAPITULO TERCERO.
 
@@ -359,10 +347,6 @@ XXI.- Decretar la expropiación por causa de utilidad pública, en la forma que 
 
 DE LA DIPUTACION PERMANENTE.
 
-###### Artículo 30º
-
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco miembros de aquel Cuerpo como propietarios y de cinco como suplentes, electos en la forma y términos que señale el Reglamento respectivo.
-
 ###### Artículo 30°
 
 Durante el receso del Congreso habrá una Diputación Permanente compuesta de cinco miembros de aquel Cuerpo como propietarios y de cinco como suplentes, electos en la forma y términos que señale el Reglamento respectivo.
@@ -423,85 +407,27 @@ En las faltas temporales y en las absolutas, mientras se verifica la elección y
 
 DEL PODER EJECUTIVO.
 
-###### Artículo 32º
-
-El Poder Ejecutivo se deposita en un individuo que se denominará Gobernador del Estado.
-
-> <small>(REFORMADO [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
-
-###### Artículo 33º
-
-Para ser Gobernador se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos.
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1927)</small>
-
-II.- Tener 35 años cumplidos el día de la elección.
-
-III.- Ser originario del Estado y con domicilio legal en él cuando menos cuatro años antes de la elección.
-
-IV.- No estar en servicio activo en el Ejército Nacional ni en las fuerzas del Estado, cuando menos sesenta días antes de la elección.
-
-V.- No ser Secretario de Gobierno, salvo que se separe del cargo, noventa días antes de la elección.
-
-VI.- No haber sufrido condena alguna impuesta por los Tribunales, que hubiere excedido de un mes de arresto.
-
-###### Artículo 34º
-
-El Gobernador será electo popularmente cada cuatro años y empezará a ejercer sus funciones el primero de diciembre posterior a la elección, protestando éste ante el Congreso del Estado. Nunca podrá ser reelecto.
-
-No podrán ser electos para el período inmediato los Ciudadanos que hayan desempeñado el Poder Ejecutivo como Gobernadores sustitutos; pero en caso de licencia del Gobernador, el Interino podrá ser electo en el período inmediato, siempre que hubiere cesado en sus funciones cuatro meses antes de celebrarse la elección.
-
-###### Artículo 35º
-
-En las faltas absolutas del Gobernador, se procederá a nueva elección y el que resulte electo tomará posesión de su cargo luego que se haga la declaratoria correspondiente.
-
-En las faltas temporales y en las absolutas, mientras se verifica la elección y se presenta el nuevamente electo, entrará en ejercicio del Poder Ejecutivo, interinamente, el C. Diputado a quien designe el Congreso por mayoría absoluta de votos, en escrutinio secreto, y obrando como Colegio Electoral. Si la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñare el Poder Ejecutivo, por designación de la Legislatura, seguirá encargado de él hasta que concluya dicho período.
-
-###### Artículo 36º
-
-Si al comenzar el período constitucional no se presentare el Gobernador o la elección no estuviere hecha ni declarada el primero de diciembre, cesará sin embargo el Gobernador cuyo período hubiere terminado y entonces, así como las faltas repentinas, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el Diputado que dicha Corporación designe si ésta estuviere en funciones; en caso contrario lo será el Presidente de la Diputación Permanente, quien tendrá obligación de convocar en el acto al Congreso a sesiones extraordinarias.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 1929)</small>
-
-###### Artículo 37º
-
-El Gobernador no puede separarse del Territorio del Estado ni del ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; salvo que su ausencia del territorio sea por menos de quince días, pues entonces no se necesitará el permiso, ni se le considerará separado del ejercicio de sus funciones.
-
-###### Artículo 38º
-
-Para el despacho de los negocios del Poder Ejecutivo habrá un Funcionario que se denominará Secretario de Gobierno.
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 1929)</small>
-
-###### Artículo 39º
-
-El Secretario o quien conforme a la Ley haga sus veces, autorizará con su firma las disposiciones y decretos que el Gobernador diere o promulgare en uso de sus facultades; sin ese requisito no tendrá fuerza legal.
-
-El individuo que desempeñe el cargo de Secretario de Gobierno, deberá ser ciudadano y vecino del Estado; y en caso de que el ciudadano Gobernador se ausente por menos de quince días, de acuerdo con el artículo 37, hará sus veces, en la inteligencia de que solo queda autorizado para resolver asuntos de mero trámite, para rendir los informes previos y con justificación en los casos de amparo contra actos del Poder Ejecutivo, para asistir a las audiencias relacionadas con dichos amparos y para ordenar el pago de las nóminas de funcionarios y empleados con sujeción al Presupuesto de Egresos respectivo.
-
-###### Artículo 40º
-
-Las Autoridades subalternas que dependan del Gobernador y sus facultades, son la (sic) que determina la ley.
-
 ###### Artículo 36°
 
 Si al comenzar el período constitucional no se presentare el Gobernador o la elección no estuviere hecha ni declarada el primero de diciembre, cesará sin embargo el Gobernador cuyo período hubiere terminado y entonces, así como las faltas repentinas, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el Diputado que dicha Corporación designe si ésta estuviere en funciones; en caso contrario lo será el Presidente de la Diputación Permanente, quien tendrá obligación de convocar en el acto al Congreso a sesiones extraordinarias.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1929)</small>
+
 ###### Artículo 37°
 
-El Gobernador no puede separarse del territorio del Estado ni del ejercicio de sus funciones sino con permiso del Congreso o de la Diputación Permanente; salvo que su ausencia del territorio sea por menos de cuarenta y ocho horas, pues entonces no se necesitará el permiso ni se le considerará separado del ejercicio de sus funciones.
+El Gobernador no puede separarse del Territorio del Estado ni del ejercicio de sus funciones, sino con permiso del Congreso o de la Diputación Permanente; salvo que su ausencia del territorio sea por menos de quince días, pues entonces no se necesitará el permiso, ni se le considerará separado del ejercicio de sus funciones.
 
 ###### Artículo 38°
 
 Para el despacho de los negocios del Poder Ejecutivo habrá un Funcionario que se denominará Secretario de Gobierno.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 1929)</small>
+
 ###### Artículo 39°
 
-El Secretaria (sic) o quien conforme a la Ley haga sus veces, autorizará con su firma las disposiciones y decretos que el Gobernador diere o promulgare en uso de sus facultades; sin ese requisito no tendrán fuerza legal.
+El Secretario o quien conforme a la Ley haga sus veces, autorizará con su firma las disposiciones y decretos que el Gobernador diere o promulgare en uso de sus facultades; sin ese requisito no tendrá fuerza legal.
 
-El individuo que desempeñe el cargo de Secretario de Gobierno, deberá ser ciudadano y vecino del Estado.
+El individuo que desempeñe el cargo de Secretario de Gobierno, deberá ser ciudadano y vecino del Estado; y en caso de que el ciudadano Gobernador se ausente por menos de quince días, de acuerdo con el artículo 37, hará sus veces, en la inteligencia de que solo queda autorizado para resolver asuntos de mero trámite, para rendir los informes previos y con justificación en los casos de amparo contra actos del Poder Ejecutivo, para asistir a las audiencias relacionadas con dichos amparos y para ordenar el pago de las nóminas de funcionarios y empleados con sujeción al Presupuesto de Egresos respectivo.
 
 ###### Artículo 40°
 
@@ -593,77 +519,17 @@ III.- Tener treinta años cumplidos de edad, el día de la elección, estar en p
 
 DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR.
 
-###### Artículo 41º
-
-Son facultades y obligaciones del Gobernador:
-
-I.- Promulgar, publicar, ejecutar y hacer que se ejecuten las leyes, haciendo uso en su caso de la facultad que le concede el artículo 26.
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1919)</small>
-
-II.- Presentar al Congreso cada año, al día siguiente de la apertura del primer período de sesiones ordinarias, un informe, por escrito, sobre el estado que guarden los diversos ramos de la Administración Pública, y dentro de los primeros diez días del mismo periodo, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, para el siguiente ejercicio fiscal.
-
-III.- Asistir a la apertura del primer período de sesiones del Congreso y presentar por escrito cuando se abra un período de sesiones extraordinarias promovido por él, las razones o causas que hicieron necesaria la convocatoria.
-
-IV.- Dar y pedir informes al Congreso sobre cualquier ramo de la Administración y al Tribunal, sobre el de Justicia.
-
-V.- Reconocer, cuando se hubiere dividido en varios grupos la Legislatura a aquel que tenga cuorom (sic) legal conforme a esta Constitución.
-
-VI.- Reasumir facultades extraordinarias cuando por graves trastornos del orden público, no se pudiere reunir el Congreso, a quien dará cuenta inmediatamente que se reuna, de lo que hiciere para su aprobación o reprobación.
-
-VII.- Celebrar convenios sobre límites con los Estados vecinos con el requisito establecido en la fracción XIV del artículo 29.
-
-VIII.- Formar los reglamentos necesarios para el buen despacho de la Administración Pública, salvo cuando el Congreso se reserve la facultad de expedir los reglamentos de determinadas leyes.
-
-IX.- Nombrar y remover al Secretario de Gobierno, al Tesorero General del Estado y a los Funcionarios y Empleados cuyo nombramiento o remoción no corresponda conforme a la Ley a otra autoridad, dando cuenta al Congreso con tales nombramientos, suspensiones o remociones.
-
-X.- Suspender a los Munícipes cuando no cumplan con su deber, o cuando se hicieren indignos del cargo que desempeñan, dando cuenta inmediatamente al Congreso o a la Diputación Permanente, en su caso.
-
-XI.- Cuidar de la recaudación e inversión de los caudales con arreglo a las leyes.
-
-XII.- Cuidar de la conservación del orden público, disponiendo al efecto de las fuerzas armadas del Estado y del Municipio donde residan habitual o transitoriamente.
-
-XIII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
-
-> <small>(REFORMADA [N. DE E. POR DECRETO NÚMERO 160], P.O. 24 DE MARZO DE 1929)</small>
-
-XIV.- Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de Funcionarios y empleados públicos que gocen de fuero.
-
-XV.- Conceder indultos y reducción de penas en los términos que lo prescriban las leyes respectivas.
-
 ###### Artículo 48°
 
 Los Magistrados serán electos por el Congreso en funciones de Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto.
 
 Durarán en su encargo el tiempo que la ley señale, pero desde el año de mil novecientos veintitrés los Magistrados y los Jueces de Primera Instancia sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo, o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo, que calificará quién hubiere hecho el nombramiento.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1929)</small>
+
 ###### Artículo 49°
 
-Los Jueces de Primera Instancia y Menores serán nombrados por el Supremo Tribunal de Justicia en los términos de la ley- Los Alcaldes serán de elección popular.
-
-###### Artículo 50º
-
-Para ser Juez de Primera Instancia, se necesita ser abogado con título oficial no expedido a título de suficiencia ni por decreto especial, y si fuere propietario una práctica de tres años cuando menos.
-
-###### Artículo 51º
-
-La Ley organizará los Tribunales y Ministerio Público, así como lo relativo a Jurados.
-
-###### Artículo 52º
-
-Corresponde exclusivamente al Tribunal de Justicia:
-
-I.- Formar su Reglamento Interior.
-
-II.- Nombrar Jueces de Primera Instancia y Menores y permitir que se proceda criminalmente contra de ellos.
-
-III.- Conocer de los procesos, en la forma de que después se hablará, que por delitos oficiales se animen contra el Gobernador, los Diputados, el Secretario de Gobierno, el Procurador de Justicia y los Munícipes.
-
-IV.- Conceder licencias a las (sic) Jueces y Alcaldes y admitir las renuncias de los mismos.
-
-V.- Conceder licencia hasta por dos meses, a los Magistrados para que se separen del ejercicio de sus funciones y llamar a los suplentes respectivos por el orden numérico que les corresponda.
-
-VI.- Nombrar y remover, en la forma que determinen las leyes, a los demás empleados subalternos del Poder Judicial.
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en los términos de la Ley; los Jueces Menores y Alcaldes Constitucionales, serán también nombrados por el mismo Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo del Estado.
 
 ###### Artículo 50°
 
@@ -673,55 +539,9 @@ Para ser Juez de Primera Instancia, se necesita ser abogado con título oficial 
 
 DE LA ADMINISTRACION MUNICIPAL.
 
-###### Artículo 42º
-
-La Administración Municipal se ejerce por los Ayuntamientos que residirán en las Cabeceras de los Municipios.
-
-###### Artículo 43º
-
-Los miembros de los Ayuntamientos serán vecinos del Estado y electos popularmente, debiendo tener domicilio legal en el Municipio en que hubieren de funcionar, por lo menos seis meses antes de la elección. Los Ayuntamientos, a partir de las elecciones que deban verificarse en mil novecientos dieciocho, se renovarán por mitad cada año, comenzando por los miembros que tengan número impar.
-
-En el presente año la elección se verificará de acuerdo con la ley vigente.
-
-Las renuncias y las licencias de los Munícipes se admitirán y concederán por los respectivos Ayuntamientos.
-
-###### Artículo 44º
-
-Las atribuciones y las facultades de los Ayuntamientos, así como el número de individuos de que los forman, se determinarán en las leyes.
-
-Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que en cantidad suficiente les señale la Legislatura del Estado.
-
-Los Municipios tienen personalidad Jurídica para todos los efectos legales.
-
-Su superior inmediato gerárquico (sic) será el Gobernador, con quien se comunicarán sin ningún intermediario.
-
 ### CAPITULO UNICO.
 
 DEL PODER JUDICIAL.
-
-###### Artículo 45º
-
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de primera instancia, Jueces Menores, Alcaldes y Jurados.
-
-###### Artículo 46º
-
-El Supremo Tribunal de Justicia funcionará en acuerdo pleno o en Salas que se formarán en los términos que prescriba la Ley.
-
-###### Artículo 47º
-
-Para ser Magistrado se requiere:
-
-I.- Ser Mexicano por nacimiento, domiciliado legalmente en el Estado, cuando menos seis meses antes del día de la elección.
-
-II.- Ser abogado con título oficial, no obteniendo a título de suficiencia, ni por decreto especial y tener cuando menos cuatro años de práctica forence (sic) reconocida.
-
-III.- Tener treinta años cumplidos de edad, el día de la elección, estar en pleno ejercicio de sus derechos políticos y civiles, y haber observado una buena conducta pública y notoria.
-
-###### Artículo 48º
-
-Los Magistrados serán electos por el Congreso en funciones de Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto.
-
-Durarán en su encargo el tiempo que la ley señale, pero desde el año de mil novecientos veintitrés los Magistrados y los Jueces de Primera Instancia sólo podrán ser removidos de sus cargos cuando observen mala conducta, previo el juicio de responsabilidad respectivo, o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud para el desempeño del mismo cargo, que calificará quién hubiere hecho el nombramiento.
 
 ###### Artículo 51°
 
@@ -795,20 +615,6 @@ Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas o
 
 PREVENCIONES GENERALES.
 
-###### Artículo 64º
-
-Los Supremos Poderes deben residir en la Capital del Estado y no podrán trasladarse ni aún provisionalmente sino por acuerdo de las dos terceras partes del número total de Diputados.
-
-###### Artículo 65º
-
-Toda elección popular será directa en los términos de la ley, exceptuando las que haga el Congreso para suplir al Gobernador en sus faltas temporales o absolutas y para designar los Magistrados al Supremo Tribunal de Justicia.
-
-###### Artículo 66º
-
-Nadie puede ejercer, a la vez, dos o más cargos de elección popular; pero el individuo electo deberá obtar (sic) por alguno de ellos.
-
-Los ciudadanos que hubieren sido electos Diputados o Munícipes y no se presentaren al desempeño de su encargo, treinta días después del día en que el Congreso o el Ayuntamiento empezaren sus labores, se considerará por este solo hecho renunciado el respectivo cargo.
-
 ###### Artículo 64°
 
 Los Supremos Poderes deben residir en la Capital del Estado y no podrán trasladarse ni aún provisionalmente sino por acuerdo de las dos terceras partes del número total de Diputados.
@@ -831,22 +637,6 @@ Los Diputados propietarios y los suplentes en ejercicio, durante el período de 
 
 Los Magistrados propietarios y los Jueces no podrán, en ningún caso, ejercer la abogacía sino en causa propia, ni aceptar y desempeñar empleo o cargo de la Federación, del Estado o particulares, salvo los cargos honoríficos en Asociaciones Científicas, Literarias, (sic) Instrucción o de Beneficencia. La infracción de esta disposición será castigada con la pérdida del carácter de Magistrado.
 
-###### Artículo 68º
-
-Los cargos de elección popular directa son preferentes a los nombramientos y renunciables solamente por causa grave que calificará la Corporación o el Funcionario a quien toque conocer de las renuncias. Los demás cargos serán aceptables voluntariamente.
-
-###### Artículo 69º
-
-Los Funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponde, solo durarán en sus funciones el tiempo que les falte para cumplir dicho período.
-
-###### Artículo 70º
-
-Cuando por circunstancias imprevistas no pudieren instalarse el Congreso o el Supremo Tribunal de Justicia, ni el Gobernador tomar posesión de su cargo el día fijado por esta Constitución, lo harán luego que sea posible.
-
-###### Artículo 71º
-
-Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto alguno que no conste en los Presupuestos o que sean aprobados por el Congreso. La infracción de este artículo hace responsables tanto a las Autoridades que la manden como a los empleados que la obedezcan.
-
 ###### Artículo 68°
 
 Los cargos de elección popular directa son preferentes a los nombramientos y renunciables solamente por causa grave que calificará la Corporación o el Funcionario a quien toque conocer de las renuncias. Los demás cargos serán aceptables voluntariamente.
@@ -867,14 +657,6 @@ Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto algun
 
 DE LAS REFORMAS A ESTA CONSTITUCION.
 
-###### Artículo 72º
-
-Esta Constitución sólo podrá reformarse con los requisitos siguientes:
-
-I.- Iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos para su discusión, y si del cómputo efectuado por la Cámara de los votos individuales y no por cuerpos, resultare que hay mayoría en favor de la reforma, se declarará parte de esta Constitución.
-
-II.- Si transcurrieren quince días sin que los Ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan la reforma.
-
 ###### Artículo 72°
 
 Esta Constitución sólo podrá reformarse con los requisitos siguientes:
@@ -887,10 +669,6 @@ II.- Si transcurrieren quince días sin que los Ayuntamientos remitieren al Cong
 
 DE LA INVIOLABILIDAD DE ESTA CONSTITUCION.
 
-###### Artículo 73º
-
-Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia. Si se estableciere un Gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad, volverá a ser acatada y con sujeción a la misma y a las leyes que diere origen, serán juzgados los que la hubieren infringido.
-
 ###### Artículo 73°
 
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia. Si se estableciere un Gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad, volverá a ser acatada y con sujeción a la misma y a las leyes que diere origen, serán juzgados los que la hubieren infringido.
@@ -898,52 +676,6 @@ Esta Constitución conservará su vigor aunque un trastorno público interrumpa 
 ### CAPITULO PRIMERO.
 
 DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS.
-
-###### Artículo 53º
-
-Todo Funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurra en el ejercicio del mismo; pero el Gobernador sólo podrá ser acusado por violación expresa de esta Constitución, ataque a la libertad electoral y delitos graves del orden común.
-
-###### Artículo 54º
-
-Se concede acción popular para exigir la responsabilidad de los Funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
-
-###### Artículo 55º
-
-Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados, el Secretario de Gobierno, el Jefe del Ministerio Público y los Munícipes, el Congreso erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo, el acusado quedará por el mismo hecho separado de su cargo y sujeto a la acción de los Tribunales Comunes.
-
-###### Artículo 56º
-
-De los delitos y faltas oficiales en que incurran los Funcionarios a que se refiere el artículo anterior, exceptuando los Magistrados, conocerán el Congreso como Jurado de acusación y el Supremo Tribunal de Justicia, en acuerdo pleno, como Jurado de sentencia.
-
-El Jurado de acusación declarará a mayoría absoluta de votos, si el acusado es o nó culpable, oyéndolo previamente en defensa. Si la declaración fuere absolutoria, el Funcionario continuará en el desempeño de su cargo. Si fuere condenatoria, quedará inmediatamente separado de dicho cargo y será consignado al Supremo Tribunal de Justicia. Este, erigido en Jurado de sentencia, oyendo al acusador si lo hubiere, al Jefe del Ministerio Público y al reo, por sí o por medio de su defensor, aplicará a mayoría absoluta de votos la pena que la ley designe.
-
-###### Artículo 57º
-
-Si hubiere de formarse causa por delitos oficiales a los Magistrados del Supremo Tribunal de Justicia, se iniciará y concluirá ante el Congreso quien resolverá, como Jurado de acusación y de sentencia, observándose lo dispuesto en el artículo anterior.
-
-###### Artículo 58º
-
-Contra los Funcionarios Públicos de que habla el artículo cincuenta y dos, fracción tercera, sólo podrá procederse por responsabilidades comunes u oficiales previo el permiso correspondiente; quedando por esto separados del ejercicio de sus funciones y sometidos a los Jueces ordinarios.
-
-###### Artículo 59º
-
-La declaración de haber lugar a formación de causa o el permiso para proceder a que se refiere el artículo cincuenta y dos fracción III de esta Constitución, se requieren en cuanto a los Funcionarios de elección popular, desde la fecha en que sean electos y en los demás casos, desde que entren en ejercicio de su encargo, aún por delitos cometidos con anterioridad.
-
-###### Artículo 60º
-
-A excepción del Gobernador, todo Funcionario o empleado público que esté separado del ejercicio de su encargo, no goza de fuero constitucional que por razón de éste le pertenecería.
-
-###### Artículo 61º
-
-La responsabilidad por delitos y faltas oficiales de Funcionarios o Empleados públicos que gocen de fuero constitucional, sólo podrán exigirse durante el ejercicio del cargo y en un año después.
-
-###### Artículo 62º
-
-En juicios del orden civil no hay fuero ni inmunidad.
-
-###### Artículo 63º
-
-Pronunciada una sentencia condenatoria de responsabilidad por delitos y faltas oficiales no puede concederse al reo la gracia de indulto.
 
 ## ARTICULOS TRANSITORIOS.
 
@@ -1018,5 +750,11 @@ El presente decreto surtirá sus efectos desde la fecha de su publicación en el
 P.O. 19 DE MAYO DE 1929.
 
 ###### Artículo 3°.
+
+El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 18 DE AGOSTO DE 1929.
+
+###### Artículo 3o.
 
 El presente decreto surtirá sus efectos desde la fecha de su expedición.
