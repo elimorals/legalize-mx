@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "1940-10-30"
+last_updated: "1953-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1953.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -393,6 +393,16 @@ CERTIFICACIONFS (sic)
 
 8.- Se exceptúan del requisito señalado en el Inciso anterior, los certificados que soliciten las autoridades Judiciales Federales o del Estado, por conducto del C. Gobernador, los cuales aparte de no causar los derechos correspondientes, serán extendidos en papel timbrado de la Oficina del Registro Civil respectiva.
 
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 1953)</small>
+
+VIII.
+
+LEGALIZACION DE FIRMAS
+
+1.- Por ratificación de firmas en documentos privados, presentados ante los Oficiales del Registro Civil, en los términos que autoriza el artículo 2166, reformado, del Código Civil vigente en el Estado por cada documento presentado en horas ordinarias.......................$ 5.00
+
+2.- Por ratificación de firmas en documentos privados presentados ante los Oficiales del Registro Civil en los términos que autoriza el artículo 2166 del Código Civil reformado, por cada documento presentado en horas extraordinarias .............................................$ 10.00
+
 ###### Art. 19.
 
 Los Colectores de Rentas del Estado, con sujeción a las instrucciones periódicas que reciban del Ejecutivo, podrán, en los casos de pobreza notoria, condonar los derechos correspondientes al registro de nacimiento. En todos los demás actos ninguna autoridad podrá condonar el pago de los derechos que los interesados deberán cubrir precisamente como retribución del servicio prestado.
@@ -522,6 +532,8 @@ Inmediatamente después de concluido el acto que se expresa en el artículo ante
 Para los actos de matrimonio será necesario presentar por duplicado, al Oficial del Registro Civil, una solicitud. Las Oficinas del Registro Civil tendrán por cuenta del Estado esqueletos de estas solicitudes, que proporcionarán a los interesados sin costo alguno.
 
 ### CAPITULO V. DE LAS ACTAS DE DEFUNCIONES
+
+AArt. 46.- Las actas de fallecimiento se inscribirán en el libro respectivo, asentándose los datos del certificado de defunción o los que el Oficial del Registro Civil adquiera, según el tenor de la declaración o declaraciones que se le hagan, y las cuales deberán ser firmadas por dos testigos, cuando en el lugar no haya facultativo titulado que certifique la defunción.
 
 ### CAPITULO VI.. DE LOS CEMENTERIO, (SIC) DE LAS INHUMACIONES Y DE LAS EXHUMACIONES
 
@@ -818,3 +830,9 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- C. Victoria, Tamps., agosto 6 de 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los trece días del mes de septiembre de mil novecientos cuarenta.- Ing. Marte R. Gómez.- P. A. del Srio. Gral. de Gobierno, el Oficial Mayor, Arsenio Saeb.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE MARZO DE 1953.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
