@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1953-12-31"
+last_updated: "1954-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1954.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -79,7 +79,7 @@ Compete exclusivamente a la Secretaría de Hacienda y Crédito Público, la adop
 
 Queda prohibido el uso de la palabra "nacional" en la denominación de las instituciones de seguros que no sean de las comprendidas en este artículo.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1954)</small>
 
 ###### ARTICULO 3°.
 
@@ -1313,7 +1313,7 @@ La infracción a lo dispuesto en los párrafos anteriores así como la consignac
 
 ### CAPITULO II. De los procedimientos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1954)</small>
 
 ###### ARTICULO 106.
 
@@ -1673,11 +1673,13 @@ Lo dispuesto en este artículo aprovechará a las instituciones, a sus agentes y
 
 ###### ARTICULO 135.
 
-En caso de reclamación de un asegurado o beneficiario contra una institución de seguros, con motivo del contrato de seguro, deberán observarse las siguientes reglas:
+En caso de reclamación contra una institución de seguros, con motivo del contrato de seguros, deberán observarse las siguientes reglas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 I.- El reclamante deberá ocurrir ante la Comisión Nacional de Seguros, la que pedirá un informe detallado a la Institución contra la que se hubiere presentado reclamación;
 
-> <small>(F. DE E., D.O.F. 25 DE FEBRERO DE 1954)</small>
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 25 DE FEBRERO DE 1954)
 
 II.- La Comisión Nacional de Seguros citará a las partes a una junta en la que las exhortará para que, voluntariamente y de común acuerdo, la designen árbitro. El compromiso arbitral se hará constar en acta ante la citada Comisión.
 
@@ -1691,7 +1693,11 @@ El laudo arbitral no admitirá más recurso o medio de defensa que el juicio de 
 
 El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de quince días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer de las inversiones de las reservas técnicas de la Institución.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
+
 III.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional de Seguros, ésta citará a una junta de avenencia para el arreglo de las dificultades surgidas. Si en el procedimiento conciliatorio no fuere posible terminar la controversia, las partes podrán ocurrir ante los tribunales competentes. El procedimiento conciliatorio no durará más de treinta días hábiles, a no ser que las partes de común acuerdo soliciten que continúe por mayor tiempo. El plazo de treinta días, se computará a partir de la fecha en que las partes se nieguen a designar árbitro a la Comisión Nacional de Seguros en la junta respectiva; y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 IV.- Cuando la Comisión no hubiere sido designada árbitro, podrá investigar administrativamente el fondo de la reclamación, aún durante el procedimiento judicial, a fin de ordenar la constitución e inversión de la reserva para obligaciones pendientes de cumplir, cuando a su juicio presuma que la Institución está obligada a cubrir las prestaciones que se le reclaman.
 
@@ -1809,7 +1815,17 @@ Las instituciones de seguros que a la fecha de la expedición de esta ley, tenga
 
 ###### ARTICULO 2°.
 
-Se concede un plazo de seis meses contados a partir de la vigencia de esta ley, para que las instituciones nacionales, mexicanas y sucursales de instituciones extranjeras de seguros obtengan en los términos de esta ley, nuevas autorizaciones para operar. Este término puede ser ampliado por tres meses más, a juicio de la Secretaría de Hacienda y Crédito Público, tomando en cuenta las condiciones especiales de cada caso.
+bis.- Son Organizaciones Auxiliares de Seguros los Consorcios formados por instituciones de seguros autorizadas con objeto de prestar a cierto sector de la actividad económica un servicio de seguros de manera sistemática, a nombre y por cuenta de dichas instituciones aseguradoras, o celebrar en representación de las mismas los contratos de reaseguro o coaseguro necesarios para la mejor distribución de los riesgos.
+
+Para la constitución de los consorcios y el ejercicio de sus operaciones se requiere autorización previa que se otorgará a juicio del Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público.
+
+Los Consorcios tendrán por único objeto actuar como Instituciones Auxiliares de Seguros en los términos del primer párrafo de este artículo y quedarán sometidos a la inspección y vigilancia de la Secretaría de Hacienda y Crédito Público.
+
+Los Consorcios y sus operaciones se regirán por los preceptos de esta Ley que les sean aplicables, o en su caso, por las disposiciones reglamentarias que expida el Ejecutivo Federal.
+
+Los Consorcios tendrán personalidad jurídica para actuar conforme a este artículo y las instituciones de seguros que los construyen se obligarán en los términos y proporciones que pacten.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1952)</small>
 
 ###### ARTICULO 3°.
 
@@ -1889,7 +1905,7 @@ La presente ley entrará en vigor a los tres meses de su publicación en el "Dia
 
 ###### ARTICULO 2°.
 
-Los procedimientos de quiebras, de liquidación judicial y de suspensión de pagos que estén en tramitación en la fecha de la publicación de la presente ley, si no quedasen concluidos en los dos meses siguientes a dicha fecha, suspenderán su tramitación y los jueces competentes tomarán las medidas necesarias en el transcurso del mes siguiente para que a la entrada en vigor de esta ley, continúen su tramitación con arreglo a la misma.
+Se concede un plazo de seis meses contados a partir de la vigencia de esta ley, para que las instituciones nacionales, mexicanas y sucursales de instituciones extranjeras de seguros obtengan en los términos de esta ley, nuevas autorizaciones para operar. Este término puede ser ampliado por tres meses más, a juicio de la Secretaría de Hacienda y Crédito Público, tomando en cuenta las condiciones especiales de cada caso.
 
 ###### ARTICULO 3°.
 
@@ -1965,6 +1981,10 @@ Si no se presenta oportunamente ese plan, las instituciones omisas tendrán año
 
 D.O.F. 31 DE DICIEMBRE DE 1953.
 
+###### ARTICULO 2°.
+
+Los procedimientos de quiebras, de liquidación judicial y de suspensión de pagos que estén en tramitación en la fecha de la publicación de la presente ley, si no quedasen concluidos en los dos meses siguientes a dicha fecha, suspenderán su tramitación y los jueces competentes tomarán las medidas necesarias en el transcurso del mes siguiente para que a la entrada en vigor de esta ley, continúen su tramitación con arreglo a la misma.
+
 ###### ARTICULO 1o.
 
 Estas reformas entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
@@ -1982,3 +2002,9 @@ Quedan exceptuados de la limitación relativa al tipo de interés establecido en
 Las reclamaciones de seguros que se encuentren pendientes en la Comisión Nacional de Seguros y en la Secretaría de Hacienda y Crédito Público, se ajustarán para su resolución a los términos de estas reformas; y en esa virtud e independientemente de que se remitan a la Comisión las reclamaciones que estén pendientes en la Secretaría, la Comisión procederá en todas y cada una de ellas, siempre que la aseguradora hubiese rendido su informe respectivo, a citar a los interesados a una junta en que la designen árbitro.
 
 Si no se obtuviere la conformidad de los interesados y ya se hubiere celebrado la junta de avenencia, la Comisión declarará agotado el procedimiento conciliatorio y los interesados quedarán en posibilidad de acudir a ejercitar sus derechos ante las autoridades judiciales respectivas. En los demás casos, las reclamaciones se tramitarán conforme a lo establecido en estas reformas.
+
+D.O.F. 28 DE DICIEMBRE DE 1954.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a partir del día de su publicación en el "Diario Oficial" de la Federación.
