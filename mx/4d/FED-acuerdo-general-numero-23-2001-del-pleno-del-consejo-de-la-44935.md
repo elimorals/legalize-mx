@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-04-25"
+last_updated: "2001-06-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -197,7 +197,9 @@ XI.- DECIMOPRIMER CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Morelia.
 
-3.- Siete juzgados de distrito en el Estado de Michoacán: cuatro con residencia en Morelia y tres con sede en Uruapan.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+3.- Ocho juzgados de distrito en el Estado de Michoacán: cuatro con residencia en Morelia y cuatro con sede en Uruapan.
 
 XII.- DECIMOSEGUNDO CIRCUITO:
 
@@ -239,7 +241,9 @@ XVI.- DECIMOSEXTO CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Guanajuato.
 
-3.- Seis juzgados de distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, dos con sede en León y dos con residencia en Celaya.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 33/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+3.- Siete juzgados de distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, tres con sede en León y dos con residencia en Celaya.
 
 XVII.- DECIMOSEPTIMO CIRCUITO:
 
@@ -303,7 +307,9 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 XXIV.- VIGESIMO CUARTO CIRCUITO:
 
-1.- Un tribunal colegiado con residencia en Tepic.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 35/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+1.- Dos tribunales colegiados con residencia en Tepic.
 
 2.- Un tribunal unitario con sede en Tepic.
 
@@ -610,3 +616,29 @@ QUINTO.- El Pleno del Consejo de la Judicatura Federal, fijará las fechas de in
 SEXTO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el propio Pleno, en sesión extraordinaria de dieciséis de abril de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dieciséis de abril de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+ACUERDO 33/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO XVI.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+ACUERDO 34/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, NÚMERO 3, APARTADO XI.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+ACUERDO 35/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, NÚMERO 1, APARTADO XXIV.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
