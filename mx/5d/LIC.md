@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2003-06-13"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1240,9 +1240,21 @@ Las instituciones de crédito estarán obligadas a canjear los billetes y moneda
 
 Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
 
-###### ARTICULO 49.
+> <small>(REFORMADO [N. DE ADICIONADO], D.O.F. 28 DE ENERO DE 2004)</small>
 
-(DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
+###### Artículo 49.
+
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, las instituciones de crédito o las sociedades a que se refiere la fracción IV del artículo 103 de esta Ley, podrán solicitar al Banco de México se evalúe si existen o no condiciones razonables de competencia en materia de comisiones o tarifas, respecto de operaciones activas, pasivas y de servicios de las citadas entidades financieras.
+
+Al efecto, el Banco de México podrá también actuar de oficio, y deberá solicitar en un plazo no mayor a 60 días naturales la opinión de la Comisión Federal de Competencia para que ésta, en términos de la Ley que la rige, determine entre otros aspectos, si existe o no competencia efectiva y los mercados relevantes respectivos.
+
+Con base en la opinión de la citada comisión, el Banco de México, en su caso, tomará las medidas regulatorias pertinentes, las que se mantendrán sólo mientras subsistan las condiciones que las motivaran. En la regulación, Banco de México establecerá las bases para la determinación de dichas comisiones y tarifas, así como mecanismos de ajuste y periodos de vigencia.
+
+El Banco de México o las entidades sujetas a dicha regulación, podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la subsistencia de las condiciones que motivaron la regulación.
+
+Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones que infrinjan lo dispuesto en este artículo.
+
+Lo dispuesto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de esta Ley, así como las previstas en la Ley de Banco de México respecto a comisiones y tarifas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2001)</small>
 
@@ -2382,25 +2394,65 @@ Los consejeros, funcionarios o empleados de las instituciones de crédito que, c
 
 En los casos previstos en los artículos 111 al 114 de esta ley, se procederá a petición de la Secretaría de Hacienda y Crédito Público, quien escuchará la opinión de la Comisión Nacional Bancaria y de Valores; también se procederá a petición de la institución de crédito de que se trate, o de quien tenga interés jurídico.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
-
 Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
 
-La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y de Valores, dictará disposiciones de carácter general que tengan como finalidad establecer medidas y procedimientos para prevenir y detectar en las instituciones de crédito y sociedades financieras de objeto limitado, actos u operaciones que puedan ubicarse en los supuestos del artículo 400 bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, incluyendo la obligación de dichas instituciones y sociedades de presentar a esa Secretaría, por conducto de la citada Comisión reportes sobre las operaciones y servicios que realicen con sus clientes y usuarios, por los montos y en los supuestos que en dichas disposiciones de carácter general se establezcan.
+Las instituciones de crédito y sociedades financieras de objeto limitado, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión del delito previsto en el artículo 139 del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y
 
-Dichas disposiciones deberán considerar entre otros aspectos, criterios para la adecuada identificación de los clientes y usuarios de las operaciones y servicios de la instituciones y sociedades mencionadas, que consideren sus condiciones específicas y actividad económica o profesional; los montos, frecuencia, tipos y naturaleza de las operaciones y los instrumentos monetarios con que las realicen y su relación con las actividades de los clientes o usuarios; las plazas que operen y las prácticas comerciales y bancarias que priven en las mismas; la debida y oportuna capacitación de su personal; y medidas específicas de seguridad en el manejo de las operaciones de las propias instituciones y sociedades. El cumplimiento de la obligación de presentar reportes previstos en tales disposiciones no implicará transgresión a lo establecido en los artículos 117 y 118 de esta ley.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre:
 
-Las disposiciones señaladas deberán ser observadas oportunamente por los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los citados intermediarios; la violación de las mismas será sancionada por la Comisión Nacional Bancaria y de Valores con multa equivalente del 10 al 100% del acto u operación de que se trate.
+a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
+b. Todo acto, operación o servicio, que realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas.
 
-Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, como los miembros de los consejos de administración, comisarios, auditores externos, funcionarios y empleados de los intermediarios financieros a que se refiere este artículo, deberán abstenerse de dar noticia o información de las operaciones previstas en el mismo a personas, dependencias o entidades, distintas de las autoridades competentes expresamente previstas. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bancarias que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que las instituciones de crédito y sociedades financieras de objeto limitado deberán observar respecto de:
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
+b. La información y documentación que dichas instituciones y sociedades deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
+
+c. La forma en que las mismas instituciones y sociedades deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+d. Los términos para proporcionar capacitación al interior de las instituciones y sociedades sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+Las instituciones de crédito y sociedades financieras de objeto limitado deberán conservar, por al menos diez años, la información y documentación a que se refiere el inciso c) del párrafo anterior, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La Secretaría de Hacienda y Crédito Público estará facultada para requerir y recabar, por conducto de la Comisión Nacional Bancaria y de Valores, a las instituciones de crédito y sociedades financieras de objeto limitado, quienes estarán obligadas a entregar información y documentación relacionada con los actos, operaciones y servicios a que se refiere este artículo. La Secretaría de Hacienda y Crédito Público estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a lo establecido en los artículos 117 y 118 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las disposiciones de carácter general a que se refiere este artículo deberán ser observadas por las instituciones de crédito y sociedades financieras de objeto limitado, así como por los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados respectivos, por lo cual, tanto las entidades como las personas mencionadas serán responsables del estricto cumplimiento de las obligaciones que mediante dichas disposiciones se establezcan.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión Nacional Bancaria y de Valores conforme al procedimiento previsto en el artículo 110 de la presente Ley, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Las mencionadas multas podrán ser impuestas, tanto a las instituciones de crédito y sociedades financieras de objeto limitado, así como a los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados respectivos, y a las personas físicas y morales que, en razón de sus actos, ocasionen o intervengan para que dichas entidades financieras incurran en la irregularidad o resulten responsables de la misma. Sin perjuicio de lo anterior, la Comisión Nacional Bancaria y de Valores, atendiendo a las circunstancias de cada caso, podrá proceder conforme a lo previsto en el artículo 25 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2004)</small>
+
+Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de la Comisión Nacional Bancaria y de Valores, las instituciones de crédito y sociedades financieras de objeto limitado, sus miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes.
 
 ###### ARTICULO 116.
 
@@ -3159,3 +3211,15 @@ D.O.F. 13 DE JUNIO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY DE INSTITUCIONES DE CRÉDITO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2004.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO; DE LA LEY DE AHORRO Y CRÉDITO POPULAR; DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO; DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS; DE LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS; DE LA LEY DEL MERCADO DE VALORES; DE LA LEY DE SOCIEDADES DE INVERSIÓN, Y DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DE CRÉDITO.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
