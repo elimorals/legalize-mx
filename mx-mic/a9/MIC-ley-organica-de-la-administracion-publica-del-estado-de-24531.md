@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-04-12"
-last_updated: "2002-04-12"
+last_updated: "2004-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 12 de abril de 2002.
 
@@ -135,9 +135,17 @@ En el ejercicio de sus atribuciones y para el despacho de los negocios del orden
 
 Secretaría de Gobierno;
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2004)</small>
+
+Secretaría de Seguridad Pública;
+
 Secretaría de Planeación y Desarrollo Estatal;
 
 Secretaría de Educación;
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2004)</small>
+
+Secretaría de Cultura;
 
 Secretaría de Salud;
 
@@ -183,95 +191,169 @@ VIII. Coadyuvar con las autoridades del Gobierno de la República en la vigilanc
 
 IX. Representar al Gobernador del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte;
 
-X. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, al orden público y a la prevención de los delitos;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XI. Conservar y mantener en el Estado, el orden, la tranquilidad, la seguridad pública y la prevención social contra la delincuencia;
+X. Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública Estatal;
 
-XII. Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con el Sistema Nacional de Seguridad Pública, los Planes Nacional y Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XIII. Proponer al Gobernador del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez, combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial, así como aplicar y dirigir estas políticas en el ámbito de su competencia;
+XI. Coordinar a las áreas jurídicas de las dependencias y entidades de la Administración Pública Estatal, para la actualización del orden normativo y el establecimiento de criterios legales que deberán regir su actuación;
 
-XIV. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de seguridad pública, a través de una rigurosa selección de los aspirantes, de su capacitación en instalaciones adecuadas, de manera sistemática y continua;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XV. Promover en coordinación con la sociedad, campañas tendientes a la prevención de los delitos, diseñar, difundir, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose, en medios eficaces de promoción y comunicación masiva;
+XII. Dirigir y publicar el Periódico Oficial del Estado;
 
-XVI. Coordinar dentro del Sistema Estatal de Seguridad Pública, los esfuerzos de los diversos sectores sociales para enfrentar los problemas de esta materia;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XVII. Establecer y operar el Sistema Estatal de Información sobre Seguridad Pública, mediante la creación de bancos de información que permitan el establecimiento de programas especiales que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, y a la coordinación de los diferentes cuerpos policiales;
+XIII. Publicar anualmente el calendario oficial cívico que regirá en el Estado;
 
-XVIII. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XIX. Proveer los servicios de policía y vigilancia del tránsito en las carreteras y caminos de jurisdicción estatal;
+XIV. Llevar el registro de autógrafos y legalizar las firmas de los funcionarios estatales y demás a quienes esté encomendada la fe pública;
 
-XX. Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas, de acuerdo a las leyes de la materia y los convenios celebrados con las dependencias federales;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXI. Llevar el registro y control en el Estado de los Servicios Policiales y de los cuerpos de seguridad privados;
+XV. Organizar, dirigir y vigilar la Defensoría de Oficio;
 
-XXII. Organizar, capacitar, supervisar y controlar, con acuerdo del Gobernador del Estado, el cuerpo de las fuerzas de seguridad pública;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXIII. Operar y coordinar el sistema de radiocomunicaciones de seguridad del Estado;
+XVI. Vigilar el desempeño de la función notarial, autorizar y llevar el control de los libros que deban utilizar los notarios y la Dirección del Notariado y Archivo General de Notarías;
 
-XXIV. Regular las actividades del Sistema Estatal de Protección Civil mediante la coordinación e inducción de los sectores público, social y privado en materia de protección civil, de acuerdo con los programas de la Federación, el Estado y los Municipios;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXV. Organizar y operar mecanismos de capacitación para los organismos de protección civil;
+XVII. Editar, compilar, coordinar y supervisar las ediciones oficiales de la legislación del Estado;
 
-XXVI. Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXVII. Dirigir y publicar el Periódico Oficial del Estado;
+XVIII. Cumplir las disposiciones del Gobernador del Estado, sobre las facultades que a éste le corresponden en materia de administración de trabajo y previsión social;
 
-XXVIII. Publicar anualmente el calendario oficial cívico que regirá en el Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXIX. Llevar el registro de autógrafos y legalizar las firmas de los funcionarios estatales y demás a quienes esté encomendada la fé pública;
+XIX. Proporcionar los apoyos administrativos que requiera el funcionamiento de las Juntas Locales de Conciliación y Arbitraje, y el Tribunal de Conciliación y Arbitraje;
 
-XXX. Organizar, dirigir y vigilar la Defensoría de Oficio;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXI. Vigilar el desempeño de la función notarial, autorizar y llevar el control de los libros que deban utilizar los notarios y el Archivo General de Notarías;
+XX. Coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en el Estado;
 
-XXXII. Editar, compilar, coordinar y supervisar las ediciones oficiales de la legislación del Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXIII. Cumplir las disposiciones del Gobernador del Estado sobre las facultades que a éste le corresponden en materia de administración de trabajo y previsión social;
+XXI. Aplicar las normas que al Estado se asignan en materia de excedentes de la pequeña propiedad;
 
-XXXIV. Proporcionar los apoyos administrativos que requiera el funcionamiento de las Juntas Locales de Conciliación, la Junta Local de Conciliación y Arbitraje y el Tribunal de Conciliación y Arbitraje;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXV. Proponer al Gobernador del Estado los programas relativos a la readaptación social de las personas sujetas a una pena de prisión;
+XXII. Ejecutar los acuerdos del Gobernador del Estado relativos a la expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
 
-XXXVI. Ejecutar y evaluar los programas tendientes a la readaptación social de las personas sujetas a una pena de prisión en los centros de readaptación social, estatales y municipales;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXVII. Administrar los centros de readaptación social estatales y coordinar la observancia de las normas y políticas relativas a la materia en los centros de readaptación social municipales;
+XXIII. Vigilar los asuntos relativos a la demarcación y conservación de los límites territoriales del Estado;
 
-XXXVIII. Elaborar los proyectos de convenios para que los reos sentenciados por delitos del orden común extingan su condena en los establecimientos dependientes del Ejecutivo Federal, para que los reos de origen michoacano que se encuentren compurgando penas en países extranjeros, puedan ser trasladados a establecimientos situados en Michoacán;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXIX. Conocer y resolver sobre el otorgamiento o revocación del beneficio de la preliberación, someter a la consideración del Gobernador del Estado, lo relativo a la libertad anticipada y la remisión parcial de la sanción;
+XXIV. Hacer del conocimiento del Supremo Tribunal de Justicia del Estado, las quejas presentadas por deficiencias que acuse la administración de justicia, para que proceda conforme a la ley de la materia;
 
-XL. Administrar las instituciones de internamiento para menores infractores y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XLI. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de readaptación social, a través de una rigurosa selección de los aspirantes, de su capacitación de manera sistemática y continua;
+XXV. Tramitar lo relacionado con la elección o reelección de los Magistrados del Supremo Tribunal de Justicia;
 
-XLII. Coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en el Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XLIII. Aplicar las normas que al Estado se asignan en materia de excedentes de la pequeña propiedad;
+XXVI. Formular y proponer al Gobernador del Estado, la adopción de medidas y el establecimiento de mecanismos de coordinación entre el Estado y los Municipios;
 
-XLIV. Ejecutar los acuerdos del Gobernador del Estado relativos a la expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XLV. Vigilar los asuntos relativos a la demarcación y conservación de los límites territoriales del Estado;
+XXVII. Intervenir en auxilio o coordinación con las autoridades federales, en los términos de las leyes en materia de cultos religiosos, detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos, migración; prevención en su caso y atención de desastres naturales;
 
-XLVI. Otorgar a los tribunales y autoridades judiciales el auxilio que soliciten para el debido ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XLVII. Hacer del conocimiento del Supremo Tribunal de Justicia del Estado, las quejas presentadas por deficiencias que acuse la administración de justicia, para que proceda conforme a la ley de la materia;
+XXVIII. Organizar, dirigir y vigilar las funciones y archivos del Registro Civil en el Estado;
 
-XLVIII. Tramitar lo relacionado con la elección o reelección de los Magistrados del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XLIX. Formular y proponer al Gobernador del Estado la adopción de medidas y el establecimiento de mecanismos de coordinación entre el Estado y los Municipios;
+XXIX. Organizar, dirigir y vigilar las funciones del Registro Público de la Propiedad Raíz y del Comercio;
 
-L. Intervenir en auxilio o coordinación con las autoridades federales, en los términos de las leyes en materia de cultos religiosos, detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos, migración, prevención, combate y extinción de catástrofes públicas;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-LI. Organizar, dirigir y vigilar las funciones y archivos del Registro Civil en el Estado;
+XXX. Auxiliar a las autoridades municipales cuando lo soliciten, en la realización de trámites y gestiones ante las autoridades federales y estatales;
 
-LII. Organizar, dirigir y vigilar las funciones del Registro Público de la Propiedad Raíz y del Comercio;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-LIII. Auxiliar a las autoridades municipales cuando lo soliciten, en la realización de trámites y gestiones ante las autoridades federales y estatales; y
+XXXI. Regular las actividades del Sistema Estatal de Protección Civil, mediante la coordinación e inducción de los sectores público, social y privado en materia de protección civil, de acuerdo con los programas de la Federación, el Estado y los Municipios;
 
-LIV. Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XXXII. Organizar y operar mecanismos de capacitación para los organismos de protección civil; y,
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XXXIII. Las demás que le confieran las leyes.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2004)</small>
+
+###### ARTÍCULO 21 Bis.
+
+A la Secretaría de Seguridad Pública le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, al orden público y a la prevención de los delitos;
+
+II. Conservar y mantener en el Estado, el orden, la tranquilidad, la seguridad pública y la prevención social contra la delincuencia;
+
+III. Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con el Sistema Nacional de Seguridad Pública, los Planes Nacional y Estatal de Desarrollo;
+
+IV. Proponer al Gobernador del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez, así como aplicar y dirigir estas políticas en el ámbito de su competencia;
+
+V. Combatir de manera enérgica y eficaz cualquier abuso o corrupción, en cualquiera de sus formas, en la conducta policial;
+
+VI. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de seguridad pública, a través de una rigurosa selección de los aspirantes, de su capacitación en instalaciones adecuadas de manera sistemática y continua;
+
+VII. Promover en coordinación con la sociedad, campañas tendientes a la prevención de los delitos, así como diseñar, difundir, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención de delito, apoyándose en medios eficaces de promoción y comunicación masiva;
+
+VIII. Planear, organizar y promover campañas de difusión relativas al cumplimiento de las disposiciones legales aplicables y los programas que tienen que ver con la seguridad pública y el tránsito;
+
+IX. Ejercer el mando y dirección del Sistema Estatal de Seguridad Pública, así como de las corporaciones de seguridad pública y de policía preventiva del Estado;
+
+X. Coordinar dentro del Sistema Estatal de Seguridad Pública, los esfuerzos de los diversos sectores sociales para enfrentar los problemas de esta materia;
+
+XI. Formular y proponer al Gobernador del Estado, el establecimiento de mecanismos de coordinación entre el Estado y los municipios en materia de seguridad pública;
+
+XII. Establecer y operar el Sistema de Información sobre Seguridad Pública, mediante la creación de bancos de información que permitan el establecimiento de programas especiales, que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, y a la coordinación de los diferentes cuerpos policiales;
+
+XIII. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
+
+XIV. Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas, de acuerdo a las leyes de la materia y los convenios celebrados con las dependencias federales;
+
+XV. Dirigir y controlar el tránsito en las carreteras y caminos de jurisdicción estatal, así como proveer los servicios de policía y vigilancia que se requieran;
+
+XVI. Llevar el registro, control y supervisión de las empresas que presten y desarrollen servicios de seguridad privada en el Estado, y en su caso, coordinar el apoyo que brinden a las corporaciones de seguridad pública del Estado;
+
+XVII. Organizar, supervisar y controlar, por acuerdo del Gobernador del Estado, a las corporaciones de seguridad pública y de policía preventiva del Estado;
+
+XVIII. Proveer de equipo y tecnología óptima, en materia de seguridad pública a las corporaciones de seguridad pública y de policía preventiva del Estado;
+
+XIX. Operar y coordinar el Sistema de Radiocomunicaciones de Seguridad del Estado;
+
+XX. Proponer al Gobernador del Estado, los programas relativos a la readaptación social de las personas sujetas a una pena de prisión;
+
+XXI. Ejecutar y evaluar los programas tendientes a la readaptación social de las personas sujetas a una pena de prisión en los centros de readaptación social, estatales y municipales;
+
+XXII. Administrar los centros de readaptación social estatales y coordinar la observancia de las normas y políticas relativas a la materia en los centros de readaptación social municipales;
+
+XXIII. Proponer al Gobernador del Estado la celebración de convenios, para que los reos sentenciados por delitos del orden común extingan su condena en los establecimientos dependientes del Ejecutivo Federal, y para que los reos de origen michoacano que se encuentren compurgando penas en países extranjeros, puedan ser trasladados a establecimientos situados en el Estado;
+
+XXIV. Conocer y resolver sobre el otorgamiento o revocación del beneficio de la preliberación, lo relativo a la libertad anticipada y la remisión parcial de la sanción, de acuerdo con la Ley de la materia;
+
+XXV. Administrar las instituciones de internamiento para menores infractores y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+
+XXVI. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de readaptación social, a través de una rigurosa selección de los aspirantes, de su capacitación de manera sistemática y continua;
+
+XXVII. Otorgar a los tribunales y autoridades judiciales el auxilio que soliciten para el debido ejercicio de sus funciones;
+
+XXVIII. Coadyuvar con autoridades de la Federación, en la vigilancia y cumplimiento de los acuerdos, leyes y reglamentos en materia de seguridad pública;
+
+XXIX. Supervisar los programas de las instituciones del Gobierno del Estado, que tengan como función formar o capacitar elementos de seguridad pública;
+
+XXX. Administrar equitativamente los recursos financieros, humanos y materiales de que disponga entre las diferentes áreas que la integran de acuerdo a la normatividad existente para tal efecto; y
+
+XXXI. Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 22.
 
@@ -347,23 +429,75 @@ V. Otorgar becas y subsidios de carácter educativo y gestionar ante las autorid
 
 VI. Integrar y mantener el registro de los planes y programas de estudio de las carreras profesionales y de los profesionistas en lo individual, de los colegios y asociaciones, llevando a cabo la vigilancia del ejercicio de su actividad;
 
-VII. Proponer al Gobernador del Estado los programas de difusión de la cultura, conservación e incremento del patrimonio artístico, y la promoción de actividades cívicas y sociales;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-VIII. Organizar espectáculos, exposiciones y cualquier evento que contribuya al esparcimiento y fortalecimiento de nuestra cultura;
+VII. Fomentar y difundir en el ámbito de su competencia, las actividades artísticas y culturales, en coordinación con la Secretaría de Cultura;
 
-IX. Promover, coordinar y fomentar los programas educativos de salud pública y mejoramiento del ambiente aprobados para el Estado, y coordinar sus acciones con las autoridades federales y municipales para la realización de programas conjuntos;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-X. Promover y realizar en coordinación con las dependencias correspondientes, programas de capacitación técnica especializada en las ramas agropecuaria, industrial y de servicios;
+VIII. Promover, coordinar y fomentar los programas educativos de salud pública y mejoramiento del ambiente aprobados para el Estado, y coordinar sus acciones con las autoridades federales y municipales para la realización de programas conjuntos;
 
-XI. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la drogadicción y el alcoholismo en el Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XII. Difundir todos los géneros del arte y la cultura, la promoción de exposiciones y certámenes culturales;
+IX. Promover y realizar en coordinación con las dependencias correspondientes, programas de capacitación técnica especializada en las ramas agropecuaria, industrial y de servicios;
 
-XIII. Fomentar y difundir las actividades artísticas y culturales entre los sectores de la población;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XIV. Promover el intercambio cívico y cultural dentro y fuera del Estado; y,
+X. Coadyuvar con las autoridades competentes y la sociedad civil, la realización de campañas para prevenir y combatir la drogadicción, el alcoholismo y el tabaquismo en el Estado; y
 
-XV. Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XI. Las demás que le confieran las leyes.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2004)</small>
+
+###### ARTÍCULO 23 Bis.
+
+A la Secretaría de Cultura le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Formular y proponer al Gobernador del Estado, el Programa Estatal de Cultura, así como los programas anuales de inversión y coordinar su ejecución;
+
+II. Promover a través de la cultura, el reconocimiento, formación y desarrollo integral de los michoacanos;
+
+III. Fomentar, propiciar y apoyar la creatividad en las bellas artes en todos sus géneros;
+
+IV. Propiciar, fomentar y apoyar el desarrollo de las artesanías y de las expresiones culturales populares, en todos sus géneros;
+
+V. Promover y apoyar el conocimiento, recuperación, conservación y divulgación del patrimonio cultural tangible e intangible;
+
+VI. Desarrollar la formación y capacitación de promotores culturales;
+
+VII. Fomentar la educación artística a través de los talleres de iniciación, escritura, lectura, artes plásticas, música, artes escénicas, cine, audio, video y multimedia para niños, jóvenes y adultos;
+
+VIII. Promover la creación y otorgar reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes y promotores culturales, mediante evaluaciones sustentadas en los principios de imparcialidad y equidad;
+
+IX. Promover y difundir investigaciones y estudios para el reconocimiento y desarrollo de la cultura local, nacional e internacional, en sus expresiones artísticas, científicas y tecnológicas;
+
+X. Procurar que la oferta de servicios culturales del Estado, llegue a todas las regiones del mismo;
+
+XI. Fomentar y difundir el desarrollo pluricultural regional, procurando la preservación de sus tradiciones, usos y costumbres originarias;
+
+XII. Administrar, preservar y acrecentar el patrimonio histórico, arqueológico y artístico, en el ámbito de su competencia y en términos de las disposiciones legales aplicables;
+
+XIII. Establecer dentro del ámbito de su competencia, las políticas, normas técnicas y procedimientos constructivos, la vigilancia y aplicación para la conservación, rescate o restauración de monumentos y sitios de carácter histórico patrimonial;
+
+XIV. Gestionar y reglamentar donaciones en dinero o especie a favor del patrimonio cultural del Estado, de conformidad con las disposiciones normativas aplicables;
+
+XV. Establecer las políticas y lineamientos para la creación, administración, conservación, operación y aprovechamiento de los centros y espacios culturales del Estado, en términos de las disposiciones legales aplicables;
+
+XVI. Coordinarse con los gobiernos federal, estatales y municipales, para la preservación, fomento y desarrollo cultural;
+
+XVII. Concertar convenios en el ámbito cultural con autores, organismos o instituciones, tanto públicos como privados, nacionales o extranjeros;
+
+XVIII. Promover la creación de diversas opciones de organización y de financiamiento, que permitan impulsar y fortalecer las actividades culturales, a través de los instrumentos jurídicos necesarios;
+
+XIX. Impulsar la participación de los michoacanos, a través de la elaboración de propuestas para la promoción y divulgación de los proyectos culturales a cargo de la Administración Pública Estatal;
+
+XX. Difundir y divulgar, a través de los medios masivos de comunicación, las acciones y programas que lleve a cabo esta Secretaría y que contribuyan a formar un público para todas las expresiones culturales existentes;
+
+XXI. Administrar equitativamente los recursos financieros, humanos y materiales de que disponga entre las diferentes áreas que la integran de acuerdo a la normatividad existente para tal efecto; y
+
+XXII. Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 24.
 
@@ -525,9 +659,13 @@ X. Estimular la formación de organismos que tengan como objetivo fomentar el tu
 
 XI. Coordinar las ediciones gubernamentales sobre información y difusión turística, y auxiliar a los organismos y empresas privadas que lo soliciten, en la preparación de materiales y difusión turística;
 
-XII. Promover e incrementar el desarrollo de actividades culturales y eventos tradicionales y folklóricos del Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XIII. Realizar una labor permanente de difusión de los centros y lugares turísticos, y de los valores culturales y naturales del Estado;
+XII. Promover e incrementar el desarrollo de actividades culturales y eventos tradicionales y folklóricos del Estado, en coordinación con la Secretaría de Cultura;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XIII. Realizar una labor permanente de difusión de los centros, lugares turísticos, valores naturales y, en coordinación con la Secretaría de Cultura de los valores culturales del Estado;
 
 XIV. Promover, proyectar, desarrollar y administrar los centros vacacionales y recreativos con que cuenta el Gobierno del Estado;
 
@@ -605,7 +743,9 @@ X. Asesorar y apoyar a las autoridades municipales en la elaboración de estudio
 
 XI. Auxiliar a las autoridades municipales en la operación y organización administrativa de los sistemas de agua potable, alcantarillado y saneamiento, procurando la autosuficiencia técnica y financiera de los mismos;
 
-XII. Coadyuvar con la Secretaría de Urbanismo y Medio Ambiente, en la conservación del patrimonio histórico y cultural, en coordinación con las autoridades federales, estatales y municipales;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XII. Coadyuvar con la Secretaría de Cultura, en la conservación del Patrimonio Histórico y Cultural, en coordinación con las autoridades federales, estatales y municipales.
 
 XIII. Adjudicar y vigilar el cumplimiento de los contratos de obra pública y servicios relacionados de su competencia;
 
@@ -671,6 +811,8 @@ XXIII. Formular, instrumentar y difundir conjuntamente con los municipios y depe
 
 XXIV. Fomentar, asesorar y apoyar a las autoridades municipales que lo soliciten en la formulación, ejecución, evaluación y actualización de los programas de desarrollo urbano municipales, de ordenación y regulación de zonas conurbadas, de los centros de población y los que de ellos se deriven;
 
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
 XXV. Fomentar y participar en la constitución y administración de reservas territoriales en el Estado, coadyuvando con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana, así como en la protección del patrimonio cultural y del equilibrio ecológico de los centros de población;
 
 XXVI. Inducir el desarrollo urbano ordenado a través de la incorporación de suelo en los centros de población, en coordinación con los municipios y las correspondientes dependencias y entidades de la Administración Pública Federal y Estatal;
@@ -681,23 +823,37 @@ XXVIII. Coordinar de acuerdo con las políticas, lineamientos, normas y mecanism
 
 XXIX. Emitir opinión técnica y legal, y apoyar a solicitud de los ayuntamientos, en las regularizaciones de los fraccionamientos de interés social y popular de urbanización progresiva que realicen los grupos organizados, previo cumplimiento de los requisitos que señala la ley de la materia;
 
-XXX. Establecer dentro del ámbito de su competencia, las políticas, normas técnicas y procedimientos constructivos, la vigilancia y aplicación para la conservación, rescate o restauración de monumentos y sitios de carácter histórico patrimonial;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXI. Estudiar, planear y controlar el servicio público de autotransporte de pasajeros y de carga de jurisdicción estatal;
+XXX. Estudiar, planear y controlar el servicio público de autotransporte de pasajeros y de carga de jurisdicción estatal;
 
-XXXII. Establecer la vialidad del transporte en el estado, así como participar en la elaboración de los reglamentos y en la determinación de las políticas de la materia;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXIII. Otorgar permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, en los términos de la ley de la materia;
+XXXI. Establecer la vialidad del transporte en el estado, así como participar en la elaboración de los reglamentos y en la determinación de las políticas de la materia;
 
-XXXIV. Formular los estudios y proyectos de construcción y conservación de los servicios públicos de su competencia;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXV. Coadyuvar con la Secretaría de Contraloría y Desarrollo Administrativo, en la proposición de las bases a que deben sujetarse los concursos para la ejecución de servicios públicos y obras publicas de su competencia;
+XXXII. Otorgar permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, en los términos de la ley de la materia;
 
-XXXVI. Prestar directamente o a través de terceros las acciones, obras y servicios públicos de su competencia, convenidos por el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
 
-XXXVII. Proponer al Gobernador del Estado la celebración de convenios con la Federación, entidades federativas y municipios del estado, con los sectores social y privado en materia de acciones e inversiones para el desarrollo urbano, mejoramiento de la imagen urbana, protección del patrimonio cultural y el aprovechamiento del territorio estatal de manera sustentable; y
+XXXIII. Formular los estudios y proyectos de construcción y conservación de los servicios públicos de su competencia;
 
-XXXVIII. Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XXXIV. Coadyuvar con la Secretaría de Contraloría y Desarrollo Administrativo, en la proposición de las bases a que deben sujetarse los concursos para la ejecución de servicios públicos y obras publicas de su competencia;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XXXV. Prestar directamente o a través de terceros las acciones, obras y servicios públicos de su competencia, convenidos por el Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XXXVI. Proponer al Gobernador del Estado la celebración de convenios con la federación, entidades federativas y municipios del estado, con los sectores social y privado en materia de acciones e inversiones para el desarrollo urbano, mejoramiento de la imagen urbana, protección del patrimonio cultural y el aprovechamiento del territorio estatal de manera sustentable; y,
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+XXVII. Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 31.
 
@@ -731,7 +887,7 @@ XIII. Informar al Gobernador del Estado, sobre el resultado de las evaluaciones 
 
 XIV. Designar a los auditores externos de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal a los comisarios o a sus equivalentes en los órganos de gobierno, normando y controlando su desempeño;
 
-XV. Coadyuvar con la Contaduría General de Glosa para el establecimiento de los procedimientos que les permitan el cumplimiento de sus responsabilidades;
+XV. (DEROGADA, P.O. 31 DE MARZO DE 2004)
 
 XVI. Coordinarse con las dependencias públicas federales competentes para el control y evaluación de los recursos, que el Ejecutivo Federal transfiera al Estado para su ejercicio;
 
@@ -783,7 +939,7 @@ XV. Proponer al Gobernador del Estado, la cancelación de créditos incobrables;
 
 XVI. Participar en el establecimiento de los criterios y montos de los estímulos fiscales, en coordinación con las dependencias a quienes corresponde el fomento de actividades productivas;
 
-XVII. Atender las observaciones emitidas por el Congreso del Estado, a través de la Contaduría General de Glosa;
+XVII. (DEROGADA, P.O. 31 DE MARZO DE 2004)
 
 XVIII. Elaborar los proyectos anuales de Ley de Ingresos del Gobierno del Estado y someterlos a la consideración del Gobernador del Estado, en su caso, el proyecto de ley de ingresos para su aplicación en aquellos Municipios del Estado cuyos ayuntamientos no presenten sus iniciativas, conforme a la ley;
 
@@ -835,7 +991,9 @@ V. Ejecutar los acuerdos relativos a la creación de nuevas unidades administrat
 
 VI. Elaborar y mantener actualizado el escalafón de los trabajadores del Poder Ejecutivo y del magisterio dependiente del Estado;
 
-VII. Tramitar la prestación de servicios médicos, asistenciales, sociales y culturales para el personal al servicio del Gobierno del Estado, a través de instituciones de seguridad social o de instituciones privadas;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2004)</small>
+
+VII. Tramitar la prestación de servicios médicos, asistenciales, sociales y culturales para el personal al servicio del Gobierno del Estado, a través de instituciones de seguridad social o de instituciones privadas y en coordinación con la Secretaría de Cultura;
 
 VIII. Ejecutar los acuerdos, de los titulares de las dependencias, relativos a la aplicación, reducción y revocación de las sanciones administrativas, en los términos de las disposiciones aplicables;
 
@@ -964,3 +1122,19 @@ DIPUTADO PRESIDENTE.- LUIS PATIÑO POZAS.- DIPUTADO SECRETARIO.- RAYMUNDO ARREOL
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 11 once días del mes de abril del año 2002 dos mil dos.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MTRO. LEONEL GODOY RANGEL. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 31 DE MARZO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, con pleno respeto a lo dispuesto por los artículo 13, 15, 20, 21 y 22 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, realizará las transferencias de recursos humanos, materiales y financieros, así como activos patrimoniales que se deriven del presente Decreto, incluyendo las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, dentro de los noventa días siguientes a la entrada en vigor de este Decreto.
