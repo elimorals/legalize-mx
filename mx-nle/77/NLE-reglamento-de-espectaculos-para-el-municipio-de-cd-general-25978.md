@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-cd-general-2597
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-02-23"
-last_updated: "1996-02-23"
+last_updated: "1999-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CD. GENERAL M. ESCOBEDO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de febrero de 1996.
 
@@ -89,9 +89,11 @@ REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE CD. GENERAL M. ESCOBEDO, N.L.
 
 DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 1.
 
-Este Reglamento es de orden público e interés social, obliga a toda aquella persona física o moral, que de manera permanente o transitoria organice, promueva, patrocine, intervenga o explote algún espectáculo o diversión pública, así como a las personas que en su carácter de público asistan a dichos eventos.
+Este Reglamento es de orden público e interés social, de observancia obligatoria para toda persona física o moral, que de manera permanente o transitoria organice, promueva, patrocine, intervenga o explote algún espectáculo o diversión pública, así como a las personas que en su carácter de público asistan a dichos eventos y tiene por objeto regular en el Municipio de Ciudad General Escobedo, los espectáculos y diversiones públicas y todos aquellos actos que se organizan para que el público participando activa o pasivamente, mediante el pago o gratuitamente concurra a divertirse o a educarse y todas las actividades deportivas, culturales y de esparcimiento, ya sea que se realicen en espacios abiertos o cerrados.
 
 ###### ARTICULO 2.
 
@@ -99,13 +101,17 @@ Quedan comprendidas en este Reglamento, y sujetas a sus disposiciones y diversio
 
 Las presentaciones y representaciones teatrales, las audiciones musicales, las exhibiciones cinematográficas, las funciones de variedades, las corridas de toros, las carreras y las competencias humanas, de animales y de todo tipo de vehículos, exposiciones y exhibiciones de pintura, esculturas, artesanía o cualquier otro género de arte: las conferencias con fines informativos y de cultura, las exhibiciones aeronáuticas; los circos, los frontones y demás juegos de pelota, las peleas de Box y lucha y demás juegos deportivos, gimnasios, billares, boliches, patinaderos, golfitos, futbolitos, bailes públicos, los cabarets y albercas, los juegos electromecánicos como rueda de la fortuna, carros chocones, satélite, etc., y en suma todos aquellos actos que se organizan para que el público mediante paga, o gratuita, concurra a divertirse o educarse.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 3.
 
-Para los fines de este Reglamento se entiende por:
+Para los fines de este Reglamento, se entiende por:
 
 a).- AUTORIDAD MUNICIPAL: La Secretaría del Ayuntamiento, la Secretaría de Finanzas y Tesorería Municipal, y la Jefatura de Espectáculos.
 
-b).- ESPECTACULO PUBLICO: Toda función, representación, audición, exhibición, evento o acto que se celebre en un lugar determinado, y al que se convoca a que asista el público fundamentalmente con fines de diversión, entretenimiento, o esparcimiento cultural, deportivo o social, ya sea en forma gratuita o mediante pago por admisión.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+b).- ESPECTÁCULO PÚBLICO: Toda función, representación, audición, exhibición, evento o acto que se celebre en un lugar determinado, y al que se convoca a que asista el público fundamentalmente con fines de diversión, entretenimiento o esparcimiento cultural, deportivo o social, ya sea en forma gratuita o mediante pago por admisión, en la cual el asistente asume una actitud pasiva, sin que pueda tener participación activa en el desarrollo del evento.
 
 c).- DIVERSION PUBLICA: Aquella en la que el público concurre a determinados lugares con el objeto de hacer uso de instalaciones, equipo o accesorios diversos, fundamentalmente con fines de diversión o entretenimiento, mediante pago por unidad de tiempo o juego determinado.
 
@@ -145,33 +151,59 @@ XII.- Las que le confiera el presente Reglamento y demás disposiciones jurídic
 
 XIII.- Las demás que le confiera el Presidente Municipal.
 
-ARTICULOS (SIC) 5.- Los Espectáculos Públicos se clasificarán de la siguiente manera:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+
+ARTICULOS 5.- Los espectáculos públicos se clasificarán de la siguiente manera:
 
 a).- ESPECTACULOS DEPORTIVOS: Que comprenderán las peleas de Box y lucha, el fútbol soccer, el fútbol americano, el fútbol rápido, el béisbol, el basquetbol, el volibol, las carreras de vehículos ya sean de automóviles, motocicletas o bicicletas, el atletismo, el golf y demás eventos similares.
 
 b).- ESPECTACULOS CULTURALES: Que comprenderán los conciertos, audiciones poéticos, representaciones de ópera, ballet, teatro para niños y cinematógrafo en casos especiales, exhibiciones o muestras de pintura, escultura o artesanías, las conferencias, simpósium y todas aquellas que como su nombre lo indica sirvan para educar, instruir o cultivar al público que asiste.
 
-c).- ESPECTACULOS DE DIVERSION: Que comprenderán la presentación de artistas, cantantes, magos, comediantes, ventrílocuos, imitadores y demás similares, en centros nocturnos, cabaret o centros de espectáculos en general, las representaciones teatrales, las exhibiciones cinematográficas, las corridas de toros, los rodeos, los circos y carpas, los bailes públicos, el ofrecimiento de música en vivo, grabada o videograbada para bailar o amenizar en lugares que cuenten o no con pista para bailar, aquellos espectáculos que por sus características no puedan ser considerados como culturales o deportivos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
+c).- ESPECTÁCULOS DE DIVERSIÓN: Son de diversión; los parques de diversiones, juegos mecánicos, electrónicos y electromecánicos, video - bares, Kermesses, golfitos, futbolitos, boliches, billares, juegos interactivos, bailes públicos, centros o lugares de apuestas permitidos por la ley y todos aquellos lugares en que se permita o en donde pueda participar activamente el asistente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+d).- ESPECTÁCULOS DE VARIEDAD: Son de variedad la presentación de artistas en centros nocturnos, cabarets, la zarzuela, comedia graciosa, opereta, sainete, y todos los que no son espectáculos culturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+e).- ESPECTÁCULOS ARTÍSTICOS: Aquellos que demuestran y promueven el gusto por las diversas manifestaciones de la belleza usando para ello las formas tradicionales de la música, el canto, la danza, el baile, la pintura, el teatro, el cine, la literatura, la pantomima, la fotografía, la escultura y otras manifestaciones similares.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+f).- ESPECTÁCULOS RECREATIVOS: Aquellos que tienen por objeto el esparcimiento y el solaz de los espectadores entre los cuales se encuentran los espectáculos circenses, taurinos, charrerías, rodeos, juegos de pelota, charlotadas, de forcados, de prestigiditación (sic) e ilusionismo, faquirismo, paracaidismo y suertes similares.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 6.
 
-Las diversiones públicas comprenderán los billares, boliches, patinaderos, golfitos, ferias juegos electrónicos de los denominados chispas, y demás que se sujeten a las características propias de diversiones públicas.
+En cualquier tipo de evento, queda prohibido introducir armas de fuego, armas blancas o cualquier artefacto que a consideración del Inspector de Espectáculos, pueda ser utilizado para causar daños físicos o materiales a los asistentes.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 7.
 
-Para poder realizar algún espectáculo o diversión pública de las reguladas por este Reglamento, se deberán previamente tramitar y obtener la Licencia ó el permiso de la Autoridad Municipal, así como cumplir estrictamente y oportunamente con sus disposiciones.
+Para poder realizar algún espectáculo o diversión pública de las reguladas por este Reglamento, se deberá previamente tramitar y obtener la Licencia ó permiso de la Secretaría del R. Ayuntamiento, la cual lo concederá siempre que el lugar en que se vaya a presentar el espectáculo o diversión, cumpla con las condiciones de seguridad, la cual podrá acreditarse a través del dictamen que para tal efecto expida la Dirección de Protección Civil del Estado de Nuevo León, también se requiere para la expedición del permiso correspondiente la anuencia de los vecinos (moradores de casas habitación), cuando en el espectáculo de que se trate, se expendan bebidas alcohólicas o cerveza, así como las condiciones de higiene y demás requeridas por otras disposiciones municipales.
+
+Los espectáculos y diversiones que se verifiquen en la Ciudad de General Escobedo, causarán el impuesto que marca la Ley de Hacienda para los Municipios del Estado de Nuevo León en vigor.
 
 CAPITULO DOS
 
-DE LOS ESPECTACULOS DEPORTIVOS
+DE LOS ESPECTÁCULOS DEPORTIVOS
 
 ###### ARTICULO 8.
 
 Los interesados en promover espectáculos deportivos deberan sujetarse a las disposiciones previstas en los reglamentos que rijan la disciplina respectiva, a las normativas del presente Ordenamiento y a las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 9.
 
 Los eventos deportivos estarán sujetos a las disposiciones de éste Reglamento en cuanto les sea aplicable, pero el desarrollo de los mismos se regirá por sus reglamentos especiales.
+
+La empresa nombrará bajo su responsabilidad, los jueces necesarios para la calificación del deporte que se realice, debiendo recaer el nombramiento en personas con amplio conocimiento en la materia, además de reconocida honestidad y seriedad.
 
 ###### ARTICULO 10.
 
@@ -213,27 +245,29 @@ Los artistas que incumplan con la obligación contraida para actuar en algún es
 
 A los artistas les está terminantemente prohibido solicitar del público ayudas económicas o contribuciones voluntarias bajo el pretexto de riesgo del acto o cualquier otra circunstancia, salvo que cuente con el permiso expreso de la Autoridad Municipal.
 
-CAPITULO CUATRO
-
-DEL DESARROLLO DEL ESPECTACULO
-
-### CAPITULO UNICO. DE LAS DIVERSIONES PUBLICAS
+### CAPITULO CUARTO. DEL DESARROLLO DEL ESPECTÁCULO
 
 ###### ARTICULO 19.
 
 Queda prohibido a los artistas y empresarios promotores de espectáculos hacer representaciones de escenas que en cualquier forma ofendan o denigren a persona determinada, o ataquen a las instituciones públicas. En este caso bastará con la sola reclamación que formule por escrito la persona afectada para que la Autoridad Municipal, impida la representación.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 20.
 
-En todo espectáculo público el inicio de la función o evento comenzará exactamente a la hora señalada en la publicidad en los horarios autorizados, salvo que se presenten causas de fuerza mayor que lo impidan, invariablemente será sancionado todo atraso que exceda de 10 diez minutos, sea cual fuere su causa.
+En todo espectáculo público y diversiones en general, el inicio de la función o evento comenzará exactamente a la hora señalada en la publicidad en los horarios autorizados, salvo que se presenten causas de fuerza mayor que lo impidan, invariablemente será sancionado todo atraso que exceda de 15 - quince minutos, sea cual fuere su causa.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 21.
 
-Los intermedios o entreactos no podrán exceder de diez minutos.
+Los intermedios o entreactos no podrán exceder 15 - quince minutos como máximo y solo por causa justificada y con permiso de la Autoridad podrán prolongarse.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 22.
 
-El desarrollo del espectáculo se realizará de conformidad con el programa autorizado por la Autoridad Municipal, cualquier variante que altere el orden, contenido o calidad del espectáculo será motivo de sanción.
+El desarrollo del espectáculo se realizará de conformidad con el programa autorizado por la Autoridad Municipal, sólo esta o quien la represente de acuerdo con las disposiciones de este Reglamento, podrá autorizar algunas variantes, cualquier variante no autorizada que altere el orden, contenido o calidad del espectáculo será motivo de sanción. Únicamente por causas de fuerza mayor, la empresa podrá con conocimiento de la autoridad municipal, realizar modificaciones al programa autorizado, que tiendan a garantizar el orden y forma del espectáculo expresando las causas que la motiven.
 
 ###### ARTICULO 23.
 
@@ -251,9 +285,11 @@ Los ensayos o pruebas de equipos no deberán interferir en lo que se refiere al 
 
 Durante el desarrollo de un espectáculo público no deberán utilizarse materiales u objetos que representen peligro de siniestro, y en aquellos en que se empleen armas, se exhiban animales feroces, se practiquen ejercicios acrobáticos, ecuestres y en general cualquier acto que implique riesgo para el público asistente, se deberán adoptar las medidas necesarias que garanticen la seguridad del público y de los participantes del evento respectivo.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 27.
 
-La celebración de un espectáculo público autorizado sólo podrá cancelarse por causas de fuerza mayor o por carencia absoluta de público, la infracción a esta disposición será sancionada con multa.
+La celebración de un espectáculo público autorizado, solo podrá cancelarse por causas de fuerza mayor o por carencia absoluta de público, la infracción a esta disposición será sancionada con multa. Si no se ha iniciado el espectáculo, se reintegrará al público el valor de los boletos, una vez iniciado y se haya cubierto la tercera parte del programa, se reintegrara el cincuenta por ciento. Transcurrido la mitad del espectáculo se dará por presentada la función.
 
 ###### ARTICULO 28.
 
@@ -293,9 +329,13 @@ La devolución del importe de las entradas será inmediata cuando esto no sea po
 
 Los lugares en que se efectúe la devolución del importe de las entradas no serán distintos de aquellos en los que se llevo a efecto la venta de los boletos.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 35.
 
-Se permitirá el acceso al Público al centro de espectáculos cuando menos una hora antes del inicio programado del evento o función, o incluso antes si a criterio de la Autoridad Municipal se considera que existe riesgo para el público por causas de aglomeración, o por incomodidad debido a condiciones climatológicas.
+Se permitirá el acceso al público al centro de espectáculos cuando menos una hora antes del inicio programado del evento o función, o incluso antes si a criterio de la Autoridad Municipal se considera que existe riesgo para el público por causas de aglomeración, o por incomodidad debido a condiciones climatológicas.
+
+Tratándose de Compañías de ópera, ballet, conciertos y audiciones puramente musicales, una vez que de inicio la función, serán cerradas las puertas de las salas, debiendo esperar el público retrasado el próximo intermedio, para entrar al salón.
 
 ###### ARTICULO 36.
 
@@ -315,7 +355,7 @@ Las personas que con el propósito de provocar falsa alarma entre los asistentes
 
 CAPITULO SEIS
 
-DE LOS CENTROS DE ESPECTACULOS
+DE LOS CENTROS DE ESPECTÁCULOS
 
 ###### ARTICULO 40.
 
@@ -325,17 +365,23 @@ Para los efectos de este Reglamento se entenderá por centro de espectáculos al
 
 En todas las puertas de los centros de espectáculos y sus dependencias que conduzcan al exterior del edificio, habrá letreros con la palabra salida, sobre los muros habrá flechas que indiquen la salida.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 42.
 
-En los centros de espectáculos habrá cuando menos dos puertas de emergencia, mismas que deberan permanecer cerradas durante el evento, pero de tal manera que el público las pueda abrir instantáneamente sin ningún esfuerzo, cuando por algún motivo tenga que desalojar rápidamente el lugar.
+En los centros de espectáculos habrá cuando menos dos puertas de emergencia, en cada piso, cuya trayectoria no sea mayor de 30 metros y de tamaño adecuado para evacuación, de acuerdo al tipo de ocupación y población del edificio, ubicadas estratégicamente, debiendo abrir en el sentido lógico de evacuación y ser resistentes al fuego, mismas que deberán permanecer cerradas durante el evento, pero de tal manera que el público las pueda abrir instantáneamente sin ningún esfuerzo, cuando por algún motivo tenga que desalojar rápidamente el lugar.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 43.
 
-De acuerdo a las características del centro de espectáculos, la Autoridad Municipal podrá exigir sean incrementadas las puertas de emergencia, si así lo considera conveniente.
+De acuerdo a las características del centro de espectáculos, la Autoridad Municipal podrá exigir sean incrementadas las puertas de emergencia, si así lo considera conveniente. En ningún caso y por ningún motivo se permitirá que se aumente el cupo autorizado.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 44.
 
-Las salidas de emergencia contarán con letreros, los cuales estarán iluminados con luz artificial distinta al encendido general y protegidos con pantalla. Estas luces deberán permanecer encendidas desde que el público ingrese al local y hasta que este sea desalojado totalmente.
+Las salidas de emergencia contarán con letreros, las letras, tendrán una medida mínima de 15 cm. de altura, y los señalamientos estarán iluminados con luz artificial distinta al encendido general que no sea de flama y protegidos con pantalla. Estas luces deberán permanecer encendidas desde 15 minutos antes de comenzar el espectáculo y hasta que el local haya sido desalojado totalmente.
 
 ###### ARTICULO 45.
 
@@ -544,6 +590,8 @@ Los boletos destinados a cortesías de la empresa promotora deberán ostentar la
 La persona que sea sorprendida vendiendo boletos de cortesía se hará acreedora al arresto administrativo de 36 horas. El día de la celebración del espectáculo público deberá concentrarse la totalidad de boletos para su venta en las taquillas del centro de espectáculos. Para los efectos fiscales del Municipio se considerarán como vendidos toda serie de boletos que no se encuentren al momento de iniciar su venta.
 
 ## TITULO SEGUNDO
+
+### CAPITULO UNICO. DE LAS DIVERSIONES PUBLICAS
 
 ###### ARTICULO 80.
 
@@ -823,11 +871,17 @@ Son infracciones al presente Reglamento las siguientes:
 
 13).- Ausencia de artistas.
 
-14).- Actuación fraudulenta.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
 
-15).- Ofensas al público, instituciones públicas o de personas determinadas.
+14).- Haber retirado en su totalidad la publicidad de algún espectáculo anterior.
 
-16).- Cualquier otra violación al presente reglamento.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
+15).- Los espectáculos y diversiones que se realicen en las vías o lugares públicos, deberán contar además con permiso de la Secretaría de Seguridad Pública y Vialidad, Desarrollo Urbano, Obras Públicas y Ecología, servicios públicos y anuencia de vecinos según el caso.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
+16).- No tener ningún adeudo con la Secretaría de Finanzas y Tesorería Municipal.
 
 ###### ARTICULO 111.
 
@@ -911,6 +965,42 @@ En el caso de que sea admitido, se concederá un término no prorrogable de 15 (
 
 Una vez transcurrido el término para el desahogo de las pruebas si las hubiere, se dictará resolución por el C. Presidente Municipal en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido. Dicha resolución se notificará al interesado personalmente o por correo certificado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], P.O. 24 DE MAYO DE 1999)</small>
+
+CAPITULO CUATRO
+
+DE LAS TERTULIAS O TARDEADAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+###### ARTICULO 121.
+
+Se entiende por tertulias o tardeadas aquellos eventos cuyo propósito principal sea el de bailar sin venta o consumo de cerveza o bebidas alcohólicas, tales eventos podrán ser para adultos o menores de edad y deberán llenar los siguientes requisitos:
+
+a).- Que la Autoridad Municipal correspondiente, haya expendio el permiso para el evento.
+
+b).- En las tertulias o tardeadas para menores de 18 años, sólo se permitirá la entrada de adultos acompañando a menores.
+
+c).- El horario permitido para estos eventos será de las 14:00 a las 19:00 horas.
+
+d).- Los establecimientos contarán con elementos de Seguridad suficientes y debidamente identificados para protección y seguridad de los menores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 24 DE MAYO DE 1999)</small>
+
+### CAPITULO QUINTO. PROCEDIMIENTO DE REVISION Y CONSULTA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+###### ARTICULO 122.
+
+En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 1999)</small>
+
+###### ARTICULO 123.
+
+Para garantizar la participación ciudadana en la revisión para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del R. Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en sesión ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento abroga el Reglamento de Espectáculos de Ciudad General Escobedo, Nuevo León que apareció publicado el Miércoles 04-(Cuatro) de Marzo de 1992, (Mil novecientos noventa y dos) en el Periódico Oficial del Estado.
@@ -978,3 +1068,11 @@ LIC. JOSE GUADALUPE CHAVEZ GARZA
 SINDICO SEGUNDO
 
 JUAN ELlAS VILLARREAL RIVERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MAYO DE 1999.
+
+PRIMERO: Las presentes reformas al Reglamento de Espectáculos en el Municipio de General Escobedo, Nuevo León, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Envíese al Periódico Oficial del Estado por conducto de la Secretaría General de Gobierno, para su promulgación y publicación.
