@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1996-07-03"
+last_updated: "1996-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE AGOSTO DE 1996.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -694,9 +694,9 @@ I.- Votar en las elecciones populares;
 
 II.- Poder ser votado para todos los cargos de elección popular, y nombrado para cualquier otro empleo o comisión, teniendo las calidades que establezca la ley;
 
-> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-III.- Asociarse libre y pacíficamente para tomar parte en los asuntos políticos del país;
+III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del país;
 
 IV.- Tomar las armas en el Ejército o Guardia Nacional, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes; y
 
@@ -714,7 +714,9 @@ La organización y el funcionamiento permanente del Registro Nacional de Ciudada
 
 II.- Alistarse en la Guardia Nacional;
 
-III.- Votar en las elecciones populares en el Distrito electoral que le corresponda;
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+III.- Votar en las elecciones populares en los términos que señale la ley;
 
 IV.- Desempeñar los cargos de elección popular de la Federación o de los Estados, que en ningún caso serán gratuitos; y
 
@@ -780,85 +782,51 @@ La soberanía nacional reside esencial y originariamente en el pueblo. Todo pode
 
 Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, federal, compuesta de Estados libres y soberanos en todo lo concerniente a su régimen interior; pero unidos en una federación establecida según los principios de esta ley fundamental.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 1996, EL PRESENTE ARTICULO HA SIDO REESTRUCTURADO.</small>
+
 ###### Art. 41.
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+I. Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación nacional y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+II. La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades. Por tanto, tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la misma. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
-Los partidos políticos tendrán derecho al uso en forma permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
+El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Órgano Superior de Dirección del Instituto Federal Electoral, el número de senadores y diputados a elegir, el número de partidos políticos con representación en las Cámaras del Congreso de la Unión y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-En los procesos electorales federales los partidos políticos nacionales deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año; y
 
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+c) Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
 
-La ley establecerá las reglas a que se sujetarán el financiamiento de los partidos políticos y sus campañas electorales.
+La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-> <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+III. La organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordene la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+El Instituto Federal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y se integrará por un consejero Presidente y ocho consejeros electorales, y concurrirán, con voz pero sin voto, los consejeros del Poder Legislativo, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de los órganos, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Las disposiciones de la ley electoral y del Estatuto que con base en ella aprueba el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
-> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
+El consejero Presidente y los consejeros electorales del Consejo General serán elegidos, sucesivamente, por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, o en sus recesos por la Comisión Permanente, a propuesta de los grupos parlamentarios. Conforme al mismo procedimiento, se designarán ocho consejeros electorales suplentes, en orden de prelación. La ley establecerá las reglas y el procedimiento correspondientes.
 
-La organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurren los Poderes Ejecutivo y Legislativo de la Unión, con la participación de los partidos políticos nacionales y de los ciudadanos según lo disponga la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+El consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. La retribución que perciban el consejero Presidente y los consejeros electorales será igual a la prevista para los Ministros de la Suprema Corte de Justicia de la Nación.
 
-> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
+El Secretario Ejecutivo será nombrado por las dos terceras partes del Consejo General a propuesta de su Presidente.
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El órgano superior de dirección se integrará por Consejeros y Consejeros Ciudadanos designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos nacionales. Las mesas directivas de casillas estarán integradas por ciudadanos.
+La ley establecerá los requisitos que deberán reunir para su designación el consejero Presidente del Consejo General, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Federal Electoral, los que estarán sujetos al régimen de responsabilidades establecido en el Título Cuarto de esta Constitución.
 
-> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un Consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión.
 
-El organismo público agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, computos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
+El Instituto Federal Electoral tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados y senadores, cómputo de la elección de Presidente de los Estados Unidos Mexicanos en cada uno de los distritos electorales uninominales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+IV.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación en los términos del artículo 99 de esta Constitución.
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán el organismo público previsto en el párrafo octavo de este artículo y el Tribunal Federal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-El Tribunal Federal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Los Poderes Legislativo, Ejecutivo y Judicial garantizarán su debida integración.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-El Tribunal Federal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la ley, las impugnaciones que se presenten en materia electoral federal, las que establecen los párrafos segundo y tercero del artículo 60 de esta Constitución, y las diferencias laborales que se presenten con las autoridades electorales establecidas por este artículo. Expedirá su Reglamento Interior y realizará las demás atribuciones que le confiera la ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-El Tribunal Federal Electoral funcionará en Pleno o Salas y sus sesiones de resolución serán públicas en los términos que establezca la ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-Para cada proceso electoral se integrará una Sala de segunda instancia con cuatro miembros de la judicatura federal y el Presidente del Tribunal Federal Electoral, quien la presidirá. Esta Sala será competente para resolver las impugnaciones a que se refiere el párrafo tercero del artículo 60 de esta Constitución.
-
-> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
-
-El Tribunal Federal Electoral se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley. Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores de los que señala esta Constitución para ser Ministro de la Suprema Corte de Justicia de la Nación. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta del Presidente de la República.
-
-> <small>(REFORMADO, D.O.F. 19 DE ABRIL DE 1994)</small>
-
-Los consejeros ciudadanos del órgano superior de dirección deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por los grupos parlamentarios en la propia Cámara. La ley señalará las reglas y el procedimiento correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-Los cuatro miembros de la judicatura federal, que con el Presidente del Tribunal Federal Electoral integren la Sala de segunda instancia, serán electos para cada proceso electoral por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por la Suprema Corte de Justicia de la Nación. Si no se alcanza esta mayoría, se presentarán nuevas propuestas para el mismo efecto, y si en este segundo caso tampoco se alcanzara la votación requerida, procederá la Cámara a elegirlos de entre todos los propuestos por mayoría simple de los diputados presentes. La ley señalará las reglas y el procedimiento correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-Durante los recesos del Congreso de la Unión, la elección a que se refieren los dos párrafos anteriores será realizada por la Comisión Permanente.
+En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
 ### CAPITULO II.
 
@@ -964,6 +932,8 @@ La demarcación territorial de los 300 distritos electorales uninominales será 
 
 Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 1996, EL PRESENTE ARTICULO HA SIDO REESTRUCTURADO.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
 ###### Art. 54.
@@ -974,29 +944,25 @@ La elección de los 200 diputados según el principio de representación proporc
 
 I. Un partido político, para obtener el registro de sus listas regionales, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doscientos distritos uninominales;
 
-> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-II. Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
+II. Todo partido político que alcance por lo menos el dos por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 
-> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-III. Al partido político que cumpla con lo dispuesto por las dos bases anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el principio de representación proporcional, de acuerdo con su votación nacional emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+III. Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su votación nacional emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-IV. En ningún caso un partido político podrá contar con más de 315 diputados por ambos principios;
+IV. Ningún partido político podrá contar con más de 300 diputados por ambos principios;
 
-> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-V. El partido político que haya obtenido más del 60% de la votación nacional emitida, tendrá derecho a que se le asignen diputados por el principio de representación proporcional, hasta que el número de diputados por ambos principios sea igual a su porcentaje de votación nacional emitida sin rebasar el límite señalado en la fracción IV de este artículo;
+V. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación nacional emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación nacional emitida más el ocho por ciento; y
 
-> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-VI. Ningún partido político que haya obtenido el 60% o menos de la votación nacional emitida podrá contar con más de 300 diputados por ambos principios; y
-
-> <small>(ADICIONADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
-
-VII. En los términos de lo establecido en las fracciones III, IV, V y VI anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones V o VI, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones nacionales de estos últimos. La ley desarrollará las reglas y fórmulas necesarias para estos efectos.
+VI. En los términos de lo establecido en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones nacionales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
 ###### Art. 55.
 
@@ -1038,15 +1004,15 @@ VI. No ser Ministro de algún culto religioso, y
 
 VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
 
-> <small>(REFORMADO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 56.
 
-Para integrar la Cámara de Senadores, en cada Estado y en el Distrito Federal se elegirán cuatro senadores, de los cuales tres serán electos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para cada entidad federativa, los partidos políticos deberán registrar una lista con tres fórmulas de candidatos.
+La Cámara de Senadores se integrará por ciento veintiocho senadores, de los cuales, en cada Estado y en el Distrito Federal, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
 
-La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+Los treinta y dos senadores restantes serán elegidos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional. La ley establecerá las reglas y fórmulas para estos efectos.
 
-La Cámara de Senadores se renovará en su totalidad, en elección directa, cada seis años.
+La Cámara de Senadores se renovará en su totalidad cada seis años.
 
 ###### Art. 57.
 
@@ -1072,9 +1038,13 @@ Los Senadores y Diputados Suplentes podrán ser electos para el período inmedia
 
 El organismo público previsto en el artículo 41 de esta Constitución, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados y senadores en cada uno de los distritos electorales uninominales y en cada una de las entidades federativas; otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos y hará la asignación de senadores de primera minoría de conformidad con lo dispuesto en el artículo 56 de esta Constitución y en la ley. Asimismo, hará la declaración de validez y la asignación de diputados según el principio de representación proporcional de conformidad con el artículo 54 de esta Constitución y la ley.
 
-La declaración de validez, el otorgamiento de las constancias y la asignación de diputados o senadores podrán ser impugnadas ante las salas del Tribunal Federal Electoral, en los términos que señale la ley.
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-Las resoluciones de las salas a que se refiere el párrafo anterior, exclusivamente podrán ser revisadas por la Sala de segunda instancia del Tribunal Federal Electoral, mediante el recurso que los partidos políticos podrán interponer cuando hagan valer agravios debidamente fundados por los que se pueda modificar el resultado de la elección. Los fallos de esta Sala serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de diputados o senadores podrán ser impugnadas ante las salas regionales del Tribunal Electoral del Poder Judicial de la Federación, en los términos que señale la ley.
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+Las resoluciones de las salas a que se refiere el párrafo anterior, podrán ser revisadas exclusivamente por la Sala Superior del propio Tribunal, a través del medio de impugnación que los partidos políticos podrán interponer únicamente cuando por los agravios esgrimidos se pueda modificar el resultado de la elección. Los fallos de la Sala serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
 ###### Art. 61.
 
@@ -1246,9 +1216,7 @@ IV.- Para arreglar definitivamente los límites de los Estados, terminando las d
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
-
-VI.- Para expedir el Estatuto de Gobierno del Distrito Federal y legislar en lo relativo al Distrito Federal, salvo en las materias expresamente conferidas a la Asamblea de Representantes.
+VI.- (DEROGADA, D.O.F. 22 DE AGOSTO DE 1996)
 
 VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
@@ -1398,9 +1366,9 @@ XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efecti
 
 Son facultades exclusivas de la Cámara de Diputados:
 
-> <small>(REFORMADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-I.- Erigirse en Colegio Electoral para calificar la elección de Presidente de los Estados Unidos Mexicanos en la forma que determine la ley. Su resolución será definitiva e inatacable.
+I.- Expedir el Bando Solemne para dar a conocer en toda la República la declaración de Presidente Electo que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación.
 
 II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor.
 
@@ -1738,11 +1706,11 @@ Las Cámaras, a pedido de una cuarta parte de sus miembros, tratándose de los d
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales Colegiados y Unitarios de Circuito, en Juzgados de Distrito y en un Consejo de la Judicatura Federal.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito, en Juzgados de Distrito, y en un Consejo de la Judicatura Federal.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1752,9 +1720,9 @@ La Suprema Corte de Justicia de la Nación se compondrá de once Ministros y fun
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los tribunales de circuito y de los juzgados de distrito y las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
+La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la competencia de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial de la Federación, se regirán por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1768,9 +1736,9 @@ El Pleno de la Suprema Corte de Justicia, estará facultado para expedir acuerdo
 
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, no podrá ser disminuida durante su encargo.
+La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, así como los Magistrados Electorales, no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1848,13 +1816,59 @@ Cuando la falta de un Ministro excediere de un mes, el Presidente de la Repúbli
 
 Si faltare un Ministro por defunción o por cualquier causa de separación definitiva, el Presidente someterá un nuevo nombramiento a la aprobación del Senado, en los términos del artículo 96 de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-###### Art. 99.
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 Las renuncias de los Ministros de la Suprema Corte de Justicia solamente procederán por causas graves; serán sometidas al Ejecutivo y, si éste las acepta, las enviará para su aprobación al Senado.
 
-Las licencias de los Ministros, cuando no excedan de un mes, podrán ser concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, podrán concederse por el Presidente de la República con la aprobación del Senado. Se exceptúan los casos de los párrafos decimosexto y decimonoveno del artículo 41 de esta Constitución, en los que se estará a lo dispuesto en dichos párrafos. Ninguna licencia podrá exceder del término de dos años.
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+Las licencias de los Ministros, cuando no excedan de un mes, podrán ser concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, podrán concederse por el Presidente de la República con la aprobación del Senado. Ninguna licencia podrá exceder del término de dos años.
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+###### Art. 99.
+
+El Tribunal Electoral será, con excepción de lo dispuesto en la fracción II del artículo 105 de esta Constitución, la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial de la Federación.
+
+Para el ejercicio de sus atribuciones, el Tribunal funcionará con una Sala Superior así como con Salas Regionales y sus sesiones de resolución serán públicas, en los términos que determine la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+La Sala Superior se integrará por siete Magistrados Electorales. El Presidente del Tribunal será elegido por la Sala Superior, de entre sus miembros, para ejercer el cargo por cuatro años.
+
+Al Tribunal Electoral le corresponde resolver en forma definitiva e inatacable, en los términos de esta Constitución y según lo disponga la ley, sobre:
+
+I. Las impugnaciones en las elecciones federales de diputados y senadores;
+
+II. Las impugnaciones que se presenten sobre la elección de Presidente de los Estados Unidos Mexicanos que serán resueltas en única instancia por la Sala Superior.
+
+La Sala Superior realizará el cómputo final de la elección de Presidente de los Estados Unidos Mexicanos, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Presidente Electo respecto del candidato que hubiese obtenido el mayor número de votos;
+
+III. Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales;
+
+IV. Las impugnaciones de actos o resoluciones definitivos y firmes de las autoridades competentes de las entidades federativas para organizar y calificar los comicios o resolver las controversias que surjan durante los mismos, que puedan resultar determinantes para el desarrollo del proceso respectivo o el resultado final de las elecciones. Esta vía procederá solamente cuando la reparación solicitada sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o legalmente fijada para la instalación de los órganos o la toma de posesión de los funcionarios elegidos;
+
+V. Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar, ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del país, en los términos que señalen esta Constitución y las leyes;
+
+VI. Los conflictos o diferencias laborales entre el Tribunal y sus servidores;
+
+VII. Los conflictos o diferencias laborales entre el Instituto Federal Electoral y sus servidores;
+
+VIII. La determinación e imposición de sanciones en la materia; y
+
+IX. Las demás que señale la ley.
+
+Cuando una Sala del Tribunal Electoral sustente una tesis sobre la inconstitucionalidad de algún acto o resolución o sobre la interpretación de un precepto de esta Constitución, y dicha tesis pueda ser contradictoria con una sostenida por las Salas o el Pleno de la Suprema Corte de Justicia, cualquiera de los Ministros, las Salas o las partes, podrán denunciar la contradicción, en los términos que señale la ley, para que el Pleno de la Suprema Corte de Justicia de la Nación decida en definitiva cual tesis debe prevalecer. Las resoluciones que se dicten en este supuesto no afectarán los asuntos ya resueltos.
+
+La organización del Tribunal, la competencia de las Salas, los procedimientos para la resolución de los asuntos de su competencia, así como los mecanismos para fijar criterios de jurisprudencia obligatorios en la materia, serán los que determinen esta Constitución y las leyes.
+
+La administración, vigilancia y disciplina en el Tribunal Electoral corresponderán, en los términos que señale la ley, a una Comisión del Consejo de la Judicatura Federal, que se integrará por el Presidente del Tribunal Electoral, quien la presidirá; un Magistrado Electoral de la Sala Superior designado por insaculación; y tres miembros del Consejo de la Judicatura Federal. El Tribunal propondrá su presupuesto al Presidente de la Suprema Corte de Justicia de la Nación para su inclusión en el proyecto del Presupuesto del Poder Judicial de la Federación. Asimismo, el Tribunal expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+
+Los Magistrados Electorales que integren la Sala Superior y las regionales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores, o en sus recesos por la Comisión Permanente, a propuesta de la Suprema Corte de Justicia de la Nación. La ley señalará las reglas y el procedimiento correspondientes.
+
+Los Magistrados Electorales que integren la Sala Superior deberán satisfacer los requisitos que establezca la ley, que no podrán ser menores a los que se exigen para ser Ministro de la Suprema Corte de Justicia de la Nación y durarán en su encargo diez años improrrogables. Las renuncias, ausencias y licencias de los Magistrados Electorales de la Sala Superior serán tramitadas, cubiertas y otorgadas por dicha Sala, según corresponda, en los términos del artículo 98 de esta Constitución.
+
+Los Magistrados Electorales que integren las salas regionales deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que se exigen para ser Magistrado de Tribunal Colegiado de Circuito. Durarán en su encargo ocho años improrrogables, salvo si son promovidos a cargos superiores.
+
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las disposiciones aplicables al Poder Judicial de la Federación y a las reglas especiales y excepciones que señale la ley.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1878,17 +1892,25 @@ Las decisiones del Consejo serán definitivas e inatacables, salvo las que se re
 
 La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación. Con ambos se integrará el presupuesto del Poder Judicial de la Federación que será remitido por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 101.
 
-Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito y los respectivos secretarios, así como los Consejeros de la Judicatura Federal, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito, los respectivos secretarios, y los Consejeros de la Judicatura Federal, así como los Magistrados de la Sala Superior del Tribunal Electoral, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-Las personas que hayan ocupado el cargo de Ministro de la Suprema Corte de Justicia, Magistrado de Circuito, Juez de Distrito o Consejero de la Judicatura Federal no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial de la Federación.
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+Las personas que hayan ocupado el cargo de Ministro de la Suprema Corte de Justicia, Magistrado de Circuito, Juez de Distrito o Consejero de la Judicatura Federal, así como Magistrado de la Sala Superior del Tribunal Electoral, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 Durante dicho plazo, las personas que se hayan desempeñado como Ministros, salvo que lo hubieran hecho con el carácter de provisional o interino, no podrán ocupar los cargos señalados en la fracción VI del artículo 95 de esta Constitución.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
@@ -2002,7 +2024,9 @@ Siempre que las controversias versen sobre disposiciones generales de los Estado
 
 En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
 
-II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, con excepción de las que se refieran a la materia electoral.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
 Las acciones de inconstitucionalidad podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
 
@@ -2014,7 +2038,19 @@ c).- El Procurador General de la República, en contra de leyes de carácter fed
 
 d).- El equivalente al treinta y tres por ciento de los integrantes de alguno de los órganos legislativos estatales, en contra de leyes expedidas por el propio órgano, y
 
-e).- El equivalente al treinta y tres por ciento de los integrantes de la Asamblea de Representantes del Distrito Federal, en contra de leyes expedidas por la propia Asamblea.
+e).- El equivalente al treinta y tres por ciento de los integrantes de la Asamblea de Representantes del Distrito Federal, en contra de leyes expedidas por la propia Asamblea;
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+f).- Los partidos políticos con registro ante el Instituto Federal Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+La única vía para plantear la no conformidad de las leyes electorales a la Constitución es la prevista en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+Las leyes electorales federal y locales deberán promulgarse y publicarse por lo menos noventa días antes de que inicie el proceso electoral en que vayan a aplicarse, y durante el mismo no podrá haber modificaciones legales fundamentales.
 
 Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por una mayoría de cuando menos ocho votos.
 
@@ -2180,15 +2216,19 @@ XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
 
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 108.
 
-Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros de los poderes Judicial Federal y Judicial del Distrito Federal, a los funcionarios y empleados, y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o en el Distrito Federal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial Federal y del Poder Judicial del Distrito Federal, los funcionarios y empleados, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal o en el Distrito Federal, así como a los servidores del Instituto Federal Electoral, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
 (REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales y, en su caso, los miembros de los Consejos de las Judicaturas Locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo indebido de fondos y recursos federales.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios.
 
@@ -2212,11 +2252,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Congreso de la Unión respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los Senadores y Diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Representantes a la Asamblea del Distrito Federal, el titular del órgano u órganos de gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República, el Procurador General de Justicia del Distrito Federal, los Magistrados de Circuito y Jueces de Distrito, los Magistrados y Jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los Consejeros Electorales, y el Secretario Ejecutivo del Instituto Federal Electoral, los Magistrados del Tribunal Electoral, los Directores Generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2238,11 +2278,11 @@ Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de senten
 
 Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 111.
 
-Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Representantes a la Asamblea del Distrito Federal, el titular del órgano de gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados y Senadores al Congreso de la Unión, los Ministros de la Suprema Corte de Justicia de la Nación, los Magistrados de la Sala Superior del Tribunal Electoral, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los Jefes de Departamento Administrativo, los Diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Procurador General de la República y el Procurador General de Justicia del Distrito Federal, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Federal Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -2408,7 +2448,9 @@ II.- El número de representantes en las legislaturas de los Estados será propo
 
 Los diputados a las legislaturas de los Estados no podrán ser reelectos para el período inmediato. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-En la legislación electoral respectiva se introducirá el sistema de diputados de minoría en la elección de las legislaturas locales.
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+
+Las legislaturas de los Estados se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señalen sus leyes.
 
 III.- El Poder Judicial de los Estados se ejercerá por los tribunales que establezcan las Constituciones respectivas.
 
@@ -2420,17 +2462,37 @@ Los Magistrados integrantes de los Poderes Judiciales Locales, deberán reunir l
 
 Los nombramientos de los magistrados y jueces integrantes de los Poderes Judiciales Locales serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
 Los magistrados durarán en el ejercicio de su encargado (sic) el tiempo que señalen las Constituciones Locales, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen las Constituciones y las Leyes de Responsabilidades de los Servidores Públicos de los Estados.
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-IV.- Las Constituciones y leyes de los Estados podrán instituir Tribunales de lo Contencioso-Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+> <small>(ADICIONADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
-V.- Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias.
+IV.- Las Constituciones y leyes de los Estados en materia electoral garantizarán que:
 
-VI.- La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+a) Las elecciones de los gobernadores de los Estados, de los miembros de las legislaturas locales y de los integrantes de los ayuntamientos se realicen mediante sufragio universal, libre, secreto y directo;
+
+b) En el ejercicio de la función electoral a cargo de las autoridades electorales sean principios rectores los de legalidad, imparcialidad, objetividad, certeza e independencia;
+
+c) Las autoridades que tengan a su cargo la organización de las elecciones y las jurisdiccionales que resuelvan las controversias en la materia, gocen de autonomía en su funcionamiento e independencia en sus decisiones;
+
+d) Se establezca un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad;
+
+e) Se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales;
+
+f) De acuerdo con las disponibilidades presupuestales, los partidos políticos reciban, en forma equitativa, financiamiento público para su sostenimiento y cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal;
+
+g) Se propicien condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social;
+
+h) Se fijen los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; se establezcan, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; e
+
+i) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse;
+
+V.- Las Constituciones y leyes de los Estados podrán instituir Tribunales de lo Contencioso-Administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+
+VI.- Las relaciones de trabajo entre los estados y sus trabajadores, se regirán por las leyes que expidan las legislaturas de los estados con base en lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
+
+VII.- La Federación y los Estados, en los términos de ley, podrán convenir la asunción por parte de éstos del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
 Los Estados estarán facultados para celebrar esos convenios con sus Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior.
 
@@ -2508,195 +2570,175 @@ IV.- Los actos del estado civil ajustados a las leyes de un Estado, tendrán val
 
 V.- Los títulos profesionales expedidos por las autoridades de un Estado, con sujeción a sus leyes, serás (sic) respetados en los otros.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 ###### Art. 122.
 
-El Gobierno del Distrito Federal está a cargo de los Poderes de la Unión, los cuales lo ejercerán por sí y a través de los órganos de gobierno del Distrito Federal representativos y democráticos, que establece esta Constitución.
+Definida por el artículo 44 de este ordenamiento la naturaleza jurídica del Distrito Federal, su gobierno está a cargo de los Poderes Federales y de los órganos Ejecutivo, Legislativo y Judicial de carácter local, en los términos de este artículo.
 
-I.- Corresponde al Congreso de la Unión expedir el Estatuto de Gobierno del Distrito Federal en el que se determinarán:
+Son autoridades locales del Distrito Federal, la Asamblea Legislativa, el Jefe de Gobierno del Distrito Federal y el Tribunal Superior de Justicia.
 
-a) La distribución de atribuciones de los Poderes de la Unión en materias del Distrito Federal, y de los órganos de gobierno del Distrito Federal, según lo que dispone esta Constitución;
+La Asamblea Legislativa del Distrito Federal se integrará con el número de diputados electos según los principios de mayoría relativa y de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal, en los términos que señalen esta Constitución y el Estatuto de Gobierno.
 
-b) Las bases para la organización y facultades de los órganos locales de gobierno del Distrito Federal, que serán:
+El Jefe de Gobierno del Distrito Federal tendrá a su cargo el Ejecutivo y la administración pública en la entidad y recaerá en una sola persona, elegida por votación universal, libre, directa y secreta.
 
-1. La Asamblea de Representantes;
+El Tribunal Superior de Justicia y el Consejo de la Judicatura, con los demás órganos que establezca el Estatuto de Gobierno, ejercerán la función judicial del fuero común en el Distrito Federal.
 
-2. El Jefe del Distrito Federal; y
+La distribución de competencias entre los Poderes de la Unión y las autoridades locales del Distrito Federal se sujetará a las siguientes disposiciones:
 
-3. El Tribunal Superior de Justicia;
+A. Corresponde al Congreso de la Unión:
 
-c) Los derechos y obligaciones de carácter público de los habitantes del Distrito Federal;
+I.- Legislar en lo relativo al Distrito Federal, con excepción de las materias expresamente conferidas a la Asamblea Legislativa;
 
-d) Las bases para la organización de la Administración Pública del Distrito Federal y la distribución de atribuciones entre sus órganos centrales y desconcentrados, así como la creación de entidades paraestatales; y
+II.- Expedir el Estatuto de Gobierno del Distrito Federal;
 
-e) Las bases para la integración, por medio de elección directa en cada demarcación territorial, de un consejo de ciudadanos para su intervención en la gestión, supervisión, evaluación y, en su caso, consulta o aprobación, de aquellos programas de la administración pública del Distrito Federal que para las demarcaciones determinen las leyes correspondientes. La Ley establecerá la participación de los partidos políticos con registro nacional en el proceso de integración de los consejos ciudadanos.
+III.- Legislar en materia de deuda pública del Distrito Federal;
 
-II.- Corresponde al Presidente de los Estados Unidos Mexicanos:
+IV.- Dictar las disposiciones generales que aseguren el debido, oportuno y eficaz funcionamiento de los Poderes de la Unión; y
 
-a) Nombrar al Jefe del Distrito Federal en los términos que dispone esta Constitución;
+V.- Las demás atribuciones que le señala esta Constitución.
 
-b) Aprobar el nombramiento o remoción, en su caso, que haga el Jefe del Distrito Federal del Procurador General de Justicia;
+B. Corresponde al Presidente de los Estados Unidos Mexicanos:
 
-c) El mando de la Fuerza Pública en el Distrito Federal y la designación del servidor público que la tenga a su cargo. El Ejecutivo Federal podrá delegar en el Jefe del Distrito Federal las funciones de dirección en materia de seguridad pública;
+I.- Iniciar leyes ante el Congreso de la Unión en lo relativo al Distrito Federal;
 
-d) Enviar anualmente al Congreso de la Unión, la propuesta de los montos de endeudamiento necesarios para el financiamiento del presupuesto de egresos del Distrito Federal. Para tal efecto, el Jefe del Distrito Federal, someterá a la consideración del Ejecutivo Federal la propuesta correspondiente en los términos que disponga la ley;
+II.- Proponer al Senado a quien deba sustituir, en caso de remoción, al Jefe de Gobierno del Distrito Federal;
 
-e) Iniciar leyes y decretos ante la Asamblea de Representantes del Distrito Federal; y
+III.- Enviar anualmente al Congreso de la Unión, la propuesta de los montos de endeudamiento necesarios para el financiamiento del presupuesto de egresos del Distrito Federal. Para tal efecto, el Jefe de Gobierno del Distrito Federal someterá a la consideración del Presidente de la República la propuesta correspondiente, en los términos que disponga la Ley;
 
-f) Las demás atribuciones que le señalen esta Constitución, el Estatuto y las leyes.
+IV.- Proveer en la esfera administrativa a la exacta observancia de las leyes que expida el Congreso de la Unión respecto del Distrito Federal; y
 
-III.- La Asamblea de Representantes del Distrito Federal, se integrará por 40 representantes electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y 26 representantes electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Sólo podrán participar en la elección los partidos políticos con registro nacional. La demarcación de los distritos se establecerá como determine la ley.
+V.- Las demás atribuciones que le señale esta Constitución, el Estatuto de Gobierno y las leyes.
 
-Los representantes a la Asamblea del Distrito Federal serán electos cada tres años y por cada propietario se elegirá un suplente; las vacantes de los representantes serán cubiertas en los términos que la fracción IV del artículo 77 de esta Constitución establece para la Cámara de Diputados.
+C. El Estatuto de Gobierno del Distrito Federal se sujetará a las siguientes bases:
 
-Los representantes deberán reunir los mismos requisitos que esta Constitución establece para los diputados federales y les será aplicable lo dispuesto por los artículos 59, 62 y 64 de esta Constitución.
+BASE PRIMERA.- Respecto a la Asamblea Legislativa:
 
-La elección de los representantes según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en particular disponga la ley:
+I.- Los Diputados a la Asamblea Legislativa serán elegidos cada tres años por voto universal, libre, directo y secreto en los términos que disponga la Ley, la cual deberá tomar en cuenta, para la organización de las elecciones, la expedición de constancias y los medios de impugnación en la materia, lo dispuesto en los artículos 41, 60 y 99 de esta Constitución;
 
-a) Un partido político, para obtener el registro de su lista de candidatos a representantes a la Asamblea del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal;
+II.- Los requisitos para ser diputado a la Asamblea no podrán ser menores a los que se exigen para ser diputado federal. Serán aplicables a la Asamblea Legislativa y a sus miembros en lo que sean compatibles, las disposiciones contenidas en los artículos 51, 59, 61, 62, 64 y 77, fracción IV de esta Constitución;
 
-b) Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida, tendrá derecho a que le sean atribuidos representantes según el principio de representación proporcional; y
+III.- Al partido político que obtenga por sí mismo el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será asignado el número de Diputados de representación proporcional suficiente para alcanzar la mayoría absoluta de la Asamblea;
 
-c) Al partido político que cumpla con lo dispuesto por los dos incisos anteriores, le serán asignados representantes por el principio de representación proporcional. La ley establecerá la fórmula para su asignación. Además, al hacer ésta, se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+IV.- Establecerá las fechas para la celebración de dos períodos de sesiones ordinarios al año y la integración y las atribuciones del órgano interno de gobierno que actuará durante los recesos. La convocatoria a sesiones extraordinarias será facultad de dicho órgano interno a petición de la mayoría de sus miembros o del Jefe de Gobierno del Distrito Federal;
 
-En todo caso, para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
+V.- La Asamblea Legislativa, en los términos del Estatuto de Gobierno, tendrá las siguientes facultades:
 
-a) Ningún partido político podrá contar con más del sesenta y tres por ciento del total de representantes electos mediante ambos principios; y
+a).- Expedir su ley orgánica, la que será enviada al Jefe de Gobierno del Distrito Federal para el solo efecto de que ordene su publicación;
 
-b) Al partido político que obtenga por sí mismo el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será otorgada la constancia de asignación por el número suficiente de representantes para alcanzar la mayoría absoluta de la Asamblea.
+b).- Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto.
 
-En lo relativo a la organización de las elecciones, declaración de validez de las mismas, otorgamiento de constancias de mayoría, así como para el contencioso electoral de los representantes a la Asamblea del Distrito Federal, se estará a lo dispuesto por los artículos 41 y 60 de esta Constitución.
+Dentro de la ley de ingresos, no podrán incorporarse montos de endeudamiento superiores a los que haya autorizado previamente el Congreso de la Unión para el financiamiento del presupuesto de egresos del Distrito Federal.
 
-La Asamblea se reunirá a partir del 17 de septiembre de cada año, para celebrar un primer periodo de sesiones ordinarias, que podrá prolongarse hasta el 31 de diciembre del mismo año. El segundo periodo de sesiones ordinarias se iniciará a partir del 15 de marzo de cada año y podrá prolongarse hasta el 30 de abril del mismo año. Durante sus recesos, la Asamblea celebrará sesiones extraordinarias para atender los asuntos urgentes para los cuales sea convocada, a petición de la mayoría de los integrantes de su Comisión de Gobierno del Presidente de la República o del Jefe del Distrito Federal.
+La facultad de iniciativa respecto de la ley de ingresos y el presupuesto de egresos corresponde exclusivamente al Jefe de Gobierno del Distrito Federal. El plazo para su presentación concluye el 30 de noviembre, con excepción de los años en que ocurra la elección ordinaria del Jefe de Gobierno del Distrito Federal, en cuyo caso la fecha límite será el 20 de diciembre.
 
-Los representes a la Asamblea son inviolables por las opiniones que manifiesten en el desempeño de su cargo. Su Presidente velará por el respeto al fuero constitucional de sus miembros, así como por la inviolabilidad del recinto donde se reúnan a sesionar. En materia de responsabilidades, será aplicable a los representantes de la Asamblea la ley federal que regula las responsabilidades de los servidores públicos.
+La Asamblea Legislativa formulará anualmente su proyecto de presupuesto y lo enviará oportunamente al Jefe de Gobierno del Distrito Federal para que éste lo incluya en su iniciativa.
 
-IV.- La Asamblea de Representantes del Distrito Federal tiene facultades para:
+Serán aplicables a la hacienda pública del Distrito Federal, en lo que no sea incompatible con su naturaleza y su régimen orgánico de gobierno, las disposiciones contenidas en el segundo párrafo del inciso c) de la fracción IV del artículo 115 de esta Constitución;
 
-a) Expedir su ley orgánica que regulará su estructura y funcionamiento internos, la que será enviada al Jefe del Distrito Federal y al Presidente de la República para su sola publicación;
+c).- Revisar la cuenta pública del año anterior, por conducto de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, conforme a los criterios establecidos en la fracción IV del artículo 74, en lo que sean aplicables.
 
-b) Examinar, discutir y aprobar anualmente el presupuesto de egresos del Distrito Federal, analizando primero las contribuciones que a su juicio deban decretarse para cubrirlos.
+La cuenta pública del año anterior deberá ser enviada a la Asamblea Legislativa dentro de los diez primeros días del mes de junio. Este plazo, así como los establecidos para la presentación de las iniciativas de la ley de ingresos y del proyecto del presupuesto de egresos, solamente podrán ser ampliados cuando se formule una solicitud del Ejecutivo del Distrito Federal suficientemente justificada a juicio de la Asamblea;
 
-La Asamblea de Representantes, formulará su proyecto de presupuesto y lo enviará oportunamente al Jefe del Distrito Federal para que éste ordene su incorporación al Proyecto de Presupuesto de Egresos del Distrito Federal.
+d).- Nombrar a quien deba sustituir en caso de falta absoluta, al Jefe de Gobierno del Distrito Federal;
 
-Las leyes federales no limitarán la facultad del Distrito Federal para establecer contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles, incluyendo tasas adicionales, ni sobre los servicios públicos a su cargo. Tampoco considerarán a personas como no sujetos de contribuciones ni establecerán exenciones, subsidios o regímenes fiscales especiales en favor de personas físicas y morales ni de instituciones oficiales o privadas en relación con dichas contribuciones. Las leyes del Distrito Federal no establecerán exenciones o subsidios respecto a las mencionadas contribuciones en favor de personas físicas o morales ni de instituciones oficiales o privadas.
+e).- Expedir las disposiciones legales para organizar la hacienda pública, la contaduría mayor y el presupuesto, la contabilidad y el gasto público del Distrito Federal;
 
-Sólo los bienes del dominio público de la Federación y del Distrito Federal estarán exentos de las contribuciones señaladas.
+f).- Expedir las disposiciones que rijan las elecciones locales en el Distrito Federal, sujetándose a las bases que establezca el Estatuto de Gobierno, las cuales tomarán en cuenta los principios establecidos en los incisos b) al i) de la fracción IV del artículo 116 de esta Constitución. En estas elecciones sólo podrán participar los partidos políticos con registro nacional;
 
-Las prohibiciones y limitaciones que esta Constitución establece para los estados se aplicarán para el Distrito Federal;
+g).- Legislar en materia de Administración Pública local, su régimen interno y de procedimientos administrativos;
 
-c) Revisar la cuenta pública del año anterior. La revisión tendrá como finalidad comprobar si los programas contenidos en el presupuesto se han cumplido conforme a lo autorizado según las normas y criterios aplicables, así como conocer de manera general los resultados financieros de la gestión del gobierno del Distrito Federal. En caso de que de la revisión que efectúe la Asamblea de Representantes, se manifestarán desviaciones en la realización de los programas o incumplimiento a las disposiciones administrativas o legales aplicables, se determinarán las responsabilidades a que haya lugar de acuerdo con la ley de la materia.
+h).- Legislar en las materias civil y penal; normar el organismo protector de los derechos humanos, participación ciudadana, defensoría de oficio, notariado y registro público de la propiedad y de comercio;
 
-La cuenta pública del año anterior, deberá ser enviada a la Asamblea de Representantes dentro de los diez primeros días del mes de junio.
+i).- Normar la protección civil; justicia cívica sobre faltas de policía y buen gobierno; los servicios de seguridad prestados por empresas privadas; la prevención y la readaptación social; la salud y asistencia social; y la previsión social;
 
-Sólo se podrá ampliar el plazo de presentación de las iniciativas de leyes de ingresos y del proyecto de presupuesto de egresos, así como de la cuenta pública, cuando medie solicitud del Jefe del Distrito Federal suficientemente justificada a juicio de la Asamblea de Representantes;
+j).- Legislar en materia de planeación del desarrollo; en desarrollo urbano, particularmente en uso del suelo; preservación del medio ambiente y protección ecológica; vivienda; construcciones y edificaciones; vías públicas, tránsito y estacionamientos; adquisiciones y obra pública; y sobre explotación, uso y aprovechamiento de los bienes del patrimonio del Distrito Federal;
 
-d) Expedir la ley orgánica de los tribunales de justicia del Distrito Federal;
+k).- Regular la prestación y la concesión de los servicios públicos; legislar sobre los servicios de transporte urbano, de limpia, turismo y servicios de alojamiento, mercados, rastros y abasto, y cementerios;
 
-e) Expedir la ley orgánica del tribunal de lo contencioso administrativo, que se encargará de la función jurisdiccional en el orden administrativo, que contará con plena autonomía para dictar sus fallos a efecto de dirimir las controversias que se susciten entre la administración pública del Distrito Federal y los particulares;
+l).- Expedir normas sobre fomento económico y protección al empleo; desarrollo agropecuario; establecimientos mercantiles; protección de animales; espectáculos públicos; fomento cultural cívico y deportivo; y función social educativa en los términos de la fracción VIII, del artículo 3o. de esta Constitución;
 
-f) Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión;
+m).- Expedir la Ley Orgánica de los tribunales encargados de la función judicial del fuero común en el Distrito Federal, que incluirá lo relativo a las responsabilidades de los servidores públicos de dichos órganos;
 
-g) Legislar en el ámbito local, en lo relativo al Distrito Federal en los términos del Estatuto de Gobierno en materias de: Administración Pública Local, su régimen interno y de procedimientos administrativos; de presupuesto, contabilidad y gasto público; regulación de su contaduría mayor; bienes del dominio público y privado del Distrito Federal; servicios públicos y su concesión, así como de la explotación, uso y aprovechamiento de bienes del dominio del Distrito Federal; justicia cívica sobre faltas de policía y buen gobierno; participación ciudadana; organismo protector de los derechos humanos; civil; penal; defensoría de oficio; notariado; protección civil; prevención y readaptación social; planeación del desarrollo; desarrollo urbano y uso del suelo; establecimiento de reservas territoriales; preservación del medio ambiente y protección ecológica; protección de animales; construcciones y edificaciones; vías públicas, transporte urbano y tránsito; estacionamientos; servicio público de limpia; fomento económico y protección al empleo; establecimientos mercantiles; espectáculos públicos; desarrollo agropecuario; vivienda; salud y asistencia social; turismo y servicios de alojamiento; previsión social; fomento cultural, cívico y deportivo; mercados, rastros y abasto; cementerios, y función social educativa en los términos de la fracción VIII del artículo 3o. de esta Constitución; y
+n).- Expedir la Ley Orgánica del Tribunal de lo Contencioso Administrativo para el Distrito Federal;
 
-h) Las demás que expresamente le otorga esta Constitución.
+ñ).- Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión; y
 
-V.- La facultad de iniciar leyes y decretos ante la Asamblea corresponde a sus miembros, al Presidente de la República y al Jefe del Distrito Federal. Será facultad exclusiva del Jefe del Distrito Federal la formulación de las iniciativas de ley de ingresos y decreto de presupuesto de egresos, las que remitirá a la Asamblea a más tardar el 30 de noviembre, o hasta el 20 de diciembre, cuando inicie su encargo en dicho mes.
+o).- Las demás que se le confieran expresamente en esta Constitución.
 
-Los proyectos de leyes o decretos que expida la Asamblea de Representantes se remitirán para su promulgación al Presidente de la República, quién podrá hacer observaciones y devolverlos en un lapso de diez días hábiles, a no ser que transcurrido dicho término, la Asamblea hubiese cerrado o suspendido sus sesiones, en cuyo caso, la devolución deberá hacerse el primer día hábil en que la Asamblea se reúna. De no ser devuelto en ese plazo, se entenderá aceptado y se procederá a su promulgación. El proyecto devuelto con observaciones deberá ser discutido nuevamente por la Asamblea.
+BASE SEGUNDA.- Respecto al Jefe de Gobierno del Distrito Federal:
 
-Si se aceptasen las observaciones o si fuese confirmado por las dos terceras partes del número total de votos de los representantes presentes en la sesión, el proyecto será ley o decreto y se enviará en los términos aprobados, para su promulgación.
+I.- Ejercerá su encargo, que durará seis años, a partir del día 5 de diciembre del año de la elección, la cual se llevará a cabo conforme a lo que establezca la legislación electoral.
 
-El Jefe del Distrito Federal refrendará los decretos promulgatorios del Presidente de la República respecto de las leyes o decretos que expida la Asamblea de Representantes.
+Para ser Jefe de Gobierno del Distrito Federal deberán reunirse los requisitos que establezca el Estatuto de Gobierno, entre los que deberán estar: ser ciudadano mexicano por nacimiento en pleno goce de sus derechos con una residencia efectiva de tres años inmediatamente anteriores al día de la elección si es originario del Distrito Federal o de cinco años ininterrumpidos para los nacidos en otra entidad; tener cuando menos treinta años cumplidos al día de la elección, y no haber desempeñado anteriormente el cargo de Jefe de Gobierno del Distrito Federal con cualquier carácter. La residencia no se interrumpe por el desempeño de cargos públicos de la Federación en otro ámbito territorial.
 
-VI.- El Jefe del Distrito Federal, será el titular de la Administración Pública del Distrito Federal. Ejercerá sus funciones en los términos que establezca esta Constitución, el Estatuto de Gobierno y las demás leyes aplicables, con arreglo a las siguientes bases:
+Para el caso de remoción del Jefe de Gobierno del Distrito Federal, el Senado nombrará, a propuesta del Presidente de la República, un sustituto que concluya el mandato. En caso de falta temporal, quedará encargado del despacho el servidor público que disponga el Estatuto de Gobierno. En caso de falta absoluta, por renuncia o cualquier otra causa, la Asamblea Legislativa designará a un sustituto que termine el encargo. La renuncia del Jefe de Gobierno del Distrito Federal sólo podrá aceptarse por causas graves. Las licencias al cargo se regularán en el propio Estatuto.
 
-a) El Jefe del Distrito Federal será nombrado por el Presidente de la República de entre cualquiera de los Representantes a la Asamblea, Diputados Federales o Senadores electos en el Distrito Federal, que pertenezcan al partido político que por sí mismo obtenga el mayor número de asientos en la Asamblea de Representantes. El nombramiento será sometido a la ratificación de dicho órgano, que contará con un plazo de cinco días para, en su caso, ratificarlo. Si el nombramiento no fuese ratificado, el Presidente presentará a la Asamblea, un segundo nombramiento para su ratificación dentro de un plazo de cinco días. Si no hubiera ratificación del segundo nombramiento, el Senado hará directamente el nombramiento del Jefe del Distrito Federal;
+II.- El Jefe de Gobierno del Distrito Federal tendrá las facultades y obligaciones siguientes:
 
-b) El Jefe del Distrito Federal podrá durar en su encargo hasta seis años, a partir de la fecha en que rinda protesta ante la Asamblea de Representantes o en su caso, ante el Senado de la República, y hasta el 2 de diciembre del año en que concluya el periodo constitucional del Presidente de la República;
+a).- Cumplir y ejecutar las leyes relativas al Distrito Federal que expida el Congreso de la Unión, en la esfera de competencia del órgano ejecutivo a su cargo o de sus dependencias;
 
-c) En caso de falta temporal del Jefe del Distrito Federal o durante el periodo de ratificación del nombramiento de Jefe del Distrito Federal, quedará encargado del despacho el servidor público que disponga el Estatuto de Gobierno. En caso de falta absoluta, o con motivo de su remoción, el Presidente de la República procederá a nombrar, ajustándose a lo dispuesto en el inciso a) de esta fracción, un sustituto que concluirá el periodo respectivo;
+b).- Promulgar, publicar y ejecutar las leyes que expida la Asamblea Legislativa, proveyendo en la esfera administrativa a su exacta observancia, mediante la expedición de reglamentos, decretos y acuerdos. Asimismo, podrá hacer observaciones a las leyes que la Asamblea Legislativa le envíe para su promulgación, en un plazo no mayor de diez días hábiles. Si el proyecto observado fuese confirmado por mayoría calificada de dos tercios de los diputados presentes, deberá ser promulgado por el Jefe de Gobierno del Distrito Federal;
 
-d) En caso de que la Asamblea de Representantes del Distrito Federal, no estuviera en periodo de sesiones, el Presidente de la República presentará a ratificación el nombramiento de Jefe del Distrito Federal a la Comisión de Gobierno de la Asamblea de Representantes, la que en el siguiente periodo ordinario, lo someterá al pleno de la Asamblea para su aprobación definitiva;
+c).- Presentar iniciativas de leyes o decretos ante la Asamblea Legislativa;
 
-e) El Jefe del Distrito Federal, solicitará licencia para separarse de su encargo de representante popular previo a la fecha en que rinda protesta ante la Asamblea de Representantes, o en su caso, ante el Senado;
+d).- Nombrar y remover libremente a los servidores públicos dependientes del órgano ejecutivo local, cuya designación o destitución no estén previstas de manera distinta por esta Constitución o las leyes correspondientes;
 
-f) El ciudadano que ocupe el cargo de Jefe del Distrito Federal, con cualquier carácter, en ningún caso podrá volver a ocuparlo;
+e).- Ejercer las funciones de dirección de los servicios de seguridad pública de conformidad con el Estatuto de Gobierno; y
 
-g) El Jefe del Distrito Federal ejecutará las leyes o decretos que expida la Asamblea de Representantes, proveyendo en la esfera administrativa a su exacta observancia. Asimismo, expedirá los reglamentos gubernativos que corresponden al Distrito Federal. También ejecutará las leyes o decretos que expida el Congreso de la Unión respecto del Distrito Federal, cuando así lo determinen éstas.
+f).- Las demás que le confiera esta Constitución, el Estatuto de Gobierno y las leyes.
 
-Todos los reglamentos y decretos que expida el Jefe del Distrito Federal deberán ser refrendados por el servidor público que señale el Estatuto de Gobierno;
+BASE TERCERA.- Respecto a la organización de la Administración Pública local en el Distrito Federal:
 
-h) El Jefe del Distrito Federal será responsable ante el Congreso de la Unión de acuerdo con el Título Cuarto de esta Constitución, y por violaciones a las leyes del Distrito Federal así como por el manejo indebido de fondos y recursos públicos locales; y
+I.- Determinará los lineamientos generales para la distribución de atribuciones entre los órganos centrales, desconcentrados y descentralizados;
 
-i) El Jefe del Distrito Federal, podrá ser removido de su cargo por el Senado, en sus recesos, por la Comisión Permanente, por causas graves que afecten las relaciones con los Poderes de la Unión o el orden público en el Distrito Federal. La solicitud de remoción deberá ser presentada por la mitad de los miembros de la Cámara de Senadores o de la Comisión Permanente, en su caso.
+II.- Establecerá los órganos político-administrativos en cada una de las demarcaciones territoriales en que se divida el Distrito Federal.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994) (F. DE E., D.O.F. 3 DE ENERO DE 1995)
+Asimismo fijará los criterios para efectuar la división territorial del Distrito Federal, la competencia de los órganos político-administrativos correspondientes, la forma de integrarlos, su funcionamiento, así como las relaciones de dichos órganos con el Jefe de Gobierno del Distrito Federal.
 
-VII.- La función judicial se ejercerá por el Tribunal Superior de Justicia, el cual se integrará por el número de Magistrados que señale la ley orgánica correspondiente, así como por los jueces de primera instancia y demás órganos que la propia ley señale. Para ser magistrado se deberán reunir los requisitos que establecen las fracciones I a V del artículo 95 de esta Constitución. No podrán ser Magistrados las personas que hayan ocupado el cargo de Jefe del Distrito Federal, Secretario General, Procurador General de Justicia, o Representante a la Asamblea del Distrito Federal, durante el año previo al día de la designación.
+Los titulares de los órganos político-administrativos de las demarcaciones territoriales serán elegidos en forma universal, libre, secreta y directa, según lo determine la ley.
 
-Los nombramientos de los magistrados se harán por el Jefe del Distrito Federal, en los términos previstos por el Estatuto de gobierno y la ley orgánica respectiva. Los nombramientos de los magistrados serán sometidos a la aprobación de la Asamblea de Representantes. Cada magistrado del Tribunal, al entrar a ejercer su cargo, rendirá protesta de guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, ante el Pleno de la Asamblea de Representantes.
+BASE CUARTA.- Respecto al Tribunal Superior de Justicia y los demás órganos judiciales del fuero común:
 
-Los magistrados durarán seis años en el ejercicio de su cargo, podrán ser ratificados, y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+I.- Para ser magistrado del Tribunal Superior se deberán reunir los mismos requisitos que esta Constitución exige para los ministros de la Suprema Corte de Justicia; se requerirá, además, haberse distinguido en el ejercicio profesional o en el ramo judicial, preferentemente en el Distrito Federal. El Tribunal Superior de Justicia se integrará con el número de magistrados que señale la ley orgánica respectiva.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+Para cubrir las vacantes de magistrados del Tribunal Superior de Justicia, el Jefe de Gobierno del Distrito Federal someterá la propuesta respectiva a la decisión de la Asamblea Legislativa. Los Magistrados ejercerán el cargo durante seis años y podrán ser ratificados por la Asamblea; y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución;
 
-La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales estarán a cargo del Consejo de la Judicatura del Distrito Federal, en los términos que, conforme a las bases que señala esta Constitución, establezcan el Estatuto de Gobierno y las leyes respectivas.
+II.- La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales, estará a cargo del Consejo de la Judicatura del Distrito Federal. El Consejo de la Judicatura tendrá siete miembros, uno de los cuales será el presidente del Tribunal Superior de Justicia, quien también presidirá el Consejo. Los miembros restantes serán: un Magistrado, un Juez de Primera Instancia y un Juez de Paz, elegidos mediante insaculación; uno designado por el Jefe de Gobierno del Distrito Federal y otros dos nombrados por la Asamblea Legislativa. Todos los Consejeros deberán reunir los requisitos exigidos para ser magistrado y durarán cinco años en su cargo; serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+El Consejo designará a los Jueces de Primera Instancia y a los que con otra denominación se creen en el Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial;
 
-El Consejo intervendrá en la designación de los Magistrados y designará a los Jueces de Primera Instancia y a los que con otra denominación se creen en el Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial.
+III.- Se determinarán las atribuciones y las normas de funcionamiento del Consejo de la Judicatura, tomando en cuenta lo dispuesto por el artículo 100 de esta Constitución;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+IV.- Se fijarán los criterios conforme a los cuales la ley orgánica establecerá las normas para la formación y actualización de funcionarios, así como del desarrollo de la carrera judicial;
 
-El Consejo de la Judicatura del Distrito Federal, se integrará por siete miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado, un Juez de Primera Instancia, un Juez de Paz, electos mediante insaculación; dos consejeros designados por la Asamblea de Representantes y uno por el Jefe del Distrito Federal. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser Magistrado establece le ley.
+V.- Serán aplicables a los miembros del Consejo de la Judicatura, así como a los magistrados y jueces, los impedimentos y sanciones previstos en el artículo 101 de esta Constitución;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+VI.- El Consejo de la Judicatura elaborará el presupuesto de los tribunales de justicia en la entidad y lo remitirá al Jefe de Gobierno del Distrito Federal para su inclusión en el proyecto de presupuesto de egresos que se presente a la aprobación de la Asamblea Legislativa.
 
-El Consejo funcionará en pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de magistrados y jueces, así como de los demás asuntos que la ley determine.
+BASE QUINTA.- Existirá un Tribunal de lo Contencioso Administrativo, que tendrá plena autonomía para dirimir las controversias entre los particulares y las autoridades de la Administración Pública local del Distrito Federal.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+Se determinarán las normas para su integración y atribuciones, mismas que serán desarrolladas por su ley orgánica.
 
-Los Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
+D. El Ministerio Público en el Distrito Federal será presidido por un Procurador General de Justicia, que será nombrado en los términos que señale el Estatuto de Gobierno; este ordenamiento y la ley orgánica respectiva determinarán su organización, competencia y normas de funcionamiento.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+E. En el Distrito Federal será aplicable respecto del Presidente de los Estados Unidos Mexicanos, lo dispuesto en la fracción VII del artículo 115 de esta Constitución. La designación y remoción del servidor público que tenga a su cargo el mando directo de la fuerza pública se hará en los términos que señale el Estatuto de Gobierno.
 
-Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en términos del Título Cuarto de esta Constitución.
+F. La Cámara de Senadores del Congreso de la Unión, o en sus recesos, la Comisión Permanente, podrá remover al Jefe de Gobierno del Distrito Federal por causas graves que afecten las relaciones con los Poderes de la Unión o el orden público en el Distrito Federal. La solicitud de remoción deberá ser presentada por la mitad de los miembros de la Cámara de Senadores o de la Comisión Permanente, en su caso.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-A los Magistrados y Jueces del Tribunal Superior de Justicia y a los Consejeros de la Judicatura del Distrito Federal les serán aplicables los impedimentos y las sanciones previstos en el artículo 101 de esta Constitución. Para estos efectos, los impedimentos para actuar como patronos, abogados o representantes en cualquier proceso estarán referidos a los órganos judiciales del Distrito Federal; y los de ocupar cargos, a los señalados en el primer párrafo de esta fracción.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-El Pleno y las Salas del Tribunal Superior, así como los Jueces de Primera Instancia y demás órganos judiciales que con cualquier otra denominación se creen, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca la ley en materia de carrera judicial.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
-
-El Consejo de la Judicatura del Distrito Federal elaborará el presupuesto del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales y lo remitirá para su inclusión en el proyecto de presupuesto de egresos.
-
-VIII.- El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General de Justicia; y
-
-IX.- Para la eficaz coordinación de las distintas jurisdicciones locales y municipales entre sí y de éstas con la Federación y el Distrito Federal en la planeación y ejecución de acciones en las zonas conurbadas limítrofes con el Distrito Federal, de acuerdo con el artículo 115 fracción VI de esta Constitución, en materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte, agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos y seguridad pública, sus respectivos gobiernos podrán suscribir convenios para la creación de comisiones metropolitanas en las que concurran y participen con apego a sus leyes.
+G. Para la eficaz coordinación de las distintas jurisdicciones locales y municipales entre sí, y de éstas con la federación y el Distrito Federal en la planeación y ejecución de acciones en las zonas conurbadas limítrofes con el Distrito Federal, de acuerdo con el artículo 115, fracción VI de esta Constitución, en materia de asentamientos humanos; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte, agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos y seguridad pública, sus respectivos gobiernos podrán suscribir convenios para la creación de comisiones metropolitanas en las que concurran y participen con apego a sus leyes.
 
 Las comisiones serán constituidas por acuerdo conjunto de los participantes. En el instrumento de creación se determinará la forma de integración, estructura y funciones.
 
 A través de las comisiones se establecerán:
 
-a) Las bases para la celebración de convenios, en el seno de las comisiones, conforme a las cuales se acuerden los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias indicadas en el primer párrafo de esta fracción.
+a).- Las bases para la celebración de convenios, en el seno de las comisiones, conforme a las cuales se acuerden los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias indicadas en el primer párrafo de este apartado;
 
-b) Las bases para establecer, coordinadamente por las partes integrantes de las comisiones las funciones específicas en las materias referidas, así como para la aportación común de recursos materiales, humanos y financieros necesarios para su operación; y
+b).- Las bases para establecer, coordinadamente por las partes integrantes de las comisiones, las funciones específicas en las materias referidas, así como para la aportación común de recursos materiales, humanos y financieros necesarios para su operación; y
 
-c) Las demás reglas para la regulación conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que acuerden los integrantes de las comisiones.
+c).- Las demás reglas para la regulación conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que acuerden los integrantes de las comisiones.
+
+H. Las prohibiciones y limitaciones que esta Constitución establece para los Estados se aplicarán para las autoridades del Distrito Federal.
 
 ## TITULO SEXTO.
 
@@ -4268,7 +4310,7 @@ Artículo Segundo. Permanecerán en sus cargos los actuales Magistrados del Trib
 
 Artículo Tercero. En la elección federal de 1994 se elegirán, para cada Estado y el Distrito Federal, dos senadores de mayoría relativa y uno de primera minoría a las Legislaturas LVI y LVII del Congreso de la Unión, quienes durarán en funciones del 1o. de noviembre de 1994 a la fecha del término del ejercicio de la última legislatura citada. Para esta elección, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos en cada entidad federativa.
 
-En la elección federal de 1997, se elegirá a la Legislatura LVII un senador por cada Estado y el Distrito Federal, según el principio de mayoría relativa, quien durará en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. Para esta elección, los partidos políticos deberán registrar una lista con una fórmula de candidatos en cada entidad federativa.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 Artículo Cuarto. Los diputados federales a la LVI Legislatura durarán en su encargo del 1o. de noviembre de 1994 a la fecha en que concluya la citada legislatura.
 
@@ -4389,3 +4431,43 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 3 DE JULIO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE AGOSTO DE 1996.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto en los artículos siguientes.
+
+SEGUNDO. Las adiciones contenidas en la fracción II del artículo 105 del presente Decreto, únicamente por lo que se refiere a las legislaciones electorales de los Estados, que por los calendarios vigentes de sus procesos la jornada electoral deba celebrarse antes del primero de abril de 1997, entrarán en vigor a partir del 1o. de enero de 1997.
+
+Para las legislaciones electorales federal y locales que se expidan antes del 1o. de abril de 1997 con motivo de las reformas contenidas en el presente Decreto, por única ocasión, no se aplicará el plazo señalado en el párrafo cuarto de la fracción II del artículo 105.
+
+Las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general electoral y la Constitución, que se ejerciten en los términos previstos por el Artículo 105 fracción II de la misma y este Decreto, antes del 1o. de abril de 1997, se sujetarán a las siguientes disposiciones especiales:
+
+a) El plazo a que se refiere el segundo párrafo de la fracción II del artículo mencionado, para el ejercicio de la acción, será de quince días naturales; y
+
+b) La Suprema Corte de Justicia de la Nación deberá resolver la acción ejercida en un plazo no mayor a quince días hábiles, contados a partir de la presentación del escrito inicial.
+
+Las reformas al artículo 116 contenidas en el presente Decreto no se aplicarán a las disposiciones constitucionales y legales de los Estados que deban celebrar procesos electorales cuyo inicio haya ocurrido u ocurra antes del 1o. de enero de 1997. En estos casos, dispondrán de un plazo de un año contado a partir de la conclusión de los procesos electorales respectivos, para adecuar su marco constitucional y legal al precepto citado.
+
+Todos los demás Estados, que no se encuentren comprendidos en la excepción del párrafo anterior, deberán adecuar su marco constitucional y legal a lo dispuesto por el artículo 116 modificado por el presente Decreto, en un plazo que no excederá de seis meses contado a partir de su entrada en vigor.
+
+TERCERO. A más tardar el 31 de octubre de 1996 deberán estar nombrados el consejero Presidente y el Secretario Ejecutivo del Consejo General del Instituto Federal Electoral, así como los ocho nuevos consejeros electorales y sus suplentes, que sustituirán a los actuales Consejeros Ciudadanos, quienes no podrán ser reelectos. En tanto se hacen los nombramientos o se reforma la ley de la materia, el Consejo General del Instituto Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
+
+CUARTO. En la elección federal de 1997 se elegirán, a la Quincuagésima Séptima Legislatura, treinta y dos senadores según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, y durarán en funciones del 1o. de noviembre de 1997 a la fecha en que concluya la señalada Legislatura. La asignación se hará mediante una fórmula que tome en cuenta el cociente natural y el resto mayor; y se hará en orden decreciente de las listas respectivas. Se deroga el segundo párrafo del Artículo Tercero de los Artículos Transitorios del Decreto de fecha 2 de septiembre de 1993, publicado en el Diario Oficial de la Federación el 3 del mismo mes y año, por el que se reformaron los Artículos 41, 54, 56, 60, 63, 74 y 100 de esta Constitución.
+
+QUINTO. Los nuevos Magistrados Electorales deberán designarse a más tardar el 31 de octubre de 1996 y, por esta ocasión, requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Cámara de Senadores.
+
+SEXTO. En tanto se expiden o reforman las leyes correspondientes, el Tribunal Federal Electoral seguirá ejerciendo las competencias y funciones que actualmente le señala el Código Federal de Instituciones y Procedimientos Electorales.
+
+SÉPTIMO. El Jefe de Gobierno del Distrito Federal se elegirá en el año de 1997 y ejercerá su mandato, por esta única vez, hasta el día 4 de diciembre del año 2000.
+
+OCTAVO. La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal señalada en el inciso f) de la fracción V del apartado C del artículo 122 de este Decreto, entrará en vigor el 1o. de enero de 1998. Para la elección en 1997 del Jefe de Gobierno y los diputados a la Asamblea del Distrito Federal, se aplicará el Código Federal de Instituciones y Procedimientos Electorales.
+
+NOVENO. El requisito a que se refiere el párrafo segundo de la fracción I de la BASE SEGUNDA, del apartado C del artículo 122, que prohibe acceder a Jefe de Gobierno si se hubiese desempeñado tal cargo con cualquier carácter, debe entenderse aplicable a todo ciudadano que haya sido titular de dicho órgano, aunque lo haya desempeñado bajo distinta denominación.
+
+DÉCIMO. Lo dispuesto en la fracción II de la BASE TERCERA, del apartado C del artículo 122, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000; en 1997, se elegirán en forma indirecta, en los términos que señale la ley.
+
+DECIMOPRIMERO. La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materias civil y penal para el Distrito Federal entrará en vigor el 1o. de enero de 1999.
+
+DECIMOSEGUNDO. Continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto al uso de dichos poderes.
+
+DECIMOTERCERO. Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones y las bases señaladas en este Decreto.
