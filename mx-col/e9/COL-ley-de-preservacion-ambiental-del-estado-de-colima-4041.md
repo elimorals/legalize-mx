@@ -4,7 +4,7 @@ identifier: "COL-ley-de-preservacion-ambiental-del-estado-de-colima-4041"
 country: "mx"
 rank: "ley"
 publication_date: "1990-10-06"
-last_updated: "1992-12-26"
+last_updated: "2002-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE PRESERVACION AMBIENTAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1992.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA PUBLICADA EN EL PERIODICO OFICIAL EL 15 DE JUNIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima" el sábado 6 de octubre de 1990.
 
@@ -301,7 +303,7 @@ XV.- Mantener un sistema permanentemente de información y vigilancia sobre los 
 
 XVI.- Establecer medidas de protección de las Areas Naturales, de manera que se asegure la preservación y restauración de los ecosistemas, especialmente los más representativos y de aquellos que se encuentran sujetos a procesos de deterioro o degradación; y
 
-XVII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables, en materia ecológica;
+XVII.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables, en materia ecológica.
 
 ###### ARTICULO 9o.
 
@@ -341,7 +343,7 @@ IV.- La responsabilidad respecto del equilibrio ecológico, comprende tanto las 
 
 V.- La prevención de las causas que los generan, es el medio más eficaz para evitar los desequilibrios ecológicos;
 
-VI.- El aprovechamiento de los recursos naturales renovables debe realizarse, de manera que se asegure el mantenimiento de su diversidad y renovabilidad;
+VI.- El aprovechamiento de los recursos naturales renovables debe realizarse, de manera que se asegure el mantenimiento de su diversidad y renovabilidad.
 
 ### CAPITULO III. DE LA CONCURRENCIA ENTRE EL ESTADO Y LOS MUNICIPIOS
 
@@ -775,7 +777,7 @@ De igual forma, promoverá que las instituciones de educación superior y los or
 
 ###### ARTICULO 35.
 
-El Gobierno del Estado y los Ayuntamientos, fomentarán la Investigación Científica y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, hacer uso adecuado de los recursos naturales y proteger los ecosistemas. Para ello podrán celebrar convenios con Instituciones de Educación Superior, Centros de Investigación, Instituciones del Sector Social y Privado, Investigadores y especialistas en la materia,
+El Gobierno del Estado y los Ayuntamientos, fomentarán la Investigación Científica y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, hacer uso adecuado de los recursos naturales y proteger los ecosistemas. Para ello podrán celebrar convenios con Instituciones de Educación Superior, Centros de Investigación, Instituciones del Sector Social y Privado, Investigadores y especialistas en la materia.
 
 ## TITULO SEGUNDO. LA PRESERVACION Y RESTAURACION DEL EQUILIBRIO ECOLOGICO
 
@@ -1115,9 +1117,7 @@ IV.- Determinará los métodos y medidas aplicables o indispensables para la con
 
 ## TITULO CUARTO. NORMATIVIDAD DE LA PROTECCION AMBIENTAL
 
-### CAPITULO I. PREVENCION Y CONTROL DE LA CONTAMINACION
-
-DE LA ATMOSFERA
+### CAPITULO I. PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
 
 ###### ARTICULO 64.
 
@@ -1459,7 +1459,7 @@ En la resolución administrativa correspondiente, se señalarán o, en su caso, 
 
 Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor, para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar, por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer la sanción o sanciones, que procedan conforme a esta Ley;
+Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer la sanción o sanciones, que procedan conforme a esta Ley.
 
 > <small>(REFORMADO, P.O. 26 DICIEMBRE DE 1992)</small>
 
@@ -1694,3 +1694,33 @@ Sufragio Efectivo No Reelección.- EL GOBERNADOR CONST. DEL ESTADO.- LIC. ELIAS 
 P.O. 26 DE DICIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Preservación Ambiental del Estado de Colima y se derogan todas las disposiciones legales en el ámbito estatal o municipal, en lo que se opongan a las de la presente Ley.
+
+Hasta en tanto los ayuntamientos dicten las ordenanzas, reglamentos y bandos para regular las materias que, conforme a las disposiciones de este ordenamiento, son de su competencia, corresponderá a la autoridad estatal aplicar esta Ley en el ámbito municipal, coordinándose para ello con las autoridades municipales respectivas.
+
+El plazo máximo para que los ayuntamientos procedan a lo previsto en el párrafo anterior, será de seis meses.
+
+###### ARTICULO TERCERO.
+
+Las áreas naturales protegidas de competencia estatal que hayan sido decretadas con anterioridad a la entrada en vigor de la presente Ley, serán recategorizadas en los términos dispuestos por los párrafos anteriores.
+
+###### ARTICULO CUARTO.
+
+Mientras se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+###### ARTICULO QUINTO.
+
+Los recursos y procedimientos que actualmente se tramitan, serán resueltos de conformidad con la ley anterior.
+
+###### ARTICULO SEXTO.
+
+Las autoridades competentes dispondrán del plazo de un año para realizar las acciones a que se refiere el artículo 75 de esta Ley.
