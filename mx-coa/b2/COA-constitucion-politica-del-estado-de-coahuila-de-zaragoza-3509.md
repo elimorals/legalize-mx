@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1994-04-22"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -158,11 +158,11 @@ II. Inscribirse en el padrón de su respectivo Municipio, manifestando la propie
 
 III. Contribuir a los gastos públicos del Municipio, del Estado y de la Federación en la forma proporcional y equitativa que dispongan las leyes correspondientes.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1938)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
 
-IV. Adquirir la educación primaria y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
+IV. Adquirir la educación primaria y secundaria y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
 
-V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y del Estado en particular.
+V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y particular del Estado.
 
 ###### Artículo 17.
 
@@ -1462,15 +1462,25 @@ La educación de los hijos es deber y derecho primario de los padres o de quiene
 
 La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, según el espíritu del artículo 3o., de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1996)</small>
 
 ###### Artículo 118.
 
-La Educación e Instrucción Primaria será obligatoria. La que se imparta en escuelas oficiales será gratuita.
+El Estado y los municipios prestarán los servicios de educación preescolar, primaria y secundaria. Todos los habitantes del Estado deben cursar las dos últimas.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+La educación preescolar, primaria y secundaria que impartan el Estado y los municipios en establecimientos sostenidos por recursos públicos será gratuita.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 El Estado reconoce a la juventud el derecho de que se le complemente su educación en instituciones sostenidas con los fondos públicos, sin más limitación que las posibilidades económicas al alcance del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 El Estado sostendrá las Escuelas Normales indispensables para la preparación técnica de los maestros encargados de la enseñanza.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Los centros particulares de enseñanza en todos sus tipos y grados, están sujetos a la inspección del Estado y, para la validez legal de los estudios que impartan, deben obtener autorización expresa, así como cumplir con los planes y programas oficiales. La autorización podrá ser negada o revocada discrecionalmente sin que contra tales resoluciones proceda juicio o recurso alguno.
 
@@ -2224,7 +2234,7 @@ El Estado establecerá instituciones especiales para el tratamiento de menores i
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
-###### Artículo 175.
+###### ARTICULO 175.
 
 La Ley determinará las profesiones que necesitan título para que sean ejercitadas en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo; asimismo, regulará las peculiaridades propias del régimen jurídico de los colegios de profesionales cuya estructura interna y funcionamiento deberán ser democráticos.
 
@@ -2242,7 +2252,7 @@ Las autoridades municipales, se sujetarán estrictamente a las facultades que le
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
-###### Artículo 178.
+###### ARTICULO 178.
 
 El Estado promoverá la conservación y el enriquecimiento del patrimonio histórico, cultural y artístico de la entidad y de los bienes y valores que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley determinará los instrumentos necesarios para el logro de estos objetivos.
 
@@ -2733,3 +2743,9 @@ CUARTO.- Lo dispuesto en el segundo párrafo del artículo 46, será aplicable a
 QUINTO.- Para efectos de la reforma del artículo 124 los ayuntamientos electos en el año de 1993 concluirán sus funciones el 31 de diciembre de 1996.
 
 SEXTO.- La Comisión Estatal Electoral continuará a cargo del proceso electoral que se desarrolla durante 1994 para la renovación del Congreso del Estado, hasta en tanto se integre en los términos de la ley reglamentaria el organismo encargado de la función electoral a que se refiere el tercer párrafo del artículo 27.
+
+P.O. 24 DE MAYO DE 1996.
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
