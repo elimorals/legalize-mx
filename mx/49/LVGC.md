@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1996-11-07"
+last_updated: "1999-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -86,7 +86,9 @@ Las vías generales de comunicación y los modos (sic) de transporte que operan 
 
 I.- Construcción, mejoramiento, conservación y explotación de vías generales de comunicación;
 
-II.- Inspección y vigilancia;
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
+
+II.- Vigilancia, verificación e inspección de sus aspectos técnicos y normativos;
 
 III.- Otorgamiento, interpretación y cumplimiento de concesiones;
 
@@ -94,7 +96,7 @@ IV.- Celebración de contratos con el Gobierno Federal;
 
 > <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1986)</small>
 
-V.- Declaración de abandono de trámite de las solicitudes de concesión o permiso, así como declarar la caducidad o la rescisión de las concesiones y contratos celebrados con el Gobierno Federal y modificarlos en los casos previstos en esta Ley.
+V.- Declaración de abandono de trámite de las solicitudes de concesión o permiso, así como declarar la caducidad o la rescisión de las concesiones y contratos celebrados con el Gobierno Federal y modificarlos en los casos previstos en esta Ley;
 
 VI.- Otorgamiento y revocación de permisos;
 
@@ -126,7 +128,7 @@ III.- A falta de disposiciones de esa legislación, por los preceptos del Códig
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-IV.- En defecto de unas y de otros, por los preceptos del Código Civil del Distrito Federal y Federal de Procedimientos Civiles.
+IV.- En defecto de unas y de otros, por los preceptos del Código Civil del Distrito Federal y Federal de Procedimientos Civiles;
 
 V.- En su defecto, de acuerdo con las necesidades mismas del servicio público de cuya satisfacción se trata.
 
@@ -306,9 +308,9 @@ X.- Porque el concesionario se rehuse a cumplir, en su caso, con lo dispuesto po
 
 XI.- Porque los concesionarios no cumplan con la obligación de conducir las diversas clases de correspondencia;
 
-XII.- Por no otorgar la fianza o constituir el depósito a que se refiere el artículo 17 y,
+XII.- Por no otorgar la fianza o constituir el depósito a que se refiere el artículo 17 y;
 
-XIII.- Por los motivos de caducidad estipulados en las concesiones respectivas.
+XIII.- Por los motivos de caducidad estipulados en las concesiones respectivas;
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1975)</small>
 
@@ -340,11 +342,11 @@ III.- Las posturas deberán ser aprobadas por la Secretaría de Comunicaciones;
 
 IV.- Para garantizar su postura, los concursantes constituirán antes de la almoneda, en el Banco de México, un depósito en efectivo del diez por ciento del valor de los bienes, conforme al avalúo pericial;
 
-V.- El postor en quien se finque el remate, perderá en beneficio de la Nación el depósito, si no cumpliere con su postura, quedando ésta sin valor alguno ni efecto, y se repetirá la almoneda:
+V.- El postor en quien se finque el remate, perderá en beneficio de la Nación el depósito, si no cumpliere con su postura, quedando ésta sin valor alguno ni efecto, y se repetirá la almoneda;
 
 VI.- Desde el momento en que el comprador tome posesión de la vía, con todos sus bienes, aquélla y éstos se regirán por la concesión declarada caduca, la que continuará subsistente para el comprador hasta en tanto se le otorgare nueva concesión;
 
-VII.- Si la concesión declarada caduca comprendiere parte de la vía no construida, el comprador tendrá derecho, dentro del plazo de seis meses contados desde que se otorgue la escritura, para rehusar o aceptar la concesión en cuanto a la parte de vías por concluír; si acepta, constituirá el depósito correspondiente a dicha parte;
+VII.- Si la concesión declarada caduca comprendiere parte de la vía no construida, el comprador tendrá derecho, dentro del plazo de seis meses contados desde que se otorgue la escritura, para rehusar o aceptar la concesión en cuanto a la parte de vías por concluir; si acepta, constituirá el depósito correspondiente a dicha parte;
 
 VIII.- Del precio de la venta se cubrirán, por su orden, las obligaciones de la empresa en favor de sus trabajadores, en los términos de la Ley Federal del Trabajo, los gastos de administración y los créditos hipotecarios, o de otra clase, a cargo de la negociación, que fueren anteriores a la declaración de caducidad y contraídos con motivo de la explotación de la vía. Las subvenciones que el concesionario hubiese recibido y el sobrante, si lo hubiere, quedarán a beneficio de la Nación; y
 
@@ -370,7 +372,7 @@ El beneficiario de una concesión que hubiere sido declarada caduca, estará imp
 
 ###### ARTICULO 37.
 
-La falta de cumplimiento de las concesión o del contrato, en los casos no señalados como causas de caducidad en el artículo 29, o en los mismos contratos, que no tengan sanción en la ley, dará lugar a la rescisión judicial de la concesión o del contrato; pero mientas dure el juicio, el concesionario o contratista continuará en posesión de todos los derechos que le otorguen la concesión o el contrato, sin perjuicio de las providencias precautorias que deba tomar la Secretaría cuando procedan de acuerdo con las leyes.
+La falta de cumplimiento de la concesión o del contrato, en los casos no señalados como causas de caducidad en el artículo 29, o en los mismos contratos, que no tengan sanción en la ley, dará lugar a la rescisión judicial de la concesión o del contrato; pero mientas dure el juicio, el concesionario o contratista continuará en posesión de todos los derechos que le otorguen la concesión o el contrato, sin perjuicio de las providencias precautorias que deba tomar la Secretaría cuando procedan de acuerdo con las leyes.
 
 ###### ARTICULO 38.
 
@@ -434,25 +436,15 @@ Llenados los requisitos exigidos para la explotación, se otorgará desde luego 
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
-ARTlCULO 49.- Compete exclusivamente a la Secretaría de Comunicaciones y Transportes el estudio y aprobación, revisión, modificación, cancelación o registro, en su caso, de itinerarios, horarios, reglamentos de servicio, tarifas y sus elementos de aplicación, y de los demás documentos que los prestadores de servicios de vías generales de comunicación sometan a su estudio, en cumplimiento de esta ley y de sus reglamentos. Sólo podrán intervenir otras autoridades en dichos estudios, cuando la Secretaría de Comunicaciones y Transportes lo solicite.
+###### ARTICULO 49.
+
+Compete exclusivamente a la Secretaría de Comunicaciones y Transportes el estudio y aprobación, revisión, modificación, cancelación o registro, en su caso, de itinerarios, horarios, reglamentos de servicio, tarifas y sus elementos de aplicación, y de los demás documentos que los prestadores de servicios de vías generales de comunicación sometan a su estudio, en cumplimiento de esta ley y de sus reglamentos. Sólo podrán intervenir otras autoridades en dichos estudios, cuando la Secretaría de Comunicaciones y Transportes lo solicite.
 
 Para los efectos de este artículo se integrará una comisión consultiva de tarifas, en los términos del reglamento respectivo. Para la aprobación de las tarifas definitivas y sus reglas de aplicación, se escuchará previamente la opinión de esta comisión.
 
 La Secretaría de Comunicaciones y Transportes podrá fijar tarifas provisionales, que estarán vigentes durante noventa días naturales.
 
 Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de las anteriores a las provisionales.
-
-###### ARTICULO 49.
-
-Compete exclusivamente a la Secretaría de Comunicaciones el estudio y aprobación, revisión o modificación, en su caso, de itinerarios, honorarios, reglamentos de servicio, tarifas y sus elementos de aplicación, y los demás documentos que las empresas de vías generales de comunicación sometan a su estudio, en cumplimiento de esta Ley y de sus Reglamentos. Sólo podrán intervenir otras autoridades en dichos estudios, cuando la misma lo solicite.
-
-Para la aprobación, revisión o modificación de tarifas, se integrará una Comisión Consultiva de Tarifas, con cinco representantes de la Secretaría de Comunicaciones, tres de la de la (sic) Economía Nacional, dos de la de Agricultura y Fomento, uno de la de Hacienda y Crédito Público y uno de la Marina Nacional; así como un representante de las empresas y otro de los trabajadores en cada uno de los ramos de comunicaciones a que se refiere esta Ley.
-
-Esta Comisión dictaminará en cada caso, resolviendo por mayoría de votos y en sesión formal, debiendo oír previamente a los interesados. El Presidente de la Comisión, será el Secretario de Comunicaciones y Obras Públicas.
-
-Los dictámenes de la Comisión, se harán del conocimiento de la Secretaría de Comunicaciones, la que resolverá en definitiva en cada caso.
-
-Todo asunto entre autoridades y empresas, delacionado (sic) con los servicios de las vías generales de comunicación y medios de transporte, será tratado por la Secretaría de Comunicaciones, sin perjuicio de lo que dispongan otras leyes.
 
 ###### ARTICULO 50.
 
@@ -462,7 +454,7 @@ La explotación de vías generales de comunicación, objeto de concesión o perm
 
 La Secretaría de Comunicaciones está facultada para introducir a las condiciones conforme a las cuales se haga el servicio público en las vías generales de comunicación y medios de transporte ya establecidos o que en lo sucesivo se establezcan, en su calidad de servicios públicos, todas las modalidades que dicta el interés del mismo. En consecuencia, la misma Secretaría de Comunicaciones está autorizada:
 
-I.- Para ordenar, de acuerdo con las posibilidades económicas de las empresas, que se lleven a cabo en las vías de comunicación y medios de transporte, sus servicios auxiliares, sus dependencias y accesorios, las obras de construcción, de reparación y de conservación que sean necesarias para la mayor seguridad del público.
+I.- Para ordenar, de acuerdo con las posibilidades económicas de las empresas, que se lleven a cabo en las vías de comunicación y medios de transporte, sus servicios auxiliares, sus dependencias y accesorios, las obras de construcción, de reparación y de conservación que sean necesarias para la mayor seguridad del público;
 
 II.- Para ordenar que se suspenda el servicio de las vías o medios de transporte, cuando no reunan las condiciones debidas de eficacia, seguridad e higiene;
 
@@ -530,7 +522,7 @@ I.- Todos los actos o contratos por los que se conceda directa o indirectamente 
 
 II.- La devolución de todo o de parte del precio cobrado, cuando tienda a reducir las cuotas de las tarifas, aun cuando no se haga directamente a los interesados, sino a personas que puedan considerarse como intermediarias, ya sean agentes, comisionistas, etc., y
 
-III.- Los pases, pasajes libres de cargos, o franquicias, excepto en los caso siguientes y con sujeción a los reglamentos respectivos;
+III.- Los pases, pasajes libres de cargos, o franquicias, excepto en los casos siguientes y con sujeción a los reglamentos respectivos;
 
 a).- Los que se den a funcionarios y empleados federales o de los Estados, cuyas funciones se relacionen con el servicio de la empresa que los extienda, y los que, a juicio de ésta, sea necesario conceder a otros funcionarios o empleados públicos.
 
@@ -556,9 +548,9 @@ Cualquier abuso en el goce de esta franquicia inhabilitará a la negociación o 
 
 III.- Las tarifas transitorias de pasajeros en viajes de recreo;
 
-IV.- Las tarifas reducidas cuando se trate de una extensión kilométrica que el pasajero podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos.
+IV.- Las tarifas reducidas cuando se trate de una extensión kilométrica que el pasajero podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos;
 
-V.- El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de la Economía Nacional.
+V.- El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de la Economía Nacional;
 
 VI.- El transporte de mercancías y personas hacia regiones pobres o poca pobladas, pero susceptibles de convertirse en centros de producción y de trabajo, a juicio del Ejecutivo Federal;
 
@@ -794,7 +786,7 @@ I.- La concesión;
 
 > <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 1992)</small>
 
-II.- La vía de comunicación o medio de transporte, con todas sus dependencias, accesorios y, en general, todo lo que le pertenezca, cuando la misma haya sido construida en virtud de la concesión.
+II.- La vía de comunicación o medio de transporte, con todas sus dependencias, accesorios y, en general, todo lo que le pertenezca, cuando la misma haya sido construida en virtud de la concesión;
 
 III.- El material fijo y móvil empleado con la construcción y explotación, reparación, renovación y conservación de la vía de comunicación o del medio de transporte y sus dependencias, y
 
@@ -880,7 +872,7 @@ El Gobierno Federal tendrá el derecho de percibir una participación en los ing
 
 En caso de guerra internacional, de grave alteración del orden público o cuando se tema algún peligro inminente para la paz interior del país o para la economía nacional, el Gobierno tendrá derecho de hacer la requisición, en caso de que a su juicio lo exija la seguridad, defensa, economía o tranquilidad del país, de las vías generales de comunicación, de los medios de transporte, de sus servicios auxiliares, accesorios y dependencias, bienes muebles e inmuebles y de disponer de todo ello, como lo juzgue conveniente. El Gobierno podrá igualmente utilizar el personal que estuviere al servicio de la vía de que se trate cuando lo considere necesario. En este caso, la Nación indemnizará a los interesados, pagando los daños por su valor real, y los perjuicios con el cincuenta por ciento de descuento. Si no hubiere avenimiento sobre el monto de la indemnización, los daños se fijarán por peritos nombrados por ambas partes y los perjuicios, tomando como base el promedio del ingreso neto en los años anterior y posterior a la incautación. Los gastos del procedimiento pericial serán por cuenta de la Nación.
 
-En el caso de guerra internacional a que se refiere esta artículo, la Nación no estará obligada a cubrir indemnización alguna.
+En el caso de guerra internacional a que se refiere este artículo, la Nación no estará obligada a cubrir indemnización alguna.
 
 ###### ARTICULO 113.
 
@@ -2210,7 +2202,7 @@ III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.
 
 ###### ARTICULO 378.
 
-Queda prohibido interceptar, divulgar o aprovechar sin derecho, los mensajes, noticias e informes que no estén destinados al domino público y que se escuchen por medio de aparatos de comunicación eléctrica.
+Queda prohibido interceptar, divulgar o aprovechar sin derecho, los mensajes, noticias e informes que no estén destinados al dominio público y que se escuchen por medio de aparatos de comunicación eléctrica.
 
 ###### ARTICULO 379.
 
@@ -2240,7 +2232,7 @@ Los concesionarios y permisionarios de comunicaciones eléctricas están obligad
 
 I.- A los mensajes relativos a embarcaciones y aeronaves que soliciten auxilio;
 
-II.- A los mensajes de cualquier autoridad, que se relacionen con la seguridad o defensa del territorio nacional, a la conservación del orden o a cualquiera calamidad pública.
+II.- A los mensajes de cualquier autoridad, que se relacionen con la seguridad o defensa del territorio nacional, a la conservación del orden o a cualquiera calamidad pública;
 
 III.- A los mensajes a que se refiere el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal, tratándose de instalaciones telegráficas, telefónicas y de radiocomunicación distintas de las enumeradas en el Capítulo VI de este Libro, y
 
@@ -3366,9 +3358,9 @@ A partir de la fecha de expedición de la presente Ley, quedarán derogadas toda
 
 La presente Ley entrará en vigor desde la fecha de su promulgación en el "Diario Oficial" de la Federación.
 
-José Escudero Andrade, D. P.- José María Dávila, S. V. P.- Adán Velarde, D. S.- Vicente L. Benéitez, S. S.-Rúbricas".
+José Escudero Andrade, D. P.- José María Dávila, S. V. P.- Adán Velarde, D. S.- Vicente L. Benéitez, S. S.- Rúbricas".
 
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta días del mes de diciembre de mil novecientos treinta y nueve.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Melquiades Angulo C.- Rúbrica.-El Jefe del Departamento de la Marina Nacional, Roberto Gómez Maqueo.- Rúbrica.- El Subsecretario de Hacienda y Crédito Público, Encargado del Despacho, Eduardo Villaseñor.- Rúbrica.- Al C. Lic. Ignacio García Téllez, Secretario de Gobernación.- Presente.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta días del mes de diciembre de mil novecientos treinta y nueve.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Melquiades Angulo C.- Rúbrica.- El Jefe del Departamento de la Marina Nacional, Roberto Gómez Maqueo.- Rúbrica.- El Subsecretario de Hacienda y Crédito Público, Encargado del Despacho, Eduardo Villaseñor.- Rúbrica.- Al C. Lic. Ignacio García Téllez, Secretario de Gobernación.- Presente.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -3464,7 +3456,7 @@ Se concede un plazo de tres meses, a partir de la fecha en que entre en vigor es
 
 Se concede un plazo de seis meses a partir de la fecha en que entre en vigor este Decreto:
 
-I.- A los titulares de permisos experimentales, para solicitar la concesión respectiva. La Secretaría de Comunicaciones procederá a la inmediata cancelación del permiso respectivo, si no se presenta dicha solicitud dentro del plazo fijado en este artículo, salvo el caso en que no hubiesen transcurrido los términos que señala el artículo 347 actual de la Ley de Vías Generales de Comunicación. Presentada la solicitud, el titulares del permiso podrá continuar prestando el servicio hasta que se resuelva sobre su solicitud de concesión.
+I.- A los titulares de permisos experimentales, para solicitar la concesión respectiva. La Secretaría de Comunicaciones procederá a la inmediata cancelación del permiso respectivo, si no se presenta dicha solicitud dentro del plazo fijado en este artículo, salvo el caso en que no hubiesen transcurrido los términos que señala el artículo 347 actual de la Ley de Vías Generales de Comunicación. Presentada la solicitud, el titular del permiso podrá continuar prestando el servicio hasta que se resuelva sobre su solicitud de concesión.
 
 II.- A los titulares de permisos especiales y a los que gocen de permisos expedidos con apoyo en la fracción II del artículo noveno de la Ley de Vías Generales de Comunicación, para solicitar el permiso que corresponda en los términos de este Decreto. La Secretaría de Comunicaciones procederá a la inmediata cancelación del permiso respectivo, si no se presenta dicha solicitud dentro del plazo fijado.
 
@@ -3745,3 +3737,9 @@ D.O.F. 7 DE NOVIEMBRE DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
