@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1995-02-17"
+last_updated: "1996-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -507,11 +507,21 @@ Los Comisarios Municipales, los suplentes y los Auxiliares que señala esta Ley 
 
 Los Ayuntamientos se integrarán por el principio de mayoría relativa y por el de representación proporcional, en base a lo siguiente:
 
-I. En los Municipios con más de 150 mil habitantes los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores. Cuando posean entre 150 mil y 300 mil habitantes los formarán también 10 Regidores y 15, si exceden esa cantidad. Para los Municipios que posean entre 150 mil y 300 mil habitantes habrá cuatro regidores que se elegirán por el principio de representación proporcional, y para los de más de 300 mil habitantes hasta cinco de representación proporcional.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
 
-II. En los Municipios entre 75 a 150 mil habitantes los Ayuntamientos estarán formados por un Presidente, un Síndico y 5 Regidores de representación proporcional.
+I.- En los Municipios con más de 115 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal y dos Síndicos Procuradores; cuando posean entre 115 mil y 300 mil habitantes, los formarán también 14 regidores y hasta 28 si exceden esa cantidad.
 
-III. En los Municipios con menos de 25 mil habitantes además del Presidente y del Síndico, habrá cuatro Regidores y hasta dos Regidores de Representación Proporcional.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+
+II.- En los Municipios con población de 75 mil y 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta por 12 Regidores.
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+
+III.- En los Municipios que reúnan entre 25 mil y 74,999 habitantes, los Ayuntamientos se integrarán por un Presidente, un Síndico y hasta por 8 Regidores;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+
+IV.- En los Municipios con menos de 25 mil habitantes, además del Presidente y del Síndico, habrá hasta 6 regidores.
 
 ###### ARTICULO 47.
 
@@ -2886,3 +2896,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 17 DE FEBRERO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MAYO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
