@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2000-05-26"
+last_updated: "2000-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -338,6 +338,14 @@ EVASION DE PRESOS, previsto en el artículo 155.
 ATAQUE A LAS VIAS DE COMUNICACIÓN, previsto en los artículos 170 y 172.
 
 CORRUPCION DE MENORES, previsto en el artículo 195.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+PORNOGRAFÍA INFANTIL, previsto por el artículo 195 Bis.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+LENOCINIO DE MENORES, previsto en el artículo 200 Bis.
 
 ABUSO DE AUTORIDAD, previsto en el artículo 208, fracciones XXIII, XXIV y XXXVIII.
 
@@ -4026,3 +4034,7 @@ TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto
 P.O. 26 DE MAYO DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
