@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-25-1998-del-pleno-del-consejo-de-la-5178
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-09-09"
-last_updated: "1998-09-09"
+last_updated: "1999-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51782&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-09-02"
 
 ACUERDO GENERAL NUMERO 25/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS CRITERIOS PARA LA ADSCRIPCION Y READSCRIPCION DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1999.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 9 de septiembre de 1998.
 
@@ -83,7 +83,9 @@ OCTAVO.- En los casos de órganos especializados, además de tomar en cuenta los
 
 NOVENO.- El Consejo de la Judicatura Federal, de conformidad con lo dispuesto por el artículo 118, párrafo tercero de la Ley Orgánica del Poder Judicial de la Federación, para el efecto de que los magistrados de Circuito y jueces de Distrito puedan elegir la plaza y materia del órgano de adscripción, siempre que ello fuese posible, tomará en cuenta los siguientes elementos:
 
-a) Contar con una antigüedad mínima de dos años en el órgano jurisdiccional al que se encuentren adscritos.
+> <small>(REFORMADO POR EL ACUERDO GENERAL NUMERO 58/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 1999)</small>
+
+a) Contar con una antigüedad mínima de dos años en el órgano jurisdiccional al que se encuentren adscritos, salvo causas extraordinarias o casos de notoria urgencia determinados por el Pleno del Consejo de la Judicatura Federal debidamente fundados y motivados.
 
 b) Los criterios previstos por el artículo 120 de la citada ley orgánica.
 
@@ -120,3 +122,11 @@ QUINTO.- Se abrogan los acuerdos administrativos dictados por el Pleno del Conse
 SEXTO.- Los criterios de aplicación para los puntos quinto y sexto del presente Acuerdo, empezarán a aplicarse a partir del tercer concurso interno de oposición para la designación de magistrados de Circuito.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 25/1998, que establece los criterios para la adscripción y readscripción de magistrados de Circuito y jueces de Distrito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de veinticuatro de junio de mil novecientos noventa y ocho, por unanimidad de votos de los señores Consejeros: Presidente ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Rodolfo Héctor Lara Ponte, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a dos de septiembre de mil novecientos noventa y ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 15 DE DICIEMBRE DE 1999.
+
+PRIMERO.- Este Acuerdo entrará en vigor a partir de su publicación oficial.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
