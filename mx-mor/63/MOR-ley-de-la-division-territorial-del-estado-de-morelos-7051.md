@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1939-08-20"
+last_updated: "1946-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 1946.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -61,9 +61,11 @@ Corresponden a la jurisdicción del Municipio de Axochiapan, los siguientes cent
 
 Corresponden a la jurisdicción del Municipio de Ayala, los siguientes centros de población: Ahuehueyo, Anenecuilco, Chinameca, Salitre, Huitzililla, Jaloxtoc, Moyotepec, Apatlaco, Juárez, El Vergel, Tecomalco, Tenextepango, Tlayecac y Villa de Ayala, Cabecera del Municipio.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1946)</small>
+
 ###### Art. 7.
 
-Corresponden a la jurisdicción del Municipio de Coatlán, los siguientes centros de población: Apancingo, Buenavista de Aldama, Chavarría, Coatlán del Río, Cabecera del Municipio, Cocoyotla, Colonia Morelos, Michapa, Domitilo Ayala (antes San Andrés), y Tilancingo.
+Corresponden a la jurisdicción del Municipio de Coatlán los siguientes centros de población: Apancingo, Buenavista de Aldama, Coatlán del Río Cabecera del Municipio, Cocoyotla, Colonia Morelos, Chavarría, Michapa, Tilancingo y Colonia Juárez.
 
 ###### Art. 8.
 
@@ -240,6 +242,10 @@ UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la fracción I de
 P.O. 20 DE AGOSTO DE 1939.
 
 UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local, a fin de que este Decreto empiece a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 1946.
+
+UNICO.- Remítase al Ejecutivo del Estado para los efectos de la fracción I del artículo 71 de la Constitución Política Local.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
