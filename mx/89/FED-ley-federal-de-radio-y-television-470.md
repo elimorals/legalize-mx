@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "1970-01-27"
+last_updated: "1974-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -709,19 +709,45 @@ XIX.- La violación a lo dispuesto en el artículo 78;
 
 XX.- No acatar las observaciones que haga la Secretaría de Gobernación en los términos del artículo 97;
 
-XXI.- Las demás infracciones que se originen del incumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XXI.- No acatar las órdenes o no respetar las características de las autorizaciones que sobre transmisiones formule la Secretaría de Gobernación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XXII.- No transmitir los programas que el Estado ordene en el tiempo cuyo uso le corresponde en los términos de esta Ley u otros ordenamientos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XXIII.- Operar o explotar estaciones de radiodifusión, sin contar con la previa concesión o permiso del Ejecutivo Federal; y
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XXIV.- Las demás infracciones que se originen del incumplimiento de esta Ley.
 
 ###### ARTICULO 102.
 
 Quienes dañen, perjudiquen o destruyan cualquier bien inmueble o mueble usado en la instalación u operación de una estación de radio o televisión, interrumpiendo sus servicios, serán castigados con tres días a cuatro años de prisión y multa de $1,000.00 a $50,000.00. Si el daño se causa empleando explosivos o materias incendiarias, la prisión será en ese caso de 5 a 10 años.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 103.
 
-Se impondrá multa de cinco mil a cincuenta mil pesos en los casos de las fracciones I, II, III, VIII y XIII del artículo 101 de esta ley.
+Se impondrá multa de cinco mil a cincuenta mil pesos en los casos de las fracciones I, II, III, VIII, XIII, XXI, XXII y XXIII del artículo 101 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 104.
 
-Se impondrá multa de quinientos a cinco mil pesos en los casos de las fracciones IV, V, VI, VII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI del mismo artículo 101.
+Se impondrá multa de quinientos a cinco mil pesos en los casos de las fracciones IV, V, VI, VII, IX, X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXIV del mismo artículo 101.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+###### ARTICULO 104 Bis.
+
+El que sin concesión o permiso del Ejecutivo Federal opere o explote estaciones de radiodifusión, sin perjuicio de la multa prevista en el artículo 103, perderá en beneficio de la Nación todos los bienes muebles e inmuebles dedicados a la operación o explotación de la estación de que se trate.
+
+Cuando la Secretaría de Comunicaciones y Transportes tenga conocimiento de alguno de esos hechos procederá al aseguramiento de las construcciones, instalaciones y de todos los demás bienes destinados a la operación o explotación de la estación de que se trate, poniéndolos bajo la custodia del depositario interventor que ésta designe. En el momento de la diligencia se notificará al presunto infractor que dispone de un término de diez días para que presente las pruebas y defensas pertinentes. Transcurrido éste, la Secretaría de Comunicaciones y Transportes dictará la resolución que corresponda.
 
 ###### ARTICULO 105.
 
@@ -768,3 +794,9 @@ D.O.F. 27 DE ENERO DE 1970.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 SEGUNDO.- Las solicitudes de concesión en trámite se resolverán de acuerdo con lo dispuesto en este Decreto.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
