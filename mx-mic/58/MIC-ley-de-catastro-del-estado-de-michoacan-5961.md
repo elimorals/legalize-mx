@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-5961"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-05"
-last_updated: "1986-12-31"
+last_updated: "1987-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 5 de marzo de 1984.
 
@@ -49,7 +49,7 @@ El Catastro, para efectos de esta Ley, es el inventario analítico y registro de
 
 ###### ARTICULO 3o.
 
-El Catastro tiene como objeto el registro de los datos que permiten conocer las características cuantitativas y cualitativas de los bienes inmuebles, mediante la formación y conservación de los padrones catastrales con aplicación multifinalitaria.
+El Catastro tiene como objeto el registro de los datos que permiten conocer las características cuantitativas y cualitativas de los bienes inmuebles mediante la formación y conservación de los padrones catastrales con aplicación multifinalitaria.
 
 ###### ARTICULO 4o.
 
@@ -75,13 +75,13 @@ a) Nombre del propietario o poseedor del predio.
 
 b) Ubicación del predio, indicando calle y número y/o lote y manzana, en su caso.
 
-c) Domicilio para oir notificaciones.
+c) Domicilio para oír notificaciones.
 
 d) Clave catastral, número de cuenta y número de predio.
 
 e) Naturaleza del predio. (rústico o urbano)
 
-f) Calidad de la posesión y en su caso número y fecha del título de propiedad.
+f) Calidad de la posesión y en su caso número y fecha del título de propiedad
 
 g) Nacionalidad del propietario o poseedor.
 
@@ -117,7 +117,7 @@ d) El que resulte de la fusión de dos o más predios, con o sin construcción, 
 
 II. Predio Urbano el que está localizado dentro de la zona urbana;
 
-III. Predio rústico: el que está localizado fura (sic) de la zona urbana.
+III. Predio rústico: el que está localizado fura de la zona urbana.
 
 IV. Predio edificado: el que tenga construcciones permanentes;
 
@@ -131,7 +131,9 @@ VIII Zona catastral: la división territorial de índole administrativa que dete
 
 IX. Zona urbana: las superficies constituidas por las áreas que componen los centros de población que cuentan con servicios públicos;
 
-X. Zonas rusticas; las superficies constituidas por las áreas localizadas fuera de los límites de los centros de población, que cuentan con servicios públicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+X. Zonas rústicas; las superficies constituidas por las áreas localizadas fuera de los límites de los centros de población;
 
 XI. Construcciones: las obras de cualquier tipo, destino o uso, inclusive los equipos e instalaciones adheridos a ellas, clasificadas en:
 
@@ -147,7 +149,7 @@ XIII. Condominio: el inmueble construido en forma vertical, horizontal o mixta s
 
 XIV. División: la partición de un predio en dos o más lotes;
 
-XV. Fusión: la unión de dos o más predios colindantes en uno solo;
+XV: Fusión: la unión de dos o más predios colindantes en uno solo;
 
 XVI. Valor unitario: es el valor asignado por unidad de superficie para predios urbanos y rústicos;
 
@@ -197,15 +199,17 @@ Con base en los elementos físicos del predio y datos obtenidos, se formarán y 
 
 El Congreso del Estado aprobará los valores unitarios de terreno y construcción que servirán de base para determinar el valor catastral.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 10.
 
-Los valores unitarios de terreno y construcción que sirvan de base para la determinación de los valores catastrales, serán actualizados cada dos años teniendo como referencia los valores reales al momento de elaborarse el estudio.
+Los valores unitarios de terrenos y construcción que sirven de base para la determinación de los valores catastrales, serán actualizados cada año teniendo como referencia los valores reales al momento de elaborarse el estudio.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 11.
 
-En el supuesto de que al término del período a que se refiere el artículo anterior, no sean aprobados los nuevos valores, los anteriores se incrementarán aplicando los factores que en su caso fije el Congreso del Estado, para el año de que se trate.
+En el supuesto de que al término del período a que se refiere el artículo anterior, no sean aprobados los nuevos valores, los anteriores se incrementarán aplicando los factores que en caso fije el Congreso del Estado, para el año de que se trate.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -229,7 +233,7 @@ VII. Parte del predio sea objeto de transmisión de dominio;
 
 VIII. Se cambie el régimen de propiedad individual por el de condominio, y
 
-IX. Se cambie de régimen rústico a urbano o viceversa.
+IX. Se cambie se régimen rústico a urbano o viceversa.
 
 ###### ARTICULO 13.
 
@@ -241,7 +245,7 @@ La Tesorería General del Estado, practicará las actuaciones de medición y des
 
 ###### ARTICULO 15.
 
-La medición y deslinde catastral serán realizados previa notificación a los propietarios o poseedores del predio de que se trate y a los colindantes del mismo, pudiendo éstos hacer las observaciones que estimen convenientes. En los casos en que las actuaciones anteriores se refieran a predios federales, estatales, municipales o a vías públicas, deberá notificarse al Agente del Ministerio Público Federal, Estatal o a la autoridad municipal correspondiente, para que intervengan en este procedimiento.
+La medición y deslinde catastral serán realizadas previa notificación a los propietarios o poseedores del predio de que se trate y a los colindantes del mismo, pudiendo éstos hacer las observaciones que estimen convenientes. En los casos en que las actuaciones anteriores se refieran a predios federales, estatales, municipales o a vías públicas, deberá notificarse al Agente del Ministerio Público Federal, Estatal o a la autoridad municipal correspondiente, para que intervengan en este procedimiento.
 
 La ausencia de los interesados citados legalmente, no será motivo para suspender la elección de las actuaciones, salvo cuando debe intervenir el Ministerio Público.
 
@@ -259,9 +263,11 @@ La autoridad catastral, expedirá copias certificadas de planos y documentos rel
 
 La valuación catastral tiene por objeto asignar valores a los bienes inmuebles ubicados dentro del Estado, de acuerdo al presente ordenamiento y a su reglamento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 18.
 
-El valor catastral de los predios se determinará mediante procedimiento técnico de valuación o por medio de estimaciones cuando proceda, de acuerdo a lo señalado en esta Ley.
+El valor catastral de los predios se determinará mediante cualquiera de los procedimientos técnicos de valuación.
 
 ###### ARTICULO 19.
 
@@ -277,9 +283,9 @@ La aplicación de los valores unitarios de los diferentes tipos de construcción
 
 ###### ARTICULO 22.
 
-En la aplicación de los valores unitarios de terreno, para predios rústicos, se considerará el tipo o clase de tierra, calidad, ubicación, accesos, condiciones hidrológicas y demás factores que incidan en los mismos.
+En la aplicación de los valores unitarios de terreno, para predios rústicos, se considerará el tipo o clase de tierra, calidad, ubicación, excesos, condiciones hidrológicas y demás factores que incidan en los mismos.
 
-Para las zonas rústicas destinadas a explotaciones que requieran concesión, serán observados los señalamientos, especificaciones y limitaciones que prevengan las leyes sobre la materia.
+Para las zonas rústicas destinadas a exploraciones que tuvieran concesión, serán observados los señalamientos, especificaciones y limitaciones que prevengan las leyes sobre la materia.
 
 ###### ARTICULO 23.
 
@@ -289,11 +295,15 @@ Los valores unitarios aprobados por el H. Congreso del Estado, servirán de base
 
 Los predios a los que se hubiere fijado un valor catastral, podrán ser revaluados por las causas señaladas en el artículo 12 del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 25.
 
-Para llevar a efecto la valuación catastral, el personal autorizado de la Tesorería General deberá presentarse en días y horas hábiles, mostrando a los ocupantes del inmueble la orden de avalúo e identificación expedida por autoridad competente. Si los ocupantes se opusieran a la valuación del predio, el valuador levantará acta haciendo constar el hecho, con la que dará cuenta a la Tesorería General para que ésta los requiera por escrito y permitan la práctica de la valuación.
+La Tesorería General llevará a efecto la valuación catastral con base en cualquiera de los procedimientos técnicos de valuación.
 
-Si los ocupantes no permiten la valuación, ésta se realizará con los elementos de juicio de que se disponga, sin perjuicio de que se apliquen las sanciones que procedan. El avalúo tendrá el carácter de provisional hasta en tanto se pueda llevar a cabo el definitivo.
+A juicio de la Tesorería General o a petición de parte interesada podrá efectuarse la valuación mediante la apreciación directa del predio. En este caso el personal autorizado de la Tesorería General, deberá presentarse en días y horas hábiles mostrando a los ocupantes del inmueble, la orden de avalúo e identificación, expedida por autoridad competente.
+
+Si los ocupantes se opusieren a la valuación del predio, el valuador levantará acta, haciendo constar el hecho, con la que dará cuenta a la Tesorería General para que ésta los requiera por escrito y permitan la práctica de la valuación. Si los ocupantes no permiten la valuación, ésta se realizará en forma provisional con los elementos de juicio de que se disponga sin perjuicio de que se apliquen las sanciones que procedan.
 
 ###### ARTICULO 26.
 
@@ -317,27 +327,45 @@ Los valores catastrales surtirán efectos legales a partir de la fecha de su not
 
 La Tesorería General del Estado, podrá autorizar peritos valuadores de bienes inmuebles, mismos que deberán inscribirse en el Registro de Valuadores previo cumplimiento de los requisitos establecidos en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+La Tesorería General del Estado, fijará el monto de la garantía a los peritos valuadores autorizados y señalará el otorgamiento de la misma en alguna de las formas que establece el Artículo 32 del Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+A los Peritos valuadores autorizados por la Tesorería General del Estado que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, les será suspendida dicha autorización, sin perjuicio de las sanciones fiscales o penales en que incurran.
+
 ### CAPITULO SEXTO. DE LOS FRACCIONAMIENTOS Y CONDOMINIOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Urbanismo y Obras Públicas y los Ayuntamientos, comunicarán por escrito a la autoridad catastral, de las solicitudes de concesión o autorización de fraccionamientos o condominios. Esta autoridad a su vez, con base en las datos contenidos en las solicitudes, verificará la situación catastral de los predios e informará del resultado, para la continuación de los trámites respectivos.
+La Secretaría de Urbanismo y los Ayuntamientos comunicarán por escrito a la autoridad catastral, de las solicitudes de concesión o autorización de fraccionamientos o condominios, para que con base en los datos contenidos en las solicitudes, verifique la situación catastral de los predios e informe sobre la misma a los primeros, para la continuación de los trámites respectivos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 32.
 
-Las personas físicas o morales que obtengan de la Secretaría de Urbanismo y Obras Públicas, dictamen aprobatorio de uso del suelo para fraccionar un terreno o establecer un condominio, deberán solicitar por escrito a la autoridad catastral, la medición y deslinde del predio afectado.
+Las personas físicas o morales que obtengan de la Secretaría de Urbanismo, dictamen aprobatorio de uso del suelo para fraccionar un terreno o establecer un condominio, deberán solicitar por escrito a la autoridad catastral, la medición y deslinde del predio afectado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 33.
 
-La Secretaría de Urbanismo y Obras Públicas remitirá a la autoridad catastral los planos de lotificación autorizados, para fraccionar un terreno o establecer un condominio. Esta autoridad, para su registro y control, asignará el número, la clave y el valor catastral correspondiente a cada predio del fraccionamiento, o a cada local o apartamento del condominio.
+La Secretaría de Urbanismo remitirá a la autoridad catastral los planos de lotificación autorizados, para fraccionar un terreno o establecer un condominio. Esta autoridad, para su registro y control, asignará el número, la clave y el valor catastral correspondiente a cada predio del fraccionamiento, o a cada local o apartamento del condominio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de Urbanismo y Obras Públicas deberá comunicar a la autoridad catastral cualquier modificación de los planos de lotificación autorizados originalmente para fraccionamientos o condominios, con objeto de actualizar los padrones catastrales.
+La Secretaría de Urbanismo deberá comunicar a la autoridad catastral cualquier modificación de planos de lotificación autorizados originalmente para fraccionamientos o condominios, con objeto de actualizar los padrones catastrales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría de Urbanismo y Obras Públicas comunicará a la autoridad catastral la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, para que ésta proceda a efectuar las acciones catastrales correspondientes.
+La Secretaría de Urbanismo comunicará a la autoridad catastral la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, para que ésta proceda a efectuar las acciones catastrales correspondientes.
 
 ###### ARTICULO 36.
 
@@ -355,7 +383,7 @@ De celebrarse dichos contratos y se transmita la posesión de algún predio o co
 
 ###### ARTICULO 38.
 
-La Tesorería General del Estado, efectuará las acciones catastrales correspondientes, cuando se realicen total o parcialmente, fraccionamientos o condominios sin la autorización de las autoridades competentes y comunicará de inmediato esta situación a las mismas, para que impongan las sanciones que procedan.
+La Tesorería General del Estado, efectuará las acciones catastrales correspondientes, cuando se realicen total o parcialmente, fraccionamientos o condominios sin la autorización de las autoridades competentes y comunicará de inmediato esta situación a las mismas, para que impongan las sancione que procedan.
 
 ### CAPITULO SEPTIMO. DE LAS OBLIGACIONES CATASTRALES
 
@@ -379,7 +407,7 @@ Las dependencias oficiales, los Fedatarios Públicos o cualesquiera otros funcio
 
 ###### ARTICULO 43.
 
-La Tesorería General del Estado, deberá notificar a los propietarios, poseedores o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales que se efectúen, en el predio objeto de la operación o en el domicilio señalado por escrito para oir notificaciones; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad.
+La Tesorería General del Estado, deberá notificar a los propietarios, poseedores o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales que se efectúen, en el predio objeto de la operación o en el domicilio señalado por escrito para oír notificaciones; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial del Estado y en uno de los Periódicos de mayor circulación en la Entidad.
 
 ### CAPITULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -391,7 +419,7 @@ I. Omitan o no presenten en el plazo estipulado las declaraciones, manifestacion
 
 II. Consignen datos falsos o dolosamente alterados en sus declaraciones, manifestaciones o avisos.
 
-III. Se rehusen a mostrar o a proporcionar títulos, planos, contratos, constancias o cualquier otro documento o información al personal de la Tesorería General que lo solicite, para aclarar y conocer las características reales del predio o datos adicionales de éste.
+III. Se rehúsen a mostrar o a proporcionar títulos, planos, contratos, constancias o cualquier otro documento o información al personal de la Tesorería General que lo solicite, para aclarar y conocer las características reales del predio o datos adicionales de éste.
 
 IV. No permitan o interfieran las acciones catastrales.
 
@@ -407,11 +435,17 @@ VIII. En cualquier otra forma infrinjan esta Ley.
 
 Los infractores de la presente Ley y su reglamento, serán sancionados por la Tesorería General, de conformidad con las siguientes disposiciones:
 
-I. Los infractores a las fracciones I, III, IV y VIII del artículo anterior, se harán acreedores a una multa de $1,000.00 a $ 6,000.00; sin perjuicio de las sanciones penales, fiscales o de otro carácter en que incurran.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
-II. A los que cometan violación a lo establecido en las fracciones II y VII del artículo anterior, se les aplicará multa de $ 2,000.00 a.... $ 10,000.00, sin perjuicio de las sanciones penales, fiscales o de otra índole a que se hagan acreedores.
+I. Los infractores a las fracciones I, III, IV y VIII del artículo anterior, se harán acreedores a una multa equivalente al monto de 3 a 5 días de salario mínimo general vigente en la capital del Estado, en la fecha de la infracción, sin perjuicio de las sanciones que les impongan otros ordenamientos.
 
-III. A quienes violen lo previsto en las fracciones V y VI del artículo anterior, se les aplicará multa de $ 10,000.00 a $ 40,000.00 sin perjuicio de las sanciones que les impongan otros ordenamientos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+II. A los que cometan violación a lo establecido en las fracciones II y VII del artículo anterior, se les aplicará una multa equivalente al monto de 6 a 10 días de salario mínimo general vigente en la capital del Estado, en la fecha de la infracción, sin perjuicio de las sanciones que les impongan otros ordenamientos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
+III. A quienes violen lo previsto en las fracciones V y VI del Artículo anterior, se les aplicará una multa equivalente al monto de 11 a 15 días de salario mínimo general vigente en la capital del Estado, en la fecha de la infracción, sin perjuicio de las sanciones que les impongan otros ordenamientos.
 
 ###### ARTICULO 46.
 
@@ -439,7 +473,7 @@ III. Error en la aplicación de los valores unitarios que sirvieron de base para
 
 IV. Error en el coeficiente de demérito o incremento que señalen el Reglamento de esta Ley;
 
-V. Falta de aplicación de los coeficientes de demérito o incremento, que señalen el Reglamento de esta Ley;
+V. Falta de aplicación de los coeficientes de demérito o incremento, que señalen el Reglamento de esta Ley,
 
 VI. Cualquier otro error u omisión que afecte la valuación o datos de registro del predio.
 
@@ -479,11 +513,11 @@ Los propietarios o poseedores de predios o sus representantes legales, deberán 
 
 ###### ARTICULO 56.
 
-Los propietarios o poseedores de predios, están obligados a dar aviso a la autoridad catastral, del cambio de su domicilio para oir notificaciones, dentro de los quince días hábiles siguientes a la fecha que éste se efectúe.
+Los propietarios o poseedores de predios, están obligados a dar aviso a la autoridad catastral, del cambio de su domicilio para oír notificaciones, dentro de las quince días hábiles siguientes a la fecha que éste se efectúe.
 
 Si no lo hicieren, se tendrá como legal el que hubieren señalado con anterioridad o el del predio mismo.
 
-T R A N S I T O R I O S
+## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
@@ -501,7 +535,7 @@ El Ejecutivo del Estado dispondrá se publique y observe.
 
 PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 23 de febrero de 1984 "AÑO DE FRANCISCO J. MUGICA". DIPUTADO PRESIDENTE, LIC. FLORENCIO ALCANTAR MEJIA.- DIPUTADO SECRETARIO, LIC. RAMON HERRERA GONZALEZ.- DIPUTADO SECRETARIO, LIC. SALVADOR HERNANDEZ MORA.- (Firmados).
 
-En cumplimiento por lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo a los 28 veintiocho días del mes de febrero de 1984 mil novecientos ochenta y cuatro.
+En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo a los 28 veintiocho días del mes de febrero de 1984 mil novecientos ochenta y cuatro.
 
 Sufragio Efectivo. No reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados).
 
@@ -512,3 +546,9 @@ P.O. 31 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial Del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrara en vigor el 1o. de enero de 1988, previa publicación en el Periódico Oficial del Estado.
