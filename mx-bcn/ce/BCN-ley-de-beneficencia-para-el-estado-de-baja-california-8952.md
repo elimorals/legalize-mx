@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1969-09-30"
+last_updated: "1971-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -41,13 +41,9 @@ DE LA ASISTENCIA PUBLICA
 
 ## Título Unico
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 1.
 
 Se establece el "Patronato de la Asistencia Pública en el Estado de Baja California" con personalidad jurídica propia y capacidad para realizar todos los actos necesarios para el desempeño de sus funciones. Consecuentemente puede adquirir y poseer toda clase de bienes por cualquiera de los medios admitidos en derecho y disfrutar de los privilegios y exenciones en los términos que marca la presente Ley.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
 
@@ -67,13 +63,9 @@ El Patronato de la Asistencia Pública del Estado tendrá por objeto:
 
 6.- Todo lo demás que las Leyes y Reglamentos le señalen.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 3.
 
 El referido Patronato radicará en la capital del Estado y estará integrado por cinco miembros propietarios y cinco suplentes que serán nombrados por el Gobernador del Estado y durarán en su encargo seis años.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 4.
 
@@ -89,31 +81,21 @@ IV.- No ser ministro de ningún culto ni estar ligados por juramentos o promesas
 
 El Ejecutivo procurará que el Patronato quede integrado por personas bien relacionadas y pertenecientes a diferentes sectores de actividad económico-social.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 5.
 
 El patronato nombrará y removerá, con aprobación del Ejecutivo, a los empleados de su dependencia conforme lo que dicte la Ley del Servicio Civil.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 6.
 
 Todas las autoridades locales otorgarán al Patronato las más amplias facilidades para el desempeño de aquellas de sus funciones que sean esencialmente de carácter económico y administrativo. Las cuestiones técnicas relacionadas con las actividades asistenciales serán resueltas por la Dirección General de Salubridad y Asistencia del Estado o en su defecto por los Servicios Coordinados.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 7.
 
 Podrán constituirse delegaciones del Patronato que actúen en poblaciones o lugares fuera de la Capital del Estado.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 8.
 
 Los miembros del Patronato y los empleados de su dependencia, serán consignados como funcionarios o empleados para los efectos de las responsabilidades civiles o criminales en que incurran.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
 
@@ -135,13 +117,9 @@ VI.- Los productos que se obtengan de la organización de ferias, festivales y c
 
 VII.- Los demás bienes que adquiera o productos que obtenga en las explotaciones de economía mixta a que se refiere la Fracción I del artículo 2 de esta Ley, y que se autoricen o permitan por el Gobierno del Estado para fines de Asistencia Pública, con arreglo a las Leyes y que no estén comprendidos en las fracciones anteriores.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 10.
 
 Los actos, acuerdos o contratos en virtud de los cuales se distraigan de su objeto los fondos de la asistencia pública serán nulos y de ningún valor, y las personas que como funcionarios o particulares intervengan directa o indirectamente en semejantes operaciones serán personal o solidariamente responsables con sus bienes propios, del reintegro de los bienes que faltaren, sin perjuicio de la responsabilidad criminal en que incurran por la defraudación.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 11.
 
@@ -175,13 +153,9 @@ XIII.- Rendir al Ejecutivo del Estado por conducto de la Tesorería General, cue
 
 XIV.- Proporcionar todos los datos, informe o comprobantes que el Ejecutivo solicite directamente o por conducto de sus inspectores.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 12.
 
 Las decisiones del Patronato se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad. Para que los acuerdos del Patronato sean válidos se necesita cuando menos, la asistencia de tres de sus miembros.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 13.
 
@@ -207,13 +181,9 @@ IX.- Aprobar los pedidos que se hagan por los establecimientos y tengan carácte
 
 X.- Someter al Ejecutivo del Estado, previa aceptación del Patronato el proyecto de los presupuestos de ingresos y egresos para que el mismo Ejecutivo los someta a la aprobación del Congreso del Estado.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 14.
 
 El Patronato tendrá un Secretario que será nombrado y removido por el Patronato mismo.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 15.
 
@@ -231,8 +201,6 @@ V.- Llevar la correspondencia interior y exterior del Patronato; y
 
 VI.- Todas las demás que le fije esta Ley y el reglamento correspondiente.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 16.
 
 Son facultades y obligaciones del Tesorero:
@@ -247,43 +215,29 @@ IV.- Proponer al Patronato de designación de los cajeros contadores del propio 
 
 V.- En general atender el despacho de todos los asuntos concernientes al manejo de fondos; vigilando la actuación de los directores, administradores, contadores, cajeros y demás empleados que intervengan en el manejo o distribución de fondos en los diversos establecimientos asistenciales.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 17.
 
 Los directores de los establecimientos tendrán a su cargo la dirección y responsabilidad técnica de los servicios y dictarán las medidas que crean necesarias para el mejor desempeño de las obligaciones de los empleados encargados de ellos.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 18.
 
 Los administradores serán auxiliares de los Directores y tendrán a su cargo el manejo de todos los servicios y el cuidado de la disciplina y orden de los establecimientos. Serán los encargados de cumplir las órdenes que dicte el Patronato, así como las disposiciones de carácter técnico que dicte el Director del establecimiento.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 19.
 
 Los administradores y directores rendirán un enfoque mensual al Patronato sobre sus labores y cada año una memoria general sobre ellos, indicando las reformas que crean necesarias. Dichos informes incluirán cortes de caja de primera y segunda operación, adjuntando copia de los comprobantes respectivos en los términos que ordene el patronato.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 20.
 
 Las delegaciones de la Asistencia Pública tienen por objeto el fomento y la vigilancia de los establecimientos de asistencia pública en las cabeceras de municipalidad respectivas.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 21.
 
 Las delegaciones se integrarán por tres personas de las cuales dos serán nombrados por el Ejecutivo a propuesta del Patronato y una por el Ayuntamiento respectivo, debiendo reunir las condiciones que para los miembros del Patronato exige el Artículo 4 de esta Ley.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 22.
 
 Las delegaciones desempeñarán en las Municipalidades del Estado, las mismas funciones que esta Ley encomienda al patronato de la Asistencia Pública del Estado; tendrán las mismas obligaciones y derechos que el Patronato al cual estarán supeditados y serán directamente responsables de la marcha administrativa de los centros asistenciales establecidos en su jurisdicción dependientes del Patronato.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
 
@@ -303,27 +257,19 @@ V.- Faltar al cumplimiento de las demás obligaciones que les imponga esta Ley o
 
 Las responsabilidades mencionadas se harán efectivas en vía administrativa y las castigará disciplinariamente el Ejecutivo del Estado, salvo el caso de que constituyan una infracción antisocial, pues en este evento serán consignadas a las autoridades competentes.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
 
 ###### Artículo 24.
 
 Se exceptúa al "Patronato de la Asistencia Pública en el Estado de Baja California", de toda clase de impuestos y derechos que pudiere causar al Fisco del Estado y a los Municipios por concepto de propiedad raíz y por los actos de obtención, producción y demás actividades gravables, tanto propias como de los demás organismos sujetos a su control.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 25.
 
 Los establecimientos de Asistencia, son para satisfacer necesidades reales y lo harán gratuitamente sólo para los verdaderos indigentes. Los que no fueren absolutamente, serán auxiliados en los establecimientos pagando las cuotas reducidas que señale el Patronato o la delegación correspondiente.
 
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
-
 ###### Artículo 26.
 
 Para el régimen interior de los establecimientos tendrá cada uno de ellos un reglamento que será formulado por el Director y aprobado por el Patronato.
-
-> <small>N. DE E. DEROGADO EN LO QUE SE OPONGA A LA LEY ORGANICA DEL INSTITUTO DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA, POR ARTICULO SEPTIMO TRANSITORIO, P.O. 30 DE SEPTIEMBRE DE 1969.</small>
 
 ###### Artículo 27.
 
@@ -1754,3 +1700,9 @@ Las funciones encomendadas por la Ley de Beneficencia para el Estado de Baja Cal
 Los derechos patrimoniales que de acuerdo con las distintas leyes vigentes con anterioridad a la presente hubieren sido creados a favor del Patronato de la Asistencia Pública o de la Beneficencia Pública, se entenderán en lo sucesivo referidos y bajo la titularidad del Instituto de Asistencia Social del Estado de Baja California .
 
 ARTICULO ONCEAVO.- En la forma y términos que se estableció en los Artículos 2o. Fracción XIV y 17 Fracción III, continuará vigente lo dispuesto por la Ley de Beneficencia.
+
+P.O. 20 DE DICIEMBRE DE 1971.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Las situaciones jurídicas creadas bajo la vigencia de la Ley que se abroga, conservarán toda su validez.
