@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-administracion-de-la-beneficencia-119
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-07"
-last_updated: "1998-01-07"
+last_updated: "2002-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION DE LA BENEFICENCIA PUBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de enero de 1998.
 
@@ -49,7 +49,7 @@ III. Administrar el patrimonio que corresponda a la Beneficencia Pública;
 
 IV. Promover y gestionar la enajenación de bienes pertenecientes a la Beneficencia Pública, de no ser necesarios para el cumplimiento de su objeto;
 
-V. Operar el sistema de cuotas de recuperación;
+V. (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2002)
 
 VI. Distribuir conforme a las políticas y lineamientos que fije el Secretario a Programas de Salud del Estado los recursos financieros que se le asignen;
 
@@ -75,9 +75,13 @@ II. El Secretario de Salud del Estado, quien es Presidente Ejecutivo;
 
 III. El Secretario de Gobierno;
 
-IV. El Secretario de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-V. El Secretario de Contraloría y Desarrollo Administrativo;
+IV. El Secretario de Finanzas;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+V. El Secretario de Contraloría;
 
 VI. Un representante del Sector Privado;
 
@@ -239,9 +243,13 @@ V. Buscar los mecanismos idóneos en la promoción y captación de recursos econ
 
 El Área Administrativa atenderá el despacho de los siguientes asuntos:
 
-I. Administrar el sistema de cuotas de recuperación, proporcionando los apoyos y asesoría financiera a las áreas de salud y unidades hospitalarias;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-II. Controlar los recursos financieros, provenientes de las cuotas de recuperación, donaciones, subsidios, recursos propios y demás captaciones que se obtengan para el funcionamiento de la Administración de la Beneficencia Pública;
+I. Administrar el 15% de cuotas de recuperación que reciba como donativo por parte del gobierno del Estado, para proporcionar los apoyos y asesoría financiera a las áreas de salud y unidades hospitalarias;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+II. Controlar los recursos financieros, provenientes de las cuotas de recuperación, donaciones, subsidios, recursos propios y demás captaciones que se obtengan para el funcionamiento de la Administración de la Beneficencia Pública, mismas que estarán sujetas a las medidas de control y disposiciones legales aplicables;
 
 III. Alcanzar un óptimo aprovechamiento de los recursos provenientes de las cuotas de recuperación, fundamentándolos en la solidaridad social, efectuando los soportes financieros, para su distribución a las unidades de salud, atendiendo las políticas de autoridad, transparencia y racionalidad en el manejo de los fondos públicos;
 
@@ -366,3 +374,15 @@ SECRETARIO DE GOBIERNO
 DR. LUCIO GALILEO LASTRA ESCUDERO
 
 SECRETARIO DE SALUD
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones que se opongan a este Acuerdo.
