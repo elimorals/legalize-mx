@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2004-05-19"
+last_updated: "2004-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JUNIO DE 2004.
 
-Reglamento publicado en la Gaceta Oficial del Distrito Federal el jueves 28 de diciembre de 2000.
+Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
 (Al margen superior izquierdo un escudo que dice: CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
@@ -40,9 +40,13 @@ REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 Las disposiciones contenidas en este ordenamiento tienen por objeto reglamentar la Ley Orgánica de la Administración Pública del Distrito Federal, así como adscribir y asignar atribuciones a las Unidades Administrativas y a los Órganos Político-Administrativos y demás Órganos Desconcentrados que constituyen la Administración Pública Central y Desconcentrada, atendiendo a los principios estratégicos que rigen la organización administrativa del Distrito Federal.
 
-Las atribuciones establecidas en este Reglamento para las Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y demás Unidades Administrativas de Apoyo Técnico-Operativo, hasta el nivel de Dirección de Area, se entenderán delegadas para todos los efectos legales.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2004)</small>
 
-Las atribuciones de aquellas Unidades Administrativas de Apoyo Técnico-Operativo que no se establezcan en este Reglamento, deberán señalarse en los Manuales Administrativos correspondientes, entendiéndose dichas atribuciones, como delegadas.
+Las atribuciones establecidas en este Reglamento para las Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y demás Unidades Administrativas de apoyo técnico-operativo, hasta el nivel de Jefatura de Unidad Departamental. Se entenderán delegadas para todos los efectos legales.
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2004)</small>
+
+Además de las atribuciones generales que se establecen en este Reglamento para las Unidades Administrativas de Apoyo Técnico-Operativo, deberán señalarse las atribuciones específicas en los manuales administrativos correspondientes, entendiéndose dichas atribuciones, como delegadas.
 
 ###### Artículo 2º.
 
@@ -56,9 +60,9 @@ Además de los conceptos que expresamente señala el artículo 3° de la Ley Org
 
 I. Unidades administrativas: las dotadas de atribuciones de decisión y ejecución, que además de las Dependencias, son las Subsecretarías, la Tesorería del Distrito Federal, la Procuraduría Fiscal del Distrito Federal, las Coordinaciones Generales, las Direcciones Generales, las Subprocuradurías, las Subtesorerías, los órganos desconcentrados, las Direcciones Ejecutivas, las contralorías internas previstas en este Reglamento;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2004)</small>
 
-II. Unidades Administrativas de Apoyo Técnico-Operativo: Las que asisten técnica y operativamente a las Unidades Administrativas, a los Órganos Político-Administrativos a los Órganos Desconcentrados y que son las Direcciones de Área, las Subdirecciones, las Jefaturas de Unidad Departamental, las Jefaturas de Oficina, las Jefaturas de Sección y las Jefaturas de Mesa, de acuerdo a las necesidades del servicio, siempre que estén autorizadas en el presupuesto y con funciones determinadas en los manuales administrativos de cada Unidad Administrativa;
+II. Unidades Administrativas de Apoyo Técnico-Operativo: Las que asisten técnica y operativamente a las Unidades Administrativas, a los Órganos Político-Administrativos, a los Órganos Desconcentrados, y que son las Direcciones de Área, las Subdirecciones, las Jefaturas de Unidad Departamental, las Jefaturas de Oficina, las Jefaturas de Sección y las Jefaturas de Mesa, de acuerdo a las necesidades del servicio, siempre que estén autorizadas en el presupuesto y con funciones determinadas en este Reglamento o en los manuales administrativos de cada Unidad Administrativa;
 
 III. Órganos Político-Administrativos: Los establecidos en cada demarcación territorial dotados de atribuciones de decisión, ejecución y autonomía de gestión a los que genéricamente se les denomina Delegaciones del Distrito Federal, y tienen establecidas sus atribuciones en la Ley y este Reglamento; y
 
@@ -426,9 +430,29 @@ Cada Gabinete podrá llevar a cabo reuniones entre sus integrantes o con el Jefe
 
 El Jefe de Gobierno tiene a su cargo el Órgano Ejecutivo Local. A él corresponden originalmente todas las atribuciones que a dicho Órgano le confieren los ordenamientos jurídicos y administrativos relativos al Distrito Federal.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2004)</small>
+
 ###### Artículo 15.
 
-Los titulares de las Dependencias, de las Unidades Administrativas, de los Órganos Político-Administrativos y de los Órganos Desconcentrados pueden encomendar el ejercicio de sus funciones a servidores públicos de nivel jerárquico inferior adscritos a ellos, previo acuerdo del Jefe de Gobierno, debiendo publicarse el mismo en la Gaceta Oficial del Distrito Federal, sin que pierdan por ello la facultad de su ejercicio directo cuando lo juzguen necesario.
+Los titulares de las Dependencias, de las Unidades Administrativas, de los órganos político-administrativos y de los órganos desconcentrados pueden encomendar el ejercicio de sus funciones a servidores públicos de nivel jerárquico inferior adscritos a ellos, mediante acuerdo del Jefe de Gobierno, que se publique en la Gaceta Oficial del Distrito Federal, sin que pierdan por ello la facultad de su ejercicio directo cuando lo juzguen necesario.
+
+La representación legal ante autoridades judiciales y administrativas que se otorgue a personal de confianza, de base o prestadores de servicios profesionales, se hará en términos de lo que señalen las disposiciones jurídicas que sean aplicables, pudiendo revocarse en cualquier momento dicha representación.
+
+Los servidores públicos que tengan otorgada la representación legal del Distrito Federal, de los titulares de las Dependencias y de los órganos político-administrativos de la Administración Pública del Distrito Federal, ante autoridades judiciales o administrativas, sin perjuicio de aquellas tareas y deberes inherentes a su empleo, cargo o comisión, les corresponden:
+
+I. Ejercer la representación del Distrito Federal y de la Administración Pública del mismo, con la calidad de mandatario para pleitos y cobranzas, ante las autoridades judiciales y administrativas conforme a la delegación de facultades o mandato que se les confiera;
+
+II. Atender los criterios jurídicos que para la defensa de los intereses del Distrito Federal se establezcan;
+
+III. En materia laboral, representar a los titulares de las dependencias o jefes delegacionales conforme al mandato que se les confiera mediante oficio;
+
+IV. Agotar los medios de defensa de los intereses y patrimonio del Distrito Federal, de manera oportuna, salvo que se cuente con dictamen en contrario de autoridad competente;
+
+V. Coordinarse con la Dirección General de Servicios Legales, cuando se involucre directamente al Jefe de Gobierno del Distrito Federal;
+
+VI. Dar instrucciones al personal que tengan a su cargo, en relación con los asuntos encomendados, y
+
+VII. Informar del seguimiento de los asuntos encomendados, a su superior jerárquico y en su caso al responsable del área jurídica que esté directamente adscrito al titular de la Dependencia o Jefe Delegacional; así como a la Dirección General de Servicios Legales, según lo requiera.
 
 ###### Artículo 16.
 
@@ -5198,6 +5222,8 @@ XV. Recibir y administrar el porcentaje que establezcan los ordenamientos corres
 
 XVI. Las demás que le confiera la Ley de Justicia Cívica para el Distrito Federal, el Consejero Jurídico y de Servicios Legales y el Consejo de Justicia Cívica.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE JUNIO DE 2004)</small>
+
 #### SECCION I
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN ALVARO OBREGON.
@@ -5216,23 +5242,157 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2004)</small>
 
-#### SECCION IV
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
-
-(REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
-
 #### SECCION V
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
+#### SECCION IV
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
+
+(REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA DESCONCENTRADA
 
-### Capítulo I. De los Órganos Político-Administrativos
+### Capítulo IX
 
-### Capítulo II. De las atribuciones generales de los titulares de las Direcciones Generales de los Órganos Político- Administrativos
+De las atribuciones generales de los titulares de las Direcciones de Área, Subdirecciones, Jefaturas de Unidad Departamental, así como de los Enlaces Administrativos y Lideres Coordinadores de Proyectos, de toda unidad administrativa.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2004)</small>
+
+Artículo 119 A.- Las atribuciones generales que por virtud de este Reglamento se establecen, se realizarán sin perjuicio de aquellas que otras disposiciones jurídicas y administrativas confieran.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2004)</small>
+
+Artículo 119 B.- A los titulares de las Direcciones de Área de toda Unidad Administrativa, corresponde:
+
+I. Acordar con el titular de la Unidad Administrativa a la que estén adscritos los asuntos de su competencia;
+
+II. Supervisar la correcta y oportuna ejecución de recursos económicos y materiales de las Unidades de Apoyo Técnico-Operativo que les correspondan conforme al dictamen de estructura respectivo;
+
+III. Desempeñar los encargos o comisiones oficiales que el titular de la Unidad Administrativa o el Titular de la Dependencia correspondientes les asignen, manteniéndolos informados sobre su desarrollo;
+
+IV. Participar en la planeación, programación, organización, dirección, control y evaluación de las funciones de las Unidades Administrativas de Apoyo Técnico-Operativo correspondientes;
+
+V. Dirigir, controlar, evaluar y supervisar al personal de las Unidades Administrativas de Apoyo Técnico-Operativo que les correspondan, en términos de los lineamientos que establezcan el superior jerárquico o el titular de la dependencia;
+
+VI. Decidir sobre la distribución de las cargas de trabajo de las Unidades Administrativas de Apoyo Técnico-Operativo respectivas, para su mejor desempeño, en términos de los lineamientos que establezcan el superior jerárquico o el titular de la dependencia;
+
+VII. Llevar el control, administración y gestión de los asuntos que les sean asignados conforme al ámbito de atribuciones;
+
+VIII. Preparar y revisar, en su caso, conforme al ámbito de sus atribuciones, la documentación que deba suscribir el superior jerárquico;
+
+IX. Informar sobre el desarrollo de las labores del personal a su cargo en los términos que les solicite su superior jerárquico;
+
+X. Proponer normas y procedimientos administrativos para el funcionamiento de las Unidades Administrativas de Apoyo Técnico-Operativo que les correspondan;
+
+XI. Coadyuvar con el titular de la Unidad Administrativa correspondiente, en la atención de los asuntos de su competencia;
+
+XII. Vigilar que se cumplan las disposiciones legales y administrativas en los asuntos de la competencia de las Unidades Administrativas de Apoyo Técnico-Operativo respectivas y coordinar el adecuado desempeño de sus funciones;
+
+XIII. Acordar con los titulares de las Unidades Administrativas de Apoyo Técnico-Operativo a ellos adscritas el trámite, atención y despacho de los asuntos competencia de éstos;
+
+XIV. Someter a la consideración del titular de la Unidad Administrativa que corresponda, sus propuestas de organización, programas y presupuesto de las Unidades Administrativas de Apoyo Técnico-Operativo a ellos adscritas;
+
+XV. Tener trato con el público, exclusivamente cuando por las funciones de su unidad deban hacerlo;
+
+XVI. Conocer y observar las disposiciones que regulan las relaciones con el personal adscrito directamente a su unidad, y
+
+XVII. Las demás atribuciones que el titular de la Unidad Administrativa y el titular de la Dependencia les asignen, conforme a la normativa aplicable.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2004)</small>
+
+Artículo 119 C.- A los titulares de las Subdirecciones de toda unidad administrativa, corresponde:
+
+I. Acordar con el Director de Área o su superior jerárquico inmediato al que estén adscritos, según corresponda en términos del dictamen de estructura, el trámite y resolución de los asuntos de las Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
+
+II. Participar, según corresponda, con el Director de Área o su superior jerárquico inmediato, en la dirección, control y evaluación de las funciones de las Unidades de Apoyo Técnico-Operativo a su cargo;
+
+III. Vigilar y supervisar las labores del personal de las unidades Administrativas de Apoyo Técnico-Operativo, que les correspondan, en términos de los planes y programas que establezca el titular de la Unidad Administrativa correspondiente;
+
+IV. Dirigir, controlar y supervisar al personal de las Unidades Administrativas de Apoyo Técnico-Operativo respectivas, en términos de los lineamientos que establezca el superior jerárquico o el titular de la dependencia;
+
+V. Decidir sobre la distribución de las cargas de trabajo de las Unidades Administrativas de Apoyo Técnico-Operativo que les estén adscritas, para su mejor desempeño, conforme a los lineamientos que establezca el superior jerárquico o el titular de la dependencia;
+
+VI. Llevar el control, administración y gestión de los asuntos que le sean asignados conforme al ámbito de atribuciones;
+
+VII. Preparar y revisar, en su caso, conforme al ámbito de sus atribuciones, la documentación que deba suscribir el superior jerárquico;
+
+VIII. Informar sobre el desarrollo de las labores del personal a su cargo en los términos que les solicite su superior jerárquico;
+
+IX. Formular dictámenes, opiniones e informes que les sean solicitados por los titulares de la Dirección de Área, de la Unidad Administrativa o de la Dependencia a la que estén adscritos;
+
+X. Acordar, ejecutar y controlar los asuntos relativos al personal técnico-operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+
+XI. Participar en la coordinación y vigilancia de las prestaciones de carácter social y cultural, así como las actividades de capacitación del personal a su cargo, de acuerdo con las normas y principios establecidos por la autoridad competente;
+
+XII. Proponer programas de excelencia y calidad, tendientes a incrementar la productividad y mejorar la calidad de vida en el trabajo de su unidad;
+
+XIII. Formular, cuando así proceda, proyectos de planes y programas de trabajo de su unidad y demás Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, considerando las necesidades y expectativas de los ciudadanos y la mejora de los sistemas de atención al público;
+
+XIV. Tener trato con el público, exclusivamente cuando por las funciones de su unidad deban hacerlo;
+
+XV. Ejercer sus atribuciones coordinadamente con las demás Unidades Administrativas de Apoyo Técnico-Operativo para el mejor despacho de los asuntos de su competencia, y
+
+XVI. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos conforme a las funciones de la unidad administrativa a su cargo.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2004)</small>
+
+Artículo 119 D.- A los titulares de las Jefaturas de Unidad Departamental de toda unidad administrativa corresponde:
+
+I. Acordar, según corresponda, con el Subdirector de Área o su superior jerárquico inmediato, el trámite y resolución de los asuntos de su competencia;
+
+II. Participar con el Subdirector de Área que corresponda o su superior jerárquico en el control, planeación y evaluación de las funciones de la unidad de Apoyo Técnico-Operativo a su cargo;
+
+III. Dirigir, controlar y supervisar al personal de la Unidad Administrativa de Apoyo Técnico-Operativo a su cargo, conforme a los lineamientos que establezca el superior jerárquico;
+
+IV. Decidir sobre la distribución de las cargas de trabajo del personal a su cargo, para su mejor desempeño, conforme a los lineamientos que establezca el superior jerárquico;
+
+V. Llevar el control y gestión de los asuntos que les sean asignados conforme al ámbito de atribuciones;
+
+VI. Preparar y revisar, en su caso, la documentación que deba suscribir el superior jerárquico;
+
+VII. Informar sobre el desarrollo de las labores del personal a su cargo en los términos que les solicite su superior jerárquico;
+
+VIII. Llevar a cabo con el personal a su cargo, las labores encomendadas a su unidad conforme a los planes y programas que establezca el titular de la Unidad Administrativa correspondiente;
+
+IX. Acudir en acuerdo ordinario con el Subdirector de Área y en caso de ser requeridos, con el titular de la Dirección de Área, de la Unidad Administrativa o titular de la Dependencia que corresponda;
+
+X. Formular dictámenes, opiniones e informes que les sean solicitados por sus superiores jerárquicos;
+
+XI. Acordar, ejecutar y controlar los asuntos relativos al personal a ellos adscrito, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+
+XII. Participar en la coordinación y vigilancia de las prestaciones de carácter social y cultural, así como las actividades de capacitación del personal, de acuerdo a las normas y principios establecidos por la autoridad competente;
+
+XIII. Proponer programas de excelencia y calidad, tendientes a incrementar la productividad y a mejorar la calidad de vida en el trabajo en su unidad;
+
+XIV. Formular proyectos de planes y programas de trabajo de su unidad, considerando las necesidades y expectativas de los ciudadanos y la mejora de los sistemas de atención al público;
+
+XV. Tener trato con el público, exclusivamente, cuando por las funciones de su unidad deban hacerlo;
+
+XVI. Ejercer sus atribuciones coordinadamente con las demás Unidades Administrativas de Apoyo Técnico-Operativo para el mejor despacho de los asuntos de su competencia, y
+
+XVII. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y que correspondan a la jefatura de unidad departamental, a su cargo.
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2004)</small>
+
+Artículo 119 E. - A los enlaces administrativos y lideres coordinadores de proyectos de toda unidad administrativa, corresponde:
+
+I. Acordar con el titular de la Unidad Administrativa de Apoyo Técnico-Operativo a la que estén adscritos, el trámite y resolución de los asuntos encomendados y de aquellos que se turnen al personal de base bajo su vigilancia;
+
+II. Participar conforme a las instrucciones de su superior jerárquico inmediato, en la inspección y fiscalización del desempeño de las labores de personal de base de la unidad técnico operativa a la cual estén adscritos;
+
+III. Informar periódicamente de las labores encomendadas, así como las asignadas al personal de base a su cargo, conforme a los planes y programas que establezca el titular de la Unidad correspondiente;
+
+IV. Brindar asesoría al titular de la Unidad Administrativa o titular de la Dependencia a requerimiento de éstos;
+
+V. Elaborar proyectos relacionados con el marco de actuación de la unidad administrativa a la que estén adscritos, y en su caso, ejecutarlos, y
+
+VI. Vigilar la correcta utilización de recursos materiales por parte del personal de la unidad de apoyo técnico operativo a la que se encuentren adscritos, informando periódicamente de ello al titular de la unidad.
+
+### Capítulo I. De los Órganos Político-Administrativos
 
 ###### Artículo 120.
 
@@ -5520,11 +5680,7 @@ E) Dirección General de Desarrollo Social; y
 
 F) Dirección General de Medio Ambiente y Desarrollo Rural.
 
-### Capítulo III
-
-De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
+### Capítulo II. De las atribuciones generales de los titulares de las Direcciones Generales de los Órganos Político- Administrativos
 
 ###### Artículo 123.
 
@@ -5568,9 +5724,11 @@ XIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y ad
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 31 DE ENERO DE 2001)</small>
 
-### Capítulo IV. De la creación, estructura y funcionamiento de los Órganos Desconcentrados
+### Capítulo III
 
-(REUBICADO [N. DE E. ANTES ARTICULO 130], G.O. 31 DE ENERO DE 2001)
+De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 124.
 
@@ -7644,9 +7802,9 @@ VIII. Las demás que de manera directa le asigne el titular del Órgano Polític
 
 (REUBICADO, G.O. 31 DE ENERO DE 2001)
 
-### Capítulo V. De las atribuciones generales de las Direcciones Generales de los Órganos Desconcentrados
+### Capítulo IV. De la creación, estructura y funcionamiento de los Órganos Desconcentrados
 
-(REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTICULO 130], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 194.
 
@@ -7660,9 +7818,9 @@ Podrán crearse otros Órganos Desconcentrados por reglamento, decreto o acuerdo
 
 (REUBICADO, G.O. 31 DE ENERO DE 2001)
 
-### Capítulo VI. Del objeto y atribuciones de los Órganos Desconcentrados
+### Capítulo V. De las atribuciones generales de las Direcciones Generales de los Órganos Desconcentrados
 
-(REUBICADA, G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 196.
 
@@ -7707,6 +7865,10 @@ XI. Expedir, copias certificadas de los documentos que obren en sus archivos sob
 XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y administrativas y las que les sean conferidas por el órgano colegiado de dirección.
 
 (REUBICADO, G.O. 31 DE ENERO DE 2001)
+
+### Capítulo VI. Del objeto y atribuciones de los Órganos Desconcentrados
+
+(REUBICADA, G.O. 31 DE ENERO DE 2001)
 
 #### SECCION VI
 
@@ -7994,7 +8156,7 @@ Cuarto.- Las referencias hechas al Instituto del Taxi del Distrito Federal en ot
 
 Quinto.- En tanto se expidan las Bases, normas políticas y lineamientos y reglas de operación a que se refiere los artículos 103, fracciones XXX y XXXII, 110, fracción I; 112, fracciones XIII y XXI; 113, fracción XV, 113 Bis, fracción II, del presente Decreto, seguirán aplicándose las normas institucionales en materia de información y evaluación, así como los sistemas de seguimiento de observaciones y recomendaciones institucionales, al igual que los criterios de evaluación de personal ya establecidos.
 
-Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en tramite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
+Sexto.- Los expedientes derivados de las revisiones de auditoría que se encuentren en trámite en las contralorías internas, así como las auditorias de legalidad que se encuentren en trámite en la Dirección de Auditoría de Legalidad y Recursos de Inconformidad antes de la entrada en vigor del presente, se seguirán substanciando hasta su conclusión, por las unidades administrativas mencionadas.
 
 Séptimo.- La Dirección General de Auditoria deberá dar seguimiento al Programa General de Auditoría de Legalidad, para el año 2002, sin perjuicio de que este sea modificado conforme a las disposiciones jurídicas y administrativas aplicables.
 
@@ -8053,5 +8215,9 @@ SEGUNDO. Los recursos humanos, materiales, técnicos y financieros de la Unidad 
 TERCERO. Los asuntos en trámite a cargo de la Unidad Administrativa y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo en Benito Juárez, que por virtud de este Decreto dejan de tener algunas atribuciones se continuaran atendiendo, por la Unidad Administrativa de Apoyo Técnico Operativo que adquiere nuevas atribuciones, hasta su conclusión.
 
 G.O. 19 DE MAYO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 2 DE JUNIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
