@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2004-03-05"
+last_updated: "2004-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -201,7 +201,9 @@ III.- La atención y protección del ser humano durante su nacimiento, minoridad
 
 IV.- La protección de las víctimas de los delitos y de quienes carezcan de instrucción y sean de escasas posibilidades económicas.
 
-V.- La atención de la salud de los habitantes del Estado.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2004)</small>
+
+V.- La atención a la salud y a una vida adecuada que aseguren el bienestar de las personas, así como a la satisfacción de las necesidades de alimentación de las niñas y los niños;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2004)</small>
 
@@ -1133,11 +1135,11 @@ I.- Las bases generales para la creación de entidades de la Administración Pú
 
 II.- La intervención del Ejecutivo en la operación de esas entidades.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2004)</small>
 
 ###### Artículo 84.
 
-Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos y tener treinta años cumplidos; pero el Secretario de Gobernación, deberá además, tener Título de Abogado.
+Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1619,7 +1621,7 @@ Las participaciones que corresponden al Estado y a los Municipios en ingresos Fe
 
 La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos que establezca la ley, para hacer efectivos los créditos a su favor.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
+((REFORMADO, P.O. 5 DE MARZO DE 2001)
 
 ###### Artículo 113.
 
@@ -1731,13 +1733,11 @@ Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, de
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO. DISPOSICIONES GENERALES
+## TITULO NOVENO.. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO I
-
-DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS.
+### CAPITULO I. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -2226,6 +2226,26 @@ Quinto.- Los convenios celebrados entre el Estado y los Municipios en materia de
 P.O. 5 DE MARZO DE 2004.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta Reforma y Adición han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2004.
+
+DECRETO QUE REFORMA LA FRACCION V DEL ARTICULO 12 DE LA CONSTITUCION.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2004.
+
+DECRETO QUE REFORMA EL PRIMER PARRAFO DEL ARTICULO 84 DE LA CONSTITUCION.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
