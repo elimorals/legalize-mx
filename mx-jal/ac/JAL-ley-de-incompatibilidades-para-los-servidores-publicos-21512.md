@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "1980-01-03"
+last_updated: "1984-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PUBLICOS REGLAMENTARIA DEL ARTICULO 112 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO -- ANTES LEY REGLAMENTARIA DEL ART. 62, ANTES DEL ART. 61-- DE LA CONSTICUCION POLITICA DEL ESTADO DE JALISCO
 
-LEY REGLAMENTARIA DEL ARTICULO 61 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+LEY REGLAMENTARIA DEL ARTICULO 62 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -37,109 +37,223 @@ DECRETO
 
 Número 10206. El Congreso del Estado decreta:
 
-Ley Reglamentaria del Artículo 61 de la Constitución Política del Estado de Jalisco.
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 1984)</small>
+
+Ley Reglamentaria del Art. 62 de la Constitución Política del estado de Jalisco.
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+
 ###### Artículo 1.
 
-° La presente Ley es de interés público y sus normas de observancia general, por lo tanto aplicable a todos los funcionarios o servidores públicos del Estado, sean de confianza, de base, o supernumerarios.
+° La presente Ley es de interés público y sus normas de observancia general, por lo tano (sic), aplicable a todos los Servidores Públicos a que se contrae el primer párrafo del Art. 47 de la Constitución Política del estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 2.
 
-° Serán nulos y carecerán de eficacia legal los acuerdos, nombramientos, asignaciones y comisiones que contravengan la presente Ley.
+° Se concede acción popular para denunciar las incompatibilidades en que incurran los servidores públicos. Se deberán presentar por escrito y contener elementos de prueba suficientes para establecer que se incurre en alguno de los supuestos que señala esta Ley.
+
+Las denuncias anónimas no producirán efecto alguno.
+
+El Oficial Mayor, o quien haga sus veces, en los poderes Legislativo y Judicial, así como en los municipios del estado y Empresas Descentralizadas previa identificación del denunciante, asentarán de inmediato la ratificación correspondiente. Lo mismo hará el Director de Personal de la Secretaría de Administración, por lo que respecta a servidores públicos del Poder Ejecutivo.
+
+Cuando algún servidor público sea llamado a desempeñar otro puesto también en el sector público, dentro del territorio del Estado, deberá comunicarlo, antes de aceptar el cargo, a la persona que corresponda, de las mencionadas en el párrafo anterior, quienes tendrán la obligación, y será motivo de responsabilidad no cumplirla, de enviar, a la Secretaría de Administración, copia de los nombramientos de los servidores públicos, para efectos de control de incompatibilidades.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 3.
 
-° Hay incompatibilidad cuando una persona desempeña al mismo tiempo distintos cargos o empleos públicos remunerados, conforme a lo dispuesto por los Arts. 60 y 61 de la Constitución Política del Estado.
+° Serán nulos y carecerán de eficacia legal, los acuerdos, nombramientos, designaciones y comisiones que contravengan la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 4.
 
-° Ningún empleado podrá ocupar dos o más puestos Directivos, Ejecutivos, ni Administrativos remunerados.
+° Hay incompatibilidad, cuando un Servidor Público desempeña distintos cargos públicos remunerados, conforme a lo dispuesto por los Arts. 60 y 62 de la Constitución Política del estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 5.
 
-° No es incompatible el desempeño de puestos del Estado, con los de Instrucción y beneficencia o de estos entre sí, en los términos que se señalan en el Capítulo siguiente.
+° Ningún servidor público podrá ocupar dos o más cargos directivos, ejecutivos ni administrativos remunerados, incompatibles.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 6.
 
-° Las incompatibilidades en el Ramo de la Instrucción y Beneficencia pueden ser:
+° No es incompatible el desempeño de cargos públicos con los de la actividad docente y de beneficencia, o de éstos entre sí, en los términos que señala el capítulo siguiente.
 
-a) Horarias.
+Las incompatibilidades de los cargos directivos, administrativos y docentes de la Universidad de Guadalajara, se regirán por las normas de sus leyes Orgánica y Reglamentaria.
 
-b) Físicas.
-
-c) Por razón de servicio.
-
-d) Por razón de la ubicación.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 7.
 
-° Hay incompatibilidad horaria, cuando la persona que desempeña una actividad de instrucción o beneficencia, desarrolla a la vez otra actividad similar o cargo público remunerado, que coincidan en el tiempo.
+° En la actividad no docente, el horario en el que un Servidor Público deba desarrollar su trabajo, no deberá exceder del tiempo señalado como jornada, por el Art. 123 de la Constitución Federal.
 
-### CAPITULO II. De las Clases de Incompatibilidades
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 5 DE ENERO DE 1984)</small>
+
+### CAPITULO II. De las Incompatibilidades
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 8.
 
-° Hay incompatibilidad física, cuando por la continuidad o exceso en el horario la persona que desarrolla una actividad de instrucción o beneficencia, se encuentra impedida para desempeñar otra actividad similar o cargo público remunerado, como consecuencia del esfuerzo desarrollado que provoque una mengua en sus aptitudes físicas y mentales en forma tal, que le impida continuar desempeñándolo con el grado de eficiencia requerido. No existe incompatibilidad en el caso de dobles plazas autorizadas en el servicio docente.
+° Las incompatibilidades pueden ser: horarias, físicas, por razón de servicio y por razón de la ubicación.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 9.
 
-° Hay incompatibilidad por razón de servicio, cuando una persona desempeña dos o más actividades de instrucción o beneficencia u otro cargo público remunerado, que no puede desarrollar imparcialmente, porque la fiel atención de una, implique conflicto con la otra.
+° Hay incompatibilidad horaria, cuando el Servidor Público desempeña una actividad y desarrolla, a la vez, otro cargo público remunerado, que coincida en el tiempo.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 10.
 
-° Existe incompatibilidad por razón de la ubicación cuando una persona que desempeña actividades de instrucción o beneficencia, desarrolla a la vez en lugares geográficamente distantes actividades similares, u ocupa puestos públicos remunerados, de tal manera que sea imposible atender unos sin descuidar los otros.
+° Hay incompatibilidad física cuando, por la continuidad de exceso en el horario, el servidor público se encuentra impedido para desempeñar otro cargo público remunerado que, como consecuencia del esfuerzo desarrollado, provoque una mengua en sus facultades físicas y/o mentales, en forma tal, que le impida continuar desempeñándolo con el grado de eficacia requerido.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 11.
 
-Las incompatibilidades de los puestos Directivos, Administrativos y Docentes de la Universidad de Guadalajara, se regirán por las normas de sus leyes Orgánica y Reglamentarias.
+Hay incompatibilidad por razón del servicio, cuando un Servidor Público desempeña dos o más cargos públicos remunerados que no pueda desarrollar imparcialmente, porque la fiel atención de uno implique conflicto con otro.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 12.
 
-En la actividad no docente, el horario en el que un trabajador debe desarrollar su trabajo, no deberá exceder de la jornada de trabajo señalada por el Art. 123 Constitucional.
+Hay incompatibilidad por razón de ubicación, cuando un servidor Público debe desarrollar, a la vez, dos o más cargos o empleos remunerados en lugares geográficamente distintos, de tal manera que sea imposible atender uno sin descuidar los otros.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 13.
 
-Para los efectos de esta Ley, se entiende por Comisión la orden que se da por el Titular de una Dependencia a un Funcionario o Servidor Público, para que realice temporalmente alguna actividad que no constituya un deber propio del puesto o cargo público que desempeña.
+No existe incompatibilidad en el caso de dobles plazas autorizadas en el servicio docente, que no se encuentren en los supuestos que establece este capítulo.
+
+(REUBICADO, P.O. 5 DE ENERO DE 1984)
 
 ### CAPITULO III. De las Comisiones
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+
 ###### Artículo 14.
 
-Las Comisiones serán por tiempo limitado, y si interfieren en el horario normal de labores del puesto o cargo del Funcionario o Servidor Público, el Titular de la Dependencia que las autorice, proveerá lo necesario para subsanar la ausencia del Comisionado.
+Para los efectos de esta ley, se entiende por Comisión la orden que da el titular de una dependencia a un Servidor Público, para que realice, temporalmente, alguna actividad que no constituya un deber propio del cargo público que desempeña.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 15.
 
-Los Funcionarios o Empleados Públicos, podrán desempeñar simultáneamente hasta tres comisiones remuneradas, siempre y cuando no exista incompatibilidad horaria, física por razón de servicio o por razón de la ubicación, conforme a lo dispuesto en el Capítulo anterior.
+Las Comisiones deberán ser por tiempo limitado y ordenadas por escrito, estableciendo fecha de inicio de efectos y terminación, lugar y adscripción donde se desempeñará, la carga horaria y, si interfiere en el horario normal de labores del cargo del Servidor Público, el Titular de la Dependencia que las autorice proveerá lo necesario para subsanar la ausencia del comisionado, debiendo remitir copia del oficio de comisión a la Secretaría de Administración, para los efectos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 16.
 
-Declarada legalmente una incompatibilidad en los términos de este Capítulo el funcionario o empleado público de que se trate podrá elegir en el término de cinco días a partir de que se le haga saber la resolución respectiva, de entre los cargos incompatibles, el que más le convenga. De no hacerlo en el término señalado, será facultad del Tesorero General del Estado, determinar el cargo que deba desempeñar.
+Los Servidores Públicos podrán desempeñar simultáneamente hasta tres Comisiones remuneradas, siempre y cuando no exista incompatibilidad horaria, física, por razón de servicio o por razón de la ubicación, conforme a lo dispuesto en el capítulo anterior.
 
-### CAPITULO IV. Del Procedimiento, recursos y sanciones
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 5 DE ENERO DE 1984)</small>
+
+### CAPITULO IV. Del Procedimiento
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 17.
 
-Las incompatibilidades serán calificadas previamente por el Tesorero General del Estado, quien concederá plena oportunidad de audiencia y de defensa al funcionario o empleado público de que se trate.
+Las incompatibilidades relativas a Diputados serán estudiadas y dictaminadas por la Comisión de Responsabilidades del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 18.
 
-Contra las resoluciones dictadas respecto a incompatibilidades, el funcionario o empleado público tendrá el derecho de ocurrir dentro de los cinco días hábiles siguientes a la notificación de la declaración de incompatibilidad, ante el Tesorero General del Estado, a interponer el Recurso de Revisión, mismo que se sustanciará ante la Dirección de lo Consultivo y de lo Contencioso de la propia Tesorería General del Estado.
+Las incompatibilidades de los demás Servidores Públicos que laboren en el Poder Legislativo serán examinadas y dictaminadas por las Comisiones de Tesorería e Inspección.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 19.
 
-Admitida la revocación se citará a una audiencia que se celebrará dentro de los diez días siguientes, en la que se ofrecerán y rendirán pruebas, se formularán alegatos y se dictará la resolución que corresponda.
+Las Comisiones de que se habla en los dos artículos anteriores, propondrán el dictamen correspondiente a la Asamblea del Congreso que resolverá lo que proceda.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 20.
 
-Todo empleado y funcionario público que sea llamado a desempeñar otro puesto también público del Estado, deberá antes de aceptar el cargo, comunicárselo a su Superior Jerárquico para los efectos del Art. 17 de la presente Ley.
+En el Poder Ejecutivo, las incompatibilidades serán analizadas y resueltas por la Secretaría de Administración del Estado, a través de su Dirección de Personal. Los servidores públicos que se vean afectados con tal resolución podrán solicitar que ésta sea reconsiderada, por la misma Secretaría.
+
+Cuando de los informes obtenidos en el desarrollo del procedimiento se advierta que algún servidor público ha incumplido sus labores, se hará extensiva esta información al Jefe del Departamento respectivo y a la Contraloría General del Estado, para los efectos correspondientes.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
 ###### Artículo 21.
 
-Una vez declarada una incompatibilidad los empleados o funcionarios públicos que contravengan la resolución que al efecto se dicte y continúen percibiendo dos o más remuneraciones, reintegrarán los sueldos de menor cuantía. El reintegro se hará efectivo mediante descuentos periódicos con cargo a los sueldos que se sigan devengando.
+En el Poder Judicial, las incompatibilidades serán analizadas, según el caso, por el Supremo Tribunal de Justicia, por el Tribunal de lo Contencioso Administrativo y por el Tribunal de Arbitraje y Escalafón.
 
-La responsabilidad del reembolso afectará solidariamente a los Jefes de las Oficinas Pagadoras que a sabiendas hayan cubierto los sueldos correspondientes a los empleos incompatibles.
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 22.
+
+Las incompatibilidades que surjan por cargos y empleos entre el Poder Judicial y el Poder Legislativo serán analizadas y resueltas por el titular del Poder Ejecutivo a través de la Secretaría de Administración del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 23.
+
+En los municipios, las incompatibilidades serán analizadas por el Oficial Mayor Administrativo del Ayuntamiento, o quien haga sus veces, y el Cabildo en pleno, resolverá lo que proceda.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 24.
+
+En los Organismos Descentralizados, así como en las empresas públicas de participación estatal o municipal, las incompatibilidades serán analizadas, respectivamente, por el titular del Poder Ejecutivo, a través de la Secretaría de Administración del Estado y por los Ayuntamientos correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 25.
+
+En todos los casos de procedencia de incompatibilidad se concederá previamente, al servidor público, el derecho de audiencia y defensa.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 26.
+
+Las incompatibilidades que surjan por cargos y empleos municipales con alguno de los Poderes del Estado, las analizará y resolverá el primero que haya expedido el nombramiento.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+### CAPITULO V. Del Recurso de Revisión
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 27.
+
+Declarada legalmente una incompatibilidad, en los términos de los artículos anteriores de esta Ley, el Servidor Público de que se trate podrá elegir, en el término de 5 días hábiles, a partir del siguiente al que se le notifique personalmente la resolución respectiva, de entre los cargos incompatibles, el que más le convenga. De no hacerlo en el término señalado, será facultad de la autoridad que hubiese resuelto, determinar el cargo que deba desempeñar con exclusión del otro.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 28.
+
+Con excepción de los Servidores Públicos del Congreso del Estado, cuyas resoluciones serán irrecurribles, los demás Servidores Públicos tendrán derecho de interponer el recurso de revisión ante el Tribunal de Arbitraje y Escalafón, dentro de los cinco días hábiles siguientes a la notificación de la declaración de incompatibilidad. Este recurso se substanciará en la forma que al efecto señale la Ley para los Servidores Públicos del Estado de Jalisco.
+
+Los servidores públicos de los municipios y de sus empresas descentralizadas podrán interponer el recurso de revisión, siempre que exista convenio celebrado entre el Estado y los Municipios.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+### CAPITULO VI. De las Sanciones
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 29.
+
+Una vez declarada en forma definitiva, y notificada debidamente una incompatibilidad, los servidores públicos que contravengan la resolución que al efecto se dicte y continúe percibiendo dos o más remuneraciones, reintegrarán los sueldos de menor cuantía. El reintegro se hará efectivo, mediante descuentos periódicos con cargo a los sueldos que se sigan devengando.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1984)</small>
+
+###### Artículo 30.
+
+La responsabilidad del reembolso a que se refiere el artículo anterior, afectará solidariamente a los Jefes de las oficinas pagadoras que, a sabiendas, hayan cubierto los sueldos correspondientes a los empleos incompatibles.
 
 ## TRANSITORIOS
 
@@ -174,3 +288,11 @@ Lic. Flavio Romero de Velasco
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE ENERO DE 1984.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial El Estado de Jalisco.
