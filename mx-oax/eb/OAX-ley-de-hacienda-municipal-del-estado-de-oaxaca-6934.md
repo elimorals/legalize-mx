@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1993-02-13"
+last_updated: "1994-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -83,9 +83,11 @@ e) Cuando exista desmembración de la propiedad, de manera que una persona tenga
 
 f) Cuando la ejerzan los particulares sobre inmuebles propiedad de la federación, estado, municipios y organismos descentralizados y sujetos a exención.
 
-V La propiedad o posesión de bienes inmuebles de dominio privado de la federación, estado y municipios.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1994)</small>
 
-VI La propiedad o posesión de bienes inmuebles que integren el patrimonio de los organismos descentralizados de carácter federal y estatal, que sean destinados a propósitos distintos a los de su objeto.
+V La propiedad o posesión de bienes inmuebles de dominio privado de la Federación, Estado y Municipios y los que integren el patrimonio de los organismos descentralizados de carácter Federal y Estatal; tales como oficinas administrativas y aquellos que sean destinados por los mismos a propósitos distintos a los de su objeto;
+
+VI (DEROGADA, P.O. 24 DE SEPTIEMBRE DE 1994)
 
 El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes existentes en los predios.
 
@@ -309,7 +311,13 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 No se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, el Estado y los Municipios para formar parte del dominio público, así como tampoco lo harán los que adquieran los estados extranjeros, en caso de reciprocidad.
 
-Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros, al ejercer la acción de compras en los términos de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituídas en los términos de la Ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1994)</small>
+
+Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros, al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituídas en los términos de la Ley de la materia, siempre que en este último caso, la adquisición se realice en un plazo que no exceda al 31 de diciembre de 1994.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 1994)</small>
+
+Para los efectos de esta Ley, se entienden por bienes del dominio público lo dispuesto por la Ley General de bienes Nacionales.
 
 ###### ARTICULO 31.
 
@@ -1168,3 +1176,9 @@ P.O. 13 DE FEBRERO DE 1993.
 PRIMERO.- Se derogan todos los decretos y disposiciones fiscales que se opongan a lo prescrito en esta reforma.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1994.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
