@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-la-cultura-del-217
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-25"
-last_updated: "2001-06-25"
+last_updated: "2003-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de junio de 2001.
 
@@ -203,9 +203,15 @@ XXVIII.- Coordinación de Comunicación;
 
 XXIX.- Coordinación de Asuntos Jurídicos;
 
-XXX.- Secretaría Particular; y
+XXX.- Secretaría Particular; y (sic)
 
-XXXI.- Asesores.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+
+XXXI.- Asesores; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+
+XXXII. Órganos Desconcentrados.
 
 ###### Artículo 15.
 
@@ -961,17 +967,31 @@ IV.- Controlar y dirigir la oficialía de partes del Instituto Estatal de la Cul
 
 V.- Las demás que le confiera el Presidente del Consejo Directivo.
 
-### Capítulo I. De las Ausencias y Suplencias
+### Capítulo XV. De los Órganos Desconcentrados
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+
+Artículo 56 A.- El Instituto Estatal de la Cultura podrá contar con órganos desconcentrados jerárquicamente subordinados al mismo, contarán con facultades específicas para resolver sobre la materia que le sea asignada dentro del ámbito territorial que al efecto sea determinado.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+
+Artículo 56 B.- Los órganos desconcentrados contarán con autonomía técnica para el desarrollo de sus actividades, así como para la ejecución de los planes y programas que tengan asignados.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+
+Artículo 56 C.- La coordinación y supervisión de los órganos desconcentrados se determinará en el ordenamiento jurídico que lo crea.
 
 ###### Artículo 56.
 
 Para el eficaz cumplimiento de sus funciones, el Instituto Estatal de la Cultura podrá contar con asesores en aquellas ramas del conocimiento que requieran de atención especializada, siempre que ello esté justificado y que se cuente con presupuesto.
 
-### Capítulo II. De las Relaciones Laborales
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2003)</small>
+
+### Capítulo I. De las Ausencias y Suplencias
 
 ## Título Cuarto. De las Ausencias y Suplencias y de las Relaciones Laborales
 
-### Capítulo III. Del Personal Eventual para Eventos Especiales
+### Capítulo II. De las Relaciones Laborales
 
 ###### Artículo 57.
 
@@ -992,6 +1012,8 @@ El Presidente del Consejo Directivo y, en su caso, los Directivos, podrá conced
 ###### Artículo 60.
 
 En aquellos casos que las licencias económicas excedan más de tres días de manera justificada, el superior jerárquico podrá conceder una sola prórroga por dos días más.
+
+### Capítulo III. Del Personal Eventual para Eventos Especiales
 
 ###### Artículo 61.
 
@@ -1040,3 +1062,9 @@ JUAN MANUEL OLIVA RAMÍREZ.
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
