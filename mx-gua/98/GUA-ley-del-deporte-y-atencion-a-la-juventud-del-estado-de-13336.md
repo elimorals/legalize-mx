@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-deporte-y-atencion-a-la-juventud-del-estado-de-13336"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-04"
-last_updated: "1998-12-04"
+last_updated: "2001-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL DEPORTE Y ATENCION A LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1998.
 
@@ -39,9 +39,11 @@ LEY DEL DEPORTE Y ATENCION A LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
 ### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto establecer las bases para regular la estructura, funcionamiento y competencia de los órganos encargados de la difusión, promoción, fomento, investigación, ejecución y supervisión del deporte, así como las acciones de atención a la juventud.
+La presente Ley es de orden público e interés social y tiene por objeto establecer las bases para regular la estructura, funcionamiento y competencia de los órganos encargados de la difusión, promoción, fomento, investigación, ejecución y supervisión del deporte en todas y cada una de las modalidades establecidas en la misma, así como las acciones de atención a la juventud.
 
 ###### Artículo 2o.
 
@@ -75,7 +77,9 @@ El Sistema Estatal del Deporte, tiene los siguientes objetivos:
 
 I.- Contribuir al desarrollo integral del ser humano y al bienestar general de la población;
 
-II.- Fomentar en los habitantes del Estado la práctica del deporte;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+II.- Impulsar y fomentar en los habitantes del Estado, sin distinción alguna, la práctica del deporte en todas sus modalidades;
 
 III.- Impulsar un sistema estatal de administración y desarrollo de los recursos técnicos, financieros y humanos en el deporte;
 
@@ -113,7 +117,9 @@ I.- Establecer objetivos y estrategias para la difusión, promoción, fomento, i
 
 II.- Incluir en las acciones de gobierno y en el plan básico de gobierno, los planes y programas en materia del deporte;
 
-III.- Promover los programas específicos de alto rendimiento y excelencia en el deporte;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+III.- Promover los programas específicos de alto rendimiento y excelencia en el deporte en todas sus modalidades;
 
 IV.- Designar a la Directora o al Director General de la Comisión Estatal del Deporte y Atención a la Juventud;
 
@@ -177,7 +183,9 @@ IX.- Evaluar las necesidades y requerimientos del deporte estatal, a efecto de i
 
 X.- Supervisar el funcionamiento de academias y escuelas privadas en el Estado, en las que se impartan cursos deportivos o de capacitación física;
 
-XI.- Promover la creación de instalaciones y áreas para la práctica del deporte, de conformidad con la reglamentación correspondiente;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XI.- Vigilar y validar en coordinación con las dependencias y entidades competentes, el cumplimiento de los lineamientos en materia de infraestructura deportiva; así como promover la creación, mantenimiento y preservación de instalaciones y áreas para la práctica del deporte en todas sus modalidades de conformidad con la reglamentación correspondiente;
 
 XII.- Otorgar reconocimientos y estímulos a las personas, entidades u organismos que se hayan distinguido en el deporte;
 
@@ -191,7 +199,19 @@ XVI.- Imponer las sanciones que establece esta Ley;
 
 XVII.- Dar vista a la autoridad competente cuando presuma la comisión de un delito; y
 
-XVIII.- Las demás que conforme a esta Ley y otros ordenamientos legales le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XVIII.- Establecer las bases y difundir la normatividad que regule la participación en la práctica del deporte en todas sus modalidades;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XIX.- Coordinar con las Comisiones Municipales del Deporte y Atención a la Juventud, los organismos deportivos a que se refiere esta Ley y en general con cualquier persona, la formación y capacitación de profesionales y promotores voluntarios para el fomento del deporte en todas sus modalidades;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XX.- Implementar, en coordinación con las Comisiones Municipales del Deporte y Atención a la Juventud, programas que fomenten el desarrollo del deporte; y
+
+XXI.- Las demás que conforme a esta Ley y otros ordenamientos legales le correspondan.
 
 ###### Artículo 12.
 
@@ -277,7 +297,9 @@ IX.- Aprobar los mecanismos permanentes para procurar, favorecer y regular el es
 
 X.- Aprobar los convenios de coordinación o colaboración que celebre la Comisión Estatal del Deporte y Atención a la Juventud;
 
-XI.- Estudiar y, en su caso, aprobar los proyectos de inversión en la construcción, ampliación o conservación de espacios deportivos, así como el financiamiento de programas deportivos que proponga la Directora o el Director General;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XI.- Estudiar y, en su caso, aprobar los proyectos de inversión en la construcción, ampliación o conservación de espacios deportivos, en los que deberán considerar aquéllos destinados a la práctica del deporte adaptado, así como el financiamiento de programas deportivos que proponga la Directora o el Director General;
 
 XII.- Fijar las bases a que se sujetará la participación de deportistas en competencias estatales e intermunicipales, en congruencia con las disposiciones federales vigentes;
 
@@ -349,7 +371,9 @@ b) Deporte estudiantil.- Es la educación física que se realiza en los distinto
 
 c) Deporte federado.- Es aquél que se practica con propósitos de clasificación de calidad, dentro de los organismos deportivos de la federación de cada deporte, conforme a sus estatutos y reglamentos;
 
-d) Deporte adaptado.- Es el deporte que practican aquellas personas que por su edad o alguna otra circunstancia, están discapacitadas o disminuidas en sus facultades físicas; y
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+d) Deporte Adaptado.- Es el deporte que practican aquellas personas que por su edad o alguna otra circunstancia tienen alguna discapacidad.
 
 e) Deporte de alto rendimiento.- Constituye la excelencia en el deporte federado y se lleva a cabo en competencias de alto nivel, nacionales e internacionales;
 
@@ -375,6 +399,10 @@ V.- Coadyuvar al desarrollo de la infraestructura deportiva, así como para la f
 
 VI.- Impulsar la creación y desarrollo de organismos deportivos.
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+VII.- Promover programas especiales que permitan la integración en la sociedad y la ampliación de opciones de participación deportiva para las personas con discapacidad.
+
 ### CAPITULO SEPTIMO. DE LAS COMISIONES MUNICIPALES DEL DEPORTE Y ATENCION A LA JUVENTUD
 
 ###### Artículo 24.
@@ -389,7 +417,9 @@ I.- Coordinar y ejecutar los planes y programas en materia deportiva y recreativ
 
 II.- Difundir, promover y fomentar el deporte entre los habitantes del Municipio;
 
-III.- Promover la creación, mantenimiento y preservación de instalaciones, unidades y espacios deportivos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+III.- Promover la creación, mantenimiento y preservación de instalaciones y áreas para la práctica del deporte en todas sus modalidades;
 
 IV.- Promover la realización de eventos deportivos y recreativos;
 
@@ -407,7 +437,9 @@ X.- Promover la difusión del deporte, a través de los medios de comunicación;
 
 XI.- Gestionar, en su caso, la inscripción en el registro estatal del deporte, de deportistas, entrenadores, técnicos, jueces, árbitros y organismos e instalaciones deportivas, así como de las escuelas y academias en las que se impartan cursos deportivos o de capacitación física de su Municipio;
 
-XII.- Integrar en sus programas y anteproyecto de presupuesto las acciones y recursos necesarios para la atención de la juventud;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XII.- Integrar en sus programas y anteproyecto de presupuesto, las acciones y recursos necesarios para el fomento del deporte y la atención a la juventud;
 
 XIII.- Imponer las sanciones que establece esta Ley;
 
@@ -509,7 +541,15 @@ VIII.- Obtener de las autoridades correspondientes el registro que lo acredite c
 
 IX.- Recibir reconocimientos y estímulos de cualquier índole de carácter deportivo, sujetándose a la normatividad correspondiente; y
 
-X.- Los demás que les otorguen esta Ley, su reglamento y otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+X.- Contar con los espacios adecuados para la práctica del deporte en cualquiera de sus modalidades;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+XI.- Gozar del acceso a las instalaciones y áreas para la práctica del deporte en cualquiera de sus modalidades sin discriminación alguna; y
+
+XII.- Los demás que les otorgue esta Ley, su reglamento y otros ordenamientos legales.
 
 ###### Artículo 40.
 
@@ -579,9 +619,29 @@ La autoridad competente podrá autorizar el uso de las instalaciones deportivas 
 
 La Comisión Estatal del Deporte y Atención a la Juventud promoverá que las instalaciones deportivas sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requieran.
 
-### CAPITULO DECIMO TERCERO. DEL SERVICIO MEDICO EN EL DEPORTE
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO DECIMO CUARTO. DE LAS ACCIONES PREVENTIVAS EN EL DEPORTE
+### CAPITULO DECIMO TERCERO. DEL CENTRO DE CAPACITACION Y FORMACION PARA EL DEPORTE
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2001)</small>
+
+Artículo 48 A.- La Comisión Estatal del Deporte y Atención a la Juventud, tendrá a su cargo la operación y administración de un órgano administrativo denominado Centro de Capacitación y Formación Física y Deportiva, cuyo objeto será formar y dar seguimiento a la capacitación física, deportiva y técnica de profesores de educación física, entrenadores y deportistas considerados talentos deportivos.
+
+El Centro de Capacitación y Formación Deportiva tendrá las siguientes atribuciones:
+
+I.- Concentrar profesores, entrenadores y talentos deportivos para su capacitación, entrenamiento, seguimiento y formación;
+
+II.- Impartir y validar los cursos de capacitación para profesores de educación física y entrenadores, en todas las modalidades del deporte contempladas por la Ley, en coordinación con las autoridades educativas;
+
+III.- Impartir y validar los cursos de activación y acondicionamiento físico, en coordinación con las autoridades educativas;
+
+IV.- Valorar clínicamente a los deportistas;
+
+V.- Otorgar asesoría técnica, científica y operativa en materia deportiva y cultura física; y
+
+VI.- Compilar bibliografía en materia de deporte y brindar apoyo para su consulta.
+
+### CAPITULO DECIMO CUARTO. DEL SERVICIO MEDICO EN EL DEPORTE
 
 ###### Artículo 49.
 
@@ -593,7 +653,7 @@ Las instituciones deportivas y organismos de los sectores social y privado, est�
 
 Para tal efecto, las autoridades del deporte promoverán los mecanismos de coordinación con las instituciones públicas y privadas que integran el sector salud, así como con los organismos deportivos.
 
-### CAPITULO DECIMO QUINTO. DEL SALON ESTATAL DE LA FAMA
+### CAPITULO DECIMO QUINTO. DE LAS ACCIONES PREVENTIVAS EN EL DEPORTE
 
 ###### Artículo 51.
 
@@ -613,7 +673,7 @@ La Comisión Estatal y las Comisiones Municipales, del Deporte y Atención a la 
 
 El deportista tendrá derecho a asistir acompañado de asesoría especializada, al análisis de laboratorio que determine en forma final el resultado positivo o negativo de la prueba de dopaje.
 
-### CAPITULO DECIMO SEXTO. DE LA ATENCION DE LA JUVENTUD
+### CAPITULO DECIMO SEXTO. DEL SALON ESTATAL DE LA FAMA
 
 ###### Artículo 54.
 
@@ -635,7 +695,7 @@ El patronato fomentará la participación de los sectores público, social y pri
 
 El patronato, por acuerdo del Consejo Directivo, expedirá anualmente una convocatoria, para recibir propuestas sobre deportistas candidatos a ingresar al Salón Estatal de la Fama.
 
-### CAPITULO DECIMO SEPTIMO. DE LAS SANCIONES
+### CAPITULO DECIMO SÉPTIMO. DE LA ATENCION DE LA JUVENTUD
 
 ###### Artículo 58.
 
@@ -665,7 +725,7 @@ El Estado y los municipios, otorgarán reconocimientos y estímulos a personas y
 
 Los programas de atención a la juventud, serán coordinados por la Comisión Estatal y por las Comisiones Municipales, del Deporte y Atención a la Juventud, en el ámbito de sus respectivas competencias.
 
-### CAPITULO DECIMO OCTAVO. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO DECIMO OCTAVO. DE LAS SANCIONES
 
 ###### Artículo 62.
 
@@ -728,6 +788,8 @@ V.- La violación grave a las leyes vigentes y a la normatividad deportiva.
 ###### Artículo 70.
 
 Las sanciones se aplicarán, previa audiencia del infractor, considerando la gravedad de la falta y demás circunstancias que incidieron en la comisión de la misma.
+
+### CAPITULO DECIMO NOVENO. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 71.
 
@@ -804,3 +866,15 @@ POR AUSENCIA DEL C. SECRETARIO DE GOBIERNO Y CON FUNDAMENTO EN EL ARTICULO 67 DE
 EL SUBSECRETARIO DE GOBIERNO Y SERVICIOS A LA COMUNIDAD
 
 LIC. ANTONIO OBREGON PADILLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La Comisión Estatal del Deporte y Atención a la Juventud deberá prever en su anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2002 dos mil dos, la partida correspondiente para el Centro de Capacitación y Formación para el Deporte.
+
+Artículo Tercero.- El Centro de Capacitación y formación para el Deporte entrará en funciones a partir del 1o. de enero del año 2002.
+
+Artículo Cuarto.- El Ejecutivo del Estado revisará y adecuará los reglamentos respectivos en un plazo no mayor de seis meses contado a partir de la fecha en que entre en vigor el presente decreto.
