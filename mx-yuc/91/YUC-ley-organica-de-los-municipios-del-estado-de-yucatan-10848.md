@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1988-10-25"
+last_updated: "1990-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE FEBRERO DE 1990.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1075,17 +1075,19 @@ Los Ayuntamientos deberán de expedir sus reglamentos para la organización y fu
 
 ### CAPITULO I. DE LA INTEGRACION E INSTALACION DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, D.O. 14 DE FEBRERO DE 1990)</small>
+
 ###### ARTICULO 30.
 
 Los Municipios son autónomos entre sí y ejercerán sus atribuciones dentro de los límites de su territorio. Se administrarán por un Ayuntamiento de elección popular directa y en su caso, por quienes los sustituyan en los términos de la Ley, el cual se compondrá por regidores y de entre los mismos uno será electo con el carácter de Presidente.
 
-El número de regidores de mayoría relativa y de representación proporcional se determinará conforme a lo dispuesto por la Ley Electoral del Estado de Yucatán, teniendo en cuenta el número de habitantes del Municipio y con sujeción a las bases que a continuación se expresan, asignándoseles a los ayuntamientos a más del Regidor Presidente los siguientes:
+El número de Regidores de mayoría relativa y de representación proporcional se determinará conforme a lo dispuesto por la Ley Electoral del Estado de Yucatán, teniendo en cuenta el número de habitantes del Municipio y con sujeción a las bases que a continuación se expresan, asignándoseles a los ayuntamientos a más del Regidor Presidente e incluyendo los de representación proporcional los siguientes:
 
-I.- Dos regidores propietarios por menos de tres mil habitantes;
+I.- Cuatro regidores propietarios por menos de tres mil habitantes;
 
-II.- Cinco regidores propietarios hasta por ocho mil habitantes; y
+II.- Siete regidores propietarios hasta por ocho mil habitantes; y
 
-III.- Siete regidores propietarios cuando excedan de la cifra anterior excepto el Ayuntamiento de Mérida, que tendrá doce regidores. El número de regidores suplentes será igual al de los propietarios.
+III.- Nueve regidores propietarios cuando excedan de la cifra anterior, excepto el Ayuntamiento de Mérida, que tendrá diecisiete regidores. El número de regidores suplentes será igual al de los propietarios.
 
 ###### ARTICULO 31.
 
@@ -2246,3 +2248,9 @@ LIC. VICTOR MANZANILLA SCHAFFER.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 14 DE FEBRERO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
