@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1967-09-29"
+last_updated: "1970-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 1967.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -117,7 +117,11 @@ IV. Los mexicanos que adquieran vecindad en cualquier lugar del Estado y manifie
 
 ###### Artículo 12.
 
-Son ciudadanos del Estado: los varones y las mujeres poblanos mayores de dieciocho años si son casados y de veintiuno si no lo son, siempre que tengan un modo honesto de vivir y no pertenezcan a ninguna orden monástica o desempeñen puesto alguno de carácter religioso.
+Son ciudadanos del Estado, los varones y mujeres poblanos que reúnan los siguientes requisitos:
+
+I.- Haber cumplido 18 años y
+
+II.- Tener modo honesto de vivir.
 
 ###### Artículo 13.
 
@@ -221,7 +225,7 @@ El ejercicio de las funciones propias del Departamento Legislativo se encomienda
 
 De los ciudadanos poblanos.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1970)</small>
 
 ###### Artículo 26.
 
@@ -1351,7 +1355,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1372,6 +1376,10 @@ Este Decreto surtirá sus efectos desde la fecha de su publicación en el Perió
 P.O. 29 DE SEPTIEMBRE DE 1967.
 
 UNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 1970.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 ###### Artículo 5°.
 
