@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1983-12-29"
+last_updated: "1984-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE JULIO DE 1984.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -225,15 +225,19 @@ VIII.- Las personas físicas o morales que adquieran bienes o negociaciones que 
 
 IX.- Las demás personas que señalen las Leyes Fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE JULIO DE 1984)</small>
+
 ###### ARTICULO 24.
 
-Están exentos del pago de impuestos, contribuciones especiales y derechos:
+Están exentos del pago de impuestos y derechos:
 
 I.- La Federación, los Estados y los Municipios.
 
 II.- Los organismos descentralizados de la Federación, Estados y Municipios.
 
-Tratándose de impuestos a la propiedad inmobiliaria y derechos por la prestación de servicios públicos, sólo los bienes de dominio público de la Federación, Estados y Municipios gozarán de exención.
+> <small>(REFORMADO, B.O. 16 DE JULIO DE 1984)</small>
+
+Tratándose de Impuestos a la propiedad inmobiliaria y derechos por la prestación de servicios públicos, solo gozarán de exención, los bienes de dominio público de la Federación, Distrito Federal, Estados y Municipios, así como los que adquieran los estados extranjeros en caso de reciprocidad.
 
 ###### ARTICULO 25.
 
@@ -575,7 +579,9 @@ Es objeto de este Impuesto, la adquisición de bienes inmuebles que consistan en
 
 Para los efectos de este Impuesto, se entiende por adquisición, la que derive de:
 
-I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación y la aportación a toda clase de asociaciones o sociedades.
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 1984)</small>
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
 
 II.- La compra-venta en la que el vendedor se reserve la propiedad, aun cuando la transferencia de ésta opere con posteridad.
 
@@ -591,9 +597,21 @@ VII.- La constitución de usufructo, transmisión de éste o de la nuda propieda
 
 VIII.- La prescripción positiva.
 
-IX.- La cesión de derechos del heredero, legatario, cuando entre los bienes de la sucesión haya inmuebles en la parte relativa y en proporción a éstos.
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 1984)</small>
+
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos, la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios.
 
 X.- La enajenación a través de fideicomiso en los términos del Código Fiscal de la Federación.
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 1984)</small>
+
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge.
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 1984)</small>
+
+XII.- La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -629,7 +647,9 @@ Cuando del inmueble formen parte departamentos habitacionales la reducción se h
 
 La reducción a que se refiere el Artículo anterior se realizará conforme a lo siguiente:
 
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacerse una sola reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias del impuesto que corresponda.
+> <small>(REFORMADA, B.O. 19 DE JULIO DE 1984)</small>
+
+I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de veinticuatro meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar bajo protesta de decir verdad al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto el monto de la reducción y pagará en su caso, las diferencias del impuesto que corresponda.
 
 II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el Art. 72 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte.
 
@@ -1212,3 +1232,9 @@ Dr. Samuel Ocaña García
 EL SECRETARIO DE GOBIERNO
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 16 DE JULIO DE 1984.
+
+UNICO.- ESTA LEY ENTRARÁ EN VIGOR EN TODO EL ESTADO, EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.
