@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2001-03-16"
+last_updated: "2001-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2001.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -54,6 +54,10 @@ V. Certificar los extractos o copias de las actas de las sesiones, con la previa
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
 El Secretario será asistido en sus funciones por un Secretario Adjunto quien participará en la redacción de los acuerdos en materia económica y financiera, así como un Secretario Suplente. Este último auxiliará al Secretario en sus funciones y cubrirá sus ausencias.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2001)</small>
+
+La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Junta determine y el Banco los contratará en los términos que ésta establezca. Dichos asesores no quedarán comprendidos en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México, ni tendrán facultades de representación, en términos de los artículos 8o. y 9o., de este Reglamento.
 
 ###### ARTICULO 3o.
 
@@ -153,7 +157,7 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F.13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 8o.
 
@@ -1112,3 +1116,7 @@ TERCERO.- Queda sin efectos el artículo Segundo Transitorio de las reformas al 
 D.O.F. 16 DE MARZO DE 2001.
 
 UNICO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE JULIO DE 2001.
+
+UNICO. La presente adición entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
