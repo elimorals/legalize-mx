@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1970-07-02"
+last_updated: "1970-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1135,6 +1135,18 @@ Art. 3º El período Constitucional de los Magistrados que deben componer el Sup
 
 Art. 4º En virtud de haber sido derogado por el artículo 63, fracción I de esta Carta Fundamental, el recurso de casación, el Supremo Tribunal de Justicia solamente tramitará y resolverá los recursos de esta categoría que se hubieren interpuesto antes de la vigencia de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 1970)</small>
+
+Art. 5º Por una sola vez, circunscrita a los casos que en seguida se enumeran, la periodicidad establecida por los artículos 35 y 76 de la Constitución Política del Estado, para la elección de Diputados a la Legislatura Local y para Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, se regirá por los términos siguientes:
+
+I. Los Diputados que se elijan el primer domingo de julio de 1971 para integrar la XLVIII Legislatura local, durarán 2 años en su cargo;
+
+II. Los Presidentes Municipales, los Síndicos y los Regidores que se elijan el tercer domingo de diciembre de 1972, para integrar los diversos Ayuntamientos del Estado, durarán un año en su cargo.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 1970)</small>
+
+Art. 6º La Ley Electoral del Estado proveerá lo necesario en cada caso, a fin de que estas disposiciones tengan un exacto cumplimiento, y para que la modificación a la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las dos fracciones del artículo anterior.
+
 Dada en Guanajuato, a los tres días del mes de septiembre del año de mil novecientos diecisiete.- Presidente, Lic. José M. Ortega, Diputado por el 2º Distrito.- Vice-Presidente, Lic. Catarino Juárez, Diputado por el 9º Distrito.- Primer Secretario, Zabulón Puente, Diputado pon (sic) el 3er Distrito.- Segundo Secretario, J. Cruz Torres jr., Diputado Suplente por el 8º Distrito.- Dr. Luis P. Bustamante, Diputado por el 1er. Distrito.- Dr. Anastasio López Escobedo, Diputado por el 4º Distrito.- J. Trinidad Covarrubias, Diputado por el 5º Distrito.- José J. López. Diputado por el 6º Distrito.- Bartolomé Gutiérrez L., Diputado suplente por el 7º Distrito.- Alfonso Ayala, Diputado por el 10º Distrito.- Juan Barrón, Diputado por el 11º Distrito,- Jesús Delgado, Diputado por el 12º Distrito.- Arnulfo M. Miranda, Diputado por el 13º Distrito.- Ricardo A. Alamán, Diputado por el 14º Distrito.- Manuel Delgado, Diputado por el 15º Distrito."
 
 Por tanto, mando se imprima, publique por bando solemne y circula (sic) para su debido cumplimiento.
@@ -1302,3 +1314,9 @@ UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 2 DE JULIO DE 1970.
 
 UNICO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1970.
+
+###### ARTICULO SEGUNDO.
+
+Estas adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
