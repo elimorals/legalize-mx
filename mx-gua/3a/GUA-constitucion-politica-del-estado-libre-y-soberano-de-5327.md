@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1967-10-08"
+last_updated: "1968-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1968.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -285,7 +285,9 @@ I. Ser ciudadano mexicano por nacimiento y además nativo del Estado, o con resi
 
 II. Estar en ejercicio de sus derechos.
 
-III. Tener más de treinta años y menos de sesenta y cinco, al tiempo de la elección.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1968)</small>
+
+III. Tener por lo menos 35 años cumplidos al día de la elección.
 
 IV. No ser ni haber sido ministro o delegado de algún culto religioso.
 
@@ -581,11 +583,11 @@ Los Presidentes Municipales tomarán particular empeño en que en sus respectiva
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1941)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1968)</small>
 
 ###### Art. 35.
 
-La Legislatura local se compondrá del número de Diputados propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por Distritos Electorales cada tres años, en la forma que determine la Ley. Por cada Diputado propietario se elegirá un suplente.
+La Legislatura Local se compondrá cuando menos, del número de Diputados Propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por Distritos Electorales cada tres años, en la forma que determine el Código Electoral del Estado. Por cada Diputado propietario se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
@@ -633,11 +635,11 @@ Los Diputados en ejercicio, no podrán aceptar ningún empleo público por el qu
 
 De los períodos de sesiones.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1968)</small>
 
 ###### Art. 40.
 
-La Legislatura del Estado, tendrá cada año dos períodos ordinarios de sesiones: el primero comenzará el 15 de septiembre y deberá inaugurarse en la Ciudad de Dolores Hidalgo, con excepción de los años en que la apertura del primer periodo ordinario de sesiones, coincida con la instalación de un nuevo Congreso, pues en estos casos la apertura deberá tener lugar precisamente en el Recinto Oficial del Poder Legislativo, en la Capital de esta Entidad. El segundo periodo se inaugurará el primero de abril. Su duración será de tres meses el primero y de dos el segundo, pudiendo prorrogarse uno y otro hasta por un mes.
+La Legislatura del Estado, tendrá cada año dos períodos de sesiones ordinarias, uno que comenzará el 15 de septiembre y el otro el primero de abril. Ambos se inaugurarán en la Capital de la Entidad, y la duración será de tres meses para el primero y de dos para el segundo, pudiendo prorrogarse uno y otro hasta por un mes.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1919)</small>
 
@@ -1065,9 +1067,11 @@ Especial empeño se tomará en que sean obedecidas las prescripciones relativas 
 
 Entretanto que se expiden las leyes relativas al problema agrario, el Gobierno del Estado facilitará, por los medios que estén a su alcance, el fraccionamiento de tierras.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1968)</small>
+
 ###### Art. 111.
 
-Para las elecciones municipales, se dividirán las Municipalidades en tantas secciones, cuantos sean los Munícipes que deban componer el Ayuntamiento; y en cada sección se elegirá un Munícipe.
+Para las elecciones municipales, las Municipalidades se dividirán en Secciones Electorales, de no menos de 100 electores ni más de 1,200 cada una.
 
 ###### Art. 112.
 
@@ -1286,3 +1290,7 @@ Los Magistrados del Supremo Tribunal, los Jueces de Partido y los Municipales ac
 ###### ARTICULO 3o.
 
 Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 12 DE MAYO DE 1968.
+
+UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
