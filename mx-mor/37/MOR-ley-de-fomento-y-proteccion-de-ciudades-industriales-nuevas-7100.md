@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-de-ciudades-industriales-nuevas-710
 country: "mx"
 rank: "ley"
 publication_date: "1970-01-01"
-last_updated: "1970-01-01"
+last_updated: "1974-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCION DE CIUDADES INDUSTRIALES NUEVAS EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 1 de enero de 1970.
 
@@ -389,59 +389,23 @@ En la superficie delimitada por el Plano Regulador Obligatorio de una "Ciudad" n
 
 ###### ARTICULO 31.
 
-El Ejecutivo del Estado, podrá otorgar exenciones o reducciones de impuestos, derechos y contribuciones especiales a quienes promueven la erección de "Las Ciudades", a las empresas industriales y comerciales que se establezcan en ellas y a los habitantes de las mismas.
+(DEROGADO, P.O. 31 DE JULIO DE 1974)
 
 ###### ARTICULO 32.
 
-Las exenciones se aplicarán en el caso de las ciudades promovidas por Desarrollo Industrial de Morelos y a los consorcios de economía mixta a que se refiere la Fracción II del Artículo 9º. de esta Ley. Las reducciones, en el porciento que fije el Gobierno del Estado, se aplicarán en los demás casos.
+(DEROGADO, P.O. 31 DE JULIO DE 1974)
 
 ###### ARTICULO 33.
 
-Las exenciones y reducciones fiscales serán:
-
-I.- Para las empresas industriales y comerciales y para los habitantes:
-
-A).- De los impuestos de traslación de dominio locales y Municipales, por los terrenos que adquieran de la Promotora.
-
-B).- De los derechos por actos sujetos al Registro Público de la Propiedad y de Comercio en las operaciones a que se refiere el inciso anterior.
-
-C).- De otros derechos que consignen las Leyes locales y municipales en lo aplicable a la adquisición de terrenos, a la construcción de fábricas y a las instalaciones de las mismas, incluyendo los equipos. A título enunciativo, se mencionan a continuación algunos de los conceptos comprendidos en este inciso: la aprobación de planos para construcción; el alineamiento sobre calles; el señalamiento de número oficial de predios; la inspección final a la construcción para dar el oficio de ocupación; la licencia para apertura de banquetas; reconstrucción de las mismas u otros trabajos en la vía pública que ocasionen la acumulación de obstáculos (escombros, materiales, etc.).
-
-II.- Además, para las empresas industriales, exención por el término de veinte años contados a partir de la fecha de la iniciación oficial de sus operaciones, de los impuestos locales y municipales que graven la producción y venta de primera mano de las mercancías que produzcan o los ingresos obtenidos por esas ventas.
-
-III.- Quienes promuevan la erección de "Las Ciudades", además de las exenciones o reducciones establecidas en la fracción I de este Artículo, disfrutarán también de exención o reducción de los siguientes impuestos y derechos locales o municipales:
-
-A).- Impuesto predial, por los lotes no vendidos o prometidos en venta.
-
-B).- Derechos por servicios de agua potable.
-
-C).- Derechos por aprobación de proyectos para fraccionamientos.
-
-D).- Derechos por supervisión de las obras de urbanización.
-
-E).- Derechos por la colocación de postes y su permanencia en el lugar de su instalación en la vía pública para los servicios de teléfonos, luz, etc.
-
-F).- Derechos por instalación de tubería oculta en la vía pública para los servicios de agua potable o drenaje.
-
-G).- Derechos por la instalación de conductos para la instalación de redes de teléfono, luz, o cualquiera otra clase de servicios.
-
-H).- Derechos por la perforación y aforo de pozos profundos.
-
-I).- Derechos por la explotación de minas de arena, grava y de bancos de otros materiales.
-
-J).- Y las demás que en cada caso otorgue el Ejecutivo del Estado.
+(sic) (DEROGADO, P.O. 31 DE JULIO DE 1974)
 
 ###### ARTICULO 33.
 
-(sic) Las empresas industriales que pretendan obtener los incentivos fiscales que autoriza el presente capítulo, según sea el caso, previamente a la iniciación de sus operaciones presentarán una solicitud por cuadruplicado al Ejecutivo del Estado, por conducto de Desarrollo Industrial de Morelos.
-
-Cuando se trate de industrias establecidas en terrenos enajenados por conducto de la Promotora, anexarán a dicha solicitud la constancia de la adquisición de los citados terrenos.
-
-Satisfechos estos requisitos, sin mayor trámite el Ejecutivo del Estado hará la declaratoria de las exenciones fiscales procedentes con arreglo al presente capítulo. Las empresas que gocen de estas exenciones tendrán las obligaciones relativas al control y vigilancia que señale el Reglamento de esta Ley.
+(sic) (DEROGADO, P.O. 31 DE JULIO DE 1974)
 
 ###### ARTICULO 34.
 
-Las Promotoras de las ciudades que pretendan obtener los incentivos fiscales a que se refiere el presente capítulo, una vez satisfechos los requisitos establecidos en el Capítulo II de esta Ley presentarán una solicitud por cuadruplicado al Ejecutivo del Estado por conducto de Desarrollo Industrial de Morelos.
+(DEROGADO, P.O. 31 DE JULIO DE 1974)
 
 ### CAPITULO VII (SIC). DE LA ADMINISTRACION DE LAS CIUDADES INDUSTRIALES NUEVAS
 
@@ -514,3 +478,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. Fausto Galván Campos
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE JULIO DE 1974.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se faculta al Ejecutivo del Estado para dictar disposiciones transitorias que sean necesarias para legalizar los asuntos promovidos bajo la vigilancia de la Ley que se abroga y disposiciones que se derogan.
