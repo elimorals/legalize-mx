@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "1994-08-07"
+last_updated: "1995-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1995.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -174,6 +174,10 @@ XXV.- El control de las obras de construcción, instalación, operación, amplia
 XXVI.- La regulación de la infraestructura vial, el tránsito de vehículos y peatones, los espacios para estacionamiento y el sistema de transporte; y
 
 XXVII.- El control del otorgamiento y operación de las concesiones para la prestación de los servicios públicos y la explotación de bienes de propiedad estatal y municipal.
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 1995)</small>
+
+XXVIII.- La aplicación de las medidas de prevención y protección de las obras y servicios con base en los estudios de monitoreo sísmico y al análisis estructural de las grietas.
 
 ###### ARTICULO 4o.
 
@@ -331,7 +335,9 @@ XXVI.- Las normas de urbanización y construcción, y las características de la
 
 XXVII.- Las especificaciones en la construcción que garanticen la seguridad de las obras contra los efectos de los fenómenos naturales, tales como sismos, inundaciones, fracturamiento del suelo y otros análogos;
 
-XXVIII.- Las Cartas Urbanas que contengan las fallas geológicas detectadas y los estudios de los cuales se derive la posible aparición de las mismas; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
+
+XXVIII.- Las cartas urbanas que contengan las fallas geológicas detectadas y los estudios sobre el comportamiento dinámico de las grietas y de los movimientos tectónicos; y
 
 XXIX.- Todos aquellos lineamientos, criterios o normas técnicas que se deriven de la legislación y programas en materia de desarrollo urbano y vivienda y demás disposiciones jurídicas aplicables.
 
@@ -563,7 +569,9 @@ XIV.- Participar con la SEDESO y los Ayuntamientos en la realización de los est
 
 XV.- Apoyar y asesorar a los Ayuntamientos que lo soliciten, en la construcción, conservación, operación y administración de los sistemas de agua potable y alcantarillado;
 
-XVI.- Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y que sean de su competencia;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
+
+XVI.- Efectuar los estudios sobre el comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas;
 
 XVII.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados y que deriven de la aplicación de este Código; y
 
@@ -633,15 +641,19 @@ XXIX.- Otorgar licencias y permisos para construcción, remodelación, ampliaci�
 
 XXX.- Expedir las constancias de compatibilidad urbanística;
 
-XXXI.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación y programas aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 1995)</small>
 
-XXXII.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, vivienda y transporte en su jurisdicción;
+XXXI.- Elaborar las cartas urbanas que contengan las fallas geológicas detectadas y sus posibles ramificaciones, mismas que deberán actualizarse periódicamente;
 
-XXXIII.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
+XXXII.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación y programas aplicables;
 
-XXXIV.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y
+XXXIII.- Vigilar el cumplimiento y aplicación de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano, vivienda y transporte en su jurisdicción;
 
-XXXV.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+XXXIV.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
+
+XXXV.- Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y
+
+XXXVI.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 24.
 
@@ -969,7 +981,9 @@ I.- Apoyar al Sistema Estatal de Protección Civil para garantizar, mediante una
 
 II.- Coordinar las acciones de las dependencias del sector público estatal y municipal, así como las de los organismos privados para el auxilio a la población en el ámbito geográfico del Estado en que se prevea u ocurra algún desastre;
 
-III.- Supervisar la elaboración y edición del Atlas Estatal de Riesgos;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
+
+III.- Elaborar y supervisar la elaboración y edición del Atlas Estatal de Riesgos, en el que se incluirán los que pueden ser generados por el agrietamiento del suelo y los movimientos tectónicos;
 
 IV.- A través de la unidad estatal elaborar y difundir los programas y medidas para la prevención de desastres;
 
@@ -1205,7 +1219,9 @@ e) Los servicios públicos fundamentales.
 
 7.- Las políticas generales para el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano en los centros de población;
 
-8.- Los lineamientos y estrategias que orienten la inversión pública y privada a proyectos prioritarios para el desarrollo urbano del Estado;
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1995)</small>
+
+8.- Las normas básicas en materia de restricciones y características de las obras e instalaciones, en las zonas aledañas a las fallas geológicas;
 
 9.- Los requerimientos globales de reservas territoriales para el desarrollo urbano, así como los mecanismos para satisfacer dichas necesidades; y
 
@@ -1319,7 +1335,9 @@ n) Las características y especificaciones de las fusiones, subdivisiones, relot
 
 o) Las medidas necesarias para la protección al ambiente y para la reducción de la contaminación del agua, del suelo, del aire y del ruido.
 
-p) Las medidas necesarias para mejorar la imagen urbana; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1995)</small>
+
+p) Las determinaciones de las zonas afectadas por el cruce de fallas geológicas y las medidas de prevención que deben tomarse en dichas áreas, de acuerdo a los estudios formulados sobre esta materia; y
 
 q) Las normas y especificaciones básicas de construcción y urbanización.
 
@@ -1375,9 +1393,11 @@ Los programas parciales de desarrollo urbano serán elaborados, aprobados, ejecu
 
 Todas las instancias involucradas vigilarán para que haya coordinación entre los programas sectoriales y así asegurar una economía de medios y una coherencia entre los mismos programas, y entre éstos y los programas de desarrollo urbano a los diferentes niveles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 1995)</small>
+
 ###### ARTICULO 72.
 
-Los programas sectoriales de desarrollo urbano son el conjunto de acciones dirigidas a regular elementos, componentes y acciones del desarrollo urbano, tales como el transporte, el equipamiento, la infraestructura, los servicios, la ecología urbana, la circulación de vehículos, el estacionamiento, la recolección y tratamiento de la basura doméstica e industrial, la captación y utilización del agua pluvial, el drenaje y tratamiento de aguas residuales, la prevención de riesgos y otros análogos, y contendrán, además de los señalado en el Artículo 55 de este Código, lo siguiente:
+Los Programas Sectoriales de Desarrollo Urbano, son el conjunto de acciones dirigidas a regular elementos, componentes y acciones del desarrollo urbano, tales como el transporte, el equipamiento, la infraestructura, los servicios, la ecología urbana, la circulación de vehículos, el estacionamiento, la recolección y tratamiento de la basura doméstica e industrial, captación y utilización del agua pluvial, el drenaje y tratamiento de aguas residuales, la prevención de riesgos por diversos agentes como inundaciones, vientos, cruces de líneas de alta tensión, ductos de hidrocarburos, derechos federales de carreteras, vías férreas, fallas geológicas y otras análogas y contendrán, además de los señalado en el Artículo 55 de este Código, lo siguiente:
 
 I.- La mención del programa de desarrollo urbano del cual deriven;
 
@@ -1781,13 +1801,19 @@ III.- Las áreas abiertas, los promontorios, los cerros, las colinas y elevacion
 
 IV.- Las áreas cuyo uso puede afectar el paisaje, la imagen urbana y los símbolos urbanos; y
 
-V.- Aquellas cuyo subsuelo se haya visto afectado por fenómenos naturales o por explotaciones de cualquier género, que representen peligros permanentes o eventuales para los asentamientos humanos.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
 
-La urbanización de los espacios destinados a la conservación se hará en forma restringida, de acuerdo con lo previsto en la legislación y programas en materia de desarrollo urbano. Sólo se autorizarán aquellas construcciones y obras que aseguren los servicios de carácter colectivo y de uso común, exceptuándose los considerados en la fracción II de este Artículo.
+V.- Aquellas cuyo subsuelo esté afectado por explotaciones de cualquier género, y por fallas geológicas o fracturas verticales, que puedan causar daños en construcciones de todo tipo, en calles, avenidas y en las redes de drenaje y conducción de agua que constituyan peligros permanentes o eventuales para los asentamientos humanos.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1995)</small>
+
+La urbanización de los espacios destinados a la conservación, se hará en forma restringida, de acuerdo con lo previsto en la legislación, y programas en materia de desarrollo urbano. Solo se autorizarán aquellas construcciones y obras que aseguren los servicios de carácter colectivo y de uso común que no constituyan riesgos, respetando las zonas de restricción de las fallas o fracturas geológicas, exceptuándose los considerados en la fracción II de este Artículo.
 
 En los casos no previstos en el párrafo anterior, las autoridades competentes podrán acordar la urbanización conforme a las normas de los programas de desarrollo urbano y legislación aplicable en la materia.
 
-Se establecerán programas integrales de manejo de áreas naturales protegidas, mediante los cuales se definirán las acciones para la preservación y óptimo aprovechamiento de dichas zonas.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1995)</small>
+
+Se establecerán programas integrales de manejo de áreas naturales protegidas y áreas con presencia de fallas geológicas, mediante los cuales se definirán las acciones para la preservación y óptimo aprovechamiento de dichas zonas.
 
 #### SECCION TERCERA. Mejoramiento
 
@@ -1865,7 +1891,11 @@ II.- La participación del Estado y de los Municipios en la formulación, aproba
 
 III.- Los mecanismos para la adquisición, por parte del Estado y de los Municipios, con la participación de los sectores social y privado, de predios ubicados en las áreas a que se refieren las fracciones anteriores, a efecto de satisfacer oportunamente las necesidades de tierra que plantee la dinámica de crecimiento de los centros de población, en los términos de este Código; y
 
-IV.- La definición de la infraestructura de las zonas de crecimiento y las modificaciones a realizar en la infraestructura existente del conjunto del área urbana.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 1995)</small>
+
+IV.- La utilización actual de suelo y sus características peculiares tomando las medidas que correspondan, tratándose de áreas naturales protegidas, zonas inundables, zonas minadas por sobre explotación de cualquier género y áreas afectadas por fallas geológicas; y
+
+V.- La definición de la infraestructura de las zonas de crecimiento y las modificaciones a realizar en la infraestructura existente del conjunto del área urbana.
 
 ###### ARTICULO 130.
 
@@ -1891,7 +1921,11 @@ V.- La compatibilidad entre los usos y destinos permitidos;
 
 VI.- Las densidades de población y de construcción;
 
-VII.- Las medidas para la protección de los derechos de vía y zonas de restricción de inmuebles de propiedad pública;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
+
+VII.- Las medidas para la protección de los derechos de vía, zonas de restricción de inmuebles de propiedad pública y zonas afectadas por fallas geológicas.
+
+En donde estén detectadas fallas geológicas al expedir los usos del suelo se deben determinar las áreas de restricción para las construcciones atendiendo a su grado de peligrosidad.
 
 VIII.- Las zonas de desarrollo controlado y de salvaguarda o amortiguamiento, especialmente en áreas e instalaciones en las que se realizan actividades riesgosas o se manejen materiales y residuos peligrosos;
 
@@ -2429,6 +2463,10 @@ Se consideran especialidades para los efectos de este Código las siguientes: c�
 
 El campo que para los efectos de autorización de solicitudes abarque una especialidad, será determinada por la comisión de admisión.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 1995)</small>
+
+En caso de daños en las construcciones por la aparición de fallas geológicas, estos no serán imputables al perito responsable o a las autoridades si dichas fallas no se encontraban asentadas en las cartas urbanas o en los programas de desarrollo urbano.
+
 ###### ARTICULO 203.
 
 El perito responsable de obra tendrá las siguientes obligaciones:
@@ -2609,6 +2647,10 @@ Los proyectos para las edificaciones deberán cumplir con los requisitos estable
 
 Dichos proyectos se analizarán para su aprobación tomando en cuenta el uso para el cual se destinarán las construcciones y la ubicación de éstas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 1995)</small>
+
+En las zonas próximas a las fallas geológicas, el Municipio determinará la calidad de los materiales y las especificaciones de edificación que deberán observarse en todas las obras públicas y privadas.
+
 ###### ARTICULO 221.
 
 La ejecución de las obras deberá llevarse a cabo en la forma y términos consignados en la respectiva licencia y de acuerdo a las disposiciones legales aplicables.
@@ -2771,9 +2813,15 @@ II.- Acumulen escombros o basuras;
 
 III.- Se trate de excavaciones profundas;
 
-IV.- Impliquen la aplicación de excesivas o descompensadas cargas o la transmisión de vibraciones excesivas a las construcciones; y
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1995)</small>
 
-V.- Produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos que puedan ocasionar daño a terceros, en su persona, sus propiedades o posesiones.
+IV.- Impliquen la aplicación de excesivas o descompensadas cargas o la transmisión de vibraciones excesivas a las construcciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MARZO DE 1995)</small>
+
+V.- Se encuentran próximas a fallas geológicas detectadas o posibles; y
+
+VI.- Produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos que puedan ocasionar daño a terceros, en su persona, sus propiedades o posesiones.
 
 ###### ARTICULO 233.
 
@@ -4473,7 +4521,9 @@ b) Tipo de cableado y especificaciones; y
 
 c) Especificaciones del alumbrado público.
 
-8) Estudio de mecánica de suelos; y
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1995)</small>
+
+8).- Estudio de mecánica de suelos, en el cual se deben incluir monitoreos para la detección de posibles fallas geológicas; y
 
 9) Especificaciones para las diversas obras de urbanización, conforme a las normas correspondientes.
 
@@ -7006,3 +7056,7 @@ Se deroga el Artículo 21 de la Ley Reglamentaria del Artículo 4o. de la Consti
 ###### ARTICULO NOVENO.
 
 Se derogan los Artículos 83, 84, 85, 86, 87 y 88 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes.
+
+P.O. 19 DE MARZO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
