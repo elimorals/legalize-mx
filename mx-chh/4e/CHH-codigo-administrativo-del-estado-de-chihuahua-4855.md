@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2002-05-15"
+last_updated: "2002-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8253,9 +8253,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 #### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
@@ -8311,7 +8311,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
@@ -8323,7 +8323,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
@@ -8373,7 +8373,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1515.
 
@@ -8401,7 +8401,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1521.
 
@@ -8419,13 +8419,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1525.
 
@@ -8443,9 +8439,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1529.
 
@@ -8463,9 +8459,9 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1533.
 
@@ -8477,9 +8473,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1535.
 
@@ -8511,7 +8505,13 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ###### ARTICULO 1542.
 
@@ -8537,7 +8537,7 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -8565,11 +8565,11 @@ Cuando el Estado declare de utilidad pública la realización de una obra, podr�
 
 Para los efectos del artículo anterior, el Ejecutivo del Estado podrá declarar la expropiación, la ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio de conformidad con lo establecido en este Código.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1550.
 
-Las autoridades Estatales y Municipales y los habitantes del Estado tienen el deber de procurar la conservación y el uso adecuado del agua potable y las obras de suministro y alcantarillado, en los centros de población.
+Las autoridades Estatales y Municipales, proveerán de agua para consumo humano a todas las comunidades del Estado en la forma y medida posibles, en sus respectivos ámbitos de competencia, y es su deber en conjunto con los habitantes del Estado, el procurar la conservación y el uso adecuado del agua potable y las obras de suministro y alcantarillado en los centros de población.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -9621,7 +9621,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 ### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1652.
 
@@ -9771,23 +9771,23 @@ Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los 
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1666.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Oficialía Mayor la que, consultando a la Tesorería General, estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las ventas y compras de inmuebles corresponde al Gobernador y al Secretario General de Gobierno.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las ventas y compras de inmuebles corresponde al Gobernador y al Secretario General de Gobierno.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1667.
 
-Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Tesorería General todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
+Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Secretaría de Finanzas y Administración, todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1668.
 
-Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Oficialía Mayor.
+Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Secretaría de Finanzas y Administración.
 
 El cambio de destino de un inmueble dedicado a un servicio público, así como la declaración de que aquél ya no es propio para tal aprovechamiento, deberá hacerse por decreto que expedirá el Congreso, oyendo previamente la opinión del Poder Ejecutivo o del Judicial, en su caso.
 
@@ -9797,11 +9797,11 @@ El cambio de destino de un inmueble dedicado a un servicio público, así como l
 
 No pierden su carácter de bienes destinados a un servicio público, los que estándolo fueren sin embargo, aprovechados temporalmente en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1670.
 
-Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Oficialía Mayor. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
+Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Secretaría de Finanzas y Administración. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9809,7 +9809,9 @@ Los inmuebles destinados a un servicio público quedarán bajo la dependencia de
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
-En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+
+En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Finanzas y Administración, resolverá cual de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9819,7 +9821,7 @@ En caso de duda, el Gobernador del Estado, por conducto de la Oficialía Mayor, 
 
 ###### ARTICULO 1672.
 
-La posesión, conservación y administración de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Oficialía Mayor, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+La posesión, conservación y administración de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9839,23 +9841,27 @@ Los particulares pueden adquirir por prescripción los inmuebles de dominio priv
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1676.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y bajo las condiciones que fija este Código y previa autorización del Congreso.
+La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y en las condiciones que fija este Código.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+Los bienes inmuebles que adquiera el Gobierno del Estado para destinarlos a la urbanización y dotación de suelo para familias de escasos recursos económicos, para su enajenación, se sujetarán a las normas técnicas de operación de la Secretaría de Desarrollo Urbano y Ecología. En cualquier caso, para la enajenación es necesaria la autorización del Congreso.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1677.
 
-La enajenación de dichos bienes se hará en subasta pública. La convocatoria se publicará con quince días de anticipación, por lo menos, en el Periódico Oficial y en otro de los de mayor circulación en el lugar de ubicación de los inmuebles o en la Capital del Estado si en el Municipio de referencia no se editaren periódicos.
+La enajenación de los bienes a que se refiere el primer párrafo del Artículo que antecede, se hará en subasta pública. La convocatoria se publicará con quince días de anticipación, por lo menos, en el Periódico Oficial y en otro de los de mayor circulación en el lugar de ubicación de los inmuebles o en la Capital del Estado si en el Municipio de referencia no se editaren periódicos.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+Se excluyen de dicho trámite las adquisiciones por parte de la Federación, de los Municipios o de los Organismos Descentralizados de la Federación, de los Estados y de los Municipios.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1678.
 
-La subasta se hará sobre la base del avalúo que practique alguna institución bancaria local y en su defecto, servirá de base el avalúo que mande practicar la Oficialía Mayor.
+La subasta se hará sobre la base del avalúo que practique algún perito autorizado y, en su defecto, servirá de base el avalúo que mande practicar la Secretaría de finanzas y Administración.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9869,11 +9875,11 @@ La subasta se practicará el día y a la hora señalados, ante la autoridad que 
 
 Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1681.
 
-Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Oficialía Mayor, mientras no esté pagado íntegramente el precio.
+Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Finanzas y Administración, mientras no esté pagado íntegramente el precio.
 
 En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses, en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
 
@@ -9917,13 +9923,15 @@ La Hacienda Pública estará facultada para retener administrativamente los bien
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-La clasificación y sistemas de inventario así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Oficialía Mayor.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 1688.
 
-La adquisición, administración y enajenación de los bienes muebles de propiedad estatal corresponde a la Oficialía Mayor, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezca un reglamento.
+La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde a la Secretaría de Finanzas y Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezcan las normas legales.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -10682,3 +10690,17 @@ P.O. 15 DE MAYO DE 2002.
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las unidades administrativas a que se hace referencia (sic) el artículo 331 TER, en caso de ser necesario, deberán de proveer al Ejecutivo del Estado, en el término de un año contado a partir de la entrada en vigor del presente decreto, las modificaciones necesarias a las leyes y reglamentos que les competa por sector para determinar los acuerdos y resoluciones administrativas que en su caso emitan o ejecuten y deban ser inscritas en la Sección Octava del Registro Público de la Propiedad y del Notariado, para su debida publicidad.
+
+P.O. 25 DE MAYO DE 2002.
+
+DECRETO No. 207/02 II P.E.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2002.
+
+DECRETO No. 208/02 II P.E.
+
+###### ARTICULO UNICO.
+
+EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
