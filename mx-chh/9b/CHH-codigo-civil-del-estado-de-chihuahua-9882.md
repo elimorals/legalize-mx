@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2002-01-09"
+last_updated: "2002-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1218,6 +1218,22 @@ II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147 y
 254.- El divorcio es la disolución legal del contrato de matrimonio y deja a los cónyuges en aptitud de contraer nuevas nupcias.
 
 255.- El divorcio puede ser por mutuo consentimiento o contencioso. El primero procede a solicitud de ambos cónyuges y el segundo a solicitud de uno solo de ellos.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2002)</small>
+
+El divorcio por mutuo consentimiento, podrá realizarse de las siguientes formas:
+
+a).- Se podrá acudir ante el Oficial del Registro Civil, siempre y cuando se reúnan los siguientes requisitos:
+
+1.- Los cónyuges sean mayores de edad;
+
+2.- Tengan más de un año de haber contraído nupcias;
+
+3.- No hayan procreado hijos, o éstos sean mayores de edad, y
+
+4.- Que el matrimonio se hubiere celebrado bajo el régimen de separación de bienes o, en el caso de que se hubiese establecido la sociedad conyugal no existan bienes qué dividir provenientes de la misma o se hubiere liquidado dicha sociedad ante autoridad judicial o notario público.
+
+b).- Los cónyuges que no se encuentren dentro de lo previsto en el inciso anterior, podrán divorciarse por mutuo consentimiento ocurriendo ante el juez competente en los términos que establece el Código de Procedimientos Civiles.
 
 256.- Son causas de divorcio contencioso:
 
@@ -10180,3 +10196,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE ENERO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Corresponde a los Oficiales del Registro Civil de las cabeceras municipales de más de 75,000 habitantes llevar a cabo la tramitación del Divorcio Administrativo.
