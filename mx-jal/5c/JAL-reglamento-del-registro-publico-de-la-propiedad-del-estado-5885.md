@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-publico-de-la-propiedad-del-estado-5885
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-03-26"
-last_updated: "1983-07-30"
+last_updated: "1983-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1983.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el jueves 26 de marzo de 1981.
 
@@ -45,9 +45,11 @@ DE LA ORGANIZACION Y FUNCIONAMIENTO DEL REGISTRO
 
 ° Las disposiciones de este Reglamento regularán las funciones registrales que en materia de bienes corresponden al Estado, las que se llevarán a cabo por la dirección del Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 2.
 
-° El Registro Público de la Propiedad, es la Dependencia de la Tesorería General del Estado, dependiente del Ejecutivo, encargada de realizar en el Estado la actividad registral, dar publicidad a los actos jurídicos que según la Ley deban surtir efectos contra terceros, proporcionar el correspondiente servicio a todo interesado, y regularizar la propiedad inmueble mediante su incorporación al propio sistema.
+° El Registro Público de la Propiedad, es la Dependencia del Ejecutivo, encargada de realizar en el Estado la actividad registral, dar publicidad a los actos jurídicos que según la Ley deban surtir efectos contra terceros, proporcionar el correspondiente servicio a todo interesado, y regularizar la propiedad inmueble mediante su incorporación al propio sistema.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -103,19 +105,35 @@ V. Ordenar en su caso la reposición o restauración de libros y documentos dete
 
 VI. Proporcionar a las Dependencias Oficiales los datos estadísticos necesarios derivados de la función registral;
 
-VII. Rendir al Tesorero General del Estado una vez al año o cuando éste lo solicite un informe del estado que guardan la Dirección y las Oficinas del Registro;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-VIII. Rendir los informes que soliciten las Autoridades y suscribir la correspondencia oficial;
+VII. Rendir a la Secretaría General de Gobierno una vez al año o cuando ésta lo solicite un informe del estado que guarda la Dirección y las oficinas del Registro;
 
-IX. Las demás que le impongan las Leyes.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+VIII. Tener a su cargo la Primera y Segunda Oficinas registrales de la capital auxiliado por los Subdirectores con las obligaciones y facultades a que aluden los Arts. 25 y 26 de este Reglamento;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+IX. Rendir los informes que soliciten las autoridades y suscribir la correspondencia oficial;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+X. Las demás que le impongan las Leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 7.
 
-° Son facultad del director:
+° Son facultades del Director:
 
-l. Proponer al Tesorero General del Estado, los nombramientos, ascensos, remociones del personal del Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-II. Proponer al Tesorero General del Estado los instructivos y circulares que sean necesarios para una eficiente prestación del servicio y para uniformar la práctica registral en el Estado;
+I. Proponer a la Secretaría General de Gobierno, los nombramientos, ascensos, remociones, del personal del Registro Público de la Propiedad;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+II. Girar los instructivos y circulares que sean necesarios para una eficiente prestación del servicio y para uniformar la práctica registral en el Estado;
 
 III. Las demás que le concedan las Leyes.
 
@@ -125,13 +143,19 @@ III. Las demás que le concedan las Leyes.
 
 ° Habrá dos subdirecciones con residencia en la capital, a cargo cada una de un subdirector; quienes deberán reunir los mismos requisitos exigidos para el director; (sic)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 9.
 
-° Son obligaciones de los subdirectores:
+° Son obligaciones de los Subdirectores:
 
-I. Cumplir en la Oficina que le corresponda con lo dispuesto en el Art. 25 de este Reglamento atendiendo, según el caso, lo establecido en sus Arts. 18 y 19;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-II. Suplir al director o al otro subdirector en caso de impedimento o ausencias temporales, por su orden, en los términos del Art. 58 de la Ley Orgánica de la Tesorería General del Estado;
+I. Auxiliar al Director, uno de ellos en la atención de la Primera y el otro de la Segunda Oficinas Registrales de la capital, teniendo las obligaciones y facultades a que aluden los Arts. 25 y 26 de este Reglamento;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+II. Suplir al Director o al Subdirector en caso de impedimento o ausencias temporales, por su orden, quedando facultado en tales casos para autorizar con su firma todos los actos registrales de las oficinas, rendir los informes de Ley, suscribir la correspondencia oficial y contestar demandas;
 
 III. Representar al director, cuando éste así lo disponga, en actos relacionados con la actividad registral;
 
@@ -157,23 +181,35 @@ III. Las previstas en el Art. 26 de este Reglamento y las demás que les conceda
 
 El Departamento Administrativo, dependerá de la Dirección y estará a cargo de un jefe, que deberá reunir los mismos requisitos que para ser director.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 12.
 
-Son obligaciones del jefe del Departamento Administrativo:
+Son obligaciones del Jefe del Departamento Administrativo:
 
-l. Supervisar que la consulta por el público de los libros y documentos de las oficinas de la capital se ajuste a lo dispuesto por el Art. 51 de este Reglamento;
+I. (DEROGADA, P.O. 1 DE DICIEMBRE DE 1983)
 
-II. Supervisar la encuadernación de los libros del Registro que se formen con los documentos registrados, debiendo llevar una relación pormenorizada de los mismos;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-III. Llevar el inventario de libros, mobiliario, equipo y útiles de trabajo de las oficinas del Registro en el Estado;
+II. Supervisar la encuadernación de los libros del Registro que se formen con los documentos registrados, debiendo llevar su control y una relación pormenorizada de los mismos;
 
-IV. Proveer a las oficinas de material y útiles necesarios para el desempeño de la función registral;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-V. Tener a su cargo el taller de encuadernación e imprenta de la Dirección del Registro Público de la Propiedad;
+III. Llevar el inventario de los libros, mobiliario, equipo y útiles de trabajo de las oficinas del Registro en el Estado;
 
-VI. Llevar un registro del personal que labora en la Dirección, integrando un expediente para cada empleado, en el que consten las altas y bajas y el movimiento del mismo;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-VII. Auxiliar en la recepción de los documentos que sean presentados para su registro en la Primera y Segunda Oficinas de la capital, y en el manejo del libro de entradas y salidas de documentos a que alude el Art. 38 de este Reglamento;
+IV. Proveer a las oficinas del material y útiles necesarios para el desempeño de su función registral;
+
+V. (DEROGADA, P.O. 1 DE DICIEMBRE DE 1983)
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+VI. Llevar un registro del personal que labora en la Dirección y en las oficinas registrales, integrando un expediente para cada empleado, en el que consten las altas y bajas, y el movimiento del mismo;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+VII. Auxiliar en la recepción de los documentos que sean prestados para su registro en la Primera y Segunda oficinas de la capital y en el manejo del libro de entradas y salidas de documentos a que alude el Art. 38 de este Reglamento;
 
 VIII. Las demás que le sean encomendadas.
 
@@ -193,21 +229,29 @@ III. Las demás que deriven de la naturaleza de su cargo.
 
 El Departamento de Asesoría Técnica, dependerá de la dirección y estará a cargo de un jefe, que deberá reunir los requisitos previstos para ser director.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 15.
 
-Son obligaciones del jefe del Departamento de Asesoría Técnica:
+Son obligaciones del Jefe del Departamento de Asesoría Técnica:
 
 I. Auxiliar al director y subdirectores en la elaboración de planes y proyectos de índole técnica registral;
 
-II. Proporcionar asistencia técnica a los titulares de las oficinas registrales;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
-III. Proporcionar asistencia técnica a los usuarios del servicio, a título gratuito, salvo el caso en que se precise hacer erogaciones o se trate de obligaciones fiscales;
+II. Supervisar que la consulta por el público de los libros, Índices y documentos de las oficinas de la capital se ajuste a lo dispuesto por el Art. 51 de este Reglamento; y ordenar y clasificar los libros del Registro en los anaqueles correspondientes;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+III. Proporcionar asistencia técnica a los titulares de las oficinas registrales y a los usuarios del servicio, a título gratuito, salvo el caso en que se precise hacer erogaciones o se trate de obligaciones fiscales;
 
 IV. Ordenar y clasificar los informes que rindan los jefes de oficinas registrales en los términos de la fracción VII del Art. 25 de este Reglamento;
 
 V. Elaborar los informes estadísticos que deba rendir la dirección;
 
-VI. Auxiliar a los subdirectores en la elaboración de los índices a que alude el Art. 37 de este Reglamento, de las dos oficinas registrales de la capital, y ordenar y clasificar los de todas las oficinas en el Estado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+VI. Tener a su cargo la elaboración y clasificación de los Indices a que alude el Art. 37 de este Reglamento, en las dos oficinas registrales de la capital;
 
 VII. Las demás que estén relacionadas con el aspecto técnico de la función registral y las que le encomiende la dirección.
 
@@ -225,11 +269,15 @@ II. Todas las demás que sean compatibles con la naturaleza de su cargo.
 
 Habrá en la capital dos oficinas registrales, que se denominarán Primera y Segunda Oficina.
 
-Art.18. La Primera Oficina, con sede en la capital, estará a cargo de uno de los subdirectores con facultades de autorizar con su firma todos los actos registrales que pasen en la oficina, de suscribir la correspondencia oficial, rendir los informes de Ley, recibir notificaciones y contestar demandas, conforme los criterios de la Tesorería General del Estado. Se registrarán en ella todos los actos relativos a bienes o derechos reales constituidos sobre inmuebles, que se hallen situados en los Sectores Reforma y Libertad, así como en los Municipios de Tlaquepaque, Tonalá, Juanacatlán, Zapotlanejo y El Salto.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+Art. 18 La Primera Oficina con sede en esta capital, estará a cargo del Director, auxiliado por uno de los Subdirectores, con facultades de autorizar con su firma todos los actos registrales que pasen en la oficina, de suscribir la correspondencia oficial, rendir los informes de Ley, recibir notificaciones y contestar demandas. Se registrarán en ella los actos relativos a bienes o derechos reales constituidos sobre inmuebles, que se hallen situados en los Sectores Reforma y Libertad del municipio de Guadalajara, así como en los municipios de Tlaquepaque, Tonalá, Juanacatlán, Zapotlanejo y El Salto.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 19.
 
-La Segunda Oficina, también con sede en la capital, estará a cargo del otro subdirector con facultades de autorizar con su firma todos los actos registrales que pasen en la oficina, de suscribir la correspondencia oficial, rendir los informes de ley, recibir notificaciones y contestar demandas conforme los criterios de la Tesorería General del Estado. Se registrarán en ella, todos los actos relativos a bienes o derechos reales constituidos sobre inmuebles, que se hallen situados en los Sectores Juárez e Hidalgo, así como en los Municipios de Tala, Zapopan, San Cristóbal de la Barranca y Tlajomulco.
+La Segunda Oficina, también con sede en esta capital, estará a cargo del Director, auxiliado por el otro Subdirector, con facultades de autorizar con su firma todos los actos registrales que pasen en la ofician (sic), de suscribir la correspondencia oficial, rendir los informes de Ley, recibir notificaciones y contestar demandas. Se registrarán en ella todos los actos relativos a bienes o derechos reales constituidos sobre inmuebles, que se hallen situados en los Sectores Juárez e Hidalgo del municipio de Guadalajara, así como en los municipios de Tala, Zapopan, San Cristóbal de la Barranca y Tlajomulco.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -279,23 +327,33 @@ Las oficinas permanecerán abiertas al público, para el desempeño de las labor
 
 En las oficinas de la dirección del Registro Público de la Propiedad, se usará un sello de autorizar con el Escudo Nacional en el centro con el texto: Estados Unidos Mexicanos, que formará el semicírculo superior y fuera en la circunferencia la mención de la Oficina Registral a que corresponda. Con este sello se autorizarán todos los actos del Registro.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 24.
 
-Para ser jefe de Oficina Registral se requiere:
+Para ser Jefe de Oficina registral se requiere:
 
-Ser ciudadano mexicano, abogado con título legalmente registrado y encontrarse en el pleno ejercicio de sus derechos civiles y políticos.
+I. Ser ciudadano mexicano, abogado con título legalmente registrado y encontrarse en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Ser de reconocida probidad y buenas costumbres.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 25.
 
-Son obligaciones del jefe de oficina:
+Son obligaciones del Jefe de Oficina:
 
 I. Vigilar la legalidad y exactitud de los registros que se practiquen y de las certificaciones que se expidan;
 
-II. Revisar los documentos presentados y calificarlos en los términos de los Arts. 2949 y 2950 del Código Civil y ordenar o denegar su registro, dentro de los tres días hábiles siguientes a la presentación del documento, o suspender el mismo, en su caso;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+II. Revisar los documentos presentados y calificarlos en los términos de los Arts. 2949 y 2950 del Código Civil y ordenar o denegar su registro, dentro de un término que no exceda de 10 días hábiles siguientes a la prestación del documento o suspender el mismo en su caso;
 
 III. Autorizar con su firma los registros o anotaciones que se practiquen, así como las certificaciones que se expidan;
 
-IV. Contestar las demandas que se promuevan en su contra, siguiendo los criterios de la Tesorería General del Estado y continuando con los trámites de los juicios, debiendo en cada caso integrar un expediente para uso exclusivo de la oficina;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+IV. Contestar las demandas que se promuevan en su contra siguiendo trámites de los juicios, debiendo en cada caso integrar un expediente para el uso exclusivo de la oficina;
 
 V. Autorizar con su firma la apertura y el cierre de cada uno de los libros que se integren de conformidad con los Arts. 32 y 33 de este Reglamento;
 
@@ -305,7 +363,9 @@ VII. Rendir a la dirección dentro de los primeros cinco días hábiles de cada 
 
 VIII. Practicar las anotaciones, dar los avisos y proporcionar los informes previstos en las Leyes;
 
-IX. Elaborar por triplicado cada uno de los índices que menciona el Art. 37 de este Reglamento;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+IX. Elaborar los Indices que mencionan el Art. 37 de este Reglamento;
 
 X. Firmar la correspondencia de la oficina;
 
@@ -313,7 +373,9 @@ XI. Resolver gratuitamente a los interesados las dudas que tengan relativas del 
 
 XII. Registrar los documentos por el orden de su presentación;
 
-XIII. Practicar el registro o en caso de devolución del documento fundar la negativa, dentro de los tres días hábiles siguientes a la presentación del documento, hecha excepción de las anotaciones preventivas que deberán hacerse inmediatamente de recibir el aviso respectivo;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+XIII. Practicar el registro o en caso de devolución del documento fundar la negativa, dentro de un término que no exceda de 10 días hábiles siguientes a la presentación del documento, hecha excepción de las anotaciones preventivas que deberán hacerse tan luego como sea recibida el aviso respectivo en la oficina;
 
 XIV. Rendir a las Autoridades los informes que le soliciten;
 
@@ -403,17 +465,23 @@ Posteriormente cada tomo se coserá y empastará expresando en él, los datos ne
 
 La dirección del Registro llevará por conducto del Departamento Administrativo, inventario de los libros y del mobiliario de la institución. Al principio de cada año se verificará el inventario con las adiciones resultantes del año anterior y las bajas justificadas en igual periodo.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 35.
 
-Siempre que sea nombrado nuevo subdirector o jefe de una Oficina Registral, tomará posesión de su cargo en presencia de un representante de la Dirección recibiendo la oficina de su antecesor conforme a inventario que sea formulado para tal efecto, debiendo levantarse un acta de entrega que será firmada por los que en el acto intervinieron.
+Siempre que haya nuevo nombramiento de Director, se hará cargo del Registro el nuevo funcionario por inventario, firmando el acta de entrega en unión de su antecesor. Cuando sea nombrado un nuevo Subdirector o Jefe de Oficina registral, tomará posesión de su cargo en presencia del Director o de un representante de la Dirección, recibiendo la Oficina de su antecesor conforme a inventario que sea formulado para el efecto, debiendo levantarse un acta de entrega que será firmada por los que en el acto intervinieren.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 36.
 
-En caso de separación de algún jefe de oficina por causa de enfermedad grave u otra de fuerza mayor, que impida el funcionario hacer la entrega como se dispone en el artículo anterior, el sustituto se hará cargo de la oficina en presencia de un representante del Tesorero General y del director del Registro Público de la Propiedad, levantándose acta de entrega que firmarán los que en el acto intervinieron.
+En caso de separación de algún Jefe de la Oficina por causa de enfermedad grave u otra de fuerza mayor que impida al Funcionario hacer la entrega como se dispone en el artículo anterior, el sustituto se hará cargo de la oficina en presencia de un representante de la Dirección, levantándose acta de entrega que firmarán los que en el acto intervinieren.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 37.
 
-En cada Oficina del Registro, se llevarán por triplicado dos índices, uno por nombre de propietarios y otro por inmuebles, los cuales contendrán los datos necesarios para la identificación de los mismos.
+En cada oficina del Registro, se llevarán dos Indices, uno por nombre de propietario y otro por inmueble, los cuales contendrán los datos necesarios para la identificación de los mismos.
 
 ###### Art. 38.
 
@@ -423,29 +491,35 @@ SEGUNDA PARTE
 
 ### CAPITULO I. DEL PROCEDIMIENTO REGISTRAL
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 39.
 
-Ningún registro podrá hacerse si no consta, que el que lo pretende, tiene derecho para pedir que se haga o es apoderado o representante legítimo del que lo tenga, y que se han cubierto las obligaciones fiscales correspondientes. También podrá solicitar el registro el Notario o Corredor Público que haya autorizado la escritura de que se trate. Las solicitudes de registro se harán verbalmente y sin ninguna formalidad.
+Ningún registro podrá hacerse si no consta, que el que lo pretende, tiene derecho para pedir que se haga o es apoderado o representante legítimo del que lo tenga y que sean cubiertas las obligaciones fiscales correspondientes. También podrá solicitar el registro el Notario o Corredor Público que haya autorizado la escritura de que se trate. Las solicitudes de registro se harán verbalmente y sin ninguna formalidad, salvo disposición contenida en Ley.
 
-El interesado deberá presentar en cada oficina donde deba practicarse el registro, para los efectos del Art. 45 de este Reglamento, en papel grueso y legibles los ejemplares del documento que va a ser registrado; uno de ellos se incorporará al Registro, devolviéndose los demás al interesado, con mención de haber sido registrados.
+El interesado deberá presentar en cada oficina donde deba practicarse el registro, para los efectos del Art. 45 de este Reglamento, en papel resistente para su encuadernación y legible, los ejemplares del documento que va a ser registrado; uno de ellos se incorporará al registro, devolviéndose los demás al interesado, con la certificación de haber sido registrado si procedió el mismo, o con la constancia de devolución o suspensión en su caso.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 40.
 
-Inmediatamente que sea presentado un documento se tomará razón de su presentación en el libro de entradas y salidas y se asentará en dicho documento, constancia de la hora, fecha y número de orden de presentación; datos que constarán en una boleta que se entregará a los interesados para justificar su recibo. Debiendo llevar el sello de la oficina.
-
-Si el documento presentado satisface los requisitos de los Arts. 2946, 2947 y 2948 del Código Civil del Estado, previa la calificación a que alude el Art. 2949 del mismo ordenamiento, se procederá a su incorporación. Si el documento no fuere perfectamente legible y en papel grueso, se suspenderá el registro, hasta que se cumpla con lo dispuesto en el párrafo segundo del Art. 39 que antecede.
+Inmediatamente que sea presentado un documento, se tomará razón de su presentación en el libro de entradas y salidas y se asentará en dicho documento, constancia de la hora, fecha y número de orden de presentación, datos que constarán en una boleta que se entregará a los interesados para justificar su recibo, debiendo levar el sello de la oficina. Si el documento presentado satisface los requisitos de los Arts. 2946, 2947 y 2948 del Código Civil del Estado, previa la calificación a que alude el Art. 2949 del mismo Ordenamiento, se procederá a su incorporación. Si el documento no fuere perfectamente legible y en papel que resista su encuadernación, se suspenderá el registro hasta que cumpla con lo dispuesto en el párrafo segundo del Art. 39 que antecede.
 
 ###### Art. 41.
 
 Cuando en un mismo documento consten varios actos registrables en distintas secciones y oficinas el interesado presentará en cada oficina tantos ejemplares como actos registrales sea necesario practicar en las diversas secciones del registro, y el registrador incorporará cada uno de ellos en el libro de la sección y oficina respectiva.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 42.
 
-El registrador no juzgará la legalidad de la orden judicial o administrativa que decrete un registro, anotación o cancelación, pero si concurren algunas circunstancias graves, por las que legalmente no deban practicarse, lo hará saber así dentro de los tres días hábiles siguientes a la autoridad respectiva, fundamentando debidamente su criterio. Si a pesar de ello, ésta insistiere en el registro, se hará el mismo incorporando el documento que contenga la orden respectiva.
+El registrador no juzgará la legalidad de la orden judicial o administrativa que decrete un registro, anotación o cancelación, pero, si concurren algunas circunstancias graves, por las que legalmente no deban practicarse, lo hará saber así dentro de los 10 días hábiles siguientes a la autoridad respectiva, fundando debidamente o su criterio. Si a pesar de ello, ésta insistiere en el registro, se hará el mismo incorporando el documento que contenga la orden respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 43.
 
-Cuando el registrador al calificar el documento presentado para su incorporación, encontrare que éste no satisface los requisitos previstos por los Arts. 2947, 2949 y 2952 del Código Civil lo devolverá dentro de los tres días hábiles siguientes con expresión de los fundamentos legales por los que se denegó el registro; siendo necesaria resolución judicial para su registro.
+Cuando el registrador al calificar el documento presentado para su incorporación, encontrare que éste no satisface los requisitos previstos por los Arts. 2947, 2949 y 2952 del Código Civil lo devolverá dentro de los 10 días hábiles siguientes, con expresión de los fundamentos legales por los que se denegó el registro; siendo necesario en tal caso resolución judicial para un cumplimiento de ella practicar su registro.
 
 ###### Art. 44.
 
@@ -467,9 +541,11 @@ Al incorporarse un título en el que se transmita el dominio de varios inmuebles
 
 Cuando se agote el espacio de las hojas que fueron agregadas al documento para formar parte del mismo al ser incorporado éste, se agregarán a otro libro de la misma sección, asentando razón del número del libro y folio que les corresponda, cuantas hojas fuere necesario para continuar las anotaciones de Ley.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 47.
 
-Las resoluciones de autoridad y los actos y contratos procedentes de alguna otra entidad de la República, deberán registrarse siempre que por su materia sean de los que requieren el registro, sujetándose en todo a los estatuido (sic) por el Código Civil del Estado en su título preliminar, al Art. 2940 del mismo, en su caso, y al Art. 27 Constitucional, en su parte relativa. Si tales actos o contratos se otorgan en instrumento público, deberá presentar al intesado (sic) los ejemplares a que aluden los Art. 39 y 41 de este Reglamento; tratándose de documentos privados se acompañarán original y duplicado.
+Las resoluciones de autoridad y los actos y contratos procedentes de alguna otra Entidad de la República, deberán registrarse siempre que por su materia sean los que requieren del registro, sujetándose en todo a lo estipulado por el Código Civil del Estado en su título preliminar y a su Art. 2940, y en su caso al Art. 121 de la Constitución Federal, en su parte relativa. Si tales actos o contratos se otorgan en instrumento público deberá presentar el interesado los ejemplares a que aluden los Arts. 39 y 41 de este Reglamento: tratándose de documentos privados se acompañarán original y duplicado.
 
 ###### Art. 48.
 
@@ -489,7 +565,9 @@ Los libros y documentos del Registro serán públicos; los interesados en consul
 
 I. Deberán solicitar del registrador el libro o documento que deseen ver, indicando claramente las fincas o derechos cuyo estado pretenden consultar;
 
-II. Podrán hacer la consulta de las 9.00 a las 13.00 horas dentro de la oficina, en el sitio destinado para tal efecto, cuando ésta no los utilice en esos momentos para el servicio, y en presencia de un empleado;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+II. Podrán hacer la consulta de lunes a viernes de las 9:00 a las 13:00 horas y el día sábado de 9:00 a las 12:00 horas dentro de la oficina y en el sitio destinado para tal efecto, cuando ésta no los utilice en esos momentos para la práctica de los asientos registrales y en presencia de un empleado;
 
 III. No podrán exigir de los funcionarios o empleados otro auxilio distinto que el de la exhibición de los libros, documentos e índices a su cargo;
 
@@ -511,7 +589,9 @@ Solamente que obre registrada una propiedad se podrán registrar los actos jurí
 
 Se incorporarán en la Sección Primera y surtirán efectos de inscripción o registro, los documentos en que consten los actos o derechos siguientes, relativos a bienes raíces:
 
-I. Venta, permuta, donación, cesión, subrogación, adjudicación, dación en pago y fideicomiso;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+I. Venta, permuta, donación, cesión, subrogación, adjudicación, dación en pago, constitución de fideicomiso, modificaciones a éste, substituciones fiduciarias, cesión de derechos de fideicomitentes o fideicomisarios;
 
 II. Usufructo, uso, habitación y servidumbre;
 
@@ -597,9 +677,11 @@ Registrado un título de propiedad en favor de una persona, no se podrá registr
 
 No se podrá registrar ningún derecho accesorio a una propiedad, como servidumbre, usufructo, etcétera, sin que antes se registre la propiedad misma. Estando registrada la finca se hará el registro del derecho, relacionando ambos registros con una anotación.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 65.
 
-Las capitulaciones matrimoniales en que se establezca entre los cónyuges comunidad de bienes raíces, solo se registrarán, si previamente se hallan registrados los bienes que constituyen la comunidad en favor de cada cónyuge. Las hijuelas o testimonios de cuentas, partición o adjudicación, se registrarán si previamente se hayan registrado los bienes a favor del autor de la sucesión, o en su defecto por orden judicial que así lo disponga.
+Las capitulaciones matrimoniales en las que se establezca entre los cónyuges comunidad de bienes raíces, solo se registrarán si previamente se hayan registrados, los bienes que constituyen la comunidad a favor de cada cónyuge.
 
 ###### Art. 66.
 
@@ -611,7 +693,9 @@ II. Planos individuales de cada una de las manzanas, con superficie total, linde
 
 III. Relación pormenorizada de manzanas, con sus superficies, medidas y linderos y el número de lotes de que se compone;
 
-IV. Relación de lotes de cada manzana, con sus números, superficie, medidas y linderos. La descripción de cada lote se hará constar por separado en una hoja tamaño oficio y en la parte superior de la misma, dejando el espacio necesario para que sean asentadas en ella por el registrador, los datos de registro así como las anotaciones de Ley;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
+IV. Relación mecanográfica firmada por el solicitante, de lotes de cada manzana, con sus números, superficie, medidas lineales y colindancias. La descripción de cada lote se hará constar en hoja por separado, en la parte superior de la misma, dejando el espacio necesario para que sean asentados en ellas por el registrador, los datos de registro así como las anotaciones de Ley. Tales hojas deberán tener como característica ser en tamaño oficio y resistentes por su espesor para los efectos de la encuadernación;
 
 V. Escritura de donación al Ayuntamiento de vías públicas y áreas verdes, por el porcentaje que les corresponda conforme a la Ley. Donación para escuelas al Estado en su caso;
 
@@ -811,9 +895,11 @@ Las inscripciones, registros y anotaciones preventivas, deberán considerarse v�
 
 Si el registro definitivo se hiciere en su oportunidad, sus efectos continuarán los del registro o anotación preventivos, teniéndose el derecho por registrado desde la fecha de la preventiva.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 94.
 
-La cancelación de los registros a que se refiere el artículo anterior, se hará por orden judicial en los casos de los registros a que se refieren los incisos III, IV, V, VI, VII y VIII del Art. 91 de este Reglamento, y a solicitud de parte que acredite tener interés jurídico en los demás casos.
+La cancelación de los registros a que se refiere el artículo anterior, se hará por orden judicial en los casos de los registros a que se refieren las fracs. III, IV, V, VI, VII y VIII del Art. 91 de este Reglamento, y a solicitud ratificada ante Notario Público o quien haga sus veces, de parte que acredite tener interés jurídico en los demás casos.
 
 ###### Art. 95.
 
@@ -954,3 +1040,9 @@ Segundo. Quedan sin efecto todas las disposiciones que se opongan al presente.
 Tercero. Una vez que entre en vigor esta reforma, el jefe de la Oficina de La Barca, concentrará y hará entrega al jefe de la Oficina de Ocotlán del total de los libros del Registro Público de Comercio y de los Libros del Registro Público de la Propiedad, del sistema de transcripción, utilizados e integrados desde el día 12 de diciembre de 1917 hasta el día 31 de marzo de 1981 y de la demás documentación con ellos relacionada en los que consten registrados actos mercantiles o actos jurídicos relativos a sociedades domiciliadas o inmuebles ubicados en los municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey. Y si se trata de libros en los que obren inscripciones practicadas en el Registro Público de Comercio o en el de la Propiedad en cualquiera de sus secciones, desde su establecimiento hasta el día 11 de diciembre de 1917 y del día 1.° de abril de 1981 a esta fecha, el jefe de la Oficina de La Barca, sin pago a derecho alguno por ser indispensable para la prestación del servicio registral, expedirá para uso de la Oficina de Ocotlán, copias fotostáticas certificadas de las inscripciones practicadas en libros y de la demás documentación con ellos relacionada, relativos a los mencionados municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey, para que estas constituyan inscripciones de propiedad o mátricula de sociedades, y que con vista en ellas se expidan todas las constancias de Ley, que se practiquen las anotaciones derivadas de los nuevos asientos registrales que a partir de esta fecha se lleven a cabo por la Oficina de Ocotlán.
 
 La Oficina de la Barca, Jalisco, hará la cancelación de las inscripciones practicadas en los Libros del Registro Público integrados del día 12 de noviembre de 1883 al día 12 de diciembre de 1917 y del día 1.° de abril de 1981 a la fecha en que entren en vigor estas reformas, relativas a sociedades e inmuebles domiciliados o ubicados en los municipios de Ocotlán, Poncitlán, Jamay y Zapotlán del Rey y respecto de los cuales se hubieren remitido las copias fotostáticas certificadas a que se refiere el párrafo que anteceden.
+
+P.O. 1 DE DICIEMBRE DE 1983.
+
+Primero. Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo. Se derogan las disposiciones que se opongan al presente.
