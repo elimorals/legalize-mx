@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1992-01-10"
+last_updated: "1992-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1992.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -237,7 +237,9 @@ IV.- Comisiones y mediaciones mercantiles;
 
 V.- Intereses provenientes de cualquier operación mercantil.
 
-No quedan comprendidos dentro del objeto del Impuesto, los actos o actividades a que se refiere el Artículo 2A de le Ley del Impuesto al Valor Agregado.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1992)</small>
+
+No quedan comprendidos dentro del objeto del Impuesto, los actos y actividades a que se refieren los Artículos 2o.-A y 2o.-C, de la Ley del Impuesto al Valor Agregado.
 
 ###### ARTICULO 43.
 
@@ -1994,3 +1996,9 @@ P.O. 10 DE ENERO DE 1992.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
