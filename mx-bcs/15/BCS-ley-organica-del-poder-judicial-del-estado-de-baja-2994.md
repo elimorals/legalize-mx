@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2004-08-10"
+last_updated: "2004-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -1049,7 +1049,9 @@ Son Auxiliares de la Administración de Justicia:
 
 I. Los Presidentes y Delegados Municipales;
 
-II. Los Jefes, Oficiales y Agentes de la Policía Judicial del Estado, de los Cuerpos de Policía Preventiva Municipal y de las demás corporaciones policiacas de carácter oficial;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+II. Los Jefes, Oficiales y Agentes de la Policía Ministerial del Estado, de los Cuerpos de Policía Preventiva Municipal y de las demás corporaciones policiacas de carácter oficial;
 
 III. Los Oficiales y Encargados de las Oficinas del Registro Civil;
 
@@ -2598,3 +2600,7 @@ Las disposiciones de este Decreto no serán aplicables a los procedimientos de r
 ###### ARTÍCULO QUINTO.
 
 La Ley de Procedimiento Administrativo, deberá emitirse por el H. Congreso del Estado de Baja California Sur, durante el Segundo Periodo Ordinario del Tercer Año de Ejercicio Constitucional de la X Legislatura.
+
+B.O. 30 DE NOVIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
