@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1995-03-16"
+last_updated: "1995-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ABRIL DE 1995.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -553,7 +553,9 @@ Reservas de Capital.
 
 Además se presentarán enseguida del capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
 
-El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. La tenencia de Valores Gubernamentales se presentará en neto después de descontar los depósitos de regulación monetaria. El Crédito a Intermediarios Financieros incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores y a los fideicomisos de fomento. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que, en su caso, existan.
+(REFORMADO, D.O.F. 3 DE ABRIL DE 1995) (F. DE E., D.O.F. 7 DE ABRIL DE 1995)
+
+El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. La tenencia de Valores Gubernamentales se presentará en neto después de descontar los depósitos de regulación monetaria, sin considerar en este rubro los valores obtenidos mediante reportos y los afectos a la reserva para pensiones del personal, y en caso de saldo acreedor, éste se ubicará en el rubro de Otros Pasivos. El Crédito a Intermediarios Financieros incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores, a los fideicomisos de fomento y a los reportos con casas de bolsa. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que, en su caso, existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Intermediarios Financieros.
 
 ###### ARTICULO 39.
 
@@ -664,3 +666,7 @@ Rúbrica.
 D.O.F. 16 DE MARZO DE 1995.
 
 UNICO.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación, por lo que el balance general a números del 31 de diciembre de 1994, así como los estados de cuenta consolidados mensuales relativos a enero y febrero de 1995, los cuales aún no se han publicado, deberán contener los rubros que se mencionan en el nuevo texto del artículo 38 reformado.
+
+D.O.F. 3 DE ABRIL DE 1995.
+
+UNICO.- La presente reforma entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
