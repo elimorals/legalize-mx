@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-contaduria-general-de-glosa-6007"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-07-28"
-last_updated: "1986-07-28"
+last_updated: "2003-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN, PUBLICADO EN EL PERIODICO OFICIAL EL 28 DE MARZO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 28 de julio de 1986.
 
@@ -314,3 +316,31 @@ DIPUTADO PRESIDENTE.- RAFAEL MELGOZA RADILLO.- DIPUTADO SECRETARIO.- PROFR. JOSE
 En cumplimiento a lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán, a los 18 dieciocho días del mes de junio de 1986, mil novecientos ochenta y seis.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO.- LIC. LEONEL GODOY RANGEL.- (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 28 DE MARZO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el primero de abril del año 2003, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las cuentas públicas de las entidades correspondientes al año fiscal del 2002 y anteriores, se substanciarán conforme a la Ley Orgánica de la Contaduría General de Glosa.
+
+###### ARTÍCULO TERCERO.
+
+Toda referencia a la Contaduría General de Glosa, Contaduría General o Contaduría, hecha en cualquier ordenamiento del Estado de Michoacán de Ocampo, se entenderá referida a la Auditoriía (sic) Superior de Michoacán.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento Interior, se deberá expedir a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los manuales del sistema de seguimiento de calidad aplicable a la Auditoría Superior, se deberán expedir dentro de los seis meses siguientes a la fecha de rendición del diagnóstico de la Auditoría Superior, elaborado por la institución consultora que designe el Congreso, a propuesta de la Comisión, que deberá ser presentada en un plazo de tres meses siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley Orgánica de la Contaduría General de Glosa, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 28 de julio de 1986, y sus reformas.
