@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agentes-de-seguros-y-de-fianzas-21196"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-18"
-last_updated: "2001-05-18"
+last_updated: "2002-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DE AGENTES DE SEGUROS Y DE FIANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2002.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el viernes 18 de mayo de 2001.
 
@@ -69,21 +69,27 @@ XI.- Actividades de intermediación, las que realicen los agentes o los apoderad
 
 Las actividades de intermediación que pueden realizar los agentes y apoderados, consistirán en el intercambio de propuestas y aceptación de las mismas, comercialización y asesoramiento para la celebración de contratos de seguros o de fianzas, su conservación o modificación, renovación o cancelación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 3o.
 
-Los agentes, los apoderados y las actividades de intermediación, se sujetarán a lo dispuesto por las Leyes de Seguros y de Fianzas, las demás leyes aplicables, las disposiciones generales que de ellas emanen y por el presente Reglamento; así como a la inspección y vigilancia de la Comisión.
+Los agentes, los apoderados y las actividades de intermediación, se sujetarán a lo dispuesto por las Leyes de Seguros y de Fianzas, las demás leyes aplicables, las disposiciones generales que de ellas emanen, por el presente Reglamento y las orientaciones de política general que en materia aseguradora o de fianzas, según corresponda, señale la Secretaría mediante reglas de carácter general; así como a la inspección y vigilancia de la Comisión.
 
 Los agentes y los apoderados, estarán obligados a recibir las visitas de inspección de la Comisión, a proporcionar a ésta y a la Secretaría la información en la forma y términos que se les solicite y atender a sus requerimientos.
 
-Las cuentas que deban llevar los agentes se ajustarán estrictamente al catálogo que al efecto autorice la Comisión, la que señalará los modelos de registro y auxiliares correspondientes.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+Las cuentas que deban llevar los agentes personas morales se ajustarán estrictamente al catálogo que al efecto autorice la Comisión, la que señalará los modelos de registro y auxiliares correspondientes.
 
 ###### ARTÍCULO 4o.
 
 La Secretaría será el órgano competente para interpretar y resolver para efectos administrativos las disposiciones de este Reglamento y su aplicación corresponderá a la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 5o.
 
-Los agentes y apoderados de seguros deberán informar a quien pretenda contratar un seguro, en escrito firmado por ellos, por lo menos de lo siguiente:
+Los agentes y apoderados de seguros deberán informar a quien pretenda contratar un seguro por lo menos de lo siguiente:
 
 I.- Su nombre completo, tipo de autorización, número y vigencia de su cédula, así como el domicilio donde realiza sus actividades y, en el caso de los apoderados de seguros, la denominación de la persona moral que representen;
 
@@ -101,9 +107,11 @@ Los agentes y apoderados de seguros, en el ejercicio de las actividades de inter
 
 Los agentes y apoderados de seguros, proporcionarán a las Aseguradoras la información auténtica que sea de su conocimiento, relativa al riesgo cuya cobertura se proponga, a fin de que las mismas puedan formar un juicio sobre sus características y fijar conforme a las normas respectivas, las condiciones y primas adecuadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 7o.
 
-Los agentes y apoderados de fianzas deberán informar a quien pretenda contratar una fianza, en escrito firmado por ellos, por lo menos de lo siguiente:
+Los agentes y apoderados de fianzas deberán informar a quien pretenda contratar una fianza, por lo menos de lo siguiente:
 
 I.- Su nombre completo, tipo de autorización, número y vigencia de su cédula, así como el domicilio donde realiza sus actividades y, en el caso de los apoderados de fianzas, la denominación de la persona moral que represente;
 
@@ -129,9 +137,11 @@ Los agentes y apoderados de fianzas, proporcionarán a las Afianzadoras la infor
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIZACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 9o.
 
-Para actuar como agente o apoderado, se requerirá autorización de la Comisión, quien la otorgará o negará discrecionalmente. Esta autorización tendrá el carácter de intransferible y podrá otorgarse para realizar actividades de intermediación en las operaciones, ramos y subramos que determine la propia Comisión.
+Para actuar como agente o apoderado, se requerirá autorización de la Comisión, la cual tendrá el carácter de intransferible y podrá otorgarse para realizar actividades de intermediación en las operaciones y ramos, en el caso de seguros, y en los ramos y subramos, en el caso de fianzas, que determine la propia Comisión.
 
 Las autorizaciones que otorgue la Comisión a personas morales, se harán constar en oficio que expida la Comisión y en cédula las que otorgue a agentes personas físicas o apoderados.
 
@@ -181,19 +191,25 @@ b).- Gobiernos o dependencias oficiales extranjeros, ni entidades financieras de
 
 c).- Sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras;
 
-d).- Las personas físicas o morales propietarias de acciones de una institución de seguros o de fianzas, salvo que inviertan por conducto de sociedades de inversión o de fideicomisos constituidos para ese único fin en instituciones de crédito y en casas de bolsa;
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+d).- Las personas físicas o morales propietarias de acciones de una institución de seguros o de fianzas, salvo que inviertan por conducto de sociedades de inversión o de fideicomisos constituidos para ese único fin;
 
 e).- Las personas que se ubiquen en alguno de los supuestos de impedimentos para ser agente establecidos en las fracciones IV, V, X y XI del artículo 13 de este Reglamento, y
 
 f).- Los agentes, apoderados o accionistas de agentes personas morales, autorizados para intermediar en seguros de pensiones derivados de las leyes de seguridad social, con una Aseguradora distinta a la que preste estos servicios la propia sociedad;
 
-VI.- En sus estatutos sociales se deberá especificar las operaciones, ramos y subramos que pretendan intermediar y para el caso de los seguros de pensiones derivados de las leyes de seguridad social, se establecerá que sólo podrán intermediar con una Aseguradora;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+VI.- En sus estatutos sociales se deberá especificar las operaciones y ramos, en el caso de seguros, y los ramos y subramos, en el caso de fianzas, que pretendan intermediar y para el caso de los seguros de pensiones derivados de las leyes de seguridad social, se establecerá que sólo podrán intermediar con una Aseguradora;
 
 VII.- El número de sus administradores no será inferior a tres, y
 
-VIII.- El número de sus apoderados no podrá ser inferior a tres, los cuales deberán contar con autorización para realizar actividades de intermediación en las operaciones, ramos y subramos que tenga autorizados la sociedad.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2002)</small>
 
-En los casos en que la sociedad establezca oficinas en otras localidades distintas a su domicilio social, deberá contar por lo menos con un apoderado en cada una de éstas, adicional al número de apoderados requerido en el párrafo anterior.
+VIII.- Deberán tener apoderados que cuenten con autorización de la Comisión para realizar de manera conjunta o individual, todas las actividades de intermediación, en las operaciones y ramos, en el caso de seguros, y en los ramos y subramos, en el caso de fianzas, que tenga autorizados la sociedad.
+
+En los casos en que la sociedad establezca oficinas en otras localidades distintas a su domicilio social, deberá contar por lo menos con un apoderado en cada una de éstas.
 
 La Comisión podrá acordar que se proceda a la remoción o suspensión de los miembros del Consejo de Administración, Comisarios, Directores, Gerentes, Representantes Legales y Funcionarios que puedan obligar con su firma a la sociedad, cuando considere que tales designaciones no corresponden a personas con la suficiente calidad moral o técnica para la adecuada administración y vigilancia de la sociedad, oyendo previamente a ésta, a través de su representante legal, así como al interesado.
 
@@ -271,9 +287,15 @@ Los agentes podrán intermediar en la contratación de seguros o de fianzas para
 
 En el desempeño de sus actividades, las personas a que se refiere el párrafo anterior, obrarán libremente, sin sujeción a directrices, instrucciones o normas de las Instituciones y no tendrán obligación alguna de intermediar en un número determinado de seguros o de fianzas, ni dedicar determinado tiempo a sus actividades de intermediación. No tendrán más restricciones que las establecidas en el contrato mercantil respectivo, en las Leyes de Seguros y de Fianzas, en el presente Reglamento y las demás disposiciones administrativas dictadas por la Secretaría y la Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 20.
 
-La Comisión podrá autorizar de manera provisional, por única vez y por un plazo máximo de dieciocho meses, para actuar como agentes independientes, a las personas físicas que se encuentren en capacitación por parte de las Instituciones, siempre que estas últimas así lo soliciten, responsabilizándose por los daños que causen a terceros en el desempeño de las actividades de intermediación que realicen. Para tal efecto, estas personas deberán reunir los requisitos a que se refieren las fracciones I a IV del artículo 10 de este Reglamento, y la autorización correspondiente se deberá hacer constar en una cédula provisional que contendrá, en lo conducente los requisitos mencionados en el artículo 14 de este Reglamento, debiéndose observar lo señalado en el artículo 13 del mismo.
+La Comisión podrá autorizar de manera provisional, por única vez y por un plazo máximo de dieciocho meses, para actuar como agentes, a las personas físicas que se encuentren en capacitación por parte de las Instituciones, siempre que estas últimas así lo soliciten, responsabilizándose por los daños que causen a terceros en el desempeño de las actividades de intermediación que realicen. Para tal efecto, estas personas deberán reunir los requisitos a que se refieren las fracciones I a IV del artículo 10 de este Reglamento, y la autorización correspondiente se deberá hacer constar en oficio que emita la Comisión. La Institución solicitante tendrá la obligación de expedir al agente una identificación provisional que contendrá, en lo conducente los requisitos mencionados en el artículo 14 de este Reglamento, debiéndose observar lo señalado en el artículo 13 del mismo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+Las autorizaciones a que se refiere este artículo podrán limitarse a una o varias operaciones o ramos y subramos, según corresponda, y dentro de ellos, a coberturas o planes, y sólo facultarán a las personas autorizadas a que actúen para la Institución a cuyo cargo esté su capacitación.
 
 Cuando la conducta de estas personas se ubique en cualesquiera de las causales contempladas en los artículos 30 y 31 de este Reglamento, la Comisión procederá a revocar la autorización provisional otorgada.
 
@@ -357,9 +379,17 @@ Al imponer la sanción que corresponda, la Comisión deberá oír previamente al
 
 La aplicación de las sanciones a que se refiere este artículo se hará con independencia de las de orden penal que llegaren a determinar las autoridades competentes y de las responsabilidades de carácter civil en que hubiere incurrido el infractor.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO 28.
 
-Se sancionará con amonestación escrita a los agentes personas físicas o apoderados que incumplan con lo establecido en las fracciones I y III del artículo 5o. y las fracciones I y II del artículo 7o. de este Reglamento, según corresponda. La imposición de tres amonestaciones escritas en un período de trescientos sesenta días naturales, tendrá como consecuencia la suspensión de los agentes personas físicas o apoderados, de treinta a sesenta días naturales para desempeñar actividades de intermediación.
+Se sancionará con amonestación escrita:
+
+I.- A los agentes personas físicas o apoderados que incumplan con lo establecido en las fracciones I y III del artículo 5o. y las fracciones I y II del artículo 7o. de este Reglamento, según corresponda, y
+
+II.- A los agentes que por primera ocasión omitan informar a la Comisión y a los asegurados del establecimiento, cambio de ubicación o clausura de sus oficinas en términos de los artículos 23 último párrafo de la Ley de Seguros y 88 de la Ley de Fianzas, o bien, omitan dar cumplimiento a lo previsto en el artículo 23 de este Reglamento.
+
+La imposición de tres amonestaciones escritas en un período de trescientos sesenta días naturales, tendrá como consecuencia la suspensión de los agentes personas físicas o apoderados, de treinta a sesenta días naturales para desempeñar actividades de intermediación.
 
 ###### ARTÍCULO 29.
 
@@ -379,7 +409,9 @@ I.- Declaren falsamente cualquier dato de los consignados en la solicitud presen
 
 II.- Requieran del solicitante, contratante, asegurado, fiado, obligado solidario o beneficiario, cualquier prestación que no se encuentre legalmente justificada, aun cuando no se llegue a recibir;
 
-III.- Omitan informar por escrito a los proponentes conforme a lo dispuesto por los artículos 5o. y 7o. de este Reglamento, según corresponda;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+III.- Omitan informar a los proponentes conforme a lo dispuesto por los artículos 5o. y 7o. de este Reglamento, según corresponda;
 
 IV.- Incumplan con lo establecido en alguna de las fracciones II, IV o V, del artículo 5o., o III a VIII, del artículo 7o., de este Reglamento;
 
@@ -457,9 +489,17 @@ V.- Transcurrido el término establecido en la fracción III, de este artículo,
 
 La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para conocer con precisión los hechos que hayan motivado el procedimiento. Para tal efecto, podrá valerse de cualquier persona o documento, ya sea que pertenezca al quejoso, al probable infractor o a persona ajena al procedimiento, sin más limitaciones que las de que las pruebas no estén prohibidas por la ley y tengan relación inmediata con los hechos controvertidos.
 
-Desahogadas las pruebas y con los elementos que, en su caso, se hubiera allegado la Comisión, se resolverá sobre la inexistencia de la infracción o imponiendo al agente o apoderado la sanción correspondiente, y se le notificará la resolución al interesado, y
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2002)</small>
 
-VI.- Si de la contestación se advierten nuevos elementos que impliquen otras infracciones a cargo del agente o apoderado o de otras personas, se acordará la iniciación de otro procedimiento y, en su caso, podrá disponerse previamente la práctica de investigaciones.
+Desahogadas las pruebas y con los elementos que, en su caso, se hubiera allegado la Comisión, se resolverá sobre la inexistencia de la infracción o imponiendo al agente o apoderado la sanción correspondiente, y se le notificará la resolución al interesado;
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+VI.- Si de la contestación se advierten nuevos elementos que impliquen otras infracciones a cargo del agente o apoderado o de otras personas, se acordará la iniciación de otro procedimiento y, en su caso, podrá disponerse previamente la práctica de investigaciones, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2002)</small>
+
+VII.- En caso de que durante el procedimiento previsto en este artículo terminara la vigencia de la autorización del agente o apoderado o se cancelara su cédula, el procedimiento se suspenderá y deberá reanudarse cuando el agente o apoderado obtenga nueva autorización.
 
 ###### ARTÍCULO 35.
 
@@ -513,9 +553,11 @@ Lo dispuesto en la fracción IV del artículo 10 de este Reglamento, entrará en
 
 A las personas que hayan tenido autorización como agente persona física o apoderado con anterioridad a la entrada en vigor de este Reglamento, no les será exigible el nivel de estudios establecido en el artículo 10, fracción IV, para efectos de la obtención de una nueva autorización.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2002)</small>
+
 ###### ARTÍCULO SEXTO.
 
-Para evaluar la capacidad técnica de las personas que soliciten la autorización como agentes personas físicas o apoderados y dar cumplimiento a lo dispuesto por la fracción V, del artículo 10, de este Reglamento, la Comisión aceptará las constancias previstas en la fracción II del artículo 7o., del Reglamento que se abroga, que hayan sido otorgadas dentro del plazo de trescientos sesenta y cinco días naturales contado a partir de la entrada en vigor de este Reglamento.
+Para evaluar la capacidad técnica de las personas que soliciten la autorización o su refrendo como agentes personas físicas o apoderados y dar cumplimiento a lo dispuesto por la fracción V, del artículo 10, de este Reglamento, la Comisión aceptará las constancias previstas en la fracción II del artículo 7o., del Reglamento que se abroga, que hayan sido otorgadas hasta el 31 de mayo de 2003.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -538,3 +580,9 @@ ARTÍCULO DECIMOPRIMERO.- Para efectos de garantizar el cumplimiento de las resp
 ARTÍCULO DECIMOSEGUNDO.- Las infracciones cometidas durante la vigencia del Reglamento que se abroga, serán sancionadas conforme a las disposiciones más favorables a los infractores, de entre las vigentes al cometerse dichas infracciones y las del presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE JUNIO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
