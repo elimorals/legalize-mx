@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1982-01-31"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
-Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 8 de miércoles octubre de 1980.
+Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos. II Legislatura Constitucional.
 
@@ -16609,15 +16609,15 @@ III.- Las fundaciones y asociaciones de beneficencia privada.
 
 ###### Artículo 3204.
 
-El Archivo General de Notarías se llevará en el Registro Público de la Propiedad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 ###### Artículo 3205.
 
-Los notarios y los jueces encargados de las notarías por receptoría en todo el Estado, sólo podrán conservar en su archivo, los libros del protocolo correspondiente a cinco años anteriores.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 ###### Artículo 3206.
 
-Cada año, los notarios y jueces a que se refiere el artículo anterior remitirán al Registro Público de la Propiedad, los libros que deben concentrarse en el Archivo General de Notarías, en los términos del artículo anterior, y quien infrinja esta disposición será sancionado por el Secretario de Gobierno, con multa hasta de cien días de salario mínimo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 DISPOSICION FINAL
 
@@ -16688,3 +16688,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrar (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
