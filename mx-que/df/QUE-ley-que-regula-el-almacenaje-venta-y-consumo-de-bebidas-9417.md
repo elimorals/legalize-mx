@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-y-consumo-de-bebidas-9417"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-31"
-last_updated: "1992-12-30"
+last_updated: "1994-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:.1° DE ENERO DE 1994.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 31 de Diciembre de 1991
 
@@ -59,9 +59,11 @@ ESTADO DE QUERETARO.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 1.
 
-La aplicación de esta ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, la Secretaría de Planeación y Finanzas, y la Secretaría de Educación.
+La aplicación de esta ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, y la Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 2.
 
@@ -149,7 +151,13 @@ En los restaurantes de acuerdo con su categoría podrá funcionar un anexo de ba
 
 Para determinar la categoría de un restaurante se tomará en cuenta; su ubicación, capital invertido, presentación y calidad del servicio principal.
 
-En los hoteles y moteles se podrán instalar como servicios complementarios, previa autorización, restaurantes con servicio de bar, los que quedarán sujetos a los requisitos y condiciones de esta ley.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
+En los Hoteles se podrán instalar como servicios complementarios, previa autorización, servibares en las habitaciones y restaurantes con servicio de bar, loa que quedarán sujetos a los requisitos y condiciones de esta ley.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+Podrán funcionar como anexo o servicio complementario de bar, en los establecimientos mencionados en el presente artículo, siempre y cuando se encuentren sus instalaciones debidamente separadas de su actividad principal y su funcionamiento sea independiente.
 
 ###### ARTICULO 15.
 
@@ -197,7 +205,9 @@ DE LAS LICENCIAS Y AUTORIZACIONES.
 
 Para los efectos de esta ley, se considera como:
 
-a).- LICENCIA DE OPERACION: El documento expedido por la Secretaría de Gobierno, que permita el almacenaje, venta y consumo de bebidas alcohólicas expedida a personas física o moral con el carácter de intransferible y para un domicilio específico e inamovible. Podrá cancelarse por infracciones a esta ley o a los reglamentos que de ella emanen o por así requerido el interés público.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
+a).- LICENCIA DE OPERACION: El documento expedido por la Secretaría de Gobierno, que permita el almacenaje, venta y consumo de bebidas alcohólicas expedida a personas física o moral con el carácter de intransferible para un giro y para un domicilio específico e inamovible. Podrá cancelarse por infracciones a esta ley o a los reglamentos que de ella emanen o por así requerido el interés público.
 
 b).- AUTORIZACION: El documento expedido con carácter provisional para persona física o moral específica, y en sitio inamovible; podrá ser revocado por violaciones a este ordenamiento o los reglamentos que de ella emanen o porque así lo requiera el interés público.
 
@@ -235,9 +245,11 @@ Satisfechos los requisitos del artículo anterior, el Ejecutivo del Estado discr
 
 El refrendo de las licencias a que se refiere esta ley se sujetará en lo conducente a las mismas disposiciones de su expedición.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 24.
 
-El refrendo de las licencias establecidas por esta Ley deberá tramitarse o solicitarse anualmente, durante el mes de Enero.
+El refrendo de las licencias establecidas por esta ley deberá tramitarse o solicitarse anualmente, de acuerdo al calendario que establezca la autoridad competente.
 
 ###### ARTICULO 25.
 
@@ -349,9 +361,25 @@ XVI.- Negarse a mostrar al personal autorizado la licencia o autorización corre
 
 XVII.- Obstaculizar o no permitir que se lleve a cabo la inspección ordenada por la autoridad competente.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
 
-XVIII.- En general la inobservancia de cualquiera de las disposiciones de esta Ley y demás relativas en la materia.
+XVIII.- Permitir en el interior del establecimiento, consumir bebidas alcohólicas a menores de edad.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+XIX.- Incitar por cualquier tipo de propaganda, el consumo en exceso de bebidas alcohólicas.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+XX.- Si algún establecimiento que cuente con licencia para la venta de bebidas alcohólicas, sin causa justificada y sin la autorización correspondiente, deja de funcionar por más de sesenta días, es causa de la cancelación de la licencia respectiva.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+XXI.- No realizar el refrendo de la licencia en los términos y fechas que se establezcan en el calendario emitido por la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+XXII.- En general, la inobservancia de cualquiera de las disposiciones de esta ley y demás relativas en la materia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -359,13 +387,21 @@ XVIII.- En general la inobservancia de cualquiera de las disposiciones de esta L
 
 Las sanciones que se impondrán a los infractores de la presente ley, consistirán en:
 
-I.- Multa hasta por una cantidad equivalente a dos mil veces el salario mínimo correspondiente a la zona económica de la Capital de Estado.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
+
+I.- Multa hasta por una cantidad equivalente de cincuenta hasta cincuenta mil veces el salario mínimo correspondiente a la zona económica de la Capital de Estado.
 
 II.- Clausura;
 
 III.- Suspensión de la licencia o autorización;
 
-IV.- Revocación de la licencia o autorización.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
+
+IV.- Revocación o cancelación;
+
+ADICIONADA, P.O. 1 DE ENERO DE 1994)
+
+V.- Clausura temporal o definitiva del establecimiento.
 
 ###### ARTICULO 31.
 
@@ -419,11 +455,11 @@ La infracción a cualquiera de las disposiciones del articulo anterior dará lug
 
 Se entiende por clandestinaje, el almacenaje, distribución, venta y consumo de bebidas alcohólicas en los establecimientos y lugares que no cuenten con la licencia o autorización correspondiente.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 37.
 
-Independientemente de la sanción que en términos de esta Ley corresponda al clandestinaje, se procederá de inmediato al decomiso del producto, el cual servirá como garantía de interés fiscal.
+Independientemente de la sanción que en términos de esta Ley corresponda al clandestinaje, se procederá de inmediato a retener el producto, como garantía del crédito que se origine con motivo de la infracción.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -490,3 +526,23 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se oponga a la presente Ley.
+
+P.O. 1 DE ENERO DE 1994
+
+PRIMERO.- Esta Ley entrará en vigor del día primero de enero de 1994.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los servicios prestados por el Registro Público de la Propiedad, a las viviendas de interés social o popular, relativo a la inscripción de compra-venta de inmuebles y constitución de hipoteca, se causarán cuatro días de salario mínimo, en lugar de lo establecido en el artículo 188 de la Ley General de Hacienda del Estado.
+
+CUARTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los derechos establecidos en los artículos 189 al 205 de la Ley General de Hacienda del Estado, tratándose de inmuebles de interés social o popular causarán un 50% del valor establecido.
+
+QUINTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, para los efectos del artículo 209 de la Ley General de Hacienda del Estado, los derechos por la expedición de constancias para vivienda de interés social o popular expedida por la Dirección de Catastro, causará un día de salario mínimo.
+
+SEXTO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, los inmuebles adquiridos por las asociaciones religiosas estarán exentas del impuesto por las operaciones de traslado e dominio y otras operaciones inmobiliarias contempladas en la Ley General de Hacienda de los Municipios.
+
+> <small>(F. DE E., P.O. 28 DE ABRIL DE 1994)</small>
+
+SÉPTIMO.- Sólo y exclusivamente para el ejercicio fiscal de 1994, en las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en la Ley General de Hacienda de los Municipios, se concederá una deducción de 15 veces el salario mínimo general vigente elevado al año, en la base del impuesto de los inmuebles de interés social o popular, en favor del primer adquirente de los inmuebles.
+
+OCTAVO.- Para los efectos de las Leyes Generales de Hacienda del Estado así como la de los Municipios, se consideran inmuebles de interés social, aquellos cuyo valor total no excede de quince veces el salario mínimo general vigente elevado al año, y popular aquellos cuyo valor total no excedan de veinticinco veces el salario mínimo vigente elevado al año.
