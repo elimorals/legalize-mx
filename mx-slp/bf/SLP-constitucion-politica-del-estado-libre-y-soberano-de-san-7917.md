@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1918-01-02"
+last_updated: "1923-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1923.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -77,9 +77,7 @@ Del Estado, su forma de Gobierno y División de Poderes.
 
 De su régimen interior.
 
-###### Artículo 13º.
-
-El Estado de San Luis Potosí, es parte integrante de la Federación Mexicana. Este adopta, para su régimen interior, la forma de Gobierno Republicano, Representativo, Popular; y se ejerce por medio de los poderes, Legislativo, Ejecutivo y Judicial; sin que puedan reunirse dos o más de éstos en una sola corporación o persona, ni el Legislativo en un solo individuo.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
 
 ###### Artículo 6º.
 
@@ -171,13 +169,23 @@ II.- Por servir oficialmente al Gobierno de otro país, o admitir de él condeco
 
 III.- Por comprometerse en cualquier forma ante ministros de algún culto o ante cualquier otra persona, a nó observar la presente Constitución o las Leyes que de ella emanen.
 
+###### Artículo 13°.
+
+El Estado de San Luis Potosí, es parte integrante de la Federación Mexicana. Este adopta, para su régimen interior, la forma de Gobierno Republicano, Representativo, Popular, el cual se ejerce por medio de los Poderes Legislativo, Ejecutivo y Judicial, reservándose el pueblo el derecho de ejercer por sí mismo las funciones Legislativas en los casos señalados por esta Constitución. Nunca podrán reunirse dos o más poderes en una sola corporación o persona, ni el Legislativo en un solo individuo.
+
+El Pueblo del Estado tiene en todo tiempo la facultad de revocar cualquier nombramiento o cargo de elección popular directa o indirecta. Para este caso, entre la iniciativa y la votación, deberá mediar un período de seis meses cuando menos, si se tratare del Gobernador del Estado o de alguno de los ciudadanos Diputados, y de dos, si se tratare de algún otro funcionario.
+
+Una Ley reglamentará la forma y términos en que pueda ejercitarse este derecho.
+
 #### SECCION II.
 
 Del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
+
 ###### Artículo 14º.
 
-El Poder Legislativo será ejercido por una Asamblea de Diputados que se denominará: CONGRESO DEL ESTADO.
+El Poder Legislativo será ejercido por una Asamblea de Diputados que se denominará el Congreso del Estado. El Pueblo se reserva el derecho de proponer y expedir en los comicios una Ley cuando, propuesta por alguna de las personas a que se refiere el artículo 32, no haya sido aprobada por la Cámara y de rechazar allí las aprobadas por el Congreso. Para que el Pueblo pueda expedir por sí mismo una Ley, sin intervención del Congreso, será necesaria una mayoría dentro de las dos terceras partes de los ciudadanos del Estado que sepan leer y escribir, los cuales exclusivamente serán los que en este caso tengan derecho a votar. Una Ley reglamentará la forma en que el Pueblo pueda ejercer este derecho.
 
 De la elección y cualidades de los Diputados.
 
@@ -363,9 +371,13 @@ XI.- Acordar la citación de los Suplentes en caso de muerte o imposibilidad per
 
 De la Iniciativa y formación de las Leyes.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
+
 ###### Artículo 32º.
 
-El derecho de iniciar Leyes corresponde a los Diputados en ejercicio y al Gobernador del Estado; al Tribunal de Justicia, en asuntos de su ramo y a los Ayuntamientos en los de su inspección.
+El derecho de iniciar Leyes ante el Congreso corresponde a los ciudadanos potosinos cuando lo ejerzan en grupo no menor de cien, a los Diputados en ejercicio y al Gobernador del Estado; al Tribunal de Justicia en asuntos de su ramo y a los Ayuntamientos en los de su jurisdicción.
+
+El derecho de iniciar Leyes para ser sometidas al voto popular en los casos en que, conforme al artículo 14, puede el pueblo legislar directamente, corresponde a los ciudadanos potosinos cuando lo ejerza el cinco por ciento de los votantes; a los Diputados en ejercicio cuando subscriban la iniciativa la tercera parte de ellos; al Gobernador del Estado; al Tribunal de Justicia en asuntos de su ramo, y a los Ayuntamientos en los de su jurisdicción, cuando la iniciativa provenga de tres de ellos.
 
 ###### Artículo 33º.
 
@@ -395,19 +407,21 @@ Si el Gobierno hace observaciones a la Ley, volverá el Congreso a discutirla, y
 
 Toda Ley devuelta por el Ejecutivo, con observaciones, necesita para su aprobación las dos terceras partes de los Diputados presentes; y en este caso, se remitirá nuevamente al Ejecutivo, para que sin más trámites la publique.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
+
 ###### Artículo 40º.
 
-La suspensión y derogación de las Leyes, se hará con los mismos requisitos y formalidades que se necesitan para su formación.
+La suspensión y derogación de las Leyes se hará con los mismos requisitos y formalidades que se necesitan para su formación. El Congreso no podrá suspender ni derogar las Leyes expedidas directamente por el Pueblo, sino después de cinco años de dictadas; pero el Pueblo sí podrá hacerlo con las que expida el Congreso, de acuerdo con el artículo 14.
 
 ###### Artículo 41º.
 
 Toda resolución del Congreso no tendrá otro carácter que el de Ley o acuerdo económico.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
+
 ###### Artículo 42º.
 
-La Leyes se publicarán bajo la siguiente fórmula:- "NN, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes, sabed: Que el Congreso del mismo ha decretado lo siguiente: (aquí el texto). Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.- Fecha y firmas del Presidente y Secretarios del Congreso.
-
-Por tanto, mando se cumpla y ejecute el presente Decreto, y que todas las autoridades lo hagan cumplir y guardar; y al efecto se imprima, publique y circule a quienes corresponda". Fecha y firmas del Gobernador y Secretario.
+Las Leyes se publicarán bajo la siguiente forma:- "N. N., Gobernador del Estado Libre y Soberano de San Luis Potosí, a sus habitantes, sabed: -Que el Congreso del mismo (o el Pueblo Potosino) ha decretado lo siguiente: (aquí el texto). Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer. Fecha y firma del Presidente y Secretarios del Congreso o de las personas que, conforme a la Ley reglamentaria, deban autorizar los decretos expedidos por el Pueblo. Por tanto, mando se cumpla y ejecute el presente decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda. Fecha y firmas del Gobernador y Secretario de Gobierno.
 
 ###### Artículo 43º.
 
@@ -618,6 +632,10 @@ V.- Impedir ni entorpecer las eleccciones (sic) populares determinadas por la Co
 VI.- Distraer los caudales públicos, de los objetos a que estén destinados por la Ley.
 
 VII.- Hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o de Gran Jurado, lo mismo que cuando declare que debe acusarse a uno de los funcionarios públicos que gocen de fuero.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1923)</small>
+
+VIII.- Hacer observaciones a las leyes dictadas por el Pueblo sin intervención del Congreso.
 
 #### SECCION VIII.
 
@@ -883,13 +901,19 @@ La presente Constitución no perderá su fuerza ni vigor aún cuando por alguna 
 
 De las Reformas a la Constitución.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
+
 ###### Artículo 112º.
 
-Los Funcionarios que, según el Artículo 32 de esta Constitución, tienen derecho de iniciativa, lo tienen iguaImente de iniciar las Reformas de esta Constitución.
+Las mismas personas que, según el artículo 32 de esta Constitución tienen derecho de iniciativa, lo tienen igualmente para iniciar las reformas a esta misma Constitución.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1923)</small>
 
 ###### Artículo 113º.
 
-Si las iniciativas de reforma fueren admitidas por el Congreso, se publicarán por la prensa, y en el siguiente período de sesiones ordinarias el Congreso deliberará sobre ellas, exigiéndose para su aprobación el voto de las dos terceras partes del número total de Diputados, y para que se sancionen por el Ejecutivo, el voto de las tres cuartas partes del numero total de los Ayuntamientos del Estado.
+Si las iniciativas de reformas fueren admitidas por el Congreso, se publicarán por la prensa, y en el siguiente período de sesiones ordinarias, el Congreso deliberará sobre ellas, exigiéndose para su aprobación el voto de las dos terceras partes del número total de Diputados, y para que se sancionen por el Ejecutivo, el voto de las tres cuartas partes del número total de los Ayuntamientos del Estado.
+
+Cuando las iniciativas de reformas deban ser votadas por el Pueblo por haber sido rechazadas anteriormente por el Congreso, se publicarán desde luego. En las elecciones que se verifiquen después de noventa días de la publicación, se someterán al voto del pueblo y, si fueren aprobadas, serán sancionadas por el Ejecutivo sin la intervención de los Ayuntamientos.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -920,3 +944,9 @@ J. BARRAGAN.
 El Srio. General de Gobierno,
 
 JOSE GONZALEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 26 DE MARZO DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
