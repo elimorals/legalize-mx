@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-de-proteccion-ciudadana-del-estado-2804"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-01"
-last_updated: "1998-07-12"
+last_updated: "2000-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA DE PROTECCION CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2000.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 1 de mayo de 1994.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 1 de mayo de 1994.
 
 OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -139,15 +139,21 @@ Procurador de Protección Ciudadana
 
 El Procurador de Protección Ciudadana deberá de reunir para su designación los requisitos siguientes:
 
-I.- Ser ciudadano mexicano y nacido en Aguascalientes, en pleno ejercicio de sus derechos políticos y civiles, con una residencia en el Estado no menor a cinco años anteriores la fecha de su nombramiento.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2000)</small>
 
-II.- Poseer, a la fecha de su nombramiento, título profesional legalmente expedido, que lo acredite como licenciado en Derecho y con una experiencia profesional de por lo menos cinco años.
+I.- Ser mexicano en pleno ejercicio de sus derechos políticos y civiles, con una residencia en el Estado no menor a cinco anos anteriores a la fecha de su nombramiento.
+
+II.- (DEROGADA, P.O. 24 DE JULIO DE 2000)
 
 III.- No desempeñar ningún cargo o empleo público al momento de asumir el cargo, con excepción hecha de los de carácter docente.
 
 IV.- Gozar de elevado prestigio profesional y personal.
 
 V.- No haber sido condenado por delito intencional.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2000)</small>
+
+VI.- No haber sido presidente de un partido político no de organización política en los tres años anteriores a la designación.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 1998)</small>
 
@@ -161,11 +167,11 @@ El Procurador de Protección Ciudadana será designado por el H. Congreso del Es
 
 El Procurador de Protección Ciudadana durará en sus funciones tres años y podrá ser designado nuevamente para un segundo período, exclusivamente.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 12.
 
-Sólo previa declaración de procedencia del H. Congreso del Estado, el Procurador de Protección Ciudadana, el Secretario General y el Visitador podrán ser detenidos o sujetos de responsabilidad penal o administrativa, de conformidad con la legislación aplicable, por las opiniones y recomendaciones que formulen o por los actos que realicen, en ejercicio de las funciones propias de sus cargos que les asigna esta Ley.
+El Procurador de Protección Ciudadana, el Secretario General y el Visitador, podrán emitir las opiniones y recomendaciones necesarias, y realizar todos los actos en ejercicio de las funciones propias de sus cargos que les asigna esta Ley.
 
 ###### ARTICULO 13.
 
@@ -199,17 +205,11 @@ Tanto el Procurador, como el Secretario General y el Visitador, gozarán de fé 
 
 del Consejo
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 15.
 
-.- El Consejo a que se refiere el Artículo 6º. de esta Ley, estará integrado por el Procurador de Protección Ciudadana, el Secretario General y cinco personas que gocen de reconocimiento prestigiado en la sociedad, mexicanos nacidos en Aguascalientes, en pleno ejercicio de sus derechos ciudadanos, mismos que serán invitados para tal efecto por el Ejecutivo Estatal, por conducto de la Procuraduría de Protección Ciudadana, los que no deberán desempeñar ningún cargo o comisión como servidores públicos; ni ser dirigente de algún partido político, ni de organizaciones vinculadas a actividades políticas.
-
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 1998)</small>
-
-El Consejo sesionará por lo menos una vez al mes.
-
-El Procurador de Protección Ciudadana fungirá como Presidente del Consejo y como su Secretario Técnico fungirá el Secretario General de la misma, los cargos de los demás miembros del Consejo serán honorarios.
-
-Con excepción de su Presidente y Secretario Técnico, cada año deberá ser sustituido el miembro del Consejo de mayor antigüedad.
+El Consejo a que se refiere el Articulo 6° de esta Ley, estará integrado por el Procurador de Protección Ciudadana, el Secretario General y cinco personas que gocen de reconocimiento prestigiado en la sociedad, que deben ser mexicanos, en pleno ejercicio de sus derechos ciudadanos, que se hayan significado por su interés y capacidad en la defensa, difusión y promoción de los derechos humanos, mismos que serán designados por el Procurador de Protección Ciudadana, y no deberán desempeñar ningún cargo o comisión como servidores públicos; ni ser presidente de algún partido político, ni de organizaciones vinculadas a actividades políticas.
 
 ###### ARTICULO 16.
 
@@ -233,17 +233,25 @@ Las sesiones extraordinarias podrán ser convocadas por el Procurador de Protecc
 
 del Secretario General
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2000)</small>
+
 ###### ARTICULO 18.
 
-El Secretario General deberá reunir para su designación, los siguientes requisitos:
+El Secretario General deberá reunir para su designación, los siguientes requisitos.
 
-I.- Ser mexicano en pleno ejercicio de sus derechos, nacido en Aguascalientes, con residencia en el Estado no menor de tres años a la fecha de su nombramiento.
+I.- Ser mexicano en pleno ejercicio de sus derechos, con residencia en el Estado no menor de tres años a la fecha de su nombramiento.
 
-II.- Poseer a la fecha de su nombramiento titulo profesional legalmente expedido que lo acredite como Licenciado en Derecho y tener tres años de ejercicio profesional cuando menos, a la fecha de su nombramiento.
+II.- Poseer a la fecha de su nombramiento título profesional legalmente expedido que lo acredite como Licenciado en Derecho y con antigüedad en el ejercicio profesional de cuatro años, y mostrada capacidad, conocimientos y experiencia en la defensa y difusión de los derechos humanos.
 
-III.- Gozar de prestigio profesional y buena reputación.
+III.- Gozar de prestigio profesional, personal y buena reputación.
 
 IV.- Ser mayor de veinticinco años de edad, el día de su nombramiento.
+
+V.- No desempeñar ningún cargo o empleo público en el momento de asumir el cargo.
+
+VI.- No tener antecedentes penales por delitos intecionales (sic).
+
+VII.- No haber sido servidor público durante tres años anteriores a la fecha de la designación, reputándose como tales, los señalados en el Articulo 73 de la Constitución Política del Estado y en el Artículo 2° de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTICULO 19.
 
@@ -720,3 +728,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE JULIO DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2000.
+
+UNICO.- EL Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
