@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2000-06-26"
+last_updated: "2000-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,210 +19,322 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE ESTABLECEN LAS REGLAS EN MATERIA DE CERTIFICACION DE ORIGEN DE LA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA
+RESOLUCION EN MATERIA ADUANERA DE LA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA
 
-TEXTO ORIGINAL.
+Resolución publicada en la Segunda Sección del Diario Oficial del Federación, el viernes 30 de junio de 2000.
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de junio de 2000.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
+Con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal; 1o. y 144 fracciones XXIII y XXV de la Ley Aduanera; 1o. y 6o., fracción XXXIV del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, previa opinión de la Secretaría de Comercio y Fomento Industrial, y
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracción XXX de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
+Considerando
 
-CONSIDERANDO
+Que para facilitar las relaciones comerciales con la Comunidad Europea y sus Estados Miembros y fortalecer la producción y competitividad de la industria nacional, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que se aprobó por el Senado de la República el 23 de Abril de 1998 y se publicó en el Diario Oficial de la Federación el 31 de agosto de 1998.
 
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados miembros, con fecha 8 de diciembre de 1997 se suscribió el Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, mismo que se aprobó en el Senado de la República el 23 de abril de 1998 y se publicó en el Diario Oficial de la Federación el 31 de agosto de 1998;
+Que el 23 y 24 de febrero de 2000 el Consejo Conjunto del Acuerdo Interino adoptó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, que aprobó el Senado de la República el 20 de marzo de 2000 y se publicó en el Diario Oficial de la Federación el 26 de junio de 2000.
 
-Que el 23 y 24 de febrero de 2000, se firmó la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea, y que aprobó el Senado de la República el 20 de marzo de 2000, y con fecha de 6 de junio del mismo año, se público en el Diario Oficial de la Federación el Decreto de aprobación;
+Que el Título II de la Decisión denominado "Libre Circulación de Mercancías" establece disposiciones tendientes a eliminar las barreras arancelarias y no arancelarias al comercio de bienes entre los Estados Unidos Mexicanos y la Comunidad Europea y señala las reglas para determinar el trato preferencial aplicable a los bienes originarios de una de las Partes que se importen a territorio de la otra Parte.
 
-Que el Título II de la Decisión, denominado "Libre Circulación de Bienes" establece disposiciones con el fin de eliminar, y evitar en el futuro, las barreras arancelarias y no arancelarias al intercambio comercial de bienes entre México y la Comunidad Europea, y los requisitos que deberá cumplir un bien para considerarse originario, así como para su certificación y verificación, y
+Que la Decisión, en su Anexo III, denominado "Definición del Concepto de Productos Originarios y Procedimientos de Cooperación Administrativa" establece los requisitos que deberá cumplir un bien para considerarse originario de los Estados Unidos Mexicanos o de la Comunidad Europea y las disposiciones de certificación de origen, que constituyen la condición fundamental para el aprovechamiento del trato preferencial.
 
-Que toda vez que resulta conveniente establecer normas claras y procedimientos generales que garanticen la aplicación de las disposiciones comerciales, en especial las que se refieren a las pruebas de origen señaladas en el anexo III de la Decisión de referencia, he tenido a bien expedir el siguiente
+Que los artículos 1o. y 144 fracciones XXIII y XXV de la Ley Aduanera prevén el establecimiento de reglas generales para la aplicación de las disposiciones en materia aduanera de los tratados o acuerdos internacionales de los que nuestro país sea Parte, por lo que esta Secretaría resuelve expedir la siguiente:
 
-ACUERDO POR EL QUE SE ESTABLECEN LAS REGLAS EN MATERIA DE CERTIFICACION DE ORIGEN DE LA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA
+RESOLUCION EN MATERIA ADUANERA DE LA DECISION 2/2000 DEL CONSEJO CONJUNTO DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA COMUNIDAD EUROPEA.
 
-## TITULO I. DISPOSICIONES GENERALES
+1. DISPOSICIONES GENERALES
 
-1. El presente Acuerdo tiene por objeto establecer las reglas de aplicación y administración relativas al capítulo I y II del título II de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea.
+1.1. Para los efectos de la presente Resolución, serán aplicables las definiciones del Anexo III de la Decisión. Salvo disposición en contrario, se entenderá por:
 
-2. Para los efectos de este Acuerdo, salvo disposición en contrario, se entenderá por:
+A. “Certificado”, el Certificado de Circulación EUR.1 de conformidad con lo dispuesto en el Anexo III de la Decisión, en la presente Resolución y su Anexo 1.
 
-a) “Comunidad”, la Comunidad Europea;
+B. "Decisión", la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea.
 
-b) “Decisión”, la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea;
+C. “Declaración en factura”, la declaración de conformidad con lo dispuesto por el Anexo III de la Decisión y en la presente Resolución.
 
-c) “envío”, los productos que se envían ya sea, simultáneamente por un exportador a un destinatario o al amparo de un documento único de transporte que cubra su envío del exportador al destinatario o en ausencia de tal documento, al amparo de una factura única, y
+D. “trato preferencial”, la aplicación de la tasa arancelaria correspondiente a un producto originario de conformidad con el Anexo II (Calendario de Desgravación Arancelaria de México) de la Decisión.
 
-d) “Secretaría”, la Secretaría de Comercio y Fomento Industrial.
+1.2. De conformidad con lo dispuesto en la presente Resolución, se podrá aplicar el trato preferencial a los productos importados a territorio nacional que califiquen como productos originarios, que sean transportados directamente del territorio de la Comunidad Europea a territorio nacional y cumplan con las demás disposiciones de la Decisión y de la presente Resolución.
 
-## TITULO II. COMERCIO DE BIENES
+1.3. No obstante lo dispuesto en la regla 1.2. de esta Resolución, los productos que constituyan un envío único podrán ser transportados bajo el régimen aduanero de tránsito internacional o podrán permanecer en depósito temporal ante la aduana en países distintos de las Partes, cuando sea necesario, siempre que permanezcan bajo la vigilancia de las autoridades aduaneras del país de tránsito o de depósito y no hayan sido sometidos a operaciones distintas de las de carga, descarga o cualquier otra destinada a mantenerlos en buen estado.
 
-### Capítulo I. Pruebas de origen
+Para tales efectos, el importador deberá contar con la documentación necesaria para comprobar que se cumplió con lo dispuesto en esta regla y deberá presentarla a las autoridades aduaneras, en caso de ser requerido. La documentación comprobatoria puede incluir alguno de los siguientes documentos:
 
-3. De conformidad con el artículo 15 del anexo III de la Decisión y a efecto de que la Comunidad aplique el arancel aduanero sobre la importación de productos originarios de México conforme al anexo I (Calendario de Desgravación de la Comunidad) de la Decisión, el exportador deberá suministrar una prueba de origen al destinatario en la forma de un certificado de circulación de mercancías EUR.1, cuyo modelo figura en el apéndice III del anexo III de la Decisión, o de una declaración en factura, cuyo texto figura en el apéndice IV del anexo III de la Decisión, salvo en las situaciones señaladas en el artículo 25 del anexo III de la Decisión, en cuyo caso no será necesario la presentación de las pruebas de origen a que hacen referencia la presente regla.
+A. El documento único de transporte al amparo del cual se haya efectuado el transporte de los productos desde algún Estado Miembro de la Comunidad Europea a través del país de tránsito hasta su llegada al territorio nacional.
 
-4. Los certificados de circulación EUR.1 o el carácter de exportador autorizado para emitir una declaración en factura conforme al artículo 20(1)(a) del anexo III de la Decisión serán expedidos por la Secretaría a petición de los exportadores ubicados en México, siempre que cumplan con lo dispuesto en el anexo III de la Decisión y con los demás requisitos señalados en el presente Acuerdo.
+B. El certificado expedido por las autoridades aduaneras del país de tránsito que contenga la siguiente información:
 
-5. Para efectos de lo dispuesto en la regla 4 y el artículo 16(3) y 20 (3) del anexo III de la Decisión, los exportadores cuya mercancía cumpla con el carácter de originario conforme a la Decisión y requieran la expedición de un certificado de circulación EUR.1 u obtener el carácter de exportador autorizado, deberán llenar, firmar y presentar ante la Secretaría un “Cuestionario para la obtención del certificado de circulación EUR.1 o la concesión del carácter de exportador autorizado” (en lo sucesivo “el cuestionario”) que se incluye en el anexo 1 del presente Acuerdo. El formato del cuestionario será de libre reproducción.
+1. La descripción de los productos.
 
-6. No obstante lo dispuesto en la regla 5 y conforme al artículo 20(1)(b) del anexo III de la Decisión, los exportadores podrán extender una declaración en factura, sin necesidad de llenar el cuestionario a que hace referencia la regla 6, en caso de que el valor total del envío constituido por uno o varios bultos de productos originarios no supere los 6,000 euros o en caso de estar facturado en moneda nacional u otra moneda de la Comunidad deberá aplicarse la cantidad señalada en el anexo 4 del presente Acuerdo.
+2. La fecha de descarga y carga de los productos y, cuando corresponda, los datos de identificación de los medios de transporte utilizados.
 
-En este caso, la declaración en factura deberá contener la firma autógrafa del exportador.
+3. Las condiciones en las que permanecieron los productos en el país de tránsito.
 
-7. Para efectos del artículo 21(2) del anexo III de la Decisión, la Secretaría podrá otorgar el carácter de exportador autorizado a todas aquellas personas que:
+1.4. De conformidad con lo dispuesto en el artículo 12 del Anexo III de la Decisión, cuando las mercancías originarias de México que se exporten a un tercer país, sean retornadas a territorio nacional, deberán considerarse no originarias, a menos que pueda demostrarse a satisfacción de las autoridades aduaneras mexicanas que las mercancías que retornan fueron las que se exportaron y que no han sufrido más operaciones que las necesarias para su conservación en buenas condiciones.
 
-a) se encuentren inscritos en un programa de maquila conforme al “Decreto para el fomento y operación de la industria maquiladora de exportación”, publicado en el Diario Oficial de la Federación el 1o. de junio de 1998 y reformado mediante diverso publicado en el mismo órgano informativo el 13 de noviembre de 1998; se encuentren inscritos en el programa ALTEX conforme al “Decreto para el fomento y operación de las empresas altamente exportadoras” publicado en el Diario Oficial de la Federación el 3 de mayo de 1990 y reformado mediante diversos del 17 de mayo de 1991 y 11 de mayo de 1995; o se encuentren inscritos en el programa PITEX conforme al “Decreto que establece programas de importación temporal para producir artículos de exportación” publicado en el Diario Oficial de la Federación el 3 de mayo de 1990 y reformado mediante diversos publicados en el mismo órgano informativo el 11 de mayo de 1995 y 13 de noviembre de 1998; y que además exporten por lo menos, 5,000,000 de dólares estadounidenses anuales;
+Lo dispuesto en esta regla aplicará sin perjuicio de lo dispuesto en la Ley Aduanera con relación al retorno de las mercancías nacionales o nacionalizadas exportadas.
 
-b) exporten productos perecederos, según lo establezca la Secretaría, o
+1.5. De conformidad con lo dispuesto en el artículo 29 (1) del Anexo III de la Decisión, las cantidades que se expresen en la moneda nacional del país de exportación equivalentes a los importes expresados en euros en esta Resolución, serán las siguientes:
 
-c) exporten productos artesanales, según lo establezca la Secretaría.
+Moneda Regla Regla Regla
 
-Los interesados deberán cumplir con los demás requisitos previstos en este Acuerdo.
+2.3.1.B. 2.5.1.B. 2.5.1.A.
 
-8. Los interesados que cuenten con alguno de los programas señalados en la regla 7(a), deberán insertar el número de aprobación de dichos programas en la casilla “Número ALTEX, PITEX o Maquila” del cuestionario. En caso de contar con más de uno de estos programas, se indicará solamente uno de ellos en dicha casilla.
+Euro 6,000 1,200 500
 
-9. Las reglas 6 y 7 no aplicarán para productos cubiertos en el capítulo IV del título II del presente Acuerdo.
+Franco belga y
 
-10. El cuestionario deberá incluir la información necesaria que demuestre el carácter originario del producto de conformidad con el anexo III de la Decisión, y deberá llenarse conforme a su instructivo y ser firmado por el exportador del producto. Deberá llenarse un cuestionario por producto.
+Luxemburgués 243,000 48,500 20,000
 
-11. El exportador que pretenda exportar una mercancía al amparo de la Decisión, deberá presentar el cuestionario en original y una copia para acuse de recibo, en el horario que la Secretaría determine, en las siguientes oficinas:
+Marco alemán 11,800 2,350 980
 
-a) Secretaría de Comercio y Fomento Industrial, Ventanilla de Certificados de Origen, planta baja, Insurgentes Sur 1940, colonia Florida, Delegación Alvaro Obregón, México, D.F., o
+Florín holandés 13,200 2,650 1,100
 
-b) en las delegaciones federales, subdelegaciones federales u oficinas de servicios de esta Secretaría.
+Libra esterlina 3,744 749 312
 
-12. Dentro del día hábil siguiente a la presentación del cuestionario, la Secretaría informará al interesado de cualquier omisión en el mismo, para que éste la subsane.
+Corona danesa 45,600 9,100 3,800
 
-13. Una vez que se cumpla con lo establecido en las reglas 10 y 11, la Secretaría deberá emitir una respuesta dentro de los dos días hábiles siguientes a la presentación del cuestionario o notificará si requiere realizar una verificación física de las instalaciones productivas de la empresa. En este caso, la Secretaría emitirá su respuesta dentro de los 10 días hábiles siguientes a la presentación del cuestionario.
+Franco francés 39,900 8,000 3,300
 
-14. En caso de que la Secretaría determine que el cuestionario presentado por el exportador es válido, ésta informará al exportador mediante un número de autorización por escrito si se otorgó el carácter de exportador autorizado o si certificará mediante la expedición de certificados de circulación EUR.1.
+Lira italiana 11,500,000 2,300,000 960,000
 
-15. El cuestionario tendrá una vigencia de un año a partir de la fecha de autorización otorgada de conformidad con lo dispuesto en la regla 14.
+Libra irlandesa 4,720 943 393
 
-Para un producto que cumple con el criterio de totalmente obtenido de conformidad con el artículo 4 del anexo III de la Decisión, el cuestionario que haya sido autorizado por la Secretaría, tendrá una vigencia de tres años a partir de la fecha de autorización otorgada de conformidad con lo dispuesto en la regla 15.
+Peseta española 1,000,000 200,000 83,200
 
-El exportador y la Secretaría deberán conservar la información contenida en el cuestionario por un periodo de tres años.
+Escudo portugués 1,200,000 241,000 100,000
 
-16. No obstante lo dispuesto en la regla 15, en caso de que los hechos y circunstancias que le dieron validez a la mercancía mencionada en el cuestionario hayan sufrido cambios, el exportador deberá presentar inmediatamente ante la Secretaría un nuevo cuestionario para su validación conforme a las reglas 5, 10 y 11.
+Corona sueca 55,000 11,000 4,600
 
-17. Cuando la Secretaría haya validado un cuestionario para efectos de certificados de circulación EUR.1, pondrá a disposición, en las oficinas señaladas en la regla 11, los formatos de solicitud y del certificado de circulación EUR.1. Dichos formatos estarán a disposición del exportador en idioma español e inglés, según lo requiera el exportador, para su llenado y firma. El exportador no deberá llenar el campo que establece el número de EUR.1 ni el campo 11.
+Marco finés 37,600 7,500 3,100
 
-Los formatos de solicitud y certificado de circulación EUR.1 no serán de libre reproducción.
+Chelín austríaco 84,000 17,000 7,000
 
-18. Para efectos del llenado del campo 5 del formato de la solicitud y del certificado de circulación EUR.1, el exportador indicará el país a que se desee exportar la mercancía. En caso de ser varios países se podrá indicar la palabra Comunidad.
+Dracma Griego 2,022,000 404,400 168,500
 
-19. Una vez que el exportador haya llenado y firmado debidamente el formato de solicitud y del certificado de circulación EUR.1 a que se refiere la regla 17, se dirigirá ante la oficina señalada en la regla 11 y presentará estos documentos e indicará el número de autorización otorgado conforme a la regla 14 para los productos a que se haya llenado y firmado la solicitud y el certificado de circulación EUR.1, en el formato del Anexo Estadístico publicado en el Diario Oficial de la Federación el 22 de marzo de 1999 y su modificación del 17 de enero de 2000.
+Cuando los productos importados se encuentren facturados en la moneda de algún Estado Miembro de la Comunidad Europea y el importe total en euros utilizando el tipo de cambio aplicable en México de conformidad con el artículo 56 de la Ley Aduanera sea inferior al importe mencionado en el párrafo anterior, se aplicará este último.
 
-20. Una vez que la Secretaría haya revisado que el exportador ha presentado los documentos señalados en la regla 19 y haya comprobado que el formato de la solicitud y del certificado de circulación EUR.1 ha sido llenado de conformidad con lo establecido en el artículo 16(2) del anexo III de la Decisión, la Secretaría numerará tanto el formato de la solicitud como el certificado de circulación EUR.1 en el campo que establece el número de EUR.1; y sellará, indicará el día de la expedición y firmará en el campo 11 de este último.
+2. CERTIFICACION DE ORIGEN
 
-21. La Secretaría entregará al exportador el certificado de circulación EUR.1 original y conservará el formato de solicitud por un periodo de tres años a partir de la fecha de expedición. A partir de su expedición, y de conformidad con el artículo 22 del anexo III de la Decisión, el certificado de circulación de EUR.1 tendrá una validez de 10 meses para ser presentado ante las autoridades aduaneras de la Comunidad, salvo en los casos señalados en el artículo 22 (2) y (3) de dicho anexo.
+2.1. Para efectos del artículo 15 del Anexo III de la Decisión, los productos originarios de la Comunidad que se importen con el trato preferencial deberán estar amparados por el Certificado de Circulación EUR.1, a que se refiere el Apéndice III, del Anexo III de la Decisión o en su caso, por la declaración en factura prevista en el Apéndice IV, del Anexo III de la Decisión.
 
-22. El certificado de circulación EUR.1 original será el documento que se deberá presentar en la aduana correspondiente de la Comunidad, para tener derecho al arancel aduanero sobre la importación de productos originarios de México conforme al anexo I (Calendario de Desgravación de la Comunidad) de la Decisión. No podrán presentarse copias del certificado para reclamar dicho arancel aduanero, sin embargo, el exportador podrá mantener en su poder una copia del mismo.
+2.2. CERTIFICADO DE CIRCULACION EUR.1
 
-23. Cuando la Secretaría conceda al exportador el carácter de exportador autorizado a través del número de autorización conforme a lo dispuesto en la regla 14, éste deberá incluirse en el espacio correspondiente de la declaración en factura cuyo texto figura en el apéndice IV del anexo III de la Decisión.
+2.2.1. El “Certificado de Circulación EUR.1” que ampare la importación de los productos originarios a territorio nacional deberá estar llenado de conformidad con el Anexo I de la presente Resolución, foliado y sellado por las autoridades aduaneras de los Estados Miembros de la Comunidad y firmado por el exportador.
 
-24. De conformidad con lo dispuesto por el artículo 20(5) del anexo III de la Decisión, el exportador autorizado no tendrá la obligación de firmar la declaración en factura siempre que presente ante la Secretaría, una declaración en la que manifieste bajo protesta de decir verdad que asume la plena responsabilidad de todas las declaraciones en factura emitidas por él.
+El certificado podrá ser emitido en cualquiera de los siguientes idiomas: español, inglés, francés, alemán, danés, griego, italiano, portugués, finés, sueco y holandés. En caso de presentarse en un idioma diferente al español o inglés deberá acompañarse de la traducción correspondiente al español.
 
-La declaración en factura tendrá una validez de 10 meses a partir de que el exportador la expida para ser presentada ante las autoridades aduaneras de la Comunidad, salvo en las situaciones señaladas en el artículo 22(2) y (3) del anexo III de la Decisión.
+2.2.2. De conformidad con el artículo 30 del Anexo III de la Decisión y para efectos de la regla 2.2.1. de esta Resolución, los sellos utilizados por las autoridades aduaneras de los Estados Miembros de la Comunidad Europea estarán a disposición de los importadores para su consulta, en la Administración General de Aduanas y en las aduanas del país.
 
-25. El exportador sólo podrá utilizar el carácter de exportador autorizado para el producto o productos para los que la Secretaría haya otorgado un número de autorización de conformidad con lo dispuesto en la regla 14.
+2.2.3. Para efectos del artículo 17 (3) del Anexo III de la Decisión, cuando se haya realizado la importación de los productos sin haber solicitado el trato preferencial, dentro de los doce meses siguientes a la fecha de la importación, el interesado podrá solicitar la devolución de los aranceles pagados en exceso o efectuar la compensación contra los mismos aranceles que esté obligado a pagar en futuras importaciones.
 
-26. Si la Secretaría determina que, a la luz de la información contenida en el cuestionario, el producto no califica como originario, informará al exportador de las razones para llegar a esta conclusión.
+Para tales efectos, la solicitud de devolución deberá presentarse ante la Administración Local de Recaudación o de Grandes Contribuyentes que corresponda, en la Forma Fiscal para Devoluciones F32, Anexo 2 “Relación de Operaciones de Comercio Exterior” que forma parte del Anexo 1 de la Resolución Miscelánea Fiscal, acompañada de copia del pedimento de importación, de la rectificación o rectificaciones a dicho pedimento y el Certificado de Circulación EUR.1, que ampare los productos importados, que contenga en el campo 7, la leyenda “expedido a posteriori” o “Issued Retrospectively”.
 
-27. En el caso en que el exportador no sea el productor de la mercancía y solicite la expedición de un certificado de circulación EUR.1 o el carácter de exportador autorizado, podrá:
+2.2.4. En caso de robo, pérdida o destrucción de un certificado de circulación EUR.1, se podrá aplicar el trato preferencial al amparo de un duplicado del certificado emitido de conformidad con el artículo 18 del Anexo III de la Decisión.
 
-a) llenar el cuestionario si cuenta con la información necesaria, o
+2.2.5. No obstante lo dispuesto en la regla 2.2.1. de la presente Resolución, la autoridad aduanera aceptará el Certificado de Circulación EUR.1 utilizado por la Comunidad Europea con terceros países siempre y cuando en el campo 8 del certificado se indique la clasificación arancelaria del producto por lo menos a nivel de partida (cuatro dígitos) conforme al Sistema Armonizado y cumpla con las demás disposiciones del Anexo III de la Decisión y de la presente Resolución.
 
-b) presentar ante la Secretaría una carta en la que el productor de la mercancía que haya llenado y firmado previamente un cuestionario, autorice a dicho exportador a utilizar la clave de autorización del cuestionario otorgado por la Secretaría a ese productor.
+2.3. DECLARACION EN FACTURA
 
-28. Para efectos de la regla 27(b), el productor de la mercancía deberá presentar un cuestionario siguiendo los procedimientos establecidos en las reglas 5, 10 y 11. Sin embargo, deberá dejar en blanco el espacio a que se refiere el “trámite a realizar”, así como la casilla correspondiente al “Número ALTEX, PITEX o Maquila”.
+2.3.1. De conformidad con lo dispuesto en los artículos 15 (1) (b) y 20 del Anexo III de la Decisión, la declaración en factura podrá amparar productos originarios que se importen con trato preferencial únicamente en los siguientes casos:
 
-Una vez que la Secretaría determine que el cuestionario presentado por el productor es válido, dentro del plazo establecido en la regla 13, informará a ese productor la clave de autorización del cuestionario.
+A. Cuando el exportador de la mercancía cuente con una autorización emitida por la autoridad aduanera de la Parte exportadora en los términos del artículo 21 del Anexo III de la Decisión.
 
-29. El exportador que no sea el productor de la mercancía y que cuente con la carta a que hace referencia la regla 27(b) presentará esa carta en la oficina señalada en la regla 11, y anexará un cuestionario en el que sólo llenará, conforme a su instructivo de llenado, las casillas correspondientes (1) al trámite a realizar, (2) “Número ALTEX, PITEX o Maquila”, en caso de solicitar el carácter de exportador autorizado, y (3) el campo I (Datos Generales) y será firmado por el exportador.
+B. Cuando se trate de cualquier envío constituido por uno o varios bultos que contengan productos originarios cuyo valor total no exceda del equivalente en moneda nacional a 6,000 euros.
 
-La Secretaría otorgará un número de autorización de conformidad con lo dispuesto en la regla 14.
+En estos casos, no será necesario contar con un certificado de circulación EUR.1 siempre que el exportador extienda en la factura, orden de entrega (orden o guía de embarque) o cualquier documento comercial que ampare las mercancías importadas, una declaración de que los productos califican como productos originarios de la Comunidad Europea y se cumplan las demás condiciones previstas en el Anexo III de la Decisión y en la presente Resolución.
 
-30. De conformidad con lo dispuesto en el artículo 17 del anexo III de la Decisión, la Secretaría podrá expedir un certificado de circulación EUR.1 a posteriori, es decir, después de la exportación, sólo en el caso en que no se expidió al momento de efectuar la exportación ya sea, por errores, omisiones involuntarias, circunstancias especiales o si se demuestra que la Secretaría expidió un certificado de circulación EUR.1 y no fue aceptado al efectuar la importación en el territorio de la Comunidad por motivos técnicos.
+2.3.2. La declaración en factura se extenderá a máquina o con tinta y caracteres de imprenta en los documentos a que se refiere la regla 2.3.1. de esta Resolución, utilizando cualquiera de las versiones lingüísticas del Apéndice IV, del Anexo III de la Decisión. En caso de presentarse en un idioma diferente al español o inglés deberá acompañarse de la traducción correspondiente al español.
 
-31. En caso de contar con un número de autorización de conformidad con la regla 14, los interesados en obtener un certificado de circulación EUR.1 expedido a posteriori, deberán indicar en el campo 7 de la solicitud del certificado la frase “EXPEDIDO A POSTERIORI” en caso de llenarse en español; o “ISSUED RETROSPECTIVELY” en caso de llenarse en inglés, y deberá anexar lo siguiente:
+Cuando la declaración sea emitida por un exportador autorizado conforme a la regla 2.3.1. rubro A. de esta Resolución, no será necesario que aparezca su firma autógrafa en la declaración, siempre que se indique en el espacio correspondiente, el número de autorización conforme al párrafo anterior y el exportador haya presentado a la autoridad aduanera del país de exportación, el compromiso por escrito de que acepta la completa responsabilidad de las declaraciones en factura que lo identifiquen como si las hubiera firmado a mano.
 
-a) una breve explicación de las razones de la solicitud en escrito libre, y
+Cuando se trate de las declaraciones emitidas conforme a la regla 2.3.1. rubro B de esta Resolución, deberán llevar la fecha y firma autógrafa del exportador ubicado en la Parte exportadora.
 
-b) presentar el número de autorización para el producto que se solicita un certificado de circulación EUR.1 “a posteriori”.
+Cuando la declaración se refiera total o parcialmente a productos originarios de Ceuta y Melilla conforme al artículo 37 del Anexo III de la Decisión, se deberán indicar las siglas “CM”.
 
-En caso de no contar con un número de autorización conforme a la regla 14, el interesado deberá cumplir con lo dispuesto en las reglas 5, 10 y 11, además de adjuntar una breve explicación de las razones de la solicitud.
+Cuando la declaración en factura ampare productos de las partidas arancelarias 52.08 a 52.16., 54.07 a 54.08., 55.12 a 55.16., 58.01, 58.06 y 58.11 (textiles) o de las partidas arancelarias 64.02 a 64.04 (calzado), que no hayan cumplido con la regla de origen aplicable a dichas partidas, pero cumplan con la regla de origen específica para el cupo textil o de calzado establecido en el Apéndice II o II (a) del Anexo III de la Decisión, en la factura deberá asentarse la siguiente leyenda:
 
-32. Para efectos de lo dispuesto en el artículo 17 (4) del anexo III de la Decisión, y una vez cubiertos los requisitos de la regla 31, la Secretaría podrá expedir un certificado EUR.1 de conformidad con la regla 20, y en el cual se deberá indicar, en el campo 7 del certificado, la frase: “EXPEDIDO A POSTERIORI” en caso de llenarse en español; o “ISSUED RETROSPECTIVELY” en caso de llenarse en inglés.
+A. En el caso de textiles, “Cumple la norma de origen específica establecida en el Apéndice II” o “Meets the specific rule of origin as set out in Appendix II”.
 
-33. De conformidad con lo dispuesto en el artículo 18 del anexo III de la Decisión, la Secretaría podrá expedir un duplicado del certificado de circulación EUR.1, sólo en caso de robo, pérdida o destrucción de un certificado de circulación EUR.1 original. En tal caso, la Secretaría deberá indicar en el campo 7 del certificado, la frase: “DUPLICADO” en caso de llenarse en español; o “DUPLICATE” en caso de llenarse en inglés.
+B. En el caso de calzado, “Cumple la norma de origen específica establecida en la Nota 9 del Apéndice II (a)” o “Meets the specific rule of origin as set out in Appendix II (a), Note 9”.
 
-34. Los interesados en obtener un duplicado del certificado de circulación EUR.1, deberán indicar en el campo 7 de la solicitud del certificado, la palabra “DUPLICADO” en caso de llenarse en español; o “DUPLICATE” en caso de llenarse en inglés, y deberá anexar lo siguiente:
+2.3.3. Para efectos del artículo 20 (6) del Anexo III de la Decisión, cuando el importador haya realizado la importación de los productos sin haber solicitado el trato preferencial y se trate de operaciones efectuadas en los términos de la regla 2.3.1. de esta Resolución, dentro de los doce meses siguientes a la fecha de la importación, el interesado podrá solicitar la devolución de los aranceles pagados en exceso o efectuar la compensación contra los mismos aranceles que esté obligado a pagar en futuras importaciones.
 
-a) copia del certificado de circulación EUR.1 original, en caso de contar con ésta de conformidad con la regla 22 o el número del certificado de circulación EUR.1 original otorgado de conformidad con la regla 21, y
+Para tales efectos, la solicitud de devolución deberá presentarse ante la Administración Local de Recaudación o de Grandes Contribuyentes que corresponda, en la Forma Fiscal para Devoluciones F32, Anexo 2 “Relación de Operaciones de Comercio Exterior” que forma parte del Anexo 1 de la Resolución Miscelánea Fiscal, acompañada de copia del pedimento de importación, de la rectificación o rectificaciones a dicho pedimento y la declaración en factura.
 
-b) una breve explicación, en escrito libre, de las razones de la solicitud.
+2.4. VALIDEZ DE LA CERTIFICACION DE ORIGEN
 
-35. El número del duplicado del certificado de circulación EUR.1 que expida la Secretaría deberá coincidir con el número de certificado de circulación EUR.1 original.
+2.4.1. El certificado de circulación EUR.1 y la declaración en factura tendrán una vigencia de diez meses a partir de la fecha de su expedición en el país de exportación.
 
-36. El duplicado será válido a partir de la fecha de expedición del certificado de circulación EUR.1 original. El plazo de vigencia del certificado a que se refiere la regla 21 se contará a partir de la fecha de expedición del certificado de circulación EUR.1 original.
+Cuando se trate de duplicados de certificados expedidos en los términos del artículo 18 del Anexo III de la Decisión, que en el campo 7 contengan la leyenda “duplicado” o “duplicate”, el plazo de vigencia correrá a partir de la fecha de expedición del certificado original, la cual se deberá asentar en el campo 11 del duplicado del certificado.
 
-37. En el caso de exportar una mercancía que califica como originaria mediante una declaración en factura de conformidad con la regla 3, pero la factura de la misma sea expedida por una persona ubicada fuera de México, dicha declaración no podrá ser extendida en esa factura, sin embargo podrá ser expedida en la guía de embarque o en cualquier otro documento comercial emitido en México.
+2.4.2. Para los efectos del artículo 22 (2) y (3) del Anexo III de la Decisión, se podrá aplicar el trato preferencial para los productos originarios amparados por un certificado de circulación EUR.1 o una declaración en factura aún cuando haya transcurrido el plazo a que se refiere la regla 2.4.1. de esta Resolución, en los siguientes casos:
 
-### Capítulo II. Documentos de prueba
+A. En caso de pérdida, robo o destrucción del certificado original, cuando se solicite un duplicado dentro del plazo de vigencia del certificado original y éste no sea expedido dentro de dicho plazo, por causas imputables a la autoridad aduanera del Estado Miembro de la Comunidad Europea de exportación.
 
-38. Cuando el exportador utilice insumos originarios de la Comunidad en el proceso de producción de la mercancía que se pretende exportar a la Comunidad, las pruebas de origen para demostrar este carácter serán a través del certificado de circulación EUR.1 o la declaración en factura de conformidad con lo establecido en el artículo 15 del anexo III de la Decisión, por lo cual el exportador deberá contar con una copia de los mismos.
+B. Cuando la importación de los productos originarios se haya efectuado dentro del plazo de vigencia del certificado de circulación EUR.1 o de la declaración en factura, y no se haya solicitado el trato preferencial al momento de la importación, siempre que se cumpla con lo dispuesto en las reglas 2.2.3. y 2.3.3. de la presente Resolución.
 
-39. Para efectos de lo dispuesto en el artículo 26 del anexo III de la Decisión, la prueba de origen que compruebe el carácter originario o el grado de elaboración o transformación de los insumos fabricados en México y utilizados por el exportador en el proceso de producción de la mercancía que se pretende exportar a la Comunidad, será a través de la declaración del proveedor establecida en la regla 40.
+2.4.3. No será admisible el certificado de circulación EUR.1 y se negará el trato preferencial, cuando dicho certificado no cumpla con cualquiera de los requisitos o condiciones previstos en el Anexo III de la Decisión, en la presente Resolución o su Anexo I, salvo lo dispuesto en la regla 2.4.7. de esta Resolución.
 
-Lo dispuesto en la presente regla no deberá interpretarse en el sentido de obligar al proveedor de un insumo a proporcionar dicha declaración al exportador del producto.
+2.4.4. No será admisible la declaración en factura y se negará el trato preferencial, cuando no se cumpla con cualquiera de los requisitos previstos en el Anexo III de la Decisión o en esta Resolución, salvo lo dispuesto en la regla 2.4.7. de esta Resolución.
 
-40. El proveedor de insumos de un producto que vaya a exportarse a la Comunidad, podrá entregar al exportador una “declaración del proveedor”, conforme al formato que se incluye en el anexo 2 del presente Acuerdo, relativa al carácter de los insumos suministrados.
+2.4.5. Se negará el trato preferencial cuando el número asentado en la factura como registro de exportador autorizado no corresponda a los otorgados por la autoridad aduanera del Estado Miembro de la Comunidad Europea de exportación; cuando la autorización correspondiente haya sido revocada; o cuando no se haya asentado la firma del exportador autorizado de conformidad con el artículo 20 (5) del Anexo III de la Decisión.
 
-41. La declaración del proveedor podrá emitirse en el formato contenido en el anexo 2 del presente Acuerdo que será de libre reproducción, o bien podrá emitirse una declaración del proveedor en formato libre, siempre que contenga la información necesaria, tales como nombre del proveedor, nombre del cliente, nombre y descripción del producto, si el producto califica como originario o el grado de elaboración o transformación de los insumos fabricados en México de conformidad con el anexo III de la Decisión, así como la firma del proveedor.
+2.4.6. Cuando existan discordancias menores entre la información asentada en el certificado de circulación EUR.1 o la declaración en factura y la asentada en el pedimento de importación o sus anexos, se podrá aceptar el certificado o la declaración siempre se compruebe debidamente que el certificado de circulación EUR.1 o la declaración en factura corresponden a las mercancías que se presenten al despacho y la descripción de las mercancías sea la misma.
 
-42. La declaración del proveedor será válida mientras no cambien las circunstancias que dieron lugar para su emisión.
+2.4.7. La existencia de errores de forma evidentes, tales como errores de mecanografía en el certificado de circulación EUR.1 o en la declaración en factura, por sí solos, no darán lugar a que se niegue el trato preferencial aplicado siempre que no se trate de errores que puedan generar dudas sobre la exactitud del certificado o de la declaración.
 
-43. El proveedor del insumo deberá informar inmediatamente al comprador del insumo si han cambiado los hechos o circunstancias por las cuales la declaración del proveedor deja de tener validez para los productos mencionados en la declaración.
+Los errores a que se refiere el párrafo anterior no incluyen, entre otros, los siguientes supuestos:
 
-44. El exportador deberá conservar los documentos de prueba mencionados en el presente capítulo, durante un periodo de tres años, como mínimo, de conformidad con lo establecido en el artículo 27 del anexo III de la Decisión.
+A. Cuando el formato no corresponda al autorizado.
 
-El exportador deberá conservar durante el mismo plazo cualquier otro documento que compruebe el carácter originario del producto exportado a la Comunidad, por ejemplo sus libros y registros contables, inclusive los referentes a la adquisición, los costos, el valor y el pago de la mercancía exportada; la adquisición, los costos, el valor y el pago de todos los insumos, incluidos los elementos neutros utilizados en la producción de la mercancía exportada; y la producción de las mercancías en la forma que se exportó.
+B. Cuando algún campo se presente en blanco o incompleto, salvo lo dispuesto en el Anexo 1 de esta Resolución.
 
-45. Toda la información señalada en el presente capítulo deberá mantenerse y registrarse conforme a los principios de contabilidad generalmente aceptados, publicados por el Instituto Mexicano de Contadores Públicos, A.C. (IMCP) incluidos sus boletines complementarios.
+C. Cuando los productos descritos no correspondan a los que se importen con el trato preferencial.
 
-### Capítulo III. Separación Contable
+D. Cuando los errores u omisiones modifiquen sustancialmente la información asentada.
 
-46. Para los efectos de lo dispuesto en el artículo 8 del anexo III de la Decisión, los productores de la mercancía que llenen un cuestionario y mantengan inventarios separados de materiales originarios y no originarios idénticos e intercambiables utilizados en su proceso de fabricación, deberán presentar en la oficina indicada en la regla 11 la “Solicitud de autorización del uso del método de separación contable” que se incluye en el anexo 3 del presente Acuerdo, que será de libre reproducción.
+E. Cuando los errores u omisiones se refieran a la fecha de firma, a la clasificación arancelaria, la descripción de los bienes o el número de exportador autorizado, según sea el caso.
 
-La solicitud se entenderá aprobada al momento de su presentación, mediante el número de autorización correspondiente. En caso de no utilizar más el método de separación contable, el productor deberá dar aviso a la Secretaría a fin de dejar sin validez tal autorización a partir de ese momento.
+2.5. EXCEPCIONES A LA CERTIFICACION DE ORIGEN
 
-47. El exportador deberá conservar los documentos mencionados en el presente capítulo, durante un periodo de tres años, como mínimo, de conformidad con lo establecido en el artículo 27 del anexo III de la Decisión.
+2.5.1. De conformidad con el artículo 25 del Anexo III de la Decisión, podrán importarse productos originarios aplicando el trato preferencial sin que se requiera contar con el certificado de circulación EUR.1 ni la declaración en factura, siempre que se cumpla con lo siguiente:
 
-48. Los productores que soliciten la autorización a que se refiere la regla 49 deberán mantener y registrar sus inventarios conforme a los principios de contabilidad generalmente aceptados, publicados por el Instituto Mexicano de Contadores Públicos, A.C. (IMCP) incluyendo sus boletines complementarios.
+A. Cuando se trate de productos originarios enviados a particulares por otros particulares en paquetes pequeños, por correo o mensajería siempre que no se importen con carácter comercial, no exista ninguna duda acerca de la veracidad de esta declaración y su valor total no exceda del equivalente en moneda nacional a 500 euros.
 
-### Capítulo IV. Certificación para productos sujetos a cupo al importarse a la Comunidad
+B. Cuando se trate de productos originarios que sean importados por pasajeros provenientes del extranjero siempre que no se importen con carácter comercial, no exista ninguna duda acerca de la veracidad de esta declaración y su valor total no exceda del equivalente en moneda nacional a los 1200 euros.
 
-49. Para los productos sujetos a cupo comprendidos en el anexo I secciones A, B y C del artículo 8 (7) y nota 12.1 del apéndice II (a) del anexo III de la Decisión, según corresponda, que se exporten de México a la Comunidad, sólo se expedirán certificados de circulación EUR.1 de conformidad con el capítulo I del título II del presente Acuerdo en forma limitada al monto del cupo correspondiente en cada caso.
+En estos casos deberá declararse que no se importan para su comercialización y que cumplen las condiciones exigidas en el Anexo III de la Decisión. Para el caso de los productos enviados por correo la citada declaración podrá presentarse en el documento aduanal que ampare la importación.
 
-Los procedimientos y asignación de los cupos a que se refiere el párrafo anterior serán los que determine la Secretaría, conforme a la ley de la materia.
+Para los efectos de esta regla, no se considerarán importaciones de carácter comercial, las importaciones ocasionales que consistan en productos para uso personal de sus destinatarios o del pasajero si por su naturaleza o cantidad resulta evidente que no serán objeto de comercialización.
 
-50. Para efectos del cupo establecido en la nota 12.1 del apéndice II (a) del anexo III, el interesado deberá indicar en el campo 7 de la solicitud y del certificado de circulación EUR.1 la siguiente leyenda: “cumple con la norma de origen específica establecida en la nota 12.1 del apéndice II (a)”, en caso de llenarse en español; o “meets the rule of origin as set out in note 12.1 of appendix II (a)” en caso de llenarse en inglés.
+3. OBLIGACIONES DEL IMPORTADOR
 
-### Capítulo V. Disposiciones finales
+3.1. Para efectos del Anexo III de la Decisión, quienes importen productos a territorio nacional bajo trato preferencial deberán cumplir con lo siguiente:
 
-51. Para los efectos de lo dispuesto en el artículo 40 del anexo III de la Decisión, las mercancías que se encuentren en tránsito, almacenadas temporalmente, en depósito fiscal o en zonas francas, a partir de la fecha de entrada en vigor de la Decisión y dentro de los cuatro meses siguientes a esa fecha, los exportadores podrán solicitar un certificado expedido a posteriori, de conformidad con la regla 30 y cumplan con lo establecido en la regla 31.
+A. Declarar lo siguiente en el pedimento de importación:
 
-52. Cuando la Comunidad solicite la verificación de una o varias pruebas de origen, conforme al artículo 31 del anexo III de la Decisión, o durante la vigencia del cuestionario y si la Secretaría lo considera necesario, podrá requerir al exportador cualquier tipo de prueba de origen, revisar la contabilidad del mismo o cualquier otra información que considere necesaria para comprobar el carácter originario de la mercancía o de sus insumos, así como llevar a cabo visitas de inspección a las instalaciones físicas de la empresa de conformidad con el artículo 16 fracción VIII del Acuerdo Delegatorio de Facultades de la Secretaría.
+1. En el campo de permisos, autorizaciones e identificadores, la clave correspondiente a las importaciones de mercancías originarias con trato preferencial; la clave que corresponda a las mercancías importadas con certificado de cupo; o la clave que corresponda a las importaciones de mercancías con certificado de importación (certificado de elegibilidad), según corresponda.
 
-Lo anterior también aplicará para comprobar la exactitud de una declaración del proveedor o de la autorización del método de separación contable.
+2. En el campo de país de origen, la clave del país de origen de la mercancía.
 
-## TRANSITORIO
+3. En el campo de observaciones del pedimento de importación, el número y fecha del certificado de circulación EUR.1 o en su caso el número de registro de exportador autorizado.
 
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente a su publicación.
+B. Anexar al pedimento de importación la siguiente documentación:
 
-México, D.F., a 19 de junio de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+1. El original del certificado de circulación EUR.1 o del documento en que conste la declaración en factura.
 
-ANEXOS
+2. El certificado de cupo que ampare los productos importados con el trato preferencial, cuando corresponda de conformidad con lo dispuesto en el decreto que establece la tasa aplicable del impuesto general de importación para las mercancías originarias de la Comunidad Europea.
 
-> <small>N. DE E. PARA SU CONSULTA, VEASE D.O.F. 26 DE JUNIO DE 2000, PRIMERA SECCION, PAGINAS 26-40.</small>
+3. El certificado de importación (certificado de elegibilidad), cuando corresponda de conformidad con lo dispuesto en el decreto que establece la tasa aplicable del impuesto general de importación para las mercancías originarias de la Comunidad Europea.
+
+4. Tratándose de productos originarios de conformidad con el artículo 4 (1) (h), del Anexo III de la Decisión, deberá contarse con la autorización emitida por la autoridad aduanera.
+
+C. Entregar al agente o apoderado aduanal una copia del certificado de circulación EUR.1 o del documento en que conste la declaración en factura.
+
+D. Conservar copia del certificado de circulación EUR.1 al momento de presentar el pedimento de importación para el despacho de los productos o del documento en el que conste la declaración en factura y de los demás documentos que amparen la importación.
+
+E. Poner a disposición de la autoridad aduanera la copia del certificado de circulación EUR.1 o del documento en el que conste la declaración en factura en caso de ser requerido, de conformidad con lo dispuesto en el artículo 53 del Código Fiscal de la Federación.
+
+F. Presentar una rectificación al pedimento, pagando las contribuciones que se hubieran omitido, antes de que la autoridad aduanera inicie el ejercicio de sus facultades de comprobación.
+
+3.2. La autoridad aduanera negará el trato preferencial cuando el importador no cumpla con cualquiera de las obligaciones previstas en el Anexo III de la Decisión o en la regla 3.1. de la presente Resolución.
+
+4. OBLIGACIONES DEL EXPORTADOR
+
+4.1. Para efectos del Anexo III de la Decisión, los exportadores que hayan proporcionado un certificado de circulación EUR.1 o una declaración en factura deberán conservar toda la documentación necesaria para demostrar el carácter originario de los productos amparados con el certificado o la declaración correspondiente y que se satisfacen todos los demás requisitos del Anexo III de la Decisión, por un plazo de tres años a partir de la expedición del certificado o de la declaración en factura y presentarla, en caso de ser requerida.
+
+La documentación a que se refiere el párrafo anterior será la señalada en el Anexo III de la Decisión.
+
+4.2. La autoridad aduanera negará el trato preferencial cuando el exportador no cumpla con cualquiera de las obligaciones previstas en el Anexo III de la Decisión o en la regla 4.1. de la presente Resolución, en los términos de la regla 5.2. de esta Resolución.
+
+5. PROCEDIMIENTOS DE VERIFICACION
+
+5.1. De conformidad con lo dispuesto en el artículo 31 de la Decisión, las autoridades aduaneras podrán verificar la autenticidad de los certificados de circulación EUR.1 o de las declaraciones en factura, la exactitud de la información recogida en dichos documentos, el carácter originario de los productos o el cumplimiento de los demás requisitos del Anexo III de la Decisión, de conformidad con los acuerdos de asistencia administrativa y de intercambio de información suscritos con el país exportador, con la Decisión y el Código Fiscal de la Federación.
+
+Con motivo del inicio de una verificación en los términos del párrafo anterior, las autoridades aduaneras suspenderán la aplicación el trato preferencial. En este caso, se permitirá el desaduanamiento de los productos, siempre que se garantice el interés fiscal mediante alguna forma de garantía prevista en el Código Fiscal de la Federación.
+
+La autoridad aduanera emitirá la resolución correspondiente al importador de los productos objeto de la verificación, con base en la información y documentación proporcionada por las autoridades aduaneras de los Estados Miembros de la Comunidad Europea de acuerdo con lo dispuesto en los artículos 42, 48, 63 y demás relativos del Código Fiscal de la Federación.
+
+5.2. La autoridad aduanera emitirá la resolución en la que determine que no procede la aplicación del trato preferencial aplicado con motivo de la importación de los productos objeto de verificación en los siguientes casos:
+
+A. Cuando transcurran 10 meses a partir de la fecha en que se haya enviado el requerimiento de información a las autoridades aduaneras de los Estados Miembros de la Comunidad Europea sin que haya mediado respuesta.
+
+B. Cuando la información o documentación proporcionada por las autoridades aduaneras de los Estados Miembros de la Comunidad Europea sea insuficiente para determinar la autenticidad de los certificados de circulación EUR.1 o de las declaraciones en factura, la exactitud de la información recogida en dichos documentos, el carácter originario de los productos o si satisfacen los demás requisitos del Anexo III de la Decisión.
+
+C. Cuando la información o documentación proporcionada por las autoridades aduaneras de los Estados Miembros de la Comunidad Europea indique que los certificados de circulación EUR.1 o las declaraciones en factura no son auténticos o fueron alterados, que la información recogida en dichos documentos no es exacta, que los productos no califican como originarios o no se satisface alguno de los requisitos del Anexo III de la Decisión.
+
+## Transitorios
+
+Primero. La presente Resolución entrará en vigor el 1 de julio de 2000.
+
+Segundo. Para efectos del artículo 40 del Anexo III la Decisión, podrán importarse aplicando el trato preferencial los productos que cumplan con las disposiciones del Anexo III de la Decisión y que a la fecha de entrada en vigor de esta Resolución, se encuentren en depósito ante la aduana, tránsito o depósito fiscal en territorio nacional, siempre que dentro de los cuatro meses siguientes a partir de la fecha de entrada en vigor de la Decisión se efectúe su importación definitiva al amparo del Certificado de Circulación EUR.1, expedido con posterioridad a su exportación, en el que se indique en el campo 7, la leyenda "Expedido a Posteriori" o "Issued Retrospectively", acompañado de los documentos que demuestren que las mercancías han sido transportadas a territorio nacional directamente del Estado Miembro de la Comunidad Europea que lo haya expedido y se cumpla con las disposiciones de la Decisión y de la presente Resolución.
+
+Atentamente
+
+Sufragio Efectivo. No Reelección.
+
+México, D.F., a 23 de junio de 2000.- En ausencia del C. Secretario de Hacienda y Crédito Público y del C. Subsecretario del Ramo, y con fundamento en el artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Ingresos, Manuel Ramos Francia.- Rúbrica.
+
+Anexo 1 de la Resolución en materia aduanera de la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre los Estados Unidos Mexicanos y la Comunidad Europea
+
+Contenido
+
+A. Notas al certificado de circulación EUR.1
+
+Atentamente
+
+Sufragio Efectivo. No Reelección.
+
+México, D.F., a 23 de junio de 2000.- En ausencia del C. Secretario de Hacienda y Crédito Público y del C. Subsecretario del Ramo, y con fundamento en el artículo 105 del Reglamento Interior de esta Secretaría, el Subsecretario de Ingresos, Manuel Ramos Francia.- Rúbrica.
+
+Notas al certificado de circulación EUR.1
+
+Con el propósito de aplicar el trato preferencial, se deberá contar con un certificado de circulación EUR.1 expedido por las autoridades aduaneras del país de exportación de conformidad con lo siguiente:
+
+Campo 1. Deberá anotarse el nombre completo, denominación o razón social, domicilio completo del exportador y país de exportación.
+
+Campo 2. Deberá indicarse el país de exportación y el país de importación.
+
+Campo 3. Deberá indicarse el nombre completo, denominación o razón social, domicilio completo del destinatario y país de destino, en caso de conocerse.
+
+Campo 4. Deberá indicarse el país, grupo de países o territorio de la Parte exportadora de donde se consideran originarios los productos.
+
+Campo 5. Deberá indicarse el país, grupo de países o territorio de la Parte importadora al que se destinan las mercancías.
+
+Campo 6. Deberá indicarse el medio de transporte en que se conduce la mercancía para su ingreso al territorio nacional, incluyendo el número de guía aérea o conocimiento de embarque, en caso de conocerse.
+
+Campo 7. Cuando el certificado ampare productos de las partidas arancelarias 52.08 a 52.16., 54.07 a 54.08., 55.12 a 55.16., 58.01, 58.06 y 58.11 (textiles) o de las partidas arancelarias 64.02 a 64.04 (calzado), cuando dichas mercancías no hayan cumplido con la regla de origen aplicable a dichas partidas, pero cumplan con la regla de origen específica para el cupo textil o de calzado establecido en el Apéndice II o II (a), del Anexo III de la Decisión, en este campo deberá señalarse el número de certificado de cupo que ampare los productos y contener la siguiente leyenda:
+
+A. En el caso de textiles, "Cumple la norma de origen específica establecida en el Apéndice II" o "Meets the specific rule of origin as set out in Appendix II".
+
+B. En el caso de calzado, "Cumple la norma de origen específica establecida en la Nota 9 del Apéndice II (a)" o "Meets the specific rule of origin as set out in Appendix II (a), Note 9".
+
+Cuando se trate de un duplicado expedido de acuerdo con el artículo 18 del Anexo III de la Decisión, en este campo deberá indicarse la leyenda "Duplicado" o "Duplicate".
+
+Cuando se trate de un certificado expedido con posterioridad a la exportación de las mercancías de acuerdo con el artículo 17 del Anexo III de la Decisión, en este campo deberá indicarse la leyenda "Expedido a Posteriori" o "Issued Retrospectively".
+
+Campo 8. Deberá anotarse la descripción de los productos, incluyendo número de orden; marcas, numeración; número y naturaleza de los bultos; designación de las mercancías y su clasificación arancelaria por lo menos a nivel de partida (cuatro dígitos) conforme al Sistema Armonizado. Tratándose de productos que no se encuentren embalados, se deberá indicar la leyenda "a granel". Los productos deberán designarse de acuerdo con los usos comerciales y con el detalle suficiente para que puedan ser identificados y relacionados con la descripción contenida en la factura.
+
+En ningún caso deberán aparecer líneas o espacios en blanco y no deberán quedar renglones vacíos entre los distintos productos indicados en el certificado. Cada producto deberá ir precedido por un número de orden. Después del último producto señalado en este campo, se deberá trazar una línea horizontal y una línea cruzada en el espacio que quede en blanco.
+
+Campo 9. Deberá indicarse la cantidad de mercancías en unidades de comercialización de acuerdo a lo señalado en la factura.
+
+Campo 10. Deberá indicarse el número y fecha de la factura que ampara las mercancías descritas en el campo 8 del certificado, en caso de conocerse.
+
+Campo 11. Este campo deberá ser llenado en su totalidad (lugar y fecha de expedición, autoridad aduanera, país de expedición, número de pedimento de exportación cuando corresponda), firmado, fechado y sellado por las autoridades aduaneras del país de exportación. Los sellos deberán corresponder a los que dichas autoridades notifiquen en los términos del artículo 30 del Anexo III de la Decisión.
+
+Tratándose de certificados que contengan la leyenda "Duplicado" o "Duplicate" en el campo 7, la fecha de expedición será la del certificado original.
+
+La importación de los productos descritos en el campo 8 del certificado deberá efectuarse dentro del plazo de 10 meses inmediatos siguientes a la fecha de expedición indicada en este campo.
+
+Campo 12. Este campo deberá ser llenado en su totalidad, firmado y fechado por el exportador.
+
+Notas Generales
+
+1. El certificado deberá llenarse en su totalidad, salvo indicación en contrario en el campo respectivo, a máquina, o a mano con tinta y en caracteres de imprenta.
+
+2. El certificado no deberá presentar raspaduras ni correcciones superpuestas. Cualquier modificación deberá hacerse tachando los datos erróneos y añadiendo, en su caso, los correctos. Tales rectificaciones deberán ser aprobadas por la persona que haya extendido el certificado y ser visadas por las autoridades aduaneras del Estado Miembro de la Comunidad en el que se haya expedido.
+
+3. Los espacios no utilizados deberán rayarse de forma que resulte imposible cualquier adición posterior.
+
+4. El formato de Certificado de Circulación EUR.1 medirá 210 x 297 mm; no obstante se acepta en estas medidas un margen diferencial de 5 mínimo y 8 mm. máximo. El papel deberá ser blanco, con un peso no menor de 25g/m2; y deberá contener un sello verde de protección que impida su falsificación. Podrá contener la referencia a la autorización otorgada a impresores autorizados. En este caso, además contendrá el nombre y el domicilio del impresor o una marca que lo identifique y un número de serie que permita identificarlo.
