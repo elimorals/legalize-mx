@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-15940"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-19"
-last_updated: "2002-07-10"
+last_updated: "2004-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el 19 de enero de 2000.
 
@@ -247,15 +247,19 @@ XI.- Granjas avícolas y porcícolas, apiarios y establecimientos similares, y
 
 XII.- Las demás materias que determine esta Ley y las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2004)</small>
+
 ###### Artículo 4.
 
 Son autoridades sanitarias en el Estado:
 
-I.- El Gobernador del Estado;
+I.- El Gobernador del Estado.
 
-II.- El organismo público descentralizado denominado "Servicios de Salud de Morelos";
+II.- El Secretario de Salud.
 
-III.- Los H. Ayuntamientos, en el ámbito de su respectiva competencia, de conformidad con las disposiciones que le confiere la presente Ley, así como de conformidad con los convenios, acuerdos, programas y lineamientos que se efectúen con las autoridades sanitarias Estatales.
+III.- El Organismo Público descentralizado denominado "Servicios de Salud Morelos".
+
+III (sic).- Los H. Ayuntamientos, en el ámbito de su respectiva competencia, de conformidad con las disposiciones que le confiere la presente ley, así como de conformidad con los convenios, acuerdos, programas y lineamientos que se efectúen con las autoridades sanitarias Estatales.
 
 ###### Artículo 5.
 
@@ -3128,3 +3132,9 @@ P.O. 10 DE JULIO DE 2002.
 Primero.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 14 DE ENERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal, para su publicación y efectos legales respectivos.
