@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1991-01-08"
+last_updated: "1991-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1991.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -134,9 +134,15 @@ En el segundo caso del artículo 6° el Agente del Ministerio Público presentar
 
 La persona ofendida por un delito, podrá poner a disposición del Ministerio Público y del Juez Instructor todos los datos que conduzcan a establecer la culpabilidad del acusado y a justificar la reparación del daño.
 
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 9°.
 
 El Ejecutivo, a medida que lo permitan las condiciones económicas de las Delegaciones del Distrito Federal y de los Territorios, substituirá los Jueces Menores y Mixtos de Primera Instancia por Cortes Penales y Juzgados Penales de Paz.
+
+###### ARTICULO 9º Bis.
+
+Para identificar al sujeto activo del delito de violación, a petición de la víctima o su representante legal, esta diligencia podrá efectuarse en un lugar donde no pueda ser vista o identificada por aquél.
 
 ### CAPITULO III. Formalidades en el procedimiento
 
@@ -776,6 +782,12 @@ En caso de lesiones, el herido será atendido bajo la vigilancia de dos médicos
 
 Los médicos darán aviso al Ministerio Público o al juez, tan luego como adviertan que peligra la vida del paciente, así como cuando acaezca su muerte.
 
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+###### ARTICULO 109 Bis.
+
+Cuando la víctima de delito sexual o su representante legal lo solicite, la exploración y atención médica, psíquica, ginecológica o cualquiera otra que se le practique, estará a cargo de personal facultativo del sexo femenino.
+
 ###### ARTICULO 110.
 
 Cuando el ofendido lo desee, podrá ser atendido en su domicilio por facultativos particulares, mediante el compromiso de atenderlo y de rendir los informes a que se refiere el artículo anterior; pero los médicos legistas seguirán con la obligación de visitar periódicamente al enfermo y de rendir los mismos informes, cuando así lo determine el juez.
@@ -863,6 +875,12 @@ El cuerpo del delito se tendrá por comprobado cuando se acredite la existencia 
 ###### ARTICULO 123.
 
 En el caso de lesiones internas, envenenamiento u otra enfermedad proveniente de delito, se tendrá por comprobado el cuerpo de éste, con la inspección y descripción hecha por las personas a quienes se refiere el artículo 94, de las manifestaciones exteriores que presentare la víctima y con el dictamen médico en que se expresarán los síntomas que tenga, si existen esas lesiones y si han sido producidas por causa externa; en caso de no existir manifestaciones exteriores, bastará con el dictamen médico.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1991)</small>
+
+###### ARTICULO 123 Bis.
+
+Para comprobar el cuerpo del delito de violación será relevante la imputación que haga el sujeto pasivo y cualesquiera otro elemento probatorio que la robustezca.
 
 ###### ARTICULO 124.
 
@@ -1688,9 +1706,13 @@ II. Cuando la ley exija algún requisito previo, si éste no se ha llenado.
 
 Sólo podrán perseguirse a petición de la parte ofendida, los siguientes delitos:
 
-I. Rapto y estupro;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
 
-II. Injurias, difamación, calumnia y golpes simples; y
+I. Hostigamiento sexual, estupro y privación ilegal de la libertad con propósitos sexuales;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
+
+II. Difamación y calumnia; y
 
 III. Los demás que determine el Código Penal.
 
@@ -4751,3 +4773,7 @@ Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrit
 D.O.F. 8 DE ENERO DE 1991.
 
 UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de 1991.
+
+D.O.F. 21 DE ENERO DE 1991.
+
+UNICO.- El Presente decreto entrará en vigor al día siguiente de la fecha su (sic) publicación en el Diario Oficial de la Federación.
