@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2000-12-29"
+last_updated: "2001-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -58,6 +58,18 @@ A falta de disposición de esta ley, siempre que no la contravengan, serán apli
 La administración y recaudación de los gravámenes fiscales previstos en esta ley serán de competencia exclusiva de los Ayuntamientos, sus dependencias y órganos auxiliares; y bajo la vigilancia de los Síndicos, con estricto apego a las leyes. Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la facultad económica-coactiva, ejercitarse conforme a lo señalado en el código fiscal municipal y en esta Ley.
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos, es competencia de las Tesorerías Municipales, sus dependencias y órganos auxiliares.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+ARTÍCULO 4° BIS.- Para efecto de mejor comprensión, cuando en esta Ley se mencione a:
+
+ZONA "A".- Se referirá a los municipios de José María Morelos, Felipe Carrillo Puerto y Lázaro Cárdenas.
+
+ZONA "B".- Se referirá a los municipios de Othón P. Blanco, Cozumel e Isla Mujeres.
+
+ZONA "C".- Se referirá a los municipios de Benito Juárez y Solidaridad.
+
+S.M.G. Salario Mínimo General Vigente en el Estado de Quintana Roo.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -143,31 +155,11 @@ El Impuesto Predial se determinará, liquidará y recaudará de acuerdo con la s
 
 TARIFA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-I.- En los municipios de Othón P. Blanco, Cozumel e Isla Mujeres, se Aplicarán las siguientes tasas por cada año:
+I.- En la ZONA "A", se aplicarán las siguientes tasas por cada año:
 
-a).- En predios edificados en zonas urbanas, cuando el valor no exceda de $ 5,000.00 2.3 S.M.G.
-
-b).- De $ 5,001.00 en adelante 8.4 al millar
-
-c).- Predios rústicos 9.2 al millar
-
-d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
-
-1.- Predios que no cuenten con banquetas 20.7 al millar
-
-2.- Predios que no cuenten con bardas 20.7 al millar
-
-3.- Predios que no cuenten con construcciones permanentes 28.5 al millar
-
-4.- Predios que no cuenten con bardas y banquetas 21.5 al millar
-
-5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
-
-II.- En los municipios de José María Morelos, Felipe Carrillo Puerto y Lázaro Cárdenas, se aplicarán las siguientes tasas por cada año:
-
-a).- Cuando el valor no exceda de $5,000.00 2.3 S.M.G.
+a).- En predios urbanos o rústicos que su valor no exceda de $ 5,000.00 2.3 S.M.G.
 
 b).- De $ 5,001.00 en adelante 13.8 al millar
 
@@ -185,17 +177,39 @@ d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten
 
 5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-III.- En los Municipios de Benito Juárez y Solidaridad, se aplicarán las siguientes tasas por cada año:
+II.- En la ZONA "B", se aplicarán las siguientes tasas por cada año:
 
-a).- Predios urbanos o rústicos que su valor catastral no exceda los $12,000.00 2.5 S.M.G.
+a).- En predios urbanos o rústicos que su valor no exceda de $5,000.00 2.3 S.M.G.
+
+b).- De $ 5,001.00 en adelante 18.4 al millar
+
+c).- Predios rústicos 9.2 al millar
+
+d).- Cuando alguno de estos predios, con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
+
+1.- Predios que no cuenten con banquetas 20.7 al millar
+
+2.- Predios que no cuenten con bardas 20.7 al millar
+
+3.- Predios que no cuenten con construcciones permanentes 28.5 al millar
+
+4.- Predios que no cuenten con bardas, y banquetas 21.5 al millar
+
+5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 30.9 al millar
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+III.- En la ZONA "C", se aplicarán las siguientes tasas por cada año:
+
+a).- En predios urbanos o rústicos que su valor no exceda de $12,000.00 2.5 S.M.G.
 
 b).- Predios urbanos 6.9 al millar
 
 c).- Predios rústicos 8.0 al millar
 
-d).- Cuando alguno de estos predios, con excepción de los rústicos no cuenten con banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden pagarán las siguientes tarifas:
+d).- Cuando alguno de estos predios con excepción de los rústicos, no cuenten con: banquetas, bardas o construcciones permanentes, en lugar de las tarifas que anteceden, pagarán las siguientes tarifas:
 
 1.- Predios que no cuenten con banquetas 7 al millar
 
@@ -205,7 +219,7 @@ d).- Cuando alguno de estos predios, con excepción de los rústicos no cuenten 
 
 4.- Predios que no cuenten con bardas y banquetas 7.5 al millar
 
-5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 19 al millar.
+5.- Predios que no cuenten con bardas, banquetas y construcciones permanentes 19 al millar
 
 ###### ARTÍCULO 14.
 
@@ -273,55 +287,15 @@ Son sujetos de este gravamen las personas físicas o morales y unidades económi
 
 La base del impuesto serán los ingresos globales que se obtengan con motivo de las actividades materia del gravamen.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 25.
 
 Este impuesto se causará de acuerdo con la siguiente tarifa:
 
-I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
+TARIFA
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-II.- Dramas, zarzuelas, comedia y opera 8%
-
-III.- Variedades y similares, aún cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, siempre que no estén gravados por la Ley del I.V.A. del 5% al 30%
-
-Cuando no se expidan boletos o comprobantes, la Tesorería Municipal, respectiva fijará cuota diaria de 5 a 30 s.m.g.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-IV.- Circos 8%
-
-O en su caso la Tesorería fijará, una cuota diaria de 5 a 7 s.m.g.
-
-V.- Corridas de toros del 15 al 30%
-
-O en su caso la cuota que fije la Tesorería municipal de 7 a 25 s.m.g.
-
-VI.- Jaripeos del 10 al 20%
-
-VII.- Box y lucha del 15 al 30%
-
-VIII.- Juegos deportivos del 15 al 30%
-
-IX.- Kermesses, verbenas, del 10 al 20%
-
-O en su caso la cuota que fije la Tesorería Municipal de 3.5 a 10 s.m.g.
-
-X.- Carrusel, sillas voladoras, rueda de la fortuna, camiones, pulpos, chicotes y aparatos similares, del 10 al 20%
-
-Cuando no se expidan boletos o comprobantes, la Tesorería Municipal respectiva fijará cuotas diarias por cada juego de 2 a 15 s.m.g.
-
-XI.- Bailes públicos de 4.5 a 30 s.m.g.
-
-XII.- No especificados, siempre que no sean gravados por el I.V.A. del 15 al 30%
-
-XIII.- Aparatos automáticos y eléctricos no musicales que trabajan con cualquier tipo de ficha o moneda, y electrónicos, diarios por cada juego de 0.50 a 2.5 s.m.g
-
-XIV.- Proyecciones públicas con fines lucrativos del y 10 al 30%
-
-Cuando no se expidan boletos o comprobantes, la Tesorería Municipal
-
-respectiva fijará cuotas diarias de 1 a 2 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 26.
 
@@ -439,27 +413,17 @@ VIII.- Copia del certificado de no adeudo de cooperación por obras;
 
 IX.- Tratándose de compra-venta de inmuebles, deberán presentar copia del recibo oficial de pago del impuesto predial, expedido por la Tesorería Municipal con el que acrediten estar al corriente en el pago de esta contribución.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-ARTÍCULO 34 La vivienda de interés social y popular tendrá un deducible equivalente para la Zona 1 a 15 días de S.M.G. y para la Zona 2 a 10 días de S.M.G. vigente en el estado elevado al año, mismo que será aplicable a la base para el calculo del impuesto.
-
-Para los efectos de este artículo se considera:
-
-I.- Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar para la Zona 1 por quince y para la Zona 2 por diez el salario mínimo general elevado al año, vigente en el estado; y
-
-II.- Vivienda popular; aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar para la Zona 1 por veinticinco y para la Zona 2 por veinte el salario mínimo general elevado al año, vigente en el estado.
-
-Para efectos de la (sic) este artículo se consideran dentro de la Zona 1 los Municipios de: Benito Juárez, Solidaridad, Cozumel e Isla Mujeres, y dentro de la Zona 2, los municipios de: Othón P. Blanco, Lázaro Cárdenas, José Ma. Morelos y Felipe Carrillo Puerto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 34.
 
-La vivienda de interés social y popular tendrá un deducible equivalente a 15 días de S.M.G. vigente en el estado elevado al año, mismo que será aplicable a la base para el cálculo del impuesto.
+La vivienda de interés social y popular tendrá un deducible equivalente para la ZONA "A" y ZONA "B" a 5 días de S.M.G. y para la ZONA "C" a 10 días de S.M.G. vigente en el Estado elevado al año, mismo que será aplicable a la base para el cálculo del impuesto.
 
-Para los efectos de este Artículo, se considera:
+Para los efectos de este artículo se considera:
 
-I.- Vivienda de interés social, aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el estado; y
+I.- Vivienda de interés social, aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar para la ZONA "A" por diez y para la ZONA "B" Y ZONA "C" por quince el S.M.G. elevado al año; y
 
-II.- Vivienda popular, aquélla cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado.
+II.- Vivienda popular; aquella cuyo valor al término de su edificación, no exceda del importe que resulte de multiplicar para la ZONA "a" por veinte y para la ZONA "B" y ZONA "C" por veinticinco el S.M.G. elevado al año.
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE EL USO O TENENCIA DE VEHÍCULOS QUE NO CONSUMAN GASOLINA NI OTRO DERIVADO DEL PETRÓLEO
 
@@ -475,11 +439,11 @@ Son sujetos de este impuesto las personas físicas o morales o unidades económi
 
 El pago de este impuesto se causará anualmente de conformidad con la siguiente:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
-I.- Bicicletas y triciclos 1 S.M.G.
-
-II.- Coches y carros de mano o tracción animal 1 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 Si el período de circulación del vehículo es menor de un semestre, solo causará el 50% de las cuotas anteriores.
 
@@ -563,11 +527,11 @@ Son sujetos de este impuesto las personas que lleven a cabo las actividades a qu
 
 El impuesto se causará de conformidad con la siguiente:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
-I.- Conjuntos musicales, por elemento, cada día de actuación, de 1.0 S.M.G a 4.0 S.M.G.
-
-II.- Solistas, pagarán por cada día de función de 1.0 S.M.G. a 4.0 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 48.
 
@@ -869,101 +833,9 @@ Se entiende por este derecho la prestación por la validez jurídica que otorgan
 
 Los derechos por los servicios que presta el Registro Civil se pagarán de acuerdo con las cuotas que señala la siguiente
 
-TARIFA:
+TARIFA
 
-I.- Nacimientos:
-
-a).- En las oficinas del registro civil en días y horas hábiles EXENTOS
-
-b).- En las Oficinas del registro civil en días y horas inhábiles 1.0 S.M.G.
-
-c).- Fuera de las oficinas del registro civil en horas hábiles 4.5 S.M.G.
-
-d).- Fuera de las oficinas del registro civil en horas inhábiles 6.5 S.M.G.
-
-e).- Rectificación de las actas de nacimiento 0.5 S.M.G.
-
-II.- Matrimonios:
-
-a).- En las oficinas del registro civil en días y horas hábiles 1.0 S.M.G.
-
-b).- En las oficinas del registro civil en días y horas inhábiles 3.5 S.M.G.
-
-c).- Fuera de las oficinas del registro civil en días y horas hábiles 5.5 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-d).- Fuera de las oficinas del registro civil en sábados y domingos y días festivos 18.5 S.M.G.
-
-e).- Registro de matrimonios contraídos por mexicanos fuera de la República 7.5 S.M.G.
-
-f).- Rectificación de actas de matrimonio 1.0 S.M.G.
-
-g).- Matrimonio entre extranjeros en la oficina del Registro Civil 65.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-h).- Matrimonio entre extranjeros fuera de la oficina del Registro Civil 125 S.M.G.
-
-i).- Matrimonio entre extranjeros y mexicanos en las oficinas del Registro Civil 10.0 S.M.G.
-
-j).- Matrimonio entre extranjeros y mexicanos fuera de las oficinas del registro civil 12.0 S.M.G.
-
-III.- Divorcios:
-
-a).- Divorcios voluntarios
-
-1.- Por acta de solicitud 10.0 S.M.G.
-
-2.- Por acta de divorcio 10.0 S.M.G.
-
-3.- Por acta de audiencia. 5.0 S.M.G.
-
-4.- Por acta de desistimiento 10.0 S.M.G.
-
-b).- Por cada acta de divorcio decretada por las autoridades judiciales que se inscriba en el Registro Civil 3.5 S.M.G.
-
-c).- Divorcio entre extranjeros en las oficinas del registro civil 65.0 S.M.G.
-
-IV.- Por cada acta de supervivencia:
-
-a).- En la oficina 0.3 S.M.G.
-
-b).- Levantada a domicilio 1.5 S.M.G.
-
-V.- Tutela, emancipación o adopción 1.0 S.M.G.
-
-VI.- Otros:
-
-a).- Inscripción de ejecutorias que declaran la ausencia de alguna persona, la presunción de muerte o que ha perdido la capacidad de administrar bienes 6.5 S.M.G.
-
-b).- Asentamientos de actas de defunción 1.0 S.M.G.
-
-c).- Anotaciones marginales 0.5 S.M.G.
-
-d).- Expedición de certificados de actas de nacimiento 1.0 S.M.G.
-
-e).- Expedición de actas de divorcio 3.5 S.M.G.
-
-f).- Expedición de actas de defunción 1.0 S.M.G.
-
-g).- Expedición de actas de matrimonio 1.0 S.M.G.
-
-h).- Transcripción de documentos 4.0 S.M.G.
-
-i).- Expedición de acta de reconocimiento 1.0 S.M.G.
-
-j).- Expedición de acta de adopción 4.0 S.M.G.
-
-k).- Expedición de acta de inscripción 4.0 S.M.G.
-
-l).- Constancia de inexistencia registral 1.0 S.M.G.
-
-m).- Certificación de documentos 10.0 S.M.G.
-
-n).- Búsqueda de documentos 10.0 S.M.G.
-
-o).- Otros no especificados 10.0 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADO P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1002,6 +874,14 @@ b).- De interés medio, hasta 50 m2 de construcción 2 S.M.G.
 2.- De 150 m2 en adelante se pagará por m2 de construcción 0.08 S.M.G.
 
 c).- Residencial, se pagará por m2 de construcción 0.08 S.M.G.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+d).- Por revisión, validación y aprobación de planos:
+
+1.- En la primera planta, m2 0.8 S.M.G.
+
+2.- En la segunda planta, m2 0.8 S.M.G.
 
 II.- Cuando se trate de construcciones destinadas a fines comerciales, industriales o de cualquier otra índole distinta a la establecida en la fracción anterior, se pagará por m2 de construcción: 0.08 S.M.G.
 
@@ -1111,61 +991,17 @@ Por los servicios de panteones que preste el municipio, se cobrarán los derecho
 
 TARIFA
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 I.- La concesión temporal o la adquisición a perpetuidad de terrenos en los panteones:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+(VEASE ARCHIVO ANEXO)
 
-a).- Primer patio, concesión o refrendos por seis años de 0.7 S.M.G. a 6.5 S.M.G.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+II.- Autorización de Traslado de cadáveres o restos áridos:
 
-b).- Segundo patio, concesión o refrendos por seis años de 0.05 S.M.G. a 4.5 S.M.G.
-
-c).- Primer patio, perpetuidad de 1.3 S.M.G. a 13.0 S.M.G.
-
-d).- Segundo patio, perpetuidad de 0.6 S.M.G. a 6.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-e).- Zona de restos áridos, osarios a perpetuidad de 0.7 S.M.G. a 6.5 S.M.G.
-
-f).- Las inhumaciones en el tercer patio (fosa común) serán gratuitas.
-
-II.- Traslado de cadáveres o restos áridos:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-a).- Traslado de un cadáver de un municipio a otro, previo permiso sanitario y del Registro Civil de 0.6 S.M.G. a 1.2 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-b).- Traslado de un cadáver de un municipio del estado a otra entidad de la República, previo permiso sanitario y del Registro Civil de 1.2 S.M.G. a 2.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-c).- Traslado de un cadáver de un municipio del estado al extranjero previo permiso sanitario y del registro civil de 1.2 S.M.G. a 2.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-d).- Traslado de restos áridos fuera de un municipio del estado al extranjero, previo permiso sanitario y del Registro Civil de 0.6 S.M.G. a 1.2 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-e).- Traslado de restos áridos de un municipio a otro, previo permiso sanitario y del Registro Civil de 0.3 S.M.G. a 0.7 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-f).- Traslado de restos áridos de un municipio del estado al extranjero, previo permiso sanitario y del Registro Civil de 0.3 S.M.G. a 7.0 S.M.G.
-
-g).- Traslado de restos áridos de un municipio del estado a otro estado de la República de 0.4 S.M.G. a 0.8 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-h).- Permisos para construir dentro del panteón municipal, a cargo de empleados no municipales, previo pago y entrega de la copia del documento que acredite la propiedad 0.5 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-i).- Titulación o reposición de títulos, mediante previo pago de la regularización, así como el pago anual del resello 3.0 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1191,7 +1027,9 @@ Las personas que poseen fosas a perpetuidad en los panteones municipales, podrá
 
 El municipio concederá las licencias para las exhumaciones y traslado de cadáveres o restos una vez satisfechos los requisitos de salubridad y el pago de los derechos correspondientes.
 
-### CAPITULO VII. ALINEAMIENTO DE PREDIOS, CONSTANCIAS DEL USO DEL SUELO, NUMERO OFICIAL Y MEDICIÓN DE SOLARES DEL FUNDO LEGAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO VII. ALINEAMIENTO DE PREDIOS, CONSTANCIAS DEL USO DEL SUELO, NUMERO OFICIAL, MEDICION DE SOLARES DEL FUNDO LEGAL Y SERVICIOS CATASTRALES
 
 ###### ARTÍCULO 85.
 
@@ -1199,51 +1037,81 @@ Se establece la obligación de obtener el alineamiento, constancia de uso de sue
 
 Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que fija la siguiente:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
 I.- Alineación de predios:
 
 a).- En las zonas urbanas y residenciales denominadas "A" por la clasificación catastral
 
-1.- Con frente hasta de 20 metros 2.0 S.M.G.
-
-2.- Con frente de más de 20 y hasta 40 metros lineales 4.0 S.M.G.
-
-3.- Por cada metro adicional a los 40 metros de frente 0.1 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 b).- En las zonas suburbanas y fuera de zonas residenciales denominadas "B" por la clasificación catastral
 
-1.- Con frente hasta de 20 metros 1.5 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
-2.- Con frente de más de 20 metros 2.5 S.M.G.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-II.- Expedición del número oficial y la placa correspondiente 4.5 S.M.G.
+II.- Expedición:
 
-III.- La medición de solares del Fundo Legal causará los derechos que establece el Artículo 71 Fracción II.
+(VEASE ARCHIVO ANEXO)
+
+III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2001)
 
 IV.- Constancia de uso y destino de suelo:
 
-1.- Interés social de 2.0 S.M.G. a 5.0 S.M.G.
-
-2.- Nivel medio de 6.0 S.M.G. a 12.0 S.M.G.
-
-3.- Residencial de 8.0 S.M.G. a 16.0 S.M.G.
-
-4.- Comercial, industrial y de servicios de 4.0 S.M.G. a 500.0 S.M.G.
-
-5.- Turístico de 10.0 S.M.G. a 10,000.0 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 V.- Por las autorizaciones de cambio de uso de suelo, se pagará aplicando al presupuesto de la obra, según la estimación que a efecto realicen la Dirección responsable de desarrollo urbano municipal, la siguiente:
 
+(VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+VI.- Los servicios prestados por la Dirección de Catastro Municipal, causarán derechos cuyo pago deberá efectuarse al momento de solicitarse el servicio y de acuerdo con la siguiente:
+
 TARIFA
 
-1.- Hasta 15 salarios mínimos de la zona económica elevado al año 8.0 S.M.G.
+a) Por la subdivisión de predios:
 
-2.- De 16 a 25 salarios mínimos de la zona económica elevado al año 12.0 S.M.G.
+1).- Cuando resulten dos lotes 6.75 S.M.G.
 
-3.- De 26 a 213 salarios mínimos de la zona económica elevado al año 4 al millar
+2).- Cuando resulten más de dos lotes, por lote excedente 5.40 S.M.G.
 
-4.- De 214 salarios mínimos de la zona económica elevado al año en adelante 3 al millar.
+3).- Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular causará el 50% de los derechos a que se refieren los incisos a) y b) de esta fracción 8.10 S.M.G.
+
+b) Por croquis de localización 8.10 S.M.G.
+
+c) Por copias de planos
+
+1.- Copias heliográficas y/o Bond 8.10 S.M.G.
+
+d) Por certificados de valor catastral y vigencia (cédulas catastrales) 4.10 S.M.G.
+
+e) Por certificación de linderos de predios urbanos, los derechos estarán en función de las características topográficas y de vegetación del bien raíz; la cuota será fijada por la Dirección de Catastro Municipal.
+
+f) Por expedición de constancias de y no propiedad 3.24 S.M.G.
+
+g) La expedición de documentos extraviados 2.92 S.M.G.
+
+h) Por declaración de documentos inscritos en el registro público de la propiedad y del comercio para su registro en el padrón de contribuyentes del impuesto predial 4.10 S.M.G.
+
+i) Por la asignación de claves catastrales y avalúos en propiedad de régimen en condominio, fraccionamiento y subdivisiones se aplicará por indiviso o fracción resultante 4.10 S.M.G.
+
+j) Por la práctica de avalúos que realicen peritos designados por la Dirección de Catastro Municipal a solicitud del interesado, se ajustará a lo siguiente:
+
+1).- Hasta $100,000.00 5% sobre el valor que resulte
+
+2).- De $100,000.01 en adelante 6% sobre el valor que resulte.
+
+3).- Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular 4.5 S.M.G.
+
+k) Verificación de medidas y colindancias de predios rústicos y suburbanos conforme a las condiciones, distancia y tiempo que dure el trabajo.
+
+l) Los servicios catastrales no previstos en esta tarifa, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por la Dirección de Catastro Municipal.
+
+m) Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc. deberán cubrir los mismos que no excederán del costo de los mismos.
 
 ###### ARTÍCULO 86.
 
@@ -1275,7 +1143,9 @@ I.- Original y copia de la inscripción en el Registro Federal de Contribuyentes
 
 II.- Croquis de ubicación del establecimiento;
 
-III.- Copia del último pago predial actualizado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+III.- Copia del último pago predial actualizado o constancias de no adeudo;
 
 IV.- Original y copia de la patente con el resello actualizado, si se expiden bebidas alcohólicas;
 
@@ -1295,7 +1165,9 @@ I.- Licencia de funcionamiento del año inmediato anterior;
 
 II.- Copia de los avisos a los Registros Federales y Estatales de Contribuyentes, cuando haya efectuado cambios en lo relativo a nombre, denominación o razón social, domicilio fiscal, actividad preponderante o cualquier otro hecho de los que den motivo a la presentación de dichos avisos;
 
-III.- Copia del pago de impuesto predial actualizado del establecimiento;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+III.- Copia del pago de impuesto predial actualizado del establecimiento o constancia de no adeudo;
 
 IV.- Original y copia de la patente con resello actualizado cuando con posterioridad a la inscripción se le haya autorizado la venta de bebidas alcohólicas;
 
@@ -1703,13 +1575,11 @@ Simultáneamente al requerimiento, la autoridad impondrá la sanción que corres
 
 La autorización para el funcionamiento de establecimientos comerciales fuera del horario normal que fijen los reglamentos, causarán diariamente derechos por cada hora extraordinaria, como sigue:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-I.- Clubes, restaurantes, loncherías y demás en que se expendan bebidas alcohólicas de 2.5 S.M.G. a 6.5 S.M.G.
+TARIFA
 
-II.- Otros establecimientos que vendan alimentos sin bebidas alcohólicas excepto cerveza de 0.6 S.M.G. a 1.2 S.M.G.
-
-III.- Los establecimientos que no expendan bebidas alcohólicas, ni cerveza de 0.3 S.M.G. a 0.5 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 94.
 
@@ -1813,21 +1683,19 @@ El derecho que se pagará por el registro de fierros será de 3.0 S.M.G.
 
 Por cada búsqueda de señales y marcas que se haga en los archivos a solicitud de los interesados y duplicados que se expidan se pagará 1.5 S.M.G.
 
-### CAPITULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD Y DE MORADA CONYUGAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTÍCULO 103.
 
-La expedición de certificados de vecindad y de morada conyugal causarán derechos conforme a la siguiente:
+La expedición de certificados de vecindad, de residencia y de morada conyugal causarán derechos conforme a la siguiente:
 
 TARIFA
 
-1.- De vecindad:
-
-a).- A extranjeros, para que regularicen su situación migratoria, naturalización y recuperación de nacionalidad o para fines análogos 12.0 S.M.G.
-
-b).- A quienes soliciten certificados para cualquier fin distinto de los mencionados en el inciso anterior 2.5 S.M.G.
-
-c).- De morada conyugal 2.5 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 ### CAPITULO XV. ANUNCIOS
 
@@ -1847,91 +1715,11 @@ Serán responsables solidarios del pago de este derecho, los propietarios de los
 
 Por la expedición de licencias, permisos o autorizaciones que otorguen las autoridades facultadas para estos efectos, de acuerdo al reglamento de anuncios de cada H. Ayuntamiento, se deberán pagar derechos de acuerdo a la siguiente:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 TARIFA
 
-ZONA A ZONA B
-
-(S.M.G.) (S.M.G.)
-
-I.- Denominativos, anualmente
-
-1 2
-
-II.- Anuncios colocados en vehículos del servicio público, por vehículo anualmente:
-
-a).- En el exterior del vehículo
-
-3 6
-
-b).- En el interior del vehículo
-
-0.80 1.2
-
-III.- Volantes, por cada ciento
-
-0.70 1
-
-IV.- Por difusión fonética de publicidad en la vía pública, por unidad de sonido por día
-
-2 3
-
-V.- MANTAS
-
-a).- En la vía pública por día
-
-0.6 1.2
-
-b).- En propiedad privada por día
-
-0.5 1
-
-VI.- Por anuncios espectaculares con altura mínima de tres metros, por anuncio anualmente
-
-a).- Cuyo contenido se despliegue a través de una sola carátula, vista o pantalla, excepto electrónicos
-
-45 90
-
-b).- Cuyo contenido se despliegue a través de dos o más carátulas, vistas o pantallas, excepto electrónicos
-
-90 180
-
-VII.- Anuncios luminosos, anualmente
-
-a).- Una pantalla
-
-36 72
-
-b).- Dos o más pantallas
-
-45 90
-
-VIII.- Anuncios giratorios anualmente
-
-36 45
-
-IX.- Anuncio cuyo contenido se transfiera a través de pantalla electrónica, anualmente
-
-67 120
-
-X.- Anuncios pintados, fijados, sobre muros, tapias, fachadas, techos, marquesinas, etc., que no sean denominativos, por metro cuadrado anual
-
-0.2 0.5
-
-XI.- Por la cartelera de cines, por día
-
-0.4 1
-
-XII.- Carteles y posters, por cada ciento
-
-0.6 1
-
-XIII.- Anuncios luminosos de gas neón, por metro cuadrado anualmente
-
-0.4 1
-
-XIV.- Anuncio espectacular denominativo de centro comercial, anualmente
-
-23 45
+(VEASE ANEXO)
 
 ###### ARTÍCULO 108.
 
@@ -2081,23 +1869,7 @@ Por el uso de la vía pública para el ejercicio de una actividad lucrativa de c
 
 TARIFA
 
-a).- Puestos ubicados en la vía pública, diario de 0.2 a 0.5 S.M.G.
-
-b).- Andamios, maquinaria y materiales de construcción, diarios de 0.5 a 1.0 S.M.G.
-
-c).- Otros aparatos, diario de 0.5 a 1.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
-
-d).- Por sitio exclusivo diario, por metro lineal de 0.5 a 1.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
-
-e).- Autos de alquiler (sitios), diario, por metro lineal de 0.5 a 1.0 S.M.G.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1998)</small>
-
-f).- Autobuses de pasajeros que utilicen la vía pública como terminal, diario, por metro lineal de 0.5 a 1.0 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 (REUBICADO [N. DE E. ANTES CAPITULO XXII], P.O. 15 DE DICIEMBRE DE 1998)
 
@@ -2187,6 +1959,8 @@ Los bienes de uso común o destinados al servicio de los municipios no podrán s
 
 ### CAPITULO IV. MERCADOS
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTÍCULO 135.
 
 Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios cuyo dueño se ignore.
@@ -2241,53 +2015,7 @@ Por locales en los mercados y otros sitios, será pagada una renta mensual de ac
 
 TARIFA
 
-EN MERCADOS
-
-a).- Accesorios y locales con puerta a la calle, por metro cuadrado de 0.05 a 0.08 S.M.G.
-
-b).- Accesorios en el pasaje, por metro cuadrado de 0.02 a 0.1 S.M.G.
-
-c).- Locales en el interior, por metro cuadrado de 0.03 a 0.1 S.M.G.
-
-d).- Locales en el interior, por metro cuadrado de 0.1 a 0.5 S.M.G.
-
-e).- Carnicerías, por metro cuadrado de 0.5 a 1.0 S.M.G.
-
-f).- Pescaderías, por metro cuadrado de 0.5 a 1.0 S.M.G.
-
-g).- Los que establezcan fuera de los mercados puestos de frutas, verduras, carnes cocidas o cualesquiera otros Artículos alimenticios, por metro cuadrado de 0.02 a 0.05 S.M.G.
-
-h).- Servicios frigoríficos, por metro cuadrado de 0.1 a 0.5 S.M.G.
-
-i).- Servicios de almacenaje, por metro cuadrado de 0.1 a 0.5 S.M.G.
-
-EN SITIOS FRENTE A ESPECTÁCULOS PÚBLICOS
-
-Puestos fijos o semifijos, de refrescos, y comestibles en general, por metro cuadrado diariamente de 0.08 a 0.5 S.M.G.
-
-EN PORTALES, ZAGUANES Y CALLES
-
-a).- Puestos semifijos, por metro cuadrado diario de 0.5 a 0.8 S.M.G.
-
-b).- Puestos móviles o carros de mano con venta de refrescos, y comestibles en general, por metro cuadrado diario de 0.08 a 0.5 S.M.G.
-
-c).- Puestos fijos, por metro cuadrado diario de 0.2 a 0.5 S.M.G.
-
-AMBULANTES
-
-a).- Vendedores con carro expendiendo paletas y otro tipo de alimentos, por metro cuadrado diario de 0.08 a 0.5 S.M.G.
-
-b).- Vendedores de ropa, calzado, mercería y loza, por metro cuadrado diario de 0.2 a 0.8 S.M.G.
-
-c).- Vendedores de dulces y frutas, por metro cuadrado diario de 0.1 a 0.3 S.M.G.
-
-d).- Merolicos, anunciantes y comerciantes, por metro cuadrado diario de 0.2 a 0.8 S.M.G.
-
-e).- El arrendamiento del lugar público ocupado por las ferias, juegos mecánicos y carpas, será calificado por la Tesorería Municipal y el pago será diario.
-
-f).- Cuando los vendedores no establezcan puestos semifijos en la vía pública, pagarán diario de 0.1 a 3.0 S.M.G.
-
-g).- Otros no especificados, diario de 0.8 a 5.0 S.M.G.
+(VEASE ARCHIVO ANEXO)
 
 ### CAPITULO VII. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
@@ -2414,3 +2142,11 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día primero del me
 SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
 
 TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5,001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco contenido en el inciso b) de la Fracción I del Artículo 13 de la Ley de Hacienda de los Municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2001.
+
+P.O. 28 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil dos, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+TERCERO.- Por esta única ocasión la tasa aplicable para el pago del impuesto predial respecto de predios edificados en zonas urbanas, cuyo valor sea de $5001.00 en adelante, exclusivamente del Municipio de Othón P. Blanco, contenido en el inciso b) de la fracción II del artículo 13, de la Ley de Hacienda de los municipios, será de 10.5 al millar, cobrando vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y por todo el ejercicio fiscal del año 2002.
