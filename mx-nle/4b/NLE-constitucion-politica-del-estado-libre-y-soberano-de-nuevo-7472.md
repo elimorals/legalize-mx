@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1990-12-27"
+last_updated: "1991-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1197,9 +1197,11 @@ Si las dos terceras partes de los miembros del Ayuntamiento se encuentran en el 
 
 Los Alcaldes Primeros no pueden ser reelectos en los dos períodos siguientes a su último ejercicio.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 1991)</small>
+
 ###### Art. 128.
 
-Los Ayuntamientos en los primeros días del mes de octubre de cada año presentarán al Congreso, por conducto del Ejecutivo, sus proyectos de presupuestos de Ingresos para que, con la aprobación de aquél, se pongan en vigor durante el año siguiente.
+Los Ayuntamientos, en los primeros días del mes de noviembre de cada año, presentarán al Congreso, por conducto del Ejecutivo, sus proyectos de Presupuestos de Ingresos para que, con la aprobación de aquél, se pongan en vigor durante el año siguiente.
 
 ###### Art. 129.
 
@@ -1412,6 +1414,10 @@ Toda persona tiene derecho a la protección de la salud. La ley establecerá las
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
 El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su buena formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar los derechos del niño.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1991)</small>
+
+El Estado promoverá el bienestar de las personas de edad avanzada mediante un sistema de servicio social con la participación de la comunidad nuevoleonesa que atienda sus problemas específicos en materia de salud, cultura y recreación, debiendo expedir los ordenamientos jurídicos necesarios para garantizar o proteger sus derechos y lograr como meta mejorar su calidad de vida.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
@@ -1989,37 +1995,7 @@ P.O. 30 DE OCTUBRE DE 1985.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 7 DE OCTUBRE DE 1987.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 14 DE OCTUBRE DE 1987.
-
-UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 13 DE ABRIL DE 1988.
-
-UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 1990.
-
-DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 53, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 1990.
-
-DECRETO NUMERO 149, QUE REFORMA EL ARTICULO 63 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
-
-UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE NOVIEMBRE DE 1990.
-
-DECRETO QUE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
-
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 27 DE DICIEMBRE DE 1990.
+P.O.13 DE ABRIL DE 1987.
 
 ###### ARTICULO UNICO
 
@@ -2055,6 +2031,8 @@ DECRETO QUE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUE
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+P.O. 27 DE DICIEMBRE DE 1990.
+
 ###### ARTICULO PRIMERO
 
 - Las reformas a los artículos 55, 56, 57, 84 y 123 de la Constitución Política del Estado de Nuevo León no tendrán aplicación en el ejercicio de los primeros tres años del próximo Titular del Poder Ejecutivo y en la renovación del Poder Legislativo y Ayuntamientos correspondientes al año de 1991.
@@ -2078,3 +2056,15 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 ###### ARTICULO SEXTO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 1991.
+
+DECRETO NÚMERO 206, QUE REFORMA EL ARTÍCULO128.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 1991.
+
+DECRETO NÚMERO 207, QUE REFORMA EL ARTÍCULO 3.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
