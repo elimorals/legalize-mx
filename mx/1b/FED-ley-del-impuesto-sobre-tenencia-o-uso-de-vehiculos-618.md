@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1996-12-30"
+last_updated: "1997-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -47,9 +47,9 @@ Están obligadas al pago del impuesto establecido en esta Ley, las personas fís
 
 Para los efectos de esta Ley, se presume que el propietario es tenedor o usuario del vehículo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 15 días siguientes a aquél en que se adquirió o importó el vehículo. Se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente. El impuesto se pagará en las oficinas de la entidad en que la autoridad federal, estatal, municipal o del Distrito Federal autorice el registro de dicho vehículo. Los contribuyentes de este impuesto no están obligados a presentar por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 15 días siguientes a aquél en que se adquirió o importó el vehículo. Se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente o se expida la factura correspondiente, lo que suceda primero. El impuesto se pagará en las oficinas de la entidad en que la autoridad federal, estatal, municipal o del Distrito Federal autorice el registro de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público. Los contribuyentes de este impuesto no están obligados a presentar por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
 Los importadores ocasionales efectuarán el pago del impuesto a que se refiere esta Ley, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo anterior.
 
@@ -57,9 +57,9 @@ Los importadores ocasionales efectuarán el pago del impuesto a que se refiere e
 
 Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto a más tardar dentro de los 15 días siguientes a la fecha en que se asignen.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de la ley, se pagará el impuesto correspondiente al año de calendario en que se enajene.
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de la Ley, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
 Para los efectos de esta Ley, también se consideran los automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
 
@@ -67,15 +67,37 @@ Para los efectos de esta Ley, también se consideran los automóviles, a los omn
 
 En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere esta Ley, se pagará como si éste fuese nuevo.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer trimestre del año de calendario, el impuesto causado por dicho año se pagará en las siguientes proporciones:
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
 
-I. El 75%, si la enajenación o importación se efectúa dentro del segundo trimestre del año.
+Mes Factor aplicable
 
-II. El 50%, si la enajenación o importación se efectúa dentro del tercer trimestre del año.
+de al impuesto
 
-III. El 25%, si la enajenación o importación se efectúa dentro del cuarto trimestre del año.
+adquisición causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -103,9 +125,9 @@ I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del ve
 
 II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-III. Las autoridades federales, estatales o municipales competentes, que autoricen el registro de vehículos, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que se haya pagado el impuesto.
+III.- Las autoridades federales, estatales o municipales competentes, que autoricen el registro de vehículos, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
 ###### ARTICULO 4o.
 
@@ -121,11 +143,15 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-I. En el caso de automóviles nuevos, destinados al transporte hasta de diez pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tasa que corresponda conforme a la siguiente:
+I.- En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tasa que corresponda conforme a la siguiente:
 
 (VEASE TABLA)
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de automóviles blindados, excepto camiones, la tasa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos, será menor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tasa que corresponda conforme a la tabla establecida en esta fracción, multiplicado el resultado por el factor de 0.80.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -135,15 +161,17 @@ II. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
 III. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-IV. Para automóviles nuevos destinados al transporte de más de 10 pasajeros o efectos cuyo peso vehicular sea menor a 15 toneladas, el impuesto será la cantidad que resulte de aplicar el 0.49% al valor total del vehículo. Cuando el peso vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 1% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+IV.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso vehicular sea menor a 15 toneladas y para automóviles que cuenten con placas de servicio público de transporte de pasajeros, el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, equipo y carga útil transportable.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-V.- Tratándose de vehículos de más de diez años de fabricación anteriores a la aplicación de esta Ley, el impuesto se pagará a la tasa del 0%, para efectos de esta fracción se considerará también a las motocicletas.
+V.- Tratándose de automóviles de más de diez años modelo anteriores al de aplicación de esta Ley, el impuesto se pagará a la tasa del 0%.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -221,9 +249,9 @@ IV.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 V.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Los automóviles que estén exclusivamente al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus funcionarios debidamente acreditados ante nuestro país, excepto los cónsules generales honorarios y cónsules y vicecónsules honorarios.
+VI.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
 
 VII.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
 
@@ -233,11 +261,9 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y V del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Hacienda y Crédito Público que se encuentran comprendidos en dichos supuestos.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 10.
 
-Las autoridades federales, estatales o municipales competentes no autorizarán registros de vehículos, matrículas, altas, bajas o cambio de placas o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación. De no comprobarse que se ha pagado el impuesto, dichas autoridades lo harán del conocimiento de las autoridades fiscales competentes.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ### CAPITULO III. Otros Vehículos
 
@@ -355,6 +381,10 @@ De 100.0001 En Adelante 3,032.00
 
 El monto de las cuotas establecidas en este artículo se actualizarán con el factor a que se refiere el artículo 14-C de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de motocicletas de más de diez años modelo anteriores al de aplicación de esta Ley, el impuesto se pagará a la tasa del 0%.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 14-B.
@@ -445,6 +475,30 @@ antigüedad
 
 El factor de actualización a que se refiere este artículo, será el correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de ajuste en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de automóviles de servicio público de transporte denominados "taxis", que pasen a ser de servicio particular, el impuesto sobre tenencia o uso de vehículos se calculará para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I.- El impuesto pagado por el contribuyente en el último ejercicio en que el automóvil fue de servicio público de transporte "taxi", se multiplicará por el factor de ajuste a que se refiere el primer párrafo de este artículo.
+
+II.- La cantidad obtenida conforme a la fracción anterior, se multiplicará por el factor a que se refiere esta fracción, de acuerdo a la categoría que le corresponda al automóvil en términos del artículo 5o. de esta Ley.
+
+Factor
+
+Para categoría "A" 10.612
+
+Para categoría "B" 26.531
+
+Para categoría "C" 34.694
+
+Para categoría "D" 42.449
+
+III.- El resultado obtenido será el impuesto a pagar, mismo que servirá de base para el cálculo del impuesto correspondiente a los años subsecuentes.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Para efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER FRACCION I DEL ARTICULO DECIMO OCTAVO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS, DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995.</small>
@@ -477,21 +531,11 @@ El registro estatal vehicular a que se refiere el primer párrafo de este artíc
 
 ### CAPITULO V. Obligaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 17.
 
-Los fabricantes y distribuidores autorizados, así como las empresas comerciales que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa comercial para importar autos usados, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I. Proporcionar a la Secretaría de Hacienda y Crédito Público, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere esta fracción, haciendo la separación por cada uno de los establecimientos y por cada entidad federativa.
-
-II. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-III. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-IV. (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+Los fabricantes y distribuidores autorizados, así como las empresas comerciales que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa comercial para importar autos usados, tendrán la obligación de proporcionar a la Secretaría de Hacienda y Crédito Público, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio nacional en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada entidad federativa.
 
 ## TRANSITORIOS
 
@@ -1005,7 +1049,7 @@ II.- El precio de la unidad típica de los vehículos del año modelo de aplicac
 
 1983 22.27
 
-1982 44.27
+1982 4.27
 
 1981 56.98
 
@@ -1370,3 +1414,177 @@ D.O.F. 30 DE DICIEMBRE DE 1996.
 ## TRANSITORIO
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
+
+D.O.F. 29 DE DICIEMBRE DE 1997.
+
+Disposiciones Transitorias de la Ley del Impuesto sobre Tenencia
+
+o Uso de Vehículos
+
+Artículo Noveno.- Para los efectos del artículo anterior, se estará a lo siguiente:
+
+I.- Los contribuyentes que hasta 1997 hayan adquirido automóviles nuevos con blindaje incluido, instalado en fábrica, de año modelo anterior a 1998, podrán calcular el impuesto sobre tenencia o uso de vehículos para el año de 1998, multiplicando el monto del impuesto causado en 1997, por el factor de 0.80. Al resultado obtenido de esta operación se aplicará el factor de ajuste establecido en el primer párrafo del artículo 15-B de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, de acuerdo con el año modelo del vehículo. El monto que resulte de esta operación será el impuesto correspondiente al ejercicio fiscal de 1998.
+
+Los contribuyentes que ejerzan la opción establecida en esta fracción, para calcular el impuesto sobre tenencia o uso de vehículos correspondiente a los años subsecuentes, deberán tomar como monto del impuesto para el cálculo del mismo, el impuesto causado en 1998 de conformidad con el párrafo anterior.
+
+II.- Los vehículos usados destinados al transporte público de pasajeros o efectos, de años modelo 1989 a 1997, salvo los denominados "taxis", calcularán el impuesto para el año de 1998, multiplicando el monto del impuesto causado en 1997, por el factor de 0.50. Al resultado obtenido de esta operación se aplicará el factor de ajuste establecido en el primer párrafo del artículo 15-B de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, de acuerdo con el año modelo del vehículo.
+
+Los vehículos usados destinados al transporte público de pasajeros que cuenten con placas de servicio público de transporte, denominados taxis, de años modelo 1989 a 1997, calcularán el impuesto correspondiente a 1998, multiplicando el monto del impuesto causado en 1997, por el factor de 0.0942. Al resultado obtenido de esta operación se aplicará el factor de ajuste establecido en el primer párrafo del artículo 15-B de la citada Ley, de acuerdo con el año modelo del vehículo.
+
+III.- Los contribuyentes propietarios o poseedores de vehículos adquiridos como nuevos durante 1995, para calcular el impuesto sobre tenencia o uso de vehículos correspondiente al año de 1998, en lugar de aplicar lo dispuesto por el artículo 15-B de la citada Ley, podrán optar por determinarlo de conformidad con lo siguiente:
+
+a).- Determinarán la categoría y tasa aplicable al vehículo de que se trate, de acuerdo con el valor total de factura y al mes de adquisición, conforme a las siguientes tablas:
+
+Enero de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 149 2.6
+
+"B" De más de 149 a 225 6.5
+
+"C" De más de 225 10.4
+
+Febrero de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 150 2.6
+
+"B" De más de 150 a 227 6.5
+
+"C" De más de 227 10.4
+
+Marzo de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 156 2.6
+
+"B" De más de 156 a 236 6.5
+
+"C" De más de 236 10.4
+
+Abril de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 163 2.6
+
+"B" De más de 163 a 246 6.5
+
+"C" De más de 246 10.4
+
+Mayo de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 173 2.6
+
+"B" De más de 173 a 261 6.5
+
+"C" De más de 261 10.4
+
+Junio de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 187 2.6
+
+"B" De más de 187 a 282 6.5
+
+"C" De más de 282 10.4
+
+Julio de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 195 2.6
+
+"B" De más de 195 a 294 6.5
+
+"C" De más de 294 10.4
+
+Agosto de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 201 2.6
+
+"B" De más de 201 a 303 6.5
+
+"C" De más de 303 10.4
+
+Septiembre de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 205 2.6
+
+"B" De más de 205 a 309 6.5
+
+"C" De más de 309 10.4
+
+Octubre de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 208 2.6
+
+"B" De más de 208 a 314 6.5
+
+"C" De más de 314 10.4
+
+Noviembre de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 212 2.6
+
+"B" De más de 212 a 320 6.5
+
+"C" De más de 320 10.4
+
+Diciembre de 1995
+
+Categoría Valor Total en Tasa
+
+Miles de Pesos %
+
+"A" Hasta de 216 2.6
+
+"B" De más de 216 a 327 6.5
+
+"C" De más de 327 10.4
+
+b).- Al valor total contenido en la factura del vehículo se le aplicará la tasa determinada conforme al inciso anterior. La cantidad obtenida se multiplicará por el factor de 1.1359.
+
+c).- Al resultado obtenido conforme al inciso anterior se le aplicará el factor de ajuste a que se refiere el artículo 15-B de la citada Ley. El monto que resulte de esta operación será el impuesto correspondiente al ejercicio fiscal de 1998.
+
+Los contribuyentes que ejerzan la opción establecida en esta fracción, para calcular el impuesto sobre tenencia o uso de vehículos correspondiente a los años subsecuentes, deberán tomar como monto del impuesto para el cálculo del mismo, el impuesto causado en 1998, de conformidad con el inciso anterior.
+
+## Transitorio
+
+ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
