@@ -4,7 +4,7 @@ identifier: "BCS-ley-reglamentaria-de-la-contaduria-mayor-de-hacienda-del-3281"
 country: "mx"
 rank: "ley"
 publication_date: "1975-06-25"
-last_updated: "1991-12-10"
+last_updated: "2002-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY REGLAMENTARIA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1991.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY REGLAMENTARIA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 10 DE MARZO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 25 de junio de 1975.
 
@@ -170,3 +172,15 @@ B.O. 10 DE DICIEMBRE DE1991.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE MARZO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los noventa día (sic) siguientes de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Reglamentaria de La Contaduría Mayor de Hacienda del
+
+Estado de Baja California Sur, contenida en el decreto número 14 de fecha 17 de junio de 1975.
