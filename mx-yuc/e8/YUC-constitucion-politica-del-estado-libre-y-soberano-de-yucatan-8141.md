@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-03-30"
+last_updated: "1921-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE ABRIL DE 1921.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -789,7 +789,9 @@ I.- los espectáculos inmorales.
 
 II.- la trata de blancas;
 
-III.- los juegos ilícitos considerando como tales todos aquellos en que el éxito dependa del azar y no de medios conocidos de ambas partes con exclusión de las loterías;
+> <small>(REFORMADA, D.O. 6 DE ABRIL DE 1921)</small>
+
+III.- los juegos ilícitos considerando como tales todos aquellos en que el éxito dependa del azar y no de medios conocidos de ambas partes, tales como las Loterías de figuras, barajas, cartones, etc., exceptuándose únicamente las Loterías de billetes.
 
 Las leyes fijarán las penas de los que infrinjan esta disposición.
 
@@ -954,3 +956,7 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 D.O. 30 DE MARZO DE 1921.
 
 Este decreto entrará en vigor al siguiente día de su publicación, y no afecta a los Alcaldes últimamente electos.
+
+D.O. 6 DE ABRIL DE 1921.
+
+Ese decreto surtirá sus efectos desde el mismo día de su publicación.
