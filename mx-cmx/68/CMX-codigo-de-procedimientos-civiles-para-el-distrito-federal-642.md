@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1998-10-19"
+last_updated: "1999-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 1999.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -8171,3 +8171,29 @@ Las adopciones realizadas con anterioridad a la entrada en vigor del presente De
 D.O.F. 19 DE OCTUBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+G.O. 17 DE ABRIL DE 1999.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACION SE TRANSCRIBE EL SIGUIENTE DECRETO:</small>
+
+DECRETO SOBRE LA APLICACION EN EL DISTRITO FEDERAL DE DISPOSICIONES EN MATERIA CIVIL COMUN PREVISTAS EN LOS DECRETOS PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACION LOS DIAS 21 DE JULIO DE 1993, 23 DE SEPTIEMBRE DE 1993 Y 19 DE OCTUBRE DE 1998 POR LOS QUE SE REFORMAN ENTRE OTROS ORDENAMIENTOS, EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL Y EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+###### Artículo 1o.
+
+En materia civil común en el Distrito Federal son aplicables las disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal y del Código de Procedimientos Civiles para el Distrito Federal previstas en los siguientes decretos:
+
+I.- Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal; Código de Procedimientos Civiles para el Distrito Federal y Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993.
+
+II.- Decreto por el que se modifican los artículos transitorios del diverso por el que se reforman el Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, y el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 23 de septiembre de 1993.
+
+III.- Decreto por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, publicado en el Diario Oficial de la Federación el 19 de octubre de 1998.
+
+###### Artículo 2o.
+
+Las disposiciones del decreto mencionado en la fracción I del artículo anterior del presente decreto, se aplicarán desde el 30 de abril del año 2000, excepto en los casos previstos en artículo transitorio segundo del artículo unico del decreto a que se refiere la fracción II del artículo anterior del presente decreto para los que se aplican desde el 19 de octubre de 1993 según lo disponen el artículo transitorio mencionado.
+
+Asimismo, a los juicios y procedimientos judiciales actualmente en trámite, así como los que se inicien antes del 30 de abril del año 2000, derivados de contratos de arrendamiento de inmuebles para habitación y sus prorrogas, que no se encuentren en los supuestos establecidos en el artículo transitorio del artículo unico del decreto a que se refiere la fracción II del artículo anterior del presente decreto, se aplicarán hasta su conclusión, las disposiciones del Código de Procedimientos Civiles para el Distrito Federal vigentes con anterioridad al 19 de octubre de 1993.
+
+## TRANSITORIO
+
+UNICO: El presente decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Distrito Federal.
