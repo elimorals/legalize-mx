@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-09-29"
+last_updated: "1988-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE SEPTIEMBRE DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE DICIEMBRE DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -401,7 +401,7 @@ VII.- Señalar las contribuciones y otros ingresos que deban formar la hacienda 
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
-VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos,
+VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -523,7 +523,7 @@ XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tra
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste;
+XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste.
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -807,15 +807,15 @@ Si éste no estuviere reunido, se encargará del despacho provisionalmente el Se
 
 Si la ausencia del Gobernador Electo se debiere a fuerza, coacción o cualquier otra causa que impidan materialmente llenar sus funciones, deberá comprobarse este hecho, y en tal caso, el Gobernador Interino deberá entregarle el Gobierno al legalmente electo.
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+.(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
 
 ###### Artículo 51.
 
 En las faltas absolutas y en las temporales del Gobernador, el Congreso, por mayoría absoluta del número total de Diputados, eligirá (sic) al ciudadano en quien concurran las condiciones necesarias para ser Gobernador Interino, a fin de que con ese carácter desempeñe el Poder Ejecutivo.
 
-Si al concurrir dichas faltas del Gobernador estuviere en funciones la Comisión Permanente, ésta procederá en los términos de la Fracción VIII del Artículo 43.
+Si al concurrir dichas faltas del Gobernador estuviere en funciones la Diputación Permanente, ésta procederá en los términos de la fracción VIII del Artículo 43.
 
-Cuando la falta sea temporal y no exceda de sesenta días se encargarán del despacho del Poder Ejecutivo los titulares de las dependencias que establezca la Ley Orgánica del Poder Ejecutivo, en la que se señala el orden en que asumirán el encargo.
+Cuando la falta sea temporal y no exceda de sesenta días se encargarán del despacho del Poder Ejecutivo los titulares de las dependencias que establezca la Ley Orgánica de la Administración Pública del Estado y en la que se señala el orden en que asumirán el encargo.
 
 > <small>(REFORMADO, D.O. 22 DE ENERO DE 1955)</small>
 
@@ -1015,27 +1015,27 @@ El Tribunal Superior de Justicia se compondrá de seis Magistrados y funcionará
 
 Cada uno de los Magistrados del Tribunal Superior de Justicia, propietario o suplente, durará en su encargo cuatro años, y será nombrado por el Congreso del Estado por mayoría absoluta del número total de Diputados. Sólo podrá ser removido previo juicio de responsabilidad.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(ADICIONADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
+
+Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988) (F. DE E., D.O. 3 DE ENERO DE 1989)
 
 ###### Artículo 66.
 
-Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
-I.- ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco;
+I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco;
 
-II.- estar en ejercicio de sus derechos;
+II.- Estar en ejercicio de sus derechos políticos y civiles.
 
-III.- tener treinta años de edad;
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello;
 
-IV.- ser Abogado con Título oficial;
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-V.- No ser Ministro de ningún culto; y
+V.- No tener más de sesenta y cinco años de edad ni menos de treinta y cinco, el día de la elección.
 
-VI.- haber ejercido la abogacía cinco años o cuatro la Judicatura.
-
-> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
-
-VII.- No tener antecedentes penales.
+Los nombramientos de los Magistrados y Jueces integrantes del Poder Judicial serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1121,9 +1121,9 @@ VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendie
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-## TITULO NOVENO. De las responsabilidades de los Funcionarios Públicos del Estado
+## TITULO NOVENO. De las responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, D.O. 29 DE ENERO 1982)</small>
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ###### Artículo 76.
 
@@ -1389,7 +1389,7 @@ El Estado propugnará por una correcta aplicación de los recursos y al efecto e
 
 La Ley determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenio con los Gobiernos Federal y Municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO UNDECIMO. Reforma e inviolabilidad de la Constitución
 
@@ -1397,31 +1397,77 @@ La Ley determinará cuales serán los órganos responsables del proceso de plane
 
 ###### Artículo 97.
 
-Todos los funcionarios y empleados públicos son responsables por delitos comunes que cometan durante el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de ese mismo encargo. No obstante, a los Diputados Propietarios y Suplentes en funciones, al Gobernador, al Secretario General de Gobierno y a los Magistrados, no se les puede hacer responsables sin que preceda la declaración afirmativa del Congreso Local en el sentido de que hubiere lugar a proceder contra el acusado, tratándose de delitos comunes, o de ser éste culpable tratándose de delitos oficiales.
+Para los efectos de las responsabilidades a que alude este título, se reputará como servidores públicos a los representantes de elección popular, a los funcionarios, empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(F. DE E., D.O. 3 DE ENERO DE 1989)</small>
+
+Todos los servidores públicos son responsables por los delitos comunes que cometan en el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de ese encargo. No obstante, al Gobernador del Estado, a los Diputados locales propietarios y a los suplentes en funciones, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Contencioso Administrativo, a los Titulares de las dependencias de la Administración Pública Estatal y a los Presidentes Municipales, no se les puede hacer responsables, sin que proceda declaración, en sentido afirmativo, emitida por el Congreso del Estado.
+
+En las demandas de orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ###### Artículo 98.
 
-No gozan de fuero constitucional los altos funcionarios del Estado por los delitos oficiales en que incurran en el desempeño de cualquier otro empleo, cargo o comisión pública que hayan aceptado durante el periodo en que conforme a la Ley se disfrute de aquél fuero. Lo mismo sucederá con respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión, siempre que en ambos casos el alto funcionario no desempeñe sus funciones propias. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a sus funciones propias, si se hubiere separado de ellas, deberá procederse con arreglo a lo dispuesto en el artículo siguiente.
+El Congreso del Estado expedirá la Ley Reglamentaria del presente título y las demás normas conducentes para sancionar a los servidores públicos que incurran en responsabilidades, de conformidad con las siguientes prevenciones:
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+I.- Se impondrán mediante Juicio Político, las sanciones indicadas en el Artículo 99 de esta Constitución a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos o de su buen despacho.
+
+No procede el Juicio Político por la mera expresión de ideas;
+
+II.- La comisión de delitos por parte de cualquier servidor público, será perseguida y sancionada en los términos de la Legislación en materia de defensa social; y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban de observar en el desempeño de sus funciones.
+
+Las leyes determinarán los casos y las circunstancias en que se deban sancionar penalmente, por causa de enriquecimiento ilícito, a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, aumenten sustancialmente su patrimonio y cuya procedencia lícita no pudiese justificar, señalando las bases para el Registro Patrimonial de los mismos.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza.
+
+Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de pruebas, podrá formular denuncia, ante el Congreso del Estado, respecto de las conductas a que se refiere este título.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ###### Artículo 99.
 
-Si el delito fuere común, el Congreso del Estado, erigido en gran Jurado, declarará, a mayoría absoluta de votos, del número total de Diputados, si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior. En caso afirmativo, el acusado quedará por el mismo hecho separado de su encargo y sujeto a la acción de los tribunales comunes.
+Podrán ser sujetos de Juicio Político los Diputados locales propietarios y suplentes en funciones, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Contencioso Administrativo, los Titulares de las dependencias de la Administración Pública Estatal y los Presidentes Municipales.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en la Administración Pública del Estado.
+
+Conociendo de la acusación el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la resolución que dicte la Cámara de Senadores con motivo del Juicio Político a que estuvo sujeto el Gobernador del Estado en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, con el carácter del Organo Ejecutor procederá a aplicar la sanción correspondiente; pero cuando lo estime procedente solicitará a la Cámara de Senadores las aclaraciones que juzgue pertinentes, antes de ejecutar la sanción.
+
+> <small>(F. DE E., D.O. 3 DE ENERO DE 1989)</small>
+
+Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ###### Artículo 100.
 
-De los delitos oficiales, conocerán: el Congreso del Estado como Jurado de acusación, y el Tribunal Superior de Justicia como Jurado de sentencia. El Jurado de acusación tendrá por objeto declarar, a mayoría absoluta de votos del número total de Diputados, si el acusado es o no culpable. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su encargo. Si fuere condenatoria, quedará separado inmediatamente de dicho encargo y será puesto a disposición del Tribunal Superior de Justicia. Este, erigido en Jurado de sentencia y con audiencia del reo, del Procurador General de Justicia y del acusador, si lo hubiere, procederá a aplicar, a mayoría absoluta de votos del número total de Magistrados, la pena que la Ley designe.
+Para proceder penalmente contra los Diputados locales propietarios y suplentes en funciones, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Contencioso Administrativo, los titulares de las dependencias del Ejecutivo del Estado y los Presidentes Municipales por la comisión de delitos durante el período de su encargo, el Congreso del Estado declarará por el voto de las dos terceras partes del total de los miembros de la Cámara si ha o no lugar a proceder contra el inculpado.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+
+Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continue su curso cuando el inculpado haya concluído el ejercicio de su encargo o comisión.
+
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes.
+
+En caso de que la Cámara de Diputados del Congreso de la Unión emita la declaración de procedencia por delitos federales, en contra del Gobernador, los Diputados locales y los Magistrados del Tribunal Superior de Justicia del Estado en los términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos, notificada que ésta sea, la Legislatura del Estado resolverá la separación del inculpado de su encargo y lo pondrá a disposición del Ministerio Público Federal. El Congreso del Estado cuando lo estime pertinente solicitará al órgano que declaró la procedencia las aclaraciones pertinentes, antes de resolver que el inculpado sea separado de su cargo.
+
+Las aclaraciones y resoluciones de la Legislatura del Estado son definitivas.
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal; tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán valorarse de acuerdo al lucro obtenido y a la reparación de los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos del beneficio obtenido o de los daños o perjuicios causados.
+
+La Ley de Responsabilidades de los Servidores Públicos determinará las obligaciones, procedimientos, autoridades competentes y las sanciones que se aplicarán a los servidores públicos, consistentes en suspensión, destitución e inhabilitación, que incurran en actos u omisiones contrarias a la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben caracterizarse en el desempeño de sus funciones, cargos o comisiones.
+
+> <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
 ###### Artículo 101.
 
-La responsabilidad por los delitos oficiales, sólo podrá exigirse durante el periodo en que el funcionario ejerza su encargo y hasta un año después.
+El procedimiento de Juicio Político sólo podrá iniciarse durante el período en que el servidor público esté en funciones o hasta un año después de haberse separado del cargo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1856,3 +1902,7 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 29 DE SEPTIEMBRE DE 1988.
 
 UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 21 DE DICIEMBRE DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
