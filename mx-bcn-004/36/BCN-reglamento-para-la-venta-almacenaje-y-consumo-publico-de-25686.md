@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2002-06-07"
+last_updated: "2002-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS 
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE JUNIO DE 2002.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE JUNIO DE 2002.</small>
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -49,11 +49,11 @@ REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS EN
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de este Reglamento son de orden público e interés social, y regularán la Venta, Almacenaje para su Venta y Venta para Consumo Publico de Bebidas Alcohólicas en el Municipio de Tijuana, Baja California.
-
-La inobservancia del presente reglamento se sancionara por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, sin perjuicio de las sanciones que se puedan aplicar por la autoridad municipal, o cualquier otra de carácter civil o penal en que se incurra.
+Las disposiciones de este Reglamento son de orden público e interés social, y regularán la Venta, Almacenaje para su Venta y Venta para Consumo Público de Bebidas Alcohólicas en el Municipio de Tijuana, Baja California.
 
 ###### ARTICULO 2.
 
@@ -61,7 +61,9 @@ Para efectos de este Reglamento se entiende por:
 
 LEY: La Ley para la venta, almacenaje y consumo público de bebidas alcohólicas del Estado de Baja California.
 
-REGLAMENTO: El Reglamento que regula la venta, almacenaje y consumo publico de bebidas alcohólicas en el Municipio de Tijuana Baja California.
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+REGLAMENTO: El Reglamento que regula la venta, almacenaje y consumo público de bebidas alcohólicas en el Municipio de Tijuana Baja California.
 
 AYUNTAMIENTO: Cuerpo colegiado compuesto por el Presidente Municipal, el Sindico Procurador y los Regidores.
 
@@ -213,9 +215,13 @@ VI.- Recepcionar los documentos presentados por la ciudadanía en los que solici
 
 VII.- Requerir a la Dirección de Regulación Municipal la inspección de los establecimientos para los que hayan solicitado permisos, para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, así como cuando soliciten cambios de domicilio o cambios de giro;
 
-VIII.- Solicitar a la Dirección de Regulación Municipal la inspección de los establecimientos sobre los cuales se haya otorgado un permiso para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas;
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
-IX.- Autorizar los cierres temporales de los establecimientos que cuenten con permiso para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas;
+VIII.- Solicitar a la Dirección de Regulación Municipal la inspección de los establecimientos sobre los cuales se haya otorgado un permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
+
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+IX.- Autorizar los cierres temporales de los establecimientos que cuenten con permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
 
 X.- Autorizar o negar las revalidaciones de los permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas cuando sea procedente, teniendo en cuenta los elementos que se encuentren en el expediente respectivo y considerando la reincidencia en cuanto al número de sanciones graves, a que se haya hecho acreedor, cuando estas sean superior a tres en un periodo de seis meses;
 
@@ -229,7 +235,9 @@ XIII.- Las que le confiere este reglamento y demás disposiciones aplicables.
 
 Corresponden al Director General de Gobierno, las siguientes facultades:
 
-I.- Elaborar los estudios de impacto social correspondientes sobre las solicitudes de permisos para la venta, almacenaje para su venta y venta y (sic) para consumo público de bebidas alcohólicas, así como cuando se solicite cambio de domicilio o cambio de giro;
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+I.- Elaborar los estudios de impacto social correspondientes sobre las solicitudes de permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas, así como cuando se solicite cambio de domicilio o cambio de giro;
 
 II.- Girar las órdenes de pago correspondientes de todos los trámites relacionados con los permisos para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
 
@@ -297,7 +305,9 @@ VI.- Los titulares, representantes o encargados de los eventos donde se hayan ot
 
 VII.- Solicitar y cerciorarse que las bebidas que expenda, sean originales, esto es que no sean bebidas adulteradas, contaminadas o alteradas, y que cuenten con la debida autorización por autoridades Federales, Estatales o Municipales para su venta y consumo;
 
-VIII.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas, salvo que disposiciones de la Autoridad Competente lo autoricen;
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+VIII.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas, salvo que disposiciones de la autoridad competente lo autoricen;
 
 IX.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, actos que vayan en contra de la moral y buenas costumbres, para lo cual solicitarán si fuere necesario, el auxilio de la fuerza pública;
 
@@ -331,9 +341,11 @@ XXI.- Las demás que se señalan en este reglamento la ley y otras disposiciones
 
 Los diferentes giros a que se refiere la ley, se regirán por las disposiciones que en cuanto a los días y horarios, se señalen en el presente ordenamiento o los que se hagan constar en los propios permisos.
 
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 15.
 
-Serán días de suspensión general obligatoria de actividades, para los giros a que se refiere la ley y este reglamento los que determinen las leyes estatales o federales. La autoridad municipal podrá determinar la prohibición de distribución, venta o consumo de bebidas alcohólicas, haciéndolo saber a través de los medios de comunicación masiva al público en general con 48 horas de anticipación o inmediatamente en caso de riesgo, emergencia o por causa de seguridad publica municipal.
+Serán días de suspensión general obligatoria de actividades, para los giros a que se refiere la ley y este reglamento los que determinen las leyes estatales o federales. La autoridad municipal podrá determinar la prohibición de distribución, venta o consumo de bebidas alcohólicas, haciéndolo saber a través de los medios de comunicación masiva al público en general con 48 horas de anticipación o inmediatamente en caso de riesgo, emergencia o por causa de seguridad pública municipal.
 
 ###### ARTICULO 16.
 
@@ -342,6 +354,8 @@ El Ayuntamiento podrá autorizar en forma temporal, la ampliación del horario e
 ###### ARTICULO 17.
 
 Los establecimientos a que se refiere este reglamento, deberán colocar en sus entradas y en el interior de los mismos los horarios respectivos de venta o consumo de bebidas alcohólicas.
+
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 18.
 
@@ -369,11 +383,17 @@ I).- FONDAS y LONCHERÍAS.-Establecimientos mercantiles que cuentan con música 
 
 J).- RESTAURANTE.- Establecimiento mercantil acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar y que cuente con música ambiental, cuyo horario será de lunes a domingos desde las 10:00 horas y hasta las 24:00 horas, exclusivamente con el consumo de alimentos;
 
-K).- RESTAURANTE BAR.- Establecimiento mercantil acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar y que cuente con música grabada, ambiental, en vivo y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingos desde las 10:00 horas y hasta las 02:00 horas del día siguiente, con o sin alimentos;
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
-L).- BAR TURÍSTICO.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuenta con música grabada, en vivo y pista de baile, cuyo horario será de lunes a domingos desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
+K).- RESTAURANTE BAR.- Establecimiento mercantil acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar y que cuente con música grabada, ambiental, en vivo y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente, con o sin alimentos;
 
-M).- BAR TERRAZA.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuente con un área en el exterior para dar servicio, así como música grabada, ambiental, en vivo y pista de baile, cuyo horario será de lunes a domingos desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+L).- BAR TURÍSTICO.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuenta con música grabada, en vivo y pista de baile, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
+
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+M).- BAR TERRAZA.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuente con un área en el exterior para dar servicio, así como música grabada, ambiental, en vivo y pista de baile, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
 
 N).- BILLAR.- Establecimiento mercantil que cuenta con música grabada o ambiental y cuya actividad predominante sea la operación de mesas para juego de billar u otros juegos de mesa o destreza, susceptible de vender para consumo bebidas alcohólicas de las clasificadas en los incisos a), c) y f), de la fracción V, del artículo 6 de la Ley de la materia, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 24:00 horas;
 
@@ -393,7 +413,9 @@ T).- CENTRO DE ESPECTÁCULOS.- Establecimiento mercantil cuya actividad exclusiv
 
 U).- ESPECTÁCULOS PUBLICOS, BAILES PÚBLICOS, FERIAS, VARIEDADES O DIVERSIONES ANALOGAS.- Son todos los eventos temporales en donde se congrega la gente para celebrar o degustar, que se llevan a cabo en el Territorio Municipal, en los que se expende, y consume, bebidas alcohólicas, vinos de mesa, licores o cerveza en envase abierto, los días de lunes a domingo en el horario autorizado para tal efecto. En cada evento se requerirá el permiso por escrito de la Autoridad Municipal. La venta de bebidas alcohólicas, solo podrá hacerse por personas mayores de edad y en envase desechable, asimismo no deberá permitirse la venta y consumo a personas que no acrediten su mayoría de edad;
 
-W (SIC).- Los establecimientos semejantes, cualquiera que sea su denominación o identificación, serán clasificados por la Comisión Reguladora de Bebidas Alcohólicas;
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+Los establecimientos semejantes, cualquiera que sea su denominación o identificación, serán clasificados por la Comisión Reguladora de Bebidas Alcohólicas;
 
 II.- Podrán solicitar otros Servicios Adicionales los giros contemplados en las letras I), J), K), L), M), O), R), S), y T), del inciso anterior, siendo estos los siguientes:
 
@@ -597,17 +619,23 @@ c).- Para espectáculos públicos o diversiones análogas:
 
 4.- Presentar plan de seguridad para el desarrollo del evento, y además deberá exhibir comprobantes de la contratación de elementos de seguridad pública en su caso, privada y unidades de emergencia médica para prestación de primeros auxilios de acuerdo al número de asistentes. Por cada 100 asistentes o fracción mayor un elemento de seguridad pública y un elemento de seguridad privada y por cada 1000 asistentes o fracción mayor una ambulancia, o en su caso las que determine la Dirección de Protección Civil, y
 
-5.- Deberá garantizar el crédito fiscal estimado por la tesorería municipal mediante fianza mercantil otorgada por compañía afianzadora acreditada en el Municipio.
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
+5.- Se deberá garantizar el crédito fiscal estimado por la tesorería municipal mediante fianza mercantil otorgada por compañía afianzadora acreditada en el Municipio para eventos de más de 5000 personas.
+
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 38.
 
-El permiso eventual que se expida contendrá el nombre de la persona física o moral a favor de quien se otorgue, la duración, lugar y horario de funcionamiento del evento a realizarse, el tipo de bebidas alcohólicas autorizadas, la delimitación del área especifica donde se expenderán las bebidas alcohólicas, en su caso la prohibición de entrada a menores de edad, la firma del Presidente Municipal y la del Secretario del Ayuntamiento, así mismo (sic) llevará estampado el sello de la Secretaría.
+El permiso eventual que se expida contendrá el nombre de la persona física o moral a favor de quien se otorgue, la duración, lugar y horario de funcionamiento del evento a realizarse, el tipo de bebidas alcohólicas autorizadas, la delimitación del área especifica donde se expenderán las bebidas alcohólicas, en su caso la prohibición de entrada a menores de edad, la firma del Presidente Municipal y la del Secretario del Ayuntamiento, así mismo llevara estampado el sello de la Secretaría.
 
-El permiso se otorgará previo pago de derechos de acuerdo a las tarifas establecidas para el evento a realizarse en la Ley de Ingresos Municipal vigente.
+El permiso se otorgara previo pago de derechos de acuerdo a las tarifas establecidas para el evento a realizarse en la Ley de Ingresos Municipal vigente.
+
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 39.
 
-Los ciudadanos que soliciten el otorgamiento de un permiso permanente, se ubicarán a una distancia de 100 metros entre establecimientos del mismo giro, siendo estos los que expendan bebidas alcohólicas envase (sic) cerrado, a excepción de aquellos en que sea la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras o turísticas, además se ubicarán a una distancia de 150 metros de cualquier centro escolar o iglesias. Dichas distancias se tomarán a partir del lindero más próximo al lindero que tiene la puerta principal del solicitante.
+Los ciudadanos que soliciten el otorgamiento de un permiso permanente, se ubicaran a una distancia de 100 metros entre establecimientos del mismo giro, siendo estos los que expendan bebidas alcohólicas en envase cerrado, a excepción de aquellos en que sea la venta para consumo exclusivamente con alimentos o se establezcan en zonas que el Ayuntamiento determine como hoteleras, restauranteras o turísticas, además se ubicaran a una distancia de 150 metros de cualquier centro escolar, hospital o iglesias. Dichas distancias se tomaran a partir del lindero más próximo de los lugares citados al lindero que tiene la puerta principal del solicitante.
 
 ### CAPITULO SEXTO. DE LAS REVALIDACIONES
 
@@ -665,39 +693,41 @@ En caso de extinción de un persona moral titular de un permiso y obrando consta
 
 Cualquier persona física o moral que adquiera un permiso de un tercero se sujetará a lo descrito en el presente capítulo
 
+> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 46.
 
 Para llevar a efecto cambio de titular, cambio de giro, cambio de domicilio del permiso o solicitar servicios adicionales, se requiere que los interesados obtengan autorización por escrito, debiendo presentar para ello lo siguiente:
 
-I.- Acudir personalmente, previa identificación oficial a realizar los trámites correspondientes;
+I.- Acudir personalmente, previa identificación oficial a realizar los tramites correspondientes;
 
 II.- Presentar formato de solicitud expedido por la Dirección General de Gobierno, debiendo llenarlo bajo protesta de decir verdad;
 
 III.- Copia del acta de nacimiento o acta constitutiva, según sea persona física o moral, y tratándose de persona moral, además acompañar poder notarial si el trámite se realiza mediante apoderado legal distinto al autorizado en el acta constitutiva de la sociedad;
 
-IV.- Presentar Cédula del Registro Federal de Contribuyentes;
+IV.- Presentar Cedula del Registro Federal de Contribuyentes;
 
-VI (SIC).- Croquis o plano en que se indique, en forma clara y precisa, la ubicación del establecimiento y los nombres de las calles que corresponden a la manzana o área de ubicación del establecimiento;
+V.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación del establecimiento y los nombres de las calles que corresponden a la manzana o área de ubicación del establecimiento;
 
-VII.- Identificación oficial con fotografía del interesado, representante o apoderado legal;
+VI.- Identificación oficial con fotografía del interesado, representante o apoderado legal;
 
-VIII.- Presentar original y copia de la licencia de uso de suelo;
+VII.- Presentar original y copia de la licencia de uso de suelo;
 
-IX.- Presentar original y copia del permiso de operación municipal definitivo, expedido por la Dirección de Administración Urbana y la Tesorería Municipal, acompañando la licencia de anuncios, rótulos y similares, vigente para el Municipio de Tijuana, Baja California;
+VIII.- Presentar original y copia del permiso de operación municipal definitivo, expedido por la Dirección de Administración Urbana y la Tesorería Municipal, acompañando la licencia de anuncios, rótulos y similares, vigente para el Municipio de Tijuana, Baja California;
 
-X.- Presentar original y copia del certificado de medidas de seguridad, emitido por la Dirección de Bomberos;
+IX.- Presentar original y copia del certificado de medidas de seguridad, emitido por la Dirección de Bomberos;
 
-XI.- Original y copia del pago de la última revalidación;
+X.- Original y copia del pago de la ultima revalidación;
 
-XII.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
+XI.- Anexar original y copia del permiso para operar la venta de bebidas alcohólicas;
 
-XIII.- Presentar original y copia del aviso de cierre temporal del establecimiento en su caso;
+XII.- Presentar original y copia del aviso de cierre temporal del establecimiento en su caso;
 
-XIV.- Tratándose de cambio de titular con motivo de una cesión de derechos deberá presentar el documento público debidamente protocolizado por fedatario público respecto del permiso para la venta de bebidas alcohólicas que la contenga y haber cumplido con lo que se establece en el artículo 48 del presente ordenamiento municipal;
+XIII.- Tratándose de cambio de titular con motivo de una cesión de derechos deberá presentar el documento publico debidamente protocolizado por fedatario publico respecto del permiso para la venta de bebidas alcohólicas que la contenga y haber cumplido con lo que se establece en el artículo 48 del presente ordenamiento municipal;
 
-XV.- Contar con certificado de no adeudo fiscal, y
+XIV.- Contar con certificado de no adeudo fiscal, y
 
-XVI.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
+XV.- Los demás requisitos establecidos en el presente reglamento, la ley y demás ordenamientos municipales.
 
 ###### ARTICULO 47.
 
