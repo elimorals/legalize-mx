@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2002-10-15"
+last_updated: "2002-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -242,16 +242,6 @@ VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en qu
 VII. Tomar las armas en defensa del pueblo en que vivan cuanto este fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
-
-Art .19.- A nadie podrá obligársele a que pague una contribución que no haya sido previamente decretada por el Congreso.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permitirá hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 ###### Art. 19.
 
@@ -555,11 +545,21 @@ Los Diputados que no concurran a una sesión sin causa justificada, no tendrán 
 
 ### CAPITULO II. De la instalación y labores del Congreso
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 40.
 
-El Congreso se reunirá para celebrar sus sesiones en la forma y términos que le señala esta Constitución, la Ley Orgánica del Poder Legislativo y su Reglamento.
+El Congreso se reunirá para celebrar sus sesiones en los términos que le señalan esta Constitución y la ley.
+
+La estructura del Congreso contemplará un órgano de dirección política, un órgano de dirección parlamentaria, el establecimiento de comisiones para la instrucción de los asuntos que corresponde resolver al Pleno y la organización de los servicios parlamentarios y administrativos necesarios para el cumplimiento de sus funciones.
+
+La ley determinará las formas y procedimientos para la integración de los grupos parlamentarios, según la afiliación de partido de los integrantes del Congreso, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el mismo. Los grupos parlamentarios tendrán la participación que señale la ley en la organización y funcionamiento del Congreso; en su desempeño impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones que la Constitución asigna al Poder Legislativo.
+
+La ley establecerá los procedimientos para el desahogo de las atribuciones que corresponden al Congreso.
+
+La ley también contemplará las normas de comportamiento parlamentario y las sanciones aplicables a su infracción.
+
+La ley que establezca las normas de organización y funcionamiento internos del Congreso no necesitará de promulgación del Ejecutivo para tener vigencia, ni podrá ser objeto de observaciones o veto por parte de éste, y será publicada inmediatamente en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -573,11 +573,13 @@ El 31 de diciembre del año de la elección, en sesión solemne, los Diputados e
 
 De no asistir la Diputación Permanente, o la Mesa Directiva en caso de prórroga, los Diputados electos iniciarán por sí la Sesión Solemne, previa designación de tres de sus miembros para que la presidan, cuyo desarrollo se sujetará a los términos del artículo anterior.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 43.
 
-El día primero de Enero siguiente, el Congreso procederá al nombramiento de un Presiente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra. El Presidente del Congreso declarará a éste legítimamente constituído e instalado y en aptitud de ejercer sus funciones.
+El 1 de enero del primer año de su ejercicio constitucional, la Legislatura procederá a la elección de su Mesa Directiva, que será el órgano de dirección parlamentaria y se integra por un Presidente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa.
+
+El Presidente del Congreso declarará a la Legislatura legítimamente constituida, legalmente instalada y en aptitud de ejercer sus funciones.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
 
@@ -585,25 +587,33 @@ El día primero de Enero siguiente, el Congreso procederá al nombramiento de un
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 45.
 
-El Congreso, en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden, conforme a la Constitución y a las leyes; de examinar y calificar las cuentas trimestrales de aplicación de los fondos públicos y que serán remitidas en la segunda quincena del mes siguiente a la terminación de cada trimestre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si se actúo de conformidad con las leyes de la materia, si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
+El Congreso, en ambos periodos de sesiones, se ocupará del estudio, discusión y votación de las iniciativas de ley, decreto y acuerdo que se le presenten, y de la resolución de los asuntos que le corresponden conforme a la Constitución y a las leyes.
 
-De igual manera, en el caso de las cuentas del Poder Ejecutivo y de los Municipios, deberán revisarse las de recaudación y analizarse si fueron percibidos los recursos cumpliendo con las disposiciones legales aplicables.
+En el desahogo de las atribuciones deliberativas, legislativas y de revisión de los resultados de la gestión pública, el Congreso alentará criterios de planeación para su ejercicio.
 
-((REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)
+En su oportunidad revisará y calificará las cuentas de aplicación de los fondos públicos que le serán remitidas, declarando si las cantidades percibidas y gastadas se adecuan a las partidas respectivas del Presupuesto, si se actuó de conformidad con las leyes de la materia, si los gastos están justificados y si, en su caso, hay lugar a exigir una responsabilidad.
+
+En el caso de las cuentas del Poder Ejecutivo y de los Ayuntamientos, deberá revisarse la recaudación y analizarse si fueron percibidos los recursos del caso en cumplimiento de las disposiciones legales aplicables.
+
+Los poderes del Estado presentarán cuentas públicas trimestrales durante la segunda quincena del mes siguiente a la terminación de cada trimestre. Los ayuntamientos, los entes públicos estatales y todo organismo estatal o municipal la presentarán en términos de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 46.
 
-El Congreso en el segundo periodo de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Solo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, o de los Ayuntamientos en su caso, suficientemente justificada a juicio del Congreso. Cuando por algún motivo la Legislatura no apruebe la Ley de Ingresos y el Presupuesto de Egresos, deberán aplicarse los montos autorizados en el Presupuesto del año anterior, actualizados según la inflación anual que determine el Banco de México.
+En todo caso, dentro del segundo periodo de sesiones, el Congreso se ocupará de discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado para el siguiente año. Las iniciativas le serán presentadas por el Ejecutivo del Estado dentro de los primeros diez días de diciembre de cada año.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+Los Ayuntamientos del Estado remitirán sus correspondientes iniciativas de Leyes de Ingresos Municipales durante los primeros diez días del mes de noviembre de cada año. El Congreso podrá autorizar la ampliación de los plazos señalados al Ejecutivo y a los Ayuntamientos para la presentación de las iniciativas mencionadas en los párrafos anteriores, siempre que medie solicitud por escrito con anterioridad al vencimiento del plazo y ésta se considere suficientemente justificada.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 47.
 
-El Congreso tendrá sesiones en las fechas que señala la Ley Orgánica del Poder Legislativo y su Reglamento. Las sesiones serán públicas, salvo las que según la ley mencionada deben tener el carácter de secretas.
+Las sesiones del Congreso del Estado serán públicas, salvo cuando la ley señale que deban tener el carácter de reservadas.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
 
@@ -611,13 +621,17 @@ El Congreso tendrá sesiones en las fechas que señala la Ley Orgánica del Pode
 
 El Congreso antes de cerrar cada período de sesiones nombrará de su seno una Diputación Permanente compuesta de tres miembros propietarios y un suplente que funcionarán mientras no vuelva a reunirse el Congreso.- El primer nombrado asumirá la Presidencia y los dos últimos actuarán de Secretarios.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### Art. 49.
 
-Se reunirá el Congreso en sesiones extraordinarias cada vez que fuere convocado por la Diputación Permanente, cuando lo acuerde por sí o lo pida el Ejecutivo, y durante ellas solamente se ocupará de los asuntos comprendidos en la Convocatoria.
+El Congreso podrá reunirse para celebrar sesiones extraordinarias cuando para ello sea convocado por la Diputación Permanente, ya sea que lo acuerde por sí o a propuesta del Ejecutivo. Durante las sesiones extraordinarias el Congreso solo se ocupará de los asuntos comprendidos en la convocatoria.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 50.
 
-Si durante el receso del Congreso fuere este convocado a sesiones extraordinarias, concluidas estas continuará la Diputación Permanente electa hasta que llegue el nuevo período de sesiones ordinarias. La Permanente puede funcionar con su carácter dentro del período extraordinario.
+Cuando se celebren sesiones extraordinarias continuará en funciones la Diputación Permanente, a la cual compete conocer y acordar, dentro de sus atribuciones, lo conducente a los asuntos no incluidos en la convocatoria.
 
 ###### Art. 51.
 
@@ -685,13 +699,15 @@ III. Condonar contribuciones del Estado, en los casos que estime convenientes, c
 
 IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y otros ingresos que deban formar la Hacienda Pública de los Municipios, procurando que sean suficientes para cubrir sus necesidades;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-V. Nombrar y remover al Oficial Mayor del Congreso, al Contador Mayor de Hacienda y a los demás Servidores Públicos en los términos de la Ley Orgánica y del Reglamento para el Gobierno Interior;
+V. Nombrar y remover a sus servidores públicos en los términos que señale la ley sobre la organización y funcionamiento internos del Congreso; así como al Auditor Superior del Estado en la forma dispuesta por la Ley;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-VI. Revisar y calificar trimestralmente, por conducto de la Auditoría Superior del Estado, las cuentas públicas del Estado, de los Municipios y demás organismos que administren o manejen fondos del sector público. Una ley determinará la organización y funcionamiento de dicha Auditoría que será el órgano técnico de fiscalización superior del Congreso, contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones; y estará bajo la vigilancia de la Comisión de Hacienda y Crédito Público;
+VI. Revisar y calificar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de todo organismo estatal o municipal que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como si se han cumplido los objetivos contenidos en los programas.
+
+Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado. La ley determinará la organización y funcionamiento de dicho órgano técnico de fiscalización superior del Congreso, el cual contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso en los términos que disponga la ley;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -757,15 +773,17 @@ XXIV. Comunicarse con los Poderes Ejecutivo y Judicial por medio de comisiones n
 
 XXV. Elegir a los Consejeros Electorales del Consejo Estatal Electoral, y al Presidente del mismo; a los Magistrados del Tribunal Estatal Electoral y al Presidente del mismo;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-XXVI. Expedir su Ley Orgánica y su Reglamento Interior;
+XXVI. Expedir la ley sobre la organización y funcionamiento internos del Congreso;
 
 XXVII. Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar estos en su caso y pedir al Congreso de la Unión su aprobación;
 
 XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del Estado, siempre que entre ellos no se hayan puesto de acuerdo;
 
-XXIX.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2002)
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XXIX. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -957,17 +975,15 @@ XIV.- Las demás que le confieran las leyes.
 
 Si por no haberse verificado las elecciones o por cualquiera otra causa, el Congreso no pudiera renovarse el día fijado, la Diputación Permanente continuará con tal carácter, hasta que deje instalado al nuevo Congreso conforme a las leyes, convocando a elecciones en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO V.
+### CAPITULO V
 
-De la Iniciativa y Formación de Leyes, Decretos y Acuerdos.
+Del Proceso Legislativo, del Proceso Presupuestario y de la Fiscalización Superior.
 
-#### SECCION I.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-DE LA ELECCION E INSTALACION DEL CONGRESO.
-
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+#### Sección Primera. Del Proceso Legislativo
 
 ###### Art. 64.
 
@@ -995,57 +1011,73 @@ V.- A todos los ciudadanos, por conducto de sus Diputaciones; la iniciativa popu
 
 Las votaciones de leyes serán nominales.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 66.
 
-La Ley Orgánica y el Reglamento para el Gobierno Interior del Congreso prescribirán las reglas que deban observarse sobre la discusión y formación de las Leyes, Decretos y Acuerdos.
+En las normas sobre el funcionamiento interno del Congreso se contendrán las reglas que deberán observarse para la discusión, votación y formación de las leyes, decretos y acuerdos.
+
+Ninguna inciativa de ley o decreto que sea desechada podrá volver a presentarse en el mismo periodo de sesiones, salvo lo dispuesto para las Leyes de Ingresos del Estado o de los Municipios, y el Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 67.
 
-Ningún proyecto de ley que fuere desechado podrá volverse a presentar en el mismo período de sesiones.
+Las iniciativas adquirirán el carácter de ley o decreto cuando sean aprobadas por la mayoría de los diputados presentes en los términos de lo previsto por esta sección, y entrarán en vigor en la fecha que determine el Congreso; si éste no lo determina, serán vigentes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 68.
 
-Los proyectos o Iniciativas adquirirán el carácter de Ley o Decreto cuando sean aprobados por la mayoría de los Diputados presentes y entrarán en vigor en la fecha que determine el Congreso, y en caso contrario a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo, quien los sancionará y los mandará publicar y circular para su cumplimiento; pero éste podrá formular observaciones, dentro de los primeros diez días hábiles siguientes a su recepción, haciendo expresión por escrito de las razones que estime pertinentes. El Congreso tomará en cuenta las observaciones que reciba y previo su examen, discutirá nuevamente el proyecto; el Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. Concluida ésta, se votará el dictamen correspondiente y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes. Si la ley o decreto resulta aprobada, se remitirá al Ejecutivo para su promulgación y publicación inmediatas.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+Si al clausurarse el periodo de sesiones no se hubiere cumplido el término concedido en el párrafo anterior para que el Ejecutivo formule observaciones, las mismas deberán hacerse del conocimiento del Congreso el primer día en que vuelva a reunirse para sesionar.
 
-#### SECCION II.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+#### Sección Segunda. Del Proceso Presupuestario
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 69.
 
-Las Leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo; otorgada su sanción los mandará publicar y circular para su cumplimiento; en caso contrario los devolverá dentro de los primeros diez días hábiles después de haberlos recibido, con las observaciones que estime convenientes, las cuales serán tomadas en consideración, examinadas y discutidas por el Congreso.
+El Congreso del Estado deberá deliberar y votar la Ley de Ingresos y el Presupuesto de Egresos del Estado, a más tardar, el 31 de diciembre del año anterior al que deban regir, disponiéndose la convocatoria a la sesión extraordinaria que deberá celebrarse para cumplir ese objetivo si no se hubieren expedido esos ordenamientos o alguno de ellos antes de clausurar el segundo periodo de sesiones, una vez abierto el receso correspondiente.
+
+Si la discusión y votación del dictamen de la Ley de Ingresos y del Presupuesto de Egresos o de alguno de ellos, no se realiza para el 31 de diciembre del año anterior al cual deban regir, hasta la aprobación de esos ordenamientos o de alguno de ellos se aplicarán provisionalmente durante los dos primeros meses del año fiscal siguiente las disposiciones previstas en los respectivos ordenamientos vigentes hasta ese día. Si al finalizar ese plazo no se hubieren votado y aprobado, se aplicarán con carácter definitivo los preceptos contenidos en las iniciativas que en su oportunidad hubiere enviado el Ejecutivo. En ambas hipótesis se efectuará la publicación correspondiente en el Periódico Oficial del Estado.
+
+En tratándose de las iniciativas de Ley de Ingresos de los Ayuntamientos del Estado, el plazo para su aprobación definitiva por parte del Congreso será también el 31 de diciembre del año anterior al ejercicio fiscal de que se trate y si ello no ocurre, en lo conducente se seguirán las reglas previstas los (sic) párrafos anteriores. En todo caso, la iniciativa de Ley de Ingresos de los Municipios del Estado deberá incluir la estimación de los ingresos que tendrá por los diferentes conceptos aplicables durante el siguiente ejercicio fiscal.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 70.
 
-Si al cerrarse el período de sesiones no se hubiere cumplido el término concedido al Gobernador para hacer observaciones, la devolución del proyecto se verificará precisamente el primer día en que se reuniere el Congreso.
+Las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado contendrán estimaciones sobre los recursos que percibirá o que dispondrá el erario público para el siguiente ejercicio fiscal. El principio del equilibrio entre los ingresos y los egresos públicos regirá la preparación y presentación de dichas iniciativas.
+
+Toda propuesta de creación de partidas de gasto o de incremento de las mismas a la iniciativa de Presupuesto de Egresos, deberá adicionarse con la correspondiente iniciativa de ingresos, si con tal proposición se altera el equilibrio presupuestal.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 71.
 
-Si el Gobernador hace observaciones a algún proyecto, lo devolverá al Congreso dentro del término fijado, manifestando por escrito las razones que tenga que oponer. El Congreso discutirá por segunda vez el proyecto y el Ejecutivo podrá nombrar el representante que quiera para que asista con voz y sin voto a la discusión.
+En tratándose de las Leyes de Ingresos del Estado o de los Municipios y del Presupuesto de Egresos del Estado, si alguna de ellas o éste fuere desechado, podrá presentarse nueva iniciativa por el Ejecutivo o los Ayuntamientos, según corresponda, con objeto de asegurar que al inicio del siguiente ejercicio fiscal se cuenten con los ordenamientos necesarios en materia de ingresos y egresos. Si los titulares de la facultad de iniciativa en esta materia no la formulan en tiempo, corresponde a las comisiones del Congreso con competencia en estas materias la presentación de una propuesta susceptible de ser conocida y votada por el Pleno del Congreso.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 72.
 
-Concluída ésta se votará un proyecto de escrutinio secreto y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes.
+La formulación de observaciones sobre la Ley de Ingresos y el Presupuesto de Egresos del Estado que apruebe el Congreso con motivo del proceso presupuestario deberá hacerse dentro de los cinco días siguientes a su recepción, debiéndose expresar por escrito las razones que se estimen pertinentes. El Congreso las examinará y discutirá nuevamente el proyecto dentro de los siguientes tres días; el Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se realice.
 
-#### SECCION III.
+En todo caso, la formulación y desahogo de las observaciones se hará dentro del plazo que establece esta Constitución para la vigencia del año fiscal.
 
-DE LAS FACULTADES DEL CONGRESO.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
+#### Sección Tercera. De la Fiscalización Superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### Art. 73.
 
-Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su promulgación inmediata.
+El Ejecutivo no podrá formular observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocatoria a nuevas elecciones.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1053,9 +1085,15 @@ Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su 
 
 En la reforma, adición, derogación o abrogación de las Leyes, Decretos o Acuerdos, se observarán los mismos trámites establecidos para su formación.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
 ###### Art. 75.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocación a nuevas elecciones.
+Las resoluciones del Congreso tendrán carácter de ley, decreto o acuerdo.
+
+Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y los Secretarios del Congreso, empleándose la siguiente formula: " El Congreso del Estado Libre y Soberano de Tamaulipas, decreta: (texto de la ley o decreto)", y los acuerdos serán suscritos únicamente por los Secretarios.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION IV.
 
@@ -1065,7 +1103,21 @@ DE LA COMISION PERMANENTE.
 
 ###### Art. 76.
 
-Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios del Congreso, empléandose la siguiente fórmula: El Congreso del Estado libre y soberano de Tamaulipas, decreta: (texto de la ley o decreto), y los acuerdos económicos sólo por los Secretarios.
+A la Auditoría Superior del Estado corresponde:
+
+I.- Fiscalizar en forma posterior los ingresos y egresos públicos, el manejo, custodia y aplicación de fondos y recursos de los poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de los organismos estatales y municipales, y el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes que se rendirán en los términos que disponga la ley. En tratándose de la recaudación, analizar si fueron percibidos los recursos emitidos en cumplimiento de las disposiciones legales aplicables.
+
+II.- Entregar al Congreso del Estado los informes del resultado de la rendición de cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas, incluyéndose en su caso los comentarios formulados por los auditados.
+
+III.- Efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus funciones, sujetándose a la leyes y a las formalidades establecidas para los cateos, y
+
+IV.- Determinar los daños y perjuicios que afecten las haciendas públicas estatal o municipales o al patrimonio de los entes públicos estatales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades.
+
+En el cumplimiento de sus funciones, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes de su competencia y se apruebe la cuenta pública correspondiente; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+Los poderes del Estado, los Ayuntamientos, los entes públicos estatales, los organismos estatales y municipales y toda persona sujeta a la fiscalización superior facilitarán a la Auditoría los auxilios que requiera para el ejercicio de sus funciones.
+
+Para el cobro de las indemnizaciones y sanciones impuestas por la Auditoría Superior, se aplicará el procedimiento administrativo de ejecución en el ámbito del Ejecutivo del Estado.
 
 ## TITULO V. DEL PODER EJECUTIVO
 
@@ -1205,7 +1257,9 @@ III.- Impedir los abusos de la fuerza pública contra los ciudadanos y los puebl
 
 IV.- Conforme a la libertad de creencias y el principio histórico de la separación del Estado y las iglesias, ejercer las atribuciones que le confiera la ley reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de agrupaciones religiosas e iglesias, asociaciones religiosas y culto público;
 
-V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes, decretos y acuerdos del Congreso, y proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes y decretos del Congreso, y proveer en la esfera administrativa cuando fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1287,7 +1341,9 @@ XXVII.- Organizar las Dependencias y Entidades de la Administración Pública Es
 
 XXVIII.- Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;
 
-XXIX. Nombrar uno o más apoderados para asuntos judiciales y administratiivos (sic), dentro o fuera del Estado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+
+XXIX. Representar al Gobierno del Estado en todos los actos inherentes a su cargo. Esta representación podrá delegarla u otorgarla en favor de terceros en los términos más amplios que, para tal efecto, fijen las leyes.
 
 XXX. Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna iniciativa presentada por el Ejecutivo, o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito.
 
@@ -1383,9 +1439,9 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-Los Secretarios de Despacho del Poder Ejecutivo darán cuenta al Congreso del estado que guardan sus respectivos ramos, previa solicitud de éste.
+Durante el mes de noviembre de cada año, los titulares de las dependencias de la administración pública estatal darán cuenta al Congreso, por escrito, del estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -3111,7 +3167,7 @@ P.O. 6 DE JUNIO DE 2001.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 27 DE NOVIEMBRE DE 2001.
+P.O. 27 DE NOVIEMBRE DE 2001
 
 ###### ARTICULO PRIMERO.
 
@@ -3121,13 +3177,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
-P.O. 19 DE DICIEMBRE DE 2001.
+P.O. 19 DE DICIEMBRE DE 2001
 
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE DICIEMBRE DE 2001.
+P.O. 25 DE DICIEMBRE DE 2001
 
 ###### ARTICULO PRIMERO.
 
@@ -3145,15 +3201,15 @@ Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán
 
 La recepción del informe por el Pleno del Supremo Tribunal de Justicia, por parte de su Presidente, será a partir del que se rinda en el año 2002 y comprenderá el ejercicio del año 2001.
 
-P.O. 30 DE ENERO DEL 2002.
+P.O. 30 DE ENERO DEL 2002
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 15 DE OCTUBRE DE 2002.
+P.O. 15 DE OCTUBRE DE 2002
 
-DECRETO No. 74.
+DECRETO No. 74
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3164,6 +3220,18 @@ DECRETO No. 77.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- En tanto se adecua la legislación secundaria a los términos del presente Decreto, la Comisión de Derechos Humanos del Estado de Tamaulipas ejercerá sus atribuciones y competencias conforme a lo dispuesto en la legislación vigente.
+
+P.O. 18 DE DICIEMBRE DE 2002.
+
+DECRETO No. 176
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2002.
+
+DECRETO No. 185
+
+Artículo Unico.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2003.
 
 ###### ARTICULO PRIMERO.
 
