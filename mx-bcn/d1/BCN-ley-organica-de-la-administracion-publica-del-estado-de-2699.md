@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1988-11-30"
+last_updated: "1989-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1989.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -603,7 +603,7 @@ VII.- Coordinarse con Instituciones Educativas Técnicas y de Nivel Superior, pa
 
 VIII.- Promover la creación de organismos de carácter privado y social que tiendan a fomentar la inversión en materia turística y servicios conexos, y
 
-IX.- Los demás que determinen expresamente las Leyes y Reglamentos.
+IX.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XII
 
@@ -627,7 +627,7 @@ VI.- Otorgar becas y tramitar subsidios para fines educativos, así como promove
 
 VII.- Expedir constancias y certificados de estudio; otorgar diplomas, títulos y grados académicos, así como revalidar y establecer equivalencias de estudios;
 
-VIII.- Establecer, administrar y fomentar instituciones de carácter artístico, cultural y educativo, e impulsar las que desarrollen programas que promuevan y difundan la cultura étnica y los valores de la cultura al alcance popular;
+VIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, P.O. 31 DE MARZO DE 1989)
 
 IX.- Fomentar, difundir y coordinar la enseñanza y práctica de los deportes y la recreación, así como promover la celebración de actividades deportivas y la participación de eventos regionales, nacionales y en el extranjero;
 
@@ -986,3 +986,17 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 31 DE MARZO DE 1989.
+
+LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga la Fracción VIII del artículo 31 de la Ley Orgánica de la Administración Pública del Estado. Se abroga el Capítulo VII con todos sus artículos del Reglamento Interno de la Secretaría de Educación y Bienestar Social del Estado, para suprimir la referencia de la Dirección de Asuntos Culturales y en lo conducente las demás disposiciones que se opongan a lo dispuesto en la presente Ley.
