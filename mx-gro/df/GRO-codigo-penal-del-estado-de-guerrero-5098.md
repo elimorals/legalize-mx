@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2003-07-18"
+last_updated: "2003-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -451,11 +451,15 @@ VI.- El Estado y los Municipios por los delitos que cometan sus servidores públ
 
 ### CAPITULO XI. DECOMISO DE INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 47.- Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea doloso, y si pertenecen a un tercero, se decomisarán siempre que su utilización para la realización del delito haya sido con conocimiento del dueño.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+
 El destino de los instrumentos o cosas decomisadas se determinará por la autoridad competente, según su utilidad, para beneficio de la administración de justicia. Si se tratare de substancias nocivas o peligrosas, dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción, si fuere indispensable.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 Tratándose de bienes inmuebles, materia del delito de despojo el Juez proveerá lo necesario para restituir provisional o definitivamente en el goce de sus derechos al ofendido.
 
@@ -939,9 +943,35 @@ Al responsable de homicidio o lesiones en riña, se le impondrá hasta la mitad 
 
 111.- Cuando los delitos de homicidio y lesiones se cometan en lugar concurrido por personas ajenas a los hechos y con riesgo de su integridad corporal, las penas previstas para esos delitos se aumentarán hasta en una tercera parte.
 
-112.- Cuando el homicidio o las lesiones se produzcan con motivo del tránsito de vehículos y los cause culposamente el conductor de un transporte de servicio público o escolar, se aumentarán hasta en una mitad más las penas señaladas para el delito culposo y se le inhabilitará para el manejo de los mismos conforme a las prevenciones del artículo 207; pero si se causa homicidio de dos o más personas, se impondrá prisión de cuatro a doce años y privación de derechos para conducir vehículos de esa naturaleza.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
-Cuando con motivo del tránsito de vehículos, cualquier otro conductor ocasione culposamente dos o más homicidios, se le sancionará con prisión de tres a nueve años e inhabilitación para el manejo de aquellos aparatos.
+112.- Cuando el homicidio o las lesiones se produzcan con motivo del tránsito de vehículos y los cause culposamente el conductor de un transporte del servicio público de pasajeros o de carga o escolar se aumentarán hasta en una mitad más las penas señaladas por el delito culposo y se le inhabilitará para el manejo de los mismos conforme a las prevenciones del artículo 207; pero si se causa homicidio de dos o más personas se impondrá prisión de cuatro a doce años y privación de derechos para conducir vehículos de esa naturaleza y si comete lesiones de las contempladas en las fracciones VII y VIII del artículo 105, a dos o más personas se impondrá prisión de cuatro a once años y privación de derechos para conducir vehículos de esa naturaleza.
+
+Cuando con motivo del tránsito de vehículos, cualquier otro conductor ocasione culposamente dos o más homicidios se le sancionará con prisión de tres a nueve años e inhabilitación para el manejo de aquellos aparatos; y si comete lesiones de las contempladas en las fracciones VII y VIII del artículo 105 a dos o más agraviados, se le sancionará con prisión de tres a ocho años e inhabilitación para el manejo de aquellos aparatos.
+
+Cuando con motivo del tránsito de vehículos, cualquier otro conductor cometa homicidio y se encontrase bajo el influjo de bebidas embriagantes, estupefacientes o cualquier otra sustancia que produzca efectos similares, que impidan o perturben su adecuada conducción, además de la aplicación del contenido del artículo 207, se le impondrán las siguientes penas:
+
+A)
+
+I.- Con prisión de uno a once años, si comete homicidio;
+
+II.- Con prisión de cuatro a trece años, si causa dos o más homicidios;
+
+III.- Con prisión de uno a nueve años, si comete lesiones a un agraviado, y que sean de las contempladas en las fracciones VII y VIII del artículo 105;
+
+IV. Con prisión de cuatro a once años, si comete lesiones a dos o más agraviados de las contempladas en las fracciones VII y VIII del artículo 105.
+
+B)
+
+Pero, si el conductor es de un transporte del servicio público de carga, de pasajeros o escolar, y se encontrase bajo el influjo de bebidas embriagantes, estupefacientes o cualquier otra sustancia que produzca efectos similares, que impidan o perturben su adecuada conducción, y la comisión del delito fuese decretada como culposo, además de la aplicación del contenido del artículo 207, se le sancionará con las siguientes penas:
+
+I.- Con prisión de tres a trece años, cuando cometa un homicidio;
+
+II. Con prisión de cinco a catorce años, si se causan dos o más homicidios;
+
+III.- Con prisión de tres a once años, si comete lesiones a un agraviado, y que sean de las calificadas en las fracciones VII y VIII del artículo 105;
+
+IV.- Con prisión de cinco a trece años, si comete lesiones a dos o más agraviados, y que sean de las contempladas en las fracciones VII y VIII del artículo 105.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
@@ -1699,7 +1729,7 @@ No se impondrá pena alguna o quedarán sin efecto las que se hubiesen impuesto,
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
-El agraviado o el representante podrá optar por demandar previamente ante las autoridades judiciales, el pago de la pensión alimenticia o podrá querellarse ante el Ministerio Público, por el delito que prevee (sic) este artículo.
+El agraviado o el representante podrá optar por demandar previamente ante las autoridades judiciales, el pago de la pensión alimenticia o podrá querellarse ante el Ministerio Público, por el delito que prevee este artículo.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1781,10 +1811,6 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 193.- Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
-### CAPITULO VI. INCESTO
-
-194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
-
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
@@ -1834,6 +1860,10 @@ En todos los casos se impondrán como medidas de seguridad, la separación del a
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
 El delito de violencia intrafamiliar se perseguirá por querella, salvo que los ofendidos sean menores de edad o incapaces.
+
+### CAPITULO VI. INCESTO
+
+194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -2663,6 +2693,14 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
 
+### CAPITULO UNICO. DELITOS AMBIENTALES
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+
+300 (sic).- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
+
 ### CAPITULO UNICO. DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE CIUDADANOS
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
@@ -2771,17 +2809,9 @@ III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud d
 
 298.- Se impondrá prisión de uno a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 296 de este Código.
 
-> <small>(ADICIONADA CON EL CAPITULO Y ARTICULO QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
-
-### CAPITULO UNICO. DELITOS AMBIENTALES
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
-
-300 (sic).- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
-
 ## TITULO V. DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE CIUDADANOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(ADICIONADA CON EL CAPITULO Y ARTICULO QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 #### SECCION QUINTA
 
@@ -2892,6 +2922,12 @@ P.O. 21 DE ENERO DE 2003.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 18 DE JULIO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2003.
 
 ###### ARTICULO UNICO.
 
