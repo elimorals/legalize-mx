@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-el-manejo-y-venta-de-los-bienes-17063"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-02"
-last_updated: "1940-10-02"
+last_updated: "2005-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA EL MANEJO Y VENTA DE LOS BIENES PERTENECIENTES A LA HACIENDA PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 2 de octubre de 1940.
 
@@ -94,3 +96,19 @@ TRANSITORIO.- UNICO. Este Decreto principiara a surtir sus efectos desde de la f
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veintiséis días del mes de septiembre de mil novecientos cuata (sic).- Ing. Marte R. Gómez.- El Secretario General del Gobierno. Lic. Pedro González.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 11 DE ENERO DE 2005.
+
+PRIMERO.- Publíquese la presente ley en el Periódico Oficial del Estado.
+
+SEGUNDO.- Esta ley entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se abroga la Ley Reglamentaria para el Manejo y Venta de los Bienes pertenecientes a la Hacienda Pública del Estado, expedida mediante Decreto Número 267 del 23 de septiembre de 1940 y publicada en el Periódico Oficial del Estado Número 79 del 2 de octubre de 1940.
+
+CUARTO.- Se derogan las disposiciones legales que se opongan a la presente ley.
+
+QUINTO.- Los poderes Legislativo y Judicial, así como las dependencias y entidades estatales y municipales procederán, dentro de los noventa días hábiles siguientes a la publicación de la presente ley, a proporcionar a la Secretaría de Administración o a los Ayuntamientos la información necesaria para el cabal cumplimiento de este ordenamiento.
+
+SEXTO.- El Poder Ejecutivo y los Ayuntamientos del Estado, en el ámbito de sus atribuciones, expedirán los reglamentos necesarios para la aplicación de esta ley.
