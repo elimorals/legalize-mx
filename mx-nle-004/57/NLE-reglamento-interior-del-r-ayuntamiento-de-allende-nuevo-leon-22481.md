@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-allende-nuevo-leon-22
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-12"
-last_updated: "2001-11-12"
+last_updated: "2002-11-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE ALLENDE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de noviembre de 2001.
 
@@ -257,7 +257,13 @@ XVIII.- Ser el responsable da la colaboración y coordinación que debe guardars
 
 XIX.- Decretar un receso en o durante las sesiones cuando lo estime conveniente.
 
-XX.- Las demás que se desprendan de la Ley de la materia, este Reglamento y otras disposiciones generales.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+XX.- Proponer al Ayuntamiento, la aprobación, en su caso, del Contrato Colectivo para los trabajadores del Municipio de Allende, Nuevo León, que le sea presentado para su revisión.
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2002)</small>
+
+XXI.- Las demás que se desprenden de la Ley de la materia, este Reglamento y otras disposiciones generales.
 
 ### CAPITULO VI. De los Regidores
 
@@ -1100,3 +1106,9 @@ SINDICO PRIMERO
 C. AARON ROEL RODRIGUEZ SAENZ
 
 SINDICO SEGUNDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE NOVIEMBRE DE 2002.
+
+UNICO: La Presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
