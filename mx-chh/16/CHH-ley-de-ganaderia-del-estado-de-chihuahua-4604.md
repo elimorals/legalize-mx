@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-4604"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-16"
-last_updated: "2002-09-11"
+last_updated: "2004-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de agosto de 1995.
 
@@ -63,7 +63,9 @@ Son autoridades competentes para la aplicación de la presente Ley:
 
 I.- El Titular del Ejecutivo del Estado;
 
-II.- La Dirección General de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+II.- La Secretaría de Desarrollo Rural;
 
 III.- Las Autoridades Municipales.
 
@@ -99,6 +101,26 @@ VIII.- Las demás que le confiere esta Ley y su reglamento.
 
 En el ejercicio de sus facultades oirá la opinión de las Autoridades Municipales y de las Uniones Ganaderas.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Artículo 5 bis.- La Secretaría de Desarrollo Rural, además de las atribuciones contempladas en el artículo 32 de la Ley Orgánica del Poder Ejecutivo del Estado tendrá las siguientes:
+
+I.- Elaborara y proponer ante el Gobernador del Estado los programas y medidas que juzgue convenientes para el fomento y defensa de la ganadería;
+
+II.- Impulsar la explotación pecuaria y propagar entre los ganadores, la conveniencia de orientarla conforme a las técnicas modernas de la producción, a fin de hacerla cada vez más intensiva;
+
+III.- Promover y apoyar la organización de los ganaderos y avicultores;
+
+IV.- Procurar una mejor distribución de los productos y subproductos ganaderos para el abastecimiento del mercado interno y apoyar la mejor organización económica de los productores;
+
+V.- Procurar la transformación e industrialización de los productores pecuarios, así como fomentar las engordas de ganado y la instalación de plantas empacadoras, refrigeradores y otros;
+
+VI.- Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e intervenir en los casos que ésta u otras leyes le señalen;
+
+VII.- Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en el Estado; y
+
+VIII.- Las demás que esta Ley u otros ordenamientos jurídicos le confieran.
+
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
 
 ### CAPITULO II BIS. DE LA ORGANIZACION DE LOS PRODUCTORES Y DEL USO DE AGOSTADEROS
@@ -108,6 +130,10 @@ En el ejercicio de sus facultades oirá la opinión de las Autoridades Municipal
 ###### Artículo 6.
 
 Conforme a lo dispuesto por la Ley de Organizaciones Ganaderas y su Reglamento, los ganaderos en el Estado tienen plena libertad para organizarse en asociaciones locales, atendiendo en todo momento a la normatividad establecida por dichos ordenamientos.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Así mismo, es obligatorio que el ganado mayor sea identificado con arete de origen, en el cual se incluirá el color del Estado y el número que corresponda al Municipio que pertenece. Dicho requisito deberá ser cumplido en todo tipo de movilización ya sea en cambio de pastoreo, compraventa, sacrificio, subasta o exportación. Para tales efectos el Gobierno del Estado a través de los centros expeditores de pases de ganado, se encargará de su distribución con su respectivo costo, registro y control de los mismos.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2002)</small>
 
@@ -169,13 +195,17 @@ Por el registro o revalidación, los ganaderos pagarán las cuotas que fije la L
 
 Se prohibe el uso de fierro, señal de sangre, tatuajes y elemento electromagnéticos, no registrados.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 17.
 
-Toda persona que utilice fierros, señales de sangre, tatuajes o elementos electromagnéticos registrados, de los que no sea titular, será sancionado de conformidad con lo establecido en el capítulo XI de esta ley.
+Toda persona que utilice fierros, señales de sangre, tatuajes o elementos electromagnéticos registrados, sin el consentimiento del titular, será sancionado de conformidad con lo establecido en el Capítulo XI de esta Ley; constituyendo además el delito previsto en la fracción I del artículo 273 del Código Penal para el Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 18.
 
-Quien forje fierros para herrar, deberá exigir al ganadero que le presente la tarjeta de registro autorizada por la Dirección General de Desarrollo Rural, y llevará una relación de los que haya forjado.
+Quien forje fierros para herrar, deberá exigir al ganadero que le presente la tarjeta de registro autorizada por la Secretaría de Desarrollo Rural, y llevará una relación de los que haya forjado.
 
 ###### Artículo 19.
 
@@ -184,6 +214,10 @@ Cuando se deje de usar en forma definitiva el fierro, la señal de sangre, el ta
 ###### Artículo 20.
 
 No tendrán valor legal los traspasos de fierro, señal de sangre, tatuaje o elementos electromagnéticos, cuando no hayan sido autorizados por el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+A efecto de hacer valer dicha actuación, la Secretaría de Desarrollo Rural emitirá el Acuerdo correspondiente, por conducto del área operativa encargada del control de las referidas formas que son utilizadas para la marca y propiedad del ganado.
 
 ###### Artículo 21.
 
@@ -201,9 +235,11 @@ Los animales sin herrar, señalar o tatuar que se encuentren en tierras de propi
 
 La propiedad del ganado se transfiere por los medios que establece el derecho común; en los documentos que se haga constar la operación, se describirá el número de animales por especie, raza, fierro, señal de sangre o tatuaje, incluyendo su número de registro. Si los animales muestran varios fierros, se deberán detallar todos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 25.
 
-Ninguna factura tendrá validez si no esta razonada por la Dirección General de Desarrollo Rural o por la autoridad municipal de donde esté registrado el fierro, señal de sangre o tatuaje.
+Ninguna factura tendrá validez si no está razonada por la Secretaría de Desarrollo Rural o por la autoridad municipal de donde esté registrado el fierro, señal de sangre o tatuaje.
 
 Se entenderá por razonar una factura, al cotejo y certificación de la firma y fierro o de los demás medios de identificacción (sic) registrados por el vendedor.
 
@@ -237,17 +273,21 @@ Se consideran mostrencos los animales a los que no se les conozca dueño, los qu
 
 La Autoridad Municipal está obligada a indagar la identificación de los animales considerados como mostrencos, para lo cual revisará todas las planillas de registros; en caso de obtener aquella, hará la notificación al dueño de los animales, para que se presente a recogerlos en un plazo no mayor de cinco días naturales, contados a partir de la notificación.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 33.
 
-En caso de no obtener la identificación a que se refiere el artículo anterior, la Autoridad Municipal dará aviso a la Dirección General de Desarrollo Rural, autoridades circunvecinas e instituciones que representen a los ganaderos, adjuntándoles las reseñas de los animales, a efecto de que en un plazo no mayor de tres días, le informen si pueden o no hacer la identificación.
+En caso de no obtener la identificación a que se refiere el artículo anterior, la autoridad municipal dará aviso a la Secretaría de Desarrollo Rural, autoridades circunvecinas e instituciones que representen a los ganaderos, adjuntándoles las reseñas de los animales, a efecto de que en un plazo no mayor de tres días le informe si pueden o no hacer la identificación.
 
 ###### Artículo 34.
 
 Después de haberse determinado a que persona pertenecen los animales, éstos le serán entregados previo pago de la cantidad que asigne la Presidencia Municipal, de acuerdo con los gastos que se hayan erogado por el cuidado y manejo de los mismos.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 35.
 
-Transcurrido el plazo fijado en el artículo 32 y de no haber obtenido la identificación de los animales, se valuarán por dos peritos, dando aviso a la Dirección General de Desarrollo Rural y a la asociación ganadera local, anunciándose su venta mediante la publicación de edictos, por una sola vez, en el Periódico Oficial del Estado y en un lugar visible de la Presidencia Municipal, señalándose para el remate hora hábil del quinto día siguiente al de la publicación en el Periódico Oficial.
+Transcurrido el plazo fijado en el Artículo 32 y de no haber obtenido la identificación de los animales, se valuarán por dos peritos, dando aviso a la Secretaría de Desarrollo Rural y a la Asociación Ganadera Local, anunciándose su venta mediante la publicación de edictos por una sola vez, en el Periódico Oficial del Estado y en un lugar visible de la Presidencia Municipal, señalándose para el remate hora hábil del quinto día siguiente al de la publicación en el Periódico Oficial.
 
 ###### Artículo 36.
 
@@ -257,17 +297,21 @@ Los peritos a que se refiere el artículo 35 de esta Ley, serán de preferencia 
 
 La venta de los animales hecha en remate, será en efectivo y al contado, debiéndose herrar éstos con la marca-venta registrada del municipio y se extenderá al comprador la factura autorizada por el Presidente Municipal y el Secretario del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 38.
 
-Hecha la venta de algún animal mostrenco, se levantará el acta correspondiente, que se publicará en el Periódico Oficial del Estado, haciéndose constar en ella el lugar, día y hora del remate, reseña del animal o animales vendidos, nombre del comprador y el precio de la venta; se remitirá un ejemplar de esta acta a la Dirección General de Desarrollo Rural, otro a la Asociación Ganadera Local y otro se fijará en el tablero de avisos de la Presidencia Municipal.
+Hecha la venta de algún animal mostrenco, se levantará el acta correspondiente, que se publicará en el Periódico Oficial del Estado, haciéndose constar en ella el lugar, día y hora del remate, reseña del animal o animales vendidos, nombre del comprador y el precio de la venta; se remitirá un ejemplar de esta acta a la Secretaría de Desarrollo Rural, otro a la Asociación Ganadera Local y otro se fijará en el tablero de avisos de la Presidencia Municipal.
 
 ###### Artículo 39.
 
 El producto de las ventas se depositará en la Tesorería Municipal. Si dentro de los tres primeros meses siguientes al día de la publicación a que se refiere el artículo 38, se presenta el dueño de los animales vendidos como mostrencos a reclamar la cantidad depositada, y justifica plenamente su derecho, se le entregará el valor de lo obtenido, menos los gastos hechos por el transporte, cuidado, alimentación, publicaciones, peritajes y remate que se hubiesen realizado. Pasado el término de tres meses sin que comparezca el interesado, prescribirá la acción y el saldo del dinero depositado ingresará al fondo municipal.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 40.
 
-Queda prohibido a los funcionarios y empleados de la Dirección General de Desarrollo Rural y Presidencias Municipales, así como a los peritos que hayan valuado el ganado objeto del remate, adquirir para sí, directamente o por interpósita persona los animales mostrencos rematados. Toda venta hecha en contravención a lo dispuesto en este artículo, será nula de pleno derecho.
+Queda prohibido a los funcionarios y empleados de la Secretaría de Desarrollo Rural y Presidencias Municipales, así como a los peritos que hayan valuado el ganado objeto del remate, adquirir para sí, directamente o por interpósita persona, los animales mostrencos rematados. Toda venta hecha en contravención a lo dispuesto en este artículo, será nula de pleno derecho.
 
 ###### Artículo 41.
 
@@ -291,15 +335,19 @@ Cualquier contienda que se suscite con motivo de la aplicación de los artículo
 
 ### CAPITULO V. DE LA INSPECCION GANADERA
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 46.
 
-La inspección de ganado, pieles o cueros y carne, estará a cargo de la Oficina de Desarrollo Ganadero del Gobierno del Estado y tendrá por objeto verificar la observancia de las disposiciones de esta ley.
+La inspección de ganado, sus productos y subproductos, estará a cargo del Departamento de Ganadería de la Secretaría de Desarrollo Rural del Gobierno del Estado y tendrá por objeto verificar la observancia de las disposiciones de esta Ley.
 
 ###### Artículo 47.
 
 La inspección se practicará:
 
-I.- Al ganado, pieles o cueros y carne en tránsito por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+I.- Al ganado, sus productos y subproductos, en tránsito por:
 
 a).- Ferrocarril.- En las instalaciones de embarque;
 
@@ -311,11 +359,17 @@ d).- Caminos vecinales o brechas.
 
 II.- Al ganado que se va a sacrificar: En los lugares establecidos para tal fin; y
 
-III.- A las pieles o cueros y carne: En los establecimientos donde se beneficien, industrialicen o se vendan.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+III.- A sus productos y subproductos: en los establecimientos donde se beneficien, industrialicen o se vendan.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 48.
 
-A efecto de llevar a cabo la inspección a que se refieren los artículos anteriores, el Gobierno del Estado a través de la Dirección General de Desarrollo Rural, nombrará los inspectores que considere convenientes. Asimismo, podrá designar inspectores honorarios, mediante proposición hecha por la institución que represente a los ganaderos o por los presidentes municipales.
+A efecto de llevar a cabo la inspección a que se refieren los artículos anteriores, el Gobierno del Estado a través de la Secretaría de Desarrollo Rural, nombrará los inspectores que considere convenientes. Así mismo, podrá designar inspectores, mediante proposición hecha por la institución que represente a los ganaderos o por los presidentes municipales.
+
+La actuación de dichos funcionarios en el ejercicio de las facultades encomendadas, se regulará por el Reglamento que expida el Titular del Ejecutivo del Estado.
 
 ###### Artículo 49.
 
@@ -331,9 +385,13 @@ III.- No ser tablajero ni dedicarse a la compra-venta de ganado, por sí o por i
 
 Son facultades de los inspectores de ganadería las siguientes:
 
-I.- Revisar el ganado, pieles o cueros y carne en tránsito, exigiendo los documentos previstos en los artículos 69 y 70 de esta Ley;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
 
-II.- Detener los animales, pieles o cueros y carne que se hallen en tránsito o en lugares públicos como rastros, estaciones cuarentenarias y corrales públicos, cuya procedencia legal no esté comprobada, dando parte inmediatamente a su superior;
+I.- Revisar el ganado, sus productos y subproductos en tránsito, exigiendo los documentos previstos en los artículos 69 y 70 de esta Ley;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+II.- Detener los animales, sus productos y subproductos, que se hallen en tránsito o en lugares públicos como rastros, estaciones cuarentenarias y corrales públicos, cuya procedencia legal no esté comprobada, dando parte inmediatamente a su superior;
 
 III.- Exigir documentos sanitarios de acuerdo a la Ley Federal de Sanidad Animal y las campañas sanitarias que se realicen en el Estado;
 
@@ -341,7 +399,9 @@ IV.- Revisar los registros de fierros de herrar forjados, en los lugares donde s
 
 V.- Reseñar y autorizar el sacrificio del ganado en las empacadoras y rastros, así como evitar que se sacrifiquen aquéllos sobre los cuales no se haya comprobado su legítima propiedad;
 
-VI.- Inspeccionar tenerías y demás lugares donde se exploten los productos derivados del ganado, para comprobar si se satisfacen las disposiciones sanitarias y las que en particular se dicten en materia de ganadería;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+VI.- Inspeccionar los lugares donde se exploten los productos y subproductos del ganado, para comprobar si se satisfacen las disposiciones sanitarias y las que en particular se dicten en materia de ganadería, así como verificar si el ganado se encuentra libre de toda enfermedad;
 
 VII.- Revisar los lugares donde se expenda carne o sus derivados, a fin de comprobar su origen, posesión legal y condición sanitaria de los mismos;
 
@@ -399,11 +459,17 @@ Los administradores de los rastros serán nombrados por los presidentes municipa
 
 No se permitirá el sacrificio de ganado bovino menor de seis años, en el último tercio de la gestación, en buenas condiciones físicas, con excepción de los casos señalados en el artículo 63.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 61.
 
-Los registros de los rastros podrán ser revisados en cualquier tiempo, por la Dirección General de Desarrollo Rural, la Policía Judicial del Estado o por las Autoridades Sanitarias, pudiendo hacer cualquiera de ellas las gestiones que procedan para subsanar las irregularidades encontradas y se impongan las sanciones a quienes resulten responsables.
+Los registros de los rastros podrán ser revisados en cualquier tiempo, por la Secretaría de Desarrollo Rural, la Policía Judicial del Estado o por las autoridades sanitarias, pudiendo hacer cualquiera de ellas las gestiones que procedan para subsanar las irregularidades encontradas y se impongan las sanciones a quienes resulten responsables.
 
-Artículos (sic) 62.- El administrador del rastro reportará mensualmente a la autoridad municipal el movimiento del ganado y sacrificios registrados; el reporte deberá hacerse dentro de los tres primeros días del mes siguiente a que correspondan los datos, se enviará un tanto a la Dirección General de Desarrollo Rural y otro a las uniones ganaderas; el informe contendrá: número de animales sacrificados en el mes, la especie, sexo y peso total de los canales de los animales sacrificados. Así mismo estará obligado a proporcionar la información que a este respecto le sea solicitada por cualquier persona física o moral.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+###### Artículo 62.
+
+El administrador de rastro reportará mensualmente a la autoridad municipal el movimiento de ganado y sacrificios registrados; el reporte deberá hacerse dentro de los tres primeros días del mes siguiente a que correspondan los datos; se enviará un tanto a la Secretaría de Desarrollo Rural y otro a las uniones ganaderas; el informe contendrá: número de animales sacrificados en el mes, la especie, sexo y peso total de los canales de los animales sacrificados. Así mismo, estará obligado a proporcionar la información que a este respecto le sea solicitada por cualquier persona física o moral.
 
 ###### Artículo 63.
 
@@ -411,9 +477,19 @@ Cuando los animales sean broncos o por cualquier otra circunstancia haya necesid
 
 ### CAPITULO VII. DEL ABASTO PUBLICO
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 64.
 
-Se declara de interés y orden público el abastecimiento de carne suficiente para las necesidades de consumo de los habitantes del Estado de Chihuahua. Con objeto de garantizar debidamente la satisfacción de esta necesidad, el Ejecutivo del Estado a través de la Dirección General de Desarrollo Rural, tiene la facultad de celebrar convenios con los ganaderos de la entidad.
+Se declara de interés y orden público el abastecimiento de carne suficiente para las necesidades de consumo de los habitantes del Estado de Chihuahua. Con objeto de garantizar debidamente la satisfacción de esta necesidad, el Ejecutivo del Estado a través de la Secretaría de Desarrollo Rural, tiene la facultad de celebrar convenios con los ganaderos de la Entidad.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Artículo 64 bis.- El Gobierno del Estado por conducto de la Secretaría de Desarrollo Rural, otorgará los permisos para el establecimiento de expendios de carne clasificada, denominándolos conforme a la calidad de los productos que comercialicen, en la inteligencia de que expenderán únicamente la clase de carne que señale la autorización concedida.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Artículo 64 ter.- La carne de ganado sacrificado fuera de la Entidad, con fines de introducirla posteriormente al Estado, deberá ser presentada en el rastro que indique la Secretaría de Desarrollo Rural, con el objeto de que se revisen los documentos de procedencia, se inspeccione la carne por las autoridades sanitarias, se cubran las obligaciones fiscales correspondientes y se selle el producto para su identificación.
 
 ###### Artículo 65.
 
@@ -433,13 +509,17 @@ Queda estrictamente prohibida la venta clandestina de carne y pieles o cueros.
 
 ### CAPITULO VIII. TRANSPORTE Y MOVILIZACIÓN
 
+(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004) (F. DE E., P.O. 21 DE ABRIL DE 2004)
+
 ###### Artículo 69.
 
-Se prohibe trasladar ganado, pieles o cueros y carne, de un municipio a otro del Estado o fuera de él, sin el pase de ganado y el certificado zoosanitario.
+Se prohibe trasladar ganado, sus productos y subproductos, de un municipio a otro del Estado o fuera de él, sin el pase de ganado y el certificado zoosanitario.
 
 Cuando el destino del ganado o de las pieles, sea fuera del estado se requerirá además el certificado de inspección ganadera.
 
-Los inspectores de ganadería detendrán cualquier movilización de ganado, pieles o cueros y carne, que no venga amparada con la documentación donde se autorice su traslado y en su caso el certificado zoosanitario, hasta en tanto se presente los documentos correspondientes.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+En toda movilización de ganado, sus productos y subproductos, los conductores están obligados a mostrar la documentación que ampare la movilización de los mismos, cuantas veces sea requerido por los inspectores de ganadería. Cuando dichos funcionarios encuentren que se carece de la documentación a que se refiere este Capítulo, se detendrá el ganado, los productos y subproductos y el vehículo, hasta que el interesado subsane esta omisión y pague los gastos que se generen por tal motivo.
 
 ###### Artículo 70.
 
@@ -459,13 +539,17 @@ Queda prohibida la movilización e introducción a la entidad de ganado, product
 
 Toda movilización de ganado que vaya al interior del país deberá ser certificada en el lugar de embarque por el inspector de ganadería. En el caso de exportación se hará en la estación cuarentenaria.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 73.
 
-Toda persona que traslade ganado, carne, pieles o cueros, deberá detenerse en los puntos de revisión y poner a disposición de los inspectores de ganadería los mismos y la documentación relativa a la movilización, con la finalidad de que se lleve acabo la revisión.
+Toda persona que traslade ganado, sus productos y subproductos, deberá detenerse en los puntos de revisión y poner a disposición de los inspectores de ganadería los mismos y la documentación relativa a la movilización, con la finalidad de que se lleve acabo la revisión.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 74.
 
-Las empresas de transporte en general, por ningún motivo embarcarán animales, pieles o cueros y carne, si no están amparados por la documentación que autorice la movilización respectiva.
+Las empresas de transporte en general, por ningún motivo embarcarán animales, sus productos y subproductos, si no están amparados con la documentación que autorice la movilización respectiva.
 
 ###### Artículo 75.
 
@@ -483,11 +567,15 @@ Tratándose de ganado que proceda de otra entidad federativa, deberá ingresar a
 
 Queda prohibido movilizar animales orejanos, quedando exceptuadas las crías de vacas lecheras estabuladas que no tengan una edad mayor de treinta días, siempre que éstas se destinen para sacrificio inmediato o bien para ser usados como reproductoras.
 
-En caso de caballos finos de uso deportivo sin herrar, la Dirección General de Desarrollo Rural autorizará su movilización.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+En caso de caballos finos de uso deportivo sin herrar, la Secretaría de Desarrollo Rural autorizará su movilización.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 79.
 
-La autoridad municipal y las oficinas de la Dirección General de Desarrollo Rural expedirán el pase de ganado sólo si se les presenta:
+La autoridad municipal y la Secretaría de Desarrollo Rural expedirán el pase de ganado sólo si les presenta:
 
 A).- La factura razonada, en la que se identifiquen los animales, pieles o cueros cuando es ganado comprado; o la tarjeta de registro del fierro, señal de sangre, tatuaje o identificación electrónica; y
 
@@ -541,9 +629,23 @@ Es obligación de los dueños de predios rústicos cercar y mantener los cercos 
 
 Se declara de interés y orden público y por lo tanto obligatorio, la prevención y combate de las enfermedades transmisibles de los animales, de conformidad con las prescripciones de la Ley Federal de Sanidad Animal.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Artículo 89 bis.- El Ejecutivo del Estado se coordinará con la Unión Ganadera Regional de Chihuahua y con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a fin de realizar acciones tendientes a mejorar el estatus de sanidad animal en el Estado, tales como:
+
+a).- Implementar los mecanismos necesarios para erradicar cualesquier tipo de enfermedad que se presenten en el ganado;
+
+b).- Cumplir y hacer cumplir las disposiciones administrativas y las medidas de sanidad animal que establezcan dichas autoridades; y
+
+c).- Difundir permanentemente entre los inspectores de ganadería, ganaderos y demás sectores relacionados con la actividad, la información y conocimiento sobre sanidad animal.
+
 ###### Artículo 90.
 
 Es obligatorio para todos los habitantes del Estado dar aviso de la aparición o existencia de cualquier enfermedad que ataque a las especies animales.
+
+(ADICIONADO, P.O. 18 DE FEBRERO DE 2004) (F. DE E., P.O. 21 DE ABRIL DE 2004)
+
+Artículo 90 bis.- El Ejecutivo del Estado en cualquier tiempo podrá dictar medidas de seguridad para prevenir, controlar y evitar la propagación de enfermedades o plagas que afecten el ganado, mismas que tendrán vigencia en el área y durante el término para el que se establezcan, siempre y cuando no contravengan disposiciones de autoridades federales que se hubiesen dictado con fundamento en la Ley Federal de Sanidad Animal y su Reglamento.
 
 ###### Artículo 91.
 
@@ -599,7 +701,9 @@ I.- Comercialicen animales sin la factura razonada correspondiente;
 
 II.- Alteren o falseen los datos de identificación de los animales movilizados; y
 
-III.- Vendan clandestinamente carne y pieles o cueros.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+III.- Vendan clandestinamente carne y demás productos o subproductos del ganado.
 
 ###### Artículo 99.
 
@@ -607,7 +711,9 @@ Se impondrá multa por el equivalente de 300 a 500 días de salario mínimo gene
 
 I.- Evadan las casetas de inspección ganadera;
 
-II.- Transporten ganado, pieles o cueros y carne sin la documentación en la que se autorice la movilización; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2004)</small>
+
+II.- Transporten ganado, sus productos y subproductos sin la documentación en la que se autorice la movilización; y
 
 III.- Introduzcan al estado, ganado por vías de comunicación en las cuales no existan casetas de inspección ganadera o estaciones cuarentenarias.
 
@@ -623,19 +729,31 @@ II.- Hagan aparecer como nacido en el Estado de Chihuahua a ganado proveniente d
 
 Las multas señaladas en los artículos anteriores, se incrementarán hasta un 100% de su máximo en caso de reincidencia.
 
-###### Artículo 102.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
 
-Las multas serán determinadas e impuestas por la Dirección General de Desarrollo Rural y notificadas a la oficina fiscal correspondiente para su cobro y a la autoridad municipal para su conocimiento.
+###### Artículo 102
 
-En caso de negativa del pago de multas impuestas se empleará el procedimiento económico coactivo que establece el Código Fiscal del Estado y su importe se distribuirá por partes iguales entre el municipio correspondiente y el Gobierno del Estado.
+Las multas serán determinadas e impuestas por la Secretaría de Desarrollo Rural y notificadas a la oficina fiscal correspondiente para su cobro y a la autoridad municipal para su conocimiento.
+
+Las multas tendrán el carácter de créditos fiscales, por lo que en caso de negativa del pago se empleará el procedimiento económico coactivo que establece el Código Fiscal del Estado y su importe se distribuirá por partes iguales entre el Municipio correspondiente y el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+Artículo 102 bis.- Las sanciones previstas en los artículos 97, 98, 99 y 100 de la presente Ley, se fijarán sin tomar en cuenta los mínimos y máximos que contemplan, en atención a las circunstancias en que se realizó la infracción, a la mayor o menor responsabilidad y condiciones económicas del infractor, al daño que causó o pudo causar a la actividad ganadera, a la sanidad animal o a los consumidores.
+
+Será el Titular de la Secretaría de Desarrollo Rural o quien éste designe, la autoridad que se hará cargo de dicha calificación, apreciando para tales efectos de manera discrecional, los motivos que tuvo para imponer la sanción atendiendo a las circunstancias que se señalan en el párrafo que antecede.
+
+Las condonaciones que se llegaren a otorgar, sólo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría de Desarrollo Rural y nunca con efectos generales. Contra esta resolución no cabrá recurso alguno.
 
 ###### Artículo 103.
 
 Previamente a la imposición de la sanción, el infractor deberá ser notificado de los hechos que la fundan y motivan, para que en un término de cinco días exponga ante la misma autoridad lo que a su derecho convenga y ofrezca pruebas.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 104.
 
-Una vez desahogadas las pruebas ofrecidas, la Dirección de Desarrollo Rural, emitirá su resolución dentro de cinco días.
+Una vez desahogadas las pruebas ofrecidas, la Secretaría de Desarrollo Rural, deberá emitir su resolución dentro de los cinco días hábiles siguientes.
 
 ###### Artículo 105.
 
@@ -644,6 +762,38 @@ Las determinaciones que impongan cualquiera de las sanciones previstas en la pre
 ###### Artículo 106.
 
 Los servidores públicos que incurran en responsabilidad en la aplicación de esta ley, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2004)</small>
+
+### CAPITULO XII. DEL CONTROL DE LA LECHE
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+###### Artículo 107.
+
+La Secretaría de Desarrollo Rural implementará las medidas necesarias para el control de la producción de leche, por conducto del organismo público descentralizado que se cree para tal efecto.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+###### Artículo 108.
+
+Las medidas para el control de la leche comprenderán:
+
+I.- Controlar la producción de leche líquida que se genere en el Estado, así como toda aquella que ingrese al mismo;
+
+II.- La clasificación de la leche;
+
+III.- El establecimiento de establos productores de leche, granjas agropecuarias, plantas pasteurizadoras y la realización de cuencas lecheras;
+
+IV.- La organización e integración de los productores de leche en base a las necesidades de la planificación agropecuaria; y
+
+V.- Asesorar a las personas que pretendan dedicarse a la producción e industrialización de la leche.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2004)</small>
+
+###### Artículo 109.
+
+Con el objeto de preservar la salud pública, toda explotación lechera en el Estado queda sujeta a la realización de las pruebas de tuberculosis, brucelosis y mastitis.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -684,3 +834,13 @@ LIC. EDUARDO ROMERO RAMOS
 P.O. 11 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+EL presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las infracciones cometidas con anterioridad a la vigencia de la presente reforma, se sujetarán a clasificación por conducto de la autoridad señalada para ello, siempre y cuando la sanción que se establezca resulte benéfica para el infractor; lo anterior previa solicitud de la parte interesada.
