@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2000-03-25"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -945,7 +945,7 @@ Durante las diligencias de preparación de la acción procesal penal el imputado
 
 I.- Que no se trate de los delitos graves previstos en el artículo 10 del Código Penal del Estado o en Ley especial. Tampoco procederá la concesión del beneficio, cuando el imputado haya sido condenado con anterioridad, por algún delito calificado como grave o cuando existan pruebas de las que razonablemente pueda establecerse que la libertad del inculpado representa por su conducta precedente o por las circunstancias del delito imputado, un riesgo para el ofendido o para la sociedad;
 
-II.- Que tratándose de delitos culposos motivados por el tránsito de vehículos, el conductor no se haya encontrado en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquiera otra sustancia que produzca efectos similares y no se haya dejado abandonada a la víctima;
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
 III.- Que garantice suficientemente y mediante depósito en efectivo, el pago de la reparación del daño; y
 
@@ -3070,3 +3070,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
