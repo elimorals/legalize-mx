@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-central-de-actuarios-de-los-juzgados-29529"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-19"
-last_updated: "2003-03-19"
+last_updated: "2003-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA CENTRAL DE ACTUARIOS DE LOS JUZGADOS PRIMERA INSTANCIA DE LOS RAMOS CIVIL, FAMILIAR Y MERCANTIL DEL DISTRITO JUDICIAL DE LA CAPITAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 19 de marzo de 2003.
 
@@ -59,19 +59,29 @@ Las actividades que desarrollen los elementos que integran la central de actuari
 
 Para el cumplimiento de sus obligaciones y atribuciones la central de actuarios se estructurará de la siguiente manera:
 
-I.- Director
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-II.- Area de asistencia operativa
+I.- Coordinador de Centrales de Notificadores y Actuarios
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+II.- Jefe de la Central
 
 III.- Actuarios
 
 IV.- Personal Administrativo necesario
 
-### CAPITULO III. DE LA DIRECCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+### CAPITULO III. DE LA COORDINACION
+
+> <small>N. DE E. DE CONFORMIDAD CON EL INCISO B) DEL ACUERDO GENERAL NUMERO 7/2003 QUE MODIFICA EL REGLAMENTO, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2003, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE DIECISIETE FRACCIONES A DIECISEIS.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 5.
 
-La Central de Actuarios estará o cargo del Director, cuyas atribuciones son las siguientes:
+La Central de Actuarios estará a cargo del Coordinador de Centrales de Notificadores y Actuarios, cuyas atribuciones son las siguientes:
 
 I.- Establecer la necesaria coordinación y comunicación con los juzgados, a efecto de garantizar el cabal y puntual cumplimiento de las resoluciones judiciales.
 
@@ -91,23 +101,35 @@ VIII.- Velar por la debida custodia de los expedientes.
 
 IX.- Establecer las medidas de control y vigilancia que garanticen la debida transparencia así como el sigilo en los casos que así lo requieran.
 
-X.- Llevar un control de las salidas de los actuarios, así como de la duración de éstas y de la participación de los interesados, en su promoción y ejecución, de acuerdo o los requerimientos de la diligencia a practicar.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+X.- Establecer la necesaria comunicación con las autoridades administrativas correspondientes en lo relativo al depósito de bienes relacionados con la ejecución de una resolución judicial, para garantizar su debida conservación.
 
 XI.- Gestionar el auxilio de la fuerza pública, en términos de ley, de acuerdo a la naturaleza y riesgos de la resolución a ejecutar.
 
-XII.- Establecer la necesaria comunicación con las autoridades administrativas correspondientes en lo relativo al depósito de bienes relacionados con la ejecución de una resolución judicial, para garantizar su debida conservación.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XIII.- Supervisar que las diligencias se practiquen con estricto apego a derecho.
+XII.- Supervisar que las diligencias se practiquen con estricto apego a derecho.
 
-XIV.- Levantar los actas administrativas a las faltas cometidas por el personal de la central.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XV.- Convocar y conducir reuniones de trabajo así como promover la capacitación del personal a su cargo, a efecto de implementar las medidas que estime convenientes para mejorar el servicio.
+XIII.- Recibir del Jefe de la Central y levantar las actas administrativas del personal de la Central, para dar cuenta a la Secretaría General de Acuerdos del Tribunal Superior de Justicia y tomar las medidas disciplinarias correspondientes.
 
-XVI.- Rendir un informe mensual de sus actividades al Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XVII.- Las demás que la ley, el pleno o la Presidencia del Tribunal le encomienden.
+XIV.- Convocar y conducir reuniones de trabajo así como promover la capacitación del personal a su cargo, a efecto de implementar las medidas que estime convenientes para mejorar el servicio.
 
-### CAPITULO IV. AREA OPERATIVA
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XV.- Rendir un informe mensual de sus actividades al Presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XVI.- Las demás que se le encomienden o que determinen las disposiciones legales relativas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+### CAPITULO IV. DEL JEFE DE LA CENTRAL
 
 ###### Artículo 6.
 
@@ -133,15 +155,31 @@ IX.- Firmar los folios de asignación de actuario y formar los expedientillos ne
 
 X.- Autorizar con su firma los documentos que justifiquen la recepción de los expedientes por parte de los juzgados.
 
-XI.- Una vez practicada la diligencia, regresar los expedientes a los juzgados, verificando que se hayan satisfecho los requisitos formales previstos en la ley.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XII.- Las demás que fijen las leyes respectivas.
+XI.- Llevar un control de las salidas de los actuarios, así como de la duración de éstas y de la participación de los interesados, en su promoción y ejecución, de acuerdo a los requerimientos de la diligencia a practicar.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XII.- Gestionar el auxilio de la fuerza pública, en términos de la ley, y de acuerdo a la naturaleza y riesgos de la resolución a ejecutar.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XIII.- Una vez practicada la diligencia, regresar los expedientes o los juzgados, verificando que se hayan satisfecho los requisitos formales previstos por la ley.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XIV.- Las demás que fijen las leyes respectivas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 7.
 
-Para el cumplimiento de sus atribuciones el área operativa se sujetará a las siguientes disposiciones:
+Para el cumplimiento de sus funciones la Central se sujetará a las siguientes disposiciones:
 
-l.- La asignación la hará a petición de parte legítima, siempre que exista ya la orden de ejecución en autos y que el interesado le presente la correspondiente ficha que le proporcionó el juzgado donde se encuentra radicado el juicio. Para tal efecto, el interesado deberá presentarse ante el área operativa de la central de nueve a trece horas a fin de solicitar la asignación de fecha para la práctica de sus diligencias.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+I.- La asignación la hará a petición de parte legitima, siempre que exista ya la orden de ejecución en autos y que el interesado le presente la correspondiente ficha que le proporcionó el juzgado donde se encuentra radicando el juicio. Para tal efecto, el interesado deberá presentarse ante la Central de nueve a trece horas a fin de solicitar la asignación de fecha para la práctica de sus diligencias.
 
 II.- Solicitar el expediente un día antes de que esté programada la diligencia.
 
@@ -149,7 +187,9 @@ III.- Llenar un folio con los datos de cada expediente, tales como nombre del ej
 
 IV.- El interesado deberá acudir a la central precisamente el día y hora que le asignaron, para que acompañe al actuario correspondiente y a quienes se les dará solamente una tolerancia de diez minutos de espera.
 
-V.- Los interesados que vayan a realizar diligencias en los expedientes en donde les hayan fijado horas inhábiles, deberán presentarse en la Jefatura Operativa en horas hábiles con el fin de planearlas.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+V.- Los interesados que vayan (sic) realizar diligencias en los expedientes en donde les hayan fijado horas inhábiles, deberá presentarse con el Jefe de la Central en horas hábiles con el fin de planearlas.
 
 ### CAPITULO V. DE LOS ACTUARIOS
 
@@ -218,3 +258,9 @@ LIC. FELIPE BORREGO.
 EL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 LIC. MARCO AURELIO RENTERÍA SALCEDO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+ÚNICO.- Publíquese el presente Reglamento en el Periódico Oficial Órgano de Gobierno del Estado, el cual entrará en vigor al día siguiente de su publicación.
