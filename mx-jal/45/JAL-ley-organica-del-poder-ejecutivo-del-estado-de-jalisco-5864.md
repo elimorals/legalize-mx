@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1993-10-02"
+last_updated: "1994-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -167,7 +167,9 @@ IV. La planeación, conducción, coordinación, fomento y orientación del desar
 
 V. La impartición y administración de la educación pública y la regulación de la que impartan los particulares;
 
-IV (sic). La planeación y fomento del desarrollo económico y social;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1994)</small>
+
+VI. Apoyar a la Universidad de Guadalajara en el cumplimiento de sus fines;
 
 VII. La procuración de la justicia;
 
@@ -237,7 +239,7 @@ XII. Contraloría del Estado;
 
 XIII. Procuraduría General de Justicia; y
 
-XIV. Universidad de Guadalajara.
+XIV. (DEROGADA, P.O. 4 DE ENERO DE 1994)
 
 La Procuraduría General de Justicia y la Universidad de Guadalajara, se regirán por sus respectivas leyes.
 
@@ -939,73 +941,7 @@ IX. Las demás que le fijen las Leyes y Reglamentos vigentes.
 
 ###### Art. 41.
 
-La Universidad de Guadalajara cumple, en el ámbito de la cultura superior, la misión que en ese orden le corresponde al Estado. Al efecto, tiene las siguientes atribuciones y responsabilidades:
-
-I. La organización, vigilancia y desarrollo de la educación del bachillerato y, en general, de la enseñanza media y superior, en todas sus modalidades, tanto profesionales como técnicas, salvo las excepciones que señale la Ley;
-
-II. La organización, vigilancia y desarrollo de la educación superior, así como de las escuelas de grado inferior, que sea necesario que funcionen como planteles anexos para la práctica correspondiente;
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
-
-III. La educación deportiva y militar, por lo que ve a sus propios alumnos, y en coordinación con los programas de la Secretaría de Educación;
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
-
-IV. La organización y desarrollo de la educación artística de sus propios alumnos así como lo que se imparta en sus escuelas o facultades de Bellas Artes, y de artes folklóricas, en coordinación siempre con las Secretarías de Educación, y de Cultura;
-
-V. La investigación científica y filosófica;
-
-VI. La conservación, acrecentamiento, transmisión y extensión de la cultura;
-
-VII. La organización de los servicios sociales que se requieran para la capacitación profesional de sus alumnos y para que participen todos los sectores sociales de los beneficios de la cultura, para el efecto de que los educandos se habitúen a considerar el ejercicio de sus futuras profesiones como funciones al servicio de la comunidad;
-
-VIII. La conservación y mantenimiento de las escuelas, facultades e institutos y departamentos que se requieran para la realización de los objetivos a que se alude en las fracciones anteriores;
-
-IX. La fundación y sostenimiento de las demás escuelas, facultades, institutos, departamentos, laboratorios, seminarios y bibliotecas, que reclamen las necesidades de la colectividad;
-
-X. La vigilancia de que se observen y cumplan las disposiciones relacionadas con la educación que deba impartir la institución;
-
-XI. La incorporación de planteles sostenidos por la iniciativa privada que impartan el mismo tipo de enseñanza que la institución, ejerciendo al mismo tiempo la supervisión o vigilancia que proceda;
-
-XII. La organización, administración y enriquecimiento sistemático de las bibliotecas generales o especializadas que sostenga la propia Universidad o que formen parte de sus dependencias;
-
-XIII. La fundación de institutos de investigación científica, filosófica, y técnica, y el establecimiento de laboratorios, observatorios, planetarios, seminarios y demás centros que requiera el desarrollo de la educación media y superior;
-
-XIV. El patrocinio y la realización de congresos, asamblea, reuniones, eventos, competencias y concursos, de carácter científico, técnico, cultural, educativo y artístico;
-
-XV. El fomento de las relaciones de orden cultural con instituciones análogas, ya sea del país o del extranjero;
-
-XVI. El mantenimiento continuo del escalafón del magisterio y el seguro del maestro, y la creación de un sistema de compensaciones y estímulos para el profesorado, en forma tal que sean un estímulo para que se hagan obras, libros y ensayos de investigación y creación, y de que los maestros hagan los textos más idóneos que reclama, para su mejor formación educativa, la juventud universitaria;
-
-XVII. La Organización, control y mantenimiento al día del registro de libros y revistas hechos por los maestros y graduados universitarios, y de tesis profesionales de sus pasantes;
-
-XVIII. El estímulo del desarrollo del teatro en el Estado y la organización de concursos para autores, actores y escenógrafos y, en general, la promoción y el fomento adecuado de todas las manifestaciones de teatro experimental;
-
-XIX. El otorgamiento de becas para que los estudiosos jaliscienses puedan realizar investigaciones, hacer o completar ciclos de estudios en el país, o en el extranjero;
-
-XX. La revalidación de estudios, diplomas, títulos y grados, y conceder autorizaciones para el ejercicio de las capacidades que acrediten;
-
-XXI. La vigilancia, con el auxilio de las asociaciones de graduados, del correcto ejercicio de las profesiones;
-
-XXII. La administración y control del Archivo General del Estado, debiéndose incorporar constantemente a su acervo todos aquellos documentos del Archivo General de Gobierno y de los Municipios que, al perder su interés jurídico o administrativo, adquieran automáticamente valor histórico o científico en general;
-
-XXIII. La organización, en coordinación con la Secre (sic) certámenes, concursos, audiciones, representaciones teatrales, y exhibiciones cinematográficas de interés turístico y cultural;
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1992)</small>
-
-XXIV. La organización, en coordinación con la Secretaría de Educación, de la participación que el Estado debe tener en olimpiadas y competencias interiores o nacionales; organización y desfiles atléticos y todo género de eventos deportivos, en cooperación con la propia Secretaría y con las autoridades Federales;
-
-XXV. La cooperación y control en las tareas que desempeñan las Federaciones Deportivas del Estado, en cuanto se relacionen con el manejo y control de su Departamento de Educación Física y Escuelas de Cultura Física, en su caso;
-
-XXVI. El estudio de los problemas fundamentales de las razas aborígenes de Jalisco, en colaboración con las dependencias idóneas, y dictando disposiciones dentro de las facultades que se le otorguen en los concordatos que celebre con las instituciones nacionales que conozcan de estos problemas y asuntos;
-
-XXVII. La promoción y gestión ante las autoridades de todo tipo, de todas aquellas medidas o disposiciones que conciernan al interés general, de los núcleos de población que se mantienen dentro de su tradición cultural originaria o autóctona;
-
-XXVIII. La promoción y gestión, en lo conducente, para la adopción de todas aquellas medidas que mejoren la educación media y superior y la cultura en el Estado;
-
-XXIX. La promoción de proyectos de investigación para el servicio de la comunidad y el desarrollo productivo, que puedan ser concertados con diversos agentes públicos, sociales o privados, nacionales o extranjeros, que alleguen a la Universidad fuentes propias de recursos para el fortalecimiento de su capacidad de desarrollo; y
-
-XXX. Las demás que le confieran las leyes y reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 4 DE ENERO DE 1994)
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1121,9 +1057,15 @@ Los organismos de la administración pública paraestatal deberán proporcionar 
 
 Los Consejos de Administración, Juntas Directivas o equivalentes, serán responsables de la programación normal de los organismos del sector paraestatal y podrán, cuando lo juzguen necesario, establecer comités técnicos especializados con funciones de apoyo en el desarrollo de estas actividades, sin crear nuevas plazas o remuneraciones especiales para ello.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1994)</small>
+
 ###### Art. 55.
 
-Como organismo público descentralizado y típico, que se hará cargo de todos los servicios asistenciales que deba prestar el Estado y que no sean de la competencia del Sistema Estatal de Salud, ni del Sistema para el Desarrollo Integral de la Familia, Jalisco, funcionará en los términos del ordenamiento que le da vida y de las propias disposiciones de esta Ley, el Instituto Jalisciense de Asistencia Social.
+Como organismos públicos descentralizados típicos, existirán la Universidad de Guadalajara y el Instituto Jalisciense de Asistencia Social.
+
+La Universidad de Guadalajara gozará de autonomía, personalidad jurídica y patrimonio propios, y tendrá como finalidad primordial impartir educación media superior y superior, así como coadyuvar al desarrollo de la cultura en la Entidad, en los términos que se determinen en su Ley Orgánica y ordenamientos que de ella deriven, además de esta Ley.
+
+El Instituto Jalisciense de Asistencia Social, se hará cargo de todos los servicios asistenciales que deba prestar el Estado y que no sean de la competencia del Sistema Estatal de Salud, ni del Sistema para el Desarrollo Integral de la Familia, "Jalisco", y se normará internamente por el ordenamiento que lo rige y las disposiciones de esta Ley.
 
 ### CAPITULO QUINTO. De la Coordinación Municipal y del Estímulo a la Participación Social
 
@@ -1211,7 +1153,7 @@ J) Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado de J
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 1992)</small>
 
-K). Consejo de la Zona Metropolitana de Guadalajara.
+K). Consejo de la Zona Metropolitana de Guadalajara;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1223,7 +1165,7 @@ B) Comité Estatal de Conservación de Reservas Ecológicas;
 
 C) Comité de Comunicaciones Vecinales del Estado de Jalisco; y
 
-D) Fideicomiso ante Banrural para el Desarrollo Agropecuario del Estado.
+D) Fideicomiso ante Banrural para el Desarrollo Agropecuario del Estado;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1235,7 +1177,7 @@ B) Fideicomiso Fondo Jalisco;
 
 C) Fondo Estatal de Apoyo a las Exportaciones; y
 
-D) Fideicomiso de la Central de Abastos de Ciudad Guzmán, Jalisco.
+D) Fideicomiso de la Central de Abastos de Ciudad Guzmán, Jalisco;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1243,7 +1185,7 @@ V. Secretaría de Turismo:
 
 A) Comisión de Turismo del Estado; y
 
-B) Instituto de la Artesanía Jalisciense.
+B) Instituto de la Artesanía Jalisciense;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1251,7 +1193,7 @@ VI. Secretaría de Finanzas:
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-A) Fondo de Auxilio Social.
+A) Fondo de Auxilio Social;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1267,7 +1209,7 @@ B) Consejo Estatal de Educación; y
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco.
+C) Organismo para la Integración Administrativa y Operativa de los Servicios de Educación Básica y Normal del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1287,7 +1229,7 @@ C) Orquesta Filarmónica de Jalisco; y
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
-D) Consejo Estatal de la Cultura y las Artes.
+D) Consejo Estatal de la Cultura y las Artes;
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1315,7 +1257,7 @@ E) Patronato de Promotores Voluntarios; y
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 1993)</small>
 
-F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco.
+F) Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -1353,7 +1295,7 @@ B) Consejo Estatal de Asesores Gubernamentales;
 
 C) Inmobiliaria y Promotora de Vivienda de Interés Público del Estado; y
 
-D) Fideicomiso de la Orquesta Filarmónica de Jalisco.
+D) Fideicomiso de la Orquesta Filarmónica de Jalisco;
 
 Artículo Décimo. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
@@ -1402,3 +1344,7 @@ P.O. 2 DE OCTUBRE DE 1993.
 Primero.- Se faculta al Ejecutivo del Estado para que realice las acciones que estime conveniente, en tanto se reforme el Presupuesto de Egresos del Gobierno del Estado, para el ejercicio fiscal en vigor, a efecto de que pueda instalarse de inmediato la dependecia (sic) de nueva creación.
 
 Segundo.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE ENERO DE 1994.
+
+Unico.- Este decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
