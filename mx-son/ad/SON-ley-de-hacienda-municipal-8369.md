@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1998-12-28"
+last_updated: "1999-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -775,11 +775,15 @@ No se pagará el impuesto además de los casos señalados en el primer párrafo,
 
 La base del impuesto será el valor que resulte mayor entre los siguientes:
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+a).- El consignado en avalúo por una institución de crédito, corredor público autorizado o perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de expedición respectiva.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+Las tesorerías municipales podrán revisar y calificar los avalúos a que se refiere el párrafo anterior, y en caso de determinar que éstos no se apeguen a los precios reales del valor comercial del terreno y demás avalúos unitarios comerciales de construcción en que sea elaborado el dictamen correspondiente, dichas dependencias municipales podrán rechazarlos, previo avalúo expedido por perito debidamente reconocido por la Comisión Nacional Bancaria y de Valores, o respecto del emitido por el Instituto Catastral y Registral del Estado, según sea convenido por las partes.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-a).- El consignado en avalúo por una Institución de Crédito, el cual deberá tener una vigencia no mayor de seis meses, contados a partir de la fecha de su expedición.
-
-Las Tesorerías Municipales podrán revisar los avalúos practicados por los peritos adscritos a las Instituciones de Crédito, y sí a su criterio no se apegan a los precios reales del valor comercial del terreno y a los valores unitarios comerciales de construcción en el momento que se elabore el dictamen correspondiente, dichas dependencias municipales podrán no aceptarlos previo avalúo expedido por perito valuador debidamente reconocido por la Comisión Nacional Bancaria, o bien que sea emitido por el Instituto Catastral o Registral en el Estado, según lo convengan las partes.
 
 Si se demuestra que el avalúo presentado por el obligado al pago del impuesto, es inferior a los precios reales y valores unitarios comerciales, tanto del terreno como de la construcción, en cuyo caso los gastos de peritaje correrán por su cuenta; mientras que, sí dichos precios o valores resultan ser correctos, los gastos serán a cargo de la Tesorería Municipal.
 
@@ -843,9 +847,13 @@ Cuando las operaciones se celebren fuera del Estado, sobre bienes situados dentr
 
 Es objeto de este Impuesto la explotación de diversiones y espectáculos públicos.
 
-Por diversión y espectáculo público debe entenderse toda función de esparcimiento, sea teatral, cinematográfica, deportiva o de cualquier naturaleza semejante que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando por ello cierta suma de dinero.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-No se consideran espectáculos públicos los presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+Por diversión y espectáculo público debe de entenderse toda función esparcimiento, sea teatral, deportiva o de cualquier naturaleza semejante que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando por ello cierta suma de dinero.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
+No se consideran espectáculos públicos los presentados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos, así como funciones de cine.
 
 ###### ARTICULO 84.
 
@@ -2176,3 +2184,9 @@ La presente ley entrará en vigor en todo el Estado, el día 01 de enero de 1999
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que en lo conducente se opongan a la aplicación de la presente Ley.
+
+B.O. 30 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1º de enero del año 2000, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que en lo conducente se opongan a los efectos y alcances del presente Decreto.
