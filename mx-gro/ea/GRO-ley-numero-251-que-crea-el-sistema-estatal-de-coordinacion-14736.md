@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-251-que-crea-el-sistema-estatal-de-coordinacion-1473
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "2001-12-28"
+last_updated: "2003-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 251 QUE CREA EL SISTEMA ESTATAL DE COORDINACION FISCAL Y ESTABLECE LAS BASES, MONTOS Y PLAZOS A LOS QUE SE SUJETARAN LAS PARTICIPACIONES FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -215,13 +215,13 @@ Las participaciones que correspondan a los Municipios del Fondo Común que se es
 
 Si como resultado de los ajustes mensuales, cuatrimestrales y del ejercicio, surgieran diferencias a cargo de los Municipios en relación con los pagos provisionales, el Estado, retendrá el importe en exceso, en la liquidación provisional del mes siguiente.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 9o.
 
-El Gobierno del Estado, una vez que la Secretaría de Hacienda y Crédito Público, publique en el Diario Oficial de la Federación, el calendario de entrega, porcentaje y montos estimados de las Participaciones Federales que le correspondan al Estado de Guerrero; éste, dentro de los 15 días siguientes publicará en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en la Entidad, los criterios de distribución, fórmulas de cálculo, así como todos los datos utilizados para la aplicación de las fórmulas respectivas, coeficientes y montos estimados y calendarios de entrega de los recursos que correspondan a cada uno de los municipios del Estado de Guerrero.
+El Gobierno del Estado, una vez que la Secretaría de Hacienda y Crédito Público, publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje y montos estimados de las Participaciones Federales que le correspondan al Estado de Guerrero; éste, dentro de los quince días siguientes publicará en el Periódico Oficial del Gobierno del Estado, los criterios de distribución, fórmulas de cálculo, así como todos los datos utilizados para la aplicación de las fórmulas respectivas, coeficientes y montos estimados y calendarios de entrega de los recursos que correspondan a cada uno de los Municipios del Estado de Guerrero. La publicación podrá hacerla también, en uno de los diarios de mayor circulación en la Entidad
 
-Cuando el Gobierno del Estado, entere a los Municipios las Participaciones, especificará el importe de distribución de cada uno de los fondos a los que se refiere este capítulo, publicándolos mensualmente en el Organo de Difusión Oficial.
+Cuando el Gobierno del Estado entere a los Municipios las Participaciones, especificará el importe de distribución de cada uno de los fondos a los que se refiere este capítulo, publicándolos trimestralmente en el Periódico Oficial del Gobierno del Estado, pudiendo hacerlo también en uno de los diarios de mayor circulación en la Entidad.
 
 ###### ARTICULO 10o.
 
@@ -436,3 +436,7 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor a partir del 1o. de enero del 2002.
+
+P.O. 23 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
