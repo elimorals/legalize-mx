@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1970-01-28"
+last_updated: "1971-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1971.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -138,7 +138,7 @@ El Juez que conozca del negocio podrá, mediante fianza que otorgue el actor par
 
 ARTICULO 20
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., D.O.F. DE 27 DE SEPTIEMBRE DE 1932)</small>
 
 La acción de obra peligrosa se da al poseedor jurídico o derivado de una propiedad contigua o cercana, que pueda resentirse o padecer por la ruina o derrumbe de la obra, caída de un árbol u otro objeto análogo; y su finalidad es la de adoptar medidas urgentes para evitar los riesgos que ofrezcan el mal estado de los objetos referidos; obtener la demolición total o parcial de la obra, o la destrucción del objeto peligroso. Compete la misma acción a quienes tengan derecho privado o público de paso por las inmediaciones de la obra, árbol u otro objeto peligroso.
 
@@ -384,11 +384,11 @@ ARTICULO 60
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones; y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 61
 
-Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz de cien pesos; en los menores, de mil pesos; en los de Primera Instancia, de dos mil; y de cuatro mil pesos en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, de cien pesos; en los Menores, de mil pesos; en los de lo Civil y de lo Familiar, de dos mil pesos; y de cuatro mil pesos en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
 
 ARTICULO 62
 
@@ -726,17 +726,15 @@ ARTICULO 116
 
 La primera notificación se hará personalmente al interesado, o a su representante o procurador en la casa designada; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que se asentará del acto.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 117
 
-Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija hábil dentro de un término comprendido entre las seis y las veinticuatro horas posteriores, y si no espera se le hará notificación por cédula.
+Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija hábil dentro de un término comprendido entre las seis y las veinticuatro horas posteriores, y si no espera se le hará la notificación por cédula.
 
-La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o a cualquiera otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que allí lo tiene la persona que debe ser citada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser notificada.
+La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser citada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona que debe ser notificada.
 
-La cédula contendrá una relación sucinta de la demanda.
-
-Además de la cédula, se entregarán a la persona con quien se entienda la diligencia, las copias del traslado, en su caso.
+Además de la cédula, se entregarán a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada, más, en su caso, copia simple de los demás documentos que el actor haya exhibido con su libelo inicial.
 
 ARTICULO 118
 
@@ -1050,11 +1048,11 @@ ARTICULO 158
 
 En las contiendas sobre propiedad o posesión de un inmueble, la competencia se determinará por el valor que tenga. Si se trata de usufructo o derechos reales sobre inmuebles, por el valor de la cosa misma. Pero de los interdictos conocerán siempre los jueces de primera instancia de la ubicación de la cosa.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 159
 
-De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces civiles de primera instancia, con excepción de las cuestiones sobre interdicción, reconocimiento de hijos y adopción de menores e incapacitados, de las que conocerán los jueces pupilares.
+De las cuestiones sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Jueces de lo Familiar.
 
 ARTICULO 160
 
@@ -1182,11 +1180,11 @@ Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las par
 
 ### CAPITULO II. De la recusación
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 172
 
-Cuando los magistrados, jueces o secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal. Solamente procederá la recusación sin causa contra los jueces, por una sola vez, cuando la interponga el demandado.
+Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal. Unicamente procederá la recusación sin causa contra los Jueces, cuando la interponga el demandado precisamente al contestar la demanda.
 
 ARTICULO 173
 
@@ -1274,11 +1272,11 @@ ARTICULO 188
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-(REFORMADO, D.O.F. 21 DE ENERO DE 1967) (F. DE E., D.O.F. 23 DE ENERO DE 1967)
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 189
 
-Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de cien pesos, si se tratare de un Juez de Paz; hasta de mil pesos, si el recusante fuere un Juez Menor; hasta de dos mil pesos si fuere un Juez de lo Civil; y hasta de tres mil si fuere un Magistrado. No se dará curso a ninguna recusación sino exhibe el recusado al interponerla el billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
+Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de cien pesos, si se tratare de un Juez de Paz; hasta de mil pesos, si el recusado fuere un Juez Menor; hasta de dos mil pesos, si fueren un Juez de lo Civil o un Juez de lo Familiar; y hasta de tres mil si fuere un Magistrado. No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
 
 ARTICULO 190
 
@@ -1292,9 +1290,11 @@ Si en la sentencia se declara que procede la recusación volverán los autos al 
 
 Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuese un magistrado continuará conociendo del negocio la misma sala como antes de la recusación.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ARTICULO 192
 
-Las recusaciones de los secretarios del Tribunal Superior, de los juzgados de primera instancia y de los jueces menores o de paz, se substanciarán ante los jueces o salas con quienes actúen.
+Las recusaciones de los Secretarios del Tribunal Superior, de los Juzgados de lo Civil y de lo Familiar y de los Jueces Menores o de Paz, se substanciarán ante los Jueces o Salas con quienes actúen.
 
 ## TITULO QUINTO. Actos prejudiciales
 
@@ -1396,11 +1396,11 @@ ARTICULO 206
 
 El marido que viviendo con su mujer intente demandarla o acusarla, puede pedir previamente la separación.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 207
 
-Sólo los Jueces de Primera Instancia pueden decretar la separación o el depósito de que hablan los artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar podrá decretar la separación o el depósito provisionalmente, remitiendo las diligencias al competente.
+Sólo los Jueces de lo Familiar pueden decretar la separación o el depósito de que hablan los artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación o el depósito provisionalmente, remitiendo las diligencias al competente.
 
 ARTICULO 208
 
@@ -4506,9 +4506,11 @@ ARTICULO 730
 
 Cuando la demanda se dirija contra un juez de paz, cualquiera que sea su cuantía, conocerá de ella el juez de primera instancia a que aquél corresponda. Contra la sentencia que éste pronuncie procederá la apelación en ambos efectos para (sic) ante el tribunal superior si el juicio por su cuantía fuere apelable.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ARTICULO 731
 
-Las salas del tribunal superior conocerán en primera y única instancia de las demandas de responsabilidad civil presentadas contra los jueces de primera instancia. Contra las sentencias que aquéllas dicten, no se dará recurso alguno.
+Las Salas del Tribunal Superior conocerán, en única instancia, de las demandas de responsabilidad civil presentadas contra los Jueces de lo Civil, de lo Familiar y Menores. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
 
 ARTICULO 732
 
@@ -5518,9 +5520,11 @@ ARTICULO 900
 
 Toda cuestión que surja en los negocios a que se refieren los capítulos siguientes y haya de resolverse en juicio contradictorio se substanciará en la forma determinada para los incidentes a no ser que la ley dispusiere otra cosa.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ARTICULO 901
 
-En los negocios de menores e incapacitados, intervendrán el juez pupilar y los demás funcionarios que determina el Código Civil.
+En los negocios de menores e incapacitados intervendrán el Juez de lo Familiar y los demás funcionarios que determine el Código Civil.
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
@@ -5576,9 +5580,11 @@ ARTICULO 908
 
 Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor o curador, el juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ARTICULO 909
 
-En los juzgados de primera instancia, bajo el cuidado y responsabilidad del juez pupilar y a disposición del consejo de tutelas, habrá un registro en que se pondrá testimonio simple de todos los discernimientos que se hicieren del cargo de tutor y curador.
+En los Juzgados de lo Familiar, bajo el cuidado y responsabilidad del Juez y a disposición del Consejo de Tutelas, habrá un registro en que se inscribirá testimonio simple de todos los discernimientos que se hicieren de los cargos de tutor y curador.
 
 ARTICULO 910
 
@@ -5676,11 +5682,11 @@ Si hubieren transcurrido menos de seis meses de la exposición o abandono, se de
 
 Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismo (sic) efectos.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ARTICULO 924
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 397 y 398 del Código Civil o vencido en su caso el término del depósito, el juez pupilar resolverá dentro del tercer día lo que proceda sobre la adopción.
+Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 397 y 398 del Código Civil, el Juez de lo Familiar resolverá dentro del tercer día lo que proceda sobre la adopción.
 
 ARTICULO 925
 
@@ -5816,15 +5822,15 @@ ARTICULO 1
 
 Se establecen en la ciudad de México juzgados de paz en cada delegación o demarcación de policía; en el resto del Distrito Federal y en los Territorios, en las circunscripciones determinadas por la ley orgánica.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ARTICULO 2
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1966)</small>
+Del Título Especial "De la Justicia de Paz".- (sic) Conocerán los Jueces de Paz de los juicios cuya cuantía no exceda de un mil pesos, salvo en lo que sea de la competencia del Juez de lo Familiar.
 
-Conocerán los Jueces de Paz de los juicios cuya cuantía no exceda de un mil pesos.
+Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
 
-Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aun cuando se reclame en ella.
-
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las pensiones en un año a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
 ARTICULO 3
 
@@ -6243,3 +6249,9 @@ D.O.F. 28 DE ENERO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE MARZO DE 1971.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor en la misma fecha que el de Reformas al Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal, aprobado por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
