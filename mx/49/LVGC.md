@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1995-06-07"
+last_updated: "1995-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -1932,41 +1932,13 @@ La Secretaría de Comunicaciones y Transportes resolverá administrativamente to
 
 ### CAPITULO IX. De los aeródromos civiles
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
 ###### ARTICULO 327.
 
-Aeródromo civil es toda área definida de tierra o de agua, adecuada para el despegue, aterrizaje y movimiento de aeronaves civiles.
-
-Los aeródromos civiles se dividen en aeródromos de servicio público y aeródromo de servicio privado. La Secretaría de Comunicaciones declarará cuáles son aeródromos de servicio público y cuáles de servicio privado, de acuerdo con el reglamento respectivo.
-
-Los aeródromos civiles están sujetos al control, inspección y vigilancia de la Secretaría de Comunicaciones.
-
-Aeropuerto es cualquier aeródromo civil de servicio público que cuente con obras e instalaciones adecuadas para la operación de aeronaves de servicio público. Según la índole de las obras e instalaciones los aeropuertos se clasificarán en categorías.
-
-Los aeropuertos están abiertos al público para sus propios fines y los servicios que en ellos se proporcionen se cobrarán de conformidad con las tarifas previamente autorizadas por la Secretaría de Comunicaciones.
-
-Para que un aeropuerto tenga carácter de aeropuerto internacional, deberá ser declarado como tal por el Ejecutivo Federal, ser habilitado para los servicios internacionales correspondientes y satisfacer los requisitos reglamentarios.
-
-La Secretaría de Comunicaciones, por conducto del comandante que al efecto designe, ejercerá la autoridad en los aeropuertos. Todas las autoridades que ejerzan funciones en los aeropuertos internacionales, se sujetarán al Reglamento Interior de Aeropuertos Internacionales que dicte el Ejecutivo.
-
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 328.
 
-Para construir, explotar, administrar y operar aeropuertos, se requiere concesión otorgada por la Secretaría de Comunicaciones por un plazo inicial máximo de treinta años, de conformidad con lo previsto en el capítulo III, del Libro Primero y en los artículos 331 y 334, fracción III, de esta Ley.
-
-Para construir y operar aeródromos de servicio privado, se requiere permiso de la Secretaría de Comunicaciones. Los propietarios de aeródromos de servicio privado están obligados a permitir su uso a toda aeronave que se encuentre en caso de emergencia.
-
-La construcción de toda clase de obras e instalaciones en los aródromos (sic) civiles, se someterá, en cada caso, a la aprobación y autorización de la Secretaría de Comunicaciones.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-Las construcciones e instalaciones en los terrenos adyacentes e inmediatos a los aeródromos, dentro de las zonas de protección y seguridad de éstos, estarán sujetas a las restricciones que señalen los reglamentos respectivos.
-
-> <small>(F. DE E., D.O.F. 11 DE MAYO DE 1950)</small>
-
-Los propietarios u operadores de aeródromos civiles estarán obligados a permitir su uso gratuito a las aeronaves de Estado, con excepción de las que pertenezcan a organismos públicos descentralizados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -2194,9 +2166,9 @@ I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extin
 
 a).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
-b).- Los aeródromos civiles.
+b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
-c).- Las instalaciones aeronáuticas, aerofaros, radioguías, estaciones radiogoniométricas, radiolocalizadores y demás ayudas a la navegación aérea.
+c).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
 d).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
@@ -3216,17 +3188,9 @@ III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspe
 
 Se impondrá multa de cincuenta a cinco mil pesos y prisión hasta por seis meses, al comandante o piloto de una aeronave, cuando realice vuelos después de que la aeronave haya sufrido reparaciones o modificaciones en su planeador, motores o hélices, sin haber pasado la inspección y obtenido la aprobación de la Secretaría de Comunicaciones, en los términos que establezca el reglamento.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
-
 ###### ARTICULO 567.
 
-Se impondrá multa de cincuenta a cinco mil pesos al propietario, poseedor u operador de cualquier aeródromo civil:
-
-I.- Por no prestar, en los que tengan el carácter de aeropuertos, los servicios en la forma prevista en las concesiones respectivas y en esta Ley.
-
-II.- Por no permitir el aterrizaje de aeronaves que se encuentren en condiciones de emergencia.
-
-III.- Por no permitir el uso gratuito a las aeronaves de Estado, conforme a lo que establece el artículo 328 reformado, último párrafo, de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 568.
 
@@ -3759,3 +3723,17 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 SEGUNDO. Se derogan:
 
 I. Las fracciones IX y X del artículo 1o.; la fracción IV del artículo 9o.; los párrafos segundo y tercero del artículo 11o.; 106; y los artículos 374 a 377; 390; 392 a 402 y 579; de la Ley de Vías Generales de Comunicación;
+
+D.O.F. 22 DE DICIEMBRE DE 1995.
+
+LEY DE AEROPUERTOS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías Generales de Comunicación; el artículo 8 de la Ley de Aviación Civil; así como las demás disposiciones que se opongan a la presente Ley.
+
+Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando hasta en tanto no sean derogadas por otras, salvo en lo que se opongan a la presente Ley.
+
+Cuando en otras disposiciones se haga referencia a la figura de comandante de aeropuerto, se entenderá como comandante de aeródromo en los términos de esta Ley.
