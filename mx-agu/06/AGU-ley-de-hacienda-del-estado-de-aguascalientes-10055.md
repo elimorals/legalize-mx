@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2000-12-28"
+last_updated: "2001-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -47,7 +47,7 @@ LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO SEGUNDO. De los Derechos
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ### CAPITULO II. Del Impuesto Sobre Diversiones y Espectáculos Públicos
 
@@ -209,7 +209,7 @@ Los notarios públicos o quienes hagan sus veces, los particulares tratándose d
 
 ###### ARTICULO 12.
 
-El objeto de este impuesto, es la percepción de ingresos derivados de la realización o explotación de diversiones y espectáculos públicos de cualquier tipo con cuota de admisión, cuando dichos ingresos no estén gravados por el Impuesto al Valor Agregado.
+El objeto de este impuesto, es la percepción de ingresos derivados de la realización o explotación de diversiones y espectáculos públicos de cualquier tipo con cuota de admisión, cuando no estén gravados por el Impuesto al Valor Agregado.
 
 Para efectos de este impuesto se entiende por:
 
@@ -217,15 +217,17 @@ a) Diversión pública: La realización de eventos abiertos al público, con pro
 
 b) Espectáculo público: La realización de eventos a los que se asiste con el propósito de esparcimiento y en los cuales el asistente es el espectador.
 
-Los eventos generadores de los ingresos gravados por este impuesto se mencionan de manera enunciativa más no limitativa:
+Los eventos generadores de los ingresos gravados por este impuesto se mencionan de manera enunciativa mas no limitativa:
 
-a) Diversiones Públicas:
+I. Diversiones Públicas:
 
 1. Bailes Públicos
 
 2. Patinaje en pistas
 
-b) Espectáculos
+3. Apuestas permitidas de todos tipos
+
+II. Espectáculos Públicos:
 
 1. Teatrales
 
@@ -237,7 +239,7 @@ b) Espectáculos
 
 5. Artísticos
 
-6. De rodeos
+6. De Rodeos
 
 7. Charreadas
 
@@ -247,9 +249,15 @@ b) Espectáculos
 
 10. Conciertos musicales
 
-c) Apuestas permitidas de todos tipos
+11. Eventos de cualquier tipo.
 
-d) Eventos de cualquier tipo.
+c) Contribuyentes habituales: Aquellas personas físicas o morales que directa o indirectamente realizan más de un evento en el ejercicio fiscal en el territorio del Estado.
+
+d) Contribuyentes eventuales: Aquellas personas físicas o morales que realicen o exploten esporádica o accidentalmente espectáculos o diversiones públicas en el territorio del Estado.
+
+e) Boleto: Pase, acto ó comprobante que permita el acceso a la diversión ó espectáculo públicos, con costo o de cortesía.
+
+f) Autoridad Fiscal Estatal: La Secretaría de Finanzas y Administración del Estado.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -303,9 +311,9 @@ Son sujetos del impuesto las personas físicas o morales que perciban ingresos p
 
 Son responsables solidarios del pago del impuesto:
 
-I.- Los propietarios o poseedores de establecimientos en los que habitual o eventualmente, por cualquier acto o contrato permitan la realización de diversiones y espectáculos públicos en dichos establecimientos, salvo que den aviso por escrito de la celebración del contrato o del acto correspondiente a la Secretaría de Finanzas del Estado previamente a la realización de los espectáculos y diversiones públicas.
+I.- Los propietarios o poseedores de establecimientos en los que habitual o eventualmente, por cualquier acto o contrato permitan la realización de diversiones y espectáculos públicos en dichos establecimientos, salvo que den aviso por escrito de la celebración del contrato o del acto correspondiente a la Autoridad Fiscal Estatal previamente a la realización de los espectáculos y diversiones públicas.
 
-II.- Los funcionarios que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones o espectáculos públicos, si no dan el aviso a que se refiere el Artículo 21 de esta Ley.
+II.- Los Servidores Públicos que tengan a su cargo el otorgamiento de permisos o licencias para la celebración de diversiones o espectáculos públicos, si no expiden el informe a que se refiere el Artículo 21 de esta Ley.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -313,15 +321,17 @@ II.- Los funcionarios que tengan a su cargo el otorgamiento de permisos o licenc
 
 La base para el pago de este impuesto es el monto total de los ingresos obtenidos con motivo de la venta de boletos para la asistencia a los espectáculos y diversiones públicas.
 
+Se considera ingreso gravable el valor de los boletos de cortesía, de los pases y de los actos que permitan el acceso.
+
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 16.
 
-Este impuesto se liquidará de conformidad con las lasas que al efecto señale la Ley de Ingresos del Estado.
+Este impuesto se determinará en cantidad liquida con sujeción a las tasas que al efecto señale la Ley de Ingresos del Estado.
 
-En caso de que en una misma función se presenten dos o más espectáculos o diversiones, el impuesto se causará con la tasa más alta para cualquiera de los espectáculos o diversiones realizadas.
+En caso de que en una misma función se presenten dos o más espectáculos o diversiones públicas, el impuesto se causará con la tasa más alta para cualquiera de ellos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO III. Del Impuesto Sobre Tenencia o Uso de Vehículos Automotores
 
@@ -329,89 +339,141 @@ En caso de que en una misma función se presenten dos o más espectáculos o div
 
 #### SECCION PRIMERA. Del objeto
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 17.
 
-El pago de este impuesto deberá realizarse en la Secretaría de Finanzas del Estado o en las instituciones bancarias autorizadas, dentro de los siguientes plazos:
+El pago de este impuesto deberá realizarse ante la Autoridad Fiscal Estatal, o en las instituciones bancarias autorizadas, dentro de los siguientes plazos:
 
-I.- Cuando la explotación de diversiones o espectáculos públicos se efectúe habitualmente: dentro de los primeros veinte días del mes siguiente al en que se hubiesen percibido los ingresos totales del mes objeto del gravamen, presentando al efecto una declaración de los ingresos obtenidos, en las formas aprobadas.
+I.- Cuando la explotación de diversiones o espectáculos públicos se efectúe habitualmente se pagará al concluir el evento a través del verificador que designe la Autoridad Fiscal Estatal, previa autodeterminación por el contribuyente del Impuesto a pagar.
 
-II.- Cuando se trate de contribuyentes eventuales, éste constituirá garantía del interés fiscal en la Secretaría de Finanzas del Estado, por el importe del Impuesto Estatal aplicado al cien por ciento de boletos sellados por la Autoridad Municipal competente. Al concluir los eventos generadores de los ingresos gravados se determinará ante la Secretaría de Finanzas del Estado el saldo a favor del contribuyente, exhibiendo los boletos no vendidos y de cortesía, hecho lo cual se efectuará la devolución que proceda, dándose ingreso al Impuesto causado y expidiéndose el recibo fiscal correspondiente.
+II.- Cuando la explotación de diversiones o espectáculos públicos se efectúe eventualmente se pagará al concluir el evento, por conducto del verificador, que al efecto designe la Autoridad Fiscal Estatal competente, previa autodeterminación por el contribuyente del impuesto a pagar. En caso de no pagarse oportunamente se hará efectiva la garantía previamente constituida en términos del Código Fiscal del Estado.
 
-Para efectos de este impuesto se entiende por:
-
-a) Contribuyentes habituales: Aquellas personas físicas o morales que hacen de la explotación de diversiones y espectáculos públicos su ocupación ordinaria.
-
-b) Contribuyentes eventuales: Aquellas personas físicas o morales que realicen o exploten esporádica o accidentalmente espectáculos o diversiones públicas.
+III.- Cuando a la conclusión del evento, ya fuera habitual o eventual, no hubiera concurrido verificador designado por la Autoridad Fiscal Estatal, tanto el contribuyente habitual como el contribuyente eventual, presentarán declaración con autodeterminación del Impuesto, dentro del plazo del siguiente día hábil, pudiendo pagar en la oficina receptora de la Autoridad Fiscal competente o en las instituciones bancarias autorizadas.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 18.
 
-Los contribuyentes habituales tendrán las siguientes obligaciones:
+Los contribuyentes habituales, tendrán las siguientes obligaciones:
 
-I.- Inscribirse en el Padrón Fiscal de la Secretaría de Finanzas del Estado, a más tardar tres días antes al que vayan a dar principio las actividades gravadas.
+I.- Inscribirse en el Padrón Fiscal de la Autoridad Fiscal Estatal, a más tardar tres días antes al que vayan a dar principio las actividades gravadas;
 
-II.- Presentar los avisos de cambio de domicilio o suspensión de actividades, ante la Secretaría de Finanzas del Estado, dentro de los 30 días siguientes a la fecha en que ocurran tales hechos o circunstancias.
+II.- Presentar los avisos de cambio de domicilio ó suspensión de actividades, ante la Autoridad Fiscal Estatal, dentro de los 3 días siguientes a la fecha en que ocurran tales hechos o circunstancias;
 
-III.- Dar aviso por escrito a la Secretaría de Finanzas del Estado de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos o diversiones públicas, a más tardar el día anterior a su realización.
+III.- Dar aviso por escrito a la Autoridad Fiscal Estatal de los permisos o autorizaciones que les otorguen las autoridades competentes para la realización de espectáculos o diversiones públicas, a más tardar el día anterior a su realización;
 
-IV.- Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener como mínimo preimpreso: el nombre o denominación social, espectáculo o diversión de que se trate, precio y fecha.
+IV.- Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener como mínimo preimpreso: folio, el nombre o denominación social, espectáculo o diversión de que se trate, precio y fecha;
 
-V.- A notificar por escrito a la Secretaría de Finanzas del Estado, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función del espectáculo o diversión, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos.
+V.- Conservar los talonarios de boletos, pases o cualquier otro comprobante de admisión:
 
-VI.- Presentar ante la Secretaría de Finanzas del Estado, para su resello, el boletaje incluyendo los boletos de cortesía que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos o diversiones públicas.
+VI.- A notificar por escrito a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función de la diversión o espectáculo públicos, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+VII.- Presentar ante la Autoridad Fiscal Estatal, para su resello, el boletaje incluyendo los boletos de cortesía o cualquier otro comprobante de admisión que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen las diversiones o espectáculos públicos.
+
+VIII.- No vender boletos en tanto no estén resellados por la autoridad fiscal estatal. La Autoridad Fiscal Estatal podrá dispensar esta obligación cuando conste el sello de la autoridad municipal correspondiente;
+
+IX.- Permitir la presencia de los verificadores que hayan sido designados por la Autoridad Fiscal Estatal, quienes darán cuenta de los ingresos obtenidos por la venta de boletos pudiendo recaudar y expedir el recibo oficial al final del evento, respecto de los impuestos autodeterminados por el contribuyente al suscribir la declaración correspondiente, la cual tendrá carácter de definitiva.
+
+X.- Presentar declaración autodeterminando el impuesto a pagar respecto de cada evento; y
+
+XI.- Exhibir ante la Autoridad Fiscal Estatal los libros, registros y documentos relacionados con el o los eventos, cuando ésta así se lo requiera.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
-Los contribuyentes eventuales deberán cumplir las siguientes obligaciones:
+Los contribuyentes eventuales, deberán cumplir las siguientes obligaciones:
 
-I.- Presentar un aviso por escrito ante la Secretaría de Finanzas del Estado, de las autorizaciones o permisos que le sean otorgados por las autoridades competentes para la realización de diversiones o espectáculos públicos que indique el inicio o el período durante el que se realizará la diversión o el espectáculo, a más tardar el día anterior al en que se inicie.
+I.- Constituir garantía del interés fiscal, en alguna de las formas previstas en el Código Fiscal del Estado ante la Autoridad Fiscal Estatal, previamente a la realización del evento, por un monto equivalente al cien por ciento de los boletos emitidos;
 
-II.- Dar el aviso correspondiente ante la misma autoridad que se señala en la fracción anterior, en los casos de suspensión temporal o definitiva de la diversión o espectáculo público, cuando menos con un día de anticipación.
+II.- Presentar declaración autodeterminando el impuesto a pagar respecto del evento;
 
-III.- Dar el aviso por escrito, en los casos de ampliación del período en que se realizarán los espectáculos o diversiones públicas, ante la Secretaría de Finanzas del Estado, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
+III.- Exhibir ante la Autoridad Fiscal Estatal los libros, registros y documentos relacionados con el o los eventos, cuando ésta así se lo requiera;
 
-IV.- Amparar la cuota de admisión con boleto o comprobante de entrada. Dicho comprobante debe contener como mínimo preimpreso: el nombre o denominación social, espectáculo o diversión de que se trate, precio y fecha.
+IV.- Presentar un aviso por escrito ante la Autoridad Fiscal Estatal, de las autorizaciones o permisos que le sean otorgados por las autoridades competentes para la realización de diversiones o espectáculos públicos que indique el inicio o el período durante el que se realizará la diversión o el espectáculo, a más tardar el día anterior al que éstos inicien;
 
-V.- A notificar por escrito a la Secretaría de Finanzas del Estado, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función del espectáculo o diversión, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos.
+V.- Dar el aviso correspondiente ante la misma autoridad que se señala en la fracción anterior, en los casos de suspensión temporal o definitiva de la diversión o espectáculo público, cuando menos con un día de anticipación a la realización de (sic) evento.
 
-VI.- Presentar ante la Secretaría de Finanzas del Estado para su resello, el boletaje incluyendo los boletos de cortesía que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen los espectáculos o diversiones.
+VI.- Dar el aviso por escrito, en los casos de ampliación del período en que se realizarán los espectáculos o diversiones públicas, ante la Autoridad Fiscal Estatal, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar.
 
-VII.- No vender boletos en tanto no estén reselIados por la autoridad fiscal estatal.
+VII.- Amparar la cuota de admisión con boleto o comprobante de entrada, debiendo contener como mínimo preimpreso: folio, el nombre o denominación social, espectáculo o diversión de que se trate, precio y fecha;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+VIII.- A notificar por escrito a la Autoridad Fiscal Estatal, de cualquier cambio en los precios fijados para los boletos de entrada o en los programas que correspondan a cada función de la diversión o espectáculo público, a más tardar el mismo día de la celebración de dichos eventos, pero antes de que se lleven a cabo los mismos;
+
+IX.- Presentar ante la Autoridad Fiscal Estatal para su resello, el boletaje incluyendo los boletos de cortesía que expidan y el programa que corresponda a cada función, cuando menos un día antes de que se verifiquen la diversión ó espectáculos públicos;
+
+X.- No vender boletos en tanto no estén reselIados por la Autoridad Fiscal Estatal, quien podrá dispensar esta obligación cuando conste el sello de la autoridad municipal correspondiente; y
+
+XI.- Permitir la presencia de los verificadores que hayan sido designados por la Autoridad Fiscal Estatal, quienes darán cuenta de los ingresos obtenidos, pudiendo recaudar y expedir el recibo oficial al final del evento, respecto de los impuestos autodeterminados por el contribuyente al suscribir la declaración respectiva, la cual tendrá carácter de definitiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 19 Bis.
+
+Son infractores quienes:
+
+I.- No se inscriban en el padrón fiscal de la Autoridad Fiscal Estatal o lo hagan fuera de los plazos legales;
+
+II.- No presenten, no proporcionen o presenten extemporáneamente, los documentos señalados en esta Ley, salvo cuando se presenten de manera espontánea;
+
+III.- Presenten los documentos, informes y datos señalados en esta Ley, incompletos o con errores o en forma distinta a lo señalado en esta Ley;
+
+IV.- Presenten los avisos, declaraciones y los demás documentos señalados en esta Ley, alterados o falsificados;
+
+V.- No expidan el boleto o comprobante de entrada con los requisitos señalados en esta Ley;
+
+VI.- No presenten para su resello el boletaje que expidan en el plazo señalado en esta Ley;
+
+VII.- No paguen el impuesto en términos de esta Ley, salvo que se realice de manera espontánea; y
+
+VIII.- Se resistan por cualquier medio a la verificación del cumplimiento de sus obligaciones fiscales; no suministren los datos, informes y documentos que legalmente puedan exigir los verificadores o impedirles el acceso al lugar en donde se lleve a cabo el evento.
+
+Se sancionarán las infracciones señaladas en las fracciones anteriores con las siguientes multas:
+
+I. De $1,000.00 a $3,000.00 a las comprendidas en las fracciones I y II;
+
+II. De $300.00 a $800.00 a la comprendida en la fracción III;
+
+III. De $2,000.00 a $7,000.00 a la comprendida en la fracción IV;
+
+IV. De $5,000.00 a $10,000.00 a las comprendidas en las fracciones V y VI;
+
+V. Del 25% al 50% del impuesto actualizado omitido, a la comprendida en la fracción VII; y
+
+VI. De $5,000.00 a $15,000.00 a la comprendida en la fracción VIII.
+
+En caso de reincidencia en alguna de las infracciones señaladas en este artículo, se podrá suspender la realización de cualquier evento de diversión o espectáculo público pudiendo solicitar el auxilio de la fuerza pública en caso de ser necesario.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 20.
 
-Cuando no se cumplan las obligaciones previstas, la autoridad fiscal estatal mediante mandamiento escrito podrá suspender cualquier diversión o espectáculo público, y podrá disponer del uso de la fuerza pública, en caso necesario.
+Cuando no se cumplan las obligaciones previstas en esta Ley, la Autoridad Fiscal Estatal, mediante mandamiento escrito podrá suspender el evento, y en su caso, solicitar el auxilio de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21.
 
-Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán dar aviso a la Secretaría de Finanzas del Estado de las autorizaciones que otorguen, a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
+Los funcionarios encargados de dar permiso o licencia para la celebración de cualquier diversión o espectáculo público deberán informar a la Autoridad Fiscal Estatal de las autorizaciones que otorguen a más tardar el día hábil anterior al de la realización de los eventos generadores del impuesto.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 22.
 
@@ -421,7 +483,7 @@ Este impuesto en ningún caso, debe ser repercutido al adquirente del boleto.
 
 #### SECCION SEXTA. De las Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 23.
 
@@ -429,7 +491,7 @@ Están exentos del pago de este impuesto:
 
 I.- La Federación, el Estado y los Municipios, a menos que su actividad no corresponda a sus funciones de derecho público;
 
-II.- Las instituciones y asociaciones de beneficencia pública o privada que acredite a satisfacción de la Secretaría de Finanzas que los fondos que se recauden serán destinados a actividades de beneficencia; y
+II.- Las instituciones y asociaciones de beneficencia pública o privada que acrediten a satisfacción de la Autoridad Fiscal Estatal que los fondos que se recauden serán destinados a actividades de beneficencia; y
 
 III.- Los Partidos Políticos Nacionales con registro, cuando los eventos que se realicen sean con el objeto de allegarse recursos para el cumplimiento de sus fines.
 
@@ -465,7 +527,7 @@ d) Camiones: vehículos destinados para el transporte de bienes o personas y bie
 
 e) Tractores: vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna de 4, 6, 8, ó más cilindros.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 26.
 
@@ -493,7 +555,7 @@ III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movi
 
 #### SECCION SEPTIMA. De las Exenciones
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 29.
 
@@ -515,9 +577,9 @@ Están obligadas al pago del impuesto establecido en esta Ley las personas físi
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION TERCERA. De la Base
+#### SECCION SEGUNDA. Del Objeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 31.
 
@@ -527,7 +589,7 @@ En ningún caso se considerará que dicho impuesto forma parte del ingreso neto 
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
+#### SECCION TERCERA. De la Base
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -549,9 +611,9 @@ Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales,
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEGUNDA. Del Objeto
+#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 34.
 
@@ -609,7 +671,7 @@ b).- Los datos proporcionados por los beneficiarios de los servicios; y
 
 c).- Los Informes proporcionados por las autoridades encargadas de normar la actividad realizada por el contribuyente.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
@@ -649,9 +711,9 @@ Es objeto de este impuesto la obtención de ingresos por premios derivados de lo
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION CUARTA. De la Base
+#### SECCION SEGUNDA. Del Sujeto
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 38.
 
@@ -659,7 +721,7 @@ Son sujetos de este impuesto las personas físicas, morales y unidades económic
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEXTA. De las Exenciones
+#### SECCION TERCERA. De la Responsabilidad Solidaria
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -669,7 +731,7 @@ Son solidarios responsables del pago de este impuesto, los organizadores del eve
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION UNICA
+#### SECCION CUARTA. De la Base
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
@@ -685,9 +747,9 @@ II.- Tratándose de numerario, el monto efectivamente cobrado por el sujeto de l
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION UNICA
+#### SECCION QUINTA. Del Pago
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 41.
 
@@ -713,9 +775,9 @@ Este impuesto se causa cuando los sujetos cobren premios dentro del territorio d
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEGUNDA. Del Sujeto
+#### SECCION SEXTA. De las Exenciones
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 45.
 
@@ -723,9 +785,9 @@ Las infracciones al presente Título se sancionarán de conformidad a lo previst
 
 > <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION QUINTA. Del Pago
+#### SECCION UNICA
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 46.
 
@@ -757,9 +819,9 @@ Es sujeto del impuesto el adquirente del vehículo.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION TERCERA. De la Responsabilidad Solidaria
+#### SECCION UNICA
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 49.
 
@@ -772,6 +834,8 @@ II.- Los Servidores Públicos que autoricen cualquier trámite relacionado con l
 III.- Los comisionistas o intermediarios que intervengan en las adquisiciones.
 
 El enajenante está obligado a presentar aviso, en los formatos autorizados por la Secretaría de Finanzas del Estado, dentro de los 15 días siguientes a la fecha de operación.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION OCTAVA. De la Causación
 
@@ -797,7 +861,7 @@ La adquisición de vehículos no comprendidos en dichas tarifas causarán el imp
 
 El pago de este impuesto se hará en las oficinas recaudadoras de la Secretaría de Finanzas del Estado, en sus delegaciones o instituciones de crédito autorizadas para tal efecto al siguiente día hábil a la adquisición consignado en la factura del vehículo.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 53.
 
@@ -809,7 +873,7 @@ II.- Los cambios de propietarios por causa de muerte, entre parientes en línea 
 
 III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, a menos que su actividad no corresponda a funciones de servicio público.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 54.
 
@@ -863,7 +927,7 @@ En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando 
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 64.
 
@@ -895,7 +959,7 @@ X.- Productos diversos.
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los contratos o concesiones respectivos, o en las escrituras constitutivas o decretos que den nacimiento a los establecimientos o empresas del Estado, y en defecto de ellos, en las disposiciones legales que les sean aplicables.
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 66.
 
@@ -967,11 +1031,9 @@ I.- Impuestos, derechos y demás ingresos causados en ejercicios fiscales anteri
 
 II.- Saldo del ejercicio fiscal anterior.
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
-
 ## TITULO TERCERO. De los Productos
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ## TITULO CUARTO. De los Aprovechamientos
 
@@ -1072,3 +1134,9 @@ La presente Ley de Hacienda se suspenderá en sus efectos en lo que contravengan
 P.O. 28 DE DICIEMBRE DE 2000.
 
 UNICO.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2001.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación.
