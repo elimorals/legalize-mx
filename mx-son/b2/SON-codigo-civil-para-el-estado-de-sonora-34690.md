@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1992-12-31"
+last_updated: "1994-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 19 DE SEPTIEMBRE DE 1994.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -17291,6 +17291,10 @@ Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede
 
 En el caso de que se esté en la hipótesis de la parte final del artículo 3299, se observará además la formalidad exigida por el primer párrafo de este artículo.
 
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 1994)</small>
+
+Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlo al deudor.
+
 ###### Art. 3306.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca continuará vigente hasta en tanto no prescriba la obligación principal o se extinga por alguna otra causa.
@@ -18436,3 +18440,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Se abroga la Ley de Catastro del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 52, Sección XV, de fecha 29 de diciembre de 1983 y sus reformas. Asimismo, se abroga el Acuerdo del Congreso del Estado, de fecha 12 de diciembre de 1904, que aprobó el Reglamento del Título XXIII, Libro 3o. del Código Civil, formado por el Ejecutivo, en uso de la facultad que le otorga la fracción II, artículo 73 de la Constitución Política del Estado, publicado en el Periódico Oficial "La Constitución", números 56, 57 y 58, de fechas 24, 27 y 29 de diciembre de 1904, así como sus reformas; la Ley número 100 que contiene el Reglamento del Registro Público de la Propiedad para el Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, alcance al número 11, de fecha 8 de agosto de 1973 y la Ley número 17 que suspende la aplicación del Reglamento del Registro Público de la Propiedad, derogando los artículos Primero y Séptimos Transitorios de la Ley número 100 de 25 de julio de 1973, publicada en el Boletín Oficial del Gobierno del Estado, número 40, de fecha 18 de mayo de 1974; se derogan los artículos del 3453 al 3500 del Código Civil para el Estado de Sonora, y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+B.O. 19 DE SEPTIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
