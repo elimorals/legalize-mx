@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-los-centros-federales-de-readaptacion-social-136"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "1992-05-07"
+last_updated: "1992-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-08-28"
 
 REGLAMENTO DE LOS CENTROS FEDERALES DE READAPTACION SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 30 de agosto de 1991.
 
@@ -47,13 +47,19 @@ REGLAMENTO DE LOS CENTROS FEDERALES DE READAPTACION SOCIAL.
 
 Las disposiciones contenidas en este Reglamento tienen por objeto regular la organización, administración y funcionamiento del sistema integrado por los Centros Federales de Readaptación Social, dependientes de la Federación y su aplicación corresponde a la Secretaría de Gobernación, a través de la Dirección General de Prevención y Readaptación Social.
 
+> <small>(REFORMADO, D. O. 31 DE AGOSTO DE 1992)</small>
+
 ###### ARTICULO 2o.
 
-La Dirección General de Prevención y Readaptación Social, tendrá a su cargo la atribución de organizar y administrar el sistema integrado por los establecimientos para la ejecución de sentencias y la aplicación de tratamientos de readaptación social que respondan a las condiciones socioeconómicas del país, a la seguridad de la colectividad y a las características de los internos.
+La Dirección General de Prevención y Readaptación Social, tendrá a su cargo la atribución de organizar y administrar el sistema integrado por los establecimientos para la ejecución de sentencias y prisión preventiva, así como para la aplicación de tratamientos de readaptación social que respondan a las condiciones socioeconómicas del país, a la seguridad de la colectividad y a las características de los internos.
 
 ###### ARTICULO 3o.
 
 El presente ordenamiento se aplicará en los Centros Federales de Readaptación Social, dependientes de la Federación destinados al internamiento de reos que se encuentren privados de su libertad por resolución judicial ejecutoriada, de autoridad federal competente y, en materia de fuero común, previo Convenio de la Federación, con los Gobiernos de los Estados y con el Departamento del Distrito Federal.
+
+> <small>(ADICIONADO, D. O. 31 DE AGOSTO DE 1992)</small>
+
+La reclusión de personas sujetas a prisión preventiva procederá en los términos del último párrafo del artículo 12 del presente Reglamento.
 
 Este Reglamento no es aplicable para la Colonia Penal Federal Islas Marías, que se rige por sus propias disposiciones reglamentarias.
 
@@ -89,6 +95,10 @@ El Secretario de Gobernación, a través de la Dirección General de Prevención
 
 Las disposiciones del presente Reglamento regirán para todos los internos que se encuentran cumpliendo las sanciones privativas de libertad a que se refiere el artículo 3o, para el personal adscrito y cualquier persona que ingrese a sus instalaciones por algún motivo, ya sea oficial o particular.
 
+> <small>(ADICIONADO, D. O. 31 DE AGOSTO DE 1992)</small>
+
+Por lo que hace a los reclusos sujetos a prisión preventiva, se estará a lo dispuesto en el presente Reglamento, en lo que resulte aplicable, así como a lo previsto en los manuales que se expidan al efecto.
+
 ###### ARTICULO 12.
 
 Solamente se aceptará el ingreso como interno de alguna persona a los Centros Federales de Readaptación Social, cuando se cumplan los siguientes requisitos:
@@ -101,11 +111,19 @@ III.- Que, de conformidad con el estudio de personalidad que le practique la Dir
 
 IV.- (DEROGADA, D.O.F. 7 DE MAYO 1992)
 
+> <small>(ADICIONADO, D. O. 31 DE AGOSTO DE 1992)</small>
+
+Cuando así convenga en función de la peligrosidad del recluso, conforme al dictamen que al efecto formule la Dirección General de Prevención y Readaptación Social, podrá aceptarse el ingreso de procesados o de quienes estén a disposición de autoridad judicial que conozca de algún medio de impugnación hecho valer.
+
 ###### ARTICULO 13.
 
 Se prohíbe el establecimiento de áreas o estancias de distinción y privilegio en los Centros Federales de Readaptación Social.
 
 No quedan comprendidas en la regulación anterior, las instalaciones para el tratamiento individual de conductas especiales, así como para la aplicación de correcciones disciplinarias, en cuyo caso los internos gozarán del derecho a la comunicación que requieran con sus defensores, atención médica, psiquiátrica y psicológica que determine el Consejo Técnico Interdisciplinario del Centro.
+
+> <small>(ADICIONADO, D. O. 31 DE AGOSTO DE 1992)</small>
+
+Tampoco queda comprendido en dicha prohibición, el establecimiento de áreas completamente separadas para la reclusión de los procesados, en los casos a que se refiere el último párrafo del artículo anterior.
 
 ###### ARTICULO 14.
 
@@ -824,5 +842,9 @@ Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Dist
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 7 DE MAYO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE AGOSTO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
