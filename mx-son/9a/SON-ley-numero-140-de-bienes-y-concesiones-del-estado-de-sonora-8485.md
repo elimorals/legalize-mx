@@ -1,0 +1,980 @@
+---
+title: "LEY NUMERO 140 DE BIENES Y CONCESIONES DEL ESTADO DE SONORA"
+identifier: "SON-ley-numero-140-de-bienes-y-concesiones-del-estado-de-sonora-8485"
+country: "mx"
+rank: "ley"
+publication_date: "1992-12-31"
+last_updated: "1992-12-31"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8485&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-son"
+scjn_id: "8485"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "53 SECCION XIV"
+reform_count: "8"
+scjn_last_update: "2024-04-26"
+issue_date: "1992-12-31"
+state: "SON"
+---
+# LEY NUMERO 140 DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
+
+LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
+
+EL C. LIC. MANLIO FABIO BELTRONES RIVERA, Gobernador Constitucional del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
+
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente L E Y :
+
+N U M E R O 1 4 0
+
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
+
+LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA.
+
+## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+### CAPITULO UNICO. DE LAS DISPOSICIONES PRELIMINARES
+
+###### ARTICULO 1o.
+
+La presente Ley es de orden público e interés social y tiene por objeto:
+
+I.- Establecer el régimen jurídico de los bienes del dominio del Estado de Sonora;
+
+II.- Regular los actos de administración, uso, aprovechamiento, explotación, enajenación, control, inspección y vigilancia de los bienes a que se refiere la fracción anterior;
+
+III.- Normar las adquisiciones de bienes inmuebles que lleven a cabo las dependencias y entidades de la administración pública estatal, para el ejercicio de sus atribuciones; y
+
+IV.- Regular los actos y contratos que tengan por objeto las vías de comunicación terrestre de jurisdicción estatal, sus servicios auxiliares y accesorios.
+
+Las acciones relativas a la planeación, programación, presupuestación y control que, en materia de adquisiciones y arrendamientos de bienes muebles, realicen las dependencias y entidades de la Administración Pública Estatal, así como los actos y contratos que celebren las mismas, relacionados con estas materias, se regularán por la Ley respectiva.
+
+###### ARTICULO 2o.
+
+El patrimonio del Estado de Sonora, se compone:
+
+I.- De bienes de dominio público del Estado; y
+
+II.- De bienes de dominio privado del Estado.
+
+###### ARTICULO 3o.
+
+Para los efectos de esta Ley, se entiende por:
+
+I.- Dependencia, las mencionadas en el artículo 22 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
+
+II.- Entidades, las mencionadas en los artículos 35, 39, 40 y 42 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora;
+
+III.- Comisión Estatal, la Comisión Estatal de Bienes y Concesiones, órgano desconcentrado de la Secretaría de Finanzas; y
+
+IV.- Contraloría, la Secretaría de la Contraloría General del Estado.
+
+###### ARTICULO 4o.
+
+La administración, enajenación, información, control y verificación de los bienes a que se refieren los artículos anteriores, así como las adquisiciones de bienes, se sujetarán:
+
+I.- A los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y de los programas sectoriales, institucionales, regionales y especiales que del mismo se deriven;
+
+II.- A las previsiones contenidas en los programas operativos anuales que elaboren las dependencias y entidades para la ejecución del Plan y los programas a que se refiere la fracción anterior;
+
+III.- A las estrategias previstas por los Ayuntamientos de los Municipios del Estado en sus Planes y programas de desarrollo, a fin de coadyuvar a la consecución de los objetivos de éstos; y
+
+IV.- A las demás disposiciones legales y reglamentarias que rijan las operaciones y actos que prevé esta Ley.
+
+###### ARTICULO 5o.
+
+Sin perjuicio de lo establecido en el presente ordenamiento, los recursos económicos públicos que se destinen a la realización de las actividades y actos a que se refiere la fracción II del artículo 1o. de esta Ley, se sujetarán a lo previsto en los Presupuestos de Egresos del Estado o a los Presupuestos de Egresos de las entidades, en su caso, así como a las disposiciones de la Ley de la materia.
+
+###### ARTICULO 6o.
+
+Corresponde al Ejecutivo del Estado:
+
+I.- Poseer, vigilar, conservar y administrar los bienes inmuebles del dominio del Estado;
+
+II.- Otorgar y revocar las concesiones para el uso, aprovechamiento o explotación de los bienes inmuebles del dominio público; así como determinar la nulidad y la caducidad de las mismas;
+
+III.- Autorizar la adquisición, controlar, enajenar, permutar, inspeccionar y vigilar los bienes del dominio del Estado y, en su caso, celebrar los contratos relativos;
+
+IV.- Emitir las normas y establecer las directrices aplicables, para que conforme a los programas a que se refiere esta Ley, la Comisión Estatal intervenga en representación del Gobierno del Estado, en las operaciones de compra-venta, donación, gravamen, afectación u otros por los que el Estado adquiera, grave o enajene la propiedad o cualquier derecho real sobre inmuebles;
+
+V.- Prestar asesoría a las dependencias y entidades que lo soliciten, en la materia inmobiliaria propia de su competencia;
+
+VI.- Determinar la participación del Estado en empresas de participación estatal, asociaciones o sociedades civiles asimiladas a éstas o fideicomisos, cuando dentro del objeto social o fin de dichas entidades, se encuentre la realización de operaciones inmobiliarias. En el ejercicio de esta facultad, se le dará la participación que corresponda a la dependencia coordinadora del sector, en el que se encuentre agrupada la entidad de que se trate;
+
+VII.- Fijar la política del Gobierno del Estado en materia de arrendamiento. Los contratos de arrendamiento que celebren las dependencias deberán basarse en la justipreciación de rentas que realice la Comisión Estatal;
+
+VIII.- Autorizar y revisar las operaciones inmobiliarias que realicen los organismos descentralizados respecto de bienes de dominio público. Cuando se trate de enajenaciones, dichos bienes serán previamente desincorporados del dominio público;
+
+IX.- Mantener al corriente el inventario y el avalúo de los bienes del dominio del Estado y determinar las normas y procedimientos para realizarlos;
+
+X.- Solicitar de la Procuraduría General de Justicia del Estado, el ejercicio de la acción reivindicatoria de los bienes del dominio del Estado;
+
+XI.- Ejercer la facultad o derecho de reversión, respecto de la propiedad inmobiliaria estatal; y
+
+XII.- Celebrar acuerdos o convenios de concertación con las dependencias y entidades de la administración pública y con las personas físicas o morales de los sectores privado y social, para conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo.
+
+A excepción de lo dispuesto en la fracción VI de este artículo, el Gobernador del Estado ejercerá las facultades a que se refiere este precepto, a través de la Comisión Estatal.
+
+###### ARTICULO 7o.
+
+Sólo los Tribunales del Estado serán competentes para conocer de los juicios civiles, penales o administrativos, así como de los procedimientos judiciales no contenciosos que se relacionen con bienes estatales, sean de dominio público o de dominio privado.
+
+## TITULO SEGUNDO. DE LA COMISION ESTATAL DE BIENES Y CONCESIONES
+
+### CAPITULO UNICO. DE LA COMISION ESTATAL DE BIENES Y CONCESIONES
+
+###### ARTICULO 8o.
+
+Se crea la Comisión Estatal de Bienes y Concesiones, como un órgano desconcentrado, con personalidad jurídica y autonomía técnica y operativa y jerárquicamente subordinado a la Secretaría de Finanzas.
+
+###### ARTICULO 9o.
+
+La Comisión Estatal, tendrá las atribuciones que le señala la presente Ley, y en el reglamento correspondiente se establecerán las bases para su organización y funcionamiento.
+
+###### ARTICULO 10.
+
+La Comisión Estatal contará con un Consejo Técnico Consultivo que será presidido por el Secretario de Finanzas, y se integrará por los titulares de las Secretarias de Planeación del Desarrollo y Gasto Público, Infraestructura Urbana y Ecología, Desarrollo Económico y Productividad y la Contraloría General del Estado, como miembros permanentes.
+
+###### ARTICULO 11.
+
+El Consejo Técnico Consultivo de la Comisión Estatal tendrá las siguientes atribuciones:
+
+I.- Emitir opiniones relacionadas con la problemática de los bienes y de las concesiones, en materia de esta Ley;
+
+II.- Proponer los procedimientos de coordinación e información de las dependencias y entidades, así como de los gobiernos federal y municipal que intervienen en materia de concesiones;
+
+III.- Sugerir los procedimientos de coordinación y consulta entre los sectores público, social y privado, en materia de concesiones;
+
+IV.- Establecer las subcomisiones y los grupos de trabajo que estime pertinentes;
+
+V.- Sugerir las medidas que permitan la consecución oportuna de los objetivos y metas en materia de concesiones federales que obtenga el Gobierno del Estado; y
+
+VI.- Las demás que le otorguen este ordenamiento y otras disposiciones aplicables sobre la materia.
+
+## TITULO TERCERO. DE LOS BIENES DE DOMINIO PUBLICO
+
+### CAPITULO I. DEL REGIMEN JURIDICO DE LOS BIENES DE DOMINIO PUBLICO
+
+###### ARTICULO 12.
+
+Son bienes de dominio público:
+
+I.- Los de uso común;
+
+II.- Los inmuebles destinados por el Estado a un servicio público, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la Ley;
+
+III.- Cualesquiera otros inmuebles declarados por ley inalienables e imprescriptibles;
+
+IV.- Las servidumbres, cuando el predio dominante sea alguno de los anteriores;
+
+V.- Los muebles propiedad del Estado, que por su naturaleza normalmente no sean sustituibles, como los documentos y expedientes de las oficinas, los archivos, las piezas artísticas e históricas de los museos, las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del dominio del Estado; y
+
+VI.- Los vasos de los lagos y lagunas y los cauces y las riberas de las corrientes, cuando sus aguas sean de propiedad estatal.
+
+###### ARTICULO 13.
+
+Los bienes de dominio público del Estado son inalienables e imprescriptibles y no están sujetos a acción reivindicatoria o de posesión. Los derechos sobre su uso, aprovechamiento y explotación se adquirirán conforme a lo dispuesto por este ordenamiento, mediante el otorgamiento de las concesiones respectivas.
+
+Los aprovechamientos accidentales o accesorios que sean compatibles con la naturaleza de estos bienes, tales como la venta de frutos, materiales o desperdicios, se regirán por el derecho privado.
+
+Los bienes de dominio público del Estado no podrán gravarse con servidumbres. Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes sobre dichos bienes se regirán exclusivamente por las leyes y reglamentos administrativos.
+
+###### ARTICULO 14.
+
+Corresponde al Titular del Poder Ejecutivo del Estado:
+
+I.- Decretar, cuando ello sea preciso, en los términos de esta Ley, que un bien determinado forma parte del dominio público del Estado;
+
+II.- Decretar, cuando así proceda, la incorporación al dominio público de un bien que forma parte del dominio privado, siempre que su posesión corresponda al Estado;
+
+III.- Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante decreto, un bien que haya dejado de ser útil para fines de servicio público;
+
+IV.- Expedir las normas que regulen el uso, la conservación y el aprovechamiento de los bienes de dominio público; y
+
+V.- En general, dictar las disposiciones administrativas que requiera el cumplimiento de esta Ley y su reglamento.
+
+###### ARTICULO 15.
+
+Los bienes de dominio público del Estado estarán sometidos, exclusivamente, a la jurisdicción de los Poderes Locales en los términos de esta Ley.
+
+###### ARTICULO 16.
+
+Los bienes de dominio público del Estado podrán ser enajenados o gravados, previo decreto de desincorporación del Ejecutivo, cuando dejen de ser útiles para fines de servicio público.
+
+###### ARTICULO 17.
+
+Los bienes de dominio público de la federación, estarán sujetos a la jurisdicción de los Poderes Federales, en los términos de la Ley General de Bienes Nacionales.
+
+La Comisión Estatal elaborará y mantendrá permanentemente actualizado, un inventario de los bienes de dominio público de la federación, con base en la información que se derive de los decretos mediante los cuales el gobierno federal afecte un bien a la realización de fines o servicios públicos.
+
+###### ARTICULO 18.
+
+Los bienes de dominio público del Estado, estarán exentos de las contribuciones señaladas en la fracción IV, inciso a), del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPITULO II. DE LOS BIENES DE USO COMUN
+
+###### ARTICULO 19.
+
+Son bienes de uso común:
+
+I.- Los caminos, carreteras y puentes de jurisdicción estatal, con sus servicios auxiliares y derechos de vía, conforme a las leyes de la materia;
+
+II.- Los enumerados en la fracción VI del artículo 12 de la presente Ley;
+
+III.- Las plazas, paseos y parques públicos cuya construcción y conservación esté a cargo del Gobierno del Estado, o hayan sido construidas en inmuebles del dominio del Estado;
+
+IV.- Las presas, diques y sus vasos, canales, bordes y zanjas construidos para la irrigación y otros usos de utilidad pública con sus zonas de protección o riberas en la extensión que, en cada caso, conforme a la Ley se determine;
+
+V.- Los monumentos artísticos e históricos y las construcciones levantadas por el Gobierno del Estado en lugares públicos de su propiedad, para ornato o comodidad de quienes los visiten, excepto que dichas construcciones se hayan donado a los Municipios; y
+
+VI.- Los demás bienes considerados de uso común por otras leyes.
+
+###### ARTICULO 20.
+
+Todos los habitantes del Estado pueden usar los bienes de uso común, sin más restricciones que las que establezcan los ordenamientos jurídicos correspondientes.
+
+###### ARTICULO 21.
+
+Cuando, de acuerdo con lo dispuesto por el Artículo 16 de esta Ley, se vayan a enajenar terrenos que, habiendo constituido vías públicas, hayan sido retirados de dicho servicio, o los bordos, zanjas, setos, vallados u otros elementos que les hayan servido de límite, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, para cuyos efectos se les notificará legalmente la enajenación.
+
+El derecho que este artículo concede, deberá ejercitarse dentro de los treinta día naturales siguientes a la notificación respectiva.
+
+###### ARTICULO 22.
+
+Corresponde el derecho del tanto al último propietario de un bien adquirido por procedimientos de derecho público, cuando éste vaya a ser enajenado, excepto cuando se esté en los casos previstos por los artículos 13 párrafo segundo, y 25 de esta Ley. El aviso se dará por correo certificado con acuse de recibo, y cuando se ignore el domicilio, mediante una sola publicación en el Boletín Oficial del Gobierno del Estado.
+
+### CAPITULO III. DE LOS BIENES DESTINADOS A UN SERVICIO PUBLICO
+
+###### ARTICULO 23.
+
+Son bienes destinados a un servicio público:
+
+I.- Los inmuebles utilizados por los Poderes Legislativo, Ejecutivo y Judicial del Estado, así como los destinados al servicio de éstos;
+
+II.- Los inmuebles de propiedad estatal destinados al servicio de los gobiernos federal y municipales;
+
+III.- Los predios rústicos directamente utilizados en los servicios del Estado;
+
+IV.- Los inmuebles que formen parte del patrimonio de los organismos descentralizados siempre que se destinen a infraestructura, o que se utilicen en la explotación de bienes o en la prestación de servicios; y
+
+V.- Cualesquiera otros inmuebles adquiridos por procedimientos de derecho público, diversos a los señalados en las fracciones III y IV del artículo 39 de esta Ley.
+
+###### ARTICULO 24.
+
+Se equiparan a los anteriores, los afectos mediante decreto a actividades de interés social a cargo de asociaciones o instituciones privadas que no persigan propósitos de lucro.
+
+###### ARTICULO 25.
+
+Los bienes a que se refiere la fracción IV del artículo 23 de esta Ley, sólo podrán gravarse una vez que se hubiesen desincorporado y, si a juicio del titular del Poder Ejecutivo, es conveniente para el mejor financiamiento de las obras o servicios de la entidad propietaria.
+
+###### ARTICULO 26.
+
+El destino de inmuebles al servicio de las dependencias o entidades de la administración pública estatal o al de los gobiernos federal o municipales, se hará mediante Decreto del titular del Poder Ejecutivo del Estado.
+
+Los inmuebles destinados, serán para uso exclusivo de la dependencia o entidad o de los gobiernos federal y municipales que los ocupen o los tengan a su servicio.
+
+El destino de los inmuebles a que se refiere este artículo, no transmite la propiedad de los mismos, ni otorga derecho real alguno sobre ellos.
+
+Para cambiar el uso o aprovechamiento de los inmuebles destinados en los términos de esta Ley, los destinatarios deberán solicitarlo al titular del Poder Ejecutivo, el que podrá autorizarlo considerando las razones que para ello se le expongan.
+
+###### ARTICULO 27.
+
+Las dependencias y las entidades de la administración pública estatal y los gobiernos federal y municipales, deberán iniciar la utilización de los inmuebles que se les destinen, dentro del plazo que fije el titular del Poder Ejecutivo en el Decreto respectivo, mismo que se computará a partir de la fecha en que oficialmente quede a su disposición el bien.
+
+Si no se diere cumplimiento a lo dispuesto en el párrafo anterior, o se dejare de utilizar o de necesitar el inmueble, o se le diere un uso distinto al aprobado conforme a esta Ley, los destinatarios deberán entregarlo con todas sus mejoras y accesiones al titular del Poder Ejecutivo, por conducto de la Comisión Estatal, sin que tengan derecho a compensación alguna. En caso de que los destinatarios incurran en omisión, dicha Comisión podrá proceder a requerir la entrega del bien y, en su defecto, a tomar posesión de él en forma administrativa, para destinarlo a los usos que de acuerdo a la política inmobiliaria del Gobierno del Estado resulten más convenientes.
+
+Los destinatarios deberán utilizar los inmuebles de una manera óptima, atendiendo para ello a los lineamientos que para ese efecto expida la Comisión Estatal.
+
+En caso de que los propios destinatarios no requieran usar la totalidad del inmueble, lo deberán hacer del conocimiento de la Comisión Estatal y poner a su disposición las áreas libres.
+
+###### ARTICULO 28.
+
+Las entidades paraestatales y los gobiernos federal y municipales que tengan a su disposición inmuebles estatales, cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de sus funciones o la realización de programas autorizados, deberán hacerlo del conocimiento de la Comisión Estatal.
+
+No pierden su carácter de bienes de dominio público los que, estando destinados a un servicio público de hecho o por derecho, fueran aprovechados temporalmente, en todo o en parte, en otro objeto que no pueda considerarse como servicio público, hasta en tanto la autoridad competente resuelva lo procedente.
+
+###### ARTICULO 29.
+
+Respecto de los bienes inmuebles destinados a un servicio público, no se podrá realizar ningún acto de disposición, ni conferir derechos de uso, sin la previa autorización de la Comisión Estatal. La inobservancia de lo antes señalado producirá la nulidad absoluta del acto relativo.
+
+###### ARTICULO 30.
+
+La conservación de los edificios públicos en que estuvieron alojadas diversas dependencias o entidades de la administración pública estatal, se realizará de conformidad con el programa que para cada caso formule la Secretaría de Infraestructura Urbana y Ecología, con la participación de las dependencias y entidades ocupantes.
+
+Si estuvieren alojadas en un inmueble estatal diversas dependencias o entidades de los gobiernos federal o municipales, para la realización de las actividades a que se refiere el párrafo anterior, se deberán celebrar los convenios que sean necesarios para tal efecto.
+
+Tratándose de inmuebles utilizados por diversas dependencias o entidades de la administración pública estatal, la distribución de los espacios asignados a cada una de éstas, así como la redistribución de los mismos, serán autorizados de acuerdo con los estudios y evaluaciones que se hagan del uso o aprovechamiento de los espacios relativos.
+
+###### ARTICULO 31.
+
+No se permitirá a funcionarios o empleados ni a particulares, excepto a quienes sean beneficiarios de instituciones que presten un servicio social, que habiten u ocupen los inmuebles destinados a servicios públicos. Esta disposición no regirá cuando se trate de las personas que por razón de las funciones del inmueble deban habitarlo u ocuparlo, o de empleados y trabajadores que, con motivo del desempeño de su cargo, sea necesario que habiten en los inmuebles respectivos.
+
+Estará a cargo de los depositarios que tengan destinados a su servicio los inmuebles del dominio del Estado, la observancia y aplicación de este precepto.
+
+### CAPITULO IV. DE LAS CONCESIONES DE LOS BIENES DE DOMINIO PUBLICO
+
+###### ARTICULO 32.
+
+Las concesiones sobre bienes de dominio público, no crean derechos reales; otorgan simplemente frente a la administración pública y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo a lo establecido en esta Ley y en las disposiciones que de ella se derivan.
+
+Las concesiones sobre inmuebles de dominio público podrán otorgarse hasta por un plazo de treinta años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, atendiendo, tanto para el otorgamiento de la concesión, como para la prórroga, lo siguiente:
+
+I.- El monto de la inversión que el concesionario pretende aplicar;
+
+II.- El plazo de amortización de la inversión realizada;
+
+III.- El beneficio social y económico que signifique para la región o localidad en que se encuentre ubicado el bien;
+
+IV.- La necesidad de la actividad o del servicio que se preste;
+
+V.- El cumplimiento por parte del concesionario de las obligaciones a su cargo; y
+
+VI.- La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+El titular de una concesión gozará de un plazo de cinco años, previo al vencimiento de la concesión, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionario revertirán en favor del Estado.
+
+###### ARTICULO 33.
+
+Las concesiones sobre inmuebles de dominio público se extinguen por cualesquiera de las causas siguientes:
+
+I.- Vencimiento del término por el que se hayan otorgado;
+
+II.- Renuncia del concesionario;
+
+III.- Desaparición de su finalidad o del bien objeto de la concesión;
+
+IV.- Revocación;
+
+V.- Declaratoria de rescate; y
+
+VI.- Cualquiera otra prevista en las leyes, en las disposiciones administrativas correspondientes o en la concesión misma, que haga imposible o inconveniente su continuación.
+
+###### ARTICULO 34.
+
+Las concesiones sobre inmuebles de dominio público, podrán ser revocadas por cualquiera de las causas siguientes:
+
+I.- Dejar de cumplir con el fin para el que fue otorgada la concesión, dar al bien objeto de la misma un uso distinto al autorizado, o no usar el bien de acuerdo con lo dispuesto en esta Ley, los reglamentos y el propio título de concesión;
+
+II.- Dejar de cumplir con las condiciones a que se sujete el otorgamiento de la concesión o infringir lo dispuesto en esta Ley y su reglamento;
+
+III.- Dejar de pagar en forma oportuna los derechos que se hayan fijado en la concesión;
+
+IV.- Realizar obras no autorizadas;
+
+V.- Dañar ecosistemas como consecuencia del uso, aprovechamiento o explotación; y
+
+VI.- Las demás previstas en esta Ley, en las disposiciones administrativas que se dicten con base en ella y en las propias concesiones.
+
+###### ARTICULO 35.
+
+La nulidad, la revocación y la caducidad de las concesiones sobre los bienes de dominio público, cuando procedan conforme a la Ley, se dictarán por la autoridad administrativa, a que por Ley corresponda el ramo, sin perjuicio de lo dispuesto en el artículo 36, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
+
+Cuando la nulidad se funde en error y no en la violación de la Ley o en la falta de supuestos para el otorgamiento de la concesión, ésta podrá ser confirmada por la autoridad administrativa, tan pronto como cese tal circunstancia.
+
+En los casos de nulidad de las concesiones sobre bienes de dominio público, la autoridad queda facultada para limitar los efectos de la resolución, cuando a su juicio, el concesionario haya procedido de buena fe.
+
+En el caso de que la autoridad declare la nulidad, la revocación o la caducidad de una concesión por causa imputable al concesionario, los bienes materia de la concesión, sus mejoras y accesiones, revertirán de pleno derecho al control y administración del Gobierno del Estado, sin pago de indemnización alguna al concesionario.
+
+###### ARTICULO 36.
+
+La Comisión Estatal, cuando a su juicio existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones o de seguir los procedimientos a que se refiere el artículo anterior, y solicitará al Procurador de Justicia del Estado que someta el asunto al conocimiento de las autoridades judiciales competentes. Dentro del procedimiento podrá solicitarse la ocupación administrativa de los bienes.
+
+###### ARTICULO 37.
+
+Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse, con la autorización previa y expresa de la autoridad que las hubiere otorgado exigiendo al cesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
+
+Las concesiones sobre inmuebles de dominio público no podrán ser objeto, en todo o en parte, de subconcesión, arrendamiento, gravamen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones.
+
+Cualquier operación que se realice en contravención del tenor de este artículo, estará afectada de nulidad absoluta y el concesionario perderá en favor del Estado, los derechos que deriven de la concesión y los bienes afectos a ella.
+
+###### ARTICULO 38.
+
+Las concesiones sobre bienes de dominio público, podrán rescatarse por causas de utilidad o interés público, mediante indemnización, cuyo monto será fijado por peritos. La declaratoria de rescate hará que los bienes materia de la concesión vuelvan, de pleno derecho, desde la fecha de la declaratoria, a la posesión, control y administración del Gobierno del Estado, y que ingresen al patrimonio del mismo, los bienes, equipo e instalaciones destinados directa o indirectamente a los fines de la concesión. Podrá autorizarse al concesionario a retirar y a disponer de los bienes, equipos e instalaciones de su propiedad afectos a la concesión, cuando los mismos no fueren útiles al Gobierno del Estado y puedan ser aprovechados por el concesionario; pero, en este caso, su valor real actual no se incluirá en el monto de la indemnización.
+
+En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario; pero en ningún caso podrán tomarse como base para fijarlo el valor intrínseco de los bienes concesionados.
+
+Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme con la resolución que fija el monto de la misma, podrá recurrirla ante la autoridad judicial competente, siguiendo, en lo conducente, el procedimiento establecido en el artículo 14 de la Ley de Expropiación por Causa de Utilidad Pública del Estado de Sonora.
+
+## TITULO CUARTO. DE LOS BIENES DE DOMINIO PRIVADO
+
+### CAPITULO I. DEL REGIMEN JURIDICO DE LOS BIENES DE DOMINIO PRIVADO
+
+###### ARTICULO 39.
+
+Son bienes de dominio privado del Estado:
+
+I.- Los bienes vacantes adjudicados por la autoridad judicial;
+
+II.- Los que hayan constituido el patrimonio de entidades que se extingan; tratándose de empresas de participación estatal, en la proporción que corresponda al Gobierno del Estado;
+
+III.- Los bienes inmuebles que adquiera el Estado y tengan por objeto la creación de reservas territoriales para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como para la vivienda, su equipamiento e infraestructura;
+
+IV.- Aquéllos que siendo de propiedad estatal, por su naturaleza sean susceptibles de ser destinados a acciones habitacionales de interés social; y
+
+V.- Los demás bienes muebles e inmuebles que por cualquier título jurídico adquiera el Estado y que no están comprendidos en el artículo 19 de esta Ley.
+
+###### ARTICULO 40.
+
+Los bienes a que se refiere el artículo que antecede, pasarán a formar parte del dominio público, cuando sean destinados para uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos, o de hecho se utilicen en dichos fines.
+
+###### ARTICULO 41.
+
+Los bienes de dominio privado estarán sometidos en todo lo no previsto en este ordenamiento, a lo que dispongan las leyes y programas de desarrollo urbano, o en su defecto, al Código Civil para el Estado de Sonora.
+
+###### ARTICULO 42.
+
+Los inmuebles de dominio privado del Estado, se destinarán prioritariamente al servicio de los Poderes Legislativo, Ejecutivo y Judicial y al de los Municipios del Estado.
+
+###### ARTICULO 43.
+
+Los inmuebles de dominio privado que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán, de acuerdo con los criterios que establezca el Gobernador del Estado, a través de la Comisión Estatal, ser objeto de los siguientes actos de administración y disposición:
+
+I.- Enajenación a título oneroso o gratuito, según el caso, en favor de las dependencias y entidades que tengan a su cargo resolver problemas de suelo y vivienda para atender necesidades colectivas;
+
+II.- Permuta con los gobiernos federal y municipales;
+
+III.- Enajenación a título oneroso, para la adquisición de otros inmuebles que se requieran para la atención de los servicios a cargo del Gobierno del Estado;
+
+IV.- Donación a favor de los gobiernos federal y municipales, para que utilicen los inmuebles en la prestación de servicios públicos de su competencia, de interés para el Gobierno del Estado;
+
+V.- Arrendamiento, donación o comodato en favor de los gobiernos federal y municipales que utilicen los inmuebles en la prestación de los servicios públicos de su competencia y de las asociaciones, sociedades o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
+
+VI.- Enajenación a título oneroso, en favor de personas físicas o morales que requieran disponer de dichos inmuebles para la creación, fomento y conservación de una empresa que beneficie a la colectividad; y
+
+VII.- Enajenación o donación, en los demás casos en que se justifique, en los términos de esta Ley.
+
+###### ARTICULO 44.
+
+Los inmuebles de dominio privado son inembargables e imprescriptibles.
+
+###### ARTICULO 45.
+
+La enajenación de inmuebles del dominio privado del Gobierno del Estado, de los organismos descentralizados, de las empresas de participación estatal mayoritaria o de los fideicomisos públicos, con el fin de solucionar problemas de índole habitacional o urbano, se deberá realizar conforme a los programas de urbanización, notificación y fraccionamiento, los cuales deberán ser autorizados previamente por parte de la Secretaría de Infraestructura Urbana y Ecología.
+
+Las enajenaciones de inmuebles, que realicen las entidades de la administración pública estatal, que tengan por objeto o fin principal el fraccionamiento y comercialización de inmuebles, se sujetarán a lo dispuesto en sus leyes o decretos de creación, así como a las reglas que al efecto expida la Secretaría de Infraestructura Urbana y Ecología, mismas que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO 46.
+
+La autorización de los programas a que se refiere el primer párrafo del artículo anterior, se otorgará bajo las siguientes condiciones:
+
+I.- Que sean compatibles con las políticas sectoriales e institucionales correspondientes;
+
+II.- Que se observen los programas y disposiciones legales que regulen el uso del suelo;
+
+III.- Que se verifique la existencia del programa de financiamiento o de la partida presupuestal respectiva; y
+
+IV.- Que se evalúe la disponibilidad de la infraestructura, de equipamiento y de servicios públicos en los predios de que se trate.
+
+###### ARTICULO 47.
+
+Para las enajenaciones de inmuebles de dominio privado, a que se refiere la fracción I del artículo 43 de esta Ley, deberá observarse en todo caso:
+
+I.- La aptitud de los bienes para ser utilizados en los programas correspondientes;
+
+II.- Que el aprovechamiento de los inmuebles sea congruente con los programas de desarrollo urbano y con las declaratorias de usos y destinos en vigor;
+
+III.- Que los solicitantes cuenten con un programa financiero en el que se prevea la aplicación de los recursos; y
+
+IV.- Que se cumpla con las disposiciones aplicables contenidas en la Ley de Desarrollo Urbano para el Estado de Sonora.
+
+En todo caso, se dará preferencia a los solicitantes que acepten y convengan que los productos de la comercialización de los inmuebles a que se refiere este artículo, se siga utilizando en acciones de vivienda de interés social.
+
+###### ARTICULO 48.
+
+En los casos de donación a que se refieren las fracciones IV y V del artículo 43 de esta Ley, en el decreto por el cual se autoriza la misma, se fijará el plazo máximo dentro del cual deberá realizarse la utilización del bien en las actividades para las cuales se solicitó. De no fijarse dicho plazo, se entenderá que éste es de seis meses, contados a partir de la fecha en que se formalice el acto jurídico relativo.
+
+Si el donatario no iniciare la utilización del bien en el fin señalado dentro del plazo previsto, o si habiéndolo hecho, diere al inmueble un uso distinto, tanto el bien como sus mejoras revertirán en favor del Gobierno del Estado. Lo anterior será aplicable a los casos previstos en la fracción VII del artículo 43 de esta Ley, cuando la donataria sea una persona física.
+
+También procederá la reversión del bien y sus mejoras en favor del Estado, respecto de las donaciones señaladas en la fracción V del artículo citado, cuando las asociaciones, sociedades o instituciones privadas desvirtúen la naturaleza de sus actividades o el carácter no lucrativo de sus fines, dejen de cumplir con su objeto o se extingan.
+
+Las condiciones a que se refiere este artículo, se insertarán en la escritura respectiva y su incumplimiento dará origen a la rescisión del contrato.
+
+###### ARTICULO 49.
+
+Las enajenaciones de bienes inmuebles previstas en las fracciones III y VII del artículo 43 de esta Ley, se llevarán a cabo por la Comisión Estatal a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, oportunidad y demás circunstancias pertinentes.
+
+La Comisión Estatal deberá enviar a la Contraloría copia de la convocatoria respectiva, a efecto de que pueda participar, en el ejercicio de sus atribuciones, en todo el proceso de licitación.
+
+###### ARTICULO 50.
+
+Las convocatorias públicas podrán referirse a uno o más inmuebles y se publicarán al menos en uno de los periódicos de mayor circulación en el Estado y contendrán enunciativamente:
+
+I.- La descripción del inmueble que se desee enajenar;
+
+II.- Los requisitos que deberán satisfacer los interesados;
+
+III.- Fecha límite para la inscripción en el proceso de licitación, que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la fecha de la publicación de la convocatoria;
+
+IV.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones; y
+
+V.- Los criterios conforme a los cuales se decidirá el otorgamiento del contrato.
+
+###### ARTICULO 51.
+
+Todo interesado que satisfaga los requisitos de la convocatoria tendrá derecho a presentar proposiciones, previo el otorgamiento de las cauciones que garanticen la seriedad de las mismas.
+
+Las garantías a que se refiere el párrafo anterior se constituirán a favor y a satisfacción de la Secretaría de Finanzas y hasta por los montos que, en cada caso, determine la Comisión Estatal. Dichos montos deberán especificarse en la convocatoria señalada en el artículo anterior.
+
+###### ARTICULO 52.
+
+El acto de presentación y apertura de proposiciones será presidido por el servidor público que designe la convocante, y se llevará a cabo en la forma siguiente:
+
+I.- Se iniciará en la fecha, lugar y hora señalada en la convocatoria respectiva;
+
+II.- Se pasará lista de asistencia. Los proponentes al ser nombrados, entregarán su proposición y demás documentación requerida en sobre cerrado;
+
+III.- Se procederá a la apertura de los sobres y no se dará lectura a la postura económica de aquellas proposiciones que no contengan todos los requisitos, las que serán desechadas;
+
+IV.- El servidor público que presida el acto, leerá en voz alta cuando menos, el importe total de cada una de las proposiciones admitidas;
+
+V.- Se entregará a todos los proponentes, cuyas proposiciones hayan sido admitidas, un recibo por la garantía otorgada;
+
+VI.- Se levantará acta circunstanciada del acto de apertura de proposiciones, que firmarán, en su caso, las personas que en él hayan intervenido. En dicha acta se asentarán, además, las observaciones que hubieren manifestado los participantes. Se informará asimismo, a los presentes, la fecha, lugar y hora en que se dará a conocer el fallo; y
+
+VII.- De no recibirse proposición alguna, se declarará desierto el concurso y se procederá de conformidad con lo dispuesto en el artículo 57 de esta Ley.
+
+###### ARTICULO 53.
+
+La Comisión Estatal, con base en el análisis comparativo de las proposiciones admitidas y en el avalúo del inmueble sujeto a enajenación, emitirá un dictamen que servirá como fundamento para el fallo, mediante el que se determinará con cual de los proponentes se celebrará el contrato de enajenación, por reunir las condiciones legales y económicas requeridas. Si resultare que dos o más proposiciones satisfacen las condiciones anteriores, el contrato se celebrará con quien haya presentado la postura más alta.
+
+La Comisión Estatal, dará a conocer el fallo en el lugar, fecha y hora que señale para tal efecto y entregará a los proponentes copia del mismo.
+
+Contra la resolución que contenga el fallo, no procederá recurso alguno.
+
+###### ARTICULO 54.
+
+En caso de que, satisfechas las condiciones a que se refiere el artículo anterior, existan dos o más posturas iguales, se citará mediante notificación personal a los proponentes, para que comparezcan ante la Comisión Estatal. En la diligencia respectiva, se levantará razón de las notificaciones realizadas y se procederá a dar lectura de la resolución que determinó la existencia de posturas similares, procediéndose, de inmediato a interrogar a los postores si mejoran las mismas. En el supuesto de que alguno la mejore, dentro de los quince minutos que sigan a la pregunta, el funcionario que celebre la diligencia procederá a interrogar de nueva cuenta a los proponentes, respecto de que si alguno de ellos la mejora, y así sucesivamente, se procederá en relación con las proposiciones que se realicen. De no mejorarse la última proposición, se celebrará el contrato con quien haya propuesto aquélla.
+
+Si en la diligencia a que se refiere el párrafo anterior, los interesados no mejoran sus proposiciones, la Comisión Estatal decidirá libremente con quién celebrará el contrato. Del acto mencionado en este artículo, se levantará acta circunstanciada en los términos del precepto anterior.
+
+###### ARTICULO 55.
+
+La emisión del fallo obligará a la Comisión Estatal y a la persona favorecida por el mismo, a formalizar el documento relativo dentro de los treinta días siguientes al de la fecha del acto respectivo.
+
+Si el interesado no firmare el contrato, perderá en favor de la convocante la garantía que hubiere otorgado y la Comisión Estatal podrá, sin necesidad de un nuevo procedimiento, celebrar el contrato con el participante siguiente en los términos del artículo 53 de esta Ley y de su propuesta, y así sucesivamente.
+
+###### ARTICULO 56.
+
+En las distintas operaciones inmobiliarias en las que participe el Gobierno del Estado, corresponderá a la Comisión Estatal: determinar el valor de los inmuebles objeto de las operaciones de adquisición, enajenación o permuta; fijar el monto de las rentas que el Gobierno del Estado deba cobrar cuando tenga el carácter de arrendador e, igualmente, las que deba pagar cuando tenga el carácter de arrendatario.
+
+En los casos de enajenaciones, permutas o arrendamientos de inmuebles del Gobierno del Estado, el importe del precio del producto o de la renta, respectivamente, no podrá ser inferior al señalado en el dictamen correspondiente.
+
+El precio de los inmuebles que se vayan a adquirir o de las rentas que se vayan a pagar, no podrá ser superior al señalado en el dictamen respectivo.
+
+Se exceptúan de lo dispuesto en este artículo, las enajenaciones que tengan por objeto el desarrollo de acciones habitacionales de interés social, en cuyo caso, la fijación del precio de los lotes y predios se determinará conforme a lo establecido en la Ley de Desarrollo Urbano para el Estado de Sonora.
+
+Las entidades de la administración pública, deberán realizar sus adquisiciones y ventas de inmuebles con base en avalúos de la Comisión Estatal.
+
+###### ARTICULO 57.
+
+La Comisión Estatal, bajo su responsabilidad autorizará la enajenación de inmuebles fuera de licitación pública, en los supuestos previstos en los artículos 43, fracción VII y 52, fracción VII, de esta Ley, siempre y cuando se fije el precio en la forma prevista por el artículo anterior.
+
+###### ARTICULO 58.
+
+Toda enajenación onerosa de inmuebles que realice el Gobierno del Estado deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de grupos de personas de escasos recursos, y que tengan como finalidad resolver necesidades de vivienda de interés social, o las que se verifiquen para la realización de actividades sociales o culturales. Los adquirentes disfrutarán de un plazo hasta de diez años para pagar el precio del inmueble, siempre y cuando entreguen como anticipo en efectivo cuando menos el 25% de dicho precio.
+
+Asimismo, podrán exceptuarse las enajenaciones que se realicen a favor de personas físicas o morales, que pretendan llevar a cabo proyectos habitacionales de interés social o resolver necesidades de vivienda a las personas de escasos recursos económicos.
+
+El Gobierno del Estado se reservará el dominio de los bienes hasta el pago total del precio, de los intereses pactados y de los moratorios, en su caso.
+
+Las entidades de la administración pública estatal cuyo objeto principal sea el fraccionamiento o comercialización de inmuebles, podrán efectuar enajenaciones a plazos, en los términos de sus leyes o decretos de creación.
+
+###### ARTICULO 59.
+
+Mientras no esté totalmente pagado el precio, los compradores de bienes inmuebles estatales, no podrán hipotecarlos ni constituir sobre ellos derechos reales en favor de terceros, ni tendrán facultad para derribar o modificar las construcciones sin autorización de la Comisión Estatal.
+
+En los contratos relativos, deberá estipularse además, que la falta de pago de tres mensualidades de los abonos a cuenta del precio y de sus intereses en los términos convenidos y seis mensualidades en los casos de interés social, así como la violación de las prohibiciones que contiene este artículo, darán origen a la rescisión del contrato.
+
+###### ARTICULO 60.
+
+Los actos jurídicos o contratos que se realicen en contravención de este Capítulo, estarán afectados de nulidad absoluta.
+
+###### ARTICULO 61.
+
+Los bienes de dominio privado del Estado, pueden ser objeto de todos los contratos que regula el derecho común. Se exceptúan, solamente, los de comodato y las donaciones no autorizadas en esta Ley.
+
+###### ARTICULO 62.
+
+Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno del Estado, y en que en los términos de esta Ley requieran la intervención de Notario, se celebrarán ante la fe del que designe el titular del Poder Ejecutivo del Estado.
+
+###### ARTICULO 63.
+
+No se requerirá la intervención de Notario Público en los siguientes casos:
+
+I.- Donaciones que se efectúen en favor del Gobierno del Estado;
+
+II.- Donaciones que efectúe el Gobierno del Estado en favor de los gobiernos federal o municipales; y
+
+III.- Enajenaciones que se realicen para resolver necesidades de suelo y vivienda por parte del Gobierno del Estado.
+
+En los supuestos señalados en las fracciones anteriores, el documento que consigne el contrato respectivo tendrá el carácter de escritura pública, mismo que deberá inscribirse en el Registro Público de la Propiedad que corresponda.
+
+###### ARTICULO 64.
+
+En el caso de los bienes que hayan formado parte del patrimonio de las entidades de la administración pública estatal que se extingan, no se requerirá la expedición de escritura pública y se reputará que los bienes forman parte del dominio privado del Estado, desde la inscripción del ordenamiento o acto jurídico que determina la extinción de la entidad relativa, en el Registro Público de la Propiedad que corresponda.
+
+###### ARTICULO 65.
+
+El Gobierno del Estado está facultado para retener administrativamente, los bienes que posea. Cuando se trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de contratos o cualquier otro acto jurídico, celebrados respecto de dichos bienes, el Gobierno del Estado deberá deducir, ante los tribunales, las acciones que corresponda, las que se tramitarán en los términos señalados en el Código de Procedimientos Civiles. Presentada la demanda, el Juez, a solicitud del Ministerio Público y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervenientes.
+
+Cuando por su finalidad el contrato se relacione estrechamente con las atribuciones que al Estado competen, podrá rescindirse administrativamente, sin perjuicio de las prestaciones a que tenga derecho la otra parte.
+
+###### ARTICULO 66.
+
+El Ejecutivo del Estado gestionará que el gobierno federal, le ceda o enajene, a título gratuito, los bienes de propiedad federal que se encuentren en el territorio del Estado.
+
+### CAPITULO II. DE LOS BIENES MUEBLES DE DOMINIO PRIVADO
+
+###### ARTICULO 67.
+
+Rige para los muebles de dominio privado del Estado, lo dispuesto en el artículo 44 de esta Ley, sin perjuicio de las disposiciones del derecho común sobre reivindicación de cosas muebles. También será aplicable para los mismos muebles lo que previene el artículo 65 de este ordenamiento.
+
+###### ARTICULO 68.
+
+Las adquisiciones y arrendamientos de bienes muebles para el servicio de las dependencias y entidades de la administración pública estatal, se regirán por las leyes aplicables en esta materia.
+
+###### ARTICULO 69.
+
+Corresponde a la Comisión Estatal la enajenación de los bienes muebles de dominio privado que por su uso, aprovechamiento o estado de conservación, no sean aptos para el servicio al que estén destinados o resulte inconveniente seguirlos utilizando en el mismo.
+
+###### ARTICULO 70.
+
+La enajenación onerosa de bienes muebles de dominio privado del Estado, se llevará a cabo a través de licitación pública, salvo las siguientes excepciones:
+
+I.- Cuando ocurran condiciones o circunstancias extraordinarias o imprevisibles, o situaciones de emergencia;
+
+II.- Cuando no existan por lo menos tres postores idóneos para presentar ofertas; y
+
+III.- Cuando el valor de los bienes no exceda del equivalente a mil veces el salario mínimo general diario vigente en la capital del Estado.
+
+La licitación pública se sujetará, en lo conducente, a las disposiciones establecidas en esta Ley, respecto a las licitaciones públicas de bienes inmuebles.
+
+En el supuesto de las fracciones I y II de este artículo, la Comisión Estatal en un plazo que no excederá de veinte días hábiles contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Contraloría, acompañando la documentación que justifique tal determinación.
+
+###### ARTICULO 71.
+
+El monto de la enajenación no podrá ser inferior a los precios mínimos de los bienes que determine la Comisión Estatal para estos fines.
+
+###### ARTICULO 72.
+
+La Comisión Estatal, queda facultada para dictar las disposiciones complementarias que se requieran en la enajenación, mediante licitación pública de los bienes muebles de dominio privado, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, oportunidad y demás circunstancias pertinentes, así como la eficiencia y honradez en la administración de los bienes señalados en este artículo.
+
+###### ARTICULO 73.
+
+Efectuadas las enajenaciones, la Comisión Estatal procederá a la cancelación de registros en inventarios y dará de baja el bien de que se trate.
+
+###### ARTICULO 74.
+
+Cuando se determine por la Comisión Estatal, que un bien mueble ya no es necesario para el servicio del Gobierno del Estado, o que por sus condiciones de uso deba sustituírsela, se dará de baja y podrá donarlo a los ayuntamientos o a instituciones públicas o privadas.
+
+###### ARTICULO 75.
+
+Con excepción de lo dispuesto por el artículo 67 de esta Ley, las disposiciones sobre bienes muebles de dominio privado a que se contrae el presente Capítulo, regirán para los actos de transmisión de dominio y baja de bienes muebles que realicen las entidades paraestatales, siempre que dichos bienes estén al servicio de éstas o formen parte de sus activos fijos.
+
+La Comisión Estatal emitirá los criterios que se requieran para la aplicación de lo dispuesto en este artículo.
+
+## TITULO QUINTO. DE LAS ADQUISICIONES DE BIENES INMUEBLES
+
+### CAPITULO UNICO. DE LAS ADQUISICIONES DE BIENES INMUEBLES
+
+###### ARTICULO 76.
+
+Las adquisiciones de bienes inmuebles que se realicen para satisfacer las necesidades inmobiliarias del Gobierno del Estado, se sujetarán a programas anuales globales que señalen objetivos, metas y unidades responsables de su ejecución
+
+###### ARTICULO 77.
+
+Para la formulación del programa a que se refiere el artículo anterior, las entidades elaborarán y remitirán sus proyectos de programas de adquisiciones a la dependencia coordinadora del sector en el que se encuentren agrupadas, en la fecha que ésta señale. Dicha dependencia y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán, a la Comisión Estatal sus propios proyectos de programas de adquisiciones de inmuebles, conjuntamente con los de las entidades bajo su coordinación, con sujeción a las normas y plazos que se establezcan.
+
+###### ARTICULO 78.
+
+La Secretaría de Finanzas, propondrá al Gobernador del Estado, para su aprobación, el programa anual global de adquisiciones de inmuebles del Gobierno del Estado. Para estos efectos, dicha dependencia deberá:
+
+I.- Verificar que los proyectos de programas de adquisiciones de inmuebles se sujeten a lo establecido en el Artículo 4o. de esta Ley;
+
+II.- Cuantificar y cualificar los requerimientos, atendiendo las características de los inmuebles solicitados y a su localización;
+
+III.- Revisar el inventario a que se refiere la fracción IX del Artículo 6o. de esta Ley, para determinar la existencia de inmuebles disponibles, o en su defecto, la necesidad de adquirir otros inmuebles;
+
+IV.- Proponer, en su caso, en favor de las dependencias o entidades interesadas, el destino de los inmuebles disponibles; y
+
+V.- Determinar, en congruencia con la política inmobiliaria de la Administración Pública Estatal, la calendarización a la que se deberán de sujetar las adquisiciones, la utilización y el aprovechamiento de los bienes inmuebles del dominio del Estado.
+
+En la elaboración del programa anual global de adquisiciones a que se refiere este artículo, la Secretaría de Planeación del Desarrollo y Gasto Público tendrá la intervención que le confieren las leyes.
+
+La autorización de destino o adquisición de inmuebles, se hará siempre y cuando correspondan a los programas anuales aprobados, exista autorización de inversión en su caso, y no se disponga de inmuebles adecuados, para satisfacer los requerimientos específicos. Procederá la negativa cuando no se cumplan los requisitos señalados.
+
+###### ARTICULO 79.
+
+Las adquisiciones de inmuebles que realicen las entidades para satisfacer sus necesidades inmobiliarias, se formalizarán en los términos que señalen los ordenamientos o actos jurídicos que regulen su estructura y funcionamiento.
+
+###### ARTICULO 80.
+
+Cuando el Gobierno del Estado adquiera, en los términos del derecho privado, un inmueble para cumplir con finalidades de orden público y éste sea objeto de un contrato de arrendamiento o de cualquier otro tipo de relación jurídica, que le otorgue a terceros su posesión y que con motivo de la adquisición no se dé por terminada la misma, la Comisión Estatal podrá convenir con dichos poseedores, la forma y términos para la desocupación y entrega del inmueble, la cual nunca excederá de un año.
+
+###### ARTICULO 81.
+
+Cuando se trate de adquisiciones por vías de derecho público, que requieran la declaratoria de utilidad pública, por parte del Gobierno del Estado corresponderá: a la autoridad del ramo determinar dicha utilidad y el procedimiento encaminado a la ocupación administrativa de la cosa; a la Comisión Estatal fijar el monto de la indemnización, y a la Secretaría de Planeación del Desarrollo y Gasto Público, establecer el régimen de pago, cuando éste sea a cargo del Gobierno del Estado.
+
+###### ARTICULO 82.
+
+Cuando se trate de adquisiciones por vía de derecho público, no será necesaria la expedición de escritura y se reputará que los bienes forman parte del dominio del Estado, desde la publicación del acuerdo respectivo en el Boletín Oficial del Gobierno del Estado, mismo que se inscribirá en el Registro Público de la Propiedad que corresponda a la ubicación del bien.
+
+###### ARTICULO 83.
+
+Sólo podrán arrendarse bienes inmuebles para el servicio del Gobierno del Estado, cuando no sea posible o conveniente su adquisición, previo dictamen de la Comisión Estatal.
+
+## TITULO SEXTO. DE LOS CATALOGOS Y DE LOS INVENTARIOS DE LOS BIENES DEL DOMINIO DEL ESTADO
+
+### CAPITULO I. DE LOS CATALOGOS Y DE LOS INVENTARIOS DE LOS BIENES DE DOMINIO DEL ESTADO
+
+###### ARTICULO 84.
+
+La Comisión Estatal, tendrá a su cargo la elaboración y actualización de los catálogos e inventarios generales de los bienes del dominio del Estado. Para estos efectos, emitirá las normas y determinará los procedimientos que corresponda.
+
+###### ARTICULO 85.
+
+Los Poderes Legislativo y Judicial y las dependencias y entidades de la administración pública estatal llevarán, conforme a las normas y procedimientos a que se refiere el artículo anterior, sus propios catálogos e inventarios de los bienes del dominio del Estado que tengan a su servicio y remitirán los mismos, según la naturaleza de dichos bienes, a la Comisión Estatal en los plazos y términos que se establezcan.
+
+La Comisión Estatal, sistematizará y catalogará los datos e informes que se precisen en los catálogos e inventarios de cada una de las dependencias y entidades. Asimismo, formulará y mantendrá permanentemente actualizado el catálogo general y el inventario general de los bienes de dominio del Poder Ejecutivo, a los cuales se agregarán los catálogos e inventarios de los bienes al servicio de los Poderes Legislativo y Judicial.
+
+###### ARTICULO 86.
+
+Los inmuebles se inscribirán en el Registro Público de la Propiedad que corresponda, en el lugar de ubicación de los bienes de que se trate y conforme a las disposiciones legales aplicables.
+
+###### ARTICULO 87.
+
+Los funcionarios del Registro Público de la Propiedad, que inscriban actos o contratos donde intervengan el Gobierno del Estado, enviarán a la Comisión Estatal, copia de la inscripción del documento presentado.
+
+### CAPITULO II. DE LOS ALMACENES
+
+###### ARTICULO 88.
+
+Los bienes muebles que adquieran las dependencias y entidades de la administración pública estatal, quedarán sujetos al control de almacenes a partir del momento en que se reciban.
+
+###### ARTICULO 89.
+
+El control de los almacenes a que se refiere el artículo anterior, comprenderá como mínimo los siguientes aspectos:
+
+I.- Recepción;
+
+II.- Registro;
+
+III.- Guarda y conservación;
+
+IV.- Suministro;
+
+V.- Baja; y
+
+VI.- Servicios complementarios.
+
+###### ARTICULO 90.
+
+La Comisión Estatal, en el ámbito de la administración pública directa, emitirá las normas conforme a las cuales las dependencias deberán operar sus almacenes, debiendo establecer los procedimientos que resulten necesarios, para vincular estas actividades con las relativas a inventarios de bienes muebles de activo fijo, adquisiciones y con las demás que resulten pertinentes. En iguales términos procederán los órganos de gobierno de las entidades en la administración pública paraestatal, para lo cual emitirán las bases generales que correspondan.
+
+## TITULO SEPTIMO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
+
+### CAPITULO UNICO. DE LA INFORMACION, DEL CONTROL Y DE LA VERIFICACION
+
+###### ARTICULO 91.
+
+Los titulares de las dependencias y entidades de la administración pública estatal, así como las demás instituciones públicas o privadas, y los particulares que, por cualquier concepto, usen, posean, administren o tengan a su cuidado bienes del dominio del Estado, estarán obligados a proporcionar a la Contraloría y a la Secretaría de Finanzas, según corresponda, en cada caso, los datos e informes que le soliciten dichas dependencias, en la forma y términos que éstas indiquen, en relación con los bienes señalados.
+
+Las entidades deberán de proporcionar la información referida, además, a la dependencia coordinadora del sector en que se encuentren agrupadas.
+
+###### ARTICULO 92.
+
+La Contraloría y, en el caso de las entidades, la dependencia coordinadora de sector, podrán verificar en cualquier tiempo que las operaciones y actos a que se refiere esta Ley, se realicen conforme lo establecido en la misma, en otras disposiciones aplicables y en los programas y presupuestos aprobados.
+
+Los titulares de las dependencias y entidades proporcionarán todas las facilidades necesarias, a fin de que las dependencias a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las operaciones y actos señalados en esta Ley.
+
+###### ARTICULO 93.
+
+La Contraloría, y en el caso de las entidades, la dependencia coordinadora de sector, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades, así como solicitar de los funcionarios y empleados de las mismas y de los particulares, en su caso, todos los datos e informes relacionados con las operaciones y actos objeto de esta Ley.
+
+## TITULO OCTAVO. DE LAS VIAS ESTATALES DE COMUNICACION TERRESTRE
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 94.
+
+Las concesiones o permisos para la construcción y explotación de las vías estatales de comunicación terrestre del Estado de Sonora y el establecimiento del derecho de vía, que no estén comprendidos en las fracciones VI y VII del artículo 1o. de la Ley de Vías Generales de Comunicación, se regirán por las disposiciones contenidas en el presente Título.
+
+###### ARTICULO 95.
+
+Se entenderán como vías estatales de comunicación terrestre, los caminos, carreteras y puentes de jurisdicción estatal, con sus servicios auxiliares, obras, construcciones y demás dependencias y accesorios de las mismas y los terrenos que sean necesarios para el derecho de vía y para el establecimiento de servicios.
+
+###### ARTICULO 96.
+
+Son vías de comunicación terrestres, las que atraviesen los límites de dos o más municipios.
+
+###### ARTICULO 97.
+
+El Gobierno del Estado, tendrá facultad para construir, establecer o explotar vías estatales de comunicación terrestre, por sí mismo o bien encomendarse a particulares en los términos del artículo 150 de la Constitución Política del Estado de Sonora.
+
+### CAPITULO II. DE LA JURISDICCION
+
+###### ARTICULO 98.
+
+Las vías estatales de comunicación terrestre, quedan sujetas exclusivamente a los Poderes Estatales. El Ejecutivo del Estado ejercitará, en esta materia, las siguientes facultades:
+
+I.- Construcción, mejoramiento, conservación y explotación de vías estatales de comunicación terrestre;
+
+II.- Inspección y vigilancia;
+
+III.- Otorgamiento, interpretación y cumplimiento de concesiones o permisos;
+
+IV.- Celebración de contratos con los gobiernos federal o municipal;
+
+V.- Declaración de abandono de trámite de las solicitudes de concesión o permiso, así como declarar la revocación o la extinción de las concesiones, permisos o contratos celebrados y modificarlos en los casos previstos en este Titulo;
+
+VI.- Aprobación, revisión o modificación de tarifas, tablas de distancia, clasificaciones y en general, todos los documentos relacionados con la explotación;
+
+VII.- Registro;
+
+VIII.- La vigilancia de los derechos del Estado, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de este Título o de las concesiones respectivas;
+
+IX.- Infracciones a las disposiciones contenidas en este Título y en sus disposiciones reglamentarias;
+
+X.- La ampliación de la superficie de la zona establecida como derecho de vía, en aquellos casos que resulte necesario, atendiendo a las necesidades técnicas de los propios caminos o a la densidad del tránsito; y
+
+XI.- Toda cuestión de carácter administrativo relacionada con las vías estatales de comunicación terrestre.
+
+Las facultades contenidas en las fracciones III, IV, V, VI, VII y VIII, de este artículo, se ejercerán por conducto de la Comisión Estatal. Las demás facultades se ejercerán por la Secretaría de Infraestructura Urbana y Ecología.
+
+###### ARTICULO 99.
+
+Las controversias que se susciten sobre la interpretación y el cumplimiento de las concesiones y toda clase de contratos relacionados con las vías estatales de comunicación terrestre, se decidirán por los términos mismos de las concesiones y contratos, por las disposiciones de esta Ley, a falta de ellas por los preceptos del Código de Comercio y en defecto de unas y de otros, por los preceptos de los Códigos Civil y de Procedimientos Civiles para el Estado de Sonora.
+
+###### ARTICULO 100.
+
+Los actos y contratos que tengan por objeto vías estatales de comunicación terrestre, sus servicios auxiliares, dependencias, accesorios o alguna propiedad inmueble incorporada a las mismas, deberán inscribirse en las oficinas del Registro Público de la Propiedad de la ciudad de Hermosillo, Sonora, y ese registro bastará para sus efectos legales entre las partes.
+
+### CAPITULO III. DE LAS CONCESIONES, PERMISOS Y CONTRATOS
+
+###### ARTICULO 101.
+
+Para construir, establecer y explotar vías estatales de comunicación terrestre, será necesario tener concesión del Ejecutivo por conducto de la Comisión Estatal, la cual se otorgará con sujeción a los preceptos de este Título, la Ley de Obras Públicas del Estado de Sonora y demás disposiciones aplicables y previo pago de los derechos respectivos.
+
+Las concesiones a que se refiere el párrafo anterior, se otorgarán por el plazo que señale la Comisión Estatal y que no podrá exceder de treinta años. Se otorgarán a ciudadanos mexicanos o a sociedades constituidas conforme a las leyes del país, y se estará en cuanto al trámite, garantías y modalidades en general, a los preceptos de este Título y su reglamento.
+
+El Gobierno del Estado podrá construir y explotar caminos, carreteras y puentes de peaje, por sí o mediante concesión que se otorgue en los términos de esta Ley y su reglamento, a particulares.
+
+###### ARTICULO 102.
+
+Las concesiones, contratos o permisos para la construcción, establecimiento o explotación de vías estatales de comunicación terrestre se extinguen por cualesquiera de las causas siguientes: cancelación; cumplimiento del plazo estipulado; y consentimiento expreso de ambas partes. El reglamento establecerá las causales de cancelación y el procedimiento administrativo, según el caso, cuya substanciación corresponderá a la Comisión Estatal.
+
+###### ARTICULO 103.
+
+El otorgamiento de concesiones para la construcción, reconstrucción y explotación de puentes se regirá por las prescripciones de esta Ley y sus reglamentos, en todos los casos se oirá la opinión de la Secretaría de Agricultura y Recursos Hidráulicos, por lo que respecta a las condiciones hidráulicas que deban satisfacer para no alterar el régimen de las aguas.
+
+###### ARTICULO 104.
+
+No necesitarán concesión, sino permiso:
+
+I.- La realización de cruzamientos de vías estatales de comunicación terrestre por otras vías o por otras obras;
+
+II.- La instalación de anuncios o realización de construcciones destinadas a servicios conexos o auxiliares del transporte; y
+
+III.- Los puentes de carácter provisional y los definitivos de escasa importancia.
+
+###### ARTICULO 105.
+
+Los concesionarios de vías estatales de comunicación terrestre, están obligados a proporcionar a los inspectores debidamente acreditados, todos los informes o datos que sean necesarios para llenar su cometido; a mostrarles planos, expedientes, estudios, guías, libros de actas, de contabilidad, auxiliares y todos los documentos concernientes a la situación material, económica y financiera de esas empresas sin limitación ni restricción alguna, así como a darles acceso a sus oficinas, almacenes, bodegas, talleres y demás dependencias.
+
+###### ARTICULO 106.
+
+Los concesionarios de vías estatales de comunicación terrestre, contribuirán para los gastos de servicio de inspección, con la cantidad que se determine en las concesiones respectivas, y cuando en éstas no se haya determinado, será fijada por la Comisión Estatal
+
+###### ARTICULO 107.
+
+Se establece como derecho de vía la faja de terreno que corre paralela a ambos lados de un camino o carretera con una amplitud mínima absoluta de veinte metros, medidos a cada lado del eje del camino.
+
+###### ARTICULO 108.
+
+Los terrenos necesarios para la creación de la zona de derecho de vía, se adquirirán por procedimientos de derecho privado o de derecho público, en la forma y términos que fijan las leyes respectivas.
+
+###### ARTICULO 109.
+
+No podrán ejecutarse trabajos de construcción ajenos al camino, dentro del derecho de vía fijado para un camino o carretera.
+
+###### ARTICULO 110.
+
+Los dueños de predios que sean atravesados por una vía de comunicación terrestre, están obligados a cercarlos en la parte que limitan con el derecho de vía.
+
+## TITULO NOVENO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
+
+###### ARTICULO 111.
+
+Se sancionará con prisión de seis meses a cinco años y multa de una a doscientas veces el salario mínimo general diario vigente en la capital del Estado, a quien, vencido el término señalado en la concesión, permiso o autorización que se le haya otorgado para la explotación, uso o aprovechamiento de un bien de dominio público, no lo devolviere a la autoridad correspondiente, cuando para ello fuere requerido y dentro del plazo que al efecto se le señale.
+
+###### ARTICULO 112.
+
+La misma pena se impondrá a quien, a sabiendas de que un bien pertenece al dominio público del Estado, lo explote, use o aproveche, sin haber obtenido previamente concesión, permiso o autorización de la autoridad competente.
+
+###### ARTICULO 113.
+
+En los casos a que se refieren los dos artículos que anteceden, independientemente de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar, directamente, la tenencia material de los bienes de que se trate.
+
+###### ARTICULO 114.
+
+El que sin concesión o permiso de la Comisión Estatal construya o explote vías estatales de comunicación terrestre, perderá en beneficio del Estado las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de una a doscientas veces el salario mínimo general diario vigente de la capital del Estado, a juicio de la Comisión Estatal.
+
+###### ARTICULO 115.
+
+El que indebidamente ejecute obras que invadan o perjudiquen una vía estatal de comunicación terrestre, pagará una multa de una a ciento cincuenta veces el salario mínimo general diario vigente de la capital del Estado, a juicio de la Comisión Estatal.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Bienes del Estado de Sonora, publicada en el Boletín Oficial del Estado No. 34, Sección I, de fecha 27 de octubre de 1980, así como sus reformas.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley que Establece el Derecho de Vía en los Caminos y Carreteras de Jurisdicción Estatal, publicada en el Boletín Oficial número 52, Sección VI, de 30 de junio de 1986.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Comuníquese al Ejecutivo para su sanción y promulgación.
+
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.
+
+Hermosillo, Sonora, a 23 de Diciembre de 1992.
+
+"1992, AÑO DE LA UNIVERSIDAD DE SONORA"
+
+FELIPE ANTONIO SANTIAGO PALACIOS.
+
+DIPUTADO PRESIDENTE.
+
+JOSE MARIA PARADA ALMADA.
+
+DIPUTADO SECRETARIO.
+
+BARBARA GUTIERREZ DE URIAS.
+
+DIPUTADO SECRETARIO.
+
+POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.
+
+PALACIO DE GOBIERNO, Hermosillo, Sonora, diciembre treinta y uno de mil novecientos noventa y dos.
+
+LIC. MANLIO FABIO BELTRONES RIVERA.
+
+EL SECRETARIO DE GOBIERNO.
+
+LIC. ROBERTO SANCHEZ CEREZO.
