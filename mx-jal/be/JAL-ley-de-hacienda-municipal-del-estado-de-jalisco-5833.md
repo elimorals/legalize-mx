@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1998-02-19"
+last_updated: "1998-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -76,6 +76,12 @@ Son Aprovechamientos, los recargos, las multas y los demás ingresos de derecho 
 ###### Art. 8°.
 
 Son Participaciones, las cantidades que los Municipios del Estado de Jalisco tienen derecho a percibir, de los ingresos federales y estatales, conforme a las Leyes respectivas y a los Convenios de Coordinación que se hayan subscrito, o se subscriban, para tales efectos.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
+
+Art. 8° bis. Además de los ingresos que forman parte de la Hacienda Municipal, los municipios percibirán las aportaciones federales para fines específicos que a través de los diferentes fondos establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos;
+
+Las aportaciones federales para fines específicos y sus accesorios no podrán aplicarse para cubrir erogaciones con fines distintos a los que señalan sus objetivos y no serán embargables, ni los ayuntamientos podrán, bajo ninguna circunstancia, gravarlos o afectarlos en garantía.
 
 ###### Art. 9°.
 
@@ -141,9 +147,11 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 II. Que la vigencia y exigibilidad por cantidad líquida del derecho del crédito cuya preferencia se invoque, se compruebe en forma fehaciente al hacerse valer la reclamación de preferencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### Art. 19.
 
-Los Impuestos, Contribuciones Especiales, Derechos, Aprovechamientos y Participaciones que deba percibir el Municipio, se regularán por esta Ley y por las Leyes de Ingresos respectivas. En todo lo no previsto por las mismas, se atenderá, en lo conducente las Leyes Fiscales Estatales y Federales, la jurisprudencia en materia fiscal y el Derecho común.
+Los impuestos, contribuciones especiales, derechos, aprovechamientos, participaciones y aportaciones federales para fines específicos que deba percibir el Municipio, se regularán por esta ley y por las leyes de ingresos respectivas. En todo lo no previsto por las mismas, se atenderá, en lo conducente las leyes fiscales, estatales y federales, la jurisprudencia en materia fiscal y Derecho Común.
 
 Los productos se regularán por las disposiciones legales indicadas en el párrafo anterior o por lo que, en su caso, prevengan los contratos o concesiones respectivas.
 
@@ -203,7 +211,9 @@ X. Las demás que le otorguen las Leyes y Reglamentos, de carácter fiscal.
 
 Son atribuciones del Tesorero:
 
-I. Efectuar la recaudación y cobro de Impuestos, Contribuciones Especiales, Derechos, Productos, Aprovechamientos y participaciones;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1998)</small>
+
+I. Efectuar la recaudación y cobro de impuestos, contribuciones especiales, derechos, productos, aprovechamientos, participaciones y aportaciones federales para fines específicos;
 
 II. Encomendar, previo acuerdo del Presidente Municipal, la recepción de pago de los ingresos a otros Organismos Gubernamentales o a Instituciones autorizadas;
 
@@ -1707,7 +1717,11 @@ Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Erario
 
 ## TITULO CUARTO. De los Aprovechamientos
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 1998)</small>
+
+Art. 194 bis. Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
 ###### Art. 193.
 
@@ -1741,21 +1755,25 @@ XIII. Otros no especificados.
 
 ## TITULO QUINTO. De las Participaciones
 
-### CAPITULO UNICO. Del Gasto Público
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Art. 194.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-## TITULO UNICO. De las Infracciones y Sanciones
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
 
-### CAPITULO I. De la Estructura
+## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
+
+### CAPITULO UNICO. Del Gasto Público
 
 # LIBRO TERCERO. De los Ilícitos Fiscales
 
-## TITULO PRIMERO. Disposiciones Generales
+## TITULO UNICO. De las Infracciones y Sanciones
 
-### CAPITULO II. De la Estimación del Monto
+### CAPITULO I. De la Estructura
 
 ###### Art. 195.
 
@@ -1825,9 +1843,9 @@ Tratándose de giros en los que se realicen actividades en forma eventual o que 
 
 # LIBRO CUARTO. Del Ejercicio del Gasto, Contabilidad y Cuenta Pública
 
-## TITULO SEGUNDO. Del Presupuesto de Egresos
+## TITULO PRIMERO. Disposiciones Generales
 
-### CAPITULO III. De la Iniciativa, Discusión y Aprobación
+### CAPITULO II. De la Estimación del Monto
 
 ###### Art. 201.
 
@@ -1865,9 +1883,9 @@ V. Autorizar, previamente, los pagos o erogaciones de fondos que deban hacerse c
 
 VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la preparación del mismo para el ejercicio fiscal siguiente, deberá realizar estudios de carácter presupuestal, con el propósito de formar estadística razonada, respecto al desenvolvimiento de los servicios públicos, y determinar si su costo corresponde a la función que desarrollan, con fines de economía y eficiencia en el ejercicio del gasto público.
 
-## TITULO TERCERO. De la Cuenta Pública
+## TITULO SEGUNDO. Del Presupuesto de Egresos
 
-### CAPITULO IV. De su Ejercicio
+### CAPITULO III. De la Iniciativa, Discusión y Aprobación
 
 ###### Art. 206.
 
@@ -1883,7 +1901,9 @@ III. Los demás informes financieros y datos estadísticos que estime convenient
 
 Las previsiones de egresos a que se refiere la fracción II del artículo anterior, se clasificarán de acuerdo a su naturaleza, por unidades de administración, conforme a las siguientes bases:
 
-1ª. Los ramos fundamentales para la clasificación del gasto público, serán:
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1998)</small>
+
+1ª. Los ramos fundamentales para la clasificación del gasto público serán:
 
 I. Gobernación;
 
@@ -1904,6 +1924,10 @@ VIII. Mantenimiento de los servicios sociales y asistenciales;
 IX. Inversiones y construcciones; y
 
 X. Deuda pública;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1998)</small>
+
+XI. Fondo de Aportaciones Federales para fines específicos.
 
 2ª. Estos ramos se dividirán en partidas, que representarán en forma específica el gasto público; y
 
@@ -1951,7 +1975,7 @@ Una vez estudiado y revisado el proyecto del gasto público, el monto del mismo 
 
 Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de Cabildo en que se aprobó, al Congreso del Estado, para su conocimiento y efectos y revisión de la cuenta pública.
 
-### CAPITULO V. De las Modificaciones
+### CAPITULO IV. De su Ejercicio
 
 ###### Art. 213.
 
@@ -1965,7 +1989,7 @@ Una vez concluida la vigencia del gasto público, sólo procederá a hacer pagos
 
 El gasto público deberá de ejercerse, conforme a lo autorizado en cada una de las partidas del Presupuesto de Egresos.
 
-### CAPITULO I. De la Revisión
+### CAPITULO V. De las Modificaciones
 
 ###### Art. 216.
 
@@ -1981,7 +2005,7 @@ Toda erogación deberá ajustarse estrictamente, al texto de la partida que reci
 
 El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Cabildo.
 
-### CAPITULO II. De la Contabilidad
+### CAPITULO I. De la Revisión
 
 ###### Art. 219.
 
@@ -1995,11 +2019,11 @@ En los casos a que se refiere el artículo anterior, el Presidente Municipal, po
 
 Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Cabildo, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
 
+### CAPITULO II. De la Contabilidad
+
+## TITULO TERCERO. De la Cuenta Pública
+
 ### CAPITULO UNICO. De los Sujetos
-
-## TITULO CUARTO. De las Responsabilidades
-
-### CAPITULO I. Disposiciones Generales
 
 ###### Art. 222.
 
@@ -2037,7 +2061,7 @@ El Tesorero Municipal está obligado a proporcionar, al Congreso del Estado, la 
 
 Si el Tesorero Municipal se negare a proporcionar la información solicitada por el Congreso del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público ni permitiera la práctica de visitas, inspecciones y auditorías, la Contaduría Mayor de Hacienda lo hará del conocimiento del Congreso del Estado, por conducto de la Comisión de Inspección, para que resuelva lo procedente.
 
-### CAPITULO II. Del Procedimiento Administrativo de Ejecución
+### CAPITULO I. Disposiciones Generales
 
 ###### Art. 229.
 
@@ -2067,9 +2091,9 @@ El Congreso del Estado girará las instrucciones sobre la forma y términos en q
 
 Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las Tesorerías Municipales, serán consolidados por la Contaduría Mayor de Hacienda, y sometidos a la consideración del Congreso del Estado.
 
-## TITULO PRIMERO. De los Procedimientos
+## TITULO CUARTO. De las Responsabilidades
 
-### CAPITULO III. Del Procedimiento de Revocación d (sic) Licencias
+### CAPITULO II. Del Procedimiento Administrativo de Ejecución
 
 ###### Art. 236.
 
@@ -2099,9 +2123,9 @@ Si de la revisión de la cuenta pública de la Hacienda Municipal, se determinas
 
 # LIBRO QUINTO. De los Procedimientos y Recursos
 
-## TITULO SEGUNDO. Del Recurso de Reconsideración
+## TITULO PRIMERO. De los Procedimientos
 
-### CAPITULO UNICO. De su Procedencia y Tramitación
+### CAPITULO III. Del Procedimiento de Revocación d (sic) Licencias
 
 ###### Art. 241.
 
@@ -2182,6 +2206,8 @@ Las autoridades fiscales podrán habilitar los días y horas inhábiles. Esta ci
 ###### Art. 251.
 
 Salvo que las disposiciones fiscales, o resoluciones, señalen una fecha para la iniciación de los términos, éstos se computarán a partir del día hábil siguiente del que surta sus efectos la notificación, o en el que se realicen los hechos, o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
+
+### CAPITULO UNICO. De su Procedencia y Tramitación
 
 ###### Art. 252.
 
@@ -2775,6 +2801,8 @@ VII. Cuando las causales de la revocación no sean imputables al interesado, se 
 
 Contra la revocación de Licencias, no procederá el Recurso de Reconsideración que establece esta Ley.
 
+## TITULO SEGUNDO. Del Recurso de Reconsideración
+
 ###### Art. 318.
 
 En contra de los actos y procedimientos precisados en el artículo siguiente, y que emanen de las Autoridades Fiscales Municipales, sólo procederá el recurso administrativo de reconsideración; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este capítulo, o demandar su nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, siguiendo el procedimiento establecido para ese efecto, en la Ley Orgánica del propio Tribunal y en la del Procedimiento Contencioso Administrativo.
@@ -2960,3 +2988,7 @@ P.O. 27 DE DICIEMBRE DE 1997.
 P.O. 19 DE FEBRERO DE 1998.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
