@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1970-04-01"
+last_updated: "1972-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1972.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -617,9 +617,9 @@ XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 
 XXIV.- Proponer terna al Congreso para Tesorero General del Estado y removerlo libremente, enviando nueva terna al Congreso
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 1949)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1972)</small>
 
-XXV.- Nombrar directamente a los Oficiales del Registro Civil en el Municipio de Monterrey, y mediante terna que al efecto presente el respectivo Ayuntamiento, a aquellos que correspondan a Municipios en que exista más de una Oficialía. Exceptuando el Municipio de Monterrey, en los demás será precisamente Oficial del Registro Civil el Alcalde Primero del Municipio de que se trate ya sea como Oficial Unico, o como Oficial Primero concurriendo con otro u otros de los designados mediante terna por el Ejecutivo.
+XXV.- Nombrar, remover y cesar directamente a los Oficiales del Registro Civil de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza y Garza García. En los demás Municipios será precisamente Oficial del Registro Civil el Presidente Municipal; pero donde por razón demográfica deba existir más de uno, el Gobernador del Estado designará los que fueren necesarios, mediante terna que al efecto presente el respectivo Ayuntamiento.
 
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 1968)</small>
 
@@ -1458,3 +1458,7 @@ P.O. 1o. DE ENERO DE 1969.
 P.O. 1o. DE ABRIL DE 1970.
 
 UNICO:- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MAYO DE 1972.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
