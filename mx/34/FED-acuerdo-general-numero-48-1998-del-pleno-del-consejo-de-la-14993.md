@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-48-1998-del-pleno-del-consejo-de-la-1499
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-23"
-last_updated: "1999-09-15"
+last_updated: "2000-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14993&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-09"
 
 ACUERDO GENERAL NUMERO 48/1998, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE SEPTIEMBRE DE 1999.
+ULTIMA MODIFICACION PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE FEBRERO DE 2000.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 23 de marzo de 1999.
 
@@ -2935,33 +2935,35 @@ Los periodos vacacionales a que se refiere el artículo 160 de la Ley deberán d
 
 Los magistrados de Circuito de tribunales unitarios y los jueces de Distrito podrán gozar de los periodos vacacionales a que se refiere el artículo 160 de la Ley, en el primer periodo vacacional de quince días, a partir del primer día hábil del mes de julio al último día hábil de la primera quincena del mes de agosto y, el segundo, a partir del primer día hábil del mes de diciembre al último día hábil de la primera quincena del mes de enero del año siguiente.
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL 3/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2000)</small>
+
 ###### Artículo 268.
 
-En los lugares en donde existan dos o más tribunales unitarios de Circuito o juzgados de Distrito, los titulares no deberán disfrutar simultáneamente de sus vacaciones.
+En los lugares en donde existan dos o más tribunales unitarios de Circuito o juzgados de Distrito, los titulares podrán disfrutar simultáneamente de sus vacaciones dentro de los periodos a que se refiere el artículo 267 de este Acuerdo, siempre por lapsos de quince días continuos cada uno.
 
-Para la efectividad de la regla anterior, los magistrados de Circuito y los jueces de Distrito podrán convenir o sortear entre ellos los periodos y fechas en que deseen disfrutar de las vacaciones.
+Para la efectividad de la regla anterior, los Magistrados de Circuito y los Jueces de Distrito deberán comunicarlo al Consejo.
+
+> <small>(REFORMADO POR EL ACUERDO GENERAL 3/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 269.
 
-El resultado del acuerdo o del sorteo que efectúen los magistrados de Circuito y los jueces de Distrito se hará del conocimiento del Pleno, con diez días naturales de anticipación, mediante oficio dirigido al Secretario Ejecutivo del Pleno y Carrera Judicial.
+La comunicación a que se refiere el artículo anterior, tendrá que dirigirse, mediante oficio, con diez días naturales de anticipación, al Secretario Ejecutivo del Pleno y Carrera Judicial, para que éste lo haga del conocimiento de la Comisión de Carrera Judicial con la debida oportunidad.
 
-Los acuerdos y sorteos efectuados por los mencionados funcionarios judiciales podrán ser modificados por el Pleno por necesidades del servicio.
-
-En caso de que los servidores públicos no lograren consenso para el convenio o el sorteo mencionados en este artículo, deberán comunicarlo, con la debida oportunidad, al Pleno, a fin de que éste decida el orden en que dichos servidores gozarán de los correspondientes periodos vacacionales, para lo cual se tomarán en cuenta los motivos, si los hubiere, que cada uno de ellos exponga.
+Los periodos vacacionales de los mencionados servidores públicos, podrán ser modificados por el Pleno por necesidades del servicio.
 
 ###### Artículo 270.
 
-En los lugares donde existan dos o más tribunales unitarios de Circuito o juzgados de Distrito, cuando menos uno de los titulares deberá permanecer en funciones en su lugar de residencia, mientras alguno de ellos disfrute de su periodo vacacional.
+(DEROGADO POR EL ACUERDO GENERAL 3/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2000)
 
-En los lugares donde residan juzgados de Distrito especializados, cuando menos uno de los titulares de cada materia deberá permanecer en funciones en su lugar de residencia, mientras alguno de ellos disfrute de su periodo vacacional.
+> <small>(REFORMADO POR EL ACUERDO GENERAL 3/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 271.
 
-Tratándose de los juzgados de Distrito especializados en materia penal en el Distrito Federal, los titulares podrán disfrutar de sus periodos vacacionales, respetando el turno de guardia correspondiente; y, en los juzgados de Distrito ubicados en cada uno de los demás Reclusorios Preventivos, deberá permanecer por lo menos uno de los otros titulares.
+Para el disfrute de vacaciones por parte de los titulares de los Tribunales Unitarios de Circuito y de los Juzgados de Distrito, deberá respetarse, siempre, el turno de guardia correspondiente.
 
 ###### Artículo 272.
 
-Los magistrados de Circuito y los jueces de Distrito podrán convenir o sortear entre ellos los periodos y fechas en que deseen disfrutar de sus vacaciones, tomando en consideración que el titular correspondiente no se encuentre de turno.
+(DEROGADO POR EL ACUERDO GENERAL 3/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2000)
 
 ###### Artículo 273.
 
@@ -3104,3 +3106,11 @@ D.O.F. 15 DE SEPTIEMBRE DE 1999.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 11 DE FEBRERO DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Hágase del conocimiento de los Tribunales de Circuito y de los Juzgados de Distrito.
