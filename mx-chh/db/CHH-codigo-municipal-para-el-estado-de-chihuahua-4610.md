@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-05-27"
+last_updated: "1998-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -181,7 +181,9 @@ XXV.- GRAN MORELOS, con cabecera en el pueblo denominado San Nicolás de Carreta
 
 XXVI.- GUADALUPE, con cabecera en el pueblo del mismo nombre y las (sic) sección municipal de Vado de Cedillos;
 
-XXVII.- GUADALUPE Y CALVO, con cabecera en el pueblo del mismo nombre y las secciones municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana y Atascaderos;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1998)</small>
+
+XXVII.- GUADALUPE Y CALVO.- Con cabecera en el pueblo del mismo nombre y las secciones municipales de Baborigame, Calabacillas, Dolores, Mesa de San Rafael, San Julián, San Juan Nepomuceno, San Simón, Tohayana, Atascaderos y Turuachi;
 
 XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Tonachi, Rocheachi, Norogachi, Basiguare y la Ciénega;
 
@@ -2790,3 +2792,9 @@ P.O. 27 DE MAYO DE 1998.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 1998.
+
+PRIMERO.- El presente decreto entrará en vigor al día 10 de Octubre de 1998.
+
+SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Turuachi, se estará a lo estipulado por el Artículo 44 del Código Municipal para el Estado.
