@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1949-03-12"
+last_updated: "1951-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1951.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -979,23 +979,39 @@ El mismo procedimiento señalado en el final del artículo anterior, se seguirá
 
 De los honorarios del Registro.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1951)</small>
 
 ###### Art. 170.
 
-El registro o inscripción de documentos públicos o privados así como la expedición de toda clase de copias o certificados que expida el Registro Público de la Propiedad, causarán al Fisco del Estado los derechos que establece la siguiente:
+El registro E inscripción de documentos públicos o privados, así como la expedición de toda clase de copias certificadas que expida el Registro Público de la Propiedad, causarán al Fisco del Estado, los derechos que establece la siguiente tarifa:
 
-TARIFA
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1949)</small>
 
 I.- Por toda inscripción o registro de títulos de bienes o derechos cuyo valor no exceda de $ 500.00… $ 5.00
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1949)</small>
+
 II.- Por la inscripción o registro de títulos de bienes o derechos cuyo valor sea desde $500.00 hasta $5,000.00 inclusive, por cada millar o fracción de millar… “ 2.50
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1949)</small>
 
 III.- Si el valor excede de $500.00 por los primeros $5,000.00 se cobrará conforme a la Fracción anterior y por lo que exceda de esta cantidad hasta $25,000.00 inclusive, por cada millar o fracción… “ 2.00
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1949)</small>
+
 IV.- Si excede de $25,000.00 se cobrará por esa cantidad, de conformidad con las fracciones II y III y por lo que exceda de dicha cantidad hasta $100,000.00 inclusive, por cada millar o fracción… “ 1.50
 
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 1949)</small>
+
 V.- Si excede de $100,000.00 se cobrarán por los primeros $100,000.00 de conformidad con las fracciones anteriores y por lo que exceda de dicha cantidad por cada millar o fracción… “ 1.00
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1951)</small>
+
+VI.- Los Derechos previstos en esta Tarifa serán aumentados en un 100% (cien por ciento) cuando los interesados desearen obtener la inscripción del Título el mismo día de su presentación.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1951)</small>
+
+VII.- Cuando los duplicados no se presenten debidamente autorizados, su cotejo y certificación de autenticidad, para el efecto de ser depositados en el Registro Público, causarán el siguiente impuesto: de 1 a 5 hojas, por cada hoja “3.00. de 6 hojas en adelante, por cada hoja “2.00.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1949)</small>
 
@@ -1244,3 +1260,7 @@ P.O. EL 12 DE OCTUBRE DE 1940.
 P.O. 12 DE MARZO DE 1949.
 
 TRANSITORIO UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 1951.
+
+TRANSITORIO UNICO:- Este Decreto surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
