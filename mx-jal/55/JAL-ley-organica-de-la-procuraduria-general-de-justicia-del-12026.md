@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "1999-12-09"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -75,13 +75,17 @@ I. Recibir denuncias o querellas sobre acciones u omisiones que puedan constitui
 
 II. Investigar los delitos del orden común;
 
-III. Practicar las diligencias necesarias para la acreditación de los elementos del tipo penal del delito y la probable responsabilidad que corresponda, así como para la reparación de los daños y perjuicios causados;
+(REFORMADA, P.O. 10 DE FEBRERO DE 2004) (F. DE E., P.O. 27 DE MARZO DE 2004)
+
+III . Practicar diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad que corresponda, así como para la reparación de los daños y perjuicios causados.
 
 IV. Ordenar la detención y, en su caso, la retención de los probables responsables de la comisión de delitos en los términos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Asegurar los instrumentos, huellas, objetos y productos del delito, en los términos que señalen las normas aplicables;
 
-VI. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre y cuando no se afecte derechos de terceros y estén acreditados los elementos del tipo penal del delito que se trate y, en caso de considerarse necesario, ordenar que el bien se mantenga a su disposición, exigiendo el otorgamiento de garantías que, de ejercitarse la acción penal, se pondrán a disposición del órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre y cuando no se afecte derechos de terceros y esté acreditado el cuerpo del delito que se trate y, en caso de considerarse necesario, ordenar que el bien se mantenga a su disposición, exigiendo el otorgamiento de garantías que, de ejercitarse la acción penal, se pondrán a disposición del órgano jurisdiccional;
 
 VII. Conceder la libertad provisional a los indiciados, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -103,7 +107,9 @@ e) Resulte imposible la prueba de la existencia de los hechos constitutivos de d
 
 f) En los demás casos que determinen las normas aplicables.
 
-Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el agente del Ministerio Público proponga el no ejercicio de la acción penal;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el agente del Ministerio Público proponga el no ejercicio de la acción penal; esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los estados Unidos Mexicanos;
 
 XI. Poner a disposición de las autoridades y órganos encargados de la aplicación de la Ley de Readaptación Juvenil del Estado, a los menores de edad que hubieren cometido infracciones correspondientes a los ilícitos tipificados por las leyes penales;
 
@@ -115,7 +121,9 @@ XIII. Las demás que establezcan las normas aplicables.
 
 Las atribuciones del Ministerio Público respecto de la consignación y durante el proceso, comprenden:
 
-I. Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden común, cuando exista denuncia o querella, estén acreditados los elementos del tipo penal del delito de que se trate y la probable responsabilidad de quien o quienes hubieran intervenido, así como solicitar las órdenes de aprehensión, de comparecencia o de presentación, en su caso;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+I. Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden común, cuando exista denuncia o querella, estén acreditados el cuerpo del delito de que se trate y la probable responsabilidad de quien o quienes hubieran intervenido, así como solicitar las órdenes de aprehensión, de comparecencia o de presentación, en su caso;
 
 II. Solicitar al órgano jurisdiccional las órdenes de cateo, las medidas precautorias de arraigo y otras que fueren procedentes en los términos de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -125,7 +133,9 @@ IV. Solicitar el aseguramiento precautorio de bienes o la constitución de garan
 
 V. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación de los elementos del tipo penal del delito de que se trate, de la responsabilidad penal, de la existencia de los daños y perjuicios y para la fijación del monto de su reparación;
 
-VI. Formular las conclusiones, en los términos señalados por la ley, y solicitar la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación de los daños y perjuicios o, en su caso, plantear la formulación de conclusiones no acusatorias o de cualquier acto cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia, con la autorización previa del Procurador;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación del cuerpo del delito de que se trate, de la responsabilidad penal, de la existencia de los daños y perjuicios y para la fijación del monto de su reparación;
 
 VII. Impugnar, en los términos previstos por la ley, las resoluciones judiciales que, a su juicio, causen agravio a los intereses sociales o a los derechos de los ofendidos del delito, y
 
@@ -181,7 +191,9 @@ I. Proporcionar orientación y asesoría legal, así como propiciar su eficaz co
 
 II. Promover que se garantice y haga efectiva la reparación de los daños y perjuicios;
 
-III. Concertar acciones con instituciones de asistencia médica y social, públicas y privadas, para los efectos del último párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+III. Concertar acciones con instituciones de asistencia médica y social, públicas y privadas, para los efectos de lo dispuesto en la fracción III, apartado B, del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 IV. Otorgar, en coordinación con otras instituciones competentes, la atención que requieran.
 
@@ -539,6 +551,40 @@ II. El Subprocurador citado integrará la averiguación previa correspondiente y
 
 El personal que preste sus servicios en la Procuraduría General de Justicia del Estado se regirá por las disposiciones que al efecto se señalen en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+### Capítulo Sexto. De las Unidades especializadas
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+###### Artículo 52.
+
+Le corresponde a la unidad especializada en el combate a la Delincuencia Organizada, la atención, investigación, persecución y combate de la delincuencia organizada.
+
+La unidad especializada puede auxiliarse del Instituto Jalisciense de Ciencias Forenses, para la debida investigación y persecución de los delitos.
+
+Para la correcta integración de las averiguaciones, el titular de esta Unidad puede solicitar directamente la colaboración de otras dependencias o entidades del Poder Ejecutivo del Estado o de los Municipios.
+
+En caso necesario, el Ministerio Público encargado de las averiguaciones está facultado para requerir información, documentos o certificados relativos al sistema bancario, financiero o fiscal, por medio de oficio dirigido a las autoridades federales competentes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+###### Artículo 53.
+
+La unidad especializada se integra por los Agentes del Ministerio Público y de la Policía Investigadora, designados por el Procurador, que por sus perfiles y requisitos aseguren un alto nivel profesional de acuerdo a las atribuciones que les confiere esta Ley.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2004)</small>
+
+La unidad especializada, debe contar con un cuerpo técnico de control, que en las intervenciones de comunicaciones privadas verificará la autenticidad de sus resultados, establecerá lineamientos sobre las características de los aparatos, equipos y sistemas para la intervención; así como sobre la guarda, conservación mantenimiento y uso de los mismos.
+
+Los servidores públicos de esta unidad especializada, son responsables por la guarda y reserva en el manejo de la información relacionada con las averiguaciones a su cargo. En el curso de las averiguaciones la información relacionada con éstas se considera reservada y confidencial y solo podrá ser consultada por las personas implicadas en forma directa en la averiguación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
+###### Artículo 54.
+
+Para la atención de los delitos cuya investigación y persecución requiera de mayores exigencias técnicas, el Procurador General del Estado acordará la creación de unidades especializadas, las cuales se organizarán y ejercerán las funciones que se fijen en el reglamento respectivo.
+
 ## TRANSITORIOS
 
 Artículo Primero. El presente instrumento legal entrará en vigor, a los ciento veinte días siguientes de su publicación en el Periódico Oficial del Estado de Jalisco.
@@ -586,3 +632,13 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 9 DE DICIEMBRE DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "El Estado de Jalisco", con excepción de lo establecido en los artículos siguientes.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2004)</small>
+
+SEGUNDO.- El artículo tercero del presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las disposiciones relativas a la Unidad Especializada, en el combate a la delincuencia organizada, entrarán en vigor un año después de su publicación.
