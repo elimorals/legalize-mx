@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-arancel-de-los-notarios-publicos-del-estado-de-10350"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-23"
-last_updated: "1988-06-23"
+last_updated: "1994-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ARANCEL DE LOS NOTARIOS PUBLICOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1994.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 23 de junio de 1988.
 
@@ -55,21 +55,23 @@ LEY DE ARANCEL DE LOS NOTARIOS PUBLICOS DEL ESTADO DE DURANGO.
 
 Los Notarios en ejercicio de sus funciones, percibirán por honorarios los que señala el presente arancel.
 
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2o.
 
-Por la redacción y autorización de las escrituras:
+Para la redacción y autorización de las escrituras:
 
-I.- De valor determinado que no tenga cuota especial en este arancel, percibirán:
+I.- De valor determinado que no tenga cuota especial en este Arancel, percibirán:
 
-a).- Si el valor no excede de $100,000.00...............................................................$20,000.00
+a).- Si el valor excede de 80 salarios mínimos, pero no de 400, el 6% de la cuantía del negocio;
 
-b).- Si el valor excede de $100,000.00 pero no de $500,000.00, por la primera cantidad se cobrará conforme al inciso anterior y por el excedente de ésta se cobrará además el 5%.
+b).- Si el valor excede de 400 salarios mínimos, pero no de 4,170, por la primera cantidad percibirán el equivalente al 6%, y por el excedente el 2.5% de la cuantía del negocio;
 
-c).- Si el valor excede de $500,000.00, pero no de $1'000,000.00, por la primera cantidad se cobrará conforme a los incisos anteriores y por el excedente de ésta se cobrará además el 4%.
+c).- Si el valor excede de 4,170 salarios mínimos, pero no de 8,300 por la primera cantidad se cobrará conforme a los incisos anteriores, y por el excedente se cobrará además el 2%;
 
-d).- Si el valor excede de $1'000,000.00, pero no de $10'000,000.00, por la primera cantidad se cobrará conforme a los incisos anteriores y por el excedente se cobrará además el 2%.
+d).- Si el valor excede de 8,300 salarios mínimos, por esta cantidad se cobrará conforme a los incisos anteriores, y por el excedente se cobrará además el 0.75%; y
 
-e).- Si el valor excede de $10'000,000.00 por esta cantidad se cobrará conforme a los incisos anteriores y por el excedente se cobrará además el 1%.
+e).- Si la escritura se refiere a la adquisición de inmuebles de interés social, siempre que su valor no exceda de 5,000 veces el salario mínimo, se cobrará el 1.5% de su valor.
 
 II.- Cuando se refieran a pensión, renta, intereses o cualesquiera otra prestación periódica de plazo determinado, se tomará como base el importe total de esas prestaciones y se aplicará el inciso de la fracción I de este Artículo que corresponda.
 
@@ -254,3 +256,9 @@ LIC. JOSE RAMIREZ GAMERO. Rúbrica.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. GUSTAVO RIVERA RAMOS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
