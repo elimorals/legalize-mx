@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1995-02-21"
+last_updated: "1995-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1643,6 +1643,8 @@ Si el delincuente fuera ascendiente, descendiente, cónyuge, hermano, tutor, cur
 
 #### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1995)</small>
+
 ###### Artículo 229.
 
 El que públicamente provoque a cometer un delito o haga apología de éste, o de algún vicio, o de quienes lo cometan, será sancionado con prisión de quince días a seis meses y multa de tres a treinta días de salario, si el delito no se ejecutare. En caso contrario, se impondrá al provocador la sanción que le corresponda por su participación en el delito cometido.
@@ -1927,7 +1929,7 @@ III.- Al funcionario o empleado público, que en los actos propios de su cargo, 
 
 ###### Artículo 258.
 
-Se impondrá prisión de un mes a un año y multa de tres a treinta días de salario:
+Se impondrá de dos meses a dos años y multa de diez a cien días de salario mínimo:
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1936,6 +1938,10 @@ I.- Al que, sin ser servidor público, se atribuya este carácter y ejerza algun
 II.- Al que, sin tener título legal, se atribuya el carácter de profesional y ejerza actos propios de la profesión; y
 
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1995)</small>
+
+IV.- Al que preste servicios privados de seguridad o se ostente como prestador de los mismos, sin contar con la autorización y registro legalmente requeridos.
 
 #### SECCION TERCERA.- ASALTO Y ATRACO
 
@@ -3448,6 +3454,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE FEBRERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 1995.
 
 ###### ARTICULO PRIMERO.
 
