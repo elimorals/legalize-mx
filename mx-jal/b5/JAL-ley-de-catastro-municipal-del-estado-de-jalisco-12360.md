@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2001-07-21"
+last_updated: "2001-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -35,7 +35,7 @@ DECRETO
 
 NUMERO 16794. El Congreso del Estado decreta:
 
-ÚNICO. Se modifica el Decreto Número 16465, aprobado por esta H. Legislatura el día 19 de diciembre de 1996, y regresado por el Ejecutivo del Estado con sus observaciones, en los términos del entonces vigente artículo 33 constitucional , para quedar como sigue:
+ÚNICO. Se modifica el Decreto Número 16465, aprobado por esta H. Legislatura el día 19 de diciembre de 1996 y regresado por el Ejecutivo del Estado con sus observaciones, en los términos del entonces vigente artículo 33 constitucional, para quedar como sigue:
 
 Ley de Catastro Municipal del Estado de Jalisco
 
@@ -167,7 +167,13 @@ XXVII. Revaluación catastral: la actualización de los valores catastrales que 
 
 XXVIII. Perito valuador: es el profesionista que cuenta con los conocimientos técnicos, especializados en bienes inmuebles y valuación, necesarios para formular avalúos y documentos técnicos donde consten las condiciones específicas de los bienes inmuebles. Los peritos deberán registrarse ante la Dirección de Catastro del Gobierno del Estado y deberá acreditarse ante la autoridad catastral municipal cuando elabore avalúos;
 
-XXIX. Valuador: el servidor público dependiente de la autoridad catastral que elabora los dictámenes;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2001)</small>
+
+XXIX. Valuador es el servidor público dependiente de catastro municipal que elabora los dictámenes y tendrá cuando menos la siguiente escolaridad:
+
+a) En los municipios en los que el Ayuntamiento esté integrado hasta por once regidores, se requiere por lo menos, enseñanza media superior;
+
+b) En los municipios en los que el Ayuntamiento esté integrado pro catorce regidores o más, se requiere tener la educación técnica o profesional en la materia.
 
 XXX. Registros catastrales: los documentos gráficos, escritos e información contenidos en las bases de datos, así como todos los demás elementos que integran el catastro;
 
@@ -1344,3 +1350,7 @@ Cuarto. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 21 DE JULIO DE 2001.
 
 UNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE JULIO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
