@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-transito-reformada-del-estado-de-oaxaca-13
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-03-31"
-last_updated: "1973-03-31"
+last_updated: "1977-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO REFORMADA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1977.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 31 de marzo de 1973.
 
@@ -777,6 +777,20 @@ Las personas morales comprobarán su existencia legal conforme a las leyes del p
 
 Cuando se trate de personas morales con socios extranjeros, éstos presentarán ante el Ejecutivo del Estado una declaración bajo protesta, que deberá ser ratificada, en el sentido de que se sujetan a las disposiciones del Artículo 21 de la Ley de Tránsito Reformada.
 
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1977)</small>
+
+Cuando se trate de explotación de automóviles de alquiler, además de los requisitos anteriormente señalados, exigirán los siguientes:
+
+a).- Licencia de chofer del solicitante.
+
+b).- Certificado de que no tiene antecedentes penales.
+
+c).- Certificado de residencia, en los términos del artículo 29 del Código Civil.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1977)</small>
+
+En los lugares donde se implante o funcione el servicio, se dará preferencia, en primer término, a quienes hayan trabajado como choferes de automóviles de servicio público; en segundo término, a quienes tengan mayor antigüedad como tales computando el tiempo de trabajo en total, cuando haya habido interrupciones; en tercer término, a quienes tengan familia a su cargo; y, en cuarto término, a los que acrediten haber concluído, cuando menos, uno de los cursos impartidos en la Escuela para Operadores dependiente de la Dirección General de Seguridad Pública.
+
 ###### ARTICULO 95.
 
 Para que surta efecto la concesión, el concesionario otorgará en el plazo que el Ejecutivo señale, las garantías que se le fijen conforme a lo dispuesto en la Fracción VII del artículo 24 de la Ley de Tránsito Reformada en vigor; así como comprobar que se ha celebrado el contrato de seguro del viajero.
@@ -820,6 +834,18 @@ La interposición del recurso a que se refiere el Artículo 32 de la Ley de Trá
 ###### ARTICULO 105.
 
 En igualdad de circunstancias, la concesión se otorgará a personas físicas o morales, oaxaqueñas.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1977)</small>
+
+ARTICULO 105 BIS.- Cuando deban ser intervenidas las empresas para que se preste el servicio, el acuerdo del Ejecutivo que disponga la intervención, señalará:
+
+a).- La designación de interventor.
+
+b).- La duración de la intervención.
+
+c).- Las circunstancias que deban prevalecer en lo referente a los trabajadores y empleados de la empresa intervenida.
+
+Al finalizar la intervención, la rendición de un informe del manejo de la empresa, correspondiente al tiempo en que haya sido intervenida, que se publicará en el Periódico Oficial.
 
 ### CAPITULO XIX. DE LOS SITIOS
 
@@ -1167,13 +1193,15 @@ Las oficinas recaudadoras expedirán a la persona que haya hecho el pago de mult
 
 Las violaciones a las disposiciones de la Ley de Tránsito Reformada, a las de este Reglamento y a las que con fundamento en estos Ordenamientos emanen de las autoridades de Tránsito, se sancionarán como sigue:
 
-GRUPO ESPECIAL.- EBRIEDAD.- La conducción de vehículos en estado de ebriedad o bajo el influjo de estupefacciones (sic), se sancionar como sigue:
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1977)</small>
 
-I.- Por la primera vez, con multa de $400.00.
+GRUPO ESPECIAL.- EBRIEDAD.- La conducción en estado de ebriedad o bajo el influjo de estupefacientes, se sancionarán como sigue:
 
-II.- Por la segunda vez, con multa de $ 500.00.
+I.- Por la primera vez, con multa de $ 500.00 y arresto inconmutable de 24 horas.
 
-Las sanciones anteriores se aplicarán sin perjuicio de las disposiciones relativas de los Artículos 141 y 142 del Reglamento.
+II.- Por la segunda vez, con multa de $ 1,000.00 y arresto inconmutable de 72 horas.
+
+Las sanciones anteriores se aplicarán sin perjuicio de las disposiciones relativas de los artículos 141 y 142 de este Reglamento.
 
 GRUPO No. 1.- Violaciones que se sancionarán con multa de $200.00.
 
@@ -1498,3 +1526,9 @@ Oaxaca de Juárez, a 8 de marzo de 1973.
 EL SECRETARIO GENERAL DEL DESPACHO,
 
 LIC. AGUSTIN MARQUEZ URIBE.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ENERO DE 1977.
+
+ARTICULO UNICO, Este decreto entrará en vigor a partir de su publicación en el Periódico Oficial.
