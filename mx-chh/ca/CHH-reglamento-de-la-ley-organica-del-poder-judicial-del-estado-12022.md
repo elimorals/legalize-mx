@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-120
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-31"
-last_updated: "1990-03-31"
+last_updated: "2001-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2001.
 
 Reglamento publicado en el Folleto Anexo al No. 26 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 1990.
 
@@ -71,7 +71,7 @@ El Tribunal Pleno celebrará Acuerdos Ordinarios indistintamente cualquier día 
 
 ###### ARTICULO 7.
 
-Para la celebración de los Acuerdos Ordinarios bastará la simple comunicación verbal que el Secretario General realice a los Magistrados y al Procurador. Para la celebración de los Extraordinarios, levantará constancia por escrito de la notificación, recabando la firma correspondiente. En ambos casos, el Secretario General, con la debida oportunidad, entregará al hacer la notificación, comunicación escrita en la que se establezcan los asuntos en objeto de la sesión.
+Para la celebración de los Acuerdos Ordinarios bastará la simple comunicación verbal que el Secretario General realice a los Magistrados y al Procurador. Para la celebración de los Extraordinarios, levantará constancia por escrito de la notificación, recabando la firma correspondiente. En ambos casos, el Secretario General, con la debida oportunidad, entregará al hacer la notificación, comunicación escrita en la que se establezcan los asuntos objeto de la sesión.
 
 ###### ARTICULO 8.
 
@@ -91,7 +91,7 @@ El o los Magistrados que estimen necesario modificar o revocar acuerdos tomados,
 
 II.- Aprobada que fuere el acta, con observaciones o sin ellas, el Secretario General dará cuenta de los negocios que ese día deban someterse a la consideración del Pleno. El Secretario sólo dará lectura íntegra a los documentos con los que da cuenta, si lo pidiera alguno de los Magistrados;
 
-III.- El Presidente dará el trámite que corresponda a cada asunto. Los Magistrados y el Procurador podrán hacer observaciones a los trámites dictados por el Presidente; si éste no estuviere conforme con ellos, se someterá a votación el punto subsistiendo el trámite que apruebe la mayoría;
+III.- El Presidente dará el trámite que corresponda a cada asunto. Los Magistrados y el Procurador podrán hacer observaciones a los trámites dictados por el Presidente; si éste no estuviere conforme con ellos, se someterá a votación el punto, subsistiendo el trámite que apruebe la mayoría;
 
 IV.- Si el Presidente juzga necesario que algún asunto tenga amplia discusión o así lo pidiera alguno de los Magistrados o el Procurador, se reservará para el final del Acuerdo;
 
@@ -105,7 +105,7 @@ VIII.- Terminada la discusión se procederá a votar las proposiciones, comenzan
 
 IX.- Las votaciones serán económicas o en escrutinio secreto. En las primeras se expresará el voto verbalmente y en las segundas por cédula. Las votaciones serán en escrutinio secreto cuando se trate de elección de Presidente del Tribunal, nombramientos, imposición de sanciones por faltas oficiales de Magistrados y en los casos en que así lo estimare conveniente la mayoría de los miembros presentes en el Acuerdo. En los demás casos, serán económicas.
 
-En las votaciones por escrutinio secreto, cada Magistrado depositará una cédula conteniendo su voto en un recipiente que al efecto se habilite; concluido este acto el Secretario extraerá las cédulas una a una y leerá su contenido en voz alta. Hecho el cómputo, el Presidente declarará el resultado. Las cédulas en blanco se considerarán emitidas en favor de la proposición que reuniere mayor número de votos.
+En las votaciones por escrutinio secreto, cada Magistrado depositará una cédula conteniendo su voto en un recipiente que al efecto se habilite; concluido este acto, el Secretario extraerá las cédulas una a una y leerá su contenido en voz alta. Hecho el cómputo, el Presidente declarará el resultado. Las cédulas en blanco se considerarán emitidas en favor de la proposición que reuniere mayor número de votos.
 
 Sólo se hará constar en las actas donde se consignen las votaciones, el nombre del votante cuando así lo pida el interesado en el acto de hacerse el cómputo;
 
@@ -143,13 +143,13 @@ El Presidente atenderá los asuntos de su competencia a las horas del despacho o
 
 ###### ARTICULO 17.
 
-Los acuerdos que el Presidente tome conforme a las facultades que las leyes y este Reglamento le confiere, se harán en la forma siguiente:
+Los acuerdos que el Presidente tome conforme a las facultades que las leyes y este Reglamento le confieren, se harán en la forma siguiente:
 
 I.- Al margen de los escritos que los motiven, los de mero trámite;
 
 II.- Las resoluciones que pronuncie en los expedientes que de cada asunto que lo amerite forme el Secretario General, se agregarán a los mismos; y
 
-III.- Las disposiciones encaminadas a asegurar el buen orden de las Salas y los Juzgados a procurar la regularidad y prontitud en el despacho de la administración de justicia, así como todos aquellos otros que no sean de los comprendidos en los apartados anteriores de este artículo, se harán constar en acta que al efecto se levante.
+III.- Las disposiciones encaminadas a asegurar el buen orden de las Salas y los Juzgados, a procurar la regularidad y prontitud en el despacho de la administración de justicia, así como todos aquellos otros que no sean de los comprendidos en los apartados anteriores de este artículo, se harán constar en acta que al efecto se levante.
 
 ###### ARTICULO 18.
 
@@ -157,7 +157,7 @@ El turno a las Salas de Apelación se hará en formas especialmente impresas al 
 
 ###### ARTICULO 19.
 
-El Presidente o quien lo sustituya conforme a la ley, citará a un acuerdo Extraordinario en el caso que un Magistrado del Tribunal tome posesión del cargo.
+El Presidente o quien lo sustituya conforme a la ley, citará a un Acuerdo Extraordinario en el caso que un Magistrado del Tribunal tome posesión del cargo.
 
 ###### ARTICULO 20.
 
@@ -197,7 +197,7 @@ I.- Dar cuenta al Magistrado de la Sala respectiva en la forma y términos que d
 
 II.- Formar expedientes con los asuntos que se tramiten en la Sala, cuidando que estén debidamente cosidos, foliados y sellados;
 
-III.- Redactar las comunicaciones cuya firma corresponda al Magistrado de la Sala y redactar y firmar las que deban dirigirse al Secretario General, a los de las otras Salas, a los Jueces del Estado y los particulares;
+III.- Redactar las comunicaciones cuya firma corresponda al Magistrado de la Sala y redactar y firmar las que deban dirigirse al Secretario General, a los de las otras Salas, a los Jueces del Estado y a los particulares;
 
 IV.- Redactar las resoluciones de mero trámite, así como aquellas que el Magistrado de la Sala le encomiende;
 
@@ -255,7 +255,7 @@ En la formación de los expedientes, cuidará que los documentos y asuntos pueda
 
 VII.- Abrir y dar curso a la correspondencia que venga dirigida a él y la oficial para el Presidente y la del Pleno;
 
-VIII.- En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas, en forma equitativa, proporcional y oportuna, vigilando se respeten las prevenciones respectivas. Las formas en que se consigne el turno contendrán los siguientes datos: el nombre del tribunal de procedencia; el nombre de las partes, la clase de procedimiento; una relación sucinta de la resolución que deba ser revisada; en su caso, la fecha de interposición del recurso y el efecto en que se admitió; la designación de la Sala a que se turne, así como la fecha; y las firmas del Presidente y del Secretario General en el acuerdo del turno. El contenido de las formas podrá modificarse atendiendo a las necesidades del servicio;
+VIII.- En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas, en forma equitativa, proporcional y oportuna, vigilando se respeten las prevenciones respectivas. Las formas en que se consigne el turno contendrán los siguientes datos: el nombre del tribunal de procedencia; el nombre de las partes; la clase de procedimiento; una relación sucinta de la resolución que deba ser revisada; en su caso, la fecha de interposición del recurso y el efecto en que se admitió; la designación de la Sala a que se turne, así como la fecha; y las firmas del Presidente y del Secretario General en el acuerdo del turno. El contenido de las formas podrá modificarse atendiendo a las necesidades del servicio;
 
 IX.- Distribuir los trabajos de la Secretaría General entre los empleados de la misma, del modo que estime más conveniente;
 
@@ -327,13 +327,13 @@ Los encargados de las dependencias a que se refiere este Título, deberán poner
 
 ###### ARTICULO 33.
 
-Los usuarios serán responsables de los bienes que se les faciliten en comodato por las dependencias que regula este Título; quien los extravíe o dañe cubrirá su precio en los términos que fije el Presidente del Tribunal sin que por ello adquiera la propiedad del objeto, pagará además una multa por el equivalente de tres a diez días de salario, a juicio del mismo Funcionario.
+Los usuarios serán responsables de los bienes que se les faciliten en comodato por las dependencias que regula este Título; quien los extravíe o dañe cubrirá su precio en los términos que fije el Presidente del Tribunal, sin que por ello adquiera la propiedad del objeto, pagará además una multa por el equivalente de tres a diez días de salario, a juicio del mismo Funcionario.
 
 ### CAPITULO II. DEL ARCHIVO GENERAL
 
 ###### ARTICULO 34.
 
-Se depositarán en el Archivo General los documentos generados por las dependencias del Poder Judicial que el Pleno o el Presidente del Supremo Tribunal determinen de conformidad con la Ley Orgánica.
+Se depositarán en el Archivo General los documentos generados por las dependencias del Poder Judicial que el Pleno o el Presidente del Supremo Tribunal determinen, de conformidad con la Ley Orgánica.
 
 ###### ARTICULO 35.
 
@@ -345,11 +345,11 @@ No podrá extraerse documento alguno sin otorgar recibo. El Encargado del Archiv
 
 ###### ARTICULO 37.
 
-Durante los diez primeros años de archivada una pieza sólo las partes o sus representantes podrán consultarla, lo que se hará en el local del Archivo, previa autorización del Encargado. Después de ese tiempo, se permitirá la consulta a cualquiera que tenga algún interés atendible.
+Durante los diez primeros años de archivada una pieza, sólo las partes o sus representantes podrán consultarla, lo que se hará en el local del Archivo, previa autorización del Encargado. Después de ese tiempo, se permitirá la consulta a cualquiera que tenga algún interés atendible.
 
 ###### ARTICULO 38.
 
-Respecto al material archivado, sólo la autoridad que hubiere conocido del procedimiento que dio lugar a la formación de un expediente o la que legalmente la sustituya podrá autorizar la devolución de documentos que se encuentren en él o la expedición de copias certificadas de sus constancias.
+Respecto al material archivado, sólo la autoridad que hubiere conocido del procedimiento que dio lugar a la formación de un expediente o la que legalmente la sustituya, podrá autorizar la devolución de documentos que se encuentren en él o la expedición de copias certificadas de sus constancias.
 
 ###### ARTICULO 39.
 
@@ -367,9 +367,25 @@ Para la correcta clasificación del material que reciba el Archivo, las autorida
 
 ###### ARTICULO 40.
 
-El Encargado revisará el paquete al recibirlo y si la lista estuviere correcta, devolverá un ejemplar de la misma sellado y firmado. En caso que no fuera así, rechazará el envío haciendo notar el error, si hubiere oposición de parte del remitente, el Secretario General decidirá en forma verbal y definitiva lo que proceda.
+El Encargado revisará el paquete al recibirlo y si la lista estuviere correcta, devolverá un ejemplar de la misma sellado y firmado. En caso que no fuera así, rechazará el envío haciendo notar el error; si hubiere oposición de parte del remitente, el Secretario General decidirá en forma verbal y definitiva lo que proceda.
 
 El Encargado clasificará los paquetes recibidos y los colocará en el lugar que les corresponda atendiendo a su naturaleza o a las determinaciones del Pleno.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 40 BIS.- Cada año, o cuando así lo determine el Pleno, se procederá a la depuración del archivo general, siguiéndose para ello las siguientes reglas:
+
+I.- Todos los expedientes sujetos a archivo se conservarán inalterables por diez años y constituirán la sección de archivo vigente;
+
+II.- Transcurridos los diez años que antes se mencionan, el archivo será depurado para seleccionar aquellos expedientes que se caractericen por algún significado histórico, jurídico, político, social, económico o de otra naturaleza, mismos que integrarán la sección de archivo muerto y se conservarán indefinidamente, mientras que aquellos otros expedientes o documentos que sean descalificados, previa rigurosa selección y consecuente registro, serán incinerados o destruidos por los medios idóneos. Los expedientes y documentos referentes a juicios sucesorios, del estado civil de las personas y a la propiedad inmobiliaria, deberán conservarse siempre;
+
+III.- En cuanto a los documentos de las oficinas administrativas, el titular de las mismas, previa aprobación del Presidente, realizará la depuración cada vez que se estime necesario, sin atender a la antigüedad mencionada en las fracciones anteriores, exceptuando de tal depuración los expedientes relativos al Personal del Poder Judicial;
+
+IV.- El trabajo de estudio y clasificación que antes se detalla, se hará bajo la responsabilidad de una comisión designada por el Pleno, la que podrá auxiliarse de aquellas instituciones que cuenten con los elementos técnicos necesarios para tales fines;
+
+V.- La comisión antes señalada, podrá recomendar la conservación en microfilmación o algún otro sistema de registro, de aquellos expedientes o documentos que estime pertinente conservar;
+
+VI.- El Supremo Tribunal de Justicia dispondrá de los estudios resultantes del archivo judicial y en consecuencia le corresponderán los derechos de edición de cualquier publicación que se haga de ellos, pudiendo el Pleno acordar cosa distinta si a los intereses del Poder Judicial así conviene.
 
 ### CAPITULO III. DE LA BIBLIOTECA
 
@@ -381,13 +397,13 @@ I.- Elaborar tarjeteros donde se clasifique el acervo bibliográfico por materia
 
 II.- Elaborar tarjeteros que faciliten la utilización de los textos legales disponibles, así como sus enmiendas y antecedentes;
 
-III.- Recabar de la Legislatura que corresponda, copias de los debates y dictámenes que procedieron a la aprobación de los textos legales de importancia;
+III.- Recabar de la Legislatura que corresponda, copias de los debates y dictámenes que precedieron a la aprobación de los textos legales de importancia;
 
 IV.- Vigilar que se haga uso adecuado de las obras, estableciendo para ello los controles necesarios;
 
 V.- Elaborar y distribuir entre Magistrados y Jueces, un boletín mensual que contenga las novedades legislativas, jurisprudenciales y bibliográficas;
 
-VI.- Contratar servicios de suscripción a las revistas y ediciones especializadas en Derecho del País;
+VI.- Contratar servicios de suscripción a las revistas y ediciones especializadas en Derecho, del País;
 
 VII.- Recabar catálogos de las bibliotecas jurídicas más importantes de la ciudad; y
 
@@ -439,7 +455,7 @@ En los días hábiles, el horario de despacho de los Defensores iniciará a las 
 
 ###### ARTICULO 52.
 
-Los Jueces y Secretarios que ordenen asentar o asienten falsamente que estuvo presente en alguna diligencia el Defensor de Oficio, incurrirán en responsabilidades por falta de probidad y honradez.
+Los Jueces y Secretarios que ordenen asentar o asienten falsamente que estuvo presente en alguna diligencia el Defensor de Oficio, incurrirán en responsabilidad por falta de probidad y honradez.
 
 ### CAPITULO V. DE LA OFICIALIA DE TURNOS A LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -461,7 +477,7 @@ Para el conocimiento de los interesados, inmediatamente después de la realizaci
 
 ###### ARTICULO 57.
 
-Cuando un Juez deje de conocer de algún asunto y lo remita para su conocimiento a otro del mismo distrito y materia, enviará copia del oficio de remisión al Encargado de la Oficialía de turnos para que tome las medidas necesarias a fin de mantener equitativa la distribución de los asuntos. Cuando en un juzgado se interponga una tercería excluyente, el Juez remitirá oficio al Encargado de la Oficialía para esos mismos efectos.
+Cuando un Juez deje de conocer de algún asunto y lo remita para su conocimiento a otro del mismo distrito y materia, enviará copia del oficio de remisión al Encargado de la Oficialía de Turnos para que tome las medidas necesarias a fin de mantener equitativa la distribución de los asuntos. Cuando en un juzgado se interponga una tercería excluyente, el Juez remitirá oficio al Encargado de la Oficialía para esos mismos efectos.
 
 Los Jueces comunicarán a la Oficialía de Turnos, mediante oficio y con los datos necesarios, otros aspectos modificantes del turno, a fin de mantener la equidad en la distribución de asuntos.
 
@@ -471,7 +487,7 @@ Al recibir las promociones, el Encargado o dependiente, devolverá debidamente s
 
 ###### ARTICULO 59.
 
-Los asuntos que se reciban por la Oficialía de turnos deberán turnarse a los juzgados a más tardar dentro de la primera hora de labores del día hábil siguiente al de su recepción; pero tratándose de asuntos urgentes que el Encargado calificará bajo su responsabilidad, la remisión se hará inmediatamente.
+Los asuntos que se reciban por la Oficialía de Turnos deberán turnarse a los juzgados a más tardar dentro de la primera hora de labores del día hábil siguiente al de su recepción; pero tratándose de asuntos urgentes que el Encargado calificará bajo su responsabilidad, la remisión se hará inmediatamente.
 
 ###### ARTICULO 60.
 
@@ -521,7 +537,7 @@ El Pleno acordará la formación de comisiones integradas por Magistrados, con o
 
 ###### ARTICULO 70.
 
-Los cheques o título que expida el Encargado del Fondo deberán suscribirse por el Encargado e indistintamente por el Secretario General, Oficial Mayor o algún Secretario Adscrito a la Presidencia, según acuerdo del Presidente.
+Los cheques o títulos que expida el Encargado del Fondo deberán suscribirse por el Encargado e indistintamente por el Secretario General, Oficial Mayor o algún Secretario Adscrito a la Presidencia, según acuerdo del Presidente.
 
 ###### ARTICULO 71.
 
@@ -559,7 +575,7 @@ El Pleno establecerá Servicio de Fotocopiado en los lugares que estime convenie
 
 ###### ARTICULO 74.
 
-El Presidente del Tribunal y por delegación suya el Secretario General tendrán las siguientes atribuciones en cada uno de los Departamentos de Fotocopiado:
+El Presidente del Tribunal y por delegación suya el Secretario General, tendrán las siguientes atribuciones en cada uno de los Departamentos de Fotocopiado:
 
 I.- Dictar las disposiciones administrativas generales o concretas a que deba sujetarse el personal;
 
@@ -603,7 +619,7 @@ II.- Gratuitamente, cuando el recurrente sea el Defensor de Oficio en asuntos pe
 
 ###### ARTICULO 78.
 
-Cuando el Presidente del Tribunal o los Magistrados lo consideren conveniente; se expedirán copias sin cargo alguno.
+Cuando el Presidente del Tribunal o los Magistrados lo consideren conveniente, se expedirán copias sin cargo alguno.
 
 ## TITULO CUARTO. DE LOS JUZGADOS DEL ESTADO
 
@@ -681,7 +697,7 @@ XV.- Proporcionar dentro de las horas del despacho a quienes tengan derecho a co
 
 XVI.- Ejercer, bajo su más estricta responsabilidad, por sí o por conducto de los empleados subalternos, la vigilancia que sea necesaria en la oficina con el fin de evitar la pérdida, deterioro o mutilación de los expedientes y documentación en general;
 
-XVII.- Entregar al Notificador los expedientes para la notificación personal o pendientes de diligenciar, cuando deban hacerse fuera del juzgado, cuidando que sean devueltos oportunamente, para lo cual llevará el libro correspondiente;
+XVII.- Entregar al Notificador los expedientes para notificación personal o pendientes de diligenciar, cuando deban hacerse fuera del juzgado, cuidando que sean devueltos oportunamente, para lo cual llevará el libro correspondiente;
 
 XVIII.- Hacer a las partes las notificaciones personales en los juicios que se ventilen, en los términos que señale la ley;
 
@@ -919,13 +935,13 @@ La concesión de una licencia con goce de sueldo se comunicará al Ejecutivo del
 
 ###### ARTICULO 108.
 
-Las licencias cuando se originen por causa de enfermedad, deberán solicitarse por escrito con la anticipación señalada en la Ley Orgánica.
+Las licencias cuando no se originen por causa de enfermedad, deberán solicitarse por escrito con la anticipación señalada en la Ley Orgánica.
 
 En casos de urgencia, a juicio de la autoridad otorgante, podrán dispensarse los requisitos exigidos para solicitarla, sin perjuicio de que a la brevedad se le dé la forma escrita.
 
 ###### ARTICULO 109.
 
-A fin de garantizar la continuidad del servicio público que presta el Poder Judicial y el buen despacho de los asuntos, al acordar las peticiones de licencia la autoridad otorgante examinará discrecionalmente la oportunidad y necesidad de ella, así como su duración, para lo cual el interesado, en su escrito de solicitud, señalará las razones que fundamenten su petición. La autoridad podrá allegarse de manera diversa la información que juzgue necesaria para resolver.
+A fin de garantizar la continuidad del servicio público que presta el Poder Judicial y el buen despacho de los asuntos, al acordar las peticiones de licencia, la autoridad otorgante examinará discrecionalmente la oportunidad y necesidad de ella, así como su duración, para lo cual el interesado, en su escrito de solicitud, señalará las razones que fundamenten su petición. La autoridad podrá allegarse de manera diversa la información que juzgue necesaria para resolver.
 
 Para determinar la duración máxima que puede tener una licencia, se atenderá a las siguientes reglas:
 
@@ -947,7 +963,7 @@ La resolución que conceda o niegue una licencia no admitirá recurso alguno.
 
 ###### ARTICULO 111.
 
-El Poder Judicial otorgará beneficios especiales a funcionarios o empleados que se distingan por su eficiencia, puntualidad, honradez, constancia, y servicios relevantes en el desempeño de su labor.
+El Poder Judicial otorgará beneficios especiales a funcionarios o empleados que se distingan por su eficiencia, puntualidad, honradez, constancia y servicios relevantes en el desempeño de su labor.
 
 Los beneficios especiales pueden ser:
 
@@ -989,7 +1005,7 @@ Se otorgarán anualmente hasta seis días de descanso extraordinario por el supe
 
 Los estímulos económicos anuales que autorice el presupuesto, se otorgarán al finalizar el año a los funcionarios o empleados que se hayan distinguido de manera extraordinaria en el desempeño de sus labores.
 
-El Pleno será la autoridad que podrá conceder estímulos económicos para lo cual, dentro del mes de noviembre de cada año, los titulares de las dependencias judiciales del Estado podrán proponer, por escrito presentado al Secretario General, a un funcionario o empleado de su dependencia, señalando las consideraciones que fundamentan su propuesta. El Pleno podrá recabar la información que juzgue necesaria a fin de tomar una resolución en cuanto al otorgamiento y monto del estímulo.
+El Pleno será la autoridad que podrá conceder estímulos económicos, para lo cual, dentro del mes de noviembre de cada año, los titulares de las dependencias judiciales del Estado podrán proponer, por escrito presentado al Secretario General, a un funcionario o empleado de su dependencia, señalando las consideraciones que fundamentan su propuesta. El Pleno podrá recabar la información que juzgue necesaria a fin de tomar una resolución en cuanto al otorgamiento y monto del estímulo.
 
 ###### ARTICULO 116.
 
@@ -1005,7 +1021,7 @@ El Pleno acordará la forma en que los distritos y regiones del Estado se distri
 
 ###### ARTICULO 118.
 
-Las visitas serán generales o especiales. Las generales comprenderán la inspección de todo lo relativo al régimen administrativo interior de la dependencia, así como al rápido y adecuado seguimiento de los procedimientos judiciales si se trata de tribunales, o de la función correspondiente si se trata de dependencias administrativas, la revisión se extenderá a todas las áreas de la dependencia. En el caso de las visitas a los juzgados penales, incluirán también la entrevista del Visitador con los detenidos cuyo proceso se encuentre en trámite.
+Las visitas serán generales o especiales. Las generales comprenderán la inspección de todo lo relativo al régimen administrativo interior de la dependencia, así como al rápido y adecuado seguimiento de los procedimientos judiciales si se trata de tribunales, o de la función correspondiente si se trata de dependencias administrativas; la revisión se extenderá a todas las áreas de la dependencia. En el caso de las visitas a los juzgados penales, incluirán también la entrevista del Visitador con los detenidos cuyo proceso se encuentre en trámite.
 
 Las visitas especiales versarán sobre el negocio determinado para el cual se ordenaron, sin perjuicio de que, si lo estima conveniente, el Visitador pueda extenderse a otros asuntos o áreas.
 
@@ -1021,7 +1037,7 @@ En los documentos, registros o actuaciones revisadas, el Visitador pondrá al pi
 
 ###### ARTICULO 121.
 
-Tan pronto como el Visitador se encuentre en el lugar correspondiente exigirá del Secretario o del Encargado las llaves de los estantes o lugares donde se guarden los documentos, registros o actuaciones; proveerá lo que corresponda para garantizar la custodia y seguridad del material no inspeccionado, sin perjuicio de facilitar el curso de los negocios, especialmente en lo relativo a las causas penales con persona privada de libertad.
+Tan pronto como el Visitador se encuentre en el lugar correspondiente, exigirá del Secretario o del Encargado las llaves de los estantes o lugares donde se guarden los documentos, registros o actuaciones; proveerá lo que corresponda para garantizar la custodia y seguridad del material no inspeccionado, sin perjuicio de facilitar el curso de los negocios, especialmente en lo relativo a las causas penales con persona privada de libertad.
 
 ###### ARTICULO 122.
 
@@ -1053,7 +1069,7 @@ El Pleno acordará lo que estime pertinente a fin de estudiar y resolver adecuad
 
 PRIMERO.- La vigencia de este Reglamento iniciará a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- En los términos del artículo tercero transitorio de la Ley Orgánica del Poder Judicial, con la expedición y entrada en vigor a este Reglamento quedan sin efecto el Reglamento Interior del Supremo Tribunal de Justicia de mil novecientos treinta y cuatro y el Reglamento Para los Juzgados de Primera Instancia, Menores y de Paz de mil novecientos cuarenta y seis, así como las disposiciones que emitidas por el Pleno con anterioridad, se opongan a este Reglamento.
+SEGUNDO.- En los términos del artículo tercero transitorio de la Ley Orgánica del Poder Judicial, con la expedición y entrada en vigor de este Reglamento quedan sin efecto el Reglamento Interior del Supremo Tribunal de Justicia de mil novecientos treinta y cuatro y el Reglamento Para los Juzgados de Primera Instancia, Menores y de Paz de mil novecientos cuarenta y seis, así como las disposiciones que emitidas por el Pleno con anterioridad, se opongan a este Reglamento.
 
 TERCERO.- A los procedimientos que se encuentren en trámite al momento de iniciar la vigencia de este Reglamento, se les aplicarán y resolverán conforme las disposiciones del mismo.
 
@@ -1068,3 +1084,11 @@ Lic. Marco Aurelio Mendoza Gómez.
 El Secretario General del Supremo Tribunal de Justicia.
 
 Lic. René Chacón González.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE NOVIEMBRE DE 2001.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NÚMERO 5 TOMADO EN SESIÓN PLENARIA EL 14 DE AGOSTO DE 2000, SE ACORDÓ EL PROYECTO DE REFORMA AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL, ADICIONANDO EL ARTÍCULO 40 BIS".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.]</small>
