@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-de-proteccion-ciudadana-del-estado-2804"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-01"
-last_updated: "2001-02-12"
+last_updated: "2002-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA DE PROTECCION CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 14 DE OCTUBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 1 de mayo de 1994.
 
@@ -740,3 +742,27 @@ P.O. 12 DE FEBRERO DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
+
+P.O. 14 DE OCTUBRE DE 2002.
+
+PRIMERO. Se abroga la Ley de la Procuraduría de Protección Ciudadana, publicada en el Periódico Oficial del Estado el primero de mayo de 1994.
+
+SEGUNDO. La presente Ley entrará en vigor el quince de enero del año 2003, tomando en consideración que el presente ejercicio fiscal se encuentra transcurrido en más de la mitad, resultando con ello insuficientes los recursos financieros existentes para el cabal desempeño de las atribuciones
+
+conferidas a la Comisión de Derechos Humanos del Estado de Aguascalientes, por lo que, en el ejercicio fiscal del 2003 deberán programarse los recursos suficientes para su pleno funcionamiento.
+
+TERCERO. El Reglamento Interior de la Comisión, deberá ser aprobado por el Consejo de ésta, dentro de los noventa días hábiles siguientes a la publicación de esta Ley.
+
+CUARTO. Los recursos humanos, materiales y presupuestales con que actualmente cuenta la Procuraduría de Protección Ciudadana, pasarán a
+
+formar parte de la Comisión Estatal de Derechos Humanos de Aguascalientes como órgano autónomo que se crea con esta reforma, preservándose los derechos adquiridos de los trabajadores de la Procuraduría.
+
+Los actuales funcionarios de la Procuraduría de Protección Ciudadana, permanecerán en sus cargos, mientras no sean expresamente separados de ellos por su titular, que será el Presidente Defensor de la Comisión.
+
+QUINTO. El actual Procurador de Protección Ciudadana continuará en el ejercicio de sus funciones como Defensor Presidente Estatal de Derechos Humanos de Aguascalientes, por el término establecido en la Ley de Protección Ciudadana del Estado de Aguascalientes que se abroga.
+
+SEXTO. La sustitución a que se refiere el párrafo segundo del Artículo 4° de la presente Ley, para el caso del primer Consejo que se instale en los términos de la presente Ley, se realizará conforme al consejero que tenga mayor edad.
+
+SEPTIMO. A partir de la vigencia de esta Ley, el Congreso del Estado tomará las providencias del caso para el buen funcionamiento del organismo
+
+que se crea.
