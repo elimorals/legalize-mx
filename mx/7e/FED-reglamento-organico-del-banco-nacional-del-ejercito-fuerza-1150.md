@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-del-ejercito-fuerza-1150
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "1992-11-06"
+last_updated: "1994-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGANICO DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 1994.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -71,15 +71,13 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 7o.
 
-El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo es de $ 103,184'000,000.00 (ciento tres mil ciento ochenta y cuatro millones de pesos 00/100).
+El Capital Social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo es de N$119'000,000.00 (ciento diecinueve millones de nuevos pesos 00/100 M.N.). Dicho Capital Social estará representado por 785,400 (setecientos ochenta y cinco mil cuatrocientos) certificados de aportación patrimonial de la Serie "A", con valor nominal de N$100.00 (cien nuevos pesos 00/100 M.N.) cada uno, y por 404,600 (cuatrocientos cuatro mil seiscientos) certificados de aportación patrimonial de la Serie "B" nominativos, con valor nominal de N$100.00 (cien nuevos pesos 00/100 M.N.) cada uno.
 
-Dicho capital social estará representado por 681,020 (seiscientos ochenta y un mil veinte) certificados de aportación patrimonial de la Serie "A", con valor nominal de $ 100,000.00 (cien mil pesos 00/100 M.N.) cada uno, y por 350,820 (trescientos cincuenta mil ochocientos veinte) certificados de aportación patrimonial de la Serie "B" nominativos, con valor nominal de $ 100,000.00 (cien mil pesos 00/100 M.N.) cada uno.
-
-El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este reglamento.
+El Capital Social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, por Acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
 
 ###### ARTICULO 8o.
 
@@ -400,3 +398,7 @@ UNICO.- El presente Acuerdo, entrará en vigor el día siguiente al de su public
 D.O.F. 6 DE NOVIEMBRE DE 1992.
 
 UNICO.- El presente acuerdo, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MARZO DE 1994.
+
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
