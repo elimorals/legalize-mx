@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-otorgar-financiamiento-publico-por-16634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-31"
-last_updated: "2000-05-31"
+last_updated: "2004-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ROO"
 ---
 # REGLAMENTO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECIFICAS A LOS PARTIDOS POLITICOS COMO ENTIDADES DE INTERES PUBLICO
 
-REGLAMENTO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECIFICAS A LOS PARTIDOS POLITICOS COMO ENTIDADES DE INTERES PUBLICO
+REGLAMENTO PARA OTORGAR FINANCIAMIENTO PUBLICO POR ACTIVIDADES ESPECÍFICAS A LOS PARTIDOS POLÍTICOS COMO ENTIDADES DE INTERÉS PÚBLICO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DE QUINTANA ROO PARA OTORGAR FINANCIAMIENTO PÚBLICO POR ACTIVIDADES ESPECÍFICAS A LOS PARTIDOS POLÍTICOS COMO ENTIDADES DE INTERÉS PÚBLICO, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 31 de mayo de 2000.
 
@@ -335,3 +337,17 @@ INSTRUCTIVO DE LLENADO
 19. Ejercicio.- Anotarán el ejercicio al que correspondió (año).
 
 20. La firma de autorización corresponde a la de la persona facultada de acuerdo al manual de operaciones financieras del Partido.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento para el Financiamiento a Partidos Políticos por Actividades Específicas.
+
+TERCERO.- La fiscalización a los recursos erogados por concepto de actividades específicas por los partidos políticos, durante el ejercicio 2004, se llevará a cabo conforme a lo dispuesto por el Reglamento para el Financiamiento a Partidos Políticos por Actividades Especificas que se abroga.
+
+CUARTO.- Publíquese en los estrados del Instituto Electoral de Quintana Roo, para su debida difusión y conocimiento público.
+
+QUINTO.- Difúndase públicamente en la página oficial de Internet del Instituto Electoral de Quintana Roo.
