@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-18473"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-14"
-last_updated: "2000-07-14"
+last_updated: "2000-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de julio de 2000.
 
@@ -141,9 +141,11 @@ XXI.- Brindar al Presidente Municipal y a su familia protección a su integridad
 
 XXII.- Las demás que le asignen Leyes y Reglamentos y el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Art. 12º.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Policía Preventiva Municipal de Monterrey, se auxiliará con la Coordinación Administrativa, la Técnica, la Operativa y la Jurídica, Jefes y Sub-Jefes de Departamento, en cada una de las Delegaciones., así como con los Jueces Calificadores.
+Para el despacho de los asuntos de su competencia el Secretario de la Policía Preventiva Municipal de Monterrey, se auxiliará con las Direcciones: Administrativa, Operativa y de Reclusorio; así como los Subdirectores, Coordinadores, Jefes de Departamento y Jueces Calificadores.
 
 ###### Art. 13º.
 
@@ -670,3 +672,9 @@ C.P. Jesús María Elizondo González.
 El C. Secretario del R. Ayuntamiento
 
 Lic. Arnulfo Flores Rodríguez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2000.
+
+LA REFORMA CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
