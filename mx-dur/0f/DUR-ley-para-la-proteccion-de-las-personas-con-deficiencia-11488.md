@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-las-personas-con-deficiencia-11488"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-25"
-last_updated: "1993-11-25"
+last_updated: "1997-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PROTECCION DE LAS PERSONAS CON DEFICIENCIA MENTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 25 de noviembre de 1993.
 
@@ -63,27 +63,27 @@ Esta Ley tiene por objeto la protección de las personas con deficiencia mental 
 
 Para los efectos de la presente Ley, se entiende por "deficiente mental" a toda persona que, por una lesión cerebral causada durante el desarrollo en la época prenatal, natal o en los primeros años de vida, queda impedida en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica. Esta limitación implica diversos niveles de conciencia e inteligencia, que estarán correlacionados proporcionalmente con el grado de lesión.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 4o.
 
-Mediante esta Ley se crea la Procuraduría Estatal de Protección al Deficiente Mental, que estará dirigida por un Procurador nombrado al efecto por el C. Gobernador de la Entidad. Esta Procuraduría pertenecerá al sector encabezado por la Secretaría de Educación, Cultura y Deporte.
+Mediante esta Ley se crea la Procuraduría Estatal de Protección al Deficiente Mental, que estará dirigida por un Procurador nombrado por el Gobernador del Estado; esta Procuraduría funcionará conforme a su Reglamento.
 
 ###### ARTICULO 5o.
 
 La Procuraduría a la que se refiere el artículo anterior, será un organismo descentralizado, de servicio social, con personalidad jurídica y patrimonio propios y con funciones de autoridad administrativa, encargada de promover y proteger los derechos e intereses del deficiente metal mediante el ejercicio de las atribuciones y obligaciones que le confiere la presente Ley y las demás disposiciones que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 6o.
 
-Para el mejor funcionamiento de la Procuraduría Estatal de Protección al Deficiente Mental, se constituirán un Patronato de apoyo a la misma que estará presidido permanentemente por la Presidenta del Sistema para el Desarrollo Integral de la Familia en el Estado de Durango e integrado por el Secretario General de Gobierno; el Secretarío de Educación, Cultura y Deporte; el Secretario de Salud; el Presidente del H. Supremo Tribunal de Justicia; el Director del Trabajo y Previsión Social del Estado; por representantes de las Asociaciones y Sociedades de Padres de Familia; por representantes del sector privado y como Secretario técnico del Patronato, el Director Estatal del D.I.F.
+Para el mejor funcionamiento de la Procuraduría Estatal de Protección al Deficiente Mental, se constituirán una Junta de Gobierno y un Patronato de apoyo a la misma. La Junta de Gobierno estará integrada por el Ejecutivo del Estado, el Presidente del Tribunal Superior de Justicia en la entidad y el Presidente del Congreso del Estado. El Patronato estará integrado por el Presidente Estatal del Sistema para el Desarrollo Integral de la Familia; los Secretarios de Finanzas y de Administración, de Salud, de Educación, Cultura y Deporte, de la Contraloría Estatal; la Dirección de Trabajo y Previsión Social del Estado, y por asociaciones y sociedades de padres de familia de deficientes mentales.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 7o.
 
-Las funciones del Patronato, además de las que prevea su propio Reglamento, serán:
-
-I.- Coordinar la elaboración de los planes y programas, para la prevención y atención de la deficiencia mental;
-
-II.- Supervisar y evaluar la correcta ejecución y seguimiento de los planes y programas; y
-
-III.- Vigilar la administración del presupuesto de la Procuraduría de Protección al Deficiente Mental.
+Las funciones, tanto de la Junta de Gobierno, como del Patronato de Apoyo a la Procuraduría Estatal de Protección a las Personas con Deficiencia Mental, serán las que determine el Reglamento de la Procuraduría.
 
 ###### ARTICULO 8o.
 
@@ -93,81 +93,95 @@ El domicilio de la Procuraduría a que se refiere el artículo cuarto de la pres
 
 Para los efectos del artículo anterior, serán coadyuvantes de la Procuraduría, toda clase de autoridades estatales y municipales, así como las organizaciones de Asociaciones de Padres de Familia de Deficientes Mentales, de acuerdo con lo que dispongan sus reglamentos respectivos y las leyes que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 10o.
 
-La Procuraduría Estatal de Protección al Deficiente Mental, además de las atribuciones que le confiera su propia Ley Orgánica, tendrá las siguientes:
+la Procuraduría Estatal de Protección a las Personas con Deficiencia Mental, además de las atribuciones que le confiera su Reglamento, tendrá las siguientes:
 
-I.- Representar los intereses del deficiente mental ante toda clase de autoridades administrativas, mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan, orientadas a proteger al deficiente mental;
+I.- Ser garante para la protección del deficiente mental cuando se lesionen sus derechos humanos, en cualquier circunstancia;
 
-II.- Nombrar a los integrantes de los Comités Técnicos Interdisciplinarios a los que se refieren los artículos del 11o al 13o de la presente Ley;
+II.- Representar los intereses del deficiente mental ante toda clase de autoridades administrativas, mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan, orientadas a proteger al deficiente mental;
 
-III.- Cumplir con los dictámenes emitidos por los Comités Técnicos Interdisciplinarios;
+III.- Nombrar a los integrantes de los Comités Técnicos Interdisciplinarios a los que se refieren los artículos 11, 12 y 13 de la presente Ley;
 
-IV.- Representar al deficiente mental ante entidades y organismos públicos o privados;
+IV.- Cumplir con los dictámenes emitidos por los Comités Técnicos Interdisciplinarios;
 
-V.- Representar al Deficiente Mental ante autoridades jurisdiccionales, cuando a juicio de la Procuraduría, la solución que pueda darse al caso planteado requiera su intervención;
+V.- Iniciar ante los Tribunales del fuero común correspondientes, los juicios de interdicción fundamentados en los dictámenes emitidos por los Comités Técnicos Interdisciplinarios que la presente Ley prevé;
 
-VI.- Estudiar y proponer medidas encaminadas a alcanzar la igualdad y la seguridad jurídica que establece el marco de garantías de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Durango;
+VI.- Representar al deficiente mental ante entidades y organismos públicos o privados;
 
-VII.- Proponer, por conducto del Titular del Poder Ejecutivo del Estado, las iniciativas de Ley que reformen o adicionen los Códigos Civil y Penal, que de conformidad con la presente, se relacionen con los derechos y responsabilidades de las personas con deficiencia mental;
+VII.- Representar al deficiente mental ante autoridades jurisdiccionales, cuando a juicio de la Procuraduría, la solución que pueda darse al caso planteado requiera su intervención;
 
-VIII.- Proporcionar asesoría gratuita a los familiares del deficiente mental o a quien legalmente lo represente;
+VIII.- Estudiar y proponer medidas encaminadas a alcanzar la igualdad y la seguridad jurídica que establece el marco de garantías de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Durango;
 
-IX.- Ejercer, con el auxilio y participación de las autoridades municipales, las funciones de vigilancia para el mejor cumplimiento de la presente Ley y denunciar ante la Representación Social el incumplimiento de la misma;
+IX.- Proponer por conducto del Titular del Poder Ejecutivo del Estado, las iniciativas de la Ley que reformen o adicionen los Códigos Civil, Penal y de Procedimientos respectivos que de conformidad con la presente Ley, se relacionen con los derechos y responsabilidades de las personas con deficiencia mental;
 
-X.- Iniciar ante los Tribunales del fuero común correspondientes, los Juicios de Interdicción fundamentados en los dictámenes emitidos por los Comités Técnicos Interdisciplinarios que la presente Ley prevee;
+X.- Proponer al Ejecutivo del Estado, el presupuesto del ejercicio del año inmediato posterior;
 
-XI.- Denunciar ante el Ministerio Público los hechos que lleguen a su conocimiento y que pudieran ser constitutivos de delito en contra de algún deficiente mental, y convertirse en coadyuvante del Ministerio Público;
+XI.- Proporcionar asesoría gratuita a los familiares del deficiente mental o a quien legalmente lo represente;
 
-XII.- Defender al deficiente mental ante las autoridades judiciales, cuando lo pretendan enjuiciar penalmente sin haber tomado en cuenta su condición de deficiente mental como excluyente o atenuante de responsabilidad;
+XII.- Ejercer, con el auxilio y participación de las autoridades municipales, las funciones de vigilancia para el mejor cumplimiento de la presente Ley y denunciar ante la Representación Social el incumplimiento de la misma;
 
-XIII.- Exigir a las autoridades educativas, de salud o a cualquier otra autoridad competente que tome las medidas correspondientes para prevenir la deficiencia mental, así como detectar, ubicar y tratar en forma adecuada al deficiente mental;
+XIII.- Denunciar ante el Ministerio Público, los hechos que lleguen a su conocimiento y que pudieran ser constitutivos de delito en contra de algún deficiente mental y convertirse en coadyuvante del Ministerio Público;
 
-XIV.- Constituir y coordinar un Centro Estatal de Investigación e Información sobre la Deficiencia Mental, de conformidad con lo establecido por el Artículo 14o. de la presente Ley;
+XIV.- Defender al deficiente mental ante las autoridades judiciales, cuando lo pretendan enjuiciar penalmente sin haber tomado en cuenta su condición de deficiente mental como excluyente o atenuante de responsabilidad;
 
-XV.- Crear, organizar y actualizar el censo permanente de deficientes mentales en toda la entidad;
+XV.- Gestionar y colaborar con las autoridades de salud o cualquier otra autoridad competente, para que tome las medidas correspondientes e implemente programas especiales para prevenir y atender la deficiencia mental, así como detectar, ubicar y tratar en forma adecuada al deficiente mental y dar a cada caso el seguimiento correspondiente;
 
-XVI.- Promover la expedición de reglamentos, tanto estatales como municipales, que permitan la correcta aplicación de la presente Ley; y
+XVI.- Coordinar las actividades del Centro Estatal de Información sobre la Deficiencia Mental al que se refiere el artículo 14 de la presente Ley;
 
-XVII.- En general, velar en la esfera de su competencia por el cumplimiento de esta Ley y las demás disposiciones que de ella emanen.
+XVII.- Crear, organizar y actualizar el censo permanente de deficientes mentales en toda la entidad;
+
+XVIII.- Promover la expedición de documentos normativos tanto estatales como municipales, que faciliten la correcta aplicación de la presente Ley; y
+
+XIX.- En general, velar en la esfera de su competencia por el cumplimiento de esta Ley y las demás disposiciones derivadas de ella.
 
 ###### ARTICULO 11o.
 
 El Procurador de Protección al deficiente mental nombrará a los integrantes de los Comités Técnicos Interdisciplinarios, a los que se refiere el siguiente artículo, tanto en la ciudad de Durango como en los Municipios cuyas características lo permitan.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 12o.
 
-Para la ubicación y el trato del deficiente mental, se tendrá que conocer el dictámen que emitan los Comités Técnicos Interdisciplinarios, a los que se refiere el artículo anterior, que estarán integrados por un médico, un psicólogo, un profesor de la especialidad y un licenciado en Derecho; salvo este último, los demás deberán contar con un mínimo de cinco años de experiencia en el tratamiento de la deficiencia mental y cuyo resultado determinará los siguientes aspectos:
+Para la ubicación y el trato del deficiente mental, se tendrá que conocer el dictamen que emitan los Comités Técnicos Interdisciplinarios, a los que se refiere el artículo anterior, que estarán integrados por un médico, un psicólogo, un maestro especialista en deficiencia mental, un Trabajador Social y un Licenciado en Derecho; salvo estos dos últimos, los demás deberán contar con un mínimo de cinco años de experiencia en el tratamiento de la deficiencia mental y cuyo resultado determinará los siguientes aspectos:
 
 Médico: La alteración en el desarrollo y maduración de las estructuras cerebrales que participan en el aprendizaje.
 
-Psicológico: La disminución de la capacidad intelectual y la habilidad para resolver problemas acordes a su edad cronológica.
+Psicólogo: La disminución de la capacidad intelectual y la habilidad para resolver problemas acordes a su edad cronológica.
 
-Pedagógico: La incapacidad de aprendizaje y comprensión, acorde a su edad cronológica.
+Social: Los datos y aspectos familiares y sociales que permitan encuadrar adecuadamente el ambiente que rodea al deficiente mental.
 
 Jurídico: El tipo de protección legal que requiera el deficiente mental, de conformidad con las leyes existentes, o en su caso, señalar el posible grado de responsabilidad civil o penal a que pueda estar sujeto.
 
 En todos los casos, los integrantes de los Comités deberán ser de reconocida solvencia moral y no podrán percibir estipendio o gratificación alguna por los dictámenes que al efecto emitan.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 13o.
 
-El Comité Técnico dará a conocer:
+Los Comités Técnicos, dictaminarán sobre:
 
 I.- Si el sujeto es o no deficiente mental;
 
 II.- En el caso de ser afirmativo, el perfil de la incapacidad intelectual derivado de la alteración en el aprendizaje;
 
-III.- La delimitación del posible grado de responsabilidad jurídica en todos sus órdenes; y
+III.- La delimitación del posible grado de responsabilidad jurídica en todos sus ordenes; y
 
-IV.- Las acciones idóneas a tomar, según el caso.
+IV.- Las acciones pertinentes a tomar, según el caso.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 14o.
 
-Para el mejor proveer de esta Ley, la Procuraduría creará un Centro Estatal de Investigación e Información sobre la deficiencia mental, en todos sus órdenes.
+Para el debido y eficiente cumplimiento de esta Ley, la Procuraduría creará un Centro Estatal de Información sobre la deficiencia mental, en todos sus aspectos.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 15o.
 
-La Secretaría de Salud del Estado, establecerá Centros de Diagnóstico a nivel prenatal, natal y postnatal para la detección temprana de la deficiencia mental. En estos Centros se informará y orientará a los padres de familia o a los representantes legales del deficiente mental sobre: El diagnóstico; la remisión a los centros apropiados según el caso; y los lineamientos específicos de manejo integral para cada paciente, incluyendo el consejo genético.
+La Secretaría de Salud del Estado, establecerá centros para el diagnóstico a nivel prenatal, natal y postnatal para la detección temprana para la deficiencia mental. La propia Secretaría informará y orientará a los padres de familia o a los representantes legales del deficiente mental, sobre: El diagnóstico; la canalización a los centros apropiados, según el caso; y los lineamientos específicos de manejo integral para cada paciente, incluyendo el consejo genético.
 
 ###### ARTICULO 16o.
 
@@ -183,17 +197,21 @@ La educación que se imparta al deficiente mental por la Entidad y sus Municipio
 
 El Gobierno del Estado de Durango, a través de sus Secretarías de Educación, Cultura y Deporte y de Salud, proporcionará un Programa de Atención Temprana a los niños de alto riesgo y lesión establecida. Así mismo brindará orientación y capacitación a la familia para que se lleve a cabo dicho Programa que deberá aplicarse a partir de su detección.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 19o.
 
-De conformidad con lo que establece esta Ley, la Secretaría de Educación, Cultura y Deporte del Estado, tomando en cuenta el grado de dificiencia, impartirá la educación que corresponda, en escuelas de educación especial, públicas o privadas, donde se fomentará la sociabilidad y habilidad a través de la iniciación de talleres y la capacidad de expresión en todas sus formas.
+De conformidad con lo que establece esta Ley, la Secretaría de Educación, Cultura y Deporte del Estado, a fin de apoyar el desarrollo integral de los educandos con deficiencia mental, complementará su educación creando proyectos especiales para fomentar la sociabilidad, la adquisición de habilidades y destrezas y desarrollar la capacidad de expresión en todas sus formas, mediante la iniciación de talleres.
 
 ###### ARTICULO 20o.
 
 Corresponde a la Secretaría de Educación, Cultura y Deporte del Estado, promover la creación de Centros Especiales de Capacitación para Deficientes Mentales.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 21o.
 
-La capacitación, a que se refiere el artículo anterior, deberá ser impartida por profesores especialistas en deficiencia mental y por personal calificado en diversos oficios y técnicas de trabajo, conocedor de la problemática del deficiente mental, cuyo objetivo consistirá en integrarlo a industrias comunes o protegidas. Esta capacitación será la continuación de la formación recibida en el nivel básico.
+La capacitación a que se refiere el artículo anterior, deberá ser impartida por maestros especialistas en deficiencia mental y por personal calificado en diversas actividades, oficios y técnicas de trabajo, conocedor de la problemática del deficiente mental, cuyo objetivo consistirá en integrarlo a industrias comunes o protegidas. Esta capacitación será la continuación de la formación recibida en el nivel básico.
 
 ###### ARTICULO 22o.
 
@@ -284,3 +302,9 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los veinticuatro días del mes de Noviembre de mil novecientos noventa y tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MAXIMILIANO SILERIO ESPARZA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ALFREDO BRACHO BARBOSA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE OCTUBRE DE 1997.
+
+U N I C O.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
