@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "1995-08-06"
+last_updated: "1998-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -1727,43 +1727,43 @@ Los responsables por la comisión de las infracciones y por tanto acreedores a l
 
 4.- Los titulares de autorizaciones para operar escuelas de manejo.
 
-(REFORMADO, P.O. 6 DE AGOSTO DE 1995) (F. DE E., P.O. 20 DE AGOSTO DE 1995)
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 157.
 
-Al conductor que contravenga las disposiciones de la presente Ley, se le sancionará de acuerdo con la falta cometida, con el pago de multa correspondiente, de uno a treinta días de salario mínimo general vigente en el Estado, según se indica en este Artículo. Sin embargo, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución General de la República.
+Al conductor que contravenga las disposiciones de la presente Ley, se le sancionará de acuerdo con la falta cometida, con el pago de multa correspondiente, de uno a quince días de salario mínimo general vigente en el Estado, según se indica en este artículo. Sin embargo, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución General de la República.
 
 GRUPOS
 
 TIPO DE VEHICULO Y FALTA
 
-I.- LEVE.- De uno a diez días.
+I.- LEVE:
 
-a) Bicicletas:
+A).- Bicicletas: de uno a cinco días.
 
-1.- No respetar el semáforo o indicaciones del agente cuando lo indique.
+1.- No respetar el semáforo o las indicaciones del agente.
 
-2.- Asirse de otro vehículo, los conductores de bicicletas.
+2.- Asirse de otro vehículo en marcha.
 
 3.- No transitar por la extrema derecha.
 
-4.- Transitar por vialidades o carriles en donde se prohíba este medio de transporte.
+4.- Transitar por vialidades o carriles en donde se prohiba este medio de transporte.
 
-b) Motocicletas:
+B).- Motocicletas: de uno a cinco días.
 
-1.- No usar, los conductores, anteojos protectores o similar, cuando el vehículo carezca de parabrisas.
+1.- No usar anteojos protectores o similares, cuando el vehículo carezca de parabrisas.
 
-2.- Circular las motocicletas entre carriles o dos de ellas paralelas en un mismo carril.
+2.- Circular las motocicletas entre carriles o dos de ellas en paralelo en un mismo carril.
 
 3.- Carecer de lámparas o reflejantes posteriores.
 
-c) De todo tipo de vehículo:
+C).- De todo tipo de vehículo: de uno a cinco días.
 
 1.- No solicitar la baja en caso de remate administrativo o judicial.
 
-2.- Carecer, por no estar en buen estado de funcionamiento o usar indebidamente la bocina.
+2.- Carecer, no estar en buen estado de funcionamiento, o usar indebidamente la bocina.
 
-3.- Sin precaución cambiar de carril.
+3.- Cambiar de carril sin precaución.
 
 4.- Efectuar en túnel o paso a desnivel, cambio de carril.
 
@@ -1777,59 +1777,45 @@ c) De todo tipo de vehículo:
 
 9.- Conducir un vehículo con mayor número de pasajeros que el señalado en la tarjeta de circulación.
 
-10.- Carecer o no funcionar las luces:
+10.- Estacionarse en lugar prohibido, que no sea el primer cuadro de la ciudad o cuya guarnición esté marcada con color rojo.
 
-Indicadoras de frenado.
+11.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
 
-Direccionales o intermitentes.
+12.- Dar marcha atrás más de 10 metros.
 
-Cuartos delanteros o traseros.
+13.- Transitar con alguna de las puertas abiertas.
 
-De intensidad alta o baja.
+14.- Transitar innecesariamente sobre las rayas separadoras de carril.
 
-11.- Carecer o portar fuera de los lugares exigidos los reflectores y los faros principales.
+15.- No conservar su derecha o aumentar la velocidad cuando lo vayan a rebasar.
 
-12.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
+16.- No obedecer las señales restrictivas.
 
-13.- Dar marcha atrás más de 10 metros.
+17.- Conducir un vehículo automotor sin portar la licencia.
 
-14.- Circular sin placas o sin el permiso correspondiente.
-
-15.- Transitar con alguna de las puertas abiertas.
-
-16.- Transitar innecesariamente sobre las rayas separadoras de carril.
-
-17.- No conservar su derecha o aumentar la velocidad cuando lo vayan a rebasar.
-
-18.- No obedecer las señales restrictivas.
-
-d) Vehículos del transporte público de pasajeros: de once a quince días.
+D).- Vehículos del transporte público de pasajeros: de seis a diez días.
 
 1.- No dar aviso de la suspensión del servicio.
 
-e) Vehículos de transporte de carga: de once a quince días.
+E).- Vehículos de transporte de carga: de seis a diez días.
 
 1.- Carecer de antellantas o guardafangos.
 
 2.- Estorbar la visibilidad del conductor.
 
-f) Equipos manuales de reparto: de once a quince días.
+F).- Equipos manuales de reparto: de seis a diez días.
 
 1.- Transitar fuera de la zona autorizada.
 
 2.- Transitar por la superficie de rodamiento en las arterias principales.
 
-II.- MEDIA: once a quince días.
+II.- MEDIA: seis a diez días.
 
-a) Bicicletas:
-
-1.- Transitar por vialidades o carriles en donde se prohíba este medio de transporte.
-
-b) Motocicletas:
+A).- Motocicletas:
 
 1.- Asirse de otro vehículo en marcha.
 
-2.- No usar, los motociclistas casco protector.
+2.- No usar casco protector.
 
 3.- Transportar más pasajeros de los autorizados en la tarjeta de circulación.
 
@@ -1837,77 +1823,93 @@ b) Motocicletas:
 
 5.- Efectuar vuelta en U, cerca de una curva, cima o zona de intenso tránsito y en donde el señalamiento lo prohibe.
 
-6.- Transitar sin placa de matrícula.
+6.- Transitar por vialidades o carriles en donde se prohibe con señalamiento.
 
-7.- Transitar por vialidades o carriles en donde se prohibe con señalamiento.
+B).- De todo tipo de vehículo:
 
-c) De todo tipo de vehículo:
+1.- No utilizar el conductor y pasajeros el cinturón de seguridad.
 
-1.- No tomar las medidas preventivas para evitar accidentes.
+2.- No tomar las medidas preventivas para evitar accidentes.
 
-2.- No retirar su vehículo del lugar del accidente o despejar los residuos del lugar del accidente, cuando esto sea posible y que obstruya gravemente el tráfico, respetando además, las normas aplicables en los casos de la comisión de un delito, para los efectos de peritajes y la debida fe ministerial de los hechos.
+3.- No retirar su vehículo del lugar del accidente o despejar los residuos del lugar del accidente, cuando esto sea posible y que obstruya gravemente el tráfico, respetando además, las normas aplicables en los casos de la comisión de un delito, para los efectos de peritajes y la debida fe ministerial de los hechos.
 
 En los casos en que los residuos sean peligrosos, deberá solicitar el auxilio de las autoridades encargadas del servicio público de limpieza, sin perjuicio de las sanciones aplicables de acuerdo con la Ley de Equilibrio Ecológico y Protección al Ambiente, así como de los Bandos de Policía y Buen Gobierno, además de aquellas que por la naturaleza de las sustancias sean aplicables.
 
-3.- Por abandono de vehículo, entendiéndose como tal el hecho de estacionar un vehículo en un lugar prohibido o de propiedad privada, que atente contra la seguridad pública al provocar el riesgo de causar un siniestro bajo cualquier circunstancia, o que el tiempo que transcurra sea tal que acumule basura.
+4.- Por abandono de vehículo, entendiéndose como tal el hecho de estacionar un vehículo en un lugar prohibido o de propiedad privada, que atente contra la seguridad pública al provocar el riesgo de causar un siniestro bajo cualquier circunstancia, o que el tiempo que transcurra sea tal que acumule basura.
 
-4.- Invadir las banquetas con materiales o cualquier otro objeto.
+5.- Invadir las banquetas con materiales o cualquier otro objeto.
 
-5.- No respetar el derecho de los motociclistas y ciclistas al usar un carril.
+6.- No respetar el derecho de los motociclistas y ciclistas al usar un carril.
 
-6.- No ceder el paso al incorporarse a una vía primaria.
+7.- No ceder el paso, al incorporarse a una vía primaria.
 
-7.- No ceder el paso los vehículos que transiten por los carriles de baja velocidad a los que salen de los carriles de alta velocidad.
+8.- No ceder el paso, los vehículos que transiten por los carriles de baja velocidad a los que salen de los carriles de alta velocidad.
 
-8.- No ceder el paso a vehículos que ya se encuentran dentro de una intersección sin señalamientos.
+9.- No ceder el paso a vehículos que ya se encuentran dentro de una intersección sin señalamientos.
 
-9.- No alternar, cuando exista el señalamiento, o no ceder el paso a vehículos que provengan de una vía de mayor tránsito o mayor número de carriles.
+10.- No alternar, cuando exista el señalamiento, o no ceder el paso a vehículos que provengan de una vía de mayor tránsito o mayor número de carriles.
 
-10.- Entorpecer la marcha de columnas militares, desfiles o cortejos fúnebres.
+11.- Entorpecer la marcha de columnas militares, desfiles o cortejos fúnebres.
 
-11.- Abastecer de combustible a un vehículo con el motor en marcha.
+12.- Abastecer de combustible a un vehículo con el motor en marcha.
 
-12.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
+13.- Rebasar o adelantar por la derecha, salvo en casos autorizados.
 
-13.- Efectuar indebidamente el estacionamiento en batería.
+14.- Efectuar indebidamente el estacionamiento en batería.
 
-14.- Estacionarse en lugar prohibido o en doble fila obstruyendo la vía pública.
+15.- Estacionarse en doble fila, o en el primer cuadro de la ciudad.
 
-15.- Cuando no exista espacio libre en la siguiente cuadra, avanzar y obstruir la intersección.
+16.- Cuando no exista espacio libre en la siguiente cuadra, avanzar y obstruir la intersección.
 
-16.- No detener la marcha ante las indicaciones rojas de destello del semáforo.
+17.- No detener la marcha ante las indicaciones rojas de destello del semáforo.
 
-17.- Usar sin autorización cualquier tipo de accesorio exclusivo de los vehículos de emergencia.
-
-18.- Conducir un vehículo bajo el amparo de una licencia cancelada, suspendida o vencida.
+18.- Usar sin autorización cualquier tipo de accesorio exclusivo de los vehículos de emergencia.
 
 19.-Traer faros blancos atrás o rojos adelante.
 
-20.- Carecer de alguno de los faros principales.
+20.- Carecer de, o no funcionar, las luces:
 
-21.- Por efectuar vuelta continua sin precaución.
+Indicadoras de frenado.
 
-22.- Obstruir la visibilidad con algún objeto.
+Direccionales o intermitentes.
 
-23.- Alterar o cubrir con micas opacas, llevar ilegibles, fuera de lugar original, las placas o permisos para transitar.
+Cuartos delanteros.
 
-24.- Rebasar por la izquierda no reincorporándose al carril de la derecha.
+De intensidad alta o baja.
 
-25.- Rebasar o adelantar por el acotamiento.
+21.- Carecer de, o estar fuera de funcionamiento, de un faro principal y/o un cuarto trasero, en vehículos que deben portar pares.
 
-26.- Producir ruido excesivo por modificaciones o por aceleración innecesaria, así como por equipos reproductores de sonido.
+22.- No encender, cuando sea necesario, los faros principales.
 
-27.- La instalación o uso de sirenas en vehículos que no sean de emergencia.
+23.- Efectuar vuelta continua sin precaución.
 
-28.- Transitar sin llevar consigo la tarjeta de circulación o permiso para transitar.
+24.- Obstruir la visibilidad con algún objeto.
 
-29.- Transportar bicicletas, motocicletas o algún otro vehículo sin contar con los aditamentos especiales adecuados.
+25.- Alterar o cubrir con micas opacas, llevar ilegibles, fuera de lugar original, las placas o permisos para transitar.
 
-30.- Entorpecer la vialidad o transitar a baja velocidad.
+26.- Rebasar por la izquierda no reincorporándose al carril de la derecha.
 
-31.- No avisar con la luz de freno al reducir intempestivamente la velocidad.
+27.- Rebasar o adelantar por el acotamiento.
 
-d) Vehículos de transporte público de pasajeros:
+28.- Producir ruido excesivo por modificaciones o por aceleración innecesaria, así como por equipos reproductores de sonido.
+
+29.- La instalación o uso de sirenas en vehículos que no sean de emergencia.
+
+30.- Utilizar artefactos al conducir que impidan escuchar la emisión de sonidos de vehículos de emergencia o patrullas.
+
+31.- Transitar sin llevar consigo la tarjeta de circulación o permiso para transitar.
+
+32.- Transportar bicicletas, motocicletas o algún otro vehículo sin contar con los aditamentos especiales adecuados.
+
+33.- Entorpecer la vialidad o transitar a baja velocidad.
+
+34.- No portar calcomanía de verificación de contaminantes.
+
+35.- Tirar o arrojar objetos o basura desde el interior del vehículo.
+
+36.- Incumplir los requisitos establecidos para la revisión, en los términos señalados o no presentar el vehículo en el mismo tiempo.
+
+C).- Vehículos de transporte público de pasajeros:
 
 1.- No transitar por el carril derecho.
 
@@ -1917,7 +1919,9 @@ d) Vehículos de transporte público de pasajeros:
 
 4.- No atender debidamente al público usuario.
 
-e) Transportes escolares:
+5.- Por hacer en el sitio reparaciones a los vehículos fuera de la zona señalada para el efecto, o no conservar limpia el área asignada para el sitio.
+
+D).- Transportes escolares:
 
 1.- Permitir ascenso y descenso sin hacer funcionar las luces de destello intermitentes.
 
@@ -1925,11 +1929,11 @@ e) Transportes escolares:
 
 3.- Transportar más pasajeros de los autorizados en la tarjeta de circulación.
 
-f) Vehículos de transporte de carga:
+E).- Vehículos de transporte de carga:
 
 1.- No transitar por el carril derecho.
 
-2.- Ocultar con la carga los espejos retrovisores, luces o número de matrícula.
+2.- Ocultar con la carga, los espejos retrovisores, luces o número de matrícula.
 
 3.- Por no colocar banderas, reflejos rojos o indicadores de peligro cuando sobresalga la carga.
 
@@ -1937,11 +1941,9 @@ f) Vehículos de transporte de carga:
 
 5.- No obedecer el señalamiento y transitar por vialidades o carriles donde se prohiba.
 
-> <small>(F. DE E., P.O. 20 DE AGOSTO DE 1995)</small>
+III.- GRAVE: de once a quince días.
 
-III.- GRAVE.- Dieciséis a treinta días.
-
-b) Todo tipo de vehículo:
+A).- Todo tipo de vehículo:
 
 1.- No dar aviso de accidente a la autoridad correspondiente.
 
@@ -1951,105 +1953,99 @@ b) Todo tipo de vehículo:
 
 4.- No detener la marcha antes de cruzar alguna intersección del ferrocarril, exista o no alguna señal de alto.
 
-5.- Estacionarse en lugar prohibido o en doble fila, obstruyendo la vialidad o la vía pública, dentro del primer cuadro de la ciudad.
+5.- Estacionarse en lugar prohibido cuya guarnición esté marcada en color rojo.
 
 6.- Transportar personas en la parte exterior de la carrocería.
 
-7.- No utilizar el conductor y pasajeros, el cinturón de seguridad.
+7.- Efectuar competencias de velocidad en la vía pública.
 
-8.- Efectuar competencias de velocidad en la vía pública.
+8.- Llevar a una persona u objeto abrazado o permitir el control del volante a otra persona al conducir un vehículo.
 
-9.- Llevar a una persona u objeto abrazado o permitir el control del volante a otra persona al conducir un vehículo.
+9.- Emitir ostensiblemente humos y contaminantes a pesar de contar con la calcomanía de verificación vehicular, independientemente de las sanciones que impongan otros ordenamientos.
 
-10.- Emitir ostensiblemente humos y contaminantes a pesar de contar con la calcomanía de verificación vehicular, independientemente de las sanciones que impongan otros ordenamientos.
+10.- Pararse en la superficie de rodamiento de las carreteras y vía de tránsito continuo o fuera de ella, a menos de 2 metros sin colocar dispositivos de seguridad.
 
-11.- No portar calcomanía de verificación de contaminantes.
+11.- Por estacionarse:
 
-12.- Tirar o arrojar objetos o basura desde el interior del vehículo.
+a).- Obstruyendo entrada o salida de vehículos, excepto la de su domicilio.
 
-13.- Pararse en la superficie de rodamiento de carreteras y vías de tránsito continuo o fuera de ella, a menos de 2 metros sin colocar dispositivos de seguridad.
+b).- En sentido contrario.
 
-14.- Por estacionarse:
+c).- Simulando descompostura de vehículo, haciendo maniobras y desplazar o empujar vehículos debidamente estacionados.
 
-a) Obstruyendo entrada o salida de vehículos, excepto la de su domicilio.
+12.- Causar accidente al transitar vehículos automotores o combinaciones de vehículos cuando están en mal estado de frenos.
 
-b) En sentido contrario.
+13.- Conducir sin el equipo necesario, en caso de personas con incapacidad física para conducir normalmente.
 
-c) Simulando descompostura del vehículo, haciendo maniobras y desplazar o empujar vehículos debidamente estacionados.
+14.-Conducir un vehículo automotor sin haber obtenido su licencia de conducir; con licencia vencida o conducir un vehículo sin placas o sin el correspondiente permiso de circulación.
 
-15.- Causar accidente al transitar vehículos automotores o combinaciones de vehículos cuando están en mal estado de frenos.
+15.- Permitir el propietario la conducción de su vehículo a personas que carezcan de licencia de conducir.
 
-16.- Por permitir el propietario, la conducción de su vehículo a personas que carezcan de licencia de conducir.
+16.- Carecer de faros principales y/o de cuartos traseros, o estar fuera de funcionamiento.
 
-17.- Conducir sin el equipo necesario, en caso de personas con incapacidad física para conducir normalmente.
+17.- Rebasar o adelantar a un vehículo ante una zona de peatones.
 
-18.- Conducir un vehículo automotor sin haber obtenido su licencia de conducir, o sin portarla; con licencia vencida o conducir un vehículo sin placas o sin el correspondiente permiso de circulación.
+18.- Rebasar en carril de tránsito opuesto en curva, ante una cima o intersección.
 
-19.- No encender los faros principales cuando se requieran o carecer de los mismos.
+19.- Efectuar reparaciones a vehículos en vía pública, salvo en casos de urgencia.
 
-20.- Rebasar o adelantar a un vehículo ante una zona de peatones.
+20.- Por transitar en sentido opuesto.
 
-21.- Rebasar en carril de tránsito opuesto en curva, ante una cima o intersección.
+21.- Rebasar varios vehículos invadiendo el carril opuesto.
 
-22.- Efectuar reparaciones a vehículos en vía pública, salvo en casos de urgencia.
+22.- Rebasar invadiendo el carril de contraflujo.
 
-23.- Incumplir los requisitos establecidos para la revisión, en los términos señalados o no presentar el vehículo en el mismo tiempo.
+23.- No contar o modificar los dispositivos técnicos instalados para el control de contaminantes y/o instalar equipos que generen ruidos excesivos.
 
-24.- Por transitar en sentido opuesto.
+24.- No disminuir la velocidad:
 
-25.- Rebasar varios vehículos invadiendo el carril opuesto.
+a).- Al transitar ante la presencia de educandos en zonas escolares.
 
-26.- Rebasar invadiendo el carril de contraflujo.
+b).- Al transitar ante una concentración de peatones.
 
-27.- No contar o modificar los dispositivos técnicos instalados para el control de contaminantes y/o instalar equipos que generen ruidos excesivos.
+c).- Ante vehículos de emergencia.
 
-28.- No disminuir la velocidad:
+25.- No respetar el límite de velocidad:
 
-a) El transitar ante la presencia de educandos en zonas escolares.
+a).- En zonas escolares.
 
-b) Al transitar ante una concentración de peatones.
+b).- Marcado por el señalamiento.
 
-c) Ante vehículos de emergencia.
+c).- Máxima para transitar en la ciudad, en donde no existan señales que marquen otro límite.
 
-29.- No respetar el límite de velocidad:
+26.- No ceder el paso a:
 
-a) En zonas escolares.
+a).- Escolares en zonas de cruce escolar.
 
-b) Marcado por el señalamiento.
+b).- Peatones en zonas de cruce peatonal.
 
-c) Máxima para transitar en la ciudad, en donde no existan señales que marquen otro límite.
+c).- Ambulancias con sirena y/o torreta encendida.
 
-30.- No ceder el paso a:
+27.- No obedecer la señalización de protección o las indicaciones de los agentes y de los promotores voluntarios de vialidad en zonas escolares.
 
-a) Escolares en zonas de cruce escolar.
+28.- Instalar sin la autorización de la dirección:
 
-b) Peatones en zonas de cruce peatonal.
+a).- Señalamientos de tránsito vertical.
 
-c) Ambulancias con sirena y/o torreta encendida.
+b).- Señalamientos de tránsito horizontal.
 
-31.- No obedecer la señalización de protección o las indicaciones de los agentes y de los promotores voluntarios de vialidad en zonas escolares.
+c).- Topes.
 
-32.- Instalar sin la autorización de la dirección:
+29.- Abandono de víctima después de un accidente.
 
-a) Señalamientos de tránsito vertical.
+30.- Ingerir bebidas alcohólicas dentro de un vehículo estacionado.
 
-b) Señalamientos de tránsito horizontal.
+31.- Remachar, soldar u otra acción que se realice con las placas correspondientes al vehículo.
 
-c) Topes.
+32.- Hacer pensión en vía pública o abandono.
 
-33.- Abandono de víctima después de un accidente.
+33.- Por realizar maniobras de taller en la vía pública.
 
-34.- Ingerir bebidas alcohólicas dentro de un vehículo estacionado.
+34.- Por conducir con aliento alcohólico.
 
-35.- Remachar, soldar u otra acción que se realice con las placas correspondientes al vehículo.
+35.- Conducir un vehículo bajo el amparo de una licencia cancelada.
 
-36.- Hacer pensión en vía pública o abandono.
-
-37.- Por realizar maniobras de taller en la vía pública.
-
-38.- Por conducir con aliento alcohólico.
-
-c) Vehículos de transporte público de pasajeros:
+B).- Vehículos de transporte público de pasajeros:
 
 1.- Permitir sin precauciones de seguridad el ascenso y descenso de pasajeros.
 
@@ -2059,19 +2055,17 @@ c) Vehículos de transporte público de pasajeros:
 
 4.- Aprovisionar al vehículo de combustible con pasajeros a bordo.
 
-5.- Por hacer en el sitio reparaciones a los vehículos fuera de la zona señalada para el efecto, o no conservar limpia el área asignada para el sitio.
+5.- No colocar en lugar visible para el público, el original de la tarjeta de identificación autorizada.
 
-6.- No colocar en lugar visible para el público, el original de la tarjeta de identificación autorizada.
+6.- No usar el taxímetro o traerlo en mal estado cuando sea obligatorio.
 
-7.- No usar el taxímetro o traerlo en mal estado cuando sea obligatorio.
+7- Por no levantar pasaje cuando haya lugar para ello.
 
-8- Por no levantar pasaje cuando haya lugar para ello.
-
-d) Transportes escolares:
+C).- Transportes escolares:
 
 1.- Circular sin que los pasajeros utilicen el cinturón de seguridad.
 
-e) Vehículos de transporte de carga:
+D).- Vehículos de transporte de carga:
 
 1.-Transportar materias riesgosas sin permiso o autorización.
 
@@ -2083,7 +2077,7 @@ e) Vehículos de transporte de carga:
 
 5.- Derramar o esparcir carga en la vía pública.
 
-6.- Transportar o arrastrar la carga en condiciones que signifique peligro para personas o bienes.
+6.- Transportar o arrastrar la carga en condiciones que signifiquen peligro para personas o bienes.
 
 7.- Efectuar fuera de los horarios señalados, maniobras de carga y descarga en vías primarias.
 
@@ -2268,3 +2262,7 @@ Para efectos de la clasificación de las sanciones por infracciones cometidas co
 ###### ARTICULO SEGUNDO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
