@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1943-02-20"
+last_updated: "1948-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1948.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -123,11 +123,11 @@ De los Diputados y de la Instalacion y Funciones del Congreso.
 
 El Congreso se compondrá de siete Diputados electos popular y directamente cada tres años. Al efecto el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un Suplente por cada Distrito.
 
-(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1948)</small>
 
 ###### Artículo 23.
 
-Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario por más de un año, o siendo suplentes lo hayan ejercido en substitución del propietario por el mismo lapso, no volverán a ser electos.
+Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario por más de un año, o siendo suplente (sic) lo hayan ejercido en sustitución del propietario, por el mismo lapso, no podrán ser electos para el PERIODO INMEDIATO.
 
 ###### Artículo 24.
 
@@ -1479,7 +1479,7 @@ Sin embargo, el nombramiento de Magistrados se hará antes del día 27 del actua
 
 ###### Artículo 3º.
 
-El nombramiento de Jueces deberá hacerse el día primero de enero próximo, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial que comenzará a regir en la propia fecha, en la cual los Jueces deberán tomar posesión de sus respectivos cargos, previa la protesta correspondiente..
+El nombramiento de Jueces deberá hacerse el día primero de enero próximo, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial que comenzará a regir en la propia fecha, en la cual los Jueces deberán tomar posesión de sus respectivos cargos, previa la protesta correspondiente.
 
 P.O. 28 DE DICIEMBRE DE 1940.
 
@@ -1522,3 +1522,7 @@ P.O. 20 DE FEBRERO DE 1943.
 ###### Artículo 2°.
 
 Este Decreto surtirá efectos a partir de la fecha de su publicación en el periódico oficial "El Estado de Colima".
+
+P.O. 5 DE JUNIO DE 1948.
+
+Este Decreto surtirá sus efectos a partir de su publicación en el periódico oficial "El Estado de Colima".
