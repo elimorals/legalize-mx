@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1960-04-23"
+last_updated: "1960-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1960.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -317,7 +317,9 @@ III.- Los que estén sujetos a un proceso criminal por delito que merezca pena c
 
 IV.- Los ministros de cualquier culto, estén o nó (sic) en ejercicio.
 
-V.- Los Presidentes Municipales, Munícipes, Empleados del Estado y Municipales y los Jueces en su circunscripción si estuvieren en ejercicio dentro de los cuatro meses anteriores a la elección.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1960)</small>
+
+V.- Los Presidentes Municipales, Munícipes, Empleados del Estado y Municipales y los Jueces en su circunscripción, si estuvieren en ejercicio dentro de los tres meses anteriores a la elección.
 
 VI.- Los Diputados Propietarios al Congreso Local y los Suplentes que hayan estado en ejercicio, si no ha pasado un período.
 
@@ -379,9 +381,11 @@ Los Diputados al Congreso del Estado, que se elegirán el primer domingo de dici
 
 En lo sucesivo el Congreso de Estado se renovará en su totalidad, cada tres años.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1960)</small>
+
 ###### Art. 41.
 
-El día 5 de diciembre del año en que deba hacerse la elección, se reunirán en sesión los nuevos Diputados y la Diputación Permanente, funcionando como Presidente y Secretarios los de la misma Diputación. Se leerá el informe de esta sobre la legitimidad de las credenciales y las cualidades de los Diputados, y las dudas que ocurran sobre estos dos puntos, se resolverán por la misma Junta a pluralidad de votos, sin que lo tengan los miembros de la Diputación Permanente.
+El día 31 de diciembre del año en que deba hacerse la elección, se reunirán en sesión los nuevos Diputados y la Diputación Permanente, funcionando como Presidente y Secretarios los de la misma Diputación. Se leerá el informe de esta sobre la legitimidad de las Credenciales y cualidades de los Diputados, y las dudas que ocurran sobre estos puntos, se resolverán por la misma junta a pluralidad de votos, sin que lo tengan los miembros de la Diputación Permanente.
 
 ###### Art. 42.
 
@@ -1790,3 +1794,7 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 23 DE ABRIL DE 1960.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 1960.
+
+UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
