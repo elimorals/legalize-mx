@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1932-10-08"
+last_updated: "1935-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1935.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -63,9 +63,13 @@ P.O. 8 DE OCTUBRE DE 1932.
 
 Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
 
+P.O. 8 DE SEPTIEMBRE DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
 ###### Artículo 3º.
 
-El territorio del Estado es el expresado en el Supremo decreto de erección de 16 de Enero de 1869 y se divide en 15 Distritos, a los que corresponden los 74 Municipios que a continuación se expresan:
+El Territorio del Estado es el expresado en el Supremo Decreto de erección de 16 de enero de 1869 y se divide en 15 Distritos a los que corresponden los 75 Municipios que a continuación se expresan:
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1927)</small>
 
@@ -87,7 +91,9 @@ Distrito de Metztitlán: Formado con los Municipios de Metztitlán, Metzquititl�
 
 Distrito de Molango: Formado con los Municipios de Molango, Calnali, Xochicoatlán, Lolotla, Tlahuiltepa y Tepehuacán de Guerrero.
 
-Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, Mineral de Chico, Mineral de la Reforma, Epazoyucan, Tolcayuca, Tizayuca, Tezontepec y Zempoala.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1935)</small>
+
+Distrito de Pachuca: Formado con los Municipios de Pachuca, Mineral del Monte, Mineral de Chico, Mineral de la Reforma, Epazoyucan, Tolcayuca, Tizayuca, Tezontepec, Zempoala y Zapotlán de Juárez.
 
 Distrito de Tenango de Doria: Formado con los Municipios de Tenango de Doria, San Bartolo Tutotepec, Agua Blanca, Iturbide y Huehuetla.
 
@@ -961,7 +967,7 @@ En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el 
 
 Las autoridades y funcionarios del Estado no tienen mas facultades que las que expresamente les concedan esta Constitución, la General de la República y las leyes que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 1927)</small>
+> <small>(REFORMADO, PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 1935)</small>
 
 ###### Artículo 3°.
 
