@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2003-07-15"
+last_updated: "2003-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -1428,15 +1428,25 @@ Todos los conductores de vehículos a quienes se les encuentre flagrantemente co
 
 Los agentes podrán detener la marcha de un vehículo cuando Seguridad Pública establezca y lleve a cabo programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos. Estos programas deberán ser publicados en la Gaceta Oficial del Distrito Federal y en dos de los diarios de mayor circulación en el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 18 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 100.
 
 Ninguna persona podrá conducir vehículos por la vía pública, si tiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.4 miligramos por litro.
 
 Cuando se trate de vehículos de carga ligera sus conductores no deberán conducir con una cantidad de alcohol en la sangre superior a 0.5 gramos por litro o de alcohol en aire expirado superior a 0.25 miligramos por litro.
 
-Si se trata de vehículos destinados al transporte colectivo de pasajeros, privado de sustancias tóxicas o peligrosas o de vehículos destinados a la prestación de transporte privado especializado, sus conductores no deberán presentar ninguna cantidad de alcohol en la sangre, en caso de presentar síntomas simples de aliento alcohólico, el conductor será remitido al juzgado cívico correspondiente, si el médico de dicho juzgado constata el consumo de alcohol se dará aviso de inmediato a la Secretaría, para que ésta proceda de conformidad con el artículo 64, fracción I de la Ley y demás disposiciones jurídicas aplicables.
+Si se trata de vehículos destinados al transporte colectivo de pasajeros, privado de sustancias tóxicas o peligrosas o de vehículos destinados a la prestación de transporte privado especializado, sus conductores no deberán presentar ninguna cantidad de alcohol en la sangre, en caso de presentar síntomas simples de aliento alcohólico, el conductor será remitido al juzgado cívico correspondiente, si el médico de dicho juzgado constata el consumo de alcohol se dará aviso de inmediato a la Secretaría, para que ésta proceda de conformidad con los artículos 47, fracción VII y 64, fracción I de la Ley y demás disposiciones jurídicas aplicables.
 
-Si se trata de vehículos destinados al transporte colectivo de pasajeros, privado de sustancias tóxicas o peligrosas o de vehículos destinados a la prestación de transporte privado especializado, sus conductores no deberán presentar síntomas simples de estar bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas, el conductor será remitido al juzgado cívico correspondiente, si el médico de dicho juzgado constata estos síntomas se dará aviso de inmediato a la Secretaría, para que ésta proceda de conformidad con el artículo 63, fracción II de la Ley y demás disposiciones jurídicas aplicables.
+Si se trata de vehículos destinados al transporte colectivo de pasajeros, privado de sustancias tóxicas o peligrosas o de vehículos destinados a la prestación de transporte privado especializado, sus conductores no deberán presentar síntomas simples de estar bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas, el conductor será remitido al juzgado cívico correspondiente, si el médico de dicho juzgado constata estos síntomas se dará aviso de inmediato a la Secretaría, para que ésta proceda de conformidad con los artículos 47, fracción VII y 64, fracción I de la Ley y demás disposiciones jurídicas aplicables.
+
+Cuando los agentes cuenten con dispositivos de detección de alcohol y otras sustancias tóxicas, se procederá como sigue:
+
+I.- Los conductores tendrán la obligación de someterse a las pruebas para la detección del grado de intoxicación en el lugar;
+
+II. El agente entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización; y
+
+III. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Juez Cívico ante quien sea presentado el conductor, documento que constituirá prueba fehaciente de la cantidad de alcohol u otra sustancia tóxica encontrada y servirá de base en el dictamen del Médico Legista para determinar el tiempo probable de recuperación.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
@@ -1453,6 +1463,10 @@ Procederá el arresto administrativo inconmutable de 12 a 36 horas, al conductor
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2003)</small>
 
 También se sancionará con arresto administrativo inconmutable de 25 a 36 horas a quienes organicen o participen en competencias vehiculares de alta velocidad en las vías públicas.
+
+> <small>(ADICIONADO, G.O. 18 DE SEPTIEMBRE DE 2003)</small>
+
+Cuando con motivo de la violación a las disposiciones de este reglamento deba presentarse alguna persona ante el Juez Cívico, cualquier elemento de la policía preventiva tendrá la obligación de hacerlo, cumpliendo en todo momento con las disposiciones jurídicas y administrativas aplicables.
 
 ###### ARTÍCULO 103.
 
@@ -1551,3 +1565,9 @@ G.O. 31 DE OCTUBRE DE 2002.
 G.O. 15 DE JULIO DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente ordenamiento entrara en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
