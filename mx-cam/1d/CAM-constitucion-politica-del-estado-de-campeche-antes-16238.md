@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1970-04-11"
+last_updated: "1971-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 1970.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 1971.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -349,11 +349,11 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1971)</small>
 
 ###### ARTICULO 31.
 
-Se elegirá un diputado propietario y un suplente por cada 20,000 habitantes. En los Municipios libres que no alcancen esta cifra, se elegirán, sin embargo, un diputado propietario y un suplente, pero siempre que cuenten cuando menos con 6,000 habitantes, pues en caso contrario quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menor número de habitantes.
+Se elegirá un diputado propietario y un suplente por cada 20,000 habitantes. En los Municipios que no alcancen esta cifra, se elegirán, sin embargo, un diputado propietario y un suplente.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -775,9 +775,9 @@ V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expe
 
 VI.- Nombrar y remover libremente:
 
-A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
+A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
 
-B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda.
+B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda;
 
 VII.- Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas del Estado, aplicando las penas a que se hagan acreedoras, en los términos que prevengan las Leyes o Decretos especiales;
 
@@ -1548,5 +1548,9 @@ P.O. 29 DE MAYO DE 1965.
 ÚNICO.- El presente Decreto de adiciones y reformas de la Constitución Política del Estado entrará en vigor el día 10 de julio de 1965.
 
 P.O. 11 DE ABRIL DE 1970.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE FEBRERO DE 1971.
 
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
