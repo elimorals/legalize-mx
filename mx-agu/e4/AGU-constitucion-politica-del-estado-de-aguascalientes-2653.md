@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1995-11-26"
+last_updated: "1997-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -187,43 +187,73 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 17.
 
-El Congreso del Estado, estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta nueve Diputados que serán electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta nueve Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 El Consejo Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras.
 
-La asignación de los nueve Diputados según el principio de representación proporcional se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-A).- El partido político deberá acreditar que tiene su registro definitivo y registrar candidatos a Diputados por mayoría relativa en por lo menos 12 de los dieciocho distritos uninominales.
+La asignación de los nueve Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
 
-B).- Las Diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el 2% de la votación emitida.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-C).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional el número de Diputados de sus listas que correspondan al porcentaje de votos obtenidos en la circunscripción plurinominal.
+a).- El partido político deberá acreditar que tiene su registro nacional y registrar candidatos a Diputados por mayoría relativa, en por lo menos doce de los dieciocho distritos uninominales;
 
-La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-D).- Los Diputados por mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
+b).- Las diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el dos por ciento de la votación emitida;
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+c).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional, el número de diputados de sus listas que correspondan al porcentaje de votos obtenidos en la circunscripción plurinominal.
+
+La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación; y
+
+d).- Los Diputados por mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
 Sus obligaciones consisten en el ejercicio de sus funciones en el Congreso del Estado, Diputación Permanente, Colegio Electoral y Gran Jurado.
 
-El Congreso del Estado, constituido en Colegio Electoral, tendrá como función la de calificar la elección de Gobernador del Estado.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+El Congreso del Estado, constituido en Colegio Electoral tendrá como función la declaración de validez de la elección de Gobernador del Estado, mediante votación por mayoría relativa.
 
 La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones populares directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos, reglamentada por la Ley de la materia. En el ejercicio de esta función pública, la certeza, legalidad, independencia, imparcialidad y objetividad, serán principios rectores.
 
-La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales; establecerá un sistema de medios de impugnación de los que conocerá el organismo superior y un tribunal local electoral autónomo que será órgano jurisdiccional en materia electoral y establecerá las penas que deberán aplicarse a los infractores de sus disposiciones, debiendo contar ambos organismos con consejeros ciudadanos y magistrados profesionalizados, respectivamente.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos, dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales y jurisdiccionales que gozarán de autonomía en su funcionamiento e independencia en sus decisiones, debiendo contar el Consejo Estatal Electoral con Consejeros Ciudadanos. Asimismo, establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad de las etapas de los procesos electorales, tomando en cuenta los plazos convenientes para el desahogo de todas las instancias impugnativas. La Ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones de carácter administrativo y/o penal que por ellos deban imponerse a los infractores de sus disposiciones.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+El tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por Magistrados, adscrito al Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+El Consejo Estatal Electoral se integrará y funcionará conforme a lo que disponga la Ley.
 
 Se considera a los partidos políticos como entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-Los partidos políticos nacionales registrados tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
+Los partidos políticos tiene (sic) como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios y plataformas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
-Los partidos político tendrán derecho al uso permanente de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la Ley.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
-La Ley establecerá las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
+Los partidos políticos nacionales con registro tendrán derecho a participar en las elecciones estatales y municipales, y deberán contar, en forma equitativa con un mínimo de elementos para el desarrollo de sus actividades tendientes a la obtención del sufragio popular.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+Los partidos políticos tendrán derecho al uso permanente y en condiciones de equidad de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezcan las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+La Ley establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Consejo Estatal Electoral. También determinará los topes para gastos de campañas y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
 
 ###### Artículo 17 Bis.
 
@@ -789,7 +819,7 @@ suplidas por el servidor público inmediato inferior de la Secretaría, quien de
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
 
 ### CAPITULO UNICO.
 
@@ -797,7 +827,7 @@ DEL PODER JUDICIAL.
 
 ###### Artículo 51.
 
-El Poder Judicial es el encargado de impartir justicia, aplicando las leyes, se deposita en el Supremo Tribunal de Justicia del Estado, en los juzgados y en el Consejo de la Judicatura Estatal, este último tendrá las facultades administrativas, así como en Materia de carrera Judicial y demás atribuciones que la Ley Orgánica respectiva determine.
+El Poder Judicial es el encargado de impartir justicia, aplicando las leyes, se deposita en el Supremo Tribunal de Justicia del Estado, en los Juzgados, en un Tribunal Electoral que será la máxima autoridad jurisdiccional en la materia, y órgano especializado dentro del Poder Judicial, así como también en el Consejo de la Judicatura Estatal, que tendrá dentro de sus facultades las administrativas, las de la materia de carrera judicial y demás atribuciones que la Ley Orgánica respectiva determine.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
@@ -1527,11 +1557,11 @@ UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su 
 
 P.O. 10 DE ENERO DE 1982.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 25 DE SEPTIEMBRE DE 1983.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 9 DE OCTUBRE DE 1983.
 
@@ -1541,7 +1571,7 @@ SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de v
 
 P.O. 29 DE ENERO DE 1984.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE JUNIO DE 1985.
 
@@ -1567,11 +1597,11 @@ El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al 
 
 P.O. 11 DE MARZO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 26 DE AGOSTO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 24 DE FEBRERO DE 1991.
 
@@ -1589,7 +1619,7 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 
 P.O. 13 DE OCTUBRE DE 1991.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 1 DE MARZO DE 1992.
 
@@ -1702,3 +1732,13 @@ P.O. 26 DE NOVIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En un término de ciento veinte días, contados a partir de la vigencia del presente Decreto, se reformará la Ley Electoral del Estado y demás relativas, conforme a la presente reforma constitucional.
