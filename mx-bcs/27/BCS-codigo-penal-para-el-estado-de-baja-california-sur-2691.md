@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "1997-12-20"
+last_updated: "1998-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1998.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -3157,6 +3157,158 @@ Es ultraje el uso indebido de las insignias del Estado o de los Municipios, o la
 
 Al responsable de ultraje se impondrá de tres días a seis meses de prisión y multa hasta de noventa días salario.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+## TITULO VIGESIMO
+
+DE LOS DELITOS ELECTORALES.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 359.
+
+Para los efectos de este Título se entiende por:
+
+I.- Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales.
+
+II.- Funcionarios partidistas, los dirigentes de los partidos políticos estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos estatales electorales, en los términos de la Ley Electoral del Estado.
+
+III.- Documentos públicos electorales, las boletas electorales, las actas oficiales de instalación de casillas y de la jornada electoral, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos y en general los documentos expedidos en el ejercicio de sus funciones por los órganos estatales electorales.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 360.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente Título se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años y en su caso la destitución del cargo.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 361.
+
+Se impondrá multa equivalente al importe de cincuenta a cien días de salario mínimo vigente en la entidad o prisión de seis meses a tres años, o ambas sanciones a juicio del Juez, a quien:
+
+I.- Vote a sabiendas de que no cumple con los requisitos de la Ley.
+
+II.- Vote más de una vez en una misma elección.
+
+III.- Haga proselitismo o coaccione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en el que se encuentren formados los votantes.
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo.
+
+V.- Se presente a una casilla electoral portando armas.
+
+VI.- El día de la elección organice la reunión y traslado de electores con el objeto de llevarlos a votar y de influir en el sentido de su voto.
+
+VII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto.
+
+VIII.- Reproduzca o use sin autorización de los partidos políticos sus emblemas, con el fin de propalar información no avalada por ellos, o
+
+IX.- Altere, borre o destruya propaganda electoral de los partidos políticos, frentes o coaliciones.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 362.
+
+Se impondrá multa equivalente al importe de cien a doscientos días de salario mínimo vigente en la Entidad y prisión de uno a tres años, a quien:
+
+I.- Recoja sin causa prevista por la Ley credenciales de elector de los ciudadanos.
+
+II.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa, durante las campañas o jornada electoral.
+
+III.- Vote o pretenda votar con una credencial de la que no sea titular.
+
+IV.- Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, destruya o altere boletas o documentos electorales.
+
+V.- Obligue a otros a votar por determinado partido político o candidatos mediante cohecho o violencia física o moral.
+
+VI.- Impida en forma violenta la instalación de una casilla, o
+
+VII.- Utilice violencia física o moral para impedir la entrega de documentos y material electoral a sus destinatarios durante el proceso electoral.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 363.
+
+Se impondrá multa equivalente al importe hasta de quinientos días de salario mínimo vigente en la Entidad, a los ministros de cultos religiosos que, en los edificios destinados al culto o en cualquier otro lugar, que por cualquier medio y en el desarrollo de los actos propios de su ministerio induzcan por cualquier medio al electorado a votar a favor o en contra de un partido político o candidato, o incite a la abstención del sufragio.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 364.
+
+Se impondrá multa equivalente al importe de veinte a cien días de salario mínimo vigente en la Entidad o prisión de tres meses a cinco años, o ambas sanciones a juicio del Juez, al funcionario electoral que:
+
+I.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales, con perjuicio del proceso.
+
+II.- Obstruya el desarrollo normal de la votación sin mediar causa justificada.
+
+III.- No entregue o impida la entrega oportuna de documentos oficiales electorales, sin mediar causa justificada.
+
+IV.- Expulse de la casilla electoral sin causa justificada a representantes de un partido político o coarte los derechos que la Ley les conceda.
+
+V.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen, o
+
+VI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 365.
+
+Se impondrá multa equivalente al importe de cincuenta a doscientos días de salario mínimo vigente en la Entidad y prisión de dos a seis años, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores.
+
+II.- Altere los resultados electorales, sustraiga o destruya documentos o boletas electorales.
+
+III.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados.
+
+IV.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstas por la Ley Electoral del Estado, la instale en lugar distinto al legalmente señalado sin causa justificada o impida su instalación, o
+
+V.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzca en las urnas ilícitamente una o más boletas electorales.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 366.
+
+Se impondrá multa equivalente al importe de cien a doscientos días de salario mínimo vigente en la Entidad y prisión de uno a seis años, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentran formados.
+
+II.- Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral.
+
+III.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales; o
+
+IV.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 367.
+
+Se impondrá multa equivalente al importe de doscientos a cuatrocientos días de salario mínimo vigente en la Entidad y prisión de uno a nueve años, al servidor público que:
+
+I.- Abusando de sus funciones obligue a sus subordinados por cualquier medio a emitir sus votos a favor de un partido político o candidato.
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio a favor de un partido político o candidato.
+
+III.- A través de sus subordinados proporcione apoyo a un partido político o candidato usando el tiempo correspondiente a sus labores, o
+
+IV.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado. En la comisión de este delito no habrá derecho a gozar del beneficio de la libertad provisional bajo caución.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+
+###### ARTICULO 368.
+
+Se impondrá multa equivalente al importe de veinte a cien días de salario mínimo vigente en la Entidad o prisión de uno a seis años, o ambas sanciones a juicio del Juez, a quien:
+
+I.- Proporcione documentos o información falsa al Registro Estatal de Electores para obtener el documento que acredite la ciudadanía, y
+
+II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la credencial con fotografía para votar, que en los términos de la Ley de la materia, expida el Registro Estatal de Electores.
+
+La pena a que se refiere este Artículo se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
@@ -3212,3 +3364,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE DICIEMBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE JUNIO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los bienes muebles e inmuebles destinados al Tribunal Estatal de lo Contencioso Electoral, quedarán destinados al Tribunal Estatal Electoral del Poder Judicial del Estado, a fin de garantizar su adecuado funcionamiento.
+
+TERCERO.- Para ajustar el presupuesto correspondiente al ejercicio fiscal del año de 1998 del Instituto Estatal Electoral a los nuevos montos de financiamiento público a los partidos políticos, el Presidente del Consejo General turnará la solicitud de ampliación correspondiente al Titular del Poder Ejecutivo, para que éste la presente ante el Congreso del Estado.
+
+CUARTO.- Dentro del articulado de la Ley Electoral del Estado de Baja California Sur, por Comisión Estatal Electoral y Tribunal de lo Contencioso Electoral se entenderá Instituto Estatal Electoral y Tribunal Estatal Electoral, respectivamente.
+
+QUINTO.- Para el proceso electoral ordinario 1998-1999, los Consejeros Electorales que actualmente integran la Comisión Estatal Electoral así como los Magistrados que actualmente integran el Tribunal Estatal Electoral, podrán ser propuestos y electos para ocupar esos cargos en el Consejo General del Instituto Estatal Electoral y en el mencionado Tribunal, respectivamente, de conformidad a lo dispuesto por el presente Decreto.
+
+SEXTO.- El Convenio que se haya celebrado con el organismo electoral federal, con anterioridad a la entrada en vigor del presente Decreto, para la utilización del catálogo general de electores, padrón electoral, listado nominal y credencial con fotografía para votar, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo de los procesos electorales del Estado, tendrá plena validez, hasta en tanto no se otorgue otro convenio con el mismo objeto.
+
+SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
