@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-deuda-publica-para-el-estado-de-durango-4994"
 country: "mx"
 rank: "ley"
 publication_date: "1980-08-03"
-last_updated: "1980-08-03"
+last_updated: "2003-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 3 de agosto de 1980.
 
@@ -77,9 +77,11 @@ IV.- Las Empresas de participación Estatal o Municipal mayoritaria.
 
 V.- Los demás organismos o instituciones cuyas obligaciones de pasivo afecten el patrimonio de las Entidades señaladas en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
+Para los efectos de esta Ley se entenderá que al referirse a Programa financiero, éste se encuentra incorporado a los proyectos de Ley de Ingresos y Ley de Egresos que anualmente presente el Ejecutivo al Congreso del Estado; así mismo se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
 
 I.- La suscripción o emisión de Títulos de Crédito o cualquier otro documento pagadero a plazos.
 
@@ -89,17 +91,21 @@ III.- Los pasivos contingentes relacionados con los actos mencionados en las Fra
 
 IV.- Todas las operaciones de endeudamiento que comprendan obligaciones a plazo, así como obligaciones de exigibilidad contingente; derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las Entidades a que se refiere el Artículo 2o. de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 4o.
 
-La Secretaría de Finanzas, de conformidad con lo dispuesto en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado de Durango, es la dependencia del Ejecutivo Local encargada de aplicar e interpretar en el ámbito administrativo esta Ley, así como regular su debido cumplimiento.
+La Secretaría de Finanzas y de Administración, de conformidad con lo dispuesto en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado de Durango, es la dependencia del Ejecutivo Local encargada de aplicar e interpretar en el ámbito administrativo esta Ley, así como regular su debido cumplimiento.
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LOS
 
 ORGANOS EN MATERIA DE DEUDA PUBLICA.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 5o.
 
-Son Organos en materia de Deuda Pública dentro de sus respectivas competencias: El Congreso del Estado, el Ejecutivo del Estado, la Secretaría de Finanzas, los Ayuntamientos y el Comité Técnico de Financiamiento creado por el Artículo Trece de esta Ley.
+Son Organos en materia de Deuda Pública dentro de sus respectivas competencias: El Congreso del Estado, el Ejecutivo del Estado, la Secretaría de Finanzas y de Administración, los Ayuntamientos y el Comité Técnico de Financiamiento creado por el artículo 13 de esta Ley.
 
 ###### ARTICULO 6o.
 
@@ -125,13 +131,17 @@ Compete al Ejecutivo del Estado, de conformidad con lo dispuesto en el Artículo
 
 I.- Presentar al Congreso del Estado las Iniciativas de Ley de Ingresos y Ley de Egresos, proponiendo los montos de endeudamiento neto necesario para el financiamiento del Presupuesto del Ejercicio Fiscal correspondiente y proporcionar elementos de juicio suficientes para respaldar el proyecto.
 
-II.- Enviar al Congreso del Estado para su análisis y aprobación los programas financieros Estatal y Municipal para el caso del Artículo 20 de esta Ley, lo que hará conjuntamente con las iniciativas de Ley de Ingresos y Ley de Egresos.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2003)</small>
+
+II.- Enviar al Congreso del Estado para su análisis y aprobación los Programas Financieros para el caso del artículo 20 de esta Ley.
 
 III.- Informar al Congreso del Estado de la situación de la Deuda al rendir la Cuenta Pública Anual y al remitir las iniciativas de Ley de Ingresos y Ley de Egresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 9o.
 
-En materia de Deuda Pública, corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas
+En materia de Deuda Pública, corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y de Administración:
 
 I.- Elaborar el programa financiero con base en el cual se manejará la Deuda Pública Estatal y la Municipal en los casos previstos en el artículo 20 de esta Ley.
 
@@ -141,7 +151,9 @@ III.- Autorizar a las Entidades señaladas en las Fracciones II, III, IV y V del
 
 IV.- Vigilar la aplicación de los recursos provenientes de financiamientos contratados en base al programa financiero aprobado.
 
-V.- Emitir valores, contratar y administrar la Deuda Pública del Gobierno del Estado, así como otorgar las Garantías que se requieran.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2003)</small>
+
+V.- Emitir valores, contratar y administrar la Deuda Pública del Gobierno del Estado, así como otorgar el respaldo financiero necesario y suficiente que se requiera para cumplir con el pago puntual y oportuno de las obligaciones correspondientes de conformidad con la legislación aplicable.
 
 VI.- Vigilar que se hagan oportunamente los pagos de amortizaciones, intereses, y los que haya lugar, derivados de empréstitos, créditos y préstamos contratados.
 
@@ -149,21 +161,29 @@ VII.- Llevar el Registro de las obligaciones Financieras derivadas de la contrat
 
 VIII.- Fijar los requisitos que deban llenarse en cada caso para la gestión y contratación de financiamiento.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 10.
 
-La Secretaría de Finanzas sólo podrá autorizar o contratar financiamiento, y en su caso otorgar la Garantía del Estado, cuando estén contenidos en el Programa Financiero Estatal aprobado por el Congreso del Estado.
+La Secretaría de Finanzas y de Administración sólo podrá autorizar o contratar financiamientos y en su caso otorgar el respaldo financiero necesario y suficiente que se requiera para cumplir con el pago puntual y oportuno de las obligaciones correspondientes de conformidad con la legislación aplicable cuando dichos financiamientos se encuentran autorizados conforme a las disposiciones de esta Ley y la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría de Finanzas presentará anualmente para su autorización por el Ejecutivo el Programa Financiero a que se refiere la Fracción I del Artículo 9o. de esta Ley, que incluirá las Garantías que pretendan otorgar en la contratación de empréstitos, créditos o préstamos.
+La Secretaría de Finanzas y de Administración presentará anualmente para su actualización (sic) por el Ejecutivo el Programa Financiero, mismo que se encuentra incorporado a los proyectos de Ley de Ingresos y Ley de Egresos, a que se refiere la fracción I del artículo 9 de esta Ley que incluirá el respaldo financiero necesario y suficiente que se requiera para cumplir con el pago puntual y oportuno de las obligaciones correspondientes de conformidad con la legislación aplicable que pretende otorgar en la contratación de empréstitos, créditos o préstamos.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 12.
 
-Los programas de endeudamiento estarán incluídos en el Programa Financiero del Estado, el que a su vez deberá formularse en base a los señalamientos de los Proyectos y Programas aprobados por la Secretaría de Desarrollo, Programación y Presupuesto, que requieran de financiamiento para su realización.
+Los programas de endeudamiento estarán incluídos en el Programa Financiero del ejercicio de que se trate, los que a su vez deberá formularse en base a los señalamientos de los proyectos y programas solicitados por las distintas secretarías que requieran financiamiento para su realización.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 13.
 
-Se crea un Comité Técnico de Financiamiento como Organo Auxiliar de Consulta del Ejecutivo del Estado en materia de Deuda Pública. Este Comité se integrará por Técnicos de la Secretaría de Finanzas y de las Direcciones de Desarrollo, Programación y Presupuesto sin exceder en número de 10.
+Se crea un Comité Técnico de Financiamiento como Organo Auxiliar de Consulta del Ejecutivo del Estado en materia de Deuda Pública. Este Comité se integrará por técnicos de la Secretaría de Finanzas y de Administración.
 
 ###### ARTICULO 14.
 
@@ -177,7 +197,9 @@ I.- Conocer y evaluar las necesidades y capacidad de endeudamiento del Estado y 
 
 II.- Evaluar y opinar sobre los programas de endeudamiento que presenten las Entidades señaladas en el Artículo 2o. de esta Ley.
 
-III.- Evaluar y opinar de los empréstitos, créditos o préstamos que otorgue el Estado o de aquellos que requieran su Garantía.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2003)</small>
+
+III.- Evaluar y opinar de los empréstitos, créditos o préstamos que otorgue el Estado o de aquellos que requieran su respaldo financiero para cumplir con el pago puntual y oportuno de las obligaciones correspondientes de conformidad con la legislación aplicable.
 
 IV.- Dar Asesoría en materia de Deuda Pública a las Entidades señaladas en el Artículo 2o. de esta Ley.
 
@@ -185,15 +207,19 @@ IV.- Dar Asesoría en materia de Deuda Pública a las Entidades señaladas en el
 
 DE LA CONTRATACION DE FINANCIAMIENTOS.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 16.
 
-Las Dependencias del Ejecutivo Estatal sólo podrán contratar financiamientos a través de la Secretaría de Finanzas. Los Organos Públicos Descentralizados Estatales, las Empresas de Participación Estatal Mayoritaria y los demás Organismos de naturaleza Estatal a que se refiere el Artículo 2o. de esta Ley, sólo podrán obtener créditos o préstamos con la autorización previa de la Secretaría de Finanzas.
+Las Dependencias del Ejecutivo Estatal sólo podrán contratar financiamientos a través de la Secretaría de Finanzas y de Administración. Los Organos Públicos Descentralizados Estatales, las Empresas de Participación Estatal mayoritaria y los demás organismos de naturaleza Estatal a que se refiere el artículo 2 de esta Ley, sólo podrán obtener créditos o préstamos con la autorización previa de la Secretaría de Finanzas y de Administración.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 17.
 
-Los empréstitos, créditos y préstamos que contraten el Ejecutivo del Estado y las demás Entidades que menciona el Artículo 2o., así como las Garantías que el Estado otorgue, deberán estar incluídos en el Programa Financiero Estatal, excepto el caso previsto en el artículo 7o. de esta Ley.
+Los empréstitos, créditos y préstamos que contraten el Ejecutivo del Estado y las demás Entidades que menciona el artículo 2, así como el respaldo financiero necesario y suficiente que el Estado otorgue para el pago puntual y oportuno de las obligaciones correspondientes de conformidad con la legislación aplicable, deberán estar incluídos en el Programa Financiero, excepto el caso previsto en el artículo 7 de esta Ley.
 
-Los empréstitos, créditos y préstamos relacionados con los Municipios quedarán incluídos sólo para el caso del artículo 20.
+Los empréstitos, créditos y préstamos relacionados con los municipios quedarán incluídos sólo para el caso del artículo 20 de esta ley.
 
 ###### ARTICULO 18.
 
@@ -205,21 +231,27 @@ El Estado y los Municipios sólo podrán emitir Bonos u otros Títulos de Deuda 
 
 Tanto en el Acta de emisión como en los Títulos, deberán citarse los datos fundamentales de la autorización así como la prohibición de su venta a extranjeros, sean éstos Gobiernos, Entidades Gubernamentales, Sociedades, particulares u organismos internacionales. Los documentos no tendrán validez si no se consignan dichos datos.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 20.
 
-Cuando los Municipios, sus Organismos Descentralizados, empresas de participación mayoritaria, fideicomisos u otros, de naturaleza análoga, requieran la Garantía del Estado, la contratación de financiamiento se realizará con la autorización e intervención de la Secretaría de Finanzas. En el caso de que el Estado otorgue directamente el financiamiento, la contratación se realizará ante la propia Secretaría de Finanzas.
+Cuando los municipios, sus organismos descentralizados, empresas de participación mayoritaria, fideicomisos u otros, de naturaleza análoga, requieran el respaldo financiero necesario y suficiente por parte del Estado para el pago puntual y oportuno de las obligaciones correspondientes de conformidad con la legislación aplicable, la contratación de financiamiento se realizará con la autorización e intervención de la Secretaría de Finanzas y de Administración. En el caso de que el Estado otorgue directamente el financiamiento, la contratación se realizará ante la propia Secretaría de Finanzas y de Administración.
 
 ###### ARTICULO 21.
 
 Los financiamientos que contraten los Municipios o los organismos mencionados en el artículo anterior se incluirán en el Programa Financiero Municipal, exclusivamente cuando se trate de los casos a que se refiere el artículo 20 de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 22.
 
-Cuando las Entidades señaladas en las Fracciones II, III, IV y V del Artículo 2o. de esta Ley requieran de la autorización de la Secretaría de Finanzas, deberán formular solicitud, acompañando la información que ésta determine. Presentarán además, en la forma que la Secretaría de Finanzas lo indique, información suficiente para determinar su capacidad de pago y la necesidad razonada del tipo de gasto que se pretenda financiar con los recursos del crédito.
+Cuando las Entidades señaladas en las fracciones II, III, IV y V del artículo 2 de esta Ley requieran de la autorización de la Secretaría de Finanzas y de Administración, deberán formular solicitud, acompañando la información que ésta determine. Presentarán además, en la forma que la Secretaría de Finanzas y de Administración lo indique, información suficiente para determinar su capacidad de pago y la necesidad razonada del tipo de gasto que se pretenda financiar con los recursos del crédito.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 23.
 
-En todos los casos de financiamiento deberán citarse, en los documentos en que se formalisa (sic), los datos fundamentales de la autorización de la Secretaría de Finanzas. Lo mismo se observará en los demás contratos o Títulos de Crédito que suscriben, avalen o acepten las Entidades que señala el Artículo 2o., en los casos en que les es aplicable esta Ley.
+En todos los casos de financiamiento deberán citarse en los documentos en que se formaliza, los datos fundamentales de la autorización de la Secretaría de Finanzas y de Administración. Lo mismo se observará en los demás contratos o títulos de crédito que suscriben, avalen o acepten las Entidades que señala el artículo 2, en los casos en que les es aplicable esta Ley.
 
 Los documentos de referencia carecerán de validez si se deja de cumplir con este requisito.
 
@@ -231,15 +263,23 @@ OPERACIONES DE ENDEUDAMIENTO.
 
 Las Entidades a que se refiere el Artículo 2o., considerando los casos previstos en el artículo 20 de esta Ley, tendrán las siguientes obligaciones:
 
-I.- Llevar registros de los financiamientos que contraten conforme a las instrucciones que al efecto gire la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2003)</small>
 
-II.- Comunicar a la Secretaría de Finanzas trimestralmente los datos de todos los financiamientos contratados así como de los movimientos realizados.
+I.- Llevar registros de los financiamientos que contraten conforme a las instrucciones que al efecto gire la Secretaría de Finanzas y de Administración.
 
-III.- Proporcionar a la Secretaría de Finanzas toda la información para que éste lleve a cabo la vigilancia que le compete respecto a la aplicación de los recursos provenientes de los financiamientos autorizados, con la periodicidad y en la forma que ésta determine.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2003)</small>
+
+II.- Comunicar a la Secretaría de Finanzas y de Administración trimestralmente los datos de todos los financiamientos contratados así como de los movimientos realizados.
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2003)</small>
+
+III.- Proporcionar a la Secretaría de Finanzas y de Administración toda la información para que ésta lleve a cabo la vigilancia que le compete respecto a la aplicación de los recursos provenientes de los financiamientos autorizados, con la periodicidad y en la forma que ésta determine.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 25.
 
-La Secretaría de Finanzas llevará el registro de las obligaciones financieras constitutivas la (sic) Deuda Pública que asuman el Ejecutivo Estatal y sus Dependencias informando periódicamente de sus movimientos al Gobernador del Estado. Los datos que resulten más significativos, para su comprensión se publicarán en el informe mensual de Ingresos y Egresos del Gobierno del Estado.
+La Secretaría de Finanzas y de Administración llevará el registro de las obligaciones financieras constitutivas de la deuda pública que asuman el Ejecutivo Estatal y sus dependencias informando periódicamente de sus movimientos al Gobernador del Estado. Los datos que resulten más significativos, para su comprensión se publicarán en el informe mensual de Ingresos y Egresos del Gobierno del Estado.
 
 ###### ARTICULO 26.
 
@@ -264,3 +304,11 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los quince días del mes de Julio del año de mil novecientos ochenta.
 
 El Gobernador Constitucional Substituto del Estado, DR. SALVADOR GAMIZ FERNANDEZ.- El Secretario General de Gobierno, LIC. CARLOS GALINDO MARTINEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE FEBRERO DE 2003.
+
+PRIMERO.- Con el fín de normar las obligaciones a que se refieren los artículos 20, 22, 23 y 24 de la presente Ley, el Ejecutivo del Estado emitirá un Reglamento, dentro de los noventa días siguientes a la publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación.
