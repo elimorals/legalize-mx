@@ -4,7 +4,7 @@ identifier: "TAB-decreto-que-crea-el-instituto-de-turismo-de-tabasco-14671"
 country: "mx"
 rank: "decreto"
 publication_date: "1995-05-24"
-last_updated: "1995-05-24"
+last_updated: "1999-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 DECRETO QUE CREA EL INSTITUTO DE TURISMO DE TABASCO, COMO ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DE TABASCO, CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Decreto publicado en el Periódico Oficial del Estado de Tabasco, el 24 de mayo de 1995.
 
@@ -43,9 +43,11 @@ SE CREA EL INSTITUTO DE TURISMO DE TABASCO, COMO ORGANISMO PUBLICO DESCENTRALIZA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO PRIMERO.
 
-El "INSTITUTO DE TURISMO DE TABASCO" como organismo público descentralizado del Gobierno del Estado de Tabasco, tendrá personalidad jurídica y patrimonio propios; el cual estará a cargo de un Director General.
+Se crea el Instituto de Turismo de Tabasco, como Organo Desconcentrado del Gobierno del Estado de Tabasco, mismo que queda adscrito a la Secretaría de Fomento Económico.
 
 ###### ARTICULO SEGUNDO.
 
@@ -87,53 +89,27 @@ XII.- Las demás que se otorguen por Decreto y en otras Leyes y Reglamentos.
 
 ###### ARTICULO QUINTO.
 
-El "INSTITUTO DE TURISMO DE TABASCO", estará regido por una Junta de Gobierno, integrada de la manera siguiente:
-
-PRESIDENTE, el Titular de la Secretaría de Fomento Económico del Estado.
-
-SECRETARIO, el Titular del Comité de Planeación para el Desarrollo del Estado de Tabasco (COPLADET).
-
-PRIMER VOCAL, el Titular de la Secretaría de Planeación y Finanzas del Estado.
-
-SEGUNDO VOCAL, el Titular de la Secretaría de Educación del Estado.
-
-TERCER VOCAL, el Titular de la Secretaría de Desarrollo Social y Protección Ambiental.
-
-Por cada miembro de la Junta de Gobierno se designará un suplente.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO SEXTO.
 
-La Junta de Gobierno celebrará sesiones ordinarias cuando menos cuatro veces al año y las extraordinarias a que convoque su Presidente o la mayoría de sus miembros.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO SEPTIMO.
 
-La Junta de Gobierno tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
-I.- Cumplir y hacer cumplir las disposiciones de este ordenamiento;
-
-II.- Aprobar los planes y programas de trabajo; así como los presupuestos y el financiamiento del organismo;
-
-III.- Aprobar el Manual General de Organización del Instituto;
-
-IV.- Conocer y aprobar, en su caso, los informes anuales de actividades que le presente el Director General;
-
-V.- Aprobar en su caso, previo dictamen del Comisario, los estados financieros del organismo;
-
-VI.- Celebrar acuerdos de concertación de acciones en materia turística entre los sectores público, social y privado;
-
-VII.- Autorizar al Director General para celebrar toda clase de actos o contratos que requiera el cumplimiento de las atribuciones conferidas al organismo;
-
-VIII.- Formular y Proponer al Ejecutivo del Estado, las políticas aplicables para el desarrollo y fomento al turismo en Tabasco;
-
-IX.- Las demás que sean necesarias para el cumplimiento de sus atribuciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO OCTAVO.
 
-El "INSTITUTO DE TURISMO DE TABASCO", estará a cargo de un Director General, que será libremente designado y removido por el Titular del Poder Ejecutivo del Estado, a través del Coordinador de Sector correspondiente, y tendrá las siguientes atribuciones:
+EL INSTITUTO DE TURISMO DE TABASCO estará a cargo de un Director General, que será designado y removido por el Titular del Poder Ejecutivo del Estado, a propuesta del Titular de la Dependencia de su adscripción, y tendrá las siguientes atribuciones:
 
 I.- Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
-II.- Ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aún de aquellas que requieran autorización especial, según otras disposiciones legales o reglamentarias con apego a este Decreto:
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+II.- Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquellos que requieran autorización especial, según otras disposiciones legales o reglamentarias con apego a este Decreto. Los actos de dominio serán siempre en forma mancomunada con el Titular de la Dependencia;
 
 III.- Emitir, avalar y negociar títulos de crédito;
 
@@ -145,45 +121,37 @@ VI.- Comprometer asuntos en arbitraje y celebrar transacciones;
 
 VII.- Representar al Instituto en todo tipo de actos jurídicos y otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial;
 
-VIII.- Presentar anualmente a consideración de la Junta de Gobierno para su aprobación, en su caso, los programas de trabajo, así como los presupuestos de ingresos y egresos y el financiamiento del organismo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-IX.- Ejecutar los acuerdos de la Junta de Gobierno, dictando las disposiciones necesarias para tal fin;
+VIII.- Presentar anualmente los programas de trabajo, así como la propuesta de presupuesto;
 
-X.- Rendir a la Junta de Gobierno el informe anual de actividades y los estados financieros del organismo;
+IX.- (DEROGADA, P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+X.- Rendir un informe mensual de actividades y la situación financiera del órgano;
 
 XI.- Designar y remover al personal administrativo del Instituto e imponer las correcciones disciplinarias necesarias, de conformidad con la ley respectiva;
 
-XII.- Proporcionar al Comisario todo tipo de facilidades y apoyo técnico y administrativo necesario, cuando así sea requerido;
+XII.- (DEROGADA, P.O. 16 DE JUNIO DE 1999)
 
-XIII.- En general todas aquellas que sean necesarias para que el organismo cumpla eficazmente con sus funciones, debiendo informar siempre a la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+XIII.- En general todas aquellas que sean necesarias para que el órgano cumpla eficazmente con sus funciones.
 
 ###### ARTICULO NOVENO.
 
-Para el eficaz manejo de los recursos financieros y materiales, el "INSTITUTO DE TURISMO DE TABASCO", en el ejercicio de sus atribuciones estará supervisado por un Comisario que será el Titular de la Secretaría de Contraloría y Desarrollo Administrativo o la persona que éste designe, quién contará con las siguientes facultades:
-
-I.- Conocer y dictaminar sobre los estados financieros del Instituto; y
-
-II.- Ordenar y practicar auditorias al organismo y comunicar sus resultados a la Junta de Gobierno, proponiendo lo que estime pertinente.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTICULO DECIMO.
 
-Tanto la Junta de Gobierno como el Comisario, llevarán un Libro de Actas debidamente foliado de sus respectivas sesiones, los que serán autorizados en su primer foja por el Secretario de dicha Junta.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ### CAPITULO TERCERO. DE SU PATRIMONIO
 
 ###### ARTICULO DECIMO PRIMERO.
 
-El patrimonio del "INSTITUTO DE TURISMO DE TABASCO", se integrará por:
-
-I.- Los subsidios y aportaciones patrimoniales que les destine el Gobierno del Estado o cualquiera entidad pública o privada;
-
-II.- Los ingresos que le correspondan por operaciones y por la consecución de financiamiento para proyectos específicos;
-
-III.- Los derechos que adquiera por vía de concesión o de expropiación, realizada en términos de ley, y
-
-IV.- Los demás bienes y derechos que adquiera por cualquiera título o disposición legal.
-
-Los bienes inmuebles asignados al "INSTITUTO DE TURISMO DE TABASCO", sólo podrán ser gravados o enajenados, previa autorización del Congreso del Estado, el cual tendrá la intervención que en derecho le corresponde, por conducto de la Contaduría Mayor de Hacienda, las escrituras respectivas deberán ser otorgadas conjuntamente por el Director General y por el Presidente de la Junta de Gobierno.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ### CAPITULO CUARTO. DE LOS ESTIMULOS Y APOYO A LAS INVERSIONES
 
@@ -219,7 +187,7 @@ Las relaciones de trabajo del Instituto del Turismo de Tabasco y sus servidores,
 
 ###### ARTICULO DECIMO SEPTIMO.
 
-Los bienes y derechos que constituyan el patrimonio del Instituto de Turismo de Tabasco, gozarán de las franquicias, prerrogativas y privilegios concedidos a los bienes del Estado. A su liquidación, pasarán al patrimonio de éste y serán incorporados a la dependencia o dependencias que estime convenientes el Ejecutivo del Estado.
+(DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
 ## TRANSITORIO
 
@@ -238,3 +206,19 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. J. MANUEL TELLAECHE BOSCH.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
+
+SEGUNDO.- Las Secretarías de Planeación y Finanzas, y de Contraloría y Desarrollo Administrativo, emitirán en su caso, los lineamientos que consideren necesarios, para dar cumplimiento dentro de sus respectivas competencias, a los términos del presente Decreto.
+
+TERCERO.- El patrimonio de las entidades que mediante este Decreto cambian su naturaleza jurídica, quedará igualmente adscrito a las dependencias a las que el mismo se refiere.
+
+CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo conducente, a los reglamentos interiores de las entidades que cambian su naturaleza jurídica.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
