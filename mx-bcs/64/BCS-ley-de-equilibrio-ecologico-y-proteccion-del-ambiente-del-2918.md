@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-equilibrio-ecologico-y-proteccion-del-ambiente-del-2918"
 country: "mx"
 rank: "ley"
 publication_date: "1991-11-30"
-last_updated: "1991-11-30"
+last_updated: "2002-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION DEL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 30 de noviembre de 1991.
 
@@ -251,7 +251,11 @@ XXVII.- ESTABLECER LAS MEDIDAS NECESARIAS EN EL AMBITO DE SU COMPETENCIA, PARA I
 
 XXVIII.- DICTAR EN SUS BANDOS DE POLICIA Y BUEN GOBIERNO Y EN SUS REGLAMENTOS, LAS DISPOSICIONES NECESARIAS A EFECTO DE QUE EN SUS RESPECTIVAS CISCUNSCRIPCIONES (SIC) SE CUMPLAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, ESTABLECIENDO MEDIDAS DE CONTROL Y SEGURIDAD, Y REALIZANDO ACTOS DE INSPECCION Y VIGILANCIA PARA LA VERIFICACION DEL CUMPLIMIENTO DE ESTA LEY.
 
-XXIX.- LAS DEMAS ATRIBUCIONES QUE ESTA LEY Y OTRAS DISPOSICIONES LEGALES DE LA MATERIA LE CONFIEREN.
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2002)</small>
+
+XXIX.- PARTICIPAR EN LA CREACION Y ADMINISTRACION DE ZONAS DE RESERVAS ECOLOGICAS Y EN LA ELABORACION Y APLICACION DE PROGRAMAS DE ORDENAMIENTO EN ESTA MATERIA;
+
+XXX.- LAS DEMAS ATRIBUCIONES QUE ESTA LEY Y OTRAS DISPOSICIONES LEGALES DE LA MATERIA LE CONFIEREN.
 
 ### CAPITULO II. DE LA GESTION AMBIENTAL
 
@@ -1314,3 +1318,15 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 CARLOS A. RONDERO SAVIN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
