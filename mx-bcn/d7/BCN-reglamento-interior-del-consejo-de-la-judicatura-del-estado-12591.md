@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-de-la-judicatura-del-estado-125
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-23"
-last_updated: "1999-02-08"
+last_updated: "2003-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
 
-Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 23 de octubre de 1998.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el día 23 de octubre de 1998.
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE BAJA CALIFORNIA
 
@@ -197,9 +197,11 @@ VI.- Rendir el informe anual al Pleno del Consejo sobre las actividades de su co
 
 COMISIÓN DE ADMINISTRACIÓN
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 29.
 
-La Comisión de Administración tendrá a su cargo la vigilancia de los asuntos relativos a recursos humanos, bienes y servicios, informática, ejercicio presupuestal del Poder Judicial, contraloría, archivo judicial y de notarias y Servicio Médico Forense.
+La Comisión de Administración tendrá a su cargo la coordinación y supervisión de los asuntos relativos a las áreas operativas y administrativas como son: Recursos Humanos, Servicios Generales, Informática, Presupuestos, Contabilidad, Fondo Auxiliar, Archivo Judicial y de Notarlas así como el Servicio Medico Forense.
 
 ###### ARTICULO 30.
 
@@ -303,13 +305,19 @@ Para la readscripción, ratificación y ascenso de Secretarios de Acuerdos y Act
 
 DE LA COMISIÓN DE VIGILANCIA Y DISCIPLINA
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 49.
 
-La Comisión de Vigilancia y Disciplina del Consejo de la Judicatura del Estado, será competente para conocer de las quejas administrativas, y formulará el proyecto de resolución. Tales resoluciones deberán decidirse por acuerdo unánime y remitirla al Pleno del Consejo de la Judicatura.
+La Comisión de Vigilancia y Disciplina tendrá a su cargo la coordinación y supervisión de los asuntos relativos a la Visitaduría, será competente para conocer las quejas administrativas y formulara el proyecto de resolución.
+
+Tales resoluciones deberán decidirse por acuerdo unánime y remitirlos al Pleno del Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 50.
 
-La Comisión de Vigilancia y Disciplina entregará, en cada sesión plenaria, una relación de las quejas atendidas.
+la Comisión de Vigilancia y Disciplina entregara en cada sesión plenaria, una relación de las quejas administrativas atendidas, así como los Informes elaborados por los Visitadores.
 
 ###### ARTICULO 51.
 
@@ -365,7 +373,7 @@ LIC. JOSE ANTONIO BRETON MENA
 
 CONSEJERO
 
-LIC. RICARDO RODRIGUEZ JACOBO
+LIC. RICARO RODRIGUEZ JACOBO
 
 CONSEJERO
 
@@ -378,3 +386,7 @@ CONSEJERO
 P.O. 8 DE FEBRERO DE 1999.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+UNICO.- Las presentes reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
