@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1928-10-31"
+last_updated: "1937-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -191,7 +191,9 @@ Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de un n�
 
 Para ser Diputado se requiere:
 
-I.- Ser mexicano por nacimiento y ciudadano nuevoleonés en ejercicio de sus derechos civiles y políticos.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1937)</small>
+
+I.- Ser ciudadano mexicano por nacimiento y Ciudadano Nuevoleonés, nativo del Estado, en ejercicio de sus derechos civiles y políticos.
 
 II.- Tener veinticinco años cumplidos el día de la elección; y,
 
@@ -643,7 +645,9 @@ Las faltas temporales de los Magistrados se cubrirán por los Supernumerarios, e
 
 Para ser Magistrado y Procurador de Justicia se requiere:
 
-I.- Ser mexicano por nacimiento y Ciudadano Nuevoleonés en ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1937)</small>
+
+I.- Ser ciudadano mexicano por nacimiento y Ciudadano Nuevoleonés, nativo del Estado, en ejercicio de sus derechos civiles y políticos;
 
 II.- Tener treinta años de edad cumplidos para la fecha de la elección o nombramiento;
 
@@ -783,7 +787,9 @@ Una Ley Reglamentaria señalará el número de Alcaldes, Regidores y Síndicos d
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-I.- Ser mexicano por nacimiento y Ciudadano Nuevoleonés en ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 1937)</small>
+
+I.- Ser ciudadano mexicano por nacimiento y Ciudadano Nuevoleonés, nativo del Estado, en ejercicio de sus derechos civiles y políticos;
 
 II.- Ser mayor de veintiún años;
 
@@ -1230,3 +1236,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 31 DE OCTUBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 12 DE MAYO DE 1937.
+
+UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
