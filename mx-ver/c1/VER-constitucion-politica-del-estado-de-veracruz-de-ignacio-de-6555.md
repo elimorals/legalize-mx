@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1971-11-27"
+last_updated: "1971-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1971.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -227,19 +227,19 @@ El domicilio no dá derechos políticos, pero sí produce obligaciones civiles.
 
 Los domiciliados que no tengan suspensos o perdidos los derechos de ciudadano, están en el deber de cumplir sus respectivas obligaciones, sujetándose, en cuanto al derecho electoral, a lo que disponen los artículos 42, 43, 44 y 45 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 1971)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1971)</small>
 
-###### ARTICULO 25.
+###### Artículo 25.
 
-Son ciudadanos veracruzanos los mexicanos por nacimiento, o por naturalización, que reúnan las siguientes cualidades:
+Son ciudadanos los mexicanos por nacimiento o por naturalización, que reúnan las siguientes cualidades:
 
 > <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 1956)</small>
 
 I. Vecindad en el Estado, con un año de residencia, por lo menos, dentro de su territorio;
 
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 1971)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1971)</small>
 
-II. Haber cumplido la edad de dieciocho años, independientemente de su estado civil;
+II. Haber cumplido la edad de 18 años, independientemente de su estado civil;
 
 > <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 1956)</small>
 
@@ -1460,3 +1460,13 @@ Esta Ley entrará en vigor el día 1°. de enero de 1972.
 ###### ARTICULO SEGUNDO.
 
 Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 28 DE DICIEMBRE DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial".
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley comenzará a surtir sus efectos legales a partir de su publicación en la "Gaceta Oficial" del Estado.
