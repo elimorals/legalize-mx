@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1966-12-14"
+last_updated: "1967-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -1399,4 +1399,6 @@ PRIMERO:- Estas reformas empezarán a tener vigencia para que surtan sus efectos
 
 SEGUNDO:- Dentro de la segunda quincena del mes de septiembre de mil novecientos sesenta y siete, se procederá a hacer la designación de los Magistrados y aprobado su nombramiento se designarán los Jueces de Letras. El Poder Judicial así designado entrará en ejercicio de sus funciones el día cuatro de octubre del mismo año, previa la protesta de Ley correspondiente.
 
-TERCERO:- Las prevenciones contenidas en los artículos 63 fracción XXII, 66 fracción VII, 97, 98, 100 fracción II y 103, reformados, tendrán aplicación por una sola vez por lo que a nombramientos se refiere; y en lo sucesivo, solamente cuando se presente el caso de faltas absolutas de los funcionarios judiciales por las diversas causas previstas en las propias reformas.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1967)</small>
+
+TERCERO:- Las prevenciones contenidas en los artículos 63 Fracción XXII, 66 Fracción VII, 97, 98, 100 Fracción II y 103, reformados, tendrán aplicación por una sola vez por lo que a nombramientos se refiere; y en lo sucesivo, solamente, cuando se presente el caso de faltas absolutas de los funcionarios judiciales por las diversas causas previstas en las propias reformas.
