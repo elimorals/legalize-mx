@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-58-2003-del-pleno-del-consejo-de-la-59927"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-09-12"
-last_updated: "2003-09-12"
+last_updated: "2003-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59927&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-09-03"
 
 ACUERDO GENERAL 58/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA LOS ARTICULOS 36 Y 37 DEL ACUERDO GENERAL 28/2003, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA LOS DIVERSOS ACUERDOS GENERALES 44/1998 Y 54/1999, DEL PROPIO CUERPO COLEGIADO; Y MODIFICA LOS PUNTOS PRIMERO Y TERCERO, FRACCION II, DEL ACUERDO GENERAL 49/2003, RELATIVO AL LIBRO DE GOBIERNO QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS JUZGADOS DE DISTRITO ITINERANTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2003.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de septiembre de 2003.
 
@@ -59,6 +59,8 @@ Si un órgano jurisdiccional concluye funciones o termina de apoyar a otro antes
 
 Duración. Las visitas ordinarias durarán a lo más dos días tratándose de tribunales colegiados y unitarios de Circuito; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de Procesos Penales Federales y juzgados denominados “A” Y “B”, en cuyo caso la duración de la visita no excederá de cuatro días. Se agregará un día más en caso de que el órgano jurisdiccional visitado cuente con el apoyo de otro itinerante.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO GENERAL 75/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2003, SE MODIFICA EL PRESENTE PUNTO, QUEDANDO INSUBSISTENTE LA OBLIGACION, POR PARTE DE LOS JUZGADOS DE DISTRITO ITINERANTES, DE LLEVAR UN DUPLICADO DE SU LIBRO DE GOBIERNO.</small>
+
 SEGUNDO.- Se modifican los puntos Primero y Tercero, fracción II, del Acuerdo General 49/2003, para quedar en los siguientes términos:
 
 Primero.- Los Juzgados de Distrito Itinerantes deberán llevar oficialmente un libro de gobierno, a manera de mecanismo de control de los asuntos de sus respectivas competencias, como auxiliar en la supervisión de dichos órganos jurisdiccionales y a su vez, para los efectos de la rendición de estadística.
@@ -78,3 +80,17 @@ SEGUNDO.- Los Juzgados de Distrito Itinerantes que actualmente apoyan a juzgados
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA GUADALUPE M. ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 58/2003, del Pleno del Consejo de la Judicatura Federal, que Adiciona los Artículos 36 y 37 del Acuerdo General 28/2003, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga los Diversos Acuerdos Generales 44/1998 y 54/1999, del propio Cuerpo Colegiado; y Modifica los Puntos Primero y Tercero, Fracción II, del Acuerdo General 49/2003, Relativo al Libro de Gobierno que Obligatoriamente Deberán Llevar los Juzgados de Distrito Itinerantes, fue aprobado por el Pleno del propio Consejo, en sesión de tres de septiembre de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a tres de septiembre de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECFRETOS DE REFORMAS AL PRESENTE.</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- Se modifica el punto segundo del Acuerdo General 58/2003 del Pleno del Consejo de la Judicatura Federal, quedando insubsistente la obligación, por parte de los juzgados de Distrito itinerantes, de llevar un duplicado de su libro de gobierno.
+
+CUARTO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+QUINTO.- Si en el lapso en que se encuentre en vigor el presente acuerdo concluye funciones alguno de los juzgados de Distrito itinerantes, se procederá al reparto de los asuntos que les hayan sido turnados y que se encuentren pendientes de sentencia.
