@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-21977"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2003-09-30"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el viernes 29 de junio de 2001.
 
@@ -1207,65 +1207,165 @@ I. Recargos.
 
 II. Rezagos.
 
-III. Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+III. Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado, así como los intereses que se generen por la misma.
 
 IV. Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado.
 
 V. Multas.
 
-VI. Indemnizaciones con motivo de gastos de ejecución provenientes de gravámenes Federales, Estatales y Municipales, administrados por el Gobierno del Estado de acuerdo con los convenios respectivos.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-VII. Aportaciones del Gobierno Federal y de terceros para obras y servicios públicos.
+VI. Gastos de ejecución originados del procedimiento administrativo de ejecución.
 
-VIII. Otros no especificados.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+VII. Aportaciones de terceros para obras y servicios públicos.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+VIII. Ingresos provenientes de organizaciones descentralizadas o de participación estatal (SALUD).
+
+> <small>(REFORMADA [ N. DE E. ADICIONADA], B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IX. Otros aprovechamientos.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TÍTULO SÉPTIMO
 
-DE LAS PARTICIPACIONES.
+DE LAS PARTICIPACIONES E INCENTIVOS FEDERALES.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO I (SIC)
+
+PARTICIPACIONES.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 94.
 
-Son participaciones las cantidades que percibe el Estado, que se derivan de la aplicación de la Ley de Coordinación Fiscal en los términos de dichos ordenamientos.
+Son participaciones las cantidades que percibe el Estado, que se derivan de la aplicación de la Ley de Coordinación Fiscal, en los términos por ella planteados y que incluye los siguientes fondos:
+
+I. Fondo General de Participaciones;
+
+II. Fondo de Fomento Municipal;
+
+III. Impuestos Especiales sobre Producción y Servicios por Cerveza.
+
+IV. Impuestos Especiales sobre Producción y Servicios por Bebidas Alcohólicas y (sic);
+
+V. Impuestos Especiales sobre Producción y Servicios por Tabacos Labrados.
 
 ###### ARTÍCULO 95.
 
 El Gobierno del Estado cubrirá a los Municipios de la Entidad, en cumplimiento a las Leyes Federales y a los Convenios de Coordinación respectivos, los porcentajes que señale el Presupuesto de Egresos vigente.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO II
+
+INCENTIVOS DE LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+ARTÍCULO 95 A.- Son incentivos aquellas cantidades que recibe el Estado por parte de la Federación, derivados de la colaboración administrativa en materia fiscal, y que conforman los siguientes conceptos:
+
+I. Impuesto sobre Tenencia o Uso de Vehículos;
+
+II. Impuesto sobre Automóviles Nuevos;
+
+III. Incentivos por Actos de Fiscalización Conjunta;
+
+IV. Incentivos por Inspección y Vigilancia;
+
+V. Incentivos por Derechos Derivados del Uso o Goce de la Zona Federal Marítimo Terrestre y (sic);
+
+VI. Incentivos por Convenios Administrativos Federales.
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TÍTULO OCTAVO
 
-DE LOS INGRESOS EXTRAORDINARIOS.
+DE LOS INGRESOS FEDERALIZADOS Y FINANCIAMIENTOS.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO I
+
+FONDO DE APORTACIONES FEDERALES.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 96.
 
-Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de:
+Comprenden las aportaciones federales para entidades federativas y municipios el gasto programable para el ramo general 33 a que se refiere el Presupuesto de Egresos para la Federación y la Ley de Ingresos del Estado y que consisten en:
 
-I. Subsidios del Gobierno Federal.
+I. Fondo de Aportaciones para Educación Básica y Normal;
 
-II. Empréstitos.
+II. Fondo de Aportaciones para Servicios de Salud;
 
-III. Financiamientos.
+III. Fondo de Aportaciones para Infraestructura Social Estatal;
 
-IV. Aportaciones especiales.
+IV. Fondo de aportaciones para Infraestructura Social Municipal;
 
-V. Ingresos provenientes de organizaciones descentralizadas o de participación estatal.
+V. Fondo de Aportaciones para el Fortalecimento de los Municipios;
 
-VI. No especificados.
+VI. Fondo de Aportaciones Múltiples y;
 
-### CAPÍTULO ÚNICO
+VII. Fondo de Aportaciones para la Educación Tecnológica y de Adultos (CONALEP-IEEA).
 
-DE LOS ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO II
+
+INGRESOS REASIGNADOS.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 96 A.- Son ingresos reasignados los recursos presupuestarios que las dependencias y entidades de la federación, trasladan a la entidad con el propósito de transferir responsabilidades que aquéllas tienen que cumplir en el territorio estatal, pero que delegan al estado a efecto de que este las lleve a cabo por ellas, y que son las siguientes:
+
+I. Educación (UABCS);
+
+II. Comisión Nacional del Agua;
+
+III. Secretaría de Gobernación y;
+
+IV. Secretaría de turismo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO III
+
+SUBSIDIOS.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 96 B.- Son subsidios los recursos provenientes de las erogaciones previstas en el Presupuesto de Egresos de la Federación, destinados a las entidades federativas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ## TÍTULO NOVENO
 
-DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO ÚNICO
+
+INGRESOS EXTRAORDINARIOS.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 96 C.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de financiamientos, así como los que no estén considerados explícitamente en esta Ley.
+
+(REUBICADO, [N. DE E. ANTES TITULO NOVENO], B.O. 31 DE DICIEMBRE DE 2003)
 
 ## TÍTULO DÉCIMO
+
+DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 97.
 
@@ -1288,6 +1388,14 @@ I. Derechos por la legalización de firmas, certificaciones y copias certificada
 II. Derechos por la expedición de formas aprobadas, únicamente cuando exista interés directo del pensionado o jubilado.
 
 III. Derechos por servicios del Archivo General de Notarías, únicamente en actos relativos a la persona del pensionado o jubilado, así como de su cónyuge o sus descendientes menores de edad o incapacitados.
+
+(REUBICADO, [N. DE E. ANTES TITULO DÉCIMO], B.O. 31 DE DICIEMBRE DE 2003)
+
+## TÍTULO DÉCIMO PRIMERO
+
+### CAPÍTULO ÚNICO
+
+DE LOS ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS.
 
 ###### ARTÍCULO 99.
 
@@ -1319,9 +1427,9 @@ QUINTO.- La contribución mencionada en el Título Cuarto Capitulo Segundo de es
 
 SEXTO.- Continúan vigentes los artículos transitorios tercero del decreto 1105; y tercero del decreto 1125.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
-SÉPTIMO.- El ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a obras de infraestructura social, previa consulta a la comunidad, para lo cual se deberá constituir un Fideicomiso Público de Inversión y Administración, el que se integrará con cuatro representantes de la iniciativa privada, el Secretario de Promoción y Desarrollo Económico, un representante de cada Ayuntamiento, un miembro del Congreso del Estado y será presidido por el Secretario de Finanzas.
+SÉPTIMO.- El 78% del Ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas, se destinará a obras de infraestructura, previa consulta a la comunidad, para lo cual deberá de constituirse un Fideicomiso Público d e (sic) Inversión y Administración, el que se integrará con cuatro representantes de la iniciativa privada, el Secretario de Promoción y Desarrollo Económico y será presidido por el Secretario de Finanzas. El 22% restante será distribuido entre los Municipios del Estado para cubrir sus gastos públicos, conforme lo previsto en la Ley de Ingresos del Estado para el Fondo de Fomento Municipal.
 
 OCTAVO.- Durante el ejercicio fiscal del 2001, el impuesto para la educación superior y fomento al empleo en el Estado, quedará suspendido.
 
@@ -1372,3 +1480,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 30 DE SEPTIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día 01 de enero del año 2004, a excepción del artículo séptimo transitorio a que se refiere el Artículo Primero de este Decreto, mismo que entrará en vigor a partir del día primero de abril de dos mil cinco.
