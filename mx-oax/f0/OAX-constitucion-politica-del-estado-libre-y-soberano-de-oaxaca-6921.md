@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1985-08-17"
+last_updated: "1985-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1985.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -171,7 +171,7 @@ Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. E
 
 Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las prisiones; toda gabela o contribución en las cárceles; toda molestia injustificada que se infiera en una prisión; toda privación de los elementos esenciales de la vida; así como la permanencia en lugares notoriamente insalubres o antihigiénicos, son, tanto para el que los ordene, como para el que los ejecute, un motivo de responsabilidad que la autoridad competente hará efectiva conforme a la ley. Las penas que priven de la libertad a un individuo tendrán como base el trabajo adecuado para éste, y como fin, su regeneración social. La autoridad judicial, sólo por causa de urgente administración de justicia que hará constar expresamente en el mandamiento respectivo, podrá decretar la extracción de los reos de sus prisiones.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+((REFORMADO, P.O. 15 DE ENERO DE 1983)
 
 La autoridad administrativa sólo podrá decretarla respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción. "En ningún otro caso podrá disponerse de la persona de los reos".
 
@@ -385,7 +385,9 @@ La vecindad no se pierde por ausencia debida al desempeño de otros cargos públ
 
 No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Glosa y el Tesorero General.
 
-Tampoco podrán ser electos Diputados los funcionarios de la Federación y los demás del Estado, y los militares, si no se separan de sus cargos con anticipación de 90 días antes de la fecha de la elección. Para los efectos de esta última disposición, se consideran también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+Tampoco podrán ser electos Diputados los Servidores Públicos de la Federación y los demás del Estado, y los militares, si no se separan de sus cargos con anticipación de 90 días antes de la fecha de la elección. Para los efectos de esta última disposición, se consideran también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
 
 ###### ARTICULO 36.
 
@@ -607,7 +609,9 @@ XIII. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar emp
 
 XIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-XV. Convocar a elecciones de Gobernador y Diputados en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de esos funcionarios;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+XV. Convocar a elecciones de Gobernador y Diputados en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de esos Servidores Públicos;
 
 XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
 
@@ -615,13 +619,17 @@ XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la ele
 
 XVII. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine la presente Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia. La Legislatura otorgará o negara su ratificación a dichos nombramientos dentro del término improrrogables de diez días. Si no resuelve en dicho lapso se tendrán por ratificados los nombramientos. En el caso de que no los ratifique, el Ejecutivo hará nueva designación y, de ser también rechazada, se efectuará una tercera designación que surtirá efectos inmediatamente, a reserva de obtener la ratificación de la Legislatura en el siguiente período ordinario de sesiones;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-XVIII. Recibir la protesta de los Diputados, Gobernador y de los demás funcionarios que ella elija o nombre;
+XVIII. Recibir la protesta de los Diputados, Gobernador y de los demás Servidores Públicos que ella elija o nombre;
 
-XIX. Conceder licencias a sus propios miembros, al Gobernador y a los demás funcionarios y empleados públicos que ella elija o nombre;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-XX. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los demás funcionarios y empleados públicos que ella elija o nombre;
+XIX. Conceder licencias a sus propios miembros, al Gobernador y a los demás Servidores Públicos que ella elija o nombre;
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+XX. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los demás Servidores Públicos que ella elija o nombre;
 
 XXI. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
 
@@ -651,15 +659,17 @@ XXX. Autorizar la formación de asociaciones o sociedades cooperativas de produc
 
 XXXI. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-XXXII. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Funcionarios y Empleados Públicos del Estado;
+XXXII. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Servidores Públicos del Estado;
 
 XXXIII. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
 XXXIV. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
 
-XXXV. Erigirse en Gran Jurado para declarar, en su caso, que ha lugar a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si son o no culpables los propios funcionarios de los delitos oficiales de que fueren acusados;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+XXXV. Erigirse en Gran Jurado, para declarar, en su caso, que ha lugar a formación de causa contra servidores públicos que gocen de protección constitucional, por delitos del orden común, y si son o no culpables los propios servidores públicos de los delitos de responsabilidad oficial de que fueren acusados;
 
 XXXVI. Establecer tropas permanentes dentro del territorio del Estado; imponer derechos de tonelaje o de importación y exportación marítima, previo el consentimiento del Congreso de la Unión;
 
@@ -715,17 +725,23 @@ II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria
 
 III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada (sic) la debida publicidad.
 
-IV. Recibir la protesta de ley de los funcionarios públicos que deban otorgarla ante la Legislatura, durante los recesos de ésta.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-V. Conceder licencia a los mismos funcionarios a que se refiere la fracción anterior, hasta por el tiempo que dure el receso.
+IV. Recibir la protesta de ley de los Servidores Públicos que deban otorgarla ante la Legislatura, durante los recesos de ésta.
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+V. Conceder Licencias a los mismos Servidores Públicos a que se refiere la fracción anterior, hasta por el tiempo que dure el receso.
 
 VI. Resolver todas las renuncias que por causa de urgencia presenten los funcionarios que deban hacerlo ante la Legislatura, en los recesos de ésta.
 
-VII. Nombrar provisionalmente a los sustitutos de los funcionarios cuyas renuncias hubiere aceptado.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+VII. Nombrar provisionalmente a los sustitutos de los Servidores Públicos cuyas renuncias hubiere aceptado.
 
-VIII. Nombrar provisionalmente, con las limitaciones que la establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa, en caso de falta absoluta de ellos.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+VIII. Nombrar provisionalmente, con las limitaciones que la establezcan las leyes, a los Servidores Públicos de su Secretaría y a los de la Contaduría Mayor de Glosa, en caso de falta absoluta de ellos.
 
 IX. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio.
 
@@ -761,7 +777,9 @@ II. Tener treinta y cinco años cumplidos el (sic) día de la elección;
 
 III. No ser Presidente de la República, Secretario Estatal o Federal, Magistrado del Tribunal Superior, Procurador General de Justicia, ni Director de organismo descentralizado o empresa de participación estatal, a menos que se separe del cargo ciento ochenta días antes de la fecha de la elección;
 
-IV. No ser funcionario judicial de la Federación con jurisdicción en el Estado, a no ser que renuncie su cargo ciento ochenta días antes de la elección;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+IV. No ser Servidor Público judicial de la Federación con jurisdicción en el Estado, a no ser que renuncie su cargo ciento ochenta días antes de la elección;
 
 V. No haber intervenido directa ni indirectamente en alguna asonada, motín o cuartelazo;
 
@@ -871,9 +889,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Enviar cada vez que crea conveniente al Secretario General de Gobierno, o al Secretario que tenga a su cargo la dependencia correspondiente, para que participen en las discusiones de las Leyes o decretos relativos a sus rspectivos (sic) ramos, pero sin asistir al acto de la votación;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-V. Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios, funcionarios y empleados del Gobierno del Estado, cuyas designaciones o destituciones no estén determinados de otro modo por esta Constitución y las Leyes que de ella deriven;
+V. Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios, Servidores Públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinados de otro modo por esta Constitución y las Leyes que de ella deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -1171,7 +1189,7 @@ IV. Los Concejales o integrantes de los Ayuntamientos a que se refieren las frac
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1211,11 +1229,11 @@ III.- Tener un modo honesto de vivir;
 
 IV.- Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 102.
 
-No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo ni los individuos de las fuerzas de seguridad pública del Estado. Tampoco podrán serlo los empleados públicos del Estado o de la Federación, a menos que se separen del servicio activo los primeros, o de sus cargos los segundos, noventa días antes de la elección.
+No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo ni los individuos de las fuerzas de seguridad pública del Estado. Tampoco podrán serlo los Servidores Públicos del Estado o de la Federación, a menos que se separen del servicio activo los primeros, o de sus cargos los segundos, noventa días antes de la elección.
 
 ###### ARTICULO 103.
 
@@ -1234,6 +1252,8 @@ Los Ayuntamientos, además de los períodos legislativos, tendrán sesiones una 
 Los Ayuntamientos, como cuerpos colectivos no tendrán ejercicio de jurisdicción ni facultades de autoridad directa; en el mismo caso están los regidores. Todas las disposiciones de los Ayuntamientos serán ejecutadas por los Presidentes Municipales.
 
 #### SECCION PRIMERA. De la Responsabilidad de los Funcionarios del Estado
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 107.
 
@@ -1295,6 +1315,8 @@ Los Síndicos procuradores tendrán el carácter de mandatarios de los Ayuntamie
 
 #### SECCION SEGUNDA. De la Responsabilidad de los Funcionarios Municipales
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 111.
 
 Para el despacho de los asuntos municipales, cada Ayuntamiento designará un Secretario, cuyas atribuciones serán:
@@ -1309,7 +1331,11 @@ III. Todas las que le confieran las respectivas leyes reglamentarias.
 
 La recaudación de las contribuciones municipales estará a cargo de un Tesorero Municipal nombrado por el Ayuntamiento.
 
-## TITULO QUINTO. De la Responsabilidad de los Funcionarios del Estado y Municipales
+## TITULO V (SIC)
+
+De las Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS A LA PRESENTE CONSTITUCION, PUBLICADO EN EL P.O. DEL 18 DE NOVIEMBRE DE 1985, SE MODIFICA COMPLETAMENTE EL TITULO QUINTO, POR LO QUE SE DESPRENDE DE LA PUBLICACION EN COMENTO, QUE ESTA SECCION QUEDA COMPRENDIDA EN EL CONTENIDO DEL CITADO TITULO.</small>
 
 ###### ARTICULO 113.
 
@@ -1317,9 +1343,11 @@ Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables 
 
 ## TITULO SEXTO. Principios Generales de Administración Pública
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 149.
 
-El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los Servidores Públicos y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1950)</small>
 
@@ -1353,7 +1381,9 @@ Los Ayuntamientos del Estado están obligados a mejorar y conservar los caminos 
 
 Los bienes raíces de beneficiencia (sic) o instrucción pública que puedan conservar las corporaciones respectivas conforme a las leyes, así como los capitales impuestos pertenecientes a las mismas; no podrán ser enajenadas ni de algún modo gravados sin decreto especial de la Legislatura del Estado.
 
-La infracción de éste y de los artículos 81, fracción IX y 108 de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o funcionarios que dispongan de dichos bienes, como los que reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quien quiera que sea su poseedor.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+La infracción de éste y de los artículos 81, fracción IX y 108 de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o Servidores Públicos que dispongan de dichos bienes, como los que reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quien quiera que sea su poseedor.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1969)</small>
 
@@ -1375,7 +1405,9 @@ En el Estado, ningún ciudadano puede desempeñar a la vez dos o más cargos de 
 
 Tampoco podrá desempeñar empleo ni cargo público de elección popular, cualquier ciudadano que disfrute de fuero federal.
 
-El requisito de la edad a los funcionarios a quienes se exige la de treinta y cinco años para el ejercicio de su encargo, exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura, pero nunca ni por ningún motivo se dispensarán más de cinco años de edad.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+El requisito de la edad a los Servidores Públicos a quienes se exige la de treinta y cinco años para el ejercicio de su encargo, exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura, pero nunca ni por ningún motivo se dispensarán más de cinco años de edad.
 
 ###### ARTICULO 159.
 
@@ -1409,11 +1441,13 @@ Toda ministración de dinero, todo emolumento o gratificación concedida a los r
 
 La compensación de que habla el artículo anterior, sólo tendrá lugar por los servicios de presente. En los casos de legítimo impedimento y en los de largos servicios, se otorgarán pensiones con carácter de retiro o jubilación, conforme a las leyes que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 163.
 
-Todo funcionario o empleado público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
+Todo Servidor Público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
 
-El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: la autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ... que el Estado os ha conferido?" --- El interrogado contestará: "Sí protesto". Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
+El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás Servidores Públicos rendirán la protesta ante quien corresponda en la siguiente forma: la autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ... que el Estado os ha conferido?" --- El interrogado contestará: "Sí protesto". Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
 
 ###### ARTICULO 114.
 
@@ -1439,9 +1473,11 @@ Si la Legislatura estuviere en receso, será convocada a sesiones extraordinaria
 
 Todos los vecinos de un Municipio tienen acción para denunciar y acusar, ante el Ayuntamiento respectivo, la malversación de fondos y cualesquiera otros hechos que importen menoscabo de la Hacienda Municipal.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 116.
 
-La administración de justicia en cada municipio estará a cargo de uno o más funcionarios que se llamarán Alcaldes. Por cada Alcalde propietario habrá dos suplentes, que llevarán su respectivo número de orden.
+La administración de justicia en cada municipio estará a cargo de uno o más Servidores Públicos que se llamarán Alcaldes. Por cada Alcalde propietario habrá dos suplentes, que llevarán su respectivo número de orden.
 
 ###### ARTICULO 117.
 
@@ -1467,7 +1503,7 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-La Ley Orgánica del Poder Judicial del Estado, determinará el número de Magistrados numerarios y supernumerarios que deban componer el Tribunal Superior de Justicia. Dichos funcionarios serán nombrados por el Gobernador del Estado, con la ratificación de la Legislatura.
+La Ley Orgánica del Poder Judicial del Estado, determinará el número de Magistrados numerarios y supernumerarios que deban componer el Tribunal Superior de Justicia. Dichos Servidores Públicos serán nombrados por el Gobernador del Estado, con la ratificación de la Legislatura.
 
 ###### ARTICULO 122.
 
@@ -1503,7 +1539,9 @@ Corresponde al Tribunal Superior de Justicia:
 
 I. Iniciar leyes en todo lo relativo a lo administrativo u orgánico judicial;
 
-II. Resolver como jurado de sentencia en las causas de responsabilidad por delitos oficiales que hayan de formarse contra los funcionarios públicos del Estado; en los términos que fija esta Constitución;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
+II. Resolver como jurado de sentencia en las causas de responsabilidad por delitos oficiales que hayan de formarse contra los Servidores Públicos del Estado; en los términos que fija esta Constitución;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1523,15 +1561,15 @@ VIII. Dirimir las competencias de jurisdicción que se susciten entre los jueces
 
 IX. Nombrar a los Jueces de Primera Instancia;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-X. Conceder licencias a los empleados de su nombramiento en la forma que determinen las leyes;
+X. Conceder licencias a los Servidores Públicos de su nombramiento en la forma que determinen las leyes;
 
 XI. Formar el reglamento interior del Tribunal, pasándolo a la Legislatura para su aprobación;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
-XII. Nombrar y remover, con las limitaciones que establezcan las leyes, a los empleados de sus dependencias y ejercer las demás atribuciones legales del Poder Judicial.
+XII. Nombrar y remover, con las limitaciones que establezcan las leyes, a los Servidores Públicos de sus dependencias y ejercer las demás atribuciones legales del Poder Judicial.
 
 ###### ARTICULO 128.
 
@@ -1549,9 +1587,11 @@ Los Jueces de Primera Instancia tendrán los mismos requisitos que los Magistrad
 
 El cargo de Juez de Primera Instancia es renunciable, por causa justificada que calificará el Tribunal Superior de Justicia, ante el que se presentará la renuncia.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 131.
 
-Los jurados conocerán como Tribunales de hecho, de los delitos políticos, de los cometidos por medio de la prensa y de los que les sometan las leyes, siempre que éstos puedan ser castigados con una pena mayor de un año de prisión.
+Los Jurados conocerán como Tribunales de Hecho, de los delitos cometidos por medio de la prensa, y de los que les sometan las leyes, siempre que éstos puedan ser castigados con una pena mayor de un año de prisión.
 
 ###### ARTICULO 132.
 
@@ -1561,9 +1601,11 @@ Todo ciudadano que sepa leer y escribir y sea vecino del municipio cabecera de d
 
 El Ministerio Público es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes. La persecución de los delitos incumbe al Ministerio Público y a la policía judicial, la cual estará bajo el mando inmediato de aquél. El Ministerio Público intervendrá, además, en los asuntos judiciales que interesen a las personas a quien la ley concede especial protección, en la forma y términos que la misma ley determina.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 134.
 
-El Ministerio Público será desempeñado por un funcionario que se denominará Procurador General de Justicia y por los Agentes que fija la ley.
+El Ministerio Público será desempeñado por un Servidor Público que se denominará Procurador General de Justicia y por los Agentes que fija la ley.
 
 > <small>(REFORMADO, P.O. 04 DE NOVIEMBRE DE 1950)</small>
 
@@ -1595,47 +1637,121 @@ La ley reglamentará el ejercicio de estas funciones y señalará las que corres
 
 Las funciones de Procurador General y las de Agente del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+
 ###### ARTICULO 139.
 
-Los diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Secretario General del Despacho y el Subsecretario y demás funcionarios inferiores en su caso, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador del Estado también es responsable, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común, y por violación expresa del artículo 81 de esta Constitución.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, en los Organismos Descentralizados, empresas de participación estatal, sociedades y Asociaciones asimiladas a éstos, o en fideicomisos públicos; así como en la Administración pública Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del artículo 81o. de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110o. de la Constitución Federal.
+
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías, y el Procurador General de Justicia, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las Leyes Federales, a esta Constitución y a las Leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 140.
 
-Siempre que se trate de los delitos del orden común cometidos por alguno de los funcionarios de primer orden a que se refiere el artículo anterior, la Legislatura, erigida en Gran Jurado, declarará por mayoría absoluta de votos de todos sus miembros, si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá lugar a procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga los fundamentos de la acusación.
+El Congreso del Estado, expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter incurran en responsabilidades de acuerdo con las siguientes prevenciones:
 
-En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los tribunales comunes; pero su ausencia en el desempeño de sus funciones se considerará como temporal, cualquiera que sea su duración, mientras no se dicte sentencia condenatoria definitiva.
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 141 de esta Constitución a los servidores públicos señalados en ella, cuando en el ejercicio de sus funciones incurren en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+
+No procede el juicio político por la mera expresión de ideas.
+
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación penal; y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+Los procedimientos para la aplicación de las sanciones a que se refieren las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+Las Leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo, por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+Cualquier Ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 141.
 
-De los delitos oficiales conocerán: la Legislatura como jurado de acusación, y el Tribunal Superior de Justicia del Estado como jurado de sentencia. El jurado de acusación tendrá por objeto declarar a mayoría absoluta de votos del número total de sus miembros, si el acusado es o no culpable. Si la declaración fuere absolutoria, continuará el acusado en el ejercicio de su cargo; si fuere condenatoria, quedará separado de dicho cargo y será puesto a disposición del Tribunal Superior de Justicia. Este, erigido en Jurado de Sentencia, con asistencia del reo, del Procurador General y del acusador, procederá a aplicar a mayoría absoluta de votos la pena que señale la ley.
+Podrán ser sujetos de juicio político los Diputados de la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías y el Procurador General de Justicia.
+
+Las sanciones consistirán en la destitución del servidor público y en su caso inhabilitación para desempeñar sus funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una Comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
+
+Conociendo el dictamen el Congreso del Estado, erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+Las declaraciones y resoluciones del Congreso del Estado son inatacables.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 142.
 
-Pronunciada una sentencia de responsabilidad por delitos oficiales, no se concederá al reo el indulto por gracia.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Titulares de las Secretarías y el Procurador General de Justicia, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, si ha o no lugar a proceder contra el inculpado.
+
+Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
+
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la Ley.
+
+Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante la Cámara de Diputados en los términos de los artículos 110 de la Constitución Federal y 81 de esta Constitución. En este supuesto, la Cámara de Diputados resolverá con base en la Legislación penal aplicable.
+
+Las declaraciones y resoluciones de la Cámara de Diputados son inatacables.
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+
+Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 143.
 
-La acción para exigir la responsabilidad por delitos oficiales, prescribirá en el término de dos años, contados desde la conclusión del período constitucional del responsable, si lo tuviere.
+No se requerirá declaración de procedencia de la Cámara de Diputados cuando alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 142, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 142 se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 144.
 
-En demandas del orden civil, no hay fuero ni inmunidad para cualquier funcionario público.
+Las Leyes sobre responsabilidades administrativas de los servidores públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, en su caso, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 140, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS A LA PRESENTE CONSTITUCION, PUBLICADO EN EL P.O. DEL 18 DE NOVIEMBRE DE 1985, SE MODIFICA COMPLETAMENTE EL TITULO QUINTO, POR LO QUE SE DESPRENDE DE LA PUBLICACION EN COMENTO, QUE ESTA SECCION QUEDA COMPRENDIDA EN EL CONTENIDO DEL CITADO TITULO.</small>
 
 ###### ARTICULO 145.
 
-Los miembros de los Ayuntamientos y los Alcaldes son responsables de los delitos comunes y de los delitos y faltas oficiales que cometan durante su encargo.
+El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el artículo 142.
+
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 140. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 146.
 
-En los delitos del orden común y violación de leyes federales y del Estado, los funcionarios municipales no gozarán de fuero alguno, pudiendo, en consecuencia, proceder contra ellos el Ministerio Público.
+Los miembros de los Ayuntamientos y los Alcaldes son responsables de los delitos comunes y de los delitos y faltas oficiales que cometan durante su encargo.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 147.
 
-De las infracciones a las ordenanzas y reglamentos exclusivos del municipio, cometidas por los concejales y alcaldes, conocerán; el Ayuntamiento respectivo como jurado de acusación, y el juez de primera instancia del distrito judicial a que corresponda dicho Ayuntamiento, como juez de sentencia y para el solo efecto de aplicar la pena que corresponda. El jurado de acusación resolverá a mayoría absoluta de votos del número total de sus miembros, si el acusado es o no responsable; en el primer caso, quedará separado de su cargo y puesto a disposición del juez de primera instancia, El (sic) Ministerio Público intervendrá en el jurado de sentencia.
+En los delitos del orden común y violación de las Leyes Federales y del Estado, los servidores públicos Municipales no gozarán de protección constitucional alguna, pudiendo, en consecuencia, proceder contra ellos el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 148.
 
-Son aplicables a los funcionarios municipales las disposiciones de los artículos 142, 143 y 144 de esta Constitución.
+De las infracciones a las ordenanzas y Reglamentos exclusivos del Municipio cometidos por los Concejales, Alcalde (sic) y Agentes Municipales, conocerán una comisión integrada por Concejales del Ayuntamiento respectivo, en los términos de sus Reglamentos, la que se encargará de analizar la acusación, y que a su vez sustanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen.
+
+Conociendo el dictamen el Ayuntamiento y erigido en jurado de sentencia, aplicará la sanción respectiva mediante la resolución de las dos terceras partes de sus integrantes, una vez practicadas las diligencias correspondientes y con audiencia del acusado.
+
+Si la resolución del Ayuntamiento fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Si el Ayuntamiento declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen conforme a la ley.
+
+Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 ## TRANSITORIOS
 
@@ -1944,3 +2060,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 17 DE AGOSTO DE 1985.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 1985.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
