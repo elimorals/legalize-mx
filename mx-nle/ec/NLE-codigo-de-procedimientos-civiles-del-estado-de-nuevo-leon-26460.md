@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1983-11-23"
+last_updated: "1983-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4521,9 +4521,9 @@ Es también parte y podrá intervenir personalmente en las cuestiones relativas 
 
 JUICIOS SUCESORIOS.
 
-### CAPITULO VII
+### CAPITULO VI BIS. DEL PROCEDIMIENTO SUCESORIO ESPECIAL
 
-DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 779.
 
@@ -4719,9 +4719,9 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formulación.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-DE LA TRAMITACION POR NOTARIOS.
+DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 808.
 
@@ -4765,9 +4765,9 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevista por el artículo 808 podrán los herederos nombrar interventor conforme a la facultad que les concede al artículo 1625 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 1628 del mismo Código.
 
-### CAPITULO IX
+### CAPITULO VIII
 
-DEL TESTAMENTO PUBLICO CERRADO.
+DE LA TRAMITACION POR NOTARIOS.
 
 ###### Artículo 817.
 
@@ -4803,9 +4803,9 @@ En la misma sentencia resolverá quien es el albacea que será nombrado por el j
 
 La sentencia a que se refifere (sic) el artículo anterior será apelable en ambos efectos y la de segunda instancia causará ejecutoria para los que hubieren sido parte en el juicio.
 
-### CAPITULO X
+### CAPITULO IX
 
-DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
+DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 825.
 
@@ -4883,9 +4883,9 @@ Los gastos de inventario y avalúo, son a cargo de la herencia, salvo que el tes
 
 El avalúo de los bienes servirá de base para fijar definitivamente la competencia del juez que deba conocer los de juicios sucesorios. Si esto ameritare que conozca del juicio otra autoridad distinta de la que conocía, se remitirá el expediente a quien corresponda, quedando válidas y subsistentes las actuaciones anteriores.
 
-### CAPITULO XI
+### CAPITULO X
 
-DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
+DECLARACION DE SER FORMAL EL TESTAMENTO OLOGRAFO.
 
 ###### Artículo 841.
 
@@ -4989,9 +4989,9 @@ El auto que aprueba o reprueba la cuenta es apelable en ambos efectos.
 
 Concluído y aprobado el inventario el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO XII
+### CAPITULO XI
 
-DEL TESTAMENTO MILITAR.
+DECLARACION DE SER FORMAL EL TESTAMENTO PRIVADO.
 
 ###### Artículo 863.
 
@@ -5119,13 +5119,53 @@ VI.- La firma de todos los interesados.
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de cinco mil pesos.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO XII
+
+DEL TESTAMENTO MILITAR.
+
+###### Artículo 879 Bis.
+
+El procedimiento sucesorio especial se sujetará a los dispuesto en este Capítulo.
+
+En las sucesiones intestadas o testamentarias que se sometan a la tramitación aquí prevista, se observarán los siguientes requisitos:
+
+I.- Que los herederos estén de acuerdo en la forma y términos de liquidar el haber hereditario;
+
+II.- Que en los casos de intestado, la denuncia se firme por todos los presuntos herederos o sus representantes legítimos, expresando sus reconocimiento(SIC) entre sí y la designación de albacea;
+
+III.- Con la denuncia se exhibirán las actas del Estado Civil que acrediten la defunción del autor de la herencia y el entroncamiento de los comparecientes con éste;
+
+IV.- Tratándose de sucesión testamentaria, a la demanda se acompañará el acta de defunción y el testamento, en cuyo caso el Juez citará a la junta prevista por los Artículos 808 y 908, observándose las demás reglas a que se contrae este capítulo;
+
+V.- Igualmente deberán presentarse el inventario y avalúo de los bienes y los títulos de propiedad respectivos, cuyos inventario y avalúos deberán firmarse por cada uno de los interesados;
+
+> <small>(F. DE E. P.O.19 DE DICIEMBRE DE 1983)</small>
+
+VI.- Recibida la denuncia del intestado se radicará el juicio y se declararán provisionalmente herederos a los comparecientes que hayan comprobado su parentesco con el autor de la sucesión, de acuerdo al Código Civil, teniéndose como Albacea al designado. Al mismo tiempo se dispondrá la publicación de un Edicto por una sola vez, en un periódico de los de mayor circulación en el Estado, convocando a los que se crean con derecho a la herencia para que lo deduzcan en un plazo de diez días, contados desde el siguiente al de la publicación;
+
+> <small>(F. DE E. P.O.19 DE DICIEMBRE DE 1983)</small>
+
+VII.- Transcurrido dicho plazo, se presenten o nó otros interesados, el Juez pronunciará la resolución definitiva, en la que declare como herederos a quienes hayan justificado su derecho a la herencia conforme a las disposiciones establecidas en el Código Civil;
+
+> <small>(F. DE E. P.O.19 DE DICIEMBRE DE 1983)</small>
+
+VIII.- En la misma resolución aprobará los inventarios y avalúos si no existe oposición por quienes se presentaren dentro del plazo antes indicado. En este caso, en la propia resolución se convocará a los herederos reconocidos a una junta, que se celebrará dentro de las setenta y dos horas siguientes, en la que se haga la partición de los bienes o se presente ésta por escrito firmado por todos los herederos o por quienes representen la mayoría de porciones, decretándose la aprobación correspondiente, copia certificada de la cual se remitirá a Notario Público para la protocolización correspondiente, misma que se inscribirá en el Registro Público de la Propiedad y del Comercio, tratándose de bienes susceptibles de registro.
+
+La aprobación que se decrete será apelable en ambos efectos.
+
+IX.- Si existe oposición a los inventarios y avalúos por los que se presentaren dentro del mencionado plazo de diez días, el Juez se abstendrá de aprobar aquellos y tramitará la oposición en la vía incidental. Pero para dar curso a la misma es requisito indispensable que se hubiera expresado la causa de la oposición y las pruebas que se vayan a rendir al respecto.
+
+Cuando la oposición sea sólo respecto de la parte de los bienes, se continuará el procedimiento para su partición y adjudicación de los bienes no comprendidos en la oposición, de no haber inconveniente legal alguno.
+
+La resolución que decida la oposición será apelable en ambos efectos.
+
+Cuando cause firmeza dicha resolución, se seguirá el procedimiento con sujeción a lo previsto en los párrafos anteriores.
+
 ### CAPITULO XIII
 
 DEL TESTAMENTO MARITIMO.
-
-### CAPITULO XIV
-
-EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
 
 ###### Artículo 880.
 
@@ -5147,9 +5187,9 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- Tratándose de la sucesión del patrimonio familiar, formado con los bienes a que se refiere el Artículo 734 del Código Civil del Estado, con la certificación de la defunción del autor de la herencia se acompañará el título que acredita la constitución del patrimonio de familia; y el Juez, de Oficio y sin más trámites que oír el parecer del Ministerio Público, dictará resolución en la que reconozca la calidad al heredero designado en la cláusula testamentaria y decrete la adjudicación en su favor de los bienes materia del patrimonio de familia. Dicha resolución servirá de título de propiedad al heredero y adjudicatario testamentario, ordenándose por la propia Autoridad Judicial su inscripción en el Registro Público de la Propiedad con las anotaciones que correspondan en el Título antecedente, todo lo cual se deberá efectuar en un plazo que nunca exceda de treinta días.
 
-### CAPITULO I
+### CAPITULO XIV
 
-DISPOSICIONES GENERALES.
+EL TESTAMENTO HECHO EN PAIS EXTRANJERO.
 
 ###### Artículo 881.
 
@@ -5173,9 +5213,9 @@ Siempre que haya oposición de algún aspirante a la herencia o de cpualquier (s
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en este Capítulo. Esto se hará cuando no hubiere controversia alguna.
 
-### CAPITULO II
+### CAPITULO I
 
-DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
+DISPOSICIONES GENERALES.
 
 ###### Artículo 886.
 
@@ -5195,9 +5235,9 @@ Será preferida para la protocolización de todo testamento cerrado, la notaría
 
 Si se presentaren dos o más testamentos de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1391 y 1393 del Código Civil.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
+DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS.
 
 ###### Artículo 890.
 
@@ -5211,11 +5251,9 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 1458 
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existen del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO IV
+### CAPITULO III
 
-DE LA ADOPCION.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
 ###### Artículo 893.
 
@@ -5243,11 +5281,11 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1572 d
 
 De la resolución que niegue la declaración solicitada puede apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO V
+### CAPITULO IV
 
-DE LAS INFORMACIONES AD-PERPETUAM.
+DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
 
 ###### Artículo 897.
 
@@ -5259,17 +5297,19 @@ De la declaración judicial se remitirá copia autorizada al Secretario de Guerr
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO VI
+### CAPITULO V
 
-APEO Y DESLINDE.
+DE LAS INFORMACIONES AD-PERPETUAM.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 899.
 
 Hechas las publicaciones que ordena el artículo 1487 del Código Civil, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a éste que lo envíe.
 
-### CAPITULO VII
+### CAPITULO VI
 
-DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
+APEO Y DESLINDE.
 
 ###### Artículo 900.
 
@@ -5285,11 +5325,9 @@ DE LA JURISDICCION VOLUNTARIA.
 
 ## TITULO UNICO
 
-### CAPITULO UNICO
+### CAPITULO VII
 
-ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
+DISPOSICIONES RELATIVAS A OTROS ACTOS DE JURISDICCIÓN VOLUNTARIA.
 
 ###### Artículo 902.
 
@@ -5348,6 +5386,12 @@ En los negocios de menores e incapacitados, intervendrán el juez de primera ins
 ###### Artículo 913.
 
 Los actos de jurisdicción voluntaria a que haga mención este Código, se sujetarán a lo dispuesto en este Capítulo.
+
+### CAPITULO UNICO
+
+ACCIONES AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ###### Artículo 914.
 
@@ -6096,3 +6140,9 @@ P.O. 23 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1983.
+
+PRIMERO:- Todos los expedientes que se encuentren en trámite podrán acogerse al procedimiento establecido en este decreto.
+
+SEGUNDO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
