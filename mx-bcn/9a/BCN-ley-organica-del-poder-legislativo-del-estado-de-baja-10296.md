@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-10296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-13"
-last_updated: "1996-01-05"
+last_updated: "1996-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1996.
 
 Ley Publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el 13 de septiembre de 1995.
 
@@ -305,9 +305,11 @@ Cuando a una sesión del Pleno del Congreso no concurriera el Presidente ni el V
 
 Si durante una sesión del Pleno del Congreso el Presidente debiere abandonar el recinto por algún motivo que explique, sin encontrarse el Vicepresidente, la Asamblea, previa autorización que otorgará el Presidente, elegirá en votación económica a quien deba suplirlo durante la sesión.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 35.
 
-Corresponde a la Mesa Directiva, bajo la autoridad del Presidente, preservar la libertad de las deliberaciones, cuidar la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta Ley y los Acuerdos que emita el Pleno del Congreso.
+Corresponde a la Mesa Directiva, bajo la autoridad del Presidente, preservar la libertad de las deliberaciones, cuidar la efectividad del trabajo legislativo, y aplicar con imparcialidad las disposiciones de esta Ley y los Acuerdos que emita el Pleno del Congreso, así como informar públicamente al término de cada Período Ordinario, de Receso y Extraordinario en su caso, el destino de los recursos ejercidos y su correspondencia con el presupuesto de egresos del Poder Legislativo, por su operación y funcionamiento a la fecha.
 
 ###### ARTICULO 36.
 
@@ -1520,3 +1522,9 @@ P.O. 5 DE ENERO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
