@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-financiamiento-publico-de-las-9894"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-02-24"
-last_updated: "2002-03-06"
+last_updated: "2005-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9894&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1997-02-21"
 ---
 # REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO DE LAS AGRUPACIONES POLITICAS NACIONALES, PARA SUS ACTIVIDADES EDITORIALES, DE EDUCACION Y CAPACITACION POLITICA Y DE INVESTIGACION SOCIOECONOMICA Y POLITICA
 
-REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO A LAS AGRUPACIONES POLITICAS NACIONALES POR SUS ACTIVIDADES EDITORIALES, DE EDUCACION Y CAPACITACION POLITICA Y DE INVESTIGACION SOCIOECONOMICA Y POLITICA.
+REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO A LAS AGRUPACIONES POLITICAS NACIONALES POR SUS ACTIVIDADES EDITORIALES, DE EDUCACION Y CAPACITACION POLITICA Y DE INVESTIGACION SOCIOECONOMICA Y POLITICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MARZO DE 2002.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL ACUERDO QUE EMITE EL REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO QUE SE OTORGUE A LAS AGRUPACIONES POLITICAS NACIONALES PUBLICADO EN EL D.O.F. EL 3 DE ENERO DE 2005, SE ABROGA EL REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO PARA LAS AGRUPACIONES POLITICAS NACIONALES, APROBADO POR EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL EL 12 DE DICIEMBRE DE 2001 Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE MARZO DE 2002, CON FECHA 31 DE DICIEMBRE DE 2004.</small>
 
-> <small>N. DE E. SE REFORMA EN FORMA INTEGRA EL PRESENTE REGLAMENTO, POR ACUERDO No. CG121/2001 DEL CONSEJO GENERAL DEL I.F.E., PUBLICADO EN EL D.O.F. DEL 6 DE MARZO DE 2002.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 1997.
 
@@ -532,3 +532,15 @@ D.O.F. 6 DE MARZO DE 2002.
 SEGUNDO.- LAS MODIFICACIONES AL REGLAMENTO PARA EL FINANCIAMIENTO PUBLICO PARA LAS AGRUPACIONES POLITICAS NACIONALES ENTRARAN EN VIGOR EL PRIMERO DE ENERO DEL AÑO DOS MIL DOS.
 
 TERCERO.- PUBLIQUESE EL PRESENTE REGLAMENTO EN EL DIARIO OFICIAL DE LA FEDERACION.
+
+D.O.F. 3 DE ENERO DE 2005.
+
+Artículo primero.- El presente Reglamento para el financiamiento público que se otorgue a las Agrupaciones Políticas Nacionales entrará en vigor a partir del primero de enero del año 2005.
+
+Artículo segundo.- A las actividades a que se refiere el párrafo 7 del artículo 35 del Código Federal de Instituciones y Procedimientos Electorales, que hayan sido realizadas por las Agrupaciones Políticas Nacionales durante el año 2004, les resultará aplicable el Reglamento aprobado por el Consejo General del Instituto Federal Electoral el 12 de diciembre de 2001 y publicado en el Diario Oficial de la Federación el 6 de marzo de 2002.
+
+TERCERO.- Las Agrupaciones Políticas Nacionales podrán coadyuvar con las acciones que realice el Instituto Federal Electoral en materia de educación cívica. Para efectos de lo anterior se modifica en lo conducente el punto cuarto del Acuerdo del Consejo General del Instituto número CG56/99, por el que se establecen los criterios y lineamientos generales y criterios específicos que deberán observarse en la celebración de convenios de apoyo y colaboración en materia de educación cívica, difusión de la cultura democrática y capacitación electoral, que suscriba el Instituto Federal Electoral con diversas instituciones públicas y privadas, asociaciones civiles y organizaciones diversas, aprobado en sesión ordinaria celebrada el 25 de mayo de 1999, de manera que el Instituto Federal Electoral esté en aptitud de suscribir convenios de apoyo y colaboración directamente con las Agrupaciones Políticas Nacionales. En todo caso, dichos convenios tendrán que ser aprobados con anterioridad por la Comisión de Capacitación Electoral y Educación Cívica.
+
+CUARTO.- Notifíquese por oficio el presente Acuerdo a las Agrupaciones Políticas Nacionales.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
