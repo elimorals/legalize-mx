@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-proteccion-a-los-animales-11744"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-15"
-last_updated: "1996-08-15"
+last_updated: "2002-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES
 
-TEXTO ORIGINAL
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL PARA PROTECCION ANIMAL, PUBLICADO EN EL PERIODICO OFICIAL EL 12 DE JULIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 15 de agosto de 1996.
 
@@ -494,3 +496,23 @@ EN CUMPLIMIENTO POR LO DISPUESTO EN LA FRACCION PRIMERA DEL ARTICULO CINCUENTA Y
 LIC. ENRIQUE BURGOS GARCIA
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 12 DE JULIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciará su vigencia a los 30 días naturales siguientes a su publicación en el periódico oficial del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se abrogará la Ley Estatal de Protección Animal publicada en el Periódico Oficial "La Sombra de Arteaga", número 34 del mes de agosto de mil novecientos noventa y seis.
+
+###### ARTICULO TERCERO.
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación a esta Ley.
+
+###### ARTICULO CUARTO.
+
+Los procedimientos administrativos que se estuvieren tramitando con motivo de la aplicación de la Ley de Protección Animal del Estado de Querétaro que se abroga, podrán sujetarse a las disposiciones de esta Ley en lo que no perjudique al sujeto procesal pasivo. Los que se inicien con posterioridad a la entrada en vigor de la presente Ley se sujetarán a sus disposiciones.
