@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-obras-publicas-del-estado-6078"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-26"
-last_updated: "1997-02-07"
+last_updated: "1999-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 26 de septiembre de 1984.
 
@@ -499,9 +499,7 @@ Concluida la obra, no obstante su recepción formal, el contratista quedará obl
 
 ###### Artículo 47.
 
-Los contratistas con quienes se celebren contratos de Obra Pública o de servicio relacionados con la misma, cubrirán un dos por ciento sobre el importe de cada una de las estimaciones de trabajo, como derechos por los servicios de vigilancia, inspección y control necesarios para su ejecución.
-
-La Secretaría de Finanzas y las Tesorerías Municipales, al hacer el pago de las estimaciones de obra, retendrán el importe de los derechos a que se refiere el párrafo anterior. Igual obligación tendrán las unidades pagadoras de las Entidades, quienes concentrarán en esa Secretaría los importes correspondientes, dentro de los primeros veinte días hábiles de cada mes.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1999)
 
 ###### Artículo 48.
 
@@ -535,7 +533,9 @@ Las Dependencias, Entidades y Ayuntamientos, conservarán en forma ordenada y si
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
 
-Artículo 50 BIS.- Las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas y la Contraloría, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las Dependencias y Entidades que realicen obra pública.
+###### Artículo 50 Bis.
+
+Las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas y la Contraloría, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las Dependencias y Entidades que realicen obra pública.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
 
@@ -551,7 +551,7 @@ La Contraloría y las Dependencias coordinadoras de sector, en el ejercicio de s
 
 (REFORMADO, P.O. 21 DE ABRIL DE 1992) (F. DE E., P.O. 4 DE MAYO DE 1992)
 
-###### Artículo 52.
+###### ARTICULO 52.
 
 Las Dependencias, Entidades y, en su caso, los Ayuntamientos, proporcionarán las facilidades necesarias a fin de que las Secretarías de Finanzas y Planeación, la Contraloría y las dependencias coordinadoras de sector, en el ámbito de su respectiva competencia, puedan realizar la verificación de las obras públicas.
 
@@ -728,3 +728,7 @@ Este Código entrará en vigor a los 30 días naturales siguientes al de su publ
 ###### ARTICULO QUINTO.
 
 Se reforman los artículos... 57 de la Ley de Obras Públicas del Estado de México...
+
+P.O. 24 DE DICIEMBRE DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la "Gaceta de Gobierno" del Estado de México.
