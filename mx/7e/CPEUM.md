@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1933-04-29"
+last_updated: "1933-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 1933.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1402,7 +1402,9 @@ VII.- Para trabajo igual debe corresponder salario igual, sin tener en cuenta se
 
 VIII.- El salario mínimo quedará exceptuado de embargo, compensación o descuento.
 
-IX.- La fijación del tipo de salario mínimo y de la participación en las utilidades a que se refiere la fracción VI, se hará por comisiones especiales que se formarán en cada Municipio, subordinadas a la Junta Central de Conciliación, que se establecerá en cada Estado.
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 1933)</small>
+
+IX.- La fijación del tipo de Salario Mínimo, y de la participación en las utilidades a que se refiere la fracción VI, se hará por Comisiones Especiales que se formarán en cada Municipio, subordinadas a la Junta Central de Conciliación y Arbitraje que se establecerá en cada Estado. En defecto de esas Comisiones, el Salario Mínimo será fijado por la Junta Central de Conciliación y Arbitraje respectiva.
 
 X.- El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
@@ -1727,3 +1729,7 @@ D.O.F. 29 DE ABRIL DE 1933.
 ###### ARTICULO UNICO.
 
 En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
+
+D.O.F. 4 DE NOVIEMBRE DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
