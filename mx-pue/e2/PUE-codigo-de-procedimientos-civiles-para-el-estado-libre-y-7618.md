@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1986-11-18"
+last_updated: "1989-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,83 @@ state: "PUE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+LEY DE CORRIDAS DE GANADO
 
 TEXTO ORIGINAL.
 
-Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
+Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 20 de diciembre de 1902.
 
-GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+MIGUEL CARDENAS, Gobernador constitucional del Estado libre y soberano de Coahuila de Zaragoza, á sus habitantes sabed:
 
-Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+Que el Congreso del mismo, ha decretado lo siguiente:
 
-EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
+El XVII Congreso constitucional del Estado libre, independiente y soberano de Coahuila de Zaragoza, decreta la siguiente.
 
-CONSIDERANDO:
+Ley de Corridas de Ganado.
 
-Que por oficio número 02999 de fecha 13 de Agosto de 1986, el Ciudadano Licenciado Guillermo Jiménez Morales, Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado la Iniciativa del CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+Número 896.
 
-Que para cumplir con lo que establecen los Artículos 64 fracción I de la Constitución Política del Estado; 99, 105 y 141 fracción VI de la Ley Orgánica y Reglamentaria del Poder Legislativo, se turnó la Iniciativa de referencia a la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, la que en Sesión Pública celebrada en este día presentó su Dictamen que fue aprobado en favor de la misma Iniciativa.
+###### Art. 1°.
 
-Que estando satisfechos además los requisitos de los Artículos 57 fracción I, 63 fracción I, 79 fracción VI de la Constitución Política Local; 1º, 183, 184 y 185 de la Ley Orgánica y Reglamentaria del Poder Legislativo,
+Los dueños de fincas de campo en el Estado, podrán libremente hacer corridas de ganado, en cualquier tiempo, dando aviso con ocho días de anticipación á los dueños de fincas colindantes é inmediatas, para que concurran á extraer los semovientes de su propiedad que resultaren en dichas corridas. Esta obligación se impone solamente á los propietarios de terrenos que no estén cercados.
 
-DECRETA:
+###### Art. 2°.
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+Para separar los semovientes agenos que resulten en las corridas, se encerrarán éstas, en los corrales de la finca más próxima al lugar donde se efectuaren; de donde cada propietario recojerá el semoviente que le pertenezca.
+
+###### Art. 3°.
+
+Los dueños, administradores ó encargados de agostaderos que no estén cercados, tienen la obligación estricta de permitir á sus colindantes, que extraigan de ellos los semovientes de su propiedad cada vez que los dueños ó encargados de dichas fincas lo solicitaren. Si el que debe dar este permiso, lo negare, el solicitante ocurrirá en demanda de él á la primera autoridad política del Municipio á que pertenezca la finca, quien con audiencia del dueño de ésta ó sin ella, si citado no compareciere, resolverá sobre la solicitud, y caso de otorgar el permiso, lo concederá por escrito y designará persona que á costa de dicho solicitante, acompañe al encargado de extraer los semovientes durante el tiempo necesario para efectuarlo, dando previo conocimiento del permiso al dueño de la finca.
+
+###### Art. 4°.
+
+En el caso del artículo anterior el comisionado de la autoridad cuidará de que sólo se extraigan los semovientes del solicitante. En los mismos términos de estos artículos, quedan obligados los dueños ó encargados de fincas de campo, de permitir á los transeuntes buscar y recojer los semovientes, que de tránsito por dichas fincas se les extraviaren.
+
+###### Art. 5°.
+
+Nadie podrá transitar fuera de las vías de comunicación, dentro de agostaderos ajenos, sin el permiso prescrito en el artículo anterior.
+
+###### Art. 6°.
+
+Los dueños ó encargados de fincas de campo, darán aviso de los semovientes ajenos que encontraren dentro de ellas á sus respectivos dueños para que ocurran á extraerlos. Si no ocurrieren ó si fueren los semovientes de propiedad desconocida, darán aviso á la primera autoridad política del Municipio, para que se proceda en los términos de la ley.
+
+###### Art. 7°.
+
+Si el dueño del semoviente en terreno ageno no tuviere el aviso á que se refiere el artículo anterior, puede proceder á su extracción de acuerdo con lo dispuesto en el art. 4°. previa justificación ante la autoridad política local.
+
+###### Art. 8°.
+
+Cada año el quince de Enero y sin necesidad de citación previa se reunirán los dueños de fincas de campo ó sus encargados, en la cabecera de la Municipalidad á que pertenezcan, para que ante la primera autoridad política, acuerden las cuotas que deben cobrarse por cabeza de los semovientes agenos que pasten dentro de sus propiedades, y la forma en que ha de hacerse el pago; pero entendiéndose que deberán cobrarse esas cuotas en los agostaderos cercados, y en los abiertos, solo en el caso de que los dueños de los semovientes, no sean propietarios ó arrendatarios de los predios colindantes.
+
+###### Art. 9°.
+
+Tanto los dueños de agostaderos abiertos como los de agostaderos cerrados, acordarán las cuotas que por agua y pasto deberá pagarse por los semovientes de tránsito.
+
+###### Art. 10.
+
+Si el día fijado en el art. 8°. no ocurrieren todos los dueños ó representantes de fincas de campo, las cuotas á que se refiere el mismo artículo se fijarán por los que estuvieren presentes á mayoría de votos, siendo el acuerdo obligatorio para todas las fincas de campo de la Municipalidad. Si ninguno de los interesados ocurriere á la junta del día indicado, la autoridad política local determinará las cuotas referidas.
+
+###### Art. 11.
+
+Respecto de los animales sin marca y señal que se encontraren en las fincas de campo, se observará lo dispuesto en los arts. 736 y 737 del Código Civil.
+
+###### Art. 12.
+
+La primera autoridad política local impondrá una multa de $5.00 á $25.00 á los infractores de cualquiera de las disposiciones de esta ley, sin perjuicio de que sean consignados á los Tribunales, en caso de que la falta llegue á constituir un delito.
+
+###### Art. 13.
+
+Las autoridades políticas de los Municipios, darán cuenta al Gobierno del Estado con los acuerdos que tengan los dueños ó encargados de fincas de campo, ó las propias autoridades políticas en su caso, en las juntas á que se contrae la presente ley, á fin de que se publiquen dichos acuerdos en el Periódico Oficial.
+
+###### Art. 14.
+
+Se derogan las leyes, decretos ó disposiciones anteriores que hubiere sobre la materia.
+
+> <small>N. DE E. LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGOR DE LA MISMA, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.</small>
+
+Dado en el Salón de sesiones del H. Congreso del Estado. Saltillo, Diciembre 11 de 1902.- S. Cárdenas Peña, diputado presidente.- Eugenio Múzquiz, diputado secretario.- E. Dávila.- diputado secretario.
+
+Imprímase, comuníquese y obsérvese. Saltillo, 13 de Diciembre de 1902.- Miguel Cárdenas.- Melchor G. Cárdenas, secretario.
 
 # LIBRO PRIMERO. REGLAS GENERALES
 
