@@ -4,7 +4,7 @@ identifier: "CMX-codigo-financiero-del-distrito-federal-639"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-31"
-last_updated: "2004-01-29"
+last_updated: "2004-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=639&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-12-30"
 
 CODIGO FINANCIERO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE OCTUBRE DE 2004.
 
 Código publicado en la Segunda, Tercera y Cuarta Secciones del Diario Oficial de la Federación el sábado 31 de diciembre de 1994.
 
@@ -4440,6 +4440,8 @@ ARTICULO 264 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 BIS.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
+ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
+
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 265.
@@ -4465,8 +4467,6 @@ El pago de estos derechos se hará previamente a la recolección o a la recepci�
 En el caso en que el monto de los derechos causados resulte superior al efectuado conforme a las estimaciones realizadas por el contribuyente, se pagarán las diferencias con los recargos que correspondan conforme al artículo 64 de este Código, dentro de los primeros cinco días siguientes al mes de causación del derecho.
 
 Cuando los mercados públicos celebren convenios con la autoridad competente para el depósito de residuos sólidos orgánicos generados en alto volumen y realicen el traslado de dichos residuos por cuenta propia al lugar autorizado por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
-
-ARTICULO 265 A.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
 ARTICULO 265 B.- (DEROGADO, G.O. 26 DE DICIEMBRE DE 2003)
 
@@ -5958,7 +5958,9 @@ En los casos de transmisión de valores que representen inversiones financieras 
 
 Los bienes que se embarguen por autoridades del Distrito Federal, distintas de las fiscales conforme a las leyes administrativas aplicables, y los abandonados expresa o tácitamente en beneficio del Distrito Federal, se pondrán a disposición de la Secretaría, junto con la documentación que justifique los actos, para su guarda, administración, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda.
 
-Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público del Distrito Federal o de las Judiciales del Distrito Federal, conforme al Código Penal para el Distrito Federal, y que no hubieren sido recogidos por quien tenga derecho o interés jurídico en ellos, se enajenarán en subasta pública, misma que será de forma inmediata cuando se trate de bienes perecederos o cuya guarda o mantenimiento pueda ocasionar gastos que no se relacionen con su valor. El procedimiento administrativo de enajenación, estará a cargo de la Procuraduría General de Justicia del Distrito Federal o del Tribunal.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2004)</small>
+
+Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público del Distrito Federal o de las Judiciales del Distrito Federal, conforme al Nuevo Código Penal para el Distrito Federal, y que no hubieren sido recogidos por quien tenga derecho o interés jurídico en ellos, se venderán de conformidad con las disposiciones legales y administrativas aplicables. Los bienes perecederos de consumo y durables y aquellos que carezcan de valor o éste sea menor a lo que pudiera costar su enajenación, podrán ser donados a instituciones de asistencia pública en el Distrito Federal, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia del Distrito Federal. El procedimiento administrativo de venta, estará a cargo de la Procuraduría General de Justicia del Distrito Federal o del Tribunal.
 
 Tratándose de bienes decomisados por las autoridades judiciales les será aplicable lo dispuesto en el párrafo anterior. Las autoridades competentes determinarán su destino al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, al mejoramiento de la procuración y la administración de justicia, previa concentración de fondos en la Secretaría.
 
@@ -5980,7 +5982,9 @@ Para efectuar el retiro de los bienes a que se alude en el artículo anterior, u
 
 Los bienes a que se refiere este Capítulo y que se encuentren a disposición de la Secretaría, una vez que se verifique la documentación justificatoria que se acompañe a los mismos, practicada que fuere la notificación y transcurrido el plazo a que se refiere el párrafo quinto del artículo 366 además de no haber impedimento legal alguno, podrán ser rematados en subasta pública, conforme a lo previsto en el Capítulo I del Título Primero, del Libro Sexto, de este Código, enajenados fuera de remate o adjudicados en forma definitiva al Distrito Federal conforme a las reglas de carácter general que dicte la Secretaría. El producto del remate quedará en depósito en la Secretaría a efecto de ser aplicado presupuestalmente en los programas autorizados, o bien, para proceder de acuerdo con las instrucciones de las autoridades judiciales o disposiciones legales aplicables.
 
-En tratándose de subastas públicas, instrumentadas por la Procuraduría General de Justicia del Distrito Federal, o el Tribunal, respecto de los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales del Distrito Federal, el producto que se obtenga de cada evento se concentrará en la Secretaría para destinarlo al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2004)</small>
+
+En tratándose de ventas instrumentadas por la Procuraduría General de Justicia del Distrito Federal o el Tribunal, respecto de los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales del Distrito Federal, el producto que se obtenga de cada evento se concentrará en la Secretaría para destinarlo al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -12929,3 +12933,11 @@ EL presente Decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 6 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los bienes asegurados de los que, a la fecha de entrada en vigor de este decreto, se carezca de datos para relacionarlos con una indagatoria, los vehículos ingresados a los depósitos de vehículos con fecha anterior al 31 de diciembre del año 2002 que no hayan sido recogidos por quien tiene derecho a ello, así como todos aquellos bienes que por su larga permanencia en los depósitos correspondientes se puedan considerar como desecho, quedarán a disposición de la Procuraduría General de Justicia del Distrito Federal para que, por conducto de la unidad administrativa que corresponda, proceda a su destrucción o enajenación. En este último caso, el producto que se obtenga se destinará de la siguiente manera: a).-Tratándose de bienes asegurados antes del 12 de noviembre de 2002, o de bienes respecto de los cuales no sea posible identificar la fecha en que fueron asegurados, el destino final será el mejoramiento de la Procuración de Justicia y b).-Tratándose de bienes asegurados a partir del 12 de noviembre 2002 se destinaran al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+
+TERCERO.- Los particulares que se consideren con derechos respecto de los bienes a que se refiere el Artículo Segundo Transitorio de este Decreto, podrán hacer valer esos derechos ante la Procuraduría General de Justicia del Distrito Federal dentro del término de un año a partir de la fecha de entrada en vigor de este decreto.
