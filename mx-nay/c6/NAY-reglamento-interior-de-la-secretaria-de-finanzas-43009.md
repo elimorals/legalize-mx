@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-finanzas-43009"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-29"
-last_updated: "2001-12-29"
+last_updated: "2004-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2004.
 
 Reglamento publicado en la Sexta Sección en el Periódico Oficial del Estado de Nayarit, el sábado 29 de diciembre de 2001.
 
@@ -69,7 +69,9 @@ VIII. Dirección de Informática;
 
 IX. Dirección de Organización y Métodos;
 
-X. Dirección de Recepción Control y Auditoria de Recursos Federalizados.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2004)</small>
+
+X. Dirección de Recepción Control y Auditoría de Recursos Federalizados.
 
 Así como las demás unidades administrativas señaladas en e (sic) presente reglamento, los manuales de organización que para ta (sic) efecto expidan y se encuentren contemplados en el Presupuesto de Egresos del Estado
 
@@ -361,7 +363,7 @@ XLIII. Gestionar ante las autoridades federales correspondientes el pago de los 
 
 XLIV. Participar en el ámbito de su competencia, en los órganos del Sistema Estatal de Coordinación Fiscal y promover la colaboración administrativa con los ayuntamientos.
 
-XLV. Registrar las participaciones que conforme a las leyes fiscales federales o convenios respectivos correspondan a los municipios.
+XLV. Registrar las participaciones que conforme a las leyes fiscales federales o convenios respectivos correspondan a los municipios,
 
 XLVI. Determinar las cantidades que correspondan a los Municipios por concepto de participaciones federales y estatales de conformidad con la legislación aplicable.
 
@@ -719,6 +721,8 @@ VI. Practicar visitas de verificación, en coordinación con la Dirección Gener
 
 VII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2004)</small>
+
 ###### Artículo 16.
 
 Corresponde a la Dirección de Recepción Control y Auditoria de Recursos Federalizados:
@@ -728,6 +732,8 @@ I. Participar en el ámbito de su competencia y por delegación expresa del Secr
 II. Aplicar los sistemas y procedimientos de los programas en materia de fiscalización de ingresos federales, considerando la forma de medición de los efectos que en los sectores económicos, regiones y en la recaudación, produzcan las acciones contempladas en el programa anual de fiscalización y establecer en su caso las medidas correctivas que procedan.
 
 III. Participar, en el ámbito de su competencia, en la concertación de los convenios de colaboración administrativa en materia fiscal, que el Poder Ejecutivo del Estado celebre con el Gobierno Federal o con los ayuntamientos.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE MAYO DE 2004)</small>
 
 IV. Administrar contribuciones federales, a fin de ejercer, en el ámbito de su competencia, las facultades y atribuciones derivadas del Sistema Nacional de Coordinación Fiscal, en términos de lo previsto en los convenios de colaboración administrativa en materia fiscal, que el Poder Ejecutivo del Estado celebre con la Federación.
 
@@ -762,6 +768,8 @@ XVIII. Regular, programar o revocar los actos y resoluciones que se emitan en la
 XIX. Determinar el importe de los créditos fiscales federales que resulten a cargo de los contribuyentes, responsables solidarios y terceros con ellos relacionados, dando bases de su liquidación en los términos de la legislación fiscal aplicable y de los convenios de coordinación y colaboración celebrados con el Gobierno Federal.
 
 XX. Imponer sanciones por infracciones a las disposiciones fiscales federales, en términos de las leyes respectivas y los convenios suscritos con la Federación.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE MAYO DE 2004)</small>
 
 XXI. Notificar a los contribuyentes, responsables solidarios y demás obligados sobre los actos administrativos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen los créditos fiscales derivados de las mismas, en los términos de la legislación fiscal aplicable y los convenios de coordinación y colaboración celebrados con la Federación.
 
@@ -862,3 +870,15 @@ Generales, Directores de Área y Jefes de Unidad ..14
 ### Capítulo VII. De la Suplencia de los Titulares ..48
 
 TRANSITORIOS ..49
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE MAYO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas disposiciones que hagan mención a la Dirección de Auditoría Fiscal se entenderán referidas a la Dirección de Recepción Control y Auditoría de Recursos Federalizados.
