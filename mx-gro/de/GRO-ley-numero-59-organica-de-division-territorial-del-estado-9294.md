@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-59-organica-de-division-territorial-del-estado-9294"
 country: "mx"
 rank: "ley"
 publication_date: "1944-12-20"
-last_updated: "1944-12-20"
+last_updated: "1945-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1945.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 20 de diciembre de 1944.
 
@@ -89,25 +89,33 @@ El Distrito de Abasolo comprende las Municipalidades de Ometepec, Igualapa, Tlac
 
 I.- El Municipio de Ometepec comprende, la Ciudad Ometepec, Cabecera del Distrito Judicial y del Municipio.
 
-Los pueblos de Huajintepec, Huixtepec, La Concepción, La Guadalupe, Zacualpan, Cochoapa, La Soledad, Acatepec y Cozoyoapan.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Los pueblos de Huajintepec, Huixtepec, La Concepción, La Guadalupe, Zacualpan, Cochoapa, La Soledad y Acatepec.
 
 Las Cuadrillas de La Libertad, El Tamarindo, El Capricho, Piedra Ancha, Piedra Labrada, Tierra Blanca, Ladrillera, Piedra del Tigre, El Pantano de la Cebadilla, San José, Colonia Hidalgo, Cruz del Corazón, Las Vigas, Cerro Grande, Piedra Boluda, El Agrarista, Vista Hermosa, Milpillas y La Iguana.
 
 Las Rancherías de Mazapa, Las Isletas, Los Parajes, Cruz Verde, El Zapote, La Catalina, Cañada de Huajintepec, La Sabana, Los Tres Ríos, El Agua Fría, Chico Zapote, El Zorro, Paso del Cuahulote, El Totonilco, Barranca Honda, Barrio de Guacho y Andrés, Las Conchitas, El Pantano de Doña Delfina, Talapa, Quetzala, El Carrizo, El Limón, La Quemada, Charco de la Puerta, Potrerillo, Potrerillo las Palmas y Pié de la Cuesta.
 
-II.- La Municipalidad de Igualapa comprende su Cabecera el pueblo de Igualapa y además los pueblos de Acalmani y Chacalapa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+II.- La Municipalidad de Igualapa comprende su Cabecera el pueblo de Igualapa y demás los pueblos de Acalmani, Chacalapa y Quetzalapa.
 
 Las cuadrillas de San José, Cruz Verde, Llano Grande, La Victoria, La Reforma (antes El Paraíso), y Colonia Enrique Rodríguez Cruz (antes Boca de Talapa).
 
-III.- La Municipalidad de Tlacoachistlahuaca se compone de su Cabecera que lleva el mismo nombre y los pueblos de Cuananchinicha, San Cristóbal, San Gerónimo, El Terrero, Las Minas, San Martín, La Guadalupe, San Pedro, Cuit!apa, Yoloxochilt, Rancho Viejo, La Trinidad, Santa Cruz Yucunani, Jicayán de Tovar y Huehuetonoc.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+III.- La Municipalidad de Tlacoachistlahuaca se compone de su Cabecera que lleva el mismo nombre y los pueblos de Cuananchinicha, San Cristóbal, San Gerónimo, El Terrero, Las Minas, San Martín, La Guadalupe, San Pedro, Cuit!apa, Yoloxochilt, Rancho Viejo, La Trinidad, Santa Cruz Yucunani y Jicayán de Tovar.
 
 Las cuadrillas de Cruz Alta, San Isidro y El Limón.
 
 Las Rancherías de Papaloapan y Tecoloapan.
 
-IV.- La Municipalidad de Xochistlahuaca comprende su Cabecera que lleva el mismo nombre y el pueblo de El Carmen.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1945)</small>
 
-Las cuadrillas de San Miguel Tejalpan, Plan de Guadalupe y Cerro Verde.
+IV.- La Municipalidad de Xochistlahuaca comprende su Cabecera que lleva el mismo nombre y los pueblos de El Carmen, Cozoyoapan y Huehuetonoc.
+
+Las Cuadrillas de San Miguel Tejalpan, Plan de Guadalupe, Cerro Verde Y La Soledad.
 
 V.- El Municipio de Cuajinicuilapa comprende la Cabecera Municipal que lleva el mismo nombre y además los pueblos de San Nicolás y Maldonado.
 
@@ -121,7 +129,9 @@ El Distrito de Alarcón se forma de las Municipalidades de Taxco, Pilcaya y Teti
 
 I.- La Municipalidad de Taxco comprende la ciudad de Taxco de Alarcón, Cabecera del Distrito Judicial y del Municipio y además los pueblos de Acamixtla, Atzala, Axixintla, Cacalotenango, Huixtac, Pantla, Taxco el Viejo y Tecalpulco.
 
-Las cuadrillas de El Arroyo, Dolores, El Frayle, Huahuaxtla, Hueymatla, Icatepec, Juliantla, Landa, Mexcaltepec, Puente de Campuzano, Pedro Martín, San Felipe, San Juan de Dios, San Juan Tenería, San Juan Unión, San Miguel, San Pedro, San Sebastián, Santa Rosa, Santiago Temixco, Santo Domingo, Xochula, Tehuilotepec, Temaxcalapa, Texcaltitla, Totoapa, El Ejido y Zapoapa.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de El Arroyo, Dolores, Coxcatlán, El Frayle, Huamuaxtla, Hueymatla, lcatepec, Juliantla, Landa, Mexcaltepec, Puente de Campuzano, Pedro Martín, San Felipe, San Juan de Dios, San Juan Tenería, San Juan Unión, San Miguel, San Pedro, San Sebastián, Santa Rosa, Santiago Temixco, Santo Domingo, Xochula, Tehuilotepec, Temaxcalapa, Texcaltitla, Totoapa, El Ejido y Zapoapa.
 
 Las rancherías de Tecuiziapa.
 
@@ -141,13 +151,17 @@ I.- La Municipalidad de Teloloapan, comprende la ciudad de Teloloapan Cabecera d
 
 Los pueblos de Alahuixtlán, Tonalapa del Río, Totoltepec, Oxtotitlán, Ahuacatitlán, Chapa, Cuatepec Costales, Acapetlahuaya, Texilacatlán, Acatempa, Ahuehuetla, Tlanipatlán, Tlacuitlapa, El Pochote, El Mirador, Yerbabuena, Zacatlán de Acatempa, La Concordia, Cerro Alto, Los Sauces, Zacatlancillo, Cacahuatlán y San Simón Ostuma.
 
-Las cuadrillas de El Molino, Puerto de los Fresnos, La Concepción Pura, Lomas Zocote, Los Limones, La Unión, Rincón Chiquito, Buenavista del Aire, Los Cuatlix, Tlapexco, La Lagunita, Monte Sauce, Rincón del Vigilante, La Guadalupe, Pezuapilla, El Naranjo, Los Sabinos, Puerto Rico, Agua Zarca, Las Mesas Neblinas, Lídice, La Mohonera, San Juan Amajác, Los Amates, Pata de Venado, El Huamúchil, Lagunita Progreso, Amate Prieto, Amates Grandes, Calpantitla, Carrizal de León, Cruz Blanca, Cruz Grande, Cruztel, Cuadrilla Nueva, Cuaxilotla, Midiatenco, Las Neblinas, Liberal Guerrero, Parota de Arroyo Seco, Puctepec, Vistahermosa, Zopiloal, Tehuixtla, Buenavista Guadalupe, Tianquizolco Ixtecapa, Alcholca, Hueycali, Miahuatepec, Tlapacoya, Cacaluxtitlán, Ixtazacatla, Dolores, Tonantitlán, La Magdalena, Tonalcual, Alpichafia, El Tule Zacuapa, San Francisco, El Zapote Acachautla, Duraznal, El Capire, Huerta Grande, El Tanque, Tierra Blanca, Los Aguajes, El Calvario, Santa Cruz Unión, San Antonio Acachautla, Puerto del Ocote, Tlajocotla, El Ocote, Laguna Seca, Apancingán, El Aguacate, Terrero Vistahermosa, Mesas Miraval, Tepozonalquillo, Ranchos Nuevos, Acatlán de la Cruz, Tuxtla Cuevillas y Xixicastepec.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de El Molino, Puerto de Los Fresnos, La Concepción Pura, Loma Zocote, Los Limones, La Unión, Rincón Chiquito, Buenavista del Aire, Los Cuatlix, Tlapexco, La Lagunita, Monte Sauce, Rincón del Vigilante, La Guadalupe, Pezuapilla, El Naranjo, Los Sabinos, Puerto Rico, Agua Zarca, Las Mesas Neblinas, Lídice, La Mohonera, San Juan Amajac, Los Amates, Pata de Venado, El Huamúchilt, Lagunita Progreso, Amate Prieto, Amates Grandes, Calpantitla, Carrizal de León, Cruz Blanca, Cruz Grande, Cruztel, Cuadrilla Nueva, Las Neblinas, Liberal Guerrero, Parota de Arroyo Seco, Puctepec Vista Hermosa, Oculixtlahuacán, Zopiloal, Tehuixtla, Buenavista Guadalupe, Tianquizolco lxtecapa, Alcholoa, Hueycali, Miahuatepec, Tlapacoya, Cacaluxtitlán, lxtazacatla, Dolores. Tenantitlán, La Magdalena, Tenalcual, Alpichafia, El Tule, Zacuapa, San Francisco, El Zapote Acachautla, Duraznal, El Capire, Huerta Grande, El Tanque, Tierra Blanca, Los Aguajes, El Calvario, Santa Cruz Unión, San Antonio Acachautla, Puerto del Ocote, Tlajocotla, El Ocote, Laguna Seca, Apancingán, El Aguacate, Terrero Villahermosa, Mesas Miraval, Tepozonalquillo, Ranchos Nuevos, Acatlán de la Cruz, Tuxtla Cuevillas y Xixicatepec.
 
 Las rancherías de La Concepción, Puente de Tierra, El Cantón, Primer Cerca, Plan del Sabino, Ixtecapa, Las Parotas, San Simón, Cueva del Tigre, El Texcal, Las Cañitas, El Cascalote, Cayehualtitla, Coyunquitel, Otepec, Ozolotepec, Ozotepec, Providencia, El Sabino, Ixtlahuatostla y El Aguacate.
 
 II.- La Municipalidad de Cuetzala del Progreso, se compone de su Cabecera que lleva el mismo nombre y además los pueblos Chilacachapa, Apetlanca y Tianquizolco.
 
-Las cuadrillas de Molonial, Tlaquilpa, Limón Real, Tlacaquipa, San Francisco Lagunita, Cuadrilla Nueva, Tomixtlahuacán, Cuaxilotla, Ahuaxotitla y La Parota.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Molonial, Tlaquilpa, Limón Real, Tlacaquipa, San Francisco Lagunita, Cuadrilla Nueva, Tomixtlahuacán, Cuaxilotla, Ahuaxotitla y La Parota.
 
 III.- La Municipalidad de Arcelia comprende su Cabecera que lleva el mismo nombre y además los pueblos de El Amacuahuil, Ixcatepec, Almoloya, Campo Morado y Temixco.
 
@@ -163,7 +177,9 @@ Las rancherías de Ixtlahuaca, Comalipa, Ocuila, Ixcatla, El Rincón, El Aguacat
 
 V.- La Municipalidad de Ixcateopan comprende su Cabecera que lleva el mismo nombre y además los pueblos de Pachivia, Teuzizapa y Tenanguillo.
 
-Las Cuadrillas de Amealco, Xoloxtoc, El Potrero, Pipincatla, Tecociapa, Cimatel, Romita, El Puente, San Juan, Zozoquitla, San Pedro Guadalupe, Oculixtlahuacán y Jumapa.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Amealco, Xoloxtoc, El Potrero, Pipicatla, Tecociapa, Cimatel, Romita, El Puente, San Juan, Zozoquitla, San Pedro Guadalupe y Jumapa.
 
 VI.- La Municipalidad de Pedro Ascencio Alquisiras comprende su Cabecera el pueblo de Ixcapuzalco y además los pueblos de San Pablo, Azulaques, Santiago Salinas e Ixcapaneca.
 
@@ -175,7 +191,9 @@ Las Rancherías de los Cuatles, La Merced, Puerto Hondo, Tecamachalco, Tecolotli
 
 El Distrito de Altamirano se forma de las Municipalidades de San Luis Acatlán, Cuautepec, Copala y Azoyú.
 
-I.- La Municipalidad de San Luis Acatlán comprende el pueblo de San Luis Acatlán Cabecera del Distrito Judicial y del Municipio y además los pueblos de Buenavista, Cuanacaxtitlán, Horcasitas, Jolotichán, Miahuichán, Hidalgo, Pascala del Oro y Yoloxochil.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+I. La Municipalidad de San Luis Acatlán comprende el pueblo de San Luis Acatlán, Cabecera del Distrito Judicial y del Municipio y además los pueblos de Buenavista Cuanacaxtitlán, Horcasitas, Jolotichán, Miahuichán, Hidalgo, Pascala del Oro, Yoloxochil y Mixtecapan.
 
 Las Cuadrillas de Arroyo del Tigre, Arroyo Camiapa, Atoyatempan, El Carmen, El Capire, Piedra Ancha, Río Iguapa, Tlaxcalixtlahuaca y San José Vistahermosa.
 
@@ -189,7 +207,9 @@ III.- La Municipalidad de Copala comprende su Cabecera el pueblo de Copala y ade
 
 Las Rancherías de El Clavo, Copala el Viejo, Campanilla, Miramar y El Velero.
 
-IV.- La Municipalidad de Azoyú comprende su Cabecera el pueblo de Azoyú y además los pueblos de Juchitán, Huehuetán, Arcelia del Progreso, Zoyatlán y Quetzalapa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+IV. La Municipalidad de Azoyú, comprende su Cabecera el pueblo de Azoyú y además los pueblos de Juchitán, Huehuetán, Arcelia del Progreso y Zoyatlán.
 
 Las Cuadrillas de Tepantitlán, Marquelia, Tecoanapa (La Barra), Maxmadi, Zapotitlán de la Fuente (antes Zapote Negro), Tenango, El Hacahuite, Chapultepec y La Palma.
 
@@ -199,7 +219,9 @@ Las Rancherías de La Garrapata, El Paso Real de Tepantitlán, Tenoxtitlán, El 
 
 El Distrito de Alvarez se forma de las Municipalidades de Chilapa, Atlixtac, Ahuacuotzingo, Zitlala y Atenango del Río.
 
-I.- La Municipalidad de Chilapa comprende su Cabecera la Ciudad de Chilapa, que es además la Cabecera del Distrito Judicial y los pueblos de Atzacualoya, Ayahualtempa, Ayahualulco, Acatlán, Hueycantenango, Santa Catarina y San Géronimo Palantla.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+I. La Municipalidad de Chilapa comprende su Cabecera la Ciudad de Chilapa, que es además la Cabecera del Distrito Judicial y los pueblos de Atzacoaloya, Ayahualtempa, Ayahualulco, Acatlán, Hueycantenango, Santa Catarina, San Géronimo Papantla y Tlalcozotitlán.
 
 Las Cuadrillas de Amate Amarillo, Acuentla, Acxopilco, Alcozacán, Amiltepec, Ayahualco, Acalco, Atenxoxola, Ahuihuiyuco, Atempa, Acatzacatla, Ahuexotitlán, Colotepec, Conegcingo, Cuatenango, Cuadrilla Nueva, Chiautla, El Refugio, El Rancho, El Peral, El Jahuey, El Epazote, El Paraíso, El Limón, Los Amates, Lodo Grande, Lamazintla, Mexcalcingo, La Mohonera, Macuixcatlán, Nejapa, Ocuituco, Popoyatlaxco, Pantitlán, Silchuchío, Santa Ana, San Angel, Tenexatlaco, Tlacoaxtla, Tlazinga, Trigomila, Teposcuautla, Tlamixtlahuacán, Tlanipatla, Teomatatlán, Tepetlacingo, Tepehuixco, Tlalpizaco, Tlalixtlahuacán, Xochitempa, Xiluxuchicán, San José Vistahermosa, Zelocotitlán, Zinenezintla, Zizicazapa, Zinzintitlán, Zoquitipa, Zacapexco y Santa Cruz Zacazonapa.
 
@@ -217,9 +239,11 @@ Las Cuadrillas de Yupitepec, San Miguel Ahuelicán, Tecaxitla, El Rincón de las
 
 IV.- La Municipalidad de Zitlala comprende su Cabecera el pueblo de Zitlala y además las Cuadrillas de Topiltepec, Pochahuixco, Viramontes, Ayotzinapa, La Esperanza, Tlapehualapa, Coacoyul, Ocotitlán, Ixcatla y Yetlancingo.
 
-V.- La Municipalidad de Atenango del Río comprende su Cabecera el pueblo de Atenango del Río y además los pueblos de Temalac, Comala, Zacango, Teocalcingo, Copalillo, Mezquitlán, Oxtutla, Tlalcozotitlán y Zicapa.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1945)</small>
 
-Las Cuadrillas de Apanguito, Tuzantlán, Santa Cruz, El Cascalote, Cuahuilotla, Tepetlapa, Tequicuilco y Coacán.
+V. La Municipalidad de Atenango del Río comprende su Cabecera el pueblo de Atenango del Río y además los pueblos de Temalac, Comala, Zacango, Teocalcingo, Copalillo, Mezquititlán, Oxtutla, Zicapa y Papalutla.
+
+Las Cuadrillas de Apanguito, Tuzantlán, Santa Cruz, San Miguel Mezquitepec, El Cascalote, Cuahuilotla, Tepetlapa, Tequicuilco y Coacán.
 
 ###### Art. 9°.
 
@@ -253,7 +277,9 @@ Las cuadrillas de Acahuitzotla, Amojileca, Agua Hernández, Azinyahualco, Buenav
 
 Las Rancherías de Agua de Obispo, Huacalapa, La Imagen, Omiltemil, Potrero Oriental, Plan de la Lima, Potrero Occidental, Papagayo, Tecoanapa, Tepostepec, Tejocotal, Yerbabuena, El Epazote, Santa Rita y Tlalistlatipan.
 
-II.- La Municipalidad de Zumpango del Río se compone de su Cabecera el Pueblo de Zumpango del Río, y además los pueblos de Ahuelicán, Meyaltepec, Amatitlán, Huitziltepec, Mexcala y Xochipala.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+II. La Municipalidad de Zumpango del Río se compone de su Cabecera, el pueblo del mismo nombre y además los pueblos de Ahuelicán, Ameyaltepec, Huitziltepec, Mexcala, Amatitlán y Xochipala.
 
 Las Cuadrillas de Altamira, Axaxacualco, Colonia Miraval, Carrizalillo, El Tepehuaje, La Laguna, Papalotepec, Tlipajapa, Tenantla, Tecomapa y Tlanipatla.
 
@@ -261,7 +287,9 @@ Los parajes de Milpillas, El Platanar, Tepeyahual, El Tunel, Venta Vieja y El Zo
 
 Los Minerales de San Juan y San Pedro.
 
-III.- La Municipalidad de Tlacotepec comprende su Cabecera el pueblo de Tlacotepec y además los de Acatlán del Río, Huautla y Tetela del Río.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+III. La Municipalidad de Tlacotepec comprende su Cabecera el pueblo de Tlacotepec y además los de Acatlán del Río, Huatla, Tetela del Río y Balsas Sur.
 
 Las Cuadrillas de El Aguejote, El Amate, Buenavista, Campo Morado, Las Ceibas, La Ciénega, Ciruelo Amarillo, Colonia Guerrero, Chapultepec, Chichitepec, El Durazno, El Frío, El Huamúchil, Huerta Vieja, Los Hoyos, Ixcatla, Ixtayotla, Izotepec, Las Laderas, La Laguna, El Limoncillo, Las Mesas, El Naranjo, El Limoncito, Ojo de Agua, La Palma, Paso del Molino, La Primavera, Pueblo Viejo, Puerto Castro, La Reforma, San Vicente, Los Tepehuajes, Tecomazúchil, Tlacotenco, La Venta, Villa Xóchil, Las Vinatas, La Yerbabuena, El Zompantle, Zopiloxtoc y San Antonio.
 
@@ -279,7 +307,9 @@ El Distrito de Galeana se forma de las Municipalidades de Tecpan de Galeana, Ato
 
 I.- La Municipalidad de Tecpan de Galeana comprende la Ciudad de Tecpan de Galeana Cabecera del Distrito Judicial y del Municipio y además las Cuadrillas de El Alto, El Cerrito, Coatán, Nuxco, San Luis San Pedro, Santa Lucía, San Luis de la Loma, Santa María, Tetitlán y Tenexpa.
 
-Las Rancherías de Arroyo Frío, Arroyo del Muerto, Las Barrancas, Bajos de la Laguna, Bajos del Balsamar, El Bejuco, La Corriente, El Cuajilote, El Camarón, Los Cajeles, Los Camarones, Los Cimientos, El Camalote, El Carrizal, El Cordón, La Camalotera, El Chilar, La Chorriada, El Encinal, El Espinalillo, La Flirda, El Guayabillo, Las Humedades, El Jovero, (Centro de población Agrícola), Las Juntas, Los Letrados, El Limón, La Llave, Moreno, El Mameyal, Los Naranjos, El Nanche, Potrerillo, Palo de Arco, El Pastor, El Porvenir, La Palma, El Potrero, La Puerta, Poza Verde, La Poza, El Papayal, Los Pocitos, Las Parotas, Potrero Grande, Piedra Parada, Potrero de Carlos, Palma de Cayaco, Platanillo, La Primera Agua, Piedras Mecas, Plan del Río, Río Frío, Río Chiquito, La Sierrita, San Antonio, La Soledad, El Salto, El Trapiche, Las Tortugas, El Tejón, Las Truchas, El Tirador, El Tamarindo, El Verde, El Valle, El Venado, La Zarza, Coyuquilla y Papanoa.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Rancherías de Arroyo Frío, Arroyo del Muerto, Las Barrancas, Bajos de la Laguna, Bajos del Balsamar, El Bejuco, La Corriente, El Cuajilote, El Camarón, Los Cajeles, Los Camarones, Los Cimientos, El Camalote, El Carrizal, El Cordón, La Camalotera, El Chilar, La Chorriada, El Encinal, El Espinalillo, El Guayabillo, Las Humedades, El Jovero (Centro de población Agrícola), Las Juntas, Los Letrados, El Limón, La Llave, Moreno, El Mameyal, Los Naranjos, El Nanche, Potrerillo, Palo de Arco, El Pastor, El Porvenir, La Palma, El Potrero, La Puerta, Poza Verde, La Poza, El Papayal, Los Pocitos, Las Parotas, Potrero Grande, Piedra Parada, Potrero de Carlos, Palma de Cayaco, Platanillo, La Primera Agua, Piedras Mecas, Plan del Río, Río Frío, Río Chiquito, La Sierrita, San Antonio, La Soledad, El Salto, El Trapiche, Las Tortugas, El Tejón, Las Truchas, El Tirador, El Tamarindo, El Verde, El Valle, El Venado, La Zarza y Papanoa.
 
 Los parajes de Arroyo del Cacao, La Cuesta, Caña de Castilla, La Ciénega, Cinta Larga, La Dorada, Las Guacamayas, La Marta, El Pusulmiche, Las Parotas, Los Pitales, La Pontezuela, Las Palmitas, Santa Bárbara y La Vinata.
 
@@ -323,21 +353,31 @@ El Distrito de Hidalgo comprende las Municipalidades de Iguala, Tepecoacuilco, H
 
 I.- La Municipalidad de Iguala comprende su Cabecera la Ciudad de Iguala de la Independencia Cabecera del Distrito Judicial y del Municipio, los pueblos de Tuxpan y Coacoyula de Alvarez.
 
-Las Cuadrillas de Santa Teresa, Alvaro Obregón (Centro Agrícola), El Naranjo, Platanillo, Tonalapa del Norte, Joya de Pantla, Tepantlán, General Epifanio Rodríguez (Antes Tomatal), Zacacoyuca, Pantla del Zapotal, Ceja Blanca, Metlapa, Tepochica, Ahuehuepan y El Triunfo (Centro Agrícola).
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
 
-II.- La Municipalidad de Tepecoacuilco de Trujano comprende su Cabecera el pueblo de Tepecoacuilco de Trujano y además los pueblos de Mayanalán, Tulimán, Palula, San Juan Tetelcingo y Pololcingo.
+Las Cuadrillas de Santa Teresa, Alvaro Obregón, (Centro Agrícola), El Naranjo, Ahuehuepan, Platanillo, Tonalapa del Norte, Joya de Pantla, Tepantlán, General Epifanio Rodríguez, (antes Tomatal), Zacacoyuca, Pantla del Zapotal, Ceja Blanca, Metlapa y Tepochica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+II.- La Municipalidad de Tepecoacuilco comprende su Cabecera el pueblo de Tepecoacuilco de Trujano y los pueblos de Mayanalán, Tulimán, Palula, San Juan Tetelcingo y San Miguel Tecuiciapa.
 
 Las Cuadrillas de Palapa, Cuexcontlán, Tepaxtitlán, Tierra Colorada, Rincón de la Cocina, Acayahualco, Santa Cruz, Rincón Chiquito, Xochimilco, Tecoacuilco, Tetelilla, Sabana Grande, Colonia Lázaro Cárdenas, Cazamulco, Tecuexcontitlán, Venta de Palula, Tonalapa del Sur, Maxela, Xalitla, Ahuehuepan, Colonia General Valerio Trujano, Las Tunas y San Agustín Oapa.
 
-III.- La Municipalidad de Huitzuco comprende su Cabecera el pueblo de Huitzuco de los Figueroa y además los pueblos de Chaucingo, San Francisco Ozomatlán y Tlaxmalac.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+III.- La Municipalidad de Huitzuco comprende su Cabecera el pueblo de Huitzuco de los Figueroa y además los pueblos de Chaucingo, San Francisco Ozomatlán, Tlaxmalac y Pololocingo.
 
 Las Cuadrillas de San Miguel de las Palmas, Atetetla, Tecolotla, Tlapala, Cacahuananche, Xilocintla, Lagunillas, Zoyacuautla, Acaquila, Escuchapa, Quetzalapa, Paso Morelos (antes Cuitajache) y Tezahualco.
 
 IV.- La Municipalidad de Cocula comprende su Cabecera el pueblo de Cocula.
 
-Los pueblos de Apipilulco, Balsas Norte y Balsas Sur.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
 
-Las Cuadrillas de Apango, Tecomatlán, Puente Río de San Juan, Xonacatla, Atlixtac, La Mohonera, Tlanipatlán, Acalmantlila, Cuetzala el Viejo, Las Mesas, San Nicolás Atzala, Real del Limón, Olea y El Machito.
+Los pueblos de Apipilulco y Balsas Norte.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Apango, Tecomatlán, Puente Río San Juan, Xonacatla, Atlixtac, La Mohonera, Tlanipatlán, Acalmantlila, Cuetzala el Viejo, Las Mesas, San Nicolás Atzala, Real del Limón, Olea, El Machito y El Triunfo (centro agrícola.)
 
 V.- La Municipalidad de Buenavista de Cuéllar se compone de su Cabecera el Pueblo de Buenavista de Cuéllar.
 
@@ -421,7 +461,9 @@ Las Rancherías de la Añeja, El Contadero, La Mohonera, El Campinzirán, Córco
 
 III.- La Municipalidad de Petatlán comprende su Cabecera el pueblo de Petatlán.
 
-Las Cuadrillas de Arroyo Seco, Cayacal, Joluchuca, Alpuyeca, La Blanqueada, La Máquina, Palos Blancos, La Soledad de Maciel, Río Chiquito, Las Peñas, El Bocotal, San Jeronimito, El Pujalito, Potrerillos, Murga, La Tigra, El Ocote de Peregrino, El Balcón, La Soledad de la Palma, El Camalote, La Morena, Las Humedades, El Rincón del Refugio, El Bálsamo, Las Paraceras, La Hujera, El Banco, Los Corrales, La Florida, La Abrojera, Las Mesas, Jimalcota, El Ojo de Agua Primero, Barrio de Las Flores y El Mameyal.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Arroyo Seco, Cayacal, Joluchuca, Alpuyeca la Blanqueada, La Máquina, Palos Blancos, La Soledad de Maciel, Río Chiquito, Las Peñas, El Bocotal, San Geronimito, El Pujalito, Potrerillos, Murga, La Tigra, El Ocote de Peregrino, El Balcón, La Soledad de la Palma, El Camalote, La Morena, Las Humedades, El Rincón del Refugio, El Bálsamo, Las Paraceras, La Hujera, El Banco, Los Corrales, La Florida, La Abrojera, Las Mesas, Jimalcota, El Ojo de Agua Primero, Barrio de las Flores, El Mameyal y Coyuquilla.
 
 Las Rancherías de El Parotal, San Felipe, La Puerta, La Piedra de Veliano, El Higueral, La Hujera, El Sesteadero, El Zoquital, Rancho Nuevo, La Nopalera, El Salto, Buenos Aires, Las Juntas, Tres Arroyos, Coahuayana, Camotal, El Encanto, El Alambrado, Las Patacuas, Londres, Ojo de Agua Segundo, Koorerquín (Mineral), Camalotito, La Vainilla, Nogales, La Palapa, La Finca, Casa Chueca, Sandoval, El Anonal, El Saúz Miyahua, Las Delicias, El Arenoso, Ocote de Cadena, El Cacao, El Capire, Paso del Chino, El Venado, El Carrizal, El Rincón, La Calera, Campo del Cielo, La Botella, El Parazal, El Limón, El Frío Río, Yerbabuena, Temixco, Nuevo Mundo, San Antonio, Puerto del Otate, Arroyo Grande, La Noria, La Silleta, Casas Viejas, Pocitos, Sombra Pesada, Chilcahuila, La Moronga, Cayaquito, La Otatera, El Fresnal, Los Cimientos, Monte Grande, El Balsamar, El Calaboz, La Barranca, Caldo Flaco Miramar, Corralitos, Los Limones, Coapinolar, Las Cuevas, Las Tinajas, El Soyamiche, La Lajita, La Carricillera, Las Calabazas, El Camarón, El Tuzal, El Zapotillal, La Zacatonera, La Pasión, La Cayaca, La Chorreada, El Cajinicuilar, La Huertillera, Las Palancas, El Suspiro y Rincón del Mameyado.
 
@@ -433,7 +475,9 @@ I.- La Municipalidad de Tlapa, comprende su cabecera la Ciudad de Tlapa de Comon
 
 Los Pueblos de Atlamajac, Axoxuca, Aquilpa, Ayotzinapa, Atlamajalcingo del Río, Alpoyecancingo, Chiepetepec, Coachimalco, La Soledad, Las Pilas, Petlacala, Tlaquiltzinapa, Tlaquiltzingo, Tlatzala, Tonaya, Tototepec, Ahuatepec, Chiepetlán, Zacualpa, Zalatzala, Tenango Tepexi y Cochoapa.
 
-Las Cuadrillas de Tlacuiloya, Jilotepec, Colotiopan, Los Zapotales, Manila, Metlaichán, San Miguel, Amoltepec, San Lucas, Tierra Blanca, San Rafael, Cahuañaña, Zitlaltepec, Vistahermosa, Joyareal, Dos Ríos, Calpanapa, Llano Grande y Arroyo Prieto.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Tlacuiloya, Colotiopan, Los Zapotales, Manila, Metlaichán, San Miguel Amaltepec, San Lucas, Tierra Blanca, San Rafael, Cahuañaña, Zitlaltepec, Vistahermosa, Joya Real, Dos Ríos, Calpanapa y Arroyo Prieto.
 
 Las Haciendas de Santana Acatzingo, La Providencia y Peoresnada.
 
@@ -445,15 +489,19 @@ Las cuadrillas de San Vicente Amole, La Concepción, Temexcalcingo, Santa Cruz y
 
 La Ranchería de Pantla.
 
-III.- La Municipalidad de Atlamajalcingo del Monte comprende su Cabecera el pueblo del mismo nombre y además los de Cahuatache, Tlaxco, Huehuetepec, Zelacoyotitlán, Juanacatlán, Zapotitlán, Cuautipan y Yucunduta.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1945)</small>
 
-Las cuadrillas de Alvaro Obregón, Chinameca, Plan de Guadalupe, Francisco I. Madero, San Juan Puerto Montaña, El Rosario, Benito Juárez y San Isidro Labrador.
+III.- La Municipalidad de Atlamajalcingo del Monte comprende su Cabecera el pueblo del mismo nombre y además los de Cahuatache, Huehuetepec, Zelacoyotitlán, Juanacatlán, Zapotitlán, Cuautipán y Yuconduta.
+
+Las Cuadrillas de Alvaro Obregón, Chinameca, Plan de Guadalupe, Francisco I. Madero, San Juan Puerto Montaña, El Rosario, Benito Juárez, San Isidro Labrador y Tepecocatlán.
 
 IV.- La Municipalidad de Tlalixtaquilla, comprende el pueblo de Tlalixtaquilla y además los de Zonacatlán, Santa Cruz Guerrero, La Ribera, Mexquititlán, Totomochapa y la Luz de Juárez.
 
 Las cuadrillas de Ahuacatitlán y San Juan del Carmen.
 
-V.- La Municipalidad de Malinaltepec comprende su Cabecera el pueblo de Malinaltepec.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+V. La Municipalidad de Malinaltepec comprende su Cabecera el pueblo de Malinaltepec, los pueblos de Paraje Montero de Zaragoza, Colombia de Guadalupe, Tilapa de Zapata, Tierra Colorada, El Rincón, Iliatenco Montes de Oca, Alacatlalzala, Coatzoquitengo, El Tejocote y Moyotepec de Juárez.
 
 Los pueblos de Mixtecapan, Paraje Montero de Zaragoza, Colombia de Guadalupe, Tilapa de Zapata, Tierra Colorada, El Rincón, Iliatenco Montes de Oca, Alacatlatzala, Coatzoquitengo, El Tejocote y Moyotepec de Juárez.
 
@@ -461,7 +509,9 @@ Las Cuadrillas de San Miguel del Progreso y Arroyo de San Pedro.
 
 VI.- La Municipalidad de Alcozauca de Guerrero, se compone de su Cabecera el pueblo del mismo nombre y además los de Ixcuinatoyac, Tlahuapa, Cuyuxtlahuac, Amapilca, Zoyatlán de Juárez, San Miguel El Grande, Lomazoya, Petlacalancingo, Metlatonoc, Yuvinani, Atzompa, Huexuapa, Cocuilotlatzala, Chilixtlahuac y El Coyul.
 
-Las Cuadrillas de Melchor Ocampo, San José Lagunas, Cerro Azul, Almolonga de Ocampo, Acametla de Bravo y Ojo de Pescado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Melchor Ocampo, San José Lagunas, Cerro Azul, Almolonga de Ocampo, Acametla de Bravo, Ojo de Pescado y Xochapa.
 
 VII.- La Municipalidad de Zapotitlán Tablas comprende su cabecera que lleva el mismo nombre y además los pueblos de Huitzapula, Acatepec, Cuixapa y Mexcaltepec.
 
@@ -477,9 +527,13 @@ Las rancherías de Metlapilapa, Carrizal y Xocoapa.
 
 IX.- La Municipalidad de Xalpatláhuac comprende su Cabecera que lleva el mismo nombre.
 
-Los pueblos de Tlacotla, Zacatipa, Igualita y Quiahuitlatzala.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
 
-Las Cuadrillas de Yerbasanta, Platanar y Cuba Libre.
+Los pueblos de Tlacotla, Zacatipa, Igualita, Quia Huitlazala y Tlaxco.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Yerbasanta, Platanar, Cuba Libre y Xilotepec.
 
 ###### Art. 17.
 
@@ -515,7 +569,9 @@ I.- La Municipalidad de Huamuxtitlán comprende su Cabecera la villa de Huamuxti
 
 Los pueblos de Totolapa, Coayahualco, Tlaquiltepec, Tlalquetzala, y San Pedro Aytec.
 
-Las Cuadrillas de Santa Cruz, Conhuaxo, Cuatlaxco y Tehuaxtitlán.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+Las Cuadrillas de Santa Cruz, Conhuaxo y Cuatlaxco.
 
 Las Rancherías de El Coyul, Atlixtac, Organal, Cuaxoxocatla, Palapa y La Huerta.
 
@@ -539,7 +595,9 @@ Las Cuadrillas de Chiaucingo, Jolalpa, Tlalapa, Coatlaco, Xalmolapa, El Cuahulot
 
 Las Rancherías de Tezocoyunca, El Pochote, El Zotolo y Tlalixtlahuac.
 
-V.- La Municipalidad de Olinalá comprende su Cabecera el pueblo de Olinalá y además de Ocotitlán, Temalacacingo, Tepetlacingo, Tecolapa, Zacango, La Libertad, Papalutla y Chimalacacingo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1945)</small>
+
+V.- La Municipalidad de Olinalá comprende su Cabecera el pueblo de Olinalá y además los de Ocotitlán, Temalacacingo, Tepetlacingo, Tecolapa, Zacango, La Libertad y Chimalacacingo.
 
 Las Cuadrillas de Mextiopan, Zumpango, Ahuacatlán, Xixila, Tomatepec, El Refugio, Tetixi, Tlaquiltzingo, Amatlichán, Xochimilco y San Miguel Mexquitepec.
 
@@ -590,3 +648,11 @@ Dado en el Salón de Sesiones del H. Poder Legislativo, a los dieciocho días de
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Chilpancingo, Gro., a 20 de diciembre de 1944.- GRAL. E ING. RAFAEL CATALAN CALVO.- El Secretario General de Gobierno, LIC. ISMAEL ANDRACA NAVARRETE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE AGOSTO DE 1945.
+
+###### ARTICULO UNICO
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
