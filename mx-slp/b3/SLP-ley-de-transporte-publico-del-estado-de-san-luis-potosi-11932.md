@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-11932"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "1998-05-26"
+last_updated: "2001-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 30 de agosto de 1996.
 
@@ -57,11 +57,15 @@ El titular del Ejecutivo del Estado está facultado para emitir el Programa Esta
 
 Los sistemas a que se refiere el párrafo precedente serán operados por el Estado, a través de los organismos específicos que al efecto se constituyan o mediante concesión otorgada a terceros.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+Los ayuntamientos, conforme a las disposiciones de esta Ley participarán con el Ejecutivo del Estado, en la elaboración y aplicación de los programas y sistemas a que se refieren los párrafos precedentes, en lo que afecte al ámbito territorial del municipio correspondiente.
+
+> <small>(REFORMADO, 21 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 4º.
 
-El titular del Ejecutivo del Estado, por sí o a través de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, podrá establecer modalidades de uso de las concesiones y permisos del transporte público, fijando los itinerarios, tarifas, horarios, frecuencias, sitios, terminales, tipos de vehículos, desplazamiento de enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio atendiendo al interés público.
+El titular del Ejecutivo del Estado, con la participación del Ayuntamiento que corresponda según sea el caso, por sí o a través de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, podrá establecer modalidades de uso de las concesiones y permisos del transporte público, fijando los itinerarios, tarifas, horarios, frecuencias, sitios, terminales, tipos de vehículos, desplazamiento de enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio, escuchando las recomendaciones del Consejo Estatal de Transporte en beneficio del interés público.
 
 ###### ARTICULO 5º.
 
@@ -97,7 +101,9 @@ IV.- El Director General de Comunicaciones y Transportes.
 
 Compete al titular del Ejecutivo del Estado:
 
-I.- Definir la política y los programas en materia de transporte;
+> <small>(REFORMADA, 21 DE MARZO DE 2001)</small>
+
+I.- Definir la política y los programas en materia de transporte con la participación de los ayuntamientos, en lo que corresponda al ámbito territorial de los municipios respectivos.
 
 II.- Emitir el Programa Estatal de Transporte;
 
@@ -131,6 +137,10 @@ IV.- Emitir opinión técnica, previa al otorgamiento de concesiones que realice
 
 V.- Autorizar, con acuerdo del titular del Ejecutivo, las tarifas, rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación de jurisdicción estatal;
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+Previo a la autorización a que se refiere el párrafo precedente, la Secretaría tomará en cuenta para la determinación de los conceptos antes señalados, la participación de los ayuntamientos que corresponda según el ámbito territorial de aplicación de los mismos.
+
 VI.- Coordinar los servicios de transporte público de jurisdicción municipal, intermunicipal y estatal y proponer las modalidades que se estimen convenientes;
 
 VII.- Tomar las medidas necesarias para evitar la suspensión del servicio de transporte público y aplicar las sanciones que le competan de conformidad con lo establecido por la presente ley;
@@ -163,11 +173,13 @@ III.- Proporcionar la información o la cooperación técnica que le sea requeri
 
 IV.- Coordinarse con los titulares de las demás direcciones generales para el mejor despacho de los asuntos de su competencia;
 
-V.- Controlar los servicios de transporte público de jurisdicción municipal, intermunicipal y estatal y proponer las modalidades que se estimen convenientes;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+V. Controlar los servicios del transporte público de jurisdicción municipal, intermunicipal y Estatal, y proponer las modalidades que se estimen convenientes con la participación de los ayuntamientos involucrados.
 
-VI.- Revisar con acuerdo del Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, rutas, itinerarios, horarios, terminales, paraderos, o tablas de distancia y formular los trabajos técnicos correspondientes;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
+
+VI. Revisar con acuerdo del Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, rutas, itinerarios, horarios, terminales, paraderos, o tablas de distancia y formular los trabajos técnicos correspondientes atendiendo las recomendaciones de los Consejos Estatal y Municipales cuando sea el caso.
 
 VII.- Someter a revisión periódica las condiciones físicas y mecánicas de los vehículos dedicados a la prestación del servicio de transporte público;
 
@@ -253,9 +265,11 @@ Para efectos de la presente ley se entenderá por concesión el acto administrat
 
 Las concesiones para los servicios especiales de transporte y servicio de carga a que se refieren las fracciones V y VI del Artículo 13 de esta ley, podrán ser otorgadas directamente por el titular del Ejecutivo del Estado sin someterse a concurso, siempre y cuando se cumplan los requisitos que marca esta ley.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 17.
 
-El número de concesiones será determinado por el titular del Ejecutivo del Estado, de acuerdo a las necesidades de los usuarios, en congruencia con el desarrollo social y económico de la Entidad, previo estudio que formulen las dependencias y los órganos auxiliares competentes.
+El número de concesiones será determinado por el Titular del Poder Ejecutivo del Estado, de acuerdo a las necesidades de los usuarios, en congruencia con el desarrollo social y económico de la Entidad, previo estudio que formulen las dependencias y los organismo auxiliares competentes, con la opinión de los Consejos Estatal y Municipales que corresponda.
 
 (REFORMADO, P.O. 26 DE MAYO DE 1998) (F. DE E., P.O. 24 DE MARZO DE 1999)
 
@@ -609,11 +623,15 @@ b) Especial.- Para los usuarios que por sus condiciones particulares son sujetos
 
 III.- Horario: El señalamiento de la hora de inicio de la prestación del servicio y conclusión del mismo.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 53.
 
-Las tarifas serán determinadas por el titular del Ejecutivo del Estado, escuchando al Consejo Estatal de Transporte, de acuerdo a la clase de servicio, rutas e itinerarios del transporte público en sus diversas modalidades, atendiendo a la necesidad y rentabilidad del servicio, al interés público y a la capacidad de pago de los usuarios.
+Las tarifas serán determinadas por el Titular del Ejecutivo del Estado, escuchando las recomendaciones del Consejo Estatal de Transporte y la del Ayuntamiento del Municipio que corresponda según sea el caso, de acuerdo a la clase de servicio, rutas e itinerarios del transporte público en sus diversas modalidades, atendiendo a la necesidad y rentabilidad del servicio, al interés público y a la capacidad de pago de los usuarios.
 
-Las tarifas podrán ser modificadas cuando varíen las condiciones y circunstancias que dieron origen a las anteriores, de conformidad con los estudios que se realicen y atendiendo a las partes involucradas.
+Las tarifas podrán ser modificadas cuando varíen las condiciones y circunstancias que dieron origen a las anteriores, de conformidad con los estudios que se realicen y atendiendo las recomendaciones del Consejo Estatal y de los ayuntamientos de los municipios en que vayan a aplicarse.
+
+Tratándose de las tarifas de transporte urbano, el incremento podrá ser anual y se tomarán como base para su determinación el Indice Nacional de Precios al Consumidor y el porcentaje anual de incremento al salario mínimo de la zona de que se trate, sin que éste exceda en ningún caso el término medio aritmético que resulte de la suma de ambos índices.
 
 ## TITULO QUINTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS Y OPERADORES
 
@@ -721,7 +739,9 @@ Los inspectores de transporte público para realizar la inspección del boletaje
 
 Los inspectores en ejercicio de su responsabilidad, no podrán recoger documentos de ninguna clase a los operadores del servicio público de transporte de pasajeros o de carga.
 
-## TITULO SÉPTIMO. DEL CONSEJO ESTATAL DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MARZO DE 2001)</small>
+
+## TITULO SÉPTIMO. DE LOS CONSEJO ESTATAL Y MUNICIPAL
 
 ### CAPITULO PRIMERO. De la Integración del Consejo Estatal de Transporte
 
@@ -739,7 +759,9 @@ I.- El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas;
 
 II.- Por el Director General de Comunicaciones y Transportes;
 
-III. Por un representante de cada uno de los ayuntamientos involucrados;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
+
+III. Por un representante de cada uno de los ayuntamientos que se encuentren involucrados en el asunto a tratar;dos;
 
 IV.- Por un representante del sector industrial del Estado;
 
@@ -814,6 +836,88 @@ El Consejo rendirá al Ejecutivo del Estado un informe semestral sobre el estado
 ###### ARTICULO 79.
 
 Las resoluciones emitidas por el Consejo Estatal de Transporte tendrán carácter de recomendación y serán presentadas al titular del Ejecutivo para que resuelva lo conducente.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+1. En cada Municipio del Estado se integrará un Consejo Municipal de Transporte, como un órgano de consulta permanente que habrá de intervenir a través de su representante dentro del Consejo Estatal de Transporte, en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial, de conformidad con lo establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+2. Los Consejos Municipales de Transporte estarán integrados de la siguiente manera:
+
+I.- Un Presidente, que será el Presidente Municipal;
+
+II.- Un Coordinador, que será el Secretario del Ayuntamiento;
+
+III.- Un Secretario Técnico, que será el Delegado que asigne la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, y
+
+IV.- Los Vocales que sean necesarios y que serán los representantes de las dependencias y entidades de la administración pública municipal que determine el Presidente, cuyas áreas de competencia se relacionen con los objetivos del Consejo, por designación expresa del Presidente.
+
+Podrán formar parte del Consejo Municipal de Transporte, los representantes de organizaciones sociales involucradas en el transporte público, así como los representantes de instituciones educativas y demás miembros de la comunidad interesados en participar en las tareas del Consejo, a invitación expresa del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+3. Los Consejos Municipales de Transporte a través de su representante, se coordinarán con el Ejecutivo del Estado a través de la Secretaría y la Dirección General de Comunicaciones y Transportes, para resolver cualquier problema en esta materia en el Municipio.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+4. Los Consejos Municipales de Transporte tendrán las siguientes funciones:
+
+I.- Actuar como órgano de consulta en el ámbito municipal en materia de transporte;
+
+II.- Promover la integración y realización de nuevas rutas e itinerarios, en sus diversas modalidades y a la clase del servicio, relacionadas con el transporte público en sus jurisdicciones municipales;
+
+III.- Vincular las necesidades municipales en materia de transporte con el Ejecutivo del Estado;
+
+IV.- Analizar el transporte en el Municipio para determinar las bases y acciones de los posibles incrementos de tarifas, y proponerlos al Ejecutivo del Estado a través del Consejo Estatal, y
+
+V.- Las que le señalen el reglamento de esta Ley y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+5. La operación de los Consejos Municipales de Transporte será determinada por cada Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+6. Compete al Consejo Municipal la identificación y elaboración de los estudios necesarios, tendientes a prevenir la operación del transporte de acuerdo a sus necesidades.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+7. El Consejo sesionará en forma ordinaria un mes antes de que sesione el Consejo Estatal, y de manera extraordinaria cuando así lo convoque el Presidente del mismo, o lo soliciten la mayoría de sus miembros.
+
+El quórum se integrará con la mitad más uno de los miembros del Consejo y los acuerdos se tomarán por mayoría de sus asistentes. En caso de empate el Presidente tendrá voto de calidad.
+
+El Secretario levantará el acta que corresponda en cada sesión; los cargos conferidos a los miembros del Consejo serán de carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+8. El Ayuntamiento podrá presentar al Ejecutivo del Estado, un informe anual sobre el estado y situación que guarde el servicio público de transporte de personas en el Municipio, así como los informes que se estime necesarios.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+9. La (sic) resoluciones emitidas por el Consejo Municipal de Transporte, tendrán carácter de recomendación y serán presentadas al Consejo Estatal del Transporte Público, para que resuelva lo conducente.
+
+###### ARTICULO 79.
+
+10. Los Consejos Estatal y Municipales de Transporte, tendrán a cargo el estudio y discusión de los problemas de transporte público de la Entidad, y podrán recomendar las acciones para su mejoramiento.
 
 ## TITULO OCTAVO. DE LA CAPACITACION
 
@@ -976,3 +1080,11 @@ P.O. 26 DE MAYO DE 1998.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado. Por lo que corresponda a la integración de los Consejos Municipales de Transporte, los Presidentes Municipales contarán con un plazo para su integración, de quince días naturales a partir de la vigencia del presente.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El tercer párrafo del artículo 53 de este Decreto entrará en vigor el día quince de enero del año dos mil dos.
