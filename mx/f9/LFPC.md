@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "1998-10-19"
+last_updated: "2000-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2000.
+
+(REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2000).
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -61,6 +63,10 @@ V. El acceso a los órganos administrativos con vistas a la prevención de daño
 VI. El otorgamiento de facilidades a los consumidores para la defensa de sus derechos; y
 
 VII. La protección contra la publicidad engañosa y abusiva, métodos comerciales coercitivos y desleales, así como contra prácticas y cláusulas abusivas o impuestas en el abastecimiento de productos y servicios.
+
+(ADICIONADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
+
+VIII.- La efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados.
 
 Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
@@ -215,6 +221,10 @@ VII. Realizar y apoyar análisis, estudios e investigaciones en materia de prote
 VIII. Promover y realizar directamente, en su caso, programas educativos y de capacitación en materia de orientación al consumidor y prestar asesoría a consumidores y proveedores;
 
 IX. Promover nuevos o mejores sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado;
+
+(ADICIONADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
+
+IX bis. Promover en coordinación con la Secretaría la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología;
 
 X. Actuar como perito y consultor en materia de calidad de bienes y servicios y elaborar estudios relativos;
 
@@ -570,9 +580,29 @@ En los contratos de adhesión relacionados con inmuebles se estipulará la infor
 
 La Procuraduría podrá promover ante la autoridad judicial, cuando vea amenazado el interés jurídico de los consumidores, el aseguramiento de los bienes a que se refiere este capítulo, en aquellas operaciones que considere de difícil o imposible cumplimiento, mientras subsista la causa de la acción.
 
-### Capítulo IX. De las garantías
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
-### Capítulo X. De los contratos de adhesión
+### Capítulo VIII bis. De los derechos de los consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología
+
+(ADICIONADO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+
+ARTICULO 76 bis.- Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:
+
+I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;
+
+II. El proveedor utilizará alguno de los elementos técnicos disponibles para brindar seguridad y confidencialidad a la información proporcionada por el consumidor e informará a éste, previamente a la celebración de la transacción, de las características generales de dichos elementos;
+
+III. El proveedor deberá proporcionar al consumidor, antes de celebrar la transacción, su domicilio físico, números telefónicos y demás medios a los que pueda acudir el propio consumidor para presentarle sus reclamaciones o solicitarle aclaraciones;
+
+IV. El proveedor evitará las prácticas comerciales engañosas respecto de las características de los productos, por lo que deberá cumplir con las disposiciones relativas a la información y publicidad de los bienes y servicios que ofrezca, señaladas en esta Ley y demás disposiciones que se deriven de ella;
+
+V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;
+
+VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y
+
+VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, y cuidará las prácticas de mercadotecnia dirigidas a población vulnerable, como niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
+
+### Capítulo IX. De las garantías
 
 ###### ARTICULO 77.
 
@@ -610,7 +640,7 @@ El tiempo que duren las reparaciones efectuadas al amparo de la garantía no es 
 
 Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuera del plazo establecido por la garantía, deberá acreditar que compareció ante el proveedor dentro del (sic) dicho plazo.
 
-### Capítulo XI. Del incumplimiento
+### Capítulo X. De los contratos de adhesión
 
 ###### ARTICULO 85.
 
@@ -650,7 +680,7 @@ V. Prescriban el cumplimiento de ciertas formalidades para la procedencia de las
 
 VI. Obliguen al consumidor a renunciar a la protección de esta ley o lo sometan a la competencia de tribunales extranjeros.
 
-### Capítulo XII. De la vigilancia y verificación
+### Capítulo XI. Del incumplimiento
 
 ###### ARTICULO 91.
 
@@ -682,7 +712,7 @@ Las comprobaciones de calidad, especificaciones o cualquier otra característica
 
 Los productos que hayan sido repuestos por los proveedores o distribuidores, deberán serles repuestos a su vez contra su entrega, por la persona de quien los adquirieron o por el fabricante, quien deberá, en su caso, cubrir el costo de su reparación o el de la devolución, salvo que la causa de la devolución sea imputable al proveedor o distribuidor.
 
-### Capítulo XIII. Procedimientos
+### Capítulo XII. De la vigilancia y verificación
 
 ###### ARTICULO 96.
 
@@ -704,7 +734,7 @@ III. Constatar la existencia o inexistencia de productos o mercancías, atendien
 
 IV. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de la ley.
 
-### Capítulo XIV. Sanciones
+### Capítulo XIII. Procedimientos
 
 #### Sección Primera. Disposiciones Comunes
 
@@ -898,7 +928,7 @@ La Procuraduría resolverá dentro de los quince días siguientes.
 
 La Procuraduría podrá solicitar al reclamante en los procedimientos conciliatorio o arbitral o, en su caso, al denunciante, aporten pruebas a fin de acreditar la existencia de violaciones a la ley.
 
-### Capítulo XV. Recursos administrativos
+### Capítulo XIV. Sanciones
 
 ###### ARTICULO 125.
 
@@ -912,9 +942,11 @@ Las infracciones a lo dispuesto por los artículos 11, 15, 16, 18, 60 y demás d
 
 Las infracciones a lo dispuesto por los artículos 7o, 13, 17, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 45, 49, 50, 52, 53, 54, 55, 58, 59, 61, 62, 66, 67, 68, 69, 70, 72, 75, 78, 79, 81, 82, 86, 87, 91, 93 y 95 serán sancionadas con multa hasta por el equivalente de una a mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
 
+(REFORMADO PRIMER PARRAFO, D.O.F. MAYO 29 DE MAYO 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 8o, 10, 12, 60, 63, 65, 74, 80 y 121 serán sancionadas con multa por el equivalente de una y hasta dos mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
+Las infracciones a lo dispuesto por los artículos 8, 10, 12, 60, 63, 65, 74, 76 bis, 80 y 121 serán sancionadas con multa por el equivalente de una y hasta dos mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
 
 En casos particularmente graves, la Procuraduría podrá sancionar con clausura del establecimiento hasta por quince días. En tratándose de alimentos básicos, sujetos a precios máximos, procederá dicha clausura, previa notificación al presunto infractor, concediéndole un plazo de veinticuatro horas, para que manifieste lo que a su derecho convenga.
 
@@ -961,6 +993,8 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 ###### ARTICULO 134.
 
 La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará discrecionalmente las circunstancias del caso y las causas que motivaron su imposición sin que la petición del interesado constituya un recurso.
+
+### Capítulo XV. Recursos administrativos
 
 ###### ARTICULO 135.
 
@@ -1089,3 +1123,27 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 19 DE OCTUBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE MAYO DE 2000.
+
+REPUBLICADO, G.O. 30 DE MAYO DE 2000.
+
+Primero.- El presente Decreto entrará en vigor a los nueve días siguientes de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se entenderán referidas al Código Civil Federal.
+
+Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad todas y cada una de las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto.
+
+Tercero.- La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
+
+Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará a cada uno de los responsables de las oficinas del Registro Público de Comercio, a partir de la entrada en vigor del presente Decreto y a más tardar el 31 de agosto del año 2000, el programa informático del sistema registral automatizado a que se refiere el presente Decreto, la asistencia y capacitación técnica, así como las estrategias para su instrumentación, de conformidad con los convenios correspondientes.
+
+Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
+
+Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 30 de noviembre del 2002.
+
+Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
+
+Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
