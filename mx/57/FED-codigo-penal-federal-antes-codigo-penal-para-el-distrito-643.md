@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1945-12-28"
+last_updated: "1946-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 1946.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -34,8 +34,6 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
-
-> <small>N. DE E. POR DECRETO QUE LEVANTA LA SUSPENSION DE GARANTIAS DECRETADA EL 1o. DE JUNIO DE 1942, Y RESTABLECE EL ORDEN CONSTITUCIONAL, RATIFICANDO Y DECLARANDO VIGENTES LAS DISPOSICIONES QUE EL MISMO ESPECIFICA, PUBLICADO EN EL D.O.F. EL 28 DE DICIEMBRE DE 1945.</small>
 
 # LIBRO PRIMERO
 
@@ -141,13 +139,19 @@ Para imponer la pena de la tentativa, los jueces tendrán en cuenta la temibilid
 
 ### CAPITULO III. Personas responsables de los delitos
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 13.
 
-Son responsables todos los que toman parte en la concepción, preparación o ejecución de un delito; o prestan auxilio o cooperación de cualquier especie, por concierto previo o posterior, o inducen directamente a alguno a cometerlo.
+Son responsables de los delitos:
 
-Los jueces podrán aumentar o disminuir la sanción respectiva, dentro de los límites fijados por la ley, según la participación de cada delincuente.
+I.- Los que intervienen en la concepción, preparación o ejecución de ellos.
+
+II.- Los que inducen o compelen a otro o (sic) cometerlos.
+
+III.- Los que presten auxilio o cooperación de cualquier especie para su ejecución, y
+
+IV.- Los que, en casos previstos por la ley, auxilien a los delincuentes, una vez que éstos efectuaron su acción delictuosa.
 
 ###### ARTICULO 14.
 
@@ -725,9 +729,11 @@ III.- Que el agraciado con la libertad preparatoria resida en el lugar que se de
 
 IV.- Que el reo haya reparado el daño causado u otorgado garantía para cubrir su monto.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá a los reincidentes ni a los habituales.
+La libertad preparatoria no se concederá al condenado por robo de infante, ni a los reincidentes ni a los habituales.
 
 ###### ARTICULO 86.
 
@@ -1529,6 +1535,8 @@ Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un c
 
 ### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 191.
 
 Al que ultraje el escudo de la República o el pabellón nacional, ya sea de palabra o de obra, se le aplicará de seis meses a cuatro años de prisión o multa de cincuenta a tres mil pesos o ambas sanciones, a juicio del juez.
@@ -1588,6 +1596,8 @@ Las drogas enervantes, las substancias, aparatos y demás objetos que se emplear
 ### CAPITULO IV. Falsificación de documentos en general
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ## TITULO NOVENO. Revelación de secretos
 
@@ -1793,17 +1803,13 @@ El delito de cohecho se castigará con tres meses a cinco años de prisión y mu
 
 Al que cometa el delito de peculado se le aplicarán de seis meses a doce años de prisión, multa de diez a tres mil pesos y destitución de empleo o cargo e inhabilitación de dos a seis años.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1944)</small>
+(REFORMADO, D.O.F. 9 DE MARZO DE 1946) (F. DE E., D.O.F. 16 DE JULIO DE 1946)
 
 ### CAPITULO I. Privación ilegal de libertad y otras garantías
 
 ###### ARTICULO 220.
 
-Comete el delito de peculado: cualquiera persona que para usos propios o ajenos, sustraiga de su objeto el dinero, valores, fincas o cualquiera otra cosa perteneciente a alguno de los organismos que a continuación se enumeran, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa:
-
-I.- De cualquier institución, empresa, organismo o establecimiento creado por el Estado y en que el mismo se hubiere reservado una participación en la dirección o administración, y
-
-II.- De las universidades que gocen de subsidio de la Federación, del Distrito o Territorios Federales.
+Comete el delito de peculado toda persona encargada de un servicio público, del Estado o descentralizado, aunque sea en comisión por tiempo limitado y que no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado, al organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
 ### CAPITULO I. Robo
 
@@ -1815,13 +1821,15 @@ Este artículo se entiende sin perjuicio de la destitución, de la inhabilitaci�
 
 ### CAPITULO II. Abuso de confianza
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 222.
 
 Comete el delito de concusión: el encargado de un servicio público que, con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
 
 ### CAPITULO III. Fraude
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
@@ -1830,6 +1838,8 @@ Comete el delito de concusión: el encargado de un servicio público que, con el
 A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente. Si ésta pasare de cien pesos, se les impondrá además de tres meses a dos años de prisión.
 
 ### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 224.
 
@@ -1953,23 +1963,41 @@ No se librará de las sanciones impuestas por la falsificación de moneda: el qu
 
 ###### ARTICULO 238.
 
-Al que cometa el delito de falsificación de billetes de banco, títulos al portador y documentos de crédito público, se le impondrán de cuatro a diez años de prisión y multa de doscientos cincuenta a tres mil pesos.
+Al que cometa el delito de falsificación de billetes de banco, se le impondrán de cinco a doce años de prisión y multa de mil a diez mil pesos.
+
+Comete el delito de que habla el párrafo anterior:
+
+I.- El que falsifique los billetes de banco emitidos legalmente;
+
+II.- El que altere de cualquier forma los billetes de banco emitidos legalmente.
+
+III.- El que falsificare los billetes de un banco, existente en un país extranjero autorizado legalmente en él, para emitirlos;
+
+IV.- El que alterare en cualquier forma los billetes a que se refiere la fracción anterior.
+
+Al que introduzca a la República o pusiere en circulación en ella los billetes de banco falsos o alterados a que se refieren los párrafos anteriores, se le aplicará la sanción señalada en este artículo, y se le aplicará también en su caso la parte final del artículo 236.
+
+Al que comete el delito de falsificación de billetes de banco en grado de tentativa, se le impondrá la misma pena que si lo hubiere consumado.
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 239.
 
-Comete el delito de que habla el artículo anterior, el que falsificare:
+Al que cometa el delito de falsificación de títulos al portador y documentos de crédito público, se le impondrán de cuatro a diez años de prisión y multa de doscientos cincuenta a tres mil pesos.
 
-I.- Obligaciones u otros documentos de crédito público del tesoro, o los cupones de intereses o de dividendos de estos títulos;
+Comete el delito de que habla el párrafo anterior el que falsificare:
 
-II.- Los billetes de banco emitidos legalmente;
+I.- Obligaciones u otros documentos de crédito público del tesoro, o los cupones de intereses o de dividendos de esos títulos.
 
-III.- Las obligaciones de la deuda pública de otra nación, cupones de intereses o de dividendos correspondientes a dichas obligaciones, o billetes de un banco existente en un país extranjero y autorizado legalmente en él para emitirlos, y
+II.- Las obligaciones de la deuda pública de otra nación, cupones de intereses o de dividendos de estos títulos.
 
-IV.- Las obligaciones y otros títulos legalmente emitidos por sociedades o empresas o por las administraciones públicas de la Federación, de los Estados o de cualquier Municipio, y los cupones de intereses o de dividendos de los documentos mencionados.
+III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o empresas o por las administraciones públicas de la Federación, de los Estados o de cualquier Municipio, y los cupones de intereses o de dividendos de los documentos mencionados.
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 240.
 
-Al que introduzca en la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 238, y se aplicará también en su caso la parte final del artículo 236.
+Al que introduzca a la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 239, y se le aplicará también en su caso, la parte final del artículo 236.
 
 ###### ARTICULO 241.
 
@@ -1985,25 +2013,25 @@ IV.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto 
 
 V.- Al que falsifique las marcas de inspección de pesas y medidas.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 242.
 
-Se impondrán prisión de tres meses a tres años y multa de veinte a mil pesos:
+Se impondrán prisión de tres meses a tres años y multa de veinte a mil pesos;
 
-I.- Al que falsifique llaves, el sello de un particular, un sello, marca, estampilla o contraseña de una casa de comercio, de un banco o de un establecimiento industrial;
+I.- Al que falsifique llaves, el sello de un particular, un sello, marca, estampilla o contraseña de una casa de comercio, de un banco o de un establecimiento industrial; o un boleto o ficha de un espectáculo público;
 
-II.- Al que falsifique en la República los sellos, punzones o marcas de una nación extranjera;
+II.- Al que falsifique en la República los sellos punzones o marcas de una nación extranjera;
 
 III.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 
-IV.- Al que, para defraudar a otro altere las pesas y las medidas legítimas o quite de ellas las marcas verdaderas y las pase a pesas o medidas falsas, o haga uso de éstas;
+IV.- Al que, para defraudar a otro altere las pesas y las medidas legítimas o quite de ellas las marcas verdaderas y las pase a pesas o medidas falsas, o haga uso de éstas.
 
 V.- Al que falsifique los sellos nacionales o extranjeros adheribles;
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+VI.- Al que haga desaparecer alguno de los sellos de que habla la fracción anterior o la marca indicadora que ya se utilizó.
 
-VI.- Al que haga desaparecer alguno de los sellos de que habla la fracción anterior o la marca indicadora de que ya se utilizó;
-
-VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga uso indebido de ellos, y
+VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga uso indebido de ellos; y
 
 VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
 
@@ -2073,21 +2101,19 @@ VII.- El que a sabiendas hiciere uso de un documento falso, sea público o priva
 
 ###### ARTICULO 247.
 
-Se impondrán de dos meses a dos años y multa de diez a mil pesos:
+Se impondrán de dos meses a dos años de prisión y multa de diez a mil pesos:
 
-I.- Al que, interrogado por alguna autoridad pública en ejercicio de sus funciones o con motivo de ellas faltare a la verdad;
+I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
 
-II.- Al que examinado por la autoridad judicial como testigo, faltare a la verdad sobre el hecho que se trata de averiguar, ya sea afirmando, negando u ocultado la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad.
+II.- Al que examinado por la autoridad judicial como testigo faltare a la verdad sobre el hecho que se trata de averiguar ya sea afirmando, negando u ocultado maliciosamente la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal o que aumente o disminuya su gravedad. La sanción podrá ser hasta por quince años de prisión para el testigo falso que fuera examinado en un juicio criminal, cuando al reo se le imponga una pena de más de veinte años de prisión por haber dado fuerza probatoria al testimonio falso;
 
-La sanción podrá ser hasta por quince años de prisión para el testigo falso que fuere examinado en un juicio criminal, cuando al reo se le imponga una pena de más de veinte años de prisión, y el testimonio falso haya tenido fuerza probatoria;
-
-III.- Al que soborne a un testigo, a un perito o a un intérprete para que se produzca con falsedad en juicio, o los obligue o comprometa a ello intimidándolos o de otro modo;
+III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo;
 
 IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado bajo protesta de decir verdad y faltare a ella en perjuicio de otro, negando ser suya la firma con que hubiere suscrito un documento o afirmando un hecho falso o alterando o negando uno verdadero, o sus circunstancias substanciales.
 
-Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado, y
+Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado;
 
-V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad, en todo o en parte.
+El testigo, perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o judicial antes de que se pronuncie resolución o sentencia, sólo pagará una multa de diez a doscientos pesos. Pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponde, con arreglo a lo prevenido en este capítulo, aumentando la pena de tres días a seis meses de prisión.
 
 ###### ARTICULO 248.
 
@@ -2877,7 +2903,9 @@ III.- Cuando la detención se haga en camino público o en paraje solitario;
 
 IV.- Cuando los plagiarios obren en grupo o banda, y
 
-V.- Cuando cometa robo de infante menor de siete años un extraño a la familia de éste.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 9 DE MARZO DE 1946)</small>
+
+V.- El robo de infante, menor de 10 años, se castigará con prisión de 10 a 30 años.
 
 Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos artículos anteriores.
 
@@ -2901,9 +2929,11 @@ II.- El aprovechamiento de energía eléctrica o de cualquier otro flúido, ejec
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada; aun cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 370.
 
-Cuando el valor de lo robado no exceda de cincuenta pesos, se sancionará con la pena de tres días a seis meses de prisión, y multa de cinco a cincuenta pesos.
+Cuando el valor de lo robado no exceda de dos mil pesos, la pena será de tres días a tres años de prisión y multa hasta de dos mil pesos. Cuando excediera de dos mil pesos, la pena será de tres años a doce años de prisión y multa hasta de diez mil pesos. Para estimar la cuantía del robo se atenderá únicamente al valor intrínseco de la cosa robada. Si ésta no fuere estimable en dinero o por su naturaleza o circunstancias no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días a dos años. En los casos de tentativas de robo, cuando no fuere posible determinar el monto, se aplicarán de tres días a dos años de prisión.
 
 ###### ARTICULO 371.
 
@@ -2989,7 +3019,7 @@ VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en l
 
 ###### ARTICULO 382.
 
-Se aplicarán prisión de tres días a seis años y multa de cinco a dos mil pesos, al que, con perjuicio de tercero, disponga para sí o para otro, de una cantidad de dinero en numerario, en billetes de banco o en papel moneda, de un documento que importe obligación, liberación o transmisión de derechos, o de cualquiera otra cosa ajena mueble, de la cual se le haya transferido la tenencia y no el dominio.
+Se aplicarán, prisión de tres días a seis años y multa de cinco a cinco mil pesos, al que con perjuicio de alguno, disponga para sí o para otro, de una cantidad de dinero en numerario, en billetes de banco o en papel moneda, de un documento que importe obligación, liberación o trasmisión de derechos, o de cualquier cosa ajena mueble, de la que se le haya transferido la tenencia y no el dominio. Si el valor de la cosa de que se dispuso es mayor a veinte mil pesos la prisión podrá ser hasta de doce años.
 
 ###### ARTICULO 383.
 
@@ -3003,9 +3033,11 @@ II.- El hecho de disponer de la cosa depositada, o sustraerla el depositario jud
 
 III.- El hecho de que una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le correspanda (sic) la propiedad.
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 384.
 
-No se juzgará como abuso de confianza la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella, como dueño.
+Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida si el tenedor o poseedor de ella no la devuelve a pesar de ser requerido formalmente por quien tenga derecho, o no la entrega a la autoridad, para que ésta disponga de la misma conforme a la ley.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3015,41 +3047,59 @@ El delito previsto en este capítulo solamente se perseguirá a petición de par
 
 ###### ARTICULO 386.
 
-Se impondrán multa de cincuenta a mil pesos y prisión de seis meses a seis años:
+Comete el delito de fraude el que engañando a uno o aprovechándose del error en que éste se halla, se hace ilícitamente de alguna cosa o alcanza un lucro indebido.
 
-I.- Al que engañando a uno, o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa, o alcance un lucro indebido;
+El delito de fraude se castigará con las penas siguientes:
 
-II.- Al que obtenga dinero, valores o cualquiera otra cosa, ofreciendo encargarse de la defensa de un procesado o de un reo, si no efectúa ésta, sea porque no se haga cargo legalmente de la misma, o porque la renuncie o abandone sin causa justificada.
+I.- Con prisión de tres días a seis meses y multa de cinco a cincuenta pesos, cuando el valor de lo defraudado no exceda de esta última cantidad.
 
-III.- Al que, por título oneroso, enajene alguna cosa con conocimiento de que no tiene derecho para disponer de ella, o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
+II.- Con prisión de seis meses a tres años y multa de cincuenta a quinientos pesos, cuando el valor de lo defraudado excediere de cincuenta pesos, pero no de tres mil; y
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+III.- Con prisión de tres a doce años y multa hasta de diez mil pesos, si el valor de lo defraudado fuere mayor de tres mil pesos.
 
-IV.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro, otorgándole o endosándole a nombre propio o de otro, un documento nominativo, a la orden o al portador contra una persona supuesta o que el otorgante sabe que no ha de pagarlo;
+> <small>(F. DE E., D.O.F. 16 DE JULIO DE 1946)</small>
 
-V.- Al que se haga servir alguna cosa o admita un servicio en cualquier establecimiento comercial, y no pague su importe;
+Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo de engaño, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en los incisos anteriores, se aumentará con prisión de tres días a dos años.
 
-VI.- Al que compre una cosa mueble ofreciendo pagar su precio al contado y rehuse, después de recibirla, hacer el pago o devolver la cosa, si el vendedor le exige lo primero dentro de seis días de haber recibido la cosa el comprador;
-
-VII.- Al que venda a dos personas una misma cosa, sea mueble o raíz, y reciba el precio de la segunda venta o parte de él;
-
-VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtiene de ésta ventajas usurarias por medio de contratos o convenios en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado;
-
-IX.- Al que, para obtener un lucro indebido, ponga en circulación fichas, tarjas, planchuelas u otros objetos de cualquier materia, como signos convencionales en sustitución de la moneda legal;
-
-X.- Al que hiciere un contrato, un acto o escrito judicial simulados, con perjuicio de otro, o para obtener cualquier beneficio indebido;
-
-XI.- Al que, por sorteos, rifas, loterías, promesas de venta o por cualquier otro medio, se quede en todo o en parte con las cantidades recibidas, sin entregar la mercancía u objeto ofrecido;
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-XII.- Al que aproveche indebidamente energía eléctrica o cualquier otro flúido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos, y
-
-XIII.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualquier medio los medidores de energía eléctrica o de otro flúido, o las indicaciones registradas por esos aparatos.
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 387.
 
-Se aplicará igual pena que la señalada en el artículo anterior al que ejecute actos violatorios de derechos de propiedad literaria, dramática o artística, considerados como falsificación en el Código Civil.
+Las mismas penas señaladas en el artículo anterior, se impondrán:
+
+I.- Al que obtenga dinero, valores o cualquiera otra cosa ofreciendo encargarse de la defensa de un procesado o de un reo, o de la dirección o patrocinio en un asunto civil o administrativo, si no efectúa aquélla o no realiza ésta, sea porque no se haga cargo legalmente de la misma, o porque renuncie o abandone el negocio o la causa sin motivo justificado;
+
+II.- Al que por título oneroso enajene alguna cosa con conocimiento de que no tiene derecho para disponer de ella, o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
+
+III.- Al que obtenga de otro una cantidad de dinero o cualquiera otro lucro, otorgándole o endosándole a nombre propio o de otro, un documento nominativo, a la orden o al portador contra una persona supuesta o que el otorgante sabe que no ha de pagarle;
+
+IV.- Al que se haga servir alguna cosa o admita un servicio en cualquier establecimiento comercial y no pague el importe;
+
+V.- Al que compre una cosa mueble ofreciendo pagar su precio al contado y rehuse después de recibirla, hacer el pago o devolver la cosa, si el vendedor le exigiere lo primero dentro de quince días de haber recibido la cosa del comprador;
+
+VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entrega dentro de los quince días del plazo convenido o no devuelve su importe en el mismo término, en el caso de que se le exija esto último.
+
+VII.- Al que vende a dos personas una misma cosa sea mueble o raíz y recibe el precio de la primera o de la segunda enajenación, de ambas o parte de él, o cualquier otro lucro con perjuicio del primero o del segundo comprador.
+
+VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usuarias (sic) por medio de contratos o convenios en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado.
+
+IX.- Al que para obtener un lucro indebido, ponga en circulación fichas, tarjetas, planchuelas u otros objetos de cualquier materia como signos convencionales en substitución de la moneda legal;
+
+X.- Al que simulare un contrato, un acto o escrito judicial, con perjuicio de otro o para obtener cualquier beneficio indebido.
+
+Se presumirá simulado el juicio que se siga en contra de un depositario judicial, cuando en virtud de tal juicio, acción, acto o escrito judicial resulte el secuestro de una cosa embargada o depositada con anterioridad, cualquiera que sea la persona contra la cual se siga la acción o juicio.
+
+XI.- Al que por sorteos, rifas, loterías, promesas de venta o por cualquiera otro medio, se quede en todo o en parte con las cantidades recibidas, sin entregar la mercancía u objeto ofrecido.
+
+XII.- Al fabricante, empresario, contratista, o constructor de una obra cualquiera, que emplee en la construcción de la misma, materiales en cantidad o calidad inferior a la convenida o mano de obra inferior a la estipulada, siempre que haya recibido el precio o parte de él;
+
+XIII.- Al vendedor de materiales de construcción o cualquiera especie, que habiendo recibido el precio de los mismos, no los entregare en su totalidad o calidad convenidos;
+
+XIV.- Al propietario de una empresa o negocio, que lo venda o traspase sin autorización de los acreedores de la misma negociación, o sin que el nuevo adquirente se comprometa a responder de los créditos; siempre que aquél resulte insolvente.
+
+XV.- Al que explote las preocupaciones, la superstición o la ignorancia del pueblo, por medio de supuesta evocación de espíritus, adivinaciones o curaciones.
+
+XVI.- Al que ejecute actos violatorios de derechos a propiedad literaria, dramática o artística, considerados como falsificación en el Código Civil.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3059,7 +3109,7 @@ Cuando el valor de lo defraudado, conforme a los artículos anteriores de este c
 
 ###### ARTICULO 389.
 
-Se impondrá prisión de tres meses a siete años y multa de veinte a mil pesos o sólo la prisión, al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o en billetes de banco, de un documento que importe obligación, liberación o transmisión de derechos, o de cualquiera otra cosa ajena mueble, logre que se la entreguen por medio de maquinaciones, engaños o artificios.
+(DEROGADO, D.O.F. 9 DE MARZO DE 1946)
 
 ###### ARTICULO 390.
 
@@ -3093,17 +3143,15 @@ La reparación del daño por los delitos previstos en este capítulo, no formar�
 
 ###### ARTICULO 395.
 
-Se aplicará la pena de tres meses a dos años de prisión, y multa de cincuenta a quinientos pesos:
+Se aplicará la pena de tres meses a cinco años de prisión y multa de cincuenta a quinientos pesos:
 
-I.- Al que de propia autoridad y haciendo violencia física o moral a las personas, o furtivamente o empleando amenaza o engaño, ocupe un inmueble ajeno, o haga uso de él, o de un derecho real que no le pertenezca;
+I.- Al que de propia autoridad y haciendo violencia o furtivamente, o empleando amenaza o engaño, ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante, y
+II.- Al que de propia autoridad y haciendo uso de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
 
 III.- Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
 
-La pena será aplicable, aun cuando la posesión de la cosa usurpada sea dudosa o esté en disputa.
+La pena será aplicable, aun cuando el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa. Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en este artículo, se aplicará a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
 
 ###### ARTICULO 396.
 
@@ -3135,17 +3183,25 @@ TITULO VIGESIMOTERCERO
 
 Encubrimiento
 
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
 ###### ARTICULO 400.
 
-Se aplicarán de quince días a dos años de prisión, y multa de veinte a quinientos pesos, al que:
+Se aplicarán de cinco días a dos años de prisión y multa de veinte a quinientos pesos al que:
 
-I.- No procure por lo medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa van a cometerse, o se estén cometiendo, si son de los que se persiguen de oficio.
+I.- No procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse, o se están cometiendo, si son de los que se persiguen de oficio.
 
-Quedan exceptuados de pena aquellos que no puedan cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secreto que se les hubiere confiado en el ejercicio de su profesión o encargo;
+II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió la cosa en venta o prenda tendría derecho para disponer de ella, si resultare robada.
 
-II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste deba respeto, gratitud o amistad, y
+III.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes.
 
-III.- Habitualmente compre cosas robadas. Se considera comprador habitual de cosas robadas: al que efectúe dichas compras tres o más veces.
+IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito; y
+
+V.- Oculte al responsable de un delito, o los efectos objetos o instrumentos del mismo, o impida que se averigüe.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE MARZO DE 1946)</small>
+
+ARTICULO 400 BIS.- Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 52, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV, y V del artículo anterior, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para llevar la sanción que autoriza este artículo.
 
 ARTICULOS TRANSITORIOS:
 
@@ -3246,3 +3302,19 @@ Esta ley deroga a las disposiciones legales y reglamentarias que de cualquier mo
 ###### ARTICULO 3°.
 
 El Ejecutivo de la Unión dictará las disposiciones reglamentarias para la ejecución de la presente ley.
+
+D.O.F. 9 DE MARZO DE 1946.
+
+LEY QUE REFORMA EL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DEL FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial".
+
+D.O.F. 9 DE MARZO DE 1946.
+
+DECRETO QUE REFORMA EL ARTÍCULO 85 Y 366 FRACCION V DEL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
