@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1936-12-12"
+last_updated: "1939-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1939.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -431,10 +431,6 @@ Tampoco será oído el Ejecutivo ni podrá hacer observaciones a la Legislatura,
 
 El Gobernador podrá nombrar un representante para que sin voto, asista a las sesiones con obJeto (sic) de apoyar las observaciones que hiciere a las iniciativas de ley o Decreto y para sostener las que procedieren de él, a cuyo efecto se le dará oportuno aviso del día de la discusión.
 
-###### Artículo 44.
-
-El Gobernador podrá nombrar un representante para que sin voto, asista a las sesiones con obJeto (sic) de apoyar las observaciones que hiciere a las iniciativas de ley o Decreto y para sostener las que procedieren de él, a cuyo efecto se le dará oportuno aviso del día de la discusión.
-
 ###### Artículo 45.
 
 El mismo derecho tendrá el Supremo Tribunal de Justicia del Estado, cuando la iniciativa de ley o Decreto sea del ramo Jndicial (sic), y para facilitarle su ejercicio, al darle aviso del día de la discusión se le remitirá copia de la iniciativa.
@@ -445,7 +441,7 @@ Los Ayuntamientos al hacer su iniciativa, si lo juzgaren conveniente, designará
 
 ###### Artículo 47.
 
-Las iniciativas de ley o decreto no se considerarán aprobadas, sino cuando hayan sido apoyadas por el voto de la mayoría de todos los miembros del Congreso. Cuando fueren objetadas por representantes del Ejecutivo, Supremo Tribunal de Justicia o Ayuntamiento, se requiere el voto de las dos terceras partes del Congreso, respecto de los puntos en que hubiere discrepancia.
+(DEROGADO, P.O. 27 DE MAYO DE 1939)
 
 ###### Artículo 48.
 
@@ -687,11 +683,11 @@ El Secretario General, mientras funcione con este carácter, no podrá ejercer l
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1939)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores, Jueces de Paz, Presidentes de las Juntas Municipales, Comisarios y Jurados.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Tribunal para Menores, Jueces Menores y demás Autoridades que designe la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -895,11 +891,11 @@ Cada ayuntamiento formará su reglamento interior que será revisado y aprobado 
 
 Los Ayuntamientos son cuerpos meramente deliberantes, y sus acuerdos y resoluciones serán comunicados, para su ejecución por conducto de su Presidente.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1939)</small>
 
 ###### Artículo 96.
 
-Queda encomendado el ejercicio de la Autoridad Judicial, en la Cabecera de Municipalidad a los Jueces de Paz, en los Pueblos a los Presidentes de las Juntas Municipales y en las Rancherías a los Comisarios.
+Queda encomendado el ejercicio de la Autoridad Judicial, en las cabeceras de las Municipalidades, en los Pueblos y en las Rancherías, a las Autoridades que designe la Ley Orgánica del Poder Judicial.
 
 ## TITULO VII
 
@@ -959,9 +955,11 @@ Cada Municipalidad tendrá cuando menos tres mil habitantes; dentro de ellas las
 
 Si alguna de las Municipalidades a que se refiere el artículo 104 de esta Constitución no reuniere o dejare de llenar los requisitos que fija este artículo, perderá la categoría de Municipalidad, o bien se le agregará el territorio que necesite, a juicio del Congreso.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1939)</small>
+
 ###### Artículo 106.
 
-Las congregaciones que tengan menos de quinientos habitantes, se considerarán agregadas, para todos los efectos políticos y judiciales, a las rancherías, pueblos o cabecera más próximos de la Municipalidad en que estén ubicados.
+Las congregaciones que tengan menos de doscientos habitantes, se considerarán agregadas, para todos los efectos políticos y judiciales, a las rancherías, pueblos o cabeceras más próximos a la Municipalidad en que estén ubicadas.
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
@@ -1095,17 +1093,19 @@ De las responsabilidades de los Funcionarios y Empleados públicos.
 
 El Estado no reconoce más Ley fundamental para su Gobierno interior, que la presente Constitución y nadie puede dispensar su observancia. Cuando por algún trastorno público se interrumpa la observancia de la Constitución y se estableciere un Gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su soberanía volverá a ser acatada y con sujeción a la misma y a las Leyes que de ella emanen serán juzgados todos los que la hubieren infringido.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1939)</small>
+
 ###### Artículo 130.
 
-Esta Constitución puede ser adicionada o reformada; pero para que las adiciones o reformas lleguen a ser parte de ella, se necesita:
+Esta Constitución puede ser adicionada o reformada; pero para que las adiciones o reformas lleguen a formar parte de ella, se necesita:
 
-I.- Que el Congreso ante quien se presenten las adiciones o reformas, las admita a discusión por las dos terceras partes de votos de los individuos presentes, en cuyo caso se imprimirán y publicarán con los fundamentos en que se apoyen.
+I.- Que iniciadas las adiciones o reformas, el Congreso del Estado las admita a su discusión.
 
-II.- El Congreso siguiente a aquel en que se hubieren admitido a discusión las reformas, procederá a ella y a su votación.
+II.- Que sean aprobadas dichas adiciones o reformas por las dos terceras partes del número total de Diputados que formen la Cámara.
 
-III.- Si fueren aprobadas las reformas por las dos terceras partes del número total de Diputados que formen la Cámara, se sujetarán dichas reformas a la ratificación de los Ayuntamientos del Estado y si entre estos cuerpos fueren también aprobadas se publicarán en la forma legal. La aprobación o reprobación de parte de los Ayuntamientos, será presentada dentro de los treinta días siguientes a la fecha en que hubieren recibido el proyecto, y por el hecho de no presentarla dentro del plazo indicado, se entenderá que aceptan la reforma.
+III.- Que cuando sean aprobadas las adiciones o reformas, se pase a los Ayuntamientos del Estado, el proyecto que las contenga, juntamente con los debates que hubiere provocado, y si entre estos Cuerpos son también aprobadas se declararán por el Congreso parte de esta Constitución y se publicarán en la forma legal. La aprobación o reprobación de parte de los Ayuntamientos será presentada dentro de los treinta días siguientes a la fecha en que reciban el proyecto de Ley, y si transcurriere este término sin que los Ayuntamientos remitan al Congreso el resultado de la votación, se entenderá que aceptan las adiciones o reformas.
 
-IV.- Si no se obtuviere el voto de las dos terceras partes de los Diputados y la ratificación de la mayoría de los Ayuntamientos, se entenderá decechado (sic) el respectivo proyecto.
+IV.- Si no se obtuviere el voto de las dos terceras partes de los Diputados y la aprobación de la mayoría de los Ayuntamientos, se entenderá desechado el proyecto de Ley respectivo.
 
 ###### Artículo 131.
 
@@ -1446,6 +1446,16 @@ La designación de Jueces deberá hacerse el día primero de enero de mil noveci
 ###### Artículo 4º.
 
 Se derogan los preceptos de la Ley Orgánica de los Tribunales de Justicia del Fuero Común y demás disposiciones legales en cuanto se opongan al cumplimiento de las presentes adiciones y reformas.
+
+P.O. 27 DE MAYO DE 1939.
+
+###### Artículo 1º.
+
+Las presentes reformas y derogación entrarán en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2º.
+
+Se derogan todas las disposiciones legales que se opongan al cumplimiento de las presentes reformas y derogación.
 
 ###### Artículo 2.
 
