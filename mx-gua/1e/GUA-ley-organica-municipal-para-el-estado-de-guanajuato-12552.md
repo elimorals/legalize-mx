@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2003-08-12"
+last_updated: "2005-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2005.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -49,7 +49,7 @@ La presente Ley tiene por objeto regular el gobierno, la estructura orgánica y 
 
 ###### Artículo 2o.
 
-El Municipio libre es una institución de orden público, base de la división territorial y de la organización política y administrativa del Estado, constituído por una comunidad de personas, establecida en un territorio determinado, dotado de personalidad jurídica y patrimonio propio, autónomo en su régimen interior y con libre administración de su hacienda.
+El Municipio libre es una institución de orden público, base de la división territorial y de la organización política y administrativa del Estado, constituido por una comunidad de personas, establecida en un territorio determinado, dotado de personalidad jurídica y patrimonio propio, autónomo en su régimen interior y con libre administración de su hacienda.
 
 ###### Artículo 3o.
 
@@ -81,7 +81,7 @@ Las relaciones laborales entre los municipios y sus trabajadores, se regirán po
 
 Los servidores públicos municipales, serán responsables de los delitos o faltas administrativas que cometan en el ejercicio de sus funciones o con motivo de ellas, en atención a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guanajuato y demás leyes aplicables.
 
-El Municipio será responsable subsidiario por los daños causados por los servidores públicos municipales en el ejercicio de sus atribuciones, en los términos del Código Penal y del Código Civil para el Estado de Guanajuato.
+> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 7 DE ENERO DE 2005)</small>
 
 ## TITULO SEGUNDO
 
@@ -379,7 +379,7 @@ Los ayuntamientos electos, se instalarán solemne y públicamente el día 10 de 
 
 "Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de presidente municipal".
 
-Concluída la protesta, el presidente municipal la tomará a los demás miembros del Ayuntamiento, bajo la fórmula siguiente:
+Concluida la protesta, el presidente municipal la tomará a los demás miembros del Ayuntamiento, bajo la fórmula siguiente:
 
 "¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?".
 
@@ -1941,7 +1941,7 @@ El servicio de panteones podrá ser concesionado, con la condición de que se es
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
-Artículo 152 A.- El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a los dispuesto en la Ley de la materia.
+Artículo 152 A.- El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a lo dispuesto en la Ley de la materia.
 
 ### CAPITULO SEGUNDO. DE LAS CONCESIONES DE SERVICIOS PUBLICOS MUNICIPALES
 
@@ -2001,7 +2001,7 @@ Las personas físicas o morales interesadas en obtener la concesión del servici
 
 Si la autoridad municipal que recibió la solicitud, determina que ésta debe aclararse o completarse, notificará por escrito al interesado, para que en el término de cinco días hábiles, subsane la omisión o realice las aclaraciones correspondientes; en caso contrario, se tendrá por no presentada dicha solicitud.
 
-Concluído el período de recepción de solicitudes, los ayuntamientos formarán una comisión técnica especializada en el servicio público a concesionar, misma que deberá rendir un dictamen técnico, financiero, legal y administrativo, sobre el cual el Ayuntamiento emitirá la resolución correspondiente, dentro del término de treinta días hábiles.
+Concluido el período de recepción de solicitudes, los ayuntamientos formarán una comisión técnica especializada en el servicio público a concesionar, misma que deberá rendir un dictamen técnico, financiero, legal y administrativo, sobre el cual el Ayuntamiento emitirá la resolución correspondiente, dentro del término de treinta días hábiles.
 
 En la citada resolución, se asentarán cuáles solicitudes no fueron aceptadas, indicando las razones que motivaron el rechazo y se determinará discrecionalmente de entre los que reúnan las condiciones técnicas, administrativas, legales y financieras, quien o quienes serán los titulares de la concesión del servicio público de que se trate.
 
@@ -2207,7 +2207,7 @@ I.- Las plazas, callejones, calles, avenidas y demás áreas destinadas a la via
 
 II.- Los accesos, caminos, calzadas y puentes, que no sean propiedad del Estado o de la Federación;
 
-III.- Los canales, zanjas y acueductos para uso de la población, construídos o adquiridos por los municipios dentro de su territorio, que no sean de la Federación o del Estado;
+III.- Los canales, zanjas y acueductos para uso de la población, construidos o adquiridos por los municipios dentro de su territorio, que no sean de la Federación o del Estado;
 
 IV.- Los parques y jardines municipales;
 
@@ -2717,7 +2717,7 @@ Artículo Sexto.- Los títulos-concesión otorgados con anterioridad al momento 
 
 Las solicitudes de concesión que se encuentren en trámite y en fase de dictamen, presentadas con anterioridad a la entrada en vigor de la presente Ley, se substanciarán bajo las disposiciones de la Ley que se abroga.
 
-Artículo Séptimo.- Los bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general, emitidas por el Ayuntamiento, y que a la fecha se encuentren en vigor, continuarán rigiendo en todo aquéllo que no se opongan a la presente Ley.
+Artículo Séptimo.- Los bandos de policía y buen gobierno, reglamentos y disposiciones administrativas de observancia general, emitidas por el Ayuntamiento, y que a la fecha se encuentren en vigor, continuarán rigiendo en todo aquello que no se opongan a la presente Ley.
 
 Artículo Octavo.- Los procedimientos de revocación de mandato, así como los relativos a conflictos de límites entre municipios, que se encuentren en trámite ante el Congreso del Estado a la entrada en vigor de la presente Ley, continuarán substanciándose bajo las disposiciones de la Ley que se abroga.
 
@@ -2778,3 +2778,25 @@ Artículo Tercero.- Para efectos de los artículos 79 y 80 de esta Ley, el Comit
 Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Guanajuato, expedido mediante el Decreto número 119 de la Quincuagésima Tercera Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado número 71, segunda parte de fecha 4 cuatro de septiembre de 1987 mil novecientos ochenta y siete.
 
 Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 7 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los procedimientos de responsabilidad patrimonial iniciados durante el ejercicio fiscal del 2004, en los que se determine una indemnización a cargo de los sujetos obligados, deberá atenderse en lo conducente, lo dispuesto en los artículos 7 y 20 del presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los sujetos obligados referidos en la presente Ley, a partir del ejercicio fiscal del 2005 incluirán en sus respectivos presupuestos una partida que haga frente a su responsabilidad patrimonial.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el artículo 1418 del Código Civil para el Estado de Guanajuato.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el segundo párrafo del artículo 7 de la Ley Orgánica Municipal para el Estado de Guanajuato.
