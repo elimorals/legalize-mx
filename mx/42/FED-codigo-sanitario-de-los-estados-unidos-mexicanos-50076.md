@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1936-03-24"
+last_updated: "1937-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-20"
 
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1937.
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -1921,9 +1921,11 @@ Se prohibe usar para calentamiento de hornos destinados a comestibles, madera pi
 
 En los lugares donde se produzcan, elaboren, manipulen, fabriquen, almacenen, depositen, expendan o suministren comestibles, bebidas y similares, no deberán existir maquinarias, objetos, útiles, substancias, etc., que a juicio del Departamento puedan servir de algún modo para adulterar o alterar comestibles, bebidas y similares, salvo autorización expresa de los reglamentos respectivos.
 
+> <small>(REFORMADO, D.O. 16 DE JULIO DE 1937)</small>
+
 ###### ARTICULO 313.
 
-Queda prohibido en la República la importación, comercio interior, fabricación, elaboración, almacenamiento, transporte, posesión, venta y suministro al público, de comestibles, bebidas y similares envasados o empacados que no hayan sido previamente registrados en el Departamento de Salubridad Pública, de acuerdo con las disposiciones que dicte el Consejo de Salubridad General.
+Queda prohibida en la República la importación, comercio interior, fabricación, elaboración, almacenamiento, transporte, posesión, venta y suministro al público, de comestibles, bebidas y similares envasados o empacados que no hayan sido previamente registrados en el Departamento de Salubridad Pública, de acuerdo con las disposiciones que dicte el Consejo de Salubridad General; y la de los productos llamados "a granel," cuyo registro sea necesario, de acuerdo con el reglamento respectivo.
 
 ###### ARTICULO 314.
 
@@ -2271,9 +2273,11 @@ XX.- Los demás requisitos que sean necesarios para la observancia de las prescr
 
 La existencia o explotación de animales, sólo se permitirá en los locales que llenen las condiciones que determinen los reglamentos.
 
+> <small>(REFORMADO, D.O. 16 DE JULIO DE 1937)</small>
+
 ###### ARTICULO 362.
 
-Los establos, rastros y zahurdas, estarán situados en las zonas no urbanizadas que señalen los reglamentos respectivos.
+Los establos, rastros y zahurdas estarán situados fuera de las zonas urbanizadas, que para el efecto señalen los reglamentos respectivos.
 
 ###### ARTICULO 363.
 
@@ -3226,5 +3230,9 @@ México, D.F., a 28 de agosto de 1934.- El Subsecretario de Gobernación, Encarg
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 24 DE MARZO DE 1936.
+
+> <small>[N. DE E. EL “DECRETO QUE REFORMA VARIOS ARTÍCULOS DEL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL”.]</small>
+
+D.O. 16 DE JULIO DE 1937.
 
 > <small>[N. DE E. EL “DECRETO QUE REFORMA VARIOS ARTÍCULOS DEL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL”.]</small>
