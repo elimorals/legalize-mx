@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-penales-del-estado-de-campeche-3386"
 country: "mx"
 rank: "codigo"
 publication_date: "1975-12-09"
-last_updated: "1986-10-09"
+last_updated: "1986-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el martes 9 de diciembre de 1975.
 
@@ -71,7 +71,9 @@ III.- Pedir la reparación del daño en los términos especificados en el Códig
 
 Corresponde al Ministerio Público:
 
-I.- Dirigir a la policía judicial en la investigación que ésta haga para comprobar el cuerpo del delito, ordenándole la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido, o practicando él mismo aquellas diligencias;
+I.- (REFORMADA P.O. 23 DE DICIEMBRE DE 1986)
+
+I.- Dirigir a la policía judicial en la investigación que ésta haga, para comprobar el cuerpo del delito, ordenándole, con excepción de la recepción de las declaraciones del acusado, que corresponderá exclusivamente al propio agente del ministerio público, la práctica de las diligencias que, a su juicio, estime necesarias para cumplir debidamente con su cometido o practicando él mismo aquellas diligencias;
 
 II.- Pedir al juez a quien se consigne el asunto, la práctica de todas aquellas diligencias que, a su juicio sean necesarias para comprobar la existencia del delito y de sus modalidades;
 
@@ -679,19 +681,19 @@ En todos los casos de robo, el cuerpo del delito se justificará por alguno de l
 
 I.- Por la comprobación de los elementos materiales del delito;
 
-II.- Por la confesión del indiciado, aún cuando se ignore quién es el dueño de la cosa, materia del delito;
+II.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 1986)
 
 III.- Por la prueba de que el acusado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no hubiere podido adquirir legítimamente, si no justifica su procedencia;
 
 IV.- Por la prueba de la preexistencia, propiedad y falta posterior de la cosa, materia del delito;
 
-V.- Por la prueba de que la persona ofendida se hallaba en situación de poseer la cosa, materia del delito; que disfruta de buena opinión y que hizo alguna gestión judicial o extrajudicial para recobrar la cosa robada.
+V.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 1986)
 
 Estas pruebas serán preferidas en el orden numérico en que están colocadas, aceptándose las posteriores sólo a falta de las anteriores.
 
 ###### Artículo 126.
 
-El cuerpo del delito en el fraude, abuso de confianza y peculado, se comprobará por cualquiera de los medios expresados en las fracciones I y II del artículo anterior, observándose lo que dispone su inciso final.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1986)
 
 ###### Artículo 127.
 
@@ -865,9 +867,11 @@ También se admitirá como prueba todo aquello que se presente como tal, siempre
 
 ### CAPITULO VI. Confesión
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 160.
 
-La confesión podrá recibirse por el funcionario de policía judicial que practique la averiguación previa o por el tribunal que conozca del asunto.
+La confesión podrá recibirse por el agente del Ministerio Público que practique la averiguación previa, contando siempre con la presencia en el acto de la diligencia de un defensor de oficio; también podrá recibirse por el juez o tribunal que conozca del asunto.
 
 ###### Artículo 161.
 
@@ -1407,27 +1411,35 @@ IV.- Las pruebas no especificadas a que se refiere la última parte del artícul
 
 Los jueces y tribunales apreciarán las pruebas, con sujeción a las reglas de este Capítulo.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 270.
 
-En caso de duda debe absolverse.
-
-No podrá condenarse a un acusado, sino cuando se pruebe que cometió el delito que se le imputa.
+Todo acusado será considerado inocente mientras no se pruebe que cometió el delito que se le imputa. En caso de duda debe absolverse.
 
 ###### Artículo 271.
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación es contraria a una presunción legal o cuando envuelva la afirmación expresa de un hecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 272.
 
-La confesión judicial hará prueba plena, cuando concurran las siguientes circunstancias:
+La confesión hará prueba, cuando concurran las siguientes circunstancias:
 
-I.- Que esté plenamente comprobada la existencia del delito salvo lo dispuesto en los artículos 125 y 126;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
-II.- Que se haga por persona mayor de catorce años, en su contra, con pleno conocimiento, y sin coacción ni violencia;
+I.- Que esté plenamente comprobada la existencia del delito;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+II.- Que se haga por persona imputable, en su contra, con pleno conocimiento, y sin coacción ni violencia;
 
 III.- Que sea de hecho propio;
 
-IV.- Que se haga ante el juez o tribunal de la causa, o ante el funcionario de la policía judicial que haya practicado las primeras diligencias;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+IV.- Que se haga ante el juez o tribunal de la causa, o ante el agente del Ministerio Público que conozca del asunto, con las formalidades que establece este Código;
 
 V.- Que no vaya acompañada de otras pruebas o presunciones que la hagan inverosímil, a juicio del juez.
 
@@ -1447,47 +1459,53 @@ Los documentos privados, comprobados por testigos, se considerarán como prueba 
 
 La inspección, así como el resultado de los cateos, harán prueba plena, siempre que se practiquen con los requisitos legales.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 277.
 
-La fuerza probatoria de todo dictamen pericial, aun los de los peritos científicos, será calificada por el juez o tribunal, según las circunstancias del caso.
+La confesión y todos los demás medios de prueba constituyen meros indicios.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 278.
 
-Para apreciar la declaración del testigo, el tribunal o juez tendrá en consideración:
+La fuerza probatoria de todo dictamen pericial, aun los de los peritos científicos, será calificada por el juez o tribunal, según las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+###### Artículo 279.
+
+El valor de la prueba testimonial queda al prudente arbitrio del juez. Para apreciar la declaración del testigo, el tribunal o juez tendrá en consideración:
 
 I.- Que por su edad, capacidad e instrucción, tenga el criterio necesario para juzgar del acto;
 
 II.- Que por su probidad, la independencia de su posición y antecedentes personales, tenga completa imparcialidad;
 
-III.- Que el hecho de que se trate sea susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones ni referencias de otro;
+III.- Que el hecho de que se trate sea susceptible de conocerse por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducción ni referencias de otro;
 
 IV.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre la substancia del hecho, ya sobre sus circunstancias esenciales;
 
 V.- Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño, error o soborno. El apremio judicial no se reputará fuerza.
 
-###### Artículo 279.
-
-El valor de la prueba testimonial queda al prudente arbitrio del juez, quien no considerará probados los hechos sobre los cuales haya versado aquélla, si no hay por lo menos dos testigos en quienes concurran las condiciones del artículo anterior y las siguientes:
-
-I.- Que den fundada razón de su dicho;
-
-II.- Que convengan no solo en la substancia, sino en los accidentes del hecho que refieren.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 280.
 
-También harán prueba plena las declaraciones de dos testigos, si, conviniendo en la substancia, no convienen en los accidentes, si éstos, a juicio del juez o tribunal, no modifican la esencia del hecho.
+Los jueces y tribunales, según la naturaleza de los hechos, la prueba de ellos y el enlace natural más o menos necesario, que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de las presunciones hasta poder considerar su conjunto como prueba plena.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 281.
 
-Si por ambas partes hubiere igual número de testigos contradictorios, el juez o tribunal se decidirá por el dicho de los que merezcan mayor confianza. Si todos la merecen igual y no hay otra prueba, absolverá al acusado.
+Los jueces y tribunales, en sus resoluciones, expondrán los razonamientos que hayan tenido en cuenta para valorar jurídicamente la prueba.
 
 ###### Artículo 282.
 
-Si por una parte hubiere mayor número de testigos que por la otra, el juez o tribunal se decidirá por la mayoría, siempre que en todos concurran iguales motivos de confianza.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1986)
 
 ###### Artículo 283.
 
-Los jueces y tribunales, según la naturaleza de los hechos, la prueba de ellos y el enlace natural, más o menos necesario, que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de las presunciones hasta poder considerar su conjunto como prueba plena.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 1986)
 
 #### SECCION SEGUNDA. Averiguación Previa
 
@@ -1513,31 +1531,49 @@ Las querellas presentadas por las personas morales, podrán ser formuladas por a
 
 Para las querellas presentadas por personas físicas, será suficiente un poder semejante, salvo en los casos de rapto o estupro, en los que sólo se tendrá por formulada directamente por alguna de las personas a que se refiere la parte final del párrafo primero de este artículo.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+###### Artículo 286 Bis.
+
+Toda persona que tenga conocimiento de la comisión de un delito que deba perseguirse de oficio, está obligada a denunciarlo ante el agente del Ministerio Público y, en caso de urgencia, ante cualquier funcionario o agente de policía.
+
+Asimismo, toda persona que en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un delito que deba perseguirse de oficio, está obligado a participarlo inmediatamente al agente del Ministerio Público, transmitiéndole todos los datos que tuviere, y poniendo a su disposición, desde luego, a los inculpados, si hubieran sido detenidos.
+
 ###### Artículo 287.
 
 Al iniciar sus procedimientos, el Ministerio Público o la policía judicial, se trasladarán inmediatamente al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y tomarán los datos de las que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas, en caso contrario, para que dentro del término de veinticuatro horas comparezcan a rendir su declaración.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 288.
 
-Cuando el presunto responsable fuere aprehendido, se hará constar la hora en que lo haya sido, y se le recibirá su declaración.
+Cuando el presunto responsable fuere aprehendido, se hará constar el día y la hora en que lo haya sido; de inmediato se le practicará reconocimiento médico por los peritos en turno del servicio médico forense, quienes harán constar en el certificado respectivo su estado psicofísico.
 
-También se le recogerán los objetos que se relacionen con el delito y aquellos que no deban dejarse en su poder, por temor de que se pierdan o porque se estime inconveniente que los tenga en su posesión; pero, en todo caso, se entregará al detenido un recibo en que se especifiquen los objetos recogidos, agregándose al acta un duplicado de este recibo, que deberá llevar la firma y conformidad del indiciado.
+A continuación, sin demora alguna, previo aviso al defensor de oficio correspondiente y en presencia de éste, el agente del Ministerio Público recibirá la declaración del detenido. Durante esta diligencia el defensor de oficio estará facultado expresamente para solicitar que se asiente constancia en el acta respectiva sobre los particulares relativos a si el detenido lo fue al margen de los casos previstos por el artículo 16 de la Constitución Federal; a cualquiera irregularidad que observare en el precitado reconocimiento médico; y hacer, por conducto del aludido funcionario público, las preguntas que considere necesarias al declarante con el fin de dejar lo más clara posible la declaración de éste.
+
+El defensor no podrá comunicarse en privado con el detenido antes de que éste rinda declaración, para evitar cualesquiera aleccionamientos. Sin embargo, con posterioridad a la diligencia y durante el curso de la investigación deberá permitírsele la más amplia comunicación con el detenido para el ejercicio de sus funciones.
+
+Cuando procediere la consignación del detenido a la autoridad judicial, antes de trasladársele a la cárcel preventiva donde deberá quedar a disposición de aquélla, los peritos en turno del servicio médico forense practicarán nuevo reconocimiento médico al presunto responsable, haciendo constar su estado psicofísico, certificación que se agregará en todo caso a las diligencias relativas. De la misma manera, en lo conducente, se procederá cuando el propio detenido sea puesto en libertad por la autoridad administrativa, por no haber lugar a consignación.
+
+También se le recogerán al detenido los objetos que se relacionen con el delito y aquéllos que no deban dejarse en su poder, por temor a que se pierdan o porque se estime inconveniente que los posea; pero en todo caso se le entregará un recibo en que se especifiquen los objetos recogidos y se agregará al acta un duplicado de aquel recibo, que deberá llevar la firma y la expresión de conformidad del indicado (sic).
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 289.
 
-Antes de trasladar al presunto reo a la cárcel preventiva, se le tomarán sus generales y se le identificará debidamente, haciéndole saber el derecho que tiene para nombrar defensor. Este podrá, previa la protesta otorgada ante los funcionarios del Ministerio Público o de la policía que intervengan, entrar al desempeño de su cometido.
+Cuando el presunto responsable comparezca espontáneamente ante el agente del Ministerio Público con el fin de que se le reciba declaración, la diligencia respectiva se ajustará, en lo procedente, a las formalidades previstas en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 290.
 
-Si el acusado o su defensor solicitaren la libertad caucional, los funcionarios mencionados se concretarán a recibir la petición relativa, y agregarla al acta correspondiente, para que el juez resuelva sobre el particular.
+En todo caso, el funcionario que conozca de un hecho delictuoso hará que el ofendido sea examinado inmediatamente por los peritos en turno del servicio médico forense, para que dictaminen, con carácter provisional, acerca de su estado psicofísico.
 
-En todo caso, el funcionario que conozca de un hecho delictuoso, hará que tanto el ofendido como el presunto responsable sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen, con carácter provisional, acerca de su estado psicofisiológico.
+En las averiguaciones que se practiquen respecto de delitos de imprudencia ocasionados con motivo del tránsito de vehículos, con pena aplicable que permita el beneficio de libertad caucional, y siempre que no se abandone a quien hubiese resultado lesionado, no procederá la detención del presunto responsable si éste garantiza suficientemente ante el agente del Ministerio Público el no sustraerse a la acción de la justicia y, en su caso, el pago de la reparación del daño.
 
-En las averiguaciones que se practiquen por delitos de imprudencia ocasionados con motivo del tránsito de vehículos, siempre que no se abandone a quien hubiese resultado lesionado, no procederá la detención del presunto responsable, si éste garantiza suficientemente ante el Ministerio Público el no sustraerse a la acción de la justicia y, en su caso, al pago de la reparación del daño.
+Cuando el agente del Ministerio Público deje libre al presunto responsable, lo prevendrá para que comparezca ante el mismo para la práctica de diligencias de averiguación, en su caso, y, concluida ésta, ante el juez a quien se consigne la causa, el que ordenará su presentación, y si no comparece a la primera cita, librará orden de aprehensión en contra y mandará hacer efectiva la garantía otorgada.
 
-Cuando el Ministerio Público deje libre al presunto responsable, lo prevendrá para que comparezca ante el mismo para la práctica de diligencias de averiguación, en su caso, y, concluida ésta, ante el juez a quien se consigne la causa, quien ordenará su presentación, y si no comparece a la primera cita, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
-
-El Ministerio Público podrá hacer efectiva la garantía si el presunto responsable desobedeciere, sin causa justificada las órdenes que dictare.
+El agente del Ministerio Público podrá hacer efectiva la garantía si el presunto responsable desobedeciere, sin causa justificada, las órdenes que dictare.
 
 La garantía se cancelará y en su caso se devolverá cuando se resuelva el no ejercicio de la acción penal, o una vez que se haya presentado el presunto responsable ante el juez de la causa.
 
@@ -1611,9 +1647,11 @@ Los funcionarios del Ministerio Público y de la Policía Judicial asentarán, e
 
 Los mismos funcionarios asentarán también en dicha acta todas las observaciones que acerca del carácter del delincuente hubieren recogido, ya sea en el momento de cometer el delito, ya durante la detención del presunto responsable, o bien durante la práctica de las diligencias en que hubieren intervenido.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 305.
 
-Las diligencias practicadas por el Ministerio Público y por la Policía Judicial tendrán valor probatorio pleno, siempre que se ajusten a las reglas relativas de este Código.
+Las diligencias practicadas por el agente del Ministerio Público y por la policía judicial tendrán valor probatorio siempre que se ajusten a las reglas relativas de este Código.
 
 ###### Artículo 306.
 
@@ -1659,11 +1697,11 @@ El Agente del Ministerio Público y la defensa tendrán el derecho de interrogar
 
 El inculpado podrá redactar sus contestaciones; si no lo hiciere, las redactará el juez, procurando interpretarlas con la mayor exactitud posible, sin omitir detalle alguno que pueda servir de cargo o de descargo.
 
-> <small>(F. DE E. 6 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
 ###### Artículo 314.
 
-Terminada la declaración u obtenida la manifestación del detenido de no que desea declarar, el juez nombrará al inculpado un defensor de oficio, cuando proceda, de acuerdo con la fracción III del artículo 310.
+Antes de rendir declaración preparatoria, u obtenida la manifestación del detenido de que no desea declarar, el juez nombrará al inculpado un defensor de oficio, cuando proceda, de acuerdo con la fracción III del Artículo 310.
 
 > <small>(F. DE E. 6 DE ENERO DE 1976)</small>
 
@@ -1671,9 +1709,11 @@ Terminada la declaración u obtenida la manifestación del detenido de no que de
 
 Recibida la declaración preparatoria o, en su caso, la manifestación del inculpado de que no desea declarar, si fuese posible el juez lo careará con todos los testigos que depongan en su contra.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 316.
 
-En los casos en que el delito, por estar sancionado con pena alternativa o no corporal, no dé lugar a detención, a pedimento del Ministerio Público se librará orden de comparecencia, en contra del inculpado para que rinda su declaración preparatoria, siempre que haya elementos que permitan presumir la existencia del delito y la responsabilidad del mismo inculpado.
+En los casos en que el delito, por estar sancionado con pena alternativa o no corporal, o con pena privativa de libertad que no exceda de un año, no dé lugar a detención preventiva, a pedimento del agente del Ministerio Público se librará orden de comparecencia en contra del inculpado, para que rinda su declaración preparatoria, siempre que haya elementos que permitan determinar la existencia del delito y la presunta responsabilidad en su comisión del mismo acusado.
 
 ###### Artículo 317.
 
@@ -2928,3 +2968,9 @@ Este decreto entrará en vigor a los treinta días de su publicación en el Peri
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a lo dispuesto por este decreto.
+
+P.O. 23 DE DICIEMBRE DE 1986.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
