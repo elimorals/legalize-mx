@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1968-06-15"
+last_updated: "1969-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1969.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -535,13 +535,17 @@ Para que los comprendidos en este artículo puedan ser electos necesitan separar
 
 La elección de Gobernador prefiere a cualquier otro cargo del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1o. DE ENERO DE 1969)</small>
 
 ###### Art. 84.
 
-El Gobernador será electo cada seis años y tomará posesión de su cargo el día cuatro de octubre.
+El Gobernador será electo cada seis años y tomará posesión de su cargo el día 1o. de Agosto.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
 El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1942)</small>
 
 No podrán ser electos para el período inmediato.
 
@@ -993,7 +997,7 @@ Una ley determinará la organización y funcionamiento de todas las Oficinas de 
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1968)</small>
 
-ART. 140.- Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
+ARTIULO 140.- Ninguna cuenta, ya sea del Estado o de los Municipios dejará de concluirse y glosarse anualmente.
 
 ###### Art. 140.
 
@@ -1440,3 +1444,13 @@ PRIMERO: Salvo lo dispuesto en el artículo segundo siguiente, estas reformas em
 SEGUNDO: La fracción XIX del Artículo 63; la fracción II del Artículo 66 y la fracción XXVI del Artículo 85 reformadas por este decreto entrarán en vigor hasta en tanto se dicte la Ley Reglamentaria de la nueva fracción XXVI del Artículo 85, y simultáneamente con la promulgación y vigencia de dicha ley; entre tanto subsistirá en vigor el texto actual de las fracciones objeto de reforma.
 
 TERCERO: El primer informe correspondiente al presente sexenio, se rendirá por el Ejecutivo en la sesión del Congreso del 16 de septiembre próximo; y el 1o. de marzo del siguiente año, al iniciarse el período de sesiones del Congreso, se rendirá el informe a que se refiere el artículo 57 reformado.
+
+P.O. 1o. DE ENERO DE 1969.
+
+###### ARTICULO PRIMERO
+
+- Se autoriza al C. Licenciado Eduardo A. Elizondo Lozano para retirarse de su cargo el 1o. de Agosto de 1973, acortando así su período constitucional en dos meses y tres días.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto, el cual entrará en vigor el día de su publicación en el Periódico Oficial.
