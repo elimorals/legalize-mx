@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2000-05-06"
+last_updated: "2002-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -71,11 +71,11 @@ Esta Ley, sus reformas y adiciones, y los Reglamentos que de ella se deriven, no
 
 El Congreso del Estado, tendrá su residencia oficial en la Ciudad de Oaxaca de Juárez, celebrará sus sesiones en el edificio sede del Poder Legislativo y no podrá trasladarse a otro lugar, sin que así lo acuerden las tres cuartas partes de los Diputados presentes.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 7°.
 
-El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el treinta y uno de marzo; y el segundo dará principio el primero de junio y concluirá el treinta de septiembre.
+El Congreso del Estado, tendrá cada año dos períodos ordinarios de sesiones; el primero comenzará el quince de noviembre y terminará el treinta y uno de marzo; y el segundo dará principio el primero de junio y concluirá el quince de julio.
 
 ###### ARTICULO 7º.
 
@@ -447,6 +447,10 @@ XXVI.- De Ecología;
 
 XXVII.- De Equidad y Género.
 
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+
+XXVIII.- De Asuntos Migratorios.
+
 Dichas Comisiones tendrán las facultades que se determinen en el Reglamento Interior del Congreso.
 
 ###### ARTICULO 45.
@@ -738,3 +742,15 @@ P.O. 6 DE MAYO DE 2000.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura del Estado, se integrará con las Diputadas y Diputados que integran la actual Comisión Especial de Equidad y Género.
+
+P.O. 27 DE ABRIL DE 2002.
+
+DECRETO No. 54, QUE REFORMA ART. 44
+
+UNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE ABRIL DE 2002.
+
+DECRETO No. 59, QUE REFORMA EL ART. 7
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
