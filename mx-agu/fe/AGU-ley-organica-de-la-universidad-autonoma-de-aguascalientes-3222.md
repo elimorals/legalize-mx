@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "1980-06-22"
+last_updated: "1997-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1997.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -83,251 +83,441 @@ IV.- Administrar libremente su patrimonio.
 
 Para desarrollar sus funciones la Universidad establecerá de acuerdo con las disposiciones del Estatuto de esta Ley las estructuras que considere necesarias.
 
-### CAPITULO II. ORGANOS DE LA UNIVERSIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+### CAPITULO II. DE LAS AUTORIDADES UNIVERSITARIAS
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 7o.
 
-El Gobierno de la Universidad corresponderá exclusivamente a:
+El gobierno y la administración de la Universidad estarán a cargo de:
 
-I.- La Junta de Gobierno.
+I.- La Junta de Gobierno;
 
-II.- El Consejo Universitario.
+II.- El Consejo Universitario;
 
-III.- El Rector.
+III.- El Rector;
 
-IV.- Los Directores Generales.
+IV.- El Secretario General;
 
-V.- Los Consejos de Representantes de los Centros.
+V. Los Consejos de las unidades académicas de primer nivel:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+VI.- Los titulares de las unidades académicas y de apoyo de primer nivel en que se estructura la institución, cuya denominación establecerá el estatuto;
 
-VI.- Los Decanos.
+VII.- Los titulares de las unidades académicas de segundo nivel; y
+
+VIII.- Los profesores, en los sitios y tiempos propios de su trabajo.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 8o.
 
-La Junta de Gobierno estará integrada por cinco miembros electos por el Consejo Universitario de acuerdo con las siguientes bases:
+La Junta de Gobierno se integrará por nueve miembros, quienes tendrán carácter honorífico y no podrán ocupar simultáneamente otro puesto de gobierno en la Universidad. Sus integrantes serán nombrados por el Consejo Universitario, previo cumplimiento de los requisitos establecidos y de conformidad con las siguientes bases:
 
-I.- Para ser electo miembro de la Junta de Gobierno se requerirá ser mexicano, tener residencia efectiva en el Estado de Aguascalientes, no menor de doce años inmediatos anteriores al día de la elección; ser mayor de treinta años y menor de setenta; poseer título profesional a nivel de licenciatura y haberse distinguido relevantemente en su especialidad profesional; tener reconocidos méritos académicos, culturales o de investigación; haber demostrado positivo interés por la educación superior y gozar de estimación general como persona honorable y prudente.
+I.- Ser ciudadano mexicano por nacimiento y tener cuando menos 35 años cumplidos al momento de su designación. Tener título profesional de licenciatura, registrado en términos de ley y además deberá cumplir con los requisitos que señale el estatuto tanto al momento de su designación como durante su gestión;
 
-II.- El Consejo Universitario reemplazará cada dos años al miembro más antiguo de la Junta de Gobierno.
+II.- A juicio del Consejo Universitario, contar con suficientes méritos académicos reconocidos, haber demostrado interés evidente por la institución, gozar de respeto general como personas honorables y equilibradas y no ocupar puestos o desempeñar funciones que comprometan su independencia de criterio;
 
-III.- Los miembros de la Junta de Gobierno no podrán ocupar puestos directivos o administrativos en la Universidad.
+III.- Ser profesor numerario con una antigüedad mínima de diez años en la Universidad;
 
-IV.- Las vacantes que se presenten en la Junta de Gobierno serán ocupadas por quien designe el Consejo Universitario, ante quien rendirá la Protesta de Ley.
+IV.- El Consejo Universitario reemplazará cada año al miembro de la Junta con mayor antigüedad en el desempeño de su cargo, por votación aprobatoria de más de la mitad de los miembros del Consejo, así como las vacantes que se presenten, previo análisis de la trayectoria de las personas propuestas para verificar el cumplimiento de los ordenamientos legales. Los requisitos para la designación se fijarán en el Estatuto y los miembros designados de la Junta rendirán protesta ante el Consejo.
 
-V.- El cargo de miembro de la Junta de Gobierno será honorífico.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 9o.
 
 Corresponde a la Junta de Gobierno:
 
-I.- Designar al Rector de la Universidad, así como de su renuncia y removerlo por causa grave, por violación a la Ley o al Estatuto, apreciadas discrecionalmente por la Junta.
+I.- Designar por mayoría absoluta al Rector de la Universidad; conocer y resolver de su renuncia; removerlo por faltas graves, con el voto de al menos siete de sus integrantes.
 
-La designación la hará la Junta tomando en cuenta la terna propuesta por una Asamblea de Representantes, integrada por los miembros de los Consejos de Representación de los Centros, que se constituirá con este único propósito.
+La designación se hará con base en una evaluación cuantitativa y otra cualitativa. La primera consistirá en las votaciones de profesores y alumnos, las cuales serán convocadas por la Junta de Gobierno y organizadas y supervisadas por una Comisión del Consejo Universitario. Corresponderá a la Asociación de Catedráticos e investigadores y a la Federación de Estudiantes promover y recibir la votación.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+El resultado de estas votaciones será una propuesta de candidatos elegibles que incluirá sólo a aquellos que obtengan más del 20% de los votos de los profesores o de los estudiantes. En caso de que menos de tres personas estuvieran en esta propuesta, se incluirá como elegibles a aquellos tres que hayan obtenido el mayor porcentaje en las votaciones.
 
-La designación de los integrantes de la terna a que antes se hace referencia, se hará tomando en cuenta las ternas presentadas por el personal académico a través de la Asociación de Catedráticos y por los estudiantes a través de la Federación de Estudiantes.
+La segunda evaluación consistirá en el análisis objetivo de los méritos y requisitos a que se refiere el Artículo 12, fracciones I y II de la presente Ley, de los aspirantes elegibles, según el resultado de la evaluación cuantitativa.
 
-II.- Designar a los Directores Generales que auxilian al Rector en el cumplimiento de sus funciones, así como a los Decanos de los Centros, de acuerdo con las propuestas que en terna deberá presentar el Rector ante la Junta, así como removerlos por causa grave, a propuesta del Consejo Universitario, del Rector o de los Consejos de Representantes de los Centros.
+> <small>(F. DE E., P.O. 23 DE NOVIEMBRE DE 1997)</small>
 
-III.- Resolver en definitiva cuando el Rector en los términos de la fracción VIII del artículo 14, vete los acuerdos del Consejo Universitario.
+II.- Designar a los titulares de las unidades académicas de primer nivel, a propuesta en cada caso del Consejo Universitario, en los términos señalados por la fracción anterior;
 
-IV.- Resolver en definitiva los conflictos que surjan entre las autoridades, profesores y alumnos de la Universidad, en términos que fije el Estatuto de esta Ley.
+III.- Designar, de entre quienes reúnan los requisitos que fije el Estatuto, a los titulares de las unidades de apoyo de primer nivel, de la terna propuesta por el Rector;
+
+IV.- Remover, por causa grave, a los titulares de las unidades académicas o de apoyo de primer nivel, a petición del Consejo Universitario, del Rector o de los consejos respectivos;
+
+V.- Resolver en definitiva cuando el Rector vete los acuerdos del Consejo Universitario;
+
+VI.- Designar o remover al Contralor Universitario; y
+
+VII.- Resolver conflictos que surjan entre las autoridades universitarias, cuando esta Ley, el Estatuto o ambos no asignen la resolución definitiva a otra instancia, o sea competencia de la Comisión de Honor y Justicia.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 10.
 
-El Consejo Universitario estará presidido por el Rector, e integrado por los Directores Generales, los Decanos de los Centros, un Representante de los Profesores y dos Alumnos de cada Centro, además dos Representantes de los Empleados Administrativos de la Universidad.
+El Consejo Universitario será presidido por el Rector, quien sólo tendrá voto de calidad en caso de empate. Se integrará por el Secretario General, los titulares de las unidades de apoyo de primer nivel, quienes tendrán voz pero no voto; dos representantes administrativos de la universidad, quienes tendrán voz pero no voto; los titulares de las unidades académicas de primer nivel, dos representantes de los profesores y dos de los alumnos de cada unidad académica de primer nivel, quienes tendrán voz y voto. El procedimiento para la elección de consejeros, requisitos, duración en el cargo, forma de renovación y suplencias se determinará en el Estatuto.
 
-El procedimiento para la elección de los Consejeros, los requisitos que deben llenar, la duración en su cargo y la forma de su renovación, se sujetará a lo dispuesto por el Estatuto respectivo.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 11.
 
-El Consejo Universitario tendrá las siguientes funciones:
+Son facultades del Consejo Universitario:
 
-I.- Expedir el Estatuto reglamentario de esta Ley, y todas las normas y disposiciones relativas a la estructura, organización y funcionamiento técnico, docente y administrativo de la Universidad, sin más limitaciones que las establecidas en la presente Ley.
+I.- Dictar las normas que regulen la estructura y vida de la universidad, así como el funcionamiento académico y administrativo, según las disposiciones de esta Ley y sin más limitaciones que la misma establezca. El Estatuto de esta Ley deberá precisar las orientaciones contenidas en el Artículo 3o. de esta Ley. El Consejo Universitario interpretará, cuando sea necesario, la legislación de la institución;
 
-II.- Crear, modificar o suprimir las carreras o cursos a propuesta del Rector.
+II.- Designar a los miembros de la Junta de Gobierno;
 
-III.- Conocer y aprobar en su caso, los proyectos anuales de ingresos y los presupuestos de egresos.
+III.- Organizar y supervisar las votaciones de profesores y alumnos para integrar las propuestas de Rector y titulares de unidades académicas de primer nivel;
 
-IV.- Conocer y aprobar en su caso, los informes anuales del Rector.
+IV. Regular el establecimiento y operación de otros organismos universitarios, de conformidad con esta Ley y su Estatuto;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+V.- Analizar, aprobar o modificar, en su caso, los planes de desarrollo y demás trabajos de planeación y evaluación académica o administrativa; los proyectos anuales de ingresos y egresos; el informe anual del ejercicio presupuestal; y el informe anual que el Rector deberá presentar con una evaluación general del estado de la institución.
 
-V.- Conocer y aprobar en su caso los planes de estudios propuestos por las instancias académicas a través del Rector.
+Los presupuestos de ingresos y egresos deberán contener cuando menos cinco partidas:
 
-VI.- Conocer y resolver en primera instancia las controversias que puedan presentarse entre autoridades, profesores y alumnos de la Universidad, aplicar las sanciones por violaciones a esta Ley o al Estatuto, de acuerdo con el procedimiento que marque este último.
+1.- Subsidio federal y su aplicación;
 
-VII.- Conocer y resolver todo lo relativo a pensiones, jubilaciones, estímulos y recompensas a los profesores, investigadores, alumnos, funcionarios y empleados, de acuerdo con el Estatuto.
+2. - Subsidio estatal y su aplicación;
 
-VIII.- Conferir grados honoríficos.
+3.- Subsidios especiales y su aplicación;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+4.- Ingresos propios y su aplicación; y
 
-IX.- Las demás que esta Ley, el Estatuto y los Reglamentos correspondientes le otorguen y, en general, conocer y resolver cualquier asunto que no sea competencia de otra autoridad de la Universidad.
+5.- Inversiones en obras y financieras.
+
+VI.- Designar cada año de entre tres propuestas, un despacho privado de reconocido prestigio para que practique auditorías contables y financieras externas a la institución, así como conocer el informe respectivo, hacerlo público a través de los medios de comunicación y tomar decisiones al respecto. Para evitar conflicto de interés, el despacho designado no podrá estar, en caso alguno, vinculado de manera familiar, personal o profesional a los miembros de la Junta de Gobierno y del propio Consejo Universitario;
+
+VII.- Nombrar, a propuesta del Rector, una institución externa de prestigio que haga periódicamente las evaluaciones académicas de aquellos departamentos que requieran ser revisados, conocer los resultados y actuar en consecuencia en el ámbito de sus atribuciones;
+
+VIII.- Resolver sobre conflictos y sobre la aplicación de sanciones a autoridades, profesores, alumnos y trabajadores de apoyo de la Universidad, con excepción de los que competan a la Junta de Gobierno o a la Comisión de Honor y Justicia;
+
+IX.- Conferir nombramientos de profesores eméritos y grados "honoris causa". Crear o suprimir cátedras especiales, a propuesta de sus miembros o de los Consejos de las unidades académicas;
+
+X.- Aprobar o modificar las políticas que la rectoría proponga en materia de salarios y prestaciones que percibirán los funcionarios de la Universidad atendiendo siempre a la moderación que corresponde a un servidor público. Establecer los mecanismos de control patrimonial a que se sujetarán quienes tengan facultades de manejo financiero en la institución y las normas y procedimientos para la enajenación de bienes propiedad de la Universidad. Y regular las acciones relativas a la planeación, programación y control de adquisiciones de bienes y servicios;
+
+XI.- Elaborar dictamen y emitir acuerdo en el caso previsto por el Artículo 9o., fracción I de esta Ley;
+
+XII.- Conocer y resolver cualquier asunto que no sea competencia expresa de otra autoridad universitaria, en particular de los conflictos que se den entre el Estatuto, reglamentos y la presente Ley, atendiendo al principio de la jerarquía de leyes; y
+
+XIII.- Las demás que esta Ley, el Estatuto, los reglamentos de la Universidad, y demás disposiciones aplicables le confieran.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 12.
 
-El Rector será el representante legal de la Universidad, su funcionario ejecutivo y el Presidente del Consejo Universitario. Durará en su cargo tres años y podrá ser reelecto una sola vez y deberá reunir los requisitos siguientes:
+El Rector es la máxima autoridad ejecutiva de la Universidad, representante legal de la misma y Presidente del Consejo Universitario. Durará en su cargo tres años y podrá ser reelecto una sola vez. Su designación y remoción, así como su substitución, se harán de conformidad con esta Ley y su Estatuto.
 
-a).- Tener una residencia efectiva mínima de seis años en el Estado, inmediata anterior al momento de la elección.
+I.- El Rector de la Universidad deberá ser ciudadano mexicano por nacimiento; mayor de 35 años y menor de 65 al momento de su designación; contar con título profesional de licenciatura registrado en términos de ley; tener reconocido prestigio académico; ser profesor numerario de la institución con antigüedad mínima de diez años;
 
-b).- Ser mayor de 30 años y menor de 70.
+II. A juicio de la Junta de Gobierno, el Rector deberá tener una trayectoria que demuestre suficiente capacidad administrativa, liderazgo institucional y prestigio académico, en la medida adecuada a la responsabilidad que se le encomienda. Deberá gozar de respeto general como persona honorable y equilibrada;
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+III.- No ser ministro de culto religioso, militar en activo o directivo de partido político u organización sindical;
 
-c).- Poseer grado académico mínimo de licenciatura o su equivalente.
+IV.- Al momento de su designación y durante su gestión, el Rector deberá cumplir los requisitos que señalen esta Ley y su Estatuto, dedicándose en forma exclusiva al ejercicio de esta función; y
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+V.- No haber sido miembro de la Junta de Gobierno tres años antes de la elección.
 
-d).- Tener una antigüedad no menor de tres años inmediatos anteriores al día de su elección, como profesor o investigador numerario de cualquiera de las dependencias de la Universidad.
-
-e).- Haberse distinguido en su especialidad y gozar de la estimación general como persona honorable y prudente; y
-
-f).- No haber sido procesado y condenado por delito intencional.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 13.
 
-El Rector será substituido en sus faltas que no excedan de dos meses, por el Secretario General de la Universidad. Si la ausencia fuere mayor se nombrará Rector Interino o definitivo, en su caso.
+El Rector será suplido, en ausencias que no excedan de tres meses, por el Secretario General de la Universidad. Si la ausencia fuera mayor o definitiva se procederá a reemplazarlo en la forma y términos que establezca el Estatuto.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 14.
 
-El Rector cuidará del estricto cumplimiento de las disposiciones de la Junta de Gobierno, del Consejo Universitario y de los Consejos de Representantes, y tendrá las siguientes atribuciones, facultades y obligaciones:
+El Rector dirigirá el funcionamiento general de la Universidad para que ésta cumpla con sus fines en el desarrollo de sus funciones. Cumplirá y hará cumplir esta Ley, su Estatuto y sus reglamentos, así como los acuerdos tomados por la Junta de Gobierno, el Consejo Universitario y los Consejos de las unidades académicas de primer nivel. Será auxiliado por los titulares de las unidades de apoyo de primer nivel y tendrá las siguientes facultades y obligaciones:
 
-I.- Proponer a la Junta de Gobierno la terna para designar a los Directores Generales y Decanos de los Centros.
+I.- Proponer a la Junta de Gobierno ternas para designar a los titulares de las unidades de apoyo de primer nivel; designar o remover libremente al Secretario General de la Universidad; nombrar a los titulares de las unidades académicas de segundo nivel y a los de otras unidades orgánicas, así como expedir los nombramientos al personal académico y de apoyo;
 
-En lo que se refiere a las ternas para Decanos de los Centros, el Rector tomará en cuenta las que sean propuestas por el Consejo de Representantes, la asamblea de Catedráticos del propio Centro y la Sociedad de Alumnos del mismo.
+II.- Presidir las reuniones del Consejo Universitario, sus comisiones y las de la Comisión Ejecutiva Universitaria, así como presidir, cuando lo estime conveniente, reuniones de los Consejos de las unidades académicas de primer nivel y de los grupos de apoyo que el Consejo Universitario establezca, sin formar parte de ellos;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+III.- Coordinar la elaboración del plan de desarrollo y otros trabajos de planeación y evaluación;
 
-II.- Designar libremente al Secretario General de la Universidad y designar al personal docente, técnico y administrativo, de acuerdo con las disposiciones del Estatuto y los Reglamentos correspondientes.
+IV.- Elaborar el presupuesto anual de ingresos y egresos; ejercer el presupuesto asignado a la rectoría; supervisar el de toda la institución; procurar la obtención de recursos suficientes para el desarrollo de las funciones de la Universidad, y conducir la política salarial y de prestaciones para el personal de la institución;
 
-III.- Presidir ex-oficio a todas las comisiones del Consejo Universitario y presidir, cuando lo estime conveniente, las reuniones de los Consejos de Representantes de los Centros.
+V.- Promover la colaboración de la Universidad con autoridades e instituciones educativas estatales, nacionales y extranjeras que tengan similares fines;
 
-IV.- Aplicar las medidas disciplinarias y las sanciones que sean procedentes a los profesores, alumnos y empleados, en los términos de esta Ley y del Estatuto.
+VI.- Proponer al Consejo Universitario personas para integrar los comités que decida crear el propio Consejo, y vigilar la presentación oportuna de sus dictámenes;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+VII.- Presentar iniciativas al Consejo Universitario y a otras autoridades para mejorar el funcionamiento de la Universidad;
 
-V.- Formular anualmente los presupuestos de ingresos y egresos de la Universidad a fin de someterlos a la consideración del Consejo Universitario para su discusión y aprobación en su caso.
+VIII.- Vetar, cuando a su juicio sea necesario, resoluciones del Consejo Universitario o de las unidades académicas de primer nivel. Tratándose de estas últimas, el veto tendrá por efecto regresar el asunto al seno del consejo que corresponda para que reconsidere su acuerdo y, si éste insiste en él y el Rector no retira su veto, la cuestión vetada será resuelta por el Consejo Universitario;
 
-VI.- Presentar anualmente el Consejo Universitario, el programa de labores de la Universidad y rendir el informe General de actividades realizadas.
+En el caso de resoluciones del Consejo Universitario, el veto tendrá por efecto regresar el asunto al seno del propio Consejo para que reconsidere su acuerdo, más si éste insiste en él y el Rector no retira su veto, la cuestión vetada será resuelta por la Junta de Gobierno;
 
-VII.- Promover ante el Consejo Universitario y ante las otras autoridades de la Universidad, todas las cuestiones que tiendan a la mejor estructura y funcionamiento de la misma.
+IX.- Aplicar, previo cumplimiento de la garantía de audiencia, medidas disciplinarias y sanciones a profesores, alumnos y empleados, en los términos de esta Ley, del Estatuto y la legislación laboral, en su caso;
 
-VIII.- Vetar las resoluciones del Consejo Universitario o de los Consejos de Representantes de los Centros.
+X.- Asumir la representación legal de la institución y delegarla cuando lo juzgue conveniente, mediante el poder respectivo;
 
-El veto tendrá por efecto, tratándose de resoluciones de los Consejos de Representantes, hacer volver el asunto al seno del Consejo que corresponda para que reconsidere su acuerdo, y si insistiere en él y el Rector no retirase su veto, someterlo al Consejo Universitario para que éste decida.
+XI.- Rendir en el mes de enero de cada año ante el Consejo Universitario y en sesión pública, un informe general del estado que guarda la institución y la situación financiera correspondiente al ejercicio anterior, informe que deberá ser sancionado por el Contralor de la Universidad. Esta información financiera deberá indicar el origen de los recursos y la aplicación de los mismos en los términos de la fracción V del Artículo 11 del presente ordenamiento, enviando copia del mismo al H. Congreso del Estado, para su conocimiento;
 
-Tratándose de resoluciones del Consejo Universitario, el veto tendrá por efecto, hacer volver el asunto al propio Consejo para que reconsidere su acuerdo, y si éste insistiere en él y el Rector no retirase su veto, la cuestión vetada será conocida y resuelta por la Junta de Gobierno.
+XII.- Los demás que le otorgue esta Ley, su Estatuto y los reglamentos de la Universidad.
 
-IX.- Los demás que le otorgue la presente Ley, el Estatuto y los Reglamentos.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 15.
 
-Para el cumplimiento de sus funciones el Rector será auxiliado por los Directores Generales que establezca el Estatuto, el cual determinará los requisitos que se exijan para ocupar dichos cargos, así como las funciones que a cada uno de ellos correspondan.
+El Secretario General auxiliará al Rector y lo sustituirá en ausencias menores de tres meses. Desempeñará, además, las funciones de Secretario del Consejo Universitario. Será el representante legal de la institución junto con el Rector. Será el responsable de los archivos escolar y general de la Universidad y de los procesos de certificación de estudios.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+Otras funciones específicas y los requisitos que deba cumplir para su nombramiento serán señalados por el Estatuto.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 16.
 
-Los Consejos de Representantes de los Centros se integrarán con los Decanos, los Jefes de Departamentos Académicos correspondientes, un Consejero Maestro por cada uno de los Departamentos elegidos por votación de los Maestros adscritos a ese Departamento y un número de Consejeros Alumnos igual a la suma del de los Jefes de Departamentos y Maestros. La representación estudiantil por carrera se determinará dividiendo el número de Consejeros que le corresponda entre el número de carreras asignadas al Centro y si hubiere alguna disparidad se resolverá en favor de la carrera o carreras que tuviere el mayor número de alumnos.
+El Estatuto establecerá las unidades orgánicas de apoyo de primer nivel que auxiliarán al Rector y fijará los requisitos que deberán tener sus titulares, así como las funciones que a cada uno correspondan.
 
-El Estatuto determinará los requisitos para ser electo representante de los profesores o de los alumnos, así como los procedimientos para su elección.
-
-El Decano de cada Centro presidirá el Consejo de Representantes correspondiente, con la salvedad estipulada en la Fracción III del Artículo 14.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 17.
 
-Compete a los Consejos de Representantes de los Centros:
+Los Consejos de las unidades académicas de primer nivel serán presididos por el titular respectivo, quien tendrá voto de calidad; el Secretario Administrativo será Secretario del Consejo, con voz y sin voto; los Consejos respectivos se integrarán con los titulares de los departamentos académicos, un consejero maestro por cada departamento y un número de consejeros alumnos igual a la suma de jefes de departamento y maestro, todos ellos con voz y voto. El Estatuto determinará los requisitos para ser electo representante de los profesores o de los alumnos, así como los procedimientos para su elección.
 
-I.- Redactar el proyecto del Reglamento Interior de cada Centro para su consideración por el Consejo Universitario.
-
-II.- Objetar las resoluciones del Consejo Universitario o del Rector, en las cuestiones técnicas o administrativas que afecten al Centro correspondiente. Para que las objeciones tengan validez, deberán ser aprobadas por mayoría de las tres cuartas partes de los votos computables de cada Consejo de Representantes y producirán el efecto de someter el asunto al Consejo Universitario o al Rector para su reconsideración.
-
-III.- Estudiar y dictaminar los proyectos e iniciativas que les sean presentadas por el Rector, el Decano, los profesores y los alumnos de los Centros.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
-
-IV.- Conocer en primera instancia de la inconformidad que presenten los alumnos y los maestros del Centro respectivo por la aplicación de sanciones hechas por algún funcionario o maestro del mismo Centro.
-
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
-
-V.- Las demás atribuciones que le otorguen la presente Ley, el Estatuto y los Reglamentos correspondientes.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 18.
 
-Los Directores Generales y los Decanos de los Centros durarán en su cargo tres años y podrán ser reelectos.
+A los Consejos de las unidades académicas compete:
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+I.- Fijar las orientaciones que regularán la vida cotidiana de la unidad, elaborando el proyecto de reglamento interno de la misma, el cual deberá aprobarse por el Consejo Universitario;
+
+II.- Designar y remover a los integrantes de los grupos que el Consejo Universitario establezca para apoyar las decisiones de los órganos de gobierno de la unidad;
+
+III.- Estudiar los proyectos de creación, revisión o supresión de programas de docencia, investigación y difusión; los de planes de estudio; los programas de desarrollo; los presupuestos anuales y otros trabajos de planeación y evaluación de la unidad y sus departamentos y, en su caso, aprobarlos, modificarlos o formular dictámenes para la consideración del Consejo Universitario;
+
+IV.- Analizar y aprobar, en su caso, el informe que el titular deberá presentar cada año sobre el estado de la unidad;
+
+V.- Participar en los trabajos de planeación o evaluación institucionales y en cualquier asunto de su competencia;
+
+VI.- Objetar resoluciones del Consejo Universitario, el Rector o la Comisión Ejecutiva que afecten a la unidad en relación con asuntos académicos o administrativos. Las objeciones deberán aprobarse por dos terceras partes de los miembros del Consejo de la unidad y producirán el efecto de someter el asunto al órgano original para su reconsideración. En caso de que persista la discrepancia, el Consejo Universitario decidirá en última instancia o, si éste fuera parte de la disputa, será competencia de la Junta de Gobierno;
+
+VII.- Proponer al Consejo Universitario candidatos para recibir nombramientos de profesores eméritos o grados "honoris causa";
+
+VIII.- Crear o suprimir cátedras especiales;
+
+IX.- Resolver conflictos entre las autoridades del área, en los términos del Estatuto; y
+
+X.- Conocer y resolver cualquier asunto del área que no se asigne a otra autoridad, así como todas las demás cuestiones que les señale esta Ley, el Estatuto y los reglamentos.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 19.
 
-Los Decanos serán responsables de la Dirección administrativa, docente, de extensión y de investigación en sus Centros. Tendrán a su cargo la ejecución y cumplimiento de las disposiciones y acuerdos del Consejo Universitario, del Rector o de los Consejos de Representantes correspondientes, en todo lo relativo al funcionamiento de estos Centros.
+Los titulares de las unidades académicas de primer nivel serán responsables de la dirección docente, de investigación y de difusión de las mismas. Tendrán a su cargo la ejecución y cumplimiento de las disposiciones contenidas en la legislación institucional, así como de los acuerdos del Consejo Universitario, los del Consejo de la unidad y los del Rector, en todo lo relativo al funcionamiento de su área. El Estatuto establecerá los requisitos para ocupar el cargo de titular de la unidad académica, pero siempre deberá tener título de licenciatura registrado en términos de ley.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 20.
 
-Los profesores e investigadores serán designados por el Rector de la Universidad de acuerdo con lo previsto por el Artículo 14, Fracción II de esta Ley. Los nombramientos definitivos se conferirán por el sistema de oposición que se aplicará para comprobar la capacidad académica de los profesores e investigadores, ajustándose a lo que prevenga el Estatuto y el Reglamento correspondientes.
+Los titulares de las unidades académicas de segundo nivel, bajo la autoridad del titular de la unidad académica de primer nivel a la que pertenezcan, serán responsables de la dirección docente, de investigación y de extensión de su departamento. El Estatuto establecerá los requisitos para acceder al cargo y forma de su designación. En todo caso deberán tener título de licenciatura registrado en términos de ley.
 
-El Consejo Universitario expedirá, en los términos que fije el Estatuto, un Reglamento que norme la designación y remoción de los profesores e investigadores, así como sus derechos y obligaciones.
-
-La Universidad creará y fomentará el profesorado y el personal de investigadores de carrera, el que se irá formando en vistas a la capacidad académica de los candidatos y sin ninguna limitación derivada de la posición ideológica de los mismos. El Estatuto y el Reglamento respectivo establecerán las condiciones necesarias para el cumplimiento de este propósito.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 21.
 
-En el Estatuto se estipularán los derechos y obligaciones de los alumnos, así como las sanciones aplicables por violación a esta Ley, al Estatuto o a los Reglamentos correspondientes y los procedimientos para su aplicación.
+Los titulares de las unidades académicas y de apoyo de primer nivel y los de las unidades académicas de segundo nivel durarán en su cargo tres años y podrán ser reelectos sólo una vez. El Estatuto establecerá limitaciones adicionales.
 
-No será motivo de sanción a los alumnos ni causa para impedir su ingreso a la Universidad la posición ideológica que sustenten.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 22.
 
-Las relaciones entre la Universidad y sus empleados administrativos se regirán por un Reglamento especial que promulgará el Consejo Universitario, el que deberá contener como mínimo, los derechos y prestaciones que otorga a los trabajadores la legislación laboral en vigor.
+Los profesores ejercen funciones de autoridad en las aulas, laboratorios, talleres, oficinas y espacios anexos a su centro de trabajo, en caso de no estar presente una autoridad superior, siempre dentro de los límites que fije el Estatuto.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
-### CAPITULO III. DISPOSICIONES GENERALES
+### CAPITULO III. DE OTROS ORGANISMOS DE LA UNIVERSIDAD
 
-(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)(F. DE E., P.O. 11 DE NOVIEMBRE DE 1979)
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 23.
 
-Los alumnos de los distintos Centros y carreras, tendrán la más amplia libertad de asociarse. Las sociedades de alumnos que se constituyan en los diversos Centros y la Federación de estas sociedades, serán totalmente independientes de las autoridades de la Universidad y se organizarán de acuerdo con las normas que los estudiantes determinen.
+Se creará la Comisión Ejecutiva Universitaria presidida por el Rector e integrada por el Secretario General y los titulares de las unidades académicas y de apoyo de primer nivel. Tendrá las funciones de consulta para el Rector y de coordinación para los funcionarios de primer nivel de la Universidad, elaborará dictámenes para apoyar las decisiones del Consejo Universitario y del Rector. El Estatuto establecerá sus facultades y forma de operación.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 24.
 
-El patrimonio de la Universidad estará constituído por:
+En cada unidad académica de primer nivel habrá una Comisión Ejecutiva, presidida por el titular de la unidad, cuya integración establecerá el Estatuto. Funcionará como órgano de consulta para el titular y de coordinación para los demás funcionarios del área; elaborará dictámenes para apoyar decisiones del Consejo y del titular de la unidad y tomará las decisiones que señale el Estatuto.
 
-I.- Todos los bienes y valores que actualmente son propiedad del Instituto Autónomo de Ciencias y Tecnología de Aguascalientes y los que en el futuro adquiera por cualquier título, la Universidad Autónoma de Aguascalientes.
-
-II.- Los legados, donaciones y fideicomisos que se le hagan o se constituyan en su favor.
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1980)</small>
-
-III.- Un subsidio estatal, consistente en el 15% del presupuesto anual de la Universidad, previa aprobación del Consejo Universitario.
-
-IV.- Los derechos y participaciones en los trabajos que se efectúen en cualesquiera de sus dependencias.
-
-V.- Los derechos y cuotas recaudados por servicios.
-
-VI.- Los subsidios, ordinarios y extraordinarios otorgados al Instituto Autónomo de Ciencias y Tecnología de Aguascalientes, por los Gobiernos Federal y Estatal, así como por los municipios u organismos descentralizados y los que en el futuro se otorguen a la Universidad.
-
-VII.- Los intereses, dividendos y rentas derivados de sus bienes y valores.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 25.
 
-Los bienes inmuebles que forman parte del patrimonio de la Universidad y que se destinen a sus servicios, tendrán carácter de inalienables, imprescriptibles e inembargables, por lo consiguiente no podrá constituirse sobre ellos ningún gravamen.
+Se creará la Comisión de Honor y Justicia de la Universidad, cuya integración y facultades se precisarán en el Estatuto para conocer, atender, dirimir y resolver conflictos y controversias que sean estrictamente de competencia universitaria y que no estén contemplados en el ámbito de algún otro órgano de la institución, sin perjuicio de la esfera de competencia y las funciones que ejerza cualquier autoridad jurisdiccional de conformidad con la legislación aplicable, ya sea en el orden civil, penal o laboral.
+
+La Comisión es una autoridad de carácter honorífico y autónomo respecto de los órganos de gobierno de la Universidad. Sus integrantes serán nombrados por el Consejo Universitario, cuya finalidad consiste en aplicar la legislación institucional, en los términos que ésta misma fije, preservando de manera íntegra los principios de legalidad y seguridad jurídica, así como la garantía de audiencia.
+
+Para el mejor ejercicio de sus funciones, la Comisión se allegará los elementos que juzgue necesarios para la resolución de cada caso planteado ante la misma, los que podrá, previa petición, hacer llegar al Consejo Universitario; las resoluciones de la Comisión serán inatacables, pero dejando a salvo los recursos y acciones previstos en la legislación ordinaria, sean del fuero común o federal.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 26.
 
-Los ingresos que la Universidad pueda obtener por cualquier concepto, no están sujetos a impuestos o derechos estatales o municipales. En igual situación están los bienes propiedad de la Universidad.
+Para apoyar la toma de decisiones de los órganos de gobierno habrá grupos de apoyo con carácter consultivo y sin autoridad. En la institución se creará un comité de construcciones y uno de compras, que normarán y vigilarán lo relativo a la realización de construcciones y a la adquisición de bienes y servicios, en los términos que el Estatuto y los reglamentos respectivos establezcan.
 
-Tampoco se gravarán los actos y contratos en que la Universidad intervenga, si los impuestos, de acuerdo con la Ley, corresponden a la misma Institución.
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 27.
+
+De conformidad con lo que señale el Estatuto, la Universidad promoverá y creará entidades que la auxilien: en la obtención de recursos, en su relación con los exalumnos, como vínculo con la comunidad para detectar necesidades, mejorar las actividades de docencia, investigación, difusión y servicio, así como cualquier otra actividad que coadyuve al mejor cumplimiento de la misión institucional. Todas estas entidades estarán subordinadas y rendirán cuentas al Consejo Universitario.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 28.
+
+La Universidad tendrá una Contraloría Universitaria que dependerá de la Junta de Gobierno y cuyo titular será designado por la misma Junta. El Contralor deberá tener título de licenciatura registrado en términos de ley, ser de reconocida solvencia moral y no tener relación de parentesco, personal o profesional con el Rector. Será el órgano encargado de establecer normas para la realización de auditorías en las unidades académicas y de apoyo, así como de realizar las auditorías ordinarias y especiales que se requieran en alguna área específica de la Universidad. Tendrá la obligación de sancionar el informe que presente el Rector a que se refiere el Artículo 14 fracción XI. También le corresponderá planear, organizar y coordinar el sistema de control y evaluación universitario, conforme al reglamento que para el efecto emita el Consejo Universitario. Las funciones precisas y la estructura organizacional de la Contraloría quedarán establecidas en el Estatuto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+### CAPITULO IV. DE LOS UNIVERSITARIOS
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 29.
+
+La Universidad se integrará por profesores y alumnos; funcionarios y técnicos académicos. El Estatuto definirá sus derechos y obligaciones, así como sus categorías. El personal de apoyo cumple funciones subordinadas y sus facultades deberán delimitarse en el Reglamento respectivo.
+
+(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)(F. DE E., P.O. 23 DE NOVIEMBRE DE 1997)
+
+###### ARTICULO 30.
+
+El Rector contratará a los miembros del personal académico, de conformidad con esta Ley, su Estatuto y Reglamentos así como la legislación laboral, en su caso. La ideología de quienes aspiren a formar parte de la planta académica no será obstáculo para su ingreso, permanencia o promoción. Los nombramientos definitivos se conferirán por el sistema de oposición en los términos del reglamento respectivo.
+
+Unicamente los profesores numerarios tendrán derecho a participar en los procesos de elección para Rector, para titulares de las unidades académicas de primer nivel y para titulares de las unidades académicas de segundo nivel y de votar para elegir a sus representantes ante el Consejo Universitario.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 31.
+
+Las relaciones entre el personal académico y la Universidad se regirán por el contrato colectivo de trabajo, de conformidad con la legislación laboral aplicable. Los aspectos académicos, que no sean objeto de negociación sindical, se regularán exclusivamente por esta Ley, su Estatuto y los reglamentos.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 32.
+
+El Estatuto y los reglamentos precisarán las categorías de alumnos que habrá en la Universidad; la forma de adquirirlas y los requisitos para conservarlas; los derechos y obligaciones de los alumnos; las sanciones académicas aplicables por infringir las normas de la institución y los procedimientos para su aplicación. La ideología de los alumnos no será motivo de sanción ni causal para impedir el ingreso a la Universidad o su permanencia en ella.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 33.
+
+El personal de apoyo será de confianza o sindicalizado, de conformidad con la legislación laboral. Además de lo que esa legislación establezca, las relaciones de la Universidad con el personal sindicalizado se regirán por el contrato colectivo de trabajo respectivo y las de la Universidad con el personal de confianza por la normatividad que la propia Universidad establezca al respecto sin contravenir la legislación laboral en vigor.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 34.
+
+Los alumnos de los distintos niveles de enseñanza tendrán la más amplia libertad de asociarse. Las sociedades de alumnos que se constituyan y la federación de estas sociedades serán totalmente independientes de las autoridades de la Universidad y se organizarán de acuerdo con las normas que los estudiantes determinen. Los profesores de las unidades académicas y de la Universidad, en general, disfrutarán del mismo derecho a que se ha hecho referencia en el párrafo que antecede.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+### CAPITULO V. DEL PATRIMONIO DE LA UNIVERSIDAD
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 35.
+
+El patrimonio de la Universidad se integrará por:
+
+I.- Los bienes muebles e inmuebles; los archivos escolares académicos y administrativos; el equipo, el acervo bibliográfico y documental, la obra artística e intelectual y los derechos de autor que de ellos se deriven; las invenciones y patentes; las inversiones, los valores, los créditos, el efectivo y demás que hayan sido propiedad del Instituto Autónomo de Ciencias y Tecnología de Aguascalientes y que posee a título originario, así como los demás bienes que haya adquirido o que en el futuro adquiera por cualquier título;
+
+II.- Los subsidios ordinarios y extraordinarios y otras aportaciones pecuniarias o en especie que le otorguen los Gobiernos Federal, Estatal y Municipales y los organismos descentralizados. El subsidio ordinario anual que otorgue a la Universidad el Gobierno del Estado de Aguascalientes será del quince por ciento del presupuesto ordinario aprobado por el Consejo Universitario para el mismo ejercicio;
+
+III.- Los legados, donaciones y otras aportaciones que se le hagan en dinero o especie y los fideicomisos que se creen a su favor;
+
+IV.- Los derechos y cuotas recaudadas por los servicios que preste y los derechos y participaciones por los trabajos que se efectúen en cualquiera de sus dependencias;
+
+Los intereses, dividendos, rendimientos, utilidades y rentas que se deriven de sus bienes y valores; y
+
+VI.- El nombre, el lema, el escudo y los logotipos que registre ante las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 36.
+
+El régimen jurídico aplicable a los bienes que constituyen el patrimonio universitario será el siguiente:
+
+I.- Los bienes que integran el patrimonio de la Universidad, mientras se destinen a su servicio, serán inalienables, imprescriptibles e inembargables, por lo que no podrá constituirse sobre ellos gravamen alguno;
+
+II.- El Consejo Universitario, por mayoría de dos terceras partes de sus miembros y con la opinión previa de la Contraloría, podrá autorizar la desincorporación de inmuebles que no estén destinados al servicio de la institución. La resolución protocolizada se inscribirá en el Registro Público de la Propiedad. Desde ese momento los bienes serán enajenables, embargables y sujetos a gravámenes, pero continuarán siendo imprescriptibles;
+
+III.- La desincorporación de los bienes muebles de la Universidad se acordará por el Rector, a solicitud del área responsable de su custodia, con intervención del área responsable de las finanzas y de la Contraloría. En el caso de bienes que excedan los montos que establezca al efecto el Consejo Universitario, se requerirá un dictamen previo del comité respectivo y la ratificación del propio Consejo.
+
+(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997))(F. DE E., P.O. 23 DE NOVIEMBRE DE 1997)
+
+###### ARTICULO 37.
+
+El Consejo Universitario, por voto aprobatorio de las dos terceras partes de sus miembros, autorizará la enajenación de bienes muebles de la Universidad, si se trata de aquéllos que no tengan un valor histórico, artístico o cultural; que no sean imprescindibles para la realización de las funciones de la institución y que se cuente con un dictamen técnico favorable por parte de la Contraloría con respecto a las condiciones de la enajenación y, en su caso, el precio de la venta o los términos de la licitación o subasta.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+### CAPITULO VI. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y PERSONAL UNIVERSITARIO
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 38.
+
+Son sujetos de responsabilidad administrativa:
+
+I.- El Rector;
+
+II.- El Secretario General;
+
+III.- Los titulares de las unidades académicas y de apoyo de primer nivel;
+
+IV.- Los titulares de las unidades académicas de segundo nivel;
+
+V.- Los demás funcionarios o personal universitario que recauden, manejen o apliquen recursos materiales y financieros de la Universidad;
+
+VI.- Quienes intervengan en el proceso de asignación de calificaciones, elaboración de actas o cualquier parte del proceso de registro y acreditación escolar; y
+
+VII.- Quienes intervengan en los procesos de evaluación y certificación académica de cualquier tipo.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 39.
+
+Los sujetos señalados en el artículo anterior tendrán las obligaciones que se contengan en el Reglamento que emita el Consejo Universitario para salvaguardar la legalidad, honradez, imparcialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento dará lugar al procedimiento y a las sanciones que en dicho Reglamento se especifiquen, sin perjuicio de sus derechos laborales previstos en las leyes en vigor y sin contravenir estos últimos.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 40.
+
+Son autoridades competentes para investigar la existencia de violaciones al Reglamento referido en el artículo anterior:
+
+I.- El Consejo Universitario;
+
+II.- El Rector;
+
+III.- El Secretario General;
+
+IV.- Los titulares de las unidades académicas y de apoyo de primer nivel;
+
+V.- Los titulares de las unidades académicas de segundo nivel;
+
+VI.- El Contralor Universitario; y
+
+VII.- Las que señale el Estatuto y el propio Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 41.
+
+El procedimiento de responsabilidad administrativa por incumplimiento o violación de las obligaciones podrá iniciarse de manera indistinta ante la autoridad universitaria inmediata superior o el Contralor Universitario, sujetándose a las disposiciones que en el reglamento respectivo se especifiquen.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 42.
+
+El incumplimiento o violación de obligaciones dará lugar a las sanciones que en el reglamento correspondiente se especifiquen, sin detrimento de la aplicación de normas federales o estatales.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
+
+###### ARTICULO 43.
+
+La Contraloría Universitaria llevará el registro de la situación patrimonial de los sujetos señalados en el Artículo 37 de esta Ley, de conformidad y en los plazos que señale el Reglamento que norme las disposiciones de este Capítulo.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -394,3 +584,23 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE JUNIO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La ampliación del Consejo Universitario, prevista en el Artículo 10 de la presente Ley, se realizará dentro de los 30 días naturales posteriores a su entrada en vigor, conforme al procedimiento establecido y para el término en que concluye el actual Consejo Universitario.
+
+TERCERO.- La ampliación de la Junta de Gobierno prevista en el Artículo 8° de la presente Ley, se realizará dentro de los 45 días naturales posteriores a la constitución del Consejo Universitario ampliado.
+
+CUARTO.- Por esta vez, los cuatro nuevos integrantes de la Junta de Gobierno serán nombrados simultáneamente por el Consejo Universitario, una vez que el mismo haya sido ampliado, por votación favorable de dos terceras partes de sus miembros, de la siguiente manera:
+
+El de mayor edad de entre ellos para un período que concluirá en enero del año 2000; el segundo en edad para un período que concluirá en enero del año 2002; el tercero en edad para un período que concluirá en enero del año 2004; y el de menor edad para un período que concluirá en enero del año 2006,
+
+Respetando el término original para el que fueron nombrados los actuales cinco miembros de la Junta de Gobierno, a partir de diciembre de 1998 los futuros nuevos miembros de la Junta serán nombrados para un período de nueve años, de conformidad con el procedimiento que establece el Artículo 8° de la presente Ley.
+
+QUINTO.- El Consejo Universitario y los Consejos de las unidades académicas de primer nivel deberán elaborar y aprobar las reformas necesarias al Estatuto y los reglamentos que proceda, para hacerlos congruentes con las presentes reformas, dentro de un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- Todos los asuntos que se encuentren pendientes de trámite al momento de entrar en vigor el presente Decreto se substanciarán hasta su total conclusión de conformidad con la Ley que se reforma.
+
+SEPTIMO.- Mándese publicar en el Periódico Oficial del Estado.
