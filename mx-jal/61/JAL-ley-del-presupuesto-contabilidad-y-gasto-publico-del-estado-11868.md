@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2004-08-26"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -287,7 +287,7 @@ El proyecto de presupuesto de Egresos, contendrá las previsiones de los egresos
 
 La estructura del proyecto de presupuesto de egresos, tendrá una base programática y se le dará una sustentación lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno del Estado por conducto de todas sus Entidades y Dependencias, incluyendo a las que se refieren las fracciones I y II del artículo 5 de esta Ley.
 
-> <small>(REFORMADO, P.O.. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 39.
 
@@ -481,9 +481,13 @@ Ningún gasto podrá efectuarse sin partida presupuestal expresa. Para que proce
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE JULIO DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
-Artículo 53 bis.- En ningún caso y bajo ninguna circunstancia podrán ejercerse recursos públicos en beneficio o perjuicio de la imagen de gobernante o persona, física o jurídica, alguna.
+Artículo 53 bis.- En ningún caso y bajo ninguna circunstancia podrán ejercerse recursos públicos en beneficio o perjuicio de la imagen de gobernante o persona, física o jurídica alguna.
+
+Las campañas de prensa, propaganda y difusión deberán ser instrumentadas exclusivamente para dar a conocer asuntos relacionados con las actividades propias de la entidad de gobierno que sean de interés y en beneficio de los ciudadanos.
+
+Queda prohibido pagar con cargo al erario público, publicidad que no tenga relación con los servicios públicos que presta el Estado.
 
 ###### Artículo 54.
 
@@ -980,3 +984,7 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO. El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
