@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "1998-07-15"
+last_updated: "1999-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -287,9 +287,11 @@ El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con los Poder
 
 El Gobernador del Estado determinará cuáles dependencias del Ejecutivo Estatal deberán coordinarse tanto con las dependencias y entidades de la Administración Pública Federal, como con los Ayuntamientos de la Entidad, para el cumplimiento de cualquiera de los propósitos a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 10.
 
-El Titular del Poder Ejecutivo del Estado, podrá celebrar y firmar contratos y convenios; ejercer y autorizar créditos y empréstitos en términos de la normatividad vigente y, asimismo, autorizará a los Secretarios para que, en auxilio del despacho de sus asuntos, celebren todo tipo de contratos y convenios, a excepción de los relacionados con la contratación de créditos y empréstitos, en los que podrá intervenir la Secretaría de Finanzas.
+El Titular del Poder Ejecutivo del Estado, podrá celebrar y firmar contratos y convenios; ejercer y autorizar créditos y empréstitos en términos de la normatividad vigente y, asimismo, autorizará a los Secretarios para que, en auxilio del despacho de sus asuntos, celebren todo tipo de contratos y convenios, a excepción de los relacionados con la contratación de créditos y empréstitos, en los que podrá intervenir la Secretaría de Finanzas y Desarrollo Social.
 
 ###### ARTICULO 11.
 
@@ -321,7 +323,9 @@ Para el estudio, planeación y despacho de los negocios de los diversos ramos de
 
 I.- SECRETARIA DE GOBERNACION
 
-II.- SECRETARIA DE FINANZAS
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+II.- SECRETARIA DE FINANZAS Y DESARROLLO SOCIAL
 
 III.- SECRETARIA DE DESARROLLO, EVALUACION Y CONTROL DE LA ADMINISTRACION PUBLICA
 
@@ -331,7 +335,9 @@ V.- SECRETARIA DE TURISMO
 
 VI.- SECRETARIA DE DESARROLLO RURAL
 
-VII.- SECRETARIA DE DESARROLLO URBANO Y ECOLOGIA
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+VII.- SECRETARIA DE DESARROLLO URBANO, ECOLOGIA Y OBRAS PUBLICAS
 
 VIII.- SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
@@ -397,9 +403,11 @@ El Gobernador del Estado intervendrá en lo relacionado con las Instituciones de
 
 Para la eficiente atención y despacho de los asuntos de su competencia, las dependencias de la Administración Pública Centralizada, podrán contar con órganos o unidades desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 27.
 
-Los Titulares de las dependencias y entidades de la Administración Pública Estatal, al tomar posesión de su cargo, levantarán un inventario de los bienes que se encuentren en poder de las mismas, con la intervención de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para verificar y certificar su exactitud; debiendo, los Titulares de las dependencias y entidades, comprobar periódicamente, que el inventario de bienes de la dependencia o entidad correspondan a lo registrado en su toma de posesión, notificando los resultados a la Secretaría de Finanzas.
+Los Titulares de las dependencias y entidades de la Administración Pública Estatal, al tomar posesión de su cargo, levantarán un inventario de los bienes que se encuentren en poder de las mismas, con la intervención de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para verificar y certificar su exactitud; debiendo, los Titulares de las dependencias y entidades, comprobar periódicamente, que el inventario de bienes de la dependencia o entidad correspondan a lo registrado en su toma de posesión, notificando los resultados a la Secretaría de Finanzas y Desarrollo Social.
 
 ###### ARTICULO 28.
 
@@ -517,11 +525,15 @@ L.- Imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y dem
 
 LI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPITULO III. DE LA SECRETARIA DE FINANZAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO III. DE LA SECRETARIA DE FINANZAS Y DESARROLLO SOCIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 30.
 
-A la Secretaría de Finanzas corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas y Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar y proponer al Gobernador del Estado, los Planes y Programas de Desarrollo que requiera la Entidad, con apego a las disposiciones legales aplicables;
 
@@ -665,7 +677,9 @@ XII.- Por acuerdo del Gobernador del Estado, por sí o a solicitud de las Depend
 
 XIII.- Revisar, auditar o evaluar a las Dependencias o entidades de la Administración Pública Estatal, por acuerdo del Gobernador, por sí o a solicitud de estas con el objeto de revisar y evaluar periódicamente el avance físico-financiero de los programas de inversión y obra pública que se realicen con recursos estatales, federales y de participación social, así como con recursos convenidos con la Federación;
 
-XIV.- Establecer las normas, políticas y lineamientos para que los empleados que manejen fondos del Estado, caucionen ante la Secretaría de Finanzas, su debido manejo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+XIV.- Establecer las normas, políticas y lineamientos para que los empleados que manejen fondos del Estado, caucionen ante la Secretaría de Finanzas y Desarrollo Social, su debido manejo;
 
 XV.- Proporcionar a la Secretaría de Contraloría y Desarrollo Administrativo Federal, información sobre el destino y uso de recursos federales transferidos al Estado y a sus Municipios;
 
@@ -681,7 +695,9 @@ XX.- Verificar y supervisar directamente o a través de terceros, que los actos 
 
 XXI.- Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones, evaluaciones y auditorías practicadas en las dependencias o entidades de la Administración Pública Estatal en forma directa, por parte de los órganos de control o por conducto de auditores externos, a fin de asegurar que se corrijan las deficiencias detectadas en ellas;
 
-XXII.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación y presupuestación, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+XXII.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación y presupuestación, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Finanzas y Desarrollo Social;
 
 XXIII.- Establecer normas, políticas y lineamientos en materia de administración, remuneración, desarrollo de recursos humanos, adquisiciones, arrendamientos, baja, destino y desincorporación de bienes muebles e inmuebles, y de los servicios en general, que deban observar las dependencias y entidades de la Administración Pública Estatal;
 
@@ -691,7 +707,9 @@ XXV.- Nombrar a los Comisarios o sus equivalentes en los patronatos, comités, c
 
 XXVI.- Establecer los lineamientos y requisitos que deberán observar los comisarios y auditores externos y llevar a cabo su remoción cuando no cumplan con lo establecido por esta Secretaría;
 
-XXVII.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Finanzas, la disolución, venta, transferencia, liquidación, fusión o extinción de las entidades paraestatales, en los términos de la ley de la materia y vigilar que estas acciones se lleven a cabo con apego a las normas legales y administrativas aplicables;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+XXVII.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Finanzas y Desarrollo Social, la disolución, venta, transferencia, liquidación, fusión o extinción de las entidades paraestatales, en los términos de la ley de la materia y vigilar que estas acciones se lleven a cabo con apego a las normas legales y administrativas aplicables;
 
 XXVIII.- Llevar el registro y publicar anualmente en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública del Estado;
 
@@ -921,11 +939,15 @@ XXIII.- Imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y
 
 XXIV.- Las demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPITULO VIII. DE LA SECRETARIA DE DESARROLLO URBANO Y ECOLOGIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO VIII. DE LA SECRETARIA DE DESARROLLO URBANO, ECOLOGIA Y OBRAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 35.
 
-A la Secretaría de Desarrollo Urbano y Ecología, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano, Ecología y Obras Públicas, corresponde el despacho de los siguientes asuntos:
 
 I.- Formular y conducir las políticas generales de obra pública, asentamientos humanos, vivienda, desarrollo urbano y ecología;
 
@@ -1035,7 +1057,9 @@ XIX.- Normar y establecer las políticas y criterios para llevar a cabo directam
 
 XX.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de comunicaciones y transportes, autorizando, modificando, cancelando, actualizando y comprobando su correcta aplicación;
 
-XXI.- Suscribir mancomunadamente con la Secretaría de Finanzas, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomados alfanumérica y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomados alfanumérica del transporte mercantil previstos en la Ley de la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+XXI.- Suscribir mancomunadamente con la Secretaría de Finanzas y Desarrollo Social, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomados alfanumérica y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomados alfanumérica del transporte mercantil previstos en la Ley de la materia;
 
 Establecer, autorizar, registrar y mantener actualizado el registro de rutas e itinerarios del transporte público, así como los de los permisos del transporte mercantil;
 
@@ -1059,7 +1083,9 @@ XXX.- Imponer y aplicar sanciones por la inobservancia de las Leyes, Reglamentos
 
 XXXI.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y transportes en la Entidad;
 
-XXXII.- En términos de las Leyes correspondientes, llevar conjuntamente con la Secretaría de Finanzas para efectos fiscales, el registro y control de vehículos; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+XXXII.- En términos de las Leyes correspondientes, llevar conjuntamente con la Secretaría de Finanzas y Desarrollo Social para efectos fiscales, el registro y control de vehículos; y
 
 XXXIII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
@@ -1331,13 +1357,15 @@ XIV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO V. DE LAS COMISIONES Y DEMAS ORGANOS DE CARACTER PUBLICO
 
 ## TITULO III. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ### CAPITULO VI. DEL DESARROLLO, CONTROL Y EVALUACION
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 41.
 
@@ -1347,7 +1375,9 @@ Son entidades de la Administración Pública Paraestatal los organismos público
 
 Las entidades a que se refiere el artículo anterior, son órganos auxiliares de la Administración Pública del Estado, las cuales se integrarán en sectores establecidos por el Gobernador del Estado.
 
-Las relaciones entre las dependencias del Ejecutivo Estatal y las entidades paraestatales para fines de congruencia global de la Administración Pública Estatal con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control se llevarán a cabo en la forma y términos que dispongan las Leyes, por conducto de la Secretaría de Finanzas y la de Desarrollo, Evaluación y Control de la Administración Pública, en el ámbito de su competencia, sin perjuicio de las atribuciones que competan a las coordinadoras de Sector.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
+
+Las relaciones entre las dependencias del Ejecutivo Estatal y las entidades paraestatales para fines de congruencia global de la Administración Pública Estatal con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control se llevarán a cabo en la forma y términos que dispongan las Leyes, por conducto de la Secretaría de Finanzas y Desarrollo Social y la de Desarrollo, Evaluación y Control de la Administración Pública, en el ámbito de su competencia, sin perjuicio de las atribuciones que competan a las coordinadoras de Sector.
 
 ###### ARTICULO 43.
 
@@ -1417,13 +1447,13 @@ Las empresas de participación estatal mayoritaria, además de tener dentro de s
 
 ###### ARTICULO 56.
 
-Son Fideicomisos Públicos aquéllos que autorice el Gobernador del Estado y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo órgano de gobierno participen dos o más dependencias, correspondiendo al Ejecutivo la designación del Director. En estos Fideicomisos, la Secretaría de Finanzas fungirá como fideicomitente.
+Son Fideicomisos Públicos aquéllos que autorice el Gobernador del Estado y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo órgano de gobierno participen dos o más dependencias, correspondiendo al Ejecutivo la designación del Director. En estos fideicomisos, la Secretaría de Finanzas y Desarrollo Social fungirá como fideicomitente.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 57.
 
-Los Fideicomisos Públicos se regirán por Comités Técnicos, los cuales se integrarán con autorización del Gobernador del Estado, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y uno de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
+Los Fideicomisos Públicos se regirán por Comités Técnicos, los cuales se integrarán con autorización del Gobernador del Estado, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y Desarrollo Social y uno de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
 
 ###### ARTICULO 58.
 
@@ -1439,7 +1469,7 @@ Estos organismos interinstitucionales podrán crearse por ley, y por decreto o a
 
 ###### ARTICULO 61.
 
-Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Puebla, al Plan Estatal de Desarrollo, a los programas sectoriales que deriven del mismo, a las directrices que en materia de programación y evaluación fije la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas, así como a las políticas que defina el Coordinador de Sector y la Ley de Entidades Paraestatales.
+Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Puebla, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fije la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas y Desarrollo Social, así como a las políticas que defina el Coordinador de Sector y la Ley de Entidades Paraestatales.
 
 ###### ARTICULO 62.
 
@@ -1614,3 +1644,23 @@ Los actos y procedimientos relacionados con esta Ley y la Procuraduría del Ciud
 ###### ARTÍCULO CUARTO.
 
 En tanto no se expidan las disposiciones reglamentarias y administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
+
+P.O. 6 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en las demás disposiciones legales, Reglamentos, Decretos, Acuerdos, Convenios, Manuales, Circulares, documentos de identificación fiscal y demás de naturaleza análoga se haga alusión a las Secretarías de Finanzas y de Desarrollo Urbano y Ecología del Gobierno del Estado, se entenderá que se refieren a las Secretarías de Finanzas y Desarrollo Social, y de Desarrollo Urbano, Ecología y Obras Públicas del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En tanto sean implementadas en las Secretarías de Finanzas y Desarrollo Social, y de Desarrollo Urbano, Ecología y Obras Públicas, la normatividad, sistemas, y procedimientos de carácter administrativo, como consecuencia de esta reforma, se seguirán utilizando los formatos y papelería existentes.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en los actos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se cite a las Secretarías de Finanzas y de Desarrollo Urbano y Ecología del Gobierno del Estado, se entenderá que se refieren a las Secretarías de Finanzas y Desarrollo Social, y de Desarrollo Urbano, Ecología y Obras Públicas del Gobierno del Estado.
+
+Las Instancias en contra de las Secretarías de Finanzas y de Desarrollo Urbano y Ecología, cuya interposición se haya efectuado con anterioridad a la entrada en vigor del presente Decreto y se notifiquen en fecha posterior, serán tramitadas por las Secretarías de Finanzas y Desarrollo Social, y de Desarrollo Urbano, Ecología y Obras Públicas.
