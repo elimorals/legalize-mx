@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-11-06"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -225,11 +225,11 @@ Para suplir a los diputados electos por el principio de representación proporci
 
 ### CAPITULO I. De las Obligaciones de los Diputados
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 11.
 
-Es obligación de cada diputado formular y presentar al menos una iniciativa de ley, dentro del tiempo que dure su ejercicio; así como asistir a todas las sesiones que celebre el Congreso. La inasistencia a seis sesiones sin causa justificada, durante un período de 180 días a partir de la primera falta, dará motivo a que se llame al respectivo suplente, quien asumirá los derechos y obligaciones inherentes al cargo, por un término no menor de treinta días, prorrogables hasta la reincorporación del diputado propietario. Los diputados solamente podrán dejar de concurrir a las sesiones, por causa justificada, en los términos del artículo siguiente.
+Es obligación de cada diputado formular y presentar una iniciativa de ley, dentro del tiempo que dure su ejercicio; así como asistir a todas las sesiones que celebre el Congreso y a las reuniones de trabajo de las comisiones de las que formen parte. La inasistencia a seis sesiones sin causa justificada durante un período de 180 días a partir de la primera falta, dará motivo a que se llame al respectivo suplente, quien asumirá los derechos y obligaciones inherentes al cargo, por un término no menor de treinta días, prorrogables hasta la reincorporación del diputado propietario. Los diputados solamente podrán dejar de concurrir a las sesiones, por causa justificada, en los términos del artículo siguiente.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1999)</small>
 
@@ -309,11 +309,13 @@ V. Conceder la palabra alternativa a los Diputados, siguiendo en orden en que ha
 
 VI. Firmar los Decretos que expida el Congreso, al terminar la sesión correspondiente, a fin de enviarlos desde luego al Ejecutivo para su promulgación;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-VII. Proponer a la Cámara la lista de los integrantes de las Comisiones, de conformidad con lo dispuesto en el Artículo 26 de esta Ley;
+VII. Proponer a la Cámara la lista de los integrantes de las comisiones y dar a conocer mensualmente el trabajo de las mismas;
 
-VIII. Exhortar a los Diputados que falten a sesiones, para que concurran a las siguientes;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+VIII. Exhortar a los diputados que falten, tanto a las sesiones del Congreso, como a las reuniones de trabajo de las comisiones a que en lo sucesivo concurran;
 
 IX. Citar a sesión cuando lo estime necesario;
 
@@ -327,7 +329,13 @@ XIII. Designar Comisiones de entre los Diputados, para llevar la representación
 
 XIV. Proponer los acuerdos de trámite que recaigan a las comunicaciones y notas diversas que se dirijan al Congreso; y
 
-XV. Las demás que le señale esta ley.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+XV. Hacer extrañamientos a instancia de los presidentes de las comisiones, según se señala en el artículo 28 ter; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+XVI. Las demás que le señale esta ley.
 
 ###### Artículo 25.
 
@@ -394,6 +402,28 @@ Durante los primeros diez días de la nueva legislatura, a moción del President
 ###### Artículo 28.
 
 Sólo por causas graves y mediante acuerdo de las dos terceras partes de los Diputados asistentes a la correspondiente sesión, podrá dispensarse temporal o definitivamente o removerse del desempeño a alguno de los integrantes de las Comisiones a que se refiere el artículo anterior, haciéndose desde luego, por la propia Asamblea, el nombramiento del Diputado o Diputados substitutos, con el carácter de temporal o definitivo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+Artículo 28 bis.- El Presidente de cada Comisión deberá notificar a los integrantes de la misma, al menos con 24 horas de anticipación y por escrito con acuse de recibo el día, lugar y hora de las reuniones de trabajo, las que no podrán ser menos de una por semana, cuando el caso lo amerite.
+
+Los diputados concurrentes a las reuniones de comisión, firmarán constancia relativa al tiempo que comparezcan en las mismas, circunstancia que deberá aparecer en el acta de la sesión respectiva.
+
+Las sesiones de comisión deberán iniciar a más tardar 20 minutos después de la hora fijada para tal efecto.
+
+El Presidente de la Comisión informará a la de Control Legislativo de las ausencias de los diputados a las reuniones de trabajo siempre que falten sin causa justificada.
+
+El Presidente de la Mesa Directiva dará a conocer mensualmente al Pleno el trabajo de las comisiones, de acuerdo a los informes que reciba de la Comisión de Control Legislativo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+Artículo 28 ter.- Los diputados que falten en dos ocasiones a cualquier sesión de comisión sin causa justificada, serán exhortados a cumplir con su responsabilidad por el Presidente de la misma.
+
+Los diputados que falten injustificadamente en cuatro ocasiones a las reuniones de comisión, recibirán un extrañamiento a instancias del Presidente de la Comisión, por parte del de la Mesa Directiva y ante el Pleno, en la primer sesión que se celebre, una vez ocurridas dichas faltas.
+
+Los diputados que acumulen cinco faltas injustificadas, serán interpelados por el Presidente de la Mesa Directiva durante la sesión del Pleno, para que expongan si pueden o no continuar en la comisión, y en su caso, soliciten un permiso para ausentarse temporalmente de la misma.
+
+Los diputados que sumen seis faltas injustificadas, serán amonestados por escrito a través de la Comisión de Control Legislativo, la que emitirá un dictamen sobre la situación del diputado y, en su caso, valorar si procede lo preceptuado en el artículo 28 de esta ley.
 
 ###### Artículo 29.
 
@@ -510,6 +540,10 @@ XXXI. Protección Civil.
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1999)</small>
 
 XXXII. Desarrollo Municipal.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+XXXIII. Control Legislativo.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -882,6 +916,20 @@ V. De los demás asuntos relacionados con la materia que le sean turnados por ac
 ###### Artículo 47
 
 Ñ.- Corresponde a la Comisión de Desarrollo Municipal el conocimiento de los asuntos en materia municipal y su normatividad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+###### Artículo 47-O.
+
+Corresponde a la Comisión de Control Legislativo, el conocimiento de los siguientes asuntos:
+
+I. Los que se refieren al registro de asuntos encomendados a las comisiones;
+
+II. Los que se refieren a la asistencia de los diputados a las reuniones de trabajo de las comisiones respectivas; y
+
+III. La formulación de informes mensuales, los que deberán hacerse llegar al presidente de la mesa directiva para el caso de los extrañamientos que previene esta ley.
+
+En esta comisión deberán estar representados todos los grupos parlamentarios en forma paritaria y sus decisiones deberán tomarse por acuerdo unánime de sus integrantes.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
 
@@ -1891,10 +1939,6 @@ Segundo. La reforma al Art. 24 de la Constitución Política del Estado de Jalis
 
 Tercero. Las reformas de los Arts. 182, 185, 186 y 188 de la Ley Reglamentaria del Poder Legislativo, entrarán en vigor el mismo día en que entre en vigor la reforma al Art. 24 de la Constitución Política del Estado.
 
-DECRETO QUE REFORMA ART. 90, P.O. 10 DE OCTUBRE DE 1989
-
-Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
 P.O. 10 DE OCTUBRE DE 1989
 
 DECRETO QUE REFORMA ART. 90.
@@ -2016,5 +2060,9 @@ P.O. 6 DE NOVIEMBRE DE 1999 DECRETO QUE REFORMA ART. 110,
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 DECRETO QUE REFORMA ART. 40, P.O. 6 DE NOVIEMBRE DE 1999
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
