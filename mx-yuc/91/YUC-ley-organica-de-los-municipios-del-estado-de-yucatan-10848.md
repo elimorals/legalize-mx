@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1991-07-16"
+last_updated: "1992-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 1992.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1271,7 +1271,9 @@ c).- Operar los programas de asistencia social en el ámbito de sus respectivos 
 
 d) Coordinarse y cooperar con las autoridades y organismos federales y estatales para el desarrollo de programas de salud y asistencia social;
 
-e) Implantar, integrar y atender a la organización y funcionamiento de los Sistemas Municipales para el Desarrollo Integral de la Familia que en forma descentralizada de la administración municipal se encargue de prestar los servicios de asistencia social a que se refiere el inciso c) de esta fracción.
+> <small>(REFORMADO, D.O. 24 DE JUNIO DE 1992)</small>
+
+e) Implantar, integrar y atender a la organización y funcionamiento de los Sistemas Municipales para el Desarrollo Integral de la Familia, los cuales, constituidos como Unidad Administrativa, órgano desconcentrado u organismo descentralizado del Ayuntamiento de acuerdo a sus posibilidades y situación socioeconómica, se encargarán de prestar los servicios de asistencia social a que se refiere el inciso c) de esta Fracción.
 
 f).- Combatir el alcoholismo, la afición a las drogas, la prostitución, la mendicidad, la vagancia y toda actividad que pueda significar un ataque o delito contra la salud pública o privada o contra el bienestar social; y
 
@@ -1366,6 +1368,10 @@ XXIV.- Auxiliar a las autoridades judiciales, cuando lo requieran en el ejercici
 XXV.- Solicitar, en su caso, del Ejecutivo, el auxilio de la fuerza pública del Estado, para hacer cumplir sus resoluciones o las del Ayuntamiento;
 
 XXVI.- Aplicar por si o a través del Regidor Comisionado las sanciones o las infracciones a los reglamentos gubernativos y de policía Municipales las que únicamente consistirán en multa o arresto hasta por 36 horas e igual término se aplicará al infractor que no pagase la multa que se le hubiere impuesto. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día;
+
+> <small>(ADICIONADA, D.O. 24 DE JUNIO DE 1992)</small>
+
+XXVI BIS.- Delegar la Presidencia del Sistema Municipal para el Desarrollo Integral de la Familia en su cónyuge o persona distinta, según el caso, y de acuerdo a la forma de organización que adopte ese organismo; y
 
 XXVII.- Las demás que establezcan las leyes y los reglamentos.
 
@@ -2268,5 +2274,9 @@ D.O. 14 DE FEBRERO DE 1990.
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 D.O. 16 DE JULIO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 24 DE JUNIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
