@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1977-03-10"
+last_updated: "1979-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1979.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -195,7 +195,11 @@ ART. 43.- Las excepciones de falta de personalidad y capacidad se substanciarán
 
 ### CAPITULO I. De la capacidad y personalidad
 
-ART. 44.- Todo el que, conforme a ley esté en el pleno ejercicio de sus derechos civiles puede comparecer en juicio.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 44.- Todo el que, conforme a la Ley, esté en el pleno ejercicio de sus derechos civiles puede comparecer en juicio.
+
+Las instituciones, servicios y dependencias de la administración pública del Gobierno del Estado y de los Municipios, tendrán, dentro del procedimiento judicial, en cualquiera forma en que intervengan, la misma situación que otra parte cualquiera; pero nunca podrá dictarse en su contra, mandamiento de ejecución ni providencia de embargo, y estarán exentos de prestar las garantías que éste Código exija a las partes. Las resoluciones dictadas en su contra serán cumplimentadas por las autoridades correspondientes, dentro de los límites de sus atribuciones. La intervención que, en diversos casos, ordena la Ley que se dé al Ministerio Público, no tendrá lugar cuando en el procedimiento intervenga ya el Procurador General de Justicia del Estado o uno de sus Agentes, con cualquier carácter o representación.
 
 ART. 45.- Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho. Los ausentes e ignorados serán representados como se previene en el título décimoprimero, libro primero del Código Civil.
 
@@ -237,21 +241,31 @@ ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las qu
 
 ART. 60.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-ART. 61.- Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respecto (sic) y la consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los Juzgados de Paz, de cien pesos; en los de lo Civil, de dos mil pesos; y cuatro mil pesos en el Tribunal Superior. Pueden también emplear el auxilio de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá contra los que las cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 62.- Se entenderá corrección disciplinaria:
+ART. 61.- Los Jueces y Magistrados tienen el deber de mantener el buen orden, y de exigir que se les guarde el respeto y consideración debidas, tanto por parte de los litigantes y personas que ocurran a los Tribunales, como parte de los funcionarios y empleados de éstos, y sancionarán inmediatamente, con correcciones disciplinarias, cualquier acto que contravenga este precepto. Si algún acto llegare a constituir delito, se levantará acta circunstanciada para consignarse al Ministerio Público.
 
-I.- El apercibimiento o amonestación;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-II.- La multa hasta por las cantidades a que se refiere el artículo 61, la cual podrá duplicarse en caso de reincidencia;
+ART. 62.- Son correcciones disciplinarias:
 
-III.- La suspensión que no exceda de un mes.
+I.- Apercibimiento;
+
+II.- Multa que no exceda de dos mil pesos, y
+
+III.- Suspensión de empleo hasta por quince días.
+
+Esta última Fracción sólo es aplicable al Secretario y demás empleados del Tribunal que imponga la corrección.
+
+Cuando en el escrito en el que se interponga la apelación se falta al respeto y consideración del Juez que dicte la sentencia definitiva, la sanción a que se refiere este Artículo la impondrá el superior.
 
 ART. 63.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; y se citará para la audiencia dentro de tercero día, en la que se resolverá sin más recurso que el de queja.
 
-ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los sábados y domingos, y aquellos que las leyes declaren festivos.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-Se entienden horas hábiles las que median desde la salida a la puesta del sol. En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas, y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos sábados y domingos, así como aquellos en que por cualquier causa se suspendan las labores de los Tribunales. Son horas hábiles las comprendidas entre las seis y las diecinueve horas.
+
+En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas, y los demás que determinen las Leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 ART. 65.- Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
 
@@ -281,13 +295,17 @@ Los incidentes ajenos al negocio principal o notoriamente frívolos e improceden
 
 ART. 73.- Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
 
-I.- La multa hasta por las cantidades a que se refiere el artículo 61, la cual podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+I.- La multa hasta por la cantidad de dos mil pesos, la cual podrá duplicarse en caso de reincidencia;
 
 II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
 
 III.- El cateo por orden escrita;
 
 IV.- El arresto hasta por quince días.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1979)</small>
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
@@ -319,7 +337,9 @@ ART. 80.- Todas las resoluciones de primera y segunda instancia serán autorizad
 
 ART. 81.- Las sentencias deben ser claras, precisas y congruentes con las demandas y las contestaciones, y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
-ART. 82.- Quedan abolidas las antiguas fórmulas de las sentencias, y basta con que el juez apoye sus puntos resolutivos en preceptos legales o principios jurídicos, de acuerdo con el artículo 14 constitucional.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 82.- Quedan abolidas las antiguas fórmulas de las sentencias, las que contendrán una relación suscinta de las cuestiones planteadas y de las pruebas rendidas, la apreciación de éstas y las consideraciones jurídicas que sirvan de apoyo a la decisión.
 
 ART. 83.- Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
@@ -429,21 +449,25 @@ IV.- Cuando se estime que se trate de un caso urgente y así se ordene;
 
 V.- El requerimiento de un acto a la parte que deba cumplirlo;
 
-VI.- Las sentencias definitivas; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
 
-VII.- En los demás casos que la ley lo disponga.
+VI.- La sentencia que decrete el lanzamiento del inquilino de casa habitación, y
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+VII.- En los demás casos que la Ley lo disponga.
 
 ART. 115.- Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacer saber a las partes.
 
 ART. 116.- La primera notificación se hará personalmente al interesado, o a su representante o procurador en la casa designada; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que se asentará del acto.
 
-ART. 117.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija hábil dentro de un término comprendido entre las seis y las veinticuatro horas posteriores, y si no espera se le hará la notificación por cédula.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o cualquier otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser citada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona que debe ser notificada.
+ART. 117.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare el demandado, se le dejará citatorio para hora fija hábil dentro de un término comprendido entre las seis y las veinticuatro horas siguientes, y si no espera, se le hará la notificación por cédula.
 
-Además de la cédula se entregarán a la persona con quien se entienda la diligencia copia simple de la demanda debidamente cotejada y sellada, más, en su caso, copia simple de los demás documentos que el actor haya exhibido con su libelo inicial.
+La cédula, en los casos de este Artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado, o a cualquiera otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser notificada; en todo caso se harán constar los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona que debe ser notificada.
 
-La cédula contendrá, además, una relación sucinta de la demanda.
+Además de la cédula, se entregarán a la persona con quien se entienda la diligencia, copias simples cotejadas y selladas de la demanda y de los demás documentos que el actor haya exhibido con su Libelo inicial.
 
 ART. 118.- Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
 
@@ -515,7 +539,9 @@ III.- Tres días para la celebración de juntas, reconocimientos de firmas, exhi
 
 IV.- Tres días para todos los demás casos.
 
-ART. 138.- La caducidad de la instancia operará, cualquiera que sea el estado de procedimiento, si transcurridos 180 días hábiles contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes. Los efectos y formas de su declaración se sujetarán a las siguientes normas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 138.- La caducidad de la instancia operará, cualquiera que sea el estado de procedimiento, si transcurridos seis meses naturales contados a partir de la notificación de la última determinación judicial, no hubiere promoción, de cualquiera de las partes, que tienda a llevar adelante el procedimiento. Los efectos y formas de la declaración de caducidad se sujetarán a las siguientes normas:
 
 I.- La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes cuando concurran las circunstancias a que se refiere el presente artículo;
 
@@ -525,11 +551,13 @@ III.- La caducidad de la primera instancia convierte en ineficaces las actuacion
 
 IV.- La caducidad de la segunda instancia deja firmes las resoluciones apeladas. Así lo declarará el Tribunal de Apelación;
 
-V.- La caducidad de los incidentes se causa por el transcurso de 180 días hábiles contados a partir de la notificación de la última determinación judicial, sin promoción; la declaración respectiva sólo afectará a las actuaciones del incidente sin abarcar las de la instancia principal aunque haya quedado en suspenso ésta por la aprobación de aquél;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+V.- La caducidad de los incidentes solo afectará a las actuaciones del incidente sin abarcar las de la instancia principal aunque haya quedado en suspenso ésta por la admisión de aquél;
 
 VI.- Para los efectos del artículo 1155 fracción II del Código Civil se equipara a la desestimación de la demanda la declaración de caducidad del proceso;
 
-VII.- En los juicios ordinarios en que se decrete la forma oral en la recepción de las pruebas, antes del decreto a que se refiere el artículo 295, se incurre en caducidad por falta de actividad de las partes por el término de ciento ochenta días hábiles; después de aquél decreto la inactividad se demuestra por la falta de asistencia a dos audiencias consecutivas de acuerdo con el preámbulo del presente artículo;
+VII.- (DEROGADA, P.O. 20 DE JULIO DE 1979)
 
 VIII.- No tiene lugar la declaración de caducidad: a).- En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquellos surjan o por ellos se motiven; b).- En las actuaciones de jurisdicción voluntaria; c).- En los juicios de alimentos y en los previstos por los artículos 319 y 320 del Código Civil; y d).- En los juicios seguidos ante la justicia de paz;
 
@@ -1753,7 +1781,9 @@ ART. 420.- Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de ley.
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de tres mil pesos;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
+
+I.- Las sentencias que no admiten ningún recurso;
 
 II.- Las sentencias de segunda instancia;
 
@@ -1769,11 +1799,13 @@ I.- Las sentencias consentidas expresamente por las partes o por sus mandatarios
 
 II.- Las sentencias de que hecha notificación en forma, no se interpone recurso en el término señalado por la ley; y
 
-III.- Las sentencias de que se interpuesto recurso, pero no se continuó en forma y términos legales, o se desistió de él la parte o su mandatario con poder o cláusula especial.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 422.- En los casos a que se refiere la fracción I del artículo anterior, el juez de oficio hará la declaración correspondiente.
+III.- Las sentencias en que interpuesto el recurso, éste se declara improcedente, o se desiste de él la parte que lo interpuso o su mandamiento con poder o cláusula especial.
 
-En el caso de la fracción II, la declaración se hará substanciando el artículo con un escrito de cada parte. Los términos serán: tres días para contestar y otros tres para dictar la resolución. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el juez, en su caso.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 422.- La declaración de estar ejecutoriada una sentencia, será hecha de oficio por el Juez. En el caso de la Fracción III del Artículo anterior, lo hará el Tribunal de Apelación al resolverse sobre la improcedencia o el desistimiento.
 
 ART. 423.- El auto en que se declara que una sentencia ha causado o no ejecutoria, no admite más recurso que el de responsabilidad.
 
@@ -2047,7 +2079,9 @@ El juez debe desechar de plano las excepciones diversas a la que el Código Civi
 
 Son improcedentes la reconvención y la compensación.
 
-ART. 481.- La sentencia que decrete el desahucio será apelable en el efecto devolutivo; la que lo niegue será apelable en ambos efectos.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 481.- La sentencia que decrete el desahucio, será apelable en el efecto devolutivo, y se ejecutará sin el otorgamiento de garantía, pero si en el momento de la diligencia de lanzamiento se pagan o se comprueba haberse pagado o consignado las rentas adeudadas, se dará por terminada dicha diligencia. La sentencia que niegue el desahucio, será apelable en ambos efectos.
 
 ART. 482.- Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminado la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 476.
 
@@ -2285,7 +2319,7 @@ ART. 566.- Calificadas de buenas las posturas, el juez las leerá en alta voz po
 
 Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore, dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
 
-ART. 567.- Al declarar fincado el remate mandará el juez que, dentro de los tres días siguientes, se otorgue a favor del comprador la escritura de adjudicación correspondiente, en los términos de su postura, y que se le entreguen los bienes rematados.
+ART. 567.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
 ART. 568.- No habiendo postor quedará al arbitrio del ejecutante pedir, en el momento de la diligencia, que se le adjudiquen los bienes por las dos terceras partes del precio que sirvió de base para el remate, o que se saquen de nuevo a pública subasta, con rebaja del veinte por ciento de la tasación.
 
@@ -2311,13 +2345,15 @@ ART. 572.- Si en la tercera subasta se hiciere postura admisible en cuanto al pr
 
 ART. 573.- Cualquiera liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de la ejecución y demás, se regulará por el juez con un escrito de cada parte y resolución dentro del tercer día.
 
-ART. 574.- Aprobado el remate, al mandar el juez el otorgamiento de la escritura de adjudicación y la entrega de los bienes, se prevendrá al comprador que consigne, ya sea ante el propio juez o ante el notario que va a autorizar la escritura respectiva, el precio del remate.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-Si el comprador no consignare el precio en el plazo que el juez señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si no se hubiera celebrado, perdiendo el postor el depósito a que se refiere el artículo 560, que se aplicará por vía de indemnización, por partes iguales, al ejecutante y al ejecutado.
+ART. 574.- Dentro de los tres días siguientes al en que se fincó el remate, las partes podrán hacer las objecciones (sic) que estimen petinentes (sic) al procedimiento del mismo remate y transcurrido dicho término, el Juez dictará auto aprobándolo o no. Si se aprueba el remate se requerirá al comprador para que dentro de tres días consigne la cantidad ofrecida de contado y si no lo hiciere o por su culpa dejare de tener efecto la venta se procederá a una nueva subasta como si la anterior no se hubiere celebrado, perdiendo el postor el depósito a que se refiere el Artículo 560, que se aplicará, por vía de indemnización, al ejecutante y al ejecutado, por partes iguales.
 
 ART. 575.- Consignado el precio, se hará saber al deudor que dentro del tercer día otorgue la escritura de venta a favor del comprador, apercibido que, de no hacerlo, el juez lo hará en su rebeldía, haciéndolo constar así.
 
-ART. 576.- Otorgada la escritura se darán al comprador los títulos de propiedad, apremiando, en su caso, al deudor para que los entregue, y se pondrán los bienes a disposición del mismo comprador, dándose para ello las órdenes necesarias, aun las de desocupación de fincas habitadas por el deudor o terceros que no tuvieren contrato para acreditar el uso, en los términos que fija el Código Civil. Se le dará a conocer como dueño a las personas que él mismo designe.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 576.- Otorgada la escritura se pondrá al adquiriente en posesión de los bienes, dándose para ello las órdenes necesarias, aún las de desocupación de fincas habitadas por el deudor o terceros que no tuvieren contratos para acreditar el uso, en los términos que fija el Código Civil y se le dará a conocer como dueño a las personas que él mismo designe.
 
 ART. 577.- Con el precio se pagará al acreedor hasta donde alcance, y si hubiere costas pendientes que liquidar se mantendrá en depósito la cantidad que se estime bastante para cubrirlas hasta que sean aprobadas las que faltaren que pagarse; pero si el ejecutante no formula su liquidación dentro de los ocho días de hecho el depósito, perderá el derecho de reclamarlas.
 
@@ -2531,7 +2567,7 @@ ART. 635.- Siempre que se trate de acreditar el impedimento insuperable, se tram
 
 ART. 636.- El litigante rebelde a quien haya sido notificado personalmente el emplazamiento o la sentencia definitiva, sólo podrá utilizar contra ella el recurso de apelación, en los términos del derecho común.
 
-ART. 637.- Se admitirá la apelación extraordinaria que contra la sentencia interpusiere el litigante rebelde, conforme al capítulo segundo, título décimo segundo.
+ART. 637.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
 ### CAPITULO UNICO
 
@@ -2633,9 +2669,11 @@ ART. 667.- La sentencia que decrete el divorcio por mutuo consentimiento, es ape
 
 ART. 668.- Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Juez del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al de nacimiento de los divorciados para los efectos de los artículos 111, 113 y 288 del Código Civil.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1979)</small>
+
 TITULO DECIMOSEGUNDO
 
-De los recursos
+De los recursos y de la revisión de oficio.
 
 ### CAPITULO I. De la revocación y apelación
 
@@ -2657,63 +2695,89 @@ No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo
 
 ART. 676.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esa notificación. En este caso, la adhesión al recurso sigue la suerte de éste.
 
-ART. 677.- La apelación debe interponerse por escrito, o verbalmente en el acto de notificarse, ante el Juez que pronunció la sentencia, dentro de cinco días improrrogables si la sentencia fuere definitiva, o dentro de tres si fuere auto o interlocutoria.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-Se exceptúa la apelación contra las sentencias de los juicios en rebeldía, cuando no fuere notificado personalmente el demandado, o cuando se tratare de la apelación extraordinaria.
+ART. 677.- La apelación se interpondrá por escrito, ante el Juez del conocimiento, dentro de ocho días improrrogables si se tratare de sentencia definitiva, o dentro de cinco si fuere auto o resolución interlocutoria.
 
-Los autos e interlocutorias serán apelables cuando lo fuere la sentencia definitiva.
+Los autos e interlocutorias, serán apelables cuando lo fuere la sentencia definitiva.
 
-ART. 678.- El litigante, al interponer la apelación, debe usar de moderación, absteniéndose de denostar al juez; de lo contrario, quedará sujeto a la pena impuesta en los artículos 61 y 62.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 679.- Interpuesta una apelación, el juez la admitirá sin substanciación ninguna, si fuere procedente, expresando si la admite en ambos efectos o en uno solo, o bien preventivamente.
+ART. 678.- En el escrito de apelación el recurrente expresará los agravios, los que serán formulados en forma concreta mediante los razonamientos relacionados con las circunstancias del caso, que tiendan a demostrar una violación de la Ley o una interpretación inexacta de la misma. Con el escrito de apelación se exhibirá una copia del mismo para el expediente y una para cada una de las partes.
 
-ART. 680.- El recurso de apelación procede en un solo efecto, en ambos efectos y preventivamente. En el primer caso no se suspende la ejecución del auto o de la sentencia y si ésta es definitiva se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al tribunal superior. Si es auto se remitirá al tribunal testimonio de lo que el apelante señalare en el escrito de apelación y a él se agregarán, a costa del colitigante, las constancias que éste solicite dentro de tres días siguientes a la admisión del recurso.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria, o la tramitación del juicio, cuando se interpuso contra auto.
+ART. 679.- Interpuesto una apelación, el Juez, sin substanciación alguna, la admitirá si fuera procedente, expresando si la admite en uno o en ambos efectos o bien preventivamente. En caso de que en el escrito de apelación no se formulen agravios o no se acompañen al mismo las copias a que se refiere el Artículo 678, el Juez tendrá por no interpuesto el recurso.
 
-El efecto preventivo sólo significa que interpuesta la apelación se mandará tenerla presente cuando apelada la sentencia definitiva se reitera ante el superior lo pedido en su oportunidad; procede respecto de las resoluciones preparatorias y de las que desechan pruebas.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 681.- Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido que se admitan libremente o en ambos efectos.
+ART. 680.- El recurso de apelación procede en un solo efecto, en ambos efectos y preventivamente. En el primer caso no se suspende la ejecución del auto o de la sentencia y si ésta es definitiva se dejará en el Juzgado, para ejecutarla, copia certificada de ella y de las demás constancias que el Juez estime necesarios, remitiéndose desde luego los autos originales al Tribunal Superior.
+
+La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia hasta que ésta cause ejecutoria, o la tramitación del juicio, cuando se interpuso contra auto.
+
+El efecto preventivo solo significa que interpuesta la apelación se mandará tenerla presente cuando apelada la sentencia definitiva se reitera ante el superior lo pedido en su oportunidad; procede respecto de las resoluciones preparatorias y de las que desechan pruebas.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 681.- Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido que se admitan en ambos efectos.
 
 ART. 682.- De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en el efecto devolutivo; pero si el juicio fuere ordinario y el apelante, en un plazo que no exceda de seis días, presta fianza a satisfacción del juez para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
 
 Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, fijando, prudencialmente, el importe de los daños y perjuicios, que no bajarán de mil pesos ni podrán exceder de cinco mil, además de lo que importen las costas.
 
-ART. 683.- Si la apelación devolutiva fuere de auto o sentencia interlocutoria, solo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haga el colitigante y el juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. El apelante deberá solicitar el testimonio dentro del tercer día de la admisión del recurso, expresando los particulares que deban contener. Transcurrido este término, sin haberlo solicitado, se le negará el testimonio y se tendrá por firme la resolución apelada.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-Al recibirse las constancias ante el superior, se notificará personalmente a las partes para que comparezcan ante dicho tribunal, a menos de que de las constancias aparezca que no se ha dejado de actuar más de tres meses.
+ART. 683.- Si la apelación procediera en el solo efecto devolutivo, solo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente, las constancias que deban integrarlo, que se adicionará con las que en la misma forma y dentro de tres días señale el colitigante. En todo caso, el Juez determinará las constancias estrictamente necesarias para el conocimiento de la apelación. Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso, a no ser que el apelante manifieste que prefiere esperar el envío de los autos orginales (sic) cuando estén en estado.
 
-ART. 684.- No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo. En éste caso, si la apelación fuere de sentencia definitiva, quedará en el juzgado testimonio de lo necesario para ejecutarla, remitiendo los autos al superior, como se previene en el artículo 680.
+Al recibirse las constancias ante el superior, si se ha dejado de actuar por más de tres meses, se notificará personalmente a las partes para que comparezcan ante dicho Tribunal.
 
-ART. 685.- Admitida la apelación en solo el efecto devolutivo, no se ejecutará la sentencia si no se otorga previamente fianza, conforme a las reglas siguientes:
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-I.- La calificación de la idoneidad de la fianza será hecha por el juez, quien se sujetará, bajo su responsabilidad, a las disposiciones del Código Civil;
+ART. 684.- No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo. En éste caso, si la apelación fuere de sentencia definitiva, quedará en el Juzgado testimonio de lo necesario para ejecutarla.
 
-II.- La fianza otorgada por el actor comprenderá la devolución de la cosa o cosas que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios, si el superior revoca el fallo;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-III.- La otorgada por el demandado comprenderá el pago de lo juzgado y sentenciado, y su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer;
+ART. 685.- Admitida la apelación en el solo efecto devolutivo no se ejecutará la sentencia si no se otorga previamente garantía. El apelante podrá otorgar contragarantía para que no se lleve a cabo la ejecución de la sentencia. Para el efecto se observarán las reglas siguientes:
+
+I.- La calificación de idoneidad de la garantía será hecha por el Juez conforme a las disposiciones del Código Civil.
+
+II.- La garantía otorgada comprenderá la devolución de la cosa o cosas que deban percibirse, sus frutos e intereses y la ndemnización (sic) de daños y perjuicios, si el superior revoca el fallo.
+
+III.- La contragarantía que se otorgue comprenderá el pago de lo juzgado y sentenciado y su cumplimiento en el caso de que la sentencia condene a hacer o a no hacer y la indemnización de daños y perjuicios si el superior confirma el fallo.
 
 IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
-ART. 686.- Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 686.- Además de los casos determinados expresamente en la Ley, se admitirán en ambos efectos las apelaciones que se interpongan:
 
 I.- De las sentencias definitivas en los juicios ordinarios;
 
 II.- De los autos definitivos que paralizan o ponen término al juicio haciendo imposible su continuación, cualquiera que sea la naturaleza del juicio, y
 
-III.- De las sentencias interlocutorias que paralizan o ponen término al juicio haciendo imposible su continuación.
+III.- De las sentencias interlocutorias que paralizan o ponen término al juicio haciendo imposible su continuación;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 1979)</small>
+
+IV.- Del auto aprobatorio del remate.
 
 ART. 687.- Admitida la apelación en ambos efectos, el juez remitirá los autos originales, desde luego, al Tribunal Superior, dentro del tercer día.
 
 ART. 688.- En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la sección de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
 
-ART. 689.- Llegados los autos o el testimonio, en su caso, al tribunal superior, éste sin necesidad de vista o informes, dentro de los ocho días, dictará providencia en la que decidirá sobre la admisión del recurso y la calificación del grado hecha por el juez inferior. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación, se procederá en consecuencia.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 690.- Admitido el recurso, en la providencia mandará el tribunal poner a la disposición del apelante los autos, por seis días, en la secretaría, para que exprese agravios. Del escrito de expresión de agravios se corre traslado a la contraria por otros seis días, durante los cuales estarán los autos a disposición de ésta para que se imponga de ellos.
+ART. 689.- Llegados los autos o el testimonio, en su caso, al Tribunal Superior, éste sin necesidad de vista o informes, dentro de los ocho días, dictará providencia en la que decidirá sobre la procedencia o improcedencia del recurso sobre la calificación del grado, en su caso, hecha por el Juez inferior. Declarada la improcedencia de la apelación, se devolverán los autos al inferior. Revocada la calificación del grado, se procederá en consecuencia.
 
-ART. 691.- En caso de que el apelante omitiera en el término de ley expresar agravios, de oficio el Superior declarará desierto el recurso.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 692.- Sólo en los escritos de expresión de agravios y contestación, las partes podrán ofrecer pruebas, especificando los puntos sobre que deban versar, que nunca serán extraños a la cuestión debatida.
+ART. 690.- Admitido el recurso, el superior mandará correr traslado a la parte contraria con el escrito de expresión de agravios, por el término de seis días, para que los conteste y, en caso de haberse adherido a la apelación, manifiesta lo que corresponda a sus intereses. Durante el término que se señala, los autos quedarán a su disposición para que se imponga de ellos.
+
+ART. 691.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 692.- Solo en los escritos de expresión de agravios y contestación de ellos, tratándose de apelación de sentencia definitiva en juicio ordinario, las partes pueden ofrecer pruebas, con excepción de la confesional, especificando los puntos sobre qué deban versar, los cuales nunca serán extraños a la cuestión debatida, y en la hipótesis del Artículo 694.
 
 ART. 693.- Dentro del tercero día, el tribunal resolverá sobre la admisión de las pruebas abriendo un término probatorio que no podrá exceder de veinte días.
 
@@ -2725,51 +2789,47 @@ II.- Cuando por cualquier causa no imputable al que solicitare la prueba, no hub
 
 III.- Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
 
-ART. 695.- Sin necesidad de recibir el pleito a prueba, podrán pedir los litigantes, desde que se pongan los autos a su disposición en la secretaría del tribunal, hasta antes de la celebración de la vista, que la parte contraria rinda confesión judicial por una sola vez, con tal de que sea sobre hechos que, relacionados con los puntos controvertidos, no fueron objeto de posiciones en la primera instancia, y que reciba la prueba documental de los instrumentos a que se refiere el artículo 98.
+ART. 695.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-ART. 696.- Cuando pida el apelante que se reciba el pleito a prueba, puede el apelado, en la contestación de los agravios, oponerse a esa pretensión.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 696.- Cuando pida el apelante que se reciban pruebas en la segunda instancia, puede el apelado, en la contestación de los agravios, manifestar las razones que tenga para que no se reciban.
 
 ART. 697.- En el auto de calificación de pruebas la Sala podrá optar por recibirlas en forma escrita u oral; en el primer caso, se procederá como se previene en el artículo 295, y en el segundo, señalará la audiencia dentro de los veinte días siguientes.
 
-ART. 698.- Contestados los agravios o perdido el derecho de hacerlo, si no se hubiere promovido prueba o concluida la recepción de las que se hubieren admitido, se darán cinco días comunes para alegar y pasados que sean, serán citadas las partes para sentencia, que se pronunciará en el término que señala el artículo 87.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 699.- Cuando la prueba de segunda instancia se hubiere de recibir en forma oral, desde el auto que lo prevenga, se fijará la audiencia dentro de los veinte días siguientes y se procederá desde luego, a la preparación de ellas. Regirá en este caso lo dispuesto en el capítulo VI del título sexto.
+ART. 698.- Contestados los agravios o perdido el derecho de hacerlo, si no se hubiera promovido prueba o concluída la recepción de las que se hubieren admitido, serán citados las partes para sentencia, que se pronunciará en el término que señala el Artículo 87.
 
-ART. 700.- La apelación interpuesta en los juicios sumarios se substanciará con un solo escrito de cada parte y el informe en estrados si las partes lo quisieren. En los casos a que se refieren este artículo y el anterior, los puntos resolutivos se dictarán en la misma audiencia y se engrosarán dentro del tercero día.
+ART. 699.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-Sólo en las causas en que se tuviere que examinar documentos voluminosos o las pruebas hubieren consistido exclusivamente en documentos, dictará resolución dentro de los ocho días que sigan a la celebración de la audiencia, interponiéndola con tal objeto. Estas apelaciones sólo se admitirán en el efecto devolutivo y nunca en el preventivo.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-ART. 701.- En las apelaciones en materia sumaria, los términos a que se refiere el artículo 690 se reducirán a tres días.
+ART. 700.- La apelación interpuesta en los juicios sumarios, solo se admirán (sic) en el efecto devolutivo y nunca en el preventivo.
 
-Las apelaciones de interlocutorias o autos se substanciarán con solo un escrito de cada parte, sin que haya informe en estrados.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-Son aplicables a las apelaciones sumarias las disposiciones contenidas en los artículos 690 y 691.
+ART. 701.- En las apelaciones en materia sumaria, solo será admisible la prueba documental pública superveniente.
 
-ART. 702.- La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, y sobre nulidad de matrimonio por las causas expresadas en los artículos 238,239 y 245 a 248 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y, aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretano (sic) sin ejecutarse ésta.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-### CAPITULO II. De la apelación extraordinaria
+ART. 702.- La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, y sobre nulidad de matrimonio para las causas expresadas en los Artículos 238, 239 y 245 a 248 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y, aunque las partes no expresaren agravios ni promovieren pruebas, el Tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
 
-ART. 703.- Será admisible la apelación dentro de los tres meses que sigan al día de la notificación de la sentencia:
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1979)</small>
 
-I.- Cuando se hubiere notificado el emplazamiento al reo, por edictos, y el juicio se hubiere seguido en rebeldía;
+### CAPITULO II. De la revisión de oficio
 
-II.- Cuando no estuvieren representados legítimamente el actor o el demando, o, siendo incapaces, las diligencias se hubieren entendido con ellos;
+ART. 703.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-III.- Cuando no hubiere sido emplazado el demandado conforme a la ley;
+ART. 704.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-IV.- Cuando el juicio se hubiere seguido ante un juez incompetente, no siendo prorrogable la jurisdicción.
+ART. 705.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-ART. 704.- El Juez podrá desechar la apelación cuando resulte de autos que el recurso fue interpuesto fuera de tiempo y cuando el demandado haya contestado la demanda o se haya hecho expresamente sabedor del juicio. En todos los demás casos, el juez se abstendrá de calificar el grado y remitirá inmediatamente, emplazando a los interesados, el principal al superior, quien oirá a las partes con los mismos trámites del juicio sumario, sirviendo de demanda la interposición del recurso, que debe llenar los requisitos del artículo 256.
+ART. 706.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-Declarada la nulidad, se volverán los autos al inferior para que reponga el procedimiento en su caso.
+ART. 707.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
-ART. 705.- Este mismo recurso se da de las sentencias pronunciadas por los jueces de paz, y será tribunal de apelación el juez de primera instancia que corresponda, o, siendo varios, el que elija el recurrente, y en su silencio el de número inferior.
-
-ART. 706.- La sentencia que se pronuncia resolviendo la apelación extraordinaria, no admite más recurso que el de responsabilidad.
-
-ART. 707.- Cuando el padre que ejerza la patria potestad, el tutor o el menor, en su caso, ratifiquen lo actuado, se sobreseerá el recurso, sin que pueda oponerse la contraparte.
-
-ART. 708.- El actor o el demandado capaces que estuvieron legítimamente representados en la demanda y contestación, y que dejaron de estarlo después, no podrán intentar esta apelación.
+ART. 708.- (DEROGADO, P.O. 20 DE JULIO DE 1979)
 
 ### CAPITULO III. De la queja
 
@@ -3705,11 +3765,13 @@ TITULO DECIMOSEXTO
 
 ART. 925.- En el Estado de Baja California habrá los Juzgados de Paz que determine la Ley Orgánica del Poder Judicial del propio Estado.
 
-ART. 926.- Conocerán los Jueces de Paz de los juicios cuya cuantía no exceda de tres mil pesos.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
 
-Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
+ART. 926.- Conocerán los Jueces de Paz de los juicios cuya cuantía se señale por el Artículo 57 de la Ley Orgánica del Poder Judicial:
 
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+Para estimar el interés del negocio se atendrá a lo que el autor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
+
+Cuando se trate de arrendamiento o se demanda el cumplimiento de una obligación consistente en prestaciones periódicas se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este Artículo.
 
 ART. 927.- Si se dudare del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
 
@@ -3873,7 +3935,11 @@ ART. 970.- Para la facilidad y rapidez en el despacho, las citas, órdenes, acta
 
 El Presidente del Tribunal Superior, fijará cada año en el mes de diciembre, los modelos de esqueletos que se hayan de emplear en el año siguiente, oyendo al efecto a los jueces de paz, a los que convocará a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
 
-ART. 971.- Los jueces de paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro juzgado del mismo partido judicial, si lo hubiere; y si no, al juez de primera instancia de número menor. Si los jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1979)</small>
+
+ART. 971.- Los Jueces de Paz no son recusables; pero deben excusarse cuando estén impedidos; en tal caso el negocio pasará a otro Juzgado del mismo Partido Judicial, si lo hubiere; y si no, al Juez de Prmera (sic) Instancia de número menor. Si por disposición de la Ley Orgánica del Poder Judicial un Juez de Primera Instancia conoce de casos de justicia de paz, y se excusa, conocerá del asunto el Secretario de su adscripción.
+
+Si los Jueces impedidos no se excusaren, a queja de parte el Superior impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
 T R A N S I T O R I O S :
 
@@ -3944,3 +4010,7 @@ Los actos ejecutados hasta antes de la promulgación del presente Arancel, deber
 ###### ARTICULO TERCERO.
 
 El presente Arancel deja sin efecto el Artículo Transitorio Tercero del Código de Procedimientos Civiles del Estado.
+
+P.O. 20 DE JULIO DE 1979.
+
+UNICO.- Este Decreto entrará en vigor diez días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
