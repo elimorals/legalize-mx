@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-16566"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-30"
-last_updated: "2003-05-02"
+last_updated: "2003-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1996.
 
@@ -149,13 +149,15 @@ El Consejo Estatal de Seguridad Pública, en lo sucesivo Consejo Estatal, será 
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario de Gobierno, quién fungirá como Vicepresidente, y suplirá al Gobernador en caso de ausencia;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+II.- El Secretario Ejecutivo, quien fungirá corno Secretario Técnico del Consejo Estatal de Seguridad Pública y suplirá al Presidente en caso de ausencia;
 
 III.- El Procurador General de Justicia del Estado;
 
 IV.- El Secretario de Infraestructura Urbana y Ecología;
 
-V.- El Coordinador Estatal de Seguridad Pública y Tránsito;
+V.- (REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)
 
 VI.- El Director General de la Policía Judicial en el Estado;
 
@@ -171,13 +173,15 @@ XI.- El Delegado en el Estado del Centro de Investigación y Seguridad Nacional 
 
 XII.- El Representante de la Secretaría de Gobernación en el Estado;
 
-XIII.- El Comandante de Región de la Policía Federal de Caminos;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+XIII.- El Jefe de la Región Sonora de la Policía Federal Preventiva;
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
 XIV.- Los presidentes municipales de cada uno de los municipios del Estado, y
 
-XV.- El Secretario Ejecutivo del Consejo Estatal.
+XV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 14.
 
@@ -227,9 +231,11 @@ El Consejo Estatal promoverá que tanto el Estado, como los municipios, establez
 
 El servicio aludido en el párrafo anterior tendrá comunicación directa con las instituciones de seguridad pública, salud, protección civil, la Secretaría de la Contraloría General del Estado de Sonora, el Órgano de Control y Evaluación Gubernamental correspondiente y las demás instituciones asistenciales, públicas y privadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 19.
 
-El Consejo Estatal se reunirá por lo menos cada tres meses a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar, o en cualquier tiempo para tratar asuntos específicos que, por su trascendencia o urgencia, deban ser desahogados en una sesión extraordinaria. Las sesiones del Consejo Estatal serán válidas cuando asistan las dos terceras partes de sus miembros, incluyendo a su Presidente y al Secretario Ejecutivo.
+El Consejo Estatal se reunirá por lo menos cada tres meses a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar, o en cualquier tiempo para tratar asuntos específicos que, por su trascendencia o urgencia, deban ser desahogados en una sesión extraordinaria. Las sesiones de Consejo Estatal serán válidas cuando asistan las dos terceras partes de sus miembros.
 
 Los miembros del Consejo Estatal podrán proponer acuerdos, tomar resoluciones, vigilar su cumplimiento y desempeñar las comisiones que les sean asignadas.
 
@@ -265,29 +271,65 @@ II.- Tener más de 35 años de edad al momento de su designación; y
 
 III.- Ser de reconocida capacidad y probidad, además de contar con experiencia en el área de la seguridad pública.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 22.
 
-Serán funciones del Secretario Ejecutivo del Consejo Estatal:
+Serán funciones del Secretario Técnico del Consejo Estatal de Seguridad Pública, las siguientes:
 
-I.- Ejercer la dirección administrativa del personal que se le asigne para el eficaz desempeño de sus funciones y del presupuesto respectivo;
+I.- Proponer y ejecutar las políticas de seguridad pública en el Estado, así como las orientaciones, lineamientos, estrategias, programas y acciones para la prevención de los delitos y conductas antisociales y la readaptación social;
 
-II.- Proponer al Presidente del Consejo Estatal, el nombramiento de los responsables de cada una de las comisiones a que se refiere el artículo 15 de esta ley;
+II.- Presentar ante el Consejo, para su evaluación, el Sistema de Seguridad Pública en el Estado y proponer las medidas de coordinación, políticas, lineamientos y acciones entre las dependencias vinculadas con la seguridad pública para dar congruencia a las políticas de prevención del delito y conductas antisociales, cultura de la legalidad y participación ciudadana;
 
-III.- Levantar actas y certificar los acuerdos que se tomen en el Consejo Estatal, además de llevar el archivo de éstos y de los convenios autorizados;
+III.- Participar en la formulación, ejecución y evaluación del Programa Estatal de Seguridad Pública;
 
-IV.- Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal;
+IV.- Proponer al Consejo, para su aprobación, el programa de coordinación con los municipios para gestionar la obtención de equipo y material de seguridad pública y tránsito y para tramitar los permisos colectivos de portación de armas de fuego para los integrantes de las corporaciones de policía preventiva y tránsito;
 
-V.- Elaborar propuestas sobre las políticas, lineamientos y acciones para el buen desempeño de las instituciones de seguridad pública del Estado;
+V.- Ejercer la dirección administrativa del personal que se le asigne para el eficaz desempeño de sus funciones y del presupuesto respectivo;
 
-VI.- Coordinar el servicio de apoyo a la carrera policial;
+VI.- Proponer al Presidente del Consejo Estatal, el nombramiento de los responsables de cada una de las comisiones a que se refiere el artículo 15 de esta ley;
 
-VII.- Realizar y publicar estudios especializados en materia de seguridad pública;
+VII.- Levantar actas y certificar los acuerdos que se tomen en el Consejo Estatal, además de llevar el archivo de éstos y de los convenios autorizados; y
 
-VIII.- Organizar el Subsistema Estatal de Información de Seguridad Pública. En lo correspondiente a los diversos registros relacionados con los cuerpos de seguridad pública municipal, se coordinará con la Coordinación Estatal de Seguridad Pública y Tránsito;
+VIII.- Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal.
 
-IX.- Informar al Consejo Estatal de sus actividades; y
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2003)</small>
 
-X.- Todas las demás que le confieran esta ley, los reglamentos, convenios, acuerdos y otras disposiciones legales en la materia y las que le asignen el Consejo Estatal o su Presidente.
+ARTICULO 22 BIS.- El Secretario Ejecutivo que, en materia de seguridad pública, depende del Ejecutivo, tendrá a su cargo las siguientes facultades y obligaciones:
+
+I.- Gestionar, a solicitud de las personas que prestan servicios privados de seguridad, permisos ante las autoridades competentes para que cuenten con el equipo y licencias necesarios para la prevención, seguridad y custodia de las personas y bienes, en los términos de esta Ley y de los reglamentos respectivos;
+
+II.- Coordinar, supervisar y administrar el Sistema Estatal Penitenciario, así como organizar y dirigir las actividades de apoyo a liberados;
+
+III.- Vigilar el cumplimiento de la Ley que Crea el Consejo Tutelar para Menores;
+
+IV.- Integrar un sistema de información para la preservación de la seguridad pública y la prevención de delitos y conductas antisociales;
+
+V.- Representar al Gobernador del Estado ante el Sistema Nacional de Seguridad Pública;
+
+VI.- Desarrollar, operar y mantener la Red Estatal de Telecomunicaciones del Gobierno del Estado y el sistema de enlace telefónico de emergencias ciudadanas;
+
+VII.- Organizar y coordinar el registro y control de los recursos del Fideicomiso Fondo de Seguridad Pública, de acuerdo a los lineamientos aprobados por el Consejo Estatal;
+
+VIII.- Establecer los lineamientos y participar en el diseño, instrumentación y evaluación de los programas académicos y de capacitación del Instituto Superior de Seguridad Pública, los cuales estarán dirigidos, sustancialmente, a la protección de los derechos fundamentales de los ciudadanos;
+
+IX.- Proponer y participar en la celebración de convenios o acuerdos de coordinación y colaboración con autoridades federales, estatales y municipales, del Distrito Federal, así como con instituciones públicas y organismos sociales y privados, en materia de seguridad pública;
+
+X.- Fomentar la participación ciudadana y de los sectores social y privado en la formulación, ejecución y evaluación de las estrategias, programas y acciones en materia de seguridad pública, a través de las instancias ciudadanas previstas en la presente Ley;
+
+XI.- Formular el proyecto de Reglamento Interior, en el que se determinen las unidades administrativas que conformarán su estructura orgánica y las funciones de las mismas, y someterlo a la aprobación del Gobernador del Estado, así como elaborar y mantener actualizados los demás instrumentos de apoyo;
+
+XII.- Realizar los actos jurídicos necesarios para el cumplimiento de sus atribuciones;
+
+XIII.- Coordinar el servicio de apoyo a la carrera policial;
+
+XIV.- Realizar y publicar estudios especializados en materia de seguridad pública;
+
+XV.- Organizar el Subsistema Estatal de Información de Seguridad Pública. En lo correspondiente a los diversos registros relacionados con los cuerpos de seguridad pública municipal, se coordinará con los ayuntamientos respectivos;
+
+XVI.- Informar al Consejo Estatal de sus actividades; y
+
+XVII.- Las demás que le confieran esta Ley, los reglamentos y otras disposiciones normativas, los convenios, los acuerdos y demás actos administrativos en la materia, así como aquellas que le asigne el Gobernador del Estado.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES E INTERMUNICIPALES
 
@@ -335,11 +377,13 @@ Para la realización de actividades coordinadas de seguridad pública regional, 
 
 Los Consejos Intermunicipales de Seguridad Pública, podrán ser constituidos a instancias del Consejo Estatal, cuando las necesidades y problemas del área sean comunes y así lo requiera la seguridad pública.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 27.
 
-Los Consejos Intermunicipales estarán integrados por los Presidentes Municipales de la zona, sus Jefes de Policía Preventiva y Tránsito, los Comandantes de los resguardos militares, de la Policía Judicial Federal y de la Policía Federal de Caminos en el área, los agentes del Ministerio Público asentados en los municipios; en su caso, el Delegado del Consejo Tutelar para Menores y el Director del Centro de Readaptación Social; y un Secretario Ejecutivo designado por el propio Consejo Intermunicipal. Serán presididos alternativamente por los Presidentes Municipales que los integren.
+Los Consejos Intermunicipales estarán integrados por los presidentes municipales de la zona, sus jefes de Policía Preventiva y Tránsito, los comandantes de los resguardos militares, de la Agencia Federal de Investigación y de la Policía Federal Preventiva en el área, los agentes del Ministerio Público asentados en los municipios, el Delegado del Consejo Tutelar para Menores y el Director del Centro de Readaptación Social; y un Secretario Ejecutivo designado por el propio Consejo Intermunicipal. Serán presididos alternativamente por los presidentes de los municipios que los integren.
 
-El o los Diputados de Distrito y los Jueces Penales o Mixtos correspondientes o, en su caso, los Presidentes de las Salas Regionales del Supremo Tribunal de Justicia, podrán ser invitados a las sesiones de los Consejos Intermunicipales según corresponda.
+El o los Diputados de Distrito y los Jueces Penales o Mixtos correspondientes o, en su caso, los Presidentes de los Tribunales Regionales de Circuito, podrán ser invitados a las sesiones de los Consejos Intermunicipales según corresponda.
 
 ###### ARTICULO 28.
 
@@ -527,17 +571,17 @@ No se proporcionará al público la información que ponga en riesgo la segurida
 
 Cualquier interesado que estime falsa o errónea alguna información, podrá solicitar la investigación correspondiente con el objeto de que, en su caso, se anote la corrección que proceda conforme al procedimiento que establezca el reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-# LIBRO SEGUNDO. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA MUNICIPAL
+# LIBRO SEGUNDO. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-## TITULO UNICO. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA MUNICIPAL
+## TITULO UNICO. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO I. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA
+### CAPITULO I. DEL EJERCICIO DE LA FUNCION DE SEGURIDAD PUBLICA MUNICIPAL
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
@@ -631,7 +675,7 @@ VII.- Mantener los bienes destinados a la función de seguridad pública en cond
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
-VIII.- Elaborar y mantener permanentemente actualizados el catálogo y el inventario de los bienes muebles e inmuebles destinados a la función de Seguridad Pública en el Municipio y remitir los mismos al titular del Poder Ejecutivo Estatal, por conducto de la Coordinación Estatal de Seguridad Pública y Tránsito;
+VIII.- Elaborar y mantener permanentemente actualizados el catálogo y el inventario de los bienes muebles e inmuebles destinados a la función de seguridad pública en el Municipio y remitir los mismos al titular del Poder Ejecutivo Estatal, por conducto del Secretario Ejecutivo;
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
 
@@ -717,9 +761,13 @@ Los datos e informes que se utilicen para la elaboración de los programas a que
 
 Los Ayuntamientos determinarán, en cada caso, qué información se podrá incorporar a los programas antes señalados y cuál puede difundirse entre los particulares, tomando en cuenta que dicha divulgación no vaya en detrimento del ejercicio de la función de seguridad pública, en los términos de la legislación aplicable.
 
-### CAPITULO III. DE LA FUNCION, COORDINACION, DIRECCION, FORMACION Y CAPACITACION DE LA POLICIA PREVENTIVA MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION PRIMERA. DE LA POLICIA PREVENTIVA
+### CAPITULO III. DE LA FUNCION, COORDINACION, DIRECCION, FORMACION Y CAPACITACION DE LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION PRIMERA. DE LA POLICIA PREVENTIVA MUNICIPAL
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
 
@@ -829,61 +877,65 @@ XIII.- En general, cumplir y hacer cumplir la presente Ley, el Bando de Policía
 
 El Subjefe de las Corporaciones de Policía Preventiva, donde lo hubiere, substituirá legalmente al Jefe de la misma, en sus faltas temporales o accidentales; en ausencia del primero, proveerá el Presidente Municipal.
 
-#### SECCION SEGUNDA. DE LA COORDINACION ESTATAL DE SEGURIDAD PUBLICA Y TRANSITO
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION SEGUNDA. DE LA POLICIA ESTATAL DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 82.
 
-La Coordinación Estatal de Seguridad Pública y Tránsito, tendrá las siguientes funciones:
+La Policía Estatal de Seguridad Pública dependerá del Secretario Ejecutivo y tendrá las siguientes atribuciones:
 
-I.- Proponer al Gobernador del Estado, las orientaciones, los lineamientos y las políticas que considere convenientes en materia de seguridad pública y tránsito municipales, a fin de que sean incorporados al Plan Estatal de Desarrollo y a los programas respectivos;
+A.- Previo convenio que celebre con los ayuntamientos, a solicitud de los mismos:
 
-II.- Identificar los avances tecnológicos en materia de seguridad pública y tránsito municipales y proponer su utilización a las instituciones de policía;
+I.- Coordinarse con las autoridades municipales para la definición y ejecución de medidas preventivas con el propósito de inhibir los delitos en el territorio que se determine;
 
-III.- Apoyar y asesorar a los municipios del Estado en materia de seguridad pública y tránsito, para facilitar el desarrollo y operación de los programas de modernización administrativa y profesional de las corporaciones policiales y de tránsito municipales;
+III.- Llevar a cabo acciones especiales de vigilancia en aquellas zonas geográficas del territorio estatal que por su índice delictivo lo requieran; y
 
-IV.- Coordinar en el Estado las gestiones de los municipios para la adquisición de equipo y material de seguridad pública y tránsito;
+III.- Participar en acciones preventivas en coordinación con otras corporaciones municipales, estatales o federales, brindando el apoyo que sea procedente conforme a las disposiciones jurídicas aplicables.
 
-V.- Proponer mecanismos para que el ejecutivo estatal se coordine con los Ayuntamientos, en la tramitación de los permisos colectivos de portación de armas de fuego para los integrantes de las policías preventivas y de tránsito municipales, así como vigilar el estricto cumplimiento de la Ley Federal de Armas de Fuego y Explosivos, su Reglamento y las disposiciones de esta ley;
+B.- Por si mismo, salvo los casos que se señale lo contrario.
 
-VI.- Coordinar la realización de campañas educativas permanentes que induzcan a reducir la posesión, portación y uso de armas de fuego de cualquier tipo;
+I.- Practicar detenciones o aseguramientos en los casos de flagrancia, en los términos de la ley y poner de inmediato a disposición de las autoridades competentes a las personas detenidas o los bienes que se hayan asegurado o que estén bajo su custodia;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+II.- Apoyar, cuando así lo soliciten, a las autoridades federales, estatales y municipales, así como a otras instituciones o entidades de carácter público, en el ejercicio de sus funciones;
 
-VII.- Integrar el inventario de los bienes muebles e inmuebles destinados por los municipios del Estado a la función de seguridad pública y tránsito, procurando su permanente actualización;
+III.- Prestar auxilio a la población en casos de emergencias, riesgos, siniestros y desastres;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+IV.- Auxiliar a las autoridades competentes en la detención de personas o en el aseguramiento de bienes que sean objeto, instrumento o producto de un delito, en aquellos casos en que sea formalmente requerida y proceda legalmente;
 
-VIII.- Llevar a cabo un proceso sistemático para la obtención y tratamiento de datos, en relación a la comisión de faltas al Bando de Policía y Gobierno que se produzcan en el Estado;
+V.- Definir y ejecutar acciones de vigilancia y de inhibición de delitos en las carreteras de jurisdicción estatal, en los bienes destinados a la prestación de servicios públicos concesionados por el Gobierno del Estado, los edificios de dominio público o privado del Gobierno Estatal o que de cualquier modo afecten a su patrimonio, así como con respecto a aquellas obras comunitarias cuyo beneficio aprovechen dos o más municipios;
 
-IX.- Estudiar y proponer medidas para mejorar las condiciones económicas y laborales de los miembros de las policías preventivas y de tránsito municipales, a efecto de dignificar su tarea mediante una adecuada retribución y un sistema de estímulos;
+VI.- Auxiliar a las autoridades estatales en la vigilancia del cumplimiento de las disposiciones jurídicas y administrativas aplicables a las materias de su competencia;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+VII.- Constituirse de manera permanente o transitoria, en la modalidad que se requiera, en determinadas zonas geográficas de su jurisdicción en el Estado que por el desarrollo de las actividades económicas y productivas necesiten de unidades o grupos especializados;
 
-X.- Asesorar a los ayuntamientos del Estado en la elaboración y actualización de sus Bandos de Policía y Gobierno y en la organización y funcionamiento de sus juzgados calificadores;
+VIII.- Definir y ejecutar acciones de administración de riesgos en relación con delitos como secuestro, abigeato, robo de mieses, robo de vehículos y otros análogamente graves o de alto impacto que, por su naturaleza y efecto, excedan en su concepción y comisión el territorio de uno o más municipios;
 
-XI.- Disponer del personal que realice funciones de inspección y vigilancia en los bienes del dominio público del Estado, para evitar daños o deterioros;
+IX.- Definir y ejecutar acciones de administración de riesgos en relación con los delitos que puedan planearse o iniciarse en un municipio y continuarse, ejecutarse o generar daños en otro u otros municipios; y
 
-XII.- Proponer al Presidente del Consejo la coordinación de acciones entre las Policías Judicial y Preventiva, y tomar las medidas necesarias para hacer efectiva la coordinación y preservación de la seguridad pública conforme a los acuerdos del Consejo Estatal;
+X.- Las demás que determine esta Ley, los reglamentos que deriven de la misma y otras disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-XIII.- Operar los diversos registros relacionados con los cuerpos de policía municipal y estatal y coordinarse con la Secretaría Ejecutiva del Consejo Estatal, para la institución y funcionamiento del Subsistema Estatal de Información de Seguridad Pública;
+ARTICULO 82 BIS.- Las relaciones jerárquicas, las estructuras normativas y operativas, su organización territorial, las demás atribuciones de mando, dirección y disciplina, así como otros componentes del régimen interno de la Policía Estatal de Seguridad Pública, serán determinados en el reglamento interior que el Ejecutivo Estatal expida.
 
-XIV.- Supervisar, en los términos de la presente ley, la operación de las empresas que presten servicios privados de seguridad; y
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-XV.- Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confieran el Gobernador del Estado o el Consejo Estatal.
+#### SECCION TERCERA. DEL INSTITUTO SUPERIOR DE SEGURIDAD PUBLICA DEL ESTADO
 
-#### SECCION TERCERA. DEL INSTITUTO DE SEGURIDAD PUBLICA DEL ESTADO
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 83.
 
-El Instituto de Seguridad Pública del Estado, en lo sucesivo el Instituto, será un organismo descentralizado con personalidad jurídica y patrimonio propios, con sede en la ciudad de Hermosillo, Sonora.
+El Instituto Superior de Seguridad Pública del Estado, en lo sucesivo el Instituto, será un organismo descentralizado con personalidad jurídica y patrimonio propios, con sede en la ciudad de Hermosillo, Sonora.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 84.
 
-El Instituto tendrá como objeto el constituirse en la instancia estatal adecuada y responsable para la formación y capacitación profesional de los elementos integrantes de los cuerpos estatal y municipales de seguridad pública y tránsito municipales, conforme a los términos de esta ley, su reglamento general y demás normatividad aplicable. Se ocupará también de la formación y capacitación profesional del personal penitenciario y el del Consejo Tutelar para Menores. Lo anterior, sin perjuicio de que las actividades de capacitación puedan desarrollarse de manera permanente a través de la corporación en que los elementos policiacos presten sus servicios.
+El Instituto tendrá como objeto promover el desarrollo de las ciencias y técnicas relacionadas con la seguridad pública y constituirse en la instancia estatal adecuada y responsable para la formación y capacitación científica y profesional de los elementos integrantes de las instituciones y corporaciones estatales y municipales dedicadas al cumplimiento de las funciones de seguridad pública y tránsito, del personal penitenciario y de los centros de internamiento para menores infractores, así como la actualización y capacitación de maestros e investigadores en estas materias, conforme a los términos de esta ley, su reglamento general y demás normatividad aplicable. Lo anterior, sin perjuicio de que las actividades de capacitación puedan desarrollarse de manera permanente a través de la corporación en que los elementos presten sus servicios de seguridad pública.
 
 ###### ARTICULO 85.
 
@@ -897,37 +949,53 @@ II.- La Dirección General.
 
 El Consejo Directivo del Instituto se integrará por:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- El Secretario de Gobierno y el Procurador General de Justicia en el Estado quienes serán Vicepresidentes y sustituirán al Presidente en sus ausencias;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-III.- En calidad de vocales:
+II.- Un Vicepresidente, que será el Secretario Ejecutivo, quien sustituirá al Presidente en sus ausencias;
 
-a) El Secretario de Planeación de Desarrollo y Gasto Público.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-b) El Secretario de Educación y Cultura.
+III.- En calidad de Vocales:
 
-c) El Coordinador Estatal de Seguridad Pública y Tránsito.
+a) El Procurador General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+b) El Secretario de Hacienda.
 
-d).- Siete presidentes municipales a invitación del presidente del Consejo.
+c) El Secretario de Educación y Cultura.
 
-e) Dos representantes, respectivamente, de los sectores social y privado, a invitación del Presidente del Consejo; y
+d) Tres presidentes municipales, a invitación del Presidente del Consejo Directivo.
+
+e) Dos representantes, respectivamente, de los sectores social y privado, a invitación del Presidente del Consejo Directivo; y
 
 IV.- Un Secretario del Consejo, que será el Director General del Instituto y que asistirá sólo con voz.
 
 Por cada miembro propietario del Consejo Directivo deberá haber un suplente.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 87.
 
 El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado.
 
+Para ser Director General del Instituto deberán cumplirse los siguientes requisitos:
+
+I.- Ser ciudadano mexicano por nacimiento en pleno uso y goce de sus derechos civiles y políticos;
+
+II.- Tener por lo menos 35 años de edad a la fecha de su designación;
+
+III.- Ser profesionista y contar con estudios, conocimientos y aptitudes relativos a la seguridad pública;
+
+IV.- No haber sido condenado por delito doloso en sentencia ejecutoriada; y
+
+V.- Ser una persona de reconocida solvencia moral.
+
 ###### ARTICULO 88.
 
-La Secretaría de Gobierno, será la coordinadora de sector para el Instituto.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 89.
 
@@ -937,81 +1005,129 @@ I.- Las aportaciones, bienes muebles e inmuebles y demás ingresos que los gobie
 
 II.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de las personas de los sectores social y privado;
 
-III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus bienes, operaciones, actividades o eventos que realice; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-IV.- En general, con los ingresos que obtenga por cualquier otro título legal.
+III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus bienes, operaciones, actividades o eventos que realice;
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+IV.- Los ingresos por cuotas de recuperación que perciba en virtud de los servicios que preste; y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+V.- En general, los ingresos que obtenga por cualquier otro título legal.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 90.
 
-Para el alcance de su objeto, corresponderá al Instituto proponer las bases del servicio profesional policial estatal y municipal, formar y capacitar a los elementos de los diversos cuerpos de policía estatal y municipal, de acuerdo con las disposiciones de esta ley y sus reglamentos y proponer modelos y mecanismos de selección, formación, actualización y evaluación, tanto de los aspirantes como de los miembros activos de dichas corporaciones, conforme a los principios de legalidad. eficiencia, profesionalismo y honradez.
+Para el alcance de su objeto, corresponderá al Instituto:
+
+I.- Establecer las acciones, políticas y programas idóneos en materia de reclutamiento y selección del personal a capacitar;
+
+II.- impartir enseñanza o educación policial en los niveles técnico, superior, de especialización y posgrado para el mejoramiento profesional de los cuerpos de seguridad pública;
+
+III.- Con base en los principios de legalidad, eficiencia, profesionalismo y honradez, establecer, operar y controlar los programas docentes relativos a la inducción, formación inicial, actualización, especialización y en general a la capacitación profesional de los elementos integrantes de las instituciones y corporaciones estatales y municipales relacionadas con la prevención de ilícitos, la ejecución de las sentencias y medidas tutelares, así como de los servicios privados de seguridad;
+
+IV. - De acuerdo con las disposiciones de esta Ley y su reglamento, orientar y proponer a las instituciones y corporaciones encargadas del cumplimiento de las funciones de seguridad pública y tránsito, internamiento y reclusión para la readaptación social, los modelos y mecanismos de selección y reclutamiento de su personal;
+
+V.- En apoyo al servicio civil de carrera, diseñar y proponer sistemas de evaluación permanente del desempeño de los servidores públicos de las áreas de prevención del delito y tránsito, vigilancia y custodia penitenciaria y tutelar, impartiendo cursos para la obtención de ascenso, promociones y estímulos de los mismos;
+
+VI.- Promover y realizar programas para la formación y actualización de maestros, instructores, investigadores y especialistas en materia de seguridad pública;
+
+VII.- Formular planes de estudio, programas, métodos y sistemas de enseñanza en las áreas y niveles que imparta;
+
+VIII.- Planear e impulsar la enseñanza policial en todas sus manifestaciones, inculcando el espíritu de servicio y respeto permanente al orden legal vigente, a la sociedad y sus valores, así como al estricto sentido de disciplina, responsabilidad, honestidad, rectitud y lealtad institucional;
+
+IX.- Promover el estudio, investigación e intercambio de información en materia de seguridad pública;
+
+X.- Mantener una relación constante y sistemática con las instituciones y organismos afines, para el intercambio de información y experiencias sobre la teoría y la práctica de la seguridad pública;
+
+XI.- Celebrar convenios y contratos con organismos afines, para la realización de programas y acciones de intercambio, cooperación, asesoría, investigación, asistencia y otras acciones relacionadas con su objeto;
+
+XII.- Impulsar una planta permanente de investigación científica en las áreas de seguridad pública;
+
+XIII.- Ser órgano de consulta en el estudio, formulación y aplicación de la política criminal estatal, o de las políticas públicas relativas a alguna o algunas de las áreas de su especialidad; y
+
+XIV.- Las demás que sean necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 91.
 
-Los programas académicos del Instituto comprenderán la formación básica, la capacitación, la actualización, la especialización técnica, la profesionalización y la especialización profesional, así como la preparación para la promoción y la correspondiente a la formación de mandos.
+Los programas académicos del Instituto comprenderán la formación básica, la actualización, la especialización técnica y la especialización profesional, así como la preparación para la promoción y la correspondiente a la formación de mandos.
 
-La formación básica es el proceso mediante el cual se capacita a quienes habrán de incorporarse al servicio profesional policial, con el objeto de que puedan realizar las actividades propias de su función de manera profesional.
+La formación básica es el proceso mediante el cual se capacita a quienes habrán de incorporarse a las áreas de seguridad pública y tránsito, y vigilancia y custodia penitenciaria y tutelar, con el objeto de que puedan realizar las actividades propias de su función de manera profesional.
 
-La formación de capacitación y actualización es el proceso mediante el cual los elementos de los cuerpos de seguridad pública ponen al día, en forma permanente, los conocimientos y habilidades que requieren para el ejercicio de sus funciones.
+La actualización es el proceso mediante el cual los servidores públicos integrantes de las instituciones y corporaciones estatales y municipales dedicadas al cumplimiento de las funciones de seguridad pública y tránsito, ponen al día, en forma permanente, los conocimientos y habilidades que requieren para el ejercicio de sus funciones.
 
-La formación de especialización técnica tiene por objeto la capacitación del personal para trabajos específicos orientados a la realización de actividades que precisen conocimientos, habilidades y aptitudes en una determinada área del trabajo policial.
+La especialización técnica tiene por objeto la capacitación del personal para trabajos específicos orientados a la realización de actividades que precisen conocimientos, habilidades y aptitudes en una determinada área de la prevención e investigación de delitos, o de la ejecución de penas y medidas tutelares.
 
-La formación de profesionalización y especialización profesional, permitirá a los elementos obtener un título o grado académico, a nivel profesional y posgrado, en alguna materia del servicio profesional policial. En este caso, se estará a los términos del reconocimiento oficial de validez de estudios que la autoridad o institución educativa, en su caso, otorgue.
+La especialización profesional permitirá la obtención de un título o grado académico, a nivel profesional y posgrado, en alguna área de la seguridad pública. En este caso, se estará a los términos del reconocimiento oficial de validez de estudios que la autoridad o institución educativa, en su caso, otorgue al Instituto o a la institución con la que éste convenga.
 
-La formación para la promoción es el proceso de capacitación que permite a los elementos que aspiren a ascender dentro del servicio profesional policial, contar con los conocimientos y habilidades propios del nuevo grado.
+La preparación para la promoción es el proceso de capacitación para servidores públicos que aspiren a ascender dentro del servicio profesional, y requieran contar con los conocimientos y habilidades propios del nuevo grado o nivel.
 
-La formación destinada a la preparación de mandos medios y superiores, tendrá por objeto desarrollar integralmente al personal en la administración y organización policiales.
+La formación destinada a la preparación de mandos medios y superiores, tendrá por objeto desarrollar integralmente al personal en la administración y organización en la seguridad pública, en sus diferentes manifestaciones.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
-
-Los programas de formación policial en sus diferentes niveles, además de las materias propias de la función policial, tenderán a mantener actualizados, en materias legislativas y científicas, a los elementos de los cuerpos de seguridad pública estatal y municipal. La formación será teórica y práctica.
+En general, los programas de capacitación y profesionalización, en sus diferentes niveles, tenderán a la actualización legislativa y científica, sin descuidar el aspecto práctico de la función de que se trate.
 
 El Instituto solicitará, en su caso, el registro ante la autoridad competente de sus programas de estudio para obtener el reconocimiento y validez oficiales correspondientes.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 92.
 
-La formación continua y actualización de conocimientos, serán obligatorias para todos los elementos de los cuerpos policiacos municipales, atendiendo a la necesidad de desarrollar nuevas funciones y destrezas, ante las necesidades cambiantes de la función de seguridad pública.
+Atendiendo a la necesidad de desarrollar nuevas funciones y destrezas que los requerimientos cambiantes del servicio exigen, la actualización de conocimientos será obligatoria para los servidores públicos encargados de la seguridad pública estatal y municipal y para todos los elementos de los cuerpos encargados de la vigilancia y custodia penitenciaria y tutelar.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 93.
 
-Los cursos para formación de mandos que impartirá el Instituto, estarán dirigidos a policías con formación inicial y tendrán por objeto la capacitación en la organización y manejo de los grupos policiales estatales y municipales.
+Los cursos para formación de mandos que impartirá el Instituto, estarán dirigidos a quienes cuenten con formación inicial y tendrá por objeto la capacitación en la organización y manejo de grupos.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 94.
 
-Los programas académicos de profesionalización y especialización profesional del Instituto, en su caso, tendrán el mismo rigor académico de las cátedras universitarias. Sólo podrá ingresar a este nivel, el personal con antecedentes de estudios de bachillerato o profesional, según corresponda.
+Los programas académicos a nivel profesional y de posgrado que imparta el Instituto, en su caso, tendrán el mismo rigor académico de las cátedras universitarias y sólo podrá ingresar a este nivel, quien cuente con bachillerato o licenciatura, según corresponda.
 
 El Instituto establecerá los requisitos y procedimientos para la revalidación y reconocimiento de estudios realizados en otras instituciones semejantes u homólogas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 95.
 
-A través de su reglamento, el Instituto establecerá los requisitos de selección e ingreso a los cursos de formación básica, actualización, de especialización técnica, de profesionalización y especialización profesional y a los de promoción y de formación de mandos.
+A través de su reglamento, el Instituto establecerá los requisitos de selección e ingreso a los cursos de formación básica, actualización, especialización técnica, especialización profesional y a los de promoción y de formación de mandos.
 
 Entre los requisitos para ingresar al Instituto deberán contarse los siguientes:
 
 I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos;
 
-II.- Ser de buena conducta y reconocida solvencia moral;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+II.- Tener cuando menos 18 años cumplidos a la fecha de iniciación del curso;
 
-III.- Poseer el grado de escolaridad mínimo de preparatoria y, en su caso, el que corresponda a los diversos niveles o modalidades de preparación;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+III.- Poseer el grado de escolaridad mínimo que corresponda a los diversos niveles o modalidades de preparación;
 
 IV.- No tener antecedentes penales ni estar sujeto a proceso penal por delito doloso;
 
-V.- Contar con la edad y el perfil físico, médico, ético y de personalidad necesarios para realizar las actividades policiales;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-VI.- No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+V.- Contar con el perfil físico, médico, ético y psicológico necesarios para realizar las actividades relativas a cada curso;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+VI.- No hacer uso de drogas o de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
 VII.- No padecer alcoholismo;
 
 VIII.- En su caso, tener acreditado el servicio militar nacional; y
 
-IX.- No estar suspendido ni haber sido destituido o inhabilitado por una institución o corporación policial.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+IX.- No estar suspendido ni haber sido destituido o inhabilitado para desarrollar actividades en el área de la seguridad pública.
 
 ###### ARTICULO 96.
 
@@ -1341,9 +1457,11 @@ Los integrantes de las policías preventivas, incluyendo a los Jefes y Oficiales
 
 La manifestación se hará por escrito y en forma directa, en los términos y con los datos que señale el Reglamento de la Ley Federal de Armas de Fuego y Explosivos.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 141.
 
-Los Jefes de las policías preventivas, remitirán a la Secretaría de la Defensa Nacional, en la forma que señala el Reglamento de la Ley Federal de Armas de Fuego y Explosivos, a través de la Coordinación Estatal de Policía Preventiva y Tránsito, una relación de las armas que se encuentren en su poder o de sus subalternos en cumplimiento de sus funciones.
+Los Jefes de las Policías Preventivas remitirán a la Secretaría de la Defensa Nacional, en la forma que señala el Reglamento de la Ley Federal de Armas de Fuego y Explosivos, a través del Secretario Ejecutivo, una relación de las armas que se encuentren en su poder o de sus subalternos en cumplimiento de sus funciones.
 
 ###### ARTICULO 142.
 
@@ -1355,7 +1473,9 @@ Dichas licencias tendrán validez mientras se desempeñe el cargo o empleo en la
 
 Los Presidentes Municipales de los Ayuntamientos procurarán que las licencias a que se refiere el artículo anterior, sean de carácter colectivo.
 
-A este efecto solicitarán, a través de la Coordinación Estatal de Seguridad Pública y Tránsito, a la Secretaría de la Defensa Nacional, que la licencia se expida estrictamente por el número de personas que figuren en la nómina de pago de la policía preventiva que corresponda.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+A este efecto solicitarán, a través del Secretario Ejecutivo, a la Secretaría de la Defensa Nacional que la licencia se expida estrictamente por el número de personas que figuren en la nómina de pago de la policía preventiva que corresponda.
 
 A la solicitud anterior ante la Secretaría de la Defensa Nacional, para la expedición de licencias colectivas, se deberá acompañar constancia de que el personal para el que se pretende la licencia, figura en las nóminas de pago.
 
@@ -1375,7 +1495,9 @@ Es obligatorio para los Ayuntamientos del Estado, obtener la información de la 
 
 También deberá comunicar a esa dependencia el extravío, la destrucción, el robo o el decomiso de las mismas en los treinta días siguientes a aquél en que se conozca el hecho, adjuntando la constancia de registro.
 
-Las funciones anteriores las realizarán los Ayuntamientos a través de la Coordinación Estatal de Policía Preventiva y Tránsito.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+Las funciones anteriores las realizarán los ayuntamientos por conducto del Secretario Ejecutivo.
 
 ###### ARTICULO 147.
 
@@ -1707,33 +1829,43 @@ Los servicios privados de seguridad, son auxiliares de la función de seguridad 
 
 Los particulares que se dediquen a la prestación de estos servicios, así como el personal que utilicen, se regirán en lo conducente por las normas de esta ley y demás aplicables a las instituciones de seguridad pública, incluyendo los principios constitucionales de actuación y desempeño, así como la obligación de aportar los datos para el registro de su personal y equipo y, en su caso, la de proporcionar oportunamente la información estadística al Sistema Estatal, a través de la instancia que corresponda.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 173.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, deberán obtener autorización previa del Gobierno del Estado, a través de la Secretaría de Gobierno, cuando los servicios se presten exclusivamente en el territorio de la Entidad, conforme a las bases que dispone esta ley y el Reglamento de Prestación de los Servicios Privados de Seguridad en el Estado de Sonora.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, deberán obtener autorización previa del Gobierno del Estado, a través del Secretario Ejecutivo, cuando los servicios se presten exclusivamente en el territorio de la Entidad, conforme a las bases que dispone esta Ley y el Reglamento de Prestación de los Servicios Privados de Seguridad en el Estado de Sonora.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 174.
 
-Corresponde al Gobernador del Estado, por conducto de la Secretaría de Gobierno:
+Corresponde al Gobernador del Estado, por conducto del Secretario Ejecutivo:
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-I.- Autorizar, previa opinión del Consejo Estatal de Seguridad Pública, el funcionamiento de las empresas o particulares que presten servicios privados de seguridad y llevar su registro;
+I.- Otorgar autorización a las empresas o particulares que cumplan los requisitos y condiciones fijados en esta Ley, los reglamentes respectivos y demás disposiciones aplicables, para prestar servicios privados de seguridad, así como llevar su registro;
 
 II.- Evaluar, previo pago de los derechos respectivos, el funcionamiento de los servicios privados de seguridad y la capacidad de sus empleados para prestar el servicio, determinando el tipo de capacitación que requieran;
 
 III.- Fijar los requisitos de forma para obtener la autorización e inscripción en el registro;
 
-IV.- Supervisar permanentemente al personal, los programas de profesionalización, el equipo y la operación de estos servicios. Para ello, los prestadores de estos servicios tendrán la obligación de proporcionar la información que se les solicite, y la Secretaría de Gobierno podrá realizar las visitas de verificación que estime necesarias, levantando acta de las mismas; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+IV.- Supervisar permanentemente al personal, los programas de profesionalización, el equipo y la operación de estos servicios. Para ello, los prestadores de estos servicios tendrán la obligación de proporcionar la información que se les solicite, y el Secretario Ejecutivo, podrá realizar las visitas de verificación que estime necesarias, levantando acta de las mismas; y
 
 V.- Sancionar conforme a lo dispuesto en esta ley, a los prestadores de este servicio, cuando funcionen sin autorización o dejen de cumplir con los requisitos establecidos en esta ley o en las demás disposiciones aplicables.
 
-Las atribuciones anteriores se realizarán por la Secretaría de Gobierno por conducto de la Coordinación Estatal de Seguridad Pública y Tránsito, sin perjuicio del ejercicio directo de las mismas por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+Las atribuciones anteriores se realizarán por el Secretario Ejecutivo, a través de la Dirección que se designe en su Reglamento Interior, sin perjuicio del ejercicio directo de las mismas por el Gobernador del Estado.
 
 ###### ARTICULO 175.
 
 Los servicios privados de seguridad solamente podrán presentarse en las siguientes modalidades:
 
-I.- Protección y vigilancia de personas o bienes fuera de las áreas públicas;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+I.- Protección y vigilancia de personas o bienes, así como la prestación de servicios relacionados con los mismos, en los términos de las disposiciones legales y reglamentarias aplicables;
 
 II.- Traslado y custodia de fondos y valores; y
 
@@ -1743,7 +1875,9 @@ III.- Investigación para proporcionar informes sobre los antecedentes, solvenci
 
 Los particulares o las sociedades que se dediquen a la prestación del servicio privado de seguridad, deberán sujetarse a los siguientes lineamientos:
 
-I.- Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana, que hayan obtenido la autorización y el registro correspondiente de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+I.- Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana, que hayan obtenido la autorización y el registro correspondiente del Secretario Ejecutivo;
 
 II.- Le está estrictamente prohibida la realización de funciones que, constitucional o legalmente, sean competencia exclusiva de los cuerpos de seguridad pública, del Ministerio Público o de las Fuerzas Armadas;
 
@@ -1767,9 +1901,11 @@ X.- Responderán solidariamente de los daños y perjuicios que cause su personal
 
 Ningún elemento en activo de las Policías Judicial o Municipal, podrá ser socio o propietario por sí o por interpósita persona de una empresa que preste servicios privados de seguridad en el Estado.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 178.
 
-Independientemente de la evaluación de los prestadores directos del servicio privado de seguridad y los cursos que obligatoriamente deberán tomar impartidos por el Instituto, los particulares o las empresas que ofrezcan el servicio, diseñarán e instrumentarán un programa permanente de capacitación y adiestramiento de su personal. Dicho programa deberá presentarse para su aprobación a la Coordinación Estatal de Seguridad Pública y Tránsito, la cual lo revisará periódicamente.
+Independientemente de la evaluación de los prestadores directos del servicio privado de seguridad y los cursos que obligatoriamente deberán tomar impartidos por el Instituto, los particulares o las empresas que ofrezcan el servicio, diseñarán e instrumentarán un programa permanente de capacitación y adiestramiento de su personal. Dicho programa deberá presentarse para su aprobación al Secretario Ejecutivo, quien lo revisará periódicamente.
 
 ###### ARTICULO 179.
 
@@ -1781,7 +1917,9 @@ II.- Multa de cien a cinco mil veces el salario mínimo general vigente en el lu
 
 III.- Suspensión temporal del registro hasta que se corrija el incumplimiento, con difusión pública de la segunda suspensión; y
 
-IV.- Cancelación del registro con difusión pública de la misma. En este caso, la Secretaría de Gobierno notificará la cancelación a las autoridades correspondiente (sic), para el cumplimiento de la medida.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+IV.- Cancelación del registro con difusión pública de las mismas. En este caso, el Secretario Ejecutivo notificará la cancelación a las autoridades correspondientes, para el cumplimiento de la medida.
 
 ###### ARTICULO 180.
 
@@ -2176,3 +2314,33 @@ Los procedimientos en trámite ante las instancias mencionadas en esta Ley se se
 ###### ARTICULO TERCERO.
 
 Dentro de los siguientes 60 días, contados a partir de la entrada en vigor del presente Decreto, el Consejo Estatal y los Consejos Municipales de Seguridad Pública, el Consejo del Instituto de Seguridad Pública del Estado y las Juntas de Honor, Selección y Promoción, deberán integrarse conforme lo dispone la presente reforma.
+
+P.O. 18 DE DICIEMBRE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de Enero de 2004.
+
+###### ARTICULO SEGUNDO.
+
+En el caso de las atribuciones de las dependencias que conforme a este Decreto pasen a ser competencia del Secretario Ejecutivo, la reasignación deberá efectuarse incluyendo al personal a su servicio, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para la atención de las atribuciones de que se trate.
+
+El Ejecutivo del Estado, por conducto de la Secretaria de Hacienda, con la participación del Secretario Ejecutivo, deberá concluir el traspaso a que se refiere el párrafo anterior, en un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de las dependencias correspondientes al Secretario Ejecutivo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas de este último estén en condiciones de continuar su tramitación, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interior del Secretario Ejecutivo y el de la Policía Estatal de Seguridad Pública, en un plazo no mayor de seis meses, contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTICULO QUINTO.
+
+Se abrogan la Ley que Reglamenta las Funciones de la Dirección de Prevención y Readaptación Social y el Decreto que crea el Centro de Ciencias Penales del Estado de Sonora, publicados en los Boletines Oficiales del Gobierno del Estado de fecha 26 de noviembre de 1972 y 23 de diciembre de 1991, respectivamente.
+
+###### ARTICULO SEXTO.
+
+Las funciones que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad otorga a la Dirección de Prevención y Readaptación Social, serán asumidas por el Secretario Ejecutivo a través de la Dirección General del Sistema Estatal Penitenciario.
+
+Asimismo, las funciones que la Ley de Tránsito del Estado de Sonora otorga a la Coordinación Estatal de Seguridad Pública y Tránsito serán asumidas por el Secretario Ejecutivo.
