@@ -4,7 +4,7 @@ identifier: "LGSC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-08-03"
-last_updated: "1994-08-03"
+last_updated: "2001-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSC"
 
 LEY GENERAL DE SOCIEDADES COOPERATIVAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de agosto de 1994.
 
@@ -105,6 +105,10 @@ Salvo pacto en contrario, el actor podrá elegir el órgano jurisdiccional que c
 ###### Artículo 10.
 
 Las sociedades que simulen constituirse en sociedades cooperativas o usen indebidamente las denominaciones alusivas a las mismas, serán nulas de pleno derecho y estarán sujetas a las sanciones que establezcan las leyes respectivas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+Se aplicará como legislación supletoria en materia de sociedades cooperativas, las disposiciones de la Ley General de Sociedades Mercantiles en lo que no se oponga a la naturaleza, organización y funcionamiento de aquéllas.
 
 ## Título II
 
@@ -210,7 +214,13 @@ Forman parte del Sistema Cooperativo las siguientes clases de sociedades coopera
 
 I.- De consumidores de bienes y/o servicios, y
 
-II.- De productores de bienes y/o servicios.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+II.- De productores de bienes y/o servicios, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2001)</small>
+
+III.- De ahorro y préstamo.
 
 ###### Artículo 22.
 
@@ -228,9 +238,11 @@ Los excedentes en las sociedades cooperativas de consumidores que reporten los b
 
 En caso de que los compradores de que habla el artículo 23 de esta Ley, ingresaran como socios a las sociedades cooperativas de consumo, los excedentes generados por sus compras, se aplicarán a cubrir y pagar su certificado de aportación. Si los compradores no asociados, no retirasen en el plazo de un año los excedentes a que tienen derecho ni hubieren presentado solicitud de ingreso a las cooperativas, los montos correspondientes se aplicarán a los fondos de reserva o de educación cooperativa, según lo determinen las bases constitutivas de dichas sociedades.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
 ###### Artículo 26.
 
-Las sociedades cooperativas de consumidores podrán dedicarse a actividades de abastecimiento y distribución, ahorro y préstamo, así como a la prestación de servicios relacionados con la educación o la obtención de vivienda.
+Las sociedades cooperativas de consumidores podrán dedicarse a actividades de abastecimiento y distribución, así como a la prestación de servicios relacionados con la educación o la obtención de vivienda.
 
 ###### Artículo 27.
 
@@ -260,9 +272,11 @@ Son sociedades cooperativas ordinarias, las que para funcionar requieren únicam
 
 Son sociedades cooperativas de participación estatal, las que se asocien con autoridades federales, estatales o municipales, para la explotación de unidades productoras o de servicios públicos, dados en administración, o para financiar proyectos de desarrollo económico a niveles local, regional o nacional.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
 ###### Artículo 33.
 
-Las sociedades cooperativas que desarrollen actividades de ahorro y préstamo de manera preponderante o complementaria, se regirán por esta Ley, por las leyes aplicables en la materia y por las disposiciones administrativas que determine la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Confederación Nacional respectiva y la del Consejo Superior del Cooperativismo.
+Las sociedades cooperativas que tengan por objeto realizar actividades de ahorro y préstamo se regirán por esta Ley, así como por lo dispuesto por la Ley de Ahorro y Crédito Popular.
 
 ### Capítulo III. Del funcionamiento y la administración
 
@@ -438,9 +452,11 @@ Las sociedades cooperativas en general, deberán de afiliar obligatoriamente a s
 
 El Fondo de Previsión Social se constituirá con la aportación anual del porcentaje, que sobre los ingresos netos, sea determinado por la Asamblea General y se aplicará en los términos del artículo anterior. Este porcentaje podrá aumentarse según los riesgos probables y la capacidad económica de la sociedad cooperativa.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2001)</small>
+
 ###### Artículo 59.
 
-El Fondo de Educación Cooperativa será constituido con el porcentaje que acuerde la Asamblea General, pero en todo caso dicho porcentaje no será inferior al 1% de los ingresos netos del mes.
+El Fondo de Educación Cooperativa será constituido con el porcentaje que acuerde la Asamblea General, pero en todo caso dicho porcentaje no será inferior al 1% de los excedentes netos del mes.
 
 ###### Artículo 60.
 
@@ -646,7 +662,7 @@ VI.- Realizar en común cualquier acto de comercio, desarrollo tecnológico o cu
 
 ###### Artículo 87.
 
-Las sociedades cooperativas, en especial aquéllas cuyo objeto social sea precisamente el ahorro y préstamo, podrán constituir uniones de crédito y bancos de fomento cooperativo, en los términos de la legislación aplicable y sus operaciones se ajustarán a las disposiciones que al efecto expida la Secretaría de Hacienda y Crédito Público.
+(DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
 ###### Artículo 88.
 
@@ -697,3 +713,27 @@ Cuarto.- A elección de los interesados, los asuntos relativos al registro de so
 México, D.F., a 13 de julio de 1994.- Dip. Miguel González Avelar, Presidente.- Sen. Ricardo Monreal Avila, Presidente.- Dip. José Raúl Hernández Avila, Secretario.- Sen. Oscar Ramírez Mijares, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 4 DE JUNIO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.-...
+
+...
+
+El artículo Tercero del presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción del artículo 26 contenido en el mismo, el cual entrará en vigor a los dos años de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las Sociedades de Ahorro y Préstamo, las Uniones de Crédito y las Sociedades Cooperativas que tengan intención de sujetarse a los términos establecidos en la Ley de Ahorro y Crédito Popular, deberán registrarse ante la Comisión Nacional Bancaria y de Valores en un término no mayor a seis meses contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación, manifestando al efecto su nombre, denominación, domicilio, número de socios y demás datos que sobre su actividad solicite dicho organismo.
+
+TERCERO.- Las Sociedades de Ahorro y Préstamo, las Uniones de Crédito que capten depósitos de ahorro, así como las Sociedades Cooperativas de Ahorro y Préstamo y aquéllas que cuenten con secciones de ahorro y préstamo, constituidas con anterioridad al inicio de la vigencia de la Ley de Ahorro y Crédito Popular, contarán con un plazo de dos años a partir de la fecha que establece el primer párrafo del artículo PRIMERO Transitorio anterior para solicitar de la Comisión Nacional Bancaria y de Valores la autorización para operar como Entidad, sujetándose a lo dispuesto por el artículo OCTAVO Transitorio y debiendo obtener el dictamen favorable de alguna Federación, con arreglo a lo dispuesto por la Ley de Ahorro y Crédito Popular.
+
+Concluido el plazo anterior, las sociedades y las Uniones de Crédito que no hubieren obtenido la autorización referida deberán abstenerse de captar recursos, en caso contrario se ubicarán en los supuestos de infracción previstos por la Ley de Ahorro y Crédito Popular y por las disposiciones que resulten aplicables.
+
+DÉCIMO.- Al momento de instalarse el primer consejo de administración de una Sociedad Cooperativa de Ahorro y Préstamo conforme a los términos previstos en la Ley de Ahorro y Crédito Popular, se determinarán por insaculación a los consejeros electos por la asamblea que fungirán en su encargo únicamente durante la primera mitad del periodo de duración determinado por la Entidad, a fin de proceder en periodos subsecuentes a la renovación por mitad del consejo de administración.
+
+Cuando el número de integrantes sea impar, se elegirá por insaculación durante la instalación del consejo de administración, al miembro excedente que formará parte de la primera mitad, a fin de proceder en periodos subsecuentes a la renovación parcial del mismo. En el caso del consejo de vigilancia, se procederá de la misma forma.
+
+DÉCIMO SEXTO.- Se derogan todas las disposiciones que se opongan a esta Ley.
