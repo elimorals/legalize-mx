@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1928-04-19"
+last_updated: "1928-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -109,9 +109,11 @@ De su elección e instalación.
 
 El Congreso del Estado se compondrá de representantes elegidos en su totalidad cada dos años, por los ciudadanos campechanos.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 19.
 
-Se elegirá un Diputado propietario y un suplente por cada seis mil habitantes o por una fracción que pase de tres mil. Los Municipios libres que en toda su circunscripción no alcanzasen esta última cifra, elegirán sin embargo un Diputado propietario y un suplente.
+Se elegirá un Diputado Propietario y un suplente por cada quince mil habitantes o por una fracción que pase de siete mil. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado propietario y un suplente pero siempre que cuenten cuando menos con tres mil quinientos habitantes, pues en caso contrario, quedará unido para los efectos de la elección al Municipio inmediatamente colindante que tenga menos número de habitantes, el que no reúna aquella condición.
 
 ###### Art. 20.
 
@@ -932,3 +934,9 @@ Unico. Las modificaciones a que se refieren los artículos anteriores surtirán 
 P.O. 19 DE ABRIL DE 1928.
 
 Este Decreto comenzará a surtir sus efectos legales el mismo día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 1928.
+
+Artículo primero: La presente reforma surtirá sus efectos legales a partir de las próximas elecciones que para Diputados al Congreso del Estado deberán efectuarse el primero de junio de mil novecientos veintinueve.
+
+Artículo segundo: Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
