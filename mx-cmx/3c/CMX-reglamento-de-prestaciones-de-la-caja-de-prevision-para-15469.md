@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-prestaciones-de-la-caja-de-prevision-para-15469"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-12-19"
-last_updated: "1997-11-17"
+last_updated: "2000-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15469&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,15 @@ issue_date: "1988-11-25"
 ---
 # REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL -- ANTES -- REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL-
 
-REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL DEPARTAMENTO DEL DISTRITO FEDERAL
+REGLAMENTO DE PRESTACIONES DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2000.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 19 de diciembre de 1988.
 
-Reglamento de Prestaciones de la Caja de Previsión para Trabajadores a Lista de Raya del Departamento del Distrito Federal.
+> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2000)</small>
+
+Reglamento de Prestaciones de la Caja de Previsión para Trabajadores a Lista de Raya del Gobierno del Distrito Federal.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -162,7 +164,11 @@ I. Para el otorgamiento de las pensiones, toda fracción de más de seis meses d
 
 II. Se considerará como interrupción en los servicios, el período que el trabajador haya dejado de laborar en un lapso que exceda de seis meses.
 
-III. Se tomarán en cuenta los períodos que haya laborado el trabajador del servicio civil en nómina Uno del Departamento, sujeto a prestaciones en el ISSSTE, siempre y cuando éstos no rebasen del tiempo trabajado a lista de raya y que esta Institución no le haya otorgado pensión por cesantía en edad avanzada. Las cuotas y aportaciones que no hayan sido cubiertas oportunamente por la causa anterior, las deberá cubrir el trabajador directamente a la Institución.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2000)</small>
+
+III. Se tomaran en cuenta los periodos que haya laborado el trabajador del Servicio Civil en nómina 1 del Gobierno y nómina 412, siempre y cuando éstos no rebasen el tiempo trabajado a nómina 5 y que esta Institución no le haya otorgado Pensión por Cesantía en Edad Avanzada, a excepción de los trabajadores que integren los Convenio de Agencia Civil. Las cuotas y aportaciones que no hayan sido cubiertas oportunamente por la causa anterior, las deberá cubrir el trabajador directamente a la Institución.
+
+En el supuesto de que el trabajador haya cotizado un periodo mayor en nómina 1 ó 412 al de nómina 5, será competente para conocer del trámite de las prestaciones que les correspondan por Ley, la Institución que haya recibido el mayor número de aportaciones.
 
 IV. Los trabajadores a lista de raya del Departamento que hubieren prestado servicios con anterioridad al 1°. de enero de 1962, fecha en que inició operaciones la Institución, y siempre que hayan pagado sus cuotas a partir de esa fecha, cumpliendo con los demás requisitos establecidos para disfrutar de pensión, tendrán derecho a la misma, computándoseles ese tiempo sin estar obligados a cubrir cuotas especiales. Si llegaran a fallecer, a sus familiares derechohabientes se les concederá la pensión correspondiente, reconociéndoles ese lapso sin pago alguno de cuotas.
 
@@ -1317,3 +1323,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 G.O. 17 DE NOVIEMBRE DE 1997.
 
 DEL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+G.O. 13 DE ENERO DE 2000.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
