@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-tutelar-para-menores-en-el-estado-de-zacatecas-8215"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-04-26"
-last_updated: "1997-07-05"
+last_updated: "2000-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO TUTELAR PARA MENORES EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2000.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 1986.
 
@@ -457,13 +457,17 @@ f).- El fundamento legal.
 
 El Consejo Tutelar para Menores podrá revisar y, en su caso, revocar sus resoluciones en cualquier tiempo, a petición de la parte interesada, para cuyo efecto deberán tomarse en cuenta los resultados de los tratamientos que se hubieren dispuesto para la rehabilitación del menor.
 
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 60.
 
-El Consejo cuidará que sus resoluciones sean debidamente ejecutadas. Para tal efecto, remitirá copia de las mismas al Director de la escuela de orientación u organismos(sic) que se encuentre el menor recibiendo el tratamiento.
+El Consejo cuidará que sus resoluciones sean debidamente ejecutadas. Para tal efecto, remitirá copia de las mismas al Director de la escuela de orientación u organismos en que se encuentre el menor recibiendo el tratamiento. Asimismo el Presidente del Consejo Estatal de los Derechos del Niño, para el seguimiento de la situación del menor.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 61.
 
-El encargado del establecimiento en que el menor esté recibiendo el tratamiento indicado, deberá informar al Consejo, con la periodicidad que éste determine sobre el resultado del mismo.
+El encargado del establecimiento en que el menor esté recibiendo el tratamiento indicado, deberá informar al Consejo Tutelar para Menores, con la periodicidad que éste determine sobre sus resultados. Asimismo informará al Consejo Estatal de los Derechos del Niño, para los efectos de su competencia.
 
 ###### ARTICULO 62.
 
@@ -549,7 +553,7 @@ Durante la época de su internamiento en la escuela de orientación, se impartir
 
 ###### ARTICULO 74.
 
-Cuando el menor padezca una enfermedad mental, epilepsia, alcoholismo, toxicomanía o cualquier forma de farmacodependencia, o sea ciego o sordomudo, el Consejo ordenará se le proporcione el tratamiento adecuado con atención médica especializada, ya sea en un establecimiento privado o público.
+Cuando el menor padezca una enfermedad mental, epilepsia, alcoholismo, toxicomanía o cualquier forma de farmacodependencia, o sea ciego o sordomudo, el Consejo ordenará se le proporcione el tratamiento adecuado con atención médica especializada, ya sea en establecimiento privado o público.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 1994)</small>
 
@@ -809,7 +813,7 @@ SON FACULTADES DEL PATRONATO:
 
 I.- Coadyuvar al sostenimiento material de la Escuela de Orientación;
 
-II.- Proponer las medidas idóneas para el buen funcionamiento de la Escuela.
+II.- Proponer las medidas idóneas para el buen funcionamiento de la Escuela;
 
 III.- Efectuar las gestiones que se requieran para obtener recursos económicos destinados a aumentar el patrimonio;
 
@@ -900,3 +904,7 @@ CUARTO.- El censo de la población interna menor de dieciocho años, deberá est
 QUINTO.- Las actuaciones practicadas por los órganos ministeriales y jurisdiccionales del fuero común, antes del inicio de vigencia de este Decreto, tendrán validez legal por lo que respecta a procesados, sentenciados o reos menores de dieciocho años, únicamente en lo que sean compatibles con el procedimiento que prevé el Código Tutelar para Menores del Estado de Zacatecas.
 
 SEXTO.- El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar de Menores.
+
+P.O. 29 DE MARZO DE 2000
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
