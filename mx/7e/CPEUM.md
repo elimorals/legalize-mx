@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1972-02-14"
+last_updated: "1972-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE FEBRERO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 1972.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1982,15 +1982,23 @@ c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproxi
 
 d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
 
-e).- Se establecerán centros para vacaciones y para recuperación, así como tiendas económicas para el beneficio de los trabajadores y sus familiares.
+e).- Se establecerán centros para vacaciones y para recuperación, así como tiendas económicas para beneficio de los trabajadores y sus familiares.
 
-f).- Se proporcionarán a los trabajadores habitaciones baratas en arrendamiento o venta, conforme a los programas previamente aprobados;
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1972)</small>
+
+f).- Se proporcionarán a los trabajadores habitaciones baratas, en arrendamiento o venta, conforme a los programas previamente aprobados. Además, el Estado mediante las aportaciones que haga, establecerá un fondo nacional de la vivienda a fin de constituir depósitos en favor de dichos trabajadores y establecer un sistema de financiamiento que permita otorgar a éstos crédito barato y suficiente para que adquieran en propiedad habitaciones cómodas e higiénicas, o bien para construirlas, repararlas, mejorarlas o pagar pasivos adquiridos por estos conceptos.
+
+Las aportaciones que se hagan a dicho fondo serán enteradas al organismo encargado de la seguridad social regulándose en su Ley y en las que corresponda, la forma y el procedimiento conforme a los cuales se administrará el citado fondo y se otorgarán y adjudicarán los créditos respectivos;
 
 XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria.
 
 Los conflictos entre el Poder Judicial de la Federación y sus servidores, serán resueltos por el Pleno de la Suprema Corte de Justicia de la Nación;
 
 XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, así como el personal de servicio exterior se regirán por sus propias leyes;
+
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1972)</small>
+
+El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
 
 XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
@@ -2701,3 +2709,7 @@ D.O.F. 14 DE FEBRERO DE 1972.
 DECRETO QUE REFORMA LA FRACCION XII DEL APARTADO A DEL ARTICULO 123.
 
 UNICO.- La presente reforma entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 10 DE NOVIEMBRE DE 1972.
+
+UNICO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
