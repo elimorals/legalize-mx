@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2003-03-10"
+last_updated: "2003-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -379,7 +379,9 @@ En contra de la resolución que resuelva el recurso de revisión interpuesto, pr
 
 ## TRANSITORIOS
 
-PRIMERO.- La presente Ley entrará en vigor, el día 1° de agosto del año 2003.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+
+PRIMERO.- La presente Ley entrará en vigor, el día 1° de enero del año 2004.
 
 SEGUNDO.- La Junta de Gobierno de la Procuraduría Estatal de Protección al Ambiente, deberá quedar constituida dentro del término de quince días hábiles siguientes a la vigencia de la presente Ley.
 
@@ -432,3 +434,9 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE AGOSTO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
