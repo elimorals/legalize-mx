@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1982-10-27"
+last_updated: "1983-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -951,9 +951,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1982)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 1983)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta, en Sesión Pública Extraordinaria del Congreso, que se verificará el primer domingo del mes de febrero de cada año. El informe correspondiente al año de 1982, deberá rendirlo el 31 de enero próximo.
+XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta, en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de enero de cada año.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -2016,3 +2016,7 @@ P.O. 27 DE OCTUBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE ENERO DE 1983.
+
+UNICO.- El presente Decreto inicia su vigencia a partir de su publicación en el Periódico Oficial del Estado.
