@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1923-11-10"
+last_updated: "1927-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 1923.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE OCTUBRE DE 1927.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -46,6 +46,10 @@ Los Magistrados Propietarios y Supernumerarios actualmente en ejercicio, cesará
 ###### Artículo 2°.
 
 El nuevo período de cuatro años, comenzará a contarse desde el día 1° de enero de 1924.
+
+G.G. 8 DE OCTUBRE DE 1927.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación, y el período de dos años a que el mismo se refiere empezará a contarse desde el día 1° de enero de 1928.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -885,7 +889,7 @@ Todo negocio judicial, sea criminal o del orden civil, no podrá tener más que 
 
 ###### Art. 113.
 
-A fin de hacer más expedita la administración de Justicia en el Estado, se establece el recurso de suspensión, que tendrá por objeto lograr por los más rápidos procedimientos, se mantengan las cosas en el estado que guarden, en tanto se dicta la resolución decisiva inmediata y sin perjuicio de la continuación de la secuela del juicio o proceso respectivos. La ley determinará los casos en que tal recursos podrá intentarse y el procedimiento que deba seguirse.
+A fin de hacer más expedita la administración de Justicia en el Estado, se establece el recurso de suspensión, que tendrá por objeto lograr por los más rápidos procedimientos, se mantengan las cosas en el estado que guarden, en tanto se dicta la resolución decisiva inmediata y sin perjuicio de la continuación de la secuela del juicio o proceso respectivos. La ley determinará los casos en que tal recurso podrá intentarse y el procedimiento que deba seguirse.
 
 ###### Art. 114.
 
@@ -910,6 +914,8 @@ El cargo de Juez de primera Instancia no es renunciable sino por causa grave que
 Habrá Jueces de primera Instancia en todas las Cabeceras de Distrito Judicial.
 
 #### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
 
 #### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
@@ -965,19 +971,25 @@ En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, l
 
 ###### Art. 135.
 
-Los Ayuntamientos serán Asambleas formadas por elección popular directa y durarán un año en su encargo, no pudiendo ser electos para el período siguiente ninguno de sus miembros propietarios o suplentes que llegaren a funcionar.
+Los Ayuntamientos serán asambleas deliberantes, y, como cuerpos colegiados, tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los Presidentes Municipales; estarán formados en elección popular directa, debiendo durar en funciones dos años y no pudiendo ser electos, para el período inmediato siguiente, ninguno de sus miembros propietarios o suplentes que hayan funcionado.
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 136.
 
-Los Ayuntamientos se compondrán: de un Presidente que llevará el nombre de Presidente Municipal y de cuatro o más vocales cuyo número se determinará en razón del censo del Municipio y que se llamarán Regidores. En todo caso será impar el número de miembros que integre el Ayuntamiento.
+Los Ayuntamientos se compondrán de: un jefe de la Asamblea, que se denominará Presidente Municipal y de varios miembros llamados Síndicos y Regidores, cuyo número tatal (sic) será siempre impar y se determinará en razón directa de la importancia de la Municipalidad que representen, en la forma que lo disponga la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 137.
 
-Cuando el Ayuntamiento se componga de cinco miembros pero de menos de nueve, formará parte de él un Síndico Procurador y cuando se componga de once o más, formarán parte de él dos Síndicos Procuradores.
+Cuando el número de miembros de un Ayuntamiento sea menor de nueve, formará parte de él un síndico Procurador; y cuando conste de nueve o más, serán dos los Síndicos que se elijan.
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
 
 ###### Art. 138.
 
-Los Ayuntamientos serán electos en una sola elección, distinguiéndose los Regidores por números de orden; del mismo modo se distinguirán los Síndicos cuando sean dos.
+Los miembros de un Ayuntamiento serán designados en una sola elección, distinguiéndose los Regidores lo mismo que los Síndicos, cuando éstos sean dos, por el orden numérico en que fueren electos.
 
 ###### Art. 139.
 
@@ -987,13 +999,15 @@ Por cada miembro del Ayuntamiento que se elija como propietario, se elegirá un 
 
 Para ser miembro de un Ayuntamiento será indispensable ser ciudadano mexicano y vecino del Municipio, en ejercicio de sus derechos; pero esta vecindad será de tres años para el Presidente Municipal.
 
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+
 ###### Art. 141.
 
-No podrán ser miembros de los Ayuntamientos:
+No podrán ser miembros de los ayuntamientos:
 
-I. Los militares en ejercicio ni los individuos de las fuerzas de policía y seguridad públicas;
+I. Los militares en ejercicio, los individuos que formen parte de la policía o de las Fuerzas de Seguridad Pública del Estado, los Tesoreros y Secretarios de las Corporaciones Municipales, que no se separen de sus cargos noventa días antes del de la elección.
 
-II. Los empleados públicos de la Federación o del Estado;
+II. Los empleados públicos dependientes de la Federación o del Estado.
 
 III. Los ministros de cualquier culto.
 
@@ -1103,9 +1117,11 @@ La administración de justicia en cada Municipio, estará a cargo de uno o más 
 
 Por cada juez Conciliador propietario, habrá dos suplentes que llevarán su respectivo número de orden.
 
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+
 ###### Art. 159.
 
-Los Jueces Conciliadores propietario y suplente, serán electos al mismo tiempo que los Ayuntamientos y durarán un año en su cargo.
+Los Jueces Conciliadores propietarios y suplentes, serán electos al mismo tiempo que los Ayuntamientos y durarán dos años en su encargo.
 
 ###### Art. 160.
 
