@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "1992-03-13"
+last_updated: "1993-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -111,9 +111,13 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones que en su caso
 
 El territorio del Estado de Yucatán, se divide para su administración judicial en los términos de esta Ley, en tres Departamentos Judiciales, con jurisdicción en los Municipios que en los artículos siguientes se expresan, y a los cuales corresponde la extensión territorial a que se refiere la Constitución Política del Estado.
 
+> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 7.
 
-El Primer Departamento Judicial está constituido por la parte territorial comprendida en los Municipios de Mérida, Acanceh, Cuzamá, Homún, Seyé, Abalá, Tecoh, Timucuy, Hunucmá, Kinchil, Samahil, Tetiz, Ucú, Umán, Izamal, Hoctún, Kantunil, Sudzal, Tahmek, Tekantó, Tepakán, Xocchel, Maxcanú, Celestún, Chocholá, Halachó, Kopomá Opichén, Kanasín, Motul, Baca, Bokobá, Dzemul, Muxupip, Sinanché, Telchac Pueblo, Telchac Puerto, Progreso, Sotuta, Cantamayec, Hocabá, Huhí, Sanahcat, Yaxcabá, Tixkokob, Cacalchén, Conkal, Chicxulub, Ixil, Mocochá, Tixpéhual, Yaxkukul, Muna, Yobaín, Dzidzantún, Cansahcab, Suma, Teya y Tekal de Venegas, la cabecera de este Departamento será la Ciudad de Mérida, del Municipio de su nombre.
+El Primer Departamento Judicial está constituido por la parte territorial comprendida en los Municipios de Mérida, Acanceh, Cuzamá, Homún, Seyé, Abalá, Tecoh, Timucuy, Hunucmá, Kinchil, Samahil, Tetiz, Ucú, Umán, Izamal, Hoctún, Kantunil, Sudzal, Tahmek, Tekantó, Tepakán, Xocchel, Maxcanú, Celestún, Chocholá, Halachó, Kopomá Opichén, Kanasín, Motul, Baca, Bokobá, Dzemul, Muxupip, Sinanché, Telchac Pueblo, Telchac Puerto, Progreso, Sotuta, Cantamayec, Hocabá, Huhí, Sanahcat, Yaxcabá, Tixkokob, Cacalchén, Conkal, Chicxulub, Ixil, Mocochá, Tixpéhual, Yaxkukul, Muna, Yobaín, Dzidzantún, Dzilam de Bravo, Dzilam González, Cansahcab, Suma, Teya y Tekal de Venegas.
+
+La cabecera de este Departamento será la Ciudad de Mérida, del municipio de su nombre.
 
 ###### ARTICULO 8.
 
@@ -121,11 +125,13 @@ El Segundo Departamento Judicial está constituído por la parte de Territorio c
 
 La cabecera de este Departamento será la Ciudad de Tekax, del Municipio de su nombre.
 
+> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 9.
 
-El Tercer Departamento Judicial está constituído por la parte de Territorio comprendido en los Municipios de Espita, Cenotillo, Dzitás, Quintana Roo, Sucilá, Tunkás, Temax, Buctzotz, Dzoncauich, Dzilam de Bravo, Dzilam González, Tizimín, Calotmul, Panabá, Río Lagartos, San Felipe, Valladolid, Cuncunul, Chemax, Chichimilá, Tekom, Temozón, Tinum, Tixcacalcupul, Uayma, Chankom, Kaua y Chikindzonot.
+El Tercer Departamento Judicial está constituido por la parte de Territorio comprendido en los Municipios de Espita, Cenotillo, Dzitás, Quintana Roo, Sucilá, Tunkás, Temax, Buctzotz, Dzoncauich, Tizimín, Calotmul, Panabá, Río Lagartos, San Felipe, Valladolid, Cuncunul, Chemax, Chichimilá, Tekom, Temozón, Tinum, Tixcacalcupul, Uayma, Chankom, Kaua y Chikindzonot.
 
-La cabecera de este Departamento será la Población de Ebtún, del Municipio de Valladolid.
+La cabecera de este Departamento será la Población de Ebtún, Municipio de Valladolid.
 
 ###### ARTICULO 10.
 
@@ -153,7 +159,7 @@ DE LOS MAGISTRADOS.
 
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia se integrará por seis Magistrados denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; y funcionará en Pleno o en Salas, según lo determine esta Ley y las demás leyes relativas. Uno de los Magistrados será el Presidente del Tribunal. Habrá seis Magistrados suplentes y para el despacho de los asuntos tendrá un Secretario General de Acuerdos, dos Secretarios que se denominarán Primero y Segundo y los Proyectistas y demás Auxiliares que fueren necesarios.
+El Tribunal Superior de Justicia se integrará por seis Magistrados denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; y funcionará en Pleno o en Salas, según lo determine esta Ley y las demás Leyes relativas. Uno de los Magistrados será el Presidente del Tribunal. Habrá seis Magistrados suplentes y para el despacho de los asuntos tendrá un Secretario General de Acuerdos, dos Secretarios que se denominarán Primero y Segundo y los Proyectistas y demás Auxiliares que fueren necesarios.
 
 ###### ARTICULO 14.
 
@@ -347,7 +353,7 @@ Las Salas sesionarán en audiencia pública, por lo menos un día hábil de cada
 
 ###### ARTICULO 32.
 
-Los asuntos de Defensa Social que se inicien del día primero al diez de cada mes corresponderán al Magistrado Primero de la Primera Sala; los que se inicien del once al veinte al Magistrado Segundo y los que se inicien del veintiuno al último día de cada mes al Magistrado Tercero. Cada uno de ellos deberá presentar sus ponencias para su discusión, votación y, en su caso, aprobación. Se entenderá como fecha de inicio la del día que se haya admitido el asunto en Primera Instancia, siempre que la Segunda tenga por objeto la revisión de una sentencia definitiva; en los demás casos servirá de base la fecha de la resolución impugnada.
+Los asuntos de Defensa Social que se inicien del día primero al diez de cada mes corresponderán al Magistrado Primero de la Primera Sala; los que se inicien del once al veinte al Magistrado Segundo y los que se inicien del veintiuno al último día de cada mes al Magistrado Tercero. Cada uno de ellos deberá presentar sus ponencias para su discusión, votación y, en su caso, aprobación. Se entenderá como fecha de inicio la del día que se haya admitido el asunto en Primera Instancia, siempre que la segunda tenga por objeto la revisión de una sentencia definitiva; en los demás casos servirá de base la fecha de la resolución impugnada.
 
 ###### ARTICULO 33.
 
@@ -445,9 +451,11 @@ DE LA ORGANIZACION DE LOS JUZGADOS DEPENDIENTES DEL TRIBUNAL SUPERIOR DE JUSTICI
 
 DE LOS JUECES DE PRIMERA INSTANCIA.
 
+> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 42.
 
-En el Primer Departamento Judicial habrá seis Jueces del ramo de Defensa Social, que se denominarán, Primero, Segundo, Tercero, Cuarto, Quinto y Sexto de Defensa Social, cuatro Jueces para las ramas Civil y Mercantil que se denominarán Primero, Segundo, Tercero y Cuarto de lo Civil y tres Jueces que conocerán de los asuntos que atañen a la familia y que se denominarán Primero, Segundo y Tercero de lo Familiar. Los Jueces mencionados conocerán en primera instancia de los asuntos de los cuales se surta competencia para ellos por razón de las materias indicadas.
+En el Primer Departamento Judicial habrá ocho Jueces del ramo de Defensa Social, que se denominarán Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo y Octavo de Defensa Social, seis Jueces para las ramas Civil y Mercantil que se denominarán Primero, Segundo, Tercero, Cuarto, Quinto y Sexto de lo Civil y cuatro Jueces que conocerán de los asuntos que atañen a la familia y que se denominarán Primero, Segundo, Tercero y Cuarto de lo Familiar. Los Jueces mencionados conocerán en primera instancia de los asuntos de los cuales se surta competencia para ellos por razón de las materias indicadas.
 
 ###### ARTICULO 43.
 
@@ -475,6 +483,8 @@ V.- No tener parentesco con algún Magistrado en ejercicio, ni con el Procurador
 
 VI.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 46.
 
 Son atribuciones y obligaciones de los Jueces de Primera Instancia:
@@ -485,7 +495,7 @@ II.- Remitir al Magistrado visitador y al Presidente del Tribunal, cuando lo sol
 
 III.- Remitir a las Autoridades Federales, Estatales y Municipales los datos e informes estadísticos que soliciten conforme a la Ley;
 
-IV.- Visitar los Juzgados de Paz de sus respectivos Departamentos, cuando lo estimen necesario, o cuando el Pleno del Tribunal así lo acuerde;
+IV.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
 V.- En los primeros cinco días del mes de Noviembre de cada año, remitir al Tribunal Superior un informe sobre las actividades desarrolladas por el Juzgado a su cargo, conteniendo la relación de negocios conocidos y fallados durante el período anual anterior;
 
@@ -525,13 +535,17 @@ I.- Tener a su cargo y llevar al corriente, bajo su responsabilidad, los libros 
 
 II.- Conservar en su poder el sello del Juzgado, facilitándolo a los demás empleados cuando lo necesiten para el desempeño de sus funciones;
 
-III.- Cuidar y vigilar que el archivo del Juzgado se arregle en forma técnica y ejercer, bajo su más estricta responsabilidad, la custodia y vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes;
+III.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
-IV.- Recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan y los documentos que se acompañen. Asimismo, deben poner razón idéntica en la copia, cuando se exhiba, con la firma del que recibe el escrito y el sello del Juzgado, para que dicha copia quede en poder del propio interesado para su resguardo;
+> <small>(REFORMADA, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
+IV.- En ausencia de la Secretaria Auxiliar, recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan y los documentos que se acompañen. Asimismo, deben poner razón idéntica en la copia, cuando se exhiba, con la firma del que recibe el escrito y el sello del Juzgado, para que dicha copia quede en poder del propio interesado para su resguardo;
 
 V.- Dar cuenta diariamente a sus Jueces, bajo su responsabilidad y dentro de las veinticuatro horas siguientes en la presentación, con todos los escritos y promociones en los negocios de la competencia de aquéllos, así como de los oficios y demás documentos que se reciban en el Juzgado;
 
-VI.- Autorizar los despachos, exhortos, Actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez;
+> <small>(REFORMADA, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
+VI.- Autorizar los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez, entregando la audiencia diaria a la Secretaria Auxiliar;
 
 VII.- Asentar en los expedientes las certificaciones relativas o términos de prueba y las demás razones que exprese la Ley o el Juez ordene;
 
@@ -539,19 +553,19 @@ VIII.- Asistir o intervenir personalmente en todas las diligencias que practique
 
 IX.- Expedir las copias autorizadas que la Ley determine o deban darse a las partes, en virtud de decreto Judicial;
 
-X.- Cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellando entre foja y foja las actuaciones, oficios y demás documentos que lo requieran, rubricando aquéllos en el centro del escrito;
+X.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
 XI.- Guardar en el secreto del Juzgado, bajo su más estricta responsabilidad, los pliegos, escritos, documentos, títulos, valores y certificados de depósito, dejando constancia certificada en el expediente;
 
-XII.- Inventariar y conservar en su poder los expedientes, incluso los que se mantengan en el archivo del Juzgado, mientras no se remitan al archivo Judicial o al Superior en su caso, y entregarlos con las formalidades legales, cuando deba tener lugar la remisión;
+XII.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
-XIII.- Proporcionar a los interesados los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal, siempre que no estén en poder de los Actuarios y que sea en su presencia, sin extraer las actuaciones de la oficina.
+XIII.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
-XIV.- Entregar puntualmente al Actuario que le corresponda, mediante recibo los expedientes en que haya resoluciones para notificar y recogerlos una vez diligenciados;
+XIV.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
 XV.- Rendir al Juez los informes que solicite;
 
-XVI.- Remitir al archivo Judicial, a la superioridad o al sustituto legal, los expedientes, en sus respectivos casos;
+XVI.- (DEROGADA, D.O. 1 DE DICIEMBRE DE 1993)
 
 XVII.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Juzgado ya sea que se refieran a negocios Judiciales del mismo o al desahogo de los oficios que se manden librar en las determinaciones respectivas dictadas en los expedientes;
 
@@ -567,17 +581,31 @@ I.- Enviar a la Dependencia respectiva, dentro de veinticuatro horas de haberse 
 
 II.- Dar a conocer por escrito a la propia dependencia las resoluciones que se dicten en los procesos, siempre que se refieran a la libertad o condena definitiva de los procesados.
 
+> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 51.
 
 Los Secretarios Auxiliares tendrán las siguientes atribuciones y obligaciones:
 
-I.- Atender a litigantes y personas interesadas en los procedimientos que cursen en los Juzgados respecto a la información del estado que guardan los mismos; facilitar los expedientes conforme a lo previsto en la fracción XIII del Artículo 49 de esta Ley;
+I.- Atender a litigantes y personas interesadas en los procedimientos que cursen en los Juzgados respecto a la información del estado que guardan los mismos;
 
-II.- Clasificar y ordenar los expedientes a fin de hacer expedita su localización, para proveer en ellos o facilitarlos para información a las partes que intervienen;
+II.- Recibir los escritos que se les presenten, asentando al calce la razón del día y hora de la presentación, expresando las fojas que contengan y los documentos que se acompañen. Asimismo, deben poner razón idéntica en la copia, cuando se exhiba, con la firma de quien recibe el escrito y el sello del Juzgado, para que dicha copia quede en poder del propio interesado para su resguardo y dar cuenta el mismo día a la Secretaria de Acuerdos con las promociones que haya recibido;
 
-III.- Colaborar con el Secretario de Acuerdos en todas y cada una de las obligaciones y atribuciones a que se contraen los Artículos 49 y 50 de la presente Ley y su reglamento; y
+III.- Cuidar y vigilar que el archivo del Juzgado se arregle en forma técnica y ejercer bajo su más estricta responsabilidad la custodia y vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes;
 
-IV.- Las demás que le confiera el Juez de su adscripción, las disposiciones de esta Ley y su reglamento.
+IV.- Clasificar y ordenar los expedientes a fin de hacer expedita su localización, para proveer en ellos o facilitarlos para información a las partes que intervienen; cuidar que los expedientes sean debidamente foliados al agregarse cada una de las hojas, sellando entre foja y foja las actuaciones, oficios y demás documentos que lo requieran, rubricando aquéllos en el centro del escrito;
+
+V.- Entregar puntualmente al Actuario que le corresponda, mediante recibo, los expedientes en que haya resoluciones para notificar y recogerlos una vez diligenciados;
+
+VI.- Inventariar y conservar en su poder los expedientes, incluso los que se mantengan en el archivo del Juzgado, mientras no se remitan al Archivo Judicial o al Superior en su caso y entregarlos con las formalidades legales, cuando deba tener lugar la remisión;
+
+VII.- Proporcionar a los interesados los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal, siempre que no estén en poder de los Actuarios y que sea en su presencia, sin extraer las actuaciones de la oficina;
+
+VIII.- Remitir al Archivo Judicial, a la Superioridad o al sustituto legal, los expedientes en sus respectivos casos;
+
+IX.- Colaborar con el Secretario de Acuerdos en todas y cada una de las obligaciones y atribuciones a que se contraen los artículos 49 y 50 de la presente Ley y su reglamento; y
+
+X.- Las demás que le confiera el Juez de su adscripción, de conformidad con las disposiciones de esta Ley y su reglamento.
 
 ### CAPITULO III. DE LOS JUZGADOS DE DEFENSA SOCIAL
 
@@ -849,9 +877,11 @@ Los Jueces, para designar síndicos e interventores de concursos y quiebras, alb
 
 Habrán dos Oficialías de Partes, la primera encargada de distribuir los negocios que deban iniciarse, bien se trate de jurisdicción contenciosa, mixta o voluntaria, de que hayan de conocer cada uno de los Juzgados Civiles y de los de lo Familiar, procediéndose de la siguiente manera: el titular de la Oficialía será receptor de los documentos y les pondrá la fecha y hora de recibo de los mismos y su firma entregándolos de inmediato bajo su más estricta responsabilidad, al Secretario de Juzgado que corresponda, de acuerdo con sendos Libros de Registro que se llevarán para el caso. Otorgará asimismo recibo, si le fuere solicitado, del escrito o documentos presentados. La segunda se encargará de distribuir las averiguaciones recibidas de que deban conocer cada uno de los Juzgados de Defensa Social, cuidando que en la misma exista orden y equidad.
 
+> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 85.
 
-Los Titulares de las Oficialías de Partes serán funcionarios de confianza, cuando menos Pasantes de Derecho de reconocida honorabilidad. Las ausencias accidentales o temporales que no excedan de un mes del Oficial de Partes en Materia Civil, Mercantil y de lo Familiar serán suplidas, en su orden, por los Secretarios del Tribunal Superior de Justicia, en cuyo caso la recepción de documentos se hará en la Secretaría respectiva. Las ausencias accidentales y temporales del Oficial de Partes en Materia de Defensa Social, serán suplidas por designación que hará el Pleno del Tribunal Superior de Justicia del Estado.
+Los Titulares de las Oficialías de Partes serán funcionarios de confianza y de reconocida honorabilidad y que acrediten que hayan concluido estudios de Bachillerato o equivalente. Las ausencias accidentales o temporales que no excedan de un mes del Oficial de Partes en Materia Civil, Mercantil, de lo Familiar y en Materia de Defensa Social, serán suplidas por designación que hará el Presidente del Tribunal Superior de Justicia del Estado.
 
 ### CAPITULO IV. UNIDAD DE ADMINISTRACION DEL PRESUPUESTO DEL PODER JUDICIAL
 
@@ -889,13 +919,15 @@ El Tribunal y los Juzgados de Defensa Social, de lo Civil y de lo Familiar y los
 
 Los expedientes y documentos entregados serán anotados en un libro general de entrada y en otro que se llevará por orden alfabético, marcándoseles con el sello de la oficina y arreglándolos convenientemente para que no sufran deterioro. Serán clasificados y depositados según el departamento a que correspondan y controlados mediante un sistema de tarjetas índices.
 
+> <small>(REFORMADO, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 92.
 
-Por ningún motivo se extraerán expedientes o documento alguno del Archivo Judicial, a no ser por orden escrita del Presidente del Tribunal, aún cuando medie solicitud de la autoridad que lo haya remitido a la oficina, de quien legalmente lo sustituya o de cualquiera otra dependencia. La orden se colocará en el lugar que ocupe el expediente extraído y el conocimiento respectivo de salida de éste será suscrito por el personal legalmente autorizado para recibirlo.
+Los expedientes que integran el acervo del Archivo Judicial podrán salir del mismo, mediante solicitud suscrita por la autoridad que lo haya remitido, por quien legalmente lo sustituya o por el Presidente del Tribunal Superior de Justicia del Estado; el personal legalmente autorizado al efecto, suscribirá el respectivo conocimiento de salida y recabará el recibo correspondiente.
 
 ###### ARTICULO 93.
 
-El encargado del Archivo puede expedir, previa autorización del Presidente del Tribunal, copia simple de los documentos o expedientes que estén depositados en dicha oficina.
+(DEROGADO, D.O. 1 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 94.
 
@@ -931,7 +963,9 @@ La Unidad de Administración del Presupuesto, del Poder Judicial del Estado esta
 
 I.- Un Director;
 
-II.- Dos Jefes de Departamento; y
+> <small>(REFORMADA, D.O. 1 DE DICIEMBRE DE 1993)</small>
+
+II.- Tres Jefes de Departamento; y
 
 III.- Por los demás empleados que fueren necesarios para el desarrollo y funciones de dicha Unidad.
 
@@ -1264,3 +1298,19 @@ LIC. DULCE MARIA SAURI RIANCHO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 1 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Juzgados de Séptimo de Defensa Social y Quinto de lo Civil entrarán en funciones el día dos de diciembre de mil novecientos noventa y tres.
+
+###### ARTICULO TERCERO.
+
+Los Juzgados Octavo de Defensa Social, Sexto de lo Civil y Cuarto de lo Familiar, entrarán en funciones cuando así lo acuerde el Pleno del Tribunal Superior de Justicia del Estado de Yucatán.
