@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1980-07-23"
+last_updated: "1980-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1980.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2865,7 +2865,7 @@ pasaje 40.00 "
 
 d).- Para vehículos de servicio exclusivo de turismo 100.00 "
 
-XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00"
+XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00 "
 
 XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público
 
@@ -3771,7 +3771,45 @@ ART. 364.- La devolución de los depósitos por cauciones, se harán en los caso
 
 ### CAPITULO UNICO
 
-ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en impuestos y otros ingresos federales.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
+
+ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
+
+Del total que reciba el Estado por este concepto, transferirá a los municipios el 20%, distribuyéndose en los siguientes porcientos:
+
+AHOME 14.55%
+
+EL FUERTE 2.93%
+
+CHOIX 1.97%
+
+GUASAVE 7.66%
+
+SINALOA 2.62%
+
+ANGOSTURA 2.26%
+
+MOCORITO 2.61%
+
+SALVADOR ALVARADO 4.56%
+
+BADIRAGUATO 1.95%
+
+CULIACAN 28.01%
+
+ELOTA 1.93%
+
+COSALA 1.86%
+
+SAN IGNACIO 1.95%
+
+MAZATLAN 18.35%
+
+CONCORDIA 1.95%
+
+ROSARIO 2.53%
+
+ESCUINAPA 2.31%
 
 ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
 
@@ -5190,6 +5228,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 23 DE JULIO DE 1980.
 
 DECRETO NO. 207 QUE REFORMA EL ART. 287
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE AGOSTO DE 1980.
 
 ###### ARTICULO UNICO.
 
