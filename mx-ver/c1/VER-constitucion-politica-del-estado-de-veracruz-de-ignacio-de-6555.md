@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1983-11-10"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -79,13 +79,13 @@ G.O. 1 DE NOVIEMBRE DE 1938.
 
 SE REFORMAN LOS ARTICULOS 38, 68, 82, 87, 97, 98, 99, 101, 102, 103 Y 105 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
-Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
+Las presente reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
 
 G.O. 1 DE NOVIEMBRE DE 1938.
 
 SE REFORMA EL ARTICULO 91 DE LA CONSTITUCION POLITICA LOCAL.
 
-Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
+Esta reformas surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
 
 G.O. 1 DE DICIEMBRE DE 1938.
 
@@ -671,7 +671,9 @@ XXXVII. Expedir las leyes sobre el trabajo conforme a las bases establecidas en 
 
 XXXVIII. Organizar en el territorio del Estado el sistema penal por Colonias, Penitenciarías o Presidios sobre la base del trabajo como medio de regeneración;
 
-XXXIX. Expedir las bases generales de la policía a las que deberán sujetarse los Ayuntamientos para la formación de los reglamentos respectivos;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XXXIX. Establecer las bases normativas para que los ayuntamientos expidan los bandos de policía y buen Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez;
 
 XL. Aprobar la legislación que proponga la Dirección General de Salubridad, por medio del Ejecutivo del Estado, y dictar las disposiciones conducentes a la represión del alcoholismo. Una ley establecerá, desde luego, dicha dirección General, determinando las bases de su organización, y funcionamiento;
 
@@ -723,9 +725,9 @@ VI. Usurpar las facultades de los Poderes Ejecutivo y Judicial, y mezclarse en e
 
 VII. Otorgar dispensas por revalidación en los estudios que determinen las leyes sobre enseñanza pública, para el efecto de obtener títulos profesionales;
 
-> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
 
-VIII. Condonar los impuestos causados a favor de los Municipios.
+VIII. Establecer exenciones o subsidios respecto de los impuestos, derechos, productos, aprovechamientos, contribuciones o cualesquiera otro tipo de ingreso fiscal municipal en favor de personas físicas o morales, ni de instituciones oficiales o privadas.
 
 ###### Artículo 70.
 
@@ -797,21 +799,57 @@ V. Ser del estado seglar.
 
 Los Ayuntamientos durarán en su cargo tres años y no podrán ser reelectos, debiendo instalarse en día 1°. de diciembre inmediato a su elección.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 114.
 
-La Ley reglamentaria Municipal se sujetará a las bases siguientes:
+Las leyes reglamentarias municipales se sujetarán a las bases siguientes:
 
-I. Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones municipales que señale la Legislatura;
+I. Los municipios estarán investidos de personalidad jurídica y administrarán libremente su patrimonio conforme a la Ley;
 
-II. El Estado puede percibir un tanto por ciento, que señalará la Legislatura, sobre las rentas municipales, en el caso de que sus propios recursos no basten para cubrir sus servicios; y recíprocamente, señalará a los Municipios cantidades supletorias tomadas de su erario, cuando dichos Municipios no perciban lo suficiente para atender a sus necesidades;
+II. Los municipios administrarán libremente su Hacienda, la cual se formará de los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones y todos los demás ingresos fiscales que la Legislatura establezca a su favor;
 
-III. Al organizar los Municipios y fijar su número y condiciones para la creación de otros nuevos, cuidará de que queden constituídos por el mayor número de habitantes para que puedan vivir con sus propios elementos;
+III. Los municipios percibirán los impuestos, derechos, productos, contribuciones y demás ingresos fiscales, incluso las tasas adicionales que decrete el Estado sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, así como aquellos que tengan por base el cambio de valor de los inmuebles;
 
-IV. El Ejecutivo del Estado podrá nombrar Inspectores con el objeto de examinar la contabilidad, verificar las entradas y salidas de los fondos, vigilar los servicios públicos e informar sobre las faltas que en todos los ramos encontraren, de acuerdo, en cada caso, con las instrucciones que reciban;
+IV. Los municipios percibirán todos aquellos ingresos provenientes de la prestación de servicios públicos a su cargo;
 
-V. Cada año los Municipios remitirán a la Legislatura para su revisión y aprobación, las cuentas del anterior y los presupuestos para el siguiente.
+V. Las participaciones federales serán cubiertas a los municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura;
+
+VI. Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones previstas en las fracciones III y IV de este artículo, cuando su desarrollo económico y social lo haga necesario;
+
+VII. Cuando el desarrollo económico y social de los municipios o de uno de ellos lo hagan necesario, podrán convenir con el Estado para asumir la ejecución, la operación de obras y la prestación de servicios que otorgue éste;
+
+VIII. La Legislatura analizará y aprobará la Ley de Ingresos de los ayuntamientos y revisará sus cuentas públicas, cuando menos una vez al año;
+
+IX. Los presupuestos de egresos serán aprobados por los ayuntamientos, según los ingresos disponibles y conforme a las bases normativas que para tal efecto expida la Legislatura;
+
+X. Los municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+a). Agua potable y alcantarillado;
+
+b). Alumbrado público;
+
+c). Limpia pública;
+
+ch). Mercados y centrales de abasto;
+
+d). Panteones;
+
+e). Rastros;
+
+f). Calles, parques y jardines;
+
+g). Policía Municipal;
+
+h). Tránsito Municipal; e
+
+i). Los demás que la Legislatura determine según las condiciones territoriales, socio-económicas y la capacidad administrativa y financiera de los municipios;
+
+XI. Previo acuerdo entre sus ayuntamientos y con sujeción a la Ley, los municipios podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan;
+
+XII. Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencia y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios; y
+
+XIII. Los municipios poseerán facultades para expedir, de acuerdo con las bases normativas que establezca la Legislatura, los bandos de policía, buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivos ámbitos de validez.
 
 ### CAPITULO VIII.
 
@@ -1429,9 +1467,17 @@ XXVII. Tener bajo su inmediata dependencia la policía, donde residan los Podere
 
 XXVIII. Fomentar, que los recursos naturales sean utilizados en forma racional, estableciendo políticas adecuadas y las normas tendientes a su cuidado, conservación y óptimo aprovechamiento;
 
-> <small>(REFORMADA, G.O. 18 DE ENERO DE 1979)</small>
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
 
-XXIX. Las demás que le conceda expresamente esta Constitución.
+XXIX. Convenir con la Federación, asumir por parte del Estado el ejercicio de las funciones, la ejecución, la operación de obras y la prestación de servicios públicos de aquélla, cuando el desarrollo económico y social lo haga necesario;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XXX. Convenir con los municipios del Estado, a efecto de que éstos asuman el ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos estatales, cuando el desarrollo económico y social lo haga necesario;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XXXI. Las demás que le concede expresamente esta Constitución y sus leyes reglamentarias.
 
 ###### Artículo 88.
 
@@ -1628,3 +1674,7 @@ G.O. 10 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor el día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO. La presente Ley entrará en vigor al siguiente día de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
