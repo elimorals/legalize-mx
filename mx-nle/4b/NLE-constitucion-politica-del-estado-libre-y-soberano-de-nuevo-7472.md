@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1984-10-29"
+last_updated: "1984-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -387,7 +387,9 @@ XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a l�
 
 XIX.- Conceder conmutación de pena y rehabilitación de derechos en los casos y con las condiciones que disponga la Ley
 
-XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior Tribunal de Justicia, que no sean las previstas en los arts. 76 fracción VIII y 105 de la Constitución Federal.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior Tribunal de Justicia.
 
 XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que previenen los arts. 89, 90 y 91 de esta Constitución.
 
@@ -407,11 +409,13 @@ XXVI.- Conceder o negar a los menores habilitación de edad para administrar sus
 
 XXVII.- Autorizar al Ejecutivo para crear fuerzas de servicio temporal cuando lo demanden las necesidades del Estado.
 
-> <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
-XXVIII.- Erigirse en Gran Jurado para declarar si ha o no lugar a formación de causa, cuando por delitos comunes fueren acusados los Diputados, el Gobernador, los Magistrados, el Procurador General de Justicia y cualquiera de los Secretarios del Despacho del Ejecutivo del Estado, en los términos del Artículo 106 de esta Constitución.
+XXVIII.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 112.
 
-XXIX.- Conocer como Jurado de Declaración de los delitos y faltas cometidos en el ejercicio de su cargo por los Funcionarios de que habla el articulo anterior, conforme a lo preceptuado por el art. 108 de esta Constitución.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+XXIX.- Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
 XXX.- Determinar el número máximo de los ministros de cultos, conforme a la facultad que le concede el art. 130 de la Constitución General de la República.
 
@@ -873,11 +877,13 @@ I.- Conocer en grado de revisión de los negocios civiles, familiares y criminal
 
 II.- Señalar a cada Juez el Distrito Judicial, su número y el ramo en que debe ejercer sus funciones, pudiendo cambiar de lugar al mismo Juez, pasándolo de un Distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público.
 
-III.- Conocer en Tribunal Pleno, y erigido en Jurado de Sentencia, de los delitos oficiales de los altos funcionarios públicos a que se refiere el art. 108 de la Constitución.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
-IV.- Conocer en todas las instancias de los juicios de responsabilidad que se promuevan contra los Jueces de Primera Instancia, Asesores, Agentes del Ministerio Público y Alcaldes Judiciales, por faltas cometidas en el ejercicio de su cargo, y de las causas que hayan de formarse contra los secretarios del mismo Tribunal, por faltas ocurridas en el desempeño de su empleo.
+III.- Conocer en Tribunal Pleno, y erigido en jurado de sentencia de la responsabilidad de los servidores públicos a que alude el Título VII de esta Constitución.
 
-V.- Conocer igualmente de los juicios de responsabilidad contra los Alcaldes Primeros Municipales, por faltas cometidas en el ejercicio de su encargo, siempre que el castigo de éstas no sea de la competencia del Ejecutivo o merezca mayor pena que la que éste pueda imponer.
+IV.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 1984)
+
+V.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 1984)
 
 VI.- Examinar las noticias que mensualmente deberán remitírsele por todos los Juzgados acerca de los negocios pendientes y de los despachados; y hacerlos conocer al Congreso y al Ejecutivo, junto con las que del mismo Tribunal deben rendirse, tomando los acuerdos que sean necesarios para la pronta administración de justicia.
 
@@ -927,55 +933,95 @@ Al término del plazo de tres años, a propuesta del Ejecutivo, el Tribunal decl
 
 Los Alcaldes Judiciales de la Ciudad de Monterrey, y de los Municipios a que se refiera la Ley Orgánica del Poder Judicial serán Licenciados en Derecho; éstos y los demás del Estado tendrán las facultades conciliatorias y judiciales que acuerde la Ley Orgánica respectiva. Los Alcaldes Judiciales serán nombrados popularmente cada tres años, en la forma que prevenga la Ley Electoral.
 
-## TITULO VII.. De la Responsabilidad
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
-de los Funcionarios Públicos.
+## TITULO VII.. De las Responsabilidades
+
+de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 105.
 
-Todos los Funcionarios Públicos del Estado y Municipales son responsables, por los delitos y faltas del órden común en que incurran en el desempeño de sus respectivas funciones, en los términos que lo prevengan las leyes.
+Para los efectos de lo preceptuado en este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los servidores o empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, ya sea del Estado o los Municipios; quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 106.
 
-Cuando se trate de los Diputados, el Gobernador, los Magistrados, el Procurador General de Justicia y los Secretarios del Despacho del Ejecutivo del Estado, si el delito fuere común, el Congreso, erigido en Gran Jurado, declarará por no menos de dos terceras partes de los miembros que lo forman, si se tratare del Gobernador, y por mayoría absoluta de éstos en los demás casos y previa audiencia del acusado, si ha lugar o no a formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior. En el afirmativo, el acusado queda, por ese solo hecho, separado de su cargo y sujeto a la acción de los Tribunales Comunes.
+El Gobernador del Estado sólo podrá ser acusado por traición a la Patria y delitos graves del orden común durante el ejercicio de su cargo.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 107.
 
-Los altos funcionarios del Estado no gozan de fuero constitucional por los delitos o faltas, comunes u oficiales, en que incurran durante el desempeño de algún cargo o empleo que hubieren aceptado durante el período en que son incompatibles esas funciones, en los términos del art. 52.
+El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
 
-Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
+I.- No procede el juicio político por la mera expresión de ideas,
+
+II.- La Comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos del Código Penal; y
+
+III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que sin constituir delito, puedan afectar la eficiencia y buena marcha de los asuntos públicos.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente por el órgano correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 108.
 
-De los delitos y faltas cometidos en el ejercicio de su cargo por los funcionarios de que habla el artículo 106, conocerá el Congreso como Jurado de Declaración y el Tribunal Superior de Justicia como Jurado de Sentencia. El primer Jurado tendrá por objeto declarar en los términos señalados por el art. 106. si el acusado es o no culpable. Si la declaración fuere absolutoria, el funcionario continuará en el ejercicio de su cargo; si fuere condenatoria, quedará por ese solo hecho separado de él y será puesto a disposición del Tribunal Superior de Justicia. Este, en Tribunal Pleno y erigido en Gran Jurado de Sentencia, con audiencia del reo, del Procurador de Justicia y del acusador si lo hubiere, procederá a aplicar a mayoría absoluta de votos la pena que la ley designe en el caso a discusión.
+La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente a los servidores públicos que durante el tiempo de su encargo, hubieren incurrido en delitos.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1928)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 109.
 
-Sin embargo de lo dispuesto en los Artículos anteriores, el Gobernador del Estado durante el ejercicio de su cargo, soló (sic) podrá ser acusado por traición a la Patria, violaciones a la Constitución y delitos del orden común.
+Se concede acción popular para formular denuncias ante la Cámara de Diputados, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse en elementos de prueba que hagan presumir fehacientemente la ilicitud de la conducta del servidor público, estando sujetos a responsabilidad en los términos que lo prevengan las leyes respectivas, si la referida denuncia es infundida.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 110.
 
-La responsabilidad por delitos y faltas cometidos durante el ejercicio de funciones oficiales, sólo podrá exigirse durante el período en que el funcionario ejerza su cargo, y dentro de un año después.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Secretarios y Subsecretarios encargados de despacho del Ejecutivo, el Oficial Mayor de Gobierno, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores, Síndicos y Alcaldes Judiciales.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 111.
 
-Aunque el delito que se impute a algún funcionario se hubiere cometido antes de que ejerza el cargo que, según los artículos anteriores le concede fuero, disfrutará de éste si en el momento de la acusación ejerce tal cargo.
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados declarará por no menos de dos terceras partes de los miembros que la forman y previa audiencia del acusado, si ha lugar a procedimiento ulterior; en el afirmativo, el acusado queda por ese sólo hecho separado de su cargo y será puesto a disposición del Tribunal Superior de Justicia. Este en Tribunal Pleno y erigido en Jurado de Sentencia, procederá a aplicar a mayoría absoluta de votos la sanción que en el caso a discusión proceda, una vez desahogadas las diligencias correspondientes.
 
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+Las declaraciones y resoluciones tanto de la Cámara de Diputados como del Tribunal Superior de Justicia son inatacables.
+
+Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 112.
 
-El Gobernador Constitucional del Estado gozará de fuero por todo el período de su elección, desde el día en que sea declarado por el Congreso, y los Interinos durante el período para que fueron nombrados. El Secretario de Gobierno, el Procurador de Justicia y el Tesorero General sólo disfrutarán de fuero mientras ejerzan sus funciones.
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los Secretarios y Sub-Secretarios encargados de Despacho del Ejecutivo, el Oficial Mayor de Gobierno, así como los Presidentes Municipales, Regidores y Síndicos por la Comisión de delitos durante el tiempo de su cargo, la Cámara de Diputados declarará por mayoría absoluta de los miembros que la forman y previa audiencia del acusado, si ha o no lugar a proceder contra el inculpado.
 
-Los Diputados Propietarios gozarán de fuero desde el día en que fueren declarados electos y por todo el período en el ejercicio de sus funciones. Los Magistrados Propietarios y Supernumerarios lo gozarán durante el ejercicio de su cargo a partir de su designación. Lo anterior salvo, en todo caso, con lo que dispone el artículo 107.
+Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+
+Por lo que toca al Gobernador del Estado, sólo habrá lugar a acusarlo en los términos de lo previsto por el Artículo 106, en cuyo caso se resolverá con base en la Legislación Penal aplicable.
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no cabe la gracia del indulto.
+
+En demanda del orden civil que se entable contra cualquier servidor público no se requerirá declaración de procedencia.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 113.
 
-Pertenece al Superior Tribunal de Justicia conocer en todas las instancias de los juicios de responsabilidad que se promuevan contra los Jueces de Primera instancia, Asesores, Agentes del Ministerio Público y Alcaldes Judiciales, por faltas o delitos cometidos en el ejercicio de su encargo; así como de los juicios de responsabilidad contra los Alcaldes Primeros, siempre que el castigo de aquéllos no sea de la competencia del Ejecutivo.
+Si el delito que se impute a algún funcionario se hubiere cometido antes de que ejerza el cargo, se estará al procedimiento establecido en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+Art..- 114.-No se requerirá declaración de procedencia de la Cámara de Diputados, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 112, se procederá de acuerdo con lo dispuesto en dicho precepto.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 114.
 
@@ -983,15 +1029,21 @@ Ninguno de los funcionarios o empleados de que habla el artículo anterior gozar
 
 ###### Art. 115.
 
-En delitos oficiales no cabe la gracia de indulto.
+Las Leyes sobre Responsabilidades Administrativas de los servidores públicos, determinarán sus obligaciones.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 116.
 
-En demandas del orden civil no goza de fuero ningún funcionario público.
+El procedimiento de Juicio Político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ###### Art. 117.
 
-Se concede acción popula (sic) para denunciar ante el Congreso los delitos comunes y oficiales de los altos funcionarios del Estado.
+La ley señalará los casos de prescripción de la responsabilidad administrativa.
 
 ## TITULO VIII.. De los Municipios
 
@@ -1295,7 +1347,7 @@ El C. Ministro Fiscal continuará ejerciendo las funciones que le encomiendan la
 
 ###### Art. 5o.
 
-El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de Octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
+El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
 
 ###### Art. 6o.
 
@@ -1822,3 +1874,7 @@ DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 30,63, FRACCIONES VI Y XLIII, 85 FR
 P.O. 29 DE OCTUBRE DE 1984.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE DICIEMBRE DE 1984.
+
+UNICO:- ESTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
