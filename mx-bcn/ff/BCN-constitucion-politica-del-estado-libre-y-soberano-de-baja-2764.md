@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1986-09-30"
+last_updated: "1988-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1988.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -181,7 +181,7 @@ Para ser electo Diputado Propietario o Suplente, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de padres mexicanos por nacimiento.
 
-Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad.
+Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad m mexicana invariablemente, con Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
@@ -461,7 +461,7 @@ Para ser Gobernador del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento e hijo de padres mexicanos por nacimiento.
 
-Aquellos ciudadanos candidatos a Gobernador del Estado, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad.
+Aquellos ciudadanos candidatos a Gobernador del Estado, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
 
 II.- Tener 35 años cumplidos el día de la elección;
 
@@ -515,7 +515,9 @@ Si al comenzar un período constitucional no se presentare el Gobernador electo 
 
 Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su valides (sic) ser autorizados con la firma del Secretario de Gobierno o de quien conforme a la Ley haga sus veces.
 
-### CAPITULO I.. DEL PODER JUDICIAL
+### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
+
+(REUBICADO Y REFORMADO, P.O. 20 DE MAYO DE 1988)
 
 ###### ARTICULO 49.
 
@@ -571,7 +573,9 @@ XXII.- Celebrar convenios con la Federación sobre participación de impuestos y
 
 XXIII.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
-### CAPITULO II.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
+### CAPITULO II.. DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 50.
 
@@ -597,7 +601,7 @@ III.- Las demás que le confiera la Ley Orgánica de la Administración Pública
 
 El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
 
-### CAPITULO UNICO.. DE LOS MUNICIPIOS
+### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
 
 ###### ARTICULO 54.
 
@@ -605,95 +609,121 @@ Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del 
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1988)</small>
+
+### CAPITULO UNICO.. DE LOS MUNICIPIOS
 
 ###### ARTICULO 55.
 
-El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, Jueces de Primera Instancia, Jurados, Jueces Menores, Jueces de Paz y demás funcionarios que designe la Ley Orgánica del Poder Judicial.
+La función jurisdiccional para resolver las controversias que se susciten entre los particulares con las autoridades de la Administración Pública Estatal o Municipal, estará a cargo del Tribunal o de lo contencioso administrativo del Estado, que será autónomo e independiente de cualquier autoridad administrativa, dotado de plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1971)</small>
+La Ley Orgánica del Tribunal de lo Contencioso Administrativo, que al efecto se expida, establecerá su competencia, las normas para su organización y funcionamiento; el procedimiento y los recursos contra las resoluciones que dicte.
 
-### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
 
 ###### ARTICULO 56.
 
-El Tribunal Superior de Justicia se compondrá de cinco Magistrados Propietarios como mínimo, y tres Suplentes, que serán nombrados por el Gobernador Constitucional del Estado, en los términos del Artículo 60 de la misma Constitución y funcionarán en los términos que disponga la Ley. Las audiencias serán públicas, excepto aquellas que la moral o el interés colectivo exija que sean secretas. El Tribunal Superior de Justicia designará a uno de sus miembros como Presidente, el cual durará en su cargo un año, pudiendo ser reelecto.
+Ninguna persona puede hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+Las audiencias serán públicas, excepto aquellas que la moral o el interés colectivo exija que sean secretas.
+
+Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 57.
 
-Las competencias y funciones que corresponden al Presidente, a los Magistrados y al Pleno del Tribunal Superior de Justicia así como a los Jueces de Primera Instancia, Jurados, Jueces Menores y Jueces de Paz, serán determinadas por la Ley Orgánica del Poder Judicial.
+El Poder Judicial del Estado, se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz, y Jurados.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 58.
 
-Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+El Tribunal Superior de Justicia estará integrado por once Magistrados Propietarios como mínimo, y seis Suplentes. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en el cargo, pudiendo ser reelecto.
 
-I.- Ser ciudadano mexicano por nacimiento y estar en pleno goce de sus derechos;
-
-II.- Tener título de licenciado en Derecho y por lo menos tres años en el ejercicio de la profesión;
-
-III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
-
-IV.- No tener empleo, cargo o comisión de otros Estados o de la Federación, salvo que se separe definitivamente de los mismos antes de aceptar el cargo;
-
-V.- Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 59.
 
-El Tribunal Superior del Justicia se renovará en su totalidad cada tres años contados desde el día primero de noviembre de los años en que se inicie el período Constitucional del Ejecutivo, pudiendo ser ratificados sus miembros parcial o totalmente, para el siguiente ejercicio. En caso de ratificación, no será necesaria la aprobación requerida del H. Congreso en los términos del Artículo 60 de esta Constitución. Si por cualquier motivo no se hace el nombramiento o los designados no se presentaren oportunamente al desempeño de sus funciones, continuarán en su cargo los Magistrados que lo forman hasta que tomen posesión los que deban substituirlos.
+Los nombramientos de los Magistrados del Tribunal Superior, serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso o de la Comisión Permanente, en su caso, quien otorgará o negará esa aprobación, dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos; sin aprobación expresa o tácita, no podrán tomar posesión del cargo. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente Período Ordinario de Sesiones. En éste Período Ordinario de Sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 60.
 
-Los nombramientos de los Magistrados del Tribunal Superior serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, o de la Diputación Permanente, en su caso, quien otorgará o negará esa aprobación dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no podrán tomar posesión del cargo. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En éste período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
+Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo seis años, pudiendo ser ratificados; si lo fueren, serán inamovibles y sólo podrán ser privados de sus puestos en los términos que determine ésta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+Los nombramientos de Magistrados y Jueces, serán hechos preferentemente, entre aquellas personas que hayan prestado o presten sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+Los Magistrados y Jueces percibirán una remuneración adecuada e irrenunciable, con objeto de asegurar independencia y decoro en el desempeño de la función y no podrá ser disminuida durante su encargo, así mismo, deberá incorporárseles al Sistema de Seguridad Social.
+
+La Ley Orgánica del Tribunal Superior de Justicia, garantizará la Independencia de Magistrados y Jueces en el desempeño de sus funciones, los que sólo deben sometimiento a la Ley. Establecerá condiciones de ingreso a través de exámenes de admisión o concurso de méritos, de formación y ascenso mediante escalafón y cursos que impartirá el Instituto de Especialización Judicial.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 61.
 
-Cuando ocurra la falta absoluta de un Magistrado, el Gobernador someterá un nuevo nombramiento a la aprobación del Congreso o de la Comisión Permanente, en su caso. El Magistrado designado terminará el período de su antecesor.
+Las competencias y funciones que correspondan al Presidente, a los Magistrados y al Pleno del Tribunal Superior de Justicia, así como a los Jueces de Primera Instancia, de Paz, y Jurados, serán determinadas por la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 62.
 
-El Gobernador del Estado podrá pedir al Congreso la destitución por mala conducta de cualquiera de los Magistrados del Tribunal. Si el Congreso o la Comisión Permanente declara justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+Para ser nombrado Magistrado del Tribunal Superior de Justicia, se requiere:
 
-El Gobernador del Estado, antes de pedir al Congreso la destitución de un Magistrado, oirá a éste en privado a efecto de poder apreciar en conciencia la falta que se le atribuye.
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-El Congreso oirá en defensa al Magistrado para juzgar la falta que se le imputa y la justificación del pedimento del Ejecutivo.
+II.- No tener mas de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1971)</small>
+III.- Poseer el día de la elección, con antigüedad mínima de cinco años, Título Profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 63.
 
-Los Magistrados designados para substituir las faltas definitivas de los propietarios, durarán en su cargo el tiempo que falte para terminar el período constitucional en que fueren designados.
+Cuando ocurra la falta absoluta de un Magistrado, el Gobernador someterá un nuevo nombramiento a la aprobación del Congreso o de la Comisión Permanente, en su caso.
 
-Los Magistrados Suplentes cubrirán las faltas temporales de los propietarios, en la forma y términos que marque la Ley Orgánica del Poder Judicial.
+El Tribunal Superior enviará al Poder Ejecutivo, una terna de candidatos que podrán ser tomados en cuenta en la designación correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1956)</small>
+Los Magistrados Suplentes cubrirán las faltas temporales de los Propietarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 64.
 
-Los Jueces de Primera Instancia, los Menores y los de Paz que autorice la Ley Orgánica del Poder Judicial durarán tres años en el cargo contados desde el día primero de noviembre de mil novecientos cincuenta y tres y sólo podrán ser reelectos siempre que se distingan en el ejercicio de sus funciones y por medio de una labor ecuánime y efectiva, para el mejoramiento de la administración de justicia. Podrán ser removidos cuando lo estime conveniente el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley. Los Jueces de Primera Instancia deberán tener título de Licenciado en Derecho, debidamente registrado y cuando menos dos años en el ejercicio de la profesión.
+Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán designados por el Pleno del Tribunal a propuesta de su Presidente; durarán tres años en el cargo, deberán tener treinta años de edad el día de la elección, Título Profesional de Abogado o Licenciado en Derecho debidamente registrado, tres años de ejercicio profesional y aprobar el examen de méritos correspondiente. Sólo podrán ser reelectos, cuando se distingan en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia. Podrán ser removidos cuando lo estime conveniente el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley.
+
+El término de tres años contará a partir del día primero de Diciembre de los años en que se inicie el período constitucional del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
 ###### ARTICULO 65.
 
 Corresponde al Tribunal Superior de Justicia:
 
-I.- Designar a los Jueces de Primera Instancia, Menores y de Paz.
+I.- Designar a los Jueces de Primera Instancia y de Paz;
 
-II.- Nombrar y remover al personal de empleados del Poder Judicial, sujetándose a lo dispuesto por las leyes respectivas.
+II.- Nombrar y remover al personal y empleados del Poder Judicial, sujetándose a lo dispuesto por las Leyes respectivas;
 
-III.- Conocer de los negocios civiles y penales del fuero común, como tribunal de apelación o de última instancia ordinaria.
+III.- Conocer de los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última instancia ordinaria;
 
-IV.- Resolver las cuestiones de competencia y las de acumulación que se susciten entre los jueces, de conformidad con las leyes respectivas.
+IV.- Resolver las cuestiones de competencia y las de acumulación que se susciten entre los Jueces, de conformidad con las Leyes respectivas;
 
-V.- Resolver sobre las recusaciones y excusas de los Magistrados y Secretarios del Tribunal.
+V.- Resolver sobre las recusaciones y excusas de los Magistrados y Secretarios del Tribunal;
 
-VI.- Conocer de los juicios de responsabilidad que hayan de seguirse a los funcionarios públicos que gocen de fuero, previa declaración que se haga de haber lugar a formación de causa.
+VI.- Conocer de los juicios de responsabilidad que hayan de seguirse a los funcionarios públicos que gocen de fuero, previa declaración que se haga de haber lugar a formación de causa;
 
-VII.- Consignar a los jueces de Primera Instancia y demás funcionarios o empleados del Poder Judicial por delitos comunes o responsabilidades oficiales en que incurren.
+VII.- Consignar a los Jueces de Primera Instancia y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran;
 
-VIII.- Conceder licencias a los funcionarios y empleados del Poder Judicial, y resolver acerca de las renuncias de los mismos, de acuerdo con la Ley respectiva.
+VIII.- Conceder licencias a los funcionarios y empleados del Poder Judicial, y resolver acerca de las renuncias de los mismos, de acuerdo con la Ley respectiva; y
 
 IX.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes ordinarias.
 
@@ -705,13 +735,15 @@ El Presidente del Tribunal Superior de Justicia deberá ejercer estricta vigilan
 
 Los miembros del Poder Judicial no podrán, durante el tiempo de su encargo, aún cuando tengan carácter interino, ejercer la profesión de Licenciado en Derecho la función de Notario ni desempeñar ningún otro cargo o empleo público o privado, excepción hecha de los docentes.
 
-### CAPITULO UNICO.. PREVENCIONES GENERALES
+### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 68.
 
 Los Magistrados, los Jueces y demás funcionarios del Poder Judicial, son responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo.
 
-### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
+### CAPITULO UNICO.. PREVENCIONES GENERALES
 
 ###### ARTICULO 69.
 
@@ -743,7 +775,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ## TITULO SEXTO
 
-### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
+### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 76.
 
@@ -756,6 +788,8 @@ El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán 
 Los Ayuntamientos se compondrán de Munícipes electos por votación popular directa y no habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
 
 ###### ARTICULO 78.
 
@@ -821,7 +855,7 @@ a).- Agua Potable y Alcantarillado.
 
 b).- Alumbrado Público.
 
-c).- Limpia
+c).- Limpia.
 
 d).- Mercados y Centrales de Abasto.
 
@@ -1019,7 +1053,7 @@ Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del S
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
@@ -1334,3 +1368,21 @@ Los mexicanos por nacimiento descendientes de padres mexicanos por nacimiento, n
 ###### ARTICULO SEGUNDO.
 
 Las reformas a que se refiere el presente Decreto, entran en vigor una vez cumplido el procedimiento establecido en el Artículo 112, de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Magistrados nombrados por el Ejecutivo del Estado el primero de Noviembre de 1983, aprobados por el Congreso en esa misma fecha, y ratificados el primero de noviembre de 1986, deberán mantenerse en su encargo como inamovibles y no podrán ser removidos sino en los términos que determinen la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos.
+
+###### ARTICULO TERCERO.
+
+Los Magistrados nombrados por el Ejecutivo del Estado, aprobados por el Congreso y que aún no han sido ratificados en términos del Artículo 59 de la Constitución Política Local, ahora reformado, deberán completar un período de seis años a partir de la fecha de su nombramiento, y si son ratificados, también se considerarán inamovibles, con base en lo dispuesto por el Artículo 60 que se reforma.
+
+###### ARTICULO CUARTO.
+
+Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
