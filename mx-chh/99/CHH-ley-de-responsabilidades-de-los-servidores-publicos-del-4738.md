@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "1999-06-09"
+last_updated: "1999-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -213,7 +213,11 @@ III.- Utilizar los recursos que tenga asignados y las facultades que le sean atr
 
 IV.- Conservar y custodiar la documentación e información que tenga bajo su cuidado o a la cual tuviere acceso, impidiendo o evitando el uso, la substracción, destrucción, ocultamiento o inutilización indebidos de aquella.
 
-Cuando con motivo de una revisión, inspección o auditoría, por parte de la autoridad competente, sea solicitada la información o documentación que tenga bajo su custodia, deberá ser proporcionada inmediatamente, ya que de lo contrario se hará acreedor a una amonestación por escrito y/o destitución del cargo, empleo o comisión;
+Cuando con motivo de una revisión, inspección o auditoría, por parte de la autoridad competente, sea solicitada la información o documentación que tenga bajo su custodia, deberá ser proporcionada inmediatamente, ya que de lo contrario se hará acreedor a una amonestación por escrito y/o destitución del cargo, empleo o comisión.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+
+Proporcionar copia certificada de la documentación necesaria que le soliciten el extitular o extitulares de la dependencia, organismo o ente que preside y permitirle tener acceso a los archivos que se encuentren bajo su custodia, donde se contengan los documentos de que se pretenda obtener la certificación respectiva, con el propósito de que se de contestación a las observaciones derivadas de la revisión o auditoría practicada por la autoridad competente, tomando siempre las medidas adecuadas para dar cumplimiento con la obligación establecida en el primer párrafo de esta fracción;
 
 V.- Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
 
@@ -566,5 +570,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE JUNIO DE 1999.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
