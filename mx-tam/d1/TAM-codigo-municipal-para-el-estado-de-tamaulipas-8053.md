@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2000-10-20"
+last_updated: "2001-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -53,9 +53,13 @@ El Municipio constituye la unidad básica de la división territorial y de la or
 
 El Municipio es una institución de orden público, dotado de personalidad jurídica y patrimonio propios, autónomo en su régimen interior y con libre administración de su Hacienda, recursos y servicios destinados a la comunidad local, sin más límites que los señalados expresamente en las leyes.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 4o.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Cada Municipio será gobernado por un ayuntamiento de elección popular directa, e integrado por un presidente, regidores y síndicos electos por el principio de votación mayoritaria relativa y con regidores electos por el principio de representación proporcional.
+
+Las facultades que la Constitución Federal otorga al gobierno municipal, se ejercerán por el ayuntamiento de manera exclusiva, sin que pueda existir autoridad intermedia entre éste y el gobierno del Estado.
 
 ###### ARTICULO 5o.
 
@@ -87,9 +91,13 @@ En cada municipalidad se dará entera fe y crédito a los actos públicos, regis
 
 En ejercicio de las facultades que la Constitución le confiere, podrá el Gobernador del Estado:
 
-I.- Asumir por sí o por conducto de Delegados que lo representen, el mando de la fuerza pública existente en los Municipios, para prevenir o sofocar graves trastornos del orden público. Esta medida subsistirá mientras existen las circunstancias que la hubiesen motivado.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
-II.- Nombrar y remover a los jefes de Policía de los Municipios e impedir el abuso de la fuerza pública contra la población, ordenando lo conducente para que se hagan efectivas las responsabilidades consiguientes.
+I.- Asumir el mando de la fuerza pública municipal en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público. Esta medida subsistirá mientras existan las circunstancias que la hubiesen motivado.
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+
+II.- Impedir el abuso de la fuerza pública contra la población, ordenando lo conducente para que se hagan efectivas las responsabilidades consiguientes.
 
 III.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelva en definitiva.
 
@@ -277,9 +285,11 @@ Es nula la elección de Munícipe que recaiga sobre militares en servicio activo
 
 El cargo de miembro de un Ayuntamiento sólo podrá renunciarse por causa justificada que calificará el Congreso.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 30.
 
-Los miembros de los Ayuntamientos tendrán la remuneración que se les asigne en el Presupuesto de Egresos respectivo.
+Los miembros de los ayuntamientos tendrán la remuneración que se les asigne en el Presupuesto de Egresos respectivo, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación económica de los Municipios.
 
 ###### ARTICULO 31.
 
@@ -295,13 +305,17 @@ Cuando por cualquier circunstancia extraordinaria no se verificare la elección 
 
 Los miembros de los Ayuntamientos tienen derecho a que se les conceda licencia hasta por quince días en el período de un año calendario, pero por causa justificada pueden separarse de sus funciones hasta por el tiempo que exista ésta. Por otra parte, no podrán ausentarse en forma continua por un lapso mayor de diez días. Las faltas temporales menores serán sancionadas de acuerdo al Reglamento Interior del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 34.
 
-Las faltas temporales o definitivas de los integrantes de los Ayuntamientos, serán cubiertas por el suplente respectivo y cuando éste falte también, el Ayuntamiento enviará terna al Congreso por conducto del Ejecutivo, para que designe los substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente dentro de los treinta días a partir de la recepción de la comunicación.
+Las faltas temporales o definitivas de los integrantes de los Ayuntamientos, serán cubiertas con el suplente respectivo y cuando éste falte también, el Ayuntamiento enviará terna al Congreso para que designe a los substitutos. En los recesos del Congreso la designación se hará por la Diputación Permanente dentro de los treinta días a partir de la recepción de la comunicación.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 35.
 
-Unicamente el Congreso del Estado, por acuerdo de las dos terceras partes de su miembros y a iniciativa del Ejecutivo, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes por causa grave prevista en este Código. El Congreso desahogará las causas y emitirá resolución en un plazo que no exceda de diez días hábiles a partir de la fecha de recibida la iniciativa; en los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias, a fin de que se reúna dentro de los tres días siguientes para conocer de la causa correspondiente.
+Unicamente el Congreso del Estado, por mayoría calificada de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes por alguna de las causas previstas en este Código. El Congreso desahogará las causas y emitirá resolución en un plazo que no exceda de diez días hábiles a partir de la fecha de recibida la solicitud de quien tenga legitimación en los términos del Artículo 64 de la Constitución Política local; en los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias, a fin de que se reúna dentro de los tres días siguientes para conocer de la causa correspondiente.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -431,9 +445,9 @@ IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al
 
 X.- Administrar la hacienda municipal con arreglo a la ley y establecer un órgano de control y evaluación del gasto público municipal.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
-XI.- Formular y remitir al Congreso, por conducto del Ejecutivo, para su estudio y aprobación, el proyecto de Ley de Ingresos del Municipio en los primeros diez días del mes de noviembre de cada año.
+XI.- Formular y remitir al Congreso, para su estudio y aprobación el proyecto de Ley de Ingresos del Municipio en los primeros diez días del mes de noviembre de cada año.
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
@@ -542,6 +556,34 @@ XI.- Cobrar por sí o a través de empleado que no desempeñe cargo en la Tesore
 XII.- Condonar pago de contribuciones
 
 XIII.- Asumir cualquier otra conducta prohibida por las leyes.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2001)</small>
+
+Para los casos a que se refiere la Fracción III, los Ayuntamientos gozarán de entera libertad para la toma de decisiones relativas a la afectación del patrimonio inmobiliario municipal. Para tales efectos se observará lo siguiente:
+
+a).- Con el acuerdo de la mayoría de los miembros de los Ayuntamientos, éstos podrán realizar compras, adquisiciones mediante arrendamientos financieros, aceptación de herencias, legados y donaciones, siempre que no sean onerosas, y la celebración de contratos de comodato, cuando participen como comodatarios.
+
+b).- Se requerirá el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para la celebración de los actos jurídicos siguientes:
+
+1.- Ventas.
+
+2.- Donaciones, cuando el Ayuntamiento participe como donante.
+
+3.- Permutas.
+
+4.- Comodatos, cuando el Ayuntamiento participe como comodante.
+
+5.- Toda clase de empréstitos, mutuos y créditos, así como sus reestructuras y novaciones.
+
+6.- Fideicomisos.
+
+7.- Concesiones de servicios públicos.
+
+8.- Contratos de garantía, como hipoteca, fianza y prenda.
+
+9.- Todos aquellos convenios, contratos y negocios jurídicos que afecten el patrimonio del Municipio, cuando la duración de los mismos exceda el periodo del Ayuntamiento.
+
+En los casos a que se refiere este inciso, el Acuerdo de Cabildo se remitirá posteriormente, mediante la iniciativa correspondiente, al Congreso del Estado, para su autorización. También se requerirá ésta para la aceptación de herencias, legados y donaciones onerosas.
 
 ###### ARTICULO 52.
 
@@ -813,9 +855,11 @@ IX.- Las demás previstas en las leyes y reglamentos.
 
 Para ser Director de Obras y Servicios Públicos Municipales, se requiere reunir los requisitos señalados en el Artículo 67 y, en su caso, poseer título en profesión afín al cargo.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 74.
 
-En cada Municipio se integrarán los Cuerpos de Policía Preventiva, con el número de miembros que sean indispensables para atender las necesidades de la población y conforme a su presupuesto de egresos, los cuales serán nombrados por los Ayuntamientos, con excepción de los Jefes de Policía Preventiva.
+En cada Municipio se integrarán los cuerpos de Policía Preventiva, con el número de miembros que sean indispensables para atender las necesidades de la población y conforme a su presupuesto de egresos, los cuales serán nombrados por los Ayuntamientos.
 
 ###### ARTICULO 75.
 
@@ -1597,6 +1641,8 @@ Los Ayuntamientos sólo podrán concertar créditos destinados a inversiones pú
 
 ### CAPITULO I. DE LOS SERVICIOS PUBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 156.
 
 Los presupuestos de egresos de los Municipios serán aprobados por sus respectivos Ayuntamientos con base en sus ingresos disponibles, y considerando el Plan Municipal de Desarrollo y sus programas derivados, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. En relación a remuneraciones personales no podrán exceder del porcentaje que anualmente determine el Congreso del Estado, con base en ejercicios fiscales anteriores, cálculo de ingresos probables, fluctuaciones en el costo de la vida y demás datos necesarios debiendo motivar el decreto correspondiente.
@@ -1701,13 +1747,17 @@ Los Municipios informarán oportunamente al Congreso del Estado las normas, proc
 
 ###### ARTICULO 170.
 
-Los Municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los servicios públicos de:
+Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-I.- Agua potable y Alcantarillado.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
 II.- Alumbrado público.
 
-III.- Limpieza.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+
+III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
 IV.- Mercados y centrales de abasto.
 
@@ -1715,21 +1765,29 @@ V.- Panteones.
 
 VI.- Rastro.
 
-VII.- Calles, parques y jardines.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
 
-VIII.- Seguridad Pública y Tránsito Municipal.
+VII.- Calles, parques y jardines y su equipamiento.
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+
+VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito.
 
 IX.- Los demás que el Congreso determine, según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa y financiera.
 
-Los servicios de agua potable y alcantarillado, y de seguridad pública y tránsito municipal serán prestados con el concurso del Estado. Para tal efecto, los Ayuntamientos celebrarán con las autoridades y organismos estatales competentes los convenios y acuerdos respectivos, en los términos de este Código.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+
+Cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de los servicios públicos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 171.
 
-Los municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda, con la aprobación del Congreso.
+Los Municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la ley, podrán coordinarse y asociarse para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda, con la aprobación del Congreso.
 
-Los servicios públicos municipales serán prestados preferentemente por los municipios, directamente o a través de organismos o empresas paramunicipales. Asimismo, podrán ser concesionados a particulares cuando no se lesione el interés público o social, previa autorización del Congreso y conforme a las bases que se determinen en este Código, sus reglamentos y las contenidas en el propio acto concesión.
+Los servicios públicos municipales serán prestados por los Municipios, directamente o a través de organismos o empresas paramunicipales. Asimismo, podrán ser concesionados a particulares cuando no se lesione el interés público o social, previa autorización del Congreso y conforme a las bases que se determinen en este Código, sus Reglamentos y las contenidas en el propio acto concesión.
 
-No podrán ser objeto de concesión los servicios de agua potable y alcantarillado, y los de seguridad pública y tránsito.
+No podrán ser objeto de concesión los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, y los de seguridad pública, policía preventiva municipal y tránsito.
 
 ###### ARTICULO 172.
 
@@ -2009,7 +2067,9 @@ XXI.- El Subjefe de Almacén.
 
 XXII.- El Encargado de la Mesa de Mercados.
 
-XXIII.- Los elementos de los cuerpos de Seguridad Pública, Tránsito y Personal Penitenciario, independientemente de que su nombramiento provenga del Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+
+XXIII.- Los elementos de los cuerpos de Seguridad Pública, Tránsito y Personal Penitenciario.
 
 XXIV.- El Juez Calificador.
 
@@ -2856,6 +2916,12 @@ Las personas físicas o morales que al entrar en vigor estas disposiciones se co
 Se adiciona a la Ley de Ingresos de cada uno de los 43 Municipios del Estado, el Impuesto Sobre Espectáculos Públicos, por lo que están autorizados para cobrarlo a partir del 1 de Enero del año 2000.
 
 P.O. 20 DE OCTUBRE DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2001.
 
 ###### ARTICULO UNICO.
 
