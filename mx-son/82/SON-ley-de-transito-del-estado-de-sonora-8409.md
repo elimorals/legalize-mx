@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1984-02-27"
+last_updated: "1986-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -527,19 +527,29 @@ Para circular en el Estado de Sonora, todo vehículo debe reunir los siguientes 
 
 I.- Portar placas y tarjeta de circulación.
 
-a) De las expedidas por la Tesorería General del Estado, por todo el tiempo de su vigencia.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+a).- De las expedidas por la Tesorería General del Estado, cuya vigencia deberá revalidarse anualmente.
+
+La Tesorería General del Estado cuando las circunstancias lo justifiquen, podrá expedir a los propietarios de los vehículos, permisos por tiempo determinado para transitar sin placas o sin tarjeta de circulación y calcomanía de revalidación.
 
 b) De las expedidas por otros Estados de la República, siempre y cuando se encuentren vigentes.
 
-II.- Ostentar, adherida en el parabrisas, la calcomanía correspondiente al revisado del vehículo.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+II.- Ostentar adheridas en el cristal, las calcomanías correspondientes a la revalidación anual de placas y al revisado del vehículo.
 
 III.- Los vehículos de emergencia y oficiales, aún cuando ostenten los signos que los identifiquen plenamente como tales, están obligados a transitar al amparo de placas.
 
 IV.- Los señalados en el Artículo 52 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 42.
 
-Para obtener las placas y tarjetas de circulación, se requiere:
+La obtención de placas y tarjetas de circulación en los casos de vehículos nuevos, deberá realizarse dentro de los quince días siguientes al de la fecha de adquisición. Tratándose de vehículos provenientes de otras entidades federativas cuyos propietarios establezcan su domicilio en el Estado de Sonora, tienen de plazo para adquirirlas hasta el 31 de enero del año siguiente al de dicho cambio.
+
+Para efectos de lo anterior se requiere:
 
 I.- Hacer la solicitud correspondiente en las formas oficiales impresas, que al efecto proporcionará la Agencia Fiscal.
 
@@ -552,6 +562,20 @@ IV.- Acreditar la propiedad del vehículo con la factura correspondiente, o la l
 V.- Acreditar la legal estancia en el País del vehículo y estar al corriente en el pago del impuesto federal sobre tenencia o uso de vehículos.
 
 VI.- Manifestación y firma de que acepta responder solidariamente del pago de las multas que se le impongan a cualquier conductor del vehículo.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+Para la obtención de la revalidación anual de la vigencia de las placas, que deberá efectuarse durante los tres primeros meses del año de calendario, se requiere:
+
+I.- Exhibir original de la factura, proporcionando copia de la misma.
+
+II.- Devolución del original de la tarjeta de circulación.
+
+III.- Presentar el comprobante de pago del Impuesto Federal sobre Tenencia o Uso de Vehículos y constancia de revisión vehicular, expedida por las autoridades municipales de Tránsito.
+
+IV.- Tratándose de cambios de propietario, además de los requisitos anteriores, deberá presentarse la solicitud de revalidación correspondiente y el recibo oficial de pago del Impuesto Sobre Traslación de Dominio, y,
+
+V.- En los casos de vehículos de alquiler, deberá proporcionarse, además, copia del comprobante de pago de revalidación de concesión correspondiente.
 
 ###### ARTICULO 43.
 
@@ -825,9 +849,9 @@ La acción del freno de servicio, convenientemente sincronizada, se distribuirá
 
 e).- Frenos especiales:
 
-Todo vehículo que utilice aire comprimido para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia, que no sea un manómetro, fácilmente audible o visible por el conductor, que entrará en funcionamiento en todo momento en que la presión del depósito de aire del vehículo esté por debajo del 50% de la presión dada por el regulador del compresor. Además deberá estar provisto de un manómetro visible por el conductor, que indique en kilogramos por centímetro cuadrado la presión para el frenado o su equivalente.
+Todo vehículo que utilice aire comprimido para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia, que no sea un manómetro, fácilmente audible o visible por el conductor, que entrará en funcionamiento en todo momento en que la presión del depósito de aire del vehículo esté por debajo del 50% de la presión dada por el regulador del compresor. Además, deberá estar provisto de un manómetro visible por el conductor, que indique en kilogramos por centímetro cuadrado la presión para el frenado o su equivalente.
 
-Todo vehículo que utilice vacío para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia que no sea un vacuómetro, fácilmente audible o visible por el conductor que entrará en funcionamiento en todo momento en que el vacío del depósito alimentador del vehículo sea inferior a 20 milímetros de mercurio o su equivalente. Además, deberá estar provisto de un vacuómetro visible por el conductor, que indique el vacío en milímetros de mercurio disponible para el frenado.
+Todo vehículo que utilice vacío para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolcado, deberá estar provisto de una señal de advertencia que no sea un vacuómetro, fácilmente audible o visible por el conductor que entrará en funcionamiento en todo momento en que el vacío del depósito alimentador del vehículo sea inferior a 20 milímetros de mercurio o su equivalente. Además deberá estar provisto de un vacuómetro visible por el conductor, que indique el vacío en milímetros de mercurio disponible para el frenado.
 
 ###### ARTICULO 67.
 
@@ -1899,7 +1923,7 @@ SR-16 La señal ANCHURA LIBRE RESTRINGIDA se utilizará para advertir a los cond
 
 SR-17 La señal PESO MAXIMO RESTRINGIDO se colocará en los puentes u otros lugares del camino donde sea necesario limitar el peso de los vehículos, ya sea por la capacidad de los puentes ó por la de la superficie de rodamiento. Dentro del círculo se marcará el peso máximo permitido en toneladas.
 
-SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otro vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
+SR-18 La señal PROHIBIDO REBASAR se empleará para advertir a los conductores de vehículos los tramos en que no se permita rebasar a otros vehículo, por las condiciones especiales del ancho del camino, visibilidad, etc.
 
 SR-19 La señal PEATONES A SU IZQUIERDA se usará en las regiones o tramos de caminos con tránsito frecuente de peatones, para advertir a estos que para su propia seguridad deben caminar al lado izquierdo, de frente al tránsito que se aproxima.
 
@@ -2562,3 +2586,9 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+B.O. 26 DE DICIEMBRE DE 1986.
+
+UNICO.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1º de enero de 1987.
