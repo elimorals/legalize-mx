@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2000-03-07"
+last_updated: "2000-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -377,7 +377,7 @@ IX. Autorizar la localización y características de los elementos que integran 
 
 X. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 XI. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos;
 
@@ -1221,9 +1221,11 @@ III. En el caso de vehículos para carga especial, se aplicarán las normas de s
 
 ### CAPITULO II. De las concesiones y permisos para la prestación del servicio público de transporte
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2000)</small>
+
 ###### Artículo 94.
 
-Las personas físicas o jurídicas para participar en la prestación del servicio público de transporte, en cualquiera de sus modalidades, requerirán obtener concesión o permiso según corresponda, expedida por el Ejecutivo del Estado, por conducto de la dependencia del mismo, competente en materia de vialidad, tránsito y transporte y se encontrarán limitadas hasta tres concesiones o permisos por persona. Asimismo, las concesiones o permisos para la prestación del servicio público de transporte de autos de alquiler, sitio, taxis o radiotaxis sólo se otorgarán a personas físicas.
+Las personas físicas o jurídicas para participar en la prestación del servicio público de transporte, en cualquiera de sus modalidades, requerirá obtener concesión o permiso según corresponda, expedida por el Ejecutivo del Estado, por conducto de la dependencia del mismo, competente en materia de vialidad, tránsito y transporte y se encontrarán limitadas hasta tres concesiones o permisos por persona física. Así mismo, las concesiones o permisos para la prestación del servicio público de transporte de autos de alquiler, sitio, taxis o radiotaxis sólo se otorgará a personas físicas.
 
 ###### Artículo 95.
 
@@ -1241,7 +1243,9 @@ b) La urgencia o conveniencia de satisfacer esa demanda;
 
 c) El beneficio que su otorgamiento signifique para el interés público por la magnitud de la inversión; por la transferencia de tecnología que se genere, o por el impacto positivo que redunde en el provecho social;
 
-d) La opinión favorable del consejo Consultivo; del Organismo Coordinador de la Operación Integral del Servicio de transporte Público y del Centro Estatal de Investigación de la Vialidad y Transporte, y
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2000)</small>
+
+d) Dictamen que contenga un estudio de factibilidad del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Servicio de Transporte Público y del Centro Estatal de Investigación de la Vialidad y Transporte, y
 
 e) La convocatoria a una licitación pública para la prestación de dicho servicio;
 
@@ -1843,7 +1847,7 @@ Los horarios e itinerarios serán aprobados por la dependencia del Ejecutivo del
 
 Los organismos públicos descentralizados del Ejecutivo del Estado cuyo objeto sea la prestación del servicio público colectivo de pasajeros, cuando no cuenten con la infraestructura y equipamiento suficiente para atender las necesidades que requiera la ciudadanía, podrán celebrar contratos de subrogación con particulares para la operación en la prestación del servicio, exclusivamente en la modalidad de transporte colectivo urbano y suburbano, reservándose estos organismos la titularidad y administración de las rutas, así como el despacho y la supervisión del servicio en las mismas, que les sean asignadas por la dependencia del Ejecutivo del Estado en materia de vialidad, tránsito y transporte.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 149 Bis 1.
 
@@ -2648,5 +2652,9 @@ P.O. 6 DE NOVIEMBRE DE 1999.
 PRIMERO. Para la celebración de nuevos contratos de subrogación, con motivo de la presente reforma, el organismo público descentralizado deberá pedir opinión al representante de los subrogatarios.
 
 P.O. 7 DE MARZO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
