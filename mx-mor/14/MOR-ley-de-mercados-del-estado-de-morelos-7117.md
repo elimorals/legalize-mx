@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mercados-del-estado-de-morelos-7117"
 country: "mx"
 rank: "ley"
 publication_date: "1965-10-27"
-last_updated: "1965-10-27"
+last_updated: "1975-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MERCADOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el día 27 de octubre de 1965.
 
@@ -311,9 +311,11 @@ XIX.- Los demás que se establezcan en esta Ley y otras Leyes.
 
 De la administración de los mercados.
 
-###### Artículo 34.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1975)</small>
 
-La administración de mercados estará a cargo de la persona o personas que designe el Ayuntamiento o Consejo Municipal respectivo y sus atribuciones serán las de vigilar la observancia de esta Ley, sus disposiciones conexas y su ejecución.
+###### ARTICULO 34.
+
+La administración de mercados estará a cargo de la persona o personas que designe el ayuntamiento o Concejo respectivo, de la terna que a su consideración someta la Unión de Locatarios de cada uno de los mercados y sus atribuciones serán, las de vigilar la observancia de esta Ley, las disposiciones conexas y su ejecución, dependiendo dichos administradores directamente del H. Ayuntamiento.
 
 ###### Artículo 35.
 
@@ -512,3 +514,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Fausto Galván Campos
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE JUNIO DE 1975.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo:- Remítase al Ejecutivo para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
