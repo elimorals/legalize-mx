@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2004-03-12"
+last_updated: "2004-05-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -177,9 +177,13 @@ IV.- CUARTO CIRCUITO:
 
 V.- QUINTO CIRCUITO:
 
-1.- Tres tribunales colegiados con residencia en Hermosillo.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 29/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
 
-2.- Cuatro tribunales unitarios con sede en Hermosillo.
+1.- Cuatro Tribunales Colegiados con residencia en Hermosillo.
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 30/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+2.- Cinco Tribunales Unitarios con sede en Hermosillo.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 50/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2002)</small>
 
@@ -285,11 +289,13 @@ XIV.- DECIMOCUARTO CIRCUITO:
 
 XV.- DECIMOQUINTO CIRCUITO:
 
-1.- Tres tribunales colegiados con residencia en Mexicali.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 31/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 41/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2001)</small>
+1.- Cuatro Tribunales Colegiados con residencia en Mexicali.
 
-2.- Seis tribunales unitarios: dos con sede en Mexicali y cuatro con residencia en Tijuana.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 32/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+2.- Siete Tribunales Unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 90/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -297,7 +303,9 @@ XV.- DECIMOQUINTO CIRCUITO:
 
 XVI.- DECIMOSEXTO CIRCUITO:
 
-1.- Cinco tribunales colegiados, cuatro con residencia en Guanajuato y uno con sede en León.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 33/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE MAYO DE 2004)</small>
+
+1.- Seis Tribunales Colegiados, cinco con residencia en Guanajuato y uno con sede en León.
 
 2.- Dos tribunales unitarios con sede en Guanajuato.
 
@@ -1232,3 +1240,43 @@ D.O.F. 12 DE MARZO DE 2004.
 PRIMERO.- Este acuerdo entrará en vigor el catorce de marzo de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+ACUERDO 29/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO V, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+ACUERDO 30/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO V, NUMERO 2.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+ACUERDO 31/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XV, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+ACUERDO 32/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XV, NUMERO 2.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 17 DE MAYO DE 2004.
+
+ACUERDO 33/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO XVI, NUMERO 1.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de junio de dos mil cuatro.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
