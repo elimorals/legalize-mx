@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-5470"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-08"
-last_updated: "1990-06-09"
+last_updated: "1995-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de febrero de 1988.
 
@@ -37,9 +37,11 @@ LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
 ### CAPITULO I. DE LOS FUNDAMENTOS Y OBJETIVOS
 
+> <small>(REFORMADO P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 1o.
 
-El Ministerio Público del Estado de Hidalgo, para el despacho de los asuntos que le atribuyen los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos y 89 y 90 de la Constitución Política de la Entidad, se integra a través de la Procuraduría General de Justicia del Estado y sus órganos auxiliares, como dependencia del Poder Ejecutivo Local, en los términos del presente ordenamiento y demás disposiciones legales aplicables.
+El Ministerio Público, representante del interés social, es la Institución de buena fe, con autonomía técnica y administrativa para garantizar su independencia en la emisión de las determinaciones de su competencia, responsable de velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, ejercitar la acción penal, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de las medidas de la política anticriminal que establezca el Ejecutivo del Estado y proteger los intereses colectivos e individuales contra toda violación a las Leyes, así como los establecidos en esta Ley.
 
 ###### ARTICULO 2o.
 
@@ -59,7 +61,7 @@ VI.- Proteger los intereses colectivos e individuales contra toda violación a l
 
 VII.- Representar los intereses sociales relacionados con menores, incapaces, ausentes, establecimientos públicos de instrucción o de beneficencia;
 
-VIII.- Asesorar jurídicamente al Ejecutivo del Estado;
+VIII.- (DEROGADA, P.O. 14 DE AGOSTO DE 1995)
 
 IX.- En general, procurar la pronta y expedita justicia; y
 
@@ -71,7 +73,9 @@ X.- Las demás que las leyes determinen.
 
 Para el ejercicio de la vigilancia de la legalidad competerá al Ministerio Público:
 
-I.- Proponer ante el Gobernador del Estado, las reformas legislativas necesarias para la exacta observancia de la Constitución Federal y de la Constitución Local ;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+I.- Proponer al Congreso del Estado en su ramo, las iniciativas de leyes y reformas legislativas para la exacta observancia de la Constitución Federal y de la Constitución Local;
 
 II.- Poner en conocimiento del Gobernador, si hubiese actuaciones de autoridades que carezcan de normatividad jurídica, para que cesen y se promueva la expedición del decreto que les apoye;
 
@@ -187,13 +191,7 @@ III.- Las demás que las leyes le otorguen.
 
 ###### ARTICULO 10.
 
-Para asesorar jurídicamente al Ejecutivo Estatal, compete al Ministerio Público:
-
-I.- Sistematizar la consulta jurídica que debe presentarse al Ejecutivo;
-
-II.- Mejorar las fuentes jurídicas para que la consulta resulte eficiente y oportuna; y
-
-III.- Las demás actividades que el Gobernador y las leyes le señalen.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1995)
 
 ###### ARTICULO 11.
 
@@ -223,13 +221,25 @@ I.- Un Procurador General de Justicia;
 
 II.- Un Subprocurador General de Justicia;
 
-III.- Un Contralor de Procedimientos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
 
-IV.- Un Director de Averiguaciones Previas;
+III.- Un Subprocurador de Asuntos Electorales;
 
-V.- Un Director de Procesos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
 
-VI.- Los Agentes del Ministerio Público Auxiliares, Investigadores, Determinadores y adscritos que señale el presupuesto.
+IV.- Un Contralor Interno;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+V.- Un Director de Averiguaciones Previas;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+VI.- Un Director de Procesos;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+VII.- Los Agentes del Ministerio Público Auxiliares, Investigadores, Determinadores y adscritos que señale el presupuesto.
 
 B.- EN CUANTO A LAS FUNCIONES DE AUXILIO Y APOYO:
 
@@ -265,17 +275,23 @@ I.- Representar a la institución del Ministerio Público;
 
 II.- Velar por la exacta observancia de las leyes de interés público y proveer las acciones pertinentes para una eficaz procuración de justicia;
 
-III.- Acordar con el Gobernador los principales asuntos del Ministerio Público y rendir los informes que le pidiere con relación a la institución;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
 
-IV.- Intervenir personalmente en los asuntos que especialmente le encomiende el gobernador;
+III.- Implementar los mecanismos para el ingreso y permanencia del personal, al servicio de la Procuraduría; así como los programas de capacitación, evaluación y estímulos que prevea la ley;
 
-V.- Emitir la opinión jurídica respecto de los asuntos que lo requieran y dictaminar en su calidad de consejero jurídico del Ejecutivo en los negocios que se le consulten;
+IV.- (DEROGADA, P.O. 14 DE AGOSTO DE 1995)
 
-VI.- Promover ante el Gobernador del Estado las iniciativas de leyes y las expediciones de los reglamentos que estimen necesarios para la buena procuración de justicia en el Estado;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+V.- Emitir la opinión jurídica respecto de los asuntos del Ministerio Público que le requieran los Poderes Legislativo, Ejecutivo y Judicial;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+VI.- Proponer ante el Congreso del Estado iniciativas de Ley en su ramo y expedir los reglamentos que estime necesarios para el buen despacho de las funciones de la Procuraduría;
 
 VII.- Dar a los funcionarios y empleados de la Procuraduría las instrucciones generales o especiales, que estime conveniente, para el cumplimiento de sus deberes;
 
-VIII.- Investigar las detenciones arbitrarias que se cometan, promover la sanción y adoptar las medidas pertinentes para hacerlas cesar;
+VIII.- Investigar las detenciones arbitrarias que se cometen, promover la sanción y adoptar las medidas pertinentes para hacerlas cesar;
 
 IX.- Señalar al personal de la Procuraduría las actividades relacionadas con sus funciones;
 
@@ -315,7 +331,9 @@ XXVI.- Practicar visitas a las cárceles que estime conveniente;
 
 XXVII.- Someter a la consideración del Ejecutivo el proyecto del presupuesto de la Procuraduría;
 
-XXVIII.- Rendir al Gobernador un informe anual de los trabajos relacionados con la institución;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+XXVIII.- Rendir anualmente a la Cámara de Diputados, un informe de los trabajos realizados por la Institución;
 
 XXIX.- Proceder en lo que corresponda en defensa de los intereses del Estado;
 
@@ -345,37 +363,47 @@ V.- Coordinar el Servicio Social y la Participación Ciudadana; y
 
 VI.- Las demás que le señalen ésta y otras leyes.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
+###### ARTICULO 16 Bis.
+
+El Subprocurador de asuntos electorales tendrá las siguientes atribuciones:
+
+I.- Coordinar a los agentes del Ministerio Público en delitos electorales que conozcan de este tipo de ilícitos tanto en el periodo de averiguación previa como en el proceso hasta su total resolución;
+
+II.- Resolver las solicitudes de archivo provisional o definitivo de averiguaciones previas en matera electoral, según proceda;
+
+III.- Proponer al Procurador los desistimientos de la acción penal y las peticiones de libertad por desvanecimiento de datos, así como las conclusiones de no acusación o cuando éstas incluyan una atenuante en relación al auto de formal prisión en materia electoral;
+
+IV.- Aquellas que en tiempos no electorales le encomiende el Procurador General de Justicia; y
+
+V.- Las demás que le señalen ésta y otras leyes.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 17.
 
-El Subprocurador contará con los agentes del Ministerio Público Auxiliares y personal administrativo que señale el presupuesto.
+Los Subprocuradores contarán con los agentes del Ministerio Público Auxiliares y personal administrativo que señale el presupuesto.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 18.
 
-El Contralor de Procedimientos, dependerá directamente del Procurador y se integrará con las autoridades y personal que establezca el presupuesto.
+El Contralor Interno dependerá directamente del Titular de la Unidad de la Contraloría Gubernamental, teniendo a su cargo las siguientes funciones:
 
-Tendrá a su cargo las siguientes funciones:
+I.- Recibir y tramitar las quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos a la Procuraduría y resolverlas en acuerdo con el Titular de la Unidad de la Contraloría Gubernamental;
 
-I.- Controlar todos los procedimientos, donde debe intervenir el Ministerio Público, para lo cual podrá auxiliarse de la informática y demás apoyos que permita el presupuesto;
+II.- Supervisar el funcionamiento administrativo de la Procuraduría, ordenar la práctica de auditorias y evaluar el cumplimiento de planes, programas y presupuestos;
 
-II.- Llevar el seguimiento de los asuntos, para que, conforme a la ley, se ventilen sustancial y adjetivamente en el logro de los objetivos de procuración de justicia;
+III.- Llevar el control y custodia de los objetos, instrumentos y efectos materiales del delito; y
 
-III.- Supervisar periódicamente el funcionamiento de las oficinas del Ministerio Público;
+IV.- Las demás que le señalen las disposiciones legales vigentes aplicables.
 
-IV.- Llevar la estadística criminal y de los demás asuntos en que intervenga la Procuraduría;
-
-V.- Vigilar que las acciones del gobierno en términos generales tengan siempre apoyo legal;
-
-VI.- Llevar el archivo de la Procuraduría;
-
-VII.- Llevar el control y custodia de los objetos, instrumentos y efectos materiales del delito;
-
-VIII.- Recibir y tramitar las quejas y denuncias por incumplimiento de las obligaciones de los servidores del Ministerio Público; y
-
-IX.- Las demás que le señale la Ley o el Procurador.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 19.
 
-El Contralor de Procedimientos para el desempeño de sus funciones contará con los subdirectores, jefes de oficina, agentes del Ministerio Público, supervisores y demás personal que autorice el presupuesto.
+El Contralor Interno para el desempeño de sus funciones contará con los agentes del Ministerio Público Auxiliares y el personal administrativo que señale el presupuesto.
 
 ###### ARTICULO 20.
 
@@ -475,7 +503,7 @@ El Director de Administración tendrá las siguientes atribuciones:
 
 I.- Tramitar nombramientos, ascensos, renuncias, remociones, licencias, vacaciones y documentos de identificación del personal de la Procuraduría;
 
-II.- Dotar de los recursos materiales a las distintas oficinas de la Procuraduría, según sus necesidades y posibilidades presupuestales ;
+II.- Dotar de los recursos materiales a las distintas oficinas de la Procuraduría, según sus necesidades y posibilidades presupuestales;
 
 III.- Manejar las partidas correspondientes y administrar los gastos con acuerdo del Procurador;
 
@@ -499,9 +527,13 @@ El Director de Administración, contará para el desempeño de sus atribuciones 
 
 ### CAPITULO V. DE LOS NOMBRAMIENTOS Y REQUISITOS
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 31.
 
-El Procurador General de Justicia será nombrado y removido libremente por el titular del Poder Ejecutivo, de quien dependerá directamente, de conformidad con lo dispuesto por la fracción XII del Artículo 71 de la Constitución Política del Estado de Hidalgo. Deberá residir en el lugar donde tengan su asiento los poderes del Estado.
+El Procurador General de Justicia será nombrado y removido en los términos de la Constitución Política del Estado de Hidalgo.
+
+El Procurador General de Justicia deberá residir en el lugar donde tengan su asentamiento los Poderes del Estado.
 
 ###### ARTICULO 32.
 
@@ -509,23 +541,33 @@ Para ser Procurador General de Justicia se requiere:
 
 I.- Ser Hidalguense en pleno goce de sus derechos;
 
-II.- Haber cumplido 30 años de edad;
+II.- (DEROGADA, P.O. 14 DE AGOSTO DE 1995)
 
 III.- Ser Licenciado en Derecho con titulo legalmente expedido;
 
-IV.- Tener 3 años de ejercicio profesional, cuando menos;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1995)</small>
+
+IV.- Tener cinco años de ejercicio profesional, cuando menos;
 
 V.- Tener modo honesto de vivir; y
 
 VI.- No haber sido condenado por delito doloso o por faltas administrativas.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 33.
 
-El Sub-Procurador, el Contralor de Procedimientos, los Directores y Sub-Directores, serán nombrados y removidos libremente por el Gobernador del Estado, a propuesta del Procurador. El demás personal será nombrado por el Procurador, al igual que el personal honorífico y el que preste su servicio social.
+El Subprocurador General, los Directores y Subdirectores, así como los Agentes del Ministerio Público serán nombrados y removidos por el Procurador con estricta sujeción a las reglas que para tal efecto fije la presente Ley.
+
+El Subprocurador de Asuntos Electorales, será nombrado y removido en los mismos términos que el Procurador General de Justicia.
+
+El Contralor Interno, será nombrado y removido por el titular de la Unidad de Contraloría Gubernamental.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 34.
 
-Para ser Sub-Procurador, Contralor de Procedimientos, Director o Sub-Director de Averiguaciones Previas y de Procesos, se deben reunir los mismos requisitos que para ser Procurador General de Justicia, salvo el de la edad, que deberá ser no menor de 25 años.
+Para ser Subprocurador General, Contralor Interno, Director de Averiguaciones Previas y de Procesos, se deben reunir los mismos requisitos que para ser Procurador General de Justicia a excepción de la práctica profesional que deberá ser de 3 años.
 
 ###### ARTICULO 35.
 
@@ -573,33 +615,35 @@ El Procurador ejercerá autoridad jerárquica sobre todo el personal de la insti
 
 ### CAPITULO VI. DE LA PROTESTA Y SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 44.
 
-El Procurador otorgará la protesta ante el Gobernador y el demás personal ante aquél o ante el Jefe del área que corresponda.
+El Procurador General de Justicia y el Subprocurador de Asuntos Electorales rendirán la protesta ante el Congreso del Estado en los términos de la Constitución Política y el demás personal ante el primero.
 
 ###### ARTICULO 45.
 
 Todos los servidores y empleados de la Procuraduría antes de tomar posesión de sus cargos, rendirán la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 46.
 
 El personal de la Procuraduría será suplido de la siguiente forma:
 
-I.- El Procurador por el Subprocurador;
+I.- El Procurador por el Subprocurador General;
 
-II.- El Sub-Procurador por el Contralor de Procedimientos;
+II.- El Subprocurador General y el Subprocurador de Asuntos Electorales por el Director de Averiguaciones Previas;
 
-III.- El Contralor de Procedimientos por el Director de Averiguaciones Previas;
+III.- El Contralor Interno por quien designe el titular de la unidad de la contraloría gubernamental;
 
-IV.- El Director de Averiguaciones Previas, por el Subdirector o Agente del Ministerio Público Determinador de la 1ª mesa;
+IV.- El Director de Averiguaciones Previas por su Subdirector;
 
-V.- El Director de Procesos, por el Subdirector o por el Agente del Ministerio Público adscrito al juzgado Primero Penal del Distrito Judicial de Pachuca;
+V.- El Director de Procesos por su Subdirector;
 
-VI.- Los Agentes del Ministerio Público, por quienes designe el Procurador; tratándose de los agentes investigadores serán suplidos por la autoridad auxiliar del Ministerio Público que tenga conocimiento de un hecho posiblemente delictuoso, siempre y cuando haya urgencia de actuar inmediatamente;
+VI.- Los agentes del Ministerio Público por quien designe el Procurador; y
 
-VII.- Los Agentes del Ministerio Público Especiales, por quien designe el Procurador; y
-
-VIII.- Los demás servidores por su inmediato inferior jerárquico o por quien designe el Procurador.
+VII.- Los demás servidores públicos por su inmediato inferior jerárquico o por quien designe el Procurador.
 
 ### CAPITULO VII. DE LAS RELACIONES LABORALES CON LOS SERVIDORES Y EMPLEADOS
 
@@ -675,9 +719,13 @@ Todas las autorizaciones de archivo de averiguaciones previas serán notificadas
 
 ### CAPITULO IX. DE LAS RESPONSABILIDADES DE LOS SERVIDORES Y EMPLEADOS DEL MINISTERIO PUBLICO
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 62.
 
-Los servidores y empleados del Ministerio Público son responsables por los delitos y faltas que cometan con motivo de su función o fuera de ésta, en los términos de las leyes penales, de las de responsabilidad de los servidores públicos y de los reglamentos internos.
+Los servidores de la Institución, son responsables por los delitos y faltas que cometan con motivo de su función o fuera de ésta en los términos que dispongan las leyes penales, la de responsabilidades de los servidores públicos y de los reglamentos internos.
+
+Además de las causas previstas en la Constitución Política del Estado, el Procurador General de Justicia sólo podrá ser removido por faltas graves en desempeño de las atribuciones que las leyes le confieren.
 
 ## TRANSITORIOS
 
@@ -706,3 +754,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- Este Código entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 CUARTO.- Se abrogan los capítulos primero y segundo del título cuarto de la Ley Orgánica del Ministerio Público para el Estado de Hidalgo, publicada en el Periódico Oficial de fecha 8 de diciembre de 1980, que contienen el procedimiento de averiguación previa y que permanecen en vigor por disposición del artículo segundo transitorio de la vigente Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial de fecha 8 de febrero de 1988.
+
+P.O. 14 DE AGOSTO DE 1995.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
