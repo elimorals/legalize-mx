@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "2000-06-07"
+last_updated: "2000-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -555,9 +555,11 @@ El Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administra
 
 ### CAPITULO VII. DE LAS VISITAS DE INSPECCION Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
+
 ###### ARTICULO 48.
 
-La Secretaría de Finanzas y Administración del Gobierno del Estado podrá ordenar y practicar visitas de inspección a los establecimientos que se dediquen a las actividades que regula la presente Ley, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los Presidentes Municipales coadyuvarán en el cumplimiento de dicha función, por conducto de los funcionarios que los mismos designen.
+La Secretaría de Finanzas y Administración del Gobierno del Estado podrá ordenar y practicar visitas de inspección a los establecimientos o cualquier otro lugar en donde se desarrollen las actividades que regula la presente ley, independientemente de que cuenten o no con la licencia o permiso correspondientes, para verificar el cumplimiento de las disposiciones legales. En los ámbitos municipales los Presidentes de los HH. Ayuntamientos de los Municipios del Estado, coadyuvarán en el cumplimiento de dicha función, por conducto de los servidores públicos que los propios Ayuntamientos designen.
 
 La Policía Judicial del Estado y los Cuerpos de Seguridad Pública Municipal estarán obligados a prestar el auxilio necesario y a consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta, la que remitirán a la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
@@ -567,15 +569,19 @@ La Policía Judicial del Estado y los Cuerpos de Seguridad Pública Municipal es
 
 La vigilancia, para el cumplimiento de las disposiciones a que esta ley se refiere, estará a cargo de los inspectores que designen la Secretaría de Finanzas y Administración o, en su caso, el Ayuntamiento, quienes para verificar las infracciones se auxiliarán de los agentes de policía judicial del fuero común o de seguridad pública destacamentados en la respectiva localidad.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
+
 ###### ARTICULO 50.
 
-Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos a que esta Ley se refiere, debiendo previamente identificarse ante la persona con quien se entienda la diligencia, con credencial expedida por la Secretaría de Finanzas y Administración del Gobierno del Estado.
+Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos a cualquier otro lugar a que esta Ley se refiere, debiendo previamente identificarse ante la persona con quien se entienda la diligencia, con credencial expedida por la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
-Los permisionarios o encargados de los establecimientos objeto de la inspección estarán obligados a permitir el acceso a los mismos, a dar facilidades e informes a los inspectores, para el desarrollo de su labor.
+Los permisionarios, representantes legales, encargados o cualquiera otra persona que se encuentre en el establecimiento o lugar objeto de la inspección, estarán obligados a permitir el acceso a los mismos, a dar facilidades e informes a los inspectores para el desarrollo de su labor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 51.
 
-La visita de inspección a que se refiere el artículo anterior, se practicará con el titular de la licencia o su representante legal, o en su caso, con quien se encuentre al frente del establecimiento, requiriéndole la presentación de la documentación que a continuación se señala:
+La visita de inspección a que se refiere el artículo anterior, se practicará en el establecimiento o cualquier otro lugar, donde se desarrollen las actividades que regula la presente Ley. Al presentarse los inspectores al lugar en donde deba practicarse la diligencia, entregarán la orden de inspección al destinatario, a su representante legal, o al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, requiriéndole la presentación de la documentación que a continuación se señala:
 
 I.- Original de la licencia o permiso.
 
@@ -954,3 +960,11 @@ P.O. 7 DE JUNIO DE 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2000.
+
+Primero.- El presente decreto entrará en vigor el día 1 enero del año 2000.
+
+Segundo.- Las cuotas que han quedado establecidas en el inciso b), de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche que son objeto de la presente reforma, relativas a cursos de cómputo, renta de equipo de cómputo y arrendamientos en general, entrarán en vigor el 1 de enero de 2001, las restantes cuotas entrarán en vigor el 1 de agosto de 2001.
+
+Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
