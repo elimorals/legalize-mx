@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2004-06-05"
+last_updated: "2004-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -795,7 +795,79 @@ Para la mayor eficacia de las acciones preventivas y de control de accidentes, c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-#### SECCION PRIMERA. Disposiciones Generales
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2004)</small>
+
+#### SECCION CUARTA. De las Enfermedades de la Mujer
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 A.- Es de interés general la prevención y control de las enfermedades graves de la mujer.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 B.- Son enfermedades graves de la mujer el cáncer cérvico uterino y el cáncer de mama.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 C.- Las autoridades sanitarias estatales en coordinación con el Sistema Nacional de Salud ejecutarán un programa permanente que comprenderá estrategias de prevención y tratamiento de las enfermedades graves de la mujer.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 D.- Son estrategias de prevención, la educación y la divulgación del uso obligatorio de la Cartilla Nacional de Salud de la Mujer.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 E.- El Programa Permanente de Prevención y Tratamiento de las Enfermedades Graves de la Mujer deberá desarrollar, entre otras, las siguientes acciones:
+
+I. Difundir las consecuencias de la promiscuidad sexual;
+
+II. Dar a conocer las conveniencias del sexo seguro;
+
+III. Advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas;
+
+IV. Informar de los riesgos de contagio por relaciones sexuales con persona que haya tenido diversa pareja sexual;
+
+V. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolau o cualquier otra que autorice el sector salud;
+
+VI. Difundir las conveniencias de realizar periódicamente el examen clínico de mama;
+
+VII. Divulgar los lugares de servicio gratuito para la práctica de los exámenes señalados en las fracciones V y VI;
+
+VIII. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y la interpretación de las mismas a través del sistema de Bethesda, o cualquier otro que autorice el sector salud;
+
+IX. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama, y el luso de la Cartilla Nacional de Salud de la Mujer;
+
+X. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama; y
+
+XI. Difundir las normas oficiales mexicanas para la Prevención, Tratamiento y Control de Cáncer del Cuello del Útero y de Mama en la atención primaria y vigilar su cumplimiento dentro de su esfera de competencia.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 F.- La divulgación del uso obligatorio de la Cartilla Nacional de Salud de la Mujer será dirigida especialmente a mujeres adolescentes, obreras y campesinas, a través de métodos individuales, sociales o de comunicación masiva.
+
+La educación para la prevención de las enfermedades graves de la mujer deberá contener mensajes dirigidos especialmente a los jóvenes varones respecto a las consecuencias de la sexualidad responsable en la salud de la mujer.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 G.- La coordinación de las acciones y programas para la prevención y control de las enfermedades graves de la mujer correrán por cuenta del titular de la Secretaría de Salud Jalisco.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 H.- La Secretaría de Salud Jalisco vigilará dentro de su competencia que las muestras para la detección del Cáncer Cérvico Uterino sean tomadas preferentemente por personal femenino e interpretadas por médicos capacitados.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 I.- Para la aplicación de exámenes preventivos la Secretaría de Salud Jalisco impulsará que en cada región sanitaria exista cuando menos una clínica debidamente acondicionada con recursos humanos y materiales para la detección y tratamiento temprano del cáncer cérvico uterino y de mama.
+
+En la instalación de clínicas para la mujer se dará preferencia a aquellos lugares donde habiten sectores de más bajos recursos económicos.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 J.- En los lugares donde no existan unidades clínicas del sector público o social, las autoridades de salud estatales realizarán convenios de colaboración con los ayuntamientos, clínicas particulares o patrocinadores del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer cérvico uterino y cáncer de mama, a la población de bajos recursos económicos.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Art. 59 K.- Los prestadores de los servicios de salud del sector público, social y privado deberán solicitar a las mujeres, cada vez que acudan a un servicio de salud, la presentación de la Cartilla Nacional de Salud de la Mujer, y en caso de que no la tengan, tendrán la obligación de entregársela y llenar los datos generales que ahí se indican.
 
 ### CAPITULO IV. De la atención médica
 
@@ -1063,9 +1135,7 @@ El Gobierno del Estado, en coordinación con las dependencias competentes del Ej
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION SEGUNDA. De la comisión de arbitraje médico del Estado de Jalisco
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+#### SECCION PRIMERA. Disposiciones Generales
 
 ###### Art. 85.
 
@@ -1119,7 +1189,9 @@ II. Tarifas inferiores a las determinadas por la Secretaría de Comercio y Fomen
 
 III. Prestación de servicios subrogados de atención médica a población abierta, mediante el pago, por parte del Estado, de un subsidio.
 
-#### SECCION PRIMERA. De los usuarios de los servicios de salud
+#### SECCION SEGUNDA. De la comisión de arbitraje médico del Estado de Jalisco
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 91-A.
 
@@ -1367,7 +1439,7 @@ El Ejecutivo Estatal y los Ayuntamientos podrán convenir con las instituciones 
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
 
-#### SECCION SEGUNDA. De la participación de la comunidad
+#### SECCION PRIMERA. De los usuarios de los servicios de salud
 
 ###### Art. 91.
 
@@ -1377,9 +1449,7 @@ La Secretaría de Salud y Bienestar Social del Estado, en coordinación con la D
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
-#### SECCION PRIMERA. Disposiciones Generales
-
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+#### SECCION SEGUNDA. De la participación de la comunidad
 
 ###### Art. 92.
 
@@ -1423,9 +1493,9 @@ Las personas e instituciones públicas o privadas que tengan conocimiento de acc
 
 De conformidad con las disposiciones legales aplicables, los Agentes del Ministerio Público o quienes ejerzan sus funciones que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
 
-#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
+#### SECCION PRIMERA. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 99.
 
@@ -1495,9 +1565,9 @@ La acción popular podrá ejercitarse por cualquiera persona, bastando para darl
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION TERCERA. Del Registro Estatal de Donadores
+#### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
 
 ###### Art. 104-A.
 
@@ -1683,9 +1753,9 @@ Por cada vocal propietario, se designará a un suplente que lo sustituirá duran
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION CUARTA. De la Participación Social
+#### SECCION TERCERA. Del Registro Estatal de Donadores
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 104-I.
 
@@ -1881,7 +1951,9 @@ Con el objeto de coordinar la participación y colaboración de la sociedad y de
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION PRIMERA. Del servicio social de los pasantes
+#### SECCION CUARTA. De la Participación Social
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
 ###### Art. 104-R.
 
@@ -1889,7 +1961,7 @@ El Patronato para la Donación y el Transplante de Organos y Tejidos, será pres
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1999)</small>
 
-#### SECCION SEGUNDA. Del servicio social profesional
+#### SECCION PRIMERA. Del servicio social de los pasantes
 
 ###### Art. 104-S.
 
@@ -1967,6 +2039,30 @@ La asignación de los premios será determinada por la votación de jurados que 
 
 ### CAPITULO II. Del servicio social de pasantes y profesionales
 
+#### SECCION SEGUNDA. Del servicio social profesional
+
+###### Art. 110.
+
+Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social, en los términos de las disposiciones legales aplicables.
+
+###### Art. 111.
+
+Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorguen las disposiciones que fijen su organización y funcionamiento, y lo que determinen las autoridades educativas competentes.
+
+La operación de los programas en los establecimientos de salud del Estado, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
+
+###### Art. 112.
+
+Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias del estado y las educativas, con la participación que corresponda a otras dependencias competentes.
+
+###### Art. 113.
+
+La prestación del servicio social de los pasantes de las profesiones para la salud se llevará a cabo mediante la participación de los mismos, en las unidades aplicativas del primer nivel de atención, prioritariamente, en áreas urbanas y rurales de menor desarrollo económico y social del Estado.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+
+Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la Organización y operación de los Comités de Salud a que se refiere el Art. 102 de esta Ley.
+
 #### SECCION PRIMERA. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
@@ -1992,32 +2088,6 @@ Art. 126 ter. Como órgano desconcentrado de la Secretaría de Salud Jalisco, se
 El Consejo Estatal Para la Prevención de las Adicciones a través de la Secretaría, podrá establecer convenios de colaboración con los municipios de Jalisco para la instalación de consejos municipales contra las adicciones.
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
-
-###### Art. 110.
-
-Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social, en los términos de las disposiciones legales aplicables.
-
-###### Art. 111.
-
-Los aspectos docentes de la prestación del servicio social se regularán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorguen las disposiciones que fijen su organización y funcionamiento, y lo que determinen las autoridades educativas competentes.
-
-La operación de los programas en los establecimientos de salud del Estado, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias estatales.
-
-###### Art. 112.
-
-Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias del estado y las educativas, con la participación que corresponda a otras dependencias competentes.
-
-###### Art. 113.
-
-La prestación del servicio social de los pasantes de las profesiones para la salud se llevará a cabo mediante la participación de los mismos, en las unidades aplicativas del primer nivel de atención, prioritariamente, en áreas urbanas y rurales de menor desarrollo económico y social del Estado.
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
-
-Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de la salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la Organización y operación de los Comités de Salud a que se refiere el Art. 102 de esta Ley.
-
-#### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 114.
 
@@ -2159,11 +2229,11 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
+#### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 #### SECCION TERCERA. Del programa para la prevención del tabaquismo
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
-
-#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2189,7 +2259,9 @@ Con el objeto de proteger la salud de las personas no fumadoras de los efectos d
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-#### SECCION PRIMERA. Definición
+#### SECCION CUARTA. Del programa para la prevención de la farmacodependencia
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 129.
 
@@ -2211,7 +2283,7 @@ El Consejo Estatal para la Prevención de Adicciones, y las autoridades sanitari
 
 Las autoridades jurisdiccionales y administrativas del Gobierno del Estado darán apoyo institucional para propiciar la reinserción social integral de los adictos rehabilitados.
 
-#### SECCION SEGUNDA. Clasificación
+#### SECCION PRIMERA. Definición
 
 ###### Art. 130.
 
@@ -2227,9 +2299,7 @@ IV. Promover y llevar a cabo campañas permanentes de información y orientació
 
 A los establecimientos que vendan o utilicen substancias inhalantes que no se ajusten al control que disponga el Gobierno Estatal y los Ayuntamientos, así como los responsables de los mismos, se les aplicarán las sanciones administrativas (sic) correspondan en los términos de esta Ley.
 
-#### SECCION TERCERA. Disposiciones comunes
-
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
+#### SECCION SEGUNDA. Clasificación
 
 ## TITULO OCTAVO
 
@@ -2795,7 +2865,9 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 ### CAPITULO I. De las autorizaciones
 
-#### SECCION PRIMERA. Causas de revocación
+#### SECCION TERCERA. Disposiciones comunes
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
 
 ###### Art. 200.
 
@@ -2803,7 +2875,7 @@ Las autorizaciones sanitarias son actos administrativos mediante los cuales la a
 
 Las autorizaciones sanitarias tendrán el carácter de licencias, permisos y tarjetas de control sanitario, en su caso.
 
-#### SECCION SEGUNDA. Del procedimiento para la revocación
+#### SECCION PRIMERA. Causas de revocación
 
 ###### Art. 201.
 
@@ -2816,6 +2888,8 @@ II. Permiso: El documento expedido por la autoridad sanitaria para que una perso
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
 
 III. Tarjeta de control sanitario: La autorización expedida por la Secretaría de Salud y Bienestar Social del Estado a aquella persona que, por su trabajo o actividad, pudiere propagar alguna de las enfermedades transmisibles a que se refieren los Arts. 134 de la Ley General de Salud y 40 de esta Ley.
+
+#### SECCION SEGUNDA. Del procedimiento para la revocación
 
 ###### Art. 202.
 
@@ -3554,3 +3628,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 5 DE JUNIO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JUNIO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad con lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
