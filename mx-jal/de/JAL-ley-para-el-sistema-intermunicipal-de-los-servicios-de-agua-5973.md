@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-sistema-intermunicipal-de-los-servicios-de-agua-597
 country: "mx"
 rank: "ley"
 publication_date: "1978-04-20"
-last_updated: "1996-01-06"
+last_updated: "1996-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE LA ZONA METROPOLITANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL 9 DE MAYO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 20 de abril de 1978.
 
@@ -323,23 +323,19 @@ V. Instalar tomas domiciliarias y medidores para el servicio de agua potable y e
 
 VI. Las demás relacionadas con operación y mantenimiento de los servicios que le correspondan, y las que le sean delegadas por el Consejo de Administración del "Sistema", o por su Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 1996)</small>
 
 ###### Artículo 12.
 
-Son funciones de la Gerencia de Calificación y Control;
+Son funciones de la Gerencia Comercial:
 
 I. Integrar, conservar y controlar el sistema de registro de los usuarios, con base en técnicas de cartografía, investigación, padrones y otros sistemas que se juzguen convenientes;
 
-II. Aplicar a los usuarios, las disposiciones tarifarias de acuerdo a las características de los predios y los usos de los mismos y los procedimientos de cobranzas adecuados;
+II. Aplicar a los usuarios, las disposiciones tarifarias de acuerdo a las características de los predios y los usos de los mismos y los procedimientos de cobranza adecuados, de conformidad con la Ley de Ingresos respectiva;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
+III. Tramitar y resolver lo que le corresponda y las que específicamente, se le atribuyen (sic) en el reglamento o reglamentos que al efecto se expidan; y
 
-III. Tramitar y resolver lo que le corresponda y las que, específicamente se le atribuyan en el reglamento o reglamentos que al efecto se expidan; y
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 1983)</small>
-
-IV. Además todas aquellas que, desde el punto de vista técnica le correspondan y las que le sean delegadas por el Consejo de Administración del "Sistema" o por su Director General.
+IV. Además todas aquellas que desde el punto de vista técnico le correspondan y las que le sean delegadas por el Consejo de Administración del "Sistema" o por su Director General.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 1996)</small>
 
@@ -552,3 +548,11 @@ Unico.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 6 DE ENERO DE 1996
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 9 DE MAYO DE 1996
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Jalisco".
+
+P.O. 9 DE MAYO DE 1996
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Jalisco".
