@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1968-12-18"
+last_updated: "1970-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 1968.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 1970.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -137,7 +137,9 @@ Sólo los vecinos de nacionalidad mexicana, tendrán derecho a servir los cargos
 
 Son obligaciones de los vecinos del Estado:
 
-I. Inscribirse en los padrones de los impuestos o de los servicios que determinen las leyes, en el transcurso del séptimo mes de su residencia o al hacer la manifestación a que se refiere la fracción II del artículo 21 de la presente Constitución;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+I.- Inscribirse en los padrones de los impuestos o de los servicios en la forma y términos que determinen las Leyes.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -561,9 +563,9 @@ XI.- Erigirse en Colegio Electoral para nombrar Gobernador substituto en los cas
 
 Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y ceses de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura, la que la otorgará o negará dentro del término improrrogable de diez días para los primeros, y de dos días hábiles para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados los nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el ciudadano Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego y que será sometido a la aprobación de la Cámara en el siguiente período de sesiones; en este período, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado o Juez nombrado continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento cesará desde luego en sus funciones el Magistrado o Juez provisional, y el ciudadano Gobernador someterá nuevo nombramiento a la aprobación de la Cámara en los términos señalados. En los casos de faltas temporales por más de tres meses, de los Magistrados o Jueces, o en las definitivas por defunción; renuncia o incapacidad, el Gobernador someterá un nuevo nombramiento a la aprobación de la Legislatura y si ésta no estuviese en sesiones, a la Comisión Permanente, quien dará su aprobación provisional mientras se reúne aquélla y da la aprobación definitiva.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
-XI Bis- Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, y los nombramientos y cese de los Jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura la que la otorgará o negará dentro del término improrrogable de diez días hábiles para los primeros, y de dos para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados tales nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador.
+XI. Bis.- Los nombramientos de Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal del Estado y los nombramientos y ceses de los jueces de Primera Instancia, serán hechos por el Gobernador del Estado y sometidos a la aprobación de la Legislatura la que la otorgará o negará dentro del término improrrogable de diez días hábiles para los primeros, y de dos para los segundos. Si la Cámara no resolviere dentro de dicho término se tendrán por aprobados tales nombramientos y ceses. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados designados por el Gobernador.
 
 Los casos especiales de nombramientos y cese se resolverán de acuerdo con lo previsto en los incisos siguientes:
 
@@ -589,17 +591,19 @@ Uno de los Secretarios de la Legislatura interrogará:
 
 XIII. Nombrar y remover a los empleados de su Secretaría y a los de la Contaduría General de Glosa;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
-XIV.- Resolver sobre las renuncias de sus propios miembros del Gobernador, de los Magistrados del Tribunal Superior de Justicia y de los Jueces de Primera Instancia.
+XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, de los Magistrados del Tribunal Fiscal del Estado y de los Jueces de Primera Instancia.
 
-(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)(F. DE E. 27 DE DICIEMBRE DE 1941)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
-XV.- Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
+XV.- Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Fiscal del Estado y a los Jueces de Primera Instancia.
 
 XVI.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
 
-XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+XVII.- Decretar anualmente, a iniciativa de Ejecutivo, los gastos del Estado e imponer para cubrirlos las contribuciones necesarias;
 
 XVIII. Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones;
 
@@ -843,9 +847,9 @@ XI.- Solicitar de la Legislatura Local, o, en su caso, de la Diputación Permane
 
 XII.- Todas las demás que sean propias de la Autoridad Pública del Gobierno del Estado, y que no estén expresamente asignadas por esta Constitución a los otros Poderes del mismo Gobierno o a las Autoridades de los Municipios.
 
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
-XIII.- Rectificar en todo tiempo, los valores con que aparezcan registradas las propiedades raíces, rústicas y urbanas.
+XIII.- Ordenar la modificación de los planos, tablas o cuadros de valores, para la tierra o para la construcción, cuando las condiciones de la zona de que se trate o un sector de ésta lo ameriten, en razón de los movimientos de los valores comerciales. Tales modificaciones deberán ajustarse al procedimiento establecido por las Leyes relativas para la determinación de valores unitarios.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1141,6 +1145,10 @@ XI. Remover a los Jueces, acordar su traslado a otro Distrito Judicial, cuando a
 
 XII.- Nombrar a todos los funcionarios y empleados del Ramo Judicial, a propuesta de los Titulares de las dependencias correspondientes y removerlos cuando a juicio del Tribunal hubiere causa motivada.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+XIII.- Conocer de los demás asuntos que le confieran las leyes.
+
 ###### Art. 110.
 
 Corresponde a las Salas del Tribunal Superior de Justicia:
@@ -1244,6 +1252,10 @@ El Tribunal Superior de Justicia se compondrá de seis Magistrados numerarios y 
 ###### Art. 100.
 
 Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo Colegiado que se denominará Tribunal Superior de Justicia y en los Jueces de primera Instancia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+
+Las Leyes del Estado podrán instituir Tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estadual o Municipal y los Particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y las demás instituciones jurídicas necesarias para proveer el alcance de sus objetivos.
 
 #### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
@@ -2164,3 +2176,9 @@ Artículo Transitorio.- Este Decreto entrará en vigor a partir de la fecha de s
 G.G. 18 DE DICIEMBRE DE 1968.
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE DICIEMBRE DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
