@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1944-04-15"
+last_updated: "1944-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1944.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -813,9 +813,11 @@ Cada parte será inmediatamente responsable de las costas que originen las dilig
 
 Los abogados extranjeros no podrán cobrar costas, sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen en el ejercicio de la abogacía.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 1944)</small>
+
 ###### Artículo 141.
 
-La condenación en costas se hará cuando así lo prevenga la ley, o cuando, a juicio del juez, se haya procedido con temeridad o mala fe.
+La condenación en costas se hará cuando así lo prevenga la Ley, o cuando, a juicio del Juez, se haya procedido con temeridad o mala fé.
 
 Siempre serán condenados:
 
@@ -823,7 +825,9 @@ I. El que ninguna prueba rinda para justificar su acción o su excepción, si se
 
 II. El que presentare instrumentos o documentos falsos o testigos falsos o sobornados;
 
-III. El que fuere condenado por dos sentencias conformes de toda conformidad de su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias.
+III. El que fuere condenado totalmente en los juicios ejecutivo, hipotecario, en los interdictos de retener y recuperar, y el que intente alguno de estos juicios si no obtiene sentencia favorable. En estos casos la condenación se hará en la primera instancia, observándose en la segunda lo dispuesto en la fracoión (sic) siguiente;
+
+IV. El que fuere condenado por dos sentencias conformes de toda conformidad de su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias.
 
 ###### Artículo 142.
 
@@ -6352,3 +6356,7 @@ Artículo Segundo.- Los juicios sumarios de desocupación por terminación de co
 Artículo Tercero.- Quedan congeladas las rentas de fincas urbanas para habitación por el tiempo que dure el estado actual de guerra y en los términos que regían a la fecha de la publicación del presente decreto.
 
 Artículo Cuarto.- Este decreto empezará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 1944.
+
+UNICO. El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
